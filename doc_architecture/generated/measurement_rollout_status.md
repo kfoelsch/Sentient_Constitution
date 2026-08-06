@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-08-05T13:26:21+00:00
+Generated: 2026-08-06T04:33:34+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **210/211** terms pass tier audit.
+Approved progress: **209/210** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -119,9 +119,8 @@ Approved progress: **210/211** terms pass tier audit.
 | Procedural Fairness | approved | primary_secondary | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Protected Characteristic Proxying and Disparate Impact | approved | full | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Protected Characteristics | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
-| Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Protected Internal-State Boundary | approved | primary_secondary | — | `core_05_band_continuity.md` | no | fail |
-| Protected Intimate-Signal Gating | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
+| Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Refuge from Non-Compliance | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Reproductive Autonomy | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Self-Determination | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |

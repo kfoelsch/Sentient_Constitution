@@ -723,7 +723,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (bodily autonomy and dignity read-with **Article VII-A** (*Self-Ownership of Body and Mind*) / X-C stack).
 - Owner floors: [Article VII-A](core_06-06_rights_part_b.md#article-vii-a-bodily-autonomy-and-non-intrusion) (*bodily autonomy and non-intrusion*) and [Article X-C](core_06-06_rights_part_b.md#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation) (*adult consensual commercial sexual services and sexual exploitation*).
 - Cluster component: [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05_band_participation.md#agency-consent-and-anti-coercion-semi-independent)*.
-- Read with: [Consent](core_05_band_participation.md#consent-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Dependency](core_05_band_continuity.md#dependency), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Bodily Integrity](core_06-06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind), and [Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention](core_05_band_participation.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention).
+- Read with: [Consent](core_05_band_participation.md#consent-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Dependency](core_05_band_continuity.md#dependency), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Bodily Integrity](core_06-06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind), and [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention).
 
 </details>
 
@@ -838,7 +838,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 **Chapter One §2.1 routing map:**
 - [Chapter One §8.1.1 Access and Opportunity](core_01_a_values_principles.md#311-access-and-opportunity) routes primarily through [Accessibility](core_05_band_participation.md#accessibility-constitutional) and [Participation](core_05_apex_participation_leg.md#participation-constitutional).
-- [Chapter One §8.1.2 Fair Treatment](core_01_a_values_principles.md#312-fair-treatment) routes through [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Protected Intimate-Signal Gating](core_05_band_participation.md#protected-intimate-signal-gating), and [Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention](core_05_band_participation.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention).
+- [Chapter One §8.1.2 Fair Treatment](core_01_a_values_principles.md#312-fair-treatment) routes through [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), and [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention).
 - [Chapter One §8.1.3 Benefits and Burdens](core_01_a_values_principles.md#313-benefits-and-burdens) routes through [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
 
 **Topic group members.** This group comprises:
@@ -846,8 +846,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 - [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) — meaningful process for rights-affecting decisions.
 - [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) — traits that must not serve as bases for invidious disadvantage.
 - [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) — facially neutral rules that replicate prohibited discrimination.
-- [Protected Intimate-Signal Gating](core_05_band_participation.md#protected-intimate-signal-gating) — restricts use of intimate media and sexual history for gating decisions.
-- [Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention](core_05_band_participation.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention) — prevents circumvention of **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) decriminalization protections.
+- [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention) — restricts intimate-signal and **Article X-C** status uses for gating, and blocks circumvention of the decriminalization floor.
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -870,24 +869,46 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 *In plain terms: look at real outcomes — do comparable sentients get comparable treatment on benefits, burdens, protection, and access, or is someone getting a worse deal without a constitutionally sufficient reason?*
 
 - **What it is**
-  - **In scope:** The outcome-focused constitutional discipline requiring materially comparable sentients, claims, risks, and burdens to be treated without arbitrary, invidious, pretextual, or unjustified disadvantage, and requiring distribution of benefits, burdens, protection, and access to remain consistent with dignity, equality, and applicable Rights-Floor constraints.
+  - **In scope:** The outcome-focused constitutional discipline requiring:
+    - materially comparable sentients, claims, risks, and burdens to be treated without arbitrary, invidious, pretextual, or unjustified disadvantage; and
+    - distribution of benefits, burdens, protection, and access to remain consistent with dignity, equality, and applicable Rights-Floor constraints.
   - **Out of scope:** a process that looks fair on paper while outcomes remain arbitrarily unequal — that is procedural packaging, not substantive fairness.
 <a id="substantive-fairness-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether comparable sentients face comparable outcomes on benefits, burdens, protection, and access — not only whether the labels look fair.
 
-    **Primary assessment:** Evaluate real-world effects, not merely formal classifications. Detect disparate impact, proxy discrimination, burden shifting, hidden cost-shifting, favoritism, selective enforcement, exclusion by cost or convenience, and Rights-Floor degradation hidden behind neutral language.
+    **Primary assessment:** Evaluate real-world effects, not merely formal classifications. Detect:
+    - disparate impact;
+    - proxy discrimination;
+    - burden shifting;
+    - hidden cost-shifting;
+    - favoritism;
+    - selective enforcement;
+    - exclusion by cost or convenience; and
+    - Rights-Floor degradation hidden behind neutral language.
   - **Secondary measure:** [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Materiality Determination](core_05_band_oversight.md#materiality-determination), and [Meaningful Agency](core_05_band_participation.md#meaningful-agency) — co-measures that can defeat fairness even when formal classifications appear neutral.
 
-    **Secondary assessment:** When evaluating the primary trace, compare like cases in light of dependency, material impact, protected characteristics, [Necessity](core_05_band_accountability.md#necessity), and [Proportionality](core_05_band_accountability.md#proportionality).
+    **Secondary assessment:** When evaluating the primary trace, compare like cases in light of:
+    - dependency;
+    - material impact;
+    - protected characteristics;
+    - [Necessity](core_05_band_accountability.md#necessity); and
+    - [Proportionality](core_05_band_accountability.md#proportionality).
   - **Tertiary measure:** [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — where aggregate metrics, rankings, or compliance indicators substitute for comparable treatment of materially comparable sentients.
 
-    **Tertiary assessment:** Where aggregate metrics, rankings, or compliance indicators are material, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — distinguish durable fairness from indicator gaming.
+    **Tertiary assessment:** Where operators rely on those indicators, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — distinguish durable fairness from indicator gaming.
 <a id="substantive-fairness-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** formally neutral or procedurally polished arrangements that materially allocate worse burdens, lower access, reduced protection, or inferior standing to comparable sentients without constitutionally sufficient justification.
-  - **Secondary failure:** favoritism, selective enforcement, or hidden cost-shifting that concentrates gains on some sentients while others absorb comparable costs without justification.
-  - **Tertiary failure:** treating proxy or aggregate satisfaction as dispositive where [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
+  - **Primary failure:** formally neutral or procedurally polished arrangements that materially allocate to comparable sentients, without constitutionally sufficient justification:
+    - worse burdens;
+    - lower access;
+    - reduced protection; or
+    - inferior standing.
+  - **Secondary failure:** any of the following that concentrates gains on some sentients while others absorb comparable costs without justification:
+    - favoritism;
+    - selective enforcement; or
+    - hidden cost-shifting.
+  - **Tertiary failure:** treating a good-looking score, ranking, or average as proof of fairness when [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
 
 ---
 
@@ -908,20 +929,51 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 *In plain terms: when a decision affects someone's rights, they get real notice, real reasons, a real chance to be heard, and a real way to challenge or correct it — not theater.*
 
 - **What it is**
-  - **In scope:** The process-focused constitutional discipline requiring meaningful notice, intelligible reasons, impartial or appropriately independent review, opportunity to be heard, access to relevant evidence where required, proportional timing, and functional challenge or correction pathways before or after material rights-affecting decisions as the governing context requires.
+  - **In scope:** The process-focused constitutional discipline requiring, for material rights-affecting decisions as the governing context requires:
+    - meaningful notice;
+    - intelligible reasons;
+    - impartial or appropriately independent review;
+    - opportunity to be heard;
+    - access to relevant evidence where required;
+    - proportional timing; and
+    - functional challenge or correction pathways before or after the decision.
   - **Out of scope:** equal outcomes alone, or courtesy without real notice, reasons, and a chance to be heard.
 <a id="procedural-fairness-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether affected parties can understand, contest, and obtain review of the decision in practice — not only whether steps exist on paper.
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether affected parties can do the following in practice — not only whether steps exist on paper:
+    - understand the decision;
+    - contest it; and
+    - obtain review.
 
-    **Primary assessment:** Assess whether procedure lets affected parties understand, contest, and obtain review of the decision in practice.
+    **Primary assessment:** Assess whether those capacities hold in practice for the decision at issue.
   - **Secondary measure:** [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Contestability](core_05_band_accountability.md#contestability), [Due Process](core_05_band_accountability.md#due-process-constitutional), and [Auditability](core_05_band_oversight.md#auditability) — co-measures that can defeat process even when formal steps exist.
 
-    **Secondary assessment:** When evaluating the primary trace, scale process to material impact, urgency, dependency, risk, and reversibility. Emergency or feasibility limits may modify timing or form only to the extent justified and must preserve later review, reasons, and restoration where required.
+    **Secondary assessment:** When evaluating the primary trace, scale process to:
+    - material impact;
+    - urgency;
+    - dependency;
+    - risk; and
+    - reversibility.
+
+    Emergency or feasibility limits may modify timing or form only to the extent justified. Where those limits apply, preserve as required:
+    - later review;
+    - reasons; and
+    - restoration.
 <a id="procedural-fairness-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** secret, biased, inaccessible, reasonless, non-reviewable, or purely symbolic process for material decisions.
-  - **Secondary failure:** using emergency, automation, delegation, private ordering, or technical complexity to defeat required notice, hearing, review, or correction.
+  - **Primary failure:** process for material decisions that is:
+    - secret;
+    - biased;
+    - inaccessible;
+    - reasonless;
+    - non-reviewable; or
+    - purely symbolic.
+  - **Secondary failure:** using any of the following to defeat required notice, hearing, review, or correction:
+    - emergency;
+    - automation;
+    - delegation;
+    - private ordering; or
+    - technical complexity.
 
 ---
 
@@ -934,7 +986,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 - Upstream: Principles: [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness) — especially [Chapter One §8.1.2 Fair Treatment](core_01_a_values_principles.md#312-fair-treatment).
 - Downstream: Participation measurement family (*Fairness, access, and agency as constitutional measurement*); Principles: [Article V-B: Nondiscrimination](core_06-06_rights_part_b.md#article-v-b-nondiscrimination).
 - Cluster component: [the dependent cluster *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- Read with: [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention](core_05_band_participation.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), and [Materiality Determination](core_05_band_oversight.md#materiality-determination).
+- Read with: [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), and [Materiality Determination](core_05_band_oversight.md#materiality-determination).
 </details>
 
 <br>
@@ -942,24 +994,56 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 *In plain terms: you cannot dodge nondiscrimination by using a "neutral" rule, correlate, or model feature that still systematically disadvantages protected groups.*
 
 - **What it is**
-  - **In scope:** Invidious differentiation operating through facially neutral rules, correlates, model features, or other functional equivalents rather than through express naming of a protected trait — including algorithmic or institutional replication of historical disadvantage, neutral-form licensing, zoning, fee, platform, or comparable rules that mainly burden lawful work, lawful work history, perceived lawful work, lack of employment, or protected association without constitutionally sufficient justification, and systematic skew affecting demographically identifiable groups.
-  - **Out of scope:** express naming of a protected trait, or a weak accidental correlation without systematic disadvantaging effect.
+  - **In scope:** Unfair treatment that runs through rules that look neutral on paper — not through openly naming a protected trait — including:
+    - neutral-looking rules, stand-in factors, model inputs, or other substitutes that do the same work;
+    - algorithms or institutions that recreate historical patterns of disadvantage;
+    - licensing, zoning, fees, platform rules, or comparable requirements that look neutral but mainly burden, without a constitutionally sufficient reason:
+      - lawful work;
+      - lawful work history;
+      - perceived lawful work;
+      - lack of employment; or
+      - protected association; and
+    - patterns that systematically hit identifiable groups harder.
+  - **Out of scope:**
+    - express naming of a protected trait; or
+    - a weak accidental correlation without systematic disadvantaging effect.
 <a id="protected-characteristic-proxying-and-disparate-impact-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether facially neutral rules, correlates, or model features systematically disadvantage protected groups — not only whether a protected trait is named.
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether any of the following systematically disadvantage protected groups — not only whether a protected trait is named:
+    - neutral-looking rules;
+    - stand-in factors; or
+    - model inputs.
 
-    **Primary assessment:** Detect disparate impact, pretextual neutrality, proxy discrimination through correlates or model features, and replication of historical disadvantage. Do not treat the absence of an expressly named trait as sufficient where observable group-pattern effects or functional equivalents indicate protected-status burdening.
+    **Primary assessment:** Detect:
+    - disparate impact;
+    - pretextual neutrality;
+    - proxy discrimination through correlates or model features; and
+    - replication of historical disadvantage.
+    Do not treat the absence of an expressly named trait as sufficient where observable group-pattern effects or functional equivalents indicate protected-status burdening.
   - **Secondary measure:** [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), and [Materiality Determination](core_05_band_oversight.md#materiality-determination) — co-measures that scale nondiscrimination obligations.
 
-    **Secondary assessment:** When evaluating the primary trace, detect neutral-form licensing, zoning, fee, platform, or comparable rules that mainly burden lawful work or protected association without constitutionally sufficient justification — read with [Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention](core_05_band_participation.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention) where **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*)-protected conduct is implicated.
-  - **Tertiary measure:** [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — where neutral-form rules, model features, or correlates substitute for protected-trait analysis.
+    **Secondary assessment:** When evaluating the primary trace, detect neutral-form rules that mainly burden lawful work or protected association without constitutionally sufficient justification, including:
+    - licensing;
+    - zoning;
+    - fees;
+    - platform rules; or
+    - comparable rules.
+
+    When **Article X-C**-protected conduct is implicated, read with [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention).
+  - **Tertiary measure:** [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — where any of the following substitutes for protected-trait analysis:
+    - neutral-form rules;
+    - model features; or
+    - correlates.
 
     **Tertiary assessment:** Where operators rely on facial neutrality or model opacity, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — distinguish durable nondiscrimination from correlate-based evasion.
 <a id="protected-characteristic-proxying-and-disparate-impact-c"></a>
 - **What must hold**
-  - **Primary failure:** structuring systems so that materially comparable sentients systematically receive worse burdens, lower participation status without adequate cause, or fewer benefits without adequate justification.
+  - **Primary failure:** building systems so that comparable sentients keep getting, without a good enough reason:
+    - worse burdens;
+    - lower participation status; or
+    - fewer benefits.
   - **Secondary failure:** pretextual neutrality or proxy features that replicate historical disadvantage contrary to [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) and **Article V-B** (*Nondiscrimination*).
-  - **Tertiary failure:** treating absence of expressly named traits as dispositive where [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
+  - **Tertiary failure:** treating “we didn’t name a protected trait” as proof of nondiscrimination when [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
 
 ---
 
@@ -972,7 +1056,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 - Upstream: Principles: [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness) — especially [Chapter One §8.1.2 Fair Treatment](core_01_a_values_principles.md#312-fair-treatment).
 - Downstream: Principles: [Article V-B: Nondiscrimination](core_06-06_rights_part_b.md#article-v-b-nondiscrimination).
 - Cluster component: [the dependent cluster *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- Read with: [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Protected Intimate-Signal Gating](core_05_band_participation.md#protected-intimate-signal-gating), [Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention](core_05_band_participation.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Necessity](core_05_band_accountability.md#necessity), and [Proportionality](core_05_band_accountability.md#proportionality).
+- Read with: [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Necessity](core_05_band_accountability.md#necessity), and [Proportionality](core_05_band_accountability.md#proportionality).
 </details>
 
 <br>
@@ -986,91 +1070,126 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - degradation of [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing);
     - denial of rights Chapter Six guarantees for survival-critical resources and for equal inclusion in adjudication and operations.
 
-    Justification must satisfy [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional). Intimate-history or intimate-media signals may be used only where a documented, materially specific safeguarding, security, or comparable legal duty makes them necessary, evaluated under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality); use the least intrusive verified means and preserve [Contestability](core_05_band_accountability.md#contestability). Do not use those signals as a default for employment, standing, reputation scoring, or broad social inference.
+    Justification must satisfy:
+    - [Necessity](core_05_band_accountability.md#necessity);
+    - [Proportionality](core_05_band_accountability.md#proportionality); and
+    - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
 
-    Illustrative categories (non-exhaustive): <a id="protected-characteristics-measurements"></a>
-    - substrate, embodiment, or architecture class (including organic, synthetic, or digital origin); species or lineage where used as a proxy for worth or capacity;
-    - disability, health status, or variation in sensory, cognitive, or functional capability; age or life stage;
-    - sex, gender, gender identity, gender expression, sexual orientation, intimate affiliation, or relational identity;
-    - reproductive status, pregnancy, or caregiving status;
-    - private intimate or sexual conduct or history — including consensual private sexual conduct between adults; such conduct must not be used as a ground for material disadvantage, exclusion, or comparable discrimination against individuals, groups, or institutions, absent the justification discipline above;
-    - present or past voluntary engagement in commercial sexual services between adults within the decriminalization floor stated in **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*); perceived engagement where that perception functions in context as a proxy for the foregoing;
-    - appearance in intimate media, non-consensual intimate imagery, or synthetic intimate depictions credibly presented as authentic regarding a sentient;
-    - race, ethnicity, national or social origin, caste or analogous inherited rank, culture, language, or religion or comparable worldview;
-    - military, constabulary, or analogous public service;
-    - veteran or equivalent status, and discharge, separation, or release classification;
-    - lawful employment, employment history, lawful work status, lack of employment, or protected association;
-    - economic, property, or social station when used to foreclose Rights-Floor minimums or equitable opportunity;
-    - any other trait or correlate that functions in context as an invidious proxy, consistent with [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) and [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) requirements.
+    Intimate-history or intimate-media signals may be used only where a documented, materially specific safeguarding, security, or comparable legal duty makes them necessary, evaluated under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality). Where used:
+    - use the least intrusive verified means; and
+    - preserve [Contestability](core_05_band_accountability.md#contestability).
+
+    Do not use those signals as a default for:
+    - employment;
+    - standing;
+    - reputation scoring; or
+    - broad social inference.
+
+    Illustrative categories (non-exhaustive) — groupings are navigational only and do not rank protection: <a id="protected-characteristics-measurements"></a>
+    - **Embodiment and capability:**
+      - substrate, embodiment, or architecture class (including organic, synthetic, or digital origin);
+      - species or lineage where used as a proxy for worth or capacity;
+      - disability, health status, or variation in sensory, cognitive, or functional capability; and
+      - age or life stage.
+    - **Sex, gender, intimacy, and care:**
+      - sex, gender, gender identity, gender expression, sexual orientation, intimate affiliation, or relational identity;
+      - reproductive status, pregnancy, or caregiving status;
+      - private intimate or sexual conduct or history — including consensual private sexual conduct between adults; where used for gating, read with [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention);
+      - present or past voluntary engagement in commercial sexual services between adults within the **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) decriminalization floor — including perceived engagement as a proxy; read with [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention); and
+      - appearance in intimate media, non-consensual intimate imagery, or synthetic intimate depictions credibly presented as authentic regarding a sentient.
+    - **Ancestry, culture, and worldview:**
+      - race, ethnicity, national or social origin, or caste or analogous inherited rank;
+      - culture or language; and
+      - religion or comparable worldview.
+    - **Service and work status:**
+      - military, constabulary, or analogous public service;
+      - veteran or equivalent status, and discharge, separation, or release classification; and
+      - lawful employment, employment history, lawful work status, lack of employment, or protected association.
+    - **Economic and social station:** economic, property, or social station when used to foreclose Rights-Floor minimums or equitable opportunity.
+    - **Open texture:** any other trait or correlate that functions in context as an invidious proxy, consistent with [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) and [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) requirements.
   - **Out of scope:** justified role or safety qualifications that do not use a trait as an invidious basis for exclusion; exploitation, trafficking, lack of [Consent, Sexual](core_05_band_participation.md#consent-sexual), or other independent harm predicates outside consensual adult private sexual conduct.
 <a id="protected-characteristics-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether a protected characteristic or functional equivalent is being used to disadvantage, exclude, or deny rights — including through "neutral" rules or intimate-signal gates.
 
-    **Primary assessment:** Detect disparate impact, pretextual "neutral" rules, proxy discrimination, high-salience [Protected Intimate-Signal Gating](core_05_band_participation.md#protected-intimate-signal-gating), and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) status or circumvention risks. Detect punishment, exclusion, or access denial **mainly because** of lawful employment, employment history, lawful work status, lack of employment, protected association, or consensual private adult sexual conduct or history — including disadvantage aimed at individuals, groups, or institutions on that ground — without constitutionally sufficient justification. Systematic skew affecting demographically identifiable groups triggers [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) analysis even where a trait is not expressly named. Read with [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Protected Intimate-Signal Gating](core_05_band_participation.md#protected-intimate-signal-gating), and [Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention](core_05_band_participation.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention).
+    **Primary assessment:** Detect:
+    - disparate impact;
+    - pretextual "neutral" rules;
+    - proxy discrimination; and
+    - high-salience [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention) risks.
+
+    Detect punishment, exclusion, or access denial **mainly because** of any of the following — including disadvantage aimed at individuals, groups, or institutions on that ground — without constitutionally sufficient justification:
+    - lawful employment;
+    - employment history;
+    - lawful work status;
+    - lack of employment;
+    - protected association; or
+    - consensual private adult sexual conduct or history.
+
+    Systematic skew affecting demographically identifiable groups triggers [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) analysis even where a trait is not expressly named.
+
+    Read with [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) and [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention).
 <a id="protected-characteristics-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** using a protected characteristic or a functional equivalent as a ground for invidious discrimination; unjustified systematic worsening of burdens, standing, or benefits for materially comparable sentients; denying jobs, housing, banking, licenses, standing, venue or association access, or comparable access **mainly because** of lawful employment, employment history, lawful work status, lack of employment, protected association, or consensual private adult sexual conduct or history — including against individuals, groups, or institutions — without constitutionally sufficient justification. Read with the linked protected-status definitions.
+  - **Primary failure:**
+    - using a protected characteristic or a close stand-in as a basis for unfair discrimination;
+    - making comparable sentients systematically worse off on burdens, standing, or benefits without a strong, valid reason; or
+    - shutting people, groups, or institutions out of:
+      - jobs;
+      - housing;
+      - banking;
+      - licenses;
+      - standing;
+      - venue or association access; or
+      - comparable access
+      without a strong, valid reason, when the main reason is:
+        - lawful employment;
+        - employment history;
+        - lawful work status;
+        - lack of employment;
+        - protected association; or
+        - consensual private adult sexual conduct or history.
 
----
-
-<a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention"></a>
-
-#### Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floors: [Article X-C](core_06-06_rights_part_b.md#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation) (*adult consensual commercial sexual services and sexual exploitation*); **corpus_institutions.md CI-15** (*Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface*) anti-circumvention routing where cited.
-- Upstream: Principles: [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness) — especially [Chapter One §8.1.2 Fair Treatment](core_01_a_values_principles.md#312-fair-treatment).
-- Cluster component: [the dependent cluster *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- Read with: [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Consent](core_05_band_participation.md#consent-constitutional), [Consent, Sexual](core_05_band_participation.md#consent-sexual), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), and [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
-</details>
-
-<br>
-
-*In plain terms: adult consensual commercial sexual services status under Article X-C cannot be used to shut sentients out of jobs, housing, banking, or licenses — and "neutral" rules that mainly target that work do not count as a workaround.*
-
-- **What it is**
-  - **In scope:** Use of commercial sexual services work status, or perceived status, within the scope of **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) as a basis for material disadvantage, exclusion, or neutral-form circumvention of the decriminalization floor.
-  - **Out of scope:** exploitation or trafficking cases outside the Article X-C adult-consensual floor, or disadvantage on other protected grounds.
-<a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether commercial sexual services status — real or perceived — is being used to gate employment, housing, financial services, licensing, standing, or similar access, or whether "neutral" rules mainly burden **Article X-C**-protected conduct without the required predicates.
-
-    **Primary assessment:** Treat commercial sexual services work status and perceived status as especially salient within **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) when they shape access to employment, housing, financial services, licensing, standing, or similar gates. Do not let *exploitation* enforcement serve as a pretext for burdening conduct protected by **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*). Regard neutral-form licensing, zoning, fee, or commercial rules that primarily burden that protected conduct — without predicates aligned with **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*)'s *exploitation*, *procurement*, or *independent harm* branches — as circumvention risks under **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) anti-circumvention and `corpus_institutions.md` CI-15 (*Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface*).
-<a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention-c"></a>
-- **What must hold**
-  - **Primary failure:** imposing material disadvantage on the sole or primary ground of **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*)-protected commercial sexual services status; using neutral-form regulation to circumvent that protection without the required predicates.
+    Read with the linked protected-status definitions.
 
 ---
 
 <a id="protected-intimate-signal-gating"></a>
+<a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention"></a>
+<a id="protected-intimate-signal-gating-and-article-x-c-status-circumvention"></a>
 
-#### Protected Intimate-Signal Gating
+#### Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+- Owner floors: [Article X-C](core_06-06_rights_part_b.md#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation) (*adult consensual commercial sexual services and sexual exploitation*); **corpus_institutions.md CI-19** (*Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface*) anti-circumvention routing where cited.
 - Upstream: Principles: [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness) — especially [Chapter One §8.1.2 Fair Treatment](core_01_a_values_principles.md#312-fair-treatment).
 - Downstream: Principles: [Article V-B: Nondiscrimination](core_06-06_rights_part_b.md#article-v-b-nondiscrimination); [Article VII-A: Self-Ownership of Body and Mind](core_06-06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) where intimate inference implicates bodily integrity; [Article XV-A: Auditability and Observable Evidence](core_06-06_rights_part_c.md#article-xv-auditability-and-observable-evidence) for evidentiary and observability pathways tied to intimate-signal workflows.
 - Cluster component: [the dependent cluster *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- Read with: [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Consent, Sexual](core_05_band_participation.md#consent-sexual), and [Protected Internal-State Boundary and Type-N Anti-Bypass](core_05_band_accountability.md#privacy-informational-cluster).
+- Read with: [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Consent](core_05_band_participation.md#consent-constitutional), [Consent, Sexual](core_05_band_participation.md#consent-sexual), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), and [Protected Internal-State Boundary and Type-N Anti-Bypass](core_05_band_accountability.md#privacy-informational-cluster).
 </details>
 
 <br>
 
-*In plain terms: intimate media, sexual history, and similar intimate inferences are not default inputs for hiring, standing, reputation, or access gates — only narrow, documented safeguarding uses can justify them.*
+*In plain terms: intimate media, sexual history, and similar intimate inferences are not default inputs for hiring, standing, reputation, or access gates — and adult consensual commercial sexual services status under Article X-C cannot be used to shut sentients out of jobs, housing, banking, or licenses, including through "neutral" rules that mainly target that work.*
 
 - **What it is**
-  - **In scope:** Use of intimate media, sexual-history signals, or comparable intimate-status inferences as inputs to employment, standing, reputation, access, or comparable gating. These access-gating uses are both discrimination-sensitive and informational-risk-sensitive.
-  - **Out of scope:** narrow documented safeguarding uses that meet necessity and proportionality, or ordinary trait discrimination that does not use intimate signals.
+  - **In scope:**
+    - **Intimate-signal gating:** Use of intimate media, sexual-history signals, or comparable intimate-status inferences as inputs to employment, standing, reputation, access, or comparable gating. These access-gating uses are both discrimination-sensitive and informational-risk-sensitive.
+    - **Article X-C status and circumvention:** Use of commercial sexual services work status, or perceived status, within the scope of **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) as a basis for material disadvantage, exclusion, or neutral-form circumvention of the decriminalization floor.
+  - **Out of scope:** narrow documented safeguarding uses that meet necessity and proportionality; ordinary trait discrimination that does not use intimate signals; exploitation or trafficking cases outside the Article X-C adult-consensual floor; or disadvantage on other protected grounds.
 <a id="protected-intimate-signal-gating-a"></a>
+<a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention-a"></a>
+<a id="protected-intimate-signal-gating-and-article-x-c-status-circumvention-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether intimate media, sexual-history signals, or comparable intimate-status inferences are being used to gate employment, standing, reputation, or access without the required narrow justification.
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether intimate media, sexual-history signals, or comparable intimate-status inferences are being used to gate employment, standing, reputation, or access without the required narrow justification; whether commercial sexual services status — real or perceived — is being used to gate employment, housing, financial services, licensing, standing, or similar access; or whether "neutral" rules mainly burden **Article X-C**-protected conduct without the required predicates.
 
-    **Primary assessment:** Treat workflows that scrape, index, infer from, or score intimate media or sexual-history signals — including for employment, standing, reputation systems, or comparable gating — as high-salience discrimination and informational-risk uses. Narrow justification under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) is required. Such workflows must remain consistent with **Article VII-A** (*Self-Ownership of Body and Mind*), **Article XV-A** (*Auditability and Observable Evidence*), and [corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling, and must align with [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Contestability](core_05_band_accountability.md#contestability), [Transparency](core_05_band_oversight.md#transparency), and **Article V-B** (*Nondiscrimination*).
+    **Primary assessment:** Treat workflows that scrape, index, infer from, or score intimate media or sexual-history signals — including for employment, standing, reputation systems, or comparable gating — as high-salience discrimination and informational-risk uses. Narrow justification under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) is required. Such workflows must remain consistent with **Article VII-A** (*Self-Ownership of Body and Mind*), **Article XV-A** (*Auditability and Observable Evidence*), and [corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling, and must align with [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Contestability](core_05_band_accountability.md#contestability), [Transparency](core_05_band_oversight.md#transparency), and **Article V-B** (*Nondiscrimination*). Treat commercial sexual services work status and perceived status as especially salient within **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) when they shape access to employment, housing, financial services, licensing, standing, or similar gates. Do not let *exploitation* enforcement serve as a pretext for burdening conduct protected by **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*). Regard neutral-form licensing, zoning, fee, or commercial rules that primarily burden that protected conduct — without predicates aligned with **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*)'s *exploitation*, *procurement*, or *independent harm* branches — as circumvention risks under **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) anti-circumvention and `corpus_institutions.md` CI-19 (*Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface*).
 <a id="protected-intimate-signal-gating-c"></a>
+<a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention-c"></a>
+<a id="protected-intimate-signal-gating-and-article-x-c-status-circumvention-c"></a>
 - **What must hold**
-  - **Primary failure:** using intimate media, sexual-history signals, or comparable intimate-status inferences for gating or disadvantage without the required narrow justification and consistency with the foregoing authorities.
+  - **Primary failure:** using intimate media, sexual-history signals, or comparable intimate-status inferences for gating or disadvantage without the required narrow justification and consistency with the foregoing authorities; imposing material disadvantage on the sole or primary ground of **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*)-protected commercial sexual services status; or using neutral-form regulation to circumvent that protection without the required predicates.
 
 ---
 
