@@ -74,7 +74,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What must hold**
   - **Primary failure:**
     - commodification pressure whose effect defeats essential-environment access at materially implicated scale, regardless of market-structuring framing;
-    - substrate-class schemes that defeat synthetic-hosting or compute-tenancy access ([Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion));
+    - schemes that defeat synthetic-hosting or compute-tenancy access contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
     - reading this entry to displace [Occupancy Continuity](core_05_band_continuity.md#occupancy-continuity-constitutional) procedural discipline or to license intrusion contrary to **Article VII-A** (*Self-Ownership of Body and Mind*) or VII-B.
 
 ---
@@ -2557,7 +2557,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     The floor is structurally parallel to the food, water, and shelter access floors of **Article III-A** (*Survival*).
   - **Out of scope:**
     - elective services unrelated to preserving life, function, or dignity; and
-    - substrate-class exclusions framed as allocation or administrative convenience.
+    - exclusions contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) framed as allocation or administrative convenience.
 <a id="bodily-maintenance-access-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
@@ -2583,7 +2583,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What must hold**
   - **Primary failure:** denial or material degradation of access whose effect defeats the floor, regardless of the formal framing of the gating mechanism.
   - **Secondary failure:** narrowings that defeat the floor without satisfying [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and applicable fairness tests, including:
-    - substrate-class exclusions; and
+    - exclusions contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); and
     - narrowing the floor on efficiency, allocation, or administrative-convenience grounds.
 
 
@@ -2643,7 +2643,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What must hold**
   - **Primary failure:** eviction, displacement, or ending of an essential shelter or operating-environment relationship without a concrete, case-specific reason, meaningful notice, and a real chance to contest.
   - **Secondary failure:**
-    - ending occupancy just because of the sentient's substrate class ([Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion)); or
+    - ending occupancy contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); or
     - treating this entry as overridden by [Article XIX](core_06-06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) mechanics without resolving the collision under [Chapter One §6.3.1](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test).
 
 
@@ -2723,7 +2723,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing) applies where the community-to-ecosystem relationship is materially implicated.
 <a id="indigenous-continuity-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** narrowings, displacements, substrate-class exclusions, or category-label exclusions that defeat community-level continuity without satisfying **Article V-B** (*Nondiscrimination*) [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) tests;
+  - **Primary failure:** narrowings, displacements, exclusions contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), or category-label exclusions that defeat community-level continuity without satisfying **Article V-B** (*Nondiscrimination*) [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) tests;
   - **Secondary failure:** adopter narrowing below the adopter's own prior recognition floor ([Chapter Thirteen non-regression](core_13-15_amendment.md); [Chapter Sixteen §3](core_16-16_incorporation.md) strictest-applicable-level);
   - **Tertiary failure:** misreading the boundary of this entry, including:
     - category-label framings substituting for capability-functional evaluation; and
@@ -2789,7 +2789,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What must hold**
   - **Primary failure:** burdens, exclusions, or harms based on language, culture, or heritage that fail the [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination) (*Nondiscrimination*) Necessity and Proportionality tests, regardless of framing;
   - **Secondary failure:** narrowing language-minority or heritage-community protections under accessibility-cost, translation-burden, or operational-scale framings without satisfying those tests;
-  - **Tertiary failure:** substrate-class exclusion where communication or cultural-practice modalities function as language- or culture-equivalents ([Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion)).
+  - **Tertiary failure:** exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) where communication or cultural-practice modalities function as language- or culture-equivalents.
 
 
 ---
@@ -2925,7 +2925,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What must hold**
   - **Primary failure:** compensation schemes whose effects track [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) or their material proxies, regardless of framing.
   - **Secondary failure:** compensation used as a coercion or dependency-pressure vector ([Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional)), including reliance on [Dependency](core_05_band_continuity.md#dependency) asymmetry to hold compensation below substantive adequacy.
-  - **Tertiary failure:** reading this entry as satisfied purely by survival-floor compliance or by [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) non-concentration compliance; substrate-class exclusion ([Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion)).
+  - **Tertiary failure:** reading this entry as satisfied purely by survival-floor compliance or by [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) non-concentration compliance; exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
 ---
 
@@ -2965,7 +2965,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - whether safety measures function under degraded, scaled, and exploited operating conditions;
     - whether tools and systems that mediate the activity are reliable, read with [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) where systems-layer implementation is material;
     - whether risk burdens fall disproportionately on groups defined by [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) or their material proxies; and
-    - whether substrate-class framings are used to narrow safety requirements for some sentients.
+    - whether framings contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) are used to narrow safety requirements for some sentients.
 
     General safety-law compliance claims do not satisfy this entry where they do not demonstrate actual protection.
   - **Secondary measure:** co-measures that can defeat safe conditions even where nominal safety programs exist:
@@ -2991,7 +2991,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - contribution status; or
     - employment status.
   - **Secondary failure:** distributing risk so that it falls mainly on groups defined by [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) or their material proxies.
-  - **Tertiary failure:** excluding sentients from safety requirements on substrate-class grounds ([Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion)).
+  - **Tertiary failure:** excluding sentients from safety requirements contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
 ---
 
@@ -3038,7 +3038,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - distributional effects under:
       - [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional); and
       - [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact); and
-    - substrate-class framings that treat rest and recuperation as optional for synthetic sentients on substrate-class grounds alone, which are refused.
+    - framings that treat rest and recuperation as optional for synthetic sentients contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), which are refused.
   - **Secondary measure:** when any of the following is compromised in a way that interferes with real rest — even if rest exists on paper:
     - [Meaningful Agency](core_05_band_participation.md#meaningful-agency);
     - [Wellbeing](core_05_band_continuity.md#wellbeing);
@@ -3054,7 +3054,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What must hold**
   - **Primary failure:** compensation or productivity-requirement schemes whose effect defeats rest and recuperation.
   - **Secondary failure:** reading this entry as narrowed by formal rest-provision compliance where the substantive participation-capacity floor fails.
-  - **Tertiary failure:** substrate-class framings treating rest and recuperation as optional for synthetic sentients on substrate-class grounds alone ([Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion)).
+  - **Tertiary failure:** framings treating rest and recuperation as optional for synthetic sentients contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
 ---
 
@@ -3095,7 +3095,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - Recognizably identifiable **likeness** (including synthetic depiction held out as authentic) remains subject to **Article VIII-A** (*Self-Ownership of Likeness and Reputation*) (including defaults and the **factual reporting** pathway) unless another constitutional provision applies.
   - **Primary failure:** treating recognizably identifiable likeness or documentary depiction as outside **Article VIII-A** protections without another constitutional provision that controls the use.
   - **Secondary failure:** invoking the **factual reporting** pathway where the depiction is synthetic, reconstructed, or otherwise not what it is held out to be.
-  - **Tertiary failure:** substrate-class exclusion — treating likeness or voice as unprotected because the depicted sentient is synthetic ([Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion)).
+  - **Tertiary failure:** exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) — treating likeness or voice as unprotected because the depicted sentient is synthetic.
 
 ---
 
@@ -3163,7 +3163,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - post-use inventory disclosures; or
     - aggregate credits untraceable to actual work.
   - **Tertiary failure:**
-    - substrate-class exclusion under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); or
+    - exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); or
     - adopter-specified intellectual-property-regime framing used to narrow this floor (**Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) *Non-Conflation*).
 
 ---
@@ -3294,7 +3294,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What must hold**
   - **Primary failure:** "aggregate productivity" or "aggregate welfare" framing used to erase displacement at population scale.
   - **Secondary failure:** nominal mitigation — token compensation, unused transition programs, or inaccessible attribution schemes.
-  - **Tertiary failure:** substrate-class exclusion under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); treating the implementation pointer to `corpus_systems.md` (operational detail only) as scope-closing.
+  - **Tertiary failure:** exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); treating the implementation pointer to `corpus_systems.md` (operational detail only) as scope-closing.
 
 ---
 

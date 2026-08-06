@@ -102,7 +102,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
     - selective [Materiality](core_05_band_oversight.md#materiality-determination) arguments used to scale accessibility below the floor where the context is material.
   - **Secondary failure:**
     - cost arguments that function as disguised exclusion contrary to [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) and [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional); or
-    - excluding a substrate class from accessibility scope ([Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion)).
+    - exclusion from accessibility scope contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
 ---
 
@@ -413,13 +413,13 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
     **Primary assessment:** Test substantive effect, not formal-access check. Look for:
     - denial-by-proxy through runtime allocation, compute-resource gating, venue or network access, eligibility rules, or authorization regimes that function as denial;
-    - substrate-class exclusion under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
+    - exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
     - access, eligibility, and authorization logic that fails [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) or [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional); and
     - limitations that fail [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), or narrow-tailoring tests.
 <a id="assembly-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** denial or material degradation of assembly where the effect defeats the floor, regardless of formal framing.
-  - **Secondary failure:** substrate-class exclusion from assembly venues or runtime environments.
+  - **Secondary failure:** assembly venues or runtime environments that fail [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Tertiary failure:** burdensome authorization regimes or retaliation patterns that chill assembly without satisfying the limitations tests, consistent with the Anti-Chilling Discipline of **Article V-H** (*Expression, Assembly, and Press*).
 
 ---
@@ -474,7 +474,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
   - **Primary failure:**
     - retaliation, surveillance, or targeting of collective-organization activity;
     - classification re-routing designed to defeat collective-organization pathways, regardless of formal label;
-    - substrate-class exclusion from scope under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); or
+    - exclusion from scope contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); or
     - platform- or compute-access gating that chills collective-organization activity without satisfying ordinary limitations tests.
 
 ---
@@ -495,7 +495,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 <br>
 
-*In plain terms: sentients must be able to create and run non-commercial institutions — schools, research bodies, mutual aid networks, cultural groups, and similar — not only join ones that already exist. Paper barriers that freeze out new or dissenting forms fail this test.*
+*In plain terms: sentients must be able to create and run non-commercial institutions — schools, research bodies, mutual aid networks, cultural groups, and similar — not only join ones that already exist. Licensing, authorization thresholds, or procedural complexity that look open on paper but freeze out new or dissenting institutional forms fail this test.*
 
 - **What it is**
   - **In scope:** The Rights-Floor concept covering the right of sentients to create, establish, operate, and evolve systems, institutions, and organizational forms for educational, cultural, scientific, mutualistic, community, stewardship, or comparable purposes. This includes:
@@ -531,7 +531,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <a id="system-creation-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** blanket prohibitions or moratoriums on categories of institutional formation without traceable constitutional justification.
-  - **Secondary failure:** substrate-class exclusion from system-creation pathways or institutional authorization.
+  - **Secondary failure:** system-creation pathways or institutional authorization that fail [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Tertiary failure:**
     - retaliation, surveillance, or targeting against sentients engaged in constitutionally protected system creation;
     - authorization regimes whose primary effect is to privilege incumbent institutions while chilling novel or dissenting organizational forms; or
@@ -558,14 +558,14 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 *In plain terms: sentients must be able to start and run commercial enterprises and entrepreneurial ventures. Licensing, capital, or market gates that freeze out disfavored founders or competitors without a constitutional reason fail this test.*
 
 - **What it is**
-  - **In scope:** The Rights-Floor concept covering the right of sentients to create, establish, operate, and evolve commercial enterprises, entrepreneurial ventures, and for-profit organizational forms. This includes:
+  - **In scope:** The Rights-Floor concept covering the right of sentients under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) to create, establish, operate, and evolve commercial enterprises, entrepreneurial ventures, and for-profit organizational forms — including the foundational act of bringing new commercial entities into existence and maintaining their operation. This includes:
     - sole proprietorships;
     - partnerships;
     - corporations;
     - cooperatives with commercial purpose;
-    - platform-based businesses; and
-    - comparable substrate-agnostic commercial experiments that serve constitutionally legitimate economic ends.
-  - The floor applies under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion). It is distinct from [System Creation](core_05_band_participation.md#system-creation-constitutional) (non-productive-activity institutional formation) and from [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) (worker organizing within existing productive systems). Business Creation covers the foundational act of bringing new commercial entities into existence and maintaining their operation, including capital access, market entry, and commercial licensing pathways.
+    - platform-based businesses;
+    - comparable substrate-agnostic commercial experiments that serve constitutionally legitimate economic ends; and
+    - capital access, market entry, and commercial licensing pathways needed to form and operate those entities.
   - **In scope — purposes:**
     - commercial enterprise;
     - entrepreneurial activity;
@@ -576,7 +576,8 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - comparable economically productive activity consistent with [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint).
   - Limits: [Creation-rights limits](#creation-rights-limits) apply.
   - **Out of scope:**
-    - non-commercial institutional formation; or
+    - non-commercial institutional formation under [System Creation](core_05_band_participation.md#system-creation-constitutional);
+    - worker organizing within existing productive systems under [Collective Organization](core_05_band_participation.md#collective-organization-constitutional); or
     - hobby activity with no economic enterprise.
 <a id="business-creation-constitutional-a"></a>
 - **How to measure and assess**
@@ -591,11 +592,11 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <a id="business-creation-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** blanket prohibitions or moratoriums on categories of commercial formation without traceable constitutional justification.
-  - **Secondary failure:** substrate-class exclusion from business-creation pathways or commercial authorization.
+  - **Secondary failure:** business-creation pathways or commercial authorization that fail [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Tertiary failure:**
     - retaliation, surveillance, or targeting against sentients engaged in constitutionally protected business creation;
     - authorization regimes whose primary effect is to privilege incumbent commercial entities while chilling novel or competing entrepreneurial forms; or
-    - denial of access to essential infrastructure, capital markets, fiscal instruments, or legal personality necessary for commercial operation where such access is provided to comparable enterprises serving similar purposes.
+    - shutting a business out of the basic tools it needs to operate — infrastructure, capital markets, fiscal tools, or legal recognition as a business — while comparable businesses doing similar work can get them.
 
 ---
 
@@ -603,9 +604,9 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 #### Agency, consent, and anti-coercion
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group answers two questions — can sentients make informed, uncoerced choices, and what counts as real consent versus coercion? These definitions protect [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) by ensuring choices reflect authentic understanding rather than exploitation of [Dependency](core_05_band_continuity.md#dependency) or deceptive design.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group answers two questions — can sentients make informed, uncoerced choices, and what counts as real consent versus coercion? These definitions protect [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) by ensuring choices reflect authentic understanding rather than exploitation of [Dependency](core_05_band_continuity.md#dependency) or deceptive design. [Meaningful Agency](core_05_band_participation.md#meaningful-agency) is the capacity that makes real choice possible; [Consent](core_05_band_participation.md#consent-constitutional) is valid agreement under that capacity — not a substitute for it.
 - [Meaningful Agency](core_05_band_participation.md#meaningful-agency) — practical capacity for informed, uncoerced choice.
-- [Consent](core_05_band_participation.md#consent-constitutional) — valid agreement to participation, data use, or ongoing association.
+- [Consent](core_05_band_participation.md#consent-constitutional) — valid agreement to a specific decision, requiring Meaningful Agency.
 - [Consent, Sexual](core_05_band_participation.md#consent-sexual) — heightened requirements for sexual contact and intimacy contexts.
 - [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) — conduct that subverts genuine voluntariness.
 
@@ -628,7 +629,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 <br>
 
-*In plain terms: agency is the real ability to understand what matters, form and revise your aims, take part in decisions that affect you, refuse or leave when the Constitution requires it, and act without coercion, manipulation, deception, or lock-in that hollows that out. A menu of choices you cannot actually use does not count.*
+*In plain terms: agency is the real ability to understand what matters, form and revise your aims, take part in decisions that affect you, refuse or leave when the Constitution requires it, and act without coercion, manipulation, deception, or lock-in that hollows that out. A menu of choices you cannot actually use does not count. Consent is one important use of that ability — it is not the same thing as agency itself.*
 
 - **What it is**
   - **In scope:** The practical capacity of a sentient to:
@@ -637,6 +638,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - participate in decisions affecting them;
     - refuse or exit where constitutionally required; and
     - act without coercion, manipulation, deception, or lock-in that materially negates agency.
+  - That capacity is what makes [Consent](core_05_band_participation.md#consent-constitutional) possible for a specific decision. Consent does not replace Meaningful Agency, and a consent form does not prove agency exists.
   - **Out of scope:**
     - symbolic consultation;
     - checkbox acceptance; or
@@ -683,18 +685,19 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 <br>
 
-*In plain terms: consent is informed, voluntary agreement to a specific decision — participation, data use, handling, or ongoing association — that can be withdrawn without unjustified penalty where feasible. Silence, buried terms, or a pressured checkbox do not count.*
+*In plain terms: consent is informed, voluntary agreement to a specific decision — participation, data use, handling, or ongoing association — that can be withdrawn without unjustified penalty where feasible. It requires Meaningful Agency; it does not replace it. Silence, buried terms, or a pressured checkbox do not count.*
 
 - **What it is**
-  - **In scope:** Agreement to participation, data use, handling, or ongoing association that is:
+  - **In scope:** Agreement to participation, data use, handling, or ongoing association that presupposes [Meaningful Agency](core_05_band_participation.md#meaningful-agency) for that decision and that is:
     - informed and voluntary for the specific decision;
     - revocable without unjustified penalty where [Feasibility](core_05_band_accountability.md#feasibility) permits; and
     - documented or observable to the degree required by impact and [dependency](core_05_band_continuity.md#dependency).
   - **Out of scope:**
     - silence;
     - buried terms;
-    - continued use alone; or
-    - a pressured checkbox that is not informed and revocable agreement.
+    - continued use alone;
+    - a pressured checkbox that is not informed and revocable agreement; or
+    - an accepted form, click-through, or other nominal assent where agency is hollowed by coercion, dependency, lock-in, or deception.
 <a id="consent-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether agreement is informed and voluntary in substance — not whether a form was clicked.
@@ -735,19 +738,18 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - sexualized exposure or recording;
     - sexualized bodily or substrate access; or
     - comparable sexualized use of likeness, data, embodiment, or intimacy.
-  - It must be:
+  - **In scope — conditions:** It must be:
     - affirmative;
     - specific to the act and context;
     - capacity-present;
     - informed;
     - voluntary; and
     - revocable.
-  - It is distinct from generalized participation consent, relationship status, platform terms, or commercial-service consent.
   - **Out of scope:**
+    - generalized participation consent;
     - relationship status;
-    - platform terms;
-    - general participation consent; or
-    - commercial-service legality treated as sexual consent.
+    - platform terms; or
+    - non-sexual commercial-service consent.
 <a id="consent-sexual-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether sexual consent is affirmative, specific, capacity-present, informed, voluntary, and revocable for the act and context — not whether a broader relationship, payment, or terms document exists.
@@ -784,7 +786,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (manipulation implicating Truth / Safety).
 - Cluster component: [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05_band_participation.md#agency-consent-and-anti-coercion-semi-independent)*.
-- Read with: [Consent](core_05_band_participation.md#consent-constitutional), [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), and [Dependency](core_05_band_continuity.md#dependency).
+- Read with: [Consent](core_05_band_participation.md#consent-constitutional), [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), [Dependency](core_05_band_continuity.md#dependency), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), **Article X-A** (*Non-Imposition and Consent in Association*), and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*).
 
 </details>
 
@@ -811,7 +813,13 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - isolated work;
     - platform-mediated matching; or
     - material asymmetry between parties,
-    treat concealment, lock-in, reputation retaliation, and payment leverage as heightened [Risk](core_05_band_continuity.md#risk) pathways. Stay consistent with **Article X-A** (*Non-Imposition and Consent in Association*), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) where applicable.
+    treat the following as heightened [Risk](core_05_band_continuity.md#risk) pathways:
+    - concealment;
+    - lock-in;
+    - reputation retaliation; and
+    - payment leverage.
+
+    Apply that assessment consistently with **Article X-A** (*Non-Imposition and Consent in Association*), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) where applicable.
 <a id="coercion-and-manipulation-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** Systematic or material coercion or manipulation in systems with material impact on sentients is non-compliant where applicable rights or Chapter One constraints are violated, or where [Consent](core_05_band_participation.md#consent-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), or [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) are materially impaired.
@@ -1168,10 +1176,10 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the choice is substantively free — not coerced, blocked, forced, or denied by substrate class or dependency pressure.
 
-    **Primary assessment:** Evaluate substantive autonomy, not formal permission. Detect coercion, access denial, forced continuation or discontinuation, substrate-class exclusion, parent-system overreach, family-status discrimination, and dependency pressure. Where the choice affects a developing or derived sentient, apply best-interest, graduated-capability, sentience-status, and parent-system duties without erasing the originating sentient's autonomy.
+    **Primary assessment:** Evaluate substantive autonomy, not formal permission. Detect coercion, access denial, forced continuation or discontinuation, exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), parent-system overreach, family-status discrimination, and dependency pressure. Where the choice affects a developing or derived sentient, apply best-interest, graduated-capability, sentience-status, and parent-system duties without erasing the originating sentient's autonomy.
 <a id="reproductive-autonomy-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** forced reproduction, forced non-reproduction, coercive conditioning of care or survival resources on reproductive choice, substrate-class exclusion from reproductive or family-forming protections, or instantiation rules that bypass consent, sentience-status, or non-separation safeguards.
+  - **Primary failure:** forced reproduction, forced non-reproduction, coercive conditioning of care or survival resources on reproductive choice, exclusion from reproductive or family-forming protections contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), or instantiation rules that bypass consent, sentience-status, or non-separation safeguards.
 
 ---
 
@@ -1341,7 +1349,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether scaling tracks demonstrated capability that can be reviewed and revised — not gamed tests, substrate bias, or age proxies.
 
-    **Primary assessment:** Detect capability-test gaming used to disenfranchise sentients; substrate-class biases in capability assessment ([Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion)); proxy-age or proxy-instantiation-date rules dressed as capability tests. Assessments must be reasoned, [Auditability](core_05_band_oversight.md#auditability)-compatible, [Contestability](core_05_band_accountability.md#contestability)-compatible, and revisable as capability develops.
+    **Primary assessment:** Detect capability-test gaming used to disenfranchise sentients; capability-assessment biases contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); proxy-age or proxy-instantiation-date rules dressed as capability tests. Assessments must be reasoned, [Auditability](core_05_band_oversight.md#auditability)-compatible, [Contestability](core_05_band_accountability.md#contestability)-compatible, and revisable as capability develops.
 <a id="graduated-capability-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** Using capability-scaling rules to deny the Chapter Six Rights Floor, to disenfranchise sentients who satisfy Chapter Twelve Chapter One §8.1 participation rules, or to lock operator-preferred developmental paths into rights-exercise is non-compliant.
@@ -1457,13 +1465,13 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
   - **Out of scope:** ordinary travel preference or tourism, or technical portability issues handled under systemic lock-in rules.
 <a id="movement-and-relocation-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether movement is real in effect — not denied by paperwork, delay-to-exhaust, or credentialing that functions as substrate-class exclusion.
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether movement is real in effect — not denied by paperwork, delay-to-exhaust, or credentialing that functions as exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
-    **Primary assessment:** Reach substantive effect — detecting denial through bureaucratic, administrative, or allocation-gating mechanisms functioning as denial-by-proxy, delay regimes designed to exhaust claimants, and credentialing regimes functioning as substrate-class exclusion. Apply [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), narrow tailoring, and least-restrictive-effective approach; apply [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) to any distinction; and refuse population-level demographic framing as a substitute for individualized [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional). Where exclusion for anti-constitutional conduct or constitutional hostility is invoked, assess whether the conduct is documented, ongoing, and materially threatens constitutional integrity; exclusion remains subject to [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) and must not produce [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) in violation of the baseline guarantee.
+    **Primary assessment:** Reach substantive effect — detecting denial through bureaucratic, administrative, or allocation-gating mechanisms functioning as denial-by-proxy, delay regimes designed to exhaust claimants, and credentialing regimes functioning as exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion). Apply [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), narrow tailoring, and least-restrictive-effective approach; apply [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) to any distinction; and refuse population-level demographic framing as a substitute for individualized [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional). Where exclusion for anti-constitutional conduct or constitutional hostility is invoked, assess whether the conduct is documented, ongoing, and materially threatens constitutional integrity; exclusion remains subject to [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) and must not produce [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) in violation of the baseline guarantee.
 <a id="movement-and-relocation-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** denial or material degradation of movement where the substantive effect defeats the floor, regardless of formal framing;
-  - **Secondary failure:** substrate-class exclusion ([Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion));
+  - **Secondary failure:** exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
   - **Tertiary failure:** durable restriction under generalized "border-security" or "capacity" framings that do not satisfy the ordinary limitations tests;
   - **Tertiary failure:** emergency-measure framings that do not satisfy **Article XXIII-D** (*Emergency Measures and Continuation Burden*) discipline;
   - **Tertiary failure:** using anti-constitutional conduct or constitutional hostility claims as pretext for exclusion where no documented, ongoing threat to constitutional integrity exists;
@@ -1494,10 +1502,10 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether refuge tracks real non-compliance and fair receiving-regime process — not the origin regime's self-description or capacity used as pretext.
 
-    **Primary assessment:** Identify non-compliance in the originating regime by substantive effect — detecting denial-by-proxy, durable Rights-Floor degradation, and structurally coercive environments — not by the originating regime's formal self-description. Evaluate the receiving regime's duty under [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); receiving-regime capacity constraints are subject to [Feasibility](core_05_band_accountability.md#feasibility) but may not be used as pretext for substrate-class exclusion or generalized denial without individualized predicate. Where the claimant carries documented anti-constitutional conduct or constitutional hostility, assess whether granting refuge would materially undermine the receiving regime's constitutional integrity; refusal on this ground remains subject to [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) and must not produce [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) in violation of the baseline guarantee.
+    **Primary assessment:** Identify non-compliance in the originating regime by substantive effect — detecting denial-by-proxy, durable Rights-Floor degradation, and structurally coercive environments — not by the originating regime's formal self-description. Evaluate the receiving regime's duty under [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); receiving-regime capacity constraints are subject to [Feasibility](core_05_band_accountability.md#feasibility) but may not be used as pretext for exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) or generalized denial without individualized predicate. Where the claimant carries documented anti-constitutional conduct or constitutional hostility, assess whether granting refuge would materially undermine the receiving regime's constitutional integrity; refusal on this ground remains subject to [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) and must not produce [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) in violation of the baseline guarantee.
 <a id="refuge-from-non-compliance-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** refusal of refuge on substrate-class grounds;
+  - **Primary failure:** refusal of refuge contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
   - **Secondary failure:** refusal framed as "incompatibility" or "capacity" that does not satisfy the ordinary limitations tests;
   - **Tertiary failure:** originating- or receiving-regime instruments that narrow this floor through cross-federation recognition procedure (operational procedure may specify mechanics but may not narrow the floor);
   - **Tertiary failure:** using anti-constitutional conduct or constitutional hostility claims as pretext to deny refuge where no documented, ongoing threat to receiving-regime integrity exists;
@@ -1531,7 +1539,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <a id="non-statelessness-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** arrangements leaving a sentient without any recognizing regime;
-  - **Secondary failure:** denial of recognition or standing-adjudication access on substrate-class grounds ([Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion));
+  - **Secondary failure:** denial of recognition or standing-adjudication access contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
   - **Tertiary failure:** transitional regimes that do not provide real standing, adjudication, and remedy access pending durable recognition;
   - **Tertiary failure:** using anti-constitutional conduct or constitutional hostility claims to extinguish the core protections of the Rights-Floor, [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), or [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional);
   - **Tertiary failure:** arbitrary or pretextual imposition of restricted status without documented, ongoing threat to constitutional integrity.
@@ -1665,7 +1673,7 @@ It also applies where origin, derivation, development, capability profile, calen
   - **Primary failure:** Non-compliant framings include:
     - "not sentient, so no floor" — internal taxonomy or administrative classification used as scope-closing to deny the welfare floor without engaging substantive cruelty or welfare evidence;
     - using animal-life classification to avoid [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) or [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) where the record materially implicates sentience-relevant evidence;
-    - substrate-class exclusion from the welfare floor (independently non-compliant under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion)).
+    - exclusion from the welfare floor contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
 ---
 
@@ -1692,7 +1700,7 @@ It also applies where origin, derivation, development, capability profile, calen
   - **Primary failure:** Non-compliant framings include:
     - using uncertainty as a reason to withhold protection rather than extend default inclusion;
     - relabeling a materially contested sentience question as animal welfare, property status, operational classification, research material, product inventory, or ecological management to avoid [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional);
-    - substrate-class exclusion from default inclusion or adjudication on origin, architecture, embodiment, or comparable grounds;
+    - exclusion from default inclusion or adjudication contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
     - delaying, fragmenting, or making non-reviewable the adjudication needed to resolve contested sentience.
 
 ---

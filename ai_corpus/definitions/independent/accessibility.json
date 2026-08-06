@@ -2,7 +2,7 @@
   "$schema": "../schemas/definition.schema.json",
   "term": "Accessibility",
   "source": {
-    "file": "core_05_definitions_home.md",
+    "file": "core_05__definitions_home.md",
     "line_start": 280,
     "line_end": 315,
     "anchor": "#accessibility-constitutional"
@@ -78,7 +78,7 @@
         "accommodations that exist on paper but are operationally unreachable",
         "selective-Materiality arguments used to scale accessibility below the floor in materially implicated contexts",
         "cost arguments that function as disguised exclusion",
-        "substrate-class exclusion from accessibility scope"
+        "exclusion from accessibility scope contrary to Sentience Non-Exclusion"
       ]
     }
   },
