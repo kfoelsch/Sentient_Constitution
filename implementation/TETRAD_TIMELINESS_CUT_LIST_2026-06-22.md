@@ -8,7 +8,7 @@
 | Anchor | Home |
 |--------|------|
 | `#constitutional-tetrad` | [core_00_preamble.md](../core_00_preamble.md) — four legs |
-| `#timeliness-constitutional` | [core_05defs_accountability.md](../core_05defs_accountability.md) — principle-layer timeliness leg |
+| `#timeliness-constitutional` | [core_05_band_accountability.md](../core_05_band_accountability.md) — principle-layer timeliness leg |
 | `#vignette-stewardship-delay-deferred-repair` | [core_08-11_application_vignettes.md](../core_08-11_application_vignettes.md#vignette-stewardship-delay-deferred-repair) |
 | `#vignette-pipeline-overrun-tetrad-hollow` | [core_08-11_application_vignettes.md](../core_08-11_application_vignettes.md#vignette-pipeline-overrun-tetrad-hollow) |
 
@@ -24,9 +24,9 @@
 ## Files touched (operative)
 
 - `core_00_preamble.md`
-- `core_05defs_accountability.md` — Timeliness; Timely Resolution upstream link
-- `core_05_definitions_home.md` — compass entry
-- `core_05defs_continuity.md` — stewardship cluster timeliness hooks
+- `core_05_band_accountability.md` — Timeliness; Timely Resolution upstream link
+- `core_05__definitions_home.md` — compass entry
+- `core_05_band_continuity.md` — stewardship cluster timeliness hooks
 - `core_01_b_stewardship_capacity_principles.md` — §6 stewardship timeliness
 - `core_08-08_standing_assessment.md` — compass, dual-use delay dimension
 - `core_09-09_standing_integration.md` — Chapter One §8.10 remedy-commencement row

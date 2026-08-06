@@ -36,10 +36,10 @@ A **shell cluster** is a dependent cluster that:
 #### 3.14 Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure
 
 **Cluster members.** This cluster comprises:
-- [Accountability](core_05apex_accountability_leg.md#accountability);
-- [Contestability](core_05defs_accountability.md#contestability);
-- [Collective Accountability Failure](core_05defs_accountability.md#collective-accountability-failure);
-- [Force Majeure](core_05defs_accountability.md#force-majeure-constitutional).
+- [Accountability](core_05_apex_accountability_leg.md#accountability);
+- [Contestability](core_05_band_accountability.md#contestability);
+- [Collective Accountability Failure](core_05_band_accountability.md#collective-accountability-failure);
+- [Force Majeure](core_05_band_accountability.md#force-majeure-constitutional).
 
 [No local O/E/C definitions follow - only cluster-level meta text]
 ```
@@ -62,8 +62,8 @@ A **healthy cluster** contains:
 #### 3.16 Animal Life, Sentient Life, and Sentience Status
 
 **Cluster members.** This cluster comprises:
-- [Sentient](core_05defs_participation.md#sentient), including its sentience-status subcomponents;
-- [Animal Life](core_05defs_participation.md#animal-life-constitutional);
+- [Sentient](core_05_band_participation.md#sentient), including its sentience-status subcomponents;
+- [Animal Life](core_05_band_participation.md#animal-life-constitutional);
 ...
 
 <a id="animal-life-constitutional"></a>

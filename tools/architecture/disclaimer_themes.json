@@ -32,7 +32,7 @@
         "distinguish durable .* from proxy",
         "tertiary integrity check"
       ],
-      "canonical_home": "core_05defs_oversight.md Proxy Divergence; core_01_c_stewardship_capacity_principles.md §11.1.2",
+      "canonical_home": "core_05_band_oversight.md Proxy Divergence; core_01_c_stewardship_capacity_principles.md §11.1.2",
       "default_action": "thin",
       "canonical_terms": ["Proxy Divergence", "Materiality Integrity Constraint"],
       "notes": "Tertiary measurement checks may become single Trace read-with Proxy Divergence."
@@ -61,7 +61,7 @@
         "not a substitute for constitutional authorization",
         "does not erase duties owed under"
       ],
-      "canonical_home": "core_00_preamble.md §4–§5; core_05defs_integrative.md Constitutional Contract cluster",
+      "canonical_home": "core_00_preamble.md §4–§5; core_05_band_integrative.md Constitutional Contract cluster",
       "default_action": "thin",
       "canonical_terms": [
         "Constitutional Contract Layer",

@@ -50,7 +50,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--root", default=".", help="Workspace root (default: .).")
     p.add_argument(
         "--file",
-        default="core_05_definitions_home.md",
+        default="core_05__definitions_home.md",
         help="Sentient Constitution Markdown file containing Chapter Five (under --root).",
     )
     return p.parse_args()

@@ -31,12 +31,12 @@ class AlignmentAuditor:
             repo_root / "core_01_c_stewardship_capacity_principles.md",
         ]
         self.ch5_files = [repo_root / name for name in (
-            "core_05_definitions_home.md",
-            "core_05defs_oversight.md",
-            "core_05defs_participation.md",
-            "core_05defs_accountability.md",
-            "core_05defs_continuity.md",
-            "core_05defs_integrative.md",
+            "core_05__definitions_home.md",
+            "core_05_band_oversight.md",
+            "core_05_band_participation.md",
+            "core_05_band_accountability.md",
+            "core_05_band_continuity.md",
+            "core_05_band_integrative.md",
         )]
         
         # Extracted data

@@ -79,22 +79,22 @@ SEMI_INDEPENDENT_PREFIXES = [
 ]
 
 BAND_FILES = {
-    "core_05defs_oversight.md",
-    "core_05defs_participation.md",
-    "core_05defs_accountability.md",
-    "core_05defs_continuity.md",
-    "core_05defs_integrative.md",
-    "core_05_definitions_home.md",
+    "core_05_band_oversight.md",
+    "core_05_band_participation.md",
+    "core_05_band_accountability.md",
+    "core_05_band_continuity.md",
+    "core_05_band_integrative.md",
+    "core_05__definitions_home.md",
 }
 
 CH5_MAP_FILES = BAND_FILES | {
-    "core_05apex_oversight_leg.md",
-    "core_05apex_participation_leg.md",
-    "core_05apex_accountability_leg.md",
-    "core_05apex_continuity_aim.md",
-    "core_05apex_flourishing_aim.md",
-    "core_05apex_timeliness_leg.md",
-    "core_05defs_performance.md",
+    "core_05_apex_oversight_leg.md",
+    "core_05_apex_participation_leg.md",
+    "core_05_apex_accountability_leg.md",
+    "core_05_apex_continuity_aim.md",
+    "core_05_apex_flourishing_aim.md",
+    "core_05_apex_timeliness_leg.md",
+    "core_05_band_performance.md",
     "README.md",
     "doc_architecture.md",
 }
@@ -245,72 +245,72 @@ def update_directory_clusters(text: str) -> str:
         (
             "Def.P1",
             "Animal Life, Sentient Life, and Sentience Status",
-            "core_05defs_participation.md#animal-life-sentient-life-and-sentience-status-cluster",
+            "core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster",
         ),
         (
             "Def.P2",
             "Binding Stakeholder Choice",
-            "core_05defs_participation.md#binding-stakeholder-choice-cluster",
+            "core_05_band_participation.md#binding-stakeholder-choice-cluster",
         ),
         (
             "Def.A1",
             "Collective Harm Boundary, Harm, and Harassment and Bullying",
-            "core_05defs_accountability.md#collective-harm-boundary-and-harm-cluster",
+            "core_05_band_accountability.md#collective-harm-boundary-and-harm-cluster",
         ),
         (
             "Def.I1",
             "Corpus and Authority Stack",
-            "core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster",
+            "core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster",
         ),
         (
             "Def.A2",
             "Forum Families and Dispute Routing",
-            "core_05defs_accountability.md#forum-families-and-dispute-routing-cluster",
+            "core_05_band_accountability.md#forum-families-and-dispute-routing-cluster",
         ),
         (
             "Def.C1",
             "Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
-            "core_05defs_continuity.md#labor-and-economic-floor-cluster",
+            "core_05_band_continuity.md#labor-and-economic-floor-cluster",
         ),
         (
             "Def.C3",
             "Privacy (Informational) — peer-level cluster head",
-            "core_05defs_continuity.md#privacy-informational-cluster",
+            "core_05_band_continuity.md#privacy-informational-cluster",
         ),
         (
             "Def.P3",
             "Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
-            "core_05defs_participation.md#self-determination-and-meaningful-agency-cluster",
+            "core_05_band_participation.md#self-determination-and-meaningful-agency-cluster",
         ),
         (
             "Def.A3",
             "Standing State, Contribution, and Violation",
-            "core_05defs_accountability.md#standing-state-contribution-and-violation-cluster",
+            "core_05_band_accountability.md#standing-state-contribution-and-violation-cluster",
         ),
         (
             "Def.C2",
             "Stewardship, Governance Discipline, and Shared-System Capacity",
-            "core_05defs_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster",
+            "core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster",
         ),
         (
             "Def.O1",
             "Transparency, Auditability, and Verification",
-            "core_05defs_oversight.md#transparency-auditability-and-verification-cluster",
+            "core_05_band_oversight.md#transparency-auditability-and-verification-cluster",
         ),
         (
             "Def.C4",
             "Trust and Trustworthiness",
-            "core_05defs_continuity.md#trust-and-trustworthiness-cluster",
+            "core_05_band_continuity.md#trust-and-trustworthiness-cluster",
         ),
         (
             "Def.O2",
             "Truth and Epistemic Integrity",
-            "core_05defs_oversight.md#truth-and-epistemic-integrity-cluster",
+            "core_05_band_oversight.md#truth-and-epistemic-integrity-cluster",
         ),
         (
             "Def.A4",
             "Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
-            "core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster",
+            "core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster",
         ),
     ]
     rows_sorted = sorted(rows, key=lambda r: r[1].casefold())
@@ -324,11 +324,11 @@ def update_directory_clusters(text: str) -> str:
 
 def update_band_tables(text: str, path: Path) -> str:
     tables = {
-        "core_05defs_oversight.md": [
+        "core_05_band_oversight.md": [
             ("**Def.O1**", "Transparency, Auditability, and Verification"),
             ("**Def.O2**", "Truth and Epistemic Integrity"),
         ],
-        "core_05defs_participation.md": [
+        "core_05_band_participation.md": [
             ("**Def.P1**", "Animal Life, Sentient Life, and Sentience Status"),
             ("**Def.P2**", "Binding Stakeholder Choice"),
             (
@@ -336,7 +336,7 @@ def update_band_tables(text: str, path: Path) -> str:
                 "Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
             ),
         ],
-        "core_05defs_accountability.md": [
+        "core_05_band_accountability.md": [
             (
                 "**Def.A1**",
                 "Collective Harm Boundary, Harm, and Harassment and Bullying",
@@ -348,7 +348,7 @@ def update_band_tables(text: str, path: Path) -> str:
                 "Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
             ),
         ],
-        "core_05defs_continuity.md": [
+        "core_05_band_continuity.md": [
             (
                 "**Def.C1**",
                 "Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
@@ -360,7 +360,7 @@ def update_band_tables(text: str, path: Path) -> str:
             ("**Def.C3**", "Privacy (Informational) — peer-level cluster head"),
             ("**Def.C4**", "Trust and Trustworthiness"),
         ],
-        "core_05defs_integrative.md": [
+        "core_05_band_integrative.md": [
             ("**Def.I1**", "Corpus and Authority Stack"),
         ],
     }
@@ -380,7 +380,7 @@ def update_band_tables(text: str, path: Path) -> str:
 
 
 def add_def_alias_anchors(text: str, path: Path) -> str:
-    if path.name not in BAND_FILES - {"core_05_definitions_home.md"}:
+    if path.name not in BAND_FILES - {"core_05__definitions_home.md"}:
         return text
     for _old, (new, _title) in CLUSTER_MAP.items():
         m = re.search(rf"^#### {re.escape(new)} .+$", text, re.MULTILINE)
@@ -404,7 +404,7 @@ def migrate_file(path: Path, dry_run: bool) -> bool:
             gate = TITLE_GATE[old]
             text = re.sub(rf"\[{re.escape(old)}\s+(?={gate})", f"[{new} ", text)
             text = re.sub(rf"\*\*{re.escape(old)}\s+(?={gate})", f"**{new} ", text)
-    if path.name == "core_05_definitions_home.md":
+    if path.name == "core_05__definitions_home.md":
         text = update_directory_clusters(text)
         # Meta prose still saying "Numbered clusters"
         text = text.replace(

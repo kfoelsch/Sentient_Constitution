@@ -379,7 +379,7 @@ def constitutional_frame(new_id: str) -> list[str]:
     lines = [
         f"- Constitutional frame: **{meta['leg']}** leg; **{meta['aim']}** aim (primary); "
         "scales with [material stake](../core_00_preamble.md#material-stake) via "
-        "[Materiality Determination](../core_05defs_oversight.md#materiality-determination)."
+        "[Materiality Determination](../core_05_band_oversight.md#materiality-determination)."
     ]
     if meta.get("cross"):
         lines.append(f"- Cross-leg note: {meta['cross']}.")
@@ -429,7 +429,7 @@ def build_family_file(filename: str, spec: dict, all_sections: dict[str, str]) -
         "<details>",
         '<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>',
         "",
-        "- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions.",
+        "- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.",
         f"- Downstream: this section's local operational requirements for **{spec['family_title']}**.",
         "- Read with: [CJS-5.1](cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) constitutional compass.",
         "",

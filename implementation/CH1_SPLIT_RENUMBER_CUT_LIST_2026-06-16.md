@@ -196,7 +196,7 @@ Binding only together with other `core_*` files. **Chapter One, Part A** — §�
 
 ## 3B. Market Structure split (2026-06-24)
 
-**Scope:** Split anti-concentration / contestability material out of **§13 Shared-System Capacity** into new **§14 Market Structure**; renumber former §9–§13 → §10–§14. Add Chapter Five **Market Structure** definition in `core_05defs_accountability.md`.
+**Scope:** Split anti-concentration / contestability material out of **§13 Shared-System Capacity** into new **§14 Market Structure**; renumber former §9–§13 → §10–§14. Add Chapter Five **Market Structure** definition in `core_05_band_accountability.md`.
 
 ### 3B.1 Section renumber (pre-split → post-split)
 
@@ -331,7 +331,7 @@ Binding only together with other `core_*` files. **Chapter One, Part A** — §�
 | `72-short-horizon-governance-defect` | §12.2 |
 | `102-read-with-governance-and-incentive-discipline` | `112-read-with-governance-and-incentive-discipline` | §11.2 |
 | `9-market-structure` | §9 |
-| `market-structure-constitutional` | Chapter Five O/M/A/C (`core_05defs_accountability.md`) |
+| `market-structure-constitutional` | Chapter Five O/M/A/C (`core_05_band_accountability.md`) |
 | `chapter-01-part-b-stewardship-capacity-and-constitutional-safeguards` | Part B H2 |
 
 ### 4.3 Legacy redirect block (retain in Part B)
@@ -354,9 +354,9 @@ Keep existing pre-elevation ids from L632–L657 **plus** all superseded primary
 ```markdown
 **Principle hierarchy (Part B).** At principle layer:
 
-1. **Stewardship** ([Stewardship](core_05defs_continuity.md#stewardship-constitutional)) orients systems toward durable constitutional alignment over time, including the **Continuity** aim under the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
-2. **Governance** ([Governance](core_05defs_accountability.md#governance)) structures authorized decision-making, participation, and accountability. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Twelve**.
-3. **Shared-System Capacity** ([Shared-System Capacity](core_05defs_continuity.md#shared-system-capacity-constitutional)) is the durable, contestable ability those jointly produce — an **instrumental outcome**, not a freestanding trump value.
+1. **Stewardship** ([Stewardship](core_05_band_continuity.md#stewardship-constitutional)) orients systems toward durable constitutional alignment over time, including the **Continuity** aim under the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
+2. **Governance** ([Governance](core_05_band_accountability.md#governance)) structures authorized decision-making, participation, and accountability. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Twelve**.
+3. **Shared-System Capacity** ([Shared-System Capacity](core_05_band_continuity.md#shared-system-capacity-constitutional)) is the durable, contestable ability those jointly produce — an **instrumental outcome**, not a freestanding trump value.
 
 **Reading arc:** §6 stewardship → §7 governance discipline → §8 capacity → §9 tradeoffs → §10 whole-system evaluation → §§11–14 agency, integration, and override limits.
 ```
@@ -380,7 +380,7 @@ Governance is **necessary** but **not sufficient**. It must remain subordinate t
 
 *In plain terms: governance that keeps hitting quarterly targets while hollowing safety, truth, participation, or the future is not "working governance" — it is a defect this Constitution names and corrects.*
 
-A **short-horizon governance defect** ([Short-Horizon Governance Defect](core_05defs_continuity.md#short-horizon-governance-defect-constitutional)) is a material pattern that optimizes immediate output, convenience, institutional self-protection, or transient stability at the foreseeable expense of medium- or long-horizon constitutional alignment.
+A **short-horizon governance defect** ([Short-Horizon Governance Defect](core_05_band_continuity.md#short-horizon-governance-defect-constitutional)) is a material pattern that optimizes immediate output, convenience, institutional self-protection, or transient stability at the foreseeable expense of medium- or long-horizon constitutional alignment.
 
 Systems must detect, disclose, and correct such defects through **Review and Correction Duty**, contestable oversight, and the incentive and capture discipline in **§§12.3–7.7**.
 ```

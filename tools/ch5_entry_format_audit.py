@@ -35,7 +35,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--root", default=".", help="Workspace root (default: .).")
     parser.add_argument(
         "--file",
-        default="core_05_definitions_home.md",
+        default="core_05__definitions_home.md",
         help="Chapter Five Markdown file under --root.",
     )
     return parser.parse_args()
@@ -310,7 +310,7 @@ def main() -> int:
     root = pathlib.Path(args.root)
     violations: list[str] = []
 
-    if args.file == "core_05_definitions_home.md" and all(
+    if args.file == "core_05__definitions_home.md" and all(
         (root / n).exists() for n in CH5_ALL
     ):
         for name in CH5_ALL:

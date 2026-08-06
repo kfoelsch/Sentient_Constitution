@@ -16,7 +16,7 @@
 - Replace institutional governance ([Institutions](corpus_institutions.md)) or system classification ([Systems and data](corpus_systems.md))
 
 **Implements from the core files:**
-- [Chapter Five](core_05_definitions_home.md) definitions by reference — this layer does not redefine them
+- [Chapter Five](core_05__definitions_home.md) definitions by reference — this layer does not redefine them
 - [Chapter Six](core_06-06_rights_part_c.md) hearing-facing Rights Floor themes — especially [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*), [Article XV-A](core_06-06_rights_part_c.md#article-xv-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXII](core_06-06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), [Article XXIII](core_06-06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) (*Conflict Resolution, Escalation, and Emergency Proportionality*), and [Article XXVI](core_06-06_rights_part_d.md#article-xxvi-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) where forums support transition
 - [Chapter Eleven](core_11-11_forum.md) forum families, jurisdiction, and cross-forum anti-self-judging — the constitutional owner this layer operationalizes
 - [Standing pipeline](README.md#standing-pipeline-and-forums) supervision context under Chapters Seven through Ten — forums hear and route; they do not replace standing measurement owners

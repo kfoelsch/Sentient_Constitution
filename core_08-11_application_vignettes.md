@@ -180,7 +180,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 
 | Stage | Application |
 | --- | --- |
-| Stewardship | [Chapter One §9.1](core_01_c_stewardship_capacity_principles.md#91-stewardship) — tetrad **timeliness** leg; [Stewardship Defect](core_05defs_continuity.md#stewardship-defect-constitutional) when chronic delay after notice |
+| Stewardship | [Chapter One §9.1](core_01_c_stewardship_capacity_principles.md#91-stewardship) — tetrad **timeliness** leg; [Stewardship Defect](core_05_band_continuity.md#stewardship-defect-constitutional) when chronic delay after notice |
 | Q2 measurement | [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) — verified harm from the deferred repair determines any `s` = 4–5 impact slot; **Response timeliness / avoidable delay** is a character descriptor and does not move the slot |
 | Q3 integration | [Chapter Nine §9.5](core_09-09_standing_integration.md#85-timely-implementation-and-reassessment) — **Remedy commencement / pipeline delay** |
 | Pipeline clocks | [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); **CF-11.3.1** Tier B windows |
@@ -198,7 +198,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | Stage | Application |
 | --- | --- |
 | Tetrad hollow | **Timeliness** leg hollowed independently — participation and oversight structures exist but material matters do not move |
-| Definitions | [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional); [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) |
+| Definitions | [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional); [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) |
 | High-impact designation guard | If verified impact reaches Chapter Eight slot 7, 8, or 9 and conduct scales to institutional capture, [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) **tetrad capture** designation review; Chapter Ten does not assign the numeric slot |
 
 **Must not happen:** Using allegations as verified standing inputs to buy time; backlog treated as neutral operations metric.
@@ -213,7 +213,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | No offset across axes | [Chapter Eight §2.2](core_08-08_standing_assessment.md#22-linked-records-and-no-offset-bridge) |
 | One scale, separate records | [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) — shared five-times LEQU bands; Violation slots controlled only by verified impact |
 | Forums may open, update, or correct records — filed case ≠ standing | [Chapter Eight §3.6](core_08-08_standing_assessment.md#36-forum-boundary) |
-| Tetrad timeliness leg | [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional) |
+| Tetrad timeliness leg | [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional) |
 | Timely + efficient + just together | [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) |
 | Numeric tier floors | [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) |
 

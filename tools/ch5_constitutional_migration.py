@@ -20,16 +20,16 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
-PART_A = "core_05_definitions_home.md"
+PART_A = "core_05__definitions_home.md"
 OLD_PART_B = "core_05-05_definitions_b_semi_independent.md"
 OLD_PART_C = "core_05-05_definitions_c_dependent_clusters.md"
 
 BAND_FILES = {
-    "o": "core_05defs_oversight.md",
-    "p": "core_05defs_participation.md",
-    "a": "core_05defs_accountability.md",
-    "c": "core_05defs_continuity.md",
-    "i": "core_05defs_integrative.md",
+    "o": "core_05_band_oversight.md",
+    "p": "core_05_band_participation.md",
+    "a": "core_05_band_accountability.md",
+    "c": "core_05_band_continuity.md",
+    "i": "core_05_band_integrative.md",
 }
 
 BAND_ORDER = ("o", "p", "a", "c", "i")
@@ -241,7 +241,8 @@ INDEPENDENT_BAND_MAP: dict[str, str] = {
     "Restorative Justice": "a",
     "Reversibility": "c",
     "Risk": "c",
-    "Risk Evaluation and Disclosure": "o",
+    "Risk Evaluation": "c",
+    "Risk Disclosure": "o",
     "Safety (Constraint)": "c",
     "Self-Healing": "c",
     "System Capture": "c",
@@ -304,27 +305,27 @@ BAND_PREAMBLES: dict[str, str] = {
 }
 
 NEW_FILES_SPEC: dict[str, dict] = {
-    "core_05defs_oversight.md": {
+    "core_05_band_oversight.md": {
         "band": "o",
         "family_title": "Oversight leg definitions (Chapter One ?8.2���?3.3 clusters)",
         "clusters": ["3.2", "3.3"],
     },
-    "core_05defs_participation.md": {
+    "core_05_band_participation.md": {
         "band": "p",
         "family_title": "Participation leg definitions (?3.5���?3.7 clusters)",
         "clusters": ["3.5", "3.6", "3.7"],
     },
-    "core_05defs_accountability.md": {
+    "core_05_band_accountability.md": {
         "band": "a",
         "family_title": "Accountability leg definitions (?3.8���Chapter One ?8.11 clusters)",
         "clusters": ["3.8", "3.9", "3.10", "3.11"],
     },
-    "core_05defs_continuity.md": {
+    "core_05_band_continuity.md": {
         "band": "c",
         "family_title": "Continuity aim definitions (Chapter One ?8.12���Chapter One ?8.15 clusters)",
         "clusters": ["3.12", "3.13", "3.14", "3.15"],
     },
-    "core_05defs_integrative.md": {
+    "core_05_band_integrative.md": {
         "band": "i",
         "family_title": "Integrative cross-leg definitions (Chapter One ?8.16 cluster)",
         "clusters": ["3.16"],
@@ -351,11 +352,11 @@ CLUSTER_ANCHORS: dict[str, str] = {
 
 REDIRECT_MAP = {
     OLD_PART_B: (
-        "core_05defs_accountability.md",
+        "core_05_band_accountability.md",
         "Semi-independent definitions are now distributed across constitutional band files.",
     ),
     OLD_PART_C: (
-        "core_05defs_integrative.md",
+        "core_05_band_integrative.md",
         "Dependent clusters are now distributed across constitutional band files.",
     ),
 }
@@ -523,7 +524,7 @@ def constitutional_frame_lines(new_id: str) -> list[str]:
     lines = [
         f"- Constitutional frame: **{meta['leg']}** leg; **{meta['aim']}** aim (primary); "
         "scales with [material stake](../core_00_preamble.md#material-stake) via "
-        "[Materiality Determination](../core_05defs_oversight.md#materiality-determination)."
+        "[Materiality Determination](../core_05_band_oversight.md#materiality-determination)."
     ]
     if meta.get("cross"):
         lines.append(f"- Cross-leg note: {meta['cross']}.")
@@ -532,7 +533,7 @@ def constitutional_frame_lines(new_id: str) -> list[str]:
     if meta.get("basis"):
         lines.append(
             f"- Chapter One basis: {meta['basis']} (see "
-            "[Chapter Five compass](../core_05_definitions_home.md#chapter-five-compass-and-definition-map) map)."
+            "[Chapter Five compass](../core_05__definitions_home.md#chapter-five-compass-and-definition-map) map)."
         )
     return lines
 
@@ -604,7 +605,7 @@ BAND_CHAIN = (
 
 def band_footer(filename: str) -> str:
     idx = BAND_CHAIN.index(filename)
-    prev_file = BAND_CHAIN[idx - 1] if idx > 0 else "core_05_definitions_home.md"
+    prev_file = BAND_CHAIN[idx - 1] if idx > 0 else "core_05__definitions_home.md"
     next_file = "core_08-08_standing_assessment.md" if idx == len(BAND_CHAIN) - 1 else BAND_CHAIN[idx + 1]
     return (
         f"\n\n---\n\n"
@@ -803,7 +804,7 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 1. This compass and the constitutional bands below.
 2. The band file for the relevant Triad leg, **Continuity** band, or **Integrative** band.
 3. Individual definition O/E/C entries; dependent clusters per admission scope.
-4. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](core_05defs_accountability.md#non-compliance-finding-profile) metadata.
+4. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](core_05_band_accountability.md#non-compliance-finding-profile) metadata.
 
 **Constitutional bands**
 

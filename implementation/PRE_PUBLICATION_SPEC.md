@@ -130,7 +130,7 @@ Chapters Twelve–Fifteen when adopting as a polity or organization with an amen
 
 | Item | Notes |
 |---|---|
-| Remaining Chapter Five defs bands | Done: accountability, continuity. **Unfinished (need operator attention):** [`core_05defs_oversight.md`](../core_05defs_oversight.md), [`core_05defs_participation.md`](../core_05defs_participation.md), [`core_05defs_integrative.md`](../core_05defs_integrative.md), [`core_05defs_performance.md`](../core_05defs_performance.md) (unedited) |
+| Remaining Chapter Five defs bands | Done: accountability, continuity. **Unfinished (need operator attention):** [`core_05_band_oversight.md`](../core_05_band_oversight.md), [`core_05_band_participation.md`](../core_05_band_participation.md), [`core_05_band_integrative.md`](../core_05_band_integrative.md), [`core_05_band_performance.md`](../core_05_band_performance.md) (unedited) |
 | **Audit stack** | Mature a reader-facing + implementable audit / oversight stack (gap; not mature today) |
 | **Remedy stack** | Named use stack — clear human door + owner path (Ch 9 §9 / CI-27 and related) |
 | **Emergency / continuity stack** | Named use stack — clear human door + owner path |
@@ -175,7 +175,7 @@ Chapters Twelve–Fifteen when adopting as a polity or organization with an amen
 
 ### 6.1 Performance defs band — **resolved**
 
-[`core_05defs_performance.md`](../core_05defs_performance.md) is **unedited** and **requires operator attention**. It is part of the unfinished defs set with oversight, participation, and integrative.
+[`core_05_band_performance.md`](../core_05_band_performance.md) is **unedited** and **requires operator attention**. It is part of the unfinished defs set with oversight, participation, and integrative.
 
 ### 6.2 “Minimum definition kit” — **reframed / largely resolved**
 

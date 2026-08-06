@@ -10,7 +10,7 @@
 ## Required fields (recurring report)
 
 1. **Authority** — legal or policy basis for the decision body.
-2. **Decision scope** — what is and is not within the governing [Charter](../core_05defs_continuity.md#charter) (**CI-3.6** minimum fields).
+2. **Decision scope** — what is and is not within the governing [Charter](../core_05_band_continuity.md#charter) (**CI-3.6** minimum fields).
 3. **Participation gates** — who may participate under which rules.
 4. **Dissent and challenge** — routes, time limits, escalation.
 5. **Conflicts** — disclosed interests for decision participants (link to **CI-5**).

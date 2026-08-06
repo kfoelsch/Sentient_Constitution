@@ -38,14 +38,14 @@ Editorial model: **safe redundancy** = one canonical exposition + pointers (see 
 
 | File | Hits |
 | --- | ---: |
-| core_05defs_participation.md | 5 |
-| core_05apex_participation_leg.md | 2 |
+| core_05_band_participation.md | 5 |
+| core_05_apex_participation_leg.md | 2 |
 
 ### By theme family
 
 | Theme | Hits | Default action | Canonical home |
 | --- | ---: | --- | --- |
-| Governance layer separation (authorization vs participation) | 2 | thin | core_00_preamble.md §4–§5; core_05defs_integrative.md Constitutional Contract c… |
+| Governance layer separation (authorization vs participation) | 2 | thin | core_00_preamble.md §4–§5; core_05_band_integrative.md Constitutional Contract c… |
 | Rights-Floor jurisdiction / does not displace Ch6 | 2 | keep | core_06-06_rights_part_*.md; Trace routing |
 | Anti-formalism / label-gaming evasion block | 2 | review | core_02-03_definition_mechanics.md Chapter Three §2.2.1; core_01_c_stewardship_… |
 | Symbolic / theater participation negative | 1 | thin | core_01_c_stewardship_capacity_principles.md §11; Participation definition |
@@ -62,9 +62,9 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 
 | File | Line | Term | Comp | Theme | Excerpt |
 | --- | ---: | --- | --- | --- | --- |
-| core_05apex_participation_leg.md | 29 | (no heading) | O | layer_separation | Give affected sentients and [Stakeholders](core_05defs_participation.md#stakeholder) real voice in… |
-| core_05apex_participation_leg.md | 29 | (no heading) | O | symbolic_participation | Give affected sentients and [Stakeholders](core_05defs_participation.md#stakeholder) real voice in… |
-| core_05defs_participation.md | 1712 | Binding Stakeholder Choice — Decision-R… | O | layer_separation | A **Stakeholder System Participation** layer requirement: when material disagreement requires a bin… |
+| core_05_apex_participation_leg.md | 29 | (no heading) | O | layer_separation | Give affected sentients and [Stakeholders](core_05_band_participation.md#stakeholder) real voice in… |
+| core_05_apex_participation_leg.md | 29 | (no heading) | O | symbolic_participation | Give affected sentients and [Stakeholders](core_05_band_participation.md#stakeholder) real voice in… |
+| core_05_band_participation.md | 1712 | Binding Stakeholder Choice — Decision-R… | O | layer_separation | A **Stakeholder System Participation** layer requirement: when material disagreement requires a bin… |
 
 ## Suggested editorial waves
 
@@ -87,7 +87,7 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 
 - **Label:** Proxy / engagement / self-report substitution
 - **Action:** thin
-- **Canonical home:** core_05defs_oversight.md Proxy Divergence; core_01_c_stewardship_capacity_principles.md §11.1.2
+- **Canonical home:** core_05_band_oversight.md Proxy Divergence; core_01_c_stewardship_capacity_principles.md §11.1.2
 - **Notes:** Tertiary measurement checks may become single Trace read-with Proxy Divergence.
 - **Patterns:** `proxy throughput`, `engagement metrics`, `institutional self-report`, `institutional assertion`, `symbolic compliance`, `busywork`, `metrics that no longer prove`, `distinguish durable .* from proxy`, `tertiary integrity check`
 
@@ -103,7 +103,7 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 
 - **Label:** Governance layer separation (authorization vs participation)
 - **Action:** thin
-- **Canonical home:** core_00_preamble.md §4–§5; core_05defs_integrative.md Constitutional Contract cluster
+- **Canonical home:** core_00_preamble.md §4–§5; core_05_band_integrative.md Constitutional Contract cluster
 - **Notes:** One canonical exposition + short local pointer; remove repeated full layer essays.
 - **Patterns:** `constitutional contract layer`, `stakeholder system participation`, `authorization layer`, `foundational constitutional choice`, `not a substitute for constitutional authorization`, `does not erase duties owed under`
 

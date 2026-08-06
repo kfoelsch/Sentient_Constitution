@@ -17,7 +17,7 @@
 
 **Implements from the core files:**
 - [Chapter One](core_01_a_values_principles.md) / [Preamble](core_00_preamble.md) — [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) as the compass for **CJS-5** cluster bands
-- [Chapter Five](core_05_definitions_home.md) definition stack and [Corpus](core_05defs_integrative.md#corpus) designation — joint interfaces and operational clusters that must track constitutional meaning without redefining it
+- [Chapter Five](core_05__definitions_home.md) definition stack and [Corpus](core_05_band_integrative.md#corpus) designation — joint interfaces and operational clusters that must track constitutional meaning without redefining it
 - Cross-layer support for [Chapter Six](core_06-06_rights_part_a.md) through [Chapter Twelve](core_12-12_governance.md) where systems, institutions, and forums must satisfy shared integrity terms together
 - [Chapter Sixteen](core_16-16_incorporation.md) incorporation discipline for how implementation text binds when adopted
 
@@ -37,7 +37,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in the linked subfiles.
 >
-> *(Edition alignment: same labels as the Sentient Constitution numbered `core_*.md` files (see [README.md](README.md)), `core_05_definitions_home.md`, `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md`.)*
+> *(Edition alignment: same labels as the Sentient Constitution numbered `core_*.md` files (see [README.md](README.md)), `core_05__definitions_home.md`, `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md`.)*
 >
 > **Compatibility entrypoint:** this root file is the stable navigation wrapper for the joint-structure implementation file. Substantive CJS text lives in the `corpus_joint_structure/` subfiles. Broad references to `corpus_joint_structure.md` continue to mean the joint-structure implementation file as a whole.
 >

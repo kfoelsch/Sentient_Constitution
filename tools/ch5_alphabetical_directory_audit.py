@@ -2,7 +2,7 @@
 """Audit Chapter Five alphabetical directory and section 1 order.
 
 Checks the non-operative Definitions A-Z / Clusters A-Z directory in
-``core_05_definitions_home.md`` and preserves the older section 1
+``core_05__definitions_home.md`` and preserves the older section 1
 Independent Definitions heading-order check.
 """
 
@@ -21,7 +21,7 @@ from ch5_single_definition_audit import (
 )
 
 CH5_FILE_PATTERN = re.compile(
-    r"^core_05(?:-05_definitions_a_independent|apex_[a-z_]+|defs_[a-z]+)\.md$"
+    r"^core_05(?:-05_definitions_a_independent|_apex_[a-z_]+|_band_[a-z]+|__definitions_home)\.md$"
 )
 SECTION1_HEADING = "### 1. Independent Definitions"
 HEADING_RE = re.compile(r"^####\s+(.+)$")

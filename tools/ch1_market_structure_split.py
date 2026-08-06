@@ -53,12 +53,12 @@ MARKET_STRUCTURE_INTRO = """<a id="9-market-structure"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Market Structure](core_05defs_accountability.md#market-structure-constitutional) · [O](core_05defs_accountability.md#market-structure-constitutional) · [E](core_05defs_accountability.md#market-structure-constitutional-e) · [C](core_05defs_accountability.md#market-structure-constitutional-c)
-- [Concentration Threshold](core_05defs_accountability.md#concentration-threshold-constitutional) · [O](core_05defs_accountability.md#concentration-threshold-constitutional) · [E](core_05defs_accountability.md#concentration-threshold-constitutional-e) · [C](core_05defs_accountability.md#concentration-threshold-constitutional-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [E](core_05defs_accountability.md#contestability-e) · [C](core_05defs_accountability.md#contestability-c)
-- [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) · [O](core_05defs_oversight.md#proxy-divergence) · [E](core_05defs_oversight.md#proxy-divergence-e) · [C](core_05defs_oversight.md#proxy-divergence-c)
-- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [E](core_05defs_continuity.md#dependency-e) · [C](core_05defs_continuity.md#dependency-c)
-- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [E](core_05defs_participation.md#meaningful-agency-e) · [C](core_05defs_participation.md#meaningful-agency-c)
+- [Market Structure](core_05_band_accountability.md#market-structure-constitutional) · [O](core_05_band_accountability.md#market-structure-constitutional) · [E](core_05_band_accountability.md#market-structure-constitutional-e) · [C](core_05_band_accountability.md#market-structure-constitutional-c)
+- [Concentration Threshold](core_05_band_accountability.md#concentration-threshold-constitutional) · [O](core_05_band_accountability.md#concentration-threshold-constitutional) · [E](core_05_band_accountability.md#concentration-threshold-constitutional-e) · [C](core_05_band_accountability.md#concentration-threshold-constitutional-c)
+- [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [E](core_05_band_accountability.md#contestability-e) · [C](core_05_band_accountability.md#contestability-c)
+- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [E](core_05_band_oversight.md#proxy-divergence-e) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [E](core_05_band_continuity.md#dependency-e) · [C](core_05_band_continuity.md#dependency-c)
+- [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_accountability.md#meaningful-agency-o) · [E](core_05_band_participation.md#meaningful-agency-e) · [C](core_05_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -119,7 +119,7 @@ def split_part_b(text: str) -> str:
         "",
     )
     before = before.replace(
-        "- [Concentration Threshold](core_05defs_accountability.md#concentration-threshold-constitutional) · [O](core_05defs_accountability.md#concentration-threshold-constitutional) · [E](core_05defs_accountability.md#concentration-threshold-constitutional-e) · [C](core_05defs_accountability.md#concentration-threshold-constitutional-c)\n",
+        "- [Concentration Threshold](core_05_band_accountability.md#concentration-threshold-constitutional) · [O](core_05_band_accountability.md#concentration-threshold-constitutional) · [E](core_05_band_accountability.md#concentration-threshold-constitutional-e) · [C](core_05_band_accountability.md#concentration-threshold-constitutional-c)\n",
         "",
     )
     before = before.replace(

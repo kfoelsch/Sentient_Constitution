@@ -44,13 +44,13 @@ Step 4: Edit with confidence
 **Example:**
 ```python
 # Instead of reading entire file:
-# read_file("core_05_definitions_home.md")  # 1,300 lines!
+# read_file("core_05__definitions_home.md")  # 1,300 lines!
 
 # Query manifest for "Proportionality"
 # Result: lines 1100-1119
 
 # Read only definition entry:
-read_file("core_05_definitions_home.md", offset=1100, limit=20)
+read_file("core_05__definitions_home.md", offset=1100, limit=20)
 ```
 
 ### Pattern 2: Cross-File Reference Audit
@@ -154,7 +154,7 @@ Step 3: Run `make ai-corpus-sync`
 | core_01_c_stewardship_capacity_principles.md | ~1,078 | Chapter One, Part C — §§9–14 (stewardship → evaluation → integrated capstone) |
 | core_02-03_definition_mechanics.md | ~310 | O/M/A/C structure; definition integrity and evasion (Ch 2–3) |
 | core_04-04_burden_traceability_verification.md | ~340 | Burden of proof, traceability, verification (Ch 4) |
-| core_05_definitions_home.md | ~1,300 | Independent definitions A-Z |
+| core_05__definitions_home.md | ~1,300 | Independent definitions A-Z |
 | core_05-05_definitions_b_semi_independent.md | ~1,900 | Semi-independent definitions |
 | core_05-05_definitions_c_dependent_clusters.md | ~1,800 | Dependent definition clusters |
 | core_08-08_standing_assessment.md | ~880 | Two-axis standing model |

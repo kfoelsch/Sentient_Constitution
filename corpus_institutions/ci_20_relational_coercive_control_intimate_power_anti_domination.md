@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-20: Relational coercive control, intimate power, and anti-domination routing**.
 - Read with: **CI-20**; **CI-6**; **CI-8**; **CI-5**.
 
@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [M](../core_05defs_oversight.md#transparency-a) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [Coercion and Manipulation](../core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](../core_05defs_participation.md#coercion-and-manipulation-constitutional) · [M](../core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [A](../core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](../core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
-- [Meaningful Agency](../core_05defs_participation.md#meaningful-agency) · [O](../core_05defs_participation.md#meaningful-agency) · [M](../core_05defs_participation.md#meaningful-agency-a) · [A](../core_05defs_participation.md#meaningful-agency-a) · [C](../core_05defs_participation.md#meaningful-agency-c)
+- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
+- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
+- [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
+- [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
+- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
+- [Coercion and Manipulation](../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [Meaningful Agency](../core_05_band_participation.md#meaningful-agency) · [O](../core_05_band_participation.md#meaningful-agency) · [M](../core_05_band_participation.md#meaningful-agency-a) · [A](../core_05_band_participation.md#meaningful-agency-a) · [C](../core_05_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -40,7 +40,7 @@
 *Shared rules live elsewhere.*
 
 - **[CJS-5.17](../corpus_joint_structure.md)** (*interoperability, portability, and exit-integrity terms*) — **Dependency-based coercion and reputation-lock pathway integrity**: economic dependence, credential custody, reputation systems, visibility controls, retaliation risk, and practical alternatives evaluated together.
-- **Chapter Five** [*Coercion and Manipulation*](../core_05defs_participation.md#coercion-and-manipulation-constitutional) and [*Meaningful Agency*](../core_05defs_participation.md#meaningful-agency) — definitional home for coercive leverage and dependency-pressure analysis.
+- **Chapter Five** [*Coercion and Manipulation*](../core_05_band_participation.md#coercion-and-manipulation-constitutional) and [*Meaningful Agency*](../core_05_band_participation.md#meaningful-agency) — definitional home for coercive leverage and dependency-pressure analysis.
 - **Article IX-A** (*Freedom from Manipulation*) in **Chapter Six** — freedom-from-manipulation floor for dependency-rich systems and coercive choice architecture.
 - **Article X-A** (*Non-Imposition and Consent in Association*) in **Chapter Six** — consent and non-imposition norms in cooperative and associational settings; exit from coercive group settings remains protected.
 - **Article V-D** (*Freedom of Conscience, Religion, and Comparable Worldview*) and **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) in **Chapter Six** — conscience, family, and care-relationship protections that this file does not dissolve.

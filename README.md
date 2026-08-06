@@ -10,7 +10,7 @@ Operative constitutional text for the **Sentient Constitution** lives in the num
 | **Effective date** | 2026-06-18 |
 | **Status** | Substantive binding text through **Chapter Sixteen** is **stable for assurance review** under this edition. **SC-Corpus-2026.06.18** reorganizes Chapter Five into constitutional **band files** (Oversight, Participation, Accountability, Continuity, Integrative), assigns dependent clusters **Def.O1–Def.I1**, and adds the Chapter Five compass in Part A. |
 
-Custody and binding scope: [Chapter Five *Corpus*](core_05defs_integrative.md#corpus) and [Chapter Sixteen](core_16-16_incorporation.md). Bump the edition label only on a deliberate corpus publication cut.
+Custody and binding scope: [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) and [Chapter Sixteen](core_16-16_incorporation.md). Bump the edition label only on a deliberate corpus publication cut.
 
 ## How to read
 
@@ -36,23 +36,23 @@ The corpus is written in plain language with low jargon to improve accessibility
 - **Chapters Two and Three** (structure and integrity) — [`core_02-03_definition_mechanics.md`](core_02-03_definition_mechanics.md)
 - **Chapter Four** (burden, traceability, verification) — [`core_04-04_burden_traceability_verification.md`](core_04-04_burden_traceability_verification.md)
 - **Chapter Five** (foundational definitions)
-  - Part A — compass, reader guidance, directory, dependent-cluster meta rules — [`core_05_definitions_home.md`](core_05_definitions_home.md)
-  - Accountability leg — canonical O/M/A/C home and hierarchy map — [`core_05apex_accountability_leg.md`](core_05apex_accountability_leg.md)
-  - Continuity aim — canonical aim home and hierarchy map — [`core_05apex_continuity_aim.md`](core_05apex_continuity_aim.md)
-  - Flourishing aim — canonical aim home and hierarchy map — [`core_05apex_flourishing_aim.md`](core_05apex_flourishing_aim.md)
-  - Oversight leg — canonical O/M/A/C home and hierarchy map — [`core_05apex_oversight_leg.md`](core_05apex_oversight_leg.md)
-  - Participation leg — canonical O/M/A/C home and hierarchy map — [`core_05apex_participation_leg.md`](core_05apex_participation_leg.md)
-  - Timeliness leg — canonical O/M/A/C home and hierarchy map — [`core_05apex_timeliness_leg.md`](core_05apex_timeliness_leg.md)
-  - Accountability band — Independent / Semi-independent / **Def.A1–Def.A4** — [`core_05defs_accountability.md`](core_05defs_accountability.md)
-  - Continuity band — Independent / Semi-independent / **Def.C1–Def.C4** — [`core_05defs_continuity.md`](core_05defs_continuity.md)
-  - Integrative band — Independent / Semi-independent / **Def.I1** — [`core_05defs_integrative.md`](core_05defs_integrative.md)
-  - Oversight band — Independent / Semi-independent / **Def.O1–Def.O2** — [`core_05defs_oversight.md`](core_05defs_oversight.md)
-  - Participation band — Independent / Semi-independent / **Def.P1–Def.P3** — [`core_05defs_participation.md`](core_05defs_participation.md)
-  - Constitutional Performance band — Preamble measurement-family home (leaf definitions currently in the Continuity band) — [`core_05defs_performance.md`](core_05defs_performance.md)
+  - Part A — compass, reader guidance, directory, dependent-cluster meta rules — [`core_05__definitions_home.md`](core_05__definitions_home.md)
+  - Accountability leg — canonical O/M/A/C home and hierarchy map — [`core_05_apex_accountability_leg.md`](core_05_apex_accountability_leg.md)
+  - Continuity aim — canonical aim home and hierarchy map — [`core_05_apex_continuity_aim.md`](core_05_apex_continuity_aim.md)
+  - Flourishing aim — canonical aim home and hierarchy map — [`core_05_apex_flourishing_aim.md`](core_05_apex_flourishing_aim.md)
+  - Oversight leg — canonical O/M/A/C home and hierarchy map — [`core_05_apex_oversight_leg.md`](core_05_apex_oversight_leg.md)
+  - Participation leg — canonical O/M/A/C home and hierarchy map — [`core_05_apex_participation_leg.md`](core_05_apex_participation_leg.md)
+  - Timeliness leg — canonical O/M/A/C home and hierarchy map — [`core_05_apex_timeliness_leg.md`](core_05_apex_timeliness_leg.md)
+  - Accountability band — Independent / Semi-independent / **Def.A1–Def.A4** — [`core_05_band_accountability.md`](core_05_band_accountability.md)
+  - Continuity band — Independent / Semi-independent / **Def.C1–Def.C4** — [`core_05_band_continuity.md`](core_05_band_continuity.md)
+  - Integrative band — Independent / Semi-independent / **Def.I1** — [`core_05_band_integrative.md`](core_05_band_integrative.md)
+  - Oversight band — Independent / Semi-independent / **Def.O1–Def.O2** — [`core_05_band_oversight.md`](core_05_band_oversight.md)
+  - Participation band — Independent / Semi-independent / **Def.P1–Def.P3** — [`core_05_band_participation.md`](core_05_band_participation.md)
+  - Constitutional Performance band — Preamble measurement-family home (leaf definitions currently in the Continuity band) — [`core_05_band_performance.md`](core_05_band_performance.md)
 
 ### Standing pipeline and forums
 
-- **Chapter Seven** — system alignment certification before standing (one especially large audit process under **Article XV** / [Auditability](core_05defs_oversight.md#auditability); not the sole auditing home)
+- **Chapter Seven** — system alignment certification before standing (one especially large audit process under **Article XV** / [Auditability](core_05_band_oversight.md#auditability); not the sole auditing home)
   - Part A — evaluation (§1–§10) — [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md)
   - Part B — record and process (§11–§16) — [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md)
   - Reading index — [`core_07-07_system_alignment_certification.md`](core_07-07_system_alignment_certification.md)
@@ -89,7 +89,7 @@ Cross-topic entry points not spelled out in the headings above:
 
 - Burden of proof, traceability, verification → **Chapter Four** ([`core_04-04_burden_traceability_verification.md`](core_04-04_burden_traceability_verification.md))
 - Constitutional Tetrad, Two Constitutional Aims, material stake → **Preamble §1 The Model** ([`#constitutional-tetrad`](core_00_preamble.md#constitutional-tetrad), [`#two-constitutional-aims`](core_00_preamble.md#two-constitutional-aims), [`#material-stake`](core_00_preamble.md#material-stake)); Chapter One develops the aims into operative principles
-- Auditing / auditability / independent verification → **Article XV** (*Audit, Transparency, and Independent Verification*); Chapter Five [Auditability](core_05defs_oversight.md#auditability) and **Def.O1** cluster; implementation process home → **[CJS-5.3](corpus_joint_structure/cjs_05_audit_process.md#cjs-53-audit-process-home)** (what / why / how / when); machine-facing terms → **CJS-5.3**–**CJS-5.5** OP annexes in [cjs_05o_oversight_operations.md](corpus_joint_structure/cjs_05o_oversight_operations.md) (including **CJS-5.4** audit-process output disclosure preference: **Type O** where feasible, then qualified **Type G** / non-public source, then forensic or more-restricted tiers only as justified). Under the **oversight** Tetrad leg, oversight requires auditing; **Chapter Seven** system alignment certification is one especially large, high-stakes audit process among others — sibling modes include System Classification Record audit under **CS-3** §7.3 and System Data Types Record audit under **CS-2** §8.3 — not the sole auditing home
+- Auditing / auditability / independent verification → **Article XV** (*Audit, Transparency, and Independent Verification*); Chapter Five [Auditability](core_05_band_oversight.md#auditability) and **Def.O1** cluster; implementation process home → **[CJS-5.3](corpus_joint_structure/cjs_05_audit_process.md#cjs-53-audit-process-home)** (what / why / how / when); machine-facing terms → **CJS-5.3**–**CJS-5.5** OP annexes in [cjs_05o_oversight_operations.md](corpus_joint_structure/cjs_05o_oversight_operations.md) (including **CJS-5.4** audit-process output disclosure preference: **Type O** where feasible, then qualified **Type G** / non-public source, then forensic or more-restricted tiers only as justified). Under the **oversight** Tetrad leg, oversight requires auditing; **Chapter Seven** system alignment certification is one especially large, high-stakes audit process among others — sibling modes include System Classification Record audit under **CS-3** §7.3 and System Data Types Record audit under **CS-2** §8.3 — not the sole auditing home
 - System alignment certification records → **Chapter Seven**
 - Contribution / violation records and measurement (Contribution Axis and Violation Axis; Questions 1 and 2) → **Chapter Eight**
 - Standing integration and effects (Question 3; violation, correction, and prevention, lock design and enforcement, then contribution gates) → **Chapter Nine**
@@ -116,7 +116,7 @@ Designated obligations in these wrappers and their subfile directories are **bin
 | **Binding incorporated implementation** | Designated obligations in the companion wrappers and linked subfiles above, within valid adoption scope |
 | **Process / map support** | [doc_architecture.md](doc_architecture.md), `TODO.md`, regression and evidence artifacts, and implementation notes unless explicitly adopted |
 
-**Conflict order:** Sentient Constitution meaning controls. Use the **Authority Stack and Internal Hierarchy**, the [**Preamble owner register**](core_00_preamble.md#constitutional-owner-register), and [**Constitutional Constraint**](core_05defs_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, Sentient Constitution [Constitutional Constraints](core_05defs_integrative.md#constitutional-constraint).
+**Conflict order:** Sentient Constitution meaning controls. Use the **Authority Stack and Internal Hierarchy**, the [**Preamble owner register**](core_00_preamble.md#constitutional-owner-register), and [**Constitutional Constraint**](core_05_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, Sentient Constitution [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint).
 
 The structure map ([doc_architecture.md](doc_architecture.md)) and corpus cross-references are maintained in lockstep with the numbered core files. Former `doc_architecture.md` sections **14–19** (worklist, adoption appendix, document control) live in [archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md) and [archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md).
 

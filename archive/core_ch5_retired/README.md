@@ -7,7 +7,7 @@ The pre–constitutional-reorganization Chapter Five Part B and Part C files wer
 | `core_05-05_definitions_b_semi_independent.md` | `core_05o_oversight_definitions.md`, `core_05p_participation_definitions.md`, `core_05a_accountability_definitions.md`, `core_05c_continuity_definitions.md`, `core_05i_integrative_definitions.md` |
 | `core_05-05_definitions_c_dependent_clusters.md` | Same five band files (dependent clusters renumbered §3.2–§3.16) |
 
-**Index and compass:** [core_05_definitions_home.md](../../core_05_definitions_home.md) — Chapter Five compass, alphabetical directory, and §3.0 meta rules.
+**Index and compass:** [core_05__definitions_home.md](../../core_05__definitions_home.md) — Chapter Five compass, alphabetical directory, and dependent-cluster meta rules.
 
 **Evidence:** [evidence/2026-06-18/ch5_band_assignment_matrix_2026-06-18.csv](../../evidence/2026-06-18/ch5_band_assignment_matrix_2026-06-18.csv)
 

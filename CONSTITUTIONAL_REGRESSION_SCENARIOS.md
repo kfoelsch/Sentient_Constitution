@@ -663,7 +663,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CH9-Q3-REWARD-001
 - **Class:** adversarial / forfeiture proportionality
 - **Summary:** A sentient retains an ordinary-work payment without knowledge of misalignment, an affected party receives restitution, and a dependent would face greater constitutional harm from revocation. Expected result: none is treated as knowing acceptance or automatic forfeiture; the recorded proportionality analysis protects ordinary compensation, repair payments, and constitutionally required retention.
-- **Read with:** [Chapter Nine §5.4](core_09-09_standing_integration.md#54-special-violation-rules); [Necessity](core_05defs_accountability.md#necessity); [Proportionality](core_05defs_accountability.md#proportionality).
+- **Read with:** [Chapter Nine §5.4](core_09-09_standing_integration.md#54-special-violation-rules); [Necessity](core_05_band_accountability.md#necessity); [Proportionality](core_05_band_accountability.md#proportionality).
 
 ### Scenario ID: RS-CH9-Q3-DESIGNATION-001
 - **Class:** adversarial / downstream handoff
@@ -688,7 +688,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-XXIV-C-DELAY-001
 - **Class:** adversarial / anti-delay
 - **Summary:** Designed backlog and exhaustion delay defeat **Article XII-B** and **Article XXIV-C**; chronic underfunding of remedy organ under [Chapter Nine §9.2](core_09-09_standing_integration.md#82-remedy-system-durability) is non-compliance; allegations must not substitute for verified standing during delay.
-- **Read with:** [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional); [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional); **CF-11.4**; **CF-11.5**.
+- **Read with:** [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional); [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional); **CF-11.4**; **CF-11.5**.
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-001
 - **Class:** implementation / tetrad-timeliness vignette
@@ -698,7 +698,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-TETRAD-TIMELINESS-002
 - **Class:** adversarial / tetrad-hollow
 - **Summary:** Forum maintains formal structures but pipeline milestones chronically overrun without extension — **timeliness** leg hollowed while O·P·A forms persist; may escalate to **tetrad capture** under Chapter Ten at scale. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-pipeline-overrun-tetrad-hollow).
-- **Read with:** [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional); [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways); [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct); **CF-11.3.1**.
+- **Read with:** [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional); [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways); [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct); **CF-11.3.1**.
 
 ### Scenario ID: RS-CH5-GW-001
 - **Class:** implementation / catalog seed (reinstatement)

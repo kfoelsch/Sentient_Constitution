@@ -28,7 +28,7 @@ These type letters name different kinds of data and how they are usually shared 
 **Access-posture bands.** Types are grouped by **default access posture** so shared band rules in [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands) apply once. Band order below is for reading clarity only — **not** a sensitivity ranking.
 
 **Open / accessible by default** — strong presumption of openness or accessibility; hold-backs are narrow ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)):
-- **Type O** — Open public oversight baseline disclosure data: [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) for oversight and contestability, including lawful substitutes where Type G, Type E, or other source stays non-public or non-baseline; open by default (strong presumption).
+- **Type O** — Open public oversight baseline disclosure data: [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) for oversight and contestability, including lawful substitutes where Type G, Type E, or other source stays non-public or non-baseline; open by default (strong presumption).
 - **Type E** — Environmental, emergency, and survival-coordination data: environment, infrastructure, emergency, and other content streams needed to stay safe and coordinate harm prevention; accessible by default (strong presumption); published Public Oversight Baseline Disclosure artifacts drawn from it are Type O.
 
 **Audit-accessible, not public** — fully auditable; not public by default; public face is Type O ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)):
@@ -57,9 +57,9 @@ These type letters name different kinds of data and how they are usually shared 
 - **where environmental harm comes from and how heavy its load is** on the living world and the shared life-support systems people depend on
 
 **Relationship to Type O:**
-- **Type E** is the **content domain** for survival- and coordination-critical data — not [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure).
+- **Type E** is the **content domain** for survival- and coordination-critical data — not [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure).
 - Published Public Oversight Baseline Disclosure artifacts drawn from **Type E** — including aggregated public environmental or hazard summaries, published emergency notices at public-baseline fidelity, and other baseline disclosure artifacts — must be classified and handled as **Type O**.
-- Where a **Type O** baseline applies, systems must still release sufficient [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) even when the underlying streams remain **Type E**.
+- Where a **Type O** baseline applies, systems must still release sufficient [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) even when the underlying streams remain **Type E**.
 - A **Type O** notice must leave the underlying coordination stream’s **Type E** accessibility, timeliness, and anti-suppression duties fully in force.
 
 **Disclosure posture:** **Presumptive accessibility** under the **open / accessible by default** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)). Narrow hold-backs require justification under **CJS-5.12** (*burden-of-justification and constraint terms*) and **CJS-5.5** (*independent verification and claim-integrity terms*). Shared timeliness, presentation, fidelity, and restriction-discipline rules are in [Part A §5.1](cs_02_a_information_types_and_handling.md#51-proportional-access-and-handling)–[§5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access).
@@ -108,9 +108,9 @@ These type letters name different kinds of data and how they are usually shared 
 - **challenge, review, and corrective-action** source dockets not themselves released as **Type O**
 
 **Relationship to Type O:**
-- **Type G** is **not** [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure).
+- **Type G** is **not** [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure).
 - Public Oversight Baseline Disclosure publication — including summaries, aggregates, de-identified releases, delayed releases, and other lawful substitutes drawn from **Type G** source — must be classified and handled as **Type O**.
-- When [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) is required, systems must still publish a usable Type O disclosure — even if the **Type G** source records stay non-public.
+- When [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) is required, systems must still publish a usable Type O disclosure — even if the **Type G** source records stay non-public.
 
 **Disclosure posture:** **Not public by default** under the **audit-accessible, not public** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)). Access is through **structured or qualified audit access** under **CJS-5.3** (*auditability and reconstructability terms*) and **CJS-5.4** (*tiered transparency and audit-access terms*), with public-facing accountability carried by **Type O**.
 
@@ -136,7 +136,7 @@ These type letters name different kinds of data and how they are usually shared 
 **Access.** Systems must:
 - provide **Type G** data to authorized auditors, oversight bodies, and other qualified reviewers in a manner that is **understandable**, **documented**, **attributable**, **versioned** where material changes occur, and **retained** for a duration proportional to system impact and dependency
 - publish access gates, eligibility rules, and qualification routes for audit as **Type O** where they govern who may reach **Type G** source
-- preserve audit sufficiency and publish the strongest feasible **Type O** substitute where [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) applies, when raw **Type G** disclosure is inappropriate under [Part A §7](cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems) or more-restrictive applicable typing under [Part A §2](cs_02_a_information_types_and_handling.md#2-determination-of-classification)
+- preserve audit sufficiency and publish the strongest feasible **Type O** substitute where [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) applies, when raw **Type G** disclosure is inappropriate under [Part A §7](cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems) or more-restrictive applicable typing under [Part A §2](cs_02_a_information_types_and_handling.md#2-determination-of-classification)
 - **limit further restriction of audit access** so that:
   - it does **not** defeat Disclosure posture or the **audit-accessible, not public** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands))
   - further restriction is permitted only where more-restrictive applicable typing under [Part A §2](cs_02_a_information_types_and_handling.md#2-determination-of-classification) or [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) (*Tiered transparency and audit access*) requires it
@@ -144,7 +144,7 @@ These type letters name different kinds of data and how they are usually shared 
 
 **Handling — prohibited.** Systems managing **Type G** data must **not:**
 - classify governance-relevant or operationally material information as secret **merely** for convenience, reputational protection, or power preservation
-- treat non-public **Type G** status as a substitute for [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure)
+- treat non-public **Type G** status as a substitute for [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure)
 - provide **performative summaries** while withholding information necessary for meaningful qualified audit
 - use **complexity, opacity, or format fragmentation** to defeat auditability (contrary to **CJS-5.8** (*comprehensibility and cognitive accessibility terms*), **CJS-5.10** (*disclosure sufficiency and observability terms*), and **CJS-5.3** (*auditability and reconstructability terms*))
 
@@ -153,9 +153,9 @@ These type letters name different kinds of data and how they are usually shared 
 
 **Accessibility posture:** Open / accessible by default (strong presumption for Public Oversight Baseline Disclosure release) ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
 
-*In plain terms: [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) — what must be published so people can understand high-impact systems, including a strong public substitute when Type G, Type E, or other raw private or non-baseline records cannot be released as that disclosure.*
+*In plain terms: [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) — what must be published so people can understand high-impact systems, including a strong public substitute when Type G, Type E, or other raw private or non-baseline records cannot be released as that disclosure.*
 
-**Definition:** Data released or required to be released as [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) for transparency, oversight, and contestability — including lawful substitutes where **Type G**, **Type E**, or other source records remain non-public, non-baseline, or otherwise restricted. Canonical meaning is in Chapter Five; this type owns systems-layer typing and handling.
+**Definition:** Data released or required to be released as [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) for transparency, oversight, and contestability — including lawful substitutes where **Type G**, **Type E**, or other source records remain non-public, non-baseline, or otherwise restricted. Canonical meaning is in Chapter Five; this type owns systems-layer typing and handling.
 
 **Class A/B/C public-baseline content.** Where the [Type O baseline for Class A/B/C](cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems) applies, **Type O** carries [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) — the **public explanation** of chartered and certified scope — mapped under Part A §7 from the governing [Charter](../core_05_band_continuity.md#charter) (or equivalent), assigned class, and observed [System Boundaries](../core_05_band_continuity.md#system-boundaries) — not a second taxonomy. It includes information people need to understand:
 - purpose and what the system does
@@ -188,7 +188,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 - **Type O** governs the **publication posture** of Public Oversight Baseline Disclosure artifacts, including substitutes derived from **Type G** or **Type E**.
 - Neither **Type E** nor **Type G** is the public floor; published baseline artifacts drawn from them are **Type O**, while underlying streams may remain under their original type.
 
-**Disclosure posture:** **Baseline public accessibility** under the **open / accessible by default** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)). Deeper structured or qualified audit access to **Type G** (or other non-public source) may run in parallel but must not replace [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) where **Type O** applies.
+**Disclosure posture:** **Baseline public accessibility** under the **open / accessible by default** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)). Deeper structured or qualified audit access to **Type G** (or other non-public source) may run in parallel but must not replace [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) where **Type O** applies.
 
 ##### 8.3.1 Type O access and handling duties
 
@@ -199,7 +199,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 - Topic routing (mandatory read-with): [Part A §7](cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems) (*Type O baseline for Class A/B/C systems* — scoped by Charter, class, and System Boundaries; verified under Chapter Seven).
 - Topic routing (mandatory read-with): [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) (*Tiered transparency and audit access*).
 - Topic routing (mandatory read-with): [Part A §2](cs_02_a_information_types_and_handling.md#2-determination-of-classification) (*Determination of classification* — most-restrictive applicable protections).
-- Read with: [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure); [Charter](../core_05_band_continuity.md#charter); [System Boundaries](../core_05_band_continuity.md#system-boundaries); [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional); [System Certification Record](../core_05_band_continuity.md#system-certification-record-constitutional); [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional); [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional); [Chapter Seven §4](../core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Chapter Seven Part B §11](../core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*Certification record*); [Transparency](../core_05defs_oversight.md#transparency); **Article XV** (*Audit, Transparency, and Independent Verification*).
+- Read with: [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure); [Charter](../core_05_band_continuity.md#charter); [System Boundaries](../core_05_band_continuity.md#system-boundaries); [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional); [System Certification Record](../core_05_band_continuity.md#system-certification-record-constitutional); [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional); [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional); [Chapter Seven §4](../core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Chapter Seven Part B §11](../core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*Certification record*); [Transparency](../core_05_band_oversight.md#transparency); **Article XV** (*Audit, Transparency, and Independent Verification*).
 
 </details>
 
@@ -211,13 +211,13 @@ Baseline visibility into purpose, operational status, material risk, performance
 
 **Access.** Systems must:
 - provide **Type O** data in a manner that is **understandable**, **documented**, **attributable**, **versioned** where material changes occur, and **retained** for a duration proportional to system impact and dependency
-- where lawful online publication infrastructure exists to support class-appropriate access, make **Type O** data **freely available online** — without paywalls or insider-only substitutes for [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure)
+- where lawful online publication infrastructure exists to support class-appropriate access, make **Type O** data **freely available online** — without paywalls or insider-only substitutes for [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure)
 - **limit redaction** so it does **not** prevent meaningful accountability at the Public Oversight Baseline Disclosure tier; limited redaction is permitted only where more-restrictive applicable typing under [Part A §2](cs_02_a_information_types_and_handling.md#2-determination-of-classification) or [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) / [§7](cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems) requires it — and only where a lawful **Type O** substitute still preserves meaningful accountability
 
 **Handling — prohibited.** Systems managing **Type O** data must **not:**
-- withhold **Type O** material behind paywalls, account barriers beyond reasonable identity verification for restricted tiers, or insider-only distribution substitutes for [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure)
+- withhold **Type O** material behind paywalls, account barriers beyond reasonable identity verification for restricted tiers, or insider-only distribution substitutes for [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure)
 - treat **Type O** publication as satisfied by performative summaries while withholding decision-relevant baseline material
-- treat non-public **Type G** audit access as a substitute for [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure)
+- treat non-public **Type G** audit access as a substitute for [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure)
 - use **complexity, opacity, or format fragmentation** to defeat Public Oversight Baseline Disclosure auditability or contestability
 - label restricted source data **Type O** without lawful substitute, reclassification, or release discipline
 

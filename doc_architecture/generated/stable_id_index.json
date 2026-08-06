@@ -31,47 +31,47 @@
       "status": "present"
     },
     {
-      "file": "core_05_definitions_home.md",
+      "file": "core_05__definitions_home.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05apex_flourishing_aim.md",
+      "file": "core_05_apex_flourishing_aim.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05apex_continuity_aim.md",
+      "file": "core_05_apex_continuity_aim.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05defs_oversight.md",
+      "file": "core_05_band_oversight.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05defs_participation.md",
+      "file": "core_05_band_participation.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05defs_accountability.md",
+      "file": "core_05_band_accountability.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05defs_continuity.md",
+      "file": "core_05_band_continuity.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05defs_integrative.md",
+      "file": "core_05_band_integrative.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05defs_performance.md",
+      "file": "core_05_band_performance.md",
       "label": "core",
       "status": "present"
     },

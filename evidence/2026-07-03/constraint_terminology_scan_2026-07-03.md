@@ -21,7 +21,7 @@ Primary candidate scan:
 
 ## Applied Terminology
 
-- Generic **constitutional constraints** language now routes to [Constitutional Constraint](../../core_05defs_integrative.md#constitutional-constraint) where the text refers to the umbrella class.
+- Generic **constitutional constraints** language now routes to [Constitutional Constraint](../../core_05_band_integrative.md#constitutional-constraint) where the text refers to the umbrella class.
 - Safety/Truth-specific language now uses **non-negotiable principle constraints**.
 - Safety and Truth named entries remain **Safety (Constraint)** and **Truth (Constitutional Constraint)** where citing the canonical Chapter Five entries.
 - Existing local terms such as **default constraint stack**, **Epistemic Disclosure Constraints**, **Materiality Integrity Constraint**, **Evaluation Completeness Constraint**, and publication-constraint titles were left intact.

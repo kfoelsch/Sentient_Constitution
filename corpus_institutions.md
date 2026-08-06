@@ -17,7 +17,7 @@
 
 **Implements from the core files:**
 - [Chapter One](core_01_a_values_principles.md) principles ([Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), aims, material stake) scaled into institutional duties
-- [Chapter Five](core_05_definitions_home.md) definitions by reference — this layer does not redefine them
+- [Chapter Five](core_05__definitions_home.md) definitions by reference — this layer does not redefine them
 - [Chapter Six](core_06-06_rights_part_a.md) Rights Floor themes where institutions must deliver accessible pathways, remedy, care, health, and related floors
 - [Chapter Nine](core_09-09_standing_integration.md) remedy and enforcement realism where **CI-27** carries institutional redress capacity
 - [Chapter Twelve](core_12-12_governance.md) constitutional contract, legitimacy, authorization, and stewardship — institutional mechanics

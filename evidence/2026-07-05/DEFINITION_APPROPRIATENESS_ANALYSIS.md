@@ -41,7 +41,7 @@ All three hits were heuristic false positives from definitional lead-in language
 
 | Finding | File | Fix |
 |---------|------|-----|
-| Dependency + systemic *means* on one line | `cs_s2_system_classification_and_handling.md` | Split Class B header from systemic gloss; use *denotes* and link [Cascading Failure](../core_05defs_continuity.md#cascading-failure) |
+| Dependency + systemic *means* on one line | `cs_s2_system_classification_and_handling.md` | Split Class B header from systemic gloss; use *denotes* and link [Cascading Failure](../core_05_band_continuity.md#cascading-failure) |
 | Participation + *means* span | `ci_08_transparency_participation_accessible_pathways.md` | Rephrase “what a decision means” → “how a decision will affect them” |
 | Transparency *means* | `ci_08_transparency_participation_accessible_pathways.md` | Replace with pointers to Chapter Five Transparency and Participation |
 

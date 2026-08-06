@@ -8,7 +8,7 @@ running as a blocking regression gate alongside the other ``make regression``
 audits. It enforces two invariants:
 
 1. **Chapter Five anchor presence.** Every ``####`` and ``#####`` definition
-   entry in ``core_05_definitions_home.md`` that owns ``- O:`` /
+   entry in ``core_05__definitions_home.md`` that owns ``- O:`` /
    ``- E:`` / ``- C:`` bullets carries the canonical anchor trio:
 
    - the entry-level slug (either from an explicit ``<a id="SLUG"></a>`` tag
@@ -33,7 +33,7 @@ audits. It enforces two invariants:
    the four Chapter Eleven parts), every line inside a D/A/C widget that appears
    to be a widget row must match the canonical shape:
 
-       - [Name](core_05defs_accountability.md#slug) · [O](...) · [M](...) · [A](...) · [C](...)
+       - [Name](core_05_band_accountability.md#slug) · [O](...) · [M](...) · [A](...) · [C](...)
 
    and every anchor in that row must resolve to a live Chapter Five anchor.
    The single-concept inline form is also recognized:
@@ -161,7 +161,7 @@ DETAILS_CLOSE_RE = re.compile(r"^\s*</details>\s*$")
 # middle-dot with single spaces. Each href must point into Chapter Five.
 #
 # Example:
-#   - [Wellbeing](core_05defs_continuity.md#wellbeing) · [O](core_05defs_continuity.md#wellbeing) · [M](core_05defs_continuity.md#wellbeing-a) · [A](core_05defs_continuity.md#wellbeing-a) · [C](core_05defs_continuity.md#wellbeing-c)
+#   - [Wellbeing](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
 # M targets #{slug}-m when present (aim/leg apex heads); otherwise #{slug}-a
 # (leaf guidepost form interweaves Measurement with Assessment).
 ROW_RE = re.compile(

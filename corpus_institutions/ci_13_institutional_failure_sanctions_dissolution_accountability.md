@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-13: Institutional failure, sanctions, dissolution, and accountability**.
 - Read with: **CI-13**; **CI-5**; **CI-8**; **CI-11**; **CI-14**; **CF-7**; **CF-11**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router.
 
@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Sustained High-Gravity Pattern](../core_05defs_accountability.md#sustained-high-gravity-pattern) · [O](../core_05defs_accountability.md#sustained-high-gravity-pattern) · [M](../core_05defs_accountability.md#sustained-high-gravity-pattern-a) · [A](../core_05defs_accountability.md#sustained-high-gravity-pattern-a) · [C](../core_05defs_accountability.md#sustained-high-gravity-pattern-c)
-- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [M](../core_05apex_accountability_leg.md#accountability-m) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [M](../core_05defs_oversight.md#transparency-a) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Sustained High-Gravity Pattern](../core_05_band_accountability.md#sustained-high-gravity-pattern) · [O](../core_05_band_accountability.md#sustained-high-gravity-pattern) · [M](../core_05_band_accountability.md#sustained-high-gravity-pattern-a) · [A](../core_05_band_accountability.md#sustained-high-gravity-pattern-a) · [C](../core_05_band_accountability.md#sustained-high-gravity-pattern-c)
+- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
+- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
+- [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
+- [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
+- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
+- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
 
 </details>
 
@@ -28,7 +28,7 @@
 **Quick orientation**
 
 - **When dissolution review is mandatory** — institutions with repeated, verified anti-constitutional misconduct must enter mandatory dissolution review.
-- **When alignment-supervision review is mandatory** — institutions that operate, supervise, hold a [Charter](../core_05defs_continuity.md#charter) over, license, or materially control a chronically misaligned system enter review when an Integrity forum issues a final alignment ruling, withdraws recognition, imposes remediation conditions, or identifies sustained material misalignment under **Chapter Eleven**.
+- **When alignment-supervision review is mandatory** — institutions that operate, supervise, hold a [Charter](../core_05_band_continuity.md#charter) over, license, or materially control a chronically misaligned system enter review when an Integrity forum issues a final alignment ruling, withdraws recognition, imposes remediation conditions, or identifies sustained material misalignment under **Chapter Eleven**.
 - **Who keeps the official record** — the authoritative consequence record is an **Integrity forum lead record** under **CF-7**, not an institution-only file controlled by the subject institution.
 - **What the institution still must do** — name a consequence liaison, submit required materials on deadline, mirror the forum-held record without rewrite, propose continuity transfer for forum approval, and publish the personal-accountability boundary.
 - **What dissolution is not** — not a substitute for anti-constitutional-misconduct designation under **Chapter Ten** or ordinary personal accountability under constitutional law.
