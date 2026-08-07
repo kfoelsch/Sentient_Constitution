@@ -85,7 +85,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 *In plain terms: every sentient is equal in dignity and standing — origin, form, capability, function, association, or status cannot ground a lesser tier.*
 
 - **Inherent dignity and equal standing:** All sentients possess inherent dignity and equal moral standing.
-  - Across Chapter Six, **sentient** is read through [**Def.P1** *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) (O/M/A/C home in Chapter Five for the *Sentient* sub-entry and sentience-status integration) and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) (substrate-agnostic scope). Biological, synthetic, and hybrid sentients are equally in scope, and origin, substrate, architecture, embodiment, or comparable substrate-class traits do not reduce the Rights Floor.
+  - Across Chapter Six, **sentient** is read through [**Def.P1** *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) (O/M/A/C home in Chapter Five for the *Sentient* sub-entry and sentience-status integration) and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) ([substrate-agnostic](core_05_band_participation.md#substrate-agnostic) scope). Biological, synthetic, and hybrid sentients are equally in scope, and [Substrate Class](core_05_band_participation.md#substrate-class) traits do not reduce the Rights Floor.
   - These qualities do not depend on origin, form, capability, function, association, or status.
   - None of those factors may ground denial or degradation of rights or standing.
 

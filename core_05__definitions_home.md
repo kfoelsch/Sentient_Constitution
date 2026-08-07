@@ -272,6 +272,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Stewardship](core_05_band_continuity.md#stewardship-constitutional)
 - [Stewardship Defect](core_05_band_continuity.md#stewardship-defect-constitutional)
 - [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional)
+- [Substrate Class](core_05_band_participation.md#substrate-class)
 - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional)
 - [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary)
 - [Sustainability](core_05_band_continuity.md#sustainability)
