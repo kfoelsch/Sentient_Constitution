@@ -64,12 +64,14 @@ Adjudication and dispute resolution in the constitutional sense are defined in *
 - **Timely redress:** Read with [**Article XII-B** (*Right to Challenge, Review, and Redress*)](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*timely redress access*).
 
 Adopted governance implementation provides escalation, proportionality of intervention, emergency boundaries, and tier-default timing windows. It must not narrow practical access, reviewability, restoration, timely resolution, or Rights-Floor constraints under this Article.
+<a id="article-xxiii-a-justice-objective-and-scope"></a>
 #### Article XXIII-A: Justice Objective and Scope
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), [Chapter One §9.6 Process-Character Discipline](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 - Downstream: [Chapter Nine §4](core_09-09_standing_integration.md#4-violation-correction-and-prevention) (*Violation, correction, and prevention*); [Article XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Article XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
+- Read with: [Cruelty](core_05_band_accountability.md#cruelty) (*Chapter Five home for the anti-cruelty floor's suffering-as-end standard*).
 
 </details>
 
@@ -77,6 +79,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Cruelty](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
 - [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 - [Accountability](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -91,7 +94,7 @@ Adopted governance implementation provides escalation, proportionality of interv
   - secure correction through restitution, remediation, and change to conduct or systems;
   - prevent recurrence through rehabilitation, safeguards, and other durable controls where feasible;
   - keep credit and consequences on the right actors — supported by evidence on the record — under **Chapter Eight** (*Contribution, Violation, and Standing Model*).
-- **Anti-cruelty floor:** Justice must not be administered to inflict suffering as an end in itself.
+- **Anti-cruelty floor:** Justice must not be administered to inflict suffering as an end in itself. The Chapter Five home is [Cruelty](core_05_band_accountability.md#cruelty).
 <a id="article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints"></a>
 #### Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints
 <details>

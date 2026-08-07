@@ -263,8 +263,8 @@ This does **not** elevate openness above **Safety**, **Truth**, justified confid
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§9.1 Consequential Stewardship](#91-stewardship) (consequential participation carried out with constitutional character); [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **accountability** leg (process design answers to affected sentients, not to institutional convenience); **oversight** leg (degradation is detectable and challengeable).
-- Downstream: [§6.1.4 Constitutional Floors, Safety, and Process-Character Constraints](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints) (invokes this principle as an absolute floor in the tradeoff stack); [Article V: Equal Basic Rights](core_06-06_rights_part_b.md#article-v-equal-basic-rights); [Article XXIII](core_06-06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) (*Conflict Resolution, Escalation, and Emergency Proportionality*) (justice and restriction measures); [corpus_systems Protocol C](corpus_systems/cs_protocol_c_justice_safeguards_restitution_rehabilitation.md).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **accountability** leg (process design answers to affected sentients, not to institutional convenience); **oversight** leg (degradation is detectable and challengeable); [Cruelty](core_05_band_accountability.md#cruelty) (*Chapter Five home for suffering-as-end and gratuitous / degrading infliction*).
+- Downstream: [§6.1.4 Constitutional Floors, Safety, and Process-Character Constraints](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints) (invokes this principle as an absolute floor in the tradeoff stack); [Article V: Equal Basic Rights](core_06-06_rights_part_b.md#article-v-equal-basic-rights); [Article XXIII-A](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*anti-cruelty floor*); [corpus_systems Protocol C](corpus_systems/cs_protocol_c_justice_safeguards_restitution_rehabilitation.md).
 
 </details>
 
@@ -272,6 +272,7 @@ This does **not** elevate openness above **Safety**, **Truth**, justified confid
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
+- [Cruelty](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
 - [Harm](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
 - [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
@@ -293,6 +294,8 @@ This does **not** elevate openness above **Safety**, **Truth**, justified confid
 - collective retaliation;
 - discriminatory burdening; or
 - procedural convenience overriding rights.
+
+Where the prohibited character is suffering as an end in itself, or gratuitous or degrading infliction beyond necessity and proportionality — including humiliation for its own sake — the Chapter Five home is [Cruelty](core_05_band_accountability.md#cruelty) (humiliation subtype under that entry).
 
 **Not prohibited merely for being hard.** Ordinary public accountability, reasoned publication, verified restriction, or proportionate remedy remains lawful even when it is unpleasant or reputationally adverse.
 

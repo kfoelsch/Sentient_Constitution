@@ -134,6 +134,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Contribution Nature](core_05_band_accountability.md#contribution-nature)
 - [Corpus](core_05_band_integrative.md#corpus)
 - [Creative Work Attribution](core_05_band_continuity.md#creative-work-attribution-constitutional)
+- [Cruelty](core_05_band_accountability.md#cruelty)
 - [Decentralization](core_05_band_accountability.md#decentralization)
 - [Dependency](core_05_band_continuity.md#dependency)
 - [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional)

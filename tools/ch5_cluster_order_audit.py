@@ -89,11 +89,12 @@ TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS) | {
 
 EXPECTED_CLUSTERS: dict[str, list[str]] = {
     "#### Def.P1 Animal Life, Sentient Life, and Sentience Status": [
-        "Sentient",
+        "Substrate Class",
         "Sentience Non-Exclusion",
         "Animal Life",
         "Contested-Sentient Life",
         "Sentience Status Adjudication",
+        "Sentient",
         "Sentience Evaluation",
         "Article V-E",
     ],
@@ -108,6 +109,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Collective Harm Boundary",
         "Psychological Harm",
         "Irreversible Harm",
+        "Cruelty",
         "Harassment and Bullying",
     ],
     "#### Def.I1 Corpus and Authority Stack": [

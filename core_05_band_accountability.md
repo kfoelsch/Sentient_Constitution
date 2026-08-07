@@ -1304,10 +1304,11 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 This cluster is the joint-invocation home for:
 
 - [Harm](core_05_band_accountability.md#harm), as the general degradation concept;
-- [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary), as the defined limit on freedom of action: the point where one sentient's, collective's, or system's freedom of action must yield to verifiable harm affecting another sentient's protected interests or constitutionally protected shared conditions; and
+- [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary), as the defined limit on freedom of action: the point where one sentient's, collective's, or system's freedom of action must yield to verifiable harm affecting another sentient's protected interests or constitutionally protected shared conditions;
+- [Cruelty](core_05_band_accountability.md#cruelty), as the conduct-character construct for suffering inflicted as an end in itself or beyond necessity and proportionality; and
 - [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying), as the patterned-conduct construct for unwanted conduct that materially degrades protected conditions in associational, institutional, dependency, and comparable cooperative settings.
 
-These definitions do different jobs, but they must be considered together when needed. When conduct harms others — whether directly, indirectly, over time, through accumulated effects, across systems, or at a collective level — the harm analysis must also ask whether the conduct crosses the [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary) and, where relevant, whether it amounts to harassment or bullying.
+These definitions do different jobs, but they must be considered together when needed. When conduct harms others — whether directly, indirectly, over time, through accumulated effects, across systems, or at a collective level — the harm analysis must also ask whether the conduct crosses the [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary) and, where relevant, whether it amounts to [Cruelty](core_05_band_accountability.md#cruelty), harassment, or bullying.
 
 **Admission scope.** This cluster applies where a matter materially concerns:
 
@@ -1315,6 +1316,7 @@ These definitions do different jobs, but they must be considered together when n
 - collective or distributed harm;
 - competing freedom or non-imposition claims;
 - shared-resource, info-sphere, or systemic harm pathways;
+- cruelty, suffering as an end in itself, or gratuitous or degrading infliction;
 - harassment, bullying, or hostile-environment degradation; or
 - the point at which protected action must be limited, contained, remediated, or redirected because it materially affects another sentient's protected interests or constitutionally protected shared conditions.
 
@@ -1326,12 +1328,14 @@ Outside that admission scope, component definitions may still operate as support
 - [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary);
 - [Psychological Harm](core_05_band_accountability.md#psychological-harm);
 - [Irreversible Harm](core_05_band_accountability.md#irreversible-harm);
+- [Cruelty](core_05_band_accountability.md#cruelty);
 - [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying).
 
-**Anti-bypass.** A matter within the admission scope must not be split into separate individual-harm, collective-harm, harassment-and-bullying, non-imposition, materiality, freedom-limitation, or remediation questions in a way that:
+**Anti-bypass.** A matter within the admission scope must not be split into separate individual-harm, collective-harm, cruelty, harassment-and-bullying, non-imposition, materiality, freedom-limitation, or remediation questions in a way that:
 
 - recognizes a harm pathway while avoiding the [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary);
-- invokes the [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary) while understating the harm; or
+- invokes the [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary) while understating the harm;
+- treats bare [Harm](core_05_band_accountability.md#harm) magnitude as a substitute for [Cruelty](core_05_band_accountability.md#cruelty) analysis where suffering-as-end or gratuitous infliction is materially implicated; or
 - separates generic [Harm](core_05_band_accountability.md#harm) or the [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary) from [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying) when patterned unwanted conduct is materially involved.
 
 See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
@@ -1457,6 +1461,58 @@ The following limits also apply:
 
 ---
 
+<a id="cruelty"></a>
+
+##### Cruelty
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint); [9.6 Process-Character Discipline (Anti-Degrading-Process Principle)](core_01_c_stewardship_capacity_principles.md#anti-degrading-process-principle) (*humiliation, spectacle, and process-as-punishment floor*).
+- Owner floor: [Article XXIII-A](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*anti-cruelty floor*).
+- Cluster component: [Collective Harm Boundary, Harm, and Harassment and Bullying](core_05_band_accountability.md#collective-harm-boundary-and-harm-cluster) cluster.
+- Read with: [Harm](core_05_band_accountability.md#harm), [Psychological Harm](core_05_band_accountability.md#psychological-harm), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), [Animal Life](core_05_band_participation.md#animal-life-constitutional), [Violation Nature](core_05_band_accountability.md#violation-nature-chapter-six), [Chapter Eight §4.2](core_08-08_standing_assessment.md#42-violation-severity-input-dimensions) (*conduct-character stack*), and [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) (*general standing locks*).
+
+</details>
+
+<br>
+
+*In plain terms: cruelty is treatment that makes someone suffer on purpose as the point of the treatment, or that piles on gratuitous or degrading suffering beyond what necessity and proportionality allow. Humiliation for its own sake is one form of that. Ordinary harm, fair consequences that hurt, and lawful restrictions are not automatically cruelty.*
+
+- **What it is**
+  - **In scope:** Treatment that:
+    - inflicts, designs, or continues suffering as an end in itself; or
+    - adds gratuitous or degrading suffering beyond what [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) allow —
+    under the [Anti-Degrading-Process Principle (§9.6)](core_01_c_stewardship_capacity_principles.md#anti-degrading-process-principle) and [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
+    Scope is [substrate-agnostic](core_05_band_participation.md#substrate-agnostic).
+  - **In scope — humiliation subtype:** Humiliation for its own sake under [§9.6](core_01_c_stewardship_capacity_principles.md#anti-degrading-process-principle) is [Cruelty](core_05_band_accountability.md#cruelty) when verified as suffering-as-end or as gratuitous / degrading infliction. Ordinary public accountability that is unpleasant or reputationally adverse is not humiliation for its own sake, and is not Cruelty on that ground alone.
+  - **Boundary — sibling §9.6 characters:** Spectacle used mainly to deter, retaliatory grievance, and comparable [§9.6](core_01_c_stewardship_capacity_principles.md#anti-degrading-process-principle) process-character defects remain separately named under that principle. They may stack with [Cruelty](core_05_band_accountability.md#cruelty) when the same verified facts also meet the suffering-as-end or gratuitous / degrading test; they are not automatic Cruelty subtypes.
+  - **Out of scope:**
+    - bare [Harm](core_05_band_accountability.md#harm) magnitude without suffering-as-end or gratuitous / degrading character;
+    - ordinary discomfort, offense, or disagreement alone; or
+    - lawful proportionate restrictions, fair consequences, or remediation that hurt without being designed as suffering for its own sake — including ordinary public accountability that is unpleasant or reputationally adverse without humiliation for its own sake under [§9.6](core_01_c_stewardship_capacity_principles.md#anti-degrading-process-principle).
+  - **Standing boundary:** When verified as conduct character on a [violation standing record](core_05_band_accountability.md#standing-record-chapter-six), [Cruelty](core_05_band_accountability.md#cruelty) may orient prevention, safeguards, and non-degrading remedy under [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration). It does not assign or move the Violation Axis slot under [Violation Nature](core_05_band_accountability.md#violation-nature-chapter-six) and [Chapter Eight §4.2](core_08-08_standing_assessment.md#42-violation-severity-input-dimensions).
+<a id="cruelty-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are sentients sustained in life, safety, and access to essentials?* Use them here to ask whether suffering was the point of the treatment — or piled on beyond necessity and proportionality — not only whether some harm occurred.
+  - **Primary assessment:**
+    - Separate [Harm](core_05_band_accountability.md#harm) magnitude from cruelty character.
+    - Test for suffering as an end in itself, gratuitous infliction, or degrading / humiliating design under the [Anti-Degrading-Process Principle (§9.6)](core_01_c_stewardship_capacity_principles.md#anti-degrading-process-principle) and [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
+    - Treat verified humiliation for its own sake as the humiliation subtype of [Cruelty](core_05_band_accountability.md#cruelty); do not treat ordinary reputational adversity from fair accountability as that subtype.
+    - Apply [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) to any claimed justification.
+    - Where animal welfare is implicated, read with [Animal Life](core_05_band_participation.md#animal-life-constitutional).
+    - Where standing is implicated, record cruelty only from verified findings under [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing) and keep it on the conduct-character stack — not as a slot input.
+<a id="cruelty-c"></a>
+- **What must hold**
+  - **Primary failure:** Non-compliant practices include:
+    - inflicting, designing, or continuing suffering as an end in itself;
+    - adding gratuitous or degrading suffering beyond necessity and proportionality;
+    - humiliation for its own sake under [§9.6](core_01_c_stewardship_capacity_principles.md#anti-degrading-process-principle);
+    - using justice, remedy, restriction, or process forms to degrade, humiliate, shame, or retaliate rather than protect, correct, restore, or prevent — contrary to the [Anti-Degrading-Process Principle (§9.6)](core_01_c_stewardship_capacity_principles.md#anti-degrading-process-principle); or
+    - treating a cruelty finding as if it moved the Violation Axis slot, or using an unverified cruelty label as standing input.
+
+---
+
 <a id="harassment-and-bullying"></a>
 
 ##### Harassment and Bullying
@@ -1465,7 +1521,7 @@ The following limits also apply:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Owner floors: [Article X-A](core_06-06_rights_part_b.md#article-x-a-non-imposition-and-consent-in-association) (*non-imposition and consent in association*) and [Article X-B](core_06-06_rights_part_b.md#article-x-b-collective-harm-boundary-and-enforcement-interface) (*collective harm boundary and hostile-environment threshold*).
-- Read with: the [Collective Harm Boundary, Harm, and Harassment and Bullying cluster](core_05_apex_accountability_leg.md#collective-harm-boundary-harm-and-harassment-and-bullying-cluster); [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction); [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary); [Harm](core_05_band_accountability.md#harm); [Psychological Harm](core_05_band_accountability.md#psychological-harm); [Irreversible Harm](core_05_band_accountability.md#irreversible-harm); [Materiality Determination](core_05_band_oversight.md#materiality-determination); [Dependency](core_05_band_continuity.md#dependency); [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional); [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing); [Safety (Constraint)](core_05_band_continuity.md#safety-constraint); [Meaningful Agency](core_05_band_participation.md#meaningful-agency); and [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional).
+- Read with: the [Collective Harm Boundary, Harm, and Harassment and Bullying cluster](core_05_apex_accountability_leg.md#collective-harm-boundary-harm-and-harassment-and-bullying-cluster); [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction); [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary); [Harm](core_05_band_accountability.md#harm); [Cruelty](core_05_band_accountability.md#cruelty); [Psychological Harm](core_05_band_accountability.md#psychological-harm); [Irreversible Harm](core_05_band_accountability.md#irreversible-harm); [Materiality Determination](core_05_band_oversight.md#materiality-determination); [Dependency](core_05_band_continuity.md#dependency); [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional); [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing); [Safety (Constraint)](core_05_band_continuity.md#safety-constraint); [Meaningful Agency](core_05_band_participation.md#meaningful-agency); and [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional).
 
 </details>
 
@@ -2111,7 +2167,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chapter One §6.3.2 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation) (Axis II classification integrity); [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [6. Process Conflict Resolution](core_05_apex_accountability_leg.md#6-process-conflict-resolution) (verified facts for adverse standing).
-- Canonical owner: the [Chapter Eight §7 unified proportional LEQU scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*Violation Axis impact-slot calibration on the shared five-times LEQU bands*); [Chapter Eight §3.1 Verified-input gate](core_08-08_standing_assessment.md#verified-inputs-for-standing); [Chapter Eight §4.4](core_08-08_standing_assessment.md#44-violation-route-descriptor-measurement-roles) (*stackable harm and conduct descriptors*); [Chapter Nine §3](core_09-09_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (*Question 3 process / response character attachments and descriptor integration*). Read with the [Standing State, Contribution, and Violation cluster](core_05_band_accountability.md#standing-state-contribution-and-violation-cluster), [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing), [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), [Standing Effect](core_05_band_accountability.md#standing-effect-chapter-six), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), and [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional). For a Chapter Eight Violation Axis slot 7, 8, or 9, [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) may add the corresponding anti-constitutional-misconduct designation but does not assign the numeric slot.
+- Canonical owner: the [Chapter Eight §7 unified proportional LEQU scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*Violation Axis impact-slot calibration on the shared five-times LEQU bands*); [Chapter Eight §3.1 Verified-input gate](core_08-08_standing_assessment.md#verified-inputs-for-standing); [Chapter Eight §4.4](core_08-08_standing_assessment.md#44-violation-route-descriptor-measurement-roles) (*stackable harm and conduct descriptors*); [Chapter Nine §3](core_09-09_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (*Question 3 process / response character attachments and descriptor integration*). Read with the [Standing State, Contribution, and Violation cluster](core_05_band_accountability.md#standing-state-contribution-and-violation-cluster), [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing), [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), [Standing Effect](core_05_band_accountability.md#standing-effect-chapter-six), [Cruelty](core_05_band_accountability.md#cruelty), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), and [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional). For a Chapter Eight Violation Axis slot 7, 8, or 9, [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) may add the corresponding anti-constitutional-misconduct designation but does not assign the numeric slot.
 
 </details>
 
@@ -2142,7 +2198,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - Negligence, concealment, coercion, intent, response, and similar descriptors do not move the numeric slot.
     - Apply Chapter Eight's no-offset rule and keep Violation Axis inputs separate from [Contribution Nature](core_05_band_accountability.md#contribution-nature).
     - For adverse standing effect, a finding without an applicable violation-nature classification is incomplete, and so is a violation-nature label without verified findings.
-    - Where material, read with [Harm](core_05_band_accountability.md#harm), [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint), and [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack).
+    - Where material, read with [Harm](core_05_band_accountability.md#harm), [Cruelty](core_05_band_accountability.md#cruelty), [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint), and [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack).
 <a id="violation-nature-chapter-six-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:

@@ -172,7 +172,7 @@ The purpose of a lock is to reduce risk by removing a sentient from the environm
 2. **Safety for affected parties** — keep those already harmed from further exposure; and
 3. **Risk reduction** — lower the chance the same pattern recurs while remedy and correction remain incomplete.
 
-A lock must be needed for risk reduction, proportionate, auditable, contestable, no broader than required, and time-bounded where the protected purpose permits. It attaches to a verified finding—not identity, status, accusation, generalized disfavor, or reputation. Character such as violence, coercion, deception, concealment, intent, recurrence, negligence, duty, or evasion may shape scope, scrutiny, safeguards, and review only when separately verified; it never moves the slot.
+A lock must be needed for risk reduction, proportionate, auditable, contestable, no broader than required, and time-bounded where the protected purpose permits. It attaches to a verified finding—not identity, status, accusation, generalized disfavor, or reputation. Character such as violence, coercion, cruelty, deception, concealment, intent, recurrence, negligence, duty, or evasion may shape scope, scrutiny, safeguards, and review only when separately verified; it never moves the slot.
 
 Design and enforcement of these requirements is governed in [§5](#5-lock-design-and-enforcement): definition and attachment; proportionality and calibration; record visibility and escalation; then special violation rules and special locks stated in the same attachment fields. No-offset and contribution visibility remain governed by [Chapter Eight §2.2](core_08-08_standing_assessment.md#22-linked-records-and-no-offset-bridge); this chapter applies that rule when designing and enforcing locks.
 
@@ -228,7 +228,7 @@ Every lock must be designed so the integration record can identify, in operative
 - the review route; and
 - the reassessment point.
 
-A lock attaches only to a verified finding—not identity, status, accusation, generalized disfavor, or reputation. Character such as violence, coercion, deception, concealment, intent, recurrence, negligence, duty, or evasion may shape scope, scrutiny, safeguards, and review only when separately verified; it never moves the Violation Axis slot.
+A lock attaches only to a verified finding—not identity, status, accusation, generalized disfavor, or reputation. Character such as violence, coercion, cruelty, deception, concealment, intent, recurrence, negligence, duty, or evasion may shape scope, scrutiny, safeguards, and review only when separately verified; it never moves the Violation Axis slot.
 
 Two attachment qualifiers apply whenever the lock's purpose includes risk reduction:
 
@@ -800,6 +800,13 @@ The subsections below show how common Question 3 situations use the rules alread
 - **Cue:** A fixed Violation Axis record shows verified **obstruction of accountability** — interference with answerability machinery such as evidence integrity, verification, forum process, standing records, remedy clocks, or contest and redress paths — including where Chapter Eight records **Accountability Obstruction Misconduct** or stacks obstruction as conduct character.
 - **Routes through:** [§4](#4-violation-correction-and-prevention) (*remedy, correction, and prevention*); [§4.2](#42-general-standing-locks) (*named-pathway-scoped locks on the abused answerability, contest, evidence, standing, or remedy pathways*); [§5.4](#54-special-violation-rules) (*concealment, evasion, deception, and duty-related shaping*); [§5.5](#55-special-locks) (*Forum-Service Standing Lock only when the forum-integrity / required-recusal trigger is met under [§10.3](#103-forum-integrity-deception-or-recusal-failure)*); [§10.8](#108-anti-constitutional-misconduct-allegation) (*Chapter Ten gateway when `s` = 7–9 and anti-constitutional misconduct is materially alleged*).
 - **Non-negotiable:** This cue does not create an Obstruction Lock or other [§5.5](#55-special-locks) type. Obstruction character never moves the Violation Axis slot. Ordinary named pathway locks proceed from the fixed record at any slot. Designation-side criteria routing remains in [Chapter Ten §5.11](core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction); only a final designation triggers the Anti-Constitutional Trust Lock under [§10.8](#108-anti-constitutional-misconduct-allegation). Distinguish verified obstruction *conduct* from [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) as a structural condition.
+
+<a id="1014-verified-cruelty-character"></a>
+#### 10.14 Verified cruelty character
+
+- **Cue:** A fixed Violation Axis record carries verified [Cruelty](core_05_band_accountability.md#cruelty) conduct character — suffering as an end in itself, or gratuitous or degrading infliction beyond necessity and proportionality — whether or not violence or coercion descriptors also stack.
+- **Routes through:** [§4.1](#41-remedy-and-correction) (*remedy and correction must remain non-degrading*); [§4.2](#42-general-standing-locks) (*protective or safeguard locks on named pathways that would let the same cruelty continue or recur*); [§4.3](#43-voluntary-public-accountability-expression) (*voluntary public expression, if used, must remain non-degrading*); [§5.2](#52-proportionality-and-calibration); [Chapter Eight §4.2](core_08-08_standing_assessment.md#42-violation-severity-input-dimensions) (*conduct-character stack*).
+- **Non-negotiable:** Cruelty character never moves the Violation Axis slot. Contribution cannot offset unresolved cruelty-character prevention. Remedy, restriction, and voluntary public accountability expression must not themselves inflict suffering as an end or add gratuitous or degrading suffering. This cue does not create a Cruelty Lock or other [§5.5](#55-special-locks) type.
 
 ---
 
