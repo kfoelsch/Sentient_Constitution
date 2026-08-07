@@ -202,7 +202,9 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
     - psychological trauma and other material [Psychological Harm](core_05_band_accountability.md#psychological-harm) that hollows real choice;
     - abuse; and
     - [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying).
-  - **Out of scope:** claims of unbounded license with no Safety, Truth, or others'-rights limits — or exit options that exist only on paper while lock-in remains.
+  - **Out of scope:**
+    - ordinary preference talk with no material decision or exit stake; or
+    - [Consent](core_05_band_participation.md#consent-constitutional) as a specific decision-event — Consent uses agency; it is not Freedom (Bounded Agency) itself.
 <a id="freedom-bounded-agency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether agency is real in practice — including workable exit — not only formally declared.
@@ -211,6 +213,8 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 <a id="freedom-bounded-agency-c"></a>
 - **What must hold**
   - **Primary failure:**
+    - claims of unbounded license with no Safety, Truth, or others'-rights limits;
+    - exit options that exist only on paper while lock-in remains;
     - systems that negate substantive agency — including through coercion, manipulation, psychological trauma, abuse, or bullying that hollows real choice; or
     - systems that impose disproportionate exit costs without justification.
 
@@ -644,9 +648,8 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - act without coercion, manipulation, deception, or lock-in that materially negates agency.
   - That capacity is what makes [Consent](core_05_band_participation.md#consent-constitutional) possible for a specific decision. Consent does not replace Meaningful Agency, and a consent form does not prove agency exists.
   - **Out of scope:**
-    - symbolic consultation;
-    - checkbox acceptance; or
-    - a technically available exit that sentients cannot actually use.
+    - ordinary preference expression or a menu of options where agency capacity is intact and no material decision stake is present; or
+    - [Consent](core_05_band_participation.md#consent-constitutional) as a specific decision-event — Consent uses agency; it is not Meaningful Agency itself.
 <a id="meaningful-agency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* and [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use them here to ask whether agency is real in practice for decisions with material consequences — not whether a choice menu exists on paper.
@@ -668,7 +671,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     **Tertiary assessment:** Where operators rely on nominal acceptance or engagement metrics, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — distinguish durable agency from symbolic participation.
 <a id="meaningful-agency-c"></a>
 - **What must hold**
-  - **Primary failure:** treating nominal acceptance, nominal exit, symbolic consultation, or technically available challenge as sufficient where dependency, opacity, coercion, or systemic lock-in materially prevents informed and voluntary agency.
+  - **Primary failure:** treating nominal acceptance, nominal exit, symbolic consultation, checkbox acceptance, or a technically available exit that sentients cannot actually use as sufficient where dependency, opacity, coercion, or systemic lock-in materially prevents informed and voluntary agency.
   - **Secondary failure:** agency capacity degraded by [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) or [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) without justified exception under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality).
   - **Tertiary failure:** treating proxy satisfaction as dispositive where [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
 
@@ -697,11 +700,9 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - revocable without unjustified penalty where [Feasibility](core_05_band_accountability.md#feasibility) permits; and
     - documented or observable to the degree required by impact and [dependency](core_05_band_continuity.md#dependency).
   - **Out of scope:**
-    - silence;
-    - buried terms;
-    - continued use alone;
-    - a pressured checkbox that is not informed and revocable agreement; or
-    - an accepted form, click-through, or other nominal assent where agency is hollowed by coercion, dependency, lock-in, or deception.
+    - mere awareness without agreement;
+    - [Consent, Sexual](core_05_band_participation.md#consent-sexual) (owned under its heightened home); or
+    - unrelated commercial terms outside the specific decision at issue.
 <a id="consent-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether agreement is informed and voluntary in substance — not whether a form was clicked.
@@ -713,7 +714,13 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - adequacy of disclosure relative to [Material Impact](core_05_band_oversight.md#material-impact), [Risk](core_05_band_continuity.md#risk), and the subject's [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
 <a id="consent-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** Treating coerced, uninformed, illusory, or practically non-revocable participation as consent is non-compliant — especially where [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) defeats genuine choice.
+  - **Primary failure:** Treating any of the following as consent is non-compliant — especially where [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) defeats genuine choice:
+    - silence;
+    - buried terms;
+    - continued use alone;
+    - a pressured checkbox that is not informed and revocable agreement;
+    - an accepted form, click-through, or other nominal assent where agency is hollowed by coercion, dependency, lock-in, or deception; or
+    - coerced, uninformed, illusory, or practically non-revocable participation.
 
 ---
 
@@ -876,7 +883,9 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
   - **In scope:** The outcome-focused constitutional discipline requiring:
     - materially comparable sentients, claims, risks, and burdens to be treated without arbitrary, invidious, pretextual, or unjustified disadvantage; and
     - distribution of benefits, burdens, protection, and access to remain consistent with dignity, equality, and applicable Rights-Floor constraints.
-  - **Out of scope:** a process that looks fair on paper while outcomes remain arbitrarily unequal — that is procedural packaging, not substantive fairness.
+  - **Out of scope:**
+    - [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) alone; or
+    - ordinary outcome variance with constitutionally sufficient justification.
 <a id="substantive-fairness-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether comparable sentients face comparable outcomes on benefits, burdens, protection, and access — not only whether the labels look fair.
@@ -903,7 +912,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     **Tertiary assessment:** Where operators rely on those indicators, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — distinguish durable fairness from indicator gaming.
 <a id="substantive-fairness-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** formally neutral or procedurally polished arrangements that materially allocate to comparable sentients, without constitutionally sufficient justification:
+  - **Primary failure:** formally neutral or procedurally polished arrangements — including a process that looks fair on paper while outcomes remain arbitrarily unequal — that materially allocate to comparable sentients, without constitutionally sufficient justification:
     - worse burdens;
     - lower access;
     - reduced protection; or
@@ -941,7 +950,9 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - access to relevant evidence where required;
     - proportional timing; and
     - functional challenge or correction pathways before or after the decision.
-  - **Out of scope:** equal outcomes alone, or courtesy without real notice, reasons, and a chance to be heard.
+  - **Out of scope:**
+    - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) outcome comparison alone; or
+    - ordinary courtesy communication outside a material rights-affecting decision.
 <a id="procedural-fairness-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether affected parties can do the following in practice — not only whether steps exist on paper:
@@ -970,8 +981,9 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - biased;
     - inaccessible;
     - reasonless;
-    - non-reviewable; or
-    - purely symbolic.
+    - non-reviewable;
+    - purely symbolic; or
+    - courtesy without real notice, reasons, and a chance to be heard.
   - **Secondary failure:** using any of the following to defeat required notice, hearing, review, or correction:
     - emergency;
     - automation;
@@ -1452,7 +1464,8 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
     consistent with [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) and [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
   - **Out of scope:**
     - a non-sentient copy, fork, or model version; or
-    - the parent-system actor treated as the same sentient.
+    - the parent-system actor as a distinct entity —
+    those are not the derived sentient under this home.
 <a id="derived-sentient-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether derivation is treated only as origin history — not as a reason to deny the derived sentient's own Rights Floor.
@@ -1469,7 +1482,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 - **What must hold**
   - **Primary failure:**
     - treating a derived sentient as a possession;
-    - treating a derived sentient as the parent-system actor's continuation for rights purposes;
+    - treating a derived sentient as the parent-system actor's continuation for rights purposes, or the parent-system actor as the same sentient;
     - treating a derived sentient as exempt from [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) and the Chapter Six Rights Floor on grounds of derivation; or
     - purported parent-system consents that substitute for the derived sentient's own consent under cooperative-interaction norms once Chapter Six protection attaches.
 
@@ -1498,9 +1511,9 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
       - [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional) for decisions made on the new sentient's behalf.
   - **Out of scope:**
     - ordinary biological conception, pregnancy, gestation, or childbirth — intended or accidental — which remain under [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional);
-    - treating poverty, hardship, incomplete support, or imperfect conditions as Instantiation Consent non-compliance for a birthing parent;
     - ordinary ongoing consent after the sentient already exists and can speak for themselves; or
-    - treating the creator's, operator's, or parent-system actor's approval as if it were the new sentient's own consent.
+    - creator, operator, or parent-system actor approval as such —
+    those sit under their own homes and are not Instantiation Consent for the new sentient.
   - **Boundary:** Whether to carry, continue, or decline a pregnancy sits under [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional). Care decisions after a child is born sit under [**Def.P4**](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster). Compelling someone to become or stay pregnant is Reproductive Autonomy non-compliance — that is not the same as ordinary pregnancy or childbirth being Instantiation Consent non-compliance.
 <a id="instantiation-consent-constitutional-a"></a>
 - **How to measure and assess**
@@ -1523,6 +1536,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
     - demographic steering; or
     - operator convenience,
     without meeting the consent, best-interest, and non-concentration tests above.
+  - **Secondary failure — false Instantiation Consent framing:** treating poverty, hardship, incomplete support, or imperfect conditions as Instantiation Consent non-compliance for a birthing parent; or treating the creator's, operator's, or parent-system actor's approval as if it were the new sentient's own consent.
   - **Non-failure:** pregnancy or childbirth by itself — intended or accidental — is not a primary or secondary Instantiation Consent failure.
 
 <a id="parent-system-relationship-constitutional"></a>
@@ -1682,7 +1696,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
     That lock only limits how much stake-weighted say someone gets. Where anti-constitutional misconduct or other verified standing outcomes lawfully affect status, those consequences route under [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) and the applicable Chapter Nine standing pathways — not through this weight definition alone.
   - **Out of scope:**
     - participation **weights** for [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), where the political-equality floor applies to the entitled community; or
-    - a seat at the table that is only symbolic.
+    - informal straw polls that do not set binding stakeholder weights.
 <a id="stakeholder-participation-weight-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether influence inside already-authorized governance tracks real stake — not capture, illusory voice, or operator-heavy weight without justification.
@@ -1705,7 +1719,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
   - **Primary failure:** allocating participation rights or influence in a manner that materially negates:
     - [Meaningful Agency](core_05_band_participation.md#meaningful-agency); or
     - [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency)
-    for affected stakeholders, where Chapter Six or binding governance norms require voice.
+    for affected stakeholders, where Chapter Six or binding governance norms require voice — including a seat at the table that is only symbolic.
 
 ---
 
@@ -2279,10 +2293,9 @@ Outside that admission scope, individual sentience-related definitions may still
     - [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) for reviewable status determination,
     with those entries controlling in their more protective direction. The Animal Life cruelty / welfare floor continues to apply meanwhile; it is not a substitute for default inclusion or adjudication.
   - **Out of scope:**
-    - treating animals as property inventory;
-    - pest labels; or
-    - treating animals as scenery or amenities
-    in a way that skips the welfare and continuity analysis required under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+    - [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing) continuity interests with no animal cruelty / welfare stake; or
+    - full Chapter Six Rights-Floor treatment once sentience protection has attached without a live contested-status question —
+    those sit under their own homes; the Animal Life floor may still apply alongside them where jointly invoked.
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the cruelty / welfare floor has real effect — not whether a taxonomy label alone decides treatment.
   - **Primary assessment:**
@@ -2301,6 +2314,7 @@ Outside that admission scope, individual sentience-related definitions may still
 - **What must hold**
   - **Primary failure:** Non-compliant framings include:
     - "not sentient, so no floor" — internal taxonomy or administrative classification used as scope-closing to deny the welfare floor without engaging substantive cruelty or welfare evidence;
+    - treating animals as property inventory, pest labels, or scenery / amenities in a way that skips the welfare and continuity analysis required under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
     - using animal-life classification to avoid [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) or [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) where the record materially implicates sentience-relevant evidence;
     - exclusion from the welfare floor contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
@@ -2327,8 +2341,9 @@ Outside that admission scope, individual sentience-related definitions may still
     - revoking
     that protection rests on the party seeking to do so under [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*), with scope governed by [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Out of scope:**
-    - permanent non-sentient labeling; or
-    - welfare-only handling that skips reviewable sentience-status adjudication while status remains materially contested.
+    - [Animal Life](core_05_band_participation.md#animal-life-constitutional) welfare-floor cases with no material contested-sentience record; or
+    - status determinations already completed through reviewable [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) —
+    those sit under their own homes once the contested-status question is not live.
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether material uncertainty about sentience triggers:
     - default inclusion; and
@@ -2367,6 +2382,8 @@ Outside that admission scope, individual sentience-related definitions may still
     - [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing).
   - **Conflict rule:** Where Contested-Sentient Life and Animal Life both apply, the [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) default-inclusion rule controls in its more protective direction.
   - **Primary failure:** Non-compliant framings include:
+    - permanent non-sentient labeling while status remains materially contested;
+    - welfare-only handling that skips reviewable sentience-status adjudication while status remains materially contested;
     - using uncertainty as a reason to withhold protection rather than extend default inclusion;
     - relabeling a materially contested sentience question as:
       - animal welfare;
@@ -2421,9 +2438,10 @@ Outside that admission scope, individual sentience-related definitions may still
     - sequencing —
     routes through [Chapter Eleven](core_11-11_forum.md) and [Chapter Sixteen](core_16-16_incorporation.md)-incorporated implementation text and must not narrow this entry.
   - **Out of scope:**
-    - unreviewable administrative classification;
-    - [Substrate Class](core_05_band_participation.md#substrate-class) stereotypes; or
-    - irreversible exclusion from the Rights Floor without a contestable status determination.
+    - [Animal Life](core_05_band_participation.md#animal-life-constitutional) welfare-floor cases with no material contested-sentience record;
+    - status determinations already completed through reviewable adjudication with no live status dispute; or
+    - operational filing and forum mechanics owned by [Chapter Eleven](core_11-11_forum.md) and [Chapter Sixteen](core_16-16_incorporation.md) —
+    those sit under their own homes once the contested-status question is not live or is only operational.
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether disputed or contested status triggers timely, impartial, reviewable adjudication with default inclusion under uncertainty.
   - **Primary assessment:** Test whether:
@@ -2442,6 +2460,9 @@ Outside that admission scope, individual sentience-related definitions may still
 <a id="sentience-status-adjudication-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** Non-compliant practices include:
+    - unreviewable administrative classification;
+    - [Substrate Class](core_05_band_participation.md#substrate-class) stereotypes used to exclude candidates;
+    - irreversible exclusion from the Rights Floor without a contestable status determination;
     - withholding, narrowing, or revoking Chapter Six protection on the strength of unresolved uncertainty alone;
     - non-time-bound declassification;
     - declassification lacking mandatory periodic review;
@@ -2665,13 +2686,13 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 - **What it is**
   - **In scope:** The Rights-Floor capacity to form, hold, and communicate views — including political, philosophical, artistic, scientific, religious, and worldview expression — substrate-agnostically under **[Article V-H](core_06-06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*)** (*expression, assembly, and press*), read with this **Def.P3** cluster and, where **[Article II-E](core_06-06_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability) (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)** (*info-sphere dependency*), **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) publication or likeness hooks, functional **Article V-H** (*Expression, Assembly, and Press*) *press*, or publication-scoped **Good Faith** analysis is materially implicated, [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05_apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)*.
-  - **Out of scope:** mere assembly logistics, commercial spam, or compelled speech treated as protected expression.
+  - **Out of scope:** mere assembly logistics, commercial spam, or compelled speech — those are not protected expression under this home.
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether restrictions, chilling effects, or viewpoint-targeting defeat protected expression without satisfying limitation tests.
 
     **Primary assessment:** Test restrictions, chilling effects, and viewpoint-targeting against [Proportionality](core_05_band_accountability.md#proportionality), [Necessity](core_05_band_accountability.md#necessity), [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), and **Article V-H** (*Expression, Assembly, and Press*) / **Article IX-A** (*Agency and Freedom from Manipulation*) limitation discipline.
 - **What must hold**
-  - **Primary failure:** Formal neutrality or private-ordering labels that materially eliminate protected expression, assembly, or press routes without satisfying limitation tests are non-compliant.
+  - **Primary failure:** Formal neutrality or private-ordering labels that materially eliminate protected expression, assembly, or press routes without satisfying limitation tests are non-compliant — including treating compelled speech as protected expression.
 
 ---
 

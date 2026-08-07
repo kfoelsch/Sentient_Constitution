@@ -75,14 +75,14 @@ The Ontological part (O) describes what the term is about. It must not say how t
 On a definition, the O part is written as a short list of labelled fields. Each field answers a plain question:
 
 - **In scope:** what the term *does* cover. This lists the real parts of the system, how they work together, what they rely on, and the effects that actually matter for this term.
-- **Out of scope:** what the term *does not* cover. This is where things are ruled out — above all, anything that wears the right label but has no real effect on the matter the term governs.
+- **Out of scope:** what the term *does not* cover. Name adjacent concepts, sibling homes, or ordinary cases outside the matter — not hollow labels, paper substitutes, or other noncompliant framings. Those belong in C (**Primary failure**).
 - **Depends on:** *(used only when it applies)* any *other*, already-defined thing this term is built on top of — for example a limit, a minimum floor, or a target it assumes is already in place. If the term only makes sense once that other thing exists, it is named here.
 
 A few things deliberately do **not** go in the O part:
 
 - what the term *feeds into*, or the larger group it *sits within* — that belongs with the definition's cross-references, not here;
 - how the term is measured or assessed — that belongs in M and A;
-- what counts as meeting or breaking the term — that belongs in C.
+- what counts as meeting or breaking the term — that belongs in C, including labels or paperwork that claim satisfaction without real effect.
 
 The exact sub-bullet labels, formatting, and cross-reference placement that carry O on Chapter Five definitions are specified in the [O/M/A/C entry model](doc_architecture.md#measurement-informed-ec-meas-def-01).
 

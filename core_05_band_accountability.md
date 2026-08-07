@@ -59,7 +59,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** Whether a required action, alternative, safeguard, or exit path is practically achievable for the affected parties and systems when the system is running as a whole. The test applies even when sentients disagree about feasibility — including where [Dependency](core_05_band_continuity.md#dependency) or [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) makes a formal alternative empty in practice.
-  - **Out of scope:** Labels or paperwork that call something feasible or infeasible when that label has no real effect in the situation being evaluated.
+  - **Out of scope:** theoretical possibility talk with no required action, alternative, safeguard, or exit at stake.
 <a id="feasibility-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
@@ -67,7 +67,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Primary assessment:** Require evidence that real alternatives were actually considered. Operator convenience, cost alone, or barriers the operator built for its own benefit do not prove that a constitutionally required measure is infeasible — especially where that claim would wipe out [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Consent](core_05_band_participation.md#consent-constitutional), or [Contestability](core_05_band_accountability.md#contestability).
 <a id="feasibility-c"></a>
 - **What must hold**
-  - **Primary failure:** Claims that something is infeasible without adequate justification — or analyses that skip materially relevant alternatives — invalidate related compliance findings under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) where those tests apply.
+  - **Primary failure:** Claims that something is infeasible without adequate justification — or analyses that skip materially relevant alternatives — invalidate related compliance findings under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) where those tests apply. A feasible or infeasible label or paperwork with no real effect in the situation being evaluated is also non-compliant.
 
 ---
 
@@ -88,7 +88,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** Honest purpose in the constitutional settings where Good Faith is required: publication under **Article VIII** (*Likeness, Experiential Data, and Publication Rights*)-C (*Truthful Publication and High-Impact Publication Limits*), participation in audits, and cooperation with [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional). It means sincerely trying to align conduct with stated facts, applicable rules, and [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity). It excludes deliberate deception, reckless indifference to falsehood, and compliance used as a pretext.
-  - **Out of scope:** A Good Faith label that does not affect conduct in the matter this Constitution governs.
+  - **Out of scope:** ordinary social courtesy without constitutional conduct stake in publication, audit, or oversight.
 <a id="good-faith-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
@@ -96,7 +96,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Primary assessment:** Use [Materiality Determination](core_05_band_oversight.md#materiality-determination) and [Risk](core_05_band_continuity.md#risk) to distinguish Good Faith from negligent error. Apply [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) when statements materially affect others' decisions.
 <a id="good-faith-c"></a>
 - **What must hold**
-  - **Primary failure:** Material falsehoods, reckless disregard, or a pattern of fake compliance in these settings are non-compliant. This is especially true when the conduct defeats [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), or [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional).
+  - **Primary failure:** Material falsehoods, reckless disregard, or a pattern of fake compliance in these settings are non-compliant. A Good Faith label that does not affect conduct in the matter this Constitution governs is also non-compliant. This is especially true when the conduct defeats [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), or [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional).
 
 ---
 
@@ -119,7 +119,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** After applying binding [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), and system-wide requirements, more than one compliant option may remain. Choose the option that minimizes total [Harm](core_05_band_accountability.md#harm) across sentients, systems, and all relevant timeframes.
-  - **Out of scope:** A label or paperwork claiming harm minimization when it does not change the choice in the matter this Constitution governs.
+  - **Out of scope:** ordinary preference among options when no material harm tradeoff remains after binding constraints.
 <a id="harm-minimization-tradeoff-selection-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
@@ -127,7 +127,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Primary assessment:** Add up direct, indirect, delayed, cumulative, and cross-system effects. Do not minimize only local or immediate [Harm](core_05_band_accountability.md#harm) when the total system-wide harm is materially different.
 <a id="harm-minimization-tradeoff-selection-c"></a>
 - **What must hold**
-  - **Primary failure:** A choice is non-compliant if another available compliant option would cause less total [Harm](core_05_band_accountability.md#harm).
+  - **Primary failure:** A choice is non-compliant if another available compliant option would cause less total [Harm](core_05_band_accountability.md#harm). A harm-minimization label or paperwork that does not change the choice in the matter this Constitution governs is also non-compliant.
 
 ---
 
@@ -150,7 +150,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** A constraint is allowed only when no less-restrictive, reasonably effective alternative exists under the full conditions of the working system. This test must remain consistent with [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency).
-  - **Out of scope:** A label or paperwork calling a constraint necessary when that claim has no real effect in the situation being evaluated.
+  - **Out of scope:** ordinary operational preference or habit talk with no constraint or rights burden at stake.
 <a id="necessity-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
@@ -158,7 +158,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Primary assessment:** Require a documented review of less-restrictive alternatives, how well each would work, and its [Residual Risk / Misalignment](core_05_band_continuity.md#residual-risk--misalignment). Default practice, operator convenience, or cost alone does not prove necessity.
 <a id="necessity-c"></a>
 - **What must hold**
-  - **Primary failure:** It is non-compliant to impose a constraint when a less-restrictive, reasonably effective alternative exists or when the alternatives were not adequately analyzed. This is especially serious when the constraint burdens [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), or [Consent](core_05_band_participation.md#consent-constitutional).
+  - **Primary failure:** It is non-compliant to impose a constraint when a less-restrictive, reasonably effective alternative exists or when the alternatives were not adequately analyzed. A necessity label or paperwork with no real effect in the situation being evaluated is also non-compliant. This is especially serious when the constraint burdens [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), or [Consent](core_05_band_participation.md#consent-constitutional).
 
 ---
 
@@ -182,7 +182,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** A limitation on constitutional values must match the size and likelihood of the [Harm](core_05_band_accountability.md#harm) or system-wide impact it legitimately addresses. Governance must meet at least the level required by the system's highest materially applicable classification. Greater authorized power, a more consequential role, or greater institutional influence increases — and must never reduce — the required strength of [Accountability](core_05_apex_accountability_leg.md#accountability) and [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) under [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) and Chapter One [§10.1](core_01_c_stewardship_capacity_principles.md#10-governance-as-authorized-structure).
-  - **Out of scope:** A proportionality label that does not change the actual limitation or governance in the matter this Constitution governs.
+  - **Out of scope:** ordinary sizing judgments outside rights-affecting limitations or classification-scaled governance.
 <a id="proportionality-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
@@ -190,7 +190,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Primary assessment:** Compare each constraint with the harms and risks it addresses. Require stronger justification, closer review, and [Reversibility](core_05_band_continuity.md#reversibility-constitutional) analysis when [Irreversible Harm](core_05_band_accountability.md#irreversible-harm) or [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) is reasonably possible. Look for both over-governance and under-governance, including too little governance of actors with greater authorized power or consequential institutional roles.
 <a id="proportionality-c"></a>
 - **What must hold**
-  - **Primary failure:** Disproportionate limitations are non-compliant. So is governance weaker than the applicable classification requires when externalized or system-wide effects are material. Office, scarce expertise, staffing needs, or institutional self-protection cannot justify weakening constitutional [Accountability](core_05_apex_accountability_leg.md#accountability) or [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) relative to the authority exercised.
+  - **Primary failure:** Disproportionate limitations are non-compliant. So is governance weaker than the applicable classification requires when externalized or system-wide effects are material. A proportionality label that does not change the actual limitation or governance in the matter this Constitution governs is also non-compliant. Office, scarce expertise, staffing needs, or institutional self-protection cannot justify weakening constitutional [Accountability](core_05_apex_accountability_leg.md#accountability) or [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) relative to the authority exercised.
 
 ---
 
@@ -231,7 +231,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** A right to a payout that depends on an uncertain future event outside the claim itself — whether the event happens, does not happen, or resolves to a measured result. This covers speculative bets and insurance-like structures. [Game of Chance](core_05_band_accountability.md#game-of-chance) and [Event-Contract Market](core_05_band_accountability.md#event-contract-market) are kinds of Contingent Claim.
-  - **Out of scope:** Labels or paperwork that call something a contingent claim when it does not actually work that way for the matter this Constitution governs.
+  - **Out of scope:** fixed-price sale, ordinary wage, or other payment with no uncertain external event settling the payout.
 <a id="contingent-claim-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
@@ -239,7 +239,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Primary assessment:** Identify the event that settles the payout, who or what decides that outcome (the outcome-resolution source under [Chapter One §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets)), and how much [Dependency](core_05_band_continuity.md#dependency) and concentration the structure creates. Where many such claims together could sway fiduciary, public, or rights-relevant decisions, also apply [Incentive Alignment](core_05_band_integrative.md#incentive-alignment), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways), [Insider Advantage](core_05_band_accountability.md#insider-advantage), and [System Capture](core_05_band_continuity.md#system-capture).
 <a id="contingent-claim-c"></a>
 - **What must hold**
-  - **Primary failure:** Structures that reliably pay for unlawful [Harm](core_05_band_accountability.md#harm), for twisting rights-relevant decisions, or for [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) — without proportionate safeguards — are non-compliant.
+  - **Primary failure:** Structures that reliably pay for unlawful [Harm](core_05_band_accountability.md#harm), for twisting rights-relevant decisions, or for [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) — without proportionate safeguards — are non-compliant. A contingent-claim label or paperwork when the structure does not actually work that way for the matter this Constitution governs is also non-compliant.
 
 ---
 
@@ -262,7 +262,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** A [Contingent Claim](core_05_band_accountability.md#contingent-claim) venue that matches counterparties, sets prices, or pays out based on how an external event resolves. Includes prediction-style event markets, event-settlement systems, insurance pools, health plans, and other structures where payment depends on a future event the parties do not control.
-  - **Out of scope:** Labels or paperwork that call something an event-contract market when it does not actually work that way for the matter this Constitution governs.
+  - **Out of scope:** ordinary bilateral contract, fixed-price sale, or non-market pool with no external-event settlement venue.
 <a id="event-contract-market-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
@@ -270,7 +270,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Primary assessment:** Check that whoever decides the outcome (the outcome-resolution source) is independent, and that more than one source is used where feasible. Check for privileged-information pathways, [Insider Advantage](core_05_band_accountability.md#insider-advantage), and coordination risk. Do not treat settlement prices or odds as authoritative [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) — under [Chapter One §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets), prices or odds alone are not enough evidence for rights, safety, or governance decisions. Also check for [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) under [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 <a id="event-contract-market-c"></a>
 - **What must hold**
-  - **Primary failure:** Markets built to twist fiduciary, public, or rights-relevant decisions — or that allow [Insider Advantage](core_05_band_accountability.md#insider-advantage) without proportionate safeguards — are non-compliant.
+  - **Primary failure:** Markets built to twist fiduciary, public, or rights-relevant decisions — or that allow [Insider Advantage](core_05_band_accountability.md#insider-advantage) without proportionate safeguards — are non-compliant. An event-contract-market label or paperwork when the venue does not actually work that way for the matter this Constitution governs is also non-compliant.
 
 ---
 
@@ -293,7 +293,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** A [Contingent Claim](core_05_band_accountability.md#contingent-claim) decided mainly by randomization, mechanical draws, or another chance-based process. Unlike an event contract, it is not tied to an outside real-world event whose result has its own importance for knowledge or rights.
-  - **Out of scope:** A label or paperwork calling something a game of chance when it does not actually work that way for the matter this Constitution governs.
+  - **Out of scope:** skill contest, fixed-price sale, or event-settled claim whose payout turns on an outside real-world event rather than randomization.
 <a id="game-of-chance-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
@@ -301,7 +301,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Primary assessment:** Check whether the random process is honest, whether the source that decides the outcome is independent, whether stakes are concentrated, whether the design exploits vulnerability, and whether it creates [Dependency](core_05_band_continuity.md#dependency). Addictive designs or designs that target vulnerable sentients trigger [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) review under [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 <a id="game-of-chance-c"></a>
 - **What must hold**
-  - **Primary failure:** A design is non-compliant if it exploits vulnerability, falsifies randomness, or produces [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways).
+  - **Primary failure:** A design is non-compliant if it exploits vulnerability, falsifies randomness, or produces [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways). A game-of-chance label or paperwork when the structure does not actually work that way for the matter this Constitution governs is also non-compliant.
 
 ---
 
@@ -324,7 +324,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** A meaningful advantage in staking, trading, settling, or influencing a [Contingent Claim](core_05_band_accountability.md#contingent-claim) or a similar rights-relevant outcome. The advantage comes from non-public information, an official or fiduciary role, privileged access to whoever decides the outcome, or similar power not available to the other parties on proportionate terms. It includes advantages hidden through intermediaries or disguised contracts.
-  - **Out of scope:** A label or paperwork claiming insider advantage when no such advantage actually affects the matter this Constitution governs.
+  - **Out of scope:** ordinary public-information skill, disclosed research edge, or market judgment available on proportionate terms.
 <a id="insider-advantage-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
@@ -332,7 +332,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Primary assessment:** Identify unequal access to information, conflicts between roles, timing leverage such as timed pressure or selective disclosure, and closeness to the source that decides the outcome. Check whether disclosure, cooling-off periods, trading restrictions, blind procedures, or resolution by multiple sources reduce the advantage. Separate lawful skill and public information from an edge based on non-public power. Read with [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways), [Event-Contract Market](core_05_band_accountability.md#event-contract-market) evaluation discipline, [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), and [Contestability](core_05_band_accountability.md#contestability) under [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 <a id="insider-advantage-c"></a>
 - **What must hold**
-  - **Primary failure:** A structure is non-compliant if it allows [Insider Advantage](core_05_band_accountability.md#insider-advantage) based on non-public power without proportionate safeguards.
+  - **Primary failure:** A structure is non-compliant if it allows [Insider Advantage](core_05_band_accountability.md#insider-advantage) based on non-public power without proportionate safeguards. An insider-advantage label or paperwork when no such advantage actually affects the matter this Constitution governs is also non-compliant.
 
 ---
 
@@ -449,7 +449,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** The practical ability of affected parties to challenge system behavior or decisions, obtain review, seek correction, and use working pathways to [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional).
-  - **Out of scope:** A challenge or review option that exists only as a label or paperwork and has no real effect in the situation being evaluated.
+  - **Out of scope:** mere complaint inbox not claimed as a review pathway, or ordinary feedback outside challenge, review, and correction.
 <a id="contestability-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — checks whether affected parties have a practical way to challenge a system or decision, obtain review, and seek correction.
@@ -463,7 +463,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Tertiary assessment:** When operators rely on challenge or review counts, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence). Separate lasting Contestability from symbolic participation.
 <a id="contestability-c"></a>
 - **What must hold**
-  - **Primary failure:** The system lacks working ways to challenge, review, and correct decisions that are strong enough to support [Accountability](core_05_apex_accountability_leg.md#accountability) and [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional).
+  - **Primary failure:** The system lacks working ways to challenge, review, and correct decisions that are strong enough to support [Accountability](core_05_apex_accountability_leg.md#accountability) and [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional). A challenge or review option that exists only as a label or paperwork and has no real effect in the situation being evaluated is also non-compliant.
   - **Secondary failure:** Challenge pathways exist on paper, but [Dependency](core_05_band_continuity.md#dependency), capture, or access interference makes them unusable.
   - **Tertiary failure:** The system treats a challenge process as sufficient merely because it exists on paper, even when it is reasonably clear that the process does not work in practice ([Proxy Divergence](core_05_band_oversight.md#proxy-divergence)).
 
@@ -490,7 +490,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** Impartial, accessible pathways for reviewing and resolving claims that systems or actors violated rights or constitutional requirements. These pathways must produce timely, reasoned outcomes consistent with [Due Process](core_05_band_accountability.md#due-process-constitutional) and [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional). Remedies must be proportionate to the findings under [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional). <a id="adjudicator"></a> An `adjudicator` is a sentient, panel member, judicial officer, or equivalent authorized decision-maker with lawful authority to decide contested claims, issue [Merits Determinations](core_05_band_accountability.md#merits-determination), grant or deny relief, or make binding procedural decisions in an adjudicative matter. Clerical, investigative, analytical, forensic, technical, scheduling, intake, and coordination roles are not adjudicators unless a governing instrument separately gives them lawful decision-making authority for the matter at issue.
-  - **Out of scope:** A dispute-resolution pathway that exists only as a label or paperwork and has no real effect in the situation being evaluated.
+  - **Out of scope:** ordinary negotiation, mediation, or informal settlement talk not claimed as an adjudicative pathway.
 <a id="adjudication-and-dispute-resolution-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used together to assess whether dispute-resolution pathways are answerable and timely.
@@ -501,7 +501,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - Designated incorporated governance, institutional, and forum texts may set owner-layer procedures, but they must not narrow this definition.
 <a id="adjudication-and-dispute-resolution-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** It is non-compliant to deny access when Chapter Six or binding instruments require it; capture forum decision power to prevent meaningful review; materially exceed **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) tier windows without a lawful extension; or use delay instead of deciding the merits.
+  - **Primary failure:** It is non-compliant to deny access when Chapter Six or binding instruments require it; capture forum decision power to prevent meaningful review; materially exceed **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) tier windows without a lawful extension; or use delay instead of deciding the merits. A dispute-resolution pathway that exists only as a label or paperwork and has no real effect in the situation being evaluated is also non-compliant.
 
 
 
@@ -526,7 +526,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** The constitutional process required for decisions and adjudicative outcomes that materially affect rights. The procedure before and after the decision must be fair, accessible, and reviewable. It must include the elements of [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), scaled to the [material stake](core_00_preamble.md#material-stake). Each outcome must be traceable to stated reasons and enough evidence to support review under Chapters Two through Four.
-  - **Out of scope:** A due-process label or procedure that exists only on paper and has no real effect in the situation being evaluated.
+  - **Out of scope:** courtesy communication outside material adverse action or another rights-affecting decision.
 <a id="due-process-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used together to assess whether rights-affecting decisions follow a fair process and avoid harmful delay.
@@ -534,7 +534,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Primary assessment:** Read with [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), [Contestability](core_05_band_accountability.md#contestability), [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional), and [Merits Determination](core_05_band_accountability.md#merits-determination). Judge whether the process works, not whether it merely has the right form. Symbolic consultation, inaccessible records, or delay that defeats review is not Due Process. Emergency or feasibility limits may change timing or form only as far as justified. They must preserve later review, reasons, and restoration where required.
 <a id="due-process-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** It is non-compliant to decide a materially impactful outcome without timely notice, a meaningful chance to be heard, understandable reasons, impartial or appropriately independent structures where adjudication applies, a way to contest or seek secondary review, or traceability under Chapters Two through Four. Emergency, automation, delegation, private ordering, or technical complexity cannot be used to defeat required process.
+  - **Primary failure:** It is non-compliant to decide a materially impactful outcome without timely notice, a meaningful chance to be heard, understandable reasons, impartial or appropriately independent structures where adjudication applies, a way to contest or seek secondary review, or traceability under Chapters Two through Four. A due-process label or procedure that exists only on paper and has no real effect in the situation being evaluated is also non-compliant. Emergency, automation, delegation, private ordering, or technical complexity cannot be used to defeat required process.
 
 
 
@@ -560,7 +560,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** Resolve material constitutional disputes, verify standing records, and provide proportionate remedies within the materiality-scaled windows in **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Outcomes must be verified and must avoid unnecessary delay, tactics that exhaust participants, and capture of resolution pathways.
-  - **Out of scope:** A timely-resolution label or deadline that has no real effect in the situation being evaluated.
+  - **Out of scope:** ordinary scheduling preferences or calendar targets outside material constitutional dispute windows.
 <a id="timely-resolution-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — checks whether a matter moves toward resolution and is decided within the time its importance and urgency require.
@@ -574,7 +574,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Tertiary assessment:** When operators rely on throughput or completed milestones, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence). Separate lasting Timely Resolution from speed that produces no real remedy.
 <a id="timely-resolution-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** Deliberately created backlog; delay designed to exhaust claimants; leaving matters pending indefinitely without a documented, tier-appropriate extension; or self-created delay.
+  - **Primary failure:** Deliberately created backlog; delay designed to exhaust claimants; leaving matters pending indefinitely without a documented, tier-appropriate extension; or self-created delay. A timely-resolution label or deadline that has no real effect in the situation being evaluated is also non-compliant.
   - **Secondary failure:** Forum shopping or splitting records to prolong resolution; or efficiency claims used to skip verification, individual attribution, or appeal rights.
   - **Tertiary failure:** Treating a met pipeline target or deadline as decisive when [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable, or delaying repair after notice when correction was feasible.
 
@@ -618,7 +618,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - sequencing; or
     - other procedural housekeeping — including [Stays](core_05_band_accountability.md#stay).
   - The final numeric Violation Axis slot is a Chapter Eight §7 unified-scale measurement based on verified impact. [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) governs only the matching anti-constitutional-misconduct designation when a Chapter Eight slot 7, 8, or 9 record qualifies. Neither outcome replaces ordinary forum authority to decide the merits or becomes a dispute-resolution pathway decision.
-  - **Out of scope:** A merits label that does not actually resolve a substantive issue in the matter this Constitution governs.
+  - **Out of scope:** procedural housekeeping, routing, scheduling, monitoring, evidence preservation, or a [Stay](core_05_band_accountability.md#stay) — none of which settle liability, entitlement, validity, mandate, remedy, or a comparable rights-affecting disposition.
 <a id="merits-determination-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
@@ -626,7 +626,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Primary assessment:** Ask whether the decision settles the main issue in dispute or only manages the review process. A decision that forms a panel, routes or schedules a case, monitors it, preserves the current position, or coordinates review is procedural, even when it is binding. A [Stay](core_05_band_accountability.md#stay) only pauses or limits action; it never settles the merits. Settling the main issue requires a separate [Merits Determination](core_05_band_accountability.md#merits-determination) from a sentient or body with lawful authority to make it. Monitoring findings are also procedural unless a governing instrument expressly gives the monitor limited authority to decide the merits. [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) explains how to route primary stakes and questions reserved for a merits decision; owner layers identify the questions reserved for each forum family.
 <a id="merits-determination-c"></a>
 - **What must hold**
-  - **Primary failure:** It is non-compliant for support, oversight, forensic, investigative, or monitoring roles to issue binding merits outcomes without separate lawful authority. Those roles cannot pre-decide substantive issues assigned to a lawfully constituted merits forum, and routing, intake, or contest-integrity findings cannot be treated as final merits decisions.
+  - **Primary failure:** It is non-compliant for support, oversight, forensic, investigative, or monitoring roles to issue binding merits outcomes without separate lawful authority. Those roles cannot pre-decide substantive issues assigned to a lawfully constituted merits forum, and routing, intake, or contest-integrity findings cannot be treated as final merits decisions. A merits label that does not actually resolve a substantive issue in the matter this Constitution governs is also non-compliant.
 
 
 
@@ -649,7 +649,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** A temporary order that pauses or limits a specific next step while further review or a required finding is completed. It may pause an action, prevent reliance on a finding, delay enforcement of a restriction, hold a component question for later referral, or postpone a certification or similar final outcome. A Stay controls timing or sequence; it does not decide the main issue. Any binding decision on the main issue must be issued separately as a [Merits Determination](core_05_band_accountability.md#merits-determination) by a sentient or body with lawful authority to make it.
-  - **Out of scope:** A pause in name only that does not actually stop or limit anything.
+  - **Out of scope:** informal delay, silence, or ordinary calendar pause not issued as a documented Stay.
 <a id="stay-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
@@ -657,7 +657,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Primary assessment:** Identify what is paused: action, reliance, finalization, or enforcement. Identify the lawful authority issuing the Stay, its scope and duration or review trigger, and whether it is proportionate under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality). A Stay may prevent foreseeable harm, preserve evidence, prevent irreversible dependence, or allow required component review. Separate a Stay from a final decision, informal delay, or silence treated as approval. When substantive issues are ready, issue a separate [Merits Determination](core_05_band_accountability.md#merits-determination); do not hide merits outcomes inside the Stay. Read [Contestability](core_05_band_accountability.md#contestability) and [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional) for challenge and review timing.
 <a id="stay-c"></a>
 - **What must hold**
-  - **Primary failure:** It is non-compliant to use informal delay or silence instead of a documented Stay when one is required; keep a Stay indefinite without a documented review trigger or prompt tier-appropriate review; block [Contestability](core_05_band_accountability.md#contestability) or required component review; treat a Stay as final approval or a merits decision; label a [Merits Determination](core_05_band_accountability.md#merits-determination) as a Stay; include merits outcomes without a separate merits ruling; or refuse to lift or narrow a Stay after review is complete or its stated grounds no longer hold.
+  - **Primary failure:** It is non-compliant to use informal delay or silence instead of a documented Stay when one is required; keep a Stay indefinite without a documented review trigger or prompt tier-appropriate review; block [Contestability](core_05_band_accountability.md#contestability) or required component review; treat a Stay as final approval or a merits decision; label a [Merits Determination](core_05_band_accountability.md#merits-determination) as a Stay; include merits outcomes without a separate merits ruling; or refuse to lift or narrow a Stay after review is complete or its stated grounds no longer hold. A pause in name only that does not actually stop or limit anything is also non-compliant.
 
 
 
@@ -691,7 +691,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - trauma-producing conditions
 
     when a duty and meaningful capacity to act existed.
-  - **Out of scope:** A negligence label that does not reflect what actually happened in the matter this Constitution governs.
+  - **Out of scope:** excusable uncertainty, unforeseeable accident after due diligence, or ordinary imperfect judgment without a duty-and-capacity failure.
 <a id="negligence-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
@@ -709,6 +709,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Primary failure:** Persistent or systemic Negligence is non-compliant, including passively accepting known harmful conditions in ways that:
     - materially devalue [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing); or
     - prevent action against foreseeable harm.
+  - A negligence label that does not reflect what actually happened in the matter this Constitution governs is also non-compliant.
 
 
 
@@ -731,7 +732,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** A group, institution, or distributed decision structure causes, enables, or continues a constitutional violation through coordinated action, split responsibility, or knowing acceptance. This includes cases where no single actor's contribution, viewed alone, fully explains the harm or defeats [Accountability](core_05_apex_accountability_leg.md#accountability).
-  - **Out of scope:** A collective-failure label with no real effect in the situation being evaluated.
+  - **Out of scope:** ordinary individual error or isolated private wrong with no group, institutional, or distributed-enablement structure.
 <a id="collective-accountability-failure-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
@@ -739,7 +740,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Primary assessment:** For each role, assess duty, knowledge, ability to resist or escalate, command and dependency structure, and documented response pathways. Check whether actors reasonably used [Contestability](core_05_band_accountability.md#contestability), protected reporting, challenge rights, and [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) when they faced unlawful or unconstitutional directives.
 <a id="collective-accountability-failure-c"></a>
 - **What must hold**
-  - **Primary failure:** Using hierarchy, collective process, or divided responsibility to excuse materially enabling or failing to resist a constitutional violation.
+  - **Primary failure:** Using hierarchy, collective process, or divided responsibility to excuse materially enabling or failing to resist a constitutional violation. A collective-failure label with no real effect in the situation being evaluated is also non-compliant.
   - **Secondary failure:** Actors with meaningful capacity fail to proportionately resist, contest, document, or escalate unlawful directives when [Accountability](core_05_apex_accountability_leg.md#accountability) and [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) are materially implicated.
 
 
@@ -782,7 +783,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - disgorgement or clawback where lawful;
     - substitute safeguards when literal repair is impossible; and
     - system-wide remediation when harm affects a class or comes from a structural failure.
-  - **Out of scope:** A redress, remediation, or resolution label that leaves the problem unsolved in the matter this Constitution governs.
+  - **Out of scope:** ordinary apology, courtesy gesture, or informal goodwill outside acknowledgment, correction pathways, and proportionate remedy.
 <a id="redress-and-remediation-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
@@ -795,7 +796,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - delayed without an end.
 <a id="redress-and-remediation-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** It is non-compliant to withhold functional redress when Chapter Six or binding norms require it. Symbolic responses, punishment-only outcomes, or inaccessible remedy channels cannot replace effective remediation, especially when they defeat:
+  - **Primary failure:** It is non-compliant to withhold functional redress when Chapter Six or binding norms require it. Symbolic responses, punishment-only outcomes, inaccessible remedy channels, or a redress, remediation, or resolution label that leaves the problem unsolved cannot replace effective remediation, especially when they defeat:
     - [Accountability](core_05_apex_accountability_leg.md#accountability);
     - [Contestability](core_05_band_accountability.md#contestability); or
     - [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
@@ -849,8 +850,8 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - a forum family; or
     - a replacement for primary-stakes merits authority.
   - **Out of scope:**
-    - a remedy system that exists only as a label or paperwork; or
-    - treating technical standards bodies as the command hierarchy for remedy institutions.
+    - ordinary customer-service desk, private help desk, or technical standards catalog not charged with executable redress; or
+    - dignity rank, reputation score, or forum-family assignment alone.
 <a id="remedy-system-constitutional-a"></a>
 <a id="remedy-system-a"></a>
 - **How to measure and assess**
@@ -904,7 +905,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     This priority comes before retaliation or suffering as an end in itself when restoration is proportionate and feasible under:
     - [Safety (Constraint)](core_05_band_continuity.md#safety-constraint); and
     - [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint).
-  - **Out of scope:** A restorative label that does not produce a real restorative response in the matter this Constitution governs.
+  - **Out of scope:** ordinary apology circles or voluntary peacemaking outside constitutionally required restorative pathways.
 <a id="restorative-justice-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
@@ -920,8 +921,9 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - **What must hold**
   - **Primary failure:** When binding instruments require restorative pathways, it is non-compliant to:
     - omit them;
-    - make them inaccessible; or
-    - replace them with retaliation-centered processes that block proportionate restoration
+    - make them inaccessible;
+    - replace them with retaliation-centered processes that block proportionate restoration; or
+    - use a restorative label that does not produce a real restorative response in the matter this Constitution governs
 
     ([Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional); [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional)).
 
@@ -946,7 +948,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** An outside event or condition beyond a system's reasonable control even after due diligence. Examples include severe natural disasters, broad infrastructure failure not caused by the system invoking Force Majeure, and comparable unavoidable disruption. It may justify temporary relief under [Emergency and Contingency](core_05_band_continuity.md#emergency-and-contingency-constitutional).
-  - **Out of scope:** A Force Majeure label for a self-caused, reasonably controllable, or insufficiently prepared-for condition, or a label with no real effect in the situation being evaluated.
+  - **Out of scope:** ordinary operational disruption within reasonable control and preparedness.
 <a id="force-majeure-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
@@ -954,7 +956,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Primary assessment:** Satisfy every requirement in [Emergency and Contingency](core_05_band_continuity.md#emergency-and-contingency-constitutional) and the [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster). During acute uncertainty, some duties may be temporarily limited, but [Truth](core_05_band_oversight.md#truth-constitutional-constraint)-related reporting, attribution, [Contestability](core_05_band_accountability.md#contestability), and later audit must resume when conditions stabilize. Procedural emergency controls remain in Chapter Six, [Article XXIII-D](core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*), and owner-layer governance implementation. Implementation-layer contracts may add detail but cannot narrow [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) or [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint).
 <a id="force-majeure-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** It is non-compliant to treat Force Majeure as a permanent waiver of [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Contestability](core_05_band_accountability.md#contestability), or audit. It is also non-compliant to call foreseeable risks unforeseeable without [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence).
+  - **Primary failure:** It is non-compliant to treat Force Majeure as a permanent waiver of [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Contestability](core_05_band_accountability.md#contestability), or audit. It is also non-compliant to apply a Force Majeure label to a self-caused, reasonably controllable, or insufficiently prepared-for condition; to use a Force Majeure label with no real effect in the situation being evaluated; or to call foreseeable risks unforeseeable without [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence).
 
 
 
@@ -977,7 +979,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** A form of [System Capture](core_05_band_continuity.md#system-capture). Concentrated incentives, control, or privileged information bias the actors, processes, data feeds, or authorities that decide [Contingent Claim](core_05_band_accountability.md#contingent-claim) settlements or similar rights-relevant outcomes. Chapter One §11.5 calls these decision-makers "outcome-resolution sources."
-  - **Out of scope:** A capture label that does not reflect actual bias or control in the matter this Constitution governs.
+  - **Out of scope:** ordinary market competition, disclosed advocacy, or non-controlling participation without bias of outcome-resolution sources.
 <a id="capture-of-resolution-pathways-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — checks whether control or interference causes delay, obstruction, or unfair influence over how disputes are resolved.
@@ -991,7 +993,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Tertiary assessment:** When operators rely on prices, odds, or the authority of an outcome-resolution source, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence). Separate lasting pathway integrity from a captured outcome-resolution source.
 <a id="capture-of-resolution-pathways-c"></a>
 - **What must hold**
-  - **Primary failure:** Parties with a material stake control, bias, or make the resolution system impossible to audit.
+  - **Primary failure:** Parties with a material stake control, bias, or make the resolution system impossible to audit. A capture label that does not reflect actual bias or control in the matter this Constitution governs is also non-compliant.
   - **Secondary failure:** The system does not satisfy all [System Capture](core_05_band_continuity.md#system-capture) obligations when Capture of Resolution Pathways is materially implicated.
   - **Tertiary failure:** The system treats settlement prices, odds, or resolution metrics as decisive when [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
 
@@ -1033,7 +1035,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** A disclosure or escalation by a sentient, stakeholder, worker, participant, auditor, or similar actor about a reasonable suspicion of constitutional non-compliance, material harm, a safety or truth failure, corruption, capture, abuse, retaliation, or obstruction of required review.
-  - **Out of scope:** A protected-reporting label or channel that provides no real protection, or that is used to identify, expose, punish, intimidate, or otherwise retaliate against a reporter or anyone who supports the report.
+  - **Out of scope:** ordinary workplace feedback, suggestion box, or personal grievance not claiming constitutional protected-reporting protection.
 <a id="protected-reporting-whistleblowing-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — checks whether sentients can safely report serious concerns and whether those reports are received, preserved, and reviewed.
@@ -1044,7 +1046,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Secondary assessment:** A reporter does not need to state the legal issue perfectly. Protection applies when the reporter had a reasonable basis and used a channel proportionate to the circumstances.
 <a id="protected-reporting-whistleblowing-c"></a>
 - **What must hold**
-  - **Primary failure:** Suppressing, burdening, burying, or refusing to receive Protected Reporting; or treating Good Faith reporting as misconduct only because it exposes an institutional or system failure.
+  - **Primary failure:** Suppressing, burdening, burying, or refusing to receive Protected Reporting; treating Good Faith reporting as misconduct only because it exposes an institutional or system failure; or a protected-reporting label or channel that provides no real protection, or that is used to identify, expose, punish, intimidate, or otherwise retaliate against a reporter or anyone who supports the report.
   - **Secondary failure:** Requiring silence as a condition of access to remedy when accountability, safety, or truth duties require disclosure.
 
 
@@ -1068,7 +1070,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** Any retaliation, threat, penalty, exclusion, damage to reputation, denial of access, manipulation of records, or obstruction of process materially connected to Protected Reporting, [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), audit participation, challenge, review, or access to remediation.
-  - **Out of scope:** An anti-retaliation label or policy that provides no real protection, causes or enables retaliation, or is used to hide it.
+  - **Out of scope:** ordinary performance management, scheduling, or resource allocation with no material connection to Protected Reporting or review participation.
 <a id="protected-reporting-retaliation-and-access-interference-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
@@ -1079,7 +1081,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Secondary assessment:** Treat interference with access as closely related to retaliation when it actually prevents reporting, review, or remedy.
 <a id="protected-reporting-retaliation-and-access-interference-c"></a>
 - **What must hold**
-  - **Primary failure:** An adverse action or obstruction of access materially caused by Protected Reporting or participation in review.
+  - **Primary failure:** An adverse action or obstruction of access materially caused by Protected Reporting or participation in review. An anti-retaliation label or policy that provides no real protection, causes or enables retaliation, or is used to hide it is also non-compliant.
   - **Secondary failure:** A supposedly neutral process change that foreseeably blocks Protected Reporting; or a remedy channel that exists on paper but retaliation makes unusable.
 
 ---
@@ -1122,7 +1124,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** The structures, rules, distribution of authority, and processes used to direct, constrain, change, and hold systems and institutions [Accountable](core_05_apex_accountability_leg.md#accountability). This includes technical, organizational, economic, and socio-technical layers that materially affect sentients. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline) for routing between the [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer) and **Stakeholder System Participation**. At principle layer, **Governance** is subordinate to [Stewardship](core_05_band_continuity.md#stewardship-constitutional) when authorized structures, incentives, or procedures would otherwise allow foreseeable constitutional misalignment, Rights-Floor degradation, or short-term optimization that defeats durable alignment. **Chapter Twelve** and the **Constitutional Contract Layer** continue to own operative authorization requirements.
-  - **Out of scope:** A Governance label or formal structure that has no real effect in the situation being evaluated.
+  - **Out of scope:** private club bylaws, brand style guides, or informal social coordination that do not direct or constrain systems this Constitution governs.
 <a id="governance-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
@@ -1133,6 +1135,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - A claimed Governance arrangement remains in scope for evaluation when it seeks to seize, displace, bypass, or materially obstruct authority assigned through a valid constitutional authorization pathway. This rule does not prohibit challenge, review, amendment, replacement, or emergency action carried out through constitutionally authorized pathways.
   - **Primary failure:**
     - Governance arrangements that materially negate required [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), [Contestability](core_05_band_accountability.md#contestability), or [Accountability](core_05_apex_accountability_leg.md#accountability); produce or entrench [System Capture](core_05_band_continuity.md#system-capture) without mitigation when such capture is materially prohibited; normalize permanent emergency; suppress correction; or entrench capture while preserving procedure only in name.
+    - a Governance label or formal structure that has no real effect in the situation being evaluated.
     - attempting to seize, displace, bypass, or materially obstruct constitutionally assigned authority, even when the attempted subversion does not succeed.
 
 
@@ -1156,7 +1159,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** Put decision authority at the least centralized and smallest scale that can still satisfy every binding evaluation requirement. These include [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Material Impact](core_05_band_oversight.md#material-impact), [Dependency](core_05_band_continuity.md#dependency), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and system-wide evaluation.
-  - **Out of scope:** A Decentralization label or formal arrangement that has no real effect in the situation being evaluated.
+  - **Out of scope:** ordinary team task assignment or local operations detail with no decision-authority placement stake.
 <a id="decentralization-a"></a>
 <a id="subsidiarity-a"></a>
 - **How to measure and assess**
@@ -1169,6 +1172,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Primary failure:**
     - It is non-compliant to centralize authority without [Necessity](core_05_band_accountability.md#necessity), or to decentralize in ways that prevent required [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), defeat [Accountability](core_05_apex_accountability_leg.md#accountability), or produce unaddressed system-wide [Harm](core_05_band_accountability.md#harm).
     - Claimed decentralization is non-compliant when it shifts duties or blame downward while keeping meaningful authority, resources, information, or review access centralized without [Necessity](core_05_band_accountability.md#necessity).
+    - A Decentralization label or formal arrangement that has no real effect in the situation being evaluated is also non-compliant.
 
 <a id="market-structure-constitutional"></a>
 
@@ -1190,7 +1194,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** The constitutional rules for how markets, platforms, labor arrangements, resource flows, access to data and compute, credentialing, access to capital, information-sphere gatekeeping, and similar **market-structuring arrangements** must preserve contestable participation. This includes meaningful substitutes, workable exit, fair entry and re-entry, bargaining without coercion, and reviewable access to essential or high-dependency infrastructure. Lawful scale, integration, or a temporary advantage from genuine innovation is not prohibited by itself.
-  - **Out of scope:** A market-structure label or formal arrangement that has no real effect in the situation being evaluated.
+  - **Out of scope:** ordinary private exchange among peers with no market-structuring arrangement affecting contestable participation.
 <a id="market-structure-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
@@ -1204,7 +1208,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Tertiary assessment:** When operators rely on measures of competitiveness or efficiency, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence). Separate lasting Contestability from market openness that exists only on paper.
 <a id="market-structure-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** A market-structuring arrangement foreseeably degrades wellbeing, meaningful agency, dignity, ecological integrity, Contestability, or constitutional review.
+  - **Primary failure:** A market-structuring arrangement foreseeably degrades wellbeing, meaningful agency, dignity, ecological integrity, Contestability, or constitutional review. A market-structure label or formal arrangement that has no real effect in the situation being evaluated is also non-compliant.
   - **Secondary failure:** Concentration or domination is defended only by claims about efficiency, competitiveness, emergency, security, or productive capacity without traceable constitutional outcomes; or a threshold or ceiling regime nullifies the [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) floor.
   - **Tertiary failure:** An arrangement passes non-concentration tests on paper but fails applicable Rights-Floor protections, or proxy satisfaction is treated as decisive when [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
 
@@ -1236,7 +1240,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - **Rights-layer pointer:** [Article IV](core_06-06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*).
     - **Anti-nullification:** Adopter-tunable thresholds and ceilings cannot nullify the Chapter One §13 floor against concentration that predictably degrades wellbeing, agency, dignity, or ecological integrity.
     - **Application:** This definition applies across substrates and jurisdictions.
-  - **Out of scope:** A threshold set so high it foreseeably never triggers, an entity-count cosmetic, federated or shell packaging, or a cross-domain control swap that leaves real concentration unreviewed.
+  - **Out of scope:** ordinary firm size, temporary innovation lead, or lawful scale below the operational trigger for heightened review.
 <a id="market-concentration-threshold-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
@@ -1264,7 +1268,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
       - [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
 <a id="market-concentration-threshold-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** Under the anti-nullification rule in [CJS-5.11.1 — Market concentration threshold-setting discipline (adopter-tunable)](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-5111-market-concentration-threshold-setting-discipline-adopter-tunable), it is non-compliant to set thresholds so high that they foreseeably never apply, pair threshold rules with enforcement tools that are never used, or design a threshold regime that produces no real review or intervention.
+  - **Primary failure:** Under the anti-nullification rule in [CJS-5.11.1 — Market concentration threshold-setting discipline (adopter-tunable)](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-5111-market-concentration-threshold-setting-discipline-adopter-tunable), it is non-compliant to set thresholds so high that they foreseeably never apply, pair threshold rules with enforcement tools that are never used, design a threshold regime that produces no real review or intervention, or rely on an entity-count cosmetic, federated or shell packaging, or a cross-domain control swap that leaves real concentration unreviewed.
   - **Secondary failure:** It is non-compliant to:
     - **Evade through structure:** aggregate control through federated structures while still producing real concentration;
     - **Evade across domains:** substitute control in one domain for control in another to avoid a threshold;
@@ -1437,7 +1441,7 @@ The following limits also apply:
 
 - **What it is**
   - **In scope:** Damage that cannot be meaningfully undone within the relevant timescale. This includes damage to [Wellbeing](core_05_band_continuity.md#wellbeing), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional), or conditions that support a system, and therefore implicates [Reversibility](core_05_band_continuity.md#reversibility-constitutional).
-  - **Out of scope:** Calling realistically recoverable harm irreversible without explanation, or treating truly irreversible harm as recoverable based only on substitutes or promises of later repair.
+  - **Out of scope:** temporary, realistically recoverable injury within the relevant timescale.
 <a id="irreversible-harm-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
@@ -1476,7 +1480,7 @@ The following limits also apply:
     - degrades dignity, safety, equal standing or participation, wellbeing, rest, education, or [Meaningful Agency](core_05_band_participation.md#meaningful-agency) in an associational, institutional, dependency, productive-activity, care, household, digital, or similar cooperative setting.
 
     A pattern may come from repeated acts, coordinated conduct, misuse of a role, captive channels, designed conditions, or cumulative hostile-environment effects.
-  - **Out of scope:** One-off rudeness, "just jokes," formal-rule compliance, an available public channel, or a nominal opt-out treated as disproving a material hostile-environment pattern.
+  - **Out of scope:** ordinary one-off rudeness or isolated awkwardness without a material hostile-environment pattern.
 <a id="harassment-and-bullying-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) and [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Do reward structures, market power, and answerability keep duties real?*
@@ -1580,7 +1584,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 - **What it is**
   - **In scope:** The rule that sends a matter to the forum family responsible for its main legal, remedial, safeguard, constitutional, or practical stake. The case caption, party preference, administrative convenience, and tactical framing do not control.
-  - **Out of scope:** Routing by case caption, party preference, funding incentive, specialty-panel title, or administrative convenience when those diverge from the matter's primary stake under Chapter Eleven.
+  - **Out of scope:** ordinary intra-family docket assignment, clerk scheduling, or secondary-component referral when primary-stakes assignment under Chapter Eleven is not in dispute.
 <a id="primary-stakes-routing-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -1609,7 +1613,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 - **What it is**
   - **In scope:** The forum family for sentient-versus-sentient disputes whose main stake concerns private or community obligations, civil harms, restoration, or local norms. It does not finally decide constitutional validity or, as the primary question, what an institution may or is charged to do.
-  - **Out of scope:** Sentient-versus-sentient captions, private-dispute framing, or local-norm packaging that would finally decide institutional mandate or constitutional validity, or that would be the sole path when Chapter Eleven §2.2 requires Institutional or Integrity availability.
+  - **Out of scope:** institutional-mandate questions, constitutional-validity merits, or sole-path cases when Chapter Eleven §2.2 requires Institutional or Integrity availability.
 <a id="forum-family-sentient-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -1637,7 +1641,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 - **What it is**
   - **In scope:** The forum family, including specialized chambers or panels within other families, for matters whose main stake is technical-governance procedure, expert-evidence standards, knowledge governance, standards stewardship, or reducing bounded uncertainty that matters to adjudication or regulation.
-  - **Out of scope:** A technical specialty title, expert-panel assignment, or standards-body branding that automatically overrides primary-stakes routing or displaces the lawfully assigned merits authority for a non-technical primary question.
+  - **Out of scope:** non-technical primary questions — rights, mandate, ecological, or constitutional merits assigned to another family under Chapter Eleven §2.
 <a id="forum-family-technical-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -1665,7 +1669,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 - **What it is**
   - **In scope:** The forum family for disputes where an institution is a necessary party or the main stake is what the institution may do, what it must do, how it is supervised, how adopted instruments classify it, or whether it met its institutional duties.
-  - **Out of scope:** Internal process labels, private-party captions, or supervised-scope branding used to deny Institutional routing when Chapter Eleven §2 requires it, or to avoid independent Integrity or backup review of material capture or conflict allegations.
+  - **Out of scope:** purely private sentient-versus-sentient disputes with no necessary institutional party or institutional-duty stake.
 <a id="forum-family-institutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -1693,7 +1697,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 - **What it is**
   - **In scope:** The forum family for matters whose main stake is ecological integrity, environmental preconditions, lifecycle or system-wide ecological harm, restoration or remediation of shared systems, attributable environmental burdens, or a pattern of ecological failure material to classification or Rights-Floor enforcement.
-  - **Out of scope:** Private-dispute or ordinary-property framing of ecological merits when Chapter Eleven §2 makes the primary stake environmental, and splitting restoration from preconditions analysis to defeat joint ecological-merits review.
+  - **Out of scope:** ordinary private-property or contractual disputes whose primary stake is not environmental under Chapter Eleven §2.
 <a id="forum-family-environment-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -1732,9 +1736,9 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - a corresponding Chapter Ten anti-constitutional-misconduct designation; or
     - Rights-Floor enforcement.
   - It includes the alignment rulings and coordinated records described in Chapter Eleven §4.5.
-  - **Out of scope:** Using an Integrity label, anti-capture paperwork, or a process title to:
-    - quietly skip the Constitutional certification this Constitution requires when the question is whether a structure is valid, or when a remedy must apply to a whole class of actors or systems; or
-    - keep the case inside Integrity when Chapter Eleven §3 requires a different independent family to lead — because the main accusation is that this same family is biased, captured, conflicted, or hiding the ball — including by refusing the written backup path that section assigns.
+  - **Out of scope:**
+    - Constitutional certification questions for structural validity or class-wide remedy; or
+    - independent-family lead when Chapter Eleven §3 requires anti-self-judging backup because the main accusation is that the same family is biased, captured, conflicted, or concealing material facts.
 <a id="forum-family-integrity-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -1762,10 +1766,10 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 - **What it is**
   - **In scope:** The forum family that decides constitutional validity and meaning; structural remedies that change governance for classes of actors or systems; certified questions from other families; and supremacy disputes where constitutional text alone can resolve the certified issue.
-  - **Out of scope:** Treating temporary how-to-implement rulings, day-to-day implementation detail, or questions that were never certified as:
-    - a final answer about what the Constitution means or whether it is valid;
-    - a final structural remedy that changes governance for a class of actors or systems; or
-    - a way to skip Chapter Eleven §5 certification when those constitutional stakes are really present.
+  - **Out of scope:**
+    - temporary how-to-implement rulings;
+    - day-to-day operational detail; or
+    - uncertified questions without constitutional-meaning, validity, or class-wide structural-remedy stakes.
 <a id="forum-family-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -1817,7 +1821,12 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - contestable; and
     - verified under Chapters Two through Four and all required review safeguards.
   - Chapter Five pointer; canonical mechanics: Chapter Eleven §2.3.
-  - **Out of scope:** Treating a filed case, intake label, temporary order, unresolved allegation, or settlement discussion as a Standing Record or Standing Effect; Chapter Eight standing measurement; Chapter Nine standing-effect decisions; and operational form libraries, templates, or evidence-artifact catalogs owned by forum implementation layers (**CF-15**) except insofar as they instantiate this case file.
+  - **Out of scope:**
+    - [Standing Record](core_05_band_accountability.md#standing-record-chapter-six);
+    - [Standing Effect](core_05_band_accountability.md#standing-effect-chapter-six);
+    - Chapter Eight standing measurement;
+    - Chapter Nine standing-effect decisions; and
+    - operational form libraries, templates, or evidence-artifact catalogs owned by forum implementation layers (**CF-15**) except insofar as they instantiate this case file.
 <a id="forum-case-record-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -1848,7 +1857,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 - **What it is**
   - **In scope:** Optional orientation and routing metadata attached to a material [Non-Compliance](core_05_band_integrative.md#non-compliance) finding. For audits, routing, and cross-implementation work, the profile names the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) leg, [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) orientation, governance layer, **failure character**, and **severity tier** (**T1**–**T4**) that best describe the finding.
-  - **Out of scope:** a parallel verdict label; a substitute for whether the underlying definition is met; [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) contribution or violation measurement.
+  - **Out of scope:** parallel verdict instruments; [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) contribution or violation measurement; optional routing metadata without a material non-compliance finding.
   - **Depends on:** a material non-compliance finding under [Chapter Three](core_02-03_definition_mechanics.md#chapter-three-definition-integrity-evasion-and-non-compliance) or an invoked Chapter Five definition.
 <a id="non-compliance-finding-profile-a"></a>
 - **How to measure and assess**
@@ -1963,8 +1972,11 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
   - Chapter Five pointer for **Article XVIII** (*Standing and Participation Status*) participation status.
   - Axis mechanics: [Contribution Nature](core_05_band_accountability.md#contribution-nature) and [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
   - **Out of scope:**
-    - Reputation, popularity, prestige, brand, or social esteem treated as participation or role eligibility; dignity; or proof that someone is a Stakeholder.
-    - Final anti-constitutional-misconduct designation for a Chapter Eight Violation Axis `s = 7`, `s = 8`, or `s = 9` record — governed by [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) — or the matching [Anti-Constitutional Trust Lock](core_09-09_standing_integration.md#55-special-locks), which attaches under Chapter Nine. Participant Standing criteria do not assign that designation or that lock.
+    - reputation, popularity, prestige, brand, or social esteem;
+    - [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing);
+    - proof that someone is a [Stakeholder](core_05_band_participation.md#stakeholder);
+    - final anti-constitutional-misconduct designation for a Chapter Eight Violation Axis `s = 7`, `s = 8`, or `s = 9` record — governed by [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct); or
+    - the matching [Anti-Constitutional Trust Lock](core_09-09_standing_integration.md#55-special-locks), which attaches under Chapter Nine.
 <a id="participant-standing-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -2008,7 +2020,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - For the Violation Axis, they are the verified violation findings governed by [Violation Nature](core_05_band_accountability.md#violation-nature-chapter-six).
     - Chapter Eight §2.1 requires each to appear in an axis-pure **contribution standing record** or **violation standing record** and meet Chapter Eight's requirements for records, evidence, auditability, contestability, and review status.
   - **Out of scope:**
-    - Allegations, complaints, intake labels, routing decisions, reputation, disfavored status, moral dislike, or provisional forum-phase material used by themselves as verified inputs or as inputs for standing consequences.
+    - allegations, complaints, intake labels, routing decisions, reputation, disfavored status, moral dislike, or provisional forum-phase material — each without a verified contribution record or verified violation finding.
 <a id="verified-inputs-for-standing-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -2061,11 +2073,11 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - Those outcomes may affect **standing effect** only when they rest on auditable, contestable, demonstrable verified contribution records that satisfy Chapters **Two through Four** and Chapter Eight **§3.1**.
     - Chapter Five pointer; canonical mechanics: [Chapter Eight](core_08-08_standing_assessment.md) [**section 7**](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale), read with [**sections 1–2**](core_08-08_standing_assessment.md#2-purpose-and-role) and **§3.1**; [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) for contribution-linked effects.
   - **Out of scope:**
-    - **Adverse violation findings** or non-compliance. Those belong under [**violation nature**](core_05_band_accountability.md#violation-nature-chapter-six) on **Axis II**.
-    - [Participant Standing](core_05_band_accountability.md#participant-standing-constitutional), which concerns **Article XVIII** participation status and role eligibility.
+    - **Adverse violation findings** or non-compliance under [**violation nature**](core_05_band_accountability.md#violation-nature-chapter-six) on **Axis II**.
+    - [Participant Standing](core_05_band_accountability.md#participant-standing-constitutional) (**Article XVIII** participation status and role eligibility).
     - Violation Axis scores, averages, nets, or offsets against Axis I.
-    - Reputation, popularity, formal-channel pedigree, unverified self-reports, provisional labels, or allegation without a verified positive constitutional outcome.
-    - Standing-effect traceability under Chapter Eight **§§11.1–6.2** and the integration rules (owned by standing-effect / integration mechanics, not this Axis I typing alone).
+    - reputation, popularity, formal-channel pedigree, unverified self-reports, provisional labels, or bare allegation.
+    - standing-effect / integration mechanics under Chapter Eight **§§11.1–6.2** and Chapter Nine.
 <a id="contribution-state-a"></a>
 <a id="contribution-nature-a"></a>
 - **How to measure and assess**
@@ -2115,9 +2127,9 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - Chapter Five pointer; canonical mechanics: Chapter Eight **§7**, **§3.2**, Chapter Nine descriptor sections, and [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) for adverse standing effects.
     - It is distinct from [**contribution nature**](core_05_band_accountability.md#contribution-nature), the positive-only **Axis I**, which uses the same bands in a separate record.
   - **Out of scope:**
-    - Allegations, intake labels, provisional routing tags, or unresolved forum-phase narratives treated as verified adverse findings or as **violation nature** for standing.
-    - Intent, coercion, concealment, or response descriptors that move the Chapter Eight impact slot.
-    - [**Contribution nature**](core_05_band_accountability.md#contribution-nature) or verified contribution records used as adverse violation nature or relabeled as violation findings.
+    - allegations, intake labels, provisional routing tags, or unresolved forum-phase narratives;
+    - intent, coercion, concealment, or response descriptors (Chapter Nine attachments — not Axis II slot assignment); and
+    - [**contribution nature**](core_05_band_accountability.md#contribution-nature) or verified contribution records.
 <a id="violation-nature-chapter-six-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -2172,10 +2184,8 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - The Contribution Axis and Violation Axis must stay separately traceable and may not be netted, averaged, offset, or substituted for each other.
     - Read with [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) when coercive or restrictive standing-linked measures are involved.
   - **Out of scope:**
-    - Treating a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), a bare accusation, a [Forum Case Record](core_05_band_accountability.md#forum-case-record) (the case file), a filing tag, a temporary order, or an unfinished case story as if any of those were a standing consequence.
-    - Treating any merged, averaged, netted, or offset blend of contribution and violation inputs as if it were a standing consequence.
-    - A dignity rank, Rights-Floor measure, merged merit score, or universal reputation label.
-    - Contribution-linked credit that erases, softens, or substitutes for unresolved violation-linked constraints.
+    - a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), bare accusation, [Forum Case Record](core_05_band_accountability.md#forum-case-record) (the case file), filing tag, temporary order, or unfinished case story; and
+    - a dignity rank, Rights-Floor measure, merged merit score, or universal reputation label.
 <a id="standing-effect-chapter-six-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -2230,8 +2240,8 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - Chapter Five pointer; canonical concept: Chapter Eight §2.1; operational requirements: Chapter Eight §3.
     - A standing record is not a general worth label, dignity rank, Rights-Floor measure, merged merit score, or effect decision.
   - **Out of scope:**
-    - Treating a [Forum Case Record](core_05_band_accountability.md#forum-case-record) (the case file), a filing tag, a temporary order, or an unfinished accusation as if it were a standing record.
-    - Treating a merged merit score, dignity rank, or Chapter Nine effect decision as if it were the Chapter Eight measurement record.
+    - a [Forum Case Record](core_05_band_accountability.md#forum-case-record) (the case file), filing tag, temporary order, or unfinished accusation; and
+    - a merged merit score, dignity rank, or Chapter Nine effect decision.
 <a id="standing-record-chapter-six-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -2279,8 +2289,9 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - Meeting a competency bar is assessed through [Competency Clearance](core_05_band_accountability.md#competency-clearance).
     - The bar itself is not a standing effect, dignity rank, Rights-Floor measure, reputation score, or permanent entitlement.
   - **Out of scope:**
-    - Prestige screening, insider sponsorship, or opaque credential monopoly.
-    - Treating the published bar as if it alone granted access to the named pathway without clearance and lock checks.
+    - ordinary prestige rankings or social esteem outside the named-pathway qualification standard;
+    - the [Competency Clearance](core_05_band_accountability.md#competency-clearance) decision itself; and
+    - the [Standing Lock](core_05_band_accountability.md#standing-lock) or [Standing Effect](core_05_band_accountability.md#standing-effect-chapter-six) layer.
 <a id="competency-bar-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -2321,7 +2332,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - A positive standing-effect result that records verified readiness against the applicable [Competency Bar](core_05_band_accountability.md#competency-bar) for trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or increasingly consequential stewardship responsibility.
     - Clearance may support opening the named pathway only when no applicable [Standing Lock](core_05_band_accountability.md#standing-lock) blocks it.
     - Competency clearance is the opening-oriented counterpart to a standing lock, but it is not reputation, social prestige, insider sponsorship, credential monopoly, dignity rank, Rights-Floor measure, or permanent entitlement.
-  - **Out of scope:** Prestige screening, insider sponsorship, opaque credential monopoly, permanent entitlement after one clearance, or using clearance to erase unresolved violations or bypass standing locks.
+  - **Out of scope:** the published [Competency Bar](core_05_band_accountability.md#competency-bar) alone; [Standing Lock](core_05_band_accountability.md#standing-lock) constraints; Rights-Floor minimums; or unresolved Violation Axis findings.
 <a id="competency-gate-a"></a>
 <a id="competency-clearance-a"></a>
 - **How to measure and assess**
@@ -2410,8 +2421,10 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - The process identifies the unified incident, applies the criteria, tests the designation conditions, and confirms due-process safeguards.
     - It does not assign or move the numeric slot.
   - **Out of scope:**
-    - Using Chapter Ten criteria to assign or move the numeric Violation Axis slot.
-    - Using legacy tier labels, character descriptors, or standing locks to assign or move the numeric Violation Axis slot.
+    - Chapter Eight numeric Violation Axis slot assignment;
+    - legacy tier labels;
+    - character descriptors; and
+    - standing locks.
 <a id="top-slot-review-a"></a>
 <a id="anti-constitutional-misconduct-review-a"></a>
 - **How to measure and assess**
@@ -2451,8 +2464,8 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - The conduct must share material actors, objectives, continuity over time, causal links, or a unified design.
     - Treating it as one incident prevents artificial splitting that would understate satisfied criteria, verified impact, or accountability.
   - **Out of scope:**
-    - Splitting one materially connected scheme into separate incidents to understate impact or avoid review.
-    - Merging unrelated events solely to intensify classification.
+    - unrelated events with no material connection;
+    - caption-, docket-, or entity-boundary packaging alone.
 <a id="unified-incident-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -2490,10 +2503,8 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - The combined evidence and reasoning used to assess a unified incident under Chapter Ten's designation criteria and due-process safeguards after Chapter Eight assigns the impact slot.
     - It keeps overlapping facts, actors, effects, criteria, and review status together while preserving separate proof for each criterion or pattern.
   - **Out of scope:**
-    - Fragmented files that hide pattern gravity.
-    - Merged files that erase distinct subjects' review rights.
-    - Counting one undifferentiated course of conduct toward several Chapter Ten criteria or named patterns when the record does not show separate actions taken toward differing objectives.
-    - Character descriptors — including intent, duty, negligence, deception, concealment, obstruction, coercion, or process/response character — used to assign or move the Chapter Eight impact slot.
+    - ordinary separate case files for truly unrelated incidents; and
+    - Chapter Nine character-descriptor attachments that do not assign or move the Chapter Eight impact slot.
 <a id="unified-record-a"></a>
 <a id="unified-incident-record-a"></a>
 - **How to measure and assess**
@@ -2535,8 +2546,8 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - A unified incident that, taken as a whole, causes or imminently threatens catastrophic constitutional harm of the kind Chapter Ten recognizes for grave or pernicious anti-constitutional misconduct.
     - This includes loss or suspension of operative constitutional authority; material, population-scale loss of contestability or Rights-Floor continuity; or comparable harm relevant to survival or system continuity.
   - **Out of scope:**
-    - Serious but non-catastrophic violations labeled catastrophic.
-    - One catastrophic episode split into smaller procedural units to avoid the label.
+    - serious but non-catastrophic violations; and
+    - multiple unrelated serious events without one connected catastrophic episode.
 <a id="single-catastrophic-incident-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -2575,8 +2586,8 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - It may then undergo Chapter Ten designation review.
     - Material rollback, blocked or chilled challenge rights, Rights-Floor degradation, correction delayed beyond practical remedy, an equivalent structural workaround, institutional scale, capture, and durability may describe the pattern and support designation analysis, but they do not move the numeric slot.
   - **Out of scope:**
-    - Repeated high-gravity conduct treated as isolated minor events.
-    - Ordinary repeated defects escalated to Chapter Ten gravity without proof of combined constitutional harm.
+    - ordinary repeated defects without combined constitutional harm reaching Chapter Eight slot 7, 8, or 9; and
+    - isolated one-off events without continuity or systematic reinforcement.
 <a id="sustained-high-gravity-pattern-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -2788,8 +2799,8 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - Use of Force discipline; and
     - the harm-scale thresholds these entries supply.
   - **Out of scope:**
-    - framing by weapon-class taxonomy alone where foreseeable harm scale implicates **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) thresholds; or
-    - a catalog label that ignores the foreseeable scale of casualty, ecological, informational, or infrastructure harm.
+    - ordinary force tools whose foreseeable harm scale does not implicate **Article I-A** (*Environmental Preconditions and Ecological Integrity*) or **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) thresholds; or
+    - weapon-class taxonomy alone.
 <a id="weapons-of-mass-harm-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -2851,10 +2862,12 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
   - **Depends on:** [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) and [Use of Force](core_05_band_accountability.md#use-of-force-constitutional) — constitutive bounds. The distinction:
     - applies to all sentients without substrate-class narrowing; and
     - operates only within applicable Use of Force decisions.
-  - **Out of scope:** Treating any of the following as combatant status without individual conduct at the time of the force decision:
+  - **Out of scope:**
     - demographic-group assignment;
     - protected-characteristic assignment; or
-    - formal class assignment.
+    - formal class assignment
+
+    — each without individual conduct at the time of the force decision.
 <a id="combatant-non-combatant-distinction-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -2874,8 +2887,9 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
   - **Primary failure:**
     - denial-of-quarter;
     - collective retaliation;
-    - targeting based on protected characteristics or material proxies; or
-    - convenient reclassifications that sweep protected populations into combatant status.
+    - targeting based on protected characteristics or material proxies;
+    - convenient reclassifications that sweep protected populations into combatant status; or
+    - demographic-group, protected-characteristic, or formal class assignment used as combatant status without individual conduct at the time of the force decision.
   - **Secondary failure:** Autonomous-system classification whose accuracy or failure behavior does not independently satisfy this distinction under [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*) when tested under:
     - adversarial conditions; and
     - scaled conditions.

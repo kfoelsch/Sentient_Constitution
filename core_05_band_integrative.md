@@ -123,7 +123,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
   - **Out of scope:**
     - ordinary stakeholder consultation;
     - operational participation;
-    - system use, branding, or market presence treated as authorization of governing authority;
+    - system use, branding, or market presence as such;
     - ordinary domain governance after structures and processes are already authorized; and
     - ordinary [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight) — giving more say to those more affected — used to set founding or reauthorization votes ([Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline)).
   - **Operative home:** [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) states the binding authorization, legitimacy, and stewardship rules for this layer.
@@ -140,7 +140,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 <a id="constitutional-contract-layer-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - treating stakeholder consultation, operational participation, system use, market presence, or impact-weighted stakeholder process as a substitute for documented constitutional authorization;
+    - treating stakeholder consultation, operational participation, system use, branding, market presence, or impact-weighted stakeholder process as a substitute for documented constitutional authorization;
     - using impact-weighted stakeholder voting to constitute or durably restructure governing authority where [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice) requires the political-equality floor; or
     - treating constitutional authorization as eliminating stakeholder participation, representation, [Contestability](core_05_band_accountability.md#contestability), or [Due Process](core_05_band_accountability.md#due-process-constitutional) duties within already-authorized systems or bounded decision domains ([Preamble §3.3](core_00_preamble.md#governance-layer-discipline)).
 
@@ -423,13 +423,13 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     - cross-instance coordination;
     - high-scale deployment — volume, concurrency, or reach at which behavior or effects can differ from small-scale or ideal-lab use; and
     - adaptive or intentional misuse.
-  - **Out of scope:** Ideal-lab or one-off misuse anecdotes treated as a stand-in for pressure, scale, coordination, or deliberate exploitation.
+  - **Out of scope:** Ideal-lab testing or one-off misuse anecdotes — those sit outside pressure, scale, coordination, or deliberate exploitation.
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether incentives still hold under gaming, scale, coordination, and deliberate misuse — not only under polite lab conditions.
 
     **Primary assessment:** Include [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 - **What must hold**
-  - **Primary failure:** claiming incentive alignment while omitting materially relevant adversarial, scaled, or exploited conditions from the evaluation.
+  - **Primary failure:** claiming incentive alignment while omitting materially relevant adversarial, scaled, or exploited conditions from the evaluation — including using ideal-lab or one-off misuse anecdotes as a stand-in for pressure, scale, coordination, or deliberate exploitation.
 
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 
@@ -451,8 +451,9 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 - **What it is**
   - **In scope:** [Contingent Claim](core_05_band_accountability.md#contingent-claim) structures, including [Game of Chance](core_05_band_accountability.md#game-of-chance) and [Event-Contract Market](core_05_band_accountability.md#event-contract-market) forms, where materially relevant.
   - **Out of scope:**
-    - ordinary fixed-obligation contracts or exchanges that are not contingent-claim, game-of-chance, or event-contract forms; and
-    - treating settlement prices or odds alone as truth or compliance determinations.
+    - ordinary fixed-obligation contracts or exchanges that are not contingent-claim, game-of-chance, or event-contract forms; or
+    - settlement prices or odds as market signals alone —
+    those sit outside this home's contingent-settlement discipline; prices and odds are not, by themselves, truth or compliance determinations.
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether bets, prediction markets, and chance-based payouts avoid rewarding unlawful harm, insider power, or twisting of public or fiduciary decisions.
@@ -476,7 +477,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     - corrupt advantage from non-public power; or
     - material distortion of fiduciary or public decisions
 
-    without proportionate mitigation.
+    without proportionate mitigation — or that treat settlement prices or odds alone as truth or compliance determinations.
 
 ---
 
@@ -652,7 +653,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     For adopters, [Internal Hierarchy for Adopters](core_13-15_amendment.md#31-internal-hierarchy-for-adopters) in **Chapter Fourteen** applies this same paired rule at the line between the binding Constitution and adopted implementation text:
     - this Constitution and its integrated definitions control how the text is read and what counts as compliance; and
     - adopted implementation text applies only within the scope that was actually adopted, and cannot walk back [Chapter Thirteen non-regression](core_13-15_amendment.md) or the supremacy effect stated in this entry.
-  - **Out of scope:** Editorial preference, support-document gloss, or adoption branding that rearranges source layers, invents shadow or dual owner homes, or resolves residual conflict outside the Authority Stack and Internal Hierarchy; aspirational language or local practice that displaces binding corpus obligations within their valid source and governance-layer scope.
+  - **Out of scope:** support-document gloss, maps, worklists, or adoption branding as such — those are not Authority Stack layers; optional guidance that is not offered as rearranging source precedence or displacing binding obligations.
 <a id="authority-stack-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients tell which source layer is speaking, whether it binds, which chapter owns the topic, whether binding duties prevail in scope, and how real conflicts inside the binding Constitution are resolved?* [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — supporting measure for owner-boundary and supremacy-effect claims.
@@ -677,6 +678,8 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
     - treat maps, worklists, notes, or other support text as binding constitutional law without valid incorporation — or apply incorporated implementation text in a way that contradicts the constitutional [Corpus](core_05_band_integrative.md#corpus);
+    - use editorial preference, support-document gloss, or adoption branding to rearrange source layers, invent shadow or dual owner homes, or resolve residual conflict outside the Authority Stack and Internal Hierarchy;
+    - use aspirational language or local practice to displace binding corpus obligations within their valid source and governance-layer scope;
     - substantively restate one owner layer's obligations inside another owner layer, including elevation of reader-guidance prose to operative effect;
     - treat trigger, referral, or escalation language in validity or governance chapters as final classification or sanction law where the owner layer reserves that authority to Chapters Eight through Ten;
     - use process, governance, or implementation framing to narrow, redefine, or relocate [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights Floors contrary to [Chapter Thirteen](core_13-15_amendment.md) non-regression and the Chapter Six opening contract;

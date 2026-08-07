@@ -88,7 +88,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - **What it is**
   - **In scope:** Remaining [Risk](core_05_band_continuity.md#risk) after mitigation.
-  - **Out of scope:** unmitigated primary risk still awaiting controls; leftover risk treated as closed merely because some mitigation was applied while scalable harm pathways remain.
+  - **Out of scope:** unmitigated primary risk still awaiting controls — that is open [Risk](core_05_band_continuity.md#risk), not residual risk after mitigation.
 <a id="residual-risk--misalignment-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -97,7 +97,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <a id="residual-risk--misalignment-c"></a>
 - **What must hold**
   - Residual risk must not create scalable [Harm](core_05_band_accountability.md#harm) pathways, [Cascading Failure](core_05_band_continuity.md#cascading-failure), or unmanaged [Material Risk](core_05_band_oversight.md#material-risk).
-  - **Primary failure:** accepting residual risk that creates scalable [Harm](core_05_band_accountability.md#harm) pathways, [Cascading Failure](core_05_band_continuity.md#cascading-failure), or unmanaged [Material Risk](core_05_band_oversight.md#material-risk).
+  - **Primary failure:**
+    - accepting residual risk that creates scalable [Harm](core_05_band_accountability.md#harm) pathways, [Cascading Failure](core_05_band_continuity.md#cascading-failure), or unmanaged [Material Risk](core_05_band_oversight.md#material-risk); or
+    - leftover risk closed merely because some mitigation was applied while scalable harm pathways remain.
 
 ---
 
@@ -119,7 +121,11 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <a id="voluntary-discontinuation-constitutional-o"></a>
 - **What it is**
   - **In scope:** A sentient's freely formed, substantively informed decision to discontinue their own existence or comparable self-directed exit from continued participation, evaluated under [Consent](core_05_band_participation.md#consent-constitutional), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), and [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), and distinct from [Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional) or involuntary deprivation of life.
-  - **Out of scope:** pressured or uninformed exit; third-party termination or irreversible deprivation measures; offering discontinuation as a substitute for required care or survival support.
+  - **Out of scope:**
+    - [Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional);
+    - third-party termination; or
+    - involuntary deprivation of life —
+    those sit under their own homes, not under this self-directed exit floor.
 <a id="voluntary-discontinuation-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -131,8 +137,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <a id="voluntary-discontinuation-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
+    - pressured or uninformed exit framed as voluntary discontinuation;
     - illusory or pressured consent framed as voluntary discontinuation;
-    - offering, routing, or operationalizing discontinuation as a substitute for required mental-health care, physical healthcare, disability support, housing, or other survival essentials under Articles III-A, III-C, and VII-C;
+    - discontinuation offered, routed, or operationalized as a substitute for required mental-health care, physical healthcare, disability support, housing, or other survival essentials under Articles III-A, III-C, and VII-C;
     - conflating this entry with [Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional), third-party termination, or **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) prohibited measures;
     - relabelling an involuntary outcome as voluntary to route around **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*).
 
@@ -203,11 +210,12 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - preserves **participation** and **contestability** through forum-supervised review;
     - serves **Flourishing** (primary) and **Continuity**; and
     - must remain **timely** under Timely Resolution and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*).
-  - **Out of scope:** the following treated as forum-supervised System Alignment Certification:
+  - **Out of scope:**
     - vendor attestation;
     - internal sign-off;
     - reputation score; or
-    - permanent permission slip.
+    - permanent permission slip —
+    ordinary operator artifacts, not the forum-supervised Chapter Seven process.
   - Canonical process, record contents, supervisory sequence, contestability chain, and standing-record bridge are stated in [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); this entry is the Chapter Five meaning only.
 <a id="system-alignment-certification-constitutional-a"></a>
 - **How to measure and assess**
@@ -227,7 +235,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     5. any feed into [Chapter Eight](core_08-08_standing_assessment.md#2-standing-records) standing records satisfies [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing) and does not substitute certification for standing measurement or standing effects.
 <a id="system-alignment-certification-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** treating vendor attestation, internal operator review, or technical sign-off as a substitute for forum-supervised system alignment certification where Chapter Seven requires it;
+  - **Primary failure:** vendor attestation, internal operator review, technical sign-off, reputation score, or permanent permission slip offered as a substitute for forum-supervised System Alignment Certification where Chapter Seven requires it;
   - **Secondary failure:** non-time-bound, non-contestable, or concealed [System Certification Records](core_05_band_continuity.md#system-certification-record-constitutional); certification finished while required component findings remain unresolved;
   - **Tertiary failure:** class understatement, missing regression coverage on required recertification, or operation outside recognized scope treated as aligned;
   - **Tertiary failure:** using certification, recognition, or conditional reliance to narrow, bypass, or defeat **Chapter Six** Rights Floors — including **Article III-A** (*Survival*) survival essentials or **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource-allocation and dependency floors where materially implicated — or to delay [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) where materially implicated;
@@ -266,7 +274,11 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - vendor attestation;
     - internal sign-off; or
     - a shortcut around Rights-Floor review, [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), or [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing measurement.
-  - **Out of scope:** reputation, permanent permission, vendor attestation, or internal sign-off treated as a forum-supervised System Certification Record; treating the record as a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), standing effect, or merged merit score; treating the System Classification Record or the System Data Types Record alone as the full System Certification Record.
+  - **Out of scope:**
+    - reputation score, permanent permission slip, vendor attestation, or internal sign-off — ordinary operator artifacts, not the forum-supervised record;
+    - a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), standing effect, or merged merit score; or
+    - the [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) or [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) alone —
+    those sit under their own homes or as components, not as this full record.
   - Canonical record contents, integrity, supervisory sequence, standing-record bridge, and reopening triggers are stated in [Chapter Seven Part B](core_07_b_system_alignment_certification_record_process.md#11-certification-record); this entry is the Chapter Five meaning only.
 <a id="system-certification-record-constitutional-a"></a>
 - **How to measure and assess**
@@ -292,9 +304,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     4. the record remains separately traceable from standing records and standing effects.
 <a id="system-certification-record-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** treating a reputation score, permanent permission slip, vendor attestation, or internal sign-off as a System Certification Record;
+  - **Primary failure:** reputation score, permanent permission slip, vendor attestation, or internal sign-off offered as a System Certification Record; or the [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) or [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) alone offered as the full System Certification Record;
   - **Secondary failure:** non-scope-bound, non-time-bound, non-contestable, or concealed certification records; records finished while required component findings remain unresolved; missing or incomplete [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) or [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) on a materially impactful certification record;
-  - **Tertiary failure:** using the record as a shortcut around Rights-Floor review, [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), or [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing measurement; or treating the record as a standing record, standing effect, or merged merit score.
+  - **Tertiary failure:** using the record as a shortcut around Rights-Floor review, [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), or [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing measurement; or the record offered as a standing record, standing effect, or merged merit score.
 
 ---
 
@@ -329,7 +341,12 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - monitoring and revalidation triggers.
   - It must be forum-inspectable without relying on operator self-description alone.
   - It is required for all systems with [material impact](core_05_band_oversight.md#material-impact) under CS-3. When [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, the System Classification Record must be produced or verified and included as a required component of the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional).
-  - **Out of scope:** the full [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional); a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), standing effect, or merged merit score; [Charter](core_05_band_continuity.md#charter) text treated as classification; vendor attestation, internal sign-off, or self-label treated as the System Classification Record.
+  - **Out of scope:**
+    - the full [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional);
+    - a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), standing effect, or merged merit score;
+    - [Charter](core_05_band_continuity.md#charter) text alone; or
+    - vendor attestation, internal sign-off, or self-label —
+    those sit under their own homes or as ordinary operator artifacts, not as this dual-axis classification record.
   - Canonical dual-axis contents, disclosure, challenge, and reclassification are stated in CS-3; incorporation into certification records is stated in [Chapter Seven §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents); this entry is the Chapter Five meaning only.
 <a id="system-classification-record-constitutional-a"></a>
 - **How to measure and assess**
@@ -342,7 +359,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     4. where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, the System Classification Record is included in the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) under [Chapter Seven §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents).
 <a id="system-classification-record-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** understating class below observed and reasonably foreseeable effects; collapsing impact class and dependency type into one finding; or treating Charter text, vendor attestation, or self-description as the System Classification Record;
+  - **Primary failure:** understating class below observed and reasonably foreseeable effects; collapsing impact class and dependency type into one finding; or [Charter](core_05_band_continuity.md#charter) text, vendor attestation, or self-description offered as the System Classification Record;
   - **Secondary failure:** missing System Classification Record for a material-impact system under CS-3; or omitting the System Classification Record from a materially impactful [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) when SAC runs;
   - **Tertiary failure:** concealed, non-contestable, or non-inspectable classification findings; or treating the System Classification Record as a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), standing effect, or the full System Certification Record.
 
@@ -380,7 +397,12 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - where the Type O baseline applies, how [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) covers certified scope (Charter fields relied on, boundary findings, and any coverage gaps or conditions).
   - It must be forum-inspectable without relying on operator self-description alone.
   - It is required for all systems with [material impact](core_05_band_oversight.md#material-impact) under CS-2. When [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, the System Data Types Record must be produced or verified and included as a required component of the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional).
-  - **Out of scope:** the full [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional); a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), standing effect, or merged merit score; [Charter](core_05_band_continuity.md#charter) text treated as typing; vendor attestation, internal sign-off, or self-label treated as the System Data Types Record.
+  - **Out of scope:**
+    - the full [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional);
+    - a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), standing effect, or merged merit score;
+    - [Charter](core_05_band_continuity.md#charter) text alone; or
+    - vendor attestation, internal sign-off, or self-label —
+    those sit under their own homes or as ordinary operator artifacts, not as this data-types record.
   - Canonical type inventory, handling posture, disclosure, challenge, and retyping are stated in CS-2; incorporation into certification records is stated in [Chapter Seven §4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) and [Part B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents); this entry is the Chapter Five meaning only.
 <a id="system-data-types-record-constitutional-a"></a>
 - **How to measure and assess**
@@ -393,7 +415,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     4. where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, the System Data Types Record is included in the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) under [Chapter Seven §4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) and [Part B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents).
 <a id="system-data-types-record-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** understating type or handling below observed and reasonably foreseeable effects; treating Charter text, vendor attestation, or self-description as the System Data Types Record; or collapsing type inventory into a marketing label;
+  - **Primary failure:** understating type or handling below observed and reasonably foreseeable effects; [Charter](core_05_band_continuity.md#charter) text, vendor attestation, or self-description offered as the System Data Types Record; or type inventory collapsed into a marketing label;
   - **Secondary failure:** missing System Data Types Record for a material-impact system under CS-2; or omitting the System Data Types Record from a materially impactful [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) when SAC runs;
   - **Tertiary failure:** concealed, non-contestable, or non-inspectable type findings; overdue or skipped periodic data-type re-evaluation stated as current; or treating the System Data Types Record as a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), standing effect, or the full System Certification Record.
 
@@ -450,8 +472,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - risk communication under [Risk Disclosure](core_05_band_oversight.md#risk-disclosure); and
     - protective tradeoffs.
   - **Out of scope:**
-    - expected-value tradeoffs that relax protective requirements where tail, systemic, or irreversible harm rises;
-    - comfort or convenience framing that does not prevent, limit, or contain harm.
+    - ordinary comfort or convenience preferences with no material harm pathway; or
+    - utility choices that do not relax protective requirements under [Safety (Constraint)](core_05_band_continuity.md#safety-constraint).
 <a id="safety-constraint-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
@@ -481,8 +503,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Primary failure:**
     - preventable harm;
     - inadequate containment;
-    - impermissible safety–utility tradeoffs against tail or systemic risk;
-    - treatment of safety as purely nominal.
+    - impermissible safety–utility tradeoffs against tail or systemic risk — including expected-value tradeoffs that relax protective requirements where tail, systemic, or irreversible harm rises;
+    - comfort or convenience framing that does not prevent, limit, or contain harm;
+    - safety as purely nominal.
   - **Secondary failure:** preserving safety indicators while materially increasing [Harm](core_05_band_accountability.md#harm), [Irreversible Harm](core_05_band_accountability.md#irreversible-harm), or systemic propagation inconsistent with the Ontological component.
   - **Tertiary failure:**
     - treating classification or proxy satisfaction as dispositive where [Materiality Determination](core_05_band_oversight.md#materiality-determination) or [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable; or
@@ -564,9 +587,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - **What it is**
   - **In scope:** Evaluating systemic [Risk](core_05_band_continuity.md#risk) — whether operators actually assess likelihood, speed, severity, and systemic pathways under the conditions that matter.
-  - **Out of scope:**
-    - a risk checklist, internal-only note, or after-the-fact statement that does not actually evaluate systemic risk; and
-    - the separate duty to communicate evaluated risk to those who need it ([Risk Disclosure](core_05_band_oversight.md#risk-disclosure)).
+  - **Out of scope:** the separate duty to communicate evaluated risk to those who need it ([Risk Disclosure](core_05_band_oversight.md#risk-disclosure)) — a sibling duty, not this evaluation itself.
 <a id="risk-evaluation-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* Use it here to ask whether systemic risk is actually evaluated — not merely listed or deferred.
@@ -580,8 +601,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     **Secondary assessment:** When checking the primary answer, ask whether evaluation depth matches material stake under [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) and [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence).
 <a id="risk-evaluation-c"></a>
 - **What must hold**
-  - **Primary failure:** failing to evaluate or constrain risk where [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) requires it.
-  - **Secondary failure:** treating a checklist, nominal register, or after-the-fact note as evaluation when systemic pathways were not actually assessed.
+  - **Primary failure:**
+    - failing to evaluate or constrain risk where [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) requires it; or
+    - a risk checklist, internal-only note, nominal register, or after-the-fact statement offered as evaluation when systemic pathways were not actually assessed.
+  - **Secondary failure:** evaluation depth that ignores material pathways or stakes under [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) or [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence).
 
 ---
 
@@ -614,7 +637,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - through system interactions;
     - through dependencies; or
     - through environments.
-  - **Out of scope:** paper wellbeing, reputation scores, or aggregate indicators treated as the wellbeing condition itself.
+  - **Out of scope:** ordinary mood, satisfaction, or engagement talk with no material continuity stake for sentients or the systems they depend on.
 <a id="wellbeing-measurements"></a>
 <a id="wellbeing-a"></a>
 - **How to measure and assess**
@@ -647,7 +670,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <a id="wellbeing-c"></a>
 - **What must hold**
   - A system satisfies **Wellbeing** only if it preserves or improves the Ontological conditions under full functional system conditions.
-  - **Primary failure:** claiming wellbeing without being able to show it in what sentients actually experience, across the whole system in real operating conditions.
+  - **Primary failure:** claiming wellbeing without being able to show it in what sentients actually experience, across the whole system in real operating conditions — including paper wellbeing, reputation scores, or aggregate indicators offered as the wellbeing condition itself.
   - **Secondary failure:** preserving or improving proxy or aggregate indicators while:
     - materially degrading sentient-experienced conditions under the Ontological component;
     - materially degrading [Meaningful Agency](core_05_band_participation.md#meaningful-agency) or participation;
@@ -694,9 +717,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Risk](core_05_band_continuity.md#risk);
     - [Existential Risk](core_05_band_continuity.md#existential-risk); and
     - [Dependency](core_05_band_continuity.md#dependency).
-  - **Out of scope:**
-    - local amenity preferences unrelated to biophysical survival conditions; and
-    - ecological branding that does not protect climate, ecosystems, air, water, soil, or regenerative capacity.
+  - **Out of scope:** local amenity preferences unrelated to biophysical survival conditions.
 <a id="environmental-preconditions-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -719,8 +740,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - long-horizon harm.
 <a id="environmental-preconditions-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** degrading the living-system conditions this entry protects — climate, ecosystems, clean air and water, soil, habitat, or Earth's ability to regenerate — in violation of **Article I-A** (*Environmental Preconditions and Ecological Integrity*).
-  - **Secondary failure:** treating local or paper compliance as enough while ecosystems are actually getting worse under [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional), where whole-system analysis would treat the harm as material.
+  - **Primary failure:** degrading the living-system conditions this entry protects — climate, ecosystems, clean air and water, soil, habitat, or Earth's ability to regenerate — in violation of **Article I-A** (*Environmental Preconditions and Ecological Integrity*), including ecological branding that does not protect those conditions.
+  - **Secondary failure:** local or paper compliance offered as enough while ecosystems are actually getting worse under [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional), where whole-system analysis would treat the harm as material.
 
 ---
 
@@ -752,7 +773,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - organizational;
     - social; and
     - ecological.
-  - **Out of scope:** rollback, bounding, or containment claims that cannot actually restore, bound, or contain the affected state within feasible limits.
+  - **Out of scope:** ordinary temporary changes that remain readily undoable with no material [Irreversible Harm](core_05_band_accountability.md#irreversible-harm), [Dependency](core_05_band_continuity.md#dependency), or [Material Impact](core_05_band_oversight.md#material-impact) stake.
 <a id="reversibility-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -778,8 +799,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - Chapter One;
     - applicable rights; or
     - [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) —
-    especially where [Irreversible Harm](core_05_band_accountability.md#irreversible-harm) or [Cascading Failure](core_05_band_continuity.md#cascading-failure) is reasonably in play.
-  - **Secondary failure:** treating rollback or containment as done because someone said the system can do it, without showing that it can actually recover under stress.
+    especially where [Irreversible Harm](core_05_band_accountability.md#irreversible-harm) or [Cascading Failure](core_05_band_continuity.md#cascading-failure) is reasonably in play —
+    including rollback, bounding, or containment claims that cannot actually restore, bound, or contain the affected state within feasible limits.
+  - **Secondary failure:** rollback or containment offered as done because someone said the system can do it, without showing that it can actually recover under stress.
 
 ---
 
@@ -819,13 +841,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint);
     - [Trust](core_05_band_continuity.md#trust); and
     - [Reversibility](core_05_band_continuity.md#reversibility-constitutional).
-  - **Out of scope:** automatic recovery that:
-    - masks root cause;
-    - suppresses evidence;
-    - silently narrows the Chapter Six Rights Floor;
-    - expands authority beyond the pre-fault envelope;
-    - reconfigures its own authority, audit channels, or constitutional obligations; or
-    - bypasses audit or contestability channels.
+  - **Out of scope:** ordinary restart, reboot, or failover that restores a prior good state with no automatic recovery claim under this entry — including ecological recovery under [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity-constitutional).
 <a id="self-healing-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -1016,7 +1032,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency);
     - anti-concentration discipline; and
     - the participation, exit, contestability, and ecological preconditions that keep capacity real rather than hollow.
-  - **Out of scope:** throughput, scale, or funding claims that do not preserve durable, contestable ability to achieve constitutionally aligned outcomes.
+  - **Out of scope:** ordinary throughput, scale, or funding metrics not claimed as durable, contestable shared-system capacity for constitutionally aligned outcomes.
 <a id="shared-system-capacity-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -1040,7 +1056,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - dignity;
     - ecological integrity;
     - contestability; or
-    - constitutional review.
+    - constitutional review —
+    including throughput, scale, or funding claims that do not preserve durable, contestable ability to achieve constitutionally aligned outcomes.
   - **Secondary failure:** capacity asserted with no checkable link to a constitutional outcome under Chapters Two through Four.
   - **Tertiary failure:** capacity used to justify:
     - concentration;
@@ -1073,15 +1090,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - materials;
     - infrastructure; and
     - energy (electricity, fuel, and cognate inputs).
-  - **Out of scope:** cost-cutting or speed metrics that diverge from constitutional outcomes, including:
-    - raw speed;
-    - administrative convenience;
-    - utilization targets;
-    - revenue growth;
-    - market share;
-    - headcount cuts;
-    - cost-cutting for its own sake; and
-    - metrics that narrow Rights-Floor protections, audit, or contestability.
+  - **Out of scope:** raw speed, administrative convenience, utilization, revenue, market share, headcount, or cost-cutting metrics not claimed as constitutional efficiency — those are ordinary operational proxies, not this outcome-per-resource ratio.
 <a id="constitutional-efficiency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Constitutional Performance measurement family](core_05_band_performance.md#performance-measurement-family) — *Are constitutional outcomes delivered efficiently without pointless waste?*
@@ -1112,7 +1121,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     **Tertiary assessment:** Apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) when those proxies substitute for outcomes — including when the score is cooked, preserved, or designed to look good while underlying constitutional outcomes stay deficient.
 <a id="constitutional-efficiency-c"></a>
 - **What must hold**
-  - **Primary failure:** efficiency claims relying on proxies materially divergent from constitutional outcomes remain invalid until corrected under [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation) and Chapter Four.
+  - **Primary failure:** efficiency claims relying on proxies materially divergent from constitutional outcomes remain invalid until corrected under [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation) and Chapter Four — including cost-cutting or speed metrics that diverge from constitutional outcomes while Rights-Floor protections, audit, or contestability narrow.
   - **Secondary failure:** using efficiency to:
     - narrow Rights-Floor protections;
     - bypass the [§6.1 decision-record discipline](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test); or
@@ -1153,10 +1162,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Meaningful Agency](core_05_band_participation.md#meaningful-agency); and
     - non-coercive choice.
   - **Out of scope:**
-    - turning contribution into exploitation, dependency, or abuse;
-    - nominal output or access metrics while meaningful agency, safety, or non-coercive choice is degraded;
-    - raw production totals without real participation conditions; and
-    - throughput, utilization, headcount, revenue, asset growth, market share, or comparable proxies that no longer track real participation and contribution capacity.
+    - raw production totals, throughput, utilization, headcount, revenue, asset growth, market share, or comparable proxies not claimed as participation and contribution capacity; or
+    - non-labor resource accounting with no productive-participation stake —
+    those sit outside this capacity concept when not offered as the floor.
 <a id="productive-capacity-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Constitutional Performance measurement family](core_05_band_performance.md#performance-measurement-family) — *Are constitutional outcomes delivered efficiently without pointless waste?*
@@ -1186,13 +1194,15 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Primary failure:** systems or policies that deny, distort, or capture productive capacity by imposing:
     - exploitative dependency;
     - artificial scarcity;
-    - coercion; or
-    - under-investment.
+    - coercion;
+    - under-investment; or
+    - contribution turned into exploitation, dependency, or abuse —
+    including nominal output or access metrics while [Meaningful Agency](core_05_band_participation.md#meaningful-agency), safety, or non-coercive choice is degraded; and throughput or comparable proxies that no longer track real participation and contribution capacity.
   - **Secondary failure:** preserving nominal output or access metrics while materially degrading:
     - [Meaningful Agency](core_05_band_participation.md#meaningful-agency);
     - [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional); or
     - [Safety (Constraint)](core_05_band_continuity.md#safety-constraint).
-  - **Tertiary failure:** treating proxy-driven measurement regimes as dispositive where [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable, or ignoring whether sentients can:
+  - **Tertiary failure:** proxy-driven measurement regimes offered as dispositive where [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable, or ignoring whether sentients can:
     - meaningfully participate in productive activity; and
     - derive wellbeing from it.
 
@@ -1301,14 +1311,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint);
     - the Chapter Six Rights Floor; and
     - the other tradeoff principles in Chapter One §6.1.
-  - **Out of scope:** lowering burden by weakening:
-    - Safety;
-    - Truth;
-    - the Chapter Six Rights Floor;
-    - the other tradeoff principles in Chapter One §6.1;
-    - audit;
-    - [Contestability](core_05_band_accountability.md#contestability); or
-    - retrospective-review obligations.
+  - **Out of scope:** ordinary process simplification among options that already satisfy [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), the Chapter Six Rights Floor, and Chapter One §6.1 — when no burden-reduction duty claim is at issue.
 <a id="burden-reduction-duty-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Constitutional Performance measurement family](core_05_band_performance.md#performance-measurement-family) — *Are constitutional outcomes delivered efficiently without pointless waste?*
@@ -1394,10 +1397,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - interdependence of living systems; and
     - [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) where recovery after harm is material.
   - **Out of scope:**
-    - cosmetic green labels;
-    - single-metric compliance while ecosystem resilience, diversity, or regeneration capacity deteriorates;
-    - treating extinction of species, or comparable irreversible biodiversity loss, as offsettable, substitutable, or otherwise compensable; and
-    - footprint or sustainability branding that obscures ecological deterioration.
+    - ordinary local amenity preferences with no ecosystem stake; or
+    - operational system restore after fault ([Self-Healing](core_05_band_continuity.md#self-healing-constitutional)) or rollback of specific decisions ([Reversibility](core_05_band_continuity.md#reversibility-constitutional)) —
+    those sit under their own homes when no ecological-integrity stake is claimed.
 <a id="ecological-integrity-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -1427,8 +1429,11 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What must hold**
   - **Primary failure:** material ecological degradation, including:
     - externalized ecological harm;
-    - irreversible or avoidably hard-to-reverse ecosystem damage; or
-    - aggregate deterioration of resilience, diversity, or regeneration capacity.
+    - irreversible or avoidably hard-to-reverse ecosystem damage;
+    - aggregate deterioration of resilience, diversity, or regeneration capacity;
+    - cosmetic green labels or footprint / sustainability branding that obscures ecological deterioration;
+    - single-metric compliance while ecosystem resilience, diversity, or regeneration capacity deteriorates; or
+    - extinction of species, or comparable irreversible biodiversity loss, offered as offsettable, substitutable, or otherwise compensable.
   - **Secondary failure:** footprint, sustainability, or compliance claims that obscure deterioration of ecological integrity while:
     - local or paper compliance appears satisfied; or
     - offsets and single-metric reporting stand in for whole-system condition.
@@ -1467,9 +1472,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - other regenerative processes of comparable ecological function.
   - **Out of scope:**
     - operational system restore after fault ([Self-Healing](core_05_band_continuity.md#self-healing-constitutional));
-    - rollback of specific decisions or commitments ([Reversibility](core_05_band_continuity.md#reversibility-constitutional));
-    - commercial cost recovery; and
-    - treating irreversible ecological recovery-capacity loss as ordinary localized impact.
+    - rollback of specific decisions or commitments ([Reversibility](core_05_band_continuity.md#reversibility-constitutional)); or
+    - commercial cost recovery —
+    those sit under their own homes, not under this ecological recovery-capacity floor.
 <a id="ecological-recovery-capacity-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -1507,7 +1512,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - treat species-only or population-only metrics as insufficient where systemic habitat condition and regenerative capacity are materially implicated.
 <a id="ecological-recovery-capacity-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** irreversible ecological recovery-capacity loss treated as ordinary localized impact, including:
+  - **Primary failure:** irreversible ecological recovery-capacity loss offered as ordinary localized impact, including:
     - extinction cascades or threshold crossings framed as recoverable local disturbance; or
     - cumulative effects that foreclose restoration within intergenerationally relevant horizons.
   - **Secondary failure:**
@@ -1545,8 +1550,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - reduction.
   - **Read with:** [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional) and [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional).
   - **Out of scope:**
-    - local or nominal compliance treated as sufficient while externalized, aggregated, or lifecycle burdens remain material; and
-    - footprint branding or single-metric reporting that obscures whole-system environmental burden.
+    - ordinary local amenity metrics with no attributable lifecycle or [Dependency](core_05_band_continuity.md#dependency) burden; or
+    - [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional) or [Sustainability](core_05_band_continuity.md#sustainability) as sibling concepts —
+    those sit under their own homes when footprint disclosure is not the question.
 <a id="ecological-footprint-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -1570,8 +1576,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What must hold**
   - **Primary failure:** obscuring or misrepresenting material footprint information where disclosure is required under:
     - **Article XV-C** (*Verification Accessibility*); or
-    - applicable transparency obligations.
-  - **Secondary failure:** local or nominal compliance treated as sufficient where burdens remain material that are:
+    - applicable transparency obligations —
+    including footprint branding or single-metric reporting that obscures whole-system environmental burden; or local or nominal compliance offered as sufficient while externalized, aggregated, or lifecycle burdens remain material.
+  - **Secondary failure:** local or nominal compliance offered as sufficient where burdens remain material that are:
     - externalized;
     - aggregated; or
     - lifecycle-spanning.
@@ -1605,8 +1612,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - other species; or
     - future sentients.
   - **Out of scope:**
-    - productivity, efficiency, or growth labeled sustainable while ecological integrity or environmental preconditions deteriorate; and
-    - harm shifted to other communities or future sentients under a sustainability label.
+    - short-horizon efficiency or growth metrics not claimed as sustainability; or
+    - [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) accounting alone, or [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional) as a sibling duty —
+    those sit under their own homes when durable ecological and wellbeing continuity is not the claim.
 <a id="sustainability-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -1639,14 +1647,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - depletion;
     - ecological degradation;
     - unaccounted externalities;
-    - displaced harms; or
-    - foreseeable future burden.
-  - **Secondary failure:** treating as sustainable:
-    - productivity;
-    - efficiency; or
-    - growth —
-
-    where ecological integrity or environmental preconditions materially deteriorate.
+    - displaced harms;
+    - foreseeable future burden; or
+    - harm shifted to other communities or future sentients.
+  - **Secondary failure:** productivity, efficiency, or growth offered as sustainable where ecological integrity or environmental preconditions materially deteriorate.
 
 
 <a id="intergenerational-responsibility-constitutional"></a>
@@ -1673,11 +1677,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - cultural and heritage continuity;
     - [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity-constitutional); and
     - the durability of Rights-Floor conditions.
-  - **Out of scope:** present-benefit accounting that ignores reasonably foreseeable:
-    - future harm;
-    - lock-in;
-    - ecological degradation; or
-    - Rights-Floor loss for future sentients.
+  - **Out of scope:** ordinary present-horizon planning with no reasonably foreseeable material effect on future sentients, communities, ecological systems, or Rights-Floor durability.
 <a id="intergenerational-responsibility-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -1718,7 +1718,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - depletion;
     - lock-in;
     - ecological degradation; or
-    - cultural-continuity loss.
+    - cultural-continuity loss —
+    including present-benefit accounting that ignores those reasonably foreseeable future burdens.
   - **Secondary failure:** present-benefit accounting that treats future affected parties as out of scope merely because they are:
     - not yet identified; or
     - not presently participating.
@@ -1783,7 +1784,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Depends on:** [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Necessity](core_05_band_accountability.md#necessity), and [Proportionality](core_05_band_accountability.md#proportionality) — constitutive bounds under **Article XXIII-D** (*Emergency Measures and Continuation Burden*). Emergency deviation must:
     - be necessary under Safety and Truth; and
     - satisfy ongoing necessity and proportionality discipline.
-  - **Out of scope:** pretextual or indefinite invocation to bypass Safety, Truth, Contestability, Foundational Constitutional Choice, or the Constitutional Contract Layer.
+  - **Out of scope:** ordinary scheduling, capacity, or process expedience with no imminent or manifest grave-harm, systemic-failure, or comparable exigent predicate.
 <a id="emergency-and-contingency-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -1797,7 +1798,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - owner-layer governance implementation appears in designated implementation text and must not narrow [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) or [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint).
 <a id="emergency-and-contingency-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** Invoking emergency or contingency to bypass [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), required [Contestability](core_05_band_accountability.md#contestability), audit, [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), or the [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer) — pretextually or indefinitely — is non-compliant.
+  - **Primary failure:** pretextual or indefinite emergency or contingency invocation to bypass [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), required [Contestability](core_05_band_accountability.md#contestability), audit, [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), or the [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer).
 
 
 <a id="constitutional-emergency-and-contingency"></a>
@@ -1821,11 +1822,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - continuity, preservation, restoration, or temporary protection of the lawful conditions under which governing authority is authorized, reauthorized, challenged, or kept from capture; and
     - preservation of the possibility of lawful [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice).
   - **Out of scope:**
-    - creating, substituting for, amending, or durably restructuring constitutional authority;
-    - using emergency continuity or crisis delegation to entrench new governing authority;
-    - bypassing Foundational Constitutional Choice;
-    - normalizing emergency power after the predicate fails; or
-    - ordinary stakeholder-process expedience.
+    - ordinary stakeholder-process expedience; or
+    - [Stakeholder Emergency and Contingency](core_05_band_continuity.md#stakeholder-emergency-and-contingency) —
+    a sibling home for procedure inside already-authorized systems, not authorization of governing authority itself.
 <a id="constitutional-emergency-and-contingency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -1841,7 +1840,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <a id="constitutional-emergency-and-contingency-c"></a>
 - **What must hold**
   - **Primary failure:** The following are non-compliant:
-    - using emergency continuity, temporary stewardship, compromised-channel exclusion, crisis delegation, or subversion response to entrench a new governing authority;
+    - creating, substituting for, amending, or durably restructuring constitutional authority under an emergency label;
+    - emergency continuity, temporary stewardship, compromised-channel exclusion, crisis delegation, or subversion response used to entrench a new governing authority;
     - bypassing [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice);
     - evading Chapter Fourteen validity procedures; or
     - normalizing emergency constitutional power after the emergency predicate fails.
@@ -1869,9 +1869,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - expedited or temporarily modified stakeholder-system procedure to prevent imminent material harm; and
     - preservation of affected-party notice, challenge, restoration, and proportionate participation as soon as feasible.
   - **Out of scope:**
-    - symbolic consultation treated as enough;
-    - converting emergency weighting into a standing model; or
-    - substituting stakeholder emergency for Constitutional Emergency where governing authority is implicated.
+    - ordinary stakeholder weighting or participation outside an emergency predicate; or
+    - [Constitutional Emergency and Contingency](core_05_band_continuity.md#constitutional-emergency-and-contingency) —
+    a sibling home where authorization of governing authority is implicated.
 <a id="stakeholder-emergency-and-contingency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -1885,11 +1885,11 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <a id="stakeholder-emergency-and-contingency-c"></a>
 - **What must hold**
   - **Primary failure:** The following are non-compliant:
-    - treating symbolic consultation as sufficient;
+    - symbolic consultation offered as sufficient;
     - suppressing challenge after stabilization;
     - deferring participation indefinitely;
-    - converting emergency weighting or representation into a standing model; or
-    - substituting stakeholder-system process for [Constitutional Emergency and Contingency](core_05_band_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated.
+    - emergency weighting or representation converted into a standing model; or
+    - stakeholder-system process substituted for [Constitutional Emergency and Contingency](core_05_band_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated.
 
 
 <a id="emergency-pre-deliberation-action-binding-collective-choice"></a>
@@ -1915,9 +1915,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - cases where delay would cause **imminent material harm**;
     - a narrow timing exception within an already-authorized system, institution, or bounded decision domain; and
     - action that is not a general governance bypass.
-  - **Out of scope:**
-    - ordinary expedience or convenience labeled as emergency; or
-    - sustained pre-deliberation power treated as final stakeholder authorization.
+  - **Out of scope:** ordinary expedience or convenience with no imminent-material-harm predicate for pre-deliberation action.
 <a id="emergency-pre-deliberation-action-binding-collective-choice-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -1933,10 +1931,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <a id="emergency-pre-deliberation-action-binding-collective-choice-c"></a>
 - **What must hold**
   - **Primary failure:** The following are non-compliant:
-    - labeling ordinary expedience or convenience as emergency;
+    - ordinary expedience or convenience labeled as emergency;
     - sustained or inadequately reviewed pre-deliberation power;
-    - using emergency action to bypass [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice) or the [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer); or
-    - treating pre-deliberation action as final stakeholder authorization without the required restoration, review, and reopening pathway.
+    - emergency action used to bypass [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice) or the [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer); or
+    - pre-deliberation action offered as final stakeholder authorization without the required restoration, review, and reopening pathway.
   - Owner floor: [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
 
 ---
@@ -2437,9 +2435,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
     It supports institutional creation under [System Creation](core_05_band_participation.md#system-creation-constitutional) and [Business Creation](core_05_band_participation.md#business-creation-constitutional) by making operated scope reviewable without narrowing those floors. Adopt, amend, and supervise mechanics route to [corpus_institutions.md](corpus_institutions.md) under **Chapter Sixteen** incorporation discipline.
   - **Out of scope:**
-    - treating Charter text as a substitute for System Boundaries;
-    - treating Charter text as proof of classification under CS-3; and
-    - treaties, compacts, or charters under Chapter Twelve that found or authorize a political community (different meaning of "charter").
+    - treaties, compacts, or charters under Chapter Twelve that found or authorize a political community (different meaning of "charter"); or
+    - ordinary marketing copy or mission slogans not offered as the published scope instrument.
 <a id="charter-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -2452,9 +2449,11 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     5. Charter claims do not understate [System Boundaries](core_05_band_continuity.md#system-boundaries) defined by [Material Impact](core_05_band_oversight.md#material-impact) and [Dependency](core_05_band_continuity.md#dependency).
 <a id="charter-c"></a>
 - **What must hold**
-  - **Primary failure:** operating materially outside chartered scope while treating the Charter as current authorization;
+  - **Primary failure:**
+    - operating materially outside chartered scope while the Charter is offered as current authorization; or
+    - Charter text offered as a substitute for [System Boundaries](core_05_band_continuity.md#system-boundaries) or as proof of classification under CS-3;
   - **Secondary failure:** overdue periodic charter review, silent scope expansion, or amendment without recorded authority;
-  - **Tertiary failure:** using Charter text to defeat [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), understate class, or narrow [System Creation](core_05_band_participation.md#system-creation-constitutional) / [Business Creation](core_05_band_participation.md#business-creation-constitutional) floors.
+  - **Tertiary failure:** Charter text used to defeat [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), understate class, or narrow [System Creation](core_05_band_participation.md#system-creation-constitutional) / [Business Creation](core_05_band_participation.md#business-creation-constitutional) floors.
 
 
 <a id="systemic-lock-in"></a>
@@ -2555,9 +2554,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - processing and substrate maintenance for synthetic sentients.
 
     The floor is structurally parallel to the food, water, and shelter access floors of **Article III-A** (*Survival*).
-  - **Out of scope:**
-    - elective services unrelated to preserving life, function, or dignity; and
-    - exclusions contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) framed as allocation or administrative convenience.
+  - **Out of scope:** elective services unrelated to preserving life, function, or dignity.
 <a id="bodily-maintenance-access-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
@@ -2581,7 +2578,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     Substrate-agnostic: substrate maintenance for synthetic sentients cannot be excluded on taxonomy grounds.
 <a id="bodily-maintenance-access-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** denial or material degradation of access whose effect defeats the floor, regardless of the formal framing of the gating mechanism.
+  - **Primary failure:** denial or material degradation of access whose effect defeats the floor, regardless of the formal framing of the gating mechanism — including exclusions contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) framed as allocation or administrative convenience.
   - **Secondary failure:** narrowings that defeat the floor without satisfying [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and applicable fairness tests, including:
     - exclusions contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); and
     - narrowing the floor on efficiency, allocation, or administrative-convenience grounds.
@@ -2890,9 +2887,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - not operate as a coercion or dependency-pressure vector.
 
     Rooted in the **Article III-D** (*Labor and Economic Floor*) labor and economic floor; read on top of (not as a substitute for) the **Article III-A** (*Survival*) survival floor.
-  - **Out of scope:**
-    - ordinary voluntary exchange for goods or services outside sentient-productive-activity scope;
-    - survival-floor compliance treated as fair compensation by itself.
+  - **Out of scope:** ordinary voluntary exchange for goods or services outside sentient-productive-activity scope; or the **Article III-A** (*Survival*) survival floor alone when fair compensation for productive activity is not the question.
 <a id="fair-compensation-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -2925,7 +2920,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What must hold**
   - **Primary failure:** compensation schemes whose effects track [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) or their material proxies, regardless of framing.
   - **Secondary failure:** compensation used as a coercion or dependency-pressure vector ([Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional)), including reliance on [Dependency](core_05_band_continuity.md#dependency) asymmetry to hold compensation below substantive adequacy.
-  - **Tertiary failure:** reading this entry as satisfied purely by survival-floor compliance or by [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) non-concentration compliance; exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+  - **Tertiary failure:** survival-floor compliance or [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) non-concentration compliance offered as fair compensation by itself; exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
 ---
 
@@ -2954,9 +2949,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), where conditions are degraded or exploited rather than ideal.
 
     It applies equally to all sentients under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), whether performing the activity or affected by it.
-  - **Out of scope:**
-    - general system safety outside productive-activity conditions, which this entry does not govern;
-    - paper policies, notices, or training that leave foreseeable productive-activity harm unaddressed in practice.
+  - **Out of scope:** general system safety outside productive-activity conditions — that sits under [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) and related homes, not this labor-floor entry.
 <a id="safe-conditions-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -2988,8 +2981,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What must hold**
   - **Primary failure:** safety obligations that exist on paper but do not protect in practice, including claims that any of the following satisfies this entry where actual risk protection fails:
     - general safety-law compliance;
-    - contribution status; or
-    - employment status.
+    - contribution status;
+    - employment status; or
+    - paper policies, notices, or training that leave foreseeable productive-activity harm unaddressed in practice.
   - **Secondary failure:** distributing risk so that it falls mainly on groups defined by [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) or their material proxies.
   - **Tertiary failure:** excluding sentients from safety requirements contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
@@ -3020,12 +3014,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - participation capacity.
 
     Substrate-agnostic under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion). Stated in Rights-Floor terms rather than fixed quantitative units; the substantive floor is participation-capacity preservation.
-  - **Out of scope:**
-    - ordinary contractual rest terms, schedules, and similar workplace mechanics that actually leave the sentient able to preserve participation capacity — this entry does not rewrite those day-to-day arrangements;
-    - the following treated as satisfying this entry when they do not preserve agency and recuperation:
-      - leave banks that exist in name only;
-      - unpaid downtime forced by underemployment; and
-      - idle time that exists only when production pauses.
+  - **Out of scope:** ordinary contractual rest terms, schedules, and similar workplace mechanics that actually leave the sentient able to preserve participation capacity — this entry does not rewrite those day-to-day arrangements.
 <a id="leisure-and-rest-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -3052,7 +3041,11 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - suppression of the organizing channels through which rest terms are set.
 <a id="leisure-and-rest-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** compensation or productivity-requirement schemes whose effect defeats rest and recuperation.
+  - **Primary failure:** compensation or productivity-requirement schemes whose effect defeats rest and recuperation, including:
+    - leave banks that exist in name only;
+    - unpaid downtime forced by underemployment; or
+    - idle time that exists only when production pauses —
+    where those do not preserve agency and recuperation.
   - **Secondary failure:** reading this entry as narrowed by formal rest-provision compliance where the substantive participation-capacity floor fails.
   - **Tertiary failure:** framings treating rest and recuperation as optional for synthetic sentients contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
@@ -3125,8 +3118,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
     Substrate-agnostic under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion). Attribution is a substantive traceability interest from derivative output back to upstream creator-work, not a specific format; structured attribution — direct, aggregate, or inventory-based — is permitted where the substantive traceability function survives.
   - **Out of scope:**
-    - credit theater and buried notices;
-    - attribution that does not track the sentient whose creative or expressive work is used, reproduced, or adapted.
+    - non-sentient-produced material where **Article VIII-D** attribution duties do not apply; or
+    - anonymous aggregates not traced to specific creators —
+    those sit outside this attribution interest.
 <a id="creative-work-attribution-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -3157,7 +3151,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - "fair use";
     - "transformative";
     - "public-domain training-data"; or
-    - "aggregate style".
+    - "aggregate style" —
+    including credit theater, buried notices, or attribution that does not track the sentient whose creative or expressive work is used, reproduced, or adapted.
   - **Secondary failure:** attribution regimes that cannot function at deployment scale where the affected creator-population is materially identifiable, including:
     - opt-in mechanisms inaccessible to affected creators;
     - post-use inventory disclosures; or
@@ -3186,15 +3181,11 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Privacy (Informational)](core_05_band_continuity.md#privacy-informational); and
     - [Creative Work Attribution](core_05_band_continuity.md#creative-work-attribution-constitutional).
   - **Out of scope:**
-    - non-sentient-produced material where **Article VIII-D** consent and attribution duties do not apply;
+    - non-sentient-produced material where **Article VIII-D** consent and attribution duties do not apply; or
     - ordinary operational aggregates that are not traced to specific sentients — for example:
       - anonymous traffic totals; and
       - anonymous sales totals —
-      these are fine under this entry; pooling or aggregating covered sentient-produced work is not the same thing and remains in scope;
-    - treating sentient-produced work as out of scope solely because it has been:
-      - pooled or aggregated;
-      - labeled de-identified; or
-      - called non-personal data.
+      pooling or aggregating covered sentient-produced work is not the same thing and remains in scope.
 <a id="training-data-use-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -3221,8 +3212,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
     where **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) joint invocation materially applies.
   - **Secondary failure:**
-    - claiming identifiable sentient-produced work may be used just because it is labeled "not personal data"; and
-    - treating withdrawal of consent as unavailable once the work has been ingested, where **Article VIII-B** (*Experiential and Derived Data Rights*) duties apply.
+    - claiming identifiable sentient-produced work may be used just because it is labeled "not personal data";
+    - sentient-produced work carved out of scope solely because it has been pooled or aggregated, labeled de-identified, or called non-personal data; and
+    - withdrawal of consent treated as unavailable once the work has been ingested, where **Article VIII-B** (*Experiential and Derived Data Rights*) duties apply.
   - **Tertiary failure:** treating sentient-produced work as usable without consent or attribution just because its producer is synthetic ([Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion)).
 
 ---
@@ -3259,9 +3251,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - participation in derived value.
 
     Substrate-agnostic under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
-  - **Out of scope:**
-    - efficiency claims and voluntary-redeployment branding offered in place of mitigation;
-    - pilot programs that leave population-scale labor displacement without the Rights-Floor transition protections.
+  - **Out of scope:** voluntary individual job change or ordinary career transition with no population-scale labor displacement.
 <a id="anti-displacement-floor-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -3292,7 +3282,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - whether affected sentients retain the [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) channels through which transition terms are negotiated.
 <a id="anti-displacement-floor-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** "aggregate productivity" or "aggregate welfare" framing used to erase displacement at population scale.
+  - **Primary failure:**
+    - "aggregate productivity" or "aggregate welfare" framing used to erase displacement at population scale;
+    - efficiency claims or voluntary-redeployment branding offered in place of mitigation; or
+    - pilot programs that leave population-scale labor displacement without the Rights-Floor transition protections.
   - **Secondary failure:** nominal mitigation — token compensation, unused transition programs, or inaccessible attribution schemes.
   - **Tertiary failure:** exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); treating the implementation pointer to `corpus_systems.md` (operational detail only) as scope-closing.
 
@@ -3386,9 +3379,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - repair capacity;
     - [Distributed Understanding](core_05_band_continuity.md#distributed-understanding-constitutional); and
     - long-horizon consequences, including ecological, intergenerational, and **Continuity**-aim effects under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
-  - **Out of scope:**
-    - short-horizon operational management without long-horizon alignment or Continuity-aim orientation; and
-    - stewardship posture that does not preserve repair capacity when misalignment is reasonably foreseeable.
+  - **Out of scope:** short-horizon operational management with no long-horizon alignment or Continuity-aim stake under this stewardship duty.
 <a id="stewardship-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) and [Constitutional Performance measurement family](core_05_band_performance.md#performance-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
@@ -3416,7 +3407,8 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 - **What must hold**
   - **Primary failure:** long-horizon duties treated as optional, including where they are:
     - subordinated to short-horizon convenience or metric gaming without [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality); or
-    - deferred as to repair after misalignment is reasonably foreseeable.
+    - deferred as to repair after misalignment is reasonably foreseeable —
+    including a stewardship posture that does not preserve repair capacity when misalignment is reasonably foreseeable.
   - **Secondary failure:** masking non-functional stewardship posture after misalignment is reasonably foreseeable.
 
 
@@ -3446,8 +3438,9 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - stewardship; and
     - [Contestability](core_05_band_accountability.md#contestability).
   - **Out of scope:**
-    - expert-only or internal operator knowledge not made workable for materially affected sentients; and
-    - Transparency disclosures that do not create usable learning at the materiality scale that applies.
+    - [Transparency](core_05_band_oversight.md#transparency) disclosure alone when workable learning is not the claim; or
+    - expert or operator knowledge kept for internal ops with no claim that affected sentients can use it —
+    those sit under their own homes or as ordinary internal practice.
 <a id="distributed-understanding-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) and [Constitutional Performance measurement family](core_05_band_performance.md#performance-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
@@ -3472,7 +3465,8 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
   - **Primary failure:** understanding withheld, obscured, or made practically unusable without:
     - [Necessity](core_05_band_accountability.md#necessity);
     - [Proportionality](core_05_band_accountability.md#proportionality); and
-    - applicable security limits.
+    - applicable security limits —
+    including expert-only or internal operator knowledge, or [Transparency](core_05_band_oversight.md#transparency) disclosures, that do not create usable learning at the materiality scale that applies.
 
 
 <a id="strategic-stewardship-obligation-constitutional"></a>
@@ -3501,7 +3495,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - safety risks;
     - Rights-Floor impacts; and
     - long-horizon consequences.
-  - **Out of scope:** short-horizon value, convenience, or institutional self-protection treated as sufficient stewardship where material or durable influence exists.
+  - **Out of scope:** ordinary short-horizon operational planning with no material or durable influence stake under this stewardship duty.
 <a id="strategic-stewardship-obligation-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) and [Constitutional Performance measurement family](core_05_band_performance.md#performance-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
@@ -3940,11 +3934,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 - **What it is**
   - **In scope:** Reliance grounded exclusively in demonstrated trustworthiness.
-  - **Out of scope:** reliance based on the following without demonstrated trustworthiness:
-    - reputation;
-    - history;
-    - scale; or
-    - endorsement.
+  - **Out of scope:** reputation, history, scale, or endorsement as social or commercial facts not offered as the basis for justified reliance.
 <a id="trust-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*
@@ -3987,7 +3977,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - defined scope boundaries for justified reliance;
     - continuous behavioral revalidation; and
     - incentive alignment sustaining rather than degrading reliability.
-  - **Out of scope:** reputation, scale, endorsement, or history treated as demonstrated reliability without continuous behavioral revalidation in the claimed scope.
+  - **Out of scope:** reputation, scale, endorsement, or history as social or commercial facts not offered as demonstrated reliability for justified reliance.
 <a id="trustworthiness-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*
