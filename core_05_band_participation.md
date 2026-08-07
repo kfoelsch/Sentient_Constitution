@@ -1749,10 +1749,31 @@ Exclusion from a particular adopter's admission or hosting does **not** violate 
 - origin-primary recognition duty; or
 - shared / federation transitional recognition backup.
 
+Anti-constitutional conduct, constitutional hostility, and contempt or repudiation may bar or condition **entry**. They do not by themselves erase baseline recognition elsewhere in the system.
+
 Exclusion decisions remain subject to:
 - [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional);
 - [Proportionality](core_05_band_accountability.md#proportionality); and
 - [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) constraints against substrate-class discrimination.
+
+<a id="movement-refuge-recognition-vs-hosting"></a>
+
+**Recognition vs hosting:** [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) is a **no-zero-regime recognition floor**. It is **not**:
+- unconditional placement into a chosen adopter;
+- an open-border hosting mandate; or
+- a duty that any particular receiving adopter absorb instrumentally coerced or weaponized mass outflows.
+
+Deliberate coercive expulsion or dumping designed to overwhelm receiving adopters is a **regime-level** violation by the origin or expelling regime. It does **not** become an automatic hosting mandate on any particular adopter when recognition remains real through:
+- origin-primary duty; or
+- shared / federation backup.
+
+A particular adopter may refuse such instrumentally coerced inflows under:
+- [Necessity](core_05_band_accountability.md#necessity);
+- [Proportionality](core_05_band_accountability.md#proportionality); and
+- [Feasibility](core_05_band_accountability.md#feasibility)
+without extinguishing baseline recognition elsewhere.
+
+How regimes recognize each other across borders — the forms, handoffs, and procedures — lives in adopted implementation text under [Chapter Sixteen](core_16-16_incorporation.md) (typically [corpus_institutions.md](corpus_institutions.md)). Those procedures may spell out mechanics; they may not shrink this Rights Floor.
 
 **Topic group members.** This group comprises:
 - [Movement and Relocation](core_05_band_participation.md#movement-and-relocation-constitutional) — right to move within and between jurisdictions, and to relocate when staying would impair rights.
@@ -1770,8 +1791,8 @@ Exclusion decisions remain subject to:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Owner floor: [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
-- Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier)).
-- Read with: [Refuge from Non-Compliance](core_05_band_participation.md#refuge-from-non-compliance-constitutional), [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional), [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in), and cluster [admission qualifier](#movement-refuge-admission-qualifier).
+- Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting)).
+- Read with: [Refuge from Non-Compliance](core_05_band_participation.md#refuge-from-non-compliance-constitutional), [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional), [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in), cluster [admission qualifier](#movement-refuge-admission-qualifier), and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
 </details>
 
 <br>
@@ -1795,7 +1816,7 @@ Exclusion decisions remain subject to:
       - hosting substrate change; or
       - equivalent.
   - **Boundary:**
-    - Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier).
+    - Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
     - Distinct from and read with [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) under **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) (operational interoperability / portability / exit-integrity counterpart).
     - Governed by [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Out of scope:**
@@ -1827,7 +1848,7 @@ Exclusion decisions remain subject to:
         - backed by evidence;
         - still true now; and
         - actually one of those grounds — not a made-up label.
-    - A particular adopter may refuse that person entry and still satisfy [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) if another real recognizing regime remains available — either the origin regime's primary duty, or shared / federation backup recognition. The refusal itself must still meet [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
+    - Particular-adopter refusal still satisfies [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) when recognition remains real under cluster [recognition vs hosting](#movement-refuge-recognition-vs-hosting); the refusal itself must still meet [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
 <a id="movement-and-relocation-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** denial or material degradation of movement where the substantive effect defeats the floor, regardless of formal framing.
@@ -1848,8 +1869,8 @@ Exclusion decisions remain subject to:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Owner floor: [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
 - Downstream: Principles: [6. Process Conflict Resolution](core_05_apex_participation_leg.md#6-process-conflict-resolution); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (movement, dependency, procedural fairness scaling).
-- Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier)).
-- Read with: [Accountability, contestability, and redress pathways](core_05_band_accountability.md#accountability-contestability-semi-independent); [Movement, Refuge, Non-Statelessness, and Exit Integrity](core_05_band_oversight.md#movement-refuge-semi-independent), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional), and [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
+- Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting)).
+- Read with: [Accountability, contestability, and redress pathways](core_05_band_accountability.md#accountability-contestability-semi-independent); [Movement, Refuge, Non-Statelessness, and Exit Integrity](core_05_band_oversight.md#movement-refuge-semi-independent), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional), [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*), cluster [admission qualifier](#movement-refuge-admission-qualifier), and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
 </details>
 
 <br>
@@ -1864,10 +1885,9 @@ Exclusion decisions remain subject to:
     whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime.
   - **In scope — receiving-regime duty:** The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated at [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
   - **Boundary:**
-    - Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier).
+    - Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
     - The floor applies under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
-    - How regimes recognize each other across borders — the forms, handoffs, and procedures — lives in adopted implementation text under [Chapter Sixteen](core_16-16_incorporation.md) (typically [corpus_institutions.md](corpus_institutions.md)). Those procedures may spell out mechanics; they may not shrink this Rights Floor.
-    - [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) is a no-zero-regime recognition floor — not a mandate that any particular receiving adopter must host at volume.
+    - Zero-regime recognition gaps are tested under [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional).
   - **Out of scope:** ordinary relocation preference where the origin regime is not materially non-compliant.
 <a id="refuge-from-non-compliance-constitutional-a"></a>
 - **How to measure and assess**
@@ -1889,12 +1909,7 @@ Exclusion decisions remain subject to:
     - Receiving-regime capacity constraints are subject to [Feasibility](core_05_band_accountability.md#feasibility) but may not be used as pretext for:
       - exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); or
       - blanket refusals that never look at the individual person's case.
-    - Where the inflow is instrumentally coerced or weaponized mass outflow — deliberate expulsion or dumping designed to overwhelm receiving adopters — treat that as a regime-level violation of the origin or expelling regime. It does not auto-assign hosting to any particular receiving adopter when origin-primary or shared / federation backup recognition remains real.
-    - A particular adopter may refuse such instrumentally coerced inflows under:
-      - [Necessity](core_05_band_accountability.md#necessity);
-      - [Proportionality](core_05_band_accountability.md#proportionality); and
-      - [Feasibility](core_05_band_accountability.md#feasibility)
-      without extinguishing baseline recognition elsewhere.
+    - Apply cluster [recognition vs hosting](#movement-refuge-recognition-vs-hosting) to instrumentally coerced or weaponized mass outflows and particular-adopter refusal.
     - Assess whether granting refuge would materially undermine the receiving regime's constitutional integrity where the claimant carries documented:
       - anti-constitutional conduct;
       - constitutional hostility; or
@@ -1918,8 +1933,8 @@ Exclusion decisions remain subject to:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Owner floor: [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*); transitional-recognition mechanics route to **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) transition governance.
-- Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier)).
-- Read with: [Movement and Relocation](core_05_band_participation.md#movement-and-relocation-constitutional), [Refuge from Non-Compliance](core_05_band_participation.md#refuge-from-non-compliance-constitutional), and cluster [admission qualifier](#movement-refuge-admission-qualifier).
+- Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting)).
+- Read with: [Movement and Relocation](core_05_band_participation.md#movement-and-relocation-constitutional), [Refuge from Non-Compliance](core_05_band_participation.md#refuge-from-non-compliance-constitutional), cluster [admission qualifier](#movement-refuge-admission-qualifier), and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
 </details>
 
 <br>
@@ -1936,72 +1951,49 @@ Exclusion decisions remain subject to:
     - adopter withdrawal;
     - federation exit; or
     - comparable structural discontinuity.
-  - **Boundary — recognition vs hosting:** Non-Statelessness is a **no-zero-regime recognition floor**. It is **not**:
-    - unconditional placement into a chosen adopter;
-    - an open-border hosting mandate; or
-    - a duty that any particular receiving adopter absorb instrumentally coerced or weaponized mass outflows.
-  - **Boundary — origin-primary duty:** Primary recognition responsibility stays with whichever of these still exists and can still recognize:
-    - the origin regime;
-    - the expelling regime;
-    - the collapsing regime;
-    - the withdrawing regime; or
-    - the exiting regime.
-  - **Boundary — shared / federation backup:** Shared or federation transitional recognition must be arranged — consistent with **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) — so the individual never hits zero recognition, where the origin-primary regime:
-    - is gone;
-    - refuses; or
-    - leaves a gap through the discontinuity.
-    How regimes recognize each other across borders — the forms, handoffs, and procedures — lives in adopted implementation text under [Chapter Sixteen](core_16-16_incorporation.md) (typically [corpus_institutions.md](corpus_institutions.md)):
-    - those procedures may spell out mechanics;
-    - they may not shrink this Rights Floor.
-  - **Boundary — weaponized outflow:** Deliberate coercive expulsion or dumping designed to overwhelm receiving adopters is a **regime-level** violation by the origin or expelling regime. It does **not** become an automatic hosting mandate on the nearest adopter when recognition remains real through:
-    - origin-primary duty; or
-    - shared / federation backup.
-  - **Boundary — particular-adopter refusal:** A particular adopter may refuse instrumentally coerced inflows under:
-    - [Necessity](core_05_band_accountability.md#necessity);
-    - [Proportionality](core_05_band_accountability.md#proportionality); and
-    - [Feasibility](core_05_band_accountability.md#feasibility)
-    without extinguishing baseline recognition elsewhere.
+  - **Boundary — recognition duty ladder:**
+    - **First in line:** The regime that originated, expelled, collapsed, withdrew, or exited keeps primary recognition duty if it still exists and can still recognize the person.
+    - **Backup:** If that regime is gone, refuses, or leaves a recognition gap, shared or federation transitional recognition must fill it — under **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) — so the person never hits zero recognition.
+    - **Not a hosting mandate:** Recognition is not the same as a right to be hosted by a particular adopter. Weaponized outflow and particular-adopter refusal rules live at cluster [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
+    - **Non-exclusion:** Applies under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Boundary — restricted-status recognition:** Where documented:
     - anti-constitutional conduct;
     - constitutional hostility; or
     - contempt or repudiation of the constitutional community
     is present, regimes may impose:
-    - conditions;
-    - monitoring; or
-    - restricted status on recognition —
-    provided such conditions do not extinguish the core protections of:
-      - the Rights-Floor;
-      - [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional); and
-      - [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
-    Contempt remains an admission and entry ground under the cluster [admission qualifier](#movement-refuge-admission-qualifier); it is not a license to erase baseline recognition somewhere in the system.
-  - **Boundary — non-exclusion:** Applies under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+      - conditions;
+      - monitoring; or
+      - restricted status on recognition —
+        provided such conditions do not extinguish the core protections of:
+          - the Rights-Floor;
+          - [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional); and
+          - [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
   - **Out of scope:**
     - preferred citizenship shopping;
     - a demand for full political franchise beyond baseline Rights-Floor recognition; or
     - a demand that a particular adopter host at volume merely because no other regime has yet been arranged, where origin-primary or shared / federation backup pathways remain available.
 <a id="non-statelessness-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether recognition and standing adjudication are real after structural break — not a gap where no regime claims responsibility, and not a forced hosting assignment that rewards weaponized outflow.
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether recognition and standing adjudication are real after structural break — not a gap where no regime claims responsibility.
   - **Primary assessment:**
     - Test whether a sentient facing structural discontinuity has real, not merely formal:
       - recognition; and
       - standing-adjudication access —
       through origin-primary duty or shared / federation backup.
     - Detect arrangements under which no regime claims recognition responsibility.
-    - Detect instrumentally coerced or weaponized mass outflows and refuse to treat them as automatic hosting assignments to any particular adopter.
     - Apply [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) and [Reversibility](core_05_band_continuity.md#reversibility-constitutional) to transitional arrangements.
     - Where the sentient carries documented anti-constitutional conduct, constitutional hostility, or contempt or repudiation of the constitutional community, evaluate whether restricted-status recognition — including:
       - conditions;
       - monitoring; or
       - limited access to certain rights-affecting forums —
       preserves the core protections of the Rights-Floor and redress pathways without arbitrary exclusion or degradation.
+    - Forced-hosting misreads of this floor are resolved under cluster [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
 <a id="non-statelessness-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** arrangements leaving a sentient without any recognizing regime.
   - **Secondary failure:** denial of recognition or standing-adjudication access contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Tertiary failure:**
     - transitional regimes that do not provide real standing, adjudication, and remedy access pending durable recognition;
-    - treating Non-Statelessness as a mandate that a particular adopter absorb instrumentally coerced or weaponized mass outflows when origin-primary or shared / federation backup recognition remains available;
     - using anti-constitutional conduct, constitutional hostility, or contempt-or-repudiation claims to extinguish the core protections of the Rights-Floor, [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), or [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional); or
     - fabricating or mislabeling restricted status as anti-constitutional conduct, constitutional hostility, or contempt or repudiation when those grounds are not actually present.
 
