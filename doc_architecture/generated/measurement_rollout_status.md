@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-08-06T04:33:34+00:00
+Generated: 2026-08-08T00:42:57+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **209/210** terms pass tier audit.
+Approved progress: **211/212** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -101,6 +101,7 @@ Approved progress: **209/210** terms pass tier audit.
 | Developing Sentient | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Dignity and Equal Moral Standing | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Educational Agency | approved | primary_secondary | cluster_member | `core_05_band_participation.md` | yes | pass |
+| Elevated Communicative Life | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Expression | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Family and Care Relationships | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Freedom (Bounded Agency) | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
@@ -132,6 +133,7 @@ Approved progress: **209/210** terms pass tier audit.
 | Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice) | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Stakeholder Rights-Collision Record (Binding Stakeholder Choice) | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Substantive Fairness | approved | full | cluster_member | `core_05_band_participation.md` | yes | pass |
+| Substrate Class | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Surveillance Boundary | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | System Creation | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Volitional Integrity | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |

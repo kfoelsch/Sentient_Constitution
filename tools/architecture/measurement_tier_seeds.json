@@ -168,6 +168,11 @@
       "tier_depth": "primary_secondary",
       "status": "approved"
     },
+    "Elevated Communicative Life": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
     "Privacy (Informational)": {
       "ch00_category": "3.4 Participation",
       "tier_depth": "full",
@@ -925,6 +930,11 @@
     },
     "Strategic Stewardship Obligation": {
       "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Substrate Class": {
+      "ch00_category": "3.4 Participation",
       "tier_depth": "primary_only",
       "status": "approved"
     },

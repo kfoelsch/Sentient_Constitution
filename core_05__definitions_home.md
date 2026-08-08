@@ -146,6 +146,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional)
 - [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity-constitutional)
 - [Educational Agency](core_05_band_participation.md#educational-agency)
+- [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional)
 - [Emergency and Contingency](core_05_band_continuity.md#emergency-and-contingency-constitutional)
 - [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice)
 - [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional)
