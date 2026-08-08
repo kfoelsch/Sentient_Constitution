@@ -37,6 +37,8 @@
 
 *In plain terms: Part B states Rights Floors for equal standing, education capability, self-ownership, likeness and data, agency, cooperation, and stakeholder participation — **Articles V through XI** in the planet-first reading order. Those floors protect **Flourishing** and **Continuity** under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and must remain available, reviewable, and enforceable through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — scaled to [material stake](core_00_preamble.md#material-stake).*
 
+**Naming note:** In this Part heading, **personhood** is framing language for equal standing and related floors — not a Def.P1 life-by-status tier and not a second who-counts taxonomy beside [Sentient](core_05_band_participation.md#sentient).
+
 **Part B** states Rights Floors for dignity and equal standing, sentient-centered education, self-ownership, likeness and experiential data, bounded agency, cooperative interaction, and stakeholder system participation. Those floors serve the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
 - **Flourishing:** personhood, education capability, agency, and fair participation remain accessible in practice.

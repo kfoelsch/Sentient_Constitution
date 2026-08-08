@@ -237,7 +237,8 @@ This section assigns forum-family **component roles** within **system alignment 
 
 - **Technical forums** — the technical piece:
   - Maintain and apply technical specifications, measurement methods, testing protocols, expert-evidence standards, uncertainty-reduction methods, and technical adequacy findings within their lawful scope;
-  - Supply **component findings** for the certification record, including class-scaled assurance and data-handling infrastructure findings under [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation).
+  - Supply **component findings** for the certification record, including class-scaled assurance and data-handling infrastructure findings under [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation);
+  - Hold the [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) component role — indicator evaluation, expert evidence, and bounded uncertainty — where certification materially implicates who counts as a **sentient** for rights, standing, or protection purposes, consistent with [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) and [Chapter Eleven §4.2](core_11-11_forum.md#42-technical-forum-domains) / [§5](core_11-11_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook) as default lead; refer Integrity, Institutional, or Constitutional special routes under that hook when Chapter Eleven so requires.
 - **Integrity forums** — default lead coordination:
   - Lead official constitutional alignment recognition and ongoing alignment validation unless Chapter Eleven assigns a different primary stake;
   - Use technical-forum standards where they materially apply;
@@ -245,9 +246,9 @@ This section assigns forum-family **component roles** within **system alignment 
 - **Environment forums** — environmental alignment when ecology matters:
   - Hold the environmental-alignment component role where material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk is present;
   - Include [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) attribution, disclosure, and comparison under [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) where attributable environmental burdens are material.
-- **Sentient forums** — sentience-status and non-institutional stakeholder questions:
-  - Hold the [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) component role where certification materially implicates who counts as a sentient for rights, standing, or protection purposes;
+- **Sentient forums** — non-institutional stakeholder questions:
   - Hold stakeholder-impact and community-obligation component roles only where Chapter Eleven primary-stakes routing keeps the matter in Sentient forums — typically sentient-to-sentient or community-governance questions where **no institution is a necessary party**;
+  - May assist or receive referral on affected-stakeholder participation where [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) runs under Technical default lead, but do **not** hold that adjudication component role as default;
   - Do **not** hold the default Rights Floor component role for system alignment when an institution, institutional operator, or institutional mandate is a necessary party or the primary stake; those questions route under **Institutional** below.
 - **Institutional forums** — institutional mandate and Rights Floor component questions when institutions are in the picture:
   - Hold component authority for institutional mandate, supervised scope, classification, and institutional-duty compliance where those stakes arise in certification;
@@ -307,10 +308,10 @@ The **supervisory sequence** is the step-by-step order in which forums supervise
 
 1. **Lead coordination.** An **Integrity** forum maintains one coordinated certification record for official constitutional alignment recognition, validation, revalidation, withdrawal, or non-recognition unless Chapter Eleven assigns a different lawful lead for the primary stake.
 2. **Component findings.** Technical, Environment, Institutional, Sentient, Constitutional, and other assigned forum families produce bounded component findings within their lawful merits authority:
-   - **Technical forums** supply specifications, methods, tests, and technical adequacy findings;
+   - **Technical forums** supply specifications, methods, tests, and technical adequacy findings — including [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) component findings where [§13](#13-forum-supervision-and-component-roles) assigns that stake;
    - **Environment forums** supply required environmental-alignment component findings where material ecological exposure exists — including [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) evaluation under [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) where attributable environmental burdens are material;
    - **Institutional forums** supply required institutional-mandate and Rights Floor component findings where [§13](#13-forum-supervision-and-component-roles) assigns those stakes;
-   - **Sentient forums** supply sentience-status and non-institutional stakeholder-impact findings where Chapter Eleven keeps those stakes in Sentient forums;
+   - **Sentient forums** supply non-institutional stakeholder-impact findings where Chapter Eleven keeps those stakes in Sentient forums;
    - **Constitutional** and other assigned forum families supply component findings for stakes Chapter Eleven assigns to them.
 3. **Referral, certification, and stay.** The lead forum must refer, certify, or [stay](core_05_band_accountability.md#stay) component questions that belong primarily in another forum family. It cannot call certification finished — or substantially lift conditions — while another forum family still has unfinished assigned work. That unfinished work includes a required finding, an objection, a remediation condition, or a certified question that must be resolved on time.
 4. **Record integration.** The lead forum integrates component findings into one certification record that states each component authority, finding, unresolved item, condition, and limit on reliance.
