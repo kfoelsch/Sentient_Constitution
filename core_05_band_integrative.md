@@ -508,15 +508,6 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
 *In plain terms: this cluster answers which text is binding, which source wins in a conflict, whether claimed duties can actually be checked and enforced, and — with the Preamble owner register — who owns which topic.*
 
-This cluster is the place where those questions must be answered together. It covers:
-
-- **which texts count as the official Constitution** — the adopted, versioned corpus, not drafts, notes, or unofficial copies;
-- **how authority ranks inside that corpus** — which chapters and layers control when topics overlap, including owner non-relocation and supremacy effect under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack);
-- **which source wins after a valid adoption** — binding obligations prevail within the scope that was actually adopted; and
-- **whether claimed duties can be checked and enforced in practice** — through [Auditability](core_05_band_oversight.md#auditability) and [Contestability](core_05_band_accountability.md#contestability), not claimed on paper alone.
-
-When any of those questions is in play, read the cluster members together rather than treating one as enough on its own.
-
 **Admission scope.** This cluster applies where a matter materially concerns:
 
 - which text is binding;
@@ -526,6 +517,15 @@ When any of those questions is in play, read the cluster members together rather
 - whether claimed obligations are enforceably grounded in the adopted corpus.
 
 If the matter is outside that list, [Corpus](core_05_band_integrative.md#corpus) and [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) may still be used on their own as supporting definitions. You do not have to pull in the whole cluster just because one of those terms appears.
+
+Where admission scope is met, this cluster is the place those questions must be answered together. It covers:
+
+- **which texts count as the official Constitution** — the adopted, versioned corpus, not drafts, notes, or unofficial copies;
+- **how authority ranks inside that corpus** — which chapters and layers control when topics overlap, including owner non-relocation and supremacy effect under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack);
+- **which source wins after a valid adoption** — binding obligations prevail within the scope that was actually adopted; and
+- **whether claimed duties can be checked and enforced in practice** — through [Auditability](core_05_band_oversight.md#auditability) and [Contestability](core_05_band_accountability.md#contestability), not claimed on paper alone.
+
+When any of those questions is in play, read the cluster members together rather than treating one as enough on its own.
 
 **Cluster members.** This cluster comprises:
 

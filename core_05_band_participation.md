@@ -2040,18 +2040,6 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 
 <br>
 
-This cluster is the joint-invocation home for **Animal Life**, **Elevated Communicative Life**, **Contested-Sentient Life**, **Sentient**, and **Sentience Status Adjudication**, and for constitutional sentience-status determinations and sentient subclass treatment. Those five life-by-status treatment definitions live in the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block. In this cluster title, **Sentient Life** is a cluster-name alias for the Tier 4 ladder term **[Sentient](core_05_band_participation.md#sentient)** — it is not a separate protection tier or parallel who-counts category. The cluster binds together:
-
-- the minimum cruelty / welfare floor;
-- the elevated communicative / habitat-priority floor above Animal Life;
-- the threshold-rights category for materially uncertain or contested sentience;
-- the base constitutional meaning of **sentient**;
-- substantive sentience-indicator evaluation and non-exclusion discipline;
-- the adjudication floor; and
-- the derived-sentient and developing-sentient subclass rules.
-
-It keeps welfare rules, species or category labels, subclass rules, and status decisions from being used alone in a way that would undercut the Chapter Six Rights Floor.
-
 **Admission scope.** This cluster applies whenever treatment of an entity turns on:
 
 - animal-life classification, welfare, cruelty, stewardship, or exploitation;
@@ -2078,6 +2066,18 @@ It also applies where any of the following is used to alter sentience recognitio
 - [Substrate Class](core_05_band_participation.md#substrate-class) — what the entity is made of or runs on, how it came to be, how it is built, or the form it inhabits.
 
 Outside that admission scope, individual sentience-related definitions may still operate as supporting Independent Definitions without importing adjudication mechanics.
+
+Where admission scope is met, this cluster is the joint-invocation home for **Animal Life**, **Elevated Communicative Life**, **Contested-Sentient Life**, **Sentient**, and **Sentience Status Adjudication**, and for constitutional sentience-status determinations and sentient subclass treatment. Those five life-by-status treatment definitions live in the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block. In this cluster title, **Sentient Life** is a cluster-name alias for the Tier 4 ladder term **[Sentient](core_05_band_participation.md#sentient)** — it is not a separate protection tier or parallel who-counts category. The cluster covers:
+
+- the minimum cruelty / welfare floor;
+- the elevated communicative / habitat-priority floor above Animal Life;
+- the threshold-rights category for materially uncertain or contested sentience;
+- the base constitutional meaning of **sentient**;
+- substantive sentience-indicator evaluation and non-exclusion discipline;
+- the adjudication floor; and
+- the derived-sentient and developing-sentient subclass rules.
+
+It keeps welfare rules, species or category labels, subclass rules, and status decisions from being used alone in a way that would undercut the Chapter Six Rights Floor.
 
 **Cluster members.** This cluster comprises:
 
@@ -2642,18 +2642,29 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Owner floor: [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice) (*Decision-resolution requirements for binding stakeholder choice*).
-- Read with: [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline); [Stakeholder Status, Emergency, and Participation Weight](core_05_band_participation.md#stakeholder-status-emergency-and-participation-weight-cluster), [Governance](core_05_band_accountability.md#governance), [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight), [Article XI](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*), [Article XXIV-B: Rights-Collision Procedure and Restorative Alignment](core_06-06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment), and [Chapter One §6.3](core_01_b_interaction_interpretation.md#63-rights-collision-procedure).
+- Read with: [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline); [Charter](core_05_band_continuity.md#charter); [Stakeholder Status, Emergency, and Participation Weight](core_05_band_participation.md#stakeholder-status-emergency-and-participation-weight-cluster), [Governance](core_05_band_accountability.md#governance), [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight), [Article XI](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*), [Article XXIV-B: Rights-Collision Procedure and Restorative Alignment](core_06-06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment), and [Chapter One §6.3](core_01_b_interaction_interpretation.md#63-rights-collision-procedure).
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
 - Cross-leg note: integrative with **Accountability** procedural integrity.
 - Chapter One basis: Chapter One §8.1, §3.4, §11.4, §8, §10 (see [Chapter Five compass](../core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
+- Implementation publication: institutional **CI-8.1** / **CI-8.2** files carry local process and weighting substance; [Charter](core_05_band_continuity.md#charter) / **CI-3.6** field 10 points to those files without absorbing them.
 
 </details>
 
 <br>
 
-This cluster is the canonical compound-definition home for binding stakeholder choice within the **Stakeholder System Participation** layer. It binds the decision-resolution sequence, stakeholder representation and participation-weight limits, and rights-collision record discipline into one functional requirement. It does not replace [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), equal-weight authorization rules under **Chapter Twelve Chapter One §8.1**, or emergency exception controls under [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice).
+*In plain terms: when people who are affected by a system disagree about a decision that will stick, there must be a published fair process — who gets a say, how much influence anyone may have, how the decision gets made and challenged, and how conflicts among rights get written down — not back-room power.*
 
-**Admission scope.** This cluster applies when material disagreement requires a binding stakeholder choice within an already-authorized system, institution, or bounded decision domain, especially where affected-party participation, representation, proportional influence, materially rights-affecting outcomes, or rights-collision records are at issue. Outside that admission scope, the component concepts may still inform owner-layer procedure without importing the whole compound requirement.
+**Admission scope.** This cluster applies when a real disagreement requires a binding stakeholder choice inside a system, institution, or decision domain that is already authorized — especially where who may take part, how they are represented, how much influence they get, rights-affecting outcomes, or rights-collision records are at issue. Outside that scope, the individual pieces may still guide procedure without pulling in the whole compound requirement.
+
+Where admission scope is met, this cluster is the place those rules live together inside the **Stakeholder System Participation** layer. It covers:
+
+- **how the decision gets made** — a published, transparent, auditable sequence for participation, representation, contest, and any proportional influence;
+- **who gets how much say** — published, bounded weighting by impact, dependency, standing, or similar factors, open to contest and revalidation; and
+- **what the record must show when rights collide** — the tension, alternatives, least-restrictive rationale, trade-offs, uncertainty treatment, and review or reversal triggers.
+
+It does not replace [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), equal-weight authorization rules under **Chapter Twelve Chapter One §8.1**, or emergency exception controls under [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice). When any of those stakeholder-choice questions is in play, read the cluster members together rather than treating one as enough on its own.
+
+**Charter relationship.** A governing [Charter](core_05_band_continuity.md#charter) states operated scope and, where this cluster's admission scope applies, **points to** the published process rules that satisfy this cluster. The Charter does not itself carry the decision sequence, weighting model, or rights-collision record. For institutions, those pointers ordinarily resolve to **CI-8.1** participation-window / decision-path materials and the **CI-8.2** weighting publication file (**CI-3.6** field 10). Dead pointers, or Charter text offered as a substitute for those rules, fail both the Charter duty and this cluster.
 
 **Cluster members.** This cluster comprises:
 
@@ -2662,7 +2673,11 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice);
 - [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice), as the governance owner floor for the compound requirement.
 
-**Anti-bypass.** A binding stakeholder-choice matter must not be segmented into separate deliberation, representation, weighting, record, or rights-collision issues in a way that satisfies one component while defeating the others. A published sequence without meaningful stakeholder representation, a weighting model without contest and revalidation, or a binding rights-affecting outcome without the required rights-collision record is non-compliant within the admission scope.
+**Anti-bypass.** Do not split a binding stakeholder-choice matter into separate deliberation, representation, weighting, record, or rights-collision pieces so that one box is checked while the others fail. Within the admission scope, none of these count as compliance on their own:
+
+- a published sequence without meaningful stakeholder representation;
+- a weighting model that cannot be contested or revalidated; or
+- a binding rights-affecting outcome without the required rights-collision record.
 
 See **Joint invocation and satisfaction**.
 
@@ -2748,9 +2763,9 @@ See **Joint invocation and satisfaction**.
 
 <br>
 
-This cluster is the joint-invocation home for self-determination, meaningful agency, expression, educational agency, and volitional integrity where those freedoms are materially interdependent under Chapter Eleven.
-
 **Admission scope.** This cluster applies where a matter materially concerns autonomy of thought, expression, education, volitional continuity, or manipulation-resistant agency. Outside that admission scope, individual entries such as [Self-Determination](core_05_band_participation.md#self-determination-constitutional) may operate alone.
+
+Where admission scope is met, this cluster is the joint-invocation home for self-determination, meaningful agency, expression, educational agency, and volitional integrity where those freedoms are materially interdependent under Chapter Eleven.
 
 **Cluster members.** This cluster comprises:
 
@@ -2910,14 +2925,6 @@ See **Joint invocation and satisfaction**.
 
 <br>
 
-This cluster is the joint-invocation home for developing-sentient status, best-interest decisions about developing sentients, and graduated capability in participation and rights-exercise. It binds together:
-
-- who counts as a developing sentient, with the full Rights Floor attached;
-- how decisions about them must track their own interests; and
-- how participation and rights-exercise scale with demonstrated capability — not calendar age.
-
-It prevents status, best-interest, and scaling framings from being separated in a way that narrows the Rights Floor or disenfranchises developing sentients.
-
 **Admission scope.** This cluster applies whenever treatment of a sentient turns on:
 
 - emerging capability profile or developing status;
@@ -2925,6 +2932,14 @@ It prevents status, best-interest, and scaling framings from being separated in 
 - scaling of participation or rights-exercise by demonstrated capability rather than age or instantiation-date proxies.
 
 Outside that admission scope, individual member definitions may still operate alone — for example, [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional) during early-instantiation windows under [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional).
+
+Where admission scope is met, this cluster is the joint-invocation home for developing-sentient status, best-interest decisions about developing sentients, and graduated capability in participation and rights-exercise. It covers:
+
+- who counts as a developing sentient, with the full Rights Floor attached;
+- how decisions about them must track their own interests; and
+- how participation and rights-exercise scale with demonstrated capability — not calendar age.
+
+It prevents status, best-interest, and scaling framings from being separated in a way that narrows the Rights Floor or disenfranchises developing sentients.
 
 **Cluster members.** This cluster comprises:
 

@@ -2413,16 +2413,16 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); scales with [material stake](core_00_preamble.md#material-stake).
-- Downstream: [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*certification record scope and reopening*); [Chapter Eleven §4.3](core_11-11_forum.md#43-institutional-forums) (*institutional mandate and supervised-scope disputes*); [corpus_institutions.md](corpus_institutions.md) **CI-3.6** (*Charter contents, review, and formation template*).
+- Downstream: [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*certification record scope and reopening*); [Chapter Eleven §4.3](core_11-11_forum.md#43-institutional-forums) (*institutional mandate and supervised-scope disputes*); [corpus_institutions.md](corpus_institutions.md) **CI-3.6** (*Charter contents, review, and formation template*); institutional publication of binding-governance and weighting rules under **CI-8.1** / **CI-8.2**.
 - Cluster component: [System boundaries, integrity, and exit](#system-boundaries-integrity-and-exit).
-- Read with: [System Boundaries](core_05_band_continuity.md#system-boundaries), [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional), [Governance](core_05_band_accountability.md#governance), [System Creation](core_05_band_participation.md#system-creation-constitutional), [Business Creation](core_05_band_participation.md#business-creation-constitutional), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack).
-- Distinguish: Chapter Twelve **treaty, compact, or charter** legitimacy-mechanism family ([core_12-12_governance.md](core_12-12_governance.md)) is about authorizing a political community to govern — not this published scope instrument.
+- Read with: [System Boundaries](core_05_band_continuity.md#system-boundaries), [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional), [Governance](core_05_band_accountability.md#governance), [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster), [System Creation](core_05_band_participation.md#system-creation-constitutional), [Business Creation](core_05_band_participation.md#business-creation-constitutional), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack).
+- Distinguish: Chapter Twelve **treaty, compact, or charter** legitimacy-mechanism family ([core_12-12_governance.md](core_12-12_governance.md)) is about authorizing a political community to govern — not this published scope instrument. A Charter may **point to** published [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster) process rules; it does not carry that process substance.
 
 </details>
 
 <br>
 
-*In plain terms: a **Charter** is the published statement of what a system, institution, or business is for and what it is allowed to do. Scope can change, but not silently — amendments and periodic review keep the paper matched to real behavior. A Charter is not a shield against impact-based classification or full-boundary evaluation.*
+*In plain terms: a **Charter** is the published statement of what a system, institution, or business is for and what it is allowed to do. Where binding stakeholder decisions will stick inside that scope, the Charter must point to the published process rules — it does not replace them. Scope can change, but not silently — amendments and periodic review keep the paper matched to real behavior. A Charter is not a shield against impact-based classification or full-boundary evaluation.*
 
 - **What it is**
   - **In scope:** The published, amendable scope instrument for a [System](core_05_band_continuity.md#system-definition), institution, business, or comparable stewarded organizational form. A Charter states:
@@ -2430,13 +2430,15 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - in-scope activities;
     - material out-of-scope limits;
     - affected communities or dependencies where material;
-    - amendment authority; and
-    - periodic-review cadence scaled to [material stake](core_00_preamble.md#material-stake) under [Proportionality](core_05_band_accountability.md#proportionality) and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance).
+    - amendment authority;
+    - periodic-review cadence scaled to [material stake](core_00_preamble.md#material-stake) under [Proportionality](core_05_band_accountability.md#proportionality) and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance); and
+    - where [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster) admission scope applies, **pointers** to the published decision-sequence, weighting, and rights-collision-record rules that carry that substance (for institutions, commonly the **CI-8.1** participation-window / decision-path materials and the **CI-8.2** weighting publication file).
 
     It supports institutional creation under [System Creation](core_05_band_participation.md#system-creation-constitutional) and [Business Creation](core_05_band_participation.md#business-creation-constitutional) by making operated scope reviewable without narrowing those floors. Adopt, amend, and supervise mechanics route to [corpus_institutions.md](corpus_institutions.md) under **Chapter Sixteen** incorporation discipline.
   - **Out of scope:**
-    - treaty, compact, or charter under Chapter Twelve that found or authorize a political community (Chapter Twelve instrument sense, not Chapter Five Charter); or
-    - ordinary marketing copy or mission slogans not offered as the published scope instrument.
+    - treaty, compact, or charter under Chapter Twelve that found or authorize a political community (Chapter Twelve instrument sense, not Chapter Five Charter);
+    - ordinary marketing copy or mission slogans not offered as the published scope instrument; or
+    - the operative [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster) decision sequence, weighting model, or rights-collision record duties themselves — those live in the published governance / participation rules the Charter points to, under [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
 <a id="charter-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -2445,15 +2447,16 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     1. a governing Charter exists where the entity is materially impactful, or an equivalent published scope instrument is identified and reasoned;
     2. stated purpose and in-scope / out-of-scope limits are specific enough to test against observed operation;
     3. periodic-review cadence and amendment records match class, dependency, and risk;
-    4. observed behavior, dependency, and impact remain within chartered scope — or material mismatch is disclosed and routed to amendment, recertification, or reopening; and
-    5. Charter claims do not understate [System Boundaries](core_05_band_continuity.md#system-boundaries) defined by [Material Impact](core_05_band_oversight.md#material-impact) and [Dependency](core_05_band_continuity.md#dependency).
+    4. observed behavior, dependency, and impact remain within chartered scope — or material mismatch is disclosed and routed to amendment, recertification, or reopening;
+    5. Charter claims do not understate [System Boundaries](core_05_band_continuity.md#system-boundaries) defined by [Material Impact](core_05_band_oversight.md#material-impact) and [Dependency](core_05_band_continuity.md#dependency); and
+    6. where binding stakeholder choice is in admission scope, the Charter points to usable published process rules rather than treating Charter text as a substitute for [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster).
 <a id="charter-c"></a>
 - **What must hold**
   - **Primary failure:**
     - operating materially outside chartered scope while the Charter is offered as current authorization; or
     - Charter text offered as a substitute for [System Boundaries](core_05_band_continuity.md#system-boundaries) or as proof of classification under CS-3;
-  - **Secondary failure:** overdue periodic charter review, silent scope expansion, or amendment without recorded authority;
-  - **Tertiary failure:** Charter text used to defeat [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), understate class, or narrow [System Creation](core_05_band_participation.md#system-creation-constitutional) / [Business Creation](core_05_band_participation.md#business-creation-constitutional) floors.
+  - **Secondary failure:** overdue periodic charter review, silent scope expansion, amendment without recorded authority, or — where Def.P2 admission scope applies — missing or dead pointers to the published binding stakeholder-choice process rules;
+  - **Tertiary failure:** Charter text used to defeat [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), understate class, narrow [System Creation](core_05_band_participation.md#system-creation-constitutional) / [Business Creation](core_05_band_participation.md#business-creation-constitutional) floors, or stand in for the Def.P2 decision sequence, weighting model, or rights-collision record.
 
 
 <a id="systemic-lock-in"></a>
@@ -2814,12 +2817,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 **Dependent cluster context** (joint invocation under admission scope):
 
-- **Scope:** the joint-invocation home for an integrated floor covering productive, contributed, or comparable activity, combining:
-  - **Article III-D** (*Labor and Economic Floor*) rights:
-    - **Fair Compensation**;
-    - **Safe Conditions**; and
-    - **Leisure and Rest**; and
-  - **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) disciplines where those duties are materially interdependent.
 - **Admission scope:** matters that materially implicate any of:
   - fair compensation;
   - safe productive-activity conditions;
@@ -2830,6 +2827,12 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - anti-displacement of creative and economic participation.
 
   Outside that scope, component definitions may operate as supporting Independent Definitions without importing the whole cluster.
+- **Scope:** where admission scope is met, the joint-invocation home for an integrated floor covering productive, contributed, or comparable activity, combining:
+  - **Article III-D** (*Labor and Economic Floor*) rights:
+    - **Fair Compensation**;
+    - **Safe Conditions**; and
+    - **Leisure and Rest**; and
+  - **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) disciplines where those duties are materially interdependent.
 - **Anti-bypass:** a matter within admission scope must not be segmented into any of the following in a way that satisfies one component while defeating materially interdependent duties under **Article III-D** and **Article VIII-D**:
   - compensation;
   - organization;
@@ -3312,17 +3315,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 **Dependent cluster context** (joint invocation under admission scope):
 
-- **Scope:** the joint-invocation home for principle-layer stewardship and capacity discipline where any of the following are materially interdependent:
-  - stewardship orientation;
-  - [Distributed Understanding](core_05_band_continuity.md#distributed-understanding-constitutional);
-  - [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional);
-  - [Short-Horizon Governance Defect](core_05_band_continuity.md#short-horizon-governance-defect-constitutional);
-  - [Stewardship Defect](core_05_band_continuity.md#stewardship-defect-constitutional);
-  - [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional); and
-  - capacity claims implicating:
-    - long- versus short-horizon tradeoffs;
-    - incentive structure; or
-    - capacity assertions.
 - **Admission scope:** matters that materially implicate any of:
   - principle-layer ordering (stewardship → governance → capacity);
   - institutional or systemic stewardship duties;
@@ -3336,6 +3328,17 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - long- versus short-horizon constitutional alignment.
 
   Outside that scope, [Governance](core_05_band_accountability.md#governance), [Shared-System Capacity](core_05_band_continuity.md#shared-system-capacity-constitutional), or [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional) may operate alone.
+- **Scope:** where admission scope is met, the joint-invocation home for principle-layer stewardship and capacity discipline where any of the following are materially interdependent:
+  - stewardship orientation;
+  - [Distributed Understanding](core_05_band_continuity.md#distributed-understanding-constitutional);
+  - [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional);
+  - [Short-Horizon Governance Defect](core_05_band_continuity.md#short-horizon-governance-defect-constitutional);
+  - [Stewardship Defect](core_05_band_continuity.md#stewardship-defect-constitutional);
+  - [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional); and
+  - capacity claims implicating:
+    - long- versus short-horizon tradeoffs;
+    - incentive structure; or
+    - capacity assertions.
 - **Anti-bypass:** when a matter falls within admission scope, splitting it into any of the following does not count as compliance if that split only looks compliant on paper, hides stewardship failures, or undercuts stewardship discipline, distributed understanding, or lasting constitutional alignment:
   - governance-form;
   - capacity-metric;
@@ -3692,8 +3695,8 @@ See **Joint invocation and satisfaction**.
 
 **Dependent cluster context** (joint invocation under admission scope):
 
-- **Scope:** the canonical O/M/A/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles under [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
 - **Admission scope:** privacy matters that materially implicate more than one article-level locus in the members list, or where informational handling, internal-state protection, or surveillance-boundary analysis is materially interdependent. Outside that scope, individual definitions may operate alone.
+- **Scope:** where admission scope is met, the canonical O/M/A/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles under [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
 - **Operational alignment:** data handling must align with **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, including Type N protections for internal-state data and proportional safeguards for all CS-2 data types.
 - **Anti-bypass:** privacy matters within admission scope must not be segmented across articles or definitions to satisfy one article's standard while evading another's materially implicated discipline, or to isolate privacy analysis from internal-state-boundary or surveillance-boundary assessment where those protections materially intersect. Anti-read-across for standard-setting remains as stated under **Def.C3**.
 
@@ -3901,7 +3904,13 @@ See **Joint invocation and satisfaction**.
 
 **Dependent cluster context** (joint invocation under admission scope):
 
-- **Scope:** the canonical O/M/A/C home for:
+- **Admission scope:** matters that materially implicate any of:
+  - whether reliance is justified;
+  - whether system behavior relative to stated properties supports that reliance; or
+  - whether trust and trustworthiness requirements must be evaluated together.
+
+  Outside that scope, supporting definitions in other clusters may apply without importing this cluster's full joint-invocation discipline.
+- **Scope:** where admission scope is met, the canonical O/M/A/C home for:
   - **Trust**;
   - **Trustworthiness**; and
   - **Trust Degradation and Misleading Reliance** —
@@ -3911,12 +3920,6 @@ See **Joint invocation and satisfaction**.
   - limits;
   - uncertainty treatment; and
   - means of verification.
-- **Admission scope:** matters that materially implicate any of:
-  - whether reliance is justified;
-  - whether system behavior relative to stated properties supports that reliance; or
-  - whether trust and trustworthiness requirements must be evaluated together.
-
-  Outside that scope, supporting definitions in other clusters may apply without importing this cluster's full joint-invocation discipline.
 - **Anti-bypass:** a matter within admission scope must not be segmented into trust-only or trustworthiness-only frames that:
   - treat reliance as justified without the joint observable-and-verifiable evidence discipline both entries require; or
   - satisfy one [Trustworthiness](core_05_band_continuity.md#trustworthiness) assessment subcomponent while bypassing another where materially relevant.

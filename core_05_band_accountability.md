@@ -1301,15 +1301,6 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 <br>
 
-This cluster is the joint-invocation home for:
-
-- [Harm](core_05_band_accountability.md#harm), as the general degradation concept;
-- [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary), as the defined limit on freedom of action: the point where one sentient's, collective's, or system's freedom of action must yield to verifiable harm affecting another sentient's protected interests or constitutionally protected shared conditions;
-- [Cruelty](core_05_band_accountability.md#cruelty), as the conduct-character construct for suffering inflicted as an end in itself or beyond necessity and proportionality; and
-- [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying), as the patterned-conduct construct for unwanted conduct that materially degrades protected conditions in associational, institutional, dependency, and comparable cooperative settings.
-
-These definitions do different jobs, but they must be considered together when needed. When conduct harms others — whether directly, indirectly, over time, through accumulated effects, across systems, or at a collective level — the harm analysis must also ask whether the conduct crosses the [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary) and, where relevant, whether it amounts to [Cruelty](core_05_band_accountability.md#cruelty), harassment, or bullying.
-
 **Admission scope.** This cluster applies where a matter materially concerns:
 
 - harmful effects or claimed harmlessness;
@@ -1321,6 +1312,15 @@ These definitions do different jobs, but they must be considered together when n
 - the point at which protected action must be limited, contained, remediated, or redirected because it materially affects another sentient's protected interests or constitutionally protected shared conditions.
 
 Outside that admission scope, component definitions may still operate as supporting Independent Definitions without importing the whole cluster.
+
+Where admission scope is met, this cluster is the joint-invocation home for:
+
+- [Harm](core_05_band_accountability.md#harm), as the general degradation concept;
+- [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary), as the defined limit on freedom of action: the point where one sentient's, collective's, or system's freedom of action must yield to verifiable harm affecting another sentient's protected interests or constitutionally protected shared conditions;
+- [Cruelty](core_05_band_accountability.md#cruelty), as the conduct-character construct for suffering inflicted as an end in itself or beyond necessity and proportionality; and
+- [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying), as the patterned-conduct construct for unwanted conduct that materially degrades protected conditions in associational, institutional, dependency, and comparable cooperative settings.
+
+These definitions do different jobs, but they must be considered together when needed. When conduct harms others — whether directly, indirectly, over time, through accumulated effects, across systems, or at a collective level — the harm analysis must also ask whether the conduct crosses the [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary) and, where relevant, whether it amounts to [Cruelty](core_05_band_accountability.md#cruelty), harassment, or bullying.
 
 **Cluster members.** This cluster comprises:
 
@@ -1588,8 +1588,6 @@ The following limits also apply:
 <br>
 
 
-This cluster brings together the six constitutional forum families and the Chapter Eleven rules for deciding where a case should go based on what is mainly at stake. It must also be read with the adjudication and dispute-resolution rules when deciding venue, formally referring a question, or coordinating across forum families.
-
 **Admission scope.** This cluster applies when a matter raises important questions about:
 
 - the default venue;
@@ -1599,6 +1597,8 @@ This cluster brings together the six constitutional forum families and the Chapt
 - which forum family’s intake rules and rules for deciding the substance of the case apply.
 
 Outside that scope, an individual forum-family entry may still be used as a supporting Independent Definition without applying the entire cluster.
+
+Where admission scope is met, this cluster brings together the six constitutional forum families and the Chapter Eleven rules for deciding where a case should go based on what is mainly at stake. It must also be read with the adjudication and dispute-resolution rules when deciding venue, formally referring a question, or coordinating across forum families.
 
 **Cluster members.** This cluster comprises:
 
@@ -1945,14 +1945,6 @@ See **Joint invocation and satisfaction**.
 <br>
 
 
-This cluster is the shared home for the Chapter Five definitions that feed the Chapters Eight through Ten standing pipeline. It covers:
-
-- verified inputs for standing;
-- contribution nature and violation nature;
-- standing records and standing effects;
-- standing locks; and
-- Chapter Ten designation-review vocabulary.
-
 **Admission scope.** This cluster applies when a matter raises important questions about:
 
 - inputs used to measure standing;
@@ -1963,6 +1955,14 @@ This cluster is the shared home for the Chapter Five definitions that feed the C
 - how the nature of a violation, and how process and response are characterized, interact with forum routing and remedies.
 
 Outside that scope, an individual Chapter Eight through Chapter Ten hook may still be cited without applying the entire cluster.
+
+Where admission scope is met, this cluster is the shared home for the Chapter Five definitions that feed the Chapters Eight through Ten standing pipeline. It covers:
+
+- verified inputs for standing;
+- contribution nature and violation nature;
+- standing records and standing effects;
+- standing locks; and
+- Chapter Ten designation-review vocabulary.
 
 **Cluster members.** This cluster comprises:
 
@@ -2678,8 +2678,6 @@ See **Joint invocation and satisfaction**.
 <br>
 
 
-This cluster is the joint-invocation home for overt force, weapons of mass harm, autonomous lethal and coercion systems, and combatant / non-combatant discipline under **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) and **Article XIII-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*), including adjacent existential-risk, reversibility, and redress interfaces where those are materially interdependent.
-
 **Admission scope.** This cluster applies where a matter materially concerns:
 
 - overt force deployment or targeting discipline;
@@ -2687,6 +2685,8 @@ This cluster is the joint-invocation home for overt force, weapons of mass harm,
 - autonomous lethal or coercive systems (including coercion pathways that intersect those tools).
 
 Outside that admission scope, individual definitions may operate as supporting Independent Definitions without importing the whole cluster.
+
+Where admission scope is met, this cluster is the joint-invocation home for overt force, weapons of mass harm, autonomous lethal and coercion systems, and combatant / non-combatant discipline under **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) and **Article XIII-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*), including adjacent existential-risk, reversibility, and redress interfaces where those are materially interdependent.
 
 **Cluster members.** This cluster comprises:
 

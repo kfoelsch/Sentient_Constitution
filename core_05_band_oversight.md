@@ -625,10 +625,6 @@ Implication can exist without misalignment. Misalignment always implies material
 <br>
 
 
-This cluster is the joint home for disclosure, audit, verification (including external detectability), and assurance depth when Chapters Two through Four require traceable, challengeable evidence of what a system does and whether compliance claims hold.
-
-**Oversight frame.** Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XV** (*Audit, Transparency, and Independent Verification*). [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
-
 **Admission scope.** This cluster applies when the matter materially concerns:
 - transparency of decision-relevant behavior;
 - disclosure of evaluated systemic risk to those who need it;
@@ -639,6 +635,10 @@ This cluster is the joint home for disclosure, audit, verification (including ex
 - independent verification; or
 - whether verification is accessible and independent under scaled or adversarial conditions.
 Outside that scope, individual entries may still apply on their own without importing the whole cluster.
+
+Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), and assurance depth when Chapters Two through Four require traceable, challengeable evidence of what a system does and whether compliance claims hold.
+
+**Oversight frame.** Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XV** (*Audit, Transparency, and Independent Verification*). [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **System class and proportionality.** Transparency, auditability, and verification duties scale with system class under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, and with material impact, dependency, and risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), including:
 - deeper assurance;
@@ -1124,8 +1124,6 @@ See **Joint invocation and satisfaction**.
 <br>
 
 
-This cluster is the home for honest representation of decision-relevant facts and limits, together with honest methods for evidence, uncertainty, disclosure, and challenge. Checking a disclosure or publication box alone is not enough when methods, uncertainty treatment, or foreseeable-condition analysis still fail.
-
 **Admission scope.** This cluster applies when the matter materially concerns:
 - truthful status representation;
 - materially misleading communication;
@@ -1137,6 +1135,8 @@ This cluster is the home for honest representation of decision-relevant facts an
 - adversarial or scaled misuse contexts; or
 - splitting truth and integrity duties across disclosure, audit, verification, or publication pathways.
 Outside that scope, component definitions may still apply on their own without importing the whole cluster.
+
+Where admission scope is met, this cluster is the home for honest representation of decision-relevant facts and limits, together with honest methods for evidence, uncertainty, disclosure, and challenge. Checking a disclosure or publication box alone is not enough when methods, uncertainty treatment, or foreseeable-condition analysis still fail.
 
 **Cluster members.** This cluster comprises:
 
@@ -1363,8 +1363,6 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 <br>
 
 
-This nested sub-block is the joint home for foreseeability mechanics within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([Chapter Two, §3 — Consistency Across the Definition Stack](core_02-03_definition_mechanics.md#3-consistency-across-the-definition-stack)).
-
 **Admission scope.** This sub-block applies when the matter materially concerns:
 - whether the following were reasonably identifiable before action:
   - outcomes;
@@ -1376,6 +1374,8 @@ This nested sub-block is the joint home for foreseeability mechanics within Def.
 - whether analysis depth, scope, and scaling match [Material Impact](core_05_band_oversight.md#material-impact), [Material Risk](core_05_band_oversight.md#material-risk), [Risk](core_05_band_continuity.md#risk), and [Dependency](core_05_band_continuity.md#dependency); or
 - whether evaluation was incomplete in a way that defeats [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Risk](core_05_band_continuity.md#risk) assessment, or [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence).
 Outside that scope, individual entries may still apply on their own without importing the full compound.
+
+Where admission scope is met, this nested sub-block is the joint home for foreseeability mechanics within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([Chapter Two, §3 — Consistency Across the Definition Stack](core_02-03_definition_mechanics.md#3-consistency-across-the-definition-stack)).
 
 **Sub-block members.** This sub-block comprises:
 

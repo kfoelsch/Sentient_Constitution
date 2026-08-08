@@ -50,7 +50,7 @@ Apply **CJS-5.8** **Institutional participation and pathway accessibility floor*
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-8.1: Stakeholder oversight, notification, and binding-governance pathway integrity**.
-- Read with: **CI-8.1**.
+- Read with: **CI-8.1**; **CI-3.6** (*Charter process pointers*); [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#binding-stakeholder-choice-cluster); [Charter](../core_05_band_continuity.md#charter).
 
 </details>
 
@@ -64,6 +64,8 @@ Apply **CJS-5.8** **Institutional participation and pathway accessibility floor*
 - [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
 - [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
+- [Charter](../core_05_band_continuity.md#charter) · [O](../core_05_band_continuity.md#charter) · [M](../core_05_band_continuity.md#charter-a) · [A](../core_05_band_continuity.md#charter-a) · [C](../core_05_band_continuity.md#charter-c)
+- [Binding Stakeholder Choice](../core_05_band_participation.md#binding-stakeholder-choice-cluster)
 
 </details>
 
@@ -79,14 +81,17 @@ Apply **CJS-5.7** **Stakeholder oversight and binding-governance pathway integri
 - published **decision-path** material explaining whether input is advisory, binding, or otherwise relied on for governance effect; and
 - the escalation route when notice, participation, or reconstruction duties fail — including **CI-12** where local review is conflicted or unavailable.
 
+Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#binding-stakeholder-choice-cluster) admission scope applies, the governing [Charter](../core_05_band_continuity.md#charter) must point to these materials under **CI-3.6** field 10. The Charter points; this file and related Def.P2-compliant rules carry the substance.
+
 **What the local participation-window file must name**
 
 - affected-class criteria and coverage gaps disclosed before binding action;
 - participation or review rights that follow from identified stakeholder status;
 - challenge and correction paths, including protected escalation and anti-retaliation routing under **CI-8**;
 - records of submissions, reasons, dissent, and alternative proposals where high-impact choice is implicated;
-- privacy or security limits on publication, with redaction rules that do not destroy reconstructability; and
-- transition, adaptation, downgrade, transfer, or exit implications created by the decision.
+- privacy or security limits on publication, with redaction rules that do not destroy reconstructability;
+- transition, adaptation, downgrade, transfer, or exit implications created by the decision; and
+- the Charter version that currently points to this file where Def.P2 admission scope applies.
 
 ### CI-8.2: Anti-concentration and participation-legitimacy safeguards
 <details>
@@ -94,7 +99,7 @@ Apply **CJS-5.7** **Stakeholder oversight and binding-governance pathway integri
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-8.2: Anti-concentration and participation-legitimacy safeguards**.
-- Read with: **CI-8.2**; **CI-12**.
+- Read with: **CI-8.2**; **CI-12**; **CI-3.6** (*Charter process pointers*); [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#binding-stakeholder-choice-cluster); [Charter](../core_05_band_continuity.md#charter); [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](../core_05_band_participation.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice).
 
 </details>
 
@@ -108,6 +113,8 @@ Apply **CJS-5.7** **Stakeholder oversight and binding-governance pathway integri
 - [Stakeholder Participation Weight](../core_05_band_participation.md#stakeholder-participation-weight) · [O](../core_05_band_participation.md#stakeholder-participation-weight) · [M](../core_05_band_participation.md#stakeholder-participation-weight-a) · [A](../core_05_band_participation.md#stakeholder-participation-weight-a) · [C](../core_05_band_participation.md#stakeholder-participation-weight-c)
 - [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
+- [Charter](../core_05_band_continuity.md#charter) · [O](../core_05_band_continuity.md#charter) · [M](../core_05_band_continuity.md#charter-a) · [A](../core_05_band_continuity.md#charter-a) · [C](../core_05_band_continuity.md#charter-c)
+- [Binding Stakeholder Choice](../core_05_band_participation.md#binding-stakeholder-choice-cluster)
 
 </details>
 
@@ -123,13 +130,16 @@ Apply **CJS-5.11** **Anti-concentration guardrails and trigger mitigation** and 
 - a **remediation trigger** and response path when thresholds are crossed or credibly approached; and
 - the **CI-12** escalation route when local remediation stalls, is captured, or cannot act independently.
 
+Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#binding-stakeholder-choice-cluster) admission scope applies, the governing [Charter](../core_05_band_continuity.md#charter) must point to the weighting publication file under **CI-3.6** field 10. The Charter points; this file carries the weighting substance under [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](../core_05_band_participation.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice).
+
 **What the local weighting publication file must name**
 
 - factors, anti-dominance limits, and revalidation cadence for each weighted participation rule in scope;
 - affected-class coverage and how representation gaps are recorded before binding action;
 - dissent, alternative, and reopening records where high-impact collective choice is implicated;
-- remediation actions taken, completion status, and escalation records; and
-- linkage to stakeholder-notice and binding-pathway duties under **CI-8.1** where weighting affects materially binding governance.
+- remediation actions taken, completion status, and escalation records;
+- linkage to stakeholder-notice and binding-pathway duties under **CI-8.1** where weighting affects materially binding governance; and
+- the Charter version that currently points to this file where Def.P2 admission scope applies.
 
 ### CI-8.3: Digital self-service pathway integrity
 <details>
