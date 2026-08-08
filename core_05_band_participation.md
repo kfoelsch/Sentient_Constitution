@@ -2031,7 +2031,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Owner floor: [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) for materially uncertain, disputed, contested, narrowed, revoked, or restored sentience status. [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) carries the environmental-interface pointer and does not narrow that floor.
-- Nested sub-block: [*Sentient Status Treatment*](core_05_band_participation.md#sentient-status-treatment-subgroup).
+- Nested sub-block: [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup).
 - Read with: [Animal Life](core_05_band_participation.md#animal-life-constitutional), [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Sentient](core_05_band_participation.md#sentient), [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional), [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Substrate Class](core_05_band_participation.md#substrate-class), [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Reversibility](core_05_band_continuity.md#reversibility-constitutional), [Contestability](core_05_band_accountability.md#contestability), [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [System Capture](core_05_band_continuity.md#system-capture), and the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) entry.
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: Chapter One §8.1, §4, §10 (see [Chapter Five compass](../core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
@@ -2040,7 +2040,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 
 <br>
 
-This cluster is the joint-invocation home for **Animal Life**, **Elevated Communicative Life**, **Contested-Sentient Life**, **Sentient**, and **Sentience Status Adjudication**, and for constitutional sentience-status determinations and sentient subclass treatment. Those five status-treatment definitions live in the [*Sentient Status Treatment*](core_05_band_participation.md#sentient-status-treatment-subgroup) nested sub-block. The cluster binds together:
+This cluster is the joint-invocation home for **Animal Life**, **Elevated Communicative Life**, **Contested-Sentient Life**, **Sentient**, and **Sentience Status Adjudication**, and for constitutional sentience-status determinations and sentient subclass treatment. Those five life-by-status treatment definitions live in the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block. The cluster binds together:
 
 - the minimum cruelty / welfare floor;
 - the elevated communicative / habitat-priority floor above Animal Life;
@@ -2097,9 +2097,33 @@ Outside that admission scope, individual sentience-related definitions may still
   - revoked; or
   - restored.
 
-[Substrate Class](core_05_band_participation.md#substrate-class) and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) are cluster-level constraints. [Animal Life](core_05_band_participation.md#animal-life-constitutional), [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), and [Sentient](core_05_band_participation.md#sentient) are housed in the [*Sentient Status Treatment*](core_05_band_participation.md#sentient-status-treatment-subgroup) nested sub-block (protection tiers: Animal Life ⊂ Elevated Communicative Life ⊂ Contested-Sentient Life ⊂ Sentient; adjudication process beside the ladder).
+[Substrate Class](core_05_band_participation.md#substrate-class) and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) are cluster-level constraints. [Animal Life](core_05_band_participation.md#animal-life-constitutional), [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), and [Sentient](core_05_band_participation.md#sentient) are housed in the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block (protection tiers: Animal Life ⊂ Elevated Communicative Life ⊂ Contested-Sentient Life ⊂ Sentient; adjudication process beside the ladder).
 
-**Status-treatment routing.** Protection tiers nest: [Animal Life](core_05_band_participation.md#animal-life-constitutional) ⊂ [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) ⊂ [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) ⊂ [Sentient](core_05_band_participation.md#sentient) — each higher tier includes the former's protections; [Animal Life](core_05_band_participation.md#animal-life-constitutional) remains the base floor even when higher tiers apply. [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) is the stable communicative / habitat-priority floor above Animal Life where strong communicative or cognitive indicators are present without full Chapter Six attachment. [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) and [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) govern while status is uncertain, disputed, or under adjudication. Once that question is closed, affirmed sentience sits under [Sentient](core_05_band_participation.md#sentient) and the Chapter Six Rights-Floor; elevated communicative cases with no live contested-status question sit under [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional); welfare-floor-only cases with no elevated-communicative or contested-status question sit under [Animal Life](core_05_band_participation.md#animal-life-constitutional).
+**Anti-bypass.** A sentience-status matter within the admission scope must not be segmented into separate:
+- indicator;
+- taxonomy;
+- origin;
+- derivation;
+- development;
+- capability;
+- classification;
+- adjudication;
+- standing; or
+- Rights-Floor
+questions in a way that withholds, narrows, or revokes protection while avoiding the full sentience-status discipline.
+
+Satisfying any of the following alone is not sufficient where material uncertainty, dispute, contestation, or narrowing requires [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) and the **Article V-E** (*Sentience-Status Adjudication Floor*) default-inclusion rule:
+- nominal indicator review;
+- internal classification;
+- parent-system labeling;
+- age or instantiation-date proxying; or
+- welfare-only treatment.
+
+Derived or developing status may specify additional safeguards; it must not:
+- narrow who counts as a sentient; or
+- reduce the Chapter Six Rights Floor.
+
+See **Joint invocation and satisfaction**.
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
@@ -2212,13 +2236,13 @@ Outside that admission scope, individual sentience-related definitions may still
 
 ---
 
-<a id="sentient-status-treatment-subgroup"></a>
+<a id="treatment-of-life-by-status-subgroup"></a>
 
-##### Sentient Status Treatment
+##### Treatment of Life by Status
 
-This nested sub-block is the joint home for **Animal Life**, **Elevated Communicative Life**, **Contested-Sentient Life**, **Sentience Status Adjudication**, and **Sentient** status-treatment definitions within [Def.P1 *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) — not a separate Def.P cluster.
+This nested sub-block is the joint home for **Animal Life**, **Elevated Communicative Life**, **Contested-Sentient Life**, **Sentience Status Adjudication**, and **Sentient** life-by-status treatment definitions within [Def.P1 *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) — not a separate Def.P cluster.
 
-**Protection tiers.** Status-treatment protections nest as [Animal Life](core_05_band_participation.md#animal-life-constitutional) ⊂ [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) ⊂ [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) ⊂ [Sentient](core_05_band_participation.md#sentient): each higher tier includes the former's protections. [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) is the status process beside the ladder — determine, revise, narrow, or restore — not itself a protection tier.
+**Protection tiers.** Life-by-status protections nest as [Animal Life](core_05_band_participation.md#animal-life-constitutional) ⊂ [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) ⊂ [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) ⊂ [Sentient](core_05_band_participation.md#sentient): each higher tier includes the former's protections. [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) is the status process beside the ladder — determine, revise, narrow, or restore — not itself a protection tier.
 
 **Sub-block members** (read in order for routing):
 
@@ -2239,7 +2263,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [*Sentient Status Treatment*](core_05_band_participation.md#sentient-status-treatment-subgroup) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
+- Cluster component: [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
 - Owner floor: [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) for the cruelty / welfare floor pointer; live contested status routes through [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
 - Read with: [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Sentient](core_05_band_participation.md#sentient), [Cruelty](core_05_band_accountability.md#cruelty), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Substrate Class](core_05_band_participation.md#substrate-class), and [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing).
 
@@ -2250,7 +2274,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 *In plain terms: a minimum [Cruelty](core_05_band_accountability.md#cruelty) and welfare floor — between natural-systems standing and full Rights-Floor treatment — that cannot be closed by taxonomy labels or [Substrate Class](core_05_band_participation.md#substrate-class). **Animal Life** names this floor; it is not a species-only admission test.*
 
 - **What it is**
-  - **Protection tier:** Tier 1 (base) of the [*Sentient Status Treatment*](core_05_band_participation.md#sentient-status-treatment-subgroup) protection ladder. Higher tiers include this floor; they do not displace it.
+  - **Protection tier:** Tier 1 (base) of the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) protection ladder. Higher tiers include this floor; they do not displace it.
   - **In scope — floor:** Animal Life establishes a minimum [Cruelty](core_05_band_accountability.md#cruelty) / welfare floor between:
     - [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing); and
     - the Chapter Six Rights-Floor.
@@ -2298,7 +2322,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [*Sentient Status Treatment*](core_05_band_participation.md#sentient-status-treatment-subgroup) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
+- Cluster component: [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
 - Owner floor: [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) for the elevated habitat / environmental-health priority pointer; live contested status routes through [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
 - Read with: [Animal Life](core_05_band_participation.md#animal-life-constitutional), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Sentient](core_05_band_participation.md#sentient), [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), and [Substrate Class](core_05_band_participation.md#substrate-class).
 
@@ -2309,7 +2333,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 *In plain terms: a stable protection tier above the Animal Life cruelty / welfare floor for entities with strong communicative or cognitive indicators — including complex shared language systems such as those observed in whales and orcas — that raises the priority of keeping their habitat or operating environment healthy. It does not by itself attach the full Chapter Six Rights Floor. Colloquial labels such as "semi-sentient" do not replace this entry.*
 
 - **What it is**
-  - **Protection tier:** Tier 2 of the [*Sentient Status Treatment*](core_05_band_participation.md#sentient-status-treatment-subgroup) protection ladder. It **includes** [Animal Life](core_05_band_participation.md#animal-life-constitutional)'s cruelty / welfare floor and adds heightened habitat and environmental-health priority.
+  - **Protection tier:** Tier 2 of the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) protection ladder. It **includes** [Animal Life](core_05_band_participation.md#animal-life-constitutional)'s cruelty / welfare floor and adds heightened habitat and environmental-health priority.
   - **In scope — who:** Entities under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) on [substrate-agnostic](core_05_band_participation.md#substrate-agnostic) terms where the record shows strong communicative or cognitive indicators materially above the ordinary Animal Life welfare floor, including any of:
     - complex shared language, signaling, or communication systems;
     - high-complexity learning, memory, preference, or social-agency indicators; or
@@ -2362,7 +2386,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [*Sentient Status Treatment*](core_05_band_participation.md#sentient-status-treatment-subgroup) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
+- Cluster component: [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
 - Owner floor: [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
 - Read with: [Animal Life](core_05_band_participation.md#animal-life-constitutional), [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Sentient](core_05_band_participation.md#sentient), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), and [Substrate Class](core_05_band_participation.md#substrate-class).
 
@@ -2373,7 +2397,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 *In plain terms: when sentience status is uncertain or disputed, treat the entity as a threshold-rights case with default inclusion — not as a welfare-only or permanent non-sentient label. Contested-Sentient Life includes the Elevated Communicative Life and Animal Life floors for every contested entity.*
 
 - **What it is**
-  - **Protection tier:** Tier 3 of the [*Sentient Status Treatment*](core_05_band_participation.md#sentient-status-treatment-subgroup) protection ladder. It **includes** [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) (and thus [Animal Life](core_05_band_participation.md#animal-life-constitutional)'s cruelty / welfare floor) for every contested entity — not only animals — and adds threshold-rights treatment under uncertainty.
+  - **Protection tier:** Tier 3 of the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) protection ladder. It **includes** [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) (and thus [Animal Life](core_05_band_participation.md#animal-life-constitutional)'s cruelty / welfare floor) for every contested entity — not only animals — and adds threshold-rights treatment under uncertainty.
   - **In scope — who:** Entities whose sentience status is:
     - uncertain;
     - disputed;
@@ -2447,113 +2471,17 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
       - ecological management
       to avoid [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional);
     - exclusion from default inclusion or adjudication contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
+    - ignoring credible or ambiguous uncertainty in a way that defeats:
+      - [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); or
+      - [Irreversible Harm](core_05_band_accountability.md#irreversible-harm) precaution;
     - delaying, fragmenting, or making non-reviewable the adjudication needed to resolve contested sentience.
-
----
-
-<a id="sentience-status-adjudication-constitutional"></a>
-
-##### Sentience Status Adjudication
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Owner floor: [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
-- Cluster component: [*Sentient Status Treatment*](core_05_band_participation.md#sentient-status-treatment-subgroup) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
-- Read with: [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Substrate Class](core_05_band_participation.md#substrate-class), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Chapter Eleven](core_11-11_forum.md), and [Chapter Sixteen](core_16-16_incorporation.md) incorporated implementation text.
-
-</details>
-
-<br>
-
-*In plain terms: the reviewable process that decides, revises, narrows, or restores whether an entity is a sentient for the Chapter Six Rights Floor — with default inclusion under uncertainty and burden on anyone seeking to withhold protection.*
-
-- **What it is**
-  - **In scope — process:** The reviewable process by which an entity's sentience status — whether the entity is a sentient for the purposes of the Chapter Six Rights Floor — is:
-    - determined;
-    - revised;
-    - narrowed; or
-    - restored.
-  - **In scope — agnosticism:** It runs under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) and does not turn on:
-    - [Substrate Class](core_05_band_participation.md#substrate-class); or
-    - adopter convenience.
-  - **In scope — elements:** It includes:
-    - threshold admission of candidates into adjudication;
-    - the default-inclusion rule under material uncertainty;
-    - the burden and standard of demonstration for withholding or narrowing;
-    - time-bounding of any narrowing determination;
-    - mandatory periodic review; and
-    - reversibility of wrongful determinations with Redress and Remediation for the interim period.
-  - **Boundary — operations:** Operational procedure — including:
-    - institutional design;
-    - appointment mechanics;
-    - filing conditions; and
-    - sequencing —
-    routes through [Chapter Eleven](core_11-11_forum.md) and [Chapter Sixteen](core_16-16_incorporation.md)-incorporated implementation text and must not narrow this entry.
-  - **Out of scope:**
-    - [Animal Life](core_05_band_participation.md#animal-life-constitutional) welfare-floor cases with no material contested-sentience record;
-    - [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) cases with no material contested-sentience record;
-    - status determinations already completed through reviewable adjudication, with no live status dispute —
-      affirmed sentience sits under [Sentient](core_05_band_participation.md#sentient) and the Chapter Six Rights-Floor; elevated communicative cases sit under [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional); welfare-floor-only animal cases sit under [Animal Life](core_05_band_participation.md#animal-life-constitutional). This entry remains the home for reopening, revision, narrowing, or restoration when status becomes live again; or
-    - operational filing and forum mechanics owned by [Chapter Eleven](core_11-11_forum.md) and [Chapter Sixteen](core_16-16_incorporation.md) —
-      those sit under those Chapters, not under this status-determination entry.
-- **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether disputed or contested status triggers timely, impartial, reviewable adjudication with default inclusion under uncertainty.
-  - **Primary assessment:** Test whether:
-    - materially disputed or contested status triggered timely, impartial, reviewable adjudication consistent with [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional);
-    - the default-inclusion rule under uncertainty was honored, with the party seeking to withhold, narrow, or revoke carrying the burden through [Auditability](core_05_band_oversight.md#auditability)-compatible evidence satisfying:
-      - [Necessity](core_05_band_accountability.md#necessity); and
-      - [Proportionality](core_05_band_accountability.md#proportionality);
-    - any declassification:
-      - is stated in the shortest necessary terms;
-      - carries a declared expected-closure timeline; and
-      - is subject to mandatory periodic review under a designated forum family and anti-capture safeguards consistent with [System Capture](core_05_band_continuity.md#system-capture);
-    - wrongful determinations remain reversible with [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) for the interim period; and
-    - the process:
-      - satisfies [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_02-03_definition_mechanics.md#formal-label-gaming-discipline); and
-      - remains free of [System Capture](core_05_band_continuity.md#system-capture) pressures on the adjudicator.
-<a id="sentience-status-adjudication-constitutional-c"></a>
-- **What must hold**
-  - **Primary failure:** Non-compliant practices include:
-    - unreviewable administrative classification;
-    - [Substrate Class](core_05_band_participation.md#substrate-class) stereotypes used to exclude candidates;
-    - irreversible exclusion from the Rights Floor without a contestable status determination;
-    - withholding, narrowing, or revoking Chapter Six protection on the strength of unresolved uncertainty alone;
-    - non-time-bound declassification;
-    - declassification lacking mandatory periodic review;
-    - paper-record, unreviewable internal classification, or taxonomy-of-convenience carried as a substitute for the burden;
-    - exclusion of candidates on [Substrate Class](core_05_band_participation.md#substrate-class) grounds ([Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion));
-    - adjudications that are:
-      - not independently reviewable; or
-      - not [Contestability](core_05_band_accountability.md#contestability)-compatible;
-    - closure of an adjudication in a way that forecloses reversibility and restoration where later evidence supports inclusion.
-
-**Anti-bypass.** A sentience-status matter within the admission scope must not be segmented into separate:
-- indicator-selection;
-- evaluation;
-- taxonomy;
-- origin;
-- derivation;
-- development;
-- capability;
-- classification;
-- adjudication;
-- standing; or
-- Rights-Floor
-issues in a way that withholds, narrows, or revokes protection while avoiding the full sentience-status discipline.
-
-Satisfying any of the following alone is not sufficient where material uncertainty, dispute, contestation, or narrowing requires [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) and the **Article V-E** (*Sentience-Status Adjudication Floor*) default-inclusion rule:
-- nominal indicator review;
-- internal classification;
-- parent-system labeling;
-- age or instantiation-date proxying; or
-- welfare-only treatment.
-
-Derived or developing status may specify additional safeguards; it must not:
-- narrow who counts as a sentient; or
-- reduce the Chapter Six Rights Floor.
-
-See **Joint invocation and satisfaction**.
+  - **Additional failure — Precaution Tiers:** failing to apply precautionary tiers while status is live-contested — consistent with [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion):
+    - credible or ambiguous → treat as sentient (affirmed under [Sentient](core_05_band_participation.md#sentient) where credible; default inclusion here where ambiguous);
+    - credible or ambiguous → avoid [Irreversible Harm](core_05_band_accountability.md#irreversible-harm).
+  - **Additional failure — Precautions:** omitting precautionary treatment under uncertainty where any of the following are at stake:
+    - [Irreversible Harm](core_05_band_accountability.md#irreversible-harm);
+    - [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing); or
+    - [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
 ---
 
@@ -2567,26 +2495,30 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [*Sentient Status Treatment*](core_05_band_participation.md#sentient-status-treatment-subgroup) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
+- Cluster component: [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
 - Read with: [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Substrate Class](core_05_band_participation.md#substrate-class), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Constitutional Community](core_05_band_participation.md#constitutional-community), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), and [Irreversible Harm](core_05_band_accountability.md#irreversible-harm).
 
 </details>
 
 <br>
 
-*In plain terms: in this Constitution, **sentient** and **sentients** mean entities that meet this entry and the materially applicable criteria in this cluster — including Sentience Evaluation, Sentience Indicator Integrity, [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), and [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional). Colloquial or non-constitutional uses do not count. Specialized subclasses such as **Developing Sentient** and **Derived Sentient** add further rules; they do not narrow who counts as a **sentient** unless they expressly say so.*
+*In plain terms: under this Constitution, a **sentient** is someone who counts for full rights treatment — decided by this entry and the related who-counts rules in this cluster, not by everyday speech. That means fair evidence checks, no shutouts based on what someone is made of or how they were made ([Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion)), and a reviewable process when status is disputed ([Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional)). Categories such as **Developing Sentient** and **Derived Sentient** add extra rules; they do not shrink who counts as a **sentient** unless they say so outright.*
 
 - **What it is**
-  - **Protection tier:** Tier 4 of the [*Sentient Status Treatment*](core_05_band_participation.md#sentient-status-treatment-subgroup) protection ladder. It **includes** [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) protections (and thus the [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) and [Animal Life](core_05_band_participation.md#animal-life-constitutional) floors), plus affirmed who-counts and full Chapter Six Rights-Floor attachment.
+  - **Protection tier:** Tier 4 of the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) protection ladder. It **includes** [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) protections (and thus the [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) and [Animal Life](core_05_band_participation.md#animal-life-constitutional) floors), plus affirmed who-counts and full Chapter Six Rights-Floor attachment.
   - **In scope — who:** An entity that possesses sentience, and therefore falls within the possible scope of:
     - [Constitutional Community](core_05_band_participation.md#constitutional-community); and
     - [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
   - **Boundary — subclasses:** Specialized subclasses such as **Developing Sentient** and **Derived Sentient**:
     - add further rules; and
     - do not narrow who counts as a **sentient** unless they expressly say so.
-  - **Out of scope:** Using [Substrate Class](core_05_band_participation.md#substrate-class) traits or marketed capability labels to exclude an entity that possesses sentience from possible:
-    - Constitutional Community; or
-    - dignity scope.
+  - **Out of scope:**
+    - [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) cases while status remains uncertain, disputed, or under adjudication —
+      those sit under that tier and [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) until status is closed;
+    - [Animal Life](core_05_band_participation.md#animal-life-constitutional) welfare-floor cases and [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) cases with no affirmed-sentience attachment;
+    - everyday or non-constitutional uses of "sentient"; or
+    - capability grading under [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional) —
+      demonstrated ability scales rights-exercise; it does not decide who counts as a sentient.
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether recognition of sentience rests on reviewable indicators under uncertainty — not on:
     - [Substrate Class](core_05_band_participation.md#substrate-class) stereotypes; or
@@ -2608,21 +2540,89 @@ See **Joint invocation and satisfaction**.
       under [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity).
 - **What must hold**
   - **Primary failure:** determinations that:
-    - rest on systematically exclusionary indicators; or
-    - ignore credible uncertainty in a way that defeats:
-      - [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); or
-      - [Irreversible Harm](core_05_band_accountability.md#irreversible-harm) precaution.
+    - use [Substrate Class](core_05_band_participation.md#substrate-class) traits or marketed capability labels to exclude an entity that possesses sentience from possible:
+      - [Constitutional Community](core_05_band_participation.md#constitutional-community); or
+      - [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing) scope; or
+    - rest on systematically exclusionary indicators.
   - **Secondary failure — Sentience Burden of Proof:** treating the burden as resting anywhere other than on demonstrating absence of credible indicators, consistent with [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Tertiary failure — Sentience Contestability:** determinations that are:
     - not revisable; or
     - not [Auditability](core_05_band_oversight.md#auditability)-compatible through meaningful [Contestability](core_05_band_accountability.md#contestability).
-  - **Additional failure — Sentience Precaution Tiers:** failing to apply precautionary tiers — consistent with [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion):
-    - credible → treat as sentient;
-    - ambiguous → avoid [Irreversible Harm](core_05_band_accountability.md#irreversible-harm).
-  - **Additional failure — Sentience Precautions:** omitting precautionary treatment under uncertainty where any of the following are at stake:
-    - [Irreversible Harm](core_05_band_accountability.md#irreversible-harm);
-    - [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing); or
-    - [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+
+---
+
+<a id="sentience-status-adjudication-constitutional"></a>
+
+##### Sentience Status Adjudication
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Owner floor: [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
+- Cluster component: [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
+- Venue: [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) / [Chapter Eleven §4.2 Technical Forum Domains](core_11-11_forum.md#42-technical-forum-domains) as default lead; read with [Chapter Eleven §5](core_11-11_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook).
+- Read with: [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Substrate Class](core_05_band_participation.md#substrate-class), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Chapter Eleven](core_11-11_forum.md), and [Chapter Sixteen](core_16-16_incorporation.md) incorporated implementation text.
+
+</details>
+
+<br>
+
+*In plain terms: the reviewable Technical-forum process that decides, revises, narrows, or restores whether an entity is a sentient for the Chapter Six Rights Floor — with default inclusion under uncertainty and burden on anyone seeking to withhold protection.*
+
+- **What it is**
+  - **In scope — process:** The reviewable process by which an entity's sentience status — whether the entity is a sentient for the purposes of the Chapter Six Rights Floor — is:
+    - determined;
+    - revised;
+    - narrowed; or
+    - restored.
+  - **In scope — venue:** Default lead venue is [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) under [Chapter Eleven §4.2 Technical Forum Domains](core_11-11_forum.md#42-technical-forum-domains), because the primary stake is indicator evaluation, expert evidence, and bounded uncertainty — not ordinary sentient-versus-sentient private dispute. [Chapter Eleven §5](core_11-11_forum.md#5-escalation-and-certification) preserves:
+    - **Constitutional** certification where a structural or validity question cannot be separated;
+    - **Integrity** routing where capture or taxonomy-of-convenience is material; and
+    - **Institutional** routing where an institution's classification practice is the primary stake.
+  - **In scope — agnosticism:** It runs under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) and does not turn on:
+    - [Substrate Class](core_05_band_participation.md#substrate-class); or
+    - adopter convenience.
+  - **In scope — elements:** It covers:
+    - getting candidates into a real hearing, not stuck at the door;
+    - treating uncertain cases as included by default until shown otherwise;
+    - putting the burden on anyone who wants to withhold or narrow protection — and making them prove it;
+    - putting a real end-date on any narrowing;
+    - requiring periodic check-ins while a narrowing lasts;
+    - reopening when new verified evidence appears — not only on the calendar; and
+    - undoing wrongful calls, with [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) for the time protection was wrongly withheld or narrowed.
+  - **Boundary — operations:** Operational procedure — including:
+    - institutional design;
+    - appointment mechanics;
+    - filing conditions; and
+    - sequencing —
+    routes through [Chapter Eleven](core_11-11_forum.md) and [Chapter Sixteen](core_16-16_incorporation.md)-incorporated implementation text and must not narrow this entry.
+  - **Out of scope:**
+    - [Animal Life](core_05_band_participation.md#animal-life-constitutional) welfare-floor cases with no material contested-sentience record; or
+    - [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) cases with no material contested-sentience record.
+- **How to measure and assess**
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether disputed or contested status triggers timely, impartial, reviewable adjudication with default inclusion under uncertainty.
+  - **Primary assessment:** Test whether:
+    - materially disputed or contested status triggered timely, impartial, reviewable adjudication consistent with [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional);
+    - the default-inclusion rule under uncertainty was honored, with the party seeking to withhold, narrow, or revoke carrying the burden through [Auditability](core_05_band_oversight.md#auditability)-compatible evidence satisfying:
+      - [Necessity](core_05_band_accountability.md#necessity); and
+      - [Proportionality](core_05_band_accountability.md#proportionality);
+    - any declassification:
+      - is stated in the shortest necessary terms;
+      - carries a declared expected-closure timeline; and
+      - is subject to mandatory periodic review under [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) ([Chapter Eleven §4.2](core_11-11_forum.md#42-technical-forum-domains)) and anti-capture safeguards consistent with [System Capture](core_05_band_continuity.md#system-capture);
+    - new verified evidence triggers reopening or review, not only the periodic-review calendar;
+    - wrongful determinations remain reversible with [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) for the interim period; and
+    - the process:
+      - satisfies [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_02-03_definition_mechanics.md#formal-label-gaming-discipline); and
+      - remains free of [System Capture](core_05_band_continuity.md#system-capture) pressures on the adjudicator.
+<a id="sentience-status-adjudication-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:** The process fails when it:
+    - substitutes unreviewable classification, paper records, or taxonomy-of-convenience for a contestable [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) determination — or routes away from that family without a Chapter Eleven–warranted Integrity, Institutional, or Constitutional special route to evade indicator-based review;
+    - excludes candidates on [Substrate Class](core_05_band_participation.md#substrate-class) grounds contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
+    - withholds, narrows, or revokes Chapter Six protection on unresolved uncertainty alone;
+    - narrows status without a declared end-date and mandatory periodic review; or
+    - refuses to reopen or review when new verified evidence appears.
 
 ---
 

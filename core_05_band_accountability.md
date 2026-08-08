@@ -1693,11 +1693,11 @@ See **Joint invocation and satisfaction**.
 
 <br>
 
-*In plain terms: Technical forums handle disputes whose main stake requires specialized rules for technical procedure, expert evidence, knowledge, standards, or bounded uncertainty.*
+*In plain terms: Technical forums handle disputes whose main stake requires specialized rules for technical procedure, expert evidence, knowledge, standards, bounded uncertainty — or sentience-status determination on indicators.*
 
 - **What it is**
-  - **In scope:** The forum family, including specialized chambers or panels within other families, for matters whose main stake is technical-governance procedure, expert-evidence standards, knowledge governance, standards stewardship, or reducing bounded uncertainty that matters to adjudication or regulation.
-  - **Out of scope:** non-technical primary questions — rights, mandate, ecological, or constitutional merits assigned to another family under Chapter Eleven §2.
+  - **In scope:** The forum family, including specialized chambers or panels within other families, for matters whose main stake is technical-governance procedure, expert-evidence standards, knowledge governance, standards stewardship, reducing bounded uncertainty that matters to adjudication or regulation, or [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) sentience-status determination on indicators, expert evidence, or bounded uncertainty under [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional).
+  - **Out of scope:** non-technical primary questions — rights, mandate, ecological, or constitutional merits assigned to another family under Chapter Eleven §2, except where this family's sentience-status lead role under [Chapter Eleven §5](core_11-11_forum.md#5-escalation-and-certification) applies.
 <a id="forum-family-technical-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
