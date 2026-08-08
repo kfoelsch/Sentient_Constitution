@@ -224,7 +224,7 @@ Assess criticality from **actual dependency and substitutability**, not ownershi
 
 <a id="private-chokepoint-access-continuity"></a>
 <a id="79-high-dependency-private-chokepoints"></a>
-**Private chokepoints people depend on (access continuity and non-capture).**
+**Private chokepoints sentients depend on (access continuity and non-capture).**
 
 Some coordination layers can become **private chokepoints** even when they are not government bodies — including **payments**, **identity and credentials**, **core compute or model access**, **messaging and calls**, **hosting and DNS**, **application distribution**, and **search or discovery** where switching costs are high.
 

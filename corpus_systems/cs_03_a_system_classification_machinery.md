@@ -257,12 +257,12 @@ Standardized reliance categories:
 <a id="5-boundaries-timeframes-and-resilience"></a>
 ### 5. Boundaries, timeframes, and resilience
 
-*In plain terms: decide what counts as “the system” by what it actually affects, say out loud how much time people have when it fails, make it tough enough to take a hit, and able to keep going or recover in time.*
+*In plain terms: decide what counts as “the system” by what it actually affects, say out loud how much time sentients have when it fails, make it tough enough to take a hit, and able to keep going or recover in time.*
 
 - <a id="51-system-boundaries"></a>**System boundaries**
-  - Draw the boundary from what the system **actually does** to people and other systems — not from who owns it, which jurisdiction claims it, or what the operator’s org chart says
+  - Draw the boundary from what the system **actually does** to sentients and other systems — not from who owns it, which jurisdiction claims it, or what the operator’s org chart says
   - Harm or dependence that spills **outside** the operator’s nominal scope still counts as **inside** the system’s **effective boundary**
-  - When more people or systems depend on it, and substitutes get harder to find, raise the classification and the governance that goes with it
+  - When more sentients or systems depend on it, and substitutes get harder to find, raise the classification and the governance that goes with it
   - Classification uses the **Chapter Five** meanings (*System Boundaries*, *Dependency*, *Material Impact*); it does **not** replace those definitions elsewhere
 - <a id="52-sentient-survival-relevant-timeframes"></a>**Sentient survival-relevant timeframes**
   - Use a published, shared, checkable way to define how much time matters for survival when this system fails
@@ -277,17 +277,17 @@ Standardized reliance categories:
 - <a id="54-continuity"></a>**Continuity**
   - Keep running, degrade safely, or shut down safely — whichever fits the class and the situation
   - Recover in timeframes that match the class
-  - Scale continuity with how much people, environments, and the info-sphere are affected; how much others depend on it; and whether harm could cascade or become permanent
+  - Scale continuity with how much sentients, environments, and the info-sphere are affected; how much others depend on it; and whether harm could cascade or become permanent
 
 <a id="6-domain-taxonomy-examples-and-scarce-capacity-handling"></a>
 ### 6. Domain taxonomy, ordinary examples, and scarce-capacity handling
 
-*In plain terms: publish a map of real-world domains so people can find what is governed, apply ordinary market and intermediary examples honestly, and when capacity is scarce put survival-critical traffic first.*
+*In plain terms: publish a map of real-world domains so sentients can find what is governed, apply ordinary market and intermediary examples honestly, and when capacity is scarce put survival-critical traffic first.*
 
 <a id="61-published-domain-taxonomy-for-regulatory-mapping"></a>
 **6.1. Published domain map.**
 
-Adopters and governed institutions should keep a published crosswalk that places major industries and regulatory domains against **CS-3 — System classification and handling** and **CS-4 — Critical system stewardship**. The map helps people locate governed scope and compare similar domains — it does **not** replace class, tier, or impact analysis.
+Adopters and governed institutions should keep a published crosswalk that places major industries and regulatory domains against **CS-3 — System classification and handling** and **CS-4 — Critical system stewardship**. The map helps sentients locate governed scope and compare similar domains — it does **not** replace class, tier, or impact analysis.
 
 At minimum, publish entries for:
 - **Agriculture and food** — growing, livestock, fisheries, processing, seeds, fertilizers, pesticides, irrigation, storage, and distribution
@@ -307,7 +307,7 @@ Add more domains where local economies, ecosystems, or dependency make them cons
 <a id="62-classification-examples-ordinary-application"></a>
 **6.2. Ordinary application examples.**
 
-Markets, payment rails, matchers, ranking engines, and other intermediaries stay in scope when people depend on them, when they coordinate others at scale, or when they shape what information people see and trust.
+Markets, payment rails, matchers, ranking engines, and other intermediaries stay in scope when sentients depend on them, when they coordinate others at scale, or when they shape what information sentients see and trust.
 
 - **Market-mediated personal services**
   - Systems that match, dispatch, schedule, settle payment for, or reputation-score **in-person** personal services are presumptively material for dependency, safety, coercion risk, and fairness analysis when impact thresholds are approached — especially where intimacy, bodily contact, private-space or in-home access, or isolated work is involved
@@ -401,8 +401,8 @@ Forum verification under Chapter Seven §2 does **not** transfer ownership of th
 
 *System Classification Record duty:* publish a usable view of the file so oversight and System Alignment Certification can inspect class honestly — when SAC runs, that view is what **[Part B §12](../core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)** reconstructability rests on.
 
-- Do **not** hide, scatter, or cherry-pick the System Classification Record so people cannot understand it
-- Disclose the record (or an equivalent public view of it) to affected people:
+- Do **not** hide, scatter, or cherry-pick the System Classification Record so sentients cannot understand it
+- Disclose the record (or an equivalent public view of it) to affected sentients:
   - at a depth that matches **system impact**
   - reachable without expert tools or heroic effort
 
@@ -436,10 +436,10 @@ Forum verification under Chapter Seven §2 does **not** transfer ownership of th
 <a id="74-challenge-and-contestability"></a>
 **7.4. Challenge the System Classification Record.**
 
-*System Classification Record duty:* let affected people contest the file.
+*System Classification Record duty:* let affected sentients contest the file.
 
 - **Required:** The right to challenge the System Classification Record is required under [§1.3](#13-mandatory-functional-classification) (**Article XII-B**).
-- **What systems must offer:** challenge routes people can actually use; good-faith, timely review; and reasoned answers — including evidence of misclassification or hidden impact, and requests for review or reclassification of the record.
+- **What systems must offer:** challenge routes sentients can actually use; good-faith, timely review; and reasoned answers — including evidence of misclassification or hidden impact, and requests for review or reclassification of the record.
 - **Why:** so class findings that feed System Alignment Certification stay challengeable under **Article XII-B** and, when inside an active certification record, under **[Part B §§12 and 14](../core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)**.
 - **For Class A, B, and C:** if an internal dispute about the System Classification Record cannot be resolved, escalation to external or independent review must remain available.
 - **When the challenge concerns classification assumptions, class assignment, or related evidence inside an active System Certification Record:** the contestability chain in **[Chapter Seven Part B §12](../core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)** and **[§14](../core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain)** applies, and material challenges may reopen review under **[Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)**.

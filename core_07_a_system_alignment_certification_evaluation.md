@@ -187,7 +187,7 @@ Certification evaluations must consider:
 **Risk evaluation and disclosure bridge.** Where systemic [Risk](core_05_band_continuity.md#risk) is in scope under the factors above, certification must verify both halves of the Chapter Five pair — not invent a separate named risk-disclosure record species:
 
 - **[Risk Evaluation](core_05_band_continuity.md#risk-evaluation)** — whether systemic risk was actually evaluated under the conditions that matter (dependency, time horizons, and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)), sized to class and [material stake](core_00_preamble.md#material-stake); and
-- **[Risk Disclosure](core_05_band_oversight.md#risk-disclosure)** — whether evaluated risk reached the people who need it in time to understand, challenge, and act.
+- **[Risk Disclosure](core_05_band_oversight.md#risk-disclosure)** — whether evaluated risk reached the sentients who need it in time to understand, challenge, and act.
 
 Evaluation without disclosure, or disclosure without evaluation, both fail. Public baseline visibility into material risk under [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) may be satisfied in part through Risk Disclosure where systemic risk is in scope; that floor remains broader than this bridge and does not require a peer instrument beside the [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) or [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional).
 

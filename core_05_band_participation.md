@@ -93,7 +93,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
     - selective [Materiality](core_05_band_oversight.md#materiality-determination) arguments used to scale accommodation below the participation floor.
   - **Secondary measure:** [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Materiality Determination](core_05_band_oversight.md#materiality-determination), and [Dependency](core_05_band_continuity.md#dependency) — related tests. A system can still fail accessibility under these even when formal accommodations exist on paper.
 
-    **Secondary assessment:** When checking the primary answer, match how strong the duty is to what is at stake ([Materiality](core_05_band_oversight.md#materiality-determination)) and how hard it is to leave or work around the system ([Dependency](core_05_band_continuity.md#dependency)). Check whether accommodations are designed in ways that discriminate under [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact). Whoever claims compliance must prove people can actually take part.
+    **Secondary assessment:** When checking the primary answer, match how strong the duty is to what is at stake ([Materiality](core_05_band_oversight.md#materiality-determination)) and how hard it is to leave or work around the system ([Dependency](core_05_band_continuity.md#dependency)). Check whether accommodations are designed in ways that discriminate under [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact). Whoever claims compliance must prove sentients can actually take part.
 <a id="accessibility-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -1144,13 +1144,13 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
     Systematic skew affecting demographically identifiable groups triggers [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) analysis even where a trait is not expressly named.
 
-    Read with [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) and [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention).
+    Apply [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) and [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention).
 <a id="protected-characteristics-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
     - using a protected characteristic or a close stand-in as a basis for unfair discrimination;
     - making comparable sentients systematically worse off on burdens, standing, or benefits without a strong, valid reason; or
-    - shutting people, groups, or institutions out of:
+    - shutting sentients, groups, or institutions out of:
       - jobs;
       - housing;
       - banking;
@@ -1166,7 +1166,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
         - protected association; or
         - consensual private adult sexual conduct or history.
 
-    Read with the linked protected-status definitions.
+    Apply the linked protected-status definitions.
 
 ---
 
@@ -1439,6 +1439,8 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 - [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional) — consent and best-interest rules for synthetic, hybrid, or operator-controlled creation of a new sentient; and
 - [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional) — what the creator may and may not do.
 
+---
+
 <a id="derived-sentient-constitutional"></a>
 
 ##### Derived Sentient
@@ -1485,6 +1487,8 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
     - treating a derived sentient as the parent-system actor's continuation for rights purposes, or the parent-system actor as the same sentient;
     - treating a derived sentient as exempt from [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) and the Chapter Six Rights Floor on grounds of derivation; or
     - purported parent-system consents that substitute for the derived sentient's own consent under cooperative-interaction norms once Chapter Six protection attaches.
+
+---
 
 <a id="instantiation-consent-constitutional"></a>
 
@@ -1538,6 +1542,8 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
     without meeting the consent, best-interest, and non-concentration tests above.
   - **Secondary failure — false Instantiation Consent framing:** treating poverty, hardship, incomplete support, or imperfect conditions as Instantiation Consent non-compliance for a birthing parent; or treating the creator's, operator's, or parent-system actor's approval as if it were the new sentient's own consent.
   - **Non-failure:** pregnancy or childbirth by itself — intended or accidental — is not a primary or secondary Instantiation Consent failure.
+
+---
 
 <a id="parent-system-relationship-constitutional"></a>
 
@@ -1593,7 +1599,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 
 #### Stakeholder status and participation weight
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): **Stakeholder System Participation** layer — who a system really affects, and how much say those people get once that system's governing rules are already in place. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Implements [Article IX-B](core_06-06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) and [Article XI](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*).
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): **Stakeholder System Participation** layer — who a system really affects, and how much say those sentients get once that system's governing rules are already in place. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Implements [Article IX-B](core_06-06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) and [Article XI](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*).
 
 **Topic group members.** This group comprises:
 - [Stakeholder](core_05_band_participation.md#stakeholder) — who is materially touched by a specified system or decision domain.
@@ -1853,7 +1859,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
       - narrow tailoring; and
       - least-restrictive-effective approach.
     - Apply [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) to any distinction.
-    - Do not exclude people by group label or demographic category instead of judging each person under [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
+    - Do not exclude sentients by group label or demographic category instead of judging each sentient under [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
     - If someone is refused entry for:
       - anti-constitutional conduct;
       - constitutional hostility; or
@@ -1922,7 +1928,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
       - [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
     - Receiving-regime capacity constraints are subject to [Feasibility](core_05_band_accountability.md#feasibility) but may not be used as pretext for:
       - exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); or
-      - blanket refusals that never look at the individual person's case.
+      - blanket refusals that never look at the individual sentient's case.
     - Apply cluster [recognition vs hosting](#movement-refuge-recognition-vs-hosting) to instrumentally coerced or weaponized mass outflows and particular-adopter refusal.
     - Assess whether granting refuge would materially undermine the receiving regime's constitutional integrity where the claimant carries documented:
       - anti-constitutional conduct;
@@ -1966,8 +1972,8 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
     - federation exit; or
     - comparable structural discontinuity.
   - **Boundary — recognition duty ladder:**
-    - **First in line:** The regime that originated, expelled, collapsed, withdrew, or exited keeps primary recognition duty if it still exists and can still recognize the person.
-    - **Backup:** If that regime is gone, refuses, or leaves a recognition gap, shared or federation transitional recognition must fill it — under **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) — so the person never hits zero recognition.
+    - **First in line:** The regime that originated, expelled, collapsed, withdrew, or exited keeps primary recognition duty if it still exists and can still recognize the sentient.
+    - **Backup:** If that regime is gone, refuses, or leaves a recognition gap, shared or federation transitional recognition must fill it — under **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) — so the sentient never hits zero recognition.
     - **Not a hosting mandate:** Recognition is not the same as a right to be hosted by a particular adopter. Weaponized outflow and particular-adopter refusal rules live at cluster [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
     - **Non-exclusion:** Applies under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Boundary — restricted-status recognition:** Where documented:
@@ -2547,7 +2553,7 @@ Derived or developing status may specify additional safeguards; it must not:
 - narrow who counts as a sentient; or
 - reduce the Chapter Six Rights Floor.
 
-See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+See **Joint invocation and satisfaction**.
 
 ---
 
@@ -2651,7 +2657,7 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 
 **Anti-bypass.** A binding stakeholder-choice matter must not be segmented into separate deliberation, representation, weighting, record, or rights-collision issues in a way that satisfies one component while defeating the others. A published sequence without meaningful stakeholder representation, a weighting model without contest and revalidation, or a binding rights-affecting outcome without the required rights-collision record is non-compliant within the admission scope.
 
-See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+See **Joint invocation and satisfaction**.
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
@@ -2750,7 +2756,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 **Anti-bypass.** A matter within the admission scope must not be segmented into separate speech, platform, curricular, or surveillance questions in a way that preserves nominal liberty while defeating substantive agency through coercion, manipulation, or informational capture.
 
-See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+See **Joint invocation and satisfaction**.
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
@@ -2922,7 +2928,7 @@ Outside that admission scope, individual member definitions may still operate al
 
 **Anti-bypass.** A matter within the admission scope must not be segmented into separate status, care, education, or participation questions in a way that preserves nominal Rights-Floor attachment while defeating best-interest reasoning or using age proxies to lock out participation.
 
-See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+See **Joint invocation and satisfaction**.
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 

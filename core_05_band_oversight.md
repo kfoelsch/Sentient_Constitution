@@ -170,10 +170,10 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 <br>
 
-*In plain terms: journalism is what people do — gathering news, protecting sources, investigating, and publishing — not a badge, title, or press pass. Actions meant to shut that down get heightened scrutiny.*
+*In plain terms: journalism is what sentients do — gathering news, protecting sources, investigating, and publishing — not a badge, title, or press pass. Actions meant to shut that down get heightened scrutiny.*
 
 - **What it is**
-  - **In scope:** Journalistic activity that functions as journalism — judged by what people actually do, not by credentials or institutional status — including:
+  - **In scope:** Journalistic activity that functions as journalism — judged by what sentients actually do, not by credentials or institutional status — including:
     - newsgathering;
     - source protection;
     - investigation; and
@@ -552,7 +552,7 @@ Implication can exist without misalignment. Misalignment always implies material
     - gaming incentives;
     - adversarial adaptation; and
     - aggregate harms hidden by favorable local indicators —
-    read with [Materiality Determination](core_05_band_oversight.md#materiality-determination) and [Auditability](core_05_band_oversight.md#auditability).
+    together with [Materiality Determination](core_05_band_oversight.md#materiality-determination) and [Auditability](core_05_band_oversight.md#auditability).
   - **Tertiary measure:** [Wellbeing](core_05_band_continuity.md#wellbeing), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), and Rights-Floor outcomes — where proxies stand in for what sentients actually experience.
 
     **Tertiary assessment:** Where proxies stand in for outcome measures, trace to [Wellbeing](core_05_band_continuity.md#wellbeing), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), or Rights-Floor delivery — separate durable constitutional outcomes from proxy throughput.
@@ -660,7 +660,7 @@ Outside that scope, individual entries may still apply on their own without impo
 
 **Anti-bypass.** Within the admission scope, do not split the matter into separate disclosure, preservation, logging, metrics, audit sampling, verification UX, or independence questions in a way that checks a box on one channel while defeating practical reconstruction, challenge, or proportionate assurance depth.
 
-See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+See **Joint invocation and satisfaction**.
 
 *Measurements (family routing):* Measured under the Oversight measurement family. Find the concrete measures on [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), and [Verifiability](core_05_band_oversight.md#verifiability) below.
 
@@ -683,7 +683,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 *In plain terms: telling affected sentients enough about how a system works, its limits, and its risks that they can genuinely understand and question it — not burying them in noise.*
 
 - **What it is**
-  - **In scope:** Giving affected people enough information about how a system behaves outwardly — its limits, uncertainties, and what depends on it — that they can understand what it does and what risks it creates. Legitimate safety and security limits still apply, consistent with [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) and [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
+  - **In scope:** Giving affected sentients enough information about how a system behaves outwardly — its limits, uncertainties, and what depends on it — that they can understand what it does and what risks it creates. Legitimate safety and security limits still apply, consistent with [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) and [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
     - If a material system, institution, forum process, or similar governed domain can lawfully publish online, its baseline transparency disclosure must be free to the public at the access level its class requires — not behind a paywall or available only to insiders — wherever [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) applies.
     - If publishing the raw material would break lawful protections, the owner must still publish the strongest public substitute reasonably possible online, without gutting accountability or [Contestability](core_05_band_accountability.md#contestability) — for example:
       - aggregation;
@@ -706,11 +706,11 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     **Secondary assessment:** When checking the primary answer, spot volume, obscurity, or formatting standing in for decision-relevant clarity; apply safety- and security-justified limits consistent with [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity). Decision-relevant disclosure fails in practice when it cannot be checked — do not treat unverifiable disclosure as decision-relevant clarity. [Verifiability](core_05_band_oversight.md#verifiability) owns those check conditions, including practical access, independence from operator self-assertion, proportionate burden, and reliability under stress, misuse, and adversarial pressure.
   - **Tertiary measure:** [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — where volume, formatting, or procedural opacity stands in for decision-relevant clarity.
 
-    **Tertiary assessment:** Where operators lean on disclosure volume or formatting, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — separate real transparency from burying people in volume.
+    **Tertiary assessment:** Where operators lean on disclosure volume or formatting, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — separate real transparency from burying sentients in volume.
 <a id="transparency-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - a data dump, mountain of documents, paywall, or insider-only access with no real decision-relevant clarity about function and risk for affected people; or
+    - a data dump, mountain of documents, paywall, or insider-only access with no real decision-relevant clarity about function and risk for affected sentients; or
     - material omissions or disclosures that foreseeably block informed participation or [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) where required.
   - **Secondary failure:** safety- or security-framed limits that defeat materially required clarity without satisfying [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality).
   - **Tertiary failure:** disclosure volume or formatting treated as decisive where [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
@@ -731,10 +731,10 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 <br>
 
-*In plain terms: the minimum public disclosure high-impact systems must publish so people can understand, oversee, and challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, and the public face of the Charter, classification, data-typing, and certification records — with a strong public substitute when raw private or non-baseline records cannot be released.*
+*In plain terms: the minimum public disclosure high-impact systems must publish so sentients can understand, oversee, and challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, and the public face of the Charter, classification, data-typing, and certification records — with a strong public substitute when raw private or non-baseline records cannot be released.*
 
 - **What it is**
-  - **In scope:** The required public disclosure floor so people can oversee and challenge materially impactful systems — especially **Class A**, **Class B**, and **Class C** under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**. Coverage follows the governing [Charter](core_05_band_continuity.md#charter) (or equivalent published scope instrument), assigned class, and observed [System Boundaries](core_05_band_continuity.md#system-boundaries). It includes what people need to understand:
+  - **In scope:** The required public disclosure floor so sentients can oversee and challenge materially impactful systems — especially **Class A**, **Class B**, and **Class C** under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**. Coverage follows the governing [Charter](core_05_band_continuity.md#charter) (or equivalent published scope instrument), assigned class, and observed [System Boundaries](core_05_band_continuity.md#system-boundaries). It includes what sentients need to understand:
     - purpose and what the system does;
     - how it is classified;
     - dependency structure and what depends on it;
@@ -811,11 +811,11 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 <br>
 
-*In plain terms: tell the people who need to know about systemic risk — keeping the evaluation in a drawer does not count.*
+*In plain terms: tell the sentients who need to know about systemic risk — keeping the evaluation in a drawer does not count.*
 
 - **What it is**
   - **In scope:** Communicating evaluated systemic [Risk](core_05_band_continuity.md#risk) to those who need it so they can understand, challenge, and act.
-    - **Ongoing duty:** The duty is not limited to certification cycles — it applies whenever [Transparency](core_05_band_oversight.md#transparency) or [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) requires that evaluated risk reach the people who need it.
+    - **Ongoing duty:** The duty is not limited to certification cycles — it applies whenever [Transparency](core_05_band_oversight.md#transparency) or [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) requires that evaluated risk reach the sentients who need it.
     - **SAC verification:** Where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [Chapter Seven §3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
   - **Out of scope:**
     - [Risk Evaluation](core_05_band_continuity.md#risk-evaluation) itself — the duty to evaluate systemic risk;
@@ -824,18 +824,18 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     those sit under their own homes.
 <a id="risk-disclosure-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether evaluated systemic risk actually reaches the people who need it — not only whether an evaluation exists somewhere.
+  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether evaluated systemic risk actually reaches the sentients who need it — not only whether an evaluation exists somewhere.
 
     **Primary assessment:** Ask whether disclosure is timely, decision-relevant, and sized to material stake under [Transparency](core_05_band_oversight.md#transparency). Read with [Risk Evaluation](core_05_band_continuity.md#risk-evaluation) — disclosure without evaluation, or evaluation without disclosure, both fail.
   - **Secondary measure:** [Risk Evaluation](core_05_band_continuity.md#risk-evaluation), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Contestability](core_05_band_accountability.md#contestability), and [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) — other checks that can show disclosure failed even when some risk wording is on file.
 
-    **Secondary assessment:** When checking the primary answer, look for walls of text, buried details, insider-only channels, or late notice that keep the people who needed the risk picture from actually understanding it in time.
+    **Secondary assessment:** When checking the primary answer, look for walls of text, buried details, insider-only channels, or late notice that keep the sentients who needed the risk picture from actually understanding it in time.
 <a id="risk-disclosure-c"></a>
 - **What must hold**
   - **Primary failure:**
     - failure to disclose risk where [Transparency](core_05_band_oversight.md#transparency) or [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) requires it; or
     - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which risk must be disclosed.
-  - **Secondary failure:** an internal-only note, buried appendix, or after-the-fact statement used as disclosure when the people who needed the risk picture could not use it in time.
+  - **Secondary failure:** an internal-only note, buried appendix, or after-the-fact statement used as disclosure when the sentients who needed the risk picture could not use it in time.
 
 
 ---
@@ -966,6 +966,8 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - selectively preserving;
     - making inaccessible; or
     - failing to secure.
+
+---
 
 <a id="evaluation-completeness-constraint"></a>
 ##### Evaluation Completeness Constraint
@@ -1145,7 +1147,7 @@ Outside that scope, component definitions may still apply on their own without i
 
 **Anti-bypass.** Within the admission scope, do not split the matter into separate disclosure, publication, method, uncertainty, integrity, verification, or foreseeability questions in a way that satisfies one while defeating another. Nominal compliance with a disclosure or publication rule is not enough when foreseeable-condition analysis, methodological integrity, or honesty about limits and uncertainty remains materially deficient.
 
-See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+See **Joint invocation and satisfaction**.
 
 *Measurements (family routing):* Measured under the Oversight measurement family. Find the concrete measures on [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) and [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) below.
 
@@ -1214,7 +1216,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 *In plain terms: even true publication can be constrained when it foreseeably enables targeted harm, coercion, large-scale harmful coordination, or cascading failure.*
 
 - **What it is**
-  - **In scope:** Publication that goes out through channels that can broadly affect the shared information environment ([Info-Sphere](core_05_band_participation.md#info-sphere)), cause [Harm](core_05_band_accountability.md#harm), or shape how people coordinate.
+  - **In scope:** Publication that goes out through channels that can broadly affect the shared information environment ([Info-Sphere](core_05_band_participation.md#info-sphere)), cause [Harm](core_05_band_accountability.md#harm), or shape how sentients coordinate.
   - **Out of scope:** Ordinary true reporting without a foreseeable systemic-harm or harmful-coordination pathway, or ordinary truthfulness disputes under the recklessness floor.
 <a id="high-impact-and-systemic-harm-publication-constraint-a"></a>
 - **How to measure and assess**
@@ -1382,7 +1384,7 @@ Outside that scope, individual entries may still apply on their own without impo
 
 **Anti-bypass within §3.3.** Do not split foreseeability analysis into isolated depth, boundary, claim-burden, incompleteness, or reasonably-foreseeable questions in a way that satisfies one while defeating another. Claiming unforeseeability without audit-compatible justification, or evaluating only best-case operation where adversarial, scaled, repeated, or misuse contexts are material, is non-compliant within the admission scope.
 
-See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+See **Joint invocation and satisfaction**.
 
 <a id="foreseeability-burden"></a>
 <a id="foreseeability-failure"></a>

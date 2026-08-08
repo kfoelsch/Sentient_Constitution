@@ -20,7 +20,7 @@
 
 **Introductory provisions:**
 
-*In plain terms: tell the truth in public where you can, but keep safeguards that protect people, privacy, trust, and system integrity — and make those safeguards stronger when impact is higher.*
+*In plain terms: tell the truth in public where you can, but keep safeguards that protect sentients, privacy, trust, and system integrity — and make those safeguards stronger when impact is higher.*
 
 Systems must preserve the practical ability to publish truthful information while maintaining safeguards for harm prevention, privacy, trust, and system integrity.
 
@@ -41,7 +41,7 @@ CS-2 implements:
 - **Most-restrictive rule** — where more than one type applies, the strongest applicable protections govern ([§2](#2-determination-of-classification) *When it is unclear*), subject to proportionality (**CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*))
 - **Classification integrity** — type follows the **functional nature of the data** and the **effects it enables**, not format, origin, or pipeline stage; systems may not evade typing by fragmentation, re-labeling, or indirection ([§2](#2-determination-of-classification)–[§4](#4-anti-circumvention-and-integrity-of-classification))
 - **Identity self-ownership** — identity and attribution data remain under sentient control through revocation, rotation, correction, and recoverability ([§1.1](#11-identity-self-ownership-and-recoverability); **Article VII** (*Self-Ownership*))
-- **Continuity and exit** — for **Class A**, **Class B**, and **Class C** systems, people must be able to take their continuity-critical data with them when a service ends or changes hands ([§1.2](#12-continuity-critical-collection-and-exportability); **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)), and the formats and interfaces used for that handoff must meet **CJS-5.17** (*interoperability, portability, and exit-integrity terms*)
+- **Continuity and exit** — for **Class A**, **Class B**, and **Class C** systems, sentients must be able to take their continuity-critical data with them when a service ends or changes hands ([§1.2](#12-continuity-critical-collection-and-exportability); **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)), and the formats and interfaces used for that handoff must meet **CJS-5.17** (*interoperability, portability, and exit-integrity terms*)
 - **Cross-domain governance** — proportional access, reclassification and lifecycle, tiered transparency and audit, transformation traceability, attribution, and retention ([§5](#5-cross-domain-governance-principles)); typing integrity and anti-evasion remain in [§2](#2-determination-of-classification)–[§4](#4-anti-circumvention-and-integrity-of-classification)
 - **Separation and attribution** — keep higher-sensitivity domains from leaking through linkage or inference, and preserve attributable action ([§6](#6-data-separation-and-attribution))
 - **Class scaling** — higher-impact systems get stricter data rules. How strict depends on the system's class under **CS-3 — System classification and handling**
@@ -71,7 +71,7 @@ Identity systems must preserve **continuity** where desired, **separation** wher
 
 **1.2. Continuity-critical collection and exportability.**
 
-*In plain terms: for Class A/B/C systems, do not lock people's continuity-critical data in a form they cannot take with them when the service ends or changes hands — and disclose any lawful limits up front.*
+*In plain terms: for Class A/B/C systems, do not lock sentients' continuity-critical data in a form they cannot take with them when the service ends or changes hands — and disclose any lawful limits up front.*
 
 This subsection is foundational to continuity and exit under CS-2. It implements:
 - **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)
@@ -123,7 +123,7 @@ If pieces of data can be rebuilt, transformed, or combined into something more s
 <a id="3-temporal-systemic-and-dependency-scope-of-rights"></a>
 ### 3. Temporal, systemic, and dependency scope of rights
 
-*In plain terms: protections cover delayed, stacked, and indirect harm too — including harm passed through other systems. You cannot push risk onto other people, times, or systems to dodge the rules.*
+*In plain terms: protections cover delayed, stacked, and indirect harm too — including harm passed through other systems. You cannot push risk onto other sentients, times, or systems to dodge the rules.*
 
 Data-handling protections under CS-2 — Information types and handling apply not only to immediate and direct system effects. They also apply to delayed, cumulative, and indirect impacts arising through system interactions and dependency chains.
 
@@ -265,7 +265,7 @@ This subsection owns **retype mechanics**. [§8](#8-system-data-types-record-gov
 
 **5.3. Tiered transparency and audit access.**
 
-*In plain terms: people need enough visibility to understand risk; auditors need deeper access when needed; and hiding system behavior behind access controls is not allowed.*
+*In plain terms: sentients need enough visibility to understand risk; auditors need deeper access when needed; and hiding system behavior behind access controls is not allowed.*
 
 Data access must satisfy **CJS-5.4** (*tiered transparency and audit-access terms*) for balancing transparency, auditability, and protected-boundary constraints. Public-baseline transparency duties also run through [Transparency](../core_05_band_oversight.md#transparency) and **Article XV** (*Audit, Transparency, and Independent Verification*).
 
@@ -412,7 +412,7 @@ All linkage mechanisms must remain:
 
 **6.3. Attribution and accountability requirements.**
 
-*In plain terms: actions that affect people or shared systems must be traceable to someone or something responsible. If impact grows — or value, identity, or resources start moving outside the system — reduced attribution must end and full attribution must take over.*
+*In plain terms: actions that affect sentients or shared systems must be traceable to someone or something responsible. If impact grows — or value, identity, or resources start moving outside the system — reduced attribution must end and full attribution must take over.*
 
 This subsection applies [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional) and [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) to system actions that affect the outside world:
 
@@ -536,8 +536,8 @@ Forum verification under Chapter Seven §4 does **not** transfer ownership of th
 
 *System Data Types Record duty:* publish a usable view of the file so oversight and System Alignment Certification can inspect typing honestly — when SAC runs, that view is what **[Part B §12](../core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)** reconstructability rests on.
 
-- Do **not** hide, scatter, or cherry-pick the System Data Types Record so people cannot understand it
-- Disclose the record (or an equivalent public view of it) to affected people:
+- Do **not** hide, scatter, or cherry-pick the System Data Types Record so sentients cannot understand it
+- Disclose the record (or an equivalent public view of it) to affected sentients:
   - at a depth that matches **system impact** and applicable access-posture bands
   - reachable without expert tools or heroic effort
 
@@ -569,9 +569,9 @@ Forum verification under Chapter Seven §4 does **not** transfer ownership of th
 <a id="84-challenge-the-system-data-types-record"></a>
 **8.4. Challenge the System Data Types Record.**
 
-*System Data Types Record duty:* let affected people contest the file so type findings feeding System Alignment Certification stay challengeable under **Article XII-B** and, when inside an active certification record, under **[Part B §§12 and 14](../core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)**.
+*System Data Types Record duty:* let affected sentients contest the file so type findings feeding System Alignment Certification stay challengeable under **Article XII-B** and, when inside an active certification record, under **[Part B §§12 and 14](../core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)**.
 
-Systems must offer challenge routes people can actually use, review claims in good faith and on time, and give reasoned answers — including evidence of mistyping, hidden impact, unsafe linkage, or overdue re-evaluation, and requests for review or retyping of the record.
+Systems must offer challenge routes sentients can actually use, review claims in good faith and on time, and give reasoned answers — including evidence of mistyping, hidden impact, unsafe linkage, or overdue re-evaluation, and requests for review or retyping of the record.
 
 **For Class A, B, and C**, if an internal dispute about the System Data Types Record cannot be resolved, escalation to external or independent review must remain available.
 

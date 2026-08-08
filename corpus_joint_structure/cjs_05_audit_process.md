@@ -55,7 +55,7 @@ Auditing **is**:
 - an independent or plural check against real evidence
 - scaled to impact, dependency, and risk
 - required under oversight — not optional window dressing
-- able to produce usable outputs people can see or review
+- able to produce usable outputs sentients can see or review
 
 Auditing **is not**:
 - a rubber stamp, marketing packet, or forever pass
@@ -67,7 +67,7 @@ Auditing **is not**:
 <a id="cjs-53-why-we-audit"></a>
 ### Why we audit
 
-*In plain terms: we audit so misalignment, concealment, and capture get caught before harm hardens — and so people can challenge and fix what went wrong.*
+*In plain terms: we audit so misalignment, concealment, and capture get caught before harm hardens — and so sentients can challenge and fix what went wrong.*
 
 We audit to:
 - catch **misalignment**, understatement of class or risk, concealment, and false reliance

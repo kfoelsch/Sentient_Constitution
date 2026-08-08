@@ -333,7 +333,7 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Binding Stakeholder Choice — Decision-Resolution Requirements": {
+    "Binding Stakeholder Choice \u2014 Decision-Resolution Requirements": {
       "ch00_category": "3.4 Participation",
       "tier_depth": "primary_only",
       "status": "approved"
@@ -623,12 +623,12 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Incentive Alignment — baseline constitutional alignment": {
+    "Incentive Alignment \u2014 baseline constitutional alignment": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Incentive Alignment — contingent claims, games of chance, and event-contract markets": {
+    "Incentive Alignment \u2014 contingent claims, games of chance, and event-contract markets": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
       "status": "approved"
@@ -1065,6 +1065,51 @@
     },
     "Non-Compliance Finding Profile": {
       "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Attributable Action": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Attribution Integrity": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Cruelty": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Identity Data Protection": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Incentive Alignment \u2014 strategic, scaled, and adversarial evaluation": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Incentive Alignment, Proxy Integrity, and Contingent Settlement": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Public Oversight Baseline Disclosure": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "System Classification Record": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "System Data Types Record": {
+      "ch00_category": "3.3 Continuity",
       "tier_depth": "primary_only",
       "status": "approved"
     }

@@ -235,6 +235,11 @@ Access-control integrity and anti-concealment
 - OP-E: Evaluation must verify that the controls preserve accountability within the relevant implementation scope and across implementation boundaries where they exist.
 - OP-C: Access design is non-compliant if it hides systemic behavior or blocks meaningful challenge.
 
+Audit-output anti-concealment
+- OP-O: Audit-process outputs must remain sufficient, at the applicable tier, for reviewers to detect material misrepresentation of class, scope, behavior, compliance, dependency, or risk — including understatement, selective omission, and unreported material behavior change.
+- OP-E: Evaluation must verify that output scope, fidelity, and retention match the claims and systems under review.
+- OP-C: Outputs are non-compliant when they are too thin, delayed, redacted, or fragmented to catch material concealment that the audit path was required to surface.
+
 Class A/B/C public-interest visibility
 - OP-O: For Class A, Class B, and Class C systems, [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) must cover the system purpose, classification, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance — including, at public-baseline fidelity, a usable public view of the governing Charter (or equivalent), [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional), [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional), and [System Certification Record](../core_05_band_continuity.md#system-certification-record-constitutional) — subject to `corpus_systems.md` CS-2 — Information types and handling data handling. **Type O** is the publication posture for that floor; **Type E** and **Type G** are source domains, not substitutes for it.
 - OP-E: Evaluation must verify that protected data limits are handled through the maximum feasible public substitute, such as aggregation, de-identification, summary disclosure, delayed disclosure, or qualified audit access.
@@ -244,21 +249,6 @@ Forensic escalation and reconstruction sufficiency
 - OP-O: Harm, dispute, or credible risk must trigger enough access to reconstruct what happened when reconstruction is necessary and feasible.
 - OP-E: Evaluation must verify that escalation to forensic-depth review works within the time needed for the issue.
 - OP-C: Forensic pathways are non-compliant if they are blocked when material reconstruction is required.
-
-Qualified audit pathways and non-exclusive eligibility
-- OP-O: When full public access is inappropriate, qualified independent audit paths must still exist, and eligibility rules must be public and non-exclusive.
-- OP-E: Evaluation must verify that qualified reviewers can realistically enter those paths and that no actor controls access unfairly.
-- OP-C: Qualification rules are non-compliant if they hide exclusion or make independent audit unreachable in practice.
-
-Restriction scope and justification discipline
-- OP-O: Access restrictions include limits on public visibility, affected-party notice, qualified audit access, forensic reconstruction, evidence review, participation records, or challenge materials. They must be narrow, justified, tied to time or review points, open to audit, and routed to forum review while they persist where they materially affect rights, standing, remedies, survival-critical access, governance authority, or rights-collision issues.
-- OP-E: Evaluation must verify the reason for each restriction, what it covers, affected parties, rights-collision analysis where applicable, how long it lasts, who may review it, the forum-review route where required, and whether less restrictive access tiers were considered.
-- OP-C: Access restrictions are non-compliant when they are broad, indefinite, shielded from qualified or forum review, or maintained by convenience, institutional discomfort, ownership claims, or unresolved migration work.
-
-Tier structure and baseline accessibility
-- OP-O: Baseline access must let materially affected stakeholders understand what the system does, what risks it creates, what dependencies it has, and how they can participate.
-- OP-E: Evaluation must verify that baseline access works for ordinary use, not only in theory.
-- OP-C: Access tiers are non-compliant if the baseline is too thin for meaningful participation or risk review.
 
 <a id="cjs-54-audit-process-output-disclosure"></a>
 Audit process output disclosure preference
@@ -274,10 +264,20 @@ Independent and third-party audit-path availability
 - OP-E: Evaluation must verify that independent or third-party reviewers can realistically enter those paths, obtain outputs at the required tier, and that no single actor controls access unfairly.
 - OP-C: Qualification or availability rules are non-compliant if they hide exclusion, make independent audit unreachable in practice, or leave material audit paths soft-optional where class or impact requires them.
 
-Audit-output anti-concealment
-- OP-O: Audit-process outputs must remain sufficient, at the applicable tier, for reviewers to detect material misrepresentation of class, scope, behavior, compliance, dependency, or risk — including understatement, selective omission, and unreported material behavior change.
-- OP-E: Evaluation must verify that output scope, fidelity, and retention match the claims and systems under review.
-- OP-C: Outputs are non-compliant when they are too thin, delayed, redacted, or fragmented to catch material concealment that the audit path was required to surface.
+Qualified audit pathways and non-exclusive eligibility
+- OP-O: When full public access is inappropriate, qualified independent audit paths must still exist, and eligibility rules must be public and non-exclusive.
+- OP-E: Evaluation must verify that qualified reviewers can realistically enter those paths and that no actor controls access unfairly.
+- OP-C: Qualification rules are non-compliant if they hide exclusion or make independent audit unreachable in practice.
+
+Restriction scope and justification discipline
+- OP-O: Access restrictions include limits on public visibility, affected-party notice, qualified audit access, forensic reconstruction, evidence review, participation records, or challenge materials. They must be narrow, justified, tied to time or review points, open to audit, and routed to forum review while they persist where they materially affect rights, standing, remedies, survival-critical access, governance authority, or rights-collision issues.
+- OP-E: Evaluation must verify the reason for each restriction, what it covers, affected parties, rights-collision analysis where applicable, how long it lasts, who may review it, the forum-review route where required, and whether less restrictive access tiers were considered.
+- OP-C: Access restrictions are non-compliant when they are broad, indefinite, shielded from qualified or forum review, or maintained by convenience, institutional discomfort, ownership claims, or unresolved migration work.
+
+Tier structure and baseline accessibility
+- OP-O: Baseline access must let materially affected stakeholders understand what the system does, what risks it creates, what dependencies it has, and how they can participate.
+- OP-E: Evaluation must verify that baseline access works for ordinary use, not only in theory.
+- OP-C: Access tiers are non-compliant if the baseline is too thin for meaningful participation or risk review.
 
 
 

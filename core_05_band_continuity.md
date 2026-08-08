@@ -2291,7 +2291,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Scope:** how the Constitution judges and limits systems — by looking at everything a system actually does (full functional scope), and whether people still have real ways to change it or leave it.
+- **Scope:** how the Constitution judges and limits systems — by looking at everything a system actually does (full functional scope), and whether sentients still have real ways to change it or leave it.
 - **Joint invocation:** where what counts as the system, where its edges are drawn, what published scope instruments claim authority for, or whether exit or corrective action has been cut off, is material.
 - **Floor protection:** drawing boundaries or framing a [Charter](core_05_band_continuity.md#charter) must not shrink that full-scope look, or defeat [Meaningful Agency](core_05_band_participation.md#meaningful-agency) or [Contestability](core_05_band_accountability.md#contestability).
 
@@ -2435,7 +2435,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
     It supports institutional creation under [System Creation](core_05_band_participation.md#system-creation-constitutional) and [Business Creation](core_05_band_participation.md#business-creation-constitutional) by making operated scope reviewable without narrowing those floors. Adopt, amend, and supervise mechanics route to [corpus_institutions.md](corpus_institutions.md) under **Chapter Sixteen** incorporation discipline.
   - **Out of scope:**
-    - treaties, compacts, or charters under Chapter Twelve that found or authorize a political community (different meaning of "charter"); or
+    - treaty, compact, or charter under Chapter Twelve that found or authorize a political community (Chapter Twelve instrument sense, not Chapter Five Charter); or
     - ordinary marketing copy or mission slogans not offered as the published scope instrument.
 <a id="charter-a"></a>
 - **How to measure and assess**
@@ -2841,7 +2841,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - displacement; or
   - innovation-reward.
 
-  See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+  See **Joint invocation and satisfaction**.
 - **Read with:** [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) where productive-activity organizing is materially implicated.
 
 **Cluster members.** This cluster comprises:
@@ -3258,7 +3258,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
     **Primary assessment:** Test what actually happens to the affected population as a whole — not one employer or one platform in isolation:
     - compare compensation, attribution, and livelihood sustainability to the situation before deployment;
-    - check for [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) (metrics that look good while real outcomes worsen) and [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) (needless harm that could have been prevented). Claims about overall gains do not satisfy this floor when the people doing the work are worse off, including claims framed as:
+    - check for [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) (metrics that look good while real outcomes worsen) and [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) (needless harm that could have been prevented). Claims about overall gains do not satisfy this floor when the sentients doing the work are worse off, including claims framed as:
       - aggregate productivity ("the economy got more productive");
       - efficiency;
       - innovation; or
@@ -3344,7 +3344,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - compliance-artifact; or
   - short-horizon efficiency or incentive questions.
 
-See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+See **Joint invocation and satisfaction**.
 
 **Cluster members.** This cluster comprises:
 - [Stewardship](core_05_band_continuity.md#stewardship-constitutional) — principle-layer orientation toward preserving constitutional alignment, repair capacity, distributed understanding, and long-horizon Continuity-aim effects;
@@ -3697,7 +3697,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 - **Operational alignment:** data handling must align with **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, including Type N protections for internal-state data and proportional safeguards for all CS-2 data types.
 - **Anti-bypass:** privacy matters within admission scope must not be segmented across articles or definitions to satisfy one article's standard while evading another's materially implicated discipline, or to isolate privacy analysis from internal-state-boundary or surveillance-boundary assessment where those protections materially intersect. Anti-read-across for standard-setting remains as stated under **Def.C3**.
 
-See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+See **Joint invocation and satisfaction**.
 
 **Cluster members.** This cluster comprises the **Def.C3** enumeration:
 - [Privacy (Informational)](core_05_band_continuity.md#privacy-informational) — lifecycle protection of personal, relational, experiential, likeness, metadata, internal-state-adjacent, and comparable information;
@@ -3769,14 +3769,6 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 ##### Protected Internal-State Boundary
 
-<a id="identity-data-protection"></a>
-
-##### Identity Data Protection
-
-- **What it is**
-  - **In scope:** identity and attribution data (Type H, I) may not be used to expose or reconstruct internal and cognitive data (Type N), including by inferring internal states from identity-linked signals.
-  - **Core constraint:** no system may use identity-linked data to infer internal states without **explicit consent** or **justified override** under **CJS-5.12** (*burden-of-justification and constraint terms*).
-
 - **What it is**
   - **In scope:** The boundary protecting a sentient's internal states that are:
     - cognitive;
@@ -3801,9 +3793,9 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - biometric or substrate sensor and telemetry data;
     - reconstructing inner states with models or AI;
     - scoring intimate signals (emotion, stress, arousal, and comparable scores);
-    - forcing people to report their own inner states; and
+    - forcing sentients to report their own inner states; and
     - security or productivity tools that expose those states.
-  - **Secondary measure:** [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary), [Consent](core_05_band_participation.md#consent-constitutional), and [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) — co-measures that can defeat boundary protection even when direct recording is avoided.
+  - **Secondary measure:** [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), [Identity Data Protection](core_05_band_continuity.md#identity-data-protection), [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary), [Consent](core_05_band_participation.md#consent-constitutional), and [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) — co-measures that can defeat boundary protection even when direct recording is avoided.
 
     **Secondary assessment:** When evaluating the primary trace, evaluate whether:
     - the practice reconstructs or pressures protected states even if it avoids direct recording; and
@@ -3818,6 +3810,27 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - employment or standing gates; or
     - publication workflows.
   - **Secondary failure:** meeting one article's standard by splitting the issue across articles, while dodging the internal-state protections this cluster still requires.
+
+<a id="identity-data-protection"></a>
+
+##### Identity Data Protection
+
+- **What it is**
+  - **In scope:** The restriction on using identity and attribution data (Type H, I) to expose or reconstruct internal and cognitive data (Type N), including by inferring internal states from identity-linked signals.
+  - **Core constraint:** no system may use identity-linked data to infer internal states without **explicit consent** or **justified override** under **CJS-5.12** (*burden-of-justification and constraint terms*).
+  - **Out of scope:** ordinary identity or credential use that does not link to, infer, or reconstruct Type N internal states.
+<a id="identity-data-protection-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
+
+    **Primary assessment:** Check whether identity-linked records, credentials, or attribution chains are used to infer, score, or reconstruct protected internal states, and whether any such linkage rests on explicit consent or a justified override under **CJS-5.12** (*burden-of-justification and constraint terms*).
+  - **Secondary measure:** [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional), [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), and [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional) — co-measures that can defeat the restricted-linkage ban even when nominal domain separation exists.
+
+    **Secondary assessment:** When evaluating the primary trace, apply **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** domain-separation mechanics and ask whether Type H/I → Type N linkage is blocked in practice.
+<a id="identity-data-protection-c"></a>
+- **What must hold**
+  - **Primary failure:** using identity or attribution data to expose, infer, or reconstruct Type N internal states without explicit consent or a justified override under **CJS-5.12** (*burden-of-justification and constraint terms*).
+  - **Secondary failure:** claiming domain separation while identity-linked signals still feed internal-state inference, scoring, or reconstruction.
 
 <a id="surveillance-boundary"></a>
 
@@ -3908,7 +3921,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
   - treat reliance as justified without the joint observable-and-verifiable evidence discipline both entries require; or
   - satisfy one [Trustworthiness](core_05_band_continuity.md#trustworthiness) assessment subcomponent while bypassing another where materially relevant.
 
-  See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction) and Chapter Three §§1–2.
+  See **Joint invocation and satisfaction** and Chapter Three §§1–2.
 
 **Cluster members.** This cluster comprises:
 - [Trust](core_05_band_continuity.md#trust) — reliance grounded exclusively in demonstrated trustworthiness;
@@ -4065,7 +4078,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
     **Primary assessment:** First confirm this entry actually applies — material reliance is at stake under the scope above. Then evaluate under these requirements together:
     - **Representation-behavior consistency:** check that what the system says matches what it actually does, using [Verifiability](core_05_band_oversight.md#verifiability) evidence — not claims alone.
-    - **Omission and contextual completeness:** check whether people get what they need to decide wisely, including:
+    - **Omission and contextual completeness:** check whether sentients get what they need to decide wisely, including:
       - material facts left out; and
       - enough surrounding context to understand what is being relied on.
     - **Verification, challenge, dependency, and exit:** integrate:

@@ -65,7 +65,7 @@ A **dependent cluster** is a group of definitions that must be met together, ins
 #### Joint invocation and satisfaction
 If a definition — or any part of one — belongs to a dependent cluster, it may not be applied, satisfied, or judged on its own. When cluster members are pieces of one requirement, all of them must be met. Meeting only some of them is not compliance.
 
-Cluster-local applications of this rule appear under **Anti-bypass** (not a second "joint invocation" header). Those bullets state the cluster-specific anti-segmentation rule and may end with `See` this section — they should not reopen with `Under Joint invocation and satisfaction, …`.
+Cluster-local applications of this rule appear under **Anti-bypass** (not a second "joint invocation" header). Those bullets state the cluster-specific anti-segmentation rule and may end with `See` this section — they must not reopen with `Under Joint invocation and satisfaction, …`.
 
 <a id="standalone-definitions-interaction-and-full-context"></a>
 #### Standalone definitions interaction and full context
@@ -98,6 +98,8 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Anti-Constitutional Misconduct Review](core_05_band_accountability.md#anti-constitutional-misconduct-review)
 - [Anti-Displacement Floor](core_05_band_continuity.md#anti-displacement-floor-constitutional)
 - [Assembly](core_05_band_participation.md#assembly-constitutional)
+- [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional)
+- [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional)
 - [Auditability](core_05_band_oversight.md#auditability)
 - [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack)
 - [Autonomous Coercion Tool](core_05_band_accountability.md#autonomous-coercion-tool-constitutional)
@@ -180,10 +182,12 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Harm](core_05_band_accountability.md#harm)
 - [Harm Minimization (Tradeoff Selection)](core_05_band_accountability.md#harm-minimization-tradeoff-selection)
 - [High-Impact and Systemic Harm Publication Constraint](core_05_band_oversight.md#high-impact-and-systemic-harm-publication-constraint)
+- [Identity Data Protection](core_05_band_continuity.md#identity-data-protection)
 - [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
 - [Incentive Alignment — baseline constitutional alignment](core_05_band_integrative.md#incentive-alignment-baseline-constitutional-alignment)
 - [Incentive Alignment — contingent claims, games of chance, and event-contract markets](core_05_band_integrative.md#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets)
 - [Incentive Alignment — strategic, scaled, and adversarial evaluation](core_05_band_integrative.md#incentive-alignment-strategic-scaled-and-adversarial-evaluation)
+- [Incentive Alignment, Proxy Integrity, and Contingent Settlement](core_05_band_integrative.md#incentive-alignment-proxy-integrity-and-contingent-settlement)
 - [Indigenous Continuity](core_05_band_continuity.md#indigenous-continuity-constitutional)
 - [Info-Sphere](core_05_band_participation.md#info-sphere)
 - [Innovation Reward and Anti-Enclosure](core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
@@ -258,7 +262,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Self-Healing](core_05_band_continuity.md#self-healing-constitutional)
 - [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion)
 - [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional)
-- [Sentient](core_05_band_participation.md#sentient-composite)
+- [Sentient](core_05_band_participation.md#sentient)
 - [Shared-System Capacity](core_05_band_continuity.md#shared-system-capacity-constitutional)
 - [Short-Horizon Governance Defect](core_05_band_continuity.md#short-horizon-governance-defect-constitutional)
 - [Single Catastrophic Incident](core_05_band_accountability.md#single-catastrophic-incident)
@@ -274,8 +278,8 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Stewardship](core_05_band_continuity.md#stewardship-constitutional)
 - [Stewardship Defect](core_05_band_continuity.md#stewardship-defect-constitutional)
 - [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional)
-- [Substrate Class](core_05_band_participation.md#substrate-class)
 - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional)
+- [Substrate Class](core_05_band_participation.md#substrate-agnostic)
 - [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary)
 - [Sustainability](core_05_band_continuity.md#sustainability)
 - [Sustained High-Gravity Pattern](core_05_band_accountability.md#sustained-high-gravity-pattern)

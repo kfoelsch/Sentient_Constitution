@@ -175,7 +175,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     - Rights-layer pointer: [Article IX-C](core_06-06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*).
     - Applies under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Out of scope:**
-    - ordinary impact-weighted stakeholder decisions once a domain already has authorized governing structures and processes — people who are affected get a say scaled to how much they are affected through [Stakeholder](core_05_band_participation.md#stakeholder) identification and [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight) (including **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) constraints), not through equal-weight foundational tally rules; and
+    - ordinary impact-weighted stakeholder decisions once a domain already has authorized governing structures and processes — sentients who are affected get a say scaled to how much they are affected through [Stakeholder](core_05_band_participation.md#stakeholder) identification and [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight) (including **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) constraints), not through equal-weight foundational tally rules; and
     - routine operational or policy choices that do not authorize or durably restructure that authority.
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>
@@ -373,6 +373,8 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     - claiming constitutional Incentive Alignment while ignoring adopted implementation requirements that govern incentive integrity for the system under review.
   - **Tertiary failure:** treating proxy or compliance-indicator satisfaction as dispositive where [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
 
+---
+
 <a id="incentive-alignment-baseline-constitutional-alignment"></a>
 
 ##### Incentive Alignment — baseline constitutional alignment
@@ -400,6 +402,8 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     **Primary assessment:** Apply the cluster-head primary assessment across delayed and aggregated effects under the **Depends on** bounds stated above.
 - **What must hold**
   - **Primary failure:** incentive structures that predictably push delayed or aggregated behavior against the Safety, Truth, Trust, or Meaningful Agency bounds stated above.
+
+---
 
 <a id="incentive-alignment-strategic-scaled-and-adversarial-evaluation"></a>
 
@@ -431,6 +435,8 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 - **What must hold**
   - **Primary failure:** claiming incentive alignment while omitting materially relevant adversarial, scaled, or exploited conditions from the evaluation — including using ideal-lab or one-off misuse anecdotes as a stand-in for pressure, scale, coordination, or deliberate exploitation.
 
+---
+
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 
 ##### Incentive Alignment — contingent claims, games of chance, and event-contract markets
@@ -459,9 +465,9 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether bets, prediction markets, and chance-based payouts avoid rewarding unlawful harm, insider power, or twisting of public or fiduciary decisions.
 
     **Primary assessment:** Such systems must satisfy [Chapter One §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets), including:
-    - apply [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) to the underlying events people may bet on or settle against;
+    - apply [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) to the underlying events sentients may bet on or settle against;
     - keep outcome-resolution fair and independent — use more than one source where feasible, and keep dispute paths open to challenge;
-    - limit how much concentration, leverage, and exposure any actor can take on, scaled to how vulnerable people and the wider system are;
+    - limit how much concentration, leverage, and exposure any actor can take on, scaled to how vulnerable sentients and the wider system are;
     - check for misuse under coordination and high-scale conditions; and
     - treat prices and odds as market signals only — not, by themselves, as proof of truth or compliance; use the same evidence standards as other high-impact decisions.
   - **Secondary measure:** [Risk](core_05_band_continuity.md#risk), [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways), and [Insider Advantage](core_05_band_accountability.md#insider-advantage) — integrity overlays that can defeat contingent-settlement alignment even when the §11.5 design controls look satisfied.
@@ -540,7 +546,7 @@ questions in a way that:
 - treats non-binding material as operative corpus; or
 - inverts supremacy ordering without a valid adoption path.
 
-See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+See **Joint invocation and satisfaction**.
 
 *Measurements (family routing):* Measured under the Oversight measurement family and Accountability measurement family. Find the concrete measures on the member definitions below.
 
@@ -631,22 +637,20 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     <a id="constitutional-owner-layers"></a>
     <a id="constitutional-owner-layers-a"></a>
     <a id="constitutional-owner-layers-c"></a>
-    **Owner register and non-relocation.** The positive register of which chapter owns which substantive domain is the [Preamble — constitutional owner register](core_00_preamble.md#constitutional-owner-register) (sections 4–7), read with chapter opening owner statements. That register works with this entry as follows:
-    1. identify source status under the Authority Stack;
-    2. identify the substantive owner under the Preamble register (and the chapter's binding opening owner claim);
-    3. apply Internal Hierarchy only for genuine residual incompatibility within the binding constitutional source.
+    - **Owner register and non-relocation.** The positive register of which chapter owns which substantive domain is the [Preamble — constitutional owner register](core_00_preamble.md#constitutional-owner-register) (sections 4–7), read with chapter opening owner statements. That register works with this entry as follows:
+      1. identify source status under the Authority Stack;
+      2. identify the substantive owner under the Preamble register (and the chapter's binding opening owner claim);
+      3. apply Internal Hierarchy only for genuine residual incompatibility within the binding constitutional source.
+    - **Non-relocation rule:** Under ordinary operation, text in one owner layer must not import obligations from another owner layer except by:
+      - pointer;
+      - read-with routing; or
+      - express cross-reference.
 
-    **Non-relocation rule:** Under ordinary operation, text in one owner layer must not import obligations from another owner layer except by:
-    - pointer;
-    - read-with routing; or
-    - express cross-reference.
-
-    Pointer cross-references, read-with routing, and integration sentences such as "implementation belongs in" or "must not narrow" are permitted. **Substantive restatement** into a non-owner layer is non-compliant. Where validity or governance chapters use trigger, referral, or escalation language, that language operates as a **routing heuristic only** unless the owner chapter expressly states otherwise.
-
+      Pointer cross-references, read-with routing, and integration sentences such as "implementation belongs in" or "must not narrow" are permitted. **Substantive restatement** into a non-owner layer is non-compliant. Where validity or governance chapters use trigger, referral, or escalation language, that language operates as a **routing heuristic only** unless the owner chapter expressly states otherwise.
     <a id="supremacy-and-enforceability"></a>
     <a id="supremacy-and-enforceability-a"></a>
     <a id="supremacy-and-enforceability-c"></a>
-    **Supremacy.** Binding corpus obligations prevail within their valid source, adoption, and governance-layer scope. That supremacy effect is the outcome of applying this entry together with the operative [Corpus](core_05_band_integrative.md#corpus) and the applicable adoption or incorporation instrument — including [Chapter Fourteen](core_13-15_amendment.md#3-supremacy-relative-to-other-binding-norms) supremacy relative to other norms. Implementation, support text, private ordering, emergency framing, or operational practice must not narrow those binding obligations within their valid scope.
+    - **Supremacy.** Binding corpus obligations prevail within their valid source, adoption, and governance-layer scope. That supremacy effect is the outcome of applying this entry together with the operative [Corpus](core_05_band_integrative.md#corpus) and the applicable adoption or incorporation instrument — including [Chapter Fourteen](core_13-15_amendment.md#3-supremacy-relative-to-other-binding-norms) supremacy relative to other norms. Implementation, support text, private ordering, emergency framing, or operational practice must not narrow those binding obligations within their valid scope.
 
     Practical enforceability of binding claims — observable, contestable compliance rather than paper promises — is assessed under [Auditability](core_05_band_oversight.md#auditability) and [Contestability](core_05_band_accountability.md#contestability). Governance-layer anti-substitution (Constitutional Contract vs Stakeholder System Participation) lives under [Preamble §3.3](core_00_preamble.md#governance-layer-discipline) and [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer).
 

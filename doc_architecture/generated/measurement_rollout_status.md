@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-08-08T00:42:57+00:00
+Generated: 2026-08-08T01:05:29+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **211/212** terms pass tier audit.
+Approved progress: **221/221** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -19,6 +19,7 @@ Approved progress: **211/212** terms pass tier audit.
 | Collective Harm Boundary | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Combatant / Non-Combatant Distinction | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Creative Work Attribution | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| Cruelty | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Environmental Preconditions | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Fair Compensation | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Harassment and Bullying | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
@@ -55,6 +56,7 @@ Approved progress: **211/212** terms pass tier audit.
 | Emergency Pre-Deliberation Action (Binding Collective Choice) | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Essential-Environment Non-Commodification | approved | primary_only | independent | `core_05_band_continuity.md` | yes | pass |
 | Existential Risk | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| Identity Data Protection | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Indigenous Continuity | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Intergenerational Responsibility | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Language, Culture, and Heritage | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
@@ -76,6 +78,8 @@ Approved progress: **211/212** terms pass tier audit.
 | System Boundary Integrity | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | System Capture | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | System Certification Record | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| System Classification Record | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| System Data Types Record | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Systemic | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Systemic Lock-In | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Systemic Materiality | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
@@ -120,7 +124,7 @@ Approved progress: **211/212** terms pass tier audit.
 | Procedural Fairness | approved | primary_secondary | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Protected Characteristic Proxying and Disparate Impact | approved | full | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Protected Characteristics | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
-| Protected Internal-State Boundary | approved | primary_secondary | — | `core_05_band_continuity.md` | no | fail |
+| Protected Internal-State Boundary | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Refuge from Non-Compliance | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Reproductive Autonomy | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
@@ -163,6 +167,7 @@ Approved progress: **211/212** terms pass tier audit.
 | Press and Journalistic Activity | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Protected Data and Internal-State Publication Constraint | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Proxy Divergence | approved | full | measurement_family_member | `core_05_band_oversight.md` | yes | pass |
+| Public Oversight Baseline Disclosure | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Publication Truthfulness and Recklessness Floor | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Reasonably Foreseeable | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Risk Disclosure | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
@@ -181,6 +186,8 @@ Approved progress: **211/212** terms pass tier audit.
 | Accountability | approved | primary_only | tetrad_leg_head | `core_05_apex_accountability_leg.md` | no | pass |
 | Adjudication and Dispute Resolution | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Anti-Constitutional Misconduct Review | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
+| Attributable Action | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
+| Attribution Integrity | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Collective Accountability Failure | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Competency Bar | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Competency Clearance | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
@@ -209,6 +216,8 @@ Approved progress: **211/212** terms pass tier audit.
 | Incentive Alignment | approved | full | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Incentive Alignment — baseline constitutional alignment | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Incentive Alignment — contingent claims, games of chance, and event-contract markets | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
+| Incentive Alignment — strategic, scaled, and adversarial evaluation | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
+| Incentive Alignment, Proxy Integrity, and Contingent Settlement | approved | primary_secondary | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Innovation Reward and Anti-Enclosure | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Insider Advantage | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Market Concentration Threshold | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |

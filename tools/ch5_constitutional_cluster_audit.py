@@ -19,7 +19,7 @@ CLUSTER_HEADING_RE = re.compile(r"^#### (Def\.[OPACI]\d+) .+$", re.MULTILINE)
 
 EXPECTED_CLUSTER_IDS = [
     "Def.O1", "Def.O2",
-    "Def.P1", "Def.P2", "Def.P3",
+    "Def.P1", "Def.P2", "Def.P3", "Def.P4",
     "Def.A1", "Def.A2", "Def.A3", "Def.A4",
     "Def.C1", "Def.C2", "Def.C3", "Def.C4",
     "Def.I1",
@@ -27,7 +27,7 @@ EXPECTED_CLUSTER_IDS = [
 
 BAND_CLUSTER_RANGES = {
     "core_05_band_oversight.md": {"Def.O1", "Def.O2"},
-    "core_05_band_participation.md": {"Def.P1", "Def.P2", "Def.P3"},
+    "core_05_band_participation.md": {"Def.P1", "Def.P2", "Def.P3", "Def.P4"},
     "core_05_band_accountability.md": {"Def.A1", "Def.A2", "Def.A3", "Def.A4"},
     "core_05_band_continuity.md": {"Def.C1", "Def.C2", "Def.C3", "Def.C4"},
     "core_05_band_integrative.md": {"Def.I1"},

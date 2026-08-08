@@ -46,7 +46,7 @@ These type letters name different kinds of data and how they are usually shared 
 
 **Accessibility posture:** Open / accessible by default (strong presumption) ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
 
-*In plain terms: data people need to stay safe and coordinate help — environment, infrastructure, emergencies — should stay open and useful unless publishing it would itself cause serious harm.*
+*In plain terms: data sentients need to stay safe and coordinate help — environment, infrastructure, emergencies — should stay open and useful unless publishing it would itself cause serious harm.*
 
 **Definition:** Data necessary to preserve sentient survival, environmental integrity, and critical substrate health. This data enables sentients and systems to perceive reality and coordinate harm prevention. Examples include:
 - **ecological and environmental condition** data; **air, water, soil, climate, biodiversity, and contamination** data
@@ -54,7 +54,7 @@ These type letters name different kinds of data and how they are usually shared 
 - **resource availability** for food, water, shelter, energy, processing continuity, and communication access
 - **system health, reliability, and degradation** data for critical shared infrastructure
 - **emergency condition and hazard** signals (underlying coordination streams, not merely public-baseline notices)
-- **where environmental harm comes from and how heavy its load is** on the living world and the shared life-support systems people depend on
+- **where environmental harm comes from and how heavy its load is** on the living world and the shared life-support systems sentients depend on
 
 **Relationship to Type O:**
 - **Type E** is the **content domain** for survival- and coordination-critical data — not [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure).
@@ -77,7 +77,7 @@ These type letters name different kinds of data and how they are usually shared 
 
 <br>
 
-*In plain terms: keep survival and coordination data usable where people need it, make access real rather than symbolic, limit secrecy to cases where publishing would itself cause serious harm, and never fake openness by starving, hiding, or failing to maintain the data.*
+*In plain terms: keep survival and coordination data usable where sentients need it, make access real rather than symbolic, limit secrecy to cases where publishing would itself cause serious harm, and never fake openness by starving, hiding, or failing to maintain the data.*
 
 **Core duty.** **Type E** data must remain available for timely understanding, coordination, and response when harm with **non-trivial** impact is at stake for sentients, the environment, or critical substrate systems. Systems must **not** withhold, obscure, degrade, or monopolize it in ways that defeat that purpose.
 
@@ -153,11 +153,11 @@ These type letters name different kinds of data and how they are usually shared 
 
 **Accessibility posture:** Open / accessible by default (strong presumption for Public Oversight Baseline Disclosure release) ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
 
-*In plain terms: [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) — what must be published so people can understand high-impact systems, including a strong public substitute when Type G, Type E, or other raw private or non-baseline records cannot be released as that disclosure.*
+*In plain terms: [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) — what must be published so sentients can understand high-impact systems, including a strong public substitute when Type G, Type E, or other raw private or non-baseline records cannot be released as that disclosure.*
 
 **Definition:** Data released or required to be released as [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) for transparency, oversight, and contestability — including lawful substitutes where **Type G**, **Type E**, or other source records remain non-public, non-baseline, or otherwise restricted. Canonical meaning is in Chapter Five; this type owns systems-layer typing and handling.
 
-**Class A/B/C public-baseline content.** Where the [Type O baseline for Class A/B/C](cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems) applies, **Type O** carries [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) — the **public explanation** of chartered and certified scope — mapped under Part A §7 from the governing [Charter](../core_05_band_continuity.md#charter) (or equivalent), assigned class, and observed [System Boundaries](../core_05_band_continuity.md#system-boundaries) — not a second taxonomy. It includes information people need to understand:
+**Class A/B/C public-baseline content.** Where the [Type O baseline for Class A/B/C](cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems) applies, **Type O** carries [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) — the **public explanation** of chartered and certified scope — mapped under Part A §7 from the governing [Charter](../core_05_band_continuity.md#charter) (or equivalent), assigned class, and observed [System Boundaries](../core_05_band_continuity.md#system-boundaries) — not a second taxonomy. It includes information sentients need to understand:
 - purpose and what the system does
 - how it is classified
 - dependency structure and what depends on it
@@ -205,7 +205,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 
 <br>
 
-*In plain terms: publish the Public Oversight Baseline Disclosure people need, keep it free and usable online where that infrastructure exists, and never treat audit-only access or thin summaries as good enough.*
+*In plain terms: publish the Public Oversight Baseline Disclosure sentients need, keep it free and usable online where that infrastructure exists, and never treat audit-only access or thin summaries as good enough.*
 
 **Core duty.** **Type O** data must remain sufficiently accessible for informed participation, oversight, and challenge at the Public Oversight Baseline Disclosure tier.
 
@@ -225,7 +225,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 
 **Accessibility posture:** Restricted by default ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
 
-*In plain terms: logs of what people and systems did together — keep only what you need, and do not turn them into surveillance or a back door into someone's identity or inner life.*
+*In plain terms: logs of what sentients and systems did together — keep only what you need, and do not turn them into surveillance or a back door into someone's identity or inner life.*
 
 **Definition:** Records of interactions, exchanges, participation, and operational events that do **not** by themselves constitute internal cognitive data but may reveal patterns of behavior, dependency, association, or system impact. Examples include:
 - **transaction and transfer** records
@@ -254,7 +254,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 
 <br>
 
-*In plain terms: collect only what you need for a real purpose, let people see their own activity where feasible, and do not stitch logs into surveillance or a reconstruction of someone’s inner life or identity.*
+*In plain terms: collect only what you need for a real purpose, let sentients see their own activity where feasible, and do not stitch logs into surveillance or a reconstruction of someone’s inner life or identity.*
 
 **Core duty.**
 - Collection and use must be **limited to the minimum necessary** for the justified purpose.
@@ -282,7 +282,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 
 **Accessibility posture:** Restricted by default ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
 
-*In plain terms: who is who — credentials, identifiers, and other data that ties a person to an identity, including sensitive private records such as medical or financial data when they identify someone — needed for verification and accountability, but not for tracking people everywhere or locking them into one identity forever.*
+*In plain terms: who is who — credentials, identifiers, and other data that ties a sentient to an identity, including sensitive private records such as medical or financial data when they identify someone — needed for verification and accountability, but not for tracking sentients everywhere or locking them into one identity forever.*
 
 **Definition:** All data used to establish, verify, or associate **identity, authorship, ownership, or responsibility** within systems. Examples include:
 - **identity credentials, keys, signatures**, or equivalent verification mechanisms

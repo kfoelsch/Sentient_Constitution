@@ -377,7 +377,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 <br>
 
-*In plain terms: when an action materially affects people or shared systems, it must be possible to tell who or what is responsible for it well enough to review, challenge, and correct it.*
+*In plain terms: when an action materially affects sentients or shared systems, it must be possible to tell who or what is responsible for it well enough to review, challenge, and correct it.*
 
 - **What it is**
   - **In scope:** A materially relevant action whose origin, responsible actor, and answerability chain can be traced to identifiable systems, agents, or sentients with enough fidelity for audit, review, correction, and remedy. Covered actions include those affecting sentients, shared infrastructure, resource systems, or the info-sphere.
@@ -1338,7 +1338,7 @@ Outside that admission scope, component definitions may still operate as support
 - treats bare [Harm](core_05_band_accountability.md#harm) magnitude as a substitute for [Cruelty](core_05_band_accountability.md#cruelty) analysis where suffering-as-end or gratuitous infliction is materially implicated; or
 - separates generic [Harm](core_05_band_accountability.md#harm) or the [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary) from [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying) when patterned unwanted conduct is materially involved.
 
-See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+See **Joint invocation and satisfaction**.
 
 The following limits also apply:
 
@@ -1618,7 +1618,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
 - avoid formal referral requirements; or
 - defeat backup routing that prevents a forum from judging its own matter.
 
-See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+See **Joint invocation and satisfaction**.
 
 *Measurements (family routing):* Measured under the Accountability measurement family and Timeliness measurement family. Find the concrete measures on the member definitions below.
 
@@ -1983,7 +1983,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 
 **Anti-bypass.** A matter within the admission scope must not be segmented into separate narrative, procedural, evidentiary, standing-effect, or incident-gravity compartments in a way that defeats joint assessment, verified-input gates, standing-lock discipline, Chapter Ten designation review, or non-substitution discipline required by Chapters Eight through Ten.
 
-See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+See **Joint invocation and satisfaction**.
 
 *Measurements (family routing):* Measured under the Accountability measurement family and Timeliness measurement family. Find the concrete measures on the member definitions below.
 
@@ -2699,7 +2699,7 @@ Outside that admission scope, individual definitions may operate as supporting I
 
 **Anti-bypass.** A matter within the admission scope must not be segmented into separate authorization, targeting, weapons-class, autonomy, coercion, or review questions in a way that satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties.
 
-See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+See **Joint invocation and satisfaction**.
 
 *Measurements (family routing):* Measured under the Accountability measurement family. Find the concrete measures on the member definitions below.
 
