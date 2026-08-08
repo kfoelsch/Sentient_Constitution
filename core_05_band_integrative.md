@@ -295,7 +295,10 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
 #### Incentive Alignment, Proxy Integrity, and Contingent Settlement
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group is the Accountability measurement family's joint home for whether rewards, targets, and governance signals stay aligned with constitutional outcomes — including proxy integrity and contingent-settlement discipline under [Chapter One §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture).
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope):
+
+- **Joint invocation:** where incentive structures, proxy integrity, or contingent-settlement discipline is material under [Chapter One §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture).
+- **Scope:** where joint invocation is met, the Accountability measurement family's joint home for whether rewards, targets, and governance signals stay aligned with constitutional outcomes — including proxy integrity and contingent-settlement discipline.
 
 **Topic group members.** This group comprises:
 - [Incentive Alignment](core_05_band_integrative.md#incentive-alignment) — the general rule for incentive structures and proxy integrity;

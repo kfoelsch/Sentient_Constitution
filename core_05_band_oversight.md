@@ -204,7 +204,12 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 #### Materiality, impact, risk, and proxy integrity
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group answers two questions — when do effects matter enough constitutionally, and do the metrics still track reality? Evaluation must rest on real effects — not on manipulable proxies.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope):
+
+- **Joint invocation:** where materiality classification, material impact or risk, proxy integrity, or material degradation of a protected condition is material.
+- **Scope:** where joint invocation is met, the Oversight home for two questions — when do effects matter enough constitutionally, and do the metrics still track reality? Evaluation must rest on real effects — not on manipulable proxies.
+
+**Topic group members.** This group comprises:
 - [Material](core_05_band_oversight.md#material) — whether effects are big enough to matter constitutionally.
 - [Materiality Determination](core_05_band_oversight.md#materiality-determination) — the method for classifying that, for systems or events.
 - [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint) — bars gaming boundaries to shrink the picture.

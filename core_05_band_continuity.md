@@ -153,8 +153,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Scope:** the Continuity home for the Chapter Seven gate that checks whether a [System](core_05_band_continuity.md#system-definition) is constitutionally aligned before sentients rely on it at scale, including the CS-3 [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) and the CS-2 [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) that certification must incorporate when SAC runs. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XV** and [Auditability](core_05_band_oversight.md#auditability) remain).
 - **Joint invocation:** wherever recognition, conditional recognition, validation, revalidation, continued reliance, deployment, or material release from conditions is at issue; wherever a material-impact [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) is required under CS-3; and wherever a material-impact [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) is required under CS-2.
+- **Scope:** where joint invocation is met, the Continuity home for the Chapter Seven gate that checks whether a [System](core_05_band_continuity.md#system-definition) is constitutionally aligned before sentients rely on it at scale, including the CS-3 [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) and the CS-2 [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) that certification must incorporate when SAC runs. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XV** and [Auditability](core_05_band_oversight.md#auditability) remain).
 - **Canonical owner:** process, record contents, supervisory sequence, contestability chain, and the standing-record bridge are stated in [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); System Classification Record dual-axis contents, disclosure, challenge, and reclassification live in [corpus_systems.md](corpus_systems.md) **CS-3 — System classification and handling**; System Data Types Record contents, disclosure, challenge, and retyping live in **CS-2 — Information types and handling**; these entries provide the Chapter Five meanings only.
 - **Cluster boundary:** [Dependency and cross-system support](core_05_band_continuity.md#dependency-and-cross-system-support-semi-independent) remains outside this group — certification may check Article IV duties when shared-infrastructure reliance is in scope, but it is not a member of that Article IV pair.
 
@@ -427,8 +427,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Scope:** the joint read-with home for how systems stay safe, manage risk, recover after failure, and maintain the environmental and wellbeing conditions sentients need — under the **Continuity** and **Flourishing** aims.
 - **Joint invocation:** where resilience, safety, systemic harm, environmental preconditions, or wellbeing routing is material.
+- **Scope:** where joint invocation is met, the joint read-with home for how systems stay safe, manage risk, recover after failure, and maintain the environmental and wellbeing conditions sentients need — under the **Continuity** and **Flourishing** aims.
 
 **Topic group members.** This group comprises:
 - [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) — the non-negotiable duty to prevent, limit, and contain harm;
@@ -988,8 +988,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Scope:** relationship between resource investment and constitutional outcomes.
 - **Joint invocation:** where efficiency, productive capacity, avoidable burden, or burden-reduction routing is material.
+- **Scope:** where joint invocation is met, the relationship between resource investment and constitutional outcomes.
 - **Dependent cluster:** where proportionality, necessity, and feasibility constraints intersect, [the dependent cluster](core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster) governs joint satisfaction.
 - **Floor protection:** does not authorize efficiency gains or burden reduction achieved by weakening:
   - [Safety (Constraint)](core_05_band_continuity.md#safety-constraint);
@@ -1353,8 +1353,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Scope:** environmental stewardship and intergenerational duty.
 - **Joint invocation:** where ecological integrity, recovery capacity, footprint, sustainability, or intergenerational responsibility is material.
+- **Scope:** where joint invocation is met, environmental stewardship and intergenerational duty.
 - **Owner floor:** implements [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*), [Article I-B](core_06-06_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) (*Ecological Footprint and Transparency*), and [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*).
 
 **Topic group members.** This group comprises:
@@ -1732,13 +1732,13 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Scope:** temporary deviation from ordinary rules during exigent conditions.
+- **Joint invocation:** where emergency frameworks, constitutional or stakeholder emergency routing, or pre-deliberation binding action is material.
 - **Triggers:** invocation requires:
   - imminent or manifest grave harm;
   - systemic failure;
   - comparable exigent conditions; or
   - external events qualifying under [Force Majeure](core_05_band_accountability.md#force-majeure-constitutional).
-- **Joint invocation:** where emergency frameworks, constitutional or stakeholder emergency routing, or pre-deliberation binding action is material.
+- **Scope:** where joint invocation is met, temporary deviation from ordinary rules during exigent conditions.
 - **Invocation discipline:** every emergency measure must be:
   - time-limited;
   - documented;
@@ -1949,8 +1949,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Scope:** shared reliance and return-flow adequacy — the Continuity home for how much sentients and systems rely on one another, and what systems drawing value from shared foundations must put back.
 - **Joint invocation:** where dependency mapping, resource-flow transparency, or cross-system extraction is material.
+- **Scope:** where joint invocation is met, shared reliance and return-flow adequacy — the Continuity home for how much sentients and systems rely on one another, and what systems drawing value from shared foundations must put back.
 - **Owner floor:** implements [Article IV](core_06-06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*) — typically [Article IV-A](core_06-06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) read with [Article IV-B](core_06-06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*).
 - **Cluster boundary:** [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_05_band_continuity.md#system-alignment-certification-semi-independent) remains outside this cluster — it is the Chapter Seven gate that may *check* these duties when shared-infrastructure reliance is in scope, not a member of the Article IV pair.
 
@@ -2117,8 +2117,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Scope:** how systems interact, when those interactions raise the stake, and when concentrated power twists the rules — the Continuity home for interaction effects, amplified materiality, and capture risk.
 - **Joint invocation:** where interaction effects, amplified materiality, or capture risk are material.
+- **Scope:** where joint invocation is met, how systems interact, when those interactions raise the stake, and when concentrated power twists the rules — the Continuity home for interaction effects, amplified materiality, and capture risk.
 - **Cluster boundary:** read with [System boundaries, integrity, and exit](core_05_band_continuity.md#system-boundaries-integrity-and-exit) for scoping and exit, and with [Chapter One §11 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) where incentive design is in play.
 
 **Topic group members.** This group comprises:
@@ -2291,8 +2291,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Scope:** how the Constitution judges and limits systems — by looking at everything a system actually does (full functional scope), and whether sentients still have real ways to change it or leave it.
 - **Joint invocation:** where what counts as the system, where its edges are drawn, what published scope instruments claim authority for, or whether exit or corrective action has been cut off, is material.
+- **Scope:** where joint invocation is met, how the Constitution judges and limits systems — by looking at everything a system actually does (full functional scope), and whether sentients still have real ways to change it or leave it.
 - **Floor protection:** drawing boundaries or framing a [Charter](core_05_band_continuity.md#charter) must not shrink that full-scope look, or defeat [Meaningful Agency](core_05_band_participation.md#meaningful-agency) or [Contestability](core_05_band_accountability.md#contestability).
 
 **Topic group members.** This group comprises:
@@ -2519,8 +2519,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Scope:** the foundational conditions that preserve sentient life, function, and capacity for agency — the survival-floor stack.
 - **Joint invocation:** where bodily-maintenance access, occupancy continuity or essential-environment stability, and environmental preconditions are materially interdependent as survival-floor conditions.
+- **Scope:** where joint invocation is met, the foundational conditions that preserve sentient life, function, and capacity for agency — the survival-floor stack.
 - **Owner floor:** implements [Article III](core_06-06_rights_part_a.md#article-iii-survival) (*Survival and Equal Educational Access*) (Survival Floor) and [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*).
 - **Cluster boundary:** [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional) and [Leisure and Rest](core_05_band_continuity.md#leisure-and-rest-constitutional) live in the [Labor and Economic Floor cluster](core_05_band_continuity.md#labor-and-economic-floor-cluster) in Section 3.5, where they participate in the joint-invocation home for **Article III-D** (*Labor and Economic Floor*) rights together with Fair Compensation and Collective Organization.
 
@@ -2655,8 +2655,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Scope:** community and cultural continuity protections, applied substrate-agnostically under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 - **Joint invocation:** where indigenous or community continuity and language, culture, or heritage protections are materially interdependent.
+- **Scope:** where joint invocation is met, community and cultural continuity protections, applied substrate-agnostically under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 - **Owner floor:** implements [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination) (*Nondiscrimination*) and [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) community-continuity protections.
 
 **Topic group members.** This group comprises:

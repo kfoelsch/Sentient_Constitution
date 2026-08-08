@@ -202,7 +202,12 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 #### Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group names contingent settlement forms and the integrity overlay that governs unfair edges in those structures. These definitions operate together where contingent claims, games of chance, or event-contract markets are material, consistent with [Chapter One §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope):
+
+- **Joint invocation:** where contingent claims, games of chance, or event-contract markets are material, consistent with [Chapter One §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
+- **Scope:** where joint invocation is met, the Accountability home for contingent settlement forms and the integrity overlay that governs unfair edges in those structures.
+
+**Topic group members.** This group comprises:
 - [Contingent Claim](core_05_band_accountability.md#contingent-claim) — the genus: a right to a payout that depends on an uncertain future event outside the claim itself.
 - [Event-Contract Market](core_05_band_accountability.md#event-contract-market) — a kind of Contingent Claim: external-event settlement venues.
 - [Game of Chance](core_05_band_accountability.md#game-of-chance) — a kind of Contingent Claim: chance-based payouts.
@@ -340,7 +345,12 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 #### Accountability, contestability, and redress pathways
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. These definitions operate together where review, redress, or resolution of constitutional claims is material.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope):
+
+- **Joint invocation:** where review, redress, or resolution of constitutional claims is material.
+- **Scope:** where joint invocation is met, the Accountability home for the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations.
+
+**Topic group members.** This group comprises:
 - [Accountability](core_05_apex_accountability_leg.md#accountability) — attribution of responsibility.
 - [Contestability](core_05_band_accountability.md#contestability) — ability to challenge and seek remedy.
 - [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) — formal pathways for resolving disputes.
@@ -1007,7 +1017,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 #### Protected reporting and anti-retaliation
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group secures the channels through which constitutional violations, safety failures, and systemic harms are brought to light. [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing) establishes the scope of disclosures shielded from reprisal, while [Protected Reporting Retaliation and Access Interference](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference) defines prohibited responses and access-blocking tactics that would chill legitimate reporting. These definitions protect the information pathways essential to [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), and [Auditability](core_05_band_oversight.md#auditability).
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope):
+
+- **Joint invocation:** where protected reporting, whistleblowing, retaliation against reporters, or interference with reporting access is material.
+- **Scope:** where joint invocation is met, the Accountability home for the channels through which constitutional violations, safety failures, and systemic harms are brought to light — [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing) for disclosures shielded from reprisal, and [Protected Reporting Retaliation and Access Interference](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference) for prohibited responses and access-blocking tactics. These definitions protect the information pathways essential to [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), and [Auditability](core_05_band_oversight.md#auditability).
 
 **Topic group members.** This group comprises:
 - [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing);
@@ -1094,13 +1107,18 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 #### Governance architecture, decentralization, and concentration
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group establishes the structural framework for how authority is organized and constrained. These definitions implement [Chapter One §13 Market Structure](core_01_c_stewardship_capacity_principles.md#13-market-structure) and constrain [System Capture](core_05_band_continuity.md#system-capture) through distributed, accountable authority structures.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope):
+
+- **Joint invocation:** where governance architecture, decentralization scale, market structure, or material concentration of authority is material.
+- **Scope:** where joint invocation is met, the Accountability home for how authority is organized and constrained through distributed, accountable authority structures.
+- **Owner floor:** implements [Chapter One §13 Market Structure](core_01_c_stewardship_capacity_principles.md#13-market-structure) and constrains [System Capture](core_05_band_continuity.md#system-capture).
+- **Principle-layer interface:** read with [Chapter One §9.5 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization). That principle explains how sentient-initiated and community-initiated constitutional work receives a real procedural path without allowing incumbents to monopolize initiative or review. It is not a grant of governing, enforcement, coercive, or merits authority and is not an additional definition in this group.
+
+**Topic group members.** This group comprises:
 - [Governance](core_05_band_accountability.md#governance) — structures, rules, and processes by which systems are directed and held accountable.
 - [Decentralization](core_05_band_accountability.md#decentralization) — placement of authority at the least centralized scale that can satisfy binding requirements.
 - [Market Structure](core_05_band_accountability.md#market-structure-constitutional) — principle-layer discipline for contestable productive conditions.
 - [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) — operational trigger for heightened review when material concentration reaches problematic levels.
-
-**Principle-layer interface.** Read this cluster with [Chapter One §9.5 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization). That principle explains how sentient-initiated and community-initiated constitutional work receives a real procedural path without allowing incumbents to monopolize initiative or review. It is not a grant of governing, enforcement, coercive, or merits authority and is not an additional definition in this cluster.
 
 *Measurements (family routing):* Measured under the Accountability measurement family. Find the concrete measures on [Market Structure](core_05_band_accountability.md#market-structure-constitutional) and [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) below.
 

@@ -356,7 +356,10 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 ---
 #### Assembly, collective organization, and institutional formation
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group answers two questions — can sentients gather and organize together, and can they form new institutions and enterprises? These Rights-Floor definitions implement [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) through substrate-agnostic collective and institutional capacity.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope):
+
+- **Joint invocation:** where assembly, collective organization, system creation, or business creation is material.
+- **Scope:** where joint invocation is met, the Participation home for two questions — can sentients gather and organize together, and can they form new institutions and enterprises? These Rights-Floor definitions implement [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) through substrate-agnostic collective and institutional capacity.
 
 **Topic group members.** This group comprises:
 - [Assembly](core_05_band_participation.md#assembly-constitutional) — gathering and association for expressive, political, and community purposes.
@@ -610,7 +613,10 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 #### Agency, consent, and anti-coercion
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group answers two questions — can sentients make informed, uncoerced choices, and what counts as real consent versus coercion? These definitions protect [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) by ensuring choices reflect authentic understanding rather than exploitation of [Dependency](core_05_band_continuity.md#dependency) or deceptive design.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope):
+
+- **Joint invocation:** where meaningful agency, consent, sexual consent, or coercion and manipulation is material.
+- **Scope:** where joint invocation is met, the Participation home for two questions — can sentients make informed, uncoerced choices, and what counts as real consent versus coercion? These definitions protect [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) by ensuring choices reflect authentic understanding rather than exploitation of [Dependency](core_05_band_continuity.md#dependency) or deceptive design.
 
 **Topic group members.** This group comprises:
 - [Meaningful Agency](core_05_band_participation.md#meaningful-agency) — practical capacity for informed, uncoerced choice.
@@ -845,7 +851,11 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 #### Fairness, protected characteristics, and nondiscrimination
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group sets the equality and fairness disciplines. Read with [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness). Together these definitions implement [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination) (*Nondiscrimination*).
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope):
+
+- **Joint invocation:** where substantive or procedural fairness, protected characteristics, proxying or disparate impact, or intimate-signal / **Article X-C** status gating is material.
+- **Scope:** where joint invocation is met, the Participation home for equality and fairness disciplines. Read with [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness).
+- **Owner floor:** implements [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination) (*Nondiscrimination*).
 
 **Chapter One §2.1 routing map:**
 - [Chapter One §8.1.1 Access and Opportunity](core_01_a_values_principles.md#311-access-and-opportunity) routes primarily through [Accessibility](core_05_band_participation.md#accessibility-constitutional) and [Participation](core_05_apex_participation_leg.md#participation-constitutional).
@@ -1268,7 +1278,11 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 #### Family, care, reproductive autonomy, and instantiation
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group covers chosen family and care, reproductive and family-forming choices, limits on forced separation, and synthetic, hybrid, or operator-controlled creation of new sentients. Ordinary pregnancy and childbirth remain under reproductive autonomy and, after a child exists, developing-sentient care — not Instantiation Consent liability. These definitions implement [Article VII-D](core_06-06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*). Developing-sentient status, best-interest decisions, and graduated capability live in [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) under [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*).
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope):
+
+- **Joint invocation:** where chosen family or care relationships, reproductive or family-forming choices, forced separation, or synthetic, hybrid, or operator-controlled creation of new sentients is material.
+- **Scope:** where joint invocation is met, the Participation home for chosen family and care, reproductive and family-forming choices, limits on forced separation, and synthetic, hybrid, or operator-controlled creation of new sentients. Ordinary pregnancy and childbirth remain under reproductive autonomy and, after a child exists, developing-sentient care — not Instantiation Consent liability. Developing-sentient status, best-interest decisions, and graduated capability live in [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) under [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*).
+- **Owner floor:** implements [Article VII-D](core_06-06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*).
 
 **Topic group members.** This group comprises:
 - [Family and Care Relationships](core_05_band_participation.md#family-and-care-relationships-constitutional) — relationships of support and intimacy that sentients choose.
@@ -1599,7 +1613,11 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 
 #### Stakeholder status and participation weight
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): **Stakeholder System Participation** layer — who a system really affects, and how much say those sentients get once that system's governing rules are already in place. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Implements [Article IX-B](core_06-06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) and [Article XI](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*).
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope):
+
+- **Joint invocation:** where stakeholder status or participation weight inside already-authorized governance is material.
+- **Scope:** where joint invocation is met, the **Stakeholder System Participation** layer — who a system really affects, and how much say those sentients get once that system's governing rules are already in place. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline).
+- **Owner floor:** implements [Article IX-B](core_06-06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) and [Article XI](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*).
 
 **Topic group members.** This group comprises:
 - [Stakeholder](core_05_band_participation.md#stakeholder) — who is materially touched by a specified system or decision domain.
@@ -1731,13 +1749,11 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 
 #### Movement, refuge, and non-statelessness
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group protects:
-- mobility rights; and
-- baseline recognition across regime boundaries.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-These definitions:
-- implement [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*); and
-- keep constitutional protection in force across jurisdictional and structural breaks.
+- **Joint invocation:** where mobility rights, refuge from non-compliance, or baseline recognition across regime boundaries is material.
+- **Scope:** where joint invocation is met, the Participation home for mobility rights and baseline recognition across regime boundaries — keeping constitutional protection in force across jurisdictional and structural breaks.
+- **Owner floor:** implements [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
 
 <a id="movement-refuge-admission-qualifier"></a>
 
