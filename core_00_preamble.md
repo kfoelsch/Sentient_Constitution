@@ -97,9 +97,9 @@ Where Chapter Six, [Chapter Seven](core_07_a_system_alignment_certification_eval
 Governance to fulfill the [**Constitutional Tetrad**](#constitutional-tetrad) under our Constitution has two related but distinct layers:
 
 - The [**Constitutional Contract Layer**](core_05_band_integrative.md#constitutional-contract-layer) governs the authorization of governing authority itself — who may govern, by what legitimacy mechanism, and under what scope and durable terms.
-- [**Stakeholder System Participation**](core_05_band_participation.md#stakeholder-status-emergency-and-participation-weight-cluster) governs the participation, representation, contestability, and [Due Process](core_05_band_accountability.md#due-process-constitutional) owed to sentients materially affected by already-authorized systems, institutions, and bounded decision domains.
+- [**Stakeholder System Participation**](core_05_band_participation.md#stakeholder-status-and-weight-cluster) governs the participation, representation, contestability, and [Due Process](core_05_band_accountability.md#due-process-constitutional) owed to sentients materially affected by already-authorized systems, institutions, and bounded decision domains.
 
-The first two layers may overlap in practice, but stakeholder-level participation in already-authorized systems is not a substitute for constitutional authorization, and constitutional authorization does not erase duties owed under the [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-emergency-and-participation-weight-cluster) layer — including participation, representation, [Contestability](core_05_band_accountability.md#contestability), and [Due Process](core_05_band_accountability.md#due-process-constitutional).
+The first two layers may overlap in practice, but stakeholder-level participation in already-authorized systems is not a substitute for constitutional authorization, and constitutional authorization does not erase duties owed under the [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) layer — including participation, representation, [Contestability](core_05_band_accountability.md#contestability), and [Due Process](core_05_band_accountability.md#due-process-constitutional).
 
 <a id="constitutional-owner-register"></a>
 <a id="4-principles-definitions-and-rights"></a>
@@ -208,7 +208,7 @@ Each summary states what the chapter owns and what it produces.
 **Chapter Twelve — Constitutional contract, legitimacy, and stewardship** ([`core_12-12_governance.md`](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship))
 
 - **What it owns:** Owns the [**Constitutional Contract Layer**](core_05_band_integrative.md#constitutional-contract-layer) — who may govern, by what legitimacy mechanism, under what scope and durable terms, and with what stewardship character must be maintained.
-- **What it produces:** Authorization and legitimacy requirements distinct from [**Stakeholder System Participation**](core_05_band_participation.md#stakeholder-status-emergency-and-participation-weight-cluster) in already-authorized systems — the rules for governing authority itself, not only participation inside it.
+- **What it produces:** Authorization and legitimacy requirements distinct from [**Stakeholder System Participation**](core_05_band_participation.md#stakeholder-status-and-weight-cluster) in already-authorized systems — the rules for governing authority itself, not only participation inside it.
 
 **Chapter Thirteen — Non-regression** ([`core_13-15_amendment.md`](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity))
 

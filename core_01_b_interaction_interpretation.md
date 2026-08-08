@@ -601,7 +601,7 @@ Where **[Chapter Sixteen](core_16-16_incorporation.md#2-authority-stack-and-invo
 
 **Major Chapter Five §3 dependent clusters** (joint-invocation groups — read with Chapters Two through Four when materially relevant):
 
-- [Stakeholder Status, Emergency, and Participation Weight](core_05_band_participation.md#stakeholder-status-emergency-and-participation-weight-cluster) (Stakeholder System Participation layer)
+- [Stakeholder Status and Weight](core_05_band_participation.md#stakeholder-status-and-weight-cluster) (Stakeholder System Participation layer)
 - [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer) and [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
 - [Corpus and Authority Stack](core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
 - [Accountability, Contestability, and Collective Accountability Failure](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster)

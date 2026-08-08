@@ -883,12 +883,12 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Stakeholder Participation Weight": {
+    "Stakeholder Weight": {
       "ch00_category": "3.4 Participation",
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)": {
+    "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)": {
       "ch00_category": "3.4 Participation",
       "tier_depth": "primary_only",
       "status": "approved"

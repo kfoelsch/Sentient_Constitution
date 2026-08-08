@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-08-08T03:01:55+00:00",
+  "generated_at": "2026-08-08T22:55:25+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -583,7 +583,7 @@
             "file": "core_05_band_participation.md",
             "count": 4,
             "anchors": [
-              "#stakeholder-status-emergency-and-participation-weight-cluster",
+              "#stakeholder-status-and-weight-cluster",
               "#substantive-fairness-constitutional"
             ]
           },
@@ -941,7 +941,7 @@
               "#reproductive-autonomy-constitutional-a",
               "#reproductive-autonomy-constitutional-c",
               "#sentience-non-exclusion",
-              "#stakeholder-status-emergency-and-participation-weight-cluster",
+              "#stakeholder-status-and-weight-cluster",
               "#substantive-fairness-constitutional",
               "#substantive-fairness-constitutional-a",
               "#substantive-fairness-constitutional-c",
@@ -1251,7 +1251,7 @@
               "#freedom-bounded-agency-a",
               "#freedom-bounded-agency-c",
               "#meaningful-agency",
-              "#stakeholder-status-emergency-and-participation-weight-cluster"
+              "#stakeholder-status-and-weight-cluster"
             ]
           },
           {
@@ -1625,7 +1625,7 @@
               "#meaningful-agency-a",
               "#meaningful-agency-c",
               "#procedural-fairness-constitutional",
-              "#stakeholder-status-emergency-and-participation-weight-cluster",
+              "#stakeholder-status-and-weight-cluster",
               "#system-creation-constitutional",
               "#system-creation-constitutional-a",
               "#system-creation-constitutional-c"
@@ -2347,9 +2347,9 @@
               "#sentience-status-adjudication-constitutional",
               "#sentient",
               "#stakeholder",
-              "#stakeholder-participation-weight",
-              "#stakeholder-representation-and-participation-weight-limits-binding-stakeholder-choice",
+              "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
               "#stakeholder-rights-collision-record-binding-stakeholder-choice",
+              "#stakeholder-weight",
               "#substantive-fairness-constitutional",
               "#substrate-agnostic",
               "#system-creation-constitutional",
@@ -2867,8 +2867,8 @@
               "#protected-characteristic-proxying-and-disparate-impact",
               "#self-determination-and-meaningful-agency-cluster",
               "#stakeholder",
-              "#stakeholder-participation-weight",
-              "#stakeholder-status-emergency-and-participation-weight-cluster",
+              "#stakeholder-status-and-weight-cluster",
+              "#stakeholder-weight",
               "#substantive-fairness-constitutional"
             ]
           },
@@ -3649,7 +3649,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 177,
+            "count": 183,
             "anchors": [
               "#accessibility-constitutional",
               "#binding-stakeholder-choice-cluster",
@@ -3671,8 +3671,8 @@
               "#sentience-non-exclusion",
               "#sentience-status-adjudication-constitutional",
               "#stakeholder",
-              "#stakeholder-participation-weight",
-              "#stakeholder-status-emergency-and-participation-weight-cluster",
+              "#stakeholder-status-and-weight-cluster",
+              "#stakeholder-weight",
               "#substantive-fairness-constitutional",
               "#system-creation-constitutional"
             ]
@@ -3783,7 +3783,7 @@
           },
           {
             "file": "core_12-12_governance.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
               "#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate",
               "#43-decision-resolution-requirements-for-binding-collective-choice"
@@ -4002,9 +4002,9 @@
               "#procedural-fairness-constitutional",
               "#sentience-non-exclusion",
               "#stakeholder",
-              "#stakeholder-participation-weight",
-              "#stakeholder-representation-and-participation-weight-limits-binding-collective-choice",
-              "#stakeholder-status-emergency-and-participation-weight-cluster"
+              "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
+              "#stakeholder-status-and-weight-cluster",
+              "#stakeholder-weight"
             ]
           },
           {
@@ -4419,7 +4419,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 64,
+            "count": 67,
             "anchors": [
               "#charter",
               "#dependency",
@@ -4472,7 +4472,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 633,
+            "count": 634,
             "anchors": [
               "#accessibility-constitutional",
               "#agency-consent-and-anti-coercion-semi-independent",
@@ -4526,9 +4526,9 @@
               "#sentience-status-adjudication-constitutional",
               "#sentient",
               "#stakeholder",
-              "#stakeholder-participation-weight",
-              "#stakeholder-representation-and-participation-weight-limits-binding-collective-choice",
-              "#stakeholder-status-emergency-and-participation-weight-cluster",
+              "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
+              "#stakeholder-status-and-weight-cluster",
+              "#stakeholder-weight",
               "#substantive-fairness-constitutional",
               "#substrate-agnostic",
               "#substrate-class",
@@ -5421,7 +5421,7 @@
             "anchors": [
               "#binding-stakeholder-choice-cluster",
               "#stakeholder",
-              "#stakeholder-participation-weight"
+              "#stakeholder-weight"
             ]
           },
           {
@@ -6839,10 +6839,10 @@
               "#stakeholder",
               "#stakeholder-a",
               "#stakeholder-c",
-              "#stakeholder-participation-weight",
-              "#stakeholder-participation-weight-a",
-              "#stakeholder-participation-weight-c",
-              "#stakeholder-status-emergency-and-participation-weight-cluster",
+              "#stakeholder-status-and-weight-cluster",
+              "#stakeholder-weight",
+              "#stakeholder-weight-a",
+              "#stakeholder-weight-c",
               "#substantive-fairness-constitutional",
               "#substantive-fairness-constitutional-a",
               "#substantive-fairness-constitutional-c",
@@ -7190,9 +7190,9 @@
               "#stakeholder",
               "#stakeholder-a",
               "#stakeholder-c",
-              "#stakeholder-participation-weight",
-              "#stakeholder-participation-weight-a",
-              "#stakeholder-participation-weight-c"
+              "#stakeholder-weight",
+              "#stakeholder-weight-a",
+              "#stakeholder-weight-c"
             ]
           },
           {
@@ -7590,10 +7590,11 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 25,
+            "count": 26,
             "anchors": [
               "#avoidable-burden",
               "#burden-reduction-duty-constitutional",
+              "#charter",
               "#constitutional-efficiency",
               "#constitutional-emergency-and-contingency",
               "#dependency",
@@ -7626,7 +7627,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 15,
+            "count": 16,
             "anchors": [
               "#binding-collective-choice-decision-resolution-process",
               "#binding-stakeholder-choice-cluster",
@@ -7635,7 +7636,8 @@
               "#rights-collision-record-binding-stakeholder-choice",
               "#sentience-non-exclusion",
               "#stakeholder",
-              "#stakeholder-representation-and-participation-weight-limits-binding-collective-choice",
+              "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
+              "#stakeholder-weight",
               "#substantive-fairness-constitutional"
             ]
           },
@@ -10353,9 +10355,9 @@
               "#stakeholder",
               "#stakeholder-a",
               "#stakeholder-c",
-              "#stakeholder-participation-weight",
-              "#stakeholder-participation-weight-a",
-              "#stakeholder-participation-weight-c"
+              "#stakeholder-weight",
+              "#stakeholder-weight-a",
+              "#stakeholder-weight-c"
             ]
           },
           {
@@ -11880,8 +11882,9 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 14,
+            "count": 19,
             "anchors": [
+              "#binding-stakeholder-choice-cluster",
               "#business-creation-constitutional",
               "#business-creation-constitutional-a",
               "#business-creation-constitutional-c",
@@ -11918,6 +11921,13 @@
             "count": 2,
             "anchors": [
               "#43-institutional-forums"
+            ]
+          },
+          {
+            "file": "core_12-12_governance.md",
+            "count": 1,
+            "anchors": [
+              "#43-decision-resolution-requirements-for-binding-collective-choice"
             ]
           },
           {
@@ -12488,8 +12498,11 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 25,
+            "count": 39,
             "anchors": [
+              "#charter",
+              "#charter-a",
+              "#charter-c",
               "#dependency",
               "#dependency-a",
               "#dependency-c",
@@ -12527,11 +12540,12 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 56,
+            "count": 64,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
               "#accessibility-constitutional-c",
+              "#binding-stakeholder-choice-cluster",
               "#coercion-and-manipulation-constitutional",
               "#coercion-and-manipulation-constitutional-a",
               "#coercion-and-manipulation-constitutional-c",
@@ -12542,9 +12556,10 @@
               "#stakeholder",
               "#stakeholder-a",
               "#stakeholder-c",
-              "#stakeholder-participation-weight",
-              "#stakeholder-participation-weight-a",
-              "#stakeholder-participation-weight-c"
+              "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
+              "#stakeholder-weight",
+              "#stakeholder-weight-a",
+              "#stakeholder-weight-c"
             ]
           },
           {
@@ -14189,9 +14204,9 @@
               "#natural-systems-standing",
               "#natural-systems-standing-a",
               "#natural-systems-standing-c",
-              "#stakeholder-participation-weight",
-              "#stakeholder-participation-weight-a",
-              "#stakeholder-participation-weight-c"
+              "#stakeholder-weight",
+              "#stakeholder-weight-a",
+              "#stakeholder-weight-c"
             ]
           },
           {

@@ -80,7 +80,7 @@ TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS) | {
     "#### Family, care, reproductive autonomy, and instantiation",
     "#### Ecological integrity, footprint, and sustainability",
     "#### System boundaries, integrity, and exit",
-    "#### Stakeholder status and participation weight",
+    "#### Stakeholder status and weight",
     "#### Survival-floor continuity: bodily maintenance, tenure, and environment",
     "#### Community-anchored continuity: indigenous, language, culture, and heritage",
     "#### Materiality, impact, risk, and proxy integrity",
@@ -103,7 +103,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
     ],
     "#### Def.P2 Binding Stakeholder Choice": [
         "Binding Stakeholder Choice — Decision-Resolution Requirements",
-        "Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)",
+        "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
         "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
         "Chapter Twelve §3.3",
     ],

@@ -2,7 +2,7 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-08-08T01:05:29+00:00
+Generated: 2026-08-08T22:55:27+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
 Approved progress: **221/221** terms pass tier audit.
@@ -133,9 +133,9 @@ Approved progress: **221/221** terms pass tier audit.
 | Sentience Status Adjudication | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Sentient | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Stakeholder | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
-| Stakeholder Participation Weight | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
-| Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice) | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
+| Stakeholder Representation and Weight Limits (Binding Stakeholder Choice) | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Stakeholder Rights-Collision Record (Binding Stakeholder Choice) | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
+| Stakeholder Weight | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Substantive Fairness | approved | full | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Substrate Class | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Surveillance Boundary | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |

@@ -498,7 +498,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (institutional development and distributed competence); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / dependency scaling).
 - Owner floor: [Article IX-B](core_06-06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) (stakeholder role and participation rights) and [Article XI](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*) (stakeholder system participation). Read with [Article X-A](core_06-06_rights_part_b.md#article-x-a-cooperative-interaction) (*Non-Imposition and Consent in Association*) (cooperative interaction) and [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
 - Cluster component: [the Assembly, Collective Organization, and Institutional Formation cluster](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster).
-- Read with: [Assembly](core_05_band_participation.md#assembly-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [Governance](core_05_band_accountability.md#governance), [Charter](core_05_band_continuity.md#charter), [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight), [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+- Read with: [Assembly](core_05_band_participation.md#assembly-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [Governance](core_05_band_accountability.md#governance), [Charter](core_05_band_continuity.md#charter), [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight), [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
 </details>
 
@@ -558,7 +558,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (institutional development and distributed competence); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / dependency scaling).
 - Owner floor: [Article III-D](core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*) (Labor and Economic Floor) and [Article IX-B](core_06-06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) (stakeholder role and participation rights). Read with [Article X-A](core_06-06_rights_part_b.md#article-x-a-cooperative-interaction) (*Non-Imposition and Consent in Association*) (cooperative interaction) and [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
 - Cluster component: [the Assembly, Collective Organization, and Institutional Formation cluster](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster).
-- Read with: [System Creation](core_05_band_participation.md#system-creation-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [Assembly](core_05_band_participation.md#assembly-constitutional), [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional), [Governance](core_05_band_accountability.md#governance), [Charter](core_05_band_continuity.md#charter), [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight), [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+- Read with: [System Creation](core_05_band_participation.md#system-creation-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [Assembly](core_05_band_participation.md#assembly-constitutional), [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional), [Governance](core_05_band_accountability.md#governance), [Charter](core_05_band_continuity.md#charter), [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight), [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
 </details>
 
@@ -1610,18 +1610,19 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 ---
 
 <a id="stakeholder-status-emergency-and-participation-weight-cluster"></a>
+<a id="stakeholder-status-and-weight-cluster"></a>
 
-#### Stakeholder status and participation weight
+#### Stakeholder status and weight
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Joint invocation:** where stakeholder status or participation weight inside already-authorized governance is material.
+- **Joint invocation:** where stakeholder status or [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight) inside already-authorized governance is material.
 - **Scope:** where joint invocation is met, the **Stakeholder System Participation** layer — who a system really affects, and how much say those sentients get once that system's governing rules are already in place. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline).
 - **Owner floor:** implements [Article IX-B](core_06-06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) and [Article XI](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*).
 
 **Topic group members.** This group comprises:
 - [Stakeholder](core_05_band_participation.md#stakeholder) — who is materially touched by a specified system or decision domain.
-- [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight) — how influence scales inside already-authorized governance.
+- [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight) — how influence scales inside already-authorized governance.
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
@@ -1634,7 +1635,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Downstream: Principles: [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) (**Article XI** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder surface); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / dependency scaling for participation); [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (participation / standing / anti-capture).
-- Read with: [Stakeholder Status, Emergency, and Participation Weight](core_05_band_participation.md#stakeholder-status-emergency-and-participation-weight-cluster); [Governance](core_05_band_accountability.md#governance); [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer); [Contestability](core_05_band_accountability.md#contestability); [Materiality Determination](core_05_band_oversight.md#materiality-determination).
+- Read with: [Stakeholder Status and Weight](core_05_band_participation.md#stakeholder-status-and-weight-cluster); [Governance](core_05_band_accountability.md#governance); [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer); [Contestability](core_05_band_accountability.md#contestability); [Materiality Determination](core_05_band_oversight.md#materiality-determination).
 </details>
 
 <br>
@@ -1652,7 +1653,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
       - [Dependency](core_05_band_continuity.md#dependency); and
       - [System Boundaries](core_05_band_continuity.md#system-boundaries).
   - **Boundary:**
-    - For participation **weight** within already-authorized [Governance](core_05_band_accountability.md#governance), see [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight).
+    - For participation **weight** within already-authorized [Governance](core_05_band_accountability.md#governance), see [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight).
     - For authorization-layer routing, read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline).
   - **Out of scope:**
     - mere observers or curious parties; or
@@ -1675,13 +1676,14 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 ---
 
 <a id="stakeholder-participation-weight"></a>
+<a id="stakeholder-weight"></a>
 
-#### Stakeholder Participation Weight
+#### Stakeholder Weight
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Downstream: Principles: [Preamble — Stakeholder System Participation layer](core_00_preamble.md#chapter-00-preamble--foundational-requirements); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*Scaling*: materiality and dependency raise the participation floor); [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (**Article IX** (*Self-Determination and Agency*), **Article XI** (*Stakeholder System Participation, Representation, and Due Process*), **Article XVIII** (*Standing and Participation Status*)).
-- Read with: [Stakeholder](core_05_band_participation.md#stakeholder); [Stakeholder Status, Emergency, and Participation Weight](core_05_band_participation.md#stakeholder-status-emergency-and-participation-weight-cluster); [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster); [Meaningful Agency](core_05_band_participation.md#meaningful-agency); [Contestability](core_05_band_accountability.md#contestability).
+- Read with: [Stakeholder](core_05_band_participation.md#stakeholder); [Stakeholder Status and Weight](core_05_band_participation.md#stakeholder-status-and-weight-cluster); [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster); [Meaningful Agency](core_05_band_participation.md#meaningful-agency); [Contestability](core_05_band_accountability.md#contestability).
 </details>
 
 <br>
@@ -1694,7 +1696,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
     - form;
     - timing; and
     - decision influence.
-  - **In scope — where it applies:** Stakeholder Participation Weight operates at the **Stakeholder System Participation** layer — only *within* already-authorized [Governance](core_05_band_accountability.md#governance) for a relevant:
+  - **In scope — where it applies:** Stakeholder Weight operates at the **Stakeholder System Participation** layer — only *within* already-authorized [Governance](core_05_band_accountability.md#governance) for a relevant:
     - system;
     - institution; or
     - bounded decision domain —
@@ -1708,7 +1710,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
     - [Dependency](core_05_band_continuity.md#dependency);
     - demonstrated stake; and
     - [Feasibility](core_05_band_accountability.md#feasibility),
-    under the [Stakeholder Status, Emergency, and Participation Weight cluster](core_05_band_participation.md#stakeholder-status-emergency-and-participation-weight-cluster).
+    under the [Stakeholder Status and Weight cluster](core_05_band_participation.md#stakeholder-status-and-weight-cluster).
   - **Boundary — restrictive consequences:** Restrictive consequences for:
     - verified corruption;
     - capture;
@@ -1722,6 +1724,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
     - participation **weights** for [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), where the political-equality floor applies to the entitled community; or
     - informal straw polls that do not set binding stakeholder weights.
 <a id="stakeholder-participation-weight-a"></a>
+<a id="stakeholder-weight-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether influence inside already-authorized governance tracks real stake — not capture, illusory voice, or operator-heavy weight without justification.
   - **Primary assessment:**
@@ -1739,6 +1742,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
       - [Contestability](core_05_band_accountability.md#contestability); and
       - [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional).
 <a id="stakeholder-participation-weight-c"></a>
+<a id="stakeholder-weight-c"></a>
 - **What must hold**
   - **Primary failure:** allocating participation rights or influence in a manner that materially negates:
     - [Meaningful Agency](core_05_band_participation.md#meaningful-agency); or
@@ -2658,7 +2662,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Owner floor: [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice) (*Decision-resolution requirements for binding stakeholder choice*).
-- Read with: [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline); [Charter](core_05_band_continuity.md#charter); [Stakeholder Status, Emergency, and Participation Weight](core_05_band_participation.md#stakeholder-status-emergency-and-participation-weight-cluster), [Governance](core_05_band_accountability.md#governance), [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight), [Article XI](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*), [Article XXIV-B: Rights-Collision Procedure and Restorative Alignment](core_06-06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment), and [Chapter One §6.3](core_01_b_interaction_interpretation.md#63-rights-collision-procedure).
+- Read with: [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline); [Charter](core_05_band_continuity.md#charter); [Stakeholder Status and Weight](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [Governance](core_05_band_accountability.md#governance), [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight), [Article XI](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*), [Article XXIV-B: Rights-Collision Procedure and Restorative Alignment](core_06-06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment), and [Chapter One §6.3](core_01_b_interaction_interpretation.md#63-rights-collision-procedure).
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
 - Cross-leg note: integrative with **Accountability** procedural integrity.
 - Chapter One basis: Chapter One §8.1, §3.4, §11.4, §8, §10 (see [Chapter Five compass](../core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
@@ -2685,7 +2689,7 @@ It does not replace [Foundational Constitutional Choice](core_05_band_integrativ
 **Cluster members.** This cluster comprises:
 
 - [Binding Stakeholder Choice — Decision-Resolution Requirements](core_05_band_participation.md#binding-collective-choice-decision-resolution-process);
-- [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05_band_participation.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice);
+- [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice);
 - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice);
 - [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice), as the governance owner floor for the compound requirement.
 
@@ -2707,38 +2711,87 @@ See **Joint invocation and satisfaction**.
 *In plain terms: when material disagreement requires a binding stakeholder choice inside an already-authorized domain, there must be a published, transparent, auditable sequence for participation, representation, contest, and any proportional influence — not ad hoc power.*
 
 - **What it is**
-  - **In scope:** A **Stakeholder System Participation** layer requirement: when material disagreement requires a binding stakeholder choice within an already-authorized system, institution, or bounded decision domain, the process must provide a published, transparent, and auditable sequence for affected-party participation, representation, contestability, and any proportional influence. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). The sequence must not substitute ad hoc power for recorded process.
-  - **Out of scope:** Informal straw polls, unilateral operator decrees, or Foundational Constitutional Choice equal-weight voting rules used inside already-authorized stakeholder-layer decisions.
+  - **In scope:** A **Stakeholder System Participation** layer requirement: when material disagreement requires a binding stakeholder choice within an already-authorized:
+    - system;
+    - institution; or
+    - bounded decision domain,
+    the process must provide a published, transparent, and auditable sequence for:
+      - affected-party participation;
+      - representation;
+      - contestability; and
+      - any proportional influence.
+      Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). The sequence must not substitute ad hoc power for recorded process.
+  - **Out of scope:**
+    - informal straw polls;
+    - unilateral operator decrees; or
+    - Foundational Constitutional Choice equal-weight voting rules used inside already-authorized stakeholder-layer decisions.
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the full published sequence is real — deliberation, plural evaluation where stakes rise, and lawful reopening — not a rubber stamp.
 
     **Primary assessment:**
-    - **Structured sequence:** verify the full sequence is pre-published and audit-equipped.
-    - **Local deliberation first:** verify the sequence opens with meaningful opportunity for affected participants to deliberate, submit reasons, and preserve materially different views.
-    - **Plural evaluation where stakes rise:** as impact, irreversibility, [Dependency](core_05_band_continuity.md#dependency), or uncertainty rises, verify plural and appropriately independent evaluation rather than sole-authority or unchallengeable interpretation lock-in.
-    - **Review and divergence reopening:** verify materially binding outcomes remain challengeable. Verify reopening when material expected-versus-observed divergence, major new evidence, or demonstrated process defect arises, through applicable lawful challenge and review routes consistent with [Contestability](core_05_band_accountability.md#contestability).
+    - **Structured sequence:** verify the full sequence is:
+      - pre-published; and
+      - audit-equipped.
+    - **Local deliberation first:** verify the sequence opens with meaningful opportunity for affected participants to:
+      - deliberate;
+      - submit reasons; and
+      - preserve materially different views.
+    - **Plural evaluation where stakes rise:** when any of the following rises:
+      - impact;
+      - irreversibility;
+      - [Dependency](core_05_band_continuity.md#dependency); or
+      - uncertainty,
+      verify plural and appropriately independent evaluation rather than:
+      - sole-authority lock-in; or
+      - unchallengeable interpretation lock-in.
+    - **Review and divergence reopening:** verify materially binding outcomes remain challengeable. Verify reopening through applicable lawful challenge and review routes consistent with [Contestability](core_05_band_accountability.md#contestability) when any of the following arises:
+      - results turned out meaningfully different from what was expected;
+      - important new evidence comes to light; or
+      - the process itself is shown to have been defective.
 - **What must hold**
-  - **Primary failure:** skipping published sequence; sham deliberation; rubber-stamp plural review; foreclosing challenge or lawful reopening where required.
+  - **Primary failure:**
+    - skipping the published sequence;
+    - sham deliberation;
+    - rubber-stamp plural review; or
+    - foreclosing challenge or lawful reopening where required.
   - Owner floor: [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
 
 ---
 
 <a id="stakeholder-representation-and-participation-weight-limits-binding-collective-choice"></a>
 <a id="stakeholder-representation-and-participation-weight-limits-binding-stakeholder-choice"></a>
+<a id="stakeholder-representation-and-weight-limits-binding-stakeholder-choice"></a>
 
-##### Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)
+##### Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)
 
 *In plain terms: within already-authorized governance, weighting by impact, dependency, standing, or similar factors must be published, bounded against single-factor dominance, and open to contest and revalidation — and must not replace foundational equal-weight authorization rules.*
 
 - **What it is**
-  - **In scope:** Bounds on legitimacy-mechanism **weighting** by [Material Impact](core_05_band_oversight.md#material-impact), [Dependency](core_05_band_continuity.md#dependency), **standing**, or comparable factors for binding stakeholder choice *within* authorized [Governance](core_05_band_accountability.md#governance). Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline) for routing against [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice) equal-weight rules (**Chapter Twelve Chapter One §8.1**).
-  - **Out of scope:** foundational constitutional choice equal-weight rules, or informal straw polls that do not set binding stakeholder weights.
+  - **In scope:** Limits on how much say people may have — **weighting** — in binding stakeholder choices *inside* already-authorized [Governance](core_05_band_accountability.md#governance). How much say someone gets may track:
+    - [Material Impact](core_05_band_oversight.md#material-impact);
+    - [Dependency](core_05_band_continuity.md#dependency);
+    - **standing**; or
+    - similar factors.
+    These limits do **not** replace one-person-one-vote [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice) rules. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline) to tell which set of rules applies (**Chapter Twelve Chapter One §8.1**).
+  - **Out of scope:**
+    - foundational constitutional choice equal-weight rules; or
+    - informal straw polls that do not set binding stakeholder weights.
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether weighting rules are published, bounded against single-factor dominance, and subject to contest and periodic revalidation.
 
-    **Primary assessment:** Weighting rules must be published, bounded against single-factor dominance, and subject to contest and periodic revalidation. Cross-check against [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight) and **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) where applicable.
+    **Primary assessment:** Weighting rules must be:
+    - published;
+    - bounded against single-factor dominance; and
+    - subject to contest and periodic revalidation.
+    Cross-check against:
+    - [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight); and
+    - **Article XI** (*Stakeholder System Participation, Representation, and Due Process*)
+    where applicable.
 - **What must hold**
-  - **Primary failure:** unpublished weights; unchecked single-factor dominance; absent contest or revalidation where periodic review is required for the mechanism class.
+  - **Primary failure:**
+    - unpublished weights;
+    - unchecked single-factor dominance; or
+    - absent contest or revalidation where periodic review is required for the mechanism class.
   - Owner floor: [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
 
 ---
@@ -2751,14 +2804,31 @@ See **Joint invocation and satisfaction**.
 *In plain terms: when a binding stakeholder choice turns on a material conflict among rights or structural duties, the record must show the tension, alternatives, least-restrictive rationale, trade-offs, uncertainty treatment, and review or reversal triggers.*
 
 - **What it is**
-  - **In scope:** The record elements required when a binding stakeholder choice **turns on material conflict** among constitutional rights, protections, or structural duties — the **governance-layer** record discipline read together with [Chapter One §6.3](core_01_b_interaction_interpretation.md#63-rights-collision-procedure) and **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*).
-  - **Out of scope:** ordinary meeting minutes, or the Chapter One rights-collision procedure itself when no binding stakeholder choice turns on the conflict.
+  - **In scope:** The record elements required when a binding stakeholder choice **turns on material conflict** among:
+    - constitutional rights;
+    - protections; or
+    - structural duties —
+    the **governance-layer** record discipline read together with:
+    - [Chapter One §6.3](core_01_b_interaction_interpretation.md#63-rights-collision-procedure); and
+    - **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*).
+  - **Out of scope:**
+    - ordinary meeting minutes; or
+    - the Chapter One rights-collision procedure itself when no binding stakeholder choice turns on the conflict.
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether binding rights-affecting stakeholder choices carry a usable rights-collision record — not silent or opaque trade-offs.
 
-    **Primary assessment:** The record must identify: rights in tension; feasible alternatives; least-restrictive rationale; accepted trade-offs; uncertainty treatment; and review or reversal triggers — consistent with **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*) and Chapter One §6.3. Do not treat this list as narrowing **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*) where that article imposes additional duties.
+    **Primary assessment:** The record must identify:
+    - rights in tension;
+    - feasible alternatives;
+    - least-restrictive rationale;
+    - accepted trade-offs;
+    - uncertainty treatment; and
+    - review or reversal triggers —
+    consistent with **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*) and Chapter One §6.3. Do not treat this list as narrowing **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*) where that article imposes additional duties.
 - **What must hold**
-  - **Primary failure:** binding stakeholder-choice outcomes on silent or opaque collision resolution where rights effects are material; missing required record elements where conflict is material.
+  - **Primary failure:**
+    - a binding stakeholder choice is finalized without a clear written account of how colliding rights were resolved, when those rights effects matter; or
+    - the required record pieces are missing when a real rights conflict is in play.
   - Owner floor: [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
 
 ---
@@ -3065,7 +3135,7 @@ See **Joint invocation and satisfaction**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Owner floor: [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — *Graduated capability in governance and rights-exercise* bullet.
 - Cluster component: [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster).
-- Read with: [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional), [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional), [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight), and [Chapter Twelve Chapter One §8.1](core_12-12_governance.md#41-entitlement-and-eligibility) no-age-proxy discipline.
+- Read with: [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional), [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional), [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight), and [Chapter Twelve Chapter One §8.1](core_12-12_governance.md#41-entitlement-and-eligibility) no-age-proxy discipline.
 - Boundary: this entry is the scaling rule for how a [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional) takes part and exercises rights. It does not define who counts as developing, and it does not replace [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional) for decisions made about them.
 </details>
 
@@ -3078,7 +3148,7 @@ See **Joint invocation and satisfaction**.
     - birthday or calendar age;
     - creation or instantiation date; or
     - other stand-ins that do not show what they can do.
-    This scales participation; it does not kick developing sentients off the Chapter Six Rights Floor. It works with Chapter Twelve Chapter One §8.1 no-age-proxy discipline and with [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight).
+    This scales participation; it does not kick developing sentients off the Chapter Six Rights Floor. It works with Chapter Twelve Chapter One §8.1 no-age-proxy discipline and with [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight).
   - **Out of scope:**
     - who counts as a [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional) — that status entry owns the class;
     - calendar-age cutoffs used as Rights-Floor exclusion; or
