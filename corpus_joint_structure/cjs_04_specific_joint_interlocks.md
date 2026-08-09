@@ -135,7 +135,7 @@ Sample formulas are illustrative unless a **primary owner** makes them mandatory
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-4.2 Implementation boundary (primary owner to CJS seam)**.
-- Read with: **CJS-4.2**; **CJS-1.1**; **CJS-0.3**; **CJS-3.6**.
+- Read with: **CJS-4.2**; **CJS-1.1**; **CJS-0.3**; **CJS-1.2** (*stricter-wins*).
 
 </details>
 
@@ -157,7 +157,7 @@ Under the shared boundary in **CJS-1.1** (*Joint structural boundary and owner d
 When revising **CJS** joint-structure text:
 - keep **CS**, **CI**, or **CF** **primary owner** requirements in those files;
 - keep read-with restatements short; and
-- preserve **CJS-5** (*Implementation and cross-implementation operational cluster library*) cluster citations so references remain traceable under [CJS-0.3](cjs_00_registry_and_reading_rules.md#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable identifiers, edition alignment, and drafting notes*); stricter-wins remains **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*).
+- preserve **CJS-5** (*Implementation and cross-implementation operational cluster library*) cluster citations so references remain traceable under [CJS-0.3](cjs_00_registry_and_reading_rules.md#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable identifiers, edition alignment, and drafting notes*); stricter-wins remains [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-stricter-wins) (*Stricter-wins among adopted implementation standards*; stable citation also **CJS-3.6**).
 
 ### CJS-4.3 Cross-implementation trust integrity (joint operation model)
 <details>
@@ -165,7 +165,7 @@ When revising **CJS** joint-structure text:
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-4.3 Cross-implementation trust integrity (joint operation model)**.
-- Read with: **CJS-4.3**; **CJS-3.2**; **CJS-3.5**; **CJS-3.6**.
+- Read with: **CJS-4.3**; **CJS-1.2** (*combined satisfaction* / *stricter-wins*); **CJS-3.5**.
 - Topic routing (primary owner): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*).; see that row for mandatory read-with.
 
 </details>
@@ -200,7 +200,7 @@ Where trust depends on multiple systems, institutions, dependencies, or implemen
 - the contest, escalation, evidence, and correction routes affected sentients can use; and
 - the accountable owners for correction and restoration.
 
-Trust claims must remain consistent with **CJS-3.2** (*No false partial compliance across implementation files*), **CJS-3.5 — Classification alignment for supervised scope**, and **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*), and with the following **Implementation and cross-implementation** clusters from **CJS-5** (*Implementation and cross-implementation operational cluster library*) where those operational facts materially support the trust claim:
+Trust claims must remain consistent with [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-combined-satisfaction) (*Combined satisfaction across implementation files*; stable citation also **CJS-3.2**), **CJS-3.5 — Classification alignment for supervised scope**, and [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-stricter-wins) (*Stricter-wins among adopted implementation standards*; stable citation also **CJS-3.6**), and with the following **Implementation and cross-implementation** clusters from **CJS-5** (*Implementation and cross-implementation operational cluster library*) where those operational facts materially support the trust claim:
 
 - **CJS-5.3** (*Oversight: auditability and reconstructability terms*)
 - **CJS-5.5** (*Oversight: independent verification and claim-integrity terms*)
@@ -308,7 +308,7 @@ Before applying these procedural role terms, apply the role-definition preface i
 
 For **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*), a **delegated subunit** is the institutional application of **Delegated binding body**: a standing or recurring internal body, including a division, chamber, committee, designated panel, or regional or functional office with decision rights, that exercises materially binding delegated authority for the parent institution and is not the institution's sole governing plenary.
 
-Forum-specific detail, including forum families, routing, appeals, and specialist chamber doctrine, remains in `corpus_forum.md` **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*) and related **CF** sections. Where **CF-3.6** (*Chamber authority composition and service mechanics*) states forum-specific delegated-authority duties or illustrations, **CF** text governs for **Chapter Eleven** forums. Where **CI** and **CF** obligations overlap, the stricter clearly adopted rule governs under **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*).
+Forum-specific detail, including forum families, routing, appeals, and specialist chamber doctrine, remains in `corpus_forum.md` **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*) and related **CF** sections. Where **CF-3.6** (*Chamber authority composition and service mechanics*) states forum-specific delegated-authority duties or illustrations, **CF** text governs for **Chapter Eleven** forums. Where **CI** and **CF** obligations overlap, the stricter clearly adopted rule governs under [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-stricter-wins) (*Stricter-wins among adopted implementation standards*; stable citation also **CJS-3.6**).
 
 It is non-compliant to treat a body or route as valid if the records do not make lawful authority, independence safeguards, backup routes, and contest routes auditable where they materially apply.
 

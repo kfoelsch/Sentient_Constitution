@@ -75,9 +75,9 @@
 
 | If you are trying to… | Do this |
 |------------------------|---------|
-| Apply more than one of **CJS**, **CS**, **CI**, and **CF** to the same facts | **Default reading stack:** **CJS** first (**CJS-3** joint obligations; topic ownership via [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) and owner-file Trace), then **CS** (system classification and stewardship scale), then **CI** (institutional governance and assurance), then **CF** (Chapter Eleven forum-family doctrine). Within that order, read only what the topic routing for the facts requires. Editors and auditors use **CJS-2.1** for the authoritative row table. |
+| Apply more than one of **CJS**, **CS**, **CI**, and **CF** to the same facts | **Default reading stack:** **CJS** first (**CJS-1.2** combined satisfaction and stricter-wins; domain-specific joint rules in **CJS-3**; topic ownership via [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) and owner-file Trace), then **CS** (system classification and stewardship scale), then **CI** (institutional governance and assurance), then **CF** (Chapter Eleven forum-family doctrine). Within that order, read only what the topic routing for the facts requires. Editors and auditors use **CJS-2.1** for the authoritative row table. |
 | Look up what a constitutional word means | Use **Chapter Five** (with Chapters Two through Four for O/M/A/C mechanics). CJS must *use* those meanings — not invent parallel definitions, competing glosses, or weaker restatements. |
-| Look up a shared cross-layer how-to term | Use **CJS-5** for reusable joint operational definitions; coordinate reads through [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) and **CJS-3**. These terms cover routing, interlock, overlap, shared-fact evaluation, stricter-wins, and combined satisfaction — they are not constitutional definitions. |
+| Look up a shared cross-layer how-to term | Use **CJS-5** for reusable joint operational definitions; coordinate reads through [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) and **CJS-1.2**. These terms cover routing, interlock, overlap, shared-fact evaluation, stricter-wins, and combined satisfaction — they are not constitutional definitions. |
 | Place or parse joint operational text | Do not redefine constitutional terms — see **CJS-1.2**. How to read **OP-O** / **OP-E** / **OP-C** cluster lines: **CJS-1.4** and **CJS-1.5**. Where to put a definition: constitutional terms in **Chapter Five**; reusable joint fit-together terms in **CJS-5**; two-tier shared ideas under **CJS-2.3** (editors/auditors). |
 | Cite a **CJS-5** term from a **CS**, **CI**, or **CF** file | The citation may apply the joint term inside a standalone system, institution, forum, or bounded decision domain within the cited scope. It does **not** make CJS the routed owner of system, institutional, or forum doctrine. Where more than one layer materially applies, stricter joint-interface treatment also applies. |
 | Check whether CJS can soften constitutional meaning | It cannot. Under **CJS-1.2**, CJS sits in the **binding incorporated implementation** band and must **implement, not narrow**, Sentient Constitution meaning. |
@@ -107,7 +107,7 @@
 
 <br>
 
-*In plain terms: every implementation file (**CJS**, **CS**, **CI**, **CF**) cites this section as the shared starting rulebook — honor constitutional meaning, stay in assigned scope, route cross-layer topics through **[CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)**, satisfy joint duties through **CJS-3**, and never weaken core requirements or Rights Floors.*
+*In plain terms: every implementation file (**CJS**, **CS**, **CI**, **CF**) cites this section as the shared starting rulebook — honor constitutional meaning, stay in assigned scope, route cross-layer topics through **[CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)**, meet combined-satisfaction and stricter-wins duties below, satisfy domain-specific joint rules in **CJS-3** (**CJS-3.3**–**CJS-3.5**), and never weaken core requirements or Rights Floors.*
 
 This subsection is the shared starting contract those layers point to instead of copying long boilerplate.
 
@@ -118,14 +118,14 @@ This subsection is the shared starting contract those layers point to instead of
 | Tell "Continuity aim" from operational continuity | Constitutional **Continuity aim** (Chapter One §1) is distinct from operational or protocol continuity (for example forum continuity, institutional continuity, or **Protocol D** partition resilience). Do not treat operational continuity language as narrowing the Continuity aim. |
 | Add detail in an implementation file | Add only what belongs inside that file's assigned scope. Keep the text understandable under **Article XX** (*Comprehensibility and Complexity Stewardship*). |
 | Find which file owns a topic | Start at [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*Cross-file routing*) and the [topic router reader index](../doc_architecture/generated/topic_router_reader_index.md). For which *layer* owns the domain: [Preamble — constitutional owner register](../core_00_preamble.md#constitutional-owner-register) (chapters and companion corpora); then that layer's owns / does-not-own list on **CJS-1**, **CS-1**, **CI-1**, or **CF-1**. Editors and auditors use **CJS-2.1** for the authoritative row table. |
-| Apply more than one of **CJS**, **CS**, **CI**, and **CF** to the same facts | Use the default reading stack in **CJS-1.1**. Read [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) for **primary owner**, **mandatory read-with**, and when joint obligations apply. Joint requirements: **CJS-3**; stricter-wins: **CJS-3.6**. Deliberate-split and two-tier drafting contracts (**CJS-2.2**, **CJS-2.3**) are for editors and auditors. |
-| Resolve two rules that disagree on the same risk | Numbered `core_*` text controls constitutional meaning; adopted implementation may be stricter but not laxer. Stricter-wins between implementation files: **CJS-3.6**. CJS vs **primary owner** collision (editors/auditors): **CJS-2.3**. |
+| Apply more than one of **CJS**, **CS**, **CI**, and **CF** to the same facts | Use the default reading stack in **CJS-1.1**. Read [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) for **primary owner**, **mandatory read-with**, and when joint obligations apply. Combined satisfaction and stricter-wins: this section (**CJS-1.2**). Domain-specific joint rules: **CJS-3** (**CJS-3.3**–**CJS-3.5**). Deliberate-split and two-tier drafting contracts (**CJS-2.2**, **CJS-2.3**) are for editors and auditors. |
+| Resolve two rules that disagree on the same risk | Numbered `core_*` text controls constitutional meaning; adopted implementation may be stricter but not laxer. Stricter-wins between implementation files: [below](#cjs-12-stricter-wins) in this section. CJS vs **primary owner** collision (editors/auditors): **CJS-2.3**. |
 | Use intervention or override language | Keep **CJS-5.23** (*technical intervention and override integrity*) separate from **CJS-5.14** (*governance authorization*). Both apply where relevant. |
-| Handle emergencies spanning multiple files | Read **CJS-3.2** (*No false partial compliance across implementation files*) with the topics that materially apply (owner Trace / [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)). |
+| Handle emergencies spanning multiple files | Apply [combined satisfaction](#cjs-12-combined-satisfaction) in this section with the topics that materially apply (owner Trace / [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)). |
 | Place a definition (not route a topic) | Constitutional terms: **Chapter Five** (with Chapters Two through Four for O/M/A/C mechanics). Reusable joint fit-together terms: **CJS-5**. Shared ideas that need a binding skeleton plus owner detail: apply the two-tier contract in **CJS-2.3** when editing. |
 | Route cross-domain integrity questions | Read **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*) and the applicable **CJS-5** operational clusters. CJS does not maintain a separate meta-obligation family. |
 
-**Authority stack.** This file does not create a separate authority stack. Use the constitutional **Authority Stack and Internal Hierarchy** in `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five**, section **3.4** (*Corpus and Authority Stack*), read with `core_16-16_incorporation.md` **Chapter Sixteen** for incorporation, edition custody, and anti-drift rules. Applied here:
+**Authority stack.** This file does not create a separate authority stack. Use the constitutional [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) in Chapter Five, read with [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) for incorporation, edition custody, and anti-drift rules. Applied here:
 
 - **Constitutional supremacy**
   - The numbered `core_*` Sentient Constitution files control constitutional meaning.
@@ -136,6 +136,30 @@ This subsection is the shared starting contract those layers point to instead of
   - Chapter Six controls rights language. Implementation files implement Rights Floors and must not restate weaker versions.
   - Chapter Eight controls canonical compliance, violation, and standing measurement policy.
   - [corpus_systems.md](../corpus_systems.md) Chapters S1 through S3 control data types, system classes, dependency types, and steward tiers.
+
+<a id="cjs-12-combined-satisfaction"></a>
+
+**Combined satisfaction across implementation files** (*stable citation also: **CJS-3.2***)
+
+*In plain terms: doing well on one rulebook does not count as compliance if another material duty for the same facts is still unmet.*
+
+When topic routing says two or more implementation files apply to the same facts, compliance means meeting **all** material duties in that set. A person or institution cannot satisfy one file and then claim compliance while leaving another material duty undone.
+
+Emergencies may narrow duties only when the narrowing is published, clearly bounded, time-limited, reversible where feasible, and tied to the Sentient Constitution and the emergency rules in the implementation files. Quiet or open-ended "temporary" narrowing does not count.
+
+(This cross-file combined-satisfaction rule is distinct from **CJS-1.5** partial-satisfaction discipline inside a single **CJS-5** operational cluster.)
+
+<a id="cjs-12-stricter-wins"></a>
+
+**Stricter-wins among adopted implementation standards** (*stable citation also: **CJS-3.6***)
+
+*In plain terms: if two adopted rules disagree about the same real risk, follow the stricter one. How to keep **CJS-5** citations clean lives in the registry.*
+
+How to keep **CJS-5** cluster citations traceable (and not weaken them with soft labels): [CJS-0.3](cjs_00_registry_and_reading_rules.md#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable identifiers, edition alignment, and drafting notes*).
+
+If two implementation files set different standards for the same meaningful risk, the stricter clearly adopted rule controls. Follow **[Chapter One §8.4](../core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution)** (*Constitutional Meaning Conflict Resolution*, including the incorporation layer), the [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) in Chapter Five for source-layer status, **[Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge)** for custody and adoption discipline, and the classification and material-impact rules at the start of `corpus_systems.md`.
+
+If a cited profile and a cited implementation label seem to conflict, apply **Chapter One §8.4**, the Authority Stack, and the same stricter-wins rule above.
 
 ### CJS-1.3: Section identifiers and article references
 <details>
@@ -242,7 +266,9 @@ Application rules are strict:
 - partial satisfaction is not compliance,
 - no component may be used, satisfied, or evaluated on its own in a way that changes the compliance result.
 
-By structural analogy, this follows the **joint invocation and satisfaction** rule for **Dependent clusters** in `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five**, **section 3** (*Dependent clusters*).
+That OP-cluster rule is local to one operational cluster. Cross-file combined satisfaction when more than one implementation file applies to the same facts lives in **CJS-1.2** ([combined satisfaction](#cjs-12-combined-satisfaction)).
+
+By structural analogy, this follows the **joint invocation and satisfaction** rule for **Dependent clusters** in [Chapter Five](../core_05__definitions_home.md#joint-invocation-and-satisfaction).
 
 Operational clusters remain local to this implementation layer:
 - they are not **Chapter Five** Clustered Definitions,
