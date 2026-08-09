@@ -3083,21 +3083,21 @@ See **Joint invocation and satisfaction**.
 *In plain terms: the continuity and coherence of a sentient's preferences, purposes, intentions, and identity-constitutive commitments against manipulation, coercion, external control, or unauthorized interference with internal-state processes.*
 
 - **What it is**
-  - **In scope:** The continuity and coherence of a sentient's volitional states — including:
+  - **In scope — owner floor:** **[Article IX-A](core_06-06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*)**, read with this **Def.P3** cluster.
+  - **In scope — volitional states:** Continuity and coherence of a sentient's:
     - preferences;
     - purposes;
     - intentions; and
-    - identity-constitutive commitments —
-    against degradation through:
+    - identity-constitutive commitments.
+  - **In scope — protection against:** Degradation through:
     - manipulation;
     - coercion;
     - external control; or
     - unauthorized interference with internal-state processes.
-    It protects the integrity of decision-formation and self-direction from:
-    - capture;
-    - fragmentation; or
-    - covert reshaping,
-    consistent with **[Article IX-A](core_06-06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*)** (*agency and freedom from manipulation*).
+  - **In scope — decision integrity:** How a sentient forms decisions and steers their own life — kept free from:
+    - takeover by someone else's agenda;
+    - being broken apart or made unstable; or
+    - being reshaped in secret.
   - **Out of scope:**
     - ordinary preference change from lived experience; or
     - disclosed mild nudges that do not capture or rewrite internal states.
