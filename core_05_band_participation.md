@@ -3143,7 +3143,7 @@ See **Joint invocation and satisfaction**.
 **Admission scope.** This cluster applies whenever treatment of a sentient turns on:
 
 - emerging capability profile or developing status;
-- decisions made by parents, carers, parent-system actors, operators, institutions, or states about a developing sentient; or
+- decisions made by parents, caretakers, parent-system actors, operators, institutions, and states about a developing sentient; or
 - scaling of participation or rights-exercise by demonstrated capability rather than age or instantiation-date proxies.
 
 Outside that admission scope, individual member definitions may still operate alone — for example, [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional) during early-instantiation windows under [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional).
@@ -3226,10 +3226,10 @@ See **Joint invocation and satisfaction**.
 - **What it is**
   - **In scope:** The substantive standard for decisions that materially affect a [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional). Those decisions must reflect the developing sentient's own interests and preferences to the extent ascertainable under their capability profile, consistent with [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), and [Self-Determination](core_05_band_participation.md#self-determination-constitutional). It binds decisions made by:
     - parents and other family members;
-    - carers;
+    - caretakers;
     - parent-system actors under **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*);
     - operators;
-    - institutions; or
+    - institutions; and
     - states.
   - **Out of scope:**
     - adult self-determination for a fully capable sentient; or
