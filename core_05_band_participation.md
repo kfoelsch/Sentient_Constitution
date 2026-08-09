@@ -677,8 +677,16 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     **Tertiary assessment:** Where operators rely on nominal acceptance or engagement metrics, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — distinguish durable agency from symbolic participation.
 <a id="meaningful-agency-c"></a>
 - **What must hold**
-  - **Primary failure:** treating nominal acceptance, nominal exit, symbolic consultation, checkbox acceptance, or a technically available exit that sentients cannot actually use as sufficient where dependency, opacity, coercion, or systemic lock-in materially prevents informed and voluntary agency.
-  - **Secondary failure:** agency capacity degraded by [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) or [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) without justified exception under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality).
+  - **Primary failure:** treating any of the following as sufficient where dependency, opacity, coercion, or systemic lock-in materially prevents informed and voluntary agency:
+    - nominal acceptance;
+    - nominal exit;
+    - symbolic consultation;
+    - checkbox acceptance; or
+    - a technically available exit that sentients cannot actually use.
+  - **Secondary failure:** agency capacity degraded by:
+    - [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional); or
+    - [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in)
+    without justified exception under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality).
   - **Tertiary failure:** treating proxy satisfaction as dispositive where [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
 
 ---
@@ -2849,9 +2857,7 @@ See **Joint invocation and satisfaction**.
 
 <br>
 
-**Admission scope.** This cluster applies where a matter materially concerns autonomy of thought, expression, education, volitional continuity, or manipulation-resistant agency. Outside that admission scope, individual entries such as [Self-Determination](core_05_band_participation.md#self-determination-constitutional) may operate alone.
-
-Where admission scope is met, this cluster is the joint-invocation home for self-determination, meaningful agency, expression, educational agency, and volitional integrity where those freedoms are materially interdependent under Chapter Eleven.
+**Admission scope.** This cluster applies where a matter materially concerns autonomy of thought, expression, education, volitional continuity, or manipulation-resistant agency — especially where those freedoms are materially interdependent under Chapter Eleven. Outside that scope, individual entries such as [Self-Determination](core_05_band_participation.md#self-determination-constitutional) may operate alone. Within the admission scope, this is the joint-invocation home: read the cluster members together rather than treating one as enough on its own.
 
 **Cluster members.** This cluster comprises:
 
@@ -2889,14 +2895,29 @@ See **Joint invocation and satisfaction**.
 *In plain terms: autonomy to make and refuse informed decisions about yourself and your future, and to keep volitional continuity against manipulation and capture.*
 
 - **What it is**
-  - **In scope:** Autonomy to make and refuse informed decisions about oneself and one's future, and to maintain volitional continuity against manipulation and capture, within this **Def.P3** cluster and **[Article IX: Self-Determination and Agency](core_06-06_rights_part_b.md#article-ix-self-determination-and-agency)**.
-  - **Out of scope:** mere practical task capacity under Meaningful Agency, or collective stakeholder weight in someone else's governance.
+  - **In scope:** Autonomy to:
+    - make and refuse informed decisions about oneself and one's future; and
+    - maintain volitional continuity against manipulation and capture,
+    within this **Def.P3** cluster and **[Article IX: Self-Determination and Agency](core_06-06_rights_part_b.md#article-ix-self-determination-and-agency)**.
+  - **Out of scope:**
+    - mere practical task capacity under Meaningful Agency; or
+    - collective stakeholder weight in someone else's governance.
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether informed refusal, proportional participation, and reviewability remain real — not only nominal choice.
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether, in practice, people can still:
+    - understand their options and refuse;
+    - take a fair part in decisions that affect them; and
+    - get a real review when something goes wrong —
+    not just a choice that exists only on paper.
 
-    **Primary assessment:** Evaluate substantive agency under [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dependency](core_05_band_continuity.md#dependency), [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary), and segmentation across speech, platform, curricular, or governance domains that defeats joint assessment under [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+    **Primary assessment:** Evaluate substantive agency under:
+    - [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional);
+    - [Dependency](core_05_band_continuity.md#dependency);
+    - [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary); and
+    - segmentation across speech, platform, curricular, or governance domains that defeats joint assessment under [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
 - **What must hold**
-  - **Primary failure:** Framings that preserve nominal choice while defeating informed refusal, proportional participation, or reviewability, or that route material self-governance questions outside **Article IX** (*Self-Determination and Agency*) without **Chapter One §6.3.1** collision resolution, are non-compliant when materially implicated.
+  - **Primary failure:** Framings that, when materially implicated:
+    - preserve nominal choice while defeating informed refusal, proportional participation, or reviewability; or
+    - route material self-governance questions outside **Article IX** (*Self-Determination and Agency*) without **Chapter One §6.3.1** collision resolution.
 
 ---
 
@@ -2908,23 +2929,81 @@ See **Joint invocation and satisfaction**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Cluster component: [**Def.P3** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)*.
-- Read with: [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05_apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)*, where info-sphere, press, or publication-scoped integrity routing materially applies.
+- Read with: [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05_apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)*, where info-sphere, press, or publication-scoped integrity routing materially applies; [Consent, Sexual](core_05_band_participation.md#consent-sexual), [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Cruelty](core_05_band_accountability.md#cruelty), [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying), [Psychological Harm](core_05_band_accountability.md#psychological-harm), and [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) where sexual, violent, or severe-psychological-harm-risk content lanes are materially implicated.
 
 </details>
 
 <br>
 
-*In plain terms: the Rights-Floor capacity to form, hold, and communicate views — including political, philosophical, artistic, scientific, religious, and worldview expression — without substrate-based exclusion.*
+*In plain terms: the Rights-Floor capacity to form, hold, and communicate views — including political, philosophical, artistic, scientific, religious, worldview, sexual or intimate, and violent or severe-harm-risk expression — without substrate-based exclusion. Depicting or discussing harm is not committing it. Developing audiences get careful routing, not a blank ban on adult speech.*
 
 - **What it is**
-  - **In scope:** The Rights-Floor capacity to form, hold, and communicate views — including political, philosophical, artistic, scientific, religious, and worldview expression — substrate-agnostically under **[Article V-H](core_06-06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*)** (*expression, assembly, and press*), read with this **Def.P3** cluster and, where **[Article II-E](core_06-06_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability) (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)** (*info-sphere dependency*), **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) publication or likeness hooks, functional **Article V-H** (*Expression, Assembly, and Press*) *press*, or publication-scoped **Good Faith** analysis is materially implicated, [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05_apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)*.
-  - **Out of scope:** mere assembly logistics, commercial spam, or compelled speech — those are not protected expression under this home.
+  - **In scope — owner floor:** **[Article V-H](core_06-06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*)**, read with this **Def.P3** cluster.
+  - **In scope — capacity:** The Rights-Floor capacity to:
+    - form;
+    - hold; and
+    - communicate views.
+  - **In scope — covered expression:**
+    - political;
+    - philosophical;
+    - artistic;
+    - scientific;
+    - religious;
+    - worldview;
+    - sexual or intimate;
+    - violent depiction, discussion, reportage, or art; and
+    - testimony, reportage, art, or discussion that foreseeably risks severe psychological harm —
+    when communicated as expression among sentients with capacity.
+  - **Boundary — expression is not the underlying act:** Protected expression under this home does not authorize:
+    - sexual contact, sexual services, sexualized recording or exposure of persons, or sexual exploitation — read [Consent, Sexual](core_05_band_participation.md#consent-sexual), **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*), and **Article VII-A** (*Self-Ownership of Body and Mind*);
+    - committing violence, [Cruelty](core_05_band_accountability.md#cruelty), or [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying) — read [Safety (Constraint)](core_05_band_continuity.md#safety-constraint); or
+    - imposing foreseeable severe [Psychological Harm](core_05_band_accountability.md#psychological-harm) outside limitation discipline.
+  - **Audience routing:** Where sexual, violent, or severe-psychological-harm-risk content is directed at, or foreseeably reaches by default, [developing sentients](core_05_band_participation.md#developing-sentient-constitutional) or comparably vulnerable audiences:
+    - **Limitation tests:** labeling, routing, or access controls must satisfy, under **Article V-H** (*Expression, Assembly, and Press*) / **Chapter One §5.1**:
+      - [Necessity](core_05_band_accountability.md#necessity);
+      - [Proportionality](core_05_band_accountability.md#proportionality);
+      - narrow tailoring; and
+      - least-restrictive-effective means.
+    - **Read with:**
+      - [**Def.P4** *Best-Interest Standard*](core_05_band_participation.md#best-interest-standard-constitutional); and
+      - [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional).
+    - **Anti-bypass:**
+      - adult-to-adult expression among sentients with capacity must not be erased under a developing-audience pretext; and
+      - survivor testimony, journalism, and comparable reportage must not be silenced under an overbroad trauma or harm label.
+  - **Lane read-with when implicated:**
+    - **sexual or intimate:** [Consent, Sexual](core_05_band_participation.md#consent-sexual), **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*), and [Protected Intimate-Signal Gating and **Article X-C** Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention);
+    - **violent:** [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Cruelty](core_05_band_accountability.md#cruelty), and [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying);
+    - **severe psychological-harm risk:** [Psychological Harm](core_05_band_accountability.md#psychological-harm) and [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster).
+  - **In scope — joint read-with when implicated:** Where any of the following is materially implicated, also read [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05_apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)*:
+    - **[Article II-E](core_06-06_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability) (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)**;
+    - **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) publication or likeness hooks; or
+    - functional **Article V-H** (*Expression, Assembly, and Press*) *press*.
+  - **Out of scope:**
+    - mere assembly logistics;
+    - commercial spam; or
+    - compelled speech —
+    those are not protected expression under this home.
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether restrictions, chilling effects, or viewpoint-targeting defeat protected expression without satisfying limitation tests.
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether, in practice, people can still speak and be heard — or whether any of the following shut that down without a real, narrowly tailored reason:
+    - bans or other restrictions;
+    - pressure that makes people stay quiet; or
+    - targeting of particular viewpoints.
+    - **Also ask whether:**
+      - sexual, violent, or severe-harm-risk expression is wiped out under a false label; or
+      - developing-audience protections use the lightest workable controls rather than a blanket ban.
 
-    **Primary assessment:** Test restrictions, chilling effects, and viewpoint-targeting against [Proportionality](core_05_band_accountability.md#proportionality), [Necessity](core_05_band_accountability.md#necessity), [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), and **Article V-H** (*Expression, Assembly, and Press*) / **Article IX-A** (*Agency and Freedom from Manipulation*) limitation discipline.
+    **Primary assessment:** Check bans, quieting pressure, and viewpoint targeting against:
+    - [Proportionality](core_05_band_accountability.md#proportionality);
+    - [Necessity](core_05_band_accountability.md#necessity);
+    - [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional); and
+    - the ordinary limits in **Article V-H** (*Expression, Assembly, and Press*) and **Article IX-A** (*Agency and Freedom from Manipulation*).
+    - **If the content is sexual, violent, or severe-harm-risk:** also use the lane links and audience-routing rules above.
 - **What must hold**
-  - **Primary failure:** Formal neutrality or private-ordering labels that materially eliminate protected expression, assembly, or press routes without satisfying limitation tests are non-compliant — including treating compelled speech as protected expression.
+  - **Primary failure:**
+    - formal neutrality or private-ordering labels that materially eliminate protected expression, assembly, or press routes without satisfying limitation tests;
+    - treating compelled speech as protected expression;
+    - erasing adult-to-adult sexual, violent, or severe-harm-risk expression under a developing-audience pretext without satisfying least-restrictive audience-routing discipline; or
+    - silencing survivor testimony, journalism, or comparable reportage under an overbroad trauma or harm label.
 
 ---
 
@@ -2943,21 +3022,47 @@ See **Joint invocation and satisfaction**.
 
 <br>
 
-*In plain terms: real capability-building and lifelong learning autonomy — not credential symbolism alone — with access sufficient to develop and exercise constitution-relevant capabilities.*
+*In plain terms: real capability-building and lifelong learning autonomy — skills that apply to real-world problems, not credential symbolism alone — with access sufficient to develop and exercise constitution-relevant capabilities.*
 
 - **What it is**
-  - **In scope:** Capability-building, lifelong-learning, and contestable education autonomy under **[Article VI: Right to Sentient-Centered Education](core_06-06_rights_part_b.md#article-vi-right-to-sentient-centered-education)**, **[Article III-B: Equal Educational Access](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access)**, and this **Def.P3** cluster; includes practical access sufficient to develop and exercise constitution-relevant capabilities, not credential symbolism alone.
-  - **Out of scope:** credential collection alone, or mandated training that builds no real contestable capability.
+  - **In scope:** Capability-building, lifelong-learning, and contestable education autonomy under:
+    - **[Article VI: Right to Sentient-Centered Education](core_06-06_rights_part_b.md#article-vi-right-to-sentient-centered-education)**;
+    - **[Article III-B: Equal Educational Access](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access)**; and
+    - this **Def.P3** cluster;
+    includes practical access sufficient to develop and exercise constitution-relevant capabilities that apply to real-world problems, not credential symbolism alone.
+  - **Out of scope:**
+    - credential collection alone;
+    - mandated training that builds no real contestable capability; or
+    - learning that does not apply to real-world problems people actually face.
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether access builds real contestable capability — not only enrollment or credentials.
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether access builds real contestable capability that applies to real-world problems — not only enrollment or credentials.
 
-    **Primary assessment:** Evaluate access, lock-in, assessment opacity, and displacement of learning routes against capability formation under **Article VI** (*Right to Sentient-Centered Education*).
-  - **Secondary measure:** [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Accessibility](core_05_band_participation.md#accessibility-constitutional), [Contestability](core_05_band_accountability.md#contestability), and [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) — co-measures that can defeat education autonomy even when credentials or enrollment exist.
+    **Primary assessment:** Under **Article VI** (*Right to Sentient-Centered Education*), check whether learning actually builds usable skill — not just a credential. Look at:
+    - whether what is taught applies to real-world problems people actually face;
+    - whether people can get in and take part;
+    - whether they are stuck in one path with no real way out;
+    - whether grading or evaluation is too opaque to challenge; and
+    - whether other real learning routes are being shut down or shoved aside.
+  - **Secondary measure:** Even when credentials or enrollment exist on paper, also check whether education autonomy is hollowed out by:
+    - weak [Meaningful Agency](core_05_band_participation.md#meaningful-agency) — choice that is not real in practice;
+    - [Accessibility](core_05_band_participation.md#accessibility-constitutional) barriers that keep people out;
+    - weak [Contestability](core_05_band_accountability.md#contestability) — no real way to challenge bad outcomes; or
+    - [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) that traps people in one path.
 
-    **Secondary assessment:** When evaluating the primary trace, apply [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Contestability](core_05_band_accountability.md#contestability), and **Article VI-B** (*Lifelong and Adaptive Learning and Contestability*) contestability expectations.
+    **Secondary assessment:** When checking the primary answer, also apply:
+    - [Meaningful Agency](core_05_band_participation.md#meaningful-agency) — is the learning path actually choosable and usable?;
+    - [Contestability](core_05_band_accountability.md#contestability) — can people challenge grades, placements, or lock-in?; and
+    - **Article VI-B** (*Lifelong and Adaptive Learning and Contestability*) — can people keep learning, retrain, and contest high-stakes education systems over time?
 - **What must hold**
-  - **Primary failure:** symbolic-only access, credential gatekeeping that defeats capability formation, or segmentation that removes contestability where **Article VI** (*Right to Sentient-Centered Education*) jointly applies.
-  - **Secondary failure:** lock-in or assessment opacity that hollows lifelong-learning and adaptation routes contrary to [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
+  - **Primary failure:**
+    - learning that does not apply to real-world problems;
+    - symbolic-only access;
+    - credential gatekeeping that defeats capability formation; or
+    - splitting education into separate boxes so people lose any real way to challenge outcomes where **Article VI** (*Right to Sentient-Centered Education*) applies.
+  - **Secondary failure:**
+    - lock-in; or
+    - assessment opacity
+    that hollows lifelong-learning and adaptation routes contrary to [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
 
 ---
 
@@ -2978,19 +3083,43 @@ See **Joint invocation and satisfaction**.
 *In plain terms: the continuity and coherence of a sentient's preferences, purposes, intentions, and identity-constitutive commitments against manipulation, coercion, external control, or unauthorized interference with internal-state processes.*
 
 - **What it is**
-  - **In scope:** The continuity and coherence of a sentient's volitional states — including preferences, purposes, intentions, and identity-constitutive commitments — against degradation through manipulation, coercion, external control, or unauthorized interference with internal-state processes. It protects the integrity of decision-formation and self-direction from capture, fragmentation, or covert reshaping, consistent with **[Article IX-A](core_06-06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*)** (*agency and freedom from manipulation*).
-  - **Out of scope:** ordinary preference change from lived experience, or disclosed mild nudges that do not capture or rewrite internal states.
+  - **In scope:** The continuity and coherence of a sentient's volitional states — including:
+    - preferences;
+    - purposes;
+    - intentions; and
+    - identity-constitutive commitments —
+    against degradation through:
+    - manipulation;
+    - coercion;
+    - external control; or
+    - unauthorized interference with internal-state processes.
+    It protects the integrity of decision-formation and self-direction from:
+    - capture;
+    - fragmentation; or
+    - covert reshaping,
+    consistent with **[Article IX-A](core_06-06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*)** (*agency and freedom from manipulation*).
+  - **Out of scope:**
+    - ordinary preference change from lived experience; or
+    - disclosed mild nudges that do not capture or rewrite internal states.
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether preference-formation stays coherent and free from covert manipulation, unauthorized internal-state shaping, or design that exploits cognitive vulnerabilities.
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether preference-formation stays coherent and free from:
+    - covert manipulation;
+    - unauthorized internal-state shaping; or
+    - design that exploits cognitive vulnerabilities.
 
     **Primary assessment:** Evaluate for:
-    1. coherence of preference-formation over time;
-    2. resistance to covert manipulation, deception, or algorithmic exploitation of cognitive vulnerabilities;
-    3. protection from unauthorized external shaping of internal states through surveillance, inference, or behavioral conditioning;
-    4. preservation of meaningful choice architecture where [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) threatens to subvert apparent voluntariness; and
-    5. continuity of identity-constitutive commitments against involuntary fragmentation or dissolution.
+    - coherence of preference-formation over time;
+    - resistance to covert manipulation, deception, or algorithmic exploitation of cognitive vulnerabilities;
+    - protection from unauthorized external shaping of internal states through surveillance, inference, or behavioral conditioning;
+    - preservation of meaningful choice architecture where [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) threatens to subvert apparent voluntariness; and
+    - continuity of identity-constitutive commitments against involuntary fragmentation or dissolution.
 - **What must hold**
-  - **Primary failure:** systematic manipulation or coercion that subverts volitional continuity; covert behavioral conditioning that defeats informed self-direction; unauthorized inference or reconstruction of internal states used to reshape preferences; external control mechanisms that fragment or destabilize volitional coherence; or design patterns that exploit cognitive vulnerabilities to override or redirect autonomous choice.
+  - **Primary failure:**
+    - systematic manipulation or coercion that subverts volitional continuity;
+    - covert behavioral conditioning that defeats informed self-direction;
+    - unauthorized inference or reconstruction of internal states used to reshape preferences;
+    - external control mechanisms that fragment or destabilize volitional coherence; or
+    - design patterns that exploit cognitive vulnerabilities to override or redirect autonomous choice.
 
 ---
 
