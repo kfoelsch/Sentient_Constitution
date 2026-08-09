@@ -182,9 +182,9 @@ Do not give a system one risk or classification label in institutional supervisi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter One §8.4](../core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution) (*Constitutional Meaning Conflict Resolution*); [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-3.6 Implementation-label traceability and stricter-wins discipline**.
-- Read with: **CJS-3.6**; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CJS-1.2**.
+- Read with: **CJS-3.6**; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CJS-1.2**; [Chapter One §8.4](../core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution).
 
 </details>
 
@@ -192,9 +192,9 @@ Do not give a system one risk or classification label in institutional supervisi
 
 When **CS**, **CI**, or **CF** cite **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, adopters must keep those references traceable and must not use implementation text to weaken them.
 
-If two implementation files set different standards for the same meaningful risk, the stricter clearly adopted rule controls, following **Chapter Sixteen** and the classification/material-impact rules at the start of `corpus_systems.md`.
+If two implementation files set different standards for the same meaningful risk, the stricter clearly adopted rule controls, following **[Chapter One §8.4](../core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution)** (*Constitutional Meaning Conflict Resolution*, including the incorporation layer), with **[Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge)** for custody and adoption discipline, and the classification/material-impact rules at the start of `corpus_systems.md`.
 
-If a cited profile and a cited implementation label seem to conflict, apply the Sentient Constitution **Chapter Sixteen** conflict order and the same stricter-wins discipline stated above.
+If a cited profile and a cited implementation label seem to conflict, apply **Chapter One §8.4** and the same stricter-wins discipline stated above.
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-08-08T22:55:25+00:00",
+  "generated_at": "2026-08-09T03:59:53+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1195,7 +1195,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 15,
+            "count": 18,
             "anchors": [
               "#accountability-contestability-and-collective-accountability-failure-cluster",
               "#authority-stack",
@@ -1305,10 +1305,18 @@
             ]
           },
           {
+            "file": "core_13-15_amendment.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-fourteen-expansion-supremacy-and-external-legal-orders",
+              "#chapter-thirteen-non-regression-and-substantive-amendment-validity"
+            ]
+          },
+          {
             "file": "core_16-16_incorporation.md",
             "count": 3,
             "anchors": [
-              "#2-authority-stack-and-invocation"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -2500,8 +2508,9 @@
           },
           {
             "file": "core_05__definitions_home.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
+              "#chapter-five-alphabetical-directory",
               "#chapter-five-compass-and-definition-map",
               "#chapter-five-foundational-definitions"
             ]
@@ -2603,8 +2612,9 @@
           },
           {
             "file": "core_05__definitions_home.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
+              "#chapter-five-alphabetical-directory",
               "#chapter-five-compass-and-definition-map",
               "#chapter-five-foundational-definitions"
             ]
@@ -3840,7 +3850,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 20,
+            "count": 21,
             "anchors": [
               "#constitutional-owner-register",
               "#constitutional-tetrad",
@@ -3859,10 +3869,11 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#6-process-conflict-resolution",
-              "#8-constitutional-interpretation"
+              "#8-constitutional-interpretation",
+              "#84-constitutional-meaning-conflict-resolution"
             ]
           },
           {
@@ -4063,7 +4074,6 @@
             "file": "core_16-16_incorporation.md",
             "count": 4,
             "anchors": [
-              "#2-authority-stack-and-invocation",
               "#4-adoption-framing-and-scope-of-authority",
               "#chapter-sixteen-incorporation-bridge"
             ]
@@ -4395,7 +4405,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 137,
+            "count": 148,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -4419,7 +4429,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 67,
+            "count": 70,
             "anchors": [
               "#charter",
               "#dependency",
@@ -4472,7 +4482,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 634,
+            "count": 644,
             "anchors": [
               "#accessibility-constitutional",
               "#agency-consent-and-anti-coercion-semi-independent",
@@ -6595,7 +6605,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 189,
+            "count": 192,
             "anchors": [
               "#collective-harm-boundary",
               "#collective-harm-boundary-a",
@@ -6604,6 +6614,7 @@
               "#contestability",
               "#contestability-a",
               "#contestability-c",
+              "#cruelty",
               "#due-process-constitutional",
               "#due-process-constitutional-a",
               "#due-process-constitutional-c",
@@ -6634,6 +6645,7 @@
               "#proportionality",
               "#proportionality-a",
               "#proportionality-c",
+              "#psychological-harm",
               "#redress-and-remediation-constitutional",
               "#redress-and-remediation-constitutional-a",
               "#redress-and-remediation-constitutional-c",
@@ -6646,7 +6658,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 144,
+            "count": 145,
             "anchors": [
               "#anti-displacement-floor-constitutional",
               "#anti-displacement-floor-constitutional-a",
@@ -6750,7 +6762,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 436,
+            "count": 437,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -7907,19 +7919,10 @@
             ]
           },
           {
-            "file": "core_01_a_values_principles.md",
-            "count": 4,
-            "anchors": [
-              "#231-integrated-reading",
-              "#232-last-resort-internal-hierarchy",
-              "#233-incorporation-layer"
-            ]
-          },
-          {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 8,
             "anchors": [
-              "#8-constitutional-interpretation",
+              "#833-incorporation-layer",
               "#84-constitutional-meaning-conflict-resolution"
             ]
           },
@@ -7957,8 +7960,7 @@
             "count": 15,
             "anchors": [
               "#authority-stack",
-              "#corpus",
-              "#corpus-authority-stack-supremacy-and-enforceability-cluster"
+              "#corpus"
             ]
           },
           {
@@ -8017,7 +8019,7 @@
           },
           {
             "file": "core_13-15_amendment.md",
-            "count": 11,
+            "count": 9,
             "anchors": [
               "#3-anti-evasion-clause-and-constitutional-misconduct-referral",
               "#chapter-fifteen-amendment-ratification-and-procedural-validity",
@@ -8560,8 +8562,10 @@
           },
           {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 2,
-            "anchors": []
+            "count": 4,
+            "anchors": [
+              "#cjs-01-cross-file-routing"
+            ]
           },
           {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
@@ -8632,8 +8636,9 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 3,
+            "count": 5,
             "anchors": [
+              "#constitutional-owner-register",
               "#constitutional-tetrad",
               "#material-stake",
               "#two-constitutional-aims"
@@ -8724,8 +8729,15 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-01-cross-file-routing"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 13,
+            "count": 14,
             "anchors": [
               "#cjs-11-joint-structural-boundary-and-owner-discipline",
               "#cjs-12-shared-implementation-corpus-preamble-contract"
@@ -8733,7 +8745,7 @@
           },
           {
             "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
-            "count": 10,
+            "count": 11,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
             ]
@@ -8774,8 +8786,9 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 5,
+            "count": 4,
             "anchors": [
+              "#constitutional-owner-register",
               "#constitutional-tetrad",
               "#material-stake",
               "#two-constitutional-aims"
@@ -8877,12 +8890,12 @@
           },
           {
             "file": "corpus_joint_structure.md",
-            "count": 1,
+            "count": 2,
             "anchors": []
           },
           {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 6,
+            "count": 4,
             "anchors": [
               "#cjs-01-cross-file-routing"
             ]
@@ -8911,6 +8924,13 @@
       {
         "source": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
         "targets": [
+          {
+            "file": "core_00_preamble.md",
+            "count": 1,
+            "anchors": [
+              "#constitutional-owner-register"
+            ]
+          },
           {
             "file": "core_05__definitions_home.md",
             "count": 4,
@@ -8988,6 +9008,13 @@
       {
         "source": "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
         "targets": [
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 3,
+            "anchors": [
+              "#84-constitutional-meaning-conflict-resolution"
+            ]
+          },
           {
             "file": "core_05__definitions_home.md",
             "count": 7,
@@ -9083,7 +9110,7 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
@@ -10405,8 +10432,9 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
+              "#constitutional-owner-register",
               "#constitutional-tetrad",
               "#material-stake",
               "#two-constitutional-aims"
@@ -10495,7 +10523,7 @@
           },
           {
             "file": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
-            "count": 3,
+            "count": 4,
             "anchors": []
           },
           {
@@ -11442,7 +11470,7 @@
           },
           {
             "file": "corpus_institutions.md",
-            "count": 4,
+            "count": 5,
             "anchors": []
           },
           {
@@ -14748,7 +14776,7 @@
           },
           {
             "file": "corpus_forum.md",
-            "count": 4,
+            "count": 5,
             "anchors": []
           },
           {
