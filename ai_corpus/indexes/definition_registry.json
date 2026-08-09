@@ -1,8 +1,8 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-08-09T03:59:52+00:00",
+  "generated_at": "2026-08-09T04:55:50+00:00",
   "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
-  "definition_count": 222,
+  "definition_count": 223,
   "definitions": [
     {
       "term": "Accessibility",
@@ -35,8 +35,8 @@
       "term": "Animal Life",
       "source_file": "core_05_band_participation.md",
       "anchor": "#animal-life-constitutional",
-      "line_start": 2289,
-      "line_end": 2349,
+      "line_start": 2291,
+      "line_end": 2351,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
@@ -162,26 +162,26 @@
       "term": "Best-Interest Standard",
       "source_file": "core_05_band_participation.md",
       "anchor": "#best-interest-standard-constitutional",
-      "line_start": 3213,
-      "line_end": 3260,
+      "line_start": 3271,
+      "line_end": 3318,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3162
+        "line": 3220
       }
     },
     {
       "term": "Binding Stakeholder Choice — Decision-Resolution Requirements",
       "source_file": "core_05_band_participation.md",
       "anchor": "#binding-stakeholder-choice-decision-resolution-requirements",
-      "line_start": 2717,
-      "line_end": 2772,
+      "line_start": 2775,
+      "line_end": 2830,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P2 Binding Stakeholder Choice",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2699
+        "line": 2757
       }
     },
     {
@@ -420,8 +420,8 @@
       "term": "Contested-Sentient Life",
       "source_file": "core_05_band_participation.md",
       "anchor": "#contested-sentient-life-constitutional",
-      "line_start": 2414,
-      "line_end": 2526,
+      "line_start": 2416,
+      "line_end": 2528,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
@@ -530,13 +530,13 @@
       "term": "Developing Sentient",
       "source_file": "core_05_band_participation.md",
       "anchor": "#developing-sentient-constitutional",
-      "line_start": 3176,
-      "line_end": 3212,
+      "line_start": 3234,
+      "line_end": 3270,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3161
+        "line": 3219
       }
     },
     {
@@ -601,21 +601,21 @@
       "term": "Educational Agency",
       "source_file": "core_05_band_participation.md",
       "anchor": "#educational-agency",
-      "line_start": 3012,
-      "line_end": 3070,
+      "line_start": 3070,
+      "line_end": 3128,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2867
+        "line": 2925
       }
     },
     {
       "term": "Elevated Communicative Life",
       "source_file": "core_05_band_participation.md",
       "anchor": "#elevated-communicative-life-constitutional",
-      "line_start": 2350,
-      "line_end": 2413,
+      "line_start": 2352,
+      "line_end": 2415,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
@@ -720,13 +720,13 @@
       "term": "Expression",
       "source_file": "core_05_band_participation.md",
       "anchor": "#expression-constitutional",
-      "line_start": 2926,
-      "line_end": 3011,
+      "line_start": 2984,
+      "line_end": 3069,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2866
+        "line": 2924
       }
     },
     {
@@ -897,7 +897,7 @@
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2869
+        "line": 2927
       }
     },
     {
@@ -931,13 +931,13 @@
       "term": "Graduated Capability",
       "source_file": "core_05_band_participation.md",
       "anchor": "#graduated-capability-constitutional",
-      "line_start": 3261,
-      "line_end": 3310,
+      "line_start": 3319,
+      "line_end": 3368,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3163
+        "line": 3221
       }
     },
     {
@@ -1262,7 +1262,7 @@
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2865
+        "line": 2923
       }
     },
     {
@@ -1719,13 +1719,13 @@
       "term": "Self-Determination",
       "source_file": "core_05_band_participation.md",
       "anchor": "#self-determination-constitutional",
-      "line_start": 2881,
-      "line_end": 2925,
+      "line_start": 2939,
+      "line_end": 2983,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2864
+        "line": 2922
       }
     },
     {
@@ -1741,8 +1741,8 @@
       "term": "Sentience Non-Exclusion",
       "source_file": "core_05_band_participation.md",
       "anchor": "#sentience-non-exclusion",
-      "line_start": 2204,
-      "line_end": 2268,
+      "line_start": 2205,
+      "line_end": 2269,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
@@ -1754,8 +1754,8 @@
       "term": "Sentience Status Adjudication",
       "source_file": "core_05_band_participation.md",
       "anchor": "#sentience-status-adjudication-constitutional",
-      "line_start": 2590,
-      "line_end": 2666,
+      "line_start": 2592,
+      "line_end": 2667,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
@@ -1764,16 +1764,29 @@
       }
     },
     {
-      "term": "Sentient",
+      "term": "Sentience-Status Adjudication Record",
       "source_file": "core_05_band_participation.md",
-      "anchor": "#sentient",
-      "line_start": 2527,
-      "line_end": 2589,
+      "anchor": "#sentience-status-adjudication-record-constitutional",
+      "line_start": 2668,
+      "line_end": 2724,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
         "cluster_file": "core_05_band_participation.md",
         "line": 2118
+      }
+    },
+    {
+      "term": "Sentient",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#sentient",
+      "line_start": 2529,
+      "line_end": 2591,
+      "category": "dependent_cluster",
+      "cluster_membership": {
+        "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
+        "cluster_file": "core_05_band_participation.md",
+        "line": 2119
       }
     },
     {
@@ -1833,26 +1846,26 @@
       "term": "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
       "source_file": "core_05_band_participation.md",
       "anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
-      "line_start": 2773,
-      "line_end": 2809,
+      "line_start": 2831,
+      "line_end": 2867,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P2 Binding Stakeholder Choice",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2700
+        "line": 2758
       }
     },
     {
       "term": "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
       "source_file": "core_05_band_participation.md",
       "anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice",
-      "line_start": 2810,
-      "line_end": 2846,
+      "line_start": 2868,
+      "line_end": 2904,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P2 Binding Stakeholder Choice",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2701
+        "line": 2759
       }
     },
     {
@@ -1964,8 +1977,8 @@
       "term": "Substrate Class",
       "source_file": "core_05_band_participation.md",
       "anchor": "#substrate-agnostic",
-      "line_start": 2163,
-      "line_end": 2203,
+      "line_start": 2164,
+      "line_end": 2204,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
@@ -2294,13 +2307,13 @@
       "term": "Volitional Integrity",
       "source_file": "core_05_band_participation.md",
       "anchor": "#volitional-integrity",
-      "line_start": 3071,
-      "line_end": 3128,
+      "line_start": 3129,
+      "line_end": 3186,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2868
+        "line": 2926
       }
     },
     {

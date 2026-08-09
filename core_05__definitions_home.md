@@ -263,6 +263,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Self-Healing](core_05_band_continuity.md#self-healing-constitutional)
 - [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion)
 - [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional)
+- [Sentience-Status Adjudication Record](core_05_band_participation.md#sentience-status-adjudication-record-constitutional)
 - [Sentient](core_05_band_participation.md#sentient)
 - [Shared-System Capacity](core_05_band_continuity.md#shared-system-capacity-constitutional)
 - [Short-Horizon Governance Defect](core_05_band_continuity.md#short-horizon-governance-defect-constitutional)

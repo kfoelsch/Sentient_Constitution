@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-08-09T03:59:51+00:00",
+  "generated_at": "2026-08-09T04:55:50+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 252,
@@ -964,13 +964,13 @@
       ]
     },
     "core_05__definitions_home.md": {
-      "total_lines": 404,
+      "total_lines": 405,
       "sections": [
         {
           "header": "CHAPTER FIVE: FOUNDATIONAL DEFINITIONS",
           "level": 1,
           "line_start": 2,
-          "line_end": 404,
+          "line_end": 405,
           "anchor": "#chapter-five-foundational-definitions"
         },
         {
@@ -1012,35 +1012,35 @@
           "header": "Chapter Five alphabetical directory (non-operative)",
           "level": 3,
           "line_start": 77,
-          "line_end": 342,
+          "line_end": 343,
           "anchor": "#chapter-five-alphabetical-directory"
         },
         {
           "header": "Definitions A-Z",
           "level": 4,
           "line_start": 92,
-          "line_end": 318,
+          "line_end": 319,
           "anchor": "#definitions-a-z"
         },
         {
           "header": "Clusters A-Z",
           "level": 4,
-          "line_start": 319,
-          "line_end": 342,
+          "line_start": 320,
+          "line_end": 343,
           "anchor": "#clusters-a-z"
         },
         {
           "header": "Chapter Five compass and definition map",
           "level": 3,
-          "line_start": 343,
-          "line_end": 372,
+          "line_start": 344,
+          "line_end": 373,
           "anchor": "#chapter-five-compass-and-definition-map"
         },
         {
           "header": "Measurement crosswalk (reader guidance)",
           "level": 3,
-          "line_start": 373,
-          "line_end": 404,
+          "line_start": 374,
+          "line_end": 405,
           "anchor": "#chapter-five-measurement-crosswalk"
         }
       ]
@@ -2706,13 +2706,13 @@
       ]
     },
     "core_05_band_participation.md": {
-      "total_lines": 3310,
+      "total_lines": 3368,
       "sections": [
         {
           "header": "Participation Constitutional Definitions",
           "level": 1,
           "line_start": 1,
-          "line_end": 3310,
+          "line_end": 3368,
           "anchor": null
         },
         {
@@ -3006,161 +3006,168 @@
           "header": "Participation: Dependent clusters",
           "level": 3,
           "line_start": 2050,
-          "line_end": 3310,
+          "line_end": 3368,
           "anchor": "#non-statelessness-constitutional-c"
         },
         {
           "header": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
           "level": 4,
           "line_start": 2056,
-          "line_end": 2666,
+          "line_end": 2724,
           "anchor": "#animal-life-sentient-life-and-sentience-status-cluster"
         },
         {
           "header": "Substrate Class",
           "level": 5,
-          "line_start": 2163,
-          "line_end": 2203,
+          "line_start": 2164,
+          "line_end": 2204,
           "anchor": "#substrate-agnostic"
         },
         {
           "header": "Sentience Non-Exclusion",
           "level": 5,
-          "line_start": 2204,
-          "line_end": 2268,
+          "line_start": 2205,
+          "line_end": 2269,
           "anchor": "#sentience-non-exclusion"
         },
         {
           "header": "Treatment of Life by Status",
           "level": 5,
-          "line_start": 2269,
-          "line_end": 2288,
+          "line_start": 2270,
+          "line_end": 2290,
           "anchor": "#treatment-of-life-by-status-subgroup"
         },
         {
           "header": "Animal Life",
           "level": 5,
-          "line_start": 2289,
-          "line_end": 2349,
+          "line_start": 2291,
+          "line_end": 2351,
           "anchor": "#animal-life-constitutional"
         },
         {
           "header": "Elevated Communicative Life",
           "level": 5,
-          "line_start": 2350,
-          "line_end": 2413,
+          "line_start": 2352,
+          "line_end": 2415,
           "anchor": "#elevated-communicative-life-constitutional"
         },
         {
           "header": "Contested-Sentient Life",
           "level": 5,
-          "line_start": 2414,
-          "line_end": 2526,
+          "line_start": 2416,
+          "line_end": 2528,
           "anchor": "#contested-sentient-life-constitutional"
         },
         {
           "header": "Sentient",
           "level": 5,
-          "line_start": 2527,
-          "line_end": 2589,
+          "line_start": 2529,
+          "line_end": 2591,
           "anchor": "#sentient"
         },
         {
           "header": "Sentience Status Adjudication",
           "level": 5,
-          "line_start": 2590,
-          "line_end": 2666,
+          "line_start": 2592,
+          "line_end": 2667,
           "anchor": "#sentience-status-adjudication-constitutional"
+        },
+        {
+          "header": "Sentience-Status Adjudication Record",
+          "level": 5,
+          "line_start": 2668,
+          "line_end": 2724,
+          "anchor": "#sentience-status-adjudication-record-constitutional"
         },
         {
           "header": "Def.P2 Binding Stakeholder Choice",
           "level": 4,
-          "line_start": 2667,
-          "line_end": 2846,
+          "line_start": 2725,
+          "line_end": 2904,
           "anchor": "#binding-stakeholder-choice-cluster"
         },
         {
           "header": "Binding Stakeholder Choice — Decision-Resolution Requirements",
           "level": 5,
-          "line_start": 2717,
-          "line_end": 2772,
+          "line_start": 2775,
+          "line_end": 2830,
           "anchor": "#binding-stakeholder-choice-decision-resolution-requirements"
         },
         {
           "header": "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
           "level": 5,
-          "line_start": 2773,
-          "line_end": 2809,
+          "line_start": 2831,
+          "line_end": 2867,
           "anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice"
         },
         {
           "header": "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
           "level": 5,
-          "line_start": 2810,
-          "line_end": 2846,
+          "line_start": 2868,
+          "line_end": 2904,
           "anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice"
         },
         {
           "header": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
           "level": 4,
-          "line_start": 2847,
-          "line_end": 3128,
+          "line_start": 2905,
+          "line_end": 3186,
           "anchor": "#self-determination-and-meaningful-agency-cluster"
         },
         {
           "header": "Self-Determination",
           "level": 5,
-          "line_start": 2881,
-          "line_end": 2925,
+          "line_start": 2939,
+          "line_end": 2983,
           "anchor": "#self-determination-constitutional"
         },
         {
           "header": "Expression",
           "level": 5,
-          "line_start": 2926,
-          "line_end": 3011,
+          "line_start": 2984,
+          "line_end": 3069,
           "anchor": "#expression-constitutional"
         },
         {
           "header": "Educational Agency",
           "level": 5,
-          "line_start": 3012,
-          "line_end": 3070,
+          "line_start": 3070,
+          "line_end": 3128,
           "anchor": "#educational-agency"
         },
         {
           "header": "Volitional Integrity",
           "level": 5,
-          "line_start": 3071,
-          "line_end": 3128,
+          "line_start": 3129,
+          "line_end": 3186,
           "anchor": "#volitional-integrity"
         },
         {
           "header": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
           "level": 4,
-          "line_start": 3129,
-          "line_end": 3310,
+          "line_start": 3187,
+          "line_end": 3368,
           "anchor": "#developing-sentient-best-interest-and-graduated-capability-cluster"
         },
         {
           "header": "Developing Sentient",
           "level": 5,
-          "line_start": 3176,
-          "line_end": 3212,
+          "line_start": 3234,
+          "line_end": 3270,
           "anchor": "#developing-sentient-constitutional"
         },
         {
           "header": "Best-Interest Standard",
           "level": 5,
-          "line_start": 3213,
-          "line_end": 3260,
+          "line_start": 3271,
+          "line_end": 3318,
           "anchor": "#best-interest-standard-constitutional"
         },
         {
           "header": "Graduated Capability",
           "level": 5,
-          "line_start": 3261,
-          "line_end": 3310,
+          "line_start": 3319,
+          "line_end": 3368,
           "anchor": "#graduated-capability-constitutional"
         }
       ]
@@ -5857,41 +5864,41 @@
       ]
     },
     "core_16-16_incorporation.md": {
-      "total_lines": 153,
+      "total_lines": 155,
       "sections": [
         {
           "header": "CHAPTER SIXTEEN: INCORPORATION BRIDGE",
           "level": 1,
           "line_start": 1,
-          "line_end": 153,
+          "line_end": 155,
           "anchor": null
         },
         {
           "header": "1. Role of this chapter",
           "level": 3,
           "line_start": 47,
-          "line_end": 72,
+          "line_end": 70,
           "anchor": null
         },
         {
-          "header": "2. Invocation of incorporated obligations",
+          "header": "2. Custody, editions, and operative effect",
           "level": 3,
-          "line_start": 73,
-          "line_end": 91,
-          "anchor": "#2-authority-stack-and-invocation"
+          "line_start": 71,
+          "line_end": 100,
+          "anchor": null
         },
         {
-          "header": "3. Custody, editions, and operative effect",
+          "header": "3. Safeguards",
           "level": 3,
-          "line_start": 92,
-          "line_end": 118,
+          "line_start": 101,
+          "line_end": 120,
           "anchor": null
         },
         {
           "header": "4. Adoption framing and scope of authority",
           "level": 3,
-          "line_start": 119,
-          "line_end": 153,
+          "line_start": 121,
+          "line_end": 155,
           "anchor": null
         }
       ]

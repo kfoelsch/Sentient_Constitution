@@ -106,7 +106,7 @@ Designated obligations in these wrappers and their subfile directories are **bin
 - [**corpus_institutions.md**](corpus_institutions.md) — institutional governance, oversight, proportionality-scaled formation, sanctions and dissolution
 - [**corpus_forum.md**](corpus_forum.md) — forum operations; substantive CF text in `corpus_forum/` (panel formation, recusal, review lanes, continuity, emergency adjudication)
 
-[Chapter Sixteen](core_16-16_incorporation.md) is the constitutional incorporation bridge. Operative enforcement within any adopter is contingent on valid adoption under **Chapter Fifteen** (ratification) and **Chapter Sixteen** (incorporation and custody). Substantive content stands as stated in the instrument regardless of adoption; "the instrument lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See Chapter Sixteen **§4 Adoption framing and scope of authority** for the full self-description.
+[Chapter Sixteen](core_16-16_incorporation.md) is the constitutional incorporation bridge. Operative enforcement within any adopter is contingent on valid adoption under **Chapter Fifteen** (ratification) and **Chapter Sixteen** (incorporation and custody). Substantive content stands as stated in the instrument regardless of adoption; "the instrument lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See Chapter Sixteen **§4** (*Adoption framing and scope of authority*) — what this instrument is for adoption purposes, who may adopt, how adoption counts, and what non-adoption means.
 
 ## Binding vs support
 

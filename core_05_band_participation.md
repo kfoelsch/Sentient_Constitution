@@ -2115,6 +2115,7 @@ It keeps welfare rules, species or category labels, subclass rules, and status d
 - [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) — stable communicative / habitat-priority floor above Animal Life;
 - [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) — threshold-rights treatment under material uncertainty or dispute;
 - [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) — reviewable process to determine, narrow, or restore status;
+- [Sentience-Status Adjudication Record](core_05_band_participation.md#sentience-status-adjudication-record-constitutional) — the bounded status file that process produces or updates;
 - [Sentient](core_05_band_participation.md#sentient) — who counts as sentient, determined by Sentience Evaluation and Sentience Indicator Integrity;
 - [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) — indicator-based evaluation under uncertainty (housed under Sentient);
 - [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*), as the Rights-Floor owner where sentience status is:
@@ -2268,7 +2269,7 @@ See **Joint invocation and satisfaction**.
 
 ##### Treatment of Life by Status
 
-This nested sub-block is the joint home for **Animal Life**, **Elevated Communicative Life**, **Contested-Sentient Life**, **Sentience Status Adjudication**, and **Sentient** life-by-status treatment definitions within [Def.P1 *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) — not a separate Def.P cluster.
+This nested sub-block is the joint home for **Animal Life**, **Elevated Communicative Life**, **Contested-Sentient Life**, **Sentience Status Adjudication**, **Sentience-Status Adjudication Record**, and **Sentient** life-by-status treatment definitions within [Def.P1 *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) — not a separate Def.P cluster.
 
 **Protection tiers.** Life-by-status protections stack as follows. [Animal Life](core_05_band_participation.md#animal-life-constitutional) is the Tier 1 base. [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) (Tier 2) includes Animal Life where Elevated's who-test is met. [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) (Tier 3) always includes Animal Life and adds threshold-rights / Article V-E default Chapter Six inclusion under material uncertainty, dispute, or adjudication; it includes Elevated only where Elevated's who-test is met or where more-protective overlap already applies under [Chapter One §6.3.1](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test). [Sentient](core_05_band_participation.md#sentient) (Tier 4) includes Contested-Sentient Life (and thus Animal Life, and Elevated where that tier applied), plus affirmed who-counts and Chapter Six Rights-Floor attachment. [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) is the status process beside the ladder — determine, revise, narrow, or restore — not itself a protection tier.
 
@@ -2277,8 +2278,9 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 - [Animal Life](core_05_band_participation.md#animal-life-constitutional) — Tier 1 base cruelty / welfare floor (included by Contested and Sentient; included by Elevated where Elevated applies);
 - [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) — Tier 2: includes Animal Life, plus stable communicative / habitat-priority protection without full Chapter Six Rights-Floor attachment — attaches on its own who-test, not automatically to every contested case;
 - [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) — Tier 3: always includes Animal Life, plus threshold-rights / default Chapter Six inclusion under material uncertainty, dispute, or adjudication; includes Elevated only where Elevated's who-test or more-protective overlap applies;
-- [Sentient](core_05_band_participation.md#sentient) — Tier 4: includes Contested-Sentient Life (and thus Animal Life, and Elevated where that tier applied), plus affirmed who-counts and Chapter Six Rights-Floor attachment, including Sentience Evaluation; and
-- [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) — reviewable process to determine, revise, narrow, or restore status (beside the ladder).
+- [Sentient](core_05_band_participation.md#sentient) — Tier 4: includes Contested-Sentient Life (and thus Animal Life, and Elevated where that tier applied), plus affirmed who-counts and Chapter Six Rights-Floor attachment, including Sentience Evaluation;
+- [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) — reviewable process to determine, revise, narrow, or restore status (beside the ladder); and
+- [Sentience-Status Adjudication Record](core_05_band_participation.md#sentience-status-adjudication-record-constitutional) — the bounded, reviewable status file that process produces or updates.
 
 [Substrate Class](core_05_band_participation.md#substrate-class) and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) remain cluster-level constraints above this sub-block and apply throughout.
 
@@ -2595,7 +2597,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 - Owner floor: [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
 - Cluster component: [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
 - Venue: [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) / [Chapter Eleven §4.2 Technical Forum Domains](core_11-11_forum.md#42-technical-forum-domains) as default lead; read with [Chapter Eleven §5](core_11-11_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook).
-- Read with: [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Substrate Class](core_05_band_participation.md#substrate-class), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Chapter Eleven](core_11-11_forum.md), and [Chapter Sixteen](core_16-16_incorporation.md) incorporated implementation text.
+- Read with: [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Substrate Class](core_05_band_participation.md#substrate-class), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Sentience-Status Adjudication Record](core_05_band_participation.md#sentience-status-adjudication-record-constitutional), [Chapter Eleven](core_11-11_forum.md), and [Chapter Sixteen](core_16-16_incorporation.md) incorporated implementation text.
 
 </details>
 
@@ -2629,7 +2631,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - appointment mechanics;
     - filing conditions; and
     - sequencing —
-    routes through [Chapter Eleven](core_11-11_forum.md) and [Chapter Sixteen](core_16-16_incorporation.md)-incorporated implementation text and must not narrow this entry.
+    routes through [Chapter Eleven](core_11-11_forum.md) and [Chapter Sixteen](core_16-16_incorporation.md)-incorporated implementation text and must not narrow this entry. When adjudication runs, it must produce or update a [Sentience-Status Adjudication Record](core_05_band_participation.md#sentience-status-adjudication-record-constitutional).
   - **Out of scope:**
     - [Animal Life](core_05_band_participation.md#animal-life-constitutional) welfare-floor cases with no material contested-sentience record; or
     - [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) cases with no material contested-sentience record.
@@ -2658,6 +2660,62 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - withholds, narrows, or revokes Chapter Six protection on unresolved uncertainty alone;
     - narrows status without a declared end-date and mandatory periodic review; or
     - refuses to reopen or review when new verified evidence appears.
+
+---
+
+<a id="sentience-status-adjudication-record-constitutional"></a>
+
+##### Sentience-Status Adjudication Record
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Owner floor: [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
+- Process owner: [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional).
+- Venue / minimum fields: [Chapter Eleven §5](core_11-11_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook).
+- Incorporation: [Chapter Sixteen](core_16-16_incorporation.md) (*fuller record schema when adopted*).
+- Cluster component: [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
+- Read with: [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Forum Case Record](core_05_band_accountability.md#forum-case-record), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), and [Standing Record](core_05_band_accountability.md#standing-record-chapter-six).
+
+</details>
+
+<br>
+
+*In plain terms: a **Sentience-Status Adjudication Record** is the honest, inspectable file for a sentience-status decision — who or what was reviewed, what status was found or left contested, on what evidence, under which forum route, with what end-dates or review triggers, and how the case can be reopened. It is not a Standing Record, not the whole Forum Case Record, and not a label someone can invent by self-description.*
+
+- **What it is**
+  - **In scope:** The bounded, reviewable record produced or updated when [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) runs under **Article V-E** (*Sentience-Status Adjudication Floor*). A **Sentience-Status Adjudication Record** states at least:
+    - the subject entity;
+    - the status determination or live contested posture (including affirmed, narrowed, revoked, restored, or still contested);
+    - the lead forum family and any Chapter Eleven–warranted special route;
+    - the indicators and expert evidence relied on, with material uncertainty noted;
+    - interim [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) treatment while status remains live;
+    - any narrowing's declared expected-closure timeline and mandatory periodic-review trigger; and
+    - the reopening evidence standard — new verified evidence, not calendar-only reopening.
+  - Until a fuller schema is validly incorporated under [Chapter Sixteen](core_16-16_incorporation.md), the minimum fields in [Chapter Eleven §5](core_11-11_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook) govern record contents. That hook is **not** a full appointments or filing statute.
+  - **Depends on:** [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional); [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
+  - **Out of scope:**
+    - [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) as the process itself;
+    - a [Forum Case Record](core_05_band_accountability.md#forum-case-record) as the whole dispute file;
+    - a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), standing effect, or merged merit score;
+    - [Substrate Class](core_05_band_participation.md#substrate-class) labels or operator self-description offered as status; and
+    - appointments schedules, filing-form libraries, or sequencing manuals except insofar as adopted implementation text instantiates this record.
+<a id="sentience-status-adjudication-record-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the status file is complete enough to contest, reopen, and reverse wrongful narrowing.
+
+    **Primary assessment:** Check that the record:
+    1. identifies the subject and the status posture clearly enough for independent review;
+    2. names the lead forum family and any special route actually used;
+    3. states the evidence and uncertainty relied on in [Auditability](core_05_band_oversight.md#auditability)-compatible form;
+    4. preserves interim Contested-Sentient Life treatment while status remains live;
+    5. for any narrowing, carries a declared expected-closure timeline and mandatory periodic-review trigger; and
+    6. states a reopening path on new verified evidence, not calendar-only reopening.
+<a id="sentience-status-adjudication-record-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:** treating operator self-description, a substrate label, an intake tag, or an incomplete case note as a Sentience-Status Adjudication Record; or using the record to withhold, narrow, or revoke Chapter Six protection on unresolved uncertainty alone;
+  - **Secondary failure:** missing required minimum fields under [Chapter Eleven §5](core_11-11_forum.md#5-escalation-and-certification) when adjudication has run; concealed, non-contestable, or non-inspectable status findings; or treating the record as a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six) or as the whole [Forum Case Record](core_05_band_accountability.md#forum-case-record);
+  - **Tertiary failure:** refusing reopening on new verified evidence; or presenting an appointments or filing manual as if it were this status record.
 
 ---
 

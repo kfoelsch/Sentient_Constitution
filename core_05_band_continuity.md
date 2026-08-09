@@ -2717,14 +2717,14 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     Routing and read-with:
     - Route territorial-continuity questions:
       - to **Article I-A** (*Environmental Preconditions and Ecological Integrity*); and
-      - where adopter-jurisdiction determinations of historical territorial claims are at stake, also to [Chapter Sixteen](core_16-16_incorporation.md) §3 (*strictest-applicable-level*) and §4 (*adoption framing*), without this entry making the adjudication.
+      - where adopter-jurisdiction determinations of historical territorial claims are at stake, also to [Chapter Sixteen](core_16-16_incorporation.md) §2 (*custody and editions*), §3 (*safeguards*), and §4 (*adoption framing*), without this entry making the adjudication.
     - If an adopter already recognizes indigenous or comparable community-continuity rights, apply [Chapter Thirteen non-regression](core_13-15_amendment.md). This entry does not create that recognition; non-regression only prevents the adopter from rolling it back.
     - [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional) applies where community-continuity transmission across generations is materially implicated.
     - [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing) applies where the community-to-ecosystem relationship is materially implicated.
 <a id="indigenous-continuity-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** narrowings, displacements, exclusions contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), or category-label exclusions that defeat community-level continuity without satisfying **Article V-B** (*Nondiscrimination*) [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) tests;
-  - **Secondary failure:** adopter narrowing below the adopter's own prior recognition floor ([Chapter Thirteen non-regression](core_13-15_amendment.md); [Chapter Sixteen §3](core_16-16_incorporation.md) strictest-applicable-level);
+  - **Secondary failure:** adopter narrowing below the adopter's own prior recognition floor ([Chapter Thirteen non-regression](core_13-15_amendment.md); [Chapter Sixteen §3](core_16-16_incorporation.md#3-safeguards) safeguards and [Chapter One §8.4.3](core_01_b_interaction_interpretation.md#833-incorporation-layer) stricter clearly adopted baseline);
   - **Tertiary failure:** misreading the boundary of this entry, including:
     - category-label framings substituting for capability-functional evaluation; and
     - reading this entry as adjudicating historical territorial claims, creating a restitution mandate, or narrowing [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) ecosystem-integrity floors.

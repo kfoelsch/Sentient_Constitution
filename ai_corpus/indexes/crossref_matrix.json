@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-08-09T03:59:53+00:00",
+  "generated_at": "2026-08-09T04:55:51+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2307,7 +2307,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 56,
+            "count": 57,
             "anchors": [
               "#accessibility-constitutional",
               "#animal-life-constitutional",
@@ -2353,6 +2353,7 @@
               "#self-determination-constitutional",
               "#sentience-non-exclusion",
               "#sentience-status-adjudication-constitutional",
+              "#sentience-status-adjudication-record-constitutional",
               "#sentient",
               "#stakeholder",
               "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
@@ -3428,14 +3429,15 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 15,
+            "count": 16,
             "anchors": [
               "#61-core-tradeoff-principles",
               "#611-proportionality",
               "#623-privacy-and-informational-self-determination",
               "#63-minimization-of-avoidable-burden",
               "#631-rights-collision-decision-test",
-              "#632-proxy-divergence-invalidation"
+              "#632-proxy-divergence-invalidation",
+              "#833-incorporation-layer"
             ]
           },
           {
@@ -3807,7 +3809,9 @@
           {
             "file": "core_16-16_incorporation.md",
             "count": 4,
-            "anchors": []
+            "anchors": [
+              "#3-safeguards"
+            ]
           },
           {
             "file": "corpus_forum.md",
@@ -4393,7 +4397,7 @@
           },
           {
             "file": "core_05_apex_participation_leg.md",
-            "count": 61,
+            "count": 62,
             "anchors": [
               "#6-process-conflict-resolution",
               "#631-rights-collision-decision-test",
@@ -4405,7 +4409,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 148,
+            "count": 155,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -4413,6 +4417,7 @@
               "#cruelty",
               "#due-process-constitutional",
               "#feasibility",
+              "#forum-case-record",
               "#forum-family-technical",
               "#governance",
               "#harassment-and-bullying",
@@ -4424,7 +4429,8 @@
               "#protected-reporting-retaliation-and-access-interference",
               "#protected-reporting-whistleblowing",
               "#psychological-harm",
-              "#redress-and-remediation-constitutional"
+              "#redress-and-remediation-constitutional",
+              "#standing-record-chapter-six"
             ]
           },
           {
@@ -4464,7 +4470,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 61,
+            "count": 63,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -4482,7 +4488,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 644,
+            "count": 657,
             "anchors": [
               "#accessibility-constitutional",
               "#agency-consent-and-anti-coercion-semi-independent",
@@ -4534,6 +4540,7 @@
               "#sentience-evaluation-e",
               "#sentience-non-exclusion",
               "#sentience-status-adjudication-constitutional",
+              "#sentience-status-adjudication-record-constitutional",
               "#sentient",
               "#stakeholder",
               "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
@@ -4564,7 +4571,7 @@
           },
           {
             "file": "core_06-06_rights_part_b.md",
-            "count": 55,
+            "count": 57,
             "anchors": [
               "#article-ix-a-agency-and-freedom-from-manipulation",
               "#article-ix-b-stakeholder-role-and-participation-rights",
@@ -4635,7 +4642,7 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 7,
+            "count": 10,
             "anchors": [
               "#42-technical-forum-domains",
               "#5-escalation-and-certification"
@@ -4651,7 +4658,7 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 3,
+            "count": 5,
             "anchors": []
           },
           {
@@ -6000,10 +6007,11 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 2,
+            "count": 4,
             "anchors": [
               "#contested-sentient-life-constitutional",
-              "#sentience-status-adjudication-constitutional"
+              "#sentience-status-adjudication-constitutional",
+              "#sentience-status-adjudication-record-constitutional"
             ]
           },
           {
@@ -6112,7 +6120,7 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 3,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
@@ -7920,7 +7928,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 8,
+            "count": 6,
             "anchors": [
               "#833-incorporation-layer",
               "#84-constitutional-meaning-conflict-resolution"
@@ -7947,7 +7955,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 8,
+            "count": 5,
             "anchors": [
               "#dependency",
               "#safety-constraint",
@@ -7957,7 +7965,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 15,
+            "count": 11,
             "anchors": [
               "#authority-stack",
               "#corpus"
@@ -7965,7 +7973,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 8,
+            "count": 7,
             "anchors": [
               "#classification-scaled-governance",
               "#material-impact",
@@ -7975,8 +7983,9 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
+              "#sentience-status-adjudication-record-constitutional",
               "#stakeholder"
             ]
           },
@@ -8019,7 +8028,7 @@
           },
           {
             "file": "core_13-15_amendment.md",
-            "count": 9,
+            "count": 11,
             "anchors": [
               "#3-anti-evasion-clause-and-constitutional-misconduct-referral",
               "#chapter-fifteen-amendment-ratification-and-procedural-validity",
