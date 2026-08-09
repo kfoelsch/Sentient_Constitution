@@ -1,9 +1,10 @@
 # Pre-Publication Spec — Sentient Constitution
 
-**Status:** Draft v0.4 (§6 open decisions closed)  
+**Status:** Draft v0.5 (§6 open decisions closed; Chapter Five defs-band cleanup closed)  
 **Edition target:** next publication cut after `SC-Corpus-2026.06.18`  
 **Layer:** Process / map support — **not** binding constitutional or incorporated text  
-**Job:** Stress-test gaps and drive pre-publication cleanup toward an adoptable, implementable, and maintainable delivered corpus
+**Job:** Stress-test gaps and drive pre-publication cleanup toward an adoptable, implementable, and maintainable delivered corpus  
+**Progress pointer:** §5 step **2** closed (2026-08-08). **Next:** Standing + SAC entry doors (step 3), then Audit stack maturity (step 4).
 
 Update this file as remaining decisions land and as dissection turns suspicions into named gaps.
 
@@ -95,7 +96,7 @@ The intent and meaning core that should orient both modes—especially conflict 
 | Preamble model | Constitutional Tetrad, Two Constitutional Aims, material stake |
 | **Chapter One** | Intent core of the system; must be **optimally aligned**; always-on |
 | Definition mechanics | Chapters Two–Four (mature structure for how definitions, integrity, burden, traceability, and verification work) |
-| Chapter Five definition stack | Substantive definition homes (bands / apex); finish and keep readable—see §4.1 |
+| Chapter Five definition stack | Substantive definition homes (bands / apex); **band cleanup closed 2026-08-08** — keep readable under ongoing structural checks |
 | Chapter Sixteen pointer | Custody / “this is the instrument” (critical under full adoption; still the custody truth under operations-guide citation) |
 | Rights Floor | Chapter Six — bound under full adoption; articles opened on demand in either mode |
 
@@ -105,9 +106,9 @@ Open for the problem at hand.
 
 | Stack | Home | Status |
 |---|---|---|
-| Definition | Chapters Two–Five | Mechanics (2–4) mature; Ch 5 bands still in cleanup |
-| System alignment certification | Chapter Seven | Existing stack |
-| Standing pipeline | Chapters Eight–Eleven (Chapter Ten = designation sub-pack) | Existing stack |
+| Definition | Chapters Two–Five | Mechanics (2–4) mature; **Ch 5 band cleanup closed** (2026-08-08) |
+| System alignment certification | Chapter Seven | Existing stack — **next:** human entry door (step 3) |
+| Standing pipeline | Chapters Eight–Eleven (Chapter Ten = designation sub-pack) | Existing stack — **next:** human entry door (step 3) |
 | **Audit / oversight** | Article XV, Auditability, CJS-5.3 cluster, related OP annexes — exact home TBD | **Named stack to build / mature this cut** (not yet mature) |
 | **Remedy** | Chapter Nine §9 / related enforcement-realism homes (e.g. CI-27) — exact door TBD | **Named use stack** this cut |
 | **Emergency / continuity** | Continuity-aim and emergency / continuity operational homes — exact door TBD | **Named use stack** this cut |
@@ -126,11 +127,17 @@ Chapters Twelve–Fifteen when adopting as a polity or organization with an amen
 
 ## 4. Pre-cut cleanup inventory
 
-### 4.1 Confirmed must-dissect
+### 4.1 Closed this cut (defs)
 
 | Item | Notes |
 |---|---|
-| Remaining Chapter Five defs bands | Done: accountability, continuity. **Unfinished (need operator attention):** [`core_05_band_oversight.md`](../core_05_band_oversight.md), [`core_05_band_participation.md`](../core_05_band_participation.md), [`core_05_band_integrative.md`](../core_05_band_integrative.md), [`core_05_band_performance.md`](../core_05_band_performance.md) (unedited) |
+| Chapter Five defs bands | **Closed 2026-08-08.** Plain-language / structure passes landed for accountability, continuity, oversight, participation, and integrative. [`core_05_band_performance.md`](../core_05_band_performance.md) remains the thin **measurement-family routing home** (leaf bodies stay in Continuity by design — see §6.1). |
+
+### 4.2 Confirmed must-dissect (remaining)
+
+| Item | Notes |
+|---|---|
+| **Standing + SAC entry doors** | Human one-sentence job + how-to-read on each stack home (next sequence step) |
 | **Audit stack** | Mature a reader-facing + implementable audit / oversight stack (gap; not mature today) |
 | **Remedy stack** | Named use stack — clear human door + owner path (Ch 9 §9 / CI-27 and related) |
 | **Emergency / continuity stack** | Named use stack — clear human door + owner path |
@@ -138,15 +145,15 @@ Chapters Twelve–Fifteen when adopting as a polity or organization with an amen
 | **CF** | Full pass |
 | **CJS** | Full pass; demote or non-face **implementation integration** (`CJS-2`) for average readers |
 
-### 4.2 High-suspicion rework
+### 4.3 High-suspicion rework
 
 | Item | Why |
 |---|---|
 | **CS** (data types, system classification) | Suspected heaviest lift; prior unreadability; classification UX may block adoption |
 | Reader-facing surfaces that dump integration detail | Same failure mode as CJS-2 |
-| Cross-stack alignment to Chapter One | Spine must actually drive conflict resolution |
+| Cross-stack alignment to Chapter One | Spine must actually drive conflict resolution; spine lock (step 1) not formally closed |
 
-### 4.3 Structural checks (ongoing)
+### 4.4 Structural checks (ongoing)
 
 - Owner routing / no duplicate definitions
 - Plain-language vs machine-structure layering
@@ -158,33 +165,35 @@ Chapters Twelve–Fifteen when adopting as a polity or organization with an amen
 
 ## 5. Cleanup sequence (proposed)
 
-1. **Spine lock** — Chapter One (and Preamble model) alignment pass; regressions here are cut-blockers.
-2. **Finish Chapter Five defs bands** — oversight → participation → integrative → performance.
-3. **Standing + SAC entry doors** — human one-sentence job + how-to-read on each stack home.
-4. **Mature the Audit stack** — define home, reader door, and operator path; remove false “reader-facing integration” patterns.
-5. **Mature Remedy and Emergency / continuity stacks** — named doors; no parallel norms; shared stewardship duties apply to human and AI stewards alike.
-6. **CJS demote-the-integration-surface** — reader path vs operator path.
-7. **CI / CF full dissection** — readability, modular attach, no parallel norms.
-8. **CS deep rework** — data types + classification apply-test with human and AI fact patterns.
-9. **Handoff trials** — same fact patterns across at least two models or agents; judge consistency per §6.5.
-10. **Cut gate** — §2 criteria checklist + regression green.
+| # | Step | Status |
+|---|---|---|
+| 1 | **Spine lock** — Chapter One (and Preamble model) alignment pass; regressions here are cut-blockers | **Open** (not formally closed; Ch1↔CJS-5 audits continue) |
+| 2 | **Finish Chapter Five defs bands** — oversight → participation → integrative → performance | **Closed 2026-08-08** |
+| 3 | **Standing + SAC entry doors** — human one-sentence job + how-to-read on each stack home | **Next** |
+| 4 | **Mature the Audit stack** — define home, reader door, and operator path; remove false “reader-facing integration” patterns | Open |
+| 5 | **Mature Remedy and Emergency / continuity stacks** — named doors; no parallel norms; shared stewardship duties apply to human and AI stewards alike | Open |
+| 6 | **CJS demote-the-integration-surface** — reader path vs operator path | Open |
+| 7 | **CI / CF full dissection** — readability, modular attach, no parallel norms | Open |
+| 8 | **CS deep rework** — data types + classification apply-test with human and AI fact patterns | Open |
+| 9 | **Handoff trials** — same fact patterns across at least two models or agents; judge consistency per §6.5 | Open |
+| 10 | **Cut gate** — §2 criteria checklist + regression green | Open |
 
 ---
 
 ## 6. Decisions
 
-### 6.1 Performance defs band — **resolved**
+### 6.1 Performance defs band — **resolved (placement accepted)**
 
-[`core_05_band_performance.md`](../core_05_band_performance.md) is **unedited** and **requires operator attention**. It is part of the unfinished defs set with oversight, participation, and integrative.
+[`core_05_band_performance.md`](../core_05_band_performance.md) is the Chapter Five **measurement-family routing home** for Constitutional Performance. Leaf definition bodies remain in the [Continuity band](../core_05_band_continuity.md) by design (stewardship / shared-system capacity / proportionality–burden–efficiency). No further band rewrite is required for this cut unless an express, dated placement decision moves those leaves.
 
-### 6.2 “Minimum definition kit” — **reframed / largely resolved**
+### 6.2 “Minimum definition kit” — **resolved**
 
 Earlier wording asked for a cherry-picked list of Chapter Five anchors as a thin always-on kit. That question was the wrong shape.
 
 **Resolved stance:**
 
 - Chapters **Two–Four** are the mature **definition-mechanics** structure (how definitions work).
-- Chapter **Five** is the substantive **definition stack** (what terms mean), still in band-by-band cleanup.
+- Chapter **Five** is the substantive **definition stack** (what terms mean); **band-by-band cleanup closed 2026-08-08**.
 - No separate “minimum kit” list is required beyond treating Ch 2–4 + the Ch 5 stack as the definition layer of the spine, unless later cleanup proves a thinner always-on subset is needed for operations-guide entry doors.
 
 ### 6.3 Extra named use stacks — **resolved**
@@ -232,3 +241,4 @@ Do not block this publication cut on building B; keep B as a post-cut hardening 
 | 2026-08-02 | v0.2 | §6 answers: performance unfinished; Ch 2–4 as mechanics; Audit stack to mature; adoption reframed; handoff consistency clarified with Option A default |
 | 2026-08-02 | v0.3 | §6.5 locked: Option A now, Option B later as agents improve |
 | 2026-08-02 | v0.4 | §6.3 locked: Remedy and Emergency/continuity as named stacks; AI stewards = human stewards (no AI-only stack) |
+| 2026-08-08 | v0.5 | Ch 5 defs-band cleanup closed; performance placement accepted as Continuity-leaf routing home; §4–§5 progress refreshed; next = Standing + SAC entry doors |
