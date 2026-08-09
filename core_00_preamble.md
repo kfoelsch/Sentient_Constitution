@@ -105,7 +105,7 @@ The first two layers may overlap in practice, but stakeholder-level participatio
 <a id="4-principles-definitions-and-rights"></a>
 ### 4. Principles, Definitions, and Rights
 
-Sections **4 through 7** are this Constitution's **positive owner register**: each block names the substantive domain its chapter (or companion corpus) owns and what it produces. Binding one-line owner claims also appear at each numbered chapter opening. Other layers may point to an owner — they must not quietly rewrite or relocate it; that non-relocation discipline lives under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack). Editorial file routing is mirrored in [doc_architecture.md](doc_architecture.md) section 2.
+Sections **4 through 7** are this Constitution's **positive owner register**: each block names the substantive domain its chapter (or companion corpus) owns and what it produces. Binding one-line owner claims also appear at each numbered chapter opening. Other layers may point to an owner — they must not quietly rewrite or relocate it; that non-relocation discipline lives under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack).
 
 Chapters **One through Six** supply the values, vocabulary, verification machinery, and Rights Floor that everything later must respect — including the [Key Practical Process Pipelines](#5-key-practical-process-pipelines) in Section 5, the governance and change-path chapters in Section 6, and the [companion implementation corpus](#7-companion-implementation-corpus) in Section 7.
 

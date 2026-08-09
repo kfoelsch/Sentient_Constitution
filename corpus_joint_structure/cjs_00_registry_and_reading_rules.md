@@ -19,7 +19,7 @@
 > - **Navigation wrapper / reader landing:** [corpus_joint_structure.md](../corpus_joint_structure.md) indexes the joint-structure subfiles.
 > - **Reader landing:** [corpus_joint_structure.md](../corpus_joint_structure.md) is the human start for this layer. This file is the registry and routing annex, not a second front door.
 > - **Shared contract:** **CJS-1.2** (*Shared implementation-corpus preamble contract*) in [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) states authority, readability, shorthand, and canonical-meaning rules for all CJS and implementation files.
-> - **Editorial map:** [doc_architecture.md](../doc_architecture.md) is the placement guide; the CJS folder holds binding joint-structural text within **Corpus** as designated in **Chapter Five** and incorporated through **Chapter Sixteen**.
+> - **Layer homes:** [Preamble — constitutional owner register](../core_00_preamble.md#constitutional-owner-register) for constitutional chapters and companion corpora; this layer's owns / does-not-own list in [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) (**CJS-1**). The CJS folder holds binding joint-structural text within **Corpus** as designated in **Chapter Five** and incorporated through **Chapter Sixteen**.
 >
 > **How to read CJS**
 >
@@ -29,7 +29,7 @@
 >
 > | If you are… | Start here |
 > |---|---|
-> | **Topic-driven** — you know the subject (forum ops, institutional governance, cross-layer integrity) | [topic_router_reader_index.md](../doc_architecture/generated/topic_router_reader_index.md) → primary owner section |
+> | **Topic-driven** — you know the subject (forum ops, institutional governance, cross-layer integrity) | [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) → **CJS-2.1** → primary owner section |
 > | **Domain-driven** — you care about forums, institutions, or systems | [corpus_forum.md](../corpus_forum.md), [corpus_institutions.md](../corpus_institutions.md), or [corpus_systems.md](../corpus_systems.md) |
 > | **Cross-cutting operational terms** — evidence, procedure, dependency, participation, failure handling, and similar joint terms | [cjs_05_cross_implementation_operational_terms.md](cjs_05_cross_implementation_operational_terms.md) (**CJS-5**) |
 >
@@ -113,7 +113,7 @@ If a matter triggers more than one cross-layer topic, apply **every** triggered 
 
 **Topic finder**
 
-Grouped reader index with plain-language links to owner sections: [topic_router_reader_index.md](../doc_architecture/generated/topic_router_reader_index.md) (generated from **CJS-2.1** via `make architecture-index`).
+Start at [CJS-0.1](#cjs-01-cross-file-routing) for how **primary owner** and **mandatory read-with** work, then open the integrator router table in [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids).
 
 - **Forum operations** — panel formation, routing, appeals, integrity safeguards, continuity, records, staffing, and related topics (primary owners in **CF**).
 - **Institutional governance** — delegated bodies, functional lanes, contest-integrity monitoring, coordination, and class-scaled staffing (primary owners in **CI**).
@@ -201,7 +201,7 @@ These are the stable section families for the CJS folder:
 
 *In plain terms: section labels like **CJS-2.1** stay stable across corpus editions so cross-references do not break when text moves between files.*
 
-**Edition alignment:** The visible **Corpus edition** and **Effective date** labels must track **Corpus** labels in adopting instruments and `doc_architecture.md` corpus-alignment notes.
+**Edition alignment:** The visible **Corpus edition** and **Effective date** labels must track **Corpus** labels in adopting instruments and [README.md](../README.md) edition metadata.
 
 
 <details>
@@ -211,7 +211,7 @@ These are the stable section families for the CJS folder:
 >
 > **Drafting priority (suggested):**
 >
-> 1. Extend **CJS-2.1** (*Cross-implementation read-with contract*) with new rows only when `doc_architecture.md` section 2 ownership or cross-file overlap changes; keep row IDs **stable** — append new IDs, do not renumber. When a row changes, update the **primary owner** and each **mandatory read-with** section so routing stays **bidirectional** (row ↔ owner ↔ read-with).
+> 1. Extend **CJS-2.1** (*Cross-implementation read-with contract*) with new rows only when the [Preamble — constitutional owner register](../core_00_preamble.md#constitutional-owner-register) or cross-file overlap changes; keep row IDs **stable** — append new IDs, do not renumber. When a row changes, update the **primary owner** and each **mandatory read-with** section so routing stays **bidirectional** (row ↔ owner ↔ read-with).
 > 2. When **CI**/**CF**/**CS** repeat the same joint interface paragraph, prefer a **one-line** pointer to the relevant CJS joint section, including **CJS-4.1** (*Hybrid delegated authority (delegated binding bodies)*) for hybrid composition shared by **CI-9.3.2** (*Authority composition*) and **CF-3.6** (*Chamber authority composition and service mechanics*), and keep operative checklists in the **primary owner**.
 > 3. When implementation files repeat the same joint interface paragraph, apply **CJS-4.2** (*Implementation boundary (primary owner to CJS seam)*) the same way: use a **one-line** pointer to **CJS-4** (*Specific joint interlocks and shared abstractions*), **CJS-2.1** (*Cross-implementation read-with contract*), or the applicable **CJS-5** (*Implementation and cross-implementation operational cluster library*) cluster rather than duplicating OP clusters at length.
 > 4. Run `make reference-audit` after substantive cross-file moves.

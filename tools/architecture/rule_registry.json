@@ -177,6 +177,13 @@
       "status": "blocking"
     },
     {
+      "id": "SUPPORT-DOC-POINTER-01",
+      "legacy_ref": "binding corpus must not depend on doc_architecture for meaning or routing",
+      "summary": "Binding corpus may cite doc_architecture only when classifying it as non-binding/support or as a reading-chain footer terminus.",
+      "make_target": "support-doc-pointer-audit",
+      "status": "blocking"
+    },
+    {
       "id": "CH4-CH7-POINTER",
       "legacy_ref": "Chapter Four ↔ Chapter Seven pointer discipline",
       "summary": "Chapter Seven must cite Chapters Two through Four when applying verification-substrate rules; must not restate Chapter Four §§1–6.",

@@ -20,7 +20,7 @@
 >
 > **Where this lives**
 > - **Navigation wrapper / reader landing:** [corpus_systems.md](../corpus_systems.md) indexes the `corpus_systems/` subfiles.
-> - **Editorial map:** [doc_architecture.md](../doc_architecture.md) section 4 (definitions protocol) and section 2 (ownership map).
+> - **Layer homes:** [Preamble — constitutional owner register](../core_00_preamble.md#constitutional-owner-register); this layer's owns / does-not-own list in [cs_01_scope_purpose_identifier_rules.md](cs_01_scope_purpose_identifier_rules.md) (**CS-1**). Definition placement: **CJS-1.1**, **CJS-1.2**, and **CJS-2.3**.
 > - **Shared contract:** **CJS-1.2** (*Shared implementation-corpus preamble contract*).
 >
 > **Implementation layer map**

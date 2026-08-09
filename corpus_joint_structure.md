@@ -8,7 +8,7 @@
 - How topic routing and mandatory read-with order work across implementation files
 - How joint obligations and interlocks must be satisfied together — not restated as domain doctrine
 - How shared operational terms (evidence, procedure, dependency, participation, failure handling, and related) live in the **CJS-5** library — including the **[CJS-5.3 audit process home](corpus_joint_structure/cjs_05_audit_process.md#cjs-53-audit-process-home)** (what / why / how / when auditing works across CS, CI, and CF)
-- Families **CJS-1–CJS-5** and the registry annex carry the detail — expand **Joint structure index** below, or use the [topic router reader index](doc_architecture/generated/topic_router_reader_index.md), when you need a specific file
+- Families **CJS-1–CJS-5** and the registry annex carry the detail — expand **Joint structure index** below, or open [CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) / **CJS-2.1**, when you need a specific file
 
 **Does not:**
 - Replace day-to-day domain rules in [Systems and data](corpus_systems.md), [Institutions](corpus_institutions.md), or [Forums](corpus_forum.md)
@@ -26,11 +26,11 @@
 - [Systems and data](corpus_systems.md) — start here for typing, classification, and system protocols
 - [Institutions](corpus_institutions.md) — start here for body formation, oversight, and institutional remedy
 - [Forums](corpus_forum.md) — start here for panels, routing, appeals, and hearing operations
-- [Topic router reader index](doc_architecture/generated/topic_router_reader_index.md) — topic-driven entry when you already know the subject
+- [CJS-0.1 Cross-file routing](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) and **CJS-2.1** — topic-driven entry when you already know the subject
 
 **Binding:** When an adopter incorporates this layer under [Chapter Sixteen](core_16-16_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
-**Already know your topic?** Expand **Joint structure index** below, use the [topic router reader index](doc_architecture/generated/topic_router_reader_index.md), or open the [joint-structure registry](corpus_joint_structure/cjs_00_registry_and_reading_rules.md) for routing detail and the family map.
+**Already know your topic?** Expand **Joint structure index** below, or open the [joint-structure registry](corpus_joint_structure/cjs_00_registry_and_reading_rules.md) (**CJS-0.1** / **CJS-2.1**) for routing detail and the family map.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Compatibility and authority (non-operative)</span></strong></summary>

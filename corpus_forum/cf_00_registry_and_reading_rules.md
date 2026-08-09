@@ -64,7 +64,7 @@
 
 *In plain terms: labels like **CF-7.2** are forum-implementation section numbers — not Sentient Constitution article numbers.*
 
-Apply **CJS-1.3** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this file specifically, headings use **CF-1** (*Scope, authority, and boundary rules*) and **CF-3** (*Forum formation, forum-structure mapping, chambers, and minimum bench availability*) through **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*). Subsections use **CF-*n*.*m*** (for example **CF-7.2** (*Constitutional alignment recognition and review*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CF** matches [doc_architecture.md](../doc_architecture.md) (*corpus_forum.md*). Domain routing formerly labeled **CF-2** now lives in this registry annex.
+Apply **CJS-1.3** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this file specifically, headings use **CF-1** (*Scope, authority, and boundary rules*) and **CF-3** (*Forum formation, forum-structure mapping, chambers, and minimum bench availability*) through **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*). Subsections use **CF-*n*.*m*** (for example **CF-7.2** (*Constitutional alignment recognition and review*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CF** means the *corpus forum* implementation layer ([corpus_forum.md](../corpus_forum.md)). Domain routing formerly labeled **CF-2** now lives in this registry annex.
 
 Unless another reference pattern is stated, **Article** labels with Roman numerals in this file point to Sentient Constitution Chapter Six in the `core_06-06_rights_part_*.md` files.
 
@@ -128,7 +128,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 
 *In plain terms: this annex tells integrators how forum files split deliberately and where to find cross-layer read-with. Forum-primary owners and full mandatory read-with lists live in **CJS-2.1** — this file does not maintain a competing **CJS-R** table.*
 
-When a forum topic materially intersects **CI**, **CS**, or **CJS**, use [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) (*Topic router (stable IDs)*) for the authoritative primary owner and mandatory read-with list. Plain-language grouped index: [topic_router_reader_index.md](../doc_architecture/generated/topic_router_reader_index.md).
+When a forum topic materially intersects **CI**, **CS**, or **CJS**, use [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) (*Topic router (stable IDs)*) for the authoritative primary owner and mandatory read-with list.
 
 ### Forums overlap discipline
 <a id="forums-overlap-discipline"></a>

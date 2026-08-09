@@ -47,7 +47,7 @@ Chapter Two is the constitutional owner of **definition structure and component 
 - Upstream: [Preamble §1 The Model](core_00_preamble.md#the-model) — [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), and [material stake](core_00_preamble.md#material-stake) scaling apply chapter-wide through section traces; [Chapter One §1 Purpose and Role](core_01_a_values_principles.md#1-purpose-and-role) (*values and constraints this definition stack serves*).
 - Upstream: [Chapter Two opening](#chapter-two-definition-structure-and-component-requirements) — O/M/A/C decomposition and internal-alignment requirement.
 - Tetrad leg(s): **oversight**, **accountability** (definitions must be assessable and enforceable on observable behavior). Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide.
-- Downstream: [§1.2 Measurement Components](#12-measurement-components) and [§1.3 Assessment Components](#12-assessment-components) (*Measurement (M) register interwoven with the assessment duty; [MEAS-DEF-01](doc_architecture.md#measurement-informed-ec-meas-def-01) O/M/A/C entry model*); [§2 Definition Integrity Requirement](#2-definition-integrity-requirement); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](core_04-04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [Chapter Five compass and definition map](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
+- Downstream: [§1.2 Measurement Components](#12-measurement-components) and [§1.3 Assessment Components](#12-assessment-components) (*Measurement (M) register interwoven with the assessment duty; O/M/A/C entry shape in this chapter*); [§2 Definition Integrity Requirement](#2-definition-integrity-requirement); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](core_04-04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [Chapter Five compass and definition map](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 - Read with: [Preamble — constitutional owner register](core_00_preamble.md#constitutional-owner-register) and [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack); [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint) — later enforcement, governance, implementation, measurement, audit, and classification mechanics must comply; [CJS-5.1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) — operational definitions apply, and MUST NOT redefine, Chapter Five canonical homes.
 
 </details>
@@ -59,7 +59,7 @@ Chapter Two is the constitutional owner of **definition structure and component 
 Every constitutional definition MUST be built from linked parts, each with exactly one job:
 - **Ontological (O)** — what the term is about.
 - **Measurement (M)** — which measure applies at each tier. Measurement routing points assessment; it does not set pass/fail outcomes.
-- **Assessment (A)** — how the term must be assessed. On Chapter Five leaf definitions, the **Measurement (M)** register is woven into the **Assessment (A)** component. See [§1.3 Assessment Components](#12-assessment-components) and the [O/M/A/C entry model](doc_architecture.md#measurement-informed-ec-meas-def-01).
+- **Assessment (A)** — how the term must be assessed. On Chapter Five leaf definitions, the **Measurement (M)** register is woven into the **Assessment (A)** component. See [§1.3 Assessment Components](#12-assessment-components).
 - **Compliance (C)** — what must be true in practice.
 
 Those parts MUST stay consistent within each definition. Enforcement, governance, implementation, measurement operations, audit, and classification mechanics beyond definitional scope belong in later chapters; they MUST comply with the [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint) established here.
@@ -84,7 +84,7 @@ A few things deliberately do **not** go in the O part:
 - how the term is measured or assessed — that belongs in M and A;
 - what counts as meeting or breaking the term — that belongs in C, including labels or paperwork that claim satisfaction without real effect.
 
-The exact sub-bullet labels, formatting, and cross-reference placement that carry O on Chapter Five definitions are specified in the [O/M/A/C entry model](doc_architecture.md#measurement-informed-ec-meas-def-01).
+Chapter Five leaf definitions must carry those O requirements using the Ontological component shape stated in this section.
 
 <a id="12-measurement-components"></a>
 
@@ -108,7 +108,7 @@ A few things deliberately do **not** go in the M part:
 - what the term is about — that belongs in O;
 - the full assessment duty on its own — that belongs in A (though each measure is paired with its assessment on the line beneath it).
 
-The exact sub-bullet labels, formatting, and cross-reference placement that carry M on Chapter Five definitions are specified in the [O/M/A/C entry model](doc_architecture.md#measurement-informed-ec-meas-def-01).
+Chapter Five leaf definitions must carry those M requirements using the Measurement component shape stated in this section.
 
 <a id="12-assessment-components"></a>
 
@@ -148,7 +148,7 @@ A few things deliberately do **not** go in the A part:
 - what the term is about — that belongs in O;
 - which measure applies at each tier on its own — that belongs in M (though each measure is paired with its assessment on the line beneath it).
 
-The exact sub-bullet labels, formatting, and cross-reference placement that carry A on Chapter Five definitions are specified in the [O/M/A/C entry model](doc_architecture.md#measurement-informed-ec-meas-def-01).
+Chapter Five leaf definitions must carry those A requirements using the Assessment component shape stated in this section.
 
 When these assessment rules are put to the test, the judgment must rest on enough real evidence — not on claims or paperwork alone — and the same rules must apply wherever the term applies.
 
@@ -177,7 +177,7 @@ A few things deliberately do **not** go in the C part:
 - what the term is about — that belongs in O;
 - which measures apply or how assessment must run — that belongs in M and A.
 
-The exact sub-bullet labels, formatting, and cross-reference placement that carry C on Chapter Five definitions are specified in the [O/M/A/C entry model](doc_architecture.md#measurement-informed-ec-meas-def-01).
+Chapter Five leaf definitions must carry those C requirements using the Compliance component shape stated in this section.
 
 ### 2. Definition Integrity Requirement
 <details>
@@ -194,7 +194,7 @@ The exact sub-bullet labels, formatting, and cross-reference placement that carr
 *In plain terms: building a definition correctly is not enough — it must stay intact when applied. Definitions cannot be satisfied piecemeal, weakened by interpretation, or gamed through scope carving — including by optimizing a measure while the outcome it stands for degrades. Where the language allows more than one reading, choose the one that preserves full protective scope.*
 
 #### 2.1 Core Integrity Conditions
-Every definition must hold together. Each one is built from three parts: what the term is (its Ontological part, O), how it must be measured and assessed (its Assessment part, A, with the Measurement register, M, woven into it), and what must be true in practice (its Compliance part, C). Those parts must agree with one another in every setting and system where the definition applies. A definition is met only when its O, A, and C parts are all met together; satisfying one or two of them is not enough. (For how the Measurement register sits inside the Assessment part, see the [O/M/A/C entry model](doc_architecture.md#measurement-informed-ec-meas-def-01).)
+Every definition must hold together. Each one is built from three parts: what the term is (its Ontological part, O), how it must be measured and assessed (its Assessment part, A, with the Measurement register, M, woven into it), and what must be true in practice (its Compliance part, C). Those parts must agree with one another in every setting and system where the definition applies. A definition is met only when its O, A, and C parts are all met together; satisfying one or two of them is not enough. (For how the Measurement register sits inside the Assessment part, see [§1.3 Assessment Components](#12-assessment-components).)
 
 The parts must be met on the same system and under the same conditions — you cannot pass one part on a narrow slice and another part on a different slice. Failing any part means the definition is not met. Where a definition uses measures, those measures must track what they are supposed to assess and the real-world result they stand for; hitting a measure while the real-world result falls short does not meet the definition.
 

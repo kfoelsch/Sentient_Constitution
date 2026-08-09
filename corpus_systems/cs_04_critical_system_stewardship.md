@@ -41,7 +41,7 @@ or C** system the steward materially affects, the **Comprehensibility and Comple
 
 The following add **organization-specific** expectations (governance structure, incentives, subcontractor chains, handoffs).
 Where they **differ in stringency** from the affected system’s class profile.
-the **stricter** governs (**Protocol A**/**Protocol B** in this implementation file; **doc_architecture.md** precedence).
+the **stricter** governs (**Protocol A**/**Protocol B** in this implementation file; **CJS-3.6** stricter-wins).
 
 **CSS-A — Maximum (organizational):** Periodic **independent complexity audits** of structures, processes, and dependencies touching **Class A** or survival-critical paths.
 
