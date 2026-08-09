@@ -57,6 +57,7 @@
 
 <br>
 
+<a id="systems-identifier-and-article-reference-rules"></a>
 ## Systems identifier and article-reference rules
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -75,6 +76,7 @@ Apply **CJS-1.3** (*Section identifiers and article references*) as the shared i
 
 Unless another reference pattern is stated, **Article** labels with Roman numerals in this folder point to Sentient Constitution Chapter Six in the `core_06-06_rights_part_*.md` files.
 
+<a id="systems-registry-stable-section-families"></a>
 ## Systems registry (stable section families)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -106,6 +108,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 | **Protocol R** | Subversion response, replacement, and reconstitution | [cs_protocol_r_subversion_response_replacement_reconstitution.md](cs_protocol_r_subversion_response_replacement_reconstitution.md) |
 | **Protocol D** | Decentralized constitutional continuity and partition resilience | [cs_protocol_d_decentralized_constitutional_continuity_partition_resilience.md](cs_protocol_d_decentralized_constitutional_continuity_partition_resilience.md) |
 
+<a id="systems-domain-routing-integrator-annex"></a>
 ## Systems domain routing (integrator annex)
 <a id="systems-domain-routing-integrator-annex"></a>
 <details>
@@ -125,13 +128,13 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 
 When a systems topic materially intersects **CI**, **CF**, or **CJS**, use [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) (*Topic router (stable IDs)*) for the authoritative mandatory read-with list.
 
+<a id="domain-topic-owner-map-cs-d"></a>
 ### Domain topic owner map (CS-D)
 <a id="domain-topic-owner-map-cs-d"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex); [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router.
-- Downstream: this section's local operational requirements for **Domain topic owner map (CS-D)**.
 - Read with: **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **Protocol A**.
 
 </details>
@@ -147,13 +150,13 @@ When a systems topic materially intersects **CI**, **CF**, or **CJS**, use [CJS-
 
 **CS-D** row IDs are **corpus-local** domain-internal labels; they are **not** Sentient Constitution article numbers and do not replace **CJS-R** rows.
 
+<a id="systems-overlap-discipline"></a>
 ### Systems overlap discipline
 <a id="systems-overlap-discipline"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex); [CJS-2.2](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-22-intentional-overlap-non-duplication-discipline) intentional overlap.
-- Downstream: this section's local operational requirements for **Systems overlap discipline**.
 - Read with: [CJS-2.2](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-22-intentional-overlap-non-duplication-discipline); **CS-3 — System classification and handling**; **Protocol A**; **Protocol B**.
 
 </details>
@@ -168,13 +171,13 @@ Some systems topics are **deliberately** split — for example taxonomy (**CS-2 
 
 For cross-layer overlap discipline, apply [CJS-2.2](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-22-intentional-overlap-non-duplication-discipline) (*Intentional overlap (non-duplication discipline)*).
 
+<a id="systems-read-with-pointers"></a>
 ### Systems read-with pointers
 <a id="systems-read-with-pointers"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary.
-- Downstream: this section's local operational requirements for **Systems read-with pointers**.
 - Read with: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-2.3](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-23-two-tier-definition-contract-binding-abstraction--owner-detail); **CS-1**.
 
 </details>

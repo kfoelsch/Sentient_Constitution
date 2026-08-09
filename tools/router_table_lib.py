@@ -19,7 +19,7 @@ SECTION_ID_RE = re.compile(
     r"^((?:CF|CI|CJS)-[0-9]+(?:\.[0-9]+)?[A-Z]?(?:\.[0-9]+)?)"
 )
 SECTION_HEADING_RE = re.compile(
-    r"^(##|###)\s+((?:CF|CI|CJS)-[0-9]+(?:\.[0-9]+)?[A-Z]?(?:\.[0-9]+)?)[:*\s]",
+    r"^(#{1,3})\s+((?:CF|CI|CJS)-[0-9]+(?:\.[0-9]+)?[A-Z]?(?:\.[0-9]+)?)[:*\s]",
     re.M,
 )
 ROUTER_DOMAIN_ORDER = (
@@ -147,29 +147,23 @@ def build_section_index(root: Path) -> dict[str, Path]:
     return index
 
 
-def heading_level_hint(section_id: str) -> str:
-    if re.match(r"CJS-\d+[A-Z]\.\d+$", section_id):
-        return "##"
-    if re.match(r"(?:CF|CI|CJS)-\d+\.\d+", section_id):
-        return "###"
-    return "##"
-
-
 def extract_section(text: str, section_id: str) -> str | None:
-    cluster_boundary = r"^---\s*\n+\s*##\s+"
-    level = heading_level_hint(section_id)
-    if level == "##":
-        pattern = (
-            rf"^##\s+{re.escape(section_id)}[:*\s].*?"
-            rf"(?={cluster_boundary}|^##\s+|\Z)"
-        )
-    else:
-        pattern = (
-            rf"^(##|###)\s+{re.escape(section_id)}[:*\s].*?"
-            rf"(?=^(?:##|###)\s+|\Z)"
-        )
-    match = re.search(pattern, text, re.M | re.S)
-    return match.group(0) if match else None
+    """Return the slice of ``text`` owned by ``section_id``.
+
+    The heading may sit at any depth from ``#`` to ``###``; the section runs
+    until the next heading of the same or shallower depth, so promoting a file
+    to an H1 title does not change which body a section owns.
+    """
+    heading = re.search(rf"^(#{{1,3}})\s+{re.escape(section_id)}[:*\s]", text, re.M)
+    if heading is None:
+        return None
+    level = len(heading.group(1))
+    tail = text[heading.end() :]
+    boundary = re.search(
+        rf"^---\s*\n+\s*#{{1,{level}}}\s+|^#{{1,{level}}}\s+", tail, re.M
+    )
+    end = heading.end() + (boundary.start() if boundary else len(tail))
+    return text[heading.start() : end]
 
 
 def short_topic(topic: str, limit: int = 72) -> str:
@@ -204,14 +198,14 @@ def read_with_line(row: RouterRow) -> str:
 
 def section_title(text: str, section_id: str) -> str | None:
     colon = re.compile(
-        rf"^(##|###)\s+{re.escape(section_id)}:\s+(.+?)\s*$",
+        rf"^(#{{1,3}})\s+{re.escape(section_id)}:\s+(.+?)\s*$",
         re.M,
     )
     match = colon.search(text)
     if match:
         return match.group(2).strip()
     spaced = re.compile(
-        rf"^(##|###)\s+{re.escape(section_id)}\s+(.+?)\s*$",
+        rf"^(#{{1,3}})\s+{re.escape(section_id)}\s+(.+?)\s*$",
         re.M,
     )
     match = spaced.search(text)

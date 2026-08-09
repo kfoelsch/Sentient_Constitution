@@ -1,4 +1,22 @@
-## CI-27: Remedy systems and institutional redress capacity
+# CI-27: Remedy systems and institutional redress capacity
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-27** (*Remedy systems and institutional redress capacity*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the institutional implementation home for **CI-27** (*Remedy systems and institutional redress capacity*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -34,7 +52,9 @@
 
 <a id="ci-271-capacity-funding-and-succession"></a>
 
-### CI-27.1: Capacity, funding, and succession
+## CI-27.1: Capacity, funding, and succession
+
+*In plain terms: Every remedy system must name who owns it, where its funding comes from, and who takes over if that owner disappears. A remedy route with no named owner fails silently.*
 
 Each remedy system must name, in plain view:
 
@@ -47,7 +67,9 @@ Expense, insolvency, inconvenience, receivership, dissolution, asset transfer, o
 
 <a id="ci-272-durability-backlog-and-publication"></a>
 
-### CI-27.2: Durability, backlog, and publication
+## CI-27.2: Durability, backlog, and publication
+
+*In plain terms: Remedy systems publish their own waiting times and backlog ages, so a route that has quietly stopped working in practice becomes visible from outside.*
 
 Each remedy system must publish, on a fixed schedule compatible with **CF-11**:
 
@@ -60,7 +82,9 @@ Designed backlog, inaccessible intake, chronic underfunding, dependence on a sin
 
 <a id="ci-273-high-impact-remedy-domains"></a>
 
-### CI-27.3: High-impact remedy domains
+## CI-27.3: High-impact remedy domains
+
+*In plain terms: Areas where a broken remedy route causes the most damage — child protection, environmental enforcement, benefits, detention oversight, public health — and so require durable systems.*
 
 The following domains, and comparable high-impact systems, require durable remedy systems capable of timely intake, preservation, review, and enforcement:
 
@@ -75,7 +99,9 @@ Domain-specific operational detail may live in other **CI** families (**CI-15** 
 
 <a id="ci-274-standards-interface-and-accountability-routing"></a>
 
-### CI-27.4: Standards interface and accountability routing
+## CI-27.4: Standards interface and accountability routing
+
+*In plain terms: Technical forums set the capacity and timeliness standards remedy systems must meet, but they do not run those systems. Setting a standard is not the same as commanding compliance.*
 
 Remedy systems must meet published capacity, measurement, and milestone standards under [Technical Forum Domains](../core_11-11_forum.md#42-technical-forum-domains). Technical forums set and maintain those standards; they are not the command hierarchy for remedy systems or institutions.
 

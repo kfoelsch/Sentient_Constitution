@@ -1,9 +1,26 @@
-﻿## CS-1: Scope, purpose, and boundary interface
+# CS-1: Scope, purpose, and boundary interface
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-1** (*Scope, purpose, and boundary interface*).
+>
+> Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the systems implementation home for **CS-1** (*Scope, purpose, and boundary interface*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary and owner discipline; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CS-1: Scope, purpose, and boundary interface**.
 - Read with: **CS-1**; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids); **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; [Operates in conjunction with](#operates-in-conjunction-with).
 
 </details>
@@ -42,7 +59,7 @@
 - forum-family operational doctrine under Chapter Eleven — those belong to **CF**.
 
 <a id="operates-in-conjunction-with"></a>
-### Operates in conjunction with
+## Operates in conjunction with
 
 *In plain terms: CS files work together — typing, classification, stewardship, and protocols — and they read with joint-structure clusters and Chapter Five meanings. No CS family stands alone.*
 

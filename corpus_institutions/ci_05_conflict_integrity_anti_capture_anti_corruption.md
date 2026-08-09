@@ -1,13 +1,31 @@
-## CI-5: Conflict integrity, anti-capture, and anti-corruption
+# CI-5: Conflict integrity, anti-capture, and anti-corruption
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the institutional implementation home for **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-5.1: Shared anti-capture floors](#ci-51-shared-anti-capture-floors); [CI-5.2: Institutional owner files and named routes](#ci-52-institutional-owner-files-and-named-routes); [CI-5.3: Integrity trigger taxonomy and cross-layer routing (control package)](#ci-53-integrity-trigger-taxonomy-and-cross-layer-routing-control-package).
 - Read with: **CI-5**; **CI-5.1**; **CI-5.2**; **CI-5.3**; **CI-7.2**; **CI-8**; **CI-11**; **CI-13**; **CI-6**.
-- Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-4**.
-- Topic routing (mandatory read-with): **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-7**.
-- Topic routing (mandatory read-with): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-16**.
+- Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router*); primary owner **CF-4**.
+- Topic routing (mandatory read-with): **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-2.1** (*Topic router*); primary owner **CF-7**.
+- Topic routing (mandatory read-with): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router*); primary owner **CF-16**.
 
 </details>
 
@@ -21,12 +39,16 @@
 - [Contingent Claim](../core_05_band_accountability.md#contingent-claim) · [O](../core_05_band_accountability.md#contingent-claim) · [M](../core_05_band_accountability.md#contingent-claim-a) · [A](../core_05_band_accountability.md#contingent-claim-a) · [C](../core_05_band_accountability.md#contingent-claim-c)
 - [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
 - [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
+- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
+- [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
+- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
 
 </details>
 
 <br>
 
-*In plain terms: **CI-5** is the institutions layer's honesty-and-independence rulebook — how institutions prevent capture, corruption, and hidden conflicts; what they must disclose; and where problems go when local review is not trustworthy. Shared anti-capture floors live in **CJS-5.6** (*integrity assurance and resilience operations*); this file states what each institution must name and maintain locally.*
+*In plain terms: **CI-5** is the institutions layer's honesty-and-independence rulebook — how institutions prevent capture, corruption, and hidden conflicts; what they must disclose; and where problems go when local review is not trustworthy. Shared anti-capture floors live in **CJS-5.6** (*integrity assurance and resilience operations*). What this file adds is local: what each institution must name and maintain locally.*
 
 **Quick orientation**
 
@@ -34,24 +56,11 @@
 - **CI-5.2** — named contacts and local records: who publishes disclosures, who tracks fix deadlines, who logs serious breaches, and where to escalate when self-review is not trustworthy.
 - **CI-5.3** — trigger labels for corruption, fraud, capture, and related failures — and where each routes.
 
-
-### CI-5.1: Shared anti-capture floors
+## CI-5.1: Shared anti-capture floors
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-5.1: Shared anti-capture floors**.
 - Read with: **CI-5.1**; **CJS-5.6** (*integrity assurance and resilience operations*).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05_band_integrative.md#incentive-alignment) · [O](../core_05_band_integrative.md#incentive-alignment) · [M](../core_05_band_integrative.md#incentive-alignment-a) · [A](../core_05_band_integrative.md#incentive-alignment-a) · [C](../core_05_band_integrative.md#incentive-alignment-c)
-- [Capture of Resolution Pathways](../core_05_band_accountability.md#capture-of-resolution-pathways) · [O](../core_05_band_accountability.md#capture-of-resolution-pathways) · [M](../core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](../core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](../core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
 
 </details>
 
@@ -61,25 +70,11 @@
 
 Apply **CJS-5.6** **Shared anti-capture control stack** and **Sortition and civic-lottery integrity controls** for the shared floors.
 
-
-### CI-5.2: Institutional owner files and named routes
+## CI-5.2: Institutional owner files and named routes
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-5.2: Institutional owner files and named routes**.
 - Read with: **CI-5.2**; **CI-7.2**; **CI-8**; **CI-11**; **CI-13**; **CI-6**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Contingent Claim](../core_05_band_accountability.md#contingent-claim) · [O](../core_05_band_accountability.md#contingent-claim) · [M](../core_05_band_accountability.md#contingent-claim-a) · [A](../core_05_band_accountability.md#contingent-claim-a) · [C](../core_05_band_accountability.md#contingent-claim-c)
-- [Event-Contract Market](../core_05_band_accountability.md#event-contract-market) · [O](../core_05_band_accountability.md#event-contract-market) · [M](../core_05_band_accountability.md#event-contract-market-a) · [A](../core_05_band_accountability.md#event-contract-market-a) · [C](../core_05_band_accountability.md#event-contract-market-c)
-- [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation) · [O](../core_05_band_oversight.md#evidence-preservation) · [M](../core_05_band_oversight.md#evidence-preservation-a) · [A](../core_05_band_oversight.md#evidence-preservation-a) · [C](../core_05_band_oversight.md#evidence-preservation-c)
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
 
 </details>
 
@@ -99,27 +94,11 @@ Each institution must also name:
 - who keeps grave-breach forfeiture records and the contest route under **CI-6**; and
 - for supervised contingent-claim or event-market systems: who governs resolution sources, how decision power is separated, and how insider-information abuse is prevented.
 
-
-### CI-5.3: Integrity trigger taxonomy and cross-layer routing (control package)
+## CI-5.3: Integrity trigger taxonomy and cross-layer routing (control package)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-5.3: Integrity trigger taxonomy and cross-layer routing (control package)**.
 - Read with: **CI-5.3**; **CI-5**; **CI-7**; **CI-8**; **CI-3**; **CI-6**; **CJS-5.6** (*integrity assurance and resilience operations*).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-- [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05_band_integrative.md#incentive-alignment) · [O](../core_05_band_integrative.md#incentive-alignment) · [M](../core_05_band_integrative.md#incentive-alignment-a) · [A](../core_05_band_integrative.md#incentive-alignment-a) · [C](../core_05_band_integrative.md#incentive-alignment-c)
 
 </details>
 

@@ -1,14 +1,32 @@
-## CI-8: Transparency, participation, and accessible pathways
+# CI-8: Transparency, participation, and accessible pathways
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-8** (*Transparency, participation, and accessible pathways*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the institutional implementation home for **CI-8** (*Transparency, participation, and accessible pathways*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-8.1: Stakeholder oversight, notification, and binding-governance pathway integrity](#ci-81-stakeholder-oversight-notification-and-binding-governance-pathway-integrity); [CI-8.2: Anti-concentration and participation-legitimacy safeguards](#ci-82-anti-concentration-and-participation-legitimacy-safeguards); [CI-8.3: Digital self-service pathway integrity](#ci-83-digital-self-service-pathway-integrity).
 - Read with: **CI-8**; **CI-8.1**; **CI-8.2**; **CI-12**; **CI-8.3**; **CI-10.2**; **CI-10**.
-- Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-5**.
-- Topic routing (mandatory read-with): **CJS-R08** (*Independent investigative service and prosecution interface*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-9**.
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
-- Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.6** (*integrity assurance and resilience operations*).
+- Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router*); primary owner **CF-5**.
+- Topic routing (mandatory read-with): **CJS-R08** (*Independent investigative service and prosecution interface*) in **CJS-2.1** (*Topic router*); primary owner **CF-9**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router*); primary owner **CJS-4.3**.
+- Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-2.1** (*Topic router*); primary owner **CJS-5.6**.
 
 </details>
 
@@ -22,12 +40,23 @@
 - [Accessibility](../core_05_band_participation.md#accessibility-constitutional) · [O](../core_05_band_participation.md#accessibility-constitutional) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
 - [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
 - [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
+- [Stakeholder](../core_05_band_participation.md#stakeholder) · [O](../core_05_band_participation.md#stakeholder) · [M](../core_05_band_participation.md#stakeholder-a) · [A](../core_05_band_participation.md#stakeholder-a) · [C](../core_05_band_participation.md#stakeholder-c)
+- [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
+- [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
+- [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
+- [Charter](../core_05_band_continuity.md#charter) · [O](../core_05_band_continuity.md#charter) · [M](../core_05_band_continuity.md#charter-a) · [A](../core_05_band_continuity.md#charter-a) · [C](../core_05_band_continuity.md#charter-c)
+- [Binding Stakeholder Choice](../core_05_band_participation.md#binding-stakeholder-choice-cluster)
+- [Consent](../core_05_band_participation.md#consent-constitutional) · [O](../core_05_band_participation.md#consent-constitutional) · [M](../core_05_band_participation.md#consent-constitutional-a) · [A](../core_05_band_participation.md#consent-constitutional-a) · [C](../core_05_band_participation.md#consent-constitutional-c)
+- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
+- [Trust](../core_05_band_continuity.md#trust) · [O](../core_05_band_continuity.md#trust) · [M](../core_05_band_continuity.md#trust-a) · [A](../core_05_band_continuity.md#trust-a) · [C](../core_05_band_continuity.md#trust-c)
+- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
 <br>
 
-*In plain terms: **CI-8** is the institutions layer's "can ordinary sentients see, understand, participate in, and challenge governance?" rulebook — how institutions publish understandable information, keep participation routes open, protect sentients who speak up, and make digital and paper pathways actually work. Institutions must not require a lawyer, a marathon attention span, or insider status to understand how a decision will affect them, weigh in before it binds you, or leave a service you joined online. Shared comprehensibility and participation floors live in **CJS-5.8** (*comprehensibility and cognitive accessibility terms*); stakeholder notice and binding-governance pathways live in **CJS-5.7** (*quorum and participatory legitimacy terms*); anti-concentration safeguards live in **CJS-5.11** (*distributed and proportional authority terms*); digital self-service exit rules live in **CJS-5.17** (*interoperability, portability, and exit-integrity terms*); this file states what each institution must publish and maintain locally.*
+*In plain terms: **CI-8** is the institutions layer's "can ordinary sentients see, understand, participate in, and challenge governance?" rulebook — how institutions publish understandable information, keep participation routes open, protect sentients who speak up, and make digital and paper pathways actually work. Institutions must not require a lawyer, a marathon attention span, or insider status to understand how a decision will affect them, weigh in before it binds you, or leave a service you joined online. Shared comprehensibility and participation floors live in **CJS-5.8** (*comprehensibility and cognitive accessibility terms*); stakeholder notice and binding-governance pathways live in **CJS-5.7** (*quorum and participatory legitimacy terms*); anti-concentration safeguards live in **CJS-5.11** (*distributed and proportional authority terms*); digital self-service exit rules live in **CJS-5.17** (*interoperability, portability, and exit-integrity terms*). What this file adds is local: what each institution must publish and maintain locally.*
 
 **Quick orientation**
 
@@ -44,28 +73,11 @@
 
 Apply **CJS-5.8** **Institutional participation and pathway accessibility floor** for the shared understandability, participation, challenge, accessibility, protected-escalation, and anti-retaliation floor. **CI-8** states only local publication, office, record, escalation, and stewardship-development pathway owner duties.
 
-### CI-8.1: Stakeholder oversight, notification, and binding-governance pathway integrity
+## CI-8.1: Stakeholder oversight, notification, and binding-governance pathway integrity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-8.1: Stakeholder oversight, notification, and binding-governance pathway integrity**.
 - Read with: **CI-8.1**; **CI-3.6** (*Charter process pointers*); [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#binding-stakeholder-choice-cluster); [Charter](../core_05_band_continuity.md#charter).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-- [Stakeholder](../core_05_band_participation.md#stakeholder) · [O](../core_05_band_participation.md#stakeholder) · [M](../core_05_band_participation.md#stakeholder-a) · [A](../core_05_band_participation.md#stakeholder-a) · [C](../core_05_band_participation.md#stakeholder-c)
-- [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
-- [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
-- [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
-- [Charter](../core_05_band_continuity.md#charter) · [O](../core_05_band_continuity.md#charter) · [M](../core_05_band_continuity.md#charter-a) · [A](../core_05_band_continuity.md#charter-a) · [C](../core_05_band_continuity.md#charter-c)
-- [Binding Stakeholder Choice](../core_05_band_participation.md#binding-stakeholder-choice-cluster)
 
 </details>
 
@@ -93,28 +105,11 @@ Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#bindi
 - transition, adaptation, downgrade, transfer, or exit implications created by the decision; and
 - the Charter version that currently points to this file where Def.P2 admission scope applies.
 
-### CI-8.2: Anti-concentration and participation-legitimacy safeguards
+## CI-8.2: Anti-concentration and participation-legitimacy safeguards
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-8.2: Anti-concentration and participation-legitimacy safeguards**.
 - Read with: **CI-8.2**; **CI-12**; **CI-3.6** (*Charter process pointers*); [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#binding-stakeholder-choice-cluster); [Charter](../core_05_band_continuity.md#charter); [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
-- [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
-- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
-- [Accessibility](../core_05_band_participation.md#accessibility-constitutional) · [O](../core_05_band_participation.md#accessibility-constitutional) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
-- [Stakeholder Weight](../core_05_band_participation.md#stakeholder-weight) · [O](../core_05_band_participation.md#stakeholder-weight) · [M](../core_05_band_participation.md#stakeholder-weight-a) · [A](../core_05_band_participation.md#stakeholder-weight-a) · [C](../core_05_band_participation.md#stakeholder-weight-c)
-- [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
-- [Charter](../core_05_band_continuity.md#charter) · [O](../core_05_band_continuity.md#charter) · [M](../core_05_band_continuity.md#charter-a) · [A](../core_05_band_continuity.md#charter-a) · [C](../core_05_band_continuity.md#charter-c)
-- [Binding Stakeholder Choice](../core_05_band_participation.md#binding-stakeholder-choice-cluster)
 
 </details>
 
@@ -141,26 +136,11 @@ Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#bindi
 - linkage to stakeholder-notice and binding-pathway duties under **CI-8.1** where weighting affects materially binding governance; and
 - the Charter version that currently points to this file where Def.P2 admission scope applies.
 
-### CI-8.3: Digital self-service pathway integrity
+## CI-8.3: Digital self-service pathway integrity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-8.3: Digital self-service pathway integrity**.
 - Read with: **CI-8.3**; **CI-10.2**; **CI-10**; **CJS-5.17** (*interoperability, portability, and exit-integrity terms*).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Trust Degradation and Misleading Reliance](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) · [O](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) · [M](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-c)
-- [Coercion and Manipulation](../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [Accessibility](../core_05_band_participation.md#accessibility-constitutional) · [O](../core_05_band_participation.md#accessibility-constitutional) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
-- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Consent](../core_05_band_participation.md#consent-constitutional) · [O](../core_05_band_participation.md#consent-constitutional) · [M](../core_05_band_participation.md#consent-constitutional-a) · [A](../core_05_band_participation.md#consent-constitutional-a) · [C](../core_05_band_participation.md#consent-constitutional-c)
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [Trust](../core_05_band_continuity.md#trust) · [O](../core_05_band_continuity.md#trust) · [M](../core_05_band_continuity.md#trust-a) · [A](../core_05_band_continuity.md#trust-a) · [C](../core_05_band_continuity.md#trust-c)
 
 </details>
 
@@ -186,30 +166,7 @@ Each supervised self-service pathway class must appear in the local operator-art
 
 ---
 
-### CI-8.4: Governance disclosure schema
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-8.4: Governance disclosure schema**.
-- Read with: **CI-8.4**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
-- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
-- [Accessibility](../core_05_band_participation.md#accessibility-constitutional) · [O](../core_05_band_participation.md#accessibility-constitutional) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
-- [Stakeholder Weight](../core_05_band_participation.md#stakeholder-weight) · [O](../core_05_band_participation.md#stakeholder-weight) · [M](../core_05_band_participation.md#stakeholder-weight-a) · [A](../core_05_band_participation.md#stakeholder-weight-a) · [C](../core_05_band_participation.md#stakeholder-weight-c)
-- [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
-
-</details>
-
-<br>
+## CI-8.4: Governance disclosure schema
 
 *In plain terms: every institution must publish a standard governance report on a fixed schedule — not a marketing brochure, but a checklist covering what it oversees, what went wrong, what it is fixing, who had conflicts, and what outside reviewers or supervisors found.*
 

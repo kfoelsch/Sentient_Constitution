@@ -1,9 +1,26 @@
-## CI-17: End-of-life continuity, memorial dignity, and posthumous-data stewardship
+# CI-17: End-of-life continuity, memorial dignity, and posthumous-data stewardship
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-17** (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the institutional implementation home for **CI-17** (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-17: End-of-life continuity, memorial dignity, and posthumous-data stewardship**.
 - Read with: **CI-17**; **CI-8**.
 
 </details>
@@ -23,7 +40,7 @@
 
 <br>
 
-*In plain terms: **CI-17** is the institutions layer's rulebook for dying, mourning, and what happens to a sentient's records, likeness, and wishes after death — and for the practical pathways that must work before and during end-of-life care. Advance directives must be kept safe and honored when they are valid. Palliative and comfort care must remain reachable, not buried under billing gates or routing mazes. Memorial and disposition choices deserve dignity and cultural respect. Grief and mourning need real accommodation, not performative sympathy with no pathway. Posthumous likeness, voice, and experiential data must follow the sentient's wishes — not become training fodder or marketing assets by default. Voluntary discontinuation is protected under **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*) when consent is genuine; no institution may use end-of-life policy as cover for punishment or involuntary deprivation under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*). Crisis-intervention safeguards under **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) stay fully intact. Shared posthumous-data, retention, and continuity floors live in **CJS-5.18** (*data-retention and lifecycle-integrity terms*); constitutional meaning lives in **Articles VII-E**, **VIII**, **III-C**, and **XXIII-B**; this file states what each institution must name, file, and maintain locally.*
+*In plain terms: **CI-17** is the institutions layer's rulebook for dying, mourning, and what happens to a sentient's records, likeness, and wishes after death — and for the practical pathways that must work before and during end-of-life care. Advance directives must be kept safe and honored when they are valid. Palliative and comfort care must remain reachable, not buried under billing gates or routing mazes. Memorial and disposition choices deserve dignity and cultural respect. Grief and mourning need real accommodation, not performative sympathy with no pathway. Posthumous likeness, voice, and experiential data must follow the sentient's wishes — not become training fodder or marketing assets by default. Voluntary discontinuation is protected under **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*) when consent is genuine; no institution may use end-of-life policy as cover for punishment or involuntary deprivation under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*). Crisis-intervention safeguards under **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) stay fully intact. Shared posthumous-data, retention, and continuity floors live in **CJS-5.18** (*data-retention and lifecycle-integrity terms*). The constitutional meaning sits in **Articles VII-E**, **VIII**, **III-C**, and **XXIII-B**. What this file adds is local: what each institution must name, file, and maintain locally.*
 
 **Quick orientation**
 

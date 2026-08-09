@@ -1,9 +1,26 @@
-## CI-26: Compliance mapping and stable registry
+# CI-26: Compliance mapping and stable registry
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-26** (*Compliance mapping and stable registry*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the institutional implementation home for **CI-26** (*Compliance mapping and stable registry*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-26: Compliance mapping and stable registry**.
 - Read with: **CI-26**; **CI-10.1**; **CI-9.4**; **CI-10.2**; **CI-8.3**; **CI-15**; **CI-7**.
 
 </details>
@@ -71,6 +88,8 @@ Cross-reference mapping tables and article alignment appendices may be expanded 
 ---
 
 ## Implementation notes
+
+*In plain terms: When a term in this file is unclear during review, look it up in its canonical definition home rather than inventing a local meaning for it.*
 
 During assurance review, ambiguous terms in this file must be interpreted by reference to canonical definition homes, not by creating parallel local definitions.
 

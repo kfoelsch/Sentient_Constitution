@@ -1,4 +1,23 @@
-## Protocol A: System Design, Testing, Verification, and Deployment
+# Protocol A: System Design, Testing, Verification, and Deployment
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Protocol A: System Design, Testing, Verification, and Deployment**.
+>
+> Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the systems implementation home for **Protocol A** (*System Design, Testing, Verification, and Deployment*).
+
+<br>
+
+*In plain terms: **Protocol A** is the engineering lifecycle profile: how a constitutional system must be designed, tested, verified, separated across environments, rolled out in stages, exercised against crises, and re-certified after change. It states required outcomes rather than fixed technology, so implementations may evolve while staying auditable.*
 
 Constitutional tracing: This protocol is the systems-layer **operational profile** for design, testing, verification, environment separation, progressive deployment, crisis continuity exercises, self-healing path testing, and recertification regression. It implements Sentient Constitution Chapter Six, **[Article XVI](../core_06-06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility)** (*System Lifecycle, Environments, and Reversibility*), **[Article XVII](../core_06-06_rights_part_c.md#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom)** (*Sandboxed Innovation, Experimentation, and Creative Freedom*), and **[Article XII-F](../core_06-06_rights_part_c.md#article-xii-f-resilience-and-self-healing-baseline)** (*Resilience and Self-Healing Baseline*), read with [Chapter One §4.1](../core_01_a_values_principles.md#41-resilience-and-self-healing-design) (*Resilience and Self-Healing Design*), Chapter Five (*Reversibility*; [*Self-Healing*](../core_05_band_continuity.md#self-healing-constitutional); *Emergency and Contingency*; *Force Majeure*), and **[Chapter Four](../core_04-04_burden_traceability_verification.md)** (*burden, traceability, and verification*) where evidence and verification claims are material. Shared operational detail lives in **CJS-5** (*Implementation and cross-implementation operational cluster library*), including **CJS-5.19** (*graceful degradation and failure-mode integrity*), **CJS-5.20** (*reversibility and containment*), and **CJS-5.21** (*adversarial robustness and abuse resistance*). This Protocol does **not** replace or narrow those homes. Where this protocol is silent, Sentient Constitution Chapters Two through Five govern. Where this protocol and `corpus_joint_structure.md` conflict, the stricter applicable requirement governs.
 
@@ -8,11 +27,21 @@ Creating new systems, tools, and environments is an act of stewardship. New depl
 
 **Forum recognition and lifecycle review.** New systems with material impact, and existing systems whose scope, behavior, dependency, autonomy, incentive structure, or risk profile materially changes, must be prepared for official **constitutional alignment recognition or review** through the forum pathways in `core_11-11_forum.md` **Chapter Eleven** and `corpus_forum.md` **CF-7.2** (*Constitutional alignment recognition and review*). System owners must maintain evidence packages sufficient for the forum to evaluate scope, classification, testing, stakeholder impact, residual risk, remediation readiness, and ongoing monitoring. Where a system has material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk, the evidence package must also support **Environment** forum environmental-alignment component review, including ecological baseline, lifecycle and resource-flow analysis, foreseeable failure modes, restoration or remediation plan, monitoring cadence, uncertainty, and contest path. Forum recognition is scope-bound and does **not** replace operator responsibility, CS-4 classification, CS-4 stewardship, **Article XV-A** (*Auditability and Observable Evidence*) auditability, **Article XII-B** (*Right to Challenge, Review, and Redress*) challenge rights, or Environment forum authority over ecological merits. Process recognition mechanics live in CF-7.2 and Chapter Seven; this Protocol owns engineering evidence readiness.
 
-**A. Personal, isolated, and experimental systems.** Rights-floor eligibility, reduced-requirement conditions, disclosure, containment, and prohibited externalization are owned by **[Article XVII-A](../core_06-06_rights_part_c.md#article-xvii-a-sandboxed-scope)** (*Sandboxed Scope*) and **[Article XVII-B](../core_06-06_rights_part_c.md#article-xvii-b-containment-disclosure-and-opt-in)** (*Containment, Disclosure, and Opt-In*), read with valid **Class P** treatment under **CS-3 — System classification and handling**. This subsection does not restate those floors.
+<a id="a-personal-isolated-and-experimental-systems"></a>
+## A. Personal, isolated, and experimental systems
+
+*In plain terms: The reduced-requirement track: sandboxed operation, no shared-infrastructure dependencies, and no material effect on anyone else.*
+
+Rights-floor eligibility, reduced-requirement conditions, disclosure, containment, and prohibited externalization are owned by **[Article XVII-A](../core_06-06_rights_part_c.md#article-xvii-a-sandboxed-scope)** (*Sandboxed Scope*) and **[Article XVII-B](../core_06-06_rights_part_c.md#article-xvii-b-containment-disclosure-and-opt-in)** (*Containment, Disclosure, and Opt-In*), read with valid **Class P** treatment under **CS-3 — System classification and handling**. This subsection does not restate those floors.
 
 **Systems-layer profile (does not narrow XVII):** sandboxed or controlled operation; no downstream dependencies on shared production infrastructure; no material effect on other sentients, shared infrastructure, or ecosystem stability. Where those conditions hold, environment separation, deployment rigor, and audit depth under subsection **F** may be lighter. Such systems may prioritize simplicity and rapid iteration and need not maintain full multi-environment deployment structures. Misrepresentation of isolation or impact is governed by subsection **C** and **Article XVI-C**.
 
-**B. Creative, entertainment, and expressive systems.** Rights-floor creative freedom, containment, disclosure, opt-in, and transition triggers are owned by **Article XVII-A** through **XVII-C**. This subsection does not restate those floors.
+<a id="b-creative-entertainment-and-expressive-systems"></a>
+## B. Creative, entertainment, and expressive systems
+
+*In plain terms: Creative and expressive systems get wider latitude on features, subject to containment, disclosure, and opt-in.*
+
+Rights-floor creative freedom, containment, disclosure, opt-in, and transition triggers are owned by **Article XVII-A** through **XVII-C**. This subsection does not restate those floors.
 
 **Systems-layer profile (does not narrow XVII):** systems primarily for creative expression, entertainment, artistic production, or stakeholder-driven experiential environments may use higher feature velocity and simplified environment structures only while risk remains demonstrably contained. Transition toward subsection **F** compliance is required when any of the following is present and not already covered by **Article XVII-C**'s impact, dependency, irreversibility, or shared-system integration tests:
 
@@ -20,11 +49,21 @@ Creating new systems, tools, and environments is an act of stewardship. New depl
 - autonomous or semi-autonomous agents acting for stakeholders that may affect external systems (including gaming or simulation environments used for agent testing or training);
 - measurable influence on external systems, markets, or collective behavior beyond defined scope.
 
-**C. Misclassification and evasion.** The prohibition on claiming reduced lifecycle or sandbox obligations while exerting undisclosed or material external impact, and the consequence chain under **Articles XIV**, **XV-A**, **XVIII-A**, and **XXIII-A**, are owned by **[Article XVI-C](../core_06-06_rights_part_c.md#article-xvi-c-misclassification-and-evasion-consequences)** (*Misclassification and Evasion Consequences*). This subsection does not restate that Article.
+<a id="c-misclassification-and-evasion"></a>
+## C. Misclassification and evasion
+
+*In plain terms: Claiming the light track while exerting real outside impact. The tell-tale signs are concealed dependencies, concealed stakeholders, and 'experimental' labels used as cover.*
+
+The prohibition on claiming reduced lifecycle or sandbox obligations while exerting undisclosed or material external impact, and the consequence chain under **Articles XIV**, **XV-A**, **XVIII-A**, and **XXIII-A**, are owned by **[Article XVI-C](../core_06-06_rights_part_c.md#article-xvi-c-misclassification-and-evasion-consequences)** (*Misclassification and Evasion Consequences*). This subsection does not restate that Article.
 
 **Systems-layer indicators (non-exhaustive):** concealed dependencies; concealed stakeholders; concealed risk exposure; **Class P** or "experimental" labeling used to evade CS-4 class-scaled assurance, CS-4 stewardship, or subsection **F** environment and promotion controls. Detection and evidence packaging for forum or certification review remain operator duties under *Forum recognition and lifecycle review* and the closing recertification block.
 
-**D. Transition to higher-impact systems.** Transition floors — transparent, timely move toward **Article XVI-A** and Protocol A **Non-Experimental Systems** when impact, dependency, irreversibility, or shared-system integration grows — are owned by **[Article XVII-C](../core_06-06_rights_part_c.md#article-xvii-c-transition-to-higher-obligation-regimes)** (*Transition to Higher-Obligation Regimes*). This subsection does not restate that Article.
+<a id="d-transition-to-higher-impact-systems"></a>
+## D. Transition to higher-impact systems
+
+*In plain terms: When a system's impact, dependency, or shared-infrastructure integration grows, it must move up to the full track — openly and on time.*
+
+Transition floors — transparent, timely move toward **Article XVI-A** and Protocol A **Non-Experimental Systems** when impact, dependency, irreversibility, or shared-system integration grows — are owned by **[Article XVII-C](../core_06-06_rights_part_c.md#article-xvii-c-transition-to-higher-obligation-regimes)** (*Transition to Higher-Obligation Regimes*). This subsection does not restate that Article.
 
 **Systems-layer triggers and duties (implement XVII-C; do not narrow it):**
 
@@ -32,7 +71,12 @@ Creating new systems, tools, and environments is an act of stewardship. New depl
 - Transitions must be documented, completed within a reasonable timeframe proportionate to impact, and remain subject to audit and challenge under **Articles XV-A** and **XII-B**.
 - Interim safeguards during transition must meet subsection **F** environment-isolation and progressive-deployment controls proportionate to current risk.
 
-**E. Experimental substrate features and systems.** Opt-in, disclosure, rollback, and containment floors for elevated-risk or substrate-proximate experimentation are owned by **Article XVII-B**, read with **Article XVI-A** boundary integrity. This subsection does not restate those floors.
+<a id="e-experimental-substrate-features-and-systems"></a>
+## E. Experimental substrate features and systems
+
+*In plain terms: Experiments close to foundational infrastructure carry stricter containment, rollback, and opt-in requirements than ordinary experiments.*
+
+Opt-in, disclosure, rollback, and containment floors for elevated-risk or substrate-proximate experimentation are owned by **Article XVII-B**, read with **Article XVI-A** boundary integrity. This subsection does not restate those floors.
 
 **Systems-layer profile (does not narrow XVI/XVII):**
 
@@ -42,7 +86,12 @@ Creating new systems, tools, and environments is an act of stewardship. New depl
 - **Boundary and presentation integrity:** do not route production activity through non-production environments to bypass safeguards; do not fragment systems across environments to obscure real operational impact; accurately label experimental or unvalidated systems as not production-ready; never bypass required environment progression for high-impact changes.
 - **Documentation:** document environments and transitions under **Article XVI-A**, and expose deployment pathways, testing results (where feasible), and known risks and assumptions. Verification of those claims remains subject to **Chapter Four** and **Article XV-A**.
 
-**F. Non-experimental systems.** Systems that do not qualify under **Articles XVII-A** and **XVII-B** (and subsections **A**, **B**, or **E** where applicable) must comply fully with this subsection. This subsection implements **[Article XVI-A](../core_06-06_rights_part_c.md#article-xvi-a-lifecycle-governance-and-environment-separation)** (*Lifecycle Governance and Environment Separation*) and **[Article XVI-B](../core_06-06_rights_part_c.md#article-xvi-b-progressive-deployment-and-reversibility)** (*Progressive Deployment and Reversibility*). It does **not** restate those Articles. Shared reversibility and containment mechanics also read with **CJS-5.20** (*Continuity: reversibility and containment terms*).
+<a id="f-non-experimental-systems"></a>
+## F. Non-experimental systems
+
+*In plain terms: The default track for everything that does not qualify above. Requirements scale with impact: a system affecting only its builder may stay simple.*
+
+Systems that do not qualify under **Articles XVII-A** and **XVII-B** (and subsections **A**, **B**, or **E** where applicable) must comply fully with this subsection. This subsection implements **[Article XVI-A](../core_06-06_rights_part_c.md#article-xvi-a-lifecycle-governance-and-environment-separation)** (*Lifecycle Governance and Environment Separation*) and **[Article XVI-B](../core_06-06_rights_part_c.md#article-xvi-b-progressive-deployment-and-reversibility)** (*Progressive Deployment and Reversibility*). It does **not** restate those Articles. Shared reversibility and containment mechanics also read with **CJS-5.20** (*Continuity: reversibility and containment terms*).
 
 **Guiding principles — proportional responsibility:** Requirements scale with impact under **CS-4** and **CS-4**. Systems that affect only the builder may remain simple. Systems that affect others bear the full burden of stewardship.
 
@@ -105,7 +154,12 @@ The same isolation applies to real stakeholder data unless use is explicitly con
 
 **Root cause analysis (**Article XXI-A** (*Diagnostic Rigor and Causal Attribution*)):** RCA in these environments must satisfy **Article XXI-A**. Environments must support reproduction of failures, isolation of root causes, and validation of corrective interventions. Where feasible, conduct RCA in controlled environments before production changes. Validate corrective measures before deployment. Evidentiary sufficiency for RCA claims remains subject to **Chapter Four**.
 
-**G. Governance continuity, crisis communications, and exercises (high-impact systems).** This subsection states governance-side business continuity and recovery expectations. It applies to **Class A** and **Class B** systems, and to materially affecting **Critical System Stewards** (CS-4 — Critical system stewardship). It complements technical resilience, environment separation, and testing elsewhere in this Protocol, and it complements **CJS-5.19** (*Graceful Degradation and Failure Mode Integrity*), incorporated via **Sentient Constitution Chapter Sixteen**. It does **not** create constitutional rights.
+<a id="g-governance-continuity-crisis-communications-and-exercises-high-impact-systems"></a>
+## G. Governance continuity, crisis communications, and exercises (high-impact systems)
+
+*In plain terms: For Class A and Class B systems and the stewards behind them: keep governance running through a crisis, and rehearse it before you need it.*
+
+This subsection states governance-side business continuity and recovery expectations. It applies to **Class A** and **Class B** systems, and to materially affecting **Critical System Stewards** (CS-4 — Critical system stewardship). It complements technical resilience, environment separation, and testing elsewhere in this Protocol, and it complements **CJS-5.19** (*Graceful Degradation and Failure Mode Integrity*), incorporated via **Sentient Constitution Chapter Sixteen**. It does **not** create constitutional rights.
 
 Crisis and emergency definitional homes remain in **Sentient Constitution Chapter Five** (*Emergency and Contingency*; *Force Majeure*). Procedural emergency controls, conflict resolution, proportionality, continuation burden, and review of restrictions and emergency measures remain governed by **Chapter Six, [Article XXIII](../core_06-06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality)** (*Conflict Resolution, Escalation, and Emergency Proportionality*) and **[Article XXIII-D](../core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden)** (*Emergency Measures and Continuation Burden*). They also remain governed by Chapter Twelve decision-resolution requirements and **CJS-5.14** (*intervention governance and override-authorization terms*) and **CJS-5.23** (*Intervention and Override Rights*).
 
@@ -135,7 +189,11 @@ Crisis records must capture trigger evidence, alternatives considered, review ou
 
 **Emergency closure and restoration completion evidence:** Close emergency status when predefined termination criteria are met or when continuation burden fails at review under **Article XXIII-D**.
 
-Closure records must show objective evidence that **(a)** emergency predicates no longer materially justify extraordinary measures. They must show that **(b)** rollback or compensatory restoration was completed or is on a time-bound completion plan. They must show that **(c)** residual risks are disclosed with monitoring owners and cadence. They must show that **(d)** deferred rights, access, or participation were restored, or have auditable restoration timelines with accountable owners.
+Closure records must:
+- show objective evidence that **(a)** emergency predicates no longer materially justify extraordinary measures;
+- show that **(b)** rollback or compensatory restoration was completed or is on a time-bound completion plan;
+- show that **(c)** residual risks are disclosed with monitoring owners and cadence;
+- show that **(d)** deferred rights, access, or participation were restored, or have auditable restoration timelines with accountable owners.
 
 **Crisis communications:** Use designated roles and channels for **accurate, timely** stakeholder-facing communications during incidents and degradations.
 

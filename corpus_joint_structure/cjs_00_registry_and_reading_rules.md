@@ -89,7 +89,6 @@ Scope, boundary, and the shared implementation-corpus contract live in the next 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-0.1: Cross-file routing**.
 - Read with: **CJS-0.1**; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids); **CJS-2**; **CJS-1.1**.
 
 </details>
@@ -165,7 +164,6 @@ Use the [topic router reader index](../doc_architecture/generated/topic_router_r
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-0.2: Joint structure registry**.
 - Read with: **CJS-0**; **CJS-0.2**; **CJS-1**; **CJS-2**; **CJS-3**; **CJS-4**; **CJS-5**.
 
 </details>
@@ -203,7 +201,6 @@ These are the stable section families for the CJS folder:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-0.3: Stable identifiers, edition alignment, and drafting notes**.
 - Read with: **CJS-0.3**; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids); **CJS-4.1**; **CJS-4.2**; **CJS-4**; **CJS-5**.
 
 </details>
@@ -227,7 +224,6 @@ These are the stable section families for the CJS folder:
 **Implementation-label citation hygiene**
 
 When **CS**, **CI**, or **CF** cite **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, adopters must keep those references traceable and must not use implementation text to weaken them. Stricter-wins between adopted implementation standards on the same risk remains in [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-stricter-wins) (*Stricter-wins among adopted implementation standards*; stable citation also **CJS-3.6**).
-
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): maintainer and drafting notes</span></strong></summary>
@@ -253,7 +249,6 @@ When **CS**, **CI**, or **CF** cite **CJS-5** (*Implementation and cross-impleme
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-0.4: Cross-domain implementation layer**.
 - Read with: **CJS-0**; **CJS-0.4**; **CJS-1**; **CJS-1.1**; [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids); **CJS-3**.
 
 </details>
@@ -271,7 +266,6 @@ When **CS**, **CI**, or **CF** cite **CJS-5** (*Implementation and cross-impleme
 
 <br>
 
-
 *In plain terms: when systems, institutions, and forum rules all land on the same facts, read **CJS-1** in the next sequential file — not this registry section.*
 
 Apply [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) **CJS-1.1** (*Joint structural boundary and owner discipline*) and **CJS-1.2** (*Shared implementation-corpus preamble contract*). For read-with routing, stricter-wins, combined satisfaction, domain-specific joint obligations, integrity routing, and emergency layering, follow the **CJS-1.2** authority-stack and routing bullets and the **CJS-2.1**, **CJS-3** (**CJS-3.3**–**CJS-3.5**), **CJS-4.3**, and **CJS-5** sections they name.
@@ -279,6 +273,8 @@ Apply [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary
 ---
 
 ## Joint structure domain routing (integrator annex)
+
+*In plain terms: The routing desk for the whole implementation layer: which file owns which topic, and which files must be read alongside it. These routing sections have no separate family file of their own; they live here.*
 
 <a id="joint-structure-domain-routing-integrator-annex"></a>
 <a id="cjs-2-implementation-integration-map"></a>
@@ -303,7 +299,6 @@ Apply [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-2.1: Cross-implementation read-with contract**.
 - Read with: [CJS-2.1](#cjs-21-topic-router-stable-ids); **CJS-4.1**; **CJS-4.5**; **CJS-4.3**; **CJS-4.4**; [CJS-2.3](#cjs-23-two-tier-definition-contract-binding-abstraction--owner-detail); [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline).
 
 </details>
@@ -356,7 +351,6 @@ Joint abstractions and constitutional non-redefinition discipline: [CJS-1.1](cjs
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-2.2: Intentional overlap (non-duplication discipline)**.
 - Read with: **CJS-2.2**; [CJS-2.1](#cjs-21-topic-router-stable-ids).
 
 </details>
@@ -378,7 +372,6 @@ Domain-layer overlap discipline: apply [Institutions overlap discipline](../corp
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-2.3: Two-tier definition contract (binding abstraction + owner detail)**.
 - Read with: **CJS-2.3**; [CJS-2.1](#cjs-21-topic-router-stable-ids); **CJS-2.2**; **CJS-4.2**; **CJS-1.2** (*stricter-wins*).
 
 </details>

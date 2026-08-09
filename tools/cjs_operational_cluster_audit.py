@@ -30,8 +30,10 @@ CJS5_BAND_FILES = [
 ]
 EXPECTED_OPERATIONAL_CLUSTER_IDS = [f"CJS-5.{n}" for n in range(2, 24)]
 
-SECTION_HEADING_RE = re.compile(r"^##\s+(CJS-5[A-E](?:\.\d+)?(?::|\s))", re.MULTILINE)
-CLUSTER_HEADING_RE = re.compile(r"^##\s+(CJS-5\.\d+)\s+", re.MULTILINE)
+SECTION_HEADING_RE = re.compile(r"^#{1,3}\s+(CJS-5[A-E](?:\.\d+)?(?::|\s))", re.MULTILINE)
+CLUSTER_HEADING_RE = re.compile(r"^#{1,3}\s+(CJS-5\.\d+)\s+", re.MULTILINE)
+CLUSTER_SPLIT_RE = re.compile(r"(?=^#{1,3} CJS-5\.\d+ )", re.MULTILINE)
+CJS3_HEADING_RE = re.compile(r"^#{1,3}\s+(CJS-3\.\S*)")
 TRACE_BLOCK_RE = re.compile(
     r"<details>\s*\n<summary><strong><span style=\"color: #2563eb;\">Trace</span></strong></summary>\s*\n(.*?)\n</details>",
     re.DOTALL,
@@ -66,10 +68,11 @@ def slice_cjs3_sections(text: str) -> list[tuple[str, str]]:
     current_id = ""
     current_lines: list[str] = []
     for line in lines:
-        if line.startswith("### CJS-3."):
+        heading = CJS3_HEADING_RE.match(line)
+        if heading:
             if current_id:
                 sections.append((current_id, "\n".join(current_lines)))
-            current_id = line.removeprefix("### ").strip()
+            current_id = line.lstrip("#").strip()
             current_lines = []
             continue
         if current_id:
@@ -144,7 +147,7 @@ def audit_cjs5_compass_and_frames(root: Path) -> list[str]:
             findings.append(f"Missing required file: {rel}")
             continue
         text = path.read_text(encoding="utf-8")
-        parts = re.split(r"(?=^## CJS-5\.\d+ )", text, flags=re.MULTILINE)
+        parts = CLUSTER_SPLIT_RE.split(text)
         for part in parts:
             heading = CLUSTER_HEADING_RE.match(part)
             if not heading:

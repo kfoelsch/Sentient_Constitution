@@ -1,15 +1,40 @@
-## Protocol C: Justice Safeguards, Restitution, and Rehabilitation Implementation
+# Protocol C: Justice Safeguards, Restitution, and Rehabilitation Implementation
 
-Constitutional tracing: This protocol implements Sentient Constitution Chapter Six, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). **It** also implements **Sentient Constitution Chapter Eight** (compliance, violation, and standing model) and **CJS-5.13** (implementation and cross-implementation procedural integrity and adjudication terms), read with **CJS-5.13** (*procedural integrity and adjudication terms*). **It** operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Protocol C: Justice Safeguards, Restitution, and Rehabilitation Implementation**.
+>
+> Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the systems implementation home for **Protocol C** (*Justice Safeguards, Restitution, and Rehabilitation Implementation*).
+
+<br>
+
+*In plain terms: **Protocol C** covers what a system must do when it restricts, sanctions, or penalizes someone: validate the basis first, keep the restriction as light and as short as the situation allows, make restoration a real route rather than a formality, and never let a sanction turn into retaliation.*
+
+Constitutional tracing: This protocol implements Sentient Constitution Chapter Six, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). It also implements **Sentient Constitution Chapter Eight** (compliance, violation, and standing model) and **CJS-5.13** (implementation and cross-implementation procedural integrity and adjudication terms), read with **CJS-5.13** (*procedural integrity and adjudication terms*). It operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
 
 **It does** **not** create substitute rights or narrow [Constitutional Constraints](../core_05_band_integrative.md#constitutional-constraint).
 
-### 1. Scope and trigger
+<a id="1-scope-and-trigger"></a>
+## 1. Scope and trigger
+*In plain terms: This protocol switches on whenever a non-trivial restriction is imposed — anything materially affecting liberty, access, movement, authority, resources, or standing.*
+
 This protocol applies when systems, institutions, or adjudicative bodies impose or maintain non-trivial restrictions.
 
-**Those** restrictions may affect liberty, access, movement, role authority, resources, or durable standing effects.
+Those restrictions may affect liberty, access, movement, role authority, resources, or durable standing effects.
 
-### 2. Mandatory validation record
+<a id="2-mandatory-validation-record"></a>
+## 2. Mandatory validation record
+*In plain terms: Before restricting someone, the responsible body must record why it is necessary for safety, what remediation is owed, and what route back exists. All of these, not whichever is easiest to write.*
+
 **Joint validation record:** Before a non-trivial restriction is imposed or renewed, the responsible body must create an auditable record.
 
 That record must demonstrate all of the following jointly:
@@ -20,7 +45,10 @@ That record must demonstrate all of the following jointly:
 
 If any required element is absent, the restriction is non-compliant and must **not** be imposed.
 
-### 3. Class-scaled assurance requirements
+<a id="3-class-scaled-assurance-requirements"></a>
+## 3. Class-scaled assurance requirements
+*In plain terms: How much scrutiny a restriction needs scales with the system's class: the highest classes require independent review before imposition, not afterwards.*
+
 Validation and review rigor must scale with **CS-3 — System classification and handling** classification (and **CS-4 — Critical system stewardship** stewardship tier where applicable).
 
 **Class A and Class B:** Where feasible, use independent secondary review before imposition, provide explicit alternatives analysis, use mandatory periodic review at short intervals, and provide restoration planning at the initial decision.
@@ -33,26 +61,38 @@ Validation and review rigor must scale with **CS-3 — System classification and
 
 Where material external effects emerge, obligations escalate to the stricter applicable class profile.
 
-### 4. Least-restrictive, time-bounded, and restoration rules
+<a id="4-least-restrictive-time-bounded-and-restoration-rules"></a>
+## 4. Least-restrictive, time-bounded, and restoration rules
+*In plain terms: Use the lightest measure that works, set an end date, schedule reviews, and define what restoration looks like. Rolling a restriction forward without fresh evidence is non-compliant.*
+
 Every non-trivial restriction must **use the least-restrictive effective measure**.
 
 It must include explicit duration limits and sunset conditions, define review intervals and responsible reviewers, and define criteria for partial or full restoration.
 
 Continuation without refreshed evidence at scheduled review is non-compliant.
 
-### 5. Prohibited retaliatory forms
+<a id="5-prohibited-retaliatory-forms"></a>
+## 5. Prohibited retaliatory forms
+*In plain terms: Restrictions may protect; they may not punish for its own sake. Measures built on grievance, humiliation, or spectacle are prohibited regardless of what they are called.*
+
 Implementations must **not** operationalize restrictions, exclusions, or restorative-accountability measures that violate the [Anti-Degrading-Process Principle](../core_01_b_interaction_interpretation.md#anti-degrading-process-principle), including measures justified by retaliatory grievance, humiliation-as-an-end, spectacle-only deterrence, discriminatory burdening, collective retaliation, or administrative convenience.
 
 Irreversible restrictive outcomes are prohibited where feasible reversible restitution, remediation, or protection alternatives exist.
 
-### 6. Voluntary public accountability expression
+<a id="6-voluntary-public-accountability-expression"></a>
+## 6. Voluntary public accountability expression
+*In plain terms: Where a restorative route involves a public apology, it must be genuinely voluntary. A coerced apology is a further harm, not a remedy.*
+
 Where restorative pathways include public acknowledgment or apology, systems must enforce voluntariness and authenticity controls.
 
 Those controls are specified in **Chapter Nine** §4.3 (*Voluntary public accountability expression*), **Chapter Ten** §4.3 (*Voluntary public accountability expression (anti-constitutional)*) where anti-constitutional misconduct is designated, and **CJS-5.13** (*procedural integrity and adjudication terms*), and include non-coercive consent, revocability up to delivery, independent review of voluntariness and authenticity, and negative justice consequences for materially inauthentic or abusive expression.
 
 Refusal may **not** independently escalate baseline sanctions.
 
-### 7. Metrics and oversight
+<a id="7-metrics-and-oversight"></a>
+## 7. Metrics and oversight
+*In plain terms: What must be tracked and published: whether restrictions are reversed on review, whether remediation completes, and whether the intervention actually reduced recurrence.*
+
 Systems subject to this protocol must **track** and **periodically publish** (subject to privacy and security constraints) designated metrics.
 
 Those metrics include recurrence rates after intervention, restitution completion, remediation effectiveness, rehabilitation pathway completion where applicable, reversal/modification/restoration rates after review, and review-independence indicators.
@@ -65,7 +105,10 @@ Apply **Article XV-A** (*Auditability and Observable Evidence*), **Article XVIII
 
 For **Class A** and **Class B** systems, persistent concentrations of interpretive or adjudicative authority without effective challenge outcomes are capture-risk indicators and must trigger governance remediation review under **Article XXIII-A** (*Justice Objective and Scope*), **Chapter Five** (*System Capture*), and **CJS-5.13** (*procedural integrity and adjudication terms*).
 
-### 8. Cross-jurisdiction execution and anti-evasion controls
+<a id="8-cross-jurisdiction-execution-and-anti-evasion-controls"></a>
+## 8. Cross-jurisdiction execution and anti-evasion controls
+*In plain terms: Decisions with effects across borders need routes that still work across them, so restructuring across an entity or a boundary cannot be used to shake off an obligation.*
+
 For decisions with material cross-boundary effects, implementing bodies must define and maintain execution pathways.
 
 Those pathways must preserve constitutional enforceability across jurisdictions and entity structures.
@@ -86,10 +129,12 @@ Apply Sentient Constitution **Chapter Fourteen** (*Disputes Involving External L
 
 **Entity continuity checks:** Enforcement must track legal and operational continuity across affiliates, successor entities, shell structures, and contractual delegations. **Do not** allow obligations to be extinguished by relabeling.
 
-**Forum-shopping detection and response:** Repeated migration to lower-scrutiny venues, reincorporation patterns.
-or layered delegation intended to dilute accountability must trigger aggravated enforcement review. It must also trigger anti-evasion intervention under **Sentient Constitution Chapters Two through Four** and **CJS-5.13** (*procedural integrity and adjudication terms*).
+**Forum-shopping detection and response:** Repeated migration to lower-scrutiny venues, reincorporation patterns, or layered delegation intended to dilute accountability must trigger aggravated enforcement review. It must also trigger anti-evasion intervention under **Sentient Constitution Chapters Two through Four** and **CJS-5.13** (*procedural integrity and adjudication terms*).
 
-### 9. Proportional compliance templates (class-scaled)
+<a id="9-proportional-compliance-templates-class-scaled"></a>
+## 9. Proportional compliance templates (class-scaled)
+*In plain terms: Standard templates keep the paperwork proportionate to the stake. They right-size the burden of documentation; they never lower the underlying protection.*
+
 Systems must implement class-scaled compliance templates that preserve core protections while right-sizing documentation and verification burden.
 
 Templates are implementation profiles, not alternative standards. When multiple profiles could apply, the **stricter** governs.
@@ -122,7 +167,8 @@ Where a material control family fails, systems must produce a control-failure di
 
 Evasive down-tiering requires corrective reclassification and enforcement review.
 
-### 10. Lived-condition floors, continuity, and re-entry alignment
+<a id="10-lived-condition-floors-continuity-and-re-entry-alignment"></a>
+## 10. Lived-condition floors, continuity, and re-entry alignment
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -131,6 +177,8 @@ Evasive down-tiering requires corrective reclassification and enforcement review
 </details>
 
 <br>
+
+*In plain terms: While a restriction is in force, conditions must stay non-degrading and support must continue. A lawful restriction carried out in degrading conditions is still a violation.*
 
 This subsection implements **non-degrading lived conditions** and **continuity of support** while **non-trivial restrictions** remain in force. It does **not** add criminal-law detail, create a sanction taxonomy, or restate **Chapter Eight** measurement. It **does** require that implementation of restrictions — including detention-like conditions, durable containment under **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*), **quarantine**, **supervised operation**, **role exclusion**, and comparable measures — preserves access to conditions that keep **restorative**, **least-restrictive**, and **dignity** commitments concrete rather than nominal.
 

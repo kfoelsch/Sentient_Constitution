@@ -1,11 +1,29 @@
-## CF-16: Forum staffing, reserve capacity, shared administration, structural review, and structural records
+# CF-16: Forum staffing, reserve capacity, shared administration, structural review, and structural records
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*).
+>
+> Start at the [Forums landing page](../corpus_forum.md) for reading order, or the [forums registry](cf_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the forum implementation home for **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-16.1 Composition and competence requirements](#cf-161-composition-and-competence-requirements); [CF-16.1.1 Support-role-to-adjudicator pathways](#cf-1611-support-role-to-adjudicator-pathways); [CF-16.2 Reserve, substitute, and surge capacity](#cf-162-reserve-substitute-and-surge-capacity).
 - Read with: **CF-16**; **CF-3**; **CF-5**; **CF-4**; **CF-8**; **CF-11**; **CF-12**; **CF-13**; **CF-14**; **CF-16.1**; **CF-16.1.1**.
-- Topic routing (primary owner): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CI-4**, **CI-5**, **CI-9.3**.
+- Topic routing (primary owner): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router*). Mandatory read-with: **CI-4**, **CI-5**, **CI-9.3**.
 
 </details>
 
@@ -24,15 +42,31 @@
 
 <br>
 
+*In plain terms: **CF-16** (*Forum staffing and structural records*) covers whether a forum has enough qualified staff to function at all. It asks how competence is defined, how support staff advance into adjudicative roles, what reserve capacity exists for surges, and which structural records prove it. Shared administration must not become a back door for steering cases.*
 
-This chapter governs forum-specific **staffing and competence frameworks**, **support-role-to-adjudicator pathways**, **reserve and surge capacity**, **shared administration and objective assignment** safeguards, **periodic structural review**, **prohibited staffing and capacity patterns**, and the **structural governance record set** that adopting entities must maintain. It complements **CF-3** (forum-structure map, family boundaries, chambers, and minimum bench-support availability), **CF-5** (routing and intake), **CF-4** (panel formation and recusal), **CF-8** (forum forensic and analytical support), **CF-11** (performance and backlog), and **CF-12** through **CF-14** (continuity, fallback operation, and emergency adjudication).
+This section governs the following, forum by forum:
+
+- **staffing and competence frameworks**;
+- **support-role-to-adjudicator pathways**;
+- **reserve and surge capacity**;
+- **shared administration and objective assignment** safeguards;
+- **periodic structural review**;
+- **prohibited staffing and capacity patterns**;
+- the **structural governance record set** that adopting entities must maintain.
+
+It complements:
+
+- **CF-3** — forum-structure map, family boundaries, chambers, and minimum bench-support availability;
+- **CF-4** — panel formation and recusal;
+- **CF-5** — routing and intake;
+- **CF-8** — forum forensic and analytical support;
+- **CF-11** — performance and backlog;
+- **CF-12** through **CF-14** — continuity, fallback operation, and emergency adjudication.
 
 ### CF-16.1 Composition and competence requirements
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-16.1 Composition and competence requirements**.
 - Read with: **CF-16.1**; **CF-16**.
 
 </details>
@@ -62,7 +96,13 @@ Every forum family must maintain a composition framework that, at minimum:
 - distinguishes judicial decision authority from advisory, clerical, forensic, or investigative support roles;
 - identifies any seat categories or qualification mixes needed for specialized chambers or designated panels.
 
-Detailed appointment, tenure, rotation, removal, and conflict-control pathways remain governed by `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*) and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), together with `core_06-06_rights_part_d.md` **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) where applicable. **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*) requires those protections to be reflected in the actual forum map and staffing model.
+Detailed appointment, tenure, rotation, removal, and conflict-control pathways remain governed elsewhere:
+
+- `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*);
+- `corpus_institutions.md` **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*);
+- `core_06-06_rights_part_d.md` **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) where applicable.
+
+**CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*) requires those protections to be reflected in the actual forum map and staffing model.
 
 Forum design must not make constitutionally material adjudication depend on a single indispensable officeholder, gatekeeper, or qualification bottleneck where a lawful multi-sentient structure is feasible.
 
@@ -73,7 +113,6 @@ Specialized seat categories, chamber qualifications, or role-specific competence
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Twelve §5](../core_12-12_governance.md#5-authorized-roles-competency-development-and-contribution) authorized roles, competency development, and contribution; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-16.1.1 Support-role-to-adjudicator pathways**; [CF-16.6 Required structural records and artifacts](#cf-166-required-structural-records-and-artifacts).
 - Read with: **CF-16.1.1**; **CF-16.1**; **CF-16.2**; **CF-4**; **CF-8**; `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*) and **CI-12** (*Transparency, participation, and accessible pathways*).
 
 </details>
@@ -93,7 +132,15 @@ Specialized seat categories, chamber qualifications, or role-specific competence
 
 <br>
 
-Each forum family must maintain a published and non-arbitrary pathway by which qualified sentients serving in forum-support roles may become eligible for adjudicative service. Covered support roles include, where applicable, clerical forum workers, panel coordinators, records and publication personnel, evidence-custody personnel, forensic analysts, technical reviewers, special masters, accessibility or explanation staff, and comparable forum-adjacent roles.
+Each forum family must maintain a published and non-arbitrary pathway by which qualified sentients serving in forum-support roles may become eligible for adjudicative service. Covered support roles include, where applicable:
+
+- clerical forum workers and panel coordinators;
+- records and publication personnel;
+- evidence-custody personnel;
+- forensic analysts and technical reviewers;
+- special masters;
+- accessibility or explanation staff;
+- comparable forum-adjacent roles.
 
 Support-role experience may count toward adjudicative competence when it demonstrates relevant knowledge of procedure, evidence, accessibility, record integrity, forum operations, or the subject-matter needs of a family or chamber. It must not create automatic entitlement to adjudicative authority.
 
@@ -110,14 +157,6 @@ Pathway design must preserve the distinction between support authority and merit
 Where a support-role participant is considered for adjudicative service, the record must identify any prior matters, support assignments, dependency relationships, or institutional reporting lines that could reasonably bear on independence in the proposed adjudicative role. The resulting conflict record must remain available for panel formation, disclosure, recusal, and later review under **CF-4**.
 
 ### CF-16.2 Reserve, substitute, and surge capacity
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-16.2 Reserve, substitute, and surge capacity**.
-- Read with: **CF-16.2**.
-
-</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -149,14 +188,6 @@ Reserve capacity must not be designed so narrowly that a predictable set of recu
 Reserve and substitute design must also account for conflict integrity. A forum family must not rely for its ordinary backup capacity on a pool so conflict-entangled, dependency-linked, or patronage-shaped that the backup mechanism itself predictably fails when the dispute is sensitive.
 
 ### CF-16.3 Shared administration and objective assignment safeguards
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-16.3 Shared administration and objective assignment safeguards**.
-- Read with: **CF-16.3**.
-
-</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -184,14 +215,6 @@ Where more than one forum, region, or chamber can hear a matter, assignment and 
 Internal administrative convenience must not become a covert routing mechanism that defeats primary-stakes allocation or anti-self-judging protections.
 
 ### CF-16.4 Prohibited staffing, capacity, and governance patterns
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-16.4 Prohibited staffing, capacity, and governance patterns**.
-- Read with: **CF-16.4**.
-
-</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -218,14 +241,6 @@ The following patterns are non-compliant:
 Repeated resort to these patterns may be treated as a capture, evasion, or contestability failure under `corpus_institutions.md` **CI-8** (*Cross-institution coordination and escalation*) and related integrity provisions.
 
 ### CF-16.5 Structural review and revision cadence
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-16.5 Structural review and revision cadence**.
-- Read with: **CF-16.5**.
-
-</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -254,8 +269,6 @@ Where review shows persistent overload, recurring chamber misuse, chronic recusa
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-16.6 Required structural records and artifacts**.
 - Read with: **CF-16.6**; **CF-3.2**.
 
 </details>
@@ -288,8 +301,6 @@ Each adopting entity must maintain and periodically update at least:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **Relationship to existing files**.
 - Read with: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router.
 
 </details>
@@ -307,6 +318,7 @@ Each adopting entity must maintain and periodically update at least:
 
 <br>
 
+*In plain terms: Where the boundaries sit: Chapter Eleven still owns forum architecture, the institutions corpus still owns non-adjudicative governance, and this file adds only the forum-specific staffing layer.*
 
 - `core_11-11_forum.md` remains the constitutional owner of forum-family architecture and routing.
 - `corpus_institutions.md` remains the general owner of non-adjudicative institutional governance (as distinct from the forum layer).

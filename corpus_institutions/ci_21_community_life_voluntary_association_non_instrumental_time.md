@@ -1,4 +1,22 @@
-## CI-21: Community life, voluntary association, and non-instrumental time
+# CI-21: Community life, voluntary association, and non-instrumental time
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-21** (*Community life, voluntary association, and non-instrumental time*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the institutional implementation home for **CI-21** (*Community life, voluntary association, and non-instrumental time*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -23,7 +41,7 @@
 
 <br>
 
-*In plain terms: **CI-21** is the institutions layer's rulebook for community life that is not just another productivity slot — gathering, play, recreation, solitude, cultural practice, and voluntary association. Sentients need practical ways to belong, meet, celebrate, rest, and organize without every shared space being monetized, gated, or designed to push them out. You must be free to associate — and free not to associate, and free to leave a group that has turned coercive. Shared community and associational pathway floors live in **CJS-5.7** (*quorum and participatory legitimacy terms*); constitutional meaning lives in **Article V-H** (*Expression, Assembly, and Press*), **Article X-A** (*Non-Imposition and Consent in Association*), and **Chapter Five** assembly and collective-organization disciplines; this file states what each institution must name, steward, and route locally.*
+*In plain terms: **CI-21** is the institutions layer's rulebook for community life that is not just another productivity slot — gathering, play, recreation, solitude, cultural practice, and voluntary association. Sentients need practical ways to belong, meet, celebrate, rest, and organize without every shared space being monetized, gated, or designed to push them out. You must be free to associate — and free not to associate, and free to leave a group that has turned coercive. Shared community and associational pathway floors live in **CJS-5.7** (*quorum and participatory legitimacy terms*). The constitutional meaning sits in **Article V-H** (*Expression, Assembly, and Press*), **Article X-A** (*Non-Imposition and Consent in Association*), and **Chapter Five** assembly and collective-organization disciplines. What this file adds is local: what each institution must name, steward, and route locally.*
 
 **Quick orientation**
 
@@ -49,12 +67,10 @@
 - Apply **CJS-5.7** **Community and associational pathway integrity** for the shared floor on practical access, voluntary association, exit from coercive settings, and anti-hostile-design exclusion.
 - **CI-21** states only local stewardship, program, referral, and escalation owner duties across **CI-21.1** through **CI-21.3**.
 
-### CI-21.1: Civic infrastructure and non-instrumental time
+## CI-21.1: Civic infrastructure and non-instrumental time
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-21.1: Civic infrastructure and non-instrumental time**.
 - Read with: **CI-21.1**; **CI-21.2**; **CI-9**; **CI-8**.
 
 </details>
@@ -70,12 +86,10 @@ Each institution in scope must name and maintain locally:
 - **access-rule publication** — published rules for fees, licensing, zoning, moderation, visibility, hours, and design standards that affect gathering or non-productive time, scaled under **CI-9** where class or tier applies; and
 - **productivity-only allocation guardrail** — the test and review route when allocation rules treat community, cultural, or recreational use as disfavored relative to measurable output without documented **Necessity** and **Proportionality**.
 
-### CI-21.2: Voluntary association and anti-coercion guardrails
+## CI-21.2: Voluntary association and anti-coercion guardrails
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-21.2: Voluntary association and anti-coercion guardrails**.
 - Read with: **CI-21.2**; **CI-21.1**; **CI-21.3**; **CI-20**; **CI-22**.
 
 </details>
@@ -92,12 +106,10 @@ Each institution in scope must name and maintain locally:
 - **informal-power review route** — independent review when exclusion, shunning, or local hierarchy inside a community pathway materially harms a sentient, read with **CI-20** where coercive-control patterns are implicated and **CI-22** where commons or mutual-aid governance is implicated; and
 - **anti-retaliation interface** — how reporters, leavers, and challengers are protected from retaliation tied to association or gathering disputes.
 
-### CI-21.3: Referral and escalation interfaces
+## CI-21.3: Referral and escalation interfaces
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-21.3: Referral and escalation interfaces**.
 - Read with: **CI-21.3**; **CI-6**; **CI-12**; **CI-5**; **CI-8**.
 
 </details>

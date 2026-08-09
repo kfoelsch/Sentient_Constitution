@@ -1,4 +1,22 @@
-## CI-1: Scope, purpose, and legitimacy interface
+# CI-1: Scope, purpose, and legitimacy interface
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-1** (*Scope, purpose, and legitimacy interface*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the institutional implementation home for **CI-1** (*Scope, purpose, and legitimacy interface*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -13,11 +31,18 @@
 
 - [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) · [O](../core_05_band_integrative.md#authority-stack) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
 - [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance) · [O](../core_05_band_oversight.md#classification-scaled-governance) · [M](../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../core_05_band_oversight.md#classification-scaled-governance-c)
-- [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) · [O](../core_05_band_integrative.md#authority-stack) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
 - [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
 - [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
 - [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_integrative.md#sentient-composite-c)
 - [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
+- [Violation Nature](../core_05_band_accountability.md#violation-nature-chapter-six) · [O](../core_05_band_accountability.md#violation-nature-chapter-six) · [M](../core_05_band_accountability.md#violation-nature-chapter-six-a) · [A](../core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](../core_05_band_accountability.md#violation-nature-chapter-six-c)
+- [Standing Effect](../core_05_band_accountability.md#standing-effect-chapter-six) · [O](../core_05_band_accountability.md#standing-effect-chapter-six) · [M](../core_05_band_accountability.md#standing-effect-chapter-six-a) · [A](../core_05_band_accountability.md#standing-effect-chapter-six-a) · [C](../core_05_band_accountability.md#standing-effect-chapter-six-c)
+- [Material Impact](../core_05_band_oversight.md#material-impact) · [O](../core_05_band_oversight.md#material-impact) · [M](../core_05_band_oversight.md#material-impact-a) · [A](../core_05_band_oversight.md#material-impact-a) · [C](../core_05_band_oversight.md#material-impact-c)
+- [Proportionality](../core_05_band_accountability.md#proportionality) · [O](../core_05_band_accountability.md#proportionality) · [M](../core_05_band_accountability.md#proportionality-a) · [A](../core_05_band_accountability.md#proportionality-a) · [C](../core_05_band_accountability.md#proportionality-c)
+- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
+- [Reversibility](../core_05_band_continuity.md#reversibility-constitutional) · [O](../core_05_band_continuity.md#reversibility-constitutional) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
+- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
+- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
 
 </details>
 
@@ -49,21 +74,12 @@
 - Shared contract and joint reading order: **CJS-1.1** and **CJS-1.2** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md).
 - Cross-layer topic router: [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids).
 
-### CI-1.1: Anti-constitutional misconduct usage
+## CI-1.1: Anti-constitutional misconduct usage
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary and owner discipline; [Chapter Ten](../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) designation; [Chapter Eight](../core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing measurement; and [Chapter Nine](../core_09-09_standing_integration.md) standing integration.
-- Downstream: this section's local operational requirements for **CI-1.1: Anti-constitutional misconduct usage**.
 - Read with: **CI-1.1**; **CI-13**; **CI-27**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Violation Nature](../core_05_band_accountability.md#violation-nature-chapter-six) · [O](../core_05_band_accountability.md#violation-nature-chapter-six) · [M](../core_05_band_accountability.md#violation-nature-chapter-six-a) · [A](../core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](../core_05_band_accountability.md#violation-nature-chapter-six-c)
-- [Standing Effect](../core_05_band_accountability.md#standing-effect-chapter-six) · [O](../core_05_band_accountability.md#standing-effect-chapter-six) · [M](../core_05_band_accountability.md#standing-effect-chapter-six-a) · [A](../core_05_band_accountability.md#standing-effect-chapter-six-a) · [C](../core_05_band_accountability.md#standing-effect-chapter-six-c)
 
 </details>
 
@@ -80,26 +96,12 @@ This layer does **not**:
 - create a parallel offense taxonomy, or
 - substitute labels for **Chapter Ten**.
 
-### CI-1.2: Proportionality rule
+## CI-1.2: Proportionality rule
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary and owner discipline; [CJS-5.11](../corpus_joint_structure.md) distributed and proportional authority terms; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CI-1.2: Proportionality rule**.
 - Read with: **CI-1.2**; **CJS-5.11**; **CJS-5.12**; **CJS-5.13**; **CI-9**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Material Impact](../core_05_band_oversight.md#material-impact) · [O](../core_05_band_oversight.md#material-impact) · [M](../core_05_band_oversight.md#material-impact-a) · [A](../core_05_band_oversight.md#material-impact-a) · [C](../core_05_band_oversight.md#material-impact-c)
-- [Proportionality](../core_05_band_accountability.md#proportionality) · [O](../core_05_band_accountability.md#proportionality) · [M](../core_05_band_accountability.md#proportionality-a) · [A](../core_05_band_accountability.md#proportionality-a) · [C](../core_05_band_accountability.md#proportionality-c)
-- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Reversibility](../core_05_band_continuity.md#reversibility-constitutional) · [O](../core_05_band_continuity.md#reversibility-constitutional) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
-- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
-- [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
-- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
 
 </details>
 

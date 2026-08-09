@@ -1,4 +1,22 @@
-## CJS-4: Specific joint interlocks and shared abstractions
+# CJS-4: Specific joint interlocks and shared abstractions
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-4** (*Specific joint interlocks and shared abstractions*).
+>
+> Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the joint-structure implementation home for **CJS-4** (*Specific joint interlocks and shared abstractions*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -15,9 +33,21 @@
 - [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) · [O](../core_05_band_integrative.md#authority-stack) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
 - [Adjudication and Dispute Resolution](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 - [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance) · [O](../core_05_band_oversight.md#classification-scaled-governance) · [M](../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../core_05_band_oversight.md#classification-scaled-governance-c)
-- [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) · [O](../core_05_band_integrative.md#authority-stack) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
 - [Emergency and Contingency](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05_band_continuity.md#emergency-and-contingency-constitutional-c)
 - [Incentive Alignment](../core_05_band_integrative.md#incentive-alignment) · [O](../core_05_band_integrative.md#incentive-alignment) · [M](../core_05_band_integrative.md#incentive-alignment-a) · [A](../core_05_band_integrative.md#incentive-alignment-a) · [C](../core_05_band_integrative.md#incentive-alignment-c)
+- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
+- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
+- [Trustworthiness](../core_05_band_continuity.md#trustworthiness) · [O](../core_05_band_continuity.md#trustworthiness) · [M](../core_05_band_continuity.md#trustworthiness-a) · [A](../core_05_band_continuity.md#trustworthiness-a) · [C](../core_05_band_continuity.md#trustworthiness-c)
+- [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
+- [Trust](../core_05_band_continuity.md#trust) · [O](../core_05_band_continuity.md#trust) · [M](../core_05_band_continuity.md#trust-a) · [A](../core_05_band_continuity.md#trust-a) · [C](../core_05_band_continuity.md#trust-c)
+- [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
+- [Competency Bar](../core_05_band_accountability.md#competency-bar) · [O](../core_05_band_accountability.md#competency-bar) · [M](../core_05_band_accountability.md#competency-bar-a) · [A](../core_05_band_accountability.md#competency-bar-a) · [C](../core_05_band_accountability.md#competency-bar-c)
+- [Competency Clearance](../core_05_band_accountability.md#competency-clearance) · [O](../core_05_band_accountability.md#competency-clearance) · [M](../core_05_band_accountability.md#competency-clearance-a) · [A](../core_05_band_accountability.md#competency-clearance-a) · [C](../core_05_band_accountability.md#competency-clearance-c)
+- [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
+- [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_integrative.md#sentient-composite-c)
+- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
+- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
 
 </details>
 
@@ -31,22 +61,20 @@
 
 <a id="cjs-41-mandatory-hybrid-authority-composition-delegated-binding-bodies"></a>
 
-### CJS-4.1 Hybrid delegated authority (delegated binding bodies)
+## CJS-4.1 Hybrid delegated authority (delegated binding bodies)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CJS-4.1.1 Composition floor](#cjs-411-composition-floor); [CJS-4.1.2 Attachment publication](#cjs-412-attachment-publication).
 - Read with: **CJS-4.1**; **CJS-4.1.1**; **CJS-4.1.2**; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids).
-- Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-9.3**.
-- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Eleven families)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-3**.
+- Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router*); primary owner **CI-9.3**.
+- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Eleven famili…*) in **CJS-2.1** (*Topic router*); primary owner **CF-3**.
 
 </details>
 
 <br>
 
 *In plain terms: this package covers hybrid decision bodies for institutions and forums in two steps — **CJS-4.1.1** (*Composition floor*) says who must be on the body; **CJS-4.1.2** (*Publication mechanics*) says what the published rules must spell out about how long members serve. Both steps must be satisfied.*
-
 
 A hybrid design that names home and rotating roles but omits **CJS-4.1.2** publication mechanics does not satisfy **CJS-4.1**.
 
@@ -55,22 +83,7 @@ A hybrid design that names home and rotating roles but omits **CJS-4.1.2** publi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-4.1.1 Composition floor**; [CJS-4.1.2 Attachment publication](#cjs-412-attachment-publication).
 - Read with: **CJS-4.1.1**; **CJS-4.1.2**; **CJS-4.1**; **CI-9.3.1**; **CI-9.3.2**; **CF-3.5** through **CF-3.8**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
-- [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) · [O](../core_05_band_integrative.md#authority-stack) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
-- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
-- [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance) · [O](../core_05_band_oversight.md#classification-scaled-governance) · [M](../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../core_05_band_oversight.md#classification-scaled-governance-c)
-- [Emergency and Contingency](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05_band_continuity.md#emergency-and-contingency-constitutional-c)
-- [Adjudication and Dispute Resolution](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 
 </details>
 
@@ -98,21 +111,11 @@ Every covered body must use a **hybrid design** that includes both:
 
 **When institution and forum rules both apply.** Where **CI** and **CF** both speak to the same body, the **stricter** clearly adopted rule governs.
 
-### CJS-4.1.2 Attachment publication
+## CJS-4.1.2 Attachment publication
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-4.1.2 Attachment publication**.
 - Read with: **CJS-4.1.2**; **CJS-4.1.1**; **CJS-4.1**; **CI-9.3.3**; **CI-9.3.4**; **CF-12** through **CF-14**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Emergency and Contingency](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05_band_continuity.md#emergency-and-contingency-constitutional-c)
-- [Adjudication and Dispute Resolution](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 
 </details>
 
@@ -129,22 +132,11 @@ Where **CJS-4.1** (*Hybrid delegated authority (delegated binding bodies)*) appl
 
 Sample formulas are illustrative unless a **primary owner** makes them mandatory. Home-based term rules do not need to mirror rotating attachment rules.
 
-### CJS-4.2 Implementation boundary (primary owner to CJS seam)
+## CJS-4.2 Implementation boundary (primary owner to CJS seam)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-4.2 Implementation boundary (primary owner to CJS seam)**.
 - Read with: **CJS-4.2**; **CJS-1.1**; **CJS-0.3**; **CJS-1.2** (*stricter-wins*).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) · [O](../core_05_band_integrative.md#authority-stack) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
-- [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) · [O](../core_05_band_integrative.md#authority-stack) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
 
 </details>
 
@@ -159,27 +151,12 @@ When revising **CJS** joint-structure text:
 - keep read-with restatements short; and
 - preserve **CJS-5** (*Implementation and cross-implementation operational cluster library*) cluster citations so references remain traceable under [CJS-0.3](cjs_00_registry_and_reading_rules.md#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable identifiers, edition alignment, and drafting notes*); stricter-wins remains [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-stricter-wins) (*Stricter-wins among adopted implementation standards*; stable citation also **CJS-3.6**).
 
-### CJS-4.3 Cross-implementation trust integrity (joint operation model)
+## CJS-4.3 Cross-implementation trust integrity (joint operation model)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-4.3 Cross-implementation trust integrity (joint operation model)**.
 - Read with: **CJS-4.3**; **CJS-1.2** (*combined satisfaction* / *stricter-wins*); **CJS-3.5**.
-- Topic routing (primary owner): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*).; see that row for mandatory read-with.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Trust Degradation and Misleading Reliance](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) · [O](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) · [M](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-c)
-- [Trustworthiness](../core_05_band_continuity.md#trustworthiness) · [O](../core_05_band_continuity.md#trustworthiness) · [M](../core_05_band_continuity.md#trustworthiness-a) · [A](../core_05_band_continuity.md#trustworthiness-a) · [C](../core_05_band_continuity.md#trustworthiness-c)
-- [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
-- [Trust](../core_05_band_continuity.md#trust) · [O](../core_05_band_continuity.md#trust) · [M](../core_05_band_continuity.md#trust-a) · [A](../core_05_band_continuity.md#trust-a) · [C](../core_05_band_continuity.md#trust-c)
-- [Incentive Alignment](../core_05_band_integrative.md#incentive-alignment) · [O](../core_05_band_integrative.md#incentive-alignment) · [M](../core_05_band_integrative.md#incentive-alignment-a) · [A](../core_05_band_integrative.md#incentive-alignment-a) · [C](../core_05_band_integrative.md#incentive-alignment-c)
-- [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
+- Topic routing (primary owner): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router*).; see that row for mandatory read-with.
 
 </details>
 
@@ -212,28 +189,12 @@ Trust claims must remain consistent with [CJS-1.2](cjs_01_scope_purpose_boundary
 - **CJS-5.19** (*Continuity: graceful degradation and failure-mode integrity terms*)
 - **CJS-5.20** (*Continuity: reversibility and containment terms*)
 
-### CJS-4.4 Class-scaled lane staffing and competency redundancy
+## CJS-4.4 Class-scaled lane staffing and competency redundancy
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-4.4 Class-scaled lane staffing and competency redundancy**.
 - Read with: **CJS-4.4**; **CJS-5.0**.
-- Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owners **CI-3**, **CI-4**, **CI-11**, **CI-12**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Competency Bar](../core_05_band_accountability.md#competency-bar) · [O](../core_05_band_accountability.md#competency-bar) · [M](../core_05_band_accountability.md#competency-bar-a) · [A](../core_05_band_accountability.md#competency-bar-a) · [C](../core_05_band_accountability.md#competency-bar-c)
-- [Competency Clearance](../core_05_band_accountability.md#competency-clearance) · [O](../core_05_band_accountability.md#competency-clearance) · [M](../core_05_band_accountability.md#competency-clearance-a) · [A](../core_05_band_accountability.md#competency-clearance-a) · [C](../core_05_band_accountability.md#competency-clearance-c)
-- [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
-- [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_integrative.md#sentient-composite-c)
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
-- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
-- [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance) · [O](../core_05_band_oversight.md#classification-scaled-governance) · [M](../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../core_05_band_oversight.md#classification-scaled-governance-c)
+- Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router*); primary owners **CI-3**, **CI-4**, **CI-11**, **CI-12**.
 
 </details>
 
@@ -258,31 +219,15 @@ Staffing must be real, not just numerical. Responsibility cannot be spread so th
 
 The constitutional floor remains in `core_12-12_governance.md` **Chapter Twelve**, section **5**. Domain detail remains in **CI-3** (*Institutional design and separation of powers*), **CI-4** (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), **CI-12** (*Transparency, participation, and accessible pathways*), and `corpus_systems.md` **CS-3 — System classification and handling** and **CS-4 — Critical system stewardship**.
 
-### CJS-4.5 Shared procedural abstractions for delegated bodies and forum routing
+## CJS-4.5 Shared procedural abstractions for delegated bodies and forum routing
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-4.5 Shared procedural abstractions for delegated bodies and forum routing**.
 - Read with: **CJS-4.5**; **CJS-5.0**.
-- Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-9.3**.
-- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Eleven families)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-3**.
-- Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-4**.
-- Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-5**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Competency Bar](../core_05_band_accountability.md#competency-bar) · [O](../core_05_band_accountability.md#competency-bar) · [M](../core_05_band_accountability.md#competency-bar-a) · [A](../core_05_band_accountability.md#competency-bar-a) · [C](../core_05_band_accountability.md#competency-bar-c)
-- [Competency Clearance](../core_05_band_accountability.md#competency-clearance) · [O](../core_05_band_accountability.md#competency-clearance) · [M](../core_05_band_accountability.md#competency-clearance-a) · [A](../core_05_band_accountability.md#competency-clearance-a) · [C](../core_05_band_accountability.md#competency-clearance-c)
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_integrative.md#sentient-composite-c)
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
-- [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) · [O](../core_05_band_integrative.md#authority-stack) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
+- Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router*); primary owner **CI-9.3**.
+- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Eleven famili…*) in **CJS-2.1** (*Topic router*); primary owner **CF-3**.
+- Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router*); primary owner **CF-4**.
+- Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router*); primary owner **CF-5**.
 
 </details>
 

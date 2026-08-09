@@ -1,9 +1,26 @@
-## CI-22: Commons, cooperatives, mutual aid, and non-market community governance
+# CI-22: Commons, cooperatives, mutual aid, and non-market community governance
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-22** (*Commons, cooperatives, mutual aid, and non-market community governance*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the institutional implementation home for **CI-22** (*Commons, cooperatives, mutual aid, and non-market community governance*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-22: Commons, cooperatives, mutual aid, and non-market community governance**.
 - Read with: **CI-22**; **CI-6**; **CI-9**; **CI-12**; **CI-11**; **CI-18**; **CI-21**.
 
 </details>
@@ -23,7 +40,7 @@
 
 <br>
 
-*In plain terms: **CI-22** is the institutions layer's rulebook for commons, cooperatives, mutual aid, and other ways communities govern shared resources without turning every durable arrangement into a state agency, corporation, or adversarial forum. Sentients must be able to pool resources, rotate stewardship, and help each other through non-market reciprocity — and institutions should recognize those records when funding, zoning, tax, or continuity decisions are on the table. Fiscal rules must not accidentally criminalize lawful solidarity. Community warmth is not a license for informal power, hidden exclusion, or appeal denial. Shared commons, cooperative, and mutual-aid pathway floors live in **CJS-5.7** (*quorum and participatory legitimacy terms*); constitutional meaning lives in **Article III-D** (*Labor and Economic Floor*), **Article IX-B** (*Stakeholder Role and Participation Rights*), **Article X-A** (*Non-Imposition and Consent in Association*), and **Chapter Five** *Collective Organization*; this file states what each institution must name, file, and maintain locally.*
+*In plain terms: **CI-22** is the institutions layer's rulebook for commons, cooperatives, mutual aid, and other ways communities govern shared resources without turning every durable arrangement into a state agency, corporation, or adversarial forum. Sentients must be able to pool resources, rotate stewardship, and help each other through non-market reciprocity — and institutions should recognize those records when funding, zoning, tax, or continuity decisions are on the table. Fiscal rules must not accidentally criminalize lawful solidarity. Community warmth is not a license for informal power, hidden exclusion, or appeal denial. Shared commons, cooperative, and mutual-aid pathway floors live in **CJS-5.7** (*quorum and participatory legitimacy terms*). The constitutional meaning sits in **Article III-D** (*Labor and Economic Floor*), **Article IX-B** (*Stakeholder Role and Participation Rights*), **Article X-A** (*Non-Imposition and Consent in Association*), and **Chapter Five** *Collective Organization*. What this file adds is local: what each institution must name, file, and maintain locally.*
 
 **Quick orientation**
 

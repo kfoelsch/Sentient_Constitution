@@ -1,5 +1,5 @@
 <a id="cs-3-part-a-system-classification-machinery"></a>
-## CS-3, Part A: System classification machinery
+# CS-3, Part A: System classification machinery
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -26,7 +26,7 @@
 <br>
 
 <a id="1-purpose-and-scope"></a>
-### 1. Purpose and scope
+## 1. Purpose and scope
 
 *In plain terms: classify systems by what they actually do and what can go wrong — not by what operators say they are — keep that class in a System Classification Record that audits can check, and keep the record challengeable and up to date.*
 
@@ -65,7 +65,7 @@ Systems do **not** operate along a single dimension. Impact, dependency, and ris
 - **Moderate impact** can become critical when scaled
 - **Real-world interactions** can produce materially different systemic and existential risk
 
-**That** evaluation must align governance, responsibility, and rights with performance under real-world and foreseeable conditions.
+That evaluation must align governance, responsibility, and rights with performance under real-world and foreseeable conditions.
 
 <a id="12-classification-and-existential-risk"></a>
 **1.2. Classification and existential risk.**
@@ -111,7 +111,7 @@ Where ambiguity exists, default to the level that protects **Foundational Rights
 CS-3 does not stand alone. Joint reading with CS-2, CS-4, Protocol A, CJS clusters, and Chapter Five meanings is stated in **[CS-1 — Operates in conjunction with](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with)**.
 
 <a id="2-classification-dimensions-and-real-world-application"></a>
-### 2. Classification dimensions and real-world application
+## 2. Classification dimensions and real-world application
 
 *In plain terms: first score dependency, risk, and impact together — then interpret that score under real operating conditions and escalate to the highest class those conditions require.*
 
@@ -148,7 +148,7 @@ Classification must match how the system actually operates — not a best-case l
 Use the **highest applicable** classification where credible risk touches **survival-critical** systems, **foundational** infrastructure, or **large-scale** sentient wellbeing. Reclassify when dependency, risk, impact, interaction, or scale changes conditions materially — including through aggregation, coupling, or adversarial dynamics.
 
 <a id="3-criticality-concentration-temporal-and-adversarial-factors"></a>
-### 3. Criticality, concentration, temporal, and adversarial factors
+## 3. Criticality, concentration, temporal, and adversarial factors
 
 *In plain terms: watch time-sensitive harm, concentration of control, delayed tipping points, and adversarial misuse — and reclassify when any of those change the picture.*
 
@@ -222,7 +222,7 @@ Governance timing for acting on these triggers — including prompt reclassifica
 
 <a id="4-dependency-types-class-ap"></a>
 <a id="4-dependency-types-dep-ap"></a>
-### 4. Dependency types (Dep-A–P)
+## 4. Dependency types (Dep-A–P)
 
 *In plain terms: separately record how hard it is to replace the system — Absolute, Operational, Coordination, Limited, or none meaningful — using Dep-A through Dep-P so the dependency axis stays distinct from impact Class A–P, even when the letter bands match.*
 
@@ -255,7 +255,7 @@ Standardized reliance categories:
 - <a id="45-class-p-no-meaningful-external-dependency"></a><a id="45-dep-p-no-meaningful-external-dependency"></a>**Dep-P — No meaningful external dependency** — contained within a private unit or among voluntary participants; no reliance beyond that boundary
 
 <a id="5-boundaries-timeframes-and-resilience"></a>
-### 5. Boundaries, timeframes, and resilience
+## 5. Boundaries, timeframes, and resilience
 
 *In plain terms: decide what counts as “the system” by what it actually affects, say out loud how much time sentients have when it fails, make it tough enough to take a hit, and able to keep going or recover in time.*
 
@@ -280,7 +280,7 @@ Standardized reliance categories:
   - Scale continuity with how much sentients, environments, and the info-sphere are affected; how much others depend on it; and whether harm could cascade or become permanent
 
 <a id="6-domain-taxonomy-examples-and-scarce-capacity-handling"></a>
-### 6. Domain taxonomy, ordinary examples, and scarce-capacity handling
+## 6. Domain taxonomy, ordinary examples, and scarce-capacity handling
 
 *In plain terms: publish a map of real-world domains so sentients can find what is governed, apply ordinary market and intermediary examples honestly, and when capacity is scarce put survival-critical traffic first.*
 
@@ -341,7 +341,7 @@ When a system offers scarce capacity — network access, compute, model inferenc
 - Charges must **not** become a hidden way to deny baseline participation or lock in chokepoint control
 
 <a id="7-classification-governance-disclosure-and-challenge"></a>
-### 7. Classification governance, disclosure, and challenge
+## 7. Classification governance, disclosure, and challenge
 
 *In plain terms: when certification runs, it must produce or verify the System Classification Record and put that file in the certification case file — then operators must keep owning, disclosing, auditing, challenging, updating, and proving that same file. System Classification Record audits under this section are a sibling audit mode; system alignment certification is one especially large audit process that consumes this file when SAC runs — not the sole home of auditing.*
 

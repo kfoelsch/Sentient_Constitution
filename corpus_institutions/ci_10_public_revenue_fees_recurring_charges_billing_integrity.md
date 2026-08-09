@@ -1,4 +1,22 @@
-## CI-10: Public revenue, fees, recurring charges, and billing integrity
+# CI-10: Public revenue, fees, recurring charges, and billing integrity
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the institutional implementation home for **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -18,12 +36,18 @@
 - [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
 - [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
 - [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [Trust Degradation and Misleading Reliance](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) · [O](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) · [M](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-c)
+- [Coercion and Manipulation](../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [Meaningful Agency](../core_05_band_participation.md#meaningful-agency) · [O](../core_05_band_participation.md#meaningful-agency) · [M](../core_05_band_participation.md#meaningful-agency-a) · [A](../core_05_band_participation.md#meaningful-agency-a) · [C](../core_05_band_participation.md#meaningful-agency-c)
+- [Material Impact](../core_05_band_oversight.md#material-impact) · [O](../core_05_band_oversight.md#material-impact) · [M](../core_05_band_oversight.md#material-impact-a) · [A](../core_05_band_oversight.md#material-impact-a) · [C](../core_05_band_oversight.md#material-impact-c)
+- [Proportionality](../core_05_band_accountability.md#proportionality) · [O](../core_05_band_accountability.md#proportionality) · [M](../core_05_band_accountability.md#proportionality-a) · [A](../core_05_band_accountability.md#proportionality-a) · [C](../core_05_band_accountability.md#proportionality-c)
+- [Accessibility](../core_05_band_participation.md#accessibility-constitutional) · [O](../core_05_band_participation.md#accessibility-constitutional) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
 
 </details>
 
 <br>
 
-*In plain terms: **CI-10** is the institutions layer's money-and-access rulebook — how public revenue, user fees, subscriptions, and recurring charges must stay fair, transparent, and aligned with how essential the underlying system is. Institutions must not price sentients out of survival-critical access, trick them into paid renewals, or trap them in billing cycles they cannot exit.  out of survival-critical access, tricked into paid renewals, or trapped in billing cycles you cannot exit. Shared fiscal and charge-exit floors live in **CJS-5.12** (*burden-of-justification and constraint terms*) and **CJS-5.17** (*interoperability, portability, and exit-integrity terms*); digital pathway detail lives in **CI-12.3**; this file states what each institution must publish and maintain locally.*
+*In plain terms: **CI-10** is the institutions layer's money-and-access rulebook — how public revenue, user fees, subscriptions, and recurring charges must stay fair, transparent, and aligned with how essential the underlying system is. Institutions must not price sentients out of survival-critical access, trick them into paid renewals, or trap them in billing cycles they cannot exit.  out of survival-critical access, tricked into paid renewals, or trapped in billing cycles you cannot exit. Shared fiscal and charge-exit floors live in **CJS-5.12** (*burden-of-justification and constraint terms*) and **CJS-5.17** (*interoperability, portability, and exit-integrity terms*); digital pathway detail lives in **CI-12.3**. What this file adds is local: what each institution must publish and maintain locally.*
 
 **Quick orientation**
 
@@ -37,26 +61,11 @@
 
 *Shared rules live elsewhere.* Class-aligned revenue and access-burden terms are in **CJS-5.12** (*burden of justification and constraint terms*). Commitment, renewal, and charge-exit terms are in **CJS-5.17** (*interoperability, portability, and exit-integrity terms*). **CI-10** does not repeat those floors; it keeps only institutional fiscal-map, supervision, and reporting duties.
 
-### CI-10.1: Public revenue, user fees, and class-aligned burden
+## CI-10.1: Public revenue, user fees, and class-aligned burden
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-10.1: Public revenue, user fees, and class-aligned burden**.
 - Read with: **CI-10.1**; **CI-10.2**; **CI-12.3**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-- [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
-- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
-- [Avoidable Burden](../core_05_band_continuity.md#avoidable-burden) · [O](../core_05_band_continuity.md#avoidable-burden) · [M](../core_05_band_continuity.md#avoidable-burden-a) · [A](../core_05_band_continuity.md#avoidable-burden-a) · [C](../core_05_band_continuity.md#avoidable-burden-c)
-- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -71,26 +80,11 @@ Apply **CJS-5.12** **Class-aligned revenue and access-burden floor** for the sha
 - the **Protocol S5** reporting channel for resource-allocation and funding-stewardship alignment; and
 - named owners for **CI-10.2** and **CI-12.3** where the institution supervises recurring charges or digital billing pathways.
 
-### CI-10.2: Recurring charges, renewals, and commercial billing integrity
+## CI-10.2: Recurring charges, renewals, and commercial billing integrity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-10.2: Recurring charges, renewals, and commercial billing integrity**.
 - Read with: **CI-10.2**; **CI-10.1**; **CI-9**; **CI-12.3**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Trust Degradation and Misleading Reliance](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) · [O](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) · [M](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-c)
-- [Coercion and Manipulation](../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [Meaningful Agency](../core_05_band_participation.md#meaningful-agency) · [O](../core_05_band_participation.md#meaningful-agency) · [M](../core_05_band_participation.md#meaningful-agency-a) · [A](../core_05_band_participation.md#meaningful-agency-a) · [C](../core_05_band_participation.md#meaningful-agency-c)
-- [Material Impact](../core_05_band_oversight.md#material-impact) · [O](../core_05_band_oversight.md#material-impact) · [M](../core_05_band_oversight.md#material-impact-a) · [A](../core_05_band_oversight.md#material-impact-a) · [C](../core_05_band_oversight.md#material-impact-c)
-- [Proportionality](../core_05_band_accountability.md#proportionality) · [O](../core_05_band_accountability.md#proportionality) · [M](../core_05_band_accountability.md#proportionality-a) · [A](../core_05_band_accountability.md#proportionality-a) · [C](../core_05_band_accountability.md#proportionality-c)
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-- [Accessibility](../core_05_band_participation.md#accessibility-constitutional) · [O](../core_05_band_participation.md#accessibility-constitutional) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
 
 </details>
 

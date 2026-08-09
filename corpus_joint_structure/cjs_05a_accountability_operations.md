@@ -1,15 +1,33 @@
-## Accountability leg (CJS-5.11–CJS-5.15)
+# Accountability leg (CJS-5.11–CJS-5.15)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Accountability leg (CJS-5.11–CJS-5.15)**.
+>
+> Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the joint-structure implementation home for **Accountability leg (CJS-5.11–CJS-5.15)**.
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **Accountability leg (CJS-5.11–CJS-5.15)**.
 - Read with: [CJS-5.1](cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) constitutional compass.
 
 </details>
 
 <br>
 
+*In plain terms: These clusters carry the **Accountability** leg into working terms: how far authority may be concentrated, who must justify a decision and how heavily, what makes a procedure sound, who may authorize an override, and when a structure must be reviewed and corrected. The bigger the stake, the stronger each requirement becomes.*
 
 This family operationalizes the **Accountability** leg of the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad): authority distribution, justification burdens, procedural integrity, intervention authorization, and structural review. Accountability clusters scale with [material stake](../core_00_preamble.md#material-stake) and must remain contestable in practice.
 
@@ -27,12 +45,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.11 Accountability: distributed and proportional authority terms**.
 - Read with: **CJS-5.10**; **CJS-5.3**; **CJS-5.15 and CJS-5.6**; **CJS-5.11 and CJS-5.7**; **CJS-5.13**.
-- Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-9.3**.
-- Topic routing (mandatory read-with): **CJS-R14** (*Institutional functional lanes and non-delegable splits*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-3**.
-- Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owners **CI-3**, **CI-4**, **CI-11**, **CI-12**.
 - Read with: **CJS-5.11** (*Accountability: distributed and proportional authority terms*) and **CJS-5.7** (*Participation: quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
 - Read with: **CJS-5.10 — Transparency and Disclosure**
 - Read with: **CJS-5.3 — Auditability**
@@ -42,6 +55,10 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05_band_accountability.md#non-compliance-finding-profile); use **CCL** layer and **structural** or **stewardship** **failure character** when undocumented authority, capture, or concentration is material; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 3](../core_02-03_definition_mechanics.md#3-non-compliance-finding-profiles)).
 - Chapter One basis: Chapter One §7.1, §3, §4.2, §12.2, §6, [§13.1](../core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable), [§13.2](../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router*); primary owner **CI-9.3**.
+- Topic routing (mandatory read-with): **CJS-R14** (*Institutional functional lanes and non-delegable splits*) in **CJS-2.1** (*Topic router*); primary owner **CI-3**.
+- Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router*); primary owners **CI-3**, **CI-4**, **CI-11**, **CI-12**.
+
 </details>
 
 <details>
@@ -60,6 +77,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 
 <br>
 
+*In plain terms: authority, the oversight watching it, and the verification checking both must be judged as one claim. A single piece can look fine on its own while the combination is captured.*
 
 Use this rule when legitimate governance, participation, concentration control, or system-wide review depends on a standalone system, institution, forum, or bounded decision domain, or on how institutions, systems, dependencies, or implementation layers work together.
 
@@ -227,8 +245,6 @@ Stewardship-role depth and non-symbolic governance boundary
 - OP-E: Reviewers must verify that roles have substance and real decision authority.
 - OP-C: Title-only or ceremonial governance is non-compliant.
 
-
-
 ---
 
 ---
@@ -236,10 +252,7 @@ Stewardship-role depth and non-symbolic governance boundary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.12 Accountability: burden-of-justification and constraint terms**.
 - Read with: **CJS-5.10**; **CJS-5.17**; **CJS-5.3**; **CJS-5.15 and CJS-5.6**; **CJS-5.12**; **CJS-5.11 and CJS-5.7**.
-- Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-9.3**.
 - Read with: **CJS-5.12 — Burden of Justification and Constraint**
 - Read with: **CJS-5.11** (*Accountability: distributed and proportional authority terms*) and **CJS-5.7** (*Participation: quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
 - Read with: **CJS-5.10 — Transparency and Disclosure**
@@ -252,6 +265,8 @@ Stewardship-role depth and non-symbolic governance boundary
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05_band_accountability.md#non-compliance-finding-profile); use **substantive** or **evasive** **failure character** when restrictions persist without revalidation; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 3](../core_02-03_definition_mechanics.md#3-non-compliance-finding-profiles)).
 - Chapter One basis: §11.1, §11.3, §11.4, §12.1, §13, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router*); primary owner **CI-9.3**.
+
 </details>
 
 <details>
@@ -270,6 +285,7 @@ Stewardship-role depth and non-symbolic governance boundary
 
 <br>
 
+*In plain terms: Whoever restricts something carries the burden of justifying it — with the lightest effective measure, and with that justification refreshed rather than assumed to hold forever.*
 
 Use this rule when restrictions, least-restrictive choices, or revalidation depend on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior.
 
@@ -337,8 +353,6 @@ Temporal discipline and revalidation
 - OP-E: Evaluation must verify the restriction category, affected parties, rights-collision analysis where applicable, sunset date or event, review cadence, reauthorization rule, forum-review route, and evidence that the restriction remains necessary and least-restrictive during each review period.
 - OP-C: Temporary, emergency, access, disclosure, participation, interoperability, exit, restoration, standing, or governance restrictions that persist by inertia, convenience, unresolved ownership, cost avoidance, or unfinished migration are non-compliant.
 
-
-
 ---
 
 ---
@@ -346,15 +360,7 @@ Temporal discipline and revalidation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.13 Accountability: procedural integrity and adjudication terms**.
 - Read with: **CJS-5.13**; **CJS-5.12**; **CJS-5.2 and CJS-5.6**; **CJS-5.14**.
-- Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-9.3**.
-- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Eleven families)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-3**.
-- Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-4**.
-- Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-5**.
-- Topic routing (mandatory read-with): **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-6**.
-- Topic routing (mandatory read-with): **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-7.3**.
 - Read with: **CJS-5.13 — Procedural Integrity and Adjudication**
 - Read with: **CJS-5.12 — Burden of Justification and Constraint**
 - Read with: **CJS-5.2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
@@ -367,6 +373,13 @@ Temporal discipline and revalidation
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05_band_accountability.md#non-compliance-finding-profile); use **formal** **failure character** for pathway or record defects and **substantive** where merits or binding effect is materially affected; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 3](../core_02-03_definition_mechanics.md#3-non-compliance-finding-profiles)).
 - Chapter One basis: Chapter One §7.1, §2.4, §11.4, §12.1, §13, §6 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router*); primary owner **CI-9.3**.
+- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Eleven famili…*) in **CJS-2.1** (*Topic router*); primary owner **CF-3**.
+- Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router*); primary owner **CF-4**.
+- Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router*); primary owner **CF-5**.
+- Topic routing (mandatory read-with): **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-2.1** (*Topic router*); primary owner **CF-6**.
+- Topic routing (mandatory read-with): **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router*); primary owner **CI-7.3**.
+
 </details>
 
 <details>
@@ -385,6 +398,7 @@ Temporal discipline and revalidation
 
 <br>
 
+*In plain terms: The shared floor for fair process: notice, a real chance to respond, a reviewable decision, and enforcement proportionate to what actually happened.*
 
 Use this rule when due process, reviewability, restoration, or enforcement proportionality depends on a standalone system, institution, forum, or bounded decision domain, or on combined forum, institutional, system, or implementation-layer behavior.
 
@@ -464,16 +478,11 @@ Uncertainty safeguards and anti-abuse floor
 - OP-E: Evaluation must verify model-facing and procedure-facing uncertainty controls are active and auditable.
 - OP-C: Hidden uncertainty or procedure designed to exhaust challengers is non-compliant.
 
-
-
-
 ---
 ## CJS-5.14 Accountability: intervention governance and override-authorization terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.14 Accountability: intervention governance and override-authorization terms**.
 - Read with: **CJS-5.23**; **CJS-5.3**; **CJS-5.15 and CJS-5.6**; **CJS-5.14**; **CJS-5.11 and CJS-5.7**; **CJS-5.12**.
 - Read with: **CJS-5.14 — Intervention governance and override authorization**
 - Read with: **CJS-5.23 — Intervention and Override Rights**
@@ -502,6 +511,8 @@ Uncertainty safeguards and anti-abuse floor
 </details>
 
 <br>
+
+*In plain terms: When someone may override normal operation, who must authorize it, and what record that leaves. An override capability is necessary; an unlogged one is a back door.*
 
 Use this rule when governance-level intervention or override authorization depends on a standalone system, institution, forum, or bounded decision domain, or on how institutions, systems, or implementation layers work together.
 
@@ -544,8 +555,6 @@ Records, transparency, and challenge pathway duties
 - OP-E: Reviewers must verify that records and disclosure are enough for independent review and constitutional challenge.
 - OP-C: Missing records, transparency defaults, or challenge channels are non-compliant.
 
-
-
 ---
 
 ---
@@ -553,10 +562,7 @@ Records, transparency, and challenge pathway duties
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.15 Accountability: structural review, correction urgency, and disclosure terms**.
 - Read with: **CJS-5.19**; **CJS-5.20 and CJS-5.18**; **CJS-5.15 and CJS-5.6**; **CJS-5.13**; **CJS-5.2 and CJS-5.6**.
-- Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.6**.
 - Read with: **CJS-5.13 — Procedural Integrity and Adjudication**
 - Read with: **CJS-5.19 — Graceful Degradation and Failure Mode Integrity**
 - Read with: **CJS-5.20** (*Continuity: reversibility and containment terms*) and **CJS-5.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
@@ -569,6 +575,8 @@ Records, transparency, and challenge pathway duties
 - Cross-leg note: pairs with **CJS-5.6** for evolution, revalidation, and non-entrenchment.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational continuity reporting.
 - Chapter One basis: §2.1, §2.2, §3.1, §4.2, §12.1, §12.2 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-2.1** (*Topic router*); primary owner **CJS-5.6**.
+
 </details>
 
 <details>
@@ -586,6 +594,7 @@ Records, transparency, and challenge pathway duties
 
 <br>
 
+*In plain terms: spot the pattern behind repeated failures, rank how urgently it must be fixed, actually fix it, and tell the people who need to know — without quietly downgrading a record along the way.*
 
 Use this rule when recurring failures, Correction Urgency Level (**CUL**) assignment, structural transparency, or **material classification-record honesty** (correction, precautionary default, and no quiet lowering across owner-layer class/type/status files) depends on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior.
 

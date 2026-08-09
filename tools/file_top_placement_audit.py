@@ -31,11 +31,27 @@ REGISTRY_GLOBS = (
     "corpus_institutions/*_00_registry_and_reading_rules.md",
     "corpus_forum/*_00_registry_and_reading_rules.md",
 )
+# Redirect stubs for retired family files carry no operative body.
+PLACEMENT_EXEMPT = {"cjs_02_implementation_integration_map.md"}
+COMPANION_GLOBS = (
+    "corpus_joint_structure/*.md",
+    "corpus_systems/*.md",
+    "corpus_institutions/*.md",
+    "corpus_forum/*.md",
+)
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--root", type=Path, default=ROOT)
+    parser.add_argument(
+        "--include-companions",
+        action="store_true",
+        help=(
+            "Apply placement-widget discipline to every companion subfile, not "
+            "only the *_00 registry annexes."
+        ),
+    )
     return parser.parse_args()
 
 
@@ -170,6 +186,27 @@ def audit_registry(path: Path, root: Path) -> list[str]:
     return findings
 
 
+def audit_companion(path: Path, root: Path) -> list[str]:
+    """Placement discipline for substantive companion subfiles.
+
+    Looser than the ``*_00`` registry annexes in two ways, matching how the
+    numbered ``core_*`` files already read: a visible **Quick orientation**
+    block is a reader aid rather than a competing front door, and a separate
+    **Reader guidance** widget is permitted alongside Corpus placement
+    (NAV-READER-06).
+    """
+    rel = path.relative_to(root).as_posix()
+    if path.name in PLACEMENT_EXEMPT:
+        return []
+    lines = path.read_text(encoding="utf-8").splitlines()
+    count = placement_widget_count(file_top_region(lines))
+    if count != 1:
+        return [
+            f"{rel}: expected exactly one file-top Corpus placement widget (found {count})"
+        ]
+    return []
+
+
 def main() -> int:
     args = parse_args()
     root = args.root.resolve()
@@ -179,10 +216,20 @@ def main() -> int:
         if path.is_file():
             all_findings.extend(audit_core(path, root))
 
-    for pattern in REGISTRY_GLOBS:
-        for path in sorted(root.glob(pattern)):
-            if path.is_file():
-                all_findings.extend(audit_registry(path, root))
+    registry_paths = {
+        path
+        for pattern in REGISTRY_GLOBS
+        for path in root.glob(pattern)
+        if path.is_file()
+    }
+    for path in sorted(registry_paths):
+        all_findings.extend(audit_registry(path, root))
+
+    if args.include_companions:
+        for pattern in COMPANION_GLOBS:
+            for path in sorted(root.glob(pattern)):
+                if path.is_file() and path not in registry_paths:
+                    all_findings.extend(audit_companion(path, root))
 
     if all_findings:
         print("File-top placement audit failures:", file=sys.stderr)

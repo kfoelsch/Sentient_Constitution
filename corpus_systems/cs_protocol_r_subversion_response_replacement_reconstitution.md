@@ -1,8 +1,48 @@
-## Protocol R — Subversion Response, Replacement, and Reconstitution
+# Protocol R — Subversion Response, Replacement, and Reconstitution
 
-Constitutional tracing: This protocol operationalizes coordinated response when constitutional systems or governance pathways are materially subverted, including near-simultaneous multi-system attacks. **It** implements definitional and scaling requirements in **Sentient Constitution Chapter Five** (*System Capture*; *Emergency and Contingency*; *Accountability*; *Oversight*; *Reversibility* where applicable). **It** implements **Chapter Six, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)** (escalation and emergency proportionality). **It** implements **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) (anti-capture governance safeguards). **It** implements **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) where phased transition is implicated and **Article XXVI-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) for off-ramp continuity and re-baselining. **It** also operates with **CJS-5.20** (*reversibility and containment terms*), **CJS-5.18** (*data-retention and lifecycle-integrity terms*), **CJS-5.11** (*distributed and proportional authority terms*), **CJS-5.2** (*reflexive transparency and accountability terms*), and **CJS-5.13** (*procedural integrity and adjudication terms*). This protocol does not narrow constitutional rights or reviewability.
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-**1. Landscape compromise declaration and activation.** Landscape-scale response may be activated when one or more of the following conditions is met:
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Protocol R — Subversion Response, Replacement, and Reconstitution**.
+>
+> Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the systems implementation home for **Protocol R — Subversion Response, Replacement, and Reconstitution**.
+
+<br>
+
+*In plain terms: **Protocol R** is the response when constitutional systems are not merely failing but actively subverted, possibly several at once. It sets when a compromise may be declared, how authority is replaced without inventing a permanent emergency power, and how a legitimate system is rebuilt afterwards.*
+
+**Constitutional tracing.** This protocol operationalizes coordinated response where constitutional systems or governance pathways are materially subverted, including near-simultaneous multi-system attacks. It implements:
+
+- the definitional and scaling requirements in **Sentient Constitution Chapter Five** — *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility* where applicable;
+- **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) in **Chapter Six**, for escalation and emergency proportionality;
+- **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), for anti-capture governance safeguards;
+- **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*), where phased transition is implicated;
+- **Article XXVI-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*), for off-ramp continuity and re-baselining.
+
+It also operates with these operational clusters:
+
+- **CJS-5.20** (*reversibility and containment terms*);
+- **CJS-5.18** (*data-retention and lifecycle-integrity terms*);
+- **CJS-5.11** (*distributed and proportional authority terms*);
+- **CJS-5.2** (*reflexive transparency and accountability terms*);
+- **CJS-5.13** (*procedural integrity and adjudication terms*).
+
+This protocol does not narrow constitutional rights or reviewability.
+
+<a id="1-landscape-compromise-declaration-and-activation"></a>
+## 1. Landscape compromise declaration and activation
+
+*In plain terms: What has to be true before landscape-scale response can be switched on: credible evidence of coordinated compromise across multiple systems or their dependencies.*
+
+Landscape-scale response may be activated when one or more of the following conditions is met:
 - **credible evidence** of coordinated compromise across multiple Class A/B/C systems or their critical dependencies
 - **concurrent compromise** of governance pathways that materially impairs contestability, oversight, or adjudication integrity
 - **synthetic influence saturation** (including bot farms or adversarial AI farms) that materially distorts legitimacy, standing measurement, or named governance-voting and stakeholder-participation pathways
@@ -14,7 +54,12 @@ Constitutional tracing: This protocol operationalizes coordinated response when 
 - **designation of accountable incident authority** with conflict disclosures and recusal constraints
 - **immediate publication** of a stakeholder-visible summary subject to justified and time-bounded confidentiality limits
 
-**2. Priority triage and dependency-aware containment.** When landscape response is activated, systems must prioritize controls by constitutional harm potential and dependency criticality:
+<a id="2-priority-triage-and-dependency-aware-containment"></a>
+## 2. Priority triage and dependency-aware containment
+
+*In plain terms: Once activated, protect in order of constitutional harm — survival-critical and rights-sustaining pathways first.*
+
+When landscape response is activated, systems must prioritize controls by constitutional harm potential and dependency criticality:
 - **Tier 1:** survival-critical and Rights-Floor sustaining systems and pathways (Class A and critical Class B dependencies)
 - **Tier 2:** high-impact governance and verification infrastructure required for contestability and accountability
 - **Tier 3:** other affected systems where delayed action does not materially increase irreversible harm
@@ -25,7 +70,12 @@ Constitutional tracing: This protocol operationalizes coordinated response when 
 - maintain auditable justification for each containment action, including expected duration and restoration criteria
 - avoid blanket restrictions where scoped controls can achieve equivalent protection
 
-**3. Governance continuity under multi-node compromise.** If regular governance bodies are partially compromised or unavailable, a temporary steward-of-last-resort mechanism may be activated only under strict constraints:
+<a id="3-governance-continuity-under-multi-node-compromise"></a>
+## 3. Governance continuity under multi-node compromise
+
+*In plain terms: If the ordinary governance bodies are themselves compromised, a strictly limited steward of last resort may act, for containment and restoration only.*
+
+If regular governance bodies are partially compromised or unavailable, a temporary steward-of-last-resort mechanism may be activated only under strict constraints:
 - **authority scope limited to containment, continuity, and restoration decisions necessary to preserve constitutional floors**
 - **no permanent constitutional redesign authority**
 - **mandatory independent secondary review as soon as feasible**
@@ -51,7 +101,12 @@ Constitutional tracing: This protocol operationalizes coordinated response when 
 
 Any attempt to use temporary continuity authority for durable concentration of power is non-compliant.
 
-**4. Replacement and reconstitution procedure.** Where subversion cannot be remediated in place, systems must execute replacement or reconstitution using a clean-state pathway:
+<a id="4-replacement-and-reconstitution-procedure"></a>
+## 4. Replacement and reconstitution procedure
+
+*In plain terms: When compromise cannot be cleaned out in place, rebuild from a trusted baseline with acceptance criteria set before re-entry.*
+
+Where subversion cannot be remediated in place, systems must execute replacement or reconstitution using a clean-state pathway:
 - **define trusted baseline and integrity acceptance criteria before re-entry**
 - **revoke and re-issue** compromised credentials, keys, identifiers, and trust anchors as applicable
 - **preserve evidentiary chain and audit records** needed for accountability and remediation
@@ -60,13 +115,23 @@ Any attempt to use temporary continuity authority for durable concentration of p
 
 Replacement planning must include compatibility and exit-integrity protections so dependents are not coerced into lock-in during reconstitution.
 
-**5. Supply-chain and cross-jurisdiction countermeasure coordination.** Response plans must treat supply-chain compromise as a first-class constitutional integrity threat. They must:
+<a id="5-supply-chain-and-cross-jurisdiction-countermeasure-coordination"></a>
+## 5. Supply-chain and cross-jurisdiction countermeasure coordination
+
+*In plain terms: Suppliers and cross-border dependencies are part of the attack surface, so trust boundaries must be mapped and coordinated in advance.*
+
+Response plans must treat supply-chain compromise as a first-class constitutional integrity threat. They must:
 - **identify critical upstream and downstream dependencies and trust boundaries**
 - **coordinate cross-jurisdiction containment, recognition, and fallback enforcement** consistent with **Protocol C**, subsection **8** (*Cross-Jurisdiction Execution and Anti-Evasion Controls*)
 - **maintain continuity obligations** across affiliates, successor entities, and delegated operators
 - **escalate anti-evasion controls** when adversaries use relabeling, jurisdiction transfer, or proxy structures during active response
 
-**6. Crisis communications and anti-disinformation controls.** During activated response, communications must remain accurate, timely, and evidentially grounded. Systems must:
+<a id="6-crisis-communications-and-anti-disinformation-controls"></a>
+## 6. Crisis communications and anti-disinformation controls
+
+*In plain terms: Say what is known, what is not, and when the next update comes. Accuracy under pressure is itself a control.*
+
+During activated response, communications must remain accurate, timely, and evidentially grounded. Systems must:
 - **publish regular status updates** with knowns, unknowns, and next review points
 - **separate coordination-critical disclosures** from exploit-sensitive details under CS-2 — Information types and handling handling rules
 - **flag uncertainty explicitly** and **prohibit materially misleading assurance claims**
@@ -97,7 +162,12 @@ Disinformation resilience controls must include integrity checks for high-impact
 - escalation decision log and reviewer independence statement
 - correction/reversal trace when later evidence invalidates prior assumptions
 
-**7. Exit, restoration, and post-incident revalidation.** Landscape response must close when continuation burden is no longer met or termination criteria are satisfied. At closure:
+<a id="7-exit-restoration-and-post-incident-revalidation"></a>
+## 7. Exit, restoration, and post-incident revalidation
+
+*In plain terms: Emergency authority expires when the justification does, and normal operation resumes only after revalidation.*
+
+Landscape response must close when continuation burden is no longer met or termination criteria are satisfied. At closure:
 - **emergency and continuity authorities expire** unless independently reauthorized
 - **deferred rights and named pathways are restored** on auditable timelines
 - **residual risks, owners, and monitoring cadence are disclosed**

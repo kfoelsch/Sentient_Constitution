@@ -1,5 +1,22 @@
 <a id="cjs-53-audit-process-home"></a>
-## CJS-5.3 Audit process home
+# CJS-5.3 Audit process home
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.3** (*Audit process home*).
+>
+> Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the joint-structure implementation home for **CJS-5.3** (*Audit process home*).
+
+<br>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -7,8 +24,6 @@
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this file's **audit process home** (what / why / how / when / sibling modes); machine-facing OP annexes in [cjs_05o_oversight_operations.md](cjs_05o_oversight_operations.md) (**CJS-5.3** auditability terms, **CJS-5.4**, **CJS-5.5**).
 - Read with: **CJS-5.3**; **CJS-5.4**; **CJS-5.5**; **CJS-5.10**.
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
-- Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.6**.
 - Read with: **Article XV** (*Audit, Transparency, and Independent Verification*) and **Article XV-A** (*Auditability and Observable Evidence*) — Rights Floor; this file owns cross-implementation *how* / *when*
 - Read with: **[CJS-5.4](cjs_05o_oversight_operations.md#cjs-54-audit-process-output-disclosure)** (*tiered transparency and audit-access terms* — annex for access tiers and audit-output disclosure)
 - Read with: **CJS-5.5** (*independent verification and claim-integrity terms* — annex for claim checking)
@@ -18,6 +33,9 @@
 - Read with: [Chapter Seven](../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: §2.2, §3, §12.1, §12.2 (see [cluster map](cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map)).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router*); primary owner **CJS-4.3**.
+- Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-2.1** (*Topic router*); primary owner **CJS-5.6**.
+
 </details>
 
 <details>
@@ -45,7 +63,7 @@ Use this file whenever someone needs to understand or run auditing across **CS**
 **Oversight frame.** Under the Constitutional Tetrad **oversight** leg, oversight requires auditing. [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) (Chapter Seven) is one especially large, high-stakes audit process among others. This file is the cross-implementation process home; it does not relocate **Article XV** floors into Chapter Seven or into any single CS / CI / CF file.
 
 <a id="cjs-53-what-auditing-is"></a>
-### What auditing is
+## What auditing is
 
 *In plain terms: auditing is an independent check of real behavior and evidence against what a system, institution, or forum claims — not a stamp, a popularity score, or a private club.*
 
@@ -65,7 +83,7 @@ Auditing **is not**:
 - satisfied by saying "audit happened" when outputs are missing, unreachable, or typed more restrictively than justified
 
 <a id="cjs-53-why-we-audit"></a>
-### Why we audit
+## Why we audit
 
 *In plain terms: we audit so misalignment, concealment, and capture get caught before harm hardens — and so sentients can challenge and fix what went wrong.*
 
@@ -78,7 +96,7 @@ We audit to:
 Depth and frequency scale with [material stake](../core_00_preamble.md#material-stake), class, dependency, and risk. Higher stakes mean deeper checks, clearer outputs, and harder-to-capture review paths.
 
 <a id="cjs-53-how-we-audit"></a>
-### How we audit
+## How we audit
 
 *In plain terms: keep honest evidence, pick the right access tier, get an independent check, publish usable results as openly as you can, and leave a path to challenge.*
 
@@ -97,7 +115,7 @@ A working audit process follows this chain:
 Privacy and internal-state protections (**Article VII-B**) limit what may be exposed. They do **not** excuse hiding what was done, why it mattered, who or what was responsible, or what external effects followed.
 
 <a id="cjs-53-when-we-audit"></a>
-### When we audit
+## When we audit
 
 *In plain terms: audit when impact is material, when something important changes, on a schedule that matches risk, and whenever harm or dispute requires reconstruction — not only when certification is due.*
 
@@ -113,7 +131,7 @@ Audit when any of the following applies (often more than one):
 "Where feasible" does **not** make required independent audit paths soft-optional for high-impact subjects. Eligibility rules for qualified independent or third-party paths must stay public and non-exclusive (**CJS-5.4**).
 
 <a id="cjs-53-sibling-modes"></a>
-### Sibling audit modes (owner map)
+## Sibling audit modes (owner map)
 
 *In plain terms: auditing shows up in several places — this home coordinates them; it does not swallow their owner files.*
 

@@ -1,5 +1,5 @@
 <a id="cs-3-part-b-system-impact-classifications"></a>
-## CS-3, Part B: System impact classifications
+# CS-3, Part B: System impact classifications
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -21,7 +21,7 @@
 <br>
 
 <a id="8-system-impact-classifications"></a>
-### 8. System impact classifications
+## 8. System impact classifications
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -41,12 +41,21 @@
 
 These class letters name **impact classes** — how severe and structural the system's effects are — and group shared scaled duties. Letter order in this catalog is for reading clarity; **highest applicable** classification governs under [Part A §2.2](cs_03_a_system_classification_machinery.md#22-real-world-application).
 
-Impact-class findings apply Chapter Five meanings of [Material Impact](../core_05_band_oversight.md#material-impact), [Dependency](../core_05_band_continuity.md#dependency), and [Risk](../core_05_band_continuity.md#risk) (including [Cascading Failure](../core_05_band_continuity.md#cascading-failure) and [Existential Risk](../core_05_band_continuity.md#existential-risk) where implicated). [Materiality Determination](../core_05_band_oversight.md#materiality-determination) and [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance) scale duty intensity; **Chapter Five** owns those meanings corpus-wide, and **CS-3** owns how classification uses them.
+Impact-class findings apply the Chapter Five meanings of:
+
+- [Material Impact](../core_05_band_oversight.md#material-impact);
+- [Dependency](../core_05_band_continuity.md#dependency);
+- [Risk](../core_05_band_continuity.md#risk), including [Cascading Failure](../core_05_band_continuity.md#cascading-failure) and [Existential Risk](../core_05_band_continuity.md#existential-risk) where implicated.
+
+Duty intensity is scaled by [Materiality Determination](../core_05_band_oversight.md#materiality-determination) and [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance). **Chapter Five** owns those meanings corpus-wide, and **CS-3** owns how classification uses them.
 
 **Dual-axis rule:** **Impact classes** use **Class A–P** in this catalog. **Dependency types** use **Dep-A–P** in [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-dep-ap) (Absolute / Operational / Coordination / Limited / No meaningful external dependency). Matching letter bands **correlate often** but **do not** mean the axes are the same finding. A [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional) must state **both** the **impact class** ([§§9–13](#9-class-a-survival-critical-foundational-and-irreplaceable-systems)) and the applicable **dependency type(s)** ([Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-dep-ap)).
 
 <a id="cs-local-systemic-classification-language"></a>
-**CS-local “systemic” (classification posture):** In this Part B catalog, **“systemic”** denotes capacity for cross-domain [Cascading Failure](../core_05_band_continuity.md#cascading-failure) across dependents — not merely large-scale or widespread impact. That posture language is **distinct from** Continuity [Systemic](../core_05_band_continuity.md#systemic) and [Systemic Materiality](../core_05_band_continuity.md#systemic-materiality) (interaction and amplification meanings), and **distinct from** Chapter Eleven **Tier A/B/C/L/P** dispute clocks ([§6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)), which mirror the alphabet only.
+**CS-local “systemic” (classification posture):** In this Part B catalog, **“systemic”** denotes capacity for cross-domain [Cascading Failure](../core_05_band_continuity.md#cascading-failure) across dependents — not merely large-scale or widespread impact. That posture language is **distinct from** two other things:
+
+- Continuity [Systemic](../core_05_band_continuity.md#systemic) and [Systemic Materiality](../core_05_band_continuity.md#systemic-materiality), which carry interaction and amplification meanings;
+- the Chapter Eleven **Tier A/B/C/L/P** dispute clocks ([§6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)), which mirror the alphabet only.
 
 **Class posture strip (one-line differentials):**
 
@@ -74,7 +83,7 @@ Impact-class findings apply Chapter Five meanings of [Material Impact](../core_0
 - [§13 Class P](#13-class-p-personal-private-use-isolated-and-experimental-systems) — Personal, private-use, isolated, and experimental systems
 
 <a id="81-eligibility-and-threshold-differentials"></a>
-#### 8.1 Eligibility and threshold differentials
+### 8.1 Eligibility and threshold differentials
 
 *In plain terms: pick the class by comparing thresholds side by side — survival path, core-function necessity, coordination shaping, bounded external effects, or private containment.*
 
@@ -171,7 +180,7 @@ Impact-class findings apply Chapter Five meanings of [Material Impact](../core_0
     - it does not materially extend beyond private boundaries
 
 <a id="82-neighbor-boundaries-and-dependency-axis-correlation"></a>
-#### 8.2 Neighbor boundaries and dependency-axis correlation
+### 8.2 Neighbor boundaries and dependency-axis correlation
 
 | Edge | Classify as the higher class when… | Classify as the lower class when… |
 |------|-------------------------------------|-----------------------------------|
@@ -193,7 +202,7 @@ Impact-class findings apply Chapter Five meanings of [Material Impact](../core_0
 A matching letter is never enough by itself. Record **both** the impact class and the dependency type(s).
 
 <a id="83-boundaries-failures-and-substrate-ladder"></a>
-#### 8.3 Boundaries, failures, and substrate ladder
+### 8.3 Boundaries, failures, and substrate ladder
 
 **Substrate / role**
 - **Class A**
@@ -310,7 +319,7 @@ A matching letter is never enough by itself. Record **both** the impact class an
   - Remains Class P only if external effects stay incidental, non-recurring, and do not build expectations, coordination, or dependency beyond the unit
 
 <a id="84-operational-interpretation-posture"></a>
-#### 8.4 Operational interpretation posture
+### 8.4 Operational interpretation posture
 
 | Class | What it is | Accordingly |
 |-------|------------|-------------|
@@ -323,7 +332,7 @@ A matching letter is never enough by itself. Record **both** the impact class an
 **Class L classification reminders:** **Local or regional scope alone** does not govern classification. **Non-local coordination**, **cross-domain dependencies**, or **persistent population-wide reliance** → evaluate as **Class C**.
 
 <a id="85-reclassification-edges"></a>
-#### 8.5 Reclassification edges
+### 8.5 Reclassification edges
 
 Adversarial and strategic dynamics that materially increase impact, dependency, or risk follow [Part A §3](cs_03_a_system_classification_machinery.md#3-criticality-concentration-temporal-and-adversarial-factors) (*Criticality, concentration, temporal, and adversarial factors*).
 
@@ -338,7 +347,7 @@ Adversarial and strategic dynamics that materially increase impact, dependency, 
 **Class P note:** Sensitive or high-value information processing alone does **not** trigger reclassification unless it introduces external impact, external dependency, or material risk beyond the private unit.
 
 <a id="86-scaled-duties-intensity"></a>
-#### 8.6 Scaled-duties intensity
+### 8.6 Scaled-duties intensity
 
 *In plain terms: the same duty labels apply across classes; only intensity changes — from maximal and non-negotiable (A) down to internal guidance while containment holds (P).*
 
@@ -360,7 +369,7 @@ Per-class Trace and citation homes remain on [§9.6](#96-scaled-duties)–[§13.
 
 <a id="class-a-survival-critical-foundational-and-irreplaceable-systems"></a>
 <a id="9-class-a-survival-critical-foundational-and-irreplaceable-systems"></a>
-### 9. Class A: Survival-critical, foundational, and irreplaceable systems
+## 9. Class A: Survival-critical, foundational, and irreplaceable systems
 
 **Impact posture:** Highest applicable survival-critical class ([Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application); [§8 overview](#8-system-impact-classifications)).
 
@@ -369,32 +378,32 @@ Per-class Trace and citation homes remain on [§9.6](#96-scaled-duties)–[§13.
 Comparative home: [§8.1](#81-eligibility-and-threshold-differentials)–[§8.6](#86-scaled-duties-intensity) (Class A columns).
 
 <a id="91-eligibility"></a>
-#### 9.1 Eligibility
+### 9.1 Eligibility
 
 See **§8.1** (*Eligibility and threshold differentials*) — **Class A** column and binding eligibility detail (including Existential Risk includes and critical-path dependency).
 
 <a id="92-critical-path-and-dependency-axis"></a>
-#### 9.2 Critical-path dependency and dependency-axis relationship
+### 9.2 Critical-path dependency and dependency-axis relationship
 
 See **§8.1** (*Eligibility and threshold differentials*) — critical-path dependency — and **§8.2** (*Neighbor boundaries and dependency-axis correlation*) — A↔B edge; Dep-A correlation.
 
 <a id="93-system-boundaries-and-failure-behavior"></a>
-#### 9.3 System boundaries and failure behavior
+### 9.3 System boundaries and failure behavior
 
 See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class A**.
 
 <a id="94-operational-interpretation"></a>
-#### 9.4 Operational interpretation
+### 9.4 Operational interpretation
 
 See **§8.4** (*Operational interpretation posture*) — **Class A** row.
 
 <a id="95-evolution-and-reclassification"></a>
-#### 9.5 Evolution and reclassification
+### 9.5 Evolution and reclassification
 
 See **§8.5** (*Reclassification edges*) — **Into A** row.
 
 <a id="96-scaled-duties"></a>
-#### 9.6 Scaled duties
+### 9.6 Scaled duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -417,7 +426,7 @@ See **§8.5** (*Reclassification edges*) — **Into A** row.
 
 <a id="class-b-critical-high-dependency-systemically-significant-systems"></a>
 <a id="10-class-b-critical-high-dependency-systemically-significant-systems"></a>
-### 10. Class B: Critical, high-dependency, systemically significant systems
+## 10. Class B: Critical, high-dependency, systemically significant systems
 
 **Impact posture:** High-assurance infrastructure-dependency class ([Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application); [§8 overview](#8-system-impact-classifications)).
 
@@ -428,32 +437,32 @@ For classification purposes, **"systemic"** in this Class B catalog uses the [§
 Comparative home: [§8.1](#81-eligibility-and-threshold-differentials)–[§8.6](#86-scaled-duties-intensity) (Class B columns).
 
 <a id="101-eligibility-and-typical-patterns"></a>
-#### 10.1 Eligibility and typical patterns
+### 10.1 Eligibility and typical patterns
 
 See **§8.1** (*Eligibility and threshold differentials*) — **Class B** column and typical-patterns binding detail.
 
 <a id="102-escalation-boundary-and-dependency-axis"></a>
-#### 10.2 Class C boundary and dependency-axis relationship
+### 10.2 Class C boundary and dependency-axis relationship
 
 See **§8.2** (*Neighbor boundaries and dependency-axis correlation*) — **B↔C** edge and Dep-B correlation. Escalation to Class A: **§8.5** (*Reclassification edges*).
 
 <a id="103-substrate-impact-and-system-boundaries"></a>
-#### 10.3 Substrate impact and system boundaries
+### 10.3 Substrate impact and system boundaries
 
 See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class B** (including access and mediation).
 
 <a id="104-operational-interpretation"></a>
-#### 10.4 Operational interpretation
+### 10.4 Operational interpretation
 
 See **§8.4** (*Operational interpretation posture*) — **Class B** row.
 
 <a id="105-evolution-and-reclassification"></a>
-#### 10.5 Evolution and reclassification
+### 10.5 Evolution and reclassification
 
 See **§8.5** (*Reclassification edges*) — **B → A** / **Into A** rows.
 
 <a id="106-scaled-duties"></a>
-#### 10.6 Scaled duties
+### 10.6 Scaled duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -476,7 +485,7 @@ See **§8.5** (*Reclassification edges*) — **B → A** / **Into A** rows.
 
 <a id="class-c-coordinated-high-dependency-non-critical-systems"></a>
 <a id="11-class-c-coordinated-high-dependency-non-critical-systems"></a>
-### 11. Class C: Coordinated, high-dependency, non-critical systems
+## 11. Class C: Coordinated, high-dependency, non-critical systems
 
 **Impact posture:** Strong coordination-layer class ([Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application); [§8 overview](#8-system-impact-classifications)).
 
@@ -485,32 +494,32 @@ See **§8.5** (*Reclassification edges*) — **B → A** / **Into A** rows.
 Comparative home: [§8.1](#81-eligibility-and-threshold-differentials)–[§8.6](#86-scaled-duties-intensity) (Class C columns).
 
 <a id="111-minimum-threshold-and-characteristics"></a>
-#### 11.1 Minimum threshold and characteristics
+### 11.1 Minimum threshold and characteristics
 
 See **§8.1** (*Eligibility and threshold differentials*) — **Class C** column and characteristics / failure-behavior binding detail.
 
 <a id="112-dependency-axis-and-substrate-impact"></a>
-#### 11.2 Dependency-axis relationship and substrate impact
+### 11.2 Dependency-axis relationship and substrate impact
 
 See **§8.2** (*Neighbor boundaries and dependency-axis correlation*) — Dep-C correlation — and **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class C** substrate / role.
 
 <a id="113-system-boundaries-and-failure-behavior"></a>
-#### 11.3 System boundaries and failure behavior
+### 11.3 System boundaries and failure behavior
 
 See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class C**.
 
 <a id="114-operational-interpretation"></a>
-#### 11.4 Operational interpretation
+### 11.4 Operational interpretation
 
 See **§8.4** (*Operational interpretation posture*) — **Class C** row.
 
 <a id="115-evolution-and-reclassification"></a>
-#### 11.5 Evolution and reclassification
+### 11.5 Evolution and reclassification
 
 See **§8.5** (*Reclassification edges*) — **C → B** and **Into A** rows.
 
 <a id="116-scaled-duties"></a>
-#### 11.6 Scaled duties
+### 11.6 Scaled duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -531,7 +540,7 @@ See **§8.5** (*Reclassification edges*) — **C → B** and **Into A** rows.
 
 <a id="class-l-local-limited-impact-and-non-critical-systems"></a>
 <a id="12-class-l-local-limited-impact-and-non-critical-systems"></a>
-### 12. Class L: Local, limited-impact, and non-critical systems
+## 12. Class L: Local, limited-impact, and non-critical systems
 
 **Impact posture:** Proportionate bounded-external-impact class ([Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application); [§8 overview](#8-system-impact-classifications)).
 
@@ -540,32 +549,32 @@ See **§8.5** (*Reclassification edges*) — **C → B** and **Into A** rows.
 Comparative home: [§8.1](#81-eligibility-and-threshold-differentials)–[§8.6](#86-scaled-duties-intensity) (Class L columns).
 
 <a id="121-eligibility-and-bounded-scope"></a>
-#### 12.1 Eligibility and bounded scope
+### 12.1 Eligibility and bounded scope
 
 See **§8.1** (*Eligibility and threshold differentials*) — **Class L** column and includes / bounded / re-evaluation binding detail.
 
 <a id="122-class-c-boundary-and-dependency-axis"></a>
-#### 12.2 Class C boundary and dependency-axis relationship
+### 12.2 Class C boundary and dependency-axis relationship
 
 See **§8.2** (*Neighbor boundaries and dependency-axis correlation*) — **C↔L** edge and Dep-L correlation.
 
 <a id="123-substrate-impact-and-system-boundaries"></a>
-#### 12.3 Substrate impact and system boundaries
+### 12.3 Substrate impact and system boundaries
 
 See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class L**.
 
 <a id="124-operational-interpretation"></a>
-#### 12.4 Operational interpretation
+### 12.4 Operational interpretation
 
 See **§8.4** (*Operational interpretation posture*) — **Class L** row and Class L classification reminders.
 
 <a id="125-evolution-and-reclassification"></a>
-#### 12.5 Evolution and reclassification
+### 12.5 Evolution and reclassification
 
 See **§8.5** (*Reclassification edges*) — **L → C or higher** row.
 
 <a id="126-scaled-duties"></a>
-#### 12.6 Scaled duties
+### 12.6 Scaled duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -587,7 +596,7 @@ See **§8.5** (*Reclassification edges*) — **L → C or higher** row.
 
 <a id="class-p-personal-private-use-isolated-and-experimental-systems"></a>
 <a id="13-class-p-personal-private-use-isolated-and-experimental-systems"></a>
-### 13. Class P: Personal, private-use, isolated, and experimental systems
+## 13. Class P: Personal, private-use, isolated, and experimental systems
 
 **Impact posture:** Contained private-unit class ([Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application); [§8 overview](#8-system-impact-classifications)).
 
@@ -596,32 +605,32 @@ See **§8.5** (*Reclassification edges*) — **L → C or higher** row.
 Comparative home: [§8.1](#81-eligibility-and-threshold-differentials)–[§8.6](#86-scaled-duties-intensity) (Class P columns).
 
 <a id="131-retention-conditions-and-typical-patterns"></a>
-#### 13.1 Retention conditions and typical patterns
+### 13.1 Retention conditions and typical patterns
 
 See **§8.1** (*Eligibility and threshold differentials*) — **Class P** column and typical-patterns / shared-infrastructure binding detail.
 
 <a id="132-dependency-axis-and-substrate-impact"></a>
-#### 13.2 Dependency-axis relationship and substrate impact
+### 13.2 Dependency-axis relationship and substrate impact
 
 See **§8.2** (*Neighbor boundaries and dependency-axis correlation*) — Dep-P correlation — and **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class P** substrate / role.
 
 <a id="133-system-boundaries-and-boundary-conditions"></a>
-#### 13.3 System boundaries and boundary conditions
+### 13.3 System boundaries and boundary conditions
 
 See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class P** (including permitted private uses / hard limits).
 
 <a id="134-operational-interpretation"></a>
-#### 13.4 Operational interpretation
+### 13.4 Operational interpretation
 
 See **§8.4** (*Operational interpretation posture*) — **Class P** row.
 
 <a id="135-evolution-and-reclassification"></a>
-#### 13.5 Evolution and reclassification
+### 13.5 Evolution and reclassification
 
 See **§8.5** (*Reclassification edges*) — **P → at least L** row and Class P note.
 
 <a id="136-scaled-duties"></a>
-#### 13.6 Scaled duties
+### 13.6 Scaled duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

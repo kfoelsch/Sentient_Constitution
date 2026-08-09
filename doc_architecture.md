@@ -97,6 +97,7 @@ Keep constitutional concept + O/M/A/C boundary only; cite owner homes for instit
 | NAV-PLACEMENT-01 | File-top Corpus placement widget | `make file-top-placement-audit` |
 | NAV-IMPL-LANDING-01 | Implementation-corpus wrapper landing page | Manual (see **section 4**) |
 | NAV-IMPL-SCOPE-01 | Implementation `*-1` scope/boundary page format | Manual (see **section 4**) |
+| NAV-IMPL-SUBFILE-01 | Companion subfile anatomy: H1, placement widget, owner line, gloss | `make companion-anatomy-audit`, `make file-top-placement-audit-companions` |
 | OWNER-OPENING-01 | Binding constitutional-owner opening statement | Manual (see **section 4**) |
 | LINK-IN-PARA-14 | Load-bearing in-paragraph links | `make in-paragraph-link-audit` |
 | CH5-GRAVITY | Chapter Five admission / de-bundling | `make ch5-definitions-gravity-audit` |
@@ -427,6 +428,31 @@ Each layer’s first substantive file (`cjs_01_*`, `cs_01_*`, `ci_01_*`, `cf_01_
 **Do not** keep a second **Quick orientation** that restates owns / does-not-own or reprints apply-CJS boilerplate already covered by **Read next** and **CJS-1.2**.
 
 **Reference shapes:** [CS-1](corpus_systems/cs_01_scope_purpose_identifier_rules.md); [CJS-1](corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md); [CI-1](corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md); [CF-1](corpus_forum/cf_01_scope_authority_boundary_rules.md).
+
+### Companion subfile anatomy (NAV-IMPL-SUBFILE-01)
+
+Every substantive `CJS` / `CS` / `CI` / `CF` subfile opens the way a numbered `core_*` file does, so a reader arriving from a citation lands on a title and a sentence rather than on collapsed routing widgets.
+
+**Visible stack (in this order):**
+
+1. `<a id="xx-n"></a>` and an `#` H1 carrying the stable family ID and a title — `# CF-12: Forum continuity`.
+2. Collapsed **Corpus placement** widget: layer, binding status, and where to start reading.
+3. One-line **owner sentence** in operative position — `This file is the forum implementation home for **CF-12**.`
+4. One file-level collapsed **Trace**, then **Definitions · Assessment · Compliance** where the file invokes Chapter Five terms.
+5. One-line `*In plain terms:*` gloss for the file.
+6. `##` sections, each with an `<a id="...">` anchor, then its own `*In plain terms:*` gloss before the operative prose.
+
+**Section-level widgets are the exception, not the default.** A section-level **Trace** survives only where it carries routing that cannot be derived from the file-level block — chiefly a `Topic routing (primary owner):` bullet that `make router-bidirectional-audit` requires inside the owning section slice. A section-level **DAC** survives only where that section invokes Chapter Five terms beyond the file-level set. Three line shapes are prohibited outright, because they state nothing a reader could not already see:
+
+- `- Downstream: this section's local operational requirements for **X**.` where `X` is the enclosing section;
+- `- Read with: **X**.` naming only the enclosing section;
+- an `- Upstream:` line byte-identical to the file-level Trace.
+
+**Heading depth carries no meaning.** Markdown slugs derive from heading text, not depth, so promoting `### CF-12.1 Rights-Floor continuity rule` to `##` leaves `#cf-121-rights-floor-continuity-rule` unchanged and breaks no inbound reference. Prefer an explicit `<a id="...">` above the heading so the link survives a later rewording; `make architecture-index` regenerates the stable-ID index from these.
+
+**Reference shapes:** [CS-2 Part A](corpus_systems/cs_02_a_information_types_and_handling.md) for numbered sections with anchors; [CS-4](corpus_systems/cs_04_critical_system_stewardship.md) and [Protocol S5](corpus_systems/cs_protocol_s5_resource_allocation_funding_stewardship.md) for files rebuilt from unstructured prose.
+
+**Supporting tools** (one-shot migration helpers, not gates): `tools/prune_companion_scaffolding.py`, `tools/promote_cs_topic_labels.py`, `tools/add_section_anchors.py`, `tools/collapse_pronoun_chains.py`, `tools/debold_shouting_prose.py`, `tools/insert_section_glosses.py`. Wording changes to operative text are gated on `tools/obligation_inventory_diff.py` (`make obligation-snapshot` before, `make obligation-diff` after).
 
 ### Plain-language guardrails (summary)
 

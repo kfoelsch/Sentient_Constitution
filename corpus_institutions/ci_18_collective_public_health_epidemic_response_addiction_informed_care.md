@@ -1,9 +1,26 @@
-## CI-18: Collective public health, epidemic response, and addiction-informed care
+# CI-18: Collective public health, epidemic response, and addiction-informed care
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-18** (*Collective public health, epidemic response, and addiction-informed care*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the institutional implementation home for **CI-18** (*Collective public health, epidemic response, and addiction-informed care*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-18: Collective public health, epidemic response, and addiction-informed care**.
 - Read with: **CI-18**; **CI-5**; **CI-7**.
 
 </details>
@@ -23,7 +40,7 @@
 
 <br>
 
-*In plain terms: **CI-18** is the institutions layer's rulebook for epidemics, environmental exposure, population-level harm, and addiction — treated as collective-care and governance problems, not as excuses for permanent emergency rule or stigma-driven punishment. When a restriction limits movement, association, access, or participation, the support bundle that makes that restriction necessary must come with it: housing, subsistence, care access, accessibility, ventilation, treatment, or stabilization support where material. Addiction response must route toward care and stabilization, not shame, criminalization, or coercive treatment when a less restrictive pathway can work. Emergency secrecy must have a sunset and review route. Shared collective-health and emergency support-bundle floors live in **CJS-5.12** (*burden-of-justification and constraint terms*); constitutional meaning lives in **Article I-D** (*Existential Risk and Ecological Recovery Capacity*), **Article III-C** (*Bodily-Maintenance and Healthcare Access*), **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*), and **Article XXIII-D** (*Emergency Measures and Continuation Burden*); this file states what each institution must name, file, and maintain locally.*
+*In plain terms: **CI-18** is the institutions layer's rulebook for epidemics, environmental exposure, population-level harm, and addiction — treated as collective-care and governance problems, not as excuses for permanent emergency rule or stigma-driven punishment. When a restriction limits movement, association, access, or participation, the support bundle that makes that restriction necessary must come with it: housing, subsistence, care access, accessibility, ventilation, treatment, or stabilization support where material. Addiction response must route toward care and stabilization, not shame, criminalization, or coercive treatment when a less restrictive pathway can work. Emergency secrecy must have a sunset and review route. Shared collective-health and emergency support-bundle floors live in **CJS-5.12** (*burden-of-justification and constraint terms*). The constitutional meaning sits in **Article I-D** (*Existential Risk and Ecological Recovery Capacity*), **Article III-C** (*Bodily-Maintenance and Healthcare Access*), **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*), and **Article XXIII-D** (*Emergency Measures and Continuation Burden*). What this file adds is local: what each institution must name, file, and maintain locally.*
 
 **Quick orientation**
 

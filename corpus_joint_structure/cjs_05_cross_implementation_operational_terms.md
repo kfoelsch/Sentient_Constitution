@@ -1,10 +1,26 @@
-## CJS-5: operational cluster library
+# CJS-5: operational cluster library
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5** (*operational cluster library*).
+>
+> Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the joint-structure implementation home for **CJS-5** (*operational cluster library*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5: operational cluster library**.
-- Read with: **CJS-5**.
 
 </details>
 
@@ -19,8 +35,9 @@
 
 <br>
 
-
 This file is the navigation index for implementation and cross-implementation operational cluster terms used by implementation-label and implementation text.
+
+*In plain terms: **CJS-5** is the shared vocabulary shelf. Rather than each implementation layer inventing its own wording for the same operational idea, the clusters here state a term once so that **CJS**, **CS**, **CI**, and **CF** can be checked against the same standard. They add to the owner-file rules; they do not replace them.*
 
 Use these clusters as shared operational terms within standalone implementation scopes and as joint interface terms for combined satisfaction across **CJS**, **CS**, **CI**, and **CF**. They supplement the implementation-group label text and owner-file rules; they do not replace either.
 
@@ -30,9 +47,6 @@ Use these clusters as shared operational terms within standalone implementation 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.0 Cross-band: Role-definition preface and standing competency bar and clearance interface**.
-- Read with: **CJS-5.0**.
 - Chapter One basis: Chapter One §2.1, §3.4, §5.2, §7.1, §7.2, §10 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 
 </details>
@@ -52,6 +66,8 @@ Use these clusters as shared operational terms within standalone implementation 
 </details>
 
 <br>
+
+*In plain terms: Read this first whenever a later cluster turns on who is allowed to do something. It fixes the shared vocabulary for roles and competency across CJS, without displacing the governance rules that define those roles.*
 
 Use this preface first whenever a later CJS cluster depends on who may hold authority, support review, staff a lane, operate a material function, or make a binding decision. It gives shared role vocabulary for CJS only. It does not replace the role rules in `core_12-12_governance.md` **Chapter Twelve**, section **5**; **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*); [Chapter Nine §4.2](../core_09-09_standing_integration.md#42-general-standing-locks) (*General standing locks*), [§5.5](../core_09-09_standing_integration.md#55-special-locks) (*Special locks*), and [§6.2](../core_09-09_standing_integration.md#62-competency-bars-and-clearances) (*Competency bars and clearances*); `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*); `corpus_systems.md` **CS-4 — Critical system stewardship**; or `corpus_forum.md` forum-formation rules.
 
@@ -129,11 +145,11 @@ Stewardship role
 - OP-E: Reviewers must verify sustained engagement, competency development, continuity, incentives, auditability, and anti-capture controls proportional to impact and classification.
 - OP-C: Stewardship is non-compliant when it is symbolic, ceremonial, or lacks the real authority and competence needed for the duty.
 
-
-
 ---
 
 ## CJS-5.1 Library: Constitutional compass and cluster map
+*In plain terms: The index to the cluster library: which cluster covers what, and which constitutional principle each one carries into practice.*
+
 <a id="cjs-51-constitutional-compass-and-cluster-map"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

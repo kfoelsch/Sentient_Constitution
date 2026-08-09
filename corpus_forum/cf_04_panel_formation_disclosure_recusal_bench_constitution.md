@@ -1,13 +1,31 @@
-## CF-4: Panel formation, disclosure, recusal, and lawful bench constitution
+# CF-4: Panel formation, disclosure, recusal, and lawful bench constitution
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
+>
+> Start at the [Forums landing page](../corpus_forum.md) for reading order, or the [forums registry](cf_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the forum implementation home for **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-4.1 Lawful panel definitions](#cf-41-lawful-panel-definitions); [CF-4.2 Minimum lawful-panel requirements](#cf-42-minimum-lawful-panel-requirements); [CF-4.3 Publication and pre-assignment transparency](#cf-43-publication-and-pre-assignment-transparency); [CF-4.4 Mandatory disclosures before merits participation](#cf-44-mandatory-disclosures-before-merits-participation); [CF-4.5 Recusal triggers](#cf-45-recusal-triggers).
 - Read with: **CF-4**; **CF-4.1**; **CF-4.2**; **CF-4.3**; **CF-4.4**; **CF-4.5**; [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
-- Topic routing (mandatory read-with): **CJS-R11A** (*Fallback operation*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-13**.
-- Topic routing (mandatory read-with): **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-7.3**.
-- Topic routing (primary owner): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.5**, **CJS-5.13** (*procedural integrity and adjudication terms*), **CI-4**, **CI-5**, [Chapter Nine §5.5](../core_09-09_standing_integration.md#55-special-locks), [§6.2](../core_09-09_standing_integration.md#62-competency-bars-and-clearances), [§8](../core_09-09_standing_integration.md#8-restoration-and-reassessment), and **Chapter Eleven**.
+- Topic routing (mandatory read-with): **CJS-R11A** (*Fallback operation*) in **CJS-2.1** (*Topic router*); primary owner **CF-13**.
+- Topic routing (mandatory read-with): **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router*); primary owner **CI-7.3**.
+- Topic routing (primary owner): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router*). Mandatory read-with: **CJS-4.5**, **CJS-5.13**, **CI-4**, **CI-5**.
 
 </details>
 
@@ -21,11 +39,24 @@
 - [Incentive Alignment](../core_05_band_integrative.md#incentive-alignment) · [O](../core_05_band_integrative.md#incentive-alignment) · [M](../core_05_band_integrative.md#incentive-alignment-a) · [A](../core_05_band_integrative.md#incentive-alignment-a) · [C](../core_05_band_integrative.md#incentive-alignment-c)
 - [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
+- [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
+- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
+- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
+- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
+- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
+- [Unified Incident Record](../core_05_band_accountability.md#unified-incident-record) · [O](../core_05_band_accountability.md#unified-incident-record) · [M](../core_05_band_accountability.md#unified-incident-record-a) · [A](../core_05_band_accountability.md#unified-incident-record-a) · [C](../core_05_band_accountability.md#unified-incident-record-c)
+- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
+- [Violation Nature](../core_05_band_accountability.md#violation-nature-chapter-six) · [O](../core_05_band_accountability.md#violation-nature-chapter-six) · [M](../core_05_band_accountability.md#violation-nature-chapter-six-a) · [A](../core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](../core_05_band_accountability.md#violation-nature-chapter-six-c)
+- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_integrative.md#sentient-composite-c)
+- [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Irreversible Harm](../core_05_band_accountability.md#irreversible-harm) · [O](../core_05_band_accountability.md#irreversible-harm) · [M](../core_05_band_accountability.md#irreversible-harm-a) · [A](../core_05_band_accountability.md#irreversible-harm-a) · [C](../core_05_band_accountability.md#irreversible-harm-c)
 
 </details>
 
 <br>
 
+*In plain terms: **CF-4** (*Panel formation and recusal*) decides who is allowed to sit on a case. It states what makes a panel lawful and independent, what must be disclosed before anyone touches the merits, when a member must step aside, and what happens when no independent panel can be formed at all.*
 
 This section governs:
 - selection of a lawful and independent panel;
@@ -36,30 +67,17 @@ This section governs:
 
 This section does not alter primary-stakes routing, constitutional family boundaries, or merits standards.
 
-### CF-4.1 Lawful panel definitions
+## CF-4.1 Lawful panel definitions
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-4.1 Lawful panel definitions**.
 - Read with: **CF-4.1**; **CJS-4.5**.
 
 </details>
 
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
-- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
-- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-
-</details>
-
 <br>
+
+*In plain terms: The vocabulary for the rest of the file: what counts as a panel member, and what makes a bench lawful.*
 
 For this section:
 
@@ -71,28 +89,9 @@ For this section:
 
 For cross-implementation interoperability, read these local definitions with **CJS-4.5** (Tier 1 abstractions for delegated bodies, lawful independent forums, backup activation, and representative treatment).
 
-### CF-4.2 Minimum lawful-panel requirements
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+## CF-4.2 Minimum lawful-panel requirements
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-4.2 Minimum lawful-panel requirements**.
-- Read with: **CF-4.2**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
-- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Adjudication and Dispute Resolution](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Unified Incident Record](../core_05_band_accountability.md#unified-incident-record) · [O](../core_05_band_accountability.md#unified-incident-record) · [M](../core_05_band_accountability.md#unified-incident-record-a) · [A](../core_05_band_accountability.md#unified-incident-record-a) · [C](../core_05_band_accountability.md#unified-incident-record-c)
-
-</details>
-
-<br>
+*In plain terms: Each family must publish its own panel rules in advance — how many members, what counts as quorum, what expertise each seat needs, and who replaces whom. Deciding this after a case arrives invites manipulation.*
 
 Every forum family must maintain a published panel-formation rule set that states:
 - the minimum and ordinary panel size by matter type;
@@ -105,30 +104,9 @@ Every forum family must maintain a published panel-formation rule set that state
 
 No forum may treat a panel as lawful merely because it reaches the required number of members. Each seat must satisfy applicable competence requirements, independence rules, and conflict-screening obligations before the panel is lawfully constituted.
 
-### CF-4.3 Publication and pre-assignment transparency
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+## CF-4.3 Publication and pre-assignment transparency
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-4.3 Publication and pre-assignment transparency**.
-- Read with: **CF-4.3**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
-- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
-- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Forum Family, Technical](../core_05_band_accountability.md#forum-family-technical) · [O](../core_05_band_accountability.md#forum-family-technical) · [M](../core_05_band_accountability.md#forum-family-technical-a) · [A](../core_05_band_accountability.md#forum-family-technical-a) · [C](../core_05_band_accountability.md#forum-family-technical-c)
-- [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation) · [O](../core_05_band_oversight.md#evidence-preservation) · [M](../core_05_band_oversight.md#evidence-preservation-a) · [A](../core_05_band_oversight.md#evidence-preservation-a) · [C](../core_05_band_oversight.md#evidence-preservation-c)
-
-</details>
-
-<br>
+*In plain terms: How members are picked must be public before a case arrives, along with how to object to a given assignment.*
 
 Each forum family must publish:
 - how members are drawn or assigned;
@@ -142,31 +120,17 @@ Where public pre-disclosure of a proposed panel would foreseeably create a mater
 - disclosure occurs as soon as the immediate risk materially subsides,
 - affected parties retain a practical opportunity to raise recusal or panel-formation objections.
 
-### CF-4.4 Mandatory disclosures before merits participation
+## CF-4.4 Mandatory disclosures before merits participation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-4.4 Mandatory disclosures before merits participation**; [Chapter Eight §3.1](../core_08-08_standing_assessment.md#31-minimum-record-contents) (*minimum record contents*); [Chapter Eight §7 unified scale](../core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*shared five-times LEQU bands*); [Chapter Nine §5.5](../core_09-09_standing_integration.md#55-special-locks) (*special locks*) and [§8](../core_09-09_standing_integration.md#8-restoration-and-reassessment) (*restoration and reassessment*).
 - Read with: **CF-4.4**; [Chapter Ten §2](../core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) where dishonest disclosure omission materially affects constitutional custody, verification, challenge rights, Rights-Floor governance, or operative remedies and may support the corresponding anti-constitutional-misconduct designation for a Chapter Eight slot 7–9 record without assigning or moving the numeric slot.
 
 </details>
 
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
-- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
-- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Incentive Alignment](../core_05_band_integrative.md#incentive-alignment) · [O](../core_05_band_integrative.md#incentive-alignment) · [M](../core_05_band_integrative.md#incentive-alignment-a) · [A](../core_05_band_integrative.md#incentive-alignment-a) · [C](../core_05_band_integrative.md#incentive-alignment-c)
-- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
-- [Violation Nature](../core_05_band_accountability.md#violation-nature-chapter-six) · [O](../core_05_band_accountability.md#violation-nature-chapter-six) · [M](../core_05_band_accountability.md#violation-nature-chapter-six-a) · [A](../core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](../core_05_band_accountability.md#violation-nature-chapter-six-c)
-
-</details>
-
 <br>
+
+*In plain terms: Before touching the merits, a proposed member must disclose anything that could reasonably raise a question about impartiality — financial interest, close relationships, prior involvement.*
 
 Before material merits participation, every proposed panel member must disclose any known circumstance that could reasonably create a material question about impartiality, including:
 - financial or professional interest in the outcome;
@@ -182,30 +146,17 @@ Where a competent forum or adopting process verifies such an omission, CF must p
 
 The disclosure record must be preserved even if the member ultimately serves.
 
-### CF-4.5 Recusal triggers
+## CF-4.5 Recusal triggers
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-4.5 Recusal triggers**; [Chapter Eight §3.1](../core_08-08_standing_assessment.md#31-minimum-record-contents) (*minimum record contents*); [Chapter Eight §7 unified scale](../core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*shared five-times LEQU bands*); [Chapter Nine §5.5](../core_09-09_standing_integration.md#55-special-locks) (*Forum-Service Standing Lock*) and [§8](../core_09-09_standing_integration.md#8-restoration-and-reassessment) (*restoration and reassessment*).
 - Read with: **CF-4.5**; [Chapter Ten §2](../core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) where intentional recusal-process failure materially affects constitutional custody, verification, challenge rights, Rights-Floor governance, or operative remedies and may support the corresponding anti-constitutional-misconduct designation for a Chapter Eight slot 7–9 record without assigning or moving the numeric slot.
 
 </details>
 
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
-- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-- [Adjudication and Dispute Resolution](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-
-</details>
-
 <br>
+
+*In plain terms: The situations where stepping aside is required rather than optional, including having already acted in the matter in another role.*
 
 Recusal is required where:
 - conflict is material under `corpus_institutions.md` **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*);
@@ -219,30 +170,9 @@ A knowing or intentional failure to follow a required recusal process may receiv
 
 Where a competent forum or adopting process verifies intentional recusal-process failure, CF must produce and preserve the verified finding needed for a separate Chapter Eight violation standing record. The output must identify whether recusal was required, whether impartiality was materially compromised, the affected matters and roles, verified procedural impacts, feasible correction or rehearing needs, evidence-preservation status, and the independent review route. Chapter Nine [§5.5](../core_09-09_standing_integration.md#55-special-locks) exclusively governs attachment and scope of the Forum-Service Standing Lock, and [§8](../core_09-09_standing_integration.md#8-restoration-and-reassessment) governs restoration and reassessment. CF supplies the mandatory procedure and verified-record handoff; it does not restate or independently decide lock attachment, coverage, narrowing, or restoration. The finding may support Chapter Nine descriptors and Chapter Ten designation routing where the verified facts satisfy those standards, but neither changes the Chapter Eight numeric slot. Allegation, suspicion, good-faith error, or late-discovered ambiguity alone does not alter standing before the verified-input gate is met.
 
-### CF-4.6 Recusal challenge workflow
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+## CF-4.6 Recusal challenge workflow
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-4.6 Recusal challenge workflow**.
-- Read with: **CF-4.6**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
-- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
-- [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation) · [O](../core_05_band_oversight.md#evidence-preservation) · [M](../core_05_band_oversight.md#evidence-preservation-a) · [A](../core_05_band_oversight.md#evidence-preservation-a) · [C](../core_05_band_oversight.md#evidence-preservation-c)
-- [Unified Incident Record](../core_05_band_accountability.md#unified-incident-record) · [O](../core_05_band_accountability.md#unified-incident-record) · [M](../core_05_band_accountability.md#unified-incident-record-a) · [A](../core_05_band_accountability.md#unified-incident-record-a) · [C](../core_05_band_accountability.md#unified-incident-record-c)
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-
-</details>
-
-<br>
+*In plain terms: A usable route for a party to object that a member must not hear their case — in plain language, with a decision that can itself be reviewed.*
 
 Affected parties must have a practical path to challenge:
 - non-disclosed conflict,
@@ -260,30 +190,9 @@ The challenge workflow must include:
 
 Where urgency requires temporary action before the challenge is finally resolved, the record must state why delay would materially jeopardize rights, safety, evidence, or remedy.
 
-### CF-4.7 Strategic or abusive recusal
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+## CF-4.7 Strategic or abusive recusal
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-4.7 Strategic or abusive recusal**.
-- Read with: **CF-4.7**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
-- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
-- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Adjudication and Dispute Resolution](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Unified Incident Record](../core_05_band_accountability.md#unified-incident-record) · [O](../core_05_band_accountability.md#unified-incident-record) · [M](../core_05_band_accountability.md#unified-incident-record-a) · [A](../core_05_band_accountability.md#unified-incident-record-a) · [C](../core_05_band_accountability.md#unified-incident-record-c)
-
-</details>
-
-<br>
+*In plain terms: Recusal cuts both ways. Stepping aside to dodge a politically awkward case, to create delay, or to steer a matter to a preferred substitute is itself misconduct.*
 
 Institutions must not use recusal as a covert tool for:
 - outcome shopping,
@@ -294,30 +203,9 @@ Institutions must not use recusal as a covert tool for:
 
 Repeated or strategic recusal abuse remains non-compliant under `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*) and must trigger corrective or removal review. The forum system must require a separate record when recusal patterns suggest coordinated manipulation or systematic inability to form independent panels in a given class of dispute.
 
-### CF-4.8 Replacement and substitute selection
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+## CF-4.8 Replacement and substitute selection
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-4.8 Replacement and substitute selection**.
-- Read with: **CF-4.8**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
-- [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_integrative.md#sentient-composite-c)
-- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
-- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Forum Family, Technical](../core_05_band_accountability.md#forum-family-technical) · [O](../core_05_band_accountability.md#forum-family-technical) · [M](../core_05_band_accountability.md#forum-family-technical-a) · [A](../core_05_band_accountability.md#forum-family-technical-a) · [C](../core_05_band_accountability.md#forum-family-technical-c)
-- [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
-
-</details>
-
-<br>
+*In plain terms: Replacements follow a published order rather than being hand-picked for the case, and a substitute carrying the same conflict is no substitute.*
 
 When a member is recused, unavailable, disqualified, or otherwise unable to serve, substitute selection must follow a published order that:
 - preserves family and chamber competence;
@@ -328,29 +216,9 @@ When a member is recused, unavailable, disqualified, or otherwise unable to serv
 
 If no substitute satisfies these requirements within the designated lead family, the forum must proceed to an inability-to-form review.
 
-### CF-4.9 Inability to form an independent panel
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+## CF-4.9 Inability to form an independent panel
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-4.9 Inability to form an independent panel**.
-- Read with: **CF-4.9**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
-- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Unified Incident Record](../core_05_band_accountability.md#unified-incident-record) · [O](../core_05_band_accountability.md#unified-incident-record) · [M](../core_05_band_accountability.md#unified-incident-record-a) · [A](../core_05_band_accountability.md#unified-incident-record-a) · [C](../core_05_band_accountability.md#unified-incident-record-c)
-- [Adjudication and Dispute Resolution](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-
-</details>
-
-<br>
+*In plain terms: What it means when a family genuinely cannot assemble a clean bench — too many conflicts, cascading recusals, capture indicators, or deadlock over composition.*
 
 An `inability to form an independent panel` exists when the designated lead family cannot, within the required time and published selection order, constitute a lawful merits bench because of:
 - material conflict concentration;
@@ -369,29 +237,9 @@ This finding may not be inferred silently. It requires an attributable written r
 - whether backup routing is mandatory under [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction);
 - who certified the record and when.
 
-### CF-4.10 Certifier for inability-to-form findings
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+## CF-4.10 Certifier for inability-to-form findings
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-4.10 Certifier for inability-to-form findings**.
-- Read with: **CF-4.10**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
-- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-- [Adjudication and Dispute Resolution](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-
-</details>
-
-<br>
+*In plain terms: Someone specific and independent must sign the finding that no lawful panel can be formed, and give reasons — otherwise the finding becomes an easy escape hatch.*
 
 Each forum family must designate in published rules who can certify inability-to-form findings.
 
@@ -403,29 +251,9 @@ The certifier must:
 
 For cross-forum anti-self-judging cases, the certifier should, where feasible, include or be reviewed by contest-integrity or equivalent independent assurance capacity under `corpus_institutions.md` **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) without displacing the merits forum assignment rules.
 
-### CF-4.11 Backup-forum activation
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+## CF-4.11 Backup-forum activation
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-4.11 Backup-forum activation**.
-- Read with: **CF-4.11**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
-- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Adjudication and Dispute Resolution](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-- [Unified Incident Record](../core_05_band_accountability.md#unified-incident-record) · [O](../core_05_band_accountability.md#unified-incident-record) · [M](../core_05_band_accountability.md#unified-incident-record-a) · [A](../core_05_band_accountability.md#unified-incident-record-a) · [C](../core_05_band_accountability.md#unified-incident-record-c)
-
-</details>
-
-<br>
+*In plain terms: Once inability-to-form is certified or the lead family is compromised, moving the matter to the backup family is mandatory, not discretionary.*
 
 Where [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) makes backup routing available, activation is mandatory when:
 - a documented inability-to-form finding exists in the designated lead family;
@@ -441,30 +269,9 @@ Backup activation must be:
 
 Backup activation does not authorize silent recharacterization of the case's primary stakes.
 
-### CF-4.12 Interim relief while panel independence is disputed
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+## CF-4.12 Interim relief while panel independence is disputed
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-4.12 Interim relief while panel independence is disputed**.
-- Read with: **CF-4.12**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Irreversible Harm](../core_05_band_accountability.md#irreversible-harm) · [O](../core_05_band_accountability.md#irreversible-harm) · [M](../core_05_band_accountability.md#irreversible-harm-a) · [A](../core_05_band_accountability.md#irreversible-harm-a) · [C](../core_05_band_accountability.md#irreversible-harm-c)
-- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
-- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation) · [O](../core_05_band_oversight.md#evidence-preservation) · [M](../core_05_band_oversight.md#evidence-preservation-a) · [A](../core_05_band_oversight.md#evidence-preservation-a) · [C](../core_05_band_oversight.md#evidence-preservation-c)
-- [Adjudication and Dispute Resolution](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-
-</details>
-
-<br>
+*In plain terms: While the fight over who may hear the case continues, a provisional authority may still act — but only to stop irreversible harm, preserve evidence, or protect safety.*
 
 If a fully independent merits panel cannot yet be formed, a provisional authority may issue only those interim orders strictly necessary to:
 - preserve life or baseline safety,
@@ -477,30 +284,9 @@ Any such interim authority must:
 - explain why ordinary panel formation could not be completed first;
 - remain subject to prompt review by a lawful and independent panel or backup forum.
 
-### CF-4.13 Required records for panel formation and recusal
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+## CF-4.13 Required records for panel formation and recusal
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-4.13 Required records for panel formation and recusal**.
-- Read with: **CF-4.13**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
-- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
-- [Adjudication and Dispute Resolution](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Unified Incident Record](../core_05_band_accountability.md#unified-incident-record) · [O](../core_05_band_accountability.md#unified-incident-record) · [M](../core_05_band_accountability.md#unified-incident-record-a) · [A](../core_05_band_accountability.md#unified-incident-record-a) · [C](../core_05_band_accountability.md#unified-incident-record-c)
-
-</details>
-
-<br>
+*In plain terms: The paperwork that lets someone reconstruct later how this particular bench came to hear this particular case.*
 
 At minimum, each forum family must maintain templates for:
 - panel-formation record;

@@ -1,4 +1,22 @@
-## CJS-1: Scope, purpose, and boundary interface
+# CJS-1: Scope, purpose, and boundary interface
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-1** (*Scope, purpose, and boundary interface*).
+>
+> Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the joint-structure implementation home for **CJS-1** (*Scope, purpose, and boundary interface*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -18,6 +36,11 @@
 - [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
 - [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_integrative.md#sentient-composite-c)
+- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
+- [Constitutional Constraint](../core_05_band_integrative.md#constitutional-constraint) · [O](../core_05_band_integrative.md#constitutional-constraint) · [M](../core_05_band_integrative.md#constitutional-constraint-a) · [A](../core_05_band_integrative.md#constitutional-constraint-a) · [C](../core_05_band_integrative.md#constitutional-constraint-c)
+- [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation) · [O](../core_05_band_oversight.md#evidence-preservation) · [M](../core_05_band_oversight.md#evidence-preservation-a) · [A](../core_05_band_oversight.md#evidence-preservation-a) · [C](../core_05_band_oversight.md#evidence-preservation-c)
+- [Epistemic Integrity](../core_05_band_oversight.md#epistemic-integrity) · [O](../core_05_band_oversight.md#epistemic-integrity) · [M](../core_05_band_oversight.md#epistemic-integrity-a) · [A](../core_05_band_oversight.md#epistemic-integrity-a) · [C](../core_05_band_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -48,24 +71,11 @@
 - Topic routing (human path): [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) and the [topic router reader index](../doc_architecture/generated/topic_router_reader_index.md). (**CJS-2** is integrator/maintainer only.)
 - Layer map and section registry: [cjs_00_registry_and_reading_rules.md](cjs_00_registry_and_reading_rules.md).
 
-### CJS-1.1: Joint structural boundary and owner discipline
+## CJS-1.1: Joint structural boundary and owner discipline
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router.
-- Downstream: this section's local operational requirements for **CJS-1.1: Joint structural boundary and owner discipline**.
 - Read with: **CJS-1.1**; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids); **CJS-3**; **CJS-5**; **CJS-1.2**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_integrative.md#sentient-composite-c)
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
-- [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) · [O](../core_05_band_integrative.md#authority-stack) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
-- [Adjudication and Dispute Resolution](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Materiality Determination](../core_05_band_oversight.md#materiality-determination) · [O](../core_05_band_oversight.md#materiality-determination) · [M](../core_05_band_oversight.md#materiality-determination-a) · [A](../core_05_band_oversight.md#materiality-determination-a) · [C](../core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -82,26 +92,12 @@
 | Cite a **CJS-5** term from a **CS**, **CI**, or **CF** file | The citation may apply the joint term inside a standalone system, institution, forum, or bounded decision domain within the cited scope. It does **not** make CJS the routed owner of system, institutional, or forum doctrine. Where more than one layer materially applies, stricter joint-interface treatment also applies. |
 | Check whether CJS can soften constitutional meaning | It cannot. Under **CJS-1.2**, CJS sits in the **binding incorporated implementation** band and must **implement, not narrow**, Sentient Constitution meaning. |
 
-### CJS-1.2: Shared implementation-corpus preamble contract
+## CJS-1.2: Shared implementation-corpus preamble contract
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-1.2: Shared implementation-corpus preamble contract**.
 - Read with: **CJS-1.2**; **CJS-2**; **CJS-3**; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids); **CJS-5.23** (*Integrative: intervention and override integrity terms*); **CJS-5.14** (*Accountability: intervention governance and override-authorization terms*).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) · [O](../core_05_band_integrative.md#authority-stack) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
-- [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
-- [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
-- [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_integrative.md#sentient-composite-c)
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
-- [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -161,25 +157,18 @@ If two implementation files set different standards for the same meaningful risk
 
 If a cited profile and a cited implementation label seem to conflict, apply **Chapter One §8.4**, the Authority Stack, and the same stricter-wins rule above.
 
-### CJS-1.3: Section identifiers and article references
+## CJS-1.3: Section identifiers and article references
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-1.3: Section identifiers and article references**.
 - Read with: **CJS-1.3**; **CJS-1**; **CJS-5**; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids).
 
 </details>
 
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_integrative.md#sentient-composite-c)
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-
-</details>
-
 <br>
+
+*In plain terms: Labels like **CJS-1.3** or **CF-4** are navigation addresses inside the implementation corpus. They are not Article numbers in the Constitution itself, and the two should never be confused when citing.*
 
 Implementation-file identifiers are local navigation labels, not Sentient Constitution **Article** numbers. **CJS**, **CI**, and **CF** labels point to corpus implementation sections; `corpus_systems.md` uses named **Protocols** and **CS-2–CS-4** labels for its systems-and-data taxonomy. The editor abbreviation **CS** may appear in owner tables, stable IDs, and short routing references, but systems headings should be cited by filename plus protocol or CS section label where practical.
 
@@ -192,28 +181,18 @@ Unless a section says otherwise, **Article** labels with Roman numerals that poi
 
 > The following subsections state binding parse and application rules for **CJS-5** (*Implementation and cross-implementation operational cluster library*) **OP-O** / **OP-E** / **OP-C** entries. General readers may defer them until cross-domain operational clusters are in scope.
 
-### CJS-1.4: Operational structure and subsection-local terminology
+## CJS-1.4: Operational structure and subsection-local terminology
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-1.4: Operational structure and subsection-local terminology**.
 - Read with: **CJS-1.4**; **CJS-1.5**.
 
 </details>
 
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_integrative.md#sentient-composite-c)
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [Constitutional Constraint](../core_05_band_integrative.md#constitutional-constraint) · [O](../core_05_band_integrative.md#constitutional-constraint) · [M](../core_05_band_integrative.md#constitutional-constraint-a) · [A](../core_05_band_integrative.md#constitutional-constraint-a) · [C](../core_05_band_integrative.md#constitutional-constraint-c)
-- [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation) · [O](../core_05_band_oversight.md#evidence-preservation) · [M](../core_05_band_oversight.md#evidence-preservation-a) · [A](../core_05_band_oversight.md#evidence-preservation-a) · [C](../core_05_band_oversight.md#evidence-preservation-c)
-- [Epistemic Integrity](../core_05_band_oversight.md#epistemic-integrity) · [O](../core_05_band_oversight.md#epistemic-integrity) · [M](../core_05_band_oversight.md#epistemic-integrity-a) · [A](../core_05_band_oversight.md#epistemic-integrity-a) · [C](../core_05_band_oversight.md#epistemic-integrity-c)
-
-</details>
-
 <br>
+
+*In plain terms: How to read the three-line format used throughout: **OP-O** says what the rule covers, **OP-E** says how you show you have met it, and **OP-C** states the binding requirement.*
 
 Some subsections use a local joint operational rule format. Its list shape mirrors the format used in `corpus_institutions.md`.
 
@@ -235,15 +214,18 @@ Constitutional terms used in **OP-O**, **OP-E**, or **OP-C** take their meanings
 
 Subsection-local shorthand applies only inside the subsection where it appears, unless another corpus file defines the phrase and cites that subsection.
 
-### CJS-1.5: Operational clusters
+## CJS-1.5: Operational clusters
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-1.5: Operational clusters**.
 - Read with: **CJS-1.5**; **CJS-1.4**.
 
 </details>
+
+<br>
+
+*In plain terms: Where several entries appear together as a cluster, the head entry and the ones beneath it form a single compound definition. Reading one component alone will give the wrong answer.*
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint](../core_05_band_integrative.md#constitutional-constraint) · [O](../core_05_band_integrative.md#constitutional-constraint) · [M](../core_05_band_integrative.md#constitutional-constraint-a) · [A](../core_05_band_integrative.md#constitutional-constraint-a) · [C](../core_05_band_integrative.md#constitutional-constraint-c)
 

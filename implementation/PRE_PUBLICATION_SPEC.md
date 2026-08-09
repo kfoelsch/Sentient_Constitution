@@ -1,7 +1,7 @@
 # Pre-Publication Spec — Sentient Constitution
 
 **Status:** Draft v0.5 (§6 open decisions closed; Chapter Five defs-band cleanup closed)  
-**Edition target:** next publication cut after `SC-Corpus-2026.06.18`  
+**Edition target:** next publication cut after `SC-Corpus-2026.08.09`  
 **Layer:** Process / map support — **not** binding constitutional or incorporated text  
 **Job:** Stress-test gaps and drive pre-publication cleanup toward an adoptable, implementable, and maintainable delivered corpus  
 **Progress pointer:** §5 step **2** closed (2026-08-08). **Next:** Standing + SAC entry doors (step 3), then Audit stack maturity (step 4).

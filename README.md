@@ -6,9 +6,9 @@ Operative constitutional text for the **Sentient Constitution** lives in the num
 
 | | |
 |---|---|
-| **Corpus edition** | `SC-Corpus-2026.06.18` |
-| **Effective date** | 2026-06-18 |
-| **Status** | Substantive binding text through **Chapter Sixteen** is **stable for assurance review** under this edition. **SC-Corpus-2026.06.18** reorganizes Chapter Five into constitutional **band files** (Oversight, Participation, Accountability, Continuity, Integrative), assigns dependent clusters **Def.O1–Def.I1**, and adds the Chapter Five compass in Part A. |
+| **Corpus edition** | `SC-Corpus-2026.08.09` |
+| **Effective date** | 2026-08-09 |
+| **Status** | Substantive binding text through **Chapter Sixteen** is **stable for assurance review** under this edition. **SC-Corpus-2026.08.09** reforms the four implementation corpora (**CJS**, **CS**, **CI**, **CF**) onto the core-file anatomy: every subfile now opens with a titled H1, a one-line statement of what it governs, and a plain-language gloss, with content-free routing scaffolding removed and operative prose rewritten to plain language under evidence that obligations were preserved. No constitutional obligation was added, removed, or narrowed. The previous edition, **SC-Corpus-2026.06.18**, reorganized Chapter Five into constitutional **band files** (Oversight, Participation, Accountability, Continuity, Integrative), assigned dependent clusters **Def.O1–Def.I1**, and added the Chapter Five compass in Part A. |
 
 Custody and binding scope: [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) and [Chapter Sixteen](core_16-16_incorporation.md). Bump the edition label only on a deliberate corpus publication cut.
 

@@ -14,8 +14,8 @@ from pathlib import Path
 
 CJS5_GLOB = "corpus_joint_structure/cjs_05*.md"
 
-SECTION_SPLIT_RE = re.compile(r"(?=^## CJS-5)", re.MULTILINE)
-SECTION_ID_RE = re.compile(r"^## (CJS-5\S+)", re.MULTILINE)
+SECTION_SPLIT_RE = re.compile(r"(?=^#{1,3} CJS-5)", re.MULTILINE)
+SECTION_ID_RE = re.compile(r"^#{1,3} (CJS-5\S+)", re.MULTILINE)
 
 CJS50_PINNED = {
     "Competency bar, clearance, and standing interface",

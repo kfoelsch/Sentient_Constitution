@@ -1,11 +1,29 @@
-## CI-14: Transitional governance and institutional evolution
+# CI-14: Transitional governance and institutional evolution
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-14** (*Transitional governance and institutional evolution*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the institutional implementation home for **CI-14** (*Transitional governance and institutional evolution*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-14.1: Interface — **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)](#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives); [CI-14.2: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements](#ci-142-article-xxvi-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements); [CI-14.3: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements](#ci-143-article-xxvi-d-operative-transition-scoped-remediation-requirements).
 - Read with: **CI-14**; **CI-14.1**; **CI-14.2**; **CI-14.3**; **CI-5**; **CI-11**; [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router.
-- Topic routing (mandatory read-with): **CJS-R11** (*Forum continuity*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-12**.
+- Topic routing (mandatory read-with): **CJS-R11** (*Forum continuity*) in **CJS-2.1** (*Topic router*); primary owner **CF-12**.
 
 </details>
 
@@ -19,12 +37,21 @@
 - [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
 - [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_integrative.md#sentient-composite-c)
 - [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
+- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation) · [O](../core_05_band_oversight.md#evidence-preservation) · [M](../core_05_band_oversight.md#evidence-preservation-a) · [A](../core_05_band_oversight.md#evidence-preservation-a) · [C](../core_05_band_oversight.md#evidence-preservation-c)
+- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
+- [Stakeholder](../core_05_band_participation.md#stakeholder) · [O](../core_05_band_participation.md#stakeholder) · [M](../core_05_band_participation.md#stakeholder-a) · [A](../core_05_band_participation.md#stakeholder-a) · [C](../core_05_band_participation.md#stakeholder-c)
+- [Emergency and Contingency](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05_band_continuity.md#emergency-and-contingency-constitutional-c)
+- [Constitutional Constraint](../core_05_band_integrative.md#constitutional-constraint) · [O](../core_05_band_integrative.md#constitutional-constraint) · [M](../core_05_band_integrative.md#constitutional-constraint-a) · [A](../core_05_band_integrative.md#constitutional-constraint-a) · [C](../core_05_band_integrative.md#constitutional-constraint-c)
+- [Necessity](../core_05_band_accountability.md#necessity) · [O](../core_05_band_accountability.md#necessity) · [M](../core_05_band_accountability.md#necessity-a) · [A](../core_05_band_accountability.md#necessity-a) · [C](../core_05_band_accountability.md#necessity-c)
+- [Proportionality](../core_05_band_accountability.md#proportionality) · [O](../core_05_band_accountability.md#proportionality) · [M](../core_05_band_accountability.md#proportionality-a) · [A](../core_05_band_accountability.md#proportionality-a) · [C](../core_05_band_accountability.md#proportionality-c)
+- [Substantive Fairness](../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../core_05_band_participation.md#substantive-fairness-constitutional-c)
 
 </details>
 
 <br>
 
-*In plain terms: **CI-14** is the institutions layer's "how do we change structure without breaking rights or losing the thread?" rulebook — when an institution redesigns, merges, hands off authority, or moves from legacy operation toward constitutional operation, and what must stay documented, reviewable, and reversible while that happens. Transition is a bridge, not a permanent emergency. Temporary powers must expire, get reauthorized for real reasons, or roll back — and Rights-Floor minimums cannot quietly shrink because the change is inconvenient. Shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floors live in **CJS-5.18** (*data-retention and lifecycle-integrity terms*); system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics live in **Protocol T**; this file states what each institution must name, publish, and maintain locally.*
+*In plain terms: **CI-14** is the institutions layer's "how do we change structure without breaking rights or losing the thread?" rulebook — when an institution redesigns, merges, hands off authority, or moves from legacy operation toward constitutional operation, and what must stay documented, reviewable, and reversible while that happens. Transition is a bridge, not a permanent emergency. Temporary powers must expire, get reauthorized for real reasons, or roll back — and Rights-Floor minimums cannot quietly shrink because the change is inconvenient. Shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floors live in **CJS-5.18** (*data-retention and lifecycle-integrity terms*); system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics live in **Protocol T**. What this file adds is local: what each institution must name, publish, and maintain locally.*
 
 **Quick orientation**
 
@@ -60,27 +87,12 @@ Each institution in scope must name and maintain locally:
 - published local procedures for **interim authority**, **review cadence**, **reauthorization**, **unresolved-risk explanation**, and **evidence custody** under the **CJS-5.18** (*data-retention and lifecycle-integrity terms*) transition floor; and
 - auditable records of **material institutional transition decisions**, **delays**, **reversals**, and **remediation actions**, with rationale and risk implications.
 
-### CI-14.1: Interface — **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)
+## CI-14.1: Interface — **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)
 <a id="ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-14.1: Interface — **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)**.
 - Read with: **CI-14.1**; **CI-14.3**; **CI-5**; **CI-11**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-- [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
-- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_integrative.md#sentient-composite-c)
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
-- [Reversibility](../core_05_band_continuity.md#reversibility-constitutional) · [O](../core_05_band_continuity.md#reversibility-constitutional) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -104,27 +116,12 @@ Apply **CJS-5.6** **Property-custody and incentive-separation control chain** fo
 
 For **Class A**, **Class B**, and **Critical System Steward** scope, connect to **Protocol A** subsection **G** and **CI-11**.
 
-### CI-14.2: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements
+## CI-14.2: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements
 <a id="ci-142-article-xxvi-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-14.2: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements**.
 - Read with: **CI-14.2**; **CI-14.3**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation) · [O](../core_05_band_oversight.md#evidence-preservation) · [M](../core_05_band_oversight.md#evidence-preservation-a) · [A](../core_05_band_oversight.md#evidence-preservation-a) · [C](../core_05_band_oversight.md#evidence-preservation-c)
-- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Stakeholder](../core_05_band_participation.md#stakeholder) · [O](../core_05_band_participation.md#stakeholder) · [M](../core_05_band_participation.md#stakeholder-a) · [A](../core_05_band_participation.md#stakeholder-a) · [C](../core_05_band_participation.md#stakeholder-c)
-- [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [Reversibility](../core_05_band_continuity.md#reversibility-constitutional) · [O](../core_05_band_continuity.md#reversibility-constitutional) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
-- [Emergency and Contingency](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05_band_continuity.md#emergency-and-contingency-constitutional-c)
-- [Constitutional Constraint](../core_05_band_integrative.md#constitutional-constraint) · [O](../core_05_band_integrative.md#constitutional-constraint) · [M](../core_05_band_integrative.md#constitutional-constraint-a) · [A](../core_05_band_integrative.md#constitutional-constraint-a) · [C](../core_05_band_integrative.md#constitutional-constraint-c)
 
 </details>
 
@@ -166,23 +163,11 @@ Institutions must publish or provide stakeholder-facing summaries on a fixed cad
 
 <a id="ci-143-article-xxvi-d-operative-transition-scoped-remediation-requirements"></a>
 
-### CI-14.3: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements
+## CI-14.3: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-14.3: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements**.
 - Read with: **CI-14.1**; **CI-14.2**; **CI-5**; **CI-11**; **CJS-5.6** (*property-custody and incentive-separation control chain*).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation) · [O](../core_05_band_oversight.md#evidence-preservation) · [M](../core_05_band_oversight.md#evidence-preservation-a) · [A](../core_05_band_oversight.md#evidence-preservation-a) · [C](../core_05_band_oversight.md#evidence-preservation-c)
-- [Necessity](../core_05_band_accountability.md#necessity) · [O](../core_05_band_accountability.md#necessity) · [M](../core_05_band_accountability.md#necessity-a) · [A](../core_05_band_accountability.md#necessity-a) · [C](../core_05_band_accountability.md#necessity-c)
-- [Proportionality](../core_05_band_accountability.md#proportionality) · [O](../core_05_band_accountability.md#proportionality) · [M](../core_05_band_accountability.md#proportionality-a) · [A](../core_05_band_accountability.md#proportionality-a) · [C](../core_05_band_accountability.md#proportionality-c)
-- [Substantive Fairness](../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../core_05_band_participation.md#substantive-fairness-constitutional-c)
 
 </details>
 

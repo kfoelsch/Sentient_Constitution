@@ -1,4 +1,22 @@
-## CI-7: Oversight, assurance, controls, and evidence
+# CI-7: Oversight, assurance, controls, and evidence
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-7** (*Oversight, assurance, controls, and evidence*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the institutional implementation home for **CI-7** (*Oversight, assurance, controls, and evidence*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -18,12 +36,18 @@
 - [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
 - [Systemic](../core_05_band_accountability.md#systemic) · [O](../core_05_band_accountability.md#systemic) · [M](../core_05_band_continuity.md#systemic-a) · [A](../core_05_band_continuity.md#systemic-a) · [C](../core_05_band_continuity.md#systemic-c)
+- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [Redress and Remediation](../core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](../core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [Accessibility](../core_05_band_participation.md#accessibility-constitutional) · [O](../core_05_band_participation.md#accessibility-constitutional) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
+- [Verifiability](../core_05_band_oversight.md#verifiability) · [O](../core_05_band_oversight.md#verifiability) · [M](../core_05_band_oversight.md#verifiability-a) · [A](../core_05_band_oversight.md#verifiability-a) · [C](../core_05_band_oversight.md#verifiability-c)
+- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
 
 </details>
 
 <br>
 
-*In plain terms: **CI-7** is the institutions layer's check-and-balance rulebook — how each institution shows its safeguards are working, who watches the watchers, what happens when controls fail, when outside review is required, and how evidence is kept so audits, challenges, and handoffs still work. Shared assurance floors live in **CJS-5.6** (*integrity assurance and resilience operations*); this file states what each institution must publish and maintain locally.*
+*In plain terms: **CI-7** is the institutions layer's check-and-balance rulebook — how each institution shows its safeguards are working, who watches the watchers, what happens when controls fail, when outside review is required, and how evidence is kept so audits, challenges, and handoffs still work. Shared assurance floors live in **CJS-5.6** (*integrity assurance and resilience operations*). What this file adds is local: what each institution must publish and maintain locally.*
 
 **Quick orientation**
 
@@ -39,26 +63,11 @@
 - limits on unjustified concentration of those roles in the same role-holder or office; and
 - record and evidence custody strong enough to support audit, contest, correction, and continuity transfer under [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation).
 
-### CI-7.1: Controls declaration
+## CI-7.1: Controls declaration
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-7.1: Controls declaration**.
 - Read with: **CI-7.1**; **CI-7**; **CI-7.2**; **CI-5.3**; **CJS-5.6** (*integrity assurance and resilience operations*); **CJS-5.15** (*structural review, correction urgency, and disclosure terms*); **CS-2**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-- [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
-- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
-- [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
-- [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation) · [O](../core_05_band_oversight.md#evidence-preservation) · [M](../core_05_band_oversight.md#evidence-preservation-a) · [A](../core_05_band_oversight.md#evidence-preservation-a) · [C](../core_05_band_oversight.md#evidence-preservation-c)
 
 </details>
 
@@ -78,26 +87,11 @@ Institutions may set faster notice windows than the **NUL** defaults but must no
 
 Reusable disclosure templates are in `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md`.
 
-### CI-7.2: External assurance triggers
+## CI-7.2: External assurance triggers
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-7.2: External assurance triggers**.
 - Read with: **CI-7.2**; **CI-8**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Systemic](../core_05_band_accountability.md#systemic) · [O](../core_05_band_accountability.md#systemic) · [M](../core_05_band_continuity.md#systemic-a) · [A](../core_05_band_continuity.md#systemic-a) · [C](../core_05_band_continuity.md#systemic-c)
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
-- [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
-- [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation) · [O](../core_05_band_oversight.md#evidence-preservation) · [M](../core_05_band_oversight.md#evidence-preservation-a) · [A](../core_05_band_oversight.md#evidence-preservation-a) · [C](../core_05_band_oversight.md#evidence-preservation-c)
 
 </details>
 
@@ -110,32 +104,17 @@ Apply **CJS-5.6** (*integrity assurance and resilience operations*) for the shar
 - published trigger criteria (what forces outside review); and
 - **CI-8** escalation duties when the institution cannot credibly commission that review itself.
 
-### CI-7.3: Contest-integrity monitoring (Class A and Class B)
+## CI-7.3: Contest-integrity monitoring (Class A and Class B)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-7.3: Contest-integrity monitoring (Class A and Class B)**.
 - Read with: **CI-7.3**; **CI-7**; **CI-7.1**; **CI-7.2**; **CI-4**; **CI-5**; **CI-6**; **CI-8**; **CI-12**; **CJS-3.3**; **CJS-5.6** (*integrity assurance and resilience operations*).
-- Topic routing (mandatory read-with): **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-7**.
-- Topic routing (mandatory read-with): **CJS-R07** (*Forum forensic and analytical support*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-8**.
-- Topic routing (mandatory read-with): **CJS-R10** (*Forum performance, backlog requirements, publication timeliness, access…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-11**.
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
-- Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.6** (*integrity assurance and resilience operations*).
-- Topic routing (primary owner): **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-4**, **CF-11**, **CJS-5.13** (*procedural integrity and adjudication terms*).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Redress and Remediation](../core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](../core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../core_05_band_accountability.md#redress-and-remediation-constitutional-c)
-- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-- [Accessibility](../core_05_band_participation.md#accessibility-constitutional) · [O](../core_05_band_participation.md#accessibility-constitutional) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
-- [Verifiability](../core_05_band_oversight.md#verifiability) · [O](../core_05_band_oversight.md#verifiability) · [M](../core_05_band_oversight.md#verifiability-a) · [A](../core_05_band_oversight.md#verifiability-a) · [C](../core_05_band_oversight.md#verifiability-c)
-- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
-- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
+- Topic routing (mandatory read-with): **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-2.1** (*Topic router*); primary owner **CF-7**.
+- Topic routing (mandatory read-with): **CJS-R07** (*Forum forensic and analytical support*) in **CJS-2.1** (*Topic router*); primary owner **CF-8**.
+- Topic routing (mandatory read-with): **CJS-R10** (*Forum performance, backlog requirements, publication timeliness, access…*) in **CJS-2.1** (*Topic router*); primary owner **CF-11**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router*); primary owner **CJS-4.3**.
+- Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-2.1** (*Topic router*); primary owner **CJS-5.6**.
+- Topic routing (primary owner): **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router*). Mandatory read-with: **CF-4**, **CF-11**, **CJS-5.13**.
 
 </details>
 

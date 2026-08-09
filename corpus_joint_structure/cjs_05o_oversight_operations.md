@@ -1,15 +1,33 @@
-## Oversight leg (CJS-5.2–CJS-5.6)
+# Oversight leg (CJS-5.2–CJS-5.6)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Oversight leg (CJS-5.2–CJS-5.6)**.
+>
+> Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the joint-structure implementation home for **Oversight leg (CJS-5.2–CJS-5.6)**.
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **Oversight leg (CJS-5.2–CJS-5.6)**.
 - Read with: [CJS-5.1](cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) constitutional compass.
 
 </details>
 
 <br>
 
+*In plain terms: These clusters carry the **Oversight** leg into working terms: making a system explain itself, keeping enough record to reconstruct what happened, scaling who may see what, verifying claims independently, and keeping assurance itself resilient. They must be read together, because one strong control cannot rescue a weak link elsewhere.*
 
 This family operationalizes the **Oversight** leg of the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad): watching, auditing, assuring, and verifying that implementation claims remain reviewable across **CJS**, **CS**, **CI**, and **CF**. Clusters here must be read together — a strong control in one link cannot cure a material failure in another.
 
@@ -29,8 +47,6 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.2 Oversight: reflexive transparency and accountability terms**.
 - Read with: **CJS-5.10**; **CJS-5.3**; **CJS-5.4**; **CJS-5.5**; **CJS-5.15 and CJS-5.6**; **CJS-5.2 and CJS-5.6**.
 - Read with: **CJS-5.2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
 - Read with: **CJS-5.10 — Transparency and Disclosure**
@@ -60,6 +76,8 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 </details>
 
 <br>
+
+*In plain terms: Authorities must hold themselves to standards at least as strict as those they impose on others. Exempting yourself from your own rule is the clearest sign the rule is not about safety.*
 
 Use this rule when legitimacy depends on authorities holding themselves to equal or stronger standards than they apply to others.
 
@@ -112,8 +130,6 @@ Transparency, audit, and verification-integrity duties
 - OP-E: Reviewers must verify that records can reconstruct decisions and actions.
 - OP-C: Opaque methods or selective disclosure are non-compliant when they undermine accountability.
 
-
-
 ---
 
 ---
@@ -123,7 +139,6 @@ Transparency, audit, and verification-integrity duties
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local auditability and reconstructability OP terms (**annex** to the **[CJS-5.3 audit process home](cjs_05_audit_process.md#cjs-53-audit-process-home)**).
 - Read with: **CJS-5.3**; **CJS-5.4**; **CJS-5.5**; **CJS-5.10**.
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
@@ -190,8 +205,6 @@ Operational transparency and structured logging requirements
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.4 Oversight: tiered transparency and audit-access terms** (annex to the **[CJS-5.3 audit process home](cjs_05_audit_process.md#cjs-53-audit-process-home)**).
 - Read with: **CJS-5.4**; **CJS-5.3**; **CJS-5.5**; **CJS-5.20 and CJS-5.18**.
 - Read with: **CJS-5.3** (*audit process home* — what / why / how / when in [cjs_05_audit_process.md](cjs_05_audit_process.md#cjs-53-audit-process-home); this cluster is the access-tier and output-disclosure annex)
 - Read with: **CJS-5.4 — Tiered Transparency and Audit Access**
@@ -279,8 +292,6 @@ Tier structure and baseline accessibility
 - OP-E: Evaluation must verify that baseline access works for ordinary use, not only in theory.
 - OP-C: Access tiers are non-compliant if the baseline is too thin for meaningful participation or risk review.
 
-
-
 ---
 
 ---
@@ -288,16 +299,15 @@ Tier structure and baseline accessibility
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.5 Oversight: independent verification and claim-integrity terms**.
 - Read with: **CJS-5.5**; **CJS-5.3**; **CJS-5.4**.
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 - Read with: **CJS-5.5 — Independent Verification and Integrity of Claims**
 - Read with: **[CJS-5.3](cjs_05_audit_process.md#cjs-53-audit-process-home)** (*audit process home*)
 - Read with: **CJS-5.4 — Tiered Transparency and Audit Access**
 - Read with: Chapter Fifteen and rights-layer protections where material claims shape rights-relevant decisions.
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: §2.2, §2.3, §3, §12.1, §12.2 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router*); primary owner **CJS-4.3**.
+
 </details>
 
 <details>
@@ -354,23 +364,19 @@ Structured review and incentive-integrity floor
 - OP-E: Evaluation must verify that review records distinguish verified criticism, unresolved concern, requested clarification, value judgment, and reliance consequence; that signed, pseudonymous, confidential, or specialist review modes remain auditable where used; that bundled prestige, revenue, ranking, curation, or funding structures do not control access, correction, or reliance without independent audit; and that incentives for hiring, promotion, grantmaking, procurement, ranking, adoption, or standing do not primarily reward opaque prestige proxies, selective-publication bias, hype inflation, citation cartels, suppression of competing results, or concealment of correction history.
 - OP-C: A claim-review pathway is non-compliant if it treats a single opaque accept/reject decision as sufficient for material reliance, lets prestige or closed ranking substitute for evidence quality, suppresses good-faith replication or critique, hides reviewer conflicts or editorial overrides from qualified audit, or punishes correction while rewarding concealment.
 
-
-
-
 ---
 ## CJS-5.6 Oversight: integrity assurance and resilience operations
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.6 Oversight: integrity assurance and resilience operations**.
 - Read with: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router.
-- Topic routing (primary owner): **CJS-R19** (*integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-5.3**, **CJS-5.15**, **CI-7.3**, **CI-8**, **CF-11**.
 - Read with: Core definitions for auditability, verifiability, reversibility, dependency, cascading failure, adversarial conditions, and trustworthiness.
 - Constitutional frame: **Oversight** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Cross-leg note: integrative with **Accountability** where contest, correction, and assurance routing are implicated.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational resilience or protocol continuity.
 - Chapter One basis: §2.1, §2.2, §3.1, §12.1, §12.2 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Topic routing (primary owner): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-2.1** (*Topic router*). Mandatory read-with: **CJS-5.3**, **CJS-5.15**, **CI-7.3**, **CI-8**, **CF-11**.
+
 </details>
 
 <details>
@@ -388,6 +394,7 @@ Structured review and incentive-integrity floor
 
 <br>
 
+*In plain terms: An integrity claim is only as good as the weakest link behind it — records, access controls, classification, and staffing all count, not just the part being advertised.*
 
 Use this rule for **CJS-R19** (*integrity assurance and resilience operations*), implementation and cross-implementation integrity assurance and resilience operations.
 

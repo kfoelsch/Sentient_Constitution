@@ -1,15 +1,33 @@
-## Participation leg (CJS-5.7–CJS-5.10)
+# Participation leg (CJS-5.7–CJS-5.10)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Participation leg (CJS-5.7–CJS-5.10)**.
+>
+> Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the joint-structure implementation home for **Participation leg (CJS-5.7–CJS-5.10)**.
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **Participation leg (CJS-5.7–CJS-5.10)**.
 - Read with: [CJS-5.1](cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) constitutional compass.
 
 </details>
 
 <br>
 
+*In plain terms: These clusters carry the **Participation** leg into working terms: who must be in the room for a decision to count, whether what is disclosed can actually be understood, whether important information is buried under trivia, and whether enough is visible to contest an outcome at all.*
 
 This family operationalizes the **Participation** leg of the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad): quorum, comprehension, salience, and disclosure pathways that let materially affected sentients understand, contest, and shape outcomes. Primary constitutional aim: [Flourishing](../core_00_preamble.md#flourishing).
 
@@ -26,8 +44,6 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.7 Participation: quorum and participatory legitimacy terms**.
 - Read with: **CJS-5.11 and CJS-5.7**; **CJS-5.13**.
 - Read with: **CJS-5.11** (*Accountability: distributed and proportional authority terms*), **CJS-5.7** (*Participation: quorum and participatory legitimacy terms*), and **CJS-5.13** (*Accountability: procedural integrity and adjudication terms*) for authority, participation legitimacy, and procedural integrity terms
 - Read with: **Sentient Constitution Chapter Twelve** section 4
@@ -51,6 +67,8 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 </details>
 
 <br>
+
+*In plain terms: Who must take part for a binding decision to count, and what makes that participation real rather than a formality with a predetermined outcome.*
 
 Use this rule when participation or quorum rules affect materially binding outcomes within a standalone system, institution, forum, or bounded decision domain, or across more than one implementation file.
 
@@ -119,8 +137,6 @@ Weighted participation
 - OP-E: Evaluation must verify the factors, anti-dominance limits, revalidation cadence, and auditability.
 - OP-C: Opaque or manipulation-prone weighting is non-compliant.
 
-
-
 ---
 
 ---
@@ -128,9 +144,6 @@ Weighted participation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.8 Participation: comprehensibility and cognitive accessibility terms**.
-- Read with: **CJS-5.8**.
 - Read with: **CJS-5.8 — Comprehensibility and Cognitive Accessibility**
 - Read with: `corpus_systems.md` **Protocol B — System Comprehensibility and Complexity Stewardship**
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
@@ -151,6 +164,8 @@ Weighted participation
 </details>
 
 <br>
+
+*In plain terms: Disclosure that cannot be understood is not disclosure. Material information must be presented so the sentients it affects can actually follow it.*
 
 Use this rule when transparency, participation, auditability, or accountability depends on information being understandable within a standalone system, institution, forum, or bounded decision domain, or across implementation interfaces.
 
@@ -209,8 +224,6 @@ Summary integrity
 - OP-E: Evaluation must compare summaries to underlying records, logic, and constraints.
 - OP-C: Summaries that omit or distort material conditions are non-compliant.
 
-
-
 ---
 
 ---
@@ -218,10 +231,7 @@ Summary integrity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.9 Participation: salience integrity and attention-allocation terms**.
 - Read with: **CJS-5.9 and CJS-5.10**; **CJS-5.10**; **CJS-5.21**.
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 - Read with: **CJS-5.9** (*Participation: salience integrity and attention-allocation terms*) and **CJS-5.10** (*Participation: disclosure sufficiency and observability terms*) — System Status, Risk, and Scope Representation
 - Read with: **CJS-5.10 — Transparency and Disclosure**
 - Read with: **CJS-5.21 — Adversarial Robustness and Abuse Resistance**
@@ -229,6 +239,8 @@ Summary integrity
 - Read with: **Chapter Six** incentive-alignment constraints
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: §8, §2.2, §3, §12.1, §13 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router*); primary owner **CJS-4.3**.
+
 </details>
 
 <details>
@@ -246,6 +258,7 @@ Summary integrity
 
 <br>
 
+*In plain terms: Systems that decide what gets seen first, often, rarely, or never — ranking, feeds, notifications, search order — exercise real power over participation, and this states the limits on it.*
 
 Use this rule when a system decides what sentients see first, see often, see rarely, or do not see at all. This includes ranking, recommendation, filtering, search order, notifications, feeds, alerts, and other tools that steer attention.
 
@@ -304,16 +317,15 @@ User agency and control
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.10 Participation: disclosure sufficiency and observability terms**.
 - Read with: **CJS-5.10**; **CJS-5.16**.
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 - Read with: **CJS-5.10 — Transparency and Disclosure**
 - Read with: **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity** where dependencies matter
 - Read with: **Article XV-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Internal-State Boundary and Type-N Protection*)
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: §2.2, §11.2, §12.1, §13 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router*); primary owner **CJS-4.3**.
+
 </details>
 
 <details>
@@ -331,6 +343,7 @@ User agency and control
 
 <br>
 
+*In plain terms: Enough must be visible for someone outside to verify a claim and attribute a decision. Partial disclosure that cannot be checked is closer to marketing than accountability.*
 
 Use this rule when informed participation, independent verification, or attribution depends on disclosure within a standalone system, institution, forum, or bounded decision domain, or across systems, dependencies, institutions, or implementation layers.
 

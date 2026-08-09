@@ -136,7 +136,6 @@ When a forum topic materially intersects **CI**, **CS**, or **CJS**, use [CJS-2.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Forums domain routing (integrator annex)](#forums-domain-routing-integrator-annex); [CJS-2.2](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-22-intentional-overlap-non-duplication-discipline) intentional overlap.
-- Downstream: this section's local operational requirements for **Forums overlap discipline**.
 - Read with: [CJS-2.2](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-22-intentional-overlap-non-duplication-discipline); **CF-3**; **CF-4**; **CF-5**; **CF-16**.
 
 </details>
@@ -157,7 +156,6 @@ For cross-layer overlap discipline, apply [CJS-2.2](../corpus_joint_structure/cj
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Forums domain routing (integrator annex)](#forums-domain-routing-integrator-annex); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary.
-- Downstream: this section's local operational requirements for **Forums read-with pointers**.
 - Read with: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-2.3](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-23-two-tier-definition-contract-binding-abstraction--owner-detail); **CF-1**.
 
 </details>

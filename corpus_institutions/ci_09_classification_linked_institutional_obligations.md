@@ -1,4 +1,22 @@
-## CI-9: Classification-linked institutional obligations
+# CI-9: Classification-linked institutional obligations
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-9** (*Classification-linked institutional obligations*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the institutional implementation home for **CI-9** (*Classification-linked institutional obligations*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -18,12 +36,29 @@
 - [Business Creation](../core_05_band_participation.md#business-creation-constitutional) · [O](../core_05_band_participation.md#business-creation-constitutional) · [M](../core_05_band_participation.md#business-creation-constitutional-a) · [A](../core_05_band_participation.md#business-creation-constitutional-a) · [C](../core_05_band_participation.md#business-creation-constitutional-c)
 - [Proportionality](../core_05_band_accountability.md#proportionality) · [O](../core_05_band_accountability.md#proportionality) · [M](../core_05_band_accountability.md#proportionality-a) · [A](../core_05_band_accountability.md#proportionality-a) · [C](../core_05_band_accountability.md#proportionality-c)
 - [System Creation](../core_05_band_participation.md#system-creation-constitutional) · [O](../core_05_band_participation.md#system-creation-constitutional) · [M](../core_05_band_participation.md#system-creation-constitutional-a) · [A](../core_05_band_participation.md#system-creation-constitutional-a) · [C](../core_05_band_participation.md#system-creation-constitutional-c)
+- [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
+- [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Risk](../core_05_band_continuity.md#risk) · [O](../core_05_band_continuity.md#risk) · [M](../core_05_band_continuity.md#risk-a) · [A](../core_05_band_continuity.md#risk-a) · [C](../core_05_band_continuity.md#risk-c)
+- [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
+- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
+- [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
+- [Material Impact](../core_05_band_oversight.md#material-impact) · [O](../core_05_band_oversight.md#material-impact) · [M](../core_05_band_oversight.md#material-impact-a) · [A](../core_05_band_oversight.md#material-impact-a) · [C](../core_05_band_oversight.md#material-impact-c)
+- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
+- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
+- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
+- [Epistemic Integrity](../core_05_band_oversight.md#epistemic-integrity) · [O](../core_05_band_oversight.md#epistemic-integrity) · [M](../core_05_band_oversight.md#epistemic-integrity-a) · [A](../core_05_band_oversight.md#epistemic-integrity-a) · [C](../core_05_band_oversight.md#epistemic-integrity-c)
+- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [Review and Correction Duty](../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
+- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
+- [Emergency and Contingency](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05_band_continuity.md#emergency-and-contingency-constitutional-c)
+- [Necessity](../core_05_band_accountability.md#necessity) · [O](../core_05_band_accountability.md#necessity) · [M](../core_05_band_accountability.md#necessity-a) · [A](../core_05_band_accountability.md#necessity-a) · [C](../core_05_band_accountability.md#necessity-c)
 
 </details>
 
 <br>
 
-*In plain terms: **CI-9** is the institutions layer's "how much oversight does this deserve?" rulebook — how formation burdens, governance duties, domain maps, and delegated-subunit rules scale with a system's risk class and stewardship tier. Low-impact organizations must not face needless red tape; high-impact or high-dependency systems must face proportionate scrutiny. Shared scaling floors live in **CJS-5.11** (*distributed and proportional authority terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), and **CJS-5.12** (*burden-of-justification and constraint terms*); delegated-body composition rules live in **CJS-4.1**; this file states what each institution must publish and maintain locally.*
+*In plain terms: **CI-9** is the institutions layer's "how much oversight does this deserve?" rulebook — how formation burdens, governance duties, domain maps, and delegated-subunit rules scale with a system's risk class and stewardship tier. Low-impact organizations must not face needless red tape; high-impact or high-dependency systems must face proportionate scrutiny. Shared scaling floors live in **CJS-5.11** (*distributed and proportional authority terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), and **CJS-5.12** (*burden-of-justification and constraint terms*); delegated-body composition rules live in **CJS-4.1**. What this file adds is local: what each institution must publish and maintain locally.*
 
 **Quick orientation**
 
@@ -43,26 +78,11 @@ Apply **CJS-5.11** **Classification-scaled governance burden** for the shared cl
 
 The operational mechanics in this section — registration, fiscal treatment, liability frameworks, and dissolution pathways — implement the Chapter Five Rights Floor for [System Creation](../core_05_band_participation.md#system-creation-constitutional) (non-commercial institutional formation) and [Business Creation](../core_05_band_participation.md#business-creation-constitutional) (commercial entrepreneurial formation). These mechanics must not narrow the constitutional floor. They must remain consistent with the [Assembly, Collective Organization, and Institutional Formation cluster](../core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) and owner-floor provisions in **Article IX-B** (*Stakeholder Role and Participation Rights*) (System Creation) and **Article III-D** (*Labor and Economic Floor*) (Business Creation).
 
-### CI-9.1: Formation proportionality
+## CI-9.1: Formation proportionality
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-9.1: Formation proportionality**.
 - Read with: **CI-9.1**; **CI-7**; **CI-7.3**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Proportionality](../core_05_band_accountability.md#proportionality) · [O](../core_05_band_accountability.md#proportionality) · [M](../core_05_band_accountability.md#proportionality-a) · [A](../core_05_band_accountability.md#proportionality-a) · [C](../core_05_band_accountability.md#proportionality-c)
-- [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
-- [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance) · [O](../core_05_band_oversight.md#classification-scaled-governance) · [M](../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../core_05_band_oversight.md#classification-scaled-governance-c)
-- [Risk](../core_05_band_continuity.md#risk) · [O](../core_05_band_continuity.md#risk) · [M](../core_05_band_continuity.md#risk-a) · [A](../core_05_band_continuity.md#risk-a) · [C](../core_05_band_continuity.md#risk-c)
-- [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
-- [Constitutional Constraint](../core_05_band_integrative.md#constitutional-constraint) · [O](../core_05_band_integrative.md#constitutional-constraint) · [M](../core_05_band_integrative.md#constitutional-constraint-a) · [A](../core_05_band_integrative.md#constitutional-constraint-a) · [C](../core_05_band_integrative.md#constitutional-constraint-c)
 
 </details>
 
@@ -80,30 +100,7 @@ Apply **CJS-5.11** **Formation and authorization proportionality floor** for the
 - compliance-cost expectations — so burdens are not hidden; and
 - the contest-integrity monitoring route for **Class A** and **Class B** supervised scope (**CI-7.3**).
 
-### CI-9.2: Published industry and domain mapping
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-9.2: Published industry and domain mapping**.
-- Read with: **CI-9.2**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance) · [O](../core_05_band_oversight.md#classification-scaled-governance) · [M](../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../core_05_band_oversight.md#classification-scaled-governance-c)
-- [Proportionality](../core_05_band_accountability.md#proportionality) · [O](../core_05_band_accountability.md#proportionality) · [M](../core_05_band_accountability.md#proportionality-a) · [A](../core_05_band_accountability.md#proportionality-a) · [C](../core_05_band_accountability.md#proportionality-c)
-- [Risk](../core_05_band_continuity.md#risk) · [O](../core_05_band_continuity.md#risk) · [M](../core_05_band_continuity.md#risk-a) · [A](../core_05_band_continuity.md#risk-a) · [C](../core_05_band_continuity.md#risk-c)
-- [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) · [O](../core_05_band_integrative.md#authority-stack) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
-- [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
-
-</details>
-
-<br>
+## CI-9.2: Published industry and domain mapping
 
 *In plain terms: if an institution regulates or supervises whole sectors — food, energy, health, finance, communications, and the like — it must publish a living map of what it oversees, how risky each domain is classified, and when that classification must change. The map is for real planning and proportional burden, not for hiding critical dependencies behind vague labels.*
 
@@ -114,29 +111,14 @@ Apply **CJS-5.16** **Domain and sector classification mapping** for the shared d
 - the local-treatment file explaining how each mapped domain is handled in practice; and
 - the duty to update the map when dependency criticality, cascade risk, or historical treatment changes.
 
-### CI-9.3: Delegated subunits, institutional design class, and attachment discipline
+## CI-9.3: Delegated subunits, institutional design class, and attachment discipline
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-9.3: Delegated subunits, institutional design class, and attachment discipline**.
 - Read with: **CI-9.3**; **CI-9.2**; **CI-9.3.1**; **CI-9.3.2**; **CI-9.3.3**; **CI-9.3.4**; **CJS-4.5**.
-- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Eleven families)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-3**.
-- Topic routing (mandatory read-with): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-16**.
-- Topic routing (primary owner): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.1**, **CJS-4.5**, **CJS-5.13** (*procedural integrity and adjudication terms*), **CI-3**, **CJS-5.11** (*distributed and proportional authority terms*), **CJS-5.12** (*burden-of-justification and constraint terms*).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Material Impact](../core_05_band_oversight.md#material-impact) · [O](../core_05_band_oversight.md#material-impact) · [M](../core_05_band_oversight.md#material-impact-a) · [A](../core_05_band_oversight.md#material-impact-a) · [C](../core_05_band_oversight.md#material-impact-c)
-- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
-- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
-- [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance) · [O](../core_05_band_oversight.md#classification-scaled-governance) · [M](../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../core_05_band_oversight.md#classification-scaled-governance-c)
-- [Proportionality](../core_05_band_accountability.md#proportionality) · [O](../core_05_band_accountability.md#proportionality) · [M](../core_05_band_accountability.md#proportionality-a) · [A](../core_05_band_accountability.md#proportionality-a) · [C](../core_05_band_accountability.md#proportionality-c)
+- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Eleven famili…*) in **CJS-2.1** (*Topic router*); primary owner **CF-3**.
+- Topic routing (mandatory read-with): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router*); primary owner **CF-16**.
+- Topic routing (primary owner): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router*). Mandatory read-with: **CJS-4.1**, **CJS-4.5**, **CJS-5.13**, **CI-3**, **CJS-5.11**, **CJS-5.12**.
 
 </details>
 
@@ -146,26 +128,11 @@ Apply **CJS-5.16** **Domain and sector classification mapping** for the shared d
 
 Apply **CJS-4.1** (*Hybrid delegated authority (delegated binding bodies)*) and **CJS-4.5** (*Shared procedural abstractions for delegated bodies and forum routing*) for shared delegated-body abstractions. **CI-9.3** through **CI-9.3.4** state only institutional design-class, applicability, identification, authority-composition exception, rotating-attachment, and home-based term duties for delegated subunits at or above **Class C** under the highest published **CS-3 — System classification and handling** class.
 
-### CI-9.3.1: Identification and competence
+## CI-9.3.1: Identification and competence
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-9.3.1: Identification and competence**.
 - Read with: **CI-9.3.1**; **CI-6**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-- [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance) · [O](../core_05_band_oversight.md#classification-scaled-governance) · [M](../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../core_05_band_oversight.md#classification-scaled-governance-c)
-- [Proportionality](../core_05_band_accountability.md#proportionality) · [O](../core_05_band_accountability.md#proportionality) · [M](../core_05_band_accountability.md#proportionality-a) · [A](../core_05_band_accountability.md#proportionality-a) · [C](../core_05_band_accountability.md#proportionality-c)
-- [Risk](../core_05_band_continuity.md#risk) · [O](../core_05_band_continuity.md#risk) · [M](../core_05_band_continuity.md#risk-a) · [A](../core_05_band_continuity.md#risk-a) · [C](../core_05_band_continuity.md#risk-c)
-- [Epistemic Integrity](../core_05_band_oversight.md#epistemic-integrity) · [O](../core_05_band_oversight.md#epistemic-integrity) · [M](../core_05_band_oversight.md#epistemic-integrity-a) · [A](../core_05_band_oversight.md#epistemic-integrity-a) · [C](../core_05_band_oversight.md#epistemic-integrity-c)
-- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [Review and Correction Duty](../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
 
 </details>
 
@@ -181,26 +148,11 @@ Each formation or authorizing instrument must state:
 
 Subunits must remain **subordinate** to the parent mandate. They must not operate as **parallel** decision routes that bypass published hierarchy, **CI-6** contest pathways, or **Chapter Ten** routing where adjudication applies.
 
-### CI-9.3.2: Authority composition
+## CI-9.3.2: Authority composition
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-9.3.2: Authority composition**.
 - Read with: **CI-9.3.2**; **CI-9.3.1**; **CI-9.3.3**; **CI-9.3.4**; **CI-5**; **CI-7.2**; **CI-8**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance) · [O](../core_05_band_oversight.md#classification-scaled-governance) · [M](../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../core_05_band_oversight.md#classification-scaled-governance-c)
-- [Proportionality](../core_05_band_accountability.md#proportionality) · [O](../core_05_band_accountability.md#proportionality) · [M](../core_05_band_accountability.md#proportionality-a) · [A](../core_05_band_accountability.md#proportionality-a) · [C](../core_05_band_accountability.md#proportionality-c)
-- [Risk](../core_05_band_continuity.md#risk) · [O](../core_05_band_continuity.md#risk) · [M](../core_05_band_continuity.md#risk-a) · [A](../core_05_band_continuity.md#risk-a) · [C](../core_05_band_continuity.md#risk-c)
-- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
-- [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) · [O](../core_05_band_integrative.md#authority-stack) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
 
 </details>
 
@@ -216,26 +168,11 @@ Delegated subunits in scope must satisfy **CJS-4.1**. **CI-9.3.2** keeps only:
 
 Where a multi-member body uses a different deciding-bench balance or materially different hybrid staging, the instrument must publish substitute capture safeguards proportionate to institutional design class under **CI-5**. For **Class A** and **Class B**, that pattern is non-compliant unless previewed through **CI-7.2**, or a published **CI-8** functionally independent review arrangement.
 
-### CI-9.3.3: Rotating authority: attachment bounds
+## CI-9.3.3: Rotating authority: attachment bounds
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-9.3.3: Rotating authority: attachment bounds**.
 - Read with: **CI-9.3.3**; **CJS-4.1.2**; **CI-7.2**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance) · [O](../core_05_band_oversight.md#classification-scaled-governance) · [M](../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../core_05_band_oversight.md#classification-scaled-governance-c)
-- [Proportionality](../core_05_band_accountability.md#proportionality) · [O](../core_05_band_accountability.md#proportionality) · [M](../core_05_band_accountability.md#proportionality-a) · [A](../core_05_band_accountability.md#proportionality-a) · [C](../core_05_band_accountability.md#proportionality-c)
-- [Risk](../core_05_band_continuity.md#risk) · [O](../core_05_band_continuity.md#risk) · [M](../core_05_band_continuity.md#risk-a) · [A](../core_05_band_continuity.md#risk-a) · [C](../core_05_band_continuity.md#risk-c)
-- [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) · [O](../core_05_band_integrative.md#authority-stack) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
-- [Emergency and Contingency](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05_band_continuity.md#emergency-and-contingency-constitutional-c)
 
 </details>
 
@@ -251,26 +188,11 @@ Apply **CJS-4.1.2** (*Attachment publication*) for shared rotating-attachment re
 - **Class B** — maximum and minimum attachment rules must be **published**; **undefined discretion** over duration is **non-compliant**.
 - **Class A** — the ordinary **maximum** of **one calendar year** for a single rotating attachment spell is **expected**; any **longer** published ceiling requires **independent external assurance** or **documented external participation** in the approval record under **CI-7.2**.
 
-### CI-9.3.4: Home-based authority: term and renewal
+## CI-9.3.4: Home-based authority: term and renewal
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-9.3.4: Home-based authority: term and renewal**.
 - Read with: **CI-9.3.4**; **CJS-4.1.2**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance) · [O](../core_05_band_oversight.md#classification-scaled-governance) · [M](../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../core_05_band_oversight.md#classification-scaled-governance-c)
-- [Proportionality](../core_05_band_accountability.md#proportionality) · [O](../core_05_band_accountability.md#proportionality) · [M](../core_05_band_accountability.md#proportionality-a) · [A](../core_05_band_accountability.md#proportionality-a) · [C](../core_05_band_accountability.md#proportionality-c)
-- [Risk](../core_05_band_continuity.md#risk) · [O](../core_05_band_continuity.md#risk) · [M](../core_05_band_continuity.md#risk-a) · [A](../core_05_band_continuity.md#risk-a) · [C](../core_05_band_continuity.md#risk-c)
-- [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) · [O](../core_05_band_integrative.md#authority-stack) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
-- [Emergency and Contingency](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05_band_continuity.md#emergency-and-contingency-constitutional-c)
 
 </details>
 
@@ -280,26 +202,11 @@ Apply **CJS-4.1.2** (*Attachment publication*) for shared rotating-attachment re
 
 Apply **CJS-4.1.2** (*Attachment publication*) for shared home-based continuity requirements (published term, renewal, and stagger rules and no mirror requirement relative to rotating formulas). **CI-9.3.4** retains institution-specific scaling and assurance requirements on top of that shared floor.
 
-### CI-9.4: Survival floors, voluntary exchange, and markets (**Article III-A** (*Survival*) interface)
+## CI-9.4: Survival floors, voluntary exchange, and markets (**Article III-A** (*Survival*) interface)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-9.4: Survival floors, voluntary exchange, and markets (**Article III-A** (*Survival*) interface)**.
 - Read with: **CI-9.4**; **CI-10.1**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Proportionality](../core_05_band_accountability.md#proportionality) · [O](../core_05_band_accountability.md#proportionality) · [M](../core_05_band_accountability.md#proportionality-a) · [A](../core_05_band_accountability.md#proportionality-a) · [C](../core_05_band_accountability.md#proportionality-c)
-- [Necessity](../core_05_band_accountability.md#necessity) · [O](../core_05_band_accountability.md#necessity) · [M](../core_05_band_accountability.md#necessity-a) · [A](../core_05_band_accountability.md#necessity-a) · [C](../core_05_band_accountability.md#necessity-c)
-- [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
-- [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance) · [O](../core_05_band_oversight.md#classification-scaled-governance) · [M](../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../core_05_band_oversight.md#classification-scaled-governance-c)
-- [Risk](../core_05_band_continuity.md#risk) · [O](../core_05_band_continuity.md#risk) · [M](../core_05_band_continuity.md#risk-a) · [A](../core_05_band_continuity.md#risk-a) · [C](../core_05_band_continuity.md#risk-c)
-- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
 
 </details>
 

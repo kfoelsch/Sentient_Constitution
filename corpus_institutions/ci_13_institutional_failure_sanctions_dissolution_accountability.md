@@ -1,9 +1,26 @@
-## CI-13: Institutional failure, sanctions, dissolution, and accountability
+# CI-13: Institutional failure, sanctions, dissolution, and accountability
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the institutional implementation home for **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-13: Institutional failure, sanctions, dissolution, and accountability**.
 - Read with: **CI-13**; **CI-5**; **CI-8**; **CI-11**; **CI-14**; **CF-7**; **CF-11**; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router.
 
 </details>
@@ -23,7 +40,7 @@
 
 <br>
 
-*In plain terms: **CI-13** is the institutions layer's "what happens when an institution keeps breaking the rules?" rulebook — when repeated misconduct or chronic misalignment forces graduated sanctions, supervised operation, dissolution review, or disbandment, and how rights, records, and services stay protected while that happens. Institutions do not get infinite chances to stall reform — and they do not get to be the sole keeper of the official consequence record when they are the subject of review. Shared realignment-resistance and dissolution-trigger floors live in **CJS-5.15** (*structural review, correction urgency, and disclosure terms*); integrity routing and verified-misconduct chains live in **CJS-5.6** (*integrity assurance and resilience operations*); official lead-record custody for alignment and consequence sequencing lives in **CF-7**; this file states what each institution must cooperate with, publish, and implement locally.*
+*In plain terms: **CI-13** is the institutions layer's "what happens when an institution keeps breaking the rules?" rulebook — when repeated misconduct or chronic misalignment forces graduated sanctions, supervised operation, dissolution review, or disbandment, and how rights, records, and services stay protected while that happens. Institutions do not get infinite chances to stall reform — and they do not get to be the sole keeper of the official consequence record when they are the subject of review. Shared realignment-resistance and dissolution-trigger floors live in **CJS-5.15** (*structural review, correction urgency, and disclosure terms*); integrity routing and verified-misconduct chains live in **CJS-5.6** (*integrity assurance and resilience operations*); official lead-record custody for alignment and consequence sequencing lives in **CF-7**. What this file adds is local: what each institution must cooperate with, publish, and implement locally.*
 
 **Quick orientation**
 

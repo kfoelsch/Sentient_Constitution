@@ -1,12 +1,30 @@
-## CF-5: Routing operations, transfer, certification, and representative treatment
+# CF-5: Routing operations, transfer, certification, and representative treatment
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-5** (*Routing operations, transfer, certification, and representative treatment*).
+>
+> Start at the [Forums landing page](../corpus_forum.md) for reading order, or the [forums registry](cf_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the forum implementation home for **CF-5** (*Routing operations, transfer, certification, and representative treatment*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-5.1 Published intake classes](#cf-51-published-intake-classes).
 - Read with: **CF-5**; **CF-5.1**; **CF-5.2**; **CF-7**; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
-- Topic routing (mandatory read-with): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-12**.
-- Topic routing (primary owner): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.5**, **CJS-5.13** (*procedural integrity and adjudication terms*), **CI-8**.
+- Topic routing (mandatory read-with): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-2.1** (*Topic router*); primary owner **CI-12**.
+- Topic routing (primary owner): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router*). Mandatory read-with: **CJS-4.5**, **CJS-5.13**, **CI-8**.
 
 </details>
 
@@ -20,11 +38,13 @@
 - [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
 - [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
 - [Incentive Alignment](../core_05_band_integrative.md#incentive-alignment) · [O](../core_05_band_integrative.md#incentive-alignment) · [M](../core_05_band_integrative.md#incentive-alignment-a) · [A](../core_05_band_integrative.md#incentive-alignment-a) · [C](../core_05_band_integrative.md#incentive-alignment-c)
+- [Unified Incident Record](../core_05_band_accountability.md#unified-incident-record) · [O](../core_05_band_accountability.md#unified-incident-record) · [M](../core_05_band_accountability.md#unified-incident-record-a) · [A](../core_05_band_accountability.md#unified-incident-record-a) · [C](../core_05_band_accountability.md#unified-incident-record-c)
 
 </details>
 
 <br>
 
+*In plain terms: **CF-5** (*Routing operations*) is day-to-day traffic control for cases — how a matter is classified on arrival, who triages it, when it may be transferred, and how anyone acting on another's behalf must be treated. Routing must be published and reviewable, so a case cannot be steered to a friendly venue in silence.*
 
 This section turns [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-access rules into day-to-day routing requirements. It explains how forum families must handle:
 - published intake classes and intake triage (**CF-5.1** (*Published intake classes*), **CF-5.2** (*Intake triage body*));
@@ -40,55 +60,26 @@ This section implements the primary-stakes rule in `core_11-11_forum.md` **Chapt
 
 **Chapter Eleven linkage.** Each forum family must have an intake triage body — the family's first-touch desk — as required by **Chapter Eleven**, **section 2**, which also states mixed-stakes safeguards, asymmetry rules, standing-record contests, and the merits-panel boundary. That requirement works alongside **transfer**, **consolidation**, **certification**, and **backup** discipline in **sections 3 and 5**, and **forum support** before, during, and after review in **section 7**. An intake triage body helps route matters at the start; it is **not** a separate forum family and cannot replace a lawfully constituted **merits** panel. **CF-5.1** (*Published intake classes*) and **CF-5.2** (*Intake triage body*) state the operational rules for that boundary.
 
-### CF-5.1 Published intake classes
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+## CF-5.1 Published intake classes
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-5.1 Published intake classes**.
-- Read with: **CF-5.1**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Adjudication and Dispute Resolution](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Accessibility](../core_05_band_participation.md#accessibility-constitutional) · [O](../core_05_band_participation.md#accessibility-constitutional) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
-
-</details>
-
-<br>
+*In plain terms: Every family must publish how it sorts incoming matters by urgency, with at least three levels, and add finer sorting when volume demands it.*
 
 Each required forum family must publish an intake path. At minimum, that path must:
 - include **at least three** priority or urgency classes for matters within the family's constitutional scope;
 - allow the family to add or adjust classes when caseload volume, matter mix, backlog risk, or foreseeable stress makes finer sorting necessary for timeliness, rights protection, or contest integrity;
 - describe each class in plain language, including where matters are expected to go, what service expectations apply, and how a matter can move **between** classes when the facts or stakes materially change.
 
-### CF-5.2 Intake triage body
+## CF-5.2 Intake triage body
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-5.2 Intake triage body**.
 - Read with: **CF-5.2**; **CF-5.1**.
 
 </details>
 
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-- [Adjudication and Dispute Resolution](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Accessibility](../core_05_band_participation.md#accessibility-constitutional) · [O](../core_05_band_participation.md#accessibility-constitutional) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
-- [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [Unified Incident Record](../core_05_band_accountability.md#unified-incident-record) · [O](../core_05_band_accountability.md#unified-incident-record) · [M](../core_05_band_accountability.md#unified-incident-record-a) · [A](../core_05_band_accountability.md#unified-incident-record-a) · [C](../core_05_band_accountability.md#unified-incident-record-c)
-
-</details>
-
 <br>
+
+*In plain terms: Somebody must own the first touch — sorting arrivals into the published classes — and that role carries the same independence and challenge expectations as the rest of the process.*
 
 Each required forum family must publish an **intake triage body**, or a functionally equivalent arrangement — the family's **first-touch desk** under **Chapter Eleven**, **section 2**. The body or arrangement must have the same duties, independence expectations, and contestability. At minimum, it must:
 - sort incoming matters into the published classes under **CF-5.1** (*Published intake classes*);

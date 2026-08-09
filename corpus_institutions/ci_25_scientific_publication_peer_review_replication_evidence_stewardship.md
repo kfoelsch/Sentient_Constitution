@@ -1,11 +1,29 @@
-## CI-25: Scientific publication, peer review, replication, and evidence stewardship
+# CI-25: Scientific publication, peer review, replication, and evidence stewardship
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-25** (*Scientific publication, peer review, replication, and evidence stewardship*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the institutional implementation home for **CI-25** (*Scientific publication, peer review, replication, and evidence stewardship*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-25.1: Publication intake and correction records](#ci-251-publication-intake-and-correction-records); [CI-25.2: Evidence, review, and reviewer custody](#ci-252-evidence-review-and-reviewer-custody); [CI-25.3: Challenge, correction, and access](#ci-253-challenge-correction-and-access); [CI-25.4: Incentive criteria](#ci-254-incentive-criteria); [CI-25.5: Ombuds, escalation, and technical forum referral](#ci-255-ombuds-escalation-and-technical-forum-referral).
 - Read with: **CI-25**; **CI-6**; **CI-12**.
-- Topic routing (mandatory read-with): **CJS-R09** (*Technical forums and specialist chambers*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-10**.
+- Topic routing (mandatory read-with): **CJS-R09** (*Technical forums and specialist chambers*) in **CJS-2.1** (*Topic router*); primary owner **CF-10**.
 
 </details>
 
@@ -24,7 +42,7 @@
 
 <br>
 
-*In plain terms: **CI-25** is the institutions layer's rulebook for how science and scholarship actually work in practice — publishing claims, peer review, replication, corrections, and keeping evidence trustworthy enough to rely on. Science is public verification infrastructure, not a prestige contest. Evidence quality, critique, replication, and correction behavior must matter more than journal brand, impact factor, or who you know. Correcting an error must always be easier than hiding one. Shared claim-testing, review, reliance, correction, and incentive-integrity floors live in **CJS-5.5** (*independent verification and claim-integrity terms*); constitutional meaning lives in **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*); this file states what each institution must name, file, and maintain locally.*
+*In plain terms: **CI-25** is the institutions layer's rulebook for how science and scholarship actually work in practice — publishing claims, peer review, replication, corrections, and keeping evidence trustworthy enough to rely on. Science is public verification infrastructure, not a prestige contest. Evidence quality, critique, replication, and correction behavior must matter more than journal brand, impact factor, or who you know. Correcting an error must always be easier than hiding one. Shared claim-testing, review, reliance, correction, and incentive-integrity floors live in **CJS-5.5** (*independent verification and claim-integrity terms*). The constitutional meaning sits in **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*). What this file adds is local: what each institution must name, file, and maintain locally.*
 
 **Quick orientation**
 
@@ -54,12 +72,10 @@
 - Apply **CJS-5.5** (*independent verification and claim-integrity terms*) for the shared claim-testing, review, reliance, correction, and incentive-integrity floors.
 - **CI-25** states only local **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) publication owner files, ombuds routing, and **CF-10** referral interfaces across **CI-25.1** through **CI-25.5**.
 
-### CI-25.1: Publication intake and correction records
+## CI-25.1: Publication intake and correction records
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-25.1: Publication intake and correction records**.
 - Read with: **CI-25.1**; **CI-25.2**.
 
 </details>
@@ -74,12 +90,10 @@ Each institution in scope must name and maintain locally:
 - **versioned intake and correction record** — a searchable history of submissions, amendments, supersessions, retractions, and expressions of concern; and
 - **reliance-status field** — whether the institution treats a claim as provisional, verified, contested, superseded, or withdrawn.
 
-### CI-25.2: Evidence, review, and reviewer custody
+## CI-25.2: Evidence, review, and reviewer custody
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-25.2: Evidence, review, and reviewer custody**.
 - Read with: **CI-25.2**; **CI-25.1**; **CI-25.3**.
 
 </details>
@@ -95,12 +109,10 @@ Each institution in scope must name and maintain locally:
 - **reviewer-custody record** — who reviewed what, under what independence and conflict controls, including signed, pseudonymous, confidential, or specialist review modes where used; and
 - **replication and adversarial-review status** — whether independent replication or adversarial review was attempted or completed for high-impact, safety-relevant, policy-relevant, or dependency-relevant claims.
 
-### CI-25.3: Challenge, correction, and access
+## CI-25.3: Challenge, correction, and access
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-25.3: Challenge, correction, and access**.
 - Read with: **CI-25.3**; **CI-25.2**; **CI-25.4**.
 
 </details>
@@ -116,12 +128,10 @@ Each institution in scope must name and maintain locally:
 - **access file** — how qualified independent reviewers obtain underlying materials or justified substitutes for verification, subject only to narrow lawful limits; and
 - **bundling-justification record** — where publication, review, curation, funding, archival custody, reputation, or reliance functions are bundled, the justification and independent audit route for that bundling.
 
-### CI-25.4: Incentive criteria
+## CI-25.4: Incentive criteria
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-25.4: Incentive criteria**.
 - Read with: **CI-25.4**; **CI-25.3**.
 
 </details>
@@ -134,12 +144,10 @@ Each institution in scope must name and maintain locally:
 
 - **incentive-criteria file** — how hiring, promotion, grantmaking, procurement, ranking, adoption, or standing rewards evidence quality rather than opaque prestige proxies, selective-publication bias, hype inflation, citation cartels, or concealment of correction history.
 
-### CI-25.5: Ombuds, escalation, and technical forum referral
+## CI-25.5: Ombuds, escalation, and technical forum referral
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-25.5: Ombuds, escalation, and technical forum referral**.
 - Read with: **CI-25.5**; **CI-6**; **CI-12**; **CF-10**.
 
 </details>

@@ -1,15 +1,33 @@
-## Integrative cross-leg operations (CJS-5.22–CJS-5.23)
+# Integrative cross-leg operations (CJS-5.22–CJS-5.23)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Integrative cross-leg operations (CJS-5.22–CJS-5.23)**.
+>
+> Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the joint-structure implementation home for **Integrative cross-leg operations (CJS-5.22–CJS-5.23)**.
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **Integrative cross-leg operations (CJS-5.22–CJS-5.23)**.
 - Read with: [CJS-5.1](cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) constitutional compass.
 
 </details>
 
 <br>
 
+*In plain terms: Two clusters that no single Tetrad leg owns cleanly. Constrained secrecy sits between oversight and accountability: some investigations must stay quiet without becoming unreviewable. Intervention integrity sits between accountability and continuity: someone must be able to intervene in a running system without that power going unchecked.*
 
 This family holds clusters that require simultaneous satisfaction across Tetrad legs and cannot be owned cleanly by one leg alone: constrained secrecy (Oversight + Accountability) and technical intervention integrity (Accountability + Continuity, complementing **CJS-5.14** (*Accountability: intervention governance and override-authorization terms*)).
 
@@ -24,8 +42,6 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.22 Integrative: constrained-secrecy and protected-investigation terms**.
 - Read with: **CJS-5.10**; **CJS-5.3**; **CJS-5.15 and CJS-5.6**; **CJS-5.22**; **CJS-5.12**; **CJS-5.2 and CJS-5.6**.
 - Read with: **CJS-5.22 — Constrained Secrecy and Protected Investigations**
 - Read with: **CJS-5.12 — Burden of Justification and Constraint**
@@ -54,6 +70,8 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
 </details>
 
 <br>
+
+*In plain terms: Some work genuinely must stay quiet for a while. This states the limits: bounded scope, a defined end, and eventual disclosure — secrecy with an expiry date rather than a permanent shield.*
 
 Use this rule when secrecy, protected investigations, oversight, or delayed release depends on standalone system behavior or combined institutional, governance, system, or implementation-layer behavior.
 
@@ -91,8 +109,6 @@ No permanent secrecy and anti-normalization discipline
 - OP-E: Evaluation must verify periodic revalidation, automatic release review, and escalation for prolonged or repeated secrecy.
 - OP-C: Indefinite secrecy or secrecy used to defeat accountability is non-compliant.
 
-
-
 ---
 
 ---
@@ -100,8 +116,6 @@ No permanent secrecy and anti-normalization discipline
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.23 Integrative: intervention and override integrity terms**.
 - Read with: **CJS-5.23**; **CJS-5.19**; **CJS-5.3**; **CJS-5.21**; **CJS-5.15 and CJS-5.6**; **CJS-5.14 and CJS-5.23**.
 - Read with: **CJS-5.23 — Intervention and Override Rights**
 - Read with: **CJS-5.19 — Graceful Degradation and Failure Mode Integrity**
@@ -132,6 +146,8 @@ No permanent secrecy and anti-normalization discipline
 </details>
 
 <br>
+
+*In plain terms: Systems need a way to interrupt harm quickly, and that emergency stop must itself be accountable — otherwise the safety mechanism becomes the vulnerability.*
 
 Use this rule when technical intervention, governance authorization, and accountability depend on standalone system behavior or combined system, governance, or implementation-layer behavior.
 
@@ -184,8 +200,6 @@ Trigger scope and timeliness applicability
 - OP-O: Triggers cover risks to sentients, environment, info-sphere, integrity, safety, and accountability.
 - OP-E: Evaluation must verify explicit thresholds and avoid reliance on after-the-fact remedies where harm can move faster.
 - OP-C: Sole reliance on post-hoc audit or restoration is non-compliant where preemptive intervention is required.
-
-
 
 ---
 

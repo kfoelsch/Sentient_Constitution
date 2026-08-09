@@ -1,9 +1,26 @@
-## CI-16: Care labor, dependent support, respite, and care-economy fairness
+# CI-16: Care labor, dependent support, respite, and care-economy fairness
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-16** (*Care labor, dependent support, respite, and care-economy fairness*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the institutional implementation home for **CI-16** (*Care labor, dependent support, respite, and care-economy fairness*).
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-16: Care labor, dependent support, respite, and care-economy fairness**.
 - Read with: **CI-16**; **CI-9.4**; **CI-10**; **CI-8.4**; **CI-20**; **CI-19**.
 
 </details>
@@ -23,7 +40,7 @@
 
 <br>
 
-*In plain terms: **CI-16** is the institutions layer's rulebook for care work — the paid and unpaid labor that keeps dependents, elders, disabled sentients, families, and communities functioning. Respite must be a real pathway, not a brochure. Care cannot be treated as invisible background capacity that institutions free-ride on. Coercion in care relationships must have an intake door and escalation route. Reproductive and embodiment-related labor must show up in budgets, metrics, service routes, and labor pathways — not disappear into "family responsibility." Shared care, respite, and support-dependency adequacy floors live in **CJS-5.16** (*dependency integrity and disclosure terms*); constitutional meaning lives in **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*), **Article III-D** (*Labor and Economic Floor*), **Article III-C** (*Bodily-Maintenance and Healthcare Access*), and **Chapter Five** *Family and Care Relationships*; this file states what each institution must name, file, and maintain locally.*
+*In plain terms: **CI-16** is the institutions layer's rulebook for care work — the paid and unpaid labor that keeps dependents, elders, disabled sentients, families, and communities functioning. Respite must be a real pathway, not a brochure. Care cannot be treated as invisible background capacity that institutions free-ride on. Coercion in care relationships must have an intake door and escalation route. Reproductive and embodiment-related labor must show up in budgets, metrics, service routes, and labor pathways — not disappear into "family responsibility." Shared care, respite, and support-dependency adequacy floors live in **CJS-5.16** (*dependency integrity and disclosure terms*). The constitutional meaning sits in **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*), **Article III-D** (*Labor and Economic Floor*), **Article III-C** (*Bodily-Maintenance and Healthcare Access*), and **Chapter Five** *Family and Care Relationships*. What this file adds is local: what each institution must name, file, and maintain locally.*
 
 **Quick orientation**
 

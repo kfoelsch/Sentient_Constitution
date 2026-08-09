@@ -1,5 +1,5 @@
 <a id="cs-2-part-b-data-classifications"></a>
-## CS-2, Part B: Data classifications
+# CS-2, Part B: Data classifications
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -19,7 +19,7 @@
 <br>
 
 <a id="8-data-classifications"></a>
-### 8. Data classifications
+## 8. Data classifications
 
 *In plain terms: the letter codes are domain labels, not a ranked sensitivity scale. Types share access-posture bands so common rules can attach to the sharing style. When more than one type fits, the stronger protections win.*
 
@@ -42,7 +42,8 @@ These type letters name different kinds of data and how they are usually shared 
 **Non-accessible by default** — consent or justified override only ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)):
 - **Type N** — Neurocognitive and internal data: thoughts, feelings, and other inner states, including reconstructions or inferences of them; non-accessible by default.
 
-#### 8.1 Type E: Environmental, emergency, and survival-coordination data
+<a id="81-type-e-environmental-emergency-and-survival-coordination-data"></a>
+### 8.1 Type E: Environmental, emergency, and survival-coordination data
 
 **Accessibility posture:** Open / accessible by default (strong presumption) ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
 
@@ -64,7 +65,7 @@ These type letters name different kinds of data and how they are usually shared 
 
 **Disclosure posture:** **Presumptive accessibility** under the **open / accessible by default** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)). Narrow hold-backs require justification under **CJS-5.12** (*burden-of-justification and constraint terms*) and **CJS-5.5** (*independent verification and claim-integrity terms*). Shared timeliness, presentation, fidelity, and restriction-discipline rules are in [Part A §5.1](cs_02_a_information_types_and_handling.md#51-proportional-access-and-handling)–[§5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access).
 
-##### 8.1.1 Type E access and handling duties
+#### 8.1.1 Type E access and handling duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -93,7 +94,8 @@ These type letters name different kinds of data and how they are usually shared 
 - reclassify or fragment it across domains in ways that reduce effective accessibility or obscure relevance to survival, coordination, or risk
 - **fail** to collect, maintain, or update it where such failure would produce **functional unavailability equivalent to withholding**
 
-#### 8.2 Type G: Governance and operational source data
+<a id="82-type-g-governance-and-operational-source-data"></a>
+### 8.2 Type G: Governance and operational source data
 
 **Accessibility posture:** Audit-accessible, not public ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
 
@@ -115,7 +117,7 @@ These type letters name different kinds of data and how they are usually shared 
 **Disclosure posture:** **Not public by default** under the **audit-accessible, not public** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)). Access is through **structured or qualified audit access** under **CJS-5.3** (*auditability and reconstructability terms*) and **CJS-5.4** (*tiered transparency and audit-access terms*), with public-facing accountability carried by **Type O**.
 
 <a id="821-type-g-access-and-handling-duties"></a>
-##### 8.2.1 Type G access and handling duties
+#### 8.2.1 Type G access and handling duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -149,7 +151,7 @@ These type letters name different kinds of data and how they are usually shared 
 - use **complexity, opacity, or format fragmentation** to defeat auditability (contrary to **CJS-5.8** (*comprehensibility and cognitive accessibility terms*), **CJS-5.10** (*disclosure sufficiency and observability terms*), and **CJS-5.3** (*auditability and reconstructability terms*))
 
 <a id="type-o-open-public-baseline-disclosure-data"></a>
-#### 8.3 Type O: Open public oversight baseline disclosure data
+### 8.3 Type O: Open public oversight baseline disclosure data
 
 **Accessibility posture:** Open / accessible by default (strong presumption for Public Oversight Baseline Disclosure release) ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
 
@@ -190,7 +192,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 
 **Disclosure posture:** **Baseline public accessibility** under the **open / accessible by default** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)). Deeper structured or qualified audit access to **Type G** (or other non-public source) may run in parallel but must not replace [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) where **Type O** applies.
 
-##### 8.3.1 Type O access and handling duties
+#### 8.3.1 Type O access and handling duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -221,7 +223,8 @@ Baseline visibility into purpose, operational status, material risk, performance
 - use **complexity, opacity, or format fragmentation** to defeat Public Oversight Baseline Disclosure auditability or contestability
 - label restricted source data **Type O** without lawful substitute, reclassification, or release discipline
 
-#### 8.4 Type H: Historical, relational, transactional, and participation data
+<a id="84-type-h-historical-relational-transactional-and-participation-data"></a>
+### 8.4 Type H: Historical, relational, transactional, and participation data
 
 **Accessibility posture:** Restricted by default ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
 
@@ -241,7 +244,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 - Access is allowed to the extent necessary for **system operation**, **accountability**, **dispute resolution**, **audit**, and **user visibility** into their own activity.
 - **Public transparency** is allowed where data is sufficiently aggregated or de-identified such that re-identification risk is minimized under **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*).
 
-##### 8.4.1 Type H access and handling duties
+#### 8.4.1 Type H access and handling duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -276,9 +279,10 @@ Baseline visibility into purpose, operational status, material risk, performance
 - use **Type H** to create **hidden or coercive behavioral profiling** (including opaque social scoring, predictive manipulation, or differential treatment that is not transparent, challengeable, and aligned with this Constitution)
 - **retain** fine-grained behavioral histories longer than justified by purpose, safety, audit, or stakeholder need
 - create **asymmetric informational advantages** that materially impair affected sentients’ ability to understand, challenge, or respond to decisions affecting them
-- use external, contractor-held, foreign-partner, or parallel-system data flows to circumvent limits that would have applied to direct collection, linkage, or analysis under **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*), **CJS-5.12** (*burden-of-justification and constraint terms*), or this chapter
+- use external, contractor-held, foreign-partner, or parallel-system data flows to circumvent limits that would have applied to direct collection, linkage, or analysis under **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*), **CJS-5.12** (*burden-of-justification and constraint terms*), or this section
 
-#### 8.5 Type I: Identity and attribution data
+<a id="85-type-i-identity-and-attribution-data"></a>
+### 8.5 Type I: Identity and attribution data
 
 **Accessibility posture:** Restricted by default ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
 
@@ -303,7 +307,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 **Disclosure posture:** **High restriction** under the **restricted by default** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)).
 - No system may require **global, persistent, or unified** identity across all contexts without **justified necessity** under **CJS-5.12** (*burden-of-justification and constraint terms*).
 
-##### 8.5.1 Type I access and handling duties
+#### 8.5.1 Type I access and handling duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -327,7 +331,8 @@ Baseline visibility into purpose, operational status, material risk, performance
 
 **Handling — prohibited.** Shared Type H / Type I anti-capture limits — including centralization and security- or intelligence-system watchlisting, cross-context tracking, and belief-linked profiling — are in [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands).
 
-#### 8.6 Type N: Neurocognitive and internal data
+<a id="86-type-n-neurocognitive-and-internal-data"></a>
+### 8.6 Type N: Neurocognitive and internal data
 
 **Accessibility posture:** Non-accessible by default ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
 
@@ -343,7 +348,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 **Disclosure posture:** **Maximum restriction** under the **non-accessible by default** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)).
 - Access is permitted only through **explicit, informed, freely given consent** or **justified override** under **CJS-5.12** (*burden-of-justification and constraint terms*).
 
-##### 8.6.1 Type N access and handling duties
+#### 8.6.1 Type N access and handling duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -383,7 +388,8 @@ Baseline visibility into purpose, operational status, material risk, performance
 
 Shared consent-integrity and security-/intelligence-use record duties are in [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands).
 
-#### 8.7 Type S: Safety, security, and restricted investigation data
+<a id="87-type-s-safety-security-and-restricted-investigation-data"></a>
+### 8.7 Type S: Safety, security, and restricted investigation data
 
 **Accessibility posture:** Restricted by default (strong presumption); **time-bound** and **review-bound** ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
 
@@ -420,7 +426,7 @@ Shared consent-integrity and security-/intelligence-use record duties are in [Pa
   - the **scope** of restriction
   - **affected systems or stakeholders**
 
-##### 8.7.1 Type S access and handling duties
+#### 8.7.1 Type S access and handling duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -464,4 +470,3 @@ Shared consent-integrity and security-/intelligence-use record duties are in [Pa
 **Previous file:** [cs_02_a_information_types_and_handling.md](cs_02_a_information_types_and_handling.md)
 
 **Next file:** [cs_03_a_system_classification_machinery.md](cs_03_a_system_classification_machinery.md)
-

@@ -1,15 +1,33 @@
-## Continuity aim operations (CJS-5.16–CJS-5.21)
+# Continuity aim operations (CJS-5.16–CJS-5.21)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Continuity aim operations (CJS-5.16–CJS-5.21)**.
+>
+> Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<br>
+
+This file is the joint-structure implementation home for **Continuity aim operations (CJS-5.16–CJS-5.21)**.
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **Continuity aim operations (CJS-5.16–CJS-5.21)**.
 - Read with: [CJS-5.1](cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) constitutional compass.
 
 </details>
 
 <br>
 
+*In plain terms: These clusters keep a system working — and keep it possible to leave — under dependency, change, stress, and attack: knowing what you depend on, being able to export and exit, retaining data for the right span, failing gracefully rather than catastrophically, being able to undo, and resisting deliberate abuse.*
 
 This family operationalizes the constitutional [Continuity aim](../core_00_preamble.md#continuity): preserving lawful function under dependency, lifecycle change, stress, and adversarial conditions. **Continuity disambiguation:** constitutional **Continuity aim** (Chapter One §1) is distinct from operational or protocol continuity elsewhere in the corpus.
 
@@ -28,10 +46,7 @@ This family operationalizes the constitutional [Continuity aim](../core_00_pream
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.16 Continuity: dependency integrity and disclosure terms**.
 - Read with: **CJS-5.16**; **CJS-5.10**; **CJS-5.17**; **CJS-5.3**; **CJS-5.15 and CJS-5.6**; **CI-11**.
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 - Read with: **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity**
 - Read with: **CJS-5.10 — Transparency and Disclosure**
 - Read with: **CJS-5.17 — Interoperability, Portability, and Exit Integrity**
@@ -42,6 +57,8 @@ This family operationalizes the constitutional [Continuity aim](../core_00_pream
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — not protocol or forum continuity alone.
 - Chapter One basis: §2.1, §3.1, §4.1, §12.1, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router*); primary owner **CJS-4.3**.
+
 </details>
 
 <details>
@@ -59,6 +76,7 @@ This family operationalizes the constitutional [Continuity aim](../core_00_pream
 
 <br>
 
+*In plain terms: If a system leans on something important, that reliance must be named, watched, and disclosed. Unmapped dependencies are how a single outage becomes a systemic failure.*
 
 Use this rule when dependency mapping, risk treatment, or accountability depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
@@ -117,10 +135,7 @@ Substitutability, exit constraints, and mitigation duties
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.17 Continuity: interoperability, portability, and exit-integrity terms**.
 - Read with: **CJS-5.17**; **CJS-5.16**; **CJS-5.10**; **CI-12.3**.
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 - Read with: **CJS-5.17 — Interoperability, Portability, and Exit Integrity**
 - Read with: **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity**
 - Read with: **CJS-5.10 — Transparency and Disclosure**
@@ -133,6 +148,8 @@ Substitutability, exit constraints, and mitigation duties
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — exit paths preserve lawful agency and system survivability.
 - Chapter One basis: §4.1, §11.1, §12.1, §13, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router*); primary owner **CJS-4.3**.
+
 </details>
 
 <details>
@@ -150,6 +167,7 @@ Substitutability, exit constraints, and mitigation duties
 
 <br>
 
+*In plain terms: Leaving must stay genuinely possible: real export, workable interfaces, and no design that makes departure technically available but practically impossible.*
 
 Use this rule when lock-in, migration, interface design, or dependency exposure depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
@@ -243,10 +261,7 @@ Right-to-exit pathway integrity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.18 Continuity: data-retention and lifecycle-integrity terms**.
 - Read with: **CJS-3.5**; **CJS-5.3**; **CJS-5.4**; **CJS-5.5**; **CJS-5.20 and CJS-5.18**; **CJS-5.15 and CJS-5.6**.
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 - Read with: **CJS-5.3 — Auditability**
 - Read with: **CJS-5.4 — Tiered Transparency and Audit Access**
 - Read with: **CJS-5.5 — Independent Verification and Integrity of Claims**
@@ -257,6 +272,8 @@ Right-to-exit pathway integrity
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — lifecycle rules must not narrow the Continuity aim.
 - Chapter One basis: §2.2, §11.2, §12.1, §13, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router*); primary owner **CJS-4.3**.
+
 </details>
 
 <details>
@@ -274,6 +291,7 @@ Right-to-exit pathway integrity
 
 <br>
 
+*In plain terms: How long data is kept, how it changes, what gets linked to what, and what deletion actually means — because retention decisions quietly determine what can be audited or abused later.*
 
 Use this rule when accountability, privacy, reversibility, or classification depends on how data is kept, changed, linked, or deleted within a standalone system, institution, forum, or bounded decision domain, or across more than one system or implementation layer.
 
@@ -332,18 +350,12 @@ Transparency disclosures and stakeholder legibility
 - OP-E: Reviewers must verify that disclosures are clear enough for stakeholders to understand the practical consequences.
 - OP-C: Incomplete, obscure, or misleading retention disclosures are non-compliant.
 
-
-
-
 ---
 ## CJS-5.19 Continuity: graceful degradation and failure-mode integrity terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.19 Continuity: graceful degradation and failure-mode integrity terms**.
 - Read with: **CJS-5.19**; **CJS-5.9 and CJS-5.10**; **CJS-5.16**; **CJS-5.20 and CJS-5.18**; **CJS-5.15 and CJS-5.6**.
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 - Read with: **CJS-5.19 — Graceful Degradation and Failure Mode Integrity**
 - Read with: **CJS-5.9** (*Participation: salience integrity and attention-allocation terms*) and **CJS-5.10** (*Participation: disclosure sufficiency and observability terms*) — System Status, Risk, and Scope Representation
 - Read with: **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity**
@@ -353,6 +365,8 @@ Transparency disclosures and stakeholder legibility
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Operational degradation discipline serves constitutional **Continuity**; not a substitute for it.
 - Chapter One basis: §2.1, §3.1, §4.1, §11.1, §12, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router*); primary owner **CJS-4.3**.
+
 </details>
 
 <details>
@@ -370,6 +384,7 @@ Transparency disclosures and stakeholder legibility
 
 <br>
 
+*In plain terms: Under partial failure a system must behave honestly: degrade visibly rather than pretend to work, and fail in a way that can be recovered from.*
 
 Use this rule when reliability, signaling, containment, or recovery depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
@@ -433,10 +448,7 @@ Signaling integrity and anti-silent-failure controls
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.20 Continuity: reversibility and containment terms**.
 - Read with: **CJS-5.20 and CJS-5.18**; **CJS-5.16**; **CJS-5.19**; **CJS-5.3**; **CJS-5.4**; **CJS-5.5**.
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 - Read with: **CJS-5.20** (*Continuity: reversibility and containment terms*) and **CJS-5.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity**
 - Read with: **CJS-5.19 — Graceful Degradation and Failure Mode Integrity**
@@ -446,6 +458,8 @@ Signaling integrity and anti-silent-failure controls
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — reversibility protects against irreversible constitutional harm.
 - Chapter One basis: §2.1, §3.1, §11.1, §12.1, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router*); primary owner **CJS-4.3**.
+
 </details>
 
 <details>
@@ -463,6 +477,7 @@ Signaling integrity and anti-silent-failure controls
 
 <br>
 
+*In plain terms: Design so that mistakes can be undone and damage stays local. Irreversible-by-default architecture converts every error into a permanent one.*
 
 Use this rule when rollback, failure isolation, or restoration depends on a standalone system, institution, forum, or bounded decision domain, or on more than one system, dependency, institution, or implementation layer.
 
@@ -491,8 +506,6 @@ Rollback and containment capability
 - OP-E: Reviewers must verify that those paths are documented, testable, available in time to matter, and usable by the responsible actors.
 - OP-C: Rollback or containment that exists only on paper, has not been tested where testing is feasible, or cannot work in practice is non-compliant.
 
-
-
 ---
 
 ---
@@ -500,8 +513,6 @@ Rollback and containment capability
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.21 Continuity: adversarial robustness and abuse-resistance terms**.
 - Read with: **CJS-5.21**; **CJS-5.10**; **CJS-5.16**; **CJS-5.19**; **CJS-5.3**; **CJS-5.5**.
 - Read with: **CJS-5.21 — Adversarial Robustness and Abuse Resistance**
 - Read with: **CJS-5.10 — Transparency and Disclosure**
@@ -533,6 +544,8 @@ Rollback and containment capability
 </details>
 
 <br>
+
+*In plain terms: Assume someone will actively try to misuse the system, including by exploiting its incentives rather than its code, and build defenses that survive that.*
 
 Use this rule when attack surfaces, incentive exploitation, or integrity defenses depend on a standalone system, institution, forum, or bounded decision domain, or on more than one system, dependency, institution, governance path, or implementation layer.
 

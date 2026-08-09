@@ -130,7 +130,6 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex); [CJS-2.2](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-22-intentional-overlap-non-duplication-discipline) intentional overlap.
-- Downstream: this section's local operational requirements for **Institutions overlap discipline**.
 - Read with: [CJS-2.2](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-22-intentional-overlap-non-duplication-discipline); **CI-3**; **CI-6**; **CI-7**; **CI-9.3**.
 
 </details>
@@ -156,7 +155,6 @@ For within-folder navigation by topic family, use [Institutions registry (stable
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary.
-- Downstream: this section's local operational requirements for **Institutions read-with pointers**.
 - Read with: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-2.3](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-23-two-tier-definition-contract-binding-abstraction--owner-detail); **CI-1**.
 
 </details>
