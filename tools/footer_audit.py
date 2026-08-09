@@ -49,7 +49,6 @@ CORE_CHAIN = (
 
 CJS_CHAIN = (
     "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-    "corpus_joint_structure/cjs_02_implementation_integration_map.md",
     "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
     "corpus_joint_structure/cjs_04_specific_joint_interlocks.md",
     "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",

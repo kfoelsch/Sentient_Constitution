@@ -143,7 +143,7 @@ Chapters Twelve–Fifteen when adopting as a polity or organization with an amen
 | **Emergency / continuity stack** | Named use stack — clear human door + owner path |
 | **CI** | Full pass: readability, owner fit, human door |
 | **CF** | Full pass |
-| **CJS** | Full pass; demote or non-face **implementation integration** (`CJS-2`) for average readers |
+| **CJS** | Full pass; demote or non-face **implementation integration** (`CJS-2`) for average readers — **done 2026-08-09** (**CJS-2.1**–**2.3** live in **CJS-0** annex; no dedicated family file; sequential read **CJS-1** → **CJS-3**) |
 
 ### 4.3 High-suspicion rework
 
@@ -172,7 +172,7 @@ Chapters Twelve–Fifteen when adopting as a polity or organization with an amen
 | 3 | **Standing + SAC entry doors** — human one-sentence job + how-to-read on each stack home | **Next** |
 | 4 | **Mature the Audit stack** — define home, reader door, and operator path; remove false “reader-facing integration” patterns | Open |
 | 5 | **Mature Remedy and Emergency / continuity stacks** — named doors; no parallel norms; shared stewardship duties apply to human and AI stewards alike | Open |
-| 6 | **CJS demote-the-integration-surface** — reader path vs operator path | Open |
+| 6 | **CJS demote-the-integration-surface** — reader path vs operator path | **Done 2026-08-09** — **CJS-2.1**–**2.3** folded into **CJS-0** registry annex (no dedicated file); human path **CJS-0.1** + reader index; sequential read **CJS-1** → **CJS-3** |
 | 7 | **CI / CF full dissection** — readability, modular attach, no parallel norms | Open |
 | 8 | **CS deep rework** — data types + classification apply-test with human and AI fact patterns | Open |
 | 9 | **Handoff trials** — same fact patterns across at least two models or agents; judge consistency per §6.5 | Open |

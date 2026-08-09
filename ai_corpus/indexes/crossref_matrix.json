@@ -169,7 +169,7 @@
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+        "id": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
         "type": "companion"
       },
       {
@@ -8582,7 +8582,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 1,
             "anchors": []
           },
@@ -8753,7 +8753,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 11,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -8917,7 +8917,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 12,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -8931,7 +8931,7 @@
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+        "source": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -8993,7 +8993,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 8,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -9132,7 +9132,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 12,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -9266,7 +9266,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 10,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -9387,7 +9387,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 1,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -9540,7 +9540,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 2,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -9774,7 +9774,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 6,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -9938,7 +9938,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 7,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -10074,7 +10074,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 3,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -10240,7 +10240,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 7,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -10411,7 +10411,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 5,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -10517,7 +10517,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 11,
             "anchors": [
               "#cjs-21-topic-router-stable-ids",
@@ -10683,7 +10683,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 3,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -11627,7 +11627,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 10,
             "anchors": [
               "#cjs-21-topic-router-stable-ids",
@@ -11792,7 +11792,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 3,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -11992,7 +11992,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 8,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -12133,7 +12133,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 6,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -12254,7 +12254,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 4,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -12363,7 +12363,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 1,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -12483,7 +12483,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 5,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -12638,7 +12638,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 5,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -12798,7 +12798,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 9,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -12917,7 +12917,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 3,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -13012,7 +13012,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 1,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -13121,7 +13121,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 1,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -13224,7 +13224,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 2,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -13378,7 +13378,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 5,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -13472,7 +13472,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 1,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -13572,7 +13572,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 1,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -13672,7 +13672,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 1,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -13779,7 +13779,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 1,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -13873,7 +13873,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 2,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -13979,7 +13979,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 1,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -14082,7 +14082,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 4,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -14182,7 +14182,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 1,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -14283,7 +14283,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 1,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -14377,7 +14377,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 1,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -14471,7 +14471,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 6,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -14580,7 +14580,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 1,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -14696,7 +14696,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 1,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -14883,7 +14883,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 11,
             "anchors": [
               "#cjs-21-topic-router-stable-ids",
@@ -14972,7 +14972,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 3,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -15113,7 +15113,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 9,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -15288,7 +15288,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 14,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -15386,7 +15386,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 4,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -15534,7 +15534,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 13,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -15707,7 +15707,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 24,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -15851,7 +15851,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 7,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -16015,7 +16015,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 12,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -16159,7 +16159,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 16,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -16366,7 +16366,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 19,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -16489,7 +16489,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 10,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -16612,7 +16612,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 6,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -16728,7 +16728,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 7,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -16866,7 +16866,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 7,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
@@ -17018,7 +17018,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 10,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"

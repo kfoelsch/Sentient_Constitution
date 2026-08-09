@@ -36,7 +36,7 @@
       "status": "present"
     },
     {
-      "file": "core_05_apex_flourishing_aim.md",
+      "file": "core_05_apex_accountability_leg.md",
       "label": "core",
       "status": "present"
     },
@@ -46,12 +46,22 @@
       "status": "present"
     },
     {
-      "file": "core_05_band_oversight.md",
+      "file": "core_05_apex_flourishing_aim.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05_band_participation.md",
+      "file": "core_05_apex_oversight_leg.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_05_apex_participation_leg.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_05_apex_timeliness_leg.md",
       "label": "core",
       "status": "present"
     },
@@ -71,6 +81,16 @@
       "status": "present"
     },
     {
+      "file": "core_05_band_oversight.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_05_band_participation.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
       "file": "core_05_band_performance.md",
       "label": "core",
       "status": "present"
@@ -86,6 +106,11 @@
       "status": "present"
     },
     {
+      "file": "core_07-07_system_alignment_certification.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
       "file": "core_08-08_standing_assessment.md",
       "label": "core",
       "status": "present"
@@ -97,6 +122,11 @@
     },
     {
       "file": "core_10_a_misconduct_designation.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_10_b_misconduct_pattern_applications.md",
       "label": "core",
       "status": "present"
     },
