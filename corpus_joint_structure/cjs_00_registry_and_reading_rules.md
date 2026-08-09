@@ -34,7 +34,7 @@
 > | **Cross-cutting operational terms** — evidence, procedure, dependency, participation, failure handling, and similar joint terms | [cjs_05_cross_implementation_operational_terms.md](cjs_05_cross_implementation_operational_terms.md) (**CJS-5**) |
 >
 > **Come back to CJS-0 through CJS-3 when**
-> - a citation sends you to **CJS-1.2**, **CJS-3**, or another *reader-facing* section in these families — read that section, not the whole family;
+> - a citation sends you to **CJS-1.2**, **CJS-3** (**CJS-3.2**–**CJS-3.6**), or another *reader-facing* section in these families — read that section, not the whole family; applicability (**CJS-3.1**) and citation hygiene live in this annex;
 > - you need to know **which file owns a topic** — [CJS-0.1](#cjs-01-cross-file-routing) (*Cross-file routing*) or the [topic router reader index](../doc_architecture/generated/topic_router_reader_index.md);
 > - you are **editing or auditing** cross-file routing — **CJS-2** (integrator map) and **CJS-0.3**.
 >
@@ -76,9 +76,9 @@ The joint-structure layer (**CJS**) coordinates shared interfaces among four imp
 
 Scope, boundary, and the shared implementation-corpus contract live in the next file: **CJS-1.1** through **CJS-1.3** in [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md).
 
-- **CJS-0.1** — cross-file routing for humans: how **primary owner** and **mandatory read-with** work, and the topic finder. **CJS-2** is integrator/maintainer only.
+- **CJS-0.1** — cross-file routing for humans: how **primary owner** and **mandatory read-with** work, when joint obligations apply, and the topic finder. **CJS-2** is integrator/maintainer only.
 - **CJS-0.2** — joint-structure section-family registry (**CJS-1** through **CJS-5**).
-- **CJS-0.3** — stable identifiers, edition alignment, and maintainer drafting notes.
+- **CJS-0.3** — stable identifiers, edition alignment, **CJS-5** citation hygiene, and maintainer drafting notes.
 - **CJS-0.4** — cross-domain implementation layer entry pointer.
 
 ### CJS-0.1: Cross-file routing
@@ -111,6 +111,10 @@ Apply topics within the default reading stack named in **CJS-1.1** (*Joint struc
 
 If a matter triggers more than one cross-layer topic, apply **every** triggered topic whose scope is materially true.
 
+**When joint obligations apply**
+
+Joint obligations in [CJS-3](cjs_03_joint_structural_obligations.md) (*Joint structural obligations (cross-domain requirements)*) apply when the topic routing for the facts requires reading more than one implementation file (human path: this section and the [topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); authoritative row table for editors and auditors: **CJS-2.1**), or when an adopting instrument says the **CJS folder** applies. Stable citation home for this trigger: **CJS-3.1** (*When joint obligations apply*) in [cjs_03_joint_structural_obligations.md](cjs_03_joint_structural_obligations.md#cjs-31-when-joint-obligations-apply).
+
 **Topic finder**
 
 Use the [topic router reader index](../doc_architecture/generated/topic_router_reader_index.md) for a plain-language grouped map, then open the primary owner. This section states how **primary owner** and **mandatory read-with** work; it does not send average readers into **CJS-2**.
@@ -127,9 +131,9 @@ Use the [topic router reader index](../doc_architecture/generated/topic_router_r
 > **Principle-layer routing:** Read with [Chapter One](../core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) — [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), and [material stake](../core_00_preamble.md#material-stake). **CJS-5** (*Implementation and cross-implementation operational cluster library*) scales burden and constraint under material stake where materially relevant.
 >
 > **Implementation anchors**
-> - **Routing (human path):** **CJS-0.1** (*Cross-file routing*) and the [topic router reader index](../doc_architecture/generated/topic_router_reader_index.md). **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*) gives stricter-wins discipline.
+> - **Routing (human path):** **CJS-0.1** (*Cross-file routing*) and the [topic router reader index](../doc_architecture/generated/topic_router_reader_index.md). Joint-obligation applicability: **When joint obligations apply** in **CJS-0.1** (stable stub **CJS-3.1**). **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*) gives stricter-wins; citation hygiene for **CJS-5** labels is in **CJS-0.3**.
 > - **Routing (integrator/maintainer only):** authoritative row IDs and mandatory read-with lists live in **CJS-2.1** — not a reader door.
-> - **Joint obligations:** **CJS-3** (*Joint structural obligations (cross-domain requirements)*) gives requirements that must be satisfied together when more than one implementation file applies to the same facts.
+> - **Joint obligations:** **CJS-3** (*Joint structural obligations (cross-domain requirements)*) gives requirements that must be satisfied together when more than one implementation file applies to the same facts (**CJS-3.2**–**CJS-3.6** reader-facing body).
 > - **Domain limits:** CJS coordinates shared interfaces. It does not replace day-to-day domain rules owned only by `corpus_systems.md`, `corpus_institutions.md`, or `corpus_forum.md`.
 >
 > **What CJS-2 holds (integrator inventory — do not open for ordinary reading)**
@@ -188,7 +192,7 @@ These are the stable section families for the CJS folder:
 | **CJS-0** | Registry, cross-file routing guide, and reading rules | Editors, auditors, readers who are lost | this file (`cjs_00_registry_and_reading_rules.md`) |
 | **CJS-1** | Scope, purpose, and boundary interface | Editors, auditors; general readers when cited | [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) |
 | **CJS-2** | Integrator/maintainer integration map only — not reader-facing; no dedicated family file (human guide in **CJS-0.1** + reader index) | Editors, auditors | [CJS-2.1](#cjs-21-topic-router-stable-ids) in this file |
-| **CJS-3** | General joint structural obligations: requirements that cross domains | Readers handling cross-layer facts; editors, auditors | [cjs_03_joint_structural_obligations.md](cjs_03_joint_structural_obligations.md) |
+| **CJS-3** | General joint structural obligations: requirements that cross domains. Applicability trigger (**CJS-3.1**) and citation hygiene live in this registry annex (**CJS-0.1**, **CJS-0.3**). | Topic-driven when cited for cross-layer facts — not front-to-back | [cjs_03_joint_structural_obligations.md](cjs_03_joint_structural_obligations.md) |
 | **CJS-4** | Specific joint interlocks and shared abstractions | Topic-driven readers when routed; implementers | [cjs_04_specific_joint_interlocks.md](cjs_04_specific_joint_interlocks.md) |
 | **CJS-5** | Cross-implementation operational cluster library; audit process home at **CJS-5.3** | Readers needing shared operational terms or the auditing guide | [cjs_05_cross_implementation_operational_terms.md](cjs_05_cross_implementation_operational_terms.md); audit process: [cjs_05_audit_process.md](cjs_05_audit_process.md) |
 
@@ -219,6 +223,10 @@ These are the stable section families for the CJS folder:
 *In plain terms: section labels like **CJS-2.1** stay stable across corpus editions so cross-references do not break when text moves between files.*
 
 **Edition alignment:** The visible **Corpus edition** and **Effective date** labels must track **Corpus** labels in adopting instruments and [README.md](../README.md) edition metadata.
+
+**Implementation-label citation hygiene**
+
+When **CS**, **CI**, or **CF** cite **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, adopters must keep those references traceable and must not use implementation text to weaken them. Stricter-wins between adopted implementation standards on the same risk remains in [CJS-3.6](cjs_03_joint_structural_obligations.md#cjs-36-implementation-label-traceability-and-stricter-wins-discipline) (*Implementation-label traceability and stricter-wins discipline*).
 
 
 <details>

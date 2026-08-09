@@ -135,7 +135,7 @@ Sample formulas are illustrative unless a **primary owner** makes them mandatory
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-4.2 Implementation boundary (primary owner to CJS seam)**.
-- Read with: **CJS-4.2**; **CJS-1.1**; **CJS-3.6**.
+- Read with: **CJS-4.2**; **CJS-1.1**; **CJS-0.3**; **CJS-3.6**.
 
 </details>
 
@@ -150,14 +150,14 @@ Sample formulas are illustrative unless a **primary owner** makes them mandatory
 
 <br>
 
-*In plain terms: **CJS** connects files — it does not swallow them. When editors revise joint-structure text, keep the full rule in the **primary owner** file (**CS**, **CI**, or **CF**), keep **CJS** pointers short, and keep **CJS-5** cluster citations traceable.*
+*In plain terms: **CJS** connects files — it does not swallow them. When editors revise joint-structure text, keep the full rule in the **primary owner** file (**CS**, **CI**, or **CF**), keep **CJS** pointers short, and keep **CJS-5** cluster citations traceable under **CJS-0.3**.*
 
 Under the shared boundary in **CJS-1.1** (*Joint structural boundary and owner discipline*), the CJS-5 (*Implementation and cross-implementation operational cluster library*) cluster files remain the operative home for their local operational terms.
 
 When revising **CJS** joint-structure text:
 - keep **CS**, **CI**, or **CF** **primary owner** requirements in those files;
 - keep read-with restatements short; and
-- preserve **CJS-5** (*Implementation and cross-implementation operational cluster library*) cluster citations so references remain traceable under **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*).
+- preserve **CJS-5** (*Implementation and cross-implementation operational cluster library*) cluster citations so references remain traceable under [CJS-0.3](cjs_00_registry_and_reading_rules.md#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable identifiers, edition alignment, and drafting notes*); stricter-wins remains **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*).
 
 ### CJS-4.3 Cross-implementation trust integrity (joint operation model)
 <details>
