@@ -30,7 +30,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router.
-- Downstream: **CJS-1.0** through **CJS-1.13** in this file.
+- Downstream: **CJS-1.0** through **CJS-1.13** in this file, including **CJS-1.7.1** (*Implementation boundary (primary owner to CJS seam)*).
 - Read with: **CJS-1**; **CJS-1.0**; **CJS-1.1**; **CJS-1.2**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-2**; **CJS-3**.
 
 </details>
@@ -103,6 +103,7 @@ This file is the joint-structure implementation home for **CJS-1** (*Scope, purp
 This file (**CJS-1**) is the **binding gateway** for that set. Use it when you need the shared contract, the default reading stack, or the map into domain doors. It does **not** replace [Chapter One §1 Purpose and Role](../core_01_a_values_principles.md#1-purpose-and-role) — that section states why the Constitution itself exists.
 
 ## CJS-1.1: Joint structural boundary and owner discipline
+<a id="cjs-11-joint-structural-boundary-and-owner-discipline"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -145,8 +146,8 @@ This subsection is the shared starting contract those layers point to instead of
 | Tell "Continuity aim" from operational continuity | Constitutional **Continuity aim** (Chapter One §1) is distinct from operational or protocol continuity (for example forum continuity, institutional continuity, or **Protocol D** partition resilience). Do not treat operational continuity language as narrowing the Continuity aim. |
 | Add detail in an implementation file | Add only what belongs inside that file's assigned scope. Keep the text understandable under **Article XX** (*Comprehensibility and Complexity Stewardship*). |
 | Find which file owns a topic | Start at [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*Cross-file routing*) and the [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md). For which *layer* owns the domain: [Preamble — constitutional owner register](../core_00_preamble.md#constitutional-owner-register) (chapters and companion corpora); then that layer's owns / does-not-own list on **CJS-1**, **CS-1**, **CI-1**, or **CF-1**. Editors and auditors use **CJS-0.1** for the authoritative row table. |
-| Apply more than one of **CJS**, **CS**, **CI**, and **CF** to the same facts | Use the default reading stack in **CJS-1.1**. Read [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) for **primary owner**, **mandatory read-with**, and when joint obligations apply. Combined satisfaction and stricter-wins: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) and [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer). Domain-specific joint rules: **CJS-1.8**–**CJS-1.10**. Deliberate-split and two-tier drafting contracts (**CJS-1.6**, **CJS-1.7**) are for editors and auditors. |
-| Resolve two rules that disagree on the same risk | Numbered `core_*` text controls constitutional meaning; adopted implementation may be stricter but not laxer. Stricter-wins between implementation files: [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins). CJS vs **primary owner** collision (editors/auditors): **CJS-1.7**. |
+| Apply more than one of **CJS**, **CS**, **CI**, and **CF** to the same facts | Use the default reading stack in **CJS-1.1**. Read [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) for **primary owner**, **mandatory read-with**, and when joint obligations apply. Combined satisfaction and stricter-wins: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) and [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer). Domain-specific joint rules: **CJS-1.8**–**CJS-1.10**. Deliberate-split, two-tier, and primary-owner-to-CJS seam drafting contracts (**CJS-1.6**, **CJS-1.7**, **CJS-1.7.1**) are for editors and auditors. |
+| Resolve two rules that disagree on the same risk | Numbered `core_*` text controls constitutional meaning; adopted implementation may be stricter but not laxer. Stricter-wins between implementation files: [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins). CJS vs **primary owner** collision (editors/auditors): **CJS-1.7** with the seam rule in **CJS-1.7.1**. |
 | Use intervention or override language | Keep **CJS-3.23** (*technical intervention and override integrity*) separate from **CJS-3.14** (*governance authorization*). Both apply where relevant. |
 | Handle emergencies spanning multiple files | Apply [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) (*Combined satisfaction of jointly applicable incorporated obligations*) with the topics that materially apply (owner Trace / [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)). |
 | Place a definition (not route a topic) | Constitutional terms: **Chapter Five** (with Chapters Two through Four for O/M/A/C mechanics). Reusable joint fit-together terms: **CJS-3**. Shared ideas that need a binding skeleton plus owner detail: apply the two-tier contract in **CJS-1.7** when editing. |
@@ -192,7 +193,8 @@ Domain-layer overlap discipline: apply [Institutions overlap discipline](../corp
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: **CJS-1.7**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-1.6**; **CJS-2.2**; [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer) (*stricter-wins*).
+- Read with: **CJS-1.7**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-1.6**; **CJS-1.7.1**; [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer) (*stricter-wins*).
+- Downstream: [CJS-1.7.1 Implementation boundary (primary owner to CJS seam)](#cjs-171-implementation-boundary-primary-owner-to-cjs-seam).
 
 </details>
 
@@ -207,7 +209,7 @@ For this contract:
 - **No parallel canon:** CJS abstractions must not become a second full taxonomy for domains owned by **CJS**, **CS**, **CI**, or **CF**.
 - **Specialize, do not redefine:** owner files may specialize a CJS abstraction for their domain scope but must not redefine it incompatibly.
 
-When CJS text seems to conflict with a **primary owner** section, apply **CJS-1.6** (*Intentional overlap (non-duplication discipline)*) and **CJS-2.2** (*Implementation boundary (primary owner to CJS seam)*): if the CJS text only helps readers connect files, trigger a joint rule, or use shorthand inside one subsection, it does not replace the owner's meaning.
+When CJS text seems to conflict with a **primary owner** section, apply **CJS-1.6** (*Intentional overlap (non-duplication discipline)*) and **CJS-1.7.1** (*Implementation boundary (primary owner to CJS seam)*): if the CJS text only helps readers connect files, trigger a joint rule, or use shorthand inside one subsection, it does not replace the owner's meaning.
 
 When that boundary does not resolve the conflict, use this order:
 
@@ -219,6 +221,27 @@ When that boundary does not resolve the conflict, use this order:
 Do not use a broad reading of CJS to change, shrink, expand, or move a rule that belongs to a canonical owner. If the conflict is still unclear after applying this order, do not treat the broader CJS reading as controlling. Send the question to the canonical owner named in **CJS-0.1**, including the forum owner in **CF** where forum routing, forum authority, or Chapter Eleven procedure is affected, and update the CJS pointer once the owner clarifies it. For stricter-wins between two adopted implementation standards on the same risk, read [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins).
 
 Domain-layer read-with contracts: apply [Institutions read-with pointers](../corpus_institutions/ci_00_registry_and_reading_rules.md#institutions-read-with-pointers), [Forums read-with pointers](../corpus_forum/cf_00_registry_and_reading_rules.md#forums-read-with-pointers), and [Systems read-with pointers](../corpus_systems/cs_00_registry_and_reading_rules.md#systems-read-with-pointers) in the respective registry annexes.
+
+### CJS-1.7.1 Implementation boundary (primary owner to CJS seam)
+<a id="cjs-171-implementation-boundary-primary-owner-to-cjs-seam"></a>
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.7](#cjs-17-two-tier-definition-contract-binding-abstraction--owner-detail); [CJS-1.1](#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-1.6](#cjs-16-intentional-overlap-non-duplication-discipline).
+- Read with: **CJS-1.7.1**; **CJS-1.1**; **CJS-1.6**; **CJS-1.7**; **CJS-0.3**; [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer) (*stricter-wins*).
+
+</details>
+
+<br>
+
+*In plain terms: **CJS** connects files — it does not swallow them. When editors revise joint-structure text, keep the full rule in the **primary owner** file (**CS**, **CI**, or **CF**), keep **CJS** pointers short, and keep **CJS-3** cluster citations traceable under **CJS-0.3**.*
+
+Under the shared boundary in **CJS-1.1** (*Joint structural boundary and owner discipline*), the CJS-3 (*Implementation and cross-implementation operational cluster library*) cluster files remain the operative home for their local operational terms.
+
+When revising **CJS** joint-structure text:
+- keep **CS**, **CI**, or **CF** **primary owner** requirements in those files;
+- keep read-with restatements short; and
+- preserve **CJS-3** (*Implementation and cross-implementation operational cluster library*) cluster citations so references remain traceable under [CJS-0.3](cjs_00_registry_and_reading_rules.md#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable identifiers, edition alignment, and drafting notes*); stricter-wins remains [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins).
 
 ## CJS-1.8: Boundary Between Support Roles and Merits Decisions
 <a id="cjs-18-boundary-between-support-roles-and-merits-decisions"></a>

@@ -250,7 +250,7 @@ These are the stable section families for the CJS folder:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: **CJS-0.3**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-2.1**; **CJS-2.2**; **CJS-2**; **CJS-3**.
+- Read with: **CJS-0.3**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-2.1**; [CJS-1.7.1](cjs_01_scope_purpose_boundary_interface.md#cjs-171-implementation-boundary-primary-owner-to-cjs-seam); **CJS-2**; **CJS-3**.
 
 </details>
 
@@ -283,7 +283,7 @@ When **CS**, **CI**, or **CF** cite **CJS-3** (*Implementation and cross-impleme
 >
 > 1. Extend **CJS-0.1** (*Cross-implementation read-with contract*) with new rows only when the [Preamble — constitutional owner register](../core_00_preamble.md#constitutional-owner-register) or cross-file overlap changes; keep row IDs **stable** — append new IDs, do not renumber. When a row changes, update the **primary owner** and each **mandatory read-with** section so routing stays **bidirectional** (row ↔ owner ↔ read-with).
 > 2. When **CI**/**CF**/**CS** repeat the same joint interface paragraph, prefer a **one-line** pointer to the relevant CJS joint section, including **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*) for hybrid composition shared by **CI-9.3.2** (*Authority composition*) and **CF-3.6** (*Chamber authority composition and service mechanics*), and keep operative checklists in the **primary owner**.
-> 3. When implementation files repeat the same joint interface paragraph, apply **CJS-2.2** (*Implementation boundary (primary owner to CJS seam)*) the same way: use a **one-line** pointer to **CJS-2** (*Specific joint interlocks and shared abstractions*), **CJS-0.1** (*Cross-implementation read-with contract*), or the applicable **CJS-3** (*Implementation and cross-implementation operational cluster library*) cluster rather than duplicating OP clusters at length.
+> 3. When implementation files repeat the same joint interface paragraph, apply **CJS-1.7.1** (*Implementation boundary (primary owner to CJS seam)*) the same way: use a **one-line** pointer to **CJS-1** (*Scope, purpose, and boundary interface*), **CJS-2** (*Specific joint interlocks and shared abstractions*), **CJS-0.1** (*Cross-implementation read-with contract*), or the applicable **CJS-3** (*Implementation and cross-implementation operational cluster library*) cluster rather than duplicating OP clusters at length.
 > 4. Run `make reference-audit` after substantive cross-file moves.
 > 5. Where a new high-level joint abstraction is added, verify it remains **Tier 1 only** with no owner-mechanics migration, and record the duplicate-taxonomy risk in the active review notes until the deferred regression path is reinstated.
 

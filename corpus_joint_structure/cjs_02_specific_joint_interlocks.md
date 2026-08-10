@@ -15,8 +15,8 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CJS-2.1 Hybrid delegated authority (delegated binding bodies)](#cjs-21-hybrid-delegated-authority-delegated-binding-bodies); [CJS-2.1.1 Composition floor](#cjs-211-composition-floor); [CJS-2.1.2 Attachment publication](#cjs-212-attachment-publication); [CJS-2.2 Implementation boundary (primary owner to CJS seam)](#cjs-22-implementation-boundary-primary-owner-to-cjs-seam); [CJS-2.3 Cross-implementation trust integrity (joint operation model)](#cjs-23-cross-implementation-trust-integrity-joint-operation-model); [CJS-2.4 Class-scaled lane staffing and competency redundancy](#cjs-24-class-scaled-lane-staffing-and-competency-redundancy); [CJS-2.5 Shared procedural abstractions for delegated bodies and forum routing](#cjs-25-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing) and related local subsections.
-- Read with: **CJS-2**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-2.1**; [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; **CJS-2.2**.
+- Downstream: [CJS-2.1 Hybrid delegated authority (delegated binding bodies)](#cjs-21-hybrid-delegated-authority-delegated-binding-bodies); [CJS-2.1.1 Composition floor](#cjs-211-composition-floor); [CJS-2.1.2 Attachment publication](#cjs-212-attachment-publication); [CJS-2.3 Cross-implementation trust integrity (joint operation model)](#cjs-23-cross-implementation-trust-integrity-joint-operation-model); [CJS-2.4 Class-scaled lane staffing and competency redundancy](#cjs-24-class-scaled-lane-staffing-and-competency-redundancy); [CJS-2.5 Shared procedural abstractions for delegated bodies and forum routing](#cjs-25-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing) and related local subsections.
+- Read with: **CJS-2**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-2.1**; [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-1.7.1](cjs_01_scope_purpose_boundary_interface.md#cjs-171-implementation-boundary-primary-owner-to-cjs-seam).
 
 </details>
 
@@ -49,9 +49,9 @@
 
 This file is the joint-structure implementation home for **CJS-2** (*Specific joint interlocks and shared abstractions*).
 
-*In plain terms: this file names the concrete places where systems, institutions, and forum rules must connect — who sits on decision bodies, how trust claims hold up across layers, minimum staffing and backup for high-impact roles, and shared procedure terms both sides use.*
+*In plain terms: this file names the concrete places where systems, institutions, and forum rules must connect in operation — who sits on decision bodies, how trust claims hold up across layers, minimum staffing and backup for high-impact roles, and shared procedure terms both sides use. Seam and owner-boundary drafting rules live in **CJS-1.7.1**, not here.*
 
-- **General cross-file rules** — [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md)
+- **General cross-file rules** — [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) (including **CJS-1.7.1** primary-owner-to-CJS seam)
 - **Detailed operational terms** — [cjs_03_cross_implementation_operational_terms.md](cjs_03_cross_implementation_operational_terms.md)
 - **Full owner detail** — **CI** and **CF**, as **CJS-0.1** (*Topic router (stable IDs)*) directs
 <a id="cjs-21-mandatory-hybrid-authority-composition-delegated-binding-bodies"></a>
@@ -126,25 +126,6 @@ Where **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*) appl
 - any class-, forum-, institution-, emergency-, or substitution-specific safeguards required by **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*), **CF-3.5** (*Chamber creation, identification, and family boundary*), **CF-12** (*Forum continuity*), **CF-13** (*Fallback operation*), **CF-14** (*Emergency adjudication*), or related hooks.
 
 Sample formulas are illustrative unless a **primary owner** makes them mandatory. Home-based term rules do not need to mirror rotating attachment rules.
-
-## CJS-2.2 Implementation boundary (primary owner to CJS seam)
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: **CJS-2.2**; **CJS-1.1**; **CJS-0.3**; [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer) (*stricter-wins*).
-
-</details>
-
-<br>
-
-*In plain terms: **CJS** connects files — it does not swallow them. When editors revise joint-structure text, keep the full rule in the **primary owner** file (**CS**, **CI**, or **CF**), keep **CJS** pointers short, and keep **CJS-3** cluster citations traceable under **CJS-0.3**.*
-
-Under the shared boundary in **CJS-1.1** (*Joint structural boundary and owner discipline*), the CJS-3 (*Implementation and cross-implementation operational cluster library*) cluster files remain the operative home for their local operational terms.
-
-When revising **CJS** joint-structure text:
-- keep **CS**, **CI**, or **CF** **primary owner** requirements in those files;
-- keep read-with restatements short; and
-- preserve **CJS-3** (*Implementation and cross-implementation operational cluster library*) cluster citations so references remain traceable under [CJS-0.3](cjs_00_registry_and_reading_rules.md#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable identifiers, edition alignment, and drafting notes*); stricter-wins remains [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins).
 
 ## CJS-2.3 Cross-implementation trust integrity (joint operation model)
 <details>
