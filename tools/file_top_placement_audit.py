@@ -31,8 +31,8 @@ REGISTRY_GLOBS = (
     "corpus_institutions/*_00_registry_and_reading_rules.md",
     "corpus_forum/*_00_registry_and_reading_rules.md",
 )
-# Redirect stubs for retired family files carry no operative body.
-PLACEMENT_EXEMPT = {"cjs_02_implementation_integration_map.md"}
+# There are no live redirect stubs in the normalized CJS family.
+PLACEMENT_EXEMPT: set[str] = set()
 COMPANION_GLOBS = (
     "corpus_joint_structure/*.md",
     "corpus_systems/*.md",

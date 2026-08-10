@@ -20,10 +20,10 @@ This file is the forum implementation home for **CF-3** (*Forum formation, forum
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-3.1 Core structural rule](#cf-31-core-structural-rule); [CF-3.2 Family-to-forum-structure translation map](#cf-32-family-to-forum-structure-translation-map); [CF-3.3 Family distinction and non-collapse rule](#cf-33-family-distinction-and-non-collapse-rule); [CF-3.5 Chamber creation, identification, and family boundary](#cf-35-chamber-creation-identification-and-family-boundary).
 - Read with: **CF-3**; **CF-5**; **CF-16**; **CF-4**; **CF-11**; **CF-12**; **CF-13**; **CF-14**; **CF-3.1**.
-- Topic routing (primary owner): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Eleven famili…*) in **CJS-2.1** (*Topic router*). Mandatory read-with: **CJS-4.1**, **CJS-4.5**, **CJS-5.13**, **CI-9.3**.
+- Topic routing (primary owner): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Eleven famili…*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-2.1**, **CJS-2.5**, **CJS-3.13**, **CI-9.3**.
 
 </details>
 
@@ -181,7 +181,7 @@ Chambers must not be used to relabel one forum family as another, to erase famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-3.6**; **CF-3.5**; **CF-12**; **CF-13**; **CF-14**; **CJS-4.1**.
+- Read with: **CF-3.6**; **CF-3.5**; **CF-12**; **CF-13**; **CF-14**; **CJS-2.1**.
 
 </details>
 
@@ -189,12 +189,12 @@ Chambers must not be used to relabel one forum family as another, to erase famil
 
 *In plain terms: Who sits on a chamber, and how they are appointed and serve, must meet the shared floor for delegated binding bodies rather than being arranged case by case.*
 
-**Joint minimum.** Chamber-creation instruments in scope must satisfy **CJS-4.1** (*Hybrid delegated authority (delegated binding bodies)*), including **CJS-4.1.1** (*Composition floor*) and **CJS-4.1.2** (*Attachment publication*). Read that joint package with **CF-3.5** (*Chamber creation, identification, and family boundary*), this section, **CF-12** (*Forum continuity*), **CF-13** (*Fallback operation*), and **CF-14** (*Emergency adjudication*) for chamber identification, attachment bounds, home-based terms, and **forum** emergency deviation and return-to-baseline discipline.
+**Joint minimum.** Chamber-creation instruments in scope must satisfy **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*), including **CJS-2.1.1** (*Composition floor*) and **CJS-2.1.2** (*Attachment publication*). Read that joint package with **CF-3.5** (*Chamber creation, identification, and family boundary*), this section, **CF-12** (*Forum continuity*), **CF-13** (*Fallback operation*), and **CF-14** (*Emergency adjudication*) for chamber identification, attachment bounds, home-based terms, and **forum** emergency deviation and return-to-baseline discipline.
 
 Chamber-creation instruments must also state:
 - the chamber's **institutional design class** under `corpus_institutions.md` **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*), using the highest applicable `corpus_systems.md` **CS-3 — System classification and handling** class in governed scope: **Class A** (*absolute dependency*), **Class B** (*operational dependency*), or **Class C** (*coordination dependency*);
 - for every Chapter Eleven forum family, forum, adjudicative body, internal chamber, division, or designated panel, at least the **Class C** (*coordination dependency*) floor for institutional design class, even if other governed systems are labeled below Class C;
-- the attachment-publication requirements in **CJS-4.1.2**, with **one calendar year** treated as the ordinary **maximum** for a single rotating attachment spell unless the instrument publishes a longer ceiling and a brief justification;
+- the attachment-publication requirements in **CJS-2.1.2**, with **one calendar year** treated as the ordinary **maximum** for a single rotating attachment spell unless the instrument publishes a longer ceiling and a brief justification;
 - any stricter **Class A** or **Class B** assurance, external-participation, or publication requirement that applies through that institutional-design-class discipline when the chamber's governed scope reaches **absolute dependency** or **operational dependency** stakes.
 
 **Forum-specific rule.** This chamber-authority rule remains operative for **Chapter Eleven** forum families and chambers. Where general delegated-subunit rules in **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*) and forum-specific chamber-authority duties in this section overlap, the **stricter** rule governs. Forum-specific continuity, fallback, and emergency-adjudication controls remain in **CF-12** (*Forum continuity*), **CF-13** (*Fallback operation*), and **CF-14** (*Emergency adjudication*).

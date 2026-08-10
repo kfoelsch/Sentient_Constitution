@@ -344,9 +344,9 @@
     {
       "id": "CJS-R17",
       "topic": "Cross-implementation trust integrity (joint operation model)",
-      "primary_owner": "**CJS-4.3 \u2014 Cross-implementation trust integrity**",
+      "primary_owner": "**CJS-2.3 \u2014 Cross-implementation trust integrity**",
       "primary_attach": [
-        "CJS-4.3"
+        "CJS-2.3"
       ]
     },
     {
@@ -363,9 +363,9 @@
     {
       "id": "CJS-R19",
       "topic": "integrity assurance and resilience operations",
-      "primary_owner": "**CJS-5.6** (*Oversight: integrity assurance and resilience operations*)",
+      "primary_owner": "**CJS-3.6** (*Oversight: integrity assurance and resilience operations*)",
       "primary_attach": [
-        "CJS-5.6"
+        "CJS-3.6"
       ]
     }
   ],

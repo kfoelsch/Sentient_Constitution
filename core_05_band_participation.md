@@ -2738,7 +2738,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 
 <br>
 
-*In plain terms: when people who are affected by a system disagree about a decision that will stick, there must be a published fair process — who gets a say, how much influence anyone may have, how the decision gets made and challenged, and how conflicts among rights get written down — not back-room power.*
+*In plain terms: when sentients who are affected by a system disagree about a decision that will stick, there must be a published fair process — who gets a say, how much influence anyone may have, how the decision gets made and challenged, and how conflicts among rights get written down — not back-room power.*
 
 **Admission scope.** This cluster applies when a real disagreement requires a binding stakeholder choice inside a system, institution, or decision domain that is already authorized — especially where who may take part, how they are represented, how much influence they get, rights-affecting outcomes, or rights-collision records are at issue. Outside that scope, the individual pieces may still guide procedure without pulling in the whole compound requirement.
 
@@ -2786,7 +2786,7 @@ See **Joint invocation and satisfaction**.
       - representation;
       - contestability; and
       - any proportional influence.
-      Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). The sequence must not substitute ad hoc power for recorded process.
+      The sequence must not substitute ad hoc power for recorded process.
   - **Out of scope:**
     - informal straw polls;
     - unilateral operator decrees; or
@@ -2833,7 +2833,7 @@ See **Joint invocation and satisfaction**.
 *In plain terms: within already-authorized governance, weighting by impact, dependency, standing, or similar factors must be published, bounded against single-factor dominance, and open to contest and revalidation — and must not replace foundational equal-weight authorization rules.*
 
 - **What it is**
-  - **In scope:** Limits on how much say people may have — **weighting** — in binding stakeholder choices *inside* already-authorized [Governance](core_05_band_accountability.md#governance). How much say someone gets may track:
+  - **In scope:** Limits on how much say affected sentients may have — **weighting** — in binding stakeholder choices *inside* already-authorized [Governance](core_05_band_accountability.md#governance). How much say a stakeholder gets may track:
     - [Material Impact](core_05_band_oversight.md#material-impact);
     - [Dependency](core_05_band_continuity.md#dependency);
     - **standing**; or
@@ -2961,7 +2961,7 @@ See **Joint invocation and satisfaction**.
     - mere practical task capacity under Meaningful Agency; or
     - collective stakeholder weight in someone else's governance.
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether, in practice, people can still:
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether, in practice, affected sentients can still:
     - understand their options and refuse;
     - take a fair part in decisions that affect them; and
     - get a real review when something goes wrong —
@@ -3013,7 +3013,7 @@ See **Joint invocation and satisfaction**.
     - testimony, reportage, art, or discussion that foreseeably risks severe psychological harm —
     when communicated as expression among sentients with capacity.
   - **Boundary — expression is not the underlying act:** Protected expression under this home does not authorize:
-    - sexual contact, sexual services, sexualized recording or exposure of persons, or sexual exploitation — read [Consent, Sexual](core_05_band_participation.md#consent-sexual), **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*), and **Article VII-A** (*Self-Ownership of Body and Mind*);
+    - sexual contact, sexual services, sexualized recording or exposure of sentients, or sexual exploitation — read [Consent, Sexual](core_05_band_participation.md#consent-sexual), **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*), and **Article VII-A** (*Self-Ownership of Body and Mind*);
     - committing violence, [Cruelty](core_05_band_accountability.md#cruelty), or [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying) — read [Safety (Constraint)](core_05_band_continuity.md#safety-constraint); or
     - imposing foreseeable severe [Psychological Harm](core_05_band_accountability.md#psychological-harm) outside limitation discipline.
   - **Audience routing:** Where sexual, violent, or severe-psychological-harm-risk content is directed at, or foreseeably reaches by default, [developing sentients](core_05_band_participation.md#developing-sentient-constitutional) or comparably vulnerable audiences:
@@ -3042,9 +3042,9 @@ See **Joint invocation and satisfaction**.
     - compelled speech —
     those are not protected expression under this home.
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether, in practice, people can still speak and be heard — or whether any of the following shut that down without a real, narrowly tailored reason:
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether, in practice, sentients can still speak and be heard — or whether any of the following shut that down without a real, narrowly tailored reason:
     - bans or other restrictions;
-    - pressure that makes people stay quiet; or
+    - pressure that makes sentients stay quiet; or
     - targeting of particular viewpoints.
     - **Also ask whether:**
       - sexual, violent, or severe-harm-risk expression is wiped out under a false label; or
@@ -3091,32 +3091,32 @@ See **Joint invocation and satisfaction**.
   - **Out of scope:**
     - credential collection alone;
     - mandated training that builds no real contestable capability; or
-    - learning that does not apply to real-world problems people actually face.
+    - learning that does not apply to real-world problems sentients actually face.
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether access builds real contestable capability that applies to real-world problems — not only enrollment or credentials.
 
     **Primary assessment:** Under **Article VI** (*Right to Sentient-Centered Education*), check whether learning actually builds usable skill — not just a credential. Look at:
-    - whether what is taught applies to real-world problems people actually face;
-    - whether people can get in and take part;
+    - whether what is taught applies to real-world problems sentients actually face;
+    - whether sentients can get in and take part;
     - whether they are stuck in one path with no real way out;
     - whether grading or evaluation is too opaque to challenge; and
     - whether other real learning routes are being shut down or shoved aside.
   - **Secondary measure:** Even when credentials or enrollment exist on paper, also check whether education autonomy is hollowed out by:
     - weak [Meaningful Agency](core_05_band_participation.md#meaningful-agency) — choice that is not real in practice;
-    - [Accessibility](core_05_band_participation.md#accessibility-constitutional) barriers that keep people out;
+    - [Accessibility](core_05_band_participation.md#accessibility-constitutional) barriers that keep sentients out;
     - weak [Contestability](core_05_band_accountability.md#contestability) — no real way to challenge bad outcomes; or
-    - [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) that traps people in one path.
+    - [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) that traps sentients in one path.
 
     **Secondary assessment:** When checking the primary answer, also apply:
     - [Meaningful Agency](core_05_band_participation.md#meaningful-agency) — is the learning path actually choosable and usable?;
-    - [Contestability](core_05_band_accountability.md#contestability) — can people challenge grades, placements, or lock-in?; and
-    - **Article VI-B** (*Lifelong and Adaptive Learning and Contestability*) — can people keep learning, retrain, and contest high-stakes education systems over time?
+    - [Contestability](core_05_band_accountability.md#contestability) — can sentients challenge grades, placements, or lock-in?; and
+    - **Article VI-B** (*Lifelong and Adaptive Learning and Contestability*) — can sentients keep learning, retrain, and contest high-stakes education systems over time?
 - **What must hold**
   - **Primary failure:**
     - learning that does not apply to real-world problems;
     - symbolic-only access;
     - credential gatekeeping that defeats capability formation; or
-    - splitting education into separate boxes so people lose any real way to challenge outcomes where **Article VI** (*Right to Sentient-Centered Education*) applies.
+    - splitting education into separate boxes so sentients lose any real way to challenge outcomes where **Article VI** (*Right to Sentient-Centered Education*) applies.
   - **Secondary failure:**
     - lock-in; or
     - assessment opacity

@@ -20,7 +20,7 @@ This file is the institutional implementation home for **CI-23** (*Place-based s
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Read with: **CI-23**; **CI-7.2**; **CI-8**.
 
 </details>
@@ -40,7 +40,7 @@ This file is the institutional implementation home for **CI-23** (*Place-based s
 
 <br>
 
-*In plain terms: **CI-23** is the institutions layer's rulebook for decisions that touch land, ecosystems, and communities with durable place-based connection — especially Indigenous continuity of language, cultural practice, governance, and knowledge transmission. Consultation must be real, recorded, and challengeable — not a checkbox before bulldozers move. When a funded project runs "engagement" without changing risk decisions, someone must own the response and escalation route. What this file does is narrower than it may sound. It names who keeps consultation records, who responds to indigenous-continuity impacts, and who escalates compliance theater. It creates no unbounded territorial-restitution mandate, and it reopens no adoption-scope choice reserved to **Chapter Sixteen**. The shared floors sit elsewhere: **CJS-5.7** (*quorum and participatory legitimacy terms*) holds consultation and stakeholder oversight, and Chapter Five and Chapter Six hold the constitutional meaning. What this file adds is local: what each institution must name, file, and maintain.*
+*In plain terms: **CI-23** is the institutions layer's rulebook for decisions that touch land, ecosystems, and communities with durable place-based connection — especially Indigenous continuity of language, cultural practice, governance, and knowledge transmission. Consultation must be real, recorded, and challengeable — not a checkbox before bulldozers move. When a funded project runs "engagement" without changing risk decisions, someone must own the response and escalation route. What this file does is narrower than it may sound. It names who keeps consultation records, who responds to indigenous-continuity impacts, and who escalates compliance theater. It creates no unbounded territorial-restitution mandate, and it reopens no adoption-scope choice reserved to **Chapter Sixteen**. The shared floors sit elsewhere: **CJS-3.7** (*quorum and participatory legitimacy terms*) holds consultation and stakeholder oversight, and Chapter Five and Chapter Six hold the constitutional meaning. What this file adds is local: what each institution must name, file, and maintain.*
 
 **Quick orientation**
 
@@ -58,7 +58,7 @@ This file is the institutional implementation home for **CI-23** (*Place-based s
 
 *Shared rules live elsewhere.*
 
-- **[CJS-5.7](../corpus_joint_structure.md)** (*quorum and participatory legitimacy terms*) — the **Stakeholder oversight and binding-governance pathway integrity** control set, covering:
+- **[CJS-3.7](../corpus_joint_structure.md)** (*quorum and participatory legitimacy terms*) — the **Stakeholder oversight and binding-governance pathway integrity** control set, covering:
   - stakeholder identification;
   - participation rights and challenge paths;
   - advisory-versus-binding status;
@@ -75,7 +75,7 @@ This file is the institutional implementation home for **CI-23** (*Place-based s
 
 **Apply**
 
-- Apply **CJS-5.7** **Stakeholder oversight and binding-governance pathway integrity** for the shared consultation and participation floor.
+- Apply **CJS-3.7** **Stakeholder oversight and binding-governance pathway integrity** for the shared consultation and participation floor.
 - **CI-23** states only local consultation-record, indigenous-continuity, and compliance-theater escalation owner duties — without creating an unbounded territorial-restitution mandate or reopening adoption-scope choices reserved to **Chapter Sixteen**.
 
 **Local place-based stewardship and consultation role map**
@@ -83,7 +83,7 @@ This file is the institutional implementation home for **CI-23** (*Place-based s
 Each institution in scope must name the office or body responsible for:
 
 - **consultation-record custody** — who receives, stores, versions, and publishes consultation notices, submissions, responses, and decision rationales so participation can be reconstructed and challenged later;
-- **stakeholder and affected-community identification** — who determines which place-linked, Indigenous, tenure-holding, ecosystem-dependent, or comparable communities are materially affected, and so must receive notice and practical participation routes under **CJS-5.7** (*quorum and participatory legitimacy terms*);
+- **stakeholder and affected-community identification** — who determines which place-linked, Indigenous, tenure-holding, ecosystem-dependent, or comparable communities are materially affected, and so must receive notice and practical participation routes under **CJS-3.7** (*quorum and participatory legitimacy terms*);
 - **indigenous-continuity response** — who evaluates and routes decisions that materially implicate **Chapter Five** *Indigenous Continuity*, including impacts on language, cultural practice, governance practice, and knowledge transmission, under **Article V-B** (*Nondiscrimination*), **Article I-A** (*Environmental Preconditions and Ecological Integrity*), and **Chapter Sixteen** discipline where territorial-continuity questions arise;
 - **advisory-versus-binding pathway publication** — who publishes whether a consultation route is advisory, binding, or relied on for governance effect, and what challenge or correction paths follow; and
 - **compliance-theater escalation** — who escalates funded projects or supervised programs where consultation occurs without meaningful risk response to **CI-7.2** external-assurance triggers and **CI-8** cross-institution escalation.

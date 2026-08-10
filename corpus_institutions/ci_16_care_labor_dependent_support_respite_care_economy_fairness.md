@@ -20,7 +20,7 @@ This file is the institutional implementation home for **CI-16** (*Care labor, d
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Read with: **CI-16**; **CI-9.4**; **CI-10**; **CI-8.4**; **CI-20**; **CI-19**.
 
 </details>
@@ -40,7 +40,7 @@ This file is the institutional implementation home for **CI-16** (*Care labor, d
 
 <br>
 
-*In plain terms: **CI-16** is the institutions layer's rulebook for care work — the paid and unpaid labor that keeps dependents, elders, disabled sentients, families, and communities functioning. Respite must be a real pathway, not a brochure. Care cannot be treated as invisible background capacity that institutions free-ride on. Coercion in care relationships must have an intake door and escalation route. Reproductive and embodiment-related labor must show up in budgets, metrics, service routes, and labor pathways — not disappear into "family responsibility." Shared care, respite, and support-dependency adequacy floors live in **CJS-5.16** (*dependency integrity and disclosure terms*). The constitutional meaning sits in **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*), **Article III-D** (*Labor and Economic Floor*), **Article III-C** (*Bodily-Maintenance and Healthcare Access*), and **Chapter Five** *Family and Care Relationships*. What this file adds is local: what each institution must name, file, and maintain locally.*
+*In plain terms: **CI-16** is the institutions layer's rulebook for care work — the paid and unpaid labor that keeps dependents, elders, disabled sentients, families, and communities functioning. Respite must be a real pathway, not a brochure. Care cannot be treated as invisible background capacity that institutions free-ride on. Coercion in care relationships must have an intake door and escalation route. Reproductive and embodiment-related labor must show up in budgets, metrics, service routes, and labor pathways — not disappear into "family responsibility." Shared care, respite, and support-dependency adequacy floors live in **CJS-3.16** (*dependency integrity and disclosure terms*). The constitutional meaning sits in **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*), **Article III-D** (*Labor and Economic Floor*), **Article III-C** (*Bodily-Maintenance and Healthcare Access*), and **Chapter Five** *Family and Care Relationships*. What this file adds is local: what each institution must name, file, and maintain locally.*
 
 **Quick orientation**
 
@@ -56,7 +56,7 @@ This file is the institutional implementation home for **CI-16** (*Care labor, d
 
 *Shared rules live elsewhere.*
 
-- **[CJS-5.16](../corpus_joint_structure.md)** (*dependency integrity and disclosure terms*) — **Care, respite, and support-dependency adequacy**: substitution pathways, crisis coverage, accessibility constraints, and relief without abandonment, retaliation, or unreasonable eligibility burden.
+- **[CJS-3.16](../corpus_joint_structure.md)** (*dependency integrity and disclosure terms*) — **Care, respite, and support-dependency adequacy**: substitution pathways, crisis coverage, accessibility constraints, and relief without abandonment, retaliation, or unreasonable eligibility burden.
 - **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) in **Chapter Six** — family and care relationships, reproductive autonomy, and non-separation floors.
 - **Article III-D** (*Labor and Economic Floor*) in **Chapter Six** — fair compensation, collective organization, safe conditions, and leisure and rest for productive activity, including care work where material.
 - **Article III-C** (*Bodily-Maintenance and Healthcare Access*) in **Chapter Six** — bodily-maintenance and healthcare access for dependents without proxy denial.
@@ -70,7 +70,7 @@ This file is the institutional implementation home for **CI-16** (*Care labor, d
 
 **Apply**
 
-- Apply **CJS-5.16** **Care, respite, and support-dependency adequacy** for the shared floor.
+- Apply **CJS-3.16** **Care, respite, and support-dependency adequacy** for the shared floor.
 - **CI-16** states only local respite, metrics, coercion-intake, and reproductive-labor routing owners.
 
 **Local care-economy and support-dependency role map**

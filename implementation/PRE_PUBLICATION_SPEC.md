@@ -109,7 +109,7 @@ Open for the problem at hand.
 | Definition | Chapters Two–Five | Mechanics (2–4) mature; **Ch 5 band cleanup closed** (2026-08-08) |
 | System alignment certification | Chapter Seven | Existing stack — **next:** human entry door (step 3) |
 | Standing pipeline | Chapters Eight–Eleven (Chapter Ten = designation sub-pack) | Existing stack — **next:** human entry door (step 3) |
-| **Audit / oversight** | Article XV, Auditability, CJS-5.3 cluster, related OP annexes — exact home TBD | **Named stack to build / mature this cut** (not yet mature) |
+| **Audit / oversight** | Article XV, Auditability, CJS-3.3 cluster, related OP annexes — exact home TBD | **Named stack to build / mature this cut** (not yet mature) |
 | **Remedy** | Chapter Nine §9 / related enforcement-realism homes (e.g. CI-27) — exact door TBD | **Named use stack** this cut |
 | **Emergency / continuity** | Continuity-aim and emergency / continuity operational homes — exact door TBD | **Named use stack** this cut |
 
@@ -143,14 +143,14 @@ Chapters Twelve–Fifteen when adopting as a polity or organization with an amen
 | **Emergency / continuity stack** | Named use stack — clear human door + owner path |
 | **CI** | Full pass: readability, owner fit, human door |
 | **CF** | Full pass |
-| **CJS** | Full pass; demote or non-face **implementation integration** (`CJS-2`) for average readers — **done 2026-08-09** (**CJS-2.1**–**2.3** live in **CJS-0** annex; no dedicated family file; sequential read **CJS-1** → **CJS-3**) |
+| **CJS** | Full pass; demote or non-face **implementation integration** (`CJS-0.1`) for average readers — **done 2026-08-09** (**CJS-0.1**–**2.3** live in **CJS-0** annex; no dedicated family file; sequential read **CJS-1** → **CJS-1**) |
 
 ### 4.3 High-suspicion rework
 
 | Item | Why |
 |---|---|
 | **CS** (data types, system classification) | Suspected heaviest lift; prior unreadability; classification UX may block adoption |
-| Reader-facing surfaces that dump integration detail | Same failure mode as CJS-2 |
+| Reader-facing surfaces that dump integration detail | Same failure mode as CJS-0.1 |
 | Cross-stack alignment to Chapter One | Spine must actually drive conflict resolution; spine lock (step 1) not formally closed |
 
 ### 4.4 Structural checks (ongoing)
@@ -167,12 +167,12 @@ Chapters Twelve–Fifteen when adopting as a polity or organization with an amen
 
 | # | Step | Status |
 |---|---|---|
-| 1 | **Spine lock** — Chapter One (and Preamble model) alignment pass; regressions here are cut-blockers | **Open** (not formally closed; Ch1↔CJS-5 audits continue) |
+| 1 | **Spine lock** — Chapter One (and Preamble model) alignment pass; regressions here are cut-blockers | **Open** (not formally closed; Ch1↔CJS-3 audits continue) |
 | 2 | **Finish Chapter Five defs bands** — oversight → participation → integrative → performance | **Closed 2026-08-08** |
 | 3 | **Standing + SAC entry doors** — human one-sentence job + how-to-read on each stack home | **Next** |
 | 4 | **Mature the Audit stack** — define home, reader door, and operator path; remove false “reader-facing integration” patterns | Open |
 | 5 | **Mature Remedy and Emergency / continuity stacks** — named doors; no parallel norms; shared stewardship duties apply to human and AI stewards alike | Open |
-| 6 | **CJS demote-the-integration-surface** — reader path vs operator path | **Done 2026-08-09** — **CJS-2.1**–**2.3** folded into **CJS-0** registry annex (no dedicated file); human path **CJS-0.1** + reader index; sequential read **CJS-1** → **CJS-3** |
+| 6 | **CJS demote-the-integration-surface** — reader path vs operator path | **Done 2026-08-09** — **CJS-0.1**–**2.3** folded into **CJS-0** registry annex (no dedicated file); human path **CJS-0.1** + reader index; sequential read **CJS-1** → **CJS-1** |
 | 7 | **CI / CF full dissection** — readability, modular attach, no parallel norms | Open |
 | 8 | **CS deep rework** — data types + classification apply-test with human and AI fact patterns | Open |
 | 9 | **Handoff trials** — same fact patterns across at least two models or agents; judge consistency per §6.5 | Open |

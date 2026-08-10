@@ -1,11 +1,11 @@
-# Participation leg (CJS-5.7–CJS-5.10)
+# Participation leg (CJS-3.7–CJS-3.10)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Participation leg (CJS-5.7–CJS-5.10)**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Participation leg (CJS-3.7–CJS-3.10)**.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -13,15 +13,15 @@
 
 <br>
 
-This file is the joint-structure implementation home for **Participation leg (CJS-5.7–CJS-5.10)**.
+This file is the joint-structure implementation home for **Participation leg (CJS-3.7–CJS-3.10)**.
 
 <br>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: [CJS-5.1](cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) constitutional compass.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Read with: [CJS-3.1](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) constitutional compass.
 
 </details>
 
@@ -33,24 +33,24 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 
 | Cluster | Section |
 |---|---|
-| **CJS-5.7** | Participation: quorum and participatory legitimacy terms |
-| **CJS-5.8** | Participation: comprehensibility and cognitive accessibility terms |
-| **CJS-5.9** | Participation: salience integrity and attention-allocation terms |
-| **CJS-5.10** | Participation: disclosure sufficiency and observability terms |
+| **CJS-3.7** | Participation: quorum and participatory legitimacy terms |
+| **CJS-3.8** | Participation: comprehensibility and cognitive accessibility terms |
+| **CJS-3.9** | Participation: salience integrity and attention-allocation terms |
+| **CJS-3.10** | Participation: disclosure sufficiency and observability terms |
 
 ---
 
-## CJS-5.7 Participation: quorum and participatory legitimacy terms
+## CJS-3.7 Participation: quorum and participatory legitimacy terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-5.11 and CJS-5.7**; **CJS-5.13**.
-- Read with: **CJS-5.11** (*Accountability: distributed and proportional authority terms*), **CJS-5.7** (*Participation: quorum and participatory legitimacy terms*), and **CJS-5.13** (*Accountability: procedural integrity and adjudication terms*) for authority, participation legitimacy, and procedural integrity terms
+- Read with: **CJS-3.11 and CJS-3.7**; **CJS-3.13**.
+- Read with: **CJS-3.11** (*Accountability: distributed and proportional authority terms*), **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*), and **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*) for authority, participation legitimacy, and procedural integrity terms
 - Read with: **Sentient Constitution Chapter Twelve** section 4
 - Read with: **Chapter Six **Article IX-C** (*Governance Participation and Voting Entitlement*)**
 - Read with: **Chapter Six **Article XI** (*Stakeholder System Participation, Representation, and Due Process*)**
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: Chapter One §7.1, §3, §4.2, §11.4, §13, §6 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Chapter One basis: Chapter One §7.1, §3, §4.2, §11.4, §13, §6 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -63,7 +63,7 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 - [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
 - [Reversibility](../core_05_band_continuity.md#reversibility-constitutional) · [O](../core_05_band_continuity.md#reversibility-constitutional) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
 - [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
-- Chapter One basis: Chapter One §7.1, §3, §4.2, §11.4, §13, §6 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Chapter One basis: Chapter One §7.1, §3, §4.2, §11.4, §13, §6 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <br>
@@ -140,14 +140,14 @@ Weighted participation
 ---
 
 ---
-## CJS-5.8 Participation: comprehensibility and cognitive accessibility terms
+## CJS-3.8 Participation: comprehensibility and cognitive accessibility terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-5.8 — Comprehensibility and Cognitive Accessibility**
+- Read with: **CJS-3.8 — Comprehensibility and Cognitive Accessibility**
 - Read with: `corpus_systems.md` **Protocol B — System Comprehensibility and Complexity Stewardship**
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §2.4, §4.2, §12.1, §13 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §2.4, §4.2, §12.1, §13 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -227,19 +227,19 @@ Summary integrity
 ---
 
 ---
-## CJS-5.9 Participation: salience integrity and attention-allocation terms
+## CJS-3.9 Participation: salience integrity and attention-allocation terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-5.9 and CJS-5.10**; **CJS-5.10**; **CJS-5.21**.
-- Read with: **CJS-5.9** (*Participation: salience integrity and attention-allocation terms*) and **CJS-5.10** (*Participation: disclosure sufficiency and observability terms*) — System Status, Risk, and Scope Representation
-- Read with: **CJS-5.10 — Transparency and Disclosure**
-- Read with: **CJS-5.21 — Adversarial Robustness and Abuse Resistance**
+- Read with: **CJS-3.9 and CJS-3.10**; **CJS-3.10**; **CJS-3.21**.
+- Read with: **CJS-3.9** (*Participation: salience integrity and attention-allocation terms*) and **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*) — System Status, Risk, and Scope Representation
+- Read with: **CJS-3.10 — Transparency and Disclosure**
+- Read with: **CJS-3.21 — Adversarial Robustness and Abuse Resistance**
 - Read with: **Article XV-A** (*Auditability and Observable Evidence*)
 - Read with: **Chapter Six** incentive-alignment constraints
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §8, §2.2, §3, §12.1, §13 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router*); primary owner **CJS-4.3**.
+- Chapter One basis: §8, §2.2, §3, §12.1, §13 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
 
 </details>
 
@@ -313,18 +313,18 @@ User agency and control
 - OP-C: Penalizing, nagging, hiding features from, or otherwise disadvantaging sentients because they use these controls is non-compliant.
 
 ---
-## CJS-5.10 Participation: disclosure sufficiency and observability terms
+## CJS-3.10 Participation: disclosure sufficiency and observability terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-5.10**; **CJS-5.16**.
-- Read with: **CJS-5.10 — Transparency and Disclosure**
-- Read with: **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity** where dependencies matter
+- Read with: **CJS-3.10**; **CJS-3.16**.
+- Read with: **CJS-3.10 — Transparency and Disclosure**
+- Read with: **CJS-3.16 — Dependency Awareness, Disclosure, and Risk Integrity** where dependencies matter
 - Read with: **Article XV-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Internal-State Boundary and Type-N Protection*)
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §2.2, §11.2, §12.1, §13 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router*); primary owner **CJS-4.3**.
+- Chapter One basis: §2.2, §11.2, §12.1, §13 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
 
 </details>
 
@@ -374,6 +374,6 @@ Verification and comparative interpretation enablement
 
 ---
 
-**Previous file:** [cjs_05o_oversight_operations.md](cjs_05o_oversight_operations.md)
+**Previous file:** [cjs_03o_oversight_operations.md](cjs_03o_oversight_operations.md)
 
-**Next file:** [cjs_05a_accountability_operations.md](cjs_05a_accountability_operations.md)
+**Next file:** [cjs_03a_accountability_operations.md](cjs_03a_accountability_operations.md)

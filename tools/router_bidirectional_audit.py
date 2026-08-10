@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit bidirectional CJS-2.1 topic-router references."""
+"""Audit bidirectional CJS-0.1 topic-router references."""
 
 from __future__ import annotations
 
@@ -75,7 +75,7 @@ def main() -> int:
         f"# Router bidirectional audit - {today}",
         "",
         "## Scope",
-        f"- Router: `corpus_joint_structure/cjs_00_registry_and_reading_rules.md` **CJS-2.1**",
+        f"- Router: `corpus_joint_structure/cjs_00_registry_and_reading_rules.md` **CJS-0.1**",
         f"- Rows: {len(rows)}",
         "",
         "## Findings",

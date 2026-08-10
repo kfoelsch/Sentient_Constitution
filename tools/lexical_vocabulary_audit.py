@@ -683,7 +683,7 @@ def scan_avoid_definition_map_label(rel_path: str, text: str) -> list[Finding]:
 
 
 def scan_avoid_router_read_label(rel_path: str, text: str) -> list[Finding]:
-    """Reject **Router read:** body labels; CJS-2.1 routing belongs in Trace bullets."""
+    """Reject **Router read:** body labels; CJS-0.1 routing belongs in Trace bullets."""
     if not rel_path.startswith(_IMPLEMENTATION_CORPUS_PREFIXES):
         return []
     findings: list[Finding] = []

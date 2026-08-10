@@ -20,7 +20,7 @@ This file is the institutional implementation home for **CI-10** (*Public revenu
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-10.1: Public revenue, user fees, and class-aligned burden](#ci-101-public-revenue-user-fees-and-class-aligned-burden); [CI-10.2: Recurring charges, renewals, and commercial billing integrity](#ci-102-recurring-charges-renewals-and-commercial-billing-integrity).
 - Read with: **CI-10**; **CI-9**; **CI-9.3**; **CI-10.1**; **CI-10.2**; **CI-12.3**; [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
 
@@ -47,7 +47,7 @@ This file is the institutional implementation home for **CI-10** (*Public revenu
 
 <br>
 
-*In plain terms: **CI-10** is the institutions layer's money-and-access rulebook — how public revenue, user fees, subscriptions, and recurring charges must stay fair, transparent, and aligned with how essential the underlying system is. Institutions must not price sentients out of survival-critical access, trick them into paid renewals, or trap them in billing cycles they cannot exit.  out of survival-critical access, tricked into paid renewals, or trapped in billing cycles you cannot exit. Shared fiscal and charge-exit floors live in **CJS-5.12** (*burden-of-justification and constraint terms*) and **CJS-5.17** (*interoperability, portability, and exit-integrity terms*); digital pathway detail lives in **CI-12.3**. What this file adds is local: what each institution must publish and maintain locally.*
+*In plain terms: **CI-10** is the institutions layer's money-and-access rulebook — how public revenue, user fees, subscriptions, and recurring charges must stay fair, transparent, and aligned with how essential the underlying system is. Institutions must not price sentients out of survival-critical access, trick them into paid renewals, or trap them in billing cycles they cannot exit.  out of survival-critical access, tricked into paid renewals, or trapped in billing cycles you cannot exit. Shared fiscal and charge-exit floors live in **CJS-3.12** (*burden-of-justification and constraint terms*) and **CJS-3.17** (*interoperability, portability, and exit-integrity terms*); digital pathway detail lives in **CI-12.3**. What this file adds is local: what each institution must publish and maintain locally.*
 
 **Quick orientation**
 
@@ -59,7 +59,7 @@ This file is the institutional implementation home for **CI-10** (*Public revenu
 
 *In plain terms: if money touches access, the charge design must match the system's real importance — and sentients must be able to see what they owe, challenge unfair fees, and leave recurring charges through a published path that actually works.*
 
-*Shared rules live elsewhere.* Class-aligned revenue and access-burden terms are in **CJS-5.12** (*burden of justification and constraint terms*). Commitment, renewal, and charge-exit terms are in **CJS-5.17** (*interoperability, portability, and exit-integrity terms*). **CI-10** does not repeat those floors; it keeps only institutional fiscal-map, supervision, and reporting duties.
+*Shared rules live elsewhere.* Class-aligned revenue and access-burden terms are in **CJS-3.12** (*burden of justification and constraint terms*). Commitment, renewal, and charge-exit terms are in **CJS-3.17** (*interoperability, portability, and exit-integrity terms*). **CI-10** does not repeat those floors; it keeps only institutional fiscal-map, supervision, and reporting duties.
 
 ## CI-10.1: Public revenue, user fees, and class-aligned burden
 <details>
@@ -73,7 +73,7 @@ This file is the institutional implementation home for **CI-10** (*Public revenu
 
 *In plain terms: fees and public charges must fit the system's risk class — survival-critical and normal-operation-critical access cannot be treated as the main place to extract money. Commercial or premium use may bear more cost; baseline participation must not.*
 
-Apply **CJS-5.12** **Class-aligned revenue and access-burden floor** for the shared floor. **CI-10.1** keeps only what each institution must name and maintain locally:
+Apply **CJS-3.12** **Class-aligned revenue and access-burden floor** for the shared floor. **CI-10.1** keeps only what each institution must name and maintain locally:
 
 - who owns the **fiscal map** linking revenue and charge choices to published class and tier assignments;
 - who owns **constrained-capacity priority** rules when limited public capacity must be allocated fairly;
@@ -92,7 +92,7 @@ Apply **CJS-5.12** **Class-aligned revenue and access-burden floor** for the sha
 
 *In plain terms: subscriptions, memberships, trials, and auto-renewals must be honest before you sign up — clear price, clear timing, clear renewal rules — and cancellation or downgrade must work through a published path without dark patterns or surprise charges after exit.*
 
-Apply **CJS-5.17** **Commitment, renewal, and charge-exit integrity** for the shared floor. **CI-10.2** keeps only what each institution must name and maintain locally:
+Apply **CJS-3.17** **Commitment, renewal, and charge-exit integrity** for the shared floor. **CI-10.2** keeps only what each institution must name and maintain locally:
 
 - who owns the **charge-supervision map** for recurring and transaction-linked charges the institution supervises, authorizes, or sets compliance expectations for;
 - a **stricter-law check** duty where governing law imposes stronger billing or consumer-protection requirements;

@@ -20,8 +20,8 @@ This file is the systems implementation home for **CS-1** (*Scope, purpose, and 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary and owner discipline; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: **CS-1**; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids); **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; [Operates in conjunction with](#operates-in-conjunction-with).
+- Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) purpose of the joint-structure layer; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary and owner discipline; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Read with: **CS-1**; [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; [Operates in conjunction with](#operates-in-conjunction-with).
 
 </details>
 
@@ -53,7 +53,7 @@ This file is the systems implementation home for **CS-1** (*Scope, purpose, and 
 **What this layer does not own**
 
 - constitutional term meaning and O/M/A/C definition mechanics — those remain in the Sentient Constitution (Chapters Two through Five);
-- joint operational definitions, and joint cross-layer interfaces that apply when two or more of **CJS**, **CS**, **CI**, and **CF** must be satisfied together — those belong to **CJS** (reusable joint operational definitions in **CJS-5**);
+- joint operational definitions, and joint cross-layer interfaces that apply when two or more of **CJS**, **CS**, **CI**, and **CF** must be satisfied together — those belong to **CJS** (reusable joint operational definitions in **CJS-3** (*operational cluster library*));
 - Rights Floors — those remain in Chapter Six;
 - institutional formation, authorization, oversight, correction, and dissolution — those belong to **CI**;
 - forum-family operational doctrine under Chapter Eleven — those belong to **CF**.
@@ -69,17 +69,17 @@ This file is the systems implementation home for **CS-1** (*Scope, purpose, and 
 - **CS-3 — System classification and handling** — impact class, dependency typing, [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional), and class-scaled governance
 - **CS-4 — Critical system stewardship** — steward tiers and continuity for high-class systems
 - **Protocol A** (and other named protocols) — design, testing, verification, deployment, and lifecycle evidence
-- **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*) and **CJS-5** operational clusters — when joint or cross-layer operation applies, including **CJS-5.11–CJS-5.13** (*Authority, constraint, secrecy, and procedure*) through **CJS-5.19–CJS-5.15** (*Failure, robustness, intervention, and correction*)
+- **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*) and **CJS-3** operational clusters — when joint or cross-layer operation applies, including **CJS-3.11–CJS-3.13** (*Authority, constraint, secrecy, and procedure*) through **CJS-3.19–CJS-3.15** (*Failure, robustness, intervention, and correction*)
 - constitutional **Authority Stack and Internal Hierarchy** in **Chapter Five**, read with **Chapter Sixteen** incorporation discipline
 - **Sentient Constitution Chapters Two through Five** — definition requirements and Independent Definitions (materiality, reasonable foreseeability, dependency, system boundaries, risk, harm, System Classification Record, System Data Types Record, and related terms)
 
-Family-specific Trace blocks and mandatory read-withs remain in each CS file. Cross-layer topic routing remains in **CJS-2.1**. Shared contract and joint reading order remain in **CJS-1.1** and **CJS-1.2**.
+Family-specific Trace blocks and mandatory read-withs remain in each CS file. Cross-layer topic routing remains in **CJS-0.1**. Implementation-corpus gateway, shared contract, and joint reading order remain in **CJS-1.0**, **CJS-1.1**, and **CJS-1.2**.
 
 **Read next**
 
 - Label map, section registry, and systems-only domain routing: [cs_00_registry_and_reading_rules.md](cs_00_registry_and_reading_rules.md) (*Systems domain routing (integrator annex)*).
-- Shared contract and joint reading order: **CJS-1.1** and **CJS-1.2** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md).
-- Cross-layer topic router: [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids).
+- Implementation-corpus gateway, shared contract, and joint reading order: **CJS-1.0**, **CJS-1.1**, and **CJS-1.2** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md).
+- Cross-layer topic router: [CJS-0.1 Cross-file routing](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids).
 - CS family detail: [cs_02_a_information_types_and_handling.md](cs_02_a_information_types_and_handling.md), [cs_03_a_system_classification_machinery.md](cs_03_a_system_classification_machinery.md), [cs_04_critical_system_stewardship.md](cs_04_critical_system_stewardship.md).
 
 ---

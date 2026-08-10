@@ -192,7 +192,7 @@
     {
       "name": "router-read-label",
       "pattern": "\\*\\*Router read:\\*\\*",
-      "suggestion": "Move CJS-2.1 bidirectional routing into the Trace <details> block as `- Topic routing (...):` bullets; do not use **Router read:** in visible body prose."
+      "suggestion": "Move CJS-0.1 bidirectional routing into the Trace <details> block as `- Topic routing (...):` bullets; do not use **Router read:** in visible body prose."
     }
   ]
 }

@@ -1,8 +1,8 @@
 [
   {
-    "id": "cjs-3.3-merits-boundary",
-    "file": "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
-    "heading_contains": "CJS-3.3",
+    "id": "cjs-1.8-merits-boundary",
+    "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+    "heading_contains": "CJS-1.8",
     "body_must_contain": [
       "within the meaning of",
       "merits-determination",
@@ -13,8 +13,8 @@
     ]
   },
   {
-    "id": "cjs-5a-oversight-role-merits",
-    "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+    "id": "cjs-3.0-oversight-role-merits",
+    "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
     "text_anchor_contains": "Oversight or support role",
     "body_must_contain": [
       "within the meaning of",

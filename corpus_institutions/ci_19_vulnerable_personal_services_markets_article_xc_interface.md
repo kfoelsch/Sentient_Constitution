@@ -20,8 +20,8 @@ This file is the institutional implementation home for **CI-19** (*Vulnerable pe
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Read with: **CI-19**; **CI-8.3**; **CI-6**; **CI-8**; **CI-9**; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Read with: **CI-19**; **CI-8.3**; **CI-6**; **CI-8**; **CI-9**; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router.
 
 </details>
 
@@ -40,7 +40,7 @@ This file is the institutional implementation home for **CI-19** (*Vulnerable pe
 
 <br>
 
-*In plain terms: **CI-19** is the institutions layer's rulebook for regulating vulnerable personal-service markets — especially **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) — without turning regulation into a back door for criminalization, stigma, or moral policing. Adults who voluntarily buy or sell sexual services are not criminals. Exploitation, trafficking, coercion, fraud, and harm to minors or sentients without decision-making capacity remain fully enforceable. Licensing, zoning, fines, platform bans, payment cutoffs, or housing rules cannot do quietly what criminal law is forbidden to do openly. Shared pathway-integrity floors live in **CJS-5.17** (*interoperability, portability, and exit-integrity terms*); the constitutional Rights Floor lives in **Articles X-C**, **X-A**, **V-B**, **I-C**, **IV-A**, **IV-C**, and **Chapter Five**. What this file adds is local: what each institution must name, publish, and maintain locally.*
+*In plain terms: **CI-19** is the institutions layer's rulebook for regulating vulnerable personal-service markets — especially **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) — without turning regulation into a back door for criminalization, stigma, or moral policing. Adults who voluntarily buy or sell sexual services are not criminals. Exploitation, trafficking, coercion, fraud, and harm to minors or sentients without decision-making capacity remain fully enforceable. Licensing, zoning, fines, platform bans, payment cutoffs, or housing rules cannot do quietly what criminal law is forbidden to do openly. Shared pathway-integrity floors live in **CJS-3.17** (*interoperability, portability, and exit-integrity terms*); the constitutional Rights Floor lives in **Articles X-C**, **X-A**, **V-B**, **I-C**, **IV-A**, **IV-C**, and **Chapter Five**. What this file adds is local: what each institution must name, publish, and maintain locally.*
 
 **Quick orientation**
 
@@ -61,14 +61,14 @@ This file is the institutional implementation home for **CI-19** (*Vulnerable pe
 
 *Shared rules live elsewhere.*
 
-- **[CJS-5.17](../corpus_joint_structure.md)** (*interoperability, portability, and exit-integrity terms*) — high-vulnerability personal-service pathway integrity: lawful access, practical exit, non-retaliatory reporting, proportionate due care, and anti-pretext separation between ordinary regulation and exploitation response.
+- **[CJS-3.17](../corpus_joint_structure.md)** (*interoperability, portability, and exit-integrity terms*) — high-vulnerability personal-service pathway integrity: lawful access, practical exit, non-retaliatory reporting, proportionate due care, and anti-pretext separation between ordinary regulation and exploitation response.
 - **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) in **Chapter Six** — decriminalization floor, exploitation proscriptions, nondiscrimination, general-market integration, anti-circumvention, and transition relief. **Articles X-A**, **V-B**, **I-C**, **IV-A**, and **IV-C** and **Chapter Five** (*Protected Characteristics*, *Consent*, *Coercion and Manipulation*) remain the rights single home alongside **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*).
 - **`corpus_systems.md`** — **CS-3** classification examples for market-mediated personal-service platforms; **CS-4** stewardship scaling where platform, data, or system stewardship is material.
 - **CI-19 scope** — does not repeat those floors; states **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) application-file owner duties for authorization, enforcement separation, transition records, and remedy routing.
 
 **Apply**
 
-- Apply **CJS-5.17** **High-vulnerability personal-service pathway integrity** for the shared floor on lawful access, exit, reporting, due care, and anti-pretext separation.
+- Apply **CJS-3.17** **High-vulnerability personal-service pathway integrity** for the shared floor on lawful access, exit, reporting, due care, and anti-pretext separation.
 - **CI-19** states only local **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) application-file owner duties. Comparable lawful personal services should use comparable regulatory families unless documented **Necessity** and **Proportionality** justify differentiation.
 
 **Local **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) role map**

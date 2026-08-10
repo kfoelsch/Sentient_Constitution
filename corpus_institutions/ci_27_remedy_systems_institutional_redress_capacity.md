@@ -20,10 +20,10 @@ This file is the institutional implementation home for **CI-27** (*Remedy system
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture; and [Chapter Nine §9](../core_09-09_standing_integration.md#9-enforcement-realism) (*Enforcement realism and remedy systems*).
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture; and [Chapter Nine §9](../core_09-09_standing_integration.md#9-enforcement-realism) (*Enforcement realism and remedy systems*).
 - Downstream: [CI-27.1: Capacity, funding, and succession](#ci-271-capacity-funding-and-succession); [CI-27.2: Durability, backlog, and publication](#ci-272-durability-backlog-and-publication); [CI-27.3: High-impact remedy domains](#ci-273-high-impact-remedy-domains); [CI-27.4: Standards interface and accountability routing](#ci-274-standards-interface-and-accountability-routing).
 - Read with: **CI-27**; **CI-6**; **CI-7**; **CI-8**; **CI-12**; **CI-13**; **CF-11**.
-- Topic routing (mandatory read-with): **CJS-R10** (*Forum performance, backlog requirements, publication timeliness, access…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-11**.
+- Topic routing (mandatory read-with): **CJS-R10** (*Forum performance, backlog requirements, publication timeliness, access…*) in **CJS-0.1** (*Topic router (stable IDs)*); primary owner **CF-11**.
 
 </details>
 

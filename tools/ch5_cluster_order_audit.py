@@ -97,6 +97,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Elevated Communicative Life",
         "Contested-Sentient Life",
         "Sentience Status Adjudication",
+        "Sentience-Status Adjudication Record",
         "Sentient",
         "Sentience Evaluation",
         "Article V-E",

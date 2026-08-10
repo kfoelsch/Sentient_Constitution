@@ -1,11 +1,11 @@
-# CJS-5: operational cluster library
+# CJS-3: operational cluster library
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5** (*operational cluster library*).
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-3** (*operational cluster library*).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -13,14 +13,14 @@
 
 <br>
 
-This file is the joint-structure implementation home for **CJS-5** (*operational cluster library*).
+This file is the joint-structure implementation home for **CJS-3** (*operational cluster library*).
 
 <br>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 
 </details>
 
@@ -37,17 +37,17 @@ This file is the joint-structure implementation home for **CJS-5** (*operational
 
 This file is the navigation index for implementation and cross-implementation operational cluster terms used by implementation-label and implementation text.
 
-*In plain terms: **CJS-5** is the shared vocabulary shelf. Rather than each implementation layer inventing its own wording for the same operational idea, the clusters here state a term once so that **CJS**, **CS**, **CI**, and **CF** can be checked against the same standard. They add to the owner-file rules; they do not replace them.*
+*In plain terms: **CJS-3** is the shared vocabulary shelf. Rather than each implementation layer inventing its own wording for the same operational idea, the clusters here state a term once so that **CJS**, **CS**, **CI**, and **CF** can be checked against the same standard. They add to the owner-file rules; they do not replace them.*
 
 Use these clusters as shared operational terms within standalone implementation scopes and as joint interface terms for combined satisfaction across **CJS**, **CS**, **CI**, and **CF**. They supplement the implementation-group label text and owner-file rules; they do not replace either.
 
-<a id="cjs-50-role-definition-preface-and-standing-competency-bar-and-clearance-interface"></a>
-<a id="cjs-50-role-definition-preface-and-standing-competency-gate-interface"></a>
-## CJS-5.0 Cross-band: Role-definition preface and standing competency bar and clearance interface
+<a id="cjs-30-role-definition-preface-and-standing-competency-bar-and-clearance-interface"></a>
+<a id="cjs-30-role-definition-preface-and-standing-competency-gate-interface"></a>
+## CJS-3.0 Cross-band: Role-definition preface and standing competency bar and clearance interface
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Chapter One basis: Chapter One §2.1, §3.4, §5.2, §7.1, §7.2, §10 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Chapter One basis: Chapter One §2.1, §3.4, §5.2, §7.1, §7.2, §10 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
 
 </details>
 
@@ -71,7 +71,7 @@ Use these clusters as shared operational terms within standalone implementation 
 
 Use this preface first whenever a later CJS cluster depends on who may hold authority, support review, staff a lane, operate a material function, or make a binding decision. It gives shared role vocabulary for CJS only. It does not replace the role rules in `core_12-12_governance.md` **Chapter Twelve**, section **5**; **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*); [Chapter Nine §4.2](../core_09-09_standing_integration.md#42-general-standing-locks) (*General standing locks*), [§5.5](../core_09-09_standing_integration.md#55-special-locks) (*Special locks*), and [§6.2](../core_09-09_standing_integration.md#62-competency-bars-and-clearances) (*Competency bars and clearances*); `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*); `corpus_systems.md` **CS-4 — Critical system stewardship**; or `corpus_forum.md` forum-formation rules.
 
-Two preface terms are pinned at the top of this section in functional reading order rather than alphabetical order. They state how competency bars, clearances, and standing locks interface with trust-sensitive roles, and what facts must be verified before any role label in CJS is treated as valid. Read them in listed order before applying any later **CJS-5** cluster that depends on role authority.
+Two preface terms are pinned at the top of this section in functional reading order rather than alphabetical order. They state how competency bars, clearances, and standing locks interface with trust-sensitive roles, and what facts must be verified before any role label in CJS is treated as valid. Read them in listed order before applying any later **CJS-3** cluster that depends on role authority.
 
 Competency bar, clearance, and standing interface
 - OP-O: Access to trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or more consequential stewardship must hold any applicable [Chapter Nine §6.2](../core_09-09_standing_integration.md#62-competency-bars-and-clearances) competency clearance against the published competency bar, subject first to any controlling [§4.2](../core_09-09_standing_integration.md#42-general-standing-locks) or [§5.5](../core_09-09_standing_integration.md#55-special-locks) standing lock.
@@ -106,7 +106,7 @@ Constitutional lane
 - OP-C: A lane is non-compliant if it is undefined, merged, understaffed, over-concentrated, or staffed in a way that defeats separation, auditability, challenge, succession, or binding accountability.
 
 Delegated body and forum-role pointer
-- OP-O: Delegated binding bodies, lawful independent forums, backup activation, and representative treatment use the procedural definitions and compliance tests in **CJS-5.13** (*Accountability: procedural integrity and adjudication terms*) after this role preface is satisfied.
+- OP-O: Delegated binding bodies, lawful independent forums, backup activation, and representative treatment use the procedural definitions and compliance tests in **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*) after this role preface is satisfied.
 - OP-E: Reviewers must verify formation authority, role composition, competence, quorum, independence, records, and contest routes under both this preface and the applicable procedural term.
 - OP-C: A procedural role term is non-compliant if the underlying role authority, competency clearance, standing status, or owner-file formation rule is missing or bypassed.
 
@@ -147,28 +147,28 @@ Stewardship role
 
 ---
 
-## CJS-5.1 Library: Constitutional compass and cluster map
+## CJS-3.1 Library: Constitutional compass and cluster map
 *In plain terms: The index to the cluster library: which cluster covers what, and which constitutional principle each one carries into practice.*
 
-<a id="cjs-51-constitutional-compass-and-cluster-map"></a>
+<a id="cjs-31-constitutional-compass-and-cluster-map"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [Chapter One](../core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) principles — [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), and [material stake](../core_00_preamble.md#material-stake).
-- Downstream: constitutional orientation for all **CJS-5.2–CJS-5.23** operational clusters.
-- Read with: [CJS-5.0](cjs_05_cross_implementation_operational_terms.md#cjs-50-role-definition-preface-and-standing-competency-bar-and-clearance-interface) role preface when role authority is in play; **CJS-2.1** topic router when a cross-layer topic is triggered.
+- Downstream: constitutional orientation for all **CJS-3.2–CJS-3.23** operational clusters.
+- Read with: [CJS-3.0](cjs_03_cross_implementation_operational_terms.md#cjs-30-role-definition-preface-and-standing-competency-bar-and-clearance-interface) role preface when role authority is in play; **CJS-0.1** topic router when a cross-layer topic is triggered.
 
 </details>
 
 <br>
 
-Use this compass before applying any **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational cluster. **CJS-5** (*Implementation and cross-implementation operational cluster library*) operationalizes Chapter Five definitions and owner-file rules across **CJS**, **CS**, **CI**, and **CF**; it does not replace the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), or [material stake](../core_00_preamble.md#material-stake) scaling required by [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract).
+Use this compass before applying any **CJS-3** (*Implementation and cross-implementation operational cluster library*) operational cluster. **CJS-3** (*Implementation and cross-implementation operational cluster library*) operationalizes Chapter Five definitions and owner-file rules across **CJS**, **CS**, **CI**, and **CF**; it does not replace the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), or [material stake](../core_00_preamble.md#material-stake) scaling required by [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract).
 
 **Reading order**
 
 1. This compass and the constitutional bands below.
 2. The constitutional band file for the relevant Tetrad leg, **Continuity** band, or **Integrative** band.
-3. **CJS-2.1** (*Topic router*) mandatory read-with when a topic-router row applies.
+3. **CJS-0.1** (*Topic router*) mandatory read-with when a topic-router row applies.
 4. Individual cluster OP terms (pinned cluster floor first, then sub-rules).
 5. Where a finding is **non-compliant** against an operative cluster rule, optional [Non-Compliance Finding Profile](../core_05_band_accountability.md#non-compliance-finding-profile) metadata attaches **to that finding** (not to a sentient). Use the cluster map's **Default profile** for the operative cluster unless the facts of the case require a different orientation; document any change under the profile's Assessment part. Constitutional frame: [Chapter Three, section 3](../core_02-03_definition_mechanics.md#3-non-compliance-finding-profiles).
 
@@ -176,11 +176,11 @@ Use this compass before applying any **CJS-5** (*Implementation and cross-implem
 
 | Band | File | Clusters |
 |---|---|---|
-| **Oversight leg** | [cjs_05o_oversight_operations.md](cjs_05o_oversight_operations.md) | **CJS-5.2–CJS-5.6** |
-| **Participation leg** | [cjs_05p_participation_operations.md](cjs_05p_participation_operations.md) | **CJS-5.7–CJS-5.10** |
-| **Accountability leg** | [cjs_05a_accountability_operations.md](cjs_05a_accountability_operations.md) | **CJS-5.11–CJS-5.15** |
-| **Continuity aim** | [cjs_05c_continuity_operations.md](cjs_05c_continuity_operations.md) | **CJS-5.16–CJS-5.21** |
-| **Integrative cross-leg** | [cjs_05i_integrative_operations.md](cjs_05i_integrative_operations.md) | **CJS-5.22–CJS-5.23** |
+| **Oversight leg** | [cjs_03o_oversight_operations.md](cjs_03o_oversight_operations.md) | **CJS-3.2–CJS-3.6** |
+| **Participation leg** | [cjs_03p_participation_operations.md](cjs_03p_participation_operations.md) | **CJS-3.7–CJS-3.10** |
+| **Accountability leg** | [cjs_03a_accountability_operations.md](cjs_03a_accountability_operations.md) | **CJS-3.11–CJS-3.15** |
+| **Continuity aim** | [cjs_03c_continuity_operations.md](cjs_03c_continuity_operations.md) | **CJS-3.16–CJS-3.21** |
+| **Integrative cross-leg** | [cjs_03i_integrative_operations.md](cjs_03i_integrative_operations.md) | **CJS-3.22–CJS-3.23** |
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): full cluster map</span></strong></summary>
@@ -189,39 +189,39 @@ Use this compass before applying any **CJS-5** (*Implementation and cross-implem
 
 **Finding profile shorthand (non-operative).** Each cluster's **Default profile** is a starter label for a material **non-compliance** finding that arises under that cluster's operational constraints. The code names which constitutional leg and aim the finding most concerns and which governance layer it primarily sits in — for routing and audits, not as a pass/fail or standing verdict. Code key: **O** Oversight · **P** Participation · **A** Accountability · **T** Timeliness · **INT** integrative cross-leg; **F** Flourishing · **C** Continuity aim; **CCL** constitutional contract layer · **SSP** stakeholder system participation · **INT** integrative layer. Canonical field rules: [Non-Compliance Finding Profile](../core_05_band_accountability.md#non-compliance-finding-profile). Constitutional frame: [Chapter Three, section 3](../core_02-03_definition_mechanics.md#3-non-compliance-finding-profiles). Adjust the default when facts require; add **failure character** and **severity tier** per finding.
 
-**Preamble measurement routing (non-operative).** Operational **CJS-5** (*cross-implementation operational terms*) clusters implement [Preamble §2 Measurements Overview](../core_00_preamble.md#measurements-overview) constitutional measurement categories — not a separate taxonomy. Default orientation: **Oversight** clusters → Oversight measurement family; **Participation** clusters → Participation measurement family; **Accountability** clusters → Accountability measurement family and Timeliness measurement family where resolution-pathway discipline applies; **Continuity** band clusters → Continuity measurement family. Integrative Materiality ([Materiality Determination](../core_05_band_oversight.md#materiality-determination)) scales all categories. Technical measurement methods must remain traceable to these categories via [Chapter Seven](../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) and [Preamble §3.1](../core_00_preamble.md#from-measurement-to-evidence-and-remedy).
+**Preamble measurement routing (non-operative).** Operational **CJS-3** (*cross-implementation operational terms*) clusters implement [Preamble §2 Measurements Overview](../core_00_preamble.md#measurements-overview) constitutional measurement categories — not a separate taxonomy. Default orientation: **Oversight** clusters → Oversight measurement family; **Participation** clusters → Participation measurement family; **Accountability** clusters → Accountability measurement family and Timeliness measurement family where resolution-pathway discipline applies; **Continuity** band clusters → Continuity measurement family. Integrative Materiality ([Materiality Determination](../core_05_band_oversight.md#materiality-determination)) scales all categories. Technical measurement methods must remain traceable to these categories via [Chapter Seven](../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) and [Preamble §3.1](../core_00_preamble.md#from-measurement-to-evidence-and-remedy).
 
 **Cluster map**
 
 | ID | Title | Tetrad leg / band | Primary aim | Default profile | Chapter One § basis | Cross-leg note | Continuity disambiguation | Prior ID |
 |---|---|---|---|---|---|---|---|---|
-| **CJS-5.2** (*Oversight: reflexive transparency and accountability terms*) | Oversight: reflexive transparency and accountability terms | Oversight | Flourishing | O·F·SSP | Chapter One §8.2, §4, Chapter One §6.2, §12.1, §12.2 | — | — | was **CJS-5.4** (*Oversight: tiered transparency and audit-access terms*) |
-| **CJS-5.3** (*Oversight: audit process, auditability, and reconstructability*) | Oversight: audit process home (what / why / how / when) plus auditability and reconstructability terms | Oversight | Flourishing | O·F·SSP | Chapter One §8.2, §4, §12.1, §12.2 | — | Process home: [cjs_05_audit_process.md](cjs_05_audit_process.md#cjs-53-audit-process-home); OP annex retained under same cluster ID in [cjs_05o](cjs_05o_oversight_operations.md#cjs-53-auditability-annex). | was **CJS-5.9** (*Participation: salience integrity and attention-allocation terms*) |
-| **CJS-5.4** (*Oversight: tiered transparency and audit-access terms*) | Oversight: tiered transparency and audit-access terms | Oversight | Flourishing | O·F·SSP | Chapter One §8.2, §11.2, §11.4, §12.1, §8 | — | — | was **CJS-5.10** (*Participation: disclosure sufficiency and observability terms*) |
-| **CJS-5.5** (*Oversight: independent verification and claim-integrity terms*) | Oversight: independent verification and claim-integrity terms | Oversight | Flourishing | O·F·SSP | Chapter One §8.2, §3.3, §4, §12.1, §12.2 | — | — | was **CJS-5.11** (*Accountability: distributed and proportional authority terms*) |
-| **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) | Oversight: integrity assurance and resilience operations | Oversight | Continuity | O·C·SSP | Chapter One §8.1, Chapter One §8.2, Chapter One §8.1, §12.1, §12.2 | integrative with **Accountability** where contest, correction, and assurance routing are implicated | Distinguish constitutional **Continuity** aim from operational resilience or protocol continuity. | was **CJS-5.8** (*Participation: comprehensibility and cognitive accessibility terms*) |
-| **CJS-5.7** (*Participation: quorum and participatory legitimacy terms*) | Participation: quorum and participatory legitimacy terms | Participation | Flourishing | P·F·SSP | Chapter One §8.1, §4, Chapter One §6.2, §11.4, §8, §10 | — | — | was **CJS-5.12** (*Accountability: burden-of-justification and constraint terms*) |
-| **CJS-5.8** (*Participation: comprehensibility and cognitive accessibility terms*) | Participation: comprehensibility and cognitive accessibility terms | Participation | Flourishing | P·F·SSP | §3.4, Chapter One §6.2, §12.1, §8 | — | — | was **CJS-5.13** (*Accountability: procedural integrity and adjudication terms*) |
-| **CJS-5.9** (*Participation: salience integrity and attention-allocation terms*) | Participation: salience integrity and attention-allocation terms | Participation | Flourishing | P·F·SSP | §2, Chapter One §8.2, §4, §12.1, §8 | — | — | was **CJS-5.14** (*Accountability: intervention governance and override-authorization terms*) |
-| **CJS-5.10** (*Participation: disclosure sufficiency and observability terms*) | Participation: disclosure sufficiency and observability terms | Participation | Flourishing | P·F·SSP | Chapter One §8.2, §11.2, §12.1, §8 | — | — | was **CJS-5.15** (*Accountability: structural review, correction urgency, and disclosure terms*) |
-| **CJS-5.11** (*Accountability: distributed and proportional authority terms*) | Accountability: distributed and proportional authority terms | Accountability | Flourishing | A·F·SSP | Chapter One §8.1, §4, Chapter One §6.2, §12.2, §10 | — | — | was **CJS-5.2** (*Oversight: reflexive transparency and accountability terms*) |
-| **CJS-5.12** (*Accountability: burden-of-justification and constraint terms*) | Accountability: burden-of-justification and constraint terms | Accountability | Flourishing | A·F·SSP | §11.1, §11.3, §11.4, §12.1, §8, §9 | — | — | was **CJS-5.5** (*Oversight: independent verification and claim-integrity terms*) |
-| **CJS-5.13** (*Accountability: procedural integrity and adjudication terms*) | Accountability: procedural integrity and adjudication terms | Accountability | Flourishing | A·F·SSP | Chapter One §8.1, §3.4, §11.4, §12.1, §8, §10 | — | — | was **CJS-5.7** (*Participation: quorum and participatory legitimacy terms*) |
-| **CJS-5.14** (*Accountability: intervention governance and override-authorization terms*) | Accountability: intervention governance and override-authorization terms | Accountability | Continuity | A·C·SSP | Chapter One §8.1, §11.1, §11.4, §12.1, §9 | pairs with **CJS-5.23** (*Integrative: intervention and override integrity terms*) for governance authorization versus technical intervention integrity | Distinguish constitutional **Continuity** aim from emergency or operational continuity modes. | was **CJS-5.3** (*Oversight: auditability and reconstructability terms*) |
-| **CJS-5.15** (*Accountability: structural review, correction urgency, and disclosure terms*) | Accountability: structural review, correction urgency, and disclosure terms | Accountability | Continuity | A·C·SSP | Chapter One §8.1, Chapter One §8.2, Chapter One §8.1, Chapter One §6.2, §12.1, §12.2 | pairs with **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) for evolution, revalidation, and non-entrenchment | Distinguish constitutional **Continuity** aim from operational continuity reporting. | was **CJS-5.23** (*Integrative: intervention and override integrity terms*) |
-| **CJS-5.16** (*Continuity: dependency integrity and disclosure terms*) | Continuity: dependency integrity and disclosure terms | Continuity band | Continuity | A·C·SSP | Chapter One §8.1, Chapter One §8.1, Chapter One §8.1, §12.1, §9 | — | Constitutional **Continuity** aim — not protocol or forum continuity alone. | — |
-| **CJS-5.17** (*Continuity: interoperability, portability, and exit-integrity terms*) | Continuity: interoperability, portability, and exit-integrity terms | Continuity band | Continuity | A·C·SSP | Chapter One §8.1, §11.1, §12.1, §8, §9 | — | Constitutional **Continuity** aim — exit paths preserve lawful agency and system survivability. | — |
-| **CJS-5.18** (*Continuity: data-retention and lifecycle-integrity terms*) | Continuity: data-retention and lifecycle-integrity terms | Continuity band | Continuity | O·C·SSP | Chapter One §8.2, §11.2, §12.1, §8, §9 | — | Constitutional **Continuity** aim — lifecycle rules must not narrow the Continuity aim. | — |
-| **CJS-5.19** (*Continuity: graceful degradation and failure-mode integrity terms*) | Continuity: graceful degradation and failure-mode integrity terms | Continuity band | Continuity | O·C·SSP | Chapter One §8.1, Chapter One §8.1, Chapter One §8.1, §11.1, §7, §9 | — | Operational degradation discipline serves constitutional **Continuity**; not a substitute for it. | — |
-| **CJS-5.20** (*Continuity: reversibility and containment terms*) | Continuity: reversibility and containment terms | Continuity band | Continuity | A·C·SSP | Chapter One §8.1, Chapter One §8.1, §11.1, §12.1, §9 | — | Constitutional **Continuity** aim — reversibility protects against irreversible constitutional harm. | was **CJS-5.21** (*Continuity: adversarial robustness and abuse-resistance terms*) |
-| **CJS-5.21** (*Continuity: adversarial robustness and abuse-resistance terms*) | Continuity: adversarial robustness and abuse-resistance terms | Continuity band | Continuity | O·C·SSP | Chapter One §8.1, Chapter One §8.2, Chapter One §8.1, §12.1, §12.2, §9 | — | Adversarial resilience serves constitutional **Continuity** under material stake. | was **CJS-5.22** (*Integrative: constrained-secrecy and protected-investigation terms*) |
-| **CJS-5.22** (*Integrative: constrained-secrecy and protected-investigation terms*) | Integrative: constrained-secrecy and protected-investigation terms | Integrative | Flourishing | O+A·F·INT | Chapter One §8.2, §11.2, §11.4, §12.1, §8, §9 | **Oversight** and **Accountability** — secrecy limits must remain auditable and challengeable | — | was **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) |
-| **CJS-5.23** (*Integrative: intervention and override integrity terms*) | Integrative: intervention and override integrity terms | Integrative | Continuity | A+O·C·INT | Chapter One §8.1, §11.1, §11.4, §12.1, §9 | **Accountability** and **Continuity** — technical complement to **CJS-5.14** (*Accountability: intervention governance and override-authorization terms*) governance authorization | Distinguish technical intervention integrity from constitutional **Continuity** aim language. | was **CJS-5.20** (*Continuity: reversibility and containment terms*) |
+| **CJS-3.2** (*Oversight: reflexive transparency and accountability terms*) | Oversight: reflexive transparency and accountability terms | Oversight | Flourishing | O·F·SSP | Chapter One §8.2, §4, Chapter One §6.2, §12.1, §12.2 | — | — | was **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*) |
+| **CJS-3.3** (*Oversight: audit process, auditability, and reconstructability*) | Oversight: audit process home (what / why / how / when) plus auditability and reconstructability terms | Oversight | Flourishing | O·F·SSP | Chapter One §8.2, §4, §12.1, §12.2 | — | Process home: [cjs_03_audit_process.md](cjs_03_audit_process.md#cjs-33-audit-process-home); OP annex retained under same cluster ID in [cjs_03o](cjs_03o_oversight_operations.md#cjs-33-auditability-annex). | was **CJS-3.9** (*Participation: salience integrity and attention-allocation terms*) |
+| **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*) | Oversight: tiered transparency and audit-access terms | Oversight | Flourishing | O·F·SSP | Chapter One §8.2, §11.2, §11.4, §12.1, §8 | — | — | was **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*) |
+| **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*) | Oversight: independent verification and claim-integrity terms | Oversight | Flourishing | O·F·SSP | Chapter One §8.2, §3.3, §4, §12.1, §12.2 | — | — | was **CJS-3.11** (*Accountability: distributed and proportional authority terms*) |
+| **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) | Oversight: integrity assurance and resilience operations | Oversight | Continuity | O·C·SSP | Chapter One §8.1, Chapter One §8.2, Chapter One §8.1, §12.1, §12.2 | integrative with **Accountability** where contest, correction, and assurance routing are implicated | Distinguish constitutional **Continuity** aim from operational resilience or protocol continuity. | was **CJS-3.8** (*Participation: comprehensibility and cognitive accessibility terms*) |
+| **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*) | Participation: quorum and participatory legitimacy terms | Participation | Flourishing | P·F·SSP | Chapter One §8.1, §4, Chapter One §6.2, §11.4, §8, §10 | — | — | was **CJS-3.12** (*Accountability: burden-of-justification and constraint terms*) |
+| **CJS-3.8** (*Participation: comprehensibility and cognitive accessibility terms*) | Participation: comprehensibility and cognitive accessibility terms | Participation | Flourishing | P·F·SSP | §3.4, Chapter One §6.2, §12.1, §8 | — | — | was **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*) |
+| **CJS-3.9** (*Participation: salience integrity and attention-allocation terms*) | Participation: salience integrity and attention-allocation terms | Participation | Flourishing | P·F·SSP | §2, Chapter One §8.2, §4, §12.1, §8 | — | — | was **CJS-3.14** (*Accountability: intervention governance and override-authorization terms*) |
+| **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*) | Participation: disclosure sufficiency and observability terms | Participation | Flourishing | P·F·SSP | Chapter One §8.2, §11.2, §12.1, §8 | — | — | was **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) |
+| **CJS-3.11** (*Accountability: distributed and proportional authority terms*) | Accountability: distributed and proportional authority terms | Accountability | Flourishing | A·F·SSP | Chapter One §8.1, §4, Chapter One §6.2, §12.2, §10 | — | — | was **CJS-3.2** (*Oversight: reflexive transparency and accountability terms*) |
+| **CJS-3.12** (*Accountability: burden-of-justification and constraint terms*) | Accountability: burden-of-justification and constraint terms | Accountability | Flourishing | A·F·SSP | §11.1, §11.3, §11.4, §12.1, §8, §9 | — | — | was **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*) |
+| **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*) | Accountability: procedural integrity and adjudication terms | Accountability | Flourishing | A·F·SSP | Chapter One §8.1, §3.4, §11.4, §12.1, §8, §10 | — | — | was **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*) |
+| **CJS-3.14** (*Accountability: intervention governance and override-authorization terms*) | Accountability: intervention governance and override-authorization terms | Accountability | Continuity | A·C·SSP | Chapter One §8.1, §11.1, §11.4, §12.1, §9 | pairs with **CJS-3.23** (*Integrative: intervention and override integrity terms*) for governance authorization versus technical intervention integrity | Distinguish constitutional **Continuity** aim from emergency or operational continuity modes. | was **CJS-3.3** (*Oversight: auditability and reconstructability terms*) |
+| **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) | Accountability: structural review, correction urgency, and disclosure terms | Accountability | Continuity | A·C·SSP | Chapter One §8.1, Chapter One §8.2, Chapter One §8.1, Chapter One §6.2, §12.1, §12.2 | pairs with **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) for evolution, revalidation, and non-entrenchment | Distinguish constitutional **Continuity** aim from operational continuity reporting. | was **CJS-3.23** (*Integrative: intervention and override integrity terms*) |
+| **CJS-3.16** (*Continuity: dependency integrity and disclosure terms*) | Continuity: dependency integrity and disclosure terms | Continuity band | Continuity | A·C·SSP | Chapter One §8.1, Chapter One §8.1, Chapter One §8.1, §12.1, §9 | — | Constitutional **Continuity** aim — not protocol or forum continuity alone. | — |
+| **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*) | Continuity: interoperability, portability, and exit-integrity terms | Continuity band | Continuity | A·C·SSP | Chapter One §8.1, §11.1, §12.1, §8, §9 | — | Constitutional **Continuity** aim — exit paths preserve lawful agency and system survivability. | — |
+| **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) | Continuity: data-retention and lifecycle-integrity terms | Continuity band | Continuity | O·C·SSP | Chapter One §8.2, §11.2, §12.1, §8, §9 | — | Constitutional **Continuity** aim — lifecycle rules must not narrow the Continuity aim. | — |
+| **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*) | Continuity: graceful degradation and failure-mode integrity terms | Continuity band | Continuity | O·C·SSP | Chapter One §8.1, Chapter One §8.1, Chapter One §8.1, §11.1, §7, §9 | — | Operational degradation discipline serves constitutional **Continuity**; not a substitute for it. | — |
+| **CJS-3.20** (*Continuity: reversibility and containment terms*) | Continuity: reversibility and containment terms | Continuity band | Continuity | A·C·SSP | Chapter One §8.1, Chapter One §8.1, §11.1, §12.1, §9 | — | Constitutional **Continuity** aim — reversibility protects against irreversible constitutional harm. | was **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*) |
+| **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*) | Continuity: adversarial robustness and abuse-resistance terms | Continuity band | Continuity | O·C·SSP | Chapter One §8.1, Chapter One §8.2, Chapter One §8.1, §12.1, §12.2, §9 | — | Adversarial resilience serves constitutional **Continuity** under material stake. | was **CJS-3.22** (*Integrative: constrained-secrecy and protected-investigation terms*) |
+| **CJS-3.22** (*Integrative: constrained-secrecy and protected-investigation terms*) | Integrative: constrained-secrecy and protected-investigation terms | Integrative | Flourishing | O+A·F·INT | Chapter One §8.2, §11.2, §11.4, §12.1, §8, §9 | **Oversight** and **Accountability** — secrecy limits must remain auditable and challengeable | — | was **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) |
+| **CJS-3.23** (*Integrative: intervention and override integrity terms*) | Integrative: intervention and override integrity terms | Integrative | Continuity | A+O·C·INT | Chapter One §8.1, §11.1, §11.4, §12.1, §9 | **Accountability** and **Continuity** — technical complement to **CJS-3.14** (*Accountability: intervention governance and override-authorization terms*) governance authorization | Distinguish technical intervention integrity from constitutional **Continuity** aim language. | was **CJS-3.20** (*Continuity: reversibility and containment terms*) |
 
 </details>
 
 ---
 
-**Previous file:** [cjs_04_specific_joint_interlocks.md](cjs_04_specific_joint_interlocks.md)
+**Previous file:** [cjs_02_specific_joint_interlocks.md](cjs_02_specific_joint_interlocks.md)
 
-**Next file:** [cjs_05_audit_process.md](cjs_05_audit_process.md)
+**Next file:** [cjs_03_audit_process.md](cjs_03_audit_process.md)

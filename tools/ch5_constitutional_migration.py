@@ -951,7 +951,7 @@ def iter_corpus_files(root: Path):
             continue
         if any(part in SKIP_DIRS for part in path.parts):
             continue
-        if path.name in ("ch5_constitutional_migration.py", "cjs5_constitutional_migration.py"):
+        if path.name == "ch5_constitutional_migration.py":
             continue
         yield path
 

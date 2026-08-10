@@ -83,19 +83,28 @@ def is_exempt_line(line: str, *, in_trace_widget: bool) -> bool:
         return True
     if stripped.startswith(">") and "CJS cluster mapping" in stripped:
         return True
-    if "–CJS-" in stripped or "–CJS-5." in stripped:
+    if "–CJS-" in stripped or "–CJS-3." in stripped:
         return True
     if re.search(r"CJS-\d+\s+through\s+CJS-", stripped):
         return True
-    if "retired" in stripped.lower() and "CJS-5" in stripped:
+    if "retired" in stripped.lower() and "CJS-3" in stripped:
         return True
-    if re.search(r"\*\*\[CJS-5\.\d+\]", stripped) and "(*" in stripped:
+    if re.search(r"\*\*\[CJS-3\.\d+\]", stripped) and "(*" in stripped:
         return True
     return False
 
 
 def has_descriptor(text_after_id: str) -> bool:
     text_after_id = text_after_id.lstrip()
+    if re.match(r"[A-Za-z][^]\n]{2,}\]", text_after_id):
+        return True
+    link_close = re.match(r"\]\([^)]+\)\*{0,2}", text_after_id)
+    if link_close:
+        link_tail = text_after_id[link_close.end() :].lstrip()
+        if DESCRIPTOR_AFTER_RE.match(link_tail):
+            return True
+        if re.match(r"[A-Za-z][^.;,\n]{2,}", link_tail):
+            return True
     if re.match(r"\*\*[^*]+\*\*", text_after_id):
         return True
     if text_after_id.startswith("**"):

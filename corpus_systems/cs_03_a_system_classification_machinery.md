@@ -86,14 +86,14 @@ Account for expected and credible worst-case conditions in the system's realisti
 
 **No** system may claim **reduced obligations**, **exemptions**, or **lower-impact** classification while exerting **material external** effects.
 
-**Classification under CS-3 — System classification and handling** is **mandatory** for all systems with **material impact**. Operators must maintain a [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional). That record is **material audited information**: it is independently checked as a sibling audit mode under the **[CJS-5.3 audit process home](../corpus_joint_structure/cjs_05_audit_process.md#cjs-53-audit-process-home)**, between and beside [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) cycles. Scaled System Classification Record audit duties live in [§7.3](#73-auditability-and-verification). Classification must be:
+**Classification under CS-3 — System classification and handling** is **mandatory** for all systems with **material impact**. Operators must maintain a [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional). That record is **material audited information**: it is independently checked as a sibling audit mode under the **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03_audit_process.md#cjs-33-audit-process-home)**, between and beside [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) cycles. Scaled System Classification Record audit duties live in [§7.3](#73-auditability-and-verification). Classification must be:
 
 - **functionally determined** from observed and reasonably foreseeable effects rather than declared intent, structure, or self-description
 - **transparent**, **auditable**, and **subject to challenge** under:
   - **Article XV-A** (*Auditability and Observable Evidence*)
   - **Article XV** (*Audit, Transparency, and Independent Verification*)'s verification-access provisions
   - **Article XII-B** (*Right to Challenge, Review, and Redress*)
-- **continuously revalidated** per **CJS-5.18** (*data-retention and lifecycle-integrity terms*)
+- **continuously revalidated** per **CJS-3.18** (*data-retention and lifecycle-integrity terms*)
 
 <a id="14-alignment-status-recognition-and-ambiguity-default"></a>
 **1.4. Alignment-status recognition and ambiguity default.**
@@ -106,7 +106,7 @@ Where classification, deployment, or continued operation depends on official con
 - where material ecological exposure exists, it must also support **Environment** forum environmental-alignment component review before final recognition, validation, revalidation, or material release from environmental conditions
 - forum review must be able to inspect the classification rationale, assumptions, evidence, uncertainty, dependency analysis, ecological exposure analysis where material, and monitoring triggers without relying on operator self-description alone
 
-Where ambiguity exists, default to the level that protects **Foundational Rights** (**Chapter Six, Articles V through IX**), subject to **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*).
+Where ambiguity exists, default to the level that protects **Foundational Rights** (**Chapter Six, Articles V through IX**), subject to **CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*).
 
 CS-3 does not stand alone. Joint reading with CS-2, CS-4, Protocol A, CJS clusters, and Chapter Five meanings is stated in **[CS-1 — Operates in conjunction with](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with)**.
 
@@ -417,21 +417,21 @@ Forum verification under Chapter Seven §2 does **not** transfer ownership of th
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **[CJS-5.3 audit process home](../corpus_joint_structure/cjs_05_audit_process.md#cjs-53-audit-process-home)** (*shared process — what / why / how / when*); **[CJS-5.4](../corpus_joint_structure/cjs_05o_oversight_operations.md#cjs-54-audit-process-output-disclosure)** (*access tiers and output disclosure*); **CJS-5.5** (*claim checking*); **[CS-2 — Information types and handling](cs_02_a_information_types_and_handling.md)** (*typing*).
+- Read with: **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03_audit_process.md#cjs-33-audit-process-home)** (*shared process — what / why / how / when*); **[CJS-3.4](../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)** (*access tiers and output disclosure*); **CJS-3.5** (*claim checking*); **[CS-2 — Information types and handling](cs_02_a_information_types_and_handling.md)** (*typing*).
 - This subsection does **not** relocate the process home or Rights Floor (**Article XV** / **Article XV-A**).
 
 </details>
 
 <br>
 
-*System Classification Record duty:* run the independent **System Classification Record audit** named in the **[CJS-5.3 audit process home](../corpus_joint_structure/cjs_05_audit_process.md#cjs-53-sibling-modes)**.
+*System Classification Record duty:* run the independent **System Classification Record audit** named in the **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03_audit_process.md#cjs-33-sibling-modes)**.
 
 - **Required:** Auditability of the System Classification Record is required under [§1.3](#13-mandatory-functional-classification).
 - **What to check:** the class on file matches how the system actually behaves — inspect real behavior, outputs, and effects, not only claims in the file.
 - **Why (when SAC runs):** so System Alignment Certification under **[Chapter Seven §2](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** can verify substance.
 - **Why (between cycles):** so class honesty stays checkable outside those SAC cycles too.
 - **When:** On a schedule that matches impact and how fast the system changes, including the triggers in the process home and in [§3.5](#35-reclassification-requirement) / [§7.5](#75-reclassification-and-continuous-update).
-- **For Class A, B, and C:** System Classification Record audits must be able to catch misclassification, under-classification, and unreported behavior changes. Independent or third-party audit paths must remain available under **CJS-5.4**; "where feasible" does **not** make those paths soft-optional at these classes.
+- **For Class A, B, and C:** System Classification Record audits must be able to catch misclassification, under-classification, and unreported behavior changes. Independent or third-party audit paths must remain available under **CJS-3.4**; "where feasible" does **not** make those paths soft-optional at these classes.
 
 <a id="74-challenge-and-contestability"></a>
 **7.4. Challenge the System Classification Record.**
@@ -462,7 +462,7 @@ The System Classification Record must state a **revalidation cadence scaled to c
 
 *System Classification Record duty:* correct the file when misclassification or evasion is found.
 
-Shared correction, precautionary-default, and no-quiet-lowering discipline live in **[CJS-5.15 — Material classification-record honesty](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-515-material-classification-record-honesty)**. This subsection applies that discipline to the System Classification Record:
+Shared correction, precautionary-default, and no-quiet-lowering discipline live in **[CJS-3.15 — Material classification-record honesty](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-315-material-classification-record-honesty)**. This subsection applies that discipline to the System Classification Record:
 
 - Understatement of impact, dependency, or risk, and claims of lighter duties from intent or nominal scope, are already barred under [§1.3](#13-mandatory-functional-classification).
 - Do **not** split or modularize a system just to dodge a higher class on the System Classification Record.
@@ -475,10 +475,10 @@ How those failures count as **certification defects**, and any standing bridge, 
 
 *System Classification Record duty:* when the file is incomplete or contested, apply the precautionary default and state any precautionary class relied on — do not quietly lower class.
 
-Shared discipline lives in **[CJS-5.15 — Material classification-record honesty](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-515-material-classification-record-honesty)**. CS-3 ambiguity and uncertainty defaults (Foundational Rights protection; highest-plausible / worst-case accounting) are owned in [§1.2](#12-classification-and-existential-risk) and [§1.4](#14-alignment-status-recognition-and-ambiguity-default). This subsection applies them to the System Classification Record:
+Shared discipline lives in **[CJS-3.15 — Material classification-record honesty](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-315-material-classification-record-honesty)**. CS-3 ambiguity and uncertainty defaults (Foundational Rights protection; highest-plausible / worst-case accounting) are owned in [§1.2](#12-classification-and-existential-risk) and [§1.4](#14-alignment-status-recognition-and-ambiguity-default). This subsection applies them to the System Classification Record:
 
 - State any **precautionary class** relied on, and any conditions pending resolution, **in the System Classification Record**.
-- **Lowering** a class on the System Classification Record requires evidence, documentation, and successful review under the CJS-5.15 rule:
+- **Lowering** a class on the System Classification Record requires evidence, documentation, and successful review under **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*):
   - stays open to Integrity forum review under [§1.4](#14-alignment-status-recognition-and-ambiguity-default), Chapter Eleven, and `corpus_forum.md` **CF-7.2** (*Constitutional alignment recognition and review*) when a credible alignment concern is raised
   - Passing an internal check alone does **not** defeat a timely forum challenge
   - Where recognition or continued reliance already rests on a System Certification Record, a material request to lower class must also reopen certification review under **[Chapter Seven Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)** — it is not a System Classification Record-only change
@@ -504,7 +504,7 @@ Who must do what:
 - **Certification under Chapter Seven §2** — when System Alignment Certification runs, confirm and record:
   - that class-scaled assurance, infrastructure robustness, and regression coverage match CS-3 and Protocol A for the assigned class
   - any material gaps on the System Certification Record under **[Part B §11.1](../core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**
-- **Protocol A** — owns regression scope, results, known failures, remediations, and accepted residual risk for each recertification or revalidation cycle (**[Protocol A — System Design, Testing, Verification, and Deployment](cs_protocol_a_system_design_testing_verification_deployment.md)** (*Recertification, regression testing, and certification defects*)), read with **corpus_joint_structure.md** (**CJS-5.19** through **CJS-5.23** and related clusters)
+- **Protocol A** — owns regression scope, results, known failures, remediations, and accepted residual risk for each recertification or revalidation cycle (**[Protocol A — System Design, Testing, Verification, and Deployment](cs_protocol_a_system_design_testing_verification_deployment.md)** (*Recertification, regression testing, and certification defects*)), read with **corpus_joint_structure.md** (**CJS-3.19** through **CJS-3.23** and related clusters)
 - **Defects** — skipping required regression, relying on outdated results, or leaving known breaks unfixed are certification defects under Protocol A and Chapter Seven §2 — distinct from, but often concurrent with, System Classification Record defects under [§7.6](#76-misclassification-and-evasion)
 
 <a id="79-high-dependency-private-chokepoints"></a>

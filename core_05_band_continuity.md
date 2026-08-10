@@ -3820,19 +3820,19 @@ See **Joint invocation and satisfaction**.
 
 - **What it is**
   - **In scope:** The restriction on using identity and attribution data (Type H, I) to expose or reconstruct internal and cognitive data (Type N), including by inferring internal states from identity-linked signals.
-  - **Core constraint:** no system may use identity-linked data to infer internal states without **explicit consent** or **justified override** under **CJS-5.12** (*burden-of-justification and constraint terms*).
+  - **Core constraint:** no system may use identity-linked data to infer internal states without **explicit consent** or **justified override** under **CJS-3.12** (*burden-of-justification and constraint terms*).
   - **Out of scope:** ordinary identity or credential use that does not link to, infer, or reconstruct Type N internal states.
 <a id="identity-data-protection-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
-    **Primary assessment:** Check whether identity-linked records, credentials, or attribution chains are used to infer, score, or reconstruct protected internal states, and whether any such linkage rests on explicit consent or a justified override under **CJS-5.12** (*burden-of-justification and constraint terms*).
+    **Primary assessment:** Check whether identity-linked records, credentials, or attribution chains are used to infer, score, or reconstruct protected internal states, and whether any such linkage rests on explicit consent or a justified override under **CJS-3.12** (*burden-of-justification and constraint terms*).
   - **Secondary measure:** [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional), [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), and [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional) — co-measures that can defeat the restricted-linkage ban even when nominal domain separation exists.
 
     **Secondary assessment:** When evaluating the primary trace, apply **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** domain-separation mechanics and ask whether Type H/I → Type N linkage is blocked in practice.
 <a id="identity-data-protection-c"></a>
 - **What must hold**
-  - **Primary failure:** using identity or attribution data to expose, infer, or reconstruct Type N internal states without explicit consent or a justified override under **CJS-5.12** (*burden-of-justification and constraint terms*).
+  - **Primary failure:** using identity or attribution data to expose, infer, or reconstruct Type N internal states without explicit consent or a justified override under **CJS-3.12** (*burden-of-justification and constraint terms*).
   - **Secondary failure:** claiming domain separation while identity-linked signals still feed internal-state inference, scoring, or reconstruction.
 
 <a id="surveillance-boundary"></a>
@@ -4125,7 +4125,7 @@ See **Joint invocation and satisfaction**.
   - **Primary failure:**
     - cherry-picking one member definition to bypass another within admission scope ([Chapter Five joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction); Chapter Three §§1–2); and
     - isolated formal compliance with disclosure or audit artifacts that defeats substantively informed understanding, independent verification, or effective challenge.
-  - **Secondary failure:** looking compliant in one implementation file while related duties that the same trust claim depends on remain unmet in another — see [CJS-1.2](corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-combined-satisfaction) (*Combined satisfaction across implementation files*; stable citation also **CJS-3.2**) and [CJS-4.3](corpus_joint_structure/cjs_04_specific_joint_interlocks.md#cjs-43-cross-implementation-trust-integrity-joint-operation-model) (*Cross-implementation trust integrity*).
+  - **Secondary failure:** looking compliant in one implementation file while related duties that the same trust claim depends on remain unmet in another — see [Chapter One §8.4.4](core_01_b_interaction_interpretation.md#844-combined-satisfaction) (*Combined satisfaction of jointly applicable incorporated obligations*) and [CJS-2.3](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-23-cross-implementation-trust-integrity-joint-operation-model) (*Cross-implementation trust integrity*).
   - **Tertiary failure:**
     - treating trust-erosion patterns as non-material where Materiality-family definitions require treating them as material; and
     - splitting evaluation so no member definition captures the full functional wrong.

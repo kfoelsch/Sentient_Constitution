@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-08-09T04:55:51+00:00",
+  "generated_at": "2026-08-09T23:31:21+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -169,43 +169,35 @@
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+        "id": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
+        "id": "corpus_joint_structure/cjs_03_audit_process.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_04_specific_joint_interlocks.md",
+        "id": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_05_audit_process.md",
+        "id": "corpus_joint_structure/cjs_03a_accountability_operations.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+        "id": "corpus_joint_structure/cjs_03c_continuity_operations.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_05a_accountability_operations.md",
+        "id": "corpus_joint_structure/cjs_03i_integrative_operations.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_05c_continuity_operations.md",
+        "id": "corpus_joint_structure/cjs_03o_oversight_operations.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_05i_integrative_operations.md",
-        "type": "companion"
-      },
-      {
-        "id": "corpus_joint_structure/cjs_05o_oversight_operations.md",
-        "type": "companion"
-      },
-      {
-        "id": "corpus_joint_structure/cjs_05p_participation_operations.md",
+        "id": "corpus_joint_structure/cjs_03p_participation_operations.md",
         "type": "companion"
       },
       {
@@ -1094,9 +1086,10 @@
           },
           {
             "file": "core_05__definitions_home.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#chapter-five-foundational-definitions"
+              "#chapter-five-foundational-definitions",
+              "#joint-invocation-and-satisfaction"
             ]
           },
           {
@@ -1195,7 +1188,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 18,
+            "count": 19,
             "anchors": [
               "#accountability-contestability-and-collective-accountability-failure-cluster",
               "#authority-stack",
@@ -1314,16 +1307,23 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 3,
+            "count": 5,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-51-constitutional-compass-and-cluster-map"
+              "#cjs-113-operational-clusters"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-31-constitutional-compass-and-cluster-map"
             ]
           },
           {
@@ -1753,11 +1753,11 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05a_accountability_operations.md",
+            "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
             "count": 2,
             "anchors": [
-              "#cjs-5112-anti-domination-conduct-and-remediation-catalog",
-              "#cjs-5113-consolidation-ceiling-setting-discipline-adopter-tunable"
+              "#cjs-3112-anti-domination-conduct-and-remediation-catalog",
+              "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable"
             ]
           },
           {
@@ -1910,10 +1910,10 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+            "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
             "count": 5,
             "anchors": [
-              "#cjs-51-constitutional-compass-and-cluster-map"
+              "#cjs-31-constitutional-compass-and-cluster-map"
             ]
           }
         ]
@@ -3386,10 +3386,10 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+            "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
             "count": 2,
             "anchors": [
-              "#cjs-51-constitutional-compass-and-cluster-map"
+              "#cjs-31-constitutional-compass-and-cluster-map"
             ]
           },
           {
@@ -3429,7 +3429,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 16,
+            "count": 17,
             "anchors": [
               "#61-core-tradeoff-principles",
               "#611-proportionality",
@@ -3437,7 +3437,8 @@
               "#63-minimization-of-avoidable-burden",
               "#631-rights-collision-decision-test",
               "#632-proxy-divergence-invalidation",
-              "#833-incorporation-layer"
+              "#833-incorporation-layer",
+              "#844-combined-satisfaction"
             ]
           },
           {
@@ -3824,17 +3825,10 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
+            "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
             "count": 1,
             "anchors": [
-              "#cjs-32-no-false-partial-compliance-across-implementation-files"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_04_specific_joint_interlocks.md",
-            "count": 1,
-            "anchors": [
-              "#cjs-43-cross-implementation-trust-integrity-joint-operation-model"
+              "#cjs-23-cross-implementation-trust-integrity-joint-operation-model"
             ]
           },
           {
@@ -4324,7 +4318,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 10,
+            "count": 9,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
@@ -4944,10 +4938,10 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05c_continuity_operations.md",
+            "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
             "count": 2,
             "anchors": [
-              "#cjs-521-continuity-adversarial-robustness-and-abuse-resistance-terms"
+              "#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms"
             ]
           },
           {
@@ -7294,10 +7288,10 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05_audit_process.md",
+            "file": "corpus_joint_structure/cjs_03_audit_process.md",
             "count": 1,
             "anchors": [
-              "#cjs-53-audit-process-home"
+              "#cjs-33-audit-process-home"
             ]
           },
           {
@@ -8028,8 +8022,9 @@
           },
           {
             "file": "core_13-15_amendment.md",
-            "count": 11,
+            "count": 13,
             "anchors": [
+              "#10-ratification-and-adoption",
               "#3-anti-evasion-clause-and-constitutional-misconduct-referral",
               "#chapter-fifteen-amendment-ratification-and-procedural-validity",
               "#chapter-fourteen-expansion-supremacy-and-external-legal-orders",
@@ -8571,65 +8566,58 @@
           },
           {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
-              "#cjs-01-cross-file-routing"
+              "#cjs-01-cross-file-routing",
+              "#joint-structure-domain-routing-integrator-annex"
             ]
           },
           {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 2,
-            "anchors": []
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_joint_structure/cjs_04_specific_joint_interlocks.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_joint_structure/cjs_05_audit_process.md",
-            "count": 2,
+            "count": 4,
             "anchors": [
-              "#cjs-53-audit-process-home"
+              "#cjs-10-purpose-of-this-layer"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+            "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05a_accountability_operations.md",
+            "file": "corpus_joint_structure/cjs_03_audit_process.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-33-audit-process-home"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05c_continuity_operations.md",
+            "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05i_integrative_operations.md",
+            "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05o_oversight_operations.md",
+            "file": "corpus_joint_structure/cjs_03i_integrative_operations.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05p_participation_operations.md",
+            "file": "corpus_joint_structure/cjs_03o_oversight_operations.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_03p_participation_operations.md",
             "count": 1,
             "anchors": []
           },
@@ -8654,6 +8642,14 @@
             ]
           },
           {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 7,
+            "anchors": [
+              "#833-incorporation-layer",
+              "#844-combined-satisfaction"
+            ]
+          },
+          {
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 1,
             "anchors": [
@@ -8668,21 +8664,9 @@
             ]
           },
           {
-            "file": "core_05_band_accountability.md",
+            "file": "core_05_band_continuity.md",
             "count": 5,
             "anchors": [
-              "#adjudication-and-dispute-resolution-constitutional",
-              "#adjudication-and-dispute-resolution-constitutional-a",
-              "#adjudication-and-dispute-resolution-constitutional-c"
-            ]
-          },
-          {
-            "file": "core_05_band_continuity.md",
-            "count": 10,
-            "anchors": [
-              "#emergency-and-contingency-constitutional",
-              "#emergency-and-contingency-constitutional-a",
-              "#emergency-and-contingency-constitutional-c",
               "#risk",
               "#risk-a",
               "#risk-c"
@@ -8690,7 +8674,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 36,
+            "count": 26,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -8705,14 +8689,12 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 10,
+            "count": 6,
             "anchors": [
               "#auditability",
               "#auditability-a",
               "#auditability-c",
-              "#epistemic-integrity",
-              "#epistemic-integrity-a",
-              "#epistemic-integrity-c"
+              "#trust-and-trustworthiness-cluster"
             ]
           },
           {
@@ -8739,48 +8721,38 @@
           },
           {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 1,
+            "count": 6,
             "anchors": [
-              "#cjs-01-cross-file-routing"
+              "#cjs-01-cross-file-routing",
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 14,
+            "count": 17,
             "anchors": [
               "#cjs-11-joint-structural-boundary-and-owner-discipline",
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-12-shared-implementation-corpus-preamble-contract",
+              "#cjs-17-two-tier-definition-contract-binding-abstraction--owner-detail"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 11,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
+            "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_04_specific_joint_interlocks.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_joint_structure/cjs_05_audit_process.md",
+            "file": "corpus_joint_structure/cjs_03_audit_process.md",
             "count": 2,
             "anchors": [
-              "#cjs-53-audit-process-home"
+              "#cjs-33-audit-process-home"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+            "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
             "count": 3,
             "anchors": [
-              "#cjs-51-constitutional-compass-and-cluster-map"
+              "#cjs-31-constitutional-compass-and-cluster-map"
             ]
           },
           {
@@ -8795,12 +8767,28 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#constitutional-owner-register",
               "#constitutional-tetrad",
               "#material-stake",
               "#two-constitutional-aims"
+            ]
+          },
+          {
+            "file": "core_01_a_values_principles.md",
+            "count": 2,
+            "anchors": [
+              "#1-purpose-and-role"
+            ]
+          },
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 20,
+            "anchors": [
+              "#833-incorporation-layer",
+              "#84-constitutional-meaning-conflict-resolution",
+              "#844-combined-satisfaction"
             ]
           },
           {
@@ -8812,223 +8800,10 @@
           },
           {
             "file": "core_05__definitions_home.md",
-            "count": 6,
+            "count": 9,
             "anchors": [
-              "#chapter-five-foundational-definitions"
-            ]
-          },
-          {
-            "file": "core_05_apex_oversight_leg.md",
-            "count": 10,
-            "anchors": [
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c",
-              "#oversight-constitutional-m"
-            ]
-          },
-          {
-            "file": "core_05_band_accountability.md",
-            "count": 20,
-            "anchors": [
-              "#adjudication-and-dispute-resolution-constitutional",
-              "#adjudication-and-dispute-resolution-constitutional-a",
-              "#adjudication-and-dispute-resolution-constitutional-c",
-              "#governance",
-              "#governance-a",
-              "#governance-c"
-            ]
-          },
-          {
-            "file": "core_05_band_continuity.md",
-            "count": 20,
-            "anchors": [
-              "#dependency",
-              "#dependency-a",
-              "#dependency-c",
-              "#system-definition",
-              "#system-definition-a",
-              "#system-definition-c"
-            ]
-          },
-          {
-            "file": "core_05_band_integrative.md",
-            "count": 45,
-            "anchors": [
-              "#authority-stack",
-              "#authority-stack-a",
-              "#authority-stack-c",
-              "#constitutional-constraint",
-              "#constitutional-constraint-a",
-              "#constitutional-constraint-c",
-              "#corpus",
-              "#corpus-a",
-              "#corpus-c",
-              "#sentient-composite-c"
-            ]
-          },
-          {
-            "file": "core_05_band_oversight.md",
-            "count": 20,
-            "anchors": [
-              "#epistemic-integrity",
-              "#epistemic-integrity-a",
-              "#epistemic-integrity-c",
-              "#evidence-preservation",
-              "#evidence-preservation-a",
-              "#evidence-preservation-c",
-              "#materiality-determination",
-              "#materiality-determination-a",
-              "#materiality-determination-c"
-            ]
-          },
-          {
-            "file": "core_05_band_participation.md",
-            "count": 20,
-            "anchors": [
-              "#sentient-composite",
-              "#sentient-composite-a"
-            ]
-          },
-          {
-            "file": "core_16-16_incorporation.md",
-            "count": 6,
-            "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure.md",
-            "count": 2,
-            "anchors": []
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 4,
-            "anchors": [
-              "#cjs-01-cross-file-routing"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 4,
-            "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 12,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
-            ]
-          },
-          {
-            "file": "corpus_systems.md",
-            "count": 1,
-            "anchors": []
-          }
-        ]
-      },
-      {
-        "source": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-        "targets": [
-          {
-            "file": "core_00_preamble.md",
-            "count": 1,
-            "anchors": [
-              "#constitutional-owner-register"
-            ]
-          },
-          {
-            "file": "core_05__definitions_home.md",
-            "count": 4,
-            "anchors": [
-              "#chapter-five-foundational-definitions"
-            ]
-          },
-          {
-            "file": "core_05_band_oversight.md",
-            "count": 1,
-            "anchors": [
-              "#trust-and-trustworthiness-cluster"
-            ]
-          },
-          {
-            "file": "core_16-16_incorporation.md",
-            "count": 4,
-            "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
-            ]
-          },
-          {
-            "file": "corpus_forum/cf_00_registry_and_reading_rules.md",
-            "count": 2,
-            "anchors": [
-              "#forums-overlap-discipline",
-              "#forums-read-with-pointers"
-            ]
-          },
-          {
-            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
-            "count": 2,
-            "anchors": [
-              "#institutions-overlap-discipline",
-              "#institutions-read-with-pointers"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 4,
-            "anchors": [
-              "#cjs-01-cross-file-routing"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 8,
-            "anchors": [
-              "#cjs-11-joint-structural-boundary-and-owner-discipline",
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 8,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_systems/cs_00_registry_and_reading_rules.md",
-            "count": 2,
-            "anchors": [
-              "#systems-overlap-discipline",
-              "#systems-read-with-pointers"
-            ]
-          }
-        ]
-      },
-      {
-        "source": "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
-        "targets": [
-          {
-            "file": "core_01_b_interaction_interpretation.md",
-            "count": 3,
-            "anchors": [
-              "#84-constitutional-meaning-conflict-resolution"
-            ]
-          },
-          {
-            "file": "core_05__definitions_home.md",
-            "count": 7,
-            "anchors": [
-              "#chapter-five-foundational-definitions"
+              "#chapter-five-foundational-definitions",
+              "#joint-invocation-and-satisfaction"
             ]
           },
           {
@@ -9043,31 +8818,32 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 27,
+            "count": 12,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
               "#adjudication-and-dispute-resolution-constitutional-c",
-              "#contestability",
-              "#contestability-a",
-              "#contestability-c",
-              "#merits-determination",
-              "#merits-determination-a",
-              "#merits-determination-c"
+              "#governance",
+              "#governance-a",
+              "#governance-c",
+              "#merits-determination"
             ]
           },
           {
             "file": "core_05_band_continuity.md",
             "count": 10,
             "anchors": [
-              "#emergency-and-contingency-constitutional",
-              "#emergency-and-contingency-constitutional-a",
-              "#emergency-and-contingency-constitutional-c"
+              "#dependency",
+              "#dependency-a",
+              "#dependency-c",
+              "#system-definition",
+              "#system-definition-a",
+              "#system-definition-c"
             ]
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 47,
+            "count": 22,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -9078,22 +8854,19 @@
               "#corpus",
               "#corpus-a",
               "#corpus-c",
-              "#incentive-alignment",
-              "#incentive-alignment-a",
-              "#incentive-alignment-c",
               "#sentient-composite-c"
             ]
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 35,
+            "count": 15,
             "anchors": [
-              "#classification-scaled-governance",
-              "#classification-scaled-governance-a",
-              "#classification-scaled-governance-c",
-              "#material",
-              "#material-a",
-              "#material-c",
+              "#epistemic-integrity",
+              "#epistemic-integrity-a",
+              "#epistemic-integrity-c",
+              "#evidence-preservation",
+              "#evidence-preservation-a",
+              "#evidence-preservation-c",
               "#materiality-determination",
               "#materiality-determination-a",
               "#materiality-determination-c"
@@ -9101,11 +8874,8 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 13,
+            "count": 4,
             "anchors": [
-              "#procedural-fairness-constitutional",
-              "#procedural-fairness-constitutional-a",
-              "#procedural-fairness-constitutional-c",
               "#sentient-composite",
               "#sentient-composite-a"
             ]
@@ -9119,45 +8889,113 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 8,
+            "count": 11,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
+            "file": "corpus_forum.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_00_registry_and_reading_rules.md",
+            "count": 2,
+            "anchors": [
+              "#forums-overlap-discipline",
+              "#forums-read-with-pointers"
+            ]
+          },
+          {
+            "file": "corpus_forum/cf_01_scope_authority_boundary_rules.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 2,
+            "anchors": [
+              "#institutions-overlap-discipline",
+              "#institutions-read-with-pointers"
+            ]
+          },
+          {
+            "file": "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure.md",
+            "count": 6,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 24,
+            "anchors": [
+              "#cjs-01-cross-file-routing",
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 8,
+            "count": 6,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 12,
+            "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems.md",
+            "count": 3,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_00_registry_and_reading_rules.md",
+            "count": 2,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#systems-overlap-discipline",
+              "#systems-read-with-pointers"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_04_specific_joint_interlocks.md",
-            "count": 2,
+            "file": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
+            "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_04_specific_joint_interlocks.md",
+        "source": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
         "targets": [
           {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 7,
+            "anchors": [
+              "#833-incorporation-layer",
+              "#844-combined-satisfaction"
+            ]
+          },
+          {
             "file": "core_05__definitions_home.md",
-            "count": 8,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 45,
+            "count": 25,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
@@ -9178,7 +9016,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 65,
+            "count": 35,
             "anchors": [
               "#dependency",
               "#dependency-a",
@@ -9205,7 +9043,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 62,
+            "count": 16,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -9221,7 +9059,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 30,
+            "count": 15,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -9236,7 +9074,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 8,
+            "count": 4,
             "anchors": [
               "#sentient-composite",
               "#sentient-composite-a"
@@ -9253,32 +9091,33 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 8,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
+            "file": "corpus_joint_structure.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 5,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids",
+              "#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 9,
+            "count": 4,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 10,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
-            "count": 2,
-            "anchors": []
-          },
-          {
-            "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+            "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
             "count": 2,
             "anchors": []
           },
@@ -9290,7 +9129,7 @@
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_05_audit_process.md",
+        "source": "corpus_joint_structure/cjs_03_audit_process.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -9374,9 +9213,21 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
@@ -9387,31 +9238,24 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 1,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+            "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
             "count": 2,
             "anchors": [
-              "#cjs-51-constitutional-compass-and-cluster-map"
+              "#cjs-31-constitutional-compass-and-cluster-map"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05o_oversight_operations.md",
+            "file": "corpus_joint_structure/cjs_03o_oversight_operations.md",
             "count": 10,
             "anchors": [
-              "#cjs-53-auditability-annex",
-              "#cjs-54-audit-process-output-disclosure"
+              "#cjs-33-auditability-annex",
+              "#cjs-34-audit-process-output-disclosure"
             ]
           }
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+        "source": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -9440,7 +9284,7 @@
           },
           {
             "file": "core_05__definitions_home.md",
-            "count": 2,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
@@ -9533,69 +9377,74 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 4,
-            "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
+            "file": "corpus_joint_structure.md",
+            "count": 2,
+            "anchors": []
           },
           {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 2,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_04_specific_joint_interlocks.md",
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 3,
+            "anchors": [
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05_audit_process.md",
+            "file": "corpus_joint_structure/cjs_03_audit_process.md",
             "count": 2,
             "anchors": [
-              "#cjs-53-audit-process-home"
+              "#cjs-33-audit-process-home"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+            "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
             "count": 1,
             "anchors": [
-              "#cjs-50-role-definition-preface-and-standing-competency-bar-and-clearance-interface"
+              "#cjs-30-role-definition-preface-and-standing-competency-bar-and-clearance-interface"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05a_accountability_operations.md",
+            "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05c_continuity_operations.md",
+            "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05i_integrative_operations.md",
+            "file": "corpus_joint_structure/cjs_03i_integrative_operations.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05o_oversight_operations.md",
+            "file": "corpus_joint_structure/cjs_03o_oversight_operations.md",
             "count": 2,
             "anchors": [
-              "#cjs-53-auditability-annex"
+              "#cjs-33-auditability-annex"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05p_participation_operations.md",
+            "file": "corpus_joint_structure/cjs_03p_participation_operations.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_05a_accountability_operations.md",
+        "source": "corpus_joint_structure/cjs_03a_accountability_operations.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -9635,7 +9484,7 @@
           },
           {
             "file": "core_05__definitions_home.md",
-            "count": 6,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
@@ -9761,55 +9610,60 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 6,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
+            "file": "corpus_joint_structure.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 6,
+            "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 6,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+            "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
             "count": 1,
             "anchors": [
-              "#cjs-51-constitutional-compass-and-cluster-map"
+              "#cjs-31-constitutional-compass-and-cluster-map"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05a_accountability_operations.md",
+            "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
             "count": 5,
             "anchors": [
-              "#cjs-5111-market-concentration-threshold-setting-discipline-adopter-tunable",
-              "#cjs-5112-anti-domination-conduct-and-remediation-catalog",
-              "#cjs-5113-consolidation-ceiling-setting-discipline-adopter-tunable"
+              "#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable",
+              "#cjs-3112-anti-domination-conduct-and-remediation-catalog",
+              "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05c_continuity_operations.md",
+            "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05p_participation_operations.md",
+            "file": "corpus_joint_structure/cjs_03p_participation_operations.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_05c_continuity_operations.md",
+        "source": "corpus_joint_structure/cjs_03c_continuity_operations.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -9821,7 +9675,7 @@
           },
           {
             "file": "core_05__definitions_home.md",
-            "count": 7,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
@@ -9925,46 +9779,51 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 7,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
+            "file": "corpus_joint_structure.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 7,
+            "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 7,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+            "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
             "count": 1,
             "anchors": [
-              "#cjs-51-constitutional-compass-and-cluster-map"
+              "#cjs-31-constitutional-compass-and-cluster-map"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05a_accountability_operations.md",
+            "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05i_integrative_operations.md",
+            "file": "corpus_joint_structure/cjs_03i_integrative_operations.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_05i_integrative_operations.md",
+        "source": "corpus_joint_structure/cjs_03i_integrative_operations.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -9975,7 +9834,7 @@
           },
           {
             "file": "core_05__definitions_home.md",
-            "count": 3,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
@@ -10061,34 +9920,39 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 3,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
+            "file": "corpus_joint_structure.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 3,
+            "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 3,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+            "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
             "count": 1,
             "anchors": [
-              "#cjs-51-constitutional-compass-and-cluster-map"
+              "#cjs-31-constitutional-compass-and-cluster-map"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05c_continuity_operations.md",
+            "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
             "count": 1,
             "anchors": []
           },
@@ -10100,7 +9964,7 @@
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_05o_oversight_operations.md",
+        "source": "corpus_joint_structure/cjs_03o_oversight_operations.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -10112,7 +9976,7 @@
           },
           {
             "file": "core_05__definitions_home.md",
-            "count": 6,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
@@ -10227,41 +10091,46 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 6,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
+            "file": "corpus_joint_structure.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 3,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 7,
+            "count": 2,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 7,
+            "file": "corpus_joint_structure/cjs_03_audit_process.md",
+            "count": 13,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-33-audit-process-home"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05_audit_process.md",
-            "count": 14,
-            "anchors": [
-              "#cjs-53-audit-process-home"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+            "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
             "count": 2,
             "anchors": [
-              "#cjs-51-constitutional-compass-and-cluster-map"
+              "#cjs-31-constitutional-compass-and-cluster-map"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05p_participation_operations.md",
+            "file": "corpus_joint_structure/cjs_03p_participation_operations.md",
             "count": 1,
             "anchors": []
           },
@@ -10276,7 +10145,7 @@
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_05p_participation_operations.md",
+        "source": "corpus_joint_structure/cjs_03p_participation_operations.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -10289,7 +10158,7 @@
           },
           {
             "file": "core_05__definitions_home.md",
-            "count": 5,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
@@ -10398,39 +10267,44 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 5,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
+            "file": "corpus_joint_structure.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 5,
+            "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 5,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+            "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
             "count": 1,
             "anchors": [
-              "#cjs-51-constitutional-compass-and-cluster-map"
+              "#cjs-31-constitutional-compass-and-cluster-map"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05a_accountability_operations.md",
+            "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05o_oversight_operations.md",
+            "file": "corpus_joint_structure/cjs_03o_oversight_operations.md",
             "count": 1,
             "anchors": []
           }
@@ -10502,27 +10376,21 @@
           },
           {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 1,
+            "count": 7,
             "anchors": [
+              "#cjs-01-topic-router-stable-ids",
               "#cross-domain-implementation-layer"
             ]
           },
           {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 8,
+            "count": 13,
             "anchors": [
               "#cjs-11-joint-structural-boundary-and-owner-discipline",
+              "#cjs-111-section-identifiers-and-article-references",
               "#cjs-12-shared-implementation-corpus-preamble-contract",
-              "#cjs-13-section-identifiers-and-article-references"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 11,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids",
-              "#cjs-22-intentional-overlap-non-duplication-discipline",
-              "#cjs-23-two-tier-definition-contract-binding-abstraction--owner-detail"
+              "#cjs-16-intentional-overlap-non-duplication-discipline",
+              "#cjs-17-two-tier-definition-contract-binding-abstraction--owner-detail"
             ]
           },
           {
@@ -10670,33 +10538,34 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 3,
-            "anchors": [
-              "#cjs-11-joint-structural-boundary-and-owner-discipline"
             ]
           },
           {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 3,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 5,
+            "anchors": [
+              "#cjs-10-purpose-of-this-layer",
+              "#cjs-11-joint-structural-boundary-and-owner-discipline"
             ]
           },
           {
             "file": "corpus_systems.md",
-            "count": 1,
+            "count": 3,
             "anchors": []
           },
           {
             "file": "corpus_systems/cs_00_registry_and_reading_rules.md",
-            "count": 1,
+            "count": 2,
             "anchors": []
           },
           {
@@ -10757,25 +10626,25 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05_audit_process.md",
+            "file": "corpus_joint_structure/cjs_03_audit_process.md",
             "count": 3,
             "anchors": [
-              "#cjs-53-audit-process-home",
-              "#cjs-53-sibling-modes"
+              "#cjs-33-audit-process-home",
+              "#cjs-33-sibling-modes"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05a_accountability_operations.md",
+            "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
             "count": 2,
             "anchors": [
-              "#cjs-515-material-classification-record-honesty"
+              "#cjs-315-material-classification-record-honesty"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05o_oversight_operations.md",
+            "file": "corpus_joint_structure/cjs_03o_oversight_operations.md",
             "count": 2,
             "anchors": [
-              "#cjs-54-audit-process-output-disclosure"
+              "#cjs-34-audit-process-output-disclosure"
             ]
           },
           {
@@ -10926,25 +10795,25 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05_audit_process.md",
+            "file": "corpus_joint_structure/cjs_03_audit_process.md",
             "count": 3,
             "anchors": [
-              "#cjs-53-audit-process-home",
-              "#cjs-53-sibling-modes"
+              "#cjs-33-audit-process-home",
+              "#cjs-33-sibling-modes"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05a_accountability_operations.md",
+            "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
             "count": 2,
             "anchors": [
-              "#cjs-515-material-classification-record-honesty"
+              "#cjs-315-material-classification-record-honesty"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05o_oversight_operations.md",
+            "file": "corpus_joint_structure/cjs_03o_oversight_operations.md",
             "count": 1,
             "anchors": [
-              "#cjs-54-audit-process-output-disclosure"
+              "#cjs-34-audit-process-output-disclosure"
             ]
           },
           {
@@ -11056,6 +10925,13 @@
         "source": "corpus_systems/cs_04_critical_system_stewardship.md",
         "targets": [
           {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 1,
+            "anchors": [
+              "#833-incorporation-layer"
+            ]
+          },
+          {
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 2,
             "anchors": [
@@ -11078,11 +10954,26 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_05a_accountability_operations.md",
+            "file": "core_16-16_incorporation.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
             "count": 1,
             "anchors": [
-              "#cjs-515-material-classification-record-honesty"
+              "#cjs-315-material-classification-record-honesty"
             ]
+          },
+          {
+            "file": "corpus_systems.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
@@ -11187,7 +11078,17 @@
             ]
           },
           {
+            "file": "core_16-16_incorporation.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
             "file": "corpus_systems.md",
+            "count": 3,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_00_registry_and_reading_rules.md",
             "count": 1,
             "anchors": []
           },
@@ -11206,6 +11107,21 @@
       {
         "source": "corpus_systems/cs_protocol_b_system_comprehensibility_complexity_stewardship.md",
         "targets": [
+          {
+            "file": "core_16-16_incorporation.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
+          },
           {
             "file": "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md",
             "count": 1,
@@ -11234,6 +11150,21 @@
             "anchors": [
               "#constitutional-constraint"
             ]
+          },
+          {
+            "file": "core_16-16_incorporation.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_systems/cs_protocol_b_system_comprehensibility_complexity_stewardship.md",
@@ -11305,7 +11236,22 @@
             ]
           },
           {
+            "file": "core_16-16_incorporation.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
             "file": "corpus_institutions.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_00_registry_and_reading_rules.md",
             "count": 1,
             "anchors": []
           },
@@ -11319,6 +11265,21 @@
       {
         "source": "corpus_systems/cs_protocol_r_subversion_response_replacement_reconstitution.md",
         "targets": [
+          {
+            "file": "core_16-16_incorporation.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
+          },
           {
             "file": "corpus_systems/cs_protocol_d_decentralized_constitutional_continuity_partition_resilience.md",
             "count": 1,
@@ -11358,6 +11319,21 @@
             ]
           },
           {
+            "file": "core_16-16_incorporation.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
             "file": "corpus_systems/cs_protocol_c_justice_safeguards_restitution_rehabilitation.md",
             "count": 1,
             "anchors": []
@@ -11387,6 +11363,11 @@
             ]
           },
           {
+            "file": "core_16-16_incorporation.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 2,
             "anchors": [
@@ -11395,6 +11376,11 @@
           },
           {
             "file": "corpus_systems.md",
+            "count": 3,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_00_registry_and_reading_rules.md",
             "count": 1,
             "anchors": []
           },
@@ -11413,6 +11399,21 @@
       {
         "source": "corpus_systems/cs_protocol_t_transition_constitution_migration_governance.md",
         "targets": [
+          {
+            "file": "core_16-16_incorporation.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
+          },
           {
             "file": "corpus_systems/cs_protocol_r_subversion_response_replacement_reconstitution.md",
             "count": 1,
@@ -11618,21 +11619,21 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 8,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 6,
             "anchors": [
-              "#cjs-11-joint-structural-boundary-and-owner-discipline",
-              "#cjs-12-shared-implementation-corpus-preamble-contract",
-              "#cjs-13-section-identifiers-and-article-references"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 10,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 12,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids",
-              "#cjs-22-intentional-overlap-non-duplication-discipline",
-              "#cjs-23-two-tier-definition-contract-binding-abstraction--owner-detail"
+              "#cjs-11-joint-structural-boundary-and-owner-discipline",
+              "#cjs-111-section-identifiers-and-article-references",
+              "#cjs-12-shared-implementation-corpus-preamble-contract",
+              "#cjs-16-intentional-overlap-non-duplication-discipline",
+              "#cjs-17-two-tier-definition-contract-binding-abstraction--owner-detail"
             ]
           },
           {
@@ -11682,7 +11683,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 15,
+            "count": 10,
             "anchors": [
               "#dependency",
               "#dependency-a",
@@ -11694,7 +11695,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 16,
+            "count": 11,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -11759,19 +11760,19 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
             "file": "corpus_institutions.md",
-            "count": 1,
+            "count": 3,
             "anchors": []
           },
           {
             "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
-            "count": 1,
+            "count": 2,
             "anchors": []
           },
           {
@@ -11785,17 +11786,18 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 5,
-            "anchors": [
-              "#cjs-11-joint-structural-boundary-and-owner-discipline"
-            ]
-          },
-          {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 3,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 7,
+            "anchors": [
+              "#cjs-10-purpose-of-this-layer",
+              "#cjs-11-joint-structural-boundary-and-owner-discipline"
             ]
           }
         ]
@@ -11812,14 +11814,14 @@
           },
           {
             "file": "core_05__definitions_home.md",
-            "count": 7,
+            "count": 2,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 10,
+            "count": 5,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -11839,7 +11841,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 66,
+            "count": 26,
             "anchors": [
               "#contestability",
               "#contestability-a",
@@ -11860,7 +11862,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 94,
+            "count": 39,
             "anchors": [
               "#charter",
               "#charter-a",
@@ -11885,7 +11887,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 36,
+            "count": 11,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -11898,7 +11900,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 46,
+            "count": 26,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -11932,7 +11934,7 @@
           },
           {
             "file": "core_06-06_rights_part_a.md",
-            "count": 7,
+            "count": 2,
             "anchors": [
               "#chapter-six-foundational-rights"
             ]
@@ -11946,16 +11948,15 @@
           },
           {
             "file": "core_07_b_system_alignment_certification_record_process.md",
-            "count": 3,
+            "count": 2,
             "anchors": [
-              "#11-certification-record",
               "#111-minimum-record-contents",
               "#16-reopening-drift-and-non-evasion"
             ]
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 2,
+            "count": 1,
             "anchors": [
               "#43-institutional-forums"
             ]
@@ -11969,10 +11970,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 7,
+            "count": 3,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md",
@@ -11985,17 +11996,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 7,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 3,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 8,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 2,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -12012,7 +12023,7 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 15,
+            "count": 5,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -12022,7 +12033,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 40,
+            "count": 20,
             "anchors": [
               "#competency-bar",
               "#competency-bar-a",
@@ -12040,7 +12051,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 35,
+            "count": 20,
             "anchors": [
               "#dependency",
               "#dependency-a",
@@ -12058,7 +12069,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 12,
+            "count": 11,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -12071,7 +12082,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 25,
+            "count": 10,
             "anchors": [
               "#classification-scaled-governance",
               "#classification-scaled-governance-a",
@@ -12083,7 +12094,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 23,
+            "count": 9,
             "anchors": [
               "#sentient-composite",
               "#sentient-composite-a",
@@ -12110,10 +12121,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
@@ -12126,17 +12147,17 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 6,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 6,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 6,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
             ]
           }
         ]
@@ -12146,14 +12167,14 @@
         "targets": [
           {
             "file": "core_05__definitions_home.md",
-            "count": 4,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 15,
+            "count": 5,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -12173,7 +12194,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 50,
+            "count": 20,
             "anchors": [
               "#capture-of-resolution-pathways",
               "#capture-of-resolution-pathways-a",
@@ -12191,7 +12212,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 10,
+            "count": 5,
             "anchors": [
               "#system-capture",
               "#system-capture-a",
@@ -12200,7 +12221,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 20,
+            "count": 10,
             "anchors": [
               "#corpus",
               "#corpus-a",
@@ -12212,7 +12233,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 15,
+            "count": 10,
             "anchors": [
               "#evidence-preservation",
               "#evidence-preservation-a",
@@ -12224,17 +12245,27 @@
           },
           {
             "file": "core_06-06_rights_part_a.md",
-            "count": 4,
+            "count": 1,
             "anchors": [
               "#chapter-six-foundational-rights"
             ]
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 4,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
@@ -12247,17 +12278,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 4,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 4,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -12340,10 +12371,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
@@ -12356,17 +12397,17 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 1,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
             ]
           }
         ]
@@ -12376,14 +12417,14 @@
         "targets": [
           {
             "file": "core_05__definitions_home.md",
-            "count": 4,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 15,
+            "count": 5,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-constitutional-a",
@@ -12393,7 +12434,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 29,
+            "count": 12,
             "anchors": [
               "#contestability",
               "#contestability-a",
@@ -12406,7 +12447,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 26,
+            "count": 13,
             "anchors": [
               "#dependency",
               "#dependency-a",
@@ -12420,7 +12461,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 61,
+            "count": 26,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -12453,17 +12494,27 @@
           },
           {
             "file": "core_06-06_rights_part_a.md",
-            "count": 4,
+            "count": 1,
             "anchors": [
               "#chapter-six-foundational-rights"
             ]
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 4,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md",
@@ -12476,17 +12527,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 5,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 2,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 5,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 2,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -12496,7 +12547,7 @@
         "targets": [
           {
             "file": "core_05__definitions_home.md",
-            "count": 5,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
@@ -12513,7 +12564,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 15,
+            "count": 5,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-constitutional-a",
@@ -12523,7 +12574,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 25,
+            "count": 10,
             "anchors": [
               "#contestability",
               "#contestability-a",
@@ -12535,7 +12586,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 39,
+            "count": 24,
             "anchors": [
               "#charter",
               "#charter-a",
@@ -12562,7 +12613,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 46,
+            "count": 16,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -12577,7 +12628,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 64,
+            "count": 33,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -12601,7 +12652,7 @@
           },
           {
             "file": "core_06-06_rights_part_a.md",
-            "count": 5,
+            "count": 1,
             "anchors": [
               "#chapter-six-foundational-rights"
             ]
@@ -12615,10 +12666,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 5,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
@@ -12631,17 +12692,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 5,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 5,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -12651,14 +12712,14 @@
         "targets": [
           {
             "file": "core_05__definitions_home.md",
-            "count": 9,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 20,
+            "count": 5,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-constitutional-a",
@@ -12668,7 +12729,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 60,
+            "count": 20,
             "anchors": [
               "#contestability",
               "#contestability-a",
@@ -12686,7 +12747,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 70,
+            "count": 30,
             "anchors": [
               "#dependency",
               "#dependency-a",
@@ -12710,7 +12771,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 65,
+            "count": 15,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -12725,7 +12786,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 80,
+            "count": 30,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -12768,17 +12829,27 @@
           },
           {
             "file": "core_06-06_rights_part_a.md",
-            "count": 9,
+            "count": 1,
             "anchors": [
               "#chapter-six-foundational-rights"
             ]
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 9,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
@@ -12791,17 +12862,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 9,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 9,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -12811,14 +12882,14 @@
         "targets": [
           {
             "file": "core_05__definitions_home.md",
-            "count": 3,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 20,
+            "count": 10,
             "anchors": [
               "#contestability",
               "#contestability-a",
@@ -12830,7 +12901,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 25,
+            "count": 15,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-a",
@@ -12845,7 +12916,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 10,
+            "count": 5,
             "anchors": [
               "#corpus",
               "#corpus-a",
@@ -12854,7 +12925,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 35,
+            "count": 20,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -12887,17 +12958,27 @@
           },
           {
             "file": "core_06-06_rights_part_a.md",
-            "count": 3,
+            "count": 1,
             "anchors": [
               "#chapter-six-foundational-rights"
             ]
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 3,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
@@ -12910,17 +12991,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 4,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 3,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 2,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -12989,10 +13070,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
@@ -13005,17 +13096,17 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 1,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
             ]
           }
         ]
@@ -13098,10 +13189,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md",
@@ -13114,17 +13215,17 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 1,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
             ]
           }
         ]
@@ -13201,10 +13302,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md",
@@ -13217,17 +13328,17 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 2,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
             ]
           }
         ]
@@ -13244,7 +13355,7 @@
           },
           {
             "file": "core_05__definitions_home.md",
-            "count": 4,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
@@ -13261,7 +13372,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 10,
+            "count": 5,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-constitutional-a",
@@ -13271,7 +13382,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 30,
+            "count": 20,
             "anchors": [
               "#contestability",
               "#contestability-a",
@@ -13289,7 +13400,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 25,
+            "count": 15,
             "anchors": [
               "#emergency-and-contingency-constitutional",
               "#emergency-and-contingency-constitutional-a",
@@ -13304,7 +13415,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 17,
+            "count": 11,
             "anchors": [
               "#constitutional-constraint",
               "#constitutional-constraint-a",
@@ -13317,7 +13428,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 22,
+            "count": 12,
             "anchors": [
               "#evidence-preservation",
               "#evidence-preservation-a",
@@ -13329,7 +13440,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 19,
+            "count": 15,
             "anchors": [
               "#sentient-composite",
               "#sentient-composite-a",
@@ -13343,17 +13454,27 @@
           },
           {
             "file": "core_06-06_rights_part_a.md",
-            "count": 4,
+            "count": 1,
             "anchors": [
               "#chapter-six-foundational-rights"
             ]
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 4,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
@@ -13371,17 +13492,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 5,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 2,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 5,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 2,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -13444,10 +13565,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
@@ -13465,17 +13596,17 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 1,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
             ]
           }
         ]
@@ -13544,10 +13675,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md",
@@ -13565,17 +13706,17 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 1,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
             ]
           }
         ]
@@ -13644,10 +13785,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md",
@@ -13665,17 +13816,17 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 1,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
             ]
           }
         ]
@@ -13751,10 +13902,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md",
@@ -13772,17 +13933,17 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 1,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
             ]
           }
         ]
@@ -13845,10 +14006,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md",
@@ -13866,17 +14037,17 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 2,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
             ]
           }
         ]
@@ -13951,10 +14122,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md",
@@ -13972,17 +14153,17 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 1,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
             ]
           }
         ]
@@ -13992,7 +14173,7 @@
         "targets": [
           {
             "file": "core_05__definitions_home.md",
-            "count": 4,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
@@ -14047,17 +14228,27 @@
           },
           {
             "file": "core_06-06_rights_part_a.md",
-            "count": 4,
+            "count": 1,
             "anchors": [
               "#chapter-six-foundational-rights"
             ]
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 4,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md",
@@ -14075,17 +14266,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 4,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 4,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -14154,10 +14345,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
@@ -14175,17 +14376,17 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 1,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
             ]
           }
         ]
@@ -14255,10 +14456,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
@@ -14276,17 +14487,17 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 1,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
             ]
           }
         ]
@@ -14349,10 +14560,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md",
@@ -14370,17 +14591,17 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 1,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
             ]
           }
         ]
@@ -14390,7 +14611,7 @@
         "targets": [
           {
             "file": "core_05__definitions_home.md",
-            "count": 6,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
@@ -14436,17 +14657,27 @@
           },
           {
             "file": "core_06-06_rights_part_a.md",
-            "count": 6,
+            "count": 1,
             "anchors": [
               "#chapter-six-foundational-rights"
             ]
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 6,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_24_innovation_reward_disclosure_anti_enclosure.md",
@@ -14464,17 +14695,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 6,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 6,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -14557,10 +14788,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
@@ -14573,17 +14814,17 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 1,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
             ]
           }
         ]
@@ -14673,7 +14914,7 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
@@ -14684,22 +14925,32 @@
             "anchors": []
           },
           {
+            "file": "corpus_institutions.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
             "file": "corpus_institutions/ci_26_compliance_mapping_stable_registry.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
           },
           {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 1,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
             ]
           }
         ]
@@ -14874,21 +15125,21 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 8,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 6,
             "anchors": [
-              "#cjs-11-joint-structural-boundary-and-owner-discipline",
-              "#cjs-12-shared-implementation-corpus-preamble-contract",
-              "#cjs-13-section-identifiers-and-article-references"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 11,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 13,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids",
-              "#cjs-22-intentional-overlap-non-duplication-discipline",
-              "#cjs-23-two-tier-definition-contract-binding-abstraction--owner-detail"
+              "#cjs-11-joint-structural-boundary-and-owner-discipline",
+              "#cjs-111-section-identifiers-and-article-references",
+              "#cjs-12-shared-implementation-corpus-preamble-contract",
+              "#cjs-16-intentional-overlap-non-duplication-discipline",
+              "#cjs-17-two-tier-definition-contract-binding-abstraction--owner-detail"
             ]
           },
           {
@@ -14944,19 +15195,19 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
             "file": "corpus_forum.md",
-            "count": 1,
+            "count": 3,
             "anchors": []
           },
           {
             "file": "corpus_forum/cf_00_registry_and_reading_rules.md",
-            "count": 1,
+            "count": 2,
             "anchors": []
           },
           {
@@ -14965,17 +15216,18 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 3,
-            "anchors": [
-              "#cjs-11-joint-structural-boundary-and-owner-discipline"
-            ]
-          },
-          {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 3,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 5,
+            "anchors": [
+              "#cjs-10-purpose-of-this-layer",
+              "#cjs-11-joint-structural-boundary-and-owner-discipline"
             ]
           }
         ]
@@ -14985,7 +15237,7 @@
         "targets": [
           {
             "file": "core_05__definitions_home.md",
-            "count": 9,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
@@ -15002,7 +15254,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 205,
+            "count": 30,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
@@ -15026,7 +15278,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 25,
+            "count": 15,
             "anchors": [
               "#emergency-and-contingency-constitutional",
               "#emergency-and-contingency-constitutional-a",
@@ -15041,7 +15293,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 26,
+            "count": 11,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -15069,7 +15321,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 29,
+            "count": 14,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -15083,17 +15335,27 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 9,
+            "count": 1,
             "anchors": [
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 9,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_forum/cf_01_scope_authority_boundary_rules.md",
@@ -15106,17 +15368,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 9,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 9,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -15126,14 +15388,14 @@
         "targets": [
           {
             "file": "core_05__definitions_home.md",
-            "count": 14,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 70,
+            "count": 5,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -15153,7 +15415,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 140,
+            "count": 35,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
@@ -15180,7 +15442,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 85,
+            "count": 15,
             "anchors": [
               "#dependency",
               "#dependency-a",
@@ -15195,7 +15457,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 31,
+            "count": 11,
             "anchors": [
               "#corpus",
               "#corpus-a",
@@ -15208,7 +15470,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 65,
+            "count": 15,
             "anchors": [
               "#evidence-preservation",
               "#evidence-preservation-a",
@@ -15223,7 +15485,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 74,
+            "count": 9,
             "anchors": [
               "#procedural-fairness-constitutional",
               "#procedural-fairness-constitutional-a",
@@ -15233,19 +15495,10 @@
             ]
           },
           {
-            "file": "core_08-08_standing_assessment.md",
+            "file": "core_09-09_standing_integration.md",
             "count": 4,
             "anchors": [
-              "#31-minimum-record-contents",
-              "#7-unified-proportional-lequ-scale"
-            ]
-          },
-          {
-            "file": "core_09-09_standing_integration.md",
-            "count": 11,
-            "anchors": [
               "#55-special-locks",
-              "#62-competency-bars-and-clearances",
               "#8-restoration-and-reassessment"
             ]
           },
@@ -15258,17 +15511,27 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 18,
+            "count": 5,
             "anchors": [
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 14,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_forum/cf_03_forum_formation_tribunal_mapping_chamber_structure.md",
@@ -15281,17 +15544,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 15,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 14,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 2,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -15301,14 +15564,14 @@
         "targets": [
           {
             "file": "core_05__definitions_home.md",
-            "count": 3,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 35,
+            "count": 15,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
@@ -15344,7 +15607,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 30,
+            "count": 10,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -15356,17 +15619,27 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 4,
+            "count": 2,
             "anchors": [
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 3,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
@@ -15379,17 +15652,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 4,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 2,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 4,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 2,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -15406,14 +15679,14 @@
           },
           {
             "file": "core_05__definitions_home.md",
-            "count": 13,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 15,
+            "count": 5,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -15423,7 +15696,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 170,
+            "count": 30,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
@@ -15447,7 +15720,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 90,
+            "count": 20,
             "anchors": [
               "#dependency",
               "#dependency-a",
@@ -15465,7 +15738,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 15,
+            "count": 10,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -15477,7 +15750,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 70,
+            "count": 20,
             "anchors": [
               "#epistemic-integrity",
               "#epistemic-integrity-a",
@@ -15495,7 +15768,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 65,
+            "count": 5,
             "anchors": [
               "#procedural-fairness-constitutional",
               "#procedural-fairness-constitutional-a",
@@ -15504,17 +15777,27 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 13,
+            "count": 1,
             "anchors": [
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 13,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
@@ -15527,17 +15810,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 14,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 13,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 2,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -15547,14 +15830,14 @@
         "targets": [
           {
             "file": "core_05__definitions_home.md",
-            "count": 24,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 35,
+            "count": 5,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -15564,7 +15847,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 90,
+            "count": 5,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-constitutional-a",
@@ -15574,7 +15857,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 156,
+            "count": 36,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
@@ -15602,7 +15885,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 225,
+            "count": 25,
             "anchors": [
               "#dependency",
               "#dependency-a",
@@ -15623,7 +15906,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 131,
+            "count": 16,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -15639,7 +15922,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 110,
+            "count": 20,
             "anchors": [
               "#evidence-preservation",
               "#evidence-preservation-a",
@@ -15657,7 +15940,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 84,
+            "count": 24,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -15677,17 +15960,27 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 24,
+            "count": 1,
             "anchors": [
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 24,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md",
@@ -15700,17 +15993,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 24,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 24,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -15734,7 +16027,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 41,
+            "count": 21,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
@@ -15753,7 +16046,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 15,
+            "count": 10,
             "anchors": [
               "#system-capture",
               "#system-capture-a",
@@ -15765,7 +16058,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 13,
+            "count": 6,
             "anchors": [
               "#corpus",
               "#corpus-a",
@@ -15775,7 +16068,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 131,
+            "count": 26,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -15796,7 +16089,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 32,
+            "count": 19,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -15828,10 +16121,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md",
@@ -15844,17 +16147,17 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 7,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 7,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 7,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
             ]
           }
         ]
@@ -15871,7 +16174,7 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 50,
+            "count": 5,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -15881,7 +16184,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 55,
+            "count": 5,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-constitutional-a",
@@ -15891,7 +16194,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 77,
+            "count": 47,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
@@ -15925,7 +16228,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 38,
+            "count": 18,
             "anchors": [
               "#dependency",
               "#dependency-a",
@@ -15942,7 +16245,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 26,
+            "count": 11,
             "anchors": [
               "#corpus",
               "#corpus-a",
@@ -15955,7 +16258,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 116,
+            "count": 21,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -15973,7 +16276,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 14,
+            "count": 9,
             "anchors": [
               "#procedural-fairness-constitutional",
               "#procedural-fairness-constitutional-a",
@@ -15992,10 +16295,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 11,
+            "count": 12,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_forum/cf_08_forum_forensic_analytical_support.md",
@@ -16008,17 +16321,17 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 12,
+            "anchors": [
+              "#cjs-01-topic-router-stable-ids"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 12,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
-            ]
-          },
-          {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 12,
-            "anchors": [
-              "#cjs-21-topic-router-stable-ids"
             ]
           }
         ]
@@ -16028,7 +16341,7 @@
         "targets": [
           {
             "file": "core_05__definitions_home.md",
-            "count": 16,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
@@ -16045,7 +16358,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 205,
+            "count": 25,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
@@ -16066,7 +16379,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 35,
+            "count": 15,
             "anchors": [
               "#dependency",
               "#dependency-a",
@@ -16081,7 +16394,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 95,
+            "count": 15,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -16096,7 +16409,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 170,
+            "count": 25,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -16117,7 +16430,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 25,
+            "count": 10,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -16129,17 +16442,27 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 16,
+            "count": 1,
             "anchors": [
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 16,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
@@ -16152,17 +16475,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 16,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 16,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -16179,14 +16502,14 @@
           },
           {
             "file": "core_05__definitions_home.md",
-            "count": 19,
+            "count": 2,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 70,
+            "count": 5,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -16196,7 +16519,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 204,
+            "count": 47,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
@@ -16230,7 +16553,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 56,
+            "count": 28,
             "anchors": [
               "#dependency",
               "#dependency-a",
@@ -16253,7 +16576,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 110,
+            "count": 10,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -16265,7 +16588,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 85,
+            "count": 20,
             "anchors": [
               "#evidence-preservation",
               "#evidence-preservation-a",
@@ -16283,7 +16606,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 170,
+            "count": 15,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -16335,7 +16658,7 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 21,
+            "count": 4,
             "anchors": [
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-eleven-forums-and-jurisdiction"
@@ -16343,10 +16666,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 19,
+            "count": 3,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md",
@@ -16359,17 +16692,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 19,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 2,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 19,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 2,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -16379,7 +16712,7 @@
         "targets": [
           {
             "file": "core_05__definitions_home.md",
-            "count": 9,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
@@ -16396,7 +16729,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 55,
+            "count": 10,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
@@ -16408,7 +16741,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 115,
+            "count": 15,
             "anchors": [
               "#emergency-and-contingency-constitutional",
               "#emergency-and-contingency-constitutional-a",
@@ -16423,7 +16756,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 65,
+            "count": 10,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -16435,7 +16768,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 68,
+            "count": 18,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -16459,17 +16792,27 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 9,
+            "count": 1,
             "anchors": [
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 9,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
@@ -16482,17 +16825,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 9,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 2,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 10,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -16502,7 +16845,7 @@
         "targets": [
           {
             "file": "core_05__definitions_home.md",
-            "count": 5,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
@@ -16519,7 +16862,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 55,
+            "count": 20,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
@@ -16537,7 +16880,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 55,
+            "count": 15,
             "anchors": [
               "#emergency-and-contingency-constitutional",
               "#emergency-and-contingency-constitutional-a",
@@ -16552,7 +16895,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 30,
+            "count": 10,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -16564,7 +16907,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 20,
+            "count": 5,
             "anchors": [
               "#evidence-preservation",
               "#evidence-preservation-a",
@@ -16582,17 +16925,27 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 5,
+            "count": 1,
             "anchors": [
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 5,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_forum/cf_12_forum_continuity.md",
@@ -16605,17 +16958,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 5,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 2,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 6,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -16625,14 +16978,14 @@
         "targets": [
           {
             "file": "core_05__definitions_home.md",
-            "count": 6,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 55,
+            "count": 20,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
@@ -16650,7 +17003,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 65,
+            "count": 15,
             "anchors": [
               "#emergency-and-contingency-constitutional",
               "#emergency-and-contingency-constitutional-a",
@@ -16665,7 +17018,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 35,
+            "count": 10,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -16677,7 +17030,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 42,
+            "count": 12,
             "anchors": [
               "#evidence-preservation",
               "#evidence-preservation-a",
@@ -16689,7 +17042,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 10,
+            "count": 5,
             "anchors": [
               "#procedural-fairness-constitutional",
               "#procedural-fairness-constitutional-a",
@@ -16698,17 +17051,27 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 6,
+            "count": 1,
             "anchors": [
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 6,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_forum/cf_13_fallback_operation.md",
@@ -16721,17 +17084,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 6,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 2,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 7,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -16741,7 +17104,7 @@
         "targets": [
           {
             "file": "core_05__definitions_home.md",
-            "count": 7,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
@@ -16758,7 +17121,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 85,
+            "count": 25,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
@@ -16779,7 +17142,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 20,
+            "count": 15,
             "anchors": [
               "#emergency-and-contingency-constitutional",
               "#emergency-and-contingency-constitutional-a",
@@ -16794,7 +17157,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 40,
+            "count": 10,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -16806,7 +17169,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 71,
+            "count": 21,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -16824,7 +17187,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 25,
+            "count": 10,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -16836,17 +17199,27 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 7,
+            "count": 1,
             "anchors": [
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 7,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_forum/cf_14_emergency_adjudication.md",
@@ -16859,17 +17232,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 7,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 7,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -16879,7 +17252,7 @@
         "targets": [
           {
             "file": "core_05__definitions_home.md",
-            "count": 9,
+            "count": 2,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
@@ -16986,7 +17359,7 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 9,
+            "count": 2,
             "anchors": [
               "#chapter-eleven-forums-and-jurisdiction"
             ]
@@ -17000,10 +17373,20 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 8,
+            "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md",
@@ -17011,17 +17394,17 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 10,
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 3,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 10,
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 3,
             "anchors": [
-              "#cjs-21-topic-router-stable-ids"
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]

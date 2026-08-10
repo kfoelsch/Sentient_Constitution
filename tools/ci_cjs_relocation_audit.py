@@ -26,7 +26,7 @@ CJS_DIR = "corpus_joint_structure"
 
 DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
     (
-        "CJS-5.5–CJS-5.8 / CJS-4.1 / CJS-4.5",
+        "CJS-3.5–CJS-3.8 / CJS-2.1 / CJS-2.5",
         (
             "authority",
             "delegation",
@@ -43,7 +43,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("authority/procedure", "shared procedural abstraction"),
     ),
     (
-        "CJS-5.22–CJS-5.12",
+        "CJS-3.22–CJS-3.12",
         (
             "audit",
             "evidence",
@@ -59,7 +59,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("evidence/audit", "claim integrity"),
     ),
     (
-        "CJS-5.13–CJS-5.4",
+        "CJS-3.13–CJS-3.4",
         (
             "participation",
             "notice",
@@ -74,7 +74,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("participation/disclosure", "comprehension/accessibility"),
     ),
     (
-        "CJS-5.16–CJS-5.18",
+        "CJS-3.16–CJS-3.18",
         (
             "dependency",
             "exit",
@@ -88,7 +88,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("dependency/exit", "lifecycle integrity"),
     ),
     (
-        "CJS-5.19–CJS-5.53",
+        "CJS-3.19–CJS-3.53",
         (
             "failure",
             "emergency",
@@ -103,12 +103,12 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("failure/robustness", "intervention/correction"),
     ),
     (
-        "CJS-4.3",
+        "CJS-2.3",
         ("trust", "trustworthiness", "misleading reliance", "proxy metric", "integrity"),
         ("cross-implementation trust",),
     ),
     (
-        "CJS-3 / CJS-4",
+        "CJS-1 / CJS-2",
         (
             "joint",
             "cross-implementation",
@@ -296,7 +296,7 @@ def strip_cjs_pointer_sentences(text: str) -> str:
 
     text = strip_navigation_and_alignment(strip_inst_proto_registry(strip_constitutional_index(text)))
     paragraph_kept: list[str] = []
-    cjs_ref_re = re.compile(r"(corpus_joint_structure\.md|CJS-\d|CJS-5[A-E]?)", flags=re.I)
+    cjs_ref_re = re.compile(r"(corpus_joint_structure\.md|CJS-\d|CJS-3[A-E]?)", flags=re.I)
     post_relocation_re = re.compile(
         r"(this subsection states the institutional|this section states the institutional|"
         r"this section records the institutional|this subsection records the institutional|"
@@ -322,7 +322,7 @@ def strip_cjs_pointer_sentences(text: str) -> str:
     pointer_re = re.compile(
         r"(\bapply\b|\bread\b|\bsee\b|\bunder\b|\bgoverned by\b|\bremain(?:s)?\b|"
         r"\bshared\b|\bpointer\b|\brouter\b|\bowner map\b|\bjoint-obligation\b).{0,260}"
-        r"(corpus_joint_structure\.md|CJS-\d|CJS-5[A-E]?)",
+        r"(corpus_joint_structure\.md|CJS-\d|CJS-3[A-E]?)",
         flags=re.I | re.S,
     )
     for chunk in chunks:
@@ -578,7 +578,7 @@ def render_markdown(candidates: list[Candidate], root: Path, min_score: int) -> 
         "",
         f"Generated: {generated}",
         "",
-        "Scope: `corpus_institutions/*.md` compared against `corpus_joint_structure/*.md` and the CJS-2.1 topic router.",
+        "Scope: `corpus_institutions/*.md` compared against `corpus_joint_structure/*.md` and the CJS-0.1 topic router.",
         "",
         "This is an editorial exposure audit. It identifies candidate passages for relocation, pointer replacement, or split ownership; it does not apply moves.",
         "",

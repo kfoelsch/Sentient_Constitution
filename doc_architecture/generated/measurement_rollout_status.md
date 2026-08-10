@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-08-09T18:49:16+00:00
+Generated: 2026-08-09T21:22:03+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **221/221** terms pass tier audit.
+Approved progress: **222/222** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -131,6 +131,7 @@ Approved progress: **221/221** terms pass tier audit.
 | Self-Determination | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Sentience Non-Exclusion | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Sentience Status Adjudication | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
+| Sentience-Status Adjudication Record | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Sentient | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Stakeholder | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Stakeholder Representation and Weight Limits (Binding Stakeholder Choice) | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |

@@ -1,4 +1,4 @@
-"""Shared index builders for Chapter Five and CJS-5 operational definitions."""
+"""Shared index builders for Chapter Five and CJS-3 operational definitions."""
 
 from __future__ import annotations
 
@@ -21,16 +21,16 @@ from ch5_single_definition_audit import (  # noqa: E402
     previous_entry_anchor,
 )
 
-CJS5_FILES = (
-    "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
-    "corpus_joint_structure/cjs_05o_oversight_operations.md",
-    "corpus_joint_structure/cjs_05p_participation_operations.md",
-    "corpus_joint_structure/cjs_05a_accountability_operations.md",
-    "corpus_joint_structure/cjs_05c_continuity_operations.md",
-    "corpus_joint_structure/cjs_05i_integrative_operations.md",
+CJS3_FILES = (
+    "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
+    "corpus_joint_structure/cjs_03o_oversight_operations.md",
+    "corpus_joint_structure/cjs_03p_participation_operations.md",
+    "corpus_joint_structure/cjs_03a_accountability_operations.md",
+    "corpus_joint_structure/cjs_03c_continuity_operations.md",
+    "corpus_joint_structure/cjs_03i_integrative_operations.md",
 )
 
-CLUSTER_HEADING_RE = re.compile(r"^##\s+(CJS-5\.\d+)\s+(.+)$")
+CLUSTER_HEADING_RE = re.compile(r"^##\s+(CJS-3\.\d+)\s+(.+)$")
 CH5_LINK_RE = re.compile(
     r"(?:core_05[a-z_\-]+\.md|Chapter Five|chapter five)",
     re.I,
@@ -50,7 +50,7 @@ class Ch5Entry:
 
 
 @dataclass
-class Cjs5OperationalRule:
+class Cjs3OperationalRule:
     label: str
     cluster_id: str
     file: str
@@ -67,7 +67,7 @@ class Cjs5OperationalRule:
 
 
 @dataclass
-class Cjs5Cluster:
+class Cjs3Cluster:
     cluster_id: str
     title: str
     file: str
@@ -75,7 +75,7 @@ class Cjs5Cluster:
     end_line: int
     body: str
     read_with: list[str] = field(default_factory=list)
-    rules: list[Cjs5OperationalRule] = field(default_factory=list)
+    rules: list[Cjs3OperationalRule] = field(default_factory=list)
     ch5_links: list[str] = field(default_factory=list)
 
 
@@ -176,10 +176,10 @@ def _extract_ch5_links(text: str) -> list[str]:
     return sorted(set(CH5_LINK_RE.findall(text)))
 
 
-def _extract_rules(cluster: Cjs5Cluster) -> list[Cjs5OperationalRule]:
+def _extract_rules(cluster: Cjs3Cluster) -> list[Cjs3OperationalRule]:
     lines = cluster.body.splitlines()
-    rules: list[Cjs5OperationalRule] = []
-    current: Cjs5OperationalRule | None = None
+    rules: list[Cjs3OperationalRule] = []
+    current: Cjs3OperationalRule | None = None
     previous_label: tuple[str, int] | None = None
     block_lines: list[str] = []
 
@@ -218,7 +218,7 @@ def _extract_rules(cluster: Cjs5Cluster) -> list[Cjs5OperationalRule]:
         if stripped.startswith("- OP-"):
             if current is None:
                 label, label_line = previous_label or ("Unlabeled operational rule", offset)
-                current = Cjs5OperationalRule(
+                current = Cjs3OperationalRule(
                     label=label,
                     cluster_id=cluster.cluster_id,
                     file=cluster.file,
@@ -238,7 +238,7 @@ def _extract_rules(cluster: Cjs5Cluster) -> list[Cjs5OperationalRule]:
     return rules
 
 
-def _extract_clusters_from_file(root: Path, rel_path: str) -> list[Cjs5Cluster]:
+def _extract_clusters_from_file(root: Path, rel_path: str) -> list[Cjs3Cluster]:
     path = root / rel_path
     if not path.is_file():
         return []
@@ -249,11 +249,11 @@ def _extract_clusters_from_file(root: Path, rel_path: str) -> list[Cjs5Cluster]:
         if match:
             starts.append((idx, match.group(1), match.group(2).strip()))
 
-    clusters: list[Cjs5Cluster] = []
+    clusters: list[Cjs3Cluster] = []
     for pos, (start_idx, cluster_id, title) in enumerate(starts):
         end_idx = starts[pos + 1][0] if pos + 1 < len(starts) else len(lines)
         body = "\n".join(lines[start_idx + 1 : end_idx])
-        cluster = Cjs5Cluster(
+        cluster = Cjs3Cluster(
             cluster_id=cluster_id,
             title=title,
             file=rel_path,
@@ -268,9 +268,9 @@ def _extract_clusters_from_file(root: Path, rel_path: str) -> list[Cjs5Cluster]:
     return clusters
 
 
-def collect_cjs5_clusters(root: Path) -> list[Cjs5Cluster]:
-    clusters: list[Cjs5Cluster] = []
-    for rel_path in CJS5_FILES:
+def collect_cjs3_clusters(root: Path) -> list[Cjs3Cluster]:
+    clusters: list[Cjs3Cluster] = []
+    for rel_path in CJS3_FILES:
         clusters.extend(_extract_clusters_from_file(root, rel_path))
     return clusters
 

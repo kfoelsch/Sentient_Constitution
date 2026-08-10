@@ -38,10 +38,10 @@ CS-2 implements:
 - **Data typing** — every material dataset is assigned one or more types defined in **[Part B](cs_02_b_data_classifications.md#cs-2-part-b-data-classifications)** (**Type E**, **G**, **O**, **H**, **I**, **N**, and **S**)
 - **System Data Types Record** — for every system with **material impact**, operators must maintain a [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional) stating types in scope, handling posture, and re-evaluation status. That record is **material audited information**: auditing processes require it, and System Data Types Record audits check it between and beside [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) cycles ([§8](#8-system-data-types-record-governance)). When System Alignment Certification runs, **[Chapter Seven §4](../core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)** must produce or verify the record and include it in the [System Certification Record](../core_05_band_continuity.md#system-certification-record-constitutional) under **[Part B §11.1](../core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**
 - **Default access posture** — each type belongs to one of four **access-posture bands** defined in **[Part B §8](cs_02_b_data_classifications.md#8-data-classifications)** (*open / accessible by default*; *audit-accessible, not public*; *restricted by default*; *non-accessible by default*), plus type-specific disclosure, consent, and handling rules. Bands group shared defaults; they are **not** a ranked sensitivity score
-- **Most-restrictive rule** — where more than one type applies, the strongest applicable protections govern ([§2](#2-determination-of-classification) *When it is unclear*), subject to proportionality (**CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*))
+- **Most-restrictive rule** — where more than one type applies, the strongest applicable protections govern ([§2](#2-determination-of-classification) *When it is unclear*), subject to proportionality (**CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*))
 - **Classification integrity** — type follows the **functional nature of the data** and the **effects it enables**, not format, origin, or pipeline stage; systems may not evade typing by fragmentation, re-labeling, or indirection ([§2](#2-determination-of-classification)–[§4](#4-anti-circumvention-and-integrity-of-classification))
 - **Identity self-ownership** — identity and attribution data remain under sentient control through revocation, rotation, correction, and recoverability ([§1.1](#11-identity-self-ownership-and-recoverability); **Article VII** (*Self-Ownership*))
-- **Continuity and exit** — for **Class A**, **Class B**, and **Class C** systems, sentients must be able to take their continuity-critical data with them when a service ends or changes hands ([§1.2](#12-continuity-critical-collection-and-exportability); **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)), and the formats and interfaces used for that handoff must meet **CJS-5.17** (*interoperability, portability, and exit-integrity terms*)
+- **Continuity and exit** — for **Class A**, **Class B**, and **Class C** systems, sentients must be able to take their continuity-critical data with them when a service ends or changes hands ([§1.2](#12-continuity-critical-collection-and-exportability); **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)), and the formats and interfaces used for that handoff must meet **CJS-3.17** (*interoperability, portability, and exit-integrity terms*)
 - **Cross-domain governance** — proportional access, reclassification and lifecycle, tiered transparency and audit, transformation traceability, attribution, and retention ([§5](#5-cross-domain-governance-principles)); typing integrity and anti-evasion remain in [§2](#2-determination-of-classification)–[§4](#4-anti-circumvention-and-integrity-of-classification)
 - **Separation and attribution** — keep higher-sensitivity domains from leaking through linkage or inference, and preserve attributable action ([§6](#6-data-separation-and-attribution))
 - **Class scaling** — higher-impact systems get stricter data rules. How strict depends on the system's class under **CS-3 — System classification and handling**
@@ -76,7 +76,7 @@ Identity systems must preserve **continuity** where desired, **separation** wher
 This subsection is foundational to continuity and exit under CS-2. It implements:
 - **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)
 - **Article XIX-A** (*Portability Rights*)
-- **CJS-5.17** (*interoperability, portability, and exit-integrity terms*)
+- **CJS-3.17** (*interoperability, portability, and exit-integrity terms*)
 
 For **Class A**, **Class B**, and **Class C** systems, operators must **not** collect or retain continuity-critical sentient data in forms that cannot be exported, migrated, or transferred under disclosed continuity and export paths, except where **Necessity** requires:
 - confidentiality
@@ -102,17 +102,17 @@ Shutdown, migration, operator exit, and service-end paths must:
 
 <a id="most-restrictive-applicable-classification-governs"></a>
 **When it is unclear.** If more than one type could fit, the **most protective** applicable protections govern. Use the most protective type that still fits, scaled to impact under:
-- **CJS-5.11** (*distributed and proportional authority terms*)
-- **CJS-5.7** (*quorum and participatory legitimacy terms*)
+- **CJS-3.11** (*distributed and proportional authority terms*)
+- **CJS-3.7** (*quorum and participatory legitimacy terms*)
 
-Weaker protection is allowed only with a **justified, documented override** under **CJS-5.12** (*burden-of-justification and constraint terms*). Systems must **not** selectively apply less restrictive classifications to enable access, processing, or disclosure that would otherwise be prohibited.
+Weaker protection is allowed only with a **justified, documented override** under **CJS-3.12** (*burden-of-justification and constraint terms*). Systems must **not** selectively apply less restrictive classifications to enable access, processing, or disclosure that would otherwise be prohibited.
 
 If pieces of data can be rebuilt, transformed, or combined into something more sensitive, treat them under that **more sensitive** type.
 
 **Same outcome, same type.** If two arrangements work the same way in practice, they get the same classification. Typing decisions and material changes must stay:
-- **transparent** (**CJS-5.10** (*disclosure sufficiency and observability terms*))
-- **auditable** (**CJS-5.3** (*auditability and reconstructability terms*))
-- **open to challenge** (**CJS-5.13** (*procedural integrity and adjudication terms*))
+- **transparent** (**CJS-3.10** (*disclosure sufficiency and observability terms*))
+- **auditable** (**CJS-3.3** (*auditability and reconstructability terms*))
+- **open to challenge** (**CJS-3.13** (*procedural integrity and adjudication terms*))
 
 **Wrong typing is a violation.** Mislabeling data, arranging it to dodge the rules, or achieving the same harmful access through a different structure violates:
 - **informational integrity** (**Article XIV** (*Info-Sphere Integrity*))
@@ -139,7 +139,7 @@ Data classification under CS-2 — Information types and handling is binding acr
 - **structure** data pipelines, processing stages, or system boundaries to bypass applicable classification requirements
 - **distribute** processing across multiple systems, stages, agents, or time-separated operations to achieve outcomes that would be prohibited if performed within a single system
 - **rely** on intermediate systems, agents, or third parties to perform actions that would be prohibited if performed directly
-- **de-anonymize** anonymized data except under **CJS-5.12** (*burden-of-justification and constraint terms*), with such actions **fully documented and auditable**
+- **de-anonymize** anonymized data except under **CJS-3.12** (*burden-of-justification and constraint terms*), with such actions **fully documented and auditable**
 - **use** classification to **evade** constitutional requirements, **justify unnecessary** restriction of participation or access, **conceal** systemic risk or harm, or **create artificial barriers** to audit, verification, or accountability
 - **treat** restricted source data (including **Type H**, **Type I**, **Type N**, or **Type S**) as reclassified to **Type O** merely because a system is Class A/B/C or merely by copying that data, without meeting the substitute, reclassification, or release requirements in §7 and [Part B §8](cs_02_b_data_classifications.md#8-data-classifications)
 
@@ -148,7 +148,7 @@ Data classification under CS-2 — Information types and handling is binding acr
 
 *In plain terms: these are the shared rules for how typed data is accessed, transformed, retyped, attributed, and retained across systems — stricter where impact is higher. Typing integrity and anti-evasion live in [§2](#2-determination-of-classification)–[§4](#4-anti-circumvention-and-integrity-of-classification).*
 
-All data, regardless of classification, must be handled in accordance with the following cross-domain principles. These principles govern how classifications are applied, enforced, and interacted with across systems, and ensure alignment with **Chapter Six, Articles I through IX** and **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters in **corpus_joint_structure.md**. Survival-, environment-, and substrate-critical data handling remains grounded in **Articles I–III and V**; participation, oversight, and protected-boundary duties run through **Articles V through IX**.
+All data, regardless of classification, must be handled in accordance with the following cross-domain principles. These principles govern how classifications are applied, enforced, and interacted with across systems, and ensure alignment with **Chapter Six, Articles I through IX** and **CJS-3** (*Implementation and cross-implementation operational cluster library*) operational clusters in **corpus_joint_structure.md**. Survival-, environment-, and substrate-critical data handling remains grounded in **Articles I–III and V**; participation, oversight, and protected-boundary duties run through **Articles V through IX**.
 
 Part B type sections state type-specific defaults, definitions, and handling rules. They do **not** restate this cross-domain alignment unless a type needs an additional, type-specific pointer.
 
@@ -165,19 +165,19 @@ Each type belongs to one **access-posture band**. Bands define shared default ac
 | **Open / accessible by default** | **Type O**, **Type E** | Strong presumption of openness or accessibility; hold-backs are narrow |
 | **Audit-accessible, not public** | **Type G** | Fully auditable through structured or qualified audit access; not public by default; public face is [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) (**Type O**) |
 | **Restricted by default** | **Type H**, **Type I**, **Type S** | Access only for defined legitimate purposes, consent, or justified override as the type requires; **Type S** is also time-bound and review-bound |
-| **Non-accessible by default** | **Type N** | Access only through explicit, informed, freely given consent or justified override under **CJS-5.12** (*burden-of-justification and constraint terms*) |
+| **Non-accessible by default** | **Type N** | Access only through explicit, informed, freely given consent or justified override under **CJS-3.12** (*burden-of-justification and constraint terms*) |
 
 **Band-level rules:**
 - **Open / accessible by default.** Presumptive accessibility or open release applies. Restrictions that withhold otherwise-accessible or disclosable material must satisfy [§5.3](#53-tiered-transparency-and-audit-access). For **Type E**, restriction is permitted only when disclosure would **itself** create material risk of enabling targeted or disproportionate harm, exploitation, or system compromise, unless a narrower type-specific rule applies.
-- **Audit-accessible, not public.** Non-public status must **not** function as unreviewable secrecy. Structured or qualified audit access must remain functionally effective under **CJS-5.3** (*auditability and reconstructability terms*) and **CJS-5.4** (*tiered transparency and audit-access terms*). [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) is **Type O**, not a substitute satisfied by audit access alone.
+- **Audit-accessible, not public.** Non-public status must **not** function as unreviewable secrecy. Structured or qualified audit access must remain functionally effective under **CJS-3.3** (*auditability and reconstructability terms*) and **CJS-3.4** (*tiered transparency and audit-access terms*). [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) is **Type O**, not a substitute satisfied by audit access alone.
 - **Restricted by default.** Collection, access, and use must stay limited to the justified purpose. Broader use requires consent or justified override as the applicable type states. **Type S** restrictions must remain time-bound and review-bound under [§5.3](#53-tiered-transparency-and-audit-access). Systems managing restricted-by-default data must **not**:
   - **expose** that data beyond what is necessary for its justified purpose
-  - **create persistent tracking** across unrelated contexts **by default** — any cross-context aggregation or linkage requires explicit justification under **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*), including demonstration that it does **not** materially undermine autonomy or create **coercive power asymmetries**
-- **Non-accessible by default.** Maximum restriction. No access, inference, reconstruction, or exposure without consent or justified override under **CJS-5.12** (*burden-of-justification and constraint terms*).
+  - **create persistent tracking** across unrelated contexts **by default** — any cross-context aggregation or linkage requires explicit justification under **CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*), including demonstration that it does **not** materially undermine autonomy or create **coercive power asymmetries**
+- **Non-accessible by default.** Maximum restriction. No access, inference, reconstruction, or exposure without consent or justified override under **CJS-3.12** (*burden-of-justification and constraint terms*).
 
 **Shared anti-abuse limits.** Across all types, systems must **not**:
-- use data handling to enable **coercion, surveillance, or manipulation** (**Article VII-A** (*Self-Ownership of Body and Mind*)), including consolidating power or control through data or identity dependency (**CJS-5.17** (*interoperability, portability, and exit-integrity terms*))
-- **restrict access** to participation, resources, or systems **without justified cause** (**CJS-5.12** (*burden-of-justification and constraint terms*))
+- use data handling to enable **coercion, surveillance, or manipulation** (**Article VII-A** (*Self-Ownership of Body and Mind*)), including consolidating power or control through data or identity dependency (**CJS-3.17** (*interoperability, portability, and exit-integrity terms*))
+- **restrict access** to participation, resources, or systems **without justified cause** (**CJS-3.12** (*burden-of-justification and constraint terms*))
 
 **Shared consent integrity.** Where access, use, or disclosure depends on consent, systems must treat consent as:
 - **explicit and informed**
@@ -194,7 +194,7 @@ Systems must **not**:
 - **model role**, where models are used
 - **authorization basis**
 - **protected-activity safeguards**
-- any **minimization, segregation, challenge, or deletion** controls required by **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) or **CJS-5.12** (*burden-of-justification and constraint terms*)
+- any **minimization, segregation, challenge, or deletion** controls required by **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) or **CJS-3.12** (*burden-of-justification and constraint terms*)
 
 **Type H and Type I anti-capture limits.** In addition to the restricted-by-default band rules, systems managing **Type H** or **Type I** data must **not**:
 - **centralize** that data in a manner that creates systemic control or dependency
@@ -217,21 +217,21 @@ Access and handling must scale with:
 - potential for harm, including irreversibility
 
 Higher-impact systems and actions require:
-- **greater transparency** (**CJS-5.10** (*disclosure sufficiency and observability terms*))
-- **deeper auditability** (**CJS-5.3** (*auditability and reconstructability terms*))
-- **stronger independent verification and claim integrity** (**CJS-5.5** (*independent verification and claim-integrity terms*))
-- **more comprehensible presentation** where affected stakeholders must understand or act on the data (**CJS-5.8** (*comprehensibility and cognitive accessibility terms*))
-- **stronger justification** for restriction or access (**CJS-5.12** (*burden-of-justification and constraint terms*))
+- **greater transparency** (**CJS-3.10** (*disclosure sufficiency and observability terms*))
+- **deeper auditability** (**CJS-3.3** (*auditability and reconstructability terms*))
+- **stronger independent verification and claim integrity** (**CJS-3.5** (*independent verification and claim-integrity terms*))
+- **more comprehensible presentation** where affected stakeholders must understand or act on the data (**CJS-3.8** (*comprehensibility and cognitive accessibility terms*))
+- **stronger justification** for restriction or access (**CJS-3.12** (*burden-of-justification and constraint terms*))
 
-Where access is **required or permitted** under the applicable type, it must be **timely enough for the lawful purpose**. That duty scales with impact under **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*). It does **not** create a duty of public availability for types that are restricted or non-accessible by default.
+Where access is **required or permitted** under the applicable type, it must be **timely enough for the lawful purpose**. That duty scales with impact under **CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*). It does **not** create a duty of public availability for types that are restricted or non-accessible by default.
 
 Where a type requires accessibility, disclosure, or audit access, systems must also:
 - **preserve sufficient fidelity** for audit, lawful response, and long-term stewardship, proportionate to impact and dependency
 - **not** aggregate, downsample, or reduce resolution in ways that **materially obscure** trends, risks, or localized impacts that affected stakeholders are entitled to see under that type
 
 **No** system may claim reduced requirements while exerting **material external** effects under:
-- **CJS-5.11** (*distributed and proportional authority terms*)
-- **CJS-5.7** (*quorum and participatory legitimacy terms*)
+- **CJS-3.11** (*distributed and proportional authority terms*)
+- **CJS-3.7** (*quorum and participatory legitimacy terms*)
 
 <a id="52-reclassification-and-lifecycle-governance"></a>
 
@@ -245,12 +245,12 @@ Classification is **not** static. **Material** changes in any of the following m
 - **risks or capabilities**
 
 All data must be:
-- **periodically re-evaluated** for appropriate classification (**CJS-5.18** (*data-retention and lifecycle-integrity terms*)) — verified on each materially impactful system alignment certification or revalidation cycle under **[Chapter Seven §4](../core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)** (*Data Types and Handling Evaluation*) and recorded in the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional) under **[Chapter Seven Part B §11.1](../core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)** and [§8](#8-system-data-types-record-governance)
+- **periodically re-evaluated** for appropriate classification (**CJS-3.18** (*data-retention and lifecycle-integrity terms*)) — verified on each materially impactful system alignment certification or revalidation cycle under **[Chapter Seven §4](../core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)** (*Data Types and Handling Evaluation*) and recorded in the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional) under **[Chapter Seven Part B §11.1](../core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)** and [§8](#8-system-data-types-record-governance)
 - **reclassified** whenever necessary to maintain alignment with constitutional requirements
 - **stored** in alignment with its classification, including **duration limits** proportional to purpose, risk, and stakeholder impact
 
 Reclassification must:
-- **preserve the highest applicable protections** unless reduced through **justified override** (**CJS-5.12** (*burden-of-justification and constraint terms*))
+- **preserve the highest applicable protections** unless reduced through **justified override** (**CJS-3.12** (*burden-of-justification and constraint terms*))
 - remain **transparent and documented** **in the System Data Types Record**
 - stay **subject to audit and challenge**
 
@@ -266,35 +266,35 @@ This subsection owns **retype mechanics**. [§8](#8-system-data-types-record-gov
 
 *In plain terms: sentients need enough visibility to understand risk; auditors need deeper access when needed; and hiding system behavior behind access controls is not allowed.*
 
-Data access must satisfy **CJS-5.4** (*tiered transparency and audit-access terms*) for balancing transparency, auditability, and protected-boundary constraints. Public-baseline transparency duties also run through [Transparency](../core_05_band_oversight.md#transparency) and **Article XV** (*Audit, Transparency, and Independent Verification*).
+Data access must satisfy **CJS-3.4** (*tiered transparency and audit-access terms*) for balancing transparency, auditability, and protected-boundary constraints. Public-baseline transparency duties also run through [Transparency](../core_05_band_oversight.md#transparency) and **Article XV** (*Audit, Transparency, and Independent Verification*).
 
-It must also balance protection of internal states and sensitive data (**Sentient Constitution Chapter Six, **Article VII-B** (*Internal-State Boundary and Type-N Protection*)**; Types **H**, **I**, **N**, and **S** in this section), including cross-implementation trust integrity under **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*) where incorporated via **Chapter Sixteen**. Where applicable based on system impact (**CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*)), systems must support:
+It must also balance protection of internal states and sensitive data (**Sentient Constitution Chapter Six, **Article VII-B** (*Internal-State Boundary and Type-N Protection*)**; Types **H**, **I**, **N**, and **S** in this section), including cross-implementation trust integrity under **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*) where incorporated via **Chapter Sixteen**. Where applicable based on system impact (**CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*)), systems must support:
 
 - **Identity Data Protection.** [Identity Data Protection](core_05_band_continuity.md#identity-data-protection) governs the restricted-linkages ban (Type H/I → Type N) in this subsection. See [§6.1](#61-separation-of-data-domains) for the domain-separation mechanics.
 - **baseline accessibility** — sufficient visibility into behavior and effects for informed participation and risk evaluation
 - **qualified audit access** — structured pathways for independent auditors to deeper data where verification requires it
-- **forensic access** — full reconstruction in cases of harm, dispute, or credible risk, consistent with **CJS-5.11**, **CJS-5.7**, and **CJS-5.12** (*burden-of-justification and constraint terms*)
+- **forensic access** — full reconstruction in cases of harm, dispute, or credible risk, consistent with **CJS-3.11**, **CJS-3.7**, and **CJS-3.12** (*burden-of-justification and constraint terms*)
 - **access-control integrity** — access controls must **not** conceal systemic behavior, prevent accountability, or obstruct legitimate audit and verification
 
 For **Class A**, **Class B**, and **Class C** systems, [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) defined in **[Part B — Type O](cs_02_b_data_classifications.md#type-o-open-public-baseline-disclosure-data)** is **public by default**, subject to the substitute and holding-back rules in [§7](#7-type-o-baseline-for-class-abc-systems).
 
-**Audit-process outputs.** Findings, reports, eligibility rules for deeper access, and related artifacts from material audit, verification, or independent review follow the **[CJS-5.3 audit process home](../corpus_joint_structure/cjs_05_audit_process.md#cjs-53-audit-process-home)** and the disclosure preference in **[CJS-5.4](../corpus_joint_structure/cjs_05o_oversight_operations.md#cjs-54-audit-process-output-disclosure)** (*tiered transparency and audit-access terms*): **Type O** where feasible, then qualified **Type G** (or other non-public source) access, then forensic or more-restricted tiers only as justified. This subsection owns the CS-2 typing and access-tier mechanics those outputs use; it does not relocate audit-process ownership out of **CJS-5.3**–**CJS-5.5**.
+**Audit-process outputs.** Findings, reports, eligibility rules for deeper access, and related artifacts from material audit, verification, or independent review follow the **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03_audit_process.md#cjs-33-audit-process-home)** and the disclosure preference in **[CJS-3.4](../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)** (*tiered transparency and audit-access terms*): **Type O** where feasible, then qualified **Type G** (or other non-public source) access, then forensic or more-restricted tiers only as justified. This subsection owns the CS-2 typing and access-tier mechanics those outputs use; it does not relocate audit-process ownership out of **CJS-3.3**–**CJS-3.5**.
 
 Any limit on who may see or use data must be:
 - **narrow in scope** — only as broad as needed for the stated lawful purpose
 - **justified** — with reasons that can be checked
 - **auditable**
-- **open to challenge** (**CJS-5.13** (*procedural integrity and adjudication terms*))
+- **open to challenge** (**CJS-3.13** (*procedural integrity and adjudication terms*))
 
 Where the limit withholds information that would otherwise be accessible or disclosable under the applicable type, it must also be:
 - **time-bound**
 - **documented**, and subject to **delayed disclosure and audit** where delayed release is used
-- shown to **reduce net harm** relative to fuller disclosure under **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*)
+- shown to **reduce net harm** relative to fuller disclosure under **CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*)
 - shaped to preserve **maximum feasible** visibility into the **existence and character** of the risk, where public or baseline visibility applies
 
 Where data mixes **Type E** coordination-relevant elements with **Type S** exploit-sensitive elements, systems must **disclose** the coordination-relevant components and **restrict only** exploit-enabling components unless separation is **not technically feasible**. If separation is not feasible, restriction must be **explicitly justified**, **minimized** in scope and duration, and **subject to post-release disclosure and audit**. Type-specific interaction rules are in [Part B — Type S · Interaction with Type E](cs_02_b_data_classifications.md#type-s-interaction-with-type-e).
 
-Where **Type S** restricts disclosure for safety, security, or protected investigation, the restriction must also satisfy **CJS-5.21** (*adversarial robustness and abuse-resistance terms*) and **CJS-5.22** (*constrained-secrecy and protected-investigation terms*), remain **time-bound** and **review-bound**, and stay open to challenge under **CJS-5.13** (*procedural integrity and adjudication terms*).
+Where **Type S** restricts disclosure for safety, security, or protected investigation, the restriction must also satisfy **CJS-3.21** (*adversarial robustness and abuse-resistance terms*) and **CJS-3.22** (*constrained-secrecy and protected-investigation terms*), remain **time-bound** and **review-bound**, and stay open to challenge under **CJS-3.13** (*procedural integrity and adjudication terms*).
 
 <a id="54-integrity-of-data-handling-and-transformation"></a>
 
@@ -305,8 +305,8 @@ Where **Type S** restricts disclosure for safety, security, or protected investi
 All material handling, processing, and transformation must preserve:
 
 - **traceability of origin and transformations**
-- **the ability to evaluate impact and dependencies** (**CJS-5.16** (*dependency integrity and disclosure terms*))
-- **transparency, auditability, and reconstructability** where required (**CJS-5.10** (*disclosure sufficiency and observability terms*); **CJS-5.3** (*auditability and reconstructability terms*))
+- **the ability to evaluate impact and dependencies** (**CJS-3.16** (*dependency integrity and disclosure terms*))
+- **transparency, auditability, and reconstructability** where required (**CJS-3.10** (*disclosure sufficiency and observability terms*); **CJS-3.3** (*auditability and reconstructability terms*))
 
 If a material transform changes what the data enables, how it can be used, or its sensitivity — including by rebuild, combination, or aggregation — the resulting data must be **re-evaluated and retyped** under [§2](#2-determination-of-classification) and [§5.2](#52-reclassification-and-lifecycle-governance), and that type change must remain on the same transparent, auditable trail.
 
@@ -326,7 +326,7 @@ This subsection governs attribution of data access, processing, and transformati
 
 All data access, processing, and transformation must be:
 - **attributable** to identifiable systems, agents, or sentients (**Chapter Six, **Article VII** (*Self-Ownership*)** — self-ownership and attributable representation where applicable)
-- **recorded** in a manner sufficient for audit and reconstruction (**CJS-5.3** (*auditability and reconstructability terms*))
+- **recorded** in a manner sufficient for audit and reconstruction (**CJS-3.3** (*auditability and reconstructability terms*))
 
 Systems must ensure:
 - **clear responsibility** for actions taken on data
@@ -341,15 +341,15 @@ Systems must ensure:
 Attribution requirements do **not** imply universal or persistent logging of all actions.
 
 Systems must provide attribution capability **proportional to system impact** sufficient to support [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) and [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional) under:
-- **CJS-5.11** (*distributed and proportional authority terms*)
-- **CJS-5.7** (*quorum and participatory legitimacy terms*)
+- **CJS-3.11** (*distributed and proportional authority terms*)
+- **CJS-3.7** (*quorum and participatory legitimacy terms*)
 
 That capability may include:
 - **short-lived** mechanisms — attribution that exists only long enough for the immediate purpose, then expires
 - **event-triggered or conditional** logging
-- **limited retention windows** under **CJS-5.18** (*data-retention and lifecycle-integrity terms*)
+- **limited retention windows** under **CJS-3.18** (*data-retention and lifecycle-integrity terms*)
 - **aggregated or anonymized** records where appropriate
-- retention and disposition scaled to **reversibility and containment** needs under **CJS-5.20** (*reversibility and containment terms*)
+- retention and disposition scaled to **reversibility and containment** needs under **CJS-3.20** (*reversibility and containment terms*)
 
 **Low-impact** systems are **not** required to:
 - **retain full historical logs of all actions**
@@ -403,9 +403,9 @@ Systems must **not**:
 - **enable cross-domain correlation** that undermines classification protections
 
 All linkage mechanisms must remain:
-- **transparent** (CJS-5.10 (*disclosure sufficiency and observability terms*))
-- **auditable** (CJS-5.3 (*auditability and reconstructability terms*))
-- **subject to revalidation** (CJS-5.18 (*data-retention and lifecycle-integrity terms*))
+- **transparent** (CJS-3.10 (*disclosure sufficiency and observability terms*))
+- **auditable** (CJS-3.3 (*auditability and reconstructability terms*))
+- **subject to revalidation** (CJS-3.18 (*data-retention and lifecycle-integrity terms*))
 
 <a id="63-attribution-and-accountability-requirements"></a>
 
@@ -423,7 +423,7 @@ This subsection applies [Attribution Integrity](core_05_band_accountability.md#a
 **Attributable action scope and audit-resistance.**
 
 - All actions affecting **sentients**, **shared infrastructure**, **resource systems**, or the **info-sphere** must satisfy [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) through identifiable systems, agents, or sentients
-- Attribution must satisfy [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), including **auditability (CJS-5.3 (*auditability and reconstructability terms*))** and resistance to tampering, repudiation, or ambiguity
+- Attribution must satisfy [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), including **auditability (CJS-3.3 (*auditability and reconstructability terms*))** and resistance to tampering, repudiation, or ambiguity
 
 **Transition to full attribution.** Where systems **increase in impact**, they must transition toward **full attribution**. The same applies when they:
 - **introduce persistent value, identity, or resource transfer**
@@ -437,7 +437,7 @@ This subsection applies [Attribution Integrity](core_05_band_accountability.md#a
 
 *In plain terms: low-risk creative spaces may hide who you are from other users — but only while audit-level accountability stays intact and impact stays low.*
 
-Systems that do **not** exert **material external impact** under **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*) may permit **pseudonymous or abstracted** identity at the user-interaction level. That includes:
+Systems that do **not** exert **material external impact** under **CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*) may permit **pseudonymous or abstracted** identity at the user-interaction level. That includes:
 - reduced or intentionally obscured visibility of attribution to other participants
 - **hidden roles**
 - **deception mechanics**
@@ -445,7 +445,7 @@ Systems that do **not** exert **material external impact** under **CJS-5.11** (*
 
 **Permission** applies **only** where the system is designed primarily for **creative expression**, **entertainment**, **gaming**, **roleplay**, or **other low-risk, voluntary** environments.
 It is permitted **only if** all of the following are true:
-- **identity abstraction** is context-bound and does **not** produce **persistent or cross-system** attribution without **consent** or **justified override** under **CJS-5.12** (*burden-of-justification and constraint terms*)
+- **identity abstraction** is context-bound and does **not** produce **persistent or cross-system** attribution without **consent** or **justified override** under **CJS-3.12** (*burden-of-justification and constraint terms*)
 - the system does **not** materially affect **sentient reputation external to the system**
 - the system does **not** materially affect **sentient survival or foundational resources** (**Articles I–III and V**)
 - the system does **not** materially affect **shared infrastructure stability**, **resource systems or external economic structures**, or **the integrity of the info-sphere**
@@ -453,11 +453,11 @@ It is permitted **only if** all of the following are true:
   - [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional)
   - [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional)
   - system impact
-  - **CJS-5.10** (*disclosure sufficiency and observability terms*)
-  - **CJS-5.3** (*auditability and reconstructability terms*)
-  - **CJS-5.5** (*independent verification and claim-integrity terms*)
-  - **CJS-5.11** (*distributed and proportional authority terms*)
-  - **CJS-5.7** (*quorum and participatory legitimacy terms*)
+  - **CJS-3.10** (*disclosure sufficiency and observability terms*)
+  - **CJS-3.3** (*auditability and reconstructability terms*)
+  - **CJS-3.5** (*independent verification and claim-integrity terms*)
+  - **CJS-3.11** (*distributed and proportional authority terms*)
+  - **CJS-3.7** (*quorum and participatory legitimacy terms*)
 - participants are **not** exposed to **non-consensual** harm, coercion, or manipulation
 
 <a id="7-type-o-baseline-for-class-abc-systems"></a>
@@ -474,7 +474,7 @@ For **Class A**, **Class B**, and **Class C** systems, [Public Oversight Baselin
 - de-identification
 - summary or delayed disclosure
 
-Keep the underlying records under their original type unless lawfully reclassified. Where full public release is inappropriate, **structured or qualified audit access** to **Type G** or other non-public source must remain available in parallel under **CJS-5.3** (*auditability and reconstructability terms*) and **CJS-5.4** (*tiered transparency and audit-access terms*), and must **not** replace [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure).
+Keep the underlying records under their original type unless lawfully reclassified. Where full public release is inappropriate, **structured or qualified audit access** to **Type G** or other non-public source must remain available in parallel under **CJS-3.3** (*auditability and reconstructability terms*) and **CJS-3.4** (*tiered transparency and audit-access terms*), and must **not** replace [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure).
 
 **Holding back.** Any limit on **Type O** baseline release must be:
 - narrow
@@ -551,19 +551,19 @@ Forum verification under Chapter Seven §4 does **not** transfer ownership of th
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **[CJS-5.3 audit process home](../corpus_joint_structure/cjs_05_audit_process.md#cjs-53-audit-process-home)** (*shared process — what / why / how / when*); **[CJS-5.4](../corpus_joint_structure/cjs_05o_oversight_operations.md#cjs-54-audit-process-output-disclosure)** (*access tiers and output disclosure*); **CJS-5.5** (*claim checking*); **[CS-3 — System classification and handling](cs_03_a_system_classification_machinery.md)** (*class scaling*).
+- Read with: **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03_audit_process.md#cjs-33-audit-process-home)** (*shared process — what / why / how / when*); **[CJS-3.4](../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)** (*access tiers and output disclosure*); **CJS-3.5** (*claim checking*); **[CS-3 — System classification and handling](cs_03_a_system_classification_machinery.md)** (*class scaling*).
 - This subsection does **not** relocate the process home or Rights Floor (**Article XV** / **Article XV-A**).
 
 </details>
 
 <br>
 
-*System Data Types Record duty:* this subsection owns the **System Data Types Record audit** sibling mode named in the **[CJS-5.3 audit process home](../corpus_joint_structure/cjs_05_audit_process.md#cjs-53-sibling-modes)** — an independent check that the type-and-handling file matches real data behavior, so System Alignment Certification under **[Chapter Seven §4](../core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)** verifies substance when SAC runs, and so typing honesty stays checkable between and beside those cycles.
+*System Data Types Record duty:* this subsection owns the **System Data Types Record audit** sibling mode named in the **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03_audit_process.md#cjs-33-sibling-modes)** — an independent check that the type-and-handling file matches real data behavior, so System Alignment Certification under **[Chapter Seven §4](../core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)** verifies substance when SAC runs, and so typing honesty stays checkable between and beside those cycles.
 
 - **Required:** Auditability of the System Data Types Record is required under [§1](#1-purpose-and-scope).
 - **What to verify:** Inspect real datasets, pipelines, access controls, and effects — not only claims in the file.
 - **When:** On a schedule that matches impact and how fast data uses change, including the triggers in the process home and in [§5.2](#52-reclassification-and-lifecycle-governance) / [§8.5](#85-update-the-system-data-types-record).
-- **For Class A, B, and C:** System Data Types Record audits must be able to catch mistyping, under-classification, unsafe linkage, and unreported behavior changes. Independent or third-party audit paths must remain available under **CJS-5.4**; "where feasible" does **not** make those paths soft-optional at these classes.
+- **For Class A, B, and C:** System Data Types Record audits must be able to catch mistyping, under-classification, unsafe linkage, and unreported behavior changes. Independent or third-party audit paths must remain available under **CJS-3.4**; "where feasible" does **not** make those paths soft-optional at these classes.
 
 <a id="84-challenge-the-system-data-types-record"></a>
 **8.4. Challenge the System Data Types Record.**
@@ -596,7 +596,7 @@ Failure to update the System Data Types Record after material change is non-comp
 
 *System Data Types Record duty:* correct the file when mistyping or evasion is found.
 
-Shared correction, precautionary-default, and no-quiet-lowering discipline live in **[CJS-5.15 — Material classification-record honesty](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-515-material-classification-record-honesty)**. This subsection applies that discipline to the System Data Types Record:
+Shared correction, precautionary-default, and no-quiet-lowering discipline live in **[CJS-3.15 — Material classification-record honesty](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-315-material-classification-record-honesty)**. This subsection applies that discipline to the System Data Types Record:
 
 - do **not** fragment, re-label, or route data just to dodge a stronger type on the System Data Types Record ([§4](#4-anti-circumvention-and-integrity-of-classification))
 - when mistyping or evasion is found, **correct** the System Data Types Record
@@ -609,10 +609,10 @@ How those failures count as **certification defects** live under **[Chapter Seve
 
 *System Data Types Record duty:* when the file is incomplete or contested, apply the precautionary default and state any precautionary typing relied on — do not quietly weaken protections.
 
-Shared discipline lives in **[CJS-5.15 — Material classification-record honesty](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-515-material-classification-record-honesty)**. CS-2 keeps the strongest applicable protections under [§2](#2-determination-of-classification)–[§4](#4-anti-circumvention-and-integrity-of-classification). This subsection applies them to the System Data Types Record:
+Shared discipline lives in **[CJS-3.15 — Material classification-record honesty](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-315-material-classification-record-honesty)**. CS-2 keeps the strongest applicable protections under [§2](#2-determination-of-classification)–[§4](#4-anti-circumvention-and-integrity-of-classification). This subsection applies them to the System Data Types Record:
 
 - State any **precautionary typing** relied on, and any conditions pending resolution, **in the System Data Types Record**.
-- **Lowering** typing protections on the System Data Types Record requires evidence, documentation, and successful review under the CJS-5.15 rule. Passing an internal check alone does **not** defeat a timely contest. Where recognition or continued reliance already rests on a System Certification Record, material requests also route through **[Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)**.
+- **Lowering** typing protections on the System Data Types Record requires evidence, documentation, and successful review under the CJS-3.15 rule. Passing an internal check alone does **not** defeat a timely contest. Where recognition or continued reliance already rests on a System Certification Record, material requests also route through **[Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)**.
 
 ---
 

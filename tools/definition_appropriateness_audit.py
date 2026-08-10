@@ -2,7 +2,7 @@
 """Unified definition appropriateness audit for the Sentient Constitution corpus.
 
 Verifies constitutional definitions live in core Chapter Five files and
-cross-implementation operational definitions live in CJS-5, with implementation
+cross-implementation operational definitions live in CJS-3, with implementation
 layers applying rather than redefining canonical terms.
 
 Produces:
@@ -36,15 +36,15 @@ if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
 from ch1_ch5_alignment_audit import AlignmentAuditor  # noqa: E402
-from ch1_cjs5_alignment_audit import Ch1Cjs5AlignmentAuditor  # noqa: E402
+from ch1_cjs3_alignment_audit import Ch1Cjs3AlignmentAuditor  # noqa: E402
 from ch5_definitions_gravity_audit import audit_blocks, virtual_chapter_five_text  # noqa: E402
 from ch5_paths import CH5_ALL, CH5_INDEX  # noqa: E402
 from corpus_paths import binding_corpus_scope  # noqa: E402
 from definition_index import (  # noqa: E402
-    Cjs5Cluster,
+    Cjs3Cluster,
     Ch5Entry,
     collect_ch5_entries,
-    collect_cjs5_clusters,
+    collect_cjs3_clusters,
     ch5_term_lookup,
     normalize_term_label,
 )
@@ -144,7 +144,7 @@ class Finding:
 class AuditRun:
     timestamp: str
     ch5_entries: list[Ch5Entry] = field(default_factory=list)
-    cjs5_clusters: list[Cjs5Cluster] = field(default_factory=list)
+    cjs3_clusters: list[Cjs3Cluster] = field(default_factory=list)
     findings: list[Finding] = field(default_factory=list)
     metrics: dict[str, Any] = field(default_factory=dict)
     regressions: list[str] = field(default_factory=list)
@@ -283,8 +283,8 @@ def run_core_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
 def run_cjs_placement(root: Path, findings: list[Finding]) -> int:
     hits: list[str] = []
     hits.extend(cjs_placement.audit_cjs3_op_clusters(root))
-    hits.extend(cjs_placement.audit_cjs5_letter_headings(root))
-    hits.extend(cjs_placement.audit_cjs5_compass_and_frames(root))
+    hits.extend(cjs_placement.audit_cjs3_letter_headings(root))
+    hits.extend(cjs_placement.audit_cjs3_compass_and_frames(root))
     hits.extend(cjs_placement.audit_letter_cluster_citations(root))
     for hit in hits:
         file_part, line, message = _split_audit_hit(hit)
@@ -296,14 +296,14 @@ def run_cjs_placement(root: Path, findings: list[Finding]) -> int:
             line=line,
             message=message,
             severity="error",
-            expected_layer="corpus_joint_structure/cjs_05*.md",
-            action="relocate to CJS-5",
+            expected_layer="corpus_joint_structure/cjs_03*.md",
+            action="relocate to CJS-3",
         )
     return len(hits)
 
 
 def run_cjs_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
-    auditor = Ch1Cjs5AlignmentAuditor(root)
+    auditor = Ch1Cjs3AlignmentAuditor(root)
     auditor.run()
     counts = {key: len(items) for key, items in auditor.gaps.items()}
     for gap in auditor.gaps.get("weak_trace", []):
@@ -351,7 +351,7 @@ def run_cjs_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
             line=int(gap.get("line", 0)),
             message=gap.get("issue", "Cluster inventory mismatch"),
             severity="error",
-            expected_layer="CJS-5.2–CJS-5.23 inventory",
+            expected_layer="CJS-3.2–CJS-3.23 inventory",
             action="fix cluster heading inventory",
         )
     return counts
@@ -359,12 +359,12 @@ def run_cjs_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
 
 def run_cjs_constitutional_creep(
     ch5_lookup: dict[str, Ch5Entry],
-    clusters: list[Cjs5Cluster],
+    clusters: list[Cjs3Cluster],
     findings: list[Finding],
 ) -> int:
     count = 0
     for cluster in clusters:
-        if cluster.cluster_id in {"CJS-5.0", "CJS-5.1"}:
+        if cluster.cluster_id in {"CJS-3.0", "CJS-3.1"}:
             continue
         for rule in cluster.rules:
             key = normalize_term_label(rule.label)
@@ -382,7 +382,7 @@ def run_cjs_constitutional_creep(
                     current_layer=cluster.file,
                     line=rule.line,
                     message=(
-                        f"CJS-5 rule label matches Chapter Five term {ch5.term!r} "
+                        f"CJS-3 rule label matches Chapter Five term {ch5.term!r} "
                         f"but lacks explicit Chapter Five pointer; risk of competing constitutional gloss."
                     ),
                     severity="review",
@@ -514,7 +514,7 @@ def run_impl_relocation(root: Path, findings: list[Finding]) -> int:
         if score < RELOCATION_MIN_SCORE:
             continue
         escalate = _escalate_to_ch5(operative_body)
-        expected = "core_05 band file" if escalate else "corpus_joint_structure/cjs_05*.md"
+        expected = "core_05 band file" if escalate else "corpus_joint_structure/cjs_03*.md"
         action = "escalate-to-Ch5" if escalate else "split-or-pointer-to-CJS"
         count += 1
         _add_finding(
@@ -691,7 +691,7 @@ def merge_ledger(root: Path, run: AuditRun) -> dict[str, Any]:
 
 def build_matrix_rows(
     ch5_entries: list[Ch5Entry],
-    cjs5_clusters: list[Cjs5Cluster],
+    cjs3_clusters: list[Cjs3Cluster],
     findings: list[Finding],
 ) -> list[dict[str, str]]:
     finding_by_term: dict[str, list[str]] = {}
@@ -703,7 +703,7 @@ def build_matrix_rows(
     for entry in ch5_entries:
         related_clusters = [
             c.cluster_id
-            for c in cjs5_clusters
+            for c in cjs3_clusters
             if any(normalize_term_label(r.label) == entry.term.casefold() for r in c.rules)
         ]
         ids = finding_by_term.get(entry.term.casefold(), [])
@@ -720,8 +720,8 @@ def build_matrix_rows(
             }
         )
 
-    for cluster in cjs5_clusters:
-        if cluster.cluster_id in {"CJS-5.0", "CJS-5.1"}:
+    for cluster in cjs3_clusters:
+        if cluster.cluster_id in {"CJS-3.0", "CJS-3.1"}:
             continue
         ids = [
             f.finding_id
@@ -764,7 +764,7 @@ def write_report(output_dir: Path, run: AuditRun, ledger: dict[str, Any]) -> Pat
         "| Metric | Result |",
         "|---|---:|",
         f"| Chapter Five terms indexed | {len(run.ch5_entries)} |",
-        f"| CJS-5 clusters indexed | {len(run.cjs5_clusters)} |",
+        f"| CJS-3 clusters indexed | {len(run.cjs3_clusters)} |",
         f"| Findings this run | {len(run.findings)} |",
         f"| Ledger open findings | {open_count} |",
         f"| Ledger stale findings | {stale_count} |",
@@ -790,7 +790,7 @@ def write_report(output_dir: Path, run: AuditRun, ledger: dict[str, Any]) -> Pat
             "",
             "## Manual Review Notes",
             "",
-            "Review CJS-5.7–5.10, 5.11–5.13, 5.16–5.18, and 5.19–5.21 cluster families for semantic adequacy.",
+            "Review CJS-3.7–5.10, 5.11–5.13, 5.16–5.18, and 5.19–5.21 cluster families for semantic adequacy.",
             "Treat `weak_trace` and `IMPL-RELOCATION` hits as advisory unless escalation to Chapter Five is indicated.",
             "`IMPL-RELOCATION` scopes to **CI** sections with relocation score >= 16 on operative body text (CS/CF owner layers excluded; see `ci-cjs-relocation-audit`).",
             "Update `evidence/definition_audit/ledger.json` statuses (`accepted`, `deferred`, `resolved`) after triage.",
@@ -826,7 +826,7 @@ def write_log(output_dir: Path, run: AuditRun, ledger: dict[str, Any]) -> Path:
         "workflow": WORKFLOW,
         "metrics": run.metrics,
         "ch5_definition_count": len(run.ch5_entries),
-        "cjs5_cluster_count": len(run.cjs5_clusters),
+        "cjs3_cluster_count": len(run.cjs3_clusters),
         "findings": [asdict(f) for f in run.findings],
         "regressions": run.regressions,
         "ledger_summary": {
@@ -850,7 +850,7 @@ def main() -> int:
 
     run = AuditRun(timestamp=timestamp)
     run.ch5_entries = collect_ch5_entries(root)
-    run.cjs5_clusters = collect_cjs5_clusters(root)
+    run.cjs3_clusters = collect_cjs3_clusters(root)
     ch5_lookup = ch5_term_lookup(run.ch5_entries)
 
     if not args.skip_subprocess_audits:
@@ -861,14 +861,14 @@ def main() -> int:
     run.metrics["cjs_placement"] = run_cjs_placement(root, run.findings)
     run.metrics["cjs_trace"] = run_cjs_trace(root, run.findings)
     run.metrics["cjs_constitutional_creep"] = run_cjs_constitutional_creep(
-        ch5_lookup, run.cjs5_clusters, run.findings
+        ch5_lookup, run.cjs3_clusters, run.findings
     )
     run.metrics["impl_competing_gloss"] = run_impl_competing_gloss(root, run.findings)
     run.metrics["impl_relocation"] = run_impl_relocation(root, run.findings)
     run.metrics["impl_non_redefinition"] = run_impl_non_redefinition(root, ch5_lookup, run.findings)
 
     ledger = merge_ledger(root, run)
-    matrix_rows = build_matrix_rows(run.ch5_entries, run.cjs5_clusters, run.findings)
+    matrix_rows = build_matrix_rows(run.ch5_entries, run.cjs3_clusters, run.findings)
 
     report_path = write_report(output_dir, run, ledger)
     matrix_path = write_matrix(output_dir, run, matrix_rows)

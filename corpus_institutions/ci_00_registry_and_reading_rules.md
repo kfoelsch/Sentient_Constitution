@@ -35,9 +35,9 @@
 >
 > **Principle-layer routing:** Read with [Chapter One](../core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) — [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), and [material stake](../core_00_preamble.md#material-stake). **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-7** (*Oversight, assurance, controls, and evidence*), and **CI-8** (*Transparency, participation, and accessible pathways*) implement tetrad legs at institutional layer. **CI** institutional rules scale burden and constraint under material stake where materially relevant.
 >
-> **Implementation cross-reference index (routing only):** Read with Chapter Five constitutional definitions and **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index does not redefine owner-layer meaning.
+> **Implementation cross-reference index (routing only):** Read with Chapter Five constitutional definitions and **CJS-3** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index does not redefine owner-layer meaning.
 >
-> **Stable registry:** compliance cross-reference tables and section-family routing live in **CI-26** (*Compliance mapping and stable registry*). Institutions-only overlap and read-with pointers live in this file under [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex). Cross-layer mandatory read-with stays in **CJS-2.1**.
+> **Stable registry:** compliance cross-reference tables and section-family routing live in **CI-26** (*Compliance mapping and stable registry*). Institutions-only overlap and read-with pointers live in this file under [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex). Cross-layer mandatory read-with stays in **CJS-0.1**.
 
 </details>
 
@@ -49,9 +49,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-section-identifiers-and-article-references) section identifiers; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-1.11](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-111-section-identifiers-and-article-references) section identifiers; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [Institutions registry (stable section families)](#institutions-registry-stable-section-families); [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex).
-- Read with: **CI-1**; **CJS-1.3**.
+- Read with: **CI-1**; **CJS-1.11**.
 
 </details>
 
@@ -59,7 +59,7 @@
 
 *In plain terms: labels like **CI-7.2** are institutional-implementation section numbers — not Sentient Constitution article numbers.*
 
-Apply **CJS-1.3** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this folder specifically, headings use **CI-1** (*Scope, purpose, and legitimacy interface*) and **CI-3** (*Institutional design, separation of powers, and authority custody*) through **CI-27** (*Remedy systems and institutional redress capacity*). Subsections use **CI-*n*.*m*** (for example **CI-7.2** (*External assurance triggers*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CI** means the *corpus institutions* implementation layer ([corpus_institutions.md](../corpus_institutions.md)). Domain routing formerly labeled **CI-2** now lives in this registry annex.
+Apply **CJS-1.11** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this folder specifically, headings use **CI-1** (*Scope, purpose, and legitimacy interface*) and **CI-3** (*Institutional design, separation of powers, and authority custody*) through **CI-27** (*Remedy systems and institutional redress capacity*). Subsections use **CI-*n*.*m*** (for example **CI-7.2** (*External assurance triggers*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CI** means the *corpus institutions* implementation layer ([corpus_institutions.md](../corpus_institutions.md)). Domain routing formerly labeled **CI-2** now lives in this registry annex.
 
 Unless another reference pattern is stated, **Article** labels with Roman numerals in this folder point to Sentient Constitution Chapter Six in the `core_06-06_rights_part_*.md` files.
 
@@ -67,7 +67,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex).
 - Read with: **CI-1**; **CI-3**; **CI-4**; **CI-26**.
 
@@ -113,30 +113,30 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [Institutions overlap discipline](#institutions-overlap-discipline); [Institutions read-with pointers](#institutions-read-with-pointers).
-- Read with: [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids); **CJS-2.2**; **CJS-2.3**; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); **CI-1**.
-- Integrator index (non-operative): institutional primary owners for cross-layer topics live in [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) (*Topic router*).
+- Read with: [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-1.6**; **CJS-1.7**; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); **CI-1**.
+- Integrator index (non-operative): institutional primary owners for cross-layer topics live in [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Topic router*).
 
 </details>
 
 <br>
 
-*In plain terms: this annex explains how to read institutions together with **CJS**, **CS**, and **CF** — default reading order and how split institutional topics avoid duplication. Cross-layer ownership stays in **CJS-2.1** — this file does not maintain a competing router table.*
+*In plain terms: this annex explains how to read institutions together with **CJS**, **CS**, and **CF** — default reading order and how split institutional topics avoid duplication. Cross-layer ownership stays in **CJS-0.1** — this file does not maintain a competing router table.*
 
 ### Institutions overlap discipline
 <a id="institutions-overlap-discipline"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex); [CJS-2.2](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-22-intentional-overlap-non-duplication-discipline) intentional overlap.
-- Read with: [CJS-2.2](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-22-intentional-overlap-non-duplication-discipline); **CI-3**; **CI-6**; **CI-7**; **CI-9.3**.
+- Upstream: [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex); [CJS-1.6](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-16-intentional-overlap-non-duplication-discipline) intentional overlap.
+- Read with: [CJS-1.6](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-16-intentional-overlap-non-duplication-discipline); **CI-3**; **CI-6**; **CI-7**; **CI-9.3**.
 
 </details>
 
 <br>
 
-Apply **CJS-2.2** (*Intentional overlap (non-duplication discipline)*) for the shared non-duplication floor.
+Apply **CJS-1.6** (*Intentional overlap (non-duplication discipline)*) for the shared non-duplication floor.
 
 This subsection states only **institutional-local** split discipline. Some institutional topics are **deliberately** split across **CI** sections — for example functional lanes (**CI-3**), appointment and removal (**CI-4**), procedure integrity (**CI-6**), and delegated subunits (**CI-9.3**).
 
@@ -144,8 +144,8 @@ For those splits:
 
 - the designated **primary owner** states the **full operative** rules for its assigned scope;
 - companion **CI** sections add only the interface text their scope requires;
-- for cross-layer topics, name the primary owner from the applicable row in [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) (*Cross-implementation read-with contract*);
-- do **not** restate **CJS-5** operational clusters, **CS** classification tables, or **CF** checklists except in brief pointer form when needed for coherence.
+- for cross-layer topics, name the primary owner from the applicable row in [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-implementation read-with contract*);
+- do **not** restate **CJS-3** operational clusters, **CS** classification tables, or **CF** checklists except in brief pointer form when needed for coherence.
 
 For within-folder navigation by topic family, use [Institutions registry (stable section families)](#institutions-registry-stable-section-families) above.
 
@@ -155,15 +155,15 @@ For within-folder navigation by topic family, use [Institutions registry (stable
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary.
-- Read with: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-2.3](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-23-two-tier-definition-contract-binding-abstraction--owner-detail); **CI-1**.
+- Read with: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-1.7](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-17-two-tier-definition-contract-binding-abstraction--owner-detail); **CI-1**.
 
 </details>
 
 <br>
 
-When institutional implementation text intersects other implementation layers, apply the default reading stack in [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) (*Joint structural boundary and owner discipline*). Within that stack, read only what [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) routes for the topic.
+When institutional implementation text intersects other implementation layers, apply the default reading stack in [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) (*Joint structural boundary and owner discipline*). Within that stack, read only what [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) routes for the topic.
 
-Institutional-local abstractions may specialize **CJS** joint operational definitions cited in owner text. They must not redefine constitutional terms or create parallel constitutional definitions. For the two-tier definition contract, apply [CJS-2.3](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-23-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*).
+Institutional-local abstractions may specialize **CJS** joint operational definitions cited in owner text. They must not redefine constitutional terms or create parallel constitutional definitions. For the two-tier definition contract, apply [CJS-1.7](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-17-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*).
 
 ---
 

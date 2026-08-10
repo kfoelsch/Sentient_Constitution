@@ -20,9 +20,9 @@ This file is the institutional implementation home for **CI-21** (*Community lif
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-21.1: Civic infrastructure and non-instrumental time](#ci-211-civic-infrastructure-and-non-instrumental-time); [CI-21.2: Voluntary association and anti-coercion guardrails](#ci-212-voluntary-association-and-anti-coercion-guardrails); [CI-21.3: Referral and escalation interfaces](#ci-213-referral-and-escalation-interfaces).
-- Read with: **CI-21**; **CI-5**; **CI-9**; **CI-8**; **CI-22**; **CI-20**; **CI-6**; **CJS-5.7** (*quorum and participatory legitimacy terms*).
+- Read with: **CI-21**; **CI-5**; **CI-9**; **CI-8**; **CI-22**; **CI-20**; **CI-6**; **CJS-3.7** (*quorum and participatory legitimacy terms*).
 
 </details>
 
@@ -41,7 +41,7 @@ This file is the institutional implementation home for **CI-21** (*Community lif
 
 <br>
 
-*In plain terms: **CI-21** is the institutions layer's rulebook for community life that is not just another productivity slot — gathering, play, recreation, solitude, cultural practice, and voluntary association. Sentients need practical ways to belong, meet, celebrate, rest, and organize without every shared space being monetized, gated, or designed to push them out. You must be free to associate — and free not to associate, and free to leave a group that has turned coercive. Shared community and associational pathway floors live in **CJS-5.7** (*quorum and participatory legitimacy terms*). The constitutional meaning sits in **Article V-H** (*Expression, Assembly, and Press*), **Article X-A** (*Non-Imposition and Consent in Association*), and **Chapter Five** assembly and collective-organization disciplines. What this file adds is local: what each institution must name, steward, and route locally.*
+*In plain terms: **CI-21** is the institutions layer's rulebook for community life that is not just another productivity slot — gathering, play, recreation, solitude, cultural practice, and voluntary association. Sentients need practical ways to belong, meet, celebrate, rest, and organize without every shared space being monetized, gated, or designed to push them out. You must be free to associate — and free not to associate, and free to leave a group that has turned coercive. Shared community and associational pathway floors live in **CJS-3.7** (*quorum and participatory legitimacy terms*). The constitutional meaning sits in **Article V-H** (*Expression, Assembly, and Press*), **Article X-A** (*Non-Imposition and Consent in Association*), and **Chapter Five** assembly and collective-organization disciplines. What this file adds is local: what each institution must name, steward, and route locally.*
 
 **Quick orientation**
 
@@ -57,14 +57,14 @@ This file is the institutional implementation home for **CI-21** (*Community lif
 
 *Shared rules live elsewhere.*
 
-- **[CJS-5.7](../corpus_joint_structure.md)** (*quorum and participatory legitimacy terms*) — **Community and associational pathway integrity**: practical participation, freedom not to associate, freedom to leave coercive group settings, and protection against hostile-design exclusion in shared spaces, civic infrastructure, cultural gathering, peaceable assembly, recreation, and non-instrumental time.
+- **[CJS-3.7](../corpus_joint_structure.md)** (*quorum and participatory legitimacy terms*) — **Community and associational pathway integrity**: practical participation, freedom not to associate, freedom to leave coercive group settings, and protection against hostile-design exclusion in shared spaces, civic infrastructure, cultural gathering, peaceable assembly, recreation, and non-instrumental time.
 - **Article V-H** (*Expression, Assembly, and Press*) and **Article X-A** (*Non-Imposition and Consent in Association*) in **Chapter Six** — assembly, association, consent in cooperative ventures, harassment and bullying limits, and freedom of focus in relational settings.
 - **Chapter Five** — [Assembly](../core_05_band_participation.md#assembly-constitutional), [Collective Organization](../core_05_band_participation.md#collective-organization-constitutional), and [Non-Imposition (Cooperative Interaction)](../core_05_band_participation.md#non-imposition-cooperative-interaction) where associational conduct is material.
 - **CI-21 scope** — does not repeat those floors; states local stewardship, program, referral, and escalation owner duties.
 
 **Apply**
 
-- Apply **CJS-5.7** **Community and associational pathway integrity** for the shared floor on practical access, voluntary association, exit from coercive settings, and anti-hostile-design exclusion.
+- Apply **CJS-3.7** **Community and associational pathway integrity** for the shared floor on practical access, voluntary association, exit from coercive settings, and anti-hostile-design exclusion.
 - **CI-21** states only local stewardship, program, referral, and escalation owner duties across **CI-21.1** through **CI-21.3**.
 
 ## CI-21.1: Civic infrastructure and non-instrumental time

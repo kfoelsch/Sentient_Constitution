@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Audit alphabetical order of CJS-5 OP cluster sub-terms within each subsection.
+"""Audit alphabetical order of CJS-3 OP cluster sub-terms within each subsection.
 
-Fails when sortable sub-terms (excluding cluster intro lines and CJS-5.0 pinned
+Fails when sortable sub-terms (excluding cluster intro lines and CJS-3.0 pinned
 preface rules) are not in case-insensitive alphabetical order.
 """
 
@@ -12,12 +12,12 @@ import re
 import sys
 from pathlib import Path
 
-CJS5_GLOB = "corpus_joint_structure/cjs_05*.md"
+CJS3_GLOB = "corpus_joint_structure/cjs_03*.md"
 
-SECTION_SPLIT_RE = re.compile(r"(?=^#{1,3} CJS-5)", re.MULTILINE)
-SECTION_ID_RE = re.compile(r"^#{1,3} (CJS-5\S+)", re.MULTILINE)
+SECTION_SPLIT_RE = re.compile(r"(?=^#{1,3} CJS-3)", re.MULTILINE)
+SECTION_ID_RE = re.compile(r"^#{1,3} (CJS-3\S+)", re.MULTILINE)
 
-CJS50_PINNED = {
+CJS30_PINNED = {
     "Competency bar, clearance, and standing interface",
     "Role-definition reading rule",
 }
@@ -41,7 +41,7 @@ def sortable_terms(section_id: str, body: str) -> list[str]:
     terms = [match.group(1).strip() for match in OP_BLOCK_RE.finditer(body)]
     filtered: list[str] = []
     for title in terms:
-        if section_id.startswith("CJS-5.0") and title in CJS50_PINNED:
+        if section_id.startswith("CJS-3.0") and title in CJS30_PINNED:
             continue
         filtered.append(title)
     return filtered
@@ -73,7 +73,7 @@ def audit_file(root: Path, path: Path) -> list[str]:
     text = path.read_text(encoding="utf-8")
     findings: list[str] = []
     for part in SECTION_SPLIT_RE.split(text):
-        if part.startswith("## CJS-5"):
+        if part.startswith("## CJS-3"):
             findings.extend(audit_section(rel, part))
     return findings
 
@@ -82,16 +82,16 @@ def main() -> int:
     args = parse_args()
     root = Path(args.root).resolve()
     findings: list[str] = []
-    for path in sorted((root / "corpus_joint_structure").glob("cjs_05*.md")):
+    for path in sorted((root / "corpus_joint_structure").glob("cjs_03*.md")):
         findings.extend(audit_file(root, path))
 
     if findings:
-        print("FAIL: CJS-5 cluster term order audit detected issues:", file=sys.stderr)
+        print("FAIL: CJS-3 cluster term order audit detected issues:", file=sys.stderr)
         for item in findings:
             print(f"  - {item}", file=sys.stderr)
         return 1
 
-    print("PASS: CJS-5 cluster sub-terms are alphabetically ordered within subsections.")
+    print("PASS: CJS-3 cluster sub-terms are alphabetically ordered within subsections.")
     return 0
 
 

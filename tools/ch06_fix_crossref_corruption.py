@@ -36,7 +36,7 @@ FIXES: list[tuple[str, str, str]] = [
     ("core_06-06_rights_part_a.md", "section 5.1.2 interaction rules", "section 6 interaction rules"),
     ("corpus_systems/cs_00_registry_and_reading_rules.md", "Chapter One** section 5.1.2.4", "Chapter One** section 6.4"),
     # Corpus Ch9 §6
-    ("corpus_joint_structure/cjs_05a_accountability_operations.md", "Chapter Eleven**, **section 5.1.2**", "Chapter Eleven**, **section 6**"),
+    ("corpus_joint_structure/cjs_03a_accountability_operations.md", "Chapter Eleven**, **section 5.1.2**", "Chapter Eleven**, **section 6**"),
     ("corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md", "Chapter Eleven**, **section 5.1.2**", "Chapter Eleven**, **section 6**"),
     ("core_10-10_misconduct.md", "[Chapter Eight Chapter One §8.1.7](core_09-09_standing_integration.md#67-duty-to-resist-unlawful-or-unconstitutional-instructions)", "[Chapter Nine §6.7](core_09-09_standing_integration.md#67-duty-to-resist-unlawful-or-unconstitutional-instructions)"),
     ("core_10-10_misconduct.md", "[Chapter Eight Chapter One §8.1.6](core_09-09_standing_integration.md#410-collective-accountability-and-acquiescent-participation)", "[Chapter Nine Chapter One §8.10](core_09-09_standing_integration.md#410-collective-accountability-and-acquiescent-participation)"),

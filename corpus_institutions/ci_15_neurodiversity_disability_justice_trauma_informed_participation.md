@@ -20,7 +20,7 @@ This file is the institutional implementation home for **CI-15** (*Neurodiversit
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Read with: **CI-15**; **CI-8.3**; **CI-6**.
 
 </details>
@@ -40,7 +40,7 @@ This file is the institutional implementation home for **CI-15** (*Neurodiversit
 
 <br>
 
-*In plain terms: **CI-15** is the institutions layer's rulebook for making participation actually usable for neurodivergent sentients, disabled sentients, and sentients carrying trauma. Declaring a pathway "open" on paper is not enough. Hearings, governance forums, and self-service portals must offer real alternatives where ordinary timing, format, sensory load, cognitive load, or adversarial framing would block credible participation. An institution cannot dismiss someone as "too complex," "lacking capacity," or "not following procedure" when the procedure itself was designed to exclude them. The shared floors sit elsewhere: **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) holds adaptive participation and cognitive accessibility, and Chapter Six holds the constitutional meaning. What this file adds is local: what each institution must name, file, and maintain.*
+*In plain terms: **CI-15** is the institutions layer's rulebook for making participation actually usable for neurodivergent sentients, disabled sentients, and sentients carrying trauma. Declaring a pathway "open" on paper is not enough. Hearings, governance forums, and self-service portals must offer real alternatives where ordinary timing, format, sensory load, cognitive load, or adversarial framing would block credible participation. An institution cannot dismiss someone as "too complex," "lacking capacity," or "not following procedure" when the procedure itself was designed to exclude them. The shared floors sit elsewhere: **CJS-3.8** (*comprehensibility and cognitive accessibility terms*) holds adaptive participation and cognitive accessibility, and Chapter Six holds the constitutional meaning. What this file adds is local: what each institution must name, file, and maintain.*
 
 **Quick orientation**
 
@@ -49,14 +49,14 @@ This file is the institutional implementation home for **CI-15** (*Neurodiversit
 - **Trauma-informed design** — high-stakes hearings, reviews, and self-service paths must not amplify harm through avoidable adversarial traps, overload, or inaccessible interfaces.
 - **Anti-exclusion review** — a named review route must exist wherever complexity, capacity, or compliance framing would dismiss credible participation.
 - **Digital parity** — **CI-8.3** self-service paths must document accommodation and accessibility routing alongside entry, management, and exit paths.
-- **Hard limits** — **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) puts four things out of bounds: symbolic substitutes, inaccessible formats, retaliation-linked chill, and trauma-amplifying process design.
+- **Hard limits** — **CJS-3.8** (*comprehensibility and cognitive accessibility terms*) puts four things out of bounds: symbolic substitutes, inaccessible formats, retaliation-linked chill, and trauma-amplifying process design.
 - **Read with** — **CI-6** for secondary review; **CI-8.3** for digital self-service pathway interfaces.
 
 *In plain terms: suppose the only way to challenge a decision is a three-hour adversarial hearing with no breaks and no written alternative, through a portal that fails screen readers. You miss the deadline and are ruled non-participating. That pathway has failed, however many accessibility statements sit on the website.*
 
 *Shared rules live elsewhere.*
 
-- **[CJS-5.8](../corpus_joint_structure.md)** (*comprehensibility and cognitive accessibility terms*) — two control sets, the **Institutional participation and pathway accessibility floor** and **Adaptive participation and support controls**. Between them they cover:
+- **[CJS-3.8](../corpus_joint_structure.md)** (*comprehensibility and cognitive accessibility terms*) — two control sets, the **Institutional participation and pathway accessibility floor** and **Adaptive participation and support controls**. Between them they cover:
   - practical access and protected escalation;
   - anti-retaliation safeguards;
   - proportionate alternatives and pacing;
@@ -77,7 +77,7 @@ This file is the institutional implementation home for **CI-15** (*Neurodiversit
 
 **Apply**
 
-- Apply **CJS-5.8** **Institutional participation and pathway accessibility floor** for the shared adaptive-participation and cognitive-accessibility floor.
+- Apply **CJS-3.8** **Institutional participation and pathway accessibility floor** for the shared adaptive-participation and cognitive-accessibility floor.
 - **CI-15** (*Neurodiversity, disability justice, and trauma-informed participation*) states only three local owner duties: procedural design, trauma-informed alternatives, and anti-exclusion review. It states them under these articles:
   - **Article V-G** (*Accessibility*);
   - **Article XI** (*Stakeholder System Participation, Representation, and Due Process*);
@@ -88,7 +88,7 @@ This file is the institutional implementation home for **CI-15** (*Neurodiversit
 
 Each institution in scope must name the office or body responsible for:
 
-- **procedural-design and accommodation documentation** — who documents, for hearings, governance forums, review panels, and other high-stakes institutional processes, these **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) items:
+- **procedural-design and accommodation documentation** — who documents, for hearings, governance forums, review panels, and other high-stakes institutional processes, these **CJS-3.8** (*comprehensibility and cognitive accessibility terms*) items:
   - alternatives and pacing options;
   - communication modes;
   - sensory and cognitive accommodations;

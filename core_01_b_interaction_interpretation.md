@@ -495,7 +495,7 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Preamble — Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide through section traces.
-- Downstream: [§8.1 Constitutional No-Bypass Principle](#constitutional-no-bypass-principle), [§8.2 Definitional layer and required disciplines](#81-definitional-layer-and-required-disciplines), [§8.3 Ambiguity resolution](#82-ambiguity-resolution), [§8.4 Constitutional Meaning Conflict Resolution](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#831-integrated-reading) · [§8.4.2](#832-last-resort-internal-hierarchy) · [§8.4.3](#833-incorporation-layer)); [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) through [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application); [6. Process Conflict Resolution](#6-process-conflict-resolution) for value-collision procedure; [Chapter Six: Foundational Rights](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
+- Downstream: [§8.1 Constitutional No-Bypass Principle](#constitutional-no-bypass-principle), [§8.2 Definitional layer and required disciplines](#81-definitional-layer-and-required-disciplines), [§8.3 Ambiguity resolution](#82-ambiguity-resolution), [§8.4 Constitutional Meaning Conflict Resolution](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#831-integrated-reading) · [§8.4.2](#832-last-resort-internal-hierarchy) · [§8.4.3](#833-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) through [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application); [6. Process Conflict Resolution](#6-process-conflict-resolution) for value-collision procedure; [Chapter Six: Foundational Rights](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
 - Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) and [Chapter Five](core_05__definitions_home.md#chapter-five-foundational-definitions) — interpretive and evidentiary layer for every term in this chapter.
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — interpretive backdrop for the integrated-value framework; [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
 - Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) (*source-layer status*); [Chapter Sixteen](core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) (*custody, editions, adoption framing* — not a second conflict-order home); [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) and [Chapter Fourteen](core_13-15_amendment.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*non-regression and adopter hierarchy gates under §8.4*).
@@ -553,7 +553,7 @@ This subsection is the **single canonical procedure** for resolving interpretive
 
 1. **Constitution, non-regression, and adopter hierarchy first.** Apply Sentient Constitution supremacy, **Chapter Thirteen** non-regression constraints, and **Chapter Fourteen** internal hierarchy rules before resolving lower layers.
 2. **Binding constitutional reading.** Within the binding constitutional source, apply **[§8.4.1 Integrated reading](#831-integrated-reading)** and, only if genuine residual incompatibility remains, **[§8.4.2 Last-resort internal hierarchy](#832-last-resort-internal-hierarchy)**.
-3. **Incorporated obligations.** Then apply incorporated obligations under **[§8.4.3 Incorporation layer](#833-incorporation-layer)**.
+3. **Incorporated obligations.** Then apply incorporated obligations under **[§8.4.3 Incorporation layer](#833-incorporation-layer)** and **[§8.4.4 Combined satisfaction of jointly applicable incorporated obligations](#844-combined-satisfaction)**.
 
 <a id="831-integrated-reading"></a>
 ##### 8.4.1 Integrated reading
@@ -587,6 +587,23 @@ After the constitutional reading under **§8.4.1** and **§8.4.2**, apply design
 
 - **Strictest applicable.** Apply incorporated obligations at the **strictest applicable** level consistent with that constitutional reading. **Strictest applicable** means the incorporated **text** that preserves the **strongest protective, safety, accountability, and traceability** requirements for the same materially scoped obligation among alternatives that remain coherent with the constitutional reading produced under the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) — in the same sense as the Constitution's **fullest protective effect as an integrated whole**, and **not** **maximal restriction** or **abstract strictness** in isolation.
 - **Stricter clearly adopted baseline.** Where **edition identifiers or custody records** for incorporated artifacts are missing, contradictory, or materially unreliable, the **stricter clearly adopted baseline** governs until validity is restored under **Chapters Eleven and Thirteen**. **Stricter clearly adopted baseline** means the **adoption-traceable** incorporated edition or **baseline** the adoption chain **clearly supports** when records are unreliable (custody discipline and anti-drift under Chapter Sixteen), **not** substantive constitutional ambiguity resolution by preference for **abstract strictness**.
+- **Cross-file stricter-wins.** Where two or more adopted implementation files set different standards for the same meaningfully scoped risk, the stricter clearly adopted rule controls, consistent with **Strictest applicable** and **Stricter clearly adopted baseline** above. Source-layer status remains under the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack); custody, editions, and adoption framing remain under **[Chapter Sixteen](core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge)**. The same rule applies when a cited profile and a cited implementation label seem to conflict for that risk.
+
+<a id="844-combined-satisfaction"></a>
+##### 8.4.4 Combined satisfaction of jointly applicable incorporated obligations
+
+*In plain terms: when one situation touches more than one incorporated how-to file — or when your adoption paperwork brings those joint-structure duties into force — doing well on one file does not count as compliance if another material duty for the same facts is still unmet.*
+
+**When this subsection applies.** These rules apply within valid adoption and incorporation scope under **[Chapter Sixteen](core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge)** in either of these cases:
+
+1. **One situation, more than one file.** The facts require applying more than one incorporated implementation file — for example systems, institutions, forums, or joint-structure text. Which files apply is decided by the adoption scope and the topic routing those files provide for the facts, not by choosing only the file that is easiest to satisfy.
+2. **Adoption brings the joint-structure set into force.** The adopting instrument applies designated joint-structure implementation text (the **CJS** folder and any other joint-structure files listed in the adoption chain) to the adopter.
+
+**Combined satisfaction.** Where more than one incorporated implementation file applies to the same facts under those triggers, compliance means meeting **all** material duties in that set. A sentient or institution cannot satisfy one file and then claim compliance while leaving another material duty undone. Where two files in that set disagree about the same meaningfully scoped risk, apply **[§8.4.3](#833-incorporation-layer)** (*Cross-file stricter-wins*).
+
+Emergencies may narrow those duties only when the narrowing is published, clearly bounded, time-limited, reversible where feasible, and tied to this Constitution and the applicable emergency rules in those implementation files. Quiet or open-ended "temporary" narrowing does not count.
+
+This cross-file combined-satisfaction rule is distinct from partial-satisfaction discipline inside a single operational cluster in incorporated joint-structure text (see **[CJS-1.13](corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-113-operational-clusters)**) and from **[Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction)** for Chapter Five Dependent clusters.
 
 <a id="chapter-one-part-a-chapter-five-vocabulary-anchor"></a>
 <details>
@@ -613,9 +630,9 @@ After the constitutional reading under **§8.4.1** and **§8.4.2**, apply design
 - [Corpus and Authority Stack](core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
 - [Accountability, Contestability, and Collective Accountability Failure](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster)
 
-**CJS-5** (*Implementation and cross-implementation operational cluster library*) operational cluster compass (cross-implementation joint operational terms — read with this chapter's Tetrad, Aims, and material-stake scaling):
+**CJS-3** (*Implementation and cross-implementation operational cluster library*) operational cluster compass (cross-implementation joint operational terms — read with this chapter's Tetrad, Aims, and material-stake scaling):
 
-- [CJS-5.1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) — primary entry for **CJS-5.2–CJS-5.23** clusters organized by Tetrad leg, Continuity aim, and integrative cross-leg bands
+- [CJS-3.1 Constitutional compass and cluster map](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — primary entry for **CJS-3.2–CJS-3.23** clusters organized by Tetrad leg, Continuity aim, and integrative cross-leg bands
 
 </details>
 

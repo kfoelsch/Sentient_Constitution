@@ -20,10 +20,10 @@ This file is the institutional implementation home for **CI-14** (*Transitional 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-14.1: Interface — **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)](#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives); [CI-14.2: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements](#ci-142-article-xxvi-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements); [CI-14.3: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements](#ci-143-article-xxvi-d-operative-transition-scoped-remediation-requirements).
-- Read with: **CI-14**; **CI-14.1**; **CI-14.2**; **CI-14.3**; **CI-5**; **CI-11**; [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router.
-- Topic routing (mandatory read-with): **CJS-R11** (*Forum continuity*) in **CJS-2.1** (*Topic router*); primary owner **CF-12**.
+- Read with: **CI-14**; **CI-14.1**; **CI-14.2**; **CI-14.3**; **CI-5**; **CI-11**; [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router.
+- Topic routing (mandatory read-with): **CJS-R11** (*Forum continuity*) in **CJS-0.1** (*Topic router*); primary owner **CF-12**.
 
 </details>
 
@@ -51,7 +51,7 @@ This file is the institutional implementation home for **CI-14** (*Transitional 
 
 <br>
 
-*In plain terms: **CI-14** is the institutions layer's "how do we change structure without breaking rights or losing the thread?" rulebook — when an institution redesigns, merges, hands off authority, or moves from legacy operation toward constitutional operation, and what must stay documented, reviewable, and reversible while that happens. Transition is a bridge, not a permanent emergency. Temporary powers must expire, get reauthorized for real reasons, or roll back — and Rights-Floor minimums cannot quietly shrink because the change is inconvenient. Shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floors live in **CJS-5.18** (*data-retention and lifecycle-integrity terms*); system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics live in **Protocol T**. What this file adds is local: what each institution must name, publish, and maintain locally.*
+*In plain terms: **CI-14** is the institutions layer's "how do we change structure without breaking rights or losing the thread?" rulebook — when an institution redesigns, merges, hands off authority, or moves from legacy operation toward constitutional operation, and what must stay documented, reviewable, and reversible while that happens. Transition is a bridge, not a permanent emergency. Temporary powers must expire, get reauthorized for real reasons, or roll back — and Rights-Floor minimums cannot quietly shrink because the change is inconvenient. Shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floors live in **CJS-3.18** (*data-retention and lifecycle-integrity terms*); system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics live in **Protocol T**. What this file adds is local: what each institution must name, publish, and maintain locally.*
 
 **Quick orientation**
 
@@ -68,14 +68,14 @@ This file is the institutional implementation home for **CI-14** (*Transitional 
 
 *Shared rules live elsewhere.*
 
-- **[CJS-5.18](../corpus_joint_structure.md)** (*data-retention and lifecycle-integrity terms*) — transition continuity, authority-transfer lifecycle integrity, sunset, reauthorization, and challenge-pathway floors, especially **Transition continuity and authority-transfer lifecycle integrity**.
+- **[CJS-3.18](../corpus_joint_structure.md)** (*data-retention and lifecycle-integrity terms*) — transition continuity, authority-transfer lifecycle integrity, sunset, reauthorization, and challenge-pathway floors, especially **Transition continuity and authority-transfer lifecycle integrity**.
 - **Protocol T** (*Transition Constitution and Migration Governance*) in `corpus_systems.md` — system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
-- **CJS-5.6** (*integrity assurance and resilience operations*) — property-custody and incentive-separation control chains.
+- **CJS-3.6** (*integrity assurance and resilience operations*) — property-custody and incentive-separation control chains.
 - **CI-14 scope** — does not repeat those floors; states institutional custody, authorization, oversight, and publication duties against **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*).
 
 **Apply**
 
-- Apply **CJS-5.18** **Transition continuity and authority-transfer lifecycle integrity** for the shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floor.
+- Apply **CJS-3.18** **Transition continuity and authority-transfer lifecycle integrity** for the shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floor.
 - Where the transition materially involves constitutional systems, institutions must read this section with **Protocol T**.
 - **CI-14** states the institutional custody, authorization, and oversight interface; **Protocol T** remains the operative home for system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
 
@@ -84,7 +84,7 @@ This file is the institutional implementation home for **CI-14** (*Transitional 
 Each institution in scope must name and maintain locally:
 
 - the institution, role, or body that owns each **transition authority**, **review authority**, and **evidence-custody duty**;
-- published local procedures for **interim authority**, **review cadence**, **reauthorization**, **unresolved-risk explanation**, and **evidence custody** under the **CJS-5.18** (*data-retention and lifecycle-integrity terms*) transition floor; and
+- published local procedures for **interim authority**, **review cadence**, **reauthorization**, **unresolved-risk explanation**, and **evidence custody** under the **CJS-3.18** (*data-retention and lifecycle-integrity terms*) transition floor; and
 - auditable records of **material institutional transition decisions**, **delays**, **reversals**, and **remediation actions**, with rationale and risk implications.
 
 ## CI-14.1: Interface — **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)
@@ -100,7 +100,7 @@ Each institution in scope must name and maintain locally:
 
 *In plain terms: when transition plans touch non-compliant property, seizure, impoundment, quarantine, or voluntary turnover incentives, every step in the chain needs a named owner — who decides someone is eligible, who holds the asset, who pays a bounty, who enforces, who reviews, who funds the program, how sentients are notified, and how they contest. The office that decides payouts must not be the same shop that decides seizures. For high-stakes **Class A**, **Class B**, and **Critical System Steward** scope, read with **Protocol A** subsection **G** and **CI-11**.*
 
-Apply **CJS-5.6** **Property-custody and incentive-separation control chain** for the shared floor. **CI-14.1** states only the **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) role map. Each institution in scope must name locally:
+Apply **CJS-3.6** **Property-custody and incentive-separation control chain** for the shared floor. **CI-14.1** states only the **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) role map. Each institution in scope must name locally:
 
 - **eligibility owner** — who decides whether a case, asset, or claim qualifies;
 - **custody body** — who holds seized, impounded, or quarantined property or systems;
@@ -167,7 +167,7 @@ Institutions must publish or provide stakeholder-facing summaries on a fixed cad
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-14.1**; **CI-14.2**; **CI-5**; **CI-11**; **CJS-5.6** (*property-custody and incentive-separation control chain*).
+- Read with: **CI-14.1**; **CI-14.2**; **CI-5**; **CI-11**; **CJS-3.6** (*property-custody and incentive-separation control chain*).
 
 </details>
 
@@ -177,7 +177,7 @@ Institutions must publish or provide stakeholder-facing summaries on a fixed cad
 
 **Constitutional home:** **Chapter Six**, **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor.
 
-Apply **CJS-5.6** **Property-custody and incentive-separation control chain** for the shared floor. Read with **CI-14.1** for role assignment and **CI-14.2** for trigger catalogs, anti-abuse metrics, and publication cadence.
+Apply **CJS-3.6** **Property-custody and incentive-separation control chain** for the shared floor. Read with **CI-14.1** for role assignment and **CI-14.2** for trigger catalogs, anti-abuse metrics, and publication cadence.
 
 **Transition-scoped deprivation**
 

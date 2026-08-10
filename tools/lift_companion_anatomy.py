@@ -78,7 +78,6 @@ SKIP_NAMES = {
     "cs_00_registry_and_reading_rules.md",
     "ci_00_registry_and_reading_rules.md",
     "cf_00_registry_and_reading_rules.md",
-    "cjs_02_implementation_integration_map.md",
 }
 
 

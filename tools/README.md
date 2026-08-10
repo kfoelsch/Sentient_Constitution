@@ -18,7 +18,7 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 | Trace / D/A/C / reader-guidance `<br>` spacer discipline | `make nav-widget-spacer-audit` |
 | Trace → D/A/C widget order (definition carrier immediately after Trace) | `make trace-dac-widget-order-audit` |
 | File-top Corpus placement widget | `make file-top-placement-audit` |
-| CJS-2.1 topic-router bidirectional read-with links | `make router-bidirectional-audit` |
+| CJS-0.1 topic-router bidirectional read-with links | `make router-bidirectional-audit` |
 | Binding corpus must not depend on `doc_architecture` for meaning/routing | `make support-doc-pointer-audit` |
 | Chapter Five compound heading/member order | `make ch5-cluster-order-audit` |
 | Chapter Five single-definition and owner-roster rule | `make ch5-single-definition-audit` |

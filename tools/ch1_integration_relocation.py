@@ -863,7 +863,7 @@ def migrate_corpus_content(content: str, path: Path) -> str:
         if old != new:
             content = content.replace(old, new)
     content = migrate_section_refs(content)
-    if "cjs_05" in path.name and "Chapter One basis:" in content:
+    if "cjs_03" in path.name and "Chapter One basis:" in content:
         content = renumber_ch1_basis_refs(content)
     return content if content != original else content
 

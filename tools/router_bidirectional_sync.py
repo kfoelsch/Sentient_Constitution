@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Insert CJS-2.1 topic-routing trace bullets for bidirectional routing."""
+"""Insert CJS-0.1 topic-routing trace bullets for bidirectional routing."""
 
 from __future__ import annotations
 

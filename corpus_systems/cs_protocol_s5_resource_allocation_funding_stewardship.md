@@ -129,7 +129,7 @@ Funding structures must:
 <a id="7-required-allocation-categories"></a>
 ## 7. Required allocation categories
 
-*In plain terms: The minimum things a budget must cover: remedy capacity, the people who build and maintain, operations and security, and the wider ecosystem.*
+*In plain terms: The minimum things a budget must cover: remedy capacity, the sentients who build and maintain, operations and security, and the wider ecosystem.*
 
 Resource flows within constitutional systems must account for, at minimum, the following categories.
 
@@ -137,7 +137,7 @@ Resource flows within constitutional systems must account for, at minimum, the f
 
 **Budget** it as part of ordinary **funding stewardship**, not only as **post-crisis** improvisation.
 
-Capacity must be **auditable** and **anti-captive** (**Article XV-A** (*Auditability and Observable Evidence*), **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*), **Article XII-B** (*Right to Challenge, Review, and Redress*), **CJS-5.2** (*reflexive transparency and accountability terms*) and **CJS-5.6** (*integrity assurance and resilience operations*), **CJS-5.13** (*procedural integrity and adjudication terms*), **Protocol C**, subsection **8**).
+Capacity must be **auditable** and **anti-captive** (**Article XV-A** (*Auditability and Observable Evidence*), **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*), **Article XII-B** (*Right to Challenge, Review, and Redress*), **CJS-3.2** (*reflexive transparency and accountability terms*) and **CJS-3.6** (*integrity assurance and resilience operations*), **CJS-3.13** (*procedural integrity and adjudication terms*), **Protocol C**, subsection **8**).
 
 Underfunding that produces **chronic non-performance** of remediation obligations is a **constitutional alignment risk** subject to review.
 
@@ -176,7 +176,7 @@ Early foundational contributions may justify temporary or extended allocation.
 
 Funding agreements for builders and maintainers must provide sufficient stability to support long-term system development and maintenance.
 
-Once established and disclosed, allocation structures affecting builder and maintainer incentives must remain stable for a defined period or condition. They must not be altered retroactively, and they must not be materially reduced without due process under **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) and **CJS-5.13** (*procedural integrity and adjudication terms*) in **corpus_joint_structure.md** where applicable.
+Once established and disclosed, allocation structures affecting builder and maintainer incentives must remain stable for a defined period or condition. They must not be altered retroactively, and they must not be materially reduced without due process under **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) and **CJS-3.13** (*procedural integrity and adjudication terms*) in **corpus_joint_structure.md** where applicable.
 
 **Changes to funding structures must**:
 - be proposed transparently;
@@ -326,7 +326,7 @@ No minimum participation threshold is required to initiate review, though outcom
 
 *In plain terms: Changing funding requires notice, a justification, a route for those affected to respond, and a record that can be audited.*
 
-Funding-related decisions apply **Article XI** (*Stakeholder System Participation, Representation, and Due Process*), **Article XV-A** (*Auditability and Observable Evidence*), and **CJS-5.13** (*procedural integrity and adjudication terms*) / **CJS-5.13** (*procedural integrity and adjudication terms*) for process depth, duration, reviewability, and proportionality. Protocol S5 funding records add:
+Funding-related decisions apply **Article XI** (*Stakeholder System Participation, Representation, and Due Process*), **Article XV-A** (*Auditability and Observable Evidence*), and **CJS-3.13** (*procedural integrity and adjudication terms*) / **CJS-3.13** (*procedural integrity and adjudication terms*) for process depth, duration, reviewability, and proportionality. Protocol S5 funding records add:
 - transparent proposal;
 - sufficient notice and justification;
 - affected-participant response, contest, or adaptation pathway;
@@ -337,11 +337,11 @@ Funding-related decisions apply **Article XI** (*Stakeholder System Participatio
 <a id="19-steward-operator-and-governance-remuneration-incentive-governance"></a>
 ## 19. Steward, operator, and governance remuneration (incentive governance)
 
-*In plain terms: How people with authority over resource flows get paid must align with long-term outcomes, not with the decisions they themselves approve.*
+*In plain terms: How role-holders with authority over resource flows get paid must align with long-term outcomes, not with the decisions they themselves approve.*
 
 Compensation, equity, bonuses, performance metrics, and deferred incentives for **builders, operators, maintainers, and human governance roles** must be **aligned with long-term constitutional outcomes**. That requirement applies when those roles materially influence resource flows or funding decisions. That obligation applies when those roles materially influence dependent-systems maps. It applies when those roles materially influence **system classification** or **Critical System Stewardship** (CS-4 — Critical system stewardship). That alignment includes ecosystem-aware stewardship under **Sentient Constitution Chapter Six**, **Articles I-B** and **XI**. It includes substrate and dependency integrity (**Articles I–III and V**). It includes non-entrenchment and fitness over time (**Article XXV-A** (*Non-Entrenchment and Revisability*)).
 
-Remuneration design must satisfy [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer), including **CJS-5.12** (*burden-of-justification and constraint terms*) mechanism-integrity and incentive-alignment requirements, incorporated via **Sentient Constitution Chapter Sixteen**, and **Sentient Constitution Chapter One**. That includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
+Remuneration design must satisfy [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer), including **CJS-3.12** (*burden-of-justification and constraint terms*) mechanism-integrity and incentive-alignment requirements, incorporated via **Sentient Constitution Chapter Sixteen**, and **Sentient Constitution Chapter One**. That includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
 
 <a id="20-conflict-free-remuneration-processes"></a>
 ## 20. Conflict-free remuneration processes
@@ -352,7 +352,7 @@ Where humans hold authority over allocation, enforcement, classification, or ove
 
 Material conflicts between **private financial interest** and **stewardship duties** must be **disclosed** and **managed**.
 
-Where **impartiality** for a specific decision is not credible, address conflicts through **recusal**, **segmented authority**, or **independent review**. That process must be consistent with **CJS-5.13** (*Procedural Integrity and Adjudication*) in [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer) and **CS-4 — Critical system steward conduct, conflicts of interest, and independence**.
+Where **impartiality** for a specific decision is not credible, address conflicts through **recusal**, **segmented authority**, or **independent review**. That process must be consistent with **CJS-3.13** (*Procedural Integrity and Adjudication*) in [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer) and **CS-4 — Critical system steward conduct, conflicts of interest, and independence**.
 
 Variable pay or equity tied to metrics susceptible to **gaming** at the expense of dependents or the broader ecosystem must include **safeguards**.
 

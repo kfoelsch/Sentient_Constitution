@@ -44,8 +44,8 @@ SELF_DOWNSTREAM_RE = re.compile(
 )
 SELF_READ_WITH_RE = re.compile(r"^- Read with: \*\*(?:CF|CI|CS|CJS)-[\d.]+\*\*\.\s*$")
 
-# Redirect stubs and retired family files carry no operative body.
-EXEMPT_SUFFIXES = ("cjs_02_implementation_integration_map.md",)
+# There are no live redirect stubs in the normalized CJS family.
+EXEMPT_SUFFIXES: tuple[str, ...] = ()
 
 
 def parse_args() -> argparse.Namespace:

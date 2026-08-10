@@ -33,8 +33,8 @@ Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/
 | `ch9-trace-audit` | `tools/ch9_trace_audit.py` | NAV-TRACE-08–10 | Chapter Six subarticle traces |
 | `prose-continuity-audit` | `tools/prose_continuity_audit.py` | — | Stray indent / orphan lines |
 | `lexical-vocabulary-audit` | `tools/lexical_vocabulary_audit.py` | LEX-GUARDRAILS | Config: `lexical_guardrails.json` |
-| `cjs-operational-cluster-audit` | `tools/cjs_operational_cluster_audit.py` | — | CJS-5 placement |
-| `router-bidirectional-audit` | `tools/router_bidirectional_audit.py` | ROUTER-CJS21 | CJS-2.1 router |
+| `cjs-operational-cluster-audit` | `tools/cjs_operational_cluster_audit.py` | — | CJS-3 placement |
+| `router-bidirectional-audit` | `tools/router_bidirectional_audit.py` | ROUTER-CJS01 | CJS-0.1 router |
 
 ## Advisory / extended gates
 
@@ -47,7 +47,7 @@ Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/
 | `ch4-ch7-pointer-audit` | `tools/ch4_ch7_pointer_audit.py` | CH4-CH7-POINTER | Ch7 must cite Ch2–4 for verification substrate; use `--strict` to block |
 | `ch5-cross-file-link-audit` | `tools/ch5_cross_file_link_audit.py` | — | Promote when clean |
 | `ci-cjs-relocation-audit` | `tools/ci_cjs_relocation_audit.py` | — | Relocation drift evidence |
-| `definition-appropriateness-audit` | `tools/definition_appropriateness_audit.py` | DEF-APPROPRIATENESS | Unified core vs CJS-5 placement; advisory by default; `--strict` to block |
+| `definition-appropriateness-audit` | `tools/definition_appropriateness_audit.py` | DEF-APPROPRIATENESS | Unified core vs CJS-3 placement; advisory by default; `--strict` to block |
 
 ### Definition appropriateness finding taxonomy (`definition-appropriateness-audit`)
 
@@ -56,11 +56,11 @@ Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/
 | `CORE-PLACEMENT` | Chapter Five | Correct band / §1–§3 home and structural invariants |
 | `CORE-GRAVITY` | Chapter Five | Institutional or procedural machinery absorbed into definitions |
 | `CORE-TRACE` | Chapter One ↔ Five | Principle anchors and complete O/M/A/C traceability |
-| `CJS-PLACEMENT` | CJS-5 | Operational clusters only in CJS-5 (not CJS-3) |
-| `CJS-TRACE` | Chapter One ↔ CJS-5 | Cluster trace metadata and OP triad completeness |
-| `CJS-CONSTITUTIONAL-CREEP` | CJS-5 | OP rules matching Ch5 labels without Chapter Five pointers |
+| `CJS-PLACEMENT` | CJS-3 | Operational clusters only in CJS-3 (not CJS-1) |
+| `CJS-TRACE` | Chapter One ↔ CJS-3 | Cluster trace metadata and OP triad completeness |
+| `CJS-CONSTITUTIONAL-CREEP` | CJS-3 | OP rules matching Ch5 labels without Chapter Five pointers |
 | `IMPL-COMPETING-GLOSS` | CS / CI / CF | O/M/A/C-shaped gloss outside Chapter Five |
-| `IMPL-RELOCATION` | CI (operative body) | Cross-layer material that may belong in CJS-5 or Chapter Five; CS/CF owner layers use integration maps and `ci-cjs-relocation-audit` |
+| `IMPL-RELOCATION` | CI (operative body) | Cross-layer material that may belong in CJS-3 or Chapter Five; CS/CF owner layers use integration maps and `ci-cjs-relocation-audit` |
 | `IMPL-NON-REDEFINITION` | CS / CI / CF | Definitional lead-ins for canonical Chapter Five terms |
 
 Persistent ledger: `evidence/definition_audit/ledger.json`. Dated snapshots: `definition_appropriateness_report_*.md`, `definition_appropriateness_matrix_*.csv`, `definition_appropriateness_log_*.json`.

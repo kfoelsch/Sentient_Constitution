@@ -31,16 +31,16 @@ This protocol sets the systems-layer expectations for understandable systems and
 
 Read it together with these operational clusters:
 
-- **CJS-5.8** (*comprehensibility and cognitive accessibility terms*);
-- **CJS-5.9** (*salience integrity and attention-allocation terms*);
-- **CJS-5.10** (*disclosure sufficiency and observability terms*);
-- **CJS-5.16** (*dependency integrity and disclosure terms*);
-- **CJS-5.19** (*graceful degradation and failure-mode integrity terms*);
-- **CJS-5.21** (*adversarial robustness and abuse-resistance terms*).
+- **CJS-3.8** (*comprehensibility and cognitive accessibility terms*);
+- **CJS-3.9** (*salience integrity and attention-allocation terms*);
+- **CJS-3.10** (*disclosure sufficiency and observability terms*);
+- **CJS-3.16** (*dependency integrity and disclosure terms*);
+- **CJS-3.19** (*graceful degradation and failure-mode integrity terms*);
+- **CJS-3.21** (*adversarial robustness and abuse-resistance terms*).
 
 This protocol is not a second home for **Article XX** (*Comprehensibility and Complexity Stewardship*) or for those operational definitions.
 
-Two rules settle any gap or conflict. Where this protocol and a **CJS-5** (*operational cluster library*) term conflict, the stricter requirement governs. Where this protocol is silent on how to interpret, define, verify, or trace a constitutional term, **Sentient Constitution Chapters Two through Five** govern.
+Two rules settle any gap or conflict. Where this protocol and a **CJS-3** (*operational cluster library*) term conflict, the stricter requirement governs. Where this protocol is silent on how to interpret, define, verify, or trace a constitutional term, **Sentient Constitution Chapters Two through Five** govern.
 
 <a id="2-classification-scaled-application"></a>
 ## 2. Classification-scaled application
@@ -58,8 +58,8 @@ Protocol B adds the following systems-specific checks:
 
 - **Complexity as a barrier.** Complexity must not become a practical barrier to audit, participation, accountability, or oversight beyond what these sources permit:
   - **Article XX** (*Comprehensibility and Complexity Stewardship*);
-  - **CJS-5.11** (*distributed and proportional authority terms*);
-  - **CJS-5.7** (*quorum and participatory legitimacy terms*);
+  - **CJS-3.11** (*distributed and proportional authority terms*);
+  - **CJS-3.7** (*quorum and participatory legitimacy terms*);
   - the applicable Chapter One and Chapter Five constraints.
 - **Independent complexity audit.** Critical systems must undergo periodic independent complexity audits. Each audit must evaluate transparency and observability, dependency chains and hidden coupling, failure modes and cascading risks, and the capacity for human oversight and intervention.
 - **Modularity.** System architecture should use modular components with clear responsibilities and interfaces. Component-level innovation must not create unmanaged consequences across other systems.
@@ -72,7 +72,7 @@ Protocol B adds the following systems-specific checks:
 
 *In plain terms: if this protocol does not answer your question, here is where the answer lives.*
 
-Where this protocol is silent, the governing sources are **Article XX** (*Comprehensibility and Complexity Stewardship*), the six **CJS-5** clusters listed above, Chapters Two through Five, and the applicable **CS-3** or **CS-4** profile.
+Where this protocol is silent, the governing sources are **Article XX** (*Comprehensibility and Complexity Stewardship*), the six **CJS-3** clusters listed above, Chapters Two through Five, and the applicable **CS-3** or **CS-4** profile.
 
 ---
 

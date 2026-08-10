@@ -1259,9 +1259,9 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - exploitation;
     - circumvention; or
     - adversarial manipulation.
-  - **Secondary measure:** Good-faith researcher publication routes and deferred exploit-detail timing — co-measures under **Type S** deferred disclosure and **CJS-5.22** (*constrained-secrecy and protected-investigation terms*).
+  - **Secondary measure:** Good-faith researcher publication routes and deferred exploit-detail timing — co-measures under **Type S** deferred disclosure and **CJS-3.22** (*constrained-secrecy and protected-investigation terms*).
 
-    **Secondary assessment:** Assess whether low-risk findings can be published through a usable route, and whether exploit-enabling detail is deferred until security mitigation is complete, consistent with **Type S** deferred disclosure under **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, and **CJS-5.22** (*constrained-secrecy and protected-investigation terms*).
+    **Secondary assessment:** Assess whether low-risk findings can be published through a usable route, and whether exploit-enabling detail is deferred until security mitigation is complete, consistent with **Type S** deferred disclosure under **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, and **CJS-3.22** (*constrained-secrecy and protected-investigation terms*).
 <a id="security-sensitive-disclosure-balance-c"></a>
 - **What must hold**
   - Good-faith security researchers must have a usable, non-retaliatory route to publish low-risk information — including existence notice and non-exploit-enabling detail — without treating researcher publication itself as prohibited disclosure.

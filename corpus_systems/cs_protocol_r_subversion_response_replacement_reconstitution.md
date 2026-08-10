@@ -29,11 +29,11 @@ This file is the systems implementation home for **Protocol R — Subversion Res
 
 It also operates with these operational clusters:
 
-- **CJS-5.20** (*reversibility and containment terms*);
-- **CJS-5.18** (*data-retention and lifecycle-integrity terms*);
-- **CJS-5.11** (*distributed and proportional authority terms*);
-- **CJS-5.2** (*reflexive transparency and accountability terms*);
-- **CJS-5.13** (*procedural integrity and adjudication terms*).
+- **CJS-3.20** (*reversibility and containment terms*);
+- **CJS-3.18** (*data-retention and lifecycle-integrity terms*);
+- **CJS-3.11** (*distributed and proportional authority terms*);
+- **CJS-3.2** (*reflexive transparency and accountability terms*);
+- **CJS-3.13** (*procedural integrity and adjudication terms*).
 
 This protocol does not narrow constitutional rights or reviewability.
 

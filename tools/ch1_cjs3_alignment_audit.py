@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """
-Chapter 01 -> CJS-5 Principle Alignment Audit.
+Chapter 01 -> CJS-3 Principle Alignment Audit.
 
-This audit checks CJS-5 operational clusters against Chapter 01 principles:
-- CJS-5 cluster inventory and owner-routing references
+This audit checks CJS-3 operational clusters against Chapter 01 principles:
+- CJS-3 cluster inventory and owner-routing references
 - direct and inferred Chapter 01 principle basis
 - OP-O / OP-E / OP-C completeness for cluster and material sub-rules
 - weak-trace, missing-anchor, owner-drift, overreach, and OP-component findings
 
 Usage:
-  python tools/ch1_cjs5_alignment_audit.py --output-dir evidence/2026-06-06
+  python tools/ch1_cjs3_alignment_audit.py --output-dir evidence/2026-08-09
 """
 
 import argparse
@@ -22,67 +22,67 @@ from pathlib import Path
 from typing import Dict, List, Optional, Set
 
 
-CJS5_FILES = [
-    "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
-    "corpus_joint_structure/cjs_05o_oversight_operations.md",
-    "corpus_joint_structure/cjs_05p_participation_operations.md",
-    "corpus_joint_structure/cjs_05a_accountability_operations.md",
-    "corpus_joint_structure/cjs_05c_continuity_operations.md",
-    "corpus_joint_structure/cjs_05i_integrative_operations.md",
+CJS3_FILES = [
+    "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
+    "corpus_joint_structure/cjs_03o_oversight_operations.md",
+    "corpus_joint_structure/cjs_03p_participation_operations.md",
+    "corpus_joint_structure/cjs_03a_accountability_operations.md",
+    "corpus_joint_structure/cjs_03c_continuity_operations.md",
+    "corpus_joint_structure/cjs_03i_integrative_operations.md",
 ]
 
 
 EXPECTED_CLUSTER_IDS = [
-    "CJS-5.0",
-    "CJS-5.2",
-    "CJS-5.3",
-    "CJS-5.4",
-    "CJS-5.5",
-    "CJS-5.6",
-    "CJS-5.7",
-    "CJS-5.8",
-    "CJS-5.9",
-    "CJS-5.10",
-    "CJS-5.11",
-    "CJS-5.12",
-    "CJS-5.13",
-    "CJS-5.14",
-    "CJS-5.15",
-    "CJS-5.16",
-    "CJS-5.17",
-    "CJS-5.18",
-    "CJS-5.19",
-    "CJS-5.20",
-    "CJS-5.21",
-    "CJS-5.22",
-    "CJS-5.23",
+    "CJS-3.0",
+    "CJS-3.2",
+    "CJS-3.3",
+    "CJS-3.4",
+    "CJS-3.5",
+    "CJS-3.6",
+    "CJS-3.7",
+    "CJS-3.8",
+    "CJS-3.9",
+    "CJS-3.10",
+    "CJS-3.11",
+    "CJS-3.12",
+    "CJS-3.13",
+    "CJS-3.14",
+    "CJS-3.15",
+    "CJS-3.16",
+    "CJS-3.17",
+    "CJS-3.18",
+    "CJS-3.19",
+    "CJS-3.20",
+    "CJS-3.21",
+    "CJS-3.22",
+    "CJS-3.23",
 ]
 
 
 CLUSTER_PRINCIPLE_MAP = {
-    "CJS-5.0": ["2.1", "3.4", "5.2", "7.1", "7.2", "10"],
-    "CJS-5.11": ["2.1", "4", "5.2", "7.2", "10"],
-    "CJS-5.14": ["3.1", "6.1", "6.4", "7.1", "9"],
-    "CJS-5.2": ["3.2", "4", "5.2", "7.1", "7.2"],
-    "CJS-5.12": ["6.1", "6.3", "6.4", "7.1", "8", "9"],
-    "CJS-5.22": ["3.2", "6.2", "6.4", "7.1", "8", "9"],
-    "CJS-5.13": ["2.1", "3.4", "6.4", "7.1", "8", "10"],
-    "CJS-5.6": ["3.1", "3.2", "4.1", "7.1", "7.2"],
-    "CJS-5.3": ["3.2", "4", "7.1", "7.2"],
-    "CJS-5.4": ["3.2", "6.2", "6.4", "7.1", "8"],
-    "CJS-5.5": ["3.2", "3.3", "4", "7.1", "7.2"],
-    "CJS-5.7": ["2.1", "4", "5.2", "6.4", "8", "10"],
-    "CJS-5.8": ["3.4", "5.2", "7.1", "8"],
-    "CJS-5.9": ["2", "3.2", "4", "7.1", "8"],
-    "CJS-5.10": ["3.2", "6.2", "7.1", "8"],
-    "CJS-5.16": ["3.1", "4.1", "5.1", "7.1", "9"],
-    "CJS-5.17": ["5.1", "6.1", "7.1", "8", "9"],
-    "CJS-5.18": ["3.2", "6.2", "7.1", "8", "9"],
-    "CJS-5.19": ["3.1", "4.1", "5.1", "6.1", "7", "9"],
-    "CJS-5.23": ["3.1", "6.1", "6.4", "7.1", "9"],
-    "CJS-5.20": ["3.1", "4.1", "6.1", "7.1", "9"],
-    "CJS-5.21": ["3.1", "3.2", "4.1", "7.1", "7.2", "9"],
-    "CJS-5.15": ["3.1", "3.2", "4.1", "5.2", "7.1", "7.2"],
+    "CJS-3.0": ["2.1", "3.4", "5.2", "7.1", "7.2", "10"],
+    "CJS-3.11": ["2.1", "4", "5.2", "7.2", "10"],
+    "CJS-3.14": ["3.1", "6.1", "6.4", "7.1", "9"],
+    "CJS-3.2": ["3.2", "4", "5.2", "7.1", "7.2"],
+    "CJS-3.12": ["6.1", "6.3", "6.4", "7.1", "8", "9"],
+    "CJS-3.22": ["3.2", "6.2", "6.4", "7.1", "8", "9"],
+    "CJS-3.13": ["2.1", "3.4", "6.4", "7.1", "8", "10"],
+    "CJS-3.6": ["3.1", "3.2", "4.1", "7.1", "7.2"],
+    "CJS-3.3": ["3.2", "4", "7.1", "7.2"],
+    "CJS-3.4": ["3.2", "6.2", "6.4", "7.1", "8"],
+    "CJS-3.5": ["3.2", "3.3", "4", "7.1", "7.2"],
+    "CJS-3.7": ["2.1", "4", "5.2", "6.4", "8", "10"],
+    "CJS-3.8": ["3.4", "5.2", "7.1", "8"],
+    "CJS-3.9": ["2", "3.2", "4", "7.1", "8"],
+    "CJS-3.10": ["3.2", "6.2", "7.1", "8"],
+    "CJS-3.16": ["3.1", "4.1", "5.1", "7.1", "9"],
+    "CJS-3.17": ["5.1", "6.1", "7.1", "8", "9"],
+    "CJS-3.18": ["3.2", "6.2", "7.1", "8", "9"],
+    "CJS-3.19": ["3.1", "4.1", "5.1", "6.1", "7", "9"],
+    "CJS-3.23": ["3.1", "6.1", "6.4", "7.1", "9"],
+    "CJS-3.20": ["3.1", "4.1", "6.1", "7.1", "9"],
+    "CJS-3.21": ["3.1", "3.2", "4.1", "7.1", "7.2", "9"],
+    "CJS-3.15": ["3.1", "3.2", "4.1", "5.2", "7.1", "7.2"],
 }
 
 
@@ -168,7 +168,7 @@ class Cluster:
     classifications: List[str] = field(default_factory=list)
 
 
-class Ch1Cjs5AlignmentAuditor:
+class Ch1Cjs3AlignmentAuditor:
     def __init__(self, repo_root: Path):
         self.repo_root = repo_root
         self.timestamp = datetime.now().strftime("%Y-%m-%d")
@@ -210,7 +210,7 @@ class Ch1Cjs5AlignmentAuditor:
         path = self.repo_root / rel_path
         lines = path.read_text().splitlines()
         starts = []
-        cluster_pattern = re.compile(r"^##\s+(CJS-5\.\d+)\s+(.+)$")
+        cluster_pattern = re.compile(r"^##\s+(CJS-3\.\d+)\s+(.+)$")
         for idx, line in enumerate(lines):
             match = cluster_pattern.match(line)
             if match:
@@ -352,7 +352,7 @@ class Ch1Cjs5AlignmentAuditor:
                 "inferred_principles": cluster.inferred_principles,
             })
 
-        if cluster.cluster_id.startswith("CJS-5.") and cluster.cluster_id not in {"CJS-5.0", "CJS-5.1"}:
+        if cluster.cluster_id.startswith("CJS-3.") and cluster.cluster_id not in {"CJS-3.0", "CJS-3.1"}:
             trace_match = re.search(
                 r"<details>\s*\n<summary><strong><span style=\"color: #2563eb;\">Trace</span></strong></summary>\s*\n(.*?)\n</details>",
                 cluster.body,
@@ -413,7 +413,7 @@ class Ch1Cjs5AlignmentAuditor:
         return sorted(classifications)
 
     def run(self) -> None:
-        for rel_path in CJS5_FILES:
+        for rel_path in CJS3_FILES:
             self.clusters.extend(self._extract_clusters_from_file(rel_path))
 
         discovered = {cluster.cluster_id for cluster in self.clusters}
@@ -421,18 +421,18 @@ class Ch1Cjs5AlignmentAuditor:
             if expected not in discovered:
                 self.gaps["inventory"].append({
                     "cluster_id": expected,
-                    "issue": "Expected CJS-5 cluster heading not discovered.",
+                    "issue": "Expected CJS-3 cluster heading not discovered.",
                 })
         for cluster in self.clusters:
             if cluster.cluster_id not in EXPECTED_CLUSTER_IDS:
-                if cluster.cluster_id == "CJS-5.1":
+                if cluster.cluster_id == "CJS-3.1":
                     continue
                 self.gaps["inventory"].append({
                     "cluster_id": cluster.cluster_id,
                     "title": cluster.title,
                     "file": cluster.file,
                     "line": cluster.start_line,
-                    "issue": "Unexpected CJS-5 cluster heading discovered.",
+                    "issue": "Unexpected CJS-3 cluster heading discovered.",
                 })
 
         for cluster in self.clusters:
@@ -444,7 +444,7 @@ class Ch1Cjs5AlignmentAuditor:
             cluster.classifications = self._classify_cluster(cluster)
 
     def write_report(self, output_dir: Path) -> Path:
-        path = output_dir / f"ch1_cjs5_principle_alignment_report_{self.timestamp}.md"
+        path = output_dir / f"ch1_cjs3_principle_alignment_report_{self.timestamp}.md"
         total = len(self.clusters)
         complete = sum(1 for c in self.clusters if c.classifications == ["complete"])
         op_gap_count = len(self.gaps["op_component_gap"])
@@ -455,17 +455,17 @@ class Ch1Cjs5AlignmentAuditor:
         inventory_count = len(self.gaps["inventory"])
 
         lines = [
-            "# Chapter 01 -> CJS-5 Principle Alignment Audit Report",
+            "# Chapter 01 -> CJS-3 Principle Alignment Audit Report",
             "",
             f"**Date:** {self.timestamp}",
-            "**Workflow:** CH1_CJS5_PRINCIPLE_ALIGNMENT_CHECK",
+            "**Workflow:** CH1_CJS3_PRINCIPLE_ALIGNMENT_CHECK",
             "**Auditor:** Automated static extraction with manual-review flags",
             "",
             "## Executive Summary",
             "",
             "| Metric | Result | Status |",
             "|---|---:|---|",
-            f"| CJS-5 clusters discovered | {total}/23 | {'PASS' if total == 23 and inventory_count == 0 else 'REVIEW'} |",
+            f"| CJS-3 clusters discovered | {total}/23 | {'PASS' if total == 23 and inventory_count == 0 else 'REVIEW'} |",
             f"| Clusters with complete OP-O/OP-E/OP-C triads | {total - len({g['cluster_id'] for g in self.gaps['op_component_gap']})}/{total} | {'PASS' if op_gap_count == 0 else 'REVIEW'} |",
             f"| Clusters with direct Chapter 01 citations | {total - weak_trace_count - missing_anchor_count}/{total} | REVIEW |",
             f"| Clusters with inferred Chapter 01 basis | {total - missing_anchor_count}/{total} | {'PASS' if missing_anchor_count == 0 else 'REVIEW'} |",
@@ -478,11 +478,11 @@ class Ch1Cjs5AlignmentAuditor:
 
         if op_gap_count == 0 and missing_anchor_count == 0 and owner_drift_count == 0 and overreach_count == 0:
             lines.append(
-                "CJS-5 is operationally aligned with Chapter 01 at the structural level: all expected clusters were found, all operational rules carry complete `OP-O` / `OP-E` / `OP-C` triads, and each cluster has an inferred Chapter 01 principle basis. The main audit finding is trace explicitness: most CJS-5 clusters rely on owner-file and subject-matter routing rather than direct Chapter 01 citations."
+                "CJS-3 is operationally aligned with Chapter 01 at the structural level: all expected clusters were found, all operational rules carry complete `OP-O` / `OP-E` / `OP-C` triads, and each cluster has an inferred Chapter 01 principle basis. The main audit finding is trace explicitness: most CJS-3 clusters rely on owner-file and subject-matter routing rather than direct Chapter 01 citations."
             )
         else:
             lines.append(
-                "CJS-5 has review items requiring editorial judgment before it should be treated as fully aligned. See the findings below."
+                "CJS-3 has review items requiring editorial judgment before it should be treated as fully aligned. See the findings below."
             )
 
         lines.extend([
@@ -532,20 +532,20 @@ class Ch1Cjs5AlignmentAuditor:
         lines.extend([
             "## Remediation Roadmap",
             "",
-            "1. Treat `weak_trace` items as advisory unless the project wants every CJS-5 cluster to cite Chapter 01 directly.",
-            "2. If direct traceability is desired, add concise `Read it with` bullets to high-risk clusters first: CJS-5.14, CJS-5.12, CJS-5.22, CJS-5.7–CJS-5.10.*, CJS-5.16–CJS-5.18.*, and CJS-5.19–CJS-5.15.*.",
-            "3. Keep remediation text limited to routing metadata; do not convert CJS-5 into a competing Chapter 01 or Chapter Five doctrine layer.",
+            "1. Treat `weak_trace` items as advisory unless the project wants every CJS-3 cluster to cite Chapter 01 directly.",
+            "2. If direct traceability is desired, add concise `Read it with` bullets to high-risk clusters first: CJS-3.14, CJS-3.12, CJS-3.22, CJS-3.7–CJS-3.10.*, CJS-3.16–CJS-3.18.*, and CJS-3.19–CJS-3.15.*.",
+            "3. Keep remediation text limited to routing metadata; do not convert CJS-3 into a competing Chapter 01 or Chapter Five doctrine layer.",
             "",
             "## Manual Review Notes",
             "",
-            "High-risk families for human review are CJS-5.11–CJS-5.13, CJS-5.7–CJS-5.10, CJS-5.16–CJS-5.18, and CJS-5.19–CJS-5.15. The automated pass checks structure and trace signals; semantic adequacy should be reviewed against the operative text before making corpus edits.",
+            "High-risk families for human review are CJS-3.11–CJS-3.13, CJS-3.7–CJS-3.10, CJS-3.16–CJS-3.18, and CJS-3.19–CJS-3.15. The automated pass checks structure and trace signals; semantic adequacy should be reviewed against the operative text before making corpus edits.",
             "",
         ])
         path.write_text("\n".join(lines))
         return path
 
     def write_matrix(self, output_dir: Path) -> Path:
-        path = output_dir / f"ch1_cjs5_traceability_matrix_{self.timestamp}.csv"
+        path = output_dir / f"ch1_cjs3_traceability_matrix_{self.timestamp}.csv"
         with path.open("w", newline="") as f:
             writer = csv.writer(f)
             writer.writerow([
@@ -580,10 +580,10 @@ class Ch1Cjs5AlignmentAuditor:
         return path
 
     def write_log(self, output_dir: Path) -> Path:
-        path = output_dir / f"ch1_cjs5_audit_log_{self.timestamp}.json"
+        path = output_dir / f"ch1_cjs3_audit_log_{self.timestamp}.json"
         data = {
             "timestamp": self.timestamp,
-            "workflow": "CH1_CJS5_PRINCIPLE_ALIGNMENT_CHECK",
+            "workflow": "CH1_CJS3_PRINCIPLE_ALIGNMENT_CHECK",
             "principles": self.principles,
             "expected_cluster_ids": EXPECTED_CLUSTER_IDS,
             "clusters": [
@@ -619,7 +619,7 @@ class Ch1Cjs5AlignmentAuditor:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Chapter 01 -> CJS-5 principle alignment audit")
+    parser = argparse.ArgumentParser(description="Chapter 01 -> CJS-3 principle alignment audit")
     parser.add_argument("--repo-root", type=Path, default=Path("."), help="Repository root")
     parser.add_argument(
         "--output-dir",
@@ -630,13 +630,13 @@ def main() -> None:
     args = parser.parse_args()
 
     args.output_dir.mkdir(parents=True, exist_ok=True)
-    auditor = Ch1Cjs5AlignmentAuditor(args.repo_root)
+    auditor = Ch1Cjs3AlignmentAuditor(args.repo_root)
     auditor.run()
     report = auditor.write_report(args.output_dir)
     matrix = auditor.write_matrix(args.output_dir)
     log = auditor.write_log(args.output_dir)
 
-    print("Chapter 01 -> CJS-5 alignment audit complete.")
+    print("Chapter 01 -> CJS-3 alignment audit complete.")
     print(f"Report: {report}")
     print(f"Matrix: {matrix}")
     print(f"Audit log: {log}")

@@ -20,13 +20,13 @@ This file is the institutional implementation home for **CI-8** (*Transparency, 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-8.1: Stakeholder oversight, notification, and binding-governance pathway integrity](#ci-81-stakeholder-oversight-notification-and-binding-governance-pathway-integrity); [CI-8.2: Anti-concentration and participation-legitimacy safeguards](#ci-82-anti-concentration-and-participation-legitimacy-safeguards); [CI-8.3: Digital self-service pathway integrity](#ci-83-digital-self-service-pathway-integrity).
 - Read with: **CI-8**; **CI-8.1**; **CI-8.2**; **CI-12**; **CI-8.3**; **CI-10.2**; **CI-10**.
-- Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router*); primary owner **CF-5**.
-- Topic routing (mandatory read-with): **CJS-R08** (*Independent investigative service and prosecution interface*) in **CJS-2.1** (*Topic router*); primary owner **CF-9**.
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router*); primary owner **CJS-4.3**.
-- Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-2.1** (*Topic router*); primary owner **CJS-5.6**.
+- Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-0.1** (*Topic router*); primary owner **CF-5**.
+- Topic routing (mandatory read-with): **CJS-R08** (*Independent investigative service and prosecution interface*) in **CJS-0.1** (*Topic router*); primary owner **CF-9**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
+- Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.1** (*Topic router*); primary owner **CJS-3.6**.
 
 </details>
 
@@ -56,7 +56,7 @@ This file is the institutional implementation home for **CI-8** (*Transparency, 
 
 <br>
 
-*In plain terms: **CI-8** is the institutions layer's "can ordinary sentients see, understand, participate in, and challenge governance?" rulebook — how institutions publish understandable information, keep participation routes open, protect sentients who speak up, and make digital and paper pathways actually work. Institutions must not require a lawyer, a marathon attention span, or insider status to understand how a decision will affect them, weigh in before it binds you, or leave a service you joined online. Shared comprehensibility and participation floors live in **CJS-5.8** (*comprehensibility and cognitive accessibility terms*); stakeholder notice and binding-governance pathways live in **CJS-5.7** (*quorum and participatory legitimacy terms*); anti-concentration safeguards live in **CJS-5.11** (*distributed and proportional authority terms*); digital self-service exit rules live in **CJS-5.17** (*interoperability, portability, and exit-integrity terms*). What this file adds is local: what each institution must publish and maintain locally.*
+*In plain terms: **CI-8** is the institutions layer's "can ordinary sentients see, understand, participate in, and challenge governance?" rulebook — how institutions publish understandable information, keep participation routes open, protect sentients who speak up, and make digital and paper pathways actually work. Institutions must not require a lawyer, a marathon attention span, or insider status to understand how a decision will affect them, weigh in before it binds you, or leave a service you joined online. Shared comprehensibility and participation floors live in **CJS-3.8** (*comprehensibility and cognitive accessibility terms*); stakeholder notice and binding-governance pathways live in **CJS-3.7** (*quorum and participatory legitimacy terms*); anti-concentration safeguards live in **CJS-3.11** (*distributed and proportional authority terms*); digital self-service exit rules live in **CJS-3.17** (*interoperability, portability, and exit-integrity terms*). What this file adds is local: what each institution must publish and maintain locally.*
 
 **Quick orientation**
 
@@ -69,9 +69,9 @@ This file is the institutional implementation home for **CI-8** (*Transparency, 
 
 *In plain terms: dumping data is not transparency. If affected sentients cannot understand a decision, use the participation route, challenge a bad outcome, or exit an online commitment without dark patterns, the institution is not meeting its duties — no matter how many pages it published.*
 
-*Shared rules live elsewhere.* Participation, challenge, accessibility, protected escalation, and anti-retaliation floors are in **CJS-5.8** (*comprehensibility and cognitive accessibility terms*). Stakeholder oversight and binding-governance pathway integrity are in **CJS-5.7** (*quorum and participatory legitimacy terms*). Anti-concentration guardrails are in **CJS-5.11** (*distributed and proportional authority terms*). Digital self-service pathway integrity is in **CJS-5.17** (*interoperability, portability, and exit-integrity terms*). **CI-8** does not repeat those floors; it keeps only institutional publication, office, record, escalation, and stewardship-development pathway application duties linked to **Article III-B** (*Equal Educational Access*) and **Chapter Six**, section 5.
+*Shared rules live elsewhere.* Participation, challenge, accessibility, protected escalation, and anti-retaliation floors are in **CJS-3.8** (*comprehensibility and cognitive accessibility terms*). Stakeholder oversight and binding-governance pathway integrity are in **CJS-3.7** (*quorum and participatory legitimacy terms*). Anti-concentration guardrails are in **CJS-3.11** (*distributed and proportional authority terms*). Digital self-service pathway integrity is in **CJS-3.17** (*interoperability, portability, and exit-integrity terms*). **CI-8** does not repeat those floors; it keeps only institutional publication, office, record, escalation, and stewardship-development pathway application duties linked to **Article III-B** (*Equal Educational Access*) and **Chapter Six**, section 5.
 
-Apply **CJS-5.8** **Institutional participation and pathway accessibility floor** for the shared understandability, participation, challenge, accessibility, protected-escalation, and anti-retaliation floor. **CI-8** states only local publication, office, record, escalation, and stewardship-development pathway owner duties.
+Apply **CJS-3.8** **Institutional participation and pathway accessibility floor** for the shared understandability, participation, challenge, accessibility, protected-escalation, and anti-retaliation floor. **CI-8** states only local publication, office, record, escalation, and stewardship-development pathway owner duties.
 
 ## CI-8.1: Stakeholder oversight, notification, and binding-governance pathway integrity
 <details>
@@ -85,7 +85,7 @@ Apply **CJS-5.8** **Institutional participation and pathway accessibility floor*
 
 *In plain terms: when an institution asks for your input on something that will really bind you, it must say so clearly — who counts as affected, how long you have to respond, what happens to your submission, and what exit or adaptation consequences the decision may create. Symbolic consultation does not count as binding governance, and binding governance cannot be hidden as optional feedback.*
 
-Apply **CJS-5.7** **Stakeholder oversight and binding-governance pathway integrity** for the shared floor. **CI-8.1** keeps only what each institution must name and maintain locally:
+Apply **CJS-3.7** **Stakeholder oversight and binding-governance pathway integrity** for the shared floor. **CI-8.1** keeps only what each institution must name and maintain locally:
 
 - who owns **stakeholder-status** identification for each materially binding governance pathway in scope;
 - a **participation-window file** showing open and close timing, eligible participants, and practical engagement routes for each binding decision event;
@@ -117,7 +117,7 @@ Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#bindi
 
 *In plain terms: institutions must watch whether participation is getting captured or dominated — by a single stakeholder class, a concentration of weight, or informal power — and publish how weighting works, what triggers remediation, and where to escalate through **CI-12** when the fix stalls.*
 
-Apply **CJS-5.11** **Anti-concentration guardrails and trigger mitigation** and **CJS-5.8** **Institutional participation and pathway accessibility floor** for the shared concentration and participation-legitimacy floors. **CI-8.2** keeps only what each institution must name and maintain locally:
+Apply **CJS-3.11** **Anti-concentration guardrails and trigger mitigation** and **CJS-3.8** **Institutional participation and pathway accessibility floor** for the shared concentration and participation-legitimacy floors. **CI-8.2** keeps only what each institution must name and maintain locally:
 
 - who owns the **concentration monitor** for participation-weight and legitimacy risk in the institution's governance pathways;
 - a **weighting publication file** explaining how **Stakeholder Weight** is assigned, bounded, and revalidated;
@@ -140,7 +140,7 @@ Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#bindi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-8.3**; **CI-10.2**; **CI-10**; **CJS-5.17** (*interoperability, portability, and exit-integrity terms*).
+- Read with: **CI-8.3**; **CI-10.2**; **CI-10**; **CJS-3.17** (*interoperability, portability, and exit-integrity terms*).
 
 </details>
 
@@ -148,7 +148,7 @@ Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#bindi
 
 *In plain terms: if you can subscribe online, you should be able to manage, downgrade, renew, or cancel through the same kind of self-service path — without dark patterns, hidden phone-only exits, or billing that keeps running after you thought you left. Institutions that supervise those services must name who watches operators and how billing complaints route to **CI-10.2**.*
 
-Apply **CJS-5.17** **Digital self-service pathway integrity** for the shared floor. **CI-8.3** keeps only what each institution must name and maintain locally:
+Apply **CJS-3.17** **Digital self-service pathway integrity** for the shared floor. **CI-8.3** keeps only what each institution must name and maintain locally:
 
 - who owns **digital pathway supervision** for user-facing self-service enrollment, account management, downgrade, renewal, and exit in scope the institution supervises, authorizes, or sets compliance expectations for;
 - an **operator-artifact file** showing how supervised operators map entry, management, downgrade, renewal, accessibility, and exit paths — including evidence of obligation release or billing cessation where applicable;

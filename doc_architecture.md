@@ -35,13 +35,13 @@ Filename renames require: reference audit, same-change link updates, dated evide
 |--------|--------------|---------|
 | Values, definition mechanics, definitions | Sentient Constitution `core_*` Ch 1–5 | [README.md](README.md) reading order |
 | Rights (Articles I–XXVI) | Ch 6 | `core_06-06_rights_part_*.md`; titles via `make reference-audit` |
-| System alignment certification | Ch 7 | `core_07_a_system_alignment_certification_evaluation.md` (Part A — evaluation); `core_07_b_system_alignment_certification_record_process.md` (Part B — record and process); reading index: `core_07-07_system_alignment_certification.md`. Under **oversight**, oversight requires auditing (**Article XV** / [Auditability](core_05_band_oversight.md#auditability) / **[CJS-5.3 audit process home](corpus_joint_structure/cjs_05_audit_process.md#cjs-53-audit-process-home)** and **CJS-5.3**–**CJS-5.5** OP annexes); Ch 7 is one especially large, high-stakes audit process among others — not the sole auditing home. |
+| System alignment certification | Ch 7 | `core_07_a_system_alignment_certification_evaluation.md` (Part A — evaluation); `core_07_b_system_alignment_certification_record_process.md` (Part B — record and process); reading index: `core_07-07_system_alignment_certification.md`. Under **oversight**, oversight requires auditing (**Article XV** / [Auditability](core_05_band_oversight.md#auditability) / **[CJS-3.3 audit process home](corpus_joint_structure/cjs_03_audit_process.md#cjs-33-audit-process-home)** and **CJS-3.3**–**CJS-3.5** OP annexes); Ch 7 is one especially large, high-stakes audit process among others — not the sole auditing home. |
 | Standing records and measurement (Questions 1 and 2) | Ch 8 | `core_08-08_standing_assessment.md`; verified records and Contribution Axis / Violation Axis slots |
 | Standing integration and effects (Question 3) | Ch 9 | `core_09-09_standing_integration.md`; violation, correction, and prevention before contribution gates, with lock design and enforcement, then final effect, restoration, and enforcement |
 | Anti-constitutional-misconduct designation | Ch 10 | `core_10_a_misconduct_designation.md` (Part A — designation criteria and safeguards); `core_10_b_misconduct_pattern_applications.md` (Part B — named pattern applications); designation only for qualifying fixed Ch 8 Violation Axis `s = 7–9` findings |
 | Forums (constitutional) | Ch 11 | `core_11-11_forum.md`; forum families, jurisdiction, supervision, and cross-forum anti-self-judging; [README navigation](README.md#standing-pipeline-and-forums) |
 | Governance / amendment / incorporation | Ch 12–16 | `core_12-12_governance.md`, `core_13-15_amendment.md`, `core_16-16_incorporation.md` |
-| Cross-implementation joint structure | CJS | **CJS-2.1** (*Topic router*) |
+| Cross-implementation joint structure | CJS | **CJS-0.1** (*Topic router*) |
 | Systems, institutions, forum operations | CS / CI / CF | Companion wrappers + subfiles |
 
 **Footer policy:** `make footer-audit`. Optional `*Corpus alignment:*` cites [README.md](README.md) edition metadata and [Chapter Five *Corpus*](core_05_band_integrative.md#corpus).
@@ -71,12 +71,12 @@ Machine-checkable rules: [tools/architecture/rule_registry.json](tools/architect
 - **Measurement frame (Preamble §2):** Eight constitutional measurement categories in [Measurements Overview](core_00_preamble.md#measurements-overview) link directly to their Chapter Five **measurement-family homes** (category column) and to canonical definitions (subcategory column); the family table, constitutional use, and definition routing live on the Chapter Five homes. **Family-home map:** Threshold/scaling and Oversight → [`core_05o`](core_05_apex_oversight_leg.md#oversight-measurement-family); Flourishing → [`core_05f`](core_05_apex_flourishing_aim.md#flourishing-measurement-family); Continuity → [`core_05g`](core_05_apex_continuity_aim.md#continuity-measurement-family); Participation → [`core_05p`](core_05_apex_participation_leg.md#participation-measurement-family); Accountability → [`core_05a`](core_05_apex_accountability_leg.md#accountability-measurement-family); Timeliness → [`core_05t`](core_05_apex_timeliness_leg.md#timeliness-measurement-family); Constitutional Performance → [`core_05m`](core_05_band_performance.md#performance-measurement-family). Home-section anchors use the `#…-measurement-family` suffix (skipped as non-leaf routing anchors by `make ch5-measurement-coverage-audit`). **Category-stub removal (2026-07):** the former Preamble §3 *Major Measurement Aspects* stubs and their `#measuring-*` category anchors were removed; the §2 overview links straight to Chapter Five, and Chapter Five definitions no longer back-link to Preamble category anchors. [§3.1 Using Measurements in Governance](core_00_preamble.md#from-measurement-to-evidence-and-remedy) routes measurement → certification (Chapter Seven), standing records (Chapter Eight), remedy (Chapter Nine), forum review (Chapter Eleven). **Standing measurement** (Chapter Eight contribution/violation axis measurement) is a *process* concept distinct from **constitutional measurement** categories (Preamble §2), which supply the evidentiary frame for what gets verified before records enter the standing pipeline.
 - **Standing:** Chapter Eight owns Questions 1 and 2 (**verified** standing records and Contribution Axis / Violation Axis measurement). Chapter Nine accepts those inputs as immutable and owns Question 3 integration and effects. Chapter Ten owns designation only. Chapter Eleven forums may **open, update, or correct** standing records — or **set a bad record aside on challenge** — from verified findings. Boundary gloss: a **filed case** is not standing by itself. Prefer **case** (forum matter / dispute filing) over **claim** in that contrast; keep **claim** for dispute-phase inventory labels (*unadjudicated claims*) and other established senses.
 - **Rights:** Chapter Six; implementation files **cite** articles.
-- **Joint operational terms:** `corpus_joint_structure.md` only — route via **CJS-2.1**.
+- **Joint operational terms:** `corpus_joint_structure.md` only — route via **CJS-0.1**.
 - **Operational taxonomies:** **CS-2**, **CS-2**, **CS-2** and named protocols.
 
 ### CJS owner rule
 
-Use **CJS** only for cross-implementation interface terms with no stable single-file home. Reusable joint terms → **CJS-5** clusters; **CJS-4** interlocks point to **CJS-5** and the primary owner named in **CJS-2.1**. Escalate to Chapter Five when constitutional meaning is at stake.
+Use **CJS** only for cross-implementation interface terms with no stable single-file home. Reusable joint terms → **CJS-3** clusters; **CJS-2** interlocks point to **CJS-3** and the primary owner named in **CJS-0.1**. Escalate to Chapter Five when constitutional meaning is at stake.
 
 ### Chapter Five admission gate
 
@@ -107,12 +107,12 @@ Keep constitutional concept + O/M/A/C boundary only; cite owner homes for instit
 | GLOSS-SUBARTICLE | Chapter Six `*In plain terms:*` on subarticles | `make subarticle-gloss-audit` |
 | GLOSS-ARTICLE-NEIGHBORS | Chapter Six `*Article neighbors:*` article-intro coordination | editorial pattern in **section 4** |
 | OWNER-SINGLE-HOME | Competing O/M/A/C gloss heuristics | `make owner-discipline-audit` |
-| DEF-APPROPRIATENESS | Unified definition placement (core vs CJS-5 vs implementation) | `make definition-appropriateness-audit` (advisory; ledger at `evidence/definition_audit/ledger.json`) |
+| DEF-APPROPRIATENESS | Unified definition placement (core vs CJS-3 vs implementation) | `make definition-appropriateness-audit` (advisory; ledger at `evidence/definition_audit/ledger.json`) |
 | REF-ARTICLES | Article titles and Roman numerals; prose cite gloss per **section 7** | `make reference-audit` |
 | MEAS-ANCHOR | No links to removed Preamble §3 `#measuring-*` category anchors | `make measurement-anchor-audit` |
 | MEAS-DEF-01 | Definition-anchored measurement tiers inform A/C authoring | `make ch5-measurement-tier-audit` and `make ch5-measurement-coverage-audit`; seeds at [tools/architecture/measurement_tier_seeds.json](tools/architecture/measurement_tier_seeds.json); editorial progress report (not corpus text): [doc_architecture/generated/measurement_rollout_status.md](doc_architecture/generated/measurement_rollout_status.md) |
 | CH5-HIER-01 | Definition hierarchy layers, tags, and placement rules | `make hierarchy-map` (generated index) |
-| ROUTER-CJS21 | Cross-implementation routing | `make router-bidirectional-audit` |
+| ROUTER-CJS01 | Cross-implementation routing | `make router-bidirectional-audit` |
 
 Historical D/A/C rollout: [archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md](archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md).
 
@@ -316,7 +316,7 @@ Chapter Five organizes **226+ canonical definitions** across principle layer, co
 
 `*Article neighbors:*` — visible, article-scoped coordination prose for average readers. It explains how the current article sits next to neighboring articles, chapters, or interpretive hubs — extension, governance split, mutual reinforcement, certification non-substitution, or hub routing **without narrowing** upstream Rights Floors.
 
-**Distinct from Trace.** Trace `Read with:` carries mandatory corpus routing for integrators and auditors (`Upstream:`, `Downstream:`, `Read with:`). `*Article neighbors:*` is reader-facing orientation in visible article prose. It does not replace Trace routing or CJS-2.1 integrator tables.
+**Distinct from Trace.** Trace `Read with:` carries mandatory corpus routing for integrators and auditors (`Upstream:`, `Downstream:`, `Read with:`). `*Article neighbors:*` is reader-facing orientation in visible article prose. It does not replace Trace routing or CJS-0.1 integrator tables.
 
 **Typical intro stack** (when an article carries aims/tetrad framing):
 
@@ -404,12 +404,12 @@ Each layer’s first substantive file (`cjs_01_*`, `cs_01_*`, `ci_01_*`, `cf_01_
 3. One-line `*In plain terms:*` — what this layer is for.
 4. **What this layer owns** — bullets naming the layer’s operative homes.
 5. **What this layer does not own** — bullets naming the correct home after an em dash (core chapters, sibling layers, or **CJS** as applicable).
-6. **Read next** — short pointers to the next substantive file, the `*_00` registry annex if needed, and any CJS-owned shared contract / reading-order homes.
+6. **Read next** — short pointers to the next substantive file, the `*_00` registry annex if needed, and any CJS-owned shared contract / reading-order homes. Prefer a collapsed **Reader guidance (non-operative): Read next** widget when the list is orientation-only (see **NAV-READER-06**); keep it as visible bullets only when a short binding continue-here cue is still needed.
 
 **Subsections under `*-1`:**
 
 - Add `### XX-1.n` only for **layer-unique** elaboration that does not belong in the owns / does-not-own lists.
-- **CJS-only** substance that other layers must cite — shared contract (**CJS-1.2**), identifiers (**CJS-1.3**), parse mechanics (**CJS-1.4** / **CJS-1.5**), default reading stack, and the constitutional-vs-joint-operational-definition distinction — lives in **CJS-1** (and its subsections). **CS** / **CI** / **CF** point to those homes; they do not restate them.
+- **CJS-only** substance that other layers must cite — purpose of the joint layer / implementation-corpus gateway (**CJS-1.0**), shared contract (**CJS-1.2**), parse mechanics (**CJS-1.11**–**CJS-1.13**), default reading stack, and the constitutional-vs-joint-operational-definition distinction — lives in **CJS-1** (and its subsections). **CS** / **CI** / **CF** point to those homes; they do not restate them. Applicability, combined satisfaction, and stricter-wins among jointly applicable incorporated obligations live in **Chapter One §8.4.4** and **§8.4.3**; CJS cites those homes and does not restate them.
 - Do **not** restate owns / does-not-own lists inside a `*-1.1` subsection when the file-level lists already state them.
 
 **Placement rules:**
@@ -417,10 +417,13 @@ Each layer’s first substantive file (`cjs_01_*`, `cs_01_*`, `ci_01_*`, `cf_01_
 | Content | Home |
 |---|---|
 | What the layer owns / does not own | File-level lists on that layer’s `*-1` |
+| Purpose of the joint layer / implementation-corpus gateway | **CJS-1.0** only |
 | Default cross-layer reading stack | **CJS-1.1** only |
 | Constitutional vs joint operational definitions | **CJS-1.1** only (other layers may keep one short pointer bullet) |
 | Shared implementation-corpus contract | **CJS-1.2** only |
-| Identifier / label rules | **CJS-1.3** + each layer’s `*_00` registry annex |
+| Applicability, combined satisfaction, and stricter-wins for jointly applicable incorporated obligations | **Chapter One §8.4.4** / **§8.4.3** (CJS-0.1 identifies which files the facts require) |
+| Identifier / label rules | **CJS-1.11** + each layer’s `*_00` registry annex |
+| Parse mechanics (OP-O / OP-E / OP-C; operational clusters) | **CJS-1.11**–**CJS-1.13** |
 | Specialty classification examples | Owner taxonomy file (for example **CS-3**), not the `*-1` boundary page |
 
 **Trace Upstream** for `*-1` boundary pages should cite the joint boundary home (**CJS-1.1**) or the relevant core chapter — not **CJS-1.2** unless the subsection is itself the shared-contract owner.
@@ -460,7 +463,7 @@ Capitalize **Constitutional Tetrad**, **Two Constitutional Aims**, **Flourishing
 
 ### Order and single-home discipline
 
-Chapter Five editorial order: `make ch5-entry-format-audit`, `make ch5-alphabetical-directory-audit`, `make ch5-cluster-order-audit`, `make ch5-constitutional-cluster-audit`. For drift-prone concepts: one canonical paragraph (**section 2**; **CJS-2.1**); elsewhere pointers only.
+Chapter Five editorial order: `make ch5-entry-format-audit`, `make ch5-alphabetical-directory-audit`, `make ch5-cluster-order-audit`, `make ch5-constitutional-cluster-audit`. For drift-prone concepts: one canonical paragraph (**section 2**; **CJS-0.1**); elsewhere pointers only.
 
 **Precedence:** (1) Sentient Constitution values/rights; (2) Ch 2–3 for term meaning; (3) CS-2/4/5 for Type/Class/steward assignment; (4) stricter applicable rule where declared.
 
@@ -472,12 +475,12 @@ Do not maintain hand-edited article or implementation maps here.
 
 - **Sentient Constitution chapters:** [README.md](README.md) inventory.
 - **Article titles / Roman numerals:** `make reference-audit` / Chapter Six part files.
-- **Cross-implementation routing:** **CJS-2.1** in [`cjs_00_registry_and_reading_rules.md`](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids); `make router-bidirectional-audit`.
+- **Cross-implementation routing:** **CJS-0.1** in [`cjs_00_registry_and_reading_rules.md`](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); `make router-bidirectional-audit`.
 - **Generated stable-ID index:** [doc_architecture/generated/stable_id_index.md](doc_architecture/generated/stable_id_index.md) via `make architecture-index`.
 - **Definition hierarchy index (generated):** [doc_architecture/generated/definition_hierarchy.md](doc_architecture/generated/definition_hierarchy.md) via `make hierarchy-map`; machine JSON alongside. CH5-HIER-01 tag vocabulary in **section 4**.
-- **Topic router reader index (generated, human view):** [doc_architecture/generated/topic_router_reader_index.md](doc_architecture/generated/topic_router_reader_index.md) — plain-language grouped index derived from **CJS-2.1** (housed in the **CJS-0** registry annex; no dedicated **CJS-2** family file); reading guidance and two-tier plain view in **CJS-0.1** ([cjs_00_registry_and_reading_rules.md](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)). Authoritative mandatory read-with lists remain in the integrator table.
-- **CI-primary router slice (generated, integrator view):** [doc_architecture/generated/ci_primary_router_index.md](doc_architecture/generated/ci_primary_router_index.md) — filter of **CJS-2.1** rows whose primary owner is **CI**; do not duplicate in `corpus_institutions/` operative text.
-- **CJS cluster bands:** Oversight **CJS-5.2–5.6**, Participation **CJS-5.7–5.10**, Accountability **CJS-5.11–5.15**, Continuity **CJS-5.16–5.21**, Integrative **CJS-5.22–5.23** — see [CJS-5.1 compass](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) and [corpus_joint_structure.md](corpus_joint_structure.md).
+- **Topic router reader index (generated, human view):** [doc_architecture/generated/topic_router_reader_index.md](doc_architecture/generated/topic_router_reader_index.md) — plain-language grouped index derived from **CJS-0.1** (housed in the **CJS-0** registry annex; no dedicated **CJS-0.1** family file); reading guidance and two-tier plain view in **CJS-0.1** ([cjs_00_registry_and_reading_rules.md](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)). Authoritative mandatory read-with lists remain in the integrator table.
+- **CI-primary router slice (generated, integrator view):** [doc_architecture/generated/ci_primary_router_index.md](doc_architecture/generated/ci_primary_router_index.md) — filter of **CJS-0.1** rows whose primary owner is **CI**; do not duplicate in `corpus_institutions/` operative text.
+- **CJS cluster bands:** Oversight **CJS-3.2–5.6**, Participation **CJS-3.7–5.10**, Accountability **CJS-3.11–5.15**, Continuity **CJS-3.16–5.21**, Integrative **CJS-3.22–5.23** — see [CJS-3.1 compass](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) and [corpus_joint_structure.md](corpus_joint_structure.md).
 - **CS stable IDs:** [corpus_systems/cs_00_registry_and_reading_rules.md](corpus_systems/cs_00_registry_and_reading_rules.md).
 
 ---
@@ -498,8 +501,8 @@ flowchart TB
     C16[Ch16 incorporation]
   end
   subgraph cjs [CJS]
-    R[CJS-2.1 router]
-    P[CJS-4 / CJS-5]
+    R[CJS-0.1 router]
+    P[CJS-2 / CJS-3]
   end
   subgraph impl [CS CI CF]
     OPS[protocols and operations]
@@ -514,7 +517,7 @@ flowchart TB
 
 - **Rights:** `Sentient Constitution Ch 6 Art III` or spelled-out article cite.
 - **Standing / forums:** Ch 8 for Questions 1 and 2 records and measurement; Ch 9 for Question 3 effects; Ch 10 for designation; Ch 11 for forum supervision and allegations.
-- **CJS:** specific **CJS-5.*n*** heading; router **CJS-2.1**.
+- **CJS:** specific **CJS-3.*n*** heading; router **CJS-0.1**.
 - **CS / CI / CF:** named chapter or section label in the companion file.
 
 ### Chapter Six article and subarticle cite gloss (REF-ARTICLES-GLOSS)
@@ -542,7 +545,7 @@ Examples: `**Article XV-C** (*Verification Accessibility*)`; `**Article XXIV-C**
 ## 8. Dependency order for editing
 
 1. Ch 1 → Ch 2–4 → Ch 5 → Ch 6 → Ch 7 → Ch 8 → Ch 9 → Ch 10 → Ch 11 → Ch 12 → Ch 13–15 → Ch 16.
-2. Then **CJS-4.3** / **CJS-5**, then **CS-2 → CS-3 → CS-4**, then **Protocol A → B → S4 → S5**.
+2. Then **CJS-2.3** / **CJS-3**, then **CS-2 → CS-3 → CS-4**, then **Protocol A → B → S4 → S5**.
 
 Redundancy sweeps: center-out from Chapter Five definitions (**section 13**).
 
@@ -550,7 +553,7 @@ Redundancy sweeps: center-out from Chapter Five definitions (**section 13**).
 
 ## 9. Anti-patterns
 
-- Long operational checklists in the Sentient Constitution without a rights or **CJS-5** hook.
+- Long operational checklists in the Sentient Constitution without a rights or **CJS-3** hook.
 - New rights defined only in implementation files.
 - Duplicate Type/Class definitions in Chapter Five (prefer CS-2/CS-3).
 - Silent deletion of ambiguous article references.
@@ -567,7 +570,7 @@ Redundancy sweeps: center-out from Chapter Five definitions (**section 13**).
 
 - Prefer **CS-2** over legacy “Chapter Two (Information Types…)” wording inside CS text.
 - **CS-2** is split: Part A (`cs_02_a_information_types_and_handling.md`, §1–§7 handling rules); Part B (`cs_02_b_data_classifications.md`, §8 type descriptions).
-- **CJS-4** and **CJS-5** are the live citation grammar for `corpus_joint_structure.md`.
+- **CJS-2** and **CJS-3** are the live citation grammar for `corpus_joint_structure.md`.
 - Route cross-implementation choreography to CJS; local doctrine to CS / CI / CF per **section 4**.
 
 ---

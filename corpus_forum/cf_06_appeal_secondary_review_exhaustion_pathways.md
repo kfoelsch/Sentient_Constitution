@@ -20,10 +20,10 @@ This file is the forum implementation home for **CF-6** (*Appeal, secondary revi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-6.1 Disposition-effect categories and record labels](#cf-61-disposition-effect-categories-and-record-labels); [CF-6.2 Core rules](#cf-62-core-rules).
 - Read with: **CF-6**; **CF-6.1**; **CF-6.1.1**; **CF-6.1.2**; **CF-6.1.3**; **CF-4**; **CF-6.1.4**.
-- Topic routing (primary owner): **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-2.1** (*Topic router*). Mandatory read-with: **CI-6**, **CJS-5.13**.
+- Topic routing (primary owner): **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-6**, **CJS-3.13**.
 
 </details>
 
@@ -81,7 +81,7 @@ When an adopting system permits depositions, the rules must define at least: who
 
 *In plain terms: Labels stating how far a ruling reaches: only these parties, a whole class, later panels, or a technical standard. Recording the reach prevents a narrow decision from quietly becoming a general rule.*
 
-**Usage.** Adopting instruments should use the categories in this subsection when a disposition may matter beyond the immediate case. The categories say how far the ruling travels: only to the parties, to a class or shared practice, to later panels, or through a technical standard. For structured records, each category is assigned through the stable **CF-6.1.1** through **CF-6.1.4** class labels below. These are local **forum disposition-effect** categories and record labels. They are not CJS-5 (*Implementation and cross-implementation operational cluster library*) operational cluster labels, not `corpus_systems.md` data-type labels, not `corpus_systems.md` system-class labels, and not institutional **CI-** anchors.
+**Usage.** Adopting instruments should use the categories in this subsection when a disposition may matter beyond the immediate case. The categories say how far the ruling travels: only to the parties, to a class or shared practice, to later panels, or through a technical standard. For structured records, each category is assigned through the stable **CF-6.1.1** through **CF-6.1.4** class labels below. These are local **forum disposition-effect** categories and record labels. They are not CJS-3 (*Implementation and cross-implementation operational cluster library*) operational cluster labels, not `corpus_systems.md` data-type labels, not `corpus_systems.md` system-class labels, and not institutional **CI-** anchors.
 
 **Disposition-effect categories.**
 - **Party-bound** (**CF-6.1.1**) — effect remains with the parties and decided issues.

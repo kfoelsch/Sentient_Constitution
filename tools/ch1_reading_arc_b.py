@@ -488,8 +488,8 @@ def renumber_ch1_basis_refs(content: str) -> str:
 
         line = re.sub(r"§(\d+)((?:\.\d+)+)?", ref_repl, line)
         line = line.replace(
-            "(see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map)",
-            "(see [cluster map](#cjs-51-constitutional-compass-and-cluster-map))",
+            "(see [CJS-3.1](#cjs-31-constitutional-compass-and-cluster-map) map)",
+            "(see [cluster map](#cjs-31-constitutional-compass-and-cluster-map))",
         )
         return line
 
@@ -504,7 +504,7 @@ def migrate_corpus(content: str, path: Path) -> str:
         if old != new:
             content = content.replace(old, new)
     content = migrate_section_refs(content)
-    if "cjs_05" in path.name and "Chapter One basis:" in content:
+    if "cjs_03" in path.name and "Chapter One basis:" in content:
         content = renumber_ch1_basis_refs(content)
     return content if content != orig else content
 

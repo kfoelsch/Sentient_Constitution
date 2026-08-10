@@ -20,12 +20,12 @@ This file is the forum implementation home for **CF-7** (*Integrity safeguards, 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-7.1 Alignment rulings, component referral, and supervisory coordination](#cf-71-alignment-rulings-component-referral-and-supervisory-coordination); [CF-7.2 Constitutional alignment recognition and review](#cf-72-constitutional-alignment-recognition-and-review); [CF-7.3 Anti-self-judging activation, capture-sensitive routing, contest-integrity interfaces, and family-level capture](#cf-73-anti-self-judging-activation-capture-sensitive-routing-contest-integrity-interfaces-and-family-level-capture).
 - Read with: **CF-7**; **CF-7.1**; **CF-7.2**; **CF-7.3**; **CF-8**; **CF-9**; **CF-5**; **CF-6.1**; **CF-6.1.2**.
-- Topic routing (mandatory read-with): **CJS-R11A** (*Fallback operation*) in **CJS-2.1** (*Topic router*); primary owner **CF-13**.
-- Topic routing (mandatory read-with): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-2.1** (*Topic router*); primary owner **CI-12**.
-- Topic routing (primary owner): **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-2.1** (*Topic router*). Mandatory read-with: **CI-5**, **CI-7.3**.
+- Topic routing (mandatory read-with): **CJS-R11A** (*Fallback operation*) in **CJS-0.1** (*Topic router*); primary owner **CF-13**.
+- Topic routing (mandatory read-with): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-0.1** (*Topic router*); primary owner **CI-12**.
+- Topic routing (primary owner): **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-5**, **CI-7.3**.
 
 </details>
 
@@ -103,13 +103,13 @@ Adopting instruments must publish tie-break rules for ordering component referra
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.1.3**; **CF-9**; **CJS-3.3**.
+- Read with: **CF-7.1.3**; **CF-9**; **CJS-1.8**.
 
 </details>
 
 <br>
 
-Supervisory coordination applies the **CJS-3.3** (*Boundary Between Support Roles and Merits Decisions*) merits-boundary rule. The rule covers forum-managed stays, sequencing, status review, and milestone accountability. Supervisory coordination is not partisan advocacy for a party outcome. It is also not a substitute for prosecutorial, institutional, or investigative merits bodies where those roles are lawfully distinct under **CF-9** (*Independent investigative service and prosecution interface*) and `corpus_institutions.md`.
+Supervisory coordination applies the **CJS-1.8** (*Boundary Between Support Roles and Merits Decisions*) merits-boundary rule. The rule covers forum-managed stays, sequencing, status review, and milestone accountability. Supervisory coordination is not partisan advocacy for a party outcome. It is also not a substitute for prosecutorial, institutional, or investigative merits bodies where those roles are lawfully distinct under **CF-9** (*Independent investigative service and prosecution interface*) and `corpus_institutions.md`.
 
 ### CF-7.1.4 Merits Boundaries and Referred-Forum Authority
 
@@ -131,7 +131,7 @@ Where an alignment ruling materially stabilizes outcomes beyond the named partie
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.2**; **CF-10**; **CJS-5**.
+- Read with: **CF-7.2**; **CF-10**; **CJS-3**.
 
 </details>
 
@@ -169,7 +169,7 @@ Alignment recognition or review must be available when any of the following mate
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.2.3**; **CJS-5**.
+- Read with: **CF-7.2.3**; **CJS-3**.
 
 </details>
 
@@ -178,7 +178,7 @@ Alignment recognition or review must be available when any of the following mate
 A recognition, validation, or revalidation record must identify:
 - the system, operator or steward, claimed scope, deployment context, and affected stakeholder or dependency classes;
 - the CS-3 — System classification and handling classification, CS-4 — Critical system stewardship stewardship tier where applicable, and the evidence supporting those classifications;
-- the constitutional provisions, Rights-Floor obligations, CJS-5 (*Implementation and cross-implementation operational cluster library*) operational clusters, and implementation requirements treated as material;
+- the constitutional provisions, Rights-Floor obligations, CJS-3 (*Implementation and cross-implementation operational cluster library*) operational clusters, and implementation requirements treated as material;
 - where ecological exposure is material, the Environment forum environmental-alignment component record, including approval, conditional approval, objection, remediation requirements, or release-from-condition findings;
 - the technical specifications, measurement methods, test protocols, expert-evidence standards, and testing evidence considered;
 - the audit, simulation, incident, red-team, stress, accessibility, and stakeholder-feedback evidence considered;

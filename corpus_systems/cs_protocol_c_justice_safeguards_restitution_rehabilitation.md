@@ -19,7 +19,7 @@ This file is the systems implementation home for **Protocol C** (*Justice Safegu
 
 *In plain terms: **Protocol C** covers what a system must do when it restricts, sanctions, or penalizes someone: validate the basis first, keep the restriction as light and as short as the situation allows, make restoration a real route rather than a formality, and never let a sanction turn into retaliation.*
 
-Constitutional tracing: This protocol implements Sentient Constitution Chapter Six, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). It also implements **Sentient Constitution Chapter Eight** (compliance, violation, and standing model) and **CJS-5.13** (implementation and cross-implementation procedural integrity and adjudication terms), read with **CJS-5.13** (*procedural integrity and adjudication terms*). It operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
+Constitutional tracing: This protocol implements Sentient Constitution Chapter Six, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). It also implements **Sentient Constitution Chapter Eight** (compliance, violation, and standing model) and **CJS-3.13** (implementation and cross-implementation procedural integrity and adjudication terms), read with **CJS-3.13** (*procedural integrity and adjudication terms*). It operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
 
 **It does** **not** create substitute rights or narrow [Constitutional Constraints](../core_05_band_integrative.md#constitutional-constraint).
 
@@ -85,7 +85,7 @@ Irreversible restrictive outcomes are prohibited where feasible reversible resti
 
 Where restorative pathways include public acknowledgment or apology, systems must enforce voluntariness and authenticity controls.
 
-Those controls are specified in **Chapter Nine** §4.3 (*Voluntary public accountability expression*), **Chapter Ten** §4.3 (*Voluntary public accountability expression (anti-constitutional)*) where anti-constitutional misconduct is designated, and **CJS-5.13** (*procedural integrity and adjudication terms*), and include non-coercive consent, revocability up to delivery, independent review of voluntariness and authenticity, and negative justice consequences for materially inauthentic or abusive expression.
+Those controls are specified in **Chapter Nine** §4.3 (*Voluntary public accountability expression*), **Chapter Ten** §4.3 (*Voluntary public accountability expression (anti-constitutional)*) where anti-constitutional misconduct is designated, and **CJS-3.13** (*procedural integrity and adjudication terms*), and include non-coercive consent, revocability up to delivery, independent review of voluntariness and authenticity, and negative justice consequences for materially inauthentic or abusive expression.
 
 Refusal may **not** independently escalate baseline sanctions.
 
@@ -103,7 +103,7 @@ Patterns indicating retaliatory misalignment, discriminatory outcomes, or review
 
 Apply **Article XV-A** (*Auditability and Observable Evidence*), **Article XVIII-A** (*Standing Distinction*), **Article XXIII-A** (*Justice Objective and Scope*), and the related Chapter Five review and remedy definitions where auditability, standing review, or justice review is implicated.
 
-For **Class A** and **Class B** systems, persistent concentrations of interpretive or adjudicative authority without effective challenge outcomes are capture-risk indicators and must trigger governance remediation review under **Article XXIII-A** (*Justice Objective and Scope*), **Chapter Five** (*System Capture*), and **CJS-5.13** (*procedural integrity and adjudication terms*).
+For **Class A** and **Class B** systems, persistent concentrations of interpretive or adjudicative authority without effective challenge outcomes are capture-risk indicators and must trigger governance remediation review under **Article XXIII-A** (*Justice Objective and Scope*), **Chapter Five** (*System Capture*), and **CJS-3.13** (*procedural integrity and adjudication terms*).
 
 <a id="8-cross-jurisdiction-execution-and-anti-evasion-controls"></a>
 ## 8. Cross-jurisdiction execution and anti-evasion controls
@@ -129,7 +129,7 @@ Apply Sentient Constitution **Chapter Fourteen** (*Disputes Involving External L
 
 **Entity continuity checks:** Enforcement must track legal and operational continuity across affiliates, successor entities, shell structures, and contractual delegations. **Do not** allow obligations to be extinguished by relabeling.
 
-**Forum-shopping detection and response:** Repeated migration to lower-scrutiny venues, reincorporation patterns, or layered delegation intended to dilute accountability must trigger aggravated enforcement review. It must also trigger anti-evasion intervention under **Sentient Constitution Chapters Two through Four** and **CJS-5.13** (*procedural integrity and adjudication terms*).
+**Forum-shopping detection and response:** Repeated migration to lower-scrutiny venues, reincorporation patterns, or layered delegation intended to dilute accountability must trigger aggravated enforcement review. It must also trigger anti-evasion intervention under **Sentient Constitution Chapters Two through Four** and **CJS-3.13** (*procedural integrity and adjudication terms*).
 
 <a id="9-proportional-compliance-templates-class-scaled"></a>
 ## 9. Proportional compliance templates (class-scaled)
@@ -139,7 +139,7 @@ Systems must implement class-scaled compliance templates that preserve core prot
 
 Templates are implementation profiles, not alternative standards. When multiple profiles could apply, the **stricter** governs.
 
-Implementation packets may be standardized through reusable templates so long as they do not narrow constitutional obligations. For **Class A**, **Class B**, and **Class C** systems, packet formats and interchange protocols must also preserve the open data-format and protocol presumption in **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) where portability, audit, repair, continuity, migration, or cross-implementation operation is material. See `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md` for adopter-facing templates covering system cards, model cards, post-deployment monitoring cadence, incident reporting bundles, and material control-failure disclosure packets.
+Implementation packets may be standardized through reusable templates so long as they do not narrow constitutional obligations. For **Class A**, **Class B**, and **Class C** systems, packet formats and interchange protocols must also preserve the open data-format and protocol presumption in **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) where portability, audit, repair, continuity, migration, or cross-implementation operation is material. See `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md` for adopter-facing templates covering system cards, model cards, post-deployment monitoring cadence, incident reporting bundles, and material control-failure disclosure packets.
 
 **Invariant core controls (all classes):** Constitutional tracing, auditable decision records, incident logging, challenge/remediation pathways, and minimum verification accessibility must remain in force regardless of class.
 

@@ -1,4 +1,4 @@
-"""Parse CJS-2.1 topic router rows and locate implementation sections."""
+"""Parse CJS-0.1 topic router rows and locate implementation sections."""
 
 from __future__ import annotations
 
@@ -181,7 +181,7 @@ def primary_owner_line(row: RouterRow) -> str:
         suffix = "; see that row for mandatory read-with."
     return (
         f"Topic routing (primary owner): **{row.row_id}** (*{short_topic(row.topic)}*) "
-        f"in **CJS-2.1** (*Topic router*).{suffix}"
+        f"in **CJS-0.1** (*Topic router*).{suffix}"
     )
 
 
@@ -192,7 +192,7 @@ def read_with_line(row: RouterRow) -> str:
         owners = "primary owners " + ", ".join(f"**{item}**" for item in row.primary_attach)
     return (
         f"Topic routing (mandatory read-with): **{row.row_id}** (*{short_topic(row.topic)}*) "
-        f"in **CJS-2.1** (*Topic router*); {owners}."
+        f"in **CJS-0.1** (*Topic router*); {owners}."
     )
 
 

@@ -20,9 +20,9 @@ This file is the institutional implementation home for **CI-1** (*Scope, purpose
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary and owner discipline; [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) purpose of the joint-structure layer; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary and owner discipline; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-1.1: Anti-constitutional misconduct usage](#ci-11-anti-constitutional-misconduct-usage); [CI-1.2: Proportionality rule](#ci-12-proportionality-rule).
-- Read with: **CI-1**; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids); **CJS-5**.
+- Read with: **CI-1**; [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-3**.
 
 </details>
 
@@ -62,7 +62,7 @@ This file is the institutional implementation home for **CI-1** (*Scope, purpose
 **What this layer does not own**
 
 - constitutional term meaning and O/M/A/C definition mechanics — those remain in the Sentient Constitution (Chapters Two through Five);
-- joint operational definitions, and joint cross-layer interfaces — those belong to **CJS** (reusable joint operational definitions in **CJS-5**);
+- joint operational definitions, and joint cross-layer interfaces — those belong to **CJS** (reusable joint operational definitions in **CJS-3** (*operational cluster library*));
 - Rights Floors — those remain in Chapter Six;
 - system-class and steward taxonomies — those belong to **CS**;
 - forum-family operational doctrine under Chapter Eleven — those belong to **CF**;
@@ -71,8 +71,8 @@ This file is the institutional implementation home for **CI-1** (*Scope, purpose
 **Read next**
 
 - Label map, section registry, and institutions-only domain routing: [ci_00_registry_and_reading_rules.md](ci_00_registry_and_reading_rules.md) (*Institutions domain routing (integrator annex)*).
-- Shared contract and joint reading order: **CJS-1.1** and **CJS-1.2** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md).
-- Cross-layer topic router: [CJS-2.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-21-topic-router-stable-ids).
+- Implementation-corpus gateway, shared contract, and joint reading order: **CJS-1.0**, **CJS-1.1**, and **CJS-1.2** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md).
+- Cross-layer topic router: [CJS-0.1 Cross-file routing](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids).
 
 ## CI-1.1: Anti-constitutional misconduct usage
 <details>
@@ -100,8 +100,8 @@ This layer does **not**:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary and owner discipline; [CJS-5.11](../corpus_joint_structure.md) distributed and proportional authority terms; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: **CI-1.2**; **CJS-5.11**; **CJS-5.12**; **CJS-5.13**; **CI-9**.
+- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary and owner discipline; [CJS-3.11](../corpus_joint_structure.md) distributed and proportional authority terms; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Read with: **CI-1.2**; **CJS-3.11**; **CJS-3.12**; **CJS-3.13**; **CI-9**.
 
 </details>
 
@@ -111,7 +111,7 @@ This layer does **not**:
 
 Institutional burden must scale with impact. This subsection states the CI layer's institution-specific baseline.
 
-Apply **CJS-5.11** (*distributed and proportional authority terms*), **CJS-5.12** (*burden-of-justification and constraint terms*), and **CJS-5.13** (*procedural integrity and adjudication terms*) for shared proportionality, burden, and procedural read-with terms where materially applicable.
+Apply **CJS-3.11** (*distributed and proportional authority terms*), **CJS-3.12** (*burden-of-justification and constraint terms*), and **CJS-3.13** (*procedural integrity and adjudication terms*) for shared proportionality, burden, and procedural read-with terms where materially applicable.
 
 - Low-impact institutional scopes should be simple, accessible, and inexpensive to establish and operate.
 - High-impact institutional scopes must satisfy stronger diligence, assurance, transparency, and accountability duties.

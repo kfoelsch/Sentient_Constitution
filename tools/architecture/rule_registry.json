@@ -170,9 +170,9 @@
       "status": "blocking"
     },
     {
-      "id": "ROUTER-CJS21",
+      "id": "ROUTER-CJS01",
       "legacy_ref": "implementation routing",
-      "summary": "Cross-implementation topic routing via CJS-2.1.",
+      "summary": "Cross-implementation topic routing via CJS-0.1.",
       "make_target": "router-bidirectional-audit",
       "status": "blocking"
     },
