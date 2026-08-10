@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the joint-structure implementation home for **Accountability leg (CJS-3.11–CJS-3.15)**.
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -27,10 +21,11 @@ This file is the joint-structure implementation home for **Accountability leg (C
 
 <br>
 
+This file is the joint-structure implementation home for **Accountability leg (CJS-3.11–CJS-3.15)**.
+
 *In plain terms: These clusters carry the **Accountability** leg into working terms: how far authority may be concentrated, who must justify a decision and how heavily, what makes a procedure sound, who may authorize an override, and when a structure must be reviewed and corrected. The bigger the stake, the stronger each requirement becomes.*
 
 This family operationalizes the **Accountability** leg of the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad): authority distribution, justification burdens, procedural integrity, intervention authorization, and structural review. Accountability clusters scale with [material stake](../core_00_preamble.md#material-stake) and must remain contestable in practice.
-
 | Cluster | Section |
 |---|---|
 | **CJS-3.11** | Accountability: distributed and proportional authority terms |
@@ -38,7 +33,6 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 | **CJS-3.13** | Accountability: procedural integrity and adjudication terms |
 | **CJS-3.14** | Accountability: intervention governance and override-authorization terms |
 | **CJS-3.15** | Accountability: structural review, correction urgency, and disclosure terms |
-
 ---
 
 ## CJS-3.11 Accountability: distributed and proportional authority terms

@@ -9,10 +9,6 @@
 
 </details>
 
-<br>
-
----
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -24,20 +20,17 @@
 
 <br>
 
+---
 
 This band holds **Integrative** cross-leg definitions — terms that must be satisfied across Tetrad legs at once and cannot sit cleanly under one leg alone. That includes:
-
 - the corpus authority stack;
 - the constitutional contract layer;
 - foundational authorization terms; and
 - incentive alignment across reward paths, proxy integrity, and contingent settlement.
-
 **Materiality** / [Materiality Determination](core_05_band_oversight.md#materiality-determination) is Integrative (cross-cutting threshold gate). Leaf homes currently remain in the Oversight band file pending any later relocation. Canonical **governance-layer discipline** ([Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer) vs **Stakeholder System Participation**): [Preamble §4](../core_00_preamble.md#governance-layer-discipline).
-
 | Cluster | Section |
 |---|---|
 | **Def.I1** | Corpus and Authority Stack |
-
 ---
 
 ### Integrative: Independent terms

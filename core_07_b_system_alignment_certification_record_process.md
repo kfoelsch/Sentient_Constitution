@@ -17,10 +17,6 @@
 
 </details>
 
-<br>
-
-Chapter Seven, **Part B**, is the constitutional owner of the **certification record**, **forum-supervised process**, and **standing bridge** for system alignment certification. Evaluation requirements are in **[Part A](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)**. Part A ends at [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation); this Part continues the chapter at **§11**.
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -32,11 +28,11 @@ Chapter Seven, **Part B**, is the constitutional owner of the **certification re
 
 <br>
 
+Chapter Seven, **Part B**, is the constitutional owner of the **certification record**, **forum-supervised process**, and **standing bridge** for system alignment certification. Evaluation requirements are in **[Part A](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)**. Part A ends at [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation); this Part continues the chapter at **§11**.
+
 *In plain terms: Part A says what must be **evaluated**. Part B says what must go **on the record**, how **forums** run the process, how affected sentients **challenge** outcomes, and how certification may feed **standing** — without letting certification substitute for standing measurement or effects.*
 
 Forum-supervised certification must produce a bounded **System Certification Record** under [§11](#11-certification-record) that reflects Part A evaluation outputs, satisfies [§12](#12-transparency-auditability-and-contestability), follows the forum roles in [§13](#13-forum-supervision-and-component-roles) and supervisory sequence in [§14](#14-supervisory-sequence-and-contestability-chain), and may supply verified inputs to Chapter Eight only through [§15](#15-relationship-to-standing). Defective certification, misclassification, and evasion route under [§16](#16-reopening-drift-and-non-evasion).
-
-<br>
 <a id="11-certification-record"></a>
 <a id="3-certification-record"></a>
 <a id="2-certification-record"></a>

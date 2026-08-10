@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the joint-structure implementation home for **Integrative cross-leg operations (CJS-3.22–CJS-3.23)**.
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -27,15 +21,15 @@ This file is the joint-structure implementation home for **Integrative cross-leg
 
 <br>
 
+This file is the joint-structure implementation home for **Integrative cross-leg operations (CJS-3.22–CJS-3.23)**.
+
 *In plain terms: Two clusters that no single Tetrad leg owns cleanly. Constrained secrecy sits between oversight and accountability: some investigations must stay quiet without becoming unreviewable. Intervention integrity sits between accountability and continuity: someone must be able to intervene in a running system without that power going unchecked.*
 
 This family holds clusters that require simultaneous satisfaction across Tetrad legs and cannot be owned cleanly by one leg alone: constrained secrecy (Oversight + Accountability) and technical intervention integrity (Accountability + Continuity, complementing **CJS-3.14** (*Accountability: intervention governance and override-authorization terms*)).
-
 | Cluster | Section |
 |---|---|
 | **CJS-3.22** | Integrative: constrained-secrecy and protected-investigation terms |
 | **CJS-3.23** | Integrative: intervention and override integrity terms |
-
 ---
 
 ## CJS-3.22 Integrative: constrained-secrecy and protected-investigation terms

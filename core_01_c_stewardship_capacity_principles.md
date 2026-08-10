@@ -36,6 +36,7 @@
 <br>
 
 <a id="9-stewardship-and-distributed-understanding"></a>
+
 ### 9. Stewardship and Distributed Understanding
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

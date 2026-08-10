@@ -30,8 +30,6 @@
 
 Chapter Four is the constitutional owner of **burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification**.
 
-<br>
-
 *In plain terms: if you say you're following the rules, you have to prove it—and show a clear, checkable path from what the constitution defines to what sentients can actually observe.*
 
 ### 1. Exclusive Enforcement and Burden Allocation

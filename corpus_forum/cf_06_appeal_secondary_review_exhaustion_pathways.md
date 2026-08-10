@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the forum implementation home for **CF-6** (*Appeal, secondary review, and exhaustion pathways*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -53,6 +47,8 @@ This file is the forum implementation home for **CF-6** (*Appeal, secondary revi
 
 <br>
 
+This file is the forum implementation home for **CF-6** (*Appeal, secondary review, and exhaustion pathways*).
+
 *In plain terms: **CF-6** (*Appeal and secondary review*) makes sure a first decision is not automatically the last word. It sets the minimum review routes every forum family must keep open, labels what each disposition actually decided, and stops "you have not exhausted your options" from being used to run out the clock.*
 
 This section sets the minimum review paths every forum family must preserve. It covers:
@@ -62,11 +58,8 @@ This section sets the minimum review paths every forum family must preserve. It 
 - how exhaustion rules interact with direct-access routes;
 - review windows scaled to urgency and impact; and
 - disposition-effect categories and record labels for merits outcomes that may affect later panels or wider populations (**CF-6.1** (*Disposition-effect categories and record labels*)).
-
 **Depositions and preserved testimony.** For forum purposes, a **deposition** is a structured testimony-gathering session held outside the merits hearing, under oath, affirmation, equivalent truth-duty, governance-duty, or clearly stated voluntary attestation, before an authorized officer, panel delegate, external neutral, community record steward, or other competent record-preserving role. It is used to preserve evidence, test material facts, support later review, record community-governance knowledge, or make testimony available when live hearing testimony may be unavailable, unsafe, impractical, or disproportionate. A deposition is not itself a merits decision, sanction, appeal, hearing, mediation, informal interview, unilateral witness statement, investigatory interrogation, or unrestricted discovery license.
-
 When an adopting system permits depositions, the rules must define at least: who may authorize, request, voluntarily offer, or compel the session; notice and participation rights; the permitted scope of questioning; interpreter, accessibility, trauma, counsel, support-person, and protective-order conditions where relevant; how objections are recorded and later resolved; recording, transcript, exhibit, correction, retention, and access requirements; restricted-evidence handling; and the later use of the deposition in motions, hearings, appeals, emergency review, community-governance decisions, or independent secondary review. The reviewing forum must be able to tell whether the deposition was lawful or genuinely voluntary, whether the witness had a fair chance to understand and answer, whether opposing or affected parties had a fair chance to test material testimony where later use requires testing, and whether any limits on questioning or disclosure were justified on the record.
-
 **Boundary rule.** A deposition becomes procedurally defective when it is used to evade hearing rights, surprise a party with untestable testimony, coerce a witness, hide material restrictions, bypass restricted-evidence safeguards, or convert an investigative interview into adjudicative evidence without the notice, record, objection, and review protections required here and under **CF-15** (*Standard records, forms, and evidence artifacts*).
 
 ## CF-6.1 Disposition-effect categories and record labels

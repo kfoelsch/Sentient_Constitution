@@ -17,6 +17,7 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 | Corpus navigation footer chain and formatting | `make footer-audit` |
 | Trace / D/A/C / reader-guidance `<br>` spacer discipline | `make nav-widget-spacer-audit` |
 | Trace → D/A/C widget order (definition carrier immediately after Trace) | `make trace-dac-widget-order-audit` |
+| File-top / section-opening widget stack (placement → reader → Trace → D/A/C) | `make widget-top-placement-audit` |
 | File-top Corpus placement widget | `make file-top-placement-audit` |
 | CJS-0.1 topic-router bidirectional read-with links | `make router-bidirectional-audit` |
 | Binding corpus must not depend on `doc_architecture` for meaning/routing | `make support-doc-pointer-audit` |
@@ -39,6 +40,8 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 `trace_routing_prose_audit.py` enforces the binding-corpus rule that read-with routing stays inside Trace blocks. It also flags disguised navigation such as `Read them with …`, `Each … must be read with …`, `… also read **§…**`, and operative bullet labels such as `- *Read with.*` in operative prose.
 
 `trace_dac_widget_order_audit.py` enforces Trace → D/A/C placement: when a `###`–`#####` unit's Trace block carries Chapter Five `· [O]` read-with links, the next block after Trace close must be a **Definitions · Assessment · Compliance** widget or a single-concept inline **Definition:** line, with only blank lines between. Without Trace, the D/A/C widget must be the first substantive block under `####` / `#####`. It also flags roadmap-only parent `###` D/A/C widgets (≤2 rows) when a `####` subsection owns operative definitions.
+
+`widget_top_placement_audit.py` enforces the opening widget stack (**NAV-WIDGET-TOP-01** / **NAV-READER-06**): file-top widgets stay in order placement → reader guidance → Trace → D/A/C before ordinary operative prose (owner/home lines included), consecutive stack widgets may be separated by blank lines only (no `<br>` or prose between them), and when a section's direct content carries Trace / D/A/C those widgets open the unit. Local mid-section Traces under bold run-in titles (`**8.3. …**`) and child-heading widgets are out of scope for the parent.
 
 `ch5_single_definition_audit.py` enforces the Chapter Five directory cleanup rule: one visible definition label, one directory row, no placeholder-only definition shells, and no repeated `Cluster members.` owner roster membership. Anchor fragments remain navigation targets only.
 

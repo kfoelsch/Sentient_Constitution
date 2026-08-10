@@ -21,8 +21,6 @@
 
 </details>
 
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): cross-chapter map and reading order</span></strong></summary>
 
@@ -60,8 +58,6 @@
 
 </details>
 
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -78,12 +74,10 @@
 Chapter Ten, **Part A**, is the constitutional owner of **final anti-constitutional-misconduct designation for Violation Axis s = 7, 8, and 9 findings, designation criteria, due-process safeguards, and the Chapters Thirteen through Fifteen designation boundary**. Named pattern applications are in **[Part B](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)**.
 
 This chapter is used only when a verified violation already occupies Violation Axis `s` = 7, 8, or 9 and anti-constitutional misconduct is materially alleged. It decides only whether the matching designation attaches; it does not create a separate impact scale, move a finding between slots, or replace Chapter Eight measurement or Chapter Nine standing integration.
-
 *In plain terms: under the [Continuity aim](core_00_preamble.md#continuity), this chapter decides whether a violation already measured in a highest impact slot also amounts to **tetrad capture** at scale. It does not choose the slot.*
 
 <a id="1-scope-and-authority"></a>
 <a id="1-decision-framework-scope-and-authority"></a>
-
 <a id="chapter-eight-part-a-continuity-frame"></a>
 
 ### 1. How designation decisions work — Continuity and tetrad-capture frame

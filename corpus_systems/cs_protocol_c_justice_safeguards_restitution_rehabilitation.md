@@ -15,15 +15,12 @@
 
 This file is the systems implementation home for **Protocol C** (*Justice Safeguards, Restitution, and Rehabilitation Implementation*).
 
-<br>
-
 *In plain terms: **Protocol C** covers what a system must do when it restricts, sanctions, or penalizes someone: validate the basis first, keep the restriction as light and as short as the situation allows, make restoration a real route rather than a formality, and never let a sanction turn into retaliation.*
 
 Constitutional tracing: This protocol implements Sentient Constitution Chapter Six, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). It also implements **Sentient Constitution Chapter Eight** (compliance, violation, and standing model) and **CJS-3.13** (implementation and cross-implementation procedural integrity and adjudication terms), read with **CJS-3.13** (*procedural integrity and adjudication terms*). It operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
-
 **It does** **not** create substitute rights or narrow [Constitutional Constraints](../core_05_band_integrative.md#constitutional-constraint).
-
 <a id="1-scope-and-trigger"></a>
+
 ## 1. Scope and trigger
 *In plain terms: This protocol switches on whenever a non-trivial restriction is imposed — anything materially affecting liberty, access, movement, authority, resources, or standing.*
 

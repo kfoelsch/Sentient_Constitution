@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the institutional implementation home for **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -48,10 +42,11 @@ This file is the institutional implementation home for **CI-5** (*Conflict integ
 
 <br>
 
+This file is the institutional implementation home for **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*).
+
 *In plain terms: **CI-5** is the institutions layer's honesty-and-independence rulebook — how institutions prevent capture, corruption, and hidden conflicts; what they must disclose; and where problems go when local review is not trustworthy. Shared anti-capture floors live in **CJS-3.6** (*integrity assurance and resilience operations*). What this file adds is local: what each institution must name and maintain locally.*
 
 **Quick orientation**
-
 - **CI-5.1** — shared minimum anti-capture and civic-lottery integrity rules (**CJS-3.6** (*integrity assurance and resilience operations*)).
 - **CI-5.2** — named contacts and local records: who publishes disclosures, who tracks fix deadlines, who logs serious breaches, and where to escalate when self-review is not trustworthy.
 - **CI-5.3** — trigger labels for corruption, fraud, capture, and related failures — and where each routes.

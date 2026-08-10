@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the forum implementation home for **CF-1** (*Scope, authority, and boundary rules*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -38,6 +32,8 @@ This file is the forum implementation home for **CF-1** (*Scope, authority, and 
 
 <br>
 
+This file is the forum implementation home for **CF-1** (*Scope, authority, and boundary rules*).
+
 *In plain terms: **CF** is the forums operations rulebook — how panels form, cases route, appeals work, and hearings stay independent under stress.*
 
 **What this layer owns**
@@ -56,23 +52,19 @@ This file is the forum implementation home for **CF-1** (*Scope, authority, and 
 - Rights Floors — those remain in Chapter Six;
 - system-class and steward taxonomies — those belong to **CS**;
 - institutional formation, authorization, oversight, correction, and dissolution — those belong to **CI**.
-
 This layer must **not**:
-
 - create new forum families beyond those authorized in Chapter Eleven;
 - silently expand constitutional-forum jurisdiction beyond Chapter Eleven;
 - replace general constitutional due-process, traceability, or rights rules with weaker local procedure;
 - create a parallel offense taxonomy.
-
 **Read next**
 
 - Label map, section registry, and forums-only domain routing: [cf_00_registry_and_reading_rules.md](cf_00_registry_and_reading_rules.md) (*Forums domain routing (integrator annex)*).
 - Implementation-corpus gateway, shared contract, and joint reading order: **CJS-1.0**, **CJS-1.1**, and **CJS-1.2** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md).
 - Cross-layer topic router: [CJS-0.1 Cross-file routing](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids).
 - Constitutional forum owner: [core_11-11_forum.md](../core_11-11_forum.md) (**Chapter Eleven**).
-
 ---
 
 **Previous file:** [corpus_forum.md](../corpus_forum.md)
-
 **Next file:** [cf_03_forum_formation_tribunal_mapping_chamber_structure.md](cf_03_forum_formation_tribunal_mapping_chamber_structure.md)
+

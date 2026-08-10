@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the joint-structure implementation home for **Participation leg (CJS-3.7–CJS-3.10)**.
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -27,17 +21,17 @@ This file is the joint-structure implementation home for **Participation leg (CJ
 
 <br>
 
+This file is the joint-structure implementation home for **Participation leg (CJS-3.7–CJS-3.10)**.
+
 *In plain terms: These clusters carry the **Participation** leg into working terms: who must be in the room for a decision to count, whether what is disclosed can actually be understood, whether important information is buried under trivia, and whether enough is visible to contest an outcome at all.*
 
 This family operationalizes the **Participation** leg of the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad): quorum, comprehension, salience, and disclosure pathways that let materially affected sentients understand, contest, and shape outcomes. Primary constitutional aim: [Flourishing](../core_00_preamble.md#flourishing).
-
 | Cluster | Section |
 |---|---|
 | **CJS-3.7** | Participation: quorum and participatory legitimacy terms |
 | **CJS-3.8** | Participation: comprehensibility and cognitive accessibility terms |
 | **CJS-3.9** | Participation: salience integrity and attention-allocation terms |
 | **CJS-3.10** | Participation: disclosure sufficiency and observability terms |
-
 ---
 
 ## CJS-3.7 Participation: quorum and participatory legitimacy terms

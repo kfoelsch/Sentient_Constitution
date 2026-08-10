@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the joint-structure implementation home for **Continuity aim operations (CJS-3.16–CJS-3.21)**.
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -27,10 +21,11 @@ This file is the joint-structure implementation home for **Continuity aim operat
 
 <br>
 
+This file is the joint-structure implementation home for **Continuity aim operations (CJS-3.16–CJS-3.21)**.
+
 *In plain terms: These clusters keep a system working — and keep it possible to leave — under dependency, change, stress, and attack: knowing what you depend on, being able to export and exit, retaining data for the right span, failing gracefully rather than catastrophically, being able to undo, and resisting deliberate abuse.*
 
 This family operationalizes the constitutional [Continuity aim](../core_00_preamble.md#continuity): preserving lawful function under dependency, lifecycle change, stress, and adversarial conditions. **Continuity disambiguation:** constitutional **Continuity aim** (Chapter One §1) is distinct from operational or protocol continuity elsewhere in the corpus.
-
 | Cluster | Section |
 |---|---|
 | **CJS-3.16** | Continuity: dependency integrity and disclosure terms |
@@ -39,7 +34,6 @@ This family operationalizes the constitutional [Continuity aim](../core_00_pream
 | **CJS-3.19** | Continuity: graceful degradation and failure-mode integrity terms |
 | **CJS-3.20** | Continuity: reversibility and containment terms |
 | **CJS-3.21** | Continuity: adversarial robustness and abuse-resistance terms |
-
 ---
 
 ## CJS-3.16 Continuity: dependency integrity and disclosure terms

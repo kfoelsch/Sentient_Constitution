@@ -9,10 +9,6 @@
 
 </details>
 
-<br>
-
----
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -24,16 +20,15 @@
 
 <br>
 
+---
 
 This band holds definitions under the constitutional [Continuity aim](../core_00_preamble.md#continuity): dependency, risk, survival-floor continuity, labor floors, stewardship discipline, privacy lifecycle, and trust. **Continuity disambiguation:** constitutional **Continuity aim** ([Preamble §1](../core_00_preamble.md#continuity); binding O/M/A/C: [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional)) is distinct from operational or protocol continuity elsewhere in the corpus.
-
 | Cluster | Section |
 |---|---|
 | **Def.C1** | Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work |
 | **Def.C2** | Stewardship, Governance Discipline, and Shared-System Capacity |
 | **Def.C3** | Privacy (Informational) — peer-level cluster head |
 | **Def.C4** | Trust and Trustworthiness |
-
 ---
 
 ### Continuity: Independent terms

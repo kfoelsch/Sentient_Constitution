@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the forum implementation home for **CF-13** (*Fallback operation*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -47,12 +41,12 @@ This file is the forum implementation home for **CF-13** (*Fallback operation*).
 
 <br>
 
+This file is the forum implementation home for **CF-13** (*Fallback operation*).
+
 *In plain terms: **CF-13** (*Fallback operation*) is the temporary substitute for a forum that cannot sit — a reduced quorum, a backup venue, or a transfer away from a compromised family. It is temporary by design: it must record what it did and hand the matter back.*
 
 This section governs temporary forum substitution mechanics when ordinary operation is unavailable, compromised, or unable to form lawful authority. It covers temporary quorum, backup venues, capture-sensitive fallback, family-capture fallback, transfer records, and return-to-primary discipline.
-
 Fallback operation must preserve primary-stakes routing as far as feasible. It does not authorize permanent alteration of constitutional forum-family boundaries or silent reclassification of a matter.
-
 Where fallback operation materially depends on constitutional systems, this section must be read with `corpus_systems.md` **Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*), **CF-12** (*Forum continuity*), and **CF-14** (*Emergency adjudication*).
 
 ## CF-13.1 Temporary quorum and provisional authority

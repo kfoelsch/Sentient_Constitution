@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the forum implementation home for **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -53,17 +47,16 @@ This file is the forum implementation home for **CF-3** (*Forum formation, forum
 
 <br>
 
+This file is the forum implementation home for **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*).
+
 *In plain terms: Chapter Eleven names the forum families; **CF-3** (*Forum formation and chamber structure*) is where an adopting entity turns those names into working benches, chambers, and support structures. It sets the minimum each family must actually staff and run, keeps families from quietly collapsing into one another, and states what a chamber may and may not decide.*
 
 This section governs how adopting entities convert the forum families recognized in `core_11-11_forum.md` **Chapter Eleven** into actual adjudicative bodies, benches, chambers, and support structures.
-
 It sets structural requirements for:
 - forum-structure mapping and public adjudicative architecture;
 - minimum availability of adjudicators and support sufficient to form lawful panels and preserve traceability;
 - chamber specialization and anti-collapse limits.
-
 Published intake priority classes, the intake triage body, and day-one filing routing expectations are governed by **CF-5** (*Routing operations, transfer, certification, and representative treatment*). Staffing composition frameworks, reserve and surge capacity, shared administration and objective assignment safeguards, periodic structural review, prohibited staffing and capacity patterns, and the structural governance record set are governed by **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*).
-
 This section does not itself govern panel assignment, recusal, lawful bench formation, backlog requirements, or emergency continuity. Those subjects are governed by **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*), and **CF-12** (*Forum continuity*), **CF-13** (*Fallback operation*), and **CF-14** (*Emergency adjudication*).
 
 ## CF-3.1 Core structural rule

@@ -12,8 +12,6 @@
 
 </details>
 
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how to use these vignettes</span></strong></summary>
 

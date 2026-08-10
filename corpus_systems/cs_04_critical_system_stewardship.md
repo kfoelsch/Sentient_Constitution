@@ -15,11 +15,10 @@
 
 This file is the systems implementation home for **CS-4** (*Critical system stewardship*).
 
-<br>
-
 *In plain terms: Some organizations are load-bearing: if they stop, a critical system cannot run, recover, or be governed, and no substitute is available in time. **CS-4** identifies those stewards and sets what they owe in return for that position — continuity planning, transparency about dependencies, and limits on using the position as leverage.*
 
 <a id="1-definition"></a>
+
 ## 1. Definition
 
 *In plain terms: Who counts as a steward: an organization a critical system cannot run, recover, or be governed without, and for which no substitute can be found in time.*

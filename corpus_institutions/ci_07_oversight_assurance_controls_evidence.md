@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the institutional implementation home for **CI-7** (*Oversight, assurance, controls, and evidence*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -47,18 +41,16 @@ This file is the institutional implementation home for **CI-7** (*Oversight, ass
 
 <br>
 
+This file is the institutional implementation home for **CI-7** (*Oversight, assurance, controls, and evidence*).
+
 *In plain terms: **CI-7** is the institutions layer's check-and-balance rulebook — how each institution shows its safeguards are working, who watches the watchers, what happens when controls fail, when outside review is required, and how evidence is kept so audits, challenges, and handoffs still work. Shared assurance floors live in **CJS-3.6** (*integrity assurance and resilience operations*). What this file adds is local: what each institution must publish and maintain locally.*
 
 **Quick orientation**
-
 - **CI-7.1** — routine controls attestation plus urgency-scaled incident notice when something breaks (breaches, corruption, control failures — not just once a year).
 - **CI-7.2** — published triggers that force independent outside review, and escalation when the institution cannot credibly commission that review itself.
 - **CI-7.3** — contest-integrity monitors for high-impact supervised systems: watchdogs that check whether challenge and review pathways still work (pathway integrity, not re-deciding the underlying dispute).
-
 *Shared rules live elsewhere.* Cross-institution assurance terms are in **CJS-3.6** (*integrity assurance and resilience operations*), including the **Three-lines assurance model** (operations, independent challenge, and independent assurance must stay distinguishable), the **Incident and assurance notification urgency floor** (**NUL-1** through **NUL-4**), and related control-failure and external-assurance floors. **CI-7** does not repeat those rules; it keeps only what each institution must name and maintain locally.
-
 **What each institution must publish**
-
 - a local **line map** showing who runs operations, who independently challenges risk or compliance, and who provides independent assurance — without collapsing those roles into one self-checking lane;
 - limits on unjustified concentration of those roles in the same role-holder or office; and
 - record and evidence custody strong enough to support audit, contest, correction, and continuity transfer under [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation).

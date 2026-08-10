@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the joint-structure implementation home for **Oversight leg (CJS-3.2–CJS-3.6)**.
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -27,10 +21,11 @@ This file is the joint-structure implementation home for **Oversight leg (CJS-3.
 
 <br>
 
+This file is the joint-structure implementation home for **Oversight leg (CJS-3.2–CJS-3.6)**.
+
 *In plain terms: These clusters carry the **Oversight** leg into working terms: making a system explain itself, keeping enough record to reconstruct what happened, scaling who may see what, verifying claims independently, and keeping assurance itself resilient. They must be read together, because one strong control cannot rescue a weak link elsewhere.*
 
 This family operationalizes the **Oversight** leg of the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad): watching, auditing, assuring, and verifying that implementation claims remain reviewable across **CJS**, **CS**, **CI**, and **CF**. Clusters here must be read together — a strong control in one link cannot cure a material failure in another.
-
 | Cluster | Section |
 |---|---|
 | **CJS-3.2** | Oversight: reflexive transparency and accountability terms |
@@ -38,9 +33,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 | **CJS-3.4** | Oversight: tiered transparency and audit-access terms (annex — including audit-process output disclosure) |
 | **CJS-3.5** | Oversight: independent verification and claim-integrity terms (annex) |
 | **CJS-3.6** | Oversight: integrity assurance and resilience operations |
-
 **Reader note.** For what auditing is, why / how / when to run it, and the sibling-mode map, start at the **[CJS-3.3 audit process home](cjs_03_audit_process.md#cjs-33-audit-process-home)**. This file keeps the machine-facing Oversight OP clusters.
-
 ---
 
 ## CJS-3.2 Oversight: reflexive transparency and accountability terms

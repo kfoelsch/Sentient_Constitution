@@ -13,12 +13,10 @@
 <br>
 
 **CS-2, Part B**, owns **data classifications** (**Type E** through **Type S**, including **Type O**). Classification determination and cross-domain governance are in **[Part A](cs_02_a_information_types_and_handling.md#cs-2-part-a-information-types-and-handling)**.
-
 *In plain terms: Part B names each data type and groups them by how they are usually shared — open, audit-only, restricted, or off-limits — then states each type’s content rules.*
 
-<br>
-
 <a id="8-data-classifications"></a>
+
 ## 8. Data classifications
 
 *In plain terms: the letter codes are domain labels, not a ranked sensitivity scale. Types share access-posture bands so common rules can attach to the sharing style. When more than one type fits, the stronger protections win.*

@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the forum implementation home for **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -56,6 +50,8 @@ This file is the forum implementation home for **CF-4** (*Panel formation, discl
 
 <br>
 
+This file is the forum implementation home for **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
+
 *In plain terms: **CF-4** (*Panel formation and recusal*) decides who is allowed to sit on a case. It states what makes a panel lawful and independent, what must be disclosed before anyone touches the merits, when a member must step aside, and what happens when no independent panel can be formed at all.*
 
 This section governs:
@@ -64,7 +60,6 @@ This section governs:
 - replacement and substitute selection;
 - declaration that an independent panel cannot be formed;
 - documented activation of backup routing where `core_11-11_forum.md` **Chapter Eleven** requires it.
-
 This section does not alter primary-stakes routing, constitutional family boundaries, or merits standards.
 
 ## CF-4.1 Lawful panel definitions

@@ -13,20 +13,15 @@
 <br>
 
 **CS-2, Part A**, owns **information-type determination, foundational identity and continuity controls, cross-domain governance, separation / attribution, and the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional)**. Canonical type definitions and per-type handling rules are in **[Part B](cs_02_b_data_classifications.md#cs-2-part-b-data-classifications)**.
-
 *In plain terms: Part A says how to type data, keep those types honest across systems, protect separation, attribution, and exit, and keep a System Data Types Record that audits can check — Part B names the types themselves.*
 
-<br>
-
 **Introductory provisions:**
-
 *In plain terms: tell the truth in public where you can, but keep safeguards that protect sentients, privacy, trust, and system integrity — and make those safeguards stronger when impact is higher.*
 
 Systems must preserve the practical ability to publish truthful information while maintaining safeguards for harm prevention, privacy, trust, and system integrity.
-
 Requirements and limitations scale proportionally with system classification and potential impact. They must impose proportionate safeguards on publication within their boundaries where necessary to preserve trust, safety, and constitutional compliance.
-
 <a id="1-purpose-and-scope"></a>
+
 ## 1. Purpose and scope
 
 *In plain terms: Chapter Six rights need trustworthy data handling; CS-2 is the systems rulebook that makes typing, access defaults, integrity, identity self-ownership, and Class A/B/C continuity real.*

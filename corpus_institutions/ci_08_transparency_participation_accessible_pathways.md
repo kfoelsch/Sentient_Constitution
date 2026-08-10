@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the institutional implementation home for **CI-8** (*Transparency, participation, and accessible pathways*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -56,21 +50,20 @@ This file is the institutional implementation home for **CI-8** (*Transparency, 
 
 <br>
 
+This file is the institutional implementation home for **CI-8** (*Transparency, participation, and accessible pathways*).
+
 *In plain terms: **CI-8** is the institutions layer's "can ordinary sentients see, understand, participate in, and challenge governance?" rulebook — how institutions publish understandable information, keep participation routes open, protect sentients who speak up, and make digital and paper pathways actually work. Institutions must not require a lawyer, a marathon attention span, or insider status to understand how a decision will affect them, weigh in before it binds you, or leave a service you joined online. Shared comprehensibility and participation floors live in **CJS-3.8** (*comprehensibility and cognitive accessibility terms*); stakeholder notice and binding-governance pathways live in **CJS-3.7** (*quorum and participatory legitimacy terms*); anti-concentration safeguards live in **CJS-3.11** (*distributed and proportional authority terms*); digital self-service exit rules live in **CJS-3.17** (*interoperability, portability, and exit-integrity terms*). What this file adds is local: what each institution must publish and maintain locally.*
 
 **Quick orientation**
-
 - **The basic idea** — apply [Transparency](../core_05_band_oversight.md#transparency) and [Participation](../core_05_band_participation.md#participation) so information is usable, not a wall of documents; participation routes are practical, not symbolic; and challenge and escalation routes work without retaliation.
 - **CI-8.1** — stakeholder notice and binding-governance pathways: when a decision will really affect you, you get timely notice, a real window to weigh in, a published decision path, and a record of what happens next.
 - **CI-8.2** — anti-concentration and participation-legitimacy safeguards: no single voice or bloc should dominate; institutions must publish how participation weighting works and where to escalate when concentration risk appears.
 - **CI-8.3** — digital self-service pathway integrity: sign up, manage, downgrade, renew, and cancel online must be at least as workable as signing up; read with **CI-10.2** where billing applies.
 - **CI-8.4** — governance disclosure schema: a standard periodic governance report covering scope, risks, incidents, conflicts, remediation, assurance, and sanctions.
 - **Read with** — **CI-12** when local pathways fail or stall; **CF-11.3.1**, [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) for remedy-organ and intake timing floors; **CI-10** and **CI-10.2** where charges or recurring billing touch self-service pathways.
-
 *In plain terms: dumping data is not transparency. If affected sentients cannot understand a decision, use the participation route, challenge a bad outcome, or exit an online commitment without dark patterns, the institution is not meeting its duties — no matter how many pages it published.*
 
 *Shared rules live elsewhere.* Participation, challenge, accessibility, protected escalation, and anti-retaliation floors are in **CJS-3.8** (*comprehensibility and cognitive accessibility terms*). Stakeholder oversight and binding-governance pathway integrity are in **CJS-3.7** (*quorum and participatory legitimacy terms*). Anti-concentration guardrails are in **CJS-3.11** (*distributed and proportional authority terms*). Digital self-service pathway integrity is in **CJS-3.17** (*interoperability, portability, and exit-integrity terms*). **CI-8** does not repeat those floors; it keeps only institutional publication, office, record, escalation, and stewardship-development pathway application duties linked to **Article III-B** (*Equal Educational Access*) and **Chapter Six**, section 5.
-
 Apply **CJS-3.8** **Institutional participation and pathway accessibility floor** for the shared understandability, participation, challenge, accessibility, protected-escalation, and anti-retaliation floor. **CI-8** states only local publication, office, record, escalation, and stewardship-development pathway owner duties.
 
 ## CI-8.1: Stakeholder oversight, notification, and binding-governance pathway integrity

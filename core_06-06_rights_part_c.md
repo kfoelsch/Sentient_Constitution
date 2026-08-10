@@ -19,7 +19,6 @@
 </details>
 
 <br>
-
 ### Part C: Trustworthy systems, security and force limits, information integrity, verification, lifecycle, and resilience
 
 <br>

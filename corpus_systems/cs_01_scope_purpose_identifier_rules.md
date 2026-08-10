@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the systems implementation home for **CS-1** (*Scope, purpose, and boundary interface*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -41,6 +35,8 @@ This file is the systems implementation home for **CS-1** (*Scope, purpose, and 
 
 <br>
 
+This file is the systems implementation home for **CS-1** (*Scope, purpose, and boundary interface*).
+
 *In plain terms: **CS** is the systems-and-data rulebook — typing, classification, stewardship tiers, and the named engineering protocols.*
 
 **What this layer owns**
@@ -57,8 +53,8 @@ This file is the systems implementation home for **CS-1** (*Scope, purpose, and 
 - Rights Floors — those remain in Chapter Six;
 - institutional formation, authorization, oversight, correction, and dissolution — those belong to **CI**;
 - forum-family operational doctrine under Chapter Eleven — those belong to **CF**.
-
 <a id="operates-in-conjunction-with"></a>
+
 ## Operates in conjunction with
 
 *In plain terms: CS files work together — typing, classification, stewardship, and protocols — and they read with joint-structure clusters and Chapter Five meanings. No CS family stands alone.*

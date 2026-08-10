@@ -17,6 +17,7 @@
 <br>
 
 <a id="6-process-conflict-resolution"></a>
+
 ### 6. Process Conflict Resolution
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

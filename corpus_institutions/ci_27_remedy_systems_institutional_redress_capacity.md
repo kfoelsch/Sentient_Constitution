@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the institutional implementation home for **CI-27** (*Remedy systems and institutional redress capacity*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -42,14 +36,14 @@ This file is the institutional implementation home for **CI-27** (*Remedy system
 
 <br>
 
+This file is the institutional implementation home for **CI-27** (*Remedy systems and institutional redress capacity*).
+
 *In plain terms: **CI-27** is the institutions layer's home for making challenge and repair real — staffing, funding, backlog, succession, and high-impact remedy domains. The constitutional floor lives in [Chapter Nine §9](../core_09-09_standing_integration.md#9-enforcement-realism) and [Remedy System](../core_05_band_accountability.md#remedy-system-constitutional). Forum clocks live in **CF-11**. Technical forums publish measurement standards; they do not run these offices as bosses.*
 
 **Quick orientation**
-
 - **What this family owns** — institutional capacity to deliver practical redress: intake, preservation, review, repair, monitoring, safeguard enforcement, and lock review.
 - **What it does not own** — forum-family routing (**Chapter Eleven** / **CF**), standing measurement (**Chapter Eight**), or technical measurement standards (**Technical Forum Domains** / **CF-10**).
 - **Read with** — **CI-6** for local procedure maps; **CI-7** for oversight and assurance; **CI-8** for accessible pathways; **CI-12** for cross-institution escalation; **CI-13** when chronic under-capacity becomes institutional failure; **CF-11** for tier milestones and backlog publication.
-
 <a id="ci-271-capacity-funding-and-succession"></a>
 
 ## CI-27.1: Capacity, funding, and succession

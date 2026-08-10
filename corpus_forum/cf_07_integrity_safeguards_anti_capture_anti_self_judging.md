@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the forum implementation home for **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -62,6 +56,8 @@ This file is the forum implementation home for **CF-7** (*Integrity safeguards, 
 </details>
 
 <br>
+
+This file is the forum implementation home for **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 
 *In plain terms: **CF-7** (*Integrity safeguards and anti-capture*) stops a body from judging its own conduct, and stops an interested party from quietly capturing the body that reviews it. It covers alignment rulings, when a matter must be routed away from a compromised venue, and what happens when a whole forum family is compromised rather than a single member.*
 

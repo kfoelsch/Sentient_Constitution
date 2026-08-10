@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the joint-structure implementation home for **CJS-2** (*Specific joint interlocks and shared abstractions*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -53,12 +47,13 @@ This file is the joint-structure implementation home for **CJS-2** (*Specific jo
 
 <br>
 
+This file is the joint-structure implementation home for **CJS-2** (*Specific joint interlocks and shared abstractions*).
+
 *In plain terms: this file names the concrete places where systems, institutions, and forum rules must connect — who sits on decision bodies, how trust claims hold up across layers, minimum staffing and backup for high-impact roles, and shared procedure terms both sides use.*
 
 - **General cross-file rules** — [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md)
 - **Detailed operational terms** — [cjs_03_cross_implementation_operational_terms.md](cjs_03_cross_implementation_operational_terms.md)
 - **Full owner detail** — **CI** and **CF**, as **CJS-0.1** (*Topic router (stable IDs)*) directs
-
 <a id="cjs-21-mandatory-hybrid-authority-composition-delegated-binding-bodies"></a>
 
 ## CJS-2.1 Hybrid delegated authority (delegated binding bodies)

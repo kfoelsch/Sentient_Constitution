@@ -23,11 +23,10 @@
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line uses the same layout as Chapter Six: it appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Where a subsection opens with lead-in sentences before a list (for example, **§§ 1.1–1.2** after the mechanism-family lead-in, section 3 before its **Chapter Five** stewardship-definition index bullets, and section 4.1 before its equality-floor bullets), the gloss sits immediately before the list or the block it most closely tracks. Reader-facing gloss only; it does not add, remove, or narrow binding text.
 
 </details>
+
 <br>
 
 Chapter Twelve is the constitutional owner of **constitutional-contract legitimacy, stewardship direction, concentration, and democratic checks**.
-
-<br>
 
 This chapter states the **Constitutional Contract Layer**: constitutional legitimacy and stewardship requirements for governing authority itself. It defines who may govern, what permits governing power, and what stewardship character must be maintained.
 

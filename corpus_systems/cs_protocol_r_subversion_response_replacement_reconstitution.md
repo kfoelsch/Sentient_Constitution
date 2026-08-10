@@ -15,29 +15,23 @@
 
 This file is the systems implementation home for **Protocol R — Subversion Response, Replacement, and Reconstitution**.
 
-<br>
-
 *In plain terms: **Protocol R** is the response when constitutional systems are not merely failing but actively subverted, possibly several at once. It sets when a compromise may be declared, how authority is replaced without inventing a permanent emergency power, and how a legitimate system is rebuilt afterwards.*
 
 **Constitutional tracing.** This protocol operationalizes coordinated response where constitutional systems or governance pathways are materially subverted, including near-simultaneous multi-system attacks. It implements:
-
 - the definitional and scaling requirements in **Sentient Constitution Chapter Five** — *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility* where applicable;
 - **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) in **Chapter Six**, for escalation and emergency proportionality;
 - **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), for anti-capture governance safeguards;
 - **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*), where phased transition is implicated;
 - **Article XXVI-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*), for off-ramp continuity and re-baselining.
-
 It also operates with these operational clusters:
-
 - **CJS-3.20** (*reversibility and containment terms*);
 - **CJS-3.18** (*data-retention and lifecycle-integrity terms*);
 - **CJS-3.11** (*distributed and proportional authority terms*);
 - **CJS-3.2** (*reflexive transparency and accountability terms*);
 - **CJS-3.13** (*procedural integrity and adjudication terms*).
-
 This protocol does not narrow constitutional rights or reviewability.
-
 <a id="1-landscape-compromise-declaration-and-activation"></a>
+
 ## 1. Landscape compromise declaration and activation
 
 *In plain terms: What has to be true before landscape-scale response can be switched on: credible evidence of coordinated compromise across multiple systems or their dependencies.*

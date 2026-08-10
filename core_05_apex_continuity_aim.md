@@ -11,10 +11,6 @@
 
 </details>
 
-<br>
-
----
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -26,6 +22,8 @@
 
 <br>
 
+---
+
 *In plain terms: keep sentients and the living systems they depend on going for the long run — stable, sustainable, able to bounce back, and ecologically sound — not just looking fine for now.*
 
 - **What it is**
@@ -36,12 +34,10 @@
 <a id="continuity-aim-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* See also [Constitutional Aim decomposition](#continuity-aim-decomposition). This line only points to the measures; the how-to-measure rules sit on each linked definition.
-
     **Primary assessment:** Judge under the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), scaled to [material stake](../core_00_preamble.md#material-stake). Ask whether systems keep lasting capacity to repair, adapt, face risk honestly, and stay within ecological limits — not whether today's numbers look calm. Tie claimed continuity results to the [constituent](#continuity-aim-decomposition) conditions, under Chapter Four and [Chapter One §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline). Read with [Stewardship Defect](core_05_band_continuity.md#stewardship-defect-constitutional), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Existential Risk](core_05_band_continuity.md#existential-risk), and [Cascading Failure](core_05_band_continuity.md#cascading-failure). Always read with [Flourishing](core_05_apex_flourishing_aim.md#flourishing-constitutional): chasing short-term gains that hollow **participation**, **oversight**, **accountability**, or **timeliness** below what [material stake](../core_00_preamble.md#material-stake) requires fails **Continuity**, even if near-term outputs go up.
 <a id="continuity-aim-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** using **Continuity** to forever put off fixes; treating "stability" as compliant when it rests on hidden risk dumping, irreversible harm, or shifting ecological burdens onto others; using ordinary "keep the lights on" talk to block [Contestability](core_05_band_accountability.md#contestability) or [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional); or pursuing **Continuity** in a way that materially defeats [Flourishing](core_05_apex_flourishing_aim.md#flourishing-constitutional) without clear permission under [Chapter One §9](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
-
 ---
 
 <a id="continuity-aim-decomposition"></a>

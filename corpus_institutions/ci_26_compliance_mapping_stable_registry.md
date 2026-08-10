@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the institutional implementation home for **CI-26** (*Compliance mapping and stable registry*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -40,10 +34,11 @@ This file is the institutional implementation home for **CI-26** (*Compliance ma
 
 <br>
 
+This file is the institutional implementation home for **CI-26** (*Compliance mapping and stable registry*).
+
 *In plain terms: **CI-26** is the institutions layer's compliance index — a stable map from **CI** section numbers to the topics they own. Use it for external compliance mapping, audit routing, and cross-reference tables. Operative rules live in the cited **CI** sections; this file does not add new obligations.*
 
 **Core section families**
-
 | Section | Topic |
 |---|---|
 | **CI-1** | Scope, purpose, legitimacy interface, and proportionality discipline |
@@ -60,9 +55,7 @@ This file is the institutional implementation home for **CI-26** (*Compliance ma
 | **CI-12** | Cross-institution coordination and escalation |
 | **CI-13** | Institutional failure, graduated sanctions, dissolution, and continuity transfer |
 | **CI-27** | Remedy systems and institutional redress capacity |
-
 **Domain-specific section homes**
-
 | Section | Topic |
 |---|---|
 | **CI-9.3** | Delegated subunits, institutional design class, and attachment discipline |
@@ -82,9 +75,7 @@ This file is the institutional implementation home for **CI-26** (*Compliance ma
 | **CI-23** | Place-based stewardship, Indigenous continuity, and consultation routes |
 | **CI-24** | Innovation reward, disclosure, and anti-enclosure |
 | **CI-25** | Scientific publication, peer review, replication, and evidence stewardship |
-
 Cross-reference mapping tables and article alignment appendices may be expanded here without redefining constitutional terms.
-
 ---
 
 ## Implementation notes

@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the institutional implementation home for **CI-3** (*Institutional design, separation of powers, and authority custody*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -60,10 +54,11 @@ This file is the institutional implementation home for **CI-3** (*Institutional 
 
 <br>
 
+This file is the institutional implementation home for **CI-3** (*Institutional design, separation of powers, and authority custody*).
+
 *In plain terms: **CI-3** is the institutions layer's separation-of-powers rulebook — how authority is divided, what the top governing body cannot hand off, how power flows through delegation, what a governing [Charter](../core_05_band_continuity.md#charter) must state, and what happens in emergencies. Shared lane categories and separation floors live in **CJS-3.11** (*distributed and proportional authority terms*). What this file adds is local: what each institution must publish and maintain locally.*
 
 **Quick orientation**
-
 - **CI-3.1** — decisions that stay with the governing authority and cannot be delegated.
 - **CI-3.2** — required functional lanes (direction, execution, challenge, assurance, publication) and who hosts each one.
 - **CI-3.3** — authority chain from source authorization through every delegated role.

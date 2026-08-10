@@ -9,10 +9,6 @@
 
 </details>
 
-<br>
-
----
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -24,14 +20,13 @@
 
 <br>
 
+---
 
 This band holds definitions under the **Oversight** Tetrad leg — transparency, auditability, verification, truth, epistemic integrity, materiality, and related disclosure and assurance terms. Binding O/M/A/C and [Tetrad Leg decomposition](core_05_apex_oversight_leg.md#oversight-tetrad-leg-decomposition) live in [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md#oversight-constitutional). This band file owns leaf definitions under the Oversight leg — do not duplicate leg-head O/M/A/C here.
-
 | Cluster | Section |
 |---|---|
 | **Def.O1** | Transparency, Auditability, and Verification |
 | **Def.O2** | Truth and Epistemic Integrity |
-
 ---
 
 <a id="oversight-independent-terms"></a>

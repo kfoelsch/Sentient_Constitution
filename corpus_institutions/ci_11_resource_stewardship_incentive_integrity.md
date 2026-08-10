@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the institutional implementation home for **CI-11** (*Resource stewardship and incentive integrity*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -42,15 +36,15 @@ This file is the institutional implementation home for **CI-11** (*Resource stew
 
 <br>
 
+This file is the institutional implementation home for **CI-11** (*Resource stewardship and incentive integrity*).
+
 *In plain terms: **CI-11** is the institutions layer's "do you have enough to keep going honestly?" rulebook — whether an institution has adequate funding, staffing, and capacity to stay operational through stress, whether pay and incentives reward constitutional duty instead of short-term optics, and what happens when leaders sabotage or willfully neglect continuity planning. Shared resource-dependency evaluation lives in **CJS-3.16** (*dependency integrity and disclosure terms*); severe control-failure and resilience terms live in **CJS-3.6** (*integrity assurance and resilience operations*); fiscal charge design lives in **CI-10**. What this file adds is local: what each institution must trigger, publish, and maintain locally.*
 
 **Quick orientation**
-
 - **CI-11.1** — continuity planning, resource adequacy, and malus/clawback when continuity planning is sabotaged or willfully neglected.
 - **CI-11.2** — when high-impact scope requires continuity drills and crisis-readiness under **Protocol A**, subsection **G**: name the trigger and hand off to **Protocol A** for the actual exercise and recovery rules.
 - **CI-11.3** — fiscal-orientation pointers to **CI-10** and **CI-9.4**.
 - **CI-11.4** — how each institution aligns funding choices and pay/incentive design with stewardship duties under **Protocol S5**, including malus and clawback when misconduct is verified.
-
 *In plain terms: you cannot run a serious institution on vibes and vanity metrics. If continuity depends on a resource, name it, stress-test it, and do not let pay schemes reward the sentients who weaken it.*
 
 *Shared rules live elsewhere.* Resource and continuity dependency evaluation is in **CJS-3.16** (*dependency integrity and disclosure terms*), especially **Resource and continuity dependency adequacy**. Severe control failure, verified misconduct, evidence custody, and resilience claims are read with **CJS-3.6** (*integrity assurance and resilience operations*). **CI-11** does not repeat those floors; it keeps only institutional stewardship triggers, consequence interfaces, and fiscal-allocation alignment duties.

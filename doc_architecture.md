@@ -89,7 +89,8 @@ Keep constitutional concept + O/M/A/C boundary only; cite owner homes for instit
 | Rule ID | Summary | Gate |
 |---------|---------|------|
 | NAV-TRACE-08–10 | Trace placement and contents | `make ch9-trace-audit`, `make trace-routing-prose-audit` |
-| NAV-READER-06 | Reader-guidance widget placement | Manual |
+| NAV-READER-06 | Reader-guidance widget placement | `make widget-top-placement-audit` |
+| NAV-WIDGET-TOP-01 | File-top / section-opening widget stack | `make widget-top-placement-audit` |
 | NAV-DAC-12 | D/A/C widget discipline | `make ch5-dac-widget-audit`, `make nav-widget-spacer-audit` |
 | NAV-DAC-12-ORDER | Trace → D/A/C placement | `make trace-dac-widget-order-audit` |
 | NAV-DAC-12-SPACER | `<br>` after collapsible D/A/C only | `make nav-widget-spacer-audit` |
@@ -127,6 +128,8 @@ Collapsed **Reader guidance (non-operative)** widgets give readers orientation w
 - **Local reader guidance** may appear later only when it explains a specific nearby table, directory, crosswalk, routing index, example set, or other local navigation aid. It should stay adjacent to the material it explains.
 - Do not leave general reading order, layer routing, architecture maps, or anti-relocation orientation in the middle of operative prose. Move those into opening reader-guidance widgets.
 - Reader-guidance widgets use the standard blue collapsed `<details>` styling and must state that the content is reader guidance only and does not add, remove, or narrow binding obligations.
+
+Enforced (with **NAV-WIDGET-TOP-01**) by `make widget-top-placement-audit`: chapter/part Reader guidance and file-level Trace / D/A/C must stay in one contiguous opening stack (blank lines only between widgets — no `<br>`, owner/home lines, or other prose between them) before ordinary operative prose; when a section's direct content carries Trace / D/A/C, those widgets open the unit (after optional anchors and opening Reader guidance). Child-section widgets and bold run-in local Traces (for example `**8.3. …**`) do not count against the parent.
 
 ### Constitutional owner opening statement (OWNER-OPENING-01)
 

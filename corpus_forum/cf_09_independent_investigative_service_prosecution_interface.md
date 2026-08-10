@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the forum implementation home for **CF-9** (*Independent investigative service and prosecution interface*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -57,6 +51,8 @@ This file is the forum implementation home for **CF-9** (*Independent investigat
 </details>
 
 <br>
+
+This file is the forum implementation home for **CF-9** (*Independent investigative service and prosecution interface*).
 
 ## CF-9.1 Basic rule
 <details>

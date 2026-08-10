@@ -15,11 +15,10 @@
 
 This file is the systems implementation home for **Protocol B** (*System Comprehensibility and Complexity Stewardship*).
 
-<br>
-
 *In plain terms: **Protocol B** exists because a system nobody can understand cannot be governed. Explanations must match the stake of the decision. Complexity must be measured and justified, not left to accumulate. A system must stay modular enough to inspect and change in parts.*
 
 <a id="1-scope-and-governing-sources"></a>
+
 ## 1. Scope and governing sources
 
 *In plain terms: what this protocol covers, which constitutional text it implements, and what to read alongside it.*

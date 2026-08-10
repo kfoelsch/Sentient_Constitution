@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the forum implementation home for **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -42,10 +36,11 @@ This file is the forum implementation home for **CF-16** (*Forum staffing, reser
 
 <br>
 
+This file is the forum implementation home for **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*).
+
 *In plain terms: **CF-16** (*Forum staffing and structural records*) covers whether a forum has enough qualified staff to function at all. It asks how competence is defined, how support staff advance into adjudicative roles, what reserve capacity exists for surges, and which structural records prove it. Shared administration must not become a back door for steering cases.*
 
 This section governs the following, forum by forum:
-
 - **staffing and competence frameworks**;
 - **support-role-to-adjudicator pathways**;
 - **reserve and surge capacity**;
@@ -53,9 +48,7 @@ This section governs the following, forum by forum:
 - **periodic structural review**;
 - **prohibited staffing and capacity patterns**;
 - the **structural governance record set** that adopting entities must maintain.
-
 It complements:
-
 - **CF-3** — forum-structure map, family boundaries, chambers, and minimum bench-support availability;
 - **CF-4** — panel formation and recusal;
 - **CF-5** — routing and intake;

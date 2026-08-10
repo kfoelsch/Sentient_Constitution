@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the institutional implementation home for **CI-6** (*Procedure integrity, contestability, and secondary review*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -42,32 +36,28 @@ This file is the institutional implementation home for **CI-6** (*Procedure inte
 
 <br>
 
+This file is the institutional implementation home for **CI-6** (*Procedure integrity, contestability, and secondary review*).
+
 *In plain terms: **CI-6** is the institutions layer's fair-process rulebook — how each institution tells sentients what happened, why, and how to push back; who runs each step; what records prove the rules were followed; and where to go for a second look when the first decision may be wrong. Shared due-process floors live in **CJS-2.5** and **CJS-3.13** (*procedural integrity and adjudication terms*); forum appeal and exhaustion detail lives in **CF-6**. What this file adds is local: what each institution must publish and maintain locally.*
 
 **Quick orientation**
-
 - **What a procedure map is** — a published guide to how the institution makes decisions that matter: notice, explanation, records, review, appeal or escalation, and restoration when something goes wrong.
 - **What each map must name** — who owns each required step; which records show compliance; the challenge route (how to contest a decision); and any institution-specific publication or secondary-review schedule.
 - **What shared rules already cover** — due process, independent review, proportional enforcement, backup routing when a lead forum cannot act in time, representative treatment that still lets individuals contest, and anti-abuse limits (**CJS-3.13** (*procedural integrity and adjudication terms*)). Delegated bodies, lawful forums, and routing terms are in **CJS-2.5**.
 - **Where forum review detail lives** — ordinary appeal lanes, when internal review is enough versus a separate independent reviewer, emergency review, exhaustion, and review windows scaled to urgency (**CF-6** via **CJS-R05**).
 - **Forum-expansion records** — when an institution expands a forum's scope or certifies a route for wider use, it must keep auditable records of that expansion and the contest path for affected parties.
-
 *In plain terms: each institution must write down its fair-process playbook instead of leaving sentients to guess. The map is not decorative paperwork — it must be usable in practice, with real owners, real records, and real routes to challenge and secondary review.*
 
 *Shared rules live elsewhere.* Cross-institution procedural terms are in **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*) and **CJS-3.13** (*procedural integrity and adjudication terms*). **CI-6** does not repeat those floors; it keeps only what each institution must name and maintain locally.
-
 **What each institution must publish**
-
 - who owns the procedure map;
 - where compliance records are kept;
 - the challenge route;
 - how often the map is published or refreshed; and
 - forum-expansion records when a forum's scope or certified route widens.
-
 For every required step in that map, the institution must also name the local owner, the record that proves the step was done correctly, how to challenge the outcome, and any institution-specific schedule for publication or secondary review.
-
 ---
 
 **Previous file:** [ci_05_conflict_integrity_anti_capture_anti_corruption.md](ci_05_conflict_integrity_anti_capture_anti_corruption.md)
-
 **Next file:** [ci_07_oversight_assurance_controls_evidence.md](ci_07_oversight_assurance_controls_evidence.md)
+

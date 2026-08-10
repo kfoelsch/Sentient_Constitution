@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the forum implementation home for **CF-10** (*Technical specialist forums and specialist chambers*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -53,6 +47,8 @@ This file is the forum implementation home for **CF-10** (*Technical specialist 
 </details>
 
 <br>
+
+This file is the forum implementation home for **CF-10** (*Technical specialist forums and specialist chambers*).
 
 ## CF-10.1 Basic rule
 

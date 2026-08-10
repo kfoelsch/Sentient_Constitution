@@ -15,13 +15,11 @@
 
 This file is the systems implementation home for **Protocol S4 — Adaptive Sustainability and Ecosystem Resilience**.
 
-<br>
-
 *In plain terms: **Protocol S4** covers noticing strain early and responding at the cause rather than the symptom. Systems must map what they depend on, monitor whether that base is degrading, and adapt allocation before a slow decline becomes an emergency.*
 
 Constitutional tracing: This protocol specifies implementation-file-level adaptive allocation, sustainability-oriented monitoring, and root-cause-aligned response. It implements Sentient Constitution Chapter Six, **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article XXI** (*Root Cause Analysis and Adaptive Response*) (dependent-systems transparency, root cause analysis, and adaptive correction). It works together with **Protocol S5**. It does not replace or narrow Sentient Constitution Chapter Five definitions (including sustainability and ecological integrity entries). Where this protocol is silent, Sentient Constitution Chapters Two through Five govern. Where this protocol and corpus_joint_structure.md conflict, the stricter applicable requirement governs (Protocol B in this implementation file, opening paragraph).
-
 <a id="a-foundational-principle-pointer"></a>
+
 ## A. Foundational principle (pointer)
 
 *In plain terms: Where the underlying rights live: transparent dependency and resource-flow information, and adaptive response driven by root causes.*

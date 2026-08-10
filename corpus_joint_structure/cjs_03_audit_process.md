@@ -12,12 +12,6 @@
 
 </details>
 
-<br>
-
-This file is the joint-structure implementation home for **CJS-3.3** (*Audit process home*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -54,15 +48,15 @@ This file is the joint-structure implementation home for **CJS-3.3** (*Audit pro
 
 <br>
 
+This file is the joint-structure implementation home for **CJS-3.3** (*Audit process home*).
+
 *In plain terms: this is the shared audit-process home for systems, institutions, and forums — what auditing is, why we do it, how we do it, and when. The Rights Floor stays in **Article XV**; the machine-facing checklists live in the **CJS-3.3**–**CJS-3.5** OP annexes.*
 
 **Cluster identity.** Stable citation **CJS-3.3** names this process home. The OP-O / OP-E / OP-C auditability and reconstructability checklist remains in [cjs_03o_oversight_operations.md](cjs_03o_oversight_operations.md#cjs-33-auditability-annex) under the same cluster ID — annex, not the front door.
-
 Use this file whenever someone needs to understand or run auditing across **CS**, **CI**, and **CF** — or whenever records, access pathways, or verification design depend on standalone or combined system, institution, forum, dependency, or implementation-layer behavior.
-
 **Oversight frame.** Under the Constitutional Tetrad **oversight** leg, oversight requires auditing. [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) (Chapter Seven) is one especially large, high-stakes audit process among others. This file is the cross-implementation process home; it does not relocate **Article XV** floors into Chapter Seven or into any single CS / CI / CF file.
-
 <a id="cjs-33-what-auditing-is"></a>
+
 ## What auditing is
 
 *In plain terms: auditing is an independent check of real behavior and evidence against what a system, institution, or forum claims — not a stamp, a popularity score, or a private club.*

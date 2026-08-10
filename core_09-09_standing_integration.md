@@ -10,8 +10,6 @@
 
 </details>
 
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): chapter sequence</span></strong></summary>
 
@@ -20,8 +18,6 @@
 > Read this chapter in order: immutable Chapter Eight inputs; integration record and decision order; descriptor integration and attachment normalization; violation, correction, and prevention (remedy and correction, general standing locks, then voluntary public accountability expression where used); lock design and enforcement (definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, and special locks); contribution consequences (recency and currentness, then competency bars and clearances); final standing effect; restoration and reassessment; enforcement realism and remedy systems; pattern applications and Question 3 routing.
 
 </details>
-
-<br>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -37,8 +33,8 @@
 Chapter Nine is the constitutional owner of **standing integration and standing effects**, including attachments, the consequence-facing use of Chapter Eight descriptors, standing locks, remedy assignment, voluntary public accountability expression, and enforcement anchors.
 
 Question 3 of the standing pipeline applies the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) when converting verified Chapter Eight standing records into consequences.
-
 <a id="1-immutable-chapter-eight-inputs"></a>
+
 ### 1. Chapter Eight records do not change
 
 Chapter Nine starts with the verified standing records produced under Chapter Eight. It uses only records that apply to the decision, and it keeps contribution and violation records separate:

@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the institutional implementation home for **CI-9** (*Classification-linked institutional obligations*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -58,24 +52,21 @@ This file is the institutional implementation home for **CI-9** (*Classification
 
 <br>
 
+This file is the institutional implementation home for **CI-9** (*Classification-linked institutional obligations*).
+
 *In plain terms: **CI-9** is the institutions layer's "how much oversight does this deserve?" rulebook — how formation burdens, governance duties, domain maps, and delegated-subunit rules scale with a system's risk class and stewardship tier. Low-impact organizations must not face needless red tape; high-impact or high-dependency systems must face proportionate scrutiny. Shared scaling floors live in **CJS-3.11** (*distributed and proportional authority terms*), **CJS-3.16** (*dependency integrity and disclosure terms*), and **CJS-3.12** (*burden-of-justification and constraint terms*); delegated-body composition rules live in **CJS-2.1**. What this file adds is local: what each institution must publish and maintain locally.*
 
 **Quick orientation**
-
 - **The basic idea** — when an institution's duties depend on system class under **CS-3** or stewardship tier under **CS-4**, apply the **strictest** burden that fits the affected scope. You cannot use a lower class label to dodge stronger duties.
 - **CI-9.1** — formation and authorization burdens that scale with impact: easy paths for low-risk (**Class P**) contexts, deeper diligence for high-dependency (**Class A** / **Class B**) contexts.
 - **CI-9.2** — a published map of which industries and domains the institution supervises, how they are classified, and when reclassification is required.
 - **CI-9.3** — rules for delegated subunits and hybrid decision bodies: who they are, what they may decide, how members are composed, and how long rotating or home-based terms run.
 - **CI-9.4** — how institutional instruments connect essential-access floors and voluntary markets without conditioning survival on labor or premium purchasing (**Article III-A** (*Survival*) interface).
-
 *In plain terms: classification is not a decorative label. It is the dial that sets how hard institutions must work — and the dial must match reality, stay published, and tighten when dependency or risk grows.*
 
 *Shared rules live elsewhere.* Class- and tier-scaling terms are in **CJS-3.11** (*distributed and proportional authority terms*), especially **Classification-scaled governance burden**. **CI-9** does not repeat those floors; it keeps only the institutional application across formation, authorization, oversight, mapping, delegated-subunit, and related duties.
-
 Apply **CJS-3.11** **Classification-scaled governance burden** for the shared class- and tier-scaling rule.
-
 **Constitutional floor for formation**
-
 The operational mechanics in this section — registration, fiscal treatment, liability frameworks, and dissolution pathways — implement the Chapter Five Rights Floor for [System Creation](../core_05_band_participation.md#system-creation-constitutional) (non-commercial institutional formation) and [Business Creation](../core_05_band_participation.md#business-creation-constitutional) (commercial entrepreneurial formation). These mechanics must not narrow the constitutional floor. They must remain consistent with the [Assembly, Collective Organization, and Institutional Formation cluster](../core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) and owner-floor provisions in **Article IX-B** (*Stakeholder Role and Participation Rights*) (System Creation) and **Article III-D** (*Labor and Economic Floor*) (Business Creation).
 
 ## CI-9.1: Formation proportionality

@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the forum implementation home for **CF-14** (*Emergency adjudication*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -47,12 +41,12 @@ This file is the forum implementation home for **CF-14** (*Emergency adjudicatio
 
 <br>
 
+This file is the forum implementation home for **CF-14** (*Emergency adjudication*).
+
 *In plain terms: **CF-14** (*Emergency adjudication*) governs how urgent matters are decided while ordinary operation is degraded — what gets priority, who reviews emergency decisions while they are still in force, and how everything is reconciled once normal operation returns. An emergency is not a licence to decide without record or review.*
 
 This section governs emergency adjudicative priority, review, restoration, post-incident findings, and prohibited emergency patterns when ordinary forum operation is degraded or fallback operation is active.
-
 Emergency adjudication must preserve access to urgent relief, Rights Floor protection, evidence preservation, challenge rights, auditability, and a path back to ordinary independent adjudication.
-
 Where emergency adjudication materially depends on constitutional systems, this section must be read with `corpus_systems.md` **Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*), **CF-12** (*Forum continuity*), and **CF-13** (*Fallback operation*).
 
 ## CF-14.1 Emergency triage hierarchy

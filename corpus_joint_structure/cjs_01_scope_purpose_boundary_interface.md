@@ -11,11 +11,20 @@
 
 </details>
 
-<br>
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Read next</span></strong></summary>
 
-This file is the joint-structure implementation home for **CJS-1** (*Scope, purpose, and boundary interface*).
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> **Read next**
+> - Purpose of this layer (implementation-corpus gateway): **CJS-1.0** below.
+> - Boundary detail and reading stack: **CJS-1.1** below.
+> - Shared contract: **CJS-1.2** below.
+> - Topic routing (human path): [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) and the [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md). The authoritative row table is maintainer-only detail in **CJS-0.1**.
+> - Domain doors: [CS-1](../corpus_systems/cs_01_scope_purpose_identifier_rules.md), [CI-1](../corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md), [CF-1](../corpus_forum/cf_01_scope_authority_boundary_rules.md).
+> - Layer map and section registry: [cjs_00_registry_and_reading_rules.md](cjs_00_registry_and_reading_rules.md).
 
-<br>
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -46,6 +55,8 @@ This file is the joint-structure implementation home for **CJS-1** (*Scope, purp
 
 <br>
 
+This file is the joint-structure implementation home for **CJS-1** (*Scope, purpose, and boundary interface*).
+
 *In plain terms: **CJS** is the joint-structure rulebook — rules that apply when two or more of **CJS**, **CS**, **CI**, and **CF** must be satisfied together.*
 
 **What this layer owns**
@@ -63,23 +74,6 @@ This file is the joint-structure implementation home for **CJS-1** (*Scope, purp
 - system-class and steward taxonomies — those belong to **CS**;
 - institutional formation, authorization, oversight, correction, and dissolution — those belong to **CI**;
 - forum-family operational doctrine under Chapter Eleven — those belong to **CF**.
-
-<details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Read next</span></strong></summary>
-
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
->
-> **Read next**
-> - Purpose of this layer (implementation-corpus gateway): **CJS-1.0** below.
-> - Boundary detail and reading stack: **CJS-1.1** below.
-> - Shared contract: **CJS-1.2** below.
-> - Topic routing (human path): [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) and the [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md). The authoritative row table is maintainer-only detail in **CJS-0.1**.
-> - Domain doors: [CS-1](../corpus_systems/cs_01_scope_purpose_identifier_rules.md), [CI-1](../corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md), [CF-1](../corpus_forum/cf_01_scope_authority_boundary_rules.md).
-> - Layer map and section registry: [cjs_00_registry_and_reading_rules.md](cjs_00_registry_and_reading_rules.md).
-
-</details>
-
-<br>
 
 ## CJS-1.0: Purpose of this layer
 

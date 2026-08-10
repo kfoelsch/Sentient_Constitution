@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the institutional implementation home for **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -47,16 +41,16 @@ This file is the institutional implementation home for **CI-10** (*Public revenu
 
 <br>
 
+This file is the institutional implementation home for **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*).
+
 *In plain terms: **CI-10** is the institutions layer's money-and-access rulebook — how public revenue, user fees, subscriptions, and recurring charges must stay fair, transparent, and aligned with how essential the underlying system is. Institutions must not price sentients out of survival-critical access, trick them into paid renewals, or trap them in billing cycles they cannot exit.  out of survival-critical access, tricked into paid renewals, or trapped in billing cycles you cannot exit. Shared fiscal and charge-exit floors live in **CJS-3.12** (*burden-of-justification and constraint terms*) and **CJS-3.17** (*interoperability, portability, and exit-integrity terms*); digital pathway detail lives in **CI-12.3**. What this file adds is local: what each institution must publish and maintain locally.*
 
 **Quick orientation**
-
 - **What this file covers** — class-aligned fiscal orientation and supervised recurring-charge duties for institutions that set, supervise, or authorize fee and billing rules.
 - **What this file does not cover** — tax bases, rates, credits, enforcement mechanics, and cross-border tax law. Those remain governing law outside **CI-10**.
 - **CI-10.1** — public revenue and user fees: charges must align with system class and must not make essential access unaffordable or administratively unreachable.
 - **CI-10.2** — subscriptions, renewals, trials, and commercial billing: honest disclosure before commitment, usable cancel/downgrade paths, and supervision maps for recurring charges.
 - **Read with** — **CI-9** and **CI-9.4** for classification and essential-access interfaces; **CI-12.3** where digital self-service billing pathways apply.
-
 *In plain terms: if money touches access, the charge design must match the system's real importance — and sentients must be able to see what they owe, challenge unfair fees, and leave recurring charges through a published path that actually works.*
 
 *Shared rules live elsewhere.* Class-aligned revenue and access-burden terms are in **CJS-3.12** (*burden of justification and constraint terms*). Commitment, renewal, and charge-exit terms are in **CJS-3.17** (*interoperability, portability, and exit-integrity terms*). **CI-10** does not repeat those floors; it keeps only institutional fiscal-map, supervision, and reporting duties.

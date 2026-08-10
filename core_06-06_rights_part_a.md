@@ -28,8 +28,6 @@
 
 Chapter Six is the constitutional owner of **Rights Floors** and rights-level interpretation.
 
-<br>
-
 ### 1. Purpose and Role
 
 <details>

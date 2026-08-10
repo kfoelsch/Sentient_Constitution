@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the institutional implementation home for **CI-1** (*Scope, purpose, and legitimacy interface*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -48,6 +42,8 @@ This file is the institutional implementation home for **CI-1** (*Scope, purpose
 
 <br>
 
+This file is the institutional implementation home for **CI-1** (*Scope, purpose, and legitimacy interface*).
+
 *In plain terms: **CI** is the institutions rulebook — how bodies are formed, authorized, overseen, corrected, and dissolved within constitutional boundaries.*
 
 **What this layer owns**
@@ -67,7 +63,6 @@ This file is the institutional implementation home for **CI-1** (*Scope, purpose
 - system-class and steward taxonomies — those belong to **CS**;
 - forum-family operational doctrine under Chapter Eleven — those belong to **CF**;
 - anti-constitutional-misconduct designation — that remains in Chapter Ten (see **CI-1.1** for how this layer uses the label).
-
 **Read next**
 
 - Label map, section registry, and institutions-only domain routing: [ci_00_registry_and_reading_rules.md](ci_00_registry_and_reading_rules.md) (*Institutions domain routing (integrator annex)*).

@@ -23,12 +23,6 @@
 
 </details>
 
-<br>
-
-Chapter Sixteen is the constitutional owner of **incorporation bridge discipline** — which implementation files bind when adopted, which edition and custody trail count, how cross-references invoke those obligations, the safeguards against silent drift and evasion, and how adoption framing separates what this instrument says from what a particular adopter can enforce.
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -41,6 +35,8 @@ Chapter Sixteen is the constitutional owner of **incorporation bridge discipline
 </details>
 
 <br>
+
+Chapter Sixteen is the constitutional owner of **incorporation bridge discipline** — which implementation files bind when adopted, which edition and custody trail count, how cross-references invoke those obligations, the safeguards against silent drift and evasion, and how adoption framing separates what this instrument says from what a particular adopter can enforce.
 
 *In plain terms: this chapter is the bridge that says which implementation rulebooks actually bind an adopter, which exact edition and custody trail count, and that quietly swapping the file for a newer draft does not change constitutional obligations without a proper re-adoption path under Chapters Fifteen and Sixteen.*
 

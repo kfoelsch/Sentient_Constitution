@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the forum implementation home for **CF-12** (*Forum continuity*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -47,6 +41,8 @@ This file is the forum implementation home for **CF-12** (*Forum continuity*).
 
 <br>
 
+This file is the forum implementation home for **CF-12** (*Forum continuity*).
+
 *In plain terms: **CF-12** (*Forum continuity*) states what forums must keep doing when normal operation breaks down — emergency conditions, missing key staff, no lawful panel available, or infrastructure failure. Procedure may be simplified; the right to contest a decision may not be erased.*
 
 This section governs forum continuity when ordinary forum operation is materially impaired by:
@@ -56,9 +52,7 @@ This section governs forum continuity when ordinary forum operation is materiall
 - deadlock across adjudicative bodies;
 - capture or compromise indicators, including family-level capture under **CF-7.3.8**;
 - network or infrastructure disruption that impairs constitutional adjudication.
-
 It governs continuity of adjudication. Fallback substitutions are governed by **CF-13** (*Fallback operation*), and emergency merits handling, review, restoration, and prohibited emergency patterns are governed by **CF-14** (*Emergency adjudication*). This section does not authorize permanent alteration of constitutional forum-family boundaries.
-
 Where forum continuity materially depends on constitutional systems, this section must be read with `corpus_systems.md` **Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*). Protocol A states the shared emergency lifecycle, crisis-communication, exercise, restoration-evidence, and audit-trail mechanics; **CF-12** (*Forum continuity*) supplies the forum-specific continuity modes, activation triggers, minimum functions, record continuity, communications, coordination, and exercise requirements. **CF-13** and **CF-14** supply fallback-operation and emergency-adjudication requirements.
 
 ## CF-12.1 Rights-Floor continuity rule

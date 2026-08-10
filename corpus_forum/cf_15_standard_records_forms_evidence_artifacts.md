@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the forum implementation home for **CF-15** (*Standard records, forms, and evidence artifacts*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -51,6 +45,8 @@ This file is the forum implementation home for **CF-15** (*Standard records, for
 </details>
 
 <br>
+
+This file is the forum implementation home for **CF-15** (*Standard records, forms, and evidence artifacts*).
 
 *In plain terms: **CF-15** is the paperwork floor. It gathers the record duties scattered across **CF-4** through **CF-14** into one minimum set — what must be captured, which fields it must carry, who may see it, and how long it is kept — so a decision can still be checked long after it was made.*
 

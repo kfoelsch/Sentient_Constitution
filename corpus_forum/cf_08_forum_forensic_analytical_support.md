@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the forum implementation home for **CF-8** (*Forum forensic and analytical support*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -51,10 +45,11 @@ This file is the forum implementation home for **CF-8** (*Forum forensic and ana
 
 <br>
 
+This file is the forum implementation home for **CF-8** (*Forum forensic and analytical support*).
+
 *In plain terms: **CF-8** (*Forum forensic and analytical support*) gives a forum access to qualified technical help when the facts are too specialized, hidden, or tangled to weigh unaided. That help explains the evidence; it does not decide the case, prosecute it, or become a second forum.*
 
 Where a **constitutional community** establishes, adopts, or relies on **forum** families under `core_11-11_forum.md` **Chapter Eleven**, it must ensure those families maintain or can obtain access to **independent forensic and analytical support**. In ordinary terms, a forum must have access to qualified help when the facts are too technical, hidden, fragmented, or causally tangled for the parties and the panel to handle fairly on their own.
-
 This support exists to help the forum understand evidence. It does not create another merits forum, another prosecutor, or another decision-maker.
 
 ## CF-8.1 When forensic or analytical support is required

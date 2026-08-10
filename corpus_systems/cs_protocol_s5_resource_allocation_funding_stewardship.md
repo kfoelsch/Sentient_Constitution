@@ -15,11 +15,10 @@
 
 This file is the systems implementation home for **Protocol S5 — Resource Allocation and Funding Stewardship**.
 
-<br>
-
 *In plain terms: **Protocol S5** covers who funds what, and what that funding obliges. Resource flows and the systems depending on them must be mapped and visible, so that quietly starving a dependent system cannot be used to achieve what an open decision could not.*
 
 <a id="1-scope-and-constitutional-tracing"></a>
+
 ## 1. Scope and constitutional tracing
 
 *In plain terms: what this protocol covers, which articles it implements, and where the boundary with Protocol S4 and Chapter Five falls.*

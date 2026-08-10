@@ -20,8 +20,6 @@
 
 Chapter Ten, **Part B**, is the constitutional owner of **named pattern applications and criteria routing** for anti-constitutional misconduct. Designation criteria, attachment, and due-process safeguards are in **[Part A](core_10_a_misconduct_designation.md#chapter-ten-part-a-anti-constitutional-misconduct-designation)**.
 
-<br>
-
 <a id="5-criteria-interactions-and-named-pattern-routing"></a>
 <a id="6-criteria-interactions-and-named-pattern-routing"></a>
 <a id="5-pattern-applications-and-criteria-routing"></a>

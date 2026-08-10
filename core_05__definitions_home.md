@@ -20,7 +20,6 @@
 </details>
 
 <br>
-
 ### Canonical home and non-duplication rule
 *In plain terms: every defined term has one official home. That home decides what the term means. Other files may apply the term, but they may not quietly redefine it.*
 

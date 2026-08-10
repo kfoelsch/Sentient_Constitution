@@ -30,8 +30,6 @@
 
 *In plain terms: Chapters Two through Five are the constitutional definition stack — built (Two), kept honest (Three), checked (Four), named (Five). Chapter Two builds each definition from linked parts — what a term is (O), how it must be measured and assessed (the measurement register interwoven with assessment, M/A), and what must hold in practice (C). Cross-implementation operational definitions live in [CJS](corpus_joint_structure.md) ([CJS-3 — Cross-Implementation Operational Terms](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)); they apply Chapter Five terms and do not redefine them.*
 
-<br>
-
 ## CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS
 
 <br>

@@ -11,10 +11,6 @@
 
 </details>
 
-<br>
-
----
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -26,6 +22,8 @@
 
 <br>
 
+---
+
 - O: Protect and improve sentient wellbeing — the constitutional aim this entry names.
   - **In scope:** judging systems against this aim using the Flourishing building blocks and measurement families listed in [Constitutional Aim decomposition](#flourishing-aim-decomposition).
   - **Depends on:** [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Trustworthiness](core_05_band_continuity.md#trustworthiness), and [Meaningful Agency](core_05_band_participation.md#meaningful-agency) — the building blocks named in [Preamble §1](../core_00_preamble.md#flourishing). Each term's detailed scope and how-to-measure rules live on its own definition; start from [Constitutional Aim decomposition](#flourishing-aim-decomposition).
@@ -36,7 +34,6 @@
 - A: Judge under the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), scaled to [material stake](../core_00_preamble.md#material-stake). Tie claimed flourishing results to the [constituent](#flourishing-aim-decomposition) conditions and to outcomes sentients actually experience, under Chapter Four and [Chapter One §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline). Always read with [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional): short-term gains that foreseeably weaken long-term stability, resilience, or ecological integrity fail **Flourishing** when the two aims are judged together.
 <a id="flourishing-constitutional-c"></a>
 - C: Non-compliant when: one building block is maximized while truth, safety, trustworthiness, or agency is hollowed out; flourishing claims cannot be traced to constitutional outcomes under Chapter Four; or **Flourishing** is pursued in a way that materially defeats the [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) without clear permission under [Chapter One §9](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
-
 ---
 
 <a id="flourishing-aim-decomposition"></a>

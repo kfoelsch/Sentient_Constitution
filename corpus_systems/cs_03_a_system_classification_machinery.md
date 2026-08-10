@@ -10,12 +10,6 @@
 
 </details>
 
-<br>
-
-**CS-3, Part A**, owns **classification machinery**: how to determine impact, dependency, and risk; how to type reliance; how to keep classification honest; and how governance, disclosure, and challenge work. Canonical **impact-class** definitions and per-class scaled duties are in **[Part B](cs_03_b_system_impact_classifications.md#cs-3-part-b-system-impact-classifications)**.
-
-*In plain terms: Part A says how to classify systems honestly across impact, dependency, and risk — Part B names the impact classes themselves and what each class must do.*
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -25,7 +19,11 @@
 
 <br>
 
+**CS-3, Part A**, owns **classification machinery**: how to determine impact, dependency, and risk; how to type reliance; how to keep classification honest; and how governance, disclosure, and challenge work. Canonical **impact-class** definitions and per-class scaled duties are in **[Part B](cs_03_b_system_impact_classifications.md#cs-3-part-b-system-impact-classifications)**.
+*In plain terms: Part A says how to classify systems honestly across impact, dependency, and risk — Part B names the impact classes themselves and what each class must do.*
+
 <a id="1-purpose-and-scope"></a>
+
 ## 1. Purpose and scope
 
 *In plain terms: classify systems by what they actually do and what can go wrong — not by what operators say they are — keep that class in a System Classification Record that audits can check, and keep the record challengeable and up to date.*

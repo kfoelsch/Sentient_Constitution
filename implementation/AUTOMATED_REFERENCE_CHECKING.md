@@ -19,6 +19,7 @@ Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/
 | `footer-audit` | `tools/footer_audit.py` | — | Corpus navigation footer chain |
 | `nav-widget-spacer-audit` | `tools/nav_widget_spacer_audit.py` | NAV-DAC-12-SPACER | D/A/C vs inline Definition spacer |
 | `trace-dac-widget-order-audit` | `tools/trace_dac_widget_order_audit.py` | NAV-DAC-12-ORDER | D/A/C widget or inline Definition immediately after Trace |
+| `widget-top-placement-audit` | `tools/widget_top_placement_audit.py` | NAV-WIDGET-TOP-01, NAV-READER-06 | File-top / section-opening widget stack before operative prose |
 | `file-top-placement-audit` | `tools/file_top_placement_audit.py` | NAV-PLACEMENT-01 | File-top Corpus placement widget |
 | `trace-routing-prose-audit` | `tools/trace_routing_prose_audit.py` | NAV-TRACE-10 | Read with inside Trace; flags disguised read-with routing in operative prose |
 | `in-paragraph-link-audit` | `tools/in_paragraph_link_audit.py` | LINK-IN-PARA-14 | Proof registry + See anti-patterns |

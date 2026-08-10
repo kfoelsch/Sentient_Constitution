@@ -10,8 +10,6 @@
 
 </details>
 
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Eleven lives and what stays here</span></strong></summary>
 
@@ -29,12 +27,6 @@
 
 </details>
 
-<br>
-
-Chapter Eleven is the constitutional owner of **forum families, default venue, jurisdiction, and adjudicative routing for disputes under the standing pipeline and Rights Floor**.
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -48,6 +40,8 @@ Chapter Eleven is the constitutional owner of **forum families, default venue, j
 </details>
 
 <br>
+
+Chapter Eleven is the constitutional owner of **forum families, default venue, jurisdiction, and adjudicative routing for disputes under the standing pipeline and Rights Floor**.
 
 *In plain terms: Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), this chapter **supervises** how disputes move through the Chapters Eight–Ten standing pipeline — routing, independence, forensic support, remediation sequencing, and tier-default clocks under **section 6** and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Forum families answer which track handles which dispute, where a case ordinarily starts, and how mixed-stakes matters coordinate. They supply **participation** (accessible challenge) and **oversight** (traceable merits review). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge**. They do **not** run a second, separate decision track beside the standing pipeline. Filing a case alone has no immediate impact on standing. Day-to-day trial rules, budgets, and staffing manuals live in implementation layers and must **implement, not narrow**, this chapter or **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).*
 

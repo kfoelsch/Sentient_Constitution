@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the joint-structure implementation home for **CJS-3** (*operational cluster library*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -35,14 +29,15 @@ This file is the joint-structure implementation home for **CJS-3** (*operational
 
 <br>
 
-This file is the navigation index for implementation and cross-implementation operational cluster terms used by implementation-label and implementation text.
+This file is the joint-structure implementation home for **CJS-3** (*operational cluster library*).
 
+This file is the navigation index for implementation and cross-implementation operational cluster terms used by implementation-label and implementation text.
 *In plain terms: **CJS-3** is the shared vocabulary shelf. Rather than each implementation layer inventing its own wording for the same operational idea, the clusters here state a term once so that **CJS**, **CS**, **CI**, and **CF** can be checked against the same standard. They add to the owner-file rules; they do not replace them.*
 
 Use these clusters as shared operational terms within standalone implementation scopes and as joint interface terms for combined satisfaction across **CJS**, **CS**, **CI**, and **CF**. They supplement the implementation-group label text and owner-file rules; they do not replace either.
-
 <a id="cjs-30-role-definition-preface-and-standing-competency-bar-and-clearance-interface"></a>
 <a id="cjs-30-role-definition-preface-and-standing-competency-gate-interface"></a>
+
 ## CJS-3.0 Cross-band: Role-definition preface and standing competency bar and clearance interface
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -148,8 +143,6 @@ Stewardship role
 ---
 
 ## CJS-3.1 Library: Constitutional compass and cluster map
-*In plain terms: The index to the cluster library: which cluster covers what, and which constitutional principle each one carries into practice.*
-
 <a id="cjs-31-constitutional-compass-and-cluster-map"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -161,6 +154,8 @@ Stewardship role
 </details>
 
 <br>
+
+*In plain terms: The index to the cluster library: which cluster covers what, and which constitutional principle each one carries into practice.*
 
 Use this compass before applying any **CJS-3** (*Implementation and cross-implementation operational cluster library*) operational cluster. **CJS-3** (*Implementation and cross-implementation operational cluster library*) operationalizes Chapter Five definitions and owner-file rules across **CJS**, **CS**, **CI**, and **CF**; it does not replace the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), or [material stake](../core_00_preamble.md#material-stake) scaling required by [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract).
 

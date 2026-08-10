@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the forum implementation home for **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -65,20 +59,16 @@ This file is the forum implementation home for **CF-11** (*Forum performance, ba
 
 <br>
 
+This file is the forum implementation home for **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
+
 *In plain terms: **CF-11** (*Forum performance and accessibility*) treats delay and inaccessibility as constitutional failures rather than administrative inconvenience. A forum that formally exists but is too slow, too opaque, or too hard to use is not doing its job, so this file sets what must be measured, the thresholds that trigger alarm, and the fixes required once one is crossed.*
 
 This section applies to all forum families recognized in `core_11-11_forum.md` **Chapter Eleven**, including any specialist chamber or designated technical panel operating within those families.
-
 CF-11 governs forum performance as a practical condition of **Contestability**, remedy, publication, and access. A forum that is formally available but too delayed, opaque, inaccessible, inaccurate, or self-damaging to use is not performing its constitutional function.
-
 This section implements **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) within forum operations. Adopters may calibrate family-specific numbers above these defaults where **Proportionality** and published justification support it; they must not publish slower defaults for **Rights-Floor**-urgent matters.
-
 This section does not displace stricter lawful deadlines.
-
 **Reader order:** **CF-11.1** states the core constitutional rule for forum performance. **CF-11.2** states the urgency-scaled service frame, including the notice-through-remediation lifecycle, minimum urgency levels, and local urgency sublevels. **CF-11.3** then supplies the metric registry, target windows, timing floors, publication rules, and restricted-evidence timing controls. **CF-11.4** and **CF-11.5** set threshold triggers and required remediation.
-
 **CF-11.6** through **CF-11.10** add review cadence, assurance scenarios, governance disclosure, accessibility, monitoring, non-compliant patterns, and cross-layer restriction or re-entry alignment.
-
 For clarity, **metrics** are the measured forum-performance outputs; **thresholds** are the published points at which those outputs require escalating review or intervention; and **governance disclosures** are the public or oversight-facing reports that make both the measurements and the threshold response intelligible. The same subject may therefore appear once as a metric, again as a threshold trigger, and again as a disclosure field.
 
 ## CF-11.1 Core rule

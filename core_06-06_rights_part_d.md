@@ -19,7 +19,6 @@
 </details>
 
 <br>
-
 ### Part D: Justice, constitutional review, evolution, and transition
 
 <br>

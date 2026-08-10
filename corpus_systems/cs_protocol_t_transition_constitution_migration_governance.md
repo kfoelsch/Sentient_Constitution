@@ -15,13 +15,11 @@
 
 This file is the systems implementation home for **Protocol T — Transition Constitution and Migration Governance**.
 
-<br>
-
 *In plain terms: **Protocol T** governs the move into constitutional operation. Adoption runs in named phases with a defined Rights Floor at every stage, so a partly migrated system is never a rights vacuum, and there is a recorded way to pause, re-baseline, or step back if a phase fails.*
 
 Constitutional tracing: This protocol operationalizes phased migration into constitutional operation. It implements **Sentient Constitution Chapter Six, **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*)** for phased adoption and **Article XXVI-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) for failure off-ramps and re-baselining, with continuity requirements linked to Articles I–III and V, XI, XIII, and XIV. It defines transition sequencing, gate criteria, fallback handling, and reviewability. It does not narrow constitutional rights or constraints.
-
 <a id="1-phased-transition-structure"></a>
+
 ## 1. Phased transition structure
 
 *In plain terms: Every transition runs through at least four named phases, from preparation to steady state, with defined entry and exit for each.*

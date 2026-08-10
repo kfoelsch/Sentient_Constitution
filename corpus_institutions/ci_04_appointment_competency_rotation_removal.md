@@ -11,12 +11,6 @@
 
 </details>
 
-<br>
-
-This file is the institutional implementation home for **CI-4** (*Appointment, competency, rotation, and removal*).
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -52,10 +46,11 @@ This file is the institutional implementation home for **CI-4** (*Appointment, c
 
 <br>
 
+This file is the institutional implementation home for **CI-4** (*Appointment, competency, rotation, and removal*).
+
 *In plain terms: **CI-4** is the institutions layer's appointment and role-stewardship rulebook — who may hold important jobs, what qualifications they need, how backup coverage works, when they must rotate off, and how they can be removed fairly. Shared staffing floors live in **CJS-2.4**. What this file adds is local: what each institution must publish and maintain locally.*
 
 **Quick orientation**
-
 - **CI-4.1** — shared minimum for lane staffing, competency backup, and succession coverage.
 - **CI-4.2** — what each institution must publish about hiring, qualifying, rotating, and removing role holders.
 - **CI-4.3** — regular check that the governing body still has the right role holders for the institution's impact level.

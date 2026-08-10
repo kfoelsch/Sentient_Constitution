@@ -5,8 +5,15 @@
       "id": "NAV-READER-06",
       "legacy_ref": "doc_architecture rule 6",
       "summary": "Chapter- and part-level reader guidance belongs at the opening before operative sections; local guidance may appear adjacent to the material it explains.",
-      "make_target": null,
-      "status": "manual"
+      "make_target": "widget-top-placement-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-WIDGET-TOP-01",
+      "legacy_ref": "doc_architecture file-top stack and section-opening widgets",
+      "summary": "File-top and section-opening widget stack: placement → reader guidance → Trace → D/A/C contiguous (blank lines only; no <br>/owner/prose between); owner line and operative prose follow the stack.",
+      "make_target": "widget-top-placement-audit",
+      "status": "blocking"
     },
     {
       "id": "NAV-TRACE-08",
@@ -20,7 +27,8 @@
       "legacy_ref": "doc_architecture rule 9",
       "summary": "Trace placement under owning unit; Chapter Six default owner is subarticle.",
       "make_target": "ch9-trace-audit",
-      "status": "blocking"
+      "status": "blocking",
+      "related_targets": ["widget-top-placement-audit"]
     },
     {
       "id": "NAV-TRACE-10",

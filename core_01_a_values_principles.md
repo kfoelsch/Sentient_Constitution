@@ -13,8 +13,6 @@
 </details>
 
 <br>
-
-
 ### 1. Purpose and Role
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

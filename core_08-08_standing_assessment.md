@@ -10,10 +10,6 @@
 
 </details>
 
-<br>
-
-<a id="chapter-eight-part-a-orientation"></a>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Eight lives and what stays here</span></strong></summary>
 
@@ -28,8 +24,6 @@
 > Allegations, popularity, and dispute narratives are not answers to Question 1. A desired rating cannot supply the facts for Question 1, and a desired consequence cannot supply the rating for Question 2.
 
 </details>
-
-<br>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -47,12 +41,9 @@
 
 <br>
 
+<a id="chapter-eight-part-a-orientation"></a>
 Chapter Eight owns the verified factual record for Question 1 and the standing measurement for Question 2. Question 3 continues in Chapter Nine.
-
-<br>
-
 <a id="2-purpose-and-role"></a>
-
 <a id="11-two-question-evaluation-discipline"></a>
 <a id="two-question-evaluation-discipline"></a>
 <a id="11-three-question-evaluation-discipline"></a>

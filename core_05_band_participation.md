@@ -9,10 +9,6 @@
 
 </details>
 
-<br>
-
----
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -24,15 +20,14 @@
 
 <br>
 
+---
 
 This band holds definitions under the **Participation** Tetrad leg — sentience status, stakeholder choice, self-determination, agency, fairness, accessibility, and related voice and standing terms. Binding O/M/A/C and [Tetrad Leg decomposition](core_05_apex_participation_leg.md#participation-tetrad-leg-decomposition) live in [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md#participation-constitutional). This band file owns leaf definitions under the Participation leg — do not duplicate leg-head O/M/A/C here.
-
 | Cluster | Section |
 |---|---|
 | **Def.P1** | Animal Life, Sentient Life, and Sentience Status |
 | **Def.P2** | Binding Stakeholder Choice |
 | **Def.P3** | Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity |
-
 ---
 
 <a id="participation-independent-terms"></a>
