@@ -681,6 +681,7 @@ Temporal discipline and revalidation
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Non-Compliance Finding Profile](../core_05_band_accountability.md#non-compliance-finding-profile) · [O](../core_05_band_accountability.md#non-compliance-finding-profile) · [M](../core_05_band_accountability.md#non-compliance-finding-profile-a) · [A](../core_05_band_accountability.md#non-compliance-finding-profile-a) · [C](../core_05_band_accountability.md#non-compliance-finding-profile-c)
+- [Due Process](../core_05_band_accountability.md#due-process-constitutional) · [O](../core_05_band_accountability.md#due-process-constitutional) · [M](../core_05_band_accountability.md#due-process-constitutional-a) · [A](../core_05_band_accountability.md#due-process-constitutional-a) · [C](../core_05_band_accountability.md#due-process-constitutional-c)
 - [Proportionality](../core_05_band_accountability.md#proportionality) · [O](../core_05_band_accountability.md#proportionality) · [M](../core_05_band_accountability.md#proportionality-a) · [A](../core_05_band_accountability.md#proportionality-a) · [C](../core_05_band_accountability.md#proportionality-c)
 - [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
 - [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
@@ -789,16 +790,16 @@ Deposition or preserved-testimony session
 <a id="due-process-requirements"></a>
 Due-process requirements
 
-*In plain terms: material actions must provide clear notice, understandable explanation, practical chance to contest, and timing proportional to severity, reversibility, class, dependency, and claimant scale.*
+*In plain terms: for material actions, keep usable notice, explanation, contest routes, and timing records scaled to severity, reversibility, class, dependency, and claimant scale.*
 
 - **What it is**
-  - **In scope:** Material actions must provide clear notice, understandable explanation, practical chance to contest, and timing proportional to severity, reversibility, class, dependency, and claimant scale.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in due-process.
+  - **In scope:** Apply [Due Process](../core_05_band_accountability.md#due-process-constitutional) by ensuring material actions carry clear notice, understandable explanation, a practical contest route, and timing scaled to severity, reversibility, class, dependency, and claimant scale.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in due-process requirements; the constitutional meaning of Due Process itself.
 <a id="due-process-requirements-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** affected parties can learn what happened, why, and how to respond without unreasonable barriers
+  - **Primary measure:** notice, explanation, contest-route, and timing records that let affected parties learn what happened, why, and how to respond without unreasonable barriers
 
-    **Primary assessment:** Evaluation must verify affected parties can learn what happened, why, and how to respond without unreasonable barriers.
+    **Primary assessment:** Evaluation must verify notice, explanation, contest-route, and timing records that let affected parties learn what happened, why, and how to respond without unreasonable barriers.
 <a id="due-process-requirements-c"></a>
 - **What must hold**
   - **Primary failure:** Paper process without meaningful participation.

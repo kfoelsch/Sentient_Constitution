@@ -313,11 +313,11 @@ auditability and reconstructability terms
 <a id="auditability-floor-and-record-sufficiency"></a>
 Auditability floor and record sufficiency
 
-*In plain terms: systems must keep records sufficient to evaluate compliance, reconstruct material behavior, and verify material claims.*
+*In plain terms: keep records with enough scope, provenance, intelligibility, continuity, and retention that a qualified reviewer can check compliance and reconstruct material behavior.*
 
 - **What it is**
-  - **In scope:** Systems must keep records sufficient to evaluate compliance, reconstruct material behavior, and verify material claims.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in auditability floor and record sufficiency.
+  - **In scope:** Apply [Auditability](../core_05_band_oversight.md#auditability) by retaining records whose scope, provenance, intelligibility, continuity, and retention support compliance evaluation, reconstruction of material behavior, and verification of material claims.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in auditability floor and record sufficiency; the constitutional meaning of Auditability itself.
 <a id="auditability-floor-and-record-sufficiency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** record scope, quality, and retention in practice

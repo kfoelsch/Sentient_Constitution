@@ -168,20 +168,20 @@ Notification and pathway integrity
 - **What must hold**
   - **Primary failure:** Formal participation when notice is incomplete, too late, or practically unusable.
 
-<a id="participation"></a>
-Participation
+<a id="eligibility-and-engagement-pathway-check"></a>
+Eligibility and engagement pathway check
 
-*In plain terms: eligible participants must have a real chance to engage.*
+*In plain terms: for the decision scope, keep eligibility routing and engagement records that show who could take part and who did.*
 
 - **What it is**
-  - **In scope:** Eligible participants must have a real chance to engage.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in participation.
-<a id="participation-a"></a>
+  - **In scope:** Apply [Participation](../core_05_apex_participation_leg.md#participation-constitutional) by publishing and retaining eligibility routing and engagement records for the decision scope so eligible actors can be reached and ineligible actors are not counted.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in eligibility and engagement pathway checks; the constitutional meaning of Participation itself.
+<a id="eligibility-and-engagement-pathway-check-a"></a>
 - **How to measure and assess**
   - **Primary measure:** eligibility routing and engagement records for the decision scope
 
     **Primary assessment:** Evaluation must verify eligibility routing and engagement records for the decision scope.
-<a id="participation-c"></a>
+<a id="eligibility-and-engagement-pathway-check-c"></a>
 - **What must hold**
   - **Primary failure:** Count ineligible actors or exclude eligible actors without a lawful documented reason.
 
@@ -236,20 +236,20 @@ Stakeholder oversight and binding-governance pathway integrity
 - **What must hold**
   - **Primary failure:** Present symbolic consultation as binding governance, to present binding governance as optional consultation, to hide material exit or adaptation consequences, or to rely on participation records that cannot later support accountable reconstruction.
 
-<a id="temporal"></a>
-Temporal
+<a id="participation-window-timing"></a>
+Participation-window timing
 
-*In plain terms: participation windows must fit the decision's impact, scope, and reversibility.*
+*In plain terms: notice, engagement, challenge, and escalation windows must fit the decision's impact, scope, and reversibility.*
 
 - **What it is**
-  - **In scope:** Participation windows must fit the decision's impact, scope, and reversibility.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in temporal.
-<a id="temporal-a"></a>
+  - **In scope:** Apply [Timeliness](../core_05_apex_timeliness_leg.md#timeliness-constitutional) to participation pathways by sizing notice, engagement, challenge, and escalation windows to the decision's impact, scope, and reversibility.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in participation-window timing; the constitutional meaning of Timeliness itself.
+<a id="participation-window-timing-a"></a>
 - **How to measure and assess**
   - **Primary measure:** time for practical notice, engagement, challenge, and escalation
 
     **Primary assessment:** Evaluation must verify time for practical notice, engagement, challenge, and escalation.
-<a id="temporal-c"></a>
+<a id="participation-window-timing-c"></a>
 - **What must hold**
   - **Primary failure:** Use timing that predictably blocks meaningful participation.
 
@@ -458,19 +458,19 @@ Layering and access
 <a id="meaningful-transparency-floor"></a>
 Meaningful transparency floor
 
-*In plain terms: a system that cannot be meaningfully understood is not transparent for this scope.*
+*In plain terms: disclosure for this scope must let qualified stakeholders follow purpose, operation, impact, and key decision paths — not drown them in volume.*
 
 - **What it is**
-  - **In scope:** A system that cannot be meaningfully understood is not transparent for this scope.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in meaningful transparency floor.
+  - **In scope:** Apply [Transparency](../core_05_band_oversight.md#transparency) by testing whether disclosed materials let qualified stakeholders understand purpose, operation, impact, and key decision paths for this scope.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in meaningful transparency floor; the constitutional meaning of Transparency itself.
 <a id="meaningful-transparency-floor-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** evaluation must test whether qualified stakeholders can understand purpose, operation, impact, and key decision paths
+  - **Primary measure:** whether qualified stakeholders can understand purpose, operation, impact, and key decision paths from the disclosed materials
 
-    **Primary assessment:** Evaluation must test whether qualified stakeholders can understand purpose, operation, impact, and key decision paths.
+    **Primary assessment:** Evaluation must test whether qualified stakeholders can understand purpose, operation, impact, and key decision paths from the disclosed materials.
 <a id="meaningful-transparency-floor-c"></a>
 - **What must hold**
-  - **Primary failure:** Volume alone does not satisfy transparency.
+  - **Primary failure:** Treat volume of disclosure alone as sufficient when purpose, operation, impact, or key decision paths remain practically unusable.
 
 <a id="proportional-application"></a>
 Proportional application

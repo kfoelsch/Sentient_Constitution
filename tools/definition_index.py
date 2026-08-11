@@ -317,5 +317,38 @@ def ch5_term_lookup(entries: list[Ch5Entry]) -> dict[str, Ch5Entry]:
     return lookup
 
 
+# Tetrad leg heads live in apex files as letter-form O/M/A/C without #### titles,
+# so collect_ch5_entries does not index them. Surface them for creep / anti-redefinition checks.
+TETRAD_APEX_HEADS: tuple[tuple[str, str, str], ...] = (
+    ("Participation", "core_05_apex_participation_leg.md", "#participation-constitutional"),
+    ("Oversight", "core_05_apex_oversight_leg.md", "#oversight-constitutional"),
+    ("Accountability", "core_05_apex_accountability_leg.md", "#accountability"),
+    ("Timeliness", "core_05_apex_timeliness_leg.md", "#timeliness-constitutional"),
+)
+
+
+def tetrad_apex_term_lookup() -> dict[str, Ch5Entry]:
+    """Synthetic Ch5Entry map for Constitutional Tetrad apex leg heads."""
+    lookup: dict[str, Ch5Entry] = {}
+    for term, source_file, anchor in TETRAD_APEX_HEADS:
+        lookup[term.casefold()] = Ch5Entry(
+            term=term,
+            source_file=source_file,
+            anchor=anchor,
+            line_start=1,
+            line_end=1,
+            category="tetrad_apex",
+        )
+    return lookup
+
+
+def ch5_term_lookup_with_tetrad_apex(entries: list[Ch5Entry]) -> dict[str, Ch5Entry]:
+    """Chapter Five leaf lookup plus Tetrad apex leg heads (Participation, Oversight, …)."""
+    lookup = ch5_term_lookup(entries)
+    for key, entry in tetrad_apex_term_lookup().items():
+        lookup.setdefault(key, entry)
+    return lookup
+
+
 def normalize_term_label(label: str) -> str:
     return re.sub(r"\s+", " ", label.strip()).casefold()

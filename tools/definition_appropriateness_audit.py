@@ -46,6 +46,7 @@ from definition_index import (  # noqa: E402
     collect_ch5_entries,
     collect_cjs3_clusters,
     ch5_term_lookup,
+    ch5_term_lookup_with_tetrad_apex,
     normalize_term_label,
 )
 from owner_discipline_audit import CH5_OWNERS, scan_file  # noqa: E402
@@ -852,6 +853,9 @@ def main() -> int:
     run.ch5_entries = collect_ch5_entries(root)
     run.cjs3_clusters = collect_cjs3_clusters(root)
     ch5_lookup = ch5_term_lookup(run.ch5_entries)
+    # Include Tetrad apex leg heads (not ####-indexed) so bare oDef labels like
+    # "Participation" are caught as competing-gloss risks.
+    creep_lookup = ch5_term_lookup_with_tetrad_apex(run.ch5_entries)
 
     if not args.skip_subprocess_audits:
         run.metrics["core_placement"] = run_subprocess_placement_audits(root, run.findings)
@@ -861,7 +865,7 @@ def main() -> int:
     run.metrics["cjs_placement"] = run_cjs_placement(root, run.findings)
     run.metrics["cjs_trace"] = run_cjs_trace(root, run.findings)
     run.metrics["cjs_constitutional_creep"] = run_cjs_constitutional_creep(
-        ch5_lookup, run.cjs3_clusters, run.findings
+        creep_lookup, run.cjs3_clusters, run.findings
     )
     run.metrics["impl_competing_gloss"] = run_impl_competing_gloss(root, run.findings)
     run.metrics["impl_relocation"] = run_impl_relocation(root, run.findings)
