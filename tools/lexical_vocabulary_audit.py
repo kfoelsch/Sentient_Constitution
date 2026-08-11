@@ -257,9 +257,12 @@ def run_internal_regression_checks() -> None:
     banned_word = "Peo" + "ple"
     sample = (
         "User agency and control\n\n"
-        f"- OP-O: {banned_word} must have practical control over ranking and presentation "
+        "- **What it is**\n"
+        f"  - **In scope:** {banned_word} must have practical control over ranking and presentation "
         "when that control is appropriate, including chronological or lightly processed views where feasible.\n"
-        "- OP-C: Systems must not misrepresent a person's real options.\n"
+        "  - **Out of scope:** ordinary ranking talk with no agency stake.\n"
+        "- **What must hold**\n"
+        "  - **Primary failure:** Systems must not misrepresent a person's real options.\n"
     )
     findings = scan_prefer_sentients_not_people_phrasing("internal-regression.md", sample)
     if len(findings) < 2:

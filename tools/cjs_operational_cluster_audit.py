@@ -2,8 +2,9 @@
 """Audit CJS placement and section-heading conventions for operational clusters.
 
 Fails when:
-- CJS-1 sections define reusable OP-O / OP-E / OP-C operational cluster terms
+- CJS-1 sections define reusable guidepost oDef operational cluster terms
   (those belong in CJS-3 per doc_architecture.md).
+- CJS-3 band files still carry legacy ``- OP-O:`` / ``- OP-E:`` / ``- OP-C:`` lines.
 - CJS-3 cluster section headings use letter suffixes (CJS-3A.1, CJS-3B, etc.).
 - CJS-3.1 constitutional compass map is incomplete or cluster Trace blocks lack
   Constitutional frame / Chapter One basis metadata.
@@ -17,6 +18,7 @@ import sys
 from pathlib import Path
 
 from corpus_paths import binding_corpus_scope
+from cjs_odef_format import LEGACY_OP_RE, titled_guidepost_entries
 
 CJS1_FILE = "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md"
 CJS3_GLOB = "corpus_joint_structure/cjs_03*.md"
@@ -40,14 +42,6 @@ TRACE_BLOCK_RE = re.compile(
 )
 LETTER_CLUSTER_ID_RE = re.compile(r"\bCJS-3[A-E](?:\.\d+)?\b")
 LETTER_ANCHOR_RE = re.compile(r"#cjs-3[a-e]\d*", re.IGNORECASE)
-
-OP_CLUSTER_BLOCK_RE = re.compile(
-    r"^([A-Z][^\n]{2,120})\n"
-    r"(- OP-O:.*\n"
-    r"- OP-E:.*\n"
-    r"- OP-C:.*)",
-    re.MULTILINE,
-)
 
 # CJS-1 may cite CJS-3 clusters; exclude pointer-only lines.
 POINTER_LINE_RE = re.compile(
@@ -82,15 +76,15 @@ def slice_cjs1_sections(text: str) -> list[tuple[str, str]]:
     return sections
 
 
-def find_cjs1_inline_op_clusters(section_id: str, body: str) -> list[str]:
+def find_cjs1_inline_odef_clusters(section_id: str, body: str) -> list[str]:
     findings: list[str] = []
-    for match in OP_CLUSTER_BLOCK_RE.finditer(body):
-        title = match.group(1).strip()
-        block = match.group(2)
-        if "OP-O:" not in block or "OP-E:" not in block or "OP-C:" not in block:
-            continue
-        # Ignore if this is inside a collapsible definitions widget (rare).
+    # Skip parse-mechanics sections that describe the format itself.
+    if section_id.startswith("CJS-1.13") or section_id.startswith("CJS-1.14"):
+        return findings
+    for title in titled_guidepost_entries(body):
         if title.startswith("[") or title.startswith("<"):
+            continue
+        if POINTER_LINE_RE.match(title):
             continue
         findings.append(
             f"{CJS1_FILE}: {section_id} defines operational cluster {title!r}; "
@@ -106,7 +100,25 @@ def audit_cjs1_op_clusters(root: Path) -> list[str]:
     text = path.read_text(encoding="utf-8")
     findings: list[str] = []
     for section_id, body in slice_cjs1_sections(text):
-        findings.extend(find_cjs1_inline_op_clusters(section_id, body))
+        findings.extend(find_cjs1_inline_odef_clusters(section_id, body))
+    return findings
+
+
+def audit_cjs3_legacy_op_lines(root: Path) -> list[str]:
+    findings: list[str] = []
+    for rel in CJS3_BAND_FILES + [
+        "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md"
+    ]:
+        path = root / rel
+        if not path.is_file():
+            continue
+        text = path.read_text(encoding="utf-8")
+        for line_no, line in enumerate(text.splitlines(), start=1):
+            if LEGACY_OP_RE.match(line):
+                findings.append(
+                    f"{rel}:{line_no}: legacy {line[:8]!r} line; migrate to guidepost "
+                    "**What it is** / **How to measure and assess** / **What must hold**."
+                )
     return findings
 
 
@@ -205,6 +217,7 @@ def main() -> int:
     root = Path(args.root).resolve()
     findings: list[str] = []
     findings.extend(audit_cjs1_op_clusters(root))
+    findings.extend(audit_cjs3_legacy_op_lines(root))
     findings.extend(audit_cjs3_letter_headings(root))
     findings.extend(audit_cjs3_compass_and_frames(root))
     findings.extend(audit_letter_cluster_citations(root))

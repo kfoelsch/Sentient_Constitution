@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit alphabetical order of CJS-3 OP cluster sub-terms within each subsection.
+"""Audit alphabetical order of CJS-3 oDef cluster sub-terms within each subsection.
 
 Fails when sortable sub-terms (excluding cluster intro lines and CJS-3.0 pinned
 preface rules) are not in case-insensitive alphabetical order.
@@ -12,6 +12,8 @@ import re
 import sys
 from pathlib import Path
 
+from cjs_odef_format import titled_guidepost_entries
+
 CJS3_GLOB = "corpus_joint_structure/cjs_03*.md"
 
 SECTION_SPLIT_RE = re.compile(r"(?=^#{1,3} CJS-3)", re.MULTILINE)
@@ -22,14 +24,6 @@ CJS30_PINNED = {
     "Role-definition reading rule",
 }
 
-OP_BLOCK_RE = re.compile(
-    r"^([A-Z][^\n]{2,200})\n"
-    r"(- OP-O:.*\n"
-    r"- OP-E:.*\n"
-    r"- OP-C:.*)",
-    re.MULTILINE,
-)
-
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
@@ -38,10 +32,13 @@ def parse_args() -> argparse.Namespace:
 
 
 def sortable_terms(section_id: str, body: str) -> list[str]:
-    terms = [match.group(1).strip() for match in OP_BLOCK_RE.finditer(body)]
+    terms = titled_guidepost_entries(body)
     filtered: list[str] = []
     for title in terms:
         if section_id.startswith("CJS-3.0") and title in CJS30_PINNED:
+            continue
+        # Cluster floor titles pinned in functional order (often lowercase).
+        if title[:1].islower():
             continue
         filtered.append(title)
     return filtered

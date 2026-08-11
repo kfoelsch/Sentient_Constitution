@@ -325,10 +325,10 @@ def run_cjs_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
             term=gap.get("rule", gap.get("cluster_id", "")),
             current_layer=gap.get("file", ""),
             line=int(gap.get("line", 0)),
-            message=f"Missing OP components: {', '.join(gap.get('missing', []))}",
+            message=f"Missing oDef guidepost components: {', '.join(gap.get('missing', []))}",
             severity="error",
-            expected_layer="complete OP-O/OP-E/OP-C",
-            action="complete operational triad",
+            expected_layer="complete What it is / How to measure and assess / What must hold",
+            action="complete guidepost oDef entry",
         )
     for gap in auditor.gaps.get("overreach", []):
         _add_finding(

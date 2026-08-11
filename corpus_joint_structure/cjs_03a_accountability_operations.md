@@ -77,10 +77,22 @@ Use this rule when legitimate governance, participation, concentration control, 
 
 One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because distributed-authority failures often surface only when authority, oversight, and verification are judged together; a sub-rule can look satisfied in isolation while capture, monopoly, or illegitimacy remains in the combined claim. It states the integrated obligation, evaluation, and compliance floor for **CJS-3.11** as a whole: authority, oversight, and verification must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
+<a id="distributed-and-proportional-authority-terms"></a>
 distributed and proportional authority terms
-- OP-O: Authority, oversight, and verification must be distributed, transparent, and resistant to capture.
-- OP-E: Reviewers must evaluate all required components together.
-- OP-C: Governance legitimacy is non-compliant if any material component is missing, unevaluated, or bypassed.
+
+*In plain terms: authority, oversight, and verification must be distributed, transparent, and resistant to capture.*
+
+- **What it is**
+  - **In scope:** Authority, oversight, and verification must be distributed, transparent, and resistant to capture.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in distributed and proportional authority.
+<a id="distributed-and-proportional-authority-terms-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** reviewers must evaluate all required components together
+
+    **Primary assessment:** Reviewers must evaluate all required components together.
+<a id="distributed-and-proportional-authority-terms-c"></a>
+- **What must hold**
+  - **Primary failure:** Governance legitimacy if any material component is missing, unevaluated, or bypassed.
 
 The sub-rules below apply that cluster floor to specific anti-concentration, distribution, accountability, classification, lane, systemic, formation, oversight, participation, and stewardship dimensions. Read them together with the cluster floor and the CJS read-with chain.
 
@@ -113,9 +125,22 @@ Adopters must define [Market Concentration Threshold](../core_05_band_accountabi
   - [Article XII-A](../core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*): whether systems can be relied on; and
   - [Article XIII-A](../core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*): limits on hidden or covert power.
 
-- OP-O: Systems must define concentration indicators and thresholds, and activate mitigation when thresholds are crossed or credibly approached.
-- OP-E: Reviewers must verify metrics such as lasting control, dependency concentration, and interface gatekeeping, along with available mitigation options, together with the floor-preservation, substance-over-form, anti-nullification, and heightened-scrutiny discipline above.
-- OP-C: Persistent concentration without effective mitigation is non-compliant; threshold regimes that nullify the constitutional floor are non-compliant.
+<a id="market-concentration-threshold-activation"></a>
+Market-concentration threshold activation
+
+*In plain terms: define real concentration indicators, and act when they are crossed or clearly about to be — not after harm is locked in.*
+
+- **What it is**
+  - **In scope:** Systems must define concentration indicators and thresholds, and activate mitigation when thresholds are crossed or credibly approached, under the floor-preservation, substance-over-form, anti-nullification, and heightened-scrutiny discipline above.
+  - **Out of scope:** ordinary market-share commentary or competitive analysis with no adopter threshold, mitigation trigger, or concentration-floor stake.
+<a id="market-concentration-threshold-activation-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** lasting control, dependency concentration, and interface-gatekeeping metrics, available mitigation options, and the floor-preservation, substance-over-form, anti-nullification, and heightened-scrutiny discipline above
+
+    **Primary assessment:** Reviewers must verify metrics such as lasting control, dependency concentration, and interface gatekeeping, along with available mitigation options, together with the floor-preservation, substance-over-form, anti-nullification, and heightened-scrutiny discipline above.
+<a id="market-concentration-threshold-activation-c"></a>
+- **What must hold**
+  - **Primary failure:** Persistent concentration without effective mitigation; threshold regimes that nullify the constitutional floor.
 
 <a id="cjs-3112-anti-domination-conduct-and-remediation-catalog"></a>
 ### CJS-3.11.2 Anti-domination conduct and remediation catalog
@@ -146,10 +171,22 @@ When market-structuring arrangements cross the [Chapter One §13](../core_01_c_s
 
 Claimed efficiencies, competitiveness, emergency need, security need, or productive-capacity gains must trace to constitutional outcomes and satisfy **Necessity**, **Proportionality**, **Proxy-Divergence Invalidation**, and Chapter Four evidence duties.
 
+<a id="anti-domination-conduct-and-remediation-catalog"></a>
 anti-domination conduct and remediation catalog
-- OP-O: Market-structuring arrangements must not create, maintain, acquire, exploit, conceal, or restructure around the prohibited domination patterns above where those patterns foreseeably degrade wellbeing, meaningful agency, contestability, or constitutional review; proportionate remedies must restore contestability and preserve the Chapter Six Rights Floor.
-- OP-E: Reviewers must evaluate substantive control, dependency leverage, and pathway usability together — applying [Contestability](../core_05_band_accountability.md#contestability), [Proxy Divergence](../core_05_band_oversight.md#proxy-divergence), and [Dependency](../core_05_band_continuity.md#dependency) analysis where livelihood, agency, wellbeing, ecological integrity, interoperability, exit, or constitutional review depend on the arrangement.
-- OP-C: Non-compliant: conduct that matches the illustrative patterns above without rebuttal under **Necessity**, **Proportionality**, and Chapter Four evidence duties; efficiency, competitiveness, emergency, security, or productive-capacity framing without traceable constitutional outcomes; or failure to apply proportionate remedies where domination is substantiated.
+
+*In plain terms: market-structuring arrangements must not create, maintain, acquire, exploit, conceal, or restructure around the prohibited domination patterns above where those patterns foreseeably degrade wellbeing, meaningful agency, contestability,…*
+
+- **What it is**
+  - **In scope:** Market-structuring arrangements must not create, maintain, acquire, exploit, conceal, or restructure around the prohibited domination patterns above where those patterns foreseeably degrade wellbeing, meaningful agency, contestability, or constitutional review; proportionate remedies must restore contestability and preserve the Chapter Six Rights Floor.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in anti-domination conduct and remediation catalog.
+<a id="anti-domination-conduct-and-remediation-catalog-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** reviewers must evaluate substantive control, dependency leverage, and pathway usability together — applying [Contestability](../core_05_band_accountability.md#contestability), [Proxy Divergence](../core_05_band_oversight.md#proxy-divergence), and [Dependency](../core_05_band_continuity.md#dependency) analysis where livelihood, agency, wellbeing, ecological integrity, interoperability, exit, or constitutional review depend on the arrangement
+
+    **Primary assessment:** Reviewers must evaluate substantive control, dependency leverage, and pathway usability together — applying [Contestability](../core_05_band_accountability.md#contestability), [Proxy Divergence](../core_05_band_oversight.md#proxy-divergence), and [Dependency](../core_05_band_continuity.md#dependency) analysis where livelihood, agency, wellbeing, ecological integrity, interoperability, exit, or constitutional review depend on the arrangement.
+<a id="anti-domination-conduct-and-remediation-catalog-c"></a>
+- **What must hold**
+  - **Primary failure:** Conduct that matches the illustrative patterns above without rebuttal under **Necessity**, **Proportionality**, and Chapter Four evidence duties; efficiency, competitiveness, emergency, security, or productive-capacity framing without traceable constitutional outcomes; or failure to apply proportionate remedies where domination is substantiated.
 
 Remedies must be proportionate to the concentration, dependency, conduct, and constitutional harm. They may include disclosure, access duties, interoperability, portability, open standards, conflict separation, labor-mobility protection, anti-retaliation measures, merger limits, acquisition standstill, procurement or capital-access correction, public-interest stewardship duties, receivership, divestiture, dissolution, or successor-control restrictions where lesser remedies cannot restore contestability. Remedies must preserve the Chapter Six Rights Floor and may not punish scale alone.
 
@@ -189,55 +226,175 @@ Remedies for crossing a consolidation ceiling must be proportionate under **CJS-
 
 Adopter-tunable ceilings may vary by domain and jurisdiction, but they may not be set so high, measured so narrowly, or enforced so weakly that they nullify the [Chapter One §13](../core_01_c_stewardship_capacity_principles.md#13-market-structure) floor, the **§13.1** threshold mechanism, or **§13.2** anti-domination discipline. A ceiling regime that foreseeably never binds, ignores substantive control, or treats consolidation as harmless solely because prices stay low is non-compliant under **Proxy-Divergence Invalidation**.
 
+<a id="consolidation-ceiling-setting-discipline-adopter-tunable"></a>
 consolidation ceiling-setting discipline (adopter-tunable)
-- OP-O: Adopters must define domain-specific consolidation ceilings and activate heightened review, intervention, or structural remedy when a ceiling is crossed or credibly approached.
-- OP-E: Reviewers must verify horizontal and vertical trigger design, crossing presumption handling, rebuttal evidence, and available remedies together with the anti-nullification discipline above.
-- OP-C: Ceiling regimes that nullify the constitutional floor, produce no actual review or intervention, or ignore substantive control are non-compliant.
 
+*In plain terms: adopters must define domain-specific consolidation ceilings and activate heightened review, intervention, or structural remedy when a ceiling is crossed or credibly approached.*
+
+- **What it is**
+  - **In scope:** Adopters must define domain-specific consolidation ceilings and activate heightened review, intervention, or structural remedy when a ceiling is crossed or credibly approached.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in consolidation ceiling-setting discipline (adopter-tunable).
+<a id="consolidation-ceiling-setting-discipline-adopter-tunable-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** horizontal and vertical trigger design, crossing presumption handling, rebuttal evidence, and available remedies together with the anti-nullification discipline above
+
+    **Primary assessment:** Reviewers must verify horizontal and vertical trigger design, crossing presumption handling, rebuttal evidence, and available remedies together with the anti-nullification discipline above.
+<a id="consolidation-ceiling-setting-discipline-adopter-tunable-c"></a>
+- **What must hold**
+  - **Primary failure:** Ceiling regimes that nullify the constitutional floor, produce no actual review or intervention, or ignore substantive control.
+
+<a id="authority-distribution-and-anti-monopoly-floor"></a>
 Authority distribution and anti-monopoly floor
-- OP-O: No single entity may monopolize interpretation, validation, or enforcement where plural authority is required.
-- OP-E: Reviewers must verify independent verification paths and auditable governance operations.
-- OP-C: Effective monopoly control is non-compliant.
 
+*In plain terms: no single entity may monopolize interpretation, validation, or enforcement where plural authority is required.*
+
+- **What it is**
+  - **In scope:** No single entity may monopolize interpretation, validation, or enforcement where plural authority is required.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in authority distribution and anti-monopoly floor.
+<a id="authority-distribution-and-anti-monopoly-floor-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** independent verification paths and auditable governance operations
+
+    **Primary assessment:** Reviewers must verify independent verification paths and auditable governance operations.
+<a id="authority-distribution-and-anti-monopoly-floor-c"></a>
+- **What must hold**
+  - **Primary failure:** Effective monopoly control.
+
+<a id="baseline-governance-accountability-conditions"></a>
 Baseline governance accountability conditions
-- OP-O: Authorities must remain subject to periodic revalidation, independent audit, and open challenge.
-- OP-E: Reviewers must verify that these routes work in practice.
-- OP-C: Authority insulated from meaningful review is non-compliant.
 
+*In plain terms: authorities must remain subject to periodic revalidation, independent audit, and open challenge.*
+
+- **What it is**
+  - **In scope:** Authorities must remain subject to periodic revalidation, independent audit, and open challenge.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in baseline governance accountability conditions.
+<a id="baseline-governance-accountability-conditions-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** these routes work in practice
+
+    **Primary assessment:** Reviewers must verify that these routes work in practice.
+<a id="baseline-governance-accountability-conditions-c"></a>
+- **What must hold**
+  - **Primary failure:** Authority insulated from meaningful review.
+
+<a id="classification-scaled-governance-burden"></a>
 Classification-scaled governance burden
-- OP-O: Where an institution's duties depend on `corpus_systems.md` **CS-3 — System classification and handling** classes or **CS-4 — Critical system stewardship** stewardship tiers, governance burden must scale with the applicable class and tier profile.
-- OP-E: Evaluation must verify that formation, authorization, oversight, assurance, mapping, delegated-subunit, and related institutional duties reflect the operative classification profile for affected scope.
-- OP-C: It is non-compliant to apply a lower institutional burden than the highest applicable class or tier for affected duties, or to treat multiple classes or tiers as if the lowest burden governs when a stricter burden applies.
 
+*In plain terms: where an institution's duties depend on `corpus_systems.md` **CS-3 — System classification and handling** classes or **CS-4 — Critical system stewardship** stewardship tiers, governance burden must scale with the applicable class and…*
+
+- **What it is**
+  - **In scope:** Where an institution's duties depend on `corpus_systems.md` **CS-3 — System classification and handling** classes or **CS-4 — Critical system stewardship** stewardship tiers, governance burden must scale with the applicable class and tier profile.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in classification-scaled governance burden.
+<a id="classification-scaled-governance-burden-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** formation, authorization, oversight, assurance, mapping, delegated-subunit, and related institutional duties reflect the operative classification profile for affected scope
+
+    **Primary assessment:** Evaluation must verify that formation, authorization, oversight, assurance, mapping, delegated-subunit, and related institutional duties reflect the operative classification profile for affected scope.
+<a id="classification-scaled-governance-burden-c"></a>
+- **What must hold**
+  - **Primary failure:** Apply a lower institutional burden than the highest applicable class or tier for affected duties, or to treat multiple classes or tiers as if the lowest burden governs when a stricter burden applies.
+
+<a id="constitutional-lane-and-functional-separation"></a>
 Constitutional lane and functional separation
-- OP-O: A constitutional lane is a published functional separation with constitutionally binding duties. Required lanes include direction and policy, execution, challenge and review, assurance and audit, and publication and evidence work. One institution may host more than one lane only when independence safeguards are documented, auditable, and contestable.
-- OP-E: Reviewers must verify each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under `corpus_systems.md` **CS-3 — System classification and handling** or **CS-4 — Critical system stewardship**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-3** (*Institutional design, separation of powers, and authority custody*).
-- OP-C: A lane is non-compliant if it is undefined, merged, or staffed in a way that defeats required separation, auditability, challenge, succession, or binding role accountability.
 
+*In plain terms: a constitutional lane is a published functional separation with constitutionally binding duties.*
+
+- **What it is**
+  - **In scope:** A constitutional lane is a published functional separation with constitutionally binding duties. Required lanes include direction and policy, execution, challenge and review, assurance and audit, and publication and evidence work. One institution may host more than one lane only when independence safeguards are documented, auditable, and contestable.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in constitutional lane and functional separation.
+<a id="constitutional-lane-and-functional-separation-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under `corpus_systems.md` **CS-3 — System classification and handling** or **CS-4 — Critical system stewardship**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-3** (*Institutional design, separation of powers, and authority custody*)
+
+    **Primary assessment:** Reviewers must verify each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under `corpus_systems.md` **CS-3 — System classification and handling** or **CS-4 — Critical system stewardship**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-3** (*Institutional design, separation of powers, and authority custody*).
+<a id="constitutional-lane-and-functional-separation-c"></a>
+- **What must hold**
+  - **Primary failure:** A lane if it is undefined, merged, or staffed in a way that defeats required separation, auditability, challenge, succession, or binding role accountability.
+
+<a id="contextual-and-systemic-evaluation-discipline"></a>
 Contextual and systemic evaluation discipline
-- OP-O: Oversight must evaluate upstream and downstream context, cross-system interactions, and the system's ecosystem role.
-- OP-E: Reviewers must verify that shared facts are assessed jointly under the CJS read-with chain.
-- OP-C: Isolated review that ignores material dependencies is non-compliant.
 
+*In plain terms: oversight must evaluate upstream and downstream context, cross-system interactions, and the system's ecosystem role.*
+
+- **What it is**
+  - **In scope:** Oversight must evaluate upstream and downstream context, cross-system interactions, and the system's ecosystem role.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in contextual and systemic evaluation discipline.
+<a id="contextual-and-systemic-evaluation-discipline-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** shared facts are assessed jointly under the CJS read-with chain
+
+    **Primary assessment:** Reviewers must verify that shared facts are assessed jointly under the CJS read-with chain.
+<a id="contextual-and-systemic-evaluation-discipline-c"></a>
+- **What must hold**
+  - **Primary failure:** Isolated review that ignores material dependencies.
+
+<a id="formation-and-authorization-proportionality-floor"></a>
 Formation and authorization proportionality floor
-- OP-O: Formation, authorization, registration, pre-authorization, and ongoing compliance burdens must scale with the implementation scope's system class, stewardship tier, dependency footprint, and irreversibility risk. Low-impact or planned **Class P** contexts should have low-friction formation paths, while **Class A** and comparable high-dependency contexts require due diligence proportionate to impact before authorization.
-- OP-E: Reviewers must verify authorization burden, evidence burden, audit cadence, publication depth, continuity planning depth, compliance cost, and contest-integrity monitoring as one proportional package. Owner-file publication duties and local institutional formation mechanics remain with the applicable **CI** section. Institutional [Charter](../core_05_band_continuity.md#charter) contents, periodic review, and formation-template fields are owned by **CI-3.6** (*Charter contents, review, and formation template*).
-- OP-C: Formation design is non-compliant if it imposes arbitrary friction on low-impact organization, under-scrutinizes high-impact or high-dependency authority, hides compliance cost, separates authorization from the classification, stewardship, dependency, and contest-integrity facts that determine burden, or authorizes an institution without a published Charter meeting **CI-3.6** where institutional formation applies.
 
+*In plain terms: formation, authorization, registration, pre-authorization, and ongoing compliance burdens must scale with the implementation scope's system class, stewardship tier, dependency footprint, and irreversibility risk.*
+
+- **What it is**
+  - **In scope:** Formation, authorization, registration, pre-authorization, and ongoing compliance burdens must scale with the implementation scope's system class, stewardship tier, dependency footprint, and irreversibility risk. Low-impact or planned **Class P** contexts should have low-friction formation paths, while **Class A** and comparable high-dependency contexts require due diligence proportionate to impact before authorization.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in formation and authorization proportionality floor.
+<a id="formation-and-authorization-proportionality-floor-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** authorization burden, evidence burden, audit cadence, publication depth, continuity planning depth, compliance cost, and contest-integrity monitoring as one proportional package. Owner-file publication duties and local institutional formation mechanics remain with the applicable **CI** section. Institutional [Charter](../core_05_band_continuity.md#charter) contents, periodic review, and formation-template fields are owned by **CI-3.6** (*Charter contents, review, and formation template*)
+
+    **Primary assessment:** Reviewers must verify authorization burden, evidence burden, audit cadence, publication depth, continuity planning depth, compliance cost, and contest-integrity monitoring as one proportional package. Owner-file publication duties and local institutional formation mechanics remain with the applicable **CI** section. Institutional [Charter](../core_05_band_continuity.md#charter) contents, periodic review, and formation-template fields are owned by **CI-3.6** (*Charter contents, review, and formation template*).
+<a id="formation-and-authorization-proportionality-floor-c"></a>
+- **What must hold**
+  - **Primary failure:** Formation design if it imposes arbitrary friction on low-impact organization, under-scrutinizes high-impact or high-dependency authority, hides compliance cost, separates authorization from the classification, stewardship, dependency, and contest-integrity facts that determine burden, or authorizes an institution without a published Charter meeting **CI-3.6** where institutional formation applies.
+
+<a id="proportional-oversight-intensity-scaling"></a>
 Proportional oversight-intensity scaling
-- OP-O: Oversight depth and frequency scale with impact, dependency, and irreversibility.
-- OP-E: Reviewers must verify stronger audits and visibility for high-impact governance.
-- OP-C: Weak oversight for high-impact governance is non-compliant.
 
+*In plain terms: oversight depth and frequency scale with impact, dependency, and irreversibility.*
+
+- **What it is**
+  - **In scope:** Oversight depth and frequency scale with impact, dependency, and irreversibility.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in proportional oversight-intensity scaling.
+<a id="proportional-oversight-intensity-scaling-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** stronger audits and visibility for high-impact governance
+
+    **Primary assessment:** Reviewers must verify stronger audits and visibility for high-impact governance.
+<a id="proportional-oversight-intensity-scaling-c"></a>
+- **What must hold**
+  - **Primary failure:** Weak oversight for high-impact governance.
+
+<a id="representation-and-participation-legitimacy-controls"></a>
 Representation and participation legitimacy controls
-- OP-O: High-impact decisions must identify affected stakeholders, provide real participation paths, prevent dominance, and check legitimacy before binding adoption.
-- OP-E: Reviewers must verify affected-class coverage, dissent handling, and reasons for accepting or rejecting alternatives.
-- OP-C: Token participation is non-compliant.
 
+*In plain terms: high-impact decisions must identify affected stakeholders, provide real participation paths, prevent dominance, and check legitimacy before binding adoption.*
+
+- **What it is**
+  - **In scope:** High-impact decisions must identify affected stakeholders, provide real participation paths, prevent dominance, and check legitimacy before binding adoption.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in representation and participation legitimacy.
+<a id="representation-and-participation-legitimacy-controls-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** affected-class coverage, dissent handling, and reasons for accepting or rejecting alternatives
+
+    **Primary assessment:** Reviewers must verify affected-class coverage, dissent handling, and reasons for accepting or rejecting alternatives.
+<a id="representation-and-participation-legitimacy-controls-c"></a>
+- **What must hold**
+  - **Primary failure:** Token participation.
+
+<a id="stewardship-role-depth-and-non-symbolic-governance-boundary"></a>
 Stewardship-role depth and non-symbolic governance boundary
-- OP-O: Authorized roles, competency paths, and incentives must match the real burden.
-- OP-E: Reviewers must verify that roles have substance and real decision authority.
-- OP-C: Title-only or ceremonial governance is non-compliant.
+
+*In plain terms: authorized roles, competency paths, and incentives must match the real burden.*
+
+- **What it is**
+  - **In scope:** Authorized roles, competency paths, and incentives must match the real burden.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in stewardship-role depth and non-symbolic governance boundary.
+<a id="stewardship-role-depth-and-non-symbolic-governance-boundary-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** roles have substance and real decision authority
+
+    **Primary assessment:** Reviewers must verify that roles have substance and real decision authority.
+<a id="stewardship-role-depth-and-non-symbolic-governance-boundary-c"></a>
+- **What must hold**
+  - **Primary failure:** Title-only or ceremonial governance.
 
 ---
 
@@ -285,67 +442,211 @@ Use this rule when restrictions, least-restrictive choices, or revalidation depe
 
 One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because restriction claims can look necessary, proportional, or well-documented in separate pieces while the material restriction as a whole remains unjustified, non-least-restrictive, or unlawfully persistent. It states the integrated obligation, evaluation, and compliance floor for **CJS-3.12** as a whole: burden of justification and constraint must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
+<a id="burden-of-justification-and-constraint-terms"></a>
 burden-of-justification and constraint terms
-- OP-O: Anyone imposing a material restriction must justify it.
-- OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
-- OP-C: It is non-compliant to impose or maintain a material restriction when any material component, dependency, institutional role, or implementation-layer interaction has not been fully evaluated under the same review record.
+
+*In plain terms: anyone imposing a material restriction must justify it.*
+
+- **What it is**
+  - **In scope:** Anyone imposing a material restriction must justify it.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in burden-of-justification and constraint.
+<a id="burden-of-justification-and-constraint-terms-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** all relevant system components, dependencies, institutional roles, and implementation-layer interactions together
+
+    **Primary assessment:** Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
+<a id="burden-of-justification-and-constraint-terms-c"></a>
+- **What must hold**
+  - **Primary failure:** Impose or maintain a material restriction when any material component, dependency, institutional role, or implementation-layer interaction has not been fully evaluated under the same review record.
 
 The sub-rules below apply that cluster floor to specific revenue and access-burden, collective-health support, disclosure, incentive-alignment, anti-enclosure, mechanism-integrity, burden-assignment, rights-collision, least-restrictive, survival-access, and revalidation dimensions. Read them together with the cluster floor and the CJS read-with chain.
 
+<a id="class-aligned-revenue-and-access-burden-floor"></a>
 Class-aligned revenue and access-burden floor
-- OP-O: Taxes, fees, subscriptions, user charges, commercial-use surcharges, priority fees, or similar revenue measures that materially affect access to a governed system, institution, forum pathway, or implementation interface must align with `corpus_systems.md` **CS-3 — System classification and handling** system class, dependency, and rights-pathway risk. General extraction must not make **Class A** survival access, **Class B** normal-operation-critical access, baseline rights pathways, or ordinary access to infrastructure-like **Class C** coordination practically unavailable.
-- OP-E: Reviewers must evaluate classification, essentiality, dependency, fee basis, disclosure, contestability, priority rules, externalized costs, commercial-scale use, concentration or gatekeeper rents, and reclassification evidence together. Commercial API, compute, bandwidth, queue-priority, model-access, or high-volume interface charges should be assessed against whether they place costs on discretionary, commercial, bulk, premium, externality-generating, or revenue-generating use rather than on baseline participation or protected access. Where a **Class C** system becomes de facto necessary for **Class A** or **Class B** dependents, fiscal treatment must be reviewed with classification.
-- OP-C: A revenue or charge structure is non-compliant if it uses survival-relevant, normal-operation-critical, baseline rights-pathway, or infrastructure-like coordination access as the primary extraction point; makes essential-like access prohibitively costly or administratively exclusionary; hides or mislabels the burden; lacks a usable contest route; discriminates outside lawful and disclosed use categories; or fails to re-evaluate classification and charge treatment when dependence or essentiality materially changes.
 
+*In plain terms: taxes, fees, subscriptions, user charges, commercial-use surcharges, priority fees, or similar revenue measures that materially affect access to a governed system, institution, forum pathway, or implementation interface must align with…*
+
+- **What it is**
+  - **In scope:** Taxes, fees, subscriptions, user charges, commercial-use surcharges, priority fees, or similar revenue measures that materially affect access to a governed system, institution, forum pathway, or implementation interface must align with `corpus_systems.md` **CS-3 — System classification and handling** system class, dependency, and rights-pathway risk. General extraction must not make **Class A** survival access, **Class B** normal-operation-critical access, baseline rights pathways, or ordinary access to infrastructure-like **Class C** coordination practically unavailable.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in class-aligned revenue and access-burden floor.
+<a id="class-aligned-revenue-and-access-burden-floor-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** reviewers must evaluate classification, essentiality, dependency, fee basis, disclosure, contestability, priority rules, externalized costs, commercial-scale use, concentration or gatekeeper rents, and reclassification evidence together. Commercial API, compute, bandwidth, queue-priority, model-access, or high-volume interface charges should be assessed against whether they place costs on discretionary, commercial, bulk, premium, externality-generating, or revenue-generating use rather than on baseline participation or protected access. Where a **Class C** system becomes de facto necessary for **Class A** or **Class B** dependents, fiscal treatment must be reviewed with classification
+
+    **Primary assessment:** Reviewers must evaluate classification, essentiality, dependency, fee basis, disclosure, contestability, priority rules, externalized costs, commercial-scale use, concentration or gatekeeper rents, and reclassification evidence together. Commercial API, compute, bandwidth, queue-priority, model-access, or high-volume interface charges should be assessed against whether they place costs on discretionary, commercial, bulk, premium, externality-generating, or revenue-generating use rather than on baseline participation or protected access. Where a **Class C** system becomes de facto necessary for **Class A** or **Class B** dependents, fiscal treatment must be reviewed with classification.
+<a id="class-aligned-revenue-and-access-burden-floor-c"></a>
+- **What must hold**
+  - **Primary failure:** A revenue or charge structure if it uses survival-relevant, normal-operation-critical, baseline rights-pathway, or infrastructure-like coordination access as the primary extraction point; makes essential-like access prohibitively costly or administratively exclusionary; hides or mislabels the burden; lacks a usable contest route; discriminates outside lawful and disclosed use categories; or fails to re-evaluate classification and charge treatment when dependence or essentiality materially changes.
+
+<a id="collective-health-and-emergency-support-bundle-floor"></a>
 Collective-health and emergency support-bundle floor
-- OP-O: Public-health, contagion, environmental-exposure, population-level harm, addiction-response, and comparable collective-care restrictions must pair any material liberty, movement, association, access, disclosure, or participation limit with the support needed to make the restriction necessary and proportionate, including housing, subsistence, care access, accessibility, ventilation or filtration, treatment, or stabilization support where material.
-- OP-E: Reviewers must evaluate the restriction, support bundle, stigma risk, care-first alternative, externality evidence, emergency duration, secrecy predicate, and sunset rule together. Owner-file public-health programs, addiction-informed routing, and local institutional controls remain with **CI-25** and other applicable **CI** sections.
-- OP-C: A collective-health restriction is non-compliant if it uses emergency or public-health framing to impose unsupported quarantine, stigma-driven enforcement, indefinite opaque continuity, or coercive treatment where a less restrictive care or stabilization pathway can satisfy the stated protective need.
 
+*In plain terms: public-health, contagion, environmental-exposure, population-level harm, addiction-response, and comparable collective-care restrictions must pair any material liberty, movement, association, access, disclosure, or participation limit…*
+
+- **What it is**
+  - **In scope:** Public-health, contagion, environmental-exposure, population-level harm, addiction-response, and comparable collective-care restrictions must pair any material liberty, movement, association, access, disclosure, or participation limit with the support needed to make the restriction necessary and proportionate, including housing, subsistence, care access, accessibility, ventilation or filtration, treatment, or stabilization support where material.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in collective-health and emergency support-bundle floor.
+<a id="collective-health-and-emergency-support-bundle-floor-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** reviewers must evaluate the restriction, support bundle, stigma risk, care-first alternative, externality evidence, emergency duration, secrecy predicate, and sunset rule together. Owner-file public-health programs, addiction-informed routing, and local institutional controls remain with **CI-25** and other applicable **CI** sections
+
+    **Primary assessment:** Reviewers must evaluate the restriction, support bundle, stigma risk, care-first alternative, externality evidence, emergency duration, secrecy predicate, and sunset rule together. Owner-file public-health programs, addiction-informed routing, and local institutional controls remain with **CI-25** and other applicable **CI** sections.
+<a id="collective-health-and-emergency-support-bundle-floor-c"></a>
+- **What must hold**
+  - **Primary failure:** A collective-health restriction if it uses emergency or public-health framing to impose unsupported quarantine, stigma-driven enforcement, indefinite opaque continuity, or coercive treatment where a less restrictive care or stabilization pathway can satisfy the stated protective need.
+
+<a id="disclosure-audit-and-challenge-sufficiency"></a>
 Disclosure, audit, and challenge sufficiency
-- OP-O: Restrictions must disclose assumptions, evidence, uncertainty, limits, and trade-offs as much as lawful protections allow.
-- OP-E: Evaluation must verify the record supports reconstruction and external testing.
-- OP-C: A justification that cannot be audited, reviewed, or contested is non-compliant.
 
+*In plain terms: restrictions must disclose assumptions, evidence, uncertainty, limits, and trade-offs as much as lawful protections allow.*
+
+- **What it is**
+  - **In scope:** Restrictions must disclose assumptions, evidence, uncertainty, limits, and trade-offs as much as lawful protections allow.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in disclosure, audit, and challenge sufficiency.
+<a id="disclosure-audit-and-challenge-sufficiency-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** the record supports reconstruction and external testing
+
+    **Primary assessment:** Evaluation must verify the record supports reconstruction and external testing.
+<a id="disclosure-audit-and-challenge-sufficiency-c"></a>
+- **What must hold**
+  - **Primary failure:** A justification that cannot be audited, reviewed, or contested.
+
+<a id="incentive-proof-residual-misalignment-and-scaling"></a>
 Incentive proof, residual misalignment, and scaling
-- OP-O: Adopted mechanisms must permit proportionate detection of incentive-driven patterns, attribution of outcomes to the structures that produced them, and independent evaluation of whether incentives remain constitutionally aligned over time.
-- OP-E: Reviewers must verify observable behavior, records, outcomes, and proxy-divergence evidence. Where full alignment is infeasible, residual misalignment must remain bounded, observable, contestable, non-systemic, and non-scalable.
-- OP-C: Claims of alignment that cannot be tested against behavior, records, or outcomes are insufficient. Conditional or partial compliance is unavailable if residual incentives foreseeably produce irreversible, large-scale, cross-boundary, or Rights-Floor harm under adversarial, scaled, strategic, or degraded conditions.
 
+*In plain terms: adopted mechanisms must permit proportionate detection of incentive-driven patterns, attribution of outcomes to the structures that produced them, and independent evaluation of whether incentives remain constitutionally aligned over time.*
+
+- **What it is**
+  - **In scope:** Adopted mechanisms must permit proportionate detection of incentive-driven patterns, attribution of outcomes to the structures that produced them, and independent evaluation of whether incentives remain constitutionally aligned over time.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in incentive proof, residual misalignment, and scaling.
+<a id="incentive-proof-residual-misalignment-and-scaling-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** observable behavior, records, outcomes, and proxy-divergence evidence. Where full alignment is infeasible, residual misalignment must remain bounded, observable, contestable, non-systemic, and non-scalable
+
+    **Primary assessment:** Reviewers must verify observable behavior, records, outcomes, and proxy-divergence evidence. Where full alignment is infeasible, residual misalignment must remain bounded, observable, contestable, non-systemic, and non-scalable.
+<a id="incentive-proof-residual-misalignment-and-scaling-c"></a>
+- **What must hold**
+  - **Primary failure:** Claims of alignment that cannot be tested against behavior, records, or outcomes are insufficient. Conditional or partial compliance is unavailable if residual incentives foreseeably produce irreversible, large-scale, cross-boundary, or Rights-Floor harm under adversarial, scaled, strategic, or degraded conditions.
+
+<a id="innovation-exclusivity-anti-enclosure-application"></a>
 Innovation-exclusivity anti-enclosure application
-- OP-O: Patent-like, copyright-like, trade-secret-like, license-based, or technical exclusivity claims that materially restrict repair, compatibility, migration, safety review, research, education, or public-interest implementation face the same burden.
-- OP-E: Evaluation must test exclusivity against interoperability, portability, safety, and anti-enclosure anchors.
-- OP-C: Using exclusivity as a categorical bypass is non-compliant.
 
+*In plain terms: patent-like, copyright-like, trade-secret-like, license-based, or technical exclusivity claims that materially restrict repair, compatibility, migration, safety review, research, education, or public-interest implementation face the…*
+
+- **What it is**
+  - **In scope:** Patent-like, copyright-like, trade-secret-like, license-based, or technical exclusivity claims that materially restrict repair, compatibility, migration, safety review, research, education, or public-interest implementation face the same burden.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in innovation-exclusivity anti-enclosure application.
+<a id="innovation-exclusivity-anti-enclosure-application-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** evaluation must test exclusivity against interoperability, portability, safety, and anti-enclosure anchors
+
+    **Primary assessment:** Evaluation must test exclusivity against interoperability, portability, safety, and anti-enclosure anchors.
+<a id="innovation-exclusivity-anti-enclosure-application-c"></a>
+- **What must hold**
+  - **Primary failure:** Using exclusivity as a categorical bypass.
+
+<a id="mechanism-integrity-and-incentive-alignment-floor"></a>
 Mechanism-integrity and incentive-alignment floor
-- OP-O: Any economic, reputational, governance, access, standing, credentialing, interface, settlement, market, or interaction mechanism that materially affects constitutional outcomes must make constitutionally aligned behavior the expected, sustainable path under ordinary, scaled, adversarial, and degraded conditions.
-- OP-E: Evaluation must test whether the mechanism foreseeably rewards harmful, deceptive, exploitative, anti-correction, or Rights-Floor-violating conduct through delay, aggregation, opacity, proxy gaming, externalized burden, or similar structure.
-- OP-C: A mechanism is non-compliant where enforcement, post-hoc correction, participant vigilance, goodwill, ignorance, cognitive overload, information asymmetry, or undisclosed operator intent is used as the main control while the mechanism itself predictably rewards constitutional misalignment.
 
+*In plain terms: any economic, reputational, governance, access, standing, credentialing, interface, settlement, market, or interaction mechanism that materially affects constitutional outcomes must make constitutionally aligned behavior the expected,…*
+
+- **What it is**
+  - **In scope:** Any economic, reputational, governance, access, standing, credentialing, interface, settlement, market, or interaction mechanism that materially affects constitutional outcomes must make constitutionally aligned behavior the expected, sustainable path under ordinary, scaled, adversarial, and degraded conditions.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in mechanism-integrity and incentive-alignment floor.
+<a id="mechanism-integrity-and-incentive-alignment-floor-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** evaluation must test whether the mechanism foreseeably rewards harmful, deceptive, exploitative, anti-correction, or Rights-Floor-violating conduct through delay, aggregation, opacity, proxy gaming, externalized burden, or similar structure
+
+    **Primary assessment:** Evaluation must test whether the mechanism foreseeably rewards harmful, deceptive, exploitative, anti-correction, or Rights-Floor-violating conduct through delay, aggregation, opacity, proxy gaming, externalized burden, or similar structure.
+<a id="mechanism-integrity-and-incentive-alignment-floor-c"></a>
+- **What must hold**
+  - **Primary failure:** A mechanism where enforcement, post-hoc correction, participant vigilance, goodwill, ignorance, cognitive overload, information asymmetry, or undisclosed operator intent is used as the main control while the mechanism itself predictably rewards constitutional misalignment.
+
+<a id="restriction-burden-assignment-floor"></a>
 Restriction-burden assignment floor
-- OP-O: The party proposing or implementing a restriction bears the burden of justification.
-- OP-E: Evaluation must verify the burden is explicit and not shifted onto affected sentients through opacity, cost, or procedure.
-- OP-C: Hidden, reversed, or displaced burden is non-compliant.
 
+*In plain terms: the party proposing or implementing a restriction bears the burden of justification.*
+
+- **What it is**
+  - **In scope:** The party proposing or implementing a restriction bears the burden of justification.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in restriction-burden assignment floor.
+<a id="restriction-burden-assignment-floor-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** the burden is explicit and not shifted onto affected sentients through opacity, cost, or procedure
+
+    **Primary assessment:** Evaluation must verify the burden is explicit and not shifted onto affected sentients through opacity, cost, or procedure.
+<a id="restriction-burden-assignment-floor-c"></a>
+- **What must hold**
+  - **Primary failure:** Hidden, reversed, or displaced burden.
+
+<a id="rights-collision-and-alternative-selection-record"></a>
 Rights-collision and alternative-selection record
-- OP-O: When restrictions are justified by conflict among rights or duties, the record must apply Chapter One §6.3.1 and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review triggers, and any required forum-review path.
-- OP-E: Evaluation must verify enough detail to test principle-based decision-making, least-restrictive selection, and the availability of ordinary or emergency forum review.
-- OP-C: A restriction justified by rights conflict is non-compliant if it lacks the Chapter One §6.3.1 record, omits required forum review, or treats emergency circumstances as a reason to bypass review rather than sequence it.
 
+*In plain terms: when restrictions are justified by conflict among rights or duties, the record must apply Chapter One §6.3.1 and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review…*
+
+- **What it is**
+  - **In scope:** When restrictions are justified by conflict among rights or duties, the record must apply Chapter One §6.3.1 and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review triggers, and any required forum-review path.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in rights-collision and alternative-selection record.
+<a id="rights-collision-and-alternative-selection-record-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** enough detail to test principle-based decision-making, least-restrictive selection, and the availability of ordinary or emergency forum review
+
+    **Primary assessment:** Evaluation must verify enough detail to test principle-based decision-making, least-restrictive selection, and the availability of ordinary or emergency forum review.
+<a id="rights-collision-and-alternative-selection-record-c"></a>
+- **What must hold**
+  - **Primary failure:** A restriction justified by rights conflict if it lacks the Chapter One §6.3.1 record, omits required forum review, or treats emergency circumstances as a reason to bypass review rather than sequence it.
+
+<a id="substantive-showing-and-least-restrictive-proof"></a>
 Substantive showing and least-restrictive proof
-- OP-O: Justification must show material harm or protective need, proportionality, and no adequate less restrictive alternative.
-- OP-E: Evaluation must verify evidence, severity and uncertainty scaling, and feasible-alternatives records.
-- OP-C: Speculative harm claims or missing least-restrictive proof are non-compliant.
 
+*In plain terms: justification must show material harm or protective need, proportionality, and no adequate less restrictive alternative.*
+
+- **What it is**
+  - **In scope:** Justification must show material harm or protective need, proportionality, and no adequate less restrictive alternative.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in substantive showing and least-restrictive proof.
+<a id="substantive-showing-and-least-restrictive-proof-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** evidence, severity and uncertainty scaling, and feasible-alternatives records
+
+    **Primary assessment:** Evaluation must verify evidence, severity and uncertainty scaling, and feasible-alternatives records.
+<a id="substantive-showing-and-least-restrictive-proof-c"></a>
+- **What must hold**
+  - **Primary failure:** Speculative harm claims or missing least-restrictive proof.
+
+<a id="survival-critical-access-and-voluntary-market-interface"></a>
 Survival-critical access and voluntary-market interface
-- OP-O: Sentients must be able to reach survival-level essentials—housing, connectivity, essential resources, and comparable baseline participation—without being forced into work, market participation, premium upgrades, or discretionary spending just to clear the floor. When a governed system, public program, market interface, or supervised commercial pathway delivers that access, it must protect the floor first. Buying, selling, entrepreneurship, cooperative production, and saving may operate above the floor only within constitutional and incorporated constraints.
-- OP-E: Reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply `corpus_systems.md` **CS-3 — System classification and handling** and **CS-4 — Critical system stewardship**.
-- OP-C: An arrangement is non-compliant if survival-level access effectively requires work or market participation; if published floor amounts ignore real place-based necessity without justification; if market infrastructure evades classification-scaled stewardship; or if revenue design shifts the primary cost onto indispensable access in violation of the class-aligned revenue floor.
 
+*In plain terms: sentients must be able to reach survival-level essentials—housing, connectivity, essential resources, and comparable baseline participation—without being forced into work, market participation, premium upgrades, or discretionary…*
+
+- **What it is**
+  - **In scope:** Sentients must be able to reach survival-level essentials—housing, connectivity, essential resources, and comparable baseline participation—without being forced into work, market participation, premium upgrades, or discretionary spending just to clear the floor. When a governed system, public program, market interface, or supervised commercial pathway delivers that access, it must protect the floor first. Buying, selling, entrepreneurship, cooperative production, and saving may operate above the floor only within constitutional and incorporated constraints.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in survival-critical access and voluntary-market.
+<a id="survival-critical-access-and-voluntary-market-interface-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply `corpus_systems.md` **CS-3 — System classification and handling** and **CS-4 — Critical system stewardship**
+
+    **Primary assessment:** Reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply `corpus_systems.md` **CS-3 — System classification and handling** and **CS-4 — Critical system stewardship**.
+<a id="survival-critical-access-and-voluntary-market-interface-c"></a>
+- **What must hold**
+  - **Primary failure:** An arrangement if survival-level access effectively requires work or market participation; if published floor amounts ignore real place-based necessity without justification; if market infrastructure evades classification-scaled stewardship; or if revenue design shifts the primary cost onto indispensable access in violation of the class-aligned revenue floor.
+
+<a id="temporal-discipline-and-revalidation"></a>
 Temporal discipline and revalidation
-- OP-O: Material restrictions covered by this rule include limits on rights exercise, access, participation, disclosure, audit, repair, interoperability, exit, restoration, or governance authority, including restrictions adopted to manage rights collisions. They must be scope-limited, time-bound, set to expire without renewed justification, periodically revalidated, and subject to mandatory forum review while they persist where they materially affect rights, standing, remedies, survival-critical access, or governance authority.
-- OP-E: Evaluation must verify the restriction category, affected parties, rights-collision analysis where applicable, sunset date or event, review cadence, reauthorization rule, forum-review route, and evidence that the restriction remains necessary and least-restrictive during each review period.
-- OP-C: Temporary, emergency, access, disclosure, participation, interoperability, exit, restoration, standing, or governance restrictions that persist by inertia, convenience, unresolved ownership, cost avoidance, or unfinished migration are non-compliant.
+
+*In plain terms: material restrictions covered by this rule include limits on rights exercise, access, participation, disclosure, audit, repair, interoperability, exit, restoration, or governance authority, including restrictions adopted to manage…*
+
+- **What it is**
+  - **In scope:** Material restrictions covered by this rule include limits on rights exercise, access, participation, disclosure, audit, repair, interoperability, exit, restoration, or governance authority, including restrictions adopted to manage rights collisions. They must be scope-limited, time-bound, set to expire without renewed justification, periodically revalidated, and subject to mandatory forum review while they persist where they materially affect rights, standing, remedies, survival-critical access, or governance authority.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in temporal discipline and revalidation.
+<a id="temporal-discipline-and-revalidation-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** the restriction category, affected parties, rights-collision analysis where applicable, sunset date or event, review cadence, reauthorization rule, forum-review route, and evidence that the restriction remains necessary and least-restrictive during each review period
+
+    **Primary assessment:** Evaluation must verify the restriction category, affected parties, rights-collision analysis where applicable, sunset date or event, review cadence, reauthorization rule, forum-review route, and evidence that the restriction remains necessary and least-restrictive during each review period.
+<a id="temporal-discipline-and-revalidation-c"></a>
+- **What must hold**
+  - **Primary failure:** Temporary, emergency, access, disclosure, participation, interoperability, exit, restoration, standing, or governance restrictions that persist by inertia, convenience, unresolved ownership, cost avoidance, or unfinished migration.
 
 ---
 
@@ -398,44 +699,131 @@ Use this rule when due process, reviewability, restoration, or enforcement propo
 
 One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because procedural failures often surface only when due process, review independence, enforcement proportionality, and restoration are judged together; a sub-rule can look satisfied in isolation while the pathway as a whole remains unfair, unchallengeable, or practically unreachable. It states the integrated obligation, evaluation, and compliance floor for **CJS-3.13** as a whole: procedural integrity and adjudication must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
+<a id="procedural-integrity-and-adjudication-terms"></a>
 procedural integrity and adjudication terms
-- OP-O: Procedures must provide due process, independent review, proportional enforcement, accessible restoration, uncertainty safeguards, and anti-abuse limits.
-- OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
-- OP-C: It is non-compliant to claim procedural integrity when a material component has not been tested and evaluated in practice.
+
+*In plain terms: procedures must provide due process, independent review, proportional enforcement, accessible restoration, uncertainty safeguards, and anti-abuse limits.*
+
+- **What it is**
+  - **In scope:** Procedures must provide due process, independent review, proportional enforcement, accessible restoration, uncertainty safeguards, and anti-abuse limits.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in procedural integrity and adjudication.
+<a id="procedural-integrity-and-adjudication-terms-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** all relevant system components, dependencies, institutional roles, and implementation-layer interactions together
+
+    **Primary assessment:** Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
+<a id="procedural-integrity-and-adjudication-terms-c"></a>
+- **What must hold**
+  - **Primary failure:** Claim procedural integrity when a material component has not been tested and evaluated in practice.
 
 The sub-rules below apply that cluster floor to specific backup routing, burden and proportionality, delegated bodies, deposition, due process, forum formation, representative treatment, restoration, review independence, sanction validity, class scaling, and uncertainty-safeguard dimensions. Read them together with the cluster floor and the CJS read-with chain.
 
+<a id="backup-activation"></a>
 Backup activation
-- OP-O: Backup routing must document transfer or co-routing to a designated backup forum when the lead forum cannot provide lawful independent merits determination in time.
-- OP-E: Evaluation must verify the activation trigger, timing basis, designated backup authority, records, notice where required, preservation of the case's primary stakes, and continuity of contest or review rights.
-- OP-C: Backup activation is non-compliant when it is undocumented, ad hoc, late enough to defeat the merits route, or used to change the case's substantive character without lawful authority.
 
+*In plain terms: backup routing must document transfer or co-routing to a designated backup forum when the lead forum cannot provide lawful independent merits determination in time.*
+
+- **What it is**
+  - **In scope:** Backup routing must document transfer or co-routing to a designated backup forum when the lead forum cannot provide lawful independent merits determination in time.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in backup activation.
+<a id="backup-activation-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** the activation trigger, timing basis, designated backup authority, records, notice where required, preservation of the case's primary stakes, and continuity of contest or review rights
+
+    **Primary assessment:** Evaluation must verify the activation trigger, timing basis, designated backup authority, records, notice where required, preservation of the case's primary stakes, and continuity of contest or review rights.
+<a id="backup-activation-c"></a>
+- **What must hold**
+  - **Primary failure:** Backup activation when it is undocumented, ad hoc, late enough to defeat the merits route, or used to change the case's substantive character without lawful authority.
+
+<a id="burden-proportionality-and-enforcement-selection"></a>
 Burden, proportionality, and enforcement selection
-- OP-O: The initiator bears an evidence-based burden, and enforcement must scale with harm, confidence, class, dependency, and reversibility.
-- OP-E: Evaluation must verify uncertainty is disclosed and weak evidence does not justify irreversible or high-impact action.
-- OP-C: Convenience, opacity, or overconfidence cannot replace proportional enforcement analysis.
 
+*In plain terms: the initiator bears an evidence-based burden, and enforcement must scale with harm, confidence, class, dependency, and reversibility.*
+
+- **What it is**
+  - **In scope:** The initiator bears an evidence-based burden, and enforcement must scale with harm, confidence, class, dependency, and reversibility.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in burden, proportionality, and enforcement selection.
+<a id="burden-proportionality-and-enforcement-selection-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** uncertainty is disclosed and weak evidence does not justify irreversible or high-impact action
+
+    **Primary assessment:** Evaluation must verify uncertainty is disclosed and weak evidence does not justify irreversible or high-impact action.
+<a id="burden-proportionality-and-enforcement-selection-c"></a>
+- **What must hold**
+  - **Primary failure:** Convenience, opacity, or overconfidence cannot replace proportional enforcement analysis.
+
+<a id="delegated-binding-body"></a>
 Delegated binding body
-- OP-O: A standing or recurring body below a parent institution may exercise materially binding delegated authority only within a published scope.
-- OP-E: Evaluation must verify the delegation source, scope boundaries, decision authority, composition, quorum or participation rules where applicable, records, and challenge or escalation paths.
-- OP-C: A delegated body is non-compliant when its authority is unpublished, materially exceeds its scope, lacks auditable records, or defeats owner-file independence, participation, or contest routes.
 
+*In plain terms: a standing or recurring body below a parent institution may exercise materially binding delegated authority only within a published scope.*
+
+- **What it is**
+  - **In scope:** A standing or recurring body below a parent institution may exercise materially binding delegated authority only within a published scope.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in delegated binding body.
+<a id="delegated-binding-body-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** the delegation source, scope boundaries, decision authority, composition, quorum or participation rules where applicable, records, and challenge or escalation paths
+
+    **Primary assessment:** Evaluation must verify the delegation source, scope boundaries, decision authority, composition, quorum or participation rules where applicable, records, and challenge or escalation paths.
+<a id="delegated-binding-body-c"></a>
+- **What must hold**
+  - **Primary failure:** A delegated body when its authority is unpublished, materially exceeds its scope, lacks auditable records, or defeats owner-file independence, participation, or contest routes.
+
+<a id="deposition-or-preserved-testimony-session"></a>
 Deposition or preserved-testimony session
-- OP-O: A deposition or preserved-testimony session is a structured record of witness, participant, expert, steward, or affected-party testimony taken outside the merits hearing under an oath, affirmation, truth-duty, governance-duty, or clearly stated voluntary attestation. It may be forum-authorized, party-noticed, community-governance initiated, mutually agreed, or voluntarily offered, and it may be conducted by a competent external record-preserving role when that role has no merits, sanction, or compulsion authority unless separately authorized. It preserves evidence, tests material facts, supports later review, or records community-governance knowledge; it is not itself a merits decision, sanction, hearing, mediation, informal interview, unilateral statement, investigative interrogation, or unrestricted discovery license.
-- OP-E: Evaluation must verify authorization or voluntary consent, notice to affected parties where material, scope of questioning, accessibility and interpretation support, protective conditions, conflict or sponsorship disclosures, objection logging, recording or transcript integrity, exhibit handling, correction rights, retention, access class, and the later use permitted for the record. If a deposition is used in a forum, emergency review, sanction, governance decision, or cross-implementation audit, reviewers must verify whether the opposing or affected side had a fair chance to test material testimony or whether any limit on testing was justified and reviewable.
-- OP-C: A deposition record is non-compliant when it is used to evade hearing rights, manufacture untested evidence, coerce a witness, hide restrictions or sponsorship, bypass restricted-evidence safeguards, launder an investigative interview into adjudicative evidence, or convert voluntary community testimony into binding proof without the notice, testing, record, and review protections required by its later use.
 
+*In plain terms: a deposition or preserved-testimony session is a structured record of witness, participant, expert, steward, or affected-party testimony taken outside the merits hearing under an oath, affirmation, truth-duty, governance-duty, or…*
+
+- **What it is**
+  - **In scope:** A deposition or preserved-testimony session is a structured record of witness, participant, expert, steward, or affected-party testimony taken outside the merits hearing under an oath, affirmation, truth-duty, governance-duty, or clearly stated voluntary attestation. It may be forum-authorized, party-noticed, community-governance initiated, mutually agreed, or voluntarily offered, and it may be conducted by a competent external record-preserving role when that role has no merits, sanction, or compulsion authority unless separately authorized. It preserves evidence, tests material facts, supports later review, or records community-governance knowledge; it is not itself a merits decision, sanction, hearing, mediation, informal interview, unilateral statement, investigative interrogation, or unrestricted discovery license.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in deposition or preserved-testimony session.
+<a id="deposition-or-preserved-testimony-session-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** authorization or voluntary consent, notice to affected parties where material, scope of questioning, accessibility and interpretation support, protective conditions, conflict or sponsorship disclosures, objection logging, recording or transcript integrity, exhibit handling, correction rights, retention, access class, and the later use permitted for the record. If a deposition is used in a forum, emergency review, sanction, governance decision, or cross-implementation audit, reviewers must verify whether the opposing or affected side had a fair chance to test material testimony or whether any limit on testing was justified and reviewable
+
+    **Primary assessment:** Evaluation must verify authorization or voluntary consent, notice to affected parties where material, scope of questioning, accessibility and interpretation support, protective conditions, conflict or sponsorship disclosures, objection logging, recording or transcript integrity, exhibit handling, correction rights, retention, access class, and the later use permitted for the record. If a deposition is used in a forum, emergency review, sanction, governance decision, or cross-implementation audit, reviewers must verify whether the opposing or affected side had a fair chance to test material testimony or whether any limit on testing was justified and reviewable.
+<a id="deposition-or-preserved-testimony-session-c"></a>
+- **What must hold**
+  - **Primary failure:** A deposition record when it is used to evade hearing rights, manufacture untested evidence, coerce a witness, hide restrictions or sponsorship, bypass restricted-evidence safeguards, launder an investigative interview into adjudicative evidence, or convert voluntary community testimony into binding proof without the notice, testing, record, and review protections required by its later use.
+
+<a id="due-process-requirements"></a>
 Due-process requirements
-- OP-O: Material actions must provide clear notice, understandable explanation, practical chance to contest, and timing proportional to severity, reversibility, class, dependency, and claimant scale.
-- OP-E: Evaluation must verify affected parties can learn what happened, why, and how to respond without unreasonable barriers.
-- OP-C: Paper process without meaningful participation is non-compliant.
 
+*In plain terms: material actions must provide clear notice, understandable explanation, practical chance to contest, and timing proportional to severity, reversibility, class, dependency, and claimant scale.*
+
+- **What it is**
+  - **In scope:** Material actions must provide clear notice, understandable explanation, practical chance to contest, and timing proportional to severity, reversibility, class, dependency, and claimant scale.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in due-process.
+<a id="due-process-requirements-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** affected parties can learn what happened, why, and how to respond without unreasonable barriers
+
+    **Primary assessment:** Evaluation must verify affected parties can learn what happened, why, and how to respond without unreasonable barriers.
+<a id="due-process-requirements-c"></a>
+- **What must hold**
+  - **Primary failure:** Paper process without meaningful participation.
+
+<a id="lawful-independent-forum"></a>
 Lawful independent forum
-- OP-O: A merits forum must be formed under published authority and must have required competence, quorum, and conflict-screened independence.
-- OP-E: Evaluation must verify formation authority, assigned forum family or equivalent route, competence, quorum, disclosures, recusals, substitutions, and independence safeguards before treating the merits determination as lawful.
-- OP-C: A merits determination is non-compliant when the forum lacks lawful formation, necessary competence, valid quorum, or conflict-screened independence.
 
+*In plain terms: a merits forum must be formed under published authority and must have required competence, quorum, and conflict-screened independence.*
+
+- **What it is**
+  - **In scope:** A merits forum must be formed under published authority and must have required competence, quorum, and conflict-screened independence.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in lawful independent forum.
+<a id="lawful-independent-forum-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** formation authority, assigned forum family or equivalent route, competence, quorum, disclosures, recusals, substitutions, and independence safeguards before treating the merits determination as lawful
+
+    **Primary assessment:** Evaluation must verify formation authority, assigned forum family or equivalent route, competence, quorum, disclosures, recusals, substitutions, and independence safeguards before treating the merits determination as lawful.
+<a id="lawful-independent-forum-c"></a>
+- **What must hold**
+  - **Primary failure:** A merits determination when the forum lacks lawful formation, necessary competence, valid quorum, or conflict-screened independence.
+
+<a id="representative-treatment"></a>
 Representative treatment
+
+*In plain terms: a forum may decide one shared question for many affected parties at once — but only when notice, representation, and contest routes stay real for everyone covered.*
 
 This sub-rule governs **common-question procedure**: a forum resolves one shared issue for many affected parties at once instead of requiring each sentient to relitigate the same underlying practice alone. It includes scope expansion to a **class** or **subclass** under `core_11-11_forum.md` **Chapter Eleven**, **section 3** (*Scope expansion and representative treatment*).
 
@@ -443,34 +831,102 @@ A **common decision rule** is the **named shared practice in dispute** for that 
 
 Before representative treatment can proceed, the record must identify that shared practice clearly enough that affected parties can contest **who is covered** (scope), **whether representation is adequate**, and **whether sentient-specific exceptions** are required.
 
-- OP-O: Common-question procedure may resolve issues for a broader affected group only when commonality, notice, adequate representation, and contestability are preserved.
-- OP-E: Evaluation must verify the common question, affected-group scope, notice sufficiency, representation adequacy, opt-out or separate-process rules where applicable, sentient-specific exceptions, and challenge paths.
-- OP-C: Representative treatment is non-compliant when it suppresses material individualized claims, hides affected parties, weakens adequate representation, or makes contest practically unavailable.
+- **What it is**
+  - **In scope:** Common-question procedure may resolve issues for a broader affected group only when commonality, notice, adequate representation, and contestability are preserved.
+  - **Out of scope:** ordinary multi-party case management or joinder talk with no common-question, class/subclass scope, or representative-treatment claim.
+<a id="representative-treatment-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** the common question, affected-group scope, notice sufficiency, representation adequacy, opt-out or separate-process rules where applicable, sentient-specific exceptions, and challenge paths
 
+    **Primary assessment:** Evaluation must verify the common question, affected-group scope, notice sufficiency, representation adequacy, opt-out or separate-process rules where applicable, sentient-specific exceptions, and challenge paths.
+<a id="representative-treatment-c"></a>
+- **What must hold**
+  - **Primary failure:** Representative treatment when it suppresses material individualized claims, hides affected parties, weakens adequate representation, or makes contest practically unavailable.
+
+<a id="restoration-accessibility-and-remedy-realism"></a>
 Restoration accessibility and remedy realism
-- OP-O: Error correction, restoration, mitigation, and compensation must be practically accessible and proportionate in cost and complexity.
-- OP-E: Evaluation must verify financing and execution do not unfairly shift proof or cost onto harmed parties.
-- OP-C: Nominal or unreachable restoration is non-compliant.
 
+*In plain terms: error correction, restoration, mitigation, and compensation must be practically accessible and proportionate in cost and complexity.*
+
+- **What it is**
+  - **In scope:** Error correction, restoration, mitigation, and compensation must be practically accessible and proportionate in cost and complexity.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in restoration accessibility and remedy realism.
+<a id="restoration-accessibility-and-remedy-realism-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** financing and execution do not unfairly shift proof or cost onto harmed parties
+
+    **Primary assessment:** Evaluation must verify financing and execution do not unfairly shift proof or cost onto harmed parties.
+<a id="restoration-accessibility-and-remedy-realism-c"></a>
+- **What must hold**
+  - **Primary failure:** Nominal or unreachable restoration.
+
+<a id="review-independence-and-contestability"></a>
 Review independence and contestability
-- OP-O: Material decisions need accessible review, escalation to suitable independence, auditable records, and clear outcome status.
-- OP-E: Evaluation must verify independence and usability in practice.
-- OP-C: Effectively unchallengeable decisions or powerless review are non-compliant.
 
+*In plain terms: material decisions need accessible review, escalation to suitable independence, auditable records, and clear outcome status.*
+
+- **What it is**
+  - **In scope:** Material decisions need accessible review, escalation to suitable independence, auditable records, and clear outcome status.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in review independence and contestability.
+<a id="review-independence-and-contestability-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** independence and usability in practice
+
+    **Primary assessment:** Evaluation must verify independence and usability in practice.
+<a id="review-independence-and-contestability-c"></a>
+- **What must hold**
+  - **Primary failure:** Effectively unchallengeable decisions or powerless review.
+
+<a id="sanction-validity-and-restoration-conditions"></a>
 Sanction validity and restoration conditions
-- OP-O: Non-trivial sanctions or exclusions need a reviewable record of necessity, attribution, purpose, and restoration or recurrence-reduction conditions where feasible.
-- OP-E: Evaluation must verify sanctions are remedial, restitutionary, or forward-protective rather than retaliation-only.
-- OP-C: Rights-affecting restrictions without auditable basis, meaningful review timing, or correction path are non-compliant.
 
+*In plain terms: non-trivial sanctions or exclusions need a reviewable record of necessity, attribution, purpose, and restoration or recurrence-reduction conditions where feasible.*
+
+- **What it is**
+  - **In scope:** Non-trivial sanctions or exclusions need a reviewable record of necessity, attribution, purpose, and restoration or recurrence-reduction conditions where feasible.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in sanction validity and restoration conditions.
+<a id="sanction-validity-and-restoration-conditions-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** sanctions are remedial, restitutionary, or forward-protective rather than retaliation-only
+
+    **Primary assessment:** Evaluation must verify sanctions are remedial, restitutionary, or forward-protective rather than retaliation-only.
+<a id="sanction-validity-and-restoration-conditions-c"></a>
+- **What must hold**
+  - **Primary failure:** Rights-affecting restrictions without auditable basis, meaningful review timing, or correction path.
+
+<a id="system-class-and-joint-read-scaling"></a>
 System-class and joint-read scaling
-- OP-O: Procedural rigor scales with `corpus_systems.md` class and any institution or forum duties on the same facts.
-- OP-E: Evaluation must verify shared-fact routing through applicable CJS rows and that simplification does not erase basic fairness.
-- OP-C: Downscoping below the combined implementation chain is non-compliant.
 
+*In plain terms: procedural rigor scales with `corpus_systems.md` class and any institution or forum duties on the same facts.*
+
+- **What it is**
+  - **In scope:** Procedural rigor scales with `corpus_systems.md` class and any institution or forum duties on the same facts.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in system-class and joint-read scaling.
+<a id="system-class-and-joint-read-scaling-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** shared-fact routing through applicable CJS rows and that simplification does not erase basic fairness
+
+    **Primary assessment:** Evaluation must verify shared-fact routing through applicable CJS rows and that simplification does not erase basic fairness.
+<a id="system-class-and-joint-read-scaling-c"></a>
+- **What must hold**
+  - **Primary failure:** Downscoping below the combined implementation chain.
+
+<a id="uncertainty-safeguards-and-anti-abuse-floor"></a>
 Uncertainty safeguards and anti-abuse floor
-- OP-O: Probabilistic or inference-based processes must show uncertainty, avoid treating protected or inferred internal states as fact, and increase safeguards when uncertainty or irreversibility is high.
-- OP-E: Evaluation must verify model-facing and procedure-facing uncertainty controls are active and auditable.
-- OP-C: Hidden uncertainty or procedure designed to exhaust challengers is non-compliant.
+
+*In plain terms: probabilistic or inference-based processes must show uncertainty, avoid treating protected or inferred internal states as fact, and increase safeguards when uncertainty or irreversibility is high.*
+
+- **What it is**
+  - **In scope:** Probabilistic or inference-based processes must show uncertainty, avoid treating protected or inferred internal states as fact, and increase safeguards when uncertainty or irreversibility is high.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in uncertainty safeguards and anti-abuse floor.
+<a id="uncertainty-safeguards-and-anti-abuse-floor-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** model-facing and procedure-facing uncertainty controls are active and auditable
+
+    **Primary assessment:** Evaluation must verify model-facing and procedure-facing uncertainty controls are active and auditable.
+<a id="uncertainty-safeguards-and-anti-abuse-floor-c"></a>
+- **What must hold**
+  - **Primary failure:** Hidden uncertainty or procedure designed to exhaust challengers.
 
 ---
 ## CJS-3.14 Accountability: intervention governance and override-authorization terms
@@ -512,42 +968,126 @@ Use this rule when governance-level intervention or override authorization depen
 
 One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because intervention paths can look authorized, sequenced, or well-recorded in separate pieces while the governance intervention as a whole remains unbounded, unchallengeable, or disproportionate. It states the integrated obligation, evaluation, and compliance floor for **CJS-3.14** as a whole: governance intervention and override authorization must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
+<a id="intervention-governance-and-override-authorization-terms"></a>
 intervention governance and override-authorization terms
-- OP-O: Governance intervention must be necessary, authorized, sequenced, bounded, recorded, challengeable, and proportional.
-- OP-E: Reviewers must evaluate all required components together.
-- OP-C: A claim of intervention-governance validity is non-compliant if any material component is missing, unevaluated, or bypassed.
+
+*In plain terms: governance intervention must be necessary, authorized, sequenced, bounded, recorded, challengeable, and proportional.*
+
+- **What it is**
+  - **In scope:** Governance intervention must be necessary, authorized, sequenced, bounded, recorded, challengeable, and proportional.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in intervention governance and override-authorization.
+<a id="intervention-governance-and-override-authorization-terms-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** reviewers must evaluate all required components together
+
+    **Primary assessment:** Reviewers must evaluate all required components together.
+<a id="intervention-governance-and-override-authorization-terms-c"></a>
+- **What must hold**
+  - **Primary failure:** A claim of intervention-governance validity if any material component is missing, unevaluated, or bypassed.
 
 The sub-rules below apply that cluster floor to specific authorization, emergency-limit, quorum, necessity-coupling, proportional-scaling, and records-transparency-challenge dimensions. Read them together with the cluster floor and the CJS read-with chain.
 
+<a id="authorization-and-role-scope-discipline"></a>
 Authorization and role-scope discipline
-- OP-O: Instruments must define who may authorize or execute intervention, under what conditions, and within what limits.
-- OP-E: Reviewers must verify that limits prevent unilateral or capture-prone override.
-- OP-C: Unbounded, ambiguous, or capture-prone authorization is non-compliant.
 
+*In plain terms: instruments must define who may authorize or execute intervention, under what conditions, and within what limits.*
+
+- **What it is**
+  - **In scope:** Instruments must define who may authorize or execute intervention, under what conditions, and within what limits.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in authorization and role-scope discipline.
+<a id="authorization-and-role-scope-discipline-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** limits prevent unilateral or capture-prone override
+
+    **Primary assessment:** Reviewers must verify that limits prevent unilateral or capture-prone override.
+<a id="authorization-and-role-scope-discipline-c"></a>
+- **What must hold**
+  - **Primary failure:** Unbounded, ambiguous, or capture-prone authorization.
+
+<a id="emergency-governance-limits-and-anti-normalization-control"></a>
 Emergency governance limits and anti-normalization control
-- OP-O: Pre-deliberation emergency interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review as soon as feasible, and rolled back or restored where feasible.
-- OP-E: Reviewers must verify that emergency powers do not persist without renewed justification, revalidation, and any required CF-14 (*Emergency adjudication*) emergency-review or restoration pathway.
-- OP-C: Emergency action that lacks a forum-review path, or that turns emergency mode into standing governance, is non-compliant.
 
+*In plain terms: pre-deliberation emergency interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review as soon as feasible, and rolled back or restored where feasible.*
+
+- **What it is**
+  - **In scope:** Pre-deliberation emergency interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review as soon as feasible, and rolled back or restored where feasible.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in emergency governance limits and anti-normalization control.
+<a id="emergency-governance-limits-and-anti-normalization-control-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** emergency powers do not persist without renewed justification, revalidation, and any required CF-14 (*Emergency adjudication*) emergency-review or restoration pathway
+
+    **Primary assessment:** Reviewers must verify that emergency powers do not persist without renewed justification, revalidation, and any required CF-14 (*Emergency adjudication*) emergency-review or restoration pathway.
+<a id="emergency-governance-limits-and-anti-normalization-control-c"></a>
+- **What must hold**
+  - **Primary failure:** Emergency action that lacks a forum-review path, or that turns emergency mode into standing governance,.
+
+<a id="governance-quorum-and-emergency-sequencing-requirements"></a>
 Governance quorum and emergency-sequencing requirements
-- OP-O: High-impact interventions must follow applicable quorum, staging, emergency-sequencing, and misuse-safeguard requirements.
-- OP-E: Reviewers must verify rate limits, staged escalation, post-action review, and limits on automated bypass.
-- OP-C: Omitting required sequencing or misuse safeguards is non-compliant.
 
+*In plain terms: high-impact interventions must follow applicable quorum, staging, emergency-sequencing, and misuse-safeguard requirements.*
+
+- **What it is**
+  - **In scope:** High-impact interventions must follow applicable quorum, staging, emergency-sequencing, and misuse-safeguard requirements.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in governance quorum and emergency-sequencing.
+<a id="governance-quorum-and-emergency-sequencing-requirements-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** rate limits, staged escalation, post-action review, and limits on automated bypass
+
+    **Primary assessment:** Reviewers must verify rate limits, staged escalation, post-action review, and limits on automated bypass.
+<a id="governance-quorum-and-emergency-sequencing-requirements-c"></a>
+- **What must hold**
+  - **Primary failure:** Omitting required sequencing or misuse safeguards.
+
+<a id="joint-necessity-and-technical-governance-coupling-floor"></a>
 Joint necessity and technical-governance coupling floor
-- OP-O: Governance procedures must preserve timely technical intervention when harm can move faster than ordinary process.
-- OP-E: Reviewers must verify that procedures do not disable required intervention paths.
-- OP-C: Procedure that makes timely intervention practically unavailable is non-compliant.
 
+*In plain terms: governance procedures must preserve timely technical intervention when harm can move faster than ordinary process.*
+
+- **What it is**
+  - **In scope:** Governance procedures must preserve timely technical intervention when harm can move faster than ordinary process.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in joint necessity and technical-governance coupling floor.
+<a id="joint-necessity-and-technical-governance-coupling-floor-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** procedures do not disable required intervention paths
+
+    **Primary assessment:** Reviewers must verify that procedures do not disable required intervention paths.
+<a id="joint-necessity-and-technical-governance-coupling-floor-c"></a>
+- **What must hold**
+  - **Primary failure:** Procedure that makes timely intervention practically unavailable.
+
+<a id="proportional-procedural-scaling"></a>
 Proportional procedural scaling
-- OP-O: Procedural rigor, documentation, and testing scale with impact, harm speed, dependency, irreversibility, and autonomy.
-- OP-E: Reviewers must verify that intervention procedures are documented, tested, and kept current in proportion to system criticality, and that simplified procedures do not externalize harm, block mitigation, or bar stakeholder response.
-- OP-C: Undocumented, untested, stale, or downscoped procedures are non-compliant where significant intervention risk remains.
 
+*In plain terms: procedural rigor, documentation, and testing scale with impact, harm speed, dependency, irreversibility, and autonomy.*
+
+- **What it is**
+  - **In scope:** Procedural rigor, documentation, and testing scale with impact, harm speed, dependency, irreversibility, and autonomy.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in proportional procedural scaling.
+<a id="proportional-procedural-scaling-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** intervention procedures are documented, tested, and kept current in proportion to system criticality, and that simplified procedures do not externalize harm, block mitigation, or bar stakeholder response
+
+    **Primary assessment:** Reviewers must verify that intervention procedures are documented, tested, and kept current in proportion to system criticality, and that simplified procedures do not externalize harm, block mitigation, or bar stakeholder response.
+<a id="proportional-procedural-scaling-c"></a>
+- **What must hold**
+  - **Primary failure:** Undocumented, untested, stale, or downscoped procedures where significant intervention risk remains.
+
+<a id="records-transparency-and-challenge-pathway-duties"></a>
 Records, transparency, and challenge pathway duties
-- OP-O: Governance must ensure adequate intervention records, default transparency, narrow exceptions, and feasible challenge or review paths.
-- OP-E: Reviewers must verify that records and disclosure are enough for independent review and constitutional challenge.
-- OP-C: Missing records, transparency defaults, or challenge channels are non-compliant.
+
+*In plain terms: governance must ensure adequate intervention records, default transparency, narrow exceptions, and feasible challenge or review paths.*
+
+- **What it is**
+  - **In scope:** Governance must ensure adequate intervention records, default transparency, narrow exceptions, and feasible challenge or review paths.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in records, transparency, and challenge pathway.
+<a id="records-transparency-and-challenge-pathway-duties-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** records and disclosure are enough for independent review and constitutional challenge
+
+    **Primary assessment:** Reviewers must verify that records and disclosure are enough for independent review and constitutional challenge.
+<a id="records-transparency-and-challenge-pathway-duties-c"></a>
+- **What must hold**
+  - **Primary failure:** Missing records, transparency defaults, or challenge channels.
 
 ---
 
@@ -592,40 +1132,56 @@ Records, transparency, and challenge pathway duties
 
 Use this rule when recurring failures, Correction Urgency Level (**CUL**) assignment, structural transparency, or **material classification-record honesty** (correction, precautionary default, and no quiet lowering across owner-layer class/type/status files) depends on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior.
 
+<a id="structural-review-correction-urgency-and-disclosure-terms"></a>
 structural review, correction urgency, and disclosure terms
-- OP-O: Systems must detect patterns, assign correction urgency, integrate fixes, keep structural records, and disclose to the right stakeholders.
-- OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
-- OP-C: It is non-compliant to claim adequate structural correction when a material component has not been fully evaluated, remains unused, or is disconnected from remediation.
 
+*In plain terms: systems must detect patterns, assign correction urgency, integrate fixes, keep structural records, and disclose to the right stakeholders.*
+
+- **What it is**
+  - **In scope:** Systems must detect patterns, assign correction urgency, integrate fixes, keep structural records, and disclose to the right stakeholders.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in structural review, correction urgency, and disclosure.
+<a id="structural-review-correction-urgency-and-disclosure-terms-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** all relevant system components, dependencies, institutional roles, and implementation-layer interactions together
+
+    **Primary assessment:** Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
+<a id="structural-review-correction-urgency-and-disclosure-terms-c"></a>
+- **What must hold**
+  - **Primary failure:** Claim adequate structural correction when a material component has not been fully evaluated, remains unused, or is disconnected from remediation.
+
+<a id="correction-urgency-level-cul-discipline"></a>
 Correction Urgency Level (CUL) discipline
-- OP-O: Structural issues must receive auditable urgency levels based on impact, propagation risk, and irreversibility. **CUL-1** requires immediate containment and safe-mode or graceful-degradation coupling where feasible.
-- OP-E: Evaluation must verify urgency labels actually change response speed, safeguards, and oversight.
-- OP-C: Serious issues without timely containment, or urgency labels that do not govern action, are non-compliant.
 
+*In plain terms: structural issues must receive auditable urgency levels based on impact, propagation risk, and irreversibility.*
+
+- **What it is**
+  - **In scope:** Structural issues must receive auditable urgency levels based on impact, propagation risk, and irreversibility. **CUL-1** requires immediate containment and safe-mode or graceful-degradation coupling where feasible.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in correction Urgency Level (CUL) discipline.
+<a id="correction-urgency-level-cul-discipline-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** urgency labels actually change response speed, safeguards, and oversight
+
+    **Primary assessment:** Evaluation must verify urgency labels actually change response speed, safeguards, and oversight.
+<a id="correction-urgency-level-cul-discipline-c"></a>
+- **What must hold**
+  - **Primary failure:** Serious issues without timely containment, or urgency labels that do not govern action,.
+
+<a id="feedback-integration-and-effectiveness-verification"></a>
 Feedback integration and effectiveness verification
-- OP-O: Confirmed corrections must be integrated into models, rules, incentives, interfaces, communications, and structure, with effectiveness checks where feasible.
-- OP-E: Evaluation must verify remediation is tracked through implementation.
-- OP-C: Documented but uncorrected recurring defects are non-compliant.
 
-Realignment resistance and dissolution-review trigger floor
-- OP-O: Repeated, verified anti-constitutional misconduct, chronic misalignment, or realignment resistance must trigger structural review that can escalate to constrained authority, supervised operation, dissolution, disbandment, or equivalent owner-layer consequence where lesser measures cannot protect constitutional obligations.
-- OP-E: Evaluation must verify whether obstruction, concealment, retaliation, strategic delay, evidence destruction, metric gaming, dependency lock-in, or structural workaround persists after a reasonable opportunity for good-faith cure, and whether continuity-transfer safeguards preserve rights, services, records, and active challenge pathways during any escalation.
-- OP-C: It is non-compliant to treat persistent realignment resistance as ordinary delay, to use dissolution review as a substitute for the owner-file anti-constitutional-misconduct designation or personal accountability process, or to dissolve or disband a structure without continuity safeguards for affected rights, services, records, and challenge pathways.
+*In plain terms: confirmed corrections must be integrated into models, rules, incentives, interfaces, communications, and structure, with effectiveness checks where feasible.*
 
-Stakeholder scope and targeted transparency
-- OP-O: Systems must define clear, contestable stakeholder criteria for disclosure, audit access, and accountability, expanding scope as class, impact, dependency, CUL level, or propagation risk rises.
-- OP-E: Evaluation must verify affected parties are not excluded and sensitive classes are protected through scoped disclosure instead of blanket opacity.
-- OP-C: Excluding affected stakeholders or overexposing protected data without justification is non-compliant.
+- **What it is**
+  - **In scope:** Confirmed corrections must be integrated into models, rules, incentives, interfaces, communications, and structure, with effectiveness checks where feasible.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in feedback integration and effectiveness verification.
+<a id="feedback-integration-and-effectiveness-verification-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** remediation is tracked through implementation
 
-Structural records, risk-relevant data, and disclosure timing
-- OP-O: Structural-issue records must support audit and later analysis while using minimization or anonymization where needed.
-- OP-E: Evaluation must verify rights-protective handling does not suppress risk-relevant data.
-- OP-C: Record handling that obscures systemic risk or accountability is non-compliant.
-
-Systemic-pattern detection and escalation
-- OP-O: Decisions, disputes, enforcement actions, and failures must be monitored for repeated errors, biased outcomes, weak-signal reliance, component-linked clusters, and cross-boundary spread.
-- OP-E: Evaluation must verify disclosed, impact-scaled thresholds that distinguish structural defects from isolated events.
-- OP-C: Treating repeated patterns as isolated events to avoid review is non-compliant.
+    **Primary assessment:** Evaluation must verify remediation is tracked through implementation.
+<a id="feedback-integration-and-effectiveness-verification-c"></a>
+- **What must hold**
+  - **Primary failure:** Documented but uncorrected recurring defects.
 
 <a id="cjs-315-material-classification-record-honesty"></a>
 Material classification-record honesty (correction, precautionary default, and no quiet lowering)
@@ -634,12 +1190,88 @@ Material classification-record honesty (correction, precautionary default, and n
 
 Use this sub-rule when a material **classification, typing, or status record** other systems, institutions, forums, or certification cycles rely on is incomplete, contested, understated, or evasive — including the [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional), the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional), and comparable owner-layer classification files. Domain anti-evasion lists and required fields stay with the owner file (**CS-2**, **CS-3**, and peers). How System Alignment Certification treats resulting defects lives under **Chapter Seven** and **[Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)**.
 
-- OP-O: Operators must keep material classification records honest. When understatement, evasion, or misclassification is found, **correct** the record, apply proportional requirements **retroactively** where appropriate, and take corrective action for resulting harm or exposure. Do **not** split, modularize, fragment, re-label, or otherwise restructure just to dodge a stronger applicable classification. Where the record is incomplete, ambiguous, or contested, apply the owner-layer **rights-protective / highest-plausible** default, and state any precautionary finding and pending conditions **in the record**. **Lowering** a protective classification, dropping recognition conditions, or claiming lighter duties requires evidence, documentation, and successful review — an internal self-clear alone does **not** defeat a timely contest (**CJS-3.12**).
-- OP-E: Evaluation must verify that corrected records match observed and reasonably foreseeable effects; that anti-evasion structure was not used to understate class, type, or status; that precautionary findings and pending conditions are stated where uncertainty remains; and that any lowering path shows evidence, review, and contestability rather than quiet dial-down.
-- OP-C: It is non-compliant to leave known misclassification or evasion uncorrected, to game boundaries or labels to dodge stronger duties, to fill uncertainty with an optimistic understatement, or to lower protective findings by assertion or internal self-clear without the required evidence and review.
+- **What it is**
+  - **In scope:** Operators must keep material classification records honest. When understatement, evasion, or misclassification is found, **correct** the record, apply proportional requirements **retroactively** where appropriate, and take corrective action for resulting harm or exposure. Do **not** split, modularize, fragment, re-label, or otherwise restructure just to dodge a stronger applicable classification. Where the record is incomplete, ambiguous, or contested, apply the owner-layer **rights-protective / highest-plausible** default, and state any precautionary finding and pending conditions **in the record**. **Lowering** a protective classification, dropping recognition conditions, or claiming lighter duties requires evidence, documentation, and successful review — an internal self-clear alone does **not** defeat a timely contest (**CJS-3.12**).
+  - **Out of scope:** ordinary recordkeeping hygiene or metadata cleanup with no material class, type, status, protective-duty, or recognition-condition stake.
+<a id="cjs-315-material-classification-record-honesty-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** corrected records matching observed and reasonably foreseeable effects; anti-evasion structure not used to understate class, type, or status; precautionary findings and pending conditions stated where uncertainty remains; lowering paths showing evidence, review, and contestability rather than quiet dial-down
+
+    **Primary assessment:** Evaluation must verify that corrected records match observed and reasonably foreseeable effects; that anti-evasion structure was not used to understate class, type, or status; that precautionary findings and pending conditions are stated where uncertainty remains; and that any lowering path shows evidence, review, and contestability rather than quiet dial-down.
+<a id="cjs-315-material-classification-record-honesty-c"></a>
+- **What must hold**
+  - **Primary failure:** Leave known misclassification or evasion uncorrected, to game boundaries or labels to dodge stronger duties, to fill uncertainty with an optimistic understatement, or to lower protective findings by assertion or internal self-clear without the required evidence and review.
 
 ---
 
 **Previous file:** [cjs_03p_participation_operations.md](cjs_03p_participation_operations.md)
 
 **Next file:** [cjs_03c_continuity_operations.md](cjs_03c_continuity_operations.md)
+
+<a id="realignment-resistance-and-dissolution-review-trigger-floor"></a>
+Realignment resistance and dissolution-review trigger floor
+
+*In plain terms: repeated, verified anti-constitutional misconduct, chronic misalignment, or realignment resistance must trigger structural review that can escalate to constrained authority, supervised operation, dissolution, disbandment, or equivalent…*
+
+- **What it is**
+  - **In scope:** Repeated, verified anti-constitutional misconduct, chronic misalignment, or realignment resistance must trigger structural review that can escalate to constrained authority, supervised operation, dissolution, disbandment, or equivalent owner-layer consequence where lesser measures cannot protect constitutional obligations.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in realignment resistance and dissolution-review trigger floor.
+<a id="realignment-resistance-and-dissolution-review-trigger-floor-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** whether obstruction, concealment, retaliation, strategic delay, evidence destruction, metric gaming, dependency lock-in, or structural workaround persists after a reasonable opportunity for good-faith cure, and whether continuity-transfer safeguards preserve rights, services, records, and active challenge pathways during any escalation
+
+    **Primary assessment:** Evaluation must verify whether obstruction, concealment, retaliation, strategic delay, evidence destruction, metric gaming, dependency lock-in, or structural workaround persists after a reasonable opportunity for good-faith cure, and whether continuity-transfer safeguards preserve rights, services, records, and active challenge pathways during any escalation.
+<a id="realignment-resistance-and-dissolution-review-trigger-floor-c"></a>
+- **What must hold**
+  - **Primary failure:** Treat persistent realignment resistance as ordinary delay, to use dissolution review as a substitute for the owner-file anti-constitutional-misconduct designation or personal accountability process, or to dissolve or disband a structure without continuity safeguards for affected rights, services, records, and challenge pathways.
+
+<a id="stakeholder-scope-and-targeted-transparency"></a>
+Stakeholder scope and targeted transparency
+
+*In plain terms: systems must define clear, contestable stakeholder criteria for disclosure, audit access, and accountability, expanding scope as class, impact, dependency, CUL level, or propagation risk rises.*
+
+- **What it is**
+  - **In scope:** Systems must define clear, contestable stakeholder criteria for disclosure, audit access, and accountability, expanding scope as class, impact, dependency, CUL level, or propagation risk rises.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in stakeholder scope and targeted transparency.
+<a id="stakeholder-scope-and-targeted-transparency-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** affected parties are not excluded and sensitive classes are protected through scoped disclosure instead of blanket opacity
+
+    **Primary assessment:** Evaluation must verify affected parties are not excluded and sensitive classes are protected through scoped disclosure instead of blanket opacity.
+<a id="stakeholder-scope-and-targeted-transparency-c"></a>
+- **What must hold**
+  - **Primary failure:** Excluding affected stakeholders or overexposing protected data without justification.
+
+<a id="structural-records-risk-relevant-data-and-disclosure-timing"></a>
+Structural records, risk-relevant data, and disclosure timing
+
+*In plain terms: structural-issue records must support audit and later analysis while using minimization or anonymization where needed.*
+
+- **What it is**
+  - **In scope:** Structural-issue records must support audit and later analysis while using minimization or anonymization where needed.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in structural records, risk-relevant data, and disclosure timing.
+<a id="structural-records-risk-relevant-data-and-disclosure-timing-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** rights-protective handling does not suppress risk-relevant data
+
+    **Primary assessment:** Evaluation must verify rights-protective handling does not suppress risk-relevant data.
+<a id="structural-records-risk-relevant-data-and-disclosure-timing-c"></a>
+- **What must hold**
+  - **Primary failure:** Record handling that obscures systemic risk or accountability.
+
+<a id="systemic-pattern-detection-and-escalation"></a>
+Systemic-pattern detection and escalation
+
+*In plain terms: decisions, disputes, enforcement actions, and failures must be monitored for repeated errors, biased outcomes, weak-signal reliance, component-linked clusters, and cross-boundary spread.*
+
+- **What it is**
+  - **In scope:** Decisions, disputes, enforcement actions, and failures must be monitored for repeated errors, biased outcomes, weak-signal reliance, component-linked clusters, and cross-boundary spread.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in systemic-pattern detection and escalation.
+<a id="systemic-pattern-detection-and-escalation-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** disclosed, impact-scaled thresholds that distinguish structural defects from isolated events
+
+    **Primary assessment:** Evaluation must verify disclosed, impact-scaled thresholds that distinguish structural defects from isolated events.
+<a id="systemic-pattern-detection-and-escalation-c"></a>
+- **What must hold**
+  - **Primary failure:** Treating repeated patterns as isolated events to avoid review.

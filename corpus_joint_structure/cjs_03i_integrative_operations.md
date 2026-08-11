@@ -71,37 +71,109 @@ Use this rule when secrecy, protected investigations, oversight, or delayed rele
 
 One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because lawful-secrecy failures often surface only when authorization, minimization, oversight, reconstruction, and release review are judged together; a sub-rule can look satisfied in isolation while secrecy still blocks audit, challenge, or timely disclosure. It states the integrated obligation, evaluation, and compliance floor for **CJS-3.22** as a whole: constrained secrecy and protected investigation must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
+<a id="constrained-secrecy-and-protected-investigation-terms"></a>
 constrained-secrecy and protected-investigation terms
-- OP-O: Secrecy must be authorized, minimized, temporary, overseen, reconstructable, and subject to later release review.
-- OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
-- OP-C: It is non-compliant to claim lawful secrecy when a material component has not been fully evaluated, cannot be independently reviewed, or is used to bypass audit or challenge.
+
+*In plain terms: secrecy must be authorized, minimized, temporary, overseen, reconstructable, and subject to later release review.*
+
+- **What it is**
+  - **In scope:** Secrecy must be authorized, minimized, temporary, overseen, reconstructable, and subject to later release review.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in constrained-secrecy and protected-investigation.
+<a id="constrained-secrecy-and-protected-investigation-terms-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** all relevant system components, dependencies, institutional roles, and implementation-layer interactions together
+
+    **Primary assessment:** Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
+<a id="constrained-secrecy-and-protected-investigation-terms-c"></a>
+- **What must hold**
+  - **Primary failure:** Claim lawful secrecy when a material component has not been fully evaluated, cannot be independently reviewed, or is used to bypass audit or challenge.
 
 The sub-rules below apply that cluster floor to specific authorization, reconstruction, oversight, minimization, and anti-normalization dimensions. Read them together with the cluster floor and the CJS read-with chain.
 
+<a id="authorization-and-predicate-floor"></a>
 Authorization and predicate floor
-- OP-O: Disclosure or participation limits require documented, auditable authorization before implementation, except immediate emergencies with prompt post-action review.
-- OP-E: Evaluation must verify secrecy is tied to imminent harm prevention, investigation integrity, or exploitation prevention, not convenience or embarrassment.
-- OP-C: Secrecy without a valid predicate or timely review is non-compliant.
 
+*In plain terms: disclosure or participation limits require documented, auditable authorization before implementation, except immediate emergencies with prompt post-action review.*
+
+- **What it is**
+  - **In scope:** Disclosure or participation limits require documented, auditable authorization before implementation, except immediate emergencies with prompt post-action review.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in authorization and predicate floor.
+<a id="authorization-and-predicate-floor-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** secrecy is tied to imminent harm prevention, investigation integrity, or exploitation prevention, not convenience or embarrassment
+
+    **Primary assessment:** Evaluation must verify secrecy is tied to imminent harm prevention, investigation integrity, or exploitation prevention, not convenience or embarrassment.
+<a id="authorization-and-predicate-floor-c"></a>
+- **What must hold**
+  - **Primary failure:** Secrecy without a valid predicate or timely review.
+
+<a id="deferred-transparency-and-reconstruction-record"></a>
 Deferred transparency and reconstruction record
-- OP-O: At the time secrecy is imposed, records must support later reconstruction, independent evaluation, and release review.
-- OP-E: Evaluation must verify records are contemporaneous, useful, and tied to release triggers.
-- OP-C: Secrecy that leaves no trail or no later disclosure path is non-compliant.
 
+*In plain terms: at the time secrecy is imposed, records must support later reconstruction, independent evaluation, and release review.*
+
+- **What it is**
+  - **In scope:** At the time secrecy is imposed, records must support later reconstruction, independent evaluation, and release review.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in deferred transparency and reconstruction record.
+<a id="deferred-transparency-and-reconstruction-record-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** records are contemporaneous, useful, and tied to release triggers
+
+    **Primary assessment:** Evaluation must verify records are contemporaneous, useful, and tied to release triggers.
+<a id="deferred-transparency-and-reconstruction-record-c"></a>
+- **What must hold**
+  - **Primary failure:** Secrecy that leaves no trail or no later disclosure path.
+
+<a id="independent-oversight-under-constraint"></a>
 Independent oversight under constraint
-- OP-O: Restricted investigations must still have independent, effective, multi-party oversight suited to the risk.
-- OP-E: Evaluation must verify secrecy does not collapse into unaudited single-actor control.
-- OP-C: Constrained investigations without effective oversight are non-compliant.
 
+*In plain terms: restricted investigations must still have independent, effective, multi-party oversight suited to the risk.*
+
+- **What it is**
+  - **In scope:** Restricted investigations must still have independent, effective, multi-party oversight suited to the risk.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in independent oversight under constraint.
+<a id="independent-oversight-under-constraint-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** secrecy does not collapse into unaudited single-actor control
+
+    **Primary assessment:** Evaluation must verify secrecy does not collapse into unaudited single-actor control.
+<a id="independent-oversight-under-constraint-c"></a>
+- **What must hold**
+  - **Primary failure:** Constrained investigations without effective oversight.
+
+<a id="minimization-and-preference-ordering"></a>
 Minimization and preference ordering
-- OP-O: Disclosure or participation restrictions must be exceptional, temporary, and limited to the minimum necessary information, participants, forum access, or review channel.
-- OP-E: Evaluation must verify narrower options such as partial disclosure, delayed disclosure, abstraction, anonymization, qualified-access review, or sealed forum handling were considered.
-- OP-C: Secrecy broader, longer, less reviewable, or less contestable than needed is non-compliant.
 
+*In plain terms: disclosure or participation restrictions must be exceptional, temporary, and limited to the minimum necessary information, participants, forum access, or review channel.*
+
+- **What it is**
+  - **In scope:** Disclosure or participation restrictions must be exceptional, temporary, and limited to the minimum necessary information, participants, forum access, or review channel.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in minimization and preference ordering.
+<a id="minimization-and-preference-ordering-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** narrower options such as partial disclosure, delayed disclosure, abstraction, anonymization, qualified-access review, or sealed forum handling were considered
+
+    **Primary assessment:** Evaluation must verify narrower options such as partial disclosure, delayed disclosure, abstraction, anonymization, qualified-access review, or sealed forum handling were considered.
+<a id="minimization-and-preference-ordering-c"></a>
+- **What must hold**
+  - **Primary failure:** Secrecy broader, longer, less reviewable, or less contestable than needed.
+
+<a id="no-permanent-secrecy-and-anti-normalization-discipline"></a>
 No permanent secrecy and anti-normalization discipline
-- OP-O: Actions affecting sentients or foundational systems must not be permanently concealed.
-- OP-E: Evaluation must verify periodic revalidation, automatic release review, and escalation for prolonged or repeated secrecy.
-- OP-C: Indefinite secrecy or secrecy used to defeat accountability is non-compliant.
+
+*In plain terms: actions affecting sentients or foundational systems must not be permanently concealed.*
+
+- **What it is**
+  - **In scope:** Actions affecting sentients or foundational systems must not be permanently concealed.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in no permanent secrecy and anti-normalization discipline.
+<a id="no-permanent-secrecy-and-anti-normalization-discipline-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** periodic revalidation, automatic release review, and escalation for prolonged or repeated secrecy
+
+    **Primary assessment:** Evaluation must verify periodic revalidation, automatic release review, and escalation for prolonged or repeated secrecy.
+<a id="no-permanent-secrecy-and-anti-normalization-discipline-c"></a>
+- **What must hold**
+  - **Primary failure:** Indefinite secrecy or secrecy used to defeat accountability.
 
 ---
 
@@ -145,55 +217,175 @@ No permanent secrecy and anti-normalization discipline
 
 Use this rule when technical intervention, governance authorization, and accountability depend on standalone system behavior or combined system, governance, or implementation-layer behavior.
 
+<a id="intervention-and-override-integrity-terms"></a>
 intervention and override integrity terms
-- OP-O: Systems need timely, accountable ways to interrupt, constrain, or redirect harmful behavior.
-- OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
-- OP-C: It is non-compliant to claim intervention readiness when a material component has not been fully evaluated or is unavailable in the conditions where intervention would be required.
 
+*In plain terms: systems need timely, accountable ways to interrupt, constrain, or redirect harmful behavior.*
+
+- **What it is**
+  - **In scope:** Systems need timely, accountable ways to interrupt, constrain, or redirect harmful behavior.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in intervention and override integrity.
+<a id="intervention-and-override-integrity-terms-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** all relevant system components, dependencies, institutional roles, and implementation-layer interactions together
+
+    **Primary assessment:** Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
+<a id="intervention-and-override-integrity-terms-c"></a>
+- **What must hold**
+  - **Primary failure:** Claim intervention readiness when a material component has not been fully evaluated or is unavailable in the conditions where intervention would be required.
+
+<a id="abuse-safeguards-and-review-controls"></a>
 Abuse safeguards and review controls
-- OP-O: High-impact intervention paths need multi-party or quorum constraints, rate limits, staged escalation, post-action review, and limits on automated bypass.
-- OP-E: Evaluation must verify safeguards operate and are auditable.
-- OP-C: Repeated high-impact use without review and anti-abuse controls is non-compliant.
 
+*In plain terms: high-impact intervention paths need multi-party or quorum constraints, rate limits, staged escalation, post-action review, and limits on automated bypass.*
+
+- **What it is**
+  - **In scope:** High-impact intervention paths need multi-party or quorum constraints, rate limits, staged escalation, post-action review, and limits on automated bypass.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in abuse safeguards and review.
+<a id="abuse-safeguards-and-review-controls-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** safeguards operate and are auditable
+
+    **Primary assessment:** Evaluation must verify safeguards operate and are auditable.
+<a id="abuse-safeguards-and-review-controls-c"></a>
+- **What must hold**
+  - **Primary failure:** Repeated high-impact use without review and anti-abuse controls.
+
+<a id="attribution-records-and-transparency-defaults"></a>
 Attribution, records, and transparency defaults
-- OP-O: Interventions must be attributable, documented, reconstructable, and transparent by default. Any temporary restriction on notice, disclosure, participation, audit access, restoration, exit, interoperability, governance authority, or review materials must be narrow, justified, time-bound, and subject to mandatory forum review while it persists where it materially affects rights, standing, remedies, survival-critical access, governance authority, or rights-collision issues.
-- OP-E: Evaluation must verify records of trigger, justification, restriction category, scope, duration, affected components, affected parties, rights-collision analysis where applicable, outcomes, follow-up, expiry behavior, and any required forum-review route.
-- OP-C: Unrecorded intervention effects, undisclosed rights-affecting limits, or temporary restrictions maintained by inertia, convenience, cost avoidance, unresolved ownership, or unfinished migration are non-compliant.
 
+*In plain terms: interventions must be attributable, documented, reconstructable, and transparent by default.*
+
+- **What it is**
+  - **In scope:** Interventions must be attributable, documented, reconstructable, and transparent by default. Any temporary restriction on notice, disclosure, participation, audit access, restoration, exit, interoperability, governance authority, or review materials must be narrow, justified, time-bound, and subject to mandatory forum review while it persists where it materially affects rights, standing, remedies, survival-critical access, governance authority, or rights-collision issues.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in attribution, records, and transparency defaults.
+<a id="attribution-records-and-transparency-defaults-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** records of trigger, justification, restriction category, scope, duration, affected components, affected parties, rights-collision analysis where applicable, outcomes, follow-up, expiry behavior, and any required forum-review route
+
+    **Primary assessment:** Evaluation must verify records of trigger, justification, restriction category, scope, duration, affected components, affected parties, rights-collision analysis where applicable, outcomes, follow-up, expiry behavior, and any required forum-review route.
+<a id="attribution-records-and-transparency-defaults-c"></a>
+- **What must hold**
+  - **Primary failure:** Unrecorded intervention effects, undisclosed rights-affecting limits, or temporary restrictions maintained by inertia, convenience, cost avoidance, unresolved ownership, or unfinished migration.
+
+<a id="authority-scoping-role-clarity-and-anti-capture-constraints"></a>
 Authority scoping, role clarity, and anti-capture constraints
-- OP-O: Override authority must be limited by component, duration, effect, trigger, and harm profile.
-- OP-E: Evaluation must verify controls against unrestricted unilateral override and capture.
-- OP-C: Unbounded, opaque, or abuse-prone override power is non-compliant.
 
+*In plain terms: override authority must be limited by component, duration, effect, trigger, and harm profile.*
+
+- **What it is**
+  - **In scope:** Override authority must be limited by component, duration, effect, trigger, and harm profile.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in authority scoping, role clarity, and anti-capture constraints.
+<a id="authority-scoping-role-clarity-and-anti-capture-constraints-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** controls against unrestricted unilateral override and capture
+
+    **Primary assessment:** Evaluation must verify controls against unrestricted unilateral override and capture.
+<a id="authority-scoping-role-clarity-and-anti-capture-constraints-c"></a>
+- **What must hold**
+  - **Primary failure:** Unbounded, opaque, or abuse-prone override power.
+
+<a id="emergency-technical-coupling-discipline"></a>
 Emergency technical-coupling discipline
-- OP-O: Emergency technical interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review as soon as feasible where they materially affect rights or governance authority, and rolled back or restored where feasible.
-- OP-E: Evaluation must verify expiry behavior, review records, lawful governance coupling, and any CF-14 (*Emergency adjudication*) emergency-review or restoration pathway.
-- OP-C: Emergency intervention that lacks a required forum-review path, or that becomes a standing default, is non-compliant.
 
+*In plain terms: emergency technical interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review as soon as feasible where they materially affect rights or governance authority, and rolled back or restored where feasible.*
+
+- **What it is**
+  - **In scope:** Emergency technical interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review as soon as feasible where they materially affect rights or governance authority, and rolled back or restored where feasible.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in emergency technical-coupling discipline.
+<a id="emergency-technical-coupling-discipline-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** expiry behavior, review records, lawful governance coupling, and any CF-14 (*Emergency adjudication*) emergency-review or restoration pathway
+
+    **Primary assessment:** Evaluation must verify expiry behavior, review records, lawful governance coupling, and any CF-14 (*Emergency adjudication*) emergency-review or restoration pathway.
+<a id="emergency-technical-coupling-discipline-c"></a>
+- **What must hold**
+  - **Primary failure:** Emergency intervention that lacks a required forum-review path, or that becomes a standing default,.
+
+<a id="intervention-behavior-priorities-and-safe-state-handling"></a>
 Intervention behavior priorities and safe-state handling
-- OP-O: During intervention, systems must prioritize survival and foundational requirements, preserve auditability, reversibility, and containment, and avoid cascading failure.
-- OP-E: Evaluation must verify safe or limited mode or suspension when safe continuation is infeasible.
-- OP-C: Concealing secondary effects, disabling auditability, or allowing uncontrolled spread is non-compliant.
 
+*In plain terms: during intervention, systems must prioritize survival and foundational requirements, preserve auditability, reversibility, and containment, and avoid cascading failure.*
+
+- **What it is**
+  - **In scope:** During intervention, systems must prioritize survival and foundational requirements, preserve auditability, reversibility, and containment, and avoid cascading failure.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in intervention behavior priorities and safe-state handling.
+<a id="intervention-behavior-priorities-and-safe-state-handling-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** safe or limited mode or suspension when safe continuation is infeasible
+
+    **Primary assessment:** Evaluation must verify safe or limited mode or suspension when safe continuation is infeasible.
+<a id="intervention-behavior-priorities-and-safe-state-handling-c"></a>
+- **What must hold**
+  - **Primary failure:** Concealing secondary effects, disabling auditability, or allowing uncontrolled spread.
+
+<a id="intervention-timeliness-and-practical-control-floor"></a>
 Intervention timeliness and practical control floor
-- OP-O: Intervention must be timely, proportionate, accountable, and practical under failure, uncertainty, and adversarial conditions.
-- OP-E: Evaluation must verify response time matches harm speed and severity.
-- OP-C: Systems that cannot be meaningfully intervened in required prevention timeframes are non-compliant.
 
+*In plain terms: intervention must be timely, proportionate, accountable, and practical under failure, uncertainty, and adversarial conditions.*
+
+- **What it is**
+  - **In scope:** Intervention must be timely, proportionate, accountable, and practical under failure, uncertainty, and adversarial conditions.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in intervention timeliness and practical control floor.
+<a id="intervention-timeliness-and-practical-control-floor-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** response time matches harm speed and severity
+
+    **Primary assessment:** Evaluation must verify response time matches harm speed and severity.
+<a id="intervention-timeliness-and-practical-control-floor-c"></a>
+- **What must hold**
+  - **Primary failure:** Systems that cannot be meaningfully intervened in required prevention timeframes.
+
+<a id="proportional-application"></a>
 Proportional application
-- OP-O: Intervention duties scale with impact, harm speed, dependency, irreversibility, and autonomy from direct control.
-- OP-E: Evaluation must verify lower-impact simplification still preserves timely mitigation and accountability.
-- OP-C: Reduced controls are non-compliant where material harm-prevention needs remain.
 
+*In plain terms: intervention duties scale with impact, harm speed, dependency, irreversibility, and autonomy from direct control.*
+
+- **What it is**
+  - **In scope:** Intervention duties scale with impact, harm speed, dependency, irreversibility, and autonomy from direct control.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in proportional application.
+<a id="proportional-application-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** lower-impact simplification still preserves timely mitigation and accountability
+
+    **Primary assessment:** Evaluation must verify lower-impact simplification still preserves timely mitigation and accountability.
+<a id="proportional-application-c"></a>
+- **What must hold**
+  - **Primary failure:** Reduced controls where material harm-prevention needs remain.
+
+<a id="technical-pathway-adequacy-and-reliability"></a>
 Technical pathway adequacy and reliability
-- OP-O: Material-impact systems must define auditable stop, pause, containment, scoped override, and safe-mode pathways as appropriate.
-- OP-E: Evaluation must verify authorized access, reliability under degraded or adversarial conditions, and no good-faith-only assumption.
-- OP-C: Undefined, unreliable, inaccessible, or ineffective intervention paths are non-compliant.
 
+*In plain terms: material-impact systems must define auditable stop, pause, containment, scoped override, and safe-mode pathways as appropriate.*
+
+- **What it is**
+  - **In scope:** Material-impact systems must define auditable stop, pause, containment, scoped override, and safe-mode pathways as appropriate.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in technical pathway adequacy and reliability.
+<a id="technical-pathway-adequacy-and-reliability-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** authorized access, reliability under degraded or adversarial conditions, and no good-faith-only assumption
+
+    **Primary assessment:** Evaluation must verify authorized access, reliability under degraded or adversarial conditions, and no good-faith-only assumption.
+<a id="technical-pathway-adequacy-and-reliability-c"></a>
+- **What must hold**
+  - **Primary failure:** Undefined, unreliable, inaccessible, or ineffective intervention paths.
+
+<a id="trigger-scope-and-timeliness-applicability"></a>
 Trigger scope and timeliness applicability
-- OP-O: Triggers cover risks to sentients, environment, info-sphere, integrity, safety, and accountability.
-- OP-E: Evaluation must verify explicit thresholds and avoid reliance on after-the-fact remedies where harm can move faster.
-- OP-C: Sole reliance on post-hoc audit or restoration is non-compliant where preemptive intervention is required.
+
+*In plain terms: triggers cover risks to sentients, environment, info-sphere, integrity, safety, and accountability.*
+
+- **What it is**
+  - **In scope:** Triggers cover risks to sentients, environment, info-sphere, integrity, safety, and accountability.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in trigger scope and timeliness applicability.
+<a id="trigger-scope-and-timeliness-applicability-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** explicit thresholds and avoid reliance on after-the-fact remedies where harm can move faster
+
+    **Primary assessment:** Evaluation must verify explicit thresholds and avoid reliance on after-the-fact remedies where harm can move faster.
+<a id="trigger-scope-and-timeliness-applicability-c"></a>
+- **What must hold**
+  - **Primary failure:** Sole reliance on post-hoc audit or restoration where preemptive intervention is required.
 
 ---
 

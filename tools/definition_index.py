@@ -65,6 +65,18 @@ class Cjs3OperationalRule:
     def complete(self) -> bool:
         return self.has_op_o and self.has_op_e and self.has_op_c
 
+    @property
+    def missing_components(self) -> list[str]:
+        return [
+            name
+            for name, present in (
+                ("What it is", self.has_op_o),
+                ("How to measure and assess", self.has_op_e),
+                ("What must hold", self.has_op_c),
+            )
+            if not present
+        ]
+
 
 @dataclass
 class Cjs3Cluster:
@@ -187,7 +199,25 @@ def _extract_rules(cluster: Cjs3Cluster) -> list[Cjs3OperationalRule]:
         stripped = line.strip()
         if not stripped:
             return False
-        if stripped.startswith(("- ", "#", "|", "---", "<", "```")):
+        if stripped.startswith(
+            (
+                "- ",
+                "#",
+                "|",
+                "---",
+                "<",
+                "```",
+                "*In plain terms:",
+                "**Primary ",
+                "**Secondary ",
+                "**Tertiary ",
+                "**In scope:",
+                "**Out of scope:",
+                "**Depends on:",
+            )
+        ):
+            return False
+        if re.match(r"^\d+\.\s", stripped):
             return False
         if stripped in {
             "Read it with:",
@@ -215,7 +245,11 @@ def _extract_rules(cluster: Cjs3Cluster) -> list[Cjs3OperationalRule]:
             flush_rule()
             previous_label = (stripped, offset)
             continue
-        if stripped.startswith("- OP-"):
+        if stripped in {
+            "- **What it is**",
+            "- **How to measure and assess**",
+            "- **What must hold**",
+        } or stripped.startswith("- OP-"):
             if current is None:
                 label, label_line = previous_label or ("Unlabeled operational rule", offset)
                 current = Cjs3OperationalRule(
@@ -226,11 +260,11 @@ def _extract_rules(cluster: Cjs3Cluster) -> list[Cjs3OperationalRule]:
                 )
                 rules.append(current)
             block_lines.append(line)
-            if stripped.startswith("- OP-O:"):
+            if stripped == "- **What it is**" or stripped.startswith("- OP-O:"):
                 current.has_op_o = True
-            elif stripped.startswith("- OP-E:"):
+            elif stripped == "- **How to measure and assess**" or stripped.startswith("- OP-E:"):
                 current.has_op_e = True
-            elif stripped.startswith("- OP-C:"):
+            elif stripped == "- **What must hold**" or stripped.startswith("- OP-C:"):
                 current.has_op_c = True
             if current.complete:
                 flush_rule()

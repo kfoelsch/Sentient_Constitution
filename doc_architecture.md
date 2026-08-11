@@ -255,6 +255,8 @@ Not every definition requires all three tiers. Independent building blocks may d
 
 **Guidepost O/M/A/C rollout** (2026-07): the reader-facing guidepost headers (**What it is** / **How to measure and assess** / **What must hold**), bold run-in sublabels (`**Primary measure:**` / `**Primary assessment:**` / `**Primary failure:**`, etc.), and `#{term}-a` / `#{term}-c` anchor placement are now the **corpus norm** on ~165 migrated leaf definitions across the Chapter Five band files. Aim and Tetrad-leg apex heads may use either letter markers (`- O:` / `- M:` / `- A:` / `- C:`) or the same guidepost headers — [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) is the first aim head on guidepost form. A remainder (~55 entries) still uses the legacy `*Measurements:*`-block or letter-marker placement — mostly cluster heads, multi-part Incentive Alignment children, inline A/C blocks with heterogeneous sub-lists, and O-line/In-scope divergences that require manual conversion. The tier, coverage, o-scope, single-definition, and DEC-widget audits accept **both** forms during the transition; `tools/apply_measurements_to_e_migration.py` automates the standard shapes and skips irregular entries for hand review. Plain-terms lead lines (`*In plain terms: …*`) remain optional and are being added in a separate pass.
 
+**CJS oDef guidepost rollout** (2026-08): **CJS-3** joint operational definition entries use the same reader-facing guidepost headers and bold run-in sublabels as Chapter Five leaves, under the binding parse rules in **CJS-1.13**–**CJS-1.14**. They remain **oDef** / **CJS-3** joint operational rules — not Chapter Five **Def.*** Independent Definitions. On **oDef** entries, `**Primary measure:**` names the auditable control, record, evidence object, or operational check the term turns on; it does not invent Preamble or Chapter Five measurement-family leads unless the entry already points there. Migration helper: `tools/apply_cjs_op_to_guidepost_migration.py`.
+
 **Family vs definition**
 
 - Where a Ch00 family maps 1:1 to a term ([Wellbeing](core_05_band_continuity.md#wellbeing), [Materiality Determination](core_05_band_oversight.md#materiality-determination)), tiers attach on that definition entry.
@@ -426,7 +428,7 @@ Each layer’s first substantive file (`cjs_01_*`, `cs_01_*`, `ci_01_*`, `cf_01_
 | Shared implementation-corpus contract | **CJS-1.3** only |
 | Applicability, combined satisfaction, and stricter-wins for jointly applicable incorporated obligations | **Chapter One §8.4.4** / **§8.4.3** (CJS-0.1 identifies which files the facts require) |
 | Identifier / label rules | **CJS-1.1** + each layer’s `*_00` registry annex (**oDef.*n*** = **CJS-3.*n***; Chapter Five **Def.*** separate) |
-| Parse mechanics (OP-O / OP-E / OP-C; **oDef** clusters) | **CJS-1.13**–**CJS-1.14** |
+| Parse mechanics (guidepost **What it is** / **How to measure and assess** / **What must hold**; **oDef** clusters) | **CJS-1.13**–**CJS-1.14** |
 | Specialty classification examples | Owner taxonomy file (for example **CS-3**), not the `*-1` boundary page |
 
 **Trace Upstream** for `*-1` boundary pages should cite the joint-application home (**Chapter One §8.4.4**), the identifier / **Def.*** / **oDef** home (**CJS-1.1**), or the relevant core chapter — not **CJS-1.3** unless the subsection is itself the shared-contract owner.

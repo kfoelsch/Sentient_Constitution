@@ -145,7 +145,7 @@ This file (**CJS-1**) is the **binding gateway** for that set. Use it when you n
 |------------------------|---------|
 | Look up what a constitutional word means | Use **Chapter Five** (with Chapters Two through Four for O/M/A/C mechanics). CJS must *use* those meanings — not invent parallel definitions, competing glosses, or weaker restatements. |
 | Look up a shared cross-layer how-to term | Use **oDef** / **CJS-3** for reusable joint operational definitions; coordinate reads through [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) and **CJS-1.3**. These terms cover routing, interlock, overlap, and shared-fact evaluation — they are not constitutional **Def.*** entries. Combined satisfaction, the default reading stack, and stricter-wins live in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) and [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer). |
-| Place or parse joint operational text | Do not redefine constitutional terms — see **CJS-1.3**. How to read **OP-O** / **OP-E** / **OP-C** lines inside an **oDef**: **CJS-1.13** and **CJS-1.14**. Where to put a definition: constitutional **Def.*** terms in **Chapter Five**; reusable joint **oDef** clusters in **CJS-3**; two-tier shared ideas under **CJS-1.8** (editors/auditors). |
+| Place or parse joint operational text | Do not redefine constitutional terms — see **CJS-1.3**. How to read guidepost **oDef** entries (**What it is** / **How to measure and assess** / **What must hold**): **CJS-1.13** and **CJS-1.14**. Where to put a definition: constitutional **Def.*** terms in **Chapter Five**; reusable joint **oDef** clusters in **CJS-3**; two-tier shared ideas under **CJS-1.8** (editors/auditors). |
 | Cite a **CJS-3** term from a **CS**, **CI**, or **CF** file | The citation may apply the joint term inside a standalone system, institution, forum, or bounded decision domain within the cited scope. It does **not** make CJS the routed owner of system, institutional, or forum doctrine. Where more than one layer materially applies, apply [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) and [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer). |
 | Check whether CJS can soften constitutional meaning | It cannot. Under **CJS-1.3**, CJS sits in the **binding incorporated implementation** band and must **implement, not narrow**, Sentient Constitution meaning. |
 
@@ -295,7 +295,7 @@ When an institution supervises systems under `corpus_systems.md` **CS-3 — Syst
 <details>
 <summary><strong><span style="color: #2563eb;">Implementation parse mechanics (read when using oDef / CJS-3 operational clusters)</span></strong></summary>
 
-> The following subsections state binding parse and application rules for **oDef** entries in **CJS-3** (*Implementation and cross-implementation operational cluster library*) — the **OP-O** / **OP-E** / **OP-C** line format. General readers may defer them until cross-domain **oDef** clusters are in scope.
+> The following subsections state binding parse and application rules for **oDef** entries in **CJS-3** (*Implementation and cross-implementation operational cluster library*) — the reader-facing guidepost format (**What it is** / **How to measure and assess** / **What must hold**). General readers may defer them until cross-domain **oDef** clusters are in scope.
 
 ## CJS-1.13: Operational structure and subsection-local terminology
 <a id="cjs-113-operational-structure-and-subsection-local-terminology"></a>
@@ -309,25 +309,27 @@ When an institution supervises systems under `corpus_systems.md` **CS-3 — Syst
 
 <br>
 
-*In plain terms: How to read the three-line format used throughout an **oDef**: **OP-O** says what the rule covers, **OP-E** says how you show you have met it, and **OP-C** states the binding requirement.*
+*In plain terms: How to read each **oDef** entry: **What it is** says what the rule covers, **How to measure and assess** says what evidence to check and how reviewers verify it, and **What must hold** states the binding failure modes.*
 
-**oDef** entries use a local joint operational rule format. Its list shape mirrors the format used in `corpus_institutions.md`.
+**oDef** entries use a local joint operational rule format. Reader-facing headers match the Chapter Five guidepost presentation so the same O/M/A/C scan path works across layers; the entries remain joint-operational rules, not constitutional dictionary entries.
 
-That format uses a titled entry followed by:
-- **`- OP-O:`** for what is in scope,
-- **`- OP-E:`** for how satisfaction is assessed or evidenced,
-- **`- OP-C:`** for binding operational requirements and non-compliance hooks.
+That format uses a titled entry (optionally preceded by `<a id="{slug}"></a>`), an optional italic `*In plain terms: …*` gloss, then:
+- `- **What it is**` — Ontological (O) scope, with mandatory `**In scope:**` and `**Out of scope:**` sub-bullets (optional `**Depends on:**` only when constitutive prerequisites must be separated),
+- `- **How to measure and assess**` — Measurement (M) interwoven with Assessment (A), introduced by `<a id="{slug}-a"></a>`, with tiered `**Primary measure:**` / `**Primary assessment:**` pairing (and secondary/tertiary tiers only when the entry states them),
+- `- **What must hold**` — Compliance (C), introduced by `<a id="{slug}-c"></a>`, with `**Primary failure:**` (and secondary/tertiary failure labels when tiers apply).
 
-These labels are modeled on **Chapter Two**, section **2** (*Ontological (O)*, *Assessment (A)*, *Compliance (C)*). They remain local to this joint-structure implementation file.
+**Primary measure** on an **oDef** names the auditable control, record, evidence object, or operational check the term turns on. It does not invent Preamble or Chapter Five measurement-family leads unless the entry already points there.
+
+These labels are modeled on **Chapter Two** (*Ontological (O)*, *Measurement (M)*, *Assessment (A)*, *Compliance (C)*) and the Chapter Five guidepost headers. They remain local to this joint-structure implementation layer.
 
 The consequences of that structure are:
-- **oDef** / **OP-** lines are not Independent Definitions and are not Chapter Five **Def.*** entries,
+- **oDef** guidepost entries are not Independent Definitions and are not Chapter Five **Def.*** entries,
 - they do not add constitutional terms,
 - they do not satisfy **Chapter Two** or **Chapter Three** definition-integrity rules for defined concepts.
 
-Constitutional terms used in **OP-O**, **OP-E**, or **OP-C** take their meanings from **Chapter Five** and the applicable Sentient Constitution `core_*.md` files (see [README.md](../README.md)).
+Constitutional terms used under **What it is**, **How to measure and assess**, or **What must hold** take their meanings from **Chapter Five** and the applicable Sentient Constitution `core_*.md` files (see [README.md](../README.md)).
 
-**OP-** text does not redefine those terms.
+**oDef** text does not redefine those terms.
 
 Subsection-local shorthand applies only inside the subsection where it appears, unless another corpus file defines the phrase and cites that subsection.
 
@@ -352,11 +354,11 @@ Some subsections are structured as an **oDef** operational cluster (see **CJS-1.
 In an **oDef** cluster, the head entry and the component entries in the same subsection work together as one compound operational definition.
 
 Read the structure as follows:
-- the head entry is the **`- OP-O:`** / **`- OP-E:`** / **`- OP-C:`** block immediately under the titled head line,
+- the head entry is the guidepost block (**What it is** / **How to measure and assess** / **What must hold**) immediately under the titled head line,
 - component entries are introduced by a plain title line without **`
 
 ###`**,
-- each component then has its own **`- OP-O:`**, **`- OP-E:`**, and **`- OP-C:`** lines,
+- each component then has its own guidepost block,
 - the cluster continues until a **`---` delimiter** or the next **`
 
 ###`** subsection heading.
@@ -374,7 +376,7 @@ By structural analogy, this follows the **joint invocation and satisfaction** ru
 - they are not **Chapter Five** **Def.*** Clustered Definitions,
 - they do not add Independent Definitions.
 
-Any read-with cross-reference stated in the head **OP-O** applies to the whole cluster.
+Any read-with cross-reference stated in the head **In scope** (or head Trace) applies to the whole cluster.
 
 </details>
 

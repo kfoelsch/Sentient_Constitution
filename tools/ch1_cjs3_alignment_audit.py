@@ -149,7 +149,15 @@ class OperationalRule:
 
     @property
     def missing(self) -> List[str]:
-        return [k for k, present in (("OP-O", self.has_o), ("OP-E", self.has_e), ("OP-C", self.has_c)) if not present]
+        return [
+            k
+            for k, present in (
+                ("What it is", self.has_o),
+                ("How to measure and assess", self.has_e),
+                ("What must hold", self.has_c),
+            )
+            if not present
+        ]
 
 
 @dataclass
@@ -298,7 +306,25 @@ class Ch1Cjs3AlignmentAuditor:
             stripped = line.strip()
             if not stripped:
                 return False
-            if stripped.startswith(("- ", "#", "|", "---", "<", "```")):
+            if stripped.startswith(
+                (
+                    "- ",
+                    "#",
+                    "|",
+                    "---",
+                    "<",
+                    "```",
+                    "*In plain terms:",
+                    "**Primary ",
+                    "**Secondary ",
+                    "**Tertiary ",
+                    "**In scope:",
+                    "**Out of scope:",
+                    "**Depends on:",
+                )
+            ):
+                return False
+            if re.match(r"^\d+\.\s", stripped):
                 return False
             if stripped in {"Read it with:", "Role-definition reading rule", "Competency gate and standing interface"}:
                 return True
@@ -312,16 +338,20 @@ class Ch1Cjs3AlignmentAuditor:
                 previous_label = (stripped, offset)
                 current = None
                 continue
-            if stripped.startswith("- OP-"):
+            if stripped in {
+                "- **What it is**",
+                "- **How to measure and assess**",
+                "- **What must hold**",
+            } or stripped.startswith("- OP-"):
                 if current is None:
                     label, label_line = previous_label or ("Unlabeled operational rule", offset)
                     current = OperationalRule(label=label, line=label_line)
                     rules.append(current)
-                if stripped.startswith("- OP-O:"):
+                if stripped == "- **What it is**" or stripped.startswith("- OP-O:"):
                     current.has_o = True
-                elif stripped.startswith("- OP-E:"):
+                elif stripped == "- **How to measure and assess**" or stripped.startswith("- OP-E:"):
                     current.has_e = True
-                elif stripped.startswith("- OP-C:"):
+                elif stripped == "- **What must hold**" or stripped.startswith("- OP-C:"):
                     current.has_c = True
                 if current.has_o and current.has_e and current.has_c:
                     current = None
@@ -466,7 +496,7 @@ class Ch1Cjs3AlignmentAuditor:
             "| Metric | Result | Status |",
             "|---|---:|---|",
             f"| CJS-3 clusters discovered | {total}/23 | {'PASS' if total == 23 and inventory_count == 0 else 'REVIEW'} |",
-            f"| Clusters with complete OP-O/OP-E/OP-C triads | {total - len({g['cluster_id'] for g in self.gaps['op_component_gap']})}/{total} | {'PASS' if op_gap_count == 0 else 'REVIEW'} |",
+            f"| Clusters with complete guidepost oDef entries | {total - len({g['cluster_id'] for g in self.gaps['op_component_gap']})}/{total} | {'PASS' if op_gap_count == 0 else 'REVIEW'} |",
             f"| Clusters with direct Chapter 01 citations | {total - weak_trace_count - missing_anchor_count}/{total} | REVIEW |",
             f"| Clusters with inferred Chapter 01 basis | {total - missing_anchor_count}/{total} | {'PASS' if missing_anchor_count == 0 else 'REVIEW'} |",
             f"| Owner-routing issues | {owner_drift_count} | {'PASS' if owner_drift_count == 0 else 'REVIEW'} |",
@@ -478,7 +508,7 @@ class Ch1Cjs3AlignmentAuditor:
 
         if op_gap_count == 0 and missing_anchor_count == 0 and owner_drift_count == 0 and overreach_count == 0:
             lines.append(
-                "CJS-3 is operationally aligned with Chapter 01 at the structural level: all expected clusters were found, all operational rules carry complete `OP-O` / `OP-E` / `OP-C` triads, and each cluster has an inferred Chapter 01 principle basis. The main audit finding is trace explicitness: most CJS-3 clusters rely on owner-file and subject-matter routing rather than direct Chapter 01 citations."
+                "CJS-3 is operationally aligned with Chapter 01 at the structural level: all expected clusters were found, all operational rules carry complete guidepost oDef entries (**What it is** / **How to measure and assess** / **What must hold**), and each cluster has an inferred Chapter 01 principle basis. The main audit finding is trace explicitness: most CJS-3 clusters rely on owner-file and subject-matter routing rather than direct Chapter 01 citations."
             )
         else:
             lines.append(
