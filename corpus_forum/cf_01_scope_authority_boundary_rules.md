@@ -14,8 +14,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) purpose of the joint-structure layer; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary and owner discipline; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: **CF-1**; [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-3**.
+- Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) purpose of the joint-structure layer; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) section identifiers and **Def.*** / **oDef** homes; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Read with: **CF-1**; [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-3**.
 
 </details>
 
@@ -60,7 +60,7 @@ This layer must **not**:
 **Read next**
 
 - Label map, section registry, and forums-only domain routing: [cf_00_registry_and_reading_rules.md](cf_00_registry_and_reading_rules.md) (*Forums domain routing (integrator annex)*).
-- Implementation-corpus gateway, shared contract, and joint reading order: **CJS-1.0**, **CJS-1.1**, and **CJS-1.2** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md).
+- Implementation-corpus gateway and shared contract: **CJS-1.0**, **CJS-1.1**, and **CJS-1.3** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md). Default reading stack: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction).
 - Cross-layer topic router: [CJS-0.1 Cross-file routing](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids).
 - Constitutional forum owner: [core_11-11_forum.md](../core_11-11_forum.md) (**Chapter Eleven**).
 ---

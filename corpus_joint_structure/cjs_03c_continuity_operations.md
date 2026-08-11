@@ -1,11 +1,11 @@
-# Continuity aim operations (CJS-3.16–CJS-3.21)
+# Continuity aim operations (CJS-3.16–CJS-3.21) / oDef.16–oDef.21
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Continuity aim operations (CJS-3.16–CJS-3.21)**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Continuity aim operations (CJS-3.16–CJS-3.21 / oDef.16–oDef.21)**.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,26 +14,26 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Read with: [CJS-3.1](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) constitutional compass.
 
 </details>
 
 <br>
 
-This file is the joint-structure implementation home for **Continuity aim operations (CJS-3.16–CJS-3.21)**.
+This file is the joint-structure implementation home for **Continuity aim operations (CJS-3.16–CJS-3.21 / oDef.16–oDef.21)**.
 
 *In plain terms: These clusters keep a system working — and keep it possible to leave — under dependency, change, stress, and attack: knowing what you depend on, being able to export and exit, retaining data for the right span, failing gracefully rather than catastrophically, being able to undo, and resisting deliberate abuse.*
 
 This family operationalizes the constitutional [Continuity aim](../core_00_preamble.md#continuity): preserving lawful function under dependency, lifecycle change, stress, and adversarial conditions. **Continuity disambiguation:** constitutional **Continuity aim** (Chapter One §1) is distinct from operational or protocol continuity elsewhere in the corpus.
 | Cluster | Section |
 |---|---|
-| **CJS-3.16** | Continuity: dependency integrity and disclosure terms |
-| **CJS-3.17** | Continuity: interoperability, portability, and exit-integrity terms |
-| **CJS-3.18** | Continuity: data-retention and lifecycle-integrity terms |
-| **CJS-3.19** | Continuity: graceful degradation and failure-mode integrity terms |
-| **CJS-3.20** | Continuity: reversibility and containment terms |
-| **CJS-3.21** | Continuity: adversarial robustness and abuse-resistance terms |
+| **CJS-3.16** / **oDef.16** | Continuity: dependency integrity and disclosure terms |
+| **CJS-3.17** / **oDef.17** | Continuity: interoperability, portability, and exit-integrity terms |
+| **CJS-3.18** / **oDef.18** | Continuity: data-retention and lifecycle-integrity terms |
+| **CJS-3.19** / **oDef.19** | Continuity: graceful degradation and failure-mode integrity terms |
+| **CJS-3.20** / **oDef.20** | Continuity: reversibility and containment terms |
+| **CJS-3.21** / **oDef.21** | Continuity: adversarial robustness and abuse-resistance terms |
 ---
 
 ## CJS-3.16 Continuity: dependency integrity and disclosure terms
@@ -255,14 +255,14 @@ Right-to-exit pathway integrity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-1.10**; **CJS-3.3**; **CJS-3.4**; **CJS-3.5**; **CJS-3.20 and CJS-3.18**; **CJS-3.15 and CJS-3.6**.
+- Read with: **CJS-1.11**; **CJS-3.3**; **CJS-3.4**; **CJS-3.5**; **CJS-3.20 and CJS-3.18**; **CJS-3.15 and CJS-3.6**.
 - Read with: **CJS-3.3 — Auditability**
 - Read with: **CJS-3.4 — Tiered Transparency and Audit Access**
 - Read with: **CJS-3.5 — Independent Verification and Integrity of Claims**
 - Read with: **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: `corpus_systems.md` **CS-2 — Information types and handling**, including Types **E**, **G**, **O**, **H**, **I**, **N**, and **S**
-- Read with: **CJS-1.10 — Classification alignment for supervised scope**
+- Read with: **CJS-1.11 — Classification alignment for supervised scope**
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — lifecycle rules must not narrow the Continuity aim.
 - Chapter One basis: §2.2, §11.2, §12.1, §13, §14 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
@@ -306,7 +306,7 @@ Anti-surveillance and anti-coercion accumulation limits
 
 Classification and information-type alignment
 - OP-O: If accumulated, linked, or inferred data changes its **CS-2 — Information types and handling** data type or becomes more sensitive in practice, stricter protections apply.
-- OP-E: Reviewers must verify alignment with **CS-2 — Information types and handling** data-type duties and **CJS-1.10 — Classification alignment for supervised scope** where supervision and systems classification overlap.
+- OP-E: Reviewers must verify alignment with **CS-2 — Information types and handling** data-type duties and **CJS-1.11 — Classification alignment for supervised scope** where supervision and systems classification overlap.
 - OP-C: Continuing to use lower-type or lower-class handling after sensitivity has increased is non-compliant.
 
 Justification and bounded-retention floor

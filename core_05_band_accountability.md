@@ -593,7 +593,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*primary-stakes routing and lawfully constituted merits panels*); **CJS-1.8** (*Boundary Between Support Roles and Merits Decisions*).
+- Downstream: [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*primary-stakes routing and lawfully constituted merits panels*); **CJS-1.9** (*Boundary Between Support Roles and Merits Decisions*).
 - Read with: [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Contestability](core_05_band_accountability.md#contestability), [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), the [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*numeric Violation Axis slot assignment from verified impact*), [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*corresponding anti-constitutional-misconduct designation for qualifying slots 7–9*), and owner layers in [corpus_forum.md](corpus_forum.md) and [corpus_institutions.md](corpus_institutions.md).
 
 </details>

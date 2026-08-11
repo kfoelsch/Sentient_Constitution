@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-7.1 Alignment rulings, component referral, and supervisory coordination](#cf-71-alignment-rulings-component-referral-and-supervisory-coordination); [CF-7.2 Constitutional alignment recognition and review](#cf-72-constitutional-alignment-recognition-and-review); [CF-7.3 Anti-self-judging activation, capture-sensitive routing, contest-integrity interfaces, and family-level capture](#cf-73-anti-self-judging-activation-capture-sensitive-routing-contest-integrity-interfaces-and-family-level-capture).
 - Read with: **CF-7**; **CF-7.1**; **CF-7.2**; **CF-7.3**; **CF-8**; **CF-9**; **CF-5**; **CF-6.1**; **CF-6.1.2**.
 - Topic routing (mandatory read-with): **CJS-R11A** (*Fallback operation*) in **CJS-0.1** (*Topic router*); primary owner **CF-13**.
@@ -99,13 +99,13 @@ Adopting instruments must publish tie-break rules for ordering component referra
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.1.3**; **CF-9**; **CJS-1.8**.
+- Read with: **CF-7.1.3**; **CF-9**; **CJS-1.9**.
 
 </details>
 
 <br>
 
-Supervisory coordination applies the **CJS-1.8** (*Boundary Between Support Roles and Merits Decisions*) merits-boundary rule. The rule covers forum-managed stays, sequencing, status review, and milestone accountability. Supervisory coordination is not partisan advocacy for a party outcome. It is also not a substitute for prosecutorial, institutional, or investigative merits bodies where those roles are lawfully distinct under **CF-9** (*Independent investigative service and prosecution interface*) and `corpus_institutions.md`.
+Supervisory coordination applies the **CJS-1.9** (*Boundary Between Support Roles and Merits Decisions*) merits-boundary rule. The rule covers forum-managed stays, sequencing, status review, and milestone accountability. Supervisory coordination is not partisan advocacy for a party outcome. It is also not a substitute for prosecutorial, institutional, or investigative merits bodies where those roles are lawfully distinct under **CF-9** (*Independent investigative service and prosecution interface*) and `corpus_institutions.md`.
 
 ### CF-7.1.4 Merits Boundaries and Referred-Forum Authority
 

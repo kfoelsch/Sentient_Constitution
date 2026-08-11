@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-08-09T23:31:21+00:00",
+  "generated_at": "2026-08-11T00:08:29+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1313,10 +1313,17 @@
             ]
           },
           {
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-01-cross-file-routing"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-113-operational-clusters"
+              "#cjs-114-operational-clusters"
             ]
           },
           {
@@ -8643,7 +8650,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 7,
+            "count": 14,
             "anchors": [
               "#833-incorporation-layer",
               "#844-combined-satisfaction"
@@ -8729,11 +8736,12 @@
           },
           {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 17,
+            "count": 15,
             "anchors": [
-              "#cjs-11-joint-structural-boundary-and-owner-discipline",
-              "#cjs-12-shared-implementation-corpus-preamble-contract",
-              "#cjs-17-two-tier-definition-contract-binding-abstraction--owner-detail"
+              "#cjs-11-section-identifiers-and-article-references",
+              "#cjs-13-shared-implementation-corpus-preamble-contract",
+              "#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail",
+              "#cjs-181-implementation-boundary-primary-owner-to-cjs-seam"
             ]
           },
           {
@@ -8784,7 +8792,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 20,
+            "count": 29,
             "anchors": [
               "#833-incorporation-layer",
               "#84-constitutional-meaning-conflict-resolution",
@@ -8800,7 +8808,7 @@
           },
           {
             "file": "core_05__definitions_home.md",
-            "count": 9,
+            "count": 8,
             "anchors": [
               "#chapter-five-foundational-definitions",
               "#joint-invocation-and-satisfaction"
@@ -8937,17 +8945,18 @@
           },
           {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 24,
+            "count": 21,
             "anchors": [
               "#cjs-01-cross-file-routing",
-              "#cjs-01-topic-router-stable-ids"
+              "#cjs-01-topic-router-stable-ids",
+              "#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes"
             ]
           },
           {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 6,
+            "count": 5,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           },
           {
@@ -8980,7 +8989,7 @@
         "targets": [
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 7,
+            "count": 5,
             "anchors": [
               "#833-incorporation-layer",
               "#844-combined-satisfaction"
@@ -9103,17 +9112,17 @@
           },
           {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 5,
+            "count": 4,
             "anchors": [
-              "#cjs-01-topic-router-stable-ids",
-              "#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes"
+              "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract",
+              "#cjs-181-implementation-boundary-primary-owner-to-cjs-seam"
             ]
           },
           {
@@ -9234,7 +9243,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           },
           {
@@ -9390,9 +9399,10 @@
           },
           {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 3,
+            "count": 6,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-11-section-identifiers-and-article-references",
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           },
           {
@@ -9631,7 +9641,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           },
           {
@@ -9800,7 +9810,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           },
           {
@@ -9941,7 +9951,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           },
           {
@@ -10112,7 +10122,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 2,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           },
           {
@@ -10288,7 +10298,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           },
           {
@@ -10321,6 +10331,13 @@
               "#constitutional-tetrad",
               "#material-stake",
               "#two-constitutional-aims"
+            ]
+          },
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 4,
+            "anchors": [
+              "#844-combined-satisfaction"
             ]
           },
           {
@@ -10384,13 +10401,12 @@
           },
           {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 13,
+            "count": 11,
             "anchors": [
-              "#cjs-11-joint-structural-boundary-and-owner-discipline",
-              "#cjs-111-section-identifiers-and-article-references",
-              "#cjs-12-shared-implementation-corpus-preamble-contract",
-              "#cjs-16-intentional-overlap-non-duplication-discipline",
-              "#cjs-17-two-tier-definition-contract-binding-abstraction--owner-detail"
+              "#cjs-11-section-identifiers-and-article-references",
+              "#cjs-13-shared-implementation-corpus-preamble-contract",
+              "#cjs-17-intentional-overlap-non-duplication-discipline",
+              "#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail"
             ]
           },
           {
@@ -10474,6 +10490,13 @@
         "source": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
         "targets": [
           {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 4,
+            "anchors": [
+              "#844-combined-satisfaction"
+            ]
+          },
+          {
             "file": "core_05__definitions_home.md",
             "count": 1,
             "anchors": [
@@ -10555,7 +10578,7 @@
             "count": 5,
             "anchors": [
               "#cjs-10-purpose-of-this-layer",
-              "#cjs-11-joint-structural-boundary-and-owner-discipline"
+              "#cjs-11-section-identifiers-and-article-references"
             ]
           },
           {
@@ -11439,6 +11462,13 @@
             ]
           },
           {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 4,
+            "anchors": [
+              "#844-combined-satisfaction"
+            ]
+          },
+          {
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 1,
             "anchors": [
@@ -11627,13 +11657,12 @@
           },
           {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 12,
+            "count": 10,
             "anchors": [
-              "#cjs-11-joint-structural-boundary-and-owner-discipline",
-              "#cjs-111-section-identifiers-and-article-references",
-              "#cjs-12-shared-implementation-corpus-preamble-contract",
-              "#cjs-16-intentional-overlap-non-duplication-discipline",
-              "#cjs-17-two-tier-definition-contract-binding-abstraction--owner-detail"
+              "#cjs-11-section-identifiers-and-article-references",
+              "#cjs-13-shared-implementation-corpus-preamble-contract",
+              "#cjs-17-intentional-overlap-non-duplication-discipline",
+              "#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail"
             ]
           },
           {
@@ -11646,6 +11675,13 @@
       {
         "source": "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md",
         "targets": [
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 5,
+            "anchors": [
+              "#844-combined-satisfaction"
+            ]
+          },
           {
             "file": "core_05__definitions_home.md",
             "count": 2,
@@ -11794,10 +11830,10 @@
           },
           {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 7,
+            "count": 5,
             "anchors": [
               "#cjs-10-purpose-of-this-layer",
-              "#cjs-11-joint-structural-boundary-and-owner-discipline"
+              "#cjs-11-section-identifiers-and-article-references"
             ]
           }
         ]
@@ -12006,7 +12042,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 2,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -12157,7 +12193,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 6,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -12288,7 +12324,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -12407,7 +12443,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -12537,7 +12573,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 2,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -12702,7 +12738,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -12872,7 +12908,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -13001,7 +13037,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 2,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -13106,7 +13142,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -13225,7 +13261,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -13338,7 +13374,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -13502,7 +13538,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 2,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -13606,7 +13642,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -13716,7 +13752,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -13826,7 +13862,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -13943,7 +13979,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -14047,7 +14083,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -14163,7 +14199,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -14276,7 +14312,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -14386,7 +14422,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -14497,7 +14533,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -14601,7 +14637,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -14705,7 +14741,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -14824,7 +14860,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -14950,7 +14986,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -14964,6 +15000,13 @@
             "anchors": [
               "#constitutional-tetrad",
               "#material-stake"
+            ]
+          },
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 4,
+            "anchors": [
+              "#844-combined-satisfaction"
             ]
           },
           {
@@ -15133,13 +15176,12 @@
           },
           {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 13,
+            "count": 11,
             "anchors": [
-              "#cjs-11-joint-structural-boundary-and-owner-discipline",
-              "#cjs-111-section-identifiers-and-article-references",
-              "#cjs-12-shared-implementation-corpus-preamble-contract",
-              "#cjs-16-intentional-overlap-non-duplication-discipline",
-              "#cjs-17-two-tier-definition-contract-binding-abstraction--owner-detail"
+              "#cjs-11-section-identifiers-and-article-references",
+              "#cjs-13-shared-implementation-corpus-preamble-contract",
+              "#cjs-17-intentional-overlap-non-duplication-discipline",
+              "#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail"
             ]
           },
           {
@@ -15152,6 +15194,13 @@
       {
         "source": "corpus_forum/cf_01_scope_authority_boundary_rules.md",
         "targets": [
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 3,
+            "anchors": [
+              "#844-combined-satisfaction"
+            ]
+          },
           {
             "file": "core_05__definitions_home.md",
             "count": 1,
@@ -15227,7 +15276,7 @@
             "count": 5,
             "anchors": [
               "#cjs-10-purpose-of-this-layer",
-              "#cjs-11-joint-structural-boundary-and-owner-discipline"
+              "#cjs-11-section-identifiers-and-article-references"
             ]
           }
         ]
@@ -15378,7 +15427,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -15554,7 +15603,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 2,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -15662,7 +15711,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 2,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -15820,7 +15869,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 2,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -16003,7 +16052,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -16157,7 +16206,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 7,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -16331,7 +16380,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 12,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -16485,7 +16534,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -16702,7 +16751,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 2,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -16835,7 +16884,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -16968,7 +17017,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -17094,7 +17143,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -17242,7 +17291,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 1,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]
@@ -17404,7 +17453,7 @@
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
             "count": 3,
             "anchors": [
-              "#cjs-12-shared-implementation-corpus-preamble-contract"
+              "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
           }
         ]

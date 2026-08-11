@@ -18,7 +18,7 @@
 > **Where this lives**
 > - **Navigation wrapper / reader landing:** [corpus_joint_structure.md](../corpus_joint_structure.md) indexes the joint-structure subfiles.
 > - **Reader landing:** [corpus_joint_structure.md](../corpus_joint_structure.md) is the human start for this layer. This file is the registry and routing annex, not a second front door.
-> - **Shared contract:** **CJS-1.2** (*Shared implementation-corpus preamble contract*) in [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) states authority, readability, shorthand, and canonical-meaning rules for all CJS and implementation files.
+> - **Shared contract:** **CJS-1.3** (*Shared implementation-corpus preamble contract*) in [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) states authority, readability, shorthand, and canonical-meaning rules for all CJS and implementation files.
 > - **Layer homes:** [Preamble — constitutional owner register](../core_00_preamble.md#constitutional-owner-register) for constitutional chapters and companion corpora; this layer's owns / does-not-own list in [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) (**CJS-1**). The CJS folder holds binding joint-structural text within **Corpus** as designated in **Chapter Five** and incorporated through **Chapter Sixteen**.
 >
 > **How to read CJS**
@@ -31,10 +31,10 @@
 > |---|---|
 > | **Topic-driven** — you know the subject (forum ops, institutional governance, cross-layer integrity) | [CJS-0.1 Cross-file routing](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) → [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md) → primary owner section |
 > | **Domain-driven** — you care about forums, institutions, or systems | [corpus_forum.md](../corpus_forum.md), [corpus_institutions.md](../corpus_institutions.md), or [corpus_systems.md](../corpus_systems.md) |
-> | **Cross-cutting operational terms** — evidence, procedure, dependency, participation, failure handling, and similar joint terms | [cjs_03_cross_implementation_operational_terms.md](cjs_03_cross_implementation_operational_terms.md) (**CJS-3** (*operational cluster library*)) |
+> | **Cross-cutting operational terms** (**oDef**) — evidence, procedure, dependency, participation, failure handling, and similar joint terms | [cjs_03_cross_implementation_operational_terms.md](cjs_03_cross_implementation_operational_terms.md) (**CJS-3** / **oDef** library; **oDef.*n*** = **CJS-3.*n***) |
 >
 > **Come back to CJS-0 through CJS-3 when**
-> - a citation sends you to **CJS-1.6**–**CJS-1.10**, **CJS-1.11**–**CJS-1.13**, or another reader-facing section — read that section, not the whole family; citation hygiene lives in **CJS-0.3**;
+> - a citation sends you to **CJS-1.1**, **CJS-1.7**–**CJS-1.11**, **CJS-1.13**–**CJS-1.14**, or another reader-facing section — read that section, not the whole family; citation hygiene lives in **CJS-0.3**;
 > - you need to know **which file owns a topic** — [CJS-0.1](#cjs-01-cross-file-routing) (*Cross-file routing*) or the [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md);
 > - you are **editing or auditing** cross-file routing — the maintainer-only router table in **CJS-0.1** and the drafting notes in **CJS-0.3**.
 >
@@ -54,9 +54,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CJS-0.1: Cross-file routing](#cjs-01-cross-file-routing); [CJS-0.2: Joint structure registry](#cjs-02-joint-structure-registry); [CJS-0.3: Stable identifiers, edition alignment, and drafting notes](#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes).
-- Read with: **CJS-0**; **CJS-0.1**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-1**; **CJS-1.1**.
+- Read with: **CJS-0**; **CJS-0.1**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-1**; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction).
 
 </details>
 
@@ -73,11 +73,11 @@ The joint-structure layer (**CJS**) coordinates shared interfaces among four imp
 - **CI** — [corpus_institutions.md](../corpus_institutions.md)
 - **CF** — [corpus_forum.md](../corpus_forum.md)
 
-Scope, boundary, and the shared implementation-corpus contract live in the next file: **CJS-1.1** through **CJS-1.13** in [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md).
+Scope, boundary, and the shared implementation-corpus contract live in the next file: **CJS-1.1**, **CJS-1.3** through **CJS-1.14** in [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md).
 
 - **CJS-0.1** — cross-file routing for humans: how **primary owner** and **mandatory read-with** work, when joint obligations apply, and the topic finder. The authoritative row table is maintainer-only detail in **CJS-0.1**.
 - **CJS-0.2** — joint-structure section-family registry (**CJS-1** through **CJS-3**).
-- **CJS-0.3** — stable identifiers, edition alignment, **CJS-3** citation hygiene, and maintainer drafting notes.
+- **CJS-0.3** — stable identifiers, edition alignment, **oDef** / **CJS-3** citation hygiene, and maintainer drafting notes.
 
 ### CJS-0.1: Cross-file routing
 
@@ -86,8 +86,8 @@ Scope, boundary, and the shared implementation-corpus contract live in the next 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: **CJS-0.1**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-2**; **CJS-1.1**.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Read with: **CJS-0.1**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-2**; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction).
 
 </details>
 
@@ -97,11 +97,11 @@ Scope, boundary, and the shared implementation-corpus contract live in the next 
 
 **Editors and auditors only — authoritative router table**
 
-Do not open the full router table below for ordinary reading. Stay in the primary owner file for a topic — for example **CF-10** for technical specialist forums or **CI-12** for cross-institution coordination. Each owner file's Trace block states its routing role. Use the table only when editing implementation files or auditing bidirectional routing completeness; apply **CJS-1.6** and **CJS-1.7** for deliberate splits and two-tier definitions.
+Do not open the full router table below for ordinary reading. Stay in the primary owner file for a topic — for example **CF-10** for technical specialist forums or **CI-12** for cross-institution coordination. Each owner file's Trace block states its routing role. Use the table only when editing implementation files or auditing bidirectional routing completeness; apply **CJS-1.7** and **CJS-1.8** for deliberate splits and two-tier definitions.
 
 **How cross-file topics work**
 
-Apply topics within the default reading stack named in **CJS-1.1** (*Joint structural boundary and owner discipline*).
+Apply topics within the default reading stack named in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) (*Combined satisfaction of jointly applicable incorporated obligations*).
 
 - **Start here (primary owner)** — the section that owns the topic's operative rules. A primary owner may be **CJS**, **CS**, **CI**, or **CF**.
 - **Also read (mandatory read-with)** — companion sections (and core hooks where listed) that must also be satisfied when the topic materially applies. They complete the topic; they do not replace the primary owner's operative scope.
@@ -110,7 +110,7 @@ If a matter triggers more than one cross-layer topic, apply **every** triggered 
 
 **When joint obligations apply**
 
-Applicability, combined satisfaction, and stricter-wins for jointly applicable incorporated obligations live in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) and [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer). This section supplies the human path and authoritative maintainer table that identify *which* implementation files the facts require ([non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); authoritative row table: **CJS-0.1**). Domain-specific joint rules: **CJS-1.8**–**CJS-1.10**.
+Applicability, combined satisfaction, and stricter-wins for jointly applicable incorporated obligations live in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) and [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer). This section supplies the human path and authoritative maintainer table that identify *which* implementation files the facts require ([non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); authoritative row table: **CJS-0.1**). Domain-specific joint rules: **CJS-1.9**–**CJS-1.11**.
 
 **Topic finder**
 
@@ -125,12 +125,12 @@ Use the [non-binding support index: topic router reader index](../doc_architectu
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
 >
-> **Principle-layer routing:** Read with [Chapter One](../core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) — [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), and [material stake](../core_00_preamble.md#material-stake). **CJS-3** (*Implementation and cross-implementation operational cluster library*) scales burden and constraint under material stake where materially relevant.
+> **Principle-layer routing:** Read with [Chapter One](../core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) — [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), and [material stake](../core_00_preamble.md#material-stake). **oDef** / **CJS-3** (*Implementation and cross-implementation operational cluster library*) scales burden and constraint under material stake where materially relevant.
 >
 > **Implementation anchors**
-> - **Routing (human path):** **CJS-0.1** (*Cross-file routing*) and the [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md). Applicability, combined satisfaction, and stricter-wins live in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) and [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer); citation hygiene for **CJS-3** labels is in **CJS-0.3**.
+> - **Routing (human path):** **CJS-0.1** (*Cross-file routing*) and the [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md). Applicability, combined satisfaction, and stricter-wins live in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) and [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer); citation hygiene for **oDef** / **CJS-3** labels is in **CJS-0.3**.
 > - **Routing (integrator/maintainer only):** authoritative row IDs and mandatory read-with lists live in **CJS-0.1** — not a reader door.
-> - **Joint obligations:** [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) and [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer) hold applicability, combined satisfaction, and stricter-wins; **CJS-1.8**–**CJS-1.10** hold domain-specific joint rules.
+> - **Joint obligations:** [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) and [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer) hold applicability, combined satisfaction, and stricter-wins; **CJS-1.9**–**CJS-1.11** hold domain-specific joint rules.
 > - **Domain limits:** CJS coordinates shared interfaces. It does not replace day-to-day domain rules owned only by `corpus_systems.md`, `corpus_institutions.md`, or `corpus_forum.md`.
 >
 > **Maintainer inventory**
@@ -139,18 +139,20 @@ Use the [non-binding support index: topic router reader index](../doc_architectu
 > |---|---|
 > | **CJS-0.1** (*Cross-file routing*) | Authoritative topic router (stable row IDs and mandatory read-with lists) |
 > | **CJS-1.0** | Purpose of this layer — binding gateway into the implementation corpus |
-> | **CJS-1.6** | Deliberate-split non-duplication — each file keeps only its slice; primary owner is named in **CJS-0.1** |
-> | **CJS-1.7** | Two-tier definition contract — binding skeleton in **CJS**; tests, thresholds, and procedures in the primary owner |
+> | **CJS-1.1** (*Section identifiers and article references*) | Implementation labels are not Constitution Article numbers; constitutional **Def.*** vs joint **oDef** homes |
+> | [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) | Default **CJS → CS → CI → CF** reading stack; combined satisfaction |
+> | **CJS-1.7** | Deliberate-split non-duplication — each file keeps only its slice; primary owner is named in **CJS-0.1** |
+> | **CJS-1.8** | Two-tier definition contract — binding skeleton in **CJS**; tests, thresholds, and procedures in the primary owner |
 >
-> The authoritative router table is maintainer-only detail within **CJS-0.1**; drafting contracts are **CJS-1.6** and **CJS-1.7**.
+> The authoritative router table is maintainer-only detail within **CJS-0.1**; drafting contracts are **CJS-1.7** and **CJS-1.8**.
 >
-> **Two-tier definitions (plain view):** Some ideas cut across **CJS**, **CS**, **CI**, and **CF**. **CJS** may hold a binding skeleton; operative detail stays in the primary owner. Constitutional vs joint operational definition boundaries: **CJS-1.1**. Editors apply the full contract in **CJS-1.7** when drafting.
+> **Two-tier definitions (plain view):** Some ideas cut across **CJS**, **CS**, **CI**, and **CF**. **CJS** may hold a binding skeleton; operative detail stays in the primary owner. Constitutional **Def.*** vs joint **oDef** boundaries: **CJS-1.1**. Editors apply the full contract in **CJS-1.8** when drafting.
 >
 > **Illustrative split** — lawful panel formation when a forum cannot seat a full bench: **CJS** states shared scope, cross-layer triggers, and minimum joint consequences; the forum owner (**CF-4**) states disclosure, recusal, substitution, and inability-to-form mechanics.
 >
-> **Deliberate splits:** When one topic is intentionally split across files, each file keeps only its slice; the authoritative owner is named by the router. Editors apply **CJS-1.6** (*Intentional overlap (non-duplication discipline)*) when drafting.
+> **Deliberate splits:** When one topic is intentionally split across files, each file keeps only its slice; the authoritative owner is named by the router. Editors apply **CJS-1.7** (*Intentional overlap (non-duplication discipline)*) when drafting.
 >
-> **Implementation cross-reference index (routing only):** Joint-structure obligations may connect with **CJS-3** (*Implementation and cross-implementation operational cluster library*) operational clusters. Start at [CJS-3.1 constitutional compass](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map). For the readable audit process home (what / why / how / when), open **[CJS-3.3](cjs_03_audit_process.md#cjs-33-audit-process-home)** before the Oversight OP annexes. Then the relevant band: **CJS-3.2–CJS-3.6** (Oversight leg OP clusters), **CJS-3.7–CJS-3.10** (Participation leg), **CJS-3.11–CJS-3.15** (Accountability leg), **CJS-3.16–CJS-3.21** (Continuity aim), **CJS-3.22–CJS-3.23** (Integrative cross-leg). This index only helps readers find related material. It does not redefine Chapter Five constitutional terms.
+> **Implementation cross-reference index (routing only):** Joint-structure obligations may connect with **oDef** / **CJS-3** (*Implementation and cross-implementation operational cluster library*) clusters (**oDef.*n*** = **CJS-3.*n***). Start at [CJS-3.1 constitutional compass](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map). For the readable audit process home (what / why / how / when), open **[CJS-3.3](cjs_03_audit_process.md#cjs-33-audit-process-home)** / **oDef.3** before the Oversight OP annexes. Then the relevant band: **oDef.2–oDef.6** (**CJS-3.2–CJS-3.6**, Oversight), **oDef.7–oDef.10** (Participation), **oDef.11–oDef.15** (Accountability), **oDef.16–oDef.21** (Continuity aim), **oDef.22–oDef.23** (Integrative cross-leg). This index only helps readers find related material. It does not redefine Chapter Five **Def.*** terms.
 
 </details>
 
@@ -162,18 +164,18 @@ Use the [non-binding support index: topic router reader index](../doc_architectu
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: [CJS-0.1](#cjs-01-topic-router-stable-ids); **CJS-2.1**; **CJS-2.5**; **CJS-2.3**; **CJS-2.4**; [CJS-1.7](cjs_01_scope_purpose_boundary_interface.md#cjs-17-two-tier-definition-contract-binding-abstraction--owner-detail); [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline).
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Read with: [CJS-0.1](#cjs-01-topic-router-stable-ids); **CJS-2.1**; **CJS-2.5**; **CJS-2.3**; **CJS-2.4**; [CJS-1.8](cjs_01_scope_purpose_boundary_interface.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction).
 
 </details>
 
 <br>
 
-When implementation text intersects other implementation layers, apply the default reading stack in [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) (*Joint structural boundary and owner discipline*). Within that stack, read only what **CJS-0.1** routes for the topic.
+When implementation text intersects other implementation layers, apply the default reading stack in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) (*Combined satisfaction of jointly applicable incorporated obligations*). Within that stack, read only what **CJS-0.1** (*Topic router (stable IDs)*) routes for the topic.
 
 Router rows are **indicative**, not exhaustive: if a matter triggers multiple rows, apply **all** triggered rows whose scope is materially true.
 
-Joint abstractions and constitutional non-redefinition discipline: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) (*Joint structural boundary and owner discipline*) and the two-tier contract in [CJS-1.7](cjs_01_scope_purpose_boundary_interface.md#cjs-17-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*).
+Joint abstractions and constitutional non-redefinition discipline: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*) and the two-tier contract in [CJS-1.8](cjs_01_scope_purpose_boundary_interface.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Integrator reference: full router table (stable row IDs)</span></strong></summary>
@@ -216,7 +218,7 @@ Joint abstractions and constitutional non-redefinition discipline: [CJS-1.1](cjs
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Read with: **CJS-0**; **CJS-0.2**; **CJS-1**; **CJS-2**; **CJS-3**.
 
 </details>
@@ -241,7 +243,7 @@ These are the stable section families for the CJS folder:
 | **CJS-0** | Registry, cross-file routing guide, maintainer-only router table, and reading rules | Editors, auditors, readers who are lost | this file (`cjs_00_registry_and_reading_rules.md`) |
 | **CJS-1** | Scope, shared contract, applicability, cross-domain requirements, identifiers, and parse mechanics | Editors, auditors; general readers when cited | [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) |
 | **CJS-2** | Specific joint interlocks and shared abstractions | Topic-driven readers when routed; implementers | [cjs_02_specific_joint_interlocks.md](cjs_02_specific_joint_interlocks.md) |
-| **CJS-3** | Cross-implementation operational cluster library; audit process home at **CJS-3.3** | Readers needing shared operational terms or the auditing guide | [cjs_03_cross_implementation_operational_terms.md](cjs_03_cross_implementation_operational_terms.md); audit process: [cjs_03_audit_process.md](cjs_03_audit_process.md) |
+| **CJS-3** / **oDef** | Cross-implementation **oDef** library (**oDef.*n*** = **CJS-3.*n***); audit process home at **CJS-3.3** / **oDef.3** | Readers needing shared operational definitions or the auditing guide | [cjs_03_cross_implementation_operational_terms.md](cjs_03_cross_implementation_operational_terms.md); audit process: [cjs_03_audit_process.md](cjs_03_audit_process.md) |
 
 ### CJS-0.3: Stable identifiers, edition alignment, and drafting notes
 
@@ -249,8 +251,8 @@ These are the stable section families for the CJS folder:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: **CJS-0.3**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-2.1**; [CJS-1.7.1](cjs_01_scope_purpose_boundary_interface.md#cjs-171-implementation-boundary-primary-owner-to-cjs-seam); **CJS-2**; **CJS-3**.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Read with: **CJS-0.3**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-2.1**; [CJS-1.8.1](cjs_01_scope_purpose_boundary_interface.md#cjs-181-implementation-boundary-primary-owner-to-cjs-seam); **CJS-2**; **CJS-3**.
 
 </details>
 
@@ -272,7 +274,7 @@ These are the stable section families for the CJS folder:
 
 **Implementation-label citation hygiene**
 
-When **CS**, **CI**, or **CF** cite **CJS-3** (*Implementation and cross-implementation operational cluster library*) operational clusters, adopters must keep those references traceable and must not use implementation text to weaken them. Stricter-wins between adopted implementation standards on the same risk remains in [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins).
+When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3** (*Implementation and cross-implementation operational cluster library*) clusters, adopters must keep those references traceable and must not use implementation text to weaken them. Stricter-wins between adopted implementation standards on the same risk remains in [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): maintainer and drafting notes</span></strong></summary>
@@ -283,7 +285,7 @@ When **CS**, **CI**, or **CF** cite **CJS-3** (*Implementation and cross-impleme
 >
 > 1. Extend **CJS-0.1** (*Cross-implementation read-with contract*) with new rows only when the [Preamble — constitutional owner register](../core_00_preamble.md#constitutional-owner-register) or cross-file overlap changes; keep row IDs **stable** — append new IDs, do not renumber. When a row changes, update the **primary owner** and each **mandatory read-with** section so routing stays **bidirectional** (row ↔ owner ↔ read-with).
 > 2. When **CI**/**CF**/**CS** repeat the same joint interface paragraph, prefer a **one-line** pointer to the relevant CJS joint section, including **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*) for hybrid composition shared by **CI-9.3.2** (*Authority composition*) and **CF-3.6** (*Chamber authority composition and service mechanics*), and keep operative checklists in the **primary owner**.
-> 3. When implementation files repeat the same joint interface paragraph, apply **CJS-1.7.1** (*Implementation boundary (primary owner to CJS seam)*) the same way: use a **one-line** pointer to **CJS-1** (*Scope, purpose, and boundary interface*), **CJS-2** (*Specific joint interlocks and shared abstractions*), **CJS-0.1** (*Cross-implementation read-with contract*), or the applicable **CJS-3** (*Implementation and cross-implementation operational cluster library*) cluster rather than duplicating OP clusters at length.
+> 3. When implementation files repeat the same joint interface paragraph, apply **CJS-1.8.1** (*Implementation boundary (primary owner to CJS seam)*) the same way: use a **one-line** pointer to **CJS-1** (*Scope, purpose, and boundary interface*), **CJS-2** (*Specific joint interlocks and shared abstractions*), **CJS-0.1** (*Cross-implementation read-with contract*), or the applicable **oDef** / **CJS-3** cluster rather than duplicating **oDef** text at length.
 > 4. Run `make reference-audit` after substantive cross-file moves.
 > 5. Where a new high-level joint abstraction is added, verify it remains **Tier 1 only** with no owner-mechanics migration, and record the duplicate-taxonomy risk in the active review notes until the deferred regression path is reinstated.
 

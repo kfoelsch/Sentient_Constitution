@@ -14,9 +14,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-7.1: Controls declaration](#ci-71-controls-declaration); [CI-7.2: External assurance triggers](#ci-72-external-assurance-triggers); [CI-7.3: Contest-integrity monitoring (Class A and Class B)](#ci-73-contest-integrity-monitoring-class-a-and-class-b).
-- Read with: **CI-7**; **CI-7.1**; **CI-7.2**; **CI-7.3**; **CI-8**; **CJS-3.6** (*integrity assurance and resilience operations*); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
+- Read with: **CI-7**; **CI-7.1**; **CI-7.2**; **CI-7.3**; **CI-8**; **CJS-3.6** (*integrity assurance and resilience operations*); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
 
 </details>
 
@@ -100,7 +100,7 @@ Apply **CJS-3.6** (*integrity assurance and resilience operations*) for the shar
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-7.3**; **CI-7**; **CI-7.1**; **CI-7.2**; **CI-4**; **CI-5**; **CI-6**; **CI-8**; **CI-12**; **CJS-1.8**; **CJS-3.6** (*integrity assurance and resilience operations*).
+- Read with: **CI-7.3**; **CI-7**; **CI-7.1**; **CI-7.2**; **CI-4**; **CI-5**; **CI-6**; **CI-8**; **CI-12**; **CJS-1.9**; **CJS-3.6** (*integrity assurance and resilience operations*).
 - Topic routing (mandatory read-with): **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-0.1** (*Topic router*); primary owner **CF-7**.
 - Topic routing (mandatory read-with): **CJS-R07** (*Forum forensic and analytical support*) in **CJS-0.1** (*Topic router*); primary owner **CF-8**.
 - Topic routing (mandatory read-with): **CJS-R10** (*Forum performance, backlog requirements, publication timeliness, access…*) in **CJS-0.1** (*Topic router*); primary owner **CF-11**.

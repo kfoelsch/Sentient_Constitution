@@ -1,11 +1,11 @@
-# Oversight leg (CJS-3.2–CJS-3.6)
+# Oversight leg (CJS-3.2–CJS-3.6) / oDef.2–oDef.6
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Oversight leg (CJS-3.2–CJS-3.6)**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Oversight leg (CJS-3.2–CJS-3.6 / oDef.2–oDef.6)**.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,25 +14,25 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Read with: [CJS-3.1](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) constitutional compass.
 
 </details>
 
 <br>
 
-This file is the joint-structure implementation home for **Oversight leg (CJS-3.2–CJS-3.6)**.
+This file is the joint-structure implementation home for **Oversight leg (CJS-3.2–CJS-3.6 / oDef.2–oDef.6)**.
 
 *In plain terms: These clusters carry the **Oversight** leg into working terms: making a system explain itself, keeping enough record to reconstruct what happened, scaling who may see what, verifying claims independently, and keeping assurance itself resilient. They must be read together, because one strong control cannot rescue a weak link elsewhere.*
 
 This family operationalizes the **Oversight** leg of the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad): watching, auditing, assuring, and verifying that implementation claims remain reviewable across **CJS**, **CS**, **CI**, and **CF**. Clusters here must be read together — a strong control in one link cannot cure a material failure in another.
 | Cluster | Section |
 |---|---|
-| **CJS-3.2** | Oversight: reflexive transparency and accountability terms |
-| **CJS-3.3** | Oversight: auditability and reconstructability terms (**OP annex** — process home is [cjs_03_audit_process.md](cjs_03_audit_process.md#cjs-33-audit-process-home)) |
-| **CJS-3.4** | Oversight: tiered transparency and audit-access terms (annex — including audit-process output disclosure) |
-| **CJS-3.5** | Oversight: independent verification and claim-integrity terms (annex) |
-| **CJS-3.6** | Oversight: integrity assurance and resilience operations |
+| **CJS-3.2** / **oDef.2** | Oversight: reflexive transparency and accountability terms |
+| **CJS-3.3** / **oDef.3** | Oversight: auditability and reconstructability terms (**OP annex** — process home is [cjs_03_audit_process.md](cjs_03_audit_process.md#cjs-33-audit-process-home)) |
+| **CJS-3.4** / **oDef.4** | Oversight: tiered transparency and audit-access terms (annex — including audit-process output disclosure) |
+| **CJS-3.5** / **oDef.5** | Oversight: independent verification and claim-integrity terms (annex) |
+| **CJS-3.6** / **oDef.6** | Oversight: integrity assurance and resilience operations |
 **Reader note.** For what auditing is, why / how / when to run it, and the sibling-mode map, start at the **[CJS-3.3 audit process home](cjs_03_audit_process.md#cjs-33-audit-process-home)**. This file keeps the machine-facing Oversight OP clusters.
 ---
 
@@ -362,7 +362,7 @@ Structured review and incentive-integrity floor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router.
+- Read with: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router.
 - Read with: Core definitions for auditability, verifiability, reversibility, dependency, cascading failure, adversarial conditions, and trustworthiness.
 - Constitutional frame: **Oversight** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Cross-leg note: integrative with **Accountability** where contest, correction, and assurance routing are implicated.

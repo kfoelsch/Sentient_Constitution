@@ -1,11 +1,11 @@
-# Accountability leg (CJS-3.11–CJS-3.15)
+# Accountability leg (CJS-3.11–CJS-3.15) / oDef.11–oDef.15
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Accountability leg (CJS-3.11–CJS-3.15)**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Accountability leg (CJS-3.11–CJS-3.15 / oDef.11–oDef.15)**.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,25 +14,25 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Read with: [CJS-3.1](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) constitutional compass.
 
 </details>
 
 <br>
 
-This file is the joint-structure implementation home for **Accountability leg (CJS-3.11–CJS-3.15)**.
+This file is the joint-structure implementation home for **Accountability leg (CJS-3.11–CJS-3.15 / oDef.11–oDef.15)**.
 
 *In plain terms: These clusters carry the **Accountability** leg into working terms: how far authority may be concentrated, who must justify a decision and how heavily, what makes a procedure sound, who may authorize an override, and when a structure must be reviewed and corrected. The bigger the stake, the stronger each requirement becomes.*
 
 This family operationalizes the **Accountability** leg of the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad): authority distribution, justification burdens, procedural integrity, intervention authorization, and structural review. Accountability clusters scale with [material stake](../core_00_preamble.md#material-stake) and must remain contestable in practice.
 | Cluster | Section |
 |---|---|
-| **CJS-3.11** | Accountability: distributed and proportional authority terms |
-| **CJS-3.12** | Accountability: burden-of-justification and constraint terms |
-| **CJS-3.13** | Accountability: procedural integrity and adjudication terms |
-| **CJS-3.14** | Accountability: intervention governance and override-authorization terms |
-| **CJS-3.15** | Accountability: structural review, correction urgency, and disclosure terms |
+| **CJS-3.11** / **oDef.11** | Accountability: distributed and proportional authority terms |
+| **CJS-3.12** / **oDef.12** | Accountability: burden-of-justification and constraint terms |
+| **CJS-3.13** / **oDef.13** | Accountability: procedural integrity and adjudication terms |
+| **CJS-3.14** / **oDef.14** | Accountability: intervention governance and override-authorization terms |
+| **CJS-3.15** / **oDef.15** | Accountability: structural review, correction urgency, and disclosure terms |
 ---
 
 ## CJS-3.11 Accountability: distributed and proportional authority terms

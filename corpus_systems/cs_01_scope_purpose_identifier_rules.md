@@ -14,8 +14,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) purpose of the joint-structure layer; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary and owner discipline; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: **CS-1**; [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; [Operates in conjunction with](#operates-in-conjunction-with).
+- Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) purpose of the joint-structure layer; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) section identifiers and **Def.*** / **oDef** homes; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Read with: **CS-1**; [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; [Operates in conjunction with](#operates-in-conjunction-with).
 
 </details>
 
@@ -69,12 +69,12 @@ This file is the systems implementation home for **CS-1** (*Scope, purpose, and 
 - constitutional **Authority Stack and Internal Hierarchy** in **Chapter Five**, read with **Chapter Sixteen** incorporation discipline
 - **Sentient Constitution Chapters Two through Five** — definition requirements and Independent Definitions (materiality, reasonable foreseeability, dependency, system boundaries, risk, harm, System Classification Record, System Data Types Record, and related terms)
 
-Family-specific Trace blocks and mandatory read-withs remain in each CS file. Cross-layer topic routing remains in **CJS-0.1**. Implementation-corpus gateway, shared contract, and joint reading order remain in **CJS-1.0**, **CJS-1.1**, and **CJS-1.2**.
+Family-specific Trace blocks and mandatory read-withs remain in each CS file. Cross-layer topic routing remains in **CJS-0.1**. Implementation-corpus gateway and shared contract remain in **CJS-1.0**, **CJS-1.1**, and **CJS-1.3**. Default reading stack: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction).
 
 **Read next**
 
 - Label map, section registry, and systems-only domain routing: [cs_00_registry_and_reading_rules.md](cs_00_registry_and_reading_rules.md) (*Systems domain routing (integrator annex)*).
-- Implementation-corpus gateway, shared contract, and joint reading order: **CJS-1.0**, **CJS-1.1**, and **CJS-1.2** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md).
+- Implementation-corpus gateway and shared contract: **CJS-1.0**, **CJS-1.1**, and **CJS-1.3** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md). Default reading stack: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction).
 - Cross-layer topic router: [CJS-0.1 Cross-file routing](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids).
 - CS family detail: [cs_02_a_information_types_and_handling.md](cs_02_a_information_types_and_handling.md), [cs_03_a_system_classification_machinery.md](cs_03_a_system_classification_machinery.md), [cs_04_critical_system_stewardship.md](cs_04_critical_system_stewardship.md).
 

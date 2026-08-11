@@ -7,7 +7,7 @@
 - How shared contracts set authority, readability, identifiers, and “who owns this topic”
 - How topic routing and mandatory read-with order work across implementation files
 - How joint obligations and interlocks must be satisfied together — not restated as domain doctrine
-- How shared operational terms (evidence, procedure, dependency, participation, failure handling, and related) live in the **CJS-3** library — including the **[CJS-3.3 audit process home](corpus_joint_structure/cjs_03_audit_process.md#cjs-33-audit-process-home)** (what / why / how / when auditing works across CS, CI, and CF)
+- How shared operational definitions (**oDef**) live in the **CJS-3** library (**oDef.*n*** = **CJS-3.*n***) — including the **[CJS-3.3 / oDef.3 audit process home](corpus_joint_structure/cjs_03_audit_process.md#cjs-33-audit-process-home)** (what / why / how / when auditing works across CS, CI, and CF)
 - Families **CJS-1–CJS-3** and the registry annex carry the detail — expand **Joint structure index** below, or open [CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) / the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md), when you need a specific file
 
 **Does not:**
@@ -16,8 +16,8 @@
 - Require most readers to read this folder front to back
 
 **Implements from the core files:**
-- [Chapter One](core_01_a_values_principles.md) / [Preamble](core_00_preamble.md) — [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) as the compass for **CJS-3** (*operational cluster library*) bands
-- [Chapter Five](core_05__definitions_home.md) definition stack and [Corpus](core_05_band_integrative.md#corpus) designation — joint interfaces and operational clusters that must track constitutional meaning without redefining it
+- [Chapter One](core_01_a_values_principles.md) / [Preamble](core_00_preamble.md) — [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) as the compass for **oDef** / **CJS-3** (*operational cluster library*) bands
+- [Chapter Five](core_05__definitions_home.md) definition stack and [Corpus](core_05_band_integrative.md#corpus) designation — joint interfaces and **oDef** clusters that must track constitutional **Def.*** meaning without redefining it
 - Cross-layer support for [Chapter Six](core_06-06_rights_part_a.md) through [Chapter Twelve](core_12-12_governance.md) where systems, institutions, and forums must satisfy shared integrity terms together
 - [Chapter Sixteen](core_16-16_incorporation.md) incorporation discipline for how implementation text binds when adopted
 
@@ -56,16 +56,16 @@
 |---|---|
 | Registry and identifier rules | [cjs_00_registry_and_reading_rules.md](corpus_joint_structure/cjs_00_registry_and_reading_rules.md) |
 | CJS-1: Scope, purpose, and boundary interface | [cjs_01_scope_purpose_boundary_interface.md](corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md) |
-| CJS-0.1: Integration map (**CJS-0.1**–**CJS-1.7**; no dedicated family file — lives in registry annex) | [cjs_00_registry_and_reading_rules.md — Joint structure domain routing](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#joint-structure-domain-routing-integrator-annex) |
+| CJS-0.1: Integration map (**CJS-0.1**–**CJS-1.8**; no dedicated family file — lives in registry annex) | [cjs_00_registry_and_reading_rules.md — Joint structure domain routing](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#joint-structure-domain-routing-integrator-annex) |
 | CJS-1: Joint structural obligations | [cjs_01_scope_purpose_boundary_interface.md](corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md) |
 | CJS-2: Specific joint interlocks and shared abstractions | [cjs_02_specific_joint_interlocks.md](corpus_joint_structure/cjs_02_specific_joint_interlocks.md) |
-| CJS-3: Cross-implementation operational cluster library (compass and role preface) | [cjs_03_cross_implementation_operational_terms.md](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md) |
-| CJS-3.3: Audit process home (what / why / how / when) | [cjs_03_audit_process.md](corpus_joint_structure/cjs_03_audit_process.md) |
-| CJS-3.2–CJS-3.6: Oversight leg clusters (OP annexes, including CJS-3.3–5.5) | [cjs_03o_oversight_operations.md](corpus_joint_structure/cjs_03o_oversight_operations.md) |
-| CJS-3.7–CJS-3.10: Participation leg clusters | [cjs_03p_participation_operations.md](corpus_joint_structure/cjs_03p_participation_operations.md) |
-| CJS-3.11–CJS-3.15: Accountability leg clusters | [cjs_03a_accountability_operations.md](corpus_joint_structure/cjs_03a_accountability_operations.md) |
-| CJS-3.16–CJS-3.21: Continuity aim clusters | [cjs_03c_continuity_operations.md](corpus_joint_structure/cjs_03c_continuity_operations.md) |
-| CJS-3.22–CJS-3.23: Integrative cross-leg clusters | [cjs_03i_integrative_operations.md](corpus_joint_structure/cjs_03i_integrative_operations.md) |
+| CJS-3 / oDef: Cross-implementation operational cluster library (compass and role preface) | [cjs_03_cross_implementation_operational_terms.md](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md) |
+| CJS-3.3 / oDef.3: Audit process home (what / why / how / when) | [cjs_03_audit_process.md](corpus_joint_structure/cjs_03_audit_process.md) |
+| CJS-3.2–CJS-3.6 / oDef.2–oDef.6: Oversight leg clusters (OP annexes, including CJS-3.3–5.5) | [cjs_03o_oversight_operations.md](corpus_joint_structure/cjs_03o_oversight_operations.md) |
+| CJS-3.7–CJS-3.10 / oDef.7–oDef.10: Participation leg clusters | [cjs_03p_participation_operations.md](corpus_joint_structure/cjs_03p_participation_operations.md) |
+| CJS-3.11–CJS-3.15 / oDef.11–oDef.15: Accountability leg clusters | [cjs_03a_accountability_operations.md](corpus_joint_structure/cjs_03a_accountability_operations.md) |
+| CJS-3.16–CJS-3.21 / oDef.16–oDef.21: Continuity aim clusters | [cjs_03c_continuity_operations.md](corpus_joint_structure/cjs_03c_continuity_operations.md) |
+| CJS-3.22–CJS-3.23 / oDef.22–oDef.23: Integrative cross-leg clusters | [cjs_03i_integrative_operations.md](corpus_joint_structure/cjs_03i_integrative_operations.md) |
 
 </details>
 
