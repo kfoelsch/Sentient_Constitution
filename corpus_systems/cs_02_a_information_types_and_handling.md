@@ -420,7 +420,7 @@ This subsection applies [Attribution Integrity](core_05_band_accountability.md#a
 - All actions affecting **sentients**, **shared infrastructure**, **resource systems**, or the **info-sphere** must satisfy [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) through identifiable systems, agents, or sentients
 - Attribution must satisfy [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), including **auditability (CJS-3.3 (*auditability and reconstructability terms*))** and resistance to tampering, repudiation, or ambiguity
 
-For personnel/agents exercising **Critical System Stewardship** or **material** operational authority, the inspectable attributable-action surface lives in **[CS-4 §10](cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)**. This subsection remains the system-action attribution home.
+For personnel/agents exercising **Critical System Stewardship** or **material** operational authority, the inspectable attributable-action surface lives in **[CS-4 §10](cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)** as the default logging contract for mixed crews. This subsection remains the system-action attribution home.
 
 **Transition to full attribution.** Where systems **increase in impact**, they must transition toward **full attribution**. The same applies when they:
 - **introduce persistent value, identity, or resource transfer**

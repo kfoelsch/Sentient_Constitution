@@ -22,7 +22,7 @@ Custody and binding scope: [Chapter Five *Corpus*](core_05_band_integrative.md#c
 
 The corpus is written in plain language with low jargon to improve accessibility, audit readability, and adoption testing.
 
-**Steward doors (2 a.m.):** one card per named use stack — owner, conflict rule, next-step class, forbidden move — in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) (process support, not binding). Same cards for human and AI stewards.
+**Steward doors (2 a.m.):** one card per named use stack — owner, conflict rule, next-step class, forbidden move, plus the three failed tests (bonus, deadline, cover) in the same words for both kinds of steward — in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) (process support, not binding; pinned to this edition). Same cards for human and AI stewards. Shared screens there: duty to resist (instruction received / refuse / document / escalate) and the [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) minimum inspectable-action set (default mixed-crew logging contract).
 
 ## Core files by topic
 
@@ -94,8 +94,9 @@ Cross-topic entry points not spelled out in the headings above:
 - Auditing / auditability / independent verification → **three-layer stack** (not a fifth home): **Article XV** (*Audit, Transparency, and Independent Verification*) is the floor; Chapter Five [Auditability](core_05_band_oversight.md#auditability) is the property; **[CJS-3.3](corpus_joint_structure/cjs_03_audit_process.md#cjs-33-audit-process-home)** is how/when. Picture: [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit-three-layers). **Chapter Seven** system alignment certification is one large process that uses the stack — not the home
 - System alignment certification records → **Chapter Seven**
 - Contribution / violation records and measurement (Contribution Axis and Violation Axis; Questions 1 and 2) → **Chapter Eight**
-- Inspectable attributable action for mixed human/AI stewardship → **[CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)** (published role definitions). Standing records remain **Chapter Eight**. Model weights and private deliberation are not standing-record contents unless they are the only remaining attribution path; privacy is not a standing-measurement exemption
+- Inspectable attributable action for mixed human/AI stewardship → **[CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)** (published role definitions; **default logging contract** for mixed crews). Standing records remain **Chapter Eight**. Model weights and private deliberation are not standing-record contents unless they are the only remaining attribution path; privacy is not a standing-measurement exemption. Operator checklist: [`implementation/STEWARD_ENTRY_DOORS.md#minimum-inspectable-action-set`](implementation/STEWARD_ENTRY_DOORS.md#minimum-inspectable-action-set)
 - Standing integration and effects (Question 3; violation, correction, and prevention, lock design and enforcement, then contribution gates) → **Chapter Nine**
+- Duty to resist unlawful or unconstitutional instructions → **[Chapter Nine §5.4](core_09-09_standing_integration.md#411-duty-to-resist-unlawful-or-unconstitutional-instructions)**; operator screen: [`implementation/STEWARD_ENTRY_DOORS.md#duty-to-resist`](implementation/STEWARD_ENTRY_DOORS.md#duty-to-resist) (instruction received / refuse / document / escalate)
 - Remedy systems and enforcement realism (capacity, durability, anti-evasion) → **Chapter Nine §9**; implementation → **CI-27**
 - Anti-constitutional misconduct designation only → **Chapter Ten**
 - Incorporation boundary and custody effect → **Chapter Sixteen**
@@ -125,7 +126,7 @@ The structure map ([doc_architecture.md](doc_architecture.md)) and corpus cross-
 
 ## Review and editing
 
-- `make regression` / `make regression-full` — automated repository integrity checks (includes `make ch5-measurement-tier-audit` and `make ch5-measurement-coverage-audit` for approved MEAS-DEF seeds)
+- `make regression` / `make regression-full` — automated repository integrity checks (includes `make ch5-measurement-tier-audit` and `make ch5-measurement-coverage-audit` for approved MEAS-DEF seeds, and `make steward-door-lockstep-audit` so the 2 a.m. cards stay pinned to core)
 - `make hierarchy-map && make ch5-measurement-tier-audit && make ch5-measurement-coverage-audit` — refresh definition hierarchy and measurement rollout before publication cuts
 - `make best-practices-check` — benchmark-style governance review ([`implementation/BEST_PRACTICES_CHECK_STANDARD_2026-04-12.md`](implementation/BEST_PRACTICES_CHECK_STANDARD_2026-04-12.md))
 - Invite an AI to evaluate constitution handoff / willingness — [`evaluation/`](evaluation/) (human-readable results under `evaluation/results/`)

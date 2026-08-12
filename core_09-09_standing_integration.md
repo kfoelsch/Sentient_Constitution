@@ -314,6 +314,8 @@ These rules shape how a lock or safeguard is attached under [§5.1](#51-definiti
 <a id="411-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
 **Duty to resist.**
 
+*Steward door (non-operative):* Instruction received → refuse → document → escalate. Same sequence for human and AI stewards. Operator screen: [`implementation/STEWARD_ENTRY_DOORS.md#duty-to-resist`](implementation/STEWARD_ENTRY_DOORS.md#duty-to-resist) (process support, not binding).
+
 - **Named pathway / finding:**
   - No instruction, order, policy, or contract requiring unlawful or unconstitutional conduct creates a valid compliance defense.
   - Issuing, transmitting, ratifying, or materially enforcing such an instruction is independently measurable violation conduct.
