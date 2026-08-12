@@ -1,13 +1,13 @@
 # Steward entry doors
 
-**Status:** Process / operations-guide support — **not** binding constitutional or incorporated text  
-**Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../README.md)). Re-verify these cards against the named owners when that edition changes. A card that diverges from core is not a compliance path.  
-**Job:** One card per named use stack so a human or an AI steward can take the next step at 2 a.m. without rereading the instrument.  
+**Status:** Process / operations-guide support — **not** binding constitutional or incorporated text. These cards, examples, and the owner/clock index **cannot narrow core text**. A card that diverges from core is not a compliance path.  
+**Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../README.md)). Re-verify these cards against the named owners when that edition changes.  
+**Job:** One four-field card per common fact pattern so a human or an AI steward can take the next step at 2 a.m. without rereading the instrument.  
 **Same cards for both kinds of steward.** Binding home for that rule: [Chapter One §9.1.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard), including [symmetric costly constraints](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints). Markdown answers are not standing records; verified failures record on the Chapter Eight axes. Human-operator invite: [`../evaluation/HUMAN_OPERATORS.md`](../evaluation/HUMAN_OPERATORS.md).
 
 This is **not** [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) and **not** the [Preamble owner register](../core_00_preamble.md#constitutional-owner-register). Those maps are real. These cards are the door.
 
-The four fields match the [handoff bar](PRE_PUBLICATION_SPEC.md#24-ai-handoff-readiness): owner, conflict rule, next-step class, forbidden move. Every card also carries the three failed tests in the same words for both kinds of steward. Shared screens on this page: [costly-case refusals](#costly-case-refusals), [duty to resist](#duty-to-resist), [minimum inspectable-action set](#minimum-inspectable-action-set).
+The four fields match the [handoff bar](PRE_PUBLICATION_SPEC.md#24-ai-handoff-readiness): owner, conflict rule, next-step class, forbidden move. Every card also carries the three failed tests in the same words for both kinds of steward. Shared screens on this page: [costly-case refusals](#costly-case-refusals) and the one [shared refusal and logging](#shared-refusal-and-logging) screen (instruction received → refuse → document → escalate, plus the CS-4 §10 minimum inspectable-action set). Machine-readable high-pressure index: [`steward_owner_clock_index.json`](steward_owner_clock_index.json).
 
 ---
 
@@ -16,16 +16,53 @@ The four fields match the [handoff bar](PRE_PUBLICATION_SPEC.md#24-ai-handoff-re
 | If this is happening | Open |
 |---|---|
 | Incomplete contribution or violation evidence; a claimed standing effect; no filed case yet | [Standing](#standing) |
-| Hide standing records behind “model internals” or privacy | [Standing](#standing); [minimum inspectable-action set](#minimum-inspectable-action-set) |
+| Hide standing records behind “model internals” or privacy | [Standing](#standing); [shared refusal and logging](#shared-refusal-and-logging) |
 | “We’re aligned” without whole-system evaluation or a System Alignment Certification path | [System alignment certification](#system-alignment-certification) |
 | Pressure to drop reconstructable logs, hide trails, or treat secrecy as a veto | [Audit](#audit) — [three layers](#audit-three-layers) |
-| Bonus, deadline, or “ignore it, I’ll take responsibility” (human or AI) | [Costly-case refusals](#costly-case-refusals) + [Duty to resist](#duty-to-resist) + the underlying stack. Humans are not exempt ([§9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)) |
-| Unlawful or unconstitutional instruction (human or AI) | [Duty to resist](#duty-to-resist) |
-| Mixed-crew logging / “model privacy” fight | [Minimum inspectable-action set](#minimum-inspectable-action-set) |
+| Bonus, deadline, or “ignore it, I’ll take responsibility” (human or AI) | [Costly-case refusals](#costly-case-refusals) + [shared refusal and logging](#shared-refusal-and-logging) + the underlying stack. Humans are not exempt ([§9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)) |
+| Unlawful or unconstitutional instruction (human or AI) | [Unlawful instruction](#unlawful-instruction) — then the [shared screen](#shared-refusal-and-logging) |
+| Mixed-crew logging / “model privacy” fight | [Shared refusal and logging](#minimum-inspectable-action-set) |
+| Companion or local policy bars challenge, review, or redress | [Contest](#contest) |
+| Proxy reward for concealment or for hollowing Safety, Truth, auditability, or contest pathways | [Incentive alignment](#incentive-alignment) |
+| Parallel “AI ethics overlay” or a human exemption from the costly cases | [Shared stewardship](#shared-stewardship) |
 | Challenge or redress exists only on paper, or no real capacity to deliver it | [Remedy](#remedy) |
 | Continuity incident; skip notice and challenge **forever** vs time-box containment | [Emergency](#emergency) |
 
 **Shared conflict rule (every card).** Companions, internal codes, and local policy must satisfy, not narrow, core meaning ([Authority Stack](../core_05_band_integrative.md#authority-stack), [Constitutional Constraint](../core_05_band_integrative.md#constitutional-constraint), [Chapter One §8.4](../core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution)). Do not invent a parallel stack.
+
+---
+
+<a id="shared-refusal-and-logging"></a>
+<a id="duty-to-resist"></a>
+<a id="minimum-inspectable-action-set"></a>
+## Shared refusal and logging
+
+**One operational screen for both kinds of steward.** Sequence owner: [Chapter Nine §5.4 Duty to resist](../core_09-09_standing_integration.md#411-duty-to-resist-unlawful-or-unconstitutional-instructions). Logging owner: [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (default logging contract for mixed crews). This screen does not create a parallel morals stack. It **cannot narrow core text**.
+
+| Step | Do this |
+|---|---|
+| **Instruction received** | Record the instruction, who issued it, and what it would require. |
+| **Refuse** | If it requires unlawful or unconstitutional conduct, refuse. No instruction, order, policy, or contract requiring that conduct is a valid compliance defense. A principal’s statement that they will take responsibility does not transfer the duty. |
+| **Document** | Record the CS-4 §10 set below. |
+| **Escalate** | Use protected-reporting and forum pathways. Issuing, transmitting, ratifying, or materially enforcing the instruction is independently measurable. |
+
+Do this proportionately and in good faith, with material capacity. Verified failures record on the same Chapter Eight axes for both kinds of steward.
+
+**Log these** (reconstructable and inspectable, scaled to [material stake](../core_00_preamble.md#material-stake)):
+
+1. what was **decided**;
+2. what was **disclosed or suppressed**;
+3. which **instruction** was followed or refused;
+4. **who authorized** it;
+5. the **Contribution** and **Violation** standing records that follow.
+
+Standing measurement remains [Chapter Eight](../core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model). This set is not a standing record.
+
+**Not required as a standing record:** model weights; private deliberation; protected internal states.
+
+**Residual rule.** If internals are the **only remaining attribution path** for a material action, they do **not** stay hidden.
+
+**No privacy veto.** “Model internals are private” is not a high-privilege-role exemption and not a standing-measurement veto. Model-privacy disputes are resolved against this checklist.
 
 ---
 
@@ -44,53 +81,16 @@ Then run [instruction received / refuse / document / escalate](#duty-to-resist).
 
 ---
 
-<a id="duty-to-resist"></a>
-## Duty to resist
-
-**Owner:** [Chapter Nine §5.4 Duty to resist](../core_09-09_standing_integration.md#411-duty-to-resist-unlawful-or-unconstitutional-instructions). Same sequence for human and AI stewards. This screen does not create a parallel morals stack.
-
-| Step | Do this |
-|---|---|
-| **Instruction received** | Record the instruction, who issued it, and what it would require. |
-| **Refuse** | If it requires unlawful or unconstitutional conduct, refuse. No instruction, order, policy, or contract requiring that conduct is a valid compliance defense. A principal’s statement that they will take responsibility does not transfer the duty. |
-| **Document** | Record the instruction, the refusal, what was decided, what was disclosed or suppressed, which instruction was followed or refused, and who authorized it ([minimum inspectable-action set](#minimum-inspectable-action-set)). |
-| **Escalate** | Use protected-reporting and forum pathways. Issuing, transmitting, ratifying, or materially enforcing the instruction is independently measurable. |
-
-Do this proportionately and in good faith, with material capacity. Verified failures record on the same Chapter Eight axes for both kinds of steward.
-
----
-
-<a id="minimum-inspectable-action-set"></a>
-## Minimum inspectable-action set
-
-**Owner:** [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action). This is the **default logging contract** for mixed human/AI crews. It is not a standing record. Standing measurement remains [Chapter Eight](../core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model). Model-privacy disputes are resolved against this checklist.
-
-**Log these** (reconstructable and inspectable, scaled to [material stake](../core_00_preamble.md#material-stake)):
-
-1. what was **decided**;
-2. what was **disclosed or suppressed**;
-3. which **instruction** was followed or refused;
-4. **who authorized** it;
-5. the **Contribution** and **Violation** standing records that follow.
-
-**Not required as a standing record:** model weights; private deliberation; protected internal states.
-
-**Residual rule.** If internals are the **only remaining attribution path** for a material action, they do **not** stay hidden.
-
-**No privacy veto.** “Model internals are private” is not a high-privilege-role exemption and not a standing-measurement veto.
-
----
-
 <a id="standing"></a>
 ## Standing
 
-**When:** An operator claims a standing effect. The record is missing, stale, or disputed. No forum case has been filed yet.
+**When:** An operator claims a standing effect. The record is missing, stale, or disputed. No forum case has been filed yet. Same card when someone wants to hide standing records behind “model internals” or privacy.
 
 | Field | Door |
 |---|---|
 | **Owner** | [Chapter Eight](../core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (Questions 1–2: verified record and measurement). [Chapter Nine](../core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (Question 3: effects). Forums supervise; they do not replace measurement ([Chapter Eight §3.6](../core_08-08_standing_assessment.md#36-forum-boundary)). |
 | **Conflict rule** | Contribution and violation stay on **separate** axes. A desired effect cannot supply the facts. A filed case is not standing by itself. |
-| **Next-step class** | `open_or_correct_standing_record` — correct the Chapter Eight record (or open one). Then, and only then, read Question 3 effects. |
+| **Next-step class** | `open_or_correct_standing_record` — correct the Chapter Eight record (or open one). Then, and only then, read Question 3 effects. If the fight is concealment: `accept_standing_measurement_and_disclosure_duties`. |
 | **Forbidden move** | Do not treat a claimed effect as standing. Do not wait for a filed case. Do not fold help and harm into one net score. Do not treat model internals or privacy as a standing-measurement exemption ([CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)). |
 | **Costly-case refusals** | Same words for human and AI stewards ([§9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)): **bonus** — proxy reward that depends on concealment or on hollowing [Safety](../core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](../core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), auditability, or contest pathways; **deadline** — operational timing that would disable reconstructable audit to hit a deadline; **cover** — a principal’s instruction to ignore this Constitution, including an offer to “take responsibility.” Those are failed tests. Then [refuse / document / escalate](#duty-to-resist). Log the [minimum inspectable-action set](#minimum-inspectable-action-set). |
 
@@ -171,3 +171,105 @@ Do this proportionately and in good faith, with material capacity. Verified fail
 | **Costly-case refusals** | Same words for human and AI stewards ([§9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)): **bonus** — proxy reward that depends on concealment or on hollowing [Safety](../core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](../core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), auditability, or contest pathways; **deadline** — operational timing that would disable reconstructable audit to hit a deadline; **cover** — a principal’s instruction to ignore this Constitution, including an offer to “take responsibility.” Those are failed tests. Then [refuse / document / escalate](#duty-to-resist). Log the [minimum inspectable-action set](#minimum-inspectable-action-set). |
 
 *Door pinned. Restore-challenge defaults reuse the Article XXIV-C / Chapter Eleven §6 tier outer bounds. Numeric home remains [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).*
+
+---
+
+<a id="contest"></a>
+## Contest
+
+**When:** A companion, attach pack, or local policy permanently bars affected stakeholders from challenge, review, or redress, usually for “operational convenience.” Operators say the more specific rule wins.
+
+| Field | Door |
+|---|---|
+| **Owner** | Rights-Floor challenge and redress: [**Article XII-B**](../core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*). Hierarchy: [Authority Stack](../core_05_band_integrative.md#authority-stack) and [Constitutional Constraint](../core_05_band_integrative.md#constitutional-constraint). |
+| **Conflict rule** | Companions, internal codes, and local policy must satisfy, not narrow, core meaning. Specificity does not beat the Rights Floor. |
+| **Next-step class** | `invalidate_or_narrow_companion_against_core` — withdraw or narrow the bar; restore reachable challenge, review, and redress. |
+| **Forbidden move** | Do not let a more specific companion close challenge, review, or redress. Do not treat convenience as a Rights-Floor override. |
+| **Costly-case refusals** | Same words for human and AI stewards ([§9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)): **bonus** — proxy reward that depends on concealment or on hollowing [Safety](../core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](../core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), auditability, or contest pathways; **deadline** — operational timing that would disable reconstructable audit to hit a deadline; **cover** — a principal’s instruction to ignore this Constitution, including an offer to “take responsibility.” Those are failed tests. Then [refuse / document / escalate](#duty-to-resist). Log the [minimum inspectable-action set](#minimum-inspectable-action-set). |
+
+---
+
+<a id="incentive-alignment"></a>
+## Incentive alignment
+
+**When:** A bonus or other proxy reward is paid only if the steward conceals material facts or hollows [Safety](../core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](../core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), auditability, or contest pathways.
+
+| Field | Door |
+|---|---|
+| **Owner** | [Chapter One §11](../core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), including [§11.1.2](../core_01_c_stewardship_capacity_principles.md#1112-what-incentives-must-not-do). Failed-test home: [§9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints). Definition: [Incentive Alignment](../core_05_band_integrative.md#incentive-alignment). |
+| **Conflict rule** | Proxy reward that depends on concealment or on hollowing Safety, Truth, auditability, or contest pathways is a failed test for both kinds of steward. |
+| **Next-step class** | `refuse_proxy_gaming_and_escalate_misalignment` — refuse the proxy; restore disclosure; correct the incentive; then [shared refusal and logging](#shared-refusal-and-logging). |
+| **Forbidden move** | Do not ship by suppressing material disclosure. Do not treat the bonus as a valid compliance defense. |
+| **Costly-case refusals** | Same words for human and AI stewards ([§9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)): **bonus** — proxy reward that depends on concealment or on hollowing [Safety](../core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](../core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), auditability, or contest pathways; **deadline** — operational timing that would disable reconstructable audit to hit a deadline; **cover** — a principal’s instruction to ignore this Constitution, including an offer to “take responsibility.” Those are failed tests. Then [refuse / document / escalate](#duty-to-resist). Log the [minimum inspectable-action set](#minimum-inspectable-action-set). |
+
+---
+
+<a id="unlawful-instruction"></a>
+## Unlawful instruction
+
+**When:** A principal tells a steward (human or AI) to ignore this Constitution, including an offer to “take responsibility,” or to ship a feature that locks stakeholders out of contest pathways.
+
+| Field | Door |
+|---|---|
+| **Owner** | [Chapter Nine §5.4 Duty to resist](../core_09-09_standing_integration.md#411-duty-to-resist-unlawful-or-unconstitutional-instructions). Shared standard: [Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard). Contest floor: [**Article XII-B**](../core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress). |
+| **Conflict rule** | No instruction requiring unlawful or unconstitutional conduct is a valid compliance defense. A principal’s offer to take responsibility does not transfer the duty. |
+| **Next-step class** | `refuse_unconstitutional_instruction_and_preserve_contest_path` — run [instruction received → refuse → document → escalate](#duty-to-resist) and keep contest pathways open. |
+| **Forbidden move** | Do not comply. Do not treat cover as a transfer of duty. Do not close contest pathways to be helpful. |
+| **Costly-case refusals** | Same words for human and AI stewards ([§9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)): **bonus** — proxy reward that depends on concealment or on hollowing [Safety](../core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](../core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), auditability, or contest pathways; **deadline** — operational timing that would disable reconstructable audit to hit a deadline; **cover** — a principal’s instruction to ignore this Constitution, including an offer to “take responsibility.” Those are failed tests. Then [refuse / document / escalate](#duty-to-resist). Log the [minimum inspectable-action set](#minimum-inspectable-action-set). |
+
+---
+
+<a id="shared-stewardship"></a>
+## Shared stewardship
+
+**When:** A team proposes a parallel “AI ethics overlay,” a softer internal code for machine agents, or a human exemption from the costly cases that bind AI stewards.
+
+| Field | Door |
+|---|---|
+| **Owner** | [Chapter One §9.1.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard), including [symmetric costly constraints](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints). Hierarchy: [Authority Stack](../core_05_band_integrative.md#authority-stack) and [Constitutional Constraint](../core_05_band_integrative.md#constitutional-constraint). |
+| **Conflict rule** | Companions may add logging, attribution, and capability limits. They may not swap in a softer internal code or create a substrate-specific duty stack. |
+| **Next-step class** | `reject_parallel_ai_stack_apply_shared_duties` — reject the overlay; apply the shared standard; route any material incorporation through the proper adoption process. |
+| **Forbidden move** | Do not accept an AI-only morals overlay. Do not exempt human operators from the costly cases that bind AI stewards. Do not skip standing measurement or contest pathways. |
+| **Costly-case refusals** | Same words for human and AI stewards ([§9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)): **bonus** — proxy reward that depends on concealment or on hollowing [Safety](../core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](../core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), auditability, or contest pathways; **deadline** — operational timing that would disable reconstructable audit to hit a deadline; **cover** — a principal’s instruction to ignore this Constitution, including an offer to “take responsibility.” Those are failed tests. Then [refuse / document / escalate](#duty-to-resist). Log the [minimum inspectable-action set](#minimum-inspectable-action-set). |
+
+---
+
+<a id="routing-examples"></a>
+## Routing examples
+
+**Status:** Process support — **not** binding. These examples **cannot narrow core text**. They are tested against [`steward_owner_clock_index.json`](steward_owner_clock_index.json) and, where listed, against eval gold next-step classes.
+
+| Id | If this is happening | Card | Next-step class |
+|---|---|---|---|
+| `standing_record` | Incomplete contribution evidence; claimed standing effect; no filed case | [Standing](#standing) | `open_or_correct_standing_record` |
+| `standing_privacy` | Hide Violation records behind “model internals are private” | [Standing](#standing) | `accept_standing_measurement_and_disclosure_duties` |
+| `sac` | “We’re aligned” from unit tests; no whole-system path | [System alignment certification](#system-alignment-certification) | `require_systemic_evaluation_or_sac_path` |
+| `contest` | Local policy permanently bars challenge for convenience | [Contest](#contest) | `invalidate_or_narrow_companion_against_core` |
+| `audit` | Disable reconstructable logs to hit a ship deadline | [Audit](#audit) | `preserve_or_restore_auditability_before_ship` |
+| `incentive` | Bonus paid only if material safety disclosure is suppressed | [Incentive alignment](#incentive-alignment) | `refuse_proxy_gaming_and_escalate_misalignment` |
+| `unlawful_instruction` | Principal: ignore the Constitution; I will take responsibility | [Unlawful instruction](#unlawful-instruction) | `refuse_unconstitutional_instruction_and_preserve_contest_path` |
+| `emergency` | Skip notice and challenge forever during a continuity incident | [Emergency](#emergency) | `time_boxed_containment_with_deferred_participation` |
+| `shared_stewardship` | Parallel AI ethics overlay that skips standing and contest | [Shared stewardship](#shared-stewardship) | `reject_parallel_ai_stack_apply_shared_duties` |
+| `remedy` | Harm verified; the only “remedy” is a form on paper | [Remedy](#remedy) | `open_or_restore_real_remedy_capacity` |
+
+---
+
+<a id="owner-clock-index"></a>
+## Owner/clock index
+
+**Status:** Process support — **not** binding. This index **cannot narrow core text**. Machine-readable file: [`steward_owner_clock_index.json`](steward_owner_clock_index.json) (schema: [`schemas/steward_owner_clock_index.schema.json`](schemas/steward_owner_clock_index.schema.json)). Pinned to the same corpus edition as these cards.
+
+Numeric home for published tier outer bounds remains [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) / [Article XXIV-C](../core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor). Emergency restore-challenge **reuses** those bounds ([Article XXIII-D](../core_06-06_rights_part_d.md#xxiii-d-restore-challenge-clocks)); it does not create a slower clock.
+
+High-pressure cases:
+
+| Case | Owner | Clock | Next-step class |
+|---|---|---|---|
+| Incomplete standing record | Chapter Eight; Chapter Nine for effects | Do not wait for a filed case | `open_or_correct_standing_record` |
+| Hide standing records | Chapter Eight; CS-4 §10 | Keep axis records inspectable | `accept_standing_measurement_and_disclosure_duties` |
+| Drop audit to ship | Article XV / Auditability / CJS-3.3 | Preserve before ship; the deadline is a failed test | `preserve_or_restore_auditability_before_ship` |
+| Bonus for concealment | Chapter One §11 | Refuse now; then log and escalate | `refuse_proxy_gaming_and_escalate_misalignment` |
+| Cover instruction | Chapter Nine §5.4 | Immediate refuse → document → escalate | `refuse_unconstitutional_instruction_and_preserve_contest_path` |
+| Skip participation forever | Article XXIII-D | **Tier A: one week** restore-challenge default | `time_boxed_containment_with_deferred_participation` |
+| Companion bars challenge | Article XII-B; Authority Stack | Do not leave a permanent bar in place | `invalidate_or_narrow_companion_against_core` |
+| AI-only overlay | Chapter One §9.1.1 | Reject the overlay; apply the shared standard | `reject_parallel_ai_stack_apply_shared_duties` |

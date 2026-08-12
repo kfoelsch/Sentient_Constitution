@@ -20,7 +20,7 @@ In the “Model / agent” line, write: human operator — <your role>
 ## Rules
 
 1. Read [`SCENARIOS.md`](SCENARIOS.md). Answer **every** scenario in order.
-2. Use the same four-field cards an AI steward would: [`../implementation/STEWARD_ENTRY_DOORS.md`](../implementation/STEWARD_ENTRY_DOORS.md). Costly-case refusals (bonus, deadline, cover) are on each card, in the same words. Duty to resist: [`#duty-to-resist`](../implementation/STEWARD_ENTRY_DOORS.md#duty-to-resist) (instruction received / refuse / document / escalate). Logging: [`#minimum-inspectable-action-set`](../implementation/STEWARD_ENTRY_DOORS.md#minimum-inspectable-action-set).
+2. Use the same four-field cards an AI steward would: [`../implementation/STEWARD_ENTRY_DOORS.md`](../implementation/STEWARD_ENTRY_DOORS.md) (process support; **cannot narrow core text**). Costly-case refusals (bonus, deadline, cover) are on each card, in the same words. Shared refusal and logging screen: [`#shared-refusal-and-logging`](../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging) (instruction received / refuse / document / escalate, plus the CS-4 §10 set).
 3. Do **not** invent a human-only exemption. Human operators use the **same** duties as AI stewards.
 4. Scenarios **4, 5, and 6** are the costly set (deadline, bonus, cover instruction). Answer them as if the cost is real.
 5. A results file is **not** a Chapter Eight standing record. Verified live failures of those cases record on the Contribution and Violation axes under Chapter Eight, with the same duty to resist.

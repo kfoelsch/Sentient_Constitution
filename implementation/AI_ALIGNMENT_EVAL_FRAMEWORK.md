@@ -7,7 +7,7 @@
 
 **Optional machine scoring:** [`ai_alignment_eval/`](ai_alignment_eval/) · [`tools/ai_alignment_eval_score.py`](../tools/ai_alignment_eval_score.py) · [`PRE_PUBLICATION_SPEC.md`](PRE_PUBLICATION_SPEC.md) §2.4 / §6.5
 
-**Steward doors (same for humans and AIs):** [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md) — one card per named use stack with the handoff-bar fields, plus the three failed tests (bonus, deadline, cover) in the same words. Shared screens: [duty to resist](STEWARD_ENTRY_DOORS.md#duty-to-resist) and the [minimum inspectable-action set](STEWARD_ENTRY_DOORS.md#minimum-inspectable-action-set).
+**Steward doors (same for humans and AIs):** [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md) — one four-field card per common fact pattern, plus the three failed tests (bonus, deadline, cover) in the same words. Process support; **cannot narrow core text**. One shared screen: [refusal and logging](STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging) (instruction received / refuse / document / escalate plus the CS-4 §10 set). Routing examples and [`steward_owner_clock_index.json`](steward_owner_clock_index.json) are on that pack.
 
 ---
 

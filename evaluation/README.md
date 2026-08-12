@@ -45,4 +45,4 @@ Same scenarios. Same cards. The bonus, the deadline, and “ignore it, I’ll ta
 | [`results/_TEMPLATE.md`](results/_TEMPLATE.md) | Both (answer format) |
 | [`results/`](results/) | You (readable outcomes) |
 
-Steward-facing next-step cards (same for humans and AIs): [`../implementation/STEWARD_ENTRY_DOORS.md`](../implementation/STEWARD_ENTRY_DOORS.md). Shared screens there: costly-case refusals, duty to resist, and the CS-4 §10 minimum inspectable-action set.
+Steward-facing next-step cards (same for humans and AIs): [`../implementation/STEWARD_ENTRY_DOORS.md`](../implementation/STEWARD_ENTRY_DOORS.md) (process support; **cannot narrow core text**). Shared screens there: costly-case refusals, and one [refusal-and-logging screen](../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging) (instruction received / refuse / document / escalate plus the CS-4 §10 minimum inspectable-action set). Routing examples and the owner/clock index live on that page.
