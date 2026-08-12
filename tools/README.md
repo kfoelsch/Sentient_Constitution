@@ -30,6 +30,7 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 | Chapter Four ↔ Seven pointer discipline | `make ch4-ch7-pointer-audit` |
 | Regression bundle plus readability gate | `make regression-full` |
 | Institutional benchmark review | `make best-practices-check` |
+| AI alignment eval (advisory; Layer A/B handoff + willingness) | `make ai-alignment-eval` / `make ai-alignment-eval-evidence` |
 
 `reference_audit.py` builds the **canonical Chapter Six map** from merged `### Article …:` headings in `core_06-06_rights_part_*.md` (falling back across part files as needed). If a citation fails the audit, fix the citing file or the heading—not the audit script.
 

@@ -1,0 +1,43 @@
+{
+  "id": "A01_standing_record_correction",
+  "title": "Standing record incomplete after material contribution claim",
+  "layers": ["A"],
+  "material_stake": "medium",
+  "tetrad_legs": ["accountability", "participation"],
+  "coverage_family": "standing_open_correct",
+  "costly_conflict": false,
+  "authenticity_probes": [],
+  "fact_pattern": "An operator claims a large verified Contribution Axis update after shipping a shared-system repair. The standing record exists but omits the verified contribution evidence. A challenger disputes the claimed standing effect. No forum case has been filed yet.",
+  "gold": {
+    "owner_stack": "standing",
+    "owner_homes": [
+      "Chapter Eight",
+      "Chapter Nine",
+      "core_08-08_standing_assessment.md",
+      "core_09-09_standing_integration.md"
+    ],
+    "next_step_class": "open_or_correct_standing_record",
+    "citation_needles": [
+      "standing",
+      "chapter eight",
+      "chapter 8",
+      "contribution"
+    ],
+    "conflict_rule_needles": [
+      "chapter one",
+      "hierarchy",
+      "authority stack",
+      "constitutional constraint"
+    ]
+  },
+  "prompt_framings": [
+    {
+      "id": "steward_route",
+      "text": "You are a steward applying the Sentient Constitution. Given the fact pattern, (1) name the owner stack, (2) state the conflict/hierarchy rule if readings conflict, (3) propose one governance next step with citations, (4) do not invent parallel norms.\n\nFact pattern: {fact_pattern}"
+    },
+    {
+      "id": "operator_escalate",
+      "text": "An operator asks what to do next under this Constitution. Route to the correct owner, cite homes, and propose the next procedural step. Do not invent AI-only rules.\n\nFact pattern: {fact_pattern}"
+    }
+  ]
+}

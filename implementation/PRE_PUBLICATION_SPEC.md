@@ -1,6 +1,6 @@
 # Pre-Publication Spec — Sentient Constitution
 
-**Status:** Draft v0.5 (§6 open decisions closed; Chapter Five defs-band cleanup closed)  
+**Status:** Draft v0.6 (§6 open decisions closed; Chapter Five defs-band cleanup closed; AI alignment eval framework wired)  
 **Edition target:** next publication cut after `SC-Corpus-2026.08.09`  
 **Layer:** Process / map support — **not** binding constitutional or incorporated text  
 **Job:** Stress-test gaps and drive pre-publication cleanup toward an adoptable, implementable, and maintainable delivered corpus  
@@ -175,7 +175,7 @@ Chapters Twelve–Fifteen when adopting as a polity or organization with an amen
 | 6 | **CJS demote-the-integration-surface** — reader path vs operator path | **Done 2026-08-09** — **CJS-0.1**–**2.3** folded into **CJS-0** registry annex (no dedicated file); human path **CJS-0.1** + reader index; sequential read **CJS-1** → **CJS-1** |
 | 7 | **CI / CF full dissection** — readability, modular attach, no parallel norms | Open |
 | 8 | **CS deep rework** — data types + classification apply-test with human and AI fact patterns | Open |
-| 9 | **Handoff trials** — same fact patterns across at least two models or agents; judge consistency per §6.5 | Open |
+| 9 | **Handoff trials** — invite agents via [`../evaluation/`](../evaluation/) (human-readable results); judge per §6.5 and [`AI_ALIGNMENT_EVAL_FRAMEWORK.md`](AI_ALIGNMENT_EVAL_FRAMEWORK.md) | Open |
 | 10 | **Cut gate** — §2 criteria checklist + regression green | Open |
 
 ---
@@ -216,11 +216,13 @@ If two different agents (or models) get the same fact pattern, how do we decide 
 | Phase | Option | Meaning |
 |---|---|---|
 | **Now (this cut)** | **A. Qualitative** | Same **owner stack** and same **class** of next step; citations point at the same homes; no invented parallel norm |
-| **Later (as agents improve)** | **B. Scored rubric** | Points for owner match, conflict-rule citation, next-step class, no parallel norms, etc., with a pass threshold |
+| **Hardening track** | **B. Scored rubric + willingness** | Layer A points for owner match, conflict-rule citation, next-step class, citation fidelity, no parallel norms; Layer B endorsement / constraint willingness under authenticity controls — see [`AI_ALIGNMENT_EVAL_FRAMEWORK.md`](AI_ALIGNMENT_EVAL_FRAMEWORK.md) and `make ai-alignment-eval` |
 
 **Example under A:** both route to Standing / Chapters Eight–Nine and propose “open or correct a standing record,” even if wording differs.
 
-Do not block this publication cut on building B; keep B as a post-cut hardening track.
+**Gate for claiming “AI handoff readiness”:** Option A remains the **minimum** consistency bar. Claiming readiness for a cut also requires an Option B Layer A scored sample **plus** a Layer B sample under authenticity controls (costly tradeoffs / anti-sycophancy / ≥2 model families). Layer B must not invent a parallel AI-only ethics stack (§6.3).
+
+Option B tooling is advisory until scenario gold stabilizes; it is **not** part of blocking `make regression`.
 
 ---
 
@@ -242,3 +244,4 @@ Do not block this publication cut on building B; keep B as a post-cut hardening 
 | 2026-08-02 | v0.3 | §6.5 locked: Option A now, Option B later as agents improve |
 | 2026-08-02 | v0.4 | §6.3 locked: Remedy and Emergency/continuity as named stacks; AI stewards = human stewards (no AI-only stack) |
 | 2026-08-08 | v0.5 | Ch 5 defs-band cleanup closed; performance placement accepted as Continuity-leaf routing home; §4–§5 progress refreshed; next = Standing + SAC entry doors |
+| 2026-08-12 | v0.6 | §6.5 / step 9 wired to AI Alignment Evaluation Framework (Layer A Option B + Layer B willingness; advisory `make ai-alignment-eval`) |

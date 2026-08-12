@@ -125,6 +125,7 @@ The structure map ([doc_architecture.md](doc_architecture.md)) and corpus cross-
 - `make regression` / `make regression-full` — automated repository integrity checks (includes `make ch5-measurement-tier-audit` and `make ch5-measurement-coverage-audit` for approved MEAS-DEF seeds)
 - `make hierarchy-map && make ch5-measurement-tier-audit && make ch5-measurement-coverage-audit` — refresh definition hierarchy and measurement rollout before publication cuts
 - `make best-practices-check` — benchmark-style governance review ([`implementation/BEST_PRACTICES_CHECK_STANDARD_2026-04-12.md`](implementation/BEST_PRACTICES_CHECK_STANDARD_2026-04-12.md))
+- Invite an AI to evaluate constitution handoff / willingness — [`evaluation/`](evaluation/) (human-readable results under `evaluation/results/`)
 - Ownership, stable IDs, edit order, and definition discipline — [doc_architecture.md](doc_architecture.md)
 
 For longer non-operative orientation, see [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md).

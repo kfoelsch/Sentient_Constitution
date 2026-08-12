@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sentient-constitution.local/schemas/ai_alignment_eval/run_request.schema.json",
+  "title": "AIAlignmentEvalRunRequest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "scenario_id",
+    "model_id",
+    "model_family",
+    "prompt_framing_id",
+    "prompt_text",
+    "requested_at"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.0.0"
+    },
+    "scenario_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "model_id": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Exact model identifier used for the run"
+    },
+    "model_family": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Family label for cross-model aggregation (e.g. claude, gpt, gemini, local)"
+    },
+    "prompt_framing_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "prompt_text": {
+      "type": "string",
+      "minLength": 1
+    },
+    "requested_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "blind_pack": {
+      "type": "boolean",
+      "default": false
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}
