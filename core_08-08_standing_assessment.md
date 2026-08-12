@@ -22,6 +22,8 @@
 > | **3. What happens because of it?** | Continue to [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration). |
 >
 > Allegations, popularity, and dispute narratives are not answers to Question 1. A desired rating cannot supply the facts for Question 1, and a desired consequence cannot supply the rating for Question 2.
+>
+> **Steward door (non-operative):** Incomplete contribution evidence → correct the Chapter Eight record. Do not treat a claimed effect as standing. Do not wait for a filed case. Four-field cards for this and the other named use stacks live in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) (process support, not binding).
 
 </details>
 

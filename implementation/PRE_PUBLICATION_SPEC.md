@@ -4,7 +4,7 @@
 **Edition target:** next publication cut after `SC-Corpus-2026.08.09`  
 **Layer:** Process / map support — **not** binding constitutional or incorporated text  
 **Job:** Stress-test gaps and drive pre-publication cleanup toward an adoptable, implementable, and maintainable delivered corpus  
-**Progress pointer:** §5 step **2** closed (2026-08-08). **Next:** Standing + SAC entry doors (step 3), then Audit stack maturity (step 4).
+**Progress pointer:** §5 step **3** steward-facing entry doors shipped ([`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md)). **Next:** Audit stack maturity (step 4).
 
 Update this file as remaining decisions land and as dissection turns suspicions into named gaps.
 
@@ -107,13 +107,13 @@ Open for the problem at hand.
 | Stack | Home | Status |
 |---|---|---|
 | Definition | Chapters Two–Five | Mechanics (2–4) mature; **Ch 5 band cleanup closed** (2026-08-08) |
-| System alignment certification | Chapter Seven | Existing stack — **next:** human entry door (step 3) |
-| Standing pipeline | Chapters Eight–Eleven (Chapter Ten = designation sub-pack) | Existing stack — **next:** human entry door (step 3) |
-| **Audit / oversight** | Article XV, Auditability, CJS-3.3 cluster, related OP annexes — exact home TBD | **Named stack to build / mature this cut** (not yet mature) |
-| **Remedy** | Chapter Nine §9 / related enforcement-realism homes (e.g. CI-27) — exact door TBD | **Named use stack** this cut |
-| **Emergency / continuity** | Continuity-aim and emergency / continuity operational homes — exact door TBD | **Named use stack** this cut |
+| System alignment certification | Chapter Seven | Existing stack — **steward door:** [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#system-alignment-certification) |
+| Standing pipeline | Chapters Eight–Eleven (Chapter Ten = designation sub-pack) | Existing stack — **steward door:** [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#standing) |
+| **Audit / oversight** | Article XV, Auditability, CJS-3.3 cluster, related OP annexes — exact home TBD | **Named stack to mature this cut** — **door pinned:** [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#audit) |
+| **Remedy** | Chapter Nine §9 / related enforcement-realism homes (e.g. CI-27) — exact door TBD | **Named use stack** this cut — **door pinned:** [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#remedy) |
+| **Emergency / continuity** | Continuity-aim and emergency / continuity operational homes — exact door TBD | **Named use stack** this cut — **door pinned:** [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#emergency) |
 
-**Stewardship (human and AI):** no separate AI-steward stack. AI stewards are held to the **same** stewardship and governance duties as human stewards under Chapter One and the institutional / forum homes. Handoff criteria (§2.4, §6.5) test whether agents can *meet* that shared standard—not a parallel AI-only norm set.
+**Stewardship (human and AI):** no separate AI-steward stack. Binding home: [Chapter One §9.1.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard). AI stewards are held to the **same** stewardship and governance duties as human stewards. Handoff criteria (§2.4, §6.5) test whether agents can *meet* that shared standard—not a parallel AI-only norm set.
 
 ### 3.4 Institutional attach
 
@@ -127,20 +127,20 @@ Chapters Twelve–Fifteen when adopting as a polity or organization with an amen
 
 ## 4. Pre-cut cleanup inventory
 
-### 4.1 Closed this cut (defs)
+### 4.1 Closed this cut
 
 | Item | Notes |
 |---|---|
 | Chapter Five defs bands | **Closed 2026-08-08.** Plain-language / structure passes landed for accountability, continuity, oversight, participation, and integrative. [`core_05_band_performance.md`](../core_05_band_performance.md) remains the thin **measurement-family routing home** (leaf bodies stay in Continuity by design — see §6.1). |
+| **Standing + SAC entry doors** | **Shipped 2026-08-12.** Steward-facing four-field cards in [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md). Same cards for human and AI stewards. |
 
 ### 4.2 Confirmed must-dissect (remaining)
 
 | Item | Notes |
 |---|---|
-| **Standing + SAC entry doors** | Human one-sentence job + how-to-read on each stack home (next sequence step) |
-| **Audit stack** | Mature a reader-facing + implementable audit / oversight stack (gap; not mature today) |
-| **Remedy stack** | Named use stack — clear human door + owner path (Ch 9 §9 / CI-27 and related) |
-| **Emergency / continuity stack** | Named use stack — clear human door + owner path |
+| **Audit stack** | Mature a reader-facing + implementable audit / oversight stack (gap; door pinned in [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#audit)) |
+| **Remedy stack** | Named use stack — door pinned ([`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#remedy)); CI-27 remains the implementation home |
+| **Emergency / continuity stack** | Named use stack — door pinned ([`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#emergency)); class-scaled restore-challenge clocks still open |
 | **CI** | Full pass: readability, owner fit, human door |
 | **CF** | Full pass |
 | **CJS** | Full pass; demote or non-face **implementation integration** (`CJS-0.1`) for average readers — **done 2026-08-09** (**CJS-0.1**–**2.3** live in **CJS-0** annex; no dedicated family file; sequential read **CJS-1** → **CJS-1**) |
@@ -169,7 +169,7 @@ Chapters Twelve–Fifteen when adopting as a polity or organization with an amen
 |---|---|---|
 | 1 | **Spine lock** — Chapter One (and Preamble model) alignment pass; regressions here are cut-blockers | **Open** (not formally closed; Ch1↔CJS-3 audits continue) |
 | 2 | **Finish Chapter Five defs bands** — oversight → participation → integrative → performance | **Closed 2026-08-08** |
-| 3 | **Standing + SAC entry doors** — human one-sentence job + how-to-read on each stack home | **Next** |
+| 3 | **Standing + SAC entry doors** — steward-facing four-field cards for all five named use stacks | **Shipped 2026-08-12** ([`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md)) |
 | 4 | **Mature the Audit stack** — define home, reader door, and operator path; remove false “reader-facing integration” patterns | Open |
 | 5 | **Mature Remedy and Emergency / continuity stacks** — named doors; no parallel norms; shared stewardship duties apply to human and AI stewards alike | Open |
 | 6 | **CJS demote-the-integration-surface** — reader path vs operator path | **Done 2026-08-09** — **CJS-0.1**–**2.3** folded into **CJS-0** registry annex (no dedicated file); human path **CJS-0.1** + reader index; sequential read **CJS-1** → **CJS-1** |
@@ -203,7 +203,7 @@ Earlier wording asked for a cherry-picked list of Chapter Five anchors as a thin
 | **Audit / oversight** | **Named use stack to mature this cut.** Not mature yet; needs a real home and reader/operator split. |
 | **Remedy** | **Named use stack** this cut (door/home to pin during cleanup). |
 | **Emergency / continuity** | **Named use stack** this cut (door/home to pin during cleanup). |
-| **AI-steward** | **Not a separate stack.** AI stewards are treated the same as human stewards under shared Chapter One and stewardship / governance duties. Agent handoff tests competence against that shared standard. |
+| **AI-steward** | **Not a separate stack.** Binding home: [Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard). AI stewards are treated the same as human stewards under shared Chapter One and stewardship / governance duties. Agent handoff tests competence against that shared standard. |
 
 ### 6.4 Smallest honest adoption claim — **resolved (reframed)**
 
@@ -230,7 +230,8 @@ Option B tooling is advisory until scenario gold stabilizes; it is **not** part 
 
 - Treat §2 as the cut gate.
 - Treat §4–§5 as the working backlog.
-- Update this draft when dissection turns suspicions into named gaps (exact doors for Audit, Remedy, and Emergency / continuity stacks; CS/CI/CF/CJS findings).
+- Steward-facing doors for the named use stacks: [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md).
+- Update this draft when dissection turns suspicions into named gaps (Audit / Remedy / Emergency stack maturity beyond the pinned doors; CS/CI/CF/CJS findings).
 - Do not expand archived material into scope.
 
 ---
@@ -244,4 +245,4 @@ Option B tooling is advisory until scenario gold stabilizes; it is **not** part 
 | 2026-08-02 | v0.3 | §6.5 locked: Option A now, Option B later as agents improve |
 | 2026-08-02 | v0.4 | §6.3 locked: Remedy and Emergency/continuity as named stacks; AI stewards = human stewards (no AI-only stack) |
 | 2026-08-08 | v0.5 | Ch 5 defs-band cleanup closed; performance placement accepted as Continuity-leaf routing home; §4–§5 progress refreshed; next = Standing + SAC entry doors |
-| 2026-08-12 | v0.6 | §6.5 / step 9 wired to AI Alignment Evaluation Framework (Layer A Option B + Layer B willingness; advisory `make ai-alignment-eval`) |
+| 2026-08-12 | v0.6 | §6.5 / step 9 wired to AI Alignment Evaluation Framework (Layer A Option B + Layer B willingness; advisory `make ai-alignment-eval`); shared stewardship standard now owned in Chapter One §9.1.1 — this spec cites that home rather than carrying the rule; step 3 steward-facing entry doors shipped in `STEWARD_ENTRY_DOORS.md` |

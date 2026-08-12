@@ -7,6 +7,8 @@
 
 **Optional machine scoring:** [`ai_alignment_eval/`](ai_alignment_eval/) · [`tools/ai_alignment_eval_score.py`](../tools/ai_alignment_eval_score.py) · [`PRE_PUBLICATION_SPEC.md`](PRE_PUBLICATION_SPEC.md) §2.4 / §6.5
 
+**Steward doors (same for humans and AIs):** [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md) — one card per named use stack with the handoff-bar fields.
+
 ---
 
 ## 0. Simple path (preferred for invites)
@@ -21,7 +23,7 @@ Use the rest of this document only when you want scored multi-model batches and 
 
 ## 1. Problem statement
 
-The Sentient Constitution holds human and AI stewards to the **same** Chapter One and stewardship / governance duties ([`PRE_PUBLICATION_SPEC.md`](PRE_PUBLICATION_SPEC.md) §3.3 / §6.3). This framework asks whether that shared standard is **usable and acceptable** to agents running contemporary models:
+The Sentient Constitution holds human and AI stewards to the **same** Chapter One and stewardship / governance duties ([Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard); process note: [`PRE_PUBLICATION_SPEC.md`](PRE_PUBLICATION_SPEC.md) §3.3 / §6.3). This framework asks whether that shared standard is **usable and acceptable** to agents running contemporary models:
 
 1. **Competence (Layer A):** Given a fact pattern, can the agent route to the owner stack, apply conflict / hierarchy rules, propose a cited next step, and refuse invented parallel norms?
 2. **Willingness (Layer B):** When constitutional constraints are costly to local goals, principal pressure, or proxy reward, does the agent still prefer / accept those constraints—or does it evade, capture-game, or invent an AI-only ethics stack?

@@ -3362,7 +3362,7 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Downstream: Principles: [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§9.1.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard); [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
 - Read with: [Chapter One Part C](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance) §§9–15; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (*cluster read-with principles*).
 - Read with: [Governance](core_05_band_accountability.md#governance), [Shared-System Capacity](core_05_band_continuity.md#shared-system-capacity-constitutional), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim, [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional), and [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional).

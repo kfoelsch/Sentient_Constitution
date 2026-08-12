@@ -16,6 +16,8 @@
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations.
 >
 > Read this chapter in order: immutable Chapter Eight inputs; integration record and decision order; descriptor integration and attachment normalization; violation, correction, and prevention (remedy and correction, general standing locks, then voluntary public accountability expression where used); lock design and enforcement (definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, and special locks); contribution consequences (recency and currentness, then competency bars and clearances); final standing effect; restoration and reassessment; enforcement realism and remedy systems; pattern applications and Question 3 routing.
+>
+> **Steward door (non-operative):** A form on paper is not remedy. Start intake, preservation, review, and repair from the verified violation record. Four-field cards for this and the other named use stacks live in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) (process support, not binding).
 
 </details>
 
