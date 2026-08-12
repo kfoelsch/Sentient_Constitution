@@ -210,7 +210,7 @@ Maintain **role clarity**, **backup authority**, and communications preserving *
 <a id="10-competency-succession-and-oversight-effectiveness"></a>
 ## 10. Competency, succession, and oversight effectiveness
 
-*In plain terms: Keep the skills and backup role-holders the role requires, publish who holds what authority, and check periodically whether oversight actually catches problems rather than merely existing on paper.*
+*In plain terms: Keep the skills and backup role-holders the role requires, publish who holds what authority, keep attributable action inspectable, and check periodically whether oversight actually catches problems rather than merely existing on paper.*
 
 Maintain **competency**, **succession readiness**, and **effective oversight** proportional to **highest affected class (A/B/C)** and **CSS tier**.
 
@@ -219,6 +219,34 @@ Maintain **competency**, **succession readiness**, and **effective oversight** p
 **Competency:** **Maximum calendar age** and **life-stage ceilings** **must not** be used as **stand-alone eligibility** rules for **Critical System Steward** roles. They **must not** be used as **stand-alone eligibility** rules for **governing personnel** exercising material authority over classified systems (**Sentient Constitution Chapter Six**, section 1 — *Authorization and Legitimacy of Governing Authority*; **Chapter Six**, **Article IX-C** (*Governance Participation and Voting Entitlement*) *Governance Participation and Voting Entitlement*, implemented in **Chapter Six**, section **4.1 — Entitlement and eligibility**).
 
 **Authorized roles and contribution role pathways:** Maintain **published** role definitions (or equivalent) for personnel/agents exercising **Critical System Stewardship** or **material** operational authority: **scope**, **limits**, **custody**, and **escalation**, so accountability is **traceable** (**Article XV-A** (*Auditability and Observable Evidence*)).
+
+<a id="10-inspectable-attributable-action"></a>
+
+**Inspectable attributable action (human and AI).**
+
+*In plain terms: keep enough of what was decided, disclosed, followed, and authorized that an outsider can reconstruct it. Weights and private thoughts are not the standing record. Privacy is not a veto over measurement.*
+
+Published role definitions for personnel/agents exercising **Critical System Stewardship** or **material** operational authority must make reconstructable **attributable action** inspectable. That surface feeds [Chapter Eight](../core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing records. It is **not** a standing record and does **not** relocate standing measurement.
+
+The same surface binds human stewards, AI stewards, and other agents under [Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard). Companions may add logging and capability limits. They may not swap a softer internal code for this surface.
+
+**Must remain reconstructable and inspectable**, scaled to [material stake](../core_00_preamble.md#material-stake) and highest affected class:
+
+- what was **decided**;
+- what was **disclosed or suppressed**;
+- which **instruction** was followed or refused;
+- **who authorized** it;
+- the **Contribution** and **Violation** standing records that follow ([Chapter Eight](../core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)).
+
+**Not required as a standing record:**
+
+- model weights;
+- private deliberation;
+- protected internal states under **Article VII-B** (*Internal-State Boundary and Type-N Protection*) and **[CS-2 Type N](cs_02_b_data_classifications.md#86-type-n-neurocognitive-and-internal-data)**.
+
+**Residual rule.** If internals are the **only remaining attribution path** for a material action, they do **not** stay hidden. If they are not the only path, they are **not** a standing-measurement exemption.
+
+**No privacy veto.** Lawful privacy and [security-constrained observability](../core_04-04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) may limit *how* internals are disclosed. They must **not** block standing measurement, [Attributable Action](../core_05_band_accountability.md#attributable-action-constitutional), [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity-constitutional), or independent review of the conduct those records measure. “Model internals are private” is not a high-privilege-role exemption.
 
 Provide **cross-domain exposure**, **mentorship**, and **rotation** proportional to **CSS** tier and **Class A/B/C** exposure so **caretaker competency** is not siloed.
 

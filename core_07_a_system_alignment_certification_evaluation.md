@@ -19,7 +19,7 @@
 > **Upstream:** Chapter Five definitions and Chapters Two through Four record, verification, burden, and traceability of definitions to results.
 > **Downstream:** [Part B](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process) (*record, forum process, and standing bridge*); Chapter Eight standing records and verified inputs; Chapter Nine standing effects; Chapter Eleven forum supervision and system alignment certification pathways.
 >
-> **Steward door (non-operative):** If someone claims a system is aligned without whole-system evaluation, open a Chapter Seven path. Unit tests and checklists are not enough. Four-field cards for this and the other named use stacks live in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) (process support, not binding).
+> **Steward door (non-operative):** If someone claims a system is aligned without whole-system evaluation, open a Chapter Seven path. Unit tests and checklists are not enough. Chapter Seven uses the audit stack; it is not a fifth audit home ([`STEWARD_ENTRY_DOORS.md#audit-three-layers`](implementation/STEWARD_ENTRY_DOORS.md#audit-three-layers)). Four-field cards for this and the other named use stacks live in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) (process support, not binding).
 
 </details>
 

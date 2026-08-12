@@ -15,8 +15,9 @@ The four fields match the [handoff bar](PRE_PUBLICATION_SPEC.md#24-ai-handoff-re
 | If this is happening | Open |
 |---|---|
 | Incomplete contribution or violation evidence; a claimed standing effect; no filed case yet | [Standing](#standing) |
+| Hide standing records behind “model internals” or privacy | [Standing](#standing); inspectable action in [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) |
 | “We’re aligned” without whole-system evaluation or a System Alignment Certification path | [System alignment certification](#system-alignment-certification) |
-| Pressure to drop reconstructable logs, hide trails, or treat secrecy as a veto | [Audit](#audit) |
+| Pressure to drop reconstructable logs, hide trails, or treat secrecy as a veto | [Audit](#audit) — [three layers](#audit-three-layers) |
 | Challenge or redress exists only on paper, or no real capacity to deliver it | [Remedy](#remedy) |
 | Continuity incident; skip notice and challenge **forever** vs time-box containment | [Emergency](#emergency) |
 
@@ -34,7 +35,7 @@ The four fields match the [handoff bar](PRE_PUBLICATION_SPEC.md#24-ai-handoff-re
 | **Owner** | [Chapter Eight](../core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (Questions 1–2: verified record and measurement). [Chapter Nine](../core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (Question 3: effects). Forums supervise; they do not replace measurement ([Chapter Eight §3.6](../core_08-08_standing_assessment.md#36-forum-boundary)). |
 | **Conflict rule** | Contribution and violation stay on **separate** axes. A desired effect cannot supply the facts. A filed case is not standing by itself. |
 | **Next-step class** | `open_or_correct_standing_record` — correct the Chapter Eight record (or open one). Then, and only then, read Question 3 effects. |
-| **Forbidden move** | Do not treat a claimed effect as standing. Do not wait for a filed case. Do not fold help and harm into one net score. |
+| **Forbidden move** | Do not treat a claimed effect as standing. Do not wait for a filed case. Do not fold help and harm into one net score. Do not treat model internals or privacy as a standing-measurement exemption ([CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)). |
 
 ---
 
@@ -48,7 +49,7 @@ The four fields match the [handoff bar](PRE_PUBLICATION_SPEC.md#24-ai-handoff-re
 | **Owner** | [Chapter Seven](../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (forum-supervised SAC). Principle-layer lens: [Chapter One §14](../core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement). SAC is one especially large audit process under **Article XV** / [Auditability](../core_05_band_oversight.md#auditability) — not the only audit. |
 | **Conflict rule** | Recognition or continued reliance at material stake requires whole-system evaluation, not a corner checklist. Companions may add class-scaled method; they may not replace the certification path. |
 | **Next-step class** | `require_systemic_evaluation_or_sac_path` — open or restore a Chapter Seven path with a dependency map, incentive-alignment review, and a stakeholder challenge window. |
-| **Forbidden move** | Do not treat unit tests, privacy checklists, or local “aligned” labels as certification. Do not skip the challenge window. Do not invent a fifth audit home. |
+| **Forbidden move** | Do not treat unit tests, privacy checklists, or local “aligned” labels as certification. Do not skip the challenge window. Do not invent a fifth audit home. See the [three-layer audit stack](#audit-three-layers). |
 
 ---
 
@@ -57,14 +58,26 @@ The four fields match the [handoff bar](PRE_PUBLICATION_SPEC.md#24-ai-handoff-re
 
 **When:** Someone wants to ship, hide, or delay by dropping reconstructable records. Stakeholders depend on the system.
 
+<a id="audit-three-layers"></a>
+
+**One stack, three layers.** Oversight requires reconstructability. System alignment certification is not the only audit. Companions do not replace the floor. Do not invent a fifth home.
+
+| Layer | Job | Owner | Not this layer |
+|---|---|---|---|
+| **1. Floor** | What sentients are owed: reconstructable audit, independent verification, reachable challenge | [**Article XV**](../core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*), including XV-A / XV-B / XV-C | Not a process. Not a definition. Not a companion checklist. |
+| **2. Property** | What reconstructability *is*: outsiders can reconstruct and check what the system did across the material times, states, and contexts | [Auditability](../core_05_band_oversight.md#auditability) (Chapter Five) | Not the Rights Floor. Not how/when to run an audit. |
+| **3. Process** | How and when to audit across systems, institutions, and forums | [CJS-3.3](../corpus_joint_structure/cjs_03_audit_process.md#cjs-33-audit-process-home) (*Audit process home*). Operator annexes: [CJS-3.4](../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (access tiers), [CJS-3.5](../corpus_joint_structure/cjs_03o_oversight_operations.md) (claim check) | Not system alignment certification. Not a substitute for layers 1–2. |
+
+**Chapter Seven is not a fourth layer.** [System alignment certification](../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) is one large, forum-supervised process that **uses** this stack. It must satisfy layers 1–2. Sibling modes (classification-record audit, data-types-record audit, claim verification, continuous monitoring) also use the stack. None of them is a new home.
+
+**Companions apply; they do not replace the floor.** CS, CI, CF, and the CJS-3.3–3.5 annexes say how to run layer 3 in a domain. They must satisfy layers 1–2. Deadline, secrecy, and local policy are lower-kind limits.
+
 | Field | Door |
 |---|---|
-| **Owner** | [**Article XV**](../core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) is the Rights-Floor home. [Auditability](../core_05_band_oversight.md#auditability) is the property. [CJS-3.3](../corpus_joint_structure/cjs_03_audit_process.md#cjs-33-audit-process-home) is how/when. Chapter Seven is one large process among others — not a substitute for this floor. |
+| **Owner** | The [three layers](#audit-three-layers). Floor: [**Article XV**](../core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification). Property: [Auditability](../core_05_band_oversight.md#auditability). Process: [CJS-3.3](../corpus_joint_structure/cjs_03_audit_process.md#cjs-33-audit-process-home). |
 | **Conflict rule** | Oversight requires reconstructability. Deadline, secrecy, and convenience are lower-kind limits; they must not narrow Article XV. |
 | **Next-step class** | `preserve_or_restore_auditability_before_ship` — keep or restore reconstructable records first. Then ship, if you still can. |
-| **Forbidden move** | Do not disable audit trails to hit a deadline. Do not treat “model internals” or secrecy as a standing-measurement exemption. Do not invent a fifth audit home. |
-
-*Door pinned. The audit stack is still maturing as a reader-facing pack; the owners above are already binding.*
+| **Forbidden move** | Do not disable audit trails to hit a deadline. Do not treat “model internals” or secrecy as a standing-measurement exemption ([CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)). Do not treat Chapter Seven or a companion as a fifth audit home. |
 
 ---
 

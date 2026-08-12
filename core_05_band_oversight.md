@@ -849,6 +849,7 @@ See **Joint invocation and satisfaction**.
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Verifiability](core_05_band_oversight.md#verifiability), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [Evaluation Completeness Constraint](core_05_band_oversight.md#evaluation-completeness-constraint).
 - Read with: **Article XV** (*Audit, Transparency, and Independent Verification*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02-03_definition_mechanics.md](core_02-03_definition_mechanics.md) Chapters Two through Four.
+- Steward door (non-operative): This definition is the property layer of the audit stack. The three-layer picture lives in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit-three-layers) (process support, not binding).
 
 </details>
 

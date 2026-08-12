@@ -9,6 +9,8 @@
 > This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-3.3** / **oDef.3** (*Audit process home*).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+>
+> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XV**; layer 2 is Chapter Five [Auditability](../core_05_band_oversight.md#auditability). Do not treat this file, Chapter Seven, or an OP annex as a fifth audit home.
 
 </details>
 
@@ -127,7 +129,7 @@ Audit when any of the following applies (often more than one):
 <a id="cjs-33-sibling-modes"></a>
 ## Sibling audit modes (owner map)
 
-*In plain terms: auditing shows up in several places — this home coordinates them; it does not swallow their owner files.*
+*In plain terms: auditing shows up in several places — this home coordinates them; it does not swallow their owner files. These modes use the three-layer stack (Article XV floor, Auditability property, this file as how/when). They are not extra homes.*
 
 | Mode | Owner (do not restate doctrine here) |
 |---|---|

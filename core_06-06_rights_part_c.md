@@ -665,6 +665,7 @@ Accurate, relevant, and contestable information is foundational to self-determin
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding), and [§12 Shared-System Capacity](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
+- Steward door (non-operative): This Article is the Rights-Floor layer of the audit stack. The three-layer picture (floor / property / process) lives in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit-three-layers) (process support, not binding). Do not treat Chapter Seven or a companion as a fifth home.
 
 </details>
 

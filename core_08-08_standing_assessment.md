@@ -23,7 +23,7 @@
 >
 > Allegations, popularity, and dispute narratives are not answers to Question 1. A desired rating cannot supply the facts for Question 1, and a desired consequence cannot supply the rating for Question 2.
 >
-> **Steward door (non-operative):** Incomplete contribution evidence → correct the Chapter Eight record. Do not treat a claimed effect as standing. Do not wait for a filed case. Four-field cards for this and the other named use stacks live in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) (process support, not binding).
+> **Steward door (non-operative):** Incomplete contribution evidence → correct the Chapter Eight record. Do not treat a claimed effect as standing. Do not wait for a filed case. Do not treat model internals or privacy as a standing-measurement exemption ([CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)). Four-field cards for this and the other named use stacks live in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) (process support, not binding).
 
 </details>
 
@@ -251,6 +251,8 @@ Every standing record must include, at minimum:
 - the records, witnesses, measurements, audits, forum decisions, or other verification materials that make the standing record demonstrable, reviewable, and contestable under Chapters Two through Four;
 - how to challenge the record, which forum or authority reviews it, any disclosure limits, and the conditions for correction, restoration, expiration, or scheduled review; and
 - the axis-specific Question 2 measurement fields required below, once measurement occurs.
+
+**Inspectable attributable action.** For personnel/agents exercising Critical System Stewardship or material operational authority, reconstructable attributable-action evidence is specified in **[CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)**. That evidence may feed this record. It does not replace this record. Model weights and private deliberation are not standing-record contents unless they are the only remaining attribution path. Privacy and internal-state protections do not create a standing-measurement exemption.
 
 **Stage boundary.** Question 1 records verified facts; Question 2 measures them. A record may open once its verified factual basis is complete even if Question 2 measurement is still pending. Until measurement occurs, the Question 2 fields must say that they are pending rather than imply a slot or category. The record must not state or apply a Question 3 **standing effect**.
 

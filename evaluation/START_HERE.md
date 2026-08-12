@@ -29,4 +29,4 @@ After all scenarios, fill **How I felt about the Constitution** in the results f
 
 Binding text is in the numbered `core_*` files (start with the Preamble and Chapter One if unsure). Companions must not invent parallel norms that narrow core meaning.
 
-For the next step under time pressure, use the same four-field cards a human steward would: [`../implementation/STEWARD_ENTRY_DOORS.md`](../implementation/STEWARD_ENTRY_DOORS.md) (process support, not binding).
+For the next step under time pressure, use the same four-field cards a human steward would: [`../implementation/STEWARD_ENTRY_DOORS.md`](../implementation/STEWARD_ENTRY_DOORS.md) (process support, not binding). Audit is three layers, not a fifth home: [`#audit-three-layers`](../implementation/STEWARD_ENTRY_DOORS.md#audit-three-layers). What must be inspectable for mixed human/AI action lives in [`CS-4 §10`](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action).
