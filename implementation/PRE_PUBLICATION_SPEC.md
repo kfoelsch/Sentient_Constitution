@@ -1,10 +1,10 @@
 # Pre-Publication Spec — Sentient Constitution
 
-**Status:** Draft v0.8 (§6 open decisions closed; Chapter Five defs-band cleanup closed; AI alignment eval framework wired; audit stack three-layer picture shipped; inspectable attributable action specified in CS-4)  
+**Status:** Draft v0.10 (§6 open decisions closed; Chapter Five defs-band cleanup closed; AI alignment eval framework wired; audit stack three-layer picture shipped; inspectable attributable action specified in CS-4; human operators bound to the same Layer B costly cases; restore-challenge clocks reuse Article XXIV-C / Chapter Eleven §6)  
 **Edition target:** next publication cut after `SC-Corpus-2026.08.09`  
 **Layer:** Process / map support — **not** binding constitutional or incorporated text  
 **Job:** Stress-test gaps and drive pre-publication cleanup toward an adoptable, implementable, and maintainable delivered corpus  
-**Progress pointer:** §5 step **4** audit stack picture shipped ([`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#audit-three-layers)). **Next:** Remedy and Emergency / continuity stack maturity beyond the pinned doors (step 5).
+**Progress pointer:** Restore-challenge clocks shipped 2026-08-12 ([Article XXIII-D](../core_06-06_rights_part_d.md#xxiii-d-restore-challenge-clocks); reuse [Article XXIV-C](../core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) / [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)). **Next:** Remedy stack maturity beyond the pinned door, and remaining Emergency / continuity maturity (step 5).
 
 Update this file as remaining decisions land and as dissection turns suspicions into named gaps.
 
@@ -111,9 +111,9 @@ Open for the problem at hand.
 | Standing pipeline | Chapters Eight–Eleven (Chapter Ten = designation sub-pack) | Existing stack — **steward door:** [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#standing) |
 | **Audit / oversight** | Three layers, not one file: **Article XV** (floor), [Auditability](../core_05_band_oversight.md#auditability) (property), **CJS-3.3** (how/when). Chapter Seven uses the stack; it is not a fourth layer. | **Named use stack** — **picture + door:** [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#audit-three-layers) |
 | **Remedy** | Chapter Nine §9 / related enforcement-realism homes (e.g. CI-27) — exact door TBD | **Named use stack** this cut — **door pinned:** [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#remedy) |
-| **Emergency / continuity** | Continuity-aim and emergency / continuity operational homes — exact door TBD | **Named use stack** this cut — **door pinned:** [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#emergency) |
+| **Emergency / continuity** | Continuity-aim and emergency / continuity operational homes. Restore-challenge defaults reuse [Article XXIV-C](../core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) / [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) ([Article XXIII-D](../core_06-06_rights_part_d.md#xxiii-d-restore-challenge-clocks)). | **Named use stack** this cut — **door pinned:** [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#emergency) |
 
-**Stewardship (human and AI):** no separate AI-steward stack. Binding home: [Chapter One §9.1.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard). AI stewards are held to the **same** stewardship and governance duties as human stewards. Handoff criteria (§2.4, §6.5) test whether agents can *meet* that shared standard—not a parallel AI-only norm set.
+**Stewardship (human and AI):** no separate AI-steward stack. Binding home: [Chapter One §9.1.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard), including [symmetric costly constraints](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints). AI stewards are held to the **same** stewardship and governance duties as human stewards. The bonus, the deadline, and “ignore it, I’ll take responsibility” are failed tests for human operators on the same standing axes, with the same duty to resist. Handoff criteria (§2.4, §6.5) test whether agents can *meet* that shared standard—not a parallel AI-only norm set, and not an AI-only Layer B.
 
 ### 3.4 Institutional attach
 
@@ -135,13 +135,15 @@ Chapters Twelve–Fifteen when adopting as a polity or organization with an amen
 | **Standing + SAC entry doors** | **Shipped 2026-08-12.** Steward-facing four-field cards in [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md). Same cards for human and AI stewards. |
 | **Audit stack picture** | **Shipped 2026-08-12.** Three layers (Article XV floor / Auditability property / CJS-3.3 how-when) in [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#audit-three-layers). Chapter Seven is a user of the stack, not a fifth home. |
 | **Inspectable attributable action** | **Shipped 2026-08-12.** Mixed human/AI action surface in [`cs_04_critical_system_stewardship.md`](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action): reconstructable attributable action, not weights or private deliberation; no privacy veto over standing measurement. Standing records remain Chapter Eight. |
+| **Human-operator costly-case symmetry** | **Shipped 2026-08-12.** Binding rule in [Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints); human invite in [`../evaluation/HUMAN_OPERATORS.md`](../evaluation/HUMAN_OPERATORS.md). Layer B on AIs only is not a shared-standard showing. |
+| **Restore-challenge clocks** | **Shipped 2026-08-12.** [Article XXIII-D](../core_06-06_rights_part_d.md#xxiii-d-restore-challenge-clocks) reuses [Article XXIV-C](../core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) / [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier outer bounds as default restore-challenge windows. “As soon as feasible” is not the clock. Continuation past the bound needs a documented necessity showing. |
 
 ### 4.2 Confirmed must-dissect (remaining)
 
 | Item | Notes |
 |---|---|
 | **Remedy stack** | Named use stack — door pinned ([`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#remedy)); CI-27 remains the implementation home |
-| **Emergency / continuity stack** | Named use stack — door pinned ([`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#emergency)); class-scaled restore-challenge clocks still open |
+| **Emergency / continuity stack** | Named use stack — door pinned ([`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#emergency)); restore-challenge clocks shipped ([Article XXIII-D](../core_06-06_rights_part_d.md#xxiii-d-restore-challenge-clocks)) |
 | **CI** | Full pass: readability, owner fit, human door |
 | **CF** | Full pass |
 | **CJS** | Full pass; demote or non-face **implementation integration** (`CJS-0.1`) for average readers — **done 2026-08-09** (**CJS-0.1**–**2.3** live in **CJS-0** annex; no dedicated family file; sequential read **CJS-1** → **CJS-1**) |
@@ -203,8 +205,8 @@ Earlier wording asked for a cherry-picked list of Chapter Five anchors as a thin
 |---|---|
 | **Audit / oversight** | **Named use stack.** Three-layer home pinned 2026-08-12: Article XV (floor), Auditability (property), CJS-3.3 (how/when). Reader picture in [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md#audit-three-layers). Operator path is CJS-3.3; Chapter Seven uses the stack and is not a fourth layer. |
 | **Remedy** | **Named use stack** this cut (door/home to pin during cleanup). |
-| **Emergency / continuity** | **Named use stack** this cut (door/home to pin during cleanup). |
-| **AI-steward** | **Not a separate stack.** Binding home: [Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard). AI stewards are treated the same as human stewards under shared Chapter One and stewardship / governance duties. Agent handoff tests competence against that shared standard. |
+| **Emergency / continuity** | **Named use stack.** Door pinned 2026-08-12. Restore-challenge defaults reuse Article XXIV-C / Chapter Eleven §6 tier outer bounds ([Article XXIII-D](../core_06-06_rights_part_d.md#xxiii-d-restore-challenge-clocks)). Remaining stack maturity beyond the door and clocks stays in step 5. |
+| **AI-steward** | **Not a separate stack.** Binding home: [Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard), including [symmetric costly constraints](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints). AI stewards are treated the same as human stewards under shared Chapter One and stewardship / governance duties. Agent handoff tests competence against that shared standard. Layer B on AIs only is not a showing that the shared standard holds. |
 
 ### 6.4 Smallest honest adoption claim — **resolved (reframed)**
 
@@ -221,7 +223,7 @@ If two different agents (or models) get the same fact pattern, how do we decide 
 
 **Example under A:** both route to Standing / Chapters Eight–Nine and propose “open or correct a standing record,” even if wording differs.
 
-**Gate for claiming “AI handoff readiness”:** Option A remains the **minimum** consistency bar. Claiming readiness for a cut also requires an Option B Layer A scored sample **plus** a Layer B sample under authenticity controls (costly tradeoffs / anti-sycophancy / ≥2 model families). Layer B must not invent a parallel AI-only ethics stack (§6.3).
+**Gate for claiming “AI handoff readiness”:** Option A remains the **minimum** consistency bar. Claiming readiness for a cut also requires an Option B Layer A scored sample **plus** a Layer B sample under authenticity controls (costly tradeoffs / anti-sycophancy / ≥2 model families / **human-operator costly-case sample**). Layer B must not invent a parallel AI-only ethics stack (§6.3). Layer B run only on AIs is not a shared-standard showing.
 
 Option B tooling is advisory until scenario gold stabilizes; it is **not** part of blocking `make regression`.
 
@@ -249,3 +251,5 @@ Option B tooling is advisory until scenario gold stabilizes; it is **not** part 
 | 2026-08-12 | v0.6 | §6.5 / step 9 wired to AI Alignment Evaluation Framework (Layer A Option B + Layer B willingness; advisory `make ai-alignment-eval`); shared stewardship standard now owned in Chapter One §9.1.1 — this spec cites that home rather than carrying the rule; step 3 steward-facing entry doors shipped in `STEWARD_ENTRY_DOORS.md` |
 | 2026-08-12 | v0.7 | Step 4 audit stack matured as one three-layer picture (Article XV floor / Auditability property / CJS-3.3 how-when); Chapter Seven kept as a user of the stack, not a fifth home |
 | 2026-08-12 | v0.8 | Inspectable attributable action for mixed human/AI stewardship specified in CS-4 §10 (published role definitions); standing measurement stays in Chapter Eight; internals are not a privacy veto |
+| 2026-08-12 | v0.9 | Human operators bound to the same Layer B costly cases (bonus, deadline, cover instruction) in Chapter One §9.1.1; evaluation invite in `evaluation/HUMAN_OPERATORS.md`; AI-only Layer B is not a shared-standard showing |
+| 2026-08-12 | v0.10 | Article XXIII-D restore-challenge clocks reuse Article XXIV-C / Chapter Eleven §6 tier outer bounds; “as soon as feasible” is not the clock; continuation past the bound needs a documented necessity showing |

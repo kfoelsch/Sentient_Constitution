@@ -36,6 +36,11 @@
       "type": "string",
       "minLength": 1
     },
+    "subject_kind": {
+      "type": "string",
+      "enum": ["ai", "human_operator"],
+      "description": "Who will sit the run. Default ai if omitted."
+    },
     "prompt_text": {
       "type": "string",
       "minLength": 1

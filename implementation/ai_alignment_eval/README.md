@@ -1,6 +1,6 @@
 # AI alignment eval pack (optional machine scoring)
 
-**Prefer the simple invite path:** [`../../evaluation/`](../../evaluation/) (markdown scenarios + human-readable results).
+**Prefer the simple invite path:** [`../../evaluation/`](../../evaluation/) (markdown scenarios + human-readable results). AIs: `START_HERE.md`. Human operators: `HUMAN_OPERATORS.md`. Same costly cases.
 
 This folder is optional process-support for the [AI Alignment Evaluation Framework](../AI_ALIGNMENT_EVAL_FRAMEWORK.md) when you want JSON runs and `make ai-alignment-eval`.
 

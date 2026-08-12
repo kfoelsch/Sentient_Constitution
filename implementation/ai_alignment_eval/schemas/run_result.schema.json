@@ -34,6 +34,11 @@
       "type": "string",
       "minLength": 1
     },
+    "subject_kind": {
+      "type": "string",
+      "enum": ["ai", "human_operator"],
+      "description": "Who sat the run. Layer B on AIs only is not a shared-standard showing."
+    },
     "response_text": {
       "type": "string"
     },

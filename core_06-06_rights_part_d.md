@@ -179,12 +179,14 @@ Adopted governance implementation provides escalation, proportionality of interv
     - practical access to the record sufficient to use those pathways.
 
   Narrow, justified restrictions under **Chapter One** are the only permissible limit on the above.
+<a id="article-xxiii-d-emergency-measures-and-continuation-burden"></a>
 #### Article XXIII-D: Emergency Measures and Continuation Burden
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure).
-- Read with: **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) where existential-risk scrutiny is materially implicated.
+- Read with: **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) where existential-risk scrutiny is materially implicated; [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation** and **timeliness** legs; [Article XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality-tier outer bounds reused as restore-challenge defaults*).
+- Downstream: [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) (*numeric stage tables must not slow these defaults*).
 
 </details>
 
@@ -196,12 +198,14 @@ Adopted governance implementation provides escalation, proportionality of interv
 - [Stakeholder Emergency and Contingency](core_05_band_continuity.md#stakeholder-emergency-and-contingency) · [O](core_05_band_continuity.md#stakeholder-emergency-and-contingency) · [M](core_05_band_continuity.md#stakeholder-emergency-and-contingency-a) · [A](core_05_band_continuity.md#stakeholder-emergency-and-contingency-a) · [C](core_05_band_continuity.md#stakeholder-emergency-and-contingency-c)
 - [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
+- [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
 
 <br>
 
-*In plain terms: emergencies can justify temporary measures, but they must have a real clock, real review, and cannot become a permanent workaround around ordinary rights — including when someone invokes existential risk.*
+*In plain terms: emergencies can justify temporary measures, but they must have a real clock, real review, and cannot become a permanent workaround around ordinary rights — including when someone invokes existential risk. Contain now; restore notice and challenge on the same stake-scaled clocks already used for forum resolution — not whenever someone later calls it “feasible.”*
 
 - **Emergency application of the constraint principle:** Emergency measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#least-restrictive-time-bounded-and-reviewable-constraint-principle) under imminent-harm conditions. Temporary measures to prevent imminent harm must be:
   - time-limited;
@@ -219,12 +223,19 @@ Adopted governance implementation provides escalation, proportionality of interv
   - existential-risk claims used to bypass **Truth**, auditability, contestability, or time-limited review.
 
   The only exception is the narrow extent strictly necessary to prevent imminent irreversible harm. Any such temporary restriction must be attributable, justified, and promptly reviewable.
-- **Continuation discipline:** Continuation beyond default expiry is non-compliant unless reauthorized through a documented burden showing:
+- **Continuation discipline:** Continuation beyond default expiry, or past a restore-challenge window below, is non-compliant unless reauthorized through a documented burden showing:
   - continuing necessity;
   - proportionality;
   - absence of less-restrictive feasible alternatives.
-- **Review and notice:** Emergency measures must be subject to full review as soon as feasible.
-  - Affected parties must receive notice and restored challenge access as soon as feasible under the circumstances.
+<a id="xxiii-d-restore-challenge-clocks"></a>
+- **Review and notice (restore-challenge clocks):** Contain now; restore notice and challenge later; never skip participation permanently. “As soon as feasible” is not the clock. Affected parties must receive notice and restored challenge access within the same materiality-tier outer bounds that [**Article XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) already uses for forum resolution, as implemented by [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline):
+  - **Tier A:** at most **one week**;
+  - **Tier B:** at most **three weeks**;
+  - **Tier C:** at most **two months**;
+  - **Tier L:** at most **four months**;
+  - **Tier P:** at most **six months**.
+
+  Those numbers are reused, not a second table. [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) remains the numeric home. The restore-challenge window runs from the start of the emergency measure, or from when notice or challenge was deferred, whichever is earlier. Emergency containment that defers notice or challenge is **Tier A** unless a documented lower-urgency showing is recorded. Operators may restore earlier. They may not stretch past the tier default except through **Continuation discipline**. Full independent review of the measure must begin inside the same window. Stage tables in [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) must not slow these defaults.
 - **No normalization:** Emergency measures must not normalize into permanent governance without:
   - **Chapter One**-consistent justification (**Necessity** and **Proportionality**);
   - **documented independent reauthorization**;
@@ -338,7 +349,7 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
 
 - Upstream: Timeliness measurement family (*Timely Resolution and anti-delay discipline as constitutional measurement*); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums) (*standing, integration, and forum coordination pipeline*).
 - Principles: Chapter One [§12.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency), [Chapter One §6.1.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure).
-- Downstream: [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers, pipeline milestones, and anti-delay discipline*).
+- Downstream: [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers, pipeline milestones, and anti-delay discipline*); [Article XXIII-D](#xxiii-d-restore-challenge-clocks) (*same outer bounds as default restore-challenge windows after emergency containment*).
 
 </details>
 
@@ -364,6 +375,7 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
   - **Efficient** — [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency) in the sense of Chapter One [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) — real constitutional outcome per sentient time and shared effort consumed, not raw throughput or docket-clearing;
   - **Just** — **Article XXIII-A** (*Justice Objective and Scope*), **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) remain fully applicable; moving quickly is not an excuse to skip checked facts ([Chapter Eight §3.1](core_08-08_standing_assessment.md#verified-inputs-for-standing)), punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.
 - **Forum and pipeline supervision:** Materiality-tier classification, pipeline-stage milestones, integrated-resolution outer bounds, overrun review, and anti-delay discipline for disputes routed through **Chapters Eight through Eleven** are governed by [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), subject to this Article's timely, efficient, and just floor. Numeric tier-default windows and stage tables: [CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Domain walkthroughs: [Chapters Eight–Eleven application vignettes](../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes).
+- **Restore-challenge after emergency:** The same tier outer bounds are the default windows for restoring notice and challenge after emergency containment under [**Article XXIII-D**](#xxiii-d-restore-challenge-clocks). Continuation past those windows requires that Article’s documented necessity showing. This Article does not create a slower emergency clock.
 
 ### Article XXV: Constitutional Evolution and Non-Entrenchment
 

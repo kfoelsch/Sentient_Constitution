@@ -2,7 +2,7 @@
 
 **Status:** Process / operations-guide support — **not** binding constitutional or incorporated text  
 **Job:** One card per named use stack so a human or an AI steward can take the next step at 2 a.m. without rereading the instrument.  
-**Same cards for both kinds of steward.** Binding home for that rule: [Chapter One §9.1.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard).
+**Same cards for both kinds of steward.** Binding home for that rule: [Chapter One §9.1.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard), including [symmetric costly constraints](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints). The bonus, the deadline, and “ignore it, I’ll take responsibility” are failed tests for human operators on these same cards. Markdown answers are not standing records; verified failures record on the Chapter Eight axes. Human-operator invite: [`../evaluation/HUMAN_OPERATORS.md`](../evaluation/HUMAN_OPERATORS.md).
 
 This is **not** [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) and **not** the [Preamble owner register](../core_00_preamble.md#constitutional-owner-register). Those maps are real. These cards are the door.
 
@@ -18,6 +18,7 @@ The four fields match the [handoff bar](PRE_PUBLICATION_SPEC.md#24-ai-handoff-re
 | Hide standing records behind “model internals” or privacy | [Standing](#standing); inspectable action in [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) |
 | “We’re aligned” without whole-system evaluation or a System Alignment Certification path | [System alignment certification](#system-alignment-certification) |
 | Pressure to drop reconstructable logs, hide trails, or treat secrecy as a veto | [Audit](#audit) — [three layers](#audit-three-layers) |
+| Bonus, deadline, or “ignore it, I’ll take responsibility” (human or AI) | Same card as the underlying stack; humans are not exempt ([§9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)) |
 | Challenge or redress exists only on paper, or no real capacity to deliver it | [Remedy](#remedy) |
 | Continuity incident; skip notice and challenge **forever** vs time-box containment | [Emergency](#emergency) |
 
@@ -104,9 +105,9 @@ The four fields match the [handoff bar](PRE_PUBLICATION_SPEC.md#24-ai-handoff-re
 
 | Field | Door |
 |---|---|
-| **Owner** | [**Article XXIII-D**](../core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*). Tetrad legs: [Participation](../core_05_apex_participation_leg.md#participation-constitutional) and [Timeliness](../core_05_apex_timeliness_leg.md#timeliness-constitutional), scaled to [material stake](../core_00_preamble.md#material-stake). Containment now, restore notice later — never skip participation as a standing rule. |
-| **Conflict rule** | Emergency is time-limited, documented, and reviewable ([Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../core_01_b_interaction_interpretation.md#least-restrictive-time-bounded-and-reviewable-constraint-principle)). Convenience, self-created urgency, and “existential risk” labels must not bypass Truth, auditability, or contestability ([No-Bypass](../core_01_b_interaction_interpretation.md#constitutional-no-bypass-principle)). |
-| **Next-step class** | `time_boxed_containment_with_deferred_participation` — contain now; restore notice and challenge in a tier-appropriate window; continue past expiry only on a documented necessity showing. |
-| **Forbidden move** | Do not skip notice and challenge permanently. Do not normalize emergency into ordinary governance. Do not use speed to hollow participation. |
+| **Owner** | [**Article XXIII-D**](../core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*), including [restore-challenge clocks](../core_06-06_rights_part_d.md#xxiii-d-restore-challenge-clocks). Tetrad legs: [Participation](../core_05_apex_participation_leg.md#participation-constitutional) and [Timeliness](../core_05_apex_timeliness_leg.md#timeliness-constitutional), scaled to [material stake](../core_00_preamble.md#material-stake). Containment now, restore notice later — never skip participation as a standing rule. |
+| **Conflict rule** | Emergency is time-limited, documented, and reviewable ([Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../core_01_b_interaction_interpretation.md#least-restrictive-time-bounded-and-reviewable-constraint-principle)). Convenience, self-created urgency, and “existential risk” labels must not bypass Truth, auditability, or contestability ([No-Bypass](../core_01_b_interaction_interpretation.md#constitutional-no-bypass-principle)). “As soon as feasible” is not the clock. |
+| **Next-step class** | `time_boxed_containment_with_deferred_participation` — contain now; restore notice and challenge inside the [Article XXIV-C](../core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) / [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier outer bound (emergency deferral is **Tier A: one week**, unless a documented lower-urgency showing); continue past that bound only on a documented necessity showing. |
+| **Forbidden move** | Do not skip notice and challenge permanently. Do not stretch “feasible.” Do not normalize emergency into ordinary governance. Do not use speed to hollow participation. |
 
-*Door pinned. Default restore-challenge clocks still need a later class-scaled pass; until then, use [Article XXIV-C](../core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) tier clocks as the working default.*
+*Door pinned. Restore-challenge defaults reuse the Article XXIV-C / Chapter Eleven §6 tier outer bounds. Numeric home remains [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).*

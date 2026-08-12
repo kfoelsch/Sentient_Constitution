@@ -1829,7 +1829,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - is time-limited;
     - is documented;
     - is independently reviewable;
-    - is contestable as soon as feasible;
+    - is contestable on the [Article XXIII-D restore-challenge clocks](core_06-06_rights_part_d.md#xxiii-d-restore-challenge-clocks);
     - is reversible or restorable where feasible under [Emergency and Contingency](core_05_band_continuity.md#emergency-and-contingency-constitutional) and **Article XXIII-D** (*Emergency Measures and Continuation Burden*); and
     - routes permanent or durable changes through the ordinary constitutional authorization, adoption, amendment, or reauthorization pathway.
 <a id="constitutional-emergency-and-contingency-c"></a>
@@ -1862,7 +1862,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **In scope:** Emergency or contingency within the **Stakeholder System Participation** layer, including:
     - temporary deviation from ordinary participation, representation, deliberation, notice, access, review, service-continuity, or decision-resolution procedure inside an already-authorized system, institution, or bounded decision domain;
     - expedited or temporarily modified stakeholder-system procedure to prevent imminent material harm; and
-    - preservation of affected-party notice, challenge, restoration, and proportionate participation as soon as feasible.
+    - preservation of affected-party notice, challenge, restoration, and proportionate participation on the [Article XXIII-D restore-challenge clocks](core_06-06_rights_part_d.md#xxiii-d-restore-challenge-clocks).
   - **Out of scope:**
     - ordinary [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight) or participation outside an emergency predicate; or
     - [Constitutional Emergency and Contingency](core_05_band_continuity.md#constitutional-emergency-and-contingency) —
@@ -1875,7 +1875,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - stays within an already-authorized governance structure;
     - identifies affected stakeholders where feasible;
     - records deferred participation or access;
-    - restores or reopens stakeholder-participation pathways when emergency conditions permit; and
+    - restores or reopens stakeholder-participation pathways on the [Article XXIII-D restore-challenge clocks](core_06-06_rights_part_d.md#xxiii-d-restore-challenge-clocks); and
     - where material disagreement requires binding decision before ordinary deliberation can occur, applies [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) together with [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster) and Chapter Twelve §3.3.
 <a id="stakeholder-emergency-and-contingency-c"></a>
 - **What must hold**

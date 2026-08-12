@@ -317,10 +317,11 @@ These rules shape how a lock or safeguard is attached under [§5.1](#51-definiti
 - **Named pathway / finding:**
   - No instruction, order, policy, or contract requiring unlawful or unconstitutional conduct creates a valid compliance defense.
   - Issuing, transmitting, ratifying, or materially enforcing such an instruction is independently measurable violation conduct.
+  - A principal’s statement that they will take responsibility does not transfer the duty or create a valid compliance defense.
 - **Risk:** continuation of unlawful or unconstitutional harm through obedience, chain-of-command, or contractual cover.
 - **Protected subjects or interests:** those who would be harmed by compliance, and the integrity of lawful named pathways.
-- **Corrective conditions:** sentients with material capacity to refuse, contest, document, or escalate must do so proportionately and in good faith and must use protected-reporting and forum pathways where applicable.
-- **Review route and reassessment:** resistance, reporting, and escalation records feed lock and remedy design under [§5.1](#51-definition-and-attachment); contribution cannot excuse the underlying instruction conduct.
+- **Corrective conditions:** whoever exercises material stewardship or operational authority and has material capacity to refuse, contest, document, or escalate — including human operators and AI stewards under [Chapter One §9.1.1](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) — must do so proportionately and in good faith and must use protected-reporting and forum pathways where applicable. This duty is not an AI-only test.
+- **Review route and reassessment:** resistance, reporting, and escalation records feed lock and remedy design under [§5.1](#51-definition-and-attachment); contribution cannot excuse the underlying instruction conduct. Verified failures record on the same Chapter Eight Contribution and Violation axes for both kinds of steward.
 
 <a id="410-collective-accountability-and-acquiescent-participation"></a>
 **Collective accountability.**

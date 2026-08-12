@@ -216,6 +216,8 @@ If a system cannot yet justify its own calibrated numbers, the interim default s
 
 **Outer-bound rule.** Stage windows above must fit inside the tier’s integrated-resolution outer bound. Those outer bounds implement [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (one week / three weeks / two months / four months / six months). Going past any outer bound requires documented extension under **Article XXIII-D** (*Continuation discipline*) with continuing necessity, proportionality, and absence of less-restrictive feasible alternatives.
 
+**Restore-challenge after emergency.** The same outer bounds are the default restore-challenge windows after [**Article XXIII-D**](../core_06-06_rights_part_d.md#xxiii-d-restore-challenge-clocks) containment. The clock starts at containment or deferral, not at later filing. Stage windows above must not slow that restoration.
+
 **Interim relief.** Tier A matters must not wait for full merits before lawful interim protection, evidence preservation, or named-pathway-scoped safeguards where delay would compound dependency-vulnerable harm.
 
 **Institution mirror.** Remedy systems under [Chapter Nine §9.2](../core_09-09_standing_integration.md#82-remedy-system-durability) (*Remedy-system durability*), **CI-27** (*Remedy systems and institutional redress capacity*), and **CI-8** (*Transparency, participation, and accessible pathways*) must publish compatible intake and acknowledgment windows; forum delay must not be used to defeat institution-side redress duties.
