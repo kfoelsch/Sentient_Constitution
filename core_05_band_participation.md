@@ -1369,17 +1369,16 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <a id="reproductive-autonomy-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the reproductive or lineage choice is substantively free — not coerced, blocked, forced, or denied by substrate class or dependency pressure.
-  - **Primary assessment:**
-    - Evaluate substantive autonomy over reproductive and lineage decisions, not formal permission.
-    - Detect:
-      - coercion;
-      - access denial;
-      - forced continuation or discontinuation of reproduction or creation;
-      - exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
-      - parent-system overreach;
-      - family-status discrimination; and
-      - dependency pressure.
-    - Where the choice affects a developing or derived sentient, apply best-interest, graduated-capability, sentience-status, and parent-system duties without erasing the originating sentient's reproductive or lineage autonomy.
+
+    **Primary assessment:** Evaluate substantive autonomy over reproductive and lineage decisions, not formal permission. Detect:
+    - coercion;
+    - access denial;
+    - forced continuation or discontinuation of reproduction or creation;
+    - exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
+    - parent-system overreach;
+    - family-status discrimination; and
+    - dependency pressure.
+    Where the choice affects a developing or derived sentient, apply best-interest, graduated-capability, sentience-status, and parent-system duties without erasing the originating sentient's reproductive or lineage autonomy.
 <a id="reproductive-autonomy-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -2185,10 +2184,8 @@ See **Joint invocation and satisfaction**.
     - ordinary role or safety qualifications that do not use Substrate Class as an exclusion basis.
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether a label or rule is tracking real Substrate Class traits — and whether those traits are being used to decide recognition or Rights-Floor protection.
-  - **Primary assessment:**
-    - Identify whether the operative distinction turns on origin, substrate, architecture, embodiment, or a comparable category.
-    - Where recognition or Rights-Floor application turns on Substrate Class, apply [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
-    - Where Protected Characteristics analysis is also implicated, read with [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional).
+
+    **Primary assessment:** Identify whether the operative distinction turns on origin, substrate, architecture, embodiment, or a comparable category. Where recognition or Rights-Floor application turns on Substrate Class, apply [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion). Where Protected Characteristics analysis is also implicated, read with [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional).
 - **What must hold**
   - **Primary failure:** treating Substrate Class as undefined jargon, or using an unstated synonym (form, medium, hosting class, embodiment class, or comparable) to evade [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Secondary failure:** claiming substrate-agnostic compliance while still conditioning recognition or Rights-Floor protection on Substrate Class.
@@ -2234,18 +2231,12 @@ See **Joint invocation and satisfaction**.
     - ordinary scope limits that are not based on [Substrate Class](core_05_band_participation.md#substrate-class).
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether recognition or Rights-Floor application is denied or narrowed because of [Substrate Class](core_05_band_participation.md#substrate-class).
-  - **Primary assessment:**
-    - Must not exclude based on [Substrate Class](core_05_band_participation.md#substrate-class), consistent with:
-      - [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing); and
-      - [Constitutional Community](core_05_band_participation.md#constitutional-community).
-    - Where status is materially disputed or contested, apply:
-      - [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional); and
-      - the **Article V-E** (*Sentience-Status Adjudication Floor*) Rights-Floor adjudication right.
-    - **Non-narrowability:** Test that the rule is not narrowed through:
-      - adopter-jurisdiction framing;
-      - Chapter Eight impact measurement;
-      - Chapter Ten designation; or
-      - comparable mechanism.
+
+    **Primary assessment:** Must not exclude based on [Substrate Class](core_05_band_participation.md#substrate-class), consistent with [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing) and [Constitutional Community](core_05_band_participation.md#constitutional-community). Where status is materially disputed or contested, apply [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) and the **Article V-E** (*Sentience-Status Adjudication Floor*) Rights-Floor adjudication right. Test that the rule is not narrowed through:
+    - adopter-jurisdiction framing;
+    - Chapter Eight impact measurement;
+    - Chapter Ten designation; or
+    - comparable mechanism.
 - **What must hold**
   - **Primary failure:** Sentience-recognition or Rights-Floor application is non-compliant when it is:
     - denied;
@@ -2550,6 +2541,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - everyday or non-constitutional uses of "sentient"; or
     - capability grading under [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional) —
       demonstrated ability scales rights-exercise; it does not decide who counts as a sentient.
+<a id="sentient-composite-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether recognition of sentience rests on reviewable indicators under uncertainty — not on:
     - [Substrate Class](core_05_band_participation.md#substrate-class) stereotypes; or
@@ -2569,6 +2561,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
       - non-arbitrary; and
       - manipulation-resistant
       under [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity).
+<a id="sentient-composite-c"></a>
 - **What must hold**
   - **Primary failure:** determinations that:
     - use [Substrate Class](core_05_band_participation.md#substrate-class) traits or marketed capability labels to exclude an entity that possesses sentience from possible:

@@ -16,6 +16,7 @@
   ],
   "### 9. Stewardship and Distributed Understanding": [
     "Strategic Stewardship Obligation",
+    "Distributed Understanding",
     "Participation",
     "Oversight",
     "Meaningful Agency",
@@ -60,13 +61,28 @@
   "#### 9.1 Consequential Stewardship": [
     "Strategic Stewardship Obligation",
     "Meaningful Agency",
-    "Auditability"
+    "Auditability",
+    "Timeliness"
+  ],
+  "#### 9.5 Aligned Self-Organization": [
+    "System Creation",
+    "Protected Reporting (Whistleblowing)",
+    "Protected Reporting Retaliation and Access Interference",
+    "Evidence Preservation",
+    "Foreseeability",
+    "Necessity",
+    "Proportionality",
+    "Merits Determination"
   ],
   "#### 9.2 Distributed Understanding": [
+    "Distributed Understanding",
     "Transparency",
+    "Public Oversight Baseline Disclosure",
+    "Auditability",
     "Materiality",
     "Dependency",
     "Accessibility",
+    "Educational Agency",
     "Meaningful Agency",
     "Contestability"
   ],
@@ -143,5 +159,111 @@
     "System Capture",
     "Incentive Alignment",
     "Governance"
+  ],
+  "#### 8.1 Constitutional No-Bypass Principle": [
+    "Contestability",
+    "Auditability",
+    "Accountability"
+  ],
+  "#### 8.2 Definitional layer and required disciplines": [
+    "Proportionality",
+    "Necessity",
+    "Classification-Scaled Governance"
+  ],
+  "#### 8.3 Ambiguity resolution": [
+    "Wellbeing",
+    "Irreversible Harm",
+    "Truth (Constitutional Constraint)",
+    "Meaningful Agency"
+  ],
+  "#### 8.4 Constitutional Meaning Conflict Resolution": [
+    "Corpus",
+    "Authority Stack and Internal Hierarchy"
+  ],
+  "#### 10.1 Governance as Authorized Structure": [
+    "Governance",
+    "Stewardship",
+    "Necessity",
+    "Proportionality",
+    "Participation",
+    "Oversight",
+    "Accountability"
+  ],
+  "#### 11.1 Alignment Requirement": [
+    "Incentive Alignment",
+    "Productive Capacity",
+    "Constitutional Efficiency",
+    "Avoidable Burden",
+    "Proxy Divergence",
+    "Safety (Constraint)",
+    "Truth (Constitutional Constraint)",
+    "Meaningful Agency",
+    "Auditability",
+    "System Capture",
+    "Wellbeing",
+    "Participation"
+  ],
+  "#### 11.2 Convenient Proxies and Proxy Divergence": [
+    "Proxy Divergence",
+    "Productive Capacity",
+    "Constitutional Efficiency"
+  ],
+  "#### 11.3 Misalignment Detection": [
+    "Auditability",
+    "Contestability",
+    "System Capture",
+    "Incentive Alignment",
+    "Review and Correction Duty"
+  ],
+  "#### 11.4 Misalignment Correction and Capture Response": [
+    "System Capture",
+    "Contestability",
+    "Oversight",
+    "Accountability",
+    "Review and Correction Duty"
+  ],
+  "#### 11.6 Successor Responsibility and Formal-Structure Non-Escape": [
+    "Accountability",
+    "Attributable Action",
+    "Attribution Integrity",
+    "Necessity",
+    "Proportionality"
+  ],
+  "#### 12.1 Productive Capacity (Instrumental Good)": [
+    "Productive Capacity",
+    "Shared-System Capacity",
+    "Constitutional Efficiency",
+    "Wellbeing",
+    "Dignity and Equal Moral Standing",
+    "Proxy Divergence",
+    "Ecological Integrity",
+    "Environmental Preconditions",
+    "Intergenerational Responsibility"
+  ],
+  "#### 12.2 Constitutional Efficiency": [
+    "Constitutional Efficiency",
+    "Shared-System Capacity",
+    "Productive Capacity"
+  ],
+  "#### 13.1 Market Concentration Threshold Mechanism (Adopter-Tunable)": [
+    "Market Concentration Threshold",
+    "Market Structure",
+    "Dependency"
+  ],
+  "#### 13.2 Pro-Competition and Anti-Domination": [
+    "Market Structure",
+    "Contestability",
+    "Meaningful Agency",
+    "Necessity",
+    "Proportionality",
+    "Dependency",
+    "Proxy Divergence"
+  ],
+  "#### 13.3 Consolidation Ceiling": [
+    "Governance",
+    "Stewardship",
+    "Contestability",
+    "Market Structure",
+    "Dependency"
   ]
 }

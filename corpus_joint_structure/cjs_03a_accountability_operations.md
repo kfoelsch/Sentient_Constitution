@@ -48,7 +48,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 - Read with: `corpus_systems.md` **CS-4 — Critical system stewardship**
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05_band_accountability.md#non-compliance-finding-profile); use **CCL** layer and **structural** or **stewardship** **failure character** when undocumented authority, capture, or concentration is material; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 3](../core_02-03_definition_mechanics.md#3-non-compliance-finding-profiles)).
-- Chapter One basis: Chapter One §7.1, §3, §4.2, §12.2, §6, [§13.1](../core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable), [§13.2](../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §8.1, §4, §6.2, §12.2, §10 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.1** (*Topic router*); primary owner **CI-9.3**.
 - Topic routing (mandatory read-with): **CJS-R14** (*Institutional functional lanes and non-delegable splits*) in **CJS-0.1** (*Topic router*); primary owner **CI-3**.
 - Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-0.1** (*Topic router*); primary owners **CI-3**, **CI-4**, **CI-11**, **CI-12**.
@@ -66,7 +66,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 - [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
 - [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- Chapter One basis: Chapter One §7.1, §3, §4.2, §12.2, §6, [§13.1](../core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable), [§13.2](../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+
 </details>
 
 <br>
@@ -105,7 +105,6 @@ The sub-rules below apply that cluster floor to specific anti-concentration, dis
 - Upstream: [Chapter One §13.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](../core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable); [Market Concentration Threshold](../core_05_band_accountability.md#market-concentration-threshold-constitutional).
 - Downstream: [Chapter Ten §5](../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) where concentration-based subversion is at issue; [CJS-3.11.2](cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (operative anti-domination conduct and remedies); [CJS-3.11.3](cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) (operative consolidation-ceiling setting); [§13.2 Pro-Competition and Anti-Domination](../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination); [§13.3 Consolidation Ceiling](../core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling).
 - Read with: [§6.2.4 Proxy-Divergence Invalidation](../core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation); [Article I-D](../core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*); [Article XII-A](../core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*); [Article XIII-A](../core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
-
 </details>
 
 <br>
@@ -151,7 +150,6 @@ Market-concentration threshold activation
 - Upstream: [Chapter One §13.2 Pro-Competition and Anti-Domination](../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) ([§13.2.2 Anti-Domination Prohibitions (Don'ts)](../core_01_c_stewardship_capacity_principles.md#1322-anti-domination-prohibitions-donts) principle-layer prohibitions; [§13.2.3 Remedies](../core_01_c_stewardship_capacity_principles.md#1323-remedies) principle-layer remedy direction); [Market Structure](../core_05_band_accountability.md#market-structure-constitutional).
 - Downstream: [Chapter Ten §5](../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) where concentration-based subversion is at issue; [Chapter Ten §5.2](../core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) where mobility-restriction or waiver conduct is at issue; [Chapter One §13.3 Consolidation Ceiling](../core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling).
 - Read with: [CJS-3.11.1](cjs_03a_accountability_operations.md#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable); **CJS-3.17** (*interoperability, portability, and exit-integrity terms*); [Article III-D](../core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*) (labor mobility Rights Floor); [Article XIX](../core_06-06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*); [§6.2.4 Proxy-Divergence Invalidation](../core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation).
-
 </details>
 
 <br>
@@ -199,7 +197,6 @@ Remedies must be proportionate to the concentration, dependency, conduct, and co
 - Upstream: [Chapter One §13.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)](../core_01_c_stewardship_capacity_principles.md#1332-ceiling-discipline-adopter-requirements); [Chapter One §13.3.1 Consolidation Risk (Pre-Lock-In Impairment)](../core_01_c_stewardship_capacity_principles.md#1331-consolidation-risk-pre-lock-in-impairment); [Market Structure](../core_05_band_accountability.md#market-structure-constitutional).
 - Downstream: [Chapter Ten §5](../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) where concentration-based subversion is at issue; [CJS-3.11.2](cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (remedy catalog on ceiling breach).
 - Read with: [CJS-3.11.1](cjs_03a_accountability_operations.md#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable); [§6.2.4 Proxy-Divergence Invalidation](../core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation); [Article III-D](../core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*).
-
 </details>
 
 <br>
@@ -415,7 +412,7 @@ Stewardship-role depth and non-symbolic governance boundary
 - Read with: Core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05_band_accountability.md#non-compliance-finding-profile); use **substantive** or **evasive** **failure character** when restrictions persist without revalidation; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 3](../core_02-03_definition_mechanics.md#3-non-compliance-finding-profiles)).
-- Chapter One basis: §11.1, §11.3, §11.4, §12.1, §13, §14 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §11.1, §11.3, §11.4, §12.1, §8, §9 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.1** (*Topic router*); primary owner **CI-9.3**.
 
 </details>
@@ -667,7 +664,7 @@ Temporal discipline and revalidation
 - Read with: `corpus_forum.md`
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05_band_accountability.md#non-compliance-finding-profile); use **formal** **failure character** for pathway or record defects and **substantive** where merits or binding effect is materially affected; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 3](../core_02-03_definition_mechanics.md#3-non-compliance-finding-profiles)).
-- Chapter One basis: Chapter One §7.1, §2.4, §11.4, §12.1, §13, §6 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §8.1, §3.4, §11.4, §12.1, §8, §10 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.1** (*Topic router*); primary owner **CI-9.3**.
 - Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Eleven famili…*) in **CJS-0.1** (*Topic router*); primary owner **CF-3**.
 - Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-0.1** (*Topic router*); primary owner **CF-4**.
@@ -945,7 +942,7 @@ Uncertainty safeguards and anti-abuse floor
 - Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Cross-leg note: pairs with **CJS-3.23** for governance authorization versus technical intervention integrity.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from emergency or operational continuity modes.
-- Chapter One basis: §2.1, §11.1, §11.4, §12.1, §14 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §8.1, §11.1, §11.4, §12.1, §9 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -1109,7 +1106,7 @@ Records, transparency, and challenge pathway duties
 - Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Cross-leg note: pairs with **CJS-3.6** for evolution, revalidation, and non-entrenchment.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational continuity reporting.
-- Chapter One basis: §2.1, §2.2, §3.1, §4.2, §12.1, §12.2 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §8.1, §8.2, §6.2, §12.1, §12.2 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.1** (*Topic router*); primary owner **CJS-3.6**.
 
 </details>

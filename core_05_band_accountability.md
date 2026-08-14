@@ -1510,13 +1510,8 @@ The following limits also apply:
 <a id="cruelty-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are sentients sustained in life, safety, and access to essentials?* Use them here to ask whether suffering was the point of the treatment — or piled on beyond necessity and proportionality — not only whether some harm occurred.
-  - **Primary assessment:**
-    - Separate [Harm](core_05_band_accountability.md#harm) magnitude from cruelty character.
-    - Test for suffering as an end in itself, gratuitous infliction, or degrading / humiliating design under the [Anti-Degrading-Process Principle (§9.6)](core_01_c_stewardship_capacity_principles.md#anti-degrading-process-principle) and [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
-    - Treat verified humiliation for its own sake as the humiliation subtype of [Cruelty](core_05_band_accountability.md#cruelty); do not treat ordinary reputational adversity from fair accountability as that subtype.
-    - Apply [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) to any claimed justification.
-    - Where animal welfare is implicated, read with [Animal Life](core_05_band_participation.md#animal-life-constitutional).
-    - Where standing is implicated, record cruelty only from verified findings under [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing) and keep it on the conduct-character stack — not as a slot input.
+
+    **Primary assessment:** Separate [Harm](core_05_band_accountability.md#harm) magnitude from cruelty character. Test for suffering as an end in itself, gratuitous infliction, or degrading / humiliating design under the [Anti-Degrading-Process Principle (§9.6)](core_01_c_stewardship_capacity_principles.md#anti-degrading-process-principle) and [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing). Treat verified humiliation for its own sake as the humiliation subtype of [Cruelty](core_05_band_accountability.md#cruelty); do not treat ordinary reputational adversity from fair accountability as that subtype. Apply [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) to any claimed justification. Where animal welfare is implicated, read with [Animal Life](core_05_band_participation.md#animal-life-constitutional). Where standing is implicated, record cruelty only from verified findings under [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing) and keep it on the conduct-character stack — not as a slot input.
 <a id="cruelty-c"></a>
 - **What must hold**
   - **Primary failure:** Non-compliant practices include:

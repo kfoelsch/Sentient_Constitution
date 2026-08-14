@@ -21,7 +21,9 @@ GUIDEPOST_BLOCK_RE = re.compile(
 WHAT_IT_IS_RE = re.compile(r"(?m)^- \*\*What it is\*\*\s*$")
 HOW_MEASURE_RE = re.compile(r"(?m)^- \*\*How to measure and assess\*\*\s*$")
 WHAT_MUST_HOLD_RE = re.compile(r"(?m)^- \*\*What must hold\*\*\s*$")
-IN_SCOPE_RE = re.compile(r"(?m)^\s*- \*\*In scope:\*\*")
+# Consolidated `- **In scope:**` or dimensional `- **In scope — {dimension}:**`
+# (doc_architecture.md Measurement-informed O/M/A/C).
+IN_SCOPE_RE = re.compile(r"(?m)^\s*- \*\*In scope(?:\s*—[^:]+)?:\*\*")
 OUT_SCOPE_RE = re.compile(r"(?m)^\s*- \*\*Out of scope:\*\*")
 PRIMARY_MEASURE_RE = re.compile(r"(?m)^\s*- \*\*Primary measure:\*\*")
 PRIMARY_ASSESS_RE = re.compile(r"(?m)^\s*\*\*Primary assessment:\*\*")

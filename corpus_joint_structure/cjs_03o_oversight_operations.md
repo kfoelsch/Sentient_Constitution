@@ -51,8 +51,10 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 - Read with: **CJS-3.12 — Burden of Justification and Constraint**
 - Read with: **CJS-3.22 — Constrained Secrecy and Protected Investigations**
 - Read with: **CJS-3.13 — Procedural Integrity and Adjudication**
+- Read with: **Article XV** (*Audit, Transparency, and Independent Verification*) and **Article XV-A** (*Auditability and Observable Evidence*) — Rights Floor
+- Read with: **`corpus_systems.md` CS-2 — Information types and handling**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §2.2, §3, §4.2, §12.1, §12.2 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §8.2, §4, §6.2, §12.1, §12.2 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -65,7 +67,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 - [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
 - [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
 - [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- Chapter One basis: §2.2, §3, §4.2, §12.1, §12.2 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+
 </details>
 
 <br>
@@ -253,7 +255,7 @@ Transparency, audit, and verification-integrity duties
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling** (**Type O**, **Type G**, access-posture bands)
 - Read with: [Chapter Seven](../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §2.2, §3, §12.1, §12.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §8.2, §4, §12.1, §12.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -377,7 +379,7 @@ Operational transparency and structured logging requirements
 - Read with: **Article VII-B** (*Internal-State Boundary and Type-N Protection*)
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling** (**Type O**, **Type G**, access-posture bands, and [Part A §5.3](../corpus_systems/cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) / [§7](../corpus_systems/cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems))
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §2.2, §11.2, §11.4, §12.1, §13 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §8.2, §11.2, §11.4, §12.1, §8 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -585,9 +587,10 @@ Tier structure and baseline accessibility
 - Read with: **CJS-3.5 — Independent Verification and Integrity of Claims**
 - Read with: **[CJS-3.3](cjs_03_audit_process.md#cjs-33-audit-process-home)** (*audit process home*)
 - Read with: **CJS-3.4 — Tiered Transparency and Audit Access**
-- Read with: Chapter Fifteen and rights-layer protections where material claims shape rights-relevant decisions.
+- Read with: **Article XV** (*Audit, Transparency, and Independent Verification*) and **Article XV-A** (*Auditability and Observable Evidence*) — Rights Floor, where material claims shape rights-relevant decisions
+- Read with: **`corpus_systems.md` CS-2 — Information types and handling**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §2.2, §2.3, §3, §12.1, §12.2 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §8.2, §3.3, §4, §12.1, §12.2 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
 
 </details>
@@ -740,7 +743,7 @@ Structured review and incentive-integrity floor
 - Constitutional frame: **Oversight** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Cross-leg note: integrative with **Accountability** where contest, correction, and assurance routing are implicated.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational resilience or protocol continuity.
-- Chapter One basis: §2.1, §2.2, §3.1, §12.1, §12.2 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §8.1, §8.2, §12.1, §12.2 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (primary owner): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-3.3**, **CJS-3.15**, **CI-7.3**, **CI-8**, **CF-11**.
 
 </details>
@@ -749,7 +752,7 @@ Structured review and incentive-integrity floor
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Cascading Failure](../core_05_band_continuity.md#cascading-failure) · [O](../core_05_band_continuity.md#cascading-failure) · [M](../core_05_band_continuity.md#cascading-failure-a) · [A](../core_05_band_continuity.md#cascading-failure-a) · [C](../core_05_band_continuity.md#cascading-failure-c)
-- [Trustworthiness](../core_05_band_continuity.md#trustworthiness) · [O](../core_05_band_continuity.md#trustworthiness) · [M](../core_05_band_continuity.md#trustworthiness-a) · [A](../core_05_band_continuity.md#trustworthiness-a) · [C](../core_05_band_continuity.md#trustworthiness-c)
+- [Trustworthiness](../core_05_band_continuity.md#trustworthiness) · [O](../core_05_band_continuity.md#trustworthiness-o) · [M](../core_05_band_continuity.md#trustworthiness-a) · [A](../core_05_band_continuity.md#trustworthiness-a) · [C](../core_05_band_continuity.md#trustworthiness-c)
 - [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
 - [Material Risk](../core_05_band_oversight.md#material-risk) · [O](../core_05_band_oversight.md#material-risk) · [M](../core_05_band_oversight.md#material-risk-a) · [A](../core_05_band_oversight.md#material-risk-a) · [C](../core_05_band_oversight.md#material-risk-c)
 - [Reversibility](../core_05_band_continuity.md#reversibility-constitutional) · [O](../core_05_band_continuity.md#reversibility-constitutional) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)

@@ -59,50 +59,52 @@ EXPECTED_CLUSTER_IDS = [
 ]
 
 
+# Live Chapter One § basis from the CJS-3.1 cluster map (deduped).
 CLUSTER_PRINCIPLE_MAP = {
-    "CJS-3.0": ["2.1", "3.4", "5.2", "7.1", "7.2", "10"],
-    "CJS-3.11": ["2.1", "4", "5.2", "7.2", "10"],
-    "CJS-3.14": ["3.1", "6.1", "6.4", "7.1", "9"],
-    "CJS-3.2": ["3.2", "4", "5.2", "7.1", "7.2"],
-    "CJS-3.12": ["6.1", "6.3", "6.4", "7.1", "8", "9"],
-    "CJS-3.22": ["3.2", "6.2", "6.4", "7.1", "8", "9"],
-    "CJS-3.13": ["2.1", "3.4", "6.4", "7.1", "8", "10"],
-    "CJS-3.6": ["3.1", "3.2", "4.1", "7.1", "7.2"],
-    "CJS-3.3": ["3.2", "4", "7.1", "7.2"],
-    "CJS-3.4": ["3.2", "6.2", "6.4", "7.1", "8"],
-    "CJS-3.5": ["3.2", "3.3", "4", "7.1", "7.2"],
-    "CJS-3.7": ["2.1", "4", "5.2", "6.4", "8", "10"],
-    "CJS-3.8": ["3.4", "5.2", "7.1", "8"],
-    "CJS-3.9": ["2", "3.2", "4", "7.1", "8"],
-    "CJS-3.10": ["3.2", "6.2", "7.1", "8"],
-    "CJS-3.16": ["3.1", "4.1", "5.1", "7.1", "9"],
-    "CJS-3.17": ["5.1", "6.1", "7.1", "8", "9"],
-    "CJS-3.18": ["3.2", "6.2", "7.1", "8", "9"],
-    "CJS-3.19": ["3.1", "4.1", "5.1", "6.1", "7", "9"],
-    "CJS-3.23": ["3.1", "6.1", "6.4", "7.1", "9"],
-    "CJS-3.20": ["3.1", "4.1", "6.1", "7.1", "9"],
-    "CJS-3.21": ["3.1", "3.2", "4.1", "7.1", "7.2", "9"],
-    "CJS-3.15": ["3.1", "3.2", "4.1", "5.2", "7.1", "7.2"],
+    "CJS-3.0": ["2.1", "3.4", "5.2", "7", "10"],
+    "CJS-3.1": ["6.2", "8.1", "8.2"],
+    "CJS-3.2": ["8.2", "4", "6.2", "12.1", "12.2"],
+    "CJS-3.3": ["8.2", "4", "12.1", "12.2"],
+    "CJS-3.4": ["8.2", "11.2", "11.4", "12.1", "8"],
+    "CJS-3.5": ["8.2", "3.3", "4", "12.1", "12.2"],
+    "CJS-3.6": ["8.1", "8.2", "12.1", "12.2"],
+    "CJS-3.7": ["8.1", "4", "6.2", "11.4", "8", "10"],
+    "CJS-3.8": ["3.4", "6.2", "12.1", "8"],
+    "CJS-3.9": ["2", "8.2", "4", "12.1", "8"],
+    "CJS-3.10": ["8.2", "11.2", "12.1", "8"],
+    "CJS-3.11": ["8.1", "4", "6.2", "12.2", "10"],
+    "CJS-3.12": ["11.1", "11.3", "11.4", "12.1", "8", "9"],
+    "CJS-3.13": ["8.1", "3.4", "11.4", "12.1", "8", "10"],
+    "CJS-3.14": ["8.1", "11.1", "11.4", "12.1", "9"],
+    "CJS-3.15": ["8.1", "8.2", "6.2", "12.1", "12.2"],
+    "CJS-3.16": ["8.1", "12.1", "9"],
+    "CJS-3.17": ["8.1", "11.1", "12.1", "8", "9"],
+    "CJS-3.18": ["8.2", "11.2", "12.1", "8", "9"],
+    "CJS-3.19": ["8.1", "11.1", "7", "9"],
+    "CJS-3.20": ["8.1", "11.1", "12.1", "9"],
+    "CJS-3.21": ["8.1", "8.2", "12.1", "12.2", "9"],
+    "CJS-3.22": ["8.2", "11.2", "11.4", "12.1", "8", "9"],
+    "CJS-3.23": ["8.1", "11.1", "11.4", "12.1", "9"],
 }
 
 
 PRINCIPLE_RULES = [
     (("authority", "governance", "role", "quorum", "delegated", "constitutional lane"),
-     ["4", "5.2", "7.2", "10"]),
+     ["4", "5.2", "8.1", "10"]),
     (("intervention", "override", "emergency", "failure", "containment", "rollback", "reversibility"),
-     ["3.1", "4.1", "6", "6.1", "6.4", "7", "9"]),
+     ["3.1", "4.1", "6", "6.1", "6.3", "7", "9"]),
     (("transparency", "disclosure", "audit", "verification", "record", "claim", "evidence"),
-     ["3.2", "3.3", "4", "5.2", "6.2", "7.1", "7.2"]),
+     ["3.2", "3.3", "4", "5.2", "6.2", "7", "8.1"]),
     (("restriction", "burden", "constraint", "least-restrictive", "secrecy", "protected-investigation"),
-     ["3", "6.1", "6.2", "6.3", "6.4", "7.1", "8", "9"]),
+     ["3", "6.1", "6.2", "6.3", "7", "8", "9"]),
     (("procedure", "adjudication", "forum", "review", "contest", "restoration", "remedy"),
-     ["2.1", "3.4", "6.4", "7.1", "8", "10"]),
+     ["2.1", "3.4", "6.3", "7", "8", "10"]),
     (("participation", "comprehension", "accessibility", "stakeholder", "notice", "affected"),
-     ["2.1", "3.4", "4", "5.2", "6.4", "7.1", "8"]),
+     ["2.1", "3.4", "4", "5.2", "6.3", "7", "8"]),
     (("dependency", "exit", "portability", "interoperability", "retention", "lifecycle", "lock-in"),
-     ["3.1", "3.2", "5", "5.1", "6.1", "7.1", "8", "9"]),
+     ["3.1", "3.2", "5", "5.1", "6.1", "7", "8", "9"]),
     (("robustness", "abuse", "adversarial", "misuse", "correction", "structural"),
-     ["3.1", "3.2", "4.1", "7.1", "7.2", "9"]),
+     ["3.1", "3.2", "4.1", "7", "8.1", "9"]),
 ]
 
 
@@ -218,12 +220,9 @@ class Ch1Cjs3AlignmentAuditor:
         refs: Set[str] = set()
         for match in re.finditer(r"Chapter One\s+§+\s*([0-9]+(?:\.[0-9]+)*)", text):
             refs.add(match.group(1))
-        for match in re.finditer(
-            r"Chapter One basis:\s*((?:§[0-9]+(?:\.[0-9]+)*(?:,\s*)?)+)",
-            text,
-        ):
-            for sec in re.findall(r"§([0-9]+(?:\.[0-9]+)*)", match.group(1)):
-                refs.add(sec)
+        for line in text.splitlines():
+            if "Chapter One basis:" in line:
+                refs.update(re.findall(r"§([0-9]+(?:\.[0-9]+)*)", line))
         if any(
             marker in text
             for marker in (
@@ -235,6 +234,14 @@ class Ch1Cjs3AlignmentAuditor:
         ):
             refs.add("linked")
         return sorted(refs)
+
+    @staticmethod
+    def _basis_line_refs(text: str) -> Set[str]:
+        refs: Set[str] = set()
+        for line in text.splitlines():
+            if "Chapter One basis:" in line:
+                refs.update(re.findall(r"§([0-9]+(?:\.[0-9]+)*)", line))
+        return refs
 
     def _infer_principles(self, cluster: Cluster) -> List[str]:
         if cluster.cluster_id in CLUSTER_PRINCIPLE_MAP:
@@ -268,16 +275,30 @@ class Ch1Cjs3AlignmentAuditor:
                 "line": cluster.start_line,
                 "issue": "No direct or inferred Chapter 01 principle basis found.",
             })
-        elif not cluster.direct_ch1_refs:
-            classifications.add("weak_trace")
-            self.gaps["weak_trace"].append({
-                "cluster_id": cluster.cluster_id,
-                "title": cluster.title,
-                "file": cluster.file,
-                "line": cluster.start_line,
-                "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
-                "inferred_principles": cluster.inferred_principles,
-            })
+        elif cluster.cluster_id != "CJS-3.1":
+            expected = CLUSTER_PRINCIPLE_MAP.get(cluster.cluster_id, [])
+            basis_refs = self._basis_line_refs(cluster.body)
+            missing = [sec for sec in expected if sec not in basis_refs]
+            if expected and missing:
+                classifications.add("weak_trace")
+                self.gaps["weak_trace"].append({
+                    "cluster_id": cluster.cluster_id,
+                    "title": cluster.title,
+                    "file": cluster.file,
+                    "line": cluster.start_line,
+                    "issue": "Chapter One basis line is missing CJS-3.1 cluster-map sections.",
+                    "inferred_principles": missing,
+                })
+            elif not cluster.direct_ch1_refs:
+                classifications.add("weak_trace")
+                self.gaps["weak_trace"].append({
+                    "cluster_id": cluster.cluster_id,
+                    "title": cluster.title,
+                    "file": cluster.file,
+                    "line": cluster.start_line,
+                    "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+                    "inferred_principles": cluster.inferred_principles,
+                })
 
         if cluster.cluster_id.startswith("CJS-3.") and cluster.cluster_id not in {"CJS-3.0", "CJS-3.1"}:
             trace_match = re.search(
@@ -410,7 +431,7 @@ class Ch1Cjs3AlignmentAuditor:
             "|---|---:|---|",
             f"| CJS-3 clusters discovered | {total}/{len(EXPECTED_CLUSTER_IDS)} | {'PASS' if total == len(EXPECTED_CLUSTER_IDS) and inventory_count == 0 else 'REVIEW'} |",
             f"| Clusters with complete guidepost oDef entries | {total - len({g['cluster_id'] for g in self.gaps['op_component_gap']})}/{total} | {'PASS' if op_gap_count == 0 else 'REVIEW'} |",
-            f"| Clusters with direct Chapter 01 citations | {total - weak_trace_count - missing_anchor_count}/{total} | REVIEW |",
+            f"| Clusters with direct Chapter 01 citations | {total - weak_trace_count - missing_anchor_count}/{total} | {'PASS' if weak_trace_count == 0 and missing_anchor_count == 0 else 'REVIEW'} |",
             f"| Clusters with inferred Chapter 01 basis | {total - missing_anchor_count}/{total} | {'PASS' if missing_anchor_count == 0 else 'REVIEW'} |",
             f"| Owner-routing issues | {owner_drift_count} | {'PASS' if owner_drift_count == 0 else 'REVIEW'} |",
             f"| Potential overreach flags | {overreach_count} | {'PASS' if overreach_count == 0 else 'REVIEW'} |",
@@ -419,9 +440,16 @@ class Ch1Cjs3AlignmentAuditor:
             "",
         ]
 
-        if op_gap_count == 0 and missing_anchor_count == 0 and owner_drift_count == 0 and overreach_count == 0:
+        if (
+            op_gap_count == 0
+            and missing_anchor_count == 0
+            and owner_drift_count == 0
+            and overreach_count == 0
+            and weak_trace_count == 0
+            and len(self.gaps["constitutional_frame_gap"]) == 0
+        ):
             lines.append(
-                "CJS-3 is operationally aligned with Chapter 01 at the structural level: all expected clusters were found, all operational rules carry complete guidepost oDef entries (**What it is** / **How to measure and assess** / **What must hold**), and each cluster has an inferred Chapter 01 principle basis. The main audit finding is trace explicitness: most CJS-3 clusters rely on owner-file and subject-matter routing rather than direct Chapter 01 citations."
+                "CJS-3 is operationally aligned with Chapter 01 at the structural level: all expected clusters were found, all operational rules carry complete guidepost oDef entries (**What it is** / **How to measure and assess** / **What must hold**), and each operational cluster's Trace Chapter One basis matches the live CJS-3.1 cluster map."
             )
         else:
             lines.append(
@@ -453,7 +481,7 @@ class Ch1Cjs3AlignmentAuditor:
         if not any(self.gaps.values()):
             lines.append("No findings.")
         else:
-            for category in ["inventory", "op_component_gap", "missing_anchor", "weak_trace", "owner_drift", "overreach"]:
+            for category in ["inventory", "op_component_gap", "missing_anchor", "weak_trace", "constitutional_frame_gap", "owner_drift", "overreach"]:
                 findings = self.gaps[category]
                 if not findings:
                     continue
@@ -475,13 +503,12 @@ class Ch1Cjs3AlignmentAuditor:
         lines.extend([
             "## Remediation Roadmap",
             "",
-            "1. Treat `weak_trace` items as advisory unless the project wants every CJS-3 cluster to cite Chapter 01 directly.",
-            "2. If direct traceability is desired, add concise `Read it with` bullets to high-risk clusters first: CJS-3.14, CJS-3.12, CJS-3.22, CJS-3.7–CJS-3.10.*, CJS-3.16–CJS-3.18.*, and CJS-3.19–CJS-3.15.*.",
-            "3. Keep remediation text limited to routing metadata; do not convert CJS-3 into a competing Chapter 01 or Chapter Five doctrine layer.",
+            "1. Keep each cluster Trace `Chapter One basis:` line aligned with the CJS-3.1 cluster map; do not cite retired Chapter One numbers.",
+            "2. Keep remediation text limited to routing metadata; do not convert CJS-3 into a competing Chapter 01 or Chapter Five doctrine layer.",
             "",
             "## Manual Review Notes",
             "",
-            "High-risk families for human review are CJS-3.11–CJS-3.13, CJS-3.7–CJS-3.10, CJS-3.16–CJS-3.18, and CJS-3.19–CJS-3.15. The automated pass checks structure and trace signals; semantic adequacy should be reviewed against the operative text before making corpus edits.",
+            "This pass checks structure and trace signals. Semantic adequacy of cluster-to-principle mapping is out of scope of ALIGNMENT_AUDIT.",
             "",
         ])
         path.write_text("\n".join(lines))
