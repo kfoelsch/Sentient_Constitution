@@ -31,6 +31,12 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 | Regression bundle plus readability gate | `make regression-full` |
 | Institutional benchmark review | `make best-practices-check` |
 | AI alignment eval (advisory; Layer A/B handoff + willingness) | `make ai-alignment-eval` / `make ai-alignment-eval-evidence` |
+| Four-layer alignment audit (principles · Def.* · oDef · Articles; advisory) | `make alignment-audit` |
+| Chapter One ↔ Chapter Five only | `make ch1-ch5-alignment-audit` |
+| Chapter One ↔ CJS-3 oDef (also in `make regression`) | `make ch1-cjs3-alignment-audit` |
+| Preamble / Chapter One ↔ Chapter Six articles | `make ch1-ch6-alignment-audit` |
+
+`alignment_audit.py` is the operator entry point for a structural alignment pass across principles, Chapter Five **Def.*** entries, CJS-3 **oDef** clusters, and Chapter Six Articles. It writes `alignment_audit_index_<date>.md` plus the three per-layer report / CSV / JSON families under `evidence/<date>/`. Semantic adequacy stays a manual-review item; the full pass is advisory and is not in `make regression`.
 
 `reference_audit.py` builds the **canonical Chapter Six map** from merged `### Article …:` headings in `core_06-06_rights_part_*.md` (falling back across part files as needed). If a citation fails the audit, fix the citing file or the heading—not the audit script.
 

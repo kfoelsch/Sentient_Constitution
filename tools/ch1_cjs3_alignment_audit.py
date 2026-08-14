@@ -5,35 +5,35 @@ Chapter 01 -> CJS-3 Principle Alignment Audit.
 This audit checks CJS-3 operational clusters against Chapter 01 principles:
 - CJS-3 cluster inventory and owner-routing references
 - direct and inferred Chapter 01 principle basis
-- OP-O / OP-E / OP-C completeness for cluster and material sub-rules
-- weak-trace, missing-anchor, owner-drift, overreach, and OP-component findings
+- guidepost oDef completeness (**What it is** / **How to measure and assess** / **What must hold**)
+- weak-trace, missing-anchor, owner-drift, overreach, and guidepost-component findings
 
 Usage:
-  python tools/ch1_cjs3_alignment_audit.py --output-dir evidence/2026-08-09
+  python tools/ch1_cjs3_alignment_audit.py --output-dir evidence/2026-08-13
 """
+
+from __future__ import annotations
 
 import argparse
 import csv
 import json
 import re
+import sys
 from dataclasses import dataclass, field
 from datetime import datetime
 from pathlib import Path
-from typing import Dict, List, Optional, Set
+from typing import Dict, List, Set
 
+_TOOLS = Path(__file__).resolve().parent
+if str(_TOOLS) not in sys.path:
+    sys.path.insert(0, str(_TOOLS))
 
-CJS3_FILES = [
-    "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
-    "corpus_joint_structure/cjs_03o_oversight_operations.md",
-    "corpus_joint_structure/cjs_03p_participation_operations.md",
-    "corpus_joint_structure/cjs_03a_accountability_operations.md",
-    "corpus_joint_structure/cjs_03c_continuity_operations.md",
-    "corpus_joint_structure/cjs_03i_integrative_operations.md",
-]
+from definition_index import collect_ch1_principles, collect_cjs3_clusters  # noqa: E402
 
 
 EXPECTED_CLUSTER_IDS = [
     "CJS-3.0",
+    "CJS-3.1",
     "CJS-3.2",
     "CJS-3.3",
     "CJS-3.4",
@@ -159,6 +159,18 @@ class OperationalRule:
             if not present
         ]
 
+    @property
+    def has_what_it_is(self) -> bool:
+        return self.has_o
+
+    @property
+    def has_how_to_measure(self) -> bool:
+        return self.has_e
+
+    @property
+    def has_what_must_hold(self) -> bool:
+        return self.has_c
+
 
 @dataclass
 class Cluster:
@@ -177,9 +189,9 @@ class Cluster:
 
 
 class Ch1Cjs3AlignmentAuditor:
-    def __init__(self, repo_root: Path):
-        self.repo_root = repo_root
-        self.timestamp = datetime.now().strftime("%Y-%m-%d")
+    def __init__(self, repo_root: Path, timestamp: str | None = None):
+        self.repo_root = Path(repo_root)
+        self.timestamp = timestamp or datetime.now().strftime("%Y-%m-%d")
         self.principles = self._extract_ch1_principles()
         self.clusters: List[Cluster] = []
         self.gaps: Dict[str, List[Dict[str, object]]] = {
@@ -194,67 +206,13 @@ class Ch1Cjs3AlignmentAuditor:
 
     def _extract_ch1_principles(self) -> Dict[str, Dict[str, object]]:
         principles: Dict[str, Dict[str, object]] = {}
-        pattern = re.compile(r"^(#{3,4})\s+(\d+(?:\.\d+)*)(?:\.)?\s+(.+)$")
-        for rel in (
-            "core_00_preamble.md",
-            "core_01_a_values_principles.md",
-            "core_01_b_interaction_interpretation.md",
-            "core_01_c_stewardship_capacity_principles.md",
-        ):
-            path = self.repo_root / rel
-            if not path.is_file():
-                continue
-            for idx, line in enumerate(path.read_text().splitlines(), start=1):
-                match = pattern.match(line)
-                if match:
-                    principles[match.group(2)] = {
-                        "title": match.group(3).strip(),
-                        "line": idx,
-                        "file": rel,
-                    }
+        for record in collect_ch1_principles(self.repo_root):
+            principles[record.section] = {
+                "title": record.title,
+                "line": record.line,
+                "file": record.file,
+            }
         return principles
-
-    def _extract_clusters_from_file(self, rel_path: str) -> List[Cluster]:
-        path = self.repo_root / rel_path
-        lines = path.read_text().splitlines()
-        starts = []
-        cluster_pattern = re.compile(r"^##\s+(CJS-3\.\d+)\s+(.+)$")
-        for idx, line in enumerate(lines):
-            match = cluster_pattern.match(line)
-            if match:
-                starts.append((idx, match.group(1), match.group(2).strip()))
-
-        clusters = []
-        for pos, (start_idx, cluster_id, title) in enumerate(starts):
-            end_idx = starts[pos + 1][0] if pos + 1 < len(starts) else len(lines)
-            body_lines = lines[start_idx + 1:end_idx]
-            clusters.append(
-                Cluster(
-                    cluster_id=cluster_id,
-                    title=title,
-                    file=rel_path,
-                    start_line=start_idx + 1,
-                    end_line=end_idx,
-                    body="\n".join(body_lines),
-                )
-            )
-        return clusters
-
-    def _extract_read_with(self, body: str) -> List[str]:
-        refs: List[str] = []
-        in_block = False
-        for line in body.splitlines():
-            stripped = line.strip()
-            if stripped == "Read it with:":
-                in_block = True
-                continue
-            if in_block:
-                if stripped.startswith("- "):
-                    refs.append(stripped[2:].strip())
-                    continue
-                if stripped:
-                    break
-        return refs
 
     def _extract_direct_ch1_refs(self, text: str) -> List[str]:
         refs: Set[str] = set()
@@ -295,67 +253,6 @@ class Ch1Cjs3AlignmentAuditor:
             for match in re.finditer(pattern, text):
                 refs.add(match.group(0).strip("`"))
         return sorted(refs)
-
-    def _extract_rules(self, cluster: Cluster) -> List[OperationalRule]:
-        lines = cluster.body.splitlines()
-        rules: List[OperationalRule] = []
-        current: Optional[OperationalRule] = None
-        previous_label: Optional[tuple[str, int]] = None
-
-        def is_label(line: str) -> bool:
-            stripped = line.strip()
-            if not stripped:
-                return False
-            if stripped.startswith(
-                (
-                    "- ",
-                    "#",
-                    "|",
-                    "---",
-                    "<",
-                    "```",
-                    "*In plain terms:",
-                    "**Primary ",
-                    "**Secondary ",
-                    "**Tertiary ",
-                    "**In scope:",
-                    "**Out of scope:",
-                    "**Depends on:",
-                )
-            ):
-                return False
-            if re.match(r"^\d+\.\s", stripped):
-                return False
-            if stripped in {"Read it with:", "Role-definition reading rule", "Competency gate and standing interface"}:
-                return True
-            if stripped.endswith(":"):
-                return False
-            return True
-
-        for offset, line in enumerate(lines, start=cluster.start_line + 1):
-            stripped = line.strip()
-            if is_label(stripped):
-                previous_label = (stripped, offset)
-                current = None
-                continue
-            if stripped in {
-                "- **What it is**",
-                "- **How to measure and assess**",
-                "- **What must hold**",
-            } or stripped.startswith("- OP-"):
-                if current is None:
-                    label, label_line = previous_label or ("Unlabeled operational rule", offset)
-                    current = OperationalRule(label=label, line=label_line)
-                    rules.append(current)
-                if stripped == "- **What it is**" or stripped.startswith("- OP-O:"):
-                    current.has_o = True
-                elif stripped == "- **How to measure and assess**" or stripped.startswith("- OP-E:"):
-                    current.has_e = True
-                elif stripped == "- **What must hold**" or stripped.startswith("- OP-C:"):
-                    current.has_c = True
-                if current.has_o and current.has_e and current.has_c:
-                    current = None
-        return rules
 
     def _classify_cluster(self, cluster: Cluster) -> List[str]:
         classifications: Set[str] = set()
@@ -443,8 +340,28 @@ class Ch1Cjs3AlignmentAuditor:
         return sorted(classifications)
 
     def run(self) -> None:
-        for rel_path in CJS3_FILES:
-            self.clusters.extend(self._extract_clusters_from_file(rel_path))
+        for src in collect_cjs3_clusters(self.repo_root):
+            self.clusters.append(
+                Cluster(
+                    cluster_id=src.cluster_id,
+                    title=src.title,
+                    file=src.file,
+                    start_line=src.start_line,
+                    end_line=src.end_line,
+                    body=src.body,
+                    read_with=list(src.read_with),
+                    rules=[
+                        OperationalRule(
+                            label=rule.label,
+                            line=rule.line,
+                            has_o=rule.has_op_o,
+                            has_e=rule.has_op_e,
+                            has_c=rule.has_op_c,
+                        )
+                        for rule in src.rules
+                    ],
+                )
+            )
 
         discovered = {cluster.cluster_id for cluster in self.clusters}
         for expected in EXPECTED_CLUSTER_IDS:
@@ -455,8 +372,6 @@ class Ch1Cjs3AlignmentAuditor:
                 })
         for cluster in self.clusters:
             if cluster.cluster_id not in EXPECTED_CLUSTER_IDS:
-                if cluster.cluster_id == "CJS-3.1":
-                    continue
                 self.gaps["inventory"].append({
                     "cluster_id": cluster.cluster_id,
                     "title": cluster.title,
@@ -466,11 +381,9 @@ class Ch1Cjs3AlignmentAuditor:
                 })
 
         for cluster in self.clusters:
-            cluster.read_with = self._extract_read_with(cluster.body)
             cluster.direct_ch1_refs = self._extract_direct_ch1_refs(cluster.body)
             cluster.inferred_principles = self._infer_principles(cluster)
             cluster.owner_refs = self._extract_owner_refs(cluster.body)
-            cluster.rules = self._extract_rules(cluster)
             cluster.classifications = self._classify_cluster(cluster)
 
     def write_report(self, output_dir: Path) -> Path:
@@ -495,7 +408,7 @@ class Ch1Cjs3AlignmentAuditor:
             "",
             "| Metric | Result | Status |",
             "|---|---:|---|",
-            f"| CJS-3 clusters discovered | {total}/23 | {'PASS' if total == 23 and inventory_count == 0 else 'REVIEW'} |",
+            f"| CJS-3 clusters discovered | {total}/{len(EXPECTED_CLUSTER_IDS)} | {'PASS' if total == len(EXPECTED_CLUSTER_IDS) and inventory_count == 0 else 'REVIEW'} |",
             f"| Clusters with complete guidepost oDef entries | {total - len({g['cluster_id'] for g in self.gaps['op_component_gap']})}/{total} | {'PASS' if op_gap_count == 0 else 'REVIEW'} |",
             f"| Clusters with direct Chapter 01 citations | {total - weak_trace_count - missing_anchor_count}/{total} | REVIEW |",
             f"| Clusters with inferred Chapter 01 basis | {total - missing_anchor_count}/{total} | {'PASS' if missing_anchor_count == 0 else 'REVIEW'} |",
@@ -631,6 +544,9 @@ class Ch1Cjs3AlignmentAuditor:
                         {
                             "label": rule.label,
                             "line": rule.line,
+                            "has_what_it_is": rule.has_what_it_is,
+                            "has_how_to_measure": rule.has_how_to_measure,
+                            "has_what_must_hold": rule.has_what_must_hold,
                             "has_op_o": rule.has_o,
                             "has_op_e": rule.has_e,
                             "has_op_c": rule.has_c,
@@ -657,10 +573,15 @@ def main() -> None:
         default=Path("evidence") / datetime.now().strftime("%Y-%m-%d"),
         help="Output directory for audit artifacts",
     )
+    parser.add_argument(
+        "--date",
+        default=datetime.now().strftime("%Y-%m-%d"),
+        help="Evidence date stamp, YYYY-MM-DD.",
+    )
     args = parser.parse_args()
 
     args.output_dir.mkdir(parents=True, exist_ok=True)
-    auditor = Ch1Cjs3AlignmentAuditor(args.repo_root)
+    auditor = Ch1Cjs3AlignmentAuditor(args.repo_root, timestamp=args.date)
     auditor.run()
     report = auditor.write_report(args.output_dir)
     matrix = auditor.write_matrix(args.output_dir)

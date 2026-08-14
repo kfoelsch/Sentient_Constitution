@@ -263,8 +263,8 @@ def run_core_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
             line=0,
             message=f"Missing components: {', '.join(gap.get('missing_components', []))}",
             severity="error",
-            expected_layer="complete O/E/C in Chapter Five",
-            action="complete O/E/C",
+            expected_layer="complete What it is / How to measure and assess / What must hold in Chapter Five",
+            action="complete guidepost components",
         )
     for gap in auditor.cluster_gaps:
         _add_finding(

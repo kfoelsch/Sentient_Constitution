@@ -49,6 +49,10 @@ Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/
 | `ch5-cross-file-link-audit` | `tools/ch5_cross_file_link_audit.py` | — | Promote when clean |
 | `ci-cjs-relocation-audit` | `tools/ci_cjs_relocation_audit.py` | — | Relocation drift evidence |
 | `definition-appropriateness-audit` | `tools/definition_appropriateness_audit.py` | DEF-APPROPRIATENESS | Unified core vs CJS-3 placement; advisory by default; `--strict` to block |
+| `alignment-audit` | `tools/alignment_audit.py` | — | Combined principles · Def.* · oDef · Articles index; writes dated evidence; not in `make regression` |
+| `ch1-ch5-alignment-audit` | `tools/ch1_ch5_alignment_audit.py` | CORE-TRACE | Chapter One D/A/C widgets ↔ Chapter Five guideposts; oDef backlinks |
+| `ch1-cjs3-alignment-audit` | `tools/ch1_cjs3_alignment_audit.py` | CJS-TRACE | Also in `make regression`; Chapter One ↔ CJS-3 oDef clusters |
+| `ch1-ch6-alignment-audit` | `tools/ch1_ch6_alignment_audit.py` | — | Preamble / Chapter One ↔ Chapter Six articles, including Def.* and oDef cites |
 
 ### Definition appropriateness finding taxonomy (`definition-appropriateness-audit`)
 
@@ -58,7 +62,7 @@ Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/
 | `CORE-GRAVITY` | Chapter Five | Institutional or procedural machinery absorbed into definitions |
 | `CORE-TRACE` | Chapter One ↔ Five | Principle anchors and complete O/M/A/C traceability |
 | `CJS-PLACEMENT` | CJS-3 | Operational clusters only in CJS-3 (not CJS-1) |
-| `CJS-TRACE` | Chapter One ↔ CJS-3 | Cluster trace metadata and OP triad completeness |
+| `CJS-TRACE` | Chapter One ↔ CJS-3 | Cluster trace metadata and guidepost triad completeness |
 | `CJS-CONSTITUTIONAL-CREEP` | CJS-3 | OP rules matching Ch5 labels without Chapter Five pointers |
 | `IMPL-COMPETING-GLOSS` | CS / CI / CF | O/M/A/C-shaped gloss outside Chapter Five |
 | `IMPL-RELOCATION` | CI (operative body) | Cross-layer material that may belong in CJS-3 or Chapter Five; CS/CF owner layers use integration maps and `ci-cjs-relocation-audit` |

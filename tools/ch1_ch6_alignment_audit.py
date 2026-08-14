@@ -15,12 +15,24 @@ import json
 import re
 from dataclasses import dataclass, field
 from pathlib import Path, PurePosixPath
+import sys
 from typing import Iterable
+
+_TOOLS = Path(__file__).resolve().parent
+if str(_TOOLS) not in sys.path:
+    sys.path.insert(0, str(_TOOLS))
+
+from definition_index import (  # noqa: E402
+    collect_ch1_principles,
+    extract_ch5_term_cites,
+    extract_odef_cites,
+)
 
 
 CH0_FILE = "core_00_preamble.md"
 CH1_FILES = [
     "core_01_a_values_principles.md",
+    "core_01_b_interaction_interpretation.md",
     "core_01_c_stewardship_capacity_principles.md",
 ]
 CH6_FILES = [
@@ -258,7 +270,6 @@ OVERREACH_PATTERNS = [
 LOCAL_LINK_RE = re.compile(r"\[[^\]]+\]\(([^)\s]+)(?:\s+\"[^\"]*\")?\)")
 HTML_ANCHOR_RE = re.compile(r"<a\s+id=\"([^\"]+)\"")
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*$")
-PRINCIPLE_RE = re.compile(r"^(#{3,4})\s+(\d+(?:\.\d+)*)(?:\.)?\s+(.+?)\s*$")
 ARTICLE_RE = re.compile(r"^(###|####)\s+Article\s+([IVXLCDM]+(?:-[A-Z])?):\s+(.+?)\s*$")
 
 
@@ -290,6 +301,8 @@ class Article:
     measurement_refs: list[str] = field(default_factory=list)
     ch00_section3_signals: list[str] = field(default_factory=list)
     owner_refs: list[str] = field(default_factory=list)
+    ch5_refs: list[str] = field(default_factory=list)
+    odef_refs: list[str] = field(default_factory=list)
     classifications: list[str] = field(default_factory=list)
 
 
@@ -358,27 +371,20 @@ def article_family(article_id: str) -> str:
 
 def extract_principles(root: Path) -> list[Principle]:
     principles: list[Principle] = []
-    for rel_path in CH1_FILES:
-        lines = read_text(root, rel_path).splitlines()
-        starts: list[tuple[int, str, str, int]] = []
-        for idx, line in enumerate(lines):
-            match = PRINCIPLE_RE.match(line.strip())
-            if match:
-                starts.append((idx, match.group(2), match.group(3).strip(), len(match.group(1))))
-        for pos, (start_idx, section, title, _level) in enumerate(starts):
-            end_idx = starts[pos + 1][0] if pos + 1 < len(starts) else len(lines)
-            body = "\n".join(lines[start_idx + 1:end_idx])
-            ch6_refs = sorted(set(re.findall(r"core_06-06_rights_part_[a-d]\.md#[a-z0-9-]+", body)))
-            principles.append(
-                Principle(
-                    section=section,
-                    title=title,
-                    file=rel_path,
-                    line=start_idx + 1,
-                    body=body,
-                    ch6_refs=ch6_refs,
-                )
+    for record in collect_ch1_principles(root):
+        if record.file not in {CH0_FILE, *CH1_FILES}:
+            continue
+        ch6_refs = sorted(set(re.findall(r"core_06-06_rights_part_[a-d]\.md#[a-z0-9-]+", record.body)))
+        principles.append(
+            Principle(
+                section=record.section,
+                title=record.title,
+                file=record.file,
+                line=record.line,
+                body=record.body,
+                ch6_refs=ch6_refs,
             )
+        )
     return principles
 
 
@@ -417,7 +423,14 @@ def extract_direct_ch1_refs(text: str) -> list[str]:
         label = match.group(1)
         section_match = re.search(r"(?:§|Chapter One\s+§)?\s*([0-9]+(?:\.[0-9]+)*)", label)
         refs.add(section_match.group(1) if section_match else "linked")
-    if "core_01_a_values_principles.md" in text or "core_01_c_stewardship_capacity_principles.md" in text:
+    if any(
+        name in text
+        for name in (
+            "core_01_a_values_principles.md",
+            "core_01_b_interaction_interpretation.md",
+            "core_01_c_stewardship_capacity_principles.md",
+        )
+    ):
         refs.add("linked")
     return sorted(refs, key=sort_ref)
 
@@ -602,6 +615,8 @@ class Ch1Ch6AlignmentAuditor:
         ]
         article.ch00_section3_signals = ch00_section3_signals_for(text)
         article.owner_refs = collect_owner_refs(text)
+        article.ch5_refs = extract_ch5_term_cites(text)
+        article.odef_refs = extract_odef_cites(text)
 
         classifications: set[str] = set()
         if not article.direct_ch1_refs and not article.inferred_ch1_basis:
@@ -795,8 +810,8 @@ class Ch1Ch6AlignmentAuditor:
             "",
             "## Chapter 6 Article Traceability",
             "",
-            "| Article | Title | File | Chapter 1 basis | Inferred basis | Chapter 0 frame | Measurements | Status |",
-            "|---|---|---|---|---|---|---|---|",
+            "| Article | Title | File | Chapter 1 basis | Inferred basis | Chapter 0 frame | Def.* | oDef | Measurements | Status |",
+            "|---|---|---|---|---|---|---|---|---|---|",
         ])
         for article in self.articles:
             ch0_frame = ", ".join(
@@ -807,7 +822,7 @@ class Ch1Ch6AlignmentAuditor:
                 ])
             ) or "None"
             lines.append(
-                f"| {article.article_id} | {article.title} | `{article.file}:{article.line}` | {', '.join(article.direct_ch1_refs) or 'None'} | {', '.join(article.inferred_ch1_basis) or 'None'} | {ch0_frame} | {', '.join(article.expected_measurements) or 'None'} | {', '.join(article.classifications)} |"
+                f"| {article.article_id} | {article.title} | `{article.file}:{article.line}` | {', '.join(article.direct_ch1_refs) or 'None'} | {', '.join(article.inferred_ch1_basis) or 'None'} | {ch0_frame} | {', '.join(article.ch5_refs) or 'None'} | {', '.join(article.odef_refs) or 'None'} | {', '.join(article.expected_measurements) or 'None'} | {', '.join(article.classifications)} |"
             )
 
         lines.extend([
@@ -887,6 +902,8 @@ class Ch1Ch6AlignmentAuditor:
                     "aims",
                     "material_signals",
                     "measurement_families",
+                    "ch5_refs",
+                    "odef_refs",
                     "owner_refs",
                     "status",
                 ],
@@ -905,6 +922,8 @@ class Ch1Ch6AlignmentAuditor:
                     "aims": "; ".join(article.aims),
                     "material_signals": "; ".join(article.material_signals),
                     "measurement_families": "; ".join(article.expected_measurements),
+                    "ch5_refs": "; ".join(article.ch5_refs),
+                    "odef_refs": "; ".join(article.odef_refs),
                     "owner_refs": "; ".join(article.owner_refs),
                     "status": "; ".join(article.classifications),
                 })
