@@ -7,6 +7,8 @@
 
 Interactive list: [constitution-improvements](/Users/kfoelsch/.cursor/projects/Users-kfoelsch-Documents-Sentient-Constitution/canvases/constitution-improvements.canvas.tsx)
 
+**Implementation cut (2026-08-15):** Band A is in the instrument. Band B is in the instrument (B2 / B4 / B5 were operator-choice items that this edition accepted). Band C remains held for [EXPERT_TOR.md](EXPERT_TOR.md).
+
 ---
 
 ## Do not put on the work queue
@@ -23,79 +25,64 @@ These are real comparative losses. They are **not** viable corpus patches:
 
 ---
 
-## Band A — close stated holes (next edition, low doctrinal risk)
+## Band A — close stated holes (done this edition)
 
 These match gaps the corpus already names, or comprehension hazards the audit flagged.
 
-### A1. Enumerate a Sentience-Status Adjudication Record schema
+### A1. Enumerate a Sentience-Status Adjudication Record schema — **done**
 
-**Audit:** Floor binds; operational record is thin.  
-**Already true:** Chapter Five defines the record; [Chapter Eleven §5](../../core_11-11_forum.md#5-escalation-and-certification) lists minimum fields; [Chapter Sixteen](../../core_16-16_incorporation.md) says this edition does **not** yet list a dedicated schema among implementation files.  
-**Do:** Add an incorporated implementation file (JSON schema + short protocol) under Chapter Sixteen enumeration. Fields already required: who was reviewed, status found or left contested, evidence, forum route, end-dates/review triggers, reopening path.  
+**Homes:** [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_sentience_status_record.md); [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json); enumerated in [Chapter Sixteen §2](../../core_16-16_incorporation.md#2-custody-editions-and-operative-effect); finder note on [`corpus_forum.md`](../../corpus_forum.md); **CF-15.1** points without restating fields.  
 **Do not:** Relocate Article V-E into implementation text, or let the schema decide who counts.
 
-### A2. Anti-substitution: certification and LEQU cannot decide sentience
+### A2. Anti-substitution: certification and LEQU cannot decide sentience — **done**
 
-**Audit:** Certification ≠ standing is a strength and a comprehension hazard.  
-**Already true:** [Chapter Seven §15](../../core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing); Chapter Eight standing measurement does not decide sentience.  
-**Do:** One boxed operative sentence at the Article V-E / Article XVIII junction (and the matching steward-door lockstep) that a certification badge, LEQU score, substrate label, or product classification is **not** a sentience-status determination.  
+**Homes:** Boxed operative sentence at [Article V-E](../../core_06-06_rights_part_b.md#anti-substitution-sentience-status) and [Article XVIII-A](../../core_06-06_rights_part_c.md#anti-substitution-sentience-status-xviii); steward-door lockstep on the Chapter Seven and Chapter Eight operative steward statements and [STEWARD_ENTRY_DOORS.md](../../implementation/STEWARD_ENTRY_DOORS.md).  
 **Do not:** Restate Chapter Eight mechanics inside Chapter Six.
 
-### A3. Ladder escalation — no permanent welfare parking
+### A3. Ladder escalation — no permanent welfare parking — **done**
 
-**Audit:** Elevated Communicative Life can harden into a semi-person underclass; ordinary animals stay at welfare unless contested.  
-**Already true:** Treating Elevated as a “permanent moral underclass” is already a primary failure in Def.P1.  
-**Do:** Add a **duty to escalate**: where communicative/cognitive indicators are materially implicated, the operator/steward must open Sentience Status Adjudication (Contested default) rather than keep the entity at Animal Life or Elevated indefinitely. Time-bound review, not a species list.  
+**Homes:** [Article I-A](../../core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity); Def.P1 [Animal Life](../../core_05_band_participation.md#animal-life-constitutional) and [Elevated Communicative Life](../../core_05_band_participation.md#elevated-communicative-life-constitutional) secondary-failure parking rules. Time-bound review, not a species list. Escalation opens Article V-E / Contested-Sentient default inclusion; it does not itself affirm Sentient status.  
 **Do not:** Auto-promote every animal to Sentient.
 
-### A4. Opening filter for contested status (over-inclusion guard)
+### A4. Opening filter for contested status (over-inclusion guard) — **done**
 
-**Audit:** Synthetic systems could claim contested status and force default inclusion.  
-**Already true:** Withholder bears Chapter Four burden once adjudication is live; paper taxonomy does not suffice.  
-**Do:** A **filing-integrity** gate to *open* a status case (credible indicators under Sentience Evaluation / indicator integrity) without reversing default inclusion *after* the case is open. Distinguish crank filings from genuine uncertainty.  
+**Homes:** [Article V-E filing integrity](../../core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor); Def.P1 Contested-Sentient Life; [Chapter Eleven §5](../../core_11-11_forum.md#5-escalation-and-certification) hook. Declining a crank filing is not a withholding determination.  
 **Do not:** Let the opening filter become a withholding device.
 
-### A5. Reader-path accessibility (process support)
+### A5. Reader-path accessibility (process support) — **done**
 
-**Audit:** Operability Worse — reading cost can impair participation and timeliness.  
-**Do:** A one-page public map of the Key Practical Process Pipelines (certification → standing measurement → forums → remedy) that cannot narrow core; keep CJS/CI/CF off the default human path.  
+**Home:** [`implementation/PROCESS_PIPELINES_READER.md`](../../implementation/PROCESS_PIPELINES_READER.md), linked from [README.md](../../README.md). Process support; cannot narrow core.  
 **Do not:** Move owner duties into the map, or treat the map as compliance.
 
 ---
 
-## Band B — close comparative gaps without changing the instrument’s kind
+## Band B — close comparative gaps without changing the instrument’s kind — **done this edition**
 
-Viable if operators accept the design. Each needs a Chapter Fourteen expansion check if it raises a Rights Floor.
+Viable if operators accept the design. This edition accepted B1–B5. Each still needs a Chapter Fourteen expansion check if a later change raises a Rights Floor.
 
-### B1. Adopter-numeric gate under Article I-D
+### B1. Adopter-numeric gate under Article I-D — **done**
 
-**Audit:** Worse than *Neubauer* / ICJ 23 July 2025 on climate numbers; I-B has no standalone cap.  
-**Do:** Where Article I-D heightened scrutiny applies, the [instrument of adoption](../../core_13-15_amendment.md#102-instrument-of-adoption) (or incorporated implementation) **must name** reduction, cap, or interruption measures proportionate to the pathway — including climate-system harm. Core still does not pick the number. Failure to name measures is non-compliant continuation, not a missing Paris article.  
+**Homes:** [Article I-D named measures](../../core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity); [Chapter Fifteen §10.2](../../core_13-15_amendment.md#102-instrument-of-adoption). Core still does not pick the number.  
 **Do not:** Write 1.5°C or a global carbon budget into Chapter Six.
 
-### B2. Representative standing for natural systems (Whanganui-lite)
+### B2. Representative standing for natural systems (Whanganui-lite) — **done**
 
-**Audit:** No named guardian; no ecosystem-as-party; Environment forums remain sentient-mediated.  
-**Already true:** Environment forums hear ecological merits; Natural Systems Standing requires weighing own interests; Chapter Nine already names ecological subjects in remedy-cost rules.  
-**Do:** A filing rule: an Environment forum case protecting Natural Systems Standing may be opened by a published **representative** (affected community, indigenous continuity holder, or designated guardian) in the system’s own interest — not only as a sentient’s private harm. Appointment/recusal in `corpus_forum`, not a second Nature constitution.  
+**Homes:** [Chapter Eleven §4.4 Representative filing](../../core_11-11_forum.md#44-environment-forums); **CF-5.3** in [`corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md`](../../corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md).  
 **Do not:** Declare Nature a Chapter Six sentient or copy Ecuador Arts. 71–74 unless C1 is deliberately chosen.
 
-### B3. FPIC non-shrinkage
+### B3. FPIC non-shrinkage — **done**
 
-**Audit:** Indigenous Continuity is weaker than UNDRIP / ILO 169 on land and FPIC; routing does not decide title (intentional non-relocation).  
-**Do:** An anti-evasion sentence: Indigenous Continuity and Chapter Sixteen incorporation **must not be used to shrink** land, consultation, or FPIC duties the adopter already bears under its own law or binding instruments. Keep title adjudication out of this Constitution.  
+**Homes:** [Article V-B](../../core_06-06_rights_part_b.md#article-v-b-nondiscrimination); [Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority). Title adjudication stays out.  
 **Do not:** Invent a land-claims forum in Chapter Eleven.
 
-### B4. Forum independence and appointment floor
+### B4. Forum independence and appointment floor — **done**
 
-**Audit:** Paper independence; real benches depend on adopter staffing. Chapter Nine §9 already requires funding, staffing, independence, and succession.  
-**Do:** A Chapter Twelve / Chapter Eleven floor that Integrity, Constitutional, Environment, and Technical (status) forums must use **published, contested, rotatable appointment** (or an equivalent independence check), with under-appointment treated as a Chapter Nine §9 failure — not an implementation leftover.  
+**Homes:** [Chapter Twelve §1.2](../../core_12-12_governance.md#12-eligibility-contested-selection-and-democratic-minimums); [Chapter Eleven §1](../../core_11-11_forum.md#1-purpose-and-role). Under-appointment is a Chapter Nine §9 failure.  
 **Do not:** Mandate one global polity or one appointment method.
 
-### B5. Polity-adopter ratification minimum
+### B5. Polity-adopter ratification minimum — **done**
 
-**Audit:** Who ratifies? Plural mechanisms; no demos.  
-**Do:** When the adopter is a **jurisdiction or polity**, Chapter Fifteen should require a published affected-sentient participation check (election, sortition, or federated ratification already listed) — not silent board adoption dressed as constitutional. Organizations/system operators keep the existing deliberate-adoption path.  
+**Home:** [Chapter Fifteen §10.1](../../core_13-15_amendment.md#101-deliberate-adoption). Organizations keep the existing deliberate-adoption path.  
 **Do not:** Require “we the people of Earth.”
 
 ---
@@ -112,13 +99,13 @@ Not defects. Do not schedule until [EXPERT_TOR.md](EXPERT_TOR.md) reviewers spea
 
 ---
 
-## Suggested order
+## Suggested order (historical)
 
-1. A1 schema (already admitted missing)  
-2. A2 anti-substitution (cheap, high confusion-reduction)  
-3. A3 + A4 together (ladder integrity: under-inclusion and over-inclusion)  
-4. A5 reader path (no core_* required)  
-5. B1 adopter-numeric gate (closes the climate-law hole without a number in core)  
-6. B3 FPIC non-shrinkage (one sentence, high comparative value)  
-7. B2 / B4 / B5 only after operator choice  
-8. C1–C3 only after independent review
+1. A1 schema (already admitted missing) — **done**  
+2. A2 anti-substitution (cheap, high confusion-reduction) — **done**  
+3. A3 + A4 together (ladder integrity: under-inclusion and over-inclusion) — **done**  
+4. A5 reader path (no core_* required) — **done**  
+5. B1 adopter-numeric gate (closes the climate-law hole without a number in core) — **done**  
+6. B3 FPIC non-shrinkage (one sentence, high comparative value) — **done**  
+7. B2 / B4 / B5 only after operator choice — **accepted this edition**  
+8. C1–C3 only after independent review — **still held**

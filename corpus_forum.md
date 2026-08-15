@@ -99,6 +99,8 @@
 <!-- END GENERATED FAMILY INDEX -->
 </details>
 
+**Dedicated record protocol (not a CF family):** the [Sentience-Status Adjudication Record](corpus_forum/cf_sentience_status_record.md) is the Chapter Sixteen–enumerated status-file format. It implements, and does not narrow, **Article V-E**. It is not a substitute for **CF-15**.
+
 **What to do now:** Continue to the next file. It states this layer’s boundary: what it owns here, and what remains in the Constitution or in the other implementation folders.
 
 ---

@@ -14,6 +14,7 @@
     "chapter_eleven_special_route",
     "indicators_and_expert_evidence",
     "interim_contested_sentient_life_treatment",
+    "review_trigger",
     "narrowing",
     "reopening_evidence_standard"
   ],
@@ -115,6 +116,11 @@
           "minLength": 1
         }
       }
+    },
+    "review_trigger": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Declared end-date or mandatory review trigger for this posture. Time-bound review, not a species list. Narrowing also carries expected_closure_timeline."
     },
     "narrowing": {
       "type": "object",

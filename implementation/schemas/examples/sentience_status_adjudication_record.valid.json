@@ -1,0 +1,31 @@
+{
+  "schema_id": "sentience_status_adjudication_record",
+  "schema_version": "1",
+  "recorded_at": "2026-08-15T12:00:00-05:00",
+  "case_id": "SSA-2026-001",
+  "subject_entity": {
+    "id": "entity-whale-pod-north",
+    "label": "North-range communicative cetacean group under review"
+  },
+  "status_determination_or_live_contested_posture": "still contested",
+  "lead_forum_family": "Technical Forum Domains",
+  "chapter_eleven_special_route": "none",
+  "indicators_and_expert_evidence": {
+    "indicators": "Material communicative and cognitive indicators recorded under Sentience Evaluation; not a species list.",
+    "expert_evidence": "Independent specialist chamber note; material uncertainty remains.",
+    "material_uncertainty_noted": "Taxonomy unsettled as to Sentient vs Elevated Communicative Life. Unresolved uncertainty alone cannot withhold Chapter Six protection."
+  },
+  "interim_contested_sentient_life_treatment": {
+    "status_remains_live": true,
+    "treatment": "Contested-Sentient Life plus Article V-E default inclusion pending adjudication."
+  },
+  "review_trigger": "Mandatory review within 180 days or on new verified evidence, whichever is sooner.",
+  "narrowing": {
+    "expected_closure_timeline": null,
+    "periodic_review_trigger": null
+  },
+  "reopening_evidence_standard": {
+    "standard": "new verified evidence",
+    "calendar_only_reopening": "forbidden"
+  }
+}

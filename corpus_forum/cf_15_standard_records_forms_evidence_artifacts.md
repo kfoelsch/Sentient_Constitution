@@ -86,6 +86,7 @@ Each adopting entity must maintain standard templates or equivalent structured r
 - continuity activation record;
 - restoration and reconciliation record;
 - post-incident review record.
+- [Sentience-Status Adjudication Record](cf_sentience_status_record.md) when **Article V-E** (*Sentience-Status Adjudication Floor*) status adjudication runs — format in that protocol, not restated here.
 
 Adopting systems may combine compatible forms, but must not merge records in a way that hides who acted, what authority was used, what facts or constraints mattered, what review path remains, or which forum family is responsible.
 

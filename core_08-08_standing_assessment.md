@@ -47,7 +47,7 @@
 Chapter Eight owns the verified factual record for Question 1 and the standing measurement for Question 2. Question 3 continues in Chapter Nine.
 
 <a id="operative-steward-statement-standing"></a>
-> **Operative steward statement.** **Owner:** Chapter Eight (Questions 1–2: verified record and measurement). Chapter Nine (Question 3: effects). Forums supervise; they do not replace measurement. **Forbidden move:** Do not treat a claimed effect as standing. Do not wait for a filed case. Do not fold help and harm into one net score. Do not treat model internals or privacy as a standing-measurement exemption. **Clock:** Do not wait for a filed case. Open or correct the Chapter Eight record now. Keep Contribution and Violation records inspectable. Log the CS-4 §10 set.
+> **Operative steward statement.** **Owner:** Chapter Eight (Questions 1–2: verified record and measurement). Chapter Nine (Question 3: effects). Forums supervise; they do not replace measurement. **Forbidden move:** Do not treat a claimed effect as standing. Do not wait for a filed case. Do not fold help and harm into one net score. Do not treat model internals or privacy as a standing-measurement exemption. Do not treat a certification badge or LEQU score as sentience status. **Clock:** Do not wait for a filed case. Open or correct the Chapter Eight record now. Keep Contribution and Violation records inspectable. Log the CS-4 §10 set.
 
 <a id="2-purpose-and-role"></a>
 <a id="11-two-question-evaluation-discipline"></a>

@@ -265,7 +265,9 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 - **Non-conflation:** This Article states the Rights-Floor *adjudication* right.
   - Operational procedure — institutional design, appointment mechanics, filing conditions, and sequencing — routes to **Chapter Eleven** ([Technical Forum Domains](core_11-11_forum.md#42-technical-forum-domains) as default lead under the [§5 Sentience-status adjudication hook](core_11-11_forum.md#5-escalation-and-certification)) and to implementation text under the **Chapter Sixteen** incorporation discipline.
   - That implementation text must not be read to narrow this floor.
-  - System Alignment Certification, LEQU scores, substrate labels, and product classifications are not sentience-status determinations.
+
+<a id="anti-substitution-sentience-status"></a>
+> **Anti-substitution (operative).** A certification badge, LEQU score, substrate label, or product classification is **not** a sentience-status determination. Who-counts routes through this Article, [**Def.P1**](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), and [Chapter Eleven §5](core_11-11_forum.md#5-escalation-and-certification) — not through System Alignment Certification, standing scores, or operational labels. Read with [Article XVIII-A](core_06-06_rights_part_c.md#article-xviii-a-standing-distinction).
 
 #### Article V-F: Developing Sentients, Best-Interest, and Graduated Capability
 

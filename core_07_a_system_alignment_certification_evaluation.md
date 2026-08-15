@@ -28,7 +28,7 @@
 Chapter Seven, **Part A**, is the constitutional owner of **system alignment certification evaluation**. Record contents, forum supervision, contest paths, and the standing bridge are in **[Part B](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)**.
 
 <a id="operative-steward-statement-sac"></a>
-> **Operative steward statement.** **Owner:** Chapter Seven (forum-supervised SAC). Principle-layer lens: Chapter One §14. SAC is one especially large audit process under Article XV / Auditability — not the only audit. **Forbidden move:** Do not treat unit tests, privacy checklists, or local aligned labels as certification. Do not skip the challenge window. Do not invent a fifth audit home. **Clock:** Open or restore a contestable Chapter Seven path, including a stakeholder challenge window, before the aligned claim.
+> **Operative steward statement.** **Owner:** Chapter Seven (forum-supervised SAC). Principle-layer lens: Chapter One §14. SAC is one especially large audit process under Article XV / Auditability — not the only audit. **Forbidden move:** Do not treat unit tests, privacy checklists, or local aligned labels as certification. Do not skip the challenge window. Do not invent a fifth audit home. Do not treat a certification badge or LEQU score as sentience status. **Clock:** Open or restore a contestable Chapter Seven path, including a stakeholder challenge window, before the aligned claim.
 
 ### 1. Purpose and Role
 

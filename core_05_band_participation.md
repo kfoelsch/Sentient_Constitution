@@ -2682,7 +2682,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 - Owner floor: [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
 - Process owner: [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional).
 - Venue / minimum fields: [Chapter Eleven §5](core_11-11_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook).
-- Incorporation: [Chapter Sixteen](core_16-16_incorporation.md) (*fuller record schema when adopted*).
+- Incorporation: [Chapter Sixteen](core_16-16_incorporation.md) (*dedicated record format enumerated this edition*).
 - Cluster component: [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
 - Read with: [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Forum Case Record](core_05_band_accountability.md#forum-case-record), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), and [Standing Record](core_05_band_accountability.md#standing-record-chapter-six).
 
@@ -2699,6 +2699,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - the lead forum family and any Chapter Eleven–warranted special route;
     - the indicators and expert evidence relied on, with material uncertainty noted;
     - interim [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) treatment while status remains live;
+    - the declared end-date or mandatory review trigger for this posture;
     - any narrowing's declared expected-closure timeline and mandatory periodic-review trigger; and
     - the reopening evidence standard — new verified evidence, not calendar-only reopening.
   - This edition lists [`corpus_forum/cf_sentience_status_record.md`](corpus_forum/cf_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated record format under [Chapter Sixteen](core_16-16_incorporation.md). They implement, and do **not** narrow, **Article V-E** (*Sentience-Status Adjudication Floor*). The minimum fields in [Chapter Eleven §5](core_11-11_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook) still govern record contents. That hook is **not** a full appointments or filing statute.
