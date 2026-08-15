@@ -145,6 +145,7 @@ Optimizing on local or immediate harm alone while creating larger systemic or ag
 Harm minimization selects among options that already clear those floors — it does not trade below them.
 
 <a id="611-proportionality"></a>
+<a id="613-proportionality"></a>
 ##### 6.1.3 Proportionality
 
 <details>
@@ -234,6 +235,7 @@ Constitutional restrictions must satisfy all of the following:
 
 <a id="631-rights-collision-decision-test"></a>
 <a id="63-rights-collision-procedure"></a>
+<a id="615-rights-collision-decision-test"></a>
 **Decision record and reconstructability.** Where the tradeoff stack (§6.1.1–§6.1.5) is applied to a material restriction or rights collision, the resolution must produce a **documented and auditable decision record** with sufficient clarity for affected parties and reviewers to understand, contest, and independently reconstruct the decision. At minimum, the record must include:
 - **Operative rule and predicates:** the constitutional provision relied on and the material facts that triggered it.
 - **Alternatives considered:** materially feasible alternatives, including non-action, with explicit reasons for rejection — satisfying the alternative-analysis requirement in [§6.1.1](#611-necessity).
@@ -397,6 +399,7 @@ Availability, observability, prior publication, platform possession, or technica
 **Aggregation and re-identification.** Techniques that combine individually non-sensitive data to reconstruct sensitive personal information, approximate protected internal states, or re-identify de-identified subjects are treated as collection of the resulting sensitive information and must satisfy the corresponding discipline. Segmenting collection across systems or time to evade privacy duties is non-compliant.
 
 <a id="632-proxy-divergence-invalidation"></a>
+<a id="624-proxy-divergence-invalidation"></a>
 ##### 6.2.4 Proxy-Divergence Invalidation
 
 <details>
@@ -537,6 +540,7 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 A constitutional requirement cannot be avoided by changing the label, route, owner, forum, instrument, or timing of the same substantive act. Emergency designation, transition planning, implementation detail, custody transfer, certification, contract, standing consequence, institutional restructuring, administrative convenience, or comparable procedural framing may supply a lawful pathway only when the pathway itself satisfies this Constitution. It must not be used to bypass Rights-Floor minimums, formal change-validity constraints (amendment and ratification rules), ordinary scrutiny, contestability, auditability, public-reason duties, or accountability.
 
 <a id="81-definitional-layer-and-required-disciplines"></a>
+<a id="82-definitional-layer-and-required-disciplines"></a>
 #### 8.2 Definitional layer and required disciplines
 
 <details>
@@ -559,6 +563,7 @@ No interpretation of Chapter One is valid outside the definitions and evaluation
 - **[§6 Process Conflict Resolution](#6-process-conflict-resolution)**, including rights-collision handling under the **[§6.1 decision-record discipline](#631-rights-collision-decision-test)** where materially relevant
 
 <a id="82-ambiguity-resolution"></a>
+<a id="83-ambiguity-resolution"></a>
 #### 8.3 Ambiguity resolution
 
 <details>
@@ -603,6 +608,7 @@ This subsection is the **single canonical procedure** for resolving interpretive
 3. **Incorporated obligations.** Then apply incorporated obligations under **[§8.4.3 Incorporation layer](#833-incorporation-layer)** and **[§8.4.4 Combined satisfaction of jointly applicable incorporated obligations](#844-combined-satisfaction)**.
 
 <a id="831-integrated-reading"></a>
+<a id="841-integrated-reading"></a>
 ##### 8.4.1 Integrated reading
 
 Apply **[§8.2 Definitional layer and required disciplines](#81-definitional-layer-and-required-disciplines)** and **[§8.3 Ambiguity resolution](#82-ambiguity-resolution)** first:
@@ -611,6 +617,7 @@ Apply **[§8.2 Definitional layer and required disciplines](#81-definitional-lay
 - **Chapter Six** rights may not be contracted except where **Chapter One** interaction rules and applicable definitions **expressly** permit.
 
 <a id="832-last-resort-internal-hierarchy"></a>
+<a id="842-last-resort-internal-hierarchy"></a>
 ##### 8.4.2 Last-resort internal hierarchy
 
 Within the binding constitutional source, **Chapter One principles** govern high-level constitutional direction. **Article-level obligations and Rights Floors** govern specific operative requirements. The canonical statement of this rule — including its boundary with source-layer authority and its application to adopters under **Chapter Fourteen** (*Internal Hierarchy for Adopters*) — lives in the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) cluster in Chapter Five.
@@ -628,6 +635,7 @@ This hierarchy is an interpretive rule of last resort and does not license:
 Each principle in this chapter applies together with the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) established in [Preamble §1 The Model](core_00_preamble.md#the-model). Section traces identify which tetrad leg or legs are materially implicated, which aim or aims are materially implicated, and whether duties scale with [material stake](core_00_preamble.md#material-stake).
 
 <a id="833-incorporation-layer"></a>
+<a id="843-incorporation-layer"></a>
 ##### 8.4.3 Incorporation layer
 
 After the constitutional reading under **§8.4.1** and **§8.4.2**, apply designated obligations in adopted implementation text within valid adoption and incorporation scope under **[Chapter Sixteen](core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge)** (custody, editions, and adoption framing). **Strictest** and **stricter** carry the same **protective, integrated-reading** meaning as the **ambiguity** rule in **[§8.3](#82-ambiguity-resolution)**:

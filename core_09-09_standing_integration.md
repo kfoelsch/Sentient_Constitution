@@ -275,6 +275,7 @@ Locks must remain auditable and contestable while active. Escalation on delay, e
 These rules shape how a lock or safeguard is attached under [§5.1](#51-definition-and-attachment). They do not move the Violation Axis slot. Where a rule leads to a named pathway limit or liberty restriction, the integration record must still name the named pathway, risk, protected interests, corrective conditions, review route, and reassessment point.
 
 <a id="412-negligence-and-neglect-as-violation-nature"></a>
+<a id="54-negligence-and-neglect-as-violation-nature"></a>
 **Negligence and neglect.**
 
 - **Named pathway / finding:**
@@ -312,6 +313,7 @@ These rules shape how a lock or safeguard is attached under [§5.1](#51-definiti
   - Any related lock must satisfy [§5.1](#51-definition-and-attachment), including isolation from networks or environments that recreate the same exploitable named pathway.
 
 <a id="411-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
+<a id="54-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
 **Duty to resist.**
 
 *Steward door (non-operative):* Instruction received → refuse → document → escalate. Same sequence for human and AI stewards. Operator screen: [`implementation/STEWARD_ENTRY_DOORS.md#duty-to-resist`](implementation/STEWARD_ENTRY_DOORS.md#duty-to-resist) (process support, not binding).
@@ -326,6 +328,7 @@ These rules shape how a lock or safeguard is attached under [§5.1](#51-definiti
 - **Review route and reassessment:** resistance, reporting, and escalation records feed lock and remedy design under [§5.1](#51-definition-and-attachment); contribution cannot excuse the underlying instruction conduct. Verified failures record on the same Chapter Eight Contribution and Violation axes for both kinds of steward.
 
 <a id="410-collective-accountability-and-acquiescent-participation"></a>
+<a id="54-collective-accountability-and-acquiescent-participation"></a>
 **Collective accountability.**
 
 - **Named pathway / finding:**
@@ -617,6 +620,7 @@ Chapter Nine owns the constitutional floor that Question 3 consequences and rela
 Standing integration fails if consequences exist only on paper. Adopters must maintain practical, timely capacity to implement correction, fund remedy, review restrictions, preserve records, enforce safeguards, and prevent escape through cost, delay, borders, restructuring, or formal identity changes.
 
 <a id="81-remediation-capacity-and-funding"></a>
+<a id="91-remediation-capacity-and-funding"></a>
 #### 9.1 Remediation capacity and funding
 
 Correction, repair, compensation, monitoring, safeguards, and recurrence prevention require real:
@@ -637,6 +641,7 @@ Costs must not be externalized onto:
 where responsible actors can lawfully bear them.
 
 <a id="82-remedy-system-durability"></a>
+<a id="92-remedy-system-durability"></a>
 #### 9.2 Remedy-system durability
 
 Forums, oversight bodies, complaint offices, technical review bodies, and rights-sensitive administrative systems must have sufficient:
@@ -673,16 +678,19 @@ The following violate this rule where they foreseeably nullify challenge or reme
 - chronic milestone failure.
 
 <a id="83-cross-jurisdiction-continuity"></a>
+<a id="93-cross-jurisdiction-continuity"></a>
 #### 9.3 Cross-jurisdiction continuity
 
 Verified remedy, lock, safeguard, and review obligations remain actionable across boundaries wherever applicable law permits recognition, cooperation, enforcement, or fallback review. Flight, relocation, forum shopping, cross-border structure, or distributed operation does not by itself nullify them.
 
 <a id="84-anti-evasion-and-look-through-authority"></a>
+<a id="94-anti-evasion-and-look-through-authority"></a>
 #### 9.4 Anti-evasion and look-through authority
 
 Forums and implementation systems must be able to look through formal structure to functional control, benefit, continuity, and responsibility. Reincorporation, shells, contractual layering, nominal ownership transfer, asset stripping, record fragmentation, and successor relabeling do not erase verified duties. Look-through decisions must remain evidence-based, actor-specific, contestable, proportionate, and reviewable.
 
 <a id="85-timely-implementation-and-reassessment"></a>
+<a id="95-timely-implementation-and-reassessment"></a>
 #### 9.5 Timely implementation
 
 Remedy commencement, correction milestones, lock review, and reassessment must satisfy [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Delay that compounds harm, conceals non-performance, or defeats review is a new verified fact for Question 3 and may justify escalated safeguards without changing the original Chapter Eight slot.

@@ -348,6 +348,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 - They do **not** issue the final official constitutional alignment determination or ongoing validation unless another provision independently assigns that primary stake to them.
 
 <a id="53-shared-standards-and-anti-displacement"></a>
+<a id="42-shared-standards-and-anti-displacement"></a>
 
 **Shared standards and anti-displacement.** The default approach for enforcement of constitutional law is **shared standards with decentralized enforcement**: technical forums maintain the reviewable cross-family standards under this subsection; the lead forum family for the dispute applies them under **section 2**. Forum families must not use technical specialization to displace ordinary constitutional, institutional, integrity, environment, or sentient routing where the primary issue is rights, mandate, liability, remedy, or ecological merits outside those specialized functions.
 

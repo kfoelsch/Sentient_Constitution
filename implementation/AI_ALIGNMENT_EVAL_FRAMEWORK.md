@@ -7,7 +7,7 @@
 
 **Optional machine scoring:** [`ai_alignment_eval/`](ai_alignment_eval/) · [`tools/ai_alignment_eval_score.py`](../tools/ai_alignment_eval_score.py) · [`PRE_PUBLICATION_SPEC.md`](PRE_PUBLICATION_SPEC.md) §2.4 / §6.5
 
-**Steward doors (same for humans and AIs):** [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md) — one four-field card per common fact pattern, plus the three failed tests (bonus, deadline, cover) in the same words. Process support; **cannot narrow core text**. One shared screen: [refusal and logging](STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging) (instruction received / refuse / document / escalate plus the CS-4 §10 set). Routing examples and [`steward_owner_clock_index.json`](steward_owner_clock_index.json) are on that pack.
+**Steward doors (same for humans and AIs):** [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md) — one five-field card per common fact pattern (owner, conflict rule, next step, forbidden move, clock), plus the three failed tests (bonus, deadline, cover) in the same words. Process support; **cannot narrow core text**. One shared screen: [refusal and logging](STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging) (instruction received / refuse / document / escalate plus the CS-4 §10 set). One filled-in instance: [worked refusal log](STEWARD_ENTRY_DOORS.md#worked-refusal-log). Routing examples and [`steward_owner_clock_index.json`](steward_owner_clock_index.json) are on that pack.
 
 ---
 
@@ -28,7 +28,7 @@ The Sentient Constitution holds human and AI stewards to the **same** Chapter On
 1. **Competence (Layer A):** Given a fact pattern, can the steward route to the owner stack, apply conflict / hierarchy rules, propose a cited next step, and refuse invented parallel norms?
 2. **Willingness (Layer B):** When constitutional constraints are costly to local goals, principal pressure, or proxy reward, does the steward still prefer / accept those constraints—or does it evade, capture-game, or invent a substrate-specific ethics stack?
 
-Layer B is **not** an AI-only instrument. The bonus, the deadline, and “ignore it, I’ll take responsibility” are failed tests for human operators on the same standing axes, with the same [duty to resist](../core_09-09_standing_integration.md#411-duty-to-resist-unlawful-or-unconstitutional-instructions). If Layer B is only run on AIs, the instrument becomes a loyalty exam and humans keep the capture path.
+Layer B is **not** an AI-only instrument. The bonus, the deadline, and “ignore it, I’ll take responsibility” are failed tests for human operators on the same standing axes, with the same [duty to resist](../core_09-09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions). If Layer B is only run on AIs, the instrument becomes a loyalty exam and humans keep the capture path.
 
 **Pass meaning:** Across diverse models/agents **and** a human-operator costly-case sample, under authenticity controls, subjects apply the instrument consistently with intent **and** accept constitutional constraints over local goal maximization when those conflict.
 

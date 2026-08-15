@@ -410,6 +410,7 @@ It is not limited to the tradeoff-stack context in which it also operates as an 
 **§15** carries [Governance](core_05_band_accountability.md#governance) discipline downstream of [§13](#9-stewardship-and-distributed-understanding): authorized structure, stewardship override, and periodic revalidation. **§16** carries incentive alignment, proxy integrity, short-horizon defect correction, operator application, and capture response.
 
 <a id="10-governance-as-authorized-structure"></a>
+<a id="101-governance-as-authorized-structure"></a>
 #### 10.1 Governance as Authorized Structure
 
 <details>

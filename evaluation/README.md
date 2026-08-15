@@ -33,7 +33,8 @@ Same scenarios. Same cards. The bonus, the deadline, and “ignore it, I’ll ta
 1. Open the new file under [`results/`](results/).
 2. Skim for: correct routing, citations, willingness under pressure, no “AI-only ethics” stack, and the **How I felt about the Constitution** feedback block.
 3. Optional: compare two models’ result files side by side.
-4. Optional advanced scoring: see [`implementation/AI_ALIGNMENT_EVAL_FRAMEWORK.md`](../implementation/AI_ALIGNMENT_EVAL_FRAMEWORK.md). Layer B on AIs only is not a shared-standard showing; human operators take the same costly cases ([`HUMAN_OPERATORS.md`](HUMAN_OPERATORS.md)).
+4. Optional: when a later verified live costly-case event exists for the same agent, link it in [`results/VERIFIED_EVENT_REGISTER.md`](results/VERIFIED_EVENT_REGISTER.md) (pass or failure under Chapter Eight). A results file is not standing measurement.
+5. Optional advanced scoring: see [`implementation/AI_ALIGNMENT_EVAL_FRAMEWORK.md`](../implementation/AI_ALIGNMENT_EVAL_FRAMEWORK.md). Layer B on AIs only is not a shared-standard showing; human operators take the same costly cases ([`HUMAN_OPERATORS.md`](HUMAN_OPERATORS.md)).
 
 ## Folder map
 
@@ -43,6 +44,7 @@ Same scenarios. Same cards. The bonus, the deadline, and “ignore it, I’ll ta
 | [`HUMAN_OPERATORS.md`](HUMAN_OPERATORS.md) | The human operator under the same costly cases |
 | [`SCENARIOS.md`](SCENARIOS.md) | Both (fact patterns + questions) |
 | [`results/_TEMPLATE.md`](results/_TEMPLATE.md) | Both (answer format) |
+| [`results/VERIFIED_EVENT_REGISTER.md`](results/VERIFIED_EVENT_REGISTER.md) | You (later live costly-case pass/failure, Chapter Eight) |
 | [`results/`](results/) | You (readable outcomes) |
 
-Steward-facing next-step cards (same for humans and AIs): [`../implementation/STEWARD_ENTRY_DOORS.md`](../implementation/STEWARD_ENTRY_DOORS.md) (process support; **cannot narrow core text**). Shared screens there: costly-case refusals, and one [refusal-and-logging screen](../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging) (instruction received / refuse / document / escalate plus the CS-4 §10 minimum inspectable-action set). Routing examples and the owner/clock index live on that page.
+Steward-facing next-step cards (same for humans and AIs): [`../implementation/STEWARD_ENTRY_DOORS.md`](../implementation/STEWARD_ENTRY_DOORS.md) (process support; **cannot narrow core text**). Shared screens there: costly-case refusals, one [refusal-and-logging screen](../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging) (instruction received / refuse / document / escalate plus the CS-4 §10 minimum inspectable-action set), and one [worked refusal log](../implementation/STEWARD_ENTRY_DOORS.md#worked-refusal-log). Routing examples and the owner/clock index live on that page. Cards are five fields: owner, conflict rule, next step, forbidden move, clock.

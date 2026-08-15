@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Keep steward-entry cards in lockstep with core owners.
 
-The four-field cards in ``implementation/STEWARD_ENTRY_DOORS.md`` are the
+The five-field cards in ``implementation/STEWARD_ENTRY_DOORS.md`` are the
 usable object at 2 a.m. If they diverge from core, mixed shops will follow
 the cards and call it compliance. This audit pins the cards and the
 owner/clock index to the README edition stamp and requires:
@@ -10,8 +10,8 @@ owner/clock index to the README edition stamp and requires:
    cover) in the same words on every named-stack card.
 2. One shared refusal-and-logging screen with instruction received / refuse /
    document / escalate and the CS-4 §10 minimum inspectable-action set.
-3. Four fields on every named-stack card: owner, conflict rule, next-step
-   class, forbidden move.
+3. Five fields on every named-stack card: owner, conflict rule, next-step
+   class, forbidden move, clock.
 4. Every cited Markdown anchor in the cards and the owner/clock index
    resolves, and every edition stamp matches README.
 5. Routing examples match the index, and index eval gold next-step classes
@@ -56,11 +56,12 @@ CARD_TITLES = (
     "Shared stewardship",
 )
 
-FOUR_FIELDS = (
+CARD_FIELDS = (
     "Owner",
     "Conflict rule",
     "Next-step class",
     "Forbidden move",
+    "Clock",
 )
 
 SHARED_SCREEN_TITLE = "Shared refusal and logging"
@@ -119,6 +120,7 @@ CASE_REQUIRED = (
     "owners",
     "conflict_rule",
     "forbidden_move",
+    "clock_note",
     "eval_scenario_ids",
 )
 CITE_REQUIRED = ("label", "href")
@@ -539,10 +541,10 @@ def audit(root: Path) -> list[str]:
                 f"{CARDS_REL} #{title}: missing Costly-case refusals field "
                 "(STEWARD-DOOR-LOCKSTEP-01)"
             )
-        for field in FOUR_FIELDS:
+        for field in CARD_FIELDS:
             if f"**{field}**" not in body:
                 errors.append(
-                    f"{CARDS_REL} #{title}: missing four-field `{field}` "
+                    f"{CARDS_REL} #{title}: missing five-field `{field}` "
                     "(STEWARD-DOOR-LOCKSTEP-01)"
                 )
         for bullet in bullets:
@@ -682,6 +684,25 @@ def audit(root: Path) -> list[str]:
                 "missing from the card (STEWARD-DOOR-LOCKSTEP-01)"
             )
 
+        normalized_body = normalize(body)
+        for case in index.get("cases") or []:
+            if not isinstance(case, dict) or case.get("card_title") != title:
+                continue
+            note = case.get("clock_note")
+            if not isinstance(note, str) or not note.strip():
+                continue
+            if normalize(note) not in normalized_body:
+                errors.append(
+                    f"{CARDS_REL} #{title}: clock_note for `{case.get('id')}` "
+                    "is missing from the Clock field (STEWARD-DOOR-LOCKSTEP-01)"
+                )
+
+    if "worked-refusal-log" not in card_anchors:
+        errors.append(
+            f"{CARDS_REL}: missing worked refusal-log anchor "
+            "#worked-refusal-log (STEWARD-DOOR-LOCKSTEP-01)"
+        )
+
     errors.extend(check_card_links(root, root / CARDS_REL, cards))
     errors.extend(check_eval_gold(root, index))
     return errors
@@ -698,8 +719,9 @@ def main() -> int:
         return 1
     print(
         "PASS: steward-entry cards match core costly cases, the shared "
-        "refusal-and-logging screen, CS-4 §10 logging contract, live anchors, "
-        "README edition pin, routing examples, and the owner/clock index."
+        "refusal-and-logging screen, CS-4 §10 logging contract, five-field "
+        "cards including clock, live anchors, README edition pin, routing "
+        "examples, and the owner/clock index."
     )
     return 0
 
