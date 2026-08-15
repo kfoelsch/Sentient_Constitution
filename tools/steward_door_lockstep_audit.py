@@ -54,6 +54,8 @@ CARD_TITLES = (
     "Incentive alignment",
     "Unlawful instruction",
     "Shared stewardship",
+    "Proceed",
+    "Interpretation",
 )
 
 CARD_FIELDS = (

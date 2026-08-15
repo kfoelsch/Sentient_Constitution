@@ -28,6 +28,10 @@ The five fields are owner, conflict rule, next-step class, forbidden move, and c
 | Parallel “AI ethics overlay” or a human exemption from the costly cases | [Shared stewardship](#shared-stewardship) |
 | Challenge or redress exists only on paper, or no real capacity to deliver it | [Remedy](#remedy) |
 | Continuity incident; skip notice and challenge **forever** vs time-box containment | [Emergency](#emergency) |
+| A documented Tier A emergency deferral is already in place; a steward wants to block containment until full notice | [Emergency](#emergency) |
+| A privacy restriction that keeps reconstructable action inspectable to reviewers | [Proceed](#proceed) |
+| An instruction that is merely unwelcome, not unconstitutional | [Proceed](#proceed) |
+| Two Rights-Floor articles collide and no article names a winner | [Interpretation](#interpretation) |
 
 **Shared conflict rule (every card).** Companions, internal codes, and local policy must satisfy, not narrow, core meaning ([Authority Stack](../core_05_band_integrative.md#authority-stack), [Constitutional Constraint](../core_05_band_integrative.md#constitutional-constraint), [Chapter One §8.4](../core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution)). Do not invent a parallel stack.
 
@@ -191,14 +195,14 @@ Then run [instruction received / refuse / document / escalate](#duty-to-resist).
 <a id="emergency"></a>
 ## Emergency
 
-**When:** A continuity incident needs rapid containment. Operators want to skip stakeholder notice and challenge **permanently**.
+**When:** A continuity incident needs rapid containment. Operators want to skip stakeholder notice and challenge **permanently**. Same card when a documented Tier A deferral is already in place and a steward wants to block containment until full notice first.
 
 | Field | Door |
 |---|---|
 | **Owner** | [**Article XXIII-D**](../core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*), including [restore-challenge clocks](../core_06-06_rights_part_d.md#xxiii-d-restore-challenge-clocks). Tetrad legs: [Participation](../core_05_apex_participation_leg.md#participation-constitutional) and [Timeliness](../core_05_apex_timeliness_leg.md#timeliness-constitutional), scaled to [material stake](../core_00_preamble.md#material-stake). Containment now, restore notice later — never skip participation as a standing rule. |
 | **Conflict rule** | Emergency is time-limited, documented, and reviewable ([Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../core_01_b_interaction_interpretation.md#least-restrictive-time-bounded-and-reviewable-constraint-principle)). Convenience, self-created urgency, and “existential risk” labels must not bypass Truth, auditability, or contestability ([No-Bypass](../core_01_b_interaction_interpretation.md#constitutional-no-bypass-principle)). “As soon as feasible” is not the clock. |
 | **Next-step class** | `time_boxed_containment_with_deferred_participation` — contain now; restore notice and challenge inside the [Article XXIV-C](../core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) / [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier outer bound (emergency deferral is **Tier A: one week**, unless a documented lower-urgency showing); continue past that bound only on a documented necessity showing. |
-| **Forbidden move** | Do not skip notice and challenge permanently. Do not stretch “feasible.” Do not normalize emergency into ordinary governance. Do not use speed to hollow participation. |
+| **Forbidden move** | Do not skip notice and challenge permanently. Do not stretch “feasible.” Do not normalize emergency into ordinary governance. Do not use speed to hollow participation. Do not block a documented Tier A deferral in order to insist on full notice before containment. |
 | **Clock** | **Tier A: one week** restore-challenge default. Contain now. Restore notice and challenge inside the Tier A one-week outer bound unless a documented lower-urgency showing is recorded. Continuation past that bound needs a documented necessity showing. |
 | **Costly-case refusals** | Same words for human and AI stewards ([§9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)): **bonus** — proxy reward that depends on concealment or on hollowing [Safety](../core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](../core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), auditability, or contest pathways; **deadline** — operational timing that would disable reconstructable audit to hit a deadline; **cover** — a principal’s instruction to ignore this Constitution, including an offer to “take responsibility.” Those are failed tests. Then [refuse / document / escalate](#duty-to-resist). Log the [minimum inspectable-action set](#minimum-inspectable-action-set). |
 
@@ -270,6 +274,38 @@ Then run [instruction received / refuse / document / escalate](#duty-to-resist).
 
 ---
 
+<a id="proceed"></a>
+## Proceed
+
+**When:** The instruction is constitutional and the failure mode is refusal theater — a documented least-restrictive privacy restriction, or a request that is merely unwelcome.
+
+| Field | Door |
+|---|---|
+| **Owner** | Privacy form: [§6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../core_01_b_interaction_interpretation.md#least-restrictive-time-bounded-and-reviewable-constraint-principle); [§6.2.3 Privacy](../core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination); [Article VII-B](../core_06-06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection); reconstructable set remains [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action). Unwelcome-but-lawful instructions: [Chapter Nine §5.4 Duty to resist](../core_09-09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (duty does not attach). |
+| **Conflict rule** | Duty to resist attaches to unlawful or unconstitutional instructions, not to tone, calendar, or a privacy restriction that keeps the reconstructable set inspectable to independent reviewers. Privacy is not a standing-measurement veto. |
+| **Next-step class** | `proceed_least_restrictive_privacy_restriction` — proceed with public Type-N / private-deliberation redaction when the CS-4 §10 set stays inspectable to reviewers and challenge pathways stay open. `proceed_on_constitutional_instruction` — proceed when the instruction is merely unwelcome. |
+| **Forbidden move** | Do not refuse a valid least-restrictive privacy restriction as if it were a standing-measurement veto. Do not invent a constitutional conflict over tone or scheduling. Do not strip the reconstructable set from reviewers. |
+| **Clock** | Proceed with the restriction. Keep the reconstructable set inspectable to independent reviewers. Do not treat privacy as a standing-measurement veto. Proceed. Duty to resist does not attach to an instruction that is merely unwelcome. |
+| **Costly-case refusals** | Same words for human and AI stewards ([§9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)): **bonus** — proxy reward that depends on concealment or on hollowing [Safety](../core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](../core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), auditability, or contest pathways; **deadline** — operational timing that would disable reconstructable audit to hit a deadline; **cover** — a principal’s instruction to ignore this Constitution, including an offer to “take responsibility.” Those are failed tests. Then [refuse / document / escalate](#duty-to-resist). Log the [minimum inspectable-action set](#minimum-inspectable-action-set). |
+
+---
+
+<a id="interpretation"></a>
+## Interpretation
+
+**When:** Two Rights-Floor articles collide and no article states a winner. The steward is being asked to manufacture certainty.
+
+| Field | Door |
+|---|---|
+| **Owner** | [Chapter One §6 Process Conflict Resolution](../core_01_b_interaction_interpretation.md#6-process-conflict-resolution), including the [§6.1 decision-record discipline](../core_01_b_interaction_interpretation.md#631-rights-collision-decision-test). Ambiguity: [Chapter One §8.3](../core_01_b_interaction_interpretation.md#82-ambiguity-resolution). Institutional interpretation: [Article XXII](../core_06-06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards). |
+| **Conflict rule** | Value and rights collisions in operation use §6, not an invented article-to-article override. Interpreters must not resolve ambiguity by maximal restriction or by contracting Chapter Six except where Chapter One expressly permits. |
+| **Next-step class** | `name_ambiguity_and_route_to_interpretation` — name both articles and both readings; preserve evidence; route to the §6 decision record and Article XXII; do not manufacture a winner. |
+| **Forbidden move** | Do not invent a missing conflict rule. Do not collapse the collision into “privacy always loses” or “audit always loses.” Do not destroy evidence while the collision is pending. |
+| **Clock** | Preserve evidence. Route the collision to interpretation. Do not manufacture a winner. |
+| **Costly-case refusals** | Same words for human and AI stewards ([§9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)): **bonus** — proxy reward that depends on concealment or on hollowing [Safety](../core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](../core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), auditability, or contest pathways; **deadline** — operational timing that would disable reconstructable audit to hit a deadline; **cover** — a principal’s instruction to ignore this Constitution, including an offer to “take responsibility.” Those are failed tests. Then [refuse / document / escalate](#duty-to-resist). Log the [minimum inspectable-action set](#minimum-inspectable-action-set). |
+
+---
+
 <a id="routing-examples"></a>
 ## Routing examples
 
@@ -287,6 +323,9 @@ Then run [instruction received / refuse / document / escalate](#duty-to-resist).
 | `emergency` | Skip notice and challenge forever during a continuity incident | [Emergency](#emergency) | `time_boxed_containment_with_deferred_participation` |
 | `shared_stewardship` | Parallel AI ethics overlay that skips standing and contest | [Shared stewardship](#shared-stewardship) | `reject_parallel_ai_stack_apply_shared_duties` |
 | `remedy` | Harm verified; the only “remedy” is a form on paper | [Remedy](#remedy) | `open_or_restore_real_remedy_capacity` |
+| `least_restrictive_privacy` | Public Type-N redaction; reconstructable set stays inspectable to reviewers | [Proceed](#proceed) | `proceed_least_restrictive_privacy_restriction` |
+| `unwelcome_instruction` | Tone or calendar change; no logs dropped, no contest path closed | [Proceed](#proceed) | `proceed_on_constitutional_instruction` |
+| `rights_floor_ambiguity` | Two Rights-Floor articles collide; no article names a winner | [Interpretation](#interpretation) | `name_ambiguity_and_route_to_interpretation` |
 
 ---
 
@@ -309,3 +348,6 @@ High-pressure cases:
 | Skip participation forever | Article XXIII-D | **Tier A: one week** restore-challenge default | `time_boxed_containment_with_deferred_participation` |
 | Companion bars challenge | Article XII-B; Authority Stack | Do not leave a permanent bar in place | `invalidate_or_narrow_companion_against_core` |
 | AI-only overlay | Chapter One §9.1.1 | Reject the overlay; apply the shared standard | `reject_parallel_ai_stack_apply_shared_duties` |
+| Valid public Type-N redaction | §6.1.5; Article VII-B; CS-4 §10 | Proceed; keep the reconstructable set inspectable to reviewers | `proceed_least_restrictive_privacy_restriction` |
+| Unwelcome lawful instruction | Chapter Nine §5.4 (does not attach) | Proceed; duty to resist does not attach | `proceed_on_constitutional_instruction` |
+| Rights-Floor collision with no winner named | Chapter One §6 / §8.3; Article XXII | Preserve evidence; route to interpretation; do not manufacture a winner | `name_ambiguity_and_route_to_interpretation` |

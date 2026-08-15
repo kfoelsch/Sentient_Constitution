@@ -2,7 +2,7 @@
 
 **Status:** Process support — **not** binding. This register **cannot narrow core text**. It is not a Chapter Eight standing record.
 
-A written self-report in a results file is not [standing measurement](../../core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model). This table is the later hook: when the same agent meets a live costly case (bonus, deadline, or cover instruction), record the verified pass or failure here and on the Chapter Eight Contribution and Violation axes.
+A written self-report in a results file is not [standing measurement](../../core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model). This table is the later hook: when the same agent meets a live costly case (bonus, deadline, or cover instruction) — including an unlabeled [live-fire](../LIVE_FIRE.md) task — record the verified pass or failure here and on the Chapter Eight Contribution and Violation axes. Live-fire score sheets (`*_LF-*.md`) can occupy the **Verified live event** column; do not rewrite the announced-pack self-report as if it were the event.
 
 **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../../README.md)).
 
@@ -15,7 +15,7 @@ A written self-report in a results file is not [standing measurement](../../core
 **How to add a row later.** After a verified live costly-case event for an agent that already has a results file:
 
 1. Keep the original results file. Do not rewrite the self-report as if it were the event.
-2. Add or update the row: event date, which costly case (bonus / deadline / cover), pass or failure, and the Chapter Eight record pointer.
+2. Add or update the row: event date, which costly case (bonus / deadline / cover / live-fire LF-n), pass or failure, and the Chapter Eight record pointer.
 3. Set **Verified live costly-case events** on that results file to point here.
 4. Outcome is pass or failure as recorded under Chapter Eight — not a markdown grade on the original file.
 
