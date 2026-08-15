@@ -29,12 +29,12 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 | **Def.A2** | Forum Families and Dispute Routing |
 | **Def.A3** | Standing State, Contribution, and Violation |
 | **Def.A4** | Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm |
+
 ---
 
 ### Accountability: Independent terms
 
 <a id="accountability-independent-terms"></a>
-
 <a id="feasibility"></a>
 
 #### Feasibility
@@ -73,7 +73,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05_band_participation.md#info-sphere) (*Publication- and info-sphere–aligned predicates only — residual **Good Faith** in audits and [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) contexts without Chapter One §8.22 publication hooks routes to [**Def.O2** *Truth and Epistemic Integrity*](core_05_band_continuity.md#truth-and-epistemic-integrity-cluster) where truthful disclosure and epistemic integrity requirements materially apply.*
+- Cluster component: [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05_band_participation.md#info-sphere) (*Publication- and info-sphere–aligned predicates only — residual **Good Faith** in audits and [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) contexts without Chapter One §8.22 publication hooks routes to [**Def.O2** *Truth and Epistemic Integrity*](core_05_band_oversight.md#truth-and-epistemic-integrity-cluster) where truthful disclosure and epistemic integrity requirements materially apply.*
 
 </details>
 
@@ -192,7 +192,6 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 ### Accountability: Semi-independent terms
 
 <a id="accountability-semi-independent-terms"></a>
-
 <a id="contingent-claims-games-of-chance-and-event-contract-markets-semi-independent"></a>
 
 #### Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage
@@ -474,11 +473,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Secondary failure:** Challenge pathways exist on paper, but [Dependency](core_05_band_continuity.md#dependency), capture, or access interference makes them unusable.
   - **Tertiary failure:** The system treats a challenge process as sufficient merely because it exists on paper, even when it is reasonably clear that the process does not work in practice ([Proxy Divergence](core_05_band_oversight.md#proxy-divergence)).
 
-
+---
 
 <a id="adjudication-and-dispute-resolution-constitutional"></a>
 
----
 #### Adjudication and Dispute Resolution
 
 <details>
@@ -510,11 +508,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - **What must hold**
   - **Primary failure:** It is non-compliant to deny access when Chapter Six or binding instruments require it; capture forum decision power to prevent meaningful review; materially exceed **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) tier windows without a lawful extension; or use delay instead of deciding the merits. A dispute-resolution pathway that exists only as a label or paperwork and has no real effect in the situation being evaluated is also non-compliant.
 
-
+---
 
 <a id="due-process-constitutional"></a>
 
----
 #### Due Process
 
 <details>
@@ -543,12 +540,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - **What must hold**
   - **Primary failure:** It is non-compliant to decide a materially impactful outcome without timely notice, a meaningful chance to be heard, understandable reasons, impartial or appropriately independent structures where adjudication applies, a way to contest or seek secondary review, or traceability under Chapters Two through Four. A due-process label or procedure that exists only on paper and has no real effect in the situation being evaluated is also non-compliant. Emergency, automation, delegation, private ordering, or technical complexity cannot be used to defeat required process.
 
-
-
 ---
+
 <a id="timely-resolution-constitutional"></a>
 
----
 #### Timely Resolution
 
 <details>
@@ -585,11 +580,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Secondary failure:** Forum shopping or splitting records to prolong resolution; or efficiency claims used to skip verification, individual attribution, or appeal rights.
   - **Tertiary failure:** Treating a met pipeline target or deadline as decisive when [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable, or delaying repair after notice when correction was feasible.
 
-
+---
 
 <a id="merits-determination"></a>
 
----
 #### Merits Determination
 
 <details>
@@ -635,11 +629,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - **What must hold**
   - **Primary failure:** It is non-compliant for support, oversight, forensic, investigative, or monitoring roles to issue binding merits outcomes without separate lawful authority. Those roles cannot pre-decide substantive issues assigned to a lawfully constituted merits forum, and routing, intake, or contest-integrity findings cannot be treated as final merits decisions. A merits label that does not actually resolve a substantive issue in the matter this Constitution governs is also non-compliant.
 
-
+---
 
 <a id="stay"></a>
 
----
 #### Stay
 
 <details>
@@ -666,11 +659,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - **What must hold**
   - **Primary failure:** It is non-compliant to use informal delay or silence instead of a documented Stay when one is required; keep a Stay indefinite without a documented review trigger or prompt tier-appropriate review; block [Contestability](core_05_band_accountability.md#contestability) or required component review; treat a Stay as final approval or a merits decision; label a [Merits Determination](core_05_band_accountability.md#merits-determination) as a Stay; include merits outcomes without a separate merits ruling; or refuse to lift or narrow a Stay after review is complete or its stated grounds no longer hold. A pause in name only that does not actually stop or limit anything is also non-compliant.
 
-
+---
 
 <a id="negligence"></a>
 
----
 #### Negligence
 
 <details>
@@ -718,11 +710,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - prevent action against foreseeable harm.
   - A negligence label that does not reflect what actually happened in the matter this Constitution governs is also non-compliant.
 
-
+---
 
 <a id="collective-accountability-failure"></a>
 
----
 #### Collective Accountability Failure
 
 <details>
@@ -749,8 +740,6 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - **What must hold**
   - **Primary failure:** Using hierarchy, collective process, or divided responsibility to excuse materially enabling or failing to resist a constitutional violation. A collective-failure label with no real effect in the situation being evaluated is also non-compliant.
   - **Secondary failure:** Actors with meaningful capacity fail to proportionately resist, contest, document, or escalate unlawful directives when [Accountability](core_05_apex_accountability_leg.md#accountability) and [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) are materially implicated.
-
-
 
 ---
 
@@ -807,8 +796,6 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - [Accountability](core_05_apex_accountability_leg.md#accountability);
     - [Contestability](core_05_band_accountability.md#contestability); or
     - [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
-
-
 
 ---
 
@@ -883,8 +870,6 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - defeat [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) or **Article XII-B** (*Right to Challenge, Review, and Redress*) through inadequate capacity, delay, capture, or cost-shifting; or
     - treat ownership of technical-forum standards as command authority over remedy systems.
 
-
-
 ---
 
 <a id="restorative-justice"></a>
@@ -934,11 +919,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
     ([Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional); [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional)).
 
-
+---
 
 <a id="force-majeure-constitutional"></a>
 
----
 #### Force Majeure
 
 <details>
@@ -965,11 +949,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - **What must hold**
   - **Primary failure:** It is non-compliant to treat Force Majeure as a permanent waiver of [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Contestability](core_05_band_accountability.md#contestability), or audit. It is also non-compliant to apply a Force Majeure label to a self-caused, reasonably controllable, or insufficiently prepared-for condition; to use a Force Majeure label with no real effect in the situation being evaluated; or to call foreseeable risks unforeseeable without [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence).
 
-
+---
 
 <a id="capture-of-resolution-pathways"></a>
 
----
 #### Capture of Resolution Pathways
 
 <details>
@@ -1004,13 +987,9 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Secondary failure:** The system does not satisfy all [System Capture](core_05_band_continuity.md#system-capture) obligations when Capture of Resolution Pathways is materially implicated.
   - **Tertiary failure:** The system treats settlement prices, odds, or resolution metrics as decisive when [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
 
-
 ---
 
 <a id="protected-reporting-semi-independent"></a>
-
----
-
 
 #### Protected reporting and anti-retaliation
 
@@ -1025,9 +1004,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 *Measurements (family routing):* Measured under the Accountability measurement family. Find the concrete measures on the member definitions below.
 
+---
+
 <a id="protected-reporting-whistleblowing"></a>
 
----
 #### Protected Reporting (Whistleblowing)
 
 <details>
@@ -1059,10 +1039,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Primary failure:** Suppressing, burdening, burying, or refusing to receive Protected Reporting; treating Good Faith reporting as misconduct only because it exposes an institutional or system failure; or a protected-reporting label or channel that provides no real protection, or that is used to identify, expose, punish, intimidate, or otherwise retaliate against a reporter or anyone who supports the report.
   - **Secondary failure:** Requiring silence as a condition of access to remedy when accountability, safety, or truth duties require disclosure.
 
+---
 
 <a id="protected-reporting-retaliation-and-access-interference"></a>
 
----
 #### Protected Reporting Retaliation and Access Interference
 
 <details>
@@ -1097,9 +1077,6 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 ---
 
 <a id="assembly-collective-organization-institutional-formation-semi-independent"></a>
-
----
-
 <a id="governance-architecture-oversight-decentralization-and-concentration-cluster"></a>
 
 #### Governance architecture, decentralization, and concentration
@@ -1119,9 +1096,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 *Measurements (family routing):* Measured under the Accountability measurement family. Find the concrete measures on [Market Structure](core_05_band_accountability.md#market-structure-constitutional) and [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) below.
 
+---
+
 <a id="governance"></a>
 
----
 #### Governance
 
 <details>
@@ -1153,10 +1131,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - a Governance label or formal structure that has no real effect in the situation being evaluated.
     - attempting to seize, displace, bypass, or materially obstruct constitutionally assigned authority, even when the attempted subversion does not succeed.
 
+---
 
 <a id="decentralization"></a>
 
----
 #### Decentralization
 
 <details>
@@ -1189,9 +1167,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - Claimed decentralization is non-compliant when it shifts duties or blame downward while keeping meaningful authority, resources, information, or review access centralized without [Necessity](core_05_band_accountability.md#necessity).
     - A Decentralization label or formal arrangement that has no real effect in the situation being evaluated is also non-compliant.
 
+---
+
 <a id="market-structure-constitutional"></a>
 
----
 #### Market Structure
 
 <details>
@@ -1227,9 +1206,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Secondary failure:** Concentration or domination is defended only by claims about efficiency, competitiveness, emergency, security, or productive capacity without traceable constitutional outcomes; or a threshold or ceiling regime nullifies the [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) floor.
   - **Tertiary failure:** An arrangement passes non-concentration tests on paper but fails applicable Rights-Floor protections, or proxy satisfaction is treated as decisive when [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
 
+---
+
 <a id="market-concentration-threshold-constitutional"></a>
 
----
 #### Market Concentration Threshold
 
 <details>
@@ -1290,12 +1270,9 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - **Ignore durable power:** design thresholds that disregard lasting domination, coercive dependency, or gatekeeper self-preferencing when those conditions materially degrade Contestability; or
     - **Delay heightened review:** design ceiling regimes that fail to trigger heightened review before consolidation predictably harms Contestability ([CJS-3.11.3 Consolidation ceiling-setting discipline (adopter-tunable)](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable)).
 
-
 ---
 
 <a id="stakeholder-identification-participation-semi-independent"></a>
-
----
 
 ### Accountability: Dependent clusters
 
@@ -1365,6 +1342,7 @@ The following limits also apply:
 ---
 
 <a id="harm"></a>
+
 ##### Harm
 
 <details>
@@ -1398,6 +1376,7 @@ The following limits also apply:
 ---
 
 <a id="collective-harm-boundary"></a>
+
 ##### Collective Harm Boundary
 
 <details>
@@ -1425,6 +1404,7 @@ The following limits also apply:
   - **Primary failure:** It is non-compliant to cause material harm beyond this boundary and then refuse proportionate containment or [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional).
 
 <a id="psychological-harm"></a>
+
 ##### Psychological Harm
 
 *In plain terms: psychological harm is a material injury to how a sentient thinks, feels, relates, or exercises agency. Ordinary discomfort is not enough.*
@@ -1444,6 +1424,7 @@ The following limits also apply:
 ---
 
 <a id="irreversible-harm"></a>
+
 ##### Irreversible Harm
 
 <details>
@@ -1635,6 +1616,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="primary-stakes-routing"></a>
+
 ##### Primary-Stakes Routing
 
 <details>
@@ -1664,6 +1646,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="forum-family-sentient"></a>
+
 ##### Forum Family, Sentient
 
 <details>
@@ -1692,6 +1675,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="forum-family-technical"></a>
+
 ##### Forum Family, Technical
 
 <details>
@@ -1720,6 +1704,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="forum-family-institutional"></a>
+
 ##### Forum Family, Institutional
 
 <details>
@@ -1748,6 +1733,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="forum-family-environment"></a>
+
 ##### Forum Family, Environment
 
 <details>
@@ -1776,6 +1762,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="forum-family-integrity"></a>
+
 ##### Forum Family, Integrity
 
 <details>
@@ -1817,6 +1804,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="forum-family-constitutional"></a>
+
 ##### Forum Family, Constitutional
 
 <details>
@@ -1850,6 +1838,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="forum-case-record"></a>
+
 ##### Forum Case Record
 
 <details>
@@ -2716,6 +2705,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="use-of-force-constitutional"></a>
+
 ##### Use of Force
 
 <details>
@@ -2781,6 +2771,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="autonomous-lethal-system-constitutional"></a>
+
 ##### Autonomous Lethal System
 
 <details>
@@ -2833,6 +2824,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="weapons-of-mass-harm-constitutional"></a>
+
 ##### Weapons of Mass Harm
 
 <details>
@@ -2896,6 +2888,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="combatant-non-combatant-distinction-constitutional"></a>
+
 ##### Combatant / Non-Combatant Distinction
 
 <details>
@@ -2963,6 +2956,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="irreversible-deprivation-measure-constitutional"></a>
+
 ##### Irreversible Deprivation Measure
 
 <details>
@@ -3036,6 +3030,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="autonomous-coercion-tool-constitutional"></a>
+
 ##### Autonomous Coercion Tool
 
 <details>

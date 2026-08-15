@@ -6,6 +6,8 @@ Python utilities for this repository. Run from the repo root unless noted.
 
 Put a **blank line before** `---` when you mean a horizontal rule between sections. If `---` sits directly under a paragraph, CommonMark-style parsers may treat that paragraph as a Setext-style heading instead. `make corpus-markdown-audit` enforces this rule on corpus files.
 
+Chapter Five and CJS-3 definition files use **one** `---` between reader units, with the next heading's `<a id>` anchors after that rule — not a second rule under the title. `make ch5-entry-format-audit` and `make cjs-operational-cluster-audit` enforce the shape (see `tools/definition_separator_format.py` and **CH5-FORMAT** in `doc_architecture.md`).
+
 ## Maintenance (safe to use on the live corpus)
 
 | Target | Command |

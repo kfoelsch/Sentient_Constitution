@@ -25,6 +25,7 @@
 This file is the home for the **Constitutional Performance** measurement family — questions about whether systems actually deliver constitutional results without pointless waste. The detailed definitions themselves are **not here**. They all live in the [Continuity band](core_05_band_continuity.md).
 - Why: those definitions belong with Continuity stewardship topics — lasting capacity, waste, and getting real results for the resources spent. See the [efficiency / capacity / burden topic group](core_05_band_continuity.md#constitutional-efficiency) and the [proportionality–burden–efficiency cluster](core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster).
 - The questions still serve both constitutional aims ([**Flourishing**](core_00_preamble.md#flourishing) and [**Continuity**](core_00_preamble.md#continuity)).
+
 <a id="performance-measurement-family"></a>
 
 ### Measuring Constitutional Performance (Preamble measurement family)

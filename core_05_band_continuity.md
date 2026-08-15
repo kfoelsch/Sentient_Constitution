@@ -29,6 +29,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 | **Def.C2** | Stewardship, Governance Discipline, and Shared-System Capacity |
 | **Def.C3** | Privacy (Informational) — peer-level cluster head |
 | **Def.C4** | Trust and Trustworthiness |
+
 ---
 
 ### Continuity: Independent terms
@@ -71,9 +72,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - commodification pressure whose effect defeats essential-environment access at materially implicated scale, regardless of market-structuring framing;
     - schemes that defeat synthetic-hosting or compute-tenancy access contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
     - reading this entry to displace [Occupancy Continuity](core_05_band_continuity.md#occupancy-continuity-constitutional) procedural discipline or to license intrusion contrary to **Article VII-A** (*Self-Ownership of Body and Mind*) or VII-B.
-
----
-
 
 ---
 
@@ -161,9 +159,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
 
+---
+
 <a id="system-alignment-certification-constitutional"></a>
 
----
 #### System Alignment Certification
 
 <details>
@@ -240,7 +239,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <a id="system-certification-record-constitutional"></a>
 
----
 #### System Certification Record
 
 <details>
@@ -307,7 +305,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <a id="system-classification-record-constitutional"></a>
 
----
 #### System Classification Record
 
 <details>
@@ -362,7 +359,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <a id="system-data-types-record-constitutional"></a>
 
----
 #### System Data Types Record
 
 <details>
@@ -438,9 +434,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 *Measurements (family routing):* Measured under the Continuity measurement family and Flourishing measurement family. Find the concrete measures on the member definitions below.
 
+---
+
 <a id="safety-constraint"></a>
 
----
 #### Safety (Constraint)
 
 <details>
@@ -510,7 +507,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <a id="risk"></a>
 
----
 #### Risk
 
 <details>
@@ -564,7 +560,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <a id="risk-evaluation"></a>
 
----
 #### Risk Evaluation
 
 <details>
@@ -605,7 +600,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <a id="wellbeing"></a>
 
----
 #### Wellbeing
 
 <details>
@@ -681,7 +675,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <a id="environmental-preconditions-constitutional"></a>
 
----
 #### Environmental Preconditions
 
 <details>
@@ -742,7 +735,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <a id="reversibility-constitutional"></a>
 
----
 #### Reversibility
 
 <details>
@@ -802,7 +794,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <a id="self-healing-constitutional"></a>
 
----
 #### Self-Healing
 
 <details>
@@ -878,7 +869,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <a id="cascading-failure"></a>
 
----
 #### Cascading Failure
 
 <details>
@@ -930,7 +920,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <a id="existential-risk"></a>
 
----
 #### Existential Risk
 
 <details>
@@ -976,7 +965,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Transparency](core_05_band_oversight.md#transparency); or
     - safety analysis.
 
-
 ---
 
 #### Constitutional efficiency, productive capacity, avoidable burden, and burden-reduction duty
@@ -1005,9 +993,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 *Measurements (family routing):* Measured under the Constitutional Performance measurement family. Find the concrete measures on [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), and [Burden-Reduction Duty](core_05_band_continuity.md#burden-reduction-duty-constitutional) below.
 
+---
+
 <a id="shared-system-capacity-constitutional"></a>
 
----
 #### Shared-System Capacity
 
 <details>
@@ -1059,9 +1048,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - Rights-Floor narrowing; or
     - short-horizon governance that defeats durable alignment.
 
+---
+
 <a id="constitutional-efficiency"></a>
 
----
 #### Constitutional Efficiency
 
 <details>
@@ -1126,9 +1116,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - utilization; or
     - comparable proxy satisfaction.
 
+---
+
 <a id="productive-capacity-constitutional"></a>
 
----
 #### Productive Capacity
 
 <details>
@@ -1201,9 +1192,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - meaningfully participate in productive activity; and
     - derive wellbeing from it.
 
+---
+
 <a id="avoidable-burden"></a>
 
----
 #### Avoidable Burden
 
 <details>
@@ -1277,9 +1269,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - incentives that reward burden creation or maintenance contrary to [Incentive Alignment](core_05_band_integrative.md#incentive-alignment) and Chapter One §11.1; or
     - treating proxy necessity claims as dispositive where [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
 
+---
+
 <a id="burden-reduction-duty-constitutional"></a>
 
----
 #### Burden-Reduction Duty
 
 <details>
@@ -1361,9 +1354,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
 
+---
+
 <a id="ecological-integrity-constitutional"></a>
 
----
 #### Ecological Integrity
 
 <details>
@@ -1433,10 +1427,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - local or paper compliance appears satisfied; or
     - offsets and single-metric reporting stand in for whole-system condition.
 
+---
 
 <a id="ecological-recovery-capacity-constitutional"></a>
 
----
 #### Ecological Recovery Capacity
 
 <details>
@@ -1515,10 +1509,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - treating one species or local population as the whole measure of recovery where systemic habitat condition and regenerative capacity are materially implicated; or
     - using unqualified "recovery capacity" where this entry governs.
 
+---
 
 <a id="ecological-footprint"></a>
 
----
 #### Ecological Footprint
 
 <details>
@@ -1578,10 +1572,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - aggregated; or
     - lifecycle-spanning.
 
+---
 
 <a id="sustainability"></a>
 
----
 #### Sustainability
 
 <details>
@@ -1647,10 +1641,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - harm shifted to other communities or future sentients.
   - **Secondary failure:** productivity, efficiency, or growth offered as sustainable where ecological integrity or environmental preconditions materially deteriorate.
 
+---
 
 <a id="intergenerational-responsibility-constitutional"></a>
 
----
 #### Intergenerational Responsibility
 
 <details>
@@ -1755,9 +1749,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
 
+---
+
 <a id="emergency-and-contingency-constitutional"></a>
 
----
 #### Emergency and Contingency
 
 <details>
@@ -1795,10 +1790,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What must hold**
   - **Primary failure:** pretextual or indefinite emergency or contingency invocation to bypass [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), required [Contestability](core_05_band_accountability.md#contestability), audit, [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), or the [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer).
 
+---
 
 <a id="constitutional-emergency-and-contingency"></a>
 
----
 #### Constitutional Emergency and Contingency
 
 <details>
@@ -1841,10 +1836,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - evading Chapter Fourteen validity procedures; or
     - normalizing emergency constitutional power after the emergency predicate fails.
 
+---
 
 <a id="stakeholder-emergency-and-contingency"></a>
 
----
 #### Stakeholder Emergency and Contingency
 
 <details>
@@ -1886,10 +1881,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - emergency weighting or representation converted into a standing model; or
     - stakeholder-system process substituted for [Constitutional Emergency and Contingency](core_05_band_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated.
 
+---
 
 <a id="emergency-pre-deliberation-action-binding-collective-choice"></a>
 
----
 #### Emergency Pre-Deliberation Action (Binding Collective Choice)
 
 <details>
@@ -1935,9 +1930,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 ---
 
 <a id="governance-structure-decentralization-concentration-semi-independent"></a>
-
----
-
 <a id="dependency-and-cross-system-support-semi-independent"></a>
 
 #### Dependency and cross-system support
@@ -1955,9 +1947,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 *Measurements (family routing):* Measured under the Continuity measurement family (*Dependency and resource flows*; *Cross-system support*). Find the concrete measures on the member definitions below. Read with [Protocol S5 — Resource Allocation and Funding Stewardship](corpus_systems/cs_protocol_s5_resource_allocation_funding_stewardship.md).
 
+---
+
 <a id="dependency"></a>
 
----
 #### Dependency
 
 <details>
@@ -2027,7 +2020,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <a id="proportionate-cross-system-support-constitutional"></a>
 
----
 #### Proportionate Cross-System Contribution
 
 <details>
@@ -2103,7 +2095,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - support conditioned to defeat **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) transparency; or
     - reading this entry as satisfied by survival-floor or non-concentration compliance alone where cross-system extraction remains materially imbalanced.
 
-
 ---
 
 <a id="systemic-effects-and-capture-semi-independent"></a>
@@ -2123,9 +2114,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
 
+---
+
 <a id="systemic"></a>
 
----
 #### Systemic
 
 <details>
@@ -2177,9 +2169,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - individually sub-threshold effects assessed only in isolation where accumulation is material.
   - **Secondary failure:** closing evaluation on single-element analysis where [Systemic Materiality](core_05_band_continuity.md#systemic-materiality) or joint cluster discipline requires assessing interaction and propagation.
 
+---
+
 <a id="systemic-materiality"></a>
 
----
 #### Systemic Materiality
 
 <details>
@@ -2229,7 +2222,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <a id="system-capture"></a>
 
----
 #### System Capture
 
 <details>
@@ -2277,7 +2269,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - resource allocation.
   - **Secondary failure:** failure to detect, disclose, and mitigate capture where [materially implicated](core_05_band_oversight.md#materially-implicated) (where capture is materially in play).
 
-
 ---
 
 <a id="system-boundaries-integrity-and-exit"></a>
@@ -2299,9 +2290,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
 
+---
+
 <a id="system-definition"></a>
 
----
 #### System
 
 - **What it is**
@@ -2333,9 +2325,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - dependencies; or
     - effects identified under [System Boundaries](core_05_band_continuity.md#system-boundaries) and [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity).
 
+---
+
 <a id="system-boundaries"></a>
 
----
 #### System Boundaries
 
 - **What it is**
@@ -2364,9 +2357,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Accountability](core_05_apex_accountability_leg.md#accountability).
   - **Secondary failure:** relying on formal or jurisdictional lines to set scope where material impacts or dependencies fall outside them.
 
+---
+
 <a id="system-boundary-integrity"></a>
 
----
 #### System Boundary Integrity
 
 - **What it is**
@@ -2399,9 +2393,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - actors; or
     - effects.
 
+---
+
 <a id="charter"></a>
 
----
 #### Charter
 
 <details>
@@ -2453,10 +2448,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Secondary failure:** overdue periodic charter review, silent scope expansion, amendment without recorded authority, or — where Def.P2 admission scope applies — missing or dead pointers to the published binding stakeholder-choice process rules;
   - **Tertiary failure:** Charter text used to defeat [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), understate class, narrow [System Creation](core_05_band_participation.md#system-creation-constitutional) / [Business Creation](core_05_band_participation.md#business-creation-constitutional) floors, or stand in for the Def.P2 decision sequence, weighting model, or rights-collision record.
 
+---
 
 <a id="systemic-lock-in"></a>
 
----
 #### Systemic Lock-In
 
 <details>
@@ -2499,14 +2494,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Primary failure:** creating or maintaining lock-in as defined above.
   - **Secondary failure:** failure to satisfy applicable incorporated interoperability, portability, or exit-integrity requirements without adequate justification under Burden of Justification and Constraint requirements.
 
-
 ---
 
 <a id="stewardship-governance-discipline-and-shared-system-capacity-semi-independent"></a>
 <a id="stewardship-review-correction-semi-independent"></a>
-
----
-
 <a id="safe-conditions-tenure-security-and-environmental-preconditions-cluster"></a>
 <a id="safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster"></a>
 
@@ -2526,9 +2517,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 *Measurements (family routing):* Measured under the Flourishing measurement family and Continuity measurement family. Find the concrete measures on the member definitions below.
 
+---
+
 <a id="bodily-maintenance-access-constitutional"></a>
 
----
 #### Bodily-Maintenance Access
 
 <details>
@@ -2581,11 +2573,11 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - exclusions contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); and
     - narrowing the floor on efficiency, allocation, or administrative-convenience grounds.
 
+---
 
 <a id="tenure-security-constitutional"></a>
 <a id="occupancy-continuity-constitutional"></a>
 
----
 #### Occupancy Continuity
 
 <details>
@@ -2641,10 +2633,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - ending occupancy contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); or
     - treating this entry as overridden by [Article XIX](core_06-06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) mechanics without resolving the collision under [Chapter One §6.3.1](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test).
 
+---
 
 <a id="indigenous-continuity-language-culture-heritage-semi-independent"></a>
-
----
 
 #### Community-anchored continuity: indigenous, language, culture, and heritage
 
@@ -2664,7 +2655,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <a id="indigenous-continuity-constitutional"></a>
 
----
 #### Indigenous Continuity
 
 <details>
@@ -2724,10 +2714,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - category-label framings substituting for capability-functional evaluation; and
     - reading this entry as adjudicating historical territorial claims, creating a restitution mandate, or narrowing [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) ecosystem-integrity floors.
 
+---
 
 <a id="language-culture-and-heritage-constitutional"></a>
 
----
 #### Language, Culture, and Heritage
 
 <details>
@@ -2785,7 +2775,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Primary failure:** burdens, exclusions, or harms based on language, culture, or heritage that fail the [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination) (*Nondiscrimination*) Necessity and Proportionality tests, regardless of framing;
   - **Secondary failure:** narrowing language-minority or heritage-community protections under accessibility-cost, translation-burden, or operational-scale framings without satisfying those tests;
   - **Tertiary failure:** exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) where communication or cultural-practice modalities function as language- or culture-equivalents.
-
 
 ---
 
@@ -3354,9 +3343,10 @@ See **Joint invocation and satisfaction**.
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
 
+---
+
 <a id="stewardship-constitutional"></a>
 
----
 ##### Stewardship
 
 <details>
@@ -3409,10 +3399,10 @@ See **Joint invocation and satisfaction**.
     including a stewardship posture that does not preserve repair capacity when misalignment is reasonably foreseeable.
   - **Secondary failure:** masking non-functional stewardship posture after misalignment is reasonably foreseeable.
 
+---
 
 <a id="distributed-understanding-constitutional"></a>
 
----
 ##### Distributed Understanding
 
 <details>
@@ -3466,10 +3456,10 @@ See **Joint invocation and satisfaction**.
     - applicable security limits —
     including expert-only or internal operator knowledge, or [Transparency](core_05_band_oversight.md#transparency) disclosures, that do not create usable learning at the materiality scale that applies.
 
+---
 
 <a id="strategic-stewardship-obligation-constitutional"></a>
 
----
 ##### Strategic Stewardship Obligation
 
 <details>
@@ -3522,10 +3512,10 @@ See **Joint invocation and satisfaction**.
     - designs incentives against constitutional outcomes; or
     - treats short-horizon value, convenience, or institutional self-protection as sufficient stewardship.
 
+---
 
 <a id="short-horizon-governance-defect-constitutional"></a>
 
----
 ##### Short-Horizon Governance Defect
 
 <details>
@@ -3567,10 +3557,10 @@ See **Joint invocation and satisfaction**.
   - **Primary failure:** maintaining such a pattern after risks or misalignment are reasonably foreseeable and correction was practicable.
   - **Secondary failure:** using governance form, metrics, or reporting to mask non-functional stewardship or capacity claims.
 
+---
 
 <a id="stewardship-defect-constitutional"></a>
 
----
 ##### Stewardship Defect
 
 <details>
@@ -3626,10 +3616,10 @@ See **Joint invocation and satisfaction**.
   - **Primary failure:** maintaining a stewardship posture that materially fails the strategic stewardship obligation after risks, misalignment, or harmful incentives are reasonably foreseeable.
   - **Secondary failure:** using documentation, branding, or committee form to mask non-functional stewardship.
 
+---
 
 <a id="review-and-correction-duty-constitutional"></a>
 
----
 ##### Review and Correction Duty
 
 <details>
@@ -3665,7 +3655,6 @@ See **Joint invocation and satisfaction**.
   - **Primary failure:** maintaining published strategy or stewardship claims without periodic revalidation where observability is practicable.
   - **Secondary failure:** refusing revision when outcomes materially contradict stated constitutional alignment.
   - **Tertiary failure:** deferring correction beyond tier-appropriate windows without documented necessity.
-
 
 ---
 
@@ -3931,6 +3920,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="trust"></a>
+
 ##### Trust
 
 <details>
@@ -3965,6 +3955,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="trustworthiness"></a>
+
 ##### Trustworthiness
 
 <details>
@@ -4030,6 +4021,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="trust-degradation-and-misleading-reliance"></a>
+
 ##### Trust Degradation and Misleading Reliance
 
 <details>
@@ -4124,10 +4116,6 @@ See **Joint invocation and satisfaction**.
   - **Tertiary failure:**
     - treating trust-erosion patterns as non-material where Materiality-family definitions require treating them as material; and
     - splitting evaluation so no member definition captures the full functional wrong.
-
----
-
-<a id="truth-and-epistemic-integrity-cluster"></a>
 
 ---
 

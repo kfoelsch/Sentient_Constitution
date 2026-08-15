@@ -35,6 +35,7 @@ This file is the navigation index for implementation and cross-implementation op
 *In plain terms: **CJS-3** is the shared vocabulary shelf. Rather than each implementation layer inventing its own wording for the same operational idea, the clusters here state a term once so that **CJS**, **CS**, **CI**, and **CF** can be checked against the same standard. They add to the owner-file rules; they do not replace them.*
 
 Use these clusters as shared operational terms within standalone implementation scopes and as joint interface terms for combined satisfaction across **CJS**, **CS**, **CI**, and **CF**. They supplement the implementation-group label text and owner-file rules; they do not replace either.
+
 <a id="cjs-30-role-definition-preface-and-standing-competency-bar-and-clearance-interface"></a>
 <a id="cjs-30-role-definition-preface-and-standing-competency-gate-interface"></a>
 

@@ -28,6 +28,7 @@ This band holds definitions under the **Participation** Tetrad leg — sentience
 | **Def.P1** | Animal Life, Sentient Life, and Sentience Status |
 | **Def.P2** | Binding Stakeholder Choice |
 | **Def.P3** | Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity |
+
 ---
 
 <a id="participation-independent-terms"></a>
@@ -348,7 +349,6 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 
 <a id="assembly-collective-organization-institutional-formation-cluster"></a>
 
----
 #### Assembly, collective organization, and institutional formation
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
@@ -843,10 +843,6 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <a id="coercion-and-manipulation-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** Systematic or material coercion or manipulation in systems with material impact on sentients is non-compliant where applicable rights or Chapter One constraints are violated, or where [Consent](core_05_band_participation.md#consent-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), or [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) are materially impaired.
-
----
-
-
 
 ---
 
@@ -2509,8 +2505,6 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 
 <a id="sentient-composite"></a>
 <a id="sentient"></a>
-
----
 
 ##### Sentient
 

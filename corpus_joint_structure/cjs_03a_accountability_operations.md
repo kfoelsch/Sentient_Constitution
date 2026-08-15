@@ -33,6 +33,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 | **CJS-3.13** / **oDef.13** | Accountability: procedural integrity and adjudication terms |
 | **CJS-3.14** / **oDef.14** | Accountability: intervention governance and override-authorization terms |
 | **CJS-3.15** / **oDef.15** | Accountability: structural review, correction urgency, and disclosure terms |
+
 ---
 
 ## CJS-3.11 Accountability: distributed and proportional authority terms
@@ -97,6 +98,7 @@ distributed and proportional authority terms
 The sub-rules below apply that cluster floor to specific anti-concentration, distribution, accountability, classification, lane, systemic, formation, oversight, participation, and stewardship dimensions. Read them together with the cluster floor and the CJS read-with chain.
 
 <a id="cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable"></a>
+
 ### CJS-3.11.1 Market concentration threshold-setting discipline (adopter-tunable)
 
 <details>
@@ -142,6 +144,7 @@ Market-concentration threshold activation
   - **Primary failure:** Persistent concentration without effective mitigation; threshold regimes that nullify the constitutional floor.
 
 <a id="cjs-3112-anti-domination-conduct-and-remediation-catalog"></a>
+
 ### CJS-3.11.2 Anti-domination conduct and remediation catalog
 
 <details>
@@ -189,6 +192,7 @@ anti-domination conduct and remediation catalog
 Remedies must be proportionate to the concentration, dependency, conduct, and constitutional harm. They may include disclosure, access duties, interoperability, portability, open standards, conflict separation, labor-mobility protection, anti-retaliation measures, merger limits, acquisition standstill, procurement or capital-access correction, public-interest stewardship duties, receivership, divestiture, dissolution, or successor-control restrictions where lesser remedies cannot restore contestability. Remedies must preserve the Chapter Six Rights Floor and may not punish scale alone.
 
 <a id="cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable"></a>
+
 ### CJS-3.11.3 Consolidation ceiling-setting discipline (adopter-tunable)
 
 <details>
@@ -395,7 +399,6 @@ Stewardship-role depth and non-symbolic governance boundary
 
 ---
 
----
 ## CJS-3.12 Accountability: burden-of-justification and constraint terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -647,7 +650,6 @@ Temporal discipline and revalidation
 
 ---
 
----
 ## CJS-3.13 Accountability: procedural integrity and adjudication terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -927,6 +929,7 @@ Uncertainty safeguards and anti-abuse floor
   - **Primary failure:** Hidden uncertainty or procedure designed to exhaust challengers.
 
 ---
+
 ## CJS-3.14 Accountability: intervention governance and override-authorization terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1089,7 +1092,6 @@ Records, transparency, and challenge pathway duties
 
 ---
 
----
 ## CJS-3.15 Accountability: structural review, correction urgency, and disclosure terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1200,12 +1202,6 @@ Use this sub-rule when a material **classification, typing, or status record** o
 - **What must hold**
   - **Primary failure:** Leave known misclassification or evasion uncorrected, to game boundaries or labels to dodge stronger duties, to fill uncertainty with an optimistic understatement, or to lower protective findings by assertion or internal self-clear without the required evidence and review.
 
----
-
-**Previous file:** [cjs_03p_participation_operations.md](cjs_03p_participation_operations.md)
-
-**Next file:** [cjs_03c_continuity_operations.md](cjs_03c_continuity_operations.md)
-
 <a id="realignment-resistance-and-dissolution-review-trigger-floor"></a>
 Realignment resistance and dissolution-review trigger floor
 
@@ -1273,3 +1269,9 @@ Systemic-pattern detection and escalation
 <a id="systemic-pattern-detection-and-escalation-c"></a>
 - **What must hold**
   - **Primary failure:** Treating repeated patterns as isolated events to avoid review.
+
+---
+
+**Previous file:** [cjs_03p_participation_operations.md](cjs_03p_participation_operations.md)
+
+**Next file:** [cjs_03c_continuity_operations.md](cjs_03c_continuity_operations.md)

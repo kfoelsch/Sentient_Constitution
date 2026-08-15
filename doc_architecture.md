@@ -470,6 +470,26 @@ Capitalize **Constitutional Tetrad**, **Two Constitutional Aims**, **Flourishing
 
 Chapter Five editorial order: `make ch5-entry-format-audit`, `make ch5-alphabetical-directory-audit`, `make ch5-cluster-order-audit`, `make ch5-constitutional-cluster-audit`. For drift-prone concepts: one canonical paragraph (**section 2**; **CJS-0.1**); elsewhere pointers only.
 
+**Definition separators (CH5-FORMAT).** Chapter Five band, apex, and home files use **one** Markdown horizontal rule between reader units (leaf entries, taxonomy `###` sections, and cluster / topic-group heads). Canonical shape:
+
+```
+[end of previous unit]
+
+---
+
+<a id="entry-slug"></a>
+
+#### Title
+```
+
+- Exactly one `---` at each unit boundary. Do not stack `---` lines. Do not place a second `---` between an entry's own `<a id>` anchors and its title.
+- One blank line before `---` (CommonMark / `make corpus-markdown-audit`) and one blank line after.
+- The first `####` under a `###` taxonomy heading does not take its own `---`; the section heading is the break.
+- File-top widgets stay free of `---` (**NAV-PLACEMENT-01**). Footer `---` before `**Previous file:**` / `**Next file:**` is unchanged.
+- Retired Part B topic-group double-`---` stacks and Part C multi-`---` cluster openers do not apply to the current band files.
+
+CJS-3 `##` cluster sections use the same single-`---` delimiter (see **CJS-1.14**). Do not insert a `---` in front of a `###` component merely because that component carries Trace — that would end the cluster. Enforced by `make ch5-entry-format-audit` and `make cjs-operational-cluster-audit`.
+
 **Precedence:** (1) Sentient Constitution values/rights; (2) Ch 2–3 for term meaning; (3) CS-2/4/5 for Type/Class/steward assignment; (4) stricter applicable rule where declared.
 
 ---

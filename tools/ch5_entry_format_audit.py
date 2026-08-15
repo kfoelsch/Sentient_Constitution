@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """Audit Chapter Five entry-title and trace-separator formatting.
 
+Separator rule (``doc_architecture.md`` CH5-FORMAT): one ``---`` between
+reader units, with the next entry's ``<a id>`` anchors *after* that rule.
+Stacked rules and a ``---`` between an entry's own anchors and its title
+are failures. See ``tools/definition_separator_format.py``.
+
 Also enforces the **reference-side no-redundant-`(Constitutional)`-suffix rule**
 (see ``doc_architecture.md`` §"Order and alphabetization (Chapter Five)"
 Section 1, *Reference-side rule*) across the binding corpus, architectural
@@ -26,8 +31,8 @@ if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
 from ch5_paths import CH5_ALL
-
 from corpus_paths import binding_corpus_scope
+from definition_separator_format import audit_separator_lines
 
 
 def parse_args() -> argparse.Namespace:
@@ -292,18 +297,7 @@ def audit_one_ch5_file(path: pathlib.Path, violations: list[str]) -> None:
                 f"{path}:{idx + 4}: trace/details block must keep one blank line after the spacer before the next content line"
             )
 
-    for idx in range(len(lines) - 3):
-        if lines[idx].strip() != "---":
-            continue
-        if lines[idx + 1].strip():
-            continue
-        if lines[idx + 2].strip() != "---":
-            continue
-        next_line = lines[idx + 3].strip()
-        if next_line.startswith(("<a id=", "#### ", "##### ")):
-            violations.append(
-                f"{path}:{idx + 3}: Chapter Five entries must not use duplicated separator lines between adjacent entries"
-            )
+    violations.extend(audit_separator_lines(lines, str(path)))
 
 def main() -> int:
     args = parse_args()

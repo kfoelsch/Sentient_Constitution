@@ -34,6 +34,7 @@ This family operationalizes the constitutional [Continuity aim](../core_00_pream
 | **CJS-3.19** / **oDef.19** | Continuity: graceful degradation and failure-mode integrity terms |
 | **CJS-3.20** / **oDef.20** | Continuity: reversibility and containment terms |
 | **CJS-3.21** / **oDef.21** | Continuity: adversarial robustness and abuse-resistance terms |
+
 ---
 
 ## CJS-3.16 Continuity: dependency integrity and disclosure terms
@@ -245,6 +246,7 @@ Substitutability, exit constraints, and mitigation duties
   - **Primary failure:** Hidden lock-in, hidden switching costs, or unaddressed exit barriers unless a lawful and proportionate justification is documented.
 
 ---
+
 ## CJS-3.17 Continuity: interoperability, portability, and exit-integrity terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -575,6 +577,7 @@ Right-to-exit pathway integrity
   - **Primary failure:** Nominal exit that is functionally blocked or coercive.
 
 ---
+
 ## CJS-3.18 Continuity: data-retention and lifecycle-integrity terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -801,6 +804,7 @@ Transparency disclosures and stakeholder legibility
   - **Primary failure:** Incomplete, obscure, or misleading retention disclosures.
 
 ---
+
 ## CJS-3.19 Continuity: graceful degradation and failure-mode integrity terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1026,6 +1030,7 @@ Signaling integrity and anti-silent-failure controls
   - **Primary failure:** Preserving a false appearance of normal operation.
 
 ---
+
 ## CJS-3.20 Continuity: reversibility and containment terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1152,7 +1157,6 @@ Rollback and containment capability
 
 ---
 
----
 ## CJS-3.21 Continuity: adversarial robustness and abuse-resistance terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

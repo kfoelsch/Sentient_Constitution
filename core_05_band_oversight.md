@@ -27,6 +27,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 |---|---|
 | **Def.O1** | Transparency, Auditability, and Verification |
 | **Def.O2** | Truth and Epistemic Integrity |
+
 ---
 
 <a id="oversight-independent-terms"></a>
@@ -152,8 +153,6 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 <a id="press-and-journalistic-activity-constitutional"></a>
 
----
-
 #### Press and Journalistic Activity
 
 <details>
@@ -225,9 +224,10 @@ Implication can exist without misalignment. Misalignment always implies material
 
 *Measurements (family routing):* Measured under the Oversight measurement family. Find the concrete measures on the member definitions below.
 
+---
+
 <a id="material"></a>
 
----
 #### Material
 
 <details>
@@ -258,9 +258,10 @@ Implication can exist without misalignment. Misalignment always implies material
   - **Primary failure:** ignoring conditions that [Materiality Determination](core_05_band_oversight.md#materiality-determination) would treat as material.
   - **Secondary failure:** calling individually small effects immaterial when, taken together or system-wide, they would count as material.
 
+---
+
 <a id="materiality-determination"></a>
 
----
 #### Materiality Determination
 
 <details>
@@ -329,9 +330,10 @@ Implication can exist without misalignment. Misalignment always implies material
     - ignoring dependency.
   - **Tertiary failure:** determinations that rest on manipulated boundaries or "the metric looks fine" where [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint) or [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
 
+---
+
 <a id="materiality-integrity-constraint"></a>
 
----
 #### Materiality Integrity Constraint
 
 <details>
@@ -365,9 +367,10 @@ Implication can exist without misalignment. Misalignment always implies material
   - **Primary failure:** treating collectively material effects as immaterial through structural manipulation.
   - **Secondary failure:** boundary or aggregation games that defeat [Auditability](core_05_band_oversight.md#auditability), or relying on "the metric looks fine" where [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
 
+---
+
 <a id="material-impact"></a>
 
----
 #### Material Impact
 
 <details>
@@ -412,9 +415,10 @@ Implication can exist without misalignment. Misalignment always implies material
     - material impacts that do not trigger the right constraints under [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Transparency](core_05_band_oversight.md#transparency).
   - **Secondary failure:** fragmented or dependency-hidden effects labeled immaterial when joint analysis would classify them as material.
 
+---
+
 <a id="material-risk"></a>
 
----
 #### Material Risk
 
 <details>
@@ -457,9 +461,10 @@ Implication can exist without misalignment. Misalignment always implies material
     - material risk not addressed and constrained under [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Risk](core_05_band_continuity.md#risk), and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance).
   - **Secondary failure:** tail or irreversible pathways excluded when [Irreversible Harm](core_05_band_accountability.md#irreversible-harm) remains plausible.
 
+---
+
 <a id="materiality-under-uncertainty"></a>
 
----
 #### Materiality Under Uncertainty
 
 <details>
@@ -496,10 +501,10 @@ Implication can exist without misalignment. Misalignment always implies material
     - failure to default to conservative classification under uncertainty where [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) requires it.
   - **Secondary failure:** optimism or informal low classification where [Irreversible Harm](core_05_band_accountability.md#irreversible-harm) or [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) requires precaution.
 
+---
 
 <a id="proxy-divergence"></a>
 
----
 #### Proxy Divergence
 
 <details>
@@ -563,10 +568,10 @@ Implication can exist without misalignment. Misalignment always implies material
   - **Secondary failure:** using "the metric looks fine" to skip direct evaluation of Rights-Floor, safety, truth, wellbeing, ecological, or agency outcomes while divergence is reasonably observable.
   - **Tertiary failure:** refusing correction after the gap between reported indicators and what sentients actually experience becomes reasonably observable.
 
+---
 
 <a id="material-degradation"></a>
 
----
 #### Material Degradation
 
 <details>
@@ -603,8 +608,6 @@ Implication can exist without misalignment. Misalignment always implies material
 ---
 
 <a id="movement-refuge-semi-independent"></a>
-
----
 
 ### Oversight: Dependent clusters
 
@@ -667,6 +670,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="transparency"></a>
+
 ##### Transparency
 
 <details>
@@ -718,6 +722,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="public-oversight-baseline-disclosure"></a>
+
 ##### Public Oversight Baseline Disclosure
 
 <details>
@@ -794,10 +799,10 @@ See **Joint invocation and satisfaction**.
     - omitting baseline visibility into purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, or constitutional compliance.
   - **Tertiary failure:** hold-backs that are not narrow, documented, proportionate, auditable, and challengeable under CS-2 and [Transparency](core_05_band_oversight.md#transparency).
 
-
 ---
 
 <a id="risk-disclosure"></a>
+
 ##### Risk Disclosure
 
 <details>
@@ -837,10 +842,10 @@ See **Joint invocation and satisfaction**.
     - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which risk must be disclosed.
   - **Secondary failure:** an internal-only note, buried appendix, or after-the-fact statement used as disclosure when the sentients who needed the risk picture could not use it in time.
 
-
 ---
 
 <a id="auditability"></a>
+
 ##### Auditability
 
 <details>
@@ -922,6 +927,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="evidence-preservation"></a>
+
 ##### Evidence Preservation
 
 <details>
@@ -971,6 +977,7 @@ See **Joint invocation and satisfaction**.
 ---
 
 <a id="evaluation-completeness-constraint"></a>
+
 ##### Evaluation Completeness Constraint
 
 <details>
@@ -1033,6 +1040,7 @@ See **Joint invocation and satisfaction**.
 <a id="verification-proportionality"></a>
 <a id="verification-robustness"></a>
 <a id="verifiability"></a>
+
 ##### Verifiability
 
 <details>
@@ -1166,6 +1174,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 - [Security-Sensitive Disclosure Balance](core_05_band_oversight.md#security-sensitive-disclosure-balance) — weigh disclosure benefits against exploitation risk; keep a usable route for good-faith researchers; defer exploit-enabling detail until mitigation is complete.
 
 <a id="publication-truthfulness-and-recklessness-floor"></a>
+
 ##### Publication Truthfulness and Recklessness Floor
 
 *In plain terms: if you publish something as fact, do not knowingly lie — and do not recklessly ignore accuracy, uncertainty, context, or material interpretive limits.*
@@ -1195,6 +1204,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - material interpretive limits.
 
 <a id="protected-data-and-internal-state-publication-constraint"></a>
+
 ##### Protected Data and Internal-State Publication Constraint
 
 *In plain terms: do not publish restricted data or expose another sentient's protected inner cognitive or emotional states.*
@@ -1212,6 +1222,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
   - **Primary failure:** publication that violates restricted-data rules, bypasses CS-2 handling, or exposes protected internal states contrary to [Privacy (Informational)](core_05_band_continuity.md#privacy-informational) and [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional).
 
 <a id="high-impact-and-systemic-harm-publication-constraint"></a>
+
 ##### High-Impact and Systemic Harm Publication Constraint
 
 *In plain terms: even true publication can be constrained when it foreseeably enables targeted harm, coercion, large-scale harmful coordination, or cascading failure.*
@@ -1240,6 +1251,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
   - **Primary failure:** publishing without the proportional distribution constraints and safeguards required for these primary or reasonably foreseeable effects, including the heightened constraints for **Class A** and **Class B** systems.
 
 <a id="security-sensitive-disclosure-balance"></a>
+
 ##### Security-Sensitive Disclosure Balance
 
 *In plain terms: weigh the benefit of disclosure against the risk that it helps someone break safeguards or game the system — give good-faith security researchers (white hats) a real route to publish low-risk findings, and wait to publish exploit-enabling detail until the fix is in place.*
@@ -1268,6 +1280,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - indefinite hold-back of discloseable detail after mitigation without a still-justified **Type S** (or equivalent) restriction.
 
 <a id="truth-constitutional-constraint"></a>
+
 ##### Truth (Constitutional Constraint)
 
 *In plain terms: when claims matter for decisions, be honest about what is known, unknown, and uncertain — do not deceive, distort, or present things in a misleading structure.*
@@ -1307,6 +1320,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
   - **Tertiary failure:** prices, odds, or market resolution sources used as enough for rights, safety, or governance truth determinations where Chapter One forbids that substitution, or refusal of correction after [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
 
 <a id="epistemic-integrity"></a>
+
 ##### Epistemic Integrity
 
 *In plain terms: the methods and evidence behind an evaluation must stay honest and checkable — prestige, opacity, or paperwork cannot stand in for truth.*
@@ -1392,6 +1406,7 @@ See **Joint invocation and satisfaction**.
 <a id="foreseeability-scaling"></a>
 <a id="foreseeability-scope"></a>
 <a id="foreseeability-diligence"></a>
+
 ##### Foreseeability Diligence
 
 *In plain terms: do a reasonable analysis sized to the impact — dig deeper when stakes are high, cover the required boundaries (including interactions, dependency, and adversarial use), and if you claim something was unforeseeable, justify that claim. Assertion and checkboxes are not enough.*
@@ -1444,6 +1459,7 @@ See **Joint invocation and satisfaction**.
     - incompleteness that defeats [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence), [Risk](core_05_band_continuity.md#risk) evaluation, or [Safety (Constraint)](core_05_band_continuity.md#safety-constraint).
 
 <a id="reasonably-foreseeable"></a>
+
 ##### Reasonably Foreseeable
 
 *In plain terms: outcomes a careful analyst using known methods could identify before acting — including under adversarial and scaled conditions — not every conceivable outcome or pure hindsight.*

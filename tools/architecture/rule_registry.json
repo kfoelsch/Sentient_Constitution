@@ -103,7 +103,7 @@
     {
       "id": "CH5-FORMAT",
       "legacy_ref": "ch5 entry format",
-      "summary": "Trace separators and no redundant (Constitutional) suffix in references.",
+      "summary": "One --- between definition units (above <a id> anchors); no stacked or wrong-side rules; no redundant (Constitutional) suffix.",
       "make_target": "ch5-entry-format-audit",
       "status": "blocking"
     },

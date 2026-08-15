@@ -30,6 +30,7 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
 |---|---|
 | **CJS-3.22** / **oDef.22** | Integrative: constrained-secrecy and protected-investigation terms |
 | **CJS-3.23** / **oDef.23** | Integrative: intervention and override integrity terms |
+
 ---
 
 ## CJS-3.22 Integrative: constrained-secrecy and protected-investigation terms
@@ -180,7 +181,6 @@ No permanent secrecy and anti-normalization discipline
 
 ---
 
----
 ## CJS-3.23 Integrative: intervention and override integrity terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -389,8 +389,6 @@ Trigger scope and timeliness applicability
 <a id="trigger-scope-and-timeliness-applicability-c"></a>
 - **What must hold**
   - **Primary failure:** Sole reliance on post-hoc audit or restoration where preemptive intervention is required.
-
----
 
 ---
 

@@ -57,6 +57,7 @@ This file is the joint-structure implementation home for **CJS-3.3** (*Audit pro
 **Cluster identity.** Stable citation **CJS-3.3** names this process home. The guidepost **oDef** auditability and reconstructability checklist remains in [cjs_03o_oversight_operations.md](cjs_03o_oversight_operations.md#cjs-33-auditability-annex) under the same cluster ID — annex, not the front door.
 Use this file whenever someone needs to understand or run auditing across **CS**, **CI**, and **CF** — or whenever records, access pathways, or verification design depend on standalone or combined system, institution, forum, dependency, or implementation-layer behavior.
 **Oversight frame.** Under the Constitutional Tetrad **oversight** leg, oversight requires auditing. [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) (Chapter Seven) is one especially large, high-stakes audit process among others. This file is the cross-implementation process home; it does not relocate **Article XV** floors into Chapter Seven or into any single CS / CI / CF file.
+
 <a id="cjs-33-what-auditing-is"></a>
 
 ## What auditing is
@@ -79,6 +80,7 @@ Auditing **is not**:
 - satisfied by saying "audit happened" when outputs are missing, unreachable, or typed more restrictively than justified
 
 <a id="cjs-33-why-we-audit"></a>
+
 ## Why we audit
 
 *In plain terms: we audit so misalignment, concealment, and capture get caught before harm hardens — and so sentients can challenge and fix what went wrong.*
@@ -92,6 +94,7 @@ We audit to:
 Depth and frequency scale with [material stake](../core_00_preamble.md#material-stake), class, dependency, and risk. Higher stakes mean deeper checks, clearer outputs, and harder-to-capture review paths.
 
 <a id="cjs-33-how-we-audit"></a>
+
 ## How we audit
 
 *In plain terms: keep honest evidence, pick the right access tier, get an independent check, publish usable results as openly as you can, and leave a path to challenge.*
@@ -111,6 +114,7 @@ A working audit process follows this chain:
 Privacy and internal-state protections (**Article VII-B**) limit what may be exposed. They do **not** excuse hiding what was done, why it mattered, who or what was responsible, or what external effects followed.
 
 <a id="cjs-33-when-we-audit"></a>
+
 ## When we audit
 
 *In plain terms: audit when impact is material, when something important changes, on a schedule that matches risk, and whenever harm or dispute requires reconstruction — not only when certification is due.*
@@ -127,6 +131,7 @@ Audit when any of the following applies (often more than one):
 "Where feasible" does **not** make required independent audit paths soft-optional for high-impact subjects. Eligibility rules for qualified independent or third-party paths must stay public and non-exclusive (**CJS-3.4**).
 
 <a id="cjs-33-sibling-modes"></a>
+
 ## Sibling audit modes (owner map)
 
 *In plain terms: auditing shows up in several places — this home coordinates them; it does not swallow their owner files. These modes use the three-layer stack (Article XV floor, Auditability property, this file as how/when). They are not extra homes.*

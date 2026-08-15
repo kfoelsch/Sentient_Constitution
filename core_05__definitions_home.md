@@ -20,6 +20,7 @@
 </details>
 
 <br>
+
 ### Canonical home and non-duplication rule
 *In plain terms: every defined term has one official home. That home decides what the term means. Other files may apply the term, but they may not quietly redefine it.*
 
@@ -37,6 +38,7 @@ If wording outside the canonical home seems to broaden, narrow, replace, or comp
 
 <a id="1-interdependent-definitions"></a>
 <a id="1-independent-definitions"></a>
+
 ### 1. Independent Definitions
 
 Independent Definitions are reusable semantic building blocks that can be invoked across multiple definitions. They define shared ontological, measurement, assessment, and compliance constructs. Apply them wherever they are materially relevant to system behavior, outcomes, evaluation scope, or compliance determination.
@@ -54,6 +56,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 ---
 
 <a id="dependent-cluster-meta-rules"></a>
+
 ### 2. Dependent-cluster meta rules
 
 *In plain terms: cluster members must be read and satisfied together — no member is a standalone shortcut around joint requirements.*
@@ -61,18 +64,21 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 A **dependent cluster** is a group of definitions that must be met together, inside the scope each cluster states. [Joint invocation and satisfaction](#joint-invocation-and-satisfaction) and [Standalone definitions interaction and full context](#standalone-definitions-interaction-and-full-context) apply to every cluster. Dependent clusters **Def.O1–Def.I1** live in the constitutional band files — see [Clusters A-Z](#clusters-a-z) and the [compass](#chapter-five-compass-and-definition-map).
 
 <a id="joint-invocation-and-satisfaction"></a>
+
 #### Joint invocation and satisfaction
 If a definition — or any part of one — belongs to a dependent cluster, it may not be applied, satisfied, or judged on its own. When cluster members are pieces of one requirement, all of them must be met. Meeting only some of them is not compliance.
 
 Cluster-local applications of this rule appear under **Anti-bypass** (not a second "joint invocation" header). Those bullets state the cluster-specific anti-segmentation rule and may end with `See` this section — they must not reopen with `Under Joint invocation and satisfaction, …`.
 
 <a id="standalone-definitions-interaction-and-full-context"></a>
+
 #### Standalone definitions interaction and full context
 Calling a definition Independent or Semi-independent does not let it skip cluster membership. Dependent clusters must still be met together in the full real-world system context. No piece may be peeled off, reclassified, or applied alone in a way that changes the compliance result.
 
 ---
 
 <a id="chapter-five-alphabetical-directory"></a>
+
 ### Chapter Five alphabetical directory (non-operative)
 
 <details>
@@ -88,6 +94,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 <a id="definitions-a-z-unified"></a>
 <a id="all-definitions-and-clusters-a-z"></a>
 <a id="definitions-a-z"></a>
+
 #### Definitions A-Z
 
 - [Accessibility](core_05_band_participation.md#accessibility-constitutional)
@@ -316,6 +323,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Wellbeing](core_05_band_continuity.md#wellbeing)
 
 <a id="clusters-a-z"></a>
+
 #### Clusters A-Z
 
 - [Def.P1 Animal Life, Sentient Life, and Sentience Status](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster)

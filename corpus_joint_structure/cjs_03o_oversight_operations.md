@@ -34,6 +34,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 | **CJS-3.5** / **oDef.5** | Oversight: independent verification and claim-integrity terms (annex) |
 | **CJS-3.6** / **oDef.6** | Oversight: integrity assurance and resilience operations |
 **Reader note.** For what auditing is, why / how / when to run it, and the sibling-mode map, start at the **[CJS-3.3 audit process home](cjs_03_audit_process.md#cjs-33-audit-process-home)**. This file keeps the machine-facing Oversight OP clusters.
+
 ---
 
 ## CJS-3.2 Oversight: reflexive transparency and accountability terms
@@ -235,9 +236,9 @@ Transparency, audit, and verification-integrity duties
 
 ---
 
----
 <a id="cjs-33-audit-process-home"></a>
 <a id="cjs-33-auditability-annex"></a>
+
 ## CJS-3.3 Oversight: auditability and reconstructability terms (annex)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -364,6 +365,7 @@ Operational transparency and structured logging requirements
   - **Primary failure:** Unstructured, inaccessible, or insufficient logging.
 
 ---
+
 ## CJS-3.4 Oversight: tiered transparency and audit-access terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -578,7 +580,6 @@ Tier structure and baseline accessibility
 
 ---
 
----
 ## CJS-3.5 Oversight: independent verification and claim-integrity terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -734,6 +735,7 @@ Structured review and incentive-integrity floor
   - **Primary failure:** A claim-review pathway if it treats a single opaque accept/reject decision as sufficient for material reliance, lets prestige or closed ranking substitute for evidence quality, suppresses good-faith replication or critique, hides reviewer conflicts or editorial overrides from qualified audit, or punishes correction while rewarding concealment.
 
 ---
+
 ## CJS-3.6 Oversight: integrity assurance and resilience operations
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

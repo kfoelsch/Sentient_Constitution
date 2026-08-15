@@ -25,7 +25,7 @@ Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/
 | `in-paragraph-link-audit` | `tools/in_paragraph_link_audit.py` | LINK-IN-PARA-14 | Proof registry + See anti-patterns |
 | `ch5-definitions-gravity-audit` | `tools/ch5_definitions_gravity_audit.py` | CH5-GRAVITY | Admission gate / de-bundling |
 | `ch5-trace-crosslink-audit` | `tools/ch5_trace_crosslink_audit.py` | NAV-TRACE-10 | Ch5 Read with placement |
-| `ch5-entry-format-audit` | `tools/ch5_entry_format_audit.py` | CH5-FORMAT | Separators, suffix discipline |
+| `ch5-entry-format-audit` | `tools/ch5_entry_format_audit.py` | CH5-FORMAT | One `---` above entry anchors; no stacks; suffix discipline |
 | `ch5-alphabetical-directory-audit` | `tools/ch5_alphabetical_directory_audit.py` | CH5-ORDER-01 | Directory order |
 | `ch5-single-definition-audit` | `tools/ch5_single_definition_audit.py` | CH5-SINGLE-DEF | One label per term |
 | `ch5-dac-widget-audit` | `tools/ch5_dac_widget_audit.py` | NAV-DAC-12 | Widget row shape |

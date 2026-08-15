@@ -8,6 +8,8 @@ Fails when:
 - CJS-3 cluster section headings use letter suffixes (CJS-3A.1, CJS-3B, etc.).
 - CJS-3.1 constitutional compass map is incomplete or cluster Trace blocks lack
   Constitutional frame / Chapter One basis metadata.
+- CJS-3 band files stack ``---`` delimiters or place a rule between an entry's
+  own ``<a id>`` anchors and its heading (CH5-FORMAT / CJS-1.14).
 """
 
 from __future__ import annotations
@@ -19,6 +21,7 @@ from pathlib import Path
 
 from corpus_paths import binding_corpus_scope
 from cjs_odef_format import LEGACY_OP_RE, titled_guidepost_entries
+from definition_separator_format import audit_separator_lines
 
 CJS1_FILE = "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md"
 CJS3_GLOB = "corpus_joint_structure/cjs_03*.md"
@@ -212,6 +215,16 @@ def audit_letter_cluster_citations(root: Path) -> list[str]:
     return findings
 
 
+def audit_cjs3_separators(root: Path) -> list[str]:
+    findings: list[str] = []
+    for rel in [CJS3_COMPASS_FILE, *CJS3_BAND_FILES, "corpus_joint_structure/cjs_03_audit_process.md"]:
+        path = root / rel
+        if not path.exists():
+            continue
+        findings.extend(audit_separator_lines(path.read_text(encoding="utf-8").splitlines(), rel))
+    return findings
+
+
 def main() -> int:
     args = parse_args()
     root = Path(args.root).resolve()
@@ -221,6 +234,7 @@ def main() -> int:
     findings.extend(audit_cjs3_letter_headings(root))
     findings.extend(audit_cjs3_compass_and_frames(root))
     findings.extend(audit_letter_cluster_citations(root))
+    findings.extend(audit_cjs3_separators(root))
 
     if findings:
         print("CJS operational cluster audit failed:\n", file=sys.stderr)
