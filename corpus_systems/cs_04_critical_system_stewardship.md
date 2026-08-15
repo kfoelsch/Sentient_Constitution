@@ -21,22 +21,40 @@ This file is the systems implementation home for **CS-4** (*Critical system stew
 
 ## 1. Definition
 
-*In plain terms: Who counts as a steward: an organization a critical system cannot run, recover, or be governed without, and for which no substitute can be found in time.*
+*In plain terms: Who counts as a steward: an organization a Class A or Class B system — or a Dep-A / Dep-B dependency of one — cannot run, recover, or be governed without.*
 
-**Critical System Stewards** are organizations whose operation, governance, or continuity is a **non-substitutable dependency** for the **operation, recovery, or governance** of **Class A, B, or C** systems. They are organizational dependencies for functioning, maintenance, recovery, or oversight.
+**Critical System Stewards** are organizations whose operation, governance, or continuity is a **non-substitutable or operationally required** dependency for the **operation, recovery, or governance** of **Class A or Class B** systems, or of a **Dep-A or Dep-B** dependency of such a system. They are organizational dependencies for functioning, maintenance, recovery, or oversight.
 
-**Failure, withdrawal, capture, or degradation** would **materially impair** those systems within **survival-relevant operational or recovery timeframes**.
+**Failure, withdrawal, capture, or degradation** would **materially impair** those systems within **required operational or recovery timeframes**.
+
+**Class C** brings an organization into this category only under [§2](#2-classification-as-steward). **Class L** and **Class P** do not.
 
 <a id="2-classification-as-steward"></a>
 ## 2. Classification as steward
 
-*In plain terms: Four ways an organization ends up in this category — exclusive control, non-substitutable expertise, chokepoint position, or failure that would look like system failure.*
+*In plain terms: Steward status follows the CS-3 class of what you actually run, recover, or gate. Class A or B — or a Dep-A / Dep-B dependency of one — makes you a Critical System Steward. Class C only if you have become a chokepoint. The four tests below prove that relationship; they are not a second classification scheme.*
 
-An organization is a Critical System Steward where any of the following applies:
+Steward classification uses the affected system's [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional) — **impact class** ([CS-3 Part B](cs_03_b_system_impact_classifications.md#8-system-impact-classifications)) and **dependency type(s)** ([CS-3 Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-dep-ap)). It does **not** invent a parallel class axis. [§3](#3-stewardship-criticality-levels) sets CSS-A / CSS-B / CSS-C intensity. [§13](#13-relationship-to-system-classes) states ownership and chain rules.
+
+An organization is a **Critical System Steward** where any of the following holds:
+
+- **Class A or Class B presumption:** it **stewards** — operates, governs, recovers, or holds material authority over — a **Class A** or **Class B** system
+- **A/B dependency:** it stewards a **[Dep-A](cs_03_a_system_classification_machinery.md#41-dep-a-absolute-dependency)** or **[Dep-B](cs_03_a_system_classification_machinery.md#42-dep-b-operational-dependency)** dependency of a Class A or Class B system, including a concentrated component, infrastructure layer, or restoration path those systems cannot run, recover, or be governed without
+- **Class C (gated):** it stewards a **Class C** system or dependency **only if** at least one **relationship indicator** below is met — typically where it is a **chokepoint**, including for Class A or Class B dependents, or for Class C coordination that sentients cannot practically substitute within required timeframes, **or** where its failure or withdrawal would produce operational impairment comparable to **Class B** (dependents cannot maintain core function even in degraded modes)
+
+**Otherwise**, Class C operators remain under ordinary **CS-3** class duties **without** this CS-4 overlay.
+
+Where a Class C layer has become an **operational prerequisite** for Class A or Class B function, **reclassify the system** under [CS-3 Part B §8.2](cs_03_b_system_impact_classifications.md#82-neighbor-boundaries-and-dependency-axis-correlation) (**B ↔ C**) and apply the Class A or Class B presumption.
+
+**Class L** and **Class P** do **not**, by themselves, make the organization a Critical System Steward.
+
+**Relationship indicators** (any sufficient to prove the Class A/B or gated Class C relationship; **not** a substitute for the class finding):
 - it **exercises exclusive or highly concentrated** control over operation, maintenance, or critical components
 - it **holds non-substitutable** expertise, access, or authority for continuity or recovery
-- it **functions as a chokepoint** in intervention, override, or restoration pathways **not bypassable** within survival-relevant timeframes
-- **its failure** would create **system-level risk comparable to partial system failure**
+- it **functions as a chokepoint** in intervention, override, or restoration pathways **not bypassable** within required timeframes
+- **its failure** would create **system-level risk comparable to partial system failure** of the affected class
+
+**Not every vendor.** A **[Dep-L](cs_03_a_system_classification_machinery.md#44-dep-l-limited-dependency)** or **[Dep-P](cs_03_a_system_classification_machinery.md#45-dep-p-no-meaningful-external-dependency)** supplier, or other bounded replaceable contributor, does **not** inherit Critical System Steward status from appearing in an A/B dependency chain.
 
 <a id="3-stewardship-criticality-levels"></a>
 ## 3. Stewardship criticality levels
@@ -53,16 +71,18 @@ Stewardship must reflect dependency and system impact; it sets the **scale and i
 
 **Alternatively**, failure produces **widespread, systemic, or cross-domain** disruption **without** immediate loss of survival conditions.
 
-**CSS-C (Moderate-Criticality):** **Material contribution** to **Class C** with significant coordination or dependency effects.
+**CSS-C (Moderate-Criticality):** Steward of a **Class C** system or dependency that entered under [§2](#2-classification-as-steward) (*gated Class C*), with significant coordination or dependency effects.
 
 **Substitutability or recovery** remains achievable within **reasonable** timeframes.
+
+Where the same organization also affects **Class A** or **Class B**, [§4](#4-scaling-obligations) (**highest affected class**) governs — do **not** hold CSS-C to avoid a higher tier.
 
 <a id="4-scaling-obligations"></a>
 ## 4. Scaling obligations
 
 *In plain terms: Duties follow the real dependency, not the paperwork. The highest affected class governs, and a narrow contract does not buy a lighter obligation.*
 
-Scale with **highest affected system class (A, B, or C)**.
+Entry into this category is [§2](#2-classification-as-steward). Scale with **highest affected system class (A, B, or C)**.
 
 Also scale with **dependency concentration and substitutability**.
 
@@ -325,13 +345,15 @@ Its purpose is to preserve function, recoverability, and **Foundational Rights**
 <a id="13-relationship-to-system-classes"></a>
 ## 13. Relationship to system classes
 
-*In plain terms: Steward status and system class are separate questions. Being a steward is about actual dependency, not ownership or what a contract says.*
+*In plain terms: Steward status follows the highest class you actually affect, not who holds title. You can be a Critical System Steward without owning the system.*
 
-Steward category is **orthogonal** to system class **(A, B, C, L, P)**. It does **not replace** system class.
+Steward category is **coupled to** system class **(A, B, C)** through [§2](#2-classification-as-steward) and [§3](#3-stewardship-criticality-levels). It does **not replace** system class and is **not** a second impact-class finding.
 
-An organization may be stewardship-critical if it **materially affects** continuity or integrity **whether or not it owns** the system.
+An organization may be a Critical System Steward if it **materially affects** continuity or integrity **whether or not it owns** the system.
 
 Assess criticality from **actual dependency and substitutability**, not ownership, contract framing, or declared scope alone. Assess across the **dependency chain** including subcontractors, maintainers, infrastructure providers.
+
+**Class L** and **Class P** remain outside this overlay unless reclassification under **CS-3** raises the affected system to **Class C** or higher **and** [§2](#2-classification-as-steward) is met.
 
 <a id="private-chokepoint-access-continuity"></a>
 <a id="79-high-dependency-private-chokepoints"></a>

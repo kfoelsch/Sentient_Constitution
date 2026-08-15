@@ -1,7 +1,7 @@
 {
   "cs_04_critical_system_stewardship.md": {
-    "Definition": "Who counts as a steward: an organization a critical system cannot run, recover, or be governed without, and for which no substitute can be found in time.",
-    "Classification as steward": "Four ways an organization ends up in this category — exclusive control, non-substitutable expertise, chokepoint position, or failure that would look like system failure.",
+    "Definition": "Who counts as a steward: an organization a Class A or Class B system — or a Dep-A / Dep-B dependency of one — cannot run, recover, or be governed without.",
+    "Classification as steward": "Steward status follows the CS-3 class of what you actually run, recover, or gate. Class A or B — or a Dep-A / Dep-B dependency of one — makes you a Critical System Steward. Class C only if you have become a chokepoint. The four tests below prove that relationship; they are not a second classification scheme.",
     "Stewardship criticality levels": "Three tiers, CSS-A to CSS-C, set by how much depends on the steward and how bad its failure would be. The tier sets how demanding everything that follows is.",
     "Scaling obligations": "Duties follow the real dependency, not the paperwork. The highest affected class governs, and a narrow contract does not buy a lighter obligation.",
     "Comprehensibility and complexity stewardship": "A steward may not hide behind its own complexity. Corporate structure, contracts, and process must not be arranged so that audit, intervention, or replacement becomes impractical.",
@@ -12,7 +12,7 @@
     "Competency, succession, and oversight effectiveness": "Keep the skills and the backup people the role requires, publish who holds what authority, and check periodically whether oversight actually catches problems rather than merely existing on paper.",
     "Integrated risk governance (Class A/B)": "For the highest-impact systems: publish how much residual risk you accept, name who owns the risk picture, and keep operating, challenge, and assurance roles separate enough that challenge is credible.",
     "Intervention trigger": "What happens when a steward cannot or will not meet these duties — outside intervention is activated to preserve function, recoverability, and rights.",
-    "Relationship to system classes": "Steward status and system class are separate questions. Being a steward is about actual dependency, not ownership or what a contract says.",
+    "Relationship to system classes": "Steward status follows the highest class you actually affect, not who holds title. You can be a Critical System Steward without owning the system.",
     "Private chokepoints sentients depend on (access continuity and non-capture)": "Payments, identity, compute, messaging, hosting, and app distribution can become chokepoints without being governments. Where survival or rights run through them, cutoffs need notice, reasons, and an appeal.",
     "Core characteristics (typical)": "The five traits that usually mark a steward: concentrated dependency, opacity risk, control over intervention, sensitivity to organizational decay, and no realistic replacement in time.",
     "Substitutability and dependency reduction": "Where the steward cannot be replaced, say so, explain why, add compensating controls, and work continuously at making the dependency smaller.",

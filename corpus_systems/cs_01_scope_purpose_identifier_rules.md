@@ -43,7 +43,7 @@ This file is the systems implementation home for **CS-1** (*Scope, purpose, and 
 
 - information typing and handling (**CS-2 — Information types and handling**);
 - system classification and dependency typing (**CS-3 — System classification and handling**);
-- critical system stewardship tiers (**CS-4 — Critical system stewardship**);
+- critical system stewardship tiers (**CS-4 — Critical system stewardship**), scaled from **CS-3** impact class and dependency type;
 - named protocols for design and verification, comprehensibility, justice safeguards, sustainability, funding, transition, subversion response, and partition resilience (**Protocol A** through **Protocol T**, **Protocol R**, and **Protocol D**).
 
 **What this layer does not own**
@@ -63,7 +63,7 @@ This file is the systems implementation home for **CS-1** (*Scope, purpose, and 
 
 - **CS-2 — Information types and handling** — data typing, separation, lifecycle, Type O baseline duties, and the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional)
 - **CS-3 — System classification and handling** — impact class, dependency typing, [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional), and class-scaled governance
-- **CS-4 — Critical system stewardship** — steward tiers and continuity for high-class systems
+- **CS-4 — Critical system stewardship** — steward tiers and continuity for high-class systems. Steward status **follows** **CS-3** impact class and dependency type ([CS-4 §2](cs_04_critical_system_stewardship.md#2-classification-as-steward)): **Class A** / **Class B**, and **Dep-A** / **Dep-B** of those systems, presumptively; **Class C** only as a chokepoint. Tests and CSS-A / CSS-B / CSS-C tiers live in **CS-4**, not in this file.
 - **Protocol A** (and other named protocols) — design, testing, verification, deployment, and lifecycle evidence
 - **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*) and **CJS-3** operational clusters — when joint or cross-layer operation applies, including **CJS-3.11–CJS-3.13** (*Authority, constraint, secrecy, and procedure*) through **CJS-3.19–CJS-3.15** (*Failure, robustness, intervention, and correction*)
 - constitutional **Authority Stack and Internal Hierarchy** in **Chapter Five**, read with **Chapter Sixteen** incorporation discipline
