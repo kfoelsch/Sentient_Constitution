@@ -21,8 +21,8 @@
 Systems must preserve the practical ability to publish truthful information while maintaining safeguards for harm prevention, privacy, trust, and system integrity.
 Requirements and limitations scale proportionally with system classification and potential impact. They must impose proportionate safeguards on publication within their boundaries where necessary to preserve trust, safety, and constitutional compliance.
 <a id="1-purpose-and-scope"></a>
-
-## 1. Purpose and scope
+<a id="cs-2-1-purpose-and-scope"></a>
+## CS-2.1 Purpose and scope
 
 *In plain terms: Chapter Six rights need trustworthy data handling; CS-2 is the systems rulebook that makes typing, access defaults, integrity, identity self-ownership, and Class A/B/C continuity real.*
 
@@ -89,7 +89,8 @@ Shutdown, migration, operator exit, and service-end paths must:
 - **not** rely on a discretionary promise to try later
 
 <a id="2-determination-of-classification"></a>
-## 2. Determination of classification
+<a id="cs-2-2-determination-of-classification"></a>
+## CS-2.2 Determination of classification
 
 *In plain terms: type data by what it does and enables — not by format or pipeline stage. When unsure, protect more; weaken protection only with a documented justification; and do not dodge typing by rearranging the same outcome.*
 
@@ -115,7 +116,8 @@ If pieces of data can be rebuilt, transformed, or combined into something more s
 - applicable rights under **Chapter Six, Articles V through IX**
 
 <a id="3-temporal-systemic-and-dependency-scope-of-rights"></a>
-## 3. Temporal, systemic, and dependency scope of rights
+<a id="cs-2-3-temporal-systemic-and-dependency-scope-of-rights"></a>
+## CS-2.3 Temporal, systemic, and dependency scope of rights
 
 *In plain terms: protections cover delayed, stacked, and indirect harm too — including harm passed through other systems. You cannot push risk onto other sentients, times, or systems to dodge the rules.*
 
@@ -124,7 +126,8 @@ Data-handling protections under CS-2 — Information types and handling apply no
 Where systems create or contribute to material risk to sentients, including through transitive dependencies, those risks fall within the scope of these protections. Systems must **not** externalize risk or harm across time, populations, or system boundaries. That prohibition includes layered or indirect dependencies. Those dependencies must not bypass, defer, or dilute the protections and constraints established in Sentient Constitution Chapters One through Six.
 
 <a id="4-anti-circumvention-and-integrity-of-classification"></a>
-## 4. Anti-circumvention and integrity of classification
+<a id="cs-2-4-anti-circumvention-and-integrity-of-classification"></a>
+## CS-2.4 Anti-circumvention and integrity of classification
 
 *In plain terms: you may not break, relabel, split, outsource, or pipeline data just to escape its type — and you may not use typing itself to block participation, hide risk, or shut down audit. Keep the strongest applicable protections, and document any de-anonymization.*
 
@@ -139,7 +142,8 @@ Data classification under CS-2 — Information types and handling is binding acr
 - **treat** restricted source data (including **Type H**, **Type I**, **Type N**, or **Type S**) as reclassified to **Type O** merely because a system is Class A/B/C or merely by copying that data, without meeting the substitute, reclassification, or release requirements in §7 and [Part B §8](cs_02_b_data_classifications.md#8-data-classifications)
 
 <a id="5-cross-domain-governance-principles"></a>
-## 5. Cross-domain governance principles
+<a id="cs-2-5-cross-domain-governance-principles"></a>
+## CS-2.5 Cross-domain governance principles
 
 *In plain terms: these are the shared rules for how typed data is accessed, transformed, retyped, attributed, and retained across systems — stricter where impact is higher. Typing integrity and anti-evasion live in [§2](#2-determination-of-classification)–[§4](#4-anti-circumvention-and-integrity-of-classification).*
 
@@ -355,7 +359,8 @@ Systems must **not**:
 - **design retention policies** that prevent reasonable reconstruction of significant events when required
 
 <a id="6-data-separation-and-attribution"></a>
-## 6. Data separation and attribution
+<a id="cs-2-6-data-separation-and-attribution"></a>
+## CS-2.6 Data separation and attribution
 
 *In plain terms: keep sensitive data domains from leaking into each other, and keep actions attributable. Identity self-ownership and continuity-critical export are foundational and live in [§1.1](#11-identity-self-ownership-and-recoverability)–[§1.2](#12-continuity-critical-collection-and-exportability).*
 
@@ -458,7 +463,8 @@ It is permitted **only if** all of the following are true:
 - participants are **not** exposed to **non-consensual** harm, coercion, or manipulation
 
 <a id="7-type-o-baseline-for-class-abc-systems"></a>
-## 7. Type O baseline for Class A/B/C systems
+<a id="cs-2-7-type-o-baseline-for-class-a-b-c-systems"></a>
+## CS-2.7 Type O baseline for Class A/B/C systems
 
 *In plain terms: high-impact systems must publish [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) as Type O by default — scoped to what the Charter claims, what class the system is, and what the system actually does; checked each certification cycle. Where Type G, Type E, or other raw protected or non-baseline data cannot be released as that disclosure, publish the strongest feasible public substitute; and holding data back must be narrow and challengeable.*
 
@@ -489,7 +495,8 @@ Security or investigation limits must also be time-bound and review-bound under 
 - externalized cost
 
 <a id="8-system-data-types-record-governance"></a>
-## 8. System Data Types Record governance
+<a id="cs-2-8-system-data-types-record-governance"></a>
+## CS-2.8 System Data Types Record governance
 
 *In plain terms: keep a System Data Types Record that says what data the system touches and how it is handled — own it, publish a usable view, let audits and challenges check it, update it when types change, and fix understatement. When certification runs, that same file must be produced or verified and put in the certification case file.*
 

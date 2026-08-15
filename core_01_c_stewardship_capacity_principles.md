@@ -134,7 +134,7 @@ Stewardship favors proactive governance, system design, and constitutional align
 
 - Upstream: [§9.1 Consequential Stewardship](#91-stewardship); [§9 Stewardship and Distributed Understanding](#9-stewardship-and-distributed-understanding); [§10 Governance Under Stewardship Discipline](#10-governance-under-stewardship-discipline).
 - Read with: [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) and [Substrate Class](core_05_band_participation.md#substrate-class) (*substrate-agnostic application — this subsection binds duty-holders, including agents and operators who are not recognized sentients*); [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack); [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint); [Contestability](core_05_band_accountability.md#contestability); [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional); [§11 Incentive Alignment and System Capture](#11-incentive-alignment-and-system-capture); [Chapter Nine §5.4 Duty to resist](core_09-09_standing_integration.md#411-duty-to-resist-unlawful-or-unconstitutional-instructions).
-- Steward door (non-operative): The bonus, the deadline, and “ignore it, I’ll take responsibility” are failed tests for both kinds of steward. Operator cards: [`implementation/STEWARD_ENTRY_DOORS.md#costly-case-refusals`](implementation/STEWARD_ENTRY_DOORS.md#costly-case-refusals) (process support, not binding). Duty to resist: [`implementation/STEWARD_ENTRY_DOORS.md#duty-to-resist`](implementation/STEWARD_ENTRY_DOORS.md#duty-to-resist).
+- Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-shared-stewardship). Support cards cannot narrow it.
 - Downstream: [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*standing measurement remains; verified costly-case failures record on the same axes*); [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*default logging contract for mixed human/AI action — not a standing-record substitute*); [Chapter Twelve §5 — Authorized Roles, Competency Development, and Contribution](core_12-12_governance.md#5-authorized-roles-competency-development-and-contribution); [Chapter Sixteen](core_16-16_incorporation.md) (*companions implement; they do not replace*); [§11.1.3 Stewardship and Operator Application](#1113-stewardship-and-operator-application).
 
 </details>
@@ -155,6 +155,9 @@ Stewardship favors proactive governance, system design, and constitutional align
 <br>
 
 *In plain terms: human and AI stewards owe the same Chapter One duties. Companions may add logging, attribution, and capability limits. They may not swap in a softer internal code, skip standing measurement, or close contest pathways. The bonus, the deadline, and “ignore it, I’ll take responsibility” are failed tests for human operators too — recorded on the same standing axes, with the same duty to resist. Testing only machine agents while humans keep those paths is a capture path, not a shared standard. This is not a new morals stack — it is the anti-special-pleading rule.*
+
+<a id="operative-steward-statement-shared-stewardship"></a>
+> **Operative steward statement.** **Owner:** Chapter One §9.1.1 Shared Stewardship Standard. Hierarchy: Authority Stack and Constitutional Constraint. **Forbidden move:** Do not accept an AI-only morals overlay. Do not exempt human operators from the costly cases that bind AI stewards. **Clock:** Reject the overlay. Apply the shared standard. Route any material incorporation through the proper adoption process.
 
 **Shared stewardship standard.** Stewardship and governance duties under this chapter apply [substrate-agnostically](core_05_band_participation.md#substrate-agnostic). They bind whoever exercises material stewardship or operational authority — including human stewards, AI stewards, and other agents, operators, or constituent components — without regard to [Substrate Class](core_05_band_participation.md#substrate-class). This subsection does not create a separate morals stack.
 
@@ -317,7 +320,7 @@ This does **not** elevate openness above **Safety**, **Truth**, justified confid
 
 - Upstream: [§9.1 Consequential Stewardship](#91-stewardship) (consequential participation carried out with constitutional character); [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **accountability** leg (process design answers to affected sentients, not to institutional convenience); **oversight** leg (degradation is detectable and challengeable); [Cruelty](core_05_band_accountability.md#cruelty) (*Chapter Five home for suffering-as-end and gratuitous / degrading infliction*).
-- Downstream: [§6.1.4 Constitutional Floors, Safety, and Process-Character Constraints](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints) (invokes this principle as an absolute floor in the tradeoff stack); [Article V: Equal Basic Rights](core_06-06_rights_part_b.md#article-v-equal-basic-rights); [Article XXIII-A](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*anti-cruelty floor*); [corpus_systems Protocol C](corpus_systems/cs_protocol_c_justice_safeguards_restitution_rehabilitation.md).
+- Downstream: [§6.1.4 Constitutional Floors, Safety, and Process-Character Constraints](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints) (invokes this principle as an absolute floor in the tradeoff stack); [Article V: Equal Basic Rights](core_06-06_rights_part_b.md#article-v-equal-basic-rights); [Article XXIII-A](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*anti-cruelty floor*); [corpus_systems CS-7](corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md).
 
 </details>
 
@@ -517,6 +520,9 @@ An arrangement that no longer fits the Constitution cannot stay in place just be
 <br>
 
 *In plain terms: governance that keeps hitting quarterly targets while hollowing safety, truth, participation, or the future is not "working governance" — it is a defect this Constitution names and corrects through the incentive and capture discipline below. Incentives acting on operators, agents, and system components — including compensation, promotion, equity, and comparable reward pathways — must pull toward constitutional outcomes. They may not quietly reward behavior that undermines Safety, Truth, rights, stability, or meaningful agency, whether directly, through delay, through aggregation, or through arrangements that materially depend on misconduct or its concealment.*
+
+<a id="operative-steward-statement-incentive"></a>
+> **Operative steward statement.** **Owner:** Chapter One §11. Failed-test home: §9.1.1. Definition: Incentive Alignment. **Forbidden move:** Do not ship by suppressing material disclosure. Do not treat the bonus as a valid compliance defense. **Clock:** Refuse the proxy. Correct the incentive. Run the shared refusal and logging screen.
 
 Systems must detect, disclose, and correct **short-horizon governance defects** ([Short-Horizon Governance Defect](core_05_band_continuity.md#short-horizon-governance-defect-constitutional)) through [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional), contestable oversight, and the alignment, misalignment-detection, misalignment-correction, capture-response, and successor-responsibility rules in **§§11.1–11.6** and **§§13.1–13.3**.
 
@@ -763,7 +769,7 @@ Concentrated or obscured control structures that materially undermine [Contestab
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Chapter Nine §9.1](core_09-09_standing_integration.md#81-remediation-capacity-and-funding) and [§9.4](core_09-09_standing_integration.md#84-anti-evasion-and-look-through-authority); [Accountability](core_05_apex_accountability_leg.md#accountability); [corpus_systems.md](corpus_systems.md) **Protocol C — Justice safeguards, restitution, and rehabilitation** (*Entity continuity checks*).
+- Read with: [Chapter Nine §9.1](core_09-09_standing_integration.md#81-remediation-capacity-and-funding) and [§9.4](core_09-09_standing_integration.md#84-anti-evasion-and-look-through-authority); [Accountability](core_05_apex_accountability_leg.md#accountability); [corpus_systems.md](corpus_systems.md) **CS-7 — Justice safeguards, restitution, and rehabilitation** (*Entity continuity checks*).
 - Read with: [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) and [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional) — successor and formal-structure changes must not defeat reliable attribution of remaining duties.
 
 </details>

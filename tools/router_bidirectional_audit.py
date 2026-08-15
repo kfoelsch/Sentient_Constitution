@@ -75,7 +75,7 @@ def main() -> int:
         f"# Router bidirectional audit - {today}",
         "",
         "## Scope",
-        f"- Router: `corpus_joint_structure/cjs_00_registry_and_reading_rules.md` **CJS-0.1**",
+        f"- Router: `corpus_joint_structure/cjs_00_topic_router.md` **CJS-0.1**",
         f"- Rows: {len(rows)}",
         "",
         "## Findings",

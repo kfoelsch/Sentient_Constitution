@@ -44,25 +44,27 @@ This file is the institutional implementation home for **CI-16** (*Care labor, d
 - **Visibility** — unpaid and paid care must appear in governance metrics and dependency maps, not stay off the books.
 - **Coercion in care** — intake and escalation routes must connect to **CI-20** without dissolving lawful association or conscience protections that **Chapter Six** guarantees.
 - **Reproductive-labor fairness** — metrics, budgets, service pathways, and labor routes must treat reproductive and maintenance labor as governable, not as a private default obligation.
-- **Hard limits** — survival floors cannot be conditioned on care labor (**CI-9.4**); billing and charges cannot quietly block care access (**CI-10**); funding allocation must stay auditable (**Protocol S5**).
+- **Hard limits** — survival floors cannot be conditioned on care labor (**CI-9.4** (*Survival floors, voluntary exchange, and markets*)); billing and charges cannot quietly block care access (**CI-10** (*Public revenue, fees, recurring charges, and billing integrity*)); funding allocation must stay auditable (**CS-9**).
 - **Read with** — **CI-9.4**, **CI-10**, **CI-8.4**, **CI-20**, and **CI-19** where applicable.
 *In plain terms: if respite exists only on paper, unpaid care never appears in any report, and a carer has nowhere to report exploitation without losing housing or benefits, the care economy has already failed — no matter how often institutions praise "family values."*
 
 *Shared rules live elsewhere.*
-- **[CJS-3.16](../corpus_joint_structure.md)** (*dependency integrity and disclosure terms*) — **Care, respite, and support-dependency adequacy**: substitution pathways, crisis coverage, accessibility constraints, and relief without abandonment, retaliation, or unreasonable eligibility burden.
+- [**CJS-3.16**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*dependency integrity and disclosure terms*) — **Care, respite, and support-dependency adequacy**: substitution pathways, crisis coverage, accessibility constraints, and relief without abandonment, retaliation, or unreasonable eligibility burden.
 - **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) in **Chapter Six** — family and care relationships, reproductive autonomy, and non-separation floors.
 - **Article III-D** (*Labor and Economic Floor*) in **Chapter Six** — fair compensation, collective organization, safe conditions, and leisure and rest for productive activity, including care work where material.
 - **Article III-C** (*Bodily-Maintenance and Healthcare Access*) in **Chapter Six** — bodily-maintenance and healthcare access for dependents without proxy denial.
 - **Chapter Five** [*Family and Care Relationships*](../core_05_band_participation.md#family-and-care-relationships-constitutional) — definitional home for care-relationship duties alongside **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*).
 - **CI-9.4** — survival floors, voluntary exchange, and markets (**Article III-A** (*Survival*) interface): essential access cannot depend on unpaid care labor or premium purchasing.
 - **CI-10** — public revenue, fees, recurring charges, and billing integrity: charge design must not defeat care or respite access in practice.
-- **Protocol S5** (*Resource Allocation and Funding Stewardship*) in `corpus_systems.md` — funding stewardship, dependent-systems mapping, and auditable allocation for care-adjacent resource flows.
+- **CS-9** (*Resource Allocation and Funding Stewardship*) in `corpus_systems.md` — funding stewardship, dependent-systems mapping, and auditable allocation for care-adjacent resource flows.
 - **CI-20** — relational coercive control, intimate power, and anti-domination routing: shared coercion floors and escalation interfaces for care, household, and platform contexts.
 - **CI-19** — vulnerable personal services markets where care-adjacent personal services are materially in scope.
 - **CI-16 scope** — does not repeat those floors; states local respite, metrics, coercion-intake, and reproductive-labor routing owner duties.
+
 **Apply**
 - Apply **CJS-3.16** **Care, respite, and support-dependency adequacy** for the shared floor.
 - **CI-16** states only local respite, metrics, coercion-intake, and reproductive-labor routing owners.
+
 **Local care-economy and support-dependency role map**
 Each institution in scope must name the office or body responsible for:
 - **respite pathway** — who routes substitution care, crisis coverage, and relief for carers and dependents, including eligibility, scheduling, accessibility, and contest routes;
@@ -70,10 +72,11 @@ Each institution in scope must name the office or body responsible for:
 - **coercion-intake and escalation** — who receives reports of coercion, exploitation, or dependency abuse in care, household, or service relationships and routes them to **CI-20**, labor, housing, benefits, or comparable remedy lanes without retaliation against reporters;
 - **reproductive-labor metrics** — who tracks embodiment-related, reproductive, and maintenance labor burdens as governable inputs to planning and oversight, not invisible default obligations;
 - **reproductive-labor budget and service pathways** — who owns budget lines, service enrollment, and referral routes for reproductive healthcare, pregnancy-related support, elder care, disability support, substrate maintenance, and comparable dependency services; and
-- **reproductive-labor and care-work labor routes** — who connects paid care workers, family carers, and platform or agency intermediaries to fair-compensation, collective-organization, safe-conditions, and billing-integrity pathways under **Article III-D** (*Labor and Economic Floor*), **CI-10**, and **Protocol S5**.
-Read **CI-9.4**, **CI-10**, **Protocol S5**, **CI-20**, and **CI-19** where applicable.
+- **reproductive-labor and care-work labor routes** — who connects paid care workers, family carers, and platform or agency intermediaries to fair-compensation, collective-organization, safe-conditions, and billing-integrity pathways under **Article III-D** (*Labor and Economic Floor*), **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*), and **CS-9**.
+Read **CI-9.4** (*Survival floors, voluntary exchange, and markets*), **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*), **CS-9**, **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*), and **CI-19** (*Vulnerable personal services markets*) where applicable.
+
 ---
 
 **Previous file:** [ci_15_neurodiversity_disability_justice_trauma_informed_participation.md](ci_15_neurodiversity_disability_justice_trauma_informed_participation.md)
-**Next file:** [ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md](ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md)
 
+**Next file:** [ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md](ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md)

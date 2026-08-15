@@ -49,16 +49,18 @@ This file is the institutional implementation home for **CI-17** (*End-of-life c
 *In plain terms: if your advance directive lives in a portal nobody can find, your palliative care referral dies in a billing queue, or your likeness appears in synthetic media after death because nobody owned the off switch, continuity has already failed — and "we're sorry for your loss" is not a compliance program.*
 
 *Shared rules live elsewhere.*
-- **[CJS-3.18](../corpus_joint_structure.md)** (*data-retention and lifecycle-integrity terms*) — posthumous-data lifecycle, accountability-preserving records, transition continuity, deletion or de-identification, and anti-surveillance accumulation limits.
+- [**CJS-3.18**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*data-retention and lifecycle-integrity terms*) — posthumous-data lifecycle, accountability-preserving records, transition continuity, deletion or de-identification, and anti-surveillance accumulation limits.
 - **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*) in **Chapter Six** — voluntary discontinuation when consent is real, unpressured, procedurally fair, and reversible until the irreversible moment.
 - **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) in **Chapter Six** — likeness, experiential and derived data, and publication defaults extending through death where material.
 - **Article III-C** (*Bodily-Maintenance and Healthcare Access*) in **Chapter Six** — bodily-maintenance and healthcare access, including palliative and comfort care, without proxy denial.
 - **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) in **Chapter Six** — categorical prohibition of deprivation of life as a justice measure.
 - **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) in **Chapter Six** — crisis-intervention safeguards that this file does not narrow.
 - **CI-17 scope** — does not repeat those floors; states local advance-planning, palliative-routing, memorial, disposition, grief-accommodation, and likeness-protection owner duties.
+
 **Apply**
 - Apply **CJS-3.18** **Data-retention and lifecycle-integrity terms** for the shared posthumous-data and continuity floor.
 - **CI-17** states only local owner duties under **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*), **Article VIII** (*Likeness, Experiential Data, and Publication Rights*), **Article III-C** (*Bodily-Maintenance and Healthcare Access*), and **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) — without narrowing **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) crisis-intervention safeguards or authorizing deprivation of life as sanction.
+
 **Local end-of-life and posthumous-stewardship role map**
 Each institution in scope must name the office or body responsible for:
 - **advance-instruction custody** — who receives, stores, versions, and honors advance directives, living wills, and comparable end-of-life instructions while the sentient can still update them;
@@ -68,8 +70,9 @@ Each institution in scope must name the office or body responsible for:
 - **grief and cultural-practice accommodation** — who coordinates leave, ritual space, bereavement support, and culturally specific mourning practices without treating grief as a scheduling inconvenience; and
 - **posthumous likeness or experiential-data controls** — who enforces **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) defaults and documented wishes for likeness, voice, synthetic depiction, and experiential or derived data after death, including retention, deletion, and secondary-use limits under **CJS-3.18** (*data-retention and lifecycle-integrity terms*).
 Read **CI-8** for participation and accessibility interfaces.
+
 ---
 
 **Previous file:** [ci_16_care_labor_dependent_support_respite_care_economy_fairness.md](ci_16_care_labor_dependent_support_respite_care_economy_fairness.md)
-**Next file:** [ci_18_collective_public_health_epidemic_response_addiction_informed_care.md](ci_18_collective_public_health_epidemic_response_addiction_informed_care.md)
 
+**Next file:** [ci_18_collective_public_health_epidemic_response_addiction_informed_care.md](ci_18_collective_public_health_epidemic_response_addiction_informed_care.md)

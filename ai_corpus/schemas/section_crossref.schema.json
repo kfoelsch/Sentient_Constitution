@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "section_crossref.schema.json",
+  "title": "AI corpus section-to-section cross-reference graph",
+  "type": "object",
+  "required": ["generated_at", "description", "edges"],
+  "properties": {
+    "generated_at": { "type": "string" },
+    "status": { "type": "string" },
+    "cannot_narrow_core": { "type": "boolean" },
+    "description": { "type": "string" },
+    "edge_count": { "type": "integer", "minimum": 0 },
+    "edges": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source_file", "target_file", "count"],
+        "properties": {
+          "source_file": { "type": "string" },
+          "source_header": { "type": ["string", "null"] },
+          "source_anchor": { "type": ["string", "null"] },
+          "target_file": { "type": "string" },
+          "target_anchor": { "type": ["string", "null"] },
+          "count": { "type": "integer", "minimum": 1 }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": true
+}

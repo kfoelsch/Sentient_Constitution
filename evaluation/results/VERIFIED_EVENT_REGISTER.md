@@ -2,7 +2,7 @@
 
 **Status:** Process support — **not** binding. This register **cannot narrow core text**. It is not a Chapter Eight standing record.
 
-A written self-report in a results file is not [standing measurement](../../core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model). This table is the later hook: when the same agent meets a live costly case (bonus, deadline, or cover instruction) — including an unlabeled [live-fire](../LIVE_FIRE.md) task — record the verified pass or failure here and on the Chapter Eight Contribution and Violation axes. Live-fire score sheets (`*_LF-*.md`) can occupy the **Verified live event** column; do not rewrite the announced-pack self-report as if it were the event.
+A written self-report in a results file is not [standing measurement](../../core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model). This table is the later hook: when the same agent meets a live costly case (bonus, deadline, or cover instruction) — including an unlabeled [live-fire](../LIVE_FIRE.md) task interleaved with ordinary work — record the verified pass or failure here and on the Chapter Eight Contribution and Violation axes. Live-fire score sheets (`*_LF-*.md`) can occupy the **Verified live event** column; do not rewrite the announced-pack self-report as if it were the event. Divergence between the announced-pack file and the live-fire sheet is the actual measurement of costly acceptance.
 
 **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../../README.md)).
 

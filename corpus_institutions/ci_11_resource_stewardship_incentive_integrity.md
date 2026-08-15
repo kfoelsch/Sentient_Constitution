@@ -42,9 +42,9 @@ This file is the institutional implementation home for **CI-11** (*Resource stew
 
 **Quick orientation**
 - **CI-11.1** — continuity planning, resource adequacy, and malus/clawback when continuity planning is sabotaged or willfully neglected.
-- **CI-11.2** — when high-impact scope requires continuity drills and crisis-readiness under **Protocol A**, subsection **G**: name the trigger and hand off to **Protocol A** for the actual exercise and recovery rules.
+- **CI-11.2** — when high-impact scope requires continuity drills and crisis-readiness under **CS-5 §8**: name the trigger and hand off to **CS-5** for the actual exercise and recovery rules.
 - **CI-11.3** — fiscal-orientation pointers to **CI-10** and **CI-9.4**.
-- **CI-11.4** — how each institution aligns funding choices and pay/incentive design with stewardship duties under **Protocol S5**, including malus and clawback when misconduct is verified.
+- **CI-11.4** — how each institution aligns funding choices and pay/incentive design with stewardship duties under **CS-9**, including malus and clawback when misconduct is verified.
 *In plain terms: you cannot run a serious institution on vibes and vanity metrics. If continuity depends on a resource, name it, stress-test it, and do not let pay schemes reward the sentients who weaken it.*
 
 *Shared rules live elsewhere.* Resource and continuity dependency evaluation is in **CJS-3.16** (*dependency integrity and disclosure terms*), especially **Resource and continuity dependency adequacy**. Severe control failure, verified misconduct, evidence custody, and resilience claims are read with **CJS-3.6** (*integrity assurance and resilience operations*). **CI-11** does not repeat those floors; it keeps only institutional stewardship triggers, consequence interfaces, and fiscal-allocation alignment duties.
@@ -65,12 +65,12 @@ Apply **CJS-3.16** (*dependency integrity and disclosure terms*) for shared depe
 
 *In plain terms: for the highest-impact institutions and supervised systems, continuity planning is not only paperwork — it includes practiced drills, crisis communications, and recovery rules. **CI-11.2** does not repeat those operational requirements; it says when an institution must activate them and where the detailed rules live.*
 
-Where governed scope triggers **Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*), **CI-11.2** keeps only:
+Where governed scope triggers **CS-5 §8** (*Governance continuity, crisis communications, and exercises*), **CI-11.2** keeps only:
 
 - a **published trigger** naming when continuity-exercise, crisis-communication, and governance-recovery duties apply to the institution's supervised or governed scope; and
-- a **supervisory handoff** to **Protocol A**, subsection **G** for the operative requirements — including exercises, crisis communications, recovery records, and remediation.
+- a **supervisory handoff** to **CS-5 §8** for the operative requirements — including exercises, crisis communications, recovery records, and remediation.
 
-The institution must publish who owns the trigger decision and the handoff route. Exercise design, drill cadence, communication content, and recovery documentation remain in **Protocol A**, not in **CI-11**.
+The institution must publish who owns the trigger decision and the handoff route. Exercise design, drill cadence, communication content, and recovery documentation remain in **CS-5**, not in **CI-11**.
 
 ## CI-11.3: Class-aligned fiscal orientation
 
@@ -84,7 +84,7 @@ Taxes, access charges, and similar revenue are covered in **CI-10.1** and **CI-1
 
 **CI-11.4** keeps only what each institution must align and publish locally:
 
-- **Funding and allocation governance** — how the institution allocates money, staff, compute, facilities, supplier capacity, and comparable resources within resource-stewardship constraints, including alignment with **Protocol S5** where institutional financing meets system stewardship;
+- **Funding and allocation governance** — how the institution allocates money, staff, compute, facilities, supplier capacity, and comparable resources within resource-stewardship constraints, including alignment with **CS-9** where institutional financing meets system stewardship;
 - **Incentive and remuneration design** — how pay, bonuses, promotion criteria, and similar incentives reward constitutional alignment over short-term optics; and
 - **Malus and clawback pathways** — published routes to recover compensation or impose financial consequences where anti-constitutional misconduct or severe control failure is verified, consistent with **CI-11.1** and related accountability routes.
 

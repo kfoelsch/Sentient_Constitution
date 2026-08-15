@@ -12,6 +12,19 @@
 </details>
 
 <details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Read next</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> **Read next**
+> - Label map, section registry, and institutions-only domain routing: [ci_00_registry_and_reading_rules.md](ci_00_registry_and_reading_rules.md) (*Institutions domain routing (integrator annex)*).
+> - Implementation-corpus gateway and shared contract: **CJS-1.0**, **CJS-1.1**, and **CJS-1.3** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md). Default reading stack: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction).
+> - Cross-layer topic router: [CJS-0.1 Cross-file routing](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids).
+> - First institutional family after this boundary page: [ci_03_institutional_design_separation_of_powers.md](ci_03_institutional_design_separation_of_powers.md) (**CI-3** (*Institutional design and separation of powers*)).
+
+</details>
+
+<details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) purpose of the joint-structure layer; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) section identifiers and **Def.*** / **oDef** homes; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
@@ -63,11 +76,6 @@ This file is the institutional implementation home for **CI-1** (*Scope, purpose
 - system-class and steward taxonomies — those belong to **CS**;
 - forum-family operational doctrine under Chapter Eleven — those belong to **CF**;
 - anti-constitutional-misconduct designation — that remains in Chapter Ten (see **CI-1.1** for how this layer uses the label).
-**Read next**
-
-- Label map, section registry, and institutions-only domain routing: [ci_00_registry_and_reading_rules.md](ci_00_registry_and_reading_rules.md) (*Institutions domain routing (integrator annex)*).
-- Implementation-corpus gateway and shared contract: **CJS-1.0**, **CJS-1.1**, and **CJS-1.3** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md). Default reading stack: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction).
-- Cross-layer topic router: [CJS-0.1 Cross-file routing](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids).
 
 ## CI-1.1: Anti-constitutional misconduct usage
 <details>
@@ -95,7 +103,7 @@ This layer does **not**:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack; [CJS-3.11](../corpus_joint_structure.md) distributed and proportional authority terms; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack; [**CJS-3.11**](../corpus_joint_structure/cjs_03a_accountability_operations.md) distributed and proportional authority terms; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Read with: **CI-1.2**; **CJS-3.11**; **CJS-3.12**; **CJS-3.13**; **CI-9**.
 
 </details>

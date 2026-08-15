@@ -23,7 +23,7 @@
 >
 > Allegations, popularity, and dispute narratives are not answers to Question 1. A desired rating cannot supply the facts for Question 1, and a desired consequence cannot supply the rating for Question 2.
 >
-> **Steward door (non-operative):** Incomplete contribution evidence → correct the Chapter Eight record. Do not treat a claimed effect as standing. Do not wait for a filed case. Do not treat model internals or privacy as a standing-measurement exemption ([CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) — default logging contract). Four-field cards for this and the other named use stacks live in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) (process support, not binding).
+> **Steward door (non-operative):** Binding next-step statement: [Operative steward statement](#operative-steward-statement-standing). Support cards in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) cannot narrow it.
 
 </details>
 
@@ -45,6 +45,10 @@
 
 <a id="chapter-eight-part-a-orientation"></a>
 Chapter Eight owns the verified factual record for Question 1 and the standing measurement for Question 2. Question 3 continues in Chapter Nine.
+
+<a id="operative-steward-statement-standing"></a>
+> **Operative steward statement.** **Owner:** Chapter Eight (Questions 1–2: verified record and measurement). Chapter Nine (Question 3: effects). Forums supervise; they do not replace measurement. **Forbidden move:** Do not treat a claimed effect as standing. Do not wait for a filed case. Do not fold help and harm into one net score. Do not treat model internals or privacy as a standing-measurement exemption. **Clock:** Do not wait for a filed case. Open or correct the Chapter Eight record now. Keep Contribution and Violation records inspectable. Log the CS-4 §10 set.
+
 <a id="2-purpose-and-role"></a>
 <a id="11-two-question-evaluation-discipline"></a>
 <a id="two-question-evaluation-discipline"></a>
@@ -72,7 +76,7 @@ Together, the answers to all three questions form the complete standing assessme
 
 #### 1.1 Purpose and scope
 
-This chapter states the constitutional record and measurement frames for **systems**, **sentients**, and **institutions**, including every system classified under [CS-3 — System classification and handling](corpus_systems.md). These frames do not measure gossip, popularity, vague reputation, inherent dignity, or general worth; none is a permissible subject of standing assessment.
+This chapter states the constitutional record and measurement frames for **systems**, **sentients**, and **institutions**, including every system classified under [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md). These frames do not measure gossip, popularity, vague reputation, inherent dignity, or general worth; none is a permissible subject of standing assessment.
 
 The standing pipeline must remain effective when previously verified contributions become too old to show current competence or reliability, violations remain unresolved, repair is costly, responsibility crosses borders, or an actor uses organizational layering or relabeling to impede accountability.
 

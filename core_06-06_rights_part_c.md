@@ -122,6 +122,9 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 
 *In plain terms: when a system fails a sentient, the sentient must have a real way to challenge it, get it reviewed, and be made whole — and no one may retaliate against good-faith reports.*
 
+<a id="operative-steward-statement-contest"></a>
+> **Operative steward statement.** **Owner:** Article XII-B. Hierarchy: Authority Stack and Constitutional Constraint. **Forbidden move:** Do not let a more specific companion close challenge, review, or redress. Do not treat convenience as a Rights-Floor override. **Clock:** Invalidate or narrow the companion now. Do not leave a permanent bar in place while a later process is promised.
+
 - **Right to challenge, review, and redress:** Good-faith challenges (*Good Faith*, **Chapter Five**), review requests, and protected reports must not be suppressed, obstructed, or penalized.
 - **Access to correction:** Sentients have the right to practical access to review, audit, correction, and proportionate remediation where system failures materially affect them.
   - Redress and remediation for material impacts are governed by **Chapter Five** Independent Definitions (*Redress and Remediation*).
@@ -261,7 +264,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 *In plain terms: systems must be able to detect, contain, and recover from faults — but recovery cannot be used to hide failures, silently narrow rights, or skip root-cause work. Safe failure beats speculative auto-repair.*
 
 - **Recovery baseline:** Systems within scope of this Article must implement recovery behavior proportionate to their impact, dependency, and risk, consistent with [**4.1 Resilience and Self-Healing Design**](core_01_a_values_principles.md#41-resilience-and-self-healing-design) in **Chapter One** and [**Self-Healing**](core_05_band_continuity.md#self-healing-constitutional) in **Chapter Five**.
-  - Detailed recovery-architecture requirements appear in incorporated implementation text, including **[corpus_systems.md](corpus_systems.md), Protocol A** (*System Design, Testing, Verification, and Deployment*), **Protocol S4** (*Adaptive Sustainability and Ecosystem Resilience*), and **Protocol D** (*Decentralized Constitutional Continuity and Partition Resilience*).
+  - Detailed recovery-architecture requirements appear in incorporated implementation text, including **[corpus_systems.md](corpus_systems.md), CS-5** (*Design, testing, verification, and deployment*), **CS-8** (*Adaptive Sustainability and Ecosystem Resilience*), and **CS-12** (*Decentralized Constitutional Continuity and Partition Resilience*).
   - That implementation text must not narrow this Article.
 - **Detection:** Recovery requires timely, observable detection of fault, degradation, or constitutional-constraint violation sufficient to satisfy **Article XV-A** (*Auditability and Observable Evidence*) [Auditability](core_05_band_oversight.md#auditability) — for the recovery path itself, not only the steady state.
 - **Containment:** Recovery must bound blast radius. Recovery actions must not:
@@ -665,7 +668,7 @@ Accurate, relevant, and contestable information is foundational to self-determin
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding), and [§12 Shared-System Capacity](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
-- Steward door (non-operative): This Article is the Rights-Floor layer of the audit stack. The three-layer picture (floor / property / process) lives in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit-three-layers) (process support, not binding). Do not treat Chapter Seven or a companion as a fifth home.
+- Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-audit). Support cards cannot narrow it. The three-layer picture lives in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit-three-layers).
 
 </details>
 
@@ -683,6 +686,9 @@ Accurate, relevant, and contestable information is foundational to self-determin
 <br>
 
 *In plain terms: **Article XV** (*Audit, Transparency, and Independent Verification*) is the audit-and-verification Rights Floor — when a system materially affects your life, you must be able to see enough of what it does for an outsider to check it, and more than one independent path must be able to review and correct failure. Audit cannot be a rubber stamp, a private club, or a maze of cost and delay designed to keep challenges out. Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others — not the only one.*
+
+<a id="operative-steward-statement-audit"></a>
+> **Operative steward statement.** **Owner:** Article XV (floor). Auditability (property). CJS-3.3 (process). **Forbidden move:** Do not disable audit trails to hit a deadline. Do not treat Chapter Seven or a companion as a fifth audit home. **Clock:** Preserve or restore reconstructable records first. Then ship, if you still can. Missing the deadline is the failed-test cost, not a clock that authorizes dropping audit.
 
 This Article states **constitutional floors** for audit, transparency, and independent verification under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
@@ -834,7 +840,7 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 *Article neighbors:*
 
 - **Read together:** **Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) where lighter rules apply only when external impact is absent or demonstrably contained; **Article XV** (*Audit, Transparency, and Independent Verification*) for reconstructable deployment and escalation evidence; **Article XII-F** (*Resilience and Self-Healing Baseline*) where recovery discipline intersects lifecycle change.
-- **Implementation layer:** **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** and **Protocol A — System Design, Testing, Verification, and Deployment** — without narrowing the floors stated here. **Class A**, **Class B**, and **Class C** systems carry the strongest lifecycle duties; valid **Class P** treatment remains under **Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) only while external impact stays absent or demonstrably contained.
+- **Implementation layer:** **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** and **CS-5** (*Design, testing, verification, and deployment*) — without narrowing the floors stated here. **Class A**, **Class B**, and **Class C** systems carry the strongest lifecycle duties; valid **Class P** treatment remains under **Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) only while external impact stays absent or demonstrably contained.
 
 #### Article XVI-A: Lifecycle Governance and Environment Separation
 <details>
@@ -890,7 +896,7 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 *In plain terms: roll out changes gradually, with documented escalation and the ability to undo — and where full undo is not possible, have a plan to contain or compensate harm.*
 
 - **Progressive and auditable deployment:** Changes that increase material impact or dependency must move through justified, documented escalation.
-  - Escalation must be consistent with **[corpus_systems.md](corpus_systems.md), Protocol A — System Design, Testing, Verification, and Deployment**.
+  - Escalation must be consistent with **[corpus_systems.md](corpus_systems.md), CS-5 — Design, testing, verification, and deployment**.
   - It must include rollback and containment where feasible.
 - **Reversibility:** Systems must incorporate reversibility mechanisms proportionate to potential harm. Examples:
   - rollback;
@@ -951,7 +957,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 *Article neighbors:*
 
 - **Read together:** **Article XVI** (*System Lifecycle, Environments, and Reversibility*) when impact, dependency, or integration outgrows sandbox conditions; **Article XIV** (*Info-Sphere Integrity*) and **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) where publication-scoped integrity is materially implicated; **Article XV** (*Audit, Transparency, and Independent Verification*) for disclosure and verification of containment and transition claims.
-- **Implementation layer:** **[corpus_systems.md](corpus_systems.md), Protocol A** and **CS-3 — System classification and handling** — without narrowing the floors stated here.
+- **Implementation layer:** **[corpus_systems.md](corpus_systems.md), CS-5** and **CS-3 — System classification and handling** — without narrowing the floors stated here.
 
 #### Article XVII-A: Sandboxed Scope
 <details>
@@ -981,7 +987,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
   - limited integration with shared systems.
 
   It may not be claimed by label alone.
-- **Implementation detail:** Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protocol A** (*Personal, Isolated, and Experimental Systems*; *Creative, Entertainment, and Expressive Systems*).
+- **Implementation detail:** Further elaboration appears in **[corpus_systems.md](corpus_systems.md), CS-5** (*Personal, isolated, and experimental systems*; *Creative, entertainment, and expressive systems*).
 
 #### Article XVII-B: Containment, Disclosure, and Opt-In
 <details>
@@ -1036,7 +1042,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 *In plain terms: once a sandbox system starts mattering in the real world, it must graduate to real-world obligations — promptly, not at the operator's convenience.*
 
 - **Transition to higher obligations:** When impact, dependency, irreversibility, or integration with shared systems grows, systems must transition transparently and without opportunistic delay.
-  - The transition must move toward the full requirements of **Article XVI-A** (*Lifecycle Governance and Environment Separation*) and **Protocol A** (*Non-Experimental Systems*).
+  - The transition must move toward the full requirements of **Article XVI-A** (*Lifecycle Governance and Environment Separation*) and **CS-5** (*Non-Experimental Systems*).
   - Interim safeguards proportionate to current risk apply during transition.
   - Sandbox treatment may not continue for functions whose real-world effects materially exceed sandbox conditions.
   - The transition must occur within a reasonable timeframe proportional to that growth.
@@ -1258,6 +1264,7 @@ It must remain distinct from:
 - **Non-substitution:** Standing criteria, labels, scores, competency bars, competency clearances, and standing locks govern role eligibility only. They must not:
   - blur together who qualifies for a role and who has inherent dignity or equal moral standing;
   - make role status a substitute for Rights-Floor minimums or for deciding whether someone is a stakeholder because a system actually affects them.
+  - Standing scores, competency bars and clearances, standing locks, System Alignment Certification records and badges, LEQU scores, substrate labels, and product or operational classifications must not be treated as a sentience-status determination. Who-counts routes to **Article V-E** (*Sentience-Status Adjudication Floor*), [**Def.P1** *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), and [Chapter Eleven §5](core_11-11_forum.md#5-escalation-and-certification).
 #### Article XVIII-B: Contestability and Proportional Restriction Limits
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1633,7 +1640,7 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 *Article neighbors:*
 
 - **Principle layer:** [Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) (*plain-language and jargon-as-defeat discipline*); [§6.1.2](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) (*avoidable-burden minimization and simplification carve-outs*); [Chapter One Part C §9.2](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (*distributed understanding keyed to materiality and dependency*).
-- **Rights detail:** **Article XX-A** (*Proportional Comprehensibility Right*) and **Article XX-B** (*Complexity Audit and Modularity Requirements*); **[corpus_systems.md](corpus_systems.md), Protocol B — *System Comprehensibility and Complexity Stewardship***.
+- **Rights detail:** **Article XX-A** (*Proportional Comprehensibility Right*) and **Article XX-B** (*Complexity Audit and Modularity Requirements*); **[corpus_systems.md](corpus_systems.md), CS-6 — *Comprehensibility and complexity stewardship***.
 #### Article XX-A: Proportional Comprehensibility Right
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1691,10 +1698,10 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
   - the boundaries across which responsibility or observability is handed off.
 - **Anti-layering:** Complexity may not be used — through technical, organizational, contractual, or procedural layering — to defeat audit, contest, or correction.
 - **Protocol alignment:** Evaluation must be consistent with:
-  - **[corpus_systems.md](corpus_systems.md), Protocol B — *System Comprehensibility and Complexity Stewardship***;
+  - **[corpus_systems.md](corpus_systems.md), CS-6 — *Comprehensibility and complexity stewardship***;
   - adopted presentation and architecture implementation requirements.
 
-  Where Protocol B and incorporated implementation conflict, the stricter applicable requirement governs.
+  Where CS-6 and incorporated implementation conflict, the stricter applicable requirement governs.
 
 <a id="article-xxi-root-cause-analysis-and-adaptive-response"></a>
 
@@ -1736,13 +1743,13 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 When degradation, instability, or systemic risk is detected, sentients and systems have the right to **diagnostic rigor in practice** — not symbolic response. That rigor requires timely identification and documentation of primary and contributing causes (including direct, indirect, delayed, or cumulative causes where materially relevant); pluralistic or independent evaluation where appropriate to the stakes and to capture risk; and corrective effort aimed at causes rather than symptoms alone, with interim containment and monitoring where needed.
 
-Diagnostic rigor must remain auditable and challengeable. It must be consistent with **[corpus_systems.md](corpus_systems.md), Protocol S4** (*Adaptive Sustainability and Ecosystem Resilience*), and with testing and verification environments under **Protocol A** and **Article XV-A** (*Auditability and Observable Evidence*). **Protocol S4** does not narrow governing requirements in **Chapters Two through Five** where diagnostic, evidentiary, or corrective obligations are materially implicated.
+Diagnostic rigor must remain auditable and challengeable. It must be consistent with **[corpus_systems.md](corpus_systems.md), CS-8** (*Adaptive sustainability and ecosystem resilience*), and with testing and verification environments under **CS-5** and **Article XV-A** (*Auditability and Observable Evidence*). **CS-8** does not narrow governing requirements in **Chapters Two through Five** where diagnostic, evidentiary, or corrective obligations are materially implicated.
 
 *Article neighbors:*
 
 - **Evidence and challenge:** **Article XV** (*Audit, Transparency, and Independent Verification*) and **Article XII-B** (*Right to Challenge, Review, and Redress*) — root-cause records must remain open to audit and contest without narrowing those floors.
 - **Lifecycle and recovery:** **Article XVI** (*System Lifecycle, Environments, and Reversibility*) — automatic recovery must not suppress evidence needed for root-cause analysis; read with **Article XXI-B** (*Auditability, Challenge, and Reversibility Preference*) reversibility preference.
-- **Implementation routing:** **[corpus_systems.md](corpus_systems.md), Protocol S4** (*Adaptive Sustainability and Ecosystem Resilience*) and **Protocol A** (*System Design, Testing, Verification, and Deployment*) — implement adaptive response without substituting for the Rights Floors stated here.
+- **Implementation routing:** **[corpus_systems.md](corpus_systems.md), CS-8** (*Adaptive sustainability and ecosystem resilience*) and **CS-5** (*Design, testing, verification, and deployment*) — implement adaptive response without substituting for the Rights Floors stated here.
 #### Article XXI-A: Diagnostic Rigor and Causal Attribution
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

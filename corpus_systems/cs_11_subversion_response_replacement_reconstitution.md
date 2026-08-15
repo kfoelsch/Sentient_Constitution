@@ -1,23 +1,49 @@
-# Protocol R — Subversion Response, Replacement, and Reconstitution
+# CS-11: Subversion response, replacement, and reconstitution
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Protocol R — Subversion Response, Replacement, and Reconstitution**.
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-11** (*Subversion response, replacement, and reconstitution*).
 >
 > Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
 </details>
 
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Chapter Five *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility*; **Article XXIII**; **Article XXII**; **Article XXVI-A**; **Article XXVI-C**; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge).
+- Downstream: [§1](#1-purpose-and-role); [§2](#2-landscape-compromise-declaration-and-activation); [§4](#4-governance-continuity-under-multi-node-compromise); [§8](#8-exit-restoration-and-post-incident-revalidation).
+- Read with: **CS-11**; **CS-5**; **CS-7**; **CS-10**; **CJS-3.20**; **CJS-3.13**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
+- [Emergency and Contingency](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05_band_continuity.md#emergency-and-contingency-constitutional-c)
+- [Reversibility](../core_05_band_continuity.md#reversibility-constitutional) · [O](../core_05_band_continuity.md#reversibility-constitutional) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
+- [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
+- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
+
+</details>
+
 <br>
 
-This file is the systems implementation home for **Protocol R — Subversion Response, Replacement, and Reconstitution**.
+This file is the systems implementation home for **CS-11** (*Subversion response, replacement, and reconstitution*).
 
-*In plain terms: **Protocol R** is the response when constitutional systems are not merely failing but actively subverted, possibly several at once. It sets when a compromise may be declared, how authority is replaced without inventing a permanent emergency power, and how a legitimate system is rebuilt afterwards.*
+*In plain terms: **CS-11** is the response when constitutional systems are not merely failing but actively subverted, possibly several at once. It sets when a compromise may be declared, how authority is replaced without inventing a permanent emergency power, and how a legitimate system is rebuilt afterwards.*
+<a id="1-purpose-and-role"></a>
+<a id="cs-11-1-purpose-and-role"></a>
+## CS-11.1 Purpose and role
 
-**Constitutional tracing.** This protocol operationalizes coordinated response where constitutional systems or governance pathways are materially subverted, including near-simultaneous multi-system attacks. It implements:
+*In plain terms: when systems are subverted — including several at once — this file governs declaration, replacement, and rebuild without a permanent emergency power.*
+
+This file operationalizes coordinated response where constitutional systems or governance pathways are materially subverted, including near-simultaneous multi-system attacks. It implements:
 - the definitional and scaling requirements in **Sentient Constitution Chapter Five** — *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility* where applicable;
 - **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) in **Chapter Six**, for escalation and emergency proportionality;
 - **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), for anti-capture governance safeguards;
@@ -29,10 +55,11 @@ It also operates with these operational clusters:
 - **CJS-3.11** (*distributed and proportional authority terms*);
 - **CJS-3.2** (*reflexive transparency and accountability terms*);
 - **CJS-3.13** (*procedural integrity and adjudication terms*).
-This protocol does not narrow constitutional rights or reviewability.
-<a id="1-landscape-compromise-declaration-and-activation"></a>
+This file does not narrow constitutional rights or reviewability.
 
-## 1. Landscape compromise declaration and activation
+<a id="2-landscape-compromise-declaration-and-activation"></a>
+<a id="cs-11-2-landscape-compromise-declaration-and-activation"></a>
+## CS-11.2 Landscape compromise declaration and activation
 
 *In plain terms: What has to be true before landscape-scale response can be switched on: credible evidence of coordinated compromise across multiple systems or their dependencies.*
 
@@ -48,8 +75,9 @@ Landscape-scale response may be activated when one or more of the following cond
 - **designation of accountable incident authority** with conflict disclosures and recusal constraints
 - **immediate publication** of a stakeholder-visible summary subject to justified and time-bounded confidentiality limits
 
-<a id="2-priority-triage-and-dependency-aware-containment"></a>
-## 2. Priority triage and dependency-aware containment
+<a id="3-priority-triage-and-dependency-aware-containment"></a>
+<a id="cs-11-3-priority-triage-and-dependency-aware-containment"></a>
+## CS-11.3 Priority triage and dependency-aware containment
 
 *In plain terms: Once activated, protect in order of constitutional harm — survival-critical and rights-sustaining pathways first.*
 
@@ -64,8 +92,9 @@ When landscape response is activated, systems must prioritize controls by consti
 - maintain auditable justification for each containment action, including expected duration and restoration criteria
 - avoid blanket restrictions where scoped controls can achieve equivalent protection
 
-<a id="3-governance-continuity-under-multi-node-compromise"></a>
-## 3. Governance continuity under multi-node compromise
+<a id="4-governance-continuity-under-multi-node-compromise"></a>
+<a id="cs-11-4-governance-continuity-under-multi-node-compromise"></a>
+## CS-11.4 Governance continuity under multi-node compromise
 
 *In plain terms: If the ordinary governance bodies are themselves compromised, a strictly limited steward of last resort may act, for containment and restoration only.*
 
@@ -76,7 +105,12 @@ If regular governance bodies are partially compromised or unavailable, a tempora
 - **challenge pathways and protected reporting channels remain active**
 - **time-bounded sunset and reauthorization burden for continuation**
 
-**3A. Steward-of-last-resort quorum and compromised-node exclusion.** Activation of steward-of-last-resort authority must include explicit quorum and exclusion controls.
+<a id="41-steward-of-last-resort-quorum-and-compromised-node-exclusion"></a>
+### 4.1 Steward-of-last-resort quorum and compromised-node exclusion
+
+*In plain terms: last-resort authority needs a multi-party quorum and an explicit way to exclude compromised nodes.*
+
+Activation of steward-of-last-resort authority must include explicit quorum and exclusion controls.
 
 **Quorum:**
 - **Quorum must be multi-party and cross-role** (minimum three independent stewards, with at least one from outside the affected primary governance unit where feasible).
@@ -95,8 +129,9 @@ If regular governance bodies are partially compromised or unavailable, a tempora
 
 Any attempt to use temporary continuity authority for durable concentration of power is non-compliant.
 
-<a id="4-replacement-and-reconstitution-procedure"></a>
-## 4. Replacement and reconstitution procedure
+<a id="5-replacement-and-reconstitution-procedure"></a>
+<a id="cs-11-5-replacement-and-reconstitution-procedure"></a>
+## CS-11.5 Replacement and reconstitution procedure
 
 *In plain terms: When compromise cannot be cleaned out in place, rebuild from a trusted baseline with acceptance criteria set before re-entry.*
 
@@ -109,19 +144,21 @@ Where subversion cannot be remediated in place, systems must execute replacement
 
 Replacement planning must include compatibility and exit-integrity protections so dependents are not coerced into lock-in during reconstitution.
 
-<a id="5-supply-chain-and-cross-jurisdiction-countermeasure-coordination"></a>
-## 5. Supply-chain and cross-jurisdiction countermeasure coordination
+<a id="6-supply-chain-and-cross-jurisdiction-countermeasure-coordination"></a>
+<a id="cs-11-6-supply-chain-and-cross-jurisdiction-countermeasure-coordination"></a>
+## CS-11.6 Supply-chain and cross-jurisdiction countermeasure coordination
 
 *In plain terms: Suppliers and cross-border dependencies are part of the attack surface, so trust boundaries must be mapped and coordinated in advance.*
 
 Response plans must treat supply-chain compromise as a first-class constitutional integrity threat. They must:
 - **identify critical upstream and downstream dependencies and trust boundaries**
-- **coordinate cross-jurisdiction containment, recognition, and fallback enforcement** consistent with **Protocol C**, subsection **8** (*Cross-Jurisdiction Execution and Anti-Evasion Controls*)
+- **coordinate cross-jurisdiction containment, recognition, and fallback enforcement** consistent with **CS-7 §9** (*Cross-Jurisdiction Execution and Anti-Evasion Controls*)
 - **maintain continuity obligations** across affiliates, successor entities, and delegated operators
 - **escalate anti-evasion controls** when adversaries use relabeling, jurisdiction transfer, or proxy structures during active response
 
-<a id="6-crisis-communications-and-anti-disinformation-controls"></a>
-## 6. Crisis communications and anti-disinformation controls
+<a id="7-crisis-communications-and-anti-disinformation-controls"></a>
+<a id="cs-11-7-crisis-communications-and-anti-disinformation-controls"></a>
+## CS-11.7 Crisis communications and anti-disinformation controls
 
 *In plain terms: Say what is known, what is not, and when the next update comes. Accuracy under pressure is itself a control.*
 
@@ -133,7 +170,12 @@ During activated response, communications must remain accurate, timely, and evid
 
 Disinformation resilience controls must include integrity checks for high-impact claims, source-provenance standards for binding decisions, and rapid correction protocols for materially false public statements.
 
-**6A. Evidence-quality gates and information-integrity escalation (high-impact decisions).** For high-impact decisions during activated response, systems must apply explicit evidence-quality gates before a decision may become binding:
+<a id="71-evidence-quality-gates-and-information-integrity-escalation-high-impact-decisions"></a>
+### 7.1 Evidence-quality gates and information-integrity escalation (high-impact decisions)
+
+*In plain terms: high-impact decisions during activated response must pass named evidence-quality gates before they bind.*
+
+For high-impact decisions during activated response, systems must apply explicit evidence-quality gates before a decision may become binding:
 - **Gate 1 (source authenticity):** claim provenance and custody chain are recorded and independently verifiable to the maximum feasible extent.
 - **Gate 2 (corroboration):** at least one materially independent corroborating source or method is required unless infeasible under documented emergency constraints.
 - **Gate 3 (freshness and relevance):** evidence timestamps, environmental assumptions, and applicability bounds are explicit and current to decision context.
@@ -156,8 +198,9 @@ Disinformation resilience controls must include integrity checks for high-impact
 - escalation decision log and reviewer independence statement
 - correction/reversal trace when later evidence invalidates prior assumptions
 
-<a id="7-exit-restoration-and-post-incident-revalidation"></a>
-## 7. Exit, restoration, and post-incident revalidation
+<a id="8-exit-restoration-and-post-incident-revalidation"></a>
+<a id="cs-11-8-exit-restoration-and-post-incident-revalidation"></a>
+## CS-11.8 Exit, restoration, and post-incident revalidation
 
 *In plain terms: Emergency authority expires when the justification does, and normal operation resumes only after revalidation.*
 
@@ -171,6 +214,6 @@ Repeated activation patterns indicating potential normalization or abuse of exce
 
 ---
 
-**Previous file:** [cs_protocol_t_transition_constitution_migration_governance.md](cs_protocol_t_transition_constitution_migration_governance.md)
+**Previous file:** [cs_10_transition_constitution_migration_governance.md](cs_10_transition_constitution_migration_governance.md)
 
-**Next file:** [cs_protocol_d_decentralized_constitutional_continuity_partition_resilience.md](cs_protocol_d_decentralized_constitutional_continuity_partition_resilience.md)
+**Next file:** [cs_12_decentralized_continuity_partition_resilience.md](cs_12_decentralized_continuity_partition_resilience.md)

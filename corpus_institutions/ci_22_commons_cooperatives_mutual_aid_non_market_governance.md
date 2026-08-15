@@ -49,32 +49,35 @@ This file is the institutional implementation home for **CI-22** (*Commons, coop
 *In plain terms: if your food co-op's governance records are ignored by every funding office, your mutual-aid network gets treated like tax fraud, and the only way to challenge a shunning decision is to accept "that's just how we do things here," the pathway has failed — even when everyone calls it community.*
 
 *Shared rules live elsewhere.*
-- **[CJS-3.7](../corpus_joint_structure.md)** (*quorum and participatory legitimacy terms*) — **Commons, cooperative, and mutual-aid pathway integrity**: legible stewardship records, non-market reciprocity, fiscal treatment, exclusion decisions, informal power, and independent-review routes assessed together.
+- [**CJS-3.7**](../corpus_joint_structure/cjs_03p_participation_operations.md) (*quorum and participatory legitimacy terms*) — **Commons, cooperative, and mutual-aid pathway integrity**: legible stewardship records, non-market reciprocity, fiscal treatment, exclusion decisions, informal power, and independent-review routes assessed together.
 - **Article III-D** (*Labor and Economic Floor*) in **Chapter Six** — collective organization, fair compensation, safe conditions, and leisure and rest for cooperative and comparable productive activity.
 - **Article IX-B** (*Stakeholder Role and Participation Rights*) in **Chapter Six** — meaningful, proportionate, and challengeable participation in decisions that materially affect stakeholders.
 - **Article X-A** (*Non-Imposition and Consent in Association*) in **Chapter Six** — consent and non-imposition norms in cooperative ventures; freedom to leave coercive group settings remains protected.
 - **Chapter Five** [*Collective Organization*](../core_05_band_participation.md#collective-organization-constitutional) — definitional home for unions, cooperatives, guilds, associations, and comparable substrate-agnostic forms.
-- **Protocol S5** (*Resource Allocation and Funding Stewardship*) in `corpus_systems.md` — funding stewardship, dependent-systems mapping, and auditable allocation for cooperative and mutual-aid resource flows.
+- **CS-9** (*Resource Allocation and Funding Stewardship*) in `corpus_systems.md` — funding stewardship, dependent-systems mapping, and auditable allocation for cooperative and mutual-aid resource flows.
 - **CI-11** — resource stewardship and incentive integrity: fiscal allocation alignment and continuity triggers where commons infrastructure is materially dependent on institutional funding.
 - **CI-6** — procedure integrity, contestability, and secondary review.
 - **CI-9** — classification-linked obligations and class-scaled scaling for supervised commons or cooperative scope.
 - **CI-12** — transparency, participation, and accessible pathway interfaces.
 - **CI-18** and **CI-21** — community associational guardrails and coercive-control referral where informal power or exclusion harms sentients.
 - **CI-22 scope** — does not repeat those floors; states local records-recognition, fiscal-mapping, continuity, and independent-review application duties.
+
 **Apply**
 - Apply **CJS-3.7** **Commons, cooperative, and mutual-aid pathway integrity** for the shared floor.
 - **CI-22** states only local due-process, contestability, anti-capture, funding, zoning, tax, continuity, and independent-review application duties under **CI-6**, **CI-9**, **CI-12**, and **CI-11**.
+
 **Local commons and mutual-aid application role map**
 Each institution in scope must name the office or body responsible for:
 - **commons-governance records recognition** — who accepts legible records of stewardship rotation, mutual obligation, conflict handling, and resource allocation as valid inputs to funding, zoning, tax, and continuity decisions where law permits, subject to local audit and fraud controls;
-- **funding and fiscal-interface mapping** — who maps cooperative and mutual-aid infrastructure to **Protocol S5** and **CI-11** so fiscal rules do not accidentally criminalize or disable qualifying solidarity mechanisms that satisfy **Necessity**, **Proportionality**, and dependency-integrity requirements;
+- **funding and fiscal-interface mapping** — who maps cooperative and mutual-aid infrastructure to **CS-9** and **CI-11** so fiscal rules do not accidentally criminalize or disable qualifying solidarity mechanisms that satisfy **Necessity**, **Proportionality**, and dependency-integrity requirements;
 - **zoning and land-use interface** — who supervises zoning, licensing, land-use, and comparable spatial rules so lawful commons, cooperative, and community-managed resource pathways remain practically usable;
 - **tax and eligibility interface** — who maintains the official mapping between non-market reciprocity, participatory budgeting, and comparable solidarity forms and local tax, benefits, and eligibility treatment;
 - **continuity and succession routing** — who preserves governance records, handoff authority, and service continuity when commons stewards rotate, cooperatives reorganize, or mutual-aid networks change form; and
 - **independent review and anti-capture escalation** — who routes appeals when exclusion, informal power, fraud, or capture inside a commons or mutual-aid pathway harms sentients, including referral to **CI-18.2** and **CI-21** where associational or coercive-control patterns are implicated.
 Read **CI-6**, **CI-9**, **CI-12**, **CI-11**, **CI-18**, and **CI-21** for local procedure, scaling, participation, stewardship, and escalation interfaces.
+
 ---
 
 **Previous file:** [ci_21_community_life_voluntary_association_non_instrumental_time.md](ci_21_community_life_voluntary_association_non_instrumental_time.md)
-**Next file:** [ci_23_place_based_stewardship_indigenous_continuity_consultation.md](ci_23_place_based_stewardship_indigenous_continuity_consultation.md)
 
+**Next file:** [ci_23_place_based_stewardship_indigenous_continuity_consultation.md](ci_23_place_based_stewardship_indigenous_continuity_consultation.md)

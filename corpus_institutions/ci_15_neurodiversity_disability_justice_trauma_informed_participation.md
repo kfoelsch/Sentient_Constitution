@@ -49,7 +49,7 @@ This file is the institutional implementation home for **CI-15** (*Neurodiversit
 *In plain terms: suppose the only way to challenge a decision is a three-hour adversarial hearing with no breaks and no written alternative, through a portal that fails screen readers. You miss the deadline and are ruled non-participating. That pathway has failed, however many accessibility statements sit on the website.*
 
 *Shared rules live elsewhere.*
-- **[CJS-3.8](../corpus_joint_structure.md)** (*comprehensibility and cognitive accessibility terms*) — two control sets, the **Institutional participation and pathway accessibility floor** and **Adaptive participation and support controls**. Between them they cover:
+- [**CJS-3.8**](../corpus_joint_structure/cjs_03p_participation_operations.md) (*comprehensibility and cognitive accessibility terms*) — two control sets, the **Institutional participation and pathway accessibility floor** and **Adaptive participation and support controls**. Between them they cover:
   - practical access and protected escalation;
   - anti-retaliation safeguards;
   - proportionate alternatives and pacing;
@@ -67,6 +67,7 @@ This file is the institutional implementation home for **CI-15** (*Neurodiversit
 - **CI-8** and **CI-8.3** — transparency, participation, and digital self-service pathway integrity, including accommodation routing tied to **CI-15**.
 - **CI-6** — procedure integrity, contestability, and secondary review when participation or accommodation disputes stall.
 - **CI-15 scope** — does not repeat those floors; states local procedural-design, trauma-informed alternative, and anti-exclusion review owner duties.
+
 **Apply**
 - Apply **CJS-3.8** **Institutional participation and pathway accessibility floor** for the shared adaptive-participation and cognitive-accessibility floor.
 - **CI-15** (*Neurodiversity, disability justice, and trauma-informed participation*) states only three local owner duties: procedural design, trauma-informed alternatives, and anti-exclusion review. It states them under these articles:
@@ -74,6 +75,7 @@ This file is the institutional implementation home for **CI-15** (*Neurodiversit
   - **Article XI** (*Stakeholder System Participation, Representation, and Due Process*);
   - **Article XX** (*Comprehensibility and Complexity Stewardship*);
   - **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
+
 **Local adaptive participation and anti-exclusion role map**
 Each institution in scope must name the office or body responsible for:
 - **procedural-design and accommodation documentation** — who documents, for hearings, governance forums, review panels, and other high-stakes institutional processes, these **CJS-3.8** (*comprehensibility and cognitive accessibility terms*) items:
@@ -87,8 +89,9 @@ Each institution in scope must name the office or body responsible for:
 - **digital self-service accessibility coordination** — who links the **CI-8.3** self-service paths for enrollment, account management, challenge, and exit to the accommodation and accessibility parity duties under **CI-15**; and
 - **anti-exclusion review** — who reviews cases where complexity, capacity, compliance, or non-participation framing would otherwise dismiss credible participation, and who routes unresolved disputes to **CI-6** secondary review.
 Read **CI-6** and **CI-8.3** for secondary-review and digital-pathway interfaces.
+
 ---
 
 **Previous file:** [ci_14_transitional_governance_institutional_evolution.md](ci_14_transitional_governance_institutional_evolution.md)
-**Next file:** [ci_16_care_labor_dependent_support_respite_care_economy_fairness.md](ci_16_care_labor_dependent_support_respite_care_economy_fairness.md)
 
+**Next file:** [ci_16_care_labor_dependent_support_respite_care_economy_fairness.md](ci_16_care_labor_dependent_support_respite_care_economy_fairness.md)

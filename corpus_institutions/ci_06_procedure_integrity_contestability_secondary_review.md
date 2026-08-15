@@ -56,8 +56,9 @@ This file is the institutional implementation home for **CI-6** (*Procedure inte
 - how often the map is published or refreshed; and
 - forum-expansion records when a forum's scope or certified route widens.
 For every required step in that map, the institution must also name the local owner, the record that proves the step was done correctly, how to challenge the outcome, and any institution-specific schedule for publication or secondary review.
+
 ---
 
 **Previous file:** [ci_05_conflict_integrity_anti_capture_anti_corruption.md](ci_05_conflict_integrity_anti_capture_anti_corruption.md)
-**Next file:** [ci_07_oversight_assurance_controls_evidence.md](ci_07_oversight_assurance_controls_evidence.md)
 
+**Next file:** [ci_07_oversight_assurance_controls_evidence.md](ci_07_oversight_assurance_controls_evidence.md)

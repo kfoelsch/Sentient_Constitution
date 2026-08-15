@@ -48,8 +48,16 @@ CORE_CHAIN = (
 )
 
 CJS_CHAIN = (
+    "corpus_joint_structure/cjs_reader_guide.md",
     "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+    "corpus_joint_structure/cjs_01_drafting_contracts.md",
+    "corpus_joint_structure/cjs_01_odef_parse.md",
     "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+    "corpus_joint_structure/cjs_02_hybrid_delegated_authority.md",
+    "corpus_joint_structure/cjs_02_trust_integrity.md",
+    "corpus_joint_structure/cjs_02_lane_staffing.md",
+    "corpus_joint_structure/cjs_02_procedural_abstractions.md",
+    "corpus_joint_structure/cjs_02_support_hosting_classification.md",
     "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
     "corpus_joint_structure/cjs_03_audit_process.md",
     "corpus_joint_structure/cjs_03o_oversight_operations.md",
@@ -61,6 +69,7 @@ CJS_CHAIN = (
 
 # Side-path registry annexes: not in the default wrapper → *-1 reading order.
 CJS_REGISTRY_ANNEX = "corpus_joint_structure/cjs_00_registry_and_reading_rules.md"
+CJS_TOPIC_ROUTER_ANNEX = "corpus_joint_structure/cjs_00_topic_router.md"
 
 CS_CHAIN = tuple(
     f"corpus_systems/{name}"
@@ -71,14 +80,14 @@ CS_CHAIN = tuple(
         "cs_03_a_system_classification_machinery.md",
         "cs_03_b_system_impact_classifications.md",
         "cs_04_critical_system_stewardship.md",
-        "cs_protocol_a_system_design_testing_verification_deployment.md",
-        "cs_protocol_b_system_comprehensibility_complexity_stewardship.md",
-        "cs_protocol_c_justice_safeguards_restitution_rehabilitation.md",
-        "cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md",
-        "cs_protocol_s5_resource_allocation_funding_stewardship.md",
-        "cs_protocol_t_transition_constitution_migration_governance.md",
-        "cs_protocol_r_subversion_response_replacement_reconstitution.md",
-        "cs_protocol_d_decentralized_constitutional_continuity_partition_resilience.md",
+        "cs_05_design_testing_verification_deployment.md",
+        "cs_06_comprehensibility_complexity_stewardship.md",
+        "cs_07_justice_safeguards_restitution_rehabilitation.md",
+        "cs_08_adaptive_sustainability_ecosystem_resilience.md",
+        "cs_09_resource_allocation_funding_stewardship.md",
+        "cs_10_transition_constitution_migration_governance.md",
+        "cs_11_subversion_response_replacement_reconstitution.md",
+        "cs_12_decentralized_continuity_partition_resilience.md",
     )
 )
 
@@ -122,7 +131,7 @@ CF_CHAIN = tuple(
     f"corpus_forum/{name}"
     for name in (
         "cf_01_scope_authority_boundary_rules.md",
-        "cf_03_forum_formation_tribunal_mapping_chamber_structure.md",
+        "cf_03_forum_formation_chamber_structure.md",
         "cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
         "cf_05_routing_operations_transfer_certification_representative_treatment.md",
         "cf_06_appeal_secondary_review_exhaustion_pathways.md",
@@ -143,6 +152,7 @@ CF_REGISTRY_ANNEX = "corpus_forum/cf_00_registry_and_reading_rules.md"
 
 REGISTRY_ANNEXES: tuple[tuple[str, str, str], ...] = (
     (CJS_REGISTRY_ANNEX, "corpus_joint_structure.md", CJS_CHAIN[0]),
+    (CJS_TOPIC_ROUTER_ANNEX, CJS_REGISTRY_ANNEX, CJS_REGISTRY_ANNEX),
     (CS_REGISTRY_ANNEX, "corpus_systems.md", CS_CHAIN[0]),
     (CI_REGISTRY_ANNEX, "corpus_institutions.md", CI_CHAIN[0]),
     (CF_REGISTRY_ANNEX, "corpus_forum.md", CF_CHAIN[0]),
@@ -180,7 +190,7 @@ WRAPPER_ROOTS = {
 
 TERMINAL_ALIGNMENT_FILES = {
     "corpus_joint_structure/cjs_03i_integrative_operations.md",
-    "corpus_systems/cs_protocol_d_decentralized_constitutional_continuity_partition_resilience.md",
+    "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
     "corpus_institutions/ci_26_compliance_mapping_stable_registry.md",
 }
 

@@ -262,7 +262,7 @@ def strip_local_owner_application(text: str) -> str:
     """
 
     owner_map_re = re.compile(
-        r"^(?:\*\*[^*]+\*\*\s+)?(?:Name the|Read \*\*CI-|Read \*\*Chapter|Read \*\*Protocol|"
+        r"^(?:\*\*[^*]+\*\*\s+)?(?:Name the|Read \*\*CI-|Read \*\*Chapter|Read \*\*CS-|Read \*\*Protocol|"
         r"\*\*Local\b|role map\b|where applicable\b)",
         flags=re.I | re.M,
     )
@@ -417,7 +417,7 @@ def extract_cjs_paragraphs(root: Path) -> list[dict[str, object]]:
 
 
 def extract_router_rows(root: Path) -> list[dict[str, str]]:
-    path = root / CJS_DIR / "cjs_00_registry_and_reading_rules.md"
+    path = root / CJS_DIR / "cjs_00_topic_router.md"
     rows: list[dict[str, str]] = []
     row_re = re.compile(r"^\|\s+\*\*(CJS-R[^*]+)\*\*\s+\|\s+([^|]+)\|\s+([^|]+)\|\s+([^|]+)\|")
     for line in read_text(path).splitlines():

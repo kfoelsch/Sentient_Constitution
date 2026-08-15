@@ -1,35 +1,66 @@
-# Protocol C: Justice Safeguards, Restitution, and Rehabilitation Implementation
+# CS-7: Justice safeguards, restitution, and rehabilitation
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Protocol C: Justice Safeguards, Restitution, and Rehabilitation Implementation**.
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-7** (*Justice safeguards, restitution, and rehabilitation*).
 >
 > Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
 </details>
 
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); [Chapter Eight](../core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); **CJS-3.13** (*procedural integrity and adjudication terms*); [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
+- Downstream: [§1](#1-purpose-and-role); [§2](#2-scope-and-trigger); [§3](#3-mandatory-validation-record); [§11](#11-lived-condition-floors-continuity-and-re-entry-alignment).
+- Read with: **CS-7**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-9**; **CJS-3.13**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [Redress and Remediation](../core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](../core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Necessity](../core_05_band_accountability.md#necessity) · [O](../core_05_band_accountability.md#necessity) · [M](../core_05_band_accountability.md#necessity-a) · [A](../core_05_band_accountability.md#necessity-a) · [C](../core_05_band_accountability.md#necessity-c)
+- [Proportionality](../core_05_band_accountability.md#proportionality) · [O](../core_05_band_accountability.md#proportionality) · [M](../core_05_band_accountability.md#proportionality-a) · [A](../core_05_band_accountability.md#proportionality-a) · [C](../core_05_band_accountability.md#proportionality-c)
+- [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
+- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
+- [Constitutional Constraint](../core_05_band_integrative.md#constitutional-constraint) · [O](../core_05_band_integrative.md#constitutional-constraint) · [M](../core_05_band_integrative.md#constitutional-constraint-a) · [A](../core_05_band_integrative.md#constitutional-constraint-a) · [C](../core_05_band_integrative.md#constitutional-constraint-c)
+
+</details>
+
 <br>
 
-This file is the systems implementation home for **Protocol C** (*Justice Safeguards, Restitution, and Rehabilitation Implementation*).
+This file is the systems implementation home for **CS-7** (*Justice safeguards, restitution, and rehabilitation*).
 
-*In plain terms: **Protocol C** covers what a system must do when it restricts, sanctions, or penalizes someone: validate the basis first, keep the restriction as light and as short as the situation allows, make restoration a real route rather than a formality, and never let a sanction turn into retaliation.*
+*In plain terms: **CS-7** covers what a system must do when it restricts, sanctions, or penalizes someone: validate the basis first, keep the restriction as light and as short as the situation allows, make restoration a real route rather than a formality, and never let a sanction turn into retaliation.*
+<a id="1-purpose-and-role"></a>
+<a id="cs-7-1-purpose-and-role"></a>
+## CS-7.1 Purpose and role
 
-Constitutional tracing: This protocol implements Sentient Constitution Chapter Six, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). It also implements **Sentient Constitution Chapter Eight** (compliance, violation, and standing model) and **CJS-3.13** (implementation and cross-implementation procedural integrity and adjudication terms), read with **CJS-3.13** (*procedural integrity and adjudication terms*). It operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
+*In plain terms: this file is the systems protocol for restrictions — validate first, keep them light and time-bounded, and keep restoration real.*
+
+This file implements Sentient Constitution Chapter Six, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). It also implements **Sentient Constitution Chapter Eight** (compliance, violation, and standing model) and **CJS-3.13** (*procedural integrity and adjudication terms*). It operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
 **It does** **not** create substitute rights or narrow [Constitutional Constraints](../core_05_band_integrative.md#constitutional-constraint).
-<a id="1-scope-and-trigger"></a>
 
-## 1. Scope and trigger
-*In plain terms: This protocol switches on whenever a non-trivial restriction is imposed — anything materially affecting liberty, access, movement, authority, resources, or standing.*
+<a id="2-scope-and-trigger"></a>
+<a id="cs-7-2-scope-and-trigger"></a>
+## CS-7.2 Scope and trigger
 
-This protocol applies when systems, institutions, or adjudicative bodies impose or maintain non-trivial restrictions.
+*In plain terms: This file switches on whenever a non-trivial restriction is imposed — anything materially affecting liberty, access, movement, authority, resources, or standing.*
+
+This file applies when systems, institutions, or adjudicative bodies impose or maintain non-trivial restrictions.
 
 Those restrictions may affect liberty, access, movement, role authority, resources, or durable standing effects.
 
-<a id="2-mandatory-validation-record"></a>
-## 2. Mandatory validation record
+<a id="3-mandatory-validation-record"></a>
+<a id="cs-7-3-mandatory-validation-record"></a>
+## CS-7.3 Mandatory validation record
+
 *In plain terms: Before restricting someone, the responsible body must record why it is necessary for safety, what remediation is owed, and what route back exists. All of these, not whichever is easiest to write.*
 
 **Joint validation record:** Before a non-trivial restriction is imposed or renewed, the responsible body must create an auditable record.
@@ -42,8 +73,10 @@ That record must demonstrate all of the following jointly:
 
 If any required element is absent, the restriction is non-compliant and must **not** be imposed.
 
-<a id="3-class-scaled-assurance-requirements"></a>
-## 3. Class-scaled assurance requirements
+<a id="4-class-scaled-assurance-requirements"></a>
+<a id="cs-7-4-class-scaled-assurance-requirements"></a>
+## CS-7.4 Class-scaled assurance requirements
+
 *In plain terms: How much scrutiny a restriction needs scales with the system's class: the highest classes require independent review before imposition, not afterwards.*
 
 Validation and review rigor must scale with **CS-3 — System classification and handling** classification (and **CS-4 — Critical system stewardship** stewardship tier where applicable).
@@ -58,8 +91,10 @@ Validation and review rigor must scale with **CS-3 — System classification and
 
 Where material external effects emerge, obligations escalate to the stricter applicable class profile.
 
-<a id="4-least-restrictive-time-bounded-and-restoration-rules"></a>
-## 4. Least-restrictive, time-bounded, and restoration rules
+<a id="5-least-restrictive-time-bounded-and-restoration-rules"></a>
+<a id="cs-7-5-least-restrictive-time-bounded-and-restoration-rules"></a>
+## CS-7.5 Least-restrictive, time-bounded, and restoration rules
+
 *In plain terms: Use the lightest measure that works, set an end date, schedule reviews, and define what restoration looks like. Rolling a restriction forward without fresh evidence is non-compliant.*
 
 Every non-trivial restriction must **use the least-restrictive effective measure**.
@@ -68,16 +103,20 @@ It must include explicit duration limits and sunset conditions, define review in
 
 Continuation without refreshed evidence at scheduled review is non-compliant.
 
-<a id="5-prohibited-retaliatory-forms"></a>
-## 5. Prohibited retaliatory forms
+<a id="6-prohibited-retaliatory-forms"></a>
+<a id="cs-7-6-prohibited-retaliatory-forms"></a>
+## CS-7.6 Prohibited retaliatory forms
+
 *In plain terms: Restrictions may protect; they may not punish for its own sake. Measures built on grievance, humiliation, or spectacle are prohibited regardless of what they are called.*
 
 Implementations must **not** operationalize restrictions, exclusions, or restorative-accountability measures that violate the [Anti-Degrading-Process Principle](../core_01_b_interaction_interpretation.md#anti-degrading-process-principle), including measures justified by retaliatory grievance, humiliation-as-an-end, spectacle-only deterrence, discriminatory burdening, collective retaliation, or administrative convenience.
 
 Irreversible restrictive outcomes are prohibited where feasible reversible restitution, remediation, or protection alternatives exist.
 
-<a id="6-voluntary-public-accountability-expression"></a>
-## 6. Voluntary public accountability expression
+<a id="7-voluntary-public-accountability-expression"></a>
+<a id="cs-7-7-voluntary-public-accountability-expression"></a>
+## CS-7.7 Voluntary public accountability expression
+
 *In plain terms: Where a restorative route involves a public apology, it must be genuinely voluntary. A coerced apology is a further harm, not a remedy.*
 
 Where restorative pathways include public acknowledgment or apology, systems must enforce voluntariness and authenticity controls.
@@ -86,11 +125,13 @@ Those controls are specified in **Chapter Nine** §4.3 (*Voluntary public accoun
 
 Refusal may **not** independently escalate baseline sanctions.
 
-<a id="7-metrics-and-oversight"></a>
-## 7. Metrics and oversight
+<a id="8-metrics-and-oversight"></a>
+<a id="cs-7-8-metrics-and-oversight"></a>
+## CS-7.8 Metrics and oversight
+
 *In plain terms: What must be tracked and published: whether restrictions are reversed on review, whether remediation completes, and whether the intervention actually reduced recurrence.*
 
-Systems subject to this protocol must **track** and **periodically publish** (subject to privacy and security constraints) designated metrics.
+Systems subject to this file must **track** and **periodically publish** (subject to privacy and security constraints) designated metrics.
 
 Those metrics include recurrence rates after intervention, restitution completion, remediation effectiveness, rehabilitation pathway completion where applicable, reversal/modification/restoration rates after review, and review-independence indicators.
 
@@ -102,8 +143,10 @@ Apply **Article XV-A** (*Auditability and Observable Evidence*), **Article XVIII
 
 For **Class A** and **Class B** systems, persistent concentrations of interpretive or adjudicative authority without effective challenge outcomes are capture-risk indicators and must trigger governance remediation review under **Article XXIII-A** (*Justice Objective and Scope*), **Chapter Five** (*System Capture*), and **CJS-3.13** (*procedural integrity and adjudication terms*).
 
-<a id="8-cross-jurisdiction-execution-and-anti-evasion-controls"></a>
-## 8. Cross-jurisdiction execution and anti-evasion controls
+<a id="9-cross-jurisdiction-execution-and-anti-evasion-controls"></a>
+<a id="cs-7-9-cross-jurisdiction-execution-and-anti-evasion-controls"></a>
+## CS-7.9 Cross-jurisdiction execution and anti-evasion controls
+
 *In plain terms: Decisions with effects across borders need routes that still work across them, so restructuring across an entity or a boundary cannot be used to shake off an obligation.*
 
 For decisions with material cross-boundary effects, implementing bodies must define and maintain execution pathways.
@@ -116,7 +159,7 @@ Those pathways must preserve constitutional enforceability across jurisdictions 
 
 Documentation must cover pooled arrangements, escrow/holdback, and insurance or indemnity instruments where lawful. It must also cover periodic replenishment and ensure execution does not stall for lack of deployable capacity.
 
-See Sentient Constitution **Chapter Four** (*Enforcement Realism Anchors*) and **Protocol S5**.
+See Sentient Constitution **Chapter Four** (*Enforcement Realism Anchors*) and **CS-9**.
 
 **Judgment and award realism:** Where foreign forums, arbitral tribunals, or sovereign regulators issue enforceable outcomes, systems must map recognition, registration, and fallback dependency-linked enforcement. They must **not** treat absence of a single global judiciary as permission for indefinite non-compliance.
 
@@ -128,8 +171,10 @@ Apply Sentient Constitution **Chapter Fourteen** (*Disputes Involving External L
 
 **Forum-shopping detection and response:** Repeated migration to lower-scrutiny venues, reincorporation patterns, or layered delegation intended to dilute accountability must trigger aggravated enforcement review. It must also trigger anti-evasion intervention under **Sentient Constitution Chapters Two through Four** and **CJS-3.13** (*procedural integrity and adjudication terms*).
 
-<a id="9-proportional-compliance-templates-class-scaled"></a>
-## 9. Proportional compliance templates (class-scaled)
+<a id="10-proportional-compliance-templates-class-scaled"></a>
+<a id="cs-7-10-proportional-compliance-templates-class-scaled"></a>
+## CS-7.10 Proportional compliance templates (class-scaled)
+
 *In plain terms: Standard templates keep the paperwork proportionate to the stake. They right-size the burden of documentation; they never lower the underlying protection.*
 
 Systems must implement class-scaled compliance templates that preserve core protections while right-sizing documentation and verification burden.
@@ -160,16 +205,18 @@ Maintaining a lower template after trigger activation is non-compliance.
 
 **Anti-evasion template rule:** Template selection, simplification, or fragmentation must **not** be used to avoid obligations that would apply under full functional conditions.
 
-Where a material control family fails, systems must produce a control-failure disclosure packet proportionate to class, dependency, and supervised scope. Institutions with supervised scope should integrate that packet with `corpus_institutions.md` **CI-7.1** (*Controls declaration*) controls declarations where applicable.
+Where a material control family fails, systems must produce a control-failure disclosure packet proportionate to class, dependency, and supervised scope. Institutions with supervised scope should integrate that packet with [**CI-7.1**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Controls declaration*) controls declarations where applicable.
 
 Evasive down-tiering requires corrective reclassification and enforcement review.
 
-<a id="10-lived-condition-floors-continuity-and-re-entry-alignment"></a>
-## 10. Lived-condition floors, continuity, and re-entry alignment
+<a id="11-lived-condition-floors-continuity-and-re-entry-alignment"></a>
+<a id="cs-7-11-lived-condition-floors-continuity-and-re-entry-alignment"></a>
+## CS-7.11 Lived-condition floors, continuity, and re-entry alignment
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*), and **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*) (Rights-Floor homes); **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) (crisis-intervention boundaries); **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) and **Article XXIII-A** (*Justice Objective and Scope*) (proportionality, justice objective, and restoration); **Protocol C** sections **2–5** above; `corpus_institutions.md` **CI-18** (*Community life, voluntary association, and non-instrumental time*) through **CI-21** (*Relational coercive control, intimate power, and anti-domination routing*) where **community**, **care**, and **relational-autonomy** supports intersect restriction contexts.
+- Read with: **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*), and **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*) (Rights-Floor homes); **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) (crisis-intervention boundaries); **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) and **Article XXIII-A** (*Justice Objective and Scope*) (proportionality, justice objective, and restoration); **CS-7** §§3–6 above; [**CI-18**](../corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md) (*Community life, voluntary association, and non-instrumental time*) through **CI-21** (*Relational coercive control, intimate power, and anti-domination routing*) where **community**, **care**, and **relational-autonomy** supports intersect restriction contexts.
 
 </details>
 
@@ -181,10 +228,10 @@ This subsection implements **non-degrading lived conditions** and **continuity o
 
 **Minimum lived-condition expectations (class- and context-scaled):** Responsible bodies must document and deliver, where **Necessity** and **Proportionality** allow, **healthcare and mental-health access** appropriate to the restriction’s purpose; **family, care, or trusted-contact** access where **safety** permits; **education, training, or capability development** access where the restriction is not narrowly justified to prevent it; **counsel, advocate, or independent representative** access for rights-affecting processes; **scheduled review** with **written reasons** at **intervals** that match impact and duration; **conditions** that **do not** impose **sensory deprivation**, **social isolation**, or **degradation** as an **unjustified** end; and **re-entry planning** that **does not** **sabotage** formal restoration through **withheld records**, **credential stripping without individualized predicate**, or **indefinite administrative deferral** of stated review triggers.
 
-**Cross-layer coordination:** Forums and institutions must treat **Protocol C** validation records and **review cadence** as **first-class inputs** to **forum** and **institutional** performance requirements (`corpus_forum.md` **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*); `corpus_institutions.md` **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-12** (*Transparency, participation, and accessible pathways*), **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*)). **Solitary** or **sensory-restrictive** measures framed as **safety** require **independent** or **secondary** **review** on a **schedule** published in advance; **endless deferral** of review is **non-compliant** where a **review date** or **sunset** was **predicated** at imposition.
+**Cross-layer coordination:** Forums and institutions must treat **CS-7** validation records and **review cadence** as **first-class inputs** to **forum** and **institutional** performance requirements ([**CF-11**](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md) (*Forum performance, backlog requirements, publication timeliness, and accessibility*); [**CI-6**](../corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md) (*Procedure integrity, contestability, and secondary review*), **CI-12** (*Transparency, participation, and accessible pathways*), **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*)). **Solitary** or **sensory-restrictive** measures framed as **safety** require **independent** or **secondary** **review** on a **schedule** published in advance; **endless deferral** of review is **non-compliant** where a **review date** or **sunset** was **predicated** at imposition.
 
 ---
 
-**Previous file:** [cs_protocol_b_system_comprehensibility_complexity_stewardship.md](cs_protocol_b_system_comprehensibility_complexity_stewardship.md)
+**Previous file:** [cs_06_comprehensibility_complexity_stewardship.md](cs_06_comprehensibility_complexity_stewardship.md)
 
-**Next file:** [cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md](cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md)
+**Next file:** [cs_08_adaptive_sustainability_ecosystem_resilience.md](cs_08_adaptive_sustainability_ecosystem_resilience.md)

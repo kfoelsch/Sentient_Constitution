@@ -7,7 +7,7 @@ import re
 from dataclasses import dataclass, field
 from pathlib import Path
 
-ROUTER_PATH = Path("corpus_joint_structure/cjs_00_registry_and_reading_rules.md")
+ROUTER_PATH = Path("corpus_joint_structure/cjs_00_topic_router.md")
 CORPUS_FOLDERS = ("corpus_forum", "corpus_institutions", "corpus_joint_structure")
 SKIP_PARTS = {"archive", ".git", "__pycache__", "node_modules", "evidence"}
 

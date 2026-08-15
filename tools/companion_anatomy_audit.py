@@ -42,7 +42,10 @@ OWNER_LINE_RE = re.compile(r"^(?:This file is the |\*?\*?(?:CF|CI|CS|CJS)-[\d.]+
 SELF_DOWNSTREAM_RE = re.compile(
     r"^- Downstream: this section's local operational requirements", re.I
 )
-SELF_READ_WITH_RE = re.compile(r"^- Read with: \*\*(?:CF|CI|CS|CJS)-[\d.]+\*\*\.\s*$")
+SELF_READ_WITH_RE = re.compile(
+    r"^- Read with: \*\*((?:CF|CI|CS|CJS)-[\d.]+)\*\*"
+    r"(?:;\s*\*\*\1(?:\s+§[\d.]+)?\*\*)?\.?\s*$"
+)
 
 # There are no live redirect stubs in the normalized CJS family.
 EXEMPT_SUFFIXES: tuple[str, ...] = ()

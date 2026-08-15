@@ -154,8 +154,8 @@ The disclosure record must be preserved even if the member ultimately serves.
 *In plain terms: The situations where stepping aside is required rather than optional, including having already acted in the matter in another role.*
 
 Recusal is required where:
-- conflict is material under `corpus_institutions.md` **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*);
-- impartiality is reasonably contested under `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*);
+- conflict is material under [**CI-5**](../corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) (*Conflict integrity, anti-capture, and anti-corruption*);
+- impartiality is reasonably contested under [**CI-4**](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*);
 - the member has prior investigative, prosecutorial, administrative, or advisory involvement in the same matter that would collapse role separation;
 - the member is a subject, likely material witness, or direct institutional subordinate of a subject in a way that materially impairs independence;
 - the matter triggers [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) cross-forum anti-self-judging protection and the proposed member is part of the compromised chain;
@@ -196,7 +196,7 @@ Institutions must not use recusal as a covert tool for:
 - selective refusal to hear politically or structurally sensitive matters,
 - steering a case into a preferred substitute or backup forum.
 
-Repeated or strategic recusal abuse remains non-compliant under `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*) and must trigger corrective or removal review. The forum system must require a separate record when recusal patterns suggest coordinated manipulation or systematic inability to form independent panels in a given class of dispute.
+Repeated or strategic recusal abuse remains non-compliant under [**CI-4**](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) and must trigger corrective or removal review. The forum system must require a separate record when recusal patterns suggest coordinated manipulation or systematic inability to form independent panels in a given class of dispute.
 
 ## CF-4.8 Replacement and substitute selection
 
@@ -244,7 +244,7 @@ The certifier must:
 - give reasons sufficient for later review;
 - preserve the basis for any backup activation.
 
-For cross-forum anti-self-judging cases, the certifier should, where feasible, include or be reviewed by contest-integrity or equivalent independent assurance capacity under `corpus_institutions.md` **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) without displacing the merits forum assignment rules.
+For cross-forum anti-self-judging cases, the certifier should, where feasible, include or be reviewed by contest-integrity or equivalent independent assurance capacity under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Contest-integrity monitoring (Class A and Class B)*) without displacing the merits forum assignment rules.
 
 ## CF-4.11 Backup-forum activation
 
@@ -300,6 +300,6 @@ These records must be retained in a way that supports:
 
 ---
 
-**Previous file:** [cf_03_forum_formation_tribunal_mapping_chamber_structure.md](cf_03_forum_formation_tribunal_mapping_chamber_structure.md)
+**Previous file:** [cf_03_forum_formation_chamber_structure.md](cf_03_forum_formation_chamber_structure.md)
 
 **Next file:** [cf_05_routing_operations_transfer_certification_representative_treatment.md](cf_05_routing_operations_transfer_certification_representative_treatment.md)

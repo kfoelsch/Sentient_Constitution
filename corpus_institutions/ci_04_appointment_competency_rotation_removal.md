@@ -145,7 +145,7 @@ Role maps must record applicable Chapter Nine competency-clearance results and s
 The following shared rules govern class-scaling — local role maps must apply them, not replace them:
 - **CJS-2.4** (*Class-scaled lane staffing and competency redundancy*) — minimum qualified role holders, backup coverage, and succession depth scaled to binding impact.
 - **CI-3** (*Institutional design and separation of powers*) — lane ownership for each required functional lane.
-- `corpus_systems.md` **CS-3 — System classification and handling** and **CS-4 — Critical system stewardship** — classification and stewardship hooks that trigger when class-scaling applies.
+- [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) and **CS-4 — Critical system stewardship** — classification and stewardship hooks that trigger when class-scaling applies.
 
 ---
 

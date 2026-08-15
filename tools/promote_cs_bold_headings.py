@@ -31,13 +31,13 @@ LABEL_RE = re.compile(r"^\*\*(?P<label>(?:\d+|[A-Z]))\.\s+(?P<title>[^*]+?)\.\*\
 
 TARGETS = (
     "cs_04_critical_system_stewardship.md",
-    "cs_protocol_a_system_design_testing_verification_deployment.md",
-    "cs_protocol_b_system_comprehensibility_complexity_stewardship.md",
-    "cs_protocol_d_decentralized_constitutional_continuity_partition_resilience.md",
-    "cs_protocol_r_subversion_response_replacement_reconstitution.md",
-    "cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md",
-    "cs_protocol_s5_resource_allocation_funding_stewardship.md",
-    "cs_protocol_t_transition_constitution_migration_governance.md",
+    "cs_05_design_testing_verification_deployment.md",
+    "cs_06_comprehensibility_complexity_stewardship.md",
+    "cs_12_decentralized_continuity_partition_resilience.md",
+    "cs_11_subversion_response_replacement_reconstitution.md",
+    "cs_08_adaptive_sustainability_ecosystem_resilience.md",
+    "cs_09_resource_allocation_funding_stewardship.md",
+    "cs_10_transition_constitution_migration_governance.md",
 )
 
 

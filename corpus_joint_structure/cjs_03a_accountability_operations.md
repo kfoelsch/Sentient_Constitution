@@ -46,7 +46,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 - Read with: **CJS-3.3 — Auditability**
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-3.13 — Procedural Integrity and Adjudication**
-- Read with: `corpus_systems.md` **CS-4 — Critical system stewardship**
+- Read with: [**CS-4**](../corpus_systems/cs_04_critical_system_stewardship.md)
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05_band_accountability.md#non-compliance-finding-profile); use **CCL** layer and **structural** or **stewardship** **failure character** when undocumented authority, capture, or concentration is material; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 3](../core_02-03_definition_mechanics.md#3-non-compliance-finding-profiles)).
 - Chapter One basis: §8.1, §4, §6.2, §12.2, §10 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
@@ -281,10 +281,10 @@ Baseline governance accountability conditions
 <a id="classification-scaled-governance-burden"></a>
 Classification-scaled governance burden
 
-*In plain terms: where an institution's duties depend on `corpus_systems.md` **CS-3 — System classification and handling** classes or **CS-4 — Critical system stewardship** stewardship tiers, governance burden must scale with the applicable class and…*
+*In plain terms: where an institution's duties depend on [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) classes or **CS-4 — Critical system stewardship** stewardship tiers, governance burden must scale with the applicable class and…*
 
 - **What it is**
-  - **In scope:** Where an institution's duties depend on `corpus_systems.md` **CS-3 — System classification and handling** classes or **CS-4 — Critical system stewardship** stewardship tiers, governance burden must scale with the applicable class and tier profile.
+  - **In scope:** Where an institution's duties depend on [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) classes or **CS-4 — Critical system stewardship** stewardship tiers, governance burden must scale with the applicable class and tier profile.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in classification-scaled governance burden.
 <a id="classification-scaled-governance-burden-a"></a>
 - **How to measure and assess**
@@ -305,9 +305,9 @@ Constitutional lane and functional separation
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in constitutional lane and functional separation.
 <a id="constitutional-lane-and-functional-separation-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under `corpus_systems.md` **CS-3 — System classification and handling** or **CS-4 — Critical system stewardship**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-3** (*Institutional design, separation of powers, and authority custody*)
+  - **Primary measure:** each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) or **CS-4 — Critical system stewardship**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-3** (*Institutional design, separation of powers, and authority custody*)
 
-    **Primary assessment:** Reviewers must verify each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under `corpus_systems.md` **CS-3 — System classification and handling** or **CS-4 — Critical system stewardship**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-3** (*Institutional design, separation of powers, and authority custody*).
+    **Primary assessment:** Reviewers must verify each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) or **CS-4 — Critical system stewardship**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-3** (*Institutional design, separation of powers, and authority custody*).
 <a id="constitutional-lane-and-functional-separation-c"></a>
 - **What must hold**
   - **Primary failure:** A lane if it is undefined, merged, or staffed in a way that defeats required separation, auditability, challenge, succession, or binding role accountability.
@@ -467,7 +467,7 @@ Class-aligned revenue and access-burden floor
 *In plain terms: taxes, fees, subscriptions, user charges, commercial-use surcharges, priority fees, or similar revenue measures that materially affect access to a governed system, institution, forum pathway, or implementation interface must align with…*
 
 - **What it is**
-  - **In scope:** Taxes, fees, subscriptions, user charges, commercial-use surcharges, priority fees, or similar revenue measures that materially affect access to a governed system, institution, forum pathway, or implementation interface must align with `corpus_systems.md` **CS-3 — System classification and handling** system class, dependency, and rights-pathway risk. General extraction must not make **Class A** survival access, **Class B** normal-operation-critical access, baseline rights pathways, or ordinary access to infrastructure-like **Class C** coordination practically unavailable.
+  - **In scope:** Taxes, fees, subscriptions, user charges, commercial-use surcharges, priority fees, or similar revenue measures that materially affect access to a governed system, institution, forum pathway, or implementation interface must align with [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) system class, dependency, and rights-pathway risk. General extraction must not make **Class A** survival access, **Class B** normal-operation-critical access, baseline rights pathways, or ordinary access to infrastructure-like **Class C** coordination practically unavailable.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in class-aligned revenue and access-burden floor.
 <a id="class-aligned-revenue-and-access-burden-floor-a"></a>
 - **How to measure and assess**
@@ -624,9 +624,9 @@ Survival-critical access and voluntary-market interface
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in survival-critical access and voluntary-market.
 <a id="survival-critical-access-and-voluntary-market-interface-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply `corpus_systems.md` **CS-3 — System classification and handling** and **CS-4 — Critical system stewardship**
+  - **Primary measure:** reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) and **CS-4 — Critical system stewardship**
 
-    **Primary assessment:** Reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply `corpus_systems.md` **CS-3 — System classification and handling** and **CS-4 — Critical system stewardship**.
+    **Primary assessment:** Reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) and **CS-4 — Critical system stewardship**.
 <a id="survival-critical-access-and-voluntary-market-interface-c"></a>
 - **What must hold**
   - **Primary failure:** An arrangement if survival-level access effectively requires work or market participation; if published floor amounts ignore real place-based necessity without justification; if market infrastructure evades classification-scaled stewardship; or if revenue design shifts the primary cost onto indispensable access in violation of the class-aligned revenue floor.
@@ -661,7 +661,7 @@ Temporal discipline and revalidation
 - Read with: **CJS-3.3 — Auditability**
 - Read with: **CJS-3.4 — Tiered Transparency and Audit Access**
 - Read with: **CJS-3.14 — Intervention governance and override authorization**
-- Read with: `corpus_systems.md` **CS-2 — Information types and handling** and **CS-3 — System classification and handling**
+- Read with: [**CS-2**](../corpus_systems/cs_02_a_information_types_and_handling.md) and **CS-3 — System classification and handling**
 - Read with: `corpus_institutions.md`
 - Read with: `corpus_forum.md`
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
@@ -1102,7 +1102,7 @@ Records, transparency, and challenge pathway duties
 - Read with: **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-3.2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
-- Read with: `corpus_systems.md` **CS-2 — Information types and handling** and **CS-3 — System classification and handling**
+- Read with: [**CS-2**](../corpus_systems/cs_02_a_information_types_and_handling.md) and **CS-3 — System classification and handling**
 - Read with: **CJS-3.12** (*burden-of-justification and constraint terms*) where lowering a protective classification finding is at issue.
 - Read with: Owner-layer-specific monitoring or publication duties.
 - Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).

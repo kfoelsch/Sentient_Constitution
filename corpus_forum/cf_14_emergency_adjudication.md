@@ -47,7 +47,7 @@ This file is the forum implementation home for **CF-14** (*Emergency adjudicatio
 
 This section governs emergency adjudicative priority, review, restoration, post-incident findings, and prohibited emergency patterns when ordinary forum operation is degraded or fallback operation is active.
 Emergency adjudication must preserve access to urgent relief, Rights Floor protection, evidence preservation, challenge rights, auditability, and a path back to ordinary independent adjudication.
-Where emergency adjudication materially depends on constitutional systems, this section must be read with `corpus_systems.md` **Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*), **CF-12** (*Forum continuity*), and **CF-13** (*Fallback operation*).
+Where emergency adjudication materially depends on constitutional systems, this section must be read with [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Governance continuity, crisis communications, and exercises*), **CF-12** (*Forum continuity*), and **CF-13** (*Fallback operation*).
 
 ## CF-14.1 Emergency triage hierarchy
 
@@ -92,7 +92,7 @@ When the triggering condition subsides, the system must enter a restoration mode
 
 *In plain terms: Every activation ends with findings: what triggered it, what failed, what was used instead, and whether the Rights Floor actually held.*
 
-Every activation must produce the restoration and post-incident evidence required by `corpus_systems.md` **Protocol A**, subsection **G**, with forum-specific findings stating:
+Every activation must produce the restoration and post-incident evidence required by [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md), with forum-specific findings stating:
 - what triggered the continuity mode;
 - what functions degraded or failed;
 - what fallback measures were used;

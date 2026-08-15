@@ -49,19 +49,21 @@ This file is the institutional implementation home for **CI-18** (*Collective pu
 *In plain terms: if a lockdown comes with no housing support, addiction is answered only with arrest referrals, and the emergency powers from three years ago still have no published sunset date, collective public health has already failed — even when the briefing slides say "following the science."*
 
 *Shared rules live elsewhere.*
-- **[CJS-3.12](../corpus_joint_structure.md)** (*burden-of-justification and constraint terms*) — **Collective-health and emergency support-bundle floor**: restriction paired with support, stigma risk, care-first alternatives, externality evidence, emergency duration, secrecy predicate, and sunset rule evaluated together.
+- [**CJS-3.12**](../corpus_joint_structure/cjs_03a_accountability_operations.md) (*burden-of-justification and constraint terms*) — **Collective-health and emergency support-bundle floor**: restriction paired with support, stigma risk, care-first alternatives, externality evidence, emergency duration, secrecy predicate, and sunset rule evaluated together.
 - **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) in **Chapter Six** — heightened scrutiny for population-level, environmental, or existential-risk-scale collective harms where materially implicated.
 - **Article III-C** (*Bodily-Maintenance and Healthcare Access*) in **Chapter Six** — bodily-maintenance and healthcare access, including treatment and stabilization pathways, without proxy denial.
 - **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) in **Chapter Six** — crisis-intervention limits that collective-health measures do not narrow; coercive treatment beyond those terms is not authorized here.
 - **Article XXIII-D** (*Emergency Measures and Continuation Burden*) in **Chapter Six** — emergency-measure proportionality, continuation burden, and time-bounded restrictive authority.
-- **Protocol C** §**10** (*Lived-condition floors, continuity, and re-entry alignment*) in `corpus_systems.md` — lived-condition expectations during restrictions, including healthcare, mental-health access, family or care contact, review cadence, and re-entry planning.
+- **CS-7 §11** (*Lived-condition floors, continuity, and re-entry alignment*) in `corpus_systems.md` — lived-condition expectations during restrictions, including healthcare, mental-health access, family or care contact, review cadence, and re-entry planning.
 - **Chapter Five** [*Emergency and Contingency*](../core_05_band_continuity.md#emergency-and-contingency-constitutional) — definitional home for emergency framing, duration, and contingency discipline.
 - **CI-5** — integrity routing and anti-capture interfaces where public-health enforcement or funding creates capture risk.
 - **CI-7** — controls declaration, external-assurance triggers, and oversight when collective-health programs fail or require independent review.
 - **CI-18 scope** — does not repeat those floors; states local pathway, support-bundle, addiction-routing, stigma-control, and emergency-secrecy sunset owner duties.
+
 **Apply**
 - Apply **CJS-3.12** **Collective-health and emergency support-bundle floor** for the shared floor.
 - **CI-18** states only the local pathway owner, support-bundle record, addiction-routing owner, stigma-control file, and emergency-secrecy sunset review route.
+
 **Local collective public-health and addiction-care role map**
 Each institution in scope must name the office or body responsible for:
 - **collective-health pathway** — who owns the official public-health, contagion, environmental-exposure, and population-level harm response pathway, including restriction predicates, care-first alternatives, and challenge routes;
@@ -70,8 +72,9 @@ Each institution in scope must name the office or body responsible for:
 - **stigma-control file** — who maintains published controls against scapegoating, unsupported quarantine, degrading enforcement, and public-health framing used to justify measures that fail **Necessity**, **Proportionality**, or care-first analysis; and
 - **emergency-secrecy sunset review** — who publishes and enforces sunset dates, revalidation cadence, and review routes for emergency secrecy, continuity measures, and restrictive powers — including escalation to **CI-7** external-assurance triggers when review is deferred or box-checked without meaningful risk response.
 Read **CI-5** and **CI-7** for integrity and oversight interfaces.
+
 ---
 
 **Previous file:** [ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md](ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md)
-**Next file:** [ci_19_vulnerable_personal_services_markets_article_xc_interface.md](ci_19_vulnerable_personal_services_markets_article_xc_interface.md)
 
+**Next file:** [ci_19_vulnerable_personal_services_markets_article_xc_interface.md](ci_19_vulnerable_personal_services_markets_article_xc_interface.md)

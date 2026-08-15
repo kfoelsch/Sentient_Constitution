@@ -31,6 +31,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 | Cluster | Section |
 |---|---|
 | **Def.I1** | Corpus and Authority Stack |
+
 ---
 
 ### Integrative: Independent terms

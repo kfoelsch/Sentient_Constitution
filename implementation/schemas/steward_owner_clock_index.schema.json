@@ -112,7 +112,8 @@
         "owners",
         "conflict_rule",
         "forbidden_move",
-        "eval_scenario_ids"
+        "eval_scenario_ids",
+        "operative_box"
       ],
       "properties": {
         "id": { "type": "string", "minLength": 1 },
@@ -149,7 +150,8 @@
         "eval_scenario_ids": {
           "type": "array",
           "items": { "type": "string", "minLength": 1 }
-        }
+        },
+        "operative_box": { "$ref": "#/$defs/cite" }
       }
     }
   }

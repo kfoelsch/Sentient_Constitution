@@ -12,10 +12,30 @@
 </details>
 
 <details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): joint reading and Read next</span></strong></summary>
+
+<a id="operates-in-conjunction-with"></a>
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> **Joint reading.** CS families work together — typing, classification, stewardship, and the CS-5–CS-12 engineering families — and they read with joint-structure clusters and Chapter Five meanings. No CS family stands alone. Apply them so systems and data are judged by what they do, not by siloed labels.
+>
+> Family-specific Trace blocks and mandatory read-withs remain in each CS file. Cross-layer topic routing remains in **CJS-0.1**. Implementation-corpus gateway and shared contract remain in **CJS-1.0**, **CJS-1.1**, and **CJS-1.3**. Default reading stack: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction).
+>
+> **Read next**
+> - Purpose and role of this layer: **CS-1.0** (*Purpose and role*) below.
+> - Label map, section registry, and systems-only domain routing: [cs_00_registry_and_reading_rules.md](cs_00_registry_and_reading_rules.md) (*Systems domain routing (integrator annex)*).
+> - Implementation-corpus gateway and shared contract: **CJS-1.0**, **CJS-1.1**, and **CJS-1.3** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md). Default reading stack: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction).
+> - Cross-layer topic router: [CJS-0.1 Cross-file routing](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids).
+> - CS family detail: [cs_02_a_information_types_and_handling.md](cs_02_a_information_types_and_handling.md), [cs_03_a_system_classification_machinery.md](cs_03_a_system_classification_machinery.md), [cs_04_critical_system_stewardship.md](cs_04_critical_system_stewardship.md).
+
+</details>
+
+<details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) purpose of the joint-structure layer; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) section identifiers and **Def.*** / **oDef** homes; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: **CS-1**; [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; [Operates in conjunction with](#operates-in-conjunction-with).
+- Downstream: **CS-1.0** in this file; **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-5** through **CS-12**.
+- Read with: **CS-1**; **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-5** through **CS-12**; [CJS-2.3](../corpus_joint_structure/cjs_02_trust_integrity.md#cjs-23-cross-implementation-trust-integrity-joint-operation-model) (*Cross-implementation trust integrity (joint operation model)*); **CJS-3** operational clusters, including **CJS-3.11–CJS-3.13** (*Authority, constraint, secrecy, and procedure*) through **CJS-3.19–CJS-3.15** (*Failure, robustness, intervention, and correction*); [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids).
 
 </details>
 
@@ -37,14 +57,14 @@
 
 This file is the systems implementation home for **CS-1** (*Scope, purpose, and boundary interface*).
 
-*In plain terms: **CS** is the systems-and-data rulebook — typing, classification, stewardship tiers, and the named engineering protocols.*
+*In plain terms: **CS** is the systems-and-data rulebook — typing, classification, stewardship tiers, and the CS-5–CS-12 engineering families.*
 
 **What this layer owns**
 
 - information typing and handling (**CS-2 — Information types and handling**);
 - system classification and dependency typing (**CS-3 — System classification and handling**);
 - critical system stewardship tiers (**CS-4 — Critical system stewardship**), scaled from **CS-3** impact class and dependency type;
-- named protocols for design and verification, comprehensibility, justice safeguards, sustainability, funding, transition, subversion response, and partition resilience (**Protocol A** through **Protocol T**, **Protocol R**, and **Protocol D**).
+- **CS-5** through **CS-12** families for design and verification, comprehensibility, justice safeguards, sustainability, funding, transition, subversion response, and partition resilience.
 
 **What this layer does not own**
 
@@ -53,30 +73,30 @@ This file is the systems implementation home for **CS-1** (*Scope, purpose, and 
 - Rights Floors — those remain in Chapter Six;
 - institutional formation, authorization, oversight, correction, and dissolution — those belong to **CI**;
 - forum-family operational doctrine under Chapter Eleven — those belong to **CF**.
-<a id="operates-in-conjunction-with"></a>
 
-## Operates in conjunction with
+**Authority stack.** This file does not create a separate authority stack. Use the constitutional [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) in Chapter Five, read with [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) for incorporation, edition custody, and anti-drift rules. Domain owners: [Preamble — constitutional owner register](../core_00_preamble.md#constitutional-owner-register).
 
-*In plain terms: CS files work together — typing, classification, stewardship, and protocols — and they read with joint-structure clusters and Chapter Five meanings. No CS family stands alone.*
+<a id="cs-10-purpose-and-role"></a>
+## CS-1.0: Purpose and role
 
-**CS** families and related instruments operate **together**. Apply them so systems and data are judged by **what they do**, not by siloed labels:
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- **CS-2 — Information types and handling** — data typing, separation, lifecycle, Type O baseline duties, and the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional)
-- **CS-3 — System classification and handling** — impact class, dependency typing, [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional), and class-scaled governance
-- **CS-4 — Critical system stewardship** — steward tiers and continuity for high-class systems. Steward status **follows** **CS-3** impact class and dependency type ([CS-4 §2](cs_04_critical_system_stewardship.md#2-classification-as-steward)): **Class A** / **Class B**, and **Dep-A** / **Dep-B** of those systems, presumptively; **Class C** only as a chokepoint. Tests and CSS-A / CSS-B / CSS-C tiers live in **CS-4**, not in this file.
-- **Protocol A** (and other named protocols) — design, testing, verification, deployment, and lifecycle evidence
-- **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*) and **CJS-3** operational clusters — when joint or cross-layer operation applies, including **CJS-3.11–CJS-3.13** (*Authority, constraint, secrecy, and procedure*) through **CJS-3.19–CJS-3.15** (*Failure, robustness, intervention, and correction*)
-- constitutional **Authority Stack and Internal Hierarchy** in **Chapter Five**, read with **Chapter Sixteen** incorporation discipline
-- **Sentient Constitution Chapters Two through Five** — definition requirements and Independent Definitions (materiality, reasonable foreseeability, dependency, system boundaries, risk, harm, System Classification Record, System Data Types Record, and related terms)
+- Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) purpose of the joint-structure layer; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-5** through **CS-12**.
+- Read with: **CS-1.0**; [Systems and data landing page](../corpus_systems.md); [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) (joint-layer purpose — not restated here); [Chapter One §1 Purpose and Role](../core_01_a_values_principles.md#1-purpose-and-role) (constitutional purpose — not restated here); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction).
 
-Family-specific Trace blocks and mandatory read-withs remain in each CS file. Cross-layer topic routing remains in **CJS-0.1**. Implementation-corpus gateway and shared contract remain in **CJS-1.0**, **CJS-1.1**, and **CJS-1.3**. Default reading stack: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction).
+</details>
 
-**Read next**
+<br>
 
-- Label map, section registry, and systems-only domain routing: [cs_00_registry_and_reading_rules.md](cs_00_registry_and_reading_rules.md) (*Systems domain routing (integrator annex)*).
-- Implementation-corpus gateway and shared contract: **CJS-1.0**, **CJS-1.1**, and **CJS-1.3** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md). Default reading stack: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction).
-- Cross-layer topic router: [CJS-0.1 Cross-file routing](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids).
-- CS family detail: [cs_02_a_information_types_and_handling.md](cs_02_a_information_types_and_handling.md), [cs_03_a_system_classification_machinery.md](cs_03_a_system_classification_machinery.md), [cs_04_critical_system_stewardship.md](cs_04_critical_system_stewardship.md).
+*In plain terms: this file is the front door to the systems-and-data book. The Constitution says what must be true of systems; this layer tells you how to type data, classify systems, scale stewardship, and run the engineering families without rewriting those rules.*
+
+**Role in the implementation corpus.** Adopted CS text adds systems-and-data how-to detail within adoption scope; it must satisfy the Sentient Constitution and must not weaken constitutional requirements or Rights Floors.
+
+This file (**CS-1**) is the **binding gateway** for the systems layer. Use it when you need the layer boundary — what CS owns, what it does not, and how CS families co-apply. Joint-layer purpose, identifier homes, and the shared contract live in **CJS-1.0**, **CJS-1.1**, and **CJS-1.3**. Combined satisfaction and the default **CJS → CS → CI → CF** reading stack live in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction). This file does **not** replace [Chapter One §1 Purpose and Role](../core_01_a_values_principles.md#1-purpose-and-role) — that section states why the Constitution itself exists.
+
+**How CS families co-apply.** CS families work together — typing, classification, stewardship, and the CS-5–CS-12 engineering families. Apply them so systems and data are judged by what they do, not by siloed labels. Family-specific duties remain in **CS-2** through **CS-12**. Cross-layer topic routing remains in **CJS-0.1**.
 
 ---
 

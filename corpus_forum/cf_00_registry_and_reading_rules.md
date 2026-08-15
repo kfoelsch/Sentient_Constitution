@@ -1,4 +1,4 @@
-# Forums registry and identifier rules
+# CF-0: Forums registry and identifier rules
 
 *In plain terms: this file is the forums **registry annex** — how CF section labels work, the stable family map, and forums-only domain routing for integrators. Start reading at [corpus_forum.md](../corpus_forum.md); continue in order at [cf_01_scope_authority_boundary_rules.md](cf_01_scope_authority_boundary_rules.md).*
 
@@ -8,8 +8,7 @@
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
 >
 > **Edition and alignment**
-> - **Corpus edition:** `SC-Corpus-2026.04.33` · **Effective date:** 2026-04-24
-> - These labels track the same edition metadata as the numbered `core_*.md` files (see [README.md](../README.md)), [corpus_joint_structure.md](../corpus_joint_structure.md), [corpus_systems.md](../corpus_systems.md), and [corpus_institutions.md](../corpus_institutions.md).
+> - **Corpus edition and effective date:** inherit from [README.md](../README.md). Do not stamp a second edition in this annex.
 >
 > **Status**
 > - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05_band_integrative.md#corpus) and [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) designate it.
@@ -93,25 +92,9 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 
 <br>
 
-*In plain terms: this is the table of contents for the forum folder — stable families, each with a home file. There is no **CF-2** family file; forums domain routing lives in this annex.*
+*In plain terms: the human table of contents for this folder lives on the [Forums landing page](../corpus_forum.md). This annex does not duplicate that index.*
 
-| Family | What it covers | Start here |
-|---|---|---|
-| **CF-1** | Scope, authority, and boundary rules | [cf_01_scope_authority_boundary_rules.md](cf_01_scope_authority_boundary_rules.md) |
-| **CF-3** | Forum formation, forum-structure mapping, chambers, and minimum bench availability | [cf_03_forum_formation_tribunal_mapping_chamber_structure.md](cf_03_forum_formation_tribunal_mapping_chamber_structure.md) |
-| **CF-4** | Panel formation, disclosure, recusal, and lawful bench constitution | [cf_04_panel_formation_disclosure_recusal_bench_constitution.md](cf_04_panel_formation_disclosure_recusal_bench_constitution.md) |
-| **CF-5** | Routing operations, intake, transfer, certification, and representative treatment | [cf_05_routing_operations_transfer_certification_representative_treatment.md](cf_05_routing_operations_transfer_certification_representative_treatment.md) |
-| **CF-6** | Appeal, secondary review, and exhaustion pathways | [cf_06_appeal_secondary_review_exhaustion_pathways.md](cf_06_appeal_secondary_review_exhaustion_pathways.md) |
-| **CF-7** | Integrity safeguards, anti-capture operations, alignment recognition and review, and anti-self-judging support | [cf_07_integrity_safeguards_anti_capture_anti_self_judging.md](cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) |
-| **CF-8** | Forum forensic and analytical support | [cf_08_forum_forensic_analytical_support.md](cf_08_forum_forensic_analytical_support.md) |
-| **CF-9** | Independent investigative service and prosecution interface | [cf_09_independent_investigative_service_prosecution_interface.md](cf_09_independent_investigative_service_prosecution_interface.md) |
-| **CF-10** | Technical specialist forums and specialist chambers | [cf_10_technical_specialist_forums_specialist_chambers.md](cf_10_technical_specialist_forums_specialist_chambers.md) |
-| **CF-11** | Forum performance, backlog requirements, publication timeliness, and accessibility | [cf_11_performance_backlog_publication_accessibility.md](cf_11_performance_backlog_publication_accessibility.md) |
-| **CF-12** | Forum continuity | [cf_12_forum_continuity.md](cf_12_forum_continuity.md) |
-| **CF-13** | Fallback operation | [cf_13_fallback_operation.md](cf_13_fallback_operation.md) |
-| **CF-14** | Emergency adjudication | [cf_14_emergency_adjudication.md](cf_14_emergency_adjudication.md) |
-| **CF-15** | Standard records, forms, and evidence artifacts | [cf_15_standard_records_forms_evidence_artifacts.md](cf_15_standard_records_forms_evidence_artifacts.md) |
-| **CF-16** | Forum staffing, reserve capacity, shared administration, structural review, and structural records | [cf_16_staffing_reserve_capacity_structural_records.md](cf_16_staffing_reserve_capacity_structural_records.md) |
+**CF-2** (*reserved family ID*) is unused; forums domain routing lives in this annex under [Forums domain routing (integrator annex)](#forums-domain-routing-integrator-annex). Grouped family list: [corpus_forum.md](../corpus_forum.md).
 
 ## Forums domain routing (integrator annex)
 <a id="forums-domain-routing-integrator-annex"></a>
@@ -135,8 +118,8 @@ When a forum topic materially intersects **CI**, **CS**, or **CJS**, use [CJS-0.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Forums domain routing (integrator annex)](#forums-domain-routing-integrator-annex); [CJS-1.7](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-17-intentional-overlap-non-duplication-discipline) intentional overlap.
-- Read with: [CJS-1.7](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-17-intentional-overlap-non-duplication-discipline); **CF-3**; **CF-4**; **CF-5**; **CF-16**.
+- Upstream: [Forums domain routing (integrator annex)](#forums-domain-routing-integrator-annex); [CJS-1.7](../corpus_joint_structure/cjs_01_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline) intentional overlap.
+- Read with: [CJS-1.7](../corpus_joint_structure/cjs_01_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline); **CF-3**; **CF-4**; **CF-5**; **CF-16**.
 
 </details>
 
@@ -148,7 +131,7 @@ Some forum topics are **deliberately** split across **CF** sections — for exam
 - companion **CF** sections add only the interface text their scope requires;
 - do **not** restate **CJS-3** operational clusters, **CI** checklists, or **CS** classification tables except in brief pointer form when needed for coherence.
 
-For cross-layer overlap discipline, apply [CJS-1.7](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-17-intentional-overlap-non-duplication-discipline) (*Intentional overlap (non-duplication discipline)*).
+For cross-layer overlap discipline, apply [CJS-1.7](../corpus_joint_structure/cjs_01_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline) (*Intentional overlap (non-duplication discipline)*).
 
 ### Forums read-with pointers
 <a id="forums-read-with-pointers"></a>
@@ -156,7 +139,7 @@ For cross-layer overlap discipline, apply [CJS-1.7](../corpus_joint_structure/cj
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Forums domain routing (integrator annex)](#forums-domain-routing-integrator-annex); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack.
-- Read with: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-1.8](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail); **CF-1**.
+- Read with: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-1.8](../corpus_joint_structure/cjs_01_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail); **CF-1**.
 
 </details>
 
@@ -164,7 +147,7 @@ For cross-layer overlap discipline, apply [CJS-1.7](../corpus_joint_structure/cj
 
 When forum implementation text intersects other implementation layers, apply the default reading stack in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) (*Combined satisfaction of jointly applicable incorporated obligations*). Within that stack, read only what [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) routes for the topic.
 
-Forum-local abstractions may specialize **CJS** joint operational definitions cited in owner text but must not redefine constitutional terms or create parallel constitutional definitions. For the two-tier definition contract, apply [CJS-1.8](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*).
+Forum-local abstractions may specialize **CJS** joint operational definitions cited in owner text but must not redefine constitutional terms or create parallel constitutional definitions. For the two-tier definition contract, apply [CJS-1.8](../corpus_joint_structure/cjs_01_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*).
 
 ---
 

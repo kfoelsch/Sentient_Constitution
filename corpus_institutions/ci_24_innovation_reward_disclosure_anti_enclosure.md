@@ -48,11 +48,12 @@ This file is the institutional implementation home for **CI-24** (*Innovation re
 *In plain terms: attribution is not ownership forever. You can keep credit after exclusivity ends — but you cannot warehouse a critical standard, shelf a life-saving medicine behind a broad patent, or use secrecy to block repair because the registry says "innovation reward." If the institution that grants claims is also the only place to challenge them, the pathway has failed.*
 
 *Shared rules live elsewhere.*
-- **[CJS-3.17](../corpus_joint_structure.md)** (*interoperability, portability, and exit-integrity terms*) — innovation reward boundary and anti-enclosure controls; access-preserving reward and anti-warehousing controls; innovation-reward duration and reclassification controls (including publication-based timing and dependency-critical tightening).
+- [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*interoperability, portability, and exit-integrity terms*) — innovation reward boundary and anti-enclosure controls; access-preserving reward and anti-warehousing controls; innovation-reward duration and reclassification controls (including publication-based timing and dependency-critical tightening).
 - **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Article XVII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*) in **Chapter Six** — constitutional reward structure, temporary exclusivity limits, disclosure condition, public-interest floor, domain carve-outs, and reclassification duties.
-- **[CJS-3.12](../corpus_joint_structure.md)** (*burden of justification and constraint terms*) — proportionality and burden scaling where reward claims affect material dependency or access burden.
+- [**CJS-3.12**](../corpus_joint_structure/cjs_03a_accountability_operations.md) (*burden of justification and constraint terms*) — proportionality and burden scaling where reward claims affect material dependency or access burden.
 - **`corpus_systems.md`** **CS-3** — system classification and handling where innovation reward must scale with class, dependency, and coordination effects.
 - **CI-24 scope** — does not repeat those floors; states institutional registry, claim-record, access-order, sunset, specialist-review, and appeal duties.
+
 **Apply**
 - Apply **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) for the shared anti-enclosure, public-interest-use, compulsory-access, anti-warehousing, and duration/reclassification floors.
 - Apply **CJS-3.17** **Innovation-reward duration and reclassification controls** for shared timing and dependency-critical reclassification; **CI-24** supplies only the local review calendar and record-update duty.
@@ -82,8 +83,9 @@ This file is the institutional implementation home for **CI-24** (*Innovation re
 - **structural separation** — review must be separated from claim-granting, registry custody, or revenue-dependent functions that could bias outcomes; and
 - **secondary review and CI-12 escalation** — the route when local specialist review stalls, is captured, or cannot act independently.
 Read **CI-6** and **CI-12** for local procedure maps and cross-institution escalation interfaces.
+
 ---
 
 **Previous file:** [ci_23_place_based_stewardship_indigenous_continuity_consultation.md](ci_23_place_based_stewardship_indigenous_continuity_consultation.md)
-**Next file:** [ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md](ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md)
 
+**Next file:** [ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md](ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md)

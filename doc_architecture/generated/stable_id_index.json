@@ -200,7 +200,7 @@
     {
       "id": "CJS-R01",
       "topic": "Delegated binding bodies and hybrid composition (non-forum institutions)",
-      "primary_owner": "`corpus_institutions.md` **CI-9.3**",
+      "primary_owner": "[**CI-9.3**](../corpus_institutions/ci_09_classification_linked_institutional_ob",
       "primary_attach": [
         "CI-9.3"
       ]
@@ -208,7 +208,7 @@
     {
       "id": "CJS-R02",
       "topic": "Forum chambers, divisions, and designated panels (Chapter Eleven families)",
-      "primary_owner": "`corpus_forum.md` **CF-3.5**\u2013**CF-3.8**",
+      "primary_owner": "[**CF-3.5**\u2013**CF-3.8**](../corpus_forum/cf_03_forum_formation_chamber_structure.",
       "primary_attach": [
         "CF-3"
       ]
@@ -216,7 +216,7 @@
     {
       "id": "CJS-R03",
       "topic": "Lawful panel formation, disclosure, recusal, substitution, inability-to-form",
-      "primary_owner": "`corpus_forum.md` **CF-4**",
+      "primary_owner": "[**CF-4**](../corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_consti",
       "primary_attach": [
         "CF-4"
       ]
@@ -224,7 +224,7 @@
     {
       "id": "CJS-R04",
       "topic": "Routing, intake, transfer, certification, representative treatment",
-      "primary_owner": "`corpus_forum.md` **CF-5**",
+      "primary_owner": "[**CF-5**](../corpus_forum/cf_05_routing_operations_transfer_certification_repre",
       "primary_attach": [
         "CF-5"
       ]
@@ -232,7 +232,7 @@
     {
       "id": "CJS-R05",
       "topic": "Appeal, secondary review, exhaustion",
-      "primary_owner": "`corpus_forum.md` **CF-6**",
+      "primary_owner": "[**CF-6**](../corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md)",
       "primary_attach": [
         "CF-6"
       ]
@@ -240,7 +240,7 @@
     {
       "id": "CJS-R06",
       "topic": "Forum integrity operations, anti-capture, anti-self-judging support",
-      "primary_owner": "`corpus_forum.md` **CF-7**",
+      "primary_owner": "[**CF-7**](../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_jud",
       "primary_attach": [
         "CF-7"
       ]
@@ -248,7 +248,7 @@
     {
       "id": "CJS-R07",
       "topic": "Forum forensic and analytical support",
-      "primary_owner": "`corpus_forum.md` **CF-8**",
+      "primary_owner": "[**CF-8**](../corpus_forum/cf_08_forum_forensic_analytical_support.md)",
       "primary_attach": [
         "CF-8"
       ]
@@ -256,7 +256,7 @@
     {
       "id": "CJS-R08",
       "topic": "Independent investigative service and prosecution interface",
-      "primary_owner": "`corpus_forum.md` **CF-9**",
+      "primary_owner": "[**CF-9**](../corpus_forum/cf_09_independent_investigative_service_prosecution_i",
       "primary_attach": [
         "CF-9"
       ]
@@ -264,7 +264,7 @@
     {
       "id": "CJS-R09",
       "topic": "Technical forums and specialist chambers",
-      "primary_owner": "`corpus_forum.md` **CF-10**",
+      "primary_owner": "[**CF-10**](../corpus_forum/cf_10_technical_specialist_forums_specialist_chamber",
       "primary_attach": [
         "CF-10"
       ]
@@ -272,7 +272,7 @@
     {
       "id": "CJS-R10",
       "topic": "Forum performance, backlog requirements, publication timeliness, accessibility",
-      "primary_owner": "`corpus_forum.md` **CF-11**",
+      "primary_owner": "[**CF-11**](../corpus_forum/cf_11_performance_backlog_publication_accessibility.",
       "primary_attach": [
         "CF-11"
       ]
@@ -280,7 +280,7 @@
     {
       "id": "CJS-R11",
       "topic": "Forum continuity",
-      "primary_owner": "`corpus_forum.md` **CF-12**",
+      "primary_owner": "[**CF-12**](../corpus_forum/cf_12_forum_continuity.md)",
       "primary_attach": [
         "CF-12"
       ]
@@ -288,7 +288,7 @@
     {
       "id": "CJS-R11A",
       "topic": "Fallback operation",
-      "primary_owner": "`corpus_forum.md` **CF-13**",
+      "primary_owner": "[**CF-13**](../corpus_forum/cf_13_fallback_operation.md)",
       "primary_attach": [
         "CF-13"
       ]
@@ -296,7 +296,7 @@
     {
       "id": "CJS-R11B",
       "topic": "Emergency adjudication",
-      "primary_owner": "`corpus_forum.md` **CF-14**",
+      "primary_owner": "[**CF-14**](../corpus_forum/cf_14_emergency_adjudication.md)",
       "primary_attach": [
         "CF-14"
       ]
@@ -304,7 +304,7 @@
     {
       "id": "CJS-R12",
       "topic": "Standard forum records, forms, and evidence artifacts",
-      "primary_owner": "`corpus_forum.md` **CF-15**",
+      "primary_owner": "[**CF-15**](../corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md)",
       "primary_attach": [
         "CF-15"
       ]
@@ -312,7 +312,7 @@
     {
       "id": "CJS-R13",
       "topic": "Forum staffing, shared administration, structural review, structural records",
-      "primary_owner": "`corpus_forum.md` **CF-16**",
+      "primary_owner": "[**CF-16**](../corpus_forum/cf_16_staffing_reserve_capacity_structural_records.m",
       "primary_attach": [
         "CF-16"
       ]
@@ -320,7 +320,7 @@
     {
       "id": "CJS-R14",
       "topic": "Institutional functional lanes and non-delegable splits",
-      "primary_owner": "`corpus_institutions.md` **CI-3**",
+      "primary_owner": "[**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_power",
       "primary_attach": [
         "CI-3"
       ]
@@ -328,7 +328,7 @@
     {
       "id": "CJS-R15",
       "topic": "Contest-integrity monitoring (pathway integrity, not merits)",
-      "primary_owner": "`corpus_institutions.md` **CI-7.3**",
+      "primary_owner": "[**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.",
       "primary_attach": [
         "CI-7.3"
       ]
@@ -336,7 +336,7 @@
     {
       "id": "CJS-R16",
       "topic": "Cross-institution coordination, deadlock, and escalation",
-      "primary_owner": "`corpus_institutions.md` **CI-12**",
+      "primary_owner": "[**CI-12**](../corpus_institutions/ci_12_cross_institution_coordination_escalati",
       "primary_attach": [
         "CI-12"
       ]
@@ -352,7 +352,7 @@
     {
       "id": "CJS-R18",
       "topic": "Class-scaled lane staffing and competency redundancy for materially binding stewardship",
-      "primary_owner": "`corpus_institutions.md` **CI-3**, **CI-4**, **CI-11**, **CI-12**",
+      "primary_owner": "[**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_power",
       "primary_attach": [
         "CI-3",
         "CI-4",
@@ -373,7 +373,7 @@
     {
       "id": "CJS-R01",
       "topic": "Delegated binding bodies and hybrid composition (non-forum institutions)",
-      "primary_owner": "`corpus_institutions.md` **CI-9.3**",
+      "primary_owner": "[**CI-9.3**](../corpus_institutions/ci_09_classification_linked_institutional_ob",
       "primary_attach": [
         "CI-9.3"
       ]
@@ -381,7 +381,7 @@
     {
       "id": "CJS-R14",
       "topic": "Institutional functional lanes and non-delegable splits",
-      "primary_owner": "`corpus_institutions.md` **CI-3**",
+      "primary_owner": "[**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_power",
       "primary_attach": [
         "CI-3"
       ]
@@ -389,7 +389,7 @@
     {
       "id": "CJS-R15",
       "topic": "Contest-integrity monitoring (pathway integrity, not merits)",
-      "primary_owner": "`corpus_institutions.md` **CI-7.3**",
+      "primary_owner": "[**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.",
       "primary_attach": [
         "CI-7.3"
       ]
@@ -397,7 +397,7 @@
     {
       "id": "CJS-R16",
       "topic": "Cross-institution coordination, deadlock, and escalation",
-      "primary_owner": "`corpus_institutions.md` **CI-12**",
+      "primary_owner": "[**CI-12**](../corpus_institutions/ci_12_cross_institution_coordination_escalati",
       "primary_attach": [
         "CI-12"
       ]
@@ -405,7 +405,7 @@
     {
       "id": "CJS-R18",
       "topic": "Class-scaled lane staffing and competency redundancy for materially binding stewardship",
-      "primary_owner": "`corpus_institutions.md` **CI-3**, **CI-4**, **CI-11**, **CI-12**",
+      "primary_owner": "[**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_power",
       "primary_attach": [
         "CI-3",
         "CI-4",

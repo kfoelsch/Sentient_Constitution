@@ -1,20 +1,23 @@
 # AI-Optimized Corpus Mirror
 
-**Status:** Derived from SC-Corpus-2026.04.33  
-**Source of Truth:** The numbered `core_*.md` files and incorporated companion corpus files remain authoritative. The root `corpus_joint_structure.md` file is a compatibility wrapper whose substantive text is in `corpus_joint_structure/` subfiles. This directory contains AI-optimized mirrors for token-efficient access.
+**Status:** Derived locators. Not binding.
+**Source of Truth:** The numbered `core_*.md` files and incorporated companion corpus files remain authoritative. The root `corpus_joint_structure.md` file is a compatibility wrapper whose substantive text is in `corpus_joint_structure/` subfiles.
 
 ## Purpose
 
-This directory provides:
-1. **Structured definition registry** for Chapter 5 terms
-2. **Machine-readable indexes** for instant navigation
-3. **Cross-reference graphs** for dependency analysis
-4. **Semantic chunk boundaries** for optimal token usage
+This directory provides machine-readable **locators** so an assistant can open the right source slice without a corpus-wide grep:
+
+1. **ID resolver** for family/section IDs, CJS-0.1 topics, Chapter Five terms, and fossil anchors
+2. **Section manifest** for heading line ranges
+3. **Cross-reference graphs** (file-to-file and section-to-section)
+4. **Definition registry** for Chapter Five locations
+
+Indexes **point**. They do not restate duties. On conflict, root source files always prevail.
 
 ## Authority Stack
 
-1. **Authoritative:** Numbered `core_*.md` files in root directory, companion root files, and companion subfiles such as `corpus_joint_structure/*.md`
-2. **Derived (this directory):** AI-optimized mirrors and indexes
+1. **Authoritative:** Numbered `core_*.md` files, companion root files, and companion subfiles
+2. **Derived (this directory):** AI locators and indexes
 3. **On conflict:** Root directory files always prevail
 
 ## Directory Structure
@@ -22,16 +25,19 @@ This directory provides:
 ```
 ai_corpus/
 ├── README.md                    # This file
-├── definitions/                 # Retained pilot definition extracts
-│   └── independent/            # Sample extracts from Chapter 5 §1
+├── AI_NAVIGATION_GUIDE.md       # Reading patterns
+├── QUICK_REFERENCE.md           # Lookup cheatsheet
+├── MAINTENANCE.md               # Regeneration
+├── definitions/                 # Retired pilots (do not use)
 ├── indexes/                     # Navigation indexes
-│   ├── section_manifest.json   # All sections with line ranges
-│   ├── definition_registry.json # Definition locations and metadata
-│   └── crossref_matrix.json    # File-to-file reference graph
-└── schemas/                     # JSON schemas for validation
-    ├── section_manifest.schema.json
-    ├── definition_registry.schema.json
-    └── crossref_matrix.schema.json
+│   ├── id_resolver.json        # Compact locator (start here)
+│   ├── section_manifest.json   # Heading line ranges
+│   ├── definition_registry.json
+│   ├── crossref_matrix.json    # File-to-file
+│   └── section_crossref.json   # Section-to-section
+├── visualization/
+│   └── dependency_map.mmd      # Generated file inventory
+└── schemas/
 ```
 
 ## Update Procedure
@@ -41,16 +47,8 @@ When source files change:
 1. Edit authoritative source files (`core_*.md`, companion root files, or companion subfiles)
 2. Run: `make ai-corpus-sync` (regenerates this directory)
 3. Commit both source and derived files together
-4. Never edit this directory directly - always regenerate from source
-
-## Token Efficiency Gains
-
-| Operation | Before | After | Savings |
-|-----------|--------|-------|---------|
-| Definition lookup | 1,300 lines | 50 lines | 96% |
-| Cross-reference audit | All files | Targeted sections | 80% |
-| Section edit | Full chapter | Section only | 85% |
+4. Never edit this directory directly — always regenerate from source
 
 ## Human Readability Note
 
-The files in this directory are optimized for machine parsing. Humans should continue reading the plain-language source files in the root directory. The corpus-wide mandate for "plain language with low jargon" (stated in multiple source files) applies only to the authoritative source, not these derived indexes.
+The files in this directory are optimized for machine parsing. Humans should continue reading the plain-language source files in the root directory. The corpus-wide mandate for "plain language with low jargon" applies only to the authoritative source, not these derived indexes.

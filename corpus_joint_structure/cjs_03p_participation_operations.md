@@ -32,6 +32,7 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 | **CJS-3.8** / **oDef.8** | Participation: comprehensibility and cognitive accessibility terms |
 | **CJS-3.9** / **oDef.9** | Participation: salience integrity and attention-allocation terms |
 | **CJS-3.10** / **oDef.10** | Participation: disclosure sufficiency and observability terms |
+
 ---
 
 ## CJS-3.7 Participation: quorum and participatory legitimacy terms
@@ -117,6 +118,23 @@ Community and associational pathway integrity
 - **What must hold**
   - **Primary failure:** Claim participatory legitimacy where productivity-only allocation, private chokepoints, inaccessible pathway design, coerced belonging, exclusionary local hierarchy, retaliation risk, or informal coercion blocks practical community access without a lawful necessity record and usable contest route.
 
+<a id="eligibility-and-engagement-pathway-check"></a>
+Eligibility and engagement pathway check
+
+*In plain terms: for the decision scope, keep eligibility routing and engagement records that show who could take part and who did.*
+
+- **What it is**
+  - **In scope:** Apply [Participation](../core_05_apex_participation_leg.md#participation-constitutional) by publishing and retaining eligibility routing and engagement records for the decision scope so eligible actors can be reached and ineligible actors are not counted.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in eligibility and engagement pathway checks; the constitutional meaning of Participation itself.
+<a id="eligibility-and-engagement-pathway-check-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** eligibility routing and engagement records for the decision scope
+
+    **Primary assessment:** Evaluation must verify eligibility routing and engagement records for the decision scope.
+<a id="eligibility-and-engagement-pathway-check-c"></a>
+- **What must hold**
+  - **Primary failure:** Count ineligible actors or exclude eligible actors without a lawful documented reason.
+
 <a id="foundational-constitutional-choice-equality-floor"></a>
 Foundational constitutional choice equality floor
 
@@ -168,22 +186,22 @@ Notification and pathway integrity
 - **What must hold**
   - **Primary failure:** Formal participation when notice is incomplete, too late, or practically unusable.
 
-<a id="eligibility-and-engagement-pathway-check"></a>
-Eligibility and engagement pathway check
+<a id="participation-window-timing"></a>
+Participation-window timing
 
-*In plain terms: for the decision scope, keep eligibility routing and engagement records that show who could take part and who did.*
+*In plain terms: notice, engagement, challenge, and escalation windows must fit the decision's impact, scope, and reversibility.*
 
 - **What it is**
-  - **In scope:** Apply [Participation](../core_05_apex_participation_leg.md#participation-constitutional) by publishing and retaining eligibility routing and engagement records for the decision scope so eligible actors can be reached and ineligible actors are not counted.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in eligibility and engagement pathway checks; the constitutional meaning of Participation itself.
-<a id="eligibility-and-engagement-pathway-check-a"></a>
+  - **In scope:** Apply [Timeliness](../core_05_apex_timeliness_leg.md#timeliness-constitutional) to participation pathways by sizing notice, engagement, challenge, and escalation windows to the decision's impact, scope, and reversibility.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in participation-window timing; the constitutional meaning of Timeliness itself.
+<a id="participation-window-timing-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** eligibility routing and engagement records for the decision scope
+  - **Primary measure:** time for practical notice, engagement, challenge, and escalation
 
-    **Primary assessment:** Evaluation must verify eligibility routing and engagement records for the decision scope.
-<a id="eligibility-and-engagement-pathway-check-c"></a>
+    **Primary assessment:** Evaluation must verify time for practical notice, engagement, challenge, and escalation.
+<a id="participation-window-timing-c"></a>
 - **What must hold**
-  - **Primary failure:** Count ineligible actors or exclude eligible actors without a lawful documented reason.
+  - **Primary failure:** Use timing that predictably blocks meaningful participation.
 
 <a id="quorum-source-and-binding-effect-gate"></a>
 Quorum source and binding-effect gate
@@ -236,23 +254,6 @@ Stakeholder oversight and binding-governance pathway integrity
 - **What must hold**
   - **Primary failure:** Present symbolic consultation as binding governance, to present binding governance as optional consultation, to hide material exit or adaptation consequences, or to rely on participation records that cannot later support accountable reconstruction.
 
-<a id="participation-window-timing"></a>
-Participation-window timing
-
-*In plain terms: notice, engagement, challenge, and escalation windows must fit the decision's impact, scope, and reversibility.*
-
-- **What it is**
-  - **In scope:** Apply [Timeliness](../core_05_apex_timeliness_leg.md#timeliness-constitutional) to participation pathways by sizing notice, engagement, challenge, and escalation windows to the decision's impact, scope, and reversibility.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in participation-window timing; the constitutional meaning of Timeliness itself.
-<a id="participation-window-timing-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** time for practical notice, engagement, challenge, and escalation
-
-    **Primary assessment:** Evaluation must verify time for practical notice, engagement, challenge, and escalation.
-<a id="participation-window-timing-c"></a>
-- **What must hold**
-  - **Primary failure:** Use timing that predictably blocks meaningful participation.
-
 <a id="two-tier-governance-layer-assignment"></a>
 Two-tier governance-layer assignment
 
@@ -289,13 +290,12 @@ Weighted participation
 
 ---
 
----
 ## CJS-3.8 Participation: comprehensibility and cognitive accessibility terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: **CJS-3.8 — Comprehensibility and Cognitive Accessibility**
-- Read with: `corpus_systems.md` **Protocol B — System Comprehensibility and Complexity Stewardship**
+- Read with: [**CS-6**](../corpus_systems/cs_06_comprehensibility_complexity_stewardship.md)
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: §3.4, §6.2, §12.1, §8 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
@@ -508,7 +508,6 @@ Summary integrity
 
 ---
 
----
 ## CJS-3.9 Participation: salience integrity and attention-allocation terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -715,6 +714,7 @@ User agency and control
   - **Primary failure:** Penalizing, nagging, hiding features from, or otherwise disadvantaging sentients because they use these controls.
 
 ---
+
 ## CJS-3.10 Participation: disclosure sufficiency and observability terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

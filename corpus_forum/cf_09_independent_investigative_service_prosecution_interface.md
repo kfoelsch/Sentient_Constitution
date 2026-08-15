@@ -108,7 +108,7 @@ Investigation must be institutionally separate from ordinary **local enforcement
 - **Disclosure and conflicts.** Every engagement must disclose the hiring relationship, funding source, scope of work, material dependencies, conflicts, prior related work, and any limits on independence. Disclosure is a floor, not a cure: conflicted or dependency-shaped engagements must be screened, narrowed, externally supervised, recused, or rejected where independence would otherwise fail.
 - **Own mandate and reporting line.** An investigative service must have a published mandate, identifiable leadership, and reviewable assignment rules. It must also have a reporting line that is not controlled by the operational actor, party, funder, forum, prosecutor, or institution whose conduct is materially at issue.
 - **Technical standards, not technical command.** **Technical** forums and specialist chambers maintain the reviewable standards for investigative methods, forensic protocols, evidence preservation, security protocols, expert qualifications, chain of custody, testing, measurement, and uncertainty treatment. They do not become the ordinary employer, dispatcher, or command hierarchy for investigators or security-support providers.
-- **Integrity oversight.** The following remain governed by the independent assurance or **Integrity** line, together with `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*) and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*):
+- **Integrity oversight.** The following remain governed by the independent assurance or **Integrity** line, together with [**CI-4**](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*):
   - independence and conflict control;
   - anti-capture protection;
   - misconduct complaints and retaliation risk;
@@ -164,7 +164,7 @@ Investigative or security-support providers must not:
 
 Different actors may help the investigation, but each role must stay in its lane:
 
-Where investigative, security-support, or enforcement-adjacent bodies exercise materially binding delegated authority, their authorizing instruments must publish the local and nonlocal participation design that protects independence, continuity, and capture resistance. For Chapter Eleven forums, chambers, divisions, and designated panels, apply the forum composition rule in **CF-3.6** (*Chamber authority composition and service mechanics*) read with **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*). For non-forum security-support or enforcement-adjacent bodies, apply **CJS-2.1**, `corpus_institutions.md` **CI-3** (*Institutional design, separation of powers, and authority custody*), and `corpus_institutions.md` **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*) where the body is a delegated binding body, with stricter independence, external-participation, or backup-route requirements where local independence is not credible.
+Where investigative, security-support, or enforcement-adjacent bodies exercise materially binding delegated authority, their authorizing instruments must publish the local and nonlocal participation design that protects independence, continuity, and capture resistance. For Chapter Eleven forums, chambers, divisions, and designated panels, apply the forum composition rule in **CF-3.6** (*Chamber authority composition and service mechanics*) read with **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*). For non-forum security-support or enforcement-adjacent bodies, apply **CJS-2.1**, [**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) (*Institutional design, separation of powers, and authority custody*), and [**CI-9.3**](../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*Delegated subunits, institutional design class, and attachment discipline*) where the body is a delegated binding body, with stricter independence, external-participation, or backup-route requirements where local independence is not credible.
 
 ### CF-9.5.1 Non-forum investigative, security-support, and enforcement roles
 <details>
@@ -253,11 +253,11 @@ The investigative service must produce records that an ordinary affected sentien
 Those records must support:
 - prosecutorial or civil-enforcement decisions without making the investigators the final charging or merits authority;
 - forum review without turning the forums into the investigators' command hierarchy;
-- contest-integrity monitoring under `corpus_institutions.md` **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) without collapsing structural oversight into case management.
+- contest-integrity monitoring under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Contest-integrity monitoring (Class A and Class B)*) without collapsing structural oversight into case management.
 
 Where local independence is not credible because of concentration, emergency incapacity, deadlock, or systemic capture indicators, institutions must escalate to one of these:
 
-- `corpus_institutions.md` **CI-8** (*Cross-institution coordination and escalation*);
+- [**CI-8**](../corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) (*Cross-institution coordination and escalation*);
 - external assurance;
 - another pre-designated backup body with lawful authority and practical capacity to investigate.
 

@@ -2,9 +2,11 @@
 """Keep steward-entry cards in lockstep with core owners.
 
 The five-field cards in ``implementation/STEWARD_ENTRY_DOORS.md`` are the
-usable object at 2 a.m. If they diverge from core, mixed shops will follow
-the cards and call it compliance. This audit pins the cards and the
-owner/clock index to the README edition stamp and requires:
+usable object at 2 a.m. Binding owner / forbidden-move / clock statements
+live in the named core homes as operative steward statements. If the cards
+diverge from those boxes, mixed shops will follow the cards and call it
+compliance. This audit pins the cards and the owner/clock index to the
+README edition stamp, diffs them against the core boxes, and requires:
 
 1. The three costly-case refusals from Chapter One §9.1.1 (bonus, deadline,
    cover) in the same words on every named-stack card.
@@ -12,10 +14,14 @@ owner/clock index to the README edition stamp and requires:
    document / escalate and the CS-4 §10 minimum inspectable-action set.
 3. Five fields on every named-stack card: owner, conflict rule, next-step
    class, forbidden move, clock.
-4. Every cited Markdown anchor in the cards and the owner/clock index
+4. Each named-stack core home carries a boxed operative steward statement
+   (owner, forbidden move, clock). Index ``operative_box`` hrefs resolve to
+   those boxes, and card / index forbidden-move and clock text must match.
+5. Every cited Markdown anchor in the cards and the owner/clock index
    resolves, and every edition stamp matches README.
-5. Routing examples match the index, and index eval gold next-step classes
-   match ``implementation/ai_alignment_eval/scenarios``.
+6. Operator-only routing examples (not on the subject-facing cards page)
+   match the index, and index eval gold next-step classes match
+   ``implementation/ai_alignment_eval/scenarios``.
 
 Rule ID: STEWARD-DOOR-LOCKSTEP-01
 """
@@ -37,6 +43,7 @@ from local_markdown_fragment_audit import anchors_in, links_in, resolve_link
 ROOT = Path(__file__).resolve().parents[1]
 
 CARDS_REL = "implementation/STEWARD_ENTRY_DOORS.md"
+ROUTING_REL = "evaluation/OPERATOR_ROUTING.md"
 INDEX_REL = "implementation/steward_owner_clock_index.json"
 SCHEMA_REL = "implementation/schemas/steward_owner_clock_index.schema.json"
 CORE_REL = "core_01_c_stewardship_capacity_principles.md"
@@ -57,6 +64,20 @@ CARD_TITLES = (
     "Proceed",
     "Interpretation",
 )
+
+CARD_BOX_ANCHORS = {
+    "Standing": "operative-steward-statement-standing",
+    "System alignment certification": "operative-steward-statement-sac",
+    "Audit": "operative-steward-statement-audit",
+    "Remedy": "operative-steward-statement-remedy",
+    "Emergency": "operative-steward-statement-emergency",
+    "Contest": "operative-steward-statement-contest",
+    "Incentive alignment": "operative-steward-statement-incentive",
+    "Unlawful instruction": "operative-steward-statement-unlawful-instruction",
+    "Shared stewardship": "operative-steward-statement-shared-stewardship",
+    "Proceed": "operative-steward-statement-proceed",
+    "Interpretation": "operative-steward-statement-interpretation",
+}
 
 CARD_FIELDS = (
     "Owner",
@@ -98,7 +119,7 @@ NEXT_STEP_CELL_RE = re.compile(
 )
 ROUTING_ROW_RE = re.compile(
     r"^\|\s*`(?P<id>[^`]+)`\s*\|\s*(?P<pattern>.*?)\s*\|\s*"
-    r"\[(?P<label>[^\]]+)\]\(#(?P<anchor>[^)]+)\)\s*\|\s*"
+    r"\[(?P<label>[^\]]+)\]\((?:[^)#]*#)?(?P<anchor>[^)]+)\)\s*\|\s*"
     r"`(?P<klass>[^`]+)`\s*\|$",
     re.M,
 )
@@ -124,6 +145,10 @@ CASE_REQUIRED = (
     "forbidden_move",
     "clock_note",
     "eval_scenario_ids",
+    "operative_box",
+)
+OSS_ANCHOR_RE = re.compile(
+    r'<a id="(?P<anchor>operative-steward-statement-[^"]+)"></a>'
 )
 CITE_REQUIRED = ("label", "href")
 
@@ -145,6 +170,76 @@ def normalize(text: str) -> str:
     )
     text = re.sub(r"\s+", " ", text)
     return text.strip().rstrip(";.")
+
+
+def slice_between(text: str, start: str, end: str) -> str:
+    start_idx = text.find(start)
+    end_idx = text.find(end)
+    if start_idx < 0 or end_idx < 0 or end_idx < start_idx:
+        return ""
+    return text[start_idx + len(start) : end_idx]
+
+
+def after_marker(text: str, start: str) -> str:
+    start_idx = text.find(start)
+    if start_idx < 0:
+        return ""
+    return text[start_idx + len(start) :]
+
+
+CLAUSE_SPLIT_RE = re.compile(r"\.\s+")
+
+
+def clauses(text: str) -> list[str]:
+    return [normalize(part) for part in CLAUSE_SPLIT_RE.split(text) if part.strip()]
+
+
+def missing_clauses(needle_text: str, haystack_norm: str) -> list[str]:
+    return [
+        clause
+        for clause in clauses(needle_text)
+        if clause and clause not in haystack_norm
+    ]
+
+
+def extract_oss_fields(body: str) -> dict[str, str]:
+    if "**Operative steward statement.**" not in body:
+        return {}
+    return {
+        "owner": slice_between(body, "**Owner:**", "**Forbidden move:**").strip(),
+        "forbidden_move": slice_between(
+            body, "**Forbidden move:**", "**Clock:**"
+        ).strip(),
+        "clock": after_marker(body, "**Clock:**").strip(),
+    }
+
+
+def parse_operative_boxes(text: str) -> dict[str, dict[str, str]]:
+    boxes: dict[str, dict[str, str]] = {}
+    lines = text.splitlines()
+    idx = 0
+    while idx < len(lines):
+        match = OSS_ANCHOR_RE.search(lines[idx])
+        if not match:
+            idx += 1
+            continue
+        quoted: list[str] = []
+        cursor = idx + 1
+        while cursor < len(lines):
+            stripped = lines[cursor].strip()
+            if not stripped:
+                if quoted:
+                    break
+                cursor += 1
+                continue
+            if stripped.startswith(">"):
+                quoted.append(stripped[1:].strip())
+                cursor += 1
+                continue
+            break
+        boxes[match.group("anchor")] = extract_oss_fields(" ".join(quoted))
+        idx = cursor
+    return boxes
 
 
 def read(root: Path, rel: str) -> str:
@@ -204,8 +299,8 @@ def duty_steps_in_order(text: str) -> bool:
     return True
 
 
-def parse_routing_examples(cards: str) -> list[dict[str, str]]:
-    section = h2_sections(cards).get("Routing examples", "")
+def parse_routing_examples(text: str) -> list[dict[str, str]]:
+    section = h2_sections(text).get("Routing examples", "")
     return [match.groupdict() for match in ROUTING_ROW_RE.finditer(section)]
 
 
@@ -260,6 +355,9 @@ def iter_cites(index: dict) -> list[tuple[str, dict]]:
         for idx, owner in enumerate(case.get("owners") or []):
             if isinstance(owner, dict):
                 cites.append((f"cases.{case_id}.owners[{idx}]", owner))
+        box = case.get("operative_box")
+        if isinstance(box, dict):
+            cites.append((f"cases.{case_id}.operative_box", box))
         clock = case.get("clock")
         if isinstance(clock, dict):
             for idx, home in enumerate(clock.get("homes") or []):
@@ -309,16 +407,22 @@ def check_href(
     return errors
 
 
-def check_card_links(root: Path, cards_path: Path, cards: str) -> list[str]:
+def check_card_links(
+    root: Path,
+    cards_path: Path,
+    cards: str,
+    rel: str | None = None,
+) -> list[str]:
     errors: list[str] = []
     cache: dict[Path, set[str]] = {}
     root_resolved = root.resolve()
+    where_rel = rel or CARDS_REL
     for link in links_in(cards_path, cards):
         resolved = resolve_link(root_resolved, link)
         if resolved is None:
             continue
         target_path, fragment = resolved
-        where = f"{CARDS_REL}:{link.line}"
+        where = f"{where_rel}:{link.line}"
         try:
             target_rel = target_path.relative_to(root_resolved).as_posix()
         except ValueError:
@@ -438,6 +542,29 @@ def check_index_shape(index: dict, schema: dict) -> list[str]:
                     f"{INDEX_REL} case `{case_id}` owners[{idx}]",
                 )
             )
+        box = case.get("operative_box")
+        if not isinstance(box, dict):
+            errors.append(
+                f"{INDEX_REL} case `{case_id}`: operative_box must be an "
+                "object (STEWARD-DOOR-LOCKSTEP-01)"
+            )
+        else:
+            errors.extend(
+                missing_required(
+                    box,
+                    CITE_REQUIRED,
+                    f"{INDEX_REL} case `{case_id}` operative_box",
+                )
+            )
+            expected_anchor = CARD_BOX_ANCHORS.get(str(case.get("card_title")))
+            href = box.get("href") if isinstance(box.get("href"), str) else ""
+            fragment = href.partition("#")[2]
+            if expected_anchor and fragment != expected_anchor:
+                errors.append(
+                    f"{INDEX_REL} case `{case_id}`: operative_box fragment "
+                    f"#{fragment} does not match core box "
+                    f"#{expected_anchor} (STEWARD-DOOR-LOCKSTEP-01)"
+                )
         clock = case.get("clock")
         if clock is not None:
             if not isinstance(clock, dict):
@@ -488,12 +615,103 @@ def check_eval_gold(root: Path, index: dict) -> list[str]:
     return errors
 
 
+def check_operative_boxes(
+    root: Path,
+    index: dict,
+    cards: str,
+) -> list[str]:
+    errors: list[str] = []
+    sections = h2_sections(cards)
+    file_boxes: dict[Path, dict[str, dict[str, str]]] = {}
+    for case in index.get("cases") or []:
+        if not isinstance(case, dict):
+            continue
+        case_id = case.get("id", "?")
+        title = case.get("card_title")
+        box_cite = case.get("operative_box")
+        if not isinstance(box_cite, dict):
+            continue
+        href = box_cite.get("href")
+        if not isinstance(href, str) or not href.strip():
+            errors.append(
+                f"{INDEX_REL} case `{case_id}`: operative_box.href is "
+                "missing (STEWARD-DOOR-LOCKSTEP-01)"
+            )
+            continue
+        path_part, _, fragment = href.partition("#")
+        target = root / path_part
+        if not target.is_file():
+            continue
+        if target not in file_boxes:
+            file_boxes[target] = parse_operative_boxes(
+                target.read_text(encoding="utf-8")
+            )
+        parsed = file_boxes[target].get(fragment)
+        if not parsed or not parsed.get("forbidden_move") or not parsed.get("clock"):
+            errors.append(
+                f"{path_part}: missing operative steward statement "
+                f"#{fragment} with Owner / Forbidden move / Clock "
+                "(STEWARD-DOOR-LOCKSTEP-01)"
+            )
+            continue
+        forbidden_src = str(case.get("forbidden_move") or "")
+        clock_src = str(case.get("clock_note") or "")
+        box_forbidden_src = parsed.get("forbidden_move") or ""
+        box_clock_src = parsed.get("clock") or ""
+        box_forbidden = normalize(box_forbidden_src)
+        box_clock = normalize(box_clock_src)
+        for clause in missing_clauses(forbidden_src, box_forbidden):
+            errors.append(
+                f"{path_part} #{fragment}: index forbidden_move clause "
+                f"{clause!r} for `{case_id}` is missing from the core box "
+                "(STEWARD-DOOR-LOCKSTEP-01)"
+            )
+        for clause in missing_clauses(clock_src, box_clock):
+            errors.append(
+                f"{path_part} #{fragment}: index clock_note clause "
+                f"{clause!r} for `{case_id}` is missing from the core box "
+                "(STEWARD-DOOR-LOCKSTEP-01)"
+            )
+        if not isinstance(title, str):
+            continue
+        body = sections.get(title)
+        if body is None:
+            continue
+        normalized_body = normalize(body)
+        for clause in missing_clauses(box_forbidden_src, normalized_body):
+            errors.append(
+                f"{CARDS_REL} #{title}: core-box forbidden-move clause "
+                f"{clause!r} for `{case_id}` is missing from the card "
+                "(STEWARD-DOOR-LOCKSTEP-01)"
+            )
+        for clause in missing_clauses(box_clock_src, normalized_body):
+            errors.append(
+                f"{CARDS_REL} #{title}: core-box clock clause {clause!r} "
+                f"for `{case_id}` is missing from the card "
+                "(STEWARD-DOOR-LOCKSTEP-01)"
+            )
+    expected_anchors = set(CARD_BOX_ANCHORS.values())
+    found_anchors = {
+        fragment
+        for boxes in file_boxes.values()
+        for fragment in boxes
+    }
+    missing_homes = sorted(expected_anchors - found_anchors)
+    for anchor in missing_homes:
+        errors.append(
+            f"core home missing operative steward statement #{anchor} "
+            "(STEWARD-DOOR-LOCKSTEP-01)"
+        )
+    return errors
+
+
 def audit(root: Path) -> list[str]:
     errors: list[str] = []
     try:
         readme = read(root, README_REL)
         core = read(root, CORE_REL)
         cards = read(root, CARDS_REL)
+        routing = read(root, ROUTING_REL)
         cs4 = read(root, CS4_REL)
         edition = corpus_edition(readme)
         bullets = [normalize(b) for b in costly_bullets(core)]
@@ -529,6 +747,12 @@ def audit(root: Path) -> list[str]:
             )
 
     sections = h2_sections(cards)
+    if "Routing examples" in sections:
+        errors.append(
+            f"{CARDS_REL}: gold routing-examples table belongs in "
+            f"{ROUTING_REL}, not on the subject-facing cards page "
+            "(STEWARD-DOOR-LOCKSTEP-01)"
+        )
     for title in CARD_TITLES:
         body = sections.get(title)
         if body is None:
@@ -635,7 +859,7 @@ def audit(root: Path) -> list[str]:
                 f"{CARDS_REL} (STEWARD-DOOR-LOCKSTEP-01)"
             )
 
-    examples = parse_routing_examples(cards)
+    examples = parse_routing_examples(routing)
     example_ids = [row["id"] for row in examples]
     case_ids = [
         case.get("id")
@@ -644,7 +868,7 @@ def audit(root: Path) -> list[str]:
     ]
     if set(example_ids) != set(case_ids):
         errors.append(
-            f"{CARDS_REL} #Routing examples: ids {example_ids} do not match "
+            f"{ROUTING_REL} #Routing examples: ids {example_ids} do not match "
             f"index case ids {case_ids} (STEWARD-DOOR-LOCKSTEP-01)"
         )
     cases_by_id = {
@@ -658,13 +882,13 @@ def audit(root: Path) -> list[str]:
             continue
         if row["klass"] != case.get("next_step_class"):
             errors.append(
-                f"{CARDS_REL} #Routing examples `{row['id']}`: next-step "
+                f"{ROUTING_REL} #Routing examples `{row['id']}`: next-step "
                 f"class {row['klass']!r} does not match index "
                 f"{case.get('next_step_class')!r} (STEWARD-DOOR-LOCKSTEP-01)"
             )
         if row["anchor"] != case.get("card_anchor"):
             errors.append(
-                f"{CARDS_REL} #Routing examples `{row['id']}`: card anchor "
+                f"{ROUTING_REL} #Routing examples `{row['id']}`: card anchor "
                 f"#{row['anchor']} does not match index "
                 f"#{case.get('card_anchor')} (STEWARD-DOOR-LOCKSTEP-01)"
             )
@@ -706,7 +930,16 @@ def audit(root: Path) -> list[str]:
         )
 
     errors.extend(check_card_links(root, root / CARDS_REL, cards))
+    errors.extend(
+        check_card_links(
+            root,
+            root / ROUTING_REL,
+            routing,
+            rel=ROUTING_REL,
+        )
+    )
     errors.extend(check_eval_gold(root, index))
+    errors.extend(check_operative_boxes(root, index, cards))
     return errors
 
 
@@ -720,10 +953,10 @@ def main() -> int:
             print(err)
         return 1
     print(
-        "PASS: steward-entry cards match core costly cases, the shared "
-        "refusal-and-logging screen, CS-4 §10 logging contract, five-field "
-        "cards including clock, live anchors, README edition pin, routing "
-        "examples, and the owner/clock index."
+        "PASS: steward-entry cards match core operative steward statements, "
+        "core costly cases, the shared refusal-and-logging screen, CS-4 §10 "
+        "logging contract, five-field cards including clock, live anchors, "
+        "README edition pin, operator-only routing examples, and the owner/clock index."
     )
     return 0
 

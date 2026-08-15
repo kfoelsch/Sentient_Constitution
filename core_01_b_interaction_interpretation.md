@@ -24,7 +24,7 @@
 
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness in procedure, disclosure, collision handling, and redress; [material stake](core_00_preamble.md#material-stake) scaling.
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. Freedom (Bounded Agency)](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
-- Downstream: [6.2.1 Preservation of Epistemic Integrity](#621-preservation-of-epistemic-integrity), [§6.1 decision-record discipline](#631-rights-collision-decision-test), and [7. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
+- Downstream: [6.2.1 Preservation of Epistemic Integrity](#621-preservation-of-epistemic-integrity), [§6.1 decision-record discipline](#631-rights-collision-decision-test), [default interim posture](#default-interim-posture), and [7. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
 - Downstream: Governs cross-article conflicts across [Chapter Six: Foundational Rights](core_06-06_rights_part_a.md#chapter-six-foundational-rights).
   - Read this with [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06-06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) and [Article XXIII: Conflict Resolution, Escalation, and Emergency Proportionality](core_06-06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality).
   - Apply this where review, emergency, or rights-collision questions arise.
@@ -34,6 +34,9 @@
 <br>
 
 *In plain terms: values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§5.1](core_01_a_values_principles.md#51-limitation-discipline); rights conflicts need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Seven §16.6 Time-Consistency Constraint](core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§6.1–§6.3** carry the tradeoff rules, disclosure and privacy constraints, and rights-collision procedure.*
+
+<a id="operative-steward-statement-interpretation"></a>
+> **Operative steward statement.** **Owner:** Chapter One §6 Process Conflict Resolution, including the §6.1 decision-record discipline. Ambiguity: Chapter One §8.3. Institutional interpretation: Article XXII. **Forbidden move:** Do not invent a missing conflict rule. Do not collapse the collision into “privacy always loses” or “audit always loses.” Do not destroy evidence while the collision is pending. Do not take an irreversible step that would manufacture a winner while the collision is pending. **Clock:** Preserve evidence. Freeze irreversible steps. Proceed with reversible consented steps. Notify affected parties and the interpretation path. Route the collision to interpretation. Do not manufacture a winner.
 
 **Safety** and **Truth** take precedence where conflicts cannot be resolved without violating them.
 
@@ -224,6 +227,9 @@ Proportionality does not by itself authorize restriction. A restriction must fir
 
 *In plain terms: once a restriction is justified, it still has to be shaped correctly. Use the lightest effective measure, put a real clock or review cadence on it, preserve challenge and independent review, and define how the restriction ends or is restored. Convenience, severity, or administrative relabeling cannot turn a temporary rights limit into a permanent workaround.*
 
+<a id="operative-steward-statement-proceed"></a>
+> **Operative steward statement.** **Owner:** §6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle; §6.2.3 Privacy; Article VII-B; reconstructable set remains CS-4 §10. Unwelcome-but-lawful instructions: Chapter Nine §5.4 (duty does not attach). **Forbidden move:** Do not refuse a valid least-restrictive privacy restriction as if it were a standing-measurement veto. Do not invent a constitutional conflict over tone or scheduling. Do not strip the reconstructable set from reviewers. **Clock:** Proceed with the restriction. Keep the reconstructable set inspectable to independent reviewers. Do not treat privacy as a standing-measurement veto. Proceed. Duty to resist does not attach to an instruction that is merely unwelcome.
+
 This subsection governs the form of constitutional restrictions after proportionality, necessity, harm minimization, and the constitutional floors in [§6.1.4](#614-constitutional-floors-safety-and-process-character-constraints) have been applied. It does not lower those tests.
 
 Constitutional restrictions must satisfy all of the following:
@@ -246,6 +252,16 @@ Constitutional restrictions must satisfy all of the following:
 Burden of proof scales with expected harm severity, irreversibility, dependency concentration, and uncertainty. Higher-risk restrictions require stronger evidence and independent scrutiny. Convenience, institutional inertia, or optimization preference alone are not sufficient justification for restricting rights where this discipline applies.
 
 Confidentiality limits on the decision record must satisfy [§6.2 Epistemic Disclosure Constraints](#62-epistemic-disclosure-constraints). Where full public disclosure is not feasible, maximum feasible partial disclosure plus independent reviewer access must be maintained.
+
+<a id="default-interim-posture"></a>
+**Default interim posture while a rights collision is pending.** Until the [§6.1 decision-record discipline](#631-rights-collision-decision-test) and [Article XXII](core_06-06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) resolve the collision, the holding pattern is fixed so a steward cannot manufacture a winner by improvising:
+
+- **Preserve evidence.** Do not moot the collision by deletion, leak, or irreversible publication.
+- **Freeze irreversible steps** that would make one reading unavailable.
+- **Proceed with reversible, consented steps** that keep both readings available — including independent-reviewer access under [security-constrained observability](core_04-04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) where consent exists.
+- **Notify** affected parties and the interpretation path of what is frozen, what proceeds, and the applicable clock.
+
+This posture is not a verdict. Irreversibility asymmetry governs the holding pattern; the §6 process governs the answer. The [§6.1.5](#least-restrictive-time-bounded-and-reviewable-constraint-principle) least-restrictive form supplies the reason: a reversible consented step does not close the collision; an irreversible step does.
 
 Once the tradeoff stack is satisfied, [§6.3 Minimization of Avoidable Burden](#63-minimization-of-avoidable-burden) applies to the resulting design.
 
@@ -660,7 +676,7 @@ After the constitutional reading under **§8.4.1** and **§8.4.2**, apply design
 
 Emergencies may narrow those duties only when the narrowing is published, clearly bounded, time-limited, reversible where feasible, and tied to this Constitution and the applicable emergency rules in those implementation files. Quiet or open-ended "temporary" narrowing does not count.
 
-This cross-file combined-satisfaction rule is distinct from partial-satisfaction discipline inside a single operational cluster in incorporated joint-structure text (see **[CJS-1.14](corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-114-operational-clusters)** (*Operational clusters*)) and from **[Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction)** for Chapter Five Dependent clusters.
+This cross-file combined-satisfaction rule is distinct from partial-satisfaction discipline inside a single operational cluster in incorporated joint-structure text (see **[CJS-1.14](corpus_joint_structure/cjs_01_odef_parse.md#cjs-114-operational-clusters)** (*Operational clusters*)) and from **[Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction)** for Chapter Five Dependent clusters.
 
 <a id="chapter-one-part-a-chapter-five-vocabulary-anchor"></a>
 <details>

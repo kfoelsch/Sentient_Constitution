@@ -47,7 +47,7 @@ This family operationalizes the constitutional [Continuity aim](../core_00_pream
 - Read with: **CJS-3.17 — Interoperability, Portability, and Exit Integrity**
 - Read with: **CJS-3.3 — Auditability**
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- Read with: `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**
+- Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*)
 - Read with: **Article XV-A** (*Auditability and Observable Evidence*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — not protocol or forum continuity alone.
@@ -146,10 +146,10 @@ Dependency identification and disclosure content
 <a id="domain-and-sector-classification-mapping"></a>
 Domain and sector classification mapping
 
-*In plain terms: where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable `corpus_systems.md` **CS-3 — System classification and handling**…*
+*In plain terms: where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md)…*
 
 - **What it is**
-  - **In scope:** Where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable `corpus_systems.md` **CS-3 — System classification and handling** classes and **CS-4 — Critical system stewardship** stewardship tiers using the canonical domain taxonomy where one applies. The map must identify domains present in governed scope, split classifications or tiers, survival-relevant, operationally critical, or coordination-critical domains, and reclassification triggers when dependency criticality, cascade risk, or historical treatment changes.
+  - **In scope:** Where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) classes and **CS-4 — Critical system stewardship** stewardship tiers using the canonical domain taxonomy where one applies. The map must identify domains present in governed scope, split classifications or tiers, survival-relevant, operationally critical, or coordination-critical domains, and reclassification triggers when dependency criticality, cascade risk, or historical treatment changes.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in domain and sector classification mapping.
 <a id="domain-and-sector-classification-mapping-a"></a>
 - **How to measure and assess**
@@ -255,9 +255,9 @@ Substitutability, exit constraints, and mitigation duties
 - Read with: **CJS-3.17 — Interoperability, Portability, and Exit Integrity**
 - Read with: **CJS-3.16 — Dependency Awareness, Disclosure, and Risk Integrity**
 - Read with: **CJS-3.10 — Transparency and Disclosure**
-- Read with: `corpus_systems.md` **CS-2 — Information types and handling**
-- Read with: `corpus_systems.md` **CS-3 — System classification and handling**
-- Read with: `corpus_systems.md` **CS-4 — Critical system stewardship**
+- Read with: [**CS-2**](../corpus_systems/cs_02_a_information_types_and_handling.md)
+- Read with: [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md)
+- Read with: [**CS-4**](../corpus_systems/cs_04_critical_system_stewardship.md)
 - Read with: **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*)
 - Read with: **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)
 - Read with: **Article XV-A** (*Auditability and Observable Evidence*)
@@ -588,7 +588,7 @@ Right-to-exit pathway integrity
 - Read with: **CJS-3.5 — Independent Verification and Integrity of Claims**
 - Read with: **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- Read with: `corpus_systems.md` **CS-2 — Information types and handling**, including Types **E**, **G**, **O**, **H**, **I**, **N**, and **S**
+- Read with: [**CS-2**](../corpus_systems/cs_02_a_information_types_and_handling.md), including Types **E**, **G**, **O**, **H**, **I**, **N**, and **S**
 - Read with: **CJS-1.11 — Classification alignment for supervised scope**
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — lifecycle rules must not narrow the Continuity aim.
@@ -815,7 +815,7 @@ Transparency disclosures and stakeholder legibility
 - Read with: **CJS-3.16 — Dependency Awareness, Disclosure, and Risk Integrity**
 - Read with: **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- Read with: `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**
+- Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Operational degradation discipline serves constitutional **Continuity**; not a substitute for it.
 - Chapter One basis: §8.1, §11.1, §7, §9 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
@@ -1042,7 +1042,7 @@ Signaling integrity and anti-silent-failure controls
 - Read with: **CJS-3.3 — Auditability**
 - Read with: **CJS-3.4 — Tiered Transparency and Audit Access**
 - Read with: **CJS-3.5 — Independent Verification and Integrity of Claims**
-- Read with: `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**
+- Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*)
 - Read with: **Article XVI** (*System Lifecycle, Environments, and Reversibility*) and **Article XII-F** (*Resilience and Self-Healing Baseline*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — reversibility protects against irreversible constitutional harm.
@@ -1173,7 +1173,7 @@ Rollback and containment capability
 - Read with: **CJS-3.11** (*Accountability: distributed and proportional authority terms*) and **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*) for distributed authority and participation legitimacy
 - Read with: **CJS-3.12 — Burden of Justification and Constraint**
 - Read with: **CJS-3.22 — Constrained Secrecy and Protected Investigations**
-- Read with: `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**
+- Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*)
 - Read with: **Article XII** (*Right to Reliable and Trustworthy Systems*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Adversarial resilience serves constitutional **Continuity** under material stake.

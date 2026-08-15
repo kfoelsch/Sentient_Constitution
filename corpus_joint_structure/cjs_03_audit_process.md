@@ -10,7 +10,7 @@
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 >
-> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XV**; layer 2 is Chapter Five [Auditability](../core_05_band_oversight.md#auditability). Do not treat this file, Chapter Seven, or an OP annex as a fifth audit home.
+> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XV**; layer 2 is Chapter Five [Auditability](../core_05_band_oversight.md#auditability). Binding next-step statement: [Operative steward statement (Article XV)](../core_06-06_rights_part_c.md#operative-steward-statement-audit). Do not treat this file, Chapter Seven, or an OP annex as a fifth audit home.
 
 </details>
 
@@ -125,7 +125,7 @@ Audit when any of the following applies (often more than one):
 - **Material change** — capability, scope, behavior, dependency, risk, incentive structure, or governance changes enough that prior checks no longer describe reality
 - **Periodic cadence** — on a schedule scaled to class and how fast the subject changes
 - **Incident, dispute, or credible risk** — including escalation to forensic depth when reconstruction is needed
-- **Continuous or automated monitoring** — where impact or criticality requires ongoing detection (including systems-layer monitoring profiles such as Protocol A ACA), without treating monitoring alone as a complete audit
+- **Continuous or automated monitoring** — where impact or criticality requires ongoing detection (including systems-layer monitoring profiles such as CS-5 ACA), without treating monitoring alone as a complete audit
 - **Certification or revalidation cycles** — including System Alignment Certification, which is one trigger among others, not the only time auditing happens
 
 "Where feasible" does **not** make required independent audit paths soft-optional for high-impact subjects. Eligibility rules for qualified independent or third-party paths must stay public and non-exclusive (**CJS-3.4**).
@@ -143,7 +143,7 @@ Audit when any of the following applies (often more than one):
 | System Classification Record audit | **CS-3** §7.3 |
 | System Data Types Record audit | **CS-2** §8.3 |
 | Data typing and access-posture for audit outputs | **CS-2** (Type O / Type G / bands); output-tier preference in **CJS-3.4** |
-| Complexity / comprehensibility audits (systems profile) | **Protocol B**; **Article XX** |
+| Complexity / comprehensibility audits (systems profile) | **CS-6**; **Article XX** |
 | Claim integrity and independent verification terms | **CJS-3.5** |
 | Institutional transparency and accessible pathways | **CI-8** (read with **CI-7.3** where monitoring or escalation applies) |
 | Forum performance, backlog, publication, accessibility | **CF-11** |

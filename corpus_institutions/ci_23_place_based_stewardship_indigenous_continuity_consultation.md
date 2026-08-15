@@ -51,7 +51,7 @@ This file is the institutional implementation home for **CI-23** (*Place-based s
 *In plain terms: if the consultation notes sit in a drawer, the community's concerns never reach the risk decision, and the only remedy is "we held three listening sessions," consultation has already failed — even when the slide deck says stakeholder engagement.*
 
 *Shared rules live elsewhere.*
-- **[CJS-3.7](../corpus_joint_structure.md)** (*quorum and participatory legitimacy terms*) — the **Stakeholder oversight and binding-governance pathway integrity** control set, covering:
+- [**CJS-3.7**](../corpus_joint_structure/cjs_03p_participation_operations.md) (*quorum and participatory legitimacy terms*) — the **Stakeholder oversight and binding-governance pathway integrity** control set, covering:
   - stakeholder identification;
   - participation rights and challenge paths;
   - advisory-versus-binding status;
@@ -65,9 +65,11 @@ This file is the institutional implementation home for **CI-23** (*Place-based s
 - **CI-7.2** — external assurance triggers when internal review is not credible for consultation or continuity failures on funded projects.
 - **CI-8** — cross-institution coordination and escalation when the responsible institution cannot credibly commission review itself.
 - **CI-23 scope** — does not repeat those floors; states local consultation-record, indigenous-continuity, and compliance-theater escalation owner duties.
+
 **Apply**
 - Apply **CJS-3.7** **Stakeholder oversight and binding-governance pathway integrity** for the shared consultation and participation floor.
 - **CI-23** states only local consultation-record, indigenous-continuity, and compliance-theater escalation owner duties — without creating an unbounded territorial-restitution mandate or reopening adoption-scope choices reserved to **Chapter Sixteen**.
+
 **Local place-based stewardship and consultation role map**
 Each institution in scope must name the office or body responsible for:
 - **consultation-record custody** — who receives, stores, versions, and publishes consultation notices, submissions, responses, and decision rationales so participation can be reconstructed and challenged later;
@@ -79,8 +81,9 @@ Read **Chapter Five** *Indigenous Continuity* alongside these articles where mat
 - **Article I-A** (*Environmental Preconditions and Ecological Integrity*);
 - **Article V-B** (*Nondiscrimination*);
 - **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*).
+
 ---
 
 **Previous file:** [ci_22_commons_cooperatives_mutual_aid_non_market_governance.md](ci_22_commons_cooperatives_mutual_aid_non_market_governance.md)
-**Next file:** [ci_24_innovation_reward_disclosure_anti_enclosure.md](ci_24_innovation_reward_disclosure_anti_enclosure.md)
 
+**Next file:** [ci_24_innovation_reward_disclosure_anti_enclosure.md](ci_24_innovation_reward_disclosure_anti_enclosure.md)

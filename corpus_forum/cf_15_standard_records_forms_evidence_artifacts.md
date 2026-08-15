@@ -113,7 +113,7 @@ Records must be tagged, at minimum, for the following access classes:
 - **party-facing** — available to parties or affected sentients subject to lawful privacy, safety, and evidence-protection limits;
 - **public-facing** — published or summarized where needed for routing intelligibility, precedent, shared standards, or governance trust;
 - **audit-facing** — available for lawful audit, reconstruction, and **Article XV-A** (*Auditability and Observable Evidence*) verification;
-- **contest-integrity-facing** — available to `corpus_institutions.md` **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) monitors where pathway performance, backlog, recusal, routing, or publication integrity is at issue;
+- **contest-integrity-facing** — available to [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Contest-integrity monitoring (Class A and Class B)*) monitors where pathway performance, backlog, recusal, routing, or publication integrity is at issue;
 - **external-assurance-facing** — available when **CI-7.2** (*External assurance triggers*), **CI-8** (*Cross-institution coordination and escalation*), or equivalent lawful assurance triggers apply;
 - **restricted or sealed** — limited only as justified by lawful secrecy, safety, privacy, protected internal-state, or evidence-integrity constraints, with a deferred review or reconstruction path wherever feasible.
 
@@ -143,7 +143,7 @@ Publication and retention rules must be written in advance and aligned with **CF
 
 During degraded or emergency operation, temporary paper, offline, or local records may be used only if they preserve docket identity, timestamps, responsible roles, and later reconciliation. Reconciled records must identify any gap, conflict, loss, or reconstruction uncertainty.
 
-Forum archival and retrieval systems whose failure would materially impair record access, restoration, precedent or publication continuity, audit, challenge, or lawful reconstruction must be classified no lower than **Class B** under `corpus_systems.md` **CS-3 — System classification and handling**, unless the adopting entity documents a viable, tested, and timely substitute sufficient to preserve those functions. Vendor control, format lock-in, search degradation, migration failure, loss of indexing, or comparable technical dependency must not be used to avoid record-continuity, auditability, or contestability duties.
+Forum archival and retrieval systems whose failure would materially impair record access, restoration, precedent or publication continuity, audit, challenge, or lawful reconstruction must be classified no lower than **Class B** under [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md), unless the adopting entity documents a viable, tested, and timely substitute sufficient to preserve those functions. Vendor control, format lock-in, search degradation, migration failure, loss of indexing, or comparable technical dependency must not be used to avoid record-continuity, auditability, or contestability duties.
 
 ## CF-15.6 Non-compliant record patterns
 

@@ -53,7 +53,7 @@ This section governs forum continuity when ordinary forum operation is materiall
 - capture or compromise indicators, including family-level capture under **CF-7.3.8**;
 - network or infrastructure disruption that impairs constitutional adjudication.
 It governs continuity of adjudication. Fallback substitutions are governed by **CF-13** (*Fallback operation*), and emergency merits handling, review, restoration, and prohibited emergency patterns are governed by **CF-14** (*Emergency adjudication*). This section does not authorize permanent alteration of constitutional forum-family boundaries.
-Where forum continuity materially depends on constitutional systems, this section must be read with `corpus_systems.md` **Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*). Protocol A states the shared emergency lifecycle, crisis-communication, exercise, restoration-evidence, and audit-trail mechanics; **CF-12** (*Forum continuity*) supplies the forum-specific continuity modes, activation triggers, minimum functions, record continuity, communications, coordination, and exercise requirements. **CF-13** and **CF-14** supply fallback-operation and emergency-adjudication requirements.
+Where forum continuity materially depends on constitutional systems, this section must be read with [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Governance continuity, crisis communications, and exercises*). CS-5 states the shared emergency lifecycle, crisis-communication, exercise, restoration-evidence, and audit-trail mechanics; **CF-12** (*Forum continuity*) supplies the forum-specific continuity modes, activation triggers, minimum functions, record continuity, communications, coordination, and exercise requirements. **CF-13** and **CF-14** supply fallback-operation and emergency-adjudication requirements.
 
 ## CF-12.1 Rights-Floor continuity rule
 
@@ -102,7 +102,7 @@ Activation records must state:
 - who authorized activation;
 - when independent review will occur.
 
-Shared expiry, reauthorization, restoration, and closure-evidence requirements follow `corpus_systems.md` **Protocol A**, subsection **G**, where constitutional-system continuity is implicated. Forum activation records add the **Chapter Eleven** routing and family-specific adjudication details listed here.
+Shared expiry, reauthorization, restoration, and closure-evidence requirements follow [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md), where constitutional-system continuity is implicated. Forum activation records add the **Chapter Eleven** routing and family-specific adjudication details listed here.
 
 ## CF-12.4 Continuity minimum functions
 
@@ -129,15 +129,15 @@ Forum emergency adjudication requires continuous preservation of:
 - publication-delay records;
 - restoration and rollback decisions.
 
-Where digital systems are impaired, institutions must maintain a lawful fallback for record capture and later reconciliation. Generic crisis audit-trail, communication-log, and closure-evidence requirements remain in `corpus_systems.md` **Protocol A**, subsection **G**; this subsection identifies the forum records that cannot be lost or silently merged during emergency operation.
+Where digital systems are impaired, institutions must maintain a lawful fallback for record capture and later reconciliation. Generic crisis audit-trail, communication-log, and closure-evidence requirements remain in [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md); this subsection identifies the forum records that cannot be lost or silently merged during emergency operation.
 
-Long-term archival and retrieval systems that materially support record access, restoration, precedent or publication continuity, audit, challenge, or lawful reconstruction must be treated as forum-continuity dependencies under **CF-15.5** (*Publication, retention, and reconciliation*) and classified under `corpus_systems.md` **CS-3 — System classification and handling** according to their continuity function.
+Long-term archival and retrieval systems that materially support record access, restoration, precedent or publication continuity, audit, challenge, or lawful reconstruction must be treated as forum-continuity dependencies under **CF-15.5** (*Publication, retention, and reconciliation*) and classified under [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) according to their continuity function.
 
 ## CF-12.6 Communication duties
 
 *In plain terms: Parties must be told which mode is active, what still works, and what has been suspended. Silence during a crisis is itself a failure.*
 
-During continuity-mode operation, forum-facing communications must apply `corpus_systems.md` **Protocol A**, subsection **G**, crisis-communication discipline and must publish or otherwise communicate, as lawfully feasible, the adjudication-specific facts parties need:
+During continuity-mode operation, forum-facing communications must apply [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md), crisis-communication discipline and must publish or otherwise communicate, as lawfully feasible, the adjudication-specific facts parties need:
 - the active mode;
 - what functions remain available;
 - where urgent filings should go;
@@ -161,7 +161,7 @@ Where multiple institutions or forum families are affected, the continuity proto
 
 *In plain terms: Continuity plans must be rehearsed against realistic scenarios — no independent panel available, a backlog surge, an outage — because an untested plan is an assumption.*
 
-Forum continuity protocols must participate in the exercise cadence required by `corpus_systems.md` **Protocol A**, subsection **G**, where constitutional-system continuity is implicated. Forum-specific exercise coverage should include at least:
+Forum continuity protocols must participate in the exercise cadence required by [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md), where constitutional-system continuity is implicated. Forum-specific exercise coverage should include at least:
 
 - inability to form an independent panel;
 - major backlog surge;
@@ -170,7 +170,7 @@ Forum continuity protocols must participate in the exercise cadence required by 
 - capture-sensitive routing and backup activation;
 - family-level capture activation and restoration.
 
-Findings must be recorded and tied to remediation under **Protocol A**, subsection **G**, with docket, routing, quorum, and backup-forum failures separately identified.
+Findings must be recorded and tied to remediation under **CS-5 §8**, with docket, routing, quorum, and backup-forum failures separately identified.
 
 ---
 

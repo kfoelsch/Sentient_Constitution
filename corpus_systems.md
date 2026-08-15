@@ -8,7 +8,7 @@
 - How design, testing, deployment, and ongoing operation stay auditable, challengeable, and aligned with the Constitution
 - How complexity and funding are stewarded in ordinary operation without rewriting Rights Floors
 - How transition, attack/subversion, and partition or continuity failures are governed when ordinary operation is not enough
-- Named protocols and **CS-2–CS-4** families carry the detail — expand **Systems index** below when you need a specific file
+- Named **CS-5–CS-12** families and **CS-2–CS-4** families carry the detail — expand **Systems index** below when you need a specific file
 
 **Does not:**
 - Redefine constitutional terms, Rights Floors, or offense taxonomy
@@ -29,7 +29,7 @@
 
 **Binding:** When an adopter incorporates this layer under [Chapter Sixteen](core_16-16_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
-**Already know your topic?** Expand **Systems index** below, or use the [systems registry](corpus_systems/cs_00_registry_and_reading_rules.md) for labels and the family map.
+**Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Systems index** below. Identifier rules remain in the [systems registry](corpus_systems/cs_00_registry_and_reading_rules.md).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Compatibility and authority (non-operative)</span></strong></summary>
@@ -47,25 +47,44 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Systems index</span></strong></summary>
 
+<!-- BEGIN GENERATED FAMILY INDEX -->
 ## Systems Index
+
+### Registry
 
 | Stable family | Authoritative subfile |
 |---|---|
-| Registry and identifier rules | [cs_00_registry_and_reading_rules.md](corpus_systems/cs_00_registry_and_reading_rules.md) |
+| CS-0: Registry and identifier rules | [cs_00_registry_and_reading_rules.md](corpus_systems/cs_00_registry_and_reading_rules.md) |
+
+### Boundary
+
+| Stable family | Authoritative subfile |
+|---|---|
 | CS-1: Scope, purpose, and boundary interface | [cs_01_scope_purpose_identifier_rules.md](corpus_systems/cs_01_scope_purpose_identifier_rules.md) |
-| CS-2, Part A — Handling rules (§1–§7) | [cs_02_a_information_types_and_handling.md](corpus_systems/cs_02_a_information_types_and_handling.md) |
+
+### Taxonomy
+
+| Stable family | Authoritative subfile |
+|---|---|
+| CS-2, Part A — Handling rules (§1–§8) | [cs_02_a_information_types_and_handling.md](corpus_systems/cs_02_a_information_types_and_handling.md) |
 | CS-2, Part B — Data classifications (§8) | [cs_02_b_data_classifications.md](corpus_systems/cs_02_b_data_classifications.md) |
 | CS-3, Part A — Classification machinery (§1–§7) | [cs_03_a_system_classification_machinery.md](corpus_systems/cs_03_a_system_classification_machinery.md) |
-| CS-3, Part B — System impact classifications (§8 overview and aspect-comparative matrices; §§9–13 class cards) | [cs_03_b_system_impact_classifications.md](corpus_systems/cs_03_b_system_impact_classifications.md) |
+| CS-3, Part B — System impact classifications (§8–§13) | [cs_03_b_system_impact_classifications.md](corpus_systems/cs_03_b_system_impact_classifications.md) |
 | CS-4 — Critical system stewardship | [cs_04_critical_system_stewardship.md](corpus_systems/cs_04_critical_system_stewardship.md) |
-| Protocol A: System Design, Testing, Verification, and Deployment | [cs_protocol_a_system_design_testing_verification_deployment.md](corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md) |
-| Protocol B: System Comprehensibility and Complexity Stewardship | [cs_protocol_b_system_comprehensibility_complexity_stewardship.md](corpus_systems/cs_protocol_b_system_comprehensibility_complexity_stewardship.md) |
-| Protocol C: Justice Safeguards, Restitution, and Rehabilitation Implementation | [cs_protocol_c_justice_safeguards_restitution_rehabilitation.md](corpus_systems/cs_protocol_c_justice_safeguards_restitution_rehabilitation.md) |
-| Protocol S4 — Adaptive Sustainability and Ecosystem Resilience | [cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md](corpus_systems/cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md) |
-| Protocol S5 — Resource Allocation and Funding Stewardship | [cs_protocol_s5_resource_allocation_funding_stewardship.md](corpus_systems/cs_protocol_s5_resource_allocation_funding_stewardship.md) |
-| Protocol T — Transition Constitution and Migration Governance | [cs_protocol_t_transition_constitution_migration_governance.md](corpus_systems/cs_protocol_t_transition_constitution_migration_governance.md) |
-| Protocol R — Subversion Response, Replacement, and Reconstitution | [cs_protocol_r_subversion_response_replacement_reconstitution.md](corpus_systems/cs_protocol_r_subversion_response_replacement_reconstitution.md) |
-| Protocol D — Decentralized Constitutional Continuity and Partition Resilience | [cs_protocol_d_decentralized_constitutional_continuity_partition_resilience.md](corpus_systems/cs_protocol_d_decentralized_constitutional_continuity_partition_resilience.md) |
+
+### Engineering protocols
+
+| Stable family | Authoritative subfile |
+|---|---|
+| CS-5 — Design, testing, verification, and deployment | [cs_05_design_testing_verification_deployment.md](corpus_systems/cs_05_design_testing_verification_deployment.md) |
+| CS-6 — Comprehensibility and complexity stewardship | [cs_06_comprehensibility_complexity_stewardship.md](corpus_systems/cs_06_comprehensibility_complexity_stewardship.md) |
+| CS-7 — Justice safeguards, restitution, and rehabilitation | [cs_07_justice_safeguards_restitution_rehabilitation.md](corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md) |
+| CS-8 — Adaptive sustainability and ecosystem resilience | [cs_08_adaptive_sustainability_ecosystem_resilience.md](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) |
+| CS-9 — Resource allocation and funding stewardship | [cs_09_resource_allocation_funding_stewardship.md](corpus_systems/cs_09_resource_allocation_funding_stewardship.md) |
+| CS-10 — Transition constitution and migration governance | [cs_10_transition_constitution_migration_governance.md](corpus_systems/cs_10_transition_constitution_migration_governance.md) |
+| CS-11 — Subversion response, replacement, and reconstitution | [cs_11_subversion_response_replacement_reconstitution.md](corpus_systems/cs_11_subversion_response_replacement_reconstitution.md) |
+| CS-12 — Decentralized continuity and partition resilience | [cs_12_decentralized_continuity_partition_resilience.md](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) |
+<!-- END GENERATED FAMILY INDEX -->
 
 </details>
 

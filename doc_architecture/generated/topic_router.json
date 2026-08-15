@@ -1,0 +1,525 @@
+{
+  "status": "process_support_not_binding",
+  "cannot_narrow_core": true,
+  "source": "corpus_joint_structure/cjs_00_topic_router.md",
+  "description": "Full CJS-0.1 topic router with resolved owner and read-with files. Authoritative row table remains CJS-0.1.",
+  "rows": [
+    {
+      "id": "CJS-R01",
+      "topic": "Delegated binding bodies and hybrid composition (non-forum institutions)",
+      "domain": "Institutional governance",
+      "primary_owners": [
+        {
+          "id": "CI-9.3",
+          "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CJS-2.1",
+          "file": "corpus_joint_structure/cjs_02_hybrid_delegated_authority.md"
+        },
+        {
+          "id": "CJS-2.5",
+          "file": "corpus_joint_structure/cjs_02_procedural_abstractions.md"
+        },
+        {
+          "id": "CJS-3.13",
+          "file": "corpus_joint_structure/cjs_03a_accountability_operations.md"
+        },
+        {
+          "id": "CI-3",
+          "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md"
+        },
+        {
+          "id": "CJS-3.11",
+          "file": "corpus_joint_structure/cjs_03a_accountability_operations.md"
+        },
+        {
+          "id": "CJS-3.12",
+          "file": "corpus_joint_structure/cjs_03a_accountability_operations.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R02",
+      "topic": "Forum chambers, divisions, and designated panels (Chapter Eleven families)",
+      "domain": "Forum operations",
+      "primary_owners": [
+        {
+          "id": "CF-3",
+          "file": "corpus_forum/cf_03_forum_formation_chamber_structure.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CJS-2.1",
+          "file": "corpus_joint_structure/cjs_02_hybrid_delegated_authority.md"
+        },
+        {
+          "id": "CJS-2.5",
+          "file": "corpus_joint_structure/cjs_02_procedural_abstractions.md"
+        },
+        {
+          "id": "CJS-3.13",
+          "file": "corpus_joint_structure/cjs_03a_accountability_operations.md"
+        },
+        {
+          "id": "CI-9.3",
+          "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R03",
+      "topic": "Lawful panel formation, disclosure, recusal, substitution, inability-to-form",
+      "domain": "Forum operations",
+      "primary_owners": [
+        {
+          "id": "CF-4",
+          "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CJS-2.5",
+          "file": "corpus_joint_structure/cjs_02_procedural_abstractions.md"
+        },
+        {
+          "id": "CJS-3.13",
+          "file": "corpus_joint_structure/cjs_03a_accountability_operations.md"
+        },
+        {
+          "id": "CI-4",
+          "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md"
+        },
+        {
+          "id": "CI-5",
+          "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R04",
+      "topic": "Routing, intake, transfer, certification, representative treatment",
+      "domain": "Forum operations",
+      "primary_owners": [
+        {
+          "id": "CF-5",
+          "file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CJS-2.5",
+          "file": "corpus_joint_structure/cjs_02_procedural_abstractions.md"
+        },
+        {
+          "id": "CJS-3.13",
+          "file": "corpus_joint_structure/cjs_03a_accountability_operations.md"
+        },
+        {
+          "id": "CI-8",
+          "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R05",
+      "topic": "Appeal, secondary review, exhaustion",
+      "domain": "Forum operations",
+      "primary_owners": [
+        {
+          "id": "CF-6",
+          "file": "corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CI-6",
+          "file": "corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md"
+        },
+        {
+          "id": "CJS-3.13",
+          "file": "corpus_joint_structure/cjs_03a_accountability_operations.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R06",
+      "topic": "Forum integrity operations, anti-capture, anti-self-judging support",
+      "domain": "Forum operations",
+      "primary_owners": [
+        {
+          "id": "CF-7",
+          "file": "corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CI-5",
+          "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md"
+        },
+        {
+          "id": "CI-7.3",
+          "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R07",
+      "topic": "Forum forensic and analytical support",
+      "domain": "Forum operations",
+      "primary_owners": [
+        {
+          "id": "CF-8",
+          "file": "corpus_forum/cf_08_forum_forensic_analytical_support.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CI-7.3",
+          "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R08",
+      "topic": "Independent investigative service and prosecution interface",
+      "domain": "Forum operations",
+      "primary_owners": [
+        {
+          "id": "CF-9",
+          "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CI-8",
+          "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R09",
+      "topic": "Technical forums and specialist chambers",
+      "domain": "Forum operations",
+      "primary_owners": [
+        {
+          "id": "CF-10",
+          "file": "corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CI-25",
+          "file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R10",
+      "topic": "Forum performance, backlog requirements, publication timeliness, accessibility",
+      "domain": "Forum operations",
+      "primary_owners": [
+        {
+          "id": "CF-11",
+          "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CI-7.3",
+          "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R11",
+      "topic": "Forum continuity",
+      "domain": "Forum operations",
+      "primary_owners": [
+        {
+          "id": "CF-12",
+          "file": "corpus_forum/cf_12_forum_continuity.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CI-14",
+          "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R11A",
+      "topic": "Fallback operation",
+      "domain": "Forum operations",
+      "primary_owners": [
+        {
+          "id": "CF-13",
+          "file": "corpus_forum/cf_13_fallback_operation.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CF-4",
+          "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md"
+        },
+        {
+          "id": "CF-7",
+          "file": "corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R11B",
+      "topic": "Emergency adjudication",
+      "domain": "Forum operations",
+      "primary_owners": [
+        {
+          "id": "CF-14",
+          "file": "corpus_forum/cf_14_emergency_adjudication.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CF-11",
+          "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R12",
+      "topic": "Standard forum records, forms, and evidence artifacts",
+      "domain": "Forum operations",
+      "primary_owners": [
+        {
+          "id": "CF-15",
+          "file": "corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CI-6",
+          "file": "corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R13",
+      "topic": "Forum staffing, shared administration, structural review, structural records",
+      "domain": "Forum operations",
+      "primary_owners": [
+        {
+          "id": "CF-16",
+          "file": "corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CI-4",
+          "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md"
+        },
+        {
+          "id": "CI-5",
+          "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md"
+        },
+        {
+          "id": "CI-9.3",
+          "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R14",
+      "topic": "Institutional functional lanes and non-delegable splits",
+      "domain": "Institutional governance",
+      "primary_owners": [
+        {
+          "id": "CI-3",
+          "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CJS-3.11",
+          "file": "corpus_joint_structure/cjs_03a_accountability_operations.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R15",
+      "topic": "Contest-integrity monitoring (pathway integrity, not merits)",
+      "domain": "Institutional governance",
+      "primary_owners": [
+        {
+          "id": "CI-7.3",
+          "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CF-4",
+          "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md"
+        },
+        {
+          "id": "CF-11",
+          "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md"
+        },
+        {
+          "id": "CJS-3.13",
+          "file": "corpus_joint_structure/cjs_03a_accountability_operations.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R16",
+      "topic": "Cross-institution coordination, deadlock, and escalation",
+      "domain": "Institutional governance",
+      "primary_owners": [
+        {
+          "id": "CI-12",
+          "file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CF-5",
+          "file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md"
+        },
+        {
+          "id": "CF-7",
+          "file": "corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R17",
+      "topic": "Cross-implementation trust integrity (joint operation model)",
+      "domain": "Cross-implementation integrity",
+      "primary_owners": [
+        {
+          "id": "CJS-2.3",
+          "file": "corpus_joint_structure/cjs_02_trust_integrity.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CJS-3.9",
+          "file": "corpus_joint_structure/cjs_03p_participation_operations.md"
+        },
+        {
+          "id": "CJS-3.10",
+          "file": "corpus_joint_structure/cjs_03p_participation_operations.md"
+        },
+        {
+          "id": "CJS-3.16",
+          "file": "corpus_joint_structure/cjs_03c_continuity_operations.md"
+        },
+        {
+          "id": "CJS-3.19",
+          "file": "corpus_joint_structure/cjs_03c_continuity_operations.md"
+        },
+        {
+          "id": "CJS-3.17",
+          "file": "corpus_joint_structure/cjs_03c_continuity_operations.md"
+        },
+        {
+          "id": "CJS-3.3",
+          "file": "corpus_joint_structure/cjs_03_audit_process.md"
+        },
+        {
+          "id": "CJS-3.5",
+          "file": "corpus_joint_structure/cjs_03o_oversight_operations.md"
+        },
+        {
+          "id": "CJS-3.20",
+          "file": "corpus_joint_structure/cjs_03c_continuity_operations.md"
+        },
+        {
+          "id": "CJS-3.18",
+          "file": "corpus_joint_structure/cjs_03c_continuity_operations.md"
+        },
+        {
+          "id": "CI-7.3",
+          "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md"
+        },
+        {
+          "id": "CI-8",
+          "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md"
+        },
+        {
+          "id": "CF-11",
+          "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R18",
+      "topic": "Class-scaled lane staffing and competency redundancy for materially binding stewardship",
+      "domain": "Institutional governance",
+      "primary_owners": [
+        {
+          "id": "CI-3",
+          "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md"
+        },
+        {
+          "id": "CI-4",
+          "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md"
+        },
+        {
+          "id": "CI-11",
+          "file": "corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md"
+        },
+        {
+          "id": "CI-12",
+          "file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CJS-2.4",
+          "file": "corpus_joint_structure/cjs_02_lane_staffing.md"
+        },
+        {
+          "id": "CJS-3.11",
+          "file": "corpus_joint_structure/cjs_03a_accountability_operations.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R19",
+      "topic": "integrity assurance and resilience operations",
+      "domain": "Cross-implementation integrity",
+      "primary_owners": [
+        {
+          "id": "CJS-3.6",
+          "file": "corpus_joint_structure/cjs_03o_oversight_operations.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CJS-3.3",
+          "file": "corpus_joint_structure/cjs_03_audit_process.md"
+        },
+        {
+          "id": "CJS-3.15",
+          "file": "corpus_joint_structure/cjs_03a_accountability_operations.md"
+        },
+        {
+          "id": "CI-7.3",
+          "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md"
+        },
+        {
+          "id": "CI-8",
+          "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md"
+        },
+        {
+          "id": "CF-11",
+          "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md"
+        }
+      ]
+    }
+  ]
+}

@@ -54,13 +54,15 @@ This file is the institutional implementation home for **CI-19** (*Vulnerable pe
 *In plain terms: sentients must not need a lawyer to know whether a rule is ordinary workplace safety or a disguised ban on lawful work. If platforms, banks, landlords, or licensing offices can make protected activity functionally impossible while calling it "risk management," the pathway has failed — and if exploitation enforcement gets softer because consensual adult work is no longer a crime, that has failed too.*
 
 *Shared rules live elsewhere.*
-- **[CJS-3.17](../corpus_joint_structure.md)** (*interoperability, portability, and exit-integrity terms*) — high-vulnerability personal-service pathway integrity: lawful access, practical exit, non-retaliatory reporting, proportionate due care, and anti-pretext separation between ordinary regulation and exploitation response.
+- [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*interoperability, portability, and exit-integrity terms*) — high-vulnerability personal-service pathway integrity: lawful access, practical exit, non-retaliatory reporting, proportionate due care, and anti-pretext separation between ordinary regulation and exploitation response.
 - **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) in **Chapter Six** — decriminalization floor, exploitation proscriptions, nondiscrimination, general-market integration, anti-circumvention, and transition relief. **Articles X-A**, **V-B**, **I-C**, **IV-A**, and **IV-C** and **Chapter Five** (*Protected Characteristics*, *Consent*, *Coercion and Manipulation*) remain the rights single home alongside **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*).
 - **`corpus_systems.md`** — **CS-3** classification examples for market-mediated personal-service platforms; **CS-4** stewardship scaling where platform, data, or system stewardship is material.
 - **CI-19 scope** — does not repeat those floors; states **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) application-file owner duties for authorization, enforcement separation, transition records, and remedy routing.
+
 **Apply**
 - Apply **CJS-3.17** **High-vulnerability personal-service pathway integrity** for the shared floor on lawful access, exit, reporting, due care, and anti-pretext separation.
 - **CI-19** states only local **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) application-file owner duties. Comparable lawful personal services should use comparable regulatory families unless documented **Necessity** and **Proportionality** justify differentiation.
+
 **Local **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) role map**
 Each institution in scope must name the office or body responsible for:
 - **application-record custody** — the official file showing how **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) is implemented locally, including predicates, procedures, and review history;
@@ -73,8 +75,9 @@ Each institution in scope must name the office or body responsible for:
 - **workplace, housing, licensing, and transition route owners** — who handles parity with ordinary lawful cooperative work, housing access, licensing decisions, and phased record relief; and
 - **phased transition and record-relief publication** — how expungement, sealing, non-disclosure, retraining, and case-review programs are published and kept current.
 Read **CI-6**, **CI-9**, **CI-8**, and **CI-8.3** for local procedure, scaling, participation, and digital-pathway interfaces.
+
 ---
 
 **Previous file:** [ci_18_collective_public_health_epidemic_response_addiction_informed_care.md](ci_18_collective_public_health_epidemic_response_addiction_informed_care.md)
-**Next file:** [ci_20_relational_coercive_control_intimate_power_anti_domination.md](ci_20_relational_coercive_control_intimate_power_anti_domination.md)
 
+**Next file:** [ci_20_relational_coercive_control_intimate_power_anti_domination.md](ci_20_relational_coercive_control_intimate_power_anti_domination.md)

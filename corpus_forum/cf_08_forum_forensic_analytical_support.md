@@ -108,7 +108,7 @@ Support personnel must not impose sanctions, decide liability, make final credib
 
 *In plain terms: Technical helpers face the same conflict screening as decision-makers, and parties must have a real way to challenge who was appointed.*
 
-Appointment, conflict disclosure, recusal, and challenge pathways must satisfy `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*), **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), and `core_11-11_forum.md` **Chapter Eleven**.
+Appointment, conflict disclosure, recusal, and challenge pathways must satisfy [**CI-4**](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*), **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), and `core_11-11_forum.md` **Chapter Eleven**.
 
 Parties and materially affected sentients must have a meaningful opportunity, consistent with lawful restrictions, to challenge:
 - the scope of the assignment;
@@ -170,7 +170,7 @@ Emergency ex parte preservation steps may be permitted only when delay would for
 
 Forum forensic support and contest-integrity monitoring are related but different.
 
-`corpus_institutions.md` **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) asks whether pathways, procedures, and institutions function in practice. **CF-8** support develops case-specific evidence records and analysis for adjudication. Institutions must not use forensic support to silently replace structural monitoring, and must not use contest-integrity monitoring to quietly decide case-specific facts that belong in the [forum case record](../core_05_band_accountability.md#forum-case-record).
+[**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Contest-integrity monitoring (Class A and Class B)*) asks whether pathways, procedures, and institutions function in practice. **CF-8** support develops case-specific evidence records and analysis for adjudication. Institutions must not use forensic support to silently replace structural monitoring, and must not use contest-integrity monitoring to quietly decide case-specific facts that belong in the [forum case record](../core_05_band_accountability.md#forum-case-record).
 
 ---
 

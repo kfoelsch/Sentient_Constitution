@@ -638,7 +638,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Seven §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*supervisory sequence, component referral, and reliance limits during contest*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*transfer, certification, and interim relief*); `corpus_forum.md` **CF-6** (*appeal and secondary review*) and **CF-15** (*interim-relief order*).
+- Downstream: [Chapter Seven §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*supervisory sequence, component referral, and reliance limits during contest*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*transfer, certification, and interim relief*); [**CF-6**](corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md) (*appeal and secondary review*) and **CF-15** (*interim-relief order*).
 - Read with: [Merits Determination](core_05_band_accountability.md#merits-determination), [Contestability](core_05_band_accountability.md#contestability), [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
 
 </details>

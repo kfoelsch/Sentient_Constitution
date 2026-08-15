@@ -90,6 +90,7 @@ This chapter states which **forum families** **supervise** which primary questio
 - must satisfy **independence**, **contestability**, and **tracing** expectations in **Chapters Two through Four**, **Article XII-B** (*Right to Challenge, Review, and Redress*) where challenge and remediation are implicated, and **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) where justice constraints govern.
 - are subject to this instrument's most stringent expressed procedural and integrity-accountability requirements, including public justification, traceability, recusal and panel discipline, forensic and analytical support where this chapter assigns them
 - require anti-self-judging backup routing. Those requirements must not substitute political control for judicial independence.
+- **Integrity**, **Constitutional**, and **Environment** forums, and **Technical Forum Domains** when they hear sentience-status adjudication, require **published**, **contested**, **rotatable** appointment or an equivalent independence check under [Chapter Twelve §1.2](core_12-12_governance.md#12-eligibility-contested-selection-and-democratic-minimums). Under-appointment or underfunding of those benches is a [Chapter Nine §9](core_09-09_standing_integration.md#9-enforcement-realism) failure.
 
 Each **forum family** bears primary responsibility for incentive structures primarily within its sphere. This includes:
 
@@ -404,6 +405,8 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 - comparable **ecological** **merits**.
 - This includes **pattern** or **systemic** ecological failure where **Chapter Eight** measurement, **Chapter Six** Rights-Floor enforcement, or **Chapter Five** (*Ecological Integrity*, *Environmental Preconditions*) depends on that determination.
 
+**Representative filing.** A case whose primary stake is [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing) or ecological integrity may be opened by a published representative — an affected community, indigenous-continuity holder, or designated guardian — in the life-supporting system's own interest. This does not make the system a sentient. Appointment, recusal, and publication of representatives live in [`corpus_forum.md`](corpus_forum.md) (**CF-5** (*Routing operations, transfer, certification, and representative treatment*)) and must **implement, not narrow**, this floor.
+
 **Illustrative matters.** This family includes contests over:
 - ecological integrity or environmental-precondition baselines and breaches;
 - restoration or remediation of shared ecological systems;
@@ -586,7 +589,7 @@ A case may move from one forum family to another only when the receiving family 
   - **filing trigger** — materially disputed, contested, unsettled, narrowed, revoked, or restored status before granting, withdrawing, or narrowing status-dependent protections;
   - **interim Contested treatment** — [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) plus Article V-E default inclusion while status remains live; and
   - **reopening evidence standard** — new verified evidence, not calendar-only reopening.
-- Detailed institutional design, appointment mechanics, filing forms, and sequencing route to adopted implementation text under **Chapter Sixteen** incorporation discipline and **must not** narrow the **Article V-E** (*Sentience-Status Adjudication Floor*) floor. As of this edition, **no dedicated [Sentience-Status Adjudication Record](core_05_band_participation.md#sentience-status-adjudication-record-constitutional)** is enumerated among Chapter Sixteen implementation files; the floor, this hook, the minimum fields above, and the Chapter Five record meaning remain operative without that dedicated schema.
+- Detailed institutional design, appointment mechanics, filing forms, and sequencing route to adopted implementation text under **Chapter Sixteen** incorporation discipline and **must not** narrow the **Article V-E** (*Sentience-Status Adjudication Floor*) floor. As of this edition, the dedicated [Sentience-Status Adjudication Record](core_05_band_participation.md#sentience-status-adjudication-record-constitutional) format is enumerated under **Chapter Sixteen** as [`corpus_forum/cf_sentience_status_record.md`](corpus_forum/cf_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json); those files implement, and do **not** narrow, **Article V-E** (*Sentience-Status Adjudication Floor*) or this hook. The minimum fields above still apply. This hook is **not** a full appointments or filing statute.
 
 #### Referral distinguished from expansion
 

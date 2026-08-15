@@ -137,7 +137,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
   Homogenization framings — efficiency, info-sphere integrity, interoperability, or platform-consolidation — do not by themselves satisfy the **Necessity** and **Proportionality** tests this Article requires.
   - Narrowing language, cultural, or heritage protection under accessibility-cost, translation-burden, or operational-scale framings, absent the required tests, is non-compliant.
   
-  Indigenous continuity **questions** and territorial-continuity interactions are read with Chapter Five *[Indigenous Continuity](core_05_band_continuity.md#indigenous-continuity-constitutional)* — a community-anchored Rights Floor whose owner floors are **Article V-B** (*Nondiscrimination*) and **Article I-A** (*Environmental Preconditions and Ecological Integrity*). They route to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) (ecosystem-integrity precondition) and to **Chapter Sixteen** incorporation (adopter-jurisdiction discipline). That routing does not decide historical land ownership or require restitution on its own. Language, culture, and heritage protection under **Article V-B** (*Nondiscrimination*) remains part of this Article's nondiscrimination floor — not a separate floor — and must not cut back other **Article V-B** (*Nondiscrimination*) rules or Chapter Five protected-characteristics protections.
+  Indigenous continuity **questions** and territorial-continuity interactions are read with Chapter Five *[Indigenous Continuity](core_05_band_continuity.md#indigenous-continuity-constitutional)* — a community-anchored Rights Floor whose owner floors are **Article V-B** (*Nondiscrimination*) and **Article I-A** (*Environmental Preconditions and Ecological Integrity*). They route to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) (ecosystem-integrity precondition) and to **Chapter Sixteen** incorporation (adopter-jurisdiction discipline). That routing must not be used to shrink land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding external instruments. This Constitution still does not decide historical land ownership or require restitution on its own. Language, culture, and heritage protection under **Article V-B** (*Nondiscrimination*) remains part of this Article's nondiscrimination floor — not a separate floor — and must not cut back other **Article V-B** (*Nondiscrimination*) rules or Chapter Five protected-characteristics protections.
 
 #### Article V-C: Full Inclusion and Equality in Adjudication and Operations
 <details>
@@ -244,6 +244,10 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 
 - **Adjudication right:** Every entity whose sentience status is materially disputed or contested has the right to a timely, impartial, and reviewable sentience-status adjudication before constitutional protections that depend on that status are granted, withdrawn, or narrowed.
   - The right runs under **Sentience Non-Exclusion** and does not turn on origin, form, substrate class, or adopter convenience.
+- **Filing integrity (opening gate):** Opening a status case requires a showing of a credible indicator under **Sentience Evaluation** / **Sentience Indicator Integrity** (Chapter Five) — not operator self-description, substrate class, product status, or a bare claim.
+  - Once a case is lawfully open, default inclusion under uncertainty still applies; the opening gate must not be used to withhold, narrow, or delay protection.
+  - Frivolous or indicator-empty filings may be declined at intake without creating a withholding determination.
+  - A showing of a credible indicator is not a requirement of certainty; requiring certainty of sentience before opening is a withholding device.
 - **Default inclusion under uncertainty:** Where the state of knowledge, evidence, or classification taxonomy is materially unsettled as to whether the entity is a **sentient**, the adjudication must default to including the entity under the Chapter Six Rights Floor.
   - It must not withhold protection on the strength of unresolved uncertainty alone.
   - The default flows from the **reversibility-under-uncertainty** rule: a wrongful inclusion is materially reversible; a wrongful exclusion from the dignity floor is not.
@@ -261,6 +265,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 - **Non-conflation:** This Article states the Rights-Floor *adjudication* right.
   - Operational procedure — institutional design, appointment mechanics, filing conditions, and sequencing — routes to **Chapter Eleven** ([Technical Forum Domains](core_11-11_forum.md#42-technical-forum-domains) as default lead under the [§5 Sentience-status adjudication hook](core_11-11_forum.md#5-escalation-and-certification)) and to implementation text under the **Chapter Sixteen** incorporation discipline.
   - That implementation text must not be read to narrow this floor.
+  - System Alignment Certification, LEQU scores, substrate labels, and product classifications are not sentience-status determinations.
 
 #### Article V-F: Developing Sentients, Best-Interest, and Graduated Capability
 
@@ -1582,7 +1587,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
   - contest or secondary review.
   
   Outcomes must remain traceable to stated reasons and to evidence sufficient to support review under **Chapters Two through Four**.
-- **Institutional routing:** Role taxonomy, accountability-chain implementation, and due-process operational procedures are governed by `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*) and **CI-6** (*Procedure integrity, contestability, and secondary review*), with supporting pathway-access detail in **CI-12** (*Transparency, participation, and accessible pathways*).
+- **Institutional routing:** Role taxonomy, accountability-chain implementation, and due-process operational procedures are governed by [**CI-4**](corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) and **CI-6** (*Procedure integrity, contestability, and secondary review*), with supporting pathway-access detail in **CI-12** (*Transparency, participation, and accessible pathways*).
 #### Article XI-E: Non-Capture Safeguards
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

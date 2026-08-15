@@ -296,21 +296,32 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 
 #### Natural Systems Standing
 
-*In plain terms: life-supporting natural systems — including Earth's biosphere — have continuity and integrity interests that governance must take seriously. They are not only raw materials to extract.*
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: [Chapter Eleven §4.4 Environment forums](core_11-11_forum.md#44-environment-forums) (*representative filing for continuity and integrity interests*).
+- Read with: [Indigenous Continuity](core_05_band_continuity.md#indigenous-continuity-constitutional) (*indigenous-continuity holder as a published-representative class*); [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional); [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional); **CF-5** in [corpus_forum.md](corpus_forum.md) (*appointment, recusal, and publication of natural-systems representatives*).
+
+</details>
+
+<br>
+
+*In plain terms: life-supporting natural systems — including Earth's biosphere — have continuity and integrity interests that governance must take seriously. They are not only raw materials to extract. A published representative may bring those interests to an Environment forum in the system's own interest.*
 
 - **What it is**
-  - **In scope:** Life-supporting natural systems — including Earth's biosphere as described in **Article I-A** (*Environmental Preconditions and Ecological Integrity*) — have continuity and integrity interests of their own. Interpretation and governance must weigh those interests alongside sentient interests, and must not treat natural systems only as raw materials to extract.
-  - **Out of scope:** pretty scenery, raw-material stockpiles, or private land title alone — when no life-supporting continuity interest is at stake.
+  - **In scope:** Life-supporting natural systems — including Earth's biosphere as described in **Article I-A** (*Environmental Preconditions and Ecological Integrity*) — have continuity and integrity interests of their own. Interpretation and governance must weigh those interests alongside sentient interests, and must not treat natural systems only as raw materials to extract. Those continuity and integrity interests may be brought to an Environment forum by a published representative acting for the system, not only as a private sentient harm claim.
+  - **Out of scope:** pretty scenery, raw-material stockpiles, or private land title alone — when no life-supporting continuity interest is at stake. This recognition does not make the system a sentient or a Chapter Six rights-holder.
 <a id="natural-systems-standing-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether life-supporting natural systems' continuity and integrity interests are counted in interpretation and governance — not dismissed as scenery or stockpile.
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether life-supporting natural systems' continuity and integrity interests are counted in interpretation and governance — not dismissed as scenery or stockpile — and whether a published representative may bring those interests to an Environment forum in the system's own interest.
 
-    **Primary assessment:** Align with [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional), [Harm](core_05_band_accountability.md#harm), and [Risk](core_05_band_continuity.md#risk). **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and implementation protocols supply operational measures and must not narrow this recognition.
+    **Primary assessment:** Align with [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional), [Harm](core_05_band_accountability.md#harm), and [Risk](core_05_band_continuity.md#risk). **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and implementation protocols supply operational measures and must not narrow this recognition. [Chapter Eleven §4.4](core_11-11_forum.md#44-environment-forums) states the Environment-forum filing floor; **CF-5** appointment, recusal, and publication rules must implement, not narrow, that floor.
 <a id="natural-systems-standing-c"></a>
 - **What must hold**
   - **Primary failure:**
     - treating natural systems as if they have no protectable interests when **Article I-A** (*Environmental Preconditions and Ecological Integrity*) requires their continuity and integrity interests to be weighed; or
-    - treating natural systems as if they have no protectable interests when other binding environmental norms require their continuity and integrity interests to be weighed.
+    - treating natural systems as if they have no protectable interests when other binding environmental norms require their continuity and integrity interests to be weighed; or
+    - refusing Environment-forum intake solely because no individual sentient pleads private harm, when a published representative files for the system's continuity or integrity interests.
 
 ---
 
@@ -2326,6 +2337,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - treating covered entities as property inventory, pest labels, or scenery / amenities in a way that skips the welfare and continuity analysis required under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
     - using Animal Life classification or the welfare floor alone to avoid [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), or [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) where the record materially implicates elevated-communicative or sentience-relevant evidence;
     - treating "Animal Life" as a species-only gate that excludes otherwise covered entities from this floor.
+  - **Secondary failure — indefinite parking:** Parking an entity indefinitely at this Animal Life floor when material communicative or cognitive indicators implicate contested or affirmable sentience, without opening [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), is non-compliant. The operator or steward must open that adjudication on a time-bound review — not a species list. Escalation opens [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) / [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) default inclusion; it does not itself affirm [Sentient](core_05_band_participation.md#sentient) status.
 
 ---
 
@@ -2390,6 +2402,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - degrading habitat or operating environment health for covered entities without engaging the heightened-priority analysis required under this entry and [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*);
     - using Elevated Communicative Life classification alone to avoid [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) or [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) where the record materially implicates contested or affirmable sentience;
     - treating this tier as a permanent moral underclass that narrows [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing) or blocks later Sentient recognition.
+  - **Secondary failure — indefinite parking:** Parking an entity indefinitely at this Elevated Communicative Life tier when material communicative or cognitive indicators implicate contested or affirmable sentience, without opening [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), is non-compliant. The operator or steward must open that adjudication on a time-bound review — not a species list. Escalation opens [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) / [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) default inclusion; it does not itself affirm [Sentient](core_05_band_participation.md#sentient) status.
 
 ---
 
@@ -2422,6 +2435,10 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - includes the [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) floor only where Elevated's who-test is met or more-protective overlap already applies;
     - routes to [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional); and
     - under material uncertainty, defaults to inclusion under the Chapter Six Rights-Floor.
+  - **In scope — filing integrity:** Opening a live contested-status case requires a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e) — not operator self-description, [Substrate Class](core_05_band_participation.md#substrate-class), product status, or a bare claim.
+    - Once a case is lawfully open, default inclusion under uncertainty still applies; the opening gate must not be used to withhold, narrow, or delay protection.
+    - Frivolous or indicator-empty filings may be declined at intake without creating a withholding determination and without placing the entity in this tier.
+    - A showing of a credible indicator is not a requirement of certainty; requiring certainty of sentience before opening is a withholding device.
   - **In scope — burden:** The burden of:
     - withholding;
     - narrowing; or
@@ -2429,9 +2446,10 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     that protection rests on the party seeking to do so under [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*), with scope governed by [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Out of scope:**
     - [Animal Life](core_05_band_participation.md#animal-life-constitutional) welfare-floor cases with no material contested-sentience record;
-    - [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) cases with no material contested-sentience record; or
+    - [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) cases with no material contested-sentience record;
     - status determinations already completed through reviewable [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), with no live contested-status question —
-      Contested-Sentient Life governs only while status remains uncertain, disputed, or under adjudication. Closure destinations and reopening sit under that adjudication entry.
+      Contested-Sentient Life governs only while status remains uncertain, disputed, or under adjudication. Closure destinations and reopening sit under that adjudication entry; or
+    - frivolous or indicator-empty filings declined at intake under the [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) filing-integrity opening gate — declining those filings does not create a withholding determination.
 <a id="contested-sentient-life-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether material uncertainty about sentience triggers:
@@ -2440,6 +2458,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     not withholding.
   - **Primary assessment:**
     - Reach substantive effect under [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_02-03_definition_mechanics.md#formal-label-gaming-discipline).
+    - Opening a live contested-status case requires a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e); once the case is lawfully open, apply default inclusion. Do not treat the opening showing as a certainty requirement.
     - Where the record materially implicates sentience-relevant evidence, apply the [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) default-inclusion rule regardless of whether the entity is also covered by:
       - [Animal Life](core_05_band_participation.md#animal-life-constitutional);
       - [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional);
@@ -2479,6 +2498,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - permanent non-sentient labeling while status remains materially contested;
     - welfare-only handling that skips reviewable sentience-status adjudication while status remains materially contested;
     - using uncertainty as a reason to withhold protection rather than extend default inclusion;
+    - using the filing-integrity opening gate to withhold, narrow, or delay protection after a status case is lawfully open, or requiring certainty of sentience before opening;
     - relabeling a materially contested sentience question as:
       - animal welfare;
       - elevated communicative / habitat-priority status alone;
@@ -2608,6 +2628,10 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - requiring periodic check-ins while a narrowing lasts;
     - reopening when new verified evidence appears — not only on the calendar; and
     - undoing wrongful calls, with [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) for the time protection was wrongly withheld or narrowed.
+  - **In scope — filing integrity:** Opening a status case requires a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e) — not operator self-description, [Substrate Class](core_05_band_participation.md#substrate-class), product status, or a bare claim.
+    - Frivolous or indicator-empty filings may be declined at intake without creating a withholding determination.
+    - Once a case is lawfully open, default inclusion under uncertainty still applies; the opening gate must not be used to withhold, narrow, or delay protection.
+    - A showing of a credible indicator is not a requirement of certainty; requiring certainty of sentience before opening is a withholding device.
   - **Boundary — operations:** Operational procedure — including:
     - institutional design;
     - appointment mechanics;
@@ -2615,13 +2639,15 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - sequencing —
     routes through [Chapter Eleven](core_11-11_forum.md) and [Chapter Sixteen](core_16-16_incorporation.md)-incorporated implementation text and must not narrow this entry. When adjudication runs, it must produce or update a [Sentience-Status Adjudication Record](core_05_band_participation.md#sentience-status-adjudication-record-constitutional).
   - **Out of scope:**
-    - [Animal Life](core_05_band_participation.md#animal-life-constitutional) welfare-floor cases with no material contested-sentience record; or
-    - [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) cases with no material contested-sentience record.
+    - [Animal Life](core_05_band_participation.md#animal-life-constitutional) welfare-floor cases with no material contested-sentience record;
+    - [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) cases with no material contested-sentience record; or
+    - frivolous or indicator-empty filings declined at intake under the filing-integrity opening gate — declining those filings does not create a withholding determination.
 <a id="sentience-status-adjudication-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether disputed or contested status triggers timely, impartial, reviewable adjudication with default inclusion under uncertainty.
   - **Primary assessment:** Test whether:
     - materially disputed or contested status triggered timely, impartial, reviewable adjudication consistent with [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional);
+    - opening required only a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e), and the opening gate was not used to withhold, narrow, or delay protection after the case was lawfully open;
     - the default-inclusion rule under uncertainty was honored, with the party seeking to withhold, narrow, or revoke carrying the burden through [Auditability](core_05_band_oversight.md#auditability)-compatible evidence satisfying:
       - [Necessity](core_05_band_accountability.md#necessity); and
       - [Proportionality](core_05_band_accountability.md#proportionality);
@@ -2640,6 +2666,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - substitutes unreviewable classification, paper records, or taxonomy-of-convenience for a contestable [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) determination — or routes away from that family without a Chapter Eleven–warranted Integrity, Institutional, or Constitutional special route to evade indicator-based review;
     - excludes candidates on [Substrate Class](core_05_band_participation.md#substrate-class) grounds contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
     - withholds, narrows, or revokes Chapter Six protection on unresolved uncertainty alone;
+    - uses the filing-integrity opening gate to withhold, narrow, or delay protection after a status case is lawfully open, or requires certainty of sentience before opening;
     - narrows status without a declared end-date and mandatory periodic review; or
     - refuses to reopen or review when new verified evidence appears.
 
@@ -2674,7 +2701,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - interim [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) treatment while status remains live;
     - any narrowing's declared expected-closure timeline and mandatory periodic-review trigger; and
     - the reopening evidence standard — new verified evidence, not calendar-only reopening.
-  - Until a fuller schema is validly incorporated under [Chapter Sixteen](core_16-16_incorporation.md), the minimum fields in [Chapter Eleven §5](core_11-11_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook) govern record contents. That hook is **not** a full appointments or filing statute.
+  - This edition lists [`corpus_forum/cf_sentience_status_record.md`](corpus_forum/cf_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated record format under [Chapter Sixteen](core_16-16_incorporation.md). They implement, and do **not** narrow, **Article V-E** (*Sentience-Status Adjudication Floor*). The minimum fields in [Chapter Eleven §5](core_11-11_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook) still govern record contents. That hook is **not** a full appointments or filing statute.
   - **Depends on:** [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional); [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
   - **Out of scope:**
     - [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) as the process itself;

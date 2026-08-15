@@ -50,10 +50,11 @@ This file is the institutional implementation home for **CI-21** (*Community lif
 *In plain terms: a park bench, a community hall, a festival, or an afternoon with no measurable output is not a policy failure waiting to be optimized away. If the only way to gather is through a platform that can de-list you, a landlord who can evict the venue, or a group you cannot leave without retaliation, community life has already been captured.*
 
 *Shared rules live elsewhere.*
-- **[CJS-3.7](../corpus_joint_structure.md)** (*quorum and participatory legitimacy terms*) — **Community and associational pathway integrity**: practical participation, freedom not to associate, freedom to leave coercive group settings, and protection against hostile-design exclusion in shared spaces, civic infrastructure, cultural gathering, peaceable assembly, recreation, and non-instrumental time.
+- [**CJS-3.7**](../corpus_joint_structure/cjs_03p_participation_operations.md) (*quorum and participatory legitimacy terms*) — **Community and associational pathway integrity**: practical participation, freedom not to associate, freedom to leave coercive group settings, and protection against hostile-design exclusion in shared spaces, civic infrastructure, cultural gathering, peaceable assembly, recreation, and non-instrumental time.
 - **Article V-H** (*Expression, Assembly, and Press*) and **Article X-A** (*Non-Imposition and Consent in Association*) in **Chapter Six** — assembly, association, consent in cooperative ventures, harassment and bullying limits, and freedom of focus in relational settings.
 - **Chapter Five** — [Assembly](../core_05_band_participation.md#assembly-constitutional), [Collective Organization](../core_05_band_participation.md#collective-organization-constitutional), and [Non-Imposition (Cooperative Interaction)](../core_05_band_participation.md#non-imposition-cooperative-interaction) where associational conduct is material.
 - **CI-21 scope** — does not repeat those floors; states local stewardship, program, referral, and escalation owner duties.
+
 **Apply**
 - Apply **CJS-3.7** **Community and associational pathway integrity** for the shared floor on practical access, voluntary association, exit from coercive settings, and anti-hostile-design exclusion.
 - **CI-21** states only local stewardship, program, referral, and escalation owner duties across **CI-21.1** through **CI-21.3**.

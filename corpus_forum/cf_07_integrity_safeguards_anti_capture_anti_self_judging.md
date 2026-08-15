@@ -135,7 +135,7 @@ Where an alignment ruling materially stabilizes outcomes beyond the named partie
 
 *In plain terms: How a system gets officially recognized as constitutionally aligned within a stated scope, and how that recognition is rechecked later. Recognition is contestable and does not expire into a permanent seal of approval.*
 
-**Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_11-11_forum.md` **Chapter Eleven**, **sections 3, 5, and 8**, and works with `corpus_systems.md` **Protocol A** and **CS-3 — System classification and handling** classification and revalidation duties.
+**Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_11-11_forum.md` **Chapter Eleven**, **sections 3, 5, and 8**, and works with [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) and **CS-3 — System classification and handling** classification and revalidation duties.
 
 ### CF-7.2.1 Technical-Specification and Environmental-Component Separation
 <details>
@@ -207,7 +207,7 @@ Recognition is scope-bound and time-bound by its stated cadence and reopening tr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.3**; **CF-4.9**; **CF-4.10**; **CF-4.11**; **CF-5**; **CF-6**; **CF-8**; **CF-9**; `corpus_institutions.md` **CI-5**, **CI-7.3**, and **CI-8**.
+- Read with: **CF-7.3**; **CF-4.9**; **CF-4.10**; **CF-4.11**; **CF-5**; **CF-6**; **CF-8**; **CF-9**; [**CI-5**](../corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md), **CI-7.3**, and **CI-8**.
 
 </details>
 
@@ -215,7 +215,7 @@ Recognition is scope-bound and time-bound by its stated cadence and reopening tr
 
 *In plain terms: The machinery for moving a matter away from a body that cannot judge it impartially — including the severe case where an entire forum family, not just one member, has been compromised.*
 
-**Purpose.** Provide the forum-side mechanics for the Chapter Eleven cross-forum anti-self-judging rule, capture-sensitive routing, contest-integrity interfaces, and family-level capture activation. This subsection does not replace **CF-4** panel-formation rules, **CF-5** routing operations, **CF-8** forensic support, **CF-9** investigative-service boundaries, **CF-12** continuity rules, **CF-13** fallback rules, **CF-14** emergency-adjudication rules, or `corpus_institutions.md` **CI-7.3** contest-integrity monitoring. It tells those mechanisms what record, trigger, and boundary conditions must exist when the risk is that a forum, institution, system steward, or integrity process would otherwise judge its own capture, conflict, concealment, recusal failure, retaliation, or comparable process abuse.
+**Purpose.** Provide the forum-side mechanics for the Chapter Eleven cross-forum anti-self-judging rule, capture-sensitive routing, contest-integrity interfaces, and family-level capture activation. This subsection does not replace **CF-4** panel-formation rules, **CF-5** routing operations, **CF-8** forensic support, **CF-9** investigative-service boundaries, **CF-12** continuity rules, **CF-13** fallback rules, **CF-14** emergency-adjudication rules, or [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) contest-integrity monitoring. It tells those mechanisms what record, trigger, and boundary conditions must exist when the risk is that a forum, institution, system steward, or integrity process would otherwise judge its own capture, conflict, concealment, recusal failure, retaliation, or comparable process abuse.
 
 ### CF-7.3.1 Activation Threshold
 <details>
@@ -231,7 +231,7 @@ Anti-self-judging activation is available only where the record contains a non-f
 - credible allegations of capture, conflict, concealed dependency, retaliatory routing, recusal failure, evidence suppression, process abuse, or comparable integrity breach;
 - a documented inability to form an independent panel under **CF-4.9**;
 - a recusal or disclosure pattern that indicates coordinated manipulation, selective unavailability, or repeated failure to constitute a lawful bench;
-- contest-integrity findings under `corpus_institutions.md` **CI-7.3** showing pathway failure, chill, backlog abuse, evidence unavailability, or protected-escalation obstruction;
+- contest-integrity findings under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) showing pathway failure, chill, backlog abuse, evidence unavailability, or protected-escalation obstruction;
 - system-alignment recognition or revalidation facts showing that the same steward, operator, forum chain, or oversight line materially controls the evidence, classification, review cadence, and contest pathway being challenged.
 
 Mere dissatisfaction with a ruling, captioning a claim against a forum, or naming a forum actor as a witness does not activate backup routing. The activation finding must explain why independent merits review is materially necessary to preserve independence, contestability, or public trust under Chapter Eleven.
@@ -297,7 +297,7 @@ Where internal process remains available, the [forum case record](../core_05_ban
 
 <br>
 
-Contest-integrity monitors under `corpus_institutions.md` **CI-7.3** assess whether contest, secondary review, audit access, and protected escalation pathways function in practice. They may provide pattern findings, pathway records, independence observations, backlog data, escalation history, and evidence-availability information to support anti-self-judging activation, refusal, transfer, or remediation. They must not silently become the merits forum for the underlying dispute.
+Contest-integrity monitors under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) assess whether contest, secondary review, audit access, and protected escalation pathways function in practice. They may provide pattern findings, pathway records, independence observations, backlog data, escalation history, and evidence-availability information to support anti-self-judging activation, refusal, transfer, or remediation. They must not silently become the merits forum for the underlying dispute.
 
 Where feasible in cross-forum anti-self-judging cases, the **CF-4.10** (*Certifier for inability-to-form findings*) certifier should include or obtain review from contest-integrity or equivalent independent assurance capacity. The resulting monitor material must be kept distinct from case-specific forensic support under **CF-8** and from independent investigative-service work under **CF-9**. If monitor findings indicate material pathway failure beyond the case, the forum may refer the structural matter to remediation, external assurance, or **CI-8** (*Cross-institution coordination and escalation*) escalation while preserving the assigned merits forum for the dispute.
 

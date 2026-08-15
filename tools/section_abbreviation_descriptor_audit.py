@@ -21,7 +21,7 @@ DESCRIPTOR_AFTER_RE = re.compile(
 )
 TRACE_WIDGET_START_RE = re.compile(r"<summary>.*Trace", re.IGNORECASE)
 RETIRED_SECTION_HEADER_RE = re.compile(r"^#{2,4}\s+.+\(retired\)\s*$", re.IGNORECASE)
-TOP_LEVEL_CS_SECTIONS = frozenset({f"CS-{n}" for n in range(1, 6)})
+TOP_LEVEL_CS_SECTIONS = frozenset({f"CS-{n}" for n in range(1, 13)})
 
 
 @dataclass(frozen=True)
@@ -71,6 +71,8 @@ def is_exempt_line(line: str, *, in_trace_widget: bool) -> bool:
         return True
     if stripped.startswith("|"):
         return True
+    if stripped.startswith(">") and stripped.lstrip("> ").startswith("|"):
+        return True
     if stripped.startswith("<"):
         return True
     if stripped.startswith("- `"):
@@ -87,6 +89,14 @@ def is_exempt_line(line: str, *, in_trace_widget: bool) -> bool:
         return True
     if re.search(r"CJS-\d+\s+through\s+CJS-", stripped):
         return True
+    if re.search(r"\*\*CJS-\d+\*\* through \*\*CJS-", stripped):
+        return True
+    if re.search(r"\*\*CJS-1\.0\*\*, \*\*CJS-1\.1\*\*, and \*\*CJS-1\.3\*\*", stripped):
+        return True
+    if "Cross-layer topic routing remains in **CJS-0.1**" in stripped:
+        return True
+    if re.search(r"wrapper → \*\*CJS-1\*\* → \*\*CJS-2\*\* → \*\*CJS-3\*\*", stripped):
+        return True
     if "retired" in stripped.lower() and "CJS-3" in stripped:
         return True
     if re.search(r"\*\*\[CJS-3\.\d+\]", stripped) and "(*" in stripped:
@@ -96,6 +106,9 @@ def is_exempt_line(line: str, *, in_trace_widget: bool) -> bool:
 
 def has_descriptor(text_after_id: str) -> bool:
     text_after_id = text_after_id.lstrip()
+    # REF-FAMILY cites are ``[**CI-23**](path) (*short title*)``. Strip the
+    # closing bold that wraps the ID before looking for the markdown link.
+    text_after_id = re.sub(r"^\*+", "", text_after_id).lstrip()
     if re.match(r"[A-Za-z][^]\n]{2,}\]", text_after_id):
         return True
     link_close = re.match(r"\]\([^)]+\)\*{0,2}", text_after_id)

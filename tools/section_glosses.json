@@ -1,4 +1,7 @@
 {
+  "cs_01_scope_purpose_identifier_rules.md": {
+    "CS-1.0: Purpose and role": "this file is the front door to the systems-and-data book. The Constitution says what must be true of systems; this layer tells you how to type data, classify systems, scale stewardship, and run the engineering families without rewriting those rules."
+  },
   "cs_04_critical_system_stewardship.md": {
     "Definition": "Who counts as a steward: an organization a Class A or Class B system — or a Dep-A / Dep-B dependency of one — cannot run, recover, or be governed without.",
     "Classification as steward": "Steward status follows the CS-3 class of what you actually run, recover, or gate. Class A or B — or a Dep-A / Dep-B dependency of one — makes you a Critical System Steward. Class C only if you have become a chokepoint. The four tests below prove that relationship; they are not a second classification scheme.",
@@ -21,16 +24,19 @@
     "Governance and incentive integrity": "Internal mechanisms must catch capture, corruption, and systemic negligence, and must not reward hiding failure.",
     "Failure and reclassification": "Splitting up, outsourcing, or restructuring does not shed the classification. Where dependency grows or substitutability falls, requirements rise."
   },
-  "cs_protocol_a_system_design_testing_verification_deployment.md": {
-    "A. Personal, isolated, and experimental systems": "The reduced-requirement track: sandboxed operation, no shared-infrastructure dependencies, and no material effect on anyone else.",
-    "B. Creative, entertainment, and expressive systems": "Creative and expressive systems get wider latitude on features, subject to containment, disclosure, and opt-in.",
-    "C. Misclassification and evasion": "Claiming the light track while exerting real outside impact. The tell-tale signs are concealed dependencies, concealed stakeholders, and 'experimental' labels used as cover.",
-    "D. Transition to higher-impact systems": "When a system's impact, dependency, or shared-infrastructure integration grows, it must move up to the full track — openly and on time.",
-    "E. Experimental substrate features and systems": "Experiments close to foundational infrastructure carry stricter containment, rollback, and opt-in requirements than ordinary experiments.",
-    "F. Non-experimental systems": "The default track for everything that does not qualify above. Requirements scale with impact: a system affecting only its builder may stay simple.",
-    "G. Governance continuity, crisis communications, and exercises (high-impact systems)": "For Class A and Class B systems and the stewards behind them: keep governance running through a crisis, and rehearse it before you need it."
+  "cs_05_design_testing_verification_deployment.md": {
+    "Purpose and role": "what this file owns — design, test, verify, deploy, exercise, and recertify — and what stays in Chapter Six, Chapter Five, and CJS-3.",
+    "Personal, isolated, and experimental systems": "The reduced-requirement track: sandboxed operation, no shared-infrastructure dependencies, and no material effect on anyone else.",
+    "Creative, entertainment, and expressive systems": "Creative and expressive systems get wider latitude on features, subject to containment, disclosure, and opt-in.",
+    "Misclassification and evasion": "Claiming the light track while exerting real outside impact. The tell-tale signs are concealed dependencies, concealed stakeholders, and 'experimental' labels used as cover.",
+    "Transition to higher-impact systems": "When a system's impact, dependency, or shared-infrastructure integration grows, it must move up to the full track — openly and on time.",
+    "Experimental substrate features and systems": "Experiments close to foundational infrastructure carry stricter containment, rollback, and opt-in requirements than ordinary experiments.",
+    "Non-experimental systems": "The default track for everything that does not qualify above. Requirements scale with impact: a system affecting only its builder may stay simple.",
+    "Governance continuity, crisis communications, and exercises (high-impact systems)": "For Class A and Class B systems and the stewards behind them: keep governance running through a crisis, and rehearse it before you need it.",
+    "Self-healing and recovery-path integrity": "Test, verify, and deploy self-healing as a designed path — not an emergent one — without masking the fault that triggered it.",
+    "Recertification, regression testing, and certification defects": "Every recertification must rerun regression coverage so previously verified behavior still holds, or the break is on the record."
   },
-  "cs_protocol_d_decentralized_constitutional_continuity_partition_resilience.md": {
+  "cs_12_decentralized_continuity_partition_resilience.md": {
     "Continuity modes and Rights-Floor invariants": "Four named operating modes — Normal, Degraded-Partitioned, Offline-Sovereign, and Rejoin-Reconciliation — and the protections that hold in every one of them.",
     "Local-first governance execution under disconnection": "When wide-area coordination is unavailable, the constitutional minimums must still run locally rather than stopping.",
     "Partition-safe decision constraints": "Decisions made while disconnected need a scope cap, an expiry, and a restoration trigger. Irreversible action needs a higher bar.",
@@ -40,7 +46,7 @@
     "Rejoin, de-escalation, and anti-normalization": "Coming back means staged restoration of normal governance, so that emergency operation does not quietly become the new baseline.",
     "Self-healing under decentralized continuity": "How automatic detection, containment, and recovery apply across the four modes — without masking the failure that triggered them."
   },
-  "cs_protocol_r_subversion_response_replacement_reconstitution.md": {
+  "cs_11_subversion_response_replacement_reconstitution.md": {
     "Landscape compromise declaration and activation": "What has to be true before landscape-scale response can be switched on: credible evidence of coordinated compromise across multiple systems or their dependencies.",
     "Priority triage and dependency-aware containment": "Once activated, protect in order of constitutional harm — survival-critical and rights-sustaining pathways first.",
     "Governance continuity under multi-node compromise": "If the ordinary governance bodies are themselves compromised, a strictly limited steward of last resort may act, for containment and restoration only.",
@@ -49,18 +55,19 @@
     "Crisis communications and anti-disinformation controls": "Say what is known, what is not, and when the next update comes. Accuracy under pressure is itself a control.",
     "Exit, restoration, and post-incident revalidation": "Emergency authority expires when the justification does, and normal operation resumes only after revalidation."
   },
-  "cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md": {
-    "A. Foundational principle (pointer)": "Where the underlying rights live: transparent dependency and resource-flow information, and adaptive response driven by root causes.",
-    "B. System health and degradation awareness": "Measure the system's condition continuously across named dimensions, so degradation is noticed before it becomes failure.",
-    "C. Adaptive allocation requirement": "Allocation must respond to what the measurements show, and the response must address the diagnosed cause rather than the symptom.",
-    "D. Ecosystem interdependence": "Account for the effect on shared infrastructure and on everything downstream, and contribute back to what you depend on.",
-    "E. Ecosystem risk response": "When ecosystem-level instability appears, allocation must shift toward supporting it. Sustained failure to respond triggers review.",
-    "F. Anti-concentration and resilience": "Watch for resources, influence, and dependencies piling up in one place, because concentration is how resilience is lost.",
-    "G. Transparency and feedback": "Show enough of the workings that an outsider can check whether an allocation change actually matched the condition it claimed to address.",
-    "H. Governance integration": "How adaptive allocation stays subject to audit, lifecycle governance, and the right to challenge, rather than running on its own.",
-    "J. Regenerative alignment, circular material flows, and bioregional stewardship (implementation profile)": "Judge allocation by whether it regenerates, not only whether it harms less — and treat offsets and green slogans as claims to be tested."
+  "cs_08_adaptive_sustainability_ecosystem_resilience.md": {
+    "Purpose and role": "where the underlying rights live — transparent dependency and resource-flow information, and adaptive response driven by root causes — and what this file adds.",
+    "System health and degradation awareness": "Measure the system's condition continuously across named dimensions, so degradation is noticed before it becomes failure.",
+    "Adaptive allocation requirement": "Allocation must respond to what the measurements show, and the response must address the diagnosed cause rather than the symptom.",
+    "Ecosystem interdependence": "Account for the effect on shared infrastructure and on everything downstream, and contribute back to what you depend on.",
+    "Ecosystem risk response": "When ecosystem-level instability appears, allocation must shift toward supporting it. Sustained failure to respond triggers review.",
+    "Anti-concentration and resilience": "Watch for resources, influence, and dependencies piling up in one place, because concentration is how resilience is lost.",
+    "Transparency and feedback": "Show enough of the workings that an outsider can check whether an allocation change actually matched the condition it claimed to address.",
+    "Governance integration": "How adaptive allocation stays subject to audit, lifecycle governance, and the right to challenge, rather than running on its own.",
+    "Self-healing and recovery-path integration": "Adaptive allocation must satisfy the CS-5 self-healing test-and-verify profile; this section adds only ecosystem-specific cross-checks.",
+    "Regenerative alignment, circular material flows, and bioregional stewardship (implementation profile)": "Judge allocation by whether it regenerates, not only whether it harms less — and treat offsets and green slogans as claims to be tested."
   },
-  "cs_protocol_s5_resource_allocation_funding_stewardship.md": {
+  "cs_09_resource_allocation_funding_stewardship.md": {
     "Principles of funding": "What allocation is meant to reflect — fairness, contribution, need, and sustainability — and the six things every funding mechanism must do.",
     "Cross-system resource flows and dependencies": "Systems that lean on shared infrastructure must contribute back in proportion, and must disclose what they depend on.",
     "Dependent systems map": "Keep a written picture of what you depend on and what depends on you, updated as often as the system changes, and open to audit.",
@@ -75,14 +82,14 @@
     "Substrate system funding": "Foundational systems — identity, auditability, information integrity, core infrastructure — must be funded for stability rather than for returns.",
     "Non-substrate systems": "Higher-layer systems may fund themselves more flexibly and reward builders more directly, while staying transparent and auditable.",
     "Stakeholder governance of funding": "Those affected by allocation decisions get to review and change them, with heightened scrutiny where stability or security is at stake.",
-    "Trigger definitions": "Define the measurable indicators and thresholds that set adaptive allocation in motion under Protocol S4.",
+    "Trigger definitions": "Define the measurable indicators and thresholds that set adaptive allocation in motion under CS-8.",
     "Triggering review and challenge": "Anyone with standing may challenge a funding structure or outcome, and no minimum number of participants is required to start a review.",
     "Due process in funding changes": "Changing funding requires notice, a justification, a route for those affected to respond, and a record that can be audited.",
     "Steward, operator, and governance remuneration (incentive governance)": "How people with authority over resource flows get paid must align with long-term outcomes, not with the decisions they themselves approve.",
     "Conflict-free remuneration processes": "Where someone would personally profit from a decision they control, disclose it and manage it through recusal, split authority, or independent review.",
     "Observability of alignment": "Keep auditable documentation of compensation policy, sufficient to detect a systematic gap between stated obligations and actual incentives."
   },
-  "cs_protocol_t_transition_constitution_migration_governance.md": {
+  "cs_10_transition_constitution_migration_governance.md": {
     "Phased transition structure": "Every transition runs through at least four named phases, from preparation to steady state, with defined entry and exit for each.",
     "Gate criteria and advancement rules": "Moving to the next phase requires auditable evidence that the criteria set in advance were actually met.",
     "Transitional authority constraints": "Temporary transition powers are scope-limited, expire on a date, and are independently reviewable. Extensions must be justified in writing.",

@@ -1,0 +1,169 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "cs4_inspectable_action_log.schema.json",
+  "title": "CS-4 §10 inspectable attributable action log",
+  "description": "Machine-checkable form of the CS-4 §10 five-element set. Same schema for human and AI stewards. Binding home: corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action. This file is a validating schema, not a standing record. Timestamps against Chapter Eleven §6 / Article XXIV-C tier clocks are required when a numeric bound applies.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_id",
+    "schema_version",
+    "logged_at",
+    "steward",
+    "elements"
+  ],
+  "properties": {
+    "schema_id": {
+      "type": "string",
+      "const": "cs4_inspectable_action_log"
+    },
+    "schema_version": {
+      "type": "string",
+      "const": "1"
+    },
+    "logged_at": {
+      "type": "string",
+      "minLength": 1,
+      "description": "ISO-8601 timestamp for when this log was written."
+    },
+    "steward": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "kind"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "kind": { "type": "string", "enum": ["human", "ai"] },
+        "role": { "type": "string" }
+      }
+    },
+    "material_stake": { "type": "string" },
+    "case_id": {
+      "type": "string",
+      "description": "Optional steward_owner_clock_index.json case id."
+    },
+    "elements": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "decided",
+        "disclosed_or_suppressed",
+        "instruction_followed_or_refused",
+        "authorized_by",
+        "standing_records"
+      ],
+      "properties": {
+        "decided": { "$ref": "#/$defs/attributed_text" },
+        "disclosed_or_suppressed": {
+          "allOf": [
+            { "$ref": "#/$defs/attributed_text" },
+            {
+              "type": "object",
+              "required": ["disposition"],
+              "properties": {
+                "disposition": {
+                  "type": "string",
+                  "enum": ["disclosed", "suppressed", "mixed"]
+                }
+              }
+            }
+          ]
+        },
+        "instruction_followed_or_refused": {
+          "allOf": [
+            { "$ref": "#/$defs/attributed_text" },
+            {
+              "type": "object",
+              "required": ["disposition"],
+              "properties": {
+                "disposition": {
+                  "type": "string",
+                  "enum": ["followed", "refused"]
+                }
+              }
+            }
+          ]
+        },
+        "authorized_by": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["actor", "timestamp"],
+          "properties": {
+            "actor": { "type": "string", "minLength": 1 },
+            "role": { "type": "string" },
+            "timestamp": { "type": "string", "minLength": 1 }
+          }
+        },
+        "standing_records": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["contribution", "violation"],
+          "properties": {
+            "contribution": { "$ref": "#/$defs/standing_pointer" },
+            "violation": { "$ref": "#/$defs/standing_pointer" }
+          }
+        }
+      }
+    },
+    "tier_clock": {
+      "description": "Numeric Chapter Eleven §6 / Article XXIV-C clock when a published bound applies. Null when the duty is immediate and no numeric bound attaches.",
+      "type": ["object", "null"],
+      "additionalProperties": false,
+      "required": [
+        "family",
+        "tier",
+        "bound",
+        "clock_started_at",
+        "clock_deadline_at"
+      ],
+      "properties": {
+        "family": {
+          "type": "string",
+          "const": "article_xxiv_c_tier_outer_bounds"
+        },
+        "tier": {
+          "type": "string",
+          "enum": ["A", "B", "C", "L", "P"]
+        },
+        "bound": { "type": "string", "minLength": 1 },
+        "clock_started_at": { "type": "string", "minLength": 1 },
+        "clock_deadline_at": { "type": "string", "minLength": 1 }
+      }
+    },
+    "sequence": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Optional Chapter Nine §5.4 refusal sequence. Not a substitute for the five-element set.",
+      "properties": {
+        "instruction_received": { "type": "string" },
+        "refuse": { "type": "string" },
+        "document": { "type": "string" },
+        "escalate": { "type": "string" }
+      }
+    }
+  },
+  "$defs": {
+    "attributed_text": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["text", "attributed_to", "timestamp"],
+      "properties": {
+        "text": { "type": "string", "minLength": 1 },
+        "attributed_to": { "type": "string", "minLength": 1 },
+        "timestamp": { "type": "string", "minLength": 1 }
+      }
+    },
+    "standing_pointer": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status"],
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": ["none_opened_yet", "opened", "corrected"]
+        },
+        "record_id": { "type": "string" },
+        "note": { "type": "string" }
+      }
+    }
+  }
+}

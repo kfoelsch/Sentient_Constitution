@@ -38,6 +38,7 @@
 - A: Judge under the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), scaled to [material stake](../core_00_preamble.md#material-stake). Ask whether oversight is real — able to see problems and change outcomes — not just ceremony. Read with [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), [Transparency](core_05_band_oversight.md#transparency), and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance).
 <a id="oversight-constitutional-c"></a>
 - C: Non-compliant when: there is no real oversight path where one is materially required; oversight cannot actually change outcomes; the supervised system alone controls the oversight; labels or ceremonies with no real change to governed behavior; or [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the sole auditing process.
+
 ---
 
 <a id="oversight-tetrad-leg-decomposition"></a>

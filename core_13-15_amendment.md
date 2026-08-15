@@ -60,7 +60,7 @@ Permitted expansion of protection, supremacy sequencing, ratification, and proce
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Thirteen](#chapter-thirteen-non-regression-and-substantive-amendment-validity) opening floor list (Chapters One through Four, Ten, Eleven); integrated definitions — [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) (canonical O/M/A/C under [Truth and Epistemic Integrity](core_05_band_continuity.md#truth-and-epistemic-integrity-cluster)), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), and related floors named in operative text ([Chapter Five definitions](core_05__definitions_home.md#chapter-five-foundational-definitions)).
+- Upstream: [Chapter Thirteen](#chapter-thirteen-non-regression-and-substantive-amendment-validity) opening floor list (Chapters One through Four, Ten, Eleven); integrated definitions — [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) (canonical O/M/A/C under [Truth and Epistemic Integrity](core_05_band_oversight.md#truth-and-epistemic-integrity-cluster)), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), and related floors named in operative text ([Chapter Five definitions](core_05__definitions_home.md#chapter-five-foundational-definitions)).
 - Downstream: [§3](#2-test-1-substantive-non-regression-validity) Test 1 inventory; [§11](#3-anti-evasion-clause-and-constitutional-misconduct-referral) anti-evasion and referral triggers.
 - Read with: [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) for Rights-Floor specifics; [Chapters Two through Four](core_02-03_definition_mechanics.md) for verification, standing gates, and observability as potential indirect narrowing vectors.
 
@@ -182,7 +182,7 @@ Chapter Fourteen is the constitutional owner of **additive expansion of protecti
 - Upstream: [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) non-regression and Test 1; [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack), [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack), and related [Corpus](core_05_band_integrative.md#corpus) boundary concepts.
 - Subsections: [§1](#1-additive-expansion-permitted)–[§3](#2-continuity-of-supremacy-and-challenge-rights-during-amendment); [§11](#3-supremacy-relative-to-other-binding-norms)–[§2](#4-disputes-involving-external-legal-orders).
 - Downstream: [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) adoption and supremacy continuity during amendment; [Article XXIII-A](core_06-06_rights_part_d.md) (*Justice Objective and Scope*) review pathways preserved against external process gaps; [Chapter Ten, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) where external-order interfaces implicate waiver or pseudo-contract devices.
-- Read with: **[corpus_systems.md](corpus_systems.md)** and **Protocol C** references in operative text on cross-jurisdiction execution; [Chapter Nine §8 — *Enforcement realism*](core_09-09_standing_integration.md#9-enforcement-realism) where cited in §3.3; [Corpus and Authority Stack](core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (**Def.I1** cluster — read with [Corpus](core_05_band_integrative.md#corpus) for custody and adoption).
+- Read with: **[corpus_systems.md](corpus_systems.md)** and **CS-7** references in operative text on cross-jurisdiction execution; [Chapter Nine §8 — *Enforcement realism*](core_09-09_standing_integration.md#9-enforcement-realism) where cited in §3.3; [Corpus and Authority Stack](core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (**Def.I1** cluster — read with [Corpus](core_05_band_integrative.md#corpus) for custody and adoption).
 
 </details>
 
@@ -274,7 +274,7 @@ Where valid external law, regulation, or treaty obligation applicable to the ado
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter One §8.1](#31-internal-hierarchy-for-adopters)–[Chapter One §8.2](#32-stricter-external-protections) hierarchy and stricter-external rule.
-- Downstream: [§2](#4-disputes-involving-external-legal-orders) cooperation and preserved internal pathways; **Protocol C** and [Chapter Nine §8 — *Enforcement realism*](core_09-09_standing_integration.md#9-enforcement-realism) as cited in operative bullets.
+- Downstream: [§2](#4-disputes-involving-external-legal-orders) cooperation and preserved internal pathways; **CS-7** and [Chapter Nine §8 — *Enforcement realism*](core_09-09_standing_integration.md#9-enforcement-realism) as cited in operative bullets.
 - Read with: **[corpus_systems.md](corpus_systems.md)** cross-jurisdiction and anti-evasion controls referenced in operative text.
 
 </details>
@@ -289,7 +289,7 @@ Where external requirements appear irreconcilable with constitutional Rights Flo
 - pursue feasible harmonization and least-harm sequencing.
 - **not** treat external norms as a pretext for selective compliance, forum shopping, reincorporation arbitrage, or evasion of Rights-Floor obligations.
 
-Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_systems.md](corpus_systems.md)**, **Protocol C — Justice Safeguards, Restitution, and Rehabilitation Implementation**. That Protocol includes Cross-Jurisdiction Execution and Anti-Evasion Controls. Execution also follows [Chapter Nine §8 — *Enforcement realism*](core_09-09_standing_integration.md#9-enforcement-realism), where applicable.
+Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_systems.md](corpus_systems.md)**, **CS-7** (*Justice safeguards, restitution, and rehabilitation*). **CS-7 §9** includes Cross-Jurisdiction Execution and Anti-Evasion Controls. Execution also follows [Chapter Nine §8 — *Enforcement realism*](core_09-09_standing_integration.md#9-enforcement-realism), where applicable.
 
 ### 4. Disputes Involving External Legal Orders
 <details>
@@ -565,6 +565,8 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 
 This Constitution binds a steward, organization, federation of bodies, or jurisdiction only when adoption is deliberate, documented, and auditable. Auditability must meet a standard proportionate to system class, material impact, and dependency under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**. Informal, partial, or undisclosed adoption is insufficient to claim constitutional protections as a shield while denying corresponding obligations.
 
+When the adopter is a jurisdiction or polity, the recorded mechanism must include a published affected-sentient participation check — contested election, sortition, federated ratification, or another [Chapter Twelve §1.2](core_12-12_governance.md#12-eligibility-contested-selection-and-democratic-minimums)-compliant path. Silent board resolution, undisclosed executive instrument, or "we kind of follow it" practice is not enough for a polity to claim constitutional adoption. Organizations, system operators, and system-developer consortia remain able to adopt through the existing deliberate, documented, and auditable path without that polity participation check.
+
 #### 10.2 Instrument of Adoption
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -584,6 +586,7 @@ Adopters must maintain an identifiable instrument of adoption. Examples include 
 - identify the custodian of the authoritative edition of this Constitution and its integrated implementation files.
 - be consistent with document-control expectations in [README.md](README.md) and [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) (authoritative corpus, edition identifier, custody chain).
 - be consistent with **Corpus** in Chapter Five ([core_05__definitions_home.md](core_05_band_integrative.md#corpus)).
+- where [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) is in adoption scope, name the reduction, cap, or interruption measures required by that Article in the instrument or in incorporated implementation it pins — not a core-chosen numeric target.
 
 #### 10.3 Joining by additional parties
 <details>

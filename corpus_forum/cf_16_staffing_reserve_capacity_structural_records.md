@@ -91,8 +91,8 @@ Every forum family must maintain a composition framework that, at minimum:
 
 Detailed appointment, tenure, rotation, removal, and conflict-control pathways remain governed elsewhere:
 
-- `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*);
-- `corpus_institutions.md` **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*);
+- [**CI-4**](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*);
+- [**CI-5**](../corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) (*Conflict integrity, anti-capture, and anti-corruption*);
 - `core_06-06_rights_part_d.md` **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) where applicable.
 
 **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*) requires those protections to be reflected in the actual forum map and staffing model.
@@ -106,7 +106,7 @@ Specialized seat categories, chamber qualifications, or role-specific competence
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Twelve §5](../core_12-12_governance.md#5-authorized-roles-competency-development-and-contribution) authorized roles, competency development, and contribution; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: **CF-16.1.1**; **CF-16.1**; **CF-16.2**; **CF-4**; **CF-8**; `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*) and **CI-12** (*Transparency, participation, and accessible pathways*).
+- Read with: **CF-16.1.1**; **CF-16.1**; **CF-16.2**; **CF-4**; **CF-8**; [**CI-4**](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) and **CI-12** (*Transparency, participation, and accessible pathways*).
 
 </details>
 
@@ -231,7 +231,7 @@ The following patterns are non-compliant:
 - nominally independent specialist chambers that depend on the regulated sector, dominant profession, or interested institution for member selection, promotion, or livelihood in ways that predictably distort adjudication;
 - reserve-capacity designs that exist formally but cannot realistically be activated on short notice.
 
-Repeated resort to these patterns may be treated as a capture, evasion, or contestability failure under `corpus_institutions.md` **CI-8** (*Cross-institution coordination and escalation*) and related integrity provisions.
+Repeated resort to these patterns may be treated as a capture, evasion, or contestability failure under [**CI-8**](../corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) (*Cross-institution coordination and escalation*) and related integrity provisions.
 
 ### CF-16.5 Structural review and revision cadence
 

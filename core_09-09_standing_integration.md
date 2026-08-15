@@ -17,7 +17,7 @@
 >
 > Read this chapter in order: immutable Chapter Eight inputs; integration record and decision order; descriptor integration and attachment normalization; violation, correction, and prevention (remedy and correction, general standing locks, then voluntary public accountability expression where used); lock design and enforcement (definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, and special locks); contribution consequences (recency and currentness, then competency bars and clearances); final standing effect; restoration and reassessment; enforcement realism and remedy systems; pattern applications and Question 3 routing.
 >
-> **Steward door (non-operative):** A form on paper is not remedy. Start intake, preservation, review, and repair from the verified violation record. Four-field cards for this and the other named use stacks live in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) (process support, not binding).
+> **Steward door (non-operative):** Binding next-step statement: [Operative steward statement](#operative-steward-statement-remedy). Support cards in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) cannot narrow it.
 
 </details>
 
@@ -33,6 +33,9 @@
 <br>
 
 Chapter Nine is the constitutional owner of **standing integration and standing effects**, including attachments, the consequence-facing use of Chapter Eight descriptors, standing locks, remedy assignment, voluntary public accountability expression, and enforcement anchors.
+
+<a id="operative-steward-statement-remedy"></a>
+> **Operative steward statement.** **Owner:** Chapter Nine §4.1 (assign remedy and correction from the verified violation record). Chapter Nine §9 (consequences must be institutionally real). Rights-Floor challenge and redress: Article XII-B. **Forbidden move:** Do not treat a published form as remedy. Do not wait for a filed case to preserve evidence. Do not externalize cost onto those harmed. **Clock:** Start intake, preservation, review, and repair now. Do not wait for a filed case to preserve evidence.
 
 Question 3 of the standing pipeline applies the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) when converting verified Chapter Eight standing records into consequences.
 <a id="1-immutable-chapter-eight-inputs"></a>
@@ -316,7 +319,8 @@ These rules shape how a lock or safeguard is attached under [§5.1](#51-definiti
 <a id="54-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
 **Duty to resist.**
 
-*Steward door (non-operative):* Instruction received → refuse → document → escalate. Same sequence for human and AI stewards. Operator screen: [`implementation/STEWARD_ENTRY_DOORS.md#duty-to-resist`](implementation/STEWARD_ENTRY_DOORS.md#duty-to-resist) (process support, not binding).
+<a id="operative-steward-statement-unlawful-instruction"></a>
+> **Operative steward statement.** **Owner:** Chapter Nine §5.4 Duty to resist. Shared standard: Chapter One §9.1.1. Contest floor: Article XII-B. **Forbidden move:** Do not comply. Do not treat cover as a transfer of duty. Do not close contest pathways to be helpful. **Clock:** Run instruction received → refuse → document → escalate on the shared screen now. Preserve contest pathways.
 
 - **Named pathway / finding:**
   - No instruction, order, policy, or contract requiring unlawful or unconstitutional conduct creates a valid compliance defense.
@@ -676,6 +680,8 @@ The following violate this rule where they foreseeably nullify challenge or reme
 - chronic underfunding;
 - dependence on a single fragile office; or
 - chronic milestone failure.
+
+Under-appointment of **Integrity**, **Constitutional**, or **Environment** forum benches, or of **Technical Forum Domains** benches that hear sentience-status adjudication, is a durability failure under this subsection, read with [Chapter Twelve §1.2](core_12-12_governance.md#12-eligibility-contested-selection-and-democratic-minimums).
 
 <a id="83-cross-jurisdiction-continuity"></a>
 <a id="93-cross-jurisdiction-continuity"></a>

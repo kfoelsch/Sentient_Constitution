@@ -2,91 +2,71 @@
 
 **Purpose:** Enable token-efficient AI access to the constitutional corpus while preserving human readability.
 
+**Authority:** These indexes are **derived locators**. Numbered `core_*` files and incorporated companions bind. On conflict, source text wins. Indexes cannot narrow core meaning.
+
 ---
 
 ## Quick Start for AI Assistants
 
 ### Before You Read Any File
 
-1. **Check the Section Manifest First** → `ai_corpus/indexes/section_manifest.json`
-   - Find exact line ranges for any section
-   - Avoid reading entire files when only a section is needed
+1. **High-pressure fact pattern** → `implementation/STEWARD_ENTRY_DOORS.md` or `implementation/steward_owner_clock_index.json`
+   - Owner, next-step class, forbidden move, clock
+   - Verify the card against the boxed operative steward statement in the named core home
 
-2. **For Definition Lookups** → `ai_corpus/indexes/definition_registry.json`
-   - Locate any term's authoritative definition instantly
-   - Get O/M/A/C component boundaries for precise reading
+2. **ID, topic, term, or fossil alias** → `ai_corpus/indexes/id_resolver.json`
+   - `CF-10`, `CJS-3.13`, `CS-4`, `CI-12`, `Def.P1`
+   - CJS-0.1 topic rows (`CJS-R09` and the topic string)
+   - Chapter Five terms (file + line range; no duty text in the index)
+   - Current-numbering vs fossil anchors (e.g. `#54-…` beside `#411-…`)
 
-3. **For Cross-Reference Analysis** → `ai_corpus/indexes/crossref_matrix.json`
-   - See which files reference which
-   - Plan multi-file edits efficiently
+3. **Heading line range** → `ai_corpus/indexes/section_manifest.json`
+   - Read only those lines from the source file
+
+4. **Then open the named source.** Do not treat a locator, gloss, or steward card as a duty.
 
 ---
 
 ## Optimal Reading Patterns
 
-### Pattern 1: Definition-First Editing
-
-**Use when:** Editing content that references defined terms
+### Pattern 1: Locate, then read
 
 ```
-Step 1: Query ai_corpus/indexes/definition_registry.json
-        → Get line range for the definition
-        
-Step 2: Read only those lines using read_file with offset/limit
-        → Capture O/M/A/C components completely
-        
-Step 3: Read your target section using manifest
-        → Get exact line range
-        
-Step 4: Edit with confidence
+Step 1: Query ai_corpus/indexes/id_resolver.json
+        → file, anchor, line (and mandatory read-with for topics)
+
+Step 2: Read only those lines from the source file
+
+Step 3: If the locator and the source disagree, the source wins
 ```
 
-**Example:**
-```python
-# Instead of reading entire file:
-# read_file("core_05__definitions_home.md")  # 1,300 lines!
-
-# Query manifest for "Proportionality"
-# Result: lines 1100-1119
-
-# Read only definition entry:
-read_file("core_05__definitions_home.md", offset=1100, limit=20)
-```
-
-### Pattern 2: Cross-File Reference Audit
-
-**Use when:** Renaming a term or checking consistency
+### Pattern 2: Definition lookup
 
 ```
-Step 1: Query ai_corpus/indexes/crossref_matrix.json
-        → Get list of files referencing the target
-        
-Step 2: For each referencing file, query section manifest
-        → Get exact sections containing references
-        
-Step 3: Read only those sections
-        → Not entire files
-        
-Step 4: Batch edit with apply_diff
+Step 1: Query id_resolver.json definitions[] or definition_registry.json
+        → Get line range for the term
+
+Step 2: Read only those lines (complete O/M/A/C block)
+
+Step 3: Do not copy definition text into JSON or invent a parallel stack
 ```
 
-### Pattern 3: Definition Entry Extraction
-
-**Use when:** Adding or modifying definitions
+### Pattern 3: Cross-file topic
 
 ```
-Step 1: Read adjacent definitions using manifest
-        → Understand alphabetical placement
-        
-Step 2: Follow template structure:
-        #### Term Name
-        <details> [Trace block] </details>
-        <details> [DEFINITION: O/M/A/C] </details>
-        <details> [COMPLIANCE] </details>
-        ---
-        
-Step 3: Run `make ai-corpus-sync`
-        → Regenerate source-derived entry with line range
+Step 1: Query id_resolver.json topics[] or doc_architecture/generated/topic_router.json
+        → primary owner file(s) + mandatory read-with files
+
+Step 2: Read the owner, then each listed read-with
+
+Step 3: Apply Chapter One §8.4.4 combined satisfaction; do not skip read-with
+```
+
+### Pattern 4: Citation / rename audit
+
+```
+File-to-file:   ai_corpus/indexes/crossref_matrix.json
+Section-to-section: ai_corpus/indexes/section_crossref.json
 ```
 
 ---
@@ -95,93 +75,50 @@ Step 3: Run `make ai-corpus-sync`
 
 ### Safe Chunk Boundaries (Split Here)
 
-- ✅ After `---` horizontal rules
-- ✅ Before `### ` or `#### ` headers
-- ✅ After `</details>` closing tags
-- ✅ Between definition entries
-- ✅ At empty lines between major sections
+- After `---` horizontal rules
+- Before `### ` or `#### ` headers
+- After `</details>` closing tags
+- Between definition entries
+- At empty lines between major sections
 
 ### Unsafe Chunk Boundaries (Never Split Here)
 
-- ❌ Inside O/M/A/C component triplets
-- ❌ Inside `<details>...</details>` blocks
-- ❌ Inside cross-reference lists
-- ❌ Inside tables
-- ❌ Mid-sentence or mid-paragraph
-
----
-
-## Token Budget Guidelines
-
-| Task Type | Recommended Budget | Optimization Strategy |
-|-----------|-------------------|----------------------|
-| Single definition edit | 500-1,000 tokens | Manifest-guided section read |
-| Cross-file consistency | 1,000-2,000 tokens | Matrix-guided targeted reads |
-| New definition addition | 800-1,500 tokens | Adjacent context only |
-| Full article review | 2,000-3,000 tokens | Section-by-section manifest reads |
-| Architecture decision | 3,000-5,000 tokens | Tier 1-3 context + manifests |
+- Inside O/M/A/C component triplets
+- Inside `<details>...</details>` blocks
+- Inside cross-reference lists
+- Inside tables
+- Mid-sentence or mid-paragraph
 
 ---
 
 ## File Access Priority
 
-### Tier 1: AI Indexes (Check First)
+### Tier 1: Locators (check first)
 
-1. `ai_corpus/indexes/section_manifest.json` - Section locations
-2. `ai_corpus/indexes/crossref_matrix.json` - Reference graph
-3. `ai_corpus/indexes/definition_registry.json` - Definition locations
+1. `ai_corpus/indexes/id_resolver.json` — IDs, topics, terms, aliases, steward-door pointers
+2. `ai_corpus/indexes/section_manifest.json` — heading line ranges
+3. `implementation/STEWARD_ENTRY_DOORS.md` — high-pressure next step (process support)
 
-### Tier 2: Architecture Context
+### Tier 2: Architecture context
 
-4. `doc_architecture.md` - File ownership and boundaries
-5. `README.md` - Reading order and fast locator
+4. `README.md` — reading order and common lookups
+5. `doc_architecture.md` — file ownership and boundaries
+6. `doc_architecture/generated/topic_router_reader_index.md` — human topic map
 
-### Tier 3: Implementation Details
+### Tier 3: Binding source
 
-6. `corpus_systems.md` - System classification
-7. `corpus_institutions.md` - Institutional rules
-8. `corpus_forum.md` - Forum procedures
-
----
-
-## Quick Reference: Core File Inventory
-
-| File | Lines | Primary Content |
-|------|-------|-----------------|
-| core_00_preamble.md | ~272 | Preamble — triad, material stake, CCL/SSP layering |
-| core_01_a_values_principles.md | ~756 | Chapter One, Part A — Values Principles (§§1–5) |
-| core_01_b_interaction_interpretation.md | ~646 | Chapter One, Part B — §§6–8 (interaction → override limits → interpretation) |
-| core_01_c_stewardship_capacity_principles.md | ~1,078 | Chapter One, Part C — §§9–14 (stewardship → evaluation → integrated capstone) |
-| core_02-03_definition_mechanics.md | ~310 | O/M/A/C structure; definition integrity and evasion (Ch 2–3) |
-| core_04-04_burden_traceability_verification.md | ~340 | Burden of proof, traceability, verification (Ch 4) |
-| core_05__definitions_home.md | ~1,300 | Independent definitions A-Z |
-| core_05-05_definitions_b_semi_independent.md | ~1,900 | Semi-independent definitions |
-| core_05-05_definitions_c_dependent_clusters.md | ~1,800 | Dependent definition clusters |
-| core_08-08_standing_assessment.md | ~880 | Two-axis standing model |
-| core_09-09_standing_integration.md | ~780 | Standing effects, integration |
-| core_10_a_misconduct_designation.md | ~410 | Anti-constitutional misconduct — designation (Part A) |
-| core_10_b_misconduct_pattern_applications.md | ~630 | Anti-constitutional misconduct — pattern applications (Part B) |
-| core_11-11_forum.md | ~380 | Forums, jurisdiction |
-| core_06-06_rights_part_a.md | ~630 | Articles I-IV |
-| core_06-06_rights_part_b.md | ~1,380 | Articles V-XI |
-| core_06-06_rights_part_c.md | ~1,600 | Articles XII-XXII |
-| core_06-06_rights_part_d.md | ~560 | Articles XXIII-XXV |
-| core_12-12_governance.md | ~330 | Constitutional contract |
-| core_13-15_amendment.md | ~640 | Non-regression, amendment |
-| core_16-16_incorporation.md | ~160 | Incorporation bridge |
-| corpus_systems.md | ~2,170 | Systems protocols S1-S5 |
-| corpus_institutions.md | ~940 | Institutional governance CI-1-24 |
-| corpus_forum.md | ~1,150 | Forum operations |
-| corpus_joint_structure.md + corpus_joint_structure/*.md | wrapper + ~1,730 | Cross-domain implementation |
+7. Named `core_*` file or companion subfile from the locator
+8. Mandatory read-with files from the topic row
 
 ---
 
-## Visual Dependency Map
+## Current corpus shape (do not use retired filenames)
 
-See `ai_corpus/visualization/dependency_map.mmd` for a Mermaid diagram showing:
-- Core constitutional files as primary nodes
-- Companion files as secondary nodes
-- Cross-reference edges with thickness indicating density
+Chapter Five lives in **band and apex files** (`core_05_band_*.md`, `core_05_apex_*.md`), with Part A compass in `core_05__definitions_home.md`. Companions are **folders** (`corpus_systems/`, `corpus_institutions/`, `corpus_forum/`, `corpus_joint_structure/`) plus root wrappers. Rights Floor is **Chapter Six** (`core_06-06_rights_part_*.md`). Standing measurement is **Chapter Eight**; standing effects are **Chapter Nine**.
+
+Inventory of current files: `ai_corpus/visualization/dependency_map.mmd` (generated file list, not a citation-weight graph). Citation edges: `crossref_matrix.json` and `section_crossref.json`.
+
+Retired pilots under `ai_corpus/definitions/` are not a lookup path.
 
 ---
 

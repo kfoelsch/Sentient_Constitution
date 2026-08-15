@@ -1,0 +1,178 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "sentience_status_adjudication_record.schema.json",
+  "title": "Sentience-Status Adjudication Record",
+  "description": "Machine-checkable form of the Chapter Five Sentience-Status Adjudication Record. Binding homes: Article V-E (Sentience-Status Adjudication Floor); Def.P1 Sentience-Status Adjudication Record; Chapter Eleven §5 Sentience-status adjudication hook. This file is a validating schema, not a standing record and not who-counts. This schema cannot decide who counts.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_id",
+    "schema_version",
+    "subject_entity",
+    "status_determination_or_live_contested_posture",
+    "lead_forum_family",
+    "chapter_eleven_special_route",
+    "indicators_and_expert_evidence",
+    "interim_contested_sentient_life_treatment",
+    "narrowing",
+    "reopening_evidence_standard"
+  ],
+  "properties": {
+    "schema_id": {
+      "type": "string",
+      "const": "sentience_status_adjudication_record"
+    },
+    "schema_version": {
+      "type": "string",
+      "const": "1"
+    },
+    "recorded_at": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Optional ISO-8601 timestamp for when this record was written. Inspectability aid; not a standing timestamp."
+    },
+    "case_id": {
+      "type": "string",
+      "description": "Optional forum case identifier. This record is not the whole Forum Case Record."
+    },
+    "subject_entity": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Who or what was reviewed. Identity only — this schema cannot decide who counts.",
+      "required": ["id"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "label": { "type": "string" }
+      }
+    },
+    "status_determination_or_live_contested_posture": {
+      "type": "string",
+      "enum": [
+        "affirmed",
+        "narrowed",
+        "revoked",
+        "restored",
+        "still contested"
+      ],
+      "description": "Status determination or live contested posture. Not a who-counts taxonomy and not a standing effect."
+    },
+    "lead_forum_family": {
+      "type": "string",
+      "enum": [
+        "Technical Forum Domains",
+        "Constitutional",
+        "Integrity",
+        "Institutional",
+        "Environment",
+        "Sentient"
+      ],
+      "description": "Lead forum family. Default under Chapter Eleven §5 is Technical Forum Domains."
+    },
+    "chapter_eleven_special_route": {
+      "type": "string",
+      "enum": [
+        "none",
+        "Constitutional",
+        "Integrity",
+        "Institutional"
+      ],
+      "description": "Any Chapter Eleven–warranted special route actually used. Use none when the default Technical Forum Domains lead applies with no special route."
+    },
+    "indicators_and_expert_evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "indicators",
+        "expert_evidence",
+        "material_uncertainty_noted"
+      ],
+      "properties": {
+        "indicators": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Indicators relied on. This field records what was used; it does not decide who counts."
+        },
+        "expert_evidence": {
+          "type": "string",
+          "minLength": 1
+        },
+        "material_uncertainty_noted": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Material uncertainty must be noted. Unresolved uncertainty alone cannot withhold Chapter Six protection."
+        }
+      }
+    },
+    "interim_contested_sentient_life_treatment": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Interim Contested-Sentient Life treatment while status remains live.",
+      "required": ["status_remains_live", "treatment"],
+      "properties": {
+        "status_remains_live": { "type": "boolean" },
+        "treatment": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "narrowing": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Any narrowing's declared expected-closure timeline and mandatory periodic-review trigger. Null timeline fields only when this record is not a narrowing.",
+      "required": [
+        "expected_closure_timeline",
+        "periodic_review_trigger"
+      ],
+      "properties": {
+        "expected_closure_timeline": {
+          "type": ["string", "null"],
+          "minLength": 1
+        },
+        "periodic_review_trigger": {
+          "type": ["string", "null"],
+          "minLength": 1
+        }
+      }
+    },
+    "reopening_evidence_standard": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["standard", "calendar_only_reopening"],
+      "properties": {
+        "standard": {
+          "type": "string",
+          "const": "new verified evidence"
+        },
+        "calendar_only_reopening": {
+          "type": "string",
+          "const": "forbidden"
+        }
+      }
+    }
+  },
+  "if": {
+    "properties": {
+      "status_determination_or_live_contested_posture": {
+        "const": "narrowed"
+      }
+    },
+    "required": ["status_determination_or_live_contested_posture"]
+  },
+  "then": {
+    "properties": {
+      "narrowing": {
+        "properties": {
+          "expected_closure_timeline": {
+            "type": "string",
+            "minLength": 1
+          },
+          "periodic_review_trigger": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    }
+  }
+}

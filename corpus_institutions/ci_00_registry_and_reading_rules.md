@@ -1,4 +1,4 @@
-# Institutions registry and identifier rules
+# CI-0: Institutions registry and identifier rules
 
 *In plain terms: this file is the institutions **registry annex** — how CI section labels work, the stable family map, and institutions-only domain routing for integrators. Start reading at [corpus_institutions.md](../corpus_institutions.md); continue in order at [ci_01_scope_purpose_legitimacy_interface.md](ci_01_scope_purpose_legitimacy_interface.md).*
 
@@ -8,8 +8,7 @@
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
 >
 > **Edition and alignment**
-> - **Corpus edition:** `SC-Corpus-2026.04.34` · **Effective date:** 2026-06-17
-> - These labels track the same edition metadata as the numbered `core_*.md` files (see [README.md](../README.md)), [corpus_joint_structure.md](../corpus_joint_structure.md), [corpus_systems.md](../corpus_systems.md), and [corpus_forum.md](../corpus_forum.md).
+> - **Corpus edition and effective date:** inherit from [README.md](../README.md). Do not stamp a second edition in this annex.
 >
 > **Status**
 > - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05_band_integrative.md#corpus) and [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) designate it.
@@ -75,38 +74,9 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 
 <br>
 
-*In plain terms: this is the table of contents for the institutions folder — stable families, each with a home file.*
+*In plain terms: the human table of contents for this folder lives on the [Institutions landing page](../corpus_institutions.md). This annex does not duplicate that index.*
 
-*Filename note:* after the narrative reorder, each `ci_NN_*` prefix matches its **CI-*NN*** section number (for example `ci_08_*` is **CI-8** transparency, and `ci_12_*` is **CI-12** coordination). There is no **CI-2** family file; institutions domain routing lives in this annex.
-
-| Family | What it covers | Start here |
-|---|---|---|
-| **CI-1** | Scope, purpose, and legitimacy interface | [ci_01_scope_purpose_legitimacy_interface.md](ci_01_scope_purpose_legitimacy_interface.md) |
-| **CI-3** | Institutional design, separation of powers, and authority custody | [ci_03_institutional_design_separation_of_powers.md](ci_03_institutional_design_separation_of_powers.md) |
-| **CI-4** | Appointment, competency, rotation, and removal | [ci_04_appointment_competency_rotation_removal.md](ci_04_appointment_competency_rotation_removal.md) |
-| **CI-5** | Conflict integrity, anti-capture, and anti-corruption | [ci_05_conflict_integrity_anti_capture_anti_corruption.md](ci_05_conflict_integrity_anti_capture_anti_corruption.md) |
-| **CI-6** | Procedure integrity, contestability, and secondary review | [ci_06_procedure_integrity_contestability_secondary_review.md](ci_06_procedure_integrity_contestability_secondary_review.md) |
-| **CI-7** | Oversight, assurance, controls, and evidence | [ci_07_oversight_assurance_controls_evidence.md](ci_07_oversight_assurance_controls_evidence.md) |
-| **CI-8** | Transparency, participation, and accessible pathways | [ci_08_transparency_participation_accessible_pathways.md](ci_08_transparency_participation_accessible_pathways.md) |
-| **CI-9** | Classification-linked institutional obligations | [ci_09_classification_linked_institutional_obligations.md](ci_09_classification_linked_institutional_obligations.md) |
-| **CI-10** | Public revenue, fees, recurring charges, and billing integrity | [ci_10_public_revenue_fees_recurring_charges_billing_integrity.md](ci_10_public_revenue_fees_recurring_charges_billing_integrity.md) |
-| **CI-11** | Resource stewardship and incentive integrity | [ci_11_resource_stewardship_incentive_integrity.md](ci_11_resource_stewardship_incentive_integrity.md) |
-| **CI-12** | Cross-institution coordination and escalation | [ci_12_cross_institution_coordination_escalation.md](ci_12_cross_institution_coordination_escalation.md) |
-| **CI-13** | Institutional failure, sanctions, dissolution, and accountability | [ci_13_institutional_failure_sanctions_dissolution_accountability.md](ci_13_institutional_failure_sanctions_dissolution_accountability.md) |
-| **CI-14** | Transitional governance and institutional evolution | [ci_14_transitional_governance_institutional_evolution.md](ci_14_transitional_governance_institutional_evolution.md) |
-| **CI-15** | Neurodiversity, disability justice, and trauma-informed participation | [ci_15_neurodiversity_disability_justice_trauma_informed_participation.md](ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) |
-| **CI-16** | Care labor, dependent support, respite, and care-economy fairness | [ci_16_care_labor_dependent_support_respite_care_economy_fairness.md](ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) |
-| **CI-17** | End-of-life continuity, memorial dignity, and posthumous-data stewardship | [ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md](ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md) |
-| **CI-18** | Collective public health, epidemic response, and addiction-informed care | [ci_18_collective_public_health_epidemic_response_addiction_informed_care.md](ci_18_collective_public_health_epidemic_response_addiction_informed_care.md) |
-| **CI-19** | Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface | [ci_19_vulnerable_personal_services_markets_article_xc_interface.md](ci_19_vulnerable_personal_services_markets_article_xc_interface.md) |
-| **CI-20** | Relational coercive control, intimate power, and anti-domination routing | [ci_20_relational_coercive_control_intimate_power_anti_domination.md](ci_20_relational_coercive_control_intimate_power_anti_domination.md) |
-| **CI-21** | Community life, voluntary association, and non-instrumental time | [ci_21_community_life_voluntary_association_non_instrumental_time.md](ci_21_community_life_voluntary_association_non_instrumental_time.md) |
-| **CI-22** | Commons, cooperatives, mutual aid, and non-market community governance | [ci_22_commons_cooperatives_mutual_aid_non_market_governance.md](ci_22_commons_cooperatives_mutual_aid_non_market_governance.md) |
-| **CI-23** | Place-based stewardship, Indigenous continuity, and consultation routes | [ci_23_place_based_stewardship_indigenous_continuity_consultation.md](ci_23_place_based_stewardship_indigenous_continuity_consultation.md) |
-| **CI-24** | Innovation reward, disclosure, and anti-enclosure | [ci_24_innovation_reward_disclosure_anti_enclosure.md](ci_24_innovation_reward_disclosure_anti_enclosure.md) |
-| **CI-25** | Scientific publication, peer review, replication, and evidence stewardship | [ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md](ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md) |
-| **CI-26** | Compliance mapping and stable registry | [ci_26_compliance_mapping_stable_registry.md](ci_26_compliance_mapping_stable_registry.md) |
-| **CI-27** | Remedy systems and institutional redress capacity | [ci_27_remedy_systems_institutional_redress_capacity.md](ci_27_remedy_systems_institutional_redress_capacity.md) |
+*Filename note:* each `ci_NN_*` prefix matches its **CI-*NN*** section number (for example `ci_08_*` is **CI-8** transparency). **CI-2** (*reserved family ID*) is unused; institutions domain routing lives in this annex under [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex). Grouped family list: [corpus_institutions.md](../corpus_institutions.md).
 
 ## Institutions domain routing (integrator annex)
 <a id="institutions-domain-routing-integrator-annex"></a>
@@ -129,8 +99,8 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex); [CJS-1.7](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-17-intentional-overlap-non-duplication-discipline) intentional overlap.
-- Read with: [CJS-1.7](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-17-intentional-overlap-non-duplication-discipline); **CI-3**; **CI-6**; **CI-7**; **CI-9.3**.
+- Upstream: [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex); [CJS-1.7](../corpus_joint_structure/cjs_01_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline) intentional overlap.
+- Read with: [CJS-1.7](../corpus_joint_structure/cjs_01_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline); **CI-3**; **CI-6**; **CI-7**; **CI-9.3**.
 
 </details>
 
@@ -147,7 +117,7 @@ For those splits:
 - for cross-layer topics, name the primary owner from the applicable row in [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-implementation read-with contract*);
 - do **not** restate **CJS-3** operational clusters, **CS** classification tables, or **CF** checklists except in brief pointer form when needed for coherence.
 
-For within-folder navigation by topic family, use [Institutions registry (stable section families)](#institutions-registry-stable-section-families) above.
+For within-folder navigation by topic family, use the grouped index on [corpus_institutions.md](../corpus_institutions.md).
 
 ### Institutions read-with pointers
 <a id="institutions-read-with-pointers"></a>
@@ -155,7 +125,7 @@ For within-folder navigation by topic family, use [Institutions registry (stable
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack.
-- Read with: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-1.8](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail); **CI-1**.
+- Read with: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-1.8](../corpus_joint_structure/cjs_01_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail); **CI-1**.
 
 </details>
 
@@ -163,7 +133,7 @@ For within-folder navigation by topic family, use [Institutions registry (stable
 
 When institutional implementation text intersects other implementation layers, apply the default reading stack in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) (*Combined satisfaction of jointly applicable incorporated obligations*). Within that stack, read only what [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) routes for the topic.
 
-Institutional-local abstractions may specialize **CJS** joint operational definitions cited in owner text. They must not redefine constitutional terms or create parallel constitutional definitions. For the two-tier definition contract, apply [CJS-1.8](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*).
+Institutional-local abstractions may specialize **CJS** joint operational definitions cited in owner text. They must not redefine constitutional terms or create parallel constitutional definitions. For the two-tier definition contract, apply [CJS-1.8](../corpus_joint_structure/cjs_01_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*).
 
 ---
 

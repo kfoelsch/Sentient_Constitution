@@ -38,6 +38,7 @@
 <a id="continuity-aim-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** using **Continuity** to forever put off fixes; treating "stability" as compliant when it rests on hidden risk dumping, irreversible harm, or shifting ecological burdens onto others; using ordinary "keep the lights on" talk to block [Contestability](core_05_band_accountability.md#contestability) or [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional); or pursuing **Continuity** in a way that materially defeats [Flourishing](core_05_apex_flourishing_aim.md#flourishing-constitutional) without clear permission under [Chapter One §9](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+
 ---
 
 <a id="continuity-aim-decomposition"></a>
@@ -71,7 +72,7 @@ Definitions under this aim inherit its scope unless they expressly narrow or wid
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
-- Read with: [Protocol S5 — Resource Allocation and Funding Stewardship](corpus_systems/cs_protocol_s5_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
+- Read with: [CS-9 — Resource allocation and funding stewardship](corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
 
 </details>
 

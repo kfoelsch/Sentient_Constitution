@@ -23,7 +23,6 @@
 
 - [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) · [O](../core_05_band_integrative.md#authority-stack) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
-- [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) · [O](../core_05_band_integrative.md#authority-stack) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
 
 </details>
 
@@ -65,7 +64,7 @@ Use these clusters as shared operational terms within standalone implementation 
 
 *In plain terms: Read this first whenever a later cluster turns on who is allowed to do something. It fixes the shared vocabulary for roles and competency across CJS, without displacing the governance rules that define those roles.*
 
-Use this preface first whenever a later CJS cluster depends on who may hold authority, support review, staff a lane, operate a material function, or make a binding decision. It gives shared role vocabulary for CJS only. It does not replace the role rules in `core_12-12_governance.md` **Chapter Twelve**, section **5**; **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*); [Chapter Nine §4.2](../core_09-09_standing_integration.md#42-general-standing-locks) (*General standing locks*), [§5.5](../core_09-09_standing_integration.md#55-special-locks) (*Special locks*), and [§6.2](../core_09-09_standing_integration.md#62-competency-bars-and-clearances) (*Competency bars and clearances*); `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*); `corpus_systems.md` **CS-4 — Critical system stewardship**; or `corpus_forum.md` forum-formation rules.
+Use this preface first whenever a later CJS cluster depends on who may hold authority, support review, staff a lane, operate a material function, or make a binding decision. It gives shared role vocabulary for CJS only. It does not replace the role rules in `core_12-12_governance.md` **Chapter Twelve**, section **5**; **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*); [Chapter Nine §4.2](../core_09-09_standing_integration.md#42-general-standing-locks) (*General standing locks*), [§5.5](../core_09-09_standing_integration.md#55-special-locks) (*Special locks*), and [§6.2](../core_09-09_standing_integration.md#62-competency-bars-and-clearances) (*Competency bars and clearances*); [**CI-4**](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*); [**CS-4**](../corpus_systems/cs_04_critical_system_stewardship.md); or `corpus_forum.md` forum-formation rules.
 
 Two preface terms are pinned at the top of this section in functional reading order rather than alphabetical order. They state how competency bars, clearances, and standing locks interface with trust-sensitive roles, and what facts must be verified before any role label in CJS is treated as valid. Read them in listed order before applying any later **CJS-3** cluster that depends on role authority.
 
@@ -388,6 +387,6 @@ Each **ID** below is both the **CJS-3** section address and the **oDef** ID (**o
 
 ---
 
-**Previous file:** [cjs_02_specific_joint_interlocks.md](cjs_02_specific_joint_interlocks.md)
+**Previous file:** [cjs_02_support_hosting_classification.md](cjs_02_support_hosting_classification.md)
 
 **Next file:** [cjs_03_audit_process.md](cjs_03_audit_process.md)

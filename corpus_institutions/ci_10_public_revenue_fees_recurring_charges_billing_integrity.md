@@ -71,7 +71,7 @@ Apply **CJS-3.12** **Class-aligned revenue and access-burden floor** for the sha
 
 - who owns the **fiscal map** linking revenue and charge choices to published class and tier assignments;
 - who owns **constrained-capacity priority** rules when limited public capacity must be allocated fairly;
-- the **Protocol S5** reporting channel for resource-allocation and funding-stewardship alignment; and
+- the **CS-9** reporting channel for resource-allocation and funding-stewardship alignment; and
 - named owners for **CI-10.2** and **CI-12.3** where the institution supervises recurring charges or digital billing pathways.
 
 ## CI-10.2: Recurring charges, renewals, and commercial billing integrity

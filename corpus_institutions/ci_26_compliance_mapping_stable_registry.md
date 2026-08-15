@@ -76,6 +76,7 @@ This file is the institutional implementation home for **CI-26** (*Compliance ma
 | **CI-24** | Innovation reward, disclosure, and anti-enclosure |
 | **CI-25** | Scientific publication, peer review, replication, and evidence stewardship |
 Cross-reference mapping tables and article alignment appendices may be expanded here without redefining constitutional terms.
+
 ---
 
 ## Implementation notes

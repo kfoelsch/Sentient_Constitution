@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Give the remaining wall-of-text CS files real section headings.
 
-``cs_04`` and ``Protocol S5`` carry their whole body under a single title, with
+``cs_04`` and ``CS-9`` carry their whole body under a single title, with
 topic changes marked only by a bold run-in such as ``**Dependent systems
 map.** Systems must maintain ...``. A reader gets no table of contents, no
 anchors, and no way to link to a topic.
@@ -50,7 +50,7 @@ LABELS: dict[str, tuple[str, ...]] = {
         "Governance and incentive integrity",
         "Failure and reclassification",
     ),
-    "cs_protocol_s5_resource_allocation_funding_stewardship.md": (
+    "cs_09_resource_allocation_funding_stewardship.md": (
         "Principles of funding",
         "Cross-system resource flows and dependencies",
         "Dependent systems map",

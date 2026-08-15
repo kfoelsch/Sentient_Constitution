@@ -62,8 +62,9 @@ Apply **CJS-3.6** **Cross-institution coordination and escalation chain** for th
 - letting emergency incapacity, concentration, capture indicators, local enforcement involvement, security-service involvement, private-contractor involvement, or parallel-body involvement defeat independent backup routing.
 **External-order boundary**
 External-order interactions must remain consistent with constitutional change and supremacy rules in `core_13-15_amendment.md` **Chapters Thirteen through Fifteen**.
+
 ---
 
 **Previous file:** [ci_11_resource_stewardship_incentive_integrity.md](ci_11_resource_stewardship_incentive_integrity.md)
-**Next file:** [ci_13_institutional_failure_sanctions_dissolution_accountability.md](ci_13_institutional_failure_sanctions_dissolution_accountability.md)
 
+**Next file:** [ci_13_institutional_failure_sanctions_dissolution_accountability.md](ci_13_institutional_failure_sanctions_dissolution_accountability.md)

@@ -70,8 +70,9 @@ Official custody under **CF-7** must include, at minimum:
 - referrals to **CI-5**, **CI-8**, **CI-11**, **CI-14**, **CF-9**, or constitutional forums where merits, enforcement, or structural remedy are implicated; and
 - notice and publication duties sufficient for affected stakeholders to understand status and challenge pathways.
 Where verified realignment resistance satisfies **Chapter Ten** criteria, including material rollback effect, causally significant blocked correction, **Sustained High-Gravity Pattern**, or operative nullification, anti-constitutional-misconduct designation remains under **Chapter Ten** and its safeguards.
+
 ---
 
 **Previous file:** [ci_12_cross_institution_coordination_escalation.md](ci_12_cross_institution_coordination_escalation.md)
-**Next file:** [ci_14_transitional_governance_institutional_evolution.md](ci_14_transitional_governance_institutional_evolution.md)
 
+**Next file:** [ci_14_transitional_governance_institutional_evolution.md](ci_14_transitional_governance_institutional_evolution.md)

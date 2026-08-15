@@ -412,6 +412,8 @@ When forum-supervised challenge is required, internal operator review, vendor at
 - This chapter may supply verified inputs only through the gate above;
 - It must not absorb, restate, or relocate Chapter Eight or Chapter Nine owner obligations.
 
+A certification record is not a sentience-status determination and cannot grant, withhold, narrow, or revoke Chapter Six protection that depends on sentience status.
+
 <a id="16-reopening-drift-and-non-evasion"></a>
 <a id="11-reopening-drift-and-non-evasion"></a>
 <a id="10-reopening-drift-and-non-evasion"></a>

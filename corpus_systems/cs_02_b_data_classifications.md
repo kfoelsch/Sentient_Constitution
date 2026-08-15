@@ -16,8 +16,8 @@
 *In plain terms: Part B names each data type and groups them by how they are usually shared — open, audit-only, restricted, or off-limits — then states each type’s content rules.*
 
 <a id="8-data-classifications"></a>
-
-## 8. Data classifications
+<a id="cs-2-8-data-classifications"></a>
+## CS-2.8 Data classifications
 
 *In plain terms: the letter codes are domain labels, not a ranked sensitivity scale. Types share access-posture bands so common rules can attach to the sharing style. When more than one type fits, the stronger protections win.*
 

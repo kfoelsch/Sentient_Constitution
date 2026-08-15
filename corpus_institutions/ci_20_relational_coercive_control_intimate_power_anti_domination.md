@@ -49,7 +49,7 @@ This file is the institutional implementation home for **CI-20** (*Relational co
 *In plain terms: if the only way to report abuse is a form that requires staying in the relationship, the hotline routes back to the abuser's employer, or a bad review can destroy your housing and work at once, the pathway has failed — even when every isolated incident looked "private" on paper.*
 
 *Shared rules live elsewhere.*
-- **[CJS-3.17](../corpus_joint_structure.md)** (*interoperability, portability, and exit-integrity terms*) — **Dependency-based coercion and reputation-lock pathway integrity**: economic dependence, credential custody, reputation systems, visibility controls, retaliation risk, and practical alternatives evaluated together.
+- [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*interoperability, portability, and exit-integrity terms*) — **Dependency-based coercion and reputation-lock pathway integrity**: economic dependence, credential custody, reputation systems, visibility controls, retaliation risk, and practical alternatives evaluated together.
 - **Chapter Five** [*Coercion and Manipulation*](../core_05_band_participation.md#coercion-and-manipulation-constitutional) and [*Meaningful Agency*](../core_05_band_participation.md#meaningful-agency) — definitional home for coercive leverage and dependency-pressure analysis.
 - **Article IX-A** (*Freedom from Manipulation*) in **Chapter Six** — freedom-from-manipulation floor for dependency-rich systems and coercive choice architecture.
 - **Article X-A** (*Non-Imposition and Consent in Association*) in **Chapter Six** — consent and non-imposition norms in cooperative and associational settings; exit from coercive group settings remains protected.
@@ -59,9 +59,11 @@ This file is the institutional implementation home for **CI-20** (*Relational co
 - **CI-5** — integrity routing and conflict-disclosure interfaces where institutional actors are implicated.
 - **CI-16** and **CI-21** — care-economy coercion intake and community or associational coercion referral interfaces where materially connected.
 - **CI-20 scope** — does not repeat those floors; states local intake, routing, and asymmetry-review owner duties.
+
 **Apply**
 - Apply **CJS-3.17** **Dependency-based coercion and reputation-lock pathway integrity** for the shared floor.
 - **CI-20** states only local intake, routing, and asymmetry-review owner duties for intimate, household, care, workplace, community, and platform contexts — without dissolving private association or conscience protections that **Chapter Six** guarantees.
+
 **Local anti-domination routing role map**
 Each institution in scope must name the office or body responsible for:
 - **coercive-control intake** — who receives reports of dependency sabotage, isolation, reproductive pressure, economic control, reputation threats, or comparable coercive patterns in intimate, household, care, workplace, community, or platform settings, including confidential and after-hours access where material;
@@ -71,8 +73,9 @@ Each institution in scope must name the office or body responsible for:
 - **family and household services routing** — who routes family-services, tenancy, benefits, immigration-status, or comparable household-dependency reports to practical remedy lanes while preserving lawful privacy and conscience protections; and
 - **economic, credential, platform, and reputation asymmetry review** — who reviews whether economic dependence, credential or account custody, platform power, housing leverage, care access, or reputation systems functionally block exit, reporting, or challenge — and who publishes or escalates corrective routes when they do.
 Read **CI-6**, **CI-8**, and **CI-5** for local procedure, participation, and integrity interfaces.
+
 ---
 
 **Previous file:** [ci_19_vulnerable_personal_services_markets_article_xc_interface.md](ci_19_vulnerable_personal_services_markets_article_xc_interface.md)
-**Next file:** [ci_21_community_life_voluntary_association_non_instrumental_time.md](ci_21_community_life_voluntary_association_non_instrumental_time.md)
 
+**Next file:** [ci_21_community_life_voluntary_association_non_instrumental_time.md](ci_21_community_life_voluntary_association_non_instrumental_time.md)

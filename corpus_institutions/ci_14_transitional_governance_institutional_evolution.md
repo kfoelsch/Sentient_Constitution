@@ -47,7 +47,7 @@
 
 This file is the institutional implementation home for **CI-14** (*Transitional governance and institutional evolution*).
 
-*In plain terms: **CI-14** is the institutions layer's "how do we change structure without breaking rights or losing the thread?" rulebook — when an institution redesigns, merges, hands off authority, or moves from legacy operation toward constitutional operation, and what must stay documented, reviewable, and reversible while that happens. Transition is a bridge, not a permanent emergency. Temporary powers must expire, get reauthorized for real reasons, or roll back — and Rights-Floor minimums cannot quietly shrink because the change is inconvenient. Shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floors live in **CJS-3.18** (*data-retention and lifecycle-integrity terms*); system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics live in **Protocol T**. What this file adds is local: what each institution must name, publish, and maintain locally.*
+*In plain terms: **CI-14** is the institutions layer's "how do we change structure without breaking rights or losing the thread?" rulebook — when an institution redesigns, merges, hands off authority, or moves from legacy operation toward constitutional operation, and what must stay documented, reviewable, and reversible while that happens. Transition is a bridge, not a permanent emergency. Temporary powers must expire, get reauthorized for real reasons, or roll back — and Rights-Floor minimums cannot quietly shrink because the change is inconvenient. Shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floors live in **CJS-3.18** (*data-retention and lifecycle-integrity terms*); system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics live in **CS-10**. What this file adds is local: what each institution must name, publish, and maintain locally.*
 
 **Quick orientation**
 - **The basic idea** — institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Rights and services do not get a gap year while someone reorganizes the org chart.
@@ -57,18 +57,18 @@ This file is the institutional implementation home for **CI-14** (*Transitional 
 - **CI-14.1** — **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) role map for non-compliant property, seizure, and voluntary turnover incentives: who decides eligibility, holds custody, adjudicates payouts, executes enforcement, reviews outcomes, and runs the contest path.
 - **CI-14.2** — **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) trigger catalog, anti-abuse metrics, and publication requirements: what kinds of deprivation or incentive programs are in scope, what abuse signals to watch, and what summaries affected sentients and oversight bodies must receive.
 - **CI-14.3** — **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) operative transition-scoped remediation requirements: scope, permitted measures, notice and contest mechanics, remedial standards, voluntary-program operation, and implementation custody for triggers, valuation, appeal, chain of custody, fund governance, and adversarial review.
-- **Read with** — **CI-5** for integrity routing and conflict disclosure; **CI-11** for stewardship and malus/clawback interfaces where **Class A**, **Class B**, or **Critical System Steward** scope applies; **CF-12** for forum continuity during transition; **Protocol T** when constitutional systems are materially involved.
+- **Read with** — **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) for integrity routing and conflict disclosure; **CI-11** (*Resource stewardship and incentive integrity*) for stewardship and malus/clawback interfaces where **Class A**, **Class B**, or **Critical System Steward** scope applies; **CF-12** (*Forum continuity*) for forum continuity during transition; **CS-10** (*Transition Constitution and Migration Governance*) when constitutional systems are materially involved.
 *In plain terms: "we're in transition" is not a license to suspend accountability. If an institution cannot say who holds interim power, when that power ends, how to challenge it, or what happens if the plan stalls, the transition is not constitutionally managed — no matter how many steering committees meet behind closed doors.*
 
 *Shared rules live elsewhere.*
-- **[CJS-3.18](../corpus_joint_structure.md)** (*data-retention and lifecycle-integrity terms*) — transition continuity, authority-transfer lifecycle integrity, sunset, reauthorization, and challenge-pathway floors, especially **Transition continuity and authority-transfer lifecycle integrity**.
-- **Protocol T** (*Transition Constitution and Migration Governance*) in `corpus_systems.md` — system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
+- [**CJS-3.18**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*data-retention and lifecycle-integrity terms*) — transition continuity, authority-transfer lifecycle integrity, sunset, reauthorization, and challenge-pathway floors, especially **Transition continuity and authority-transfer lifecycle integrity**.
+- **CS-10** (*Transition Constitution and Migration Governance*) in `corpus_systems.md` — system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
 - **CJS-3.6** (*integrity assurance and resilience operations*) — property-custody and incentive-separation control chains.
 - **CI-14 scope** — does not repeat those floors; states institutional custody, authorization, oversight, and publication duties against **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*).
 **Apply**
 - Apply **CJS-3.18** **Transition continuity and authority-transfer lifecycle integrity** for the shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floor.
-- Where the transition materially involves constitutional systems, institutions must read this section with **Protocol T**.
-- **CI-14** states the institutional custody, authorization, and oversight interface; **Protocol T** remains the operative home for system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
+- Where the transition materially involves constitutional systems, institutions must read this section with **CS-10**.
+- **CI-14** (*Transitional governance and institutional evolution*) states the institutional custody, authorization, and oversight interface; **CS-10** (*Transition Constitution and Migration Governance*) remains the operative home for system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
 **Institutional transition interface (**Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) interface)**
 Each institution in scope must name and maintain locally:
 - the institution, role, or body that owns each **transition authority**, **review authority**, and **evidence-custody duty**;
@@ -86,7 +86,7 @@ Each institution in scope must name and maintain locally:
 
 <br>
 
-*In plain terms: when transition plans touch non-compliant property, seizure, impoundment, quarantine, or voluntary turnover incentives, every step in the chain needs a named owner — who decides someone is eligible, who holds the asset, who pays a bounty, who enforces, who reviews, who funds the program, how sentients are notified, and how they contest. The office that decides payouts must not be the same shop that decides seizures. For high-stakes **Class A**, **Class B**, and **Critical System Steward** scope, read with **Protocol A** subsection **G** and **CI-11**.*
+*In plain terms: when transition plans touch non-compliant property, seizure, impoundment, quarantine, or voluntary turnover incentives, every step in the chain needs a named owner — who decides someone is eligible, who holds the asset, who pays a bounty, who enforces, who reviews, who funds the program, how sentients are notified, and how they contest. The office that decides payouts must not be the same shop that decides seizures. For high-stakes **Class A**, **Class B**, and **Critical System Steward** scope, read with **CS-5 §8** and **CI-11**.*
 
 Apply **CJS-3.6** **Property-custody and incentive-separation control chain** for the shared floor. **CI-14.1** states only the **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) role map. Each institution in scope must name locally:
 
@@ -102,7 +102,7 @@ Apply **CJS-3.6** **Property-custody and incentive-separation control chain** fo
 - **revalidation owner** — who re-checks continued necessity before reauthorization; and
 - the **CI-5** **conflict-disclosure route** when roles overlap or the same party holds incompatible duties.
 
-For **Class A**, **Class B**, and **Critical System Steward** scope, connect to **Protocol A** subsection **G** and **CI-11**.
+For **Class A**, **Class B**, and **Critical System Steward** scope, connect to **CS-5 §8** and **CI-11**.
 
 ## CI-14.2: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements
 <a id="ci-142-article-xxvi-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements"></a>

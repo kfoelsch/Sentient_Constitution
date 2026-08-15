@@ -12,6 +12,19 @@ This repository is the **Sentient Constitution** markdown corpus and tooling—n
 - Operative constitutional text: numbered `core_*` files and companions enumerated in `README.md` at repo root.
 - Architecture and edition stamps: `doc_architecture.md` where relevant.
 
+## AI lookup (derived locators, not binding)
+
+Indexes **point**. Source text **binds**. Do not treat a locator, gloss, or steward card as a duty.
+
+For lookup, open locators before grepping the corpus:
+
+1. High-pressure fact pattern → [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) or [`implementation/steward_owner_clock_index.json`](implementation/steward_owner_clock_index.json)
+2. Family/section ID (`CF-10`, `CJS-3.13`, `Def.P1`), topic, definition term, or fossil anchor → [`ai_corpus/indexes/id_resolver.json`](ai_corpus/indexes/id_resolver.json)
+3. Heading line range → [`ai_corpus/indexes/section_manifest.json`](ai_corpus/indexes/section_manifest.json)
+4. Then read the named source file (offset/limit from the locator). Patterns: [`ai_corpus/AI_NAVIGATION_GUIDE.md`](ai_corpus/AI_NAVIGATION_GUIDE.md)
+
+Cross-file topics: [`doc_architecture/generated/topic_router.json`](doc_architecture/generated/topic_router.json) (machine) or the [topic-router reader index](doc_architecture/generated/topic_router_reader_index.md) (human). Authoritative row table remains **CJS-0.1**.
+
 ## Session / meta files
 
 - Do **not** assume `MEMLOG.md` or `TODO.md` at the repo root. Historical task/session snapshots live under `archive/` when archived (see README *Binding vs support*); final root snapshots from 2026-05-01 are `archive/TODO_ROOT_RETIRED_2026-05-01.md` and `archive/MEMLOG_ROOT_RETIRED_2026-05-01.md`.

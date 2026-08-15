@@ -281,7 +281,7 @@ At minimum:
 - publication failure threshold triggers delayed-publication review, docket-visible status correction, and a lawful release or reconstruction plan;
 - remediation closure threshold triggers owner-level review when corrective actions remain open, are repeatedly extended, or close without evidence that the underlying condition actually ended;
 - forum damage threshold triggers immediate containment of the harmful forum condition, protected notice to affected parties, preservation of evidence, and remedial review;
-- constitutional alignment failure threshold triggers external assurance, restriction of the affected forum authority where necessary, and mandatory alignment-supervision review under `corpus_institutions.md` **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*);
+- constitutional alignment failure threshold triggers external assurance, restriction of the affected forum authority where necessary, and mandatory alignment-supervision review under [**CI-13**](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md) (*Institutional failure, sanctions, dissolution, and accountability*);
 - dissolution or disbandment trigger threshold requires immediate suspension of ordinary forum authority and immediate dissolution or disbandment action under **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*). Receivership or continuity transfer may be used only as a protective interim or successor mechanism to preserve rights, records, emergency relief, and active challenge pathways; the triggering forum must not continue new harmful adjudication.
 
 ## CF-11.5 Required remediation actions for threshold crossings
@@ -385,14 +385,14 @@ Usability failures count as performance failures when they materially obstruct c
 
 *In plain terms: Independent monitors read the performance data and ask the harder question: do the delays cluster where conflict, capture, or retaliation would predict?*
 
-Contest-integrity monitors under `corpus_institutions.md` **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) must review forum-performance data on a published cadence and assess:
+Contest-integrity monitors under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Contest-integrity monitoring (Class A and Class B)*) must review forum-performance data on a published cadence and assess:
 - persistent delay by family, **CF-11.2** urgency level, or local urgency sublevel;
 - whether backlogs track conflict, capture, or retaliation indicators;
 - whether recusal disputes are being used to stall matters;
 - whether emergency dockets are receiving timely attention;
 - whether accessibility or publication failures are undermining contestability.
 
-Material findings must feed remediation and, where warranted, `corpus_institutions.md` **CI-8** (*Cross-institution coordination and escalation*) escalation or external assurance triggers.
+Material findings must feed remediation and, where warranted, [**CI-8**](../corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) (*Cross-institution coordination and escalation*) escalation or external assurance triggers.
 
 ## CF-11.9 Non-compliant performance patterns
 
@@ -412,7 +412,7 @@ The following patterns are presumptively non-compliant unless clearly justified 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-11.10**; **CF-11.3**; **CF-11.5**; **CF-11**; **CF-14.3**; `corpus_institutions.md` **CI-13** (failure and accountability patterns); **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) and **Article XXIII-A** (*Justice Objective and Scope*) as referenced in **Protocol C** §**10**.
+- Read with: **CF-11.10**; **CF-11.3**; **CF-11.5**; **CF-11**; **CF-14.3**; [**CI-13**](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md) (failure and accountability patterns); **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) and **Article XXIII-A** (*Justice Objective and Scope*) as referenced in **CS-7 §11**.
 
 </details>
 
@@ -420,11 +420,11 @@ The following patterns are presumptively non-compliant unless clearly justified 
 
 *In plain terms: Where a matter involves coercive or containment conditions, forum timing must be checked against the systems-layer floors for lived conditions. Good calendar numbers do not excuse bad conditions.*
 
-Forum systems must treat `corpus_systems.md` **Protocol C** section **10** (*Lived-condition floors, continuity, and re-entry alignment*) as a **binding implementation cross-check** when **coercive**, **supervised**, **quarantine**, or **durable-containment** matters are **routed** or **reviewed**.
+Forum systems must treat [**CS-7**](../corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md) (*Lived-condition floors, continuity, and re-entry alignment*) as a **binding implementation cross-check** when **coercive**, **supervised**, **quarantine**, or **durable-containment** matters are **routed** or **reviewed**.
 
 Calendar and metric performance under **CF-11.3** (*Metric registry and reporting taxonomy*) through **CF-11.5** (*Required remediation actions for threshold crossings*) must not treat lived-condition failures as closed merely because procedural milestones were technically reached.
 
-**Forum-specific application:** review records must show that the forum or administrative reviewer considered the Protocol C section **10** validation record, current review cadence, restoration or re-entry status, and any new evidence-based finding used to continue a restriction.
+**Forum-specific application:** review records must show that the forum or administrative reviewer considered the **CS-7 §11** validation record, current review cadence, restoration or re-entry status, and any new evidence-based finding used to continue a restriction.
 
 Where a lived-condition failure materially affects remedy, challenge rights, or restoration, the matter remains open for **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*) performance tracking. It also remains open for **CF-14.3** (*Restoration and reconciliation*) restoration tracking, even if ordinary docket milestones were reached.
 

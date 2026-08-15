@@ -23,7 +23,13 @@ from corpus_paths import binding_corpus_scope
 from cjs_odef_format import LEGACY_OP_RE, titled_guidepost_entries
 from definition_separator_format import audit_separator_lines
 
-CJS1_FILE = "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md"
+CJS1_FILES = (
+    "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+    "corpus_joint_structure/cjs_01_drafting_contracts.md",
+    "corpus_joint_structure/cjs_01_odef_parse.md",
+    "corpus_joint_structure/cjs_02_support_hosting_classification.md",
+)
+CJS1_FILE = CJS1_FILES[0]
 CJS3_GLOB = "corpus_joint_structure/cjs_03*.md"
 CJS3_COMPASS_FILE = "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md"
 CJS3_BAND_FILES = [
@@ -79,7 +85,7 @@ def slice_cjs1_sections(text: str) -> list[tuple[str, str]]:
     return sections
 
 
-def find_cjs1_inline_odef_clusters(section_id: str, body: str) -> list[str]:
+def find_cjs1_inline_odef_clusters(section_id: str, body: str, rel: str = CJS1_FILE) -> list[str]:
     findings: list[str] = []
     # Skip parse-mechanics sections that describe the format itself.
     if section_id.startswith("CJS-1.13") or section_id.startswith("CJS-1.14"):
@@ -90,20 +96,22 @@ def find_cjs1_inline_odef_clusters(section_id: str, body: str) -> list[str]:
         if POINTER_LINE_RE.match(title):
             continue
         findings.append(
-            f"{CJS1_FILE}: {section_id} defines operational cluster {title!r}; "
+            f"{rel}: {section_id} defines operational cluster {title!r}; "
             "move to CJS-3 and leave a pointer in CJS-1."
         )
     return findings
 
 
 def audit_cjs1_op_clusters(root: Path) -> list[str]:
-    path = root / CJS1_FILE
-    if not path.is_file():
-        return [f"Missing required file: {CJS1_FILE}"]
-    text = path.read_text(encoding="utf-8")
     findings: list[str] = []
-    for section_id, body in slice_cjs1_sections(text):
-        findings.extend(find_cjs1_inline_odef_clusters(section_id, body))
+    for rel in CJS1_FILES:
+        path = root / rel
+        if not path.is_file():
+            findings.append(f"Missing required file: {rel}")
+            continue
+        text = path.read_text(encoding="utf-8")
+        for section_id, body in slice_cjs1_sections(text):
+            findings.extend(find_cjs1_inline_odef_clusters(section_id, body, rel))
     return findings
 
 

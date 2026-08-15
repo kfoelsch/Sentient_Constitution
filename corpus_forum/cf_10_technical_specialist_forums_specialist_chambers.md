@@ -177,7 +177,7 @@ Where a technical specialist forum acting within lawful adopted scope has publis
 Non-recognition must identify whether the forum is adopting an interim local rule, certifying the issue for reconsideration, or invoking another recognized shared standard. Silent non-recognition is non-compliant where this subsection applies.
 
 A repeated, unexplained refusal to recognize materially applicable shared standards may be treated as evidence of capture, evasion, or forum shopping. Where the verified facts satisfy the relevant standards, that pattern may support:
-- escalation under `corpus_institutions.md` **CI-8** (*Cross-institution coordination and escalation*);
+- escalation under [**CI-8**](../corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) (*Cross-institution coordination and escalation*);
 - external assurance;
 - potential **Chapter Ten** anti-constitutional misconduct routing;
 - cross-jurisdiction enforcement continuity rules.
@@ -221,7 +221,7 @@ This authority must not be used to:
 
 *In plain terms: Where the dispute involves suppressed publication, refused replication, or blocked correction, this file is read together with the institutional rules on scientific publication.*
 
-Science-facing technical specialist forums should be read together with `corpus_institutions.md` **CI-17** (*Scientific publication, peer review, replication, and evidence stewardship*).
+Science-facing technical specialist forums should be read together with [**CI-17**](../corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md) (*Scientific publication, peer review, replication, and evidence stewardship*).
 
 Where a dispute involves publication suppression, replication denial, correction refusal, or manipulation of scientific standing, a technical specialist forum may supply the specialist forum. Integrity and institutional review routes remain available where those stakes are primary.
 

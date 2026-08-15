@@ -12,8 +12,8 @@
 
 | Exercise | Date | Result | Tested vs design-only |
 | --- | --- | --- | --- |
-| Protocol R reconstitution | (from evidence) | | |
-| Protocol D partition / reconciliation | (from evidence) | | |
+| CS-11 reconstitution | (from evidence) | | |
+| CS-12 partition / reconciliation | (from evidence) | | |
 
 ## Remediation and backlog
 
@@ -27,4 +27,4 @@
 
 ## Residual transition risks
 
-- (list or link to `corpus_systems.md` Protocol T / **CI-14** reviews)
+- (list or link to `corpus_systems.md` CS-10 / **CI-14** reviews)

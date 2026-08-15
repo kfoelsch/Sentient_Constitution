@@ -150,6 +150,13 @@
       "status": "advisory"
     },
     {
+      "id": "REF-FAMILY",
+      "legacy_ref": "section 7 companion family cites",
+      "summary": "Companion family cites link the authoritative subfile, not the layer wrapper; CJS-3.n is the public cluster ID.",
+      "make_target": "companion-cite-audit",
+      "status": "blocking"
+    },
+    {
       "id": "REF-ARTICLES",
       "legacy_ref": "section 5 article map",
       "summary": "Chapter Six article titles and Roman numerals from part files.",
