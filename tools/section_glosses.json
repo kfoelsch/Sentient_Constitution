@@ -3,7 +3,7 @@
     "CS-1.0: Purpose and role": "this file is the front door to the systems-and-data book. The Constitution says what must be true of systems; this layer tells you how to type data, classify systems, scale stewardship, and run the engineering families without rewriting those rules."
   },
   "cs_04_critical_system_stewardship.md": {
-    "Definition": "Who counts as a steward: an organization a Class A or Class B system — or a Dep-A / Dep-B dependency of one — cannot run, recover, or be governed without.",
+    "Definition": "Who counts as a Critical System Steward, and how that status is checked: an organization a Class A or Class B system — or a Dep-A / Dep-B dependency of one — cannot run, recover, or be governed without.",
     "Classification as steward": "Steward status follows the CS-3 class of what you actually run, recover, or gate. Class A or B — or a Dep-A / Dep-B dependency of one — makes you a Critical System Steward. Class C only if you have become a chokepoint. The four tests below prove that relationship; they are not a second classification scheme.",
     "Stewardship criticality levels": "Three tiers, CSS-A to CSS-C, set by how much depends on the steward and how bad its failure would be. The tier sets how demanding everything that follows is.",
     "Scaling obligations": "Duties follow the real dependency, not the paperwork. The highest affected class governs, and a narrow contract does not buy a lighter obligation.",
@@ -81,7 +81,7 @@
     "Reference allocation guidance": "Illustrative percentage ranges, offered as a starting point only. They bind nobody and cannot override constitutional requirements.",
     "Substrate system funding": "Foundational systems — identity, auditability, information integrity, core infrastructure — must be funded for stability rather than for returns.",
     "Non-substrate systems": "Higher-layer systems may fund themselves more flexibly and reward builders more directly, while staying transparent and auditable.",
-    "Stakeholder governance of funding": "Those affected by allocation decisions get to review and change them, with heightened scrutiny where stability or security is at stake.",
+    "Stakeholder System Participation in funding": "Those affected by allocation decisions get to review and change them, with heightened scrutiny where stability or security is at stake.",
     "Trigger definitions": "Define the measurable indicators and thresholds that set adaptive allocation in motion under CS-8.",
     "Triggering review and challenge": "Anyone with standing may challenge a funding structure or outcome, and no minimum number of participants is required to start a review.",
     "Due process in funding changes": "Changing funding requires notice, a justification, a route for those affected to respond, and a record that can be audited.",

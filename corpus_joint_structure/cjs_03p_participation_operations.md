@@ -70,19 +70,19 @@ Use this rule when participation or quorum rules affect materially binding outco
 <a id="quorum-and-participatory-legitimacy-terms"></a>
 quorum and participatory legitimacy terms
 
-*In plain terms: quorum and participation terms must identify the governing layer, apply the correct legitimacy rule for that layer, and operate consistently across implementation interactions.*
+*In plain terms: quorum and participation terms must identify which of the two governance layers applies (**Constitutional Contract Layer** or **Stakeholder System Participation**), apply the correct legitimacy rule for that layer, and operate consistently across implementation interactions.*
 
 - **What it is**
-  - **In scope:** Quorum and participation terms must identify the governing layer, apply the correct legitimacy rule for that layer, and operate consistently across implementation interactions.
+  - **In scope:** Quorum and participation terms must identify which of the two governance layers applies (**Constitutional Contract Layer** or **Stakeholder System Participation**), apply the correct legitimacy rule for that layer, and operate consistently across implementation interactions.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in quorum and participatory legitimacy.
 <a id="quorum-and-participatory-legitimacy-terms-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** the two-tier constitutional and stakeholder governance framework, the published legitimacy mechanism, all quorum or threshold parts, eligibility rules, weighting rules, records, and challenge paths together
+  - **Primary measure:** the two governance layers (**Constitutional Contract Layer** and **Stakeholder System Participation**), the published legitimacy mechanism, all quorum or threshold parts, eligibility rules, weighting rules, records, and challenge paths together
 
-    **Primary assessment:** Evaluation must apply the two-tier constitutional and stakeholder governance framework, the published legitimacy mechanism, all quorum or threshold parts, eligibility rules, weighting rules, records, and challenge paths together.
+    **Primary assessment:** Evaluation must apply the two governance layers (**Constitutional Contract Layer** and **Stakeholder System Participation**), the published legitimacy mechanism, all quorum or threshold parts, eligibility rules, weighting rules, records, and challenge paths together.
 <a id="quorum-and-participatory-legitimacy-terms-c"></a>
 - **What must hold**
-  - **Primary failure:** Claim valid quorum or participatory legitimacy when the governing layer is unidentified, the wrong layer's rule is used, or a required part is missing, undefined, unauditable, or applied inconsistently.
+  - **Primary failure:** Claim valid quorum or participatory legitimacy when the applicable governance layer is unidentified, the wrong layer's rule is used, or a required part is missing, undefined, unauditable, or applied inconsistently.
 
 <a id="commons-cooperative-and-mutual-aid-pathway-integrity"></a>
 Commons, cooperative, and mutual-aid pathway integrity
@@ -221,13 +221,13 @@ Quorum source and binding-effect gate
   - **Primary failure:** Post-hoc quorum formulas, undisclosed denominator changes, emergency shortcuts without mandatory forum review, or implementation of a high-impact decision before required legitimacy gates are satisfied.
 
 <a id="stakeholder-governance-participation-floor"></a>
-Stakeholder governance participation floor
+Stakeholder System Participation floor
 
 *In plain terms: where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, stakeholder-participation pathways, and any **Stakeholder Weight** must be…*
 
 - **What it is**
   - **In scope:** Where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, stakeholder-participation pathways, and any **Stakeholder Weight** must be proportionate to material impact and dependency and must satisfy **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) and Chapter Twelve section 4.3.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in stakeholder governance participation floor.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in the Stakeholder System Participation floor.
 <a id="stakeholder-governance-participation-floor-a"></a>
 - **How to measure and assess**
   - **Primary measure:** stakeholder mapping, affected-class coverage, local deliberation where required, plural evaluation for high-impact choices, representation and weighting limits, rights-collision records, dissent or alternative records, reopening paths, and **Article XI-A** (*Stakeholder System Participation and Representation*) legitimacy gates for materially high-impact collective choice
@@ -235,7 +235,7 @@ Stakeholder governance participation floor
     **Primary assessment:** Evaluation must verify stakeholder mapping, affected-class coverage, local deliberation where required, plural evaluation for high-impact choices, representation and weighting limits, rights-collision records, dissent or alternative records, reopening paths, and **Article XI-A** (*Stakeholder System Participation and Representation*) legitimacy gates for materially high-impact collective choice.
 <a id="stakeholder-governance-participation-floor-c"></a>
 - **What must hold**
-  - **Primary failure:** Token consultation, dominance-prone weighting, missing affected classes, or stakeholder procedures that purport to authorize or reauthorize the **Constitutional Contract Layer** questions of governing authority, the governance-layer mechanism, or the scope and durable terms of that authority.
+  - **Primary failure:** Token consultation, dominance-prone weighting, missing affected classes, or stakeholder procedures that purport to authorize or reauthorize the **Constitutional Contract Layer** questions of governing authority, the legitimacy mechanism, or the scope and durable terms of that authority.
 
 <a id="stakeholder-oversight-and-binding-governance-pathway-integrity"></a>
 Stakeholder oversight and binding-governance pathway integrity
@@ -255,21 +255,21 @@ Stakeholder oversight and binding-governance pathway integrity
   - **Primary failure:** Present symbolic consultation as binding governance, to present binding governance as optional consultation, to hide material exit or adaptation consequences, or to rely on participation records that cannot later support accountable reconstruction.
 
 <a id="two-tier-governance-layer-assignment"></a>
-Two-tier governance-layer assignment
+Governance-layer assignment (Constitutional Contract Layer vs Stakeholder System Participation)
 
-*In plain terms: participation rules must distinguish **Foundational Constitutional Choice** in the **Constitutional Contract Layer** from stakeholder governance decisions within already-authorized **Governance** structures, rules, allocation of…*
+*In plain terms: participation rules must distinguish **Foundational Constitutional Choice** in the **Constitutional Contract Layer** from **Stakeholder System Participation** decisions within already-authorized **Governance** structures, rules, allocation of…*
 
 - **What it is**
-  - **In scope:** Participation rules must distinguish **Foundational Constitutional Choice** in the **Constitutional Contract Layer** from stakeholder governance decisions within already-authorized **Governance** structures, rules, allocation of authority, and processes for a specified system, institution, or bounded decision domain.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in two-tier governance-layer assignment.
+  - **In scope:** Participation rules must distinguish **Foundational Constitutional Choice** in the **Constitutional Contract Layer** from **Stakeholder System Participation** decisions within already-authorized **Governance** structures, rules, allocation of authority, and processes for a specified system, institution, or bounded decision domain.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in assigning the Constitutional Contract Layer versus Stakeholder System Participation.
 <a id="two-tier-governance-layer-assignment-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** whether the decision authorizes or reauthorizes governing authority, the governance-layer mechanism, or the scope and durable terms of authority, or instead resolves a materially rights-affecting decision inside an already-authorized domain
+  - **Primary measure:** whether the decision authorizes or reauthorizes governing authority, the legitimacy mechanism, or the scope and durable terms of authority, or instead resolves a materially rights-affecting decision inside an already-authorized domain
 
-    **Primary assessment:** Evaluation must verify whether the decision authorizes or reauthorizes governing authority, the governance-layer mechanism, or the scope and durable terms of authority, or instead resolves a materially rights-affecting decision inside an already-authorized domain.
+    **Primary assessment:** Evaluation must verify whether the decision authorizes or reauthorizes governing authority, the legitimacy mechanism, or the scope and durable terms of authority, or instead resolves a materially rights-affecting decision inside an already-authorized domain.
 <a id="two-tier-governance-layer-assignment-c"></a>
 - **What must hold**
-  - **Primary failure:** Treating foundational authorization as ordinary stakeholder governance, or treating an internal stakeholder decision as if it could alter the foundational authorization layer without satisfying that layer,.
+  - **Primary failure:** Treating foundational authorization as ordinary Stakeholder System Participation, or treating an internal stakeholder decision as if it could alter the Constitutional Contract Layer without satisfying that layer.
 
 <a id="weighted-participation"></a>
 Weighted participation

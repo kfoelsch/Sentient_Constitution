@@ -108,6 +108,20 @@ _FOUNDATIONAL_RIGHTS_CASING = re.compile(r"\b(?:Foundational rights|foundational
 _SHOULD_NOT_PROHIBITION = re.compile(r"\bshould\s+not\b", re.IGNORECASE)
 _DEFINITION_MAP_LABEL = re.compile(r"\*\*Definition map\.\*\*|\bDefinition map\.", re.IGNORECASE)
 _ROUTER_READ_LABEL = re.compile(r"^\*\*Router read:\*\*", re.IGNORECASE)
+_STAKEHOLDER_GOVERNANCE = re.compile(r"\bstakeholder governance\b", re.IGNORECASE)
+_CONSTITUTIONAL_GOVERNANCE_LAYER = re.compile(r"\bconstitutional governance layer\b", re.IGNORECASE)
+_STAKEHOLDER_GOVERNANCE_LAYER = re.compile(r"\bstakeholder governance layer\b", re.IGNORECASE)
+_GOVERNANCE_LAYER_MECHANISM = re.compile(r"\bgovernance[- ]layer mechanism\b", re.IGNORECASE)
+_STAKEHOLDER_LAYER_LABEL = re.compile(r"\bstakeholder-layer\b", re.IGNORECASE)
+_TWO_TIER_CONSTITUTIONAL_STAKEHOLDER = re.compile(
+    r"\btwo-tier constitutional and stakeholder governance\b",
+    re.IGNORECASE,
+)
+_CONSTITUTIONAL_GOVERNANCE = re.compile(r"\bconstitutional governance\b", re.IGNORECASE)
+_CONSTITUTIONAL_GOVERNANCE_SAFEGUARDS = re.compile(
+    r"\bconstitutional governance safeguards\b",
+    re.IGNORECASE,
+)
 _IMPLEMENTATION_CORPUS_PREFIXES = (
     "corpus_institutions/",
     "corpus_joint_structure/",
@@ -307,6 +321,17 @@ def run_internal_regression_checks() -> None:
         raise RuntimeError(
             "Internal regression failed: stewardship-sense drift was not flagged or custody compounds broke.",
         )
+    layer_findings = scan_avoid_governance_layer_labels(
+        "internal-regression.md",
+        "Remain subject to stakeholder governance.\n"
+        "Use the governance layer mechanism to found authority.\n"
+        "This rule operates consistently with constitutional governance safeguards.\n"
+        "`stakeholder governance` inside backticks is documentation only.\n",
+    )
+    if len(layer_findings) != 2:
+        raise RuntimeError(
+            "Internal regression failed: stakeholder-governance / governance-layer-mechanism labels were not flagged, or the safeguards exception broke.",
+        )
 
 
 def scan_avoid_standing_calculus(rel_path: str, text: str) -> list[Finding]:
@@ -334,6 +359,56 @@ def scan_avoid_standing_calculus(rel_path: str, text: str) -> list[Finding]:
                     file=rel_path,
                     line=idx,
                     rule="avoid-standing-calculus",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
+def _mask_allowlisted_constitutional_governance_spans(line: str) -> str:
+    return _CONSTITUTIONAL_GOVERNANCE_SAFEGUARDS.sub(lambda m: " " * len(m.group(0)), line)
+
+
+def scan_avoid_governance_layer_labels(rel_path: str, text: str) -> list[Finding]:
+    """Reject competing labels for the Preamble §3.3 two-layer split.
+
+    Prefer **Constitutional Contract Layer** and **Stakeholder System Participation**.
+    Finding-profile codes **CCL** / **SSP** / **INT** and the Preamble nickname
+    **governance-layer discipline** remain allowed.
+    """
+    if rel_path in {"doc_architecture.md"}:
+        return []
+    if rel_path.startswith(".cursor/"):
+        return []
+    findings: list[Finding] = []
+    lines = text.splitlines()
+    in_fence = False
+
+    for idx, raw in enumerate(lines, start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+
+        check_line = _mask_allowlisted_constitutional_governance_spans(
+            _mask_inline_code_and_link_targets(raw)
+        )
+        if (
+            _STAKEHOLDER_GOVERNANCE.search(check_line)
+            or _CONSTITUTIONAL_GOVERNANCE_LAYER.search(check_line)
+            or _STAKEHOLDER_GOVERNANCE_LAYER.search(check_line)
+            or _GOVERNANCE_LAYER_MECHANISM.search(check_line)
+            or _STAKEHOLDER_LAYER_LABEL.search(check_line)
+            or _TWO_TIER_CONSTITUTIONAL_STAKEHOLDER.search(check_line)
+            or _CONSTITUTIONAL_GOVERNANCE.search(check_line)
+        ):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-governance-layer-labels",
                     text=raw.strip(),
                 ),
             )
@@ -733,6 +808,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-should-not-prohibitions`:** reject **should not** in corpus prose → use **must not** for binding negative constraints.",
         "- **`avoid-definition-map-label`:** reject **Definition map.** → integrate term relationships in plain prose; use *In plain terms* for reader orientation.",
         "- **`avoid-router-read-label`:** reject **Router read:** in implementation-corpus body prose → use `- Topic routing (primary owner):` or `- Topic routing (mandatory read-with):` bullets inside the Trace `<details>` block.",
+        "- **`avoid-governance-layer-labels`:** reject **stakeholder governance**, **constitutional governance** (except Tetrad-sense **constitutional governance safeguards**), **constitutional governance layer**, **stakeholder governance layer**, **governance layer mechanism** / **governance-layer mechanism**, **stakeholder-layer**, and **two-tier constitutional and stakeholder governance** → name **Constitutional Contract Layer** vs **Stakeholder System Participation** (Preamble §3.3). Finding-profile codes **CCL** / **SSP** / **INT** remain allowed.",
         "",
         "## Scope",
     ]
@@ -800,6 +876,7 @@ def main() -> int:
         findings.extend(scan_avoid_should_not_prohibitions(rel_path, text))
         findings.extend(scan_avoid_definition_map_label(rel_path, text))
         findings.extend(scan_avoid_router_read_label(rel_path, text))
+        findings.extend(scan_avoid_governance_layer_labels(rel_path, text))
         if rel_path in _BREACH_FAMILY_SCOPE:
             findings.extend(scan_avoid_breach_family(rel_path, text))
 

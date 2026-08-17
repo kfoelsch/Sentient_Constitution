@@ -279,7 +279,7 @@ Non-substrate systems may allocate a greater share toward builder incentives and
 
 No illustrative allocation may override constitutional principles or constrain future adaptation.
 
-**Such reference models are** **non-binding**. They are **context-dependent**. They are **subject to modification through stakeholder governance** (**Article XI** (*Stakeholder System Participation, Representation, and Due Process*)).
+**Such reference models are** **non-binding**. They are **context-dependent**. They are **subject to modification through Stakeholder System Participation** (**Article XI** (*Stakeholder System Participation, Representation, and Due Process*)).
 
 **For illustrative purposes only**, systems may:
 - consider allocation ranges such as **builder and maintainer incentives: 20–40%**;
@@ -314,11 +314,11 @@ Systems that operate at higher layers (e.g., applications, tools, creative syste
 **Such systems must**:
 - still remain transparent and auditable;
 - avoid reinforcing harmful dependencies or extraction patterns;
-- remain subject to stakeholder governance** (**Article XI** (*Stakeholder System Participation, Representation, and Due Process*)) **and [Constitutional Constraints](../core_05_band_integrative.md#constitutional-constraint).
+- remain subject to **Stakeholder System Participation** (**Article XI** (*Stakeholder System Participation, Representation, and Due Process*)) **and [Constitutional Constraints](../core_05_band_integrative.md#constitutional-constraint).
 
 <a id="15-stakeholder-governance-of-funding"></a>
 <a id="cs-9-15-stakeholder-governance-of-funding"></a>
-## CS-9.15 Stakeholder governance of funding
+## CS-9.15 Stakeholder System Participation in funding
 
 *In plain terms: Those affected by allocation decisions get to review and change them, with heightened scrutiny where stability or security is at stake.*
 

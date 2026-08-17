@@ -64,7 +64,7 @@ LABELS: dict[str, tuple[str, ...]] = {
         "Reference allocation guidance",
         "Substrate system funding",
         "Non-substrate systems",
-        "Stakeholder governance of funding",
+        "Stakeholder System Participation in funding",
         "Trigger definitions",
         "Triggering review and challenge",
         "Due process in funding changes",

@@ -16,7 +16,7 @@
 >
 > This chapter presents rights in a **planet-first** order because environmental and material conditions support everything else:
 > - **Part A** covers **Articles I–IV**: environmental survival, material stewardship, survival essentials, equal educational access, and resource-flow transparency.
-> - **Part B** covers **Articles V–XI**: equal basic rights, sentient-centered education, self-ownership, likeness and data, agency, cooperation, and stakeholder governance.
+> - **Part B** covers **Articles V–XI**: equal basic rights, sentient-centered education, self-ownership, likeness and data, agency, cooperation, and Stakeholder System Participation.
 > - **Part C** covers **Articles XII–XXII**: trustworthy systems, information integrity, audit, lifecycle, sandboxed innovation, standing, portability, complexity, root-cause diagnostics, and interpretive review.
 > - **Part D** covers **Articles XXIII–XXVI**: justice and emergencies, constitutional evolution, transition, and re-baselining.
 >

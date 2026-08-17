@@ -9,7 +9,9 @@
     "Safety",
     "Truth",
     "Rights Floor",
-    "Foundational Rights"
+    "Foundational Rights",
+    "Constitutional Contract Layer",
+    "Stakeholder System Participation"
   ],
   "plain_language_substitutions": [
     {
@@ -157,6 +159,38 @@
     {
       "avoid": "pathways (bare; standing/privilege/lock/clearance object)",
       "prefer": "named pathways, named privilege pathways, or type-prefixed privilege pathways; retain Capture of Resolution Pathways, challenge/review/appeal/remedy/redress/contest pathways, restorative/restoration pathways, causal/system compounds, and established titles"
+    },
+    {
+      "avoid": "stakeholder governance",
+      "prefer": "Stakeholder System Participation (voice inside already-authorized systems); Article XI by name when the Rights Floor is the point; Preamble §3.3"
+    },
+    {
+      "avoid": "constitutional governance",
+      "prefer": "Constitutional Contract Layer when naming the authorization layer; keep Tetrad-sense constitutional governance safeguards where that phrase is not a layer label"
+    },
+    {
+      "avoid": "constitutional governance layer",
+      "prefer": "Constitutional Contract Layer (who may govern, by what legitimacy mechanism, on what durable terms)"
+    },
+    {
+      "avoid": "stakeholder governance layer",
+      "prefer": "Stakeholder System Participation (voice, representation, contestability, and due process inside already-authorized systems)"
+    },
+    {
+      "avoid": "governance layer mechanism",
+      "prefer": "legitimacy mechanism (Chapter Twelve); do not use governance-layer mechanism as a synonym for the two-layer split"
+    },
+    {
+      "avoid": "governance-layer mechanism",
+      "prefer": "legitimacy mechanism (Chapter Twelve)"
+    },
+    {
+      "avoid": "stakeholder-layer",
+      "prefer": "Stakeholder System Participation layer; cite Preamble §3.3"
+    },
+    {
+      "avoid": "two-tier constitutional and stakeholder governance",
+      "prefer": "the two governance layers: Constitutional Contract Layer and Stakeholder System Participation; reserve two-tier for the CJS-1.8 definition contract"
     }
   ],
   "co_gloss_registry": [
