@@ -15,7 +15,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter One](../core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); **Article XXIII**; **Article XIX**; **Article XXV**; **Article XI**; **Article XXVI-C**; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge).
-- Downstream: [§1](#1-purpose-and-role); [§2](#2-continuity-modes-and-rights-floor-invariants); [§9](#9-self-healing-under-decentralized-continuity).
+- Downstream: [§1](#cs-12-1-purpose-and-role); [§2](#cs-12-2-continuity-modes-and-rights-floor-invariants); [§9](#cs-12-9-self-healing-under-decentralized-continuity).
 - Read with: **CS-12**; **CS-5 §9**; **CJS-3.19**; **CJS-3.20**; **CJS-3.3**.
 
 </details>
@@ -38,7 +38,6 @@
 This file is the systems implementation home for **CS-12** (*Decentralized continuity and partition resilience*).
 
 *In plain terms: **CS-12** covers operating when the network splits or goes dark. Systems must define the modes they can run in — normal, partitioned, fully offline, and rejoining — and preserve the Rights Floor in every one of them, including how conflicting records are reconciled once the parts reconnect.*
-<a id="1-purpose-and-role"></a>
 <a id="cs-12-1-purpose-and-role"></a>
 ## CS-12.1 Purpose and role
 
@@ -46,7 +45,6 @@ This file is the systems implementation home for **CS-12** (*Decentralized conti
 
 This file operationalizes **operational** constitutional continuity under prolonged network disruption, partition, and adversarial connectivity conditions (including LAN-level compromise or sustained denial) — distinct from the constitutional **Continuity aim** in [Chapter One §1](../core_00_preamble.md#two-constitutional-aims). It implements Sentient Constitution [Chapter One](../core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) constraints (Safety, Truth, proportionality, necessity) and the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad). It implements **Chapter Five** definitions where materially relevant ([*Governance Architecture…*](../core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) *Governance Architecture… — Systemic Lock-In*, *Dependency*, *Oversight*, and related hubs where partition or coupling analysis applies jointly; **[Chapter One §8.24](../core_05_band_oversight.md#movement-refuge-semi-independent)** *Movement, Refuge, Non-Statelessness, and Exit Integrity* where partition or exit implicates movement, refuge, or recognition jointly; **[§11.3](../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster)** *Accountability* and collective-accountability routing where materially relevant; **[§3.32](../core_05_band_participation.md#collective-harm-boundary-and-harm-cluster)** *Resilience*, *Reversibility*, *Safety*, *Cascading Failure*, and systemic-harm containment where materially relevant; **[Chapter One §8.17](../core_05_band_continuity.md#emergency-and-contingency-semi-independent)** *Emergency and Contingency* where prolonged disruption or contingency predicates apply). It implements **Chapter Six, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)** (conflict and emergency proportionality). It implements **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) (interoperability, portability, and exit integrity). It implements **Article XXV** (*Constitutional Evolution and Non-Entrenchment*) (constitutional evolution and non-entrenchment). It implements **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) (Stakeholder System Participation, representation, and due process). It implements **Article XXVI-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) where continuity-mode failure handling, off-ramps, or rejoin re-baselining are implicated. It also applies **CJS-3.19** (*graceful degradation and failure-mode integrity terms*), **CJS-3.3** (*auditability and reconstructability terms*), **CJS-3.4** (*tiered transparency and audit-access terms*), **CJS-3.5** (*independent verification and claim-integrity terms*), **CJS-3.20** (*reversibility and containment terms*), **CJS-3.18** (*data-retention and lifecycle-integrity terms*), **CJS-3.11** (*distributed and proportional authority terms*), **CJS-3.2** (*reflexive transparency and accountability terms*), and **CJS-3.13** (*procedural integrity and adjudication terms*). This file does not narrow Rights Floors.
 
-<a id="2-continuity-modes-and-rights-floor-invariants"></a>
 <a id="cs-12-2-continuity-modes-and-rights-floor-invariants"></a>
 ## CS-12.2 Continuity modes and Rights-Floor invariants
 
@@ -61,7 +59,6 @@ For every mode, systems must preserve non-regression constitutional floors. Thos
 - be independently reviewable at class-appropriate cadence;
 - be reversible when trigger conditions clear.
 
-<a id="3-local-first-governance-execution-under-disconnection"></a>
 <a id="cs-12-3-local-first-governance-execution-under-disconnection"></a>
 ## CS-12.3 Local-first governance execution under disconnection
 
@@ -77,7 +74,6 @@ That execution includes:
 
 Local execution authority must be scope-limited, time-bounded, and constrained by least-restrictive and reversibility requirements.
 
-<a id="4-partition-safe-decision-constraints"></a>
 <a id="cs-12-4-partition-safe-decision-constraints"></a>
 ## CS-12.4 Partition-safe decision constraints
 
@@ -93,7 +89,6 @@ During Degraded-Partitioned or Offline-Sovereign modes: **binding decisions must
 
 Decisions taken under partition remain challengeable and must be revalidated during Rejoin-Reconciliation.
 
-<a id="5-offline-audit-integrity-and-reconciliation"></a>
 <a id="cs-12-5-offline-audit-integrity-and-reconciliation"></a>
 ## CS-12.5 Offline audit integrity and reconciliation
 
@@ -108,7 +103,6 @@ Those chains use **append-only event records with integrity proofs**. They use *
 - identify and flag inconsistent histories or unverifiable segments;
 - apply predeclared conflict-resolution rules with independent review for high-impact divergence.
 
-<a id="6-decentralized-trust-anchor-and-credential-continuity"></a>
 <a id="cs-12-6-decentralized-trust-anchor-and-credential-continuity"></a>
 ## CS-12.6 Decentralized trust anchor and credential continuity
 
@@ -141,7 +135,6 @@ Threshold recovery and emergency rotation procedures must include anti-seizure a
 - **If threshold participants are unavailable,** temporary degraded trust operation may continue only with reduced binding scope, strict expiry, and mandatory post-rejoin revalidation.
 - **Any emergency trust state established under degraded conditions is provisional** and cannot permanently override predeclared constitutional trust-baseline rules without independent post-incident review.
 
-<a id="7-performance-and-reliability-under-decentralized-operation"></a>
 <a id="cs-12-7-performance-and-reliability-under-decentralized-operation"></a>
 ## CS-12.7 Performance and reliability under decentralized operation
 
@@ -151,7 +144,6 @@ Class-scaled continuity profiles must define measurable decentralized performanc
 
 Targets must be auditable and periodically reviewed, and must scale with the **CS-3** (*System classification and handling*) class and the **CS-4** (*Critical system stewardship*) stewardship tier where applicable. Targets must never justify weakening constitutional Rights Floors or verification integrity.
 
-<a id="8-rejoin-de-escalation-and-anti-normalization"></a>
 <a id="cs-12-8-rejoin-de-escalation-and-anti-normalization"></a>
 ## CS-12.8 Rejoin, de-escalation, and anti-normalization
 
@@ -166,7 +158,6 @@ It must:
 
 Persistent operation in degraded modes without renewed necessity and independent review is non-compliant and must trigger structural oversight escalation.
 
-<a id="9-self-healing-under-decentralized-continuity"></a>
 <a id="cs-12-9-self-healing-under-decentralized-continuity"></a>
 ## CS-12.9 Self-healing under decentralized continuity
 

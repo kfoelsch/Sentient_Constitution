@@ -15,7 +15,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*); **Article IV-B** (*Cross-System Fairness and Sustainability*); [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
-- Downstream: [§1](#1-purpose-and-role); [§2](#2-principles-of-funding); [§4](#4-dependent-systems-map); [§16](#16-trigger-definitions).
+- Downstream: [§1](#1-purpose-and-role); [§2](#cs-9-2-principles-of-funding); [§4](#cs-9-4-dependent-systems-map); [§16](#cs-9-16-trigger-definitions).
 - Read with: **CS-9**; **CS-8**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**.
 
 </details>
@@ -55,7 +55,6 @@ Constitutional tracing: This file specifies implementation-file-level funding st
 
 Funding processes should reward contribution, sustain systems, and fund long-term resilience without permanent extraction or unaccountable concentration, consistent with **Articles IV, XI, XII, XV-A, XVIII, XXI, and XXIII** where applicable.
 
-<a id="2-principles-of-funding"></a>
 <a id="cs-9-2-principles-of-funding"></a>
 ## CS-9.2 Principles of funding
 
@@ -71,7 +70,6 @@ Mechanisms must:
 - remain transparent, auditable, and reviewable (**Article XV-A** (*Auditability and Observable Evidence*));
 - preserve adaptability (**Article XXV** (*Constitutional Evolution and Non-Entrenchment*)).
 
-<a id="3-cross-system-resource-flows-and-dependencies"></a>
 <a id="cs-9-3-cross-system-resource-flows-and-dependencies"></a>
 ## CS-9.3 Cross-system resource flows and dependencies
 
@@ -100,7 +98,6 @@ Funding structures must:
 
 Imbalances that materially threaten the stability, accessibility, or integrity of dependent systems constitute a risk to constitutional alignment and are subject to review.
 
-<a id="4-dependent-systems-map"></a>
 <a id="cs-9-4-dependent-systems-map"></a>
 ## CS-9.4 Dependent systems map
 
@@ -119,7 +116,6 @@ Systems must maintain a documented representation of their material dependencies
 - be aggregated across the ecosystem where feasible;
 - be used to identify systemic risks, funding imbalances, and coordination needs.
 
-<a id="5-transparency-of-resource-flows"></a>
 <a id="cs-9-5-transparency-of-resource-flows"></a>
 ## CS-9.5 Transparency of resource flows
 
@@ -134,7 +130,6 @@ Funding systems must:
 - disclose allocation logic and distribution mechanisms;
 - enable independent verification of funding outcomes.
 
-<a id="6-prevention-of-funding-based-capture"></a>
 <a id="cs-9-6-prevention-of-funding-based-capture"></a>
 ## CS-9.6 Prevention of funding-based capture
 
@@ -150,7 +145,6 @@ Funding structures must:
 - disclose emerging concentration risks;
 - support corrective mechanisms where needed.
 
-<a id="7-required-allocation-categories"></a>
 <a id="cs-9-7-required-allocation-categories"></a>
 ## CS-9.7 Required allocation categories
 
@@ -172,7 +166,6 @@ Underfunding that produces **chronic non-performance** of remediation obligation
 
 **Ecosystem and public good funding:** support for the broader constitutional ecosystem, including **shared infrastructure**, **interoperable and related systems**, and **new constitutionally aligned projects**.
 
-<a id="8-bounded-builder-returns"></a>
 <a id="cs-9-8-bounded-builder-returns"></a>
 ## CS-9.8 Bounded builder returns
 
@@ -195,7 +188,6 @@ Early foundational contributions may justify temporary or extended allocation.
 - avoid funding structures that concentrate long-term control or influence;
 - avoid incentive models that undermine equitable resource distribution.
 
-<a id="9-stability-of-funding-agreements"></a>
 <a id="cs-9-9-stability-of-funding-agreements"></a>
 ## CS-9.9 Stability of funding agreements
 
@@ -215,7 +207,6 @@ Once established and disclosed, allocation structures affecting builder and main
 - implement vesting or decay-based allocation models;
 - implement other mechanisms that balance stability with adaptability.
 
-<a id="10-evolution-of-funding-models"></a>
 <a id="cs-9-10-evolution-of-funding-models"></a>
 ## CS-9.10 Evolution of funding models
 
@@ -247,7 +238,6 @@ Reauthorization processes may be initiated by system participants, oversight bod
 
 All such mechanisms must remain consistent with [Constitutional Constraints](../core_05_band_integrative.md#constitutional-constraint) and subject to audit.
 
-<a id="11-default-funding-allocation-models"></a>
 <a id="cs-9-11-default-funding-allocation-models"></a>
 ## CS-9.11 Default funding allocation models
 
@@ -267,7 +257,6 @@ One such reference model includes:
 - be disclosed transparently;
 - remain subject to modification through stakeholder deliberation (**Article XI** (*Stakeholder System Participation, Representation, and Due Process*); **Chapter Six**, section **4**, where binding collective choice applies).
 
-<a id="12-reference-allocation-guidance"></a>
 <a id="cs-9-12-reference-allocation-guidance"></a>
 ## CS-9.12 Reference allocation guidance
 
@@ -286,7 +275,6 @@ No illustrative allocation may override constitutional principles or constrain f
 - consider **operations, security, and upgrades: 30–50%**;
 - consider **ecosystem and public goods funding: 20–40%**.
 
-<a id="13-substrate-system-funding"></a>
 <a id="cs-9-13-substrate-system-funding"></a>
 ## CS-9.13 Substrate system funding
 
@@ -303,7 +291,6 @@ Systems and the broader ecosystem must ensure that critical substrate functions 
 - recognize their foundational role in enabling higher-layer value creation;
 - prevent systematic underinvestment in critical infrastructure.
 
-<a id="14-non-substrate-systems"></a>
 <a id="cs-9-14-non-substrate-systems"></a>
 ## CS-9.14 Non-substrate systems
 
@@ -316,7 +303,6 @@ Systems that operate at higher layers (e.g., applications, tools, creative syste
 - avoid reinforcing harmful dependencies or extraction patterns;
 - remain subject to **Stakeholder System Participation** (**Article XI** (*Stakeholder System Participation, Representation, and Due Process*)) **and [Constitutional Constraints](../core_05_band_integrative.md#constitutional-constraint).
 
-<a id="15-stakeholder-governance-of-funding"></a>
 <a id="cs-9-15-stakeholder-governance-of-funding"></a>
 ## CS-9.15 Stakeholder System Participation in funding
 
@@ -331,7 +317,6 @@ Allocation models are subject to participatory oversight under **Article XI** (*
 - be transparently documented;
 - preserve auditability.
 
-<a id="16-trigger-definitions"></a>
 <a id="cs-9-16-trigger-definitions"></a>
 ## CS-9.16 Trigger definitions
 
@@ -339,7 +324,6 @@ Allocation models are subject to participatory oversight under **Article XI** (*
 
 Systems must define measurable indicators and thresholds that reflect system health, resource flows, and ecosystem impact. These indicators form the basis for adaptive allocation processes defined in **CS-8** (see Sentient Constitution **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*)).
 
-<a id="17-triggering-review-and-challenge"></a>
 <a id="cs-9-17-triggering-review-and-challenge"></a>
 ## CS-9.17 Triggering review and challenge
 
@@ -356,7 +340,6 @@ No minimum participation threshold is required to initiate review, though outcom
 - remain subject to audit and evaluation under **Article XV-A** (*Auditability and Observable Evidence*);
 - be resolved through participatory processes (**Article XI** (*Stakeholder System Participation, Representation, and Due Process*); **Chapter Six**, section **4**, where binding collective choice applies) and, where necessary, Article XXIII-A** (*Justice Objective and Scope*)** (justice objective and review scope).
 
-<a id="18-due-process-in-funding-changes"></a>
 <a id="cs-9-18-due-process-in-funding-changes"></a>
 ## CS-9.18 Due process in funding changes
 
@@ -370,7 +353,6 @@ Funding-related decisions apply **Article XI** (*Stakeholder System Participatio
 - audit and review route;
 - reversibility assessment where feasible.
 
-<a id="19-steward-operator-and-governance-remuneration-incentive-governance"></a>
 <a id="cs-9-19-steward-operator-and-governance-remuneration-incentive-governance"></a>
 ## CS-9.19 Steward, operator, and governance remuneration (incentive governance)
 
@@ -380,7 +362,6 @@ Compensation, equity, bonuses, performance metrics, and deferred incentives for 
 
 Remuneration design must satisfy [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer), including **CJS-3.12** (*burden-of-justification and constraint terms*) mechanism-integrity and incentive-alignment requirements, incorporated via **Sentient Constitution Chapter Sixteen**, and **Sentient Constitution Chapter One**. That includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
 
-<a id="20-conflict-free-remuneration-processes"></a>
 <a id="cs-9-20-conflict-free-remuneration-processes"></a>
 ## CS-9.20 Conflict-free remuneration processes
 
@@ -396,7 +377,6 @@ Variable pay or equity tied to metrics susceptible to **gaming** at the expense 
 
 **Examples** include multi-period evaluation, independent outcome attestation, metric redesign, or caps. Those safeguards must be proportional to **system class** (CS-3 — System classification and handling) and **stewardship tier** (CS-4 — Critical system stewardship).
 
-<a id="21-observability-of-alignment"></a>
 <a id="cs-9-21-observability-of-alignment"></a>
 ## CS-9.21 Observability of alignment
 

@@ -15,7 +15,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: **Article XX-A** (*Proportional Comprehensibility Right*); **Article XX-B** (*Complexity Audit and Modularity Requirements*); [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
-- Downstream: [§1](#1-purpose-and-role); [§2](#2-classification-scaled-application); [§3](#3-systems-specific-checks); [§4](#4-gaps-and-silence).
+- Downstream: [§1](#1-purpose-and-role); [§2](#cs-6-2-classification-scaled-application); [§3](#cs-6-3-systems-specific-checks); [§4](#cs-6-4-gaps-and-silence).
 - Read with: **CS-6**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CJS-3.8**; **CJS-3.9**; **CJS-3.10**; **CJS-3.16**; **CJS-3.19**; **CJS-3.21**.
 
 </details>
@@ -59,7 +59,6 @@ This file is not a second home for **Article XX** (*Comprehensibility and Comple
 
 Two rules settle any gap or conflict. Where this file and a **CJS-3** (*operational cluster library*) term conflict, the stricter requirement governs. Where this file is silent on how to interpret, define, verify, or trace a constitutional term, **Sentient Constitution Chapters Two through Five** govern.
 
-<a id="2-classification-scaled-application"></a>
 <a id="cs-6-2-classification-scaled-application"></a>
 ## CS-6.2 Classification-scaled application
 
@@ -67,7 +66,6 @@ Two rules settle any gap or conflict. Where this file and a **CJS-3** (*operatio
 
 How strict these requirements are depends on the system's class. The **Comprehensibility and Complexity Stewardship** line in each **Implementation label Application Profile** under **CS-3** (*System classification and handling*) sets that scaling for Classes A, B, C, L, and P, alongside transparency and auditability. It scales this file and the six clusters listed above together. **CS-4** (*Critical system stewardship*) adds organization-scaled rows for the Critical System Steward tiers (**CSS-A**, **CSS-B**, and **CSS-C**). Where both apply, the **stricter** requirement governs.
 
-<a id="3-systems-specific-checks"></a>
 <a id="cs-6-3-systems-specific-checks"></a>
 ## CS-6.3 Systems-specific checks
 
@@ -86,7 +84,6 @@ CS-6 adds the following systems-specific checks:
 - **Learning from failure.** Failures, anomalies, and near-misses must feed transparent post-incident learning. That learning must focus on systemic weaknesses rather than on blame.
 - **Periodic simplification.** Governance institutions must periodically simplify or remove unnecessary complexity, redundant processes, outdated rules, or excessive dependencies, where doing so preserves clarity, operability, and resilience.
 
-<a id="4-gaps-and-silence"></a>
 <a id="cs-6-4-gaps-and-silence"></a>
 ## CS-6.4 Gaps and silence
 

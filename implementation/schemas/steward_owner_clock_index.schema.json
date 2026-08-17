@@ -49,7 +49,7 @@
         "anchor": { "type": "string", "minLength": 1 },
         "aliases": {
           "type": "array",
-          "minItems": 2,
+          "minItems": 0,
           "items": { "type": "string", "minLength": 1 }
         },
         "sequence": {

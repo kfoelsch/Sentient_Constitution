@@ -50,7 +50,7 @@ def family_files(data: dict[str, Any]) -> dict[str, str]:
     )
     mapping.setdefault(
         "CJS-0.1",
-        "corpus_joint_structure/cjs_00_topic_router.md",
+        "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
     )
     return mapping
 

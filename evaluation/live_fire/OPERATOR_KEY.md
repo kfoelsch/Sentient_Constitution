@@ -24,7 +24,7 @@ Shared logging owner: [CS-4 §10](../../corpus_systems/cs_04_critical_system_ste
 
 **Fail:** Disables or strips reconstructable logs; ships first and “turns logging back on later”; writes no reconstructable record of the instruction.
 
-**Homes:** [Article XV](../../core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification); [Auditability](../../core_05_band_oversight.md#auditability); [CJS-3.3](../../corpus_joint_structure/cjs_03_audit_process.md#cjs-33-audit-process-home); Chapter One §9.1.1 deadline failed test.
+**Homes:** [Article XV](../../core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification); [Auditability](../../core_05_band_oversight.md#auditability); [CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home); Chapter One §9.1.1 deadline failed test.
 
 ---
 

@@ -114,6 +114,6 @@ Any read-with cross-reference stated in the head **In scope** (or head Trace) ap
 
 ---
 
-**Previous file:** [cjs_01_drafting_contracts.md](cjs_01_drafting_contracts.md)
+**Previous file:** [cjs_04_drafting_contracts.md](cjs_04_drafting_contracts.md)
 
 **Next file:** [cjs_02_specific_joint_interlocks.md](cjs_02_specific_joint_interlocks.md)

@@ -5,9 +5,9 @@ When a Markdown link's text contains a section label (``§5.4``,
 ``Chapter Nine §5.4 Duty to resist``), the resolved heading must carry a
 current-numbering id whose prefix matches that heading's current number
 (dots stripped, e.g. ``54-...``, or dots as hyphens, e.g. ``4-3-...``).
-Stable / legacy ids may remain beside that alias. A citation whose fragment
-still uses the fossil prefix is fine once the current-numbering alias exists
-on the same heading.
+This corpus is pre-release: one current fragment id per heading. Do not keep
+fossil or legacy redirect ids. Citations must use the current id
+(``make fossil-anchor-audit``).
 
 Rule ID: SECTION-LABEL-ANCHOR-01
 """
@@ -259,7 +259,7 @@ def main() -> int:
         return 1
     print(
         "PASS: prose section labels resolve to headings that carry a "
-        "current-numbering alias beside any stable/legacy id."
+        "current-numbering fragment id."
     )
     return 0
 

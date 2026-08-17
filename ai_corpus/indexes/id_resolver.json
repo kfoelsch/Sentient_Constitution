@@ -1,9 +1,9 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-08-15T08:34:24+00:00",
+  "generated_at": "2026-08-17T10:25:01+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms, and current/fossil anchors. Indexes point; source text binds.",
+  "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
   "ids": {
     "CF-0": {
       "file": "corpus_forum/cf_00_registry_and_reading_rules.md",
@@ -470,7 +470,7 @@
       "file": "corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md",
       "anchor": "#cf-152-required-fields",
       "heading": "CF-15.2 Required fields",
-      "line": 92,
+      "line": 93,
       "kind": "section",
       "gloss": "What each record must carry — which body, which authority, when, who was responsible, and who was affected — so it remains interpretable years later."
     },
@@ -478,7 +478,7 @@
       "file": "corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md",
       "anchor": "#cf-153-access-classes",
       "heading": "CF-15.3 Access classes",
-      "line": 108,
+      "line": 109,
       "kind": "section",
       "gloss": "Records are tagged by who may see them: the parties, the public, or restricted review only. Tagging is decided by design rather than case by case."
     },
@@ -486,7 +486,7 @@
       "file": "corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md",
       "anchor": "#cf-154-evidence-artifact-handling",
       "heading": "CF-15.4 Evidence artifact handling",
-      "line": 122,
+      "line": 123,
       "kind": "section",
       "gloss": "Evidence must keep its origin, handling history, and transformations attached, whether it is a physical object, a digital file, or a system log."
     },
@@ -494,7 +494,7 @@
       "file": "corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md",
       "anchor": "#cf-155-publication-retention-and-reconciliation",
       "heading": "CF-15.5 Publication, retention, and reconciliation",
-      "line": 130,
+      "line": 131,
       "kind": "section",
       "gloss": "Publication and retention rules are set in advance and kept consistent with the timeliness, continuity, and emergency requirements elsewhere in this family."
     },
@@ -502,7 +502,7 @@
       "file": "corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md",
       "anchor": "#cf-156-non-compliant-record-patterns",
       "heading": "CF-15.6 Non-compliant record patterns",
-      "line": 148,
+      "line": 149,
       "kind": "section",
       "gloss": "The failures that make later review impossible: action with no attributable record, records omitting the review path, and forms that obscure how a matter was routed."
     },
@@ -1750,27 +1750,29 @@
       "anchor": "#cjs-0-registry-and-reading-rules",
       "heading": "CJS-0: Registry and reading rules",
       "line": 34,
-      "kind": "family"
+      "kind": "family",
+      "gloss": "Identifier rules and the CJS-0 family map. Cross-file topic routing lives in **CJS-0.1** in this same file; humans start at the generated topic-router reader index."
     },
     "CJS-0.1": {
       "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
       "anchor": "#cjs-01-cross-file-routing",
       "heading": "CJS-0.1: Cross-file routing",
-      "line": 63,
-      "kind": "family"
+      "line": 61,
+      "kind": "family",
+      "gloss": "The routing desk for the whole implementation layer: which file owns which topic, and which files must be read alongside it. Average readers use the generated topic-router index; this section holds the maintainer table."
     },
     "CJS-0.2": {
       "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
       "anchor": "#cjs-02-joint-structure-registry",
       "heading": "CJS-0.2: Joint structure registry",
-      "line": 75,
+      "line": 148,
       "kind": "section"
     },
     "CJS-0.3": {
       "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
       "anchor": "#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes",
       "heading": "CJS-0.3: Stable identifiers, edition alignment, and drafting notes",
-      "line": 110,
+      "line": 183,
       "kind": "section"
     },
     "CJS-1": {
@@ -1797,21 +1799,21 @@
       "gloss": "Labels like **CJS-1.1** or **CF-4** are navigation addresses inside the implementation corpus. They are not Article numbers in the Constitution itself. **oDef** is the short name for joint operational definitions — the how-to clusters in **CJS-3**, not Chapter Five dictionary entries."
     },
     "CJS-1.10": {
-      "file": "corpus_joint_structure/cjs_02_support_hosting_classification.md",
+      "file": "corpus_joint_structure/cjs_06_support_hosting_classification.md",
       "anchor": "#cjs-110-institution-hosted-or-forum-adjacent-operations",
       "heading": "CJS-1.10: Institution-hosted or forum-adjacent operations",
       "line": 57,
       "kind": "section"
     },
     "CJS-1.11": {
-      "file": "corpus_joint_structure/cjs_02_support_hosting_classification.md",
+      "file": "corpus_joint_structure/cjs_06_support_hosting_classification.md",
       "anchor": "#cjs-111-classification-alignment-for-supervised-scope",
       "heading": "CJS-1.11: Classification alignment for supervised scope",
       "line": 64,
       "kind": "section"
     },
     "CJS-1.13": {
-      "file": "corpus_joint_structure/cjs_01_odef_parse.md",
+      "file": "corpus_joint_structure/cjs_05_odef_parse_mechanics.md",
       "anchor": "#cjs-113cjs-114-odef-parse-mechanics",
       "heading": "CJS-1.13–CJS-1.14: oDef parse mechanics",
       "line": 1,
@@ -1819,7 +1821,7 @@
       "gloss": "How to read each **oDef** entry: **What it is** says what the rule covers, **How to measure and assess** says what evidence to check and how reviewers verify it, and **What must hold** states the binding failure modes."
     },
     "CJS-1.14": {
-      "file": "corpus_joint_structure/cjs_01_odef_parse.md",
+      "file": "corpus_joint_structure/cjs_05_odef_parse_mechanics.md",
       "anchor": "#cjs-114-operational-clusters",
       "heading": "CJS-1.14: Operational clusters",
       "line": 74,
@@ -1834,28 +1836,28 @@
       "kind": "section"
     },
     "CJS-1.7": {
-      "file": "corpus_joint_structure/cjs_01_drafting_contracts.md",
+      "file": "corpus_joint_structure/cjs_04_drafting_contracts.md",
       "anchor": "#cjs-17cjs-181-drafting-contracts-and-owner-to-cjs-seam",
       "heading": "CJS-1.7–CJS-1.8.1: Drafting contracts and owner-to-CJS seam",
       "line": 1,
       "kind": "section"
     },
     "CJS-1.8": {
-      "file": "corpus_joint_structure/cjs_01_drafting_contracts.md",
+      "file": "corpus_joint_structure/cjs_04_drafting_contracts.md",
       "anchor": "#cjs-18-two-tier-definition-contract-binding-abstraction-owner-detail",
       "heading": "CJS-1.8: Two-tier definition contract (binding abstraction + owner detail)",
       "line": 51,
       "kind": "section"
     },
     "CJS-1.8.1": {
-      "file": "corpus_joint_structure/cjs_01_drafting_contracts.md",
+      "file": "corpus_joint_structure/cjs_04_drafting_contracts.md",
       "anchor": "#cjs-181-implementation-boundary-primary-owner-to-cjs-seam",
       "heading": "CJS-1.8.1 Implementation boundary (primary owner to CJS seam)",
       "line": 86,
       "kind": "section"
     },
     "CJS-1.9": {
-      "file": "corpus_joint_structure/cjs_02_support_hosting_classification.md",
+      "file": "corpus_joint_structure/cjs_06_support_hosting_classification.md",
       "anchor": "#cjs-19cjs-111-support-roles-hosting-independence-and-classification-alignment",
       "heading": "CJS-1.9–CJS-1.11: Support roles, hosting independence, and classification alignment",
       "line": 1,
@@ -1869,45 +1871,45 @@
       "kind": "family"
     },
     "CJS-2.1": {
-      "file": "corpus_joint_structure/cjs_02_hybrid_delegated_authority.md",
-      "anchor": "#cjs-21-hybrid-delegated-authority",
-      "heading": "CJS-2.1: Hybrid delegated authority",
-      "line": 1,
+      "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+      "anchor": "#cjs-21-hybrid-delegated-authority-delegated-binding-bodies",
+      "heading": "CJS-2.1 Hybrid delegated authority (delegated binding bodies)",
+      "line": 74,
       "kind": "section"
     },
     "CJS-2.1.1": {
-      "file": "corpus_joint_structure/cjs_02_hybrid_delegated_authority.md",
+      "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
       "anchor": "#cjs-211-composition-floor",
       "heading": "CJS-2.1.1 Composition floor",
-      "line": 68,
+      "line": 96,
       "kind": "section"
     },
     "CJS-2.1.2": {
-      "file": "corpus_joint_structure/cjs_02_hybrid_delegated_authority.md",
+      "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
       "anchor": "#cjs-212-attachment-publication",
       "heading": "CJS-2.1.2 Attachment publication",
-      "line": 101,
+      "line": 121,
       "kind": "section"
     },
     "CJS-2.3": {
-      "file": "corpus_joint_structure/cjs_02_trust_integrity.md",
-      "anchor": "#cjs-23-cross-implementation-trust-integrity",
-      "heading": "CJS-2.3: Cross-implementation trust integrity",
-      "line": 1,
+      "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+      "anchor": "#cjs-23-cross-implementation-trust-integrity-joint-operation-model",
+      "heading": "CJS-2.3 Cross-implementation trust integrity (joint operation model)",
+      "line": 135,
       "kind": "section"
     },
     "CJS-2.4": {
-      "file": "corpus_joint_structure/cjs_02_lane_staffing.md",
+      "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
       "anchor": "#cjs-24-class-scaled-lane-staffing-and-competency-redundancy",
-      "heading": "CJS-2.4: Class-scaled lane staffing and competency redundancy",
-      "line": 1,
+      "heading": "CJS-2.4 Class-scaled lane staffing and competency redundancy",
+      "line": 174,
       "kind": "section"
     },
     "CJS-2.5": {
-      "file": "corpus_joint_structure/cjs_02_procedural_abstractions.md",
+      "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
       "anchor": "#cjs-25-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing",
-      "heading": "CJS-2.5: Shared procedural abstractions for delegated bodies and forum routing",
-      "line": 1,
+      "heading": "CJS-2.5 Shared procedural abstractions for delegated bodies and forum routing",
+      "line": 205,
       "kind": "section"
     },
     "CJS-3": {
@@ -1930,7 +1932,7 @@
       "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
       "anchor": "#cjs-31-library-constitutional-compass-and-cluster-map",
       "heading": "CJS-3.1 Library: Constitutional compass and cluster map",
-      "line": 313,
+      "line": 330,
       "kind": "section",
       "gloss": "The index to the **oDef** library: which operational definition covers what, and which constitutional principle each one carries into practice."
     },
@@ -2098,10 +2100,10 @@
       "gloss": "These clusters carry the **Oversight** leg into working terms: making a system explain itself, keeping enough record to reconstruct what happened, scaling who may see what, verifying claims independently, and keeping assurance itself resilient. They must be read together, because one strong control cannot rescue a weak link elsewhere."
     },
     "CJS-3.3": {
-      "file": "corpus_joint_structure/cjs_03_audit_process.md",
-      "anchor": "#cjs-33-audit-process-home",
-      "heading": "CJS-3.3 / oDef.3 Audit process home",
-      "line": 2,
+      "file": "corpus_joint_structure/cjs_03o_oversight_operations.md",
+      "anchor": "#cjs-33-auditability-annex",
+      "heading": "CJS-3.3 Oversight: auditability and reconstructability terms (annex)",
+      "line": 242,
       "kind": "section"
     },
     "CJS-3.4": {
@@ -2195,42 +2197,42 @@
       "file": "corpus_systems/cs_10_transition_constitution_migration_governance.md",
       "anchor": "#cs-10-1-purpose-and-role",
       "heading": "CS-10.1 Purpose and role",
-      "line": 41,
+      "line": 40,
       "kind": "section"
     },
     "CS-10.2": {
       "file": "corpus_systems/cs_10_transition_constitution_migration_governance.md",
       "anchor": "#cs-10-2-phased-transition-structure",
       "heading": "CS-10.2 Phased transition structure",
-      "line": 49,
+      "line": 47,
       "kind": "section"
     },
     "CS-10.3": {
       "file": "corpus_systems/cs_10_transition_constitution_migration_governance.md",
       "anchor": "#cs-10-3-gate-criteria-and-advancement-rules",
       "heading": "CS-10.3 Gate criteria and advancement rules",
-      "line": 62,
+      "line": 59,
       "kind": "section"
     },
     "CS-10.4": {
       "file": "corpus_systems/cs_10_transition_constitution_migration_governance.md",
       "anchor": "#cs-10-4-transitional-authority-constraints",
       "heading": "CS-10.4 Transitional authority constraints",
-      "line": 77,
+      "line": 73,
       "kind": "section"
     },
     "CS-10.5": {
       "file": "corpus_systems/cs_10_transition_constitution_migration_governance.md",
       "anchor": "#cs-10-5-failure-handling-off-ramps-and-re-baselining",
       "heading": "CS-10.5 Failure handling, off-ramps, and re-baselining",
-      "line": 87,
+      "line": 82,
       "kind": "section"
     },
     "CS-10.6": {
       "file": "corpus_systems/cs_10_transition_constitution_migration_governance.md",
       "anchor": "#cs-10-6-transition-audit-disclosure-and-challenge",
       "heading": "CS-10.6 Transition audit, disclosure, and challenge",
-      "line": 100,
+      "line": 94,
       "kind": "section"
     },
     "CS-11": {
@@ -2245,56 +2247,56 @@
       "file": "corpus_systems/cs_11_subversion_response_replacement_reconstitution.md",
       "anchor": "#cs-11-1-purpose-and-role",
       "heading": "CS-11.1 Purpose and role",
-      "line": 42,
+      "line": 41,
       "kind": "section"
     },
     "CS-11.2": {
       "file": "corpus_systems/cs_11_subversion_response_replacement_reconstitution.md",
       "anchor": "#cs-11-2-landscape-compromise-declaration-and-activation",
       "heading": "CS-11.2 Landscape compromise declaration and activation",
-      "line": 62,
+      "line": 60,
       "kind": "section"
     },
     "CS-11.3": {
       "file": "corpus_systems/cs_11_subversion_response_replacement_reconstitution.md",
       "anchor": "#cs-11-3-priority-triage-and-dependency-aware-containment",
       "heading": "CS-11.3 Priority triage and dependency-aware containment",
-      "line": 80,
+      "line": 77,
       "kind": "section"
     },
     "CS-11.4": {
       "file": "corpus_systems/cs_11_subversion_response_replacement_reconstitution.md",
       "anchor": "#cs-11-4-governance-continuity-under-multi-node-compromise",
       "heading": "CS-11.4 Governance continuity under multi-node compromise",
-      "line": 97,
+      "line": 93,
       "kind": "section"
     },
     "CS-11.5": {
       "file": "corpus_systems/cs_11_subversion_response_replacement_reconstitution.md",
       "anchor": "#cs-11-5-replacement-and-reconstitution-procedure",
       "heading": "CS-11.5 Replacement and reconstitution procedure",
-      "line": 134,
+      "line": 129,
       "kind": "section"
     },
     "CS-11.6": {
       "file": "corpus_systems/cs_11_subversion_response_replacement_reconstitution.md",
       "anchor": "#cs-11-6-supply-chain-and-cross-jurisdiction-countermeasure-coordination",
       "heading": "CS-11.6 Supply-chain and cross-jurisdiction countermeasure coordination",
-      "line": 149,
+      "line": 143,
       "kind": "section"
     },
     "CS-11.7": {
       "file": "corpus_systems/cs_11_subversion_response_replacement_reconstitution.md",
       "anchor": "#cs-11-7-crisis-communications-and-anti-disinformation-controls",
       "heading": "CS-11.7 Crisis communications and anti-disinformation controls",
-      "line": 161,
+      "line": 154,
       "kind": "section"
     },
     "CS-11.8": {
       "file": "corpus_systems/cs_11_subversion_response_replacement_reconstitution.md",
       "anchor": "#cs-11-8-exit-restoration-and-post-incident-revalidation",
       "heading": "CS-11.8 Exit, restoration, and post-incident revalidation",
-      "line": 203,
+      "line": 195,
       "kind": "section"
     },
     "CS-12": {
@@ -2309,63 +2311,63 @@
       "file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
       "anchor": "#cs-12-1-purpose-and-role",
       "heading": "CS-12.1 Purpose and role",
-      "line": 43,
+      "line": 42,
       "kind": "section"
     },
     "CS-12.2": {
       "file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
       "anchor": "#cs-12-2-continuity-modes-and-rights-floor-invariants",
       "heading": "CS-12.2 Continuity modes and Rights-Floor invariants",
-      "line": 51,
+      "line": 49,
       "kind": "section"
     },
     "CS-12.3": {
       "file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
       "anchor": "#cs-12-3-local-first-governance-execution-under-disconnection",
       "heading": "CS-12.3 Local-first governance execution under disconnection",
-      "line": 66,
+      "line": 63,
       "kind": "section"
     },
     "CS-12.4": {
       "file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
       "anchor": "#cs-12-4-partition-safe-decision-constraints",
       "heading": "CS-12.4 Partition-safe decision constraints",
-      "line": 82,
+      "line": 78,
       "kind": "section"
     },
     "CS-12.5": {
       "file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
       "anchor": "#cs-12-5-offline-audit-integrity-and-reconciliation",
       "heading": "CS-12.5 Offline audit integrity and reconciliation",
-      "line": 98,
+      "line": 93,
       "kind": "section"
     },
     "CS-12.6": {
       "file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
       "anchor": "#cs-12-6-decentralized-trust-anchor-and-credential-continuity",
       "heading": "CS-12.6 Decentralized trust anchor and credential continuity",
-      "line": 113,
+      "line": 107,
       "kind": "section"
     },
     "CS-12.7": {
       "file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
       "anchor": "#cs-12-7-performance-and-reliability-under-decentralized-operation",
       "heading": "CS-12.7 Performance and reliability under decentralized operation",
-      "line": 146,
+      "line": 139,
       "kind": "section"
     },
     "CS-12.8": {
       "file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
       "anchor": "#cs-12-8-rejoin-de-escalation-and-anti-normalization",
       "heading": "CS-12.8 Rejoin, de-escalation, and anti-normalization",
-      "line": 156,
+      "line": 148,
       "kind": "section"
     },
     "CS-12.9": {
       "file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
       "anchor": "#cs-12-9-self-healing-under-decentralized-continuity",
       "heading": "CS-12.9 Self-healing under decentralized continuity",
-      "line": 171,
+      "line": 162,
       "kind": "section"
     },
     "CS-2": {
@@ -2379,56 +2381,56 @@
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-1-purpose-and-scope",
       "heading": "CS-2.1 Purpose and scope",
-      "line": 25,
+      "line": 24,
       "kind": "section"
     },
     "CS-2.2": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-2-determination-of-classification",
       "heading": "CS-2.2 Determination of classification",
-      "line": 93,
+      "line": 91,
       "kind": "section"
     },
     "CS-2.3": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-3-temporal-systemic-and-dependency-scope-of-rights",
       "heading": "CS-2.3 Temporal, systemic, and dependency scope of rights",
-      "line": 120,
+      "line": 117,
       "kind": "section"
     },
     "CS-2.4": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-4-anti-circumvention-and-integrity-of-classification",
       "heading": "CS-2.4 Anti-circumvention and integrity of classification",
-      "line": 130,
+      "line": 126,
       "kind": "section"
     },
     "CS-2.5": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-5-cross-domain-governance-principles",
       "heading": "CS-2.5 Cross-domain governance principles",
-      "line": 146,
+      "line": 141,
       "kind": "section"
     },
     "CS-2.6": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-6-data-separation-and-attribution",
       "heading": "CS-2.6 Data separation and attribution",
-      "line": 363,
+      "line": 357,
       "kind": "section"
     },
     "CS-2.7": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-7-type-o-baseline-for-class-a-b-c-systems",
       "heading": "CS-2.7 Type O baseline for Class A/B/C systems",
-      "line": 467,
+      "line": 460,
       "kind": "section"
     },
     "CS-2.8": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-8-system-data-types-record-governance",
       "heading": "CS-2.8 System Data Types Record governance",
-      "line": 499,
+      "line": 491,
       "kind": "section"
     },
     "CS-2A": {
@@ -2452,91 +2454,91 @@
       "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
       "anchor": "#cs-3-1-purpose-and-scope",
       "heading": "CS-3.1 Purpose and scope",
-      "line": 27,
+      "line": 26,
       "kind": "section"
     },
     "CS-3.10": {
       "file": "corpus_systems/cs_03_b_system_impact_classifications.md",
       "anchor": "#cs-3-10-class-b-critical-high-dependency-systemically-significant-systems",
       "heading": "CS-3.10 Class B: Critical, high-dependency, systemically significant systems",
-      "line": 430,
+      "line": 425,
       "kind": "section"
     },
     "CS-3.11": {
       "file": "corpus_systems/cs_03_b_system_impact_classifications.md",
       "anchor": "#cs-3-11-class-c-coordinated-high-dependency-non-critical-systems",
       "heading": "CS-3.11 Class C: Coordinated, high-dependency, non-critical systems",
-      "line": 490,
+      "line": 483,
       "kind": "section"
     },
     "CS-3.12": {
       "file": "corpus_systems/cs_03_b_system_impact_classifications.md",
       "anchor": "#cs-3-12-class-l-local-limited-impact-and-non-critical-systems",
       "heading": "CS-3.12 Class L: Local, limited-impact, and non-critical systems",
-      "line": 546,
+      "line": 537,
       "kind": "section"
     },
     "CS-3.13": {
       "file": "corpus_systems/cs_03_b_system_impact_classifications.md",
       "anchor": "#cs-3-13-class-p-personal-private-use-isolated-and-experimental-systems",
       "heading": "CS-3.13 Class P: Personal, private-use, isolated, and experimental systems",
-      "line": 603,
+      "line": 592,
       "kind": "section"
     },
     "CS-3.2": {
       "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
       "anchor": "#cs-3-2-classification-dimensions-and-real-world-application",
       "heading": "CS-3.2 Classification dimensions and real-world application",
-      "line": 113,
+      "line": 111,
       "kind": "section"
     },
     "CS-3.3": {
       "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
       "anchor": "#cs-3-3-criticality-concentration-temporal-and-adversarial-factors",
       "heading": "CS-3.3 Criticality, concentration, temporal, and adversarial factors",
-      "line": 151,
+      "line": 148,
       "kind": "section"
     },
     "CS-3.4": {
       "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
       "anchor": "#cs-3-4-dependency-types-dep-a-p",
       "heading": "CS-3.4 Dependency types (Dep-A–P)",
-      "line": 226,
+      "line": 221,
       "kind": "section"
     },
     "CS-3.5": {
       "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
       "anchor": "#cs-3-5-boundaries-timeframes-and-resilience",
       "heading": "CS-3.5 Boundaries, timeframes, and resilience",
-      "line": 260,
+      "line": 254,
       "kind": "section"
     },
     "CS-3.6": {
       "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
       "anchor": "#cs-3-6-domain-taxonomy-ordinary-examples-and-scarce-capacity-handling",
       "heading": "CS-3.6 Domain taxonomy, ordinary examples, and scarce-capacity handling",
-      "line": 286,
+      "line": 279,
       "kind": "section"
     },
     "CS-3.7": {
       "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
       "anchor": "#cs-3-7-classification-governance-disclosure-and-challenge",
       "heading": "CS-3.7 Classification governance, disclosure, and challenge",
-      "line": 348,
+      "line": 340,
       "kind": "section"
     },
     "CS-3.8": {
       "file": "corpus_systems/cs_03_b_system_impact_classifications.md",
       "anchor": "#cs-3-8-system-impact-classifications",
       "heading": "CS-3.8 System impact classifications",
-      "line": 22,
+      "line": 21,
       "kind": "section"
     },
     "CS-3.9": {
       "file": "corpus_systems/cs_03_b_system_impact_classifications.md",
       "anchor": "#cs-3-9-class-a-survival-critical-foundational-and-irreplaceable-systems",
       "heading": "CS-3.9 Class A: Survival-critical, foundational, and irreplaceable systems",
-      "line": 372,
+      "line": 369,
       "kind": "section"
     },
     "CS-3A": {
@@ -2557,144 +2559,137 @@
       "kind": "family",
       "gloss": "Some organizations are load-bearing: if they stop, a critical system cannot run, recover, or be governed, and no substitute is available in time. **CS-4** identifies those stewards and sets what they owe in return for that position — continuity planning, transparency about dependencies, and limits on using the position as leverage."
     },
-    "CS-4.1": {
-      "file": "corpus_systems/cs_04_critical_system_stewardship.md",
-      "anchor": "#cs-4-1-definition",
-      "heading": "CS-4.1 Definition",
-      "line": 22,
-      "kind": "section"
-    },
     "CS-4.10": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
       "heading": "CS-4.10 Competency, succession, and oversight effectiveness",
-      "line": 240,
+      "line": 254,
       "kind": "section"
     },
     "CS-4.11": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-11-integrated-risk-governance-class-a-b",
       "heading": "CS-4.11 Integrated risk governance (Class A/B)",
-      "line": 303,
+      "line": 315,
       "kind": "section"
     },
     "CS-4.12": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-12-intervention-trigger",
       "heading": "CS-4.12 Intervention trigger",
-      "line": 347,
+      "line": 358,
       "kind": "section"
     },
     "CS-4.13": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-13-relationship-to-system-classes",
       "heading": "CS-4.13 Relationship to system classes",
-      "line": 359,
+      "line": 369,
       "kind": "section"
     },
     "CS-4.14": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-14-private-chokepoints-sentients-depend-on-access-continuity-and-non-capture",
       "heading": "CS-4.14 Private chokepoints sentients depend on (access continuity and non-capture)",
-      "line": 375,
+      "line": 382,
       "kind": "section"
     },
     "CS-4.15": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-15-core-characteristics-typical",
       "heading": "CS-4.15 Core characteristics (typical)",
-      "line": 398,
+      "line": 404,
       "kind": "section"
     },
     "CS-4.16": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-16-substitutability-and-dependency-reduction",
       "heading": "CS-4.16 Substitutability and dependency reduction",
-      "line": 410,
+      "line": 415,
       "kind": "section"
     },
     "CS-4.17": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-17-transparency-and-auditability",
       "heading": "CS-4.17 Transparency and auditability",
-      "line": 434,
+      "line": 438,
       "kind": "section"
     },
     "CS-4.18": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-18-intervention-and-cooperation",
       "heading": "CS-4.18 Intervention and cooperation",
-      "line": 446,
+      "line": 449,
       "kind": "section"
     },
     "CS-4.19": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-19-governance-and-incentive-integrity",
       "heading": "CS-4.19 Governance and incentive integrity",
-      "line": 456,
+      "line": 458,
       "kind": "section"
     },
     "CS-4.2": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-2-classification-as-steward",
       "heading": "CS-4.2 Classification as steward",
-      "line": 34,
+      "line": 43,
       "kind": "section"
     },
     "CS-4.20": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-20-failure-and-reclassification",
       "heading": "CS-4.20 Failure and reclassification",
-      "line": 464,
+      "line": 465,
       "kind": "section"
     },
     "CS-4.3": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-3-stewardship-criticality-levels",
       "heading": "CS-4.3 Stewardship criticality levels",
-      "line": 62,
+      "line": 83,
       "kind": "section"
     },
     "CS-4.4": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-4-scaling-obligations",
       "heading": "CS-4.4 Scaling obligations",
-      "line": 84,
+      "line": 104,
       "kind": "section"
     },
     "CS-4.5": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-5-comprehensibility-and-complexity-stewardship",
       "heading": "CS-4.5 Comprehensibility and complexity stewardship",
-      "line": 98,
+      "line": 117,
       "kind": "section"
     },
     "CS-4.6": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-6-steward-responsibilities-systems-under-control",
       "heading": "CS-4.6 Steward responsibilities — systems under control",
-      "line": 137,
+      "line": 155,
       "kind": "section"
     },
     "CS-4.7": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-7-steward-responsibilities-governance-structures",
       "heading": "CS-4.7 Steward responsibilities — governance structures",
-      "line": 149,
+      "line": 166,
       "kind": "section"
     },
     "CS-4.8": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-8-conduct-conflicts-of-interest-and-independence",
       "heading": "CS-4.8 Conduct, conflicts of interest, and independence",
-      "line": 161,
+      "line": 177,
       "kind": "section"
     },
     "CS-4.9": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-9-continuity-transfer-and-exit-integrity",
       "heading": "CS-4.9 Continuity, transfer, and exit integrity",
-      "line": 205,
+      "line": 220,
       "kind": "section"
     },
     "CS-5": {
@@ -2709,70 +2704,70 @@
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-1-purpose-and-role",
       "heading": "CS-5.1 Purpose and role",
-      "line": 45,
+      "line": 44,
       "kind": "section"
     },
     "CS-5.10": {
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-10-recertification-regression-testing-and-certification-defects",
       "heading": "CS-5.10 Recertification, regression testing, and certification defects",
-      "line": 299,
+      "line": 289,
       "kind": "section"
     },
     "CS-5.2": {
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-2-personal-isolated-and-experimental-systems",
       "heading": "CS-5.2 Personal, isolated, and experimental systems",
-      "line": 82,
+      "line": 80,
       "kind": "section"
     },
     "CS-5.3": {
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-3-creative-entertainment-and-expressive-systems",
       "heading": "CS-5.3 Creative, entertainment, and expressive systems",
-      "line": 92,
+      "line": 89,
       "kind": "section"
     },
     "CS-5.4": {
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-4-misclassification-and-evasion",
       "heading": "CS-5.4 Misclassification and evasion",
-      "line": 106,
+      "line": 102,
       "kind": "section"
     },
     "CS-5.5": {
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-5-transition-to-higher-impact-systems",
       "heading": "CS-5.5 Transition to higher-impact systems",
-      "line": 116,
+      "line": 111,
       "kind": "section"
     },
     "CS-5.6": {
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-6-experimental-substrate-features-and-systems",
       "heading": "CS-5.6 Experimental substrate features and systems",
-      "line": 130,
+      "line": 124,
       "kind": "section"
     },
     "CS-5.7": {
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-7-non-experimental-systems",
       "heading": "CS-5.7 Non-experimental systems",
-      "line": 146,
+      "line": 139,
       "kind": "section"
     },
     "CS-5.8": {
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-8-governance-continuity-crisis-communications-and-exercises-high-impact-systems",
       "heading": "CS-5.8 Governance continuity, crisis communications, and exercises (high-impact systems)",
-      "line": 215,
+      "line": 207,
       "kind": "section"
     },
     "CS-5.9": {
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-9-self-healing-and-recovery-path-integrity",
       "heading": "CS-5.9 Self-healing and recovery-path integrity",
-      "line": 273,
+      "line": 264,
       "kind": "section"
     },
     "CS-6": {
@@ -2794,21 +2789,21 @@
       "file": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
       "anchor": "#cs-6-2-classification-scaled-application",
       "heading": "CS-6.2 Classification-scaled application",
-      "line": 64,
+      "line": 63,
       "kind": "section"
     },
     "CS-6.3": {
       "file": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
       "anchor": "#cs-6-3-systems-specific-checks",
       "heading": "CS-6.3 Systems-specific checks",
-      "line": 72,
+      "line": 70,
       "kind": "section"
     },
     "CS-6.4": {
       "file": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
       "anchor": "#cs-6-4-gaps-and-silence",
       "heading": "CS-6.4 Gaps and silence",
-      "line": 91,
+      "line": 88,
       "kind": "section"
     },
     "CS-7": {
@@ -2823,77 +2818,77 @@
       "file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
       "anchor": "#cs-7-1-purpose-and-role",
       "heading": "CS-7.1 Purpose and role",
-      "line": 43,
+      "line": 42,
       "kind": "section"
     },
     "CS-7.10": {
       "file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
       "anchor": "#cs-7-10-proportional-compliance-templates-class-scaled",
       "heading": "CS-7.10 Proportional compliance templates (class-scaled)",
-      "line": 176,
+      "line": 166,
       "kind": "section"
     },
     "CS-7.11": {
       "file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
       "anchor": "#cs-7-11-lived-condition-floors-continuity-and-re-entry-alignment",
       "heading": "CS-7.11 Lived-condition floors, continuity, and re-entry alignment",
-      "line": 214,
+      "line": 203,
       "kind": "section"
     },
     "CS-7.2": {
       "file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
       "anchor": "#cs-7-2-scope-and-trigger",
       "heading": "CS-7.2 Scope and trigger",
-      "line": 52,
+      "line": 50,
       "kind": "section"
     },
     "CS-7.3": {
       "file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
       "anchor": "#cs-7-3-mandatory-validation-record",
       "heading": "CS-7.3 Mandatory validation record",
-      "line": 62,
+      "line": 59,
       "kind": "section"
     },
     "CS-7.4": {
       "file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
       "anchor": "#cs-7-4-class-scaled-assurance-requirements",
       "heading": "CS-7.4 Class-scaled assurance requirements",
-      "line": 78,
+      "line": 74,
       "kind": "section"
     },
     "CS-7.5": {
       "file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
       "anchor": "#cs-7-5-least-restrictive-time-bounded-and-restoration-rules",
       "heading": "CS-7.5 Least-restrictive, time-bounded, and restoration rules",
-      "line": 96,
+      "line": 91,
       "kind": "section"
     },
     "CS-7.6": {
       "file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
       "anchor": "#cs-7-6-prohibited-retaliatory-forms",
       "heading": "CS-7.6 Prohibited retaliatory forms",
-      "line": 108,
+      "line": 102,
       "kind": "section"
     },
     "CS-7.7": {
       "file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
       "anchor": "#cs-7-7-voluntary-public-accountability-expression",
       "heading": "CS-7.7 Voluntary public accountability expression",
-      "line": 118,
+      "line": 111,
       "kind": "section"
     },
     "CS-7.8": {
       "file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
       "anchor": "#cs-7-8-metrics-and-oversight",
       "heading": "CS-7.8 Metrics and oversight",
-      "line": 130,
+      "line": 122,
       "kind": "section"
     },
     "CS-7.9": {
       "file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
       "anchor": "#cs-7-9-cross-jurisdiction-execution-and-anti-evasion-controls",
       "heading": "CS-7.9 Cross-jurisdiction execution and anti-evasion controls",
-      "line": 148,
+      "line": 139,
       "kind": "section"
     },
     "CS-8": {
@@ -2908,70 +2903,70 @@
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-1-purpose-and-role",
       "heading": "CS-8.1 Purpose and role",
-      "line": 42,
+      "line": 41,
       "kind": "section"
     },
     "CS-8.10": {
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-10-regenerative-alignment-circular-material-flows-and-bioregional-stewardship-implementation-profile",
       "heading": "CS-8.10 Regenerative alignment, circular material flows, and bioregional stewardship (implementation profile)",
-      "line": 219,
+      "line": 209,
       "kind": "section"
     },
     "CS-8.2": {
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-2-system-health-and-degradation-awareness",
       "heading": "CS-8.2 System health and degradation awareness",
-      "line": 52,
+      "line": 50,
       "kind": "section"
     },
     "CS-8.3": {
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-3-adaptive-allocation-requirement",
       "heading": "CS-8.3 Adaptive allocation requirement",
-      "line": 73,
+      "line": 70,
       "kind": "section"
     },
     "CS-8.4": {
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-4-ecosystem-interdependence",
       "heading": "CS-8.4 Ecosystem interdependence",
-      "line": 128,
+      "line": 124,
       "kind": "section"
     },
     "CS-8.5": {
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-5-ecosystem-risk-response",
       "heading": "CS-8.5 Ecosystem risk response",
-      "line": 155,
+      "line": 150,
       "kind": "section"
     },
     "CS-8.6": {
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-6-anti-concentration-and-resilience",
       "heading": "CS-8.6 Anti-concentration and resilience",
-      "line": 174,
+      "line": 168,
       "kind": "section"
     },
     "CS-8.7": {
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-7-transparency-and-feedback",
       "heading": "CS-8.7 Transparency and feedback",
-      "line": 184,
+      "line": 177,
       "kind": "section"
     },
     "CS-8.8": {
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-8-governance-integration",
       "heading": "CS-8.8 Governance integration",
-      "line": 194,
+      "line": 186,
       "kind": "section"
     },
     "CS-8.9": {
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-9-self-healing-and-recovery-path-integration",
       "heading": "CS-8.9 Self-healing and recovery-path integration",
-      "line": 202,
+      "line": 193,
       "kind": "section"
     },
     "CS-9": {
@@ -2993,168 +2988,168 @@
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-10-evolution-of-funding-models",
       "heading": "CS-9.10 Evolution of funding models",
-      "line": 220,
+      "line": 211,
       "kind": "section"
     },
     "CS-9.11": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-11-default-funding-allocation-models",
       "heading": "CS-9.11 Default funding allocation models",
-      "line": 252,
+      "line": 242,
       "kind": "section"
     },
     "CS-9.12": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-12-reference-allocation-guidance",
       "heading": "CS-9.12 Reference allocation guidance",
-      "line": 272,
+      "line": 261,
       "kind": "section"
     },
     "CS-9.13": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-13-substrate-system-funding",
       "heading": "CS-9.13 Substrate system funding",
-      "line": 291,
+      "line": 279,
       "kind": "section"
     },
     "CS-9.14": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-14-non-substrate-systems",
       "heading": "CS-9.14 Non-substrate systems",
-      "line": 308,
+      "line": 295,
       "kind": "section"
     },
     "CS-9.15": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-15-stakeholder-governance-of-funding",
-      "heading": "CS-9.15 Stakeholder governance of funding",
-      "line": 321,
+      "heading": "CS-9.15 Stakeholder System Participation in funding",
+      "line": 307,
       "kind": "section"
     },
     "CS-9.16": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-16-trigger-definitions",
       "heading": "CS-9.16 Trigger definitions",
-      "line": 336,
+      "line": 321,
       "kind": "section"
     },
     "CS-9.17": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-17-triggering-review-and-challenge",
       "heading": "CS-9.17 Triggering review and challenge",
-      "line": 344,
+      "line": 328,
       "kind": "section"
     },
     "CS-9.18": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-18-due-process-in-funding-changes",
       "heading": "CS-9.18 Due process in funding changes",
-      "line": 361,
+      "line": 344,
       "kind": "section"
     },
     "CS-9.19": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-19-steward-operator-and-governance-remuneration-incentive-governance",
       "heading": "CS-9.19 Steward, operator, and governance remuneration (incentive governance)",
-      "line": 375,
+      "line": 357,
       "kind": "section"
     },
     "CS-9.2": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-2-principles-of-funding",
       "heading": "CS-9.2 Principles of funding",
-      "line": 60,
+      "line": 59,
       "kind": "section"
     },
     "CS-9.20": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-20-conflict-free-remuneration-processes",
       "heading": "CS-9.20 Conflict-free remuneration processes",
-      "line": 385,
+      "line": 366,
       "kind": "section"
     },
     "CS-9.21": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-21-observability-of-alignment",
       "heading": "CS-9.21 Observability of alignment",
-      "line": 401,
+      "line": 381,
       "kind": "section"
     },
     "CS-9.3": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-3-cross-system-resource-flows-and-dependencies",
       "heading": "CS-9.3 Cross-system resource flows and dependencies",
-      "line": 76,
+      "line": 74,
       "kind": "section"
     },
     "CS-9.4": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-4-dependent-systems-map",
       "heading": "CS-9.4 Dependent systems map",
-      "line": 105,
+      "line": 102,
       "kind": "section"
     },
     "CS-9.5": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-5-transparency-of-resource-flows",
       "heading": "CS-9.5 Transparency of resource flows",
-      "line": 124,
+      "line": 120,
       "kind": "section"
     },
     "CS-9.6": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-6-prevention-of-funding-based-capture",
       "heading": "CS-9.6 Prevention of funding-based capture",
-      "line": 139,
+      "line": 134,
       "kind": "section"
     },
     "CS-9.7": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-7-required-allocation-categories",
       "heading": "CS-9.7 Required allocation categories",
-      "line": 155,
+      "line": 149,
       "kind": "section"
     },
     "CS-9.8": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-8-bounded-builder-returns",
       "heading": "CS-9.8 Bounded builder returns",
-      "line": 177,
+      "line": 170,
       "kind": "section"
     },
     "CS-9.9": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-9-stability-of-funding-agreements",
       "heading": "CS-9.9 Stability of funding agreements",
-      "line": 200,
+      "line": 192,
       "kind": "section"
     },
     "Def.A1": {
       "file": "core_05_band_accountability.md",
       "anchor": "#defa1",
       "heading": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
-      "line": 1282,
+      "line": 1283,
       "kind": "cluster"
     },
     "Def.A2": {
       "file": "core_05_band_accountability.md",
       "anchor": "#defa2",
       "heading": "Def.A2 Forum Families and Dispute Routing",
-      "line": 1568,
+      "line": 1569,
       "kind": "cluster"
     },
     "Def.A3": {
       "file": "core_05_band_accountability.md",
       "anchor": "#defa3",
       "heading": "Def.A3 Standing State, Contribution, and Violation",
-      "line": 1932,
+      "line": 1933,
       "kind": "cluster"
     },
     "Def.A4": {
       "file": "core_05_band_accountability.md",
       "anchor": "#defa4",
       "heading": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
-      "line": 2664,
+      "line": 2665,
       "kind": "cluster"
     },
     "Def.C1": {
@@ -3189,7 +3184,7 @@
       "file": "core_05_band_integrative.md",
       "anchor": "#defi1",
       "heading": "Def.I1 Corpus and Authority Stack",
-      "line": 492,
+      "line": 494,
       "kind": "cluster"
     },
     "Def.O1": {
@@ -3217,21 +3212,21 @@
       "file": "core_05_band_participation.md",
       "anchor": "#defp2",
       "heading": "Def.P2 Binding Stakeholder Choice",
-      "line": 2734,
+      "line": 2735,
       "kind": "cluster"
     },
     "Def.P3": {
       "file": "core_05_band_participation.md",
       "anchor": "#defp3",
       "heading": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
-      "line": 2914,
+      "line": 2916,
       "kind": "cluster"
     },
     "Def.P4": {
       "file": "core_05_band_participation.md",
       "anchor": "#defp4",
       "heading": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
-      "line": 3196,
+      "line": 3198,
       "kind": "cluster"
     }
   },
@@ -3250,12 +3245,12 @@
       "read_with": [
         {
           "id": "CJS-2.1",
-          "file": "corpus_joint_structure/cjs_02_hybrid_delegated_authority.md",
-          "anchor": "#cjs-21-hybrid-delegated-authority"
+          "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+          "anchor": "#cjs-21-hybrid-delegated-authority-delegated-binding-bodies"
         },
         {
           "id": "CJS-2.5",
-          "file": "corpus_joint_structure/cjs_02_procedural_abstractions.md",
+          "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
           "anchor": "#cjs-25-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing"
         },
         {
@@ -3294,12 +3289,12 @@
       "read_with": [
         {
           "id": "CJS-2.1",
-          "file": "corpus_joint_structure/cjs_02_hybrid_delegated_authority.md",
-          "anchor": "#cjs-21-hybrid-delegated-authority"
+          "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+          "anchor": "#cjs-21-hybrid-delegated-authority-delegated-binding-bodies"
         },
         {
           "id": "CJS-2.5",
-          "file": "corpus_joint_structure/cjs_02_procedural_abstractions.md",
+          "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
           "anchor": "#cjs-25-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing"
         },
         {
@@ -3328,7 +3323,7 @@
       "read_with": [
         {
           "id": "CJS-2.5",
-          "file": "corpus_joint_structure/cjs_02_procedural_abstractions.md",
+          "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
           "anchor": "#cjs-25-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing"
         },
         {
@@ -3362,7 +3357,7 @@
       "read_with": [
         {
           "id": "CJS-2.5",
-          "file": "corpus_joint_structure/cjs_02_procedural_abstractions.md",
+          "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
           "anchor": "#cjs-25-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing"
         },
         {
@@ -3690,8 +3685,8 @@
       "primary_owners": [
         {
           "id": "CJS-2.3",
-          "file": "corpus_joint_structure/cjs_02_trust_integrity.md",
-          "anchor": "#cjs-23-cross-implementation-trust-integrity"
+          "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+          "anchor": "#cjs-23-cross-implementation-trust-integrity-joint-operation-model"
         }
       ],
       "read_with": [
@@ -3722,8 +3717,8 @@
         },
         {
           "id": "CJS-3.3",
-          "file": "corpus_joint_structure/cjs_03_audit_process.md",
-          "anchor": "#cjs-33-audit-process-home"
+          "file": "corpus_joint_structure/cjs_03o_oversight_operations.md",
+          "anchor": "#cjs-33-auditability-annex"
         },
         {
           "id": "CJS-3.5",
@@ -3786,7 +3781,7 @@
       "read_with": [
         {
           "id": "CJS-2.4",
-          "file": "corpus_joint_structure/cjs_02_lane_staffing.md",
+          "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
           "anchor": "#cjs-24-class-scaled-lane-staffing-and-competency-redundancy"
         },
         {
@@ -3810,8 +3805,8 @@
       "read_with": [
         {
           "id": "CJS-3.3",
-          "file": "corpus_joint_structure/cjs_03_audit_process.md",
-          "anchor": "#cjs-33-audit-process-home"
+          "file": "corpus_joint_structure/cjs_03o_oversight_operations.md",
+          "anchor": "#cjs-33-auditability-annex"
         },
         {
           "id": "CJS-3.15",
@@ -3869,8 +3864,8 @@
       "term": "Anti-Constitutional Misconduct Review",
       "file": "core_05_band_accountability.md",
       "anchor": "#anti-constitutional-misconduct-review",
-      "line_start": 2459,
-      "line_end": 2501
+      "line_start": 2460,
+      "line_end": 2502
     },
     {
       "term": "Anti-Displacement Floor",
@@ -3911,22 +3906,22 @@
       "term": "Authority Stack and Internal Hierarchy",
       "file": "core_05_band_integrative.md",
       "anchor": "#authority-stack",
-      "line_start": 597,
-      "line_end": 696
+      "line_start": 599,
+      "line_end": 698
     },
     {
       "term": "Autonomous Coercion Tool",
       "file": "core_05_band_accountability.md",
       "anchor": "#autonomous-coercion-tool-constitutional",
-      "line_start": 3034,
-      "line_end": 3097
+      "line_start": 3035,
+      "line_end": 3098
     },
     {
       "term": "Autonomous Lethal System",
       "file": "core_05_band_accountability.md",
       "anchor": "#autonomous-lethal-system-constitutional",
-      "line_start": 2775,
-      "line_end": 2827
+      "line_start": 2776,
+      "line_end": 2828
     },
     {
       "term": "Avoidable Burden",
@@ -3939,15 +3934,15 @@
       "term": "Best-Interest Standard",
       "file": "core_05_band_participation.md",
       "anchor": "#best-interest-standard-constitutional",
-      "line_start": 3280,
-      "line_end": 3327
+      "line_start": 3282,
+      "line_end": 3329
     },
     {
       "term": "Binding Stakeholder Choice — Decision-Resolution Requirements",
       "file": "core_05_band_participation.md",
       "anchor": "#binding-stakeholder-choice-decision-resolution-requirements",
-      "line_start": 2784,
-      "line_end": 2839
+      "line_start": 2786,
+      "line_end": 2841
     },
     {
       "term": "Bodily-Maintenance Access",
@@ -4023,8 +4018,8 @@
       "term": "Collective Harm Boundary",
       "file": "core_05_band_accountability.md",
       "anchor": "#collective-harm-boundary",
-      "line_start": 1380,
-      "line_end": 1407
+      "line_start": 1381,
+      "line_end": 1408
     },
     {
       "term": "Collective Organization",
@@ -4037,22 +4032,22 @@
       "term": "Combatant / Non-Combatant Distinction",
       "file": "core_05_band_accountability.md",
       "anchor": "#combatant-non-combatant-distinction-constitutional",
-      "line_start": 2892,
-      "line_end": 2959
+      "line_start": 2893,
+      "line_end": 2960
     },
     {
       "term": "Competency Bar",
       "file": "core_05_band_accountability.md",
       "anchor": "#competency-bar",
-      "line_start": 2326,
-      "line_end": 2370
+      "line_start": 2327,
+      "line_end": 2371
     },
     {
       "term": "Competency Clearance",
       "file": "core_05_band_accountability.md",
       "anchor": "#competency-clearance",
-      "line_start": 2371,
-      "line_end": 2413
+      "line_start": 2372,
+      "line_end": 2414
     },
     {
       "term": "Consent",
@@ -4079,15 +4074,15 @@
       "term": "Constitutional Constraint",
       "file": "core_05_band_integrative.md",
       "anchor": "#constitutional-constraint",
-      "line_start": 697,
-      "line_end": 753
+      "line_start": 699,
+      "line_end": 755
     },
     {
       "term": "Constitutional Contract Layer",
       "file": "core_05_band_integrative.md",
       "anchor": "#constitutional-contract-layer",
       "line_start": 90,
-      "line_end": 144
+      "line_end": 145
     },
     {
       "term": "Constitutional Efficiency",
@@ -4142,15 +4137,15 @@
       "term": "Contribution Nature",
       "file": "core_05_band_accountability.md",
       "anchor": "#contribution-nature",
-      "line_start": 2110,
-      "line_end": 2162
+      "line_start": 2111,
+      "line_end": 2163
     },
     {
       "term": "Corpus",
       "file": "core_05_band_integrative.md",
       "anchor": "#corpus",
-      "line_start": 554,
-      "line_end": 596
+      "line_start": 556,
+      "line_end": 598
     },
     {
       "term": "Creative Work Attribution",
@@ -4163,15 +4158,15 @@
       "term": "Cruelty",
       "file": "core_05_band_accountability.md",
       "anchor": "#cruelty",
-      "line_start": 1462,
-      "line_end": 1508
+      "line_start": 1463,
+      "line_end": 1509
     },
     {
       "term": "Decentralization",
       "file": "core_05_band_accountability.md",
       "anchor": "#decentralization",
-      "line_start": 1138,
-      "line_end": 1173
+      "line_start": 1139,
+      "line_end": 1174
     },
     {
       "term": "Dependency",
@@ -4191,8 +4186,8 @@
       "term": "Developing Sentient",
       "file": "core_05_band_participation.md",
       "anchor": "#developing-sentient-constitutional",
-      "line_start": 3243,
-      "line_end": 3279
+      "line_start": 3245,
+      "line_end": 3281
     },
     {
       "term": "Dignity and Equal Moral Standing",
@@ -4240,8 +4235,8 @@
       "term": "Educational Agency",
       "file": "core_05_band_participation.md",
       "anchor": "#educational-agency",
-      "line_start": 3079,
-      "line_end": 3137
+      "line_start": 3081,
+      "line_end": 3139
     },
     {
       "term": "Elevated Communicative Life",
@@ -4317,8 +4312,8 @@
       "term": "Expression",
       "file": "core_05_band_participation.md",
       "anchor": "#expression-constitutional",
-      "line_start": 2993,
-      "line_end": 3078
+      "line_start": 2995,
+      "line_end": 3080
     },
     {
       "term": "Fair Compensation",
@@ -4366,57 +4361,57 @@
       "term": "Forum Case Record",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-case-record",
-      "line_start": 1842,
-      "line_end": 1897
+      "line_start": 1843,
+      "line_end": 1898
     },
     {
       "term": "Forum Family, Constitutional",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-family-constitutional",
-      "line_start": 1808,
-      "line_end": 1841
+      "line_start": 1809,
+      "line_end": 1842
     },
     {
       "term": "Forum Family, Environment",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-family-environment",
-      "line_start": 1737,
-      "line_end": 1765
+      "line_start": 1738,
+      "line_end": 1766
     },
     {
       "term": "Forum Family, Institutional",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-family-institutional",
-      "line_start": 1708,
-      "line_end": 1736
+      "line_start": 1709,
+      "line_end": 1737
     },
     {
       "term": "Forum Family, Integrity",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-family-integrity",
-      "line_start": 1766,
-      "line_end": 1807
+      "line_start": 1767,
+      "line_end": 1808
     },
     {
       "term": "Forum Family, Sentient",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-family-sentient",
-      "line_start": 1650,
-      "line_end": 1678
+      "line_start": 1651,
+      "line_end": 1679
     },
     {
       "term": "Forum Family, Technical",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-family-technical",
-      "line_start": 1679,
-      "line_end": 1707
+      "line_start": 1680,
+      "line_end": 1708
     },
     {
       "term": "Foundational Constitutional Choice",
       "file": "core_05_band_integrative.md",
       "anchor": "#foundational-constitutional-choice",
-      "line_start": 145,
-      "line_end": 198
+      "line_start": 146,
+      "line_end": 200
     },
     {
       "term": "Freedom (Bounded Agency)",
@@ -4444,28 +4439,28 @@
       "file": "core_05_band_accountability.md",
       "anchor": "#governance",
       "line_start": 1103,
-      "line_end": 1137
+      "line_end": 1138
     },
     {
       "term": "Graduated Capability",
       "file": "core_05_band_participation.md",
       "anchor": "#graduated-capability-constitutional",
-      "line_start": 3328,
-      "line_end": 3377
+      "line_start": 3330,
+      "line_end": 3379
     },
     {
       "term": "Harassment and Bullying",
       "file": "core_05_band_accountability.md",
       "anchor": "#harassment-and-bullying",
-      "line_start": 1509,
-      "line_end": 1567
+      "line_start": 1510,
+      "line_end": 1568
     },
     {
       "term": "Harm",
       "file": "core_05_band_accountability.md",
       "anchor": "#harm",
-      "line_start": 1346,
-      "line_end": 1379
+      "line_start": 1347,
+      "line_end": 1380
     },
     {
       "term": "Harm Minimization (Tradeoff Selection)",
@@ -4492,36 +4487,36 @@
       "term": "Incentive Alignment",
       "file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment",
-      "line_start": 309,
-      "line_end": 376
+      "line_start": 311,
+      "line_end": 378
     },
     {
       "term": "Incentive Alignment — baseline constitutional alignment",
       "file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-baseline-constitutional-alignment",
-      "line_start": 377,
-      "line_end": 406
+      "line_start": 379,
+      "line_end": 408
     },
     {
       "term": "Incentive Alignment — contingent claims, games of chance, and event-contract markets",
       "file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
-      "line_start": 439,
-      "line_end": 491
+      "line_start": 441,
+      "line_end": 493
     },
     {
       "term": "Incentive Alignment — strategic, scaled, and adversarial evaluation",
       "file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
-      "line_start": 407,
-      "line_end": 438
+      "line_start": 409,
+      "line_end": 440
     },
     {
       "term": "Incentive Alignment, Proxy Integrity, and Contingent Settlement",
       "file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-proxy-integrity-and-contingent-settlement",
-      "line_start": 290,
-      "line_end": 491
+      "line_start": 292,
+      "line_end": 493
     },
     {
       "term": "Indigenous Continuity",
@@ -4541,8 +4536,8 @@
       "term": "Innovation Reward and Anti-Enclosure",
       "file": "core_05_band_integrative.md",
       "anchor": "#innovation-reward-and-anti-enclosure",
-      "line_start": 199,
-      "line_end": 289
+      "line_start": 201,
+      "line_end": 291
     },
     {
       "term": "Insider Advantage",
@@ -4569,15 +4564,15 @@
       "term": "Irreversible Deprivation Measure",
       "file": "core_05_band_accountability.md",
       "anchor": "#irreversible-deprivation-measure-constitutional",
-      "line_start": 2960,
-      "line_end": 3033
+      "line_start": 2961,
+      "line_end": 3034
     },
     {
       "term": "Irreversible Harm",
       "file": "core_05_band_accountability.md",
       "anchor": "#irreversible-harm",
-      "line_start": 1428,
-      "line_end": 1461
+      "line_start": 1429,
+      "line_end": 1462
     },
     {
       "term": "Language, Culture, and Heritage",
@@ -4611,15 +4606,15 @@
       "term": "Market Concentration Threshold",
       "file": "core_05_band_accountability.md",
       "anchor": "#market-concentration-threshold-constitutional",
-      "line_start": 1213,
-      "line_end": 1281
+      "line_start": 1214,
+      "line_end": 1282
     },
     {
       "term": "Market Structure",
       "file": "core_05_band_accountability.md",
       "anchor": "#market-structure-constitutional",
-      "line_start": 1174,
-      "line_end": 1212
+      "line_start": 1175,
+      "line_end": 1213
     },
     {
       "term": "Material",
@@ -4730,8 +4725,8 @@
       "term": "Non-Compliance Finding Profile",
       "file": "core_05_band_accountability.md",
       "anchor": "#non-compliance-finding-profile",
-      "line_start": 1898,
-      "line_end": 1931
+      "line_start": 1899,
+      "line_end": 1932
     },
     {
       "term": "Non-Imposition (Cooperative Interaction)",
@@ -4772,8 +4767,8 @@
       "term": "Participant Standing",
       "file": "core_05_band_accountability.md",
       "anchor": "#participant-standing-constitutional",
-      "line_start": 1993,
-      "line_end": 2056
+      "line_start": 1994,
+      "line_end": 2057
     },
     {
       "term": "Press and Journalistic Activity",
@@ -4786,8 +4781,8 @@
       "term": "Primary-Stakes Routing",
       "file": "core_05_band_accountability.md",
       "anchor": "#primary-stakes-routing",
-      "line_start": 1620,
-      "line_end": 1649
+      "line_start": 1621,
+      "line_end": 1650
     },
     {
       "term": "Privacy (Informational)",
@@ -4884,8 +4879,8 @@
       "term": "Psychological Harm",
       "file": "core_05_band_accountability.md",
       "anchor": "#psychological-harm",
-      "line_start": 1408,
-      "line_end": 1427
+      "line_start": 1409,
+      "line_end": 1428
     },
     {
       "term": "Public Oversight Baseline Disclosure",
@@ -5010,8 +5005,8 @@
       "term": "Self-Determination",
       "file": "core_05_band_participation.md",
       "anchor": "#self-determination-constitutional",
-      "line_start": 2948,
-      "line_end": 2992
+      "line_start": 2950,
+      "line_end": 2994
     },
     {
       "term": "Self-Healing",
@@ -5039,7 +5034,7 @@
       "file": "core_05_band_participation.md",
       "anchor": "#sentience-status-adjudication-record-constitutional",
       "line_start": 2677,
-      "line_end": 2733
+      "line_end": 2734
     },
     {
       "term": "Sentient",
@@ -5066,8 +5061,8 @@
       "term": "Single Catastrophic Incident",
       "file": "core_05_band_accountability.md",
       "anchor": "#single-catastrophic-incident",
-      "line_start": 2585,
-      "line_end": 2623
+      "line_start": 2586,
+      "line_end": 2624
     },
     {
       "term": "Stakeholder",
@@ -5087,15 +5082,15 @@
       "term": "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
       "file": "core_05_band_participation.md",
       "anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
-      "line_start": 2840,
-      "line_end": 2876
+      "line_start": 2842,
+      "line_end": 2878
     },
     {
       "term": "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
       "file": "core_05_band_participation.md",
       "anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice",
-      "line_start": 2877,
-      "line_end": 2913
+      "line_start": 2879,
+      "line_end": 2915
     },
     {
       "term": "Stakeholder Weight",
@@ -5108,22 +5103,22 @@
       "term": "Standing Effect",
       "file": "core_05_band_accountability.md",
       "anchor": "#standing-effect-chapter-six",
-      "line_start": 2215,
-      "line_end": 2271
+      "line_start": 2216,
+      "line_end": 2272
     },
     {
       "term": "Standing Lock",
       "file": "core_05_band_accountability.md",
       "anchor": "#standing-lock",
-      "line_start": 2414,
-      "line_end": 2458
+      "line_start": 2415,
+      "line_end": 2459
     },
     {
       "term": "Standing Record",
       "file": "core_05_band_accountability.md",
       "anchor": "#standing-record-chapter-six",
-      "line_start": 2272,
-      "line_end": 2325
+      "line_start": 2273,
+      "line_end": 2326
     },
     {
       "term": "Stay",
@@ -5185,8 +5180,8 @@
       "term": "Sustained High-Gravity Pattern",
       "file": "core_05_band_accountability.md",
       "anchor": "#sustained-high-gravity-pattern",
-      "line_start": 2624,
-      "line_end": 2663
+      "line_start": 2625,
+      "line_end": 2664
     },
     {
       "term": "System",
@@ -5332,22 +5327,22 @@
       "term": "Unified Incident",
       "file": "core_05_band_accountability.md",
       "anchor": "#unified-incident",
-      "line_start": 2502,
-      "line_end": 2541
+      "line_start": 2503,
+      "line_end": 2542
     },
     {
       "term": "Unified Incident Record",
       "file": "core_05_band_accountability.md",
       "anchor": "#unified-incident-record",
-      "line_start": 2542,
-      "line_end": 2584
+      "line_start": 2543,
+      "line_end": 2585
     },
     {
       "term": "Use of Force",
       "file": "core_05_band_accountability.md",
       "anchor": "#use-of-force-constitutional",
-      "line_start": 2709,
-      "line_end": 2774
+      "line_start": 2710,
+      "line_end": 2775
     },
     {
       "term": "Verifiability",
@@ -5360,22 +5355,22 @@
       "term": "Verified Inputs for Standing",
       "file": "core_05_band_accountability.md",
       "anchor": "#verified-inputs-for-standing",
-      "line_start": 2057,
-      "line_end": 2109
+      "line_start": 2058,
+      "line_end": 2110
     },
     {
       "term": "Violation Nature",
       "file": "core_05_band_accountability.md",
       "anchor": "#violation-nature-chapter-six",
-      "line_start": 2163,
-      "line_end": 2214
+      "line_start": 2164,
+      "line_end": 2215
     },
     {
       "term": "Volitional Integrity",
       "file": "core_05_band_participation.md",
       "anchor": "#volitional-integrity",
-      "line_start": 3138,
-      "line_end": 3195
+      "line_start": 3140,
+      "line_end": 3197
     },
     {
       "term": "Voluntary Discontinuation",
@@ -5388,8 +5383,8 @@
       "term": "Weapons of Mass Harm",
       "file": "core_05_band_accountability.md",
       "anchor": "#weapons-of-mass-harm-constitutional",
-      "line_start": 2828,
-      "line_end": 2891
+      "line_start": 2829,
+      "line_end": 2892
     },
     {
       "term": "Wellbeing",
@@ -5399,1206 +5394,7 @@
       "line_end": 677
     }
   ],
-  "aliases": [
-    {
-      "file": "core_00_preamble.md",
-      "title": "2. Measurements Overview",
-      "current_number": "2",
-      "current_anchors": [
-        "#2-the-measurements"
-      ],
-      "fossil_anchors": [
-        "#measurements-overview",
-        "#what-measurement-is-for"
-      ]
-    },
-    {
-      "file": "core_00_preamble.md",
-      "title": "4. Principles, Definitions, and Rights",
-      "current_number": "4",
-      "current_anchors": [
-        "#4-principles-definitions-and-rights"
-      ],
-      "fossil_anchors": [
-        "#constitutional-owner-register"
-      ]
-    },
-    {
-      "file": "core_00_preamble.md",
-      "title": "5. Key Practical Process Pipelines",
-      "current_number": "5",
-      "current_anchors": [
-        "#5-key-practical-process-pipelines"
-      ],
-      "fossil_anchors": [
-        "#4-key-practical-process-pipelines",
-        "#6-key-practical-process-pipelines"
-      ]
-    },
-    {
-      "file": "core_00_preamble.md",
-      "title": "6. Governance, Change, and Incorporation",
-      "current_number": "6",
-      "current_anchors": [
-        "#6-governance-change-and-incorporation"
-      ],
-      "fossil_anchors": [
-        "#4-alignment",
-        "#how-the-rest-fits-together",
-        "#7-governance-change-and-incorporation"
-      ]
-    },
-    {
-      "file": "core_00_preamble.md",
-      "title": "7. Companion Implementation Corpus",
-      "current_number": "7",
-      "current_anchors": [
-        "#7-companion-implementation-corpus"
-      ],
-      "fossil_anchors": [
-        "#8-companion-implementation-corpus"
-      ]
-    },
-    {
-      "file": "core_01_b_interaction_interpretation.md",
-      "title": "6.1.3 Proportionality",
-      "current_number": "6.1.3",
-      "current_anchors": [
-        "#613-proportionality"
-      ],
-      "fossil_anchors": [
-        "#611-proportionality"
-      ]
-    },
-    {
-      "file": "core_01_b_interaction_interpretation.md",
-      "title": "Decision record and reconstructability.** Where the tradeoff stack (§6.1.1–§6.1.5) is appl",
-      "current_number": "6.1.5",
-      "current_anchors": [
-        "#615-rights-collision-decision-test"
-      ],
-      "fossil_anchors": [
-        "#631-rights-collision-decision-test",
-        "#63-rights-collision-procedure"
-      ]
-    },
-    {
-      "file": "core_01_b_interaction_interpretation.md",
-      "title": "6.2.4 Proxy-Divergence Invalidation",
-      "current_number": "6.2.4",
-      "current_anchors": [
-        "#624-proxy-divergence-invalidation"
-      ],
-      "fossil_anchors": [
-        "#632-proxy-divergence-invalidation"
-      ]
-    },
-    {
-      "file": "core_01_b_interaction_interpretation.md",
-      "title": "8.2 Definitional layer and required disciplines",
-      "current_number": "8.2",
-      "current_anchors": [
-        "#82-definitional-layer-and-required-disciplines"
-      ],
-      "fossil_anchors": [
-        "#81-definitional-layer-and-required-disciplines"
-      ]
-    },
-    {
-      "file": "core_01_b_interaction_interpretation.md",
-      "title": "8.3 Ambiguity resolution",
-      "current_number": "8.3",
-      "current_anchors": [
-        "#83-ambiguity-resolution"
-      ],
-      "fossil_anchors": [
-        "#82-ambiguity-resolution"
-      ]
-    },
-    {
-      "file": "core_01_b_interaction_interpretation.md",
-      "title": "8.4.1 Integrated reading",
-      "current_number": "8.4.1",
-      "current_anchors": [
-        "#841-integrated-reading"
-      ],
-      "fossil_anchors": [
-        "#831-integrated-reading"
-      ]
-    },
-    {
-      "file": "core_01_b_interaction_interpretation.md",
-      "title": "8.4.2 Last-resort internal hierarchy",
-      "current_number": "8.4.2",
-      "current_anchors": [
-        "#842-last-resort-internal-hierarchy"
-      ],
-      "fossil_anchors": [
-        "#832-last-resort-internal-hierarchy"
-      ]
-    },
-    {
-      "file": "core_01_b_interaction_interpretation.md",
-      "title": "8.4.3 Incorporation layer",
-      "current_number": "8.4.3",
-      "current_anchors": [
-        "#843-incorporation-layer"
-      ],
-      "fossil_anchors": [
-        "#833-incorporation-layer"
-      ]
-    },
-    {
-      "file": "core_01_c_stewardship_capacity_principles.md",
-      "title": "10.1 Governance as Authorized Structure",
-      "current_number": "10.1",
-      "current_anchors": [
-        "#101-governance-as-authorized-structure"
-      ],
-      "fossil_anchors": [
-        "#10-governance-as-authorized-structure"
-      ]
-    },
-    {
-      "file": "core_01_c_stewardship_capacity_principles.md",
-      "title": "11.1.3 Stewardship and Operator Application",
-      "current_number": "11.1.3",
-      "current_anchors": [
-        "#1113-stewardship-and-operator-application"
-      ],
-      "fossil_anchors": [
-        "#117-stewardship-and-operator-incentive-alignment"
-      ]
-    },
-    {
-      "file": "core_01_c_stewardship_capacity_principles.md",
-      "title": "9.1.1 Shared Stewardship Standard",
-      "current_number": "9.1.1",
-      "current_anchors": [
-        "#911-shared-stewardship-standard"
-      ],
-      "fossil_anchors": [
-        "#shared-stewardship-standard"
-      ]
-    },
-    {
-      "file": "core_01_c_stewardship_capacity_principles.md",
-      "title": "Symmetric costly constraints.** The shared standard is not satisfied by applying costly tr",
-      "current_number": "9.1.1",
-      "current_anchors": [
-        "#911-symmetric-costly-constraints"
-      ],
-      "fossil_anchors": [
-        "#symmetric-costly-constraints"
-      ]
-    },
-    {
-      "file": "core_01_c_stewardship_capacity_principles.md",
-      "title": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
-      "current_number": "9.6",
-      "current_anchors": [
-        "#96-process-character-discipline"
-      ],
-      "fossil_anchors": [
-        "#anti-degrading-process-principle"
-      ]
-    },
-    {
-      "file": "core_02-03_definition_mechanics.md",
-      "title": "1.3 Assessment Components (A) — How It Must Be Assessed",
-      "current_number": "1.3",
-      "current_anchors": [
-        "#13-assessment-components"
-      ],
-      "fossil_anchors": [
-        "#12-assessment-components"
-      ]
-    },
-    {
-      "file": "core_06-06_rights_part_a.md",
-      "title": "1.2 Layer scope",
-      "current_number": "1.2",
-      "current_anchors": [
-        "#12-layer-scope"
-      ],
-      "fossil_anchors": [
-        "#chapter-six--layer-scope"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "System alignment certification** exists to answer one question for a stated scope and revi",
-      "current_number": "1",
-      "current_anchors": [
-        "#1-purpose-and-role"
-      ],
-      "fossil_anchors": [
-        "#11-what-certification-decides"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "10. Trustworthiness and System-Reliance Integrity Evaluation",
-      "current_number": "10",
-      "current_anchors": [
-        "#10-trustworthiness-and-system-reliance-integrity-evaluation"
-      ],
-      "fossil_anchors": [
-        "#6e-trustworthiness-and-system-reliance-integrity-evaluation",
-        "#5e-trustworthiness-and-system-reliance-integrity-evaluation"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "10.1 Illustrative trustworthiness application by class (non-exhaustive)",
-      "current_number": "10.1",
-      "current_anchors": [
-        "#101-illustrative-trustworthiness-application-by-class"
-      ],
-      "fossil_anchors": [
-        "#6e1-illustrative-trustworthiness-application-by-class",
-        "#5e1-illustrative-trustworthiness-application-by-class"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "2. System Class Evaluation",
-      "current_number": "2",
-      "current_anchors": [
-        "#2-system-class-evaluation"
-      ],
-      "fossil_anchors": [
-        "#4-system-class-evaluation",
-        "#3-system-class-evaluation"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "3. Whole-System Certification Evaluation",
-      "current_number": "3",
-      "current_anchors": [
-        "#3-whole-system-certification-evaluation"
-      ],
-      "fossil_anchors": [
-        "#41-recertification-regression-requirement",
-        "#42-initial-recognition-ongoing-recertification-and-defects",
-        "#2-whole-system-certification-evaluation",
-        "#1a-whole-system-certification-evaluation"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "3.1 Systemic Scope and Risk Factors",
-      "current_number": "3.1",
-      "current_anchors": [
-        "#31-systemic-scope-and-risk-factors"
-      ],
-      "fossil_anchors": [
-        "#21-systemic-scope-and-risk-factors",
-        "#1a1-systemic-scope-and-risk-factors"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "3.2 Accessibility Under Sentience Non-Exclusion",
-      "current_number": "3.2",
-      "current_anchors": [
-        "#32-accessibility-under-sentience-non-exclusion"
-      ],
-      "fossil_anchors": [
-        "#22-accessibility-under-sentience-non-exclusion",
-        "#1a2-accessibility-under-sentience-non-exclusion"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "3.3 Privacy (Informational) Joint Invocation",
-      "current_number": "3.3",
-      "current_anchors": [
-        "#33-privacy-informational-joint-invocation"
-      ],
-      "fossil_anchors": [
-        "#23-privacy-informational-joint-invocation",
-        "#1a3-privacy-informational-joint-invocation"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "3.4 Voluntary Discontinuation and Exit Rights",
-      "current_number": "3.4",
-      "current_anchors": [
-        "#34-voluntary-discontinuation-and-exit-rights"
-      ],
-      "fossil_anchors": [
-        "#24-voluntary-discontinuation-and-exit-rights",
-        "#1a4-voluntary-discontinuation-and-exit-rights"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "3.5 Assembly, Collective Organization, and Institutional Formation",
-      "current_number": "3.5",
-      "current_anchors": [
-        "#35-assembly-collective-organization-and-institutional-formation"
-      ],
-      "fossil_anchors": [
-        "#25-assembly-collective-organization-and-institutional-formation",
-        "#1a5-assembly-collective-organization-and-institutional-formation"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "3.6 Time-Consistency Constraint",
-      "current_number": "3.6",
-      "current_anchors": [
-        "#36-time-consistency-constraint"
-      ],
-      "fossil_anchors": [
-        "#26-time-consistency-constraint",
-        "#1a6-time-consistency-constraint"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "3.7 Governance, Incentive, and Contestability Discipline",
-      "current_number": "3.7",
-      "current_anchors": [
-        "#37-governance-incentive-and-contestability-discipline"
-      ],
-      "fossil_anchors": [
-        "#27-governance-incentive-and-contestability-discipline",
-        "#1a7-governance-incentive-and-contestability-discipline"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "4. Data Types and Handling Evaluation",
-      "current_number": "4",
-      "current_anchors": [
-        "#4-data-types-and-handling-evaluation"
-      ],
-      "fossil_anchors": [
-        "#5-data-types-and-handling-evaluation"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "5. Ecological Footprint Evaluation",
-      "current_number": "5",
-      "current_anchors": [
-        "#5-ecological-footprint-evaluation"
-      ],
-      "fossil_anchors": [
-        "#6-ecological-footprint-evaluation"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "6. Proportionate Cross-System Contribution Evaluation",
-      "current_number": "6",
-      "current_anchors": [
-        "#6-proportionate-cross-system-support-evaluation"
-      ],
-      "fossil_anchors": [
-        "#6a-proportionate-cross-system-support-evaluation",
-        "#5a-proportionate-cross-system-support-evaluation"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "7. Nondiscrimination Evaluation",
-      "current_number": "7",
-      "current_anchors": [
-        "#7-nondiscrimination-evaluation"
-      ],
-      "fossil_anchors": [
-        "#6b-nondiscrimination-evaluation",
-        "#5b-nondiscrimination-evaluation"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "7.1 Illustrative nondiscrimination application by class (non-exhaustive)",
-      "current_number": "7.1",
-      "current_anchors": [
-        "#71-illustrative-nondiscrimination-application-by-class"
-      ],
-      "fossil_anchors": [
-        "#6b1-illustrative-nondiscrimination-application-by-class",
-        "#5b1-illustrative-nondiscrimination-application-by-class"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "8. Accessibility Evaluation",
-      "current_number": "8",
-      "current_anchors": [
-        "#8-accessibility-evaluation"
-      ],
-      "fossil_anchors": [
-        "#6c-accessibility-evaluation",
-        "#5c-accessibility-evaluation"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "8.1 Illustrative accessibility application by class (non-exhaustive)",
-      "current_number": "8.1",
-      "current_anchors": [
-        "#81-illustrative-accessibility-application-by-class"
-      ],
-      "fossil_anchors": [
-        "#6c1-illustrative-accessibility-application-by-class",
-        "#5c1-illustrative-accessibility-application-by-class"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "9. Educational Capability and Learning-System Integrity Evaluation",
-      "current_number": "9",
-      "current_anchors": [
-        "#9-educational-capability-and-learning-system-integrity-evaluation"
-      ],
-      "fossil_anchors": [
-        "#6d-educational-capability-and-learning-system-integrity-evaluation",
-        "#5d-educational-capability-and-learning-system-integrity-evaluation"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "9.1 Illustrative educational-capability application by class (non-exhaustive)",
-      "current_number": "9.1",
-      "current_anchors": [
-        "#91-illustrative-educational-capability-application-by-class"
-      ],
-      "fossil_anchors": [
-        "#6d1-illustrative-educational-capability-application-by-class",
-        "#5d1-illustrative-educational-capability-application-by-class"
-      ]
-    },
-    {
-      "file": "core_07_b_system_alignment_certification_record_process.md",
-      "title": "11. System Certification Record",
-      "current_number": "11",
-      "current_anchors": [
-        "#11-certification-record"
-      ],
-      "fossil_anchors": [
-        "#3-certification-record",
-        "#2-certification-record"
-      ]
-    },
-    {
-      "file": "core_07_b_system_alignment_certification_record_process.md",
-      "title": "11.1 Minimum record contents",
-      "current_number": "11.1",
-      "current_anchors": [
-        "#111-minimum-record-contents"
-      ],
-      "fossil_anchors": [
-        "#31-minimum-record-contents"
-      ]
-    },
-    {
-      "file": "core_07_b_system_alignment_certification_record_process.md",
-      "title": "11.2 Cross-section record requirements",
-      "current_number": "11.2",
-      "current_anchors": [
-        "#112-cross-section-record-requirements"
-      ],
-      "fossil_anchors": [
-        "#32-cross-section-record-requirements"
-      ]
-    },
-    {
-      "file": "core_07_b_system_alignment_certification_record_process.md",
-      "title": "11.3 Rights-Floor record evaluation (non-substitution)",
-      "current_number": "11.3",
-      "current_anchors": [
-        "#113-rights-floor-record-evaluation-non-substitution"
-      ],
-      "fossil_anchors": [
-        "#33-rights-floor-record-evaluation-non-substitution"
-      ]
-    },
-    {
-      "file": "core_07_b_system_alignment_certification_record_process.md",
-      "title": "12. Transparency, Auditability, and Contestability",
-      "current_number": "12",
-      "current_anchors": [
-        "#12-transparency-auditability-and-contestability"
-      ],
-      "fossil_anchors": [
-        "#7-transparency-auditability-and-contestability",
-        "#6-transparency-auditability-and-contestability"
-      ]
-    },
-    {
-      "file": "core_07_b_system_alignment_certification_record_process.md",
-      "title": "13. Forum Supervision and Component Roles",
-      "current_number": "13",
-      "current_anchors": [
-        "#13-forum-supervision-and-component-roles"
-      ],
-      "fossil_anchors": [
-        "#9-forum-supervision-and-component-roles",
-        "#8-forum-supervision-and-component-roles"
-      ]
-    },
-    {
-      "file": "core_07_b_system_alignment_certification_record_process.md",
-      "title": "14. Supervisory Sequence and Contestability Chain",
-      "current_number": "14",
-      "current_anchors": [
-        "#14-supervisory-sequence-and-contestability-chain"
-      ],
-      "fossil_anchors": [
-        "#8-supervisory-sequence-and-contestability-chain",
-        "#7-supervisory-sequence-and-contestability-chain"
-      ]
-    },
-    {
-      "file": "core_07_b_system_alignment_certification_record_process.md",
-      "title": "14.1 Supervisory sequence",
-      "current_number": "14.1",
-      "current_anchors": [
-        "#141-supervisory-sequence"
-      ],
-      "fossil_anchors": [
-        "#81-supervisory-sequence"
-      ]
-    },
-    {
-      "file": "core_07_b_system_alignment_certification_record_process.md",
-      "title": "14.2 Contestability chain",
-      "current_number": "14.2",
-      "current_anchors": [
-        "#142-contestability-chain"
-      ],
-      "fossil_anchors": [
-        "#82-contestability-chain"
-      ]
-    },
-    {
-      "file": "core_07_b_system_alignment_certification_record_process.md",
-      "title": "14.3 Anti-bypass",
-      "current_number": "14.3",
-      "current_anchors": [
-        "#143-anti-bypass"
-      ],
-      "fossil_anchors": [
-        "#83-anti-bypass"
-      ]
-    },
-    {
-      "file": "core_07_b_system_alignment_certification_record_process.md",
-      "title": "15. Relationship to Standing",
-      "current_number": "15",
-      "current_anchors": [
-        "#15-relationship-to-standing"
-      ],
-      "fossil_anchors": [
-        "#10-relationship-to-standing",
-        "#9-relationship-to-standing"
-      ]
-    },
-    {
-      "file": "core_07_b_system_alignment_certification_record_process.md",
-      "title": "16. Reopening, Misalignment, and Non-Evasion",
-      "current_number": "16",
-      "current_anchors": [
-        "#16-reopening-drift-and-non-evasion"
-      ],
-      "fossil_anchors": [
-        "#11-reopening-drift-and-non-evasion",
-        "#10-reopening-drift-and-non-evasion"
-      ]
-    },
-    {
-      "file": "core_08-08_standing_assessment.md",
-      "title": "1. The three questions",
-      "current_number": "1",
-      "current_anchors": [
-        "#1-the-three-questions"
-      ],
-      "fossil_anchors": [
-        "#2-purpose-and-role",
-        "#11-two-question-evaluation-discipline",
-        "#two-question-evaluation-discipline",
-        "#11-three-question-evaluation-discipline",
-        "#three-question-evaluation-discipline"
-      ]
-    },
-    {
-      "file": "core_08-08_standing_assessment.md",
-      "title": "2.1 What Question 1 must establish",
-      "current_number": "2.1",
-      "current_anchors": [
-        "#21-standing-records-as-the-unit-of-application"
-      ],
-      "fossil_anchors": [
-        "#contribution-standing-record",
-        "#violation-standing-record"
-      ]
-    },
-    {
-      "file": "core_08-08_standing_assessment.md",
-      "title": "2.3 Question 1 event-type guide — what kind of help or harm occurred?",
-      "current_number": "2.3",
-      "current_anchors": [
-        "#23-question-1-event-type-guide"
-      ],
-      "fossil_anchors": [
-        "#question-1-event-type-guide"
-      ]
-    },
-    {
-      "file": "core_08-08_standing_assessment.md",
-      "title": "3. Verification and record requirements",
-      "current_number": "3",
-      "current_anchors": [
-        "#3-standing-record-operational-requirements",
-        "#3-verification-and-record-requirements"
-      ],
-      "fossil_anchors": [
-        "#24-verification-and-record-requirements"
-      ]
-    },
-    {
-      "file": "core_08-08_standing_assessment.md",
-      "title": "4. Question 2 — how good or bad was it?",
-      "current_number": "4",
-      "current_anchors": [
-        "#4-standing-measurement-evaluation-dimensions",
-        "#4-classification-evaluation-dimensions",
-        "#4-question-2-how-good-or-bad-was-it"
-      ],
-      "fossil_anchors": [
-        "#3-question-2-how-good-or-bad-was-it"
-      ]
-    },
-    {
-      "file": "core_08-08_standing_assessment.md",
-      "title": "4.2 Violation severity-input dimensions",
-      "current_number": "4.2",
-      "current_anchors": [
-        "#42-violation-severity-input-dimensions"
-      ],
-      "fossil_anchors": [
-        "#violation-table-q1-severity-input-dimensions",
-        "#violation-table-q2-severity-input-dimensions"
-      ]
-    },
-    {
-      "file": "core_08-08_standing_assessment.md",
-      "title": "4.3 Contribution route descriptor catalog and measurement roles",
-      "current_number": "4.3",
-      "current_anchors": [
-        "#43-route-descriptor-measurement-roles",
-        "#43-route-descriptor-classification-roles",
-        "#43-contribution-route-descriptor-measurement-roles"
-      ],
-      "fossil_anchors": [
-        "#42-route-descriptor-measurement-roles",
-        "#42-route-descriptor-classification-roles",
-        "#shared-descriptor-catalog-and-measurement-roles"
-      ]
-    },
-    {
-      "file": "core_08-08_standing_assessment.md",
-      "title": "4.4 Violation route descriptor catalog and measurement roles",
-      "current_number": "4.4",
-      "current_anchors": [
-        "#44-violation-route-descriptor-measurement-roles"
-      ],
-      "fossil_anchors": [
-        "#harm-route-descriptors-q1-measurement-role",
-        "#harm-route-descriptors-q1-classification-role",
-        "#harm-route-descriptors-q2-measurement-role"
-      ]
-    },
-    {
-      "file": "core_08-08_standing_assessment.md",
-      "title": "4.5 Cross-question measurement hooks",
-      "current_number": "4.5",
-      "current_anchors": [
-        "#45-dual-use-measurement-hooks",
-        "#45-dual-use-classification-hooks"
-      ],
-      "fossil_anchors": [
-        "#dual-use-measurement-dimensions",
-        "#dual-use-classification-dimensions",
-        "#dual-use-contribution-evaluation-dimensions",
-        "#dual-use-evaluation-dimensions",
-        "#43-dual-use-measurement-hooks",
-        "#43-dual-use-classification-hooks",
-        "#44-dual-use-measurement-hooks",
-        "#44-dual-use-classification-hooks"
-      ]
-    },
-    {
-      "file": "core_08-08_standing_assessment.md",
-      "title": "4.6 Measurement illustrations",
-      "current_number": "4.6",
-      "current_anchors": [
-        "#46-question-1-measurement-illustrations",
-        "#46-question-1-classification-illustrations",
-        "#46-question-2-measurement-illustrations"
-      ],
-      "fossil_anchors": [
-        "#44-question-1-measurement-illustrations",
-        "#44-question-1-classification-illustrations",
-        "#44-question-2-measurement-illustrations",
-        "#45-question-1-measurement-illustrations",
-        "#45-question-1-classification-illustrations",
-        "#45-question-2-measurement-illustrations"
-      ]
-    },
-    {
-      "file": "core_08-08_standing_assessment.md",
-      "title": "5. Slot grammar and shared scaling",
-      "current_number": "5",
-      "current_anchors": [
-        "#5-slot-grammar-and-display-labels",
-        "#5-slot-assignment-calibration-and-category-defaults",
-        "#5-slot-grammar-and-lequ-calibration"
-      ],
-      "fossil_anchors": [
-        "#45-slot-grammar-and-display-labels",
-        "#6-slot-grammar-and-display-labels",
-        "#46-slot-grammar-and-display-labels",
-        "#7-slot-grammar-and-display-labels",
-        "#47-slot-grammar-and-display-labels"
-      ]
-    },
-    {
-      "file": "core_08-08_standing_assessment.md",
-      "title": "5.1 Table 1 — slot display labels",
-      "current_number": "5.1",
-      "current_anchors": [
-        "#51-table-1-slot-display-labels"
-      ],
-      "fossil_anchors": [
-        "#52-table-1-slot-display-labels",
-        "#452-table-1-slot-display-labels",
-        "#462-table-1-slot-display-labels",
-        "#472-table-1-slot-display-labels",
-        "#512-table-1-slot-display-labels",
-        "#511-table-1-slot-display-labels"
-      ]
-    },
-    {
-      "file": "core_08-08_standing_assessment.md",
-      "title": "6. Constitutional inputs to axis assignment",
-      "current_number": "6",
-      "current_anchors": [
-        "#6-constitutional-inputs-to-axis-assignment"
-      ],
-      "fossil_anchors": [
-        "#53-constitutional-inputs-to-axis-assignment",
-        "#constitutional-inputs-to-axis-assignment"
-      ]
-    },
-    {
-      "file": "core_09-09_standing_integration.md",
-      "title": "4.1 Remedy and correction",
-      "current_number": "4.1",
-      "current_anchors": [
-        "#41-remedy-and-correction"
-      ],
-      "fossil_anchors": [
-        "#61-remedial-restorative-and-civil-correction-character"
-      ]
-    },
-    {
-      "file": "core_09-09_standing_integration.md",
-      "title": "5.4 Special violation rules",
-      "current_number": "5.4",
-      "current_anchors": [
-        "#54-special-violation-rules"
-      ],
-      "fossil_anchors": [
-        "#63-constitutional-floor-character",
-        "#62-coercive-or-liberty-restricting-safeguard-character"
-      ]
-    },
-    {
-      "file": "core_09-09_standing_integration.md",
-      "title": "Negligence and neglect.",
-      "current_number": "5.4",
-      "current_anchors": [
-        "#54-negligence-and-neglect-as-violation-nature"
-      ],
-      "fossil_anchors": [
-        "#412-negligence-and-neglect-as-violation-nature"
-      ]
-    },
-    {
-      "file": "core_09-09_standing_integration.md",
-      "title": "Duty to resist.",
-      "current_number": "5.4",
-      "current_anchors": [
-        "#54-duty-to-resist-unlawful-or-unconstitutional-instructions"
-      ],
-      "fossil_anchors": [
-        "#411-duty-to-resist-unlawful-or-unconstitutional-instructions"
-      ]
-    },
-    {
-      "file": "core_09-09_standing_integration.md",
-      "title": "Collective accountability.",
-      "current_number": "5.4",
-      "current_anchors": [
-        "#54-collective-accountability-and-acquiescent-participation"
-      ],
-      "fossil_anchors": [
-        "#410-collective-accountability-and-acquiescent-participation"
-      ]
-    },
-    {
-      "file": "core_09-09_standing_integration.md",
-      "title": "6.2 Competency bars and clearances",
-      "current_number": "6.2",
-      "current_anchors": [
-        "#62-competency-bars-and-clearances",
-        "#62-competency-gates"
-      ],
-      "fossil_anchors": [
-        "#competency-bars-and-clearances",
-        "#competency-gates",
-        "#competency-gate",
-        "#competency-bar",
-        "#competency-clearance"
-      ]
-    },
-    {
-      "file": "core_09-09_standing_integration.md",
-      "title": "7. Final standing effect",
-      "current_number": "7",
-      "current_anchors": [
-        "#7-final-standing-effect"
-      ],
-      "fossil_anchors": [
-        "#standing-effect"
-      ]
-    },
-    {
-      "file": "core_09-09_standing_integration.md",
-      "title": "9. Enforcement realism and remedy systems",
-      "current_number": "9",
-      "current_anchors": [
-        "#9-enforcement-realism"
-      ],
-      "fossil_anchors": [
-        "#remedy-systems"
-      ]
-    },
-    {
-      "file": "core_09-09_standing_integration.md",
-      "title": "9.1 Remediation capacity and funding",
-      "current_number": "9.1",
-      "current_anchors": [
-        "#91-remediation-capacity-and-funding"
-      ],
-      "fossil_anchors": [
-        "#81-remediation-capacity-and-funding"
-      ]
-    },
-    {
-      "file": "core_09-09_standing_integration.md",
-      "title": "9.2 Remedy-system durability",
-      "current_number": "9.2",
-      "current_anchors": [
-        "#92-remedy-system-durability"
-      ],
-      "fossil_anchors": [
-        "#82-remedy-system-durability"
-      ]
-    },
-    {
-      "file": "core_09-09_standing_integration.md",
-      "title": "9.3 Cross-jurisdiction continuity",
-      "current_number": "9.3",
-      "current_anchors": [
-        "#93-cross-jurisdiction-continuity"
-      ],
-      "fossil_anchors": [
-        "#83-cross-jurisdiction-continuity"
-      ]
-    },
-    {
-      "file": "core_09-09_standing_integration.md",
-      "title": "9.4 Anti-evasion and look-through authority",
-      "current_number": "9.4",
-      "current_anchors": [
-        "#94-anti-evasion-and-look-through-authority"
-      ],
-      "fossil_anchors": [
-        "#84-anti-evasion-and-look-through-authority"
-      ]
-    },
-    {
-      "file": "core_09-09_standing_integration.md",
-      "title": "9.5 Timely implementation",
-      "current_number": "9.5",
-      "current_anchors": [
-        "#95-timely-implementation-and-reassessment"
-      ],
-      "fossil_anchors": [
-        "#85-timely-implementation-and-reassessment"
-      ]
-    },
-    {
-      "file": "core_10_a_misconduct_designation.md",
-      "title": "1. How designation decisions work — Continuity and tetrad-capture frame",
-      "current_number": "1",
-      "current_anchors": [
-        "#1-scope-and-authority",
-        "#1-decision-framework-scope-and-authority"
-      ],
-      "fossil_anchors": [
-        "#chapter-eight-part-a-continuity-frame"
-      ]
-    },
-    {
-      "file": "core_10_a_misconduct_designation.md",
-      "title": "Chapters Thirteen through Fifteen boundary.** **Chapter Thirteen** decides whether a const",
-      "current_number": "1",
-      "current_anchors": [
-        "#1-cross-chapter-discipline"
-      ],
-      "fossil_anchors": [
-        "#chapter-eight-part-e-cross-chapter-discipline",
-        "#5-cross-chapter-discipline"
-      ]
-    },
-    {
-      "file": "core_10_a_misconduct_designation.md",
-      "title": "2. Criteria set (for designation) — Accountability at constitutional scale",
-      "current_number": "2",
-      "current_anchors": [
-        "#2-criteria-set-for-slot-assignment",
-        "#2-criteria-set-for-designation"
-      ],
-      "fossil_anchors": [
-        "#chapter-eight-part-b-accountability-scale"
-      ]
-    },
-    {
-      "file": "core_10_a_misconduct_designation.md",
-      "title": "4. Due-process safeguards, remedy, and prevention",
-      "current_number": "4",
-      "current_anchors": [
-        "#4-due-process-safeguards-for-slot-assignment",
-        "#4-due-process-safeguards-for-designation",
-        "#4-due-process-safeguards-remedy-and-prevention"
-      ],
-      "fossil_anchors": [
-        "#chapter-eight-part-c-oversight-safeguards"
-      ]
-    },
-    {
-      "file": "core_10_a_misconduct_designation.md",
-      "title": "4.1 Remedy and correction (anti-constitutional)",
-      "current_number": "4.1",
-      "current_anchors": [
-        "#4-1-remedy-and-correction-anti-constitutional"
-      ],
-      "fossil_anchors": [
-        "#4-2-restitution-remedy-priority-and-consequence-integration"
-      ]
-    },
-    {
-      "file": "core_10_a_misconduct_designation.md",
-      "title": "4.2 Prevention — anti-constitutional locks",
-      "current_number": "4.2",
-      "current_anchors": [
-        "#4-2-prevention-anti-constitutional-locks"
-      ],
-      "fossil_anchors": [
-        "#4-1-imprisonment-for-anti-constitutional-misconduct"
-      ]
-    },
-    {
-      "file": "core_10_b_misconduct_pattern_applications.md",
-      "title": "5. Pattern applications and criteria routing — Participation and pathway integrity",
-      "current_number": "5",
-      "current_anchors": [
-        "#5-criteria-interactions-and-named-pattern-routing",
-        "#5-pattern-applications-and-criteria-routing"
-      ],
-      "fossil_anchors": [
-        "#6-criteria-interactions-and-named-pattern-routing",
-        "#6-pattern-applications-and-criteria-routing",
-        "#chapter-eight-part-d-participation-pathways"
-      ]
-    },
-    {
-      "file": "core_10_b_misconduct_pattern_applications.md",
-      "title": "5.1 Concentration-based subversion: criteria interaction",
-      "current_number": "5.1",
-      "current_anchors": [
-        "#51-concentration-based-subversion-criteria-interaction"
-      ],
-      "fossil_anchors": [
-        "#61-concentration-based-subversion-criteria-interaction"
-      ]
-    },
-    {
-      "file": "core_10_b_misconduct_pattern_applications.md",
-      "title": "5.10 Forum recusal failure and biased panel participation",
-      "current_number": "5.10",
-      "current_anchors": [
-        "#510-forum-recusal-failure-and-biased-panel-participation"
-      ],
-      "fossil_anchors": [
-        "#610-forum-recusal-failure-and-biased-panel-participation"
-      ]
-    },
-    {
-      "file": "core_10_b_misconduct_pattern_applications.md",
-      "title": "5.11 Obstruction of accountability: criteria interaction",
-      "current_number": "5.11",
-      "current_anchors": [
-        "#511-obstruction-of-accountability-criteria-interaction"
-      ],
-      "fossil_anchors": [
-        "#611-obstruction-of-accountability-criteria-interaction"
-      ]
-    },
-    {
-      "file": "core_10_b_misconduct_pattern_applications.md",
-      "title": "5.2 Rights-Floor waivers and unconstitutional contract terms",
-      "current_number": "5.2",
-      "current_anchors": [
-        "#52-rights-floor-waivers-and-unconstitutional-contract-terms"
-      ],
-      "fossil_anchors": [
-        "#62-rights-floor-waivers-and-unconstitutional-contract-terms"
-      ]
-    },
-    {
-      "file": "core_10_b_misconduct_pattern_applications.md",
-      "title": "5.3 Flooding the zone and contest-pathway denial",
-      "current_number": "5.3",
-      "current_anchors": [
-        "#53-flooding-the-zone-and-contest-pathway-denial"
-      ],
-      "fossil_anchors": [
-        "#63-flooding-the-zone-and-contest-pathway-denial"
-      ]
-    },
-    {
-      "file": "core_10_b_misconduct_pattern_applications.md",
-      "title": "5.4 Info-sphere zone flooding",
-      "current_number": "5.4",
-      "current_anchors": [
-        "#54-info-sphere-zone-flooding"
-      ],
-      "fossil_anchors": [
-        "#64-info-sphere-zone-flooding"
-      ]
-    },
-    {
-      "file": "core_10_b_misconduct_pattern_applications.md",
-      "title": "5.5 Bribery and improper benefit exchange",
-      "current_number": "5.5",
-      "current_anchors": [
-        "#55-bribery-and-improper-benefit-exchange"
-      ],
-      "fossil_anchors": [
-        "#65-bribery-and-improper-benefit-exchange"
-      ]
-    },
-    {
-      "file": "core_10_b_misconduct_pattern_applications.md",
-      "title": "5.6 Unlawful or unconstitutional command conduct",
-      "current_number": "5.6",
-      "current_anchors": [
-        "#56-unlawful-or-unconstitutional-command-conduct"
-      ],
-      "fossil_anchors": [
-        "#66-unlawful-or-unconstitutional-command-conduct"
-      ]
-    },
-    {
-      "file": "core_10_b_misconduct_pattern_applications.md",
-      "title": "5.6.1 Follower and implementer accountability",
-      "current_number": "5.6.1",
-      "current_anchors": [
-        "#561-follower-and-implementer-accountability"
-      ],
-      "fossil_anchors": [
-        "#661-follower-and-implementer-accountability"
-      ]
-    },
-    {
-      "file": "core_10_b_misconduct_pattern_applications.md",
-      "title": "5.7 Reward, protection, or normalization of anti-constitutional conduct",
-      "current_number": "5.7",
-      "current_anchors": [
-        "#57-reward-protection-or-normalization-of-anti-constitutional-conduct"
-      ],
-      "fossil_anchors": [
-        "#67-reward-protection-or-normalization-of-anti-constitutional-conduct"
-      ]
-    },
-    {
-      "file": "core_10_b_misconduct_pattern_applications.md",
-      "title": "5.8 Enforcement refusal, suppression, or non-prosecution conduct",
-      "current_number": "5.8",
-      "current_anchors": [
-        "#58-enforcement-refusal-suppression-or-non-prosecution-conduct"
-      ],
-      "fossil_anchors": [
-        "#68-enforcement-refusal-suppression-or-non-prosecution-conduct"
-      ]
-    },
-    {
-      "file": "core_10_b_misconduct_pattern_applications.md",
-      "title": "5.9 Infrastructure denial, destruction, or dependency cutoff conduct",
-      "current_number": "5.9",
-      "current_anchors": [
-        "#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct"
-      ],
-      "fossil_anchors": [
-        "#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct"
-      ]
-    },
-    {
-      "file": "core_11-11_forum.md",
-      "title": "Shared standards and anti-displacement.** The default approach for enforcement of constitu",
-      "current_number": "4.2",
-      "current_anchors": [
-        "#42-shared-standards-and-anti-displacement"
-      ],
-      "fossil_anchors": [
-        "#53-shared-standards-and-anti-displacement"
-      ]
-    },
-    {
-      "file": "core_11-11_forum.md",
-      "title": "- Upstream: §1 (*independence, contestability, and tracing expectations*); §2 (*primary-st",
-      "current_number": "7",
-      "current_anchors": [
-        "#7-forensic-and-analytical-support"
-      ],
-      "fossil_anchors": [
-        "#6-forensic-and-analytical-support"
-      ]
-    },
-    {
-      "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
-      "title": "7.9. Prove the class stated in the System Classification Record.",
-      "current_number": "7.9",
-      "current_anchors": [
-        "#79-class-scaled-assurance-and-supporting-infrastructure"
-      ],
-      "fossil_anchors": [
-        "#710-class-scaled-assurance-and-supporting-infrastructure"
-      ]
-    }
-  ],
+  "aliases": [],
   "steward_doors": {
     "index": "implementation/steward_owner_clock_index.json",
     "cards": "implementation/STEWARD_ENTRY_DOORS.md",
@@ -6751,6 +5547,38 @@
       {
         "avoid": "pathways (bare; standing/privilege/lock/clearance object)",
         "prefer": "named pathways, named privilege pathways, or type-prefixed privilege pathways; retain Capture of Resolution Pathways, challenge/review/appeal/remedy/redress/contest pathways, restorative/restoration pathways, causal/system compounds, and established titles"
+      },
+      {
+        "avoid": "stakeholder governance",
+        "prefer": "Stakeholder System Participation (voice inside already-authorized systems); Article XI by name when the Rights Floor is the point; Preamble §3.3"
+      },
+      {
+        "avoid": "constitutional governance",
+        "prefer": "Constitutional Contract Layer when naming the authorization layer; keep Tetrad-sense constitutional governance safeguards where that phrase is not a layer label"
+      },
+      {
+        "avoid": "constitutional governance layer",
+        "prefer": "Constitutional Contract Layer (who may govern, by what legitimacy mechanism, on what durable terms)"
+      },
+      {
+        "avoid": "stakeholder governance layer",
+        "prefer": "Stakeholder System Participation (voice, representation, contestability, and due process inside already-authorized systems)"
+      },
+      {
+        "avoid": "governance layer mechanism",
+        "prefer": "legitimacy mechanism (Chapter Twelve); do not use governance-layer mechanism as a synonym for the two-layer split"
+      },
+      {
+        "avoid": "governance-layer mechanism",
+        "prefer": "legitimacy mechanism (Chapter Twelve)"
+      },
+      {
+        "avoid": "stakeholder-layer",
+        "prefer": "Stakeholder System Participation layer; cite Preamble §3.3"
+      },
+      {
+        "avoid": "two-tier constitutional and stakeholder governance",
+        "prefer": "the two governance layers: Constitutional Contract Layer and Stakeholder System Participation; reserve two-tier for the CJS-1.8 definition contract"
       }
     ]
   }

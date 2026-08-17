@@ -21,16 +21,13 @@
 Chapter Ten, **Part B**, is the constitutional owner of **named pattern applications and criteria routing** for anti-constitutional misconduct. Designation criteria, attachment, and due-process safeguards are in **[Part A](core_10_a_misconduct_designation.md#chapter-ten-part-a-anti-constitutional-misconduct-designation)**.
 
 <a id="5-criteria-interactions-and-named-pattern-routing"></a>
-<a id="6-criteria-interactions-and-named-pattern-routing"></a>
 <a id="5-pattern-applications-and-criteria-routing"></a>
-<a id="6-pattern-applications-and-criteria-routing"></a>
-<a id="chapter-eight-part-d-participation-pathways"></a>
 
 ### 5. Pattern applications and criteria routing — Participation and pathway integrity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards, remedy, and prevention*); [§1](core_10_a_misconduct_designation.md#5-cross-chapter-discipline) (*Chapters Thirteen through Fifteen boundary*).
+- Upstream: [§2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards, remedy, and prevention*); [§1](core_10_a_misconduct_designation.md#1-cross-chapter-discipline) (*Chapters Thirteen through Fifteen boundary*).
 - Subsections: [§5.1](#51-concentration-based-subversion-criteria-interaction); [§5.2](#52-rights-floor-waivers-and-unconstitutional-contract-terms); [§5.3](#53-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone*); [§5.4](#54-info-sphere-zone-flooding); [§5.5](#55-bribery-and-improper-benefit-exchange); [§5.6](#56-unlawful-or-unconstitutional-command-conduct), including [§5.6.1](#561-follower-and-implementer-accountability); [§5.7](#57-reward-protection-or-normalization-of-anti-constitutional-conduct); [§5.8](#58-enforcement-refusal-suppression-or-non-prosecution-conduct); [§5.9](#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct); [§5.10](#510-forum-recusal-failure-and-biased-panel-participation); [§5.11](#511-obstruction-of-accountability-criteria-interaction) (*Obstruction of accountability*).
 - Topic routing (mandatory read-with): [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) (*Prevention — general standing locks*); [Chapter Nine §5.4](core_09-09_standing_integration.md#54-special-violation-rules) (*Special violation rules*); [Chapter Nine §5.5](core_09-09_standing_integration.md#55-special-locks) (*Special locks — Forum-Service Standing Lock and Anti-Constitutional Trust Lock*); [Chapter Nine §10](core_09-09_standing_integration.md#10-pattern-applications-and-question-3-routing) (*Question 3 pattern routing — dual-layer mirror for verified pathway harm*).
 - Read with: [Chapter Five](core_05__definitions_home.md#chapter-five-foundational-definitions) for definitions named inside each pattern-routing subsection.
@@ -44,7 +41,6 @@ Chapter Ten, **Part B**, is the constitutional owner of **named pattern applicat
 The following subsections state criteria interactions and named pattern applications. They do **not** add independent impact criteria, relocate operational rules from other chapters, bypass **section 4** safeguards, or create Chapter Nine lock types. Pathway language in this section names **attack targets**. Standing locks, special-violation shaping, and special locks remain owned by [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration): general locks and [§5.4](core_09-09_standing_integration.md#54-special-violation-rules) shaping for ordinary verified pathway harm; the **Forum-Service Standing Lock** for required-recusal failure under [§5.10](#510-forum-recusal-failure-and-biased-panel-participation); and the **Anti-Constitutional Trust Lock** after final designation under [§4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks). Evaluators assess each materially implicated pattern on the **unified incident record** under **section 2**, decide designation under **section 3**, preserve required process under **section 4**, and keep the Chapters Thirteen through Fifteen boundary stated in **section 1**.
 
 <a id="51-concentration-based-subversion-criteria-interaction"></a>
-<a id="61-concentration-based-subversion-criteria-interaction"></a>
 
 ### 5.1 Concentration-based subversion: criteria interaction
 <details>
@@ -69,14 +65,13 @@ Prohibited **concentration of wealth, power, control, or opportunity**, includin
 The absence of overt deception or forcible act does **not** defeat anti-constitutional misconduct designation where prohibited concentration, durable domination, or unrebutted consolidation-ceiling breach produces the equivalent constitutional effect. Quantitative threshold-setting and ceiling-setting for concentration remain owned by **Chapter One §13**, **§13.1**, and **§13.3** and are not relitigated here; this chapter evaluates the **conduct** that creates, maintains, exploits, conceals, or restructures around concentration, consolidation, or domination that has crossed the **§13** floor.
 
 <a id="52-rights-floor-waivers-and-unconstitutional-contract-terms"></a>
-<a id="62-rights-floor-waivers-and-unconstitutional-contract-terms"></a>
 
 ### 5.2 Rights-Floor waivers and unconstitutional contract terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Criteria set*); [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights Floor; [Chapter Nine §5.4](core_09-09_standing_integration.md#54-special-violation-rules) (*Duty to Resist Unlawful or Unconstitutional Instructions*) for unconstitutional-instruction routing named in the second bullet.
-- Downstream: [§1](core_10_a_misconduct_designation.md#5-cross-chapter-discipline) (*Chapters Thirteen through Fifteen boundary*); [Article XXIII-A: Justice Objective and Scope](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) for review pathways that waiver devices must not defeat.
+- Downstream: [§1](core_10_a_misconduct_designation.md#1-cross-chapter-discipline) (*Chapters Thirteen through Fifteen boundary*); [Article XXIII-A: Justice Objective and Scope](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) for review pathways that waiver devices must not defeat.
 - Topic routing (mandatory read-with): [Chapter Nine §10.9](core_09-09_standing_integration.md#109-rights-floor-waiver-or-unconstitutional-contract-devices) (*Question 3 pathway-lock routing for the same fact family — general locks only*).
 - Read with: [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) procedural-validity rules for adoption instruments (contrast with ordinary association terms).
 
@@ -120,14 +115,13 @@ The following patterns are **anti-constitutional misconduct within this chapter�
 **Criteria routing.** Evaluators assess these patterns under **criteria 3 and 4** where they produce material rollback or equivalent structural workaround, blocked or chilled challenge rights, or Rights-Floor degradation. **Criteria 1 and 2** apply where willful deception or record manipulation is implicated. This subsection does **not** add an additional designation criterion beyond the **section 2** set; it routes evaluation of the named patterns into that set.
 
 <a id="53-flooding-the-zone-and-contest-pathway-denial"></a>
-<a id="63-flooding-the-zone-and-contest-pathway-denial"></a>
 
 ### 5.3 Flooding the zone and contest-pathway denial
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Criteria set*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*default venue, intake triage, transfer and consolidation, anti-gaming, and interim relief — operational response without relocating designation review*).
-- Downstream: [§3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§1](core_10_a_misconduct_designation.md#5-cross-chapter-discipline) (*Chapters Thirteen through Fifteen boundary*).
+- Downstream: [§3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§1](core_10_a_misconduct_designation.md#1-cross-chapter-discipline) (*Chapters Thirteen through Fifteen boundary*).
 - Topic routing (mandatory read-with): [Chapter Nine §10.10](core_09-09_standing_integration.md#1010-contest-pathway-or-info-sphere-flooding) (*Question 3 pathway-lock routing for contest-pathway or info-sphere flooding — general locks only*).
 - Read with: [Contestability](core_05_band_accountability.md#contestability) and [Transparency](core_05_band_oversight.md#transparency) in **Chapter Five** where pathway usability and publication are material.
 - Forum operations: [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes) through [§3](core_11-11_forum.md#3-transfer-consolidation-and-coordination) for intake triage, consolidation, and representative treatment.
@@ -189,14 +183,13 @@ The following are non-exhaustive examples of in-scope means:
 This subsection does **not** add an additional designation criterion beyond the **section 2** set; it routes evaluation of the named patterns into that set.
 
 <a id="54-info-sphere-zone-flooding"></a>
-<a id="64-info-sphere-zone-flooding"></a>
 
 ### 5.4 Info-sphere zone flooding
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Criteria set*); [§5.3](#53-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone — contest-pathway distinction*); [Chapter One §3.2](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) (*Truth / epistemic integrity*); [Chapter One §6.2.1](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity) (*Preservation of epistemic integrity*).
-- Downstream: [§3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§1](core_10_a_misconduct_designation.md#5-cross-chapter-discipline) (*Chapters Thirteen through Fifteen boundary*).
+- Downstream: [§3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§1](core_10_a_misconduct_designation.md#1-cross-chapter-discipline) (*Chapters Thirteen through Fifteen boundary*).
 - Topic routing (mandatory read-with): [Chapter Nine §10.10](core_09-09_standing_integration.md#1010-contest-pathway-or-info-sphere-flooding) (*Question 3 pathway-lock routing for contest-pathway or info-sphere flooding — general locks only*).
 - Read with: [Info-Sphere](core_05_band_participation.md#info-sphere), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), and [Transparency](core_05_band_oversight.md#transparency) in **Chapter Five**.
 - Rights and verification: [Article V-H: Expression, Assembly, and Press](core_06-06_rights_part_b.md#article-v-h-expression-assembly-and-press) and [Article XV: Audit, Transparency, and Independent Verification](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) in **Chapter Six**. These supply Rights Floors and verification discipline without relocating designation review.
@@ -274,7 +267,6 @@ This subsection states when such conduct may implicate final anti-constitutional
 This subsection does **not** add an additional designation criterion beyond the **section 2** set; it routes evaluation of the named patterns into that set.
 
 <a id="55-bribery-and-improper-benefit-exchange"></a>
-<a id="65-bribery-and-improper-benefit-exchange"></a>
 
 ### 5.5 Bribery and improper benefit exchange
 <details>
@@ -361,7 +353,6 @@ Benefit exchange alone is not sufficient. The materially corrupt linkage to cons
 This subsection does **not** add an additional designation criterion beyond the **section 2** set; it routes evaluation of the named pattern into that set.
 
 <a id="56-unlawful-or-unconstitutional-command-conduct"></a>
-<a id="66-unlawful-or-unconstitutional-command-conduct"></a>
 
 ### 5.6 Unlawful or unconstitutional command conduct
 <details>
@@ -444,7 +435,6 @@ The conduct is in scope only where it has one of the following material effects:
 - Making constitutional process or remedies unusable in practice through command pressure, dependency, retaliation, capture, or coordinated refusal to honor lawful challenge paths.
 
 <a id="561-follower-and-implementer-accountability"></a>
-<a id="661-follower-and-implementer-accountability"></a>
 
 #### 5.6.1 Follower and implementer accountability
 
@@ -538,7 +528,6 @@ The unlawful or unconstitutional directive, material effect, and accountable att
 This subsection does **not** add an additional designation criterion beyond the **section 2** set; it routes evaluation of the named pattern into that set.
 
 <a id="57-reward-protection-or-normalization-of-anti-constitutional-conduct"></a>
-<a id="67-reward-protection-or-normalization-of-anti-constitutional-conduct"></a>
 
 ### 5.7 Reward, protection, or normalization of anti-constitutional conduct
 <details>
@@ -650,7 +639,6 @@ The materially improper linkage to anti-constitutional conduct, concealment, ret
 This subsection does **not** add an additional designation criterion beyond the **section 2** set; it routes evaluation of the named pattern into that set.
 
 <a id="58-enforcement-refusal-suppression-or-non-prosecution-conduct"></a>
-<a id="68-enforcement-refusal-suppression-or-non-prosecution-conduct"></a>
 
 ### 5.8 Enforcement refusal, suppression, or non-prosecution conduct
 <details>
@@ -793,7 +781,6 @@ This subsection does **not**:
 It routes evaluation of the named pattern into the existing designation criteria and due-process safeguards of this chapter.
 
 <a id="59-infrastructure-denial-destruction-or-dependency-cutoff-conduct"></a>
-<a id="69-infrastructure-denial-destruction-or-dependency-cutoff-conduct"></a>
 
 ### 5.9 Infrastructure denial, destruction, or dependency cutoff conduct
 <details>
@@ -957,7 +944,6 @@ This subsection does **not**:
 It routes evaluation of the named pattern into the existing designation criteria and due-process safeguards of this chapter.
 
 <a id="510-forum-recusal-failure-and-biased-panel-participation"></a>
-<a id="610-forum-recusal-failure-and-biased-panel-participation"></a>
 
 ### 5.10 Forum recusal failure and biased panel participation
 <details>
@@ -1025,7 +1011,6 @@ This subsection does **not**:
 It routes evaluation of the named pattern into the existing designation criteria, due-process safeguards, and **Integrity**-first routing of this chapter and **Chapter Eleven**.
 
 <a id="511-obstruction-of-accountability-criteria-interaction"></a>
-<a id="611-obstruction-of-accountability-criteria-interaction"></a>
 
 ### 5.11 Obstruction of accountability: criteria interaction
 <details>

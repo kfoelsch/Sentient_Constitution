@@ -142,10 +142,10 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | --- | --- |
 | 1 | **Primary-stakes routing**: **Institutional** lead; **Technical Forum Domains** certified component for routing-safety specification. |
 | 2 | **Tier B** for driver lock-in and compensation injury; escalate to **Tier C** if cross-border corporate structure or **Chapter Ten** capture pattern is verified. |
-| 3 | **Question 1 — what happened?** Verified findings → violation records on platform operator; linked **contribution** claims for “efficiency” capped or rejected when [dual-use externalized harm](core_08-08_standing_assessment.md#dual-use-measurement-dimensions) is verified. |
+| 3 | **Question 1 — what happened?** Verified findings → violation records on platform operator; linked **contribution** claims for “efficiency” capped or rejected when [dual-use externalized harm](core_08-08_standing_assessment.md#45-dual-use-measurement-hooks) is verified. |
 | 4 | **Question 2 — how bad was it?** Verified driver, agency, lock-in, safety, and ecological impacts determine the Violation Axis slot on the **§7 unified scale** (`s` = 4–6 range pending verification). **Exit and Lock-In Misconduct**, **System Misconduct**, **Agency and Manipulation Misconduct**, and any **Ecological Misconduct** component remain descriptors and do not move the slot. |
 | 5 | **Question 3 — what happens because of it?** **Named-pathway-scoped locks** on migration, contract-enforcement, and governance routes; **concealment / evasion escalated lock** if defect reports were buried after notice. |
-| 6 | **Remedy**: contract reform, exit without penalty, driver stabilization fund, safety patch deployment, ecological remediation plan — look-through accountability on functional control ([Chapter Nine §9.4](core_09-09_standing_integration.md#84-anti-evasion-and-look-through-authority)). |
+| 6 | **Remedy**: contract reform, exit without penalty, driver stabilization fund, safety patch deployment, ecological remediation plan — look-through accountability on functional control ([Chapter Nine §9.4](core_09-09_standing_integration.md#94-anti-evasion-and-look-through-authority)). |
 | 7 | If the Chapter Eight verified-impact measurement reaches generic slot 7, 8, or 9 and the misconduct criteria are satisfied, **Chapter Ten** may add the corresponding anti-constitutional-misconduct designation without assigning or moving that slot; **Tier C** outer bound applies. |
 
 #### Milestone table (Tier B default; Tier C if escalated)
@@ -180,7 +180,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | --- | --- |
 | Stewardship | [Chapter One §9.1](core_01_c_stewardship_capacity_principles.md#91-stewardship) — tetrad **timeliness** leg; [Stewardship Defect](core_05_band_continuity.md#stewardship-defect-constitutional) when chronic delay after notice |
 | Q2 measurement | [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) — verified harm from the deferred repair determines any `s` = 4–5 impact slot; **Response timeliness / avoidable delay** is a character descriptor and does not move the slot |
-| Q3 integration | [Chapter Nine §9.5](core_09-09_standing_integration.md#85-timely-implementation-and-reassessment) — **Remedy commencement / pipeline delay** |
+| Q3 integration | [Chapter Nine §9.5](core_09-09_standing_integration.md#95-timely-implementation-and-reassessment) — **Remedy commencement / pipeline delay** |
 | Pipeline clocks | [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); **CF-11.3.1** Tier B windows |
 
 **Must not happen:** Treating post-notice deferral as sufficient stewardship when correction was feasible; counting throughput metrics as **Contribution Axis** credit while delay compounds harm.

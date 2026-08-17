@@ -57,7 +57,7 @@ Each remedy system must name, in plain view:
 - the succession plan that keeps intake and records continuous through leadership change, reorganization, or technology outage; and
 - the route by which affected sentients contest under-capacity, inaccessible intake, or cost-shifting.
 
-Expense, insolvency, inconvenience, receivership, dissolution, asset transfer, or restructuring does not by itself defeat a verified obligation under [Chapter Nine §9.1](../core_09-09_standing_integration.md#81-remediation-capacity-and-funding). Successors, estates, receivers, and comparable transferees inherit proportionate duties — whether the responsible actor is an individual, an institution, or a system — unless a less harmful lawful transfer is demonstrated.
+Expense, insolvency, inconvenience, receivership, dissolution, asset transfer, or restructuring does not by itself defeat a verified obligation under [Chapter Nine §9.1](../core_09-09_standing_integration.md#91-remediation-capacity-and-funding). Successors, estates, receivers, and comparable transferees inherit proportionate duties — whether the responsible actor is an individual, an institution, or a system — unless a less harmful lawful transfer is demonstrated.
 
 <a id="ci-272-durability-backlog-and-publication"></a>
 
@@ -72,7 +72,7 @@ Each remedy system must publish, on a fixed schedule compatible with **CF-11**:
 - milestone compliance against [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier defaults; and
 - any designed backlog, single-office dependency, or chronic underfunding risk that could foreseeably nullify challenge or remedy.
 
-Designed backlog, inaccessible intake, chronic underfunding, dependence on a single fragile office, or chronic milestone failure violates [Chapter Nine §9.2](../core_09-09_standing_integration.md#82-remedy-system-durability) where it foreseeably nullifies challenge or remedy.
+Designed backlog, inaccessible intake, chronic underfunding, dependence on a single fragile office, or chronic milestone failure violates [Chapter Nine §9.2](../core_09-09_standing_integration.md#92-remedy-system-durability) where it foreseeably nullifies challenge or remedy.
 
 <a id="ci-273-high-impact-remedy-domains"></a>
 

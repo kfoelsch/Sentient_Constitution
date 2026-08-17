@@ -18,7 +18,7 @@
 >
 > **Where this lives**
 > - **Navigation wrapper / reader landing:** [corpus_systems.md](../corpus_systems.md) indexes the `corpus_systems/` subfiles.
-> - **Layer homes:** [Preamble — constitutional owner register](../core_00_preamble.md#constitutional-owner-register); this layer's owns / does-not-own list in [cs_01_scope_purpose_identifier_rules.md](cs_01_scope_purpose_identifier_rules.md) (**CS-1**). Definition placement: **CJS-1.1**, **CJS-1.3**, and **CJS-1.8**.
+> - **Layer homes:** [Preamble — constitutional owner register](../core_00_preamble.md#4-principles-definitions-and-rights); this layer's owns / does-not-own list in [cs_01_scope_purpose_identifier_rules.md](cs_01_scope_purpose_identifier_rules.md) (**CS-1**). Definition placement: **CJS-1.1**, **CJS-1.3**, and **CJS-1.8**.
 > - **Shared contract:** **CJS-1.3** (*Shared implementation-corpus preamble contract*).
 >
 > **Implementation layer map**
@@ -160,8 +160,8 @@ When a systems topic materially intersects **CI**, **CF**, or **CJS**, use [CJS-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex); [CJS-1.7](../corpus_joint_structure/cjs_01_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline) intentional overlap.
-- Read with: [CJS-1.7](../corpus_joint_structure/cjs_01_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline); **CS-3 — System classification and handling**; **CS-5**; **CS-6**.
+- Upstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex); [CJS-1.7](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline) intentional overlap.
+- Read with: [CJS-1.7](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline); **CS-3 — System classification and handling**; **CS-5**; **CS-6**.
 
 </details>
 
@@ -173,7 +173,7 @@ Some systems topics are **deliberately** split — for example taxonomy (**CS-2 
 - companion **CS-5–CS-12** families specialize without redefining **CS-2–CS-4** taxonomy labels;
 - do **not** restate **CJS-3** operational clusters or **CI**/**CF** checklists except in brief pointer form when needed for coherence.
 
-For cross-layer overlap discipline, apply [CJS-1.7](../corpus_joint_structure/cjs_01_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline) (*Intentional overlap (non-duplication discipline)*).
+For cross-layer overlap discipline, apply [CJS-1.7](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline) (*Intentional overlap (non-duplication discipline)*).
 
 <a id="systems-read-with-pointers"></a>
 ### Systems read-with pointers
@@ -182,7 +182,7 @@ For cross-layer overlap discipline, apply [CJS-1.7](../corpus_joint_structure/cj
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack.
-- Read with: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-1.8](../corpus_joint_structure/cjs_01_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail); **CS-1**.
+- Read with: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-1.8](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail); **CS-1**.
 
 </details>
 
@@ -190,7 +190,7 @@ For cross-layer overlap discipline, apply [CJS-1.7](../corpus_joint_structure/cj
 
 When systems implementation text intersects other implementation layers, apply the default reading stack in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) (*Combined satisfaction of jointly applicable incorporated obligations*). Within that stack, read only what [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) routes for the topic.
 
-Systems-local abstractions may specialize **CJS** joint operational definitions cited in owner text but must not redefine constitutional terms or create parallel constitutional definitions. For the two-tier definition contract, apply [CJS-1.8](../corpus_joint_structure/cjs_01_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*).
+Systems-local abstractions may specialize **CJS** joint operational definitions cited in owner text but must not redefine constitutional terms or create parallel constitutional definitions. For the two-tier definition contract, apply [CJS-1.8](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*).
 
 ---
 

@@ -3,7 +3,6 @@
     "CS-1.0: Purpose and role": "this file is the front door to the systems-and-data book. The Constitution says what must be true of systems; this layer tells you how to type data, classify systems, scale stewardship, and run the engineering families without rewriting those rules."
   },
   "cs_04_critical_system_stewardship.md": {
-    "Definition": "Who counts as a Critical System Steward, and how that status is checked: an organization a Class A or Class B system — or a Dep-A / Dep-B dependency of one — cannot run, recover, or be governed without.",
     "Classification as steward": "Steward status follows the CS-3 class of what you actually run, recover, or gate. Class A or B — or a Dep-A / Dep-B dependency of one — makes you a Critical System Steward. Class C only if you have become a chokepoint. The four tests below prove that relationship; they are not a second classification scheme.",
     "Stewardship criticality levels": "Three tiers, CSS-A to CSS-C, set by how much depends on the steward and how bad its failure would be. The tier sets how demanding everything that follows is.",
     "Scaling obligations": "Duties follow the real dependency, not the paperwork. The highest affected class governs, and a narrow contract does not buy a lighter obligation.",

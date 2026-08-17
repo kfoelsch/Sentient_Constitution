@@ -34,8 +34,6 @@ Chapter Seven, **Part B**, is the constitutional owner of the **certification re
 
 Forum-supervised certification must produce a bounded **System Certification Record** under [§11](#11-certification-record) that reflects Part A evaluation outputs, satisfies [§12](#12-transparency-auditability-and-contestability), follows the forum roles in [§13](#13-forum-supervision-and-component-roles) and supervisory sequence in [§14](#14-supervisory-sequence-and-contestability-chain), and may supply verified inputs to Chapter Eight only through [§15](#15-relationship-to-standing). Defective certification, misclassification, and evasion route under [§16](#16-reopening-drift-and-non-evasion).
 <a id="11-certification-record"></a>
-<a id="3-certification-record"></a>
-<a id="2-certification-record"></a>
 
 ### 11. System Certification Record
 
@@ -55,7 +53,6 @@ Forum-supervised certification must produce a bounded **System Certification Rec
 A **System Certification Record** is a bounded, reviewable record concerning a particular system, version, operator or steward, scope, time window, material-impact profile, and decision context — scope-bound, time-bound, and contestable under the Chapter Five meaning in [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional).
 
 <a id="111-minimum-record-contents"></a>
-<a id="31-minimum-record-contents"></a>
 
 #### 11.1 Minimum record contents
 
@@ -64,7 +61,7 @@ The record must identify, at minimum:
 - **System identity, scope, and status:** the system, version, operator or steward, scope, governing [Charter](core_05_band_continuity.md#charter) or equivalent published scope instrument (or reasoned absence where immaterial), affected communities, dependencies, and review status — including whether certified scope matches the Charter's stated scope where a Charter exists;
 - **Whole-system evaluation findings:** material findings under [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), including systemic scope, accessibility, privacy joint-invocation, exit, assembly, time-consistency, governance, incentive, and contestability findings where implicated — and, where systemic risk is in scope under [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors), [Risk Evaluation](core_05_band_continuity.md#risk-evaluation) findings together with [Risk Disclosure](core_05_band_oversight.md#risk-disclosure) posture (audience or routing, timing, hold-backs and substitutes, and unresolved defects or conditions), stated on this record rather than as a separate named risk-disclosure record;
 - **System Classification Record:** the [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) — or its required contents under CS-3 — including system class assignment, dependency type(s), classification rationale, and material-impact assumptions, as required by [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation);
-- **System Data Types Record:** the [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) — or its required contents under CS-2 — including the data types materially in scope and the handling, separation, lifecycle, and infrastructure-assurance assumptions relied on, as required by [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) — including the most recent periodic data-type re-evaluation (date or cycle identifier, cadence scaled to class and impact, and any material retypes) under **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** and **[CS-2 §8](corpus_systems/cs_02_a_information_types_and_handling.md#8-system-data-types-record-governance)**, plus attribution capability sufficient to support [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) and [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), and — where the Type O baseline applies — how [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) covers certified scope (Charter fields relied on, boundary findings, and any coverage gaps or conditions);
+- **System Data Types Record:** the [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) — or its required contents under CS-2 — including the data types materially in scope and the handling, separation, lifecycle, and infrastructure-assurance assumptions relied on, as required by [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) — including the most recent periodic data-type re-evaluation (date or cycle identifier, cadence scaled to class and impact, and any material retypes) under **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** and **[CS-2 §8](corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-8-system-data-types-record-governance)**, plus attribution capability sufficient to support [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) and [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), and — where the Type O baseline applies — how [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) covers certified scope (Charter fields relied on, boundary findings, and any coverage gaps or conditions);
 - **Ecological footprint evaluation:** attributable environmental burdens, lifecycle and dependency attribution assumptions, disclosure posture, and footprint component findings as required by [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation);
 - **Cross-system resource stewardship evaluation:** dependent-systems-map and resource-flow findings, [Proportionate Cross-System Contribution](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) adequacy findings, and cross-system fairness component findings as required by [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies;
 - **Nondiscrimination evaluation:** burden-and-benefit pattern findings, protected-characteristic and proxy-discrimination findings, and substantive-fairness component findings as required by [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) where the **Article V-B** (*Nondiscrimination*) materiality trigger applies;
@@ -82,7 +79,6 @@ The record must identify, at minimum:
   - revalidation cadence, reopening triggers, reliance limits, and the contestability chain required by [§12](#12-transparency-auditability-and-contestability) and [§14](#14-supervisory-sequence-and-contestability-chain).
 
 <a id="112-cross-section-record-requirements"></a>
-<a id="32-cross-section-record-requirements"></a>
 
 #### 11.2 Cross-section record requirements
 
@@ -105,7 +101,6 @@ The certification record must reflect the evaluation outputs of:
 A certification record that omits a required cross-section output above is incomplete for the applicable materiality triggers.
 
 <a id="113-rights-floor-record-evaluation-non-substitution"></a>
-<a id="33-rights-floor-record-evaluation-non-substitution"></a>
 
 #### 11.3 Rights-Floor record evaluation (non-substitution)
 
@@ -133,8 +128,6 @@ When the materiality triggers below apply to a **materially impactful system**, 
   - The record must evaluate whether recognition or continued reliance would foreclose or materially degrade **Article XII** (*Right to Reliable and Trustworthy Systems*) as required by [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation).
 
 <a id="12-transparency-auditability-and-contestability"></a>
-<a id="7-transparency-auditability-and-contestability"></a>
-<a id="6-transparency-auditability-and-contestability"></a>
 
 ### 12. Transparency, Auditability, and Contestability
 
@@ -160,7 +153,7 @@ When the materiality triggers below apply to a **materially impactful system**, 
 
 *In plain terms: a certification record only works if sentients can read it, verify it, and push back when it is wrong. This section puts those three requirements — transparency, auditability, and contestability — directly on the record itself, not as abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process that must satisfy those floors here — it does not own or replace **Article XV** or sibling audit modes.*
 
-This section applies [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), and [Contestability](core_05_band_accountability.md#contestability) to system alignment certification records. Canonical term homes and owner boundaries are under the [Preamble — constitutional owner register](core_00_preamble.md#constitutional-owner-register) and [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#owner-non-relocation). Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad):
+This section applies [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), and [Contestability](core_05_band_accountability.md#contestability) to system alignment certification records. Canonical term homes and owner boundaries are under the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) and [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#owner-non-relocation). Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad):
 
 - **Transparency** and **auditability** implement **oversight**;
 - **Contestability** implements **accountability** and preserves **participation** in challenge paths;
@@ -202,8 +195,6 @@ This section applies [Transparency](core_05_band_oversight.md#transparency), [Au
 - Satisfying one channel while defeating another does not comply.
 
 <a id="13-forum-supervision-and-component-roles"></a>
-<a id="9-forum-supervision-and-component-roles"></a>
-<a id="8-forum-supervision-and-component-roles"></a>
 
 ### 13. Forum Supervision and Component Roles
 
@@ -262,8 +253,6 @@ This section assigns forum-family **component roles** within **system alignment 
   - The certification process must not let technical expertise or Integrity coordination displace those assigned merits roles.
 
 <a id="14-supervisory-sequence-and-contestability-chain"></a>
-<a id="8-supervisory-sequence-and-contestability-chain"></a>
-<a id="7-supervisory-sequence-and-contestability-chain"></a>
 
 ### 14. Supervisory Sequence and Contestability Chain
 
@@ -288,13 +277,12 @@ For materially impactful systems, forum-supervised process under Chapter Eleven 
 - **withdrawal**;
 - **non-recognition**.
 
-This section states the constitutional **supervisory sequence** and **contestability chain** for certification records. Forum-process detail remains with the **Forums and jurisdiction** owner layer ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction)); operational detail routes under [corpus_systems.md](corpus_systems.md) per the [Preamble — constitutional owner register](core_00_preamble.md#constitutional-owner-register) and [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#owner-non-relocation). Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad):
+This section states the constitutional **supervisory sequence** and **contestability chain** for certification records. Forum-process detail remains with the **Forums and jurisdiction** owner layer ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction)); operational detail routes under [corpus_systems.md](corpus_systems.md) per the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) and [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#owner-non-relocation). Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad):
 
 - the supervisory sequence implements **oversight** and **accountability** across forum families;
 - the contestability chain implements **participation** and **timeliness** so affected sentients can challenge certification before irreversible reliance on systems that gate survival essentials, education, or safety.
 
 <a id="141-supervisory-sequence"></a>
-<a id="81-supervisory-sequence"></a>
 
 #### 14.1 Supervisory sequence
 
@@ -316,7 +304,6 @@ The **supervisory sequence** is the step-by-step order in which forums supervise
 The certification record must state the supervisory sequence — who oversees what, and in what order — as [§11](#11-certification-record) requires.
 
 <a id="142-contestability-chain"></a>
-<a id="82-contestability-chain"></a>
 
 #### 14.2 Contestability chain
 
@@ -331,7 +318,6 @@ The **contestability chain** is the lawful mirror of the supervisory sequence. I
 The certification record must state the contestability chain — how affected parties can challenge at each step.
 
 <a id="143-anti-bypass"></a>
-<a id="83-anti-bypass"></a>
 
 #### 14.3 Anti-bypass
 
@@ -340,8 +326,6 @@ Actors must not defeat the supervisory sequence or contestability chain by split
 When forum-supervised challenge is required, internal operator review, vendor attestation, or technical sign-off cannot substitute for it. Affected parties must still have a real forum path.
 
 <a id="15-relationship-to-standing"></a>
-<a id="10-relationship-to-standing"></a>
-<a id="9-relationship-to-standing"></a>
 
 ### 15. Relationship to Standing
 
@@ -406,7 +390,7 @@ When forum-supervised challenge is required, internal operator review, vendor at
 **Boundary** — certification is not standing:
 
 - A certification record does **not** apply standing effects;
-- This chapter owns **system alignment certification and related records** only — see the [Preamble — constitutional owner register](core_00_preamble.md#constitutional-owner-register), read with [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack);
+- This chapter owns **system alignment certification and related records** only — see the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights), read with [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack);
 - [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) owns standing records and axis-pure measurement;
 - [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) owns standing integration and effects;
 - This chapter may supply verified inputs only through the gate above;
@@ -415,8 +399,6 @@ When forum-supervised challenge is required, internal operator review, vendor at
 A certification record is not a sentience-status determination and cannot grant, withhold, narrow, or revoke Chapter Six protection that depends on sentience status.
 
 <a id="16-reopening-drift-and-non-evasion"></a>
-<a id="11-reopening-drift-and-non-evasion"></a>
-<a id="10-reopening-drift-and-non-evasion"></a>
 
 ### 16. Reopening, Misalignment, and Non-Evasion
 

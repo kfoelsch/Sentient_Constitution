@@ -98,7 +98,7 @@ References across these constitutional volumes to **Chapter Sixteen** or to inco
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-custody-editions-and-operative-effect) (*edition pinning and custody chain*); [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) (*re-adoption path*); [Chapter Thirteen §3](core_13-15_amendment.md#3-anti-evasion-clause-and-constitutional-misconduct-referral) (*anti-evasion rule*); [Chapter One §8.4.3](core_01_b_interaction_interpretation.md#833-incorporation-layer) (*stricter clearly adopted baseline*).
+- Upstream: [§2](#2-custody-editions-and-operative-effect) (*edition pinning and custody chain*); [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) (*re-adoption path*); [Chapter Thirteen §3](core_13-15_amendment.md#3-anti-evasion-clause-and-constitutional-misconduct-referral) (*anti-evasion rule*); [Chapter One §8.4.3](core_01_b_interaction_interpretation.md#843-incorporation-layer) (*stricter clearly adopted baseline*).
 - Downstream: [§4](#4-adoption-framing-and-scope-of-authority) (*operative effect contingent on valid adoption*).
 - Read with: [Chapters Eleven and Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) (*validity restoration when operational text has drifted*).
 
@@ -112,7 +112,7 @@ References across these constitutional volumes to **Chapter Sixteen** or to inco
 
     Later implementation-file revisions do **not** displace the adopted edition’s operative effect. They may be taken up through re-adoption under **Chapter Fifteen** and **Chapter Sixteen**; until they are validly re-adopted, they remain process-layer artifacts without constitutional effect for adopters bound to the earlier edition.
 
-- **Anti-evasion.** Calling a post-adoption edit a “clarification,” “correction,” “style alignment,” “non-substantive refactor,” or “editorial compression” does **not** make it count when the real constitutional effect is the same as a substantive change. The anti-evasion **rule** in **[Chapter Thirteen, section 3](core_13-15_amendment.md#3-anti-evasion-clause-and-constitutional-misconduct-referral)** applies. If an adopter’s working text has drifted from its adopted edition without a valid re-adoption, the **stricter clearly adopted baseline** under **[Chapter One §8.4.3](core_01_b_interaction_interpretation.md#833-incorporation-layer)** governs until the record is fixed under **Chapters Eleven and Thirteen**.
+- **Anti-evasion.** Calling a post-adoption edit a “clarification,” “correction,” “style alignment,” “non-substantive refactor,” or “editorial compression” does **not** make it count when the real constitutional effect is the same as a substantive change. The anti-evasion **rule** in **[Chapter Thirteen, section 3](core_13-15_amendment.md#3-anti-evasion-clause-and-constitutional-misconduct-referral)** applies. If an adopter’s working text has drifted from its adopted edition without a valid re-adoption, the **stricter clearly adopted baseline** under **[Chapter One §8.4.3](core_01_b_interaction_interpretation.md#843-incorporation-layer)** governs until the record is fixed under **Chapters Eleven and Thirteen**.
 
 ### 4. Adoption framing and scope of authority
 <details>

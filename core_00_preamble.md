@@ -35,9 +35,7 @@ We intend to build better systems — structured to eliminate these imbalances �
 Those aims must be pursued together, always within the non-negotiable principle constraints and rights protections established in this Constitution. The [**Constitutional Tetrad**](#constitutional-tetrad) governs how that pursuit remains legitimate: **participation**, **oversight**, **accountability**, and **timeliness** scaled to [**material stake**](#material-stake). Binding O/M/A/C definitions for Tetrad legs and constitutional aims live in Chapter Five: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), [Accountability](core_05_apex_accountability_leg.md#accountability), [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Flourishing](core_05_apex_flourishing_aim.md#flourishing-constitutional), and [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
 
 <a id="2-the-measurements"></a>
-<a id="measurements-overview"></a>
 
-<a id="what-measurement-is-for"></a>
 
 ### 2. Measurements Overview
 
@@ -73,7 +71,7 @@ Distributed understanding and stewardship require that sentients have regular, p
 
 #### 3.1 Using Measurements in Governance
 
-When the Constitution requires concrete measurement rules, **Technical Forum Domains** under [Chapter Eleven](core_11-11_forum.md#42-technical-forum-domains) develop and maintain the shared standards — how to measure, how to test, and what counts as reliable evidence. The forum responsible for a given dispute then applies those standards when deciding that case under [Chapter Eleven §4.2](core_11-11_forum.md#53-shared-standards-and-anti-displacement).
+When the Constitution requires concrete measurement rules, **Technical Forum Domains** under [Chapter Eleven](core_11-11_forum.md#42-technical-forum-domains) develop and maintain the shared standards — how to measure, how to test, and what counts as reliable evidence. The forum responsible for a given dispute then applies those standards when deciding that case under [Chapter Eleven §4.2](core_11-11_forum.md#42-shared-standards-and-anti-displacement).
 
 Constitutional stewardship starts with naming the problem and the [**material stake**](#material-stake) — how much impact, dependence, and risk are involved. Next, choose the relevant [**measurement**](#2-the-measurements) category and subcategory from the [overview](#2-the-measurements) and apply the standards above to test real-world effects rather than convenience metrics. Require traceable evidence.
 
@@ -99,7 +97,6 @@ Governance to fulfill the [**Constitutional Tetrad**](#constitutional-tetrad) un
 
 These layers may overlap in practice, but stakeholder-level participation in already-authorized systems is not a substitute for constitutional authorization, and constitutional authorization does not erase duties owed under the [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) layer — including participation, representation, [Contestability](core_05_band_accountability.md#contestability), and [Due Process](core_05_band_accountability.md#due-process-constitutional).
 
-<a id="constitutional-owner-register"></a>
 <a id="4-principles-definitions-and-rights"></a>
 ### 4. Principles, Definitions, and Rights
 
@@ -139,12 +136,10 @@ Each summary states what the chapter owns and what it produces.
 - **What it owns:** States the Rights Floor in Articles **I–XXVI** — survival essentials, resource allocation and dependency stewardship, dignity, agency, participation, challenge and remedy, justice constraints, timeliness under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*), and transition rules — organized for planet-first reading across four parts.
 - **What it produces:** Non-negotiable rights protections and remedy hooks that Chapters Seven through Eleven, forums, governance, and amendment rules must respect — not narrow, bypass, or hollow through procedure or proxy metrics.
 
-<a id="4-key-practical-process-pipelines"></a>
 <a id="5-key-practical-process-pipelines"></a>
-<a id="6-key-practical-process-pipelines"></a>
 ### 5. Key Practical Process Pipelines
 
-Chapters Seven through Eleven link into one practical chain — and, within the [positive owner register](#constitutional-owner-register), each step names what that chapter owns. Together they turn constitutional duties into records sentients can check, challenge, and repair — so the [**Constitutional Tetrad**](#constitutional-tetrad), [**Two Constitutional Aims**](#two-constitutional-aims), and Rights Floors stay real in day-to-day life, not only on paper.
+Chapters Seven through Eleven link into one practical chain — and, within the [positive owner register](#4-principles-definitions-and-rights), each step names what that chapter owns. Together they turn constitutional duties into records sentients can check, challenge, and repair — so the [**Constitutional Tetrad**](#constitutional-tetrad), [**Two Constitutional Aims**](#two-constitutional-aims), and Rights Floors stay real in day-to-day life, not only on paper.
 
 Each step below states what the chapter owns and what it produces.
 
@@ -193,13 +188,10 @@ Think of it as a path from system check to remedy — with forums supervising th
 
 The [README standing-pipeline map](README.md#standing-pipeline-and-forums) provides direct navigation for the chain above, including Chapter Seven’s potential verified inputs into standing measurement.
 
-<a id="4-alignment"></a>
-<a id="how-the-rest-fits-together"></a>
 <a id="6-governance-change-and-incorporation"></a>
-<a id="7-governance-change-and-incorporation"></a>
 ### 6. Governance, Change, and Incorporation
 
-Chapters **Twelve through Sixteen** close the instrument — and complete the [positive owner register](#constitutional-owner-register) for governance, change validity, and incorporation: who may govern legitimately, how the Constitution may lawfully change, and how adopted implementation text stays bound to constitutional source without silent drift.
+Chapters **Twelve through Sixteen** close the instrument — and complete the [positive owner register](#4-principles-definitions-and-rights) for governance, change validity, and incorporation: who may govern legitimately, how the Constitution may lawfully change, and how adopted implementation text stays bound to constitutional source without silent drift.
 
 Each summary states what the chapter owns and what it produces.
 
@@ -229,10 +221,9 @@ Each summary states what the chapter owns and what it produces.
 - **What it produces:** A single incorporation boundary — designated implementation text binds when adopted; companion corpora implement the Constitution without becoming a second source that narrows it. [Section 7](#7-companion-implementation-corpus) summarizes those corpora at a high level.
 
 <a id="7-companion-implementation-corpus"></a>
-<a id="8-companion-implementation-corpus"></a>
 ### 7. Companion Implementation Corpus
 
-Beyond the numbered `core_*` chapters, four companion corpora complete the [positive owner register](#constitutional-owner-register) for adopted **implementation text** — operational detail that makes constitutional duties runnable in practice:
+Beyond the numbered `core_*` chapters, four companion corpora complete the [positive owner register](#4-principles-definitions-and-rights) for adopted **implementation text** — operational detail that makes constitutional duties runnable in practice:
 
 - **[corpus_joint_structure](corpus_joint_structure.md)** — cross-file routing, shared operational terms, and joint structure when systems, institutions, and forums must be read together on the same facts.
 - **[corpus_systems](corpus_systems.md)** — system classification, design and deployment protocols, information handling, and critical-stewardship mechanics.

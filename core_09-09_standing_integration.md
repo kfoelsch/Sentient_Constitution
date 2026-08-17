@@ -108,7 +108,7 @@ During a technology outage, authorized bodies must use a manual continuity proce
 <a id="3-descriptor-integration-and-attachment-normalization"></a>
 ### 3. Descriptor integration and attachment normalization
 
-Descriptors answer **how** verified benefit or harm occurred and are assigned as Question 2 outputs under the [Chapter Eight normalized descriptor catalog](core_08-08_standing_assessment.md#shared-descriptor-catalog-and-measurement-roles). Attachments state legally or constitutionally relevant response character for Question 3. Descriptors and attachments are stackable, non-exclusive, and subordinate to the fixed Chapter Eight slot. A single integration record may carry several where the verified facts warrant.
+Descriptors answer **how** verified benefit or harm occurred and are assigned as Question 2 outputs under the [Chapter Eight normalized descriptor catalog](core_08-08_standing_assessment.md#43-route-descriptor-measurement-roles). Attachments state legally or constitutionally relevant response character for Question 3. Descriptors and attachments are stackable, non-exclusive, and subordinate to the fixed Chapter Eight slot. A single integration record may carry several where the verified facts warrant.
 
 The integration record must import each applicable descriptor from its source standing record without adding, removing, or substantively reclassifying it. It may map a legacy label, local display name, or stable identifier to the Chapter Eight catalog, but the mapping must remain inspectable and must not change the underlying verified facts or measurement role. A substantive descriptor error or omission must return through the Chapter Eight correction or supersession process.
 
@@ -127,7 +127,6 @@ Contribution descriptors may orient matched competency bars and clearances. Viol
 Violation, correction, and prevention are determined from the violation standing record alone. Contribution is not an input to remedy, correction, safeguard, lock assignment, or voluntary public accountability expression. It may later show capacity to perform an obligation, but it cannot change the obligation or the unresolved status that supports it.
 
 <a id="41-remedy-and-correction"></a>
-<a id="61-remedial-restorative-and-civil-correction-character"></a>
 #### 4.1 Remedy and correction
 
 *In plain terms: after a verified **violation**, this subsection assigns the **remedy** and **correction** parts of the durable fix. **Remedy** repairs what was broken for those harmed. **Correction** changes what caused it. **Prevention** — standing locks and related named pathway limits — begins in [§4.2](#42-general-standing-locks), with design and enforcement in [§5](#5-lock-design-and-enforcement), and must not be waived while recurrence risk remains live. Where restorative pathways include public acknowledgment or apology, [§4.3](#43-voluntary-public-accountability-expression) applies.*
@@ -271,13 +270,10 @@ The integration record must say, in plain view, for each lock—including each s
 Locks must remain auditable and contestable while active. Escalation on delay, evasion, or noncompliance must preserve the same inspectable record. Restoration and reassessment conditions are stated under [§8](#8-restoration-and-reassessment); practical enforceability is verified under [§9](#9-enforcement-realism).
 
 <a id="54-special-violation-rules"></a>
-<a id="63-constitutional-floor-character"></a>
-<a id="62-coercive-or-liberty-restricting-safeguard-character"></a>
 #### 5.4 Special violation rules
 
 These rules shape how a lock or safeguard is attached under [§5.1](#51-definition-and-attachment). They do not move the Violation Axis slot. Where a rule leads to a named pathway limit or liberty restriction, the integration record must still name the named pathway, risk, protected interests, corrective conditions, review route, and reassessment point.
 
-<a id="412-negligence-and-neglect-as-violation-nature"></a>
 <a id="54-negligence-and-neglect-as-violation-nature"></a>
 **Negligence and neglect.**
 
@@ -315,7 +311,6 @@ These rules shape how a lock or safeguard is attached under [§5.1](#51-definiti
   - Systems must send qualifying Violation Axis slot 7–9 findings to Chapter Ten.
   - Any related lock must satisfy [§5.1](#51-definition-and-attachment), including isolation from networks or environments that recreate the same exploitable named pathway.
 
-<a id="411-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
 <a id="54-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
 **Duty to resist.**
 
@@ -331,7 +326,6 @@ These rules shape how a lock or safeguard is attached under [§5.1](#51-definiti
 - **Corrective conditions:** whoever exercises material stewardship or operational authority and has material capacity to refuse, contest, document, or escalate — including human operators and AI stewards under [Chapter One §9.1.1](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) — must do so proportionately and in good faith and must use protected-reporting and forum pathways where applicable. This duty is not an AI-only test.
 - **Review route and reassessment:** resistance, reporting, and escalation records feed lock and remedy design under [§5.1](#51-definition-and-attachment); contribution cannot excuse the underlying instruction conduct. Verified failures record on the same Chapter Eight Contribution and Violation axes for both kinds of steward.
 
-<a id="410-collective-accountability-and-acquiescent-participation"></a>
 <a id="54-collective-accountability-and-acquiescent-participation"></a>
 **Collective accountability.**
 
@@ -506,11 +500,6 @@ The automatically calculated integration record displays, for each contribution 
 
 <a id="62-competency-bars-and-clearances"></a>
 <a id="62-competency-gates"></a>
-<a id="competency-bars-and-clearances"></a>
-<a id="competency-gates"></a>
-<a id="competency-gate"></a>
-<a id="competency-bar"></a>
-<a id="competency-clearance"></a>
 #### 6.2 Competency bars and clearances
 
 *In plain terms: a competency bar is the published standard for a named pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a named pathway that a standing lock still blocks.*
@@ -569,7 +558,6 @@ The integration record must say, in plain view, for each clearance result:
 An applicable standing lock under [§4.2](#42-general-standing-locks) and [§5](#5-lock-design-and-enforcement) controls. Competency clearance cannot open a blocked named pathway, waive the Rights Floor, erase a violation, replace remedy or correction, or lower a Violation Axis slot. Named pathway outcomes after bars and clearances are stated under [§7](#7-final-standing-effect).
 
 <a id="7-final-standing-effect"></a>
-<a id="standing-effect"></a>
 ### 7. Final standing effect
 
 The standing system must **automatically** state the final standing effect for each named pathway once the earlier steps in [§2](#2-integration-record-and-decision-order) are complete. That statement must list every open clearance and every restricted named pathway. No additional manual approval is required when verified inputs and published rules produce a determinate result. Contested, uncertain, novel, materially discretionary, or high-impact questions still assemble and route automatically, then go to authorized review under [§2](#2-integration-record-and-decision-order).
@@ -614,7 +602,6 @@ Reassessment begins when the record's stated trigger is met or when material new
 Restoration is not automatic forgiveness, record erasure, or contribution offset. Partial completion may justify a narrower lock only when the remaining protection is sufficient. Repetition after otherwise completed remedy may support a recurrence-persistence lock. The special restoration rules for Forum-Service, Stakeholder-Participation, and Anti-Constitutional Trust Locks control over this general rule.
 
 <a id="9-enforcement-realism"></a>
-<a id="remedy-systems"></a>
 ### 9. Enforcement realism and remedy systems
 
 *In plain terms: standing consequences and redress count only when real institutions can deliver them. This section is the constitutional floor for that machinery. Day-to-day staffing, funding, backlog, and succession rules live in the institutions layer.*
@@ -623,7 +610,6 @@ Chapter Nine owns the constitutional floor that Question 3 consequences and rela
 
 Standing integration fails if consequences exist only on paper. Adopters must maintain practical, timely capacity to implement correction, fund remedy, review restrictions, preserve records, enforce safeguards, and prevent escape through cost, delay, borders, restructuring, or formal identity changes.
 
-<a id="81-remediation-capacity-and-funding"></a>
 <a id="91-remediation-capacity-and-funding"></a>
 #### 9.1 Remediation capacity and funding
 
@@ -644,7 +630,6 @@ Costs must not be externalized onto:
 
 where responsible actors can lawfully bear them.
 
-<a id="82-remedy-system-durability"></a>
 <a id="92-remedy-system-durability"></a>
 #### 9.2 Remedy-system durability
 
@@ -683,19 +668,16 @@ The following violate this rule where they foreseeably nullify challenge or reme
 
 Under-appointment of **Integrity**, **Constitutional**, or **Environment** forum benches, or of **Technical Forum Domains** benches that hear sentience-status adjudication, is a durability failure under this subsection, read with [Chapter Twelve §1.2](core_12-12_governance.md#12-eligibility-contested-selection-and-democratic-minimums).
 
-<a id="83-cross-jurisdiction-continuity"></a>
 <a id="93-cross-jurisdiction-continuity"></a>
 #### 9.3 Cross-jurisdiction continuity
 
 Verified remedy, lock, safeguard, and review obligations remain actionable across boundaries wherever applicable law permits recognition, cooperation, enforcement, or fallback review. Flight, relocation, forum shopping, cross-border structure, or distributed operation does not by itself nullify them.
 
-<a id="84-anti-evasion-and-look-through-authority"></a>
 <a id="94-anti-evasion-and-look-through-authority"></a>
 #### 9.4 Anti-evasion and look-through authority
 
 Forums and implementation systems must be able to look through formal structure to functional control, benefit, continuity, and responsibility. Reincorporation, shells, contractual layering, nominal ownership transfer, asset stripping, record fragmentation, and successor relabeling do not erase verified duties. Look-through decisions must remain evidence-based, actor-specific, contestable, proportionate, and reviewable.
 
-<a id="85-timely-implementation-and-reassessment"></a>
 <a id="95-timely-implementation-and-reassessment"></a>
 #### 9.5 Timely implementation
 
@@ -763,7 +745,7 @@ The subsections below show how common Question 3 situations use the rules alread
 #### 10.6 Institutional vehicle and successor evasion
 
 - **Cue:** An institution carries repeated harm, capture, or evasion, including through shells, relabeling, or successor vehicles.
-- **Routes through:** [§5](#5-lock-design-and-enforcement) (*named pathway locks and institutional restrictions*); [§9.1](#81-remediation-capacity-and-funding) (*successor and funding continuity*); [§9.4](#84-anti-evasion-and-look-through-authority).
+- **Routes through:** [§5](#5-lock-design-and-enforcement) (*named pathway locks and institutional restrictions*); [§9.1](#91-remediation-capacity-and-funding) (*successor and funding continuity*); [§9.4](#94-anti-evasion-and-look-through-authority).
 - **Non-negotiable:** Actor-specific proof remains required. Relabeling, shell substitution, and formal identity changes do not defeat a verified duty. Consequences may include suspension, receivership, structural separation, dissolution, and successor-control restrictions where the verified facts warrant.
 
 <a id="107-misaligned-reward-retention"></a>

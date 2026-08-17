@@ -25,9 +25,9 @@ from definition_separator_format import audit_separator_lines
 
 CJS1_FILES = (
     "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-    "corpus_joint_structure/cjs_01_drafting_contracts.md",
-    "corpus_joint_structure/cjs_01_odef_parse.md",
-    "corpus_joint_structure/cjs_02_support_hosting_classification.md",
+    "corpus_joint_structure/cjs_04_drafting_contracts.md",
+    "corpus_joint_structure/cjs_05_odef_parse_mechanics.md",
+    "corpus_joint_structure/cjs_06_support_hosting_classification.md",
 )
 CJS1_FILE = CJS1_FILES[0]
 CJS3_GLOB = "corpus_joint_structure/cjs_03*.md"
@@ -225,7 +225,7 @@ def audit_letter_cluster_citations(root: Path) -> list[str]:
 
 def audit_cjs3_separators(root: Path) -> list[str]:
     findings: list[str] = []
-    for rel in [CJS3_COMPASS_FILE, *CJS3_BAND_FILES, "corpus_joint_structure/cjs_03_audit_process.md"]:
+    for rel in [CJS3_COMPASS_FILE, *CJS3_BAND_FILES, "corpus_joint_structure/cjs_03u_audit_process.md"]:
         path = root / rel
         if not path.exists():
             continue

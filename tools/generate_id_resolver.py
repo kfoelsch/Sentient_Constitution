@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate a compact AI locator: ID / topic / term / alias → file#anchor.
+"""Generate a compact AI locator: ID / topic / term → file#anchor.
 
 Derived process support. Locators point; they do not restate duties.
 """
@@ -366,7 +366,8 @@ def build_payload(root: Path) -> dict[str, Any]:
         "cannot_narrow_core": True,
         "description": (
             "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five "
-            "terms, and current/fossil anchors. Indexes point; source text binds."
+            "terms. Indexes point; source text binds. Pre-release: current heading "
+            "anchors only; no fossil or legacy fragment aliases."
         ),
         "ids": ids,
         "topics": build_topics(root, ids),

@@ -7,7 +7,7 @@
 
 This directory provides machine-readable **locators** so an assistant can open the right source slice without a corpus-wide grep:
 
-1. **ID resolver** for family/section IDs, CJS-0.1 topics, Chapter Five terms, and fossil anchors
+1. **ID resolver** for family/section IDs, CJS-0.1 topics, and Chapter Five terms
 2. **Section manifest** for heading line ranges
 3. **Cross-reference graphs** (file-to-file and section-to-section)
 4. **Definition registry** for Chapter Five locations

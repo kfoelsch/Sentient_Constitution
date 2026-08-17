@@ -15,7 +15,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); [Chapter Eight](../core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); **CJS-3.13** (*procedural integrity and adjudication terms*); [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
-- Downstream: [§1](#1-purpose-and-role); [§2](#2-scope-and-trigger); [§3](#3-mandatory-validation-record); [§11](#11-lived-condition-floors-continuity-and-re-entry-alignment).
+- Downstream: [§1](#cs-7-1-purpose-and-role); [§2](#cs-7-2-scope-and-trigger); [§3](#cs-7-3-mandatory-validation-record); [§11](#cs-7-11-lived-condition-floors-continuity-and-re-entry-alignment).
 - Read with: **CS-7**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-9**; **CJS-3.13**.
 
 </details>
@@ -38,7 +38,6 @@
 This file is the systems implementation home for **CS-7** (*Justice safeguards, restitution, and rehabilitation*).
 
 *In plain terms: **CS-7** covers what a system must do when it restricts, sanctions, or penalizes someone: validate the basis first, keep the restriction as light and as short as the situation allows, make restoration a real route rather than a formality, and never let a sanction turn into retaliation.*
-<a id="1-purpose-and-role"></a>
 <a id="cs-7-1-purpose-and-role"></a>
 ## CS-7.1 Purpose and role
 
@@ -47,7 +46,6 @@ This file is the systems implementation home for **CS-7** (*Justice safeguards, 
 This file implements Sentient Constitution Chapter Six, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). It also implements **Sentient Constitution Chapter Eight** (compliance, violation, and standing model) and **CJS-3.13** (*procedural integrity and adjudication terms*). It operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
 **It does** **not** create substitute rights or narrow [Constitutional Constraints](../core_05_band_integrative.md#constitutional-constraint).
 
-<a id="2-scope-and-trigger"></a>
 <a id="cs-7-2-scope-and-trigger"></a>
 ## CS-7.2 Scope and trigger
 
@@ -57,7 +55,6 @@ This file applies when systems, institutions, or adjudicative bodies impose or m
 
 Those restrictions may affect liberty, access, movement, role authority, resources, or durable standing effects.
 
-<a id="3-mandatory-validation-record"></a>
 <a id="cs-7-3-mandatory-validation-record"></a>
 ## CS-7.3 Mandatory validation record
 
@@ -73,7 +70,6 @@ That record must demonstrate all of the following jointly:
 
 If any required element is absent, the restriction is non-compliant and must **not** be imposed.
 
-<a id="4-class-scaled-assurance-requirements"></a>
 <a id="cs-7-4-class-scaled-assurance-requirements"></a>
 ## CS-7.4 Class-scaled assurance requirements
 
@@ -91,7 +87,6 @@ Validation and review rigor must scale with **CS-3 — System classification and
 
 Where material external effects emerge, obligations escalate to the stricter applicable class profile.
 
-<a id="5-least-restrictive-time-bounded-and-restoration-rules"></a>
 <a id="cs-7-5-least-restrictive-time-bounded-and-restoration-rules"></a>
 ## CS-7.5 Least-restrictive, time-bounded, and restoration rules
 
@@ -103,7 +98,6 @@ It must include explicit duration limits and sunset conditions, define review in
 
 Continuation without refreshed evidence at scheduled review is non-compliant.
 
-<a id="6-prohibited-retaliatory-forms"></a>
 <a id="cs-7-6-prohibited-retaliatory-forms"></a>
 ## CS-7.6 Prohibited retaliatory forms
 
@@ -113,7 +107,6 @@ Implementations must **not** operationalize restrictions, exclusions, or restora
 
 Irreversible restrictive outcomes are prohibited where feasible reversible restitution, remediation, or protection alternatives exist.
 
-<a id="7-voluntary-public-accountability-expression"></a>
 <a id="cs-7-7-voluntary-public-accountability-expression"></a>
 ## CS-7.7 Voluntary public accountability expression
 
@@ -125,7 +118,6 @@ Those controls are specified in **Chapter Nine** §4.3 (*Voluntary public accoun
 
 Refusal may **not** independently escalate baseline sanctions.
 
-<a id="8-metrics-and-oversight"></a>
 <a id="cs-7-8-metrics-and-oversight"></a>
 ## CS-7.8 Metrics and oversight
 
@@ -143,7 +135,6 @@ Apply **Article XV-A** (*Auditability and Observable Evidence*), **Article XVIII
 
 For **Class A** and **Class B** systems, persistent concentrations of interpretive or adjudicative authority without effective challenge outcomes are capture-risk indicators and must trigger governance remediation review under **Article XXIII-A** (*Justice Objective and Scope*), **Chapter Five** (*System Capture*), and **CJS-3.13** (*procedural integrity and adjudication terms*).
 
-<a id="9-cross-jurisdiction-execution-and-anti-evasion-controls"></a>
 <a id="cs-7-9-cross-jurisdiction-execution-and-anti-evasion-controls"></a>
 ## CS-7.9 Cross-jurisdiction execution and anti-evasion controls
 
@@ -171,7 +162,6 @@ Apply Sentient Constitution **Chapter Fourteen** (*Disputes Involving External L
 
 **Forum-shopping detection and response:** Repeated migration to lower-scrutiny venues, reincorporation patterns, or layered delegation intended to dilute accountability must trigger aggravated enforcement review. It must also trigger anti-evasion intervention under **Sentient Constitution Chapters Two through Four** and **CJS-3.13** (*procedural integrity and adjudication terms*).
 
-<a id="10-proportional-compliance-templates-class-scaled"></a>
 <a id="cs-7-10-proportional-compliance-templates-class-scaled"></a>
 ## CS-7.10 Proportional compliance templates (class-scaled)
 
@@ -209,7 +199,6 @@ Where a material control family fails, systems must produce a control-failure di
 
 Evasive down-tiering requires corrective reclassification and enforcement review.
 
-<a id="11-lived-condition-floors-continuity-and-re-entry-alignment"></a>
 <a id="cs-7-11-lived-condition-floors-continuity-and-re-entry-alignment"></a>
 ## CS-7.11 Lived-condition floors, continuity, and re-entry alignment
 

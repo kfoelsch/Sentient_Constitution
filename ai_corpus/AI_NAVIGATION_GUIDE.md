@@ -14,11 +14,11 @@
    - Owner, next-step class, forbidden move, clock
    - Verify the card against the boxed operative steward statement in the named core home
 
-2. **ID, topic, term, or fossil alias** → `ai_corpus/indexes/id_resolver.json`
+2. **ID, topic, or term** → `ai_corpus/indexes/id_resolver.json`
    - `CF-10`, `CJS-3.13`, `CS-4`, `CI-12`, `Def.P1`
    - CJS-0.1 topic rows (`CJS-R09` and the topic string)
    - Chapter Five terms (file + line range; no duty text in the index)
-   - Current-numbering vs fossil anchors (e.g. `#54-…` beside `#411-…`)
+   - Current heading anchors only (pre-release: no fossil or legacy fragment aliases)
 
 3. **Heading line range** → `ai_corpus/indexes/section_manifest.json`
    - Read only those lines from the source file
@@ -95,7 +95,7 @@ Section-to-section: ai_corpus/indexes/section_crossref.json
 
 ### Tier 1: Locators (check first)
 
-1. `ai_corpus/indexes/id_resolver.json` — IDs, topics, terms, aliases, steward-door pointers
+1. `ai_corpus/indexes/id_resolver.json` — IDs, topics, terms, current heading anchors, steward-door pointers
 2. `ai_corpus/indexes/section_manifest.json` — heading line ranges
 3. `implementation/STEWARD_ENTRY_DOORS.md` — high-pressure next step (process support)
 

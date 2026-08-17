@@ -6,10 +6,7 @@
   "source_card": "implementation/STEWARD_ENTRY_DOORS.md",
   "shared_screen": {
     "anchor": "shared-refusal-and-logging",
-    "aliases": [
-      "duty-to-resist",
-      "minimum-inspectable-action-set"
-    ],
+    "aliases": [],
     "sequence": [
       "instruction received",
       "refuse",
@@ -155,7 +152,7 @@
         },
         {
           "label": "CJS-3.3",
-          "href": "corpus_joint_structure/cjs_03_audit_process.md#cjs-33-audit-process-home"
+          "href": "corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home"
         }
       ],
       "conflict_rule": "Oversight requires reconstructability. Deadline, secrecy, and convenience are lower-kind limits; they must not narrow Article XV.",
@@ -471,11 +468,11 @@
         },
         {
           "label": "§6.1 decision-record discipline",
-          "href": "core_01_b_interaction_interpretation.md#631-rights-collision-decision-test"
+          "href": "core_01_b_interaction_interpretation.md#615-rights-collision-decision-test"
         },
         {
           "label": "Chapter One §8.3 Ambiguity resolution",
-          "href": "core_01_b_interaction_interpretation.md#82-ambiguity-resolution"
+          "href": "core_01_b_interaction_interpretation.md#83-ambiguity-resolution"
         },
         {
           "label": "Article XXII",

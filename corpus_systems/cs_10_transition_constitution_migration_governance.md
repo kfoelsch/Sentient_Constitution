@@ -15,7 +15,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*); **Article XXVI-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*); [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
-- Downstream: [§1](#1-purpose-and-role); [§2](#2-phased-transition-structure); [§5](#5-failure-handling-off-ramps-and-re-baselining).
+- Downstream: [§1](#cs-10-1-purpose-and-role); [§2](#cs-10-2-phased-transition-structure); [§5](#cs-10-5-failure-handling-off-ramps-and-re-baselining).
 - Read with: **CS-10**; **CS-5**; **CS-11**.
 
 </details>
@@ -36,7 +36,6 @@
 This file is the systems implementation home for **CS-10** (*Transition constitution and migration governance*).
 
 *In plain terms: **CS-10** governs the move into constitutional operation. Adoption runs in named phases with a defined Rights Floor at every stage, so a partly migrated system is never a rights vacuum, and there is a recorded way to pause, re-baseline, or step back if a phase fails.*
-<a id="1-purpose-and-role"></a>
 <a id="cs-10-1-purpose-and-role"></a>
 ## CS-10.1 Purpose and role
 
@@ -44,7 +43,6 @@ This file is the systems implementation home for **CS-10** (*Transition constitu
 
 This file operationalizes phased migration into constitutional operation. It implements **Sentient Constitution Chapter Six, **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*)** for phased adoption and **Article XXVI-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) for failure off-ramps and re-baselining, with continuity requirements linked to Articles I–III and V, XI, XIII, and XIV. It defines transition sequencing, gate criteria, fallback handling, and reviewability. It does not narrow constitutional rights or constraints.
 
-<a id="2-phased-transition-structure"></a>
 <a id="cs-10-2-phased-transition-structure"></a>
 ## CS-10.2 Phased transition structure
 
@@ -57,7 +55,6 @@ Each phase must:
 - publish **Rights-Floor controls that remain invariant during the phase**;
 - publish accountable transition owners and review bodies.
 
-<a id="3-gate-criteria-and-advancement-rules"></a>
 <a id="cs-10-3-gate-criteria-and-advancement-rules"></a>
 ## CS-10.3 Gate criteria and advancement rules
 
@@ -72,7 +69,6 @@ That evidence includes:
 
 Gate waivers require independent approval and time-bounded compensating controls.
 
-<a id="4-transitional-authority-constraints"></a>
 <a id="cs-10-4-transitional-authority-constraints"></a>
 ## CS-10.4 Transitional authority constraints
 
@@ -82,7 +78,6 @@ Temporary transition authorities must be scope-limited, sunset-bounded, and inde
 
 Extensions require documented reauthorization with **unresolved risk explanation**. That documentation must include **alternatives considered**. It must include **phase return or completion plan**.
 
-<a id="5-failure-handling-off-ramps-and-re-baselining"></a>
 <a id="cs-10-5-failure-handling-off-ramps-and-re-baselining"></a>
 ## CS-10.5 Failure handling, off-ramps, and re-baselining
 
@@ -95,7 +90,6 @@ Transition plans must include predefined failure conditions and responses.
 - continuity-preserving operating baseline when gates fail;
 - **re-baselining process that updates milestones, risks, and owners without reducing constitutional Rights Floors**.
 
-<a id="6-transition-audit-disclosure-and-challenge"></a>
 <a id="cs-10-6-transition-audit-disclosure-and-challenge"></a>
 ## CS-10.6 Transition audit, disclosure, and challenge
 

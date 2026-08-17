@@ -15,7 +15,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Chapter Five *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility*; **Article XXIII**; **Article XXII**; **Article XXVI-A**; **Article XXVI-C**; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge).
-- Downstream: [§1](#1-purpose-and-role); [§2](#2-landscape-compromise-declaration-and-activation); [§4](#4-governance-continuity-under-multi-node-compromise); [§8](#8-exit-restoration-and-post-incident-revalidation).
+- Downstream: [§1](#cs-11-1-purpose-and-role); [§2](#cs-11-2-landscape-compromise-declaration-and-activation); [§4](#cs-11-4-governance-continuity-under-multi-node-compromise); [§8](#cs-11-8-exit-restoration-and-post-incident-revalidation).
 - Read with: **CS-11**; **CS-5**; **CS-7**; **CS-10**; **CJS-3.20**; **CJS-3.13**.
 
 </details>
@@ -37,7 +37,6 @@
 This file is the systems implementation home for **CS-11** (*Subversion response, replacement, and reconstitution*).
 
 *In plain terms: **CS-11** is the response when constitutional systems are not merely failing but actively subverted, possibly several at once. It sets when a compromise may be declared, how authority is replaced without inventing a permanent emergency power, and how a legitimate system is rebuilt afterwards.*
-<a id="1-purpose-and-role"></a>
 <a id="cs-11-1-purpose-and-role"></a>
 ## CS-11.1 Purpose and role
 
@@ -57,7 +56,6 @@ It also operates with these operational clusters:
 - **CJS-3.13** (*procedural integrity and adjudication terms*).
 This file does not narrow constitutional rights or reviewability.
 
-<a id="2-landscape-compromise-declaration-and-activation"></a>
 <a id="cs-11-2-landscape-compromise-declaration-and-activation"></a>
 ## CS-11.2 Landscape compromise declaration and activation
 
@@ -75,7 +73,6 @@ Landscape-scale response may be activated when one or more of the following cond
 - **designation of accountable incident authority** with conflict disclosures and recusal constraints
 - **immediate publication** of a stakeholder-visible summary subject to justified and time-bounded confidentiality limits
 
-<a id="3-priority-triage-and-dependency-aware-containment"></a>
 <a id="cs-11-3-priority-triage-and-dependency-aware-containment"></a>
 ## CS-11.3 Priority triage and dependency-aware containment
 
@@ -92,7 +89,6 @@ When landscape response is activated, systems must prioritize controls by consti
 - maintain auditable justification for each containment action, including expected duration and restoration criteria
 - avoid blanket restrictions where scoped controls can achieve equivalent protection
 
-<a id="4-governance-continuity-under-multi-node-compromise"></a>
 <a id="cs-11-4-governance-continuity-under-multi-node-compromise"></a>
 ## CS-11.4 Governance continuity under multi-node compromise
 
@@ -129,7 +125,6 @@ Activation of steward-of-last-resort authority must include explicit quorum and 
 
 Any attempt to use temporary continuity authority for durable concentration of power is non-compliant.
 
-<a id="5-replacement-and-reconstitution-procedure"></a>
 <a id="cs-11-5-replacement-and-reconstitution-procedure"></a>
 ## CS-11.5 Replacement and reconstitution procedure
 
@@ -144,7 +139,6 @@ Where subversion cannot be remediated in place, systems must execute replacement
 
 Replacement planning must include compatibility and exit-integrity protections so dependents are not coerced into lock-in during reconstitution.
 
-<a id="6-supply-chain-and-cross-jurisdiction-countermeasure-coordination"></a>
 <a id="cs-11-6-supply-chain-and-cross-jurisdiction-countermeasure-coordination"></a>
 ## CS-11.6 Supply-chain and cross-jurisdiction countermeasure coordination
 
@@ -156,7 +150,6 @@ Response plans must treat supply-chain compromise as a first-class constitutiona
 - **maintain continuity obligations** across affiliates, successor entities, and delegated operators
 - **escalate anti-evasion controls** when adversaries use relabeling, jurisdiction transfer, or proxy structures during active response
 
-<a id="7-crisis-communications-and-anti-disinformation-controls"></a>
 <a id="cs-11-7-crisis-communications-and-anti-disinformation-controls"></a>
 ## CS-11.7 Crisis communications and anti-disinformation controls
 
@@ -198,7 +191,6 @@ For high-impact decisions during activated response, systems must apply explicit
 - escalation decision log and reviewer independence statement
 - correction/reversal trace when later evidence invalidates prior assumptions
 
-<a id="8-exit-restoration-and-post-incident-revalidation"></a>
 <a id="cs-11-8-exit-restoration-and-post-incident-revalidation"></a>
 ## CS-11.8 Exit, restoration, and post-incident revalidation
 

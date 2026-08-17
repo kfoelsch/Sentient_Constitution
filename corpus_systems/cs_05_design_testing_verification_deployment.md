@@ -15,7 +15,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Article XVI](../core_06-06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*); [Article XVII](../core_06-06_rights_part_c.md#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom) (*Sandboxed Innovation, Experimentation, and Creative Freedom*); [Article XII-F](../core_06-06_rights_part_c.md#article-xii-f-resilience-and-self-healing-baseline) (*Resilience and Self-Healing Baseline*); [Chapter One §4.1](../core_01_a_values_principles.md#41-resilience-and-self-healing-design); [Chapter Four](../core_04-04_burden_traceability_verification.md); [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [§1](#1-purpose-and-role); [§2](#2-personal-isolated-and-experimental-systems); [§7](#7-non-experimental-systems); [§8](#8-governance-continuity-crisis-communications-and-exercises-high-impact-systems); [§9](#9-self-healing-and-recovery-path-integrity); [§10](#10-recertification-regression-testing-and-certification-defects).
+- Downstream: [§1](#cs-5-1-purpose-and-role); [§2](#cs-5-2-personal-isolated-and-experimental-systems); [§7](#cs-5-7-non-experimental-systems); [§8](#cs-5-8-governance-continuity-crisis-communications-and-exercises-high-impact-systems); [§9](#cs-5-9-self-healing-and-recovery-path-integrity); [§10](#cs-5-10-recertification-regression-testing-and-certification-defects).
 - Read with: **CS-5**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-6**; **CJS-3.19**; **CJS-3.20**; **CJS-3.21**.
 
 </details>
@@ -40,7 +40,6 @@
 This file is the systems implementation home for **CS-5** (*Design, testing, verification, and deployment*).
 
 *In plain terms: **CS-5** is the engineering lifecycle profile: how a constitutional system must be designed, tested, verified, separated across environments, rolled out in stages, exercised against crises, and re-certified after change. It states required outcomes rather than fixed technology, so implementations may evolve while staying auditable.*
-<a id="1-purpose-and-role"></a>
 <a id="cs-5-1-purpose-and-role"></a>
 ## CS-5.1 Purpose and role
 
@@ -48,7 +47,7 @@ This file is the systems implementation home for **CS-5** (*Design, testing, ver
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Article XVI](../core_06-06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility); [Article XVII](../core_06-06_rights_part_c.md#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom); [Article XII-F](../core_06-06_rights_part_c.md#article-xii-f-resilience-and-self-healing-baseline).
-- Downstream: [§2](#2-personal-isolated-and-experimental-systems) through [§10](#10-recertification-regression-testing-and-certification-defects).
+- Downstream: [§2](#cs-5-2-personal-isolated-and-experimental-systems) through [§10](#cs-5-10-recertification-regression-testing-and-certification-defects).
 - Read with: **CS-5**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CJS-3.19**; **CJS-3.20**; **CJS-3.21**.
 
 </details>
@@ -77,7 +76,6 @@ Where this file is silent, Sentient Constitution Chapters Two through Five gover
 
 **Forum recognition and lifecycle review.** New systems with material impact, and existing systems whose scope, behavior, dependency, autonomy, incentive structure, or risk profile materially changes, must be prepared for official **constitutional alignment recognition or review** through the forum pathways in `core_11-11_forum.md` **Chapter Eleven** and [**CF-7.2**](../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) (*Constitutional alignment recognition and review*). System owners must maintain evidence packages sufficient for the forum to evaluate scope, classification, testing, stakeholder impact, residual risk, remediation readiness, and ongoing monitoring. Where a system has material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk, the evidence package must also support **Environment** forum environmental-alignment component review, including ecological baseline, lifecycle and resource-flow analysis, foreseeable failure modes, restoration or remediation plan, monitoring cadence, uncertainty, and contest path. Forum recognition is scope-bound and does **not** replace operator responsibility, CS-3 classification, CS-4 stewardship, **Article XV-A** (*Auditability and Observable Evidence*) auditability, **Article XII-B** (*Right to Challenge, Review, and Redress*) challenge rights, or Environment forum authority over ecological merits. Process recognition mechanics live in CF-7.2 and Chapter Seven; this file owns engineering evidence readiness.
 
-<a id="2-personal-isolated-and-experimental-systems"></a>
 <a id="cs-5-2-personal-isolated-and-experimental-systems"></a>
 ## CS-5.2 Personal, isolated, and experimental systems
 
@@ -87,7 +85,6 @@ Rights-floor eligibility, reduced-requirement conditions, disclosure, containmen
 
 **Systems-layer profile (does not narrow XVII):** sandboxed or controlled operation; no downstream dependencies on shared production infrastructure; no material effect on other sentients, shared infrastructure, or ecosystem stability. Where those conditions hold, environment separation, deployment rigor, and audit depth under **§7** may be lighter. Such systems may prioritize simplicity and rapid iteration and need not maintain full multi-environment deployment structures. Misrepresentation of isolation or impact is governed by **§4** and **Article XVI-C**.
 
-<a id="3-creative-entertainment-and-expressive-systems"></a>
 <a id="cs-5-3-creative-entertainment-and-expressive-systems"></a>
 ## CS-5.3 Creative, entertainment, and expressive systems
 
@@ -101,7 +98,6 @@ Rights-floor creative freedom, containment, disclosure, opt-in, and transition t
 - autonomous or semi-autonomous agents acting for stakeholders that may affect external systems (including gaming or simulation environments used for agent testing or training);
 - measurable influence on external systems, markets, or collective behavior beyond defined scope.
 
-<a id="4-misclassification-and-evasion"></a>
 <a id="cs-5-4-misclassification-and-evasion"></a>
 ## CS-5.4 Misclassification and evasion
 
@@ -111,7 +107,6 @@ The prohibition on claiming reduced lifecycle or sandbox obligations while exert
 
 **Systems-layer indicators (non-exhaustive):** concealed dependencies; concealed stakeholders; concealed risk exposure; **Class P** or "experimental" labeling used to evade CS-4 class-scaled assurance, CS-4 stewardship, or **§7** environment and promotion controls. Detection and evidence packaging for forum or certification review remain operator duties under *Forum recognition and lifecycle review* and the closing recertification block.
 
-<a id="5-transition-to-higher-impact-systems"></a>
 <a id="cs-5-5-transition-to-higher-impact-systems"></a>
 ## CS-5.5 Transition to higher-impact systems
 
@@ -125,7 +120,6 @@ Transition floors — transparent, timely move toward **Article XVI-A** and **CS
 - Transitions must be documented, completed within a reasonable timeframe proportionate to impact, and remain subject to audit and challenge under **Articles XV-A** and **XII-B**.
 - Interim safeguards during transition must meet **§7** environment-isolation and progressive-deployment controls proportionate to current risk.
 
-<a id="6-experimental-substrate-features-and-systems"></a>
 <a id="cs-5-6-experimental-substrate-features-and-systems"></a>
 ## CS-5.6 Experimental substrate features and systems
 
@@ -141,7 +135,6 @@ Opt-in, disclosure, rollback, and containment floors for elevated-risk or substr
 - **Boundary and presentation integrity:** do not route production activity through non-production environments to bypass safeguards; do not fragment systems across environments to obscure real operational impact; accurately label experimental or unvalidated systems as not production-ready; never bypass required environment progression for high-impact changes.
 - **Documentation:** document environments and transitions under **Article XVI-A**, and expose deployment pathways, testing results (where feasible), and known risks and assumptions. Verification of those claims remains subject to **Chapter Four** and **Article XV-A**.
 
-<a id="7-non-experimental-systems"></a>
 <a id="cs-5-7-non-experimental-systems"></a>
 ## CS-5.7 Non-experimental systems
 
@@ -210,7 +203,6 @@ The same isolation applies to real stakeholder data unless use is explicitly con
 
 **Root cause analysis (**Article XXI-A** (*Diagnostic Rigor and Causal Attribution*)):** RCA in these environments must satisfy **Article XXI-A**. Environments must support reproduction of failures, isolation of root causes, and validation of corrective interventions. Where feasible, conduct RCA in controlled environments before production changes. Validate corrective measures before deployment. Evidentiary sufficiency for RCA claims remains subject to **Chapter Four**.
 
-<a id="8-governance-continuity-crisis-communications-and-exercises-high-impact-systems"></a>
 <a id="cs-5-8-governance-continuity-crisis-communications-and-exercises-high-impact-systems"></a>
 ## CS-5.8 Governance continuity, crisis communications, and exercises (high-impact systems)
 
@@ -268,7 +260,6 @@ Coverage includes degraded operation, security and integrity failures, governanc
 
 Findings must be **recorded** and **remediated**. Where applicable, feed findings into **Article XXI-A** RCA and into **simulation and stress testing** requirements elsewhere in this file.
 
-<a id="9-self-healing-and-recovery-path-integrity"></a>
 <a id="cs-5-9-self-healing-and-recovery-path-integrity"></a>
 ## CS-5.9 Self-healing and recovery-path integrity
 
@@ -294,7 +285,6 @@ For **Class A** and **Class B** systems, recovery-path testing must include at l
 
 This subsection is an operational profile. It does not create rights and must not be read to narrow **Article XII-F**, **Chapter One §4.1**, or **Chapter Five** *Self-Healing*. **CS-8 §9** and **CS-12 §9** apply this subsection by reference for protocol-specific cross-checks; they are not second self-healing profiles.
 
-<a id="10-recertification-regression-testing-and-certification-defects"></a>
 <a id="cs-5-10-recertification-regression-testing-and-certification-defects"></a>
 ## CS-5.10 Recertification, regression testing, and certification defects
 

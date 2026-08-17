@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Promote CS numeric headings to CS-n.m form and drop self-only section Traces.
 
-Keeps existing ``<a id>`` aliases and adds a slug id for the new heading.
+Adds a slug id for the new heading. Pre-release policy: do not keep leftover
+fossil ids; run ``make fossil-anchor-audit`` after a promote pass.
 """
 
 from __future__ import annotations

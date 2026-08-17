@@ -5,9 +5,9 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-1.9**, **CJS-1.10**, and **CJS-1.11** (*support-versus-merits boundary, host independence, and classification alignment*). Public IDs remain **CJS-1.9**–**CJS-1.11**; this file lives with the **CJS-2** interlocks because the rules are specific joint seams, not scope or contract.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-1.9**, **CJS-1.10**, and **CJS-1.11** (*support-versus-merits boundary, host independence, and classification alignment*). Public IDs remain **CJS-1.9**–**CJS-1.11**. The filename is `cjs_06_*` because these sections are not the **CJS-2** chapter; they are joint seams that **CJS-2** still points to.
 >
-> Start at the [Joint structure landing page](../corpus_joint_structure.md) or the [CJS-2 compass](cjs_02_specific_joint_interlocks.md). Most readers reach this file from a citation rather than reading the folder front to back.
+> Start at the [Joint structure landing page](../corpus_joint_structure.md) or [CJS-2](cjs_02_specific_joint_interlocks.md). Most readers reach this file from a citation rather than reading the folder front to back.
 
 </details>
 
@@ -72,6 +72,6 @@ When an institution supervises systems under [**CS-3**](../corpus_systems/cs_03_
 
 ---
 
-**Previous file:** [cjs_02_procedural_abstractions.md](cjs_02_procedural_abstractions.md)
+**Previous file:** [cjs_02_specific_joint_interlocks.md](cjs_02_specific_joint_interlocks.md)
 
 **Next file:** [cjs_03_cross_implementation_operational_terms.md](cjs_03_cross_implementation_operational_terms.md)

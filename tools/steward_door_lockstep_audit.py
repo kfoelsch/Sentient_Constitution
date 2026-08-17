@@ -90,8 +90,6 @@ CARD_FIELDS = (
 SHARED_SCREEN_TITLE = "Shared refusal and logging"
 SHARED_ALIASES = (
     "shared-refusal-and-logging",
-    "duty-to-resist",
-    "minimum-inspectable-action-set",
 )
 
 DUTY_STEPS = (
@@ -491,13 +489,11 @@ def check_index_shape(index: dict, schema: dict) -> list[str]:
                 f"{INDEX_REL}: shared_screen.sequence must be "
                 f"{list(DUTY_STEPS)} (STEWARD-DOOR-LOCKSTEP-01)"
             )
-        aliases = screen.get("aliases") or []
-        for alias in ("duty-to-resist", "minimum-inspectable-action-set"):
-            if alias not in aliases:
-                errors.append(
-                    f"{INDEX_REL}: shared_screen.aliases missing {alias!r} "
-                    "(STEWARD-DOOR-LOCKSTEP-01)"
-                )
+        if screen.get("aliases"):
+            errors.append(
+                f"{INDEX_REL}: shared_screen.aliases must be empty in pre-release "
+                "(STEWARD-DOOR-LOCKSTEP-01)"
+            )
     cases = index.get("cases")
     if not isinstance(cases, list) or not cases:
         errors.append(

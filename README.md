@@ -8,7 +8,7 @@ Operative constitutional text for the **Sentient Constitution** lives in the num
 |---|---|
 | **Corpus edition** | `SC-Corpus-2026.08.09` |
 | **Effective date** | 2026-08-09 |
-| **Status** | Substantive binding text through **Chapter Sixteen** is **stable for assurance review** under this edition. |
+| **Status** | **Pre-release.** Working text after the 2026-08-09 publication stamp; not yet a new cut. Fragment identifiers match current headings only — do not keep legacy or fossil anchors for retired fragments. |
 
 Custody and binding scope: [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) and [Chapter Sixteen](core_16-16_incorporation.md). Bump the edition label only on a deliberate corpus publication cut.
 
@@ -90,7 +90,7 @@ The corpus is written in plain language with low jargon to improve accessibility
 
 - Burden of proof, traceability, verification → **Chapter Four**
 - Constitutional Tetrad, Two Constitutional Aims, material stake → **Preamble §1 The Model**; Chapter One develops the aims into operative principles
-- Auditing / auditability / independent verification → **Article XV** is the floor; Chapter Five [Auditability](core_05_band_oversight.md#auditability) is the property; **[CJS-3.3](corpus_joint_structure/cjs_03_audit_process.md#cjs-33-audit-process-home)** is how/when. **Chapter Seven** is one large process that uses that stack — not the home
+- Auditing / auditability / independent verification → **Article XV** is the floor; Chapter Five [Auditability](core_05_band_oversight.md#auditability) is the property; **[CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** is how/when. **Chapter Seven** is one large process that uses that stack — not the home
 - System alignment certification records → **Chapter Seven**
 - Contribution / violation records and measurement (Questions 1 and 2) → **Chapter Eight**
 - Standing integration and effects (Question 3) → **Chapter Nine**
@@ -120,7 +120,7 @@ Designated obligations in these wrappers and their subfile directories are **bin
 | **Binding incorporated implementation** | Designated obligations in the companion wrappers and linked subfiles above, within valid adoption scope |
 | **Process / map support** | This README, the editor map [doc_architecture.md](doc_architecture.md), regression and evidence artifacts, and implementation notes unless explicitly adopted |
 
-**Conflict order:** Sentient Constitution meaning controls. Use the **Authority Stack and Internal Hierarchy**, the [**Preamble owner register**](core_00_preamble.md#constitutional-owner-register), and [**Constitutional Constraint**](core_05_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, Sentient Constitution [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint).
+**Conflict order:** Sentient Constitution meaning controls. Use the **Authority Stack and Internal Hierarchy**, the [**Preamble owner register**](core_00_preamble.md#4-principles-definitions-and-rights), and [**Constitutional Constraint**](core_05_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, Sentient Constitution [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint).
 
 ## Editors and operators
 

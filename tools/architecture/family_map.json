@@ -4,7 +4,7 @@
     "3.0": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
     "3.1": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
     "3.2": "corpus_joint_structure/cjs_03o_oversight_operations.md",
-    "3.3": "corpus_joint_structure/cjs_03_audit_process.md",
+    "3.3": "corpus_joint_structure/cjs_03u_audit_process.md",
     "3.4": "corpus_joint_structure/cjs_03o_oversight_operations.md",
     "3.5": "corpus_joint_structure/cjs_03o_oversight_operations.md",
     "3.6": "corpus_joint_structure/cjs_03o_oversight_operations.md",
@@ -30,20 +30,20 @@
     "1.0": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
     "1.1": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
     "1.3": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-    "1.7": "corpus_joint_structure/cjs_01_drafting_contracts.md",
-    "1.8": "corpus_joint_structure/cjs_01_drafting_contracts.md",
-    "1.8.1": "corpus_joint_structure/cjs_01_drafting_contracts.md",
-    "1.9": "corpus_joint_structure/cjs_02_support_hosting_classification.md",
-    "1.10": "corpus_joint_structure/cjs_02_support_hosting_classification.md",
-    "1.11": "corpus_joint_structure/cjs_02_support_hosting_classification.md",
-    "1.13": "corpus_joint_structure/cjs_01_odef_parse.md",
-    "1.14": "corpus_joint_structure/cjs_01_odef_parse.md",
-    "2.1": "corpus_joint_structure/cjs_02_hybrid_delegated_authority.md",
-    "2.1.1": "corpus_joint_structure/cjs_02_hybrid_delegated_authority.md",
-    "2.1.2": "corpus_joint_structure/cjs_02_hybrid_delegated_authority.md",
-    "2.3": "corpus_joint_structure/cjs_02_trust_integrity.md",
-    "2.4": "corpus_joint_structure/cjs_02_lane_staffing.md",
-    "2.5": "corpus_joint_structure/cjs_02_procedural_abstractions.md"
+    "1.7": "corpus_joint_structure/cjs_04_drafting_contracts.md",
+    "1.8": "corpus_joint_structure/cjs_04_drafting_contracts.md",
+    "1.8.1": "corpus_joint_structure/cjs_04_drafting_contracts.md",
+    "1.9": "corpus_joint_structure/cjs_06_support_hosting_classification.md",
+    "1.10": "corpus_joint_structure/cjs_06_support_hosting_classification.md",
+    "1.11": "corpus_joint_structure/cjs_06_support_hosting_classification.md",
+    "1.13": "corpus_joint_structure/cjs_05_odef_parse_mechanics.md",
+    "1.14": "corpus_joint_structure/cjs_05_odef_parse_mechanics.md",
+    "2.1": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+    "2.1.1": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+    "2.1.2": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+    "2.3": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+    "2.4": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+    "2.5": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md"
   },
   "layers": {
     "CJS": {
@@ -70,16 +70,10 @@
           "entries": [
             {
               "id": "CJS-0",
-              "label": "CJS-0: Registry and identifier rules",
+              "label": "CJS-0: Registry, identifier rules, and CJS-0.1 routing table",
               "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-              "status": "active"
-            },
-            {
-              "id": "CJS-0.1",
-              "label": "CJS-0.1: Cross-file routing (integrator table)",
-              "file": "corpus_joint_structure/cjs_00_topic_router.md",
               "status": "active",
-              "note": "Human topic path: generated topic router reader index. Maintainer table is CJS-0.1."
+              "note": "Includes CJS-0.1 integrator table. Human topic path: generated topic router reader index."
             }
           ]
         },
@@ -92,17 +86,29 @@
               "label": "CJS-1: Scope, purpose, boundary interface, and shared contract",
               "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
               "status": "active"
-            },
+            }
+          ]
+        },
+        {
+          "id": "drafting",
+          "title": "Drafting contracts",
+          "entries": [
             {
               "id": "CJS-1.7",
               "label": "CJS-1.7–CJS-1.8.1: Drafting contracts and owner-to-CJS seam",
-              "file": "corpus_joint_structure/cjs_01_drafting_contracts.md",
+              "file": "corpus_joint_structure/cjs_04_drafting_contracts.md",
               "status": "active"
-            },
+            }
+          ]
+        },
+        {
+          "id": "odef_parse",
+          "title": "oDef parse mechanics",
+          "entries": [
             {
               "id": "CJS-1.13",
               "label": "CJS-1.13–CJS-1.14: oDef parse mechanics",
-              "file": "corpus_joint_structure/cjs_01_odef_parse.md",
+              "file": "corpus_joint_structure/cjs_05_odef_parse_mechanics.md",
               "status": "active"
             }
           ]
@@ -113,38 +119,14 @@
           "entries": [
             {
               "id": "CJS-2",
-              "label": "CJS-2: Specific joint interlocks and shared abstractions (compass)",
+              "label": "CJS-2: Specific joint interlocks and shared abstractions",
               "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
-              "status": "active"
-            },
-            {
-              "id": "CJS-2.1",
-              "label": "CJS-2.1: Hybrid delegated authority (delegated binding bodies)",
-              "file": "corpus_joint_structure/cjs_02_hybrid_delegated_authority.md",
-              "status": "active"
-            },
-            {
-              "id": "CJS-2.3",
-              "label": "CJS-2.3: Cross-implementation trust integrity (joint operation model)",
-              "file": "corpus_joint_structure/cjs_02_trust_integrity.md",
-              "status": "active"
-            },
-            {
-              "id": "CJS-2.4",
-              "label": "CJS-2.4: Class-scaled lane staffing and competency redundancy",
-              "file": "corpus_joint_structure/cjs_02_lane_staffing.md",
-              "status": "active"
-            },
-            {
-              "id": "CJS-2.5",
-              "label": "CJS-2.5: Shared procedural abstractions for delegated bodies and forum routing",
-              "file": "corpus_joint_structure/cjs_02_procedural_abstractions.md",
               "status": "active"
             },
             {
               "id": "CJS-1.9",
               "label": "CJS-1.9–CJS-1.11: Support roles, hosting independence, and classification alignment",
-              "file": "corpus_joint_structure/cjs_02_support_hosting_classification.md",
+              "file": "corpus_joint_structure/cjs_06_support_hosting_classification.md",
               "status": "active"
             }
           ]
@@ -162,7 +144,7 @@
             {
               "id": "CJS-3.3",
               "label": "CJS-3.3 / oDef.3: Audit process home (what / why / how / when)",
-              "file": "corpus_joint_structure/cjs_03_audit_process.md",
+              "file": "corpus_joint_structure/cjs_03u_audit_process.md",
               "status": "active"
             },
             {

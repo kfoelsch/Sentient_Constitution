@@ -204,6 +204,20 @@
       "summary": "Chapter Seven must cite Chapters Two through Four when applying verification-substrate rules; must not restate Chapter Four §§1–6.",
       "make_target": "ch4-ch7-pointer-audit",
       "status": "advisory"
+    },
+    {
+      "id": "NAV-IMPL-FILENAME-01",
+      "legacy_ref": "companion numeric prefixes are chapter labels",
+      "summary": "Numbered cjs_/cs_/ci_/cf_ files share a numeric prefix only as same-chapter parts; family 01 is the unique scope page.",
+      "make_target": "companion-filename-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-PRE-RELEASE-FRAGMENT-01",
+      "legacy_ref": "pre-release: current heading ids only",
+      "summary": "One current fragment id per heading. When a section is dropped or renumbered, retarget live citations and delete the old id; do not keep fossil or legacy redirect anchors.",
+      "make_target": "fossil-anchor-audit",
+      "status": "blocking"
     }
   ]
 }

@@ -6,7 +6,7 @@ Indexes **point**. Source text **binds**.
 
 | Need | File | Key |
 |------|------|-----|
-| ID / topic / term / fossil alias | `ai_corpus/indexes/id_resolver.json` | `ids["CF-10"]`, `topics[]`, `definitions[]`, `aliases[]` |
+| ID / topic / term | `ai_corpus/indexes/id_resolver.json` | `ids["CF-10"]`, `topics[]`, `definitions[]` |
 | Heading line range | `ai_corpus/indexes/section_manifest.json` | `{"file": "...", "line_start": n, "line_end": m}` |
 | Definition location only | `ai_corpus/indexes/definition_registry.json` | `{"term": "...", "source_file": "...", "line_start": n}` |
 | File-to-file citations | `ai_corpus/indexes/crossref_matrix.json` | `{"source": "...", "targets": [...]}` |
@@ -44,7 +44,7 @@ Apply: Chapter One §8.4.4 combined satisfaction
 - [ ] Located the owner from `id_resolver.json` (not a retired filename)
 - [ ] Read the complete semantic block
 - [ ] Checked topic read-with and/or section_crossref
-- [ ] Confirmed current vs fossil anchors
+- [ ] Confirmed the heading's current fragment id (pre-release: no fossil aliases)
 
 ## Post-Edit Checklist
 

@@ -35,7 +35,7 @@ Chapter Seven, **Part A**, is the constitutional owner of **system alignment cer
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Preamble — constitutional owner register](core_00_preamble.md#constitutional-owner-register) and [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [material stake](core_00_preamble.md#material-stake); [Proportionality](core_05_band_accountability.md#proportionality) and [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) (Chapter Five); Participation measurement family (*voice, access, and contest paths*); [Chapter One §9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [Chapter One §14 Systemic Evaluation Requirement](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement) (*principle-layer whole-system evaluation lens — not one corner alone*); Chapters Two through Four; [Chapter Five](core_05__definitions_home.md#chapter-five-foundational-definitions) (*canonical definitions*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) (Chapter Five canonical term; non-operative shorthand **SAC**); [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) (Chapter Five meaning).
+- Upstream: [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) and [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [material stake](core_00_preamble.md#material-stake); [Proportionality](core_05_band_accountability.md#proportionality) and [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) (Chapter Five); Participation measurement family (*voice, access, and contest paths*); [Chapter One §9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [Chapter One §14 Systemic Evaluation Requirement](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement) (*principle-layer whole-system evaluation lens — not one corner alone*); Chapters Two through Four; [Chapter Five](core_05__definitions_home.md#chapter-five-foundational-definitions) (*canonical definitions*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) (Chapter Five canonical term; non-operative shorthand **SAC**); [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) (Chapter Five meaning).
 - Downstream: [§2](#2-system-class-evaluation) and [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*system class evaluation and illustrative profiles*); [§3.8](#38-illustrative-whole-system-application-by-class) (*worked whole-system examples by class*); [§4.1](#41-illustrative-data-handling-application-by-class) (*worked data-handling examples by class*); [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*worked ecological-footprint examples by class*); [§6.1](#61-illustrative-cross-system-support-application-by-class) (*worked cross-system-support examples by class*); [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*worked nondiscrimination examples by class*); [§8.1](#81-illustrative-accessibility-application-by-class) (*worked accessibility examples by class*); [§9.1](#91-illustrative-educational-capability-application-by-class) (*worked educational-capability examples by class*); [§10.1](#101-illustrative-trustworthiness-application-by-class) (*worked trustworthiness examples by class*); [§3](#3-whole-system-certification-evaluation) (*whole-system certification evaluation factors*); [§4](#4-data-types-and-handling-evaluation) through [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) (*domain evaluations*); [Part B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*certification record contents*); [Part B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*record integrity requirements*); [Part B §13](core_07_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) (*forum component roles*); [Part B §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*supervisory sequence and contestability chain*); [Part B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*standing-record bridge*); [Part B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*reopening and anti-evasion*); [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*standing records and verified-input gate*); [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*standing effects and integration*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum supervision, certification, alignment recognition, and review*).
 - Read with: [corpus_systems.md](corpus_systems.md), especially **CS-3 — System classification and handling**, **CS-2 — Information types and handling**, and **CS-5**; [corpus_forum.md](corpus_forum.md), especially **CF-5** (*Routing operations, transfer, certification, and representative treatment*) and **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*); **Article XV** (*Audit, Transparency, and Independent Verification*) and [Auditability](core_05_band_oversight.md#auditability) (*auditing floors — SAC is one especially large audit process under oversight, not the sole auditing home*); **CJS-3.3**–**CJS-3.5** (*auditability, audit-access, and independent-verification terms*).
 
@@ -46,7 +46,6 @@ Chapter Seven, **Part A**, is the constitutional owner of **system alignment cer
 *In plain terms: When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a certification record, and require re-checks on a schedule that matches how risky the system is. A certification is not a popularity score, a forever pass, or a way to skip rights review. It is a time-bound, challengeable statement of what is known about the system's alignment right now. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XV**, [Auditability](core_05_band_oversight.md#auditability)).*
 
 <a id="1-purpose-and-role"></a>
-<a id="11-what-certification-decides"></a>
 
 **System alignment certification** exists to answer one question for a stated scope and review schedule: Has the system shown constitutional alignment well enough for recognition, conditional recognition, validation, revalidation, continued reliance, deployment, or material release from conditions?
 
@@ -92,8 +91,6 @@ When materially impactful systems gate or shape how sentients live, certificatio
 - **Resource allocation** under **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*), including [Proportionate Cross-System Contribution](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) under **Article IV-B** (*Cross-System Fairness and Sustainability*) where systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies.
 
 <a id="2-system-class-evaluation"></a>
-<a id="4-system-class-evaluation"></a>
-<a id="3-system-class-evaluation"></a>
 
 ### 2. System Class Evaluation
 
@@ -102,7 +99,7 @@ When materially impactful systems gate or shape how sentients live, certificatio
 
 - Upstream: [§1](#1-purpose-and-role) (*purpose and role*); Integrative Materiality ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) (*Materiality*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [Material Impact](core_05_band_oversight.md#material-impact), [Dependency](core_05_band_continuity.md#dependency), [Risk](core_05_band_continuity.md#risk), [System Boundaries](core_05_band_continuity.md#system-boundaries), and [Charter](core_05_band_continuity.md#charter) (Chapter Five); [Chapter One §14 Systemic Evaluation Requirement](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement); **Article III-A** (*Survival*) and **Article III-B** (*Rights-Floor delivery where classification gates access*); **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article IV-B** (*resource allocation and dependency stewardship where certification gates shared-infrastructure reliance*).
 - Downstream: [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*illustrative class profiles*); [§3.8](#38-illustrative-whole-system-application-by-class) (*worked whole-system examples by class*); [§4.1](#41-illustrative-data-handling-application-by-class) (*worked data-handling examples by class*); [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*worked ecological-footprint examples by class*); [§6.1](#61-illustrative-cross-system-support-application-by-class) (*worked cross-system-support examples by class*); [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*worked nondiscrimination examples by class*); [§8.1](#81-illustrative-accessibility-application-by-class) (*worked accessibility examples by class*); [§9.1](#91-illustrative-educational-capability-application-by-class) (*worked educational-capability examples by class*); [§10.1](#101-illustrative-trustworthiness-application-by-class) (*worked trustworthiness examples by class*); [§4](#4-data-types-and-handling-evaluation) (*joint data-handling evaluation*); [§5](#5-ecological-footprint-evaluation) (*ecological footprint evaluation*); [§6](#6-proportionate-cross-system-support-evaluation) (*cross-system support evaluation*); [Part B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*record integrity*); [Part B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*verified-input gate*); [Part B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*classification drift and reclassification triggers*).
-- Read with: [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional); [corpus_systems.md](corpus_systems.md), **CS-3 — System classification and handling**, including **[CS-3 §3.5](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement* — triggers, class-scaled evaluation depth, and SAC verification bridge) and **[CS-3 §7](corpus_systems/cs_03_a_system_classification_machinery.md#7-classification-governance-disclosure-and-challenge)** (*System Classification Record governance duties and SAC bridge*); [CS-5 — Design, testing, verification, and deployment](corpus_systems/cs_05_design_testing_verification_deployment.md); [CJS-3.21 — Adversarial robustness and abuse-resistance terms](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*regression and hardening cycle obligations*); [corpus_forum.md](corpus_forum.md) **CF-7.2** (*Constitutional alignment recognition and review*).
+- Read with: [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional); [corpus_systems.md](corpus_systems.md), **CS-3 — System classification and handling**, including **[CS-3 §3.5](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement* — triggers, class-scaled evaluation depth, and SAC verification bridge) and **[CS-3 §7](corpus_systems/cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge)** (*System Classification Record governance duties and SAC bridge*); [CS-5 — Design, testing, verification, and deployment](corpus_systems/cs_05_design_testing_verification_deployment.md); [CJS-3.21 — Adversarial robustness and abuse-resistance terms](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*regression and hardening cycle obligations*); [corpus_forum.md](corpus_forum.md) **CF-7.2** (*Constitutional alignment recognition and review*).
 
 </details>
 
@@ -149,12 +146,8 @@ Where certification identifies these defects, forums may approve with conditions
 
 **Reclassification reminder.** Illustrative labels do not lock classification. A coordination platform that becomes the de facto gateway for survival-essential access; a credential service whose outage would now block healthcare or benefits within survival-relevant timeframes; or a utility subsystem absorbed into a critical path must be reclassified and recertified under **[CS-3 §3.5](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** and [Part B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — not left at a lower class because the operator prefers lighter review.
 
-<a id="41-recertification-regression-requirement"></a>
-<a id="42-initial-recognition-ongoing-recertification-and-defects"></a>
 
 <a id="3-whole-system-certification-evaluation"></a>
-<a id="2-whole-system-certification-evaluation"></a>
-<a id="1a-whole-system-certification-evaluation"></a>
 
 ### 3. Whole-System Certification Evaluation
 
@@ -175,8 +168,6 @@ Where certification identifies these defects, forums may approve with conditions
 A system alignment certification evaluation is incomplete if it considers only immediate or local effects. Certification records must show that the evaluation considered the factors below wherever they are material to recognition, validation, revalidation, continued reliance, deployment, or material release from conditions. The evaluation must also confirm that the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) will meet [material stake](core_00_preamble.md#material-stake) scaling for the system under review. Worked whole-system walkthroughs for the illustrative systems in [§2.1](#21-illustrative-class-profiles-non-exhaustive) are in [§3.8](#38-illustrative-whole-system-application-by-class).
 
 <a id="31-systemic-scope-and-risk-factors"></a>
-<a id="21-systemic-scope-and-risk-factors"></a>
-<a id="1a1-systemic-scope-and-risk-factors"></a>
 #### 3.1 Systemic Scope and Risk Factors
 
 Certification evaluations must consider:
@@ -206,8 +197,6 @@ Those findings live on the certification record. They are not a fifth mandatory 
 **Defects and misalignment.** Treating an internal note, buried appendix, checklist, or after-the-fact statement as either evaluation or disclosure; failing to disclose evaluated systemic risk to those who need it where [Transparency](core_05_band_oversight.md#transparency) or [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) requires it; or certifying continued reliance while material risk-communication gaps remain unresolved must be treated as certification defects. They may support conditional recognition, deferred recognition, non-recognition, withdrawal, or reopening under [Part B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
 
 <a id="32-accessibility-under-sentience-non-exclusion"></a>
-<a id="22-accessibility-under-sentience-non-exclusion"></a>
-<a id="1a2-accessibility-under-sentience-non-exclusion"></a>
 #### 3.2 Accessibility Under Sentience Non-Exclusion
 
 Certification evaluations must test real participation for every sentient form and ability profile, not merely paper compliance.
@@ -219,8 +208,6 @@ Certification evaluations must test real participation for every sentient form a
 - *Rights-Floor owner.* [Article V-G](core_06-06_rights_part_b.md#article-v-g-accessibility) (*Accessibility*) owns the accessibility Rights Floor. Education-specific accessibility remains governed by [Article III-B](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access) (*Equal Educational Access*).
 
 <a id="33-privacy-informational-joint-invocation"></a>
-<a id="23-privacy-informational-joint-invocation"></a>
-<a id="1a3-privacy-informational-joint-invocation"></a>
 #### 3.3 Privacy (Informational) Joint Invocation
 
 *In plain terms: Chapter Six spreads privacy protections across several articles — not one tidy corner. If a certification review touches more than one of those protections, reviewers must check every one that actually applies. Clearing the easiest box and calling it done is not enough.*
@@ -235,29 +222,21 @@ When a certification matter materially implicates more than one Chapter Six priv
 - *Type-N floor preserved.* Where **Article VII-B** (*Internal-State Boundary and Type-N Protection*) is materially implicated, **Type N** handling under **[corpus_systems.md](corpus_systems.md), CS-2** applies and is not narrowed by this factor.
 
 <a id="34-voluntary-discontinuation-and-exit-rights"></a>
-<a id="24-voluntary-discontinuation-and-exit-rights"></a>
-<a id="1a4-voluntary-discontinuation-and-exit-rights"></a>
 #### 3.4 Voluntary Discontinuation and Exit Rights
 
 Where [Chapter One §5.2 Voluntary Discontinuation and Exit Rights](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights) applies to a certification matter, certification must test voluntariness, consent, anti-coercion, dependency pressure, information, and reversibility before the certification claim stands. Formal assent alone is insufficient.
 
 <a id="35-assembly-collective-organization-and-institutional-formation"></a>
-<a id="25-assembly-collective-organization-and-institutional-formation"></a>
-<a id="1a5-assembly-collective-organization-and-institutional-formation"></a>
 #### 3.5 Assembly, Collective Organization, and Institutional Formation
 
 Where [Chapter One §5.3 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation) applies to a certification matter, certification must test the issue jointly enough to prevent anti-segmentation evasion. The evaluation is incomplete if it routes the matter through one framing alone in a way that defeats assembly or collective-organization protection.
 
 <a id="36-time-consistency-constraint"></a>
-<a id="26-time-consistency-constraint"></a>
-<a id="1a6-time-consistency-constraint"></a>
 #### 3.6 Time-Consistency Constraint
 
 Certification may not treat near-term metrics, local compliance, or short-horizon efficiency as sufficient where foreseeable medium- or long-horizon violations remain unaddressed. Short-horizon optimization is invalid where it foreseeably produces medium- or long-horizon violations of **Safety**, **Truth**, or **wellbeing** constraints under cumulative, delayed, or cross-system conditions.
 
 <a id="37-governance-incentive-and-contestability-discipline"></a>
-<a id="27-governance-incentive-and-contestability-discipline"></a>
-<a id="1a7-governance-incentive-and-contestability-discipline"></a>
 #### 3.7 Governance, Incentive, and Contestability Discipline
 
 *In plain terms: the review is not finished unless reviewers ask whether four basics will still work at the level of risk involved — whether sentients can actually take part, whether the work can be watched and checked, whether wrongdoing can be answered for, and whether decisions will move fast enough when it matters. Reviewers also need to know who actually holds material authority and who answers for what — not a vague "the team" or a blame-shifting shell. Those questions must be answered for a valid certification.*
@@ -300,7 +279,6 @@ For that discipline, certification must read:
 **Reading across classes.** The factors in [§3.1](#31-systemic-scope-and-risk-factors) through [§3.7](#37-governance-incentive-and-contestability-discipline) apply to all three systems; class changes how deeply each factor must be evaluated and recorded. A **Class C** scheduling platform that becomes the only practical path to emergency staffing or survival-essential routing must receive **Class A** or **Class B** whole-system depth on the facts — not the lighter coordination review its operator prefers. A **Class A** survival-critical system must not be downclassified while it gates water, energy, or comparable survival essentials with no timely substitute. A **Class B** exchange whose outage would now block emergency care within survival-relevant timeframes must be reclassified upward — including to **Class A** where survival essentials are gated — and recertified under [§2](#2-system-class-evaluation) and [Part B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
 
 <a id="4-data-types-and-handling-evaluation"></a>
-<a id="5-data-types-and-handling-evaluation"></a>
 
 ### 4. Data Types and Handling Evaluation
 
@@ -309,7 +287,7 @@ For that discipline, certification must read:
 
 - Upstream: [§3](#3-whole-system-certification-evaluation) (*whole-system evaluation factors*); [§3.8](#38-illustrative-whole-system-application-by-class) (*illustrative whole-system walkthroughs*); [Part B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*record contents*); [§2](#2-system-class-evaluation) (*system class evaluation*); Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); [Article XIV: Info-Sphere Integrity](core_06-06_rights_part_c.md#article-xiv-info-sphere-integrity); [Article XV: Audit, Transparency, and Independent Verification](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification); [Article VII: Self-Ownership](core_06-06_rights_part_b.md#article-vii-self-ownership).
 - Downstream: [§4.1](#41-illustrative-data-handling-application-by-class) (*illustrative data-handling walkthroughs*); [§5](#5-ecological-footprint-evaluation) and [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*ecological footprint evaluation and walkthroughs*); [Part B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*record integrity*); [Part B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*verified-input gate*); [Part B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*reclassification and handling misalignment*).
-- Read with: [corpus_systems.md](corpus_systems.md), **CS-2 — Information types and handling** (including **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **[CS-2 §8](corpus_systems/cs_02_a_information_types_and_handling.md#8-system-data-types-record-governance)** (*System Data Types Record governance*)); [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional); [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure); **CJS-3.18** (*data-retention and lifecycle-integrity terms*), **CJS-3.21** (*adversarial robustness and abuse-resistance terms*), and **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) where materially applicable.
+- Read with: [corpus_systems.md](corpus_systems.md), **CS-2 — Information types and handling** (including **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **[CS-2 §8](corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-8-system-data-types-record-governance)** (*System Data Types Record governance*)); [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional); [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure); **CJS-3.18** (*data-retention and lifecycle-integrity terms*), **CJS-3.21** (*adversarial robustness and abuse-resistance terms*), and **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) where materially applicable.
 - Subsections: [§4.1](#41-illustrative-data-handling-application-by-class) (*illustrative data-handling application by class*).
 
 </details>
@@ -320,7 +298,7 @@ For that discipline, certification must read:
 
 System alignment certification must evaluate **data types and handling** as part of every materially impactful certification record. Canonical information-type definitions, handling rules, separation requirements, lifecycle detail, and the durable [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) live in **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**. This section states what certification must verify and record; it does not restate CS-2 type taxonomy or handling mechanics.
 
-**Evaluation requirement.** A certification process must determine whether the system identifies the data types materially in scope and handles them under the **most restrictive applicable** classification, including across transformation, aggregation, delegation, storage, retention, and cross-domain linkage. Evaluation must reflect functional effect, not label, format, or pipeline stage alone. Where the **[CS-2 Part A §7](corpus_systems/cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems)** Type O baseline applies, certification must also verify that published [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) (**Type O**) covers the **certified scope** — mapped from the governing [Charter](core_05_band_continuity.md#charter) (or equivalent published scope instrument), assigned class, and observed [System Boundaries](core_05_band_continuity.md#system-boundaries) — with justified hold-backs paired to maximum feasible public substitutes; Chapter Five owns the term; CS-2 owns baseline content and release mechanics.
+**Evaluation requirement.** A certification process must determine whether the system identifies the data types materially in scope and handles them under the **most restrictive applicable** classification, including across transformation, aggregation, delegation, storage, retention, and cross-domain linkage. Evaluation must reflect functional effect, not label, format, or pipeline stage alone. Where the **[CS-2 Part A §7](corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** Type O baseline applies, certification must also verify that published [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) (**Type O**) covers the **certified scope** — mapped from the governing [Charter](core_05_band_continuity.md#charter) (or equivalent published scope instrument), assigned class, and observed [System Boundaries](core_05_band_continuity.md#system-boundaries) — with justified hold-backs paired to maximum feasible public substitutes; Chapter Five owns the term; CS-2 owns baseline content and release mechanics.
 
 **Periodic data-type re-evaluation.** On every materially impactful certification or revalidation cycle, the process must verify that material datasets in scope were **periodically re-evaluated** for appropriate classification under **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **CJS-3.18** (*data-retention and lifecycle-integrity terms*), and were **reclassified** where that review required it. Cadence must scale with system class and material impact under [§2](#2-system-class-evaluation). Event-triggered retyping under CS-2 does not replace this periodic certification check.
 
@@ -359,7 +337,6 @@ System alignment certification must evaluate **data types and handling** as part
 **Reading across classes.** The same CS-3 rules apply to all three systems; class changes **depth**, not permission to mis-handle data. A **Class C** platform that begins storing or routing clinical-grade records must be evaluated and recorded as such — not left at coordination-platform handling because the operator prefers a lighter file. A **Class B** exchange whose outage would now block emergency care within survival-relevant timeframes must be reclassified and recertified under [§2](#2-system-class-evaluation) and [Part B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), with data-handling assurance scaled accordingly.
 
 <a id="5-ecological-footprint-evaluation"></a>
-<a id="6-ecological-footprint-evaluation"></a>
 
 ### 5. Ecological Footprint Evaluation
 
@@ -414,8 +391,6 @@ System alignment certification must evaluate **ecological footprint** as part of
 **Reading across classes.** The same **Article I-B** (*Ecological Footprint and Transparency*) and Chapter Five footprint discipline applies to all three systems; class changes attribution depth and comparison burden, not permission to obscure material environmental flows. A **Class A** survival-critical water system must not be downclassified while watershed extraction, discharge, or energy burdens that gate safe water remain materially under-attributed. A **Class B** exchange whose growth in clinical payload or hosting concentration materially increases environmental burden must receive footprint review scaled to that growth — including upward to **Class A** depth where survival-essential delivery and source-system burdens are jointly implicated. A **Class C** scheduling platform that becomes a de facto chokepoint for survival-essential coordination must not keep a token footprint file because the operator labels it non-critical. Cross-system support walkthroughs for the same systems are in [§6.1](#61-illustrative-cross-system-support-application-by-class).
 
 <a id="6-proportionate-cross-system-support-evaluation"></a>
-<a id="6a-proportionate-cross-system-support-evaluation"></a>
-<a id="5a-proportionate-cross-system-support-evaluation"></a>
 
 ### 6. Proportionate Cross-System Contribution Evaluation
 
@@ -474,8 +449,6 @@ System alignment certification must evaluate **proportionate cross-system contri
 **Reading across classes.** The same **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article IV-B** (*Cross-System Fairness and Sustainability*) discipline applies wherever the materiality trigger is met; class changes map depth and adequacy scrutiny, not permission to treat shared extraction as immaterial. A **Class A** water system drawing on a shared watershed or regional grid backbone must carry the strongest dependent-systems-map and return-flow proof on the record. A **Class B** exchange resting on shared authentication and health-IT infrastructure must document extraction and support-adequacy findings at operational criticality — not generic interoperability slogans. A **Class C** scheduling platform must not evade cross-system review while it quietly becomes the payments, identity, or staffing chokepoint for institutions that cannot practically substitute; when that happens, certification must escalate review and reclassification under [§2](#2-system-class-evaluation) and [Part B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), including upward to **Class A** where survival-essential coordination is gated. Nondiscrimination walkthroughs for the same systems are in [§7.1](#71-illustrative-nondiscrimination-application-by-class).
 
 <a id="7-nondiscrimination-evaluation"></a>
-<a id="6b-nondiscrimination-evaluation"></a>
-<a id="5b-nondiscrimination-evaluation"></a>
 
 ### 7. Nondiscrimination Evaluation
 
@@ -506,8 +479,6 @@ System alignment certification must evaluate **nondiscrimination** under **Artic
 **Defects and misalignment.** Obscuring, misrepresenting, fragmenting, or offloading material classification, ranking, or burden-allocation logic where **Article V-B** (*Nondiscrimination*) requires review; treating facial neutrality, aggregate convenience metrics, or operator self-report as sufficient without evaluable burden-and-benefit analysis; certifying continued reliance while documented proxy discrimination or substantive unfairness materially threatens constitutional alignment; or using homogenization, interoperability, or efficiency framings to defeat language, culture, or heritage protections without satisfying **Article V-B** (*Nondiscrimination*)'s **Necessity** and **Proportionality** tests must be treated as certification defects. They may support conditional recognition, deferred recognition, non-recognition, withdrawal, or reopening under [Part B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
 
 <a id="71-illustrative-nondiscrimination-application-by-class"></a>
-<a id="6b1-illustrative-nondiscrimination-application-by-class"></a>
-<a id="5b1-illustrative-nondiscrimination-application-by-class"></a>
 
 #### 7.1 Illustrative nondiscrimination application by class (non-exhaustive)
 
@@ -534,8 +505,6 @@ System alignment certification must evaluate **nondiscrimination** under **Artic
 **Reading across classes.** The same **Article V-B** (*Nondiscrimination*) and Chapter Five nondiscrimination discipline applies wherever the materiality trigger is met; class changes evaluation depth, not permission to treat ranking or burden-shifting as immaterial. A **Class A** water system whose shutoff or notification rules can foreclose safe water must carry the strongest burden-and-benefit and proxy analysis on the record — not a generic "utility best practice" statement. A **Class B** exchange whose matching or routing logic affects emergency care, benefits, or credential access must document disparate-impact and substantive-fairness findings at operational criticality. A **Class C** scheduling platform must not keep a token fairness paragraph while shift, vendor, or booking logic materially ranks or excludes participants; when coordination becomes survival-essential, certification must escalate review and reclassification under [§2](#2-system-class-evaluation) and [Part B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), including upward toward **Class A** where staffing or emergency routing is gated. Accessibility walkthroughs for the same systems are in [§8.1](#81-illustrative-accessibility-application-by-class).
 
 <a id="8-accessibility-evaluation"></a>
-<a id="6c-accessibility-evaluation"></a>
-<a id="5c-accessibility-evaluation"></a>
 
 ### 8. Accessibility Evaluation
 
@@ -566,8 +535,6 @@ System alignment certification must evaluate **accessibility** under **Article V
 **Defects and misalignment.** Treating formal affordances, default interfaces, or paper accommodations as sufficient without evaluable substantive-participation analysis; certifying continued reliance while documented participation barriers materially threaten constitutional alignment; using cost, design-choice, substrate-class, or operational-scale framings to defeat the participation floor without satisfying **Article V-G** (*Accessibility*)'s **Necessity** and **Proportionality** tests; or operational design whose effect is to defeat accessibility where a less-burdensome option is feasible must be treated as certification defects. They may support conditional recognition, deferred recognition, non-recognition, withdrawal, or reopening under [Part B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
 
 <a id="81-illustrative-accessibility-application-by-class"></a>
-<a id="6c1-illustrative-accessibility-application-by-class"></a>
-<a id="5c1-illustrative-accessibility-application-by-class"></a>
 
 #### 8.1 Illustrative accessibility application by class (non-exhaustive)
 
@@ -594,8 +561,6 @@ System alignment certification must evaluate **accessibility** under **Article V
 **Reading across classes.** The same **Article V-G** (*Accessibility*) and Chapter Five accessibility discipline applies wherever the materiality trigger is met; class changes evaluation depth, not permission to treat paper accommodations or default interfaces as enough. A **Class A** water system whose billing or outage pathways can foreclose safe water must carry the strongest substantive-participation proof on the record — not a generic accessibility statement. A **Class B** exchange whose portals gate healthcare access must document accommodation and anti-denial-by-proxy findings at operational criticality. A **Class C** scheduling platform must not keep a token accessibility paragraph while shift, booking, or vendor UI materially excludes participants; when coordination becomes survival-essential, certification must escalate review and reclassification under [§2](#2-system-class-evaluation) and [Part B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), including upward toward **Class A** where staffing or emergency routing is gated. Educational-capability walkthroughs for the same systems are in [§9.1](#91-illustrative-educational-capability-application-by-class).
 
 <a id="9-educational-capability-and-learning-system-integrity-evaluation"></a>
-<a id="6d-educational-capability-and-learning-system-integrity-evaluation"></a>
-<a id="5d-educational-capability-and-learning-system-integrity-evaluation"></a>
 
 ### 9. Educational Capability and Learning-System Integrity Evaluation
 
@@ -626,8 +591,6 @@ System alignment certification must evaluate **educational capability and learni
 **Defects and misalignment.** Obscuring, misrepresenting, fragmenting, or offloading material ranking, assessment, recommendation, or placement logic where **Article VI-B** (*Lifelong and Adaptive Learning and Contestability*) requires review; treating credential formalism, aggregate completion metrics, or operator self-report as sufficient without evaluable capability-building analysis; certifying continued reliance while documented assessment opacity, credential gatekeeping, imposed obsolescence, or manipulative learning design materially threatens constitutional alignment; or using efficiency, personalization, or scale framings to defeat retraining access or contestability without satisfying **Article VI** (*Right to Sentient-Centered Education*)'s capability-building and **Article VI-B** (*Lifelong and Adaptive Learning and Contestability*) transparency disciplines must be treated as certification defects. They may support conditional recognition, deferred recognition, non-recognition, withdrawal, or reopening under [Part B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
 
 <a id="91-illustrative-educational-capability-application-by-class"></a>
-<a id="6d1-illustrative-educational-capability-application-by-class"></a>
-<a id="5d1-illustrative-educational-capability-application-by-class"></a>
 
 #### 9.1 Illustrative educational-capability application by class (non-exhaustive)
 
@@ -654,8 +617,6 @@ System alignment certification must evaluate **educational capability and learni
 **Reading across classes.** The same **Article VI** (*Right to Sentient-Centered Education*) and Chapter Five educational-capability discipline applies wherever the materiality trigger is met; class changes evaluation depth, not permission to treat credential formalism or opaque assessment as enough. A **Class A** water system whose operator licensure or safety assessment can foreclose safe plant operation must carry the strongest capability-building, retraining, and contestability proof on the record — not a generic training-policy statement. A **Class B** exchange whose privileges, placement, or continuing medical education logic gates clinical practice must document assessment transparency and retraining access at operational criticality. A **Class C** scheduling platform must not keep a token education paragraph while training-slot, recommendation, or credential-routing logic materially ranks or excludes participants; when coordination becomes operationally necessary for work or licensure, certification must escalate review and reclassification under [§2](#2-system-class-evaluation) and [Part B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), including upward toward **Class A** where survival-essential staffing credentials are gated. Trustworthiness walkthroughs for the same systems are in [§10.1](#101-illustrative-trustworthiness-application-by-class).
 
 <a id="10-trustworthiness-and-system-reliance-integrity-evaluation"></a>
-<a id="6e-trustworthiness-and-system-reliance-integrity-evaluation"></a>
-<a id="5e-trustworthiness-and-system-reliance-integrity-evaluation"></a>
 
 ### 10. Trustworthiness and System-Reliance Integrity Evaluation
 
@@ -686,8 +647,6 @@ System alignment certification must evaluate **trustworthiness and system-relian
 **Defects and misalignment.** Obscuring, misrepresenting, fragmenting, or offloading material limits, risks, or failure history where **Article XII** (*Right to Reliable and Trustworthy Systems*) requires review; treating reputation, endorsement, scale, or operator self-report as sufficient without evaluable [Trustworthiness](core_05_band_continuity.md#trustworthiness) analysis; certifying continued reliance while documented false trust, perverse incentives, inaccessible challenge paths, or recovery practices that hide failure materially threaten constitutional alignment; or using efficiency, innovation, or security framings to defeat disclosure, contestability, or redress without satisfying **Article XII** (*Right to Reliable and Trustworthy Systems*)'s reliability and **Article XII-B** (*Right to Challenge, Review, and Redress*) challenge disciplines must be treated as certification defects. They may support conditional recognition, deferred recognition, non-recognition, withdrawal, or reopening under [Part B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
 
 <a id="101-illustrative-trustworthiness-application-by-class"></a>
-<a id="6e1-illustrative-trustworthiness-application-by-class"></a>
-<a id="5e1-illustrative-trustworthiness-application-by-class"></a>
 
 #### 10.1 Illustrative trustworthiness application by class (non-exhaustive)
 

@@ -1,7 +1,7 @@
 {
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "source": "corpus_joint_structure/cjs_00_topic_router.md",
+  "source": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
   "description": "Full CJS-0.1 topic router with resolved owner and read-with files. Authoritative row table remains CJS-0.1.",
   "rows": [
     {
@@ -17,11 +17,11 @@
       "read_with": [
         {
           "id": "CJS-2.1",
-          "file": "corpus_joint_structure/cjs_02_hybrid_delegated_authority.md"
+          "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md"
         },
         {
           "id": "CJS-2.5",
-          "file": "corpus_joint_structure/cjs_02_procedural_abstractions.md"
+          "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md"
         },
         {
           "id": "CJS-3.13",
@@ -54,11 +54,11 @@
       "read_with": [
         {
           "id": "CJS-2.1",
-          "file": "corpus_joint_structure/cjs_02_hybrid_delegated_authority.md"
+          "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md"
         },
         {
           "id": "CJS-2.5",
-          "file": "corpus_joint_structure/cjs_02_procedural_abstractions.md"
+          "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md"
         },
         {
           "id": "CJS-3.13",
@@ -83,7 +83,7 @@
       "read_with": [
         {
           "id": "CJS-2.5",
-          "file": "corpus_joint_structure/cjs_02_procedural_abstractions.md"
+          "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md"
         },
         {
           "id": "CJS-3.13",
@@ -112,7 +112,7 @@
       "read_with": [
         {
           "id": "CJS-2.5",
-          "file": "corpus_joint_structure/cjs_02_procedural_abstractions.md"
+          "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md"
         },
         {
           "id": "CJS-3.13",
@@ -401,7 +401,7 @@
       "primary_owners": [
         {
           "id": "CJS-2.3",
-          "file": "corpus_joint_structure/cjs_02_trust_integrity.md"
+          "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md"
         }
       ],
       "read_with": [
@@ -427,7 +427,7 @@
         },
         {
           "id": "CJS-3.3",
-          "file": "corpus_joint_structure/cjs_03_audit_process.md"
+          "file": "corpus_joint_structure/cjs_03u_audit_process.md"
         },
         {
           "id": "CJS-3.5",
@@ -480,7 +480,7 @@
       "read_with": [
         {
           "id": "CJS-2.4",
-          "file": "corpus_joint_structure/cjs_02_lane_staffing.md"
+          "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md"
         },
         {
           "id": "CJS-3.11",
@@ -501,7 +501,7 @@
       "read_with": [
         {
           "id": "CJS-3.3",
-          "file": "corpus_joint_structure/cjs_03_audit_process.md"
+          "file": "corpus_joint_structure/cjs_03u_audit_process.md"
         },
         {
           "id": "CJS-3.15",

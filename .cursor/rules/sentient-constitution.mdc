@@ -19,7 +19,7 @@ Indexes **point**. Source text **binds**. Do not treat a locator, gloss, or stew
 For lookup, open locators before grepping the corpus:
 
 1. High-pressure fact pattern → [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) or [`implementation/steward_owner_clock_index.json`](implementation/steward_owner_clock_index.json)
-2. Family/section ID (`CF-10`, `CJS-3.13`, `Def.P1`), topic, definition term, or fossil anchor → [`ai_corpus/indexes/id_resolver.json`](ai_corpus/indexes/id_resolver.json)
+2. Family/section ID (`CF-10`, `CJS-3.13`, `Def.P1`), topic, or definition term → [`ai_corpus/indexes/id_resolver.json`](ai_corpus/indexes/id_resolver.json)
 3. Heading line range → [`ai_corpus/indexes/section_manifest.json`](ai_corpus/indexes/section_manifest.json)
 4. Then read the named source file (offset/limit from the locator). Patterns: [`ai_corpus/AI_NAVIGATION_GUIDE.md`](ai_corpus/AI_NAVIGATION_GUIDE.md)
 

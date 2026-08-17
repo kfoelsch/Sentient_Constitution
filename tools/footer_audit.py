@@ -50,16 +50,12 @@ CORE_CHAIN = (
 CJS_CHAIN = (
     "corpus_joint_structure/cjs_reader_guide.md",
     "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-    "corpus_joint_structure/cjs_01_drafting_contracts.md",
-    "corpus_joint_structure/cjs_01_odef_parse.md",
+    "corpus_joint_structure/cjs_04_drafting_contracts.md",
+    "corpus_joint_structure/cjs_05_odef_parse_mechanics.md",
     "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
-    "corpus_joint_structure/cjs_02_hybrid_delegated_authority.md",
-    "corpus_joint_structure/cjs_02_trust_integrity.md",
-    "corpus_joint_structure/cjs_02_lane_staffing.md",
-    "corpus_joint_structure/cjs_02_procedural_abstractions.md",
-    "corpus_joint_structure/cjs_02_support_hosting_classification.md",
+    "corpus_joint_structure/cjs_06_support_hosting_classification.md",
     "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
-    "corpus_joint_structure/cjs_03_audit_process.md",
+    "corpus_joint_structure/cjs_03u_audit_process.md",
     "corpus_joint_structure/cjs_03o_oversight_operations.md",
     "corpus_joint_structure/cjs_03p_participation_operations.md",
     "corpus_joint_structure/cjs_03a_accountability_operations.md",
@@ -69,7 +65,6 @@ CJS_CHAIN = (
 
 # Side-path registry annexes: not in the default wrapper → *-1 reading order.
 CJS_REGISTRY_ANNEX = "corpus_joint_structure/cjs_00_registry_and_reading_rules.md"
-CJS_TOPIC_ROUTER_ANNEX = "corpus_joint_structure/cjs_00_topic_router.md"
 
 CS_CHAIN = tuple(
     f"corpus_systems/{name}"
@@ -152,7 +147,6 @@ CF_REGISTRY_ANNEX = "corpus_forum/cf_00_registry_and_reading_rules.md"
 
 REGISTRY_ANNEXES: tuple[tuple[str, str, str], ...] = (
     (CJS_REGISTRY_ANNEX, "corpus_joint_structure.md", CJS_CHAIN[0]),
-    (CJS_TOPIC_ROUTER_ANNEX, CJS_REGISTRY_ANNEX, CJS_REGISTRY_ANNEX),
     (CS_REGISTRY_ANNEX, "corpus_systems.md", CS_CHAIN[0]),
     (CI_REGISTRY_ANNEX, "corpus_institutions.md", CI_CHAIN[0]),
     (CF_REGISTRY_ANNEX, "corpus_forum.md", CF_CHAIN[0]),

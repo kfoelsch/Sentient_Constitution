@@ -77,17 +77,8 @@ class IdResolverTests(unittest.TestCase):
         self.assertIn("standing_record", doors["case_ids"])
         self.assertNotIn("conflict_rule", doors["cases"][0])
 
-    def test_duty_to_resist_alias_if_present(self) -> None:
-        matches = [
-            row
-            for row in self.payload["aliases"]
-            if "duty-to-resist" in " ".join(row["fossil_anchors"] + row["current_anchors"])
-        ]
-        if not matches:
-            self.skipTest("no duty-to-resist fossil/current cluster in this edition")
-        row = matches[0]
-        self.assertTrue(any("54-" in anchor or "5-4-" in anchor for anchor in row["current_anchors"]))
-        self.assertTrue(any("411-" in anchor for anchor in row["fossil_anchors"]))
+    def test_pre_release_has_no_fossil_aliases(self) -> None:
+        self.assertEqual(self.payload["aliases"], [])
 
 
 class SectionCrossrefTests(unittest.TestCase):

@@ -16,7 +16,7 @@
 
 - Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CJS-1.7](#cjs-17-intentional-overlap-non-duplication-discipline); [CJS-1.8](#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail); [CJS-1.8.1](#cjs-181-implementation-boundary-primary-owner-to-cjs-seam).
-- Read with: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer) (*stricter-wins*).
+- Read with: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#843-incorporation-layer) (*stricter-wins*).
 
 </details>
 
@@ -54,7 +54,7 @@ Domain-layer overlap discipline: apply [Institutions overlap discipline](../corp
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-1.8**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-1.7**; **CJS-1.8.1**; [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer) (*stricter-wins*).
+- Read with: **CJS-1.8**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-1.7**; **CJS-1.8.1**; [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#843-incorporation-layer) (*stricter-wins*).
 - Downstream: [CJS-1.8.1 Implementation boundary (primary owner to CJS seam)](#cjs-181-implementation-boundary-primary-owner-to-cjs-seam).
 
 </details>
@@ -75,11 +75,11 @@ When CJS text seems to conflict with a **primary owner** section, apply **CJS-1.
 When that boundary does not resolve the conflict, use this order:
 
 1. The Sentient Constitution and core definitions, including **Chapter Sixteen**.
-2. The canonical owner meaning in **CJS**, **CS**, **CI**, or **CF**, as routed by **CJS-0.1** (*Topic router (stable IDs)*) and the [Preamble — constitutional owner register](../core_00_preamble.md#constitutional-owner-register).
+2. The canonical owner meaning in **CJS**, **CS**, **CI**, or **CF**, as routed by **CJS-0.1** (*Topic router (stable IDs)*) and the [Preamble — constitutional owner register](../core_00_preamble.md#4-principles-definitions-and-rights).
 3. The **Tier 1** CJS abstraction stated in this section.
 4. Local shorthand, examples, summaries, or other drafting convenience text, as described in **CJS-1.3** (*Shared implementation-corpus preamble contract*).
 
-Do not use a broad reading of CJS to change, shrink, expand, or move a rule that belongs to a canonical owner. If the conflict is still unclear after applying this order, do not treat the broader CJS reading as controlling. Send the question to the canonical owner named in **CJS-0.1**, including the forum owner in **CF** where forum routing, forum authority, or Chapter Eleven procedure is affected, and update the CJS pointer once the owner clarifies it. For stricter-wins between two adopted implementation standards on the same risk, read [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins).
+Do not use a broad reading of CJS to change, shrink, expand, or move a rule that belongs to a canonical owner. If the conflict is still unclear after applying this order, do not treat the broader CJS reading as controlling. Send the question to the canonical owner named in **CJS-0.1**, including the forum owner in **CF** where forum routing, forum authority, or Chapter Eleven procedure is affected, and update the CJS pointer once the owner clarifies it. For stricter-wins between two adopted implementation standards on the same risk, read [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#843-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins).
 
 Domain-layer read-with contracts: apply [Institutions read-with pointers](../corpus_institutions/ci_00_registry_and_reading_rules.md#institutions-read-with-pointers), [Forums read-with pointers](../corpus_forum/cf_00_registry_and_reading_rules.md#forums-read-with-pointers), and [Systems read-with pointers](../corpus_systems/cs_00_registry_and_reading_rules.md#systems-read-with-pointers) in the respective registry annexes.
 
@@ -89,7 +89,7 @@ Domain-layer read-with contracts: apply [Institutions read-with pointers](../cor
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.8](#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail); [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-1.7](#cjs-17-intentional-overlap-non-duplication-discipline); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction).
-- Read with: **CJS-1.8.1**; **CJS-1.1**; **CJS-1.7**; **CJS-1.8**; **CJS-0.3**; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer) (*stricter-wins*).
+- Read with: **CJS-1.8.1**; **CJS-1.1**; **CJS-1.7**; **CJS-1.8**; **CJS-0.3**; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#843-incorporation-layer) (*stricter-wins*).
 
 </details>
 
@@ -102,10 +102,10 @@ Under the identifier and definition-home rules in **CJS-1.1** (*Section identifi
 When revising **CJS** joint-structure text:
 - keep **CS**, **CI**, or **CF** **primary owner** requirements in those files;
 - keep read-with restatements short; and
-- preserve **oDef** / **CJS-3** (*operational cluster library*) citations so references remain traceable under [CJS-0.3](cjs_00_registry_and_reading_rules.md#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable identifiers, edition alignment, and drafting notes*); stricter-wins remains [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins).
+- preserve **oDef** / **CJS-3** (*operational cluster library*) citations so references remain traceable under [CJS-0.3](cjs_00_registry_and_reading_rules.md#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable identifiers, edition alignment, and drafting notes*); stricter-wins remains [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#843-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins).
 
 ---
 
 **Previous file:** [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md)
 
-**Next file:** [cjs_01_odef_parse.md](cjs_01_odef_parse.md)
+**Next file:** [cjs_05_odef_parse_mechanics.md](cjs_05_odef_parse_mechanics.md)

@@ -30,7 +30,7 @@ CJS3_FILES = (
     "corpus_joint_structure/cjs_03c_continuity_operations.md",
     "corpus_joint_structure/cjs_03i_integrative_operations.md",
 )
-CJS3_PROCESS_HOME = "corpus_joint_structure/cjs_03_audit_process.md"
+CJS3_PROCESS_HOME = "corpus_joint_structure/cjs_03u_audit_process.md"
 
 CH01_FILES = (
     "core_00_preamble.md",

@@ -172,6 +172,23 @@ Constitutional lane
 - **What must hold**
   - **Primary failure:** A lane if it is undefined, merged, understaffed, over-concentrated, or staffed in a way that defeats separation, auditability, challenge, succession, or binding accountability.
 
+<a id="critical-system-steward"></a>
+Critical system steward
+
+*In plain terms: a critical system steward is a load-bearing stewardship role: an organization a classified critical system — or a material dependency of one — cannot run, recover, or be governed without, and that has no substitute in time.*
+
+- **What it is**
+  - **In scope:** A critical system steward is a [Stewardship role](#stewardship-role) held by an organization whose operation, governance, or continuity is a **non-substitutable or operationally required** dependency for the **operation, recovery, or governance** of a classified critical system, or of a material dependency of one. The organization is an organizational dependency for functioning, maintenance, recovery, or oversight. **Failure, withdrawal, capture, or degradation** would **materially impair** those systems within required operational or recovery timeframes. Systems-layer admission tests remain in [CS-4.2 Classification as steward](../corpus_systems/cs_04_critical_system_stewardship.md#cs-4-2-classification-as-steward).
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in critical system steward; [Stewardship](../core_05_band_continuity.md#stewardship-constitutional) as the principle-layer orientation; [Stewardship role](#stewardship-role) as the generic joint role without that load-bearing dependency.
+<a id="critical-system-steward-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** the affected system's [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional), the owner-file relationship tests in [CS-4.2](../corpus_systems/cs_04_critical_system_stewardship.md#cs-4-2-classification-as-steward), and [Dependency](../core_05_band_continuity.md#dependency) substitutability, recovery time, and exit cost under **CJS-3.16** (*dependency integrity and disclosure terms*)
+
+    **Primary assessment:** Reviewers must verify that the System Classification Record and [CS-4.2](../corpus_systems/cs_04_critical_system_stewardship.md#cs-4-2-classification-as-steward) relationship tests admit the organization, that it actually operates, governs, recovers, or holds material authority over the affected system or dependency, and that failure, withdrawal, capture, or degradation would materially impair operation, recovery, or governance within the published required timeframes.
+<a id="critical-system-steward-c"></a>
+- **What must hold**
+  - **Primary failure:** Title, contract, org chart, or self-description treated as critical-system-steward status without the functional dependency; a non-substitutable or operationally required organization treated as an ordinary vendor; or a lower classification used to avoid the owner-file overlay where [CS-4.2](../corpus_systems/cs_04_critical_system_stewardship.md#cs-4-2-classification-as-steward) would admit the organization.
+
 <a id="delegated-body-and-forum-role-pointer"></a>
 Delegated body and forum-role pointer
 
@@ -297,7 +314,7 @@ Stewardship role
 *In plain terms: a stewardship role carries ongoing care, maintenance, governance, risk control, or constitutional-protection duties for a system, institution, lane, forum function, resource flow, or dependent community.*
 
 - **What it is**
-  - **In scope:** A stewardship role carries ongoing care, maintenance, governance, risk control, or constitutional-protection duties for a system, institution, lane, forum function, resource flow, or dependent community.
+  - **In scope:** A stewardship role carries ongoing care, maintenance, governance, risk control, or constitutional-protection duties for a system, institution, lane, forum function, resource flow, or dependent community. Load-bearing organizational stewardship of classified critical systems is the [Critical system steward](#critical-system-steward) specialization.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in stewardship role.
 <a id="stewardship-role-a"></a>
 - **How to measure and assess**
@@ -352,7 +369,7 @@ Use this compass before applying any **oDef** / **CJS-3** (*Implementation and c
 
 **Finding profile shorthand (non-operative).** Each cluster's **Default profile** is a starter label for a material **non-compliance** finding that arises under that cluster's operational constraints. The code names which constitutional leg and aim the finding most concerns and which governance layer it primarily sits in — for routing and audits, not as a pass/fail or standing verdict. Code key: **O** Oversight · **P** Participation · **A** Accountability · **T** Timeliness · **INT** integrative cross-leg; **F** Flourishing · **C** Continuity aim; **CCL** constitutional contract layer · **SSP** stakeholder system participation · **INT** integrative layer. Canonical field rules: [Non-Compliance Finding Profile](../core_05_band_accountability.md#non-compliance-finding-profile). Constitutional frame: [Chapter Three, section 3](../core_02-03_definition_mechanics.md#3-non-compliance-finding-profiles). Adjust the default when facts require; add **failure character** and **severity tier** per finding.
 
-**Preamble measurement routing (non-operative).** **oDef** / **CJS-3** (*cross-implementation operational terms*) clusters implement [Preamble §2 Measurements Overview](../core_00_preamble.md#measurements-overview) constitutional measurement categories — not a separate taxonomy. Default orientation: **Oversight** clusters → Oversight measurement family; **Participation** clusters → Participation measurement family; **Accountability** clusters → Accountability measurement family and Timeliness measurement family where resolution-pathway discipline applies; **Continuity** band clusters → Continuity measurement family. Integrative Materiality ([Materiality Determination](../core_05_band_oversight.md#materiality-determination)) scales all categories. Technical measurement methods must remain traceable to these categories via [Chapter Seven](../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) and [Preamble §3.1](../core_00_preamble.md#from-measurement-to-evidence-and-remedy).
+**Preamble measurement routing (non-operative).** **oDef** / **CJS-3** (*cross-implementation operational terms*) clusters implement [Preamble §2 Measurements Overview](../core_00_preamble.md#2-the-measurements) constitutional measurement categories — not a separate taxonomy. Default orientation: **Oversight** clusters → Oversight measurement family; **Participation** clusters → Participation measurement family; **Accountability** clusters → Accountability measurement family and Timeliness measurement family where resolution-pathway discipline applies; **Continuity** band clusters → Continuity measurement family. Integrative Materiality ([Materiality Determination](../core_05_band_oversight.md#materiality-determination)) scales all categories. Technical measurement methods must remain traceable to these categories via [Chapter Seven](../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) and [Preamble §3.1](../core_00_preamble.md#from-measurement-to-evidence-and-remedy).
 
 **Cluster map**
 
@@ -361,7 +378,7 @@ Each **ID** below is both the **CJS-3** section address and the **oDef** ID (**o
 | ID | Title | Tetrad leg / band | Primary aim | Default profile | Chapter One § basis | Cross-leg note | Continuity disambiguation | Prior ID |
 |---|---|---|---|---|---|---|---|---|
 | **CJS-3.2** / **oDef.2** (*Oversight: reflexive transparency and accountability terms*) | Oversight: reflexive transparency and accountability terms | Oversight | Flourishing | O·F·SSP | Chapter One §8.2, §4, §6.2, §12.1, §12.2 | — | — | was **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*) |
-| **CJS-3.3** / **oDef.3** (*Oversight: audit process, auditability, and reconstructability*) | Oversight: audit process home (what / why / how / when) plus auditability and reconstructability terms | Oversight | Flourishing | O·F·SSP | Chapter One §8.2, §4, §12.1, §12.2 | — | Process home: [cjs_03_audit_process.md](cjs_03_audit_process.md#cjs-33-audit-process-home); OP annex retained under same cluster ID in [cjs_03o](cjs_03o_oversight_operations.md#cjs-33-auditability-annex). | was **CJS-3.9** (*Participation: salience integrity and attention-allocation terms*) |
+| **CJS-3.3** / **oDef.3** (*Oversight: audit process, auditability, and reconstructability*) | Oversight: audit process home (what / why / how / when) plus auditability and reconstructability terms | Oversight | Flourishing | O·F·SSP | Chapter One §8.2, §4, §12.1, §12.2 | — | Process home: [cjs_03u_audit_process.md](cjs_03u_audit_process.md#cjs-33-audit-process-home); OP annex retained under same cluster ID in [cjs_03o](cjs_03o_oversight_operations.md#cjs-33-auditability-annex). | was **CJS-3.9** (*Participation: salience integrity and attention-allocation terms*) |
 | **CJS-3.4** / **oDef.4** (*Oversight: tiered transparency and audit-access terms*) | Oversight: tiered transparency and audit-access terms | Oversight | Flourishing | O·F·SSP | Chapter One §8.2, §11.2, §11.4, §12.1, §8 | — | — | was **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*) |
 | **CJS-3.5** / **oDef.5** (*Oversight: independent verification and claim-integrity terms*) | Oversight: independent verification and claim-integrity terms | Oversight | Flourishing | O·F·SSP | Chapter One §8.2, §3.3, §4, §12.1, §12.2 | — | — | was **CJS-3.11** (*Accountability: distributed and proportional authority terms*) |
 | **CJS-3.6** / **oDef.6** (*Oversight: integrity assurance and resilience operations*) | Oversight: integrity assurance and resilience operations | Oversight | Continuity | O·C·SSP | Chapter One §8.1, §8.2, §12.1, §12.2 | integrative with **Accountability** where contest, correction, and assurance routing are implicated | Distinguish constitutional **Continuity** aim from operational resilience or protocol continuity. | was **CJS-3.8** (*Participation: comprehensibility and cognitive accessibility terms*) |
@@ -387,6 +404,6 @@ Each **ID** below is both the **CJS-3** section address and the **oDef** ID (**o
 
 ---
 
-**Previous file:** [cjs_02_support_hosting_classification.md](cjs_02_support_hosting_classification.md)
+**Previous file:** [cjs_06_support_hosting_classification.md](cjs_06_support_hosting_classification.md)
 
-**Next file:** [cjs_03_audit_process.md](cjs_03_audit_process.md)
+**Next file:** [cjs_03u_audit_process.md](cjs_03u_audit_process.md)

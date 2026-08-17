@@ -15,7 +15,6 @@
 **CS-2, Part B**, owns **data classifications** (**Type E** through **Type S**, including **Type O**). Classification determination and cross-domain governance are in **[Part A](cs_02_a_information_types_and_handling.md#cs-2-part-a-information-types-and-handling)**.
 *In plain terms: Part B names each data type and groups them by how they are usually shared — open, audit-only, restricted, or off-limits — then states each type’s content rules.*
 
-<a id="8-data-classifications"></a>
 <a id="cs-2-8-data-classifications"></a>
 ## CS-2.8 Data classifications
 
@@ -43,7 +42,7 @@ These type letters name different kinds of data and how they are usually shared 
 <a id="81-type-e-environmental-emergency-and-survival-coordination-data"></a>
 ### 8.1 Type E: Environmental, emergency, and survival-coordination data
 
-**Accessibility posture:** Open / accessible by default (strong presumption) ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
+**Accessibility posture:** Open / accessible by default (strong presumption) ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#cs-2-8-data-classifications)).
 
 *In plain terms: data sentients need to stay safe and coordinate help — environment, infrastructure, emergencies — should stay open and useful unless publishing it would itself cause serious harm.*
 
@@ -95,7 +94,7 @@ These type letters name different kinds of data and how they are usually shared 
 <a id="82-type-g-governance-and-operational-source-data"></a>
 ### 8.2 Type G: Governance and operational source data
 
-**Accessibility posture:** Audit-accessible, not public ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
+**Accessibility posture:** Audit-accessible, not public ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#cs-2-8-data-classifications)).
 
 *In plain terms: the sensitive internal records of how a system is run, what it decides, what can go wrong, and how it is challenged — fully open to real audit, but not dumped into public view. What the public must see is Type O.*
 
@@ -122,7 +121,7 @@ These type letters name different kinds of data and how they are usually shared 
 
 - Topic routing (mandatory read-with): [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands) (*Access-posture bands* — audit-accessible, not public).
 - Topic routing (mandatory read-with): [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) (*Tiered transparency and audit access*).
-- Topic routing (mandatory read-with): [Part A §2](cs_02_a_information_types_and_handling.md#2-determination-of-classification) (*Determination of classification* — most-restrictive applicable protections).
+- Topic routing (mandatory read-with): [Part A §2](cs_02_a_information_types_and_handling.md#cs-2-2-determination-of-classification) (*Determination of classification* — most-restrictive applicable protections).
 - Read with: **Part B — Type O** (*Public Oversight Baseline Disclosure*); **CJS-3.3** (*auditability and reconstructability terms*); **CJS-3.4** (*tiered transparency and audit-access terms*).
 
 </details>
@@ -136,10 +135,10 @@ These type letters name different kinds of data and how they are usually shared 
 **Access.** Systems must:
 - provide **Type G** data to authorized auditors, oversight bodies, and other qualified reviewers in a manner that is **understandable**, **documented**, **attributable**, **versioned** where material changes occur, and **retained** for a duration proportional to system impact and dependency
 - publish access gates, eligibility rules, and qualification routes for audit as **Type O** where they govern who may reach **Type G** source
-- preserve audit sufficiency and publish the strongest feasible **Type O** substitute where [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) applies, when raw **Type G** disclosure is inappropriate under [Part A §7](cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems) or more-restrictive applicable typing under [Part A §2](cs_02_a_information_types_and_handling.md#2-determination-of-classification)
+- preserve audit sufficiency and publish the strongest feasible **Type O** substitute where [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) applies, when raw **Type G** disclosure is inappropriate under [Part A §7](cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems) or more-restrictive applicable typing under [Part A §2](cs_02_a_information_types_and_handling.md#cs-2-2-determination-of-classification)
 - **limit further restriction of audit access** so that:
   - it does **not** defeat Disclosure posture or the **audit-accessible, not public** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands))
-  - further restriction is permitted only where more-restrictive applicable typing under [Part A §2](cs_02_a_information_types_and_handling.md#2-determination-of-classification) or [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) (*Tiered transparency and audit access*) requires it
+  - further restriction is permitted only where more-restrictive applicable typing under [Part A §2](cs_02_a_information_types_and_handling.md#cs-2-2-determination-of-classification) or [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) (*Tiered transparency and audit access*) requires it
   - further restriction is **not** used for convenience, reputational protection, or power preservation
 
 **Handling — prohibited.** Systems managing **Type G** data must **not:**
@@ -151,13 +150,13 @@ These type letters name different kinds of data and how they are usually shared 
 <a id="type-o-open-public-baseline-disclosure-data"></a>
 ### 8.3 Type O: Open public oversight baseline disclosure data
 
-**Accessibility posture:** Open / accessible by default (strong presumption for Public Oversight Baseline Disclosure release) ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
+**Accessibility posture:** Open / accessible by default (strong presumption for Public Oversight Baseline Disclosure release) ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#cs-2-8-data-classifications)).
 
 *In plain terms: [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) — what must be published so sentients can understand high-impact systems, including a strong public substitute when Type G, Type E, or other raw private or non-baseline records cannot be released as that disclosure.*
 
 **Definition:** Data released or required to be released as [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) for transparency, oversight, and contestability — including lawful substitutes where **Type G**, **Type E**, or other source records remain non-public, non-baseline, or otherwise restricted. Canonical meaning is in Chapter Five; this type owns systems-layer typing and handling.
 
-**Class A/B/C public-baseline content.** Where the [Type O baseline for Class A/B/C](cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems) applies, **Type O** carries [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) — the **public explanation** of chartered and certified scope — mapped under Part A §7 from the governing [Charter](../core_05_band_continuity.md#charter) (or equivalent), assigned class, and observed [System Boundaries](../core_05_band_continuity.md#system-boundaries) — not a second taxonomy. It includes information sentients need to understand:
+**Class A/B/C public-baseline content.** Where the [Type O baseline for Class A/B/C](cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems) applies, **Type O** carries [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) — the **public explanation** of chartered and certified scope — mapped under Part A §7 from the governing [Charter](../core_05_band_continuity.md#charter) (or equivalent), assigned class, and observed [System Boundaries](../core_05_band_continuity.md#system-boundaries) — not a second taxonomy. It includes information sentients need to understand:
 - purpose and what the system does
 - how it is classified
 - dependency structure and what depends on it
@@ -196,9 +195,9 @@ Baseline visibility into purpose, operational status, material risk, performance
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Topic routing (mandatory read-with): [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands) (*Access-posture bands* — open / accessible by default).
-- Topic routing (mandatory read-with): [Part A §7](cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems) (*Type O baseline for Class A/B/C systems* — scoped by Charter, class, and System Boundaries; verified under Chapter Seven).
+- Topic routing (mandatory read-with): [Part A §7](cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems) (*Type O baseline for Class A/B/C systems* — scoped by Charter, class, and System Boundaries; verified under Chapter Seven).
 - Topic routing (mandatory read-with): [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) (*Tiered transparency and audit access*).
-- Topic routing (mandatory read-with): [Part A §2](cs_02_a_information_types_and_handling.md#2-determination-of-classification) (*Determination of classification* — most-restrictive applicable protections).
+- Topic routing (mandatory read-with): [Part A §2](cs_02_a_information_types_and_handling.md#cs-2-2-determination-of-classification) (*Determination of classification* — most-restrictive applicable protections).
 - Read with: [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure); [Charter](../core_05_band_continuity.md#charter); [System Boundaries](../core_05_band_continuity.md#system-boundaries); [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional); [System Certification Record](../core_05_band_continuity.md#system-certification-record-constitutional); [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional); [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional); [Chapter Seven §4](../core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Chapter Seven Part B §11](../core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*Certification record*); [Transparency](../core_05_band_oversight.md#transparency); **Article XV** (*Audit, Transparency, and Independent Verification*).
 
 </details>
@@ -212,7 +211,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 **Access.** Systems must:
 - provide **Type O** data in a manner that is **understandable**, **documented**, **attributable**, **versioned** where material changes occur, and **retained** for a duration proportional to system impact and dependency
 - where lawful online publication infrastructure exists to support class-appropriate access, make **Type O** data **freely available online** — without paywalls or insider-only substitutes for [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure)
-- **limit redaction** so it does **not** prevent meaningful accountability at the Public Oversight Baseline Disclosure tier; limited redaction is permitted only where more-restrictive applicable typing under [Part A §2](cs_02_a_information_types_and_handling.md#2-determination-of-classification) or [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) / [§7](cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems) requires it — and only where a lawful **Type O** substitute still preserves meaningful accountability
+- **limit redaction** so it does **not** prevent meaningful accountability at the Public Oversight Baseline Disclosure tier; limited redaction is permitted only where more-restrictive applicable typing under [Part A §2](cs_02_a_information_types_and_handling.md#cs-2-2-determination-of-classification) or [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) / [§7](cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems) requires it — and only where a lawful **Type O** substitute still preserves meaningful accountability
 
 **Handling — prohibited.** Systems managing **Type O** data must **not:**
 - withhold **Type O** material behind paywalls, account barriers beyond reasonable identity verification for restricted tiers, or insider-only distribution substitutes for [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure)
@@ -224,7 +223,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 <a id="84-type-h-historical-relational-transactional-and-participation-data"></a>
 ### 8.4 Type H: Historical, relational, transactional, and participation data
 
-**Accessibility posture:** Restricted by default ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
+**Accessibility posture:** Restricted by default ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#cs-2-8-data-classifications)).
 
 *In plain terms: logs of what sentients and systems did together — keep only what you need, and do not turn them into surveillance or a back door into someone's identity or inner life.*
 
@@ -282,7 +281,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 <a id="85-type-i-identity-and-attribution-data"></a>
 ### 8.5 Type I: Identity and attribution data
 
-**Accessibility posture:** Restricted by default ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
+**Accessibility posture:** Restricted by default ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#cs-2-8-data-classifications)).
 
 *In plain terms: who is who — credentials, identifiers, and other data that ties a sentient to an identity, including sensitive private records such as medical or financial data when they identify someone — needed for verification and accountability, but not for tracking sentients everywhere or locking them into one identity forever.*
 
@@ -332,7 +331,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 <a id="86-type-n-neurocognitive-and-internal-data"></a>
 ### 8.6 Type N: Neurocognitive and internal data
 
-**Accessibility posture:** Non-accessible by default ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
+**Accessibility posture:** Non-accessible by default ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#cs-2-8-data-classifications)).
 
 *In plain terms: thoughts, feelings, and other inner states — off-limits without real consent, or a narrowly justified override that can be checked.*
 
@@ -389,7 +388,7 @@ Shared consent-integrity and security-/intelligence-use record duties are in [Pa
 <a id="87-type-s-safety-security-and-restricted-investigation-data"></a>
 ### 8.7 Type S: Safety, security, and restricted investigation data
 
-**Accessibility posture:** Restricted by default (strong presumption); **time-bound** and **review-bound** ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#8-data-classifications)).
+**Accessibility posture:** Restricted by default (strong presumption); **time-bound** and **review-bound** ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#cs-2-8-data-classifications)).
 
 *In plain terms: temporary security and investigation secrets — allowed only while needed to prevent serious harm, with a clock and review, not a permanent black box.*
 

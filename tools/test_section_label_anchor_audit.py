@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tests for section-label / anchor current-numbering aliases."""
+"""Tests for section-label / current-numbering fragment ids."""
 
 from __future__ import annotations
 
@@ -81,13 +81,12 @@ class SectionLabelAnchorTests(unittest.TestCase):
                 msg="\n".join(errors),
             )
 
-    def test_current_numbering_alias_clears_fossil_fragment(self) -> None:
+    def test_current_numbering_id_satisfies_section_label(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
             (root / "core_09-09_standing_integration.md").write_text(
                 "<a id=\"54-special-violation-rules\"></a>\n"
                 "#### 5.4 Special violation rules\n\n"
-                "<a id=\"411-duty-to-resist-unlawful-or-unconstitutional-instructions\"></a>\n"
                 "<a id=\"54-duty-to-resist-unlawful-or-unconstitutional-instructions\"></a>\n"
                 "**Duty to resist.**\n",
                 encoding="utf-8",
@@ -95,7 +94,7 @@ class SectionLabelAnchorTests(unittest.TestCase):
             (root / "core_01_c_stewardship_capacity_principles.md").write_text(
                 "[Chapter Nine §5.4 Duty to resist]"
                 "(core_09-09_standing_integration.md"
-                "#411-duty-to-resist-unlawful-or-unconstitutional-instructions)\n",
+                "#54-duty-to-resist-unlawful-or-unconstitutional-instructions)\n",
                 encoding="utf-8",
             )
             errors = audit(root)

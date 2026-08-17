@@ -15,7 +15,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*); **Article XXI** (*Root Cause Analysis and Adaptive Response*); [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
-- Downstream: [§1](#1-purpose-and-role); [§2](#2-system-health-and-degradation-awareness); [§3](#3-adaptive-allocation-requirement); [§9](#9-self-healing-and-recovery-path-integration).
+- Downstream: [§1](#cs-8-1-purpose-and-role); [§2](#cs-8-2-system-health-and-degradation-awareness); [§3](#cs-8-3-adaptive-allocation-requirement); [§9](#cs-8-9-self-healing-and-recovery-path-integration).
 - Read with: **CS-8**; **CS-9**; **CS-5**; **CS-6**; **Article XII-F**.
 
 </details>
@@ -37,7 +37,6 @@
 This file is the systems implementation home for **CS-8** (*Adaptive sustainability and ecosystem resilience*).
 
 *In plain terms: **CS-8** covers noticing strain early and responding at the cause rather than the symptom. Systems must map what they depend on, monitor whether that base is degrading, and adapt allocation before a slow decline becomes an emergency.*
-<a id="1-purpose-and-role"></a>
 <a id="cs-8-1-purpose-and-role"></a>
 ## CS-8.1 Purpose and role
 
@@ -47,7 +46,6 @@ This file specifies implementation-file-level adaptive allocation, sustainabilit
 
 Sentient Constitution Chapter Six, **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article XXI** (*Root Cause Analysis and Adaptive Response*), establish rights to transparent dependency and resource flows, root-cause-aligned correction, and adaptive response. This file specifies **health indicators**, **trigger conditions**, **cause-aligned allocation patterns**, and **ecosystem interdependence mechanics**; it does not restate those articles in full.
 
-<a id="2-system-health-and-degradation-awareness"></a>
 <a id="cs-8-2-system-health-and-degradation-awareness"></a>
 ## CS-8.2 System health and degradation awareness
 
@@ -68,7 +66,6 @@ All systems must continuously evaluate operational condition through measurable 
 - be resistant to manipulation or selective reporting;
 - include defined thresholds or conditions that trigger adaptive processes under **§3** of this file.
 
-<a id="3-adaptive-allocation-requirement"></a>
 <a id="cs-8-3-adaptive-allocation-requirement"></a>
 ## CS-8.3 Adaptive allocation requirement
 
@@ -123,7 +120,6 @@ All interventions must be **continuously evaluated for effectiveness** and **adj
 - expansion of diagnostic scope;
 - escalation under **Article XV-A** (*Auditability and Observable Evidence*) (auditability and observable evidence), **Article XV** (*Audit, Transparency, and Independent Verification*)'s transparency and verification-access provisions, **Article XXIII-A** (*Justice Objective and Scope*) (justice objective and scope), or **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) (Stakeholder System Participation), where appropriate.
 
-<a id="4-ecosystem-interdependence"></a>
 <a id="cs-8-4-ecosystem-interdependence"></a>
 ## CS-8.4 Ecosystem interdependence
 
@@ -150,7 +146,6 @@ Account for impact on shared infrastructure, dependents, and overall stability (
 
 **Corrective measures** must be pursued in accordance with **restorative and systemic realignment principles** (**Article X-A** (*Non-Imposition and Consent in Association*)).
 
-<a id="5-ecosystem-risk-response"></a>
 <a id="cs-8-5-ecosystem-risk-response"></a>
 ## CS-8.5 Ecosystem risk response
 
@@ -169,7 +164,6 @@ Sustained failure to respond to ecosystem-level risk may trigger review and inte
 - concentration of resources or dependencies;
 - loss of redundancy or diversity.
 
-<a id="6-anti-concentration-and-resilience"></a>
 <a id="cs-8-6-anti-concentration-and-resilience"></a>
 ## CS-8.6 Anti-concentration and resilience
 
@@ -179,7 +173,6 @@ To preserve long-term resilience, systems must monitor for **excessive concentra
 
 **Persistent concentration** that degrades system resilience or ecosystem stability may trigger **system-level review** under **Article XV-A** (*Auditability and Observable Evidence*) and **Article XXIII-A** (*Justice Objective and Scope*) where auditability or justice review is implicated. It may trigger **review of participant standing** (**Article XVIII-A** (*Standing Distinction*)) where such concentration is attributable to identifiable actors or coordinated behavior.
 
-<a id="7-transparency-and-feedback"></a>
 <a id="cs-8-7-transparency-and-feedback"></a>
 ## CS-8.7 Transparency and feedback
 
@@ -189,7 +182,6 @@ Expose sufficient detail for independent verification that allocation adjustment
 
 Adaptive allocation behaviors must be **transparent, auditable, and historically traceable**. That includes visibility into allocation changes over time, their triggers, and impacts on system and ecosystem health.
 
-<a id="8-governance-integration"></a>
 <a id="cs-8-8-governance-integration"></a>
 ## CS-8.8 Governance integration
 
@@ -197,7 +189,6 @@ Adaptive allocation behaviors must be **transparent, auditable, and historically
 
 Adaptive allocation remains subject to **Article XV-A** (*Auditability and Observable Evidence*), **Article XVI-A** (*Lifecycle Governance and Environment Separation*), and **Article XII-B** (*Right to Challenge, Review, and Redress*) where auditability, lifecycle governance, or challenge rights are implicated. No automated or adaptive mechanism may override [Constitutional Constraints](../core_05_band_integrative.md#constitutional-constraint) or eliminate auditability or contestability.
 
-<a id="9-self-healing-and-recovery-path-integration"></a>
 <a id="cs-8-9-self-healing-and-recovery-path-integration"></a>
 ## CS-8.9 Self-healing and recovery-path integration
 
@@ -214,7 +205,6 @@ Adaptive allocation, cause-aligned mitigation, and ecosystem risk response under
 
 Where this subsection is silent, **CS-5 §9**, Chapter One §4.1, **Article XII-F** (*Resilience and Self-Healing Baseline*), and the Chapter Five definition govern. This subsection does not create rights and must not be read to narrow those homes.
 
-<a id="10-regenerative-alignment-circular-material-flows-and-bioregional-stewardship-implementation-profile"></a>
 <a id="cs-8-10-regenerative-alignment-circular-material-flows-and-bioregional-stewardship-implementation-profile"></a>
 ## CS-8.10 Regenerative alignment, circular material flows, and bioregional stewardship (implementation profile)
 

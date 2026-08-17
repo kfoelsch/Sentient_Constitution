@@ -24,7 +24,7 @@ You do **not** need to read this folder front to back. Most readers open one cit
 | If you are… | Start here |
 |---|---|
 | **New to this layer** — you want the shared glue among systems, institutions, and forums | Keep reading this guide, then open [CJS-1.0 Purpose of this layer](cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) |
-| **Topic-driven** — you know the subject (forum ops, institutional governance, cross-layer integrity) | [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md) → primary owner section; maintainer table: [CJS-0.1](cjs_00_topic_router.md#cjs-01-cross-file-routing) |
+| **Topic-driven** — you know the subject (forum ops, institutional governance, cross-layer integrity) | [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md) → primary owner section; maintainer table: [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) |
 | **Domain-driven** — you care about forums, institutions, or systems | [corpus_forum.md](../corpus_forum.md), [corpus_institutions.md](../corpus_institutions.md), or [corpus_systems.md](../corpus_systems.md) |
 | **Following a citation** — a file sent you to **CJS-1.1**, **CJS-2.3**, or another labeled section | Open that section only, not the whole family |
 | **Cross-cutting operational terms** (**oDef**) — evidence, procedure, dependency, participation, failure handling | [CJS-3 / oDef library](cjs_03_cross_implementation_operational_terms.md) (**oDef.*n*** = **CJS-3.*n***) |
@@ -71,13 +71,13 @@ Labels tell you which book and which shelf. Constitutional dictionary entries (*
 |------------------------|---------|
 | Look up what a constitutional word means | **Chapter Five** (with Chapters Two through Four for O/M/A/C mechanics). Binding home: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) |
 | Look up a shared cross-layer how-to term | **oDef** / [CJS-3](cjs_03_cross_implementation_operational_terms.md). Binding homes: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) and [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) |
-| Learn how to read an **oDef** entry | [CJS-1.13](cjs_01_odef_parse.md#cjs-113-operational-structure-and-subsection-local-terminology) and [CJS-1.14](cjs_01_odef_parse.md#cjs-114-operational-clusters) |
-| Find which file owns a topic | [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); maintainer table [CJS-0.1](cjs_00_topic_router.md#cjs-01-cross-file-routing) (*Cross-file routing*) |
+| Learn how to read an **oDef** entry | [CJS-1.13](cjs_05_odef_parse_mechanics.md#cjs-113-operational-structure-and-subsection-local-terminology) and [CJS-1.14](cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters) |
+| Find which file owns a topic | [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); maintainer table [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*Cross-file routing*) |
 | Apply more than one of **CJS**, **CS**, **CI**, and **CF** to the same facts | [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) and [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) |
 
 ## When more than one layer applies
 
-The default reading stack and combined-satisfaction rule live in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction). Stricter-wins among jointly applicable incorporated obligations lives in [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#833-incorporation-layer). The shared implementation-corpus contract that **CS**, **CI**, and **CF** cite is [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract).
+The default reading stack and combined-satisfaction rule live in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction). Stricter-wins among jointly applicable incorporated obligations lives in [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#843-incorporation-layer). The shared implementation-corpus contract that **CS**, **CI**, and **CF** cite is [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract).
 
 This guide does not restate those duties.
 
@@ -91,17 +91,17 @@ Each **oDef** entry uses three reader-facing headers:
 
 Where several entries appear together as a cluster, the head entry and the ones beneath it form one compound definition. Reading one component alone will give the wrong answer.
 
-Binding parse rules: [CJS-1.13](cjs_01_odef_parse.md#cjs-113-operational-structure-and-subsection-local-terminology) and [CJS-1.14](cjs_01_odef_parse.md#cjs-114-operational-clusters).
+Binding parse rules: [CJS-1.13](cjs_05_odef_parse_mechanics.md#cjs-113-operational-structure-and-subsection-local-terminology) and [CJS-1.14](cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters).
 
 ## Map of CJS files
 
 | Family | What it covers | Typical reader | Start here |
 |---|---|---|---|
 | **Reader guide** (this file) | How to enter the layer | Average humans | this file |
-| **CJS-0** | Registry, identifier notes, topic router | Editors, auditors, readers who are lost | [cjs_00_registry_and_reading_rules.md](cjs_00_registry_and_reading_rules.md); topic router: [cjs_00_topic_router.md](cjs_00_topic_router.md) |
+| **CJS-0** | Registry, identifier notes, topic router | Editors, auditors, readers who are lost | [cjs_00_registry_and_reading_rules.md](cjs_00_registry_and_reading_rules.md) |
 | **CJS-1** | Scope, shared contract, identifiers | Editors, auditors; general readers when cited | [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) |
-| **CJS-1.7**–**CJS-1.8.1** | Drafting and seam contracts | Editors and auditors | [cjs_01_drafting_contracts.md](cjs_01_drafting_contracts.md) |
-| **CJS-1.13**–**CJS-1.14** | How to parse **oDef** entries | Anyone using **CJS-3** | [cjs_01_odef_parse.md](cjs_01_odef_parse.md) |
+| **CJS-1.7**–**CJS-1.8.1** | Drafting and seam contracts | Editors and auditors | [cjs_04_drafting_contracts.md](cjs_04_drafting_contracts.md) |
+| **CJS-1.13**–**CJS-1.14** | How to parse **oDef** entries | Anyone using **CJS-3** | [cjs_05_odef_parse_mechanics.md](cjs_05_odef_parse_mechanics.md) |
 | **CJS-2** | Specific joint interlocks | Topic-driven readers when routed | [cjs_02_specific_joint_interlocks.md](cjs_02_specific_joint_interlocks.md) |
 | **CJS-3** / **oDef** | Shared operational definitions | Readers needing joint how-to terms | [cjs_03_cross_implementation_operational_terms.md](cjs_03_cross_implementation_operational_terms.md) |
 
@@ -109,7 +109,7 @@ Come back to a CJS family file when a citation sends you there, when you need to
 
 ## Editors and auditors
 
-Seam and non-duplication contracts: [CJS-1.7](cjs_01_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline), [CJS-1.8](cjs_01_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail), and [CJS-1.8.1](cjs_01_drafting_contracts.md#cjs-181-implementation-boundary-primary-owner-to-cjs-seam). Maintainer drafting notes: [CJS-0.3](cjs_00_registry_and_reading_rules.md#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes). The authoritative router table in **CJS-0.1** is maintainer-only detail — not a reader door.
+Seam and non-duplication contracts: [CJS-1.7](cjs_04_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline), [CJS-1.8](cjs_04_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail), and [CJS-1.8.1](cjs_04_drafting_contracts.md#cjs-181-implementation-boundary-primary-owner-to-cjs-seam). Maintainer drafting notes: [CJS-0.3](cjs_00_registry_and_reading_rules.md#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes). The authoritative router table in **CJS-0.1** is maintainer-only detail — not a reader door.
 
 ---
 

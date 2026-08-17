@@ -29,11 +29,11 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 | Cluster | Section |
 |---|---|
 | **CJS-3.2** / **oDef.2** | Oversight: reflexive transparency and accountability terms |
-| **CJS-3.3** / **oDef.3** | Oversight: auditability and reconstructability terms (**OP annex** — process home is [cjs_03_audit_process.md](cjs_03_audit_process.md#cjs-33-audit-process-home)) |
+| **CJS-3.3** / **oDef.3** | Oversight: auditability and reconstructability terms (**OP annex** — process home is [cjs_03u_audit_process.md](cjs_03u_audit_process.md#cjs-33-audit-process-home)) |
 | **CJS-3.4** / **oDef.4** | Oversight: tiered transparency and audit-access terms (annex — including audit-process output disclosure) |
 | **CJS-3.5** / **oDef.5** | Oversight: independent verification and claim-integrity terms (annex) |
 | **CJS-3.6** / **oDef.6** | Oversight: integrity assurance and resilience operations |
-**Reader note.** For what auditing is, why / how / when to run it, and the sibling-mode map, start at the **[CJS-3.3 audit process home](cjs_03_audit_process.md#cjs-33-audit-process-home)**. This file keeps the machine-facing Oversight OP clusters.
+**Reader note.** For what auditing is, why / how / when to run it, and the sibling-mode map, start at the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33-audit-process-home)**. This file keeps the machine-facing Oversight OP clusters.
 
 ---
 
@@ -44,7 +44,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 - Read with: **CJS-3.10**; **CJS-3.3**; **CJS-3.4**; **CJS-3.5**; **CJS-3.15 and CJS-3.6**; **CJS-3.2 and CJS-3.6**.
 - Read with: **CJS-3.2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
 - Read with: **CJS-3.10 — Transparency and Disclosure**
-- Read with: **[CJS-3.3](cjs_03_audit_process.md#cjs-33-audit-process-home)** (*audit process home*)
+- Read with: **[CJS-3.3](cjs_03u_audit_process.md#cjs-33-audit-process-home)** (*audit process home*)
 - Read with: **CJS-3.4 — Tiered Transparency and Audit Access**
 - Read with: **CJS-3.5 — Independent Verification and Integrity of Claims**
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
@@ -243,11 +243,11 @@ Transparency, audit, and verification-integrity duties
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: this section's local auditability and reconstructability OP terms (**annex** to the **[CJS-3.3 audit process home](cjs_03_audit_process.md#cjs-33-audit-process-home)**).
+- Downstream: this section's local auditability and reconstructability OP terms (**annex** to the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33-audit-process-home)**).
 - Read with: **CJS-3.3**; **CJS-3.4**; **CJS-3.5**; **CJS-3.10**.
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router (stable IDs)*); primary owner **CJS-2.3**.
 - Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilie…*) in **CJS-0.1** (*Topic router (stable IDs)*); primary owner **CJS-3.6**.
-- Read with: **[CJS-3.3 audit process home](cjs_03_audit_process.md#cjs-33-audit-process-home)** — what / why / how / when; this section is the machine-facing annex only
+- Read with: **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33-audit-process-home)** — what / why / how / when; this section is the machine-facing annex only
 - Read with: **Article XV** (*Audit, Transparency, and Independent Verification*) and **Article XV-A** (*Auditability and Observable Evidence*) — Rights Floor
 - Read with: **CJS-3.4** (*tiered transparency and audit-access terms* — annex for access tiers and audit-output disclosure)
 - Read with: **CJS-3.5** (*independent verification and claim-integrity terms* — annex for claim checking)
@@ -275,7 +275,7 @@ Transparency, audit, and verification-integrity duties
 
 <br>
 
-*In plain terms: this is the machine-facing auditability checklist for **CJS-3.3** — not the readable process home. Start at the **[CJS-3.3 audit process home](cjs_03_audit_process.md#cjs-33-audit-process-home)** for what / why / how / when.*
+*In plain terms: this is the machine-facing auditability checklist for **CJS-3.3** — not the readable process home. Start at the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33-audit-process-home)** for what / why / how / when.*
 
 The guidepost **oDef** rules below are the compliance checklist for the process home. They do not replace the what / why / how / when guide. Tiered access and audit-output disclosure continue in **CJS-3.4**; independent claim verification continues in **CJS-3.5**.
 
@@ -371,7 +371,7 @@ Operational transparency and structured logging requirements
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: **CJS-3.4**; **CJS-3.3**; **CJS-3.5**; **CJS-3.20 and CJS-3.18**.
-- Read with: **CJS-3.3** (*audit process home* — what / why / how / when in [cjs_03_audit_process.md](cjs_03_audit_process.md#cjs-33-audit-process-home); this cluster is the access-tier and output-disclosure annex)
+- Read with: **CJS-3.3** (*audit process home* — what / why / how / when in [cjs_03u_audit_process.md](cjs_03u_audit_process.md#cjs-33-audit-process-home); this cluster is the access-tier and output-disclosure annex)
 - Read with: **CJS-3.4 — Tiered Transparency and Audit Access**
 - Read with: **CJS-3.5 — Independent Verification and Integrity of Claims**
 - Read with: **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
@@ -379,7 +379,7 @@ Operational transparency and structured logging requirements
 - Read with: **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: **Article XV** (*Audit, Transparency, and Independent Verification*) and **Article XV-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Internal-State Boundary and Type-N Protection*)
-- Read with: **`corpus_systems.md` CS-2 — Information types and handling** (**Type O**, **Type G**, access-posture bands, and [Part A §5.3](../corpus_systems/cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) / [§7](../corpus_systems/cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems))
+- Read with: **`corpus_systems.md` CS-2 — Information types and handling** (**Type O**, **Type G**, access-posture bands, and [Part A §5.3](../corpus_systems/cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) / [§7](../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems))
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: §8.2, §11.2, §11.4, §12.1, §8 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
@@ -399,9 +399,9 @@ Operational transparency and structured logging requirements
 
 <br>
 
-*In plain terms: this cluster is the access-tier and audit-output annex to the **[CJS-3.3 audit process home](cjs_03_audit_process.md#cjs-33-audit-process-home)** — not the process home itself.*
+*In plain terms: this cluster is the access-tier and audit-output annex to the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33-audit-process-home)** — not the process home itself.*
 
-Use this rule when public visibility, qualified review, forensic reconstruction, or disclosure of **audit-process outputs** depends on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, institutions, or implementation layers work together. For what auditing is, why / how / when to run it, start at **[CJS-3.3](cjs_03_audit_process.md#cjs-33-audit-process-home)**.
+Use this rule when public visibility, qualified review, forensic reconstruction, or disclosure of **audit-process outputs** depends on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, institutions, or implementation layers work together. For what auditing is, why / how / when to run it, start at **[CJS-3.3](cjs_03u_audit_process.md#cjs-33-audit-process-home)**.
 
 <a id="tiered-transparency-and-audit-access-terms"></a>
 tiered transparency and audit-access terms
@@ -586,7 +586,7 @@ Tier structure and baseline accessibility
 
 - Read with: **CJS-3.5**; **CJS-3.3**; **CJS-3.4**.
 - Read with: **CJS-3.5 — Independent Verification and Integrity of Claims**
-- Read with: **[CJS-3.3](cjs_03_audit_process.md#cjs-33-audit-process-home)** (*audit process home*)
+- Read with: **[CJS-3.3](cjs_03u_audit_process.md#cjs-33-audit-process-home)** (*audit process home*)
 - Read with: **CJS-3.4 — Tiered Transparency and Audit Access**
 - Read with: **Article XV** (*Audit, Transparency, and Independent Verification*) and **Article XV-A** (*Auditability and Observable Evidence*) — Rights Floor, where material claims shape rights-relevant decisions
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling**
@@ -611,9 +611,9 @@ Tier structure and baseline accessibility
 
 <br>
 
-*In plain terms: this cluster is the claim-checking annex to the **[CJS-3.3 audit process home](cjs_03_audit_process.md#cjs-33-audit-process-home)** — how material claims stay independently testable.*
+*In plain terms: this cluster is the claim-checking annex to the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33-audit-process-home)** — how material claims stay independently testable.*
 
-Use this rule when evidence quality, verification routes, or trust claims depend on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, or implementation layers work together. For the shared audit process (what / why / how / when), start at **[CJS-3.3](cjs_03_audit_process.md#cjs-33-audit-process-home)**.
+Use this rule when evidence quality, verification routes, or trust claims depend on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, or implementation layers work together. For the shared audit process (what / why / how / when), start at **[CJS-3.3](cjs_03u_audit_process.md#cjs-33-audit-process-home)**.
 
 <a id="independent-verification-and-claim-integrity-terms"></a>
 independent verification and claim-integrity terms
@@ -1051,6 +1051,6 @@ Default **NUL** bands (adopting instruments may tighten but must not weaken with
 
 ---
 
-**Previous file:** [cjs_03_audit_process.md](cjs_03_audit_process.md)
+**Previous file:** [cjs_03u_audit_process.md](cjs_03u_audit_process.md)
 
 **Next file:** [cjs_03p_participation_operations.md](cjs_03p_participation_operations.md)

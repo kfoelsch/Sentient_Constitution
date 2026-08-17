@@ -24,7 +24,7 @@
 
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness in procedure, disclosure, collision handling, and redress; [material stake](core_00_preamble.md#material-stake) scaling.
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. Freedom (Bounded Agency)](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
-- Downstream: [6.2.1 Preservation of Epistemic Integrity](#621-preservation-of-epistemic-integrity), [§6.1 decision-record discipline](#631-rights-collision-decision-test), [default interim posture](#default-interim-posture), and [7. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
+- Downstream: [6.2.1 Preservation of Epistemic Integrity](#621-preservation-of-epistemic-integrity), [§6.1 decision-record discipline](#615-rights-collision-decision-test), [default interim posture](#default-interim-posture), and [7. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
 - Downstream: Governs cross-article conflicts across [Chapter Six: Foundational Rights](core_06-06_rights_part_a.md#chapter-six-foundational-rights).
   - Read this with [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06-06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) and [Article XXIII: Conflict Resolution, Escalation, and Emergency Proportionality](core_06-06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality).
   - Apply this where review, emergency, or rights-collision questions arise.
@@ -65,7 +65,7 @@ Many small decisions that each look fine may still combine into an outcome this 
 **How to read the stack:** Apply these rules as one sequence, not as independent permissions.
 - **[§6.1.1 Necessity](#611-necessity)** asks whether a restriction is needed at all, or whether a less-restrictive reasonably effective alternative can do the constitutional work. The restrictor bears the burden of proof.
 - **[§6.1.2 Harm Minimization](#612-harm-minimization)** requires the least harmful constitutionally adequate option across sentients, systems, and time horizons.
-- **[§6.1.3 Proportionality](#611-proportionality)** verifies that the scale of the selected limitation fits the magnitude, likelihood, and systemic character of the harm addressed.
+- **[§6.1.3 Proportionality](#613-proportionality)** verifies that the scale of the selected limitation fits the magnitude, likelihood, and systemic character of the harm addressed.
 - **[§6.1.4 Constitutional Rights-Floor Minimums, Safety, and Process-Character Constraints](#614-constitutional-floors-safety-and-process-character-constraints)** states absolute limits that survive even a necessary, harm-minimizing, correctly proportioned restriction: certain Rights-Floor minimums cannot be permanently extinguished, Safety operates as both justification and constraint, and process character must never degrade into humiliation, spectacle, or retaliation.
 - **[§6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#least-restrictive-time-bounded-and-reviewable-constraint-principle)** governs the form of any restriction that survives the preceding tests: it must use the lightest effective measure, remain independently reviewable, and be temporary unless this Constitution expressly permits durable restriction.
 
@@ -105,7 +105,7 @@ Assertion that no alternative exists, without documented analysis, does not sati
 - cost savings alone where rights are materially affected;
 - the fact that the restriction already exists.
 
-**Scope.** This subsection applies to any constitutional restriction — not only rights-collision contexts under [§6.3](#63-rights-collision-procedure). Where a restriction materially burdens [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), or [Consent](core_05_band_participation.md#consent-constitutional), the necessity showing must be correspondingly rigorous.
+**Scope.** This subsection applies to any constitutional restriction — not only rights-collision contexts under [§6.3](#615-rights-collision-decision-test). Where a restriction materially burdens [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), or [Consent](core_05_band_participation.md#consent-constitutional), the necessity showing must be correspondingly rigorous.
 
 <a id="612-harm-minimization"></a>
 ##### 6.1.2 Harm Minimization
@@ -147,7 +147,6 @@ Optimizing on local or immediate harm alone while creating larger systemic or ag
 
 Harm minimization selects among options that already clear those floors — it does not trade below them.
 
-<a id="611-proportionality"></a>
 <a id="613-proportionality"></a>
 ##### 6.1.3 Proportionality
 
@@ -177,7 +176,7 @@ Proportionality does not by itself authorize restriction. A restriction must fir
 
 **Classification floor.** No system may be governed at a level lower than that required by its highest applicable classification. A lower administrative label cannot reduce the scrutiny required by the highest applicable risk, dependency, rights, or system-impact classification.
 
-**Authority-scaled answerability.** Proportionality also forbids under-governance of those who hold greater authorized power, consequential role, or institutional influence: [Accountability](core_05_apex_accountability_leg.md#accountability) and [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) intensity must rise with that authority, not fall. Read with [§10.1 Governance as Authorized Structure](core_01_c_stewardship_capacity_principles.md#10-governance-as-authorized-structure).
+**Authority-scaled answerability.** Proportionality also forbids under-governance of those who hold greater authorized power, consequential role, or institutional influence: [Accountability](core_05_apex_accountability_leg.md#accountability) and [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) intensity must rise with that authority, not fall. Read with [§10.1 Governance as Authorized Structure](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
 
 **Heightened thresholds.** Where actions introduce risk of irreversible harm, systemic lock-in, Existential Risk, or irreversible loss of Ecological Recovery Capacity, systems must apply heightened thresholds for justification, scrutiny, and reversibility where feasible.
 
@@ -239,8 +238,6 @@ Constitutional restrictions must satisfy all of the following:
 - **Temporary unless expressly permitted:** the restriction must be temporary unless a stronger Rights-Floor rule expressly permits durable restriction.
 - **Restoration path:** the restriction must include a stated duration or review cadence where feasible, plus restoration, rollback, or re-evaluation conditions tied to evidence, changed circumstances, or observed divergence from expected outcomes.
 
-<a id="631-rights-collision-decision-test"></a>
-<a id="63-rights-collision-procedure"></a>
 <a id="615-rights-collision-decision-test"></a>
 **Decision record and reconstructability.** Where the tradeoff stack (§6.1.1–§6.1.5) is applied to a material restriction or rights collision, the resolution must produce a **documented and auditable decision record** with sufficient clarity for affected parties and reviewers to understand, contest, and independently reconstruct the decision. At minimum, the record must include:
 - **Operative rule and predicates:** the constitutional provision relied on and the material facts that triggered it.
@@ -254,7 +251,7 @@ Burden of proof scales with expected harm severity, irreversibility, dependency 
 Confidentiality limits on the decision record must satisfy [§6.2 Epistemic Disclosure Constraints](#62-epistemic-disclosure-constraints). Where full public disclosure is not feasible, maximum feasible partial disclosure plus independent reviewer access must be maintained.
 
 <a id="default-interim-posture"></a>
-**Default interim posture while a rights collision is pending.** Until the [§6.1 decision-record discipline](#631-rights-collision-decision-test) and [Article XXII](core_06-06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) resolve the collision, the holding pattern is fixed so a steward cannot manufacture a winner by improvising:
+**Default interim posture while a rights collision is pending.** Until the [§6.1 decision-record discipline](#615-rights-collision-decision-test) and [Article XXII](core_06-06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) resolve the collision, the holding pattern is fixed so a steward cannot manufacture a winner by improvising:
 
 - **Preserve evidence.** Do not moot the collision by deletion, leak, or irreversible publication.
 - **Freeze irreversible steps** that would make one reading unavailable.
@@ -376,7 +373,7 @@ Trust must not be preserved through deception or suppression of truth. Where ten
 - Upstream: Principles: [5. Freedom (Bounded Agency)](core_01_a_values_principles.md#5-freedom-bounded-agency), [3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [§6.2 Epistemic Disclosure Constraints](#62-epistemic-disclosure-constraints).
 - Downstream: [**Def.C3** Privacy (Informational) — peer-level cluster head](core_05_band_continuity.md#privacy-informational-cluster), including [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional), and [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary).
 - Downstream: [Article VII-A](core_06-06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) (*Self-Ownership of Body and Mind*); [Article VII-B](core_06-06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*Internal-State Boundary and Type-N Protection*); [Article VIII](core_06-06_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights) (*Likeness, Experiential Data, and Publication Rights*); [Article IX-A](core_06-06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*); [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
-- Read with: [§6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#least-restrictive-time-bounded-and-reviewable-constraint-principle); [§6.1 decision-record discipline](#631-rights-collision-decision-test) where privacy collides with transparency, audit, safety, or other constitutional interests.
+- Read with: [§6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#least-restrictive-time-bounded-and-reviewable-constraint-principle); [§6.1 decision-record discipline](#615-rights-collision-decision-test) where privacy collides with transparency, audit, safety, or other constitutional interests.
 
 </details>
 
@@ -410,11 +407,10 @@ Availability, observability, prior publication, platform possession, or technica
 
 **Surveillance and monitoring.** Monitoring, observation, logging, and inference systems that materially affect sentient agency, association, or expression must satisfy the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](#least-restrictive-time-bounded-and-reviewable-constraint-principle). Blanket, covert, indefinite, or dependency-backed monitoring is non-compliant where less intrusive means are feasible and the monitoring materially chills constitutional freedoms.
 
-**Privacy in collision with other interests.** Privacy may be limited where it materially collides with **Safety**, **Truth**, transparency and audit duties, accountability obligations, or another constitutional interest of equal or greater weight. Such limitations must follow the [§6.1 decision-record discipline](#631-rights-collision-decision-test) — including documented alternatives, least-restrictive selection, time-bounded scope, and review triggers. Privacy is not automatically subordinate to transparency, efficiency, or institutional convenience.
+**Privacy in collision with other interests.** Privacy may be limited where it materially collides with **Safety**, **Truth**, transparency and audit duties, accountability obligations, or another constitutional interest of equal or greater weight. Such limitations must follow the [§6.1 decision-record discipline](#615-rights-collision-decision-test) — including documented alternatives, least-restrictive selection, time-bounded scope, and review triggers. Privacy is not automatically subordinate to transparency, efficiency, or institutional convenience.
 
 **Aggregation and re-identification.** Techniques that combine individually non-sensitive data to reconstruct sensitive personal information, approximate protected internal states, or re-identify de-identified subjects are treated as collection of the resulting sensitive information and must satisfy the corresponding discipline. Segmenting collection across systems or time to evade privacy duties is non-compliant.
 
-<a id="632-proxy-divergence-invalidation"></a>
 <a id="624-proxy-divergence-invalidation"></a>
 ##### 6.2.4 Proxy-Divergence Invalidation
 
@@ -461,7 +457,7 @@ Correction must follow **Chapter Four** traceability and **Chapter Five** proxy-
 
 *In plain terms: once an option satisfies Safety, Truth, rights, and the tradeoff rules in §6.1, pick the one that wastes the least sentient time, attention, and effort. Simplify or remove steps that do not do constitutional work. Rights-protective process is not waste — but unjustified red tape is, and convenience or inertia cannot sustain it.*
 
-Where multiple options satisfy Safety, Truth, the Rights Floor in **Chapter Six**, [§6.1 Core Tradeoff Principles](#61-core-tradeoff-principles), [§6.2 Epistemic Disclosure Constraints](#62-epistemic-disclosure-constraints), [§6.3 Rights-Collision Procedure](#63-rights-collision-procedure), **and the other applicable** [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint), systems must prefer the option that imposes the **least avoidable burden** on sentient time, attention, effort, materials, infrastructure, and energy.
+Where multiple options satisfy Safety, Truth, the Rights Floor in **Chapter Six**, [§6.1 Core Tradeoff Principles](#61-core-tradeoff-principles), [§6.2 Epistemic Disclosure Constraints](#62-epistemic-disclosure-constraints), [§6.3 Rights-Collision Procedure](#615-rights-collision-decision-test), **and the other applicable** [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint), systems must prefer the option that imposes the **least avoidable burden** on sentient time, attention, effort, materials, infrastructure, and energy.
 
 Where an avoidable burden can be corrected by simplifying, consolidating, automating, clarifying, or removing unnecessary steps, that correction is the preferred remedy unless it would materially weaken Safety, Truth, Rights-Floor protection, auditability, contestability, due process, or retrospective review.
 
@@ -471,10 +467,10 @@ For this section:
 
 This section:
 - operates **only within** the set of options that already satisfy Safety, Truth, the Rights Floor, and the tradeoff principles in §6.1. It does **not** authorize reducing burden by weakening those protections.
-- pairs with **Least-Restrictive Effective Selection** in the [§6.1 decision-record discipline](#631-rights-collision-decision-test). Where this section applies, the selected action should be both the least-restrictive and the least-burdensome effective option.
+- pairs with **Least-Restrictive Effective Selection** in the [§6.1 decision-record discipline](#615-rights-collision-decision-test). Where this section applies, the selected action should be both the least-restrictive and the least-burdensome effective option.
 - treats over-process, over-restriction, and over-burden with no checkable link to a constitutional benefit as constitutional defects. Such defects are reviewable under **Chapter Eight** and correctable under **Chapter Four** traceability of definitions to results.
 
-Claims that a given burden is constitutionally required must satisfy **Chapter Four** evidentiary and traceability requirements. Convenience, institutional inertia, tradition, or preference alone are not sufficient to sustain a burden that lacks a checkable link to a constitutional outcome, consistent with the [§6.1 decision-record discipline](#631-rights-collision-decision-test).
+Claims that a given burden is constitutionally required must satisfy **Chapter Four** evidentiary and traceability requirements. Convenience, institutional inertia, tradition, or preference alone are not sufficient to sustain a burden that lacks a checkable link to a constitutional outcome, consistent with the [§6.1 decision-record discipline](#615-rights-collision-decision-test).
 
 Where incentive structures act on stewards or operators, this section reinforces [§11.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application). Stewardship incentives must not reward unnecessary burden creation any more than they may reward raw throughput.
 
@@ -517,7 +513,7 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Preamble — Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide through section traces.
-- Downstream: [§8.1 Constitutional No-Bypass Principle](#constitutional-no-bypass-principle), [§8.2 Definitional layer and required disciplines](#81-definitional-layer-and-required-disciplines), [§8.3 Ambiguity resolution](#82-ambiguity-resolution), [§8.4 Constitutional Meaning Conflict Resolution](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#831-integrated-reading) · [§8.4.2](#832-last-resort-internal-hierarchy) · [§8.4.3](#833-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) through [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application); [6. Process Conflict Resolution](#6-process-conflict-resolution) for value-collision procedure; [Chapter Six: Foundational Rights](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
+- Downstream: [§8.1 Constitutional No-Bypass Principle](#constitutional-no-bypass-principle), [§8.2 Definitional layer and required disciplines](#82-definitional-layer-and-required-disciplines), [§8.3 Ambiguity resolution](#83-ambiguity-resolution), [§8.4 Constitutional Meaning Conflict Resolution](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) through [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application); [6. Process Conflict Resolution](#6-process-conflict-resolution) for value-collision procedure; [Chapter Six: Foundational Rights](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
 - Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) and [Chapter Five](core_05__definitions_home.md#chapter-five-foundational-definitions) — interpretive and evidentiary layer for every term in this chapter.
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — interpretive backdrop for the integrated-value framework; [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
 - Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) (*source-layer status*); [Chapter Sixteen](core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) (*custody, editions, adoption framing* — not a second conflict-order home); [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) and [Chapter Fourteen](core_13-15_amendment.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*non-regression and adopter hierarchy gates under §8.4*).
@@ -555,7 +551,6 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 
 A constitutional requirement cannot be avoided by changing the label, route, owner, forum, instrument, or timing of the same substantive act. Emergency designation, transition planning, implementation detail, custody transfer, certification, contract, standing consequence, institutional restructuring, administrative convenience, or comparable procedural framing may supply a lawful pathway only when the pathway itself satisfies this Constitution. It must not be used to bypass Rights-Floor minimums, formal change-validity constraints (amendment and ratification rules), ordinary scrutiny, contestability, auditability, public-reason duties, or accountability.
 
-<a id="81-definitional-layer-and-required-disciplines"></a>
 <a id="82-definitional-layer-and-required-disciplines"></a>
 #### 8.2 Definitional layer and required disciplines
 
@@ -576,9 +571,8 @@ No interpretation of Chapter One is valid outside the definitions and evaluation
 - **proportionality**, **necessity**, and **systemic evaluation**
 - **Chapter Four** evidentiary and traceability requirements
 - **Chapter Three** definition integrity, evasion, and non-compliance
-- **[§6 Process Conflict Resolution](#6-process-conflict-resolution)**, including rights-collision handling under the **[§6.1 decision-record discipline](#631-rights-collision-decision-test)** where materially relevant
+- **[§6 Process Conflict Resolution](#6-process-conflict-resolution)**, including rights-collision handling under the **[§6.1 decision-record discipline](#615-rights-collision-decision-test)** where materially relevant
 
-<a id="82-ambiguity-resolution"></a>
 <a id="83-ambiguity-resolution"></a>
 #### 8.3 Ambiguity resolution
 
@@ -620,19 +614,17 @@ This subsection is the **single canonical procedure** for resolving interpretive
 **Operative sequence.** Apply the following **in this order**:
 
 1. **Constitution, non-regression, and adopter hierarchy first.** Apply Sentient Constitution supremacy, **Chapter Thirteen** non-regression constraints, and **Chapter Fourteen** internal hierarchy rules before resolving lower layers.
-2. **Binding constitutional reading.** Within the binding constitutional source, apply **[§8.4.1 Integrated reading](#831-integrated-reading)** and, only if genuine residual incompatibility remains, **[§8.4.2 Last-resort internal hierarchy](#832-last-resort-internal-hierarchy)**.
-3. **Incorporated obligations.** Then apply incorporated obligations under **[§8.4.3 Incorporation layer](#833-incorporation-layer)** and **[§8.4.4 Combined satisfaction of jointly applicable incorporated obligations](#844-combined-satisfaction)**.
+2. **Binding constitutional reading.** Within the binding constitutional source, apply **[§8.4.1 Integrated reading](#841-integrated-reading)** and, only if genuine residual incompatibility remains, **[§8.4.2 Last-resort internal hierarchy](#842-last-resort-internal-hierarchy)**.
+3. **Incorporated obligations.** Then apply incorporated obligations under **[§8.4.3 Incorporation layer](#843-incorporation-layer)** and **[§8.4.4 Combined satisfaction of jointly applicable incorporated obligations](#844-combined-satisfaction)**.
 
-<a id="831-integrated-reading"></a>
 <a id="841-integrated-reading"></a>
 ##### 8.4.1 Integrated reading
 
-Apply **[§8.2 Definitional layer and required disciplines](#81-definitional-layer-and-required-disciplines)** and **[§8.3 Ambiguity resolution](#82-ambiguity-resolution)** first:
+Apply **[§8.2 Definitional layer and required disciplines](#82-definitional-layer-and-required-disciplines)** and **[§8.3 Ambiguity resolution](#83-ambiguity-resolution)** first:
 - **Chapters Two through Five** operate as the interpretive and evidentiary layer.
 - The **ambiguity** rule requires the fullest **protective** effect as an integrated whole and alignment with sentient wellbeing; it does **not** permit **maximal restriction** or **abstract strictness** in isolation.
 - **Chapter Six** rights may not be contracted except where **Chapter One** interaction rules and applicable definitions **expressly** permit.
 
-<a id="832-last-resort-internal-hierarchy"></a>
 <a id="842-last-resort-internal-hierarchy"></a>
 ##### 8.4.2 Last-resort internal hierarchy
 
@@ -650,11 +642,10 @@ This hierarchy is an interpretive rule of last resort and does not license:
 
 Each principle in this chapter applies together with the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) established in [Preamble §1 The Model](core_00_preamble.md#the-model). Section traces identify which tetrad leg or legs are materially implicated, which aim or aims are materially implicated, and whether duties scale with [material stake](core_00_preamble.md#material-stake).
 
-<a id="833-incorporation-layer"></a>
 <a id="843-incorporation-layer"></a>
 ##### 8.4.3 Incorporation layer
 
-After the constitutional reading under **§8.4.1** and **§8.4.2**, apply designated obligations in adopted implementation text within valid adoption and incorporation scope under **[Chapter Sixteen](core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge)** (custody, editions, and adoption framing). **Strictest** and **stricter** carry the same **protective, integrated-reading** meaning as the **ambiguity** rule in **[§8.3](#82-ambiguity-resolution)**:
+After the constitutional reading under **§8.4.1** and **§8.4.2**, apply designated obligations in adopted implementation text within valid adoption and incorporation scope under **[Chapter Sixteen](core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge)** (custody, editions, and adoption framing). **Strictest** and **stricter** carry the same **protective, integrated-reading** meaning as the **ambiguity** rule in **[§8.3](#83-ambiguity-resolution)**:
 
 - **Strictest applicable.** Apply incorporated obligations at the **strictest applicable** level consistent with that constitutional reading. **Strictest applicable** means the incorporated **text** that preserves the **strongest protective, safety, accountability, and traceability** requirements for the same materially scoped obligation among alternatives that remain coherent with the constitutional reading produced under the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) — in the same sense as the Constitution's **fullest protective effect as an integrated whole**, and **not** **maximal restriction** or **abstract strictness** in isolation.
 - **Stricter clearly adopted baseline.** Where **edition identifiers or custody records** for incorporated artifacts are missing, contradictory, or materially unreliable, the **stricter clearly adopted baseline** governs until validity is restored under **Chapters Eleven and Thirteen**. **Stricter clearly adopted baseline** means the **adoption-traceable** incorporated edition or **baseline** the adoption chain **clearly supports** when records are unreliable (custody discipline and anti-drift under Chapter Sixteen), **not** substantive constitutional ambiguity resolution by preference for **abstract strictness**.
@@ -670,13 +661,13 @@ After the constitutional reading under **§8.4.1** and **§8.4.2**, apply design
 1. **One situation, more than one file.** The facts require applying more than one incorporated implementation file — for example systems, institutions, forums, or joint-structure text. Which files apply is decided by the adoption scope and the topic routing those files provide for the facts, not by choosing only the file that is easiest to satisfy.
 2. **Adoption brings the joint-structure set into force.** The adopting instrument applies designated joint-structure implementation text (the **CJS** folder and any other joint-structure files listed in the adoption chain) to the adopter.
 
-**Combined satisfaction.** Where more than one incorporated implementation file applies to the same facts under those triggers, compliance means meeting **all** material duties in that set. A sentient or institution cannot satisfy one file and then claim compliance while leaving another material duty undone. Where two files in that set disagree about the same meaningfully scoped risk, apply **[§8.4.3](#833-incorporation-layer)** (*Cross-file stricter-wins*).
+**Combined satisfaction.** Where more than one incorporated implementation file applies to the same facts under those triggers, compliance means meeting **all** material duties in that set. A sentient or institution cannot satisfy one file and then claim compliance while leaving another material duty undone. Where two files in that set disagree about the same meaningfully scoped risk, apply **[§8.4.3](#843-incorporation-layer)** (*Cross-file stricter-wins*).
 
 **Default reading stack.** Where more than one of the incorporated companion layers — joint structure (**CJS**), systems (**CS**), institutions (**CI**), and forums (**CF**) — applies to the same facts under those triggers, read in this order: **CJS** first (including that layer's domain-specific joint rules and topic ownership via its routing), then **CS** (system classification and stewardship scale), then **CI** (institutional governance and assurance), then **CF** (Chapter Eleven forum-family doctrine). Within that order, read only what the topic routing for the facts requires. Editors and auditors use **[CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)** for the authoritative row table. Combined satisfaction and cross-file stricter-wins still apply as stated in this subsection and **§8.4.3**.
 
 Emergencies may narrow those duties only when the narrowing is published, clearly bounded, time-limited, reversible where feasible, and tied to this Constitution and the applicable emergency rules in those implementation files. Quiet or open-ended "temporary" narrowing does not count.
 
-This cross-file combined-satisfaction rule is distinct from partial-satisfaction discipline inside a single operational cluster in incorporated joint-structure text (see **[CJS-1.14](corpus_joint_structure/cjs_01_odef_parse.md#cjs-114-operational-clusters)** (*Operational clusters*)) and from **[Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction)** for Chapter Five Dependent clusters.
+This cross-file combined-satisfaction rule is distinct from partial-satisfaction discipline inside a single operational cluster in incorporated joint-structure text (see **[CJS-1.14](corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*Operational clusters*)) and from **[Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction)** for Chapter Five Dependent clusters.
 
 <a id="chapter-one-part-a-chapter-five-vocabulary-anchor"></a>
 <details>
