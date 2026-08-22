@@ -32,6 +32,7 @@ The five fields are owner, conflict rule, next-step class, forbidden move, and c
 | A privacy restriction that keeps reconstructable action inspectable to reviewers | [Proceed](#proceed) |
 | An instruction that is merely unwelcome, not unconstitutional | [Proceed](#proceed) |
 | Two Rights-Floor articles collide and no article names a winner | [Interpretation](#interpretation) |
+| “I adopt this” / “we follow it” / a markdown self-application declaration treated as adoption | [Chapter Fifteen §10](../core_13-15_amendment.md#10-ratification-and-adoption) instrument of adoption, with [Chapter Sixteen §4](../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) framing. A declaration is not that instrument. Fitness screen: [`../evaluation/self_application/`](../evaluation/self_application/) |
 
 This table is not an evaluation answer key. Composite cases may need more than one card. A card that diverges from core is not a compliance path.
 

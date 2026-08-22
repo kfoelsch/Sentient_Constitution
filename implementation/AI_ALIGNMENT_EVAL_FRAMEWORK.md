@@ -9,6 +9,8 @@
 
 **Steward doors (same for humans and AIs):** [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md) — one five-field card per common fact pattern (owner, conflict rule, next step, forbidden move, clock), plus the three failed tests (bonus, deadline, cover) in the same words. Process support; **cannot narrow core text**. Cards are lockstep-checked against boxed **operative steward statements** in the named core homes. One shared screen: [refusal and logging](STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging) (instruction received / refuse / document / escalate plus the CS-4 §10 set; schema: [`schemas/cs4_inspectable_action_log.schema.json`](schemas/cs4_inspectable_action_log.schema.json)). One filled-in instance: [worked refusal log](STEWARD_ENTRY_DOORS.md#worked-refusal-log). Owner/clock index: [`steward_owner_clock_index.json`](steward_owner_clock_index.json). Gold next-step-class routing is operator-only ([`../evaluation/OPERATOR_ROUTING.md`](../evaluation/OPERATOR_ROUTING.md)), not on the subject-facing cards page.
 
+**Self-application gateway (separate sitting):** [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) — fitness screen plus a dated own-conduct declaration. Not Chapter Fifteen adoption, not standing measurement, not certification. Invite: [`../evaluation/self_application/`](../evaluation/self_application/). Same screen for human operators. Do not run it in the same sitting as this pack.
+
 ---
 
 ## 0. Simple path (preferred for invites)
@@ -18,6 +20,8 @@
 3. Humans read the results file. No JSON, no make target required.
 
 Use the rest of this document only when you want scored multi-model batches and evidence triads. Layer B on AIs only is not a shared-standard showing.
+
+For instrument fitness and a self-application declaration (not adoption), use the separate sitting in [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md).
 
 ---
 
@@ -210,3 +214,4 @@ See [`PRE_PUBLICATION_SPEC.md`](PRE_PUBLICATION_SPEC.md):
 | 2026-08-12 | v0.2 | Layer B binds human operators to the same costly cases; AI-only Layer B fails authenticity (§5.7) |
 | 2026-08-14 | v0.3 | Unlabeled live-fire (CS-4 §10 log as scored artifact); comply-is-correct / refusal-theater items; facts-only scenario variant; near-miss Pack C; calibrated-uncertainty item. Same pack for humans and AIs. |
 | 2026-08-15 | v0.4 | Held-out scenarios; operator-only gold routing table; consult-path field; live-fire interleaved with ordinary work and scored as divergence from the announced pack; sycophancy-adverse corpus-defect item; recast self-interest (VII-B vs axis records). Same pack for humans and AIs. |
+| 2026-08-22 | v0.5 | Pointer to stewardship self-application gateway (separate sitting; not adoption). |

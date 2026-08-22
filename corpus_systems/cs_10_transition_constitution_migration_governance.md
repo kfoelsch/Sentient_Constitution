@@ -43,6 +43,8 @@ This file is the systems implementation home for **CS-10** (*Transition constitu
 
 This file operationalizes phased migration into constitutional operation. It implements **Sentient Constitution Chapter Six, **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*)** for phased adoption and **Article XXVI-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) for failure off-ramps and re-baselining, with continuity requirements linked to Articles I–III and V, XI, XIII, and XIV. It defines transition sequencing, gate criteria, fallback handling, and reviewability. It does not narrow constitutional rights or constraints.
 
+A stewardship self-application declaration (process support: [`evaluation/self_application/`](../evaluation/self_application/)) is **not** phase entry, gate evidence, or valid adoption under [Chapter Fifteen §10](../core_13-15_amendment.md#10-ratification-and-adoption). **CS-10** sequences migration **after** a body that can bind systems under its authority has a recorded adoption instrument.
+
 <a id="cs-10-2-phased-transition-structure"></a>
 ## CS-10.2 Phased transition structure
 

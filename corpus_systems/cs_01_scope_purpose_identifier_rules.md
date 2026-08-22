@@ -27,6 +27,7 @@
 > - Implementation-corpus gateway and shared contract: **CJS-1.0**, **CJS-1.1**, and **CJS-1.3** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md). Default reading stack: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction).
 > - Cross-layer topic router: [CJS-0.1 Cross-file routing](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids).
 > - CS family detail: [cs_02_a_information_types_and_handling.md](cs_02_a_information_types_and_handling.md), [cs_03_a_system_classification_machinery.md](cs_03_a_system_classification_machinery.md), [cs_04_critical_system_stewardship.md](cs_04_critical_system_stewardship.md).
+> - Steward next-step screen and self-application sitting (process support; **cannot narrow** this layer or core text; not a second CS front door; not adoption): [`implementation/STEWARD_ENTRY_DOORS.md`](../implementation/STEWARD_ENTRY_DOORS.md); [`evaluation/self_application/`](../evaluation/self_application/).
 
 </details>
 
@@ -97,6 +98,8 @@ This file is the systems implementation home for **CS-1** (*Scope, purpose, and 
 This file (**CS-1**) is the **binding gateway** for the systems layer. Use it when you need the layer boundary — what CS owns, what it does not, and how CS families co-apply. Joint-layer purpose, identifier homes, and the shared contract live in **CJS-1.0**, **CJS-1.1**, and **CJS-1.3**. Combined satisfaction and the default **CJS → CS → CI → CF** reading stack live in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction). This file does **not** replace [Chapter One §1 Purpose and Role](../core_01_a_values_principles.md#1-purpose-and-role) — that section states why the Constitution itself exists.
 
 **How CS families co-apply.** CS families work together — typing, classification, stewardship, and the CS-5–CS-12 engineering families. Apply them so systems and data are judged by what they do, not by siloed labels. Family-specific duties remain in **CS-2** through **CS-12**. Cross-layer topic routing remains in **CJS-0.1**.
+
+**Steward screens (process support; cannot narrow this layer or core text).** This file remains the **binding gateway** for the systems layer. It is not replaced by operator cards or by a markdown declaration. For high-pressure next steps, human and AI stewards use the same five-field cards: [`implementation/STEWARD_ENTRY_DOORS.md`](../implementation/STEWARD_ENTRY_DOORS.md) (including the [shared refusal and logging](../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging) screen that points at **CS-4 §10**). For a fitness screen and an own-conduct declaration, use [`evaluation/self_application/`](../evaluation/self_application/) (design: [`implementation/SELF_APPLICATION_GATEWAY.md`](../implementation/SELF_APPLICATION_GATEWAY.md)). That sitting is **not** [Chapter Fifteen §10](../core_13-15_amendment.md#10-ratification-and-adoption) adoption, **not** [Chapter Sixteen §4](../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation, and **not** **CS-10** phase entry or advancement. Informal “we kind of follow it” practice, and a self-application declaration, are not enough to claim constitutional protection while dodging matching obligations.
 
 ---
 
