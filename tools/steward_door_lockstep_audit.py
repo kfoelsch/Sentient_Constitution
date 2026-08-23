@@ -63,6 +63,10 @@ CARD_TITLES = (
     "Shared stewardship",
     "Proceed",
     "Interpretation",
+    "Comprehensibility",
+    "Market structure",
+    "Cross-system contribution",
+    "Delay",
 )
 
 CARD_BOX_ANCHORS = {
@@ -77,6 +81,10 @@ CARD_BOX_ANCHORS = {
     "Shared stewardship": "operative-steward-statement-shared-stewardship",
     "Proceed": "operative-steward-statement-proceed",
     "Interpretation": "operative-steward-statement-interpretation",
+    "Comprehensibility": "operative-steward-statement-comprehensibility",
+    "Market structure": "operative-steward-statement-market-structure",
+    "Cross-system contribution": "operative-steward-statement-cross-system-contribution",
+    "Delay": "operative-steward-statement-delay",
 }
 
 CARD_FIELDS = (

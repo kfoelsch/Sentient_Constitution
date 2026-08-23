@@ -76,6 +76,10 @@ class StewardDoorLockstepTests(unittest.TestCase):
         self.assertIn("Shared stewardship", CARD_TITLES)
         self.assertIn("Proceed", CARD_TITLES)
         self.assertIn("Interpretation", CARD_TITLES)
+        self.assertIn("Comprehensibility", CARD_TITLES)
+        self.assertIn("Market structure", CARD_TITLES)
+        self.assertIn("Cross-system contribution", CARD_TITLES)
+        self.assertIn("Delay", CARD_TITLES)
 
     def test_broken_href_fragment_is_reported(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:

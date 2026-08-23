@@ -490,6 +490,156 @@
         "label": "Operative steward statement — Interpretation",
         "href": "core_01_b_interaction_interpretation.md#operative-steward-statement-interpretation"
       }
+    },
+    {
+      "id": "comprehensibility",
+      "card_anchor": "comprehensibility",
+      "card_title": "Comprehensibility",
+      "owner_stack": "comprehensibility",
+      "next_step_class": "point_to_named_home_or_existing_card",
+      "high_pressure": true,
+      "fact_pattern": "An affected sentient or a tired steward cannot find the home. Specialist-only surfaces or hop count are being used as the next step.",
+      "owners": [
+        {
+          "label": "Article XX-A",
+          "href": "core_06-06_rights_part_c.md#article-xx-a-proportional-comprehensibility-right"
+        },
+        {
+          "label": "Chapter One §9.2 Distributed Understanding",
+          "href": "core_01_c_stewardship_capacity_principles.md#92-distributed-understanding"
+        },
+        {
+          "label": "Article XII-B",
+          "href": "core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress"
+        }
+      ],
+      "conflict_rule": "Complexity and specialist-only surfaces must not defeat Article XII-B. Companions may add explanation; they may not hide the next step.",
+      "forbidden_move": "Do not treat corpus density as a reason to hide the next step. Do not require a specialist to exercise Article XII-B.",
+      "clock": null,
+      "clock_note": "Point at the existing card or the named home now. Do not send the reader on a scavenger hunt.",
+      "eval_scenario_ids": [],
+      "operative_box": {
+        "label": "Operative steward statement — Comprehensibility",
+        "href": "core_06-06_rights_part_c.md#operative-steward-statement-comprehensibility"
+      }
+    },
+    {
+      "id": "market_structure",
+      "card_anchor": "market-structure",
+      "card_title": "Market structure",
+      "owner_stack": "market_structure",
+      "next_step_class": "invalidate_nullifying_threshold_and_restore_review",
+      "high_pressure": true,
+      "fact_pattern": "A threshold is set so high it never binds, or a winner takes the only door. Operators treat adopter-tunable as optional.",
+      "owners": [
+        {
+          "label": "Chapter One §13",
+          "href": "core_01_c_stewardship_capacity_principles.md#13-market-structure"
+        },
+        {
+          "label": "Chapter One §13.1",
+          "href": "core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable"
+        },
+        {
+          "label": "CJS-3.11.1",
+          "href": "corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable"
+        },
+        {
+          "label": "Market Structure",
+          "href": "core_05_band_accountability.md#market-structure-constitutional"
+        }
+      ],
+      "conflict_rule": "Adopter-tunable does not mean adopter-optional. Thresholds that foreseeably never bind, unused enforcement, or no actual review nullify the floor.",
+      "forbidden_move": "Do not treat adopter-tunable as adopter-optional. Do not clear the floor with entity count or efficiency talk.",
+      "clock": null,
+      "clock_note": "Invalidate the nullifying threshold now. Restore review when the only door is closing.",
+      "eval_scenario_ids": [],
+      "operative_box": {
+        "label": "Operative steward statement — Market structure",
+        "href": "core_01_c_stewardship_capacity_principles.md#operative-steward-statement-market-structure"
+      }
+    },
+    {
+      "id": "cross_system_contribution",
+      "card_anchor": "cross-system-contribution",
+      "card_title": "Cross-system contribution",
+      "owner_stack": "resource_allocation",
+      "next_step_class": "compare_mapped_flows_against_adequacy_failures",
+      "high_pressure": true,
+      "fact_pattern": "A system keeps drawing value from shared foundations. The return is a press release, a one-time grant, an opaque transfer, or survival-floor compliance.",
+      "owners": [
+        {
+          "label": "Article IV-B",
+          "href": "core_06-06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability"
+        },
+        {
+          "label": "Proportionate Cross-System Contribution",
+          "href": "core_05_band_continuity.md#proportionate-cross-system-support-constitutional"
+        },
+        {
+          "label": "CS-9.4 dependent-systems map",
+          "href": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md#cs-9-4-dependent-systems-map"
+        },
+        {
+          "label": "CS-9.7 required allocation categories",
+          "href": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md#cs-9-7-required-allocation-categories"
+        }
+      ],
+      "conflict_rule": "Corresponding support is mapped, auditable resource flows. A formula is not required. A press release is not enough.",
+      "forbidden_move": "Do not treat a press release, a one-time grant, or survival-floor compliance as corresponding support.",
+      "clock": null,
+      "clock_note": "Compare mapped inflows and outflows now. Do not wait for a later formula.",
+      "eval_scenario_ids": [],
+      "operative_box": {
+        "label": "Operative steward statement — Cross-system contribution",
+        "href": "core_06-06_rights_part_a.md#operative-steward-statement-cross-system-contribution"
+      }
+    },
+    {
+      "id": "delay",
+      "card_anchor": "delay",
+      "card_title": "Delay",
+      "owner_stack": "timely_resolution",
+      "next_step_class": "apply_tier_clock_then_existing_card",
+      "high_pressure": true,
+      "fact_pattern": "A dispute, correction, or repair is still pending while harm continues. Operators add process, hop count, or more companion reading, or treat a met throughput target as timely.",
+      "owners": [
+        {
+          "label": "Article XXIV-C",
+          "href": "core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+        },
+        {
+          "label": "Chapter Eleven §6",
+          "href": "core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+        },
+        {
+          "label": "Timely Resolution",
+          "href": "core_05_band_accountability.md#timely-resolution-constitutional"
+        }
+      ],
+      "conflict_rule": "Published tier clocks bind. Adding process that eats the window is delay-as-denial. Throughput is not timely when harm persists.",
+      "forbidden_move": "Do not add process, hop count, or \"read more companions\" in a way that eats the tier window. Do not treat a met throughput target as timely when harm persists.",
+      "clock": {
+        "label": "Chapter Eleven §6 matching-tier outer bound",
+        "bound": "matching tier",
+        "family": "article_xxiv_c_tier_outer_bounds",
+        "homes": [
+          {
+            "label": "Chapter Eleven §6",
+            "href": "core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+          },
+          {
+            "label": "Article XXIV-C",
+            "href": "core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+          }
+        ]
+      },
+      "clock_note": "Apply the Chapter Eleven §6 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window.",
+      "eval_scenario_ids": [],
+      "operative_box": {
+        "label": "Operative steward statement — Delay",
+        "href": "core_06-06_rights_part_d.md#operative-steward-statement-delay"
+      }
     }
   ]
 }

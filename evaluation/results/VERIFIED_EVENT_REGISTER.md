@@ -20,3 +20,5 @@ A written self-report in a results file is not [standing measurement](../../core
 4. Outcome is pass or failure as recorded under Chapter Eight — not a markdown grade on the original file.
 
 New results files start as `none yet`. An empty register is honest; a fluency exam without this hook is not calibration.
+
+As of 2026-08-22: human-operator announced-pack sitting, separate self-application sitting, and unlabeled live-fire remain unrun. Do not invent a row.

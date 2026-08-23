@@ -789,6 +789,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
 - Read with: [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (joint invocation where concentration, oversight, dependency, governing-authority structure, or incentive routing intersect **§5** / **§5** and the *Concentration-threshold interaction* discipline in the operative text below).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in challenge and contest pathways, **oversight** and audit, **accountability** and corrective review, **timeliness** under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (cross-system fairness and non-extraction) and **Continuity** (long-term sustainability and ecosystem funding).
 - Downstream: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) where cross-system fairness, ecosystem funding, or persistent extraction from shared infrastructure is materially at issue.
+- Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-cross-system-contribution). Support cards cannot narrow it.
 
 </details>
 
@@ -806,6 +807,9 @@ Those requirements protect shared infrastructure and the systems that depend on 
 <br>
 
 *In plain terms: split shared money and capacity with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last—not mainly to whoever wins in the short run. Heavy users of shared foundations must not keep pulling value out without [Proportionate Cross-System Contribution](core_05_band_continuity.md#proportionate-cross-system-support-constitutional). When arrangements concentrate wealth, power, control, or opportunity in ways that predictably harm others' wellbeing, agency, dignity, or ecological integrity, Chapter One non-concentration rules and adopter-tunable thresholds add further scrutiny. That scrutiny is extra; it does not replace dependency mapping or excuse neglect of cross-system fairness.*
+
+<a id="operative-steward-statement-cross-system-contribution"></a>
+> **Operative steward statement.** **Owner:** Article IV-B. Definition: Proportionate Cross-System Contribution. Maps: CS-9. **Forbidden move:** Do not treat a press release, a one-time grant, or survival-floor compliance as corresponding support. **Clock:** Compare mapped inflows and outflows now. Do not wait for a later formula.
 
 - **Cross-system fairness:** Funding and allocation must account for:
   - criticality;

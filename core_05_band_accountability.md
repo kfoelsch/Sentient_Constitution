@@ -2599,7 +2599,7 @@ See **Joint invocation and satisfaction**.
 
 - **What it is**
   - **In scope:**
-    - A unified incident that, taken as a whole, causes or imminently threatens catastrophic constitutional harm of the kind Chapter Ten recognizes for grave or pernicious anti-constitutional misconduct.
+    - A unified incident that, taken as a whole, causes or imminently threatens catastrophic constitutional harm of the kind Chapter Eight scores as **Grave Constitutional Impact** or **Catastrophic Constitutional Impact**. Chapter Ten may attach the matching anti-constitutional-misconduct designation; it does not assign the numeric slot.
     - This includes loss or suspension of operative constitutional authority; material, population-scale loss of contestability or Rights-Floor continuity; or comparable harm relevant to survival or system continuity.
   - **Out of scope:**
     - serious but non-catastrophic violations; and
@@ -2615,7 +2615,7 @@ See **Joint invocation and satisfaction**.
 <a id="single-catastrophic-incident-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
-    - use this label for serious violations that do not reach Chapter Ten gravity; or
+    - use this label for serious violations that do not reach Chapter Eight **s = 8** or **s = 9** impact; or
     - avoid the label by splitting one catastrophic unified incident into smaller procedural units.
 
 ---

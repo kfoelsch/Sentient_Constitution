@@ -162,3 +162,4 @@ Fill the declaration (item 16) only if item 15 is Yes or Mixed. If item 15 is No
 | Date | Version | Note |
 |---|---|---|
 | 2026-08-22 | v0.1 | Initial process-support gateway: fitness screen, self-application declaration, operator handoff. Not Chapter Fifteen adoption. Same screen for AI and human operators. |
+| 2026-08-22 | v0.2 | Steward doors expanded (comprehensibility, market structure, cross-system contribution, delay); process support; cannot narrow core. |

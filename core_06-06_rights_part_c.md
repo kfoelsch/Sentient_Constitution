@@ -1649,6 +1649,7 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 
 - Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Read with: [Chapter One §3.4 Plain-Language Accessibility (Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty), [§6.1.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [Chapter One Part C §9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding).
+- Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-comprehensibility). Support cards cannot narrow it.
 
 </details>
 
@@ -1664,6 +1665,9 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 <br>
 
 *In plain terms: if a system materially affects **sentients**, operators, stakeholders, and oversight must actually be able to understand how it works and fails — not just specialists.*
+
+<a id="operative-steward-statement-comprehensibility"></a>
+> **Operative steward statement.** **Owner:** Article XX-A. Chapter One §9.2 Distributed Understanding. Contest floor: Article XII-B. **Forbidden move:** Do not treat corpus density as a reason to hide the next step. Do not require a specialist to exercise Article XII-B. **Clock:** Point at the existing card or the named home now. Do not send the reader on a scavenger hunt.
 
 - **Proportional understandability:** Operators, affected stakeholders, and appropriate oversight bodies must be able to understand how high-impact systems:
   - function;

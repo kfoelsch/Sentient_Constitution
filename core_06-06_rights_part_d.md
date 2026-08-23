@@ -353,6 +353,7 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
 - Upstream: Timeliness measurement family (*Timely Resolution and anti-delay discipline as constitutional measurement*); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums) (*standing, integration, and forum coordination pipeline*).
 - Principles: Chapter One [§12.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency), [Chapter One §6.1.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - Downstream: [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers, pipeline milestones, and anti-delay discipline*); [Article XXIII-D](#xxiii-d-restore-challenge-clocks) (*same outer bounds as default restore-challenge windows after emergency containment*).
+- Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-delay). Support cards cannot narrow it.
 
 </details>
 
@@ -371,6 +372,9 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
 <br>
 
 *In plain terms: constitutional problem resolution is a coordination and restoration system — quick, efficient, and just — not a warehouse where harm sits for years. Material disputes must move on bounded clocks through intake, verification, standing measurement, integration, and remedy. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.*
+
+<a id="operative-steward-statement-delay"></a>
+> **Operative steward statement.** **Owner:** Article XXIV-C. Numeric home: Chapter Eleven §6. Definition: Timely Resolution. **Forbidden move:** Do not add process, hop count, or "read more companions" in a way that eats the tier window. Do not treat a met throughput target as timely when harm persists. **Clock:** Apply the Chapter Eleven §6 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window.
 
 - **Coordination purpose:** Constitutional justice under **Article XXIII-A** (*Justice Objective and Scope*) operates through a **constitutional coordination and resolution system** — verify facts, measure standing, integrate consequences, and restore where feasible — not through indefinite adversarial delay, reputation scoring, or punishment for its own sake.
 - **Three joint requirements:** Material resolution pathways must be **timely**, **efficient**, and **just** together:

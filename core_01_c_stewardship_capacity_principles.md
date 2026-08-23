@@ -179,6 +179,7 @@ Those are failed tests for both kinds of steward. A written self-report is not [
 
 - Upstream: [§9.1 Consequential Stewardship](#91-stewardship) (*Pillar 1*); [§9 Stewardship and Distributed Understanding](#9-stewardship-and-distributed-understanding) (parent, including *In plain terms* and Pillar 2 framing above); [3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint); [4. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg ([Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Educational Agency](core_05_band_participation.md#educational-agency)); **oversight** leg ([Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability)); [material stake](core_00_preamble.md#material-stake) scaling.
+- Steward door (non-operative): Binding next-step statement: [Operative steward statement (Article XX-A)](core_06-06_rights_part_c.md#operative-steward-statement-comprehensibility). Support cards cannot narrow it.
 - Downstream: [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints); rights surface especially [Article XV: Audit, Transparency, and Independent Verification](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XX: Comprehensibility and Complexity Stewardship](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -960,6 +961,7 @@ An efficiency claim counts only when it traces to real constitutional outcomes a
 
 - Upstream: [§13 Market Structure](#13-market-structure); [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional).
 - Downstream: **CJS-3.11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting rules); [§13.2 Pro-Competition and Anti-Domination](#132-pro-competition-and-anti-domination); [§13.3 Consolidation Ceiling](#133-consolidation-ceiling); [CJS-3.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) operative ceiling-setting rules); [Chapter Ten §5](core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-market-structure). Support cards cannot narrow it.
 
 </details>
 
@@ -975,6 +977,9 @@ An efficiency claim counts only when it traces to real constitutional outcomes a
 <br>
 
 *In plain terms: the Constitution sets a floor against harmful concentrations of wealth, power, or control. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures.*
+
+<a id="operative-steward-statement-market-structure"></a>
+> **Operative steward statement.** **Owner:** Chapter One §13 / §13.1. Operative bite: CJS-3.11.1. **Forbidden move:** Do not treat adopter-tunable as adopter-optional. Do not clear the floor with entity count or efficiency talk. **Clock:** Invalidate the nullifying threshold now. Restore review when the only door is closing.
 
 The non-concentration discipline in **§13** sets a **constitutional floor**. That floor blocks concentration of wealth, power, control, or opportunity that predictably degrades wellbeing, agency, dignity, or ecological integrity for other sentients. It is the minimum bar — not a single fixed number. Concentration that predictably defeats voice, scrutiny, answerability, or timely correction conflicts with the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 

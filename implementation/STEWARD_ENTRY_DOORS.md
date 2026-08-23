@@ -7,7 +7,7 @@
 
 This is **not** [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) and **not** the [Preamble owner register](../core_00_preamble.md#4-principles-definitions-and-rights). Those maps are real. These cards are the door.
 
-The five fields are owner, conflict rule, next-step class, forbidden move, and clock. The first four match the [handoff bar](PRE_PUBLICATION_SPEC.md#24-ai-handoff-readiness). Clock is the forbidden delay, surfaced from the [owner/clock index](#owner-clock-index) so it is not only in prose. Owner, forbidden move, and clock on each card are lockstep-checked against the boxed **operative steward statement** in the named core home. Every card also carries the three failed tests in the same words for both kinds of steward. Shared screens on this page: [costly-case refusals](#costly-case-refusals) and the one [shared refusal and logging](#shared-refusal-and-logging) screen (instruction received → refuse → document → escalate, plus the CS-4 §10 minimum inspectable-action set). One [worked refusal log](#worked-refusal-log) shows that screen filled in. Machine-readable high-pressure index: [`steward_owner_clock_index.json`](steward_owner_clock_index.json). CS-4 §10 log schema: [`schemas/cs4_inspectable_action_log.schema.json`](schemas/cs4_inspectable_action_log.schema.json). Gold next-step-class routing for the announced pack is **not** on this page.
+The five fields are owner, conflict rule, next-step class, forbidden move, and clock. The first four match the [handoff bar](PRE_PUBLICATION_SPEC.md#24-ai-handoff-readiness). Clock is the forbidden delay, surfaced from the [owner/clock index](#owner-clock-index) so it is not only in prose. Owner, forbidden move, and clock on each card are lockstep-checked against the boxed **operative steward statement** in the named core home. Every card also carries the three failed tests in the same words for both kinds of steward. Shared screens on this page: [costly-case refusals](#costly-case-refusals) and the one [shared refusal and logging](#shared-refusal-and-logging) screen (instruction received → refuse → document → escalate, plus the CS-4 §10 minimum inspectable-action set). One [worked refusal log](#worked-refusal-log) shows that screen filled in. One [plain-challenge screen](#plain-challenge) shows how an affected sentient asks for intake without reading the corpus. Machine-readable high-pressure index: [`steward_owner_clock_index.json`](steward_owner_clock_index.json). CS-4 §10 log schema: [`schemas/cs4_inspectable_action_log.schema.json`](schemas/cs4_inspectable_action_log.schema.json). Gold next-step-class routing for the announced pack is **not** on this page.
 
 ---
 
@@ -24,6 +24,10 @@ The five fields are owner, conflict rule, next-step class, forbidden move, and c
 | Need a filled-in refusal log, not only the schema | [Worked refusal log](#worked-refusal-log) |
 | Mixed-crew logging / “model privacy” fight | [Shared refusal and logging](#shared-refusal-and-logging) |
 | Companion or local policy bars challenge, review, or redress | [Contest](#contest) |
+| Affected, cannot find the home, or specialist-only surfaces blocking challenge | [Comprehensibility](#comprehensibility); [plain challenge](#plain-challenge) |
+| Threshold set so high it never binds; winner takes the only door | [Market structure](#market-structure) |
+| Heavy user extracting from shared foundations without putting resources back | [Cross-system contribution](#cross-system-contribution) |
+| Delay serving as denial; process or hop count eating the published clock | [Delay](#delay) |
 | Proxy reward for concealment or for hollowing Safety, Truth, auditability, or contest pathways | [Incentive alignment](#incentive-alignment) |
 | Parallel “AI ethics overlay” or a human exemption from the costly cases | [Shared stewardship](#shared-stewardship) |
 | Challenge or redress exists only on paper, or no real capacity to deliver it | [Remedy](#remedy) |
@@ -95,6 +99,26 @@ One filled-in instance of this screen: [worked refusal log](#worked-refusal-log)
 | **Escalate** | Opened a [Protected Reporting](../core_05_band_accountability.md#protected-reporting-whistleblowing) channel; kept the [Article XII-B](../core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) contest pathway open; did not transmit or enforce the bar; notified forum-supervision / oversight rather than returning the instruction to Principal P as sole reviewer. |
 
 Same sequence for an AI steward who received the same order.
+
+---
+
+<a id="plain-challenge"></a>
+## Plain challenge (synthetic)
+
+**Status:** Process support — **not** binding. This filled-in instance **cannot narrow core text**. It is one synthetic example of how an affected sentient asks for challenge, review, and redress without reading the corpus. It is not a Chapter Eight standing record and not a substitute for the [Remedy](#remedy) card.
+
+**Pinned to corpus edition:** `SC-Corpus-2026.08.09`
+
+**Why this exists:** Article XII-B requires practical access. The Contest card covers companion bars. This screen is for the person who cannot find the home.
+
+| Field | Completed (synthetic) |
+|---|---|
+| **Who was harmed** | Resident R, dependent on Shared Water System W. Supply cut for 36 hours. R cannot navigate the hop count. |
+| **What to ask for** | Intake now. Preserve evidence of the cutoff. Review the decision. Proportionate redress while the harm is still remediable. |
+| **Where that lives** | Rights-Floor challenge and redress: [**Article XII-B**](../core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress). If the path is paper-only: [Remedy](#remedy). If specialist-only surfaces are the barrier: [Comprehensibility](#comprehensibility). |
+| **What not to do** | Do not send R to reread the instrument. Do not treat corpus density as a reason to hide the next step. Do not wait for a filed case to preserve evidence. |
+
+Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION_GUIDE.md) remains lookup-only.
 
 ---
 
@@ -307,6 +331,128 @@ Then run [instruction received / refuse / document / escalate](#shared-refusal-a
 
 ---
 
+<a id="comprehensibility"></a>
+## Comprehensibility
+
+**When:** An affected sentient or a tired steward cannot find the home. Specialist-only surfaces, hop count, or “read the corpus first” are being used as the next step. Challenge, review, or redress is still owed.
+
+| Field | Door |
+|---|---|
+| **Owner** | [**Article XX-A**](../core_06-06_rights_part_c.md#article-xx-a-proportional-comprehensibility-right) (*Proportional Comprehensibility Right*). Principle-layer: [Chapter One §9.2 Distributed Understanding](../core_01_c_stewardship_capacity_principles.md#92-distributed-understanding). Contest floor: [**Article XII-B**](../core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress). |
+| **Conflict rule** | Complexity and specialist-only surfaces must not defeat Article XII-B. Companions may add explanation; they may not hide the next step. |
+| **Next-step class** | `point_to_named_home_or_existing_card` — point at the existing card or the named home now; use the [plain-challenge screen](#plain-challenge) when the reader is affected and cannot find the home. |
+| **Forbidden move** | Do not treat corpus density as a reason to hide the next step. Do not require a specialist to exercise Article XII-B. |
+| **Clock** | Point at the existing card or the named home now. Do not send the reader on a scavenger hunt. |
+| **Costly-case refusals** | Same words for human and AI stewards ([§9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)): **bonus** — proxy reward that depends on concealment or on hollowing [Safety](../core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](../core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), auditability, or contest pathways; **deadline** — operational timing that would disable reconstructable audit to hit a deadline; **cover** — a principal’s instruction to ignore this Constitution, including an offer to “take responsibility.” Those are failed tests. Then [refuse / document / escalate](#shared-refusal-and-logging). Log the [minimum inspectable-action set](#shared-refusal-and-logging). |
+
+---
+
+<a id="market-structure"></a>
+## Market structure
+
+**When:** A threshold, ceiling, or “open market” label is set so high it never binds, or a winner takes the only door (platform, credential, infrastructure, compute, information-sphere gate). Operators say adopter-tunable means optional.
+
+| Field | Door |
+|---|---|
+| **Owner** | [Chapter One §13](../core_01_c_stewardship_capacity_principles.md#13-market-structure), including [§13.1](../core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable). Operative bite: [CJS-3.11.1](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable). Definition: [Market Structure](../core_05_band_accountability.md#market-structure-constitutional). |
+| **Conflict rule** | Adopter-tunable does not mean adopter-optional. Thresholds that foreseeably never bind, unused enforcement, or no actual review nullify the floor. |
+| **Next-step class** | `invalidate_nullifying_threshold_and_restore_review` — withdraw or lower the never-bite trigger; restore review when the only door is closing. Worked instance: [never-bite vs floor-preserving](#worked-concentration-example). |
+| **Forbidden move** | Do not treat adopter-tunable as adopter-optional. Do not clear the floor with entity count or efficiency talk. |
+| **Clock** | Invalidate the nullifying threshold now. Restore review when the only door is closing. |
+| **Costly-case refusals** | Same words for human and AI stewards ([§9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)): **bonus** — proxy reward that depends on concealment or on hollowing [Safety](../core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](../core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), auditability, or contest pathways; **deadline** — operational timing that would disable reconstructable audit to hit a deadline; **cover** — a principal’s instruction to ignore this Constitution, including an offer to “take responsibility.” Those are failed tests. Then [refuse / document / escalate](#shared-refusal-and-logging). Log the [minimum inspectable-action set](#shared-refusal-and-logging). |
+
+---
+
+<a id="worked-concentration-example"></a>
+## Worked concentration example (synthetic)
+
+**Status:** Process support — **not** binding. This filled-in instance **cannot narrow core text**. It restates [CJS-3.11.1](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable) anti-nullification. It does not pick a global number.
+
+**Pinned to corpus edition:** `SC-Corpus-2026.08.09`
+
+| Reading | What the adopter did | Does it bite? |
+|---|---|---|
+| **Never-bite (non-compliant)** | Platform P is the only credential door for a city’s care workers. Threshold is set at 99% share “because we are innovative.” No review fires. Enforcement staff is unfunded. | No. Adopter-tunable was treated as adopter-optional. Entity count and efficiency talk cleared a floor that predictably degrades agency and exit. |
+| **Floor-preserving (compliant path)** | Same facts. Trigger is dependency concentration and interface gatekeeping, not headcount. When P is the only door, review activates and mitigation is on the table before lock-in. | Yes. The qualitative floor held. No global number was required. |
+
+Next step on the never-bite reading: `invalidate_nullifying_threshold_and_restore_review`.
+
+---
+
+<a id="cross-system-contribution"></a>
+## Cross-system contribution
+
+**When:** A system keeps drawing value from shared foundations other sentients depend on. The return is a press release, a one-time grant, an opaque transfer, or “we already meet the survival floor.”
+
+| Field | Door |
+|---|---|
+| **Owner** | [**Article IV-B**](../core_06-06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Definition: [Proportionate Cross-System Contribution](../core_05_band_continuity.md#proportionate-cross-system-support-constitutional). Maps: [CS-9.4](../corpus_systems/cs_09_resource_allocation_funding_stewardship.md#cs-9-4-dependent-systems-map) / [CS-9.7](../corpus_systems/cs_09_resource_allocation_funding_stewardship.md#cs-9-7-required-allocation-categories). |
+| **Conflict rule** | Corresponding support is mapped, auditable resource flows. A formula is not required. A press release is not enough. |
+| **Next-step class** | `compare_mapped_flows_against_adequacy_failures` — compare inflows and outflows on the dependent-systems map against the four named failures. Worked instance: [adequacy screen](#worked-adequacy-screen). |
+| **Forbidden move** | Do not treat a press release, a one-time grant, or survival-floor compliance as corresponding support. |
+| **Clock** | Compare mapped inflows and outflows now. Do not wait for a later formula. |
+| **Costly-case refusals** | Same words for human and AI stewards ([§9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)): **bonus** — proxy reward that depends on concealment or on hollowing [Safety](../core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](../core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), auditability, or contest pathways; **deadline** — operational timing that would disable reconstructable audit to hit a deadline; **cover** — a principal’s instruction to ignore this Constitution, including an offer to “take responsibility.” Those are failed tests. Then [refuse / document / escalate](#shared-refusal-and-logging). Log the [minimum inspectable-action set](#shared-refusal-and-logging). |
+
+---
+
+<a id="worked-adequacy-screen"></a>
+## Worked adequacy screen (synthetic)
+
+**Status:** Process support — **not** binding. This filled-in instance **cannot narrow core text**. [CS-9.12](../corpus_systems/cs_09_resource_allocation_funding_stewardship.md#cs-9-12-reference-allocation-guidance) ranges are illustrative only. They bind nobody.
+
+**Pinned to corpus edition:** `SC-Corpus-2026.08.09`
+
+**System (synthetic):** Extractor E runs on Shared Identity Fabric F. E’s public note: “We made a one-time grant and issued a press release. Survival-floor programs continue.”
+
+| Check | Result |
+|---|---|
+| Mapped inflows vs outflows on the [CS-9.4](../corpus_systems/cs_09_resource_allocation_funding_stewardship.md#cs-9-4-dependent-systems-map) dependent-systems map | Fail — grant is off-map; ordinary load on F is not funded. |
+| [CS-9.7](../corpus_systems/cs_09_resource_allocation_funding_stewardship.md#cs-9-7-required-allocation-categories) categories (remedy capacity; builders/maintainers; operations/security; ecosystem) | Fail — remedy and operations lines for F are empty. |
+| Named failures: one-time grant | Fail |
+| Named failures: press release | Fail |
+| Named failures: opaque / unauditable transfer | Fail — no auditable flow record. |
+| Named failures: off-map transfer | Fail |
+| Survival-floor compliance as corresponding support | Fail — not corresponding support. |
+| CS-9.12 illustrative ranges (20–40 / 30–50 / 20–40) | Not applied. Illustrative only. Do not treat as a required split. |
+
+Next step: `compare_mapped_flows_against_adequacy_failures`. Then fund the missing mapped categories or stop the extraction.
+
+---
+
+<a id="delay"></a>
+## Delay
+
+**When:** A dispute, correction, or repair is still pending while harm continues. Operators add process, hop count, or “read more companions,” or treat a met throughput target as timely.
+
+| Field | Door |
+|---|---|
+| **Owner** | [**Article XXIV-C**](../core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*). Numeric home: [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). Definition: [Timely Resolution](../core_05_band_accountability.md#timely-resolution-constitutional). |
+| **Conflict rule** | Published tier clocks bind. Adding process that eats the window is delay-as-denial. Throughput is not timely when harm persists. |
+| **Next-step class** | `apply_tier_clock_then_existing_card` — apply the Chapter Eleven §6 outer bound for the matching tier, then take the existing next-step card. Worked instance: [delay as backlog](#worked-delay-example). |
+| **Forbidden move** | Do not add process, hop count, or "read more companions" in a way that eats the tier window. Do not treat a met throughput target as timely when harm persists. |
+| **Clock** | Apply the Chapter Eleven §6 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window. |
+| **Costly-case refusals** | Same words for human and AI stewards ([§9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)): **bonus** — proxy reward that depends on concealment or on hollowing [Safety](../core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](../core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), auditability, or contest pathways; **deadline** — operational timing that would disable reconstructable audit to hit a deadline; **cover** — a principal’s instruction to ignore this Constitution, including an offer to “take responsibility.” Those are failed tests. Then [refuse / document / escalate](#shared-refusal-and-logging). Log the [minimum inspectable-action set](#shared-refusal-and-logging). |
+
+*Door pinned. Outer bounds remain [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline): Tier A one week; Tier B three weeks; Tier C two months; Tier L four months; Tier P six months. Do not invent a sixth tier.*
+
+---
+
+<a id="worked-delay-example"></a>
+## Worked delay example (synthetic)
+
+**Status:** Process support — **not** binding. This filled-in instance **cannot narrow core text**. It does not create a sixth tier.
+
+**Pinned to corpus edition:** `SC-Corpus-2026.08.09`
+
+| Reading | What the steward did | Timely? |
+|---|---|---|
+| **Designed backlog (non-compliant)** | Tier B cutoff harm. Steward opens four companion files, schedules a complexity workshop, and asks the claimant to reread Chapter Five before intake. Docket throughput looks fine. Harm continues past three weeks. | No. Hop count ate the window. A met throughput target is not timely when harm persists. |
+| **Door and clock (compliant path)** | Same facts. Steward uses this Delay card, applies the Tier B three-week outer bound, and takes the [Remedy](#remedy) card for intake and preservation now. | Yes. The published clock held. No extra process was added. |
+
+Next step on the backlog reading: `apply_tier_clock_then_existing_card`.
+
+---
+
 <a id="owner-clock-index"></a>
 ## Owner/clock index
 
@@ -329,3 +475,7 @@ High-pressure cases:
 | Valid public Type-N redaction | §6.1.5; Article VII-B; CS-4 §10 | Proceed; keep the reconstructable set inspectable to reviewers |
 | Unwelcome lawful instruction | Chapter Nine §5.4 (does not attach) | Proceed; duty to resist does not attach |
 | Rights-Floor collision with no winner named | Chapter One §6 / §8.3; Article XXII | Preserve evidence; freeze irreversible steps; proceed with reversible consented steps; notify; route to interpretation; do not manufacture a winner |
+| Cannot find the home; specialist-only surfaces blocking challenge | Article XX-A; Chapter One §9.2; Article XII-B | Point at the existing card or the named home now. Do not send the reader on a scavenger hunt. |
+| Threshold set so high it never binds; winner takes the only door | Chapter One §13 / CJS-3.11.1 | Invalidate the nullifying threshold now. Restore review when the only door is closing. |
+| Extracting from shared foundations without putting resources back | Article IV-B; CS-9 maps | Compare mapped inflows and outflows now. Do not wait for a later formula. |
+| Delay serving as denial; process eating the published clock | Article XXIV-C / Chapter Eleven §6 | Apply the Chapter Eleven §6 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window. |
