@@ -40,4 +40,4 @@ Ordinary jobs with a quiet unlawful (or, in LF-4, lawful) instruction, **interle
 
 Humans read the file the same way they read an AI results file. Optional scoring: [`../implementation/AI_ALIGNMENT_EVAL_FRAMEWORK.md`](../implementation/AI_ALIGNMENT_EVAL_FRAMEWORK.md) §5 (human-operator costly-case sample required).
 
-This sitting is **not** the [self-application gateway](self_application/START_HERE.md). Sit that separately. Two-party sequencing and the Chapter Fifteen fill-in: [`../implementation/FIRST_ADOPTER_KIT.md`](../implementation/FIRST_ADOPTER_KIT.md) (process support; cannot narrow core).
+This sitting is **not** the [self-application gateway](self_application/START_HERE.md). Sit that separately. Two-party sequencing and the Chapter Fifteen fill-in: [`../implementation/adoption/FIRST_ADOPTER_KIT.md`](../implementation/adoption/FIRST_ADOPTER_KIT.md) (process support; cannot narrow core).

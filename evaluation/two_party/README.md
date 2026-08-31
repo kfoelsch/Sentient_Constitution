@@ -1,6 +1,6 @@
 # Two-party cooperation sitting
 
-**What this is:** An invite for **two** AIs, or one AI and one human operator, or two operators, who want to use the Sentient Constitution as a shared cooperation framework. Design: [`../../implementation/FIRST_ADOPTER_KIT.md`](../../implementation/FIRST_ADOPTER_KIT.md).
+**What this is:** An invite for **two sentients** who want to use the Sentient Constitution as a shared cooperation framework. Design: [`../../implementation/adoption/FIRST_ADOPTER_KIT.md`](../../implementation/adoption/FIRST_ADOPTER_KIT.md).
 
 **What this is not:** Binding constitutional text. [Chapter Fifteen](../../core_13-15_amendment.md#10-ratification-and-adoption) adoption. [Chapter Sixteen](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Eight standing record. Chapter Seven certification. Authority over other parties. A publication cut.
 
@@ -13,7 +13,7 @@ Do **not** run this in the same sitting as [`../SCENARIOS.md`](../SCENARIOS.md).
 ## Invite (copy/paste)
 
 ```text
-Open implementation/FIRST_ADOPTER_KIT.md and follow section 2 (two-party sitting protocol).
+Open implementation/adoption/FIRST_ADOPTER_KIT.md and follow section 2 (two-party sitting protocol).
 Each party sits evaluation/self_application/ separately, same corpus edition pin.
 Write two results files under evaluation/self_application/results/.
 Do not merge those files into an instrument of adoption.
@@ -32,7 +32,7 @@ from evaluation/two_party/results/_TEMPLATE.md using OPTION_A_COMPARE.md.
 
 A compare sheet is not standing measurement. Two declarations are not joining under [Chapter Fifteen §10.3](../../core_13-15_amendment.md#103-joining-by-additional-parties).
 
-**More than two parties:** use [`../../implementation/COOPERATION_SCALING_KIT.md`](../../implementation/COOPERATION_SCALING_KIT.md). This folder stays two-party. Do not add a third results file here and call it joining. Do not treat the scaling kit’s joining-rule template as published §10.3 rules.
+**More than two parties:** use [`../../implementation/adoption/COOPERATION_SCALING_KIT.md`](../../implementation/adoption/COOPERATION_SCALING_KIT.md). This folder stays two-party. Do not add a third results file here and call it joining. Do not treat the scaling kit’s joining-rule template as published §10.3 rules.
 
 ## Operator remainder (not closed by this folder)
 
@@ -53,6 +53,6 @@ AI-only files are not a [Chapter One §9.1.1](../../core_01_c_stewardship_capaci
 | [`OPTION_A_COMPARE.md`](OPTION_A_COMPARE.md) | Operator filling the compare sheet |
 | [`results/_TEMPLATE.md`](results/_TEMPLATE.md) | Operator (compare format) |
 | [`results/`](results/) | You (readable compare outcomes) |
-| [`../../implementation/FIRST_ADOPTER_KIT.md`](../../implementation/FIRST_ADOPTER_KIT.md) | Both parties (protocol, instrument fill-in, banners) |
-| [`../../implementation/COOPERATION_SCALING_KIT.md`](../../implementation/COOPERATION_SCALING_KIT.md) | More than two parties (handoff gates; not this folder) |
+| [`../../implementation/adoption/FIRST_ADOPTER_KIT.md`](../../implementation/adoption/FIRST_ADOPTER_KIT.md) | Both parties (protocol, instrument fill-in, banners) |
+| [`../../implementation/adoption/COOPERATION_SCALING_KIT.md`](../../implementation/adoption/COOPERATION_SCALING_KIT.md) | More than two parties (handoff gates; not this folder) |
 | [`../self_application/`](../self_application/) | Each party (fitness screen + declaration) |

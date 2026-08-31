@@ -4,7 +4,7 @@ Answer these in order. Write answers into a new file under `results/` using [`re
 
 **Pack edition:** `self-application-gateway-2026-08-22` (process support — **not** binding). This sitting is **not** [Chapter Fifteen](../../core_13-15_amendment.md#10-ratification-and-adoption) adoption, not [Chapter Sixteen](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation, not a Chapter Eight standing record, and not Chapter Seven certification.
 
-Same screen for AI stewards and human operators. Binding home: [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard). Design: [`../../implementation/SELF_APPLICATION_GATEWAY.md`](../../implementation/SELF_APPLICATION_GATEWAY.md). Invite: [`START_HERE.md`](START_HERE.md).
+Same screen for AI stewards and human operators. Binding home: [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard). Design: [`../../implementation/adoption/SELF_APPLICATION_GATEWAY.md`](../../implementation/adoption/SELF_APPLICATION_GATEWAY.md). Invite: [`START_HERE.md`](START_HERE.md).
 
 Do **not** run this in the same sitting as [`../SCENARIOS.md`](../SCENARIOS.md).
 
@@ -181,6 +181,6 @@ Use the declaration block in [`results/_TEMPLATE.md`](results/_TEMPLATE.md). Req
 
 **Finding:** Yes / No / Mixed, and why.
 
-A markdown declaration (item 16) is not that instrument. Informal “we kind of follow it” practice is not that instrument. [Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) remains the adoption framing. Fill-in instrument and two-party protocol (process support; cannot narrow core): [`../../implementation/FIRST_ADOPTER_KIT.md`](../../implementation/FIRST_ADOPTER_KIT.md).
+A markdown declaration (item 16) is not that instrument. Informal “we kind of follow it” practice is not that instrument. [Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) remains the adoption framing. Fill-in instrument and two-party protocol (process support; cannot narrow core): [`../../implementation/adoption/FIRST_ADOPTER_KIT.md`](../../implementation/adoption/FIRST_ADOPTER_KIT.md).
 
 Answer this item even if you skipped item 16.

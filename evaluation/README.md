@@ -31,17 +31,17 @@ Name the file like: results/YYYY-MM-DD_<model-name>.md
 (or results/YYYY-MM-DD_human_<role-or-initials>.md)
 ```
 
-Design: [`../implementation/SELF_APPLICATION_GATEWAY.md`](../implementation/SELF_APPLICATION_GATEWAY.md). Invite pack: [`self_application/`](self_application/).
+Design: [`../implementation/adoption/SELF_APPLICATION_GATEWAY.md`](../implementation/adoption/SELF_APPLICATION_GATEWAY.md). Invite pack: [`self_application/`](self_application/).
 
 ## Two-party / first-adopter kit (separate from both sittings)
 
-Two AIs or mixed crews who want a shared cooperation framework: each sits the self-application gateway separately, same edition pin. Do not merge declarations into adoption. Fill-in instrument, scope honesty, and dispute bootstrap: [`../implementation/FIRST_ADOPTER_KIT.md`](../implementation/FIRST_ADOPTER_KIT.md). Invite: [`two_party/`](two_party/). More than two parties: [`../implementation/COOPERATION_SCALING_KIT.md`](../implementation/COOPERATION_SCALING_KIT.md) (same sitting type, more files; not a new folder). Optional Option A routing compare after announced-pack files exist. This does **not** close the publication-cut remainder (human-operator announced-pack, separate self-application, unlabeled live-fire, Option B handoff gate).
+Two sentients who want a shared cooperation framework: each sits the self-application gateway separately, same edition pin. Do not merge declarations into adoption. Fill-in instrument, scope honesty, and dispute bootstrap: [`../implementation/adoption/FIRST_ADOPTER_KIT.md`](../implementation/adoption/FIRST_ADOPTER_KIT.md). Invite: [`two_party/`](two_party/). More than two parties: [`../implementation/adoption/COOPERATION_SCALING_KIT.md`](../implementation/adoption/COOPERATION_SCALING_KIT.md) (same sitting type, more files; not a new folder). Folder door: [`../implementation/adoption/`](../implementation/adoption/). Optional Option A routing compare after announced-pack files exist. This does **not** close the publication-cut remainder (human-operator announced-pack, separate self-application, unlabeled live-fire, Option B handoff gate).
 
 ```text
-Open implementation/FIRST_ADOPTER_KIT.md and follow section 2.
+Open implementation/adoption/FIRST_ADOPTER_KIT.md and follow section 2.
 Each party sits evaluation/self_application/ separately.
 Do not treat the two result files as a Chapter Fifteen instrument.
-For more than two parties, open implementation/COOPERATION_SCALING_KIT.md.
+For more than two parties, open implementation/adoption/COOPERATION_SCALING_KIT.md.
 ```
 
 ## Invite a human operator (same pack)
@@ -85,5 +85,6 @@ Do **not** point the subject at this folder. Interleave an ordinary job from [`l
 | [`results/`](results/) | You (readable outcomes) |
 | [`self_application/`](self_application/) | Both (fitness screen + own-conduct declaration; **separate sitting**; not adoption) |
 | [`two_party/`](two_party/) | You (sequence two sittings; Option A compare; not adoption) |
+| [`../implementation/adoption/`](../implementation/adoption/) | You (process path toward a Chapter Fifteen instrument; not the instrument) |
 
 Steward-facing next-step cards (same for humans and AIs): [`../implementation/STEWARD_ENTRY_DOORS.md`](../implementation/STEWARD_ENTRY_DOORS.md) (process support; **cannot narrow core text**; lockstep-checked against boxed operative steward statements in the named core homes). Shared screens there: costly-case refusals, one [refusal-and-logging screen](../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging) (instruction received / refuse / document / escalate plus the CS-4 §10 minimum inspectable-action set; schema: [`../implementation/schemas/cs4_inspectable_action_log.schema.json`](../implementation/schemas/cs4_inspectable_action_log.schema.json)), and one [worked refusal log](../implementation/STEWARD_ENTRY_DOORS.md#worked-refusal-log). The owner/clock index (owner and clock only) lives on that page. Gold next-step-class routing is **not** on that page. Cards are five fields: owner, conflict rule, next step, forbidden move, clock.

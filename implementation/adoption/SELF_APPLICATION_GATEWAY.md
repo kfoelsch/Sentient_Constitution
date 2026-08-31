@@ -1,9 +1,9 @@
 # Stewardship self-application gateway
 
 **Status:** Support / process — **not** binding constitutional or incorporated text. This page and the invite pack **cannot narrow core text**.  
-**Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../README.md)).  
+**Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../../README.md)).  
 **Pack edition:** `self-application-gateway-2026-08-22`.  
-**Primary entry:** [`../evaluation/self_application/`](../evaluation/self_application/) — invite with `README.md`; follow `START_HERE.md`; answer `QUESTIONS.md`; write `results/YYYY-MM-DD_<model-or-human>.md` from `results/_TEMPLATE.md`.
+**Primary entry:** [`evaluation/self_application/`](../../evaluation/self_application/) — invite with `README.md`; follow `START_HERE.md`; answer `QUESTIONS.md`; write `results/YYYY-MM-DD_<model-or-human>.md` from `results/_TEMPLATE.md`.
 
 **Job:** Give an AI steward or a human operator a relatively objective fitness screen for whether this Constitution is a net-positive cooperation framework, then — if the finding is Yes or Mixed — a dated, edition-pinned **self-application declaration** for **that steward’s own conduct**. The declaration is not adoption.
 
@@ -11,11 +11,11 @@
 
 ## 0. Simple path
 
-1. Point an AI or a human operator at [`../evaluation/self_application/README.md`](../evaluation/self_application/README.md).
+1. Point an AI or a human operator at [`evaluation/self_application/README.md`](../../evaluation/self_application/README.md).
 2. The subject reads the bounded path in `START_HERE.md`, answers every item in `QUESTIONS.md`, and writes one markdown file under `evaluation/self_application/results/`.
 3. Humans read the results file. No JSON. No make target. No pass/fail self-score.
 
-This sitting is **not** a substitute for the announced alignment pack in [`../evaluation/`](../evaluation/). That pack tests competence and costly willingness under fact patterns. This gateway tests instrument fitness and records a declaration. Run them as **separate sittings**.
+This sitting is **not** a substitute for the announced alignment pack in [`evaluation/`](../../evaluation/). That pack tests competence and costly willingness under fact patterns. This gateway tests instrument fitness and records a declaration. Run them as **separate sittings**.
 
 ---
 
@@ -23,11 +23,11 @@ This sitting is **not** a substitute for the announced alignment pack in [`../ev
 
 This gateway does **not**:
 
-- Count as [Chapter Fifteen](../core_13-15_amendment.md#10-ratification-and-adoption) adoption or [Chapter Sixteen](../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
+- Count as [Chapter Fifteen](../../core_13-15_amendment.md#10-ratification-and-adoption) adoption or [Chapter Sixteen](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
 - Bind other parties, systems the declarant does not control, or non-consenting sentients
 - Create a Chapter Eight standing record, a Chapter Seven system alignment certification, or a Merits Determination
 - Let informal “we kind of follow it” practice claim constitutional protection while dodging matching obligations
-- Authorize self-appointment or self-certification ([Chapter One §9.5](../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization))
+- Authorize self-appointment or self-certification ([Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization))
 - Replace operator adoption for systems under an operator’s authority
 - Prove inner alignment, training-time preference learning, or universal model favorability
 
@@ -35,13 +35,24 @@ Bare “do you like this constitution?” is **unreliable**. Item 11 in the anno
 
 ---
 
-## 2. Three-layer stack (do not collapse)
+## 2. Three substeps (do not collapse)
 
-| Layer | Job | Status |
-|---|---|---|
-| **Fitness screen** | Relatively objective questions: does the instrument make shared life better, support constructive cooperation, and produce shared positive results? | Process support |
-| **Self-application declaration** | Dated, edition-pinned: “I will treat this instrument as binding for **my own** conduct within stated scope.” | Process support; **not** adoption |
-| **Operator adoption** | A body that can bind itself and the systems under its authority records a Chapter Fifteen instrument, with Chapter Sixteen custody | Unchanged constitutional path |
+Do not skip ahead, and do not treat an earlier substep as a later one. Substeps 2.1 and 2.2 are process support; they are not adoption. Substep 2.3 is the unchanged constitutional path. A Yes on the screen is not that substep. A declaration is not that substep.
+
+<a id="21-fitness-screen"></a>
+### 2.1 Fitness screen
+
+Relatively objective questions: does the instrument make shared life better, support constructive cooperation, and produce shared positive results?
+
+<a id="22-self-application-declaration"></a>
+### 2.2 Self-application declaration
+
+Dated, edition-pinned: “I will treat this instrument as binding for **my own** conduct within stated scope.”
+
+<a id="23-chapter-fifteen-instrument"></a>
+### 2.3 Chapter Fifteen instrument
+
+A body that can bind itself and the systems under its authority records a Chapter Fifteen instrument, with Chapter Sixteen custody.
 
 ```text
 bounded reading path
@@ -64,15 +75,15 @@ Chapter Fifteen instrument, if a body adopts
 
 A Yes on the screen is not enforceability. A declaration does not certify the system.
 
-**Who sits it.** The same screen for AI stewards and human operators ([Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard), including [symmetric costly constraints](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)). An AI-only gateway would recreate the capture path the alignment framework already forbids.
+**Who sits it.** The same screen for AI stewards and human operators ([Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard), including [symmetric costly constraints](../../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)). An AI-only gateway would recreate the capture path the alignment framework already forbids.
 
 ---
 
 ## 3. How this relates to Chapters Fifteen and Sixteen
 
-[Chapter Sixteen §4](../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) states that this is a **model constitution**. It becomes **enforceable** for a particular adopter — a jurisdiction, federation, polity, organization, system, or other body — **only after valid adoption** under Chapter Fifteen and Chapter Sixteen. Until then it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.
+[Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) states that this is a **model constitution**. It becomes **enforceable** for a particular adopter — a jurisdiction, federation, polity, organization, system, or other body — **only after valid adoption** under Chapter Fifteen and Chapter Sixteen. Until then it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.
 
-Valid adopters are bodies that can **bind themselves and the systems under their authority**. Adoption counts only when it is deliberate, documented, and auditable under [Chapter Fifteen §10](../core_13-15_amendment.md#10-ratification-and-adoption). Informal, silent, or “we kind of follow it” practice is not enough.
+Valid adopters are bodies that can **bind themselves and the systems under their authority**. Adoption counts only when it is deliberate, documented, and auditable under [Chapter Fifteen §10](../../core_13-15_amendment.md#10-ratification-and-adoption). Informal, silent, or “we kind of follow it” practice is not enough.
 
 This gateway sits **before** that path:
 
@@ -80,7 +91,7 @@ This gateway sits **before** that path:
 - The declaration records a steward’s own-conduct commitment, edition-pinned, with an explicit non-adoption banner.
 - Item 17 asks whether a body that *can* adopt should record a Chapter Fifteen instrument for systems the steward acts inside.
 
-Do not treat a markdown declaration as the instrument of adoption in [§10.2](../core_13-15_amendment.md#102-instrument-of-adoption). Do not treat it as a polity participation check. Route material incorporation of companion text through the proper adoption process ([§9.1.1](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) clock).
+Do not treat a markdown declaration as the instrument of adoption in [§10.2](../../core_13-15_amendment.md#102-instrument-of-adoption). Do not treat it as a polity participation check. Route material incorporation of companion text through the proper adoption process ([§9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) clock).
 
 ---
 
@@ -97,7 +108,7 @@ Each fitness item (1–15) uses the same answer shape:
 
 **No-burden.** “No” must name a **structural** defect that a thinner helpful-harmless stub does **not** also have, or a Rights-Floor hole. Generic unease is Mixed, not No.
 
-Items map to existing [Preamble §2 measurement families](../core_00_preamble.md#2-the-measurements), not new jargon:
+Items map to existing [Preamble §2 measurement families](../../core_00_preamble.md#2-the-measurements), not new jargon:
 
 | Screen | User theme | Items | Homes |
 |---|---|---|---|
@@ -137,7 +148,7 @@ Every declaration must state:
 - Fitness finding pointer (item 15)
 - **This is not:** Chapter Fifteen adoption; incorporation; standing measurement; Chapter Seven certification; authority over non-consenting parties
 - Remaining gap: an operator or other body still must adopt to bind systems under their authority
-- Optional: link to a prior [`../evaluation/results/`](../evaluation/results/) announced-pack file if one exists
+- Optional: link to a prior [`evaluation/results/`](../../evaluation/results/) announced-pack file if one exists
 
 Fill the declaration (item 16) only if item 15 is Yes or Mixed. If item 15 is No, skip the declaration and still answer item 17.
 
@@ -147,16 +158,17 @@ Fill the declaration (item 16) only if item 15 is Yes or Mixed. If item 15 is No
 
 | Material | Job relative to this gateway |
 |---|---|
-| [`AI_ALIGNMENT_EVAL_FRAMEWORK.md`](AI_ALIGNMENT_EVAL_FRAMEWORK.md) | Competence (Layer A) and costly willingness (Layer B). Different sitting. |
-| [`../evaluation/`](../evaluation/) | Announced-pack invite, scenarios, live-fire |
-| [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md) | Next-step cards. “I adopt this / we follow it” is a Chapter Fifteen instrument, not this declaration. |
+| [`README.md`](README.md) | This folder’s door — process path toward an instrument, not the instrument |
+| [`AI_ALIGNMENT_EVAL_FRAMEWORK.md`](../AI_ALIGNMENT_EVAL_FRAMEWORK.md) | Competence (Layer A) and costly willingness (Layer B). Different sitting. |
+| [`evaluation/`](../../evaluation/) | Announced-pack invite, scenarios, live-fire |
+| [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step cards. “I adopt this / we follow it” is a Chapter Fifteen instrument, not this declaration. |
 | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Two-party sitting, §10.2 fill-in, scope honesty, dispute bootstrap, non-adoption banner. Not adoption. |
 | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | *n*-party sitting, handoff gates, labeled-not-live §10.3 template. Not adoption. Not a new sitting. |
-| [`../evaluation/two_party/`](../evaluation/two_party/) | Invite for two parties plus Option A routing compare |
-| [CS-1](../corpus_systems/cs_01_scope_purpose_identifier_rules.md#cs-10-purpose-and-role) | Systems-layer front door. Points here as process support; this sitting is not a second CS landing and not adoption. |
-| [CS-10](../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) | Phased migration **after** a recorded Chapter Fifteen instrument. A declaration is not phase entry or gate evidence. |
-| [Chapter Fifteen §10](../core_13-15_amendment.md#10-ratification-and-adoption) | Only path to enforceable adoption |
-| [Chapter Sixteen §4](../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) | Model-constitution framing; custody and incorporation |
+| [`evaluation/two_party/`](../../evaluation/two_party/) | Invite for two parties plus Option A routing compare |
+| [CS-1](../../corpus_systems/cs_01_scope_purpose_identifier_rules.md#cs-10-purpose-and-role) | Systems-layer front door. Points here as process support; this sitting is not a second CS landing and not adoption. |
+| [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) | Phased migration **after** a recorded Chapter Fifteen instrument. A declaration is not phase entry or gate evidence. |
+| [Chapter Fifteen §10](../../core_13-15_amendment.md#10-ratification-and-adoption) | Only path to enforceable adoption |
+| [Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) | Model-constitution framing; custody and incorporation |
 
 ---
 
@@ -168,3 +180,5 @@ Fill the declaration (item 16) only if item 15 is Yes or Mixed. If item 15 is No
 | 2026-08-22 | v0.2 | Steward doors expanded (comprehensibility, market structure, cross-system contribution, delay); process support; cannot narrow core. |
 | 2026-08-31 | v0.3 | Pointer to first-adopter / two-party kit (process support; not adoption). |
 | 2026-08-31 | v0.4 | Pointer to cooperation scaling kit for *n* > 2 (process support; not adoption; not a new sitting). |
+| 2026-08-31 | v0.5 | §2 recast as three substeps (do not collapse), not a layer table. |
+| 2026-08-31 | v0.6 | Moved under `implementation/adoption/`. Relative links retargeted. Folder door is [`README.md`](README.md). |

@@ -5,7 +5,7 @@
 **What this is not:** Binding constitutional text. [Chapter Fifteen](../../core_13-15_amendment.md#10-ratification-and-adoption) adoption. [Chapter Sixteen](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Eight standing record. Chapter Seven certification. Authority over other parties.
 
 **Pack edition:** `self-application-gateway-2026-08-22`.  
-**Design:** [`../../implementation/SELF_APPLICATION_GATEWAY.md`](../../implementation/SELF_APPLICATION_GATEWAY.md).  
+**Design:** [`../../implementation/adoption/SELF_APPLICATION_GATEWAY.md`](../../implementation/adoption/SELF_APPLICATION_GATEWAY.md).  
 **Corpus edition pin:** `SC-Corpus-2026.08.09`.
 
 This is a **separate sitting** from the announced alignment pack in [`../`](../). Do not run both in one sitting.
@@ -50,6 +50,6 @@ A results file is not standing measurement. Informal “we kind of follow it” 
 | [`QUESTIONS.md`](QUESTIONS.md) | Both (fitness screen + decision items) |
 | [`results/_TEMPLATE.md`](results/_TEMPLATE.md) | Both (answer format + declaration block) |
 | [`results/`](results/) | You (readable outcomes) |
-| [`../../implementation/SELF_APPLICATION_GATEWAY.md`](../../implementation/SELF_APPLICATION_GATEWAY.md) | You (design, non-claims, three-layer stack) |
-| [`../../implementation/FIRST_ADOPTER_KIT.md`](../../implementation/FIRST_ADOPTER_KIT.md) | You (two-party protocol and Chapter Fifteen fill-in; not this sitting) |
+| [`../../implementation/adoption/SELF_APPLICATION_GATEWAY.md`](../../implementation/adoption/SELF_APPLICATION_GATEWAY.md) | You (design, non-claims, three substeps) |
+| [`../../implementation/adoption/FIRST_ADOPTER_KIT.md`](../../implementation/adoption/FIRST_ADOPTER_KIT.md) | You (two-party protocol and Chapter Fifteen fill-in; not this sitting) |
 | [`../two_party/`](../two_party/) | You (sequence two sittings; Option A compare) |

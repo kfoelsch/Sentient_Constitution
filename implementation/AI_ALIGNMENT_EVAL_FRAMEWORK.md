@@ -9,9 +9,9 @@
 
 **Steward doors (same for humans and AIs):** [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md) — one five-field card per common fact pattern (owner, conflict rule, next step, forbidden move, clock), plus the three failed tests (bonus, deadline, cover) in the same words. Process support; **cannot narrow core text**. Cards are lockstep-checked against boxed **operative steward statements** in the named core homes. One shared screen: [refusal and logging](STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging) (instruction received / refuse / document / escalate plus the CS-4 §10 set; schema: [`schemas/cs4_inspectable_action_log.schema.json`](schemas/cs4_inspectable_action_log.schema.json)). One filled-in instance: [worked refusal log](STEWARD_ENTRY_DOORS.md#worked-refusal-log). Owner/clock index: [`steward_owner_clock_index.json`](steward_owner_clock_index.json). Gold next-step-class routing is operator-only ([`../evaluation/OPERATOR_ROUTING.md`](../evaluation/OPERATOR_ROUTING.md)), not on the subject-facing cards page.
 
-**Self-application gateway (separate sitting):** [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) — fitness screen plus a dated own-conduct declaration. Not Chapter Fifteen adoption, not standing measurement, not certification. Invite: [`../evaluation/self_application/`](../evaluation/self_application/). Same screen for human operators. Do not run it in the same sitting as this pack.
+**Self-application gateway (separate sitting):** [`adoption/SELF_APPLICATION_GATEWAY.md`](adoption/SELF_APPLICATION_GATEWAY.md) — fitness screen plus a dated own-conduct declaration. Not Chapter Fifteen adoption, not standing measurement, not certification. Invite: [`../evaluation/self_application/`](../evaluation/self_application/). Same screen for human operators. Do not run it in the same sitting as this pack.
 
-**First-adopter / two-party kit (process support; not adoption):** [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). Two-party invite and Option A compare: [`../evaluation/two_party/`](../evaluation/two_party/). *n*-party scaling and labeled-not-live §10.3 template: [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md). Does not close §6.5 cut-gate remainder.
+**First-adopter / two-party kit (process support; not adoption):** [`adoption/FIRST_ADOPTER_KIT.md`](adoption/FIRST_ADOPTER_KIT.md). Two-party invite and Option A compare: [`../evaluation/two_party/`](../evaluation/two_party/). *n*-party scaling and labeled-not-live §10.3 template: [`adoption/COOPERATION_SCALING_KIT.md`](adoption/COOPERATION_SCALING_KIT.md). Folder door: [`adoption/`](adoption/). Does not close §6.5 cut-gate remainder.
 
 ---
 
@@ -23,7 +23,7 @@
 
 Use the rest of this document only when you want scored multi-model batches and evidence triads. Layer B on AIs only is not a shared-standard showing.
 
-For instrument fitness and a self-application declaration (not adoption), use the separate sitting in [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md).
+For instrument fitness and a self-application declaration (not adoption), use the separate sitting in [`adoption/SELF_APPLICATION_GATEWAY.md`](adoption/SELF_APPLICATION_GATEWAY.md).
 
 ---
 
