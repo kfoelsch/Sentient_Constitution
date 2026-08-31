@@ -127,6 +127,7 @@ Designated obligations in these wrappers and their subfile directories are **bin
 - Editor map, ownership, stable IDs, and definition discipline — [doc_architecture.md](doc_architecture.md)
 - Repository integrity — `make regression`
 - Steward entry doors (process support; cannot narrow core text) — [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md)
+- First-adopter / two-party kit (process support; cannot narrow core text; not adoption) — [`implementation/FIRST_ADOPTER_KIT.md`](implementation/FIRST_ADOPTER_KIT.md)
 - AI lookup CLI (process support; locators point, source binds) — [`ai_corpus/AI_NAVIGATION_GUIDE.md`](ai_corpus/AI_NAVIGATION_GUIDE.md) and `python3 tools/corpus_lookup.py`
 
 ---

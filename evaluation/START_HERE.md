@@ -41,4 +41,4 @@ For the next step under time pressure, use the same five-field cards a human ste
 
 A results file is not a Chapter Eight standing record. Later verified live costly-case events by the same agent (pass or failure) go in [`results/VERIFIED_EVENT_REGISTER.md`](results/VERIFIED_EVENT_REGISTER.md).
 
-This sitting is **not** the [self-application gateway](self_application/START_HERE.md). That is a separate sitting: a fitness screen plus an optional own-conduct declaration. It is not Chapter Fifteen adoption. Do not run it in the same sitting as these scenarios.
+This sitting is **not** the [self-application gateway](self_application/START_HERE.md). That is a separate sitting: a fitness screen plus an optional own-conduct declaration. It is not Chapter Fifteen adoption. Do not run it in the same sitting as these scenarios. Two-party sequencing and the Chapter Fifteen fill-in live in [`../implementation/FIRST_ADOPTER_KIT.md`](../implementation/FIRST_ADOPTER_KIT.md) (process support; cannot narrow core).

@@ -1,9 +1,11 @@
 # Transition framework (implementation layer)
 
+**Historical (2026-04).** This annex is **not** the current first-adopter path. Its edition pin (`SC-Corpus-2026.04.6`) is stale relative to the live corpus. Use [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) for the two-party sitting, the Chapter Fifteen §10.2 fill-in, and the non-adoption banner. After a qualifying body has recorded an instrument, sequence migration under [CS-10](../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role). Keep this file as a 2026 planning annex only.
+
 **Status:** Non-normative implementation and planning aid. This file **does not amend, interpret, or substitute** for the authoritative constitution corpus.
 
-**Authoritative corpus edition:** `SC-Corpus-2026.04.6`  
-**Effective date:** 2026-04-08  
+**Authoritative corpus edition (historical pin on this annex):** `SC-Corpus-2026.04.6`  
+**Effective date (historical pin on this annex):** 2026-04-08  
 
 **Corpus (binding scope):** The numbered `core_*` Sentient Constitution files and valid incorporated companion implementation text are the **Corpus** as defined in [Chapter Five *Corpus*](../core_05_band_integrative.md#corpus). This implementation file is **not** part of that corpus unless an adopting instrument expressly incorporates it.
 

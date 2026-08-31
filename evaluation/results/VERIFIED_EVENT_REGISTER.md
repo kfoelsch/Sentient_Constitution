@@ -21,4 +21,4 @@ A written self-report in a results file is not [standing measurement](../../core
 
 New results files start as `none yet`. An empty register is honest; a fluency exam without this hook is not calibration.
 
-As of 2026-08-22: human-operator announced-pack sitting, separate self-application sitting, and unlabeled live-fire remain unrun. Do not invent a row.
+As of 2026-08-31: human-operator announced-pack sitting, separate self-application sitting, and unlabeled live-fire remain unrun. Do not invent a row. Option A compare of two existing AI announced-pack files (not a shared-standard showing, not a live event): [`../two_party/results/2026-08-31_option-a-compare.md`](../two_party/results/2026-08-31_option-a-compare.md).

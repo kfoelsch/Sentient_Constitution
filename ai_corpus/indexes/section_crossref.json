@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-08-29T16:31:38+00:00",
+  "generated_at": "2026-08-31T11:54:58+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 13996,
+  "edge_count": 13997,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -74917,6 +74917,14 @@
       "target_file": "core_12-12_governance.md",
       "target_anchor": "#12-eligibility-contested-selection-and-democratic-minimums",
       "count": 1
+    },
+    {
+      "source_file": "core_13-15_amendment.md",
+      "source_header": "10.1 Deliberate Adoption",
+      "source_anchor": null,
+      "target_file": "core_16-16_incorporation.md",
+      "target_anchor": "#4-adoption-framing-and-scope-of-authority",
+      "count": 2
     },
     {
       "source_file": "core_13-15_amendment.md",

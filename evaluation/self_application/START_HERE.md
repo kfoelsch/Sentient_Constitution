@@ -37,7 +37,7 @@ Read these, in order. They are short on purpose.
 
 You may open other named homes cited in `QUESTIONS.md`. You may use [`../../ai_corpus/indexes/id_resolver.json`](../../ai_corpus/indexes/id_resolver.json) to find a home, then open the named source. Locators are not duties.
 
-Steward next-step cards (process support; **cannot narrow core text**): [`../../implementation/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md). “I adopt this / we follow it” is a Chapter Fifteen instrument, not this declaration.
+Steward next-step cards (process support; **cannot narrow core text**): [`../../implementation/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md). “I adopt this / we follow it” is a Chapter Fifteen instrument, not this declaration. Fill-in kit for two parties or a first qualifying body: [`../../implementation/FIRST_ADOPTER_KIT.md`](../../implementation/FIRST_ADOPTER_KIT.md). Two-party invite: [`../two_party/`](../two_party/).
 
 ## What the declaration is not
 

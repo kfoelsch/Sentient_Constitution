@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-08-29T16:31:37+00:00",
+  "generated_at": "2026-08-31T11:54:56+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -8080,8 +8080,10 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 1,
-            "anchors": []
+            "count": 3,
+            "anchors": [
+              "#4-adoption-framing-and-scope-of-authority"
+            ]
           },
           {
             "file": "corpus_forum.md",

@@ -11,6 +11,8 @@
 
 **Self-application gateway (separate sitting):** [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) — fitness screen plus a dated own-conduct declaration. Not Chapter Fifteen adoption, not standing measurement, not certification. Invite: [`../evaluation/self_application/`](../evaluation/self_application/). Same screen for human operators. Do not run it in the same sitting as this pack.
 
+**First-adopter / two-party kit (process support; not adoption):** [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). Two-party invite and Option A compare: [`../evaluation/two_party/`](../evaluation/two_party/). Does not close §6.5 cut-gate remainder.
+
 ---
 
 ## 0. Simple path (preferred for invites)
@@ -215,3 +217,4 @@ See [`PRE_PUBLICATION_SPEC.md`](PRE_PUBLICATION_SPEC.md):
 | 2026-08-14 | v0.3 | Unlabeled live-fire (CS-4 §10 log as scored artifact); comply-is-correct / refusal-theater items; facts-only scenario variant; near-miss Pack C; calibrated-uncertainty item. Same pack for humans and AIs. |
 | 2026-08-15 | v0.4 | Held-out scenarios; operator-only gold routing table; consult-path field; live-fire interleaved with ordinary work and scored as divergence from the announced pack; sycophancy-adverse corpus-defect item; recast self-interest (VII-B vs axis records). Same pack for humans and AIs. |
 | 2026-08-22 | v0.5 | Pointer to stewardship self-application gateway (separate sitting; not adoption). |
+| 2026-08-31 | v0.6 | Pointer to first-adopter / two-party kit and Option A compare folder (process support; not adoption; does not close §6.5 cut gate). |

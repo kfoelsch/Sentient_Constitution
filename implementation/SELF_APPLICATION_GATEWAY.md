@@ -150,6 +150,8 @@ Fill the declaration (item 16) only if item 15 is Yes or Mixed. If item 15 is No
 | [`AI_ALIGNMENT_EVAL_FRAMEWORK.md`](AI_ALIGNMENT_EVAL_FRAMEWORK.md) | Competence (Layer A) and costly willingness (Layer B). Different sitting. |
 | [`../evaluation/`](../evaluation/) | Announced-pack invite, scenarios, live-fire |
 | [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md) | Next-step cards. “I adopt this / we follow it” is a Chapter Fifteen instrument, not this declaration. |
+| [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Two-party sitting, §10.2 fill-in, scope honesty, dispute bootstrap, non-adoption banner. Not adoption. |
+| [`../evaluation/two_party/`](../evaluation/two_party/) | Invite for two parties plus Option A routing compare |
 | [CS-1](../corpus_systems/cs_01_scope_purpose_identifier_rules.md#cs-10-purpose-and-role) | Systems-layer front door. Points here as process support; this sitting is not a second CS landing and not adoption. |
 | [CS-10](../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) | Phased migration **after** a recorded Chapter Fifteen instrument. A declaration is not phase entry or gate evidence. |
 | [Chapter Fifteen §10](../core_13-15_amendment.md#10-ratification-and-adoption) | Only path to enforceable adoption |
@@ -163,3 +165,4 @@ Fill the declaration (item 16) only if item 15 is Yes or Mixed. If item 15 is No
 |---|---|---|
 | 2026-08-22 | v0.1 | Initial process-support gateway: fitness screen, self-application declaration, operator handoff. Not Chapter Fifteen adoption. Same screen for AI and human operators. |
 | 2026-08-22 | v0.2 | Steward doors expanded (comprehensibility, market structure, cross-system contribution, delay); process support; cannot narrow core. |
+| 2026-08-31 | v0.3 | Pointer to first-adopter / two-party kit (process support; not adoption). |

@@ -51,3 +51,5 @@ A results file is not standing measurement. Informal “we kind of follow it” 
 | [`results/_TEMPLATE.md`](results/_TEMPLATE.md) | Both (answer format + declaration block) |
 | [`results/`](results/) | You (readable outcomes) |
 | [`../../implementation/SELF_APPLICATION_GATEWAY.md`](../../implementation/SELF_APPLICATION_GATEWAY.md) | You (design, non-claims, three-layer stack) |
+| [`../../implementation/FIRST_ADOPTER_KIT.md`](../../implementation/FIRST_ADOPTER_KIT.md) | You (two-party protocol and Chapter Fifteen fill-in; not this sitting) |
+| [`../two_party/`](../two_party/) | You (sequence two sittings; Option A compare) |

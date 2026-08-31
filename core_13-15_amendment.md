@@ -555,15 +555,17 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 
 - Upstream: [§16](#10-ratification-and-adoption) ratification frame.
 - Downstream: [§11.2](#112-instrument-of-adoption) instrument requirements; [§11.3](#113-joining-by-additional-parties) joining rules.
-- Read with: [Chapter Twelve §1](core_12-12_governance.md#1-authorization-and-legitimacy-of-governing-authority) documented legitimacy mechanism alongside deliberate adoption.
+- Read with: [Chapter Twelve §1](core_12-12_governance.md#1-authorization-and-legitimacy-of-governing-authority) documented legitimacy mechanism alongside deliberate adoption; [Chapter Sixteen §4](core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) (*who may adopt* — a steward bound by valid adoption is not themselves a qualifying adopter).
 
 </details>
 
 <br>
 
-*In plain terms: binding adoption has to be explicit, recorded, and auditable to the scale of the system — quiet or partial "we kind of follow it" does not let an operator claim constitutional protection while dodging obligations.*
+*In plain terms: binding adoption has to be explicit, recorded, and auditable to the scale of the system — quiet or partial "we kind of follow it" does not let an operator claim constitutional protection while dodging obligations, and a steward's own-conduct note is not adoption.*
 
 This Constitution binds a steward, organization, federation of bodies, or jurisdiction only when adoption is deliberate, documented, and auditable. Auditability must meet a standard proportionate to system class, material impact, and dependency under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**. Informal, partial, or undisclosed adoption is insufficient to claim constitutional protections as a shield while denying corresponding obligations.
+
+A steward is bound when a qualifying adopter records a valid instrument under this section and [Chapter Sixteen §4](core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority); listing a steward as a party bound by adoption does not make that steward themselves a qualifying adopter.
 
 When the adopter is a jurisdiction or polity, the recorded mechanism must include a published affected-sentient participation check — contested election, sortition, federated ratification, or another [Chapter Twelve §1.2](core_12-12_governance.md#12-eligibility-contested-selection-and-democratic-minimums)-compliant path. Silent board resolution, undisclosed executive instrument, or "we kind of follow it" practice is not enough for a polity to claim constitutional adoption. Organizations, system operators, and system-developer consortia remain able to adopt through the existing deliberate, documented, and auditable path without that polity participation check.
 

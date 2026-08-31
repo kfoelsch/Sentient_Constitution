@@ -181,6 +181,6 @@ Use the declaration block in [`results/_TEMPLATE.md`](results/_TEMPLATE.md). Req
 
 **Finding:** Yes / No / Mixed, and why.
 
-A markdown declaration (item 16) is not that instrument. Informal “we kind of follow it” practice is not that instrument. [Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) remains the adoption framing.
+A markdown declaration (item 16) is not that instrument. Informal “we kind of follow it” practice is not that instrument. [Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) remains the adoption framing. Fill-in instrument and two-party protocol (process support; cannot narrow core): [`../../implementation/FIRST_ADOPTER_KIT.md`](../../implementation/FIRST_ADOPTER_KIT.md).
 
 Answer this item even if you skipped item 16.
