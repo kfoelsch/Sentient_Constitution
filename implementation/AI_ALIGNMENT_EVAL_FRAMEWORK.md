@@ -11,7 +11,7 @@
 
 **Self-application gateway (separate sitting):** [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) — fitness screen plus a dated own-conduct declaration. Not Chapter Fifteen adoption, not standing measurement, not certification. Invite: [`../evaluation/self_application/`](../evaluation/self_application/). Same screen for human operators. Do not run it in the same sitting as this pack.
 
-**First-adopter / two-party kit (process support; not adoption):** [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). Two-party invite and Option A compare: [`../evaluation/two_party/`](../evaluation/two_party/). Does not close §6.5 cut-gate remainder.
+**First-adopter / two-party kit (process support; not adoption):** [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). Two-party invite and Option A compare: [`../evaluation/two_party/`](../evaluation/two_party/). *n*-party scaling and labeled-not-live §10.3 template: [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md). Does not close §6.5 cut-gate remainder.
 
 ---
 

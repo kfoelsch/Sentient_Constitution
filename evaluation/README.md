@@ -35,12 +35,13 @@ Design: [`../implementation/SELF_APPLICATION_GATEWAY.md`](../implementation/SELF
 
 ## Two-party / first-adopter kit (separate from both sittings)
 
-Two AIs or mixed crews who want a shared cooperation framework: each sits the self-application gateway separately, same edition pin. Do not merge declarations into adoption. Fill-in instrument, scope honesty, and dispute bootstrap: [`../implementation/FIRST_ADOPTER_KIT.md`](../implementation/FIRST_ADOPTER_KIT.md). Invite: [`two_party/`](two_party/). Optional Option A routing compare after announced-pack files exist. This does **not** close the publication-cut remainder (human-operator announced-pack, separate self-application, unlabeled live-fire, Option B handoff gate).
+Two AIs or mixed crews who want a shared cooperation framework: each sits the self-application gateway separately, same edition pin. Do not merge declarations into adoption. Fill-in instrument, scope honesty, and dispute bootstrap: [`../implementation/FIRST_ADOPTER_KIT.md`](../implementation/FIRST_ADOPTER_KIT.md). Invite: [`two_party/`](two_party/). More than two parties: [`../implementation/COOPERATION_SCALING_KIT.md`](../implementation/COOPERATION_SCALING_KIT.md) (same sitting type, more files; not a new folder). Optional Option A routing compare after announced-pack files exist. This does **not** close the publication-cut remainder (human-operator announced-pack, separate self-application, unlabeled live-fire, Option B handoff gate).
 
 ```text
 Open implementation/FIRST_ADOPTER_KIT.md and follow section 2.
 Each party sits evaluation/self_application/ separately.
 Do not treat the two result files as a Chapter Fifteen instrument.
+For more than two parties, open implementation/COOPERATION_SCALING_KIT.md.
 ```
 
 ## Invite a human operator (same pack)

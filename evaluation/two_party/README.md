@@ -32,6 +32,8 @@ from evaluation/two_party/results/_TEMPLATE.md using OPTION_A_COMPARE.md.
 
 A compare sheet is not standing measurement. Two declarations are not joining under [Chapter Fifteen §10.3](../../core_13-15_amendment.md#103-joining-by-additional-parties).
 
+**More than two parties:** use [`../../implementation/COOPERATION_SCALING_KIT.md`](../../implementation/COOPERATION_SCALING_KIT.md). This folder stays two-party. Do not add a third results file here and call it joining. Do not treat the scaling kit’s joining-rule template as published §10.3 rules.
+
 ## Operator remainder (not closed by this folder)
 
 This sitting does **not** claim [PRE_PUBLICATION_SPEC.md](../../implementation/PRE_PUBLICATION_SPEC.md) §6.5 “AI handoff readiness” for a publication cut. Still unrun as of 2026-08-31:
@@ -52,4 +54,5 @@ AI-only files are not a [Chapter One §9.1.1](../../core_01_c_stewardship_capaci
 | [`results/_TEMPLATE.md`](results/_TEMPLATE.md) | Operator (compare format) |
 | [`results/`](results/) | You (readable compare outcomes) |
 | [`../../implementation/FIRST_ADOPTER_KIT.md`](../../implementation/FIRST_ADOPTER_KIT.md) | Both parties (protocol, instrument fill-in, banners) |
+| [`../../implementation/COOPERATION_SCALING_KIT.md`](../../implementation/COOPERATION_SCALING_KIT.md) | More than two parties (handoff gates; not this folder) |
 | [`../self_application/`](../self_application/) | Each party (fitness screen + declaration) |

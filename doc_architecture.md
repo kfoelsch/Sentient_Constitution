@@ -15,7 +15,7 @@ Retired architecture sections **14–19** (worklist, adoption appendix, document
 - **Track gaps** — stable IDs via `make architecture-index` ([generated index](doc_architecture/generated/stable_id_index.md)).
 - **Keep headings, anchors, and cross-references consistent** so audits and editors can navigate. This corpus is **pre-release**: one current fragment id per heading; do not keep fossil or legacy redirect anchors. Auxiliary exports (PDF, plain text) are **non-authoritative** derivatives.
 
-**Review commands:** `make regression` / `make regression-full` (includes measurement-tier, measurement-coverage, and steward-door lockstep audits). Before publication cuts: `make hierarchy-map && make ch5-measurement-tier-audit && make ch5-measurement-coverage-audit`. Steward cards: [implementation/STEWARD_ENTRY_DOORS.md](implementation/STEWARD_ENTRY_DOORS.md). First-adopter / two-party kit (process support; not adoption): [implementation/FIRST_ADOPTER_KIT.md](implementation/FIRST_ADOPTER_KIT.md).
+**Review commands:** `make regression` / `make regression-full` (includes measurement-tier, measurement-coverage, and steward-door lockstep audits). Before publication cuts: `make hierarchy-map && make ch5-measurement-tier-audit && make ch5-measurement-coverage-audit`. Steward cards: [implementation/STEWARD_ENTRY_DOORS.md](implementation/STEWARD_ENTRY_DOORS.md). First-adopter / two-party kit (process support; not adoption): [implementation/FIRST_ADOPTER_KIT.md](implementation/FIRST_ADOPTER_KIT.md). Cooperation scaling kit (process support; not adoption; not live §10.3 joining rules): [implementation/COOPERATION_SCALING_KIT.md](implementation/COOPERATION_SCALING_KIT.md).
 
 ### Canonical filename convention
 

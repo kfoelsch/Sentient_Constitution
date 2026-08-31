@@ -4,7 +4,7 @@
 **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.  
 **Job:** Give two AIs, two stewards, or a first qualifying body a fill-in path that keeps the three-layer stack uncollapsed: fitness screen, own-conduct declaration, Chapter Fifteen instrument.
 
-This page is **not** [CS-10](../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role). CS-10 sequences migration **after** a recorded Chapter Fifteen instrument. A 2026-04 planning annex remains historical: [`TRANSITION_FRAMEWORK_2026.md`](TRANSITION_FRAMEWORK_2026.md).
+This page is **not** [CS-10](../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role). CS-10 sequences migration **after** a recorded Chapter Fifteen instrument. A 2026-04 planning annex remains historical: [`TRANSITION_FRAMEWORK_2026.md`](TRANSITION_FRAMEWORK_2026.md). More than two parties: [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) (*n*-party sitting, handoff gates, labeled-not-live §10.3 template). That page does not replace this kit’s two-party protocol or instrument fill-in.
 
 ---
 
@@ -64,7 +64,7 @@ Use this when two AIs (or one AI and one human operator, or two operators) want 
 6. **First adopters use §10.1–§10.2, not §10.3.** There is no existing-adopter joining rule set to join. Do not treat the other party’s declaration as published joining rules.
 7. **Day-to-day cooperation** after the sitting uses the same steward doors for both kinds of steward: [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md). “I adopt this / we follow it” still routes here, not to a declaration.
 
-Invite copy for the two-party folder: [`../evaluation/two_party/README.md`](../evaluation/two_party/README.md).
+Invite copy for the two-party folder: [`../evaluation/two_party/README.md`](../evaluation/two_party/README.md). For more than two parties, use [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md). Do not merge extra declarations into this kit’s instrument.
 
 ---
 
@@ -195,6 +195,7 @@ non-adopters. See Chapter Sixteen §4.
 | Material | Job relative to this kit |
 |---|---|
 | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Fitness screen + declaration design (Layer 1–2) |
+| [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | *n*-party sitting, handoff gates, labeled-not-live §10.3 template. Not adoption. Not CS-10. |
 | [`../evaluation/self_application/`](../evaluation/self_application/) | Invite for each party’s sitting |
 | [`../evaluation/two_party/`](../evaluation/two_party/) | Two-party invite and Option A compare sheet |
 | [`STEWARD_ENTRY_DOORS.md`](STEWARD_ENTRY_DOORS.md) | Next-step cards. “I adopt this / we follow it” points here |
@@ -211,3 +212,4 @@ non-adopters. See Chapter Sixteen §4.
 | Date | Version | Note |
 |---|---|---|
 | 2026-08-31 | v0.1 | Initial process-support kit: two-party sitting, §10.2 fill-in, scope honesty, dispute bootstrap, non-adoption banner. Not Chapter Fifteen adoption. Points CS-10 after a real instrument. |
+| 2026-08-31 | v0.2 | Pointer to [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) for *n* > 2. This kit stays the two-party / first-instrument door. |
