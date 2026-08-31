@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-08-17T10:25:00+00:00",
+  "generated_at": "2026-08-29T16:31:38+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 13990,
+  "edge_count": 13996,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -13732,6 +13732,14 @@
       "source_anchor": "#92-distributed-understanding",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.2 Distributed Understanding",
+      "source_anchor": "#92-distributed-understanding",
+      "target_file": "core_06-06_rights_part_c.md",
+      "target_anchor": "#operative-steward-statement-comprehensibility",
       "count": 1
     },
     {
@@ -31436,6 +31444,14 @@
       "source_anchor": "#proportionate-cross-system-support-constitutional",
       "target_file": "core_06-06_rights_part_a.md",
       "target_anchor": "#article-iv-b-cross-system-fairness-and-sustainability",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Proportionate Cross-System Contribution",
+      "source_anchor": "#proportionate-cross-system-support-constitutional",
+      "target_file": "core_06-06_rights_part_a.md",
+      "target_anchor": "#operative-steward-statement-cross-system-contribution",
       "count": 1
     },
     {
@@ -57048,6 +57064,110 @@
     },
     {
       "source_file": "core_06-06_rights_part_c.md",
+      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": "#operative-steward-statement-comprehensibility",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#31-safety-harm-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06-06_rights_part_c.md",
+      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": "#operative-steward-statement-comprehensibility",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#15-integrated-application",
+      "count": 1
+    },
+    {
+      "source_file": "core_06-06_rights_part_c.md",
+      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": "#operative-steward-statement-comprehensibility",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 2
+    },
+    {
+      "source_file": "core_06-06_rights_part_c.md",
+      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": "#operative-steward-statement-comprehensibility",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06-06_rights_part_c.md",
+      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": "#operative-steward-statement-comprehensibility",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06-06_rights_part_c.md",
+      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": "#operative-steward-statement-comprehensibility",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-boundary-integrity",
+      "count": 2
+    },
+    {
+      "source_file": "core_06-06_rights_part_c.md",
+      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": "#operative-steward-statement-comprehensibility",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-boundary-integrity-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06-06_rights_part_c.md",
+      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": "#operative-steward-statement-comprehensibility",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-boundary-integrity-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06-06_rights_part_c.md",
+      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": "#operative-steward-statement-comprehensibility",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 2
+    },
+    {
+      "source_file": "core_06-06_rights_part_c.md",
+      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": "#operative-steward-statement-comprehensibility",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06-06_rights_part_c.md",
+      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": "#operative-steward-statement-comprehensibility",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06-06_rights_part_c.md",
+      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": "#operative-steward-statement-comprehensibility",
+      "target_file": "core_07_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#3-whole-system-certification-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06-06_rights_part_c.md",
+      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": "#operative-steward-statement-comprehensibility",
+      "target_file": "corpus_systems.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06-06_rights_part_c.md",
       "source_header": "Article XII-C: Prohibition of False Trust and Misleading Reliance",
       "source_anchor": "#operative-steward-statement-contest",
       "target_file": "core_01_a_values_principles.md",
@@ -61496,110 +61616,6 @@
     },
     {
       "source_file": "core_06-06_rights_part_c.md",
-      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": null,
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#31-safety-harm-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_06-06_rights_part_c.md",
-      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": null,
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#15-integrated-application",
-      "count": 1
-    },
-    {
-      "source_file": "core_06-06_rights_part_c.md",
-      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#dependency",
-      "count": 2
-    },
-    {
-      "source_file": "core_06-06_rights_part_c.md",
-      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#dependency-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06-06_rights_part_c.md",
-      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#dependency-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06-06_rights_part_c.md",
-      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-boundary-integrity",
-      "count": 2
-    },
-    {
-      "source_file": "core_06-06_rights_part_c.md",
-      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-boundary-integrity-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06-06_rights_part_c.md",
-      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-boundary-integrity-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06-06_rights_part_c.md",
-      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability",
-      "count": 2
-    },
-    {
-      "source_file": "core_06-06_rights_part_c.md",
-      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06-06_rights_part_c.md",
-      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06-06_rights_part_c.md",
-      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": null,
-      "target_file": "core_07_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#3-whole-system-certification-evaluation",
-      "count": 1
-    },
-    {
-      "source_file": "core_06-06_rights_part_c.md",
-      "source_header": "Article XX-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": null,
-      "target_file": "corpus_systems.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_06-06_rights_part_c.md",
       "source_header": "Article XX: Comprehensibility and Complexity Stewardship",
       "source_anchor": null,
       "target_file": "core_00_preamble.md",
@@ -63520,6 +63536,62 @@
     },
     {
       "source_file": "core_06-06_rights_part_d.md",
+      "source_header": "Article XXV: Constitutional Evolution and Non-Entrenchment",
+      "source_anchor": "#operative-steward-statement-delay",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-constitutional-aims",
+      "count": 1
+    },
+    {
+      "source_file": "core_06-06_rights_part_d.md",
+      "source_header": "Article XXV: Constitutional Evolution and Non-Entrenchment",
+      "source_anchor": "#operative-steward-statement-delay",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_06-06_rights_part_d.md",
+      "source_header": "Article XXV: Constitutional Evolution and Non-Entrenchment",
+      "source_anchor": "#operative-steward-statement-delay",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_06-06_rights_part_d.md",
+      "source_header": "Article XXV: Constitutional Evolution and Non-Entrenchment",
+      "source_anchor": "#operative-steward-statement-delay",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#10-governance-under-stewardship-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06-06_rights_part_d.md",
+      "source_header": "Article XXV: Constitutional Evolution and Non-Entrenchment",
+      "source_anchor": "#operative-steward-statement-delay",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#governance",
+      "count": 2
+    },
+    {
+      "source_file": "core_06-06_rights_part_d.md",
+      "source_header": "Article XXV: Constitutional Evolution and Non-Entrenchment",
+      "source_anchor": "#operative-steward-statement-delay",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#governance-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06-06_rights_part_d.md",
+      "source_header": "Article XXV: Constitutional Evolution and Non-Entrenchment",
+      "source_anchor": "#operative-steward-statement-delay",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#governance-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06-06_rights_part_d.md",
       "source_header": "Article XXIV: Timely Retrospective Review and Restorative Alignment",
       "source_anchor": "#xxiii-d-restore-challenge-clocks",
       "target_file": "core_00_preamble.md",
@@ -64404,62 +64476,6 @@
       "source_anchor": null,
       "target_file": "core_07_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
-      "count": 1
-    },
-    {
-      "source_file": "core_06-06_rights_part_d.md",
-      "source_header": "Article XXV: Constitutional Evolution and Non-Entrenchment",
-      "source_anchor": null,
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#two-constitutional-aims",
-      "count": 1
-    },
-    {
-      "source_file": "core_06-06_rights_part_d.md",
-      "source_header": "Article XXV: Constitutional Evolution and Non-Entrenchment",
-      "source_anchor": null,
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#constitutional-tetrad",
-      "count": 1
-    },
-    {
-      "source_file": "core_06-06_rights_part_d.md",
-      "source_header": "Article XXV: Constitutional Evolution and Non-Entrenchment",
-      "source_anchor": null,
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#material-stake",
-      "count": 1
-    },
-    {
-      "source_file": "core_06-06_rights_part_d.md",
-      "source_header": "Article XXV: Constitutional Evolution and Non-Entrenchment",
-      "source_anchor": null,
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#10-governance-under-stewardship-discipline",
-      "count": 1
-    },
-    {
-      "source_file": "core_06-06_rights_part_d.md",
-      "source_header": "Article XXV: Constitutional Evolution and Non-Entrenchment",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#governance",
-      "count": 2
-    },
-    {
-      "source_file": "core_06-06_rights_part_d.md",
-      "source_header": "Article XXV: Constitutional Evolution and Non-Entrenchment",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#governance-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06-06_rights_part_d.md",
-      "source_header": "Article XXV: Constitutional Evolution and Non-Entrenchment",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#governance-c",
       "count": 1
     },
     {
@@ -73437,6 +73453,14 @@
       "target_file": "core_06-06_rights_part_d.md",
       "target_anchor": "#xxiii-d-restore-challenge-clocks",
       "count": 2
+    },
+    {
+      "source_file": "core_11-11_forum.md",
+      "source_header": "6. Timely resolution, materiality tiers, and anti-delay discipline",
+      "source_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+      "target_file": "core_06-06_rights_part_d.md",
+      "target_anchor": "#operative-steward-statement-delay",
+      "count": 1
     },
     {
       "source_file": "core_11-11_forum.md",
@@ -107042,8 +107066,24 @@
       "source_file": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
       "source_header": "CS-1.0: Purpose and role",
       "source_anchor": "#cs-10-purpose-and-role",
+      "target_file": "core_13-15_amendment.md",
+      "target_anchor": "#10-ratification-and-adoption",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
+      "source_header": "CS-1.0: Purpose and role",
+      "source_anchor": "#cs-10-purpose-and-role",
       "target_file": "core_16-16_incorporation.md",
       "target_anchor": "#chapter-sixteen-incorporation-bridge",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
+      "source_header": "CS-1.0: Purpose and role",
+      "source_anchor": "#cs-10-purpose-and-role",
+      "target_file": "core_16-16_incorporation.md",
+      "target_anchor": "#4-adoption-framing-and-scope-of-authority",
       "count": 1
     },
     {
@@ -111220,6 +111260,14 @@
       "source_anchor": null,
       "target_file": "corpus_systems/cs_00_registry_and_reading_rules.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_10_transition_constitution_migration_governance.md",
+      "source_header": "CS-10.1 Purpose and role",
+      "source_anchor": "#cs-10-1-purpose-and-role",
+      "target_file": "core_13-15_amendment.md",
+      "target_anchor": "#10-ratification-and-adoption",
       "count": 1
     },
     {

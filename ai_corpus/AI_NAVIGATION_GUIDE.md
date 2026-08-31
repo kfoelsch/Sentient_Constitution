@@ -10,20 +10,22 @@
 
 ### Before You Read Any File
 
-1. **High-pressure fact pattern** → `implementation/STEWARD_ENTRY_DOORS.md` or `implementation/steward_owner_clock_index.json`
-   - Owner, next-step class, forbidden move, clock
-   - Verify the card against the boxed operative steward statement in the named core home
+Use `python3 tools/corpus_lookup.py` (skill: `.cursor/skills/corpus-lookup/SKILL.md`). Do not open `id_resolver.json` for meaning — it embeds gloss. Locators point; source binds.
 
-2. **ID, topic, or term** → `ai_corpus/indexes/id_resolver.json`
+1. **High-pressure fact pattern** → `python3 tools/corpus_lookup.py door CASE_ID` or `door --high-pressure`
+   - Open the returned `card_path`, then verify the boxed operative steward statement at `operative_box.href`
+   - Do not treat card prose as a duty
+
+2. **ID, topic, or term** → `python3 tools/corpus_lookup.py resolve QUERY`
    - `CF-10`, `CJS-3.13`, `CS-4`, `CI-12`, `Def.P1`
-   - CJS-0.1 topic rows (`CJS-R09` and the topic string)
-   - Chapter Five terms (file + line range; no duty text in the index)
-   - Current heading anchors only (pre-release: no fossil or legacy fragment aliases)
+   - CJS-0.1 topic rows (`CJS-R09` and the topic string) via `topic-route`
+   - Chapter Five terms (file + line range; hydrate the source block)
+   - Current heading anchors only — `validity --file FILE --anchor '#fragment'`
 
-3. **Heading line range** → `ai_corpus/indexes/section_manifest.json`
-   - Read only those lines from the source file
+3. **Authentic span** → `python3 tools/corpus_lookup.py hydrate QUERY`
+   - Or `hydrate --file FILE --start N --end M` when the cap requires a smaller range
 
-4. **Then open the named source.** Do not treat a locator, gloss, or steward card as a duty.
+4. **Then cite the named source.** Do not treat a locator, gloss, or steward card as a duty.
 
 ---
 
@@ -32,10 +34,10 @@
 ### Pattern 1: Locate, then read
 
 ```
-Step 1: Query ai_corpus/indexes/id_resolver.json
-        → file, anchor, line (and mandatory read-with for topics)
+Step 1: python3 tools/corpus_lookup.py resolve QUERY
+        → file, anchor, line (and topic-route for mandatory read-with)
 
-Step 2: Read only those lines from the source file
+Step 2: python3 tools/corpus_lookup.py hydrate QUERY
 
 Step 3: If the locator and the source disagree, the source wins
 ```
@@ -43,10 +45,11 @@ Step 3: If the locator and the source disagree, the source wins
 ### Pattern 2: Definition lookup
 
 ```
-Step 1: Query id_resolver.json definitions[] or definition_registry.json
+Step 1: python3 tools/corpus_lookup.py resolve "Proportionality"
         → Get line range for the term
 
-Step 2: Read only those lines (complete O/M/A/C block)
+Step 2: python3 tools/corpus_lookup.py hydrate "Proportionality"
+        (complete O/M/A/C block)
 
 Step 3: Do not copy definition text into JSON or invent a parallel stack
 ```
@@ -54,10 +57,10 @@ Step 3: Do not copy definition text into JSON or invent a parallel stack
 ### Pattern 3: Cross-file topic
 
 ```
-Step 1: Query id_resolver.json topics[] or doc_architecture/generated/topic_router.json
+Step 1: python3 tools/corpus_lookup.py topic-route CJS-R09
         → primary owner file(s) + mandatory read-with files
 
-Step 2: Read the owner, then each listed read-with
+Step 2: Hydrate the owner, then each listed read-with
 
 Step 3: Apply Chapter One §8.4.4 combined satisfaction; do not skip read-with
 ```
@@ -65,8 +68,8 @@ Step 3: Apply Chapter One §8.4.4 combined satisfaction; do not skip read-with
 ### Pattern 4: Citation / rename audit
 
 ```
-File-to-file:   ai_corpus/indexes/crossref_matrix.json
-Section-to-section: ai_corpus/indexes/section_crossref.json
+python3 tools/corpus_lookup.py citator --file FILE [--anchor '#fragment']
+python3 tools/corpus_lookup.py validity --file FILE --anchor '#fragment'
 ```
 
 ---
@@ -95,9 +98,9 @@ Section-to-section: ai_corpus/indexes/section_crossref.json
 
 ### Tier 1: Locators (check first)
 
-1. `ai_corpus/indexes/id_resolver.json` — IDs, topics, terms, current heading anchors, steward-door pointers
-2. `ai_corpus/indexes/section_manifest.json` — heading line ranges
-3. `implementation/STEWARD_ENTRY_DOORS.md` — high-pressure next step (process support)
+1. `python3 tools/corpus_lookup.py` — resolve / hydrate / topic-route / door / citator / validity
+2. Generated indexes under `ai_corpus/indexes/` — machine input to that CLI, not a duty text
+3. `implementation/STEWARD_ENTRY_DOORS.md` — high-pressure next step after `door` (process support)
 
 ### Tier 2: Architecture context
 

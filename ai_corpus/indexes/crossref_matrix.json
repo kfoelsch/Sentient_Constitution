@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-08-17T10:24:59+00:00",
+  "generated_at": "2026-08-29T16:31:37+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1730,7 +1730,7 @@
           },
           {
             "file": "core_06-06_rights_part_c.md",
-            "count": 29,
+            "count": 30,
             "anchors": [
               "#article-xii-d-incentive-alignment-constraint",
               "#article-xiv-info-sphere-integrity",
@@ -1742,7 +1742,8 @@
               "#article-xxi-root-cause-analysis-and-adaptive-response",
               "#article-xxii-a-bounded-interpretive-mandate",
               "#article-xxii-c-public-reasons-challenge-rights-and-external-review",
-              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
+              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
+              "#operative-steward-statement-comprehensibility"
             ]
           },
           {
@@ -3794,7 +3795,7 @@
           },
           {
             "file": "core_06-06_rights_part_a.md",
-            "count": 34,
+            "count": 35,
             "anchors": [
               "#article-i-a-environmental-preconditions-and-ecological-integrity",
               "#article-i-b-ecological-footprint-and-transparency",
@@ -3806,7 +3807,8 @@
               "#article-iv-a-dependency-mapping-and-resource-flow-transparency",
               "#article-iv-b-cross-system-fairness-and-sustainability",
               "#article-iv-resource-allocation-dependencies-and-ecosystem-funding",
-              "#chapter-six-foundational-rights"
+              "#chapter-six-foundational-rights",
+              "#operative-steward-statement-cross-system-contribution"
             ]
           },
           {
@@ -6161,12 +6163,13 @@
           },
           {
             "file": "core_06-06_rights_part_d.md",
-            "count": 9,
+            "count": 10,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
               "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
               "#article-xxiii-d-emergency-measures-and-continuation-burden",
               "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
+              "#operative-steward-statement-delay",
               "#xxiii-d-restore-challenge-clocks"
             ]
           },
@@ -11330,9 +11333,17 @@
             ]
           },
           {
-            "file": "core_16-16_incorporation.md",
-            "count": 4,
+            "file": "core_13-15_amendment.md",
+            "count": 1,
             "anchors": [
+              "#10-ratification-and-adoption"
+            ]
+          },
+          {
+            "file": "core_16-16_incorporation.md",
+            "count": 5,
+            "anchors": [
+              "#4-adoption-framing-and-scope-of-authority",
               "#chapter-sixteen-incorporation-bridge"
             ]
           },
@@ -12478,6 +12489,13 @@
               "#auditability",
               "#auditability-a",
               "#auditability-c"
+            ]
+          },
+          {
+            "file": "core_13-15_amendment.md",
+            "count": 1,
+            "anchors": [
+              "#10-ratification-and-adoption"
             ]
           },
           {

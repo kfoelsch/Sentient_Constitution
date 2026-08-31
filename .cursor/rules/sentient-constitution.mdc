@@ -16,14 +16,18 @@ This repository is the **Sentient Constitution** markdown corpus and tooling—n
 
 Indexes **point**. Source text **binds**. Do not treat a locator, gloss, or steward card as a duty.
 
-For lookup, open locators before grepping the corpus:
+Do not open `ai_corpus/indexes/id_resolver.json` for meaning (it embeds gloss). Use the corpus-lookup skill and CLI, then hydrate authentic source:
 
-1. High-pressure fact pattern → [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) or [`implementation/steward_owner_clock_index.json`](implementation/steward_owner_clock_index.json)
-2. Family/section ID (`CF-10`, `CJS-3.13`, `Def.P1`), topic, or definition term → [`ai_corpus/indexes/id_resolver.json`](ai_corpus/indexes/id_resolver.json)
-3. Heading line range → [`ai_corpus/indexes/section_manifest.json`](ai_corpus/indexes/section_manifest.json)
-4. Then read the named source file (offset/limit from the locator). Patterns: [`ai_corpus/AI_NAVIGATION_GUIDE.md`](ai_corpus/AI_NAVIGATION_GUIDE.md)
+```bash
+python3 tools/corpus_lookup.py resolve QUERY
+python3 tools/corpus_lookup.py hydrate QUERY
+python3 tools/corpus_lookup.py topic-route QUERY
+python3 tools/corpus_lookup.py door CASE_ID
+```
 
-Cross-file topics: [`doc_architecture/generated/topic_router.json`](doc_architecture/generated/topic_router.json) (machine) or the [topic-router reader index](doc_architecture/generated/topic_router_reader_index.md) (human). Authoritative row table remains **CJS-0.1**.
+High-pressure fact patterns: `door` then the named card and boxed operative steward statement. Patterns: [`ai_corpus/AI_NAVIGATION_GUIDE.md`](ai_corpus/AI_NAVIGATION_GUIDE.md). Skill: [`.cursor/skills/corpus-lookup/SKILL.md`](.cursor/skills/corpus-lookup/SKILL.md).
+
+Cross-file topics: `topic-route` (CJS-0.1 rows). Human map: [topic-router reader index](doc_architecture/generated/topic_router_reader_index.md). Authoritative row table remains **CJS-0.1**.
 
 ## Session / meta files
 
