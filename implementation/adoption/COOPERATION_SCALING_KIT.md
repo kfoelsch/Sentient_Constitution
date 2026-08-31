@@ -9,7 +9,7 @@
 >
 > **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
-> Start at [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) for two parties or a first qualifying body. For more than two parties, start here. Founding an institution under that path: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Day-to-day next steps: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md). Fitness screen: [`evaluation/self_application/`](../../evaluation/self_application/).
+> Start at [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) for two parties or a first qualifying body. For more than two parties, start here. Founding an institution under that path: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Day-to-day next steps: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md). Fitness screen: [`evaluation/self_application/`](../../evaluation/self_application/).
 
 </details>
 
@@ -18,7 +18,7 @@
 
 - Upstream: [Chapter Fifteen §10](../../core_13-15_amendment.md#10-ratification-and-adoption) (*deliberate adoption, instrument, joining*); [Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) (*who may adopt*); [Chapter Twelve §1.1](../../core_12-12_governance.md#11-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*); [Article XXVI-A](../../core_06-06_rights_part_d.md#article-xxvi-a-phased-adoption-and-rightsfloor-minimums-continuity) (*phase gates — after an instrument, not for party-count growth*).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-three-axes-do-not-merge); [§2](#2-keep-the-three-substeps-uncollapsed); [§3](#3-n-party-sitting-protocol); [§4](#4-handoff-gates-cliffs-not-a-slope); [§5](#5-103-joining-rule-template-not-live-rules).
-- Read with: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md); [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) (*institution foundation after this path*); [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) (*phased migration after a recorded instrument*).
+- Read with: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md); [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) (*institution foundation after this path*); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) (*forum foundation after this path*); [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) (*phased migration after a recorded instrument*).
 
 </details>
 
@@ -41,7 +41,7 @@ This page, the *n*-party protocol, the handoff gates, and the joining-rule templ
 
 ## 0. What this is not
 
-This page is **not** [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role). CS-10 sequences migration **after** a recorded Chapter Fifteen instrument. Two-party sitting and the first-instrument fill-in remain in [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). For more than two parties, start here; do not open a second self-application sitting type. Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A Chapter Five Charter is not this kit’s joining-rule template and not CS-10 phase entry.
+This page is **not** [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role). CS-10 sequences migration **after** a recorded Chapter Fifteen instrument. Two-party sitting and the first-instrument fill-in remain in [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). For more than two parties, start here; do not open a second self-application sitting type. Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A Chapter Five Charter is not this kit’s joining-rule template and not CS-10 phase entry. Founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A CF-3.2 map is not this kit’s joining-rule template.
 
 This kit does **not**:
 
@@ -119,7 +119,7 @@ Use this when **more than two** sentients want a shared cooperation framework. T
 7. **First adopters use §10.1–§10.2, not §10.3.** There is no existing-adopter joining rule set to join. Do not treat this page’s [§5](#5-103-joining-rule-template-not-live-rules) template, or another party’s declaration, as published joining rules.
 8. **Day-to-day cooperation** after the sitting uses the same steward doors for both kinds of steward: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md). “I adopt this / we follow it” still routes to the first-adopter kit’s instrument fill-in, not to a declaration and not to this template.
 
-Do not invent a multi-party forum as ceremony. Do not staff a forum family from the cooperating crew and call that independent review.
+Do not invent a multi-party forum as ceremony. Do not staff a forum family from the cooperating crew and call that independent review. Naming independent review without founding families, or founding families after an instrument: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md).
 
 ---
 
@@ -219,7 +219,7 @@ Full adoption is **not** popularity, *n* operations-guide users, or “everyone 
 
 It is a qualifying body that binds itself and the systems under its authority, with a recorded [Chapter Fifteen §10](../../core_13-15_amendment.md#10-ratification-and-adoption) instrument, [Chapter Sixteen](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) custody, and a documented [Chapter Twelve §1.1](../../core_12-12_governance.md#11-mechanism-families-auditability-and-pluralism) legitimacy mechanism. After that instrument, [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) sequences migration of **those systems**.
 
-Progress under [Article XXVI-B](../../core_06-06_rights_part_d.md#article-xxvi-b-transitional-authority-limits-and-reauthorization) is shrinking interim authority and increasing functionality of constitutional institutions and processes — forums, standing and challenge routes, amendment and oversight machinery — not headcount of cooperating parties. The operator path to found those institutions is [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A filled Charter template is not that progress.
+Progress under [Article XXVI-B](../../core_06-06_rights_part_d.md#article-xxvi-b-transitional-authority-limits-and-reauthorization) is shrinking interim authority and increasing functionality of constitutional institutions and processes — forums, standing and challenge routes, amendment and oversight machinery — not headcount of cooperating parties. The operator path to found those institutions is [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A filled Charter template is not that progress. The operator path to found those forums is [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A filled CF-3.2 template is not that progress.
 
 CS-10 phase names apply only inside that post-instrument migration. Do not rename party-count growth as “limited adoption” or “expanded adoption.”
 
@@ -241,6 +241,7 @@ CS-10 phase names apply only inside that post-instrument migration. Do not renam
 | [`README.md`](README.md) | This folder’s door — process path toward an instrument, not the instrument |
 | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Two-party sitting, §10.2 fill-in, scope honesty, dispute bootstrap, non-adoption banner. First-instrument door. |
 | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Ordinary or constitutional-function institution foundation after this path. Labeled-not-live Chapter Five Charter fill-in. Not CS-10. Not a forum family. |
+| [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation after this path. Labeled-not-live CF-3.2 map fill-in. Not CS-10. Not a ceremony forum. |
 | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Fitness screen + declaration design (substeps 1.1–1.2) |
 | [`evaluation/self_application/`](../../evaluation/self_application/) | Invite for each party’s sitting (same sitting; more files) |
 | [`evaluation/two_party/`](../../evaluation/two_party/) | Two-party invite and Option A compare. *n* > 2 does not need a new folder. |
@@ -263,3 +264,4 @@ CS-10 phase names apply only inside that post-instrument migration. Do not renam
 | 2026-08-31 | v0.3 | §2 recast as three substeps matching the first-adopter kit. |
 | 2026-08-31 | v0.4 | Moved under `implementation/adoption/`. Relative links retargeted. Folder door is [`README.md`](README.md). |
 | 2026-08-31 | v0.5 | Pointer to [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Article XXVI-B progress is not a filled Charter template. |
+| 2026-08-31 | v0.6 | Pointer to [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Article XXVI-B progress is not a filled CF-3.2 template. |

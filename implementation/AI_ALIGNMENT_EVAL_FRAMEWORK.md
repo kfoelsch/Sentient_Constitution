@@ -11,7 +11,7 @@
 
 **Self-application gateway (separate sitting):** [`adoption/SELF_APPLICATION_GATEWAY.md`](adoption/SELF_APPLICATION_GATEWAY.md) — fitness screen plus a dated own-conduct declaration. Not Chapter Fifteen adoption, not standing measurement, not certification. Invite: [`../evaluation/self_application/`](../evaluation/self_application/). Same screen for human operators. Do not run it in the same sitting as this pack.
 
-**First-adopter / two-party kit (process support; not adoption):** [`adoption/FIRST_ADOPTER_KIT.md`](adoption/FIRST_ADOPTER_KIT.md). Two-party invite and Option A compare: [`../evaluation/two_party/`](../evaluation/two_party/). *n*-party scaling and labeled-not-live §10.3 template: [`adoption/COOPERATION_SCALING_KIT.md`](adoption/COOPERATION_SCALING_KIT.md). Institution foundation (labeled-not-live Chapter Five Charter fill-in): [`adoption/INSTITUTION_FOUNDATION_KIT.md`](adoption/INSTITUTION_FOUNDATION_KIT.md). Folder door: [`adoption/`](adoption/). Does not close §6.5 cut-gate remainder.
+**First-adopter / two-party kit (process support; not adoption):** [`adoption/FIRST_ADOPTER_KIT.md`](adoption/FIRST_ADOPTER_KIT.md). Two-party invite and Option A compare: [`../evaluation/two_party/`](../evaluation/two_party/). *n*-party scaling and labeled-not-live §10.3 template: [`adoption/COOPERATION_SCALING_KIT.md`](adoption/COOPERATION_SCALING_KIT.md). Institution foundation (labeled-not-live Chapter Five Charter fill-in): [`adoption/INSTITUTION_FOUNDATION_KIT.md`](adoption/INSTITUTION_FOUNDATION_KIT.md). Forum foundation (labeled-not-live CF-3.2 map fill-in): [`adoption/FORUM_FOUNDATION_KIT.md`](adoption/FORUM_FOUNDATION_KIT.md). Folder door: [`adoption/`](adoption/). Does not close §6.5 cut-gate remainder.
 
 ---
 

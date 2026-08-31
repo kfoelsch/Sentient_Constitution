@@ -56,4 +56,5 @@ AI-only files are not a [Chapter One §9.1.1](../../core_01_c_stewardship_capaci
 | [`../../implementation/adoption/FIRST_ADOPTER_KIT.md`](../../implementation/adoption/FIRST_ADOPTER_KIT.md) | Both parties (protocol, instrument fill-in, banners) |
 | [`../../implementation/adoption/COOPERATION_SCALING_KIT.md`](../../implementation/adoption/COOPERATION_SCALING_KIT.md) | More than two parties (handoff gates; not this folder) |
 | [`../../implementation/adoption/INSTITUTION_FOUNDATION_KIT.md`](../../implementation/adoption/INSTITUTION_FOUNDATION_KIT.md) | Institution foundation after this path (not this sitting; not a Charter) |
+| [`../../implementation/adoption/FORUM_FOUNDATION_KIT.md`](../../implementation/adoption/FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation after this path (not this sitting; not a forum family) |
 | [`../self_application/`](../self_application/) | Each party (fitness screen + declaration) |
