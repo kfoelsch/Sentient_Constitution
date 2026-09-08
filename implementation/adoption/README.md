@@ -10,6 +10,7 @@ The folder is named `adoption` so operators can find it. Opening a file here is 
 
 | If this is happening | Open |
 |---|---|
+| Asking where this would actually fit | [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md) |
 | Two sentients, or a first qualifying body | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) |
 | More than two sentients (*n*-party sitting, handoff gates, labeled-not-live §10.3 template) | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) |
 | Founding an institution (ordinary cooperative / research body, or constitutional-function machinery after an instrument) | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) |
