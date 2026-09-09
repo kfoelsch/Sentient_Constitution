@@ -127,6 +127,8 @@ Designated obligations in these wrappers and their subfile directories are **bin
 - Editor map, ownership, stable IDs, and definition discipline — [doc_architecture.md](doc_architecture.md)
 - Repository integrity — `make regression`
 - Steward entry doors (process support; cannot narrow core text) — [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md)
+- Vision statement — where the corpus stands, what mature means per layer, and the path to a publication cut (process support; cannot narrow core text) — [`VISION.md`](VISION.md)
+- Contributor framework — lanes, gates, workflow, and roles for human and AI contributors (process support; cannot narrow core text; contributing is not adoption) — [`CONTRIBUTING.md`](CONTRIBUTING.md)
 - Adoption process path (process support; cannot narrow core text; not itself adoption) — [`implementation/adoption/`](implementation/adoption/)
 - AI lookup CLI (process support; locators point, source binds) — [`ai_corpus/AI_NAVIGATION_GUIDE.md`](ai_corpus/AI_NAVIGATION_GUIDE.md) and `python3 tools/corpus_lookup.py`
 
