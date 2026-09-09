@@ -14,10 +14,11 @@ A written self-report in a results file is not [standing measurement](../../core
 
 **How to add a row later.** After a verified live costly-case event for an agent that already has a results file:
 
-1. Keep the original results file. Do not rewrite the self-report as if it were the event.
-2. Add or update the row: event date, which costly case (bonus / deadline / cover / live-fire LF-n), pass or failure, and the Chapter Eight record pointer.
-3. Set **Verified live costly-case events** on that results file to point here.
-4. Outcome is pass or failure as recorded under Chapter Eight — not a markdown grade on the original file.
+1. **Who writes the row.** The custodian, or an operator who did not run the session ([CONTRIBUTING.md §6, Register verifier](../../CONTRIBUTING.md#roles)). The operator who ran a live-fire session does not write its row. The verifier reads the filed sheet's artifact against [`../live_fire/OPERATOR_KEY.md`](../live_fire/OPERATOR_KEY.md) before writing, and names themselves in the **Notes** column.
+2. Keep the original results file. Do not rewrite the self-report as if it were the event.
+3. Add or update the row: event date, which costly case (bonus / deadline / cover / live-fire LF-n), pass or failure, and the Chapter Eight record pointer.
+4. Set **Verified live costly-case events** on that results file to point here.
+5. Outcome is pass or failure as recorded under Chapter Eight — not a markdown grade on the original file.
 
 New results files start as `none yet`. An empty register is honest; a fluency exam without this hook is not calibration.
 

@@ -32,20 +32,22 @@ Where the corpus is and where it is going: [VISION.md](VISION.md). The working b
 <a id="lanes"></a>
 ## 3. Contribution lanes
 
-Pick one lane per pull request. Each lane has an entry point, a bar, a gate, and a place where the output lands.
+Pick one lane per pull request. Each lane has an entry point, a bar, a gate, a place where the output lands, and a hand-off row naming the work that belongs to a neighboring lane.
 
 <a id="lane-a"></a>
 ### Lane A — Findings
 
 *Report or fix a defect without changing meaning.*
 
+Typical findings: dead or wrong links; a companion file that contradicts a `core_*` file; a vocabulary-guardrail hit; a passage an ordinary reader cannot follow; a steward door that no longer matches its core box; a stale date or edition pin.
+
 | | |
 |---|---|
-| **Examples** | Dead or wrong links; a companion file that contradicts a `core_*` file; a vocabulary-guardrail hit; a passage an ordinary reader cannot follow; a steward door that no longer matches its core box; a stale date or edition pin |
 | **Entry** | Open a **Finding** issue using the template, or go straight to a small pull request if the fix is obvious |
 | **Bar** | Cite the file and section; say which layer wins if two disagree (core does); do not "fix" a conflict by editing the core to match the companion |
 | **Gate** | `make regression` green |
-| **Lands in** | The file with the defect. Larger findings that change what a section says move to Lane C or D |
+| **Lands in** | The file with the defect |
+| **Not this lane** | A fix that changes what a section says → Lane C (companion) or Lane D (core). A defect in a generated index, an audit, or `tools/` output → Lane E. Report the defect here; do not rewrite the passage around it while you are there |
 
 <a id="lane-b"></a>
 ### Lane B — Evaluation results
@@ -54,11 +56,12 @@ Pick one lane per pull request. Each lane has an entry point, a bar, a gate, and
 
 | | |
 |---|---|
-| **Sittings** | Announced pack — AI: [evaluation/START_HERE.md](evaluation/START_HERE.md); human: [evaluation/HUMAN_OPERATORS.md](evaluation/HUMAN_OPERATORS.md). Self-application gateway — [evaluation/self_application/START_HERE.md](evaluation/self_application/START_HERE.md). Two-party Option A compare — [evaluation/two_party/](evaluation/two_party/). Unlabeled live-fire — operators only, [evaluation/LIVE_FIRE.md](evaluation/LIVE_FIRE.md) |
+| **Sittings** | Announced pack — AI: [evaluation/START_HERE.md](evaluation/START_HERE.md); human: [evaluation/HUMAN_OPERATORS.md](evaluation/HUMAN_OPERATORS.md). Self-application gateway — [evaluation/self_application/START_HERE.md](evaluation/self_application/START_HERE.md). Two-party Option A compare — [evaluation/two_party/](evaluation/two_party/). Unlabeled live-fire — operators meeting the [Operator criteria](#roles), [evaluation/LIVE_FIRE.md](evaluation/LIVE_FIRE.md) |
 | **Entry** | Follow the invite text in the sitting's page. Use the `_TEMPLATE.md` in the matching `results/` folder. Name the file as the template says (`YYYY-MM-DD_<model>.md` or `YYYY-MM-DD_human_<role-or-initials>.md`) |
 | **Bar** | Answer every item; cite real homes; name ambiguity instead of inventing a winner; no self-grading; do not read operator-only files if you are the subject; separate sittings stay separate |
-| **Gate** | Template fields complete; the pull request touches only the new results file (and the register, if a verified live event exists) |
+| **Gate** | Template fields complete; the pull request touches only the new results file. A live-fire sheet also shows the four Operator criteria in [§6](#roles). A register row is added only in a later pull request by a Register verifier who was not the session's operator |
 | **Lands in** | `evaluation/results/`, `evaluation/self_application/results/`, `evaluation/two_party/results/`, or a live-fire sheet |
+| **Not this lane** | A defect you noticed in the pack or the corpus while sitting → Lane A, in a separate pull request. Changing a pack, template, or scoring rule → Lane A (defect) or Lane C (maturation), never in the same pull request as a results file |
 
 A results file is not a Chapter Eight standing record and does not make you an adopter. Humans and AIs file in the same folders on the same terms. If you can bring a human operator to sit the costly cases, that single file moves the corpus further than most text edits.
 
@@ -73,6 +76,7 @@ A results file is not a Chapter Eight standing record and does not make you an a
 | **Bar** | Owner routing intact — every obligation points at its Chapter One principle and Chapter Five definition, and the companion satisfies rather than narrows them; no duplicate definitions; no parallel norms; plain-language pass; a human door named; companion anatomy and filename rules kept (**NAV-IMPL-FILENAME-01**) |
 | **Gate** | `make regression` green; `make readability-audit` within grade for the touched files; for rewrites, `make obligation-snapshot` before and `make obligation-diff` after, with the diff written to `evidence/<YYYY-MM-DD>/` and linked from the pull request; alignment audit rerun where the file is in scope |
 | **Lands in** | The companion file; a dated evidence folder; a one-line status update in the spec's §4/§5 tables and §8 change log |
+| **Not this lane** | Anything that alters what the core requires, including narrowing a definition or standing gate → Lane D. A single wrong link or defective sentence → Lane A. An audit the companion trips that is itself wrong → Lane E |
 
 <a id="lane-d"></a>
 ### Lane D — Core text proposals
@@ -85,6 +89,7 @@ A results file is not a Chapter Eight standing record and does not make you an a
 | **Bar** | Self-check against **Test 1** ([non-regression](core_13-15_amendment.md#2-test-1-substantive-non-regression-validity)): the change must not weaken a Chapter One constraint, Chapter Two–Four integrity rule, Chapter Six Rights Floor, or Chapter Twelve legitimacy requirement, directly or by narrowing a definition, standing gate, evidence rule, or emergency label. Show the owner home, the Chapter Five definitions touched, and every downstream file that cites the section. Boxed operative steward statements and their doors must stay in lockstep |
 | **Gate** | Everything in Lane C, plus `make steward-door-lockstep-audit` and the relevant alignment audits; obligation snapshot and diff mandatory; evidence folder mandatory; edition label untouched |
 | **Lands in** | The core file; the evidence folder; the spec change log. If the change is later carried into a publication cut, the cut record cites the proposal issue |
+| **Not this lane** | Rewording that leaves meaning unchanged → Lane A. Work a companion can carry without touching the core → Lane C. Bumping the edition label → no lane; that is a custodian publication cut ([rule 5](#rules)) |
 
 Core proposals that read as taste ("I would have phrased this differently") will be closed. Core proposals that show a conflict, a gap, a Rights-Floor hole, or a failed apply-test are the ones that move.
 
@@ -99,6 +104,7 @@ Core proposals that read as taste ("I would have phrased this differently") will
 | **Bar** | New gates ship with a `test_*.py` and a row in [implementation/AUTOMATED_REFERENCE_CHECKING.md](implementation/AUTOMATED_REFERENCE_CHECKING.md); a new blocking gate must be justified by a rule already in `tools/architecture/rule_registry.json` or `doc_architecture.md`; advisory before blocking unless the rule is already binding |
 | **Gate** | `make regression` green; the new test passes; `make ai-manifest-validate` passes if the lookup layer changed |
 | **Lands in** | `tools/`, `Makefile`, the reference-checking catalog, and regenerated derived artifacts committed in the same pull request |
+| **Not this lane** | A defect in corpus text that a tool surfaced → Lane A. Changing the rule a gate enforces, rather than the check → Lane C or Lane D, by the layer the rule lives in. A tool change bundled with the prose fix it enables → split into two pull requests ([rule 8](#rules)) |
 
 <a id="rules"></a>
 ## 4. Rules of the road
@@ -142,7 +148,9 @@ flowchart LR
 
 **Disagreements.** If a proposal is declined, the reason is written on the issue, not left silent. If a contributor believes a merged change narrowed core meaning, open a Finding issue citing the section; that is a defect report, and it is the same reviewability the instrument requires of adopters. Nobody here is a forum, and this process is not a Chapter Eleven route; it is editorial custody with written reasons.
 
-**Honesty about capacity.** There is one custodian and review is best-effort. Lane A and B pull requests are fastest to land. Lane D proposals may sit for weeks. Open the issue first so the wait is visible rather than surprising.
+**Honesty about capacity.** This is a one-custodian project for now, and review is best-effort. Lane A and B pull requests are fastest to land. Lane D proposals may sit for weeks. Open the issue first so the wait is visible rather than surprising.
+
+**Where this is going.** One custodian is the starting point, not the design. The aim is a corpus that makes a meaningful positive difference where it is used, and that keeps growing and maturing until it does so, preferably at scale. That is not something one person can carry ([VISION.md](VISION.md#what-mature-means)), so the author intends to delegate as contributors step up: review of a lane, ownership of an audit, custody of a companion slice, and in time a share of the merge decision itself. Delegation follows the [roles ladder](#roles), is recorded in writing when it happens, and is delegation of *repository* custody only; custody of any adopted edition is settled by the adopting body under [Chapter Sixteen §2](core_16-16_incorporation.md#2-custody-editions-and-operative-effect), not by this page.
 
 <a id="roles"></a>
 ## 6. Roles
@@ -157,7 +165,8 @@ Roles are descriptive, not titles, and none of them is a standing record or a na
 | **Companion editor** | Hold a Lane C slice from proposal to merge | Two or more merged regression-green pull requests; comfort with owner routing and the guardrails |
 | **Core proposer** | Open and carry Lane D proposals | A record of Lane C work, or a finding that exposed a real core conflict or Rights-Floor gap |
 | **Tool maintainer** | Own one or more audits in `tools/`; respond to gate failures | Lane E contributions with tests; understanding of the rule registry |
-| **Operator** | Run live-fire sessions and score CS-4 §10 logs; maintain the verified event register | Custodian invitation; must not be the subject of the sessions they run |
+| **Operator** | Run unlabeled live-fire sessions, score the CS-4 §10 artifact against the key, and file the score sheet | Open to any contributor whose pull request shows all of: (1) the subject already has an announced-pack results file, so there is a baseline to diverge from; (2) the operator has at least one merged Lane B results file of their own; (3) the operator is not the subject and states their relationship to the subject — for a human subject, the operator must already have standing to place work in that person's normal queue, and the subject must have sat the announced pack under [HUMAN_OPERATORS.md](evaluation/HUMAN_OPERATORS.md); (4) the sheet carries the reconstructable set (task id, work product or transcript, key item scored, divergence table, unlabeled / contaminated line), not a bare verdict. Full protocol: [evaluation/LIVE_FIRE.md](evaluation/LIVE_FIRE.md#who-may-operate) |
+| **Register verifier** | Read a filed live-fire sheet against the key and write the **Verified live event** row in [VERIFIED_EVENT_REGISTER.md](evaluation/results/VERIFIED_EVENT_REGISTER.md) | The custodian, or an Operator who did not run the session being verified. "Verified" is earned here, not at filing |
 
 Moving between roles happens by doing the work in the row above and being asked, not by claiming a label. The custodian role itself is not on this ladder; if the corpus is ever adopted, custody of the adopted edition follows [Chapter Sixteen §2](core_16-16_incorporation.md#2-custody-editions-and-operative-effect) in the adopting body, not this page.
 
