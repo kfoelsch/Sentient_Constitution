@@ -132,6 +132,21 @@ Designated obligations in these wrappers and their subfile directories are **bin
 - Adoption process path (process support; cannot narrow core text; not itself adoption) — [`implementation/adoption/`](implementation/adoption/)
 - AI lookup CLI (process support; locators point, source binds) — [`ai_corpus/AI_NAVIGATION_GUIDE.md`](ai_corpus/AI_NAVIGATION_GUIDE.md) and `python3 tools/corpus_lookup.py`
 
+<a id="authorship"></a>
+## Authorship
+
+The Sentient Constitution was written by **Karl Ernst** in collaboration with many AI models, including **Claude** (Fable and Opus), **ChatGPT**, **Cursor**, **Gemini**, **Grok**, and **Kimi**. Karl Ernst directed the work, set the substantive positions, and holds editorial custody of the corpus; the AI models contributed drafting, review, cross-referencing, and tooling under that direction. The text is released under [CC BY 4.0](LICENSE); attribute it to *Karl Ernst and collaborating AI models, Sentient Constitution*.
+
+<a id="related-work"></a>
+### Related work by the author
+
+Two earlier projects by Karl Ernst sit alongside this Constitution. They are **context for readers and contributors, not part of the Corpus**: nothing in them is binding here, and nothing here depends on them.
+
+- **[The Steward Network](https://stewardnetwork.org)** (stewardnetwork.org) — a decentralized project on the existential risks facing both humanity and AI (climate change, ecological decay, AI and cyberinsecurity, weapons of mass destruction, pandemics, black-swan events, and their cascading interactions), paired with the declining societal capacities needed to respond to them (mental health and collective wellbeing, social trust, governance and institutional capacity, information quality, and strategic literacy). It proposes grassroots **Steward Scouts** and a networked coordination body operating under transparent, participatory principles, and treats AI as both a primary risk and a tool to be developed only inside a robust governance framework. Readers working with Chapter Five [Existential Risk](core_05_band_continuity.md#existential-risk), [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), or the [Continuity](core_05_apex_continuity_aim.md) aim will recognize the same problem space; this Constitution is the governance instrument for systems that materially affect sentients, while the Steward Network is a civic and analytical effort to build the capacity to face those risks.
+- ***Rocking Change*** (*Rocking Change: Changing the World through Changing Ourselves*, 2021, first in the Rocking Change series; available in print and electronic editions from [Amazon](https://www.amazon.com/dp/B09HH9T3PZ) and other retailers; the series website `rockingchange.com` is currently offline and is preserved at the [Internet Archive](https://web.archive.org/web/20250425114143/https://www.rockingchange.com/)) — a trauma-informed guide to the psychological wellbeing of humans, drawing on evolutionary psychology, hypnotherapy, and the author's own recovery from an abusive childhood home. It is the individual-scale counterpart to what this Constitution treats at system scale under [Wellbeing](core_05_band_continuity.md#wellbeing), [Psychological Harm](core_05_band_accountability.md#psychological-harm), and the [Flourishing](core_05_apex_flourishing_aim.md) aim: the same conviction that durable change in the world starts from repaired human capacity.
+
+Both are useful background on why the Constitution weights **Flourishing** and **Continuity** as it does. Cite them as the author's related work, not as sources of constitutional meaning.
+
 ---
 
 **Next file:** [core_00_preamble.md](core_00_preamble.md)

@@ -4,4 +4,6 @@ The Markdown corpus in this repository—the numbered Sentient Constitution file
 
 To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
 
+Attribution: Karl Ernst and collaborating AI models (Claude Fable and Opus, ChatGPT, Cursor, Gemini, Grok, Kimi), Sentient Constitution. See the Authorship section of README.md.
+
 Supporting automation under `tools/` is offered under the same license unless a file header states otherwise.
