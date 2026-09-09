@@ -7,6 +7,7 @@ Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/
 | Make target | Tool | Rule ID(s) | Notes |
 |-------------|------|------------|-------|
 | `reference-audit` | `tools/reference_audit.py` | REF-ARTICLES | Chapter Six article map from part-file headings |
+| `section-label-anchor-audit` | `tools/section_label_anchor_audit.py` | SECTION-CITE-MATCH-01, SECTION-LABEL-ANCHOR-01, NAV-HEADING-SEQUENCE-01 | `§` / dotted-number link text must match the target heading and fragment; related cites need a current-numbering id; `core_*` numbered sibling headings must not duplicate or skip |
 | `measurement-anchor-audit` | `tools/measurement_anchor_audit.py` | MEAS-ANCHOR | Fails on links to removed Preamble `#measuring-*` category anchors |
 | `ch5-measurement-tier-audit` | `tools/ch5_measurement_tier_audit.py` | MEAS-DEF-01 | Enforces `*Measurements:*` and tier-aligned E/C for approved seeds |
 | `ch5-measurement-coverage-audit` | `tools/ch5_measurement_coverage_audit.py` | MEAS-COVERAGE | Seed ↔ hierarchy sync and bidirectional Ch00 §3 owner links |

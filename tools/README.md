@@ -13,6 +13,7 @@ Chapter Five and CJS-3 definition files use **one** `---` between reader units, 
 | Target | Command |
 |--------|---------|
 | Article reference integrity (Chapter Six part files) | `make reference-audit` |
+| Section-label / heading / fragment integrity (`§` cites and `core_*` sibling numbering) | `make section-label-anchor-audit` |
 | Regression scenario matrix checks | `make scenario-audit` |
 | Blocking regression bundle | `make regression` |
 | Markdown / prose / definitions gravity | `make corpus-markdown-audit`, `make prose-continuity-audit`, `make ch5-definitions-gravity-audit`, `make ch5-o-scope-audit`, `make ch5-trace-crosslink-audit` |
@@ -41,6 +42,8 @@ Chapter Five and CJS-3 definition files use **one** `---` between reader units, 
 `alignment_audit.py` is the operator entry point for a structural alignment pass across principles, Chapter Five **Def.*** entries, CJS-3 **oDef** clusters, and Chapter Six Articles. It writes `alignment_audit_index_<date>.md` plus the three per-layer report / CSV / JSON families under `evidence/<date>/`. Semantic adequacy stays a manual-review item; the full pass is advisory and is not in `make regression`.
 
 `reference_audit.py` builds the **canonical Chapter Six map** from merged `### Article …:` headings in `core_06_rights_part_*.md` (falling back across part files as needed). If a citation fails the audit, fix the citing file or the heading—not the audit script.
+
+`section_label_anchor_audit.py` checks three things: `§N` (and dotted-only `[4.1]`) link text must match the resolved heading number or a dotted parent/child, and the fragment must exist; related cites must use a current-numbering fragment prefix (`54-` or `5-4-`); numbered ATX siblings in `core_*.md` must not duplicate or skip. Named fragments without a numeric id prefix are not compared to the `§` label. `implementation/` and `evaluation/` sources are out of scope for the cite checks.
 
 `apply_article_cite_gloss.py` adds missing **REF-ARTICLES-GLOSS** parenthetical titles to bare `**Article …**`, `[Article …](url)`, and unbolded `Article …` cites across the binding corpus (see `doc_architecture.md` section 7). Run after heading renames or bulk cite cleanup; review combined-label and bullet-specific edge cases by hand.
 

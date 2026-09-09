@@ -218,6 +218,27 @@
       "summary": "One current fragment id per heading. When a section is dropped or renumbered, retarget live citations and delete the old id; do not keep fossil or legacy redirect anchors.",
       "make_target": "fossil-anchor-audit",
       "status": "blocking"
+    },
+    {
+      "id": "SECTION-CITE-MATCH-01",
+      "legacy_ref": "section-label cite vs current heading number",
+      "summary": "Markdown links whose visible text contains §N (or is only a dotted number such as 4.1) must resolve to a heading numbered N or a dotted parent/child of N; the fragment must exist. Range-start cites such as §§ 1–12 are allowed when they target the range start. Named fragments without a numeric id prefix are not compared to the § label. implementation/ and evaluation/ sources are out of scope.",
+      "make_target": "section-label-anchor-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "SECTION-LABEL-ANCHOR-01",
+      "legacy_ref": "section-label current-numbering fragment prefix",
+      "summary": "When a §N cite is dotted-related to the target heading, that heading must carry a current-numbering fragment id (compact prefix 54- or hyphenated 5-4-).",
+      "make_target": "section-label-anchor-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-HEADING-SEQUENCE-01",
+      "legacy_ref": "core_* numbered sibling heading sequence",
+      "summary": "Numbered ATX headings in core_*.md grouped by parent prefix and heading level must not duplicate a sibling number; last components must be consecutive integers. A file need not start at §1.",
+      "make_target": "section-label-anchor-audit",
+      "status": "blocking"
     }
   ]
 }

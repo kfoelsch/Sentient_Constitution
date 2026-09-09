@@ -74,7 +74,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     - outcomes; and
     - the measures that track them under full functional system conditions.
 
-    Apply all O, M, A, and C parts jointly. Names, paperwork structure, declared intent, or formal categories do not decide. Apply [Chapter Three §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) and [§3](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) when deciding whether behavior or evasion counts as non-compliance.
+    Apply all O, M, A, and C parts jointly. Names, paperwork structure, declared intent, or formal categories do not decide. Apply [Chapter Three §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) and [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) when deciding whether behavior or evasion counts as non-compliance.
 <a id="non-compliance-c"></a>
 - **What must hold**
   - **Primary failure:** treating a system, actor, or definition as compliant when:
@@ -149,7 +149,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. Process Conflict Resolution](#6-process-conflict-resolution).
-- Owner floor: [Chapter Twelve Chapter One §8.1](core_12_governance.md#41-entitlement-and-eligibility) (*Political-equality floor for foundational constitutional choice*; *Durable political-voice floor*); [Article IX-C: Governance Participation and Voting Entitlement](core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- Owner floor: [Chapter Twelve Chapter One §4.1](core_12_governance.md#41-entitlement-and-eligibility) (*Political-equality floor for foundational constitutional choice*; *Durable political-voice floor*); [Article IX-C: Governance Participation and Voting Entitlement](core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
 - Cluster component: [*Constitutional Contract Layer and Foundational Constitutional Choice*](core_05_band_integrative.md#constitutional-contract-layer)
 - Read with: [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer), [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
 - Layer: **Constitutional Contract Layer (CCL)**. Distinct from **Stakeholder System Participation (SSP)** inside already-authorized systems.
@@ -167,7 +167,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     - the scope and durable terms of that authority.
 
     This belongs to the [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer).
-    - Owner: [Chapter Twelve Chapter One §8.1](core_12_governance.md#41-entitlement-and-eligibility).
+    - Owner: [Chapter Twelve Chapter One §4.1](core_12_governance.md#41-entitlement-and-eligibility).
     - Rights-layer pointer: [Article IX-C](core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*).
     - Applies under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Out of scope:**
@@ -313,7 +313,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (tetrad capture discipline under [§12](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Downstream: Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (tetrad capture discipline under [§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Principle-layer rule: [Chapter One §11.1 Alignment Requirement](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement) and [Chapter One §11.2 Convenient Proxies and Proxy Divergence](core_01_c_stewardship_capacity_principles.md#112-convenient-proxies-and-proxy-divergence); stewardship and operator application: [Chapter One §11.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) and [§11.1.4 Role-Depth and Material-Responsibility Pathways](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways).
 - Misalignment detection: [Chapter One §11.3 Misalignment Detection](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection).
 - Active correction and capture escalation: [Chapter One §11.4 Misalignment Correction and Capture Response](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response).
@@ -620,7 +620,7 @@ See **Joint invocation and satisfaction**.
 
     **Authority Stack:** the ordered source-of-authority framework governing constitutional interpretation, adoption effect, and layer status across constitutional, incorporated, and support layers.
 
-    **Internal Hierarchy:** the last-resort interpretive ordering rule that resolves genuine residual incompatibility within the binding constitutional source after integrated reading under [Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) has been exhausted. Within that source:
+    **Internal Hierarchy:** the last-resort interpretive ordering rule that resolves genuine residual incompatibility within the binding constitutional source after integrated reading under [Chapter One — §8 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) has been exhausted. Within that source:
     - Chapter One principles govern high-level constitutional direction;
     - article-level obligations and Rights Floors govern specific operative requirements;
     - principles control over articles only for genuine residual incompatibility; and
@@ -664,7 +664,7 @@ See **Joint invocation and satisfaction**.
     **Primary assessment:**
     - First identify the operative edition/custody chain and source layer under the Authority Stack.
     - Then identify the owner home in the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) (and the chapter opening owner claim); apply substance only from that owner home — elsewhere use pointers only.
-    - Then apply integrated reading under [Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation).
+    - Then apply integrated reading under [Chapter One — §8 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation).
     - Preserve the Constitution's fullest protective effect as an integrated whole and the [Chapter Six](core_06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
     - Use Internal Hierarchy only as a last-resort residual rule; do not use it to replace ordinary integrated reading or to resolve mere disagreement over canonical term meaning.
     - Where the dispute is term meaning, the Chapter Five canonical definition governs at every layer.
@@ -689,7 +689,7 @@ See **Joint invocation and satisfaction**.
     - invent parallel taxonomies or workflows in non-owner layers when the [Preamble owner register](core_00_preamble.md#4-principles-definitions-and-rights) already assigns a canonical home;
     - claim supremacy or compliance in a way that inverts the established source hierarchy, or lets implementation, support text, private ordering, emergency framing, or operational practice displace binding corpus obligations within their valid scope;
     - use Internal Hierarchy as a shortcut to pick a harsher reading, to shrink [Chapter Six](core_06_rights_part_a.md#chapter-six-foundational-rights) Rights-Floor protections outside what [Chapter One](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) expressly allows, or to swap one source layer for another in ordinary reading;
-    - treat Chapter Five definitions as a rival body of law that overrides principles or articles ([Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)); or
+    - treat Chapter Five definitions as a rival body of law that overrides principles or articles ([Chapter One — §8 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)); or
     - for adopters, treat adopted implementation text as overriding this Constitution within the scope of adoption, or as relaxing [Chapter Thirteen](core_13_non_regression.md) non-regression floors ([Internal Hierarchy for Adopters](core_14_expansion_supremacy.md#31-internal-hierarchy-for-adopters) in **Chapter Fourteen**).
 
 ---

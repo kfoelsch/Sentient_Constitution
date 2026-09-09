@@ -15,7 +15,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: **Article XX-A** (*Proportional Comprehensibility Right*); **Article XX-B** (*Complexity Audit and Modularity Requirements*); [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
-- Downstream: [§1](#1-purpose-and-role); [§2](#cs-6-2-classification-scaled-application); [§3](#cs-6-3-systems-specific-checks); [§4](#cs-6-4-gaps-and-silence).
+- Downstream: [§1](#cs-6-1-purpose-and-role); [§2](#cs-6-2-classification-scaled-application); [§3](#cs-6-3-systems-specific-checks); [§4](#cs-6-4-gaps-and-silence).
 - Read with: **CS-6**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CJS-3.8**; **CJS-3.9**; **CJS-3.10**; **CJS-3.16**; **CJS-3.19**; **CJS-3.21**.
 
 </details>

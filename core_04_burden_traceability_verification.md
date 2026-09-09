@@ -45,10 +45,10 @@ Read in order. Each step builds on the last; skip none.
 | Step | Plain job | Section |
 | --- | --- | --- |
 | **1 — Who proves** | Burden sits on whoever claims compliance | [§1](#1-exclusive-enforcement-and-burden-allocation) |
-| **2 — Show the map** | Structured trace from definitions to observable behavior | [§3](#2-definition-traceability-requirement) |
-| **3 — Make it checkable** | Systems must expose enough to verify the map — in practice, not in theory | [§11](#3-observability-of-traceability-requirement) |
-| **4 — Security limits** | Real security limits are allowed; pretextual blocks are not | [§2](#4-security-constrained-observability-and-verification-rule) |
-| **5 — What counts** | Evidence must be real, complete, independent, and sustained | [§4](#5-compliance-evidence-standard) |
+| **2 — Show the map** | Structured trace from definitions to observable behavior | [§2](#2-definition-traceability-requirement) |
+| **3 — Make it checkable** | Systems must expose enough to verify the map — in practice, not in theory | [§3](#3-observability-of-traceability-requirement) |
+| **4 — Security limits** | Real security limits are allowed; pretextual blocks are not | [§4](#4-security-constrained-observability-and-verification-rule) |
+| **5 — What counts** | Evidence must be real, complete, independent, and sustained | [§5](#5-compliance-evidence-standard) |
 
 **Engagement-layer readability.** [Chapter One §3.4 — Plain-Language Accessibility Stewardship Duty](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) applies to governance, adjudicative, and operational material sentients use to exercise rights, contest decisions, or verify compliance. It does **not** narrow Chapters Two through Four. If engagement-layer plain language conflicts with definition or verification rules here, the rigorous layers govern. Jargon, stacked complexity, or opacity used to defeat [Contestability](core_05_band_accountability.md#contestability) or [Article XV: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter One §3.4**.
 

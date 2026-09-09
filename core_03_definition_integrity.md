@@ -106,7 +106,7 @@ The type subsections below catalog common patterns. They do not replace the eval
 
 #### 2.1 Common Evasion Patterns
 
-*In plain terms: these are common ways a system can look compliant without actually meeting the definition — swapped measures, fake paperwork, carved-out scope, or incentives that push everyone away from compliance. The list is not closed. Types can happen together. Shrinking what the definition means is covered in [§11.2](#22-reductive-evasion).*
+*In plain terms: these are common ways a system can look compliant without actually meeting the definition — swapped measures, fake paperwork, carved-out scope, or incentives that push everyone away from compliance. The list is not closed. Types can happen together. Shrinking what the definition means is covered in [§2.2](#22-reductive-evasion).*
 
 The following forms of evasion are prohibited:
 
