@@ -633,7 +633,7 @@ A case may move from one forum family to another only when the receiving family 
 
 <br>
 
-*In plain terms: forum families must keep material disputes moving on published clocks that ordinary sentients can feel — roughly a week for the worst emergencies, a few weeks for ordinary material harm, and a few months at most for complex or bounded matters — not warehouse cases while harm compounds. Each dispute gets a urgency tier; each tier gets default windows for intake, fact-checking, standing measurement, integration, and remedy. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.*
+*In plain terms: forum families must keep material disputes moving on published clocks that ordinary sentients can feel — roughly a week for the worst emergencies, a few weeks for ordinary material harm, and a few months at most for coordination-default or bounded matters — not warehouse cases while harm compounds. Each dispute gets an urgency tier from the harm; later-stage windows may stretch when coordination gets harder, but that stretch is not a reason to relabel the urgency. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.*
 
 This section implements **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) for forum supervision of the **Chapters Eight through Eleven** standing pipeline. Adopted instruments must **implement, not narrow**, this section or **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*).
 
@@ -646,18 +646,21 @@ This section implements **Article XXIV-C** (*Timely Resolution and Anti-Delay Fl
     - Scope of harm: material rights, standing, or institutional injury that matters now, but is not yet acute ongoing harm of Tier A urgency.
     - Examples: discrimination patterns; misaligned business harm; remediable institutional misconduct.
     - Expectation: intake and primary-stakes routing **within days**; preliminary verified disposition, standing measurement, or equivalent merits milestone **within weeks**, not months, unless a documented tier-appropriate extension is authorized.
-  - **Tier C — complex multi-party or cross-border coordination**
-    - Scope of harm: harm whose remedy or fact-development necessarily spans multiple parties, systems, borders, or consolidated proceedings — complexity, not lesser stakes, drives the tier.
-    - Examples: multi-system dependency disputes; cross-border jurisdiction coordination; multi-party standing matters requiring consolidated review.
+  - **Tier C — coordination-complexity default (not an escalation of A or B)**
+    - Scope of harm: matters whose materiality is multi-party, cross-border, or consolidated coordination **and** that do not independently meet **Tier A** or **Tier B** urgency. Coordination burden is a starting classification here; it is not a slower substitute for an A or B finding.
+    - Examples: multi-system coordination disputes without imminent or material-rights-now injury; cross-border jurisdiction coordination whose own stakes are not yet A or B; multi-party standing matters requiring consolidated review where no higher-urgency harm is independently present.
     - Expectation: extension is permitted only under **Article XXIII-D** (*Emergency Measures and Continuation Burden*) continuation discipline; integrated remedy commencement, lawful supersession, or documented final disposition must not remain indefinitely pending.
   - **Tier L — bounded constitutional significance**
     - Scope of harm: limited external dependency or impact; replaceable systems; bounded contexts without systemic effect on the wider constitutional community.
     - Examples: a replaceable local service dispute; a bounded association rule contest with no spillover; a low-dependency tooling disagreement among interchangeable providers.
-    - Expectation: standard forum handling with proportionately lighter procedural requirements and longer default resolution windows; Tier A/B urgency and Tier C complexity expectations do not apply, but anti-delay discipline remains operative.
+    - Expectation: standard forum handling with proportionately lighter procedural requirements and longer default resolution windows; Tier A/B urgency floors and coordination-complexity later-stage extensions do not apply, but anti-delay discipline remains operative.
   - **Tier P — private/contained, minimal external constitutional impact**
     - Scope of harm: contained within a private unit or among voluntary participants; no meaningful external constitutional dependency or Rights-Floor stake for outsiders.
     - Examples: an intra-household or voluntary-club dispute with no outsider rights at stake; a Class P–contained disagreement that does not exit the private boundary.
     - Expectation: simplest procedural path; formal forum process may be minimal or waived where no external rights are at stake; anti-gaming and anti-delay rules apply only where external constitutional interests are implicated.
+- **Urgency classification and time-scale.**
+  <a id="urgency-classification-and-time-scale"></a>
+  The A/B/C/L/P label is the dispute’s urgency and materiality finding. [§5](#5-escalation-and-certification) forum-family escalation, added parties, cross-border coordination, or a Chapter Ten docket does **not** by itself move the matter into a different urgency tier. Those facts may lengthen later-stage windows (**Question 1** through integrated resolution) on a longer published time scale, so long as intake, evidence preservation, and any required **interim protection** remain at the classified tier’s floor. Using a slower tier’s clocks as a substitute for that finding is non-compliant. A new [Materiality Determination](core_05_band_oversight.md#materiality-determination) is required before the urgency label itself changes — typically **up** to **Tier A** when harm becomes imminent or when a final Chapter Eight **Violation Axis s = 7, 8, or 9** review or corresponding **Chapter Ten** designation is the stake.
 - **Pipeline-stage milestones.** For disputes routed through **Chapters Eight through Eleven**, adopters must publish sentient-accessible default windows for each stage, scaled to tier. Numeric floor tables live in [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) and must fit inside this section’s outer bounds:
   1. forum access and intake;
   2. evidence preservation;

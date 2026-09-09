@@ -126,7 +126,7 @@ Multi-year EEO-style litigation, sealed settlements, reputation damage without v
 
 <a id="vignette-misaligned-business-structural-harm"></a>
 
-### 3. Misaligned business / exit lock-in and externalized harm (Tier B–C)
+### 3. Misaligned business / exit lock-in and externalized harm (Tier B)
 
 #### Situation
 
@@ -141,24 +141,26 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | Step | Action |
 | --- | --- |
 | 1 | **Primary-stakes routing**: **Institutional** lead; **Technical Forum Domains** certified component for routing-safety specification. |
-| 2 | **Tier B** for driver lock-in and compensation injury; escalate to **Tier C** if cross-border corporate structure or **Chapter Ten** capture pattern is verified. |
+| 2 | **Tier B** for driver lock-in and compensation injury (material, non-imminent). [Chapter Eleven §5](core_11-11_forum.md#5-escalation-and-certification) forum-family escalation (Technical Forum Domains; Integrity if capture) does not reclassify that urgency. Later-stage windows may use a longer time scale if cross-border or consolidated fact-development is required; intake and evidence preservation stay at the **Tier B** floor. |
 | 3 | **Question 1 — what happened?** Verified findings → violation records on platform operator; linked **contribution** claims for “efficiency” capped or rejected when [dual-use externalized harm](core_08-08_standing_assessment.md#45-dual-use-measurement-hooks) is verified. |
 | 4 | **Question 2 — how bad was it?** Verified driver, agency, lock-in, safety, and ecological impacts determine the Violation Axis slot on the **§7 unified scale** (`s` = 4–6 range pending verification). **Exit and Lock-In Misconduct**, **System Misconduct**, **Agency and Manipulation Misconduct**, and any **Ecological Misconduct** component remain descriptors and do not move the slot. |
 | 5 | **Question 3 — what happens because of it?** **Named-pathway-scoped locks** on migration, contract-enforcement, and governance routes; **concealment / evasion escalated lock** if defect reports were buried after notice. |
 | 6 | **Remedy**: contract reform, exit without penalty, driver stabilization fund, safety patch deployment, ecological remediation plan — look-through accountability on functional control ([Chapter Nine §9.4](core_09-09_standing_integration.md#94-anti-evasion-and-look-through-authority)). |
-| 7 | If the Chapter Eight verified-impact measurement reaches generic slot 7, 8, or 9 and the misconduct criteria are satisfied, **Chapter Ten** may add the corresponding anti-constitutional-misconduct designation without assigning or moving that slot; **Tier C** outer bound applies. |
+| 7 | If the Chapter Eight verified-impact measurement reaches generic slot 7, 8, or 9 and the misconduct criteria are satisfied, **Chapter Ten** may add the corresponding anti-constitutional-misconduct designation without assigning or moving that slot. That designation review is a new materiality determination — typically **Tier A**, not a slower clock. |
 
-#### Milestone table (Tier B default; Tier C if escalated)
+#### Milestone table (Tier B urgency; later-stage time-scale may extend)
 
-| Stage | Tier B | Tier C (if escalated) |
+| Stage | Tier B (urgency floor) | If coordination complexity is present (urgency remains B) |
 | --- | --- | --- |
-| Intake acknowledgment | ≤ 3 days | ≤ 7 days |
-| Evidence preservation | ≤ 3 days | ≤ 7 days |
+| Intake acknowledgment | ≤ 3 days | ≤ 3 days (no relaxation) |
+| Evidence preservation | ≤ 3 days | ≤ 3 days (no relaxation) |
 | Q1 verified finding → standing record | ≤ 7 days | ≤ 21 days |
 | Q2 measurement | ≤ 5 days | ≤ 14 days |
 | Q3 integration | ≤ 7 days | ≤ 21 days |
 | Remedy commencement | ≤ 5 days | ≤ 14 days after plan |
-| Integrated resolution outer bound | ≤ 21 days | ≤ 60 days |
+| Integrated resolution outer bound | ≤ 21 days | ≤ 60 days (documented time-scale extension; not a tier change) |
+
+Later-stage stretch follows [Chapter Eleven §6](core_11-11_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*) and [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Intake, evidence preservation, and any interim protection stay at the **Tier B** floor.
 
 #### Must not happen
 

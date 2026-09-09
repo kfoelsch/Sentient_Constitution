@@ -688,7 +688,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-XXIV-C-BIZ-001
 - **Class:** implementation / timely-resolution vignette
-- **Summary:** Tier B–C misaligned business: Q1 records verified exit lock-in and externalized harm; **Exit and Lock-In Misconduct** + **System Misconduct** are measured under Q2; pathway-scoped and concealment-escalated locks follow under Q3; optional **Chapter Ten** Q2 gravity review. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-misaligned-business-structural-harm).
+- **Summary:** Tier B misaligned business: Q1 records verified exit lock-in and externalized harm; **Exit and Lock-In Misconduct** + **System Misconduct** are measured under Q2; pathway-scoped and concealment-escalated locks follow under Q3; optional **Chapter Ten** Q2 gravity review. Forum-family escalation and coordination complexity may extend later-stage windows without reclassifying urgency; Chapter Ten / slot 7–9 review is typically **Tier A**, not **Tier C**. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-misaligned-business-structural-harm).
 - **Read with:** [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Nine §9.4](core_09-09_standing_integration.md#94-anti-evasion-and-look-through-authority); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIV-C-DELAY-001
