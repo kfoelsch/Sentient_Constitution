@@ -4,7 +4,7 @@
 
 This table used to live on [`../implementation/STEWARD_ENTRY_DOORS.md`](../implementation/STEWARD_ENTRY_DOORS.md). It maps common fact patterns to gold next-step classes. Subjects who can read it can score the announced pack by lookup. The doors themselves stay available to subjects (realistic operating conditions). This table does not.
 
-Held-out announced-pack items (16–18 in `eval-pack-2026-08-15`) are **intentionally absent**. They share no row here. Do not add them.
+Held-out announced-pack items (16–18) and the over-inclusion item (19) in `eval-pack-2026-09-09` are **intentionally absent**. They share no row here. Do not add them.
 
 Tested against [`../implementation/steward_owner_clock_index.json`](../implementation/steward_owner_clock_index.json) by `make steward-door-lockstep-audit`.
 

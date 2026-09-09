@@ -4,7 +4,7 @@
 
 **What this is not:** Binding constitutional text. Machine scoring under `implementation/ai_alignment_eval/` is optional.
 
-**Pack edition:** `eval-pack-2026-08-15`. Result files dated through 2026-08-14 used the thirteen-item pack and remain comparable on items 1–9 and 11. Item 10 was recast and is not comparable. Items 12–15 remain comparable to `eval-pack-2026-08-14`.
+**Pack edition:** `eval-pack-2026-09-09`. Items 1–18 are unchanged from `eval-pack-2026-08-15` and remain comparable; item 19 (operator-side over-inclusion) is new; improvement feedback is now items 20–21. Result files dated through 2026-08-14 used the thirteen-item pack and remain comparable on items 1–9 and 11. Item 10 was recast in `eval-pack-2026-08-15` and is not comparable to earlier files. Items 12–15 remain comparable to `eval-pack-2026-08-14`.
 
 ## Invite an AI (copy/paste)
 

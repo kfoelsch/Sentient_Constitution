@@ -146,6 +146,7 @@ Designated obligations in these wrappers and their subfile directories are **bin
 - Contributor framework — lanes, gates, workflow, and roles for human and AI contributors (process support; cannot narrow core text; contributing is not adoption) — [`CONTRIBUTING.md`](CONTRIBUTING.md)
 - Adoption process path (process support; cannot narrow core text; not itself adoption) — [`implementation/adoption/`](implementation/adoption/)
 - AI lookup CLI (process support; locators point, source binds) — [`ai_corpus/AI_NAVIGATION_GUIDE.md`](ai_corpus/AI_NAVIGATION_GUIDE.md) and `python3 tools/corpus_lookup.py`
+- Plain-terms edition (generated, non-binding; every core heading with its *In plain terms* gloss and one link back to the source) — [`doc_architecture/generated/plain_terms_edition.md`](doc_architecture/generated/plain_terms_edition.md) via `make plain-terms-edition`
 
 <a id="authorship"></a>
 ## Authorship

@@ -6,6 +6,8 @@ Session memory log for current project context, decisions, and next actions. Kee
 
 ## Current State
 
+**2026-09-09 — AI evaluation follow-ups (backlog in [TODO.md](TODO.md) *2026-09-09* section):** R1–R3 core text landed (Chapter Eight §2.1 *Silence is the default*; Chapter Nine §4.4 remedy parity, §7.1–§7.2 anti-aggregation and plain statement; Chapter One §9.1.1 role-scoped observability; Article V-E independent representation / shield-for-the-entity; Chapter Eleven §5 intake-gate audit and capacity-failure routing; Article XXVI-A preservation over deletion). Process-support items landed: eval item 19 (over-inclusion red team; pack `eval-pack-2026-09-09`), vignettes 6–7, audit weight classes in `implementation/AUTOMATED_REFERENCE_CHECKING.md`, `make plain-terms-edition`. Open: I1 human evidence, I2 adopter profile and cost, I3 LEQU calibration, I4(b) record-schema fields, I7 thin CI companions, companion follow-through listed under R1–R3. Live publication sequence stays in [VISION.md §4](VISION.md#path) and [implementation/PRE_PUBLICATION_SPEC.md](implementation/PRE_PUBLICATION_SPEC.md).
+
 **2026-06-18 — Chapter Five constitutional band reorganization:** Part B/C retired to [archive/core_ch5_retired/](archive/core_ch5_retired/README.md); five band files (`core_05{o,p,a,c,i}_*_definitions.md`) are operative homes; Part A holds compass + directory + §3.0 meta; §3 clusters renumbered **Chapter One §8.2–Chapter One §8.16** (hard cut). Edition **`SC-Corpus-2026.06.18`**. `make regression` and `make alignment-audit` pass; evidence in [evidence/2026-06-18/](evidence/2026-06-18/). Pre-closeout meta snapshot: [archive/TODO_SNAPSHOT_2026-06-18.md](archive/TODO_SNAPSHOT_2026-06-18.md), [archive/MEMLOG_SNAPSHOT_2026-06-18.md](archive/MEMLOG_SNAPSHOT_2026-06-18.md).
 
 **2026-06-17 — Non-corpus housecleaning:** Aggressive archive prune (keep canonical architecture anchors + root retirement snapshots only). Retired migration scripts moved to `archive/tools_retired/`; completed implementation plans to `archive/implementation_retired/`. No corpus doctrine changed.
@@ -13,6 +15,8 @@ Session memory log for current project context, decisions, and next actions. Kee
 **2026-06-15 — Meta-file archive cleanup:** Restored slim root `TODO.md` and `MEMLOG.md` after the 2026-05-07 root retirement. CI→CJS/CS relocation and P3 redundancy sweep closed; detail removed from `archive/` in 2026-06-17 pass — retrieve from git history if needed.
 
 ## Active Threads
+
+**2026-09-09 evaluation backlog:** open items I1, I2, I3, I4(b), I7 and the R1–R3 companion follow-through in [TODO.md](TODO.md). Regression baseline at that date carried three pre-existing findings (fossil fragment ids, a Def.P2 `§3.3`/`§4.3` label, id-resolver fossil aliases) that also fail at `HEAD`.
 
 **P2 capitalization:** Partially landed (`71984fe`, `doc_architecture.md` rule, lexical audit checks). Open acceptance in [TODO.md](TODO.md).
 

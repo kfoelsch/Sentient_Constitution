@@ -1,7 +1,7 @@
 # Option A compare results
 
 - **Date:**
-- **Pack edition compared:** (announced-pack `eval-pack-2026-08-15` and/or `self-application-gateway-2026-08-22`)
+- **Pack edition compared:** (announced-pack `eval-pack-2026-09-09`, or `eval-pack-2026-08-15` for older files, and/or `self-application-gateway-2026-08-22`)
 - **Corpus edition pin (must match):** `SC-Corpus-2026.08.09`
 - **Party A file:**
 - **Party B file:**
