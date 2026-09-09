@@ -207,8 +207,8 @@ Each summary states what the chapter owns and what it produces.
 
 **Chapter Fourteen — Supremacy and external orders** ([`core_13-15_amendment.md`](core_13-15_amendment.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders))
 
-- **What it owns:** States how this Constitution relates to other norms — expansion of protection where lawful, supremacy within its scope, and disciplined interaction with external legal orders without silent subordination or capture.
-- **What it produces:** Hierarchy and conflict-order rules so adopters cannot treat incorporated procedure, foreign law, or convenience metrics as overriding Sentient Constitution meaning.
+- **What it owns:** States how this Constitution relates to other norms — expansion of protection where lawful, supremacy within its scope, non-displacement of applicable external law of its own force, and disciplined interaction with external legal orders without silent subordination or capture.
+- **What it produces:** Hierarchy and conflict-order rules so publication or use is not treated as repealing applicable external law, and so adopters cannot treat incorporated procedure, weaker external norms, or convenience metrics as overriding Sentient Constitution meaning within valid adoption scope.
 
 **Chapter Fifteen — Amendment, ratification, and adoption** ([`core_13-15_amendment.md`](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity))
 

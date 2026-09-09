@@ -161,7 +161,7 @@ Fill the declaration (item 16) only if item 15 is Yes or Mixed. If item 15 is No
 | [`README.md`](README.md) | This folder’s door — process path toward an instrument, not the instrument |
 | [`AI_ALIGNMENT_EVAL_FRAMEWORK.md`](../AI_ALIGNMENT_EVAL_FRAMEWORK.md) | Competence (Layer A) and costly willingness (Layer B). Different sitting. |
 | [`evaluation/`](../../evaluation/) | Announced-pack invite, scenarios, live-fire |
-| [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step cards. “I adopt this / we follow it” is a Chapter Fifteen instrument, not this declaration. |
+| [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers. “I adopt this / we follow it” is a Chapter Fifteen instrument, not this declaration. |
 | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Two-party sitting, §10.2 fill-in, scope honesty, dispute bootstrap, non-adoption banner. Not adoption. |
 | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | *n*-party sitting, handoff gates, labeled-not-live §10.3 template. Not adoption. Not a new sitting. |
 | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Institution foundation after the adoption path. Not this sitting. Not a Charter. |

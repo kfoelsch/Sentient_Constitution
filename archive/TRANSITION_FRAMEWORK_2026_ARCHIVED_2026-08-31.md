@@ -1,19 +1,19 @@
 # Transition framework (implementation layer)
 
-**Historical (2026-04).** This annex is **not** the current first-adopter path. Its edition pin (`SC-Corpus-2026.04.6`) is stale relative to the live corpus. Use [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) for the two-party sitting, the Chapter Fifteen §10.2 fill-in, and the non-adoption banner. After a qualifying body has recorded an instrument, sequence migration under [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role). Keep this file as a 2026 planning annex only.
+**Archived 2026-08-31.** This 2026-04 planning annex is **not** the current adoption path. Its edition pin (`SC-Corpus-2026.04.6`) is stale relative to the live corpus. Current first-adopter path: [`implementation/adoption/FIRST_ADOPTER_KIT.md`](../implementation/adoption/FIRST_ADOPTER_KIT.md) (two-party sitting, Chapter Fifteen §10.2 fill-in, non-adoption banner). After a recorded Chapter Fifteen instrument, sequence migration under [CS-10](../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role). Do not treat this file as a CS-10 substitute.
 
 **Status:** Non-normative implementation and planning aid. This file **does not amend, interpret, or substitute** for the authoritative constitution corpus.
 
 **Authoritative corpus edition (historical pin on this annex):** `SC-Corpus-2026.04.6`  
 **Effective date (historical pin on this annex):** 2026-04-08  
 
-**Corpus (binding scope):** The numbered `core_*` Sentient Constitution files and valid incorporated companion implementation text are the **Corpus** as defined in [Chapter Five *Corpus*](../../core_05_band_integrative.md#corpus). This implementation file is **not** part of that corpus unless an adopting instrument expressly incorporates it.
+**Corpus (binding scope):** The numbered `core_*` Sentient Constitution files and valid incorporated companion implementation text are the **Corpus** as defined in [Chapter Five *Corpus*](../core_05_band_integrative.md#corpus). This implementation file is **not** part of that corpus unless an adopting instrument expressly incorporates it.
 
-**Custody:** Record here the repository branch, publication channel, or custodian identity that holds the authoritative edition of the numbered Sentient Constitution `core_*.md` files, [corpus_joint_structure.md](../../corpus_joint_structure.md), and [corpus_systems.md](../../corpus_systems.md), consistent with [README.md](../../README.md) and [Chapter Five *Corpus*](../../core_05_band_integrative.md#corpus).
+**Custody:** Record here the repository branch, publication channel, or custodian identity that holds the authoritative edition of the numbered Sentient Constitution `core_*.md` files, [corpus_joint_structure.md](../corpus_joint_structure.md), and [corpus_systems.md](../corpus_systems.md), consistent with [README.md](../README.md) and [Chapter Five *Corpus*](../core_05_band_integrative.md#corpus).
 
 **Instrument of adoption:** When an adopter completes deliberate adoption, attach or reference the **instrument of adoption**.
 Examples include joining by additional parties (with recorded assent), treaty or compact ratification, resolution, federated registry entry, or equivalent.
-Apply [Chapter Fourteen *Ratification and Adoption*](../../core_13-15_amendment.md#10-ratification-and-adoption) and [Chapter Sixteen](../../core_16-16_incorporation.md) incorporation custody.
+Apply [Chapter Fourteen *Ratification and Adoption*](../core_13-15_amendment.md#10-ratification-and-adoption) and [Chapter Sixteen](../core_16-16_incorporation.md) incorporation custody.
 
 ---
 
@@ -25,14 +25,14 @@ This framework helps adopters map **2026 real-world conditions** (institutions, 
 
 | Topic | Primary corpus location |
 |--------|-------------------------|
-| Transition principles | [core_06-06_rights_part_d.md](../../core_06-06_rights_part_d.md) — **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) |
-| Operational transition protocol | [corpus_systems.md](../../corpus_systems.md) — **CS-10** (*Transition Constitution and Migration Governance*) |
-| Transitional stewardship | [corpus_systems.md](../../corpus_systems.md) — **CS-10** (*Transition Constitution and Migration Governance*); dependency / exit / anti-lock-in operational clusters — **CJS-3.17** (*interoperability, portability, and exit-integrity terms*), **CJS-3.12** (*Cross-domain implementation layer*) |
-| Legitimacy and authorization | [core_12-12_governance.md](../../core_12-12_governance.md) — **Chapter Twelve** |
-| Adoption, supremacy, external law, amendments | [core_13-15_amendment.md](../../core_13-15_amendment.md) — **Chapters Twelve and Thirteen**; [core_16-16_incorporation.md](../../core_16-16_incorporation.md) — **Chapter Sixteen** |
-| Crisis / subversion / reconstitution (when transition intersects compromise) | [corpus_systems.md](../../corpus_systems.md) — **CS-11**; cross-jurisdiction / anti-evasion — **CS-7 §9** |
+| Transition principles | [core_06-06_rights_part_d.md](../core_06-06_rights_part_d.md) — **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) |
+| Operational transition protocol | [corpus_systems.md](../corpus_systems.md) — **CS-10** (*Transition Constitution and Migration Governance*) |
+| Transitional stewardship | [corpus_systems.md](../corpus_systems.md) — **CS-10** (*Transition Constitution and Migration Governance*); dependency / exit / anti-lock-in operational clusters — **CJS-3.17** (*interoperability, portability, and exit-integrity terms*), **CJS-3.12** (*Cross-domain implementation layer*) |
+| Legitimacy and authorization | [core_12-12_governance.md](../core_12-12_governance.md) — **Chapter Twelve** |
+| Adoption, supremacy, external law, amendments | [core_13-15_amendment.md](../core_13-15_amendment.md) — **Chapters Twelve and Thirteen**; [core_16-16_incorporation.md](../core_16-16_incorporation.md) — **Chapter Sixteen** |
+| Crisis / subversion / reconstitution (when transition intersects compromise) | [corpus_systems.md](../corpus_systems.md) — **CS-11**; cross-jurisdiction / anti-evasion — **CS-7 §9** |
 
-National-law-specific schedules, filing steps, and polity-specific ballots **belong in this implementation layer** (or adopter annexes), not in Sentient Constitution / CJS / CS — see [archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md).
+National-law-specific schedules, filing steps, and polity-specific ballots **belong in this implementation layer** (or adopter annexes), not in Sentient Constitution / CJS / CS — see [archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md](ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md).
 
 ---
 
@@ -45,7 +45,7 @@ The corpus defines **rights floors**, **classification-scaled obligations**, **a
 - **Elections, sortition, or federated ratification** infrastructure (credentials, ballots, dispute rules) once chosen as the legitimacy mechanism
 - **Taxation, incorporation, securities listing**, and analogous licensing
 
-Full editorial treatment: [archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md) **section 18** (*Constitutional-political embedding boundary*).
+Full editorial treatment: [archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md](ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md) **section 18** (*Constitutional-political embedding boundary*).
 
 ---
 
@@ -53,11 +53,11 @@ Full editorial treatment: [archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-
 
 **Adopting entity(ies):** *(name, legal or network identity)*  
 
-**Polity / adoption model:** Select and complete **one** primary track in **Annex A** (territorial polity vs. federation / organization / network). Hybrid or sequenced designs are permitted under [Chapter Twelve §1](../../core_12-12_governance.md#1-authorization-and-legitimacy-of-governing-authority) if boundaries and rights floors are documented.
+**Polity / adoption model:** Select and complete **one** primary track in **Annex A** (territorial polity vs. federation / organization / network). Hybrid or sequenced designs are permitted under [Chapter Twelve §1](../core_12-12_governance.md#1-authorization-and-legitimacy-of-governing-authority) if boundaries and rights floors are documented.
 
 **Geographic or network boundaries:** *(describe)*  
 
-**Populations and systems in scope:** By phase, list stakeholders, jurisdictions, and classified systems ([corpus_systems.md](../../corpus_systems.md) CS-3 — *System Classification and Handling*) covered by transition obligations — implements **CS-10** §1 (*scope of affected systems and stakeholders*).
+**Populations and systems in scope:** By phase, list stakeholders, jurisdictions, and classified systems ([corpus_systems.md](../corpus_systems.md) CS-3 — *System Classification and Handling*) covered by transition obligations — implements **CS-10** §1 (*scope of affected systems and stakeholders*).
 
 ---
 
@@ -67,19 +67,19 @@ Use this section as a **factual** inventory to ground gate criteria and risk. It
 
 - **Institutions and governance:** Legacy legislative, executive, judicial, corporate, or federated bodies with material impact on covered sentients.
 - **Legal constraints:** Constitutional, statutory, regulatory, and contractual obligations that bind the adopter.
-- Note conflicts with corpus rights floors for Chapter Eleven harmonization ([Chapter Thirteen §3](../../core_13-15_amendment.md#3-supremacy-relative-to-other-binding-norms) — *Supremacy Relative to Other Binding Norms*; [Chapter Thirteen §4](../../core_13-15_amendment.md#4-disputes-involving-external-legal-orders) — *Disputes Involving External Legal Orders*).
-- **Critical dependencies:** Digital, financial, energy, supply chain, identity, and communication dependencies ([corpus_systems.md](../../corpus_systems.md) CS-9; *Dependent Systems Maps* under [Article IV-A](../../core_06-06_rights_part_a.md#article-iv-a-dependent-systems-maps)).
-- **Known misalignments:** Gaps versus Article XXVI transition rights-floor themes (survival, dignity, agency, contestability, non-discrimination) and versus audit/contestability ([Article IX](../../core_06-06_rights_part_b.md#article-ix-self-determination-agency-and-freedom-from-manipulation), [Article XII](../../core_06-06_rights_part_c.md#article-xii-reliable-trustworthy-and-contestable-systems), [Article XV](../../core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XXVI](../../core_06-06_rights_part_d.md#article-xxvi-transition-governance-continuity-and-re-baselining)).
+- Note conflicts with corpus rights floors for Chapter Eleven harmonization ([Chapter Thirteen §3](../core_13-15_amendment.md#3-supremacy-relative-to-other-binding-norms) — *Supremacy Relative to Other Binding Norms*; [Chapter Thirteen §4](../core_13-15_amendment.md#4-disputes-involving-external-legal-orders) — *Disputes Involving External Legal Orders*).
+- **Critical dependencies:** Digital, financial, energy, supply chain, identity, and communication dependencies ([corpus_systems.md](../corpus_systems.md) CS-9; *Dependent Systems Maps* under [Article IV-A](../core_06-06_rights_part_a.md#article-iv-a-dependent-systems-maps)).
+- **Known misalignments:** Gaps versus Article XXVI transition rights-floor themes (survival, dignity, agency, contestability, non-discrimination) and versus audit/contestability ([Article IX](../core_06-06_rights_part_b.md#article-ix-self-determination-agency-and-freedom-from-manipulation), [Article XII](../core_06-06_rights_part_c.md#article-xii-reliable-trustworthy-and-contestable-systems), [Article XV](../core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XXVI](../core_06-06_rights_part_d.md#article-xxvi-transition-governance-continuity-and-re-baselining)).
 
-**Optional risk pointer:** For corpus-level residual risk themes under adversarial pressure (not a substitute for adopter-specific threat modeling), see [archive/TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md](../../archive/TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md).
+**Optional risk pointer:** For corpus-level residual risk themes under adversarial pressure (not a substitute for adopter-specific threat modeling), see [archive/TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md](TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md).
 
 ---
 
 ## 5. Chosen legitimacy mechanism and high-impact gates
 
-Document the **documented legitimacy mechanism** required by [Chapter Twelve §1](../../core_12-12_governance.md#1-authorization-and-legitimacy-of-governing-authority) (*Authorization and Legitimacy of Governing Authority*): e.g. representative elections, sortition, federated ratification, treaty or compact, or hybrid — with **scope**, **renewal or reauthorization cadence**, and **limits on delegated power**, auditable in proportion to [corpus_systems.md](../../corpus_systems.md) CS-3 classification and material impact under Chapter Five definitions.
+Document the **documented legitimacy mechanism** required by [Chapter Twelve §1](../core_12-12_governance.md#1-authorization-and-legitimacy-of-governing-authority) (*Authorization and Legitimacy of Governing Authority*): e.g. representative elections, sortition, federated ratification, treaty or compact, or hybrid — with **scope**, **renewal or reauthorization cadence**, and **limits on delegated power**, auditable in proportion to [corpus_systems.md](../corpus_systems.md) CS-3 classification and material impact under Chapter Five definitions.
 
-Align **high-impact** decisions with [Article XI](../../core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*; legitimacy gates under **XI-C**) and **Chapter Six**, section **4**, where binding collective choice and participation weight apply.
+Align **high-impact** decisions with [Article XI](../core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*; legitimacy gates under **XI-C**) and **Chapter Six**, section **4**, where binding collective choice and participation weight apply.
 
 **Non-usurpation:** Silence, usage alone, or marketing alignment are not adoption — Chapter Twelve §1; Chapter Fourteen — *Ratification and Adoption*.
 
@@ -90,7 +90,7 @@ Align **high-impact** decisions with [Article XI](../../core_06-06_rights_part_b
 **CS-10** requires at least: **preparation**, **limited adoption**, **expanded adoption**, and **steady-state** phases. For each phase, publish:
 
 - Scope of affected systems and stakeholders  
-- Rights-floor controls that remain **invariant** during the phase ([Article XXVI](../../core_06-06_rights_part_d.md#article-xxvi-transition-governance-continuity-and-re-baselining))  
+- Rights-floor controls that remain **invariant** during the phase ([Article XXVI](../core_06-06_rights_part_d.md#article-xxvi-transition-governance-continuity-and-re-baselining))  
 - Accountable transition owners and review bodies  
 
 | Phase | Objectives | Entry criteria | Exit / gate criteria | Owners | Verification artifacts |
@@ -108,7 +108,7 @@ Align **high-impact** decisions with [Article XI](../../core_06-06_rights_part_b
 
 ## 7. Interim authority charter
 
-Temporary transition authorities must be **scope-limited**, **sunset-bounded**, and **independently reviewable** — [Article XXVI](../../core_06-06_rights_part_d.md#article-xxvi-transition-governance-continuity-and-re-baselining); **CS-10** §3.
+Temporary transition authorities must be **scope-limited**, **sunset-bounded**, and **independently reviewable** — [Article XXVI](../core_06-06_rights_part_d.md#article-xxvi-transition-governance-continuity-and-re-baselining); **CS-10** §3.
 
 | Field | Record |
 |--------|--------|
@@ -153,7 +153,7 @@ Where external requirements appear irreconcilable with rights floors, document c
 
 Per **CS-10** and **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) / **CJS-3.12** (*Cross-domain implementation layer*), interaction with non-aligned or legacy external systems is **transitional**; reduce reliance when viable alternatives exist. Document material dependency, transition, and disclosure obligations per **CS-10** §§1–2 and §5 (*Gate criteria*; *Transition audit, disclosure, and challenge*).
 
-For technical and organizational **exit, migration, and interoperability**, align with [core_06-06_rights_part_c.md](../../core_06-06_rights_part_c.md) **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*); where **movement**, **refuge**, or **non-statelessness** is materially implicated, read jointly with **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*) and [Chapter Five Chapter One §8.24 *Movement, Refuge, Non-Statelessness, and Exit Integrity*](../../core_05_band_oversight.md#movement-refuge-semi-independent). Coordinate with **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) / **CJS-3.12** (*burden-of-justification and constraint terms*) in [corpus_joint_structure.md](../../corpus_joint_structure.md) so transition does not create **systemic lock-in** under [Chapter Five *Systemic Lock-In*](../../core_05_band_continuity.md#systemic-lock-in).
+For technical and organizational **exit, migration, and interoperability**, align with [core_06-06_rights_part_c.md](../core_06-06_rights_part_c.md) **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*); where **movement**, **refuge**, or **non-statelessness** is materially implicated, read jointly with **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*) and [Chapter Five Chapter One §8.24 *Movement, Refuge, Non-Statelessness, and Exit Integrity*](../core_05_band_oversight.md#movement-refuge-semi-independent). Coordinate with **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) / **CJS-3.12** (*burden-of-justification and constraint terms*) in [corpus_joint_structure.md](../corpus_joint_structure.md) so transition does not create **systemic lock-in** under [Chapter Five *Systemic Lock-In*](../core_05_band_continuity.md#systemic-lock-in).
 
 ---
 
@@ -163,7 +163,7 @@ Material transition decisions, delays, reversals, and gate outcomes must be **lo
 
 - **Publication channels:** *(list)*
 - **Standing and challenge pathways:** Articles IX, XII, XV, XVIII, XXV; **CJS-3.13** (*Procedural Integrity and Adjudication*) where applicable
-- **Evidence discipline (examples):** See recorded drill artifacts under [evidence/](../../evidence/) (e.g. decision records, restoration checklists, disclosure logs) as **examples** of auditable practice; operational evidence remains in those folders.
+- **Evidence discipline (examples):** See recorded drill artifacts under [evidence/](../evidence/) (e.g. decision records, restoration checklists, disclosure logs) as **examples** of auditable practice; operational evidence remains in those folders.
 
 ---
 
@@ -175,7 +175,7 @@ Material transition decisions, delays, reversals, and gate outcomes must be **lo
 |----|------|---------|
 | **RS-T7-001** | Continuity | Gate blocking, rights-floor continuity, off-ramp/re-baselining — hooks: Article XXVI; **CS-10** §§1–10 |
 
-Source narrative and pass/fail conditions: [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](../../CONSTITUTIONAL_REGRESSION_SCENARIOS.md) — scenario **RS-T7-001**.
+Source narrative and pass/fail conditions: [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](../CONSTITUTIONAL_REGRESSION_SCENARIOS.md) — scenario **RS-T7-001**.
 
 **When to re-run:** Before advancing any phase gate; after material baseline change; after interim authority extension.
 
@@ -188,11 +188,11 @@ Source narrative and pass/fail conditions: [CONSTITUTIONAL_REGRESSION_SCENARIOS.
 | Partition / federation split risk | **RS-DECP-*** |
 | Capture / concentration | **RS-T8-001**, **RS-CAP-**\* |
 
-Authoritative list and status: [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](../../CONSTITUTIONAL_REGRESSION_SCENARIOS.md).
+Authoritative list and status: [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](../CONSTITUTIONAL_REGRESSION_SCENARIOS.md).
 
 ### 12.3 Fillable worksheets (from RS-T7-001 required artifacts)
 
-Derived from **RS-T7-001** — *Required Evidence / Artifacts* in [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](../../CONSTITUTIONAL_REGRESSION_SCENARIOS.md). Use per gate review; store completed copies under [evidence/](../../evidence/) or adopter-controlled evidence stores.
+Derived from **RS-T7-001** — *Required Evidence / Artifacts* in [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](../CONSTITUTIONAL_REGRESSION_SCENARIOS.md). Use per gate review; store completed copies under [evidence/](../evidence/) or adopter-controlled evidence stores.
 
 #### Worksheet A — Gate assessment checklist and deficiency log
 
@@ -242,9 +242,9 @@ Condensed from the 2026-Q2 completed-work archive (*Ticket 7: Transition constit
 
 **Normative closure (authoritative text remains in corpus):**
 
-- [core_06-06_rights_part_d.md](../../core_06-06_rights_part_d.md) — **Article XXVI**
+- [core_06-06_rights_part_d.md](../core_06-06_rights_part_d.md) — **Article XXVI**
 - **CJS-3.17** (*interoperability, portability, and exit-integrity terms*), **CJS-3.12** (*Cross-domain implementation layer*)
-- [corpus_systems.md](../../corpus_systems.md) — **CS-10**
+- [corpus_systems.md](../corpus_systems.md) — **CS-10**
 
 **Dependencies noted in archive:** **Sentient Constitution Chapter Eleven** rights floors; **Chapter Four** compliance / enforcement realism (e.g. §8 anchors) where transition touches remedy capacity; emergency/contingency and reversibility definitions; **CS-5** operational transition and environment controls.
 
@@ -252,8 +252,8 @@ Condensed from the 2026-Q2 completed-work archive (*Ticket 7: Transition constit
 
 ## Appendix C — Optional baseline signal (Trust Under Attack delta)
 
-[archive/TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md](../../archive/TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md) summarizes **residual risk scores** and **open drill gaps** as of 2026-04-08. Adopters may cite it when building section 4 (baseline) or section 8 (failure/subversion interfaces). It is **not** a substitute for adopter-specific risk assessment.
+[archive/TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md](TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md) summarizes **residual risk scores** and **open drill gaps** as of 2026-04-08. Adopters may cite it when building section 4 (baseline) or section 8 (failure/subversion interfaces). It is **not** a substitute for adopter-specific risk assessment.
 
 ---
 
-*This framework is an implementation aid. On any conflict with the numbered Sentient Constitution `core_*` files, [corpus_joint_structure.md](../../corpus_joint_structure.md), or [corpus_systems.md](../../corpus_systems.md), the **corpus** prevails.*
+*This framework is an implementation aid. On any conflict with the numbered Sentient Constitution `core_*` files, [corpus_joint_structure.md](../corpus_joint_structure.md), or [corpus_systems.md](../corpus_systems.md), the **corpus** prevails.*

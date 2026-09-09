@@ -449,7 +449,7 @@ If the file is also not a Chapter Fifteen instrument, attach the first-adopter k
 | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | *n*-party sitting, handoff gates, labeled-not-live §10.3 template |
 | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Ordinary or constitutional-function institution foundation. Not a forum family |
 | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Fitness screen + declaration (substeps 1.1–1.2) |
-| [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step cards. “We are the forum now” still routes here |
+| [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers. “We are the forum now” still routes here |
 | [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md) | Binding formation, map fields, non-collapse, chamber rules. This kit cannot narrow them |
 | [CF-1](../../corpus_forum/cf_01_scope_authority_boundary_rules.md) | Forum-layer boundary. Families stay in Chapter Eleven |
 | [CF-4](../../corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md) | Lawful panels. A named crew is not a panel |

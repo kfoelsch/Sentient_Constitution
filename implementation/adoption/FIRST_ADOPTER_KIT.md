@@ -41,7 +41,7 @@ This page, the fill-in instrument, and the two-party protocol **cannot narrow co
 
 ## 0. What this is not
 
-This page is **not** [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role). CS-10 sequences migration **after** a recorded Chapter Fifteen instrument. A 2026-04 planning annex remains historical: [`TRANSITION_FRAMEWORK_2026.md`](TRANSITION_FRAMEWORK_2026.md). More than two parties: [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) (*n*-party sitting, handoff gates, labeled-not-live §10.3 template). That page does not replace this kit’s two-party protocol or instrument fill-in. Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A Chapter Five Charter is not this kit’s instrument. Founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A CF-3.2 map is not this kit’s instrument.
+This page is **not** [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role). CS-10 sequences migration **after** a recorded Chapter Fifteen instrument. A 2026-04 planning annex is archived and is not that path: [`TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md`](../../archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md). More than two parties: [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) (*n*-party sitting, handoff gates, labeled-not-live §10.3 template). That page does not replace this kit’s two-party protocol or instrument fill-in. Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A Chapter Five Charter is not this kit’s instrument. Founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A CF-3.2 map is not this kit’s instrument.
 
 This kit does **not**:
 
@@ -217,11 +217,12 @@ It is not Chapter Sixteen incorporation.
 It is not a Chapter Eight standing record.
 It is not Chapter Seven certification.
 It does not bind non-consenting parties or systems the signers do not control.
+It does not supersede local, national, or international law.
 It is not joining under Chapter Fifteen §10.3.
 
 Until a body that can bind the relevant systems records a valid instrument,
 this text may guide us. It has no independent power to enforce against
-non-adopters. See Chapter Sixteen §4.
+non-adopters. See Chapter Sixteen §4 and Chapter Fourteen §5.
 ```
 
 ---
@@ -245,9 +246,9 @@ non-adopters. See Chapter Sixteen §4.
 | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation. Labeled-not-live CF-3.2 map fill-in. Not this kit’s instrument. Not a ceremony forum. |
 | [`evaluation/self_application/`](../../evaluation/self_application/) | Invite for each party’s sitting |
 | [`evaluation/two_party/`](../../evaluation/two_party/) | Two-party invite and Option A compare sheet |
-| [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step cards. “I adopt this / we follow it” points here |
+| [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers. “I adopt this / we follow it” points here |
 | [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) | Phased migration **after** a recorded instrument |
-| [`TRANSITION_FRAMEWORK_2026.md`](TRANSITION_FRAMEWORK_2026.md) | Historical 2026-04 annex; do not use as the current path |
+| [`TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md`](../../archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md) | Archived 2026-04 annex; do not use as the current path |
 | [Chapter Fifteen §10](../../core_13-15_amendment.md#10-ratification-and-adoption) | Only path to enforceable adoption |
 | [Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) | Who may adopt; model-constitution framing |
 | [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) | Cut gates. This kit does not close them |
@@ -266,3 +267,5 @@ non-adopters. See Chapter Sixteen §4.
 | 2026-08-31 | v0.6 | Moved under `implementation/adoption/`. Relative links retargeted. Folder door is [`README.md`](README.md). |
 | 2026-08-31 | v0.7 | Pointer to [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A Chapter Five Charter is not this kit’s instrument. |
 | 2026-08-31 | v0.8 | Pointer to [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A CF-3.2 map is not this kit’s instrument. Dispute bootstrap names the forum kit for Track A naming. |
+| 2026-08-31 | v0.9 | 2026-04 planning annex pointer retargeted to [`archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md`](../../archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md). |
+| 2026-09-09 | v0.10 | Non-adoption banner states that operations-guide use does not supersede local, national, or international law. Pointer: [Chapter Fourteen §5](../../core_13-15_amendment.md#5-relation-to-applicable-external-law). |

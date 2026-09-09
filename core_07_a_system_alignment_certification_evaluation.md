@@ -19,7 +19,7 @@
 > **Upstream:** Chapter Five definitions and Chapters Two through Four record, verification, burden, and traceability of definitions to results.
 > **Downstream:** [Part B](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process) (*record, forum process, and standing bridge*); Chapter Eight standing records and verified inputs; Chapter Nine standing effects; Chapter Eleven forum supervision and system alignment certification pathways.
 >
-> **Steward door (non-operative):** Binding next-step statement: [Operative steward statement](#operative-steward-statement-sac). Support cards in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) cannot narrow it.
+> **Steward door (non-operative):** Binding next-step statement: [Operative steward statement](#operative-steward-statement-sac). Support pointers in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) cannot narrow it.
 
 </details>
 

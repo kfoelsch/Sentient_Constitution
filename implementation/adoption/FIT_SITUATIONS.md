@@ -193,6 +193,7 @@ Named as valid adopters. [Chapter Twelve §1](../../core_12-12_governance.md#1-a
 *In plain terms: say these out loud so a “good fit” sketch is not used as a shortcut.*
 
 - Retrofitting an existing national constitution as drop-in law.
+- Claiming this Constitution supersedes local, national, or international law, or that operations-guide use displaces a regulator ([Chapter Fourteen §5](../../core_13-15_amendment.md#5-relation-to-applicable-external-law)).
 - Marketing “we follow it” while dodging matching obligations ([Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority)).
 - Two chat partners, or a markdown working group, claiming adoption or calling themselves the oversight body ([Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization)).
 - Binding host products, vendors, or platforms the crew does not control.
@@ -212,6 +213,7 @@ If any “cannot bind” row in the first-adopter kit’s [scope honesty](FIRST_
 | If this is happening | Open | Still not |
 |---|---|---|
 | Asking where this would actually fit | This page | Adoption, a Charter, or a forum family |
+| Announcing this corpus so fit parties can find it | [`ANNOUNCEMENT.md`](ANNOUNCEMENT.md) | Adoption; dropping **pre-release**; a finished operator manual |
 | Two sentients, or a first qualifying body | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | A declaration, two declarations stapled, or §10.3 joining |
 | More than two sentients | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | Live §10.3 rules; CS-10 phase names for headcount growth |
 | Founding a cooperative, research body, commons, or commercial form | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A | A live Charter until published in that body’s custody |
@@ -230,12 +232,14 @@ Filling any row is not adoption. Opening this folder is not adoption.
 | Material | Job relative to this page |
 |---|---|
 | [`README.md`](README.md) | This folder’s door — process path toward an instrument, not the instrument |
+| [`../../START_HERE.md`](../../START_HERE.md) | Public human front door |
+| [`ANNOUNCEMENT.md`](ANNOUNCEMENT.md) | Discovery / announcement copy. Not a founding kit. Does not drop **pre-release** |
 | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Two-party sitting, §10.2 fill-in, scope honesty, dispute bootstrap, non-adoption banner |
 | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | *n*-party sitting, handoff gates, labeled-not-live §10.3 template |
 | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Track A / Track B, formation cliffs, labeled-not-live Chapter Five Charter fill-in |
 | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation |
 | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Fitness screen + declaration (substeps 1.1–1.2) |
-| [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step cards for both kinds of steward |
+| [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers for both kinds of steward |
 | [Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) | Who may adopt; what non-adoption means for enforcement |
 | [Chapter Fifteen §10](../../core_13-15_amendment.md#10-ratification-and-adoption) | Deliberate, documented, auditable adoption |
 | [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) | Operations-guide vs full adoption; cut gates. This page does not close them |
@@ -247,3 +251,5 @@ Filling any row is not adoption. Opening this folder is not adoption.
 | Date | Version | Note |
 |---|---|---|
 | 2026-09-08 | v0.1 | Initial process-support fit map: fit tests, two modes, ranked sketches (AI institution building first), non-fits, kit routing. Not adoption. Not a founding kit. Does not drop **pre-release**. |
+| 2026-09-08 | v0.2 | Pointers to public door (`START_HERE.md`) and announcement kit (`ANNOUNCEMENT.md`). |
+| 2026-09-09 | v0.3 | Honest non-fits names claiming this Constitution supersedes applicable law, or that operations-guide use displaces a regulator. Canonical home: [Chapter Fourteen §5](../../core_13-15_amendment.md#5-relation-to-applicable-external-law). |

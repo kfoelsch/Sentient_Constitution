@@ -668,7 +668,7 @@ Accurate, relevant, and contestable information is foundational to self-determin
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding), and [§12 Shared-System Capacity](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
-- Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-audit). Support cards cannot narrow it. The three-layer picture lives in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit-three-layers).
+- Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-audit). Support pointers cannot narrow it. Three-layer picture: [below](#audit-three-layers). Pointer: [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit).
 
 </details>
 
@@ -689,6 +689,29 @@ Accurate, relevant, and contestable information is foundational to self-determin
 
 <a id="operative-steward-statement-audit"></a>
 > **Operative steward statement.** **Owner:** Article XV (floor). Auditability (property). CJS-3.3 (process). **Forbidden move:** Do not disable audit trails to hit a deadline. Do not treat Chapter Seven or a companion as a fifth audit home. **Clock:** Preserve or restore reconstructable records first. Then ship, if you still can. Missing the deadline is the failed-test cost, not a clock that authorizes dropping audit.
+
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): three-layer audit stack</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this Article or elsewhere.
+
+<a id="audit-three-layers"></a>
+
+One stack, three layers. Oversight requires reconstructability. System alignment certification is not the only audit. Companions do not replace the floor. Do not invent a fifth home.
+
+| Layer | Job | Owner | Not this layer |
+|---|---|---|---|
+| **1. Floor** | What sentients are owed: reconstructable audit, independent verification, reachable challenge | This Article, including XV-A / XV-B / XV-C | Not a process. Not a definition. Not a companion checklist. |
+| **2. Property** | What reconstructability *is*: outsiders can reconstruct and check what the system did across the material times, states, and contexts | [Auditability](core_05_band_oversight.md#auditability) (Chapter Five) | Not the Rights Floor. Not how/when to run an audit. |
+| **3. Process** | How and when to audit across systems, institutions, and forums | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Audit process home*). Operator annexes: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (access tiers), [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (claim check) | Not system alignment certification. Not a substitute for layers 1–2. |
+
+**Chapter Seven is not a fourth layer.** [System alignment certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) is one large, forum-supervised process that **uses** this stack. It must satisfy layers 1–2. Sibling modes (classification-record audit, data-types-record audit, claim verification, continuous monitoring) also use the stack. None of them is a new home.
+
+**Companions apply; they do not replace the floor.** CS, CI, CF, and the CJS-3.3–3.5 annexes say how to run layer 3 in a domain. They must satisfy layers 1–2. Deadline, secrecy, and local policy are lower-kind limits.
+
+Steward pointer (process support; cannot narrow this Article): [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit).
+
+</details>
 
 This Article states **constitutional floors** for audit, transparency, and independent verification under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
@@ -1649,7 +1672,7 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 
 - Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Read with: [Chapter One §3.4 Plain-Language Accessibility (Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty), [§6.1.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [Chapter One Part C §9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding).
-- Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-comprehensibility). Support cards cannot narrow it.
+- Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-comprehensibility). Support pointers cannot narrow it.
 
 </details>
 

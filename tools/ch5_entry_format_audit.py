@@ -61,7 +61,7 @@ def audit_redundant_suffix(root: pathlib.Path) -> list[str]:
         "archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md",
         "archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md",
         "archive/TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md",
-        "implementation/adoption/TRANSITION_FRAMEWORK_2026.md",
+        "archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md",
     ]
     for rel in [*binding_corpus_scope(root, include_support_docs=True), *extra_scope]:
         path = root / rel

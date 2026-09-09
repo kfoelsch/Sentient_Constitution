@@ -245,7 +245,7 @@ CS-10 phase names apply only inside that post-instrument migration. Do not renam
 | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Fitness screen + declaration design (substeps 1.1–1.2) |
 | [`evaluation/self_application/`](../../evaluation/self_application/) | Invite for each party’s sitting (same sitting; more files) |
 | [`evaluation/two_party/`](../../evaluation/two_party/) | Two-party invite and Option A compare. *n* > 2 does not need a new folder. |
-| [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step cards. “I adopt this / we follow it” still points at the first-adopter kit. |
+| [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers. “I adopt this / we follow it” still points at the first-adopter kit. |
 | [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) | Phased migration **after** a recorded instrument. This kit is not phase entry. |
 | [Chapter Fifteen §10](../../core_13-15_amendment.md#10-ratification-and-adoption) | Only path to enforceable adoption; §10.3 joining after existing adopters publish rules |
 | [Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) | Who may adopt; model-constitution framing |

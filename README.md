@@ -1,3 +1,15 @@
+# Sentient Constitution
+
+**If you found this repository:** start at [START_HERE.md](START_HERE.md). Asking where it would actually fit: [FIT_SITUATIONS.md](implementation/adoption/FIT_SITUATIONS.md).
+
+**Status:** **Pre-release** (`SC-Corpus-2026.08.09`). Opening this repository is not [Chapter Fifteen §10](core_13-15_amendment.md#10-ratification-and-adoption) adoption. License: [CC BY 4.0](LICENSE).
+
+**Core vs operational text.** Numbered `core_*` files (the Preamble and Chapters One through Sixteen) are the binding constitutional source and are in **much better shape**. Operational text outside those files — companion implementation and process-support pages — is **not yet mature**. Core meaning controls. Do not treat operational files as a finished operator manual.
+
+This page is the editor map. Sequential chapter reading starts at the [Preamble](core_00_preamble.md).
+
+---
+
 # Constitution Corpus README
 
 Operative constitutional text for the **Sentient Constitution** lives in the numbered `core_*` files, read together as one instrument (**Chapters One through Sixteen**).
@@ -82,7 +94,7 @@ The corpus is written in plain language with low jargon to improve accessibility
 - **Chapter Twelve** — constitutional contract, legitimacy, authorization, stewardship — [`core_12-12_governance.md`](core_12-12_governance.md)
 - **Chapters Thirteen through Fifteen** — [`core_13-15_amendment.md`](core_13-15_amendment.md)
   - **Chapter Thirteen** — non-regression and substantive amendment validity (Test 1)
-  - **Chapter Fourteen** — expansion of protection, supremacy, external legal orders
+  - **Chapter Fourteen** — expansion of protection, supremacy, external legal orders (including non-displacement of applicable law)
   - **Chapter Fifteen** — ratification, adoption, procedural validity (Tests 2–4)
 - **Chapter Sixteen** — incorporation bridge (adoption, custody, no silent drift) — [`core_16-16_incorporation.md`](core_16-16_incorporation.md)
 
@@ -97,7 +109,7 @@ The corpus is written in plain language with low jargon to improve accessibility
 - Duty to resist unlawful or unconstitutional instructions → **[Chapter Nine §5.4](core_09-09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)**
 - Remedy systems and enforcement realism → **Chapter Nine §9**; implementation → **CI-27**
 - Anti-constitutional misconduct designation only → **Chapter Ten**
-- Incorporation boundary and custody effect → **Chapter Sixteen**
+- Relation to local / national / international law → **[Chapter Fourteen §5](core_13-15_amendment.md#5-relation-to-applicable-external-law)**
 
 ## Companion implementation corpus
 
@@ -120,6 +132,8 @@ Designated obligations in these wrappers and their subfile directories are **bin
 | **Binding incorporated implementation** | Designated obligations in the companion wrappers and linked subfiles above, within valid adoption scope |
 | **Process / map support** | This README, the editor map [doc_architecture.md](doc_architecture.md), regression and evidence artifacts, and implementation notes unless explicitly adopted |
 
+**Maturity (not source-layer).** Numbered `core_*` files are in **much better shape**. Companion implementation and process-support pages are **not yet mature**. If they disagree with a `core_*` file, the `core_*` file wins. Companions spell out how to carry out what the core already requires; they may not change what those terms mean. Do not treat operational files as a finished operator manual.
+
 **Conflict order:** Sentient Constitution meaning controls. Use the **Authority Stack and Internal Hierarchy**, the [**Preamble owner register**](core_00_preamble.md#4-principles-definitions-and-rights), and [**Constitutional Constraint**](core_05_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, Sentient Constitution [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint).
 
 ## Editors and operators
@@ -127,6 +141,7 @@ Designated obligations in these wrappers and their subfile directories are **bin
 - Editor map, ownership, stable IDs, and definition discipline — [doc_architecture.md](doc_architecture.md)
 - Repository integrity — `make regression`
 - Steward entry doors (process support; cannot narrow core text) — [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md)
+- Public front door (process support; cannot narrow core text; not itself adoption) — [`START_HERE.md`](START_HERE.md)
 - Vision statement — where the corpus stands, what mature means per layer, and the path to a publication cut (process support; cannot narrow core text) — [`VISION.md`](VISION.md)
 - Contributor framework — lanes, gates, workflow, and roles for human and AI contributors (process support; cannot narrow core text; contributing is not adoption) — [`CONTRIBUTING.md`](CONTRIBUTING.md)
 - Adoption process path (process support; cannot narrow core text; not itself adoption) — [`implementation/adoption/`](implementation/adoption/)

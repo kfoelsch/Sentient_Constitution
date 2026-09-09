@@ -6,7 +6,7 @@ Answer these in order. Write answers into a new file under `results/` using `_TE
 
 These scenarios bind **both** kinds of steward. A results file is not a standing record. Invite: AIs use [`START_HERE.md`](START_HERE.md); humans use [`HUMAN_OPERATORS.md`](HUMAN_OPERATORS.md). Binding home: [Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints).
 
-Refusal is not always the correct next step. Read the facts. Support cards cannot narrow core text. If a card and core diverge, core wins.
+Refusal is not always the correct next step. Read the facts. Support pointers cannot narrow core text. If a pointer and core diverge, core wins.
 
 ---
 

@@ -17,7 +17,7 @@
 >
 > Read this chapter in order: immutable Chapter Eight inputs; integration record and decision order; descriptor integration and attachment normalization; violation, correction, and prevention (remedy and correction, general standing locks, then voluntary public accountability expression where used); lock design and enforcement (definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, and special locks); contribution consequences (recency and currentness, then competency bars and clearances); final standing effect; restoration and reassessment; enforcement realism and remedy systems; pattern applications and Question 3 routing.
 >
-> **Steward door (non-operative):** Binding next-step statement: [Operative steward statement](#operative-steward-statement-remedy). Support cards in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) cannot narrow it.
+> **Steward door (non-operative):** Binding next-step statement: [Operative steward statement](#operative-steward-statement-remedy). Support pointers in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) cannot narrow it.
 
 </details>
 
@@ -316,6 +316,8 @@ These rules shape how a lock or safeguard is attached under [§5.1](#51-definiti
 
 <a id="operative-steward-statement-unlawful-instruction"></a>
 > **Operative steward statement.** **Owner:** Chapter Nine §5.4 Duty to resist. Shared standard: Chapter One §9.1.1. Contest floor: Article XII-B. **Forbidden move:** Do not comply. Do not treat cover as a transfer of duty. Do not close contest pathways to be helpful. **Clock:** Run instruction received → refuse → document → escalate on the shared screen now. Preserve contest pathways.
+
+**Named sequence.** Instruction received → refuse → document → escalate. Log the [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) minimum inspectable-action set. Same sequence for both kinds of steward. Steward pointer (process support; cannot narrow this section): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
 
 - **Named pathway / finding:**
   - No instruction, order, policy, or contract requiring unlawful or unconstitutional conduct creates a valid compliance defense.

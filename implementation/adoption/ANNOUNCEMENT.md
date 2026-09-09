@@ -16,7 +16,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Fifteen §10](../../core_13-15_amendment.md#10-ratification-and-adoption) (*deliberate adoption, instrument, joining*); [Preamble §1](../../core_00_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00_preamble.md#material-stake)); [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) (*shared stewardship standard*).
+- Upstream: [Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Fifteen §10](../../core_13-15_amendment.md#10-ratification-and-adoption) (*deliberate adoption, instrument, joining*); [Chapter Fourteen §5](../../core_13-15_amendment.md#5-relation-to-applicable-external-law) (*non-displacement of applicable external law*); [Preamble §1](../../core_00_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00_preamble.md#material-stake)); [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) (*shared stewardship standard*).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-the-announcement); [§2](#2-say-and-do-not-say); [§3](#3-audience-notes); [§4](#4-publishing-checklist).
 - Read with: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md); [`../../START_HERE.md`](../../START_HERE.md); [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) (*non-adoption banner*); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*; cut gates). This page does not close those gates.
 
@@ -98,8 +98,9 @@ What "pre-release" means
 - The core text (the Preamble and Chapters One through Sixteen) is
   the binding source and the most complete part.
 - The operational text around it (companion implementation files,
-  steward doors, adoption kits) is still a work in progress. Where
-  they differ, the core text controls.
+  steward doors, adoption kits) is still a work in progress. If they
+  disagree with the core, the core wins. Those files say how to carry
+  out what the core already requires; they may not change what it means.
 
 What it is not
 
@@ -107,6 +108,12 @@ What it is not
 - Reading it, forking it, or saying "we follow it" is not adoption.
   Adoption happens only when a body that can bind its own systems
   records a formal instrument under Chapter Fifteen.
+- It does not supersede local, national, or international law.
+  Adoption binds only the adopting body, and only as far as that
+  body already has lawful authority to bind itself. Where the
+  Constitution is used inside an existing legal framework, its
+  processes and participation must stay consistent with that
+  framework. (Chapter Fourteen)
 - It does not bind vendors, platforms, or anyone else who did not
   agree to it.
 
@@ -121,10 +128,11 @@ Short form (repository description, social preview):
 Pre-release model constitution for systems that materially affect
 sentient beings. Four duties, one standard for human and AI stewards.
 Core text is binding and most complete; operational text is still in
-progress. Reading or forking this is not adoption. CC BY 4.0.
+progress. Reading or forking this is not adoption. Does not supersede
+applicable law. CC BY 4.0.
 ```
 
-Any shorter version must still say **pre-release**, **not adoption**, and **core text controls**.
+Any shorter version must still say **pre-release**, **not adoption**, **does not supersede applicable law**, and **core text controls**.
 
 ---
 
@@ -137,7 +145,8 @@ Any shorter version must still say **pre-release**, **not adoption**, and **core
 |---|---|
 | **Pre-release.** Edition `SC-Corpus-2026.08.09`; section links may change. | “This is the launch.” “This is the publication cut.” |
 | **Model constitution.** It may guide now. It binds a body only after that body records a Chapter Fifteen instrument ([Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority)). | “We launched it as law.” “Our org / city / protocol has adopted it” — unless that instrument exists. |
-| **Core text controls.** Numbered `core_*` files are the binding source and the most complete part. Companions apply core; they do not redefine it ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §4.2–§4.3). | “The whole corpus is ready to implement.” “The companion files are unofficial.” |
+| **Does not supersede applicable law.** Publication is not a claim of supremacy over local, national, or international law. Adoption binds only the adopting body, within its lawful authority and recorded scope ([Chapter Fourteen §5](../../core_13-15_amendment.md#5-relation-to-applicable-external-law)). Where used inside an external legal framework, processes and participation must stay consistent with that framework. | “This Constitution now overrides city / national / treaty law.” “Using it as an operations guide displaces our regulator.” |
+| **Core text controls.** If an operational file and a numbered `core_*` file disagree, the `core_*` file wins. Companion files spell out how to carry out what the core already requires; they may not change what those terms mean, shrink those duties, or invent a second set of rights ([Chapter Sixteen](../../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge)). | “The whole corpus is ready to implement.” “The companion files are unofficial.” |
 | **Operations-guide use** is the near-term invitation ([FIT §2](FIT_SITUATIONS.md#2-two-modes)). Attach the [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) to any shared file that is not a completed instrument. | “We follow it” as a marketing line ([FIT §5](FIT_SITUATIONS.md#5-honest-non-fits)). |
 | **Binds only what you run.** Vendors, host products, and non-consenting parties stay unbound. | “Labs and vendors in our stack are now bound.” |
 | **Same standard for both kinds of steward** ([Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)). | “AI stewards follow a separate ethics overlay.” |
@@ -204,6 +213,7 @@ If `docs/index.md` and `START_HERE.md` diverge, **`START_HERE.md` wins**.
 | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming |
 | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Operations-guide next-step pointers |
 | [Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) | Who may adopt; what non-adoption means for enforcement |
+| [Chapter Fourteen §5](../../core_13-15_amendment.md#5-relation-to-applicable-external-law) | Non-displacement of applicable external law; alignment when used inside an external legal framework |
 | [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) | Cut gates. This page does not close them |
 
 ---
@@ -216,3 +226,4 @@ If `docs/index.md` and `START_HERE.md` diverge, **`START_HERE.md` wins**.
 | 2026-09-08 | v0.2 | Honesty contract names the maturity split: numbered `core_*` files are in much better shape; operational text outside them is not yet mature. |
 | 2026-09-08 | v0.3 | Reworked for length and plain language. Announcement copy rewritten for general readers; honesty contract and do-not-say list merged into one say / do-not-say table; four channel packets collapsed into an audience table; placement, wave-1 exclusions, and GitHub surface merged into one publishing checklist. No change in meaning: still not adoption; still does not drop **pre-release**. |
 | 2026-09-08 | v0.4 | Announcement gains a “How it works” block: Chapter Five definitions (one home per term, with a way to check it) and three processes — system alignment certification, standing records, contestability — described in plain terms. §2 adds a row: describe the working parts as verified, written down, time-limited, and challengeable; do not call them “simple, proven, and effective.” |
+| 2026-09-09 | v0.5 | Announcement and say / do-not-say table state that this Constitution does not supersede local, national, or international law; adoption binds only the adopting body within its lawful authority; use inside an external legal framework must stay consistent with that framework. Canonical home: [Chapter Fourteen §5](../../core_13-15_amendment.md#5-relation-to-applicable-external-law). Still not adoption; still does not drop **pre-release**. |

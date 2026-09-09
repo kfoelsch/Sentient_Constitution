@@ -23,7 +23,7 @@
 >
 > Allegations, popularity, and dispute narratives are not answers to Question 1. A desired rating cannot supply the facts for Question 1, and a desired consequence cannot supply the rating for Question 2.
 >
-> **Steward door (non-operative):** Binding next-step statement: [Operative steward statement](#operative-steward-statement-standing). Support cards in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) cannot narrow it.
+> **Steward door (non-operative):** Binding next-step statement: [Operative steward statement](#operative-steward-statement-standing). Support pointers in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) cannot narrow it.
 
 </details>
 

@@ -120,13 +120,13 @@ References across these constitutional volumes to **Chapter Sixteen** or to inco
 
 - Upstream: [§1](#1-role-of-this-chapter)–[§3](#3-safeguards) (*bridge role, custody, and safeguards*); [Chapter Fifteen §10](core_13-15_amendment.md#10-ratification-and-adoption) (*deliberate adoption, instrument, and joining*); [Chapter Twelve §1](core_12-12_governance.md#1-authorization-and-legitimacy-of-governing-authority) (*pluralism*).
 - Downstream: [README.md](README.md) (*reader-facing adoption framing summary*); [doc_architecture.md](doc_architecture.md) (*editor map; non-binding unless adopted*).
-- Read with: [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) (*non-regression limits on partial adoption*); [Chapter Fourteen](core_13-15_amendment.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*supremacy and external-order interaction where adopters expand protections*).
+- Read with: [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) (*non-regression limits on partial adoption*); [Chapter Fourteen](core_13-15_amendment.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*supremacy and external-order interaction where adopters expand protections*); [Chapter Fourteen §5](core_13-15_amendment.md#5-relation-to-applicable-external-law) (*non-displacement of applicable external law; alignment when used inside an external legal framework*).
 
 </details>
 
 <br>
 
-*In plain terms: this is a model constitution about systems that affect sentients. A body can make it enforceable for itself only by adopting on purpose through the published rules — and “we never adopted” answers enforcement, not what the text says.*
+*In plain terms: this is a model constitution about systems that affect sentients. A body can make it enforceable for itself only by adopting on purpose through the published rules — and “we never adopted” answers enforcement, not what the text says. Publishing it does not override other law.*
 
 **What it is.** This Sentient Constitution is a **model constitution**. In its own terms, it speaks to systems that materially affect sentients. It becomes **enforceable** for a particular adopter — a jurisdiction, federation, polity, organization, system, or other body — **only after valid adoption** under **Chapter Fifteen** (*Ratification and Adoption*) and this chapter. Until then, it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.
 
@@ -137,6 +137,8 @@ Nothing here requires one world government, one federation design, or one adopti
 **How / when adoption counts.** Adoption counts only when it is deliberate, documented, and auditable under **[Chapter Fifteen §10](core_13-15_amendment.md#10-ratification-and-adoption)** (*Ratification and Adoption*), with incorporation and custody under this chapter. Informal, silent, or “we kind of follow it” practice is not enough to claim constitutional protection while dodging the matching obligations. The notice, contest, instrument, and custody details live in Chapter Fifteen — this section does not restate them.
 
 **What non-adoption means.** The substance of this instrument — including principles in **Chapter One**, definitions in **Chapter Five**, the Rights Floor in **Chapter Six**, and the other substantive chapters — **does not wait on adoption** to be what the instrument states. “The instrument lacks jurisdiction” is correct only about **enforcement** against a non-adopter. It is not a reason to shrink the substance in any analysis that uses this framework. Accepting the framework while denying its substance on jurisdictional grounds is non-compliant with this section.
+
+**Relation to applicable external law.** Non-displacement of applicable local, national, or international law, the limited binding effect of valid adoption, and alignment when this Constitution is used inside an external legal framework are governed by [Chapter Fourteen §5](core_13-15_amendment.md#5-relation-to-applicable-external-law). This section does not restate or narrow those rules.
 
 ---
 

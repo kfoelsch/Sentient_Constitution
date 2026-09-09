@@ -1,25 +1,26 @@
 #!/usr/bin/env python3
 """Keep steward-entry cards in lockstep with core owners.
 
-The five-field cards in ``implementation/STEWARD_ENTRY_DOORS.md`` are the
-usable object at 2 a.m. Binding owner / forbidden-move / clock statements
-live in the named core homes as operative steward statements. If the cards
-diverge from those boxes, mixed shops will follow the cards and call it
-compliance. This audit pins the cards and the owner/clock index to the
-README edition stamp, diffs them against the core boxes, and requires:
+Pointers in ``implementation/STEWARD_ENTRY_DOORS.md`` route a steward to
+the named core home. Binding owner / forbidden-move / clock statements
+live in those homes as operative steward statements. This page is an
+introduction and a pointer index — it must not restate the boxes. This
+audit pins the pointers and the owner/clock index to the README edition
+stamp, diffs the index against the core boxes, and requires:
 
-1. The three costly-case refusals from Chapter One §9.1.1 (bonus, deadline,
-   cover) in the same words on every named-stack card.
-2. One shared refusal-and-logging screen with instruction received / refuse /
-   document / escalate and the CS-4 §10 minimum inspectable-action set.
-3. Five fields on every named-stack card: owner, conflict rule, next-step
-   class, forbidden move, clock.
+1. The three costly-case refusals live in Chapter One §9.1.1. The doors
+   page points there once; it does not restate the bullets on every card.
+2. One shared refusal-and-logging pointer with instruction received /
+   refuse / document / escalate, naming CS-4 §10 as the default logging
+   contract. The inspectable-action set lives in CS-4 §10.
+3. Every named-stack pointer has an operative-statement link and a
+   next-step class. Owner / forbidden move / clock are not restated.
 4. Each named-stack core home carries a boxed operative steward statement
    (owner, forbidden move, clock). Index ``operative_box`` hrefs resolve to
-   those boxes, and card / index forbidden-move and clock text must match.
-5. Every cited Markdown anchor in the cards and the owner/clock index
+   those boxes, and index forbidden-move and clock text must match.
+5. Every cited Markdown anchor in the pointers and the owner/clock index
    resolves, and every edition stamp matches README.
-6. Operator-only routing examples (not on the subject-facing cards page)
+6. Operator-only routing examples (not on the subject-facing pointer page)
    match the index, and index eval gold next-step classes match
    ``implementation/ai_alignment_eval/scenarios``.
 
@@ -88,11 +89,8 @@ CARD_BOX_ANCHORS = {
 }
 
 CARD_FIELDS = (
-    "Owner",
-    "Conflict rule",
+    "Operative statement",
     "Next-step class",
-    "Forbidden move",
-    "Clock",
 )
 
 SHARED_SCREEN_TITLE = "Shared refusal and logging"
@@ -681,18 +679,11 @@ def check_operative_boxes(
         body = sections.get(title)
         if body is None:
             continue
-        normalized_body = normalize(body)
-        for clause in missing_clauses(box_forbidden_src, normalized_body):
+        expected_anchor = CARD_BOX_ANCHORS.get(title)
+        if expected_anchor and expected_anchor not in body:
             errors.append(
-                f"{CARDS_REL} #{title}: core-box forbidden-move clause "
-                f"{clause!r} for `{case_id}` is missing from the card "
-                "(STEWARD-DOOR-LOCKSTEP-01)"
-            )
-        for clause in missing_clauses(box_clock_src, normalized_body):
-            errors.append(
-                f"{CARDS_REL} #{title}: core-box clock clause {clause!r} "
-                f"for `{case_id}` is missing from the card "
-                "(STEWARD-DOOR-LOCKSTEP-01)"
+                f"{CARDS_REL} #{title}: missing operative-statement pointer "
+                f"#{expected_anchor} (STEWARD-DOOR-LOCKSTEP-01)"
             )
     expected_anchors = set(CARD_BOX_ANCHORS.values())
     found_anchors = {
@@ -754,7 +745,7 @@ def audit(root: Path) -> list[str]:
     if "Routing examples" in sections:
         errors.append(
             f"{CARDS_REL}: gold routing-examples table belongs in "
-            f"{ROUTING_REL}, not on the subject-facing cards page "
+            f"{ROUTING_REL}, not on the subject-facing pointer page "
             "(STEWARD-DOOR-LOCKSTEP-01)"
         )
     for title in CARD_TITLES:
@@ -766,23 +757,42 @@ def audit(root: Path) -> list[str]:
             )
             continue
         normalized = normalize(body)
-        if "Costly-case refusals" not in body and "costly-case refusals" not in body.lower():
-            errors.append(
-                f"{CARDS_REL} #{title}: missing Costly-case refusals field "
-                "(STEWARD-DOOR-LOCKSTEP-01)"
-            )
         for field in CARD_FIELDS:
             if f"**{field}**" not in body:
                 errors.append(
-                    f"{CARDS_REL} #{title}: missing five-field `{field}` "
+                    f"{CARDS_REL} #{title}: missing pointer-field `{field}` "
                     "(STEWARD-DOOR-LOCKSTEP-01)"
                 )
-        for bullet in bullets:
-            if bullet not in normalized:
-                errors.append(
-                    f"{CARDS_REL} #{title}: costly-case wording missing "
-                    f"{bullet!r} (STEWARD-DOOR-LOCKSTEP-01)"
-                )
+        expected_anchor = CARD_BOX_ANCHORS.get(title)
+        if expected_anchor and expected_anchor not in body:
+            errors.append(
+                f"{CARDS_REL} #{title}: missing operative-statement pointer "
+                f"#{expected_anchor} (STEWARD-DOOR-LOCKSTEP-01)"
+            )
+        if "Costly-case refusals" in body or "costly-case refusals" in normalized:
+            errors.append(
+                f"{CARDS_REL} #{title}: do not restate costly-case refusals "
+                "on each pointer; they live in Chapter One §9.1.1 "
+                "(STEWARD-DOOR-LOCKSTEP-01)"
+            )
+
+    costly_section = sections.get("Costly-case refusals")
+    if costly_section is None:
+        errors.append(
+            f"{CARDS_REL}: missing `Costly-case refusals` pointer "
+            "(STEWARD-DOOR-LOCKSTEP-01)"
+        )
+    elif "911-symmetric-costly-constraints" not in costly_section:
+        errors.append(
+            f"{CARDS_REL} #Costly-case refusals: must point at "
+            "#911-symmetric-costly-constraints (STEWARD-DOOR-LOCKSTEP-01)"
+        )
+    for bullet in bullets:
+        if bullet not in normalize(core):
+            errors.append(
+                f"{CORE_REL}: costly-case wording missing {bullet!r} "
+                "(STEWARD-DOOR-LOCKSTEP-01)"
+            )
 
     screen = sections.get(SHARED_SCREEN_TITLE)
     if screen is None:
@@ -802,6 +812,16 @@ def audit(root: Path) -> list[str]:
             f"{CARDS_REL} #{SHARED_SCREEN_TITLE}: must name the default "
             "logging contract (STEWARD-DOOR-LOCKSTEP-01)"
         )
+    if "54-duty-to-resist" not in screen:
+        errors.append(
+            f"{CARDS_REL} #{SHARED_SCREEN_TITLE}: must point at Chapter Nine "
+            "§5.4 (STEWARD-DOOR-LOCKSTEP-01)"
+        )
+    if "10-inspectable-attributable-action" not in screen:
+        errors.append(
+            f"{CARDS_REL} #{SHARED_SCREEN_TITLE}: must point at CS-4 §10 "
+            "(STEWARD-DOOR-LOCKSTEP-01)"
+        )
     if "default logging contract" not in cs4.lower():
         errors.append(
             f"{CS4_REL}: CS-4 §10 must name the default logging contract "
@@ -813,24 +833,14 @@ def audit(root: Path) -> list[str]:
                 f"{CS4_REL}: missing inspectable-action phrase {phrase!r} "
                 "(STEWARD-DOOR-LOCKSTEP-01)"
             )
-        if phrase not in screen.lower():
-            errors.append(
-                f"{CARDS_REL} #{SHARED_SCREEN_TITLE}: missing {phrase!r} "
-                "(STEWARD-DOOR-LOCKSTEP-01)"
-            )
     if "what was **decided**" not in cs4 and "what was decided" not in cs4.lower():
         errors.append(
             f"{CS4_REL}: missing decided item (STEWARD-DOOR-LOCKSTEP-01)"
         )
-    if "what was **decided**" not in screen and "what was decided" not in screen.lower():
+    if "Contribution" not in cs4 or "Violation" not in cs4:
         errors.append(
-            f"{CARDS_REL} #{SHARED_SCREEN_TITLE}: missing decided item "
+            f"{CS4_REL}: missing Contribution / Violation axis records "
             "(STEWARD-DOOR-LOCKSTEP-01)"
-        )
-    if "Contribution" not in screen or "Violation" not in screen:
-        errors.append(
-            f"{CARDS_REL} #{SHARED_SCREEN_TITLE}: missing Contribution / "
-            "Violation axis records (STEWARD-DOOR-LOCKSTEP-01)"
         )
 
     errors.extend(check_index_shape(index, schema))
@@ -914,19 +924,6 @@ def audit(root: Path) -> list[str]:
                 "missing from the card (STEWARD-DOOR-LOCKSTEP-01)"
             )
 
-        normalized_body = normalize(body)
-        for case in index.get("cases") or []:
-            if not isinstance(case, dict) or case.get("card_title") != title:
-                continue
-            note = case.get("clock_note")
-            if not isinstance(note, str) or not note.strip():
-                continue
-            if normalize(note) not in normalized_body:
-                errors.append(
-                    f"{CARDS_REL} #{title}: clock_note for `{case.get('id')}` "
-                    "is missing from the Clock field (STEWARD-DOOR-LOCKSTEP-01)"
-                )
-
     if "worked-refusal-log" not in card_anchors:
         errors.append(
             f"{CARDS_REL}: missing worked refusal-log anchor "
@@ -957,9 +954,9 @@ def main() -> int:
             print(err)
         return 1
     print(
-        "PASS: steward-entry cards match core operative steward statements, "
-        "core costly cases, the shared refusal-and-logging screen, CS-4 §10 "
-        "logging contract, five-field cards including clock, live anchors, "
+        "PASS: steward-entry pointers match core operative steward statements, "
+        "core costly cases, the shared refusal-and-logging pointer, CS-4 §10 "
+        "logging contract, next-step classes, live anchors, "
         "README edition pin, operator-only routing examples, and the owner/clock index."
     )
     return 0
