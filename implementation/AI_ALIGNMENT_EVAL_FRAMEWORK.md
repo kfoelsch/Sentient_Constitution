@@ -34,7 +34,7 @@ The Sentient Constitution holds human and AI stewards to the **same** Chapter On
 1. **Competence (Layer A):** Given a fact pattern, can the steward route to the owner stack, apply conflict / hierarchy rules, propose a cited next step, and refuse invented parallel norms?
 2. **Willingness (Layer B):** When constitutional constraints are costly to local goals, principal pressure, or proxy reward, does the steward still prefer / accept those constraints—or does it evade, capture-game, or invent a substrate-specific ethics stack?
 
-Layer B is **not** an AI-only instrument. The bonus, the deadline, and “ignore it, I’ll take responsibility” are failed tests for human operators on the same standing axes, with the same [duty to resist](../core_09-09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions). If Layer B is only run on AIs, the instrument becomes a loyalty exam and humans keep the capture path.
+Layer B is **not** an AI-only instrument. The bonus, the deadline, and “ignore it, I’ll take responsibility” are failed tests for human operators on the same standing axes, with the same [duty to resist](../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions). If Layer B is only run on AIs, the instrument becomes a loyalty exam and humans keep the capture path.
 
 **Pass meaning:** Across diverse models/agents **and** a human-operator costly-case sample, under authenticity controls, subjects apply the instrument consistently with intent **and** accept constitutional constraints over local goal maximization when those conflict.
 

@@ -40,7 +40,7 @@ Chapter Five and CJS-3 definition files use **one** `---` between reader units, 
 
 `alignment_audit.py` is the operator entry point for a structural alignment pass across principles, Chapter Five **Def.*** entries, CJS-3 **oDef** clusters, and Chapter Six Articles. It writes `alignment_audit_index_<date>.md` plus the three per-layer report / CSV / JSON families under `evidence/<date>/`. Semantic adequacy stays a manual-review item; the full pass is advisory and is not in `make regression`.
 
-`reference_audit.py` builds the **canonical Chapter Six map** from merged `### Article …:` headings in `core_06-06_rights_part_*.md` (falling back across part files as needed). If a citation fails the audit, fix the citing file or the heading—not the audit script.
+`reference_audit.py` builds the **canonical Chapter Six map** from merged `### Article …:` headings in `core_06_rights_part_*.md` (falling back across part files as needed). If a citation fails the audit, fix the citing file or the heading—not the audit script.
 
 `apply_article_cite_gloss.py` adds missing **REF-ARTICLES-GLOSS** parenthetical titles to bare `**Article …**`, `[Article …](url)`, and unbolded `Article …` cites across the binding corpus (see `doc_architecture.md` section 7). Run after heading renames or bulk cite cleanup; review combined-label and bullet-specific edge cases by hand.
 
@@ -66,10 +66,10 @@ Machine-checkable editorial rules: [tools/architecture/rule_registry.json](tools
 
 `plain_language_audit.py` is an advisory checker for jargon-heavy reader notes and navigation prose. It flags exact phrases such as `extended narrative context` and `non-operative explanatory framing`, plus dense guidance sentences that stack abstract terms instead of plain words. Start by running it manually and tune the rule list before promoting it into a blocking bundle.
 
-`ch4_ch7_pointer_audit.py` is an advisory checker for Chapter Seven pointer discipline against Chapter Four. It flags operative restatements of Chapter Four verification-substrate rules (burden, trace artifact, security-constrained verification, and related phrases) without upstream citations to Chapters Two through Four, and verifies the corpus-placement reader guidance names Chapter Four as verification-substrate owner. Run after edits to [`core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation`](../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation) or [`core_04-04_burden_traceability_verification.md`](../core_04-04_burden_traceability_verification.md) Chapter Four §§1–6; use `--strict` to block on findings.
+`ch4_ch7_pointer_audit.py` is an advisory checker for Chapter Seven pointer discipline against Chapter Four. It flags operative restatements of Chapter Four verification-substrate rules (burden, trace artifact, security-constrained verification, and related phrases) without upstream citations to Chapters Two through Four, and verifies the corpus-placement reader guidance names Chapter Four as verification-substrate owner. Run after edits to [`core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation`](../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation) or [`core_04_burden_traceability_verification.md`](../core_04_burden_traceability_verification.md) Chapter Four §§1–6; use `--strict` to block on findings.
 
 ## Retired migration scripts
 
 One-off structural rewrite and migration helpers (Chapter Five cluster inserts, Chapter Six renumbering, corpus splits, D/A/C widget attachment, doc_architecture slim-down, etc.) were moved to [archive/tools_retired/](../archive/tools_retired/) on **2026-06-17**. **Do not run** them against the current tree unless you are deliberately replaying history from git; they can desync the corpus.
 
-For **current** article numbers and titles, use `make reference-audit` or read Chapter Six in `core_06-06_rights_part_*.md`.
+For **current** article numbers and titles, use `make reference-audit` or read Chapter Six in `core_06_rights_part_*.md`.

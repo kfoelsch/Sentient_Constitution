@@ -46,8 +46,8 @@ Editorial model: **safe redundancy** = one canonical exposition + pointers (see 
 | Theme | Hits | Default action | Canonical home |
 | --- | ---: | --- | --- |
 | Governance layer separation (authorization vs participation) | 2 | thin | core_00_preamble.md §4–§5; core_05_band_integrative.md Constitutional Contract c… |
-| Rights-Floor jurisdiction / does not displace Ch6 | 2 | keep | core_06-06_rights_part_*.md; Trace routing |
-| Anti-formalism / label-gaming evasion block | 2 | review | core_02-03_definition_mechanics.md Chapter Three §2.2.1; core_01_c_stewardship_… |
+| Rights-Floor jurisdiction / does not displace Ch6 | 2 | keep | core_06_rights_part_*.md; Trace routing |
+| Anti-formalism / label-gaming evasion block | 2 | review | core_02_definition_structure.md Chapter Three §2.2.1; core_01_c_stewardship_… |
 | Symbolic / theater participation negative | 1 | thin | core_01_c_stewardship_capacity_principles.md §11; Participation definition |
 
 ## Intra-entry redundancy (same theme, multiple components)
@@ -127,7 +127,7 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 
 - **Label:** Anti-formalism / label-gaming evasion block
 - **Action:** review
-- **Canonical home:** core_02-03_definition_mechanics.md Chapter Three §2.2.1; core_01_c_stewardship_capacity_principles.md §11.6 for formal-structure change; term-specific C on gamed entries
+- **Canonical home:** core_02_definition_structure.md Chapter Three §2.2.1; core_01_c_stewardship_capacity_principles.md §11.6 for formal-structure change; term-specific C on gamed entries
 - **Notes:** Pattern is global; instance often must stay on the gamed term.
 - **Patterns:** `human-in-the-loop`, `rubber-stamp`, `rubber-stamps`, `formal relabeling`, `nominal .* does not`, `taxonomy-of-convenience`, `declared intent where`, `formal classification is relevant evidence but cannot`
 
@@ -143,7 +143,7 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 
 - **Label:** Rights-Floor jurisdiction / does not displace Ch6
 - **Action:** keep
-- **Canonical home:** core_06-06_rights_part_*.md; Trace routing
+- **Canonical home:** core_06_rights_part_*.md; Trace routing
 - **Notes:** Keep short jurisdictional line on O or enforceable C failure; route Chapter Six owner floor through Trace `- Owner floor:` boilerplate (DISC-INV Wave D).
 - **Patterns:** `does not displace`, `does not create a separate rights-floor`, `rights-floor concept`, `owner floor:`, `chapter six rights floor`
 

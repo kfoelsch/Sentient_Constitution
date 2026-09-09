@@ -1,11 +1,11 @@
 # Sentient Constitution — start here
 
-This page is the public front door. It is **process / operations-guide support** — **not** binding constitutional or incorporated text. It **cannot narrow core text**. Opening this page, this repository, or a kit is not [Chapter Fifteen §10](core_13-15_amendment.md#10-ratification-and-adoption) adoption.
+This page is the public front door. It is **process / operations-guide support** — **not** binding constitutional or incorporated text. It **cannot narrow core text**. Opening this page, this repository, or a kit is not [Chapter Fifteen §10](core_15_amendment_ratification.md#10-ratification-and-adoption) adoption.
 
 <a id="what-it-is"></a>
 ## 1. What it is
 
-This Sentient Constitution is a **model constitution**. In its own terms, it speaks to systems that materially affect sentients. It becomes **enforceable** for a particular body only after valid adoption under [Chapter Fifteen](core_13-15_amendment.md#10-ratification-and-adoption) and [Chapter Sixteen §4](core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority). Until then it may guide, inform, or serve as a reference. It has no independent power to enforce against non-adopters. It does not supersede local, national, or international law. Where it is used inside an existing legal framework, its processes and participation must stay consistent with that framework ([Chapter Fourteen §5](core_13-15_amendment.md#5-relation-to-applicable-external-law)).
+This Sentient Constitution is a **model constitution**. In its own terms, it speaks to systems that materially affect sentients. It becomes **enforceable** for a particular body only after valid adoption under [Chapter Fifteen](core_15_amendment_ratification.md#10-ratification-and-adoption) and [Chapter Sixteen §4](core_16_incorporation.md#4-adoption-framing-and-scope-of-authority). Until then it may guide, inform, or serve as a reference. It has no independent power to enforce against non-adopters. It does not supersede local, national, or international law. Where it is used inside an existing legal framework, its processes and participation must stay consistent with that framework ([Chapter Fourteen §5](core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
 Four duties — **participation**, **oversight**, **accountability**, and **timeliness** — scale with [material stake](core_00_preamble.md#material-stake) ([Preamble §1](core_00_preamble.md#constitutional-tetrad)). Human and AI stewards share one standard ([Chapter One §9.1.1](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)). Do not invent an AI-only overlay. Do not exempt humans.
 
@@ -82,12 +82,12 @@ Sequential chapter reading (editor map): [README.md](README.md).
 Same list as [FIT_SITUATIONS.md §5](implementation/adoption/FIT_SITUATIONS.md#5-honest-non-fits):
 
 - Retrofitting an existing national constitution as drop-in law.
-- Claiming this Constitution supersedes local, national, or international law, or that operations-guide use displaces a regulator ([Chapter Fourteen §5](core_13-15_amendment.md#5-relation-to-applicable-external-law)).
-- Marketing “we follow it” while dodging matching obligations ([Chapter Sixteen §4](core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority)).
+- Claiming this Constitution supersedes local, national, or international law, or that operations-guide use displaces a regulator ([Chapter Fourteen §5](core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- Marketing “we follow it” while dodging matching obligations ([Chapter Sixteen §4](core_16_incorporation.md#4-adoption-framing-and-scope-of-authority)).
 - Two chat partners, or a markdown working group, claiming adoption or calling themselves the oversight body ([Chapter One §9.5](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization)).
 - Binding host products, vendors, or platforms the crew does not control.
 - An AI-only overlay, or a human exemption from costly cases ([§9.1.1](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)).
-- Treating a participation vote, token vote, or standing score as authorization — or as sentience status ([Preamble §3.3](core_00_preamble.md#governance-layer-discipline); [Article XVIII-A](core_06-06_rights_part_c.md#article-xviii-a-standing-distinction)).
+- Treating a participation vote, token vote, or standing score as authorization — or as sentience status ([Preamble §3.3](core_00_preamble.md#governance-layer-discipline); [Article XVIII-A](core_06_rights_part_c.md#article-xviii-a-standing-distinction)).
 - Founding Chapter Eleven forum families from the cooperating crew and calling that independent review ([FORUM_FOUNDATION_KIT.md](implementation/adoption/FORUM_FOUNDATION_KIT.md)).
 
 If any “cannot bind” row in the first-adopter kit’s [scope honesty](implementation/adoption/FIRST_ADOPTER_KIT.md#3-scope-honesty) block is the actual situation, do not claim Chapter Fifteen adoption.

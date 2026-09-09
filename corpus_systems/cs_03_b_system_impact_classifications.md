@@ -28,7 +28,7 @@
 - Read with: [Material Impact](../core_05_band_oversight.md#material-impact); [Materiality Determination](../core_05_band_oversight.md#materiality-determination); [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance).
 - Read with: [Dependency](../core_05_band_continuity.md#dependency); [Risk](../core_05_band_continuity.md#risk); [Cascading Failure](../core_05_band_continuity.md#cascading-failure); [Existential Risk](../core_05_band_continuity.md#existential-risk).
 - Read with: [Systemic](../core_05_band_continuity.md#systemic); [Systemic Materiality](../core_05_band_continuity.md#systemic-materiality); [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional).
-- Read with: [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*forum materiality tiers A/B/C/L/P — alphabet mirror only*).
+- Read with: [Chapter Eleven §6](../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*forum materiality tiers A/B/C/L/P — alphabet mirror only*).
 - Read with: [CS-4 §2](cs_04_critical_system_stewardship.md#cs-4-2-classification-as-steward) (*Classification as steward* — CSS follows impact class and Dep-A / Dep-B; Class C gated).
 
 </details>
@@ -53,7 +53,7 @@ Duty intensity is scaled by [Materiality Determination](../core_05_band_oversigh
 **CS-local “systemic” (classification posture):** In this Part B catalog, **“systemic”** denotes capacity for cross-domain [Cascading Failure](../core_05_band_continuity.md#cascading-failure) across dependents — not merely large-scale or widespread impact. That posture language is **distinct from** two other things:
 
 - Continuity [Systemic](../core_05_band_continuity.md#systemic) and [Systemic Materiality](../core_05_band_continuity.md#systemic-materiality), which carry interaction and amplification meanings;
-- the Chapter Eleven **Tier A/B/C/L/P** dispute clocks ([§6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)), which mirror the alphabet only.
+- the Chapter Eleven **Tier A/B/C/L/P** dispute clocks ([§6](../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)), which mirror the alphabet only.
 
 **Class posture strip (one-line differentials):**
 

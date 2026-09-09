@@ -29,7 +29,7 @@ audits. It enforces two invariants:
      C link.
 
 2. **D/A/C widget row-shape and anchor resolution.** Across the consumer core
-   files (``core_00_preamble.md`, `core_01_a_values_principles.md`, and `core_01_c_stewardship_capacity_principles.md``, ``core_02-03_definition_mechanics.md``,
+   files (``core_00_preamble.md`, `core_01_a_values_principles.md`, and `core_01_c_stewardship_capacity_principles.md``, ``core_02_definition_structure.md``,
    the four Chapter Eleven parts), every line inside a D/A/C widget that appears
    to be a widget row must match the canonical shape:
 
@@ -91,15 +91,16 @@ CONSUMERS = [
     "core_01_a_values_principles.md",
     "core_01_b_interaction_interpretation.md",
     "core_01_c_stewardship_capacity_principles.md",
-    "core_02-03_definition_mechanics.md",
-    "core_08-08_standing_assessment.md",
-    "core_09-09_standing_integration.md",
+    "core_02_definition_structure.md",
+    "core_03_definition_integrity.md",
+    "core_08_standing_assessment.md",
+    "core_09_standing_integration.md",
     "core_10_a_misconduct_designation.md",
     "core_10_b_misconduct_pattern_applications.md",
-    "core_06-06_rights_part_a.md",
-    "core_06-06_rights_part_b.md",
-    "core_06-06_rights_part_c.md",
-    "core_06-06_rights_part_d.md",
+    "core_06_rights_part_a.md",
+    "core_06_rights_part_b.md",
+    "core_06_rights_part_c.md",
+    "core_06_rights_part_d.md",
 ]
 
 # Headings that are cluster parents without direct O/E/C body. The audit does

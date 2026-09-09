@@ -59,7 +59,7 @@
       "theme_id": "rights_floor_jurisdiction",
       "theme_label": "Rights-Floor jurisdiction / does not displace Ch6",
       "action": "keep",
-      "canonical_home": "core_06-06_rights_part_*.md; Trace routing",
+      "canonical_home": "core_06_rights_part_*.md; Trace routing",
       "excerpt": "The reviewable process by which an entity's sentience status \u2014 whether the entity is a sentient for the purposes of the Chapter Six Rights Floor \u2014 is determined, revised, narrowed, or restored. It runs under [Sentience\u2026",
       "pattern": "chapter six rights floor"
     },
@@ -71,7 +71,7 @@
       "theme_id": "anti_formalism",
       "theme_label": "Anti-formalism / label-gaming evasion block",
       "action": "review",
-      "canonical_home": "core_02-03_definition_mechanics.md Chapter Three \u00a72.2.1; core_01_c_stewardship_capacity_principles.md \u00a711.6 for formal-structure change; term-specific C on gamed entries",
+      "canonical_home": "core_02_definition_structure.md Chapter Three \u00a72.2.1; core_01_c_stewardship_capacity_principles.md \u00a711.6 for formal-structure change; term-specific C on gamed entries",
       "excerpt": "Non-compliant: - withholding, narrowing, or revoking Chapter Six protection on the strength of unresolved uncertainty alone; - non-time-bound declassification; declassification lacking mandatory periodic review; - paper\u2026",
       "pattern": "taxonomy-of-convenience"
     },
@@ -83,7 +83,7 @@
       "theme_id": "rights_floor_jurisdiction",
       "theme_label": "Rights-Floor jurisdiction / does not displace Ch6",
       "action": "keep",
-      "canonical_home": "core_06-06_rights_part_*.md; Trace routing",
+      "canonical_home": "core_06_rights_part_*.md; Trace routing",
       "excerpt": "Non-compliant: - withholding, narrowing, or revoking Chapter Six protection on the strength of unresolved uncertainty alone; - non-time-bound declassification; declassification lacking mandatory periodic review; - paper\u2026",
       "pattern": "chapter six rights floor"
     },
@@ -107,8 +107,8 @@
       "theme_id": "anti_formalism",
       "theme_label": "Anti-formalism / label-gaming evasion block",
       "action": "review",
-      "canonical_home": "core_02-03_definition_mechanics.md Chapter Three \u00a72.2.1; core_01_c_stewardship_capacity_principles.md \u00a711.6 for formal-structure change; term-specific C on gamed entries",
-      "excerpt": "Non-compliant: skipping published sequence; sham deliberation; rubber-stamp plural review; foreclosing challenge or lawful reopening where required. Owner requirement: [Chapter Twelve \u00a73.3](core_12-12_governance.md#43-d\u2026",
+      "canonical_home": "core_02_definition_structure.md Chapter Three \u00a72.2.1; core_01_c_stewardship_capacity_principles.md \u00a711.6 for formal-structure change; term-specific C on gamed entries",
+      "excerpt": "Non-compliant: skipping published sequence; sham deliberation; rubber-stamp plural review; foreclosing challenge or lawful reopening where required. Owner requirement: [Chapter Twelve \u00a73.3](core_12_governance.md#43-d\u2026",
       "pattern": "rubber-stamp"
     }
   ]

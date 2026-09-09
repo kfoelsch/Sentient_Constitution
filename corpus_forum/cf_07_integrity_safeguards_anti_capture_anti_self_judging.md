@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
+> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 >
 > Start at the [Forums landing page](../corpus_forum.md) for reading order, or the [forums registry](cf_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-7.1 Alignment rulings, component referral, and supervisory coordination](#cf-71-alignment-rulings-component-referral-and-supervisory-coordination); [CF-7.2 Constitutional alignment recognition and review](#cf-72-constitutional-alignment-recognition-and-review); [CF-7.3 Anti-self-judging activation, capture-sensitive routing, contest-integrity interfaces, and family-level capture](#cf-73-anti-self-judging-activation-capture-sensitive-routing-contest-integrity-interfaces-and-family-level-capture).
 - Read with: **CF-7**; **CF-7.1**; **CF-7.2**; **CF-7.3**; **CF-8**; **CF-9**; **CF-5**; **CF-6.1**; **CF-6.1.2**.
 - Topic routing (mandatory read-with): **CJS-R11A** (*Fallback operation*) in **CJS-0.1** (*Topic router*); primary owner **CF-13**.
@@ -121,7 +121,7 @@ Integrity forums must not issue final merits determinations reserved to another 
 
 <br>
 
-Where an alignment ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CF-6.1** (*Disposition-effect categories and record labels*) category or categories. The record should also identify the corresponding class label or labels. The ordinary floor is at least **CF-6.1.2** when pattern or shared-practice stakes are material. Adopting instruments must not silently treat alignment rulings as **CF-6.1.3** general panel-rule doctrine when constitutional certification under `core_11-11_forum.md` **Chapter Eleven**, **section 5** is required.
+Where an alignment ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CF-6.1** (*Disposition-effect categories and record labels*) category or categories. The record should also identify the corresponding class label or labels. The ordinary floor is at least **CF-6.1.2** when pattern or shared-practice stakes are material. Adopting instruments must not silently treat alignment rulings as **CF-6.1.3** general panel-rule doctrine when constitutional certification under `core_11_forum.md` **Chapter Eleven**, **section 5** is required.
 
 ## CF-7.2 Constitutional alignment recognition and review
 <details>
@@ -135,7 +135,7 @@ Where an alignment ruling materially stabilizes outcomes beyond the named partie
 
 *In plain terms: How a system gets officially recognized as constitutionally aligned within a stated scope, and how that recognition is rechecked later. Recognition is contestable and does not expire into a permanent seal of approval.*
 
-**Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_11-11_forum.md` **Chapter Eleven**, **sections 3, 5, and 8**, and works with [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) and **CS-3 — System classification and handling** classification and revalidation duties.
+**Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_11_forum.md` **Chapter Eleven**, **sections 3, 5, and 8**, and works with [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) and **CS-3 — System classification and handling** classification and revalidation duties.
 
 ### CF-7.2.1 Technical-Specification and Environmental-Component Separation
 <details>
@@ -149,7 +149,7 @@ Where an alignment ruling materially stabilizes outcomes beyond the named partie
 
 Technical specialist forums under **CF-10** (*Technical specialist forums and specialist chambers*) maintain the specifications, measurement methods, test protocols, expert-evidence standards, and domain-specific criteria. Those materials support system-alignment assessment. Environment forums hold environmental-alignment component review where material ecological exposure exists. The same review applies where there is environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk.
 
-Integrity forums make the official constitutional alignment recognition, validation, revalidation, and remediation-supervision record. They must use technical-forum standards where materially applicable. They may certify technical questions to the proper technical forum, but must not rewrite technical specifications as a substitute for referral. Where material ecological exposure exists, Integrity forums must obtain and record the Environment forum's environmental-alignment approval, conditional approval, objection, remediation requirement, or release-from-condition finding. Technical forums must not treat specification maintenance or technical adequacy findings as final constitutional alignment recognition unless `core_11-11_forum.md` independently assigns that primary stake to them.
+Integrity forums make the official constitutional alignment recognition, validation, revalidation, and remediation-supervision record. They must use technical-forum standards where materially applicable. They may certify technical questions to the proper technical forum, but must not rewrite technical specifications as a substitute for referral. Where material ecological exposure exists, Integrity forums must obtain and record the Environment forum's environmental-alignment approval, conditional approval, objection, remediation requirement, or release-from-condition finding. Technical forums must not treat specification maintenance or technical adequacy findings as final constitutional alignment recognition unless `core_11_forum.md` independently assigns that primary stake to them.
 
 ### CF-7.2.2 Triggering Events
 
@@ -197,7 +197,7 @@ Where Environment forum review is required, final recognition, validation, reval
 
 ### CF-7.2.6 Component Referrals and Certification
 
-Technical adequacy, institutional mandate, ecological merits, environmental-alignment component review, sentience-status, rights restriction, and constitutional-validity questions must be referred, certified, or stayed under `core_11-11_forum.md` **Chapter Eleven** and this file's routing rules. Alignment recognition does not let an Integrity forum displace another forum's assigned role. That includes a specialized technical panel's standards function, an Institutional forum's mandate determination, an Environment forum's ecological merits or environmental-alignment authority, and a Constitutional forum's final authority over constitutional meaning and structural remedy.
+Technical adequacy, institutional mandate, ecological merits, environmental-alignment component review, sentience-status, rights restriction, and constitutional-validity questions must be referred, certified, or stayed under `core_11_forum.md` **Chapter Eleven** and this file's routing rules. Alignment recognition does not let an Integrity forum displace another forum's assigned role. That includes a specialized technical panel's standards function, an Institutional forum's mandate determination, an Environment forum's ecological merits or environmental-alignment authority, and a Constitutional forum's final authority over constitutional meaning and structural remedy.
 
 ### CF-7.2.7 No Permanent Certificate
 

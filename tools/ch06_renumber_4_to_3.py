@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CH06 = ROOT / "core_08-08_standing_assessment.md"
+CH06 = ROOT / "core_08_standing_assessment.md"
 
 ANCHOR_REMAP = {
     "4-primary-axis-categories-slot-grammar-and-defaults": "3-primary-axis-categories-slot-grammar-and-defaults",
@@ -69,35 +69,35 @@ CROSS_FILE = [
     ),
     (
         "canonical Axis II classification rules are in Chapter Eight **§11.3** and **§4**",
-        "canonical Axis II classification rules are in Chapter Eight **§3.4** and [Chapter Nine **§4**](core_09-09_standing_integration.md#8-enforcement-realism-anchors)",
+        "canonical Axis II classification rules are in Chapter Eight **§3.4** and [Chapter Nine **§4**](core_09_standing_integration.md#8-enforcement-realism-anchors)",
     ),
     (
-        "[Chapter One §8.1](core_08-08_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline)",
-        "[§11.3](core_08-08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)",
+        "[Chapter One §8.1](core_08_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline)",
+        "[§11.3](core_08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)",
     ),
     (
-        "[§11.3](core_08-08_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity)",
-        "[§3.4](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)",
+        "[§11.3](core_08_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity)",
+        "[§3.4](core_08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)",
     ),
     (
-        "[§3.3, Formal Non-Compliance](core_08-08_standing_assessment.md#41-formal-non-compliance)",
-        "[§3.4, Formal Non-Compliance](core_08-08_standing_assessment.md#41-formal-non-compliance)",
+        "[§3.3, Formal Non-Compliance](core_08_standing_assessment.md#41-formal-non-compliance)",
+        "[§3.4, Formal Non-Compliance](core_08_standing_assessment.md#41-formal-non-compliance)",
     ),
     (
-        "[§3.3, Duty-Based or Negligent-Harm Violation](core_08-08_standing_assessment.md#44-duty-based-or-negligent-harm-violation)",
-        "[§3.4, Duty-Based or Negligent-Harm Violation](core_08-08_standing_assessment.md#44-duty-based-or-negligent-harm-violation)",
+        "[§3.3, Duty-Based or Negligent-Harm Violation](core_08_standing_assessment.md#44-duty-based-or-negligent-harm-violation)",
+        "[§3.4, Duty-Based or Negligent-Harm Violation](core_08_standing_assessment.md#44-duty-based-or-negligent-harm-violation)",
     ),
     (
         "verified violation assessment from **section 4.2** into **standing locks**",
         "verified violation assessment from **Chapter Eight section 3.3** into **standing locks**",
     ),
     (
-        "It supplements the primary Violation Axis ladder in **[§11.3](core_08-08_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity)**. It does not replace the **section 4.3** severity ladder, **section 4.2**,",
-        "It supplements the primary Violation Axis ladder in **[§3.4](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)**. It does not replace the **Chapter Eight section 3.4** severity ladder, **Chapter Eight section 3.3**,",
+        "It supplements the primary Violation Axis ladder in **[§11.3](core_08_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity)**. It does not replace the **section 4.3** severity ladder, **section 4.2**,",
+        "It supplements the primary Violation Axis ladder in **[§3.4](core_08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)**. It does not replace the **Chapter Eight section 3.4** severity ladder, **Chapter Eight section 3.3**,",
     ),
     (
-        "[**section 3**](core_08-08_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline)",
-        "[**section 3.3**](core_08-08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)",
+        "[**section 3**](core_08_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline)",
+        "[**section 3.3**](core_08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)",
     ),
 ]
 

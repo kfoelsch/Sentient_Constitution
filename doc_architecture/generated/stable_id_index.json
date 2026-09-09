@@ -21,12 +21,17 @@
       "status": "present"
     },
     {
-      "file": "core_02-03_definition_mechanics.md",
+      "file": "core_02_definition_structure.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_04-04_burden_traceability_verification.md",
+      "file": "core_03_definition_integrity.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_04_burden_traceability_verification.md",
       "label": "core",
       "status": "present"
     },
@@ -106,17 +111,17 @@
       "status": "present"
     },
     {
-      "file": "core_07-07_system_alignment_certification.md",
+      "file": "core_07_system_alignment_certification.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_08-08_standing_assessment.md",
+      "file": "core_08_standing_assessment.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_09-09_standing_integration.md",
+      "file": "core_09_standing_integration.md",
       "label": "core",
       "status": "present"
     },
@@ -131,7 +136,7 @@
       "status": "present"
     },
     {
-      "file": "core_11-11_forum.md",
+      "file": "core_11_forum.md",
       "label": "core",
       "status": "present"
     },
@@ -141,37 +146,47 @@
       "status": "present"
     },
     {
-      "file": "core_06-06_rights_part_a.md",
+      "file": "core_06_rights_part_a.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_06-06_rights_part_b.md",
+      "file": "core_06_rights_part_b.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_06-06_rights_part_c.md",
+      "file": "core_06_rights_part_c.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_06-06_rights_part_d.md",
+      "file": "core_06_rights_part_d.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_12-12_governance.md",
+      "file": "core_12_governance.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_13-15_amendment.md",
+      "file": "core_13_non_regression.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_16-16_incorporation.md",
+      "file": "core_14_expansion_supremacy.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_15_amendment_ratification.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_16_incorporation.md",
       "label": "core",
       "status": "present"
     },

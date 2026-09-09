@@ -7,11 +7,11 @@ description: Pre-release model constitution for systems that materially affect s
 
 This GitHub Pages site is a **pointer**, not a second constitution. Canonical public door (same words, relative links into the corpus): **[START_HERE.md](../START_HERE.md)**. If this file and that file diverge, **`START_HERE.md` wins**.
 
-This page is **process / operations-guide support**. Opening it is not [Chapter Fifteen §10](../core_13-15_amendment.md#10-ratification-and-adoption) adoption.
+This page is **process / operations-guide support**. Opening it is not [Chapter Fifteen §10](../core_15_amendment_ratification.md#10-ratification-and-adoption) adoption.
 
 ## What it is
 
-This Sentient Constitution is a **model constitution**. In its own terms, it speaks to systems that materially affect sentients. It becomes **enforceable** for a particular body only after valid adoption under Chapter Fifteen and [Chapter Sixteen §4](../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority). Until then it may guide, inform, or serve as a reference. It does not supersede local, national, or international law ([Chapter Fourteen §5](../core_13-15_amendment.md#5-relation-to-applicable-external-law)).
+This Sentient Constitution is a **model constitution**. In its own terms, it speaks to systems that materially affect sentients. It becomes **enforceable** for a particular body only after valid adoption under Chapter Fifteen and [Chapter Sixteen §4](../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority). Until then it may guide, inform, or serve as a reference. It does not supersede local, national, or international law ([Chapter Fourteen §5](../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
 ## Pre-release status
 

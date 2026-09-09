@@ -18,9 +18,9 @@
 **Implements from the core files:**
 - [Chapter One](core_01_a_values_principles.md) principles ([Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), aims, material stake) scaled into institutional duties
 - [Chapter Five](core_05__definitions_home.md) definitions by reference — this layer does not redefine them
-- [Chapter Six](core_06-06_rights_part_a.md) Rights Floor themes where institutions must deliver accessible pathways, remedy, care, health, and related floors
-- [Chapter Nine](core_09-09_standing_integration.md) remedy and enforcement realism where **CI-27** carries institutional redress capacity
-- [Chapter Twelve](core_12-12_governance.md) constitutional contract, legitimacy, authorization, and stewardship — institutional mechanics
+- [Chapter Six](core_06_rights_part_a.md) Rights Floor themes where institutions must deliver accessible pathways, remedy, care, health, and related floors
+- [Chapter Nine](core_09_standing_integration.md) remedy and enforcement realism where **CI-27** (*Remedy systems and institutional redress capacity*) carries institutional redress capacity
+- [Chapter Twelve](core_12_governance.md) constitutional contract, legitimacy, authorization, and stewardship — institutional mechanics
 
 **Siblings:**
 - Core [README](README.md) — Rights Floor, standing pipeline, and constitutional reading order before implementation detail
@@ -28,7 +28,7 @@
 - [Forums](corpus_forum.md) — panels, routing, appeals, and hearing independence
 - [Joint structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
 
-**Binding:** When an adopter incorporates this layer under [Chapter Sixteen](core_16-16_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+**Binding:** When an adopter incorporates this layer under [Chapter Sixteen](core_16_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
 **Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Institutions index** below. Identifier rules remain in the [institutions registry](corpus_institutions/ci_00_registry_and_reading_rules.md).
 

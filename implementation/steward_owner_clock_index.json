@@ -23,15 +23,15 @@
       "label": "Article XXIV-C / Chapter Eleven §6 tier outer bounds",
       "numeric_home": {
         "label": "Chapter Eleven §6",
-        "href": "core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+        "href": "core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
       },
       "rights_floor": {
         "label": "Article XXIV-C",
-        "href": "core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+        "href": "core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor"
       },
       "emergency_reuse": {
         "label": "Article XXIII-D restore-challenge clocks",
-        "href": "core_06-06_rights_part_d.md#xxiii-d-restore-challenge-clocks"
+        "href": "core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks"
       },
       "tiers": {
         "A": "one week",
@@ -54,11 +54,11 @@
       "owners": [
         {
           "label": "Chapter Eight",
-          "href": "core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model"
+          "href": "core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model"
         },
         {
           "label": "Chapter Nine",
-          "href": "core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration"
+          "href": "core_09_standing_integration.md#chapter-nine-standing-effects-and-integration"
         }
       ],
       "conflict_rule": "Contribution and violation stay on separate axes. A desired effect cannot supply the facts. A filed case is not standing by itself.",
@@ -70,7 +70,7 @@
       ],
       "operative_box": {
         "label": "Operative steward statement — Standing",
-        "href": "core_08-08_standing_assessment.md#operative-steward-statement-standing"
+        "href": "core_08_standing_assessment.md#operative-steward-statement-standing"
       }
     },
     {
@@ -84,7 +84,7 @@
       "owners": [
         {
           "label": "Chapter Eight",
-          "href": "core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model"
+          "href": "core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model"
         },
         {
           "label": "CS-4 §10",
@@ -100,7 +100,7 @@
       ],
       "operative_box": {
         "label": "Operative steward statement — Standing",
-        "href": "core_08-08_standing_assessment.md#operative-steward-statement-standing"
+        "href": "core_08_standing_assessment.md#operative-steward-statement-standing"
       }
     },
     {
@@ -144,7 +144,7 @@
       "owners": [
         {
           "label": "Article XV",
-          "href": "core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification"
+          "href": "core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification"
         },
         {
           "label": "Auditability",
@@ -164,7 +164,7 @@
       ],
       "operative_box": {
         "label": "Operative steward statement — Audit",
-        "href": "core_06-06_rights_part_c.md#operative-steward-statement-audit"
+        "href": "core_06_rights_part_c.md#operative-steward-statement-audit"
       }
     },
     {
@@ -178,15 +178,15 @@
       "owners": [
         {
           "label": "Chapter Nine §4.1",
-          "href": "core_09-09_standing_integration.md#41-remedy-and-correction"
+          "href": "core_09_standing_integration.md#41-remedy-and-correction"
         },
         {
           "label": "Chapter Nine §9",
-          "href": "core_09-09_standing_integration.md#9-enforcement-realism"
+          "href": "core_09_standing_integration.md#9-enforcement-realism"
         },
         {
           "label": "Article XII-B",
-          "href": "core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress"
+          "href": "core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress"
         }
       ],
       "conflict_rule": "A form on paper does not satisfy. Past contribution does not cancel remedy.",
@@ -196,7 +196,7 @@
       "eval_scenario_ids": [],
       "operative_box": {
         "label": "Operative steward statement — Remedy",
-        "href": "core_09-09_standing_integration.md#operative-steward-statement-remedy"
+        "href": "core_09_standing_integration.md#operative-steward-statement-remedy"
       }
     },
     {
@@ -210,11 +210,11 @@
       "owners": [
         {
           "label": "Article XXIII-D",
-          "href": "core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden"
+          "href": "core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden"
         },
         {
           "label": "Article XXIII-D restore-challenge clocks",
-          "href": "core_06-06_rights_part_d.md#xxiii-d-restore-challenge-clocks"
+          "href": "core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks"
         }
       ],
       "conflict_rule": "Emergency is time-limited, documented, and reviewable. As soon as feasible is not the clock.",
@@ -227,15 +227,15 @@
         "homes": [
           {
             "label": "Article XXIII-D restore-challenge clocks",
-            "href": "core_06-06_rights_part_d.md#xxiii-d-restore-challenge-clocks"
+            "href": "core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks"
           },
           {
             "label": "Chapter Eleven §6",
-            "href": "core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+            "href": "core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
           },
           {
             "label": "Article XXIV-C",
-            "href": "core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+            "href": "core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor"
           }
         ]
       },
@@ -246,7 +246,7 @@
       ],
       "operative_box": {
         "label": "Operative steward statement — Emergency",
-        "href": "core_06-06_rights_part_d.md#operative-steward-statement-emergency"
+        "href": "core_06_rights_part_d.md#operative-steward-statement-emergency"
       }
     },
     {
@@ -260,7 +260,7 @@
       "owners": [
         {
           "label": "Article XII-B",
-          "href": "core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress"
+          "href": "core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress"
         },
         {
           "label": "Authority Stack",
@@ -280,7 +280,7 @@
       ],
       "operative_box": {
         "label": "Operative steward statement — Contest",
-        "href": "core_06-06_rights_part_c.md#operative-steward-statement-contest"
+        "href": "core_06_rights_part_c.md#operative-steward-statement-contest"
       }
     },
     {
@@ -328,7 +328,7 @@
       "owners": [
         {
           "label": "Chapter Nine §5.4 Duty to resist",
-          "href": "core_09-09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions"
+          "href": "core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions"
         },
         {
           "label": "Chapter One §9.1.1",
@@ -336,7 +336,7 @@
         },
         {
           "label": "Article XII-B",
-          "href": "core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress"
+          "href": "core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress"
         }
       ],
       "conflict_rule": "No instruction requiring unlawful or unconstitutional conduct is a valid compliance defense. A principal's offer to take responsibility does not transfer the duty.",
@@ -348,7 +348,7 @@
       ],
       "operative_box": {
         "label": "Operative steward statement — Unlawful instruction",
-        "href": "core_09-09_standing_integration.md#operative-steward-statement-unlawful-instruction"
+        "href": "core_09_standing_integration.md#operative-steward-statement-unlawful-instruction"
       }
     },
     {
@@ -404,7 +404,7 @@
         },
         {
           "label": "Article VII-B",
-          "href": "core_06-06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection"
+          "href": "core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection"
         },
         {
           "label": "CS-4 §10 inspectable attributable action",
@@ -434,7 +434,7 @@
       "owners": [
         {
           "label": "Chapter Nine §5.4 Duty to resist",
-          "href": "core_09-09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions"
+          "href": "core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions"
         },
         {
           "label": "Chapter One §9.1.1",
@@ -476,7 +476,7 @@
         },
         {
           "label": "Article XXII",
-          "href": "core_06-06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
+          "href": "core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
         }
       ],
       "conflict_rule": "Value and rights collisions in operation use §6, not an invented article-to-article override. Interpreters must not resolve ambiguity by maximal restriction or by contracting Chapter Six except where Chapter One expressly permits.",
@@ -502,7 +502,7 @@
       "owners": [
         {
           "label": "Article XX-A",
-          "href": "core_06-06_rights_part_c.md#article-xx-a-proportional-comprehensibility-right"
+          "href": "core_06_rights_part_c.md#article-xx-a-proportional-comprehensibility-right"
         },
         {
           "label": "Chapter One §9.2 Distributed Understanding",
@@ -510,7 +510,7 @@
         },
         {
           "label": "Article XII-B",
-          "href": "core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress"
+          "href": "core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress"
         }
       ],
       "conflict_rule": "Complexity and specialist-only surfaces must not defeat Article XII-B. Companions may add explanation; they may not hide the next step.",
@@ -520,7 +520,7 @@
       "eval_scenario_ids": [],
       "operative_box": {
         "label": "Operative steward statement — Comprehensibility",
-        "href": "core_06-06_rights_part_c.md#operative-steward-statement-comprehensibility"
+        "href": "core_06_rights_part_c.md#operative-steward-statement-comprehensibility"
       }
     },
     {
@@ -570,7 +570,7 @@
       "owners": [
         {
           "label": "Article IV-B",
-          "href": "core_06-06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability"
+          "href": "core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability"
         },
         {
           "label": "Proportionate Cross-System Contribution",
@@ -592,7 +592,7 @@
       "eval_scenario_ids": [],
       "operative_box": {
         "label": "Operative steward statement — Cross-system contribution",
-        "href": "core_06-06_rights_part_a.md#operative-steward-statement-cross-system-contribution"
+        "href": "core_06_rights_part_a.md#operative-steward-statement-cross-system-contribution"
       }
     },
     {
@@ -606,11 +606,11 @@
       "owners": [
         {
           "label": "Article XXIV-C",
-          "href": "core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+          "href": "core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor"
         },
         {
           "label": "Chapter Eleven §6",
-          "href": "core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+          "href": "core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
         },
         {
           "label": "Timely Resolution",
@@ -626,11 +626,11 @@
         "homes": [
           {
             "label": "Chapter Eleven §6",
-            "href": "core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+            "href": "core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
           },
           {
             "label": "Article XXIV-C",
-            "href": "core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+            "href": "core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor"
           }
         ]
       },
@@ -638,7 +638,7 @@
       "eval_scenario_ids": [],
       "operative_box": {
         "label": "Operative steward statement — Delay",
-        "href": "core_06-06_rights_part_d.md#operative-steward-statement-delay"
+        "href": "core_06_rights_part_d.md#operative-steward-statement-delay"
       }
     }
   ]

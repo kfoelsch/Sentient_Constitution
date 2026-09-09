@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-6** (*Appeal, secondary review, and exhaustion pathways*).
+> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-6** (*Appeal, secondary review, and exhaustion pathways*).
 >
 > Start at the [Forums landing page](../corpus_forum.md) for reading order, or the [forums registry](cf_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-6.1 Disposition-effect categories and record labels](#cf-61-disposition-effect-categories-and-record-labels); [CF-6.2 Core rules](#cf-62-core-rules).
 - Read with: **CF-6**; **CF-6.1**; **CF-6.1.1**; **CF-6.1.2**; **CF-6.1.3**; **CF-4**; **CF-6.1.4**.
 - Topic routing (primary owner): **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-6**, **CJS-3.13**.
@@ -98,7 +98,7 @@ The determination binds the parties before the forum on the issues decided, incl
 
 ### CF-6.1.2 Scope-Anchored Disposition Effect
 
-The determination binds or governs a **class**, **subclass**, **common practice**, **common decision rule**, or similar shared stake. This includes representative proceedings authorized under `core_11-11_forum.md` **Chapter Eleven**, **section 3** (*Scope expansion and representative treatment*). A **high-impact, Rights-Floor, constitutional, or structurally precedential** determination usually carries the published panel-rule disposition effect when it materially reaches beyond the named parties.
+The determination binds or governs a **class**, **subclass**, **common practice**, **common decision rule**, or similar shared stake. This includes representative proceedings authorized under `core_11_forum.md` **Chapter Eleven**, **section 3** (*Scope expansion and representative treatment*). A **high-impact, Rights-Floor, constitutional, or structurally precedential** determination usually carries the published panel-rule disposition effect when it materially reaches beyond the named parties.
 
 ### CF-6.1.3 Published Panel-Rule Disposition Effect
 <details>

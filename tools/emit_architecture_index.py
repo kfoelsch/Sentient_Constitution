@@ -224,7 +224,7 @@ def render_markdown(root: Path) -> str:
             "",
             "## Chapter Six articles",
             "",
-            "Article titles and Roman numerals: `make reference-audit` / `core_06-06_rights_part_*.md`.",
+            "Article titles and Roman numerals: `make reference-audit` / `core_06_rights_part_*.md`.",
             "",
         ]
     )

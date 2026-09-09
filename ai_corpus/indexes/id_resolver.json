@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-08-31T11:54:58+00:00",
+  "generated_at": "2026-09-09T15:31:55+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -166,7 +166,7 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-1110-lived-conditions-during-restriction-and-re-entry-alignment-cross-layer",
       "heading": "CF-11.10 Lived conditions during restriction and re-entry alignment (cross-layer)",
-      "line": 411,
+      "line": 413,
       "kind": "section",
       "gloss": "Where a matter involves coercive or containment conditions, forum timing must be checked against the systems-layer floors for lived conditions. Good calendar numbers do not excuse bad conditions."
     },
@@ -225,21 +225,21 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-1132-publication-timeliness",
       "heading": "CF-11.3.2 Publication timeliness",
-      "line": 231,
+      "line": 233,
       "kind": "section"
     },
     "CF-11.3.3": {
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-1133-restricted-evidence-timing",
       "heading": "CF-11.3.3 Restricted-evidence timing",
-      "line": 241,
+      "line": 243,
       "kind": "section"
     },
     "CF-11.4": {
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-114-performance-thresholds-and-alerts",
       "heading": "CF-11.4 Performance thresholds and alerts",
-      "line": 259,
+      "line": 261,
       "kind": "section",
       "gloss": "Each family sets the numbers at which a measure stops being a statistic and becomes an alarm — aging, backlog, accuracy, publication failure, and constitutional risk."
     },
@@ -247,7 +247,7 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-115-required-remediation-actions-for-threshold-crossings",
       "heading": "CF-11.5 Required remediation actions for threshold crossings",
-      "line": 287,
+      "line": 289,
       "kind": "section",
       "gloss": "Crossing a threshold obliges an attributable record and a fix, so a breach cannot be absorbed silently into the next reporting period."
     },
@@ -255,7 +255,7 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-116-forum-performance-review-cadence",
       "heading": "CF-11.6 Forum-performance review cadence",
-      "line": 313,
+      "line": 315,
       "kind": "section",
       "gloss": "Performance must be reviewed on a fixed schedule and compared against earlier periods, so a slow slide is visible before it becomes a crisis."
     },
@@ -263,14 +263,14 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-1161-assurance-scenarios",
       "heading": "CF-11.6.1 Assurance scenarios",
-      "line": 326,
+      "line": 328,
       "kind": "section"
     },
     "CF-11.7": {
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-117-governance-disclosure-fields-supporting-records-accessibility-and-pathway-usability",
       "heading": "CF-11.7 Governance disclosure fields, supporting records, accessibility, and pathway usability",
-      "line": 347,
+      "line": 349,
       "kind": "section",
       "gloss": "What the public report must actually show, broken out by family and urgency, so outsiders can see where matters are stuck rather than only a reassuring average."
     },
@@ -278,7 +278,7 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-118-contest-integrity-monitoring-interface",
       "heading": "CF-11.8 Contest-integrity monitoring interface",
-      "line": 384,
+      "line": 386,
       "kind": "section",
       "gloss": "Independent monitors read the performance data and ask the harder question: do the delays cluster where conflict, capture, or retaliation would predict?"
     },
@@ -286,7 +286,7 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-119-non-compliant-performance-patterns",
       "heading": "CF-11.9 Non-compliant performance patterns",
-      "line": 397,
+      "line": 399,
       "kind": "section",
       "gloss": "Named failure shapes that are presumed non-compliant — chronic delay concentrated in emergency matters, backlogs that predictably defeat remedy, and unexplained publication delay on significant rulings."
     },

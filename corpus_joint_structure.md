@@ -18,8 +18,8 @@
 **Implements from the core files:**
 - [Chapter One](core_01_a_values_principles.md) / [Preamble](core_00_preamble.md) — [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) as the compass for **oDef** / **CJS-3** (*operational cluster library*) bands
 - [Chapter Five](core_05__definitions_home.md) definition stack and [Corpus](core_05_band_integrative.md#corpus) designation — joint interfaces and **oDef** clusters that must track constitutional **Def.*** meaning without redefining it
-- Cross-layer support for [Chapter Six](core_06-06_rights_part_a.md) through [Chapter Twelve](core_12-12_governance.md) where systems, institutions, and forums must satisfy shared integrity terms together
-- [Chapter Sixteen](core_16-16_incorporation.md) incorporation discipline for how implementation text binds when adopted
+- Cross-layer support for [Chapter Six](core_06_rights_part_a.md) through [Chapter Twelve](core_12_governance.md) where systems, institutions, and forums must satisfy shared integrity terms together
+- [Chapter Sixteen](core_16_incorporation.md) incorporation discipline for how implementation text binds when adopted
 
 **Siblings:**
 - Core [README](README.md) — constitutional reading order before joint-structure detail
@@ -28,7 +28,7 @@
 - [Forums](corpus_forum.md) — start here for panels, routing, appeals, and hearing operations
 - [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) and [CJS-0.1 Cross-file routing](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) — topic-driven entry when you already know the subject (**CJS-0.1** is integrator/maintainer only)
 
-**Binding:** When an adopter incorporates this layer under [Chapter Sixteen](core_16-16_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+**Binding:** When an adopter incorporates this layer under [Chapter Sixteen](core_16_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
 **New to the non-core corpus?** Start at the [joint-structure reader guide](corpus_joint_structure/cjs_reader_guide.md) — how to enter this layer, how labels work, and which file to open. The binding gateway is [CJS-1.0 Purpose of this layer](corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer).
 

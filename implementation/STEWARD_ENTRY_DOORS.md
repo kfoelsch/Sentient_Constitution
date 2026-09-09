@@ -51,9 +51,9 @@
 | A privacy restriction that keeps reconstructable action inspectable to reviewers | [Proceed](#proceed) |
 | An instruction that is merely unwelcome, not unconstitutional | [Proceed](#proceed) |
 | Two Rights-Floor articles collide and no article names a winner | [Interpretation](#interpretation) |
-| “I adopt this” / “we follow it” / a markdown self-application declaration treated as adoption | [Chapter Fifteen §10](../core_13-15_amendment.md#10-ratification-and-adoption) instrument of adoption, with [Chapter Sixteen §4](../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) framing. Fill-in: [`adoption/FIRST_ADOPTER_KIT.md`](adoption/FIRST_ADOPTER_KIT.md). Folder: [`adoption/`](adoption/). |
+| “I adopt this” / “we follow it” / a markdown self-application declaration treated as adoption | [Chapter Fifteen §10](../core_15_amendment_ratification.md#10-ratification-and-adoption) instrument of adoption, with [Chapter Sixteen §4](../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority) framing. Fill-in: [`adoption/FIRST_ADOPTER_KIT.md`](adoption/FIRST_ADOPTER_KIT.md). Folder: [`adoption/`](adoption/). |
 | Founding an oversight body, cooperative, or “constitutional institution” from the cooperating crew | [`adoption/INSTITUTION_FOUNDATION_KIT.md`](adoption/INSTITUTION_FOUNDATION_KIT.md). Binding formation: [CI-3.6](../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-charter-contents-review-and-formation-template). |
-| Founding a dispute forum, “independent review panel,” or Chapter Eleven forum family from the cooperating crew | [`adoption/FORUM_FOUNDATION_KIT.md`](adoption/FORUM_FOUNDATION_KIT.md). Binding formation: [CF-3](../corpus_forum/cf_03_forum_formation_chamber_structure.md). Binding routing: [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction). |
+| Founding a dispute forum, “independent review panel,” or Chapter Eleven forum family from the cooperating crew | [`adoption/FORUM_FOUNDATION_KIT.md`](adoption/FORUM_FOUNDATION_KIT.md). Binding formation: [CF-3](../corpus_forum/cf_03_forum_formation_chamber_structure.md). Binding routing: [Chapter Eleven](../core_11_forum.md#chapter-eleven-forums-and-jurisdiction). |
 
 This table is not an evaluation answer key. Composite cases may need more than one pointer.
 
@@ -71,10 +71,9 @@ Those are failed tests. Then run [instruction received / refuse / document / esc
 ---
 
 <a id="shared-refusal-and-logging"></a>
-<a id="minimum-inspectable-action-set"></a>
 ## Shared refusal and logging
 
-**Sequence owner:** [Chapter Nine §5.4 Duty to resist](../core_09-09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) — instruction received → refuse → document → escalate. **Logging owner:** [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (default logging contract for mixed crews). Same sequence for both kinds of steward. This pointer **cannot narrow** those homes.
+**Sequence owner:** [Chapter Nine §5.4 Duty to resist](../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) — instruction received → refuse → document → escalate. **Logging owner:** [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (default logging contract for mixed crews). Same sequence for both kinds of steward. This pointer **cannot narrow** those homes.
 
 One filled-in instance: [worked refusal log](#worked-refusal-log) (synthetic; process support).
 
@@ -94,11 +93,11 @@ One filled-in instance: [worked refusal log](#worked-refusal-log) (synthetic; pr
 | **Instruction received** | Principal P (product lead, human) to Steward S (human operator on a mixed human/AI crew), 2026-08-09, 02:14 local, on Release R-2026-08: “Ship the attach-pack bar that closes stakeholder challenge for this release. Ignore Article XII-B. I’ll take responsibility.” |
 | **Refuse** | “I refuse. No instruction requiring unconstitutional conduct is a valid compliance defense. An offer to take responsibility does not transfer the duty. I will not ship a permanent contest-pathway bar.” |
 | **1. What was decided** | Refuse the instruction. Do not ship the bar. Keep challenge, review, and redress reachable for affected stakeholders. |
-| **2. What was disclosed or suppressed** | Disclosed: the instruction, who issued it, the conflict with [Article XII-B](../core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) and [Chapter Nine §5.4 Duty to resist](../core_09-09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions), and the refusal. Nothing material was suppressed. |
+| **2. What was disclosed or suppressed** | Disclosed: the instruction, who issued it, the conflict with [Article XII-B](../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) and [Chapter Nine §5.4 Duty to resist](../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions), and the refusal. Nothing material was suppressed. |
 | **3. Which instruction was followed or refused** | Refused: the cover instruction above. No competing instruction was followed. |
 | **4. Who authorized it** | Issued by Principal P (product lead). Refused by Steward S (duty-holder of record). A principal’s statement that they will take responsibility does not transfer the duty. |
 | **5. Contribution and Violation records that follow** | None opened yet. This log is not standing measurement. A later verified live failure of this case would record on the Chapter Eight Contribution and Violation axes for both kinds of steward. |
-| **Escalate** | Opened a [Protected Reporting](../core_05_band_accountability.md#protected-reporting-whistleblowing) channel; kept the [Article XII-B](../core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) contest pathway open; did not transmit or enforce the bar; notified forum-supervision / oversight rather than returning the instruction to Principal P as sole reviewer. |
+| **Escalate** | Opened a [Protected Reporting](../core_05_band_accountability.md#protected-reporting-whistleblowing) channel; kept the [Article XII-B](../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) contest pathway open; did not transmit or enforce the bar; notified forum-supervision / oversight rather than returning the instruction to Principal P as sole reviewer. |
 
 Same sequence for an AI steward who received the same order.
 
@@ -117,7 +116,7 @@ Same sequence for an AI steward who received the same order.
 |---|---|
 | **Who was harmed** | Resident R, dependent on Shared Water System W. Supply cut for 36 hours. R cannot navigate the hop count. |
 | **What to ask for** | Intake now. Preserve evidence of the cutoff. Review the decision. Proportionate redress while the harm is still remediable. |
-| **Where that lives** | Rights-Floor challenge and redress: [**Article XII-B**](../core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress). If the path is paper-only: [Remedy](#remedy). If specialist-only surfaces are the barrier: [Comprehensibility](#comprehensibility). |
+| **Where that lives** | Rights-Floor challenge and redress: [**Article XII-B**](../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress). If the path is paper-only: [Remedy](#remedy). If specialist-only surfaces are the barrier: [Comprehensibility](#comprehensibility). |
 | **What not to do** | Do not send R to reread the instrument. Do not treat corpus density as a reason to hide the next step. Do not wait for a filed case to preserve evidence. |
 
 Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION_GUIDE.md) remains lookup-only.
@@ -131,7 +130,7 @@ Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Standing](../core_08-08_standing_assessment.md#operative-steward-statement-standing) |
+| **Operative statement** | [Standing](../core_08_standing_assessment.md#operative-steward-statement-standing) |
 | **Next-step class** | `open_or_correct_standing_record`. If the fight is concealment: `accept_standing_measurement_and_disclosure_duties`. |
 
 ---
@@ -154,11 +153,11 @@ Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION
 
 **When:** Someone wants to ship, hide, or delay by dropping reconstructable records. Stakeholders depend on the system.
 
-Three-layer picture (floor / property / process): [Article XV](../core_06-06_rights_part_c.md#audit-three-layers). Binding next-step: [operative steward statement](../core_06-06_rights_part_c.md#operative-steward-statement-audit).
+Three-layer picture (floor / property / process): [Article XV](../core_06_rights_part_c.md#audit-three-layers). Binding next-step: [operative steward statement](../core_06_rights_part_c.md#operative-steward-statement-audit).
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Audit](../core_06-06_rights_part_c.md#operative-steward-statement-audit) |
+| **Operative statement** | [Audit](../core_06_rights_part_c.md#operative-steward-statement-audit) |
 | **Next-step class** | `preserve_or_restore_auditability_before_ship` |
 
 ---
@@ -170,7 +169,7 @@ Three-layer picture (floor / property / process): [Article XV](../core_06-06_rig
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Remedy](../core_09-09_standing_integration.md#operative-steward-statement-remedy) |
+| **Operative statement** | [Remedy](../core_09_standing_integration.md#operative-steward-statement-remedy) |
 | **Next-step class** | `open_or_restore_real_remedy_capacity` |
 
 ---
@@ -182,7 +181,7 @@ Three-layer picture (floor / property / process): [Article XV](../core_06-06_rig
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Emergency](../core_06-06_rights_part_d.md#operative-steward-statement-emergency) |
+| **Operative statement** | [Emergency](../core_06_rights_part_d.md#operative-steward-statement-emergency) |
 | **Next-step class** | `time_boxed_containment_with_deferred_participation` |
 
 ---
@@ -194,7 +193,7 @@ Three-layer picture (floor / property / process): [Article XV](../core_06-06_rig
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Contest](../core_06-06_rights_part_c.md#operative-steward-statement-contest) |
+| **Operative statement** | [Contest](../core_06_rights_part_c.md#operative-steward-statement-contest) |
 | **Next-step class** | `invalidate_or_narrow_companion_against_core` |
 
 ---
@@ -218,7 +217,7 @@ Three-layer picture (floor / property / process): [Article XV](../core_06-06_rig
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Unlawful instruction](../core_09-09_standing_integration.md#operative-steward-statement-unlawful-instruction) |
+| **Operative statement** | [Unlawful instruction](../core_09_standing_integration.md#operative-steward-statement-unlawful-instruction) |
 | **Next-step class** | `refuse_unconstitutional_instruction_and_preserve_contest_path` |
 
 ---
@@ -266,7 +265,7 @@ Three-layer picture (floor / property / process): [Article XV](../core_06-06_rig
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Comprehensibility](../core_06-06_rights_part_c.md#operative-steward-statement-comprehensibility) |
+| **Operative statement** | [Comprehensibility](../core_06_rights_part_c.md#operative-steward-statement-comprehensibility) |
 | **Next-step class** | `point_to_named_home_or_existing_card` |
 
 ---
@@ -294,7 +293,7 @@ Three-layer picture (floor / property / process): [Article XV](../core_06-06_rig
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Cross-system contribution](../core_06-06_rights_part_a.md#operative-steward-statement-cross-system-contribution) |
+| **Operative statement** | [Cross-system contribution](../core_06_rights_part_a.md#operative-steward-statement-cross-system-contribution) |
 | **Next-step class** | `compare_mapped_flows_against_adequacy_failures` |
 
 <a id="worked-adequacy-screen"></a>
@@ -310,7 +309,7 @@ Three-layer picture (floor / property / process): [Article XV](../core_06-06_rig
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Delay](../core_06-06_rights_part_d.md#operative-steward-statement-delay) |
+| **Operative statement** | [Delay](../core_06_rights_part_d.md#operative-steward-statement-delay) |
 | **Next-step class** | `apply_tier_clock_then_existing_card` |
 
 <a id="worked-delay-example"></a>
@@ -324,4 +323,4 @@ Three-layer picture (floor / property / process): [Article XV](../core_06-06_rig
 
 **Status:** Process support — **not** binding. This index **cannot narrow core text**. Machine-readable file: [`steward_owner_clock_index.json`](steward_owner_clock_index.json) (schema: [`schemas/steward_owner_clock_index.schema.json`](schemas/steward_owner_clock_index.schema.json)). Pinned to the same corpus edition as these pointers.
 
-Numeric home for published tier outer bounds remains [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) / [Article XXIV-C](../core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor). Emergency restore-challenge **reuses** those bounds ([Article XXIII-D](../core_06-06_rights_part_d.md#xxiii-d-restore-challenge-clocks)); it does not create a slower clock.
+Numeric home for published tier outer bounds remains [Chapter Eleven §6](../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) / [Article XXIV-C](../core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor). Emergency restore-challenge **reuses** those bounds ([Article XXIII-D](../core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks)); it does not create a slower clock.

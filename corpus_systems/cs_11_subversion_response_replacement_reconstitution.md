@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-11** (*Subversion response, replacement, and reconstitution*).
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-11** (*Subversion response, replacement, and reconstitution*).
 >
 > Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Chapter Five *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility*; **Article XXIII**; **Article XXII**; **Article XXVI-A**; **Article XXVI-C**; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge).
+- Upstream: Chapter Five *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility*; **Article XXIII**; **Article XXII**; **Article XXVI-A**; **Article XXVI-C**; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge).
 - Downstream: [§1](#cs-11-1-purpose-and-role); [§2](#cs-11-2-landscape-compromise-declaration-and-activation); [§4](#cs-11-4-governance-continuity-under-multi-node-compromise); [§8](#cs-11-8-exit-restoration-and-post-incident-revalidation).
 - Read with: **CS-11**; **CS-5**; **CS-7**; **CS-10**; **CJS-3.20**; **CJS-3.13**.
 

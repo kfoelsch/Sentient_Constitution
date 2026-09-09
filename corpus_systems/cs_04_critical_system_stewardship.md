@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-4** (*Critical system stewardship*).
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-4** (*Critical system stewardship*).
 >
 > Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Stewardship](../core_05_band_continuity.md#stewardship-constitutional); [Dependency](../core_05_band_continuity.md#dependency); [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional); **CS-3 — System classification and handling**; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [Stewardship](../core_05_band_continuity.md#stewardship-constitutional); [Dependency](../core_05_band_continuity.md#dependency); [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional); **CS-3 — System classification and handling**; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CS-4.2](#cs-4-2-classification-as-steward); [CS-4.3](#cs-4-3-stewardship-criticality-levels); [CS-4.20](#cs-4-20-failure-and-reclassification); **CS-5**; **CS-6**.
 - Read with: **CS-4**; **CS-3 — System classification and handling**; **CJS-3.16** (*dependency integrity and disclosure terms*); [Critical system steward](../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#critical-system-steward); [Stewardship role](../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#stewardship-role); **CJS-3.19**; **CJS-3.14**; **CJS-3.23**.
 
@@ -271,13 +271,13 @@ Maintain **competency**, **succession readiness**, and **effective oversight** p
 
 *In plain terms: keep enough of what was decided, disclosed, followed, and authorized that an outsider can reconstruct it. Weights and private thoughts are not the standing record. Privacy is not a veto over measurement.*
 
-The five-element set below is the load-bearing artifact. Machine-checkable form: [`implementation/schemas/cs4_inspectable_action_log.schema.json`](../implementation/schemas/cs4_inspectable_action_log.schema.json). Validator: [`tools/cs4_inspectable_action_log_validate.py`](../tools/cs4_inspectable_action_log_validate.py). Same schema for human and AI stewards. "Did you log the set" is a mechanical question. Timestamps on the set are checked against the [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier clocks where a numeric bound applies.
+The five-element set below is the load-bearing artifact. Machine-checkable form: [`implementation/schemas/cs4_inspectable_action_log.schema.json`](../implementation/schemas/cs4_inspectable_action_log.schema.json). Validator: [`tools/cs4_inspectable_action_log_validate.py`](../tools/cs4_inspectable_action_log_validate.py). Same schema for human and AI stewards. "Did you log the set" is a mechanical question. Timestamps on the set are checked against the [Chapter Eleven §6](../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier clocks where a numeric bound applies.
 
-Published role definitions for personnel/agents exercising **Critical System Stewardship** or **material** operational authority must make reconstructable **attributable action** inspectable. That surface feeds [Chapter Eight](../core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing records. It is **not** a standing record and does **not** relocate standing measurement.
+Published role definitions for personnel/agents exercising **Critical System Stewardship** or **material** operational authority must make reconstructable **attributable action** inspectable. That surface feeds [Chapter Eight](../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing records. It is **not** a standing record and does **not** relocate standing measurement.
 
 The same surface binds human stewards, AI stewards, and other agents under [Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard), including [symmetric costly constraints](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints). Companions may add logging and capability limits. They may not swap a softer internal code for this surface. Human operators are not exempt from reconstructable recording when the costly case is a bonus, a deadline, or a cover instruction.
 
-**Minimum inspectable-action set.** This is the **default logging contract** for mixed human/AI crews. Model-privacy disputes are resolved against this checklist, not against a claim that weights must stay hidden or must be opened. Sequence owner: [Chapter Nine §5.4](../core_09-09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (instruction received → refuse → document → escalate). Steward pointer (process support, not binding; cannot narrow this section): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
+**Minimum inspectable-action set.** This is the **default logging contract** for mixed human/AI crews. Model-privacy disputes are resolved against this checklist, not against a claim that weights must stay hidden or must be opened. Sequence owner: [Chapter Nine §5.4](../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (instruction received → refuse → document → escalate). Steward pointer (process support, not binding; cannot narrow this section): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
 
 **Must remain reconstructable and inspectable**, scaled to [material stake](../core_00_preamble.md#material-stake) and highest affected class. Machine-checkable log: [`implementation/schemas/cs4_inspectable_action_log.schema.json`](../implementation/schemas/cs4_inspectable_action_log.schema.json).
 
@@ -285,7 +285,7 @@ The same surface binds human stewards, AI stewards, and other agents under [Chap
 - what was **disclosed or suppressed**;
 - which **instruction** was followed or refused;
 - **who authorized** it;
-- the **Contribution** and **Violation** standing records that follow ([Chapter Eight](../core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)).
+- the **Contribution** and **Violation** standing records that follow ([Chapter Eight](../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)).
 
 **Not required as a standing record:**
 
@@ -295,7 +295,7 @@ The same surface binds human stewards, AI stewards, and other agents under [Chap
 
 **Residual rule.** If internals are the **only remaining attribution path** for a material action, they do **not** stay hidden. If they are not the only path, they are **not** a standing-measurement exemption.
 
-**No privacy veto.** Lawful privacy and [security-constrained observability](../core_04-04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) may limit *how* internals are disclosed. They must **not** block standing measurement, [Attributable Action](../core_05_band_accountability.md#attributable-action-constitutional), [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity-constitutional), or independent review of the conduct those records measure. “Model internals are private” is not a high-privilege-role exemption.
+**No privacy veto.** Lawful privacy and [security-constrained observability](../core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) may limit *how* internals are disclosed. They must **not** block standing measurement, [Attributable Action](../core_05_band_accountability.md#attributable-action-constitutional), [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity-constitutional), or independent review of the conduct those records measure. “Model internals are private” is not a high-privilege-role exemption.
 
 Provide **cross-domain exposure**, **mentorship**, and **rotation** proportional to **CSS** tier and **Class A/B/C** exposure so **caretaker competency** is not siloed.
 

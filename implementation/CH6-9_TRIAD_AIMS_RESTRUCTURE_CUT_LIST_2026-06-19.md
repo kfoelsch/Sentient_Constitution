@@ -72,10 +72,10 @@
 
 ## Files touched
 
-- `core_08-08_standing_assessment.md`
-- `core_09-09_standing_integration.md`
+- `core_08_standing_assessment.md`
+- `core_09_standing_integration.md`
 - `core_10_a_misconduct_designation.md`
-- `core_11-11_forum.md`
+- `core_11_forum.md`
 - `core_00_preamble.md`
 - `core_05_band_accountability.md` (Chapter One §8.10 trace)
 - `README.md`

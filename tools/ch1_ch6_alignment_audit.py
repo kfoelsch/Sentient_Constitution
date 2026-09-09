@@ -36,10 +36,10 @@ CH1_FILES = [
     "core_01_c_stewardship_capacity_principles.md",
 ]
 CH6_FILES = [
-    "core_06-06_rights_part_a.md",
-    "core_06-06_rights_part_b.md",
-    "core_06-06_rights_part_c.md",
-    "core_06-06_rights_part_d.md",
+    "core_06_rights_part_a.md",
+    "core_06_rights_part_b.md",
+    "core_06_rights_part_c.md",
+    "core_06_rights_part_d.md",
 ]
 
 TETRAD_TERMS = ["participation", "oversight", "accountability", "timeliness"]
@@ -374,7 +374,7 @@ def extract_principles(root: Path) -> list[Principle]:
     for record in collect_ch1_principles(root):
         if record.file not in {CH0_FILE, *CH1_FILES}:
             continue
-        ch6_refs = sorted(set(re.findall(r"core_06-06_rights_part_[a-d]\.md#[a-z0-9-]+", record.body)))
+        ch6_refs = sorted(set(re.findall(r"core_06_rights_part_[a-d]\.md#[a-z0-9-]+", record.body)))
         principles.append(
             Principle(
                 section=record.section,

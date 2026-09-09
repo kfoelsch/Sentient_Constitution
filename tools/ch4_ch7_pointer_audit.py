@@ -21,7 +21,7 @@ if str(_TOOLS) not in sys.path:
 CH7_PART_A = "core_07_a_system_alignment_certification_evaluation.md"
 CH7_PART_B = "core_07_b_system_alignment_certification_record_process.md"
 CH7_FILES = (CH7_PART_A, CH7_PART_B)
-CH4_FILE = "core_04-04_burden_traceability_verification.md"
+CH4_FILE = "core_04_burden_traceability_verification.md"
 
 # Operative phrases owned by Chapter Four §§1–6; Ch7 should cite upstream, not restate.
 CH4_EXCLUSIVE_PATTERNS: list[tuple[str, re.Pattern[str]]] = [
@@ -64,7 +64,7 @@ CH4_EXCLUSIVE_PATTERNS: list[tuple[str, re.Pattern[str]]] = [
 
 UPSTREAM_POINTER_RE = re.compile(
     r"Chapters?\s+(?:Two\s+through\s+Four|Two\s+and\s+Three)|Chapter\s+Four|"
-    r"core_02-03|core_04-04|Ch(?:apter)?\s*2[–-]4",
+    r"core_02_|core_03_|core_04_|Ch(?:apter)?\s*2[–-]4",
     re.I,
 )
 

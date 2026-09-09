@@ -17,9 +17,9 @@
 
 **Implements from the core files:**
 - [Chapter One](core_01_a_values_principles.md) principles and [Chapter Five](core_05__definitions_home.md) definitions by reference — this layer does not redefine them
-- [Chapters Two through Four](core_02-03_definition_mechanics.md) where auditability, traceability, and verification must hold in systems
-- [Chapter Six](core_06-06_rights_part_a.md) Rights Floor themes in operation — especially [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*), [Article XIV](core_06-06_rights_part_c.md) (*Info-Sphere Integrity*), [Article XV](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) / [Article XV-A](core_06-06_rights_part_c.md#article-xv-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XX-A / XX-B](core_06-06_rights_part_c.md) (comprehensibility), and related system-facing articles
-- [Chapter Seven](core_07-07_system_alignment_certification.md) system-alignment certification where material classification and stewardship apply — one especially large audit process under **Article XV** oversight requirements, not the sole auditing home
+- [Chapters Two through Four](core_02_definition_structure.md) where auditability, traceability, and verification must hold in systems
+- [Chapter Six](core_06_rights_part_a.md) Rights Floor themes in operation — especially [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*), [Article XIV](core_06_rights_part_c.md) (*Info-Sphere Integrity*), [Article XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) / [Article XV-A](core_06_rights_part_c.md#article-xv-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XX-A / XX-B](core_06_rights_part_c.md) (comprehensibility), and related system-facing articles
+- [Chapter Seven](core_07_system_alignment_certification.md) system-alignment certification where material classification and stewardship apply — one especially large audit process under **Article XV** oversight requirements, not the sole auditing home
 
 **Siblings:**
 - Core [README](README.md) — Rights Floor, standing pipeline, and constitutional reading order before implementation detail
@@ -27,7 +27,7 @@
 - [Forums](corpus_forum.md) — panels, routing, appeals, and hearing independence
 - [Joint structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
 
-**Binding:** When an adopter incorporates this layer under [Chapter Sixteen](core_16-16_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+**Binding:** When an adopter incorporates this layer under [Chapter Sixteen](core_16_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
 **Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Systems index** below. Identifier rules remain in the [systems registry](corpus_systems/cs_00_registry_and_reading_rules.md).
 

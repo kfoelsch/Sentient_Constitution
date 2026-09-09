@@ -8,8 +8,8 @@
 >
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Four**: burden of proof, definition traceability, observability, verification under security limits, and verification accessibility.
 >
-> **Upstream:** [Chapters Two and Three — Definition mechanics](core_02-03_definition_mechanics.md); Chapter Five definitions.
-> **Downstream:** [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
+> **Upstream:** [Chapters Two and Three — Definition mechanics](core_02_definition_structure.md); Chapter Five definitions.
+> **Downstream:** [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); [Chapter Eight — Contribution, Violation, and Standing Model](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
 
 </details>
 
@@ -22,7 +22,7 @@
 > - **Tetrad map:** Burden allocation, evidence, traceability, observability, and verification implement the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **oversight** and **accountability** legs established in [Preamble](core_00_preamble.md#chapter-00-preamble--foundational-requirements); **participation** where materially required through practical observability and independent challenge under sections **3** and **4**. Requirements scale with [material stake](core_00_preamble.md#material-stake).
 > - **Constitutional owner:** burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. **Chapter Eight** owns standing-record and verified-input discipline read with this chapter.
 > - **Implementation owner:** deployment, data-handling, and assurance mechanics in designated implementation files must remain consistent with these rules and may be stricter where the corpus already provides stricter-rule logic.
-> - **Anti-relocation rule:** this chapter governs burden, trace, observability, security limits, and evidence only. It does not restate Chapter Five definitions, **Chapter Eight** contribution or standing measurement, or Chapter Ten anti-constitutional-misconduct criteria. Verified non-compliance routing to standing is governed by [Chapter Three §3 — Non-Compliance Finding Profiles](core_02-03_definition_mechanics.md#3-non-compliance-finding-profiles) and [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model). **Section 6** states how Chapters Two through Four differ from [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
+> - **Anti-relocation rule:** this chapter governs burden, trace, observability, security limits, and evidence only. It does not restate Chapter Five definitions, **Chapter Eight** contribution or standing measurement, or Chapter Ten anti-constitutional-misconduct criteria. Verified non-compliance routing to standing is governed by [Chapter Three §3 — Non-Compliance Finding Profiles](core_03_definition_integrity.md#3-non-compliance-finding-profiles) and [Chapter Eight — Contribution, Violation, and Standing Model](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model). **Section 6** states how Chapters Two through Four differ from [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
 
 </details>
 
@@ -50,13 +50,13 @@ Read in order. Each step builds on the last; skip none.
 | **4 — Security limits** | Real security limits are allowed; pretextual blocks are not | [§2](#4-security-constrained-observability-and-verification-rule) |
 | **5 — What counts** | Evidence must be real, complete, independent, and sustained | [§4](#5-compliance-evidence-standard) |
 
-**Engagement-layer readability.** [Chapter One §3.4 — Plain-Language Accessibility Stewardship Duty](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) applies to governance, adjudicative, and operational material sentients use to exercise rights, contest decisions, or verify compliance. It does **not** narrow Chapters Two through Four. If engagement-layer plain language conflicts with definition or verification rules here, the rigorous layers govern. Jargon, stacked complexity, or opacity used to defeat [Contestability](core_05_band_accountability.md#contestability) or [Article XV: Audit, Transparency, and Independent Verification](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter One §3.4**.
+**Engagement-layer readability.** [Chapter One §3.4 — Plain-Language Accessibility Stewardship Duty](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) applies to governance, adjudicative, and operational material sentients use to exercise rights, contest decisions, or verify compliance. It does **not** narrow Chapters Two through Four. If engagement-layer plain language conflicts with definition or verification rules here, the rigorous layers govern. Jargon, stacked complexity, or opacity used to defeat [Contestability](core_05_band_accountability.md#contestability) or [Article XV: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter One §3.4**.
 
 ### 2. Definition Traceability Requirement
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [Chapter Two, §1 — Purpose and Role](core_02-03_definition_mechanics.md#1-purpose-and-role); [Chapter Two, §2 Definition Integrity Requirement](core_02-03_definition_mechanics.md#2-definition-integrity-requirement); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](core_02-03_definition_mechanics.md#1-definition-integrity-and-anti-evasion-constraints); [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](core_02-03_definition_mechanics.md#2-non-compliance-from-observable-system-behavior) — substantive definition and non-compliance rules; **§3** states the trace-map requirement only and does not restate those rules.
+- Upstream: [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [Chapter Two, §1 — Purpose and Role](core_02_definition_structure.md#1-purpose-and-role); [Chapter Two, §2 Definition Integrity Requirement](core_02_definition_structure.md#2-definition-integrity-requirement); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) — substantive definition and non-compliance rules; **§3** states the trace-map requirement only and does not restate those rules.
 - Downstream: [Chapter Four, section 3 — Observability of Traceability Requirement](#3-observability-of-traceability-requirement); [Chapter Four, section 4 — Security-Constrained Observability and Verification Rule](#4-security-constrained-observability-and-verification-rule); [Chapter Four, section 5 — Compliance Evidence Standard](#5-compliance-evidence-standard).
 
 </details>
@@ -153,8 +153,8 @@ Cryptography and information-type handling must align with the constitution and 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Four, sections 1 through 4](#1-exclusive-enforcement-and-burden-allocation); [Chapter Two, §1 — Purpose and Role](core_02-03_definition_mechanics.md#1-purpose-and-role); [Chapter Two, §2 Definition Integrity Requirement](core_02-03_definition_mechanics.md#2-definition-integrity-requirement); [Chapter Two, §3 Consistency Across the Definition Stack](core_02-03_definition_mechanics.md#3-consistency-across-the-definition-stack); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](core_02-03_definition_mechanics.md#1-definition-integrity-and-anti-evasion-constraints); [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](core_02-03_definition_mechanics.md#2-non-compliance-from-observable-system-behavior); [Chapter Three, §2.6 Uncertainty Integrity and Non-Exploitation Constraint](core_02-03_definition_mechanics.md#26-uncertainty-integrity-and-non-exploitation-constraint) — substantive definition and non-compliance rules; **§4** states evidence-layer requirements only and does not restate those rules.
-- Downstream: [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
+- Upstream: [Chapter Four, sections 1 through 4](#1-exclusive-enforcement-and-burden-allocation); [Chapter Two, §1 — Purpose and Role](core_02_definition_structure.md#1-purpose-and-role); [Chapter Two, §2 Definition Integrity Requirement](core_02_definition_structure.md#2-definition-integrity-requirement); [Chapter Two, §3 Consistency Across the Definition Stack](core_02_definition_structure.md#3-consistency-across-the-definition-stack); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [Chapter Three, §2.6 Uncertainty Integrity and Non-Exploitation Constraint](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — substantive definition and non-compliance rules; **§4** states evidence-layer requirements only and does not restate those rules.
+- Downstream: [Chapter Eight — Contribution, Violation, and Standing Model](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
 - Read with: [Chapter Four, section 2 — Definition Traceability Requirement](#2-definition-traceability-requirement) — failure to invoke or correctly apply any materially required **Chapter Five** definition invalidates the associated evaluation, evidence, and compliance determination in full; [Chapter One, §6 — Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) where scaling affects tradeoffs between sentient wellbeing and long-horizon stability; [Chapter Five Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Chapter Five Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), and [Chapter Five Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) — science-informed evidence alignment for empirical, predictive, or causal claims.
 
 </details>
@@ -175,19 +175,19 @@ Sections **2** through **4** set trace, observability, and security limits; this
 - for **empirical**, **predictive**, or **causal** claims material to compliance, classification, or governance, reflect **scientific integrity** where proportionate — testable or reviewable methods, documented assumptions and limitations, no suppression of null results or failed replications where they bear on decisions, and conclusions revisable on new evidence
 
 **The following do not meet the burden of proof under section 1:**
-- failure to satisfy any required definition or component under [Chapter Two, §2.1 Core Integrity Conditions](core_02-03_definition_mechanics.md#21-core-integrity-conditions), or non-compliance under [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](core_02-03_definition_mechanics.md#2-non-compliance-from-observable-system-behavior) — invalidating all dependent compliance claims under this chapter
+- failure to satisfy any required definition or component under [Chapter Two, §2.1 Core Integrity Conditions](core_02_definition_structure.md#21-core-integrity-conditions), or non-compliance under [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) — invalidating all dependent compliance claims under this chapter
 - failure to provide required evidence where it exists or is required under this chapter
-- proxy-only, self-attested, partial, or selectively scoped proof that would be non-compliant under [Chapter Three, section 2](core_02-03_definition_mechanics.md#2-non-compliance-from-observable-system-behavior) if treated as the system's compliance demonstration
+- proxy-only, self-attested, partial, or selectively scoped proof that would be non-compliant under [Chapter Three, section 2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) if treated as the system's compliance demonstration
 - insufficient evidence to satisfy the **Evidence must** requirements above
 
-Where uncertainty prevents definitive demonstration of compliance for materially relevant definition components, apply [Chapter Three, §2.6 Uncertainty Integrity and Non-Exploitation Constraint](core_02-03_definition_mechanics.md#26-uncertainty-integrity-and-non-exploitation-constraint). Where the burden of proof is not satisfied, default to **non-compliant** status.
+Where uncertainty prevents definitive demonstration of compliance for materially relevant definition components, apply [Chapter Three, §2.6 Uncertainty Integrity and Non-Exploitation Constraint](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint). Where the burden of proof is not satisfied, default to **non-compliant** status.
 
 ### 6. Relationship to System Alignment Certification
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Two — Definition Structure and Component Requirements](core_02-03_definition_mechanics.md#chapter-two-definition-structure-and-component-requirements); [Chapter Three — Definition Integrity, Evasion, and Non-Compliance](core_02-03_definition_mechanics.md#chapter-three-definition-integrity-evasion-and-non-compliance); [Chapter Four, sections 1 through 5](#1-exclusive-enforcement-and-burden-allocation).
-- Downstream: [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
+- Upstream: [Chapter Two — Definition Structure and Component Requirements](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [Chapter Three — Definition Integrity, Evasion, and Non-Compliance](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [Chapter Four, sections 1 through 5](#1-exclusive-enforcement-and-burden-allocation).
+- Downstream: [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); [Chapter Eight — Contribution, Violation, and Standing Model](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
 - Read with: [Chapter Seven §16 — Reopening, Misalignment, and Non-Evasion](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — verified non-compliance under Chapters Two through Four can reopen or defeat certification regardless of prior recognition.
 
 </details>
@@ -199,9 +199,9 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 This section is **non-operative**. It states a **layer boundary** only.
 
 **Chapters Two, Three, and Four** supply the standing definition and verification substrate:
-- **[Chapter Two](core_02-03_definition_mechanics.md#chapter-two-definition-structure-and-component-requirements)** — how definitions are built and kept internally consistent (O/M/A/C)
-- **[Chapter Three](core_02-03_definition_mechanics.md#chapter-three-definition-integrity-evasion-and-non-compliance)** — how definitions apply to real behavior, including non-compliance and evasion
-- **[Chapter Four](core_04-04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)** (sections **1** through **5**) — burden of proof, trace maps, observability, security limits, and evidence standards
+- **[Chapter Two](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)** — how definitions are built and kept internally consistent (O/M/A/C)
+- **[Chapter Three](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)** — how definitions apply to real behavior, including non-compliance and evasion
+- **[Chapter Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)** (sections **1** through **5**) — burden of proof, trace maps, observability, security limits, and evidence standards
 
 These apply whenever compliance is evaluated — with or without certification.
 
@@ -214,6 +214,6 @@ Readers must not treat:
 
 ---
 
-**Previous file:** [core_02-03_definition_mechanics.md](core_02-03_definition_mechanics.md)
+**Previous file:** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
 **Next file:** [core_05__definitions_home.md](core_05__definitions_home.md)

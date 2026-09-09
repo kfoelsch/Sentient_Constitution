@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-4** (*Appointment, competency, rotation, and removal*).
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-4** (*Appointment, competency, rotation, and removal*).
 >
 > Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,9 +14,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Nine §4.2](../core_09-09_standing_integration.md#42-general-standing-locks) and [§5.5](../core_09-09_standing_integration.md#55-special-locks) standing locks; [Chapter Nine §6.2](../core_09-09_standing_integration.md#62-competency-bars-and-clearances) competency bars and clearances; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Nine §4.2](../core_09_standing_integration.md#42-general-standing-locks) and [§5.5](../core_09_standing_integration.md#55-special-locks) standing locks; [Chapter Nine §6.2](../core_09_standing_integration.md#62-competency-bars-and-clearances) competency bars and clearances; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-4.1: Shared staffing and competency floor](#ci-41-shared-staffing-and-competency-floor); [CI-4.2: Role criteria, appointment standards, and removal pathways](#ci-42-role-criteria-appointment-standards-and-removal-pathways); [CI-4.3: Periodic performance and capability review](#ci-43-periodic-performance-and-capability-review); [CI-4.4: Interpretive-body composition controls](#ci-44-interpretive-body-composition-controls); [CI-4.5: Authorized roles and accountability chains](#ci-45-authorized-roles-and-accountability-chains).
-- Read with: **CI-4**; **CI-3**; [Chapter Nine §4.2](../core_09-09_standing_integration.md#42-general-standing-locks), [§5.5](../core_09-09_standing_integration.md#55-special-locks), and [§6.2](../core_09-09_standing_integration.md#62-competency-bars-and-clearances).
+- Read with: **CI-4**; **CI-3**; [Chapter Nine §4.2](../core_09_standing_integration.md#42-general-standing-locks), [§5.5](../core_09_standing_integration.md#55-special-locks), and [§6.2](../core_09_standing_integration.md#62-competency-bars-and-clearances).
 - Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-0.1** (*Topic router*); primary owner **CF-4**.
 - Topic routing (mandatory read-with): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-0.1** (*Topic router*); primary owner **CF-16**.
 - Topic routing (primary owner): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-2.4**, **CJS-3.11**.
@@ -61,7 +61,7 @@ This file is the institutional implementation home for **CI-4** (*Appointment, c
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Read with: **CI-4.1**; **CJS-2.4**; **CJS-3.11** (*distributed and proportional authority terms*).
 
 </details>
@@ -76,7 +76,7 @@ Apply **CJS-2.4** (*Class-scaled lane staffing and competency redundancy*) for t
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 
 </details>
 
@@ -84,13 +84,13 @@ Apply **CJS-2.4** (*Class-scaled lane staffing and competency redundancy*) for t
 
 *In plain terms: every institution must publish clear, public rules for who can hold each role — what qualifies someone, what disqualifies them, who steps in if they leave, when they must rotate off for independence, and how they can be removed with fair process. Gatekeeping cannot be arbitrary or hidden.*
 
-This subsection states institutional owner duties: each institution must publish role criteria, qualification and disqualification standards, succession coverage, rotation or cooling-off rules where needed for independence, and a removal pathway with due process. Role assignment must not rely on arbitrary gatekeeping. Every role decision must apply the relevant [Chapter Nine §6.2](../core_09-09_standing_integration.md#62-competency-bars-and-clearances) competency bar and clearance only after checking for a controlling general or special standing lock under [§4.2](../core_09-09_standing_integration.md#42-general-standing-locks) and [§5.5](../core_09-09_standing_integration.md#55-special-locks).
+This subsection states institutional owner duties: each institution must publish role criteria, qualification and disqualification standards, succession coverage, rotation or cooling-off rules where needed for independence, and a removal pathway with due process. Role assignment must not rely on arbitrary gatekeeping. Every role decision must apply the relevant [Chapter Nine §6.2](../core_09_standing_integration.md#62-competency-bars-and-clearances) competency bar and clearance only after checking for a controlling general or special standing lock under [§4.2](../core_09_standing_integration.md#42-general-standing-locks) and [§5.5](../core_09_standing_integration.md#55-special-locks).
 
 ## CI-4.3: Periodic performance and capability review
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 
 </details>
 
@@ -104,7 +104,7 @@ Governing bodies must run periodic performance and capability review, including 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 
 </details>
 
@@ -123,7 +123,7 @@ Interpretive-body composition controls (**Article XXII** (*Constitutional Interp
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Read with: **CI-4.5**; **CJS-2.4**; **CI-3**.
 
 </details>
@@ -140,7 +140,7 @@ Under **Chapter Six**, section 5 (*Authorized Roles, Competency Development, and
 - succession readiness, and
 - capability-refresh duties.
 
-Role maps must record applicable Chapter Nine competency-clearance results and standing-lock status. Granted [Chapter Nine §6.2](../core_09-09_standing_integration.md#62-competency-bars-and-clearances) clearance cannot open a named pathway blocked by [§4.2](../core_09-09_standing_integration.md#42-general-standing-locks) or [§5.5](../core_09-09_standing_integration.md#55-special-locks), and CI appointment procedure cannot attach, lift, narrow, or restore a Chapter Nine lock outside the canonical integration and reassessment process.
+Role maps must record applicable Chapter Nine competency-clearance results and standing-lock status. Granted [Chapter Nine §6.2](../core_09_standing_integration.md#62-competency-bars-and-clearances) clearance cannot open a named pathway blocked by [§4.2](../core_09_standing_integration.md#42-general-standing-locks) or [§5.5](../core_09_standing_integration.md#55-special-locks), and CI appointment procedure cannot attach, lift, narrow, or restore a Chapter Nine lock outside the canonical integration and reassessment process.
 
 The following shared rules govern class-scaling — local role maps must apply them, not replace them:
 - **CJS-2.4** (*Class-scaled lane staffing and competency redundancy*) — minimum qualified role holders, backup coverage, and succession depth scaled to binding impact.

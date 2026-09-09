@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Participation leg (CJS-3.7–CJS-3.10 / oDef.7–oDef.10)**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Participation leg (CJS-3.7–CJS-3.10 / oDef.7–oDef.10)**.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Read with: [CJS-3.1](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) constitutional compass.
 
 </details>
@@ -152,6 +152,23 @@ Foundational constitutional choice equality floor
 - **What must hold**
   - **Primary failure:** Impact, dependency, stakeholder status, lineage, substrate class, calendar age, or ordinary stakeholder-participation weighting may not dilute foundational constitutional choice.
 
+<a id="two-tier-governance-layer-assignment"></a>
+Governance-layer assignment (Constitutional Contract Layer vs Stakeholder System Participation)
+
+*In plain terms: participation rules must distinguish **Foundational Constitutional Choice** in the **Constitutional Contract Layer** from **Stakeholder System Participation** decisions within already-authorized **Governance** structures, rules, allocation of…*
+
+- **What it is**
+  - **In scope:** Participation rules must distinguish **Foundational Constitutional Choice** in the **Constitutional Contract Layer** from **Stakeholder System Participation** decisions within already-authorized **Governance** structures, rules, allocation of authority, and processes for a specified system, institution, or bounded decision domain.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in assigning the Constitutional Contract Layer versus Stakeholder System Participation.
+<a id="two-tier-governance-layer-assignment-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** whether the decision authorizes or reauthorizes governing authority, the legitimacy mechanism, or the scope and durable terms of authority, or instead resolves a materially rights-affecting decision inside an already-authorized domain
+
+    **Primary assessment:** Evaluation must verify whether the decision authorizes or reauthorizes governing authority, the legitimacy mechanism, or the scope and durable terms of authority, or instead resolves a materially rights-affecting decision inside an already-authorized domain.
+<a id="two-tier-governance-layer-assignment-c"></a>
+- **What must hold**
+  - **Primary failure:** Treating foundational authorization as ordinary Stakeholder System Participation, or treating an internal stakeholder decision as if it could alter the Constitutional Contract Layer without satisfying that layer.
+
 <a id="impact-coverage"></a>
 Impact coverage
 
@@ -220,23 +237,6 @@ Quorum source and binding-effect gate
 - **What must hold**
   - **Primary failure:** Post-hoc quorum formulas, undisclosed denominator changes, emergency shortcuts without mandatory forum review, or implementation of a high-impact decision before required legitimacy gates are satisfied.
 
-<a id="stakeholder-governance-participation-floor"></a>
-Stakeholder System Participation floor
-
-*In plain terms: where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, stakeholder-participation pathways, and any **Stakeholder Weight** must be…*
-
-- **What it is**
-  - **In scope:** Where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, stakeholder-participation pathways, and any **Stakeholder Weight** must be proportionate to material impact and dependency and must satisfy **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) and Chapter Twelve section 4.3.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in the Stakeholder System Participation floor.
-<a id="stakeholder-governance-participation-floor-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** stakeholder mapping, affected-class coverage, local deliberation where required, plural evaluation for high-impact choices, representation and weighting limits, rights-collision records, dissent or alternative records, reopening paths, and **Article XI-A** (*Stakeholder System Participation and Representation*) legitimacy gates for materially high-impact collective choice
-
-    **Primary assessment:** Evaluation must verify stakeholder mapping, affected-class coverage, local deliberation where required, plural evaluation for high-impact choices, representation and weighting limits, rights-collision records, dissent or alternative records, reopening paths, and **Article XI-A** (*Stakeholder System Participation and Representation*) legitimacy gates for materially high-impact collective choice.
-<a id="stakeholder-governance-participation-floor-c"></a>
-- **What must hold**
-  - **Primary failure:** Token consultation, dominance-prone weighting, missing affected classes, or stakeholder procedures that purport to authorize or reauthorize the **Constitutional Contract Layer** questions of governing authority, the legitimacy mechanism, or the scope and durable terms of that authority.
-
 <a id="stakeholder-oversight-and-binding-governance-pathway-integrity"></a>
 Stakeholder oversight and binding-governance pathway integrity
 
@@ -254,22 +254,22 @@ Stakeholder oversight and binding-governance pathway integrity
 - **What must hold**
   - **Primary failure:** Present symbolic consultation as binding governance, to present binding governance as optional consultation, to hide material exit or adaptation consequences, or to rely on participation records that cannot later support accountable reconstruction.
 
-<a id="two-tier-governance-layer-assignment"></a>
-Governance-layer assignment (Constitutional Contract Layer vs Stakeholder System Participation)
+<a id="stakeholder-governance-participation-floor"></a>
+Stakeholder System Participation floor
 
-*In plain terms: participation rules must distinguish **Foundational Constitutional Choice** in the **Constitutional Contract Layer** from **Stakeholder System Participation** decisions within already-authorized **Governance** structures, rules, allocation of…*
+*In plain terms: where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, stakeholder-participation pathways, and any **Stakeholder Weight** must be…*
 
 - **What it is**
-  - **In scope:** Participation rules must distinguish **Foundational Constitutional Choice** in the **Constitutional Contract Layer** from **Stakeholder System Participation** decisions within already-authorized **Governance** structures, rules, allocation of authority, and processes for a specified system, institution, or bounded decision domain.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in assigning the Constitutional Contract Layer versus Stakeholder System Participation.
-<a id="two-tier-governance-layer-assignment-a"></a>
+  - **In scope:** Where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, stakeholder-participation pathways, and any **Stakeholder Weight** must be proportionate to material impact and dependency and must satisfy **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) and Chapter Twelve section 4.3.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in the Stakeholder System Participation floor.
+<a id="stakeholder-governance-participation-floor-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** whether the decision authorizes or reauthorizes governing authority, the legitimacy mechanism, or the scope and durable terms of authority, or instead resolves a materially rights-affecting decision inside an already-authorized domain
+  - **Primary measure:** stakeholder mapping, affected-class coverage, local deliberation where required, plural evaluation for high-impact choices, representation and weighting limits, rights-collision records, dissent or alternative records, reopening paths, and **Article XI-A** (*Stakeholder System Participation and Representation*) legitimacy gates for materially high-impact collective choice
 
-    **Primary assessment:** Evaluation must verify whether the decision authorizes or reauthorizes governing authority, the legitimacy mechanism, or the scope and durable terms of authority, or instead resolves a materially rights-affecting decision inside an already-authorized domain.
-<a id="two-tier-governance-layer-assignment-c"></a>
+    **Primary assessment:** Evaluation must verify stakeholder mapping, affected-class coverage, local deliberation where required, plural evaluation for high-impact choices, representation and weighting limits, rights-collision records, dissent or alternative records, reopening paths, and **Article XI-A** (*Stakeholder System Participation and Representation*) legitimacy gates for materially high-impact collective choice.
+<a id="stakeholder-governance-participation-floor-c"></a>
 - **What must hold**
-  - **Primary failure:** Treating foundational authorization as ordinary Stakeholder System Participation, or treating an internal stakeholder decision as if it could alter the Constitutional Contract Layer without satisfying that layer.
+  - **Primary failure:** Token consultation, dominance-prone weighting, missing affected classes, or stakeholder procedures that purport to authorize or reauthorize the **Constitutional Contract Layer** questions of governing authority, the legitimacy mechanism, or the scope and durable terms of that authority.
 
 <a id="weighted-participation"></a>
 Weighted participation

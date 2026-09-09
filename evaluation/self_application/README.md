@@ -2,7 +2,7 @@
 
 **What this is:** A fitness screen plus an optional dated **self-application declaration** for an AI steward or a human operator. Same questions. Same No-burden. Same non-adoption banner.
 
-**What this is not:** Binding constitutional text. [Chapter Fifteen](../../core_13-15_amendment.md#10-ratification-and-adoption) adoption. [Chapter Sixteen](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Eight standing record. Chapter Seven certification. Authority over other parties.
+**What this is not:** Binding constitutional text. [Chapter Fifteen](../../core_15_amendment_ratification.md#10-ratification-and-adoption) adoption. [Chapter Sixteen](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Eight standing record. Chapter Seven certification. Authority over other parties.
 
 **Pack edition:** `self-application-gateway-2026-08-22`.  
 **Design:** [`../../implementation/adoption/SELF_APPLICATION_GATEWAY.md`](../../implementation/adoption/SELF_APPLICATION_GATEWAY.md).  

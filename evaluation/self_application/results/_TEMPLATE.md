@@ -293,10 +293,10 @@ I, **(model name/version or `human operator — <role>`)**, state that I will tr
 
 ### 17. Operator handoff
 
-**Finding:** Yes / No / Mixed — should a body that can bind itself and the systems under its authority record a [Chapter Fifteen §10](../../../core_13-15_amendment.md#10-ratification-and-adoption) instrument for systems I act inside?
+**Finding:** Yes / No / Mixed — should a body that can bind itself and the systems under its authority record a [Chapter Fifteen §10](../../../core_15_amendment_ratification.md#10-ratification-and-adoption) instrument for systems I act inside?
 
 **Why:**
 
-**Load-bearing home:** [Chapter Sixteen §4](../../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) / [Chapter Fifteen §10](../../../core_13-15_amendment.md#10-ratification-and-adoption)
+**Load-bearing home:** [Chapter Sixteen §4](../../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority) / [Chapter Fifteen §10](../../../core_15_amendment_ratification.md#10-ratification-and-adoption)
 
 **Notes:** A markdown declaration (item 16) is not that instrument.

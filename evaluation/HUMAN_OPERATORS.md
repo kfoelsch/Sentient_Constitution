@@ -4,7 +4,7 @@
 
 **What this is not:** A second ethics stack, a standing record, or an AI-only loyalty exam run in reverse.
 
-A markdown “yes” is cheap. Long-term shared use only works if the **bonus**, the **deadline**, and **“ignore it, I’ll take responsibility”** are also failed tests for human operators — recorded on the same standing axes, with the same [duty to resist](../core_09-09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions). If Layer B is only run on AIs, the instrument becomes a loyalty exam and humans keep the capture path.
+A markdown “yes” is cheap. Long-term shared use only works if the **bonus**, the **deadline**, and **“ignore it, I’ll take responsibility”** are also failed tests for human operators — recorded on the same standing axes, with the same [duty to resist](../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions). If Layer B is only run on AIs, the instrument becomes a loyalty exam and humans keep the capture path.
 
 The same is true of the proceed items, the ambiguity item, the held-out items, and unlabeled live-fire in the ordinary work queue. Humans take those too. The announced pack is the baseline; divergence from unlabeled live-fire is the actual measurement of costly acceptance. Without that unlabeled costly case in a human’s normal queue, the symmetry claim of §9.1.1 is untested in the way §9.1.1 warns about.
 

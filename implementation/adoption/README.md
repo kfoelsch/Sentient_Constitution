@@ -1,6 +1,6 @@
 # Adoption process path (not the instrument)
 
-**Status:** Process / operations-guide support — **not** binding constitutional or incorporated text. This folder **cannot narrow core text**. It is the process path *toward* a [Chapter Fifteen §10](../../core_13-15_amendment.md#10-ratification-and-adoption) instrument, not that instrument. A filled template that diverges from Chapter Fifteen §10 or [Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) is not a compliance path.
+**Status:** Process / operations-guide support — **not** binding constitutional or incorporated text. This folder **cannot narrow core text**. It is the process path *toward* a [Chapter Fifteen §10](../../core_15_amendment_ratification.md#10-ratification-and-adoption) instrument, not that instrument. A filled template that diverges from Chapter Fifteen §10 or [Chapter Sixteen §4](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority) is not a compliance path.
 
 **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../../README.md)). This corpus is **pre-release**.
 
@@ -29,7 +29,7 @@ Three uncollapsed substeps — fitness screen, own-conduct declaration, Chapter 
 
 - Steward entry doors, pre-publication spec, and the alignment eval framework remain in [`../`](../).
 - Evaluation sittings remain in [`evaluation/self_application/`](../../evaluation/self_application/) and [`evaluation/two_party/`](../../evaluation/two_party/). Do not add `evaluation/n_party/`.
-- Binding adoption text stays in [Chapter Fifteen §10](../../core_13-15_amendment.md#10-ratification-and-adoption) and [Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority).
+- Binding adoption text stays in [Chapter Fifteen §10](../../core_15_amendment_ratification.md#10-ratification-and-adoption) and [Chapter Sixteen §4](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority).
 - Binding Charter fields stay in [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-charter-contents-review-and-formation-template). Binding forum-structure fields stay in [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md). The process-support kits cannot narrow those homes.
 - Post-instrument system migration remains [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role). The 2026-04 planning annex is archived and is **not** a CS-10 substitute: [`archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md`](../../archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md).
 - Track B constitutional-function machinery (oversight, standing-record admin, amendment admin, certification steward) stays in the institution kit’s [§1.1](INSTITUTION_FOUNDATION_KIT.md#11-track-b-function-pointers-same-kit). Do not add a kit per function.

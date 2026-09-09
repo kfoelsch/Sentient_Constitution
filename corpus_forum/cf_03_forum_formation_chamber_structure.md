@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*).
+> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*).
 >
 > Start at the [Forums landing page](../corpus_forum.md) for reading order, or the [forums registry](cf_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-3.1 Core structural rule](#cf-31-core-structural-rule); [CF-3.2 Family-to-forum-structure translation map](#cf-32-family-to-forum-structure-translation-map); [CF-3.3 Family distinction and non-collapse rule](#cf-33-family-distinction-and-non-collapse-rule); [CF-3.5 Chamber creation, identification, and family boundary](#cf-35-chamber-creation-identification-and-family-boundary).
 - Read with: **CF-3**; **CF-5**; **CF-16**; **CF-4**; **CF-11**; **CF-12**; **CF-13**; **CF-14**; **CF-3.1**.
 - Topic routing (primary owner): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Eleven famili…*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-2.1**, **CJS-2.5**, **CJS-3.13**, **CI-9.3**.
@@ -51,7 +51,7 @@ This file is the forum implementation home for **CF-3** (*Forum formation, forum
 
 *In plain terms: Chapter Eleven names the forum families; **CF-3** (*Forum formation and chamber structure*) is where an adopting entity turns those names into working benches, chambers, and support structures. It sets the minimum each family must actually staff and run, keeps families from quietly collapsing into one another, and states what a chamber may and may not decide.*
 
-This section governs how adopting entities convert the forum families recognized in `core_11-11_forum.md` **Chapter Eleven** into actual adjudicative bodies, benches, chambers, and support structures.
+This section governs how adopting entities convert the forum families recognized in `core_11_forum.md` **Chapter Eleven** into actual adjudicative bodies, benches, chambers, and support structures.
 It sets structural requirements for:
 - forum-structure mapping and public adjudicative architecture;
 - minimum availability of adjudicators and support sufficient to form lawful panels and preserve traceability;
@@ -72,12 +72,12 @@ This section does not itself govern panel assignment, recusal, lawful bench form
 *In plain terms: Every adopting entity must publish a real, working structure for each forum family — not a name on an organization chart. A filer must be able to tell which body handles what.*
 
 Every adopting entity must establish and maintain a published forum structure that:
-- gives operational effect to each forum family required by `core_11-11_forum.md` **Chapter Eleven**;
+- gives operational effect to each forum family required by `core_11_forum.md` **Chapter Eleven**;
 - makes family boundaries intelligible to filers, affected parties, and review bodies;
 - preserves independence, contestability, and traceability in actual forum design rather than by labels alone;
 - maintains enough qualified personnel and, as specified in **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*), reserve and substitute capacity to keep the forum families functional in ordinary and stress conditions.
 
-**Minimum family inventory.** Adopting instruments must maintain **at least** the following **distinct** forum families, **in** **the** **same** **order** as `core_11-11_forum.md` **Chapter Eleven**, **section 2**’s **default** **venue** **table**. This inventory implements that table and the family definitions in **Chapter Eleven**, **section 4**; it does **not** create families beyond those Chapter Eleven authorizes.
+**Minimum family inventory.** Adopting instruments must maintain **at least** the following **distinct** forum families, **in** **the** **same** **order** as `core_11_forum.md` **Chapter Eleven**, **section 2**’s **default** **venue** **table**. This inventory implements that table and the family definitions in **Chapter Eleven**, **section 4**; it does **not** create families beyond those Chapter Eleven authorizes.
 
 - **Sentient** forums.
 - **Technical** **Forum** **Domains** (including **specialized** **technical** **chambers** **or** **panels** **within** **other** **families**, as **Chapter Eleven**, **section 4.2** describes).
@@ -110,7 +110,7 @@ Each adopting entity must publish a forum-structure map that states, in plain la
 - the appeal or review path for each family and chamber configuration;
 - the backup or fallback forum used when an ordinary forum cannot lawfully act.
 
-The map must be current, publicly accessible, and cross-referenced to the primary-stakes routing rules in `core_11-11_forum.md` **Chapter Eleven**.
+The map must be current, publicly accessible, and cross-referenced to the primary-stakes routing rules in `core_11_forum.md` **Chapter Eleven**.
 
 ## CF-3.3 Family distinction and non-collapse rule
 

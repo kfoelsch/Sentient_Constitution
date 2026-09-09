@@ -508,8 +508,8 @@ Full mapping: generate from Chapter One §8.1 via script `tools/ch1_split_link_m
 ### 7.3 High-touch files (manual review after bulk pass)
 
 - `core_05-05_definitions_*.md` (~280 refs)
-- `core_06-06_rights_part_*.md` (~315 refs)
-- `core_12-12_governance.md`
+- `core_06_rights_part_*.md` (~315 refs)
+- `core_12_governance.md`
 - `README.md`, `doc_architecture.md`
 - `ai_corpus/indexes/*.json`
 - `tools/corpus_paths.py`, `tools/generate_definition_registry.py`

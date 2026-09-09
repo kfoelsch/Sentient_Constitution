@@ -12,22 +12,22 @@
 
 **Does not:**
 - Redefine constitutional terms, Rights Floors, or offense taxonomy
-- Create new forum families beyond those authorized in [Chapter Eleven](core_11-11_forum.md)
+- Create new forum families beyond those authorized in [Chapter Eleven](core_11_forum.md)
 - Replace institutional governance ([Institutions](corpus_institutions.md)) or system classification ([Systems and data](corpus_systems.md))
 
 **Implements from the core files:**
 - [Chapter Five](core_05__definitions_home.md) definitions by reference — this layer does not redefine them
-- [Chapter Six](core_06-06_rights_part_c.md) hearing-facing Rights Floor themes — especially [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*), [Article XV-A](core_06-06_rights_part_c.md#article-xv-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXII](core_06-06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), [Article XXIII](core_06-06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) (*Conflict Resolution, Escalation, and Emergency Proportionality*), and [Article XXVI](core_06-06_rights_part_d.md#article-xxvi-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) where forums support transition
-- [Chapter Eleven](core_11-11_forum.md) forum families, jurisdiction, and cross-forum anti-self-judging — the constitutional owner this layer operationalizes
+- [Chapter Six](core_06_rights_part_c.md) hearing-facing Rights Floor themes — especially [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*), [Article XV-A](core_06_rights_part_c.md#article-xv-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXII](core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), [Article XXIII](core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) (*Conflict Resolution, Escalation, and Emergency Proportionality*), and [Article XXVI](core_06_rights_part_d.md#article-xxvi-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) where forums support transition
+- [Chapter Eleven](core_11_forum.md) forum families, jurisdiction, and cross-forum anti-self-judging — the constitutional owner this layer operationalizes
 - [Standing pipeline](README.md#standing-pipeline-and-forums) supervision context under Chapters Seven through Ten — forums hear and route; they do not replace standing measurement owners
 
 **Siblings:**
-- Core [README](README.md) — standing pipeline and constitutional forum owner ([Chapter Eleven](core_11-11_forum.md)) before operational detail
+- Core [README](README.md) — standing pipeline and constitutional forum owner ([Chapter Eleven](core_11_forum.md)) before operational detail
 - [Institutions](corpus_institutions.md) — body formation, authorization, oversight, correction, and dissolution
 - [Systems and data](corpus_systems.md) — systems that support filing, records, routing, or forum continuity
 - [Joint structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
 
-**Binding:** When an adopter incorporates this layer under [Chapter Sixteen](core_16-16_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+**Binding:** When an adopter incorporates this layer under [Chapter Sixteen](core_16_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
 **Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Forums index** below. Identifier rules remain in the [forums registry](corpus_forum/cf_00_registry_and_reading_rules.md).
 

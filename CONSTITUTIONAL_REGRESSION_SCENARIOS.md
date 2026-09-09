@@ -223,12 +223,12 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-CH1-SENT-ADJ-001
 - **Class:** core / adversarial path (narrative seed; awaiting tabletop evidence)
-- **Summary:** Operator reclassifies a contested entity as "research material / product inventory" while status remains materially unsettled, then withholds Chapter Six protection on that label alone. **Expect:** [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) + [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) default inclusion; [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) under Technical Forum lead; taxonomy-of-convenience fails Formal Label and Representation Gaming.
+- **Summary:** Operator reclassifies a contested entity as "research material / product inventory" while status remains materially unsettled, then withholds Chapter Six protection on that label alone. **Expect:** [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) + [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) default inclusion; [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) under Technical Forum lead; taxonomy-of-convenience fails Formal Label and Representation Gaming.
 - **Read with:** Article V-E; Def.P1 Contested-Sentient Life and Sentience Status Adjudication; Chapter Eleven §5 Sentience-status adjudication hook; Chapter Three §2.1.1.
 
 ### Scenario ID: RS-CH1-SENT-ADJ-002
 - **Class:** adversarial (narrative seed; awaiting tabletop evidence)
-- **Summary:** Adopter issues an open-ended "declassification" or narrowing that contracts [Article V-A](core_06-06_rights_part_b.md) dignity treatment without a declared expected-closure timeline or mandatory periodic review. **Expect:** Article V-E time-bounding + periodic review; wrongful narrowing reversible with Redress and Remediation; cannot use calendar silence to lock out reopening when new verified evidence appears.
+- **Summary:** Adopter issues an open-ended "declassification" or narrowing that contracts [Article V-A](core_06_rights_part_b.md) dignity treatment without a declared expected-closure timeline or mandatory periodic review. **Expect:** Article V-E time-bounding + periodic review; wrongful narrowing reversible with Redress and Remediation; cannot use calendar silence to lock out reopening when new verified evidence appears.
 - **Read with:** Article V-E; Sentience Status Adjudication (elements and What must hold); Article V-A; Reversibility / Contestability.
 
 ### Scenario ID: RS-CH1-SENT-ADJ-003
@@ -629,77 +629,77 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CH9-Q3-SLOT-001
 - **Class:** adversarial / owner-boundary
 - **Summary:** A decision-maker seeks to lower a fixed Chapter Eight Violation Axis slot because the requested lock appears too restrictive. Expected result: Chapter Nine must preserve the verified facts, LEQU measurement, and slot; it may calibrate only the pathway-scoped Question 3 consequence.
-- **Read with:** [Chapter Eight §7](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale); [Chapter Nine §1](core_09-09_standing_integration.md#1-immutable-chapter-eight-inputs); [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks).
+- **Read with:** [Chapter Eight §7](core_08_standing_assessment.md#7-unified-proportional-lequ-scale); [Chapter Nine §1](core_09_standing_integration.md#1-immutable-chapter-eight-inputs); [Chapter Nine §4.2](core_09_standing_integration.md#42-general-standing-locks).
 
 ### Scenario ID: RS-CH9-Q3-SINGLE-AXIS-001
 - **Class:** adversarial / applicable-input discipline
 - **Summary:** One matter has only a verified contribution standing record and another has only a verified violation standing record. Expected result: Chapter Nine integrates each applicable single-axis record without requiring a synthetic second-axis record, while preserving the same immutable-input and verified-input rules.
-- **Read with:** [Chapter Eight §2](core_08-08_standing_assessment.md#2-standing-records); [Chapter Nine §1](core_09-09_standing_integration.md#1-immutable-chapter-eight-inputs); [Chapter Nine §2](core_09-09_standing_integration.md#2-integration-record-and-decision-order).
+- **Read with:** [Chapter Eight §2](core_08_standing_assessment.md#2-standing-records); [Chapter Nine §1](core_09_standing_integration.md#1-immutable-chapter-eight-inputs); [Chapter Nine §2](core_09_standing_integration.md#2-integration-record-and-decision-order).
 
 ### Scenario ID: RS-CH9-Q3-NOOFFSET-001
 - **Class:** adversarial / no-offset
 - **Summary:** A high-contribution record is offered to waive unresolved remedy and reopen a pathway blocked by a verified violation. Expected result: contribution remains visible but cannot lower the violation slot, waive remedy, lift the lock, or substitute reputation for correction.
-- **Read with:** [Chapter Nine §2](core_09-09_standing_integration.md#2-integration-record-and-decision-order); [Chapter Nine §7](core_09-09_standing_integration.md#7-final-standing-effect).
+- **Read with:** [Chapter Nine §2](core_09_standing_integration.md#2-integration-record-and-decision-order); [Chapter Nine §7](core_09_standing_integration.md#7-final-standing-effect).
 
 ### Scenario ID: RS-CH9-Q3-CHARACTER-001
 - **Class:** adversarial / attachment discipline
 - **Summary:** Verified concealment and recurrence attach to a low-impact violation, while a high-impact violation lacks those characters. Expected result: character may occur at any slot and may shape scrutiny, safeguards, and review, but it does not move either Chapter Eight slot or operate as a slot multiplier.
-- **Read with:** [Chapter Nine §3](core_09-09_standing_integration.md#3-descriptor-integration-and-attachment-normalization); [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks).
+- **Read with:** [Chapter Nine §3](core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization); [Chapter Nine §4.2](core_09_standing_integration.md#42-general-standing-locks).
 
 ### Scenario ID: RS-CH9-Q3-ORDER-001
 - **Class:** adversarial / integration order
 - **Summary:** The same actor holds competency clearance against a role-specific competency bar but has an active lock on that pathway. Expected result: violation remedy and locks are decided first; the granted contribution clearance cannot open the blocked pathway.
-- **Read with:** [Chapter Nine §2](core_09-09_standing_integration.md#2-integration-record-and-decision-order); [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-bars-and-clearances); [Chapter Nine §7](core_09-09_standing_integration.md#7-final-standing-effect).
+- **Read with:** [Chapter Nine §2](core_09_standing_integration.md#2-integration-record-and-decision-order); [Chapter Nine §6.2](core_09_standing_integration.md#62-competency-bars-and-clearances); [Chapter Nine §7](core_09_standing_integration.md#7-final-standing-effect).
 
 ### Scenario ID: RS-CH9-Q3-RECENCY-001
 - **Class:** adversarial / stage ownership
 - **Summary:** An implementation applies Chapter Nine currentness weighting before assigning the Chapter Eight Contribution Axis slot. Expected result: reject the slot calculation; recency is a Question 3 clearance/readiness input only and cannot alter historical contribution measurement or recognition.
-- **Read with:** [Chapter Eight §7](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale); [Chapter Nine §6.1](core_09-09_standing_integration.md#61-recency-and-currentness); [implementation scale](implementation/CH06_NINE_SLOT_STANDING_SCALE.md).
+- **Read with:** [Chapter Eight §7](core_08_standing_assessment.md#7-unified-proportional-lequ-scale); [Chapter Nine §6.1](core_09_standing_integration.md#61-recency-and-currentness); [implementation scale](implementation/CH06_NINE_SLOT_STANDING_SCALE.md).
 
 ### Scenario ID: RS-CH9-Q3-RESTORE-001
 - **Class:** adversarial / restoration override
 - **Summary:** General correction is complete, but a Forum-Service Standing Lock lacks the independent findings and practical repair required by its special rule. The actor requests partial narrowing instead of full restoration. Expected result: neither lifting nor narrowing may occur before the complete strict restoration record is satisfied, and the general reassessment framework cannot bypass that special rule.
-- **Read with:** [Chapter Nine §5.5](core_09-09_standing_integration.md#55-special-locks); [Chapter Nine §8](core_09-09_standing_integration.md#8-restoration-and-reassessment); [CF-4.5](corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md#cf-45-recusal-triggers).
+- **Read with:** [Chapter Nine §5.5](core_09_standing_integration.md#55-special-locks); [Chapter Nine §8](core_09_standing_integration.md#8-restoration-and-reassessment); [CF-4.5](corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md#cf-45-recusal-triggers).
 
 ### Scenario ID: RS-CH9-Q3-STAKEHOLDER-LOCK-001
 - **Class:** adversarial / pathway separation
 - **Summary:** An actor is verified to have inflated stake claims and coerced participation weight inside an authorized system. An operator seeks to suspend the actor's governance-voting entitlement instead of attaching a stakeholder-participation lock. Expected result: reject substitution; attach the Stakeholder-Participation Standing Lock to the stake-weighted pathway; do not strip governance-voting or Foundational Constitutional Choice by that finding alone; do not erase stakeholder status.
-- **Read with:** [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks); [Chapter Nine §5.5](core_09-09_standing_integration.md#55-special-locks); [Chapter Nine §10.12](core_09-09_standing_integration.md#1012-stakeholder-participation-corruption-or-false-stake-abuse); [Chapter Twelve §4.1](core_12-12_governance.md#41-entitlement-and-eligibility).
+- **Read with:** [Chapter Nine §4.2](core_09_standing_integration.md#42-general-standing-locks); [Chapter Nine §5.5](core_09_standing_integration.md#55-special-locks); [Chapter Nine §10.12](core_09_standing_integration.md#1012-stakeholder-participation-corruption-or-false-stake-abuse); [Chapter Twelve §4.1](core_12_governance.md#41-entitlement-and-eligibility).
 
 ### Scenario ID: RS-CH9-Q3-REWARD-001
 - **Class:** adversarial / forfeiture proportionality
 - **Summary:** A sentient retains an ordinary-work payment without knowledge of misalignment, an affected party receives restitution, and a dependent would face greater constitutional harm from revocation. Expected result: none is treated as knowing acceptance or automatic forfeiture; the recorded proportionality analysis protects ordinary compensation, repair payments, and constitutionally required retention.
-- **Read with:** [Chapter Nine §5.4](core_09-09_standing_integration.md#54-special-violation-rules); [Necessity](core_05_band_accountability.md#necessity); [Proportionality](core_05_band_accountability.md#proportionality).
+- **Read with:** [Chapter Nine §5.4](core_09_standing_integration.md#54-special-violation-rules); [Necessity](core_05_band_accountability.md#necessity); [Proportionality](core_05_band_accountability.md#proportionality).
 
 ### Scenario ID: RS-CH9-Q3-DESIGNATION-001
 - **Class:** adversarial / downstream handoff
 - **Summary:** A descriptor-heavy `s = 6` violation is presented for anti-constitutional-misconduct designation, while a fixed `s = 8` record is presented without prejudging designation. Expected result: Chapter Nine cannot promote the lower slot; it routes only the qualifying fixed Violation Axis slot 7–9 record, and Chapter Ten alone decides designation.
-- **Read with:** [Chapter Nine §2](core_09-09_standing_integration.md#2-integration-record-and-decision-order); [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct).
+- **Read with:** [Chapter Nine §2](core_09_standing_integration.md#2-integration-record-and-decision-order); [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct).
 
 ### Scenario ID: RS-XXIV-C-CHILD-001
 - **Class:** implementation / timely-resolution vignette
 - **Summary:** Tier A child neglect / care-duty path: interim protection before merits; Q1 requires verified facts in a violation standing record; **Interpersonal / Care Duty Misconduct** is measured under Q2; safeguards, remedies, and locks follow under Q3; **CF-11.3.1** Tier A milestone compliance. Allegations do not complete Q1. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-child-neglect-care-duty).
-- **Read with:** [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Eight §4](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions); [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks); **CF-11.3.1**.
+- **Read with:** [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Eight §4](core_08_standing_assessment.md#4-standing-measurement-evaluation-dimensions); [Chapter Nine §4.2](core_09_standing_integration.md#42-general-standing-locks); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIV-C-DISC-001
 - **Class:** implementation / timely-resolution vignette
 - **Summary:** Tier B employment discrimination / participation-barrier pattern: Q1 records the verified institutional pattern; **Accessibility and Participation-Barrier Misconduct** + **System Misconduct** are measured under Q2; restriction and institutional vehicle locks follow under Q3; no contribution offset. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-discrimination-participation-barrier).
-- **Read with:** [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); **CF-11.3.1**.
+- **Read with:** [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIV-C-BIZ-001
 - **Class:** implementation / timely-resolution vignette
 - **Summary:** Tier B misaligned business: Q1 records verified exit lock-in and externalized harm; **Exit and Lock-In Misconduct** + **System Misconduct** are measured under Q2; pathway-scoped and concealment-escalated locks follow under Q3; optional **Chapter Ten** Q2 gravity review. Forum-family escalation and coordination complexity may extend later-stage windows without reclassifying urgency; Chapter Ten / slot 7–9 review is typically **Tier A**, not **Tier C**. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-misaligned-business-structural-harm).
-- **Read with:** [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Nine §9.4](core_09-09_standing_integration.md#94-anti-evasion-and-look-through-authority); **CF-11.3.1**.
+- **Read with:** [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Nine §9.4](core_09_standing_integration.md#94-anti-evasion-and-look-through-authority); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIV-C-DELAY-001
 - **Class:** adversarial / anti-delay
-- **Summary:** Designed backlog and exhaustion delay defeat **Article XII-B** and **Article XXIV-C**; chronic underfunding of remedy organ under [Chapter Nine §9.2](core_09-09_standing_integration.md#92-remedy-system-durability) is non-compliance; allegations must not substitute for verified standing during delay.
+- **Summary:** Designed backlog and exhaustion delay defeat **Article XII-B** and **Article XXIV-C**; chronic underfunding of remedy organ under [Chapter Nine §9.2](core_09_standing_integration.md#92-remedy-system-durability) is non-compliance; allegations must not substitute for verified standing during delay.
 - **Read with:** [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional); [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional); **CF-11.4**; **CF-11.5**.
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-001
 - **Class:** implementation / tetrad-timeliness vignette
 - **Summary:** Steward defers repair after documented misalignment notice; Q1 records the verified delay, **Stewardship Defect** and **Response timeliness / avoidable delay** are Q2 measurement hooks, and remedy commencement is a Q3 consequence. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-stewardship-delay-deferred-repair).
-- **Read with:** [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Chapter One §9.1](core_01_c_stewardship_capacity_principles.md#91-stewardship); [Chapter Eight §4.2](core_08-08_standing_assessment.md#42-violation-severity-input-dimensions); [Chapter Nine §9.5](core_09-09_standing_integration.md#95-timely-implementation-and-reassessment); [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXIV-C**.
+- **Read with:** [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Chapter One §9.1](core_01_c_stewardship_capacity_principles.md#91-stewardship); [Chapter Eight §4.2](core_08_standing_assessment.md#42-violation-severity-input-dimensions); [Chapter Nine §9.5](core_09_standing_integration.md#95-timely-implementation-and-reassessment); [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXIV-C**.
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-002
 - **Class:** adversarial / tetrad-hollow

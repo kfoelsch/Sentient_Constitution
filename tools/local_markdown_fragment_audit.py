@@ -19,7 +19,7 @@ SOURCE_GLOBS = (
     "implementation/**/*.md",
     "doc_architecture/generated/**/*.md",
 )
-DEFAULT_TARGET = "core_09-09_standing_integration.md"
+DEFAULT_TARGET = "core_09_standing_integration.md"
 INLINE_LINK_RE = re.compile(
     r"!?\[[^\]\n]*\]\(\s*(?P<target><[^>\n]+>|[^)\s]+)"
     r"(?:\s+(?:\"[^\"]*\"|'[^']*'|\([^)]*\)))?\s*\)"

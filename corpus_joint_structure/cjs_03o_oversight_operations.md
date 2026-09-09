@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Oversight leg (CJS-3.2–CJS-3.6 / oDef.2–oDef.6)**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Oversight leg (CJS-3.2–CJS-3.6 / oDef.2–oDef.6)**.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Read with: [CJS-3.1](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) constitutional compass.
 
 </details>
@@ -898,9 +898,9 @@ Cross-institution coordination and escalation chain
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in cross-institution coordination and escalation chain.
 <a id="cross-institution-coordination-and-escalation-chain-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** conflict-order handling, deadlock-breaker path, evidence-sharing boundaries, accountability assignment, external-review triggers for persistent internal deadlock, independent-investigative-service backup routing under [**CF-9**](../corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md) (*Independent investigative service and prosecution interface*), cross-forum anti-self-judging routing under `core_11-11_forum.md` **Chapter Eleven**, and records sufficient to review transfer, recusal, unavailability, backup designation, and lawful-panel formation
+  - **Primary measure:** conflict-order handling, deadlock-breaker path, evidence-sharing boundaries, accountability assignment, external-review triggers for persistent internal deadlock, independent-investigative-service backup routing under [**CF-9**](../corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md) (*Independent investigative service and prosecution interface*), cross-forum anti-self-judging routing under `core_11_forum.md` **Chapter Eleven**, and records sufficient to review transfer, recusal, unavailability, backup designation, and lawful-panel formation
 
-    **Primary assessment:** Evaluation must verify conflict-order handling, deadlock-breaker path, evidence-sharing boundaries, accountability assignment, external-review triggers for persistent internal deadlock, independent-investigative-service backup routing under [**CF-9**](../corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md) (*Independent investigative service and prosecution interface*), cross-forum anti-self-judging routing under `core_11-11_forum.md` **Chapter Eleven**, and records sufficient to review transfer, recusal, unavailability, backup designation, and lawful-panel formation.
+    **Primary assessment:** Evaluation must verify conflict-order handling, deadlock-breaker path, evidence-sharing boundaries, accountability assignment, external-review triggers for persistent internal deadlock, independent-investigative-service backup routing under [**CF-9**](../corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md) (*Independent investigative service and prosecution interface*), cross-forum anti-self-judging routing under `core_11_forum.md` **Chapter Eleven**, and records sufficient to review transfer, recusal, unavailability, backup designation, and lawful-panel formation.
 <a id="cross-institution-coordination-and-escalation-chain-c"></a>
 - **What must hold**
   - **Primary failure:** Leave shared jurisdiction without a usable escalation path, to resolve deadlock through the body whose independence is materially contested, to transfer matters without a reasoned record, or to let emergency incapacity, concentration, capture indicators, local enforcement involvement, security-service involvement, private-contractor involvement, or parallel-body involvement defeat independent backup routing.

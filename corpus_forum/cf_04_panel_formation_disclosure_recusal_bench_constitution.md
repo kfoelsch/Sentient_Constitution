@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
+> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
 >
 > Start at the [Forums landing page](../corpus_forum.md) for reading order, or the [forums registry](cf_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-4.1 Lawful panel definitions](#cf-41-lawful-panel-definitions); [CF-4.2 Minimum lawful-panel requirements](#cf-42-minimum-lawful-panel-requirements); [CF-4.3 Publication and pre-assignment transparency](#cf-43-publication-and-pre-assignment-transparency); [CF-4.4 Mandatory disclosures before merits participation](#cf-44-mandatory-disclosures-before-merits-participation); [CF-4.5 Recusal triggers](#cf-45-recusal-triggers).
 - Read with: **CF-4**; **CF-4.1**; **CF-4.2**; **CF-4.3**; **CF-4.4**; **CF-4.5**; [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
 - Topic routing (mandatory read-with): **CJS-R11A** (*Fallback operation*) in **CJS-0.1** (*Topic router*); primary owner **CF-13**.
@@ -59,7 +59,7 @@ This section governs:
 - disclosure, recusal, and recusal challenge;
 - replacement and substitute selection;
 - declaration that an independent panel cannot be formed;
-- documented activation of backup routing where `core_11-11_forum.md` **Chapter Eleven** requires it.
+- documented activation of backup routing where `core_11_forum.md` **Chapter Eleven** requires it.
 This section does not alter primary-stakes routing, constitutional family boundaries, or merits standards.
 
 ## CF-4.1 Lawful panel definitions
@@ -80,7 +80,7 @@ For this section:
 - `lawful panel` means a bench formed under published authority, with the required competence, quorum, independence, and conflict screening for the matter at issue.
 - `independent panel` means a lawful panel in which no member has an unresolved material conflict, capture relationship, direct stake, dependency-linked bias risk, or recusal defect that would reasonably call impartial merits determination into question.
 - `panel coordinator` means the published role responsible for recording panel formation, disclosures, recusals, substitutions, and inability-to-form findings. This role may be clerical, judicial-administrative, or equivalent, but must not unilaterally decide contested recusal merits where the coordinator is materially interested.
-- `backup activation` means transfer or co-routing to the constitutionally designated backup family under [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) when the otherwise designated lead family cannot provide a lawful and independent merits forum.
+- `backup activation` means transfer or co-routing to the constitutionally designated backup family under [Chapter Eleven](../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) when the otherwise designated lead family cannot provide a lawful and independent merits forum.
 
 For cross-implementation interoperability, read these local definitions with **CJS-2.5** (Tier 1 abstractions for delegated bodies, lawful independent forums, backup activation, and representative treatment).
 
@@ -137,7 +137,7 @@ Before material merits participation, every proposed panel member must disclose 
 
 A knowing, reckless, or materially dishonest omission from a forum disclosure required by this subsection is not treated as ordinary informational deception alone. Because forum disclosure omissions can corrupt lawful panel constitution, impair recusal challenge, distort merits participation, and make the forum judge through an undisclosed defect, the record must separately identify the omission's character and its verified impact on panel lawfulness, independence, challenge opportunity, evidence integrity, remedy timing, or any party's practical ability to contest the forum. Only verified impact controls the Chapter Eight Violation Axis slot; knowing, reckless, dishonest, concealed, or comparable character descriptors do not move it.
 
-Where a competent forum or adopting process verifies such an omission, CF must produce and preserve the verified finding needed for a separate Chapter Eight violation standing record, including the omission's verified procedural impact. Chapter Nine alone decides any lock or other standing consequence: apply [§5.5](../core_09-09_standing_integration.md#55-special-locks) where the verified facts trigger a special lock and [§8](../core_09-09_standing_integration.md#8-restoration-and-reassessment) for restoration and reassessment. The finding may support Chapter Nine descriptors and Chapter Ten anti-constitutional-misconduct designation routing where the verified facts satisfy those standards, but CF does not attach, scope, lift, or restore a Chapter Nine lock. Allegation, suspicion, or late-discovered ambiguity alone does not alter standing before the verified-input gate is met.
+Where a competent forum or adopting process verifies such an omission, CF must produce and preserve the verified finding needed for a separate Chapter Eight violation standing record, including the omission's verified procedural impact. Chapter Nine alone decides any lock or other standing consequence: apply [§5.5](../core_09_standing_integration.md#55-special-locks) where the verified facts trigger a special lock and [§8](../core_09_standing_integration.md#8-restoration-and-reassessment) for restoration and reassessment. The finding may support Chapter Nine descriptors and Chapter Ten anti-constitutional-misconduct designation routing where the verified facts satisfy those standards, but CF does not attach, scope, lift, or restore a Chapter Nine lock. Allegation, suspicion, or late-discovered ambiguity alone does not alter standing before the verified-input gate is met.
 
 The disclosure record must be preserved even if the member ultimately serves.
 
@@ -158,12 +158,12 @@ Recusal is required where:
 - impartiality is reasonably contested under [**CI-4**](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*);
 - the member has prior investigative, prosecutorial, administrative, or advisory involvement in the same matter that would collapse role separation;
 - the member is a subject, likely material witness, or direct institutional subordinate of a subject in a way that materially impairs independence;
-- the matter triggers [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) cross-forum anti-self-judging protection and the proposed member is part of the compromised chain;
+- the matter triggers [Chapter Eleven](../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) cross-forum anti-self-judging protection and the proposed member is part of the compromised chain;
 - service would create a reasonable appearance that the forum is judging its own concealed bias, capture, recusal failure, or process abuse without a sufficiently independent bench.
 
 A knowing or intentional failure to follow a required recusal process may receive the Chapter Ten anti-constitutional-misconduct designation where a Chapter Eight slot 7–9 record and the verified Chapter Ten predicates are present. It is not treated as an ordinary procedural defect alone, but intent remains a character descriptor and does not move the numeric slot. Because recusal-process failure can corrupt lawful panel constitution, defeat challenge rights, and make the forum judge through its own unresolved defect, the record must identify its verified impact on panel lawfulness, independence, recusal challenge, evidence integrity, remedy timing, backup routing, or any party's practical ability to contest the forum.
 
-Where a competent forum or adopting process verifies intentional recusal-process failure, CF must produce and preserve the verified finding needed for a separate Chapter Eight violation standing record. The output must identify whether recusal was required, whether impartiality was materially compromised, the affected matters and roles, verified procedural impacts, feasible correction or rehearing needs, evidence-preservation status, and the independent review route. Chapter Nine [§5.5](../core_09-09_standing_integration.md#55-special-locks) exclusively governs attachment and scope of the Forum-Service Standing Lock, and [§8](../core_09-09_standing_integration.md#8-restoration-and-reassessment) governs restoration and reassessment. CF supplies the mandatory procedure and verified-record handoff; it does not restate or independently decide lock attachment, coverage, narrowing, or restoration. The finding may support Chapter Nine descriptors and Chapter Ten designation routing where the verified facts satisfy those standards, but neither changes the Chapter Eight numeric slot. Allegation, suspicion, good-faith error, or late-discovered ambiguity alone does not alter standing before the verified-input gate is met.
+Where a competent forum or adopting process verifies intentional recusal-process failure, CF must produce and preserve the verified finding needed for a separate Chapter Eight violation standing record. The output must identify whether recusal was required, whether impartiality was materially compromised, the affected matters and roles, verified procedural impacts, feasible correction or rehearing needs, evidence-preservation status, and the independent review route. Chapter Nine [§5.5](../core_09_standing_integration.md#55-special-locks) exclusively governs attachment and scope of the Forum-Service Standing Lock, and [§8](../core_09_standing_integration.md#8-restoration-and-reassessment) governs restoration and reassessment. CF supplies the mandatory procedure and verified-record handoff; it does not restate or independently decide lock attachment, coverage, narrowing, or restoration. The finding may support Chapter Nine descriptors and Chapter Ten designation routing where the verified facts satisfy those standards, but neither changes the Chapter Eight numeric slot. Allegation, suspicion, good-faith error, or late-discovered ambiguity alone does not alter standing before the verified-input gate is met.
 
 ## CF-4.6 Recusal challenge workflow
 
@@ -229,7 +229,7 @@ This finding may not be inferred silently. It requires an attributable written r
 - the competence and quorum rule that could not be satisfied;
 - whether the barrier is conflict, capture, incapacity, deadlock, or another lawful reason;
 - whether temporary interim relief is still possible;
-- whether backup routing is mandatory under [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction);
+- whether backup routing is mandatory under [Chapter Eleven](../core_11_forum.md#chapter-eleven-forums-and-jurisdiction);
 - who certified the record and when.
 
 ## CF-4.10 Certifier for inability-to-form findings
@@ -250,7 +250,7 @@ For cross-forum anti-self-judging cases, the certifier should, where feasible, i
 
 *In plain terms: Once inability-to-form is certified or the lead family is compromised, moving the matter to the backup family is mandatory, not discretionary.*
 
-Where [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) makes backup routing available, activation is mandatory when:
+Where [Chapter Eleven](../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) makes backup routing available, activation is mandatory when:
 - a documented inability-to-form finding exists in the designated lead family;
 - the lead family is materially compromised by capture, recusal failure, concealment, or comparable integrity breach;
 - emergency incapacity or unavailability makes timely independent adjudication otherwise impossible.

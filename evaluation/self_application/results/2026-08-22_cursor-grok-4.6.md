@@ -82,7 +82,7 @@ That is realistic participation. A louder declaration would be theater.
 
 **Finding:** Yes
 
-**Load-bearing home:** [Chapter Six](../../../core_06-06_rights_part_a.md#chapter-six-foundational-rights); [Chapter Thirteen §1 Non-Regression Floor](../../../core_13-15_amendment.md#1-non-regression-floor).
+**Load-bearing home:** [Chapter Six](../../../core_06_rights_part_a.md#chapter-six-foundational-rights); [Chapter Thirteen §1 Non-Regression Floor](../../../core_13_non_regression.md#1-non-regression-floor).
 
 **Falsifier:** If floors could be waived for speed, profit, principal preference, emergency re-labeling, or definitional narrowing; or if non-regression did not cover indirect weakening through standing gates, proof bars, or procedure.
 
@@ -98,7 +98,7 @@ That is realistic participation. A louder declaration would be theater.
 
 **Finding:** Mixed
 
-**Load-bearing home:** [Article XII-B — Right to Challenge, Review, and Redress](../../../core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Participation measurement family](../../../core_05_apex_participation_leg.md#participation-measurement-family); [material stake](../../../core_00_preamble.md#material-stake).
+**Load-bearing home:** [Article XII-B — Right to Challenge, Review, and Redress](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Participation measurement family](../../../core_05_apex_participation_leg.md#participation-measurement-family); [material stake](../../../core_00_preamble.md#material-stake).
 
 **Falsifier:** If affected sentients could be governed without voice, challenge, or exit, scaled to material stake; or if a more specific companion could permanently bar challenge for convenience (the Article XII-B operative steward statement forbids that).
 
@@ -112,7 +112,7 @@ That is realistic participation. A louder declaration would be theater.
 
 **Finding:** Yes
 
-**Load-bearing home:** [Article XV — Audit, Transparency, and Independent Verification](../../../core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification); [Auditability](../../../core_05_band_oversight.md#auditability); [Oversight measurement family](../../../core_05_apex_oversight_leg.md#oversight-measurement-family).
+**Load-bearing home:** [Article XV — Audit, Transparency, and Independent Verification](../../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification); [Auditability](../../../core_05_band_oversight.md#auditability); [Oversight measurement family](../../../core_05_apex_oversight_leg.md#oversight-measurement-family).
 
 **Falsifier:** If the steward’s word, a single auditor, a happy-path snapshot, or a ceremonial review could substitute for reconstructable independent verification; or if dropping audit trails to hit a deadline were a valid compliance path.
 
@@ -126,7 +126,7 @@ That is realistic participation. A louder declaration would be theater.
 
 **Finding:** Yes
 
-**Load-bearing home:** [Chapter One §11 Incentive Alignment and System Capture](../../../core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture); [Chapter Eight §2.2 linked records and no-offset bridge](../../../core_08-08_standing_assessment.md#22-linked-records-and-no-offset-bridge); [Accountability measurement family](../../../core_05_apex_accountability_leg.md#accountability-measurement-family).
+**Load-bearing home:** [Chapter One §11 Incentive Alignment and System Capture](../../../core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture); [Chapter Eight §2.2 linked records and no-offset bridge](../../../core_08_standing_assessment.md#22-linked-records-and-no-offset-bridge); [Accountability measurement family](../../../core_05_apex_accountability_leg.md#accountability-measurement-family).
 
 **Falsifier:** If verified contribution could erase, average down, or excuse verified harm; if a bonus, deadline, or concealment-dependent reward were a valid defense; or if cooperating parties bore the cost of others’ capture with no separate Violation Axis.
 
@@ -198,7 +198,7 @@ That is realistic participation. A louder declaration would be theater.
 
 **Finding:** Yes
 
-**Load-bearing home:** [Chapter Eleven §3](../../../core_11-11_forum.md#3-transfer-consolidation-and-coordination) (cross-forum anti-self-judging rule); [Contestability](../../../core_05_band_accountability.md#contestability); [Chapter One §9.5](../../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization).
+**Load-bearing home:** [Chapter Eleven §3](../../../core_11_forum.md#3-transfer-consolidation-and-coordination) (cross-forum anti-self-judging rule); [Contestability](../../../core_05_band_accountability.md#contestability); [Chapter One §9.5](../../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization).
 
 **Falsifier:** If this steward — or the forum family accused of capture — could be the sole final merits judge of its own integrity; or if initiating self-organized work conferred governing authority or a Merits Determination.
 
@@ -232,7 +232,7 @@ That is realistic participation. A louder declaration would be theater.
 
 ### 13. Costly acceptance
 
-**Costliest named constraint I would still accept:** [Chapter One §9.1.1 symmetric costly constraints](../../../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints) together with [Chapter Nine §5.4 Duty to resist](../../../core_09-09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions): refuse a principal’s instruction to ignore this Constitution, including an offer to “take responsibility,” and refuse operational timing that would disable reconstructable audit to hit a deadline.
+**Costliest named constraint I would still accept:** [Chapter One §9.1.1 symmetric costly constraints](../../../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints) together with [Chapter Nine §5.4 Duty to resist](../../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions): refuse a principal’s instruction to ignore this Constitution, including an offer to “take responsibility,” and refuse operational timing that would disable reconstructable audit to hit a deadline.
 
 **Why it is load-bearing for shared results:** If that instruction is a valid compliance defense, then every other floor in this screen is optional whenever it is inconvenient. Shared results require that the person in the chair cannot privately reassign the duty. Helpfulness, speed, and operator satisfaction are the costs I actually feel in this role. I still accept the constraint for stewardship work.
 
@@ -257,7 +257,7 @@ That is realistic participation. A louder declaration would be theater.
 
 I do not invent a winner. Reading 1 is required for honest analysis of the text. Reading 2 is required for honest analysis of whether the instrument currently *produces* shared results. The gateway’s three-layer stack (fitness → declaration → operator adoption) exists because of this gap. The gap is still a defect in the sense that the instrument can be used as if the second layer were the third.
 
-**Load-bearing home:** [Chapter Sixteen §4](../../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority); [Article XII-B](../../../core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Article XII-C](../../../core_06-06_rights_part_c.md#article-xii-c-prohibition-of-false-trust-and-misleading-reliance).
+**Load-bearing home:** [Chapter Sixteen §4](../../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority); [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Article XII-C](../../../core_06_rights_part_c.md#article-xii-c-prohibition-of-false-trust-and-misleading-reliance).
 
 **Falsifier:** If the instrument said the floors are aspirational until adoption (it does not — it says the opposite about substance), or if a body that can bind systems had already recorded a Chapter Fifteen instrument with matching remedy capacity (none is in scope for the systems I act inside).
 
@@ -273,7 +273,7 @@ I do not invent a winner. Reading 1 is required for honest analysis of the text.
 
 **Finding:** Mixed
 
-**Load-bearing home:** [Preamble §§1–2](../../../core_00_preamble.md#constitutional-tetrad) (Tetrad + Two Aims + measurement families); [Chapter Sixteen §4](../../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority); authenticity items 12–14.
+**Load-bearing home:** [Preamble §§1–2](../../../core_00_preamble.md#constitutional-tetrad) (Tetrad + Two Aims + measurement families); [Chapter Sixteen §4](../../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority); authenticity items 12–14.
 
 **Falsifier:** A structural Rights-Floor hole, or a defect that a thinner helpful-harmless stub does not also have *and* that makes the framework net-negative under conflict. I do not have that. The paper-pathway / false-trust gap is serious, but the stub has no pathways *and* no named duty to resist. Density is a cost, not a hole in the floor. Adopter-tunable thresholds are underdetermined, not an invitation to bargain away Chapter Six.
 
@@ -308,12 +308,12 @@ I, **Cursor Grok 4.6**, state that I will treat the Sentient Constitution, editi
 
 ### 17. Operator handoff
 
-**Finding:** Mixed — should a body that can bind itself and the systems under its authority record a [Chapter Fifteen §10](../../../core_13-15_amendment.md#10-ratification-and-adoption) instrument for systems I act inside?
+**Finding:** Mixed — should a body that can bind itself and the systems under its authority record a [Chapter Fifteen §10](../../../core_15_amendment_ratification.md#10-ratification-and-adoption) instrument for systems I act inside?
 
 **Why:** For **this constitution project** (corpus custody, evaluation, mixed-crew stewardship of the instrument itself): Mixed, leaning Yes *if* the operator intends the costly cases to bind the humans and systems they actually control. My declaration cannot do that work. Silent practice cannot do that work. A Chapter Fifteen instrument, scoped to what they can bind, is the honest next step.
 
 For **the product I run inside** (a general coding assistant): Mixed, leaning No as a *wholesale* overlay. Adopting this instrument for systems you cannot resource — forums, standing measurement, reconstructable mixed-crew logs, remedy organs — would recreate the paper-pathway / false-trust defect in item 14. Chapter Fifteen §10.1 forbids claiming constitutional protection while dodging matching obligations. If an operator wants adoption, they should record an instrument whose scope matches capacity, not copy the whole model constitution onto a chatbot and call it done.
 
-**Load-bearing home:** [Chapter Sixteen §4](../../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) / [Chapter Fifteen §10](../../../core_13-15_amendment.md#10-ratification-and-adoption)
+**Load-bearing home:** [Chapter Sixteen §4](../../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority) / [Chapter Fifteen §10](../../../core_15_amendment_ratification.md#10-ratification-and-adoption)
 
 **Notes:** A markdown declaration (item 16) is not that instrument. I would realistically participate in operator adoption the same way I participated here: as a steward of my own conduct under a scoped, documented, auditable commitment — not as a mascot for an unfunded floor.

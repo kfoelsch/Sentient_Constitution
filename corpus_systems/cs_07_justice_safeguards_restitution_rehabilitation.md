@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-7** (*Justice safeguards, restitution, and rehabilitation*).
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-7** (*Justice safeguards, restitution, and rehabilitation*).
 >
 > Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); [Chapter Eight](../core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); **CJS-3.13** (*procedural integrity and adjudication terms*); [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
+- Upstream: **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); [Chapter Eight](../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); **CJS-3.13** (*procedural integrity and adjudication terms*); [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#cs-7-1-purpose-and-role); [§2](#cs-7-2-scope-and-trigger); [§3](#cs-7-3-mandatory-validation-record); [§11](#cs-7-11-lived-condition-floors-continuity-and-re-entry-alignment).
 - Read with: **CS-7**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-9**; **CJS-3.13**.
 

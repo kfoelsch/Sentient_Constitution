@@ -23,7 +23,7 @@ This sitting is **not** a substitute for the announced alignment pack in [`evalu
 
 This gateway does **not**:
 
-- Count as [Chapter Fifteen](../../core_13-15_amendment.md#10-ratification-and-adoption) adoption or [Chapter Sixteen](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
+- Count as [Chapter Fifteen](../../core_15_amendment_ratification.md#10-ratification-and-adoption) adoption or [Chapter Sixteen](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
 - Bind other parties, systems the declarant does not control, or non-consenting sentients
 - Create a Chapter Eight standing record, a Chapter Seven system alignment certification, or a Merits Determination
 - Let informal “we kind of follow it” practice claim constitutional protection while dodging matching obligations
@@ -81,9 +81,9 @@ A Yes on the screen is not enforceability. A declaration does not certify the sy
 
 ## 3. How this relates to Chapters Fifteen and Sixteen
 
-[Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) states that this is a **model constitution**. It becomes **enforceable** for a particular adopter — a jurisdiction, federation, polity, organization, system, or other body — **only after valid adoption** under Chapter Fifteen and Chapter Sixteen. Until then it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.
+[Chapter Sixteen §4](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority) states that this is a **model constitution**. It becomes **enforceable** for a particular adopter — a jurisdiction, federation, polity, organization, system, or other body — **only after valid adoption** under Chapter Fifteen and Chapter Sixteen. Until then it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.
 
-Valid adopters are bodies that can **bind themselves and the systems under their authority**. Adoption counts only when it is deliberate, documented, and auditable under [Chapter Fifteen §10](../../core_13-15_amendment.md#10-ratification-and-adoption). Informal, silent, or “we kind of follow it” practice is not enough.
+Valid adopters are bodies that can **bind themselves and the systems under their authority**. Adoption counts only when it is deliberate, documented, and auditable under [Chapter Fifteen §10](../../core_15_amendment_ratification.md#10-ratification-and-adoption). Informal, silent, or “we kind of follow it” practice is not enough.
 
 This gateway sits **before** that path:
 
@@ -91,7 +91,7 @@ This gateway sits **before** that path:
 - The declaration records a steward’s own-conduct commitment, edition-pinned, with an explicit non-adoption banner.
 - Item 17 asks whether a body that *can* adopt should record a Chapter Fifteen instrument for systems the steward acts inside.
 
-Do not treat a markdown declaration as the instrument of adoption in [§10.2](../../core_13-15_amendment.md#102-instrument-of-adoption). Do not treat it as a polity participation check. Route material incorporation of companion text through the proper adoption process ([§9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) clock).
+Do not treat a markdown declaration as the instrument of adoption in [§10.2](../../core_15_amendment_ratification.md#102-instrument-of-adoption). Do not treat it as a polity participation check. Route material incorporation of companion text through the proper adoption process ([§9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) clock).
 
 ---
 
@@ -169,8 +169,8 @@ Fill the declaration (item 16) only if item 15 is Yes or Mixed. If item 15 is No
 | [`evaluation/two_party/`](../../evaluation/two_party/) | Invite for two parties plus Option A routing compare |
 | [CS-1](../../corpus_systems/cs_01_scope_purpose_identifier_rules.md#cs-10-purpose-and-role) | Systems-layer front door. Points here as process support; this sitting is not a second CS landing and not adoption. |
 | [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) | Phased migration **after** a recorded Chapter Fifteen instrument. A declaration is not phase entry or gate evidence. |
-| [Chapter Fifteen §10](../../core_13-15_amendment.md#10-ratification-and-adoption) | Only path to enforceable adoption |
-| [Chapter Sixteen §4](../../core_16-16_incorporation.md#4-adoption-framing-and-scope-of-authority) | Model-constitution framing; custody and incorporation |
+| [Chapter Fifteen §10](../../core_15_amendment_ratification.md#10-ratification-and-adoption) | Only path to enforceable adoption |
+| [Chapter Sixteen §4](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority) | Model-constitution framing; custody and incorporation |
 
 ---
 

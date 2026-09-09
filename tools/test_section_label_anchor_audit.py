@@ -60,7 +60,7 @@ class SectionLabelAnchorTests(unittest.TestCase):
     def test_missing_alias_is_reported(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
-            (root / "core_09-09_standing_integration.md").write_text(
+            (root / "core_09_standing_integration.md").write_text(
                 "<a id=\"54-special-violation-rules\"></a>\n"
                 "#### 5.4 Special violation rules\n\n"
                 "<a id=\"411-duty-to-resist-unlawful-or-unconstitutional-instructions\"></a>\n"
@@ -70,7 +70,7 @@ class SectionLabelAnchorTests(unittest.TestCase):
             citing = root / "core_01_c_stewardship_capacity_principles.md"
             citing.write_text(
                 "[Chapter Nine §5.4 Duty to resist]"
-                "(core_09-09_standing_integration.md"
+                "(core_09_standing_integration.md"
                 "#411-duty-to-resist-unlawful-or-unconstitutional-instructions)\n",
                 encoding="utf-8",
             )
@@ -84,7 +84,7 @@ class SectionLabelAnchorTests(unittest.TestCase):
     def test_current_numbering_id_satisfies_section_label(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
-            (root / "core_09-09_standing_integration.md").write_text(
+            (root / "core_09_standing_integration.md").write_text(
                 "<a id=\"54-special-violation-rules\"></a>\n"
                 "#### 5.4 Special violation rules\n\n"
                 "<a id=\"54-duty-to-resist-unlawful-or-unconstitutional-instructions\"></a>\n"
@@ -93,7 +93,7 @@ class SectionLabelAnchorTests(unittest.TestCase):
             )
             (root / "core_01_c_stewardship_capacity_principles.md").write_text(
                 "[Chapter Nine §5.4 Duty to resist]"
-                "(core_09-09_standing_integration.md"
+                "(core_09_standing_integration.md"
                 "#54-duty-to-resist-unlawful-or-unconstitutional-instructions)\n",
                 encoding="utf-8",
             )

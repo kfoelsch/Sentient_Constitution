@@ -14,18 +14,18 @@
 ## Current Chapter Map
 
 - **Ch 1:** [core_00_preamble.md](core_00_preamble.md), [core_01_a_values_principles.md](core_01_a_values_principles.md) (Part A), [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Part B), and [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (Part C)
-- **Ch 2–3:** [core_02-03_definition_mechanics.md](core_02-03_definition_mechanics.md)
-- **Ch 4:** [core_04-04_burden_traceability_verification.md](core_04-04_burden_traceability_verification.md)
+- **Ch 2–3:** [core_02_definition_structure.md](core_02_definition_structure.md)
+- **Ch 4:** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
 - **Ch 5:** Part A compass — [core_05__definitions_home.md](core_05__definitions_home.md); band files — [core_05_band_oversight.md](core_05_band_oversight.md), [core_05_band_participation.md](core_05_band_participation.md), [core_05_band_accountability.md](core_05_band_accountability.md), [core_05_band_continuity.md](core_05_band_continuity.md), [core_05_band_integrative.md](core_05_band_integrative.md) (retired Part B/C → [archive/core_ch5_retired/](archive/core_ch5_retired/README.md))
-- **Ch 6:** [core_06-06_rights_part_a.md](core_06-06_rights_part_a.md) through [core_06-06_rights_part_d.md](core_06-06_rights_part_d.md)
+- **Ch 6:** [core_06_rights_part_a.md](core_06_rights_part_a.md) through [core_06_rights_part_d.md](core_06_rights_part_d.md)
 - **Ch 7:** [core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
-- **Ch 8:** [core_08-08_standing_assessment.md](core_08-08_standing_assessment.md)
-- **Ch 9:** [core_09-09_standing_integration.md](core_09-09_standing_integration.md)
+- **Ch 8:** [core_08_standing_assessment.md](core_08_standing_assessment.md)
+- **Ch 9:** [core_09_standing_integration.md](core_09_standing_integration.md)
 - **Ch 10:** Part A [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md); Part B [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md)
-- **Ch 11:** [core_11-11_forum.md](core_11-11_forum.md)
-- **Ch 12:** [core_12-12_governance.md](core_12-12_governance.md)
-- **Ch 13–15:** [core_13-15_amendment.md](core_13-15_amendment.md)
-- **Ch 16:** [core_16-16_incorporation.md](core_16-16_incorporation.md)
+- **Ch 11:** [core_11_forum.md](core_11_forum.md)
+- **Ch 12:** [core_12_governance.md](core_12_governance.md)
+- **Ch 13–15:** [core_13_non_regression.md](core_13_non_regression.md)
+- **Ch 16:** [core_16_incorporation.md](core_16_incorporation.md)
 - **Companion corpus:** [corpus_joint_structure.md](corpus_joint_structure.md) (`corpus_joint_structure/`), [corpus_systems.md](corpus_systems.md) (`corpus_systems/`), [corpus_institutions.md](corpus_institutions.md) (`corpus_institutions/`), [corpus_forum.md](corpus_forum.md) (`corpus_forum/`)
 
 ## Open Backlog

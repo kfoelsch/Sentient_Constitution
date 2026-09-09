@@ -2,7 +2,7 @@
 
 **If you found this repository:** start at [START_HERE.md](START_HERE.md). Asking where it would actually fit: [FIT_SITUATIONS.md](implementation/adoption/FIT_SITUATIONS.md).
 
-**Status:** **Pre-release** (`SC-Corpus-2026.08.09`). Opening this repository is not [Chapter Fifteen §10](core_13-15_amendment.md#10-ratification-and-adoption) adoption. License: [CC BY 4.0](LICENSE).
+**Status:** **Pre-release** (`SC-Corpus-2026.08.09`). Opening this repository is not [Chapter Fifteen §10](core_15_amendment_ratification.md#10-ratification-and-adoption) adoption. License: [CC BY 4.0](LICENSE).
 
 **Core vs operational text.** Numbered `core_*` files (the Preamble and Chapters One through Sixteen) are the binding constitutional source and are in **much better shape**. Operational text outside those files — companion implementation and process-support pages — is **not yet mature**. Core meaning controls. Do not treat operational files as a finished operator manual.
 
@@ -22,7 +22,7 @@ Operative constitutional text for the **Sentient Constitution** lives in the num
 | **Effective date** | 2026-08-09 |
 | **Status** | **Pre-release.** Working text after the 2026-08-09 publication stamp; not yet a new cut. Fragment identifiers match current headings only — do not keep legacy or fossil anchors for retired fragments. |
 
-Custody and binding scope: [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) and [Chapter Sixteen](core_16-16_incorporation.md). Bump the edition label only on a deliberate corpus publication cut.
+Custody and binding scope: [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) and [Chapter Sixteen](core_16_incorporation.md). Bump the edition label only on a deliberate corpus publication cut.
 
 ## How to read
 
@@ -52,8 +52,9 @@ The corpus is written in plain language with low jargon to improve accessibility
 
 ### Definition mechanics and definitions
 
-- **Chapters Two and Three** (structure and integrity) — [`core_02-03_definition_mechanics.md`](core_02-03_definition_mechanics.md)
-- **Chapter Four** (burden, traceability, verification) — [`core_04-04_burden_traceability_verification.md`](core_04-04_burden_traceability_verification.md)
+- **Chapter Two** (definition structure and component alignment) — [`core_02_definition_structure.md`](core_02_definition_structure.md)
+- **Chapter Three** (definition integrity, evasion, and non-compliance) — [`core_03_definition_integrity.md`](core_03_definition_integrity.md)
+- **Chapter Four** (burden, traceability, verification) — [`core_04_burden_traceability_verification.md`](core_04_burden_traceability_verification.md)
 - **Chapter Five** (foundational definitions)
   - Part A — compass, reader guidance, directory, dependent-cluster meta rules — [`core_05__definitions_home.md`](core_05__definitions_home.md)
   - Accountability leg — [`core_05_apex_accountability_leg.md`](core_05_apex_accountability_leg.md)
@@ -74,29 +75,28 @@ The corpus is written in plain language with low jargon to improve accessibility
 - **Chapter Seven** — system alignment certification before standing
   - Part A — evaluation (§1–§10) — [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md)
   - Part B — record and process (§11–§16) — [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md)
-  - Reading index — [`core_07-07_system_alignment_certification.md`](core_07-07_system_alignment_certification.md)
-- **Chapter Eight** — Questions 1 and 2: verified standing records and Contribution Axis / Violation Axis measurement — [`core_08-08_standing_assessment.md`](core_08-08_standing_assessment.md)
-- **Chapter Nine** — Question 3: integration, effects, restoration, and enforcement — [`core_09-09_standing_integration.md`](core_09-09_standing_integration.md)
+  - Reading index — [`core_07_system_alignment_certification.md`](core_07_system_alignment_certification.md)
+- **Chapter Eight** — Questions 1 and 2: verified standing records and Contribution Axis / Violation Axis measurement — [`core_08_standing_assessment.md`](core_08_standing_assessment.md)
+- **Chapter Nine** — Question 3: integration, effects, restoration, and enforcement — [`core_09_standing_integration.md`](core_09_standing_integration.md)
 - **Chapter Ten** — designation only — Part A [`core_10_a_misconduct_designation.md`](core_10_a_misconduct_designation.md); Part B [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md)
-- **Chapter Eleven** — forum families, jurisdiction, supervision, and cross-forum anti-self-judging — [`core_11-11_forum.md`](core_11-11_forum.md)
+- **Chapter Eleven** — forum families, jurisdiction, supervision, and cross-forum anti-self-judging — [`core_11_forum.md`](core_11_forum.md)
 - **Chapters Eight–Eleven application vignettes** — illustrative walkthroughs; they do not add, remove, or narrow binding obligations — [`core_08-11_application_vignettes.md`](core_08-11_application_vignettes.md)
 
 ### Rights Floor
 
 - **Chapter Six** (Articles I–XXVI in Parts A–D)
-  - Part A — Articles I–IV — [`core_06-06_rights_part_a.md`](core_06-06_rights_part_a.md)
-  - Part B — Articles V–XI — [`core_06-06_rights_part_b.md`](core_06-06_rights_part_b.md)
-  - Part C — Articles XII–XXI — [`core_06-06_rights_part_c.md`](core_06-06_rights_part_c.md)
-  - Part D — Articles XXII–XXVI (transition and re-baselining in **Article XXVI**) — [`core_06-06_rights_part_d.md`](core_06-06_rights_part_d.md)
+  - Part A — Articles I–IV — [`core_06_rights_part_a.md`](core_06_rights_part_a.md)
+  - Part B — Articles V–XI — [`core_06_rights_part_b.md`](core_06_rights_part_b.md)
+  - Part C — Articles XII–XXI — [`core_06_rights_part_c.md`](core_06_rights_part_c.md)
+  - Part D — Articles XXII–XXVI (transition and re-baselining in **Article XXVI**) — [`core_06_rights_part_d.md`](core_06_rights_part_d.md)
 
 ### Governance, amendment, and incorporation
 
-- **Chapter Twelve** — constitutional contract, legitimacy, authorization, stewardship — [`core_12-12_governance.md`](core_12-12_governance.md)
-- **Chapters Thirteen through Fifteen** — [`core_13-15_amendment.md`](core_13-15_amendment.md)
-  - **Chapter Thirteen** — non-regression and substantive amendment validity (Test 1)
-  - **Chapter Fourteen** — expansion of protection, supremacy, external legal orders (including non-displacement of applicable law)
-  - **Chapter Fifteen** — ratification, adoption, procedural validity (Tests 2–4)
-- **Chapter Sixteen** — incorporation bridge (adoption, custody, no silent drift) — [`core_16-16_incorporation.md`](core_16-16_incorporation.md)
+- **Chapter Twelve** — constitutional contract, legitimacy, authorization, stewardship — [`core_12_governance.md`](core_12_governance.md)
+- **Chapter Thirteen** — non-regression and substantive amendment validity (Test 1) — [`core_13_non_regression.md`](core_13_non_regression.md)
+- **Chapter Fourteen** — expansion of protection, supremacy, external legal orders (including non-displacement of applicable law) — [`core_14_expansion_supremacy.md`](core_14_expansion_supremacy.md)
+- **Chapter Fifteen** — ratification, adoption, procedural validity (Tests 2–4) — [`core_15_amendment_ratification.md`](core_15_amendment_ratification.md)
+- **Chapter Sixteen** — incorporation bridge (adoption, custody, no silent drift) — [`core_16_incorporation.md`](core_16_incorporation.md)
 
 ## Common lookups
 
@@ -106,10 +106,10 @@ The corpus is written in plain language with low jargon to improve accessibility
 - System alignment certification records → **Chapter Seven**
 - Contribution / violation records and measurement (Questions 1 and 2) → **Chapter Eight**
 - Standing integration and effects (Question 3) → **Chapter Nine**
-- Duty to resist unlawful or unconstitutional instructions → **[Chapter Nine §5.4](core_09-09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)**
+- Duty to resist unlawful or unconstitutional instructions → **[Chapter Nine §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)**
 - Remedy systems and enforcement realism → **Chapter Nine §9**; implementation → **CI-27**
 - Anti-constitutional misconduct designation only → **Chapter Ten**
-- Relation to local / national / international law → **[Chapter Fourteen §5](core_13-15_amendment.md#5-relation-to-applicable-external-law)**
+- Relation to local / national / international law → **[Chapter Fourteen §5](core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)**
 
 ## Companion implementation corpus
 
@@ -122,13 +122,13 @@ Designated obligations in these wrappers and their subfile directories are **bin
 - [**corpus_institutions.md**](corpus_institutions.md) — institutional governance, oversight, proportionality-scaled formation, sanctions and dissolution
 - [**corpus_forum.md**](corpus_forum.md) — forum operations; substantive CF text in `corpus_forum/` (panel formation, recusal, review lanes, continuity, emergency adjudication)
 
-[Chapter Sixteen](core_16-16_incorporation.md) is the constitutional incorporation bridge. Operative enforcement within any adopter is contingent on valid adoption under **Chapter Fifteen** (ratification) and **Chapter Sixteen** (incorporation and custody). Substantive content stands as stated in the instrument regardless of adoption; "the instrument lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See Chapter Sixteen **§4** (*Adoption framing and scope of authority*).
+[Chapter Sixteen](core_16_incorporation.md) is the constitutional incorporation bridge. Operative enforcement within any adopter is contingent on valid adoption under **Chapter Fifteen** (ratification) and **Chapter Sixteen** (incorporation and custody). Substantive content stands as stated in the instrument regardless of adoption; "the instrument lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See Chapter Sixteen **§4** (*Adoption framing and scope of authority*).
 
 ## Binding vs support
 
 | Layer | What counts |
 |-------|-------------|
-| **Binding constitutional source** | Numbered `core_*` files ([`core_00_preamble.md`](core_00_preamble.md) through [`core_16-16_incorporation.md`](core_16-16_incorporation.md)) read as one instrument |
+| **Binding constitutional source** | Numbered `core_*` files ([`core_00_preamble.md`](core_00_preamble.md) through [`core_16_incorporation.md`](core_16_incorporation.md)) read as one instrument |
 | **Binding incorporated implementation** | Designated obligations in the companion wrappers and linked subfiles above, within valid adoption scope |
 | **Process / map support** | This README, the editor map [doc_architecture.md](doc_architecture.md), regression and evidence artifacts, and implementation notes unless explicitly adopted |
 
@@ -157,7 +157,7 @@ The Sentient Constitution was written by **Karl Ernst** in collaboration with ma
 
 Two earlier projects by Karl Ernst sit alongside this Constitution. They are **context for readers and contributors, not part of the Corpus**: nothing in them is binding here, and nothing here depends on them.
 
-- **[The Steward Network](https://stewardnetwork.org)** (stewardnetwork.org) — a decentralized project on the existential risks facing both humanity and AI (climate change, ecological decay, AI and cyberinsecurity, weapons of mass destruction, pandemics, black-swan events, and their cascading interactions), paired with the declining societal capacities needed to respond to them (mental health and collective wellbeing, social trust, governance and institutional capacity, information quality, and strategic literacy). It proposes grassroots **Steward Scouts** and a networked coordination body operating under transparent, participatory principles, and treats AI as both a primary risk and a tool to be developed only inside a robust governance framework. Readers working with Chapter Five [Existential Risk](core_05_band_continuity.md#existential-risk), [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), or the [Continuity](core_05_apex_continuity_aim.md) aim will recognize the same problem space; this Constitution is the governance instrument for systems that materially affect sentients, while the Steward Network is a civic and analytical effort to build the capacity to face those risks.
+- **[The Steward Network](https://stewardnetwork.org)** (stewardnetwork.org) — a decentralized project on the existential risks facing both humanity and AI (climate change, ecological decay, AI and cyberinsecurity, weapons of mass destruction, pandemics, black-swan events, and their cascading interactions), paired with the declining societal capacities needed to respond to them (mental health and collective wellbeing, social trust, governance and institutional capacity, information quality, and strategic literacy). It proposes grassroots **Steward Scouts** and a networked coordination body operating under transparent, participatory principles, and treats AI as both a primary risk and a tool to be developed only inside a robust governance framework. Readers working with Chapter Five [Existential Risk](core_05_band_continuity.md#existential-risk), [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), or the [Continuity](core_05_apex_continuity_aim.md) aim will recognize the same problem space; this Constitution is the governance instrument for systems that materially affect sentients, while the Steward Network is a civic and analytical effort to build the capacity to face those risks.
 - ***Rocking Change*** (*Rocking Change: Changing the World through Changing Ourselves*, 2021, first in the Rocking Change series; available in print and electronic editions from [Amazon](https://www.amazon.com/dp/B09HH9T3PZ) and other retailers; the series website `rockingchange.com` is currently offline and is preserved at the [Internet Archive](https://web.archive.org/web/20250425114143/https://www.rockingchange.com/)) — a trauma-informed guide to the psychological wellbeing of humans, drawing on evolutionary psychology, hypnotherapy, and the author's own recovery from an abusive childhood home. It is the individual-scale counterpart to what this Constitution treats at system scale under [Wellbeing](core_05_band_continuity.md#wellbeing), [Psychological Harm](core_05_band_accountability.md#psychological-harm), and the [Flourishing](core_05_apex_flourishing_aim.md) aim: the same conviction that durable change in the world starts from repaired human capacity.
 
 Both are useful background on why the Constitution weights **Flourishing** and **Continuity** as it does. Cite them as the author's related work, not as sources of constitutional meaning.

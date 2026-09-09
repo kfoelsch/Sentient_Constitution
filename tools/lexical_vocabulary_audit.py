@@ -13,7 +13,7 @@ from dataclasses import dataclass
 from corpus_paths import binding_corpus_scope
 
 # Enforce **breach**-family ban only where the chapter-six pass has landed; expand as other scoped files are scrubbed.
-_BREACH_FAMILY_SCOPE = frozenset({"core_08-08_standing_assessment.md", "core_09-09_standing_integration.md"})
+_BREACH_FAMILY_SCOPE = frozenset({"core_08_standing_assessment.md", "core_09_standing_integration.md"})
 
 # Standalone word "cloud" / "Cloud" / "CLOUD", including compounds like cloud-native (still banned).
 # Does not match substrings inside unrelated tokens (e.g. "icloud" as one word — no boundary before 'c').

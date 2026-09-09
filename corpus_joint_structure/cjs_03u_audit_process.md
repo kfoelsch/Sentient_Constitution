@@ -6,18 +6,18 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-3.3** / **oDef.3** (*Audit process home*).
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-3.3** (*Audit process home*) / **oDef.3**.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 >
-> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XV**; layer 2 is Chapter Five [Auditability](../core_05_band_oversight.md#auditability). Binding next-step statement: [Operative steward statement (Article XV)](../core_06-06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XV](../core_06-06_rights_part_c.md#audit-three-layers). Do not treat this file, Chapter Seven, or an OP annex as a fifth audit home.
+> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XV**; layer 2 is Chapter Five [Auditability](../core_05_band_oversight.md#auditability). Binding next-step statement: [Operative steward statement (Article XV)](../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XV](../core_06_rights_part_c.md#audit-three-layers). Do not treat this file, Chapter Seven, or an OP annex as a fifth audit home.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this file's **audit process home** (what / why / how / when / sibling modes); machine-facing OP annexes in [cjs_03o_oversight_operations.md](cjs_03o_oversight_operations.md) (**CJS-3.3** auditability terms, **CJS-3.4**, **CJS-3.5**).
 - Read with: **CJS-3.3**; **CJS-3.4**; **CJS-3.5**; **CJS-3.10**.
 - Read with: **Article XV** (*Audit, Transparency, and Independent Verification*) and **Article XV-A** (*Auditability and Observable Evidence*) — Rights Floor; this file owns cross-implementation *how* / *when*
@@ -134,7 +134,7 @@ Audit when any of the following applies (often more than one):
 
 ## Sibling audit modes (owner map)
 
-*In plain terms: auditing shows up in several places — this home coordinates them; it does not swallow their owner files. These modes use the three-layer stack ([picture in Article XV](../core_06-06_rights_part_c.md#audit-three-layers): Article XV floor, Auditability property, this file as how/when). They are not extra homes.*
+*In plain terms: auditing shows up in several places — this home coordinates them; it does not swallow their owner files. These modes use the three-layer stack ([picture in Article XV](../core_06_rights_part_c.md#audit-three-layers): Article XV floor, Auditability property, this file as how/when). They are not extra homes.*
 
 | Mode | Owner (do not restate doctrine here) |
 |---|---|

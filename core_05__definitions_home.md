@@ -407,6 +407,6 @@ Chapter Five definitions are sorted by the [Two Constitutional Aims](../core_00_
 
 ---
 
-**Previous file:** [core_04-04_burden_traceability_verification.md](core_04-04_burden_traceability_verification.md)
+**Previous file:** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
 
 **Next file:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)

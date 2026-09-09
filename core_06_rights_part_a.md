@@ -39,9 +39,9 @@ Chapter Six is the constitutional owner of **Rights Floors** and rights-level in
 - Upstream: Chapters Two through Four; Chapter Five definitions.
 - Downstream: **Parts A through D** of this chapter; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional); [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
 - Downstream: [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums); [§1.2 Layer scope](#12-layer-scope).
-- Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*).
-- Read with: [Article XV](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
-- Read with: [Article XVIII-B](core_06-06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits) (*Contestability and Proportional Restriction Limits*); [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
+- Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights); [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*).
+- Read with: [Article XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
+- Read with: [Article XVIII-B](core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits) (*Contestability and Proportional Restriction Limits*); [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
 </details>
 
@@ -165,7 +165,7 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 - **Preconditions, integrity, and sustainability:** **Environmental Preconditions**, **Ecological Integrity**, and **Sustainability** in Chapter Five are operative under this Article.
   - Life-supporting natural systems hold continuity and integrity interests of their own. Those interests inform interpretation alongside sentient interests.
   - Material harm that violates this Article — judged under **Environmental Preconditions**, **Ecological Integrity**, and **Sustainability** — is non-compliant.
-  - Harm that violates environmental requirements named in the adopter's [instrument of adoption](core_13-15_amendment.md#102-instrument-of-adoption) or in incorporated implementation text within adoption scope is also non-compliant.
+  - Harm that violates environmental requirements named in the adopter's [instrument of adoption](core_15_amendment_ratification.md#102-instrument-of-adoption) or in incorporated implementation text within adoption scope is also non-compliant.
 - **Animal life interaction:** [Animal Life](core_05_band_participation.md#animal-life-constitutional) occupies the welfare-protection domain between **Natural Systems Standing** and the Chapter Six Rights Floor for sentients.
   - It establishes minimum cruelty and welfare floors for animal life under **Sentience Non-Exclusion** where welfare-like harm is materially implicated.
   - It is not a substitute for elevated communicative treatment or sentience-status adjudication where the record materially implicates those questions.
@@ -276,7 +276,7 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
   
   Decision records must openly state uncertainty, assumptions, evidence limits, disagreement, and material gaps.
 - **Present benefit limit:** Present benefit does not justify disproportionate exposure of future sentients, systems critical to ecological recovery, or life-supporting ecological conditions to civilization-scale or survival-critical harm.
-- **Named measures:** Actors seeking authorization, continuation, or expansion under this Article must have named, in the [instrument of adoption](core_13-15_amendment.md#102-instrument-of-adoption) or in incorporated implementation text within adoption scope, reduction, cap, or interruption measures proportionate to the pathway — including harm to the climate system as an [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional) factor. This Article still does not set a numeric target. **Article I-B** (*Ecological Footprint and Transparency*) remains the footprint-attribution subsection and still does not by itself require reduction. Continuation without those named measures while a credible pathway under this Article remains open is non-compliant.
+- **Named measures:** Actors seeking authorization, continuation, or expansion under this Article must have named, in the [instrument of adoption](core_15_amendment_ratification.md#102-instrument-of-adoption) or in incorporated implementation text within adoption scope, reduction, cap, or interruption measures proportionate to the pathway — including harm to the climate system as an [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional) factor. This Article still does not set a numeric target. **Article I-B** (*Ecological Footprint and Transparency*) remains the footprint-attribution subsection and still does not by itself require reduction. Continuation without those named measures while a credible pathway under this Article remains open is non-compliant.
 
 ### Article II: Material Stewardship and Durable-Use Integrity
 
@@ -445,7 +445,7 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Read with: [Article XIX-A](core_06-06_rights_part_c.md#article-xix-a-portability-rights) (*Portability Rights*); [corpus_systems.md](corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) and **CJS-3.18** (*data-retention and lifecycle-integrity terms*); [Chapter One §11.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Chapter Nine §9.1](core_09-09_standing_integration.md#91-remediation-capacity-and-funding) and [§9.4](core_09-09_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- Read with: [Article XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*Portability Rights*); [corpus_systems.md](corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) and **CJS-3.18** (*data-retention and lifecycle-integrity terms*); [Chapter One §11.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Chapter Nine §9.1](core_09_standing_integration.md#91-remediation-capacity-and-funding) and [§9.4](core_09_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -486,7 +486,7 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
   - usable export or handoff of continuity-critical data under the disclosed export paths, preserved through shutdown and migration windows — not merely a discretionary promise to try.
   
   Operators can still be held to constitutional standards when their conduct qualifies as **Negligence** under Chapter Five — including harm that builds up over time because maintenance, support, or continuity duties were neglected.
-- **Successor and formal-structure duties:** Restructuring, sale, receivership, or insolvency does not by itself extinguish the continuity duties stated in this Article. Read with [Chapter One §11.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) and [Chapter Nine §9.1](core_09-09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](core_09-09_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- **Successor and formal-structure duties:** Restructuring, sale, receivership, or insolvency does not by itself extinguish the continuity duties stated in this Article. Read with [Chapter One §11.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) and [Chapter Nine §9.1](core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](core_09_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 *Article neighbors:* **Remediation** for **Article II** (*Material Stewardship and Durable-Use Integrity*) follows the **interpretive hubs** stated at the opening of this chapter (challenge and redress; justice and escalation).
 
@@ -844,4 +844,4 @@ Those requirements protect shared infrastructure and the systems that depend on 
 
 **Previous file:** [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md)
 
-**Next file:** [core_06-06_rights_part_b.md](core_06-06_rights_part_b.md)
+**Next file:** [core_06_rights_part_b.md](core_06_rights_part_b.md)

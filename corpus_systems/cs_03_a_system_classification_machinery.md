@@ -99,7 +99,7 @@ Account for expected and credible worst-case conditions in the system's realisti
 
 Where classification, deployment, or continued operation depends on official constitutional alignment status:
 
-- the [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional) must support **Integrity** forum recognition or revalidation under `core_11-11_forum.md` **Chapter Eleven** and [**CF-7.2**](../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) (*Constitutional alignment recognition and review*)
+- the [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional) must support **Integrity** forum recognition or revalidation under `core_11_forum.md` **Chapter Eleven** and [**CF-7.2**](../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) (*Constitutional alignment recognition and review*)
 - where material ecological exposure exists, it must also support **Environment** forum environmental-alignment component review before final recognition, validation, revalidation, or material release from environmental conditions
 - forum review must be able to inspect the classification rationale, assumptions, evidence, uncertainty, dependency analysis, ecological exposure analysis where material, and monitoring triggers without relying on operator self-description alone
 
@@ -311,7 +311,7 @@ Markets, payment rails, matchers, ranking engines, and other intermediaries stay
 - **Contingent claims and event markets**
   - Systems that match counterparties, pool stakes, or settle payments based on outside events are presumptively material for incentive, capture, manipulation, and stability analysis
   - Constitutional direction: [Chapter One §11.5](../core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets). Stewardship scale: **CS-4 — Critical system stewardship**
-  - Settlement prices or odds alone are **not** enough to settle truth questions under [**Article XIV**](../core_06-06_rights_part_c.md#article-xiv-info-sphere-integrity) (*Info-Sphere Integrity*) and [**Article XV-A**](../core_06-06_rights_part_c.md#article-xv-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*)
+  - Settlement prices or odds alone are **not** enough to settle truth questions under [**Article XIV**](../core_06_rights_part_c.md#article-xiv-info-sphere-integrity) (*Info-Sphere Integrity*) and [**Article XV-A**](../core_06_rights_part_c.md#article-xv-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*)
   - This layer does **not** set licensing, criminal, or tax rules for gambling
 
 <a id="63-scarce-capacity-api-and-traffic-priority-handling"></a>
@@ -358,7 +358,7 @@ The following are **certification defects** under Chapter Seven §2 and **[Part 
 - keeping a stale class after conditions change
 - failure to reassess when [§3.5](#35-reclassification-requirement) triggers fire
 
-Where the facts support it, those defects may also supply verified input toward adverse standing findings in [Chapter Eight](../core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
+Where the facts support it, those defects may also supply verified input toward adverse standing findings in [Chapter Eight](../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
 
 This section owns what operators must **do with** the System Classification Record between and during those certification cycles:
 

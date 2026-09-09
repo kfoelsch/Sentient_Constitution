@@ -543,7 +543,7 @@ def run_impl_non_redefinition(
     count = 0
     ch5_terms_sorted = sorted(ch5_lookup.keys(), key=len, reverse=True)
     for rel in binding_corpus_scope(root):
-        if rel in CH5_OWNERS or rel.startswith("core_02-03") or rel.startswith("core_04-04"):
+        if rel in CH5_OWNERS or rel.startswith("core_02_") or rel.startswith("core_03_") or rel.startswith("core_04_"):
             continue
         path = root / rel
         if not path.is_file() or not any(rel.startswith(d) for d in IMPL_DIRS):

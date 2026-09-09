@@ -12,7 +12,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CH06 = ROOT / "core_08-08_standing_assessment.md"
+CH06 = ROOT / "core_08_standing_assessment.md"
 
 SECTION_4_START = "<a id=\"32-constitutional-outcome-baseline-for-slots\"></a>"
 CONTINUATION = "\n\n---\n\n**Continuation.**"
@@ -91,7 +91,7 @@ Each row ties verified constitutional loss to the [Constitutional Triad](core_00
 | Degraded Safety, Truth, or auditability | Concealment, misinformation, broken records, inaccessible challenge paths, or unreviewable aggregation | **Oversight**, **Accountability** | **Flourishing**, **Continuity** |
 | System capture or dependency abuse | Structural enablement, dependency-asymmetry abuse, anti-evasion design, or capture of accountability pathways | **Accountability**, **Participation** | **Continuity**, **Flourishing** |
 
-The claimed violation severity counts only to the extent it rests on verified violation findings that remain traceable, bounded, auditable, and contestable under **Chapters Two through Four**. Allegations, provisional tags, forum-phase narratives, and intake-only labels may support routing and triage under [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction). They do not supply **violation nature** for standing unless they produce auditable, contestable findings. Positive contribution does not offset, average down, excuse, cure, or relabel adverse findings.
+The claimed violation severity counts only to the extent it rests on verified violation findings that remain traceable, bounded, auditable, and contestable under **Chapters Two through Four**. Allegations, provisional tags, forum-phase narratives, and intake-only labels may support routing and triage under [Chapter Eleven](core_11_forum.md#chapter-eleven-forums-and-jurisdiction). They do not supply **violation nature** for standing unless they produce auditable, contestable findings. Positive contribution does not offset, average down, excuse, cure, or relabel adverse findings.
 
 **How slots map to LEQU scale on the violation side:**
 
@@ -172,8 +172,8 @@ Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed su
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#2-standing-records) (*standing records, verified-input gate, and no-offset bridge*); [§11](#31-slot-grammar-and-display-labels) (*slot grammar and display labels*); [Chapter One §8.2](#42-lequ-violation-calibration) (*violation LEQU calibration*); [Chapter One §8.1](#51-contribution-axis-bands-and-table-2) (*Contribution Axis rules and **Table 2***); [Chapter Nine §3.9](core_09-09_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*).
-- Downstream: [Chapter Nine §3](core_09-09_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character, hybrid, and duty material*); [Chapter Nine §4](core_09-09_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and no-netting mechanics*); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*final Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct assignment*).
+- Upstream: [§3](#2-standing-records) (*standing records, verified-input gate, and no-offset bridge*); [§11](#31-slot-grammar-and-display-labels) (*slot grammar and display labels*); [Chapter One §8.2](#42-lequ-violation-calibration) (*violation LEQU calibration*); [Chapter One §8.1](#51-contribution-axis-bands-and-table-2) (*Contribution Axis rules and **Table 2***); [Chapter Nine §3.9](core_09_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*).
+- Downstream: [Chapter Nine §3](core_09_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character, hybrid, and duty material*); [Chapter Nine §4](core_09_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and no-netting mechanics*); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*final Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct assignment*).
 - Read with: [Supremacy and Enforceability](core_05_band_integrative.md#supremacy-and-enforceability), [Constitutional Constraint Violation](core_05_band_integrative.md#constitutional-constraint-violation), [Harm](core_05_band_accountability.md#harm), and [Materiality Determination](core_05_band_oversight.md#materiality-determination).
 - Triad leg(s): **accountability**. Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies to severity and verification burden.
 
@@ -250,12 +250,12 @@ CH5SEC_GUARD = "\u0001CH5SEC\u0001"
 def guard_other_chapters(text: str) -> str:
     """Temporarily mask Chapter Eight §6 refs that collide with other chapters' §6."""
     text = re.sub(
-        r"(\[Chapter Nine §6\]\(core_09-09_standing_integration\.md#[^)]+\))",
+        r"(\[Chapter Nine §6\]\(core_09_standing_integration\.md#[^)]+\))",
         CH7_GUARD + r"\1" + CH7_GUARD,
         text,
     )
     text = re.sub(
-        r"(\[Chapter Eight §6\]\(core_09-09_standing_integration\.md#[^)]+\))",
+        r"(\[Chapter Eight §6\]\(core_09_standing_integration\.md#[^)]+\))",
         CH7_GUARD + r"\1" + CH7_GUARD,
         text,
     )
@@ -325,7 +325,7 @@ CORPUS_REPLACEMENTS = [
     ("Chapter Eight — section 5", "Chapter Eight — section 5.1"),
     ("Chapter Eight — section 6", "Chapter Eight — section 5.2"),
     ("Chapter Eight §5", "Chapter Eight Chapter One §8.1"),
-    ("[§5](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[Chapter One §6.2](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
+    ("[§5](core_08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[Chapter One §6.2](core_08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
     ("sections 5 and 6", "sections 5.1 and 5.2"),
     ("**sections 5 and 6**", "**sections 5.1 and 5.2**"),
     ("section 6 severity", "section 5.2 severity"),
@@ -347,7 +347,7 @@ CORPUS_REPLACEMENTS = [
     ("in section 5", "in section 5.1"),
     ("in **section 5**", "in **section 5.1**"),
     ("**section 5**", "**section 5.1**"),
-    ("§5](core_08-08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)", "Chapter One §8.1](core_08-08_standing_assessment.md#51-contribution-axis-bands-and-table-2)"),
+    ("§5](core_08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)", "Chapter One §8.1](core_08_standing_assessment.md#51-contribution-axis-bands-and-table-2)"),
     ("primary slot defaults", "primary category defaults"),
     ("the Chapter Eight **section 6** severity ladder", "the Chapter Eight **section 5.2** severity ladder"),
     ("Chapter Eight **section 6** severity ladder", "Chapter Eight **section 5.2** severity ladder"),

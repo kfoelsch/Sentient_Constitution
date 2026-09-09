@@ -4,7 +4,7 @@
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CH06 = ROOT / "core_08-08_standing_assessment.md"
+CH06 = ROOT / "core_08_standing_assessment.md"
 
 ANCHOR_REMAP = {
     "22-standing-record-operational-requirements": "23-standing-record-operational-requirements",

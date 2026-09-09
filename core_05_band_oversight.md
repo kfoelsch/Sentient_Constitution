@@ -172,7 +172,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
     - source protection;
     - investigation; and
     - publication.
-    Sentients doing that work exercise the [Expression](core_05_band_participation.md#expression-constitutional) and [Assembly](core_05_band_participation.md#assembly-constitutional) Rights-Floor, with heightened-scrutiny protection under [Article V-H](core_06-06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [Expression](core_05_band_participation.md#expression-constitutional) and [Assembly](core_05_band_participation.md#assembly-constitutional) Rights-Floor, with heightened-scrutiny protection under [Article V-H](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
   - **Out of scope:** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **How to measure and assess**
@@ -853,8 +853,8 @@ See **Joint invocation and satisfaction**.
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Verifiability](core_05_band_oversight.md#verifiability), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [Evaluation Completeness Constraint](core_05_band_oversight.md#evaluation-completeness-constraint).
-- Read with: **Article XV** (*Audit, Transparency, and Independent Verification*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02-03_definition_mechanics.md](core_02-03_definition_mechanics.md) Chapters Two through Four.
-- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XV)](core_06-06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XV](core_06-06_rights_part_c.md#audit-three-layers).
+- Read with: **Article XV** (*Audit, Transparency, and Independent Verification*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
+- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XV)](core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XV](core_06_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -1047,7 +1047,7 @@ See **Joint invocation and satisfaction**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Owner floor: [Article XV-C](core_06-06_rights_part_c.md#article-xv-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
+- Owner floor: [Article XV-C](core_06_rights_part_c.md#article-xv-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
 - Read with: [Auditability](core_05_band_oversight.md#auditability), [Transparency](core_05_band_oversight.md#transparency), [Contestability](core_05_band_accountability.md#contestability), [Proportionality](core_05_band_accountability.md#proportionality), [Feasibility](core_05_band_accountability.md#feasibility), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
 </details>
@@ -1059,7 +1059,7 @@ See **Joint invocation and satisfaction**.
 - **What it is**
   - **In scope:** Whether system behavior, outputs, and effects can be externally detected, measured, and independently validated for [Auditability](core_05_band_oversight.md#auditability). Constitutive conditions:
     - external detectability before independent validation counts;
-    - practical access ([Article XV-C](core_06-06_rights_part_c.md#article-xv-c-verification-accessibility); [Feasibility](core_05_band_accountability.md#feasibility));
+    - practical access ([Article XV-C](core_06_rights_part_c.md#article-xv-c-verification-accessibility); [Feasibility](core_05_band_accountability.md#feasibility));
     - independence from operator self-assertion;
     - proportionate burden under [Proportionality](core_05_band_accountability.md#proportionality) and [Material Impact](core_05_band_oversight.md#material-impact); and
     - reliability under ordinary stress, misuse, and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1084,7 +1084,7 @@ See **Joint invocation and satisfaction**.
   - **Secondary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether observed behavior can be independently validated by reproducible methods in practice.
 
     **Secondary assessment:** Confirm independent validation by methods that:
-    - affected and appropriately authorized parties can actually perform ([Article XV-C](core_06-06_rights_part_c.md#article-xv-c-verification-accessibility); [Feasibility](core_05_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([Article XV-C](core_06_rights_part_c.md#article-xv-c-verification-accessibility); [Feasibility](core_05_band_accountability.md#feasibility));
     - rest on externally detectable evidence — not internal claims or inferred intent;
     - are sized to system impact under [Proportionality](core_05_band_accountability.md#proportionality) and [Material Impact](core_05_band_oversight.md#material-impact); and
     - remain reliable under ordinary stress, misuse, and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1390,7 +1390,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 - whether evaluation was incomplete in a way that defeats [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Risk](core_05_band_continuity.md#risk) assessment, or [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence).
 Outside that scope, individual entries may still apply on their own without importing the full compound.
 
-Where admission scope is met, this nested sub-block is the joint home for foreseeability mechanics within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([Chapter Two, §3 — Consistency Across the Definition Stack](core_02-03_definition_mechanics.md#3-consistency-across-the-definition-stack)).
+Where admission scope is met, this nested sub-block is the joint home for foreseeability mechanics within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([Chapter Two, §3 — Consistency Across the Definition Stack](core_02_definition_structure.md#3-consistency-across-the-definition-stack)).
 
 **Sub-block members.** This sub-block comprises:
 

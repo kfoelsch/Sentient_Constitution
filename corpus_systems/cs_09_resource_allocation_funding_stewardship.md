@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-9** (*Resource allocation and funding stewardship*).
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-9** (*Resource allocation and funding stewardship*).
 >
 > Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*); **Article IV-B** (*Cross-System Fairness and Sustainability*); [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
+- Upstream: **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*); **Article IV-B** (*Cross-System Fairness and Sustainability*); [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#1-purpose-and-role); [§2](#cs-9-2-principles-of-funding); [§4](#cs-9-4-dependent-systems-map); [§16](#cs-9-16-trigger-definitions).
 - Read with: **CS-9**; **CS-8**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**.
 

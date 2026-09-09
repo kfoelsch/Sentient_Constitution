@@ -14,7 +14,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
-> **Part A** in [core_06-06_rights_part_a.md](core_06-06_rights_part_a.md) carries the chapter-wide default constraint stack, planet-first reading order, and interpretive hubs. **Part B** presents **Articles V–XI** in that order.
+> **Part A** in [core_06_rights_part_a.md](core_06_rights_part_a.md) carries the chapter-wide default constraint stack, planet-first reading order, and interpretive hubs. **Part B** presents **Articles V–XI** in that order.
 
 </details>
 
@@ -26,7 +26,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [core_06-06_rights_part_a.md](core_06-06_rights_part_a.md) §1 (*Purpose and Role*) — chapter-wide default constraint stack and interpretive hubs.
+- Upstream: [core_06_rights_part_a.md](core_06_rights_part_a.md) §1 (*Purpose and Role*) — chapter-wide default constraint stack and interpretive hubs.
 - Upstream: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [material stake](core_00_preamble.md#material-stake).
 - Read with: **Articles I–IV** in Part A — planet-first material, survival, educational-access, and resource-flow floors that Part B rights presume but do not replace.
 
@@ -222,7 +222,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality).
-- Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) anti-capture safeguards, **Chapter Eleven** forums and jurisdiction — default lead [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) / [Technical Forum Domains](core_11-11_forum.md#42-technical-forum-domains) under the [§5 Sentience-status adjudication hook](core_11-11_forum.md#5-escalation-and-certification).
+- Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) anti-capture safeguards, **Chapter Eleven** forums and jurisdiction — default lead [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) / [Technical Forum Domains](core_11_forum.md#42-technical-forum-domains) under the [§5 Sentience-status adjudication hook](core_11_forum.md#5-escalation-and-certification).
 - Read with: Chapter Five *Sentience Status Adjudication*, *Sentience Non-Exclusion*, *Sentience Evaluation*, *Reversibility*, *Contestability*.
 
 </details>
@@ -257,17 +257,17 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 - **Scope and time-bound effect:** Declassification or narrowing determinations must:
   - be stated in the shortest necessary terms;
   - carry a declared expected-closure timeline;
-  - be subject to mandatory periodic review under [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) ([Chapter Eleven §4.2 Technical Forum Domains](core_11-11_forum.md#42-technical-forum-domains)) and **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) anti-capture safeguards.
+  - be subject to mandatory periodic review under [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) ([Chapter Eleven §4.2 Technical Forum Domains](core_11_forum.md#42-technical-forum-domains)) and **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) anti-capture safeguards.
   
   A declassification that is not time-bound and not subject to periodic review is non-compliant.
 - **Reversibility and remedy:** A determination later shown to have been wrongful, under- or mis-evidenced, or captured by **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) or **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) vectors must be reversible.
   - The entity's Chapter Six rights must be restored, with **Chapter Five** (**Redress and Remediation**) applied to the interim period.
 - **Non-conflation:** This Article states the Rights-Floor *adjudication* right.
-  - Operational procedure — institutional design, appointment mechanics, filing conditions, and sequencing — routes to **Chapter Eleven** ([Technical Forum Domains](core_11-11_forum.md#42-technical-forum-domains) as default lead under the [§5 Sentience-status adjudication hook](core_11-11_forum.md#5-escalation-and-certification)) and to implementation text under the **Chapter Sixteen** incorporation discipline.
+  - Operational procedure — institutional design, appointment mechanics, filing conditions, and sequencing — routes to **Chapter Eleven** ([Technical Forum Domains](core_11_forum.md#42-technical-forum-domains) as default lead under the [§5 Sentience-status adjudication hook](core_11_forum.md#5-escalation-and-certification)) and to implementation text under the **Chapter Sixteen** incorporation discipline.
   - That implementation text must not be read to narrow this floor.
 
 <a id="anti-substitution-sentience-status"></a>
-> **Anti-substitution (operative).** A certification badge, LEQU score, substrate label, or product classification is **not** a sentience-status determination. Who-counts routes through this Article, [**Def.P1**](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), and [Chapter Eleven §5](core_11-11_forum.md#5-escalation-and-certification) — not through System Alignment Certification, standing scores, or operational labels. Read with [Article XVIII-A](core_06-06_rights_part_c.md#article-xviii-a-standing-distinction).
+> **Anti-substitution (operative).** A certification badge, LEQU score, substrate label, or product classification is **not** a sentience-status determination. Who-counts routes through this Article, [**Def.P1**](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), and [Chapter Eleven §5](core_11_forum.md#5-escalation-and-certification) — not through System Alignment Certification, standing scores, or operational labels. Read with [Article XVIII-A](core_06_rights_part_c.md#article-xviii-a-standing-distinction).
 
 #### Article V-F: Developing Sentients, Best-Interest, and Graduated Capability
 
@@ -1203,7 +1203,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Independent audit and challenge:** Stakeholder agency, status, and participation rights must not be defined or restricted solely by the systems to which they apply. They remain subject to independent audit and challenge under adopted implementation text.
 - **Entitlement:** **Sentients** have the right to participate in **governance voting** and comparable legitimacy-mechanism **binding collective choice** on the terms stated in **Chapter Twelve**, section 4 — *Voting and Binding Collective Choice Protocols*, subsection **4.1 — Entitlement and eligibility**.
   - That entitlement remains open under published eligibility criteria unless an applicable [Standing Lock](core_05_band_accountability.md#standing-lock) blocks the **governance-voting** pathway under **Article XVIII-A** (*Standing Distinction*) and **Article XVIII-C** (*Pathway Eligibility, Responsibility, and Continuous Audit*).
-  - That entitlement is distinct from stake-weighted [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight) inside an already-authorized system. Suspending or limiting stake-weighted stakeholder voice requires a **stakeholder-participation** lock — including the **Stakeholder-Participation Standing Lock** under [Chapter Nine §5.5](core_09-09_standing_integration.md#55-special-locks) where its trigger is met — not a **governance-voting** lock by itself.
+  - That entitlement is distinct from stake-weighted [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight) inside an already-authorized system. Suspending or limiting stake-weighted stakeholder voice requires a **stakeholder-participation** lock — including the **Stakeholder-Participation Standing Lock** under [Chapter Nine §5.5](core_09_standing_integration.md#55-special-locks) where its trigger is met — not a **governance-voting** lock by itself.
   - It operates together with the adopter's **documented legitimacy mechanism** and any designated owner-layer criteria that do not narrow those constitutional limits.
 - **Political-equality floor for foundational constitutional choice:** Participation in **Foundational Constitutional Choice** — as defined in **Chapter Five**, covering decisions about who holds governing authority, what the legitimacy mechanism is, and what the scope and durable terms of that authority are — is governed by a **political-equality floor**.
   - Within the community entitled to participate, each sentient's participation weight is equal.
@@ -1621,6 +1621,6 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 ---
 
-**Previous file:** [core_06-06_rights_part_a.md](core_06-06_rights_part_a.md)
+**Previous file:** [core_06_rights_part_a.md](core_06_rights_part_a.md)
 
-**Next file:** [core_06-06_rights_part_c.md](core_06-06_rights_part_c.md)
+**Next file:** [core_06_rights_part_c.md](core_06_rights_part_c.md)

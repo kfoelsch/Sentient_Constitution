@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CH06 = ROOT / "core_08-08_standing_assessment.md"
+CH06 = ROOT / "core_08_standing_assessment.md"
 
 # Visible heading / section-number renames (longest match first in application order)
 CH06_HEADINGS = [
@@ -111,9 +111,9 @@ CROSS_FILE = [
     ("**section 3.4** severity typing", "**section 6** severity typing"),
     ("(*sections **1–3**, including", "(*sections **1–6**, including"),
     ("Chapter Eight **§§2–3**", "Chapter Eight **§§2–6**"),
-    ("[§11.3](core_08-08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)", "[§4](core_08-08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)"),
-    ("[§3.4](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[§5](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
-    ("[Chapter One §8.2](core_08-08_standing_assessment.md#32-constitutional-outcome-baseline-for-slots)", "[§2](core_08-08_standing_assessment.md#32-constitutional-outcome-baseline-for-slots)"),
+    ("[§11.3](core_08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)", "[§4](core_08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)"),
+    ("[§3.4](core_08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[§5](core_08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
+    ("[Chapter One §8.2](core_08_standing_assessment.md#32-constitutional-outcome-baseline-for-slots)", "[§2](core_08_standing_assessment.md#32-constitutional-outcome-baseline-for-slots)"),
     ("[§3.4, Formal Non-Compliance]", "[§6, Formal Non-Compliance]"),
     ("[§3.4, Duty-Based or Negligent-Harm Violation]", "[§6, Duty-Based or Negligent-Harm Violation]"),
     ("Chapter Eight §Chapter One §8.1–3.3 read with Chapter Nine", "Chapter Eight §§3–5 read with Chapter Nine"),

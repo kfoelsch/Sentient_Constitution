@@ -606,7 +606,7 @@ BAND_CHAIN = (
 def band_footer(filename: str) -> str:
     idx = BAND_CHAIN.index(filename)
     prev_file = BAND_CHAIN[idx - 1] if idx > 0 else "core_05__definitions_home.md"
-    next_file = "core_08-08_standing_assessment.md" if idx == len(BAND_CHAIN) - 1 else BAND_CHAIN[idx + 1]
+    next_file = "core_08_standing_assessment.md" if idx == len(BAND_CHAIN) - 1 else BAND_CHAIN[idx + 1]
     return (
         f"\n\n---\n\n"
         f"**Previous file:** [{prev_file}]({prev_file})\n\n"

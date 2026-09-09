@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16-16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-10** (*Transition constitution and migration governance*).
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-10** (*Transition constitution and migration governance*).
 >
 > Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*); **Article XXVI-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*); [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
+- Upstream: **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*); **Article XXVI-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*); [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#cs-10-1-purpose-and-role); [§2](#cs-10-2-phased-transition-structure); [§5](#cs-10-5-failure-handling-off-ramps-and-re-baselining).
 - Read with: **CS-10**; **CS-5**; **CS-11**.
 
@@ -43,7 +43,7 @@ This file is the systems implementation home for **CS-10** (*Transition constitu
 
 This file operationalizes phased migration into constitutional operation. It implements **Sentient Constitution Chapter Six, **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*)** for phased adoption and **Article XXVI-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) for failure off-ramps and re-baselining, with continuity requirements linked to Articles I–III and V, XI, XIII, and XIV. It defines transition sequencing, gate criteria, fallback handling, and reviewability. It does not narrow constitutional rights or constraints.
 
-A stewardship self-application declaration (process support: [`evaluation/self_application/`](../evaluation/self_application/)) is **not** phase entry, gate evidence, or valid adoption under [Chapter Fifteen §10](../core_13-15_amendment.md#10-ratification-and-adoption). A two-party markdown file is not that instrument either. Fill-in fields for a qualifying body’s instrument, and the non-adoption banner when no such body exists, live in [`implementation/adoption/FIRST_ADOPTER_KIT.md`](../implementation/adoption/FIRST_ADOPTER_KIT.md) (process support; cannot narrow this layer or core text). An *n*-party operations-guide file and a §10.3 joining-rule template are not phase entry either ([`implementation/adoption/COOPERATION_SCALING_KIT.md`](../implementation/adoption/COOPERATION_SCALING_KIT.md); process support; cannot narrow this layer or core text). A Chapter Five Charter draft and an institution-foundation fill-in are not phase entry either ([`implementation/adoption/INSTITUTION_FOUNDATION_KIT.md`](../implementation/adoption/INSTITUTION_FOUNDATION_KIT.md); process support; cannot narrow this layer or core text). **CS-10** sequences migration **after** a body that can bind systems under its authority has a recorded adoption instrument.
+A stewardship self-application declaration (process support: [`evaluation/self_application/`](../evaluation/self_application/)) is **not** phase entry, gate evidence, or valid adoption under [Chapter Fifteen §10](../core_15_amendment_ratification.md#10-ratification-and-adoption). A two-party markdown file is not that instrument either. Fill-in fields for a qualifying body’s instrument, and the non-adoption banner when no such body exists, live in [`implementation/adoption/FIRST_ADOPTER_KIT.md`](../implementation/adoption/FIRST_ADOPTER_KIT.md) (process support; cannot narrow this layer or core text). An *n*-party operations-guide file and a §10.3 joining-rule template are not phase entry either ([`implementation/adoption/COOPERATION_SCALING_KIT.md`](../implementation/adoption/COOPERATION_SCALING_KIT.md); process support; cannot narrow this layer or core text). A Chapter Five Charter draft and an institution-foundation fill-in are not phase entry either ([`implementation/adoption/INSTITUTION_FOUNDATION_KIT.md`](../implementation/adoption/INSTITUTION_FOUNDATION_KIT.md); process support; cannot narrow this layer or core text). **CS-10** sequences migration **after** a body that can bind systems under its authority has a recorded adoption instrument.
 
 <a id="cs-10-2-phased-transition-structure"></a>
 ## CS-10.2 Phased transition structure
