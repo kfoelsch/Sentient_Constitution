@@ -16,7 +16,7 @@
 
 - Upstream: [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*); [Sentience-Status Adjudication Record](../core_05_band_participation.md#sentience-status-adjudication-record-constitutional) (Def.P1); [Chapter Eleven §5](../core_11_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook); [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline.
 - Downstream: [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../implementation/schemas/sentience_status_adjudication_record.schema.json).
-- Read with: [Sentience Status Adjudication](../core_05_band_participation.md#sentience-status-adjudication-constitutional); [Contested-Sentient Life](../core_05_band_participation.md#contested-sentient-life-constitutional); [Chapter Eleven §5](../core_11_forum.md#5-escalation-and-certification); **CF-15** (*Standard records, forms, and evidence artifacts*) — appointments and filing forms stay out of this file.
+- Read with: [Sentience Status Adjudication](../core_05_band_participation.md#sentience-status-adjudication-constitutional); [Contested-Sentient Life](../core_05_band_participation.md#contested-sentient-life-constitutional); [Chapter Eleven §5](../core_11_forum.md#5-escalation-and-certification); **CF-4** (*Panel formation*) for the independent-representative appointment path; **CF-15** (*Standard records, forms, and evidence artifacts*) — appointments schedules and filing forms stay out of this file.
 - Topic routing (mandatory read-with): **CJS-R12** (*Standard forum records, forms, and evidence artifacts*) in [**CJS-0.1**](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Topic router*). Primary owner remains **CF-15**.
 
 </details>
@@ -38,7 +38,7 @@
 
 This file is the designated implementation text for the [Sentience-Status Adjudication Record](../core_05_band_participation.md#sentience-status-adjudication-record-constitutional) format.
 
-*In plain terms: this is the inspectable status-file format — who or what was reviewed, what status was found or left contested, on what evidence, under which forum route, with what end-dates or review triggers, and how the case can be reopened. It does not decide who counts, and it is not a standing record.*
+*In plain terms: this is the inspectable status-file format — who or what was reviewed, what status was found or left contested, on what evidence, under which forum route, with what end-dates or review triggers, who represents the entity, how declined filings are logged, and how the case can be reopened. It does not decide who counts, and it is not a standing record.*
 
 This protocol implements, and does **not** narrow, **Article V-E** (*Sentience-Status Adjudication Floor*). The Rights Floor remains in Chapter Six. Process meaning remains in Chapter Five. Venue and minimum fields remain in the [Chapter Eleven §5](../core_11_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook).
 
@@ -52,12 +52,14 @@ When [Sentience Status Adjudication](../core_05_band_participation.md#sentience-
 - the indicators and expert evidence relied on, with material uncertainty noted;
 - interim [Contested-Sentient Life](../core_05_band_participation.md#contested-sentient-life-constitutional) treatment while status remains live;
 - the declared end-date or mandatory review trigger for this posture;
-- any narrowing's declared expected-closure timeline and mandatory periodic-review trigger; and
-- the reopening evidence standard — new verified evidence, not calendar-only reopening.
+- any narrowing's declared expected-closure timeline and mandatory periodic-review trigger;
+- the reopening evidence standard — new verified evidence, not calendar-only reopening;
+- the independent representative — appointment path, conflict screen, and access terms under the [Chapter Eleven §5](../core_11_forum.md#5-escalation-and-certification) hook; and
+- the intake-decline log — where declined filings are recorded, on what cadence **Integrity** samples them, and the published floor set of indicators.
 
 **Out of scope.** This file does **not**:
 
 - decide who counts as a sentient;
 - open, update, or substitute for a [Standing Record](../core_05_band_accountability.md#standing-record-chapter-six) or standing measurement;
 - replace the whole [Forum Case Record](../core_05_band_accountability.md#forum-case-record); or
-- hold appointments schedules, filing-form libraries, or sequencing manuals — those stay out of this file.
+- hold appointments schedules, filing-form libraries, or sequencing manuals — appointment *mechanics* stay in **CF-4**; this file holds the appointment *result fields* and the intake-decline log fields the Chapter Eleven hook requires.

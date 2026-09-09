@@ -15,7 +15,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CF-4.1 Lawful panel definitions](#cf-41-lawful-panel-definitions); [CF-4.2 Minimum lawful-panel requirements](#cf-42-minimum-lawful-panel-requirements); [CF-4.3 Publication and pre-assignment transparency](#cf-43-publication-and-pre-assignment-transparency); [CF-4.4 Mandatory disclosures before merits participation](#cf-44-mandatory-disclosures-before-merits-participation); [CF-4.5 Recusal triggers](#cf-45-recusal-triggers).
+- Downstream: [CF-4.1 Lawful panel definitions](#cf-41-lawful-panel-definitions); [CF-4.2 Minimum lawful-panel requirements](#cf-42-minimum-lawful-panel-requirements); [CF-4.3 Publication and pre-assignment transparency](#cf-43-publication-and-pre-assignment-transparency); [CF-4.4 Mandatory disclosures before merits participation](#cf-44-mandatory-disclosures-before-merits-participation); [CF-4.5 Recusal triggers](#cf-45-recusal-triggers); [CF-4.14 Independent representative appointment](#cf-414-independent-representative-appointment).
 - Read with: **CF-4**; **CF-4.1**; **CF-4.2**; **CF-4.3**; **CF-4.4**; **CF-4.5**; [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
 - Topic routing (mandatory read-with): **CJS-R11A** (*Fallback operation*) in **CJS-0.1** (*Topic router*); primary owner **CF-13**.
 - Topic routing (mandatory read-with): **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-0.1** (*Topic router*); primary owner **CI-7.3**.
@@ -59,7 +59,8 @@ This section governs:
 - disclosure, recusal, and recusal challenge;
 - replacement and substitute selection;
 - declaration that an independent panel cannot be formed;
-- documented activation of backup routing where `core_11_forum.md` **Chapter Eleven** requires it.
+- documented activation of backup routing where `core_11_forum.md` **Chapter Eleven** requires it;
+- appointment of an independent representative for a sentience-status case under **CF-4.14**.
 This section does not alter primary-stakes routing, constitutional family boundaries, or merits standards.
 
 ## CF-4.1 Lawful panel definitions
@@ -290,13 +291,34 @@ At minimum, each forum family must maintain templates for:
 - recusal challenge and decision;
 - substitute-selection record;
 - inability-to-form independent panel finding;
-- backup-forum activation order.
+- backup-forum activation order;
+- independent-representative appointment record for a sentience-status case, including conflict screen and access terms.
 
 These records must be retained in a way that supports:
 - party challenge,
 - contest-integrity monitoring,
 - external assurance where triggered,
 - later review of recusal patterns, capture indicators, and delay.
+
+<a id="cf-414-independent-representative-appointment"></a>
+## CF-4.14 Independent representative appointment
+
+*In plain terms: When a sentience-status case is open, a sentient who is not employed by the parent system must speak for the entity. That representative is not a panel member. Appointment uses the same rotation and conflict rules that keep a bench independent.*
+
+This subsection implements, and must not narrow, the [Chapter Eleven §5](../core_11_forum.md#5-escalation-and-certification) independent-representation hook and [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*). Record fields live on the [Sentience-Status Adjudication Record](cf_sentience_status_record.md). Routing of the status case remains under **CF-5**.
+
+Once a status case is open, the merits forum must appoint an independent representative for the entity whose status is in question. The representative:
+
+- is a sentient or body with no material dependence on, ownership interest in, or employment by the parent system, operator, or any party seeking to withhold or narrow protection;
+- is **not** a panel member and does not sit on the merits bench;
+- is selected under the published rotation, disclosure, recusal, and substitute-selection rules that govern forum panels in this file;
+- has access to the entity within [Article VII-B](../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*Internal-State Boundary and Type-N Protection*) limits;
+- has a duty to present the entity's interests and any preferences the entity can express;
+- has standing to contest narrowing, revocation, or intake decline.
+
+The representative role is a named pathway for [Chapter Nine §5.5](../core_09_standing_integration.md#55-special-locks) Forum-Service Standing Lock purposes. Parent-system limits in the Chapter Eleven hook still apply: the parent system, operator, or any party with an ownership or dependency interest may give evidence and must preserve and produce records, but must not be the sole filer, the sole witness, or the sole source of indicator evidence on a request to withhold, narrow, or revoke.
+
+Inability to appoint an independent representative within the required time is treated as inability to form an independent panel under **CF-4.9** for that status case: backup routing activates, and the parent system does not fill the representative seat by default.
 
 ---
 

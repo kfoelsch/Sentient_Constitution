@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-09T15:31:55+00:00",
+  "generated_at": "2026-09-09T19:55:39+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 14048,
+  "edge_count": 14150,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -5556,6 +5556,14 @@
       "source_anchor": "#62-epistemic-disclosure-constraints",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#4-system-stability-enabler-trust-coordination-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "6.2 Epistemic Disclosure Constraints",
+      "source_anchor": "#62-epistemic-disclosure-constraints",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#33-science-informed-inquiry-and-decision-support",
       "count": 1
     },
     {
@@ -13250,6 +13258,22 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "9.1.1 Shared Stewardship Standard",
       "source_anchor": "#911-shared-stewardship-standard",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#623-privacy-and-informational-self-determination",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.1 Shared Stewardship Standard",
+      "source_anchor": "#911-shared-stewardship-standard",
+      "target_file": "core_04_burden_traceability_verification.md",
+      "target_anchor": "#4-security-constrained-observability-and-verification-rule",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.1 Shared Stewardship Standard",
+      "source_anchor": "#911-shared-stewardship-standard",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
       "count": 3
@@ -13316,6 +13340,14 @@
       "source_anchor": "#911-shared-stewardship-standard",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#stewardship-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.1 Shared Stewardship Standard",
+      "source_anchor": "#911-shared-stewardship-standard",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#surveillance-boundary",
       "count": 1
     },
     {
@@ -13394,6 +13426,14 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "9.1.1 Shared Stewardship Standard",
       "source_anchor": "#911-shared-stewardship-standard",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-vii-b-internal-state-boundary-and-type-n-protection",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.1 Shared Stewardship Standard",
+      "source_anchor": "#911-shared-stewardship-standard",
       "target_file": "core_08_standing_assessment.md",
       "target_anchor": "#chapter-eight-compliance-violation-and-standing-model",
       "count": 3
@@ -13405,6 +13445,22 @@
       "target_file": "core_09_standing_integration.md",
       "target_anchor": "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
       "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.1 Shared Stewardship Standard",
+      "source_anchor": "#911-shared-stewardship-standard",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#71-anti-aggregation-of-named-pathway-effects",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.1 Shared Stewardship Standard",
+      "source_anchor": "#911-shared-stewardship-standard",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#72-plain-statement-of-effect-and-burden",
+      "count": 1
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -13428,7 +13484,7 @@
       "source_anchor": "#911-shared-stewardship-standard",
       "target_file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "target_anchor": "#10-inspectable-attributable-action",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -40427,7 +40483,7 @@
       "source_header": "Accessibility",
       "source_anchor": "#accessibility-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#311-access-and-opportunity",
+      "target_anchor": "#211-access-and-opportunity",
       "count": 1
     },
     {
@@ -42891,7 +42947,7 @@
       "source_header": "Fairness, protected characteristics, and nondiscrimination",
       "source_anchor": "#fairness-and-protected-status-semi-independent",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#311-access-and-opportunity",
+      "target_anchor": "#211-access-and-opportunity",
       "count": 1
     },
     {
@@ -42899,7 +42955,7 @@
       "source_header": "Fairness, protected characteristics, and nondiscrimination",
       "source_anchor": "#fairness-and-protected-status-semi-independent",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#312-fair-treatment",
+      "target_anchor": "#213-fair-treatment",
       "count": 1
     },
     {
@@ -42907,7 +42963,7 @@
       "source_header": "Fairness, protected characteristics, and nondiscrimination",
       "source_anchor": "#fairness-and-protected-status-semi-independent",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#313-benefits-and-burdens",
+      "target_anchor": "#212-benefits-and-burdens",
       "count": 1
     },
     {
@@ -44243,7 +44299,7 @@
       "source_header": "Procedural Fairness",
       "source_anchor": "#procedural-fairness-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#312-fair-treatment",
+      "target_anchor": "#213-fair-treatment",
       "count": 1
     },
     {
@@ -44347,7 +44403,7 @@
       "source_header": "Protected Characteristic Proxying and Disparate Impact",
       "source_anchor": "#protected-characteristic-proxying-and-disparate-impact",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#312-fair-treatment",
+      "target_anchor": "#213-fair-treatment",
       "count": 1
     },
     {
@@ -44435,7 +44491,7 @@
       "source_header": "Protected Characteristics",
       "source_anchor": "#protected-characteristics-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#312-fair-treatment",
+      "target_anchor": "#213-fair-treatment",
       "count": 1
     },
     {
@@ -44563,7 +44619,7 @@
       "source_header": "Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
       "source_anchor": "#protected-intimate-signal-gating-and-article-x-c-status-circumvention",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#312-fair-treatment",
+      "target_anchor": "#213-fair-treatment",
       "count": 1
     },
     {
@@ -45250,6 +45306,14 @@
       "source_file": "core_05_band_participation.md",
       "source_header": "Sentience Status Adjudication",
       "source_anchor": "#sentience-status-adjudication-constitutional",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#forum-family-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Sentience Status Adjudication",
+      "source_anchor": "#sentience-status-adjudication-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture",
       "count": 2
@@ -45348,7 +45412,7 @@
       "source_anchor": "#sentience-status-adjudication-constitutional",
       "target_file": "core_06_rights_part_b.md",
       "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_05_band_participation.md",
@@ -45364,7 +45428,7 @@
       "source_anchor": "#sentience-status-adjudication-constitutional",
       "target_file": "core_11_forum.md",
       "target_anchor": "#5-escalation-and-certification",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_05_band_participation.md",
@@ -46203,7 +46267,7 @@
       "source_header": "Substantive Fairness",
       "source_anchor": "#substantive-fairness-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#313-benefits-and-burdens",
+      "target_anchor": "#212-benefits-and-burdens",
       "count": 1
     },
     {
@@ -49419,7 +49483,7 @@
       "source_header": "Article III-D: Labor and Economic Floor",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
-      "target_anchor": "#assembly-and-collective-organization-cluster",
+      "target_anchor": "#assembly-collective-organization-institutional-formation-cluster",
       "count": 1
     },
     {
@@ -51588,7 +51652,7 @@
       "source_anchor": null,
       "target_file": "core_11_forum.md",
       "target_anchor": "#5-escalation-and-certification",
-      "count": 3
+      "count": 4
     },
     {
       "source_file": "core_06_rights_part_b.md",
@@ -61650,6 +61714,14 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XVIII-A: Standing Distinction",
       "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#21-silence-is-the-default",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-A: Standing Distinction",
+      "source_anchor": null,
       "target_file": "core_09_standing_integration.md",
       "target_anchor": "#62-competency-bars-and-clearances",
       "count": 2
@@ -61669,6 +61741,14 @@
       "target_file": "core_09_standing_integration.md",
       "target_anchor": "#55-special-locks",
       "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-A: Standing Distinction",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#71-anti-aggregation-of-named-pathway-effects",
+      "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
@@ -63340,6 +63420,14 @@
       "source_anchor": "#article-xxvi-a-phased-adoption-and-rightsfloor-minimums-continuity",
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#61-core-tradeoff-principles",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXVI-A: Phased Adoption and Rights-Floor Continuity",
+      "source_anchor": "#article-xxvi-a-phased-adoption-and-rightsfloor-minimums-continuity",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#default-interim-posture",
       "count": 1
     },
     {
@@ -65164,6 +65252,14 @@
       "source_anchor": "#2-system-class-evaluation",
       "target_file": "core_07_b_system_alignment_certification_record_process.md",
       "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "count": 2
+    },
+    {
+      "source_file": "core_07_a_system_alignment_certification_evaluation.md",
+      "source_header": "2. System Class Evaluation",
+      "source_anchor": "#2-system-class-evaluation",
+      "target_file": "core_07_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#111-minimum-record-contents",
       "count": 2
     },
     {
@@ -68386,6 +68482,14 @@
       "source_file": "core_08-11_application_vignettes.md",
       "source_header": "Cross-vignette discipline",
       "source_anchor": null,
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#xxvi-a-preservation-over-deletion",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Cross-vignette discipline",
+      "source_anchor": null,
       "target_file": "core_08_standing_assessment.md",
       "target_anchor": "#31-minimum-record-contents",
       "count": 1
@@ -68412,6 +68516,30 @@
       "source_anchor": null,
       "target_file": "core_08_standing_assessment.md",
       "target_anchor": "#36-forum-boundary",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Cross-vignette discipline",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#21-silence-is-the-default",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Cross-vignette discipline",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#44-remedy-parity-and-lock-preconditions",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Cross-vignette discipline",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#71-anti-aggregation-of-named-pathway-effects",
       "count": 1
     },
     {
@@ -68458,6 +68586,46 @@
       "source_file": "core_08-11_application_vignettes.md",
       "source_header": "Pipeline pass",
       "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#default-interim-posture",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Pipeline pass",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Pipeline pass",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xii-e-high-autonomy-systems-and-tool-mediated-process-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Pipeline pass",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#xxvi-a-preservation-over-deletion",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Pipeline pass",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Pipeline pass",
+      "source_anchor": null,
       "target_file": "core_08_standing_assessment.md",
       "target_anchor": "#2-standing-records",
       "count": 1
@@ -68490,6 +68658,14 @@
       "source_file": "core_08-11_application_vignettes.md",
       "source_header": "Pipeline pass",
       "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#21-standing-records-as-the-unit-of-application",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Pipeline pass",
+      "source_anchor": null,
       "target_file": "core_09_standing_integration.md",
       "target_anchor": "#42-general-standing-locks",
       "count": 1
@@ -68506,8 +68682,168 @@
       "source_file": "core_08-11_application_vignettes.md",
       "source_header": "Pipeline pass",
       "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#4-violation-correction-and-prevention",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Pipeline pass",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#44-remedy-parity-and-lock-preconditions",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Pipeline pass",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Pipeline pass",
+      "source_anchor": null,
+      "target_file": "core_10_b_misconduct_pattern_applications.md",
+      "target_anchor": "#561-follower-and-implementer-accountability",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Pipeline pass",
+      "source_anchor": null,
       "target_file": "core_11_forum.md",
       "target_anchor": "#5-escalation-and-certification",
+      "count": 2
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Pipeline pass",
+      "source_anchor": null,
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#interim-protection",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "The honest cost, stated once",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#32-truth-epistemic-integrity-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "The honest cost, stated once",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#62-competency-bars-and-clearances",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "The honest cost, stated once",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#71-anti-aggregation-of-named-pathway-effects",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "The honest cost, stated once",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#72-plain-statement-of-effect-and-burden",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "What the year looks like",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "What the year looks like",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#911-role-scoped-observability",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "What the year looks like",
+      "source_anchor": null,
+      "target_file": "core_05_apex_participation_leg.md",
+      "target_anchor": "#participation-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "What the year looks like",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#21-silence-is-the-default",
+      "count": 3
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "What the year looks like",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#verified-inputs-for-standing",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "What the year looks like",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#36-forum-boundary",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "What the year looks like",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#21-standing-records-as-the-unit-of-application",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "What the year looks like",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#72-plain-statement-of-effect-and-burden",
+      "count": 2
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "What the year looks like",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#71-anti-aggregation-of-named-pathway-effects",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "What the year looks like",
+      "source_anchor": null,
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "What the year looks like",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "target_anchor": "#10-inspectable-attributable-action",
       "count": 1
     },
     {
@@ -68532,6 +68868,22 @@
       "source_anchor": "#2-standing-records",
       "target_file": "core_09_standing_integration.md",
       "target_anchor": "#chapter-nine-standing-effects-and-integration",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "2.1 What Question 1 must establish",
+      "source_anchor": "#21-standing-records-as-the-unit-of-application",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#evidence-preservation",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "2.1 What Question 1 must establish",
+      "source_anchor": "#21-standing-records-as-the-unit-of-application",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#62-competency-bars-and-clearances",
       "count": 1
     },
     {
@@ -69688,6 +70040,46 @@
     },
     {
       "source_file": "core_09_standing_integration.md",
+      "source_header": "4.4 Remedy parity and lock preconditions",
+      "source_anchor": "#44-remedy-parity-and-lock-preconditions",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#avoidable-burden",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "4.4 Remedy parity and lock preconditions",
+      "source_anchor": "#44-remedy-parity-and-lock-preconditions",
+      "target_file": "core_05_band_performance.md",
+      "target_anchor": "#performance-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "4.4 Remedy parity and lock preconditions",
+      "source_anchor": "#44-remedy-parity-and-lock-preconditions",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#interim-protection",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "4.4 Remedy parity and lock preconditions",
+      "source_anchor": "#44-remedy-parity-and-lock-preconditions",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "4.4 Remedy parity and lock preconditions",
+      "source_anchor": "#44-remedy-parity-and-lock-preconditions",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#3-transfer-consolidation-and-coordination",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
       "source_header": "5. Lock design and enforcement",
       "source_anchor": "#5-lock-design-and-enforcement",
       "target_file": "core_08_standing_assessment.md",
@@ -69776,6 +70168,134 @@
     },
     {
       "source_file": "core_09_standing_integration.md",
+      "source_header": "7.1 Anti-aggregation of named-pathway effects",
+      "source_anchor": "#71-anti-aggregation-of-named-pathway-effects",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-vii-b-internal-state-boundary-and-type-n-protection",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "7.1 Anti-aggregation of named-pathway effects",
+      "source_anchor": "#71-anti-aggregation-of-named-pathway-effects",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#chapter-eight-compliance-violation-and-standing-model",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "7.1 Anti-aggregation of named-pathway effects",
+      "source_anchor": "#71-anti-aggregation-of-named-pathway-effects",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#32-related-record-cross-references",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "7.1 Anti-aggregation of named-pathway effects",
+      "source_anchor": "#71-anti-aggregation-of-named-pathway-effects",
+      "target_file": "core_10_a_misconduct_designation.md",
+      "target_anchor": "#chapter-ten-anti-constitutional-misconduct",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "7.1 Anti-aggregation of named-pathway effects",
+      "source_anchor": "#71-anti-aggregation-of-named-pathway-effects",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#45-integrity-forums",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "7.1 Anti-aggregation of named-pathway effects",
+      "source_anchor": "#71-anti-aggregation-of-named-pathway-effects",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "7.2 Plain statement of effect and burden",
+      "source_anchor": "#72-plain-statement-of-effect-and-burden",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "7.2 Plain statement of effect and burden",
+      "source_anchor": "#72-plain-statement-of-effect-and-burden",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#32-truth-epistemic-integrity-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "7.2 Plain statement of effect and burden",
+      "source_anchor": "#72-plain-statement-of-effect-and-burden",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#624-proxy-divergence-invalidation",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "7.2 Plain statement of effect and burden",
+      "source_anchor": "#72-plain-statement-of-effect-and-burden",
+      "target_file": "core_05_apex_participation_leg.md",
+      "target_anchor": "#participation-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "7.2 Plain statement of effect and burden",
+      "source_anchor": "#72-plain-statement-of-effect-and-burden",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#proxy-divergence",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "8. Restoration and reassessment",
+      "source_anchor": "#8-restoration-and-reassessment",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "8. Restoration and reassessment",
+      "source_anchor": "#8-restoration-and-reassessment",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "8. Restoration and reassessment",
+      "source_anchor": "#8-restoration-and-reassessment",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#evidence-preservation",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "8. Restoration and reassessment",
+      "source_anchor": "#8-restoration-and-reassessment",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#21-standing-records-as-the-unit-of-application",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "8. Restoration and reassessment",
+      "source_anchor": "#8-restoration-and-reassessment",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#34-versioning",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
       "source_header": "9. Enforcement realism and remedy systems",
       "source_anchor": "#9-enforcement-realism",
       "target_file": "core_05_band_accountability.md",
@@ -69844,6 +70364,14 @@
       "source_anchor": "#92-remedy-system-durability",
       "target_file": "core_12_governance.md",
       "target_anchor": "#12-eligibility-contested-selection-and-democratic-minimums",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "9.2 Remedy-system durability",
+      "source_anchor": "#92-remedy-system-durability",
+      "target_file": "core_12_governance.md",
+      "target_anchor": "#31-stewardship-direction",
       "count": 1
     },
     {
@@ -73322,6 +73850,14 @@
       "source_file": "core_11_forum.md",
       "source_header": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
       "source_anchor": "#3-transfer-consolidation-and-coordination",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#95-aligned-self-organization",
+      "count": 1
+    },
+    {
+      "source_file": "core_11_forum.md",
+      "source_header": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
+      "source_anchor": "#3-transfer-consolidation-and-coordination",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xii-b-right-to-challenge-review-and-redress",
       "count": 1
@@ -73332,6 +73868,22 @@
       "source_anchor": "#3-transfer-consolidation-and-coordination",
       "target_file": "core_09_standing_integration.md",
       "target_anchor": "#2-integration-record-and-decision-order",
+      "count": 1
+    },
+    {
+      "source_file": "core_11_forum.md",
+      "source_header": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
+      "source_anchor": "#3-transfer-consolidation-and-coordination",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#44-remedy-parity-and-lock-preconditions",
+      "count": 2
+    },
+    {
+      "source_file": "core_11_forum.md",
+      "source_header": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
+      "source_anchor": "#3-transfer-consolidation-and-coordination",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#92-remedy-system-durability",
       "count": 1
     },
     {
@@ -73947,6 +74499,14 @@
       "source_header": "Sentience-status adjudication (**Article V-E** (*Sentience-Status Adjudication Floor*) implementation hook)",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substrate-class",
+      "count": 1
+    },
+    {
+      "source_file": "core_11_forum.md",
+      "source_header": "Sentience-status adjudication (**Article V-E** (*Sentience-Status Adjudication Floor*) implementation hook)",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
       "target_anchor": "#contested-sentient-life-constitutional",
       "count": 1
     },
@@ -73956,6 +74516,22 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#sentience-status-adjudication-record-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_11_forum.md",
+      "source_header": "Sentience-status adjudication (**Article V-E** (*Sentience-Status Adjudication Floor*) implementation hook)",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-vii-b-internal-state-boundary-and-type-n-protection",
+      "count": 1
+    },
+    {
+      "source_file": "core_11_forum.md",
+      "source_header": "Sentience-status adjudication (**Article V-E** (*Sentience-Status Adjudication Floor*) implementation hook)",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#55-special-locks",
       "count": 1
     },
     {
@@ -74496,55 +75072,7 @@
     },
     {
       "source_file": "core_12_governance.md",
-      "source_header": "3.16 Ecosystem Value Orientation",
-      "source_anchor": null,
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#121-productive-capacity-instrumental-good",
-      "count": 1
-    },
-    {
-      "source_file": "core_12_governance.md",
-      "source_header": "3.16 Ecosystem Value Orientation",
-      "source_anchor": null,
-      "target_file": "core_05__definitions_home.md",
-      "target_anchor": "#chapter-five-foundational-definitions",
-      "count": 1
-    },
-    {
-      "source_file": "core_12_governance.md",
-      "source_header": "3.16 Ecosystem Value Orientation",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#productive-capacity-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_12_governance.md",
-      "source_header": "3.16 Ecosystem Value Orientation",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#constitutional-efficiency",
-      "count": 1
-    },
-    {
-      "source_file": "core_12_governance.md",
-      "source_header": "3.16 Ecosystem Value Orientation",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#avoidable-burden",
-      "count": 1
-    },
-    {
-      "source_file": "core_12_governance.md",
-      "source_header": "3.16 Ecosystem Value Orientation",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#proxy-divergence",
-      "count": 1
-    },
-    {
-      "source_file": "core_12_governance.md",
-      "source_header": "3.16 Stewardship Direction",
+      "source_header": "3.1 Stewardship Direction",
       "source_anchor": null,
       "target_file": "core_02_definition_structure.md",
       "target_anchor": null,
@@ -74552,7 +75080,7 @@
     },
     {
       "source_file": "core_12_governance.md",
-      "source_header": "3.16 Stewardship Direction",
+      "source_header": "3.1 Stewardship Direction",
       "source_anchor": null,
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#chapter-six-foundational-rights",
@@ -74560,10 +75088,58 @@
     },
     {
       "source_file": "core_12_governance.md",
-      "source_header": "3.16 Stewardship Direction",
+      "source_header": "3.1 Stewardship Direction",
       "source_anchor": null,
       "target_file": "core_08_standing_assessment.md",
       "target_anchor": "#chapter-eight-compliance-violation-and-standing-model",
+      "count": 1
+    },
+    {
+      "source_file": "core_12_governance.md",
+      "source_header": "3.2 Ecosystem Value Orientation",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#121-productive-capacity-instrumental-good",
+      "count": 1
+    },
+    {
+      "source_file": "core_12_governance.md",
+      "source_header": "3.2 Ecosystem Value Orientation",
+      "source_anchor": null,
+      "target_file": "core_05__definitions_home.md",
+      "target_anchor": "#chapter-five-foundational-definitions",
+      "count": 1
+    },
+    {
+      "source_file": "core_12_governance.md",
+      "source_header": "3.2 Ecosystem Value Orientation",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#productive-capacity-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_12_governance.md",
+      "source_header": "3.2 Ecosystem Value Orientation",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#constitutional-efficiency",
+      "count": 1
+    },
+    {
+      "source_file": "core_12_governance.md",
+      "source_header": "3.2 Ecosystem Value Orientation",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#avoidable-burden",
+      "count": 1
+    },
+    {
+      "source_file": "core_12_governance.md",
+      "source_header": "3.2 Ecosystem Value Orientation",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#proxy-divergence",
       "count": 1
     },
     {
@@ -75208,7 +75784,7 @@
     },
     {
       "source_file": "core_14_expansion_supremacy.md",
-      "source_header": "3.16 Internal Hierarchy for Adopters",
+      "source_header": "3.1 Internal Hierarchy for Adopters",
       "source_anchor": "#31-internal-hierarchy-for-adopters",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#chapter-01-principles-and-constraints",
@@ -75216,7 +75792,7 @@
     },
     {
       "source_file": "core_14_expansion_supremacy.md",
-      "source_header": "3.16 Internal Hierarchy for Adopters",
+      "source_header": "3.1 Internal Hierarchy for Adopters",
       "source_anchor": "#31-internal-hierarchy-for-adopters",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#authority-stack",
@@ -75224,7 +75800,7 @@
     },
     {
       "source_file": "core_14_expansion_supremacy.md",
-      "source_header": "3.16 Stricter External Protections",
+      "source_header": "3.2 Stricter External Protections",
       "source_anchor": "#32-stricter-external-protections",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
@@ -77896,7 +78472,39 @@
     },
     {
       "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
-      "source_header": "CF-4.13 Required records for panel formation and recusal",
+      "source_header": "CF-4.14 Independent representative appointment",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+      "source_header": "CF-4.14 Independent representative appointment",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-vii-b-internal-state-boundary-and-type-n-protection",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+      "source_header": "CF-4.14 Independent representative appointment",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#55-special-locks",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+      "source_header": "CF-4.14 Independent representative appointment",
+      "source_anchor": null,
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#5-escalation-and-certification",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+      "source_header": "CF-4.14 Independent representative appointment",
       "source_anchor": null,
       "target_file": "corpus_forum/cf_03_forum_formation_chamber_structure.md",
       "target_anchor": null,
@@ -77904,9 +78512,17 @@
     },
     {
       "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
-      "source_header": "CF-4.13 Required records for panel formation and recusal",
+      "source_header": "CF-4.14 Independent representative appointment",
       "source_anchor": null,
       "target_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+      "source_header": "CF-4.14 Independent representative appointment",
+      "source_anchor": null,
+      "target_file": "corpus_forum/cf_sentience_status_record.md",
       "target_anchor": null,
       "count": 1
     },
@@ -78552,7 +79168,55 @@
     },
     {
       "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
-      "source_header": "CF-5.3 Natural-systems representatives",
+      "source_header": "CF-5.4 Capacity-failure routing",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#95-aligned-self-organization",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+      "source_header": "CF-5.4 Capacity-failure routing",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#44-remedy-parity-and-lock-preconditions",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+      "source_header": "CF-5.4 Capacity-failure routing",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#92-remedy-system-durability",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+      "source_header": "CF-5.4 Capacity-failure routing",
+      "source_anchor": null,
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#capacity-failure-routing",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+      "source_header": "CF-5.4 Capacity-failure routing",
+      "source_anchor": null,
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#3-transfer-consolidation-and-coordination",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+      "source_header": "CF-5.4 Capacity-failure routing",
+      "source_anchor": null,
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+      "source_header": "CF-5.4 Capacity-failure routing",
       "source_anchor": null,
       "target_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
       "target_anchor": null,
@@ -78560,7 +79224,7 @@
     },
     {
       "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
-      "source_header": "CF-5.3 Natural-systems representatives",
+      "source_header": "CF-5.4 Capacity-failure routing",
       "source_anchor": null,
       "target_file": "corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md",
       "target_anchor": null,
@@ -82568,6 +83232,14 @@
     },
     {
       "source_file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
+      "source_header": "CF-11.3 Metric registry and reporting taxonomy",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#44-remedy-parity-and-lock-preconditions",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "source_header": "CF-11.3.1 Target windows and timing floors",
       "source_anchor": null,
       "target_file": "core_05__definitions_home.md",
@@ -82634,6 +83306,14 @@
       "source_file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "source_header": "CF-11.3.1 Target windows and timing floors",
       "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#44-remedy-parity-and-lock-preconditions",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
+      "source_header": "CF-11.3.1 Target windows and timing floors",
+      "source_anchor": null,
       "target_file": "core_11_forum.md",
       "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
       "count": 3
@@ -82666,6 +83346,14 @@
       "source_file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "source_header": "CF-11.4 Performance thresholds and alerts",
       "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#92-remedy-system-durability",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
+      "source_header": "CF-11.4 Performance thresholds and alerts",
+      "source_anchor": null,
       "target_file": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
       "target_anchor": null,
       "count": 1
@@ -82684,6 +83372,14 @@
       "source_anchor": null,
       "target_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
+      "source_header": "CF-11.9 Non-compliant performance patterns",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#44-remedy-parity-and-lock-preconditions",
       "count": 1
     },
     {
@@ -86988,7 +87684,7 @@
       "source_anchor": null,
       "target_file": "core_11_forum.md",
       "target_anchor": "#5-escalation-and-certification",
-      "count": 3
+      "count": 4
     },
     {
       "source_file": "corpus_forum/cf_sentience_status_record.md",
@@ -96794,6 +97490,22 @@
       "source_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
       "source_header": "CI-27.2: Durability, backlog, and publication",
       "source_anchor": "#ci-272-durability-backlog-and-publication",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#44-remedy-parity-and-lock-preconditions",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+      "source_header": "CI-27.2: Durability, backlog, and publication",
+      "source_anchor": "#ci-272-durability-backlog-and-publication",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#9-enforcement-realism",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+      "source_header": "CI-27.2: Durability, backlog, and publication",
+      "source_anchor": "#ci-272-durability-backlog-and-publication",
       "target_file": "core_11_forum.md",
       "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
       "count": 1
@@ -96832,16 +97544,72 @@
     },
     {
       "source_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
-      "source_header": "CI-27.4: Standards interface and accountability routing",
-      "source_anchor": "#ci-274-standards-interface-and-accountability-routing",
+      "source_header": "CI-27.5: Remedy parity and capacity-failure interface",
+      "source_anchor": "#ci-275-remedy-parity-and-capacity-failure-interface",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#44-remedy-parity-and-lock-preconditions",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+      "source_header": "CI-27.5: Remedy parity and capacity-failure interface",
+      "source_anchor": "#ci-275-remedy-parity-and-capacity-failure-interface",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#92-remedy-parity-funding-floor",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+      "source_header": "CI-27.5: Remedy parity and capacity-failure interface",
+      "source_anchor": "#ci-275-remedy-parity-and-capacity-failure-interface",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#41-remedy-and-correction",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+      "source_header": "CI-27.5: Remedy parity and capacity-failure interface",
+      "source_anchor": "#ci-275-remedy-parity-and-capacity-failure-interface",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#92-remedy-system-durability",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+      "source_header": "CI-27.5: Remedy parity and capacity-failure interface",
+      "source_anchor": "#ci-275-remedy-parity-and-capacity-failure-interface",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#capacity-failure-routing",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+      "source_header": "CI-27.5: Remedy parity and capacity-failure interface",
+      "source_anchor": "#ci-275-remedy-parity-and-capacity-failure-interface",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#interim-protection",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+      "source_header": "CI-27.5: Remedy parity and capacity-failure interface",
+      "source_anchor": "#ci-275-remedy-parity-and-capacity-failure-interface",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+      "source_header": "CI-27.5: Remedy parity and capacity-failure interface",
+      "source_anchor": "#ci-275-remedy-parity-and-capacity-failure-interface",
       "target_file": "corpus_forum.md",
       "target_anchor": null,
       "count": 1
     },
     {
       "source_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
-      "source_header": "CI-27.4: Standards interface and accountability routing",
-      "source_anchor": "#ci-274-standards-interface-and-accountability-routing",
+      "source_header": "CI-27.5: Remedy parity and capacity-failure interface",
+      "source_anchor": "#ci-275-remedy-parity-and-capacity-failure-interface",
       "target_file": "corpus_institutions/ci_26_compliance_mapping_stable_registry.md",
       "target_anchor": null,
       "count": 1
@@ -97724,7 +98492,7 @@
       "source_anchor": "#cross-file-routing",
       "target_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
       "target_anchor": null,
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
@@ -97772,7 +98540,7 @@
       "source_anchor": "#cross-file-routing",
       "target_file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "target_anchor": null,
-      "count": 3
+      "count": 5
     },
     {
       "source_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
@@ -97893,6 +98661,14 @@
       "target_file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
       "target_anchor": null,
       "count": 1
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+      "source_header": "Maintainer-only detail: authoritative topic router",
+      "source_anchor": "#cross-file-routing",
+      "target_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+      "target_anchor": null,
+      "count": 2
     },
     {
       "source_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
@@ -109714,6 +110490,14 @@
       "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
       "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#911-role-scoped-observability",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
+      "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
       "target_file": "core_04_burden_traceability_verification.md",
       "target_anchor": "#4-security-constrained-observability-and-verification-rule",
       "count": 1
@@ -109738,6 +110522,14 @@
       "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
       "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-vii-b-internal-state-boundary-and-type-n-protection",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
+      "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
       "target_file": "core_08_standing_assessment.md",
       "target_anchor": "#chapter-eight-compliance-violation-and-standing-model",
       "count": 2
@@ -109746,8 +110538,32 @@
       "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
       "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#21-silence-is-the-default",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
+      "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
       "target_file": "core_09_standing_integration.md",
       "target_anchor": "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
+      "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#71-anti-aggregation-of-named-pathway-effects",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
+      "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#72-plain-statement-of-effect-and-burden",
       "count": 1
     },
     {
@@ -112098,6 +112914,22 @@
       "source_file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
       "source_header": "CS-12.1 Purpose and role",
       "source_anchor": "#cs-12-1-purpose-and-role",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#accountability-contestability-semi-independent",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
+      "source_header": "CS-12.1 Purpose and role",
+      "source_anchor": "#cs-12-1-purpose-and-role",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#collective-harm-boundary-and-harm-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
+      "source_header": "CS-12.1 Purpose and role",
+      "source_anchor": "#cs-12-1-purpose-and-role",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#emergency-and-contingency-semi-independent",
       "count": 1
@@ -112106,24 +112938,8 @@
       "source_file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
       "source_header": "CS-12.1 Purpose and role",
       "source_anchor": "#cs-12-1-purpose-and-role",
-      "target_file": "core_05_band_integrative.md",
-      "target_anchor": "#accountability-contestability-and-collective-accountability-failure-cluster",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
-      "source_header": "CS-12.1 Purpose and role",
-      "source_anchor": "#cs-12-1-purpose-and-role",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#movement-refuge-semi-independent",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
-      "source_header": "CS-12.1 Purpose and role",
-      "source_anchor": "#cs-12-1-purpose-and-role",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#collective-harm-boundary-and-harm-cluster",
       "count": 1
     },
     {

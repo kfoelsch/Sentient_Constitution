@@ -76,6 +76,8 @@ Full router: [corpus_joint_structure/cjs_00_registry_and_reading_rules.md](../co
 | CJS-R17 | Cross-implementation trust integrity (joint operation model) | **CJS-2.3 — Cross-implementation trust integrity** |
 | CJS-R18 | Class-scaled lane staffing and competency redundancy for materially binding stewardship | [**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_power |
 | CJS-R19 | integrity assurance and resilience operations | **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) |
+| CJS-R20 | Remedy parity and lock-to-remedy capacity | [**CI-27**](../corpus_institutions/ci_27_remedy_systems_institutional_redress_ca |
+| CJS-R21 | Capacity-failure routing | [**CF-5**](../corpus_forum/cf_05_routing_operations_transfer_certification_repre |
 
 ## Chapter Six articles
 

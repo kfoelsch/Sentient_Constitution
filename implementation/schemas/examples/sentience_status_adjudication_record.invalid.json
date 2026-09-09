@@ -1,6 +1,6 @@
 {
   "schema_id": "sentience_status_adjudication_record",
-  "schema_version": "1",
+  "schema_version": "2",
   "subject_entity": {
     "id": ""
   },
@@ -23,5 +23,19 @@
   "reopening_evidence_standard": {
     "standard": "new verified evidence",
     "calendar_only_reopening": "forbidden"
+  },
+  "independent_representative": {
+    "appointed": false,
+    "appointment_path": "Not appointed; this fixture is invalid for other required fields.",
+    "conflict_screen": "Not screened.",
+    "access_terms": "None."
+  },
+  "intake_decline_log": {
+    "this_filing_declined": false,
+    "indicator_cited": null,
+    "reason": null,
+    "log_location": "Intake-decline register.",
+    "integrity_sample_cadence": "Monthly.",
+    "floor_indicator_set": "Published floor set."
   }
 }

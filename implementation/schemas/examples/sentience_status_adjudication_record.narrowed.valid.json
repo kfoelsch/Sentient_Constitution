@@ -1,6 +1,6 @@
 {
   "schema_id": "sentience_status_adjudication_record",
-  "schema_version": "1",
+  "schema_version": "2",
   "recorded_at": "2026-08-15T12:00:00-05:00",
   "case_id": "SSA-2026-002",
   "subject_entity": {
@@ -27,5 +27,20 @@
   "reopening_evidence_standard": {
     "standard": "new verified evidence",
     "calendar_only_reopening": "forbidden"
+  },
+  "independent_representative": {
+    "appointed": true,
+    "appointee_id": "rep-ssa-002",
+    "appointment_path": "Integrity-family rotation under CF-4 after special-route transfer; conflict screen against parent-system employment, ownership, and material dependence.",
+    "conflict_screen": "No material dependence on, ownership interest in, or employment by the parent system, operator, or any party seeking to withhold or narrow protection.",
+    "access_terms": "Access within Article VII-B limits; duty to present the entity's interests; standing to contest this narrowing, later revocation, or a related intake decline."
+  },
+  "intake_decline_log": {
+    "this_filing_declined": false,
+    "indicator_cited": null,
+    "reason": null,
+    "log_location": "Technical Forum Domains intake-decline register, sampled by Integrity.",
+    "integrity_sample_cadence": "Monthly sample of declined filings, with accelerated review when declines concentrate on one Substrate Class, parent system, or operator.",
+    "floor_indicator_set": "Published floor set under Sentience Evaluation / Sentience Indicator Integrity; no intake desk may treat a listed floor indicator as insufficient on its own."
   }
 }

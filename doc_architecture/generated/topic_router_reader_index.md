@@ -20,6 +20,7 @@ Plain-language grouped index derived from [corpus_joint_structure/cjs_00_registr
 - **Emergency adjudication** — Start: [CF-14 — Emergency adjudication](../../corpus_forum/cf_14_emergency_adjudication.md). Also read: **CF-11**.
 - **Standard forum records, forms, and evidence artifacts** — Start: [CF-15 — Standard records, forms, and evidence artifacts](../../corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md). Also read: **CI-6**.
 - **Forum staffing, shared administration, structural review, structural records** — Start: [CF-16 — Forum staffing, reserve capacity, shared administration, structural review, and structural records](../../corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md). Also read: **CI-4**, **CI-5**, **CI-9.3**.
+- **Capacity-failure routing** — Start: [CF-5 — Routing operations, transfer, certification, and representative treatment](../../corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md). Also read: **CF-11**, **CI-27**.
 
 ## Institutional governance
 
@@ -28,6 +29,7 @@ Plain-language grouped index derived from [corpus_joint_structure/cjs_00_registr
 - **Contest-integrity monitoring (pathway integrity, not merits)** — Start: [CI-7.3 — Contest-integrity monitoring (Class A and Class B)](../../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md). Also read: **CF-4**, **CF-11**, **CJS-3.13**.
 - **Cross-institution coordination, deadlock, and escalation** — Start: [CI-12 — Cross-institution coordination and escalation](../../corpus_institutions/ci_12_cross_institution_coordination_escalation.md). Also read: **CF-5**, **CF-7**.
 - **Class-scaled lane staffing and competency redundancy for materially binding stewardship** — Start: [CI-3 — Institutional design, separation of powers, and authority custody](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md), [CI-4 — Appointment, competency, rotation, and removal](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md), [CI-11 — Resource stewardship and incentive integrity](../../corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md), [CI-12 — Cross-institution coordination and escalation](../../corpus_institutions/ci_12_cross_institution_coordination_escalation.md). Also read: **CJS-2.4**, **CJS-3.11**.
+- **Remedy parity and lock-to-remedy capacity** — Start: [CI-27 — Remedy systems and institutional redress capacity](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md). Also read: **CF-11**.
 
 ## Cross-implementation integrity
 

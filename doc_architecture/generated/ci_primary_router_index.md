@@ -11,3 +11,4 @@ Filter of [corpus_joint_structure/cjs_00_registry_and_reading_rules.md](../../co
 | CJS-R15 | Contest-integrity monitoring (pathway integrity, not merits) | **CI-7.3** |
 | CJS-R16 | Cross-institution coordination, deadlock, and escalation | **CI-12** |
 | CJS-R18 | Class-scaled lane staffing and competency redundancy for materially binding stewardship | **CI-3**, **CI-4**, **CI-11**, **CI-12** |
+| CJS-R20 | Remedy parity and lock-to-remedy capacity | **CI-27** |

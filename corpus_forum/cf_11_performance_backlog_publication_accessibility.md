@@ -22,6 +22,8 @@
 - Topic routing (mandatory read-with): **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-0.1** (*Topic router*); primary owner **CI-7.3**.
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
 - Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.1** (*Topic router*); primary owner **CJS-3.6**.
+- Topic routing (mandatory read-with): **CJS-R20** (*Remedy parity and lock-to-remedy capacity*) in **CJS-0.1** (*Topic router*); primary owner **CI-27**.
+- Topic routing (mandatory read-with): **CJS-R21** (*Capacity-failure routing*) in **CJS-0.1** (*Topic router*); primary owner **CF-5**.
 - Topic routing (primary owner): **CJS-R10** (*Forum performance, backlog requirements, publication timeliness, access…*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-7.3**.
 
 </details>
@@ -178,7 +180,8 @@ Each forum family must publish and maintain metrics and target windows using the
 | **Accuracy and adjudicative quality** | Reversal, vacatur (a decision being set aside or voided), material modification, remand, and correction rates after appeal, secondary review, reconsideration, or later controlling evidence. | Forum family, **CF-11.2** urgency level, reviewing pathway, and reason category where available. | Shows whether speed or backlog control is masking recurring low-quality adjudication. |
 | **Forum-caused harm** | Forum-damage ratings for rights loss, remedy loss, evidentiary degradation, retaliation exposure, unlawful exclusion, accessibility failure, dependency harm, and compounding delay caused by forum action or inaction. | Severity, affected population, reversibility, dependency exposure, Rights Floor implications, causal link, and whether the harm is isolated, recurring, systemic, or structurally unremediable. | Shows whether the forum itself is causing, worsening, or failing to contain constitutional harm. |
 | **Constitutional alignment and remediation** | Constitutional-alignment score for the forum family or chamber; separate inputs for timeliness, accessibility, accuracy, independence, record integrity, remediation performance, damage rating, and any verified standing-model findings affecting the forum, institution, or responsible roles; remedial actions open and closed; owner, reassessment date, and closure evidence. | Forum family or chamber, responsible role or institution where material, threshold status, remediation status, and any verified standing-record source. | Shows whether the forum remains fit for continued authority and whether failures are corrected rather than narrated. |
-| **Thresholds and escalation** | Aging alert, serious backlog, constitutional risk, accuracy concern, publication failure, remediation closure, forum damage, constitutional alignment failure, and dissolution or disbandment trigger thresholds. | Forum family, **CF-11.2** urgency level, any local urgency sublevel, threshold band, and escalation status. | Shows when measured performance must move from observation into review, remediation, restriction, external assurance, or dissolution/disbandment action. |
+| **Remedy parity and lock-to-remedy capacity** | General locks issued, remedies commenced, remedies completed, restorations decided, and reassessments pending, by lock class; the ratio of locks issued to remedies commenced and restorations decided; whether the [Chapter Nine §4.4](../core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) tripwire is armed. | Forum family, lock class, **CF-11.2** urgency level, and period. | Shows whether lock capacity is outrunning remedy, restoration, and reassessment capacity. |
+| **Thresholds and escalation** | Aging alert, serious backlog, constitutional risk, accuracy concern, publication failure, remediation closure, forum damage, constitutional alignment failure, remedy-parity tripwire, capacity-failure routing, and dissolution or disbandment trigger thresholds. | Forum family, **CF-11.2** urgency level, any local urgency sublevel, threshold band, and escalation status. | Shows when measured performance must move from observation into review, remediation, restriction, external assurance, or dissolution/disbandment action. |
 
 Decision-accuracy indicators must distinguish ordinary legal disagreement, changed facts or law, harmless correction, procedural defect, evidentiary insufficiency, Rights Floor breach, and material merits error where the reviewing record permits that distinction. They must be tracked by forum family, urgency level, and reviewing pathway so a system cannot mask recurring low-quality adjudication behind favorable speed or backlog metrics.
 
@@ -222,7 +225,7 @@ If a system cannot yet justify its own calibrated numbers, the interim default s
 
 **Interim relief.** Tier A matters must not wait for full merits before lawful interim protection, evidence preservation, or named-pathway-scoped safeguards where delay would compound dependency-vulnerable harm.
 
-**Institution mirror.** Remedy systems under [Chapter Nine §9.2](../core_09_standing_integration.md#92-remedy-system-durability) (*Remedy-system durability*), **CI-27** (*Remedy systems and institutional redress capacity*), and **CI-8** (*Transparency, participation, and accessible pathways*) must publish compatible intake and acknowledgment windows; forum delay must not be used to defeat institution-side redress duties.
+**Institution mirror.** Remedy systems under [Chapter Nine §9.2](../core_09_standing_integration.md#92-remedy-system-durability) (*Remedy-system durability*), **CI-27** (*Remedy systems and institutional redress capacity*), and **CI-8** (*Transparency, participation, and accessible pathways*) must publish compatible intake and acknowledgment windows; forum delay must not be used to defeat institution-side redress duties. The same systems must publish the lock-to-remedy figures **CF-11.3** requires so a tripped [Chapter Nine §4.4](../core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) tripwire is visible from outside the starved body.
 
 Domain-scale walkthroughs with milestone illustrations: [Chapters Eight–Eleven application vignettes](../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes).
 
@@ -271,6 +274,7 @@ Every forum family must define thresholds for the relevant **CF-11.3** registry 
 - a remediation closure threshold;
 - a forum damage threshold;
 - a constitutional alignment failure threshold;
+- a remedy-parity tripwire threshold;
 - a dissolution or disbandment trigger threshold.
 
 Thresholds must be set by **CF-11.2** urgency level and any local urgency sublevel. They must trigger progressively stronger actions.
@@ -284,6 +288,7 @@ At minimum:
 - remediation closure threshold triggers owner-level review when corrective actions remain open, are repeatedly extended, or close without evidence that the underlying condition actually ended;
 - forum damage threshold triggers immediate containment of the harmful forum condition, protected notice to affected parties, preservation of evidence, and remedial review;
 - constitutional alignment failure threshold triggers external assurance, restriction of the affected forum authority where necessary, and mandatory alignment-supervision review under [**CI-13**](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md) (*Institutional failure, sanctions, dissolution, and accountability*);
+- remedy-parity tripwire threshold records a [Chapter Nine §9.2](../core_09_standing_integration.md#92-remedy-system-durability) durability failure and routes the capacity-failure claim under **CF-5.4**, outside the family or system whose capacity is in question; the starved body supplies its published figures and may give evidence, but must not be the sole finder of fact;
 - dissolution or disbandment trigger threshold requires immediate suspension of ordinary forum authority and immediate dissolution or disbandment action under **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*). Receivership or continuity transfer may be used only as a protective interim or successor mechanism to preserve rights, records, emergency relief, and active challenge pathways; the triggering forum must not continue new harmful adjudication.
 
 ## CF-11.5 Required remediation actions for threshold crossings
@@ -403,6 +408,7 @@ Material findings must feed remediation and, where warranted, [**CI-8**](../corp
 The following patterns are presumptively non-compliant unless clearly justified and corrected:
 - chronic delay concentrated in Rights-Floor or emergency matters;
 - backlog aging that predictably defeats practical remedy;
+- lock capacity that outruns remedy, restoration, or reassessment capacity on the same lock class, including a tripped [Chapter Nine §4.4](../core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) tripwire heard only inside the starved body;
 - unexplained publication delay on materially impactful rulings;
 - materially elevated reversal, vacatur (a decision being set aside or voided), remand, or correction rates without diagnosis and remediation;
 - forum-damage ratings or constitutional-alignment scores that cross published containment, supervision, dissolution, or disbandment thresholds without immediate protective action;

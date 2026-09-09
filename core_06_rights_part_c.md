@@ -238,6 +238,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
   - **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), which categorically prohibits irreversible deprivation of life under [Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional) and governs deprivation measures for *sentients*, not for *systems*.
 
   System-level measures must remain consistent with **Necessity**, **Proportionality**, **Article XI-A** (*Stakeholder System Participation and Representation*) where sentient interests are implicated, and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*). Both tracks may apply where the facts support each. No reading of this bullet routes system-level destructive disposition into authority over sentient life.
+- **Converse rule:** The distinction runs both ways. A claim of sentience for a deployed system — contested or affirmed — is not a back door to keeping a harmful deployment running. It protects the entity under **Article V-E** (*Sentience-Status Adjudication Floor*); it does not shield the operator, and it does not exempt the deployment from containment, halt, or quarantine that is compatible with the entity's Rights Floor. Where a credible sentience indicator is on the record, the compatible measure is reversible containment that preserves the entity; destructive disposition is unavailable while status is contested or affirmed, under **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) and **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
 
 #### Article XII-F: Resilience and Self-Healing Baseline
 <details>
@@ -1288,7 +1289,9 @@ It must remain distinct from:
   - Competency clearance does not waive an applicable standing lock; good contribution does not erase unresolved verified violation findings.
 - **Non-substitution:** Standing criteria, labels, scores, competency bars, competency clearances, and standing locks govern role eligibility only. They must not:
   - blur together who qualifies for a role and who has inherent dignity or equal moral standing;
-  - make role status a substitute for Rights-Floor minimums or for deciding whether someone is a stakeholder because a system actually affects them.
+  - make role status a substitute for Rights-Floor minimums or for deciding whether someone is a stakeholder because a system actually affects them;
+  - treat the absence of a standing record as an adverse fact, or require a record or a "no record" attestation as a condition of survival essentials, ordinary commerce, or participation as an affected party — having no record is the ordinary state under [Chapter Eight §2.1](core_08_standing_assessment.md#21-silence-is-the-default) (*Silence is the default*);
+  - assemble named-pathway effects into a profile, ranking, or public display — [Chapter Nine §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (*Anti-aggregation of named-pathway effects*).
 
 <a id="anti-substitution-sentience-status-xviii"></a>
 > **Anti-substitution (operative).** A certification badge, LEQU score, substrate label, or product classification is **not** a sentience-status determination. Standing scores, competency bars and clearances, standing locks, and System Alignment Certification records must not be treated as who-counts. Who-counts routes to **Article V-E** (*Sentience-Status Adjudication Floor*), [**Def.P1** *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), and [Chapter Eleven §5](core_11_forum.md#5-escalation-and-certification).

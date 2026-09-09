@@ -128,6 +128,14 @@ Question 1 uses a **contribution standing record** for verified help and a **vio
 - The same subject may hold multiple standing records over time, including linked contribution and violation standing records. Related records must **cross-reference** one another under **section 3.2** where they share subject, overlapping time window, bounded event, pattern, or decision context.
 - A standing record is not a freestanding reputation score, dignity rank, permanent status, general worth label, or merged scorecard. Operational requirements appear in **section 3**.
 
+<a id="21-silence-is-the-default"></a>
+**Silence is the default.** Having no standing record is the ordinary state of a sentient, institution, or system, and it is the state most sentients will remain in.
+
+- A record opens only on a verified trigger under **section 3**; it is never opened to establish a baseline, to complete a roster, or because a named pathway gatekeeper would prefer one.
+- The absence of a record supports no inference. "Unrated," "unverified," or "no record on file" is not evidence of risk, of low contribution, or of anything else, and may not be treated as a reason for closer scrutiny, a lower default, or a conditional named-pathway state.
+- No institution or system may require a standing record, a "no record" attestation, or consent to open one as a condition of **Article III** (*Survival and Equal Educational Access*) essentials, **Article III-D** (*Labor and Economic Floor*) protections, ordinary commerce, or participation as an affected party. Published competency bars for specific trust-sensitive named pathways under [Chapter Nine §6.2](core_09_standing_integration.md#62-competency-bars-and-clearances) are the exception, and they must state why the named pathway is trust-sensitive.
+- When a record concerning a subject is opened, the subject must be notified under **section 3** unless a documented [Evidence Preservation](core_05_band_oversight.md#evidence-preservation) or Safety showing justifies a time-bounded delay; a record the subject cannot know about is not contestable.
+
 Any later standing effect belongs to Chapter Nine and must be traceable back to the relevant standing record or records without becoming part of the record itself.
 
 <a id="22-linked-records-and-no-offset-bridge"></a>

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-09T15:31:54+00:00",
+  "generated_at": "2026-09-09T19:55:37+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1099,11 +1099,12 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 27,
+            "count": 28,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#31-safety-harm-constraint",
               "#32-truth-epistemic-integrity-constraint",
+              "#33-science-informed-inquiry-and-decision-support",
               "#4-system-stability-enabler-trust-coordination-integrity",
               "#5-freedom-bounded-agency",
               "#51-limitation-discipline"
@@ -1442,13 +1443,14 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 32,
+            "count": 33,
             "anchors": [
               "#6-process-conflict-resolution",
               "#613-proportionality",
               "#614-constitutional-floors-safety-and-process-character-constraints",
               "#615-rights-collision-decision-test",
               "#62-epistemic-disclosure-constraints",
+              "#623-privacy-and-informational-self-determination",
               "#624-proxy-divergence-invalidation",
               "#63-minimization-of-avoidable-burden",
               "#7-prohibition-on-absolute-override",
@@ -1471,8 +1473,9 @@
           },
           {
             "file": "core_04_burden_traceability_verification.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
+              "#4-security-constrained-observability-and-verification-rule",
               "#chapter-four-burden-of-proof-traceability-and-verification"
             ]
           },
@@ -1587,7 +1590,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 359,
+            "count": 360,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-a",
@@ -1637,6 +1640,7 @@
               "#strategic-stewardship-obligation-constitutional",
               "#strategic-stewardship-obligation-constitutional-a",
               "#strategic-stewardship-obligation-constitutional-c",
+              "#surveillance-boundary",
               "#system-alignment-certification-constitutional",
               "#system-alignment-certification-constitutional-a",
               "#system-alignment-certification-constitutional-c",
@@ -1750,11 +1754,12 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
               "#article-ix-self-determination-and-agency",
               "#article-v-equal-basic-rights",
               "#article-vi-right-to-sentient-centered-education",
+              "#article-vii-b-internal-state-boundary-and-type-n-protection",
               "#article-xi-stakeholder-system-participation-representation-and-due-process"
             ]
           },
@@ -1810,10 +1815,12 @@
           },
           {
             "file": "core_09_standing_integration.md",
-            "count": 8,
+            "count": 10,
             "anchors": [
               "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
               "#54-special-violation-rules",
+              "#71-anti-aggregation-of-named-pathway-effects",
+              "#72-plain-statement-of-effect-and-burden",
               "#91-remediation-capacity-and-funding",
               "#94-anti-evasion-and-look-through-authority"
             ]
@@ -1877,7 +1884,7 @@
           },
           {
             "file": "corpus_systems/cs_04_critical_system_stewardship.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#10-inspectable-attributable-action"
             ]
@@ -4568,10 +4575,10 @@
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#21-fairness",
+              "#211-access-and-opportunity",
+              "#212-benefits-and-burdens",
+              "#213-fair-treatment",
               "#3-non-negotiable-constraints-safety-and-truth",
-              "#311-access-and-opportunity",
-              "#312-fair-treatment",
-              "#313-benefits-and-burdens",
               "#5-freedom-bounded-agency",
               "#51-limitation-discipline"
             ]
@@ -4637,7 +4644,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 155,
+            "count": 156,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -4646,6 +4653,7 @@
               "#due-process-constitutional",
               "#feasibility",
               "#forum-case-record",
+              "#forum-family-integrity",
               "#forum-family-technical",
               "#governance",
               "#harassment-and-bullying",
@@ -4800,7 +4808,7 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 60,
+            "count": 61,
             "anchors": [
               "#article-ix-a-agency-and-freedom-from-manipulation",
               "#article-ix-b-stakeholder-role-and-participation-rights",
@@ -4871,7 +4879,7 @@
           },
           {
             "file": "core_11_forum.md",
-            "count": 12,
+            "count": 13,
             "anchors": [
               "#42-technical-forum-domains",
               "#44-environment-forums",
@@ -5138,7 +5146,7 @@
           },
           {
             "file": "core_07_b_system_alignment_certification_record_process.md",
-            "count": 74,
+            "count": 76,
             "anchors": [
               "#11-certification-record",
               "#111-minimum-record-contents",
@@ -5525,9 +5533,10 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 10,
+            "count": 11,
             "anchors": [
               "#auditability",
+              "#evidence-preservation",
               "#materiality-determination",
               "#materiality-determination-a",
               "#materiality-determination-c"
@@ -5602,7 +5611,7 @@
           },
           {
             "file": "core_09_standing_integration.md",
-            "count": 54,
+            "count": 55,
             "anchors": [
               "#101-informal-ecological-stewardship-competency-clearance",
               "#1013-obstruction-of-accountability",
@@ -5664,10 +5673,32 @@
             ]
           },
           {
+            "file": "core_01_a_values_principles.md",
+            "count": 2,
+            "anchors": [
+              "#32-truth-epistemic-integrity-constraint",
+              "#34-plain-language-accessibility-stewardship-duty"
+            ]
+          },
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 1,
+            "anchors": [
+              "#624-proxy-divergence-invalidation"
+            ]
+          },
+          {
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 1,
             "anchors": [
               "#911-shared-stewardship-standard"
+            ]
+          },
+          {
+            "file": "core_05_apex_participation_leg.md",
+            "count": 1,
+            "anchors": [
+              "#participation-measurement-family"
             ]
           },
           {
@@ -5679,11 +5710,28 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 3,
+            "count": 5,
             "anchors": [
               "#capture-of-resolution-pathways",
               "#cruelty",
+              "#necessity",
+              "#proportionality",
               "#remedy-system-constitutional"
+            ]
+          },
+          {
+            "file": "core_05_band_continuity.md",
+            "count": 1,
+            "anchors": [
+              "#avoidable-burden"
+            ]
+          },
+          {
+            "file": "core_05_band_oversight.md",
+            "count": 2,
+            "anchors": [
+              "#evidence-preservation",
+              "#proxy-divergence"
             ]
           },
           {
@@ -5696,10 +5744,24 @@
             ]
           },
           {
+            "file": "core_05_band_performance.md",
+            "count": 1,
+            "anchors": [
+              "#performance-measurement-family"
+            ]
+          },
+          {
             "file": "core_06_rights_part_a.md",
             "count": 2,
             "anchors": [
               "#chapter-six-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_06_rights_part_b.md",
+            "count": 1,
+            "anchors": [
+              "#article-vii-b-internal-state-boundary-and-type-n-protection"
             ]
           },
           {
@@ -5711,9 +5773,12 @@
           },
           {
             "file": "core_08_standing_assessment.md",
-            "count": 13,
+            "count": 17,
             "anchors": [
+              "#21-standing-records-as-the-unit-of-application",
               "#22-linked-records-and-no-offset-bridge",
+              "#32-related-record-cross-references",
+              "#34-versioning",
               "#42-violation-severity-input-dimensions",
               "#43-route-descriptor-measurement-roles",
               "#46-question-2-measurement-illustrations",
@@ -5722,7 +5787,7 @@
           },
           {
             "file": "core_10_a_misconduct_designation.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#4-2-prevention-anti-constitutional-locks",
               "#4-3-voluntary-public-accountability-expression-anti-constitutional",
@@ -5743,21 +5808,24 @@
           },
           {
             "file": "core_11_forum.md",
-            "count": 11,
+            "count": 16,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
+              "#3-transfer-consolidation-and-coordination",
               "#42-technical-forum-domains",
               "#43-institutional-forums",
               "#45-integrity-forums",
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction",
+              "#interim-protection"
             ]
           },
           {
             "file": "core_12_governance.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#12-eligibility-contested-selection-and-democratic-minimums",
+              "#31-stewardship-direction",
               "#41-entitlement-and-eligibility"
             ]
           },
@@ -6207,9 +6275,10 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#122-constitutional-efficiency",
+              "#95-aligned-self-organization",
               "#chapter-01-principles-and-constraints"
             ]
           },
@@ -6269,12 +6338,13 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#contested-sentient-life-constitutional",
               "#natural-systems-standing",
               "#sentience-status-adjudication-constitutional",
-              "#sentience-status-adjudication-record-constitutional"
+              "#sentience-status-adjudication-record-constitutional",
+              "#substrate-class"
             ]
           },
           {
@@ -6286,9 +6356,10 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#article-v-e-sentience-status-adjudication-floor"
+              "#article-v-e-sentience-status-adjudication-floor",
+              "#article-vii-b-internal-state-boundary-and-type-n-protection"
             ]
           },
           {
@@ -6352,12 +6423,14 @@
           },
           {
             "file": "core_09_standing_integration.md",
-            "count": 6,
+            "count": 10,
             "anchors": [
               "#2-integration-record-and-decision-order",
               "#3-descriptor-integration-and-attachment-normalization",
+              "#44-remedy-parity-and-lock-preconditions",
               "#55-special-locks",
               "#9-enforcement-realism",
+              "#92-remedy-system-durability",
               "#chapter-nine-standing-effects-and-integration"
             ]
           },
@@ -6432,10 +6505,33 @@
             ]
           },
           {
-            "file": "core_01_c_stewardship_capacity_principles.md",
+            "file": "core_01_a_values_principles.md",
+            "count": 2,
+            "anchors": [
+              "#32-truth-epistemic-integrity-constraint",
+              "#34-plain-language-accessibility-stewardship-duty"
+            ]
+          },
+          {
+            "file": "core_01_b_interaction_interpretation.md",
             "count": 1,
             "anchors": [
-              "#91-stewardship"
+              "#default-interim-posture"
+            ]
+          },
+          {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 2,
+            "anchors": [
+              "#91-stewardship",
+              "#911-role-scoped-observability"
+            ]
+          },
+          {
+            "file": "core_05_apex_participation_leg.md",
+            "count": 1,
+            "anchors": [
+              "#participation-measurement-family"
             ]
           },
           {
@@ -6465,17 +6561,35 @@
             "anchors": []
           },
           {
-            "file": "core_06_rights_part_d.md",
-            "count": 2,
+            "file": "core_06_rights_part_b.md",
+            "count": 1,
             "anchors": [
-              "#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+              "#article-v-e-sentience-status-adjudication-floor"
+            ]
+          },
+          {
+            "file": "core_06_rights_part_c.md",
+            "count": 1,
+            "anchors": [
+              "#article-xii-e-high-autonomy-systems-and-tool-mediated-process-integrity"
+            ]
+          },
+          {
+            "file": "core_06_rights_part_d.md",
+            "count": 5,
+            "anchors": [
+              "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
+              "#article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
+              "#xxvi-a-preservation-over-deletion"
             ]
           },
           {
             "file": "core_08_standing_assessment.md",
-            "count": 13,
+            "count": 21,
             "anchors": [
               "#2-standing-records",
+              "#21-silence-is-the-default",
+              "#21-standing-records-as-the-unit-of-application",
               "#22-linked-records-and-no-offset-bridge",
               "#31-minimum-record-contents",
               "#32-related-record-cross-references",
@@ -6483,16 +6597,22 @@
               "#4-standing-measurement-evaluation-dimensions",
               "#45-dual-use-measurement-hooks",
               "#46-question-2-measurement-illustrations",
-              "#7-unified-proportional-lequ-scale"
+              "#7-unified-proportional-lequ-scale",
+              "#verified-inputs-for-standing"
             ]
           },
           {
             "file": "core_09_standing_integration.md",
-            "count": 6,
+            "count": 17,
             "anchors": [
               "#10-pattern-applications-and-question-3-routing",
+              "#4-violation-correction-and-prevention",
               "#42-general-standing-locks",
+              "#44-remedy-parity-and-lock-preconditions",
+              "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
               "#62-competency-bars-and-clearances",
+              "#71-anti-aggregation-of-named-pathway-effects",
+              "#72-plain-statement-of-effect-and-burden",
               "#94-anti-evasion-and-look-through-authority",
               "#95-timely-implementation-and-reassessment"
             ]
@@ -6505,12 +6625,20 @@
             ]
           },
           {
+            "file": "core_10_b_misconduct_pattern_applications.md",
+            "count": 1,
+            "anchors": [
+              "#561-follower-and-implementer-accountability"
+            ]
+          },
+          {
             "file": "core_11_forum.md",
-            "count": 9,
+            "count": 12,
             "anchors": [
               "#5-escalation-and-certification",
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-eleven-forums-and-jurisdiction",
+              "#interim-protection",
               "#urgency-classification-and-time-scale"
             ]
           },
@@ -6519,6 +6647,13 @@
             "count": 2,
             "anchors": [
               "#cf-1131-target-windows-and-timing-floors"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_04_critical_system_stewardship.md",
+            "count": 1,
+            "anchors": [
+              "#10-inspectable-attributable-action"
             ]
           }
         ]
@@ -6708,7 +6843,7 @@
               "#animal-life-constitutional",
               "#animal-life-constitutional-a",
               "#animal-life-constitutional-c",
-              "#assembly-and-collective-organization-cluster",
+              "#assembly-collective-organization-institutional-formation-cluster",
               "#business-creation-constitutional",
               "#business-creation-constitutional-a",
               "#business-creation-constitutional-c",
@@ -7183,7 +7318,7 @@
           },
           {
             "file": "core_11_forum.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
               "#42-technical-forum-domains",
               "#5-escalation-and-certification"
@@ -7531,9 +7666,10 @@
           },
           {
             "file": "core_08_standing_assessment.md",
-            "count": 10,
+            "count": 11,
             "anchors": [
               "#2-standing-records",
+              "#21-silence-is-the-default",
               "#31-minimum-record-contents",
               "#36-forum-boundary",
               "#7-unified-proportional-lequ-scale",
@@ -7543,12 +7679,13 @@
           },
           {
             "file": "core_09_standing_integration.md",
-            "count": 24,
+            "count": 25,
             "anchors": [
               "#42-general-standing-locks",
               "#54-special-violation-rules",
               "#55-special-locks",
               "#62-competency-bars-and-clearances",
+              "#71-anti-aggregation-of-named-pathway-effects",
               "#8-restoration-and-reassessment",
               "#9-enforcement-realism",
               "#chapter-nine-standing-effects-and-integration"
@@ -7626,7 +7763,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 30,
+            "count": 31,
             "anchors": [
               "#6-process-conflict-resolution",
               "#61-core-tradeoff-principles",
@@ -7636,6 +7773,7 @@
               "#8-constitutional-interpretation",
               "#anti-degrading-process-principle",
               "#constitutional-no-bypass-principle",
+              "#default-interim-posture",
               "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
               "#rightsfloor-minimums-principle"
             ]
@@ -9280,7 +9418,7 @@
           },
           {
             "file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
-            "count": 2,
+            "count": 3,
             "anchors": []
           },
           {
@@ -9310,7 +9448,7 @@
           },
           {
             "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
-            "count": 3,
+            "count": 5,
             "anchors": []
           },
           {
@@ -9391,6 +9529,11 @@
           {
             "file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
             "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+            "count": 2,
             "anchors": []
           },
           {
@@ -12113,10 +12256,11 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#121-productive-capacity-instrumental-good",
               "#13-market-structure",
+              "#911-role-scoped-observability",
               "#911-shared-stewardship-standard",
               "#911-symmetric-costly-constraints"
             ]
@@ -12184,17 +12328,27 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
-            "count": 2,
+            "file": "core_06_rights_part_b.md",
+            "count": 1,
             "anchors": [
+              "#article-vii-b-internal-state-boundary-and-type-n-protection"
+            ]
+          },
+          {
+            "file": "core_08_standing_assessment.md",
+            "count": 3,
+            "anchors": [
+              "#21-silence-is-the-default",
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
           {
             "file": "core_09_standing_integration.md",
-            "count": 1,
+            "count": 3,
             "anchors": [
-              "#54-duty-to-resist-unlawful-or-unconstitutional-instructions"
+              "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
+              "#71-anti-aggregation-of-named-pathway-effects",
+              "#72-plain-statement-of-effect-and-burden"
             ]
           },
           {
@@ -12967,8 +13121,10 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 6,
+            "count": 8,
             "anchors": [
+              "#accountability-contestability-semi-independent",
+              "#collective-harm-boundary-and-harm-cluster",
               "#contestability",
               "#contestability-a",
               "#contestability-c",
@@ -13000,9 +13156,8 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 2,
+            "count": 1,
             "anchors": [
-              "#accountability-contestability-and-collective-accountability-failure-cluster",
               "#corpus"
             ]
           },
@@ -13014,13 +13169,6 @@
               "#auditability-a",
               "#auditability-c",
               "#movement-refuge-semi-independent"
-            ]
-          },
-          {
-            "file": "core_05_band_participation.md",
-            "count": 1,
-            "anchors": [
-              "#collective-harm-boundary-and-harm-cluster"
             ]
           },
           {
@@ -16424,22 +16572,27 @@
           },
           {
             "file": "core_09_standing_integration.md",
-            "count": 4,
+            "count": 10,
             "anchors": [
+              "#41-remedy-and-correction",
+              "#44-remedy-parity-and-lock-preconditions",
               "#9-enforcement-realism",
               "#91-remediation-capacity-and-funding",
+              "#92-remedy-parity-funding-floor",
               "#92-remedy-system-durability"
             ]
           },
           {
             "file": "core_11_forum.md",
-            "count": 5,
+            "count": 8,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
               "#42-technical-forum-domains",
               "#43-institutional-forums",
               "#45-integrity-forums",
-              "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+              "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+              "#capacity-failure-routing",
+              "#interim-protection"
             ]
           },
           {
@@ -16984,8 +17137,16 @@
             ]
           },
           {
+            "file": "core_06_rights_part_b.md",
+            "count": 2,
+            "anchors": [
+              "#article-v-e-sentience-status-adjudication-floor",
+              "#article-vii-b-internal-state-boundary-and-type-n-protection"
+            ]
+          },
+          {
             "file": "core_09_standing_integration.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#55-special-locks",
               "#8-restoration-and-reassessment"
@@ -17000,8 +17161,9 @@
           },
           {
             "file": "core_11_forum.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
+              "#5-escalation-and-certification",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -17029,6 +17191,11 @@
           },
           {
             "file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_sentience_status_record.md",
             "count": 1,
             "anchors": []
           },
@@ -17066,6 +17233,13 @@
       {
         "source": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
         "targets": [
+          {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 1,
+            "anchors": [
+              "#95-aligned-self-organization"
+            ]
+          },
           {
             "file": "core_05__definitions_home.md",
             "count": 1,
@@ -17122,11 +17296,21 @@
             ]
           },
           {
+            "file": "core_09_standing_integration.md",
+            "count": 2,
+            "anchors": [
+              "#44-remedy-parity-and-lock-preconditions",
+              "#92-remedy-system-durability"
+            ]
+          },
+          {
             "file": "core_11_forum.md",
-            "count": 4,
+            "count": 7,
             "anchors": [
               "#3-transfer-consolidation-and-coordination",
               "#44-environment-forums",
+              "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+              "#capacity-failure-routing",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -18217,8 +18401,9 @@
           },
           {
             "file": "core_09_standing_integration.md",
-            "count": 2,
+            "count": 6,
             "anchors": [
+              "#44-remedy-parity-and-lock-preconditions",
               "#92-remedy-system-durability",
               "#chapter-nine-standing-effects-and-integration"
             ]
@@ -19098,7 +19283,7 @@
           },
           {
             "file": "core_11_forum.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#5-escalation-and-certification"
             ]

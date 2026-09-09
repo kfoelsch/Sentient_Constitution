@@ -53,6 +53,32 @@ class SentienceStatusAdjudicationRecordTests(unittest.TestCase):
         errors = validate_record(record)
         self.assertTrue(any("expected_closure_timeline" in e for e in errors))
 
+    def test_missing_independent_representative_fails(self) -> None:
+        record = json.loads(
+            (
+                EXAMPLES / "sentience_status_adjudication_record.valid.json"
+            ).read_text(encoding="utf-8")
+        )
+        del record["independent_representative"]
+        errors = validate_record(record)
+        self.assertTrue(any("independent_representative" in e for e in errors))
+
+    def test_declined_filing_without_indicator_fails(self) -> None:
+        record = json.loads(
+            (
+                EXAMPLES / "sentience_status_adjudication_record.valid.json"
+            ).read_text(encoding="utf-8")
+        )
+        record["independent_representative"]["appointed"] = False
+        del record["independent_representative"]["appointee_id"]
+        record["intake_decline_log"]["this_filing_declined"] = True
+        record["intake_decline_log"]["indicator_cited"] = None
+        record["intake_decline_log"]["reason"] = None
+        errors = validate_record(record)
+        blob = " ".join(errors)
+        self.assertIn("intake_decline_log.indicator_cited", blob)
+        self.assertIn("intake_decline_log.reason", blob)
+
     def test_self_check_passes(self) -> None:
         self.assertEqual(self_check(ROOT), [])
 

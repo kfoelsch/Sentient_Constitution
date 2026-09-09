@@ -382,6 +382,22 @@
       "primary_attach": [
         "CJS-3.6"
       ]
+    },
+    {
+      "id": "CJS-R20",
+      "topic": "Remedy parity and lock-to-remedy capacity",
+      "primary_owner": "[**CI-27**](../corpus_institutions/ci_27_remedy_systems_institutional_redress_ca",
+      "primary_attach": [
+        "CI-27"
+      ]
+    },
+    {
+      "id": "CJS-R21",
+      "topic": "Capacity-failure routing",
+      "primary_owner": "[**CF-5**](../corpus_forum/cf_05_routing_operations_transfer_certification_repre",
+      "primary_attach": [
+        "CF-5"
+      ]
     }
   ],
   "ci_primary_router": [
@@ -426,6 +442,14 @@
         "CI-4",
         "CI-11",
         "CI-12"
+      ]
+    },
+    {
+      "id": "CJS-R20",
+      "topic": "Remedy parity and lock-to-remedy capacity",
+      "primary_owner": "[**CI-27**](../corpus_institutions/ci_27_remedy_systems_institutional_redress_ca",
+      "primary_attach": [
+        "CI-27"
       ]
     }
   ]

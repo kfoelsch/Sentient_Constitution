@@ -3,7 +3,8 @@
 
 The schema is machine-checkable form, not who-counts and not a standing record.
 This tool asks a mechanical question: does the file carry the Chapter Eleven
-minimum fields plus the review trigger, without extra keys?
+minimum fields — including independent representative and intake-decline log —
+plus the review trigger, without extra keys?
 
 Rule ID: SSAR-01
 """
@@ -22,7 +23,7 @@ if str(_TOOLS) not in sys.path:
 ROOT = Path(__file__).resolve().parents[1]
 SCHEMA_REL = "implementation/schemas/sentience_status_adjudication_record.schema.json"
 SCHEMA_ID = "sentience_status_adjudication_record"
-SCHEMA_VERSION = "1"
+SCHEMA_VERSION = "2"
 REQUIRED = (
     "schema_id",
     "schema_version",
@@ -35,6 +36,8 @@ REQUIRED = (
     "review_trigger",
     "narrowing",
     "reopening_evidence_standard",
+    "independent_representative",
+    "intake_decline_log",
 )
 OPTIONAL = ("recorded_at", "case_id")
 STATUS_VALUES = (
@@ -60,6 +63,18 @@ EVIDENCE_REQUIRED = (
 )
 INTERIM_REQUIRED = ("status_remains_live", "treatment")
 NARROWING_REQUIRED = ("expected_closure_timeline", "periodic_review_trigger")
+REPRESENTATIVE_REQUIRED = (
+    "appointed",
+    "appointment_path",
+    "conflict_screen",
+    "access_terms",
+)
+INTAKE_DECLINE_REQUIRED = (
+    "this_filing_declined",
+    "log_location",
+    "integrity_sample_cadence",
+    "floor_indicator_set",
+)
 
 
 def parse_args() -> argparse.Namespace:
@@ -245,6 +260,108 @@ def validate_record(record: object) -> list[str]:
                 "reopening_evidence_standard.calendar_only_reopening: "
                 "must be 'forbidden' (SSAR-01)"
             )
+
+    representative, representative_errors = require_object(
+        obj.get("independent_representative"),
+        "independent_representative",
+    )
+    errors.extend(representative_errors)
+    if representative is not None:
+        extra = sorted(
+            set(representative)
+            - set(REPRESENTATIVE_REQUIRED)
+            - {"appointee_id"}
+        )
+        if extra:
+            errors.append(
+                "independent_representative: unknown keys "
+                + ", ".join(extra)
+                + " (SSAR-01)"
+            )
+        for key in REPRESENTATIVE_REQUIRED:
+            if key not in representative:
+                errors.append(
+                    f"independent_representative: missing {key!r} (SSAR-01)"
+                )
+        if "appointed" in representative and not isinstance(
+            representative.get("appointed"), bool
+        ):
+            errors.append(
+                "independent_representative.appointed: must be a boolean (SSAR-01)"
+            )
+        for key in ("appointment_path", "conflict_screen", "access_terms"):
+            if key in representative:
+                errors.extend(
+                    require_nonempty_string(
+                        representative.get(key),
+                        f"independent_representative.{key}",
+                    )
+                )
+        if representative.get("appointee_id") is not None:
+            errors.extend(
+                require_nonempty_string(
+                    representative.get("appointee_id"),
+                    "independent_representative.appointee_id",
+                )
+            )
+
+    decline, decline_errors = require_object(
+        obj.get("intake_decline_log"),
+        "intake_decline_log",
+    )
+    errors.extend(decline_errors)
+    if decline is not None:
+        extra = sorted(
+            set(decline)
+            - set(INTAKE_DECLINE_REQUIRED)
+            - {"indicator_cited", "reason"}
+        )
+        if extra:
+            errors.append(
+                "intake_decline_log: unknown keys "
+                + ", ".join(extra)
+                + " (SSAR-01)"
+            )
+        for key in INTAKE_DECLINE_REQUIRED:
+            if key not in decline:
+                errors.append(
+                    f"intake_decline_log: missing {key!r} (SSAR-01)"
+                )
+        declined = decline.get("this_filing_declined")
+        if "this_filing_declined" in decline and not isinstance(declined, bool):
+            errors.append(
+                "intake_decline_log.this_filing_declined: "
+                "must be a boolean (SSAR-01)"
+            )
+        for key in (
+            "log_location",
+            "integrity_sample_cadence",
+            "floor_indicator_set",
+        ):
+            if key in decline:
+                errors.extend(
+                    require_nonempty_string(
+                        decline.get(key),
+                        f"intake_decline_log.{key}",
+                    )
+                )
+        if declined is True:
+            for key in ("indicator_cited", "reason"):
+                errors.extend(
+                    require_nonempty_string(
+                        decline.get(key),
+                        f"intake_decline_log.{key}",
+                    )
+                )
+        else:
+            for key in ("indicator_cited", "reason"):
+                if key in decline:
+                    errors.extend(
+                        require_nullable_string(
+                            decline.get(key),
+                            f"intake_decline_log.{key}",
+                        )
+                    )
 
     return errors
 

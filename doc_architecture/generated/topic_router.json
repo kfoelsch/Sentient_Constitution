@@ -520,6 +520,44 @@
           "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md"
         }
       ]
+    },
+    {
+      "id": "CJS-R20",
+      "topic": "Remedy parity and lock-to-remedy capacity",
+      "domain": "Institutional governance",
+      "primary_owners": [
+        {
+          "id": "CI-27",
+          "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CF-11",
+          "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R21",
+      "topic": "Capacity-failure routing",
+      "domain": "Forum operations",
+      "primary_owners": [
+        {
+          "id": "CF-5",
+          "file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CF-11",
+          "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md"
+        },
+        {
+          "id": "CI-27",
+          "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md"
+        }
+      ]
     }
   ]
 }

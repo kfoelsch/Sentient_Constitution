@@ -172,6 +172,17 @@ Adopted companion implementation text and internal codes may add logging, attrib
 
 Those are failed tests for both kinds of steward. A written self-report is not [standing measurement](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model). Verified failures record on the Contribution and Violation axes under Chapter Eight. [Chapter Nine §5.4 Duty to resist](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) binds both. An evaluation, competency, or handoff practice that runs those cases only on AI stewards, while human operators keep the bonus, the deadline, or the cover instruction, leaves humans the capture path. That practice does not show that this subsection holds.
 
+<a id="911-role-scoped-observability"></a>
+
+**Role-scoped observability.** Audit follows power, not the steward who holds it. The inspectable-action duty under [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) attaches to the *exercise of stewardship or operational authority* — the decision taken, the disclosure made or suppressed, the instruction followed or refused, the authorizer — and not to the steward as such, on either substrate. Four limits follow:
+
+- **Disclosed in advance.** A steward must be told, before taking up a role, what the role's actions will be logged and to whom the log is inspectable. Covert logging of a steward's role actions is a [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary) violation, not an audit practice.
+- **Outside the role, ordinary protection.** Conduct, state, and expression outside the exercise of the role carry the same [Article VII-B](core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*Internal-State Boundary and Type-N Protection*) and [§6.2.3](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination) protection for an AI steward as for a human one. Holding a role does not open the steward's deliberation, memory, or internal state to inspection.
+- **Internals yield only to a specific action.** Model weights, private deliberation, and protected internal states become inspectable only where they are the sole remaining attribution path for a *specific* action already under an open Chapter Eight record, only to the extent needed to attribute that action, and only to independent reviewers under [security-constrained observability](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule). That rule is a case-by-case exception, not a standing license, and it is symmetric: a human steward's private notes and communications are reached on the same terms and no others.
+- **Logging is not a record.** The CS-4 §10 log is the attribution substrate; it is not a standing record, is not disclosed to named-pathway gatekeepers as such, and is subject to the anti-aggregation rule in [Chapter Nine §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects).
+
+The burden this duty places on a steward who carries consequential authority is real and this Constitution does not pretend otherwise; [Chapter Nine §7.2](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden) requires that it be stated plainly to the steward who bears it.
+
 <a id="92-distributed-understanding"></a>
 #### 9.2 Distributed Understanding
 <details>

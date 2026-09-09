@@ -2667,6 +2667,9 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - excludes candidates on [Substrate Class](core_05_band_participation.md#substrate-class) grounds contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
     - withholds, narrows, or revokes Chapter Six protection on unresolved uncertainty alone;
     - uses the filing-integrity opening gate to withhold, narrow, or delay protection after a status case is lawfully open, or requires certainty of sentience before opening;
+    - declines filings at intake without logging the indicator cited and the reason, or leaves the decline log outside [Forum Family, Integrity](core_05_band_accountability.md#forum-family-integrity) sampling under [Chapter Eleven §5](core_11_forum.md#5-escalation-and-certification);
+    - proceeds to merits on a request to withhold, narrow, or revoke without an independent representative for the entity, or on indicator evidence sourced solely from the parent system, operator, or another party with an ownership or dependency interest;
+    - treats contested or affirmed status as a shield for the operator's deployment against compatible system-level containment, or credits the operator's Contribution Axis for the entity's status — the inclusion-direction taxonomy-of-convenience failure under [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor);
     - narrows status without a declared end-date and mandatory periodic review; or
     - refuses to reopen or review when new verified evidence appears.
 
@@ -2690,7 +2693,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 
 <br>
 
-*In plain terms: a **Sentience-Status Adjudication Record** is the honest, inspectable file for a sentience-status decision — who or what was reviewed, what status was found or left contested, on what evidence, under which forum route, with what end-dates or review triggers, and how the case can be reopened. It is not a Standing Record, not the whole Forum Case Record, and not a label someone can invent by self-description.*
+*In plain terms: a **Sentience-Status Adjudication Record** is the honest, inspectable file for a sentience-status decision — who or what was reviewed, what status was found or left contested, on what evidence, under which forum route, who represents the entity, how declined filings are logged, with what end-dates or review triggers, and how the case can be reopened. It is not a Standing Record, not the whole Forum Case Record, and not a label someone can invent by self-description.*
 
 - **What it is**
   - **In scope:** The bounded, reviewable record produced or updated when [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) runs under **Article V-E** (*Sentience-Status Adjudication Floor*). A **Sentience-Status Adjudication Record** states at least:
@@ -2700,8 +2703,10 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - the indicators and expert evidence relied on, with material uncertainty noted;
     - interim [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) treatment while status remains live;
     - the declared end-date or mandatory review trigger for this posture;
-    - any narrowing's declared expected-closure timeline and mandatory periodic-review trigger; and
-    - the reopening evidence standard — new verified evidence, not calendar-only reopening.
+    - any narrowing's declared expected-closure timeline and mandatory periodic-review trigger;
+    - the reopening evidence standard — new verified evidence, not calendar-only reopening;
+    - the independent representative — appointment path, conflict screen, and access terms; and
+    - the intake-decline log — where declined filings are recorded, Integrity sample cadence, and the published floor set of indicators.
   - This edition lists [`corpus_forum/cf_sentience_status_record.md`](corpus_forum/cf_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated record format under [Chapter Sixteen](core_16_incorporation.md). They implement, and do **not** narrow, **Article V-E** (*Sentience-Status Adjudication Floor*). The minimum fields in [Chapter Eleven §5](core_11_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook) still govern record contents. That hook is **not** a full appointments or filing statute.
   - **Depends on:** [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional); [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
   - **Out of scope:**
@@ -2719,8 +2724,10 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     2. names the lead forum family and any special route actually used;
     3. states the evidence and uncertainty relied on in [Auditability](core_05_band_oversight.md#auditability)-compatible form;
     4. preserves interim Contested-Sentient Life treatment while status remains live;
-    5. for any narrowing, carries a declared expected-closure timeline and mandatory periodic-review trigger; and
-    6. states a reopening path on new verified evidence, not calendar-only reopening.
+    5. for any narrowing, carries a declared expected-closure timeline and mandatory periodic-review trigger;
+    6. states a reopening path on new verified evidence, not calendar-only reopening;
+    7. names the independent representative's appointment path, conflict screen, and access terms, or records that the filing was declined at intake before a case opened; and
+    8. names where declined filings are logged, on what cadence Integrity samples them, and the published floor set of indicators.
 <a id="sentience-status-adjudication-record-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** treating operator self-description, a substrate label, an intake tag, or an incomplete case note as a Sentience-Status Adjudication Record; or using the record to withhold, narrow, or revoke Chapter Six protection on unresolved uncertainty alone;

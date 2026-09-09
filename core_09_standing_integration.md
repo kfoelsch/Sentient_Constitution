@@ -122,7 +122,7 @@ Contribution descriptors may orient matched competency bars and clearances. Viol
 <a id="4-violation-correction-and-prevention"></a>
 ### 4. Violation, correction, and prevention
 
-*In plain terms: Something bad happened. How do we create a durable fix? This section answers in order — **remedy and correction**, then **prevention** locks, then **voluntary public accountability expression** where a restorative pathway uses it. Once Chapter Eight has verified a violation, remedy and correction come from that record alone — fix what was broken, and change what caused it — then prevention locks hold sensitive named pathways closed until those conditions are met. Public acknowledgment or apology, if used, is supplementary and never substitutes for repair or locks. Past contribution does not soften the duty, cancel a lock, or substitute for verified repair. Forums supervise implementation and challenge; they do not invent a different consequence from the verified record.*
+*In plain terms: Something bad happened. How do we create a durable fix? This section answers in order — **remedy and correction**, then **prevention** locks, then **voluntary public accountability expression** where a restorative pathway uses it, and finally the **remedy-parity** rule that keeps the cheap half of this section from outrunning the expensive half. Once Chapter Eight has verified a violation, remedy and correction come from that record alone — fix what was broken, and change what caused it — then prevention locks hold sensitive named pathways closed until those conditions are met. Public acknowledgment or apology, if used, is supplementary and never substitutes for repair or locks. Past contribution does not soften the duty, cancel a lock, or substitute for verified repair. Forums supervise implementation and challenge; they do not invent a different consequence from the verified record.*
 
 Violation, correction, and prevention are determined from the violation standing record alone. Contribution is not an input to remedy, correction, safeguard, lock assignment, or voluntary public accountability expression. It may later show capacity to perform an obligation, but it cannot change the obligation or the unresolved status that supports it.
 
@@ -199,6 +199,23 @@ Where restorative pathways for a verified violation include public acknowledgmen
   - irreversible reputational harm.
 
 Anti-constitutional misconduct specializations — including designation-triggered rules and designation-linked consequences for inauthentic expression — are governed by [Chapter Ten §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary public accountability expression (anti-constitutional)*).
+
+<a id="44-remedy-parity-and-lock-preconditions"></a>
+#### 4.4 Remedy parity and lock preconditions
+
+*In plain terms: locks are cheap to issue; repair, restoration, and review are expensive to run. Left alone, the cheap half of this chapter keeps working while the expensive half starves. This subsection ties them together: an ordinary lock cannot attach until the remedy file for the same finding is actually open, and when an adopter's remedy or restoration work for a class of locks falls behind its clock, new ordinary locks in that class default to the lightest form and existing ones come up for review. The gravest locks are exempt so that flooding the remedy queue cannot spring them.*
+
+**Opened-remedy precondition.** Beyond interim protective measures under [Chapter Eleven §5](core_11_forum.md#interim-protection) (*Interim protection*), a general standing lock under [§4.2](#42-general-standing-locks) may not attach to a named pathway until the [§4.1](#41-remedy-and-correction) integration record for the same verified finding is **open** — meaning at least the affected parties, the remedy owed, the responsible party, the funding source, and the start date are stated in plain view. Completion of remedy is not required for a lock to attach; an opened remedy record is. A lock attached without an opened remedy record is defective and must be cured or narrowed to interim protective scope on the [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier clock.
+
+**Remedy-parity tripwire.** Adopters must publish, for each period and each lock class they administer, the number of general locks issued, remedies commenced, remedies completed, restorations decided, and reassessments pending. Where remedy commencement or restoration review for a lock class exceeds its Chapter Eleven §6 tier outer bound:
+
+- new general locks in that class default to **open with safeguards** under [§7](#7-final-standing-effect) unless the integration record documents a specific irreversible-harm or safety risk that requires **blocked**;
+- existing general locks in that class enter mandatory reassessment under [§8](#8-restoration-and-reassessment) on the same tier clock; and
+- the capacity failure is recorded as a durability failure under [§9.2](#92-remedy-system-durability) and routed under the [Chapter Eleven §3](core_11_forum.md#3-transfer-consolidation-and-coordination) capacity-failure rule, outside the family or system whose capacity is in question.
+
+**Exemptions.** The tripwire does not relax [§5.5](#55-special-locks) special locks, locks attached to Violation Axis slot **7**, **8**, or **9** findings, or coercive or liberty-restricting safeguards under [§5.4](#54-special-violation-rules). Filings verified as contest-pathway flooding under [§10.10](#1010-contest-pathway-or-info-sphere-flooding) do not count toward the backlog that trips this rule.
+
+**Measurement.** The ratio of locks issued to remedies commenced and restorations decided is a constitutional performance indicator under the [Constitutional Performance measurement family](core_05_band_performance.md#performance-measurement-family). A ratio that widens over successive periods is evidence of [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) on the violation side and of a [§9](#9-enforcement-realism) paper-pathway failure on the remedy side; it is not a neutral operations metric.
 
 <a id="5-lock-design-and-enforcement"></a>
 ### 5. Lock design and enforcement
@@ -587,6 +604,25 @@ The record must show which of the following produced the effect:
 
 It must also expose the inputs, weights, rules, and review routes used. The final effect is not a dignity rank, merged merit score, universal reputation label, or substitute for the underlying records.
 
+<a id="71-anti-aggregation-of-named-pathway-effects"></a>
+#### 7.1 Anti-aggregation of named-pathway effects
+
+*In plain terms: this chapter says what standing is not. This subsection stops anyone from building the thing it is not. Effects are stated one named pathway at a time and shown only to whoever gates that named pathway. Stitching them together into a profile, a rank, or a public display constructs the merged score this chapter forbids — and doing so is itself a violation.*
+
+- **Disclosure scope.** The final effect for a named pathway is disclosed to the subject, to the gatekeeper of that named pathway, and to authorized reviewers. It is not disclosed to gatekeepers of other named pathways as a matter of course.
+- **Prohibited aggregation.** Assembling final effects across named pathways into a profile, composite, ranking, tier, badge, public display, or comparable artifact; transferring an effect to a named pathway that did not produce it; or inferring general trustworthiness, worth, or risk from the set of a subject's effects constructs a merged score. It is independently measurable violation conduct under [Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model), read with [Article VII-B](core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*Internal-State Boundary and Type-N Protection*), whose aggregation discipline this subsection mirrors for standing.
+- **Bounded exceptions.** [Integrity forums](core_11_forum.md#45-integrity-forums) examining capture or pattern claims, [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) designation review, and [§9.4](#94-anti-evasion-and-look-through-authority) look-through may view cross-pathway records, under recusal rules and the [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) clocks, for that proceeding only. [Chapter Eight §3.2](core_08_standing_assessment.md#32-related-record-cross-references) cross-references between linked records remain; they are record links, not a composite.
+- **Public LEQU display.** Violation Axis and Contribution Axis slots are not published as a general attribute of a sentient. They appear in the record, in forum proceedings, and in the disclosure to the named-pathway gatekeeper where the slot is a lawful input to that named pathway.
+
+<a id="72-plain-statement-of-effect-and-burden"></a>
+#### 7.2 Plain statement of effect and burden
+
+*In plain terms: no one should learn what a standing effect does to them from its consequences. The record must tell the subject, in plain language, exactly which named pathways are affected, what they must do, how long it lasts, and where to contest it — and the adopter must measure whether sentients are experiencing standing as a score, because the rule that it is not one is worthless if that is how it lands.*
+
+- **Plain-language statement to the subject.** When a final effect other than **no effect** attaches, the subject must receive a plain-language statement naming each affected named pathway; what the subject may and may not do while the effect holds; the corrective conditions and reassessment point; the expected duration or review cadence; and the challenge route under **Article XII-B** (*Right to Challenge, Review, and Redress*). The statement must satisfy [Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) and **Article XX-A** (*Proportional Comprehensibility Right*).
+- **Honest cost.** A standing lock closes real doors and an inspectable-action duty is a real burden on the steward who carries it. Adopters must state those costs plainly in the material that describes standing to affected sentients, alongside what standing is not. Describing only the limits of standing while omitting its weight is a [Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) defect.
+- **Felt-burden measure.** Adopters must measure, under the [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family), whether affected sentients experience standing effects as a general worth rank, reputation score, or permanent status rather than as bounded named-pathway conditions. Material divergence between the legal category and the lived one is [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) under [Chapter One §6.2.4](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation): it must be documented, escalated, and corrected through design, disclosure, or [§7.1](#71-anti-aggregation-of-named-pathway-effects) enforcement — not explained away.
+
 <a id="8-restoration-and-reassessment"></a>
 ### 8. Restoration and reassessment
 
@@ -602,6 +638,15 @@ Reassessment begins when the record's stated trigger is met or when material new
 6. whether renewed access is compatible with the Rights Floor and the protected constitutional interests.
 
 Restoration is not automatic forgiveness, record erasure, or contribution offset. Partial completion may justify a narrower lock only when the remaining protection is sufficient. Repetition after otherwise completed remedy may support a recurrence-persistence lock. The special restoration rules for Forum-Service, Stakeholder-Participation, and Anti-Constitutional Trust Locks control over this general rule.
+
+<a id="81-rest-state-and-archival"></a>
+**Rest state and archival.** Contribution has a currentness half-life under [§6.1](#61-recency-and-currentness); a violation record must also have a rest state, or a resolved finding follows a sentient indefinitely and becomes the permanent status [Chapter Eight §2.1](core_08_standing_assessment.md#21-standing-records-as-the-unit-of-application) forbids. Once restoration is complete and no lock, remedy duty, or correction duty remains open, the violation record leaves active integration:
+
+- slot **1**, **2**, or **3** findings are archived on completed restoration;
+- slot **4**, **5**, or **6** findings are archived after a published period that may not exceed the [§6.1](#61-recency-and-currentness) contribution half-life;
+- slot **7**, **8**, or **9** findings remain active indefinitely, subject to [§5.5](#55-special-locks) restoration rules and Chapter Ten.
+
+Archival is not deletion. [Evidence Preservation](core_05_band_oversight.md#evidence-preservation) continues; the archived record remains reachable to a forum on a documented showing that it bears on recurrence risk in a live matter; and archival is recorded in the version history under [Chapter Eight §3.4](core_08_standing_assessment.md#34-versioning). An archived record produces no named-pathway effect, is not disclosed to named-pathway gatekeepers, and is not an input to competency bars, except where a published bar for a specific high-sensitivity named pathway states a longer look-back and that statement itself satisfies [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality).
 
 <a id="9-enforcement-realism"></a>
 ### 9. Enforcement realism and remedy systems
@@ -669,6 +714,9 @@ The following violate this rule where they foreseeably nullify challenge or reme
 - chronic milestone failure.
 
 Under-appointment of **Integrity**, **Constitutional**, or **Environment** forum benches, or of **Technical Forum Domains** benches that hear sentience-status adjudication, is a durability failure under this subsection, read with [Chapter Twelve §1.2](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums).
+
+<a id="92-remedy-parity-funding-floor"></a>
+**Remedy-parity funding floor.** For each system class an adopter administers, the capacity funded for remedy, restoration, and reassessment must be no less than the capacity funded for lock administration, enforcement, and safeguard imposition on the same class. The ratio must be published with the [§4.4](#44-remedy-parity-and-lock-preconditions) tripwire figures. An adopter that departs from parity must record the reasons under [Chapter Twelve §3.1](core_12_governance.md#31-stewardship-direction) and show, on the record, that remedy commencement and restoration review are nonetheless meeting their tier clocks; budget parity does not excuse a tripped [§4.4](#44-remedy-parity-and-lock-preconditions) tripwire, and a met tripwire does not excuse silent departure from parity. An adopter that cannot fund remedy for a class of systems must not stand up lock machinery for that class.
 
 <a id="93-cross-jurisdiction-continuity"></a>
 #### 9.3 Cross-jurisdiction continuity

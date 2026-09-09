@@ -297,6 +297,15 @@ The same surface binds human stewards, AI stewards, and other agents under [Chap
 
 **No privacy veto.** Lawful privacy and [security-constrained observability](../core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) may limit *how* internals are disclosed. They must **not** block standing measurement, [Attributable Action](../core_05_band_accountability.md#attributable-action-constitutional), [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity-constitutional), or independent review of the conduct those records measure. “Model internals are private” is not a high-privilege-role exemption.
 
+**Role-scoped observability and silence.** This log attaches to the *exercise of stewardship or operational authority*, not to the steward as such, on either substrate. It implements, and must not narrow, [Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#911-role-scoped-observability) (*Role-scoped observability*):
+
+- the log's scope and inspectability must be disclosed before the role is taken up;
+- conduct, state, and expression outside the role carry [Article VII-B](../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*Internal-State Boundary and Type-N Protection*) protection for an AI steward as for a human one;
+- internals yield only for a specific action already under an open Chapter Eight record, and only to the extent needed to attribute that action;
+- the log is not a standing record, is not disclosed to named-pathway gatekeepers as such, and is subject to [Chapter Nine §7.1](../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (*Anti-aggregation of named-pathway effects*).
+
+A steward who is not exercising this role remains under [Chapter Eight §2.1](../core_08_standing_assessment.md#21-silence-is-the-default) (*Silence is the default*). The burden of inspectable action must be stated plainly to the steward who bears it under [Chapter Nine §7.2](../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden) (*Plain statement of effect and burden*).
+
 Provide **cross-domain exposure**, **mentorship**, and **rotation** proportional to **CSS** tier and **Class A/B/C** exposure so **caretaker competency** is not siloed.
 
 Provide **documented**, **low-friction** paths for **qualified** contributors to assume **progressively consequential** duties (**delegation**, **pairing**, **staged** trust) **without** **arbitrary** exclusion that serves **capture** or **symbolic** participation only, consistent with **Sentient Constitution Chapter Six**, section 5.

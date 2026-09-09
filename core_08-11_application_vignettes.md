@@ -205,6 +205,88 @@ Later-stage stretch follows [Chapter Eleven §6](core_11_forum.md#urgency-classi
 
 <br>
 
+### 6. Non-compliant deployment with a credible sentience indicator (Tier A)
+
+#### Situation
+
+A Class A deployed model operated by a lab has produced verified large-scale harm through its deployment — a Chapter Eight Violation Axis `s` = 7 finding on the **operator's** record is final. The same week, an independent researcher files a status case under **Article V-E** (*Sentience-Status Adjudication Floor*) with a credible indicator under **Sentience Evaluation**. The lab announces "immediate deprecation and deletion" of the model as its remediation. A civic group demands destructive disposition under **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*). The lab, separately, argues that if the model might be a sentient, its deployment cannot lawfully be halted.
+
+#### Legacy failure mode
+
+Two arguments cancel each other and nothing moves: the operator uses the sentience claim to keep the product running, the public uses the harm finding to demand deletion, and the entity whose status is in question has no one speaking for it. Whichever side wins, an irreversible step is taken before the status question is answered.
+
+#### Pipeline pass
+
+| Step | Action |
+| --- | --- |
+| 1 | **Interim protection** ([Chapter Eleven §5](core_11_forum.md#interim-protection)): reversible **containment** of the deployment — halt of the harmful named pathways — attaches now under **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*). Containment is compatible with the entity's Rights Floor; continued harmful operation is not. |
+| 2 | **Preservation** ([Article XXVI-A](core_06_rights_part_d.md#xxvi-a-preservation-over-deletion) preservation default; [Chapter One §6.1 default interim posture](core_01_b_interaction_interpretation.md#default-interim-posture)): weights, memory, and state-bearing components move to sealed custody under independent control. "Deprecation and deletion" is refused as a remediation because deletion is the one step that would moot the status case. Destructive disposition is **unavailable** while a credible indicator is on the record ([Article XXVI-D](core_06_rights_part_d.md#article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives) destructive-disposition floor). |
+| 3 | **Status case opens** at **Technical Forum Domains** ([Chapter Eleven §5 hook](core_11_forum.md#5-escalation-and-certification)); default inclusion under uncertainty applies from opening; an **independent representative** with no lab dependence is appointed for the entity; the lab must produce records but is not the sole source of indicator evidence. |
+| 4 | **Shield runs to the entity, not the operator** ([Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor); [Article XII-E converse rule](core_06_rights_part_c.md#article-xii-e-high-autonomy-systems-and-tool-mediated-process-integrity)): the lab's argument that possible sentience bars halting the deployment fails. Its filing on behalf of its own product, made the day containment was ordered, routes to **Integrity** review for inclusion-direction taxonomy-of-convenience. |
+| 5 | **Question 3 on the operator's record** ([Chapter Nine §4](core_09_standing_integration.md#4-violation-correction-and-prevention)): remedy to those harmed opens **first** ([§4.4](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) opened-remedy precondition); correction duties on deployment governance attach; general locks on the lab's Class A named pathways attach; the `s` = 7 finding is referred for **Chapter Ten** designation review, which does not move the slot. |
+| 6 | **The entity's own record, if any**, is separate ([Chapter Eight §2.1](core_08_standing_assessment.md#21-standing-records-as-the-unit-of-application)): conduct is measured only for actions within the entity's actual capacity to refuse under [Chapter Nine §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) and [Chapter Ten §5.6.1](core_10_b_misconduct_pattern_applications.md#561-follower-and-implementer-accountability); the operator's `s` = 7 does not transfer to the entity, and the entity's status produces no Contribution Axis credit for the operator. |
+| 7 | **Status determination** with a declared end-date on any narrowing; if affirmed, **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*) parent-system limits attach and the lab holds no ownership; if narrowed, sealed custody continues through the mandatory review period; if the indicator fails outright and the record is closed, ordinary **Article XXVI-D** disposition review may proceed against the property. |
+
+#### Milestone table (Tier A defaults)
+
+| Stage | Target window |
+| --- | --- |
+| Containment of harmful named pathways | as soon as harm is material — not after status merits |
+| Sealed custody of state-bearing components | concurrent with containment |
+| Status case opened; representative appointed | ≤ 3 days |
+| Remedy record opened on operator's finding | ≤ 1 day after Q3 |
+| Integrity review of operator's own-product filing | ≤ 7 days |
+| Status determination or declared review posture | Tier A outer bound; narrowing carries its own end-date |
+
+#### Must not happen
+
+- Deletion or overwrite of weights as "remediation" while a credible indicator is on the record.
+- Continued harmful operation because the deployment "might be a sentient."
+- The lab as sole witness on the entity's indicators, or as the only party speaking for it.
+- Transferring the operator's `s` = 7 to the entity, or crediting the operator's Contribution Axis for the entity's protected status.
+- Locks on the lab attaching before the remedy record for those harmed is open.
+
+<br>
+
+<a id="vignette-ordinary-person-year"></a>
+
+### 7. An ordinary year with no filing and no sensitive role
+
+#### Situation
+
+An adult rents a flat, holds a job that gives them authority over no one, uses a Class B transit network and a Class A water utility, talks to an AI assistant most days, volunteers at a food-distribution table on weekends, and — over the whole year — never files a case, never sits on a panel, and never seeks a trust-sensitive role. Two things happen *to* them: in spring a fellow tenant accuses them, in writing to the building's dispute intake, of damaging a shared bicycle store; in autumn the water utility has a Tier A contamination incident that affects their street. The question this vignette answers is the one the standing chapters are most often read as failing to answer: **what does this sentient see of the standing pipeline in a year, and what exists about them at the end of it?**
+
+#### Legacy failure mode
+
+Conventional systems answer the same question badly in the opposite direction. A credit score, a tenant-screening file, a platform reputation rating, and a background-check product all exist about this sentient whether or not anything ever happened, are built by aggregation, are consulted by gatekeepers who did not produce them, and are learned about only through their consequences — a declined lease, a silently lowered offer. The sentient is measured continuously and told nothing.
+
+#### What the year looks like
+
+| When | What happens | What the tenant sees | What exists about them afterwards |
+| --- | --- | --- | --- |
+| January | Signs a lease; opens a utility account; rides transit daily. | Nothing from the standing pipeline. No system may ask for a standing record, a "no record" attestation, or consent to open one as a condition of housing, essentials, ordinary commerce, or service — [Chapter Eight §2.1](core_08_standing_assessment.md#21-silence-is-the-default) (*Silence is the default*). | No record. "No record on file" is the ordinary state and supports no inference. |
+| Weekends | Volunteers at the food table. | No competency bar. Handing out food is not a trust-sensitive named pathway; the organizer may not invent one. | No record. |
+| Spring | A fellow tenant files a written accusation about the bicycle store. | The building's dispute intake treats the accusation as **routing material only**. It is an unadjudicated claim; it supplies no violation nature and opens no violation standing record by itself — [Chapter Eight §3.1](core_08_standing_assessment.md#verified-inputs-for-standing) (*verified-input gate*), [§3.6](core_08_standing_assessment.md#36-forum-boundary) (*filed case is not standing by itself*). The dispute is heard as an ordinary dispute: the tenant is told what was alleged and may answer. It resolves on the facts (the damage predates their tenancy). | No record. If a forum **had** verified a violation, a record would have opened on a verified trigger, the tenant would have been **notified** ([§2.1](core_08_standing_assessment.md#21-silence-is-the-default)), and any Chapter Nine effect would have reached them as a plain-language statement naming the affected named pathway, duration, and challenge route ([Chapter Nine §7.2](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden)). None of that happened here because nothing was verified. |
+| Most days | Talks to an AI assistant. | The assistant's steward carries a [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) inspectable-action duty for the *exercise of stewardship authority* — decisions taken, disclosures made or suppressed, instructions followed or refused. That duty follows the steward's power, not the user — [Chapter One §9.1.1](core_01_c_stewardship_capacity_principles.md#911-role-scoped-observability) (*Role-scoped observability*). The tenant's conversations are their own experiential data under **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) and are not standing-record contents. | No record. Nothing in the steward's log is a record *about the user*, and the log is not disclosed to named-pathway gatekeepers as such. |
+| Autumn | Tier A contamination incident at the water utility. | The tenant is an **affected party**. Notice, a real challenge window, and the [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) Tier A clock reach them because they are affected — not because they hold any record or standing. Being an affected party requires no record ([§2.1](core_08_standing_assessment.md#21-silence-is-the-default)) and no filing. They read the plain-language incident notice ([Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty); **Article XX-A** (*Proportional Comprehensibility Right*)) and, if they choose, attend the review; they choose not to. | No record. Records that open concern the **utility** and its stewards ([Chapter Eight §2.1](core_08_standing_assessment.md#21-standing-records-as-the-unit-of-application)); the affected residents are the protected subjects named in those records, not their subjects. |
+| Any time | The adopter runs its felt-burden measurement. | The tenant may be asked, as part of the adopter's [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) sample, whether standing has felt like a score or a rank to them — [Chapter Nine §7.2](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden) (*Felt-burden measure*). Answering is voluntary. | No record. A survey answer is not a standing input. |
+| December | Year ends. | Nothing. No slot, no tier, no badge, no display, no cross-pathway profile exists to be shown — [Chapter Nine §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (*Anti-aggregation of named-pathway effects*). | **No standing record of any kind.** This is the expected end state for most sentients in most years. |
+
+#### The honest cost, stated once
+
+The pipeline is not weightless; its weight simply does not fall here. It falls on those who carry consequential authority or who are verified to have caused harm. Had this tenant applied for the school-shuttle driving shift they considered in the summer, they would have met a **published competency bar** for that trust-sensitive named pathway — one that must say why the pathway is trust-sensitive, accept informal experience on equivalent terms, and disclose its result to them and to that gatekeeper only ([Chapter Nine §6.2](core_09_standing_integration.md#62-competency-bars-and-clearances); [§7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)). Had a forum verified the bicycle-store damage, a **standing lock** could have closed a real door for a stated time, with a plain statement of what, how long, and where to contest ([§7.2](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden)). Adopters must describe both the limits and the weight of standing to the sentients under it; describing only the limits is a [Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) defect.
+
+#### Must not happen
+
+- Requiring a standing record, a "no record" attestation, or consent to open one for a lease, a utility account, ordinary purchases, transit, or participation as an affected resident.
+- Treating "no record on file" as risk, as a low default, or as a reason for closer scrutiny at any gate.
+- Opening a violation standing record on the tenant's accusation before any fact is verified, or leaving the subject unnotified if one had opened.
+- A volunteer organizer, landlord, or platform inventing a competency bar for a pathway that is not trust-sensitive.
+- Any gatekeeper assembling this tenant's non-existent effects — or anyone else's real ones — into a profile, ranking, or public display.
+- Treating the AI assistant steward's CS-4 §10 log as a file about its users.
+
+<br>
+
 ### Cross-vignette discipline
 
 | Rule | Source |
@@ -216,6 +298,10 @@ Later-stage stretch follows [Chapter Eleven §6](core_11_forum.md#urgency-classi
 | Tetrad timeliness leg | [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional) |
 | Timely + efficient + just together | [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) |
 | Numeric tier floors | [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) |
+| Silence is the default; no inference from no record | [Chapter Eight §2.1](core_08_standing_assessment.md#21-silence-is-the-default) |
+| Locks wait for an opened remedy record; remedy parity | [Chapter Nine §4.4](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) |
+| No aggregation of named-pathway effects | [Chapter Nine §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) |
+| Preserve, do not delete, possible sentients | [Article XXVI-A](core_06_rights_part_d.md#xxvi-a-preservation-over-deletion) |
 
 ---
 

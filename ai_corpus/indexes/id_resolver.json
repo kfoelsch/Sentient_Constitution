@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-09T15:31:55+00:00",
+  "generated_at": "2026-09-09T19:55:39+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -158,7 +158,7 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-111-core-rule",
       "heading": "CF-11.1 Core rule",
-      "line": 74,
+      "line": 76,
       "kind": "section",
       "gloss": "Performance is measured by what an affected party can actually do: find out where the matter stands, reach a forum without unreasonable delay, and challenge a decision while the remedy still matters."
     },
@@ -166,7 +166,7 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-1110-lived-conditions-during-restriction-and-re-entry-alignment-cross-layer",
       "heading": "CF-11.10 Lived conditions during restriction and re-entry alignment (cross-layer)",
-      "line": 413,
+      "line": 419,
       "kind": "section",
       "gloss": "Where a matter involves coercive or containment conditions, forum timing must be checked against the systems-layer floors for lived conditions. Good calendar numbers do not excuse bad conditions."
     },
@@ -174,7 +174,7 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-112-urgency-scaled-service-requirements-notice-through-remediation-closure",
       "heading": "CF-11.2 Urgency-scaled service requirements (notice through remediation closure)",
-      "line": 86,
+      "line": 88,
       "kind": "section",
       "gloss": "Timing requirements scale with urgency and cover the whole span — from first notice through to remediation actually being closed out, not merely ordered."
     },
@@ -182,35 +182,35 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-1121-purpose-and-owner-boundary",
       "heading": "CF-11.2.1 Purpose and owner boundary",
-      "line": 98,
+      "line": 100,
       "kind": "section"
     },
     "CF-11.2.2": {
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-1122-service-lifecycle-traceability",
       "heading": "CF-11.2.2 Service lifecycle traceability",
-      "line": 114,
+      "line": 116,
       "kind": "section"
     },
     "CF-11.2.3": {
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-1123-minimum-urgency-levels",
       "heading": "CF-11.2.3 Minimum urgency levels",
-      "line": 125,
+      "line": 127,
       "kind": "section"
     },
     "CF-11.2.4": {
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-1124-cross-layer-requirements-and-escalation",
       "heading": "CF-11.2.4 Cross-layer requirements and escalation",
-      "line": 150,
+      "line": 152,
       "kind": "section"
     },
     "CF-11.3": {
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-113-metric-registry-and-reporting-taxonomy",
       "heading": "CF-11.3 Metric registry and reporting taxonomy",
-      "line": 166,
+      "line": 168,
       "kind": "section",
       "gloss": "The single list of what every forum family must measure and publish. Later sections apply these categories rather than inventing parallel ones."
     },
@@ -218,28 +218,28 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-1131-target-windows-and-timing-floors",
       "heading": "CF-11.3.1 Target windows and timing floors",
-      "line": 187,
+      "line": 190,
       "kind": "section"
     },
     "CF-11.3.2": {
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-1132-publication-timeliness",
       "heading": "CF-11.3.2 Publication timeliness",
-      "line": 233,
+      "line": 236,
       "kind": "section"
     },
     "CF-11.3.3": {
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-1133-restricted-evidence-timing",
       "heading": "CF-11.3.3 Restricted-evidence timing",
-      "line": 243,
+      "line": 246,
       "kind": "section"
     },
     "CF-11.4": {
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-114-performance-thresholds-and-alerts",
       "heading": "CF-11.4 Performance thresholds and alerts",
-      "line": 261,
+      "line": 264,
       "kind": "section",
       "gloss": "Each family sets the numbers at which a measure stops being a statistic and becomes an alarm — aging, backlog, accuracy, publication failure, and constitutional risk."
     },
@@ -247,7 +247,7 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-115-required-remediation-actions-for-threshold-crossings",
       "heading": "CF-11.5 Required remediation actions for threshold crossings",
-      "line": 289,
+      "line": 294,
       "kind": "section",
       "gloss": "Crossing a threshold obliges an attributable record and a fix, so a breach cannot be absorbed silently into the next reporting period."
     },
@@ -255,7 +255,7 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-116-forum-performance-review-cadence",
       "heading": "CF-11.6 Forum-performance review cadence",
-      "line": 315,
+      "line": 320,
       "kind": "section",
       "gloss": "Performance must be reviewed on a fixed schedule and compared against earlier periods, so a slow slide is visible before it becomes a crisis."
     },
@@ -263,14 +263,14 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-1161-assurance-scenarios",
       "heading": "CF-11.6.1 Assurance scenarios",
-      "line": 328,
+      "line": 333,
       "kind": "section"
     },
     "CF-11.7": {
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-117-governance-disclosure-fields-supporting-records-accessibility-and-pathway-usability",
       "heading": "CF-11.7 Governance disclosure fields, supporting records, accessibility, and pathway usability",
-      "line": 349,
+      "line": 354,
       "kind": "section",
       "gloss": "What the public report must actually show, broken out by family and urgency, so outsiders can see where matters are stuck rather than only a reassuring average."
     },
@@ -278,7 +278,7 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-118-contest-integrity-monitoring-interface",
       "heading": "CF-11.8 Contest-integrity monitoring interface",
-      "line": 386,
+      "line": 391,
       "kind": "section",
       "gloss": "Independent monitors read the performance data and ask the harder question: do the delays cluster where conflict, capture, or retaliation would predict?"
     },
@@ -286,7 +286,7 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-119-non-compliant-performance-patterns",
       "heading": "CF-11.9 Non-compliant performance patterns",
-      "line": 399,
+      "line": 404,
       "kind": "section",
       "gloss": "Named failure shapes that are presumed non-compliant — chronic delay concentrated in emergency matters, backlogs that predictably defeat remedy, and unexplained publication delay on significant rulings."
     },
@@ -647,7 +647,7 @@
       "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
       "anchor": "#cf-41-lawful-panel-definitions",
       "heading": "CF-4.1 Lawful panel definitions",
-      "line": 65,
+      "line": 66,
       "kind": "section",
       "gloss": "The vocabulary for the rest of the file: what counts as a panel member, and what makes a bench lawful."
     },
@@ -655,7 +655,7 @@
       "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
       "anchor": "#cf-410-certifier-for-inability-to-form-findings",
       "heading": "CF-4.10 Certifier for inability-to-form findings",
-      "line": 235,
+      "line": 236,
       "kind": "section",
       "gloss": "Someone specific and independent must sign the finding that no lawful panel can be formed, and give reasons — otherwise the finding becomes an easy escape hatch."
     },
@@ -663,7 +663,7 @@
       "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
       "anchor": "#cf-411-backup-forum-activation",
       "heading": "CF-4.11 Backup-forum activation",
-      "line": 249,
+      "line": 250,
       "kind": "section",
       "gloss": "Once inability-to-form is certified or the lead family is compromised, moving the matter to the backup family is mandatory, not discretionary."
     },
@@ -671,7 +671,7 @@
       "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
       "anchor": "#cf-412-interim-relief-while-panel-independence-is-disputed",
       "heading": "CF-4.12 Interim relief while panel independence is disputed",
-      "line": 267,
+      "line": 268,
       "kind": "section",
       "gloss": "While the fight over who may hear the case continues, a provisional authority may still act — but only to stop irreversible harm, preserve evidence, or protect safety."
     },
@@ -679,15 +679,22 @@
       "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
       "anchor": "#cf-413-required-records-for-panel-formation-and-recusal",
       "heading": "CF-4.13 Required records for panel formation and recusal",
-      "line": 282,
+      "line": 283,
       "kind": "section",
       "gloss": "The paperwork that lets someone reconstruct later how this particular bench came to hear this particular case."
+    },
+    "CF-4.14": {
+      "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+      "anchor": "#cf-414-independent-representative-appointment",
+      "heading": "CF-4.14 Independent representative appointment",
+      "line": 303,
+      "kind": "section"
     },
     "CF-4.2": {
       "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
       "anchor": "#cf-42-minimum-lawful-panel-requirements",
       "heading": "CF-4.2 Minimum lawful-panel requirements",
-      "line": 87,
+      "line": 88,
       "kind": "section",
       "gloss": "Each family must publish its own panel rules in advance — how many members, what counts as quorum, what expertise each seat needs, and who replaces whom. Deciding this after a case arrives invites manipulation."
     },
@@ -695,7 +702,7 @@
       "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
       "anchor": "#cf-43-publication-and-pre-assignment-transparency",
       "heading": "CF-4.3 Publication and pre-assignment transparency",
-      "line": 102,
+      "line": 103,
       "kind": "section",
       "gloss": "How members are picked must be public before a case arrives, along with how to object to a given assignment."
     },
@@ -703,7 +710,7 @@
       "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
       "anchor": "#cf-44-mandatory-disclosures-before-merits-participation",
       "heading": "CF-4.4 Mandatory disclosures before merits participation",
-      "line": 118,
+      "line": 119,
       "kind": "section",
       "gloss": "Before touching the merits, a proposed member must disclose anything that could reasonably raise a question about impartiality — financial interest, close relationships, prior involvement."
     },
@@ -711,7 +718,7 @@
       "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
       "anchor": "#cf-45-recusal-triggers",
       "heading": "CF-4.5 Recusal triggers",
-      "line": 144,
+      "line": 145,
       "kind": "section",
       "gloss": "The situations where stepping aside is required rather than optional, including having already acted in the matter in another role."
     },
@@ -719,7 +726,7 @@
       "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
       "anchor": "#cf-46-recusal-challenge-workflow",
       "heading": "CF-4.6 Recusal challenge workflow",
-      "line": 168,
+      "line": 169,
       "kind": "section",
       "gloss": "A usable route for a party to say \"this member should not be hearing my case\" — in plain language, with a decision that can itself be reviewed."
     },
@@ -727,7 +734,7 @@
       "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
       "anchor": "#cf-47-strategic-or-abusive-recusal",
       "heading": "CF-4.7 Strategic or abusive recusal",
-      "line": 188,
+      "line": 189,
       "kind": "section",
       "gloss": "Recusal cuts both ways. Stepping aside to dodge a politically awkward case, to create delay, or to steer a matter to a preferred substitute is itself misconduct."
     },
@@ -735,7 +742,7 @@
       "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
       "anchor": "#cf-48-replacement-and-substitute-selection",
       "heading": "CF-4.8 Replacement and substitute selection",
-      "line": 201,
+      "line": 202,
       "kind": "section",
       "gloss": "Replacements follow a published order rather than being hand-picked for the case, and a substitute carrying the same conflict is no substitute."
     },
@@ -743,7 +750,7 @@
       "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
       "anchor": "#cf-49-inability-to-form-an-independent-panel",
       "heading": "CF-4.9 Inability to form an independent panel",
-      "line": 214,
+      "line": 215,
       "kind": "section",
       "gloss": "What it means when a family genuinely cannot assemble a clean bench — too many conflicts, cascading recusals, capture indicators, or deadlock over composition."
     },
@@ -759,7 +766,7 @@
       "file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
       "anchor": "#cf-51-published-intake-classes",
       "heading": "CF-5.1 Published intake classes",
-      "line": 57,
+      "line": 59,
       "kind": "section",
       "gloss": "Every family must publish how it sorts incoming matters by urgency, with at least three levels, and add finer sorting when volume demands it."
     },
@@ -767,7 +774,7 @@
       "file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
       "anchor": "#cf-52-intake-triage-body",
       "heading": "CF-5.2 Intake triage body",
-      "line": 66,
+      "line": 68,
       "kind": "section",
       "gloss": "Somebody must own the first touch — sorting arrivals into the published classes — and that role carries the same independence and challenge expectations as the rest of the process."
     },
@@ -775,9 +782,16 @@
       "file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
       "anchor": "#cf-53-natural-systems-representatives",
       "heading": "CF-5.3 Natural-systems representatives",
-      "line": 85,
+      "line": 87,
       "kind": "section",
       "gloss": "An Environment forum case protecting a life-supporting system's own continuity may be opened by a published representative — an affected community, indigenous-continuity holder, or designated guardian — without treating the system as a sentient."
+    },
+    "CF-5.4": {
+      "file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+      "anchor": "#cf-54-capacity-failure-routing",
+      "heading": "CF-5.4 Capacity-failure routing",
+      "line": 102,
+      "kind": "section"
     },
     "CF-6": {
       "file": "corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md",
@@ -1465,7 +1479,7 @@
       "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
       "anchor": "#ci-271-capacity-funding-and-succession",
       "heading": "CI-27.1: Capacity, funding, and succession",
-      "line": 49,
+      "line": 51,
       "kind": "section",
       "gloss": "Every remedy system must name who owns it, where its funding comes from, and who takes over if that owner disappears. A remedy route with no named owner fails silently."
     },
@@ -1473,7 +1487,7 @@
       "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
       "anchor": "#ci-272-durability-backlog-and-publication",
       "heading": "CI-27.2: Durability, backlog, and publication",
-      "line": 64,
+      "line": 66,
       "kind": "section",
       "gloss": "Remedy systems publish their own waiting times and backlog ages, so a route that has quietly stopped working in practice becomes visible from outside."
     },
@@ -1481,7 +1495,7 @@
       "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
       "anchor": "#ci-273-high-impact-remedy-domains",
       "heading": "CI-27.3: High-impact remedy domains",
-      "line": 79,
+      "line": 83,
       "kind": "section",
       "gloss": "Areas where a broken remedy route causes the most damage — child protection, environmental enforcement, benefits, detention oversight, public health — and so require durable systems."
     },
@@ -1489,9 +1503,16 @@
       "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
       "anchor": "#ci-274-standards-interface-and-accountability-routing",
       "heading": "CI-27.4: Standards interface and accountability routing",
-      "line": 96,
+      "line": 100,
       "kind": "section",
       "gloss": "Technical forums set the capacity and timeliness standards remedy systems must meet, but they do not run those systems. Setting a standard is not the same as commanding compliance."
+    },
+    "CI-27.5": {
+      "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+      "anchor": "#ci-275-remedy-parity-and-capacity-failure-interface",
+      "heading": "CI-27.5: Remedy parity and capacity-failure interface",
+      "line": 110,
+      "kind": "section"
     },
     "CI-3": {
       "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
@@ -1765,14 +1786,14 @@
       "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
       "anchor": "#cjs-02-joint-structure-registry",
       "heading": "CJS-0.2: Joint structure registry",
-      "line": 148,
+      "line": 150,
       "kind": "section"
     },
     "CJS-0.3": {
       "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
       "anchor": "#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes",
       "heading": "CJS-0.3: Stable identifiers, edition alignment, and drafting notes",
-      "line": 183,
+      "line": 185,
       "kind": "section"
     },
     "CJS-1": {
@@ -2570,63 +2591,63 @@
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-11-integrated-risk-governance-class-a-b",
       "heading": "CS-4.11 Integrated risk governance (Class A/B)",
-      "line": 315,
+      "line": 324,
       "kind": "section"
     },
     "CS-4.12": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-12-intervention-trigger",
       "heading": "CS-4.12 Intervention trigger",
-      "line": 358,
+      "line": 367,
       "kind": "section"
     },
     "CS-4.13": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-13-relationship-to-system-classes",
       "heading": "CS-4.13 Relationship to system classes",
-      "line": 369,
+      "line": 378,
       "kind": "section"
     },
     "CS-4.14": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-14-private-chokepoints-sentients-depend-on-access-continuity-and-non-capture",
       "heading": "CS-4.14 Private chokepoints sentients depend on (access continuity and non-capture)",
-      "line": 382,
+      "line": 391,
       "kind": "section"
     },
     "CS-4.15": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-15-core-characteristics-typical",
       "heading": "CS-4.15 Core characteristics (typical)",
-      "line": 404,
+      "line": 413,
       "kind": "section"
     },
     "CS-4.16": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-16-substitutability-and-dependency-reduction",
       "heading": "CS-4.16 Substitutability and dependency reduction",
-      "line": 415,
+      "line": 424,
       "kind": "section"
     },
     "CS-4.17": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-17-transparency-and-auditability",
       "heading": "CS-4.17 Transparency and auditability",
-      "line": 438,
+      "line": 447,
       "kind": "section"
     },
     "CS-4.18": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-18-intervention-and-cooperation",
       "heading": "CS-4.18 Intervention and cooperation",
-      "line": 449,
+      "line": 458,
       "kind": "section"
     },
     "CS-4.19": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-19-governance-and-incentive-integrity",
       "heading": "CS-4.19 Governance and incentive integrity",
-      "line": 458,
+      "line": 467,
       "kind": "section"
     },
     "CS-4.2": {
@@ -2640,7 +2661,7 @@
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-20-failure-and-reclassification",
       "heading": "CS-4.20 Failure and reclassification",
-      "line": 465,
+      "line": 474,
       "kind": "section"
     },
     "CS-4.3": {
@@ -3212,21 +3233,21 @@
       "file": "core_05_band_participation.md",
       "anchor": "#defp2",
       "heading": "Def.P2 Binding Stakeholder Choice",
-      "line": 2735,
+      "line": 2742,
       "kind": "cluster"
     },
     "Def.P3": {
       "file": "core_05_band_participation.md",
       "anchor": "#defp3",
       "heading": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
-      "line": 2916,
+      "line": 2923,
       "kind": "cluster"
     },
     "Def.P4": {
       "file": "core_05_band_participation.md",
       "anchor": "#defp4",
       "heading": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
-      "line": 3198,
+      "line": 3205,
       "kind": "cluster"
     }
   },
@@ -3829,6 +3850,49 @@
           "anchor": "#cf-11-forum-performance-backlog-requirements-publication-timeliness-and-accessibility"
         }
       ]
+    },
+    {
+      "id": "CJS-R20",
+      "topic": "Remedy parity and lock-to-remedy capacity",
+      "domain": "Institutional governance",
+      "primary_owners": [
+        {
+          "id": "CI-27",
+          "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+          "anchor": "#ci-27-remedy-systems-and-institutional-redress-capacity"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CF-11",
+          "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
+          "anchor": "#cf-11-forum-performance-backlog-requirements-publication-timeliness-and-accessibility"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R21",
+      "topic": "Capacity-failure routing",
+      "domain": "Forum operations",
+      "primary_owners": [
+        {
+          "id": "CF-5",
+          "file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+          "anchor": "#cf-5-routing-operations-transfer-certification-and-representative-treatment"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CF-11",
+          "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
+          "anchor": "#cf-11-forum-performance-backlog-requirements-publication-timeliness-and-accessibility"
+        },
+        {
+          "id": "CI-27",
+          "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+          "anchor": "#ci-27-remedy-systems-and-institutional-redress-capacity"
+        }
+      ]
     }
   ],
   "definitions": [
@@ -3934,15 +3998,15 @@
       "term": "Best-Interest Standard",
       "file": "core_05_band_participation.md",
       "anchor": "#best-interest-standard-constitutional",
-      "line_start": 3282,
-      "line_end": 3329
+      "line_start": 3289,
+      "line_end": 3336
     },
     {
       "term": "Binding Stakeholder Choice — Decision-Resolution Requirements",
       "file": "core_05_band_participation.md",
       "anchor": "#binding-stakeholder-choice-decision-resolution-requirements",
-      "line_start": 2786,
-      "line_end": 2841
+      "line_start": 2793,
+      "line_end": 2848
     },
     {
       "term": "Bodily-Maintenance Access",
@@ -4186,8 +4250,8 @@
       "term": "Developing Sentient",
       "file": "core_05_band_participation.md",
       "anchor": "#developing-sentient-constitutional",
-      "line_start": 3245,
-      "line_end": 3281
+      "line_start": 3252,
+      "line_end": 3288
     },
     {
       "term": "Dignity and Equal Moral Standing",
@@ -4235,8 +4299,8 @@
       "term": "Educational Agency",
       "file": "core_05_band_participation.md",
       "anchor": "#educational-agency",
-      "line_start": 3081,
-      "line_end": 3139
+      "line_start": 3088,
+      "line_end": 3146
     },
     {
       "term": "Elevated Communicative Life",
@@ -4312,8 +4376,8 @@
       "term": "Expression",
       "file": "core_05_band_participation.md",
       "anchor": "#expression-constitutional",
-      "line_start": 2995,
-      "line_end": 3080
+      "line_start": 3002,
+      "line_end": 3087
     },
     {
       "term": "Fair Compensation",
@@ -4445,8 +4509,8 @@
       "term": "Graduated Capability",
       "file": "core_05_band_participation.md",
       "anchor": "#graduated-capability-constitutional",
-      "line_start": 3330,
-      "line_end": 3379
+      "line_start": 3337,
+      "line_end": 3386
     },
     {
       "term": "Harassment and Bullying",
@@ -5005,8 +5069,8 @@
       "term": "Self-Determination",
       "file": "core_05_band_participation.md",
       "anchor": "#self-determination-constitutional",
-      "line_start": 2950,
-      "line_end": 2994
+      "line_start": 2957,
+      "line_end": 3001
     },
     {
       "term": "Self-Healing",
@@ -5027,14 +5091,14 @@
       "file": "core_05_band_participation.md",
       "anchor": "#sentience-status-adjudication-constitutional",
       "line_start": 2594,
-      "line_end": 2676
+      "line_end": 2679
     },
     {
       "term": "Sentience-Status Adjudication Record",
       "file": "core_05_band_participation.md",
       "anchor": "#sentience-status-adjudication-record-constitutional",
-      "line_start": 2677,
-      "line_end": 2734
+      "line_start": 2680,
+      "line_end": 2741
     },
     {
       "term": "Sentient",
@@ -5082,15 +5146,15 @@
       "term": "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
       "file": "core_05_band_participation.md",
       "anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
-      "line_start": 2842,
-      "line_end": 2878
+      "line_start": 2849,
+      "line_end": 2885
     },
     {
       "term": "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
       "file": "core_05_band_participation.md",
       "anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice",
-      "line_start": 2879,
-      "line_end": 2915
+      "line_start": 2886,
+      "line_end": 2922
     },
     {
       "term": "Stakeholder Weight",
@@ -5369,8 +5433,8 @@
       "term": "Volitional Integrity",
       "file": "core_05_band_participation.md",
       "anchor": "#volitional-integrity",
-      "line_start": 3140,
-      "line_end": 3197
+      "line_start": 3147,
+      "line_end": 3204
     },
     {
       "term": "Voluntary Discontinuation",
@@ -5394,7 +5458,173 @@
       "line_end": 677
     }
   ],
-  "aliases": [],
+  "aliases": [
+    {
+      "file": "core_00_preamble.md",
+      "title": "3.1 Using Measurements in Governance",
+      "current_number": "3.1",
+      "current_anchors": [
+        "#31-using-measurements-in-governance"
+      ],
+      "fossil_anchors": [
+        "#from-measurement-to-evidence-and-remedy"
+      ]
+    },
+    {
+      "file": "core_00_preamble.md",
+      "title": "3.2 Key Governance Processes",
+      "current_number": "3.2",
+      "current_anchors": [
+        "#32-key-governance-processes"
+      ],
+      "fossil_anchors": [
+        "#key-governance-processes"
+      ]
+    },
+    {
+      "file": "core_00_preamble.md",
+      "title": "3.3 Governance Layers",
+      "current_number": "3.3",
+      "current_anchors": [
+        "#33-governance-layers"
+      ],
+      "fossil_anchors": [
+        "#governance-layer-discipline"
+      ]
+    },
+    {
+      "file": "core_01_b_interaction_interpretation.md",
+      "title": "6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle",
+      "current_number": "6.1.5",
+      "current_anchors": [
+        "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle"
+      ],
+      "fossil_anchors": [
+        "#least-restrictive-time-bounded-and-reviewable-constraint-principle"
+      ]
+    },
+    {
+      "file": "core_01_b_interaction_interpretation.md",
+      "title": "8.1 Constitutional No-Bypass Principle",
+      "current_number": "8.1",
+      "current_anchors": [
+        "#81-constitutional-no-bypass-principle"
+      ],
+      "fossil_anchors": [
+        "#constitutional-no-bypass-principle"
+      ]
+    },
+    {
+      "file": "core_03_definition_integrity.md",
+      "title": "2.1.1 Formal Label and Representation Gaming",
+      "current_number": "2.1.1",
+      "current_anchors": [
+        "#211-formal-label-and-representation-gaming"
+      ],
+      "fossil_anchors": [
+        "#formal-label-gaming-discipline"
+      ]
+    },
+    {
+      "file": "core_05__definitions_home.md",
+      "title": "2. Dependent-cluster meta rules",
+      "current_number": "2",
+      "current_anchors": [
+        "#2-dependent-cluster-meta-rules"
+      ],
+      "fossil_anchors": [
+        "#dependent-cluster-meta-rules"
+      ]
+    },
+    {
+      "file": "core_07_a_system_alignment_certification_evaluation.md",
+      "title": "1.1 Rights floors this chapter helps verify",
+      "current_number": "1.1",
+      "current_anchors": [
+        "#11-rights-floors-this-chapter-helps-verify"
+      ],
+      "fossil_anchors": [
+        "#12-rights-floors-this-chapter-helps-verify"
+      ]
+    },
+    {
+      "file": "core_08-11_application_vignettes.md",
+      "title": "1. Child neglect / care-duty failure (Tier A)",
+      "current_number": "1",
+      "current_anchors": [
+        "#1-child-neglect--care-duty-failure-tier-a"
+      ],
+      "fossil_anchors": [
+        "#vignette-child-neglect-care-duty"
+      ]
+    },
+    {
+      "file": "core_08-11_application_vignettes.md",
+      "title": "2. Employment discrimination / participation-barrier injury (Tier B)",
+      "current_number": "2",
+      "current_anchors": [
+        "#2-employment-discrimination--participation-barrier-injury-tier-b"
+      ],
+      "fossil_anchors": [
+        "#vignette-discrimination-participation-barrier"
+      ]
+    },
+    {
+      "file": "core_08-11_application_vignettes.md",
+      "title": "3. Misaligned business / exit lock-in and externalized harm (Tier B)",
+      "current_number": "3",
+      "current_anchors": [
+        "#3-misaligned-business--exit-lock-in-and-externalized-harm-tier-b"
+      ],
+      "fossil_anchors": [
+        "#vignette-misaligned-business-structural-harm"
+      ]
+    },
+    {
+      "file": "core_08-11_application_vignettes.md",
+      "title": "4. Stewardship delay and deferred repair",
+      "current_number": "4",
+      "current_anchors": [
+        "#4-stewardship-delay-and-deferred-repair"
+      ],
+      "fossil_anchors": [
+        "#vignette-stewardship-delay-deferred-repair"
+      ]
+    },
+    {
+      "file": "core_08-11_application_vignettes.md",
+      "title": "5. Pipeline overrun and tetrad-hollow forums",
+      "current_number": "5",
+      "current_anchors": [
+        "#5-pipeline-overrun-and-tetrad-hollow-forums"
+      ],
+      "fossil_anchors": [
+        "#vignette-pipeline-overrun-tetrad-hollow"
+      ]
+    },
+    {
+      "file": "core_08-11_application_vignettes.md",
+      "title": "7. An ordinary year with no filing and no sensitive role",
+      "current_number": "7",
+      "current_anchors": [
+        "#7-an-ordinary-year-with-no-filing-and-no-sensitive-role"
+      ],
+      "fossil_anchors": [
+        "#vignette-ordinary-person-year"
+      ]
+    },
+    {
+      "file": "corpus_systems/cs_02_b_data_classifications.md",
+      "title": "8.3 Type O: Open public oversight baseline disclosure data",
+      "current_number": "8.3",
+      "current_anchors": [
+        "#83-type-o-open-public-oversight-baseline-disclosure-data"
+      ],
+      "fossil_anchors": [
+        "#type-o-open-public-baseline-disclosure-data"
+      ]
+    }
+  ],
   "steward_doors": {
     "index": "implementation/steward_owner_clock_index.json",
     "cards": "implementation/STEWARD_ENTRY_DOORS.md",

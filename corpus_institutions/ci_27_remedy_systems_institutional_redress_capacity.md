@@ -15,9 +15,11 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture; and [Chapter Nine §9](../core_09_standing_integration.md#9-enforcement-realism) (*Enforcement realism and remedy systems*).
-- Downstream: [CI-27.1: Capacity, funding, and succession](#ci-271-capacity-funding-and-succession); [CI-27.2: Durability, backlog, and publication](#ci-272-durability-backlog-and-publication); [CI-27.3: High-impact remedy domains](#ci-273-high-impact-remedy-domains); [CI-27.4: Standards interface and accountability routing](#ci-274-standards-interface-and-accountability-routing).
-- Read with: **CI-27**; **CI-6**; **CI-7**; **CI-8**; **CI-12**; **CI-13**; **CF-11**.
+- Downstream: [CI-27.1: Capacity, funding, and succession](#ci-271-capacity-funding-and-succession); [CI-27.2: Durability, backlog, and publication](#ci-272-durability-backlog-and-publication); [CI-27.3: High-impact remedy domains](#ci-273-high-impact-remedy-domains); [CI-27.4: Standards interface and accountability routing](#ci-274-standards-interface-and-accountability-routing); [CI-27.5: Remedy parity and capacity-failure interface](#ci-275-remedy-parity-and-capacity-failure-interface).
+- Read with: **CI-27**; **CI-6**; **CI-7**; **CI-8**; **CI-12**; **CI-13**; **CF-11**; **CF-5**.
 - Topic routing (mandatory read-with): **CJS-R10** (*Forum performance, backlog requirements, publication timeliness, access…*) in **CJS-0.1** (*Topic router (stable IDs)*); primary owner **CF-11**.
+- Topic routing (primary owner): **CJS-R20** (*Remedy parity and lock-to-remedy capacity*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CF-11**.
+- Topic routing (mandatory read-with): **CJS-R21** (*Capacity-failure routing*) in **CJS-0.1** (*Topic router*); primary owner **CF-5**.
 
 </details>
 
@@ -43,7 +45,7 @@ This file is the institutional implementation home for **CI-27** (*Remedy system
 **Quick orientation**
 - **What this family owns** — institutional capacity to deliver practical redress: intake, preservation, review, repair, monitoring, safeguard enforcement, and lock review.
 - **What it does not own** — forum-family routing (**Chapter Eleven** / **CF**), standing measurement (**Chapter Eight**), or technical measurement standards (**Technical Forum Domains** / **CF-10**).
-- **Read with** — **CI-6** for local procedure maps; **CI-7** for oversight and assurance; **CI-8** for accessible pathways; **CI-12** for cross-institution escalation; **CI-13** when chronic under-capacity becomes institutional failure; **CF-11** for tier milestones and backlog publication.
+- **Read with** — **CI-6** for local procedure maps; **CI-7** for oversight and assurance; **CI-8** for accessible pathways; **CI-12** for cross-institution escalation; **CI-13** when chronic under-capacity becomes institutional failure; **CF-11** for tier milestones and backlog publication; **CF-5** for capacity-failure routing.
 <a id="ci-271-capacity-funding-and-succession"></a>
 
 ## CI-27.1: Capacity, funding, and succession
@@ -57,7 +59,7 @@ Each remedy system must name, in plain view:
 - the succession plan that keeps intake and records continuous through leadership change, reorganization, or technology outage; and
 - the route by which affected sentients contest under-capacity, inaccessible intake, or cost-shifting.
 
-Expense, insolvency, inconvenience, receivership, dissolution, asset transfer, or restructuring does not by itself defeat a verified obligation under [Chapter Nine §9.1](../core_09_standing_integration.md#91-remediation-capacity-and-funding). Successors, estates, receivers, and comparable transferees inherit proportionate duties — whether the responsible actor is an individual, an institution, or a system — unless a less harmful lawful transfer is demonstrated.
+Expense, insolvency, inconvenience, receivership, dissolution, asset transfer, or restructuring does not by itself defeat a verified obligation under [Chapter Nine §9.1](../core_09_standing_integration.md#91-remediation-capacity-and-funding). Successors, estates, receivers, and comparable transferees inherit proportionate duties — whether the responsible actor is an individual, an institution, or a system — unless a less harmful lawful transfer is demonstrated. Lock-to-remedy funding parity for the same system class is in **CI-27.5**.
 
 <a id="ci-272-durability-backlog-and-publication"></a>
 
@@ -73,6 +75,8 @@ Each remedy system must publish, on a fixed schedule compatible with **CF-11**:
 - any designed backlog, single-office dependency, or chronic underfunding risk that could foreseeably nullify challenge or remedy.
 
 Designed backlog, inaccessible intake, chronic underfunding, dependence on a single fragile office, or chronic milestone failure violates [Chapter Nine §9.2](../core_09_standing_integration.md#92-remedy-system-durability) where it foreseeably nullifies challenge or remedy.
+
+Each remedy system must also publish, for each lock class it administers or funds, the [Chapter Nine §4.4](../core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) tripwire figures — general locks issued, remedies commenced, remedies completed, restorations decided, and reassessments pending — on a schedule compatible with **CF-11**. A ratio of locks issued to remedies commenced that widens over successive periods is evidence of a [Chapter Nine §9](../core_09_standing_integration.md#9-enforcement-realism) paper-pathway failure, not a neutral operations metric.
 
 <a id="ci-273-high-impact-remedy-domains"></a>
 
@@ -99,7 +103,22 @@ Domain-specific operational detail may live in other **CI** families (**CI-15** 
 
 Remedy systems must meet published capacity, measurement, and milestone standards under [Technical Forum Domains](../core_11_forum.md#42-technical-forum-domains). Technical forums set and maintain those standards; they are not the command hierarchy for remedy systems or institutions.
 
-Accountability for staffing, funding, backlog, succession, and performance remains with the [primary-stakes](../core_11_forum.md#2-default-venue-and-primary-stakes) forum family — ordinarily [Institutional](../core_11_forum.md#43-institutional-forums), or [Integrity](../core_11_forum.md#45-integrity-forums) where capture, process failure, or system-alignment collapse is primary. Cross-institution stall or handoff failure routes through **CI-12** (*Cross-institution coordination and escalation*). Chronic institutional failure routes through **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*).
+Accountability for staffing, funding, backlog, succession, and performance remains with the [primary-stakes](../core_11_forum.md#2-default-venue-and-primary-stakes) forum family — ordinarily [Institutional](../core_11_forum.md#43-institutional-forums), or [Integrity](../core_11_forum.md#45-integrity-forums) where capture, process failure, or system-alignment collapse is primary. Cross-institution stall or handoff failure routes through **CI-12** (*Cross-institution coordination and escalation*). Chronic institutional failure routes through **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*). A claim that this family or a remedy system it funds is itself under capacity routes under **CI-27.5** and **CF-5.4**, not as a self-judged staffing dispute.
+
+<a id="ci-275-remedy-parity-and-capacity-failure-interface"></a>
+
+## CI-27.5: Remedy parity and capacity-failure interface
+
+*In plain terms: Lock offices may not outrun the repair offices that make those locks lawful. When remedy or restoration work falls behind its clock, the starved office does not get to decide that it is fine.*
+
+This subsection implements, and must not narrow, [Chapter Nine §4.4](../core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) (*Remedy parity and lock preconditions*), [Chapter Nine §9.2](../core_09_standing_integration.md#92-remedy-parity-funding-floor) (*Remedy-parity funding floor*), and [Chapter Eleven §3](../core_11_forum.md#capacity-failure-routing) (*Capacity failure is heard outside the starved body*).
+
+- **Funding floor.** For each system class an adopter administers, the capacity funded for remedy, restoration, and reassessment must be no less than the capacity funded for lock administration, enforcement, and safeguard imposition on the same class. An adopter that cannot fund remedy for a class must not stand up lock machinery for that class.
+- **Opened-remedy precondition.** Institutional lock offices may not treat a general standing lock as attached until the [Chapter Nine §4.1](../core_09_standing_integration.md#41-remedy-and-correction) integration record for the same verified finding is open, except for interim protective measures under [Chapter Eleven §5](../core_11_forum.md#interim-protection). Completion of remedy is not required; an opened remedy record is.
+- **Tripwire.** Where remedy commencement or restoration review for a lock class exceeds its [Chapter Eleven §6](../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier outer bound, the capacity failure is a [Chapter Nine §9.2](../core_09_standing_integration.md#92-remedy-system-durability) durability failure. New ordinary locks and existing-lock reassessment follow **Chapter Nine §4.4**; this family does not invent a lighter or heavier tripwire.
+- **Routing.** A capacity-failure claim about a remedy system, lock office, or forum family is heard outside the starved body under **CF-5.4**. **Integrity** is the default lead. The body in question supplies its published tripwire and backlog figures and may give evidence, but must not be the sole finder of fact on its own capacity.
+
+This subsection does not relocate standing measurement, forum-family routing, or Chapter Eleven clocks.
 
 ---
 

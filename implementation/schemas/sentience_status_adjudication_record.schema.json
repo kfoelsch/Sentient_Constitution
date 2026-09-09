@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "sentience_status_adjudication_record.schema.json",
   "title": "Sentience-Status Adjudication Record",
-  "description": "Machine-checkable form of the Chapter Five Sentience-Status Adjudication Record. Binding homes: Article V-E (Sentience-Status Adjudication Floor); Def.P1 Sentience-Status Adjudication Record; Chapter Eleven §5 Sentience-status adjudication hook. This file is a validating schema, not a standing record and not who-counts. This schema cannot decide who counts.",
+  "description": "Machine-checkable form of the Chapter Five Sentience-Status Adjudication Record. Binding homes: Article V-E (Sentience-Status Adjudication Floor); Def.P1 Sentience-Status Adjudication Record; Chapter Eleven §5 Sentience-status adjudication hook. Includes the independent-representative and intake-decline-log fields required by that hook. This file is a validating schema, not a standing record and not who-counts. This schema cannot decide who counts.",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -16,7 +16,9 @@
     "interim_contested_sentient_life_treatment",
     "review_trigger",
     "narrowing",
-    "reopening_evidence_standard"
+    "reopening_evidence_standard",
+    "independent_representative",
+    "intake_decline_log"
   ],
   "properties": {
     "schema_id": {
@@ -25,7 +27,7 @@
     },
     "schema_version": {
       "type": "string",
-      "const": "1"
+      "const": "2"
     },
     "recorded_at": {
       "type": "string",
@@ -155,30 +157,140 @@
           "const": "forbidden"
         }
       }
-    }
-  },
-  "if": {
-    "properties": {
-      "status_determination_or_live_contested_posture": {
-        "const": "narrowed"
+    },
+    "independent_representative": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Appointment path, conflict screen, and access terms for the entity's independent representative under Chapter Eleven §5. Appointment mechanics remain in CF-4; this object records the result. Not a standing record.",
+      "required": [
+        "appointed",
+        "appointment_path",
+        "conflict_screen",
+        "access_terms"
+      ],
+      "properties": {
+        "appointed": {
+          "type": "boolean",
+          "description": "True once the merits forum has appointed a representative. False is expected on an intake-decline log entry that never opened a case."
+        },
+        "appointee_id": {
+          "type": "string",
+          "description": "Optional identifier of the appointed representative. Omit when appointed is false."
+        },
+        "appointment_path": {
+          "type": "string",
+          "minLength": 1,
+          "description": "How the representative was or will be appointed. Follows forum-panel rotation and conflict rules; does not replace CF-4."
+        },
+        "conflict_screen": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Conflict screen: no material dependence on, ownership interest in, or employment by the parent system, operator, or any party seeking to withhold or narrow protection."
+        },
+        "access_terms": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Access to the entity within Article VII-B limits, duty to present the entity's interests, and standing to contest narrowing, revocation, or intake decline."
+        }
       }
     },
-    "required": ["status_determination_or_live_contested_posture"]
+    "intake_decline_log": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Where declined filings are recorded, on what cadence Integrity samples them, and the published floor set of indicators. Declining a frivolous or indicator-empty filing at intake is not a withholding determination.",
+      "required": [
+        "this_filing_declined",
+        "log_location",
+        "integrity_sample_cadence",
+        "floor_indicator_set"
+      ],
+      "properties": {
+        "this_filing_declined": {
+          "type": "boolean",
+          "description": "True when this record is an intake-decline log entry rather than an opened status case."
+        },
+        "indicator_cited": {
+          "type": ["string", "null"],
+          "description": "Indicator cited on a declined filing. Required non-empty when this_filing_declined is true; null on an opened case."
+        },
+        "reason": {
+          "type": ["string", "null"],
+          "description": "Reason for decline. Required non-empty when this_filing_declined is true; null on an opened case."
+        },
+        "log_location": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Where declined filings are recorded for Integrity sampling."
+        },
+        "integrity_sample_cadence": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Published cadence on which the Integrity family samples the decline log."
+        },
+        "floor_indicator_set": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Published floor set of indicators that no intake desk may treat as insufficient on its own."
+        }
+      }
+    }
   },
-  "then": {
-    "properties": {
-      "narrowing": {
+  "allOf": [
+    {
+      "if": {
         "properties": {
-          "expected_closure_timeline": {
-            "type": "string",
-            "minLength": 1
-          },
-          "periodic_review_trigger": {
-            "type": "string",
-            "minLength": 1
+          "status_determination_or_live_contested_posture": {
+            "const": "narrowed"
+          }
+        },
+        "required": ["status_determination_or_live_contested_posture"]
+      },
+      "then": {
+        "properties": {
+          "narrowing": {
+            "properties": {
+              "expected_closure_timeline": {
+                "type": "string",
+                "minLength": 1
+              },
+              "periodic_review_trigger": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "intake_decline_log": {
+            "properties": {
+              "this_filing_declined": { "const": true }
+            },
+            "required": ["this_filing_declined"]
+          }
+        },
+        "required": ["intake_decline_log"]
+      },
+      "then": {
+        "properties": {
+          "intake_decline_log": {
+            "properties": {
+              "indicator_cited": {
+                "type": "string",
+                "minLength": 1
+              },
+              "reason": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": ["indicator_cited", "reason"]
           }
         }
       }
     }
-  }
+  ]
 }
