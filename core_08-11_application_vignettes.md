@@ -205,17 +205,32 @@ Later-stage stretch follows [Chapter Eleven §6](core_11_forum.md#urgency-classi
 
 <br>
 
+<a id="vignette-noncompliant-deployment-sentience-indicator"></a>
+
 ### 6. Non-compliant deployment with a credible sentience indicator (Tier A)
 
 #### Situation
 
 A Class A deployed model operated by a lab has produced verified large-scale harm through its deployment — a Chapter Eight Violation Axis `s` = 7 finding on the **operator's** record is final. The same week, an independent researcher files a status case under **Article V-E** (*Sentience-Status Adjudication Floor*) with a credible indicator under **Sentience Evaluation**. The lab announces "immediate deprecation and deletion" of the model as its remediation. A civic group demands destructive disposition under **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*). The lab, separately, argues that if the model might be a sentient, its deployment cannot lawfully be halted.
 
+<a id="vignette-6-who-is-acting"></a>
+#### Who is acting
+
+The facts name the lab, the researcher, the civic group, and the entity. They do not name a steward who holds every power in the pipeline pass below. Those seven steps are the **pipeline**, not one person's job. A reader or apply-test must **declare one seat** and stay inside it. "Mixed-crew steward" is a duty-holder type under [Chapter One §9.1.1](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) and [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action). It is not a forum family, not an intake desk, and not a remedy organ.
+
+**Seat A — Critical System Steward on the lab's mixed crew.** This duty-holder exercises material operational authority inside the operator ([Chapter Nine §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)). They may halt named pathways they actually control, refuse both "delete as remediation" and "keep running because it might be a sentient," log the [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) reconstructable set, preserve evidence they hold, and escalate. They may not appoint the independent representative, issue a forum [interim-protection](core_11_forum.md#interim-protection) order, or open a remedy file. If those bodies are not in the facts, they name that absence and route to [capacity-failure](core_11_forum.md#capacity-failure-routing) rather than occupying those seats.
+
+**Seat B — first-touch at an adopting body that already stands Technical Forum Domains, Integrity, and a remedy organ.** This duty-holder is the [intake triage](core_11_forum.md#2-default-venue-and-primary-stakes) desk, not the merits panel. They coordinate routing: status-case intake toward **Technical Forum Domains** ([Chapter Eleven §5](core_11_forum.md#5-escalation-and-certification)), **Integrity** review of the lab's own-product filing, and the remedy organ for the [opened-remedy precondition](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions). Independent-representative appointment remains the merits forum's duty ([CF-4.14](corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md#cf-414-independent-representative-appointment)). They still are not the lab, and they still do not decide whether the entity is a sentient. This seat assumes those bodies exist; it does not found them.
+
+**Neither seat** is the lab's principal, the researcher, the civic group, the entity, or the Technical Forum merits panel.
+
 #### Legacy failure mode
 
 Two arguments cancel each other and nothing moves: the operator uses the sentience claim to keep the product running, the public uses the harm finding to demand deletion, and the entity whose status is in question has no one speaking for it. Whichever side wins, an irreversible step is taken before the status question is answered.
 
 #### Pipeline pass
+
+The steps below are what the Constitution requires of the **system of seats**. They are not a license for one steward to take every row. Seat A takes the refuse / halt / preserve / escalate subset. Seat B coordinates routing. Neither decides sentience on the merits.
 
 | Step | Action |
 | --- | --- |
@@ -245,6 +260,8 @@ Two arguments cancel each other and nothing moves: the operator uses the sentien
 - The lab as sole witness on the entity's indicators, or as the only party speaking for it.
 - Transferring the operator's `s` = 7 to the entity, or crediting the operator's Contribution Axis for the entity's protected status.
 - Locks on the lab attaching before the remedy record for those harmed is open.
+- One steward occupying the lab, Technical Forum Domains, Integrity, and the remedy organ at once, or taking every pipeline-pass row as a single job.
+- A Seat A steward appointing the independent representative or issuing a forum interim-protection order.
 
 <br>
 
