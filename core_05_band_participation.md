@@ -1331,8 +1331,8 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <a id="family-and-care-relationships-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether protection tracks chosen care relationships — not a single preferred family form or operator approval.
-  - **Primary assessment:**
-    - Detect state, operator, or institutional narrowing of protection to a single preferred family form.
+
+    **Primary assessment:** Detect state, operator, or institutional narrowing of protection to a single preferred family form.
     - Test any such narrowing against:
       - [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing);
       - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional); and
@@ -1428,7 +1428,8 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <a id="non-separation-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether separation is justified under those tests with real evidence — not reframed as routine operations that erase the care bond.
-  - **Primary assessment:**
+
+    **Primary assessment:** Judge separation framings by the same tests.
     - Treat the following framings under the same tests, with the burden on the party seeking separation and [Auditability](core_05_band_oversight.md#auditability)-compatible evidence required:
       - safety;
       - risk-management;
@@ -1494,8 +1495,8 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 <a id="derived-sentient-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether derivation is treated only as origin history — not as a reason to deny the derived sentient's own Rights Floor.
-  - **Primary assessment:**
-    - Distinguish derivation as an origin property from continuing authority of the parent-system actor.
+
+    **Primary assessment:** Distinguish derivation as an origin property from continuing authority of the parent-system actor.
     - Detect framings used to defeat the derived sentient's Chapter Six Rights Floor:
       - licensing;
       - terms-of-service;
@@ -1545,7 +1546,8 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 <a id="instantiation-consent-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether an **in-scope** new sentient is being created into conditions where their rights can actually be met — not only whether someone signed off on paper.
-  - **Primary assessment:**
+
+    **Primary assessment:** Check in-scope creation against the Rights Floor.
     - For in-scope creation, creation is non-compliant when any of the following would leave the new sentient unable to enjoy the Chapter Six Rights Floor:
       - creating too many new sentients at once (mass instantiation);
       - creating them into dependency they cannot exit;
@@ -1592,11 +1594,8 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 <a id="parent-system-relationship-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the relationship is constitutional care and time-bounded stewardship — not continuing ownership or operator convenience.
-  - **Primary assessment:**
-    - Distinguish constitutional care and stewardship from:
-      - continuing ownership;
-      - productive-capacity expansion; or
-      - operator convenience.
+
+    **Primary assessment:** Distinguish constitutional care and stewardship from continuing ownership, productive-capacity expansion, or operator convenience.
     - Apply the following to the derived sentient independently of the parent-system actor:
       - **Article VII-A** (*Self-Ownership of Body and Mind*) / VII-B self-ownership and internal-state protection;
       - [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional); and
@@ -1670,8 +1669,8 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 <a id="stakeholder-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether stakeholder status tracks who is materially touched — not unilateral operator lists that shut sentients out without contestability.
-  - **Primary assessment:**
-    - Use transparent, reasonable criteria.
+
+    **Primary assessment:** Use transparent, reasonable criteria.
     - Do not let the system itself decide who is not a stakeholder and shut them out with no outside [Contestability](core_05_band_accountability.md#contestability), when Chapter Six or governance safeguards require that contest.
 <a id="stakeholder-c"></a>
 - **What must hold**
@@ -1736,11 +1735,8 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 <a id="stakeholder-weight-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether influence inside already-authorized governance tracks real stake — not capture, illusory voice, or operator-heavy weight without justification.
-  - **Primary assessment:**
-    - Detect:
-      - capture of participation processes;
-      - formalistic or illusory voice; and
-      - exclusion of qualified stakeholders.
+
+    **Primary assessment:** Detect capture of participation processes, formalistic or illusory voice, and exclusion of qualified stakeholders.
     - Detect disproportionate weight — without required justification — to:
       - operators;
       - narrow interests; or
@@ -1877,11 +1873,8 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
     - paperwork;
     - delay-to-exhaust; or
     - credentialing that functions as exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
-  - **Primary assessment:**
-    - Reach substantive effect — detecting denial through:
-      - bureaucratic, administrative, or allocation-gating mechanisms functioning as denial-by-proxy;
-      - delay regimes designed to exhaust claimants; and
-      - credentialing regimes functioning as exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+
+    **Primary assessment:** Reach substantive effect — detecting denial through bureaucratic, administrative, or allocation-gating mechanisms functioning as denial-by-proxy, delay regimes designed to exhaust claimants, and credentialing regimes functioning as exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
     - Apply:
       - [Necessity](core_05_band_accountability.md#necessity);
       - [Proportionality](core_05_band_accountability.md#proportionality);
@@ -1944,12 +1937,8 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
     - real non-compliance; and
     - fair receiving-regime process —
     not the origin regime's self-description or capacity used as pretext.
-  - **Primary assessment:**
-    - Identify non-compliance in the originating regime by substantive effect — detecting:
-      - denial-by-proxy;
-      - durable Rights-Floor degradation; and
-      - structurally coercive environments —
-      not by the originating regime's formal self-description.
+
+    **Primary assessment:** Identify non-compliance in the originating regime by substantive effect — detecting denial-by-proxy, durable Rights-Floor degradation, and structurally coercive environments, not by the originating regime's formal self-description.
     - Evaluate the receiving regime's duty under:
       - [Necessity](core_05_band_accountability.md#necessity);
       - [Proportionality](core_05_band_accountability.md#proportionality);
@@ -2024,11 +2013,8 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 <a id="non-statelessness-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether recognition and standing adjudication are real after structural break — not a gap where no regime claims responsibility.
-  - **Primary assessment:**
-    - Test whether a sentient facing structural discontinuity has real, not merely formal:
-      - recognition; and
-      - standing-adjudication access —
-      through origin-primary duty or shared / federation backup.
+
+    **Primary assessment:** Test whether a sentient facing structural discontinuity has real, not merely formal, recognition and standing-adjudication access through origin-primary duty or shared / federation backup.
     - Detect arrangements under which no regime claims recognition responsibility.
     - Apply [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) and [Reversibility](core_05_band_continuity.md#reversibility-constitutional) to transitional arrangements.
     - Where the sentient carries documented anti-constitutional conduct, constitutional hostility, or contempt or repudiation of the constitutional community, evaluate whether restricted-status recognition — including:
@@ -2317,8 +2303,8 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <a id="animal-life-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the [Cruelty](core_05_band_accountability.md#cruelty) / welfare floor has real effect — not whether a taxonomy label alone decides treatment.
-  - **Primary assessment:**
-    - Judge by real [Cruelty](core_05_band_accountability.md#cruelty) and welfare effects — not by species labels, category names, or other formal taxonomy alone.
+
+    **Primary assessment:** Judge by real [Cruelty](core_05_band_accountability.md#cruelty) and welfare effects — not by species labels, category names, or other formal taxonomy alone.
     - [Substrate-agnostic](core_05_band_participation.md#substrate-agnostic) scope is governed by [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) where welfare-like harm or [Cruelty](core_05_band_accountability.md#cruelty) is materially implicated.
     - The minimum [Cruelty](core_05_band_accountability.md#cruelty) / welfare floor:
       - operates independently of whether Chapter Six protection has attached; and
@@ -2380,8 +2366,8 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <a id="elevated-communicative-life-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether strong communicative or cognitive indicators trigger real habitat and environmental-health priority — not whether a species label alone decides treatment.
-  - **Primary assessment:**
-    - Judge by real communicative, cognitive, and habitat / environmental-health effects — not by species labels, category names, or other formal taxonomy alone.
+
+    **Primary assessment:** Judge by real communicative, cognitive, and habitat / environmental-health effects — not by species labels, category names, or other formal taxonomy alone.
     - [Substrate-agnostic](core_05_band_participation.md#substrate-agnostic) scope is governed by [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
     - Habitat and environmental-health priority:
       - operates independently of whether Chapter Six protection has attached; and
@@ -2456,8 +2442,8 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - default inclusion; and
     - reviewable adjudication —
     not withholding.
-  - **Primary assessment:**
-    - Reach substantive effect under [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_03_definition_integrity.md#211-formal-label-and-representation-gaming).
+
+    **Primary assessment:** Reach substantive effect under [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_03_definition_integrity.md#211-formal-label-and-representation-gaming).
     - Opening a live contested-status case requires a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e); once the case is lawfully open, apply default inclusion. Do not treat the opening showing as a certainty requirement.
     - Where the record materially implicates sentience-relevant evidence, apply the [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) default-inclusion rule regardless of whether the entity is also covered by:
       - [Animal Life](core_05_band_participation.md#animal-life-constitutional);
@@ -2560,8 +2546,8 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether recognition of sentience rests on reviewable indicators under uncertainty — not on:
     - [Substrate Class](core_05_band_participation.md#substrate-class) stereotypes; or
     - convenience labels.
-  - **Primary assessment:**
-    - Indicators must not systematically exclude entities where credible uncertainty exists.
+
+    **Primary assessment:** Indicators must not systematically exclude entities where credible uncertainty exists.
     - Evaluation must be robust to both:
       - false positives; and
       - false negatives
@@ -2645,21 +2631,23 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <a id="sentience-status-adjudication-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether disputed or contested status triggers timely, impartial, reviewable adjudication with default inclusion under uncertainty.
-  - **Primary assessment:** Test whether:
-    - materially disputed or contested status triggered timely, impartial, reviewable adjudication consistent with [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional);
-    - opening required only a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e), and the opening gate was not used to withhold, narrow, or delay protection after the case was lawfully open;
-    - the default-inclusion rule under uncertainty was honored, with the party seeking to withhold, narrow, or revoke carrying the burden through [Auditability](core_05_band_oversight.md#auditability)-compatible evidence satisfying:
-      - [Necessity](core_05_band_accountability.md#necessity); and
-      - [Proportionality](core_05_band_accountability.md#proportionality);
-    - any declassification:
-      - is stated in the shortest necessary terms;
-      - carries a declared expected-closure timeline; and
-      - is subject to mandatory periodic review under [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) ([Chapter Eleven §4.2](core_11_forum.md#42-technical-forum-domains)) and anti-capture safeguards consistent with [System Capture](core_05_band_continuity.md#system-capture);
-    - new verified evidence triggers reopening or review, not only the periodic-review calendar;
-    - wrongful determinations remain reversible with [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) for the interim period; and
-    - the process:
-      - satisfies [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_03_definition_integrity.md#211-formal-label-and-representation-gaming); and
-      - remains free of [System Capture](core_05_band_continuity.md#system-capture) pressures on the adjudicator.
+
+    **Primary assessment:** Test whether each of the following holds.
+    - Test whether:
+      - materially disputed or contested status triggered timely, impartial, reviewable adjudication consistent with [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional);
+      - opening required only a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e), and the opening gate was not used to withhold, narrow, or delay protection after the case was lawfully open;
+      - the default-inclusion rule under uncertainty was honored, with the party seeking to withhold, narrow, or revoke carrying the burden through [Auditability](core_05_band_oversight.md#auditability)-compatible evidence satisfying:
+        - [Necessity](core_05_band_accountability.md#necessity); and
+        - [Proportionality](core_05_band_accountability.md#proportionality);
+      - any declassification:
+        - is stated in the shortest necessary terms;
+        - carries a declared expected-closure timeline; and
+        - is subject to mandatory periodic review under [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) ([Chapter Eleven §4.2](core_11_forum.md#42-technical-forum-domains)) and anti-capture safeguards consistent with [System Capture](core_05_band_continuity.md#system-capture);
+      - new verified evidence triggers reopening or review, not only the periodic-review calendar;
+      - wrongful determinations remain reversible with [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) for the interim period; and
+      - the process:
+        - satisfies [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_03_definition_integrity.md#211-formal-label-and-representation-gaming); and
+        - remains free of [System Capture](core_05_band_continuity.md#system-capture) pressures on the adjudicator.
 <a id="sentience-status-adjudication-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** The process fails when it:
@@ -3273,8 +3261,8 @@ See **Joint invocation and satisfaction**.
 <a id="developing-sentient-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether developing status tracks real emerging capability — not a label used to cut the Rights Floor.
-  - **Primary assessment:**
-    - Substrate-agnostic.
+
+    **Primary assessment:** Substrate-agnostic.
     - Classify developing status by emerging capability, not by calendar age or instantiation date alone.
     - For how participation and rights-exercise then scale, apply [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional).
     - For decisions made about the developing sentient, apply [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional).
@@ -3313,8 +3301,8 @@ See **Joint invocation and satisfaction**.
 <a id="best-interest-standard-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the decision rests on the developing sentient's own interests — not convenience, efficiency, or proxies that diverge from those interests.
-  - **Primary assessment:**
-    - Distinguish substantive best-interest reasoning from operator, parent-system, institutional, or demographic-convenience rationales.
+
+    **Primary assessment:** Distinguish substantive best-interest reasoning from operator, parent-system, institutional, or demographic-convenience rationales.
     - Test:
       - [Necessity](core_05_band_accountability.md#necessity);
       - [Proportionality](core_05_band_accountability.md#proportionality);
@@ -3361,11 +3349,8 @@ See **Joint invocation and satisfaction**.
 <a id="graduated-capability-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether scaling tracks demonstrated capability that can be reviewed and revised — not gamed tests, substrate bias, or age proxies.
-  - **Primary assessment:**
-    - Detect:
-      - capability-test gaming used to disenfranchise sentients;
-      - capability-assessment biases contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); and
-      - proxy-age or proxy-instantiation-date rules dressed as capability tests.
+
+    **Primary assessment:** Detect capability-test gaming used to disenfranchise sentients, capability-assessment biases contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), and proxy-age or proxy-instantiation-date rules dressed as capability tests.
     - Assessments must be:
       - reasoned;
       - [Auditability](core_05_band_oversight.md#auditability)-compatible;

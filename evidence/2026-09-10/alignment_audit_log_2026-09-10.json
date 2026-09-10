@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-10",
+  "workflow": "ALIGNMENT_AUDIT",
+  "counts": {
+    "principles": 60,
+    "definitions": 240,
+    "odef_clusters": 24,
+    "articles": 124
+  },
+  "ch5_gaps": {
+    "completeness": 0,
+    "accuracy": 0,
+    "coverage": 0,
+    "cluster_integrity": 0
+  },
+  "cjs3_gaps": {
+    "missing_anchor": 0,
+    "weak_trace": 0,
+    "constitutional_frame_gap": 0,
+    "owner_drift": 0,
+    "op_component_gap": 0,
+    "overreach": 0,
+    "inventory": 0
+  },
+  "ch6_status": "PASS",
+  "ch6_findings": {}
+}

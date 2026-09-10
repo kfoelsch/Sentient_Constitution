@@ -241,12 +241,12 @@ PRINCIPLE_RULES = [
     (("wellbeing", "dignity", "survival", "subsistence"), ["2", "3.1"]),
     (("safety", "harm", "risk", "emergency", "restriction"), ["3.1", "6.1", "6.3", "7"]),
     (("truth", "audit", "transparency", "disclosure", "record", "evidence"), ["3.2", "6.2", "8"]),
-    (("trust", "reliability", "trustworthy", "misleading reliance"), ["4", "10.2"]),
+    (("trust", "reliability", "trustworthy", "misleading reliance"), ["4"]),
     (("freedom", "agency", "self-determination", "movement", "exit"), ["5", "5.1"]),
-    (("collision", "conflict", "proportionality", "necessity", "least-restrictive"), ["6.1", "6.3"]),
+    (("collision", "conflict", "proportionality", "necessity", "least-restrictive"), ["6.1", "6.1.5", "6.3"]),
     (("override", "bypass", "non-contraction", "interpretation"), ["7", "8"]),
     (("stewardship", "distributed understanding", "comprehensibility"), ["9", "9.2"]),
-    (("governance", "capture", "incentive", "authority"), ["10", "10.2"]),
+    (("governance", "capture", "incentive", "authority"), ["10", "10.1"]),
     (("capacity", "resource", "market", "concentration", "dependency"), ["11", "12", "13"]),
 ]
 
@@ -415,22 +415,49 @@ def extract_articles(root: Path) -> list[Article]:
     return articles
 
 
-def extract_direct_ch1_refs(text: str) -> list[str]:
+def ch1_fragment_section_map(root: Path) -> dict[str, str]:
+    """Map core_01 file#fragment to the live numbered heading that owns it."""
+    mapping: dict[str, str] = {}
+    num_re = re.compile(r"^(\d+(?:\.\d+)*)\.\s+")
+    for rel in CH1_FILES:
+        pending: list[str] = []
+        for line in read_text(root, rel).splitlines():
+            pending.extend(HTML_ANCHOR_RE.findall(line))
+            match = HEADING_RE.match(line.strip())
+            if not match:
+                continue
+            title = match.group(2)
+            numbered = num_re.match(title)
+            if numbered:
+                section = numbered.group(1)
+                for anchor_id in pending:
+                    mapping[f"{rel}#{anchor_id}"] = section
+                mapping[f"{rel}#{slugify_heading(title)}"] = section
+            pending = []
+    return mapping
+
+
+def extract_direct_ch1_refs(
+    text: str,
+    fragment_map: dict[str, str] | None = None,
+    live_sections: set[str] | None = None,
+) -> list[str]:
     refs: set[str] = set()
-    for match in re.finditer(r"Chapter One\s+§+\s*([0-9]+(?:\.[0-9]+)*)", text):
-        refs.add(match.group(1))
-    for match in re.finditer(r"\[([^]]+)\]\((core_01_[^)#]+\.md#[^)]+)\)", text):
+    for match in re.finditer(r"\[([^]]+)\]\((core_01_[^)#]+\.md)#([^)]+)\)", text):
+        key = f"{match.group(2)}#{match.group(3)}"
+        if fragment_map and key in fragment_map:
+            refs.add(fragment_map[key])
+            continue
         label = match.group(1)
-        section_match = re.search(r"(?:§|Chapter One\s+§)?\s*([0-9]+(?:\.[0-9]+)*)", label)
+        section_match = re.search(r"§\s*([0-9]+(?:\.[0-9]+)*)", label)
         refs.add(section_match.group(1) if section_match else "linked")
-    if any(
-        name in text
-        for name in (
-            "core_01_a_values_principles.md",
-            "core_01_b_interaction_interpretation.md",
-            "core_01_c_stewardship_capacity_principles.md",
-        )
-    ):
+    # Ignore the fossil nickname "Chapter Twelve Chapter One §N".
+    for match in re.finditer(r"(?<!Twelve )Chapter One\s+§+\s*([0-9]+(?:\.[0-9]+)*)", text):
+        num = match.group(1)
+        if live_sections is not None and num not in live_sections:
+            continue
+        refs.add(num)
+    if any(name in text for name in CH1_FILES):
         refs.add("linked")
     return sorted(refs, key=sort_ref)
 
@@ -588,10 +615,14 @@ class Ch1Ch6AlignmentAuditor:
         self.principles: list[Principle] = []
         self.articles: list[Article] = []
         self.findings: list[Finding] = []
+        self.fragment_map: dict[str, str] = {}
+        self.live_sections: set[str] = set()
 
     def run(self) -> None:
         anchors = collect_anchors(self.repo_root, [CH0_FILE, *CH1_FILES, *CH6_FILES])
         self.principles = extract_principles(self.repo_root)
+        self.fragment_map = ch1_fragment_section_map(self.repo_root)
+        self.live_sections = {principle.section for principle in self.principles}
         self.articles = extract_articles(self.repo_root)
         self.findings.extend(cross_layer_broken_links(self.repo_root, anchors))
 
@@ -601,7 +632,9 @@ class Ch1Ch6AlignmentAuditor:
 
     def _analyze_article(self, article: Article) -> None:
         text = f"{article.title}\n{article.body}"
-        article.direct_ch1_refs = extract_direct_ch1_refs(text)
+        article.direct_ch1_refs = extract_direct_ch1_refs(
+            text, self.fragment_map, self.live_sections
+        )
         article.inferred_ch1_basis = infer_ch1_basis(article)
         article.tetrad_terms = present_terms(text, TETRAD_TERMS)
         article.aims = present_terms(text, AIM_TERMS)
