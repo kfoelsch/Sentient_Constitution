@@ -323,7 +323,7 @@ The later version must preserve the prior audit trail and explain what changed, 
 
 #### 3.5 Implementation tools
 
-Teams may build practical tools for standing records — data fields, tags, thresholds, forms, dashboards, and review steps. Those tools must keep the fields required by **section 3.1** separately visible and contestable. They must not bury those fields in a single opaque score or hidden label.
+Teams may build practical tools for standing records — data fields, tags, thresholds, forms, dashboards, and review steps, including published **standard contribution measures** for recurring tasks under **section 5.1**. Those tools must keep the fields required by **section 3.1** separately visible and contestable. They must not bury those fields in a single opaque score or hidden label.
 
 <a id="36-forum-boundary"></a>
 
@@ -710,6 +710,19 @@ The same slot number can appear on both axes, but the axes remain separate. A co
 The Contribution Axis uses baseline, positive, stewardship-positive, and champion labels. The Violation Axis uses neutral impact labels at every slot. The axes remain separate and do not create a net score or permit offset between contribution and violation records. A Violation Axis slot does not by itself classify anti-constitutional misconduct; [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) independently determines whether that designation attaches to a verified `s` = 7–9 violation.
 
 Implementations may publish measurement units, evidence methods, and examples to help estimate full-life-equivalent benefit or loss. These materials are guidance only and may not override **section 7**, **Chapter One**, or the **Chapter Six** Rights Floor.
+
+<a id="51-standard-contribution-measures"></a>
+
+**Standard contribution measures.** Adopted implementation may also publish **standard contribution measures**: a default Question 2 estimate — LEQU, scope, and benefit-route descriptors — for verified performance of a defined recurring task at a defined scope, such as a litter pickup along a stated segment, a waterway-restoration work unit, a land-recovery plot, or a maintenance rotation. Standards make routine stewardship legible and worth repeating under [Chapter One §2.2](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) (*Recognition, Reinforcement, and Aspiration*) without a bespoke estimate for every instance. A standard is a measurement helper under **section 3.5**, and:
+
+- it applies only to work verified under Question 1 through **section 3.7**; a standard never substitutes for verification that the task was done, to the stated scope, by the named subject;
+- it is a **floor for standard performance, not a cap**: work whose verified impact exceeds the standard's assumed impact — a better method, a more durable result, less externalized burden, a wider or deeper benefit — is measured on its actual verified impact under **section 5.2**, so the incentive to do the task better than the standard stays alive; work that verifiably falls short of the standard's assumed scope or durability is measured on what was verified, not on the label;
+- it is **revisited on a published cadence and re-baselined as efficiency improves**, so the standard tracks what the task now costs and produces rather than freezing yesterday's effort as today's credit; a revision applies going forward, and records already opened keep their measurement basis under **section 3.4** unless that basis was wrong when recorded;
+- a revision must be evidence-based, published, and contestable, and may not be used to suppress recognition of a class of work, a community, or a group, or to ratchet a standard down faster than the verified efficiency gain it rests on ([Chapter One §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture));
+- a standard creates no quota, no duty to perform, and no competency bar under [Chapter Nine §6.2](core_09_standing_integration.md#62-competency-bars-and-clearances); **section 2.1** *Silence is the default* controls, and a sentient who never performs a standard task has no record for that reason;
+- the office that sets or revises a standard holds the direction-and-policy seat under **section 3.7** *Segregation of duties*; it is not the office that verifies performance against the standard, and neither is a party whose recognition the standard measures.
+
+Standards may not override **section 7**, **Chapter One**, or the **Chapter Six** Rights Floor. A reference method and a worked schedule live in [LEQU_CALIBRATION_REFERENCE.md](implementation/LEQU_CALIBRATION_REFERENCE.md) (*process support; cannot assign a live record*).
 
 <a id="52-shared-impact-scaling-rules"></a>
 

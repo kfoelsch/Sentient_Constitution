@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-10T11:39:35+00:00",
+  "generated_at": "2026-09-10T11:59:46+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 14205,
+  "edge_count": 14209,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -69530,6 +69530,30 @@
       "source_file": "core_08_standing_assessment.md",
       "source_header": "5.1 Table 1 — slot display labels",
       "source_anchor": "#51-table-1-slot-display-labels",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#22-recognition-reinforcement-and-aspiration",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "5.1 Table 1 — slot display labels",
+      "source_anchor": "#51-table-1-slot-display-labels",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#11-incentive-alignment-and-system-capture",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "5.1 Table 1 — slot display labels",
+      "source_anchor": "#51-table-1-slot-display-labels",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#62-competency-bars-and-clearances",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "5.1 Table 1 — slot display labels",
+      "source_anchor": "#51-table-1-slot-display-labels",
       "target_file": "core_10_a_misconduct_designation.md",
       "target_anchor": "#chapter-ten-anti-constitutional-misconduct",
       "count": 1
@@ -96748,6 +96772,14 @@
       "source_anchor": null,
       "target_file": "core_08_standing_assessment.md",
       "target_anchor": "#37-informal-and-small-scope-records",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
+      "source_header": "CI-22: Commons, cooperatives, mutual aid, and non-market community governance",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#51-standard-contribution-measures",
       "count": 1
     },
     {

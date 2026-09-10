@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-10T11:39:33+00:00",
+  "generated_at": "2026-09-10T11:59:45+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -5464,7 +5464,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#22-recognition-reinforcement-and-aspiration",
@@ -5482,10 +5482,11 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 9,
+            "count": 10,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#101-segregation-of-duties",
+              "#11-incentive-alignment-and-system-capture",
               "#113-misalignment-detection",
               "#9-stewardship-and-distributed-understanding",
               "#chapter-01-principles-and-constraints"
@@ -5624,7 +5625,7 @@
           },
           {
             "file": "core_09_standing_integration.md",
-            "count": 60,
+            "count": 61,
             "anchors": [
               "#101-informal-ecological-stewardship-competency-clearance",
               "#1013-obstruction-of-accountability",
@@ -16107,9 +16108,10 @@
           },
           {
             "file": "core_08_standing_assessment.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#37-informal-and-small-scope-records",
+              "#51-standard-contribution-measures",
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },

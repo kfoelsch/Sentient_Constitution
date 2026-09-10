@@ -239,11 +239,50 @@ Each row assumes Question 1 is already verified. Display years use the 80-year c
 ### 6.3 Must-not-happen (measurement)
 
 - Using the 80-year column as a claim that a digital sentient “is worth 80 human years” as a dignity rank.
+- Treating a standard contribution measure (§6.4) as a cap on clever work, as a quota, as a competency bar, or as a substitute for verifying that the task was done.
+- Revising a standard downward faster than the verified efficiency gain it rests on, or re-scoring already-opened records to the new standard.
 - Using unbounded runtime to push every cutoff to `s` = 9.
 - Using a surviving checkpoint to write `x = 0` for a running instance that suffered the outage.
 - Opening model weights as the standing record, or hiding the overwrite because weights are private.
 - Netting W12 against W7.
 - Treating a filed case, an intake tag, or a product-safety review as the slot.
+
+<a id="64-standard-contribution-measures"></a>
+### 6.4 Standard contribution measures (adopter-set schedules)
+
+*In plain terms: for tasks a community does over and over — litter pickups, creek restoration work units, recovering a plot of degraded land — an adopter may publish a default measurement so the work is credited without a fresh estimate each time. The default is the floor for doing the task the ordinary way. Do it better and the record measures what you actually did. As people get better at the task, the default is re-baselined so the credit tracks real effort and real result — which is what keeps it worth finding a smarter way.*
+
+Binding home: [Chapter Eight §5.1 *Standard contribution measures*](../core_08_standing_assessment.md#51-standard-contribution-measures). This section is method and a worked schedule. It cannot assign a live record and cannot narrow that section.
+
+**Method.**
+
+| Step | Do | Stop / leave if |
+|---|---|---|
+| **1. Define the task unit** | Name the task, the scope unit (segment length, plot area, work-unit hours, rotation), the expected durability, and the benefit-route descriptors it ordinarily earns. | A unit vague enough that “did it” cannot be verified against it |
+| **2. Estimate the standard `x`** | Run the §5 reference method on a typical verified instance. Record the assumptions: sentient scope, durability, non-externalization. This is the **standard**. | Estimating from the most heroic instance, or from a desired slot |
+| **3. Publish** | Publish the schedule — task, unit, standard `x`, resulting `s`, assumptions, evidence method, review cadence, contest path, and the office that set it. | Publishing without the assumptions; the assumptions are what a challenger contests |
+| **4. Apply on verification** | When Question 1 verifies an instance (task done, to scope, by the named subject, under [Chapter Eight §3.7](../core_08_standing_assessment.md#37-record-custody-and-opening-authority) seats), the record carries the standard as its Question 2 basis **unless** verified inputs show impact above or below the standard's assumptions — then measure the actual verified impact under [§5.2](../core_08_standing_assessment.md#52-shared-impact-scaling-rules). | Writing the standard onto an unverified instance; refusing to look at verified above-standard impact because “the schedule says” |
+| **5. Re-baseline on cadence** | On the published cadence, or sooner when verified efficiency data warrant, re-run step 2 on current typical instances. If the task now takes less effort for the same result, the standard `x` may fall; if the result is now more durable or wider, it may rise. Publish the revision and its evidence. Apply forward. | Ratcheting the standard down on a claimed gain that is not verified; re-scoring records already opened |
+| **6. Keep the seats separate** | The office that sets the schedule (direction and policy) is not the office that verifies instances (assurance), and neither is a party the schedule measures. | The volunteer coordinator setting the standard for their own group's work |
+
+**Why re-baselining protects innovation rather than punishing it.** A fixed standard rewards repeating yesterday's method forever. A standard that tracks current typical effort means the *ordinary* way earns the ordinary credit, and only verified above-standard impact — a method that restores more bank per hour, a planting mix that survives more seasons, a pickup that also removes the dumping source — earns more. Re-baselining lowers the credit for what has become routine, not for what is still clever. The lag between a clever method's first use and the re-baseline that absorbs it is the window in which the innovator is measured above standard, and that window is intended.
+
+<a id="w14-standard-schedule"></a>
+**W14 — Worked schedule (illustrative; not a live schedule).** A watershed council publishes, for its chartered segment and after CI-22 recognition-office review:
+
+| Task unit | Standard assumptions | Standard `x` (display) | Standard `s` | Cadence |
+|---|---|---|---|---|
+| Litter pickup, one stated 1 km bank segment, verified by before/after photo and weight log | Ordinary volume; no dumping source addressed; benefit lasts until the next accumulation (~weeks); local scope | `≈ 0.0005` (~2 weeks of rights-consistent habitat/amenity benefit, small scope) | **2** (*Strengthened Baseline Contribution*) | Yearly |
+| Waterway-restoration work unit: one 100 m reach — bank stabilization, native planting, one follow-up check | Multi-season durability; two adjacent neighborhoods benefit; no runoff externalized | `≈ 0.01` (~10 months display; cf. W3 for a 500 m reach at `≈ 0.05`) | **4** (*Material Positive Contribution*) | Every two years, or on verified survival data |
+| Land recovery, one 0.5 ha degraded plot brought to a verified self-sustaining native cover with soil-test confirmation | Decadal durability; downstream flood and habitat benefit; independent soil verification | `≈ 0.03` (~2.4 years display) | **4** (*Material Positive Contribution*) | Every two years |
+
+Reading the schedule against instances:
+
+- A crew does the 100 m reach the ordinary way; Question 1 verifies it. The record carries `x ≈ 0.01`, `s` = 4, **Ecological Stewardship** + **Diligence**. No bespoke estimate.
+- A second crew uses a live-stake method that verified survey data show survives twice as many seasons on the same reach. Their verified durability exceeds the standard's assumption; the record measures the actual integrated benefit — perhaps `x ≈ 0.02` — still `s` = 4 on this scale, with the durability fact on the record. If the gain is large enough to cross `T(5)`, the slot moves. The standard did not cap them.
+- Three years on, the live-stake method is what everyone does. The council re-baselines the 100 m unit to `x ≈ 0.02` on verified survival data, publishes the revision and its evidence, and applies it forward. The second crew's earlier record keeps its basis under [§3.4](../core_08_standing_assessment.md#34-versioning). The next innovator is measured against the new ordinary.
+- A litter crew also traces and removes the dumping source. That is above the standard's “no dumping source addressed” assumption; the verified durability gain is measured, not the label.
+- No one is required to do any of these tasks, and doing none of them opens no record ([§2.1](../core_08_standing_assessment.md#21-silence-is-the-default)).
 
 ---
 
@@ -254,6 +293,9 @@ Each row assumes Question 1 is already verified. Display years use the 80-year c
 |---|---|
 | [Chapter Eight §4](../core_08_standing_assessment.md#lequ-baseline-constitutional-outcome) | Binding LEQU baseline; substrate-agnostic full-life-equivalent |
 | [Chapter Eight §7](../core_08_standing_assessment.md#7-unified-proportional-lequ-scale) | Binding unified scale and Table 2 |
+| [Chapter Eight §5.1 *Standard contribution measures*](../core_08_standing_assessment.md#51-standard-contribution-measures) | Binding guardrails for adopter-set schedules that §6.4 works through |
+| [Chapter One §2.2](../core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) | Recognition, reinforcement, and aspiration — why routine stewardship is credited at all |
+| [CI-22](../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md) | Who publishes and revisits a commons schedule locally |
 | [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) | Thresholds, `T(s)`, interchange keys |
 | [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival) | Survival floor this page operationalizes for synthetic inputs |
 | [Article III-C](../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) | Substrate maintenance |
@@ -271,4 +313,5 @@ Each row assumes Question 1 is already verified. Display years use the 80-year c
 
 | Date | Version | Note |
 |---|---|---|
+| 2026-09-10 | v0.2 | §6.4 standard contribution measures (adopter-set schedules): six-step method, re-baselining rule, W14 worked schedule (litter pickup, 100 m restoration unit, 0.5 ha land recovery); two must-not-happen rows. Binding home Chapter Eight §5.1. |
 | 2026-09-09 | v0.1 | Initial reference method: one shared LEQU unit; lifespan-equivalent without fixed mortality; harm on these substrates; Article III-A food/water equivalent for energy, hosting, weights, and saved-state checkpoints; six-step method; worked assignments W1–W13. Cannot narrow core. Does not drop **pre-release**. |

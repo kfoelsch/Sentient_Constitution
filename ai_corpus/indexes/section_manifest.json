@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-10T11:39:32+00:00",
+  "generated_at": "2026-09-10T11:59:44+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 241,
@@ -3513,13 +3513,13 @@
       ]
     },
     "core_08_standing_assessment.md": {
-      "total_lines": 859,
+      "total_lines": 872,
       "sections": [
         {
           "header": "CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT",
           "level": 1,
           "line_start": 2,
-          "line_end": 859,
+          "line_end": 872,
           "anchor": "#chapter-eight-compliance-violation-and-standing-model"
         },
         {
@@ -3694,56 +3694,56 @@
           "header": "5. Slot grammar and shared scaling",
           "level": 3,
           "line_start": 674,
-          "line_end": 740,
+          "line_end": 753,
           "anchor": "#5-slot-grammar-and-lequ-calibration"
         },
         {
           "header": "5.1 Table 1 — slot display labels",
           "level": 4,
           "line_start": 694,
-          "line_end": 715,
+          "line_end": 728,
           "anchor": "#51-table-1-slot-display-labels"
         },
         {
           "header": "5.2 Shared impact-scaling rules",
           "level": 4,
-          "line_start": 716,
-          "line_end": 740,
+          "line_start": 729,
+          "line_end": 753,
           "anchor": "#52-shared-impact-scaling-rules"
         },
         {
           "header": "6. Constitutional inputs to axis assignment",
           "level": 3,
-          "line_start": 741,
-          "line_end": 796,
+          "line_start": 754,
+          "line_end": 809,
           "anchor": "#6-constitutional-inputs-to-axis-assignment"
         },
         {
           "header": "6.1 Definition inputs",
           "level": 4,
-          "line_start": 756,
-          "line_end": 770,
+          "line_start": 769,
+          "line_end": 783,
           "anchor": "#61-definition-inputs"
         },
         {
           "header": "6.2 Principle inputs",
           "level": 4,
-          "line_start": 771,
-          "line_end": 782,
+          "line_start": 784,
+          "line_end": 795,
           "anchor": "#62-principle-inputs"
         },
         {
           "header": "6.3 Rights-Floor and Article inputs",
           "level": 4,
-          "line_start": 783,
-          "line_end": 796,
+          "line_start": 796,
+          "line_end": 809,
           "anchor": "#63-rights-floor-and-article-inputs"
         },
         {
           "header": "7. Unified proportional LEQU scale — Contribution and Violation Axes",
           "level": 3,
-          "line_start": 797,
-          "line_end": 859,
+          "line_start": 810,
+          "line_end": 872,
           "anchor": "#7-unified-proportional-lequ-scale"
         }
       ]
@@ -8982,13 +8982,13 @@
       ]
     },
     "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md": {
-      "total_lines": 71,
+      "total_lines": 72,
       "sections": [
         {
           "header": "CI-22: Commons, cooperatives, mutual aid, and non-market community governance",
           "level": 1,
           "line_start": 1,
-          "line_end": 71,
+          "line_end": 72,
           "anchor": null
         }
       ]
