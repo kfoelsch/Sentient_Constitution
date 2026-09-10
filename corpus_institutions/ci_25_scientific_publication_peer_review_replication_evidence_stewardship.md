@@ -38,7 +38,7 @@
 
 This file is the institutional implementation home for **CI-25** (*Scientific publication, peer review, replication, and evidence stewardship*).
 
-*In plain terms: **CI-25** is the institutions layer's rulebook for how science and scholarship actually work in practice — publishing claims, peer review, replication, corrections, and keeping evidence trustworthy enough to rely on. Science is public verification infrastructure, not a prestige contest. Evidence quality, critique, replication, and correction behavior must matter more than journal brand, impact factor, or who you know. Correcting an error must always be easier than hiding one. Shared claim-testing, review, reliance, correction, and incentive-integrity floors live in **CJS-3.5** (*independent verification and claim-integrity terms*). The constitutional meaning sits in **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*). What this file adds is local: what each institution must name, file, and maintain locally.*
+*In plain terms: **CI-25** is the local owner map for publishing claims, peer review, replication, corrections, and keeping evidence trustworthy enough to rely on. Shared floors live in **CJS-3.5**; local duties sit in **CI-25.1** through **CI-25.5**.*
 
 **Quick orientation**
 - **The basic idea** — material empirical or analytical claims must be publishable with enough method, provenance, uncertainty, and evidence detail for independent checking — not locked behind prestige gates or opaque editorial black boxes.
@@ -51,18 +51,15 @@ This file is the institutional implementation home for **CI-25** (*Scientific pu
 - **CI-25.4** — incentive criteria: rewards tied to evidence quality, not prestige proxies or hidden correction history.
 - **CI-25.5** — ombuds, escalation, and technical forum referral: dispute review, **CI-12** escalation, and **CF-10** specialist routes.
 - **Read with** — **CI-6** for local procedure maps; **CI-12** for cross-institution escalation; **CF-10** for technical specialist forum referral.
-*In plain terms: a paper in a famous journal is not automatically true, and a correction in an obscure venue is not automatically worthless. If your institution cannot show what evidence supported a decision, who reviewed it, whether replication was attempted, or how a challenge was handled, it is not stewarding science — it is borrowing its reputation.*
 
 *Shared rules live elsewhere.*
-- [**CJS-3.5**](../corpus_joint_structure/cjs_03o_oversight_operations.md) (*independent verification and claim-integrity terms*) — independent verification, reproducibility, anti-single-authority verification, structured claim-testing, reliance and correction integrity, structured review and incentive-integrity floors.
-- **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) in **Chapter Six** — science as public verification infrastructure, open publication and evidence sufficiency, review and replication over prestige, correction and contestability.
-- **Chapter One** (*Truth*, epistemic disclosure constraints) and **Article XVI-A** (*Lifecycle Governance and Environment Separation*) — narrow limits on publication where privacy, biosafety, security, or comparable justification applies.
-- **CF-10** (*Technical specialist forums and specialist chambers*) in `corpus_forum.md` — specialist science-facing technical forum routes under **CJS-R09**.
-- **CI-25 scope** — does not repeat those floors; states **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) publication owner files and local routing duties.
+- [**CJS-3.5**](../corpus_joint_structure/cjs_03o_oversight_operations.md) (*independent verification and claim-integrity terms*).
+- **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*).
+- **Chapter One** (*Truth*, epistemic disclosure constraints); **Article XVI-A** (*Lifecycle Governance and Environment Separation*).
+- **CF-10** (*Technical specialist forums and specialist chambers*) under **CJS-R09**.
+- This file does not repeat those floors.
 
-**Apply**
-- Apply **CJS-3.5** (*independent verification and claim-integrity terms*) for the shared claim-testing, review, reliance, correction, and incentive-integrity floors.
-- **CI-25** states only local **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) publication owner files, ombuds routing, and **CF-10** referral interfaces across **CI-25.1** through **CI-25.5**.
+**Apply.** Apply **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*) for the shared claim-testing, review, reliance, correction, and incentive-integrity floors. **CI-25** (*Scientific publication, peer review, replication, and evidence stewardship*) states only the local owner duties in **CI-25.1** (*Publication intake and correction records*) through **CI-25.5** (*Ombuds, escalation, and technical forum referral*).
 
 ## CI-25.1: Publication intake and correction records
 <details>

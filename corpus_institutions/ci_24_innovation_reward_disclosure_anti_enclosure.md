@@ -36,7 +36,7 @@
 
 This file is the institutional implementation home for **CI-24** (*Innovation reward, disclosure, and anti-enclosure*).
 
-*In plain terms: **CI-24** is the institutions layer's rulebook for innovation rewards — patents, copyrights, exclusivity deals, and similar claims — so creators get fair credit and compensation without turning a temporary reward into permanent lock-in. Innovators can be rewarded, but exclusivity must stay narrow, time-limited, and reviewable. Repair, research, education, interoperability, and public-interest access must not be blocked by a reward claim sitting in a drawer or a registry nobody can search. Shared anti-enclosure, public-interest-use, compulsory-access, anti-warehousing, and duration floors live in **CJS-3.17** (*interoperability, portability, and exit-integrity terms*). The constitutional meaning sits in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Article XVII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*). What this file adds is local: what each institution must register, publish, review, and maintain locally.*
+*In plain terms: **CI-24** is the local owner map for innovation rewards — patents, copyrights, exclusivity deals, and similar claims — so creators get fair credit without turning a temporary reward into permanent lock-in. Shared floors live in **CJS-3.17**; this file names who runs the registry, who hears public-interest access requests, and who sunsets claims.*
 
 **Quick orientation**
 - **The basic idea** — reward real contribution and disclosure, but do not let reward become durable enclosure, artificial scarcity, or a chokepoint on things society depends on.
@@ -45,19 +45,15 @@ This file is the institutional implementation home for **CI-24** (*Innovation re
 - **What gets tighter over time** — when an innovation becomes dependency-critical infrastructure — a platform, protocol, model, marketplace, or payment rail — remaining exclusivity must be reassessed, narrowed, converted, or sunset.
 - **Who decides disputes** — specialist review lanes separated from claim-granting or revenue-dependent functions, with **CI-12** escalation when local review stalls or is conflicted.
 - **Read with** — **CI-6** for local procedure maps; **CI-12** for cross-institution escalation; **CJS-3.12** (*burden-of-justification and constraint terms*) for burden-of-justification and proportionality scaling; **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) for shared anti-enclosure floors.
-*In plain terms: attribution is not ownership forever. You can keep credit after exclusivity ends — but you cannot warehouse a critical standard, shelf a life-saving medicine behind a broad patent, or use secrecy to block repair because the registry says "innovation reward." If the institution that grants claims is also the only place to challenge them, the pathway has failed.*
 
 *Shared rules live elsewhere.*
-- [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*interoperability, portability, and exit-integrity terms*) — innovation reward boundary and anti-enclosure controls; access-preserving reward and anti-warehousing controls; innovation-reward duration and reclassification controls (including publication-based timing and dependency-critical tightening).
-- **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Article XVII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*) in **Chapter Six** — constitutional reward structure, temporary exclusivity limits, disclosure condition, public-interest floor, domain carve-outs, and reclassification duties.
-- [**CJS-3.12**](../corpus_joint_structure/cjs_03a_accountability_operations.md) (*burden of justification and constraint terms*) — proportionality and burden scaling where reward claims affect material dependency or access burden.
-- **`corpus_systems.md`** **CS-3** — system classification and handling where innovation reward must scale with class, dependency, and coordination effects.
-- **CI-24 scope** — does not repeat those floors; states institutional registry, claim-record, access-order, sunset, specialist-review, and appeal duties.
+- [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*interoperability, portability, and exit-integrity terms*) — innovation-reward boundary, anti-enclosure, access-preserving reward, anti-warehousing, and duration/reclassification controls.
+- Chapter Five (*Innovation Reward and Anti-Enclosure*); **Article XVII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*).
+- [**CJS-3.12**](../corpus_joint_structure/cjs_03a_accountability_operations.md) (*burden of justification and constraint terms*).
+- **CS-3** — system classification and handling where innovation reward must scale with class, dependency, and coordination effects.
+- This file does not repeat those floors.
 
-**Apply**
-- Apply **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) for the shared anti-enclosure, public-interest-use, compulsory-access, anti-warehousing, and duration/reclassification floors.
-- Apply **CJS-3.17** **Innovation-reward duration and reclassification controls** for shared timing and dependency-critical reclassification; **CI-24** supplies only the local review calendar and record-update duty.
-- **CI-24** states only local institutional duties for disclosure, registry, claim records, corrective pathways, sunset, and dispute review.
+**Apply.** Apply **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*) for the shared anti-enclosure, public-interest-use, compulsory-access, anti-warehousing, and duration/reclassification floors. Apply **CJS-3.17** **Innovation-reward duration and reclassification controls** for shared timing; **CI-24** (*Innovation reward, disclosure, and anti-enclosure*) supplies only the local review calendar and record-update duty. **CI-24** (*Innovation reward, disclosure, and anti-enclosure*) states only the local owner duties below.
 **What each institution must name and maintain locally**
 **1. Disclosure and registry**
 - **registry owner** — who maintains the public searchable registry and entry format;

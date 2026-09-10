@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-09T19:55:37+00:00",
+  "generated_at": "2026-09-09T23:15:31+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -6521,10 +6521,11 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#91-stewardship",
-              "#911-role-scoped-observability"
+              "#911-role-scoped-observability",
+              "#911-shared-stewardship-standard"
             ]
           },
           {
@@ -6603,7 +6604,7 @@
           },
           {
             "file": "core_09_standing_integration.md",
-            "count": 17,
+            "count": 19,
             "anchors": [
               "#10-pattern-applications-and-question-3-routing",
               "#4-violation-correction-and-prevention",
@@ -6633,13 +6634,22 @@
           },
           {
             "file": "core_11_forum.md",
-            "count": 12,
+            "count": 16,
             "anchors": [
+              "#2-default-venue-and-primary-stakes",
               "#5-escalation-and-certification",
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+              "#capacity-failure-routing",
               "#chapter-eleven-forums-and-jurisdiction",
               "#interim-protection",
               "#urgency-classification-and-time-scale"
+            ]
+          },
+          {
+            "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+            "count": 1,
+            "anchors": [
+              "#cf-414-independent-representative-appointment"
             ]
           },
           {
@@ -6651,7 +6661,7 @@
           },
           {
             "file": "corpus_systems/cs_04_critical_system_stewardship.md",
-            "count": 1,
+            "count": 3,
             "anchors": [
               "#10-inspectable-attributable-action"
             ]

@@ -14,7 +14,7 @@
 - **Unresolved** violation findings are **not** time-discounted for standing integration.
 - **Do not** net contribution against violation; **do not** **average** or **substitute** axes. Decide violation remedy, correction, and locks before contribution currentness and competency bars and clearances, per [Chapter Nine §2](../core_09_standing_integration.md#2-integration-record-and-decision-order). An applicable lock controls.
 
-**References:** [corpus_systems.md](../corpus_systems.md) (standing composites), [schemas/ch06_assessment.schema.json](schemas/ch06_assessment.schema.json) (optional `nine_slot` fields), [ch06_nine_slot_constants.json](ch06_nine_slot_constants.json) (precomputed table).
+**References:** [corpus_systems.md](../corpus_systems.md) (standing composites), [schemas/ch06_assessment.schema.json](schemas/ch06_assessment.schema.json) (optional `nine_slot` fields), [ch06_nine_slot_constants.json](ch06_nine_slot_constants.json) (precomputed table), [LEQU_CALIBRATION_REFERENCE.md](LEQU_CALIBRATION_REFERENCE.md) (how to estimate `x`, including non-biological sentients; cannot assign a live record).
 
 ---
 
@@ -72,7 +72,7 @@ Chapter Ten may attach a corresponding anti-constitutional-misconduct designatio
 
 Let **`C_measure`** be the Chapter Eight integrated verified contribution benefit in **LEQU**, without Chapter Nine recency or currentness adjustment. Let **`C\_unit` > 0** be a display scalar, with default **`C_unit = 1 LEQU`**. Existing fields or records named **`C*`** remain readable for interoperability, but if they contain recency weighting they are legacy analytics only and must not derive, raise, or lower a Chapter Eight slot.
 
-`C_measure` units must be calibrated to constitutional-outcome benefit under core **Chapter Eight §§4 and 5.2**. **1 LEQU** means one substrate-agnostic full-life-equivalent constitutional benefit. An implementation may use a current ordinary human lifespan as a biological-human calibration example, but the operative benchmark is the substrate-agnostic **full-life-equivalent constitutional benefit** stated in the core. Claims based on efficiency, burden reduction, productive capacity, or innovation must be discounted or rejected when they depend on rights-floor narrowing, Safety or Truth degradation, discriminatory burden shifting, ecological depletion, opacity, capture, or loss of contestability.
+`C_measure` units must be calibrated to constitutional-outcome benefit under core **Chapter Eight §§4 and 5.2**. **1 LEQU** means one substrate-agnostic full-life-equivalent constitutional benefit. An implementation may use a current ordinary human lifespan as a biological-human calibration example, but the operative benchmark is the substrate-agnostic **full-life-equivalent constitutional benefit** stated in the core. Claims based on efficiency, burden reduction, productive capacity, or innovation must be discounted or rejected when they depend on Rights-Floor narrowing, Safety or Truth degradation, discriminatory burden shifting, ecological depletion, opacity, capture, or loss of contestability.
 
 **Minimum** **`C_measure`** to qualify for at least slot `s` follows the shared `T(s)` formula above:
 
@@ -123,3 +123,4 @@ Implementations may publish pairs `(C_measure, L*)`, where `L*` is verified viol
 
 - [ch06_nine_slot_constants.json](ch06_nine_slot_constants.json) — one JSON object per slot with shared LEQU lower bounds, neutral displays, and legacy-compatible helper fields.
 - [schemas/ch06_assessment.schema.json](schemas/ch06_assessment.schema.json) — optional **`nine_slot`** on **assessment** snapshots; **unchanged** **Contribution Axis** / **Violation Axis** **enum** **fields** **remain** **required** **where** **already** **required** **for** **portability**.
+- [LEQU_CALIBRATION_REFERENCE.md](LEQU_CALIBRATION_REFERENCE.md) — reference method and worked slot assignments for estimating `x` (biological and non-biological). Process support; cannot narrow core or assign a live record.

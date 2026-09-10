@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-09T19:55:35+00:00",
+  "generated_at": "2026-09-09T23:15:30+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 241,
@@ -3513,13 +3513,13 @@
       ]
     },
     "core_08_standing_assessment.md": {
-      "total_lines": 784,
+      "total_lines": 786,
       "sections": [
         {
           "header": "CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT",
           "level": 1,
           "line_start": 2,
-          "line_end": 784,
+          "line_end": 786,
           "anchor": "#chapter-eight-compliance-violation-and-standing-model"
         },
         {
@@ -3736,7 +3736,7 @@
           "header": "7. Unified proportional LEQU scale — Contribution and Violation Axes",
           "level": 3,
           "line_start": 724,
-          "line_end": 784,
+          "line_end": 786,
           "anchor": "#7-unified-proportional-lequ-scale"
         }
       ]
@@ -4406,13 +4406,13 @@
       ]
     },
     "core_08-11_application_vignettes.md": {
-      "total_lines": 310,
+      "total_lines": 327,
       "sections": [
         {
           "header": "CHAPTERS EIGHT–ELEVEN: PIPELINE APPLICATION VIGNETTES",
           "level": 1,
           "line_start": 2,
-          "line_end": 310,
+          "line_end": 327,
           "anchor": "#chapters-eight-eleven-application-vignettes"
         },
         {
@@ -4552,98 +4552,105 @@
           "header": "5. Pipeline overrun and tetrad-hollow forums",
           "level": 3,
           "line_start": 194,
-          "line_end": 207,
+          "line_end": 209,
           "anchor": "#vignette-pipeline-overrun-tetrad-hollow"
         },
         {
           "header": "6. Non-compliant deployment with a credible sentience indicator (Tier A)",
           "level": 3,
-          "line_start": 208,
-          "line_end": 252,
-          "anchor": null
+          "line_start": 210,
+          "line_end": 269,
+          "anchor": "#vignette-noncompliant-deployment-sentience-indicator"
         },
         {
           "header": "Situation",
           "level": 4,
-          "line_start": 210,
-          "line_end": 213,
+          "line_start": 212,
+          "line_end": 216,
           "anchor": null
+        },
+        {
+          "header": "Who is acting",
+          "level": 4,
+          "line_start": 217,
+          "line_end": 226,
+          "anchor": "#vignette-6-who-is-acting"
         },
         {
           "header": "Legacy failure mode",
           "level": 4,
-          "line_start": 214,
-          "line_end": 217,
+          "line_start": 227,
+          "line_end": 230,
           "anchor": null
         },
         {
           "header": "Pipeline pass",
           "level": 4,
-          "line_start": 218,
-          "line_end": 229,
+          "line_start": 231,
+          "line_end": 244,
           "anchor": null
         },
         {
           "header": "Milestone table (Tier A defaults)",
           "level": 4,
-          "line_start": 230,
-          "line_end": 240,
+          "line_start": 245,
+          "line_end": 255,
           "anchor": null
         },
         {
           "header": "Must not happen",
           "level": 4,
-          "line_start": 241,
-          "line_end": 252,
+          "line_start": 256,
+          "line_end": 269,
           "anchor": null
         },
         {
           "header": "7. An ordinary year with no filing and no sensitive role",
           "level": 3,
-          "line_start": 253,
-          "line_end": 289,
+          "line_start": 270,
+          "line_end": 306,
           "anchor": "#vignette-ordinary-person-year"
         },
         {
           "header": "Situation",
           "level": 4,
-          "line_start": 255,
-          "line_end": 258,
+          "line_start": 272,
+          "line_end": 275,
           "anchor": null
         },
         {
           "header": "Legacy failure mode",
           "level": 4,
-          "line_start": 259,
-          "line_end": 262,
+          "line_start": 276,
+          "line_end": 279,
           "anchor": null
         },
         {
           "header": "What the year looks like",
           "level": 4,
-          "line_start": 263,
-          "line_end": 274,
+          "line_start": 280,
+          "line_end": 291,
           "anchor": null
         },
         {
           "header": "The honest cost, stated once",
           "level": 4,
-          "line_start": 275,
-          "line_end": 278,
+          "line_start": 292,
+          "line_end": 295,
           "anchor": null
         },
         {
           "header": "Must not happen",
           "level": 4,
-          "line_start": 279,
-          "line_end": 289,
+          "line_start": 296,
+          "line_end": 306,
           "anchor": null
         },
         {
           "header": "Cross-vignette discipline",
           "level": 3,
-          "line_start": 290,
-          "line_end": 310,
+          "line_start": 307,
+          "line_end": 327,
           "anchor": null
         }
       ]
@@ -8863,189 +8870,189 @@
       ]
     },
     "corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md": {
-      "total_lines": 97,
+      "total_lines": 77,
       "sections": [
         {
           "header": "CI-15: Neurodiversity, disability justice, and trauma-informed participation",
           "level": 1,
           "line_start": 1,
-          "line_end": 97,
+          "line_end": 77,
           "anchor": null
         }
       ]
     },
     "corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md": {
-      "total_lines": 82,
+      "total_lines": 72,
       "sections": [
         {
           "header": "CI-16: Care labor, dependent support, respite, and care-economy fairness",
           "level": 1,
           "line_start": 1,
-          "line_end": 82,
+          "line_end": 72,
           "anchor": null
         }
       ]
     },
     "corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md": {
-      "total_lines": 78,
+      "total_lines": 71,
       "sections": [
         {
           "header": "CI-17: End-of-life continuity, memorial dignity, and posthumous-data stewardship",
           "level": 1,
           "line_start": 1,
-          "line_end": 78,
+          "line_end": 71,
           "anchor": null
         }
       ]
     },
     "corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md": {
-      "total_lines": 80,
+      "total_lines": 71,
       "sections": [
         {
           "header": "CI-18: Collective public health, epidemic response, and addiction-informed care",
           "level": 1,
           "line_start": 1,
-          "line_end": 80,
+          "line_end": 71,
           "anchor": null
         }
       ]
     },
     "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md": {
-      "total_lines": 83,
+      "total_lines": 80,
       "sections": [
         {
           "header": "CI-19: Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface",
           "level": 1,
           "line_start": 1,
-          "line_end": 83,
+          "line_end": 80,
           "anchor": null
         }
       ]
     },
     "corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md": {
-      "total_lines": 81,
+      "total_lines": 72,
       "sections": [
         {
           "header": "CI-20: Relational coercive control, intimate power, and anti-domination routing",
           "level": 1,
           "line_start": 1,
-          "line_end": 81,
+          "line_end": 72,
           "anchor": null
         }
       ]
     },
     "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md": {
-      "total_lines": 127,
+      "total_lines": 124,
       "sections": [
         {
           "header": "CI-21: Community life, voluntary association, and non-instrumental time",
           "level": 1,
           "line_start": 1,
-          "line_end": 127,
+          "line_end": 124,
           "anchor": null
         },
         {
           "header": "CI-21.1: Civic infrastructure and non-instrumental time",
           "level": 2,
-          "line_start": 62,
-          "line_end": 80,
+          "line_start": 59,
+          "line_end": 77,
           "anchor": null
         },
         {
           "header": "CI-21.2: Voluntary association and anti-coercion guardrails",
           "level": 2,
-          "line_start": 81,
-          "line_end": 100,
+          "line_start": 78,
+          "line_end": 97,
           "anchor": null
         },
         {
           "header": "CI-21.3: Referral and escalation interfaces",
           "level": 2,
-          "line_start": 101,
-          "line_end": 127,
+          "line_start": 98,
+          "line_end": 124,
           "anchor": null
         }
       ]
     },
     "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md": {
-      "total_lines": 83,
+      "total_lines": 71,
       "sections": [
         {
           "header": "CI-22: Commons, cooperatives, mutual aid, and non-market community governance",
           "level": 1,
           "line_start": 1,
-          "line_end": 83,
+          "line_end": 71,
           "anchor": null
         }
       ]
     },
     "corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md": {
-      "total_lines": 89,
+      "total_lines": 76,
       "sections": [
         {
           "header": "CI-23: Place-based stewardship, Indigenous continuity, and consultation routes",
           "level": 1,
           "line_start": 1,
-          "line_end": 89,
+          "line_end": 76,
           "anchor": null
         }
       ]
     },
     "corpus_institutions/ci_24_innovation_reward_disclosure_anti_enclosure.md": {
-      "total_lines": 91,
+      "total_lines": 87,
       "sections": [
         {
           "header": "CI-24: Innovation reward, disclosure, and anti-enclosure",
           "level": 1,
           "line_start": 1,
-          "line_end": 91,
+          "line_end": 87,
           "anchor": null
         }
       ]
     },
     "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md": {
-      "total_lines": 163,
+      "total_lines": 160,
       "sections": [
         {
           "header": "CI-25: Scientific publication, peer review, replication, and evidence stewardship",
           "level": 1,
           "line_start": 1,
-          "line_end": 163,
+          "line_end": 160,
           "anchor": null
         },
         {
           "header": "CI-25.1: Publication intake and correction records",
           "level": 2,
-          "line_start": 67,
-          "line_end": 84,
+          "line_start": 64,
+          "line_end": 81,
           "anchor": null
         },
         {
           "header": "CI-25.2: Evidence, review, and reviewer custody",
           "level": 2,
-          "line_start": 85,
-          "line_end": 103,
+          "line_start": 82,
+          "line_end": 100,
           "anchor": null
         },
         {
           "header": "CI-25.3: Challenge, correction, and access",
           "level": 2,
-          "line_start": 104,
-          "line_end": 122,
+          "line_start": 101,
+          "line_end": 119,
           "anchor": null
         },
         {
           "header": "CI-25.4: Incentive criteria",
           "level": 2,
-          "line_start": 123,
-          "line_end": 138,
+          "line_start": 120,
+          "line_end": 135,
           "anchor": null
         },
         {
           "header": "CI-25.5: Ombuds, escalation, and technical forum referral",
           "level": 2,
-          "line_start": 139,
-          "line_end": 163,
+          "line_start": 136,
+          "line_end": 160,
           "anchor": null
         }
       ]
@@ -9244,13 +9251,13 @@
       ]
     },
     "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md": {
-      "total_lines": 326,
+      "total_lines": 327,
       "sections": [
         {
           "header": "CF-4: Panel formation, disclosure, recusal, and lawful bench constitution",
           "level": 1,
           "line_start": 1,
-          "line_end": 326,
+          "line_end": 327,
           "anchor": null
         },
         {
@@ -9341,26 +9348,26 @@
           "header": "CF-4.13 Required records for panel formation and recusal",
           "level": 2,
           "line_start": 283,
-          "line_end": 302,
+          "line_end": 303,
           "anchor": null
         },
         {
           "header": "CF-4.14 Independent representative appointment",
           "level": 2,
-          "line_start": 303,
-          "line_end": 326,
-          "anchor": null
+          "line_start": 304,
+          "line_end": 327,
+          "anchor": "#cf-414-independent-representative-appointment"
         }
       ]
     },
     "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md": {
-      "total_lines": 121,
+      "total_lines": 122,
       "sections": [
         {
           "header": "CF-5: Routing operations, transfer, certification, and representative treatment",
           "level": 1,
           "line_start": 1,
-          "line_end": 121,
+          "line_end": 122,
           "anchor": null
         },
         {
@@ -9381,15 +9388,15 @@
           "header": "CF-5.3 Natural-systems representatives",
           "level": 2,
           "line_start": 87,
-          "line_end": 101,
+          "line_end": 102,
           "anchor": null
         },
         {
           "header": "CF-5.4 Capacity-failure routing",
           "level": 2,
-          "line_start": 102,
-          "line_end": 121,
-          "anchor": null
+          "line_start": 103,
+          "line_end": 122,
+          "anchor": "#cf-54-capacity-failure-routing"
         }
       ]
     },

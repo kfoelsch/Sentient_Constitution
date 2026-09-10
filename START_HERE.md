@@ -71,6 +71,7 @@ Named in [PRE_PUBLICATION_SPEC.md](implementation/PRE_PUBLICATION_SPEC.md) §3.1
 | Day-to-day next step (refuse, log, certify, contest, remedy, emergency) | [STEWARD_ENTRY_DOORS.md](implementation/STEWARD_ENTRY_DOORS.md) |
 | Fitness screen plus own-conduct declaration | [evaluation/self_application/START_HERE.md](evaluation/self_application/START_HERE.md) (a different page from this one) |
 | Kit routing — two parties, *n* parties, institution, forum | [FIT_SITUATIONS.md §6](implementation/adoption/FIT_SITUATIONS.md#6-kit-routing) |
+| Size *N* × Class *X* — which bodies, in what order, at what staff and funding | [MINIMUM_VIABLE_ADOPTER.md](implementation/adoption/MINIMUM_VIABLE_ADOPTER.md) |
 
 If you cannot bind the systems or name independent review that is not the founding crew, stop at operations-guide plus own-conduct. Do not skip ahead to Track B.
 
@@ -99,6 +100,7 @@ If any “cannot bind” row in the first-adopter kit’s [scope honesty](implem
 |---|---|
 | **Canonical public door** | This file (`START_HERE.md`) |
 | **Fit map** | [implementation/adoption/FIT_SITUATIONS.md](implementation/adoption/FIT_SITUATIONS.md) |
+| **Adopter profile / cost** | [implementation/adoption/MINIMUM_VIABLE_ADOPTER.md](implementation/adoption/MINIMUM_VIABLE_ADOPTER.md) |
 | **Announcement copy** | [implementation/adoption/ANNOUNCEMENT.md](implementation/adoption/ANNOUNCEMENT.md) |
 | **Editor map** | [README.md](README.md) |
 | **Vision and contribution** | [VISION.md](VISION.md) (where it stands; path to maturity) · [CONTRIBUTING.md](CONTRIBUTING.md) (how to take part; not adoption) |

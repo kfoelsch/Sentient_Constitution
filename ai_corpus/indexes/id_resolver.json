@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-09T19:55:39+00:00",
+  "generated_at": "2026-09-09T23:15:32+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -687,7 +687,7 @@
       "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
       "anchor": "#cf-414-independent-representative-appointment",
       "heading": "CF-4.14 Independent representative appointment",
-      "line": 303,
+      "line": 304,
       "kind": "section"
     },
     "CF-4.2": {
@@ -790,7 +790,7 @@
       "file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
       "anchor": "#cf-54-capacity-failure-routing",
       "heading": "CF-5.4 Capacity-failure routing",
-      "line": 102,
+      "line": 103,
       "kind": "section"
     },
     "CF-6": {
@@ -1381,21 +1381,21 @@
       "file": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
       "anchor": "#ci-211-civic-infrastructure-and-non-instrumental-time",
       "heading": "CI-21.1: Civic infrastructure and non-instrumental time",
-      "line": 62,
+      "line": 59,
       "kind": "section"
     },
     "CI-21.2": {
       "file": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
       "anchor": "#ci-212-voluntary-association-and-anti-coercion-guardrails",
       "heading": "CI-21.2: Voluntary association and anti-coercion guardrails",
-      "line": 81,
+      "line": 78,
       "kind": "section"
     },
     "CI-21.3": {
       "file": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
       "anchor": "#ci-213-referral-and-escalation-interfaces",
       "heading": "CI-21.3: Referral and escalation interfaces",
-      "line": 101,
+      "line": 98,
       "kind": "section"
     },
     "CI-22": {
@@ -1430,35 +1430,35 @@
       "file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
       "anchor": "#ci-251-publication-intake-and-correction-records",
       "heading": "CI-25.1: Publication intake and correction records",
-      "line": 67,
+      "line": 64,
       "kind": "section"
     },
     "CI-25.2": {
       "file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
       "anchor": "#ci-252-evidence-review-and-reviewer-custody",
       "heading": "CI-25.2: Evidence, review, and reviewer custody",
-      "line": 85,
+      "line": 82,
       "kind": "section"
     },
     "CI-25.3": {
       "file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
       "anchor": "#ci-253-challenge-correction-and-access",
       "heading": "CI-25.3: Challenge, correction, and access",
-      "line": 104,
+      "line": 101,
       "kind": "section"
     },
     "CI-25.4": {
       "file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
       "anchor": "#ci-254-incentive-criteria",
       "heading": "CI-25.4: Incentive criteria",
-      "line": 123,
+      "line": 120,
       "kind": "section"
     },
     "CI-25.5": {
       "file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
       "anchor": "#ci-255-ombuds-escalation-and-technical-forum-referral",
       "heading": "CI-25.5: Ombuds, escalation, and technical forum referral",
-      "line": 139,
+      "line": 136,
       "kind": "section"
     },
     "CI-26": {
@@ -5600,6 +5600,17 @@
       ],
       "fossil_anchors": [
         "#vignette-pipeline-overrun-tetrad-hollow"
+      ]
+    },
+    {
+      "file": "core_08-11_application_vignettes.md",
+      "title": "6. Non-compliant deployment with a credible sentience indicator (Tier A)",
+      "current_number": "6",
+      "current_anchors": [
+        "#6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a"
+      ],
+      "fossil_anchors": [
+        "#vignette-noncompliant-deployment-sentience-indicator"
       ]
     },
     {

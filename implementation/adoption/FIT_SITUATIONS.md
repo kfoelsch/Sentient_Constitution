@@ -9,7 +9,7 @@
 >
 > **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
-> Start here only to ask *where this Constitution would actually fit*. Two parties or a first qualifying body: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). More than two: [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md). Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Naming independent review or founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Day-to-day next steps: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md). Fitness screen: [`evaluation/self_application/`](../../evaluation/self_application/).
+> Start here only to ask *where this Constitution would actually fit*. Size *N* and Class *X* body and cost profile: [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md). Two parties or a first qualifying body: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). More than two: [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md). Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Naming independent review or founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Day-to-day next steps: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md). Fitness screen: [`evaluation/self_application/`](../../evaluation/self_application/).
 
 </details>
 
@@ -213,6 +213,7 @@ If any “cannot bind” row in the first-adopter kit’s [scope honesty](FIRST_
 | If this is happening | Open | Still not |
 |---|---|---|
 | Asking where this would actually fit | This page | Adoption, a Charter, or a forum family |
+| Asking which bodies, in what order, at what staff and funding, for size *N* and Class *X* | [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) | A thinner adoption pack; a forty-person lab standing six in-house families |
 | Announcing this corpus so fit parties can find it | [`ANNOUNCEMENT.md`](ANNOUNCEMENT.md) | Adoption; dropping **pre-release**; a finished operator manual |
 | Two sentients, or a first qualifying body | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | A declaration, two declarations stapled, or §10.3 joining |
 | More than two sentients | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | Live §10.3 rules; CS-10 phase names for headcount growth |
@@ -232,6 +233,7 @@ Filling any row is not adoption. Opening this folder is not adoption.
 | Material | Job relative to this page |
 |---|---|
 | [`README.md`](README.md) | This folder’s door — process path toward an instrument, not the instrument |
+| [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) | Size *N* × Class *X*: required vs optional bodies, order, order-of-magnitude staff and funding. Not a partial-adoption ladder |
 | [`../../START_HERE.md`](../../START_HERE.md) | Public human front door |
 | [`ANNOUNCEMENT.md`](ANNOUNCEMENT.md) | Discovery / announcement copy. Not a founding kit. Does not drop **pre-release** |
 | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Two-party sitting, §10.2 fill-in, scope honesty, dispute bootstrap, non-adoption banner |
@@ -253,3 +255,4 @@ Filling any row is not adoption. Opening this folder is not adoption.
 | 2026-09-08 | v0.1 | Initial process-support fit map: fit tests, two modes, ranked sketches (AI institution building first), non-fits, kit routing. Not adoption. Not a founding kit. Does not drop **pre-release**. |
 | 2026-09-08 | v0.2 | Pointers to public door (`START_HERE.md`) and announcement kit (`ANNOUNCEMENT.md`). |
 | 2026-09-09 | v0.3 | Honest non-fits names claiming this Constitution supersedes applicable law, or that operations-guide use displaces a regulator. Canonical home: [Chapter Fourteen §5](../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law). |
+| 2026-09-09 | v0.4 | Pointer to [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) (*N* × Class *X* body and cost profile). |

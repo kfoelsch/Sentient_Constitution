@@ -242,6 +242,7 @@ CS-10 phase names apply only inside that post-instrument migration. Do not renam
 | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Two-party sitting, §10.2 fill-in, scope honesty, dispute bootstrap, non-adoption banner. First-instrument door. |
 | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Ordinary or constitutional-function institution foundation after this path. Labeled-not-live Chapter Five Charter fill-in. Not CS-10. Not a forum family. |
 | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation after this path. Labeled-not-live CF-3.2 map fill-in. Not CS-10. Not a ceremony forum. |
+| [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) | Size *N* × Class *X* body and cost profile. Not a thinner adoption pack. |
 | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Fitness screen + declaration design (substeps 1.1–1.2) |
 | [`evaluation/self_application/`](../../evaluation/self_application/) | Invite for each party’s sitting (same sitting; more files) |
 | [`evaluation/two_party/`](../../evaluation/two_party/) | Two-party invite and Option A compare. *n* > 2 does not need a new folder. |
@@ -265,3 +266,4 @@ CS-10 phase names apply only inside that post-instrument migration. Do not renam
 | 2026-08-31 | v0.4 | Moved under `implementation/adoption/`. Relative links retargeted. Folder door is [`README.md`](README.md). |
 | 2026-08-31 | v0.5 | Pointer to [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Article XXVI-B progress is not a filled Charter template. |
 | 2026-08-31 | v0.6 | Pointer to [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Article XXVI-B progress is not a filled CF-3.2 template. |
+| 2026-09-09 | v0.7 | Pointer to [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md). |

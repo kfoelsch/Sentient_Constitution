@@ -448,6 +448,7 @@ If the file is also not a Chapter Fifteen instrument, attach the first-adopter k
 | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Two-party sitting, §10.2 fill-in, scope honesty, dispute bootstrap, non-adoption banner |
 | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | *n*-party sitting, handoff gates, labeled-not-live §10.3 template |
 | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Ordinary or constitutional-function institution foundation. Not a forum family |
+| [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) | Size *N* × Class *X* body and cost profile. Not a forum family |
 | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Fitness screen + declaration (substeps 1.1–1.2) |
 | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers. “We are the forum now” still routes here |
 | [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md) | Binding formation, map fields, non-collapse, chamber rules. This kit cannot narrow them |
@@ -471,3 +472,4 @@ If the file is also not a Chapter Fifteen instrument, attach the first-adopter k
 | Date | Version | Note |
 |---|---|---|
 | 2026-08-31 | v0.1 | Initial process-support kit: two tracks (independent-review path vs forum-family formation), formation cliffs, labeled-not-live independent-review naming and CF-3.2 map fill-in, non-forum banner. Not CF-3. Not Chapter Eleven. Not CI-3.6. Not CS-10. Not Chapter Fifteen adoption. |
+| 2026-09-09 | v0.2 | Pointer to [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md). |

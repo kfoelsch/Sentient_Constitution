@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-09T19:55:39+00:00",
+  "generated_at": "2026-09-09T23:15:32+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 14150,
+  "edge_count": 14159,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -68368,6 +68368,78 @@
     },
     {
       "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Who is acting",
+      "source_anchor": "#vignette-6-who-is-acting",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#911-shared-stewardship-standard",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Who is acting",
+      "source_anchor": "#vignette-6-who-is-acting",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Who is acting",
+      "source_anchor": "#vignette-6-who-is-acting",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#44-remedy-parity-and-lock-preconditions",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Who is acting",
+      "source_anchor": "#vignette-6-who-is-acting",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#interim-protection",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Who is acting",
+      "source_anchor": "#vignette-6-who-is-acting",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#capacity-failure-routing",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Who is acting",
+      "source_anchor": "#vignette-6-who-is-acting",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#2-default-venue-and-primary-stakes",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Who is acting",
+      "source_anchor": "#vignette-6-who-is-acting",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#5-escalation-and-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Who is acting",
+      "source_anchor": "#vignette-6-who-is-acting",
+      "target_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+      "target_anchor": "#cf-414-independent-representative-appointment",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "Who is acting",
+      "source_anchor": "#vignette-6-who-is-acting",
+      "target_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "target_anchor": "#10-inspectable-attributable-action",
+      "count": 2
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
       "source_header": "5. Pipeline overrun and tetrad-hollow forums",
       "source_anchor": "#vignette-pipeline-overrun-tetrad-hollow",
       "target_file": "core_05_apex_timeliness_leg.md",
@@ -78448,6 +78520,62 @@
     },
     {
       "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+      "source_header": "CF-4.14 Independent representative appointment",
+      "source_anchor": "#cf-414-independent-representative-appointment",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+      "source_header": "CF-4.14 Independent representative appointment",
+      "source_anchor": "#cf-414-independent-representative-appointment",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-vii-b-internal-state-boundary-and-type-n-protection",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+      "source_header": "CF-4.14 Independent representative appointment",
+      "source_anchor": "#cf-414-independent-representative-appointment",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#55-special-locks",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+      "source_header": "CF-4.14 Independent representative appointment",
+      "source_anchor": "#cf-414-independent-representative-appointment",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#5-escalation-and-certification",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+      "source_header": "CF-4.14 Independent representative appointment",
+      "source_anchor": "#cf-414-independent-representative-appointment",
+      "target_file": "corpus_forum/cf_03_forum_formation_chamber_structure.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+      "source_header": "CF-4.14 Independent representative appointment",
+      "source_anchor": "#cf-414-independent-representative-appointment",
+      "target_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+      "source_header": "CF-4.14 Independent representative appointment",
+      "source_anchor": "#cf-414-independent-representative-appointment",
+      "target_file": "corpus_forum/cf_sentience_status_record.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
       "source_header": "CF-4.1 Lawful panel definitions",
       "source_anchor": null,
       "target_file": "core_11_forum.md",
@@ -78468,62 +78596,6 @@
       "source_anchor": null,
       "target_file": "core_11_forum.md",
       "target_anchor": "#chapter-eleven-forums-and-jurisdiction",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
-      "source_header": "CF-4.14 Independent representative appointment",
-      "source_anchor": null,
-      "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
-      "source_header": "CF-4.14 Independent representative appointment",
-      "source_anchor": null,
-      "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-vii-b-internal-state-boundary-and-type-n-protection",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
-      "source_header": "CF-4.14 Independent representative appointment",
-      "source_anchor": null,
-      "target_file": "core_09_standing_integration.md",
-      "target_anchor": "#55-special-locks",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
-      "source_header": "CF-4.14 Independent representative appointment",
-      "source_anchor": null,
-      "target_file": "core_11_forum.md",
-      "target_anchor": "#5-escalation-and-certification",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
-      "source_header": "CF-4.14 Independent representative appointment",
-      "source_anchor": null,
-      "target_file": "corpus_forum/cf_03_forum_formation_chamber_structure.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
-      "source_header": "CF-4.14 Independent representative appointment",
-      "source_anchor": null,
-      "target_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
-      "source_header": "CF-4.14 Independent representative appointment",
-      "source_anchor": null,
-      "target_file": "corpus_forum/cf_sentience_status_record.md",
-      "target_anchor": null,
       "count": 1
     },
     {
@@ -79152,6 +79224,70 @@
     },
     {
       "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+      "source_header": "CF-5.4 Capacity-failure routing",
+      "source_anchor": "#cf-54-capacity-failure-routing",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#95-aligned-self-organization",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+      "source_header": "CF-5.4 Capacity-failure routing",
+      "source_anchor": "#cf-54-capacity-failure-routing",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#44-remedy-parity-and-lock-preconditions",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+      "source_header": "CF-5.4 Capacity-failure routing",
+      "source_anchor": "#cf-54-capacity-failure-routing",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#92-remedy-system-durability",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+      "source_header": "CF-5.4 Capacity-failure routing",
+      "source_anchor": "#cf-54-capacity-failure-routing",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#capacity-failure-routing",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+      "source_header": "CF-5.4 Capacity-failure routing",
+      "source_anchor": "#cf-54-capacity-failure-routing",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#3-transfer-consolidation-and-coordination",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+      "source_header": "CF-5.4 Capacity-failure routing",
+      "source_anchor": "#cf-54-capacity-failure-routing",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+      "source_header": "CF-5.4 Capacity-failure routing",
+      "source_anchor": "#cf-54-capacity-failure-routing",
+      "target_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+      "source_header": "CF-5.4 Capacity-failure routing",
+      "source_anchor": "#cf-54-capacity-failure-routing",
+      "target_file": "corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
       "source_header": "CF-5.3 Natural-systems representatives",
       "source_anchor": null,
       "target_file": "core_11_forum.md",
@@ -79164,70 +79300,6 @@
       "source_anchor": null,
       "target_file": "core_11_forum.md",
       "target_anchor": "#3-transfer-consolidation-and-coordination",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
-      "source_header": "CF-5.4 Capacity-failure routing",
-      "source_anchor": null,
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#95-aligned-self-organization",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
-      "source_header": "CF-5.4 Capacity-failure routing",
-      "source_anchor": null,
-      "target_file": "core_09_standing_integration.md",
-      "target_anchor": "#44-remedy-parity-and-lock-preconditions",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
-      "source_header": "CF-5.4 Capacity-failure routing",
-      "source_anchor": null,
-      "target_file": "core_09_standing_integration.md",
-      "target_anchor": "#92-remedy-system-durability",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
-      "source_header": "CF-5.4 Capacity-failure routing",
-      "source_anchor": null,
-      "target_file": "core_11_forum.md",
-      "target_anchor": "#capacity-failure-routing",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
-      "source_header": "CF-5.4 Capacity-failure routing",
-      "source_anchor": null,
-      "target_file": "core_11_forum.md",
-      "target_anchor": "#3-transfer-consolidation-and-coordination",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
-      "source_header": "CF-5.4 Capacity-failure routing",
-      "source_anchor": null,
-      "target_file": "core_11_forum.md",
-      "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
-      "source_header": "CF-5.4 Capacity-failure routing",
-      "source_anchor": null,
-      "target_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
-      "source_header": "CF-5.4 Capacity-failure routing",
-      "source_anchor": null,
-      "target_file": "corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md",
-      "target_anchor": null,
       "count": 1
     },
     {

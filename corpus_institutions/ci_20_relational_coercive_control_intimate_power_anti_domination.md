@@ -36,7 +36,7 @@
 
 This file is the institutional implementation home for **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*).
 
-*In plain terms: **CI-20** is the institutions layer's rulebook for when power in close relationships — intimate, household, care, workplace, community, or platform — is used to trap, isolate, threaten, or block exit and remedy. Coercion is not only a single dramatic incident; it is often a pattern built from economic dependence, credential control, reputation threats, housing leverage, care access, visibility cuts, and fear of retaliation. Institutions must name who receives those reports, which doors sentients can actually use, and who reviews the asymmetry that makes leaving feel impossible. This is anti-domination routing, not a license to police lawful private life: **Chapter Six** association, conscience, and cooperative-interaction protections stay intact. Shared dependency-based coercion and reputation-lock floors live in **CJS-3.17** (*interoperability, portability, and exit-integrity terms*). The constitutional meaning sits in **Chapter Five** *Coercion and Manipulation* and *Meaningful Agency*, **Article IX-A** (*Freedom from Manipulation*), and **Article X-A** (*Non-Imposition and Consent in Association*). What this file adds is local: what each institution must name, file, and maintain locally.*
+*In plain terms: **CI-20** is the local owner map for when power in close relationships is used to trap, isolate, threaten, or block exit and remedy. Shared floors live in **CJS-3.17**; this file names who receives reports, which doors actually work, and who reviews the asymmetry that makes leaving feel impossible.*
 
 **Quick orientation**
 - **The basic idea** — when dependency chokepoints can defeat exit, reporting, or remedy, institutions must treat coercive-control patterns as routing facts even when no single contract label or criminal category captures the whole pattern.
@@ -46,23 +46,14 @@ This file is the institutional implementation home for **CI-20** (*Relational co
 - **What stays protected** — lawful private association, conscience, household privacy, and community context are not dissolved; they cannot be used as blanket excuses to make coercion illegible.
 - **Hard limits** — formal labels such as marriage, employment, tenancy, membership, or platform account status must not hide dependency sabotage, isolation, reproductive pressure, or reputation threats.
 - **Read with** — **CI-6** for local procedure maps; **CI-8** for participation and pathway accessibility; **CI-5** for integrity and conflict-disclosure interfaces.
-*In plain terms: if the only way to report abuse is a form that requires staying in the relationship, the hotline routes back to the abuser's employer, or a bad review can destroy your housing and work at once, the pathway has failed — even when every isolated incident looked "private" on paper.*
 
 *Shared rules live elsewhere.*
-- [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*interoperability, portability, and exit-integrity terms*) — **Dependency-based coercion and reputation-lock pathway integrity**: economic dependence, credential custody, reputation systems, visibility controls, retaliation risk, and practical alternatives evaluated together.
-- **Chapter Five** [*Coercion and Manipulation*](../core_05_band_participation.md#coercion-and-manipulation-constitutional) and [*Meaningful Agency*](../core_05_band_participation.md#meaningful-agency) — definitional home for coercive leverage and dependency-pressure analysis.
-- **Article IX-A** (*Freedom from Manipulation*) in **Chapter Six** — freedom-from-manipulation floor for dependency-rich systems and coercive choice architecture.
-- **Article X-A** (*Non-Imposition and Consent in Association*) in **Chapter Six** — consent and non-imposition norms in cooperative and associational settings; exit from coercive group settings remains protected.
-- **Article V-D** (*Freedom of Conscience, Religion, and Comparable Worldview*) and **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) in **Chapter Six** — conscience, family, and care-relationship protections that this file does not dissolve.
-- **CI-6** — procedure integrity, contestability, and secondary review for local routing maps.
-- **CI-8** — transparency, participation, and accessible pathway interfaces.
-- **CI-5** — integrity routing and conflict-disclosure interfaces where institutional actors are implicated.
-- **CI-16** and **CI-21** — care-economy coercion intake and community or associational coercion referral interfaces where materially connected.
-- **CI-20 scope** — does not repeat those floors; states local intake, routing, and asymmetry-review owner duties.
+- [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*interoperability, portability, and exit-integrity terms*) — **Dependency-based coercion and reputation-lock pathway integrity**.
+- Chapter Five [*Coercion and Manipulation*](../core_05_band_participation.md#coercion-and-manipulation-constitutional); [*Meaningful Agency*](../core_05_band_participation.md#meaningful-agency).
+- **Article IX-A** (*Freedom from Manipulation*); **Article X-A** (*Non-Imposition and Consent in Association*); **Article V-D** (*Freedom of Conscience, Religion, and Comparable Worldview*); **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*).
+- **CI-6** (*Procedure integrity, contestability, and secondary review*); **CI-8** (*Transparency, participation, and accessible pathways*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-16** (*Care labor, dependent support, respite, and care-economy fairness*); **CI-21** (*Community life, voluntary association, and non-instrumental time*). This file does not repeat those floors.
 
-**Apply**
-- Apply **CJS-3.17** **Dependency-based coercion and reputation-lock pathway integrity** for the shared floor.
-- **CI-20** states only local intake, routing, and asymmetry-review owner duties for intimate, household, care, workplace, community, and platform contexts — without dissolving private association or conscience protections that **Chapter Six** guarantees.
+**Apply.** Apply **CJS-3.17** **Dependency-based coercion and reputation-lock pathway integrity**. **CI-20** states only the local owner duties below.
 
 **Local anti-domination routing role map**
 Each institution in scope must name the office or body responsible for:

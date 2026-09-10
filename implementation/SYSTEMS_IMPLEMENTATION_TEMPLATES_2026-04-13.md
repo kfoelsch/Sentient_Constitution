@@ -6,7 +6,7 @@ Primary anchors: `corpus_systems.md` CS-5, CS-2, CS-2; `corpus_institutions.md` 
 
 This file provides reusable implementation templates for systems governance artifacts that the constitutional corpus already requires in substance but does not fully normalize into named packets.
 
-This file does not redefine constitutional terms or lower rights floors. It is a packaging aid for consistent implementation, assurance review, and best-practices benchmarking.
+This file does not redefine constitutional terms or lower Rights Floors. It is a packaging aid for consistent implementation, assurance review, and best-practices benchmarking.
 
 ---
 

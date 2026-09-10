@@ -36,7 +36,7 @@
 
 This file is the institutional implementation home for **CI-16** (*Care labor, dependent support, respite, and care-economy fairness*).
 
-*In plain terms: **CI-16** is the institutions layer's rulebook for care work — the paid and unpaid labor that keeps dependents, elders, disabled sentients, families, and communities functioning. Respite must be a real pathway, not a brochure. Care cannot be treated as invisible background capacity that institutions free-ride on. Coercion in care relationships must have an intake door and escalation route. Reproductive and embodiment-related labor must show up in budgets, metrics, service routes, and labor pathways — not disappear into "family responsibility." Shared care, respite, and support-dependency adequacy floors live in **CJS-3.16** (*dependency integrity and disclosure terms*). The constitutional meaning sits in **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*), **Article III-D** (*Labor and Economic Floor*), **Article III-C** (*Bodily-Maintenance and Healthcare Access*), and **Chapter Five** *Family and Care Relationships*. What this file adds is local: what each institution must name, file, and maintain locally.*
+*In plain terms: **CI-16** is the local owner map for care work — paid and unpaid labor that keeps dependents, elders, disabled sentients, families, and communities functioning. Shared floors live in **CJS-3.16**; this file names who routes respite, who measures unpaid care, and who takes coercion reports.*
 
 **Quick orientation**
 - **The basic idea** — care labor is operational capacity; institutions that depend on it must name who routes respite, measures unpaid care, handles coercion reports, and funds reproductive-labor pathways.
@@ -46,24 +46,14 @@ This file is the institutional implementation home for **CI-16** (*Care labor, d
 - **Reproductive-labor fairness** — metrics, budgets, service pathways, and labor routes must treat reproductive and maintenance labor as governable, not as a private default obligation.
 - **Hard limits** — survival floors cannot be conditioned on care labor (**CI-9.4** (*Survival floors, voluntary exchange, and markets*)); billing and charges cannot quietly block care access (**CI-10** (*Public revenue, fees, recurring charges, and billing integrity*)); funding allocation must stay auditable (**CS-9**).
 - **Read with** — **CI-9.4**, **CI-10**, **CI-8.4**, **CI-20**, and **CI-19** where applicable.
-*In plain terms: if respite exists only on paper, unpaid care never appears in any report, and a carer has nowhere to report exploitation without losing housing or benefits, the care economy has already failed — no matter how often institutions praise "family values."*
 
 *Shared rules live elsewhere.*
-- [**CJS-3.16**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*dependency integrity and disclosure terms*) — **Care, respite, and support-dependency adequacy**: substitution pathways, crisis coverage, accessibility constraints, and relief without abandonment, retaliation, or unreasonable eligibility burden.
-- **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) in **Chapter Six** — family and care relationships, reproductive autonomy, and non-separation floors.
-- **Article III-D** (*Labor and Economic Floor*) in **Chapter Six** — fair compensation, collective organization, safe conditions, and leisure and rest for productive activity, including care work where material.
-- **Article III-C** (*Bodily-Maintenance and Healthcare Access*) in **Chapter Six** — bodily-maintenance and healthcare access for dependents without proxy denial.
-- **Chapter Five** [*Family and Care Relationships*](../core_05_band_participation.md#family-and-care-relationships-constitutional) — definitional home for care-relationship duties alongside **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*).
-- **CI-9.4** — survival floors, voluntary exchange, and markets (**Article III-A** (*Survival*) interface): essential access cannot depend on unpaid care labor or premium purchasing.
-- **CI-10** — public revenue, fees, recurring charges, and billing integrity: charge design must not defeat care or respite access in practice.
-- **CS-9** (*Resource Allocation and Funding Stewardship*) in `corpus_systems.md` — funding stewardship, dependent-systems mapping, and auditable allocation for care-adjacent resource flows.
-- **CI-20** — relational coercive control, intimate power, and anti-domination routing: shared coercion floors and escalation interfaces for care, household, and platform contexts.
-- **CI-19** — vulnerable personal services markets where care-adjacent personal services are materially in scope.
-- **CI-16 scope** — does not repeat those floors; states local respite, metrics, coercion-intake, and reproductive-labor routing owner duties.
+- [**CJS-3.16**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*dependency integrity and disclosure terms*) — **Care, respite, and support-dependency adequacy**.
+- **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*); **Article III-D** (*Labor and Economic Floor*); **Article III-C** (*Bodily-Maintenance and Healthcare Access*).
+- Chapter Five [*Family and Care Relationships*](../core_05_band_participation.md#family-and-care-relationships-constitutional).
+- **CI-9.4** (*Survival floors, voluntary exchange, and markets*); **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*): charge design must not defeat care or respite access in practice; **CS-9** (*Resource allocation and funding stewardship*); **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*); **CI-19** (*Vulnerable personal services markets*). This file does not repeat those floors.
 
-**Apply**
-- Apply **CJS-3.16** **Care, respite, and support-dependency adequacy** for the shared floor.
-- **CI-16** states only local respite, metrics, coercion-intake, and reproductive-labor routing owners.
+**Apply.** Apply **CJS-3.16** **Care, respite, and support-dependency adequacy**. **CI-16** states only the local owner duties below.
 
 **Local care-economy and support-dependency role map**
 Each institution in scope must name the office or body responsible for:

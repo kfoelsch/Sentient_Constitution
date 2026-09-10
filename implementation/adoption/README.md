@@ -15,6 +15,7 @@ The folder is named `adoption` so operators can find it. Opening a file here is 
 | Found this corpus; need a public door | [`../../START_HERE.md`](../../START_HERE.md) |
 | Announcing this corpus so fit parties can find it | [`ANNOUNCEMENT.md`](ANNOUNCEMENT.md) |
 | Asking where this would actually fit | [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md) |
+| Asking which bodies, in what order, at what staff and funding, for size *N* and Class *X* | [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) |
 | Two sentients, or a first qualifying body | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) |
 | More than two sentients (*n*-party sitting, handoff gates, labeled-not-live §10.3 template) | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) |
 | Founding an institution (ordinary cooperative / research body, or constitutional-function machinery after an instrument) | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) |

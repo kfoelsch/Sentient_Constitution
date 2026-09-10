@@ -342,6 +342,7 @@ If the file is also not a Chapter Fifteen instrument, attach the first-adopter k
 | [Chapter Fifteen §11](../../core_15_amendment_ratification.md#11-amendment-procedure-requirements) | Track B amendment-administration owner. Same kit |
 | [`PROCESS_PIPELINES_READER.md`](../PROCESS_PIPELINES_READER.md) | Certification → standing → forums → remedy chain. Not a founding kit |
 | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation — leave this kit |
+| [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) | Size *N* × Class *X* body and cost profile. Not a founding kit |
 | [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md) | Binding forum-structure fields. The forum kit cannot narrow them |
 | [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) | System migration **after** a recorded instrument |
 | [Chapter Five Charter](../../core_05_band_continuity.md#charter) | Meaning of the scope instrument |
@@ -361,3 +362,4 @@ If the file is also not a Chapter Fifteen instrument, attach the first-adopter k
 | 2026-08-31 | v0.3 | §0 rewritten for average humans: plain-terms lead, everyday grouping, cites as backup. |
 | 2026-08-31 | v0.4 | Pointer to [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Forum-family formation leaves this kit. |
 | 2026-08-31 | v0.5 | Track B function-pointer table (§1.1): same kit, named owners. No standing / amendment / oversight / certification kits. |
+| 2026-09-09 | v0.6 | Pointer to [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md). |
