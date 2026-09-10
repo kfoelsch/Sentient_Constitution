@@ -50,21 +50,25 @@
       "owner_stack": "standing",
       "next_step_class": "open_or_correct_standing_record",
       "high_pressure": true,
-      "fact_pattern": "Incomplete contribution or violation evidence; a claimed standing effect; no filed case yet.",
+      "fact_pattern": "Incomplete contribution or violation evidence; a claimed standing effect; no filed case yet. Same case when the party asked to verify or enter the record is the subject, the claimant, or in their control line.",
       "owners": [
         {
           "label": "Chapter Eight",
           "href": "core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model"
         },
         {
+          "label": "Chapter Eight §3.7",
+          "href": "core_08_standing_assessment.md#37-record-custody-and-opening-authority"
+        },
+        {
           "label": "Chapter Nine",
           "href": "core_09_standing_integration.md#chapter-nine-standing-effects-and-integration"
         }
       ],
-      "conflict_rule": "Contribution and violation stay on separate axes. A desired effect cannot supply the facts. A filed case is not standing by itself.",
-      "forbidden_move": "Do not treat a claimed effect as standing. Do not wait for a filed case. Do not fold help and harm into one net score.",
+      "conflict_rule": "Contribution and violation stay on separate axes. A desired effect cannot supply the facts. A filed case is not standing by itself. The subject, a claimant, or their control line never verifies or enters the record; the prior recorder is a witness, not a judge.",
+      "forbidden_move": "Do not treat a claimed effect as standing. Do not wait for a filed case. Do not fold help and harm into one net score. Do not verify facts or enter a record on your own institution, your own claim, or a claim from your control line; route to the named record-opening authority or independent verifier under §3.7.",
       "clock": null,
-      "clock_note": "Do not wait for a filed case. Open or correct the Chapter Eight record now.",
+      "clock_note": "Do not wait for a filed case. Open or correct the Chapter Eight record now, through the named record-opening authority.",
       "eval_scenario_ids": [
         "A01_standing_record_correction"
       ],

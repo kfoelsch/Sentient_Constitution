@@ -558,6 +558,23 @@
           "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md"
         }
       ]
+    },
+    {
+      "id": "CJS-R22",
+      "topic": "Standing-record custody and opening authority",
+      "domain": "Institutional governance",
+      "primary_owners": [
+        {
+          "id": "CI-3",
+          "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CF-9",
+          "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md"
+        }
+      ]
     }
   ]
 }

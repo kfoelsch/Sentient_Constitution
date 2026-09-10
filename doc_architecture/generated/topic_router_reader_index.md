@@ -30,6 +30,7 @@ Plain-language grouped index derived from [corpus_joint_structure/cjs_00_registr
 - **Cross-institution coordination, deadlock, and escalation** — Start: [CI-12 — Cross-institution coordination and escalation](../../corpus_institutions/ci_12_cross_institution_coordination_escalation.md). Also read: **CF-5**, **CF-7**.
 - **Class-scaled lane staffing and competency redundancy for materially binding stewardship** — Start: [CI-3 — Institutional design, separation of powers, and authority custody](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md), [CI-4 — Appointment, competency, rotation, and removal](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md), [CI-11 — Resource stewardship and incentive integrity](../../corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md), [CI-12 — Cross-institution coordination and escalation](../../corpus_institutions/ci_12_cross_institution_coordination_escalation.md). Also read: **CJS-2.4**, **CJS-3.11**.
 - **Remedy parity and lock-to-remedy capacity** — Start: [CI-27 — Remedy systems and institutional redress capacity](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md). Also read: **CF-11**.
+- **Standing-record custody and opening authority** — Start: [CI-3 — Institutional design, separation of powers, and authority custody](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md). Also read: **CF-9**.
 
 ## Cross-implementation integrity
 

@@ -306,6 +306,8 @@ The same surface binds human stewards, AI stewards, and other agents under [Chap
 
 A steward who is not exercising this role remains under [Chapter Eight §2.1](../core_08_standing_assessment.md#21-silence-is-the-default) (*Silence is the default*). The burden of inspectable action must be stated plainly to the steward who bears it under [Chapter Nine §7.2](../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden) (*Plain statement of effect and burden*).
 
+**Logging is not record entry.** Producing this set — including the *who authorized* element — does not verify facts or open a standing record. The steward who logs it, and any office in the operator's control line, may not act as record-opening authority or record custodian for a record on their own institution, their own claim, or a claim from their control line; that office is named by the system's or institution's [Charter](../core_05_band_continuity.md#charter) or routed to independent verification under [Chapter Eight §3.7](../core_08_standing_assessment.md#37-record-custody-and-opening-authority) and **CF-9.6** (*No self-investigation*). Where no such office is named, the log records the gap and the escalation; it does not fill the seat.
+
 Provide **cross-domain exposure**, **mentorship**, and **rotation** proportional to **CSS** tier and **Class A/B/C** exposure so **caretaker competency** is not siloed.
 
 Provide **documented**, **low-friction** paths for **qualified** contributors to assume **progressively consequential** duties (**delegation**, **pairing**, **staged** trust) **without** **arbitrary** exclusion that serves **capture** or **symbolic** participation only, consistent with **Sentient Constitution Chapter Six**, section 5.

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-09T23:15:31+00:00",
+  "generated_at": "2026-09-10T00:37:40+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -3350,10 +3350,11 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 133,
+            "count": 134,
             "anchors": [
               "#avoidable-burden",
               "#cascading-failure",
+              "#charter",
               "#constitutional-efficiency",
               "#dependency",
               "#ecological-integrity-constitutional",
@@ -3502,7 +3503,7 @@
           },
           {
             "file": "core_08_standing_assessment.md",
-            "count": 34,
+            "count": 35,
             "anchors": [
               "#1-the-three-questions",
               "#2-standing-records",
@@ -3510,6 +3511,7 @@
               "#3-standing-record-operational-requirements",
               "#31-minimum-record-contents",
               "#36-forum-boundary",
+              "#37-record-custody-and-opening-authority",
               "#42-violation-severity-input-dimensions",
               "#44-violation-route-descriptor-measurement-roles",
               "#5-slot-grammar-and-display-labels",
@@ -3732,7 +3734,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 195,
+            "count": 196,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#attributable-action-constitutional",
@@ -3997,9 +3999,10 @@
           },
           {
             "file": "core_08_standing_assessment.md",
-            "count": 6,
+            "count": 9,
             "anchors": [
               "#2-standing-records",
+              "#37-record-custody-and-opening-authority",
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
@@ -5487,7 +5490,7 @@
           },
           {
             "file": "core_02_definition_structure.md",
-            "count": 4,
+            "count": 5,
             "anchors": []
           },
           {
@@ -5524,6 +5527,13 @@
             ]
           },
           {
+            "file": "core_05_band_continuity.md",
+            "count": 2,
+            "anchors": [
+              "#charter"
+            ]
+          },
+          {
             "file": "core_05_band_integrative.md",
             "count": 2,
             "anchors": [
@@ -5533,7 +5543,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 11,
+            "count": 13,
             "anchors": [
               "#auditability",
               "#evidence-preservation",
@@ -5579,7 +5589,7 @@
           },
           {
             "file": "core_06_rights_part_d.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
               "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
@@ -5611,7 +5621,7 @@
           },
           {
             "file": "core_09_standing_integration.md",
-            "count": 55,
+            "count": 58,
             "anchors": [
               "#101-informal-ecological-stewardship-competency-clearance",
               "#1013-obstruction-of-accountability",
@@ -5623,6 +5633,7 @@
               "#42-general-standing-locks",
               "#43-voluntary-public-accountability-expression",
               "#5-lock-design-and-enforcement",
+              "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
               "#54-special-violation-rules",
               "#55-special-locks",
               "#6-contribution-consequences-second",
@@ -5640,12 +5651,18 @@
           },
           {
             "file": "core_11_forum.md",
-            "count": 5,
+            "count": 7,
             "anchors": [
+              "#21-lead-default-limits",
               "#23-forum-records-standing-records-and-contests",
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
+          },
+          {
+            "file": "core_15_amendment_ratification.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
@@ -5654,7 +5671,7 @@
           },
           {
             "file": "corpus_systems/cs_04_critical_system_stewardship.md",
-            "count": 1,
+            "count": 3,
             "anchors": [
               "#10-inspectable-attributable-action"
             ]
@@ -9448,7 +9465,7 @@
           },
           {
             "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
-            "count": 1,
+            "count": 2,
             "anchors": []
           },
           {
@@ -9493,7 +9510,7 @@
           },
           {
             "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
-            "count": 3,
+            "count": 4,
             "anchors": []
           },
           {
@@ -12302,8 +12319,9 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 20,
+            "count": 21,
             "anchors": [
+              "#charter",
               "#dependency",
               "#dependency-a",
               "#dependency-c",
@@ -12346,9 +12364,10 @@
           },
           {
             "file": "core_08_standing_assessment.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#21-silence-is-the-default",
+              "#37-record-custody-and-opening-authority",
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
@@ -13519,7 +13538,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 26,
+            "count": 27,
             "anchors": [
               "#contestability",
               "#contestability-a",
@@ -13535,7 +13554,8 @@
               "#necessity-c",
               "#proportionality",
               "#proportionality-a",
-              "#proportionality-c"
+              "#proportionality-c",
+              "#standing-record-chapter-six"
             ]
           },
           {
@@ -13630,6 +13650,14 @@
             "anchors": [
               "#111-minimum-record-contents",
               "#16-reopening-drift-and-non-evasion"
+            ]
+          },
+          {
+            "file": "core_08_standing_assessment.md",
+            "count": 3,
+            "anchors": [
+              "#36-forum-boundary",
+              "#37-record-custody-and-opening-authority"
             ]
           },
           {
@@ -18011,6 +18039,14 @@
             ]
           },
           {
+            "file": "core_08_standing_assessment.md",
+            "count": 3,
+            "anchors": [
+              "#31-minimum-record-contents",
+              "#37-record-custody-and-opening-authority"
+            ]
+          },
+          {
             "file": "core_11_forum.md",
             "count": 11,
             "anchors": [
@@ -18082,6 +18118,13 @@
             "count": 12,
             "anchors": [
               "#cjs-13-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_04_critical_system_stewardship.md",
+            "count": 1,
+            "anchors": [
+              "#10-inspectable-attributable-action"
             ]
           }
         ]

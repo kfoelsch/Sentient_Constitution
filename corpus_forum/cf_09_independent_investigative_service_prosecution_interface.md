@@ -17,6 +17,7 @@
 - Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven §7](../core_11_forum.md#7-forum-support-before-during-and-after-review) (*forum support before, during, and after review — inspection and investigative interfaces*); [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-9.1 Basic rule](#cf-91-basic-rule); [CF-9.2 Why independence matters](#cf-92-why-independence-matters); [CF-9.3 Where the investigative service belongs](#cf-93-where-the-investigative-service-belongs); [CF-9.4 What investigators may do](#cf-94-what-investigators-may-do); [CF-9.5 Required separations](#cf-95-required-separations); [CF-9.6 No self-investigation](#cf-96-no-self-investigation); [CF-9.7 Rights, secrecy, and protected activity](#cf-97-rights-secrecy-and-protected-activity); [CF-9.8 Records, referrals, and backup routes](#cf-98-records-referrals-and-backup-routes).
 - Read with: **CF-9**; **CF-9.1**; **CF-9.2**; **CF-9.3**; **CF-9.4**; **CF-9.5**; **CF-9.6**; **CF-9.7**; **CF-9.8**.
+- Topic routing (mandatory read-with): **CJS-R22** (*Standing-record custody and opening authority*) in **CJS-0.1** (*Topic router*); primary owner **CI-3**.
 - Topic routing (primary owner): **CJS-R08** (*Independent investigative service and prosecution interface*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-8**.
 
 </details>
@@ -213,6 +214,8 @@ No body may keep sole control over an investigation into its own misconduct, cap
 
 If the allegations materially involve **local enforcement**, **constitutional enforcement**, **charging authorities**, **alignment enforcement authorities**, **forums**, detention personnel, executive leadership, or the investigative service itself, a published backup mechanism must activate. That mechanism must provide transfer, co-assignment, or external participation sufficient to make the investigation functionally independent.
 
+**Standing records when the operator is the subject.** The same rule reaches the [Chapter Eight §3.7](../core_08_standing_assessment.md#37-record-custody-and-opening-authority) record-opening step. Where the ordinary record-opening authority for a standing record is the record's subject, a party claiming the contribution or alleging the violation, or an office in their control line, the investigative service is a default independent verifier of the factual basis: it produces the verified finding that a Chapter Eight standing record may rest on under [§3.1](../core_08_standing_assessment.md#31-minimum-record-contents) and hands it to the record-opening authority or supervising forum the Charter or designation names (**CF-9.8** (*Records, referrals, and backup routes*)). It does not measure the finding under Chapter Eight §4, apply Chapter Nine effects, or become the record custodian. A steward inside the operator who halted, logged, preserved, and escalated under [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) is a witness to that verification, not its author.
+
 ## CF-9.7 Rights, secrecy, and protected activity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -252,6 +255,7 @@ The investigative service must produce records that an ordinary affected sentien
 
 Those records must support:
 - prosecutorial or civil-enforcement decisions without making the investigators the final charging or merits authority;
+- a verified-finding handoff sufficient for a Chapter Eight standing record where the investigative service acted as independent verifier under **CF-9.6** (*No self-investigation*) — stating the subject, bounded event or pattern, time window, verified and disputed facts, verification materials, and the record-opening authority or supervising forum it is handed to under [Chapter Eight §3.7](../core_08_standing_assessment.md#37-record-custody-and-opening-authority) — without the investigators measuring the finding or entering the record themselves;
 - forum review without turning the forums into the investigators' command hierarchy;
 - contest-integrity monitoring under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Contest-integrity monitoring (Class A and Class B)*) without collapsing structural oversight into case management.
 

@@ -398,6 +398,14 @@
       "primary_attach": [
         "CF-5"
       ]
+    },
+    {
+      "id": "CJS-R22",
+      "topic": "Standing-record custody and opening authority",
+      "primary_owner": "[**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_power",
+      "primary_attach": [
+        "CI-3"
+      ]
     }
   ],
   "ci_primary_router": [
@@ -450,6 +458,14 @@
       "primary_owner": "[**CI-27**](../corpus_institutions/ci_27_remedy_systems_institutional_redress_ca",
       "primary_attach": [
         "CI-27"
+      ]
+    },
+    {
+      "id": "CJS-R22",
+      "topic": "Standing-record custody and opening authority",
+      "primary_owner": "[**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_power",
+      "primary_attach": [
+        "CI-3"
       ]
     }
   ]

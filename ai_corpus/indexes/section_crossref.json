@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-09T23:15:32+00:00",
+  "generated_at": "2026-09-10T00:37:41+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 14159,
+  "edge_count": 14182,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -26146,6 +26146,14 @@
       "source_file": "core_05_band_accountability.md",
       "source_header": "Standing Record",
       "source_anchor": "#standing-record-chapter-six",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#charter",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Standing Record",
+      "source_anchor": "#standing-record-chapter-six",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
       "count": 1
@@ -26196,6 +26204,14 @@
       "source_anchor": "#standing-record-chapter-six",
       "target_file": "core_08_standing_assessment.md",
       "target_anchor": "#verified-inputs-for-standing",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Standing Record",
+      "source_anchor": "#standing-record-chapter-six",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-record-custody-and-opening-authority",
       "count": 1
     },
     {
@@ -28202,6 +28218,14 @@
       "source_file": "core_05_band_continuity.md",
       "source_header": "Charter",
       "source_anchor": "#charter",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#standing-record-chapter-six",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Charter",
+      "source_anchor": "#charter",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-boundaries",
       "count": 3
@@ -28293,6 +28317,14 @@
       "target_file": "core_07_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#chapter-seven-system-alignment-certification",
       "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Charter",
+      "source_anchor": "#charter",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-record-custody-and-opening-authority",
+      "count": 3
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -69064,6 +69096,86 @@
     },
     {
       "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_02_definition_structure.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#charter",
+      "count": 2
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#evidence-preservation",
+      "count": 2
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
+      "count": 2
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#chapter-nine-standing-effects-and-integration",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#21-lead-default-limits",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_15_amendment_ratification.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "target_anchor": "#10-inspectable-attributable-action",
+      "count": 2
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
       "source_header": "4. Question 2 — how good or bad was it?",
       "source_anchor": "#4-question-2-how-good-or-bad-was-it",
       "target_file": "core_05_band_accountability.md",
@@ -81930,6 +82042,22 @@
       "source_file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "source_header": "CF-9.6 No self-investigation",
       "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-record-custody-and-opening-authority",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
+      "source_header": "CF-9.6 No self-investigation",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#31-minimum-record-contents",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
+      "source_header": "CF-9.6 No self-investigation",
+      "source_anchor": null,
       "target_file": "core_11_forum.md",
       "target_anchor": "#chapter-eleven-forums-and-jurisdiction",
       "count": 1
@@ -81956,6 +82084,14 @@
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
       "target_anchor": "#cjs-13-shared-implementation-corpus-preamble-contract",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
+      "source_header": "CF-9.6 No self-investigation",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "target_anchor": "#10-inspectable-attributable-action",
       "count": 1
     },
     {
@@ -82012,6 +82148,14 @@
       "source_anchor": null,
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-foundational-definitions",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
+      "source_header": "CF-9.8 Records, referrals, and backup routes",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-record-custody-and-opening-authority",
       "count": 1
     },
     {
@@ -88970,6 +89114,14 @@
       "source_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "source_header": "CI-3.6: Charter contents, review, and formation template",
       "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#standing-record-chapter-six",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+      "source_header": "CI-3.6: Charter contents, review, and formation template",
+      "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#charter",
       "count": 3
@@ -89052,6 +89204,22 @@
       "source_anchor": null,
       "target_file": "core_07_b_system_alignment_certification_record_process.md",
       "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+      "source_header": "CI-3.6: Charter contents, review, and formation template",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-record-custody-and-opening-authority",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+      "source_header": "CI-3.6: Charter contents, review, and formation template",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#36-forum-boundary",
       "count": 1
     },
     {
@@ -98596,7 +98764,7 @@
       "source_anchor": "#cross-file-routing",
       "target_file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "target_anchor": null,
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
@@ -98660,7 +98828,7 @@
       "source_anchor": "#cross-file-routing",
       "target_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "target_anchor": null,
-      "count": 3
+      "count": 4
     },
     {
       "source_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
@@ -110594,6 +110762,14 @@
       "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
       "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#charter",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
+      "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
       "target_file": "core_06_rights_part_b.md",
       "target_anchor": "#article-vii-b-internal-state-boundary-and-type-n-protection",
       "count": 1
@@ -110612,6 +110788,14 @@
       "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
       "target_file": "core_08_standing_assessment.md",
       "target_anchor": "#21-silence-is-the-default",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
+      "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-record-custody-and-opening-authority",
       "count": 1
     },
     {

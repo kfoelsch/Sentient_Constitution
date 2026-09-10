@@ -47,7 +47,7 @@
 Chapter Eight owns the verified factual record for Question 1 and the standing measurement for Question 2. Question 3 continues in Chapter Nine.
 
 <a id="operative-steward-statement-standing"></a>
-> **Operative steward statement.** **Owner:** Chapter Eight (Questions 1–2: verified record and measurement). Chapter Nine (Question 3: effects). Forums supervise; they do not replace measurement. **Forbidden move:** Do not treat a claimed effect as standing. Do not wait for a filed case. Do not fold help and harm into one net score. Do not treat model internals or privacy as a standing-measurement exemption. Do not treat a certification badge or LEQU score as sentience status. **Clock:** Do not wait for a filed case. Open or correct the Chapter Eight record now. Keep Contribution and Violation records inspectable. Log the CS-4 §10 set.
+> **Operative steward statement.** **Owner:** Chapter Eight (Questions 1–2: verified record and measurement). Chapter Nine (Question 3: effects). Forums supervise; they do not replace measurement. **Forbidden move:** Do not treat a claimed effect as standing. Do not wait for a filed case. Do not fold help and harm into one net score. Do not treat model internals or privacy as a standing-measurement exemption. Do not treat a certification badge or LEQU score as sentience status. Do not verify facts or enter a record on your own institution, your own claim, or a claim from your control line; route to the named record-opening authority or independent verifier under §3.7. **Clock:** Do not wait for a filed case. Open or correct the Chapter Eight record now, through the named record-opening authority. Keep Contribution and Violation records inspectable. Log the CS-4 §10 set.
 
 <a id="1-the-three-questions"></a>
 
@@ -131,7 +131,7 @@ Question 1 uses a **contribution standing record** for verified help and a **vio
 <a id="21-silence-is-the-default"></a>
 **Silence is the default.** Having no standing record is the ordinary state of a sentient, institution, or system, and it is the state most sentients will remain in.
 
-- A record opens only on a verified trigger under **section 3**; it is never opened to establish a baseline, to complete a roster, or because a named pathway gatekeeper would prefer one.
+- A record opens only on a verified trigger under **section 3**, entered by a named record-opening authority under **section 3.7**; it is never opened to establish a baseline, to complete a roster, or because a named pathway gatekeeper would prefer one.
 - The absence of a record supports no inference. "Unrated," "unverified," or "no record on file" is not evidence of risk, of low contribution, or of anything else, and may not be treated as a reason for closer scrutiny, a lower default, or a conditional named-pathway state.
 - No institution or system may require a standing record, a "no record" attestation, or consent to open one as a condition of **Article III** (*Survival and Equal Educational Access*) essentials, **Article III-D** (*Labor and Economic Floor*) protections, ordinary commerce, or participation as an affected party. Published competency bars for specific trust-sensitive named pathways under [Chapter Nine §6.2](core_09_standing_integration.md#62-competency-bars-and-clearances) are the exception, and they must state why the named pathway is trust-sensitive.
 - When a record concerning a subject is opened, the subject must be notified under **section 3** unless a documented [Evidence Preservation](core_05_band_oversight.md#evidence-preservation) or Safety showing justifies a time-bounded delay; a record the subject cannot know about is not contestable.
@@ -230,13 +230,13 @@ Each row in the table below names a common route of verified loss, danger, or du
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-standing-records) (*Question 1 records and event-type guide*); [Chapters Two through Four](core_02_definition_structure.md) (*record, verification, and traceability of definitions to results*).
-- Downstream: [§3.1](#31-minimum-record-contents) (*minimum contents and verified-input gate*); [§3.2](#32-related-record-cross-references) (*cross-references*); [§3.6](#36-forum-boundary) (*forum boundary*); [§4](#4-standing-measurement-evaluation-dimensions) (*Question 2*).
+- Downstream: [§3.1](#31-minimum-record-contents) (*minimum contents and verified-input gate*); [§3.2](#32-related-record-cross-references) (*cross-references*); [§3.6](#36-forum-boundary) (*forum boundary*); [§3.7](#37-record-custody-and-opening-authority) (*record custody and opening authority*); [§4](#4-standing-measurement-evaluation-dimensions) (*Question 2*).
 
 </details>
 
 <br>
 
-*In plain terms: This section states what each standing record must contain and how it may be challenged or corrected. Question 2 measurements may be added only after the verified factual basis is recorded.*
+*In plain terms: This section states what each standing record must contain, who may open and hold it, and how it may be challenged or corrected. Question 2 measurements may be added only after the verified factual basis is recorded.*
 
 The evidence and record detail required may increase with the material stake and the system's class. This scaling does not exclude any covered sentient, institution, or system from the standing pipeline.
 
@@ -253,6 +253,7 @@ Every standing record must include, at minimum:
 - the time window and current review status — for example, provisional, final for a stated purpose, under challenge, superseded, or due for scheduled re-evaluation;
 - any related standing records cross-referenced as required under **section 3.2**;
 - the records, witnesses, measurements, audits, forum decisions, or other verification materials that make the standing record demonstrable, reviewable, and contestable under Chapters Two through Four;
+- the **record-opening authority** that verified the factual basis and entered the record, and the **record custodian** that holds it, each named under **section 3.7**;
 - how to challenge the record, which forum or authority reviews it, any disclosure limits, and the conditions for correction, restoration, expiration, or scheduled review; and
 - the axis-specific Question 2 measurement fields required below, once measurement occurs.
 
@@ -316,7 +317,7 @@ Standing records must be versioned when important facts, findings, review outcom
 - expire it for a completed decision context; or
 - supersede it for a new decision context.
 
-The later version must preserve the prior audit trail and explain what changed.
+The later version must preserve the prior audit trail and explain what changed, who made the change, under what record-opening or custodial authority under **section 3.7**, on what verification materials, and at whose request.
 
 <a id="35-implementation-tools"></a>
 
@@ -339,6 +340,48 @@ A forum's verified factual findings may supply the factual basis for a Question 
 - Forum outputs must **not** substitute dispute narratives, routing convenience, or panel preference for demonstrable verified inputs, separate measurement, or the standing-effect mechanics owned by [Chapter Nine](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration).
 
 This boundary does **not** reduce challenge, remedy, interim relief, or procedural protections required under [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*), [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*), or related justice articles. It requires that verified forum findings enter standing through the same gate as other verified inputs — not around it.
+
+<a id="37-record-custody-and-opening-authority"></a>
+
+#### 3.7 Record custody and opening authority
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§2.1](#21-silence-is-the-default) (*verified trigger; notice to the subject*); [§3.1](#31-minimum-record-contents) (*minimum contents and verified-input gate*); [§3.4](#34-versioning) (*versioning*); [§3.6](#36-forum-boundary) (*forums may open, update, correct, or set aside*); [Chapters Two through Four](core_02_definition_structure.md) (*record, verification, and traceability*); [Evidence Preservation](core_05_band_oversight.md#evidence-preservation) (*chain of custody for evidence*).
+- Tetrad leg(s): **accountability** (a named actor answers for every entry); **oversight** (no party verifies its own claim). Primary aim(s): **Flourishing** and **Continuity**.
+- Read with: [Chapter Five *Charter*](core_05_band_continuity.md#charter) (*published scope instrument that names or points to the record-opening authority and custodian for a chartered scope*); **CI-3.6** (*Charter contents — standing-record custody field*); **CI-3.3** (*authority chain and delegation controls*); **CF-9.6** (*no self-investigation*) and **CF-9.8** (*verified-finding handoff*); [Chapter Eleven §2.1](core_11_forum.md#21-lead-default-limits) (*anti-self-judging backup*); [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*who authorized; the log is not the record*); [Chapter Nine §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*halt, refuse, document, escalate*).
+- Downstream: [§4](#4-standing-measurement-evaluation-dimensions) (*Question 2 measures only records entered under this section*); [Chapter Nine](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Question 3 effects trace to an attributed record*).
+
+</details>
+
+<br>
+
+*In plain terms: every standing record has a named office that verified the facts and entered it, and a named office that holds it. Neither may be the subject of the record, the party claiming the help, the party alleging the harm, or anyone those parties control. A steward inside the operator can stop the action, log it, preserve evidence, and escalate — but cannot verify the facts and write the record on their own institution. The sentient who first opened a record is a witness to it later, not its judge. Every change names who made it and under what authority. None of this is a reason to wait.*
+
+<a id="371-named-record-opening-authority"></a>
+
+**Named record-opening authority.** Every standing record is opened, corrected, expired, or superseded by a **record-opening authority**: a role, office, forum, or body whose authority to verify the factual basis under Chapters Two through Four and to enter the record is published before it acts. Where the record concerns a system, institution, or business that holds a [Charter](core_05_band_continuity.md#charter), that Charter names the record-opening authority and record custodian for records concerning its chartered scope, or points to the published instrument that names them (**CI-3.6** (*Charter contents, review, and formation template*)). Forums act as record-opening authorities on the terms in **section 3.6**. Where no Charter or forum designation reaches the record, the adopting instrument under [Chapter Fifteen](core_15_amendment_ratification.md) or the published rules of the body that operates the standing pipeline must name one. An entry made without a named authority is marked **provisional**: it preserves evidence and notice under **section 2.1**, but it supplies no verified input under **section 3.1** and no Chapter Nine effect until a named authority confirms it, corrects it, or sets it aside.
+
+<a id="372-record-custodian"></a>
+
+**Record custodian.** Every standing record has a named **record custodian** that holds the record, controls versioning under **section 3.4**, publishes the challenge path under **section 3.1**, and answers for the record's continuity. The custodian may be the record-opening authority or a separate office. Custody must not lapse: when a custodian is dissolved, conflicted, or replaced, custody transfers with the full audit trail under [Evidence Preservation](core_05_band_oversight.md#evidence-preservation) to the successor the Charter or designation names, or, where none is named, to the supervising forum under **section 3.6**.
+
+<a id="373-no-self-custody"></a>
+
+**No self-custody.** The following may not act as record-opening authority or record custodian for a record: the record's subject; a party claiming the contribution or alleging the violation the record concerns; and any office in the authority line that materially controls, or is materially controlled by, those parties. A steward inside the subject who exercises Critical System Stewardship or material operational authority retains every duty under [Chapter Nine §5.4](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) and [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) — halt what they control, log the reconstructable set, preserve evidence they hold, notify, and escalate — and none of those acts is verification of the facts or entry of the record. Where the ordinary record-opening authority is itself the subject or sits in its control line, the record routes to independent verification: a forum under **section 3.6**, the independent investigative service under **CF-9.6** (*No self-investigation*), or a pre-designated backup body with published authority, whichever the Charter or designation names first. Absence of any such route is a gap the steward must name in the log, not a reason to enter the record themselves.
+
+<a id="374-recorder-statements-are-inputs"></a>
+
+**Recorder statements are inputs.** A later statement by the sentient or office that opened, verified, or previously held a record — supporting or refuting a claimed contribution, an alleged omission, or a contest — enters the record as verification material under **section 3.1** and passes the same verified-input gate as any other input. The prior recorder is a witness to the record, not its judge. Their support does not by itself verify a contribution; their refutation does not by itself disprove one; their agreement with the subject or with a challenger settles nothing on its own. Their availability or unavailability neither freezes nor completes the record: where a prior recorder cannot be reached, the record says so and proceeds on the remaining verified materials.
+
+<a id="375-attributed-entry"></a>
+
+**Attributed entry.** Every opening, correction, retroactive correction, expiry, supersession, or custody transfer names, on the record itself, who made the change, under what published authority, on what verification materials, and at whose request. A request from an interested party — the subject, a claimant, a challenger, or an office in their control line — is logged as a request the moment it is received, whether or not it is acted on, and is acted on only through the record-opening authority's own verification. Neither the custodian nor the authority may decline to log a request or a refusal to act on it.
+
+<a id="376-custody-is-not-delay"></a>
+
+**Custody is not delay, and custody is not ownership.** A custody question is answered by routing to the named or independent authority, not by waiting. No party may use a custody dispute, an unavailable prior recorder, or an unnamed authority to hold a record open, closed, or uncorrected past the tier clocks under [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*). Holding a record confers no authority over Question 2 measurement calibration, over Chapter Nine standing effects, or over the subject; a custodian that applies an effect, withholds the challenge path, or conditions entry on the subject's cooperation is itself the subject of a separate violation standing record under **section 2.3.2** (*Obstruction of accountability*).
 
 <a id="4-standing-measurement-evaluation-dimensions"></a>
 <a id="4-classification-evaluation-dimensions"></a>

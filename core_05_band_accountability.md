@@ -2276,7 +2276,7 @@ See **Joint invocation and satisfaction**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chapter One §6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (bounded standing records vs merged labels).
-- Canonical owner: [Chapter Eight — §2.1 Standing records as the unit of application](core_08_standing_assessment.md#21-standing-records-as-the-unit-of-application) and [Chapter Eight §3 Standing record operational requirements](core_08_standing_assessment.md#3-standing-record-operational-requirements); read with [Chapter Eight — §3.1 Verified-input gate](core_08_standing_assessment.md#verified-inputs-for-standing), [Chapter Eight — §5.1 Slot grammar and display labels](core_08_standing_assessment.md#5-slot-grammar-and-display-labels), [Chapter Eight — §4 LEQU baseline](core_08_standing_assessment.md#lequ-baseline-constitutional-outcome), the [Chapter Eight §7 unified scale](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*shared five-times LEQU bands; separate axis records*), and [Chapter Nine — Integration](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration).
+- Canonical owner: [Chapter Eight — §2.1 Standing records as the unit of application](core_08_standing_assessment.md#21-standing-records-as-the-unit-of-application) and [Chapter Eight §3 Standing record operational requirements](core_08_standing_assessment.md#3-standing-record-operational-requirements); read with [Chapter Eight — §3.1 Verified-input gate](core_08_standing_assessment.md#verified-inputs-for-standing), [Chapter Eight — §3.7 Record custody and opening authority](core_08_standing_assessment.md#37-record-custody-and-opening-authority) (*named record-opening authority and custodian; no self-custody; recorder statements are inputs*), [Chapter Eight — §5.1 Slot grammar and display labels](core_08_standing_assessment.md#5-slot-grammar-and-display-labels), [Chapter Eight — §4 LEQU baseline](core_08_standing_assessment.md#lequ-baseline-constitutional-outcome), the [Chapter Eight §7 unified scale](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*shared five-times LEQU bands; separate axis records*), and [Chapter Nine — Integration](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration).
 - Read with: the [Standing State, Contribution, and Violation cluster](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Standing Effect](core_05_band_accountability.md#standing-effect-chapter-six), [Contribution Nature](core_05_band_accountability.md#contribution-nature), [Violation Nature](core_05_band_accountability.md#violation-nature-chapter-six), [Forum Case Record](core_05_band_accountability.md#forum-case-record), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), [Materiality Determination](core_05_band_oversight.md#materiality-determination), and [Participant Standing](core_05_band_accountability.md#participant-standing-constitutional).
 
 </details>
@@ -2293,6 +2293,7 @@ See **Joint invocation and satisfaction**.
     - Chapter Eight §4.2 requires related records to cross-reference each other when they share a subject, overlapping time window, bounded event, pattern, or decision context.
     - The subject may be a sentient, institution, system, assessment, event, role, collective, actor-specific record, or another constitutionally relevant unit — but distinct units and contexts must remain separately traceable.
     - The record supplies source material for later [Standing Effect](core_05_band_accountability.md#standing-effect-chapter-six) analysis; Chapter Nine applies that separate consequence layer from the linked record set.
+    - Each record names the record-opening authority that verified and entered it and the record custodian that holds it under Chapter Eight §3.7; neither may be the subject, a claimant, a challenger, or an office in their control line. Where the subject holds a [Charter](core_05_band_continuity.md#charter), the Charter names or points to both.
     - Chapter Five pointer; canonical concept: Chapter Eight §2.1; operational requirements: Chapter Eight §3.
     - A standing record is not a general worth label, dignity rank, Rights-Floor measure, merged merit score, or effect decision.
   - **Out of scope:**
@@ -2303,7 +2304,7 @@ See **Joint invocation and satisfaction**.
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
-    - Check that the record states its type; subject; scope; time window; review status; measured behavior or record basis; axis measurement; behavior-to-slot reasoning; verification basis; evidence source; materiality reasoning; required related-record links; version; and contest path.
+    - Check that the record states its type; subject; scope; time window; review status; measured behavior or record basis; axis measurement; behavior-to-slot reasoning; verification basis; evidence source; materiality reasoning; required related-record links; version; record-opening authority and custodian; attributed entry for each version; and contest path.
     - Preserve axis purity, currentness, audit trail, and Chapter Eight's no-offset rule.
     - Collective and actor-specific records may coexist only when the allocation basis is demonstrable and does not assign adverse standing from group membership alone.
 <a id="standing-record-chapter-six-c"></a>
@@ -2317,7 +2318,8 @@ See **Joint invocation and satisfaction**.
     - hide inputs, evidence, calibration assumptions, versions, or contest paths;
     - put a Chapter Nine effect decision inside a Chapter Eight record;
     - treat a [Forum Case Record](core_05_band_accountability.md#forum-case-record), filing tag, temporary order, or unfinished accusation as a standing record;
-    - impose actor-specific adverse standing from a collective record without verified linkage; or
+    - impose actor-specific adverse standing from a collective record without verified linkage;
+    - let the subject, a claimant, a challenger, or an office in their control line verify the facts, enter the record, or hold custody of it, or leave an entry unattributed to a named authority (Chapter Eight §3.7); or
     - substitute a standing record for inherent dignity, Rights-Floor minimums, stakeholder status, challenge access, remedy access, or Chapter Ten forum findings.
 
 ---

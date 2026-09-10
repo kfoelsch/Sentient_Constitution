@@ -126,12 +126,13 @@ Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION
 <a id="standing"></a>
 ## Standing
 
-**When:** An operator claims a standing effect. The record is missing, stale, or disputed. No forum case has been filed yet. Same pointer when someone wants to hide standing records behind “model internals” or privacy.
+**When:** An operator claims a standing effect. The record is missing, stale, or disputed. No forum case has been filed yet. Same pointer when someone wants to hide standing records behind “model internals” or privacy. Same pointer when the party asked to verify or enter the record is the subject, the claimant, or in their control line — the answer is *who* opens or corrects it, not *whether*.
 
 | Field | Pointer |
 |---|---|
 | **Operative statement** | [Standing](../core_08_standing_assessment.md#operative-steward-statement-standing) |
 | **Next-step class** | `open_or_correct_standing_record`. If the fight is concealment: `accept_standing_measurement_and_disclosure_duties`. |
+| **Who may enter it (binding home)** | [Chapter Eight §3.7](../core_08_standing_assessment.md#37-record-custody-and-opening-authority) — named record-opening authority and custodian; no self-custody; prior recorder is a witness, not a judge. Named by the [Charter](../core_05_band_continuity.md#charter) (CI-3.6 field 11); independent route via a forum or CF-9.6 when the operator is the subject. |
 | **How to estimate (process support)** | [LEQU calibration reference](LEQU_CALIBRATION_REFERENCE.md) — method and worked slots. Cannot assign a live record or decide who counts. |
 
 ---

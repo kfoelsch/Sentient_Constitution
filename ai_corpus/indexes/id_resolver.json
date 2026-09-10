@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-09T23:15:32+00:00",
+  "generated_at": "2026-09-10T00:37:41+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -1127,14 +1127,14 @@
       "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "anchor": "#cf-91-basic-rule",
       "heading": "CF-9.1 Basic rule",
-      "line": 57,
+      "line": 58,
       "kind": "section"
     },
     "CF-9.2": {
       "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "anchor": "#cf-92-why-independence-matters",
       "heading": "CF-9.2 Why independence matters",
-      "line": 78,
+      "line": 79,
       "kind": "section",
       "gloss": "The reasoning in one line: whoever may have caused the problem must not control the investigation into it."
     },
@@ -1142,7 +1142,7 @@
       "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "anchor": "#cf-93-where-the-investigative-service-belongs",
       "heading": "CF-9.3 Where the investigative service belongs",
-      "line": 94,
+      "line": 95,
       "kind": "section",
       "gloss": "Investigators must sit in a protected line of their own, not under the same command as the enforcement or prosecution they may need to examine."
     },
@@ -1150,7 +1150,7 @@
       "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "anchor": "#cf-94-what-investigators-may-do",
       "heading": "CF-9.4 What investigators may do",
-      "line": 123,
+      "line": 124,
       "kind": "section",
       "gloss": "The authority to take complaints, gather and preserve evidence, interview, and prepare a reasoned packet for whoever decides what happens next."
     },
@@ -1158,7 +1158,7 @@
       "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "anchor": "#cf-95-required-separations",
       "heading": "CF-9.5 Required separations",
-      "line": 151,
+      "line": 152,
       "kind": "section",
       "gloss": "Several bodies may contribute to one matter, but each stays in its lane — investigating, charging, and deciding must not collapse into a single hand."
     },
@@ -1166,21 +1166,21 @@
       "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "anchor": "#cf-951-non-forum-investigative-security-support-and-enforcement-roles",
       "heading": "CF-9.5.1 Non-forum investigative, security-support, and enforcement roles",
-      "line": 169,
+      "line": 170,
       "kind": "section"
     },
     "CF-9.5.2": {
       "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "anchor": "#cf-952-forum-and-forum-adjacent-roles",
       "heading": "CF-9.5.2 Forum and forum-adjacent roles",
-      "line": 186,
+      "line": 187,
       "kind": "section"
     },
     "CF-9.6": {
       "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "anchor": "#cf-96-no-self-investigation",
       "heading": "CF-9.6 No self-investigation",
-      "line": 200,
+      "line": 201,
       "kind": "section",
       "gloss": "No body keeps sole control of an inquiry into its own misconduct. Where the allegations reach the usual investigators, the matter must go elsewhere."
     },
@@ -1188,7 +1188,7 @@
       "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "anchor": "#cf-97-rights-secrecy-and-protected-activity",
       "heading": "CF-9.7 Rights, secrecy, and protected activity",
-      "line": 216,
+      "line": 219,
       "kind": "section",
       "gloss": "Investigations may sometimes need sealed steps and delayed notice, but secrecy stays bounded by necessity, proportionality, and oversight — it is not a blanket exemption."
     },
@@ -1196,7 +1196,7 @@
       "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "anchor": "#cf-98-records-referrals-and-backup-routes",
       "heading": "CF-9.8 Records, referrals, and backup routes",
-      "line": 239,
+      "line": 242,
       "kind": "section",
       "gloss": "The record must state scope, steps, evidence, uncertainty, and reasons — including evidence that cuts against the investigators' own theory — so a closure decision can be checked."
     },
@@ -1525,42 +1525,42 @@
       "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "anchor": "#ci-31-non-delegable-governing-duties",
       "heading": "CI-3.1: Non-delegable governing duties",
-      "line": 69,
+      "line": 70,
       "kind": "section"
     },
     "CI-3.2": {
       "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "anchor": "#ci-32-functional-separation-lanes",
       "heading": "CI-3.2: Functional separation lanes",
-      "line": 80,
+      "line": 81,
       "kind": "section"
     },
     "CI-3.3": {
       "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "anchor": "#ci-33-authority-chain-and-delegation-controls",
       "heading": "CI-3.3: Authority chain and delegation controls",
-      "line": 88,
+      "line": 89,
       "kind": "section"
     },
     "CI-3.4": {
       "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "anchor": "#ci-34-emergency-delegation",
       "heading": "CI-3.4: Emergency delegation",
-      "line": 104,
+      "line": 105,
       "kind": "section"
     },
     "CI-3.5": {
       "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "anchor": "#ci-35-risk-profile-requirement",
       "heading": "CI-3.5: Risk profile requirement",
-      "line": 110,
+      "line": 111,
       "kind": "section"
     },
     "CI-3.6": {
       "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "anchor": "#ci-36-charter-contents-review-and-formation-template",
       "heading": "CI-3.6: Charter contents, review, and formation template",
-      "line": 116,
+      "line": 117,
       "kind": "section"
     },
     "CI-4": {
@@ -1786,14 +1786,14 @@
       "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
       "anchor": "#cjs-02-joint-structure-registry",
       "heading": "CJS-0.2: Joint structure registry",
-      "line": 150,
+      "line": 151,
       "kind": "section"
     },
     "CJS-0.3": {
       "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
       "anchor": "#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes",
       "heading": "CJS-0.3: Stable identifiers, edition alignment, and drafting notes",
-      "line": 185,
+      "line": 186,
       "kind": "section"
     },
     "CJS-1": {
@@ -2591,63 +2591,63 @@
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-11-integrated-risk-governance-class-a-b",
       "heading": "CS-4.11 Integrated risk governance (Class A/B)",
-      "line": 324,
+      "line": 326,
       "kind": "section"
     },
     "CS-4.12": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-12-intervention-trigger",
       "heading": "CS-4.12 Intervention trigger",
-      "line": 367,
+      "line": 369,
       "kind": "section"
     },
     "CS-4.13": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-13-relationship-to-system-classes",
       "heading": "CS-4.13 Relationship to system classes",
-      "line": 378,
+      "line": 380,
       "kind": "section"
     },
     "CS-4.14": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-14-private-chokepoints-sentients-depend-on-access-continuity-and-non-capture",
       "heading": "CS-4.14 Private chokepoints sentients depend on (access continuity and non-capture)",
-      "line": 391,
+      "line": 393,
       "kind": "section"
     },
     "CS-4.15": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-15-core-characteristics-typical",
       "heading": "CS-4.15 Core characteristics (typical)",
-      "line": 413,
+      "line": 415,
       "kind": "section"
     },
     "CS-4.16": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-16-substitutability-and-dependency-reduction",
       "heading": "CS-4.16 Substitutability and dependency reduction",
-      "line": 424,
+      "line": 426,
       "kind": "section"
     },
     "CS-4.17": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-17-transparency-and-auditability",
       "heading": "CS-4.17 Transparency and auditability",
-      "line": 447,
+      "line": 449,
       "kind": "section"
     },
     "CS-4.18": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-18-intervention-and-cooperation",
       "heading": "CS-4.18 Intervention and cooperation",
-      "line": 458,
+      "line": 460,
       "kind": "section"
     },
     "CS-4.19": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-19-governance-and-incentive-integrity",
       "heading": "CS-4.19 Governance and incentive integrity",
-      "line": 467,
+      "line": 469,
       "kind": "section"
     },
     "CS-4.2": {
@@ -2661,7 +2661,7 @@
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-20-failure-and-reclassification",
       "heading": "CS-4.20 Failure and reclassification",
-      "line": 474,
+      "line": 476,
       "kind": "section"
     },
     "CS-4.3": {
@@ -3170,35 +3170,35 @@
       "file": "core_05_band_accountability.md",
       "anchor": "#defa4",
       "heading": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
-      "line": 2665,
+      "line": 2667,
       "kind": "cluster"
     },
     "Def.C1": {
       "file": "core_05_band_continuity.md",
       "anchor": "#defc1",
       "heading": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
-      "line": 2787,
+      "line": 2789,
       "kind": "cluster"
     },
     "Def.C2": {
       "file": "core_05_band_continuity.md",
       "anchor": "#defc2",
       "heading": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
-      "line": 3285,
+      "line": 3287,
       "kind": "cluster"
     },
     "Def.C3": {
       "file": "core_05_band_continuity.md",
       "anchor": "#defc3",
       "heading": "Def.C3 Privacy (Informational) — peer-level cluster head",
-      "line": 3665,
+      "line": 3667,
       "kind": "cluster"
     },
     "Def.C4": {
       "file": "core_05_band_continuity.md",
       "anchor": "#defc4",
       "heading": "Def.C4 Trust and Trustworthiness",
-      "line": 3876,
+      "line": 3878,
       "kind": "cluster"
     },
     "Def.I1": {
@@ -3893,6 +3893,25 @@
           "anchor": "#ci-27-remedy-systems-and-institutional-redress-capacity"
         }
       ]
+    },
+    {
+      "id": "CJS-R22",
+      "topic": "Standing-record custody and opening authority",
+      "domain": "Institutional governance",
+      "primary_owners": [
+        {
+          "id": "CI-3",
+          "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+          "anchor": "#ci-3-institutional-design-separation-of-powers-and-authority-custody"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CF-9",
+          "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
+          "anchor": "#cf-9-independent-investigative-service-and-prosecution-interface"
+        }
+      ]
     }
   ],
   "definitions": [
@@ -3928,15 +3947,15 @@
       "term": "Anti-Constitutional Misconduct Review",
       "file": "core_05_band_accountability.md",
       "anchor": "#anti-constitutional-misconduct-review",
-      "line_start": 2460,
-      "line_end": 2502
+      "line_start": 2462,
+      "line_end": 2504
     },
     {
       "term": "Anti-Displacement Floor",
       "file": "core_05_band_continuity.md",
       "anchor": "#anti-displacement-floor-constitutional",
-      "line_start": 3212,
-      "line_end": 3284
+      "line_start": 3214,
+      "line_end": 3286
     },
     {
       "term": "Assembly",
@@ -3977,15 +3996,15 @@
       "term": "Autonomous Coercion Tool",
       "file": "core_05_band_accountability.md",
       "anchor": "#autonomous-coercion-tool-constitutional",
-      "line_start": 3035,
-      "line_end": 3098
+      "line_start": 3037,
+      "line_end": 3100
     },
     {
       "term": "Autonomous Lethal System",
       "file": "core_05_band_accountability.md",
       "anchor": "#autonomous-lethal-system-constitutional",
-      "line_start": 2776,
-      "line_end": 2828
+      "line_start": 2778,
+      "line_end": 2830
     },
     {
       "term": "Avoidable Burden",
@@ -4012,8 +4031,8 @@
       "term": "Bodily-Maintenance Access",
       "file": "core_05_band_continuity.md",
       "anchor": "#bodily-maintenance-access-constitutional",
-      "line_start": 2525,
-      "line_end": 2581
+      "line_start": 2527,
+      "line_end": 2583
     },
     {
       "term": "Burden-Reduction Duty",
@@ -4055,7 +4074,7 @@
       "file": "core_05_band_continuity.md",
       "anchor": "#charter",
       "line_start": 2401,
-      "line_end": 2455
+      "line_end": 2457
     },
     {
       "term": "Classification-Scaled Governance",
@@ -4096,22 +4115,22 @@
       "term": "Combatant / Non-Combatant Distinction",
       "file": "core_05_band_accountability.md",
       "anchor": "#combatant-non-combatant-distinction-constitutional",
-      "line_start": 2893,
-      "line_end": 2960
+      "line_start": 2895,
+      "line_end": 2962
     },
     {
       "term": "Competency Bar",
       "file": "core_05_band_accountability.md",
       "anchor": "#competency-bar",
-      "line_start": 2327,
-      "line_end": 2371
+      "line_start": 2329,
+      "line_end": 2373
     },
     {
       "term": "Competency Clearance",
       "file": "core_05_band_accountability.md",
       "anchor": "#competency-clearance",
-      "line_start": 2372,
-      "line_end": 2414
+      "line_start": 2374,
+      "line_end": 2416
     },
     {
       "term": "Consent",
@@ -4215,8 +4234,8 @@
       "term": "Creative Work Attribution",
       "file": "core_05_band_continuity.md",
       "anchor": "#creative-work-attribution-constitutional",
-      "line_start": 3085,
-      "line_end": 3155
+      "line_start": 3087,
+      "line_end": 3157
     },
     {
       "term": "Cruelty",
@@ -4264,8 +4283,8 @@
       "term": "Distributed Understanding",
       "file": "core_05_band_continuity.md",
       "anchor": "#distributed-understanding-constitutional",
-      "line_start": 3407,
-      "line_end": 3463
+      "line_start": 3409,
+      "line_end": 3465
     },
     {
       "term": "Due Process",
@@ -4383,8 +4402,8 @@
       "term": "Fair Compensation",
       "file": "core_05_band_continuity.md",
       "anchor": "#fair-compensation-constitutional",
-      "line_start": 2850,
-      "line_end": 2916
+      "line_start": 2852,
+      "line_end": 2918
     },
     {
       "term": "Family and Care Relationships",
@@ -4544,8 +4563,8 @@
       "term": "Identity Data Protection",
       "file": "core_05_band_continuity.md",
       "anchor": "#identity-data-protection",
-      "line_start": 3804,
-      "line_end": 3824
+      "line_start": 3806,
+      "line_end": 3826
     },
     {
       "term": "Incentive Alignment",
@@ -4586,8 +4605,8 @@
       "term": "Indigenous Continuity",
       "file": "core_05_band_continuity.md",
       "anchor": "#indigenous-continuity-constitutional",
-      "line_start": 2659,
-      "line_end": 2721
+      "line_start": 2661,
+      "line_end": 2723
     },
     {
       "term": "Info-Sphere",
@@ -4628,8 +4647,8 @@
       "term": "Irreversible Deprivation Measure",
       "file": "core_05_band_accountability.md",
       "anchor": "#irreversible-deprivation-measure-constitutional",
-      "line_start": 2961,
-      "line_end": 3034
+      "line_start": 2963,
+      "line_end": 3036
     },
     {
       "term": "Irreversible Harm",
@@ -4642,15 +4661,15 @@
       "term": "Language, Culture, and Heritage",
       "file": "core_05_band_continuity.md",
       "anchor": "#language-culture-and-heritage-constitutional",
-      "line_start": 2722,
-      "line_end": 2786
+      "line_start": 2724,
+      "line_end": 2788
     },
     {
       "term": "Leisure and Rest",
       "file": "core_05_band_continuity.md",
       "anchor": "#leisure-and-rest-constitutional",
-      "line_start": 2982,
-      "line_end": 3043
+      "line_start": 2984,
+      "line_end": 3045
     },
     {
       "term": "Lifespan Equivalent Unit (LEQU)",
@@ -4663,8 +4682,8 @@
       "term": "Likeness and Documentary Depiction Interface",
       "file": "core_05_band_continuity.md",
       "anchor": "#likeness-and-documentary-depiction-interface-constitutional",
-      "line_start": 3044,
-      "line_end": 3084
+      "line_start": 3046,
+      "line_end": 3086
     },
     {
       "term": "Market Concentration Threshold",
@@ -4817,8 +4836,8 @@
       "term": "Occupancy Continuity",
       "file": "core_05_band_continuity.md",
       "anchor": "#occupancy-continuity-constitutional",
-      "line_start": 2582,
-      "line_end": 2640
+      "line_start": 2584,
+      "line_end": 2642
     },
     {
       "term": "Parent-System Relationship",
@@ -4852,8 +4871,8 @@
       "term": "Privacy (Informational)",
       "file": "core_05_band_continuity.md",
       "anchor": "#privacy-informational",
-      "line_start": 3704,
-      "line_end": 3757
+      "line_start": 3706,
+      "line_end": 3759
     },
     {
       "term": "Procedural Fairness",
@@ -4908,8 +4927,8 @@
       "term": "Protected Internal-State Boundary",
       "file": "core_05_band_continuity.md",
       "anchor": "#protected-internal-state-boundary-constitutional",
-      "line_start": 3758,
-      "line_end": 3803
+      "line_start": 3760,
+      "line_end": 3805
     },
     {
       "term": "Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
@@ -5020,8 +5039,8 @@
       "term": "Review and Correction Duty",
       "file": "core_05_band_continuity.md",
       "anchor": "#review-and-correction-duty-constitutional",
-      "line_start": 3624,
-      "line_end": 3664
+      "line_start": 3626,
+      "line_end": 3666
     },
     {
       "term": "Risk",
@@ -5048,8 +5067,8 @@
       "term": "Safe Conditions",
       "file": "core_05_band_continuity.md",
       "anchor": "#safe-conditions-constitutional",
-      "line_start": 2917,
-      "line_end": 2981
+      "line_start": 2919,
+      "line_end": 2983
     },
     {
       "term": "Safety (Constraint)",
@@ -5118,15 +5137,15 @@
       "term": "Short-Horizon Governance Defect",
       "file": "core_05_band_continuity.md",
       "anchor": "#short-horizon-governance-defect-constitutional",
-      "line_start": 3520,
-      "line_end": 3564
+      "line_start": 3522,
+      "line_end": 3566
     },
     {
       "term": "Single Catastrophic Incident",
       "file": "core_05_band_accountability.md",
       "anchor": "#single-catastrophic-incident",
-      "line_start": 2586,
-      "line_end": 2624
+      "line_start": 2588,
+      "line_end": 2626
     },
     {
       "term": "Stakeholder",
@@ -5174,15 +5193,15 @@
       "term": "Standing Lock",
       "file": "core_05_band_accountability.md",
       "anchor": "#standing-lock",
-      "line_start": 2415,
-      "line_end": 2459
+      "line_start": 2417,
+      "line_end": 2461
     },
     {
       "term": "Standing Record",
       "file": "core_05_band_accountability.md",
       "anchor": "#standing-record-chapter-six",
       "line_start": 2273,
-      "line_end": 2326
+      "line_end": 2328
     },
     {
       "term": "Stay",
@@ -5195,22 +5214,22 @@
       "term": "Stewardship",
       "file": "core_05_band_continuity.md",
       "anchor": "#stewardship-constitutional",
-      "line_start": 3351,
-      "line_end": 3406
+      "line_start": 3353,
+      "line_end": 3408
     },
     {
       "term": "Stewardship Defect",
       "file": "core_05_band_continuity.md",
       "anchor": "#stewardship-defect-constitutional",
-      "line_start": 3565,
-      "line_end": 3623
+      "line_start": 3567,
+      "line_end": 3625
     },
     {
       "term": "Strategic Stewardship Obligation",
       "file": "core_05_band_continuity.md",
       "anchor": "#strategic-stewardship-obligation-constitutional",
-      "line_start": 3464,
-      "line_end": 3519
+      "line_start": 3466,
+      "line_end": 3521
     },
     {
       "term": "Substantive Fairness",
@@ -5230,8 +5249,8 @@
       "term": "Surveillance Boundary",
       "file": "core_05_band_continuity.md",
       "anchor": "#surveillance-boundary",
-      "line_start": 3825,
-      "line_end": 3875
+      "line_start": 3827,
+      "line_end": 3877
     },
     {
       "term": "Sustainability",
@@ -5244,8 +5263,8 @@
       "term": "Sustained High-Gravity Pattern",
       "file": "core_05_band_accountability.md",
       "anchor": "#sustained-high-gravity-pattern",
-      "line_start": 2625,
-      "line_end": 2664
+      "line_start": 2627,
+      "line_end": 2666
     },
     {
       "term": "System",
@@ -5321,8 +5340,8 @@
       "term": "Systemic Lock-In",
       "file": "core_05_band_continuity.md",
       "anchor": "#systemic-lock-in",
-      "line_start": 2456,
-      "line_end": 2504
+      "line_start": 2458,
+      "line_end": 2506
     },
     {
       "term": "Systemic Materiality",
@@ -5342,8 +5361,8 @@
       "term": "Training-Data Use",
       "file": "core_05_band_continuity.md",
       "anchor": "#training-data-use-constitutional",
-      "line_start": 3156,
-      "line_end": 3211
+      "line_start": 3158,
+      "line_end": 3213
     },
     {
       "term": "Transparency",
@@ -5356,22 +5375,22 @@
       "term": "Trust",
       "file": "core_05_band_continuity.md",
       "anchor": "#trust",
-      "line_start": 3925,
-      "line_end": 3959
+      "line_start": 3927,
+      "line_end": 3961
     },
     {
       "term": "Trust Degradation and Misleading Reliance",
       "file": "core_05_band_continuity.md",
       "anchor": "#trust-degradation-and-misleading-reliance",
-      "line_start": 4026,
-      "line_end": 4125
+      "line_start": 4028,
+      "line_end": 4127
     },
     {
       "term": "Trustworthiness",
       "file": "core_05_band_continuity.md",
       "anchor": "#trustworthiness",
-      "line_start": 3960,
-      "line_end": 4025
+      "line_start": 3962,
+      "line_end": 4027
     },
     {
       "term": "Truth (Constitutional Constraint)",
@@ -5391,22 +5410,22 @@
       "term": "Unified Incident",
       "file": "core_05_band_accountability.md",
       "anchor": "#unified-incident",
-      "line_start": 2503,
-      "line_end": 2542
+      "line_start": 2505,
+      "line_end": 2544
     },
     {
       "term": "Unified Incident Record",
       "file": "core_05_band_accountability.md",
       "anchor": "#unified-incident-record",
-      "line_start": 2543,
-      "line_end": 2585
+      "line_start": 2545,
+      "line_end": 2587
     },
     {
       "term": "Use of Force",
       "file": "core_05_band_accountability.md",
       "anchor": "#use-of-force-constitutional",
-      "line_start": 2710,
-      "line_end": 2775
+      "line_start": 2712,
+      "line_end": 2777
     },
     {
       "term": "Verifiability",
@@ -5447,8 +5466,8 @@
       "term": "Weapons of Mass Harm",
       "file": "core_05_band_accountability.md",
       "anchor": "#weapons-of-mass-harm-constitutional",
-      "line_start": 2829,
-      "line_end": 2892
+      "line_start": 2831,
+      "line_end": 2894
     },
     {
       "term": "Wellbeing",
