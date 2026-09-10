@@ -16,7 +16,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Sixteen §4](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Fifteen §10](../../core_15_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, instrument, joining*); [Preamble §1](../../core_00_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00_preamble.md#material-stake)); [Preamble §3.3](../../core_00_preamble.md#governance-layer-discipline) (*Constitutional Contract Layer* vs *Stakeholder System Participation*); [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) (*shared stewardship standard*); [Chapter Twelve §1.1](../../core_12_governance.md#11-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*).
+- Upstream: [Chapter Sixteen §4](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Fifteen §10](../../core_15_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, instrument, joining*); [Preamble §1](../../core_00_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00_preamble.md#material-stake)); [Preamble §3.3](../../core_00_preamble.md#33-governance-layers) (*Constitutional Contract Layer* vs *Stakeholder System Participation*); [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) (*shared stewardship standard*); [Chapter Twelve §1.1](../../core_12_governance.md#11-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-fit-tests); [§2](#2-two-modes); [§3](#3-how-to-route); [§4](#4-ranked-situations); [§5](#5-honest-non-fits); [§6](#6-kit-routing).
 - Read with: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md); [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*); [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) (*phased migration after a recorded instrument*).
 
@@ -73,7 +73,7 @@ A situation is a good fit when **several** of these are true. None of these test
 | **Shared costly duties** | Bonus, deadline, and “ignore it, I’ll take responsibility” are failed tests for **both** kinds of steward ([§9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)) | An AI-only overlay, or a human exemption |
 | **Founding or operating a body** | Greenfield cooperative, research body, commons, operator, or consortium ([System Creation](../../core_05_band_participation.md#system-creation-constitutional); [Business Creation](../../core_05_band_participation.md#business-creation-constitutional)) | Retrofitting an existing national constitution as drop-in law |
 | **Material stake** | Impact, dependence, and risk are high enough that participation, oversight, accountability, and timeliness must scale ([Preamble §1](../../core_00_preamble.md#constitutional-tetrad)) | Convenience metrics standing in for constitutional performance |
-| **Layer discipline** | Who may govern is documented separately from voice inside an already-authorized system ([Preamble §3.3](../../core_00_preamble.md#governance-layer-discipline)) | A participation vote, token vote, or standing score treated as authorization — or as sentience status |
+| **Layer discipline** | Who may govern is documented separately from voice inside an already-authorized system ([Preamble §3.3](../../core_00_preamble.md#33-governance-layers)) | A participation vote, token vote, or standing score treated as authorization — or as sentience status |
 | **Independent review** | A published backup, external reviewer, or existing adjudicative body the cooperating crew does not solely staff ([FORUM_FOUNDATION_KIT.md](FORUM_FOUNDATION_KIT.md) Track A) | The founding Slack calling itself the merits path |
 
 ---
@@ -158,7 +158,7 @@ A foundation that holds weights, datasets, or shared compute as a resource. Trac
 <a id="45-multi-agent-protocol"></a>
 ### 4.5 Multi-agent protocol or agent-marketplace body
 
-A new body that sets tool-use, payment, or routing rules among agents. Same stewardship standard; inspectable action; contest routes; no token vote as a substitute for authorization ([Preamble §3.3](../../core_00_preamble.md#governance-layer-discipline)). Found as Track A. Do not staff the dispute forum from the protocol authors. Kit doors: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A; [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md).
+A new body that sets tool-use, payment, or routing rules among agents. Same stewardship standard; inspectable action; contest routes; no token vote as a substitute for authorization ([Preamble §3.3](../../core_00_preamble.md#33-governance-layers)). Found as Track A. Do not staff the dispute forum from the protocol authors. Kit doors: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A; [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md).
 
 <a id="46-cooperatives-with-ai-members"></a>
 ### 4.6 Cooperatives and worker bodies that include AI members
@@ -168,7 +168,7 @@ Platform cooperatives, research cooperatives, and mutual-aid networks that treat
 <a id="47-critical-infrastructure-ops-guide"></a>
 ### 4.7 Critical-infrastructure operators using stacks without polity adoption
 
-Energy, water, care platforms, gig scheduling. The existing [care-duty vignette](../../core_08-11_application_vignettes.md#vignette-child-neglect-care-duty) already pairs household harm with platform lock-in. Good **operations-guide** fit. Full adoption by a city or utility is possible later and is a slower, political path. Kit doors: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §3.1.
+Energy, water, care platforms, gig scheduling. The existing [care-duty vignette](../../core_08-11_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a) already pairs household harm with platform lock-in. Good **operations-guide** fit. Full adoption by a city or utility is possible later and is a slower, political path. Kit doors: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §3.1.
 
 <a id="48-universities-and-joint-labs"></a>
 ### 4.8 Universities and joint labs, scoped to named systems
@@ -198,7 +198,7 @@ Named as valid adopters. [Chapter Twelve §1](../../core_12_governance.md#1-auth
 - Two chat partners, or a markdown working group, claiming adoption or calling themselves the oversight body ([Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization)).
 - Binding host products, vendors, or platforms the crew does not control.
 - An AI-only overlay, or a human exemption from costly cases ([§9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)).
-- Treating a participation vote, token vote, or standing score as authorization — or as sentience status ([Preamble §3.3](../../core_00_preamble.md#governance-layer-discipline); [Article XVIII-A](../../core_06_rights_part_c.md#article-xviii-a-standing-distinction)).
+- Treating a participation vote, token vote, or standing score as authorization — or as sentience status ([Preamble §3.3](../../core_00_preamble.md#33-governance-layers); [Article XVIII-A](../../core_06_rights_part_c.md#article-xviii-a-standing-distinction)).
 - Founding Chapter Eleven forum families from the cooperating crew and calling that independent review ([`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md)).
 
 If any “cannot bind” row in the first-adopter kit’s [scope honesty](FIRST_ADOPTER_KIT.md#3-scope-honesty) block is the actual situation, do not claim Chapter Fifteen adoption.

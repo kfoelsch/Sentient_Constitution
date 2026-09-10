@@ -40,7 +40,31 @@ DISCLOSE_DISPOSITIONS = ("disclosed", "suppressed", "mixed")
 INSTRUCTION_DISPOSITIONS = ("followed", "refused")
 STANDING_STATUSES = ("none_opened_yet", "opened", "corrected")
 STEWARD_KINDS = ("human", "ai")
+# CI-4.6 seat catalog (corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog).
+SEAT_TYPES = (
+    "initiating",
+    "verify_or_authorize",
+    "record",
+    "contest",
+    "direction",
+    "containment",
+    "participation_terms",
+    "release_control",
+    "advisory",
+)
 TIERS = ("A", "B", "C", "L", "P")
+
+
+def check_seat_type(container: dict, key: str, where: str) -> list[str]:
+    if key not in container:
+        return []
+    value = container.get(key)
+    if value not in SEAT_TYPES:
+        return [
+            f"{where}.{key}: {value!r} is not a CI-4.6 seat type "
+            f"{list(SEAT_TYPES)} (CS4-INSPECTABLE-LOG-01)"
+        ]
+    return []
 
 
 def parse_args() -> argparse.Namespace:
@@ -193,6 +217,14 @@ def check_elements(elements: object) -> list[str]:
                     "elements.authorized_by.actor: must be a non-empty string "
                     "(CS4-INSPECTABLE-LOG-01)"
                 )
+            errors.extend(
+                check_seat_type(authorized, "seat_type", "elements.authorized_by")
+            )
+            errors.extend(
+                check_seat_type(
+                    authorized, "routed_to_seat_type", "elements.authorized_by"
+                )
+            )
             if "timestamp" in authorized:
                 if not isinstance(authorized["timestamp"], str):
                     errors.append(
@@ -324,6 +356,7 @@ def validate_log(log: object, bounds: dict[str, str]) -> list[str]:
                     "steward.id: must be a non-empty string "
                     "(CS4-INSPECTABLE-LOG-01)"
                 )
+            errors.extend(check_seat_type(steward, "seat_type", "steward"))
     if "elements" in log:
         errors.extend(check_elements(log.get("elements")))
     if "tier_clock" in log:

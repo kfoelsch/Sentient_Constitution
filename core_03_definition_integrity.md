@@ -114,7 +114,7 @@ The following forms of evasion are prohibited:
   - swapping in measures, indicators, or descriptions that diverge from what the definition is about, while still claiming a pass
   - optimizing for a score or measure in ways that make the real-world result the definition requires worse
   - presenting records, artifacts, or evidence that materially misstate what the system actually does or whether it complies
-  - satisfying requirements in name, structure, or process without producing the real-world effect the definition requires (see also [§2.1.1](#formal-label-gaming-discipline))
+  - satisfying requirements in name, structure, or process without producing the real-world effect the definition requires (see also [§2.1.1](#211-formal-label-and-representation-gaming))
 - **Scope and boundary tricks** — arranging what gets counted, and when, so the hard parts never get tested:
   - narrowing evaluation or application to leave out system elements, effects, or conditions that matter
   - splitting responsibility across components, actors, or time so no one has to meet the definition for the whole system
@@ -122,7 +122,6 @@ The following forms of evasion are prohibited:
 - **Incentive traps** — building rewards, pressures, or dynamics that systematically push the system away from compliance:
   - creating conditions under which incentives, dynamics, or equilibria undermine compliance as a matter of course
 
-<a id="formal-label-gaming-discipline"></a>
 
 ##### 2.1.1 Formal Label and Representation Gaming
 

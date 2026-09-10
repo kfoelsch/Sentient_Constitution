@@ -19,37 +19,37 @@
     },
     "Preamble \u00a73.1": {
       "title": "Using Measurements in Governance",
-      "line": 72,
+      "line": 71,
       "file": "core_00_preamble.md"
     },
     "Preamble \u00a73.2": {
       "title": "Key Governance Processes",
-      "line": 80,
+      "line": 78,
       "file": "core_00_preamble.md"
     },
     "Preamble \u00a73.3": {
       "title": "Governance Layers",
-      "line": 91,
+      "line": 88,
       "file": "core_00_preamble.md"
     },
     "Preamble \u00a74": {
       "title": "Principles, Definitions, and Rights",
-      "line": 101,
+      "line": 98,
       "file": "core_00_preamble.md"
     },
     "Preamble \u00a75": {
       "title": "Key Practical Process Pipelines",
-      "line": 140,
+      "line": 137,
       "file": "core_00_preamble.md"
     },
     "Preamble \u00a76": {
       "title": "Governance, Change, and Incorporation",
-      "line": 192,
+      "line": 189,
       "file": "core_00_preamble.md"
     },
     "Preamble \u00a77": {
       "title": "Companion Implementation Corpus",
-      "line": 224,
+      "line": 221,
       "file": "core_00_preamble.md"
     },
     "1": {
@@ -139,42 +139,42 @@
     },
     "6.2": {
       "title": "Epistemic Disclosure Constraints",
-      "line": 266,
+      "line": 265,
       "file": "core_01_b_interaction_interpretation.md"
     },
     "6.3": {
       "title": "Minimization of Avoidable Burden",
-      "line": 434,
+      "line": 433,
       "file": "core_01_b_interaction_interpretation.md"
     },
     "7": {
       "title": "Prohibition on Absolute Override",
-      "line": 477,
+      "line": 476,
       "file": "core_01_b_interaction_interpretation.md"
     },
     "8": {
       "title": "Constitutional Interpretation",
-      "line": 511,
+      "line": 510,
       "file": "core_01_b_interaction_interpretation.md"
     },
     "8.1": {
       "title": "Constitutional No-Bypass Principle",
-      "line": 539,
+      "line": 537,
       "file": "core_01_b_interaction_interpretation.md"
     },
     "8.2": {
       "title": "Definitional layer and required disciplines",
-      "line": 555,
+      "line": 553,
       "file": "core_01_b_interaction_interpretation.md"
     },
     "8.3": {
       "title": "Ambiguity resolution",
-      "line": 577,
+      "line": 575,
       "file": "core_01_b_interaction_interpretation.md"
     },
     "8.4": {
       "title": "Constitutional Meaning Conflict Resolution",
-      "line": 600,
+      "line": 598,
       "file": "core_01_b_interaction_interpretation.md"
     },
     "9": {
@@ -335,7 +335,7 @@
       "title": "Cross-band: Role-definition preface and standing competency bar and clearance interface",
       "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
       "start_line": 41,
-      "end_line": 329,
+      "end_line": 330,
       "read_with": [],
       "direct_ch1_refs": [
         "10",
@@ -363,7 +363,7 @@
       "op_rules": [
         {
           "label": "Competency bar, clearance, and standing interface",
-          "line": 72,
+          "line": 73,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -374,7 +374,7 @@
         },
         {
           "label": "Role-definition reading rule",
-          "line": 89,
+          "line": 90,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -385,7 +385,7 @@
         },
         {
           "label": "Accountable role",
-          "line": 108,
+          "line": 109,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -396,7 +396,7 @@
         },
         {
           "label": "Authorized role",
-          "line": 125,
+          "line": 126,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -407,7 +407,7 @@
         },
         {
           "label": "Constitutional enforcement role",
-          "line": 142,
+          "line": 143,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -418,7 +418,7 @@
         },
         {
           "label": "Constitutional lane",
-          "line": 159,
+          "line": 160,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -429,7 +429,7 @@
         },
         {
           "label": "Critical system steward",
-          "line": 176,
+          "line": 177,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -440,7 +440,7 @@
         },
         {
           "label": "Delegated body and forum-role pointer",
-          "line": 193,
+          "line": 194,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -451,7 +451,7 @@
         },
         {
           "label": "Deposition facilitator or record-preserving testimony role",
-          "line": 210,
+          "line": 211,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -462,7 +462,7 @@
         },
         {
           "label": "Local enforcement role",
-          "line": 227,
+          "line": 228,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -473,7 +473,7 @@
         },
         {
           "label": "Material-operator role",
-          "line": 244,
+          "line": 245,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -484,7 +484,7 @@
         },
         {
           "label": "Operational enforcement role",
-          "line": 261,
+          "line": 262,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -495,7 +495,7 @@
         },
         {
           "label": "Oversight or support role",
-          "line": 278,
+          "line": 279,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -506,7 +506,7 @@
         },
         {
           "label": "Role holder",
-          "line": 295,
+          "line": 296,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -517,7 +517,7 @@
         },
         {
           "label": "Stewardship role",
-          "line": 312,
+          "line": 313,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -535,8 +535,8 @@
       "cluster_id": "CJS-3.1",
       "title": "Library: Constitutional compass and cluster map",
       "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
-      "start_line": 330,
-      "end_line": 409,
+      "start_line": 331,
+      "end_line": 410,
       "read_with": [],
       "direct_ch1_refs": [
         "11.1",
@@ -1820,7 +1820,7 @@
       "title": "Accountability: distributed and proportional authority terms",
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "start_line": 39,
-      "end_line": 402,
+      "end_line": 403,
       "read_with": [],
       "direct_ch1_refs": [
         "10",
@@ -1858,7 +1858,7 @@
       "op_rules": [
         {
           "label": "distributed and proportional authority terms",
-          "line": 83,
+          "line": 84,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1869,7 +1869,7 @@
         },
         {
           "label": "Market-concentration threshold activation",
-          "line": 131,
+          "line": 132,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1880,7 +1880,7 @@
         },
         {
           "label": "anti-domination conduct and remediation catalog",
-          "line": 177,
+          "line": 178,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1891,7 +1891,7 @@
         },
         {
           "label": "consolidation ceiling-setting discipline (adopter-tunable)",
-          "line": 232,
+          "line": 233,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1902,7 +1902,7 @@
         },
         {
           "label": "Authority distribution and anti-monopoly floor",
-          "line": 249,
+          "line": 250,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1913,7 +1913,7 @@
         },
         {
           "label": "Baseline governance accountability conditions",
-          "line": 266,
+          "line": 267,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1924,7 +1924,7 @@
         },
         {
           "label": "Classification-scaled governance burden",
-          "line": 283,
+          "line": 284,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1935,7 +1935,7 @@
         },
         {
           "label": "Constitutional lane and functional separation",
-          "line": 300,
+          "line": 301,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1946,7 +1946,7 @@
         },
         {
           "label": "Contextual and systemic evaluation discipline",
-          "line": 317,
+          "line": 318,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1957,7 +1957,7 @@
         },
         {
           "label": "Formation and authorization proportionality floor",
-          "line": 334,
+          "line": 335,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1968,7 +1968,7 @@
         },
         {
           "label": "Proportional oversight-intensity scaling",
-          "line": 351,
+          "line": 352,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1979,7 +1979,7 @@
         },
         {
           "label": "Representation and participation legitimacy controls",
-          "line": 368,
+          "line": 369,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1990,7 +1990,7 @@
         },
         {
           "label": "Stewardship-role depth and non-symbolic governance boundary",
-          "line": 385,
+          "line": 386,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2008,8 +2008,8 @@
       "cluster_id": "CJS-3.12",
       "title": "Accountability: burden-of-justification and constraint terms",
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
-      "start_line": 403,
-      "end_line": 653,
+      "start_line": 404,
+      "end_line": 654,
       "read_with": [],
       "direct_ch1_refs": [
         "11.1",
@@ -2039,7 +2039,7 @@
       "op_rules": [
         {
           "label": "burden-of-justification and constraint terms",
-          "line": 447,
+          "line": 448,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2050,7 +2050,7 @@
         },
         {
           "label": "Class-aligned revenue and access-burden floor",
-          "line": 466,
+          "line": 467,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2061,7 +2061,7 @@
         },
         {
           "label": "Collective-health and emergency support-bundle floor",
-          "line": 483,
+          "line": 484,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2072,7 +2072,7 @@
         },
         {
           "label": "Disclosure, audit, and challenge sufficiency",
-          "line": 500,
+          "line": 501,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2083,7 +2083,7 @@
         },
         {
           "label": "Incentive proof, residual misalignment, and scaling",
-          "line": 517,
+          "line": 518,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2094,7 +2094,7 @@
         },
         {
           "label": "Innovation-exclusivity anti-enclosure application",
-          "line": 534,
+          "line": 535,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2105,7 +2105,7 @@
         },
         {
           "label": "Mechanism-integrity and incentive-alignment floor",
-          "line": 551,
+          "line": 552,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2116,7 +2116,7 @@
         },
         {
           "label": "Restriction-burden assignment floor",
-          "line": 568,
+          "line": 569,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2127,7 +2127,7 @@
         },
         {
           "label": "Rights-collision and alternative-selection record",
-          "line": 585,
+          "line": 586,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2138,7 +2138,7 @@
         },
         {
           "label": "Substantive showing and least-restrictive proof",
-          "line": 602,
+          "line": 603,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2149,7 +2149,7 @@
         },
         {
           "label": "Survival-critical access and voluntary-market interface",
-          "line": 619,
+          "line": 620,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2160,7 +2160,7 @@
         },
         {
           "label": "Temporal discipline and revalidation",
-          "line": 636,
+          "line": 637,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2178,8 +2178,8 @@
       "cluster_id": "CJS-3.13",
       "title": "Accountability: procedural integrity and adjudication terms",
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
-      "start_line": 654,
-      "end_line": 933,
+      "start_line": 655,
+      "end_line": 934,
       "read_with": [],
       "direct_ch1_refs": [
         "10",
@@ -2210,7 +2210,7 @@
       "op_rules": [
         {
           "label": "procedural integrity and adjudication terms",
-          "line": 704,
+          "line": 705,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2221,7 +2221,7 @@
         },
         {
           "label": "Backup activation",
-          "line": 723,
+          "line": 724,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2232,7 +2232,7 @@
         },
         {
           "label": "Burden, proportionality, and enforcement selection",
-          "line": 740,
+          "line": 741,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2243,7 +2243,7 @@
         },
         {
           "label": "Delegated binding body",
-          "line": 757,
+          "line": 758,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2254,7 +2254,7 @@
         },
         {
           "label": "Deposition or preserved-testimony session",
-          "line": 774,
+          "line": 775,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2265,7 +2265,7 @@
         },
         {
           "label": "Due-process requirements",
-          "line": 791,
+          "line": 792,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2276,7 +2276,7 @@
         },
         {
           "label": "Lawful independent forum",
-          "line": 808,
+          "line": 809,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2287,7 +2287,7 @@
         },
         {
           "label": "Before representative treatment can proceed, the record must identify that shared practice clearly enough that affected parties can contest **who is covered** (scope), **whether representation is adequate**, and **whether sentient-specific exceptions** are required.",
-          "line": 833,
+          "line": 834,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2298,7 +2298,7 @@
         },
         {
           "label": "Restoration accessibility and remedy realism",
-          "line": 848,
+          "line": 849,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2309,7 +2309,7 @@
         },
         {
           "label": "Review independence and contestability",
-          "line": 865,
+          "line": 866,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2320,7 +2320,7 @@
         },
         {
           "label": "Sanction validity and restoration conditions",
-          "line": 882,
+          "line": 883,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2331,7 +2331,7 @@
         },
         {
           "label": "System-class and joint-read scaling",
-          "line": 899,
+          "line": 900,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2342,7 +2342,7 @@
         },
         {
           "label": "Uncertainty safeguards and anti-abuse floor",
-          "line": 916,
+          "line": 917,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2360,8 +2360,8 @@
       "cluster_id": "CJS-3.14",
       "title": "Accountability: intervention governance and override-authorization terms",
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
-      "start_line": 934,
-      "end_line": 1095,
+      "start_line": 935,
+      "end_line": 1096,
       "read_with": [],
       "direct_ch1_refs": [
         "11.1",
@@ -2384,7 +2384,7 @@
       "op_rules": [
         {
           "label": "intervention governance and override-authorization terms",
-          "line": 974,
+          "line": 975,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2395,7 +2395,7 @@
         },
         {
           "label": "Authorization and role-scope discipline",
-          "line": 993,
+          "line": 994,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2406,7 +2406,7 @@
         },
         {
           "label": "Emergency governance limits and anti-normalization control",
-          "line": 1010,
+          "line": 1011,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2417,7 +2417,7 @@
         },
         {
           "label": "Governance quorum and emergency-sequencing requirements",
-          "line": 1027,
+          "line": 1028,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2428,7 +2428,7 @@
         },
         {
           "label": "Joint necessity and technical-governance coupling floor",
-          "line": 1044,
+          "line": 1045,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2439,7 +2439,7 @@
         },
         {
           "label": "Proportional procedural scaling",
-          "line": 1061,
+          "line": 1062,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2450,7 +2450,7 @@
         },
         {
           "label": "Records, transparency, and challenge pathway duties",
-          "line": 1078,
+          "line": 1079,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2468,8 +2468,8 @@
       "cluster_id": "CJS-3.15",
       "title": "Accountability: structural review, correction urgency, and disclosure terms",
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
-      "start_line": 1096,
-      "end_line": 1278,
+      "start_line": 1097,
+      "end_line": 1279,
       "read_with": [],
       "direct_ch1_refs": [
         "12.1",
@@ -2492,7 +2492,7 @@
       "op_rules": [
         {
           "label": "structural review, correction urgency, and disclosure terms",
-          "line": 1137,
+          "line": 1138,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2503,7 +2503,7 @@
         },
         {
           "label": "Correction Urgency Level (CUL) discipline",
-          "line": 1154,
+          "line": 1155,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2514,7 +2514,7 @@
         },
         {
           "label": "Feedback integration and effectiveness verification",
-          "line": 1171,
+          "line": 1172,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2525,7 +2525,7 @@
         },
         {
           "label": "Use this sub-rule when a material **classification, typing, or status record** other systems, institutions, forums, or certification cycles rely on is incomplete, contested, understated, or evasive \u2014 including the [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional), the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional), and comparable owner-layer classification files. Domain anti-evasion lists and required fields stay with the owner file (**CS-2**, **CS-3**, and peers). How System Alignment Certification treats resulting defects lives under **Chapter Seven** and **[Part B \u00a716](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)**.",
-          "line": 1192,
+          "line": 1193,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2536,7 +2536,7 @@
         },
         {
           "label": "Realignment resistance and dissolution-review trigger floor",
-          "line": 1207,
+          "line": 1208,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2547,7 +2547,7 @@
         },
         {
           "label": "Stakeholder scope and targeted transparency",
-          "line": 1224,
+          "line": 1225,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2558,7 +2558,7 @@
         },
         {
           "label": "Structural records, risk-relevant data, and disclosure timing",
-          "line": 1241,
+          "line": 1242,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2569,7 +2569,7 @@
         },
         {
           "label": "Systemic-pattern detection and escalation",
-          "line": 1258,
+          "line": 1259,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,

@@ -75,7 +75,6 @@ Illustrative **Class A**, **Class B**, and **Class C** profiles — and how clas
 
 Rights floors this chapter helps verify are addressed in **§1.1**.
 
-<a id="12-rights-floors-this-chapter-helps-verify"></a>
 
 #### 1.1 Rights floors this chapter helps verify
 

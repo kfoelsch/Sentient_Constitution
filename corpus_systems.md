@@ -77,6 +77,7 @@
 | Stable family | Authoritative subfile |
 |---|---|
 | CS-5 — Design, testing, verification, and deployment | [cs_05_design_testing_verification_deployment.md](corpus_systems/cs_05_design_testing_verification_deployment.md) |
+| CS-5, Part A — User-facing capability surfaces | [cs_05_a_user_facing_capabilities.md](corpus_systems/cs_05_a_user_facing_capabilities.md) |
 | CS-6 — Comprehensibility and complexity stewardship | [cs_06_comprehensibility_complexity_stewardship.md](corpus_systems/cs_06_comprehensibility_complexity_stewardship.md) |
 | CS-7 — Justice safeguards, restitution, and rehabilitation | [cs_07_justice_safeguards_restitution_rehabilitation.md](corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md) |
 | CS-8 — Adaptive sustainability and ecosystem resilience | [cs_08_adaptive_sustainability_ecosystem_resilience.md](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) |

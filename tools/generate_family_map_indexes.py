@@ -97,6 +97,10 @@ def validate_map(root: Path, data: dict) -> list[str]:
         path = root / rel
         if not path.is_file():
             errors.append(f"cjs12 section {section}: missing {rel}")
+    for section, rel in data.get("cs_section_homes", {}).items():
+        path = root / rel
+        if not path.is_file():
+            errors.append(f"cs section {section}: missing {rel}")
     return errors
 
 

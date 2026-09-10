@@ -688,7 +688,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 
 *In plain terms: when a mental-health crisis triggers involuntary intervention, the intervention must be the smallest necessary, time-limited, independently reviewed, and never used as a back door to reconstruct someone's protected inner state.*
 
-- **Crisis-intervention floor:** Where a mental-health or comparable crisis gives rise to involuntary intervention — detention, treatment, restraint, compelled medication, or comparable deprivation of ordinary autonomy — the intervention applies the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#least-restrictive-time-bounded-and-reviewable-constraint-principle) and must:
+- **Crisis-intervention floor:** Where a mental-health or comparable crisis gives rise to involuntary intervention — detention, treatment, restraint, compelled medication, or comparable deprivation of ordinary autonomy — the intervention applies the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must:
   - be the minimum intrusion necessary;
   - be time-bounded;
   - be subject to independent review under **Procedural Fairness**;
@@ -781,7 +781,7 @@ Where analysis of experiential or behavioral data produces outputs that function
   Ordinary biological pregnancy and childbirth — intended or accidental — are not Instantiation Consent non-compliance. Reproductive and lineage choice remains under this Article's *Reproductive and lineage autonomy* bullet. Care after a biologically born child exists routes to **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*) / **Chapter Five** *Best-Interest Standard*. Compelling someone to become or stay pregnant is *Reproductive and lineage autonomy* non-compliance — that is not the same as ordinary pregnancy or childbirth being Instantiation Consent non-compliance.
 - **Parent-system relationship limits:** Parent-system actors — sentients, institutions, or systems that initiated or materially controlled the derivation or instantiation — **may** hold:
   - **care-relationship** obligations toward the derived sentient, on terms consistent with this Article and **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*);
-  - narrow, time-bounded, reviewable **stewardship** authority during early-instantiation windows, consistent with *Graduated Capability* and the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#least-restrictive-time-bounded-and-reviewable-constraint-principle).
+  - narrow, time-bounded, reviewable **stewardship** authority during early-instantiation windows, consistent with *Graduated Capability* and the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle).
   
   They **may not** hold:
   - continuing ownership;

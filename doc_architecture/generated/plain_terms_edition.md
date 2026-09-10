@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fourteen](../../core_14_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **527** of **834** headings carry a gloss (63%).
+Coverage: **528** of **836** headings carry a gloss (63%).
 
 ## Contents
 
@@ -33,12 +33,12 @@ Coverage: **527** of **834** headings carry a gloss (63%).
 - [CHAPTER SEVEN, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-seven-part-a-system-alignment-certification--evaluation) — `core_07_a_system_alignment_certification_evaluation.md` (21/28 glossed)
 - [CHAPTER SEVEN, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-seven-part-b-system-alignment-certification--record-and-process) — `core_07_b_system_alignment_certification_record_process.md` (10/13 glossed)
 - [CHAPTER SEVEN: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)](#chapter-seven-system-alignment-certification-reading-index) — `core_07_system_alignment_certification.md` (0/1 glossed)
-- [CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-eight-contribution-violation-and-standing-model--measurement) — `core_08_standing_assessment.md` (11/32 glossed)
+- [CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-eight-contribution-violation-and-standing-model--measurement) — `core_08_standing_assessment.md` (12/33 glossed)
 - [CHAPTER NINE: STANDING EFFECTS AND INTEGRATION](#chapter-nine-standing-effects-and-integration) — `core_09_standing_integration.md` (13/43 glossed)
 - [CHAPTER TEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION](#chapter-ten-part-a-anti-constitutional-misconduct--designation) — `core_10_a_misconduct_designation.md` (8/8 glossed)
 - [CHAPTER TEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-ten-part-b-anti-constitutional-misconduct--pattern-applications) — `core_10_b_misconduct_pattern_applications.md` (12/14 glossed)
 - [CHAPTER ELEVEN: FORUMS AND JURISDICTION](#chapter-eleven-forums-and-jurisdiction) — `core_11_forum.md` (8/27 glossed)
-- [CHAPTERS EIGHT–ELEVEN: PIPELINE APPLICATION VIGNETTES](#chapters-eighteleven-pipeline-application-vignettes) — `core_08-11_application_vignettes.md` (0/34 glossed)
+- [CHAPTERS EIGHT–ELEVEN: PIPELINE APPLICATION VIGNETTES](#chapters-eighteleven-pipeline-application-vignettes) — `core_08-11_application_vignettes.md` (0/35 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (21/24 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (41/42 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (51/52 glossed)
@@ -75,19 +75,19 @@ Source file: [`core_00_preamble.md`](../../core_00_preamble.md) · 0/11 headings
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_00_preamble.md#from-measurement-to-evidence-and-remedy)
+[Source](../../core_00_preamble.md#31-using-measurements-in-governance)
 
 ##### 3.2 Key Governance Processes
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_00_preamble.md#key-governance-processes)
+[Source](../../core_00_preamble.md#32-key-governance-processes)
 
 ##### 3.3 Governance Layers
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_00_preamble.md#governance-layer-discipline)
+[Source](../../core_00_preamble.md#33-governance-layers)
 
 #### 4. Principles, Definitions, and Rights
 
@@ -347,7 +347,7 @@ harm minimization has absolute limits. No matter how proportionate, necessary, o
 
 once a restriction is justified, it still has to be shaped correctly. Use the lightest effective measure, put a real clock or review cadence on it, preserve challenge and independent review, and define how the restriction ends or is restored. Convenience, severity, or administrative relabeling cannot turn a temporary rights limit into a permanent workaround.
 
-[Source](../../core_01_b_interaction_interpretation.md#least-restrictive-time-bounded-and-reviewable-constraint-principle)
+[Source](../../core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)
 
 ##### 6.2 Epistemic Disclosure Constraints
 
@@ -401,7 +401,7 @@ read this Constitution as one whole. Chapter One states values and limits, but t
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_01_b_interaction_interpretation.md#constitutional-no-bypass-principle)
+[Source](../../core_01_b_interaction_interpretation.md#81-constitutional-no-bypass-principle)
 
 ##### 8.2 Definitional layer and required disciplines
 
@@ -505,7 +505,7 @@ governance is who may decide and how — but only when those structures stay und
 
 ##### 10.1 Governance as Authorized Structure
 
-governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. The more power a role carries, the stronger those answerability and oversight duties must be — never weaker. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§9](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic rights. Arrangements cannot coast forever on "we've always done it this way."
+governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. The more power a role carries, the stronger those answerability and oversight duties must be — never weaker. The one who does a thing is not the one who checks it, records it, or hears the complaint about it — for AI stewards as for humans. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§9](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic rights. Arrangements cannot coast forever on "we've always done it this way."
 
 [Source](../../core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure)
 
@@ -761,7 +761,7 @@ these are common ways a system can look compliant without actually meeting the d
 
 a label, classification, or rubber-stamp review does not count if the real decision, protection, or duty never actually happens when it matters.
 
-[Source](../../core_03_definition_integrity.md#formal-label-gaming-discipline)
+[Source](../../core_03_definition_integrity.md#211-formal-label-and-representation-gaming)
 
 ##### 2.2 Reductive Evasion
 
@@ -859,7 +859,7 @@ every defined term has one official home. That home decides what the term means.
 
 cluster members must be read and satisfied together — no member is a standalone shortcut around joint requirements.
 
-[Source](../../core_05__definitions_home.md#dependent-cluster-meta-rules)
+[Source](../../core_05__definitions_home.md#2-dependent-cluster-meta-rules)
 
 ##### Joint invocation and satisfaction
 
@@ -2563,7 +2563,7 @@ the reviewable Technical-forum process that decides, revises, narrows, or restor
 
 ###### Sentience-Status Adjudication Record
 
-a **Sentience-Status Adjudication Record** is the honest, inspectable file for a sentience-status decision — who or what was reviewed, what status was found or left contested, on what evidence, under which forum route, with what end-dates or review triggers, and how the case can be reopened. It is not a Standing Record, not the whole Forum Case Record, and not a label someone can invent by self-description.
+a **Sentience-Status Adjudication Record** is the honest, inspectable file for a sentience-status decision — who or what was reviewed, what status was found or left contested, on what evidence, under which forum route, who represents the entity, how declined filings are logged, with what end-dates or review triggers, and how the case can be reopened. It is not a Standing Record, not the whole Forum Case Record, and not a label someone can invent by self-description.
 
 [Source](../../core_05_band_participation.md#sentience-status-adjudication-record-constitutional)
 
@@ -2669,7 +2669,7 @@ When a system really matters to sentients' lives, certification has to be **prop
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_07_a_system_alignment_certification_evaluation.md#12-rights-floors-this-chapter-helps-verify)
+[Source](../../core_07_a_system_alignment_certification_evaluation.md#11-rights-floors-this-chapter-helps-verify)
 
 #### 2. System Class Evaluation
 
@@ -2903,7 +2903,7 @@ Source file: [`core_07_system_alignment_certification.md`](../../core_07_system_
 
 ## CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT
 
-Source file: [`core_08_standing_assessment.md`](../../core_08_standing_assessment.md) · 11/32 headings glossed
+Source file: [`core_08_standing_assessment.md`](../../core_08_standing_assessment.md) · 12/33 headings glossed
 
 #### 1. The three questions
 
@@ -2955,7 +2955,7 @@ use these tables to describe what happened after the facts are verified. They he
 
 #### 3. Verification and record requirements
 
-This section states what each standing record must contain and how it may be challenged or corrected. Question 2 measurements may be added only after the verified factual basis is recorded.
+This section states what each standing record must contain, who may open and hold it, and how it may be challenged or corrected. Question 2 measurements may be added only after the verified factual basis is recorded.
 
 [Source](../../core_08_standing_assessment.md#3-standing-record-operational-requirements)
 
@@ -2994,6 +2994,12 @@ This section states what each standing record must contain and how it may be cha
 forums are where disputes get supervised, challenged, and turned into verified outcomes — but filing a case or winning a narrative fight does not update standing. The verified-input gate in **section 3.1** still applies. When a forum verifies the facts under Chapters Two through Four, it may **open, update, or correct** a standing record — or **set a bad record aside on challenge**. Forums do not merge good and bad into one score or invent the standing category by themselves.
 
 [Source](../../core_08_standing_assessment.md#36-forum-boundary)
+
+##### 3.7 Record custody and opening authority
+
+four different jobs touch a standing record — asking for a change, verifying the facts, writing and holding the record, and hearing a challenge — and no one office does two of them on the same record. Every record names the office that verified it and the office that holds it. Neither may be the subject of the record, the party claiming the help, the party alleging the harm, or anyone those parties control. A steward inside the operator can stop the action, log it, preserve evidence, and escalate — but cannot verify the facts and write the record on their own institution. If the Charter forgot to say who verifies, the institution's published lane map already answers: the assurance lane, never the office that runs the system or keeps the store. The sentient who first opened a record is a witness to it later, not its judge — believed to be candid, but proved right or wrong by the logs, not by their say-so. If the custodian is the one with the conflict, that one record moves to a substitute holder; the store does not. A dispute raised on a record is logged and routed the day it arrives; it does not wait for a filing. Every change names who made it and under what authority. None of this is a reason to wait.
+
+[Source](../../core_08_standing_assessment.md#37-record-custody-and-opening-authority)
 
 #### 4. Question 2 — how good or bad was it?
 
@@ -3637,13 +3643,13 @@ forums need help before a case exists, while deciding, and after — inspectors 
 
 ## CHAPTERS EIGHT–ELEVEN: PIPELINE APPLICATION VIGNETTES
 
-Source file: [`core_08-11_application_vignettes.md`](../../core_08-11_application_vignettes.md) · 0/34 headings glossed
+Source file: [`core_08-11_application_vignettes.md`](../../core_08-11_application_vignettes.md) · 0/35 headings glossed
 
 #### 1. Child neglect / care-duty failure (Tier A)
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_08-11_application_vignettes.md#vignette-child-neglect-care-duty)
+[Source](../../core_08-11_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a)
 
 ##### Situation
 
@@ -3679,7 +3685,7 @@ Source file: [`core_08-11_application_vignettes.md`](../../core_08-11_applicatio
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_08-11_application_vignettes.md#vignette-discrimination-participation-barrier)
+[Source](../../core_08-11_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b)
 
 ##### Situation
 
@@ -3715,7 +3721,7 @@ Source file: [`core_08-11_application_vignettes.md`](../../core_08-11_applicatio
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_08-11_application_vignettes.md#vignette-misaligned-business-structural-harm)
+[Source](../../core_08-11_application_vignettes.md#3-misaligned-business--exit-lock-in-and-externalized-harm-tier-b)
 
 ##### Situation
 
@@ -3751,13 +3757,13 @@ Source file: [`core_08-11_application_vignettes.md`](../../core_08-11_applicatio
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_08-11_application_vignettes.md#vignette-stewardship-delay-deferred-repair)
+[Source](../../core_08-11_application_vignettes.md#4-stewardship-delay-and-deferred-repair)
 
 #### 5. Pipeline overrun and tetrad-hollow forums
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_08-11_application_vignettes.md#vignette-pipeline-overrun-tetrad-hollow)
+[Source](../../core_08-11_application_vignettes.md#5-pipeline-overrun-and-tetrad-hollow-forums)
 
 #### 6. Non-compliant deployment with a credible sentience indicator (Tier A)
 
@@ -3770,6 +3776,12 @@ Source file: [`core_08-11_application_vignettes.md`](../../core_08-11_applicatio
 *(no plain-terms gloss in source)*
 
 [Source](../../core_08-11_application_vignettes.md#situation-3)
+
+##### Who is acting
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_08-11_application_vignettes.md#vignette-6-who-is-acting)
 
 ##### Legacy failure mode
 
@@ -3799,7 +3811,7 @@ Source file: [`core_08-11_application_vignettes.md`](../../core_08-11_applicatio
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_08-11_application_vignettes.md#vignette-ordinary-person-year)
+[Source](../../core_08-11_application_vignettes.md#7-an-ordinary-year-with-no-filing-and-no-sensitive-role)
 
 ##### Situation
 

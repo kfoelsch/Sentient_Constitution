@@ -47,7 +47,7 @@ Failing to invoke or correctly apply any materially required Independent Definit
 
 When an Independent Definition is invoked, it must be satisfied in full across its O, M, A, and C components. That satisfaction must be consistent with the Requirements for Definition Structure (Chapter Two, §1 — Purpose and Role). Partial satisfaction or selective application is non-compliant.
 
-Independent and Semi-independent definitions do not require joint satisfaction with other definitions unless a Dependent-cluster definition explicitly requires it ([section 2 — Dependent-cluster meta rules](#dependent-cluster-meta-rules)). They must still be applied consistently with all applicable definitions under shared functional system scope, evaluation conditions, and temporal context. Chapter Three, sections 1 and 2 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — require that consistency.
+Independent and Semi-independent definitions do not require joint satisfaction with other definitions unless a Dependent-cluster definition explicitly requires it ([section 2 — Dependent-cluster meta rules](#2-dependent-cluster-meta-rules)). They must still be applied consistently with all applicable definitions under shared functional system scope, evaluation conditions, and temporal context. Chapter Three, sections 1 and 2 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — require that consistency.
 
 Selective invocation, omission of materially relevant definitions, and application that alters, weakens, or bypasses compliance determination are evasion. Chapter Three, sections 1 and 2 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — govern that conduct.
 
@@ -55,7 +55,6 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 ---
 
-<a id="dependent-cluster-meta-rules"></a>
 
 ### 2. Dependent-cluster meta rules
 
@@ -86,7 +85,7 @@ Calling a definition Independent or Semi-independent does not let it skip cluste
 
 > This directory is **reader guidance only**. It does not add, remove, reorder, or narrow binding obligations in this chapter. Operative meaning remains in the definition entries below.
 
-This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each visible Chapter Five definition label appears once, and each numbered cluster heading appears once. Links use stable anchors only for navigation; they do not create routing rules, pointer entries, alternate homes, or stub definitions. Joint-satisfaction rules for dependent clusters are stated under [section 2 — Dependent-cluster meta rules](#dependent-cluster-meta-rules) above.
+This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each visible Chapter Five definition label appears once, and each numbered cluster heading appears once. Links use stable anchors only for navigation; they do not create routing rules, pointer entries, alternate homes, or stub definitions. Joint-satisfaction rules for dependent clusters are stated under [section 2 — Dependent-cluster meta rules](#2-dependent-cluster-meta-rules) above.
 
 <a id="independent-definitions-a-z"></a>
 <a id="semi-independent-definitions-a-z"></a>

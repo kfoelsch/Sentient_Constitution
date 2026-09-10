@@ -79,6 +79,7 @@ CS_CHAIN = tuple(
         "cs_03_b_system_impact_classifications.md",
         "cs_04_critical_system_stewardship.md",
         "cs_05_design_testing_verification_deployment.md",
+        "cs_05_a_user_facing_capabilities.md",
         "cs_06_comprehensibility_complexity_stewardship.md",
         "cs_07_justice_safeguards_restitution_rehabilitation.md",
         "cs_08_adaptive_sustainability_ecosystem_resilience.md",

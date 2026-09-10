@@ -79,6 +79,7 @@ Full router: [corpus_joint_structure/cjs_00_registry_and_reading_rules.md](../co
 | CJS-R20 | Remedy parity and lock-to-remedy capacity | [**CI-27**](../corpus_institutions/ci_27_remedy_systems_institutional_redress_ca |
 | CJS-R21 | Capacity-failure routing | [**CF-5**](../corpus_forum/cf_05_routing_operations_transfer_certification_repre |
 | CJS-R22 | Standing-record custody, opening authority, and segregation of duties | [**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_power |
+| CJS-R23 | Seat types, local role maps, and wrong-seat routing | [**CI-4**](../corpus_institutions/ci_04_appointment_competency_rotation_removal. |
 
 ## Chapter Six articles
 

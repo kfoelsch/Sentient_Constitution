@@ -147,7 +147,7 @@ These type letters name different kinds of data and how they are usually shared 
 - provide **performative summaries** while withholding information necessary for meaningful qualified audit
 - use **complexity, opacity, or format fragmentation** to defeat auditability (contrary to **CJS-3.8** (*comprehensibility and cognitive accessibility terms*), **CJS-3.10** (*disclosure sufficiency and observability terms*), and **CJS-3.3** (*auditability and reconstructability terms*))
 
-<a id="type-o-open-public-baseline-disclosure-data"></a>
+<a id="83-type-o-open-public-oversight-baseline-disclosure-data"></a>
 ### 8.3 Type O: Open public oversight baseline disclosure data
 
 **Accessibility posture:** Open / accessible by default (strong presumption for Public Oversight Baseline Disclosure release) ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#cs-2-8-data-classifications)).

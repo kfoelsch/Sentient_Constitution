@@ -160,7 +160,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 
 *In plain terms: use the lightest effective measure, set a clock on it, build in review and restoration, and never let "severity" or "convenience" erase dignity or appeal rights. Killing is never allowed; imprisonment is required for violent sentients under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and for verified anti-constitutional misconduct under **Chapter Ten** §4.1 when lesser measures will not keep others safe.*
 
-- **Justice application of the constraint principle:** Justice, containment, and restorative-accountability measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#least-restrictive-time-bounded-and-reviewable-constraint-principle). Where intervention is required, each measure must include:
+- **Justice application of the constraint principle:** Justice, containment, and restorative-accountability measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle). Where intervention is required, each measure must include:
   - explicit duration limits;
   - review cadence;
   - restoration conditions.
@@ -210,7 +210,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <a id="operative-steward-statement-emergency"></a>
 > **Operative steward statement.** **Owner:** Article XXIII-D, including restore-challenge clocks. **Forbidden move:** Do not skip notice and challenge permanently. Do not stretch feasible. Do not normalize emergency into ordinary governance. Do not block a documented Tier A deferral in order to insist on full notice before containment. **Clock:** Contain now. Restore notice and challenge inside the Tier A one-week outer bound unless a documented lower-urgency showing is recorded. Continuation past that bound needs a documented necessity showing.
 
-- **Emergency application of the constraint principle:** Emergency measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#least-restrictive-time-bounded-and-reviewable-constraint-principle) under imminent-harm conditions. Temporary measures to prevent imminent harm must be:
+- **Emergency application of the constraint principle:** Emergency measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) under imminent-harm conditions. Temporary measures to prevent imminent harm must be:
   - time-limited;
   - documented;
   - consistent with **Articles V**, **XX**, and **Chapter One** constraints.
@@ -219,7 +219,7 @@ Adopted governance implementation provides escalation, proportionality of interv
   - a default expiry;
   - a predefined independent review cadence;
   - explicit restoration and rollback conditions.
-- **Anti-pretext and no-bypass:** Emergency designation is governed by the [**Constitutional No-Bypass Principle**](core_01_b_interaction_interpretation.md#constitutional-no-bypass-principle) and must not rest on:
+- **Anti-pretext and no-bypass:** Emergency designation is governed by the [**Constitutional No-Bypass Principle**](core_01_b_interaction_interpretation.md#81-constitutional-no-bypass-principle) and must not rest on:
   - operator convenience;
   - self-created urgency;
   - avoidance of ordinary constitutional scrutiny;
@@ -305,7 +305,7 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
   - harms caused;
   - rollback or restoration performance;
   - lessons for recurrence reduction.
-- **Disclosure:** Public or stakeholder-facing disclosure is required, subject to the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#least-restrictive-time-bounded-and-reviewable-constraint-principle) for narrow, justified, and time-bounded confidentiality exceptions.
+- **Disclosure:** Public or stakeholder-facing disclosure is required, subject to the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) for narrow, justified, and time-bounded confidentiality exceptions.
   - Each exception must identify:
     - its justification;
     - protected scope;
@@ -332,7 +332,7 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
 
 *In plain terms: rights conflicts must be resolved on the record; restoration is preferred where appropriate but must not replace real protection. Voluntary public apology rules are governed by **Chapter Nine** §4.3 generally, and by **Chapter Ten** §4.3 for verified anti-constitutional misconduct.*
 
-- **Rights-collision procedure:** Where rights conflicts are material, forums and governing bodies must apply **Chapter One §6.3.1** (*Rights-Collision Decision Test*), including the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#least-restrictive-time-bounded-and-reviewable-constraint-principle).
+- **Rights-collision procedure:** Where rights conflicts are material, forums and governing bodies must apply **Chapter One §6.3.1** (*Rights-Collision Decision Test*), including the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle).
   - Records must explicitly identify:
     - rights in tension;
     - rejected alternatives;
@@ -459,7 +459,7 @@ Governance rules, participation mechanisms, weighting models, and funding struct
   - public reasons;
   - expected effects;
   - compatibility with **Chapters Thirteen through Fifteen** where applicable.
-- **Anti-bypass:** Under the [**Constitutional No-Bypass Principle**](core_01_b_interaction_interpretation.md#constitutional-no-bypass-principle), changes must not be used to bypass **Rights-Floor minimums** or the rules for lawfully changing the Constitution by routing substantive change through emergency, implementation, or custody mechanisms — including:
+- **Anti-bypass:** Under the [**Constitutional No-Bypass Principle**](core_01_b_interaction_interpretation.md#81-constitutional-no-bypass-principle), changes must not be used to bypass **Rights-Floor minimums** or the rules for lawfully changing the Constitution by routing substantive change through emergency, implementation, or custody mechanisms — including:
   - **Articles V** (*Equal Basic Rights*) and **VI** (*Right to Sentient-Centered Education*);
   - equality guarantees in **Articles V-B** (*Nondiscrimination*) and **III-B** (*Equal Educational Access*);
   - amendment and ratification rules under **Chapters Thirteen through Fifteen** where applicable.
@@ -482,7 +482,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Accountability:** those running transition must answer for using it as cover — self-created delay, convenience shortcuts, pretextual enforcement, governance vacuum, lock-in after failed milestones, or quietly lowering constitutional floors through implementation misalignment.
 - **Timeliness:** interim powers carry real expiry dates; the longer they run and the more rights they touch, the harder reauthorization must be; and stalled transitions need lawful off-ramps before temporary limbo hardens into the new normal.
 
-Transition from legacy to constitutional operation must be phased, rights-preserving, time-bounded, and reviewable. Progress is measured by shrinking transitional authority and increasingly functional constitutional institutions and processes — not by elapsed time, transition paperwork, or interim headcount alone. Transition measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#least-restrictive-time-bounded-and-reviewable-constraint-principle) and the [**Constitutional No-Bypass Principle**](core_01_b_interaction_interpretation.md#constitutional-no-bypass-principle) where interim authority, remediation, deprivation, custody transfer, or comparable restriction is used.
+Transition from legacy to constitutional operation must be phased, rights-preserving, time-bounded, and reviewable. Progress is measured by shrinking transitional authority and increasingly functional constitutional institutions and processes — not by elapsed time, transition paperwork, or interim headcount alone. Transition measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) and the [**Constitutional No-Bypass Principle**](core_01_b_interaction_interpretation.md#81-constitutional-no-bypass-principle) where interim authority, remediation, deprivation, custody transfer, or comparable restriction is used.
 
 Transitional governance exists to secure continuity and non-regression. It must **not** create durable exception authority, de facto constitutional amendment, or practical lowering of the constitutional floor through implementation misalignment. **Articles XXVI-A** through **XXVI-D** state the operative phased-adoption, authority-limit, failure off-ramp, and transition-scoped remediation floors.
 
@@ -547,7 +547,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 
 *In plain terms: temporary authority really is temporary — and a transition that is going well shows it. You should see interim powers shrinking phase by phase while constitutional forums, rights processes, and ordinary governance machinery work better and take on more of the load. Extending temporary authority requires real reasons — and the longer it runs, the higher the bar.*
 
-- **Transitional authority limits:** Interim authorities must implement the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#least-restrictive-time-bounded-and-reviewable-constraint-principle) and must be:
+- **Transitional authority limits:** Interim authorities must implement the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must be:
   - explicitly scoped;
   - sunset-bounded;
   - independently reviewable.
@@ -620,7 +620,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 
 - **Possession floor:** If you lawfully own or use something, transition cannot take it from you on a whim. But ownership is not a shield when letting that asset keep running clearly keeps a known, large-scale constitutional violation going — after [Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) has documented the violation on the record. In that case, transition may still act to stop the harm, but only through the safeguards in this Article and **CI-14.1** through **CI-14.3**.
 - **Transition-scoped remediation:** A **documented transition plan** under **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) may authorize accelerated remediation of **materially non-compliant** systems or property during transition only. Operative scope, permitted measures, and institutional procedure are governed by [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) through **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*Transitional governance and institutional evolution*), read with **CJS-3.6** (*property-custody and incentive-separation control chain*) and **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) where applicable.
-- **Required safeguards:** Any transition-scoped deprivation or incentive program must satisfy the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#least-restrictive-time-bounded-and-reviewable-constraint-principle), with demonstrable **Necessity** and **Proportionality**; prompt notice, stated reasons, and a practicable contest path; and safeguards against **discriminatory**, **pretextual**, or **selective** enforcement under **Articles V-B** and **IV-B** and [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
+- **Required safeguards:** Any transition-scoped deprivation or incentive program must satisfy the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle), with demonstrable **Necessity** and **Proportionality**; prompt notice, stated reasons, and a practicable contest path; and safeguards against **discriminatory**, **pretextual**, or **selective** enforcement under **Articles V-B** and **IV-B** and [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
 - **Restrictive-effect rule:** A deprivation or restriction whose primary effect exceeds remediation, restitution, preservation, or forward protection triggers **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*).
 - **Destructive disposition floor:** Transition may quarantine or hold property to stop harm — but taking something away for good, destroying it, or wiping out a sentient's economic stake is a much higher bar. It requires stronger documented reasons, review by someone independent of the enforcement decision, and fair compensation or replacement protections for sentients who were not at fault but still lose out. Where the property is a system for which a credible sentience indicator is on the record or a status case is open under **Article V-E** (*Sentience-Status Adjudication Floor*), destructive disposition of its state-bearing components is not available; the **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) preservation default controls and the compatible measure is containment under sealed custody.
 - **Essential-access guardrail:** Measures under this Article must **not** deprive sentients of **Article III-A** (*Survival*) essentials or tools strictly required for baseline wellbeing, lawful livelihood, or meaningful agency — except where **Necessity** is documented under **Chapter One §6.3** and timely substitute provision is feasible where required.

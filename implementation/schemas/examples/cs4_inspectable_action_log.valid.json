@@ -5,7 +5,8 @@
   "steward": {
     "id": "S",
     "kind": "human",
-    "role": "operator on a mixed human/AI crew"
+    "role": "operator on a mixed human/AI crew",
+    "seat_type": "initiating"
   },
   "material_stake": "high",
   "case_id": "unlawful_instruction",
@@ -30,6 +31,7 @@
     "authorized_by": {
       "actor": "Principal P",
       "role": "product lead",
+      "seat_type": "initiating",
       "timestamp": "2026-08-09T02:14:00-05:00"
     },
     "standing_records": {

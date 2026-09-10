@@ -35,6 +35,12 @@
     "Self-healing and recovery-path integrity": "Test, verify, and deploy self-healing as a designed path — not an emergent one — without masking the fault that triggered it.",
     "Recertification, regression testing, and certification defects": "Every recertification must rerun regression coverage so previously verified behavior still holds, or the break is on the record."
   },
+  "cs_05_a_user_facing_capabilities.md": {
+    "Purpose and role": "this file names the reachable surfaces an in-scope system must expose, then points at the homes that already own the rules; it does not invent apps.",
+    "In-scope catalog": "for each reachable act, open the owner named here — this table does not restate those rules.",
+    "Analog, digital, and channel class": "paper, hearing, notice, or manual continuity can satisfy unless the owner already requires a digital or machine-usable channel — and digital self-service must not make exit harder than the channel that was actually used.",
+    "What this file does not own": "standing, forum dockets, voting, and remedy stay where they already live; do not build a portal that quietly opens a standing record or pretends to be a second forms book."
+  },
   "cs_12_decentralized_continuity_partition_resilience.md": {
     "Continuity modes and Rights-Floor invariants": "Four named operating modes — Normal, Degraded-Partitioned, Offline-Sovereign, and Rejoin-Reconciliation — and the protections that hold in every one of them.",
     "Local-first governance execution under disconnection": "When wide-area coordination is unavailable, the constitutional minimums must still run locally rather than stopping.",

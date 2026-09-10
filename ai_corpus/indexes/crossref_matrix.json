@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-10T11:59:45+00:00",
+  "generated_at": "2026-09-10T17:15:54+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -254,6 +254,10 @@
       },
       {
         "id": "corpus_systems/cs_04_critical_system_stewardship.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_systems/cs_05_a_user_facing_capabilities.md",
         "type": "companion"
       },
       {
@@ -2596,7 +2600,7 @@
             "file": "core_03_definition_integrity.md",
             "count": 1,
             "anchors": [
-              "#formal-label-gaming-discipline"
+              "#211-formal-label-and-representation-gaming"
             ]
           },
           {
@@ -3162,8 +3166,8 @@
             "file": "core_00_preamble.md",
             "count": 12,
             "anchors": [
+              "#33-governance-layers",
               "#constitutional-tetrad",
-              "#governance-layer-discipline",
               "#material-stake",
               "#two-constitutional-aims"
             ]
@@ -3219,9 +3223,9 @@
             "file": "core_03_definition_integrity.md",
             "count": 5,
             "anchors": [
+              "#211-formal-label-and-representation-gaming",
               "#3-non-compliance-finding-profiles",
-              "#chapter-three-definition-integrity-evasion-and-non-compliance",
-              "#formal-label-gaming-discipline"
+              "#chapter-three-definition-integrity-evasion-and-non-compliance"
             ]
           },
           {
@@ -3623,10 +3627,10 @@
             "count": 28,
             "anchors": [
               "#2-the-measurements",
+              "#33-governance-layers",
               "#4-principles-definitions-and-rights",
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
-              "#governance-layer-discipline",
               "#material-stake",
               "#two-constitutional-aims"
             ]
@@ -4017,7 +4021,7 @@
           },
           {
             "file": "core_12_governance.md",
-            "count": 7,
+            "count": 9,
             "anchors": [
               "#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate",
               "#43-decision-resolution-requirements-for-binding-collective-choice"
@@ -4074,11 +4078,11 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 21,
+            "count": 22,
             "anchors": [
+              "#33-governance-layers",
               "#4-principles-definitions-and-rights",
               "#constitutional-tetrad",
-              "#governance-layer-discipline",
               "#material-stake",
               "#two-constitutional-aims"
             ]
@@ -4550,7 +4554,7 @@
             "file": "corpus_systems/cs_02_b_data_classifications.md",
             "count": 1,
             "anchors": [
-              "#type-o-open-public-baseline-disclosure-data"
+              "#83-type-o-open-public-oversight-baseline-disclosure-data"
             ]
           },
           {
@@ -4567,9 +4571,9 @@
             "file": "core_00_preamble.md",
             "count": 9,
             "anchors": [
+              "#33-governance-layers",
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
-              "#governance-layer-discipline",
               "#two-constitutional-aims"
             ]
           },
@@ -4608,7 +4612,7 @@
             "file": "core_03_definition_integrity.md",
             "count": 2,
             "anchors": [
-              "#formal-label-gaming-discipline"
+              "#211-formal-label-and-representation-gaming"
             ]
           },
           {
@@ -5498,6 +5502,13 @@
             "anchors": []
           },
           {
+            "file": "core_04_burden_traceability_verification.md",
+            "count": 2,
+            "anchors": [
+              "#5-compliance-evidence-standard"
+            ]
+          },
+          {
             "file": "core_05__definitions_home.md",
             "count": 2,
             "anchors": [
@@ -5513,12 +5524,13 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 20,
+            "count": 24,
             "anchors": [
               "#contestability",
               "#contribution-nature",
               "#cruelty",
               "#forum-case-record",
+              "#good-faith",
               "#harm",
               "#harm-a",
               "#harm-c",
@@ -5547,7 +5559,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 13,
+            "count": 14,
             "anchors": [
               "#auditability",
               "#evidence-preservation",
@@ -5582,7 +5594,7 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 6,
+            "count": 8,
             "anchors": [
               "#article-xii-b-right-to-challenge-review-and-redress",
               "#article-xiv-b-transparency-auditability-and-contestability",
@@ -5593,7 +5605,7 @@
           },
           {
             "file": "core_06_rights_part_d.md",
-            "count": 9,
+            "count": 10,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
               "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
@@ -5655,7 +5667,7 @@
           },
           {
             "file": "core_11_forum.md",
-            "count": 8,
+            "count": 11,
             "anchors": [
               "#21-lead-default-limits",
               "#23-forum-records-standing-records-and-contests",
@@ -6297,8 +6309,8 @@
             "count": 9,
             "anchors": [
               "#2-the-measurements",
+              "#31-using-measurements-in-governance",
               "#constitutional-tetrad",
-              "#from-measurement-to-evidence-and-remedy",
               "#material-stake",
               "#two-constitutional-aims"
             ]
@@ -6438,11 +6450,12 @@
           },
           {
             "file": "core_08_standing_assessment.md",
-            "count": 20,
+            "count": 21,
             "anchors": [
               "#2-standing-records",
               "#3-standing-record-operational-requirements",
               "#36-forum-boundary",
+              "#37-challenge-received-on-the-record",
               "#4-standing-measurement-evaluation-dimensions",
               "#43-route-descriptor-measurement-roles",
               "#5-slot-grammar-and-display-labels",
@@ -7034,13 +7047,13 @@
               "#61-core-tradeoff-principles",
               "#611-necessity",
               "#613-proportionality",
+              "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
               "#615-rights-collision-decision-test",
               "#62-epistemic-disclosure-constraints",
               "#621-preservation-of-epistemic-integrity",
               "#63-minimization-of-avoidable-burden",
               "#8-constitutional-interpretation",
               "#anti-degrading-process-principle",
-              "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
               "#rightsfloor-minimums-principle"
             ]
           },
@@ -7411,10 +7424,10 @@
               "#61-core-tradeoff-principles",
               "#611-necessity",
               "#613-proportionality",
+              "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
               "#615-rights-collision-decision-test",
               "#62-epistemic-disclosure-constraints",
-              "#63-minimization-of-avoidable-burden",
-              "#least-restrictive-time-bounded-and-reviewable-constraint-principle"
+              "#63-minimization-of-avoidable-burden"
             ]
           },
           {
@@ -7808,14 +7821,14 @@
             "anchors": [
               "#6-process-conflict-resolution",
               "#61-core-tradeoff-principles",
+              "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
               "#615-rights-collision-decision-test",
               "#62-epistemic-disclosure-constraints",
               "#63-minimization-of-avoidable-burden",
               "#8-constitutional-interpretation",
+              "#81-constitutional-no-bypass-principle",
               "#anti-degrading-process-principle",
-              "#constitutional-no-bypass-principle",
               "#default-interim-posture",
-              "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
               "#rightsfloor-minimums-principle"
             ]
           },
@@ -8065,8 +8078,9 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
+              "#101-segregation-of-duties",
               "#121-productive-capacity-instrumental-good",
               "#9-stewardship-and-distributed-understanding",
               "#911-shared-stewardship-standard",
@@ -8866,6 +8880,11 @@
             "anchors": []
           },
           {
+            "file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
             "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
             "count": 1,
             "anchors": []
@@ -9524,12 +9543,12 @@
           },
           {
             "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
-            "count": 4,
+            "count": 5,
             "anchors": []
           },
           {
             "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-            "count": 2,
+            "count": 3,
             "anchors": []
           },
           {
@@ -9657,9 +9676,9 @@
             "file": "core_00_preamble.md",
             "count": 6,
             "anchors": [
+              "#33-governance-layers",
               "#4-principles-definitions-and-rights",
               "#constitutional-tetrad",
-              "#governance-layer-discipline",
               "#material-stake",
               "#two-constitutional-aims"
             ]
@@ -10068,8 +10087,8 @@
             "count": 8,
             "anchors": [
               "#2-the-measurements",
+              "#31-using-measurements-in-governance",
               "#constitutional-tetrad",
-              "#from-measurement-to-evidence-and-remedy",
               "#material-stake",
               "#two-constitutional-aims"
             ]
@@ -10186,8 +10205,10 @@
           },
           {
             "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-            "count": 1,
-            "anchors": []
+            "count": 2,
+            "anchors": [
+              "#ci-46-seat-catalog"
+            ]
           },
           {
             "file": "corpus_joint_structure.md",
@@ -10445,6 +10466,13 @@
             "count": 2,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
+            ]
+          },
+          {
+            "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+            "count": 1,
+            "anchors": [
+              "#ci-46-seat-catalog"
             ]
           },
           {
@@ -12003,9 +12031,9 @@
             "file": "corpus_systems/cs_02_b_data_classifications.md",
             "count": 11,
             "anchors": [
+              "#83-type-o-open-public-oversight-baseline-disclosure-data",
               "#cs-2-8-data-classifications",
               "#cs-2-part-b-data-classifications",
-              "#type-o-open-public-baseline-disclosure-data",
               "#type-s-interaction-with-type-e"
             ]
           },
@@ -12422,6 +12450,13 @@
             "anchors": []
           },
           {
+            "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+            "count": 2,
+            "anchors": [
+              "#ci-46-seat-catalog"
+            ]
+          },
+          {
             "file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md",
             "count": 1,
             "anchors": []
@@ -12509,6 +12544,140 @@
             "file": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
             "count": 1,
             "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+        "targets": [
+          {
+            "file": "core_05__definitions_home.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-five-foundational-definitions"
+            ]
+          },
+          {
+            "file": "core_05_band_accountability.md",
+            "count": 5,
+            "anchors": [
+              "#contestability",
+              "#contestability-a",
+              "#contestability-c"
+            ]
+          },
+          {
+            "file": "core_05_band_oversight.md",
+            "count": 11,
+            "anchors": [
+              "#auditability",
+              "#auditability-a",
+              "#auditability-c",
+              "#public-oversight-baseline-disclosure",
+              "#public-oversight-baseline-disclosure-a",
+              "#public-oversight-baseline-disclosure-c"
+            ]
+          },
+          {
+            "file": "core_05_band_participation.md",
+            "count": 5,
+            "anchors": [
+              "#accessibility-constitutional",
+              "#accessibility-constitutional-a",
+              "#accessibility-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_06_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#article-ii-d-post-sale-access-and-subscription-integrity"
+            ]
+          },
+          {
+            "file": "core_06_rights_part_b.md",
+            "count": 1,
+            "anchors": [
+              "#article-v-g-accessibility"
+            ]
+          },
+          {
+            "file": "core_06_rights_part_c.md",
+            "count": 3,
+            "anchors": [
+              "#article-xii-b-right-to-challenge-review-and-redress",
+              "#article-xvi-system-lifecycle-environments-and-reversibility"
+            ]
+          },
+          {
+            "file": "core_08_standing_assessment.md",
+            "count": 2,
+            "anchors": [
+              "#21-silence-is-the-default",
+              "#35-implementation-tools"
+            ]
+          },
+          {
+            "file": "core_16_incorporation.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-sixteen-incorporation-bridge"
+            ]
+          },
+          {
+            "file": "corpus_systems.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+            "count": 5,
+            "anchors": [
+              "#11-identity-self-ownership-and-recoverability",
+              "#12-continuity-critical-collection-and-exportability",
+              "#53-tiered-transparency-and-audit-access",
+              "#cs-2-7-type-o-baseline-for-class-a-b-c-systems",
+              "#cs-2-8-system-data-types-record-governance"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+            "count": 1,
+            "anchors": [
+              "#cs-3-7-classification-governance-disclosure-and-challenge"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_04_critical_system_stewardship.md",
+            "count": 2,
+            "anchors": [
+              "#10-inspectable-attributable-action",
+              "#cs-4-14-private-chokepoints-sentients-depend-on-access-continuity-and-non-capture"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+            "count": 4,
+            "anchors": [
+              "#cs-5-8-governance-continuity-crisis-communications-and-exercises-high-impact-systems"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
+            "count": 1,
+            "anchors": [
+              "#cs-12-5-offline-audit-integrity-and-reconciliation"
+            ]
           }
         ]
       },
@@ -12644,9 +12813,11 @@
             "anchors": []
           },
           {
-            "file": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
-            "count": 1,
-            "anchors": []
+            "file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+            "count": 4,
+            "anchors": [
+              "#cs-5-part-a-user-facing-capability-surfaces"
+            ]
           }
         ]
       },
@@ -12708,7 +12879,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+            "file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
             "count": 1,
             "anchors": []
           },
@@ -13683,9 +13854,11 @@
           },
           {
             "file": "core_08_standing_assessment.md",
-            "count": 4,
+            "count": 8,
             "anchors": [
               "#36-forum-boundary",
+              "#37-challenge-received-on-the-record",
+              "#37-conflicted-custodian-on-a-single-record",
               "#37-record-custody-and-opening-authority",
               "#37-segregation-of-duties"
             ]
@@ -13728,8 +13901,10 @@
           },
           {
             "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-            "count": 1,
-            "anchors": []
+            "count": 2,
+            "anchors": [
+              "#ci-46-seat-catalog"
+            ]
           },
           {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
@@ -13750,6 +13925,39 @@
       {
         "source": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
         "targets": [
+          {
+            "file": "core_00_preamble.md",
+            "count": 1,
+            "anchors": [
+              "#constitutional-tetrad"
+            ]
+          },
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 4,
+            "anchors": [
+              "#61-core-tradeoff-principles",
+              "#default-interim-posture"
+            ]
+          },
+          {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 6,
+            "anchors": [
+              "#101-segregation-of-duties",
+              "#14-systemic-evaluation-requirement",
+              "#911-shared-stewardship-standard",
+              "#96-process-character-discipline-anti-degrading-process-principle"
+            ]
+          },
+          {
+            "file": "core_04_burden_traceability_verification.md",
+            "count": 2,
+            "anchors": [
+              "#4-security-constrained-observability-and-verification-rule",
+              "#5-compliance-evidence-standard"
+            ]
+          },
           {
             "file": "core_05__definitions_home.md",
             "count": 6,
@@ -13847,17 +14055,70 @@
             ]
           },
           {
+            "file": "core_06_rights_part_c.md",
+            "count": 2,
+            "anchors": [
+              "#article-xii-b-right-to-challenge-review-and-redress",
+              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
+            ]
+          },
+          {
+            "file": "core_06_rights_part_d.md",
+            "count": 4,
+            "anchors": [
+              "#article-xxiii-d-emergency-measures-and-continuation-burden"
+            ]
+          },
+          {
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_08_standing_assessment.md",
+            "count": 7,
+            "anchors": [
+              "#36-forum-boundary",
+              "#37-challenge-received-on-the-record",
+              "#37-conflicted-custodian-on-a-single-record",
+              "#37-record-custody-and-opening-authority",
+              "#37-segregation-of-duties",
+              "#51-standard-contribution-measures"
+            ]
+          },
+          {
             "file": "core_09_standing_integration.md",
-            "count": 12,
+            "count": 15,
             "anchors": [
               "#42-general-standing-locks",
+              "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
               "#55-special-locks",
               "#62-competency-bars-and-clearances"
             ]
           },
           {
+            "file": "core_11_forum.md",
+            "count": 3,
+            "anchors": [
+              "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+              "#chapter-eleven-forums-and-jurisdiction"
+            ]
+          },
+          {
+            "file": "core_12_governance.md",
+            "count": 2,
+            "anchors": [
+              "#5-authorized-roles-competency-development-and-contribution"
+            ]
+          },
+          {
+            "file": "core_14_expansion_supremacy.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
             "file": "core_16_incorporation.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
               "#chapter-sixteen-incorporation-bridge"
             ]
@@ -13884,14 +14145,14 @@
           },
           {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
               "#cjs-01-topic-router-stable-ids"
             ]
           },
           {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
               "#cjs-13-shared-implementation-corpus-preamble-contract"
             ]
@@ -15091,7 +15352,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 1,
             "anchors": [
-              "#least-restrictive-time-bounded-and-reviewable-constraint-principle"
+              "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle"
             ]
           },
           {
@@ -17819,7 +18080,7 @@
             "file": "core_00_preamble.md",
             "count": 1,
             "anchors": [
-              "#from-measurement-to-evidence-and-remedy"
+              "#31-using-measurements-in-governance"
             ]
           },
           {
@@ -18361,7 +18622,7 @@
             "file": "core_00_preamble.md",
             "count": 1,
             "anchors": [
-              "#from-measurement-to-evidence-and-remedy"
+              "#31-using-measurements-in-governance"
             ]
           },
           {

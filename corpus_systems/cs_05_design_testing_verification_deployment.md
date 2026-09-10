@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-5** (*Design, testing, verification, and deployment*).
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-5** (*Design, testing, verification, and deployment*). User-reachable capability surfaces for in-scope systems are in [`cs_05_a_user_facing_capabilities.md`](cs_05_a_user_facing_capabilities.md) (**CS-5, Part A**).
 >
 > Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -15,8 +15,8 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Article XVI](../core_06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*); [Article XVII](../core_06_rights_part_c.md#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom) (*Sandboxed Innovation, Experimentation, and Creative Freedom*); [Article XII-F](../core_06_rights_part_c.md#article-xii-f-resilience-and-self-healing-baseline) (*Resilience and Self-Healing Baseline*); [Chapter One §4.1](../core_01_a_values_principles.md#41-resilience-and-self-healing-design); [Chapter Four](../core_04_burden_traceability_verification.md); [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [§1](#cs-5-1-purpose-and-role); [§2](#cs-5-2-personal-isolated-and-experimental-systems); [§7](#cs-5-7-non-experimental-systems); [§8](#cs-5-8-governance-continuity-crisis-communications-and-exercises-high-impact-systems); [§9](#cs-5-9-self-healing-and-recovery-path-integrity); [§10](#cs-5-10-recertification-regression-testing-and-certification-defects).
-- Read with: **CS-5**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-6**; **CJS-3.19**; **CJS-3.20**; **CJS-3.21**.
+- Downstream: [§1](#cs-5-1-purpose-and-role); [§2](#cs-5-2-personal-isolated-and-experimental-systems); [§7](#cs-5-7-non-experimental-systems); [§8](#cs-5-8-governance-continuity-crisis-communications-and-exercises-high-impact-systems); [§9](#cs-5-9-self-healing-and-recovery-path-integrity); [§10](#cs-5-10-recertification-regression-testing-and-certification-defects); [CS-5, Part A](cs_05_a_user_facing_capabilities.md#cs-5-part-a-user-facing-capability-surfaces).
+- Read with: **CS-5**; **CS-5, Part A**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-6**; **CJS-3.19**; **CJS-3.20**; **CJS-3.21**.
 
 </details>
 
@@ -66,7 +66,8 @@ This file is the systems implementation home for **CS-5** (*Design, testing, ver
 - Rights Floors in **Article XVI**, **Article XVII**, and **Article XII-F** — this file implements those articles and does not replace or narrow them;
 - Chapter Five meanings (*Reversibility*; *Self-Healing*; *Emergency and Contingency*; *Force Majeure*);
 - shared operational detail in **CJS-3.19** (*graceful degradation and failure-mode integrity*), **CJS-3.20** (*reversibility and containment*), and **CJS-3.21** (*adversarial robustness and abuse resistance*);
-- process recognition mechanics in **CF-7.2** (*Constitutional alignment recognition and review*) and Chapter Seven.
+- process recognition mechanics in **CF-7.2** (*Constitutional alignment recognition and review*) and Chapter Seven;
+- user-reachable in-scope capability surfaces — those are in **[CS-5, Part A](cs_05_a_user_facing_capabilities.md#cs-5-part-a-user-facing-capability-surfaces)**.
 
 **Implements.** Sentient Constitution Chapter Six, **[Article XVI](../core_06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility)** (*System Lifecycle, Environments, and Reversibility*), **[Article XVII](../core_06_rights_part_c.md#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom)** (*Sandboxed Innovation, Experimentation, and Creative Freedom*), and **[Article XII-F](../core_06_rights_part_c.md#article-xii-f-resilience-and-self-healing-baseline)** (*Resilience and Self-Healing Baseline*), read with [Chapter One §4.1](../core_01_a_values_principles.md#41-resilience-and-self-healing-design) (*Resilience and Self-Healing Design*), Chapter Five, and **[Chapter Four](../core_04_burden_traceability_verification.md)** where evidence and verification claims are material.
 
@@ -329,4 +330,4 @@ Missing regression testing, stale results, unfixed regressions, or material fixe
 
 **Previous file:** [cs_04_critical_system_stewardship.md](cs_04_critical_system_stewardship.md)
 
-**Next file:** [cs_06_comprehensibility_complexity_stewardship.md](cs_06_comprehensibility_complexity_stewardship.md)
+**Next file:** [cs_05_a_user_facing_capabilities.md](cs_05_a_user_facing_capabilities.md)

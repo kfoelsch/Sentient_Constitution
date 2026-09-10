@@ -26,6 +26,12 @@
     "3.22": "corpus_joint_structure/cjs_03i_integrative_operations.md",
     "3.23": "corpus_joint_structure/cjs_03i_integrative_operations.md"
   },
+  "cs_section_homes": {
+    "5.11": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+    "5.12": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+    "5.13": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+    "5.14": "corpus_systems/cs_05_a_user_facing_capabilities.md"
+  },
   "cjs12_section_homes": {
     "1.0": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
     "1.1": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
@@ -254,6 +260,12 @@
               "id": "CS-5",
               "label": "CS-5 — Design, testing, verification, and deployment",
               "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+              "status": "active"
+            },
+            {
+              "id": "CS-5A",
+              "label": "CS-5, Part A — User-facing capability surfaces",
+              "file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
               "status": "active"
             },
             {

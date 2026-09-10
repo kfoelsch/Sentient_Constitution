@@ -45,6 +45,15 @@ class AuditTests(unittest.TestCase):
         )
         self.assertEqual(findings, [])
 
+    def test_undifferenced_home_plus_part_letter_ok(self) -> None:
+        findings = audit_filenames(
+            [
+                "cs_05_design_testing_verification_deployment.md",
+                "cs_05_a_user_facing_capabilities.md",
+            ]
+        )
+        self.assertEqual(findings, [])
+
     def test_undifferenced_collision(self) -> None:
         findings = audit_filenames(
             [

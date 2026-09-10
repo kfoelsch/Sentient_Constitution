@@ -1799,7 +1799,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [6. Process Conflict Resolution](#6-process-conflict-resolution) (authorization / emergency discipline); [Preamble §3.3](core_00_preamble.md#governance-layer-discipline) (Constitutional Contract Layer vs Stakeholder System Participation, where constitutional continuity is at stake).
+- Downstream: Principles: [6. Process Conflict Resolution](#6-process-conflict-resolution) (authorization / emergency discipline); [Preamble §3.3](core_00_preamble.md#33-governance-layers) (Constitutional Contract Layer vs Stakeholder System Participation, where constitutional continuity is at stake).
 - Cluster component: [Emergency and Contingency cluster](core_05_band_continuity.md#emergency-and-contingency-semi-independent).
 - Read with: [Emergency and Contingency](core_05_band_continuity.md#emergency-and-contingency-constitutional), [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), [Governance](core_05_band_accountability.md#governance), [System Capture](core_05_band_continuity.md#system-capture), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), [Contestability](core_05_band_accountability.md#contestability), and [Reversibility](core_05_band_continuity.md#reversibility-constitutional). Owner floor: [Article XXIII-D: Emergency Measures and Continuation Burden](core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden).
 
@@ -1871,7 +1871,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - identifies affected stakeholders where feasible;
     - records deferred participation or access;
     - restores or reopens stakeholder-participation pathways on the [Article XXIII-D restore-challenge clocks](core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks); and
-    - where material disagreement requires binding decision before ordinary deliberation can occur, applies [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) together with [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster) and Chapter Twelve §3.3.
+    - where material disagreement requires binding decision before ordinary deliberation can occur, applies [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) together with [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster) and [Chapter Twelve §4.3](core_12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
 <a id="stakeholder-emergency-and-contingency-c"></a>
 - **What must hold**
   - **Primary failure:** The following are non-compliant:
@@ -1916,7 +1916,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - is documented;
     - is independently reviewable;
     - is reversible or restorable where feasible;
-    - preserves the later deliberation, notice, challenge, participation-restoration, and record duties required by [Stakeholder Emergency and Contingency](core_05_band_continuity.md#stakeholder-emergency-and-contingency), [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster), **Article XXIII-D** (*Emergency Measures and Continuation Burden*), and Chapter Twelve §3.3; and
+    - preserves the later deliberation, notice, challenge, participation-restoration, and record duties required by [Stakeholder Emergency and Contingency](core_05_band_continuity.md#stakeholder-emergency-and-contingency), [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster), **Article XXIII-D** (*Emergency Measures and Continuation Burden*), and [Chapter Twelve §4.3](core_12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice); and
     - where the same facts touch the [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer), also applies [Constitutional Emergency and Contingency](core_05_band_continuity.md#constitutional-emergency-and-contingency).
 <a id="emergency-pre-deliberation-action-binding-collective-choice-c"></a>
 - **What must hold**

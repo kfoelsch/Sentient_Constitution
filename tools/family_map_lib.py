@@ -71,12 +71,24 @@ def cjs12_home(data: dict[str, Any], section_id: str) -> str | None:
     return homes.get(match.group(1))
 
 
+def cs_section_home(data: dict[str, Any], section_id: str) -> str | None:
+    homes = data.get("cs_section_homes", {})
+    match = re.match(r"^(?:CS-)?(\d+)\.(\d+)$", section_id, re.I)
+    if not match:
+        return None
+    return homes.get(f"{int(match.group(1))}.{int(match.group(2))}")
+
+
 def resolve_section_file(data: dict[str, Any], section_id: str) -> str | None:
     """Resolve CI-9.3 / CJS-3.8 / CS-5.8 / CF-12 to a subfile."""
     text = section_id.strip().strip("*")
+    files = family_files(data)
+    # Exact map ids such as CS-5A / CS-2B are not CS-5 / CS-2.
+    if text in files and not SECTION_ID_RE.fullmatch(text):
+        return files[text]
     match = SECTION_ID_RE.match(text)
     if not match:
-        return family_files(data).get(text)
+        return files.get(text)
     prefix, major, minor, _third = match.groups()
     prefix = prefix.upper()
     family = f"{prefix}-{int(major)}"
@@ -94,5 +106,8 @@ def resolve_section_file(data: dict[str, Any], section_id: str) -> str | None:
         home = cjs12_home(data, dotted)
         if home:
             return home
-    files = family_files(data)
+    if prefix == "CS" and minor is not None:
+        home = cs_section_home(data, f"CS-{int(major)}.{int(minor)}")
+        if home:
+            return home
     return files.get(family) or files.get(text)

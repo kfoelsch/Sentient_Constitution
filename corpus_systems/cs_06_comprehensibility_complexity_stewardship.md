@@ -93,6 +93,6 @@ Where this file is silent, the governing sources are **Article XX** (*Comprehens
 
 ---
 
-**Previous file:** [cs_05_design_testing_verification_deployment.md](cs_05_design_testing_verification_deployment.md)
+**Previous file:** [cs_05_a_user_facing_capabilities.md](cs_05_a_user_facing_capabilities.md)
 
 **Next file:** [cs_07_justice_safeguards_restitution_rehabilitation.md](cs_07_justice_safeguards_restitution_rehabilitation.md)

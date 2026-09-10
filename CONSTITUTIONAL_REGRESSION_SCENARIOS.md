@@ -678,17 +678,17 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-XXIV-C-CHILD-001
 - **Class:** implementation / timely-resolution vignette
-- **Summary:** Tier A child neglect / care-duty path: interim protection before merits; Q1 requires verified facts in a violation standing record; **Interpersonal / Care Duty Misconduct** is measured under Q2; safeguards, remedies, and locks follow under Q3; **CF-11.3.1** Tier A milestone compliance. Allegations do not complete Q1. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-child-neglect-care-duty).
+- **Summary:** Tier A child neglect / care-duty path: interim protection before merits; Q1 requires verified facts in a violation standing record; **Interpersonal / Care Duty Misconduct** is measured under Q2; safeguards, remedies, and locks follow under Q3; **CF-11.3.1** Tier A milestone compliance. Allegations do not complete Q1. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a).
 - **Read with:** [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Eight §4](core_08_standing_assessment.md#4-standing-measurement-evaluation-dimensions); [Chapter Nine §4.2](core_09_standing_integration.md#42-general-standing-locks); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIV-C-DISC-001
 - **Class:** implementation / timely-resolution vignette
-- **Summary:** Tier B employment discrimination / participation-barrier pattern: Q1 records the verified institutional pattern; **Accessibility and Participation-Barrier Misconduct** + **System Misconduct** are measured under Q2; restriction and institutional vehicle locks follow under Q3; no contribution offset. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-discrimination-participation-barrier).
+- **Summary:** Tier B employment discrimination / participation-barrier pattern: Q1 records the verified institutional pattern; **Accessibility and Participation-Barrier Misconduct** + **System Misconduct** are measured under Q2; restriction and institutional vehicle locks follow under Q3; no contribution offset. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b).
 - **Read with:** [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIV-C-BIZ-001
 - **Class:** implementation / timely-resolution vignette
-- **Summary:** Tier B misaligned business: Q1 records verified exit lock-in and externalized harm; **Exit and Lock-In Misconduct** + **System Misconduct** are measured under Q2; pathway-scoped and concealment-escalated locks follow under Q3; optional **Chapter Ten** Q2 gravity review. Forum-family escalation and coordination complexity may extend later-stage windows without reclassifying urgency; Chapter Ten / slot 7–9 review is typically **Tier A**, not **Tier C**. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-misaligned-business-structural-harm).
+- **Summary:** Tier B misaligned business: Q1 records verified exit lock-in and externalized harm; **Exit and Lock-In Misconduct** + **System Misconduct** are measured under Q2; pathway-scoped and concealment-escalated locks follow under Q3; optional **Chapter Ten** Q2 gravity review. Forum-family escalation and coordination complexity may extend later-stage windows without reclassifying urgency; Chapter Ten / slot 7–9 review is typically **Tier A**, not **Tier C**. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#3-misaligned-business--exit-lock-in-and-externalized-harm-tier-b).
 - **Read with:** [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Nine §9.4](core_09_standing_integration.md#94-anti-evasion-and-look-through-authority); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIV-C-DELAY-001
@@ -698,12 +698,12 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-001
 - **Class:** implementation / tetrad-timeliness vignette
-- **Summary:** Steward defers repair after documented misalignment notice; Q1 records the verified delay, **Stewardship Defect** and **Response timeliness / avoidable delay** are Q2 measurement hooks, and remedy commencement is a Q3 consequence. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-stewardship-delay-deferred-repair).
+- **Summary:** Steward defers repair after documented misalignment notice; Q1 records the verified delay, **Stewardship Defect** and **Response timeliness / avoidable delay** are Q2 measurement hooks, and remedy commencement is a Q3 consequence. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#4-stewardship-delay-and-deferred-repair).
 - **Read with:** [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Chapter One §9.1](core_01_c_stewardship_capacity_principles.md#91-stewardship); [Chapter Eight §4.2](core_08_standing_assessment.md#42-violation-severity-input-dimensions); [Chapter Nine §9.5](core_09_standing_integration.md#95-timely-implementation-and-reassessment); [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXIV-C**.
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-002
 - **Class:** adversarial / tetrad-hollow
-- **Summary:** Forum maintains formal structures but pipeline milestones chronically overrun without extension — **timeliness** leg hollowed while O·P·A forms persist; may escalate to **tetrad capture** under Chapter Ten at scale. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-pipeline-overrun-tetrad-hollow).
+- **Summary:** Forum maintains formal structures but pipeline milestones chronically overrun without extension — **timeliness** leg hollowed while O·P·A forms persist; may escalate to **tetrad capture** under Chapter Ten at scale. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#5-pipeline-overrun-and-tetrad-hollow-forums).
 - **Read with:** [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional); [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways); [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct); **CF-11.3.1**.
 
 ### Scenario ID: RS-CH5-GW-001

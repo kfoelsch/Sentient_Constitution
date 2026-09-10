@@ -58,6 +58,14 @@
       "primary_attach": [
         "CI-3"
       ]
+    },
+    {
+      "id": "CJS-R23",
+      "topic": "Seat types, local role maps, and wrong-seat routing",
+      "primary_owner": "[**CI-4**](../corpus_institutions/ci_04_appointment_competency_rotation_removal.",
+      "primary_attach": [
+        "CI-4"
+      ]
     }
   ]
 }

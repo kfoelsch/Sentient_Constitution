@@ -273,7 +273,7 @@ Maintain **competency**, **succession readiness**, and **effective oversight** p
 
 The five-element set below is the load-bearing artifact. Machine-checkable form: [`implementation/schemas/cs4_inspectable_action_log.schema.json`](../implementation/schemas/cs4_inspectable_action_log.schema.json). Validator: [`tools/cs4_inspectable_action_log_validate.py`](../tools/cs4_inspectable_action_log_validate.py). Same schema for human and AI stewards. "Did you log the set" is a mechanical question. Timestamps on the set are checked against the [Chapter Eleven §6](../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier clocks where a numeric bound applies.
 
-Published role definitions for personnel/agents exercising **Critical System Stewardship** or **material** operational authority must make reconstructable **attributable action** inspectable. That surface feeds [Chapter Eight](../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing records. It is **not** a standing record and does **not** relocate standing measurement.
+Published role definitions for personnel/agents exercising **Critical System Stewardship** or **material** operational authority must make reconstructable **attributable action** inspectable, and must map each role to the seat types it may hold under [CI-4.6](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog) (*Seat catalog*) — including, for every Class A or Class B system, who holds the containment, participation-terms, and release-control seats. That surface feeds [Chapter Eight](../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing records. It is **not** a standing record and does **not** relocate standing measurement.
 
 The same surface binds human stewards, AI stewards, and other agents under [Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard), including [symmetric costly constraints](../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints). Companions may add logging and capability limits. They may not swap a softer internal code for this surface. Human operators are not exempt from reconstructable recording when the costly case is a bonus, a deadline, or a cover instruction.
 
@@ -284,7 +284,7 @@ The same surface binds human stewards, AI stewards, and other agents under [Chap
 - what was **decided**;
 - what was **disclosed or suppressed**;
 - which **instruction** was followed or refused;
-- **who authorized** it;
+- **who authorized** it — naming the [CI-4.6](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog) (*Seat catalog*) seat type held and the authority it was held under, and, where a step was declined as outside the seat, the seat type it was routed to;
 - the **Contribution** and **Violation** standing records that follow ([Chapter Eight](../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)).
 
 **Not required as a standing record:**

@@ -33,7 +33,11 @@
       "properties": {
         "id": { "type": "string", "minLength": 1 },
         "kind": { "type": "string", "enum": ["human", "ai"] },
-        "role": { "type": "string" }
+        "role": { "type": "string" },
+        "seat_type": {
+          "$ref": "#/$defs/seat_type",
+          "description": "Optional CI-4.6 seat type the steward held on this act."
+        }
       }
     },
     "material_stake": { "type": "string" },
@@ -90,6 +94,14 @@
           "properties": {
             "actor": { "type": "string", "minLength": 1 },
             "role": { "type": "string" },
+            "seat_type": {
+              "$ref": "#/$defs/seat_type",
+              "description": "Optional CI-4.6 seat type under which the act was authorized."
+            },
+            "routed_to_seat_type": {
+              "$ref": "#/$defs/seat_type",
+              "description": "Optional. When the step was declined as outside the steward's seat (CI-4.6 wrong-seat rule), the seat type it was routed to."
+            },
             "timestamp": { "type": "string", "minLength": 1 }
           }
         },
@@ -142,6 +154,21 @@
     }
   },
   "$defs": {
+    "seat_type": {
+      "type": "string",
+      "description": "CI-4.6 seat catalog: corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog.",
+      "enum": [
+        "initiating",
+        "verify_or_authorize",
+        "record",
+        "contest",
+        "direction",
+        "containment",
+        "participation_terms",
+        "release_control",
+        "advisory"
+      ]
+    },
     "attributed_text": {
       "type": "object",
       "additionalProperties": false,

@@ -65,7 +65,7 @@ This file is the systems implementation home for **CS-1** (*Scope, purpose, and 
 - information typing and handling (**CS-2 — Information types and handling**);
 - system classification and dependency typing (**CS-3 — System classification and handling**);
 - critical system stewardship tiers (**CS-4 — Critical system stewardship**), scaled from **CS-3** impact class and dependency type;
-- **CS-5** through **CS-12** families for design and verification, comprehensibility, justice safeguards, sustainability, funding, transition, subversion response, and partition resilience.
+- **CS-5** through **CS-12** families for design and verification, comprehensibility, justice safeguards, sustainability, funding, transition, subversion response, and partition resilience, including **CS-5, Part A** for user-reachable in-scope surfaces.
 
 **What this layer does not own**
 

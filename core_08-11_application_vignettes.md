@@ -33,8 +33,7 @@
 
 <br>
 
-<a id="vignette-child-neglect-care-duty"></a>
-
+<a id="1-child-neglect--care-duty-failure-tier-a"></a>
 ### 1. Child neglect / care-duty failure (Tier A)
 
 #### Situation
@@ -80,8 +79,7 @@ Years-long cycles: vague “welfare checks,” reputation gossip, family-forum d
 
 <br>
 
-<a id="vignette-discrimination-participation-barrier"></a>
-
+<a id="2-employment-discrimination--participation-barrier-injury-tier-b"></a>
 ### 2. Employment discrimination / participation-barrier injury (Tier B)
 
 #### Situation
@@ -124,8 +122,7 @@ Multi-year EEO-style litigation, sealed settlements, reputation damage without v
 
 <br>
 
-<a id="vignette-misaligned-business-structural-harm"></a>
-
+<a id="3-misaligned-business--exit-lock-in-and-externalized-harm-tier-b"></a>
 ### 3. Misaligned business / exit lock-in and externalized harm (Tier B)
 
 #### Situation
@@ -170,8 +167,7 @@ Later-stage stretch follows [Chapter Eleven §6](core_11_forum.md#urgency-classi
 
 <br>
 
-<a id="vignette-stewardship-delay-deferred-repair"></a>
-
+<a id="4-stewardship-delay-and-deferred-repair"></a>
 ### 4. Stewardship delay and deferred repair
 
 **Domain:** Operator defers safeguard maintenance and repair after documented misalignment notice.
@@ -189,8 +185,7 @@ Later-stage stretch follows [Chapter Eleven §6](core_11_forum.md#urgency-classi
 
 <br>
 
-<a id="vignette-pipeline-overrun-tetrad-hollow"></a>
-
+<a id="5-pipeline-overrun-and-tetrad-hollow-forums"></a>
 ### 5. Pipeline overrun and tetrad-hollow forums
 
 **Domain:** Forum family maintains formal intake and records but systematically exceeds [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier milestones without documented extension.
@@ -205,8 +200,7 @@ Later-stage stretch follows [Chapter Eleven §6](core_11_forum.md#urgency-classi
 
 <br>
 
-<a id="vignette-noncompliant-deployment-sentience-indicator"></a>
-
+<a id="6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a"></a>
 ### 6. Non-compliant deployment with a credible sentience indicator (Tier A)
 
 #### Situation
@@ -265,8 +259,7 @@ The steps below are what the Constitution requires of the **system of seats**. T
 
 <br>
 
-<a id="vignette-ordinary-person-year"></a>
-
+<a id="7-an-ordinary-year-with-no-filing-and-no-sensitive-role"></a>
 ### 7. An ordinary year with no filing and no sensitive role
 
 #### Situation

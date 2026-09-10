@@ -579,6 +579,31 @@
           "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md"
         }
       ]
+    },
+    {
+      "id": "CJS-R23",
+      "topic": "Seat types, local role maps, and wrong-seat routing",
+      "domain": "Institutional governance",
+      "primary_owners": [
+        {
+          "id": "CI-4",
+          "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CJS-3.0",
+          "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md"
+        },
+        {
+          "id": "CJS-3.11",
+          "file": "corpus_joint_structure/cjs_03a_accountability_operations.md"
+        },
+        {
+          "id": "CI-3",
+          "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md"
+        }
+      ]
     }
   ]
 }

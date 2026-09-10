@@ -67,16 +67,14 @@ Durable legitimacy depends on [Safety](core_01_a_values_principles.md#31-safety-
 
 Distributed understanding and stewardship require that sentients have regular, proportionate opportunities to learn how systems that materially affect us operate. In addition, it empowers us to take consequential roles in their maintenance and improvement — so that competence, repair capacity, and legitimacy are spread broadly across our Constitutional Community to ensure resilience, sustainability, and pro-social innovation. Those opportunities must satisfy Safety, Truth, bounded agency, and the [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) and proportionality discipline stated in [Chapter One](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden).
 
-<a id="from-measurement-to-evidence-and-remedy"></a>
-
+<a id="31-using-measurements-in-governance"></a>
 #### 3.1 Using Measurements in Governance
 
 When the Constitution requires concrete measurement rules, **Technical Forum Domains** under [Chapter Eleven](core_11_forum.md#42-technical-forum-domains) develop and maintain the shared standards — how to measure, how to test, and what counts as reliable evidence. The forum responsible for a given dispute then applies those standards when deciding that case under [Chapter Eleven §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement).
 
 Constitutional stewardship starts with naming the problem and the [**material stake**](#material-stake) — how much impact, dependence, and risk are involved. Next, choose the relevant [**measurement**](#2-the-measurements) category and subcategory from the [overview](#2-the-measurements) and apply the standards above to test real-world effects rather than convenience metrics. Require traceable evidence.
 
-<a id="key-governance-processes"></a>
-
+<a id="32-key-governance-processes"></a>
 #### 3.2 Key Governance Processes
 
 Where Chapter Six, [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), incorporated instruments, or other constitutional provisions expressly require it, take material constitutional issues into one or more of the paths below. The [Key Practical Process Pipelines](#5-key-practical-process-pipelines) translate measurement into records, certification, verified inputs, classification, forum supervision, correction, and timely remedy — how authorized governance is tested, contested, and repaired in practice. They do not authorize governance by themselves; they make governance reviewable, contestable, correctable, and timely. [Section 5](#5-key-practical-process-pipelines) states that pipeline in full.
@@ -86,8 +84,7 @@ Where Chapter Six, [Chapter Seven](core_07_a_system_alignment_certification_eval
 - **Correction and remedy** ([Chapter Nine §4.1](core_09_standing_integration.md#41-remedy-and-correction)) — fix the underlying failure and provide proportionate acknowledgment, repair, restoration, or compensation for those harmed
 - **Forum review** ([Chapter Eleven](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)) — route disputes and certification challenges through supervised forums that support evidence, lawful transfer, and timely clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*)
 
-<a id="governance-layer-discipline"></a>
-
+<a id="33-governance-layers"></a>
 #### 3.3 Governance Layers
 
 Governance to fulfill the [**Constitutional Tetrad**](#constitutional-tetrad) under our Constitution has two related but distinct layers:

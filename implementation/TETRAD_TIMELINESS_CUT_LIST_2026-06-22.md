@@ -9,8 +9,8 @@
 |--------|------|
 | `#constitutional-tetrad` | [core_00_preamble.md](../core_00_preamble.md) — four legs |
 | `#timeliness-constitutional` | [core_05_band_accountability.md](../core_05_band_accountability.md) — principle-layer timeliness leg |
-| `#vignette-stewardship-delay-deferred-repair` | [core_08-11_application_vignettes.md](../core_08-11_application_vignettes.md#vignette-stewardship-delay-deferred-repair) |
-| `#vignette-pipeline-overrun-tetrad-hollow` | [core_08-11_application_vignettes.md](../core_08-11_application_vignettes.md#vignette-pipeline-overrun-tetrad-hollow) |
+| `#vignette-stewardship-delay-deferred-repair` | [core_08-11_application_vignettes.md](../core_08-11_application_vignettes.md#4-stewardship-delay-and-deferred-repair) |
+| `#vignette-pipeline-overrun-tetrad-hollow` | [core_08-11_application_vignettes.md](../core_08-11_application_vignettes.md#5-pipeline-overrun-and-tetrad-hollow-forums) |
 
 ## Terminology
 

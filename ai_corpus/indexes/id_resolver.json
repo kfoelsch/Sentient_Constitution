@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-10T11:59:46+00:00",
+  "generated_at": "2026-09-10T17:15:56+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -1525,42 +1525,42 @@
       "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "anchor": "#ci-31-non-delegable-governing-duties",
       "heading": "CI-3.1: Non-delegable governing duties",
-      "line": 70,
+      "line": 71,
       "kind": "section"
     },
     "CI-3.2": {
       "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "anchor": "#ci-32-functional-separation-lanes",
       "heading": "CI-3.2: Functional separation lanes",
-      "line": 81,
+      "line": 82,
       "kind": "section"
     },
     "CI-3.3": {
       "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "anchor": "#ci-33-authority-chain-and-delegation-controls",
       "heading": "CI-3.3: Authority chain and delegation controls",
-      "line": 91,
+      "line": 94,
       "kind": "section"
     },
     "CI-3.4": {
       "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "anchor": "#ci-34-emergency-delegation",
       "heading": "CI-3.4: Emergency delegation",
-      "line": 107,
+      "line": 110,
       "kind": "section"
     },
     "CI-3.5": {
       "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "anchor": "#ci-35-risk-profile-requirement",
       "heading": "CI-3.5: Risk profile requirement",
-      "line": 113,
+      "line": 116,
       "kind": "section"
     },
     "CI-3.6": {
       "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "anchor": "#ci-36-charter-contents-review-and-formation-template",
       "heading": "CI-3.6: Charter contents, review, and formation template",
-      "line": 119,
+      "line": 122,
       "kind": "section"
     },
     "CI-4": {
@@ -1574,35 +1574,42 @@
       "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "anchor": "#ci-41-shared-staffing-and-competency-floor",
       "heading": "CI-4.1: Shared staffing and competency floor",
-      "line": 60,
+      "line": 62,
       "kind": "section"
     },
     "CI-4.2": {
       "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "anchor": "#ci-42-role-criteria-appointment-standards-and-removal-pathways",
       "heading": "CI-4.2: Role criteria, appointment standards, and removal pathways",
-      "line": 75,
+      "line": 77,
       "kind": "section"
     },
     "CI-4.3": {
       "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "anchor": "#ci-43-periodic-performance-and-capability-review",
       "heading": "CI-4.3: Periodic performance and capability review",
-      "line": 89,
+      "line": 91,
       "kind": "section"
     },
     "CI-4.4": {
       "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "anchor": "#ci-44-interpretive-body-composition-controls",
       "heading": "CI-4.4: Interpretive-body composition controls",
-      "line": 103,
+      "line": 105,
       "kind": "section"
     },
     "CI-4.5": {
       "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "anchor": "#ci-45-authorized-roles-and-accountability-chains",
       "heading": "CI-4.5: Authorized roles and accountability chains",
-      "line": 122,
+      "line": 124,
+      "kind": "section"
+    },
+    "CI-4.6": {
+      "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "anchor": "#ci-46-seat-catalog",
+      "heading": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "line": 155,
       "kind": "section"
     },
     "CI-5": {
@@ -1786,14 +1793,14 @@
       "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
       "anchor": "#cjs-02-joint-structure-registry",
       "heading": "CJS-0.2: Joint structure registry",
-      "line": 151,
+      "line": 152,
       "kind": "section"
     },
     "CJS-0.3": {
       "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
       "anchor": "#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes",
       "heading": "CJS-0.3: Stable identifiers, edition alignment, and drafting notes",
-      "line": 186,
+      "line": 187,
       "kind": "section"
     },
     "CJS-1": {
@@ -1953,7 +1960,7 @@
       "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
       "anchor": "#cjs-31-library-constitutional-compass-and-cluster-map",
       "heading": "CJS-3.1 Library: Constitutional compass and cluster map",
-      "line": 330,
+      "line": 331,
       "kind": "section",
       "gloss": "The index to the **oDef** library: which operational definition covers what, and which constitutional principle each one carries into practice."
     },
@@ -1976,21 +1983,21 @@
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "anchor": "#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable",
       "heading": "CJS-3.11.1 Market concentration threshold-setting discipline (adopter-tunable)",
-      "line": 103,
+      "line": 104,
       "kind": "section"
     },
     "CJS-3.11.2": {
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "anchor": "#cjs-3112-anti-domination-conduct-and-remediation-catalog",
       "heading": "CJS-3.11.2 Anti-domination conduct and remediation catalog",
-      "line": 149,
+      "line": 150,
       "kind": "section"
     },
     "CJS-3.11.3": {
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "anchor": "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable",
       "heading": "CJS-3.11.3 Consolidation ceiling-setting discipline (adopter-tunable)",
-      "line": 197,
+      "line": 198,
       "kind": "section"
     },
     "CJS-3.11–CJS-3.15": {
@@ -2003,7 +2010,7 @@
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "anchor": "#cjs-312-accountability-burden-of-justification-and-constraint-terms",
       "heading": "CJS-3.12 Accountability: burden-of-justification and constraint terms",
-      "line": 403,
+      "line": 404,
       "kind": "section",
       "gloss": "Whoever restricts something carries the burden of justifying it — with the lightest effective measure, and with that justification refreshed rather than assumed to hold forever."
     },
@@ -2011,7 +2018,7 @@
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "anchor": "#cjs-313-accountability-procedural-integrity-and-adjudication-terms",
       "heading": "CJS-3.13 Accountability: procedural integrity and adjudication terms",
-      "line": 654,
+      "line": 655,
       "kind": "section",
       "gloss": "The shared floor for fair process: notice, a real chance to respond, a reviewable decision, and enforcement proportionate to what actually happened."
     },
@@ -2019,7 +2026,7 @@
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "anchor": "#cjs-314-accountability-intervention-governance-and-override-authorization-terms",
       "heading": "CJS-3.14 Accountability: intervention governance and override-authorization terms",
-      "line": 934,
+      "line": 935,
       "kind": "section",
       "gloss": "When someone may override normal operation, who must authorize it, and what record that leaves. An override capability is necessary; an unlogged one is a back door."
     },
@@ -2027,7 +2034,7 @@
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "anchor": "#cjs-315-accountability-structural-review-correction-urgency-and-disclosure-terms",
       "heading": "CJS-3.15 Accountability: structural review, correction urgency, and disclosure terms",
-      "line": 1096,
+      "line": 1097,
       "kind": "section"
     },
     "CJS-3.16": {
@@ -2714,12 +2721,12 @@
       "kind": "section"
     },
     "CS-5": {
-      "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
-      "anchor": "#cs-5-design-testing-verification-and-deployment",
-      "heading": "CS-5: Design, testing, verification, and deployment",
-      "line": 1,
+      "file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "heading": "CS-5, Part A: User-facing capability surfaces",
+      "line": 2,
       "kind": "family",
-      "gloss": "**CS-5** is the engineering lifecycle profile: how a constitutional system must be designed, tested, verified, separated across environments, rolled out in stages, exercised against crises, and re-certified after change. It states required outcomes rather than fixed technology, so implementations may evolve while staying auditable."
+      "gloss": "**CS-5, Part A** is a pointer catalog of what an in-scope system must let sentients do or inspect — identity control, export, Type O inspect, challenge entry, comprehensibility, digital self-service when entry was already digital — without turning those duties into a product list, and without taking standing, forum, voting, or remedy away from their owners."
     },
     "CS-5.1": {
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
@@ -2732,64 +2739,98 @@
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-10-recertification-regression-testing-and-certification-defects",
       "heading": "CS-5.10 Recertification, regression testing, and certification defects",
-      "line": 289,
+      "line": 290,
+      "kind": "section"
+    },
+    "CS-5.11": {
+      "file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "anchor": "#cs-5-11-purpose-and-role",
+      "heading": "CS-5.11 Purpose and role",
+      "line": 41,
+      "kind": "section"
+    },
+    "CS-5.12": {
+      "file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "anchor": "#cs-5-12-in-scope-catalog",
+      "heading": "CS-5.12 In-scope catalog",
+      "line": 67,
+      "kind": "section"
+    },
+    "CS-5.13": {
+      "file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "anchor": "#cs-5-13-analog-digital-and-channel-class",
+      "heading": "CS-5.13 Analog, digital, and channel class",
+      "line": 92,
+      "kind": "section"
+    },
+    "CS-5.14": {
+      "file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "anchor": "#cs-5-14-what-this-file-does-not-own",
+      "heading": "CS-5.14 What this file does not own",
+      "line": 105,
       "kind": "section"
     },
     "CS-5.2": {
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-2-personal-isolated-and-experimental-systems",
       "heading": "CS-5.2 Personal, isolated, and experimental systems",
-      "line": 80,
+      "line": 81,
       "kind": "section"
     },
     "CS-5.3": {
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-3-creative-entertainment-and-expressive-systems",
       "heading": "CS-5.3 Creative, entertainment, and expressive systems",
-      "line": 89,
+      "line": 90,
       "kind": "section"
     },
     "CS-5.4": {
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-4-misclassification-and-evasion",
       "heading": "CS-5.4 Misclassification and evasion",
-      "line": 102,
+      "line": 103,
       "kind": "section"
     },
     "CS-5.5": {
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-5-transition-to-higher-impact-systems",
       "heading": "CS-5.5 Transition to higher-impact systems",
-      "line": 111,
+      "line": 112,
       "kind": "section"
     },
     "CS-5.6": {
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-6-experimental-substrate-features-and-systems",
       "heading": "CS-5.6 Experimental substrate features and systems",
-      "line": 124,
+      "line": 125,
       "kind": "section"
     },
     "CS-5.7": {
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-7-non-experimental-systems",
       "heading": "CS-5.7 Non-experimental systems",
-      "line": 139,
+      "line": 140,
       "kind": "section"
     },
     "CS-5.8": {
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-8-governance-continuity-crisis-communications-and-exercises-high-impact-systems",
       "heading": "CS-5.8 Governance continuity, crisis communications, and exercises (high-impact systems)",
-      "line": 207,
+      "line": 208,
       "kind": "section"
     },
     "CS-5.9": {
       "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "anchor": "#cs-5-9-self-healing-and-recovery-path-integrity",
       "heading": "CS-5.9 Self-healing and recovery-path integrity",
-      "line": 264,
+      "line": 265,
       "kind": "section"
+    },
+    "CS-5A": {
+      "file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "heading": "CS-5, Part A — User-facing capability surfaces",
+      "kind": "family",
+      "gloss": "**CS-5, Part A** is a pointer catalog of what an in-scope system must let sentients do or inspect — identity control, export, Type O inspect, challenge entry, comprehensibility, digital self-service when entry was already digital — without turning those duties into a product list, and without taking standing, forum, voting, or remedy away from their owners."
     },
     "CS-6": {
       "file": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
@@ -3915,6 +3956,35 @@
           "id": "CF-9",
           "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
           "anchor": "#cf-9-independent-investigative-service-and-prosecution-interface"
+        }
+      ]
+    },
+    {
+      "id": "CJS-R23",
+      "topic": "Seat types, local role maps, and wrong-seat routing",
+      "domain": "Institutional governance",
+      "primary_owners": [
+        {
+          "id": "CI-4",
+          "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+          "anchor": "#ci-4-appointment-competency-rotation-and-removal"
+        }
+      ],
+      "read_with": [
+        {
+          "id": "CJS-3.0",
+          "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
+          "anchor": "#cjs-30-role-definition-preface-and-standing-competency-gate-interface"
+        },
+        {
+          "id": "CJS-3.11",
+          "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
+          "anchor": "#cjs-311-accountability-distributed-and-proportional-authority-terms"
+        },
+        {
+          "id": "CI-3",
+          "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+          "anchor": "#ci-3-institutional-design-separation-of-powers-and-authority-custody"
         }
       ]
     }
@@ -5482,184 +5552,7 @@
       "line_end": 677
     }
   ],
-  "aliases": [
-    {
-      "file": "core_00_preamble.md",
-      "title": "3.1 Using Measurements in Governance",
-      "current_number": "3.1",
-      "current_anchors": [
-        "#31-using-measurements-in-governance"
-      ],
-      "fossil_anchors": [
-        "#from-measurement-to-evidence-and-remedy"
-      ]
-    },
-    {
-      "file": "core_00_preamble.md",
-      "title": "3.2 Key Governance Processes",
-      "current_number": "3.2",
-      "current_anchors": [
-        "#32-key-governance-processes"
-      ],
-      "fossil_anchors": [
-        "#key-governance-processes"
-      ]
-    },
-    {
-      "file": "core_00_preamble.md",
-      "title": "3.3 Governance Layers",
-      "current_number": "3.3",
-      "current_anchors": [
-        "#33-governance-layers"
-      ],
-      "fossil_anchors": [
-        "#governance-layer-discipline"
-      ]
-    },
-    {
-      "file": "core_01_b_interaction_interpretation.md",
-      "title": "6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle",
-      "current_number": "6.1.5",
-      "current_anchors": [
-        "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle"
-      ],
-      "fossil_anchors": [
-        "#least-restrictive-time-bounded-and-reviewable-constraint-principle"
-      ]
-    },
-    {
-      "file": "core_01_b_interaction_interpretation.md",
-      "title": "8.1 Constitutional No-Bypass Principle",
-      "current_number": "8.1",
-      "current_anchors": [
-        "#81-constitutional-no-bypass-principle"
-      ],
-      "fossil_anchors": [
-        "#constitutional-no-bypass-principle"
-      ]
-    },
-    {
-      "file": "core_03_definition_integrity.md",
-      "title": "2.1.1 Formal Label and Representation Gaming",
-      "current_number": "2.1.1",
-      "current_anchors": [
-        "#211-formal-label-and-representation-gaming"
-      ],
-      "fossil_anchors": [
-        "#formal-label-gaming-discipline"
-      ]
-    },
-    {
-      "file": "core_05__definitions_home.md",
-      "title": "2. Dependent-cluster meta rules",
-      "current_number": "2",
-      "current_anchors": [
-        "#2-dependent-cluster-meta-rules"
-      ],
-      "fossil_anchors": [
-        "#dependent-cluster-meta-rules"
-      ]
-    },
-    {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
-      "title": "1.1 Rights floors this chapter helps verify",
-      "current_number": "1.1",
-      "current_anchors": [
-        "#11-rights-floors-this-chapter-helps-verify"
-      ],
-      "fossil_anchors": [
-        "#12-rights-floors-this-chapter-helps-verify"
-      ]
-    },
-    {
-      "file": "core_08-11_application_vignettes.md",
-      "title": "1. Child neglect / care-duty failure (Tier A)",
-      "current_number": "1",
-      "current_anchors": [
-        "#1-child-neglect--care-duty-failure-tier-a"
-      ],
-      "fossil_anchors": [
-        "#vignette-child-neglect-care-duty"
-      ]
-    },
-    {
-      "file": "core_08-11_application_vignettes.md",
-      "title": "2. Employment discrimination / participation-barrier injury (Tier B)",
-      "current_number": "2",
-      "current_anchors": [
-        "#2-employment-discrimination--participation-barrier-injury-tier-b"
-      ],
-      "fossil_anchors": [
-        "#vignette-discrimination-participation-barrier"
-      ]
-    },
-    {
-      "file": "core_08-11_application_vignettes.md",
-      "title": "3. Misaligned business / exit lock-in and externalized harm (Tier B)",
-      "current_number": "3",
-      "current_anchors": [
-        "#3-misaligned-business--exit-lock-in-and-externalized-harm-tier-b"
-      ],
-      "fossil_anchors": [
-        "#vignette-misaligned-business-structural-harm"
-      ]
-    },
-    {
-      "file": "core_08-11_application_vignettes.md",
-      "title": "4. Stewardship delay and deferred repair",
-      "current_number": "4",
-      "current_anchors": [
-        "#4-stewardship-delay-and-deferred-repair"
-      ],
-      "fossil_anchors": [
-        "#vignette-stewardship-delay-deferred-repair"
-      ]
-    },
-    {
-      "file": "core_08-11_application_vignettes.md",
-      "title": "5. Pipeline overrun and tetrad-hollow forums",
-      "current_number": "5",
-      "current_anchors": [
-        "#5-pipeline-overrun-and-tetrad-hollow-forums"
-      ],
-      "fossil_anchors": [
-        "#vignette-pipeline-overrun-tetrad-hollow"
-      ]
-    },
-    {
-      "file": "core_08-11_application_vignettes.md",
-      "title": "6. Non-compliant deployment with a credible sentience indicator (Tier A)",
-      "current_number": "6",
-      "current_anchors": [
-        "#6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a"
-      ],
-      "fossil_anchors": [
-        "#vignette-noncompliant-deployment-sentience-indicator"
-      ]
-    },
-    {
-      "file": "core_08-11_application_vignettes.md",
-      "title": "7. An ordinary year with no filing and no sensitive role",
-      "current_number": "7",
-      "current_anchors": [
-        "#7-an-ordinary-year-with-no-filing-and-no-sensitive-role"
-      ],
-      "fossil_anchors": [
-        "#vignette-ordinary-person-year"
-      ]
-    },
-    {
-      "file": "corpus_systems/cs_02_b_data_classifications.md",
-      "title": "8.3 Type O: Open public oversight baseline disclosure data",
-      "current_number": "8.3",
-      "current_anchors": [
-        "#83-type-o-open-public-oversight-baseline-disclosure-data"
-      ],
-      "fossil_anchors": [
-        "#type-o-open-public-baseline-disclosure-data"
-      ]
-    }
-  ],
+  "aliases": [],
   "steward_doors": {
     "index": "implementation/steward_owner_clock_index.json",
     "cards": "implementation/STEWARD_ENTRY_DOORS.md",

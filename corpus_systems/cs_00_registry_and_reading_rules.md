@@ -132,7 +132,7 @@ When a systems topic materially intersects **CI**, **CF**, or **CJS**, use [CJS-
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router.
-- Read with: **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-5**.
+- Read with: **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-5**; **CS-5, Part A**.
 
 </details>
 
@@ -143,7 +143,7 @@ When a systems topic materially intersects **CI**, **CF**, or **CJS**, use [CJS-
 | **CS-D01** | Information types and handling taxonomy | **CS-2 — Information types and handling** | **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship** where classification scales handling |
 | **CS-D02** | System classification and dependency typing | **CS-3 — System classification and handling** | **CS-2 — Information types and handling**; **CS-4 — Critical system stewardship** where class scales stewardship |
 | **CS-D03** | Critical system stewardship tiers | **CS-4 — Critical system stewardship** | **CS-3 — System classification and handling**; **CS-5** where design and verification apply |
-| **CS-D04** | Design, testing, verification, deployment lifecycle | **CS-5** | **CS-3 — System classification and handling**, **CS-4 — Critical system stewardship** where class scales burden |
+| **CS-D04** | Design, testing, verification, deployment lifecycle | **CS-5** | **CS-3 — System classification and handling**, **CS-4 — Critical system stewardship** where class scales burden; **CS-5, Part A** where user-reachable surfaces apply |
 | **CS-D05** | Comprehensibility and complexity stewardship | **CS-6** | **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship** where steward-tier scaling applies |
 | **CS-D06** | Justice safeguards, restitution, and rehabilitation | **CS-7** | **CS-3 — System classification and handling**; **CS-9** where remedy financing spans systems |
 | **CS-D07** | Adaptive sustainability and ecosystem resilience | **CS-8** | **CS-9**; **CS-5 §9** where self-healing cross-checks apply |
@@ -151,6 +151,9 @@ When a systems topic materially intersects **CI**, **CF**, or **CJS**, use [CJS-
 | **CS-D09** | Transition constitution and migration governance | **CS-10** | **CS-5**; **CS-11** where transition meets subversion or reconstitution |
 | **CS-D10** | Subversion response, replacement, and reconstitution | **CS-11** | **CS-5**; **CS-7**; **CS-10** |
 | **CS-D11** | Decentralized continuity and partition resilience | **CS-12** | **CS-5 §9**; **CS-4 — Critical system stewardship** where class scales continuity |
+| **CS-D12** | User-reachable capability surfaces | **CS-5, Part A** | **CS-2 — Information types and handling**; **CS-4** where inspectable action applies; **CS-6**; constitutional-operating owners remain Chapters Seven–Twelve, **CF**, and **CI** |
+
+For **CS-D12**, the in-scope catalog is **CS-5, Part A**. Constitutional-operating surfaces (standing records, forum dockets, collective choice, remedy offices) stay with their existing owners. Coverage inventory (process support; cannot narrow; not a second **CF-15**): [`evidence/2026-09-10/cs_user_facing_software_audit.md`](../evidence/2026-09-10/cs_user_facing_software_audit.md).
 
 **CS-D** row IDs are **corpus-local** domain-internal labels; they are **not** Sentient Constitution article numbers and do not replace **CJS-R** rows.
 
@@ -161,13 +164,13 @@ When a systems topic materially intersects **CI**, **CF**, or **CJS**, use [CJS-
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex); [CJS-1.7](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline) intentional overlap.
-- Read with: [CJS-1.7](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline); **CS-3 — System classification and handling**; **CS-5**; **CS-6**.
+- Read with: [CJS-1.7](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline); **CS-3 — System classification and handling**; **CS-5**; **CS-5, Part A**; **CS-6**.
 
 </details>
 
 <br>
 
-Some systems topics are **deliberately** split — for example taxonomy (**CS-2 — Information types and handling**), classification (**CS-3 — System classification and handling**), stewardship (**CS-4 — Critical system stewardship**), and lifecycle engineering (**CS-5**). For those splits:
+Some systems topics are **deliberately** split — for example taxonomy (**CS-2 — Information types and handling**), classification (**CS-3 — System classification and handling**), stewardship (**CS-4 — Critical system stewardship**), lifecycle engineering (**CS-5**), and user-reachable in-scope surfaces (**CS-5, Part A**). For those splits:
 
 - the **primary owner** named in the [Domain topic owner map (CS-D)](#domain-topic-owner-map-cs-d) states the **full operative** rules for its assigned scope;
 - companion **CS-5–CS-12** families specialize without redefining **CS-2–CS-4** taxonomy labels;

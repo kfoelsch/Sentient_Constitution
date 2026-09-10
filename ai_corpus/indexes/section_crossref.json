@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-10T11:59:46+00:00",
+  "generated_at": "2026-09-10T17:15:56+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 14209,
+  "edge_count": 14296,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -221,6 +221,86 @@
       "target_file": "core_05_band_performance.md",
       "target_anchor": "#performance-measurement-family",
       "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "3.1 Using Measurements in Governance",
+      "source_anchor": "#31-using-measurements-in-governance",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#42-technical-forum-domains",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "3.1 Using Measurements in Governance",
+      "source_anchor": "#31-using-measurements-in-governance",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#42-shared-standards-and-anti-displacement",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "3.2 Key Governance Processes",
+      "source_anchor": "#32-key-governance-processes",
+      "target_file": "core_07_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#chapter-seven-system-alignment-certification",
+      "count": 2
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "3.2 Key Governance Processes",
+      "source_anchor": "#32-key-governance-processes",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#chapter-eight-compliance-violation-and-standing-model",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "3.2 Key Governance Processes",
+      "source_anchor": "#32-key-governance-processes",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#41-remedy-and-correction",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "3.2 Key Governance Processes",
+      "source_anchor": "#32-key-governance-processes",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#chapter-eleven-forums-and-jurisdiction",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "3.3 Governance Layers",
+      "source_anchor": "#33-governance-layers",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#due-process-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "3.3 Governance Layers",
+      "source_anchor": "#33-governance-layers",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "3.3 Governance Layers",
+      "source_anchor": "#33-governance-layers",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#constitutional-contract-layer",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "3.3 Governance Layers",
+      "source_anchor": "#33-governance-layers",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#stakeholder-status-and-weight-cluster",
+      "count": 2
     },
     {
       "source_file": "core_00_preamble.md",
@@ -540,86 +620,6 @@
       "source_anchor": "#chapter-00-preamble--foundational-requirements",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "3.1 Using Measurements in Governance",
-      "source_anchor": "#from-measurement-to-evidence-and-remedy",
-      "target_file": "core_11_forum.md",
-      "target_anchor": "#42-technical-forum-domains",
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "3.1 Using Measurements in Governance",
-      "source_anchor": "#from-measurement-to-evidence-and-remedy",
-      "target_file": "core_11_forum.md",
-      "target_anchor": "#42-shared-standards-and-anti-displacement",
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "3.3 Governance Layers",
-      "source_anchor": "#governance-layer-discipline",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#due-process-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "3.3 Governance Layers",
-      "source_anchor": "#governance-layer-discipline",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability",
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "3.3 Governance Layers",
-      "source_anchor": "#governance-layer-discipline",
-      "target_file": "core_05_band_integrative.md",
-      "target_anchor": "#constitutional-contract-layer",
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "3.3 Governance Layers",
-      "source_anchor": "#governance-layer-discipline",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#stakeholder-status-and-weight-cluster",
-      "count": 2
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "3.2 Key Governance Processes",
-      "source_anchor": "#key-governance-processes",
-      "target_file": "core_07_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#chapter-seven-system-alignment-certification",
-      "count": 2
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "3.2 Key Governance Processes",
-      "source_anchor": "#key-governance-processes",
-      "target_file": "core_08_standing_assessment.md",
-      "target_anchor": "#chapter-eight-compliance-violation-and-standing-model",
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "3.2 Key Governance Processes",
-      "source_anchor": "#key-governance-processes",
-      "target_file": "core_09_standing_integration.md",
-      "target_anchor": "#41-remedy-and-correction",
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "3.2 Key Governance Processes",
-      "source_anchor": "#key-governance-processes",
-      "target_file": "core_11_forum.md",
-      "target_anchor": "#chapter-eleven-forums-and-jurisdiction",
       "count": 1
     },
     {
@@ -7120,6 +7120,22 @@
     },
     {
       "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle",
+      "source_anchor": "#anti-degrading-process-principle",
+      "target_file": "core_04_burden_traceability_verification.md",
+      "target_anchor": "#4-security-constrained-observability-and-verification-rule",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle",
+      "source_anchor": "#anti-degrading-process-principle",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
       "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
       "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
       "target_file": "core_01_a_values_principles.md",
@@ -7132,102 +7148,6 @@
       "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.1 Constitutional No-Bypass Principle",
-      "source_anchor": "#constitutional-no-bypass-principle",
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability",
-      "count": 2
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.1 Constitutional No-Bypass Principle",
-      "source_anchor": "#constitutional-no-bypass-principle",
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability-m",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.1 Constitutional No-Bypass Principle",
-      "source_anchor": "#constitutional-no-bypass-principle",
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability-a",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.1 Constitutional No-Bypass Principle",
-      "source_anchor": "#constitutional-no-bypass-principle",
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.1 Constitutional No-Bypass Principle",
-      "source_anchor": "#constitutional-no-bypass-principle",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability",
-      "count": 2
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.1 Constitutional No-Bypass Principle",
-      "source_anchor": "#constitutional-no-bypass-principle",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.1 Constitutional No-Bypass Principle",
-      "source_anchor": "#constitutional-no-bypass-principle",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.1 Constitutional No-Bypass Principle",
-      "source_anchor": "#constitutional-no-bypass-principle",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability",
-      "count": 2
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.1 Constitutional No-Bypass Principle",
-      "source_anchor": "#constitutional-no-bypass-principle",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.1 Constitutional No-Bypass Principle",
-      "source_anchor": "#constitutional-no-bypass-principle",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle",
-      "source_anchor": "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
-      "target_file": "core_04_burden_traceability_verification.md",
-      "target_anchor": "#4-security-constrained-observability-and-verification-rule",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle",
-      "source_anchor": "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
-      "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
       "count": 1
     },
     {
@@ -7660,6 +7580,86 @@
       "source_anchor": null,
       "target_file": "core_16_incorporation.md",
       "target_anchor": "#chapter-sixteen-incorporation-bridge",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "8.1 Constitutional No-Bypass Principle",
+      "source_anchor": null,
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "8.1 Constitutional No-Bypass Principle",
+      "source_anchor": null,
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-m",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "8.1 Constitutional No-Bypass Principle",
+      "source_anchor": null,
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-a",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "8.1 Constitutional No-Bypass Principle",
+      "source_anchor": null,
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "8.1 Constitutional No-Bypass Principle",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "8.1 Constitutional No-Bypass Principle",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "8.1 Constitutional No-Bypass Principle",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "8.1 Constitutional No-Bypass Principle",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "8.1 Constitutional No-Bypass Principle",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "8.1 Constitutional No-Bypass Principle",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-c",
       "count": 1
     },
     {
@@ -15048,14 +15048,6 @@
     },
     {
       "source_file": "core_03_definition_integrity.md",
-      "source_header": "2.1.1 Formal Label and Representation Gaming",
-      "source_anchor": "#formal-label-gaming-discipline",
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#116-successor-responsibility-and-formal-structure-non-escape",
-      "count": 1
-    },
-    {
-      "source_file": "core_03_definition_integrity.md",
       "source_header": "1. Definition Integrity and Anti-Evasion Constraints",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
@@ -15172,6 +15164,14 @@
       "source_anchor": null,
       "target_file": "core_08_standing_assessment.md",
       "target_anchor": "#chapter-eight-compliance-violation-and-standing-model",
+      "count": 1
+    },
+    {
+      "source_file": "core_03_definition_integrity.md",
+      "source_header": "2.1.1 Formal Label and Representation Gaming",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#116-successor-responsibility-and-formal-structure-non-escape",
       "count": 1
     },
     {
@@ -17963,7 +17963,7 @@
       "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
       "source_anchor": "#accountability",
       "target_file": "core_03_definition_integrity.md",
-      "target_anchor": "#formal-label-gaming-discipline",
+      "target_anchor": "#211-formal-label-and-representation-gaming",
       "count": 1
     },
     {
@@ -20427,7 +20427,7 @@
       "source_header": "Autonomous Coercion Tool",
       "source_anchor": "#autonomous-coercion-tool-constitutional",
       "target_file": "core_03_definition_integrity.md",
-      "target_anchor": "#formal-label-gaming-discipline",
+      "target_anchor": "#211-formal-label-and-representation-gaming",
       "count": 2
     },
     {
@@ -20603,7 +20603,7 @@
       "source_header": "Autonomous Lethal System",
       "source_anchor": "#autonomous-lethal-system-constitutional",
       "target_file": "core_03_definition_integrity.md",
-      "target_anchor": "#formal-label-gaming-discipline",
+      "target_anchor": "#211-formal-label-and-representation-gaming",
       "count": 1
     },
     {
@@ -23251,7 +23251,7 @@
       "source_header": "Governance",
       "source_anchor": "#governance",
       "target_file": "core_00_preamble.md",
-      "target_anchor": "#governance-layer-discipline",
+      "target_anchor": "#33-governance-layers",
       "count": 3
     },
     {
@@ -28515,7 +28515,7 @@
       "source_header": "Constitutional Emergency and Contingency",
       "source_anchor": "#constitutional-emergency-and-contingency",
       "target_file": "core_00_preamble.md",
-      "target_anchor": "#governance-layer-discipline",
+      "target_anchor": "#33-governance-layers",
       "count": 1
     },
     {
@@ -29892,7 +29892,7 @@
       "source_anchor": "#emergency-pre-deliberation-action-binding-collective-choice",
       "target_file": "core_12_governance.md",
       "target_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -33128,6 +33128,14 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
+      "source_header": "Stakeholder Emergency and Contingency",
+      "source_anchor": "#stakeholder-emergency-and-contingency",
+      "target_file": "core_12_governance.md",
+      "target_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
       "source_header": "Stewardship",
       "source_anchor": "#stewardship-constitutional",
       "target_file": "core_00_preamble.md",
@@ -36211,7 +36219,7 @@
       "source_header": "Authority Stack and Internal Hierarchy",
       "source_anchor": "#authority-stack",
       "target_file": "core_00_preamble.md",
-      "target_anchor": "#governance-layer-discipline",
+      "target_anchor": "#33-governance-layers",
       "count": 3
     },
     {
@@ -36531,7 +36539,7 @@
       "source_header": "Constitutional Contract Layer",
       "source_anchor": "#constitutional-contract-layer",
       "target_file": "core_00_preamble.md",
-      "target_anchor": "#governance-layer-discipline",
+      "target_anchor": "#33-governance-layers",
       "count": 4
     },
     {
@@ -36779,7 +36787,7 @@
       "source_header": "Def.I1 Corpus and Authority Stack",
       "source_anchor": "#corpus-authority-stack-supremacy-and-enforceability-cluster",
       "target_file": "core_00_preamble.md",
-      "target_anchor": "#governance-layer-discipline",
+      "target_anchor": "#33-governance-layers",
       "count": 1
     },
     {
@@ -36851,7 +36859,7 @@
       "source_header": "Foundational Constitutional Choice",
       "source_anchor": "#foundational-constitutional-choice",
       "target_file": "core_00_preamble.md",
-      "target_anchor": "#governance-layer-discipline",
+      "target_anchor": "#33-governance-layers",
       "count": 1
     },
     {
@@ -37500,6 +37508,14 @@
       "source_anchor": "#innovation-reward-and-anti-enclosure",
       "target_file": "corpus_systems.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Integrative Constitutional Definitions",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#33-governance-layers",
       "count": 1
     },
     {
@@ -39483,7 +39499,7 @@
       "source_header": "Public Oversight Baseline Disclosure",
       "source_anchor": "#public-oversight-baseline-disclosure",
       "target_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "target_anchor": "#type-o-open-public-baseline-disclosure-data",
+      "target_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
       "count": 1
     },
     {
@@ -41243,7 +41259,7 @@
       "source_header": "Def.P2 Binding Stakeholder Choice",
       "source_anchor": "#binding-stakeholder-choice-cluster",
       "target_file": "core_00_preamble.md",
-      "target_anchor": "#governance-layer-discipline",
+      "target_anchor": "#33-governance-layers",
       "count": 1
     },
     {
@@ -42083,7 +42099,7 @@
       "source_header": "Contested-Sentient Life",
       "source_anchor": "#contested-sentient-life-constitutional",
       "target_file": "core_03_definition_integrity.md",
-      "target_anchor": "#formal-label-gaming-discipline",
+      "target_anchor": "#211-formal-label-and-representation-gaming",
       "count": 1
     },
     {
@@ -45307,7 +45323,7 @@
       "source_header": "Sentience Status Adjudication",
       "source_anchor": "#sentience-status-adjudication-constitutional",
       "target_file": "core_03_definition_integrity.md",
-      "target_anchor": "#formal-label-gaming-discipline",
+      "target_anchor": "#211-formal-label-and-representation-gaming",
       "count": 1
     },
     {
@@ -45747,7 +45763,7 @@
       "source_header": "Stakeholder",
       "source_anchor": "#stakeholder",
       "target_file": "core_00_preamble.md",
-      "target_anchor": "#governance-layer-discipline",
+      "target_anchor": "#33-governance-layers",
       "count": 2
     },
     {
@@ -45883,7 +45899,7 @@
       "source_header": "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
       "source_anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
       "target_file": "core_00_preamble.md",
-      "target_anchor": "#governance-layer-discipline",
+      "target_anchor": "#33-governance-layers",
       "count": 1
     },
     {
@@ -45971,7 +45987,7 @@
       "source_header": "Stakeholder status and weight",
       "source_anchor": "#stakeholder-status-and-weight-cluster",
       "target_file": "core_00_preamble.md",
-      "target_anchor": "#governance-layer-discipline",
+      "target_anchor": "#33-governance-layers",
       "count": 1
     },
     {
@@ -52947,7 +52963,7 @@
       "source_header": "Article VII-C: Mental-Health Crisis and Involuntary-Intervention Floor",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
+      "target_anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
       "count": 1
     },
     {
@@ -53083,7 +53099,7 @@
       "source_header": "Article VII-D.1: Derivation, Instantiation, and the Parent-System Relationship",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
+      "target_anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
       "count": 1
     },
     {
@@ -55739,7 +55755,7 @@
       "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
       "source_anchor": "#anti-substitution-sentience-status-xviii",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
+      "target_anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
       "count": 1
     },
     {
@@ -61267,7 +61283,7 @@
       "source_header": "Article XVII-D: Innovation Reward, Disclosure, and Anti-Enclosure",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
+      "target_anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
       "count": 1
     },
     {
@@ -63067,7 +63083,7 @@
       "source_header": "Article XXIII-D: Emergency Measures and Continuation Burden",
       "source_anchor": "#article-xxiii-d-emergency-measures-and-continuation-burden",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
+      "target_anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
       "count": 1
     },
     {
@@ -63075,7 +63091,7 @@
       "source_header": "Article XXIII-D: Emergency Measures and Continuation Burden",
       "source_anchor": "#article-xxiii-d-emergency-measures-and-continuation-burden",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#constitutional-no-bypass-principle",
+      "target_anchor": "#81-constitutional-no-bypass-principle",
       "count": 1
     },
     {
@@ -63619,7 +63635,7 @@
       "source_header": "Article XXVI-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives",
       "source_anchor": "#article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
+      "target_anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
       "count": 1
     },
     {
@@ -63763,7 +63779,7 @@
       "source_header": "Article XXVI-B: Transitional Authority Limits and Reauthorization",
       "source_anchor": "#incentive-alignment-transition-carve-out",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
+      "target_anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
       "count": 1
     },
     {
@@ -64091,7 +64107,7 @@
       "source_header": "Article XXIII-C: Least-Restrictive and Time-Bounded Rule",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
+      "target_anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
       "count": 1
     },
     {
@@ -64387,7 +64403,7 @@
       "source_header": "Article XXIV-A: Retrospective Review and Disclosure",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
+      "target_anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
       "count": 1
     },
     {
@@ -64499,7 +64515,7 @@
       "source_header": "Article XXIV-B: Rights-Collision Procedure and Restorative Alignment",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
+      "target_anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
       "count": 1
     },
     {
@@ -64707,7 +64723,7 @@
       "source_header": "Article XXV-B: Periodic Revalidation and Transparent Change",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#constitutional-no-bypass-principle",
+      "target_anchor": "#81-constitutional-no-bypass-principle",
       "count": 1
     },
     {
@@ -64963,7 +64979,7 @@
       "source_header": "Article XXVI: Transition Governance, Continuity, and Re-Baselining",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
+      "target_anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
       "count": 1
     },
     {
@@ -64971,7 +64987,7 @@
       "source_header": "Article XXVI: Transition Governance, Continuity, and Re-Baselining",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#constitutional-no-bypass-principle",
+      "target_anchor": "#81-constitutional-no-bypass-principle",
       "count": 1
     },
     {
@@ -65004,6 +65020,22 @@
       "source_anchor": null,
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_07_a_system_alignment_certification_evaluation.md",
+      "source_header": "1.1 Rights floors this chapter helps verify",
+      "source_anchor": "#1-purpose-and-role",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safe-conditions-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_a_system_alignment_certification_evaluation.md",
+      "source_header": "1.1 Rights floors this chapter helps verify",
+      "source_anchor": "#1-purpose-and-role",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#proportionate-cross-system-support-constitutional",
       "count": 1
     },
     {
@@ -65180,22 +65212,6 @@
       "source_anchor": "#101-illustrative-trustworthiness-application-by-class",
       "target_file": "core_07_b_system_alignment_certification_record_process.md",
       "target_anchor": "#11-certification-record",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.1 Rights floors this chapter helps verify",
-      "source_anchor": "#12-rights-floors-this-chapter-helps-verify",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#safe-conditions-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.1 Rights floors this chapter helps verify",
-      "source_anchor": "#12-rights-floors-this-chapter-helps-verify",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#proportionate-cross-system-support-constitutional",
       "count": 1
     },
     {
@@ -68344,6 +68360,86 @@
     },
     {
       "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "4. Stewardship delay and deferred repair",
+      "source_anchor": "#4-stewardship-delay-and-deferred-repair",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#91-stewardship",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "4. Stewardship delay and deferred repair",
+      "source_anchor": "#4-stewardship-delay-and-deferred-repair",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#stewardship-defect-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "4. Stewardship delay and deferred repair",
+      "source_anchor": "#4-stewardship-delay-and-deferred-repair",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "4. Stewardship delay and deferred repair",
+      "source_anchor": "#4-stewardship-delay-and-deferred-repair",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "4. Stewardship delay and deferred repair",
+      "source_anchor": "#4-stewardship-delay-and-deferred-repair",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#95-timely-implementation-and-reassessment",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "4. Stewardship delay and deferred repair",
+      "source_anchor": "#4-stewardship-delay-and-deferred-repair",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "5. Pipeline overrun and tetrad-hollow forums",
+      "source_anchor": "#5-pipeline-overrun-and-tetrad-hollow-forums",
+      "target_file": "core_05_apex_timeliness_leg.md",
+      "target_anchor": "#timeliness-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "5. Pipeline overrun and tetrad-hollow forums",
+      "source_anchor": "#5-pipeline-overrun-and-tetrad-hollow-forums",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#capture-of-resolution-pathways",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "5. Pipeline overrun and tetrad-hollow forums",
+      "source_anchor": "#5-pipeline-overrun-and-tetrad-hollow-forums",
+      "target_file": "core_10_a_misconduct_designation.md",
+      "target_anchor": "#chapter-ten-anti-constitutional-misconduct",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "5. Pipeline overrun and tetrad-hollow forums",
+      "source_anchor": "#5-pipeline-overrun-and-tetrad-hollow-forums",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
       "source_header": "CHAPTERS EIGHT–ELEVEN: PIPELINE APPLICATION VIGNETTES",
       "source_anchor": "#chapters-eight-eleven-application-vignettes",
       "target_file": "core_08_standing_assessment.md",
@@ -68485,86 +68581,6 @@
       "target_file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "target_anchor": "#10-inspectable-attributable-action",
       "count": 2
-    },
-    {
-      "source_file": "core_08-11_application_vignettes.md",
-      "source_header": "5. Pipeline overrun and tetrad-hollow forums",
-      "source_anchor": "#vignette-pipeline-overrun-tetrad-hollow",
-      "target_file": "core_05_apex_timeliness_leg.md",
-      "target_anchor": "#timeliness-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_08-11_application_vignettes.md",
-      "source_header": "5. Pipeline overrun and tetrad-hollow forums",
-      "source_anchor": "#vignette-pipeline-overrun-tetrad-hollow",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#capture-of-resolution-pathways",
-      "count": 1
-    },
-    {
-      "source_file": "core_08-11_application_vignettes.md",
-      "source_header": "5. Pipeline overrun and tetrad-hollow forums",
-      "source_anchor": "#vignette-pipeline-overrun-tetrad-hollow",
-      "target_file": "core_10_a_misconduct_designation.md",
-      "target_anchor": "#chapter-ten-anti-constitutional-misconduct",
-      "count": 1
-    },
-    {
-      "source_file": "core_08-11_application_vignettes.md",
-      "source_header": "5. Pipeline overrun and tetrad-hollow forums",
-      "source_anchor": "#vignette-pipeline-overrun-tetrad-hollow",
-      "target_file": "core_11_forum.md",
-      "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-      "count": 1
-    },
-    {
-      "source_file": "core_08-11_application_vignettes.md",
-      "source_header": "4. Stewardship delay and deferred repair",
-      "source_anchor": "#vignette-stewardship-delay-deferred-repair",
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#91-stewardship",
-      "count": 1
-    },
-    {
-      "source_file": "core_08-11_application_vignettes.md",
-      "source_header": "4. Stewardship delay and deferred repair",
-      "source_anchor": "#vignette-stewardship-delay-deferred-repair",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#stewardship-defect-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_08-11_application_vignettes.md",
-      "source_header": "4. Stewardship delay and deferred repair",
-      "source_anchor": "#vignette-stewardship-delay-deferred-repair",
-      "target_file": "core_06_rights_part_d.md",
-      "target_anchor": "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
-      "count": 1
-    },
-    {
-      "source_file": "core_08-11_application_vignettes.md",
-      "source_header": "4. Stewardship delay and deferred repair",
-      "source_anchor": "#vignette-stewardship-delay-deferred-repair",
-      "target_file": "core_08_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
-      "count": 1
-    },
-    {
-      "source_file": "core_08-11_application_vignettes.md",
-      "source_header": "4. Stewardship delay and deferred repair",
-      "source_anchor": "#vignette-stewardship-delay-deferred-repair",
-      "target_file": "core_09_standing_integration.md",
-      "target_anchor": "#95-timely-implementation-and-reassessment",
-      "count": 1
-    },
-    {
-      "source_file": "core_08-11_application_vignettes.md",
-      "source_header": "4. Stewardship delay and deferred repair",
-      "source_anchor": "#vignette-stewardship-delay-deferred-repair",
-      "target_file": "core_11_forum.md",
-      "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-      "count": 1
     },
     {
       "source_file": "core_08-11_application_vignettes.md",
@@ -69146,6 +69162,30 @@
       "source_file": "core_08_standing_assessment.md",
       "source_header": "3.7 Record custody and opening authority",
       "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_04_burden_traceability_verification.md",
+      "target_anchor": "#5-compliance-evidence-standard",
+      "count": 2
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#good-faith",
+      "count": 2
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 2
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#charter",
       "count": 2
@@ -69156,6 +69196,14 @@
       "source_anchor": "#37-record-custody-and-opening-authority",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#evidence-preservation",
+      "count": 3
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xii-b-right-to-challenge-review-and-redress",
       "count": 2
     },
     {
@@ -69164,7 +69212,7 @@
       "source_anchor": "#37-record-custody-and-opening-authority",
       "target_file": "core_06_rights_part_d.md",
       "target_anchor": "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_08_standing_assessment.md",
@@ -69211,6 +69259,14 @@
       "source_header": "3.7 Record custody and opening authority",
       "source_anchor": "#37-record-custody-and-opening-authority",
       "target_file": "core_11_forum.md",
+      "target_anchor": "#23-forum-records-standing-records-and-contests",
+      "count": 2
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_11_forum.md",
       "target_anchor": "#chapter-eleven-forums-and-jurisdiction",
       "count": 1
     },
@@ -69220,7 +69276,7 @@
       "source_anchor": "#37-record-custody-and-opening-authority",
       "target_file": "core_11_forum.md",
       "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_08_standing_assessment.md",
@@ -74152,6 +74208,14 @@
     },
     {
       "source_file": "core_11_forum.md",
+      "source_header": "2.3 Forum case records, standing records, and contests",
+      "source_anchor": "#23-forum-records-standing-records-and-contests",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-challenge-received-on-the-record",
+      "count": 1
+    },
+    {
+      "source_file": "core_11_forum.md",
       "source_header": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
       "source_anchor": "#3-transfer-consolidation-and-coordination",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
@@ -74211,7 +74275,7 @@
       "source_header": "4. Forum family definitions — accountability through adjudication",
       "source_anchor": "#4-forum-family-definitions",
       "target_file": "core_00_preamble.md",
-      "target_anchor": "#from-measurement-to-evidence-and-remedy",
+      "target_anchor": "#31-using-measurements-in-governance",
       "count": 1
     },
     {
@@ -75653,6 +75717,14 @@
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#911-symmetric-costly-constraints",
       "count": 2
+    },
+    {
+      "source_file": "core_12_governance.md",
+      "source_header": "5. Authorized Roles, Competency Development, and Contribution",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#101-segregation-of-duties",
+      "count": 1
     },
     {
       "source_file": "core_12_governance.md",
@@ -81387,7 +81459,7 @@
       "source_header": "CF-8: Forum forensic and analytical support",
       "source_anchor": null,
       "target_file": "core_00_preamble.md",
-      "target_anchor": "#from-measurement-to-evidence-and-remedy",
+      "target_anchor": "#31-using-measurements-in-governance",
       "count": 1
     },
     {
@@ -83723,7 +83795,7 @@
       "source_header": "CF-11: Forum performance, backlog requirements, publication timeliness, and accessibility",
       "source_anchor": null,
       "target_file": "core_00_preamble.md",
-      "target_anchor": "#from-measurement-to-evidence-and-remedy",
+      "target_anchor": "#31-using-measurements-in-governance",
       "count": 1
     },
     {
@@ -89216,6 +89288,30 @@
     },
     {
       "source_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+      "source_header": "CI-3.2: Functional separation lanes",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-conflicted-custodian-on-a-single-record",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+      "source_header": "CI-3.2: Functional separation lanes",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-challenge-received-on-the-record",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+      "source_header": "CI-3.2: Functional separation lanes",
+      "source_anchor": null,
+      "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "target_anchor": "#ci-46-seat-catalog",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "source_header": "CI-3.3: Authority chain and delegation controls",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
@@ -89357,6 +89453,22 @@
       "target_file": "core_08_standing_assessment.md",
       "target_anchor": "#37-record-custody-and-opening-authority",
       "count": 2
+    },
+    {
+      "source_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+      "source_header": "CI-3.6: Charter contents, review, and formation template",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-conflicted-custodian-on-a-single-record",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+      "source_header": "CI-3.6: Charter contents, review, and formation template",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-challenge-received-on-the-record",
+      "count": 1
     },
     {
       "source_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
@@ -90040,250 +90152,474 @@
     },
     {
       "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.1: Shared staffing and competency floor",
-      "source_anchor": null,
-      "target_file": "core_05__definitions_home.md",
-      "target_anchor": "#chapter-five-foundational-definitions",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
       "count": 1
     },
     {
       "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.1: Shared staffing and competency floor",
-      "source_anchor": null,
-      "target_file": "core_06_rights_part_a.md",
-      "target_anchor": "#chapter-six-foundational-rights",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#default-interim-posture",
+      "count": 3
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#61-core-tradeoff-principles",
       "count": 1
     },
     {
       "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.1: Shared staffing and competency floor",
-      "source_anchor": null,
-      "target_file": "core_16_incorporation.md",
-      "target_anchor": "#chapter-sixteen-incorporation-bridge",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#101-segregation-of-duties",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#911-shared-stewardship-standard",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#96-process-character-discipline-anti-degrading-process-principle",
       "count": 1
     },
     {
       "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.1: Shared staffing and competency floor",
-      "source_anchor": null,
-      "target_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-      "target_anchor": "#cjs-01-topic-router-stable-ids",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#14-systemic-evaluation-requirement",
       "count": 1
     },
     {
       "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.1: Shared staffing and competency floor",
-      "source_anchor": null,
-      "target_file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-      "target_anchor": "#cjs-13-shared-implementation-corpus-preamble-contract",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_04_burden_traceability_verification.md",
+      "target_anchor": "#5-compliance-evidence-standard",
       "count": 1
     },
     {
       "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
-      "source_anchor": null,
-      "target_file": "core_05__definitions_home.md",
-      "target_anchor": "#chapter-five-foundational-definitions",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_04_burden_traceability_verification.md",
+      "target_anchor": "#4-security-constrained-observability-and-verification-rule",
       "count": 1
     },
     {
       "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
-      "source_anchor": null,
-      "target_file": "core_06_rights_part_a.md",
-      "target_anchor": "#chapter-six-foundational-rights",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xii-b-right-to-challenge-review-and-redress",
       "count": 1
     },
     {
       "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
-      "source_anchor": null,
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxiii-d-emergency-measures-and-continuation-burden",
+      "count": 4
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_07_a_system_alignment_certification_evaluation.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-record-custody-and-opening-authority",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#36-forum-boundary",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-conflicted-custodian-on-a-single-record",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-challenge-received-on-the-record",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#51-standard-contribution-measures",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-segregation-of-duties",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
       "target_file": "core_09_standing_integration.md",
       "target_anchor": "#62-competency-bars-and-clearances",
       "count": 1
     },
     {
       "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
-      "source_anchor": null,
-      "target_file": "core_09_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#chapter-eleven-forums-and-jurisdiction",
       "count": 1
     },
     {
       "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
-      "source_anchor": null,
-      "target_file": "core_09_standing_integration.md",
-      "target_anchor": "#55-special-locks",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_12_governance.md",
+      "target_anchor": "#5-authorized-roles-competency-development-and-contribution",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_14_expansion_supremacy.md",
+      "target_anchor": null,
       "count": 1
     },
     {
       "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
-      "source_anchor": null,
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
       "target_file": "core_16_incorporation.md",
       "target_anchor": "#chapter-sixteen-incorporation-bridge",
       "count": 1
     },
     {
       "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
-      "source_anchor": null,
-      "target_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-      "target_anchor": "#cjs-01-topic-router-stable-ids",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
-      "source_anchor": null,
-      "target_file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-      "target_anchor": "#cjs-13-shared-implementation-corpus-preamble-contract",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.3: Periodic performance and capability review",
-      "source_anchor": null,
-      "target_file": "core_05__definitions_home.md",
-      "target_anchor": "#chapter-five-foundational-definitions",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.3: Periodic performance and capability review",
-      "source_anchor": null,
-      "target_file": "core_06_rights_part_a.md",
-      "target_anchor": "#chapter-six-foundational-rights",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.3: Periodic performance and capability review",
-      "source_anchor": null,
-      "target_file": "core_16_incorporation.md",
-      "target_anchor": "#chapter-sixteen-incorporation-bridge",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.3: Periodic performance and capability review",
-      "source_anchor": null,
-      "target_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-      "target_anchor": "#cjs-01-topic-router-stable-ids",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.3: Periodic performance and capability review",
-      "source_anchor": null,
-      "target_file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-      "target_anchor": "#cjs-13-shared-implementation-corpus-preamble-contract",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.4: Interpretive-body composition controls",
-      "source_anchor": null,
-      "target_file": "core_05__definitions_home.md",
-      "target_anchor": "#chapter-five-foundational-definitions",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.4: Interpretive-body composition controls",
-      "source_anchor": null,
-      "target_file": "core_06_rights_part_a.md",
-      "target_anchor": "#chapter-six-foundational-rights",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.4: Interpretive-body composition controls",
-      "source_anchor": null,
-      "target_file": "core_16_incorporation.md",
-      "target_anchor": "#chapter-sixteen-incorporation-bridge",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.4: Interpretive-body composition controls",
-      "source_anchor": null,
-      "target_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-      "target_anchor": "#cjs-01-topic-router-stable-ids",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.4: Interpretive-body composition controls",
-      "source_anchor": null,
-      "target_file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-      "target_anchor": "#cjs-13-shared-implementation-corpus-preamble-contract",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.5: Authorized roles and accountability chains",
-      "source_anchor": null,
-      "target_file": "core_05__definitions_home.md",
-      "target_anchor": "#chapter-five-foundational-definitions",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.5: Authorized roles and accountability chains",
-      "source_anchor": null,
-      "target_file": "core_06_rights_part_a.md",
-      "target_anchor": "#chapter-six-foundational-rights",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.5: Authorized roles and accountability chains",
-      "source_anchor": null,
-      "target_file": "core_09_standing_integration.md",
-      "target_anchor": "#62-competency-bars-and-clearances",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.5: Authorized roles and accountability chains",
-      "source_anchor": null,
-      "target_file": "core_09_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.5: Authorized roles and accountability chains",
-      "source_anchor": null,
-      "target_file": "core_09_standing_integration.md",
-      "target_anchor": "#55-special-locks",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.5: Authorized roles and accountability chains",
-      "source_anchor": null,
-      "target_file": "core_16_incorporation.md",
-      "target_anchor": "#chapter-sixteen-incorporation-bridge",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.5: Authorized roles and accountability chains",
-      "source_anchor": null,
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
       "target_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "target_anchor": null,
       "count": 1
     },
     {
       "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.5: Authorized roles and accountability chains",
-      "source_anchor": null,
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
       "target_file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+      "target_anchor": "#cjs-01-topic-router-stable-ids",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+      "target_anchor": "#cjs-13-shared-implementation-corpus-preamble-contract",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.1: Shared staffing and competency floor",
+      "source_anchor": null,
+      "target_file": "core_05__definitions_home.md",
+      "target_anchor": "#chapter-five-foundational-definitions",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.1: Shared staffing and competency floor",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#chapter-six-foundational-rights",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.1: Shared staffing and competency floor",
+      "source_anchor": null,
+      "target_file": "core_16_incorporation.md",
+      "target_anchor": "#chapter-sixteen-incorporation-bridge",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.1: Shared staffing and competency floor",
+      "source_anchor": null,
+      "target_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+      "target_anchor": "#cjs-01-topic-router-stable-ids",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.1: Shared staffing and competency floor",
+      "source_anchor": null,
+      "target_file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+      "target_anchor": "#cjs-13-shared-implementation-corpus-preamble-contract",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
+      "source_anchor": null,
+      "target_file": "core_05__definitions_home.md",
+      "target_anchor": "#chapter-five-foundational-definitions",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#chapter-six-foundational-rights",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#62-competency-bars-and-clearances",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#42-general-standing-locks",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#55-special-locks",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
+      "source_anchor": null,
+      "target_file": "core_16_incorporation.md",
+      "target_anchor": "#chapter-sixteen-incorporation-bridge",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
+      "source_anchor": null,
+      "target_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+      "target_anchor": "#cjs-01-topic-router-stable-ids",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
+      "source_anchor": null,
+      "target_file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+      "target_anchor": "#cjs-13-shared-implementation-corpus-preamble-contract",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.3: Periodic performance and capability review",
+      "source_anchor": null,
+      "target_file": "core_05__definitions_home.md",
+      "target_anchor": "#chapter-five-foundational-definitions",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.3: Periodic performance and capability review",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#chapter-six-foundational-rights",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.3: Periodic performance and capability review",
+      "source_anchor": null,
+      "target_file": "core_16_incorporation.md",
+      "target_anchor": "#chapter-sixteen-incorporation-bridge",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.3: Periodic performance and capability review",
+      "source_anchor": null,
+      "target_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+      "target_anchor": "#cjs-01-topic-router-stable-ids",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.3: Periodic performance and capability review",
+      "source_anchor": null,
+      "target_file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+      "target_anchor": "#cjs-13-shared-implementation-corpus-preamble-contract",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.4: Interpretive-body composition controls",
+      "source_anchor": null,
+      "target_file": "core_05__definitions_home.md",
+      "target_anchor": "#chapter-five-foundational-definitions",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.4: Interpretive-body composition controls",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#chapter-six-foundational-rights",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.4: Interpretive-body composition controls",
+      "source_anchor": null,
+      "target_file": "core_16_incorporation.md",
+      "target_anchor": "#chapter-sixteen-incorporation-bridge",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.4: Interpretive-body composition controls",
+      "source_anchor": null,
+      "target_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+      "target_anchor": "#cjs-01-topic-router-stable-ids",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.4: Interpretive-body composition controls",
+      "source_anchor": null,
+      "target_file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+      "target_anchor": "#cjs-13-shared-implementation-corpus-preamble-contract",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.5: Authorized roles and accountability chains",
+      "source_anchor": null,
+      "target_file": "core_05__definitions_home.md",
+      "target_anchor": "#chapter-five-foundational-definitions",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.5: Authorized roles and accountability chains",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#chapter-six-foundational-rights",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.5: Authorized roles and accountability chains",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#62-competency-bars-and-clearances",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.5: Authorized roles and accountability chains",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#42-general-standing-locks",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.5: Authorized roles and accountability chains",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#55-special-locks",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.5: Authorized roles and accountability chains",
+      "source_anchor": null,
+      "target_file": "core_16_incorporation.md",
+      "target_anchor": "#chapter-sixteen-incorporation-bridge",
       "count": 1
     },
     {
@@ -94211,7 +94547,7 @@
       "source_header": "CI-14.3: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements",
       "source_anchor": "#ci-143-article-xxvi-d-operative-transition-scoped-remediation-requirements",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
+      "target_anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
       "count": 1
     },
     {
@@ -99028,7 +99364,7 @@
       "source_anchor": "#cross-file-routing",
       "target_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "target_anchor": null,
-      "count": 4
+      "count": 5
     },
     {
       "source_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
@@ -99036,7 +99372,7 @@
       "source_anchor": "#cross-file-routing",
       "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "target_anchor": null,
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
@@ -99507,7 +99843,7 @@
       "source_header": "CJS-1.3: Shared implementation-corpus preamble contract",
       "source_anchor": "#cjs-13-shared-implementation-corpus-preamble-contract",
       "target_file": "core_00_preamble.md",
-      "target_anchor": "#governance-layer-discipline",
+      "target_anchor": "#33-governance-layers",
       "count": 1
     },
     {
@@ -101058,6 +101394,14 @@
       "source_file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
       "source_header": "CJS-3.0 Cross-band: Role-definition preface and standing competency bar and clearance interface",
       "source_anchor": "#cjs-30-role-definition-preface-and-standing-competency-gate-interface",
+      "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "target_anchor": "#ci-46-seat-catalog",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
+      "source_header": "CJS-3.0 Cross-band: Role-definition preface and standing competency bar and clearance interface",
+      "source_anchor": "#cjs-30-role-definition-preface-and-standing-competency-gate-interface",
       "target_file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "target_anchor": null,
       "count": 1
@@ -101107,7 +101451,7 @@
       "source_header": "CJS-3.1 Library: Constitutional compass and cluster map",
       "source_anchor": "#stewardship-role-c",
       "target_file": "core_00_preamble.md",
-      "target_anchor": "#from-measurement-to-evidence-and-remedy",
+      "target_anchor": "#31-using-measurements-in-governance",
       "count": 1
     },
     {
@@ -101644,6 +101988,14 @@
       "source_anchor": "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable",
       "target_file": "core_10_b_misconduct_pattern_applications.md",
       "target_anchor": "#51-concentration-based-subversion-criteria-interaction",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
+      "source_header": "CJS-3.11.3 Consolidation ceiling-setting discipline (adopter-tunable)",
+      "source_anchor": "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable",
+      "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "target_anchor": "#ci-46-seat-catalog",
       "count": 1
     },
     {
@@ -108154,6 +108506,14 @@
       "source_file": "corpus_systems.md",
       "source_header": "Engineering protocols",
       "source_anchor": null,
+      "target_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems.md",
+      "source_header": "Engineering protocols",
+      "source_anchor": null,
       "target_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "target_anchor": null,
       "count": 1
@@ -109131,7 +109491,7 @@
       "source_header": "CS-2.1 Purpose and scope",
       "source_anchor": "#cs-2-1-purpose-and-scope",
       "target_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "target_anchor": "#type-o-open-public-baseline-disclosure-data",
+      "target_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
       "count": 1
     },
     {
@@ -109211,7 +109571,7 @@
       "source_header": "CS-2.5 Cross-domain governance principles",
       "source_anchor": "#cs-2-5-cross-domain-governance-principles",
       "target_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "target_anchor": "#type-o-open-public-baseline-disclosure-data",
+      "target_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
       "count": 1
     },
     {
@@ -109283,7 +109643,7 @@
       "source_header": "CS-2.7 Type O baseline for Class A/B/C systems",
       "source_anchor": "#cs-2-7-type-o-baseline-for-class-a-b-c-systems",
       "target_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "target_anchor": "#type-o-open-public-baseline-disclosure-data",
+      "target_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
       "count": 1
     },
     {
@@ -109528,6 +109888,86 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#charter",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-boundaries",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-classification-record-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-data-types-record-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-certification-record-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#public-oversight-baseline-disclosure",
+      "count": 5
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#risk-disclosure",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#50-access-posture-bands",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#cs-2-7-type-o-baseline-for-class-a-b-c-systems",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
       "source_header": "8.4 Type H: Historical, relational, transactional, and participation data",
       "source_anchor": "#84-type-h-historical-relational-transactional-and-participation-data",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
@@ -109588,86 +110028,6 @@
       "source_anchor": "#cs-2-part-b-data-classifications",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#cs-2-part-a-information-types-and-handling",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#type-o-open-public-baseline-disclosure-data",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#charter",
-      "count": 2
-    },
-    {
-      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#type-o-open-public-baseline-disclosure-data",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-boundaries",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#type-o-open-public-baseline-disclosure-data",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-classification-record-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#type-o-open-public-baseline-disclosure-data",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-data-types-record-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#type-o-open-public-baseline-disclosure-data",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-certification-record-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#type-o-open-public-baseline-disclosure-data",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-alignment-certification-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#type-o-open-public-baseline-disclosure-data",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#public-oversight-baseline-disclosure",
-      "count": 5
-    },
-    {
-      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#type-o-open-public-baseline-disclosure-data",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#risk-disclosure",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#type-o-open-public-baseline-disclosure-data",
-      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
-      "target_anchor": "#50-access-posture-bands",
-      "count": 2
-    },
-    {
-      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#type-o-open-public-baseline-disclosure-data",
-      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
-      "target_anchor": "#cs-2-7-type-o-baseline-for-class-a-b-c-systems",
       "count": 1
     },
     {
@@ -111050,6 +111410,14 @@
       "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
       "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
+      "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "target_anchor": "#ci-46-seat-catalog",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
+      "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
       "target_file": "corpus_systems/cs_02_b_data_classifications.md",
       "target_anchor": "#86-type-n-neurocognitive-and-internal-data",
       "count": 1
@@ -111535,6 +111903,310 @@
       "count": 1
     },
     {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.11 Purpose and role",
+      "source_anchor": "#cs-5-11-purpose-and-role",
+      "target_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.12 In-scope catalog",
+      "source_anchor": "#cs-5-12-in-scope-catalog",
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-ii-d-post-sale-access-and-subscription-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.12 In-scope catalog",
+      "source_anchor": "#cs-5-12-in-scope-catalog",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-v-g-accessibility",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.12 In-scope catalog",
+      "source_anchor": "#cs-5-12-in-scope-catalog",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xii-b-right-to-challenge-review-and-redress",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.12 In-scope catalog",
+      "source_anchor": "#cs-5-12-in-scope-catalog",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#11-identity-self-ownership-and-recoverability",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.12 In-scope catalog",
+      "source_anchor": "#cs-5-12-in-scope-catalog",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#12-continuity-critical-collection-and-exportability",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.12 In-scope catalog",
+      "source_anchor": "#cs-5-12-in-scope-catalog",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#cs-2-7-type-o-baseline-for-class-a-b-c-systems",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.12 In-scope catalog",
+      "source_anchor": "#cs-5-12-in-scope-catalog",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#cs-2-8-system-data-types-record-governance",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.12 In-scope catalog",
+      "source_anchor": "#cs-5-12-in-scope-catalog",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#53-tiered-transparency-and-audit-access",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.12 In-scope catalog",
+      "source_anchor": "#cs-5-12-in-scope-catalog",
+      "target_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "target_anchor": "#cs-3-7-classification-governance-disclosure-and-challenge",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.12 In-scope catalog",
+      "source_anchor": "#cs-5-12-in-scope-catalog",
+      "target_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "target_anchor": "#10-inspectable-attributable-action",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.12 In-scope catalog",
+      "source_anchor": "#cs-5-12-in-scope-catalog",
+      "target_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "target_anchor": "#cs-4-14-private-chokepoints-sentients-depend-on-access-continuity-and-non-capture",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.12 In-scope catalog",
+      "source_anchor": "#cs-5-12-in-scope-catalog",
+      "target_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "target_anchor": "#cs-5-8-governance-continuity-crisis-communications-and-exercises-high-impact-systems",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.12 In-scope catalog",
+      "source_anchor": "#cs-5-12-in-scope-catalog",
+      "target_file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
+      "target_anchor": "#cs-12-5-offline-audit-integrity-and-reconciliation",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.14 What this file does not own",
+      "source_anchor": "#cs-5-14-what-this-file-does-not-own",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#21-silence-is-the-default",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.14 What this file does not own",
+      "source_anchor": "#cs-5-14-what-this-file-does-not-own",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#35-implementation-tools",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.14 What this file does not own",
+      "source_anchor": "#cs-5-14-what-this-file-does-not-own",
+      "target_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.14 What this file does not own",
+      "source_anchor": "#cs-5-14-what-this-file-does-not-own",
+      "target_file": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "core_05__definitions_home.md",
+      "target_anchor": "#chapter-five-foundational-definitions",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-a",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-c",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#public-oversight-baseline-disclosure",
+      "count": 3
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-a",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-c",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#public-oversight-baseline-disclosure-a",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#public-oversight-baseline-disclosure-c",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#accessibility-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#accessibility-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#accessibility-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xii-b-right-to-challenge-review-and-redress",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xvi-system-lifecycle-environments-and-reversibility",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "core_16_incorporation.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "core_16_incorporation.md",
+      "target_anchor": "#chapter-sixteen-incorporation-bridge",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "corpus_systems.md",
+      "target_anchor": null,
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "corpus_systems/cs_00_registry_and_reading_rules.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
       "source_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "source_header": "CS-5.1 Purpose and role",
       "source_anchor": "#cs-5-1-purpose-and-role",
@@ -111584,6 +112256,14 @@
     },
     {
       "source_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "source_header": "CS-5.1 Purpose and role",
+      "source_anchor": "#cs-5-1-purpose-and-role",
+      "target_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "target_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "source_header": "CS-5.10 Recertification, regression testing, and certification defects",
       "source_anchor": "#cs-5-10-recertification-regression-testing-and-certification-defects",
       "target_file": "core_07_a_system_alignment_certification_evaluation.md",
@@ -111610,7 +112290,7 @@
       "source_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "source_header": "CS-5.10 Recertification, regression testing, and certification defects",
       "source_anchor": "#cs-5-10-recertification-regression-testing-and-certification-defects",
-      "target_file": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
+      "target_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
       "target_anchor": null,
       "count": 1
     },
@@ -112023,10 +112703,26 @@
       "count": 1
     },
     {
+      "source_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "source_header": "CS-5: Design, testing, verification, and deployment",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "source_header": "CS-5: Design, testing, verification, and deployment",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "target_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "count": 1
+    },
+    {
       "source_file": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
       "source_header": "CS-6.4 Gaps and silence",
       "source_anchor": "#cs-6-4-gaps-and-silence",
-      "target_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "target_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
       "target_anchor": null,
       "count": 1
     },
