@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-10T09:23:50+00:00",
+  "generated_at": "2026-09-10T09:51:53+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 241,
@@ -487,13 +487,13 @@
       ]
     },
     "core_01_c_stewardship_capacity_principles.md": {
-      "total_lines": 1226,
+      "total_lines": 1237,
       "sections": [
         {
           "header": "CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE",
           "level": 1,
           "line_start": 4,
-          "line_end": 1226,
+          "line_end": 1237,
           "anchor": "#chapter-01-part-c-stewardship-and-governance"
         },
         {
@@ -556,196 +556,196 @@
           "header": "10. Governance Under Stewardship Discipline",
           "level": 3,
           "line_start": 389,
-          "line_end": 493,
+          "line_end": 504,
           "anchor": "#10-governance-under-stewardship-discipline"
         },
         {
           "header": "10.1 Governance as Authorized Structure",
           "level": 4,
           "line_start": 425,
-          "line_end": 493,
+          "line_end": 504,
           "anchor": "#101-governance-as-authorized-structure"
         },
         {
           "header": "11. Incentive Alignment and System Capture",
           "level": 3,
-          "line_start": 494,
-          "line_end": 803,
+          "line_start": 505,
+          "line_end": 814,
           "anchor": "#11-incentive-alignment-and-system-capture"
         },
         {
           "header": "11.1 Alignment Requirement",
           "level": 4,
-          "line_start": 546,
-          "line_end": 631,
+          "line_start": 557,
+          "line_end": 642,
           "anchor": "#111-alignment-requirement"
         },
         {
           "header": "11.1.1 What Incentives Must Do",
           "level": 5,
-          "line_start": 571,
-          "line_end": 582,
+          "line_start": 582,
+          "line_end": 593,
           "anchor": "#1111-what-incentives-must-do"
         },
         {
           "header": "11.1.2 What Incentives Must Not Do",
           "level": 5,
-          "line_start": 583,
-          "line_end": 604,
+          "line_start": 594,
+          "line_end": 615,
           "anchor": "#1112-what-incentives-must-not-do"
         },
         {
           "header": "11.1.3 Stewardship and Operator Application",
           "level": 5,
-          "line_start": 605,
-          "line_end": 609,
+          "line_start": 616,
+          "line_end": 620,
           "anchor": "#1113-stewardship-and-operator-application"
         },
         {
           "header": "11.1.4 Role-Depth and Material-Responsibility Pathways",
           "level": 5,
-          "line_start": 610,
-          "line_end": 618,
+          "line_start": 621,
+          "line_end": 629,
           "anchor": "#1114-role-depth-and-material-responsibility-pathways"
         },
         {
           "header": "11.1.5 Constitutional Outcome Claims Discipline",
           "level": 5,
-          "line_start": 619,
-          "line_end": 631,
+          "line_start": 630,
+          "line_end": 642,
           "anchor": "#1115-constitutional-outcome-claims-discipline"
         },
         {
           "header": "11.2 Convenient Proxies and Proxy Divergence",
           "level": 4,
-          "line_start": 632,
-          "line_end": 657,
+          "line_start": 643,
+          "line_end": 668,
           "anchor": "#112-convenient-proxies-and-proxy-divergence"
         },
         {
           "header": "11.3 Misalignment Detection",
           "level": 4,
-          "line_start": 658,
-          "line_end": 690,
+          "line_start": 669,
+          "line_end": 701,
           "anchor": "#113-misalignment-detection"
         },
         {
           "header": "11.4 Misalignment Correction and Capture Response",
           "level": 4,
-          "line_start": 691,
-          "line_end": 714,
+          "line_start": 702,
+          "line_end": 725,
           "anchor": "#114-misalignment-correction-and-capture-response"
         },
         {
           "header": "11.5 Contingent Claims, Games of Chance, and Event-Contract Markets",
           "level": 4,
-          "line_start": 715,
-          "line_end": 773,
+          "line_start": 726,
+          "line_end": 784,
           "anchor": "#115-contingent-claims-games-of-chance-and-event-contract-markets"
         },
         {
           "header": "11.6 Successor Responsibility and Formal-Structure Non-Escape",
           "level": 4,
-          "line_start": 774,
-          "line_end": 803,
+          "line_start": 785,
+          "line_end": 814,
           "anchor": "#116-successor-responsibility-and-formal-structure-non-escape"
         },
         {
           "header": "12. Shared-System Capacity",
           "level": 3,
-          "line_start": 804,
-          "line_end": 921,
+          "line_start": 815,
+          "line_end": 932,
           "anchor": "#12-shared-system-capacity"
         },
         {
           "header": "12.1 Productive Capacity (Instrumental Good)",
           "level": 4,
-          "line_start": 852,
-          "line_end": 892,
+          "line_start": 863,
+          "line_end": 903,
           "anchor": "#121-productive-capacity-instrumental-good"
         },
         {
           "header": "12.2 Constitutional Efficiency",
           "level": 4,
-          "line_start": 893,
-          "line_end": 921,
+          "line_start": 904,
+          "line_end": 932,
           "anchor": "#122-constitutional-efficiency"
         },
         {
           "header": "13. Market Structure",
           "level": 3,
-          "line_start": 922,
-          "line_end": 1148,
+          "line_start": 933,
+          "line_end": 1159,
           "anchor": "#13-market-structure"
         },
         {
           "header": "13.1 Market Concentration Threshold Mechanism (Adopter-Tunable)",
           "level": 4,
-          "line_start": 968,
-          "line_end": 1015,
+          "line_start": 979,
+          "line_end": 1026,
           "anchor": "#131-market-concentration-threshold-mechanism-adopter-tunable"
         },
         {
           "header": "13.2 Pro-Competition and Anti-Domination",
           "level": 4,
-          "line_start": 1016,
-          "line_end": 1080,
+          "line_start": 1027,
+          "line_end": 1091,
           "anchor": "#132-pro-competition-and-anti-domination"
         },
         {
           "header": "13.2.1 Pro-Competition Duties (Dos)",
           "level": 5,
-          "line_start": 1048,
-          "line_end": 1064,
+          "line_start": 1059,
+          "line_end": 1075,
           "anchor": "#1321-pro-competition-duties-dos"
         },
         {
           "header": "13.2.2 Anti-Domination Prohibitions (Don'ts)",
           "level": 5,
-          "line_start": 1065,
-          "line_end": 1071,
+          "line_start": 1076,
+          "line_end": 1082,
           "anchor": "#1322-anti-domination-prohibitions-donts"
         },
         {
           "header": "13.2.3 Remedies",
           "level": 5,
-          "line_start": 1072,
-          "line_end": 1080,
+          "line_start": 1083,
+          "line_end": 1091,
           "anchor": "#1323-remedies"
         },
         {
           "header": "13.3 Consolidation Ceiling",
           "level": 4,
-          "line_start": 1081,
-          "line_end": 1148,
+          "line_start": 1092,
+          "line_end": 1159,
           "anchor": "#133-consolidation-ceiling"
         },
         {
           "header": "13.3.1 Consolidation Risk (Pre-Lock-In Impairment)",
           "level": 5,
-          "line_start": 1113,
-          "line_end": 1127,
+          "line_start": 1124,
+          "line_end": 1138,
           "anchor": "#1331-consolidation-risk-pre-lock-in-impairment"
         },
         {
           "header": "13.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)",
           "level": 5,
-          "line_start": 1128,
-          "line_end": 1148,
+          "line_start": 1139,
+          "line_end": 1159,
           "anchor": "#1332-ceiling-discipline-adopter-requirements"
         },
         {
           "header": "14. Systemic Evaluation Requirement",
           "level": 3,
-          "line_start": 1149,
-          "line_end": 1184,
+          "line_start": 1160,
+          "line_end": 1195,
           "anchor": "#14-systemic-evaluation-requirement"
         },
         {
           "header": "15. Integrated Application",
           "level": 3,
-          "line_start": 1185,
-          "line_end": 1226,
+          "line_start": 1196,
+          "line_end": 1237,
           "anchor": "#15-integrated-application"
         }
       ]

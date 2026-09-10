@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-10T09:23:51+00:00",
+  "generated_at": "2026-09-10T09:51:53+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1416,7 +1416,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 93,
+            "count": 94,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
@@ -1491,7 +1491,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 32,
+            "count": 33,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-constitutional-a",
@@ -1521,7 +1521,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 344,
+            "count": 345,
             "anchors": [
               "#attributable-action-constitutional",
               "#attributable-action-constitutional-a",
@@ -1765,7 +1765,7 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 30,
+            "count": 31,
             "anchors": [
               "#article-xii-d-incentive-alignment-constraint",
               "#article-xiv-info-sphere-integrity",
@@ -1806,9 +1806,10 @@
           },
           {
             "file": "core_08_standing_assessment.md",
-            "count": 8,
+            "count": 10,
             "anchors": [
               "#232-violation-event-types",
+              "#37-segregation-of-duties",
               "#4-standing-measurement-evaluation-dimensions",
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
@@ -1835,7 +1836,7 @@
           },
           {
             "file": "core_11_forum.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
               "#1-purpose-and-role",
               "#4-forum-family-definitions",
@@ -1884,7 +1885,7 @@
           },
           {
             "file": "corpus_systems/cs_04_critical_system_stewardship.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#10-inspectable-attributable-action"
             ]
@@ -5481,9 +5482,11 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 5,
+            "count": 8,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
+              "#101-segregation-of-duties",
+              "#113-misalignment-detection",
               "#9-stewardship-and-distributed-understanding",
               "#chapter-01-principles-and-constraints"
             ]
@@ -10277,8 +10280,9 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 13,
+            "count": 14,
             "anchors": [
+              "#101-segregation-of-duties",
               "#13-market-structure",
               "#131-market-concentration-threshold-mechanism-adopter-tunable",
               "#132-pro-competition-and-anti-domination",
@@ -13521,6 +13525,13 @@
             "count": 1,
             "anchors": [
               "#material-stake"
+            ]
+          },
+          {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 1,
+            "anchors": [
+              "#101-segregation-of-duties"
             ]
           },
           {

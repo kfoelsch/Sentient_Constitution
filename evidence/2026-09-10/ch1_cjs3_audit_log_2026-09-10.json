@@ -224,82 +224,82 @@
     },
     "11": {
       "title": "Incentive Alignment and System Capture",
-      "line": 494,
+      "line": 505,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "11.1": {
       "title": "Alignment Requirement",
-      "line": 546,
+      "line": 557,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "11.2": {
       "title": "Convenient Proxies and Proxy Divergence",
-      "line": 632,
+      "line": 643,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "11.3": {
       "title": "Misalignment Detection",
-      "line": 658,
+      "line": 669,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "11.4": {
       "title": "Misalignment Correction and Capture Response",
-      "line": 691,
+      "line": 702,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "11.5": {
       "title": "Contingent Claims, Games of Chance, and Event-Contract Markets",
-      "line": 715,
+      "line": 726,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "11.6": {
       "title": "Successor Responsibility and Formal-Structure Non-Escape",
-      "line": 774,
+      "line": 785,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "12": {
       "title": "Shared-System Capacity",
-      "line": 804,
+      "line": 815,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "12.1": {
       "title": "Productive Capacity (Instrumental Good)",
-      "line": 852,
+      "line": 863,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "12.2": {
       "title": "Constitutional Efficiency",
-      "line": 893,
+      "line": 904,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "13": {
       "title": "Market Structure",
-      "line": 922,
+      "line": 933,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "13.1": {
       "title": "Market Concentration Threshold Mechanism (Adopter-Tunable)",
-      "line": 968,
+      "line": 979,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "13.2": {
       "title": "Pro-Competition and Anti-Domination",
-      "line": 1016,
+      "line": 1027,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "13.3": {
       "title": "Consolidation Ceiling",
-      "line": 1081,
+      "line": 1092,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "14": {
       "title": "Systemic Evaluation Requirement",
-      "line": 1149,
+      "line": 1160,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "15": {
       "title": "Integrated Application",
-      "line": 1185,
+      "line": 1196,
       "file": "core_01_c_stewardship_capacity_principles.md"
     }
   },
@@ -1824,6 +1824,7 @@
       "read_with": [],
       "direct_ch1_refs": [
         "10",
+        "10.1",
         "12.2",
         "13",
         "13.1",
