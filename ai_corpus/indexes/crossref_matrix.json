@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-10T09:51:53+00:00",
+  "generated_at": "2026-09-10T11:39:33+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -5482,7 +5482,7 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#101-segregation-of-duties",
@@ -5624,7 +5624,7 @@
           },
           {
             "file": "core_09_standing_integration.md",
-            "count": 58,
+            "count": 60,
             "anchors": [
               "#101-informal-ecological-stewardship-competency-clearance",
               "#1013-obstruction-of-accountability",
@@ -5716,8 +5716,9 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
+              "#101-segregation-of-duties",
               "#911-shared-stewardship-standard"
             ]
           },
@@ -5800,12 +5801,13 @@
           },
           {
             "file": "core_08_standing_assessment.md",
-            "count": 17,
+            "count": 19,
             "anchors": [
               "#21-standing-records-as-the-unit-of-application",
               "#22-linked-records-and-no-offset-bridge",
               "#32-related-record-cross-references",
               "#34-versioning",
+              "#37-informal-and-small-scope-records",
               "#42-violation-severity-input-dimensions",
               "#43-route-descriptor-measurement-roles",
               "#46-question-2-measurement-illustrations",
@@ -6613,7 +6615,7 @@
           },
           {
             "file": "core_08_standing_assessment.md",
-            "count": 21,
+            "count": 22,
             "anchors": [
               "#2-standing-records",
               "#21-silence-is-the-default",
@@ -6622,6 +6624,7 @@
               "#31-minimum-record-contents",
               "#32-related-record-cross-references",
               "#36-forum-boundary",
+              "#37-informal-and-small-scope-records",
               "#4-standing-measurement-evaluation-dimensions",
               "#45-dual-use-measurement-hooks",
               "#46-question-2-measurement-illustrations",
@@ -15352,6 +15355,13 @@
         "source": "corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md",
         "targets": [
           {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 1,
+            "anchors": [
+              "#101-segregation-of-duties"
+            ]
+          },
+          {
             "file": "core_05__definitions_home.md",
             "count": 1,
             "anchors": [
@@ -15408,6 +15418,14 @@
             "count": 1,
             "anchors": [
               "#chapter-six-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_08_standing_assessment.md",
+            "count": 2,
+            "anchors": [
+              "#37-informal-and-small-scope-records",
+              "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
           {
@@ -16022,6 +16040,13 @@
         "source": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
         "targets": [
           {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 1,
+            "anchors": [
+              "#101-segregation-of-duties"
+            ]
+          },
+          {
             "file": "core_05__definitions_home.md",
             "count": 1,
             "anchors": [
@@ -16078,6 +16103,14 @@
             "count": 1,
             "anchors": [
               "#chapter-six-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_08_standing_assessment.md",
+            "count": 2,
+            "anchors": [
+              "#37-informal-and-small-scope-records",
+              "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
           {

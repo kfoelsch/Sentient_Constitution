@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-10T09:51:53+00:00",
+  "generated_at": "2026-09-10T11:39:32+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 241,
@@ -3513,13 +3513,13 @@
       ]
     },
     "core_08_standing_assessment.md": {
-      "total_lines": 846,
+      "total_lines": 859,
       "sections": [
         {
           "header": "CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT",
           "level": 1,
           "line_start": 2,
-          "line_end": 846,
+          "line_end": 859,
           "anchor": "#chapter-eight-compliance-violation-and-standing-model"
         },
         {
@@ -3582,7 +3582,7 @@
           "header": "3. Verification and record requirements",
           "level": 3,
           "line_start": 227,
-          "line_end": 407,
+          "line_end": 418,
           "anchor": "#3-verification-and-record-requirements"
         },
         {
@@ -3631,119 +3631,119 @@
           "header": "3.7 Record custody and opening authority",
           "level": 4,
           "line_start": 346,
-          "line_end": 407,
+          "line_end": 418,
           "anchor": "#37-record-custody-and-opening-authority"
         },
         {
           "header": "4. Question 2 — how good or bad was it?",
           "level": 3,
-          "line_start": 408,
-          "line_end": 660,
+          "line_start": 419,
+          "line_end": 673,
           "anchor": "#4-question-2-how-good-or-bad-was-it"
         },
         {
           "header": "4.1 Contribution magnitude-input dimensions",
           "level": 4,
-          "line_start": 446,
-          "line_end": 479,
+          "line_start": 457,
+          "line_end": 490,
           "anchor": "#41-contribution-magnitude-input-dimensions"
         },
         {
           "header": "4.2 Violation severity-input dimensions",
           "level": 4,
-          "line_start": 480,
-          "line_end": 518,
+          "line_start": 491,
+          "line_end": 529,
           "anchor": "#42-violation-severity-input-dimensions"
         },
         {
           "header": "4.3 Contribution route descriptor catalog and measurement roles",
           "level": 4,
-          "line_start": 519,
-          "line_end": 548,
+          "line_start": 530,
+          "line_end": 559,
           "anchor": "#43-contribution-route-descriptor-measurement-roles"
         },
         {
           "header": "4.4 Violation route descriptor catalog and measurement roles",
           "level": 4,
-          "line_start": 549,
-          "line_end": 576,
+          "line_start": 560,
+          "line_end": 587,
           "anchor": "#44-violation-route-descriptor-measurement-roles"
         },
         {
           "header": "4.5 Cross-question measurement hooks",
           "level": 4,
-          "line_start": 577,
-          "line_end": 613,
+          "line_start": 588,
+          "line_end": 624,
           "anchor": "#45-dual-use-classification-hooks"
         },
         {
           "header": "4.5.1 Similar-looking facts that must stay separate",
           "level": 5,
-          "line_start": 601,
-          "line_end": 613,
+          "line_start": 612,
+          "line_end": 624,
           "anchor": "#451-similar-looking-facts-that-must-stay-separate"
         },
         {
           "header": "4.6 Measurement illustrations",
           "level": 4,
-          "line_start": 614,
-          "line_end": 660,
+          "line_start": 625,
+          "line_end": 673,
           "anchor": "#46-question-2-measurement-illustrations"
         },
         {
           "header": "5. Slot grammar and shared scaling",
           "level": 3,
-          "line_start": 661,
-          "line_end": 727,
+          "line_start": 674,
+          "line_end": 740,
           "anchor": "#5-slot-grammar-and-lequ-calibration"
         },
         {
           "header": "5.1 Table 1 — slot display labels",
           "level": 4,
-          "line_start": 681,
-          "line_end": 702,
+          "line_start": 694,
+          "line_end": 715,
           "anchor": "#51-table-1-slot-display-labels"
         },
         {
           "header": "5.2 Shared impact-scaling rules",
           "level": 4,
-          "line_start": 703,
-          "line_end": 727,
+          "line_start": 716,
+          "line_end": 740,
           "anchor": "#52-shared-impact-scaling-rules"
         },
         {
           "header": "6. Constitutional inputs to axis assignment",
           "level": 3,
-          "line_start": 728,
-          "line_end": 783,
+          "line_start": 741,
+          "line_end": 796,
           "anchor": "#6-constitutional-inputs-to-axis-assignment"
         },
         {
           "header": "6.1 Definition inputs",
           "level": 4,
-          "line_start": 743,
-          "line_end": 757,
+          "line_start": 756,
+          "line_end": 770,
           "anchor": "#61-definition-inputs"
         },
         {
           "header": "6.2 Principle inputs",
           "level": 4,
-          "line_start": 758,
-          "line_end": 769,
+          "line_start": 771,
+          "line_end": 782,
           "anchor": "#62-principle-inputs"
         },
         {
           "header": "6.3 Rights-Floor and Article inputs",
           "level": 4,
-          "line_start": 770,
-          "line_end": 783,
+          "line_start": 783,
+          "line_end": 796,
           "anchor": "#63-rights-floor-and-article-inputs"
         },
         {
           "header": "7. Unified proportional LEQU scale — Contribution and Violation Axes",
           "level": 3,
-          "line_start": 784,
-          "line_end": 846,
+          "line_start": 797,
+          "line_end": 859,
           "anchor": "#7-unified-proportional-lequ-scale"
         }
       ]

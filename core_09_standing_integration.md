@@ -470,7 +470,7 @@ Past good work does not set the remedy, the correction duties, the safeguards, o
 
 Decide contribution consequences in this order:
 
-- Confirm recognition eligibility: recognition must be evidence-backed, contestable, reviewable, non-monopolistic, and available on equal standards to informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community-stewardship work.
+- Confirm recognition eligibility: recognition must be evidence-backed, contestable, reviewable, non-monopolistic, and available on equal standards to informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community-stewardship work. Equal standards include segregation of duties: under [Chapter One §10.1](core_01_c_stewardship_capacity_principles.md#101-segregation-of-duties) and [Chapter Eight §3.7](core_08_standing_assessment.md#37-informal-and-small-scope-records) the verify seat for informal work is met by any disinterested body with published authority to rely on the record, not by the formality of the verifier; a bar that demands formal-institution verification an informal group cannot reach is the [§6.2](#62-competency-bars-and-clearances) gatekeeping pattern.
 - Apply recency and currentness ([§6.1](#61-recency-and-currentness)).
 - Apply competency bars and clearances for named pathways not blocked by a lock ([§6.2](#62-competency-bars-and-clearances)).
 - Hand off each named pathway outcome to [§7](#7-final-standing-effect); restoration and reassessment remain under [§8](#8-restoration-and-reassessment).
@@ -758,8 +758,8 @@ The subsections below show how common Question 3 situations use the rules alread
 #### 10.1 Informal ecological stewardship / competency clearance
 
 - **Cue:** A verified peer mutual-aid habitat restoration record carries Ecological Stewardship and Diligence descriptors; a named-pathway-scoped ecological competency bar and clearance are later at issue.
-- **Routes through:** [§1](#1-immutable-chapter-eight-inputs) (*Contribution Axis slot and descriptors stay fixed*); [§3](#3-descriptor-integration-and-attachment-normalization) (*descriptor import*); [§6.1](#61-recency-and-currentness) and [§6.2](#62-competency-bars-and-clearances) (*current, role-relevant work may support clearance against an inclusive, named-pathway-scoped bar*).
-- **Non-negotiable:** The Contribution Axis slot does not change. Formal pedigree is not required where verified, current, role-relevant work meets the published bar.
+- **Routes through:** [§1](#1-immutable-chapter-eight-inputs) (*Contribution Axis slot and descriptors stay fixed*); [§3](#3-descriptor-integration-and-attachment-normalization) (*descriptor import*); [§6.1](#61-recency-and-currentness) and [§6.2](#62-competency-bars-and-clearances) (*current, role-relevant work may support clearance against an inclusive, named-pathway-scoped bar*); [Chapter Eight §3.7 *Informal and small-scope records*](core_08_standing_assessment.md#37-informal-and-small-scope-records) (*the relying body verified and holds the record; the cooperative's members were claimants, not verifiers*).
+- **Non-negotiable:** The Contribution Axis slot does not change. Formal pedigree is not required where verified, current, role-relevant work meets the published bar, and formal-institution verification is not required where a disinterested relying body verified the record.
 - **Depth pointer:** Question 2 illustration of the same fact family — [Chapter Eight §4.6 Example 1](core_08_standing_assessment.md#46-question-2-measurement-illustrations).
 
 <a id="102-ecological-negligence-with-concealment"></a>

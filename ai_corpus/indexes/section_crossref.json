@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-10T09:51:54+00:00",
+  "generated_at": "2026-09-10T11:39:35+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 14193,
+  "edge_count": 14205,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -68915,6 +68915,14 @@
       "source_header": "What the year looks like",
       "source_anchor": null,
       "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-informal-and-small-scope-records",
+      "count": 1
+    },
+    {
+      "source_file": "core_08-11_application_vignettes.md",
+      "source_header": "What the year looks like",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
       "target_anchor": "#verified-inputs-for-standing",
       "count": 1
     },
@@ -69116,7 +69124,7 @@
       "source_anchor": "#37-record-custody-and-opening-authority",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#101-segregation-of-duties",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_08_standing_assessment.md",
@@ -69172,6 +69180,22 @@
       "source_anchor": "#37-record-custody-and-opening-authority",
       "target_file": "core_09_standing_integration.md",
       "target_anchor": "#chapter-nine-standing-effects-and-integration",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#6-contribution-consequences-second",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#62-competency-bars-and-clearances",
       "count": 1
     },
     {
@@ -70075,6 +70099,14 @@
       "source_header": "10.1 Informal ecological stewardship / competency clearance",
       "source_anchor": "#101-informal-ecological-stewardship-competency-gate",
       "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-informal-and-small-scope-records",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "10.1 Informal ecological stewardship / competency clearance",
+      "source_anchor": "#101-informal-ecological-stewardship-competency-gate",
+      "target_file": "core_08_standing_assessment.md",
       "target_anchor": "#46-question-2-measurement-illustrations",
       "count": 1
     },
@@ -70386,8 +70418,24 @@
       "source_file": "core_09_standing_integration.md",
       "source_header": "6. Contribution consequences second",
       "source_anchor": "#6-contribution-consequences-second",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#101-segregation-of-duties",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "6. Contribution consequences second",
+      "source_anchor": "#6-contribution-consequences-second",
       "target_file": "core_08_standing_assessment.md",
       "target_anchor": "#22-linked-records-and-no-offset-bridge",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_integration.md",
+      "source_header": "6. Contribution consequences second",
+      "source_anchor": "#6-contribution-consequences-second",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-informal-and-small-scope-records",
       "count": 1
     },
     {
@@ -94906,6 +94954,14 @@
       "source_file": "corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md",
       "source_header": "CI-16: Care labor, dependent support, respite, and care-economy fairness",
       "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#101-segregation-of-duties",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md",
+      "source_header": "CI-16: Care labor, dependent support, respite, and care-economy fairness",
+      "source_anchor": null,
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-foundational-definitions",
       "count": 1
@@ -95084,6 +95140,22 @@
       "source_anchor": null,
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#chapter-six-foundational-rights",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md",
+      "source_header": "CI-16: Care labor, dependent support, respite, and care-economy fairness",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#chapter-eight-compliance-violation-and-standing-model",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md",
+      "source_header": "CI-16: Care labor, dependent support, respite, and care-economy fairness",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-informal-and-small-scope-records",
       "count": 1
     },
     {
@@ -96474,6 +96546,14 @@
       "source_file": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
       "source_header": "CI-22: Commons, cooperatives, mutual aid, and non-market community governance",
       "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#101-segregation-of-duties",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
+      "source_header": "CI-22: Commons, cooperatives, mutual aid, and non-market community governance",
+      "source_anchor": null,
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-foundational-definitions",
       "count": 1
@@ -96652,6 +96732,22 @@
       "source_anchor": null,
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#chapter-six-foundational-rights",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
+      "source_header": "CI-22: Commons, cooperatives, mutual aid, and non-market community governance",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#chapter-eight-compliance-violation-and-standing-model",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
+      "source_header": "CI-22: Commons, cooperatives, mutual aid, and non-market community governance",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-informal-and-small-scope-records",
       "count": 1
     },
     {
