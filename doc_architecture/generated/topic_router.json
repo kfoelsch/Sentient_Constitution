@@ -561,7 +561,7 @@
     },
     {
       "id": "CJS-R22",
-      "topic": "Standing-record custody and opening authority",
+      "topic": "Standing-record custody, opening authority, and segregation of duties",
       "domain": "Institutional governance",
       "primary_owners": [
         {
@@ -570,6 +570,10 @@
         }
       ],
       "read_with": [
+        {
+          "id": "CJS-3.11",
+          "file": "corpus_joint_structure/cjs_03a_accountability_operations.md"
+        },
         {
           "id": "CF-9",
           "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md"

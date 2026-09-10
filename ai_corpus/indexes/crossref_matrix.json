@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-10T00:37:40+00:00",
+  "generated_at": "2026-09-10T09:23:51+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -5651,7 +5651,7 @@
           },
           {
             "file": "core_11_forum.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
               "#21-lead-default-limits",
               "#23-forum-records-standing-records-and-contests",
@@ -5663,6 +5663,13 @@
             "file": "core_15_amendment_ratification.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
+            "count": 2,
+            "anchors": [
+              "#constitutional-lane-and-functional-separation"
+            ]
           },
           {
             "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
@@ -10344,7 +10351,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 41,
+            "count": 42,
             "anchors": [
               "#charter",
               "#dependency",
@@ -10408,6 +10415,13 @@
             "count": 1,
             "anchors": [
               "#16-reopening-drift-and-non-evasion"
+            ]
+          },
+          {
+            "file": "core_08_standing_assessment.md",
+            "count": 1,
+            "anchors": [
+              "#37-segregation-of-duties"
             ]
           },
           {
@@ -13560,7 +13574,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 39,
+            "count": 40,
             "anchors": [
               "#charter",
               "#charter-a",
@@ -13654,10 +13668,11 @@
           },
           {
             "file": "core_08_standing_assessment.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#36-forum-boundary",
-              "#37-record-custody-and-opening-authority"
+              "#37-record-custody-and-opening-authority",
+              "#37-segregation-of-duties"
             ]
           },
           {

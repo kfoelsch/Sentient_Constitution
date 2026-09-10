@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-10T00:37:41+00:00",
+  "generated_at": "2026-09-10T09:23:52+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -1539,28 +1539,28 @@
       "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "anchor": "#ci-33-authority-chain-and-delegation-controls",
       "heading": "CI-3.3: Authority chain and delegation controls",
-      "line": 89,
+      "line": 91,
       "kind": "section"
     },
     "CI-3.4": {
       "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "anchor": "#ci-34-emergency-delegation",
       "heading": "CI-3.4: Emergency delegation",
-      "line": 105,
+      "line": 107,
       "kind": "section"
     },
     "CI-3.5": {
       "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "anchor": "#ci-35-risk-profile-requirement",
       "heading": "CI-3.5: Risk profile requirement",
-      "line": 111,
+      "line": 113,
       "kind": "section"
     },
     "CI-3.6": {
       "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "anchor": "#ci-36-charter-contents-review-and-formation-template",
       "heading": "CI-3.6: Charter contents, review, and formation template",
-      "line": 117,
+      "line": 119,
       "kind": "section"
     },
     "CI-4": {
@@ -1976,21 +1976,21 @@
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "anchor": "#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable",
       "heading": "CJS-3.11.1 Market concentration threshold-setting discipline (adopter-tunable)",
-      "line": 102,
+      "line": 103,
       "kind": "section"
     },
     "CJS-3.11.2": {
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "anchor": "#cjs-3112-anti-domination-conduct-and-remediation-catalog",
       "heading": "CJS-3.11.2 Anti-domination conduct and remediation catalog",
-      "line": 148,
+      "line": 149,
       "kind": "section"
     },
     "CJS-3.11.3": {
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "anchor": "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable",
       "heading": "CJS-3.11.3 Consolidation ceiling-setting discipline (adopter-tunable)",
-      "line": 196,
+      "line": 197,
       "kind": "section"
     },
     "CJS-3.11–CJS-3.15": {
@@ -2003,7 +2003,7 @@
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "anchor": "#cjs-312-accountability-burden-of-justification-and-constraint-terms",
       "heading": "CJS-3.12 Accountability: burden-of-justification and constraint terms",
-      "line": 402,
+      "line": 403,
       "kind": "section",
       "gloss": "Whoever restricts something carries the burden of justifying it — with the lightest effective measure, and with that justification refreshed rather than assumed to hold forever."
     },
@@ -2011,7 +2011,7 @@
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "anchor": "#cjs-313-accountability-procedural-integrity-and-adjudication-terms",
       "heading": "CJS-3.13 Accountability: procedural integrity and adjudication terms",
-      "line": 653,
+      "line": 654,
       "kind": "section",
       "gloss": "The shared floor for fair process: notice, a real chance to respond, a reviewable decision, and enforcement proportionate to what actually happened."
     },
@@ -2019,7 +2019,7 @@
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "anchor": "#cjs-314-accountability-intervention-governance-and-override-authorization-terms",
       "heading": "CJS-3.14 Accountability: intervention governance and override-authorization terms",
-      "line": 933,
+      "line": 934,
       "kind": "section",
       "gloss": "When someone may override normal operation, who must authorize it, and what record that leaves. An override capability is necessary; an unlogged one is a back door."
     },
@@ -2027,7 +2027,7 @@
       "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "anchor": "#cjs-315-accountability-structural-review-correction-urgency-and-disclosure-terms",
       "heading": "CJS-3.15 Accountability: structural review, correction urgency, and disclosure terms",
-      "line": 1095,
+      "line": 1096,
       "kind": "section"
     },
     "CJS-3.16": {
@@ -3896,7 +3896,7 @@
     },
     {
       "id": "CJS-R22",
-      "topic": "Standing-record custody and opening authority",
+      "topic": "Standing-record custody, opening authority, and segregation of duties",
       "domain": "Institutional governance",
       "primary_owners": [
         {
@@ -3906,6 +3906,11 @@
         }
       ],
       "read_with": [
+        {
+          "id": "CJS-3.11",
+          "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
+          "anchor": "#cjs-311-accountability-distributed-and-proportional-authority-terms"
+        },
         {
           "id": "CF-9",
           "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",

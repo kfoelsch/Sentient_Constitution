@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-10T00:37:39+00:00",
+  "generated_at": "2026-09-10T09:23:50+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 241,
@@ -3513,13 +3513,13 @@
       ]
     },
     "core_08_standing_assessment.md": {
-      "total_lines": 829,
+      "total_lines": 846,
       "sections": [
         {
           "header": "CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT",
           "level": 1,
           "line_start": 2,
-          "line_end": 829,
+          "line_end": 846,
           "anchor": "#chapter-eight-compliance-violation-and-standing-model"
         },
         {
@@ -3582,7 +3582,7 @@
           "header": "3. Verification and record requirements",
           "level": 3,
           "line_start": 227,
-          "line_end": 390,
+          "line_end": 407,
           "anchor": "#3-verification-and-record-requirements"
         },
         {
@@ -3631,119 +3631,119 @@
           "header": "3.7 Record custody and opening authority",
           "level": 4,
           "line_start": 346,
-          "line_end": 390,
+          "line_end": 407,
           "anchor": "#37-record-custody-and-opening-authority"
         },
         {
           "header": "4. Question 2 — how good or bad was it?",
           "level": 3,
-          "line_start": 391,
-          "line_end": 643,
+          "line_start": 408,
+          "line_end": 660,
           "anchor": "#4-question-2-how-good-or-bad-was-it"
         },
         {
           "header": "4.1 Contribution magnitude-input dimensions",
           "level": 4,
-          "line_start": 429,
-          "line_end": 462,
+          "line_start": 446,
+          "line_end": 479,
           "anchor": "#41-contribution-magnitude-input-dimensions"
         },
         {
           "header": "4.2 Violation severity-input dimensions",
           "level": 4,
-          "line_start": 463,
-          "line_end": 501,
+          "line_start": 480,
+          "line_end": 518,
           "anchor": "#42-violation-severity-input-dimensions"
         },
         {
           "header": "4.3 Contribution route descriptor catalog and measurement roles",
           "level": 4,
-          "line_start": 502,
-          "line_end": 531,
+          "line_start": 519,
+          "line_end": 548,
           "anchor": "#43-contribution-route-descriptor-measurement-roles"
         },
         {
           "header": "4.4 Violation route descriptor catalog and measurement roles",
           "level": 4,
-          "line_start": 532,
-          "line_end": 559,
+          "line_start": 549,
+          "line_end": 576,
           "anchor": "#44-violation-route-descriptor-measurement-roles"
         },
         {
           "header": "4.5 Cross-question measurement hooks",
           "level": 4,
-          "line_start": 560,
-          "line_end": 596,
+          "line_start": 577,
+          "line_end": 613,
           "anchor": "#45-dual-use-classification-hooks"
         },
         {
           "header": "4.5.1 Similar-looking facts that must stay separate",
           "level": 5,
-          "line_start": 584,
-          "line_end": 596,
+          "line_start": 601,
+          "line_end": 613,
           "anchor": "#451-similar-looking-facts-that-must-stay-separate"
         },
         {
           "header": "4.6 Measurement illustrations",
           "level": 4,
-          "line_start": 597,
-          "line_end": 643,
+          "line_start": 614,
+          "line_end": 660,
           "anchor": "#46-question-2-measurement-illustrations"
         },
         {
           "header": "5. Slot grammar and shared scaling",
           "level": 3,
-          "line_start": 644,
-          "line_end": 710,
+          "line_start": 661,
+          "line_end": 727,
           "anchor": "#5-slot-grammar-and-lequ-calibration"
         },
         {
           "header": "5.1 Table 1 — slot display labels",
           "level": 4,
-          "line_start": 664,
-          "line_end": 685,
+          "line_start": 681,
+          "line_end": 702,
           "anchor": "#51-table-1-slot-display-labels"
         },
         {
           "header": "5.2 Shared impact-scaling rules",
           "level": 4,
-          "line_start": 686,
-          "line_end": 710,
+          "line_start": 703,
+          "line_end": 727,
           "anchor": "#52-shared-impact-scaling-rules"
         },
         {
           "header": "6. Constitutional inputs to axis assignment",
           "level": 3,
-          "line_start": 711,
-          "line_end": 766,
+          "line_start": 728,
+          "line_end": 783,
           "anchor": "#6-constitutional-inputs-to-axis-assignment"
         },
         {
           "header": "6.1 Definition inputs",
           "level": 4,
-          "line_start": 726,
-          "line_end": 740,
+          "line_start": 743,
+          "line_end": 757,
           "anchor": "#61-definition-inputs"
         },
         {
           "header": "6.2 Principle inputs",
           "level": 4,
-          "line_start": 741,
-          "line_end": 752,
+          "line_start": 758,
+          "line_end": 769,
           "anchor": "#62-principle-inputs"
         },
         {
           "header": "6.3 Rights-Floor and Article inputs",
           "level": 4,
-          "line_start": 753,
-          "line_end": 766,
+          "line_start": 770,
+          "line_end": 783,
           "anchor": "#63-rights-floor-and-article-inputs"
         },
         {
           "header": "7. Unified proportional LEQU scale — Contribution and Violation Axes",
           "level": 3,
-          "line_start": 767,
-          "line_end": 829,
+          "line_start": 784,
+          "line_end": 846,
           "anchor": "#7-unified-proportional-lequ-scale"
         }
       ]
@@ -6491,69 +6491,69 @@
       ]
     },
     "corpus_joint_structure/cjs_03a_accountability_operations.md": {
-      "total_lines": 1277,
+      "total_lines": 1278,
       "sections": [
         {
           "header": "Accountability leg (CJS-3.11–CJS-3.15) / oDef.11–oDef.15",
           "level": 1,
           "line_start": 1,
-          "line_end": 1277,
+          "line_end": 1278,
           "anchor": null
         },
         {
           "header": "CJS-3.11 Accountability: distributed and proportional authority terms",
           "level": 2,
           "line_start": 39,
-          "line_end": 401,
+          "line_end": 402,
           "anchor": null
         },
         {
           "header": "CJS-3.11.1 Market concentration threshold-setting discipline (adopter-tunable)",
           "level": 3,
-          "line_start": 102,
-          "line_end": 147,
+          "line_start": 103,
+          "line_end": 148,
           "anchor": "#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable"
         },
         {
           "header": "CJS-3.11.2 Anti-domination conduct and remediation catalog",
           "level": 3,
-          "line_start": 148,
-          "line_end": 195,
+          "line_start": 149,
+          "line_end": 196,
           "anchor": "#cjs-3112-anti-domination-conduct-and-remediation-catalog"
         },
         {
           "header": "CJS-3.11.3 Consolidation ceiling-setting discipline (adopter-tunable)",
           "level": 3,
-          "line_start": 196,
-          "line_end": 401,
+          "line_start": 197,
+          "line_end": 402,
           "anchor": "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable"
         },
         {
           "header": "CJS-3.12 Accountability: burden-of-justification and constraint terms",
           "level": 2,
-          "line_start": 402,
-          "line_end": 652,
+          "line_start": 403,
+          "line_end": 653,
           "anchor": "#stewardship-role-depth-and-non-symbolic-governance-boundary-c"
         },
         {
           "header": "CJS-3.13 Accountability: procedural integrity and adjudication terms",
           "level": 2,
-          "line_start": 653,
-          "line_end": 932,
+          "line_start": 654,
+          "line_end": 933,
           "anchor": "#temporal-discipline-and-revalidation-c"
         },
         {
           "header": "CJS-3.14 Accountability: intervention governance and override-authorization terms",
           "level": 2,
-          "line_start": 933,
-          "line_end": 1094,
+          "line_start": 934,
+          "line_end": 1095,
           "anchor": "#uncertainty-safeguards-and-anti-abuse-floor-c"
         },
         {
           "header": "CJS-3.15 Accountability: structural review, correction urgency, and disclosure terms",
           "level": 2,
-          "line_start": 1095,
-          "line_end": 1277,
+          "line_start": 1096,
+          "line_end": 1278,
           "anchor": "#records-transparency-and-challenge-pathway-duties-c"
         }
       ]
@@ -8467,13 +8467,13 @@
       ]
     },
     "corpus_institutions/ci_03_institutional_design_separation_of_powers.md": {
-      "total_lines": 165,
+      "total_lines": 167,
       "sections": [
         {
           "header": "CI-3: Institutional design, separation of powers, and authority custody",
           "level": 1,
           "line_start": 1,
-          "line_end": 165,
+          "line_end": 167,
           "anchor": null
         },
         {
@@ -8487,35 +8487,35 @@
           "header": "CI-3.2: Functional separation lanes",
           "level": 2,
           "line_start": 81,
-          "line_end": 88,
+          "line_end": 90,
           "anchor": null
         },
         {
           "header": "CI-3.3: Authority chain and delegation controls",
           "level": 2,
-          "line_start": 89,
-          "line_end": 104,
+          "line_start": 91,
+          "line_end": 106,
           "anchor": null
         },
         {
           "header": "CI-3.4: Emergency delegation",
           "level": 2,
-          "line_start": 105,
-          "line_end": 110,
+          "line_start": 107,
+          "line_end": 112,
           "anchor": null
         },
         {
           "header": "CI-3.5: Risk profile requirement",
           "level": 2,
-          "line_start": 111,
-          "line_end": 116,
+          "line_start": 113,
+          "line_end": 118,
           "anchor": null
         },
         {
           "header": "CI-3.6: Charter contents, review, and formation template",
           "level": 2,
-          "line_start": 117,
-          "line_end": 165,
+          "line_start": 119,
+          "line_end": 167,
           "anchor": null
         }
       ]

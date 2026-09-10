@@ -132,7 +132,7 @@ Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION
 |---|---|
 | **Operative statement** | [Standing](../core_08_standing_assessment.md#operative-steward-statement-standing) |
 | **Next-step class** | `open_or_correct_standing_record`. If the fight is concealment: `accept_standing_measurement_and_disclosure_duties`. |
-| **Who may enter it (binding home)** | [Chapter Eight §3.7](../core_08_standing_assessment.md#37-record-custody-and-opening-authority) — named record-opening authority and custodian; no self-custody; prior recorder is a witness, not a judge. Named by the [Charter](../core_05_band_continuity.md#charter) (CI-3.6 field 11); independent route via a forum or CF-9.6 when the operator is the subject. |
+| **Who may enter it (binding home)** | [Chapter Eight §3.7](../core_08_standing_assessment.md#37-record-custody-and-opening-authority) — segregation of duties (request / verify / enter-and-hold / contest are separate seats; no seat both verifies and enters); named record-opening authority and custodian; no self-custody; prior recorder is a witness, not a judge. Named by the [Charter](../core_05_band_continuity.md#charter) (CI-3.6 field 11); when the Charter is silent, the CI-3.2 lane map governs (assurance lane verifies, never the office that runs the system); independent route via a forum or CF-9.6 when the operator is the subject. |
 | **How to estimate (process support)** | [LEQU calibration reference](LEQU_CALIBRATION_REFERENCE.md) — method and worked slots. Cannot assign a live record or decide who counts. |
 
 ---

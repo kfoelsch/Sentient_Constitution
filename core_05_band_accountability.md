@@ -2293,7 +2293,7 @@ See **Joint invocation and satisfaction**.
     - Chapter Eight §4.2 requires related records to cross-reference each other when they share a subject, overlapping time window, bounded event, pattern, or decision context.
     - The subject may be a sentient, institution, system, assessment, event, role, collective, actor-specific record, or another constitutionally relevant unit — but distinct units and contexts must remain separately traceable.
     - The record supplies source material for later [Standing Effect](core_05_band_accountability.md#standing-effect-chapter-six) analysis; Chapter Nine applies that separate consequence layer from the linked record set.
-    - Each record names the record-opening authority that verified and entered it and the record custodian that holds it under Chapter Eight §3.7; neither may be the subject, a claimant, a challenger, or an office in their control line. Where the subject holds a [Charter](core_05_band_continuity.md#charter), the Charter names or points to both.
+    - Each record names the record-opening authority that verified it and the record custodian that entered and holds it under Chapter Eight §3.7; these are separate seats (segregation of duties: request, verify, enter and hold, contest), and neither may be the subject, a claimant, a challenger, or an office in their control line. Where the subject holds a [Charter](core_05_band_continuity.md#charter), the Charter names or points to both; where it is silent, the **CI-3.2** (*Functional separation lanes*) lane map governs.
     - Chapter Five pointer; canonical concept: Chapter Eight §2.1; operational requirements: Chapter Eight §3.
     - A standing record is not a general worth label, dignity rank, Rights-Floor measure, merged merit score, or effect decision.
   - **Out of scope:**
@@ -2319,7 +2319,7 @@ See **Joint invocation and satisfaction**.
     - put a Chapter Nine effect decision inside a Chapter Eight record;
     - treat a [Forum Case Record](core_05_band_accountability.md#forum-case-record), filing tag, temporary order, or unfinished accusation as a standing record;
     - impose actor-specific adverse standing from a collective record without verified linkage;
-    - let the subject, a claimant, a challenger, or an office in their control line verify the facts, enter the record, or hold custody of it, or leave an entry unattributed to a named authority (Chapter Eight §3.7); or
+    - let the subject, a claimant, a challenger, or an office in their control line verify the facts, enter the record, or hold custody of it; let one seat both verify and enter, or both verify and hear the contest of, the same record; or leave an entry unattributed to a named authority (Chapter Eight §3.7); or
     - substitute a standing record for inherent dignity, Rights-Floor minimums, stakeholder status, challenge access, remedy access, or Chapter Ten forum findings.
 
 ---

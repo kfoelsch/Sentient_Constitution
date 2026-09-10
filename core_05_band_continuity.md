@@ -2442,7 +2442,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     4. observed behavior, dependency, and impact remain within chartered scope — or material mismatch is disclosed and routed to amendment, recertification, or reopening;
     5. Charter claims do not understate [System Boundaries](core_05_band_continuity.md#system-boundaries) defined by [Material Impact](core_05_band_oversight.md#material-impact) and [Dependency](core_05_band_continuity.md#dependency); and
     6. where binding stakeholder choice is in admission scope, the Charter points to usable published process rules rather than treating Charter text as a substitute for [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster); and
-    7. the named record-opening authority and record custodian resolve to offices outside the chartered entity's own control line for records in which the entity is the subject, and the independent route under [Chapter Eight §3.7](core_08_standing_assessment.md#37-record-custody-and-opening-authority) is live.
+    7. the named record-opening authority and record custodian are separate seats, resolve to offices outside the chartered entity's own control line for records in which the entity is the subject, and the independent route under [Chapter Eight §3.7](core_08_standing_assessment.md#37-record-custody-and-opening-authority) is live; where the Charter is silent, the **CI-3.2** (*Functional separation lanes*) lane map places the seats in the meantime.
 <a id="charter-c"></a>
 - **What must hold**
   - **Primary failure:**

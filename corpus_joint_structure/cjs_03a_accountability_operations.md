@@ -53,6 +53,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.1** (*Topic router*); primary owner **CI-9.3**.
 - Topic routing (mandatory read-with): **CJS-R14** (*Institutional functional lanes and non-delegable splits*) in **CJS-0.1** (*Topic router*); primary owner **CI-3**.
 - Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-0.1** (*Topic router*); primary owners **CI-3**, **CI-4**, **CI-11**, **CI-12**.
+- Topic routing (mandatory read-with): **CJS-R22** (*Standing-record custody, opening authority, and segregation of duties*) in **CJS-0.1** (*Topic router*); primary owner **CI-3**.
 
 </details>
 
@@ -298,10 +299,10 @@ Classification-scaled governance burden
 <a id="constitutional-lane-and-functional-separation"></a>
 Constitutional lane and functional separation
 
-*In plain terms: a constitutional lane is a published functional separation with constitutionally binding duties.*
+*In plain terms: a constitutional lane is a published functional separation with constitutionally binding duties. Splitting the lanes is also the corpus's **segregation of duties** rule: the office that asks for something, the office that checks it, the office that records it, and the office that hears a challenge to it are different seats.*
 
 - **What it is**
-  - **In scope:** A constitutional lane is a published functional separation with constitutionally binding duties. Required lanes include direction and policy, execution, challenge and review, assurance and audit, and publication and evidence work. One institution may host more than one lane only when independence safeguards are documented, auditable, and contestable.
+  - **In scope:** A constitutional lane is a published functional separation with constitutionally binding duties. Required lanes include direction and policy, execution, challenge and review, assurance and audit, and publication and evidence work. One institution may host more than one lane only when independence safeguards are documented, auditable, and contestable. **Segregation of duties** is the transaction-level form of the same rule: for any single binding act or record, the request, the verification, the entry and custody, and the contest are held by different seats, and no seat both verifies and enters, or both verifies and hears the contest. The [Chapter Eight §3.7](../core_08_standing_assessment.md#37-segregation-of-duties) standing-record lifecycle (request → verify → enter and hold → contest) is one duty set every lane map must place; it is the reference instance of this rule, and the lane map is the fallback when a [Charter](../core_05_band_continuity.md#charter) is silent on record custody.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in constitutional lane and functional separation.
 <a id="constitutional-lane-and-functional-separation-a"></a>
 - **How to measure and assess**
@@ -310,7 +311,7 @@ Constitutional lane and functional separation
     **Primary assessment:** Reviewers must verify each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) or **CS-4 — Critical system stewardship**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-3** (*Institutional design, separation of powers, and authority custody*).
 <a id="constitutional-lane-and-functional-separation-c"></a>
 - **What must hold**
-  - **Primary failure:** A lane if it is undefined, merged, or staffed in a way that defeats required separation, auditability, challenge, succession, or binding role accountability.
+  - **Primary failure:** A lane if it is undefined, merged, or staffed in a way that defeats required separation, auditability, challenge, succession, or binding role accountability; or a lane map that does not place the standing-record request / verify / enter-and-hold / contest seats, or places verification and entry, or verification and contest, in one seat without a published merged-hosting safeguard.
 
 <a id="contextual-and-systemic-evaluation-discipline"></a>
 Contextual and systemic evaluation discipline

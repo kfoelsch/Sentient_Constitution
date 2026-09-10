@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-10T00:37:41+00:00",
+  "generated_at": "2026-09-10T09:23:52+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 14182,
+  "edge_count": 14187,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -69155,6 +69155,14 @@
       "source_header": "3.7 Record custody and opening authority",
       "source_anchor": "#37-record-custody-and-opening-authority",
       "target_file": "core_11_forum.md",
+      "target_anchor": "#chapter-eleven-forums-and-jurisdiction",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_11_forum.md",
       "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
       "count": 1
     },
@@ -69165,6 +69173,14 @@
       "target_file": "core_15_amendment_ratification.md",
       "target_anchor": null,
       "count": 1
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
+      "target_anchor": "#constitutional-lane-and-functional-separation",
+      "count": 2
     },
     {
       "source_file": "core_08_standing_assessment.md",
@@ -89072,6 +89088,22 @@
     },
     {
       "source_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+      "source_header": "CI-3.2: Functional separation lanes",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#charter",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+      "source_header": "CI-3.2: Functional separation lanes",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-segregation-of-duties",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
       "source_header": "CI-3.3: Authority chain and delegation controls",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
@@ -101412,7 +101444,7 @@
       "source_anchor": "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#charter",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
@@ -101420,6 +101452,14 @@
       "source_anchor": "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable",
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#article-iii-d-labor-and-economic-floor",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
+      "source_header": "CJS-3.11.3 Consolidation ceiling-setting discipline (adopter-tunable)",
+      "source_anchor": "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-segregation-of-duties",
       "count": 1
     },
     {
