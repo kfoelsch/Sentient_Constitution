@@ -37,11 +37,12 @@ Full ranking, including AI institution building at the top: [FIT_SITUATIONS.md �
 
 Operations-guide use is the near-term invite. “We adopted” is honest only after a qualifying body records a Chapter Fifteen instrument in **its** custody. [FIT_SITUATIONS.md §2](../implementation/adoption/FIT_SITUATIONS.md#2-two-modes).
 
-## Start here (three doors)
+## Start here (doors)
 
-1. Day-to-day next step — [STEWARD_ENTRY_DOORS.md](../implementation/STEWARD_ENTRY_DOORS.md)
-2. Fitness screen plus own-conduct — [evaluation/self_application/START_HERE.md](../evaluation/self_application/START_HERE.md)
-3. Kit routing — [FIT_SITUATIONS.md §6](../implementation/adoption/FIT_SITUATIONS.md#6-kit-routing)
+1. What this would mean for someone in my situation — [easy_entry/README.md](../implementation/adoption/easy_entry/README.md)
+2. Day-to-day next step — [STEWARD_ENTRY_DOORS.md](../implementation/STEWARD_ENTRY_DOORS.md)
+3. Fitness screen plus own-conduct — [evaluation/self_application/START_HERE.md](../evaluation/self_application/START_HERE.md)
+4. Kit routing — [FIT_SITUATIONS.md §6](../implementation/adoption/FIT_SITUATIONS.md#6-kit-routing)
 
 ## Honest non-fits
 

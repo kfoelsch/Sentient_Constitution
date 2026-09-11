@@ -205,6 +205,7 @@ If `docs/index.md` and `START_HERE.md` diverge, **`START_HERE.md` wins**.
 | Material | Job relative to this page |
 |---|---|
 | [`../../START_HERE.md`](../../START_HERE.md) | Public human front door |
+| [`easy_entry/README.md`](easy_entry/README.md) | Second-person briefs for named situations. Soft case, not a sitting, not adoption |
 | [`../../docs/index.md`](../../docs/index.md) | Thin GitHub Pages pointer at that door |
 | [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md) | Fit tests, ranked sketches, kit routing. This page does not replace it |
 | [`README.md`](README.md) | This folder’s door — process path toward an instrument, not the instrument |

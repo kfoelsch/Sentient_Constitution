@@ -13,6 +13,7 @@ The folder is named `adoption` so operators can find it. Opening a file here is 
 | If this is happening | Open |
 |---|---|
 | Found this corpus; need a public door | [`../../START_HERE.md`](../../START_HERE.md) |
+| What this would mean for someone in my situation | [`easy_entry/README.md`](easy_entry/README.md) |
 | Announcing this corpus so fit parties can find it | [`ANNOUNCEMENT.md`](ANNOUNCEMENT.md) |
 | Asking where this would actually fit | [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md) |
 | Asking which bodies, in what order, at what staff and funding, for size *N* and Class *X* | [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) |

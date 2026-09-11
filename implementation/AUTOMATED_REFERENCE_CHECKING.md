@@ -62,6 +62,7 @@ Order follows the Makefile `regression` list.
 | `ch9-trace-audit` | S | `tools/ch9_trace_audit.py` | NAV-TRACE-08–10 | Chapter Six subarticle traces present with Principles and linked Definitions |
 | `prose-continuity-audit` | C | `tools/prose_continuity_audit.py` | — | Stray indent / orphan lines |
 | `lexical-vocabulary-audit` | C | `tools/lexical_vocabulary_audit.py` | LEX-GUARDRAILS | Config: `lexical_guardrails.json`; vocabulary and load-bearing capitalization |
+| `easy-entry-jargon-audit` | C | `tools/easy_entry_jargon_audit.py` | EASY-ENTRY-JARGON | Scoped `easy_entry_jargon` list in `lexical_guardrails.json`; reader briefs only |
 | `cjs-operational-cluster-audit` | S | `tools/cjs_operational_cluster_audit.py` | — | CJS-3 placement |
 | `cjs3-cluster-term-order-audit` | C | `tools/cjs3_cluster_term_order_audit.py` | — | Alphabetical order of oDef sub-terms |
 | `ch1-cjs3-alignment-audit` | S | `tools/ch1_cjs3_alignment_audit.py` | CJS-TRACE | Chapter One ↔ CJS-3 oDef cluster trace metadata |

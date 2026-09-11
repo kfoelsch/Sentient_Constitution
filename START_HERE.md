@@ -64,10 +64,11 @@ Named in [PRE_PUBLICATION_SPEC.md](implementation/PRE_PUBLICATION_SPEC.md) §3.1
 | **Full adoption** | A qualifying body records a Chapter Fifteen instrument, with Chapter Sixteen custody | Only after that instrument exists in **that body’s** custody |
 
 <a id="three-doors"></a>
-## 6. Start here (three doors)
+## 6. Start here (doors)
 
 | If this is happening | Open |
 |---|---|
+| What this would mean for someone in my situation | [easy_entry/README.md](implementation/adoption/easy_entry/README.md) |
 | Day-to-day next step (refuse, log, certify, contest, remedy, emergency) | [STEWARD_ENTRY_DOORS.md](implementation/STEWARD_ENTRY_DOORS.md) |
 | Fitness screen plus own-conduct declaration | [evaluation/self_application/START_HERE.md](evaluation/self_application/START_HERE.md) (a different page from this one) |
 | Kit routing — two parties, *n* parties, institution, forum | [FIT_SITUATIONS.md §6](implementation/adoption/FIT_SITUATIONS.md#6-kit-routing) |

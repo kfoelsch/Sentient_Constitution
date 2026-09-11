@@ -122,6 +122,13 @@
       "status": "blocking"
     },
     {
+      "id": "EASY-ENTRY-JARGON",
+      "legacy_ref": "easy-entry reader jargon",
+      "summary": "Scoped do-not-use list for implementation/adoption/easy_entry reader briefs.",
+      "make_target": "easy-entry-jargon-audit",
+      "status": "blocking"
+    },
+    {
       "id": "PLAIN-JARGON",
       "legacy_ref": "plain language table",
       "summary": "Advisory jargon phrase scan from lexical_guardrails.json.",

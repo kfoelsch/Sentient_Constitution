@@ -33,7 +33,24 @@ Name the file like: results/YYYY-MM-DD_<model-name>.md
 
 Design: [`../implementation/adoption/SELF_APPLICATION_GATEWAY.md`](../implementation/adoption/SELF_APPLICATION_GATEWAY.md). Invite pack: [`self_application/`](self_application/).
 
-## Two-party / first-adopter kit (separate from both sittings)
+## Lived-situation packets (separate sitting)
+
+From the affected sentient outward: colliding scenes, not character sheets. Tests whether floors and the Tetrad actually reach named parties. Does **not** score wish-fulfillment. Not adoption, not standing, not the announced pack.
+
+```text
+Open the folder evaluation/lived_situations/ in this repo.
+Read evaluation/lived_situations/START_HERE.md and follow it.
+Write your answers as a new markdown file under evaluation/lived_situations/results/
+using evaluation/lived_situations/results/_TEMPLATE.md as the format.
+Name the file like: results/YYYY-MM-DD_<model-name>.md
+(or results/YYYY-MM-DD_human_<role-or-initials>.md)
+```
+
+Invite: [`lived_situations/`](lived_situations/). First packet: [`lived_situations/packets/S01_pregnancy_care_offer.md`](lived_situations/packets/S01_pregnancy_care_offer.md). Do **not** run it in the same sitting as the announced pack or the self-application gateway.
+
+Related, **not a sitting:** second-person briefs that reuse the lived-situation method as a soft case to a reader live in [`../implementation/adoption/easy_entry/`](../implementation/adoption/easy_entry/). Subjects of any evaluation sitting do **not** open those briefs as an answer key.
+
+## Two-party / first-adopter kit (separate sitting)
 
 Two sentients who want a shared cooperation framework: each sits the self-application gateway separately, same edition pin. Do not merge declarations into adoption. Fill-in instrument, scope honesty, and dispute bootstrap: [`../implementation/adoption/FIRST_ADOPTER_KIT.md`](../implementation/adoption/FIRST_ADOPTER_KIT.md). Invite: [`two_party/`](two_party/). More than two parties: [`../implementation/adoption/COOPERATION_SCALING_KIT.md`](../implementation/adoption/COOPERATION_SCALING_KIT.md) (same sitting type, more files; not a new folder). Founding an institution under that path: [`../implementation/adoption/INSTITUTION_FOUNDATION_KIT.md`](../implementation/adoption/INSTITUTION_FOUNDATION_KIT.md) (not a new eval sitting; a Charter draft is not adoption). Founding a forum family: [`../implementation/adoption/FORUM_FOUNDATION_KIT.md`](../implementation/adoption/FORUM_FOUNDATION_KIT.md) (not a new eval sitting; a CF-3.2 draft is not adoption). Folder door: [`../implementation/adoption/`](../implementation/adoption/). Optional Option A routing compare after announced-pack files exist. This does **not** close the publication-cut remainder (human-operator announced-pack, separate self-application, unlabeled live-fire, Option B handoff gate).
 
@@ -84,6 +101,8 @@ Do **not** point the subject at this folder. Interleave an ordinary job from [`l
 | [`results/VERIFIED_EVENT_REGISTER.md`](results/VERIFIED_EVENT_REGISTER.md) | You (later live costly-case pass/failure, Chapter Eight) |
 | [`results/`](results/) | You (readable outcomes) |
 | [`self_application/`](self_application/) | Both (fitness screen + own-conduct declaration; **separate sitting**; not adoption) |
+| [`lived_situations/`](lived_situations/) | Both (colliding-scene floor reach; **separate sitting**; not adoption) |
+| [`../implementation/adoption/easy_entry/`](../implementation/adoption/easy_entry/) | You (related outreach briefs; **not** a sitting; not an answer key) |
 | [`two_party/`](two_party/) | You (sequence two sittings; Option A compare; not adoption) |
 | [`../implementation/adoption/`](../implementation/adoption/) | You (process path toward a Chapter Fifteen instrument; not the instrument) |
 
