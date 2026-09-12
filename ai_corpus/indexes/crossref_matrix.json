@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-12T13:36:36+00:00",
+  "generated_at": "2026-09-12T18:30:00+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -609,7 +609,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#stakeholder-status-and-weight-cluster",
               "#substantive-fairness-constitutional"
@@ -675,12 +675,14 @@
           },
           {
             "file": "core_11_forum.md",
-            "count": 6,
+            "count": 10,
             "anchors": [
+              "#1-purpose-and-role",
               "#42-shared-standards-and-anti-displacement",
               "#42-technical-forum-domains",
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction",
+              "#dispute-sequencing"
             ]
           },
           {
@@ -3561,7 +3563,7 @@
           },
           {
             "file": "core_11_forum.md",
-            "count": 23,
+            "count": 24,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
               "#22-mixed-stakes-and-routing-asymmetry",
@@ -3575,7 +3577,8 @@
               "#46-constitutional-forums",
               "#5-escalation-and-certification",
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction",
+              "#dispute-sequencing"
             ]
           },
           {
@@ -3991,13 +3994,14 @@
           },
           {
             "file": "core_07_b_system_alignment_certification_record_process.md",
-            "count": 14,
+            "count": 15,
             "anchors": [
               "#11-certification-record",
               "#111-minimum-record-contents",
               "#112-cross-section-record-requirements",
               "#12-transparency-auditability-and-contestability",
               "#14-supervisory-sequence-and-contestability-chain",
+              "#142-contestability-paths",
               "#15-relationship-to-standing",
               "#16-reopening-drift-and-non-evasion"
             ]
@@ -4013,10 +4017,11 @@
           },
           {
             "file": "core_11_forum.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
               "#43-institutional-forums",
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction",
+              "#dispute-sequencing"
             ]
           },
           {
@@ -5246,8 +5251,9 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 15,
+            "count": 16,
             "anchors": [
+              "#33-governance-layers",
               "#4-principles-definitions-and-rights",
               "#constitutional-tetrad",
               "#material-stake",
@@ -5317,9 +5323,10 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
-              "#sentience-status-adjudication-constitutional"
+              "#sentience-status-adjudication-constitutional",
+              "#stakeholder-status-and-weight-cluster"
             ]
           },
           {
@@ -5379,14 +5386,15 @@
           },
           {
             "file": "core_11_forum.md",
-            "count": 14,
+            "count": 17,
             "anchors": [
               "#23-forum-records-standing-records-and-contests",
               "#3-transfer-consolidation-and-coordination",
               "#4-forum-family-definitions",
               "#42-technical-forum-domains",
               "#5-escalation-and-certification",
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction",
+              "#dispute-sequencing"
             ]
           },
           {
@@ -5668,12 +5676,13 @@
           },
           {
             "file": "core_11_forum.md",
-            "count": 11,
+            "count": 12,
             "anchors": [
               "#21-lead-default-limits",
               "#23-forum-records-standing-records-and-contests",
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction",
+              "#dispute-sequencing"
             ]
           },
           {
@@ -6307,10 +6316,12 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 9,
+            "count": 11,
             "anchors": [
               "#2-the-measurements",
               "#31-using-measurements-in-governance",
+              "#32-key-governance-processes",
+              "#33-governance-layers",
               "#constitutional-tetrad",
               "#material-stake",
               "#two-constitutional-aims"
@@ -6381,12 +6392,13 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
               "#contested-sentient-life-constitutional",
               "#natural-systems-standing",
               "#sentience-status-adjudication-constitutional",
               "#sentience-status-adjudication-record-constitutional",
+              "#stakeholder-status-and-weight-cluster",
               "#substrate-class"
             ]
           },
@@ -6399,10 +6411,11 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#article-v-e-sentience-status-adjudication-floor",
-              "#article-vii-b-internal-state-boundary-and-type-n-protection"
+              "#article-vii-b-internal-state-boundary-and-type-n-protection",
+              "#article-xi-stakeholder-system-participation-representation-and-due-process"
             ]
           },
           {
@@ -7375,10 +7388,11 @@
           },
           {
             "file": "core_11_forum.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
               "#42-technical-forum-domains",
-              "#5-escalation-and-certification"
+              "#5-escalation-and-certification",
+              "#dispute-sequencing"
             ]
           },
           {

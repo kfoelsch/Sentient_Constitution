@@ -1729,7 +1729,7 @@ See **Joint invocation and satisfaction**.
     **Primary assessment:** Verify the necessary-party and mandate conditions under Chapter Eleven §2. Coordinate with **Integrity** lead defaults for Chapter Ten classification only when Chapter Eleven's collision rules allow it.
 <a id="forum-family-institutional-c"></a>
 - **What must hold**
-  - **Primary failure:** It is non-compliant to deny **Institutional** routing when Chapter Eleven §2's primary-stake row requires it. It is also non-compliant to use internal process labels to avoid independent merits review when material capture or conflict allegations require **Integrity** or backup routing.
+  - **Primary failure:** It is non-compliant to deny **Institutional** routing when Chapter Eleven §2's primary-stake row requires it. It is also non-compliant to use internal process labels to avoid independent merits review when material capture or conflict allegations require **Integrity** or backup routing under [Dispute sequencing](core_11_forum.md#dispute-sequencing).
 
 ---
 

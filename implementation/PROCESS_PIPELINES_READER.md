@@ -10,6 +10,7 @@ Open these first. They point; they do not replace the numbered `core_*` files.
 
 - [README.md](../README.md) — how to read the instrument, and common lookups
 - [Preamble §5 Key Practical Process Pipelines](../core_00_preamble.md#5-key-practical-process-pipelines) — what each chapter in this chain owns and produces
+- [Preamble §5.1 How the full chain fits together](../core_00_preamble.md#51-how-the-full-chain-fits-together) — the numbered path from certification to forum routing
 - [Steward entry doors](STEWARD_ENTRY_DOORS.md) — next-step pointers under time pressure (process support; cannot narrow core)
 - [Affected-reader process guides](adoption/easy_entry/README.md#process-guides) — challenge, independent review, certification, help and harm, crisis clocks
 
@@ -53,4 +54,4 @@ These floors are already in Chapter Six. This page does not restate them as new 
 - Does not treat this map as compliance.
 - Does not decide sentience status, rewrite standing measurement, or replace forum supervision.
 
-**Next:** [Preamble §5](../core_00_preamble.md#5-key-practical-process-pipelines) for the owner register, then the named chapter.
+**Next:** [Preamble §5](../core_00_preamble.md#5-key-practical-process-pipelines) for the owner register, [§5.1](../core_00_preamble.md#51-how-the-full-chain-fits-together) for how the chain fits together, then the named chapter.

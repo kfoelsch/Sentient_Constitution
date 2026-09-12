@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-12T13:36:38+00:00",
+  "generated_at": "2026-09-12T18:30:01+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 14325,
+  "edge_count": 14350,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -242,6 +242,14 @@
       "source_file": "core_00_preamble.md",
       "source_header": "3.2 Key Governance Processes",
       "source_anchor": "#32-key-governance-processes",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#stakeholder-status-and-weight-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "3.2 Key Governance Processes",
+      "source_anchor": "#32-key-governance-processes",
       "target_file": "core_07_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#chapter-seven-system-alignment-certification",
       "count": 2
@@ -267,7 +275,7 @@
       "source_header": "3.2 Key Governance Processes",
       "source_anchor": "#32-key-governance-processes",
       "target_file": "core_11_forum.md",
-      "target_anchor": "#chapter-eleven-forums-and-jurisdiction",
+      "target_anchor": "#1-purpose-and-role",
       "count": 1
     },
     {
@@ -301,6 +309,22 @@
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder-status-and-weight-cluster",
       "count": 2
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "3.3 Governance Layers",
+      "source_anchor": "#33-governance-layers",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#1-purpose-and-role",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "3.3 Governance Layers",
+      "source_anchor": "#33-governance-layers",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#dispute-sequencing",
+      "count": 1
     },
     {
       "source_file": "core_00_preamble.md",
@@ -436,7 +460,7 @@
       "source_anchor": "#5-key-practical-process-pipelines",
       "target_file": "core_07_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#chapter-seven-system-alignment-certification",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_00_preamble.md",
@@ -444,7 +468,7 @@
       "source_anchor": "#5-key-practical-process-pipelines",
       "target_file": "core_08_standing_assessment.md",
       "target_anchor": "#chapter-eight-compliance-violation-and-standing-model",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_00_preamble.md",
@@ -452,7 +476,7 @@
       "source_anchor": "#5-key-practical-process-pipelines",
       "target_file": "core_09_standing_integration.md",
       "target_anchor": "#chapter-nine-standing-effects-and-integration",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_00_preamble.md",
@@ -476,7 +500,7 @@
       "source_anchor": "#5-key-practical-process-pipelines",
       "target_file": "core_09_standing_integration.md",
       "target_anchor": "#41-remedy-and-correction",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_00_preamble.md",
@@ -484,7 +508,7 @@
       "source_anchor": "#5-key-practical-process-pipelines",
       "target_file": "core_10_a_misconduct_designation.md",
       "target_anchor": "#chapter-ten-anti-constitutional-misconduct",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_00_preamble.md",
@@ -492,12 +516,76 @@
       "source_anchor": "#5-key-practical-process-pipelines",
       "target_file": "core_11_forum.md",
       "target_anchor": "#chapter-eleven-forums-and-jurisdiction",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_00_preamble.md",
       "source_header": "5. Key Practical Process Pipelines",
       "source_anchor": "#5-key-practical-process-pipelines",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#dispute-sequencing",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "5.1 How the full chain fits together",
+      "source_anchor": "#51-how-the-full-chain-fits-together",
+      "target_file": "core_07_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#chapter-seven-system-alignment-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "5.1 How the full chain fits together",
+      "source_anchor": "#51-how-the-full-chain-fits-together",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#chapter-eight-compliance-violation-and-standing-model",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "5.1 How the full chain fits together",
+      "source_anchor": "#51-how-the-full-chain-fits-together",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#chapter-nine-standing-effects-and-integration",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "5.1 How the full chain fits together",
+      "source_anchor": "#51-how-the-full-chain-fits-together",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#41-remedy-and-correction",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "5.1 How the full chain fits together",
+      "source_anchor": "#51-how-the-full-chain-fits-together",
+      "target_file": "core_10_a_misconduct_designation.md",
+      "target_anchor": "#chapter-ten-anti-constitutional-misconduct",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "5.1 How the full chain fits together",
+      "source_anchor": "#51-how-the-full-chain-fits-together",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#1-purpose-and-role",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "5.1 How the full chain fits together",
+      "source_anchor": "#51-how-the-full-chain-fits-together",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#dispute-sequencing",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "5.1 How the full chain fits together",
+      "source_anchor": "#51-how-the-full-chain-fits-together",
       "target_file": "core_11_forum.md",
       "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
       "count": 1
@@ -22962,6 +23050,14 @@
       "source_file": "core_05_band_accountability.md",
       "source_header": "Forum Family, Institutional",
       "source_anchor": "#forum-family-institutional",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#dispute-sequencing",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Forum Family, Institutional",
+      "source_anchor": "#forum-family-institutional",
       "target_file": "corpus_institutions.md",
       "target_anchor": null,
       "count": 1
@@ -34058,6 +34154,14 @@
       "source_file": "core_05_band_continuity.md",
       "source_header": "System Alignment Certification",
       "source_anchor": "#system-alignment-certification-constitutional",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#dispute-sequencing",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "System Alignment Certification",
+      "source_anchor": "#system-alignment-certification-constitutional",
       "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 1
@@ -34492,6 +34596,14 @@
       "source_anchor": "#system-certification-record-constitutional",
       "target_file": "core_07_b_system_alignment_certification_record_process.md",
       "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "System Certification Record",
+      "source_anchor": "#system-certification-record-constitutional",
+      "target_file": "core_07_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#142-contestability-paths",
       "count": 1
     },
     {
@@ -55386,6 +55498,14 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article XI-D: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#dispute-sequencing",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_anchor": null,
       "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "target_anchor": null,
       "count": 1
@@ -68019,6 +68139,14 @@
       "source_header": "14. Supervisory Sequence and Contestability Chain",
       "source_anchor": "#14-supervisory-sequence-and-contestability-chain",
       "target_file": "core_00_preamble.md",
+      "target_anchor": "#33-governance-layers",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_b_system_alignment_certification_record_process.md",
+      "source_header": "14. Supervisory Sequence and Contestability Chain",
+      "source_anchor": "#14-supervisory-sequence-and-contestability-chain",
+      "target_file": "core_00_preamble.md",
       "target_anchor": "#4-principles-definitions-and-rights",
       "count": 1
     },
@@ -68060,6 +68188,14 @@
       "source_anchor": "#14-supervisory-sequence-and-contestability-chain",
       "target_file": "core_11_forum.md",
       "target_anchor": "#5-escalation-and-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_b_system_alignment_certification_record_process.md",
+      "source_header": "14. Supervisory Sequence and Contestability Chain",
+      "source_anchor": "#14-supervisory-sequence-and-contestability-chain",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#dispute-sequencing",
       "count": 1
     },
     {
@@ -68130,6 +68266,14 @@
       "source_file": "core_07_b_system_alignment_certification_record_process.md",
       "source_header": "14.2 Contestability chain",
       "source_anchor": "#142-contestability-chain",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#stakeholder-status-and-weight-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_b_system_alignment_certification_record_process.md",
+      "source_header": "14.2 Contestability chain",
+      "source_anchor": "#142-contestability-chain",
       "target_file": "core_06_rights_part_d.md",
       "target_anchor": "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
       "count": 1
@@ -68139,7 +68283,23 @@
       "source_header": "14.2 Contestability chain",
       "source_anchor": "#142-contestability-chain",
       "target_file": "core_11_forum.md",
+      "target_anchor": "#dispute-sequencing",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_b_system_alignment_certification_record_process.md",
+      "source_header": "14.2 Contestability chain",
+      "source_anchor": "#142-contestability-chain",
+      "target_file": "core_11_forum.md",
       "target_anchor": "#chapter-eleven-forums-and-jurisdiction",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_b_system_alignment_certification_record_process.md",
+      "source_header": "14.3 Anti-bypass",
+      "source_anchor": "#143-anti-bypass",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#dispute-sequencing",
       "count": 1
     },
     {
@@ -69500,6 +69660,14 @@
       "source_anchor": "#37-record-custody-and-opening-authority",
       "target_file": "core_11_forum.md",
       "target_anchor": "#chapter-eleven-forums-and-jurisdiction",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#dispute-sequencing",
       "count": 1
     },
     {
@@ -74138,6 +74306,22 @@
       "source_file": "core_11_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
       "source_anchor": "#1-purpose-and-role",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#32-key-governance-processes",
+      "count": 1
+    },
+    {
+      "source_file": "core_11_forum.md",
+      "source_header": "1. Purpose and role — participation architecture",
+      "source_anchor": "#1-purpose-and-role",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#33-governance-layers",
+      "count": 1
+    },
+    {
+      "source_file": "core_11_forum.md",
+      "source_header": "1. Purpose and role — participation architecture",
+      "source_anchor": "#1-purpose-and-role",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#chapter-01-principles-and-constraints",
       "count": 1
@@ -74170,8 +74354,24 @@
       "source_file": "core_11_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
       "source_anchor": "#1-purpose-and-role",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#stakeholder-status-and-weight-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_11_forum.md",
+      "source_header": "1. Purpose and role — participation architecture",
+      "source_anchor": "#1-purpose-and-role",
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#chapter-six-foundational-rights",
+      "count": 1
+    },
+    {
+      "source_file": "core_11_forum.md",
+      "source_header": "1. Purpose and role — participation architecture",
+      "source_anchor": "#1-purpose-and-role",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xi-stakeholder-system-participation-representation-and-due-process",
       "count": 1
     },
     {

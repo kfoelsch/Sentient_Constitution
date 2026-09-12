@@ -5,84 +5,91 @@
   "cannot_narrow_core": true,
   "split_rule": "headings outside details; never inside O/M/A/C blocks",
   "embeddings": "postponed_indefinitely",
-  "chunk_count": 826,
+  "chunk_count": 827,
   "chunks": [
     {
       "file": "core_00_preamble.md",
       "heading": "PREAMBLE / FOUNDATIONAL REQUIREMENTS",
       "anchor": "#chapter-00-preamble--foundational-requirements",
       "line_start": 2,
-      "line_end": 22
+      "line_end": 26
     },
     {
       "file": "core_00_preamble.md",
       "heading": "1. The Model",
       "anchor": "#1-the-model",
-      "line_start": 23,
-      "line_end": 43
+      "line_start": 27,
+      "line_end": 47
     },
     {
       "file": "core_00_preamble.md",
       "heading": "2. Measurements Overview",
       "anchor": "#2-the-measurements",
-      "line_start": 44,
-      "line_end": 69
+      "line_start": 48,
+      "line_end": 73
     },
     {
       "file": "core_00_preamble.md",
       "heading": "3. Governance and Stewardship",
       "anchor": "#3-governance-and-stewardship",
-      "line_start": 70,
-      "line_end": 78
+      "line_start": 74,
+      "line_end": 82
     },
     {
       "file": "core_00_preamble.md",
       "heading": "3.1 Using Measurements in Governance",
       "anchor": "#31-using-measurements-in-governance",
-      "line_start": 79,
-      "line_end": 87
+      "line_start": 83,
+      "line_end": 91
     },
     {
       "file": "core_00_preamble.md",
       "heading": "3.2 Key Governance Processes",
       "anchor": "#32-key-governance-processes",
-      "line_start": 88,
-      "line_end": 99
+      "line_start": 92,
+      "line_end": 106
     },
     {
       "file": "core_00_preamble.md",
       "heading": "3.3 Governance Layers",
       "anchor": "#33-governance-layers",
-      "line_start": 100,
-      "line_end": 111
+      "line_start": 107,
+      "line_end": 122
     },
     {
       "file": "core_00_preamble.md",
       "heading": "4. Principles, Definitions, and Rights",
       "anchor": "#4-principles-definitions-and-rights",
-      "line_start": 112,
-      "line_end": 152
+      "line_start": 123,
+      "line_end": 163
     },
     {
       "file": "core_00_preamble.md",
       "heading": "5. Key Practical Process Pipelines",
       "anchor": "#5-key-practical-process-pipelines",
-      "line_start": 153,
-      "line_end": 206
+      "line_start": 164,
+      "line_end": 217
+    },
+    {
+      "file": "core_00_preamble.md",
+      "heading": "5.1 How the full chain fits together",
+      "anchor": "#51-how-the-full-chain-fits-together",
+      "line_start": 218,
+      "line_end": 232
     },
     {
       "file": "core_00_preamble.md",
       "heading": "6. Governance, Change, and Incorporation",
       "anchor": "#6-governance-change-and-incorporation",
-      "line_start": 207,
-      "line_end": 240
+      "line_start": 233,
+      "line_end": 266
     },
     {
       "file": "core_00_preamble.md",
       "heading": "7. Companion Implementation Corpus",
       "anchor": "#7-companion-implementation-corpus",
-      "line_start": 241,
-      "line_end": 260
+      "line_start": 267,
+      "line_end": 286
     },
     {
       "file": "core_01_a_values_principles.md",
@@ -3288,28 +3295,28 @@
       "heading": "14.2 Contestability chain",
       "anchor": "#142-contestability-chain",
       "line_start": 308,
-      "line_end": 321
+      "line_end": 333
     },
     {
       "file": "core_07_b_system_alignment_certification_record_process.md",
       "heading": "14.3 Anti-bypass",
       "anchor": "#143-anti-bypass",
-      "line_start": 322,
-      "line_end": 329
+      "line_start": 334,
+      "line_end": 341
     },
     {
       "file": "core_07_b_system_alignment_certification_record_process.md",
       "heading": "15. Relationship to Standing",
       "anchor": "#15-relationship-to-standing",
-      "line_start": 330,
-      "line_end": 402
+      "line_start": 342,
+      "line_end": 414
     },
     {
       "file": "core_07_b_system_alignment_certification_record_process.md",
       "heading": "16. Reopening, Misalignment, and Non-Evasion",
       "anchor": "#16-reopening-drift-and-non-evasion",
-      "line_start": 403,
-      "line_end": 454
+      "line_start": 415,
+      "line_end": 466
     },
     {
       "file": "core_07_system_alignment_certification.md",
@@ -4016,182 +4023,182 @@
       "heading": "1. Purpose and role — participation architecture",
       "anchor": "#1-purpose-and-role",
       "line_start": 50,
-      "line_end": 114
+      "line_end": 136
     },
     {
       "file": "core_11_forum.md",
       "heading": "2. Default venue and primary stakes",
       "anchor": "#2-default-venue-and-primary-stakes",
-      "line_start": 115,
-      "line_end": 183
+      "line_start": 137,
+      "line_end": 205
     },
     {
       "file": "core_11_forum.md",
       "heading": "2.1 Lead-default limits",
       "anchor": "#21-lead-default-limits",
-      "line_start": 184,
-      "line_end": 194
+      "line_start": 206,
+      "line_end": 216
     },
     {
       "file": "core_11_forum.md",
       "heading": "2.2 Mixed stakes and routing asymmetry",
       "anchor": "#22-mixed-stakes-and-routing-asymmetry",
-      "line_start": 195,
-      "line_end": 205
+      "line_start": 217,
+      "line_end": 227
     },
     {
       "file": "core_11_forum.md",
       "heading": "2.3 Forum case records, standing records, and contests",
       "anchor": "#23-forum-records-standing-records-and-contests",
-      "line_start": 206,
-      "line_end": 228
+      "line_start": 228,
+      "line_end": 250
     },
     {
       "file": "core_11_forum.md",
       "heading": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
       "anchor": "#3-transfer-consolidation-and-coordination",
-      "line_start": 229,
-      "line_end": 283
+      "line_start": 251,
+      "line_end": 305
     },
     {
       "file": "core_11_forum.md",
       "heading": "4. Forum family definitions — accountability through adjudication",
       "anchor": "#4-forum-family-definitions",
-      "line_start": 284,
-      "line_end": 308
+      "line_start": 306,
+      "line_end": 330
     },
     {
       "file": "core_11_forum.md",
       "heading": "4.1 Sentient forums",
       "anchor": "#41-sentient-forums",
-      "line_start": 309,
-      "line_end": 334
+      "line_start": 331,
+      "line_end": 356
     },
     {
       "file": "core_11_forum.md",
       "heading": "4.2 Technical Forum Domains",
       "anchor": "#42-technical-forum-domains",
-      "line_start": 335,
-      "line_end": 371
+      "line_start": 357,
+      "line_end": 393
     },
     {
       "file": "core_11_forum.md",
       "heading": "4.3 Institutional forums",
       "anchor": "#43-institutional-forums",
-      "line_start": 372,
-      "line_end": 403
+      "line_start": 394,
+      "line_end": 425
     },
     {
       "file": "core_11_forum.md",
       "heading": "4.4 Environment forums",
       "anchor": "#44-environment-forums",
-      "line_start": 404,
-      "line_end": 434
+      "line_start": 426,
+      "line_end": 456
     },
     {
       "file": "core_11_forum.md",
       "heading": "4.5 Integrity forums",
       "anchor": "#45-integrity-forums",
-      "line_start": 435,
-      "line_end": 481
+      "line_start": 457,
+      "line_end": 503
     },
     {
       "file": "core_11_forum.md",
       "heading": "4.6 Constitutional forums",
       "anchor": "#46-constitutional-forums",
-      "line_start": 482,
-      "line_end": 499
+      "line_start": 504,
+      "line_end": 521
     },
     {
       "file": "core_11_forum.md",
       "heading": "4.7 Provisional implementation operational law",
       "anchor": "#47-provisional-implementation-operational-law",
-      "line_start": 500,
-      "line_end": 515
+      "line_start": 522,
+      "line_end": 537
     },
     {
       "file": "core_11_forum.md",
       "heading": "5. Escalation and certification",
       "anchor": "#5-escalation-and-certification",
-      "line_start": 516,
-      "line_end": 532
+      "line_start": 538,
+      "line_end": 554
     },
     {
       "file": "core_11_forum.md",
       "heading": "Family-to-family escalation",
       "anchor": "#family-to-family-escalation",
-      "line_start": 533,
-      "line_end": 556
+      "line_start": 555,
+      "line_end": 578
     },
     {
       "file": "core_11_forum.md",
       "heading": "Existential risk and uncertainty on the record",
       "anchor": "#existential-risk-and-uncertainty-on-the-record",
-      "line_start": 557,
-      "line_end": 561
+      "line_start": 579,
+      "line_end": 583
     },
     {
       "file": "core_11_forum.md",
       "heading": "Certification to **Constitutional** forums",
       "anchor": "#certification-to-constitutional-forums",
-      "line_start": 562,
-      "line_end": 568
+      "line_start": 584,
+      "line_end": 590
     },
     {
       "file": "core_11_forum.md",
       "heading": "Technical support and preserved **Integrity** escalation",
       "anchor": "#technical-support-and-preserved-integrity-escalation",
-      "line_start": 569,
-      "line_end": 574
+      "line_start": 591,
+      "line_end": 596
     },
     {
       "file": "core_11_forum.md",
       "heading": "Interim protection",
       "anchor": "#interim-protection",
-      "line_start": 575,
-      "line_end": 579
+      "line_start": 597,
+      "line_end": 601
     },
     {
       "file": "core_11_forum.md",
       "heading": "Backup routing under the anti-self-judging rule",
       "anchor": "#backup-routing-under-the-anti-self-judging-rule",
-      "line_start": 580,
-      "line_end": 584
+      "line_start": 602,
+      "line_end": 606
     },
     {
       "file": "core_11_forum.md",
       "heading": "Sentience-status adjudication (**Article V-E** (*Sentience-Status Adjudication Floor*) implementation hook)",
       "anchor": "#sentience-status-adjudication-article-v-e-sentience-status-adjudication-floor-implementation-hook",
-      "line_start": 585,
-      "line_end": 608
+      "line_start": 607,
+      "line_end": 630
     },
     {
       "file": "core_11_forum.md",
       "heading": "Referral distinguished from expansion",
       "anchor": "#referral-distinguished-from-expansion",
-      "line_start": 609,
-      "line_end": 614
+      "line_start": 631,
+      "line_end": 636
     },
     {
       "file": "core_11_forum.md",
       "heading": "Chapter Ten designation and independent review",
       "anchor": "#chapter-ten-designation-and-independent-review",
-      "line_start": 615,
-      "line_end": 621
+      "line_start": 637,
+      "line_end": 643
     },
     {
       "file": "core_11_forum.md",
       "heading": "6. Timely resolution, materiality tiers, and anti-delay discipline",
       "anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-      "line_start": 622,
-      "line_end": 702
+      "line_start": 644,
+      "line_end": 724
     },
     {
       "file": "core_11_forum.md",
       "heading": "7. Forum support before, during, and after review — oversight architecture",
       "anchor": "#7-forum-support-before-during-and-after-review",
-      "line_start": 703,
-      "line_end": 737
+      "line_start": 725,
+      "line_end": 759
     },
     {
       "file": "core_08-11_application_vignettes.md",

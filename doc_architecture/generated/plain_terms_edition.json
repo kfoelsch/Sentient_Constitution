@@ -3,14 +3,14 @@
   "effective_date": "2026-08-09",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "heading_count": 836,
-  "glossed_count": 581,
+  "heading_count": 837,
+  "glossed_count": 582,
   "files": [
     {
       "file": "core_00_preamble.md",
       "title": "PREAMBLE / FOUNDATIONAL REQUIREMENTS",
-      "heading_count": 11,
-      "glossed_count": 11,
+      "heading_count": 12,
+      "glossed_count": 12,
       "sections": [
         {
           "file": "core_00_preamble.md",
@@ -26,90 +26,99 @@
           "level": 3,
           "title": "1. The Model",
           "anchor": "1-the-model",
-          "line": 23,
+          "line": 27,
           "gloss": "four duties — participation, oversight, accountability, and timeliness — scale with how much impact, dependence, and risk are on the line, and they serve two aims together: Flourishing and Continuity, inside a Rights Floor that does not move.",
-          "gloss_line": 25
+          "gloss_line": 29
         },
         {
           "file": "core_00_preamble.md",
           "level": 3,
           "title": "2. Measurements Overview",
           "anchor": "2-the-measurements",
-          "line": 44,
+          "line": 48,
           "gloss": "you cannot run shared systems on guesswork or vanity metrics; measure whether sentients actually flourish and endure, with review that scales to how much impact, dependence, and risk are on the line.",
-          "gloss_line": 46
+          "gloss_line": 50
         },
         {
           "file": "core_00_preamble.md",
           "level": 3,
           "title": "3. Governance and Stewardship",
           "anchor": "3-governance-and-stewardship",
-          "line": 70,
+          "line": 74,
           "gloss": "legitimacy needs Safety, Truth, and Trust, plus real chances to learn the systems that affect you and to take consequential roles in keeping them working.",
-          "gloss_line": 72
+          "gloss_line": 76
         },
         {
           "file": "core_00_preamble.md",
           "level": 4,
           "title": "3.1 Using Measurements in Governance",
           "anchor": "31-using-measurements-in-governance",
-          "line": 79,
+          "line": 83,
           "gloss": "name the problem and the stake first, pick the matching measurement category, and use shared technical standards — not convenience numbers — as evidence.",
-          "gloss_line": 81
+          "gloss_line": 85
         },
         {
           "file": "core_00_preamble.md",
           "level": 4,
           "title": "3.2 Key Governance Processes",
           "anchor": "32-key-governance-processes",
-          "line": 88,
-          "gloss": "when the text requires it, material issues go through certification, written records of help and harm, correction and remedy, and forum review with clocks — those paths test authorized governance; they do not create it by themselves.",
-          "gloss_line": 90
+          "line": 92,
+          "gloss": "when the text requires it, material issues go through certification, written records of help and harm, correction and remedy, and forum review with clocks — ordinary disputes use the published challenge path first; those paths test authorized governance; they do not create it by themselves.",
+          "gloss_line": 94
         },
         {
           "file": "core_00_preamble.md",
           "level": 4,
           "title": "3.3 Governance Layers",
           "anchor": "33-governance-layers",
-          "line": 100,
-          "gloss": "who may govern is a different question from voice inside a system that is already authorized; a participation vote or a trust score is not authorization.",
-          "gloss_line": 102
+          "line": 107,
+          "gloss": "who may govern is a different question from voice inside a system that is already authorized; a participation vote or a trust score is not authorization, and that voice is the ordinary first step for ordinary disputes — not a substitute for independent forum review when the path fails.",
+          "gloss_line": 109
         },
         {
           "file": "core_00_preamble.md",
           "level": 3,
           "title": "4. Principles, Definitions, and Rights",
           "anchor": "4-principles-definitions-and-rights",
-          "line": 112,
+          "line": 123,
           "gloss": "Chapters One through Six own values, how words are built and checked, the dictionary, and the Rights Floor; later chapters must respect those homes, not quietly move them.",
-          "gloss_line": 114
+          "gloss_line": 125
         },
         {
           "file": "core_00_preamble.md",
           "level": 3,
           "title": "5. Key Practical Process Pipelines",
           "anchor": "5-key-practical-process-pipelines",
-          "line": 153,
+          "line": 164,
           "gloss": "Chapters Seven through Eleven are one chain — certify the system, measure help and harm on two separate tracks, apply real effects and remedy, and keep forums from being the sole final home for a claim against themselves — so duties stay real in daily life.",
-          "gloss_line": 155
+          "gloss_line": 166
+        },
+        {
+          "file": "core_00_preamble.md",
+          "level": 4,
+          "title": "5.1 How the full chain fits together",
+          "anchor": "51-how-the-full-chain-fits-together",
+          "line": 218,
+          "gloss": "think of it as a path from system check to remedy — with forums supervising the dispute and standing steps throughout.",
+          "gloss_line": 220
         },
         {
           "file": "core_00_preamble.md",
           "level": 3,
           "title": "6. Governance, Change, and Incorporation",
           "anchor": "6-governance-change-and-incorporation",
-          "line": 207,
+          "line": 233,
           "gloss": "Chapters Twelve through Sixteen close the instrument: who may govern, how the text may change without rolling back protections, how it relates to other law, and how adopted how-to files stay bound to this source.",
-          "gloss_line": 209
+          "gloss_line": 235
         },
         {
           "file": "core_00_preamble.md",
           "level": 3,
           "title": "7. Companion Implementation Corpus",
           "anchor": "7-companion-implementation-corpus",
-          "line": 241,
+          "line": 267,
           "gloss": "four companion corpora (joint structure, systems, institutions, and forum operations) spell out how to carry out what the chapters already require; they bind when validly adopted, and they may not shrink those duties.",
-          "gloss_line": 243
+          "gloss_line": 269
         }
       ]
     },
@@ -4496,7 +4505,7 @@
           "level": 4,
           "title": "14.3 Anti-bypass",
           "anchor": "143-anti-bypass",
-          "line": 322,
+          "line": 334,
           "gloss": null,
           "gloss_line": null
         },
@@ -4505,18 +4514,18 @@
           "level": 3,
           "title": "15. Relationship to Standing",
           "anchor": "15-relationship-to-standing",
-          "line": 330,
+          "line": 342,
           "gloss": "certification can feed standing, but it is not standing. A good or bad certification record may supply verified facts to Chapter Eight — only through a strict gate — and Chapters Eight and Nine alone decide standing records and effects.",
-          "gloss_line": 343
+          "gloss_line": 355
         },
         {
           "file": "core_07_b_system_alignment_certification_record_process.md",
           "level": 3,
           "title": "16. Reopening, Misalignment, and Non-Evasion",
           "anchor": "16-reopening-drift-and-non-evasion",
-          "line": 403,
+          "line": 415,
           "gloss": "a certification does not last forever. When the system, the risks, or the facts change — or when someone credibly challenges the record — review must reopen. Stale approval cannot stand in for current Rights-Floor compliance, and operators may not evade these duties by relabeling or boundary games.",
-          "gloss_line": 416
+          "gloss_line": 428
         }
       ]
     },
@@ -5472,7 +5481,7 @@
           "title": "1. Purpose and role — participation architecture",
           "anchor": "1-purpose-and-role",
           "line": 50,
-          "gloss": "this section assigns constitutional **participation** and **oversight** through forum families that **supervise** two tracks — the **standing pipeline** (Chapters Eight–Ten disputes and record effects) and **System Alignment Certification** (Chapter Seven recognition and review) — then states accountability requirements for published threshold placement. Detailed hearing rules live elsewhere and may not quietly shrink what this chapter guarantees.",
+          "gloss": "this section assigns constitutional **participation** and **oversight** through forum families that **supervise** two tracks — the **standing pipeline** (Chapters Eight–Ten disputes and record effects) and **System Alignment Certification** (Chapter Seven recognition and review) — then states accountability requirements for published threshold placement. Ordinary disputes inside already-authorized systems use the published Stakeholder System Participation challenge path first; this chapter takes over when that path is still contested, missing, captured, or cannot grant relief. Detailed hearing rules live elsewhere and may not quietly shrink what this chapter guarantees.",
           "gloss_line": 63
         },
         {
@@ -5480,16 +5489,16 @@
           "level": 3,
           "title": "2. Default venue and primary stakes",
           "anchor": "2-default-venue-and-primary-stakes",
-          "line": 115,
+          "line": 137,
           "gloss": "each family's **first-touch desk** — the **intake triage body** — asks what the fight is really about, not what the caption says, then uses the default table to pick the lead forum. Technical forums maintain the system-alignment specifications, methods, and evidence standards; **Integrity** forums make the official alignment-recognition and ongoing-validation judgment unless a component question belongs elsewhere. Sorting does not substitute for lawfully constituted merits panels; mixed stakes, asymmetry, and standing-record contests are in the subsections below.",
-          "gloss_line": 128
+          "gloss_line": 150
         },
         {
           "file": "core_11_forum.md",
           "level": 4,
           "title": "2.1 Lead-default limits",
           "anchor": "21-lead-default-limits",
-          "line": 184,
+          "line": 206,
           "gloss": null,
           "gloss_line": null
         },
@@ -5498,7 +5507,7 @@
           "level": 4,
           "title": "2.2 Mixed stakes and routing asymmetry",
           "anchor": "22-mixed-stakes-and-routing-asymmetry",
-          "line": 195,
+          "line": 217,
           "gloss": null,
           "gloss_line": null
         },
@@ -5507,7 +5516,7 @@
           "level": 4,
           "title": "2.3 Forum case records, standing records, and contests",
           "anchor": "23-forum-records-standing-records-and-contests",
-          "line": 206,
+          "line": 228,
           "gloss": null,
           "gloss_line": null
         },
@@ -5516,25 +5525,25 @@
           "level": 3,
           "title": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
           "anchor": "3-transfer-consolidation-and-coordination",
-          "line": 229,
+          "line": 251,
           "gloss": "when many **affected** **parties** share the same underlying harm pattern, forums may widen the case fairly; when **Integrity** forums issue **alignment** rulings they keep **one** lead record and refer **component** questions to the right **family** without stealing those forums' merits jobs; and no forum family gets to be the only final word when the accusation is essentially that this same family is rigged, conflicted, or hiding the ball — the rules send that to a different lead track with written backups.",
-          "gloss_line": 241
+          "gloss_line": 263
         },
         {
           "file": "core_11_forum.md",
           "level": 3,
           "title": "4. Forum family definitions — accountability through adjudication",
           "anchor": "4-forum-family-definitions",
-          "line": 284,
+          "line": 306,
           "gloss": "adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **section 2**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (with **section 3**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **section 2** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§§4.2 and 4.7**); Constitutional disposition is in **§4.6**; certification when stakes merge is in **section 5**.",
-          "gloss_line": 297
+          "gloss_line": 319
         },
         {
           "file": "core_11_forum.md",
           "level": 4,
           "title": "4.1 Sentient forums",
           "anchor": "41-sentient-forums",
-          "line": 309,
+          "line": 331,
           "gloss": null,
           "gloss_line": null
         },
@@ -5543,7 +5552,7 @@
           "level": 4,
           "title": "4.2 Technical Forum Domains",
           "anchor": "42-technical-forum-domains",
-          "line": 335,
+          "line": 357,
           "gloss": null,
           "gloss_line": null
         },
@@ -5552,7 +5561,7 @@
           "level": 4,
           "title": "4.3 Institutional forums",
           "anchor": "43-institutional-forums",
-          "line": 372,
+          "line": 394,
           "gloss": null,
           "gloss_line": null
         },
@@ -5561,7 +5570,7 @@
           "level": 4,
           "title": "4.4 Environment forums",
           "anchor": "44-environment-forums",
-          "line": 404,
+          "line": 426,
           "gloss": null,
           "gloss_line": null
         },
@@ -5570,7 +5579,7 @@
           "level": 4,
           "title": "4.5 Integrity forums",
           "anchor": "45-integrity-forums",
-          "line": 435,
+          "line": 457,
           "gloss": null,
           "gloss_line": null
         },
@@ -5579,7 +5588,7 @@
           "level": 4,
           "title": "4.6 Constitutional forums",
           "anchor": "46-constitutional-forums",
-          "line": 482,
+          "line": 504,
           "gloss": null,
           "gloss_line": null
         },
@@ -5588,7 +5597,7 @@
           "level": 4,
           "title": "4.7 Provisional implementation operational law",
           "anchor": "47-provisional-implementation-operational-law",
-          "line": 500,
+          "line": 522,
           "gloss": null,
           "gloss_line": null
         },
@@ -5597,16 +5606,16 @@
           "level": 3,
           "title": "5. Escalation and certification",
           "anchor": "5-escalation-and-certification",
-          "line": 516,
+          "line": 538,
           "gloss": "when the case outgrows the first desk, these rules say how to escalate — for example when an institution must be joined, integrity dominates, or a deep constitutional validity question appears. They explain how certified questions reach **Constitutional** forums, how existential-risk and expert disputes stay contestable, and how interim orders can freeze irreversible harm while routing and certification finish.",
-          "gloss_line": 531
+          "gloss_line": 553
         },
         {
           "file": "core_11_forum.md",
           "level": 4,
           "title": "Family-to-family escalation",
           "anchor": "family-to-family-escalation",
-          "line": 533,
+          "line": 555,
           "gloss": null,
           "gloss_line": null
         },
@@ -5615,7 +5624,7 @@
           "level": 4,
           "title": "Existential risk and uncertainty on the record",
           "anchor": "existential-risk-and-uncertainty-on-the-record",
-          "line": 557,
+          "line": 579,
           "gloss": null,
           "gloss_line": null
         },
@@ -5624,7 +5633,7 @@
           "level": 4,
           "title": "Certification to **Constitutional** forums",
           "anchor": "certification-to-constitutional-forums",
-          "line": 562,
+          "line": 584,
           "gloss": null,
           "gloss_line": null
         },
@@ -5633,7 +5642,7 @@
           "level": 4,
           "title": "Technical support and preserved **Integrity** escalation",
           "anchor": "technical-support-and-preserved-integrity-escalation",
-          "line": 569,
+          "line": 591,
           "gloss": null,
           "gloss_line": null
         },
@@ -5642,7 +5651,7 @@
           "level": 4,
           "title": "Interim protection",
           "anchor": "interim-protection",
-          "line": 575,
+          "line": 597,
           "gloss": null,
           "gloss_line": null
         },
@@ -5651,7 +5660,7 @@
           "level": 4,
           "title": "Backup routing under the anti-self-judging rule",
           "anchor": "backup-routing-under-the-anti-self-judging-rule",
-          "line": 580,
+          "line": 602,
           "gloss": null,
           "gloss_line": null
         },
@@ -5660,7 +5669,7 @@
           "level": 4,
           "title": "Sentience-status adjudication (**Article V-E** (*Sentience-Status Adjudication Floor*) implementation hook)",
           "anchor": "sentience-status-adjudication-article-v-e-sentience-status-adjudication-floor-implementation-hook",
-          "line": 585,
+          "line": 607,
           "gloss": null,
           "gloss_line": null
         },
@@ -5669,7 +5678,7 @@
           "level": 4,
           "title": "Referral distinguished from expansion",
           "anchor": "referral-distinguished-from-expansion",
-          "line": 609,
+          "line": 631,
           "gloss": null,
           "gloss_line": null
         },
@@ -5678,7 +5687,7 @@
           "level": 4,
           "title": "Chapter Ten designation and independent review",
           "anchor": "chapter-ten-designation-and-independent-review",
-          "line": 615,
+          "line": 637,
           "gloss": null,
           "gloss_line": null
         },
@@ -5687,18 +5696,18 @@
           "level": 3,
           "title": "6. Timely resolution, materiality tiers, and anti-delay discipline",
           "anchor": "6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-          "line": 622,
+          "line": 644,
           "gloss": "forum families must keep material disputes moving on published clocks that ordinary sentients can feel — roughly a week for the worst emergencies, a few weeks for ordinary material harm, and a few months at most for coordination-default or bounded matters — not warehouse cases while harm compounds. Each dispute gets an urgency tier from the harm; later-stage windows may stretch when coordination gets harder, but that stretch is not a reason to relabel the urgency. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.",
-          "gloss_line": 650
+          "gloss_line": 672
         },
         {
           "file": "core_11_forum.md",
           "level": 3,
           "title": "7. Forum support before, during, and after review — oversight architecture",
           "anchor": "7-forum-support-before-during-and-after-review",
-          "line": 703,
+          "line": 725,
           "gloss": "forums need help before a case exists, while deciding, and after — inspectors and forensics build an explainable record; they do not become a second merits forum.",
-          "gloss_line": 716
+          "gloss_line": 738
         }
       ]
     },

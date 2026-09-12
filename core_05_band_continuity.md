@@ -229,7 +229,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     5. any feed into [Chapter Eight](core_08_standing_assessment.md#2-standing-records) standing records satisfies [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing) and does not substitute certification for standing measurement or standing effects.
 <a id="system-alignment-certification-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** vendor attestation, internal operator review, technical sign-off, reputation score, or permanent permission slip offered as a substitute for forum-supervised System Alignment Certification where Chapter Seven requires it;
+  - **Primary failure:** vendor attestation, internal operator review, technical sign-off, reputation score, or permanent permission slip offered as a substitute for forum-supervised System Alignment Certification where Chapter Seven requires it, contrary to [Dispute sequencing](core_11_forum.md#dispute-sequencing);
   - **Secondary failure:** non-time-bound, non-contestable, or concealed [System Certification Records](core_05_band_continuity.md#system-certification-record-constitutional); certification finished while required component findings remain unresolved;
   - **Tertiary failure:** class understatement, missing regression coverage on required recertification, or operation outside recognized scope treated as aligned;
   - **Tertiary failure:** using certification, recognition, or conditional reliance to narrow, bypass, or defeat **Chapter Six** Rights Floors — including **Article III-A** (*Survival*) survival essentials or **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource-allocation and dependency floors where materially implicated — or to delay [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) where materially implicated;
@@ -292,7 +292,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
        - outcome;
        - reliance limits;
        - revalidation cadence; and
-       - contestability chain;
+       - contestability chain and named contestability paths under [Chapter Seven Part B §14.2](core_07_b_system_alignment_certification_record_process.md#142-contestability-paths);
     3. where a Chapter Seven evaluation was required by an applicable materiality trigger, the record states the actual findings from that evaluation — not section titles or checkmarks alone — under [Chapter Seven Part B §11.2](core_07_b_system_alignment_certification_record_process.md#112-cross-section-record-requirements); and
     4. the record remains separately traceable from standing records and standing effects.
 <a id="system-certification-record-constitutional-c"></a>

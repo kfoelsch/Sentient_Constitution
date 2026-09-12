@@ -6,11 +6,11 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fourteen](../../core_14_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **581** of **836** headings carry a gloss (69%).
+Coverage: **582** of **837** headings carry a gloss (70%).
 
 ## Contents
 
-- [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (11/11 glossed)
+- [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (12/12 glossed)
 - [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (15/32 glossed)
 - [CHAPTER 01, PART B: INTERACTION AND INTERPRETATION](#chapter-01-part-b-interaction-and-interpretation) — `core_01_b_interaction_interpretation.md` (17/24 glossed)
 - [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (29/37 glossed)
@@ -51,7 +51,7 @@ Coverage: **581** of **836** headings carry a gloss (69%).
 
 ## PREAMBLE / FOUNDATIONAL REQUIREMENTS
 
-Source file: [`core_00_preamble.md`](../../core_00_preamble.md) · 11/11 headings glossed
+Source file: [`core_00_preamble.md`](../../core_00_preamble.md) · 12/12 headings glossed
 
 #### 1. The Model
 
@@ -79,13 +79,13 @@ name the problem and the stake first, pick the matching measurement category, an
 
 ##### 3.2 Key Governance Processes
 
-when the text requires it, material issues go through certification, written records of help and harm, correction and remedy, and forum review with clocks — those paths test authorized governance; they do not create it by themselves.
+when the text requires it, material issues go through certification, written records of help and harm, correction and remedy, and forum review with clocks — ordinary disputes use the published challenge path first; those paths test authorized governance; they do not create it by themselves.
 
 [Source](../../core_00_preamble.md#32-key-governance-processes)
 
 ##### 3.3 Governance Layers
 
-who may govern is a different question from voice inside a system that is already authorized; a participation vote or a trust score is not authorization.
+who may govern is a different question from voice inside a system that is already authorized; a participation vote or a trust score is not authorization, and that voice is the ordinary first step for ordinary disputes — not a substitute for independent forum review when the path fails.
 
 [Source](../../core_00_preamble.md#33-governance-layers)
 
@@ -100,6 +100,12 @@ Chapters One through Six own values, how words are built and checked, the dictio
 Chapters Seven through Eleven are one chain — certify the system, measure help and harm on two separate tracks, apply real effects and remedy, and keep forums from being the sole final home for a claim against themselves — so duties stay real in daily life.
 
 [Source](../../core_00_preamble.md#5-key-practical-process-pipelines)
+
+##### 5.1 How the full chain fits together
+
+think of it as a path from system check to remedy — with forums supervising the dispute and standing steps throughout.
+
+[Source](../../core_00_preamble.md#51-how-the-full-chain-fits-together)
 
 #### 6. Governance, Change, and Incorporation
 
@@ -3487,7 +3493,7 @@ Source file: [`core_11_forum.md`](../../core_11_forum.md) · 8/27 headings gloss
 
 #### 1. Purpose and role — participation architecture
 
-this section assigns constitutional **participation** and **oversight** through forum families that **supervise** two tracks — the **standing pipeline** (Chapters Eight–Ten disputes and record effects) and **System Alignment Certification** (Chapter Seven recognition and review) — then states accountability requirements for published threshold placement. Detailed hearing rules live elsewhere and may not quietly shrink what this chapter guarantees.
+this section assigns constitutional **participation** and **oversight** through forum families that **supervise** two tracks — the **standing pipeline** (Chapters Eight–Ten disputes and record effects) and **System Alignment Certification** (Chapter Seven recognition and review) — then states accountability requirements for published threshold placement. Ordinary disputes inside already-authorized systems use the published Stakeholder System Participation challenge path first; this chapter takes over when that path is still contested, missing, captured, or cannot grant relief. Detailed hearing rules live elsewhere and may not quietly shrink what this chapter guarantees.
 
 [Source](../../core_11_forum.md#1-purpose-and-role)
 

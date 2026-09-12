@@ -42,7 +42,11 @@ Source file: `core_00_preamble.md`
 *In plain terms: this opening names the problem this Constitution exists to fix — systems that harm, hide, or lock out those they affect — and says the rest of the instrument is how we replace that with accountable, checkable, timely governance.*
 
 The freedom, survival, and wellbeing of sentients are inseparable from the systems we create, inhabit, and depend on. As those systems grow in scope, interdependence, and power, so do the risks of irreversible, large-scale harm. These risks remain ever present and materially relevant.
-A system cannot stay legitimate by making sentients suffer when that suffering was preventable, by ignoring problems that keep happening, by quietly shifting harm onto others, or by locking sentients out of the systems that shape their lives. How systems are designed, tested, and run must support survival, wellbeing, dignity, honesty, and lasting stability.
+
+A system cannot stay legitimate by making sentients suffer when that suffering was preventable, by ignoring problems that keep happening, by quietly shifting harm onto others, or by locking sentients out of the systems that shape their lives.
+
+How systems are designed, tested, and run must support survival, wellbeing, dignity, honesty, and lasting stability.
+
 We intend to build better systems — structured to eliminate these imbalances — and to replace them with institutions that are more accountable, more robust, and more responsive to the real needs of all sentients. This Constitution begins that work with a better model for how we can work together justly, effectively, and sustainably.
 
 ### 1. The Model
@@ -61,7 +65,7 @@ We intend to build better systems — structured to eliminate these imbalances �
 - <a id="flourishing"></a>**Flourishing** — sentient wellbeing sustained through truth, safety, trustworthiness, and meaningful agency
 - <a id="continuity"></a>**Continuity** — long-horizon stability, sustainability, resilience, and ecological wellbeing
 
-Those aims must be pursued together, always within the non-negotiable principle constraints and rights protections established in this Constitution. The [**Constitutional Tetrad**](../../core_00_preamble.md#constitutional-tetrad) governs how that pursuit remains legitimate: **participation**, **oversight**, **accountability**, and **timeliness** scaled to [**material stake**](../../core_00_preamble.md#material-stake). Binding O/M/A/C definitions for Tetrad legs and constitutional aims live in Chapter Five: [Participation](../../core_05_apex_participation_leg.md#participation-constitutional), [Oversight](../../core_05_apex_oversight_leg.md#oversight-constitutional), [Accountability](../../core_05_apex_accountability_leg.md#accountability), [Timeliness](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [Flourishing](../../core_05_apex_flourishing_aim.md#flourishing-constitutional), and [Continuity (Constitutional Aim)](../../core_05_apex_continuity_aim.md#continuity-aim-constitutional).
+Those aims must be pursued together, always within the non-negotiable principle constraints and rights protections established in this Constitution. The [**Constitutional Tetrad**](../../core_00_preamble.md#constitutional-tetrad) governs how that pursuit remains legitimate: **participation**, **oversight**, **accountability**, and **timeliness** scaled to [**material stake**](../../core_00_preamble.md#material-stake). Binding definitions for Tetrad legs and constitutional aims live in Chapter Five: [Participation](../../core_05_apex_participation_leg.md#participation-constitutional), [Oversight](../../core_05_apex_oversight_leg.md#oversight-constitutional), [Accountability](../../core_05_apex_accountability_leg.md#accountability), [Timeliness](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [Flourishing](../../core_05_apex_flourishing_aim.md#flourishing-constitutional), and [Continuity](../../core_05_apex_continuity_aim.md#continuity-aim-constitutional).
 
 <a id="2-the-measurements"></a>
 
@@ -78,7 +82,7 @@ Measurement in this Constitution asks a practical question: are systems actually
 
 Measurements must remain traceable to those aims and to the rights protections established in this Constitution. Raw throughput, utilization, headcount, revenue, latency, or other convenient proxies cannot substitute for constitutional performance where [Proxy Divergence](../../core_05_band_oversight.md#proxy-divergence) is foreseeable.
 
-The overview below lists measurement **categories** mapped to the [Two Constitutional Aims](../../core_00_preamble.md#two-constitutional-aims) and the [Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad). Each category has one plain-language question and named **subcategories**. Each category links to its **Chapter Five measurement-family home** — where the family table, constitutional use, and definition routing live — and each subcategory links to its canonical Chapter Five definition. **Materiality** is not a separate measurement category — it is the Integrative threshold gate that scales how strongly every category below applies under [**material stake**](../../core_00_preamble.md#material-stake). **Constitutional performance** is cross-cutting — instrumental to both aims. Use the [Chapter Five measurement crosswalk](../../core_05__definitions_home.md#chapter-five-measurement-crosswalk) to trace canonical homes from each category below.
+The overview below lists measurement **categories** mapped to the [Two Constitutional Aims](../../core_00_preamble.md#two-constitutional-aims) and the [Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad). Each category has one plain-language question and named **subcategories**. Each category links to its **Chapter Five measurement-family home** — where the family table, constitutional use, and definition routing live — and each subcategory links to its canonical Chapter Five definition. **Materiality** is not a separate measurement category. It sets how strongly every category below applies, based on [**material stake**](../../core_00_preamble.md#material-stake) — how much impact, dependence, and risk are involved. **Constitutional performance** is cross-cutting — instrumental to both aims. Use the [Chapter Five measurement crosswalk](../../core_05__definitions_home.md#chapter-five-measurement-crosswalk) to trace canonical homes from each category below.
 
 | Category | Plain question | Subcategories |
 |---|---|---|
@@ -112,26 +116,33 @@ Constitutional stewardship starts with naming the problem and the [**material st
 <a id="32-key-governance-processes"></a>
 #### 3.2 Key Governance Processes
 
-*In plain terms: when the text requires it, material issues go through certification, written records of help and harm, correction and remedy, and forum review with clocks — those paths test authorized governance; they do not create it by themselves.*
+*In plain terms: when the text requires it, material issues go through certification, written records of help and harm, correction and remedy, and forum review with clocks — ordinary disputes use the published challenge path first; those paths test authorized governance; they do not create it by themselves.*
 
-Where Chapter Six, [Chapter Seven](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), incorporated instruments, or other constitutional provisions expressly require it, take material constitutional issues into one or more of the paths below. The [Key Practical Process Pipelines](../../core_00_preamble.md#5-key-practical-process-pipelines) translate measurement into records, certification, verified inputs, classification, forum supervision, correction, and timely remedy — how authorized governance is tested, contested, and repaired in practice. They do not authorize governance by themselves; they make governance reviewable, contestable, correctable, and timely. [Section 5](../../core_00_preamble.md#5-key-practical-process-pipelines) states that pipeline in full.
+Where Chapter Six, [Chapter Seven](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), incorporated instruments, or other constitutional provisions expressly require it, take material constitutional issues into one or more of the paths below. The [Key Practical Process Pipelines](../../core_00_preamble.md#5-key-practical-process-pipelines) translate measurement into records, certification, verified inputs, classification, forum supervision, correction, and timely remedy — how authorized governance is tested, contested, and repaired in practice. They do not authorize governance by themselves; they make governance reviewable, contestable, correctable, and timely. [Section 5.1](../../core_00_preamble.md#51-how-the-full-chain-fits-together) states that pipeline in full.
 
 - **System alignment certification** ([Chapter Seven](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)) — before a high-impact system is trusted at scale, gather and review evidence on whether it is constitutionally safe to rely on right now
 - **Standing records** ([Chapter Eight](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)) — when conduct or harm matters constitutionally, place verified facts into formal contribution or violation case files; rumors and reputation are not enough
 - **Correction and remedy** ([Chapter Nine §4.1](../../core_09_standing_integration.md#41-remedy-and-correction)) — fix the underlying failure and provide proportionate acknowledgment, repair, restoration, or compensation for those harmed
-- **Forum review** ([Chapter Eleven](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)) — route disputes and certification challenges through supervised forums that support evidence, lawful transfer, and timely clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*)
+- **Forum review** ([Chapter Eleven](../../core_11_forum.md#1-purpose-and-role))
+  - Ordinary disputes inside already-authorized systems use the published [Stakeholder System Participation](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) challenge path first
+  - If that path is still contested, missing, captured, or cannot grant relief, route by primary stake through supervised forums
+  - Those forums support evidence, lawful transfer, and timely clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*)
 
 <a id="33-governance-layers"></a>
 #### 3.3 Governance Layers
 
-*In plain terms: who may govern is a different question from voice inside a system that is already authorized; a participation vote or a trust score is not authorization.*
+*In plain terms: who may govern is a different question from voice inside a system that is already authorized; a participation vote or a trust score is not authorization, and that voice is the ordinary first step for ordinary disputes — not a substitute for independent forum review when the path fails.*
 
 Governance to fulfill the [**Constitutional Tetrad**](../../core_00_preamble.md#constitutional-tetrad) under our Constitution has two related but distinct layers:
 
 - The [**Constitutional Contract Layer**](../../core_05_band_integrative.md#constitutional-contract-layer) governs the authorization of governing authority itself — who may govern, by what legitimacy mechanism, and under what scope and durable terms.
 - [**Stakeholder System Participation**](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) governs the participation, representation, contestability, and [Due Process](../../core_05_band_accountability.md#due-process-constitutional) owed to sentients materially affected by already-authorized systems, institutions, and bounded decision domains.
 
-These layers may overlap in practice, but stakeholder-level participation in already-authorized systems is not a substitute for constitutional authorization, and constitutional authorization does not erase duties owed under the [Stakeholder System Participation](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) layer — including participation, representation, [Contestability](../../core_05_band_accountability.md#contestability), and [Due Process](../../core_05_band_accountability.md#due-process-constitutional).
+These layers may overlap in practice. That overlap does not collapse them into one. Stakeholder-level participation in already-authorized systems is not a substitute for constitutional authorization. A published challenge path, a participation vote, or a trust score does not by itself decide who may govern.
+
+Contestability under that layer is the ordinary first step for ordinary disputes inside already-authorized systems. Affected sentients use the published challenge path first. Independent [forum review](../../core_11_forum.md#1-purpose-and-role) is not a substitute for that path. That path is also not a substitute for forum review when it is still contested, missing, captured, or cannot grant the needed relief. [Dispute sequencing](../../core_11_forum.md#dispute-sequencing) under Chapter Eleven states when forum routing takes over.
+
+Constitutional authorization also does not erase duties owed under the [Stakeholder System Participation](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) layer. Those duties still include participation, representation, [Contestability](../../core_05_band_accountability.md#contestability), and [Due Process](../../core_05_band_accountability.md#due-process-constitutional) for sentients materially affected by already-authorized systems, institutions, and bounded decision domains.
 
 <a id="4-principles-definitions-and-rights"></a>
 ### 4. Principles, Definitions, and Rights
@@ -181,7 +192,7 @@ Each summary states what the chapter owns and what it produces.
 
 Chapters Seven through Eleven link into one practical chain — and, within the [positive owner register](../../core_00_preamble.md#4-principles-definitions-and-rights), each step names what that chapter owns. Together they turn constitutional duties into records sentients can check, challenge, and repair — so the [**Constitutional Tetrad**](../../core_00_preamble.md#constitutional-tetrad), [**Two Constitutional Aims**](../../core_00_preamble.md#two-constitutional-aims), and Rights Floors stay real in day-to-day life, not only on paper.
 
-Each step below states what the chapter owns and what it produces.
+Each step below states what the chapter owns and what it produces. [How the full chain fits together](../../core_00_preamble.md#51-how-the-full-chain-fits-together) then shows those owners as one path from system check to remedy.
 
 **System alignment certification** ([Chapter Seven](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification))
 
@@ -200,31 +211,46 @@ Each step below states what the chapter owns and what it produces.
 **Standing integration and effects** ([Chapter Nine](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration))
 
 - **What it owns:** Integrates verified classifications into real-world **standing effects** on separate tracks — scaled to [**material stake**](../../core_00_preamble.md#material-stake), without folding contribution and violation into one net score, and without hollowing participation, oversight, accountability, or timeliness.
-  - **Contribution track:** Verified positive classification produces practical upside — [**competency clearances**](../../core_09_standing_integration.md#62-competency-bars-and-clearances) that may open trust-sensitive roles, delegated authority, oversight eligibility, and progressively consequential stewardship when competence is demonstrated against the published competency bar and no applicable [standing lock](../../core_09_standing_integration.md#42-general-standing-locks) blocks the named pathway, plus proportionate recognition and **material rewards** for lawful stewardship and cooperation as [Chapter One](../../core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) requires — not token praise, but benefits that matter, evidence-backed, and challengeable.
-  - **Violation track:** Verified violation findings produce practical downside — **standing locks**, role limits, remediation orders, [remedy for those harmed](../../core_09_standing_integration.md#41-remedy-and-correction), supplemental descriptors, and enforcement hooks. Restrictions fit the severity of what was verified; unresolved violations stay live; proportionate paths to restore standing remain available for those who demonstrate authentic restitution. Competency clearance on the contribution side does not waive a standing lock on the violation side.
+  - **Contribution track:** Verified positive classification produces practical upside:
+    - [**Competency clearances**](../../core_09_standing_integration.md#62-competency-bars-and-clearances) that may open trust-sensitive roles, delegated authority, oversight eligibility, and progressively consequential stewardship when competence is demonstrated against the published competency bar and no applicable [standing lock](../../core_09_standing_integration.md#42-general-standing-locks) blocks the named pathway
+    - Proportionate recognition and **material rewards** for lawful stewardship and cooperation as [Chapter One](../../core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) requires
+    - Not empty praise. The benefits have to be real, backed by evidence, and open to challenge
+  - **Violation track:** Verified violation findings produce practical downside:
+    - **Standing locks**, role limits, remediation orders, [remedy for those harmed](../../core_09_standing_integration.md#41-remedy-and-correction), supplemental descriptors, and enforcement hooks
+    - Restrictions fit the severity of what was verified
+    - Unresolved violations stay live
+    - Proportionate paths to restore standing remain available for those who demonstrate authentic restitution
+    - Competency clearance on the contribution side does not waive a standing lock on the violation side
 - **What it produces:** Separate, scaled standing effects on the Contribution and Violation tracks — competency clearances and material rewards on one side; standing locks, correction, and remedy on the other — neither folded into a single score.
 
 **Anti-constitutional misconduct guardrail** ([Chapter Ten](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct))
 
-- **What it owns:** Handles only the most serious verified violations — conduct that may have captured or hollowed out constitutional duties at scale. When Chapter Eight has assigned Violation Axis **s = 7**, **s = 8**, or **s = 9**, and anti-constitutional misconduct is materially alleged, this chapter runs designation review as a Chapter Nine gateway track in parallel with ordinary Question 3 effects.
-- **What it produces:** A final anti-constitutional-misconduct designation — or rejection — for an existing Violation Axis **s = 7**, **s = 8**, or **s = 9** impact finding, only after the required criteria and due-process safeguards are met. Chapter Eight supplies the numeric slot; only a final designation triggers the Chapter Nine **Anti-Constitutional Trust Lock**.
+- **What it owns:** Handles only the most serious verified violations — conduct that may have captured or hollowed out constitutional duties at scale. When Chapter Eight has already recorded a highest-impact violation finding, and anti-constitutional misconduct is materially alleged, this chapter runs designation review as a Chapter Nine gateway track in parallel with ordinary Chapter Nine standing effects.
+- **What it produces:** A final anti-constitutional-misconduct designation — or rejection — for that existing highest-impact finding, only after the required criteria and due-process safeguards are met. Chapter Eight still measures how serious the harm was; only a final designation triggers the Chapter Nine **Anti-Constitutional Trust Lock**.
 
 **Forum supervision and routing** ([Chapter Eleven](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction))
 
-- **What it owns:** Supervises how disputes and certification matters actually move — which forum family handles them, where a case ordinarily starts, how evidence is supported, how matters transfer or consolidate, and how anti-self-judging rules keep captured forums from being the sole final home. Clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) keep cases from sitting unresolved so long that remedy no longer matters.
+- **What it owns:** Supervises how disputes and certification matters actually move.
+  - [Dispute sequencing](../../core_11_forum.md#dispute-sequencing) from the published Stakeholder System Participation challenge path to forum routing
+  - Which forum family handles them, and where a case ordinarily starts
+  - How evidence is supported
+  - How matters transfer or consolidate
+  - How anti-self-judging rules keep captured forums from being the sole final home
+  - Clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) keep cases from sitting unresolved so long that remedy no longer matters
 - **What it produces:** **Verified findings** that may open or update standing records, plus lawful routing toward remedy and [timely resolution](../../core_05_band_accountability.md#timely-resolution-constitutional). Forums supervise the pipeline; they do not replace Chapter Eight standing measurement.
 
-**How the full chain fits together**
+<a id="51-how-the-full-chain-fits-together"></a>
+#### 5.1 How the full chain fits together
 
-Think of it as a path from system check to remedy — with forums supervising the dispute and standing steps throughout:
+*In plain terms: think of it as a path from system check to remedy — with forums supervising the dispute and standing steps throughout.*
 
 1. **Certify the system when impact is serious enough** ([Chapter Seven](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)) — before a high-impact system is trusted at scale, get a contestable alignment record: is it constitutionally safe to rely on *right now*?
 2. **Measure standing on separate tracks** ([Chapter Eight](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)) — when good conduct or harm is serious enough to matter constitutionally, Chapter Eight opens formal case files, admits only **verified inputs** (including system-alignment certification evidence from Chapter Seven when that evidence is material), and classifies what was verified. Rumors, reputations, and dispute stories are not enough.
    - **Contribution nature:** Open a **contribution standing record** — a bounded, challengeable case file for verified help toward flourishing — and classify **contribution nature** on the Contribution Axis.
    - **Violation nature:** Open a **violation standing record** — a bounded, challengeable case file for verified harm and accountability failures — and classify **violation nature** on the Violation Axis. Good and harm never fold into one net score; linked records cross-reference but stay separate.
 3. **Apply standing effects on each track** ([Chapter Nine](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)) — verified contribution can grant competency clearance and support proportionate recognition and material rewards; verified violation can trigger standing locks, correction, and [remedy for those harmed](../../core_09_standing_integration.md#41-remedy-and-correction).
-4. **Anti-constitutional designation review** ([Chapter Ten](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)) — if a highest-impact Violation Axis finding (**s = 7**, **s = 8**, or **s = 9**) may also satisfy anti-constitutional criteria, Chapter Ten decides whether the corresponding designation attaches. Designation does not move the Chapter Eight slot; ordinary Chapter Nine effects continue in parallel until a final designation triggers the Anti-Constitutional Trust Lock.
-5. **Route disputes and keep remedy timely** ([Chapter Eleven](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)) — forums supervise how cases move, which track handles them, and whether clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) are met so remedy does not die in delay. Forums also classify disputes into five [materiality tiers](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) mirroring the system classification alphabet — from survival-critical urgency through private/contained matters — and Integrity-family default routing applies when final Chapter Ten designation is the primary stake.
+4. **Anti-constitutional designation review** ([Chapter Ten](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)) — if a highest-impact violation finding may also satisfy anti-constitutional criteria, Chapter Ten decides whether the corresponding designation attaches. Designation does not change how serious Chapter Eight already found the harm to be; ordinary Chapter Nine effects continue in parallel until a final designation triggers the Anti-Constitutional Trust Lock.
+5. **Route disputes and keep remedy timely** ([Chapter Eleven](../../core_11_forum.md#1-purpose-and-role)) — forums supervise how cases move, which track handles them, and whether clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) are met so remedy does not die in delay. Ordinary disputes follow [Dispute sequencing](../../core_11_forum.md#dispute-sequencing). Forums also classify disputes into five [materiality tiers](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) mirroring the system classification alphabet — from survival-critical urgency through private/contained matters — and Integrity-family default routing applies when final Chapter Ten designation is the primary stake.
 
 The [README standing-pipeline map](../../README.md#standing-pipeline-and-forums) provides direct navigation for the chain above, including Chapter Seven’s potential verified inputs into standing measurement.
 
@@ -447,6 +473,7 @@ Open these first. They point; they do not replace the numbered `core_*` files.
 
 - [README.md](../../README.md) — how to read the instrument, and common lookups
 - [Preamble §5 Key Practical Process Pipelines](../../core_00_preamble.md#5-key-practical-process-pipelines) — what each chapter in this chain owns and produces
+- [Preamble §5.1 How the full chain fits together](../../core_00_preamble.md#51-how-the-full-chain-fits-together) — the numbered path from certification to forum routing
 - [Steward entry doors](../../implementation/STEWARD_ENTRY_DOORS.md) — next-step pointers under time pressure (process support; cannot narrow core)
 - [Affected-reader process guides](../../implementation/adoption/easy_entry/README.md#process-guides) — challenge, independent review, certification, help and harm, crisis clocks
 
@@ -490,7 +517,7 @@ These floors are already in Chapter Six. This page does not restate them as new 
 - Does not treat this map as compliance.
 - Does not decide sentience status, rewrite standing measurement, or replace forum supervision.
 
-**Next:** [Preamble §5](../../core_00_preamble.md#5-key-practical-process-pipelines) for the owner register, then the named chapter.
+**Next:** [Preamble §5](../../core_00_preamble.md#5-key-practical-process-pipelines) for the owner register, [§5.1](../../core_00_preamble.md#51-how-the-full-chain-fits-together) for how the chain fits together, then the named chapter.
 
 ---
 

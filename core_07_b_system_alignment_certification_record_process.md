@@ -76,7 +76,7 @@ The record must identify, at minimum:
 - **Forum supervision:** the forum family or authority issuing, adopting, referring, certifying, staying, or reviewing each component, stated in the order required by [§14](#14-supervisory-sequence-and-contestability-chain);
 - **Certification outcome and reliance limits:**
   - the certification outcome, including recognition, conditional recognition, deferred recognition, non-recognition, withdrawal, expiration, revalidation, or release from conditions; and
-  - revalidation cadence, reopening triggers, reliance limits, and the contestability chain required by [§12](#12-transparency-auditability-and-contestability) and [§14](#14-supervisory-sequence-and-contestability-chain).
+  - revalidation cadence, reopening triggers, reliance limits, and the contestability chain and named [contestability paths](#142-contestability-paths) required by [§12](#12-transparency-auditability-and-contestability) and [§14](#14-supervisory-sequence-and-contestability-chain).
 
 <a id="112-cross-section-record-requirements"></a>
 
@@ -179,7 +179,7 @@ This section applies [Transparency](core_05_band_oversight.md#transparency), [Au
 
 **Contestability** — affected parties must have real ways to challenge the record:
 
-- A certification record must state practicable challenge paths sufficient for affected parties to contest:
+- A certification record must state the [contestability paths](#142-contestability-paths) defined in [§14.2](#142-contestability-chain), sufficient for affected parties to contest:
   - Record content, scope, classification assumptions, evidence reliance, supervisory integrity, outcome, or continued reliance;
 - Contest mechanisms must be functional and accessible, not ceremonial;
 - A challenge must be able to:
@@ -261,7 +261,7 @@ This section assigns forum-family **component roles** within **system alignment 
 
 - Upstream: [§11](#11-certification-record) (*record contents*); [§12](#12-transparency-auditability-and-contestability) (*record integrity requirements*); [§13](#13-forum-supervision-and-component-roles) (*component role assignments*); Timeliness measurement family (*Timely Resolution and anti-delay discipline*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness**; [Chapter Eleven §4](core_11_forum.md#4-forum-family-definitions) (*Integrity-led alignment recognition, component referral, and validation*); [Chapter Eleven §3](core_11_forum.md#3-transfer-consolidation-and-coordination) (*Integrity-led alignment coordination and anti-self-judging*).
 - Downstream: [§15](#15-relationship-to-standing) (*verified-input gate*); [§16](#16-reopening-drift-and-non-evasion) (*reopening triggers*); [Chapter Eleven §5](core_11_forum.md#5-escalation-and-certification) (*family-to-family escalation and constitutional certification*).
-- Read with: [corpus_forum.md](corpus_forum.md), **CF-5** and **CF-7**; [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*).
+- Read with: [Dispute sequencing](core_11_forum.md#dispute-sequencing) under Chapter Eleven §1; [Preamble §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](corpus_forum.md), **CF-5** and **CF-7**; [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*).
 
 </details>
 
@@ -307,15 +307,27 @@ The certification record must state the supervisory sequence — who oversees wh
 
 #### 14.2 Contestability chain
 
-The **contestability chain** is the lawful mirror of the supervisory sequence. It must allow affected parties to challenge a certification record at the level where the dispute actually lives. Chapter Eleven transfer, certification, backup routing, and family-to-family escalation remain available when required — they are an escape hatch, not the ordinary first step:
+The **contestability chain** is the lawful mirror of the supervisory sequence. It must allow affected parties to challenge a certification record at the level where the dispute actually lives. [Dispute sequencing](core_11_forum.md#dispute-sequencing) under Chapter Eleven §1 governs the ordinary first step and when forum routing takes over. Chapter Eleven transfer, certification, backup routing, and family-to-family escalation remain available when required — they are an escape hatch, not the ordinary first step.
 
-1. **Record challenge.** Affected parties may challenge certification-record content, scope, classification assumptions, evidence reliance, outcome, reliance limits, or supervisory integrity under [§12](#12-transparency-auditability-and-contestability).
-2. **Component challenge.** A challenge confined to a component finding routes to the forum family with merits authority over that component. The lead forum may [stay](core_05_band_accountability.md#stay) reliance on the challenged component pending timely review.
-3. **Lead-coordination challenge.** A challenge about how the lead forum ran the process routes under [Chapter Eleven](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) integrity and anti-self-judging rules. That includes capture, hidden information, self-review, abusive step-ordering, calling certification finished too soon, or other lead-forum integrity problems. When the challenge targets that lead forum's own bias, capture, conflict, or process abuse, backup routing under those rules applies so review is not confined to the same lead forum.
-4. **Escalation and certification.** Where primary stakes, constitutional validity, structural remedy, family deadlock, or anti-self-judging protection requires it, challenge routing continues through Chapter Eleven transfer, certification, backup routing, and family-to-family escalation.
+<a id="142-contestability-paths"></a>
+**Contestability paths.** A System Certification Record must name these challenge paths. They implement Dispute sequencing for certification records. They are not a forum family and do not replace Chapter Eleven routing.
+
+- **Published record challenge path** — the ordinary first step for an ordinary dispute about the certification record. The record names the [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) contest seat: who receives the challenge, how to file it, and that clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) run from receipt. Internal operator review, vendor attestation, or technical sign-off is not this path.
+- **Component forum path** — the Chapter Eleven forum family with merits authority over a challenged component finding.
+- **Lead-integrity path** — Integrity routing and anti-self-judging backup when the challenge is how the lead forum ran the process, including capture, hidden information, self-review, or calling certification finished too soon.
+- **Escalation path** — Chapter Eleven transfer, certification, backup routing, and family-to-family escalation when primary stakes, constitutional validity, structural remedy, family deadlock, or anti-self-judging protection requires it.
+
+Direct access to a forum path remains available when delay would materially endanger rights, evidence, independence, or practical restoration. Unfinished use of the published record challenge path must not stall those forum paths or eat **Article XXIV-C** clocks.
+
+The contestability chain uses those paths in this order:
+
+1. **Record challenge** (published record challenge path). Affected parties may challenge certification-record content, scope, classification assumptions, evidence reliance, outcome, reliance limits, or supervisory integrity under [§12](#12-transparency-auditability-and-contestability). If that path is still contested, missing, captured, or cannot grant the needed relief, Chapter Eleven routes by primary stake.
+2. **Component challenge** (component forum path). A challenge confined to a component finding routes to the forum family with merits authority over that component. The lead forum may [stay](core_05_band_accountability.md#stay) reliance on the challenged component pending timely review.
+3. **Lead-coordination challenge** (lead-integrity path). A challenge about how the lead forum ran the process routes under [Chapter Eleven](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) integrity and anti-self-judging rules. That includes capture, hidden information, self-review, abusive step-ordering, calling certification finished too soon, or other lead-forum integrity problems. When the challenge targets that lead forum's own bias, capture, conflict, or process abuse, backup routing under those rules applies so review is not confined to the same lead forum.
+4. **Escalation and certification** (escalation path). Where primary stakes, constitutional validity, structural remedy, family deadlock, or anti-self-judging protection requires it, challenge routing continues through Chapter Eleven transfer, certification, backup routing, and family-to-family escalation.
 5. **Reliance limits during contest.** A material and timely challenge may limit or pause reliance on the certification record to the extent necessary to prevent foreseeable harm, preserve evidence, or prevent irreversible dependence on a contested finding, subject to prompt review under [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
-The certification record must state the contestability chain — how affected parties can challenge at each step.
+The certification record must state the contestability chain — how affected parties can challenge at each step — and the named contestability paths.
 
 <a id="143-anti-bypass"></a>
 
@@ -323,7 +335,7 @@ The certification record must state the contestability chain — how affected pa
 
 Actors must not defeat the supervisory sequence or contestability chain by splitting one certification across hidden sub-records, routing challenges only to captured internal bodies, exhausting contest only at the lowest administrative layer, or treating component silence as final approval where a required component finding was never lawfully issued.
 
-When forum-supervised challenge is required, internal operator review, vendor attestation, or technical sign-off cannot substitute for it. Affected parties must still have a real forum path.
+When forum-supervised challenge is required, internal operator review, vendor attestation, or technical sign-off cannot substitute for it. Affected parties must still have a real forum path under [Dispute sequencing](core_11_forum.md#dispute-sequencing) and the named [contestability paths](#142-contestability-paths).
 
 <a id="15-relationship-to-standing"></a>
 

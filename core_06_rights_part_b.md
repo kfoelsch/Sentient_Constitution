@@ -1603,7 +1603,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
   - meaningful opportunity to be heard;
   - decision timing proportionate to harm risk;
   - impartial decision-making structures where adjudication applies;
-  - contest or secondary review.
+  - contest or secondary review, read with [Dispute sequencing](core_11_forum.md#dispute-sequencing) under Chapter Eleven §1.
   
   Outcomes must remain traceable to stated reasons and to evidence sufficient to support review under **Chapters Two through Four**.
 - **Institutional routing:** Role taxonomy, accountability-chain implementation, and due-process operational procedures are governed by [**CI-4**](corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) and **CI-6** (*Procedure integrity, contestability, and secondary review*), with supporting pathway-access detail in **CI-12** (*Transparency, participation, and accessible pathways*).
