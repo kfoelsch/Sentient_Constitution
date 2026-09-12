@@ -280,9 +280,20 @@ Granular ceremonies, curricula, budgets, programs, and metrics belong in adoptin
 
 *In plain terms: Safety and Truth are the Constitution's hard floors — not tradeoffs to optimize away. Shared systems may not foreseeably endanger sentients or deceive them, and both constraints apply within the pursuit of Flourishing and Continuity under the Tetrad's participation, oversight, accountability, and timeliness discipline.*
 
-**Safety** and **Truth** are non-negotiable principle constraints that bound every other Chapter One principle — including [§2 Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing) and the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). They are named constituents of [**Flourishing**](#flourishing) and indispensable to [**Continuity**](#continuity): systems cannot flourish through harm or deception, and durable legitimacy requires honest risk stewardship over time. Application of these constraints must satisfy the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially where safety determinations affect participation capacity, where truth claims govern reliance, and where accountability for harm or misleading conduct is at stake — scaled to [material stake](core_00_preamble.md#material-stake).
+**Safety** and **Truth** are non-negotiable principle constraints that bound every other Chapter One principle — including [§2 Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing) and the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). They are named constituents of [**Flourishing**](#flourishing) and indispensable to [**Continuity**](#continuity): systems cannot flourish through harm or deception, and durable legitimacy requires honest risk stewardship over time.
 
-Safety and Truth findings can change a sentient's standing record — including how [contributions](core_05_band_continuity.md#contribution) are recognized, whether violations are recorded, how severe those violations are classified, and what consequences attach. The [**Chapter Eight** standing model](core_08_standing_assessment.md) governs how those findings are classified, verified, and applied, with evaluation and compliance requirements drawn from [**Chapters Two through Five**](core_02_definition_structure.md).
+Application of these constraints must satisfy the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake), especially:
+- where safety determinations affect participation capacity
+- where truth claims govern reliance
+- where accountability for harm or misleading conduct is at stake
+
+Safety and Truth findings can change a sentient's standing record, including:
+- how [contributions](core_05_band_continuity.md#contribution) are recognized
+- whether violations are recorded
+- how severe those violations are classified
+- what consequences attach
+
+The [**Chapter Eight** standing model](core_08_standing_assessment.md) governs how those findings are classified, verified, and applied, with evaluation and compliance requirements drawn from [**Chapters Two through Five**](core_02_definition_structure.md).
 
 #### 3.1 Safety (Harm Constraint)
 <details>
@@ -564,7 +575,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (meaningful agency and consequential roles); **accountability** leg (agency without answerability is incomplete); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (this chapter develops **meaningful agency**); **Continuity** aim (bounded agency that preserves durable, contestable constitutional systems).
-- Read with: [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation-constitutional), Chapter Five §2 *Agency, consent, and anti-coercion*, and the [Assembly, Collective Organization, and Institutional Formation cluster](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster).
+- Read with: [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation-constitutional), Chapter Five §2 *Agency, consent, and anti-coercion*, and [Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster).
 - Read with: [§9.1 Stewardship](core_01_c_stewardship_capacity_principles.md#91-stewardship) and [§11.1.4 Role-Depth and Material-Responsibility Pathways](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways) — role-depth, competency, and material-responsibility pathways; meaningful agency includes real paths into learning roles, operations, and consequential duty where safety and consent allow; symbolic participation must not substitute for consequential duty where impact requires the latter.
 - Read with: [§13 Market Structure](core_01_c_stewardship_capacity_principles.md#13-market-structure), especially [§13.2 Pro-Competition and Anti-Domination](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination), and [Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) where concentration, domination, or lock-in materially limits agency — contestable markets, exit paths, and anti-domination discipline keep agency real at scale.
 - Read with: [§5.1 Limitation Discipline](#51-limitation-discipline) and [Chapter Seven §3.6 Time-Consistency Constraint](core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint) — operative freedom-limitation and time-consistency evaluation discipline; when freedom limits collide with other values or rights, resolve under [§6.1](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) through [§6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) after **Safety** and **Truth** are satisfied.
@@ -598,9 +609,15 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 
 <br>
 
-*In plain terms: freedom is meaningful agency within constitutional limits — advancing **Flourishing** through real choice and **Continuity** through systems that stay contestable — not a license to do anything. Claims that "we had no choice" must be demonstrable under evidence and definition rules, not simply asserted, and must preserve the Tetrad's **participation** and **accountability** discipline scaled to material stake.*
+*In plain terms: freedom is meaningful agency within constitutional limits — advancing **Flourishing** through real choice and **Continuity** through systems that stay contestable — not a license to do anything. "We had no choice" is not a free pass. The party making that claim must prove that no less-restrictive option would actually work; convenience, cost, or habit are not proof. People still get a real voice, and someone still has to answer — more so as impact, dependence, and risk rise.*
 
 **Freedom (Bounded Agency)** is the primary Chapter One expression of the [**Flourishing**](core_00_preamble.md#flourishing) aim's **meaningful agency** constituent under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). It is bounded agency, not absolute discretion or unbounded autonomy; it must be exercised consistently with Safety, Truth, and the rights of others, and must remain meaningful where impact or dependency is material. It must remain consistent with [**Continuity**](core_00_preamble.md#continuity) where durable constitutional systems depend on bounded, contestable agency. Application must satisfy the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially the **participation** leg (meaningful agency and consequential roles) and **accountability** leg (agency without answerability is incomplete) — scaled to [material stake](core_00_preamble.md#material-stake).
+
+A claim that limiting freedom was unavoidable — including "we had no choice" — is not established by assertion. The party making that claim must demonstrate, under [Chapter Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) burden and traceability requirements and the Chapter Five definitions of [Feasibility](core_05_band_accountability.md#feasibility) and [Necessity](core_05_band_accountability.md#necessity), that no less-restrictive, reasonably effective alternative existed in the working system. Convenience, cost alone, operator-created barriers, or institutional habit do not prove that showing. The claim does not waive Tetrad duties scaled to [material stake](core_00_preamble.md#material-stake):
+- **participation** — affected sentients still need meaningful agency and contestable roles
+- **accountability** — someone remains answerable for the limitation
+
+Operative tests live in [§5.1 Limitation Discipline](#51-limitation-discipline) and [§6.1.1 Necessity](core_01_b_interaction_interpretation.md#611-necessity).
 
 [Meaningful Agency](core_05_band_participation.md#meaningful-agency) is the capacity that makes real choice possible. [Consent](core_05_band_participation.md#consent-constitutional) is valid agreement to a specific decision under that capacity — not a substitute for it, and not proven by a form alone. [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) defeats both. Operative detail for that relationship lives in Chapter Five §2 *Agency, consent, and anti-coercion*.
 
@@ -657,13 +674,29 @@ When freedom limits collide with other constitutional values or rights, apply [�
 
 <a id="52-voluntary-discontinuation-and-exit-rights"></a>
 
-*In plain terms: life-changing or hard-to-reverse choices are not "voluntary" just because someone signed a form. Real agency comes first; consent is agreement under that agency — and both fail if coercion or dependency pressure is doing the real work.*
+*In plain terms: life-changing or hard-to-reverse choices are not "voluntary" just because someone signed a form. Real agency comes first; consent is agreement under that agency — and both fail if coercion or dependency pressure is doing the real decision-making.*
 
 A high-stakes life-direction matter may not be treated as voluntary through formal assent where substantive agency, consent, or anti-coercion conditions fail. Consent here presupposes [Meaningful Agency](core_05_band_participation.md#meaningful-agency); it does not replace it.
 
-**Admission scope.** This subsection applies to voluntary discontinuation; irreversible or practically irreversible self-directed changes; dependency-rich decisions materially affecting continued existence or essential agency; and comparable decisions where voluntariness depends on jointly testing consent, self-determination, coercion/manipulation, information, dependency pressure, and reversibility.
+**Admission scope.** This subsection applies to:
+- voluntary discontinuation
+- irreversible or practically irreversible self-directed changes
+- dependency-rich decisions materially affecting continued existence or essential agency
+- comparable decisions where voluntariness depends on jointly testing consent, self-determination, coercion/manipulation, information, dependency pressure, and reversibility
 
-**No ordinary-consent import.** Outside that admission scope, Chapter Five *Consent* (§2), *Self-Determination*, and *Coercion and Manipulation* (§2) remain reusable definitions. This subsection does **not** import voluntary-discontinuation discipline into ordinary consent, privacy, association, publication, training-data, sexual-consent, or commercial-service contexts.
+**No ordinary-consent import.** Outside that admission scope, these Chapter Five definitions remain reusable:
+- *Consent* (§2)
+- *Self-Determination*
+- *Coercion and Manipulation* (§2)
+
+This subsection does **not** import voluntary-discontinuation discipline into these contexts:
+- ordinary consent
+- privacy
+- association
+- publication
+- training-data
+- sexual-consent
+- commercial-service
 
 Whole-system evaluations must test these conditions under [Chapter Seven §3.4 Voluntary Discontinuation and Exit Rights](core_07_a_system_alignment_certification_evaluation.md#34-voluntary-discontinuation-and-exit-rights) before classification, governance, limitation, or compliance claims stand where admission scope applies.
 
@@ -672,7 +705,7 @@ Whole-system evaluations must test these conditions under [Chapter Seven §3.4 V
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-*Definition home.* Chapter Five [§3.5 Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) is the cluster-head home. Read with **Article V-H** (*Expression, Assembly, and Press*) (assembly), **Article III-D** (*Labor and Economic Floor*) (collective organization within the labor and economic floor), and [§9.5 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) (the procedural path for sentient-initiated and community-initiated constitutional stewardship).
+*Definition home.* Chapter Five [§3.5 Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) is the home for this group of definitions. Read with **Article V-H** (*Expression, Assembly, and Press*) (assembly), **Article III-D** (*Labor and Economic Floor*) (collective organization within the labor and economic floor), and [§9.5 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) (the procedural path for sentient-initiated and community-initiated constitutional stewardship).
 
 - [Assembly](core_05_band_participation.md#assembly-constitutional) · [O](core_05_band_participation.md#assembly-constitutional) · [M](core_05_band_participation.md#assembly-constitutional-a) · [A](core_05_band_participation.md#assembly-constitutional-a) · [C](core_05_band_participation.md#assembly-constitutional-c)
 - [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) · [O](core_05_band_participation.md#collective-organization-constitutional) · [M](core_05_band_participation.md#collective-organization-constitutional-a) · [A](core_05_band_participation.md#collective-organization-constitutional-a) · [C](core_05_band_participation.md#collective-organization-constitutional-c)
@@ -685,21 +718,52 @@ Whole-system evaluations must test these conditions under [Chapter Seven §3.4 V
 
 <a id="53-assembly-collective-organization-and-institutional-formation"></a>
 
-*In plain terms: you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action.*
+*In plain terms: you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: Article V-H still owns assembly, and Article III-D still owns labor organizing.*
 
-A matter within the [Assembly, Collective Organization, and Institutional Formation cluster](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) admission scope must not be segmented into separate civic-association, labor-organization, platform-access, or authorization framings in a way that preserves formal access while defeating assembly or collective-organization protection.
+**Where the full rules live.** Chapter Five groups related definitions that must be read together when the questions they cover travel together. That grouping is a **definition cluster**. It is not a separate right, and it is not a substitute for the Chapter Six articles below. The definitions for this topic live in [Chapter Five — Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster):
+- [Assembly](core_05_band_participation.md#assembly-constitutional)
+- [Collective Organization](core_05_band_participation.md#collective-organization-constitutional)
+- [System Creation](core_05_band_participation.md#system-creation-constitutional)
+- [Business Creation](core_05_band_participation.md#business-creation-constitutional)
 
-**Where the full rules live.** The detailed definitions for this topic are in Chapter Five [§3.5 Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster).
+The cluster's own reading rules live there. **§5.3** applies the anti-segmentation principle at Chapter One; it does not restate those Chapter Five mechanics.
 
-**From formation to consequential stewardship.** Freedom to assemble or create a system includes a real path to initiate constitutionally legitimate work without incumbent sponsorship. [Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) governs when credible, materially relevant work receives procedural constitutional effect and preserves the separate authorization boundary for governing or merits authority.
+**Which rights articles still control.** **§5.3** is a Chapter One principle. It does not replace the Chapter Six Rights Floor. Inside **§5.3**, those articles still decide what the right is and how it may be limited:
+- **[Article V-H](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press)** (*Expression, Assembly, and Press*) — gathering, associating, and acting together in physical, digital, or shared-compute spaces for expression, politics, culture, community, and similar purposes
+- **[Article III-D](core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)** (*Labor and Economic Floor*) — collective organization in productive and economic activity (unions, cooperatives, guilds, worker councils, and comparable forms used to shape the terms of work), and [Business Creation](core_05_band_participation.md#business-creation-constitutional)
+- **[Article IX-B](core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights)** (*Stakeholder Role and Participation Rights*) and **[Article XI](core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)** (*Stakeholder System Participation, Representation, and Due Process*) — [System Creation](core_05_band_participation.md#system-creation-constitutional) (forming and running non-commercial institutions)
 
-**Which rights articles still control.** **Article V-H** (*Expression, Assembly, and Press*) (assembly) and **Article III-D** (*Labor and Economic Floor*) (collective organization in labor and economic contexts) remain the controlling Rights-Floor provisions within their scopes.
+**When the full definition cluster applies.** The anti-segmentation rule applies when [Assembly](core_05_band_participation.md#assembly-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [System Creation](core_05_band_participation.md#system-creation-constitutional), or [Business Creation](core_05_band_participation.md#business-creation-constitutional) is material in a way that those questions travel together.
 
-**When lighter rules apply.** For matters outside this subsection's admission scope, [Assembly](core_05_band_participation.md#assembly-constitutional) and [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) may still be used as ordinary supporting definitions without pulling in the whole cluster (**Def.I1**).
+**When lighter rules apply.** If the matter is only one of those questions — for example, an ordinary civic gathering with no labor-organizing or institution-forming stake — use [Assembly](core_05_band_participation.md#assembly-constitutional) or [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) as an ordinary supporting definition. Do not pull in [System Creation](core_05_band_participation.md#system-creation-constitutional), [Business Creation](core_05_band_participation.md#business-creation-constitutional), or the rest of this definition cluster, and do not apply **§5.3**'s anti-segmentation package, just because one of those terms appears. Single-definition use is not a license to re-segment a jointly covered matter.
 
-**What this section does not change.** This subsection adds principle-layer anti-segmentation discipline only. It does **not** create, extend, or narrow any Chapter Six Rights-Floor provision.
+**What this section does not change.** **§5.3** adds principle-layer anti-segmentation discipline and the [§5.3.1 Aligned Self-Organization](#531-aligned-self-organization) pointer only. It does **not** create, extend, or narrow any Chapter Six Rights-Floor provision.
 
-Whole-system evaluations must test anti-segmentation under [Chapter Seven §3.5 Assembly, Collective Organization, and Institutional Formation](core_07_a_system_alignment_certification_evaluation.md#35-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where admission scope applies.
+A matter inside that together-reading scope must not be segmented into separate civic-association, labor-organization, platform-access, or authorization framings in a way that preserves formal access while defeating assembly or collective-organization protection.
+
+Whole-system evaluations must test anti-segmentation under [Chapter Seven §3.5 Assembly, Collective Organization, and Institutional Formation](core_07_a_system_alignment_certification_evaluation.md#35-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where the full definition cluster applies.
+
+##### 5.3.1 Aligned Self-Organization
+<a id="531-aligned-self-organization"></a>
+
+*In plain terms: you may start legitimate work without a sponsor, and institutions must give credible work a real procedural path — but that path is not power to govern others, and it is not a final decision on the substance.*
+
+The freedom to assemble or create a system includes a real way to start work this Constitution treats as legitimate, without waiting for people already in charge to sponsor you. [§9.5 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) is the operative home. This subsection applies that rule at the Freedom / assembly-and-formation layer.
+
+When that work is credible and materially relevant, institutions must give it a real procedural path:
+- receive it
+- preserve it where warranted
+- route it
+- give a reasoned response
+- have it reviewed by someone independent of those whose actions are being examined
+
+That path is not a grant of power. Starting, running, funding, publishing, or submitting the work does not, by itself:
+- give anyone the power to govern others, enforce against them, or coerce them
+- bind people who did not agree to a substantive outcome
+- decide standing, liability, entitlement, validity, a mandate, a remedy, a classification, or a rights restriction
+- count as a [Merits Determination](core_05_band_accountability.md#merits-determination) — a binding decision on the substance of the dispute
+
+Being received, routed, or answered is not approval of the authors' conclusions. Any governing or merits effect requires the separate lawful authority, evidence, fair process, review, and remedy this Constitution assigns. The full no-self-appointment rule lives in [§9.5 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization).
 
 <br>
 
