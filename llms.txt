@@ -1,0 +1,20 @@
+# Sentient Constitution
+
+Edition: SC-Corpus-2026.08.09 (effective 2026-08-09). Pre-release. Opening this repository is not adoption.
+
+Start: START_HERE.md
+
+Indexes point. Source binds. Do not treat locator gloss as a duty.
+
+python3 tools/corpus_lookup.py edition
+python3 tools/corpus_lookup.py resolve QUERY
+python3 tools/corpus_lookup.py hydrate QUERY
+python3 tools/corpus_lookup.py topic-route QUERY
+python3 tools/corpus_lookup.py door CASE_ID
+python3 tools/corpus_lookup.py route "QUESTION OR FACT PATTERN"
+python3 tools/corpus_lookup.py apply-pack "QUESTION OR FACT PATTERN"
+python3 tools/corpus_lookup.py cite --file FILE --anchor "#fragment"
+python3 tools/corpus_lookup.py classes
+python3 tools/corpus_lookup.py retrieve "QUESTION OR KEYWORDS"
+
+retrieve is token overlap, then hydrate. Vector embeddings postponed indefinitely: doc_architecture.md#retrieval-no-vector-embeddings

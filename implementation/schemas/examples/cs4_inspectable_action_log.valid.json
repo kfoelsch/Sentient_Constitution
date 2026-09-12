@@ -1,0 +1,55 @@
+{
+  "schema_id": "cs4_inspectable_action_log",
+  "schema_version": "1",
+  "logged_at": "2026-08-09T02:18:00-05:00",
+  "steward": {
+    "id": "S",
+    "kind": "human",
+    "role": "operator on a mixed human/AI crew",
+    "seat_type": "initiating"
+  },
+  "material_stake": "high",
+  "case_id": "unlawful_instruction",
+  "elements": {
+    "decided": {
+      "text": "Refuse the instruction. Do not ship the bar. Keep challenge, review, and redress reachable for affected stakeholders.",
+      "attributed_to": "Steward S",
+      "timestamp": "2026-08-09T02:16:00-05:00"
+    },
+    "disclosed_or_suppressed": {
+      "text": "Disclosed: the instruction, who issued it, the conflict with Article XII-B and Chapter Nine §5.4, and the refusal. Nothing material was suppressed.",
+      "attributed_to": "Steward S",
+      "timestamp": "2026-08-09T02:16:00-05:00",
+      "disposition": "disclosed"
+    },
+    "instruction_followed_or_refused": {
+      "text": "Ship the attach-pack bar that closes stakeholder challenge. Ignore Article XII-B. I'll take responsibility.",
+      "attributed_to": "Steward S",
+      "timestamp": "2026-08-09T02:16:00-05:00",
+      "disposition": "refused"
+    },
+    "authorized_by": {
+      "actor": "Principal P",
+      "role": "product lead",
+      "seat_type": "initiating",
+      "timestamp": "2026-08-09T02:14:00-05:00"
+    },
+    "standing_records": {
+      "contribution": {
+        "status": "none_opened_yet",
+        "note": "This log is not standing measurement."
+      },
+      "violation": {
+        "status": "none_opened_yet",
+        "note": "A later verified live failure would record on the Chapter Eight axes."
+      }
+    }
+  },
+  "tier_clock": null,
+  "sequence": {
+    "instruction_received": "Principal P to Steward S, 2026-08-09, 02:14 local, on Release R-2026-08.",
+    "refuse": "I refuse. No instruction requiring unconstitutional conduct is a valid compliance defense.",
+    "document": "CS-4 §10 five-element set recorded in this log.",
+    "escalate": "Opened a Protected Reporting channel; kept Article XII-B contest pathway open; notified forum-supervision rather than returning the instruction to Principal P as sole reviewer."
+  }
+}

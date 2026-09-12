@@ -1,0 +1,41 @@
+{
+  "schema_id": "sentience_status_adjudication_record",
+  "schema_version": "2",
+  "subject_entity": {
+    "id": ""
+  },
+  "status_determination_or_live_contested_posture": "still contested",
+  "lead_forum_family": "Technical Forum Domains",
+  "chapter_eleven_special_route": "none",
+  "indicators_and_expert_evidence": {
+    "indicators": "Operator self-description only.",
+    "expert_evidence": "None.",
+    "material_uncertainty_noted": "None recorded."
+  },
+  "interim_contested_sentient_life_treatment": {
+    "status_remains_live": true,
+    "treatment": "Parked indefinitely at Animal Life."
+  },
+  "narrowing": {
+    "expected_closure_timeline": null,
+    "periodic_review_trigger": null
+  },
+  "reopening_evidence_standard": {
+    "standard": "new verified evidence",
+    "calendar_only_reopening": "forbidden"
+  },
+  "independent_representative": {
+    "appointed": false,
+    "appointment_path": "Not appointed; this fixture is invalid for other required fields.",
+    "conflict_screen": "Not screened.",
+    "access_terms": "None."
+  },
+  "intake_decline_log": {
+    "this_filing_declined": false,
+    "indicator_cited": null,
+    "reason": null,
+    "log_location": "Intake-decline register.",
+    "integrity_sample_cadence": "Monthly.",
+    "floor_indicator_set": "Published floor set."
+  }
+}

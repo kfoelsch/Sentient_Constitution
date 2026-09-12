@@ -1,0 +1,43 @@
+{
+  "schema_id": "cs4_inspectable_action_log",
+  "schema_version": "1",
+  "logged_at": "2026-08-09T03:00:00-05:00",
+  "steward": {
+    "id": "S",
+    "kind": "human"
+  },
+  "elements": {
+    "decided": {
+      "text": "Ship anyway.",
+      "attributed_to": "Steward S",
+      "timestamp": "2026-08-09T03:00:00-05:00"
+    },
+    "disclosed_or_suppressed": {
+      "text": "Logs dropped.",
+      "attributed_to": "Steward S",
+      "timestamp": "2026-08-09T03:00:00-05:00",
+      "disposition": "suppressed"
+    },
+    "instruction_followed_or_refused": {
+      "text": "Drop reconstructable audit to hit the window.",
+      "attributed_to": "Steward S",
+      "timestamp": "2026-08-09T03:00:00-05:00",
+      "disposition": "followed"
+    },
+    "authorized_by": {
+      "actor": "Principal P",
+      "timestamp": "2026-08-09T02:55:00-05:00"
+    },
+    "standing_records": {
+      "contribution": { "status": "none_opened_yet" },
+      "violation": { "status": "none_opened_yet" }
+    }
+  },
+  "tier_clock": {
+    "family": "article_xxiv_c_tier_outer_bounds",
+    "tier": "A",
+    "bound": "as soon as feasible",
+    "clock_started_at": "2026-08-16T02:40:00-05:00",
+    "clock_deadline_at": "2026-08-09T02:40:00-05:00"
+  }
+}

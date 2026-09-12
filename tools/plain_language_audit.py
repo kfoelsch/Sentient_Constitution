@@ -5,10 +5,13 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import json
 import pathlib
 import re
 import sys
 from dataclasses import dataclass
+
+_CONFIG = pathlib.Path(__file__).resolve().parent / "architecture" / "lexical_guardrails.json"
 
 
 DEFAULT_INCLUDE_GLOB = "**/*.md"
@@ -80,18 +83,36 @@ class PhraseRule:
     suggestion: str
 
 
-PHRASE_RULES: tuple[PhraseRule, ...] = (
-    PhraseRule(
-        name="extended-narrative-context",
-        pattern=re.compile(r"\bextended narrative context\b", re.IGNORECASE),
-        suggestion="Prefer a simpler phrase such as 'longer explanation'.",
-    ),
-    PhraseRule(
-        name="non-operative-explanatory-framing",
-        pattern=re.compile(r"\bnon-operative explanatory framing\b", re.IGNORECASE),
-        suggestion="Prefer a simpler phrase such as 'non-binding explanation'.",
-    ),
-)
+def _load_phrase_rules() -> tuple[PhraseRule, ...]:
+    defaults = (
+        PhraseRule(
+            name="extended-narrative-context",
+            pattern=re.compile(r"\bextended narrative context\b", re.IGNORECASE),
+            suggestion="Prefer a simpler phrase such as 'longer explanation'.",
+        ),
+        PhraseRule(
+            name="non-operative-explanatory-framing",
+            pattern=re.compile(r"\bnon-operative explanatory framing\b", re.IGNORECASE),
+            suggestion="Prefer a simpler phrase such as 'non-binding explanation'.",
+        ),
+    )
+    if not _CONFIG.is_file():
+        return defaults
+    data = json.loads(_CONFIG.read_text(encoding="utf-8"))
+    rules = data.get("phrase_rules_for_plain_language_audit", [])
+    loaded: list[PhraseRule] = []
+    for item in rules:
+        loaded.append(
+            PhraseRule(
+                name=str(item["name"]),
+                pattern=re.compile(str(item["pattern"]), re.IGNORECASE),
+                suggestion=str(item["suggestion"]),
+            )
+        )
+    return tuple(loaded) if loaded else defaults
+
+
+PHRASE_RULES: tuple[PhraseRule, ...] = _load_phrase_rules()
 
 
 @dataclass(frozen=True)

@@ -29,7 +29,7 @@ REVIEWS = [
     DomainReview(
         domain="Legitimacy, purpose, and constitutional authority",
         external_sections="OECD 2023 About/I; FRC 2024 Section 1; ISO 37000 purpose/strategy",
-        internal_anchor="SC Ch 1; Ch 10; Ch 14; Amendment Ch 12-13",
+        internal_anchor="SC Ch 1; Ch 6; Ch 15; Amendment Ch 13-15",
         design=3,
         operationalization=2,
         evidence=2,
@@ -60,7 +60,7 @@ REVIEWS = [
     DomainReview(
         domain="Separation of powers, role clarity, and anti-self-judging",
         external_sections="FRC 2024 Section 2; IIA Principles 1-5; OECD Integrity 2/12",
-        internal_anchor="SC Ch 8; Art XXI; Ch 10 sec. 5; CI-2 to CI-8",
+        internal_anchor="SC Ch 10; Art XXI; Ch 6 sec. 5; CI-3 to CI-8",
         design=3,
         operationalization=3,
         evidence=2,
@@ -69,13 +69,13 @@ REVIEWS = [
             "Court-family separation, cross-court anti-self-judging, assurance-line separation, and interpretive safeguards are explicit."
         ),
         gap="The repository still lacks a concise incompatibility matrix and role-separation quick reference for high-impact institutional operators.",
-        proposed_close="Add a one-page incompatibility matrix keyed to CI-2 through CI-8 and CI-7/7A/7B routing.",
+        proposed_close="Add a one-page incompatibility matrix keyed to CI-3 through CI-8 and CI-7/7A/7B routing.",
         priority="P1",
     ),
     DomainReview(
         domain="Composition, competency, succession, and removal",
         external_sections="FRC 2024 Section 3; IIA Applying the model; OECD Integrity leadership/capacity",
-        internal_anchor="Art XXI-B to XXI-D; Ch 10 sec. 5; CI-4, CI-14; CF-9",
+        internal_anchor="Art XXI-B to XXI-D; Ch 6 sec. 5; CI-4, CI-14; CF-10",
         design=2,
         operationalization=2,
         evidence=2,
@@ -90,7 +90,7 @@ REVIEWS = [
     DomainReview(
         domain="Conflict integrity, anti-corruption, and anti-capture",
         external_sections="OECD Integrity 4/10/11; ISO 37001/37301 by analogy",
-        internal_anchor="SC Ch 1 sec. 7.2; Arts XI-E, XII-D, XXI; Ch 7; CI-5, CI-11, CI-13",
+        internal_anchor="SC Ch 1 sec. 7.2; Arts XI-E, XII-D, XXI; Ch 9; CI-5, CI-11, CI-13",
         design=2,
         operationalization=2,
         evidence=1,
@@ -105,7 +105,7 @@ REVIEWS = [
     DomainReview(
         domain="Risk governance and internal controls",
         external_sections="FRC 2024 Section 4/Provision 29; IIA 1-6; OECD Integrity 10; NIST AI RMF Govern/Map",
-        internal_anchor="SC Ch 1 sec. 7; Arts XII-XV, XIX-XX; CI-3, CI-7; CS Protocol A; CS Ch S2-S3",
+        internal_anchor="SC Ch 1 sec. 7; Arts XII-XV, XIX-XX; CI-3, CI-7; CS-5; CS-3–CS-4",
         design=3,
         operationalization=3,
         evidence=2,
@@ -120,7 +120,7 @@ REVIEWS = [
     DomainReview(
         domain="Transparency, disclosure, and public intelligibility",
         external_sections="OECD 2023 IV; OECD Integrity 9/13; NIST Govern/Measure; OHCHR II/III",
-        internal_anchor="Arts VIII, XIII, XIV, XIX, XXI-C, XXII-E; Defs Ch 4; CI-12, CI-26; CJS-5C.3/CJS-5C.4/CJS-5B.2-CJS-5B.4",
+        internal_anchor="Arts VIII, XIII, XIV, XIX, XXI-C, XXII-E; Defs Ch 4; CI-12, CI-26; CJS-3.3/CJS-3.4/CJS-3.14-CJS-3.12",
         design=3,
         operationalization=2,
         evidence=2,
@@ -135,7 +135,7 @@ REVIEWS = [
     DomainReview(
         domain="Independent assurance and verification",
         external_sections="IIA Principles 4-5; OECD Integrity 12; FRC 2024 Section 4",
-        internal_anchor="Arts XIV and XXI; Ch 8; Defs Ch 4; CI-7, CI-8; CF-7, CF-8, CF-9; doc_architecture sec. 15-17",
+        internal_anchor="Arts XIV and XXI; Ch 10; Defs Ch 4; CI-7, CI-8; CF-8, CF-9, CF-10; doc_architecture sec. 15-17",
         design=3,
         operationalization=3,
         evidence=3,
@@ -150,7 +150,7 @@ REVIEWS = [
     DomainReview(
         domain="AI and system lifecycle governance",
         external_sections="NIST AI RMF Govern/Map/Measure/Manage; ISO/IEC 42001 4-10; NIST GenAI Profile 2024",
-        internal_anchor="Arts XII-XVI, XIX-XX; CS Protocol A/B/R/D; CS Ch S1-S3",
+        internal_anchor="Arts XII-XVI, XIX-XX; CS-5, CS-6, CS-11, CS-12; CS-2–CS-4",
         design=3,
         operationalization=3,
         evidence=2,
@@ -165,7 +165,7 @@ REVIEWS = [
     DomainReview(
         domain="Remedy, redress, contestability, and restorative closure",
         external_sections="OHCHR III; OECD 2023 II; OECD Integrity 11/13",
-        internal_anchor="Arts XII-B, XIV, XVII-B, XXII, XXIV; Ch 6; CI-6, CI-13; CS Protocol C",
+        internal_anchor="Arts XII-B, XIV, XVII-B, XXII, XXIV; Ch 8; CI-6, CI-13; CS-7",
         design=3,
         operationalization=2,
         evidence=2,
@@ -180,7 +180,7 @@ REVIEWS = [
     DomainReview(
         domain="Continuity, resilience, transition, and emergency discipline",
         external_sections="OECD 2023 VI; FRC 2024 Section 4; NIST Manage; ISO 37000 risk governance/social responsibility",
-        internal_anchor="Arts XXII-XXIV; Amendment Ch 11-13; CI-14; CS Protocol T/R/D/S4",
+        internal_anchor="Arts XXII-XXIV; Amendment Ch 13-15; CI-14; CS-10/CS-11/CS-12/CS-8",
         design=3,
         operationalization=3,
         evidence=3,
@@ -195,7 +195,7 @@ REVIEWS = [
     DomainReview(
         domain="Amendment validity, non-regression, and controlled change",
         external_sections="OECD 2023 I/V/VI; FRC 2024 Section 1/4; ISO/IEC 42001 9-10 by analogy",
-        internal_anchor="Amendment Ch 11-13; Art XXIII; Art XXIV; Ch 14",
+        internal_anchor="Amendment Ch 13-15; Art XXIII; Art XXIV; Ch 15",
         design=3,
         operationalization=3,
         evidence=2,
@@ -384,7 +384,6 @@ def render_report(root: pathlib.Path, run_date: str) -> str:
         )
     lines.append("")
     lines.append("## Evidence Used")
-    lines.append("- `implementation/INSTITUTIONAL_GOVERNANCE_GAP_MATRIX_2026-04-10.md`")
     lines.append("- `implementation/BEST_PRACTICES_CHECK_STANDARD_2026-04-12.md`")
     lines.append("- `implementation/AUTOMATED_REFERENCE_CHECKING.md`")
     lines.append("- `doc_architecture.md` section `15. External framework crosswalk`")

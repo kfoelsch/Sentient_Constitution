@@ -13,10 +13,10 @@ from dataclasses import dataclass
 from corpus_paths import binding_corpus_scope
 
 DEFAULT_ARTICLE_SOURCES = [
-    "core_10-10_rights_part_a.md",
-    "core_10-10_rights_part_b.md",
-    "core_10-10_rights_part_c.md",
-    "core_10-10_rights_part_d.md",
+    "core_06_rights_part_a.md",
+    "core_06_rights_part_b.md",
+    "core_06_rights_part_c.md",
+    "core_06_rights_part_d.md",
 ]
 
 ARTICLE_HEADING_RE = re.compile(r"^### Article ([IVXLCDM]+):\s*(.+?)\s*$")
@@ -54,8 +54,8 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--source",
-        default="core_10-10_rights_part_a.md",
-        help="Primary file for article-heading discovery. If it has no headings, the audit merges ### Article … lines from the Chapter Ten part files.",
+        default="core_06_rights_part_a.md",
+        help="Primary file for article-heading discovery. If it has no headings, the audit merges ### Article … lines from the Chapter Six part files.",
     )
     parser.add_argument(
         "--scope",
@@ -100,10 +100,10 @@ def canonical_map(source_text: str) -> dict[str, str]:
 
 
 def canonical_map_from_paths(root: pathlib.Path, source: str) -> dict[str, str]:
-    """Merge `### Article …` headings from the primary --source file and all Chapter Ten part files.
+    """Merge `### Article …` headings from the primary --source file and all Chapter Six part files.
 
     Part A only contains top-level `### Article` rows for early articles; later Roman articles live in
-    other `core_10-10_rights_part_*.md` files. A partial map from the first file alone is incorrect.
+    other `core_06_rights_part_*.md` files. A partial map from the first file alone is incorrect.
     """
     seen: set[str] = set()
     ordered_paths: list[str] = []
@@ -127,7 +127,7 @@ def canonical_map_from_paths(root: pathlib.Path, source: str) -> dict[str, str]:
                 mapping[match.group(1)] = match.group(2)
 
     if not mapping:
-        raise SystemExit("No canonical Article headings found in source file or Chapter Ten part files.")
+        raise SystemExit("No canonical Article headings found in source file or Chapter Six part files.")
     return mapping
 
 
@@ -325,6 +325,13 @@ def main() -> int:
     root = pathlib.Path(args.root).resolve()
     scope = args.scope or binding_corpus_scope(root, include_support_docs=True)
     allowed_local_refs = set(binding_corpus_scope(root, include_support_docs=True))
+    allowed_local_refs.update(
+        {
+            "doc_architecture/generated/topic_router_reader_index.md",
+            "doc_architecture/generated/ci_primary_router_index.md",
+            "doc_architecture/generated/stable_id_index.md",
+        }
+    )
     canonical = canonical_map_from_paths(root, args.source)
 
     findings: list[Finding] = []

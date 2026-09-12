@@ -1,0 +1,469 @@
+{
+  "date": "2026-07-03",
+  "findings": [
+    {
+      "detail": [
+        "2",
+        "3.1",
+        "3.2",
+        "6.1",
+        "6.2",
+        "6.3",
+        "7",
+        "8",
+        "10",
+        "10.2"
+      ],
+      "file": "core_06-06_rights_part_a.md",
+      "issue": "Chapter 1 basis is inferred from subject matter, not directly cited.",
+      "item": "I",
+      "kind": "weak_trace",
+      "line": 116,
+      "severity": "medium"
+    },
+    {
+      "detail": [
+        "2",
+        "3.1",
+        "3.2",
+        "6.2",
+        "7",
+        "8",
+        "9",
+        "9.2"
+      ],
+      "file": "core_06-06_rights_part_a.md",
+      "issue": "Chapter 1 basis is inferred from subject matter, not directly cited.",
+      "item": "II",
+      "kind": "weak_trace",
+      "line": 271,
+      "severity": "medium"
+    },
+    {
+      "detail": [
+        "2",
+        "3.1",
+        "3.2",
+        "6.1",
+        "6.2",
+        "6.3",
+        "7",
+        "8",
+        "9",
+        "9.2"
+      ],
+      "file": "core_06-06_rights_part_a.md",
+      "issue": "Chapter 1 basis is inferred from subject matter, not directly cited.",
+      "item": "III",
+      "kind": "weak_trace",
+      "line": 474,
+      "severity": "medium"
+    },
+    {
+      "detail": [
+        "2",
+        "3.1",
+        "3.2",
+        "6.2",
+        "8",
+        "10",
+        "10.2",
+        "11",
+        "12",
+        "13"
+      ],
+      "file": "core_06-06_rights_part_a.md",
+      "issue": "Chapter 1 basis is inferred from subject matter, not directly cited.",
+      "item": "IV",
+      "kind": "weak_trace",
+      "line": 695,
+      "severity": "medium"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_b.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "V",
+      "kind": "manual_review",
+      "line": 57,
+      "severity": "low"
+    },
+    {
+      "detail": [
+        "2",
+        "3.1",
+        "3.2",
+        "5",
+        "5.1",
+        "6.2",
+        "8"
+      ],
+      "file": "core_06-06_rights_part_b.md",
+      "issue": "Chapter 1 basis is inferred from subject matter, not directly cited.",
+      "item": "VI",
+      "kind": "weak_trace",
+      "line": 445,
+      "severity": "medium"
+    },
+    {
+      "detail": [
+        "2",
+        "3.1",
+        "3.2",
+        "6.2",
+        "8",
+        "10",
+        "10.2"
+      ],
+      "file": "core_06-06_rights_part_b.md",
+      "issue": "Chapter 1 basis is inferred from subject matter, not directly cited.",
+      "item": "VII",
+      "kind": "weak_trace",
+      "line": 543,
+      "severity": "medium"
+    },
+    {
+      "detail": [
+        "3.1",
+        "3.2",
+        "5",
+        "5.1",
+        "6.1",
+        "6.2",
+        "6.3",
+        "7",
+        "8",
+        "10",
+        "10.2"
+      ],
+      "file": "core_06-06_rights_part_b.md",
+      "issue": "Chapter 1 basis is inferred from subject matter, not directly cited.",
+      "item": "VIII",
+      "kind": "weak_trace",
+      "line": 816,
+      "severity": "medium"
+    },
+    {
+      "detail": [
+        "3.1",
+        "3.2",
+        "5",
+        "5.1",
+        "6.1",
+        "6.2",
+        "6.3",
+        "7",
+        "8",
+        "10",
+        "10.2",
+        "11",
+        "12",
+        "13"
+      ],
+      "file": "core_06-06_rights_part_b.md",
+      "issue": "Chapter 1 basis is inferred from subject matter, not directly cited.",
+      "item": "IX",
+      "kind": "weak_trace",
+      "line": 1021,
+      "severity": "medium"
+    },
+    {
+      "detail": [
+        "2",
+        "3.1",
+        "3.2",
+        "5",
+        "5.1",
+        "6.1",
+        "6.2",
+        "6.3",
+        "7",
+        "8",
+        "10",
+        "10.2"
+      ],
+      "file": "core_06-06_rights_part_b.md",
+      "issue": "Chapter 1 basis is inferred from subject matter, not directly cited.",
+      "item": "X",
+      "kind": "weak_trace",
+      "line": 1190,
+      "severity": "medium"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_b.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XI",
+      "kind": "manual_review",
+      "line": 1363,
+      "severity": "low"
+    },
+    {
+      "detail": [
+        "2",
+        "3.1",
+        "3.2",
+        "4",
+        "6.1",
+        "6.2",
+        "6.3",
+        "7",
+        "8",
+        "10",
+        "10.2",
+        "11",
+        "12",
+        "13"
+      ],
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Chapter 1 basis is inferred from subject matter, not directly cited.",
+      "item": "XII",
+      "kind": "weak_trace",
+      "line": 32,
+      "severity": "medium"
+    },
+    {
+      "detail": [
+        "2",
+        "3.1",
+        "3.2",
+        "4",
+        "5",
+        "5.1",
+        "6.1",
+        "6.2",
+        "6.3",
+        "7",
+        "8",
+        "10",
+        "10.2"
+      ],
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Chapter 1 basis is inferred from subject matter, not directly cited.",
+      "item": "XIII",
+      "kind": "weak_trace",
+      "line": 279,
+      "severity": "medium"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XIV",
+      "kind": "manual_review",
+      "line": 513,
+      "severity": "low"
+    },
+    {
+      "detail": [
+        "3.1",
+        "3.2",
+        "6.1",
+        "6.2",
+        "6.3",
+        "7",
+        "8",
+        "10",
+        "10.2",
+        "11",
+        "12",
+        "13"
+      ],
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Chapter 1 basis is inferred from subject matter, not directly cited.",
+      "item": "XV",
+      "kind": "weak_trace",
+      "line": 650,
+      "severity": "medium"
+    },
+    {
+      "detail": [
+        "3.1",
+        "3.2",
+        "5",
+        "5.1",
+        "6.1",
+        "6.2",
+        "6.3",
+        "7",
+        "8",
+        "9",
+        "9.2",
+        "10",
+        "10.2",
+        "11",
+        "12",
+        "13"
+      ],
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Chapter 1 basis is inferred from subject matter, not directly cited.",
+      "item": "XVI",
+      "kind": "weak_trace",
+      "line": 771,
+      "severity": "medium"
+    },
+    {
+      "detail": [
+        "3.1",
+        "3.2",
+        "5",
+        "5.1",
+        "6.1",
+        "6.2",
+        "6.3",
+        "7",
+        "8",
+        "11",
+        "12",
+        "13"
+      ],
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Chapter 1 basis is inferred from subject matter, not directly cited.",
+      "item": "XVII",
+      "kind": "weak_trace",
+      "line": 898,
+      "severity": "medium"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XVIII",
+      "kind": "manual_review",
+      "line": 1137,
+      "severity": "low"
+    },
+    {
+      "detail": [
+        "3.1",
+        "4",
+        "5",
+        "5.1",
+        "6.1",
+        "6.3",
+        "7",
+        "10",
+        "10.2"
+      ],
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Chapter 1 basis is inferred from subject matter, not directly cited.",
+      "item": "XVIII-D",
+      "kind": "weak_trace",
+      "line": 1318,
+      "severity": "medium"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XIX",
+      "kind": "manual_review",
+      "line": 1339,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XX",
+      "kind": "manual_review",
+      "line": 1534,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XXI",
+      "kind": "manual_review",
+      "line": 1647,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XXII",
+      "kind": "manual_review",
+      "line": 1753,
+      "severity": "low"
+    },
+    {
+      "detail": [
+        "2",
+        "3.1",
+        "3.2",
+        "5",
+        "5.1",
+        "6.1",
+        "6.2",
+        "6.3",
+        "7",
+        "8",
+        "10",
+        "10.2"
+      ],
+      "file": "core_06-06_rights_part_d.md",
+      "issue": "Chapter 1 basis is inferred from subject matter, not directly cited.",
+      "item": "XXIII",
+      "kind": "weak_trace",
+      "line": 32,
+      "severity": "medium"
+    },
+    {
+      "detail": [
+        "3.1",
+        "3.2",
+        "6.1",
+        "6.2",
+        "6.3",
+        "7",
+        "8"
+      ],
+      "file": "core_06-06_rights_part_d.md",
+      "issue": "Chapter 1 basis is inferred from subject matter, not directly cited.",
+      "item": "XXIV",
+      "kind": "weak_trace",
+      "line": 225,
+      "severity": "medium"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_d.md",
+      "issue": "Missing top-level Chapter 0 frame signal(s): Aims.",
+      "item": "XXIV",
+      "kind": "missing_ch0_measurement_frame",
+      "line": 225,
+      "severity": "medium"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_d.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XXV",
+      "kind": "manual_review",
+      "line": 352,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_d.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XXVI",
+      "kind": "manual_review",
+      "line": 434,
+      "severity": "low"
+    }
+  ],
+  "status": "REVIEW",
+  "summary": {
+    "articles": 124,
+    "findings": {
+      "manual_review": 10,
+      "missing_ch0_measurement_frame": 1,
+      "weak_trace": 17
+    },
+    "principles": 44
+  },
+  "workflow": "CH0_CH1_CH6_ALIGNMENT_AUDIT"
+}

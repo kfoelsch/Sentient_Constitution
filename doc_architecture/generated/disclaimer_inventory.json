@@ -1,0 +1,115 @@
+{
+  "generated": "2026-08-03T20:43:03+00:00",
+  "total_hits": 7,
+  "by_theme": {
+    "layer_separation": 2,
+    "symbolic_participation": 1,
+    "rights_floor_jurisdiction": 2,
+    "anti_formalism": 2
+  },
+  "by_action": {
+    "thin": 3,
+    "keep": 2,
+    "review": 2
+  },
+  "by_file": {
+    "core_05_apex_participation_leg.md": 2,
+    "core_05_band_participation.md": 5
+  },
+  "duplicate_clusters": [
+    {
+      "term": "Sentience Status Adjudication",
+      "theme_id": "rights_floor_jurisdiction",
+      "components": [
+        "C",
+        "O"
+      ]
+    }
+  ],
+  "hits": [
+    {
+      "file": "core_05_apex_participation_leg.md",
+      "line": 29,
+      "term": "(no heading)",
+      "component": "O",
+      "theme_id": "layer_separation",
+      "theme_label": "Governance layer separation (authorization vs participation)",
+      "action": "thin",
+      "canonical_home": "core_00_preamble.md \u00a74\u2013\u00a75; core_05_band_integrative.md Constitutional Contract cluster",
+      "excerpt": "Give affected sentients and [Stakeholders](core_05_band_participation.md#stakeholder) real voice in systems that affect them \u2014 the Tetrad leg this entry names. - **In scope:** voice, representation, contestable pathways,\u2026",
+      "pattern": "stakeholder system participation"
+    },
+    {
+      "file": "core_05_apex_participation_leg.md",
+      "line": 29,
+      "term": "(no heading)",
+      "component": "O",
+      "theme_id": "symbolic_participation",
+      "theme_label": "Symbolic / theater participation negative",
+      "action": "thin",
+      "canonical_home": "core_01_c_stewardship_capacity_principles.md \u00a711; Participation definition",
+      "excerpt": "Give affected sentients and [Stakeholders](core_05_band_participation.md#stakeholder) real voice in systems that affect them \u2014 the Tetrad leg this entry names. - **In scope:** voice, representation, contestable pathways,\u2026",
+      "pattern": "symbolic participation"
+    },
+    {
+      "file": "core_05_band_participation.md",
+      "line": 1639,
+      "term": "Sentience Status Adjudication",
+      "component": "O",
+      "theme_id": "rights_floor_jurisdiction",
+      "theme_label": "Rights-Floor jurisdiction / does not displace Ch6",
+      "action": "keep",
+      "canonical_home": "core_06_rights_part_*.md; Trace routing",
+      "excerpt": "The reviewable process by which an entity's sentience status \u2014 whether the entity is a sentient for the purposes of the Chapter Six Rights Floor \u2014 is determined, revised, narrowed, or restored. It runs under [Sentience\u2026",
+      "pattern": "chapter six rights floor"
+    },
+    {
+      "file": "core_05_band_participation.md",
+      "line": 1655,
+      "term": "Sentience Status Adjudication",
+      "component": "C",
+      "theme_id": "anti_formalism",
+      "theme_label": "Anti-formalism / label-gaming evasion block",
+      "action": "review",
+      "canonical_home": "core_02_definition_structure.md Chapter Three \u00a72.2.1; core_01_c_stewardship_capacity_principles.md \u00a711.6 for formal-structure change; term-specific C on gamed entries",
+      "excerpt": "Non-compliant: - withholding, narrowing, or revoking Chapter Six protection on the strength of unresolved uncertainty alone; - non-time-bound declassification; declassification lacking mandatory periodic review; - paper\u2026",
+      "pattern": "taxonomy-of-convenience"
+    },
+    {
+      "file": "core_05_band_participation.md",
+      "line": 1655,
+      "term": "Sentience Status Adjudication",
+      "component": "C",
+      "theme_id": "rights_floor_jurisdiction",
+      "theme_label": "Rights-Floor jurisdiction / does not displace Ch6",
+      "action": "keep",
+      "canonical_home": "core_06_rights_part_*.md; Trace routing",
+      "excerpt": "Non-compliant: - withholding, narrowing, or revoking Chapter Six protection on the strength of unresolved uncertainty alone; - non-time-bound declassification; declassification lacking mandatory periodic review; - paper\u2026",
+      "pattern": "chapter six rights floor"
+    },
+    {
+      "file": "core_05_band_participation.md",
+      "line": 1712,
+      "term": "Binding Stakeholder Choice \u2014 Decision-Resolution Requirements",
+      "component": "O",
+      "theme_id": "layer_separation",
+      "theme_label": "Governance layer separation (authorization vs participation)",
+      "action": "thin",
+      "canonical_home": "core_00_preamble.md \u00a74\u2013\u00a75; core_05_band_integrative.md Constitutional Contract cluster",
+      "excerpt": "A **Stakeholder System Participation** layer requirement: when material disagreement requires a binding stakeholder choice within an already-authorized system, institution, or bounded decision domain, the process must p\u2026",
+      "pattern": "stakeholder system participation"
+    },
+    {
+      "file": "core_05_band_participation.md",
+      "line": 1725,
+      "term": "Binding Stakeholder Choice \u2014 Decision-Resolution Requirements",
+      "component": "C",
+      "theme_id": "anti_formalism",
+      "theme_label": "Anti-formalism / label-gaming evasion block",
+      "action": "review",
+      "canonical_home": "core_02_definition_structure.md Chapter Three \u00a72.2.1; core_01_c_stewardship_capacity_principles.md \u00a711.6 for formal-structure change; term-specific C on gamed entries",
+      "excerpt": "Non-compliant: skipping published sequence; sham deliberation; rubber-stamp plural review; foreclosing challenge or lawful reopening where required. Owner requirement: [Chapter Twelve \u00a73.3](core_12_governance.md#43-d\u2026",
+      "pattern": "rubber-stamp"
+    }
+  ]
+}

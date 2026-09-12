@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cjs-1.8-merits-boundary",
+    "file": "corpus_joint_structure/cjs_06_support_hosting_classification.md",
+    "heading_contains": "CJS-1.9: Boundary Between Support Roles",
+    "body_must_contain": [
+      "within the meaning of",
+      "merits-determination",
+      "chapter-eleven-forums-and-jurisdiction"
+    ],
+    "body_must_not_link_href": [
+      "adjudication-and-dispute-resolution-constitutional"
+    ]
+  },
+  {
+    "id": "cjs-3.0-oversight-role-merits",
+    "file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
+    "text_anchor_contains": "Oversight or support role",
+    "body_must_contain": [
+      "within the meaning of",
+      "merits-determination"
+    ]
+  },
+  {
+    "id": "ch5-accountability-crosslinks",
+    "file": "core_05-05_definitions_b_semi_independent.md",
+    "heading_exact": "Accountability",
+    "body_must_contain": [
+      "auditability",
+      "contestability"
+    ]
+  },
+  {
+    "id": "ch2-4-crypto-truth-safety",
+    "file": "core_04_burden_traceability_verification.md",
+    "heading_contains": "Security-Constrained Observability",
+    "body_must_contain": [
+      "truth-constitutional-constraint",
+      "safety-constraint"
+    ]
+  }
+]

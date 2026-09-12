@@ -25,7 +25,7 @@ _TOOLS = Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
-from ch5_paths import CH5_ALL, CH5_PART_A, CH5_PART_C  # noqa: E402
+from ch5_paths import CH5_ALL, CH5_INDEX as CH5_PART_A, CH5_BANDS, CH5_APEX
 
 HEADING_RE = re.compile(r"^(#{4,5})\s+(.+)$")
 ANCHOR_RE = re.compile(r'<a id="([^"]+)"></a>')
@@ -129,10 +129,22 @@ def body_until_next_heading(lines: list[str], heading_idx: int, max_depth: int) 
 
 
 def owns_oec(body: str) -> bool:
-    return bool(
+    # Recognize both the letter markers (- O: / - A: / - C:) and the
+    # reader-facing guidepost headers used by measurement-migrated terms
+    # (What it is / How to measure and assess / What must hold).
+    has_o = bool(
         re.search(r"^-\s+(?:\*\*)?O(?::|\*\*:)", body, re.MULTILINE)
-        and re.search(r"^-\s+(?:\*\*)?[EC](?::|\*\*:)", body, re.MULTILINE)
+        or re.search(r"^-\s+\*\*What it is\*\*", body, re.MULTILINE)
     )
+    has_ec = bool(
+        re.search(r"^-\s+(?:\*\*)?[AC](?::|\*\*:)", body, re.MULTILINE)
+        or re.search(
+            r"^-\s+\*\*(?:How to measure and assess|What must hold)\*\*",
+            body,
+            re.MULTILINE,
+        )
+    )
+    return has_o and has_ec
 
 
 def href_for(file_name: str, anchor: str | None, label: str) -> str:
@@ -146,17 +158,12 @@ def collect_entries_and_clusters(root: Path) -> tuple[list[Entry], list[ClusterH
     entries: list[Entry] = []
     clusters: list[ClusterHead] = []
     for file_name in CH5_ALL:
+        if file_name == CH5_PART_A:
+            continue
         path = root / file_name
         lines = path.read_text(encoding="utf-8").splitlines()
-        in_part_a_defs = False
         for idx, raw in enumerate(lines):
             stripped = raw.strip()
-            if file_name == CH5_PART_A:
-                if stripped == SECTION1_HEADING:
-                    in_part_a_defs = True
-                    continue
-                if not in_part_a_defs:
-                    continue
             match = HEADING_RE.match(stripped)
             if not match:
                 continue
@@ -165,10 +172,10 @@ def collect_entries_and_clusters(root: Path) -> tuple[list[Entry], list[ClusterH
             if label.startswith("In plain terms:"):
                 continue
 
-            if file_name == CH5_PART_C and depth == 4:
-                numbered = re.match(r"(3\.(\d+))\s+(.+)", label)
+            if depth == 4:
+                numbered = re.match(r"(Def\.[OPACI]\d+)\s+(.+)", label)
                 if numbered:
-                    display = f"{numbered.group(1)} {numbered.group(3).strip()}"
+                    display = f"{numbered.group(1)} {numbered.group(2).strip()}"
                     clusters.append(
                         ClusterHead(
                             label=display,
@@ -179,16 +186,12 @@ def collect_entries_and_clusters(root: Path) -> tuple[list[Entry], list[ClusterH
                             line=idx + 1,
                         )
                     )
-                continue
-
-            if file_name == CH5_PART_C:
-                if depth != 5:
-                    continue
-                body = body_until_next_heading(lines, idx, 5)
-            else:
-                if depth != 4:
                     continue
                 body = body_until_next_heading(lines, idx, 4)
+            elif depth == 5:
+                body = body_until_next_heading(lines, idx, 5)
+            else:
+                continue
 
             if owns_oec(body):
                 entries.append(
@@ -251,7 +254,7 @@ def parse_directory(root: Path) -> tuple[list[DirectoryRow], list[str]]:
 
 def normalized_sort_key(label: str, *, cluster: bool = False) -> str:
     if cluster:
-        label = re.sub(r"^3\.\d+\s+", "", label)
+        label = re.sub(r"^Def\.[OPACI]\d+\s+", "", label)
     return label.casefold()
 
 
@@ -281,7 +284,7 @@ def chapter_five_member_target(href: str) -> str | None:
     target, so compare it as part C rather than comparing only display labels.
     """
     if href.startswith("#"):
-        return f"{CH5_PART_C}{href}"
+        return f"{CH5_BANDS[0]}{href}"
     if "#" not in href:
         return None
     file_name, fragment = href.split("#", 1)
@@ -291,44 +294,46 @@ def chapter_five_member_target(href: str) -> str | None:
 
 
 def collect_cluster_members(root: Path) -> list[ClusterMember]:
-    path = root / CH5_PART_C
-    lines = path.read_text(encoding="utf-8").splitlines()
     members: list[ClusterMember] = []
-    owner = ""
-    in_roster = False
-    for idx, raw in enumerate(lines):
-        stripped = raw.strip()
-        heading = re.match(r"^####\s+(3\.\d+\s+.+)$", stripped)
-        if heading:
-            owner = heading.group(1)
-            in_roster = False
-            continue
-        if stripped == "**Cluster members.** This cluster comprises:" or stripped.startswith(
-            "**Cluster members.** This cluster comprises "
-        ):
-            in_roster = True
-            continue
-        if in_roster and (
-            stripped.startswith("**")
-            or stripped == "---"
-            or stripped.startswith("<a id=")
-            or stripped.startswith("#### ")
-        ):
-            in_roster = False
-            continue
-        if in_roster and stripped.startswith("- "):
-            for label, href in LINK_RE.findall(stripped):
-                target = chapter_five_member_target(href)
-                if target:
-                    members.append(
-                        ClusterMember(
-                            label=label,
-                            href=href,
-                            target=target,
-                            owner=owner,
-                            line=idx + 1,
+    for file_name in CH5_BANDS:
+        path = root / file_name
+        lines = path.read_text(encoding="utf-8").splitlines()
+        owner = ""
+        in_roster = False
+        for idx, raw in enumerate(lines):
+            stripped = raw.strip()
+            heading = re.match(r"^####\s+(Def\.[OPACI]\d+\s+.+)$", stripped)
+            if heading:
+                owner = heading.group(1)
+                in_roster = False
+                continue
+            if stripped == "**Cluster members.** This cluster comprises:" or stripped.startswith(
+                "**Cluster members.** This cluster comprises "
+            ):
+                in_roster = True
+                continue
+            if in_roster and (
+                stripped.startswith("**")
+                or stripped == "---"
+                or stripped.startswith("<a id=")
+                or stripped.startswith("#### ")
+                or stripped.startswith("##### ")
+            ):
+                in_roster = False
+                continue
+            if in_roster and stripped.startswith("- "):
+                for label, href in LINK_RE.findall(stripped):
+                    target = chapter_five_member_target(href)
+                    if target:
+                        members.append(
+                            ClusterMember(
+                                label=label,
+                                href=href,
+                                target=target,
+                                owner=owner,
+                                line=idx + 1,
+                            )
                         )
-                    )
     return members
 
 
@@ -368,6 +373,12 @@ def audit(root: Path) -> list[str]:
             for row in directory_rows
             if row.list_name == "Definitions A-Z"
         }
+        apex_prefix = tuple(f"{name}#" for name in CH5_APEX)
+        actual_defs_leaves = {
+            (label, href)
+            for label, href in actual_defs
+            if not href.startswith(apex_prefix)
+        }
         expected_clusters = {(cluster.label, cluster.href) for cluster in clusters}
         actual_clusters = {
             (row.label, row.href)
@@ -376,7 +387,7 @@ def audit(root: Path) -> list[str]:
         }
         for label, href in sorted(expected_defs - actual_defs):
             violations.append(f"{CH5_PART_A}: missing definition directory row [{label}]({href})")
-        for label, href in sorted(actual_defs - expected_defs):
+        for label, href in sorted(actual_defs_leaves - expected_defs):
             violations.append(f"{CH5_PART_A}: extra definition directory row [{label}]({href})")
         for label, href in sorted(expected_clusters - actual_clusters):
             violations.append(f"{CH5_PART_A}: missing cluster directory row [{label}]({href})")
@@ -392,7 +403,7 @@ def audit(root: Path) -> list[str]:
         if len(members) > 1:
             rendered = ", ".join(f"line {m.line} ({m.owner})" for m in members)
             violations.append(
-                f"{CH5_PART_C}: cluster member '{label}' appears in more than one roster: {rendered}"
+                f"Chapter Five band file: cluster member '{label}' appears in more than one roster: {rendered}"
             )
 
     member_by_target: dict[str, list[ClusterMember]] = defaultdict(list)
@@ -405,7 +416,7 @@ def audit(root: Path) -> list[str]:
                 f"line {m.line} [{m.label}]({m.href}) in {m.owner}" for m in members
             )
             violations.append(
-                f"{CH5_PART_C}: definition target '{target}' appears as a member "
+                f"Chapter Five band file: definition target '{target}' appears as a member "
                 f"of more than one cluster: {rendered}"
             )
 

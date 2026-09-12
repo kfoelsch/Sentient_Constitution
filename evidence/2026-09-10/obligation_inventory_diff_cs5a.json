@@ -1,0 +1,4104 @@
+{
+  "before": {
+    "generated": "2026-09-10",
+    "files": {
+      "corpus_systems/cs_00_registry_and_reading_rules.md": [
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "article",
+            "chapter",
+            "constitution",
+            "numbers",
+            "read",
+            "sentient",
+            "they"
+          ],
+          "text": "They must not be read as Sentient Constitution Article or chapter numbers."
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "abbreviation",
+            "appear",
+            "editor",
+            "ids",
+            "owner",
+            "references",
+            "routing",
+            "short",
+            "stable",
+            "tables"
+          ],
+          "text": "The editor abbreviation CS may appear in owner tables, stable IDs, and short routing references"
+        },
+        {
+          "modality": "EXPECTATION",
+          "terms": [
+            "citations",
+            "label",
+            "plus",
+            "practical",
+            "prefer",
+            "section"
+          ],
+          "text": "but citations should prefer plus the CS section label where practical."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "citations",
+            "cs-n",
+            "identifier",
+            "new",
+            "use"
+          ],
+          "text": "New citations must use the CS-N identifier."
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "abstractions",
+            "cited",
+            "cjs",
+            "definitions",
+            "joint",
+            "operational",
+            "owner",
+            "specialize",
+            "systems-local",
+            "text"
+          ],
+          "text": "Systems-local abstractions may specialize CJS joint operational definitions cited in owner text"
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "constitutional",
+            "create",
+            "definitions",
+            "parallel",
+            "redefine",
+            "terms"
+          ],
+          "text": "but must not redefine constitutional terms or create parallel constitutional definitions."
+        }
+      ],
+      "corpus_systems/cs_01_scope_purpose_identifier_rules.md": [
+        {
+          "modality": "DUTY",
+          "terms": [
+            "apply",
+            "belong",
+            "cjs",
+            "cjs-",
+            "cluster",
+            "cross-layer",
+            "definitions",
+            "interfaces",
+            "joint",
+            "library",
+            "more",
+            "operational",
+            "reusable",
+            "satisfied",
+            "together",
+            "two"
+          ],
+          "text": "joint operational definitions, and joint cross-layer interfaces that apply when two or more of CJS, CS, CI, and CF must be satisfied together \u2014 those belong to CJS (reusable joint operational definitions in CJS-3 (operat"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "adds",
+            "adopted",
+            "adoption",
+            "constitution",
+            "detail",
+            "how-to",
+            "satisfy",
+            "scope",
+            "sentient",
+            "systems-and-data",
+            "text"
+          ],
+          "text": "Adopted CS text adds systems-and-data how-to detail within adoption scope; it must satisfy the Sentient Constitution"
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "constitutional",
+            "floors",
+            "requirements",
+            "rights",
+            "weaken"
+          ],
+          "text": "and must not weaken constitutional requirements or Rights Floors."
+        }
+      ],
+      "corpus_systems/cs_05_design_testing_verification_deployment.md": [
+        {
+          "modality": "DUTY",
+          "terms": [
+            "capabilities",
+            "constitution",
+            "defines",
+            "outcomes"
+          ],
+          "text": "This constitution defines required capabilities and outcomes."
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "aligned",
+            "auditable",
+            "constitutional",
+            "evolve",
+            "implementations",
+            "principles",
+            "provided",
+            "remain",
+            "specific",
+            "technical",
+            "they"
+          ],
+          "text": "Specific technical implementations may evolve, provided they remain auditable and aligned with constitutional principles."
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "categories",
+            "file",
+            "functional",
+            "overlap",
+            "system"
+          ],
+          "text": "System categories in this file are functional and may overlap."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "community",
+            "constitutional",
+            "deployments",
+            "designed",
+            "holistic",
+            "new",
+            "wellbeing"
+          ],
+          "text": "New deployments must be designed for the holistic wellbeing of the constitutional community"
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "avoidable",
+            "harm",
+            "introduce"
+          ],
+          "text": "and must not introduce avoidable harm."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "applied",
+            "classification",
+            "critical",
+            "cs-",
+            "dependency",
+            "file",
+            "handling",
+            "impact",
+            "proportionally",
+            "requirements",
+            "scope",
+            "stewardship",
+            "system"
+          ],
+          "text": "Requirements in this file must be applied proportionally to system scope, impact, and dependency under CS-3 \u2014 System classification and handling and CS-4 \u2014 Critical system stewardship."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "alignment",
+            "autonomy",
+            "behavior",
+            "cf-",
+            "changes",
+            "chapter",
+            "constitutional",
+            "dependency",
+            "eleven",
+            "existing",
+            "forum",
+            "impact",
+            "incentive",
+            "material",
+            "materially",
+            "new",
+            "official",
+            "pathways",
+            "prepared",
+            "profile",
+            "recognition",
+            "review",
+            "risk",
+            "scope",
+            "structure",
+            "systems",
+            "through",
+            "whose"
+          ],
+          "text": "New systems with material impact, and existing systems whose scope, behavior, dependency, autonomy, incentive structure, or risk profile materially changes, must be prepared for official constitutional alignment recognit"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "classification",
+            "evaluate",
+            "evidence",
+            "forum",
+            "impact",
+            "maintain",
+            "monitoring",
+            "ongoing",
+            "owners",
+            "packages",
+            "readiness",
+            "remediation",
+            "residual",
+            "risk",
+            "scope",
+            "stakeholder",
+            "sufficient",
+            "system",
+            "testing"
+          ],
+          "text": "System owners must maintain evidence packages sufficient for the forum to evaluate scope, classification, testing, stakeholder impact, residual risk, remediation readiness, and ongoing monitoring."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "analysis",
+            "baseline",
+            "burden",
+            "cadence",
+            "component",
+            "contest",
+            "dependency",
+            "duty",
+            "ecological",
+            "environment",
+            "environmental-alignment",
+            "environmental-precondition",
+            "evidence",
+            "exposure",
+            "failure",
+            "foreseeable",
+            "forum",
+            "lifecycle",
+            "material",
+            "modes",
+            "monitoring",
+            "package",
+            "path",
+            "plan",
+            "reasonably",
+            "remediation",
+            "resource-flow",
+            "restoration",
+            "review",
+            "risk",
+            "support",
+            "system",
+            "uncertainty"
+          ],
+          "text": "Where a system has material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk, the evidence package must also support Environment fo"
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "article",
+            "class",
+            "classification",
+            "conditions",
+            "containment",
+            "cs-",
+            "disclosure",
+            "eligibility",
+            "externalization",
+            "handling",
+            "opt-in",
+            "owned",
+            "read",
+            "reduced-requirement",
+            "rights-floor",
+            "sandboxed",
+            "scope",
+            "system",
+            "treatment",
+            "valid",
+            "xvii-a",
+            "xvii-b"
+          ],
+          "text": "Rights-floor eligibility, reduced-requirement conditions, disclosure, containment, and prohibited externalization are owned by Article XVII-A (Sandboxed Scope) and Article XVII-B (Containment, Disclosure, and Opt-In), re"
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "audit",
+            "conditions",
+            "deployment",
+            "depth",
+            "environment",
+            "hold",
+            "lighter",
+            "rigor",
+            "separation"
+          ],
+          "text": "Where those conditions hold, environment separation, deployment rigor, and audit depth under \u00a77 may be lighter."
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "deployment",
+            "full",
+            "iteration",
+            "maintain",
+            "multi-environment",
+            "need",
+            "prioritize",
+            "rapid",
+            "simplicity",
+            "structures",
+            "systems"
+          ],
+          "text": "Such systems may prioritize simplicity and rapid iteration and need not maintain full multi-environment deployment structures."
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "artistic",
+            "contained",
+            "creative",
+            "demonstrably",
+            "entertainment",
+            "environment",
+            "environments",
+            "experiential",
+            "expression",
+            "feature",
+            "higher",
+            "narrow",
+            "only",
+            "primarily",
+            "production",
+            "profile",
+            "remains",
+            "risk",
+            "simplified",
+            "stakeholder-driven",
+            "structures",
+            "systems",
+            "systems-layer",
+            "use",
+            "velocity",
+            "while",
+            "xvii"
+          ],
+          "text": "Systems-layer profile (does not narrow XVII): systems primarily for creative expression, entertainment, artistic production, or stakeholder-driven experiential environments may use higher feature velocity and simplified "
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "already",
+            "article",
+            "artistic",
+            "autonomous",
+            "closely",
+            "compliance",
+            "covered",
+            "data",
+            "dependency",
+            "environments",
+            "following",
+            "identity",
+            "impact",
+            "impactful",
+            "integration",
+            "interoperable",
+            "irreversibility",
+            "materially",
+            "originating",
+            "outside",
+            "persistent",
+            "present",
+            "reputation",
+            "scoped",
+            "shared-system",
+            "stakeholder",
+            "system",
+            "tests",
+            "toward",
+            "transferable",
+            "transition",
+            "value",
+            "xvii-c"
+          ],
+          "text": "Transition toward \u00a77 compliance is required when any of the following is present and not already covered by Article XVII-C's impact, dependency, irreversibility, or shared-system integration tests: persistent stakeholder"
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "acting",
+            "affect",
+            "agent",
+            "agents",
+            "behavior",
+            "beyond",
+            "collective",
+            "defined",
+            "environments",
+            "external",
+            "gaming",
+            "influence",
+            "markets",
+            "measurable",
+            "scope",
+            "semi-autonomous",
+            "simulation",
+            "stakeholders",
+            "systems",
+            "testing",
+            "training",
+            "used"
+          ],
+          "text": "or semi-autonomous agents acting for stakeholders that may affect external systems (including gaming or simulation environments used for agent testing or training), measurable influence on external systems, markets, or c"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "articles",
+            "audit",
+            "challenge",
+            "completed",
+            "documented",
+            "impact",
+            "proportionate",
+            "reasonable",
+            "remain",
+            "subject",
+            "timeframe",
+            "transitions",
+            "xii-b",
+            "xv-a"
+          ],
+          "text": "Transitions must be documented, completed within a reasonable timeframe proportionate to impact, and remain subject to audit and challenge under Articles XV-A and XII-B."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "controls",
+            "current",
+            "during",
+            "environment-isolation",
+            "interim",
+            "meet",
+            "progressive-deployment",
+            "proportionate",
+            "risk",
+            "safeguards",
+            "transition"
+          ],
+          "text": "Interim safeguards during transition must meet \u00a77 environment-isolation and progressive-deployment controls proportionate to current risk."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "accurately",
+            "across",
+            "activity",
+            "boundary",
+            "bypass",
+            "changes",
+            "environment",
+            "environments",
+            "experimental",
+            "fragment",
+            "high-impact",
+            "impact",
+            "integrity",
+            "label",
+            "never",
+            "non-production",
+            "obscure",
+            "operational",
+            "presentation",
+            "production",
+            "production-ready",
+            "progression",
+            "real",
+            "route",
+            "safeguards",
+            "systems",
+            "through",
+            "unvalidated"
+          ],
+          "text": "Boundary and presentation integrity: do not route production activity through non-production environments to bypass safeguards; do not fragment systems across environments to obscure real operational impact; accurately l"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "applicable",
+            "articles",
+            "comply",
+            "fully",
+            "qualify",
+            "subsection",
+            "systems",
+            "xvii-a",
+            "xvii-b"
+          ],
+          "text": "Systems that do not qualify under Articles XVII-A and XVII-B (and \u00a7\u00a72, 3, or 6 where applicable) must comply fully with this subsection."
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "affect",
+            "builder",
+            "only",
+            "remain",
+            "simple",
+            "systems"
+          ],
+          "text": "Systems that affect only the builder may remain simple."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "design",
+            "ecosystem",
+            "enable",
+            "exposing",
+            "guiding",
+            "improvement",
+            "infrastructure",
+            "iteration",
+            "learning",
+            "principles",
+            "rapid",
+            "risk",
+            "safe",
+            "sentients",
+            "shared",
+            "unnecessary"
+          ],
+          "text": "Guiding principles \u2014 safe iteration: Design must enable rapid learning and improvement without exposing sentients, shared infrastructure, or the ecosystem to unnecessary risk."
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "corporate",
+            "creative",
+            "ecology",
+            "games",
+            "harm",
+            "high-velocity",
+            "innovation",
+            "interfaces",
+            "internal",
+            "material",
+            "natural",
+            "only",
+            "prioritize",
+            "sandboxed",
+            "sentient-facing",
+            "similar",
+            "small-scale",
+            "social",
+            "software",
+            "survivability",
+            "systems",
+            "tools"
+          ],
+          "text": "Sentient-facing systems (creative tools, social interfaces, small-scale internal corporate software, games, and similar) may prioritize high-velocity innovation only when sandboxed from material harm to survivability and"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "articles",
+            "detect",
+            "document",
+            "foundational",
+            "iii",
+            "monitoring",
+            "requirements",
+            "respond",
+            "sufficient",
+            "violations"
+          ],
+          "text": "Monitoring must be sufficient to detect, document, and respond to violations of foundational requirements (Articles I\u2013III and V)."
+        },
+        {
+          "modality": "EXPECTATION",
+          "terms": [
+            "accessible",
+            "community",
+            "constitutional",
+            "deployment",
+            "designs",
+            "foundational",
+            "integrity",
+            "logs",
+            "open-source",
+            "transparent"
+          ],
+          "text": "Open-source integrity: Foundational designs and deployment logs should be transparent and accessible to the constitutional community."
+        },
+        {
+          "modality": "EXPECTATION",
+          "terms": [
+            "align",
+            "cjs-",
+            "cs-",
+            "data-format",
+            "dependency",
+            "design",
+            "discipline",
+            "exit-integrity",
+            "hardware",
+            "impact",
+            "interoperability",
+            "material",
+            "open",
+            "operational",
+            "portability",
+            "preference",
+            "protocol",
+            "scales",
+            "software",
+            "stacks",
+            "stewardship",
+            "systems",
+            "terms",
+            "tier"
+          ],
+          "text": "Open hardware, open software, open systems: Operational design and stewardship should align with CJS-3.17 (interoperability, portability, and exit-integrity terms) \u2014 Open hardware, open software, and open systems \u2014 and C"
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "api",
+            "bounded",
+            "burden-of-justification",
+            "cjs-",
+            "class",
+            "classification",
+            "constraint",
+            "disclosure",
+            "expectations",
+            "experimental",
+            "format",
+            "high-tier",
+            "inspectability",
+            "interchange-protocol",
+            "justification",
+            "narrowing",
+            "paths",
+            "proprietary",
+            "rules",
+            "schema",
+            "scopes",
+            "set",
+            "stronger",
+            "substitutability",
+            "systems",
+            "terms",
+            "tier"
+          ],
+          "text": "Classification and tier rules may set stronger disclosure, inspectability, substitutability, format, schema, API, or interchange-protocol expectations for Class A, Class B, and high-tier systems than for bounded or exper"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "auditably",
+            "choices",
+            "closed"
+          ],
+          "text": "or closed choices are auditably required."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "alteration",
+            "article",
+            "baseline",
+            "complexity",
+            "comprehensibility",
+            "cs-",
+            "design",
+            "disrupts",
+            "file",
+            "force",
+            "innovation",
+            "modular",
+            "module",
+            "modules",
+            "one",
+            "only",
+            "requirements",
+            "requires",
+            "route",
+            "stewardship",
+            "verified",
+            "way"
+          ],
+          "text": "Comprehensibility and complexity stewardship for modular design route to CS-6 and Article XX; this file only requires that innovation in one verified module must not force alteration of other verified modules in a way th"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "degradation",
+            "ecological",
+            "sentient-driven",
+            "simulation",
+            "surface",
+            "threats"
+          ],
+          "text": "Simulation must surface sentient-driven threats and ecological degradation."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "biological",
+            "cjs-",
+            "effects",
+            "info-sphere",
+            "integrity",
+            "modeling",
+            "read",
+            "synthetic",
+            "worst-case"
+          ],
+          "text": "It must include worst-case modeling for biological and synthetic effects and for info-sphere integrity, read with CJS-3.19 and CJS-3.21."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "article",
+            "auditable",
+            "deployment",
+            "gradual",
+            "high-impact",
+            "iterative",
+            "rollout",
+            "transparent",
+            "xvi-b"
+          ],
+          "text": "Iterative, transparent deployment: High-impact rollout must be gradual and auditable under Article XVI-B."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "compensatory",
+            "containment",
+            "full",
+            "infeasible",
+            "non-experimental",
+            "restoration",
+            "rollback",
+            "support",
+            "systems"
+          ],
+          "text": "Non-experimental systems must support rollback, containment, or compensatory restoration where full rollback is infeasible."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "article",
+            "chapter",
+            "demand",
+            "deployment",
+            "extent",
+            "five",
+            "foundational",
+            "one",
+            "prior",
+            "requirements",
+            "reversion",
+            "stable",
+            "state",
+            "violate",
+            "would",
+            "xvi-b"
+          ],
+          "text": "Where deployment would violate foundational requirements, reversion to a prior stable state is required to the extent Article XVI-B, Chapter One, and Chapter Five demand."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "avoid",
+            "environment",
+            "harm",
+            "lasting",
+            "natural",
+            "reversion",
+            "sentients"
+          ],
+          "text": "That reversion must avoid lasting harm to sentients or the natural environment."
+        },
+        {
+          "modality": "EXPECTATION",
+          "terms": [
+            "agentic",
+            "architecture",
+            "autonomy",
+            "clarity",
+            "design",
+            "engagement",
+            "favor",
+            "goals",
+            "metrics",
+            "platform-defined",
+            "stakeholder",
+            "stakeholder-directed",
+            "wellbeing"
+          ],
+          "text": "Design for agentic wellbeing: Architecture should favor stakeholder autonomy: clarity over engagement, and stakeholder-directed goals over platform-defined metrics."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "clearly",
+            "defined",
+            "development",
+            "environments",
+            "operational",
+            "separable",
+            "systems",
+            "test",
+            "use"
+          ],
+          "text": "Development and test environments: Systems must use clearly defined, separable operational environments."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "anomalies",
+            "behavior",
+            "experimental",
+            "failures",
+            "non-production",
+            "production",
+            "propagate"
+          ],
+          "text": "Failures, anomalies, or experimental behavior in non-production must not propagate into production."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "audit",
+            "behaviors",
+            "data",
+            "enter",
+            "explicit",
+            "non-production",
+            "production",
+            "state",
+            "transitions",
+            "validation"
+          ],
+          "text": "Data, behaviors, or state transitions from non-production must not enter production without explicit validation and audit."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "audit",
+            "checks",
+            "integrity",
+            "non-production",
+            "persistent",
+            "production",
+            "promoted",
+            "states",
+            "validation"
+          ],
+          "text": "Persistent states from non-production must not be promoted to production without validation, audit, and integrity checks."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "access",
+            "authorization",
+            "controls",
+            "credentials",
+            "cross-environment",
+            "encryption",
+            "keys",
+            "non-production",
+            "originating",
+            "permissions",
+            "production",
+            "reused",
+            "secrets",
+            "tokens"
+          ],
+          "text": "Cross-environment authorization: Credentials, access controls, permissions, tokens/secrets, and encryption keys originating in non-production must not be reused in production."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "authentication",
+            "authorization",
+            "between",
+            "boundaries",
+            "environments",
+            "remain",
+            "separated",
+            "strictly"
+          ],
+          "text": "Boundaries: Authentication and authorization must remain strictly separated between environments."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "credentials",
+            "environment-specific",
+            "independently",
+            "managed",
+            "secrets"
+          ],
+          "text": "Secrets and credentials must be environment-specific and independently managed."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "access",
+            "compromise",
+            "grant",
+            "non-production",
+            "production"
+          ],
+          "text": "Compromise of non-production must not grant production access."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "against",
+            "article",
+            "between",
+            "chapter",
+            "cjs-",
+            "consistent",
+            "constitutional",
+            "containment",
+            "continuity",
+            "documented",
+            "environments",
+            "escalation",
+            "evaluated",
+            "five",
+            "justified",
+            "requirements",
+            "reversibility",
+            "rollback",
+            "terms",
+            "xvi-b"
+          ],
+          "text": "Escalation between environments must be justified, documented, evaluated against constitutional requirements, and include rollback and containment consistent with Article XVI-B, Chapter Five (Reversibility), and CJS-3.20"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "adversarial",
+            "behavior",
+            "ecosystem",
+            "environments",
+            "expected",
+            "failures",
+            "interactions",
+            "scenarios",
+            "simulation",
+            "stakeholder",
+            "stress",
+            "support",
+            "system",
+            "testing",
+            "worst-case"
+          ],
+          "text": "Simulation and stress testing: Testing environments must support expected and adversarial simulation, including system failures, stakeholder behavior, ecosystem interactions, and worst-case scenarios."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "adaptive",
+            "allocation",
+            "applicable",
+            "before",
+            "decisions",
+            "demonstrate",
+            "document",
+            "high-impact",
+            "inform",
+            "known",
+            "limitations",
+            "production",
+            "resilience",
+            "risks",
+            "stress",
+            "systems"
+          ],
+          "text": "High-impact systems must demonstrate resilience under stress before production, document limitations and known risks, and inform adaptive allocation decisions where applicable."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "analysis",
+            "article",
+            "attribution",
+            "causal",
+            "cause",
+            "diagnostic",
+            "environments",
+            "rca",
+            "rigor",
+            "root",
+            "satisfy",
+            "xxi-a"
+          ],
+          "text": "Root cause analysis (Article XXI-A (Diagnostic Rigor and Causal Attribution)): RCA in these environments must satisfy Article XXI-A."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "causes",
+            "corrective",
+            "environments",
+            "failures",
+            "interventions",
+            "isolation",
+            "reproduction",
+            "root",
+            "support",
+            "validation"
+          ],
+          "text": "Environments must support reproduction of failures, isolation of root causes, and validation of corrective interventions."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "anti-capture",
+            "authority",
+            "bounded",
+            "checks",
+            "class",
+            "constitutional",
+            "contestable",
+            "continuity",
+            "crisis",
+            "during",
+            "interpretation",
+            "interpretive",
+            "operation",
+            "plans",
+            "preserve"
+          ],
+          "text": "Interpretive authority continuity and anti-capture checks: For Class A and Class B, continuity plans must preserve bounded and contestable constitutional interpretation during crisis operation."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "across",
+            "after",
+            "authority",
+            "cannot",
+            "conflict",
+            "consecutive",
+            "constitutional",
+            "constraints",
+            "controls",
+            "cycles",
+            "decision-makers",
+            "determinations",
+            "disclosure",
+            "emergency",
+            "immediate",
+            "independent",
+            "interpretive",
+            "mandatory",
+            "monopolize",
+            "once",
+            "pathways",
+            "permit",
+            "plans",
+            "publication",
+            "reasoning",
+            "recusal",
+            "review",
+            "role",
+            "safety",
+            "secondary",
+            "single",
+            "stabilization",
+            "temporary"
+          ],
+          "text": "Plans must include: (a) temporary role pathways that a single authority cannot monopolize across consecutive cycles, (b) conflict disclosure and recusal controls for emergency decision-makers, (c) mandatory publication o"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "adjudication",
+            "article",
+            "chapter",
+            "cjs-",
+            "consistent",
+            "integrity",
+            "justice",
+            "objective",
+            "procedural",
+            "review",
+            "scope",
+            "six",
+            "terms",
+            "xxiii-a"
+          ],
+          "text": "That review must be consistent with Chapter Six, Article XXIII-A (Justice Objective and Scope) and CJS-3.13 (procedural integrity and adjudication terms)."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "applies",
+            "authority",
+            "chapter",
+            "cjs-",
+            "definitional",
+            "detail",
+            "distributed",
+            "five",
+            "legitimacy",
+            "necessity",
+            "one",
+            "ongoing",
+            "participatory",
+            "proportional",
+            "proportionality",
+            "quorum",
+            "record",
+            "scaling",
+            "show",
+            "terms"
+          ],
+          "text": "That record must show ongoing necessity and proportionality (CJS-3.11 (distributed and proportional authority terms) and CJS-3.7 (quorum and participatory legitimacy terms); Chapter One and Chapter Five where definitiona"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "alternatives",
+            "feasible",
+            "insufficient",
+            "less-restrictive",
+            "show",
+            "why"
+          ],
+          "text": "It must also show why less-restrictive feasible alternatives are insufficient."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "alternatives",
+            "audit",
+            "capture",
+            "considered",
+            "crisis",
+            "evidence",
+            "execution",
+            "extension",
+            "outcomes",
+            "rationale",
+            "records",
+            "restoration",
+            "retrospective",
+            "review",
+            "rollback",
+            "status",
+            "trigger"
+          ],
+          "text": "Crisis records must capture trigger evidence, alternatives considered, review outcomes, extension rationale, and rollback/restoration execution status for retrospective audit."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "access",
+            "accountable",
+            "auditable",
+            "cadence",
+            "closure",
+            "compensatory",
+            "completed",
+            "completion",
+            "deferred",
+            "disclosed",
+            "emergency",
+            "evidence",
+            "extraordinary",
+            "justify",
+            "longer",
+            "materially",
+            "measures",
+            "monitoring",
+            "objective",
+            "owners",
+            "participation",
+            "plan",
+            "predicates",
+            "records",
+            "residual",
+            "restoration",
+            "restored",
+            "rights",
+            "risks",
+            "rollback",
+            "show",
+            "time-bound",
+            "timelines"
+          ],
+          "text": "Closure records must: show objective evidence that (a) emergency predicates no longer materially justify extraordinary measures, show that (b) rollback or compensatory restoration was completed or is on a time-bound comp"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "findings",
+            "recorded",
+            "remediated"
+          ],
+          "text": "Findings must be recorded and remediated."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "behavior",
+            "capability",
+            "design",
+            "designed",
+            "emergent",
+            "one",
+            "records",
+            "recovery-path",
+            "self-healing"
+          ],
+          "text": "Recovery-path design records: Self-healing behavior must be a designed capability, not an emergent one."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "addresses",
+            "authority",
+            "classes",
+            "degradation",
+            "design",
+            "disclosed",
+            "envelope",
+            "expected",
+            "fault",
+            "identify",
+            "operates",
+            "path",
+            "paths",
+            "pre-fault",
+            "reach",
+            "records",
+            "recovery",
+            "restoration",
+            "targets",
+            "traverses"
+          ],
+          "text": "Design records must identify the fault classes the recovery path addresses, the disclosed degradation paths it traverses, the pre-fault authority envelope it operates within, and the restoration targets it is expected to"
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "access",
+            "article",
+            "bullet",
+            "containment",
+            "credential",
+            "cross-system",
+            "data",
+            "during",
+            "envelope",
+            "expansions",
+            "implementing",
+            "independently",
+            "pre-authorized",
+            "pre-fault",
+            "reach",
+            "recovery",
+            "reviewable",
+            "scope",
+            "tool",
+            "unless",
+            "xii-f"
+          ],
+          "text": "Expansions of tool access, data access, credential scope, or cross-system reach during recovery are prohibited unless pre-authorized in the pre-fault envelope and independently reviewable, implementing Article XII-F's Co"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "behavior",
+            "only",
+            "path",
+            "property",
+            "recovery-path",
+            "self-healing",
+            "steady-state",
+            "testable",
+            "testing",
+            "verification"
+          ],
+          "text": "Recovery-path testing and verification: Self-healing behavior must be testable as a path, not only as a steady-state property."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "accountability",
+            "actions",
+            "article",
+            "attempts",
+            "autonomy-scaling",
+            "cascading-failure",
+            "containment",
+            "cover",
+            "decisions",
+            "dependency",
+            "detection",
+            "graceful-degradation",
+            "high-autonomy",
+            "integrity",
+            "latency",
+            "observability",
+            "paths",
+            "preference",
+            "process",
+            "propagation",
+            "recovery",
+            "reversibility",
+            "safe-failure",
+            "scope",
+            "suppressed",
+            "systems",
+            "testing",
+            "tool-mediated",
+            "uncertainty",
+            "xii-e"
+          ],
+          "text": "Testing must cover detection latency, containment scope, graceful-degradation paths, safe-failure preference under uncertainty, reversibility of recovery actions, observability of recovery attempts including suppressed a"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "adversarial",
+            "attack",
+            "authority",
+            "contestability",
+            "emerging",
+            "example",
+            "expand",
+            "fault",
+            "path",
+            "re-route",
+            "recovery",
+            "scenarios",
+            "signal",
+            "suppress",
+            "surface",
+            "testing",
+            "triggering"
+          ],
+          "text": "Testing must include adversarial scenarios in which the recovery path is the attack surface (for example, triggering recovery to suppress an emerging fault signal; triggering recovery to expand authority; triggering reco"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "abuse",
+            "adversarial",
+            "cjs-",
+            "class",
+            "degradation",
+            "failure-mode",
+            "graceful",
+            "integrity",
+            "least",
+            "one",
+            "recovery-path",
+            "resistance",
+            "robustness",
+            "scenario",
+            "systems",
+            "testing"
+          ],
+          "text": "For Class A and Class B systems, recovery-path testing must include at least one scenario under each of CJS-3.19 (graceful degradation and failure-mode integrity) and CJS-3.21 (adversarial robustness and abuse resistance"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "least",
+            "observability",
+            "path",
+            "recovery",
+            "state",
+            "steady",
+            "strong"
+          ],
+          "text": "Observability of the recovery path must be at least as strong as observability of the steady state."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "article",
+            "baseline",
+            "behavior",
+            "below",
+            "compression",
+            "deduplication",
+            "event",
+            "evidence-retention",
+            "evidential",
+            "fidelity",
+            "log",
+            "non-compliant",
+            "recovery",
+            "reduce",
+            "windows",
+            "xv-a"
+          ],
+          "text": "Log compression, event deduplication, or evidence-retention windows that reduce evidential fidelity of recovery behavior below the Article XV-A baseline are non-compliant."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "able",
+            "both",
+            "handled",
+            "independent",
+            "path",
+            "reconstruct",
+            "recovery",
+            "suppressed",
+            "verification",
+            "what"
+          ],
+          "text": "Independent verification must be able to reconstruct both the recovery path and what the recovery path handled or suppressed."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "accurately",
+            "article",
+            "consistent",
+            "degraded",
+            "describe",
+            "disclosure",
+            "during",
+            "false",
+            "misleading",
+            "one",
+            "operation",
+            "participant-facing",
+            "prohibition",
+            "recovering",
+            "reliance",
+            "rights-floor-affected",
+            "state",
+            "trust",
+            "xii-c",
+            "xv-a"
+          ],
+          "text": "Participant-facing disclosure during degraded and recovering operation must accurately describe the state as a Rights-Floor-affected state where it is one, consistent with Article XII-C (Prohibition of False Trust and Mi"
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "article",
+            "narrowing",
+            "non-compliant",
+            "remains",
+            "silent",
+            "xii-f"
+          ],
+          "text": "Silent narrowing remains non-compliant under Article XII-F."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "article",
+            "bullet",
+            "classes",
+            "closure",
+            "confidence",
+            "discipline",
+            "disclosed",
+            "expected-closure",
+            "fault",
+            "implementing",
+            "levels",
+            "maintain",
+            "material",
+            "obligations",
+            "open",
+            "operators",
+            "ops",
+            "recording",
+            "recurring",
+            "register",
+            "root-cause",
+            "timeline",
+            "uncertainties",
+            "xii-f",
+            "xv-a"
+          ],
+          "text": "Root-cause closure discipline (ops register): Operators must maintain an open root-cause obligations register recording recurring fault classes, confidence levels, material uncertainties, and disclosed expected-closure t"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "across",
+            "class",
+            "closure",
+            "cycles",
+            "fault",
+            "incident",
+            "obligation",
+            "open",
+            "recurrence",
+            "root-cause",
+            "same",
+            "single",
+            "treated"
+          ],
+          "text": "Recurrence of the same fault class across cycles must be treated as a single open root-cause obligation and not as closure of each incident."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "affect",
+            "avoidable",
+            "burden",
+            "chapter",
+            "closure",
+            "consistent",
+            "defects",
+            "defer",
+            "floor",
+            "indefinite",
+            "materially",
+            "one",
+            "operator",
+            "reducing",
+            "rights",
+            "safety",
+            "used"
+          ],
+          "text": "Reducing operator burden consistent with Avoidable Burden under Chapter One \u00a76.3 must not be used to defer indefinite closure of defects that materially affect safety or the Rights Floor."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "article",
+            "authority",
+            "bypass",
+            "challenge",
+            "contestability",
+            "independent",
+            "recovery",
+            "used",
+            "verification",
+            "xii-b",
+            "xv-a"
+          ],
+          "text": "Recovery authority must not be used to bypass Contestability, challenge under Article XII-B, or independent verification under Article XV-A and Article XV."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "audit-event",
+            "contestability",
+            "during",
+            "emission",
+            "external-review",
+            "intake",
+            "internalization",
+            "pathways",
+            "recovery"
+          ],
+          "text": "Internalization of contestability intake, audit-event emission, or external-review pathways during recovery is prohibited"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "channels",
+            "external",
+            "independently",
+            "materially",
+            "remain",
+            "verifiable"
+          ],
+          "text": "such channels must remain materially external or independently verifiable."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "article",
+            "chapter",
+            "create",
+            "five",
+            "narrow",
+            "one",
+            "read",
+            "rights",
+            "self-healing",
+            "xii-f"
+          ],
+          "text": "It does not create rights and must not be read to narrow Article XII-F, Chapter One \u00a74.1, or Chapter Five Self-Healing."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "alignment",
+            "behavior",
+            "bounded",
+            "break",
+            "certification",
+            "conditions",
+            "controls",
+            "every",
+            "hold",
+            "identified",
+            "outcome",
+            "previously",
+            "recertification",
+            "record",
+            "reflected",
+            "regression",
+            "remediated",
+            "revalidation",
+            "safeguards",
+            "showing",
+            "still",
+            "system",
+            "testing",
+            "verified"
+          ],
+          "text": "Every recertification or revalidation of a system alignment certification record must include regression testing showing that previously verified behavior, controls, and safeguards still hold \u2014 or that any break is ident"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "accepted",
+            "certification",
+            "custom",
+            "failures",
+            "justification",
+            "known",
+            "record",
+            "regression",
+            "remediations",
+            "residual",
+            "results",
+            "risk",
+            "run",
+            "scope",
+            "standard",
+            "state",
+            "suites",
+            "test",
+            "tests"
+          ],
+          "text": "The certification record must state the regression scope, standard test suites run, custom tests run, results, known failures, remediations, and any accepted residual risk with justification."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "abuse",
+            "abuse-resistance",
+            "alone",
+            "appropriate",
+            "assigned",
+            "baseline",
+            "both",
+            "cjs-",
+            "class",
+            "cover",
+            "coverage",
+            "cs-",
+            "custom",
+            "data",
+            "dependencies",
+            "domain",
+            "failure",
+            "failure-mode",
+            "handling",
+            "information",
+            "known",
+            "model",
+            "modes",
+            "recertification",
+            "regression",
+            "scope",
+            "security",
+            "standard",
+            "suites",
+            "system",
+            "system-specific",
+            "systems",
+            "testing",
+            "tests",
+            "threat",
+            "types",
+            "would"
+          ],
+          "text": "For Class A, Class B, and Class C systems, regression testing on each recertification must include both: Standard tests: baseline suites appropriate to the assigned class and domain, including baseline security, abuse-re"
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "classification",
+            "deployment",
+            "development",
+            "environments",
+            "escalation",
+            "evidence",
+            "file",
+            "forum",
+            "initial",
+            "lifecycle",
+            "monitoring",
+            "packages",
+            "pre-deployment",
+            "prepared",
+            "progressive",
+            "readiness",
+            "recognition",
+            "rely",
+            "remediation",
+            "residual",
+            "review",
+            "risk",
+            "scope",
+            "simulation",
+            "stress",
+            "test",
+            "testing"
+          ],
+          "text": "Initial recognition may rely on pre-deployment evidence prepared under this file, including: Forum recognition and lifecycle review: evidence packages for scope, classification, testing, residual risk, remediation readin"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "class",
+            "cover",
+            "drills",
+            "evidence",
+            "exercises",
+            "file",
+            "findings",
+            "recovery-path",
+            "remediated",
+            "requires",
+            "systems",
+            "testing",
+            "them",
+            "verification"
+          ],
+          "text": "For Class A and Class B systems, that evidence must also cover: Recovery-path testing and verification; and, remediated Exercises and drills findings where this file requires them."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "alignment",
+            "analysis",
+            "before",
+            "cause",
+            "changes",
+            "corrective",
+            "coverage",
+            "deployment",
+            "extend",
+            "forum",
+            "later",
+            "lifecycle",
+            "material",
+            "measures",
+            "ongoing",
+            "prior",
+            "read",
+            "recertification",
+            "recognition",
+            "record",
+            "regression",
+            "requirement",
+            "rerun",
+            "review",
+            "root",
+            "since",
+            "validate"
+          ],
+          "text": "Each later recertification must rerun or extend regression coverage for material changes since the prior record, read with Forum recognition and lifecycle review (ongoing alignment review), Root cause analysis, and the r"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "accepted",
+            "certification",
+            "confirmation",
+            "defects",
+            "feasible",
+            "fixes",
+            "material",
+            "missing",
+            "regression",
+            "regressions",
+            "results",
+            "stale",
+            "testing",
+            "treated",
+            "unfixed"
+          ],
+          "text": "Missing regression testing, stale results, unfixed regressions, or material fixes accepted without regression confirmation where feasible must be treated as certification defects."
+        }
+      ],
+      "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md": [
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "accountability",
+            "applicable",
+            "article",
+            "audit",
+            "authority",
+            "barrier",
+            "become",
+            "beyond",
+            "chapter",
+            "cjs-",
+            "complexity",
+            "comprehensibility",
+            "constraints",
+            "distributed",
+            "five",
+            "independent",
+            "legitimacy",
+            "one",
+            "oversight",
+            "participation",
+            "participatory",
+            "permit",
+            "practical",
+            "proportional",
+            "quorum",
+            "sources",
+            "stewardship",
+            "terms",
+            "what"
+          ],
+          "text": "Complexity must not become a practical barrier to audit, participation, accountability, or oversight beyond what these sources permit:, Article XX (Comprehensibility and Complexity Stewardship), CJS-3.11 (distributed and"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "audits",
+            "complexity",
+            "critical",
+            "independent",
+            "periodic",
+            "systems",
+            "undergo"
+          ],
+          "text": "Critical systems must undergo periodic independent complexity audits."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "audit",
+            "capacity",
+            "cascading",
+            "chains",
+            "coupling",
+            "dependency",
+            "evaluate",
+            "failure",
+            "hidden",
+            "human",
+            "intervention",
+            "modes",
+            "modularity",
+            "observability",
+            "oversight",
+            "risks",
+            "transparency"
+          ],
+          "text": "Each audit must evaluate transparency and observability, dependency chains and hidden coupling, failure modes and cascading risks, and the capacity for human oversight and intervention., Modularity."
+        },
+        {
+          "modality": "EXPECTATION",
+          "terms": [
+            "architecture",
+            "clear",
+            "components",
+            "interfaces",
+            "modular",
+            "responsibilities",
+            "system",
+            "use"
+          ],
+          "text": "System architecture should use modular components with clear responsibilities and interfaces."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "across",
+            "component-level",
+            "consequences",
+            "create",
+            "innovation",
+            "redundancy",
+            "systems",
+            "unmanaged"
+          ],
+          "text": "Component-level innovation must not create unmanaged consequences across other systems., Redundancy."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "critical",
+            "fail-safe",
+            "failure",
+            "incorporate",
+            "infrastructure",
+            "mechanisms",
+            "points",
+            "prevent",
+            "redundancy",
+            "single"
+          ],
+          "text": "Critical infrastructure must incorporate redundancy and fail-safe mechanisms to prevent single points of failure."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "essential",
+            "failure",
+            "feasible",
+            "implementations",
+            "independent",
+            "learning",
+            "multiple",
+            "systems"
+          ],
+          "text": "Where feasible, it must include multiple independent implementations of essential systems., Learning from failure."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "anomalies",
+            "failures",
+            "feed",
+            "learning",
+            "near-misses",
+            "post-incident",
+            "transparent"
+          ],
+          "text": "Failures, anomalies, and near-misses must feed transparent post-incident learning."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "blame",
+            "focus",
+            "learning",
+            "periodic",
+            "rather",
+            "simplification",
+            "systemic",
+            "weaknesses"
+          ],
+          "text": "That learning must focus on systemic weaknesses rather than on blame., Periodic simplification."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "clarity",
+            "complexity",
+            "dependencies",
+            "doing",
+            "excessive",
+            "governance",
+            "institutions",
+            "operability",
+            "outdated",
+            "periodically",
+            "preserves",
+            "processes",
+            "redundant",
+            "remove",
+            "resilience",
+            "rules",
+            "simplify",
+            "unnecessary"
+          ],
+          "text": "Governance institutions must periodically simplify or remove unnecessary complexity, redundant processes, outdated rules, or excessive dependencies, where doing so preserves clarity, operability, and resilience."
+        }
+      ]
+    }
+  },
+  "after": {
+    "generated": "2026-09-10",
+    "files": {
+      "corpus_systems/cs_00_registry_and_reading_rules.md": [
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "article",
+            "chapter",
+            "constitution",
+            "numbers",
+            "read",
+            "sentient",
+            "they"
+          ],
+          "text": "They must not be read as Sentient Constitution Article or chapter numbers."
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "abbreviation",
+            "appear",
+            "editor",
+            "ids",
+            "owner",
+            "references",
+            "routing",
+            "short",
+            "stable",
+            "tables"
+          ],
+          "text": "The editor abbreviation CS may appear in owner tables, stable IDs, and short routing references"
+        },
+        {
+          "modality": "EXPECTATION",
+          "terms": [
+            "citations",
+            "label",
+            "plus",
+            "practical",
+            "prefer",
+            "section"
+          ],
+          "text": "but citations should prefer plus the CS section label where practical."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "citations",
+            "cs-n",
+            "identifier",
+            "new",
+            "use"
+          ],
+          "text": "New citations must use the CS-N identifier."
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "abstractions",
+            "cited",
+            "cjs",
+            "definitions",
+            "joint",
+            "operational",
+            "owner",
+            "specialize",
+            "systems-local",
+            "text"
+          ],
+          "text": "Systems-local abstractions may specialize CJS joint operational definitions cited in owner text"
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "constitutional",
+            "create",
+            "definitions",
+            "parallel",
+            "redefine",
+            "terms"
+          ],
+          "text": "but must not redefine constitutional terms or create parallel constitutional definitions."
+        }
+      ],
+      "corpus_systems/cs_01_scope_purpose_identifier_rules.md": [
+        {
+          "modality": "DUTY",
+          "terms": [
+            "apply",
+            "belong",
+            "cjs",
+            "cjs-",
+            "cluster",
+            "cross-layer",
+            "definitions",
+            "interfaces",
+            "joint",
+            "library",
+            "more",
+            "operational",
+            "reusable",
+            "satisfied",
+            "together",
+            "two"
+          ],
+          "text": "joint operational definitions, and joint cross-layer interfaces that apply when two or more of CJS, CS, CI, and CF must be satisfied together \u2014 those belong to CJS (reusable joint operational definitions in CJS-3 (operat"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "adds",
+            "adopted",
+            "adoption",
+            "constitution",
+            "detail",
+            "how-to",
+            "satisfy",
+            "scope",
+            "sentient",
+            "systems-and-data",
+            "text"
+          ],
+          "text": "Adopted CS text adds systems-and-data how-to detail within adoption scope; it must satisfy the Sentient Constitution"
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "constitutional",
+            "floors",
+            "requirements",
+            "rights",
+            "weaken"
+          ],
+          "text": "and must not weaken constitutional requirements or Rights Floors."
+        }
+      ],
+      "corpus_systems/cs_05_design_testing_verification_deployment.md": [
+        {
+          "modality": "DUTY",
+          "terms": [
+            "capabilities",
+            "constitution",
+            "defines",
+            "outcomes"
+          ],
+          "text": "This constitution defines required capabilities and outcomes."
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "aligned",
+            "auditable",
+            "constitutional",
+            "evolve",
+            "implementations",
+            "principles",
+            "provided",
+            "remain",
+            "specific",
+            "technical",
+            "they"
+          ],
+          "text": "Specific technical implementations may evolve, provided they remain auditable and aligned with constitutional principles."
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "categories",
+            "file",
+            "functional",
+            "overlap",
+            "system"
+          ],
+          "text": "System categories in this file are functional and may overlap."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "community",
+            "constitutional",
+            "deployments",
+            "designed",
+            "holistic",
+            "new",
+            "wellbeing"
+          ],
+          "text": "New deployments must be designed for the holistic wellbeing of the constitutional community"
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "avoidable",
+            "harm",
+            "introduce"
+          ],
+          "text": "and must not introduce avoidable harm."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "applied",
+            "classification",
+            "critical",
+            "cs-",
+            "dependency",
+            "file",
+            "handling",
+            "impact",
+            "proportionally",
+            "requirements",
+            "scope",
+            "stewardship",
+            "system"
+          ],
+          "text": "Requirements in this file must be applied proportionally to system scope, impact, and dependency under CS-3 \u2014 System classification and handling and CS-4 \u2014 Critical system stewardship."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "alignment",
+            "autonomy",
+            "behavior",
+            "cf-",
+            "changes",
+            "chapter",
+            "constitutional",
+            "dependency",
+            "eleven",
+            "existing",
+            "forum",
+            "impact",
+            "incentive",
+            "material",
+            "materially",
+            "new",
+            "official",
+            "pathways",
+            "prepared",
+            "profile",
+            "recognition",
+            "review",
+            "risk",
+            "scope",
+            "structure",
+            "systems",
+            "through",
+            "whose"
+          ],
+          "text": "New systems with material impact, and existing systems whose scope, behavior, dependency, autonomy, incentive structure, or risk profile materially changes, must be prepared for official constitutional alignment recognit"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "classification",
+            "evaluate",
+            "evidence",
+            "forum",
+            "impact",
+            "maintain",
+            "monitoring",
+            "ongoing",
+            "owners",
+            "packages",
+            "readiness",
+            "remediation",
+            "residual",
+            "risk",
+            "scope",
+            "stakeholder",
+            "sufficient",
+            "system",
+            "testing"
+          ],
+          "text": "System owners must maintain evidence packages sufficient for the forum to evaluate scope, classification, testing, stakeholder impact, residual risk, remediation readiness, and ongoing monitoring."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "analysis",
+            "baseline",
+            "burden",
+            "cadence",
+            "component",
+            "contest",
+            "dependency",
+            "duty",
+            "ecological",
+            "environment",
+            "environmental-alignment",
+            "environmental-precondition",
+            "evidence",
+            "exposure",
+            "failure",
+            "foreseeable",
+            "forum",
+            "lifecycle",
+            "material",
+            "modes",
+            "monitoring",
+            "package",
+            "path",
+            "plan",
+            "reasonably",
+            "remediation",
+            "resource-flow",
+            "restoration",
+            "review",
+            "risk",
+            "support",
+            "system",
+            "uncertainty"
+          ],
+          "text": "Where a system has material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk, the evidence package must also support Environment fo"
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "article",
+            "class",
+            "classification",
+            "conditions",
+            "containment",
+            "cs-",
+            "disclosure",
+            "eligibility",
+            "externalization",
+            "handling",
+            "opt-in",
+            "owned",
+            "read",
+            "reduced-requirement",
+            "rights-floor",
+            "sandboxed",
+            "scope",
+            "system",
+            "treatment",
+            "valid",
+            "xvii-a",
+            "xvii-b"
+          ],
+          "text": "Rights-floor eligibility, reduced-requirement conditions, disclosure, containment, and prohibited externalization are owned by Article XVII-A (Sandboxed Scope) and Article XVII-B (Containment, Disclosure, and Opt-In), re"
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "audit",
+            "conditions",
+            "deployment",
+            "depth",
+            "environment",
+            "hold",
+            "lighter",
+            "rigor",
+            "separation"
+          ],
+          "text": "Where those conditions hold, environment separation, deployment rigor, and audit depth under \u00a77 may be lighter."
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "deployment",
+            "full",
+            "iteration",
+            "maintain",
+            "multi-environment",
+            "need",
+            "prioritize",
+            "rapid",
+            "simplicity",
+            "structures",
+            "systems"
+          ],
+          "text": "Such systems may prioritize simplicity and rapid iteration and need not maintain full multi-environment deployment structures."
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "artistic",
+            "contained",
+            "creative",
+            "demonstrably",
+            "entertainment",
+            "environment",
+            "environments",
+            "experiential",
+            "expression",
+            "feature",
+            "higher",
+            "narrow",
+            "only",
+            "primarily",
+            "production",
+            "profile",
+            "remains",
+            "risk",
+            "simplified",
+            "stakeholder-driven",
+            "structures",
+            "systems",
+            "systems-layer",
+            "use",
+            "velocity",
+            "while",
+            "xvii"
+          ],
+          "text": "Systems-layer profile (does not narrow XVII): systems primarily for creative expression, entertainment, artistic production, or stakeholder-driven experiential environments may use higher feature velocity and simplified "
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "already",
+            "article",
+            "artistic",
+            "autonomous",
+            "closely",
+            "compliance",
+            "covered",
+            "data",
+            "dependency",
+            "environments",
+            "following",
+            "identity",
+            "impact",
+            "impactful",
+            "integration",
+            "interoperable",
+            "irreversibility",
+            "materially",
+            "originating",
+            "outside",
+            "persistent",
+            "present",
+            "reputation",
+            "scoped",
+            "shared-system",
+            "stakeholder",
+            "system",
+            "tests",
+            "toward",
+            "transferable",
+            "transition",
+            "value",
+            "xvii-c"
+          ],
+          "text": "Transition toward \u00a77 compliance is required when any of the following is present and not already covered by Article XVII-C's impact, dependency, irreversibility, or shared-system integration tests: persistent stakeholder"
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "acting",
+            "affect",
+            "agent",
+            "agents",
+            "behavior",
+            "beyond",
+            "collective",
+            "defined",
+            "environments",
+            "external",
+            "gaming",
+            "influence",
+            "markets",
+            "measurable",
+            "scope",
+            "semi-autonomous",
+            "simulation",
+            "stakeholders",
+            "systems",
+            "testing",
+            "training",
+            "used"
+          ],
+          "text": "or semi-autonomous agents acting for stakeholders that may affect external systems (including gaming or simulation environments used for agent testing or training), measurable influence on external systems, markets, or c"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "articles",
+            "audit",
+            "challenge",
+            "completed",
+            "documented",
+            "impact",
+            "proportionate",
+            "reasonable",
+            "remain",
+            "subject",
+            "timeframe",
+            "transitions",
+            "xii-b",
+            "xv-a"
+          ],
+          "text": "Transitions must be documented, completed within a reasonable timeframe proportionate to impact, and remain subject to audit and challenge under Articles XV-A and XII-B."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "controls",
+            "current",
+            "during",
+            "environment-isolation",
+            "interim",
+            "meet",
+            "progressive-deployment",
+            "proportionate",
+            "risk",
+            "safeguards",
+            "transition"
+          ],
+          "text": "Interim safeguards during transition must meet \u00a77 environment-isolation and progressive-deployment controls proportionate to current risk."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "accurately",
+            "across",
+            "activity",
+            "boundary",
+            "bypass",
+            "changes",
+            "environment",
+            "environments",
+            "experimental",
+            "fragment",
+            "high-impact",
+            "impact",
+            "integrity",
+            "label",
+            "never",
+            "non-production",
+            "obscure",
+            "operational",
+            "presentation",
+            "production",
+            "production-ready",
+            "progression",
+            "real",
+            "route",
+            "safeguards",
+            "systems",
+            "through",
+            "unvalidated"
+          ],
+          "text": "Boundary and presentation integrity: do not route production activity through non-production environments to bypass safeguards; do not fragment systems across environments to obscure real operational impact; accurately l"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "applicable",
+            "articles",
+            "comply",
+            "fully",
+            "qualify",
+            "subsection",
+            "systems",
+            "xvii-a",
+            "xvii-b"
+          ],
+          "text": "Systems that do not qualify under Articles XVII-A and XVII-B (and \u00a7\u00a72, 3, or 6 where applicable) must comply fully with this subsection."
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "affect",
+            "builder",
+            "only",
+            "remain",
+            "simple",
+            "systems"
+          ],
+          "text": "Systems that affect only the builder may remain simple."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "design",
+            "ecosystem",
+            "enable",
+            "exposing",
+            "guiding",
+            "improvement",
+            "infrastructure",
+            "iteration",
+            "learning",
+            "principles",
+            "rapid",
+            "risk",
+            "safe",
+            "sentients",
+            "shared",
+            "unnecessary"
+          ],
+          "text": "Guiding principles \u2014 safe iteration: Design must enable rapid learning and improvement without exposing sentients, shared infrastructure, or the ecosystem to unnecessary risk."
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "corporate",
+            "creative",
+            "ecology",
+            "games",
+            "harm",
+            "high-velocity",
+            "innovation",
+            "interfaces",
+            "internal",
+            "material",
+            "natural",
+            "only",
+            "prioritize",
+            "sandboxed",
+            "sentient-facing",
+            "similar",
+            "small-scale",
+            "social",
+            "software",
+            "survivability",
+            "systems",
+            "tools"
+          ],
+          "text": "Sentient-facing systems (creative tools, social interfaces, small-scale internal corporate software, games, and similar) may prioritize high-velocity innovation only when sandboxed from material harm to survivability and"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "articles",
+            "detect",
+            "document",
+            "foundational",
+            "iii",
+            "monitoring",
+            "requirements",
+            "respond",
+            "sufficient",
+            "violations"
+          ],
+          "text": "Monitoring must be sufficient to detect, document, and respond to violations of foundational requirements (Articles I\u2013III and V)."
+        },
+        {
+          "modality": "EXPECTATION",
+          "terms": [
+            "accessible",
+            "community",
+            "constitutional",
+            "deployment",
+            "designs",
+            "foundational",
+            "integrity",
+            "logs",
+            "open-source",
+            "transparent"
+          ],
+          "text": "Open-source integrity: Foundational designs and deployment logs should be transparent and accessible to the constitutional community."
+        },
+        {
+          "modality": "EXPECTATION",
+          "terms": [
+            "align",
+            "cjs-",
+            "cs-",
+            "data-format",
+            "dependency",
+            "design",
+            "discipline",
+            "exit-integrity",
+            "hardware",
+            "impact",
+            "interoperability",
+            "material",
+            "open",
+            "operational",
+            "portability",
+            "preference",
+            "protocol",
+            "scales",
+            "software",
+            "stacks",
+            "stewardship",
+            "systems",
+            "terms",
+            "tier"
+          ],
+          "text": "Open hardware, open software, open systems: Operational design and stewardship should align with CJS-3.17 (interoperability, portability, and exit-integrity terms) \u2014 Open hardware, open software, and open systems \u2014 and C"
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "api",
+            "bounded",
+            "burden-of-justification",
+            "cjs-",
+            "class",
+            "classification",
+            "constraint",
+            "disclosure",
+            "expectations",
+            "experimental",
+            "format",
+            "high-tier",
+            "inspectability",
+            "interchange-protocol",
+            "justification",
+            "narrowing",
+            "paths",
+            "proprietary",
+            "rules",
+            "schema",
+            "scopes",
+            "set",
+            "stronger",
+            "substitutability",
+            "systems",
+            "terms",
+            "tier"
+          ],
+          "text": "Classification and tier rules may set stronger disclosure, inspectability, substitutability, format, schema, API, or interchange-protocol expectations for Class A, Class B, and high-tier systems than for bounded or exper"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "auditably",
+            "choices",
+            "closed"
+          ],
+          "text": "or closed choices are auditably required."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "alteration",
+            "article",
+            "baseline",
+            "complexity",
+            "comprehensibility",
+            "cs-",
+            "design",
+            "disrupts",
+            "file",
+            "force",
+            "innovation",
+            "modular",
+            "module",
+            "modules",
+            "one",
+            "only",
+            "requirements",
+            "requires",
+            "route",
+            "stewardship",
+            "verified",
+            "way"
+          ],
+          "text": "Comprehensibility and complexity stewardship for modular design route to CS-6 and Article XX; this file only requires that innovation in one verified module must not force alteration of other verified modules in a way th"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "degradation",
+            "ecological",
+            "sentient-driven",
+            "simulation",
+            "surface",
+            "threats"
+          ],
+          "text": "Simulation must surface sentient-driven threats and ecological degradation."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "biological",
+            "cjs-",
+            "effects",
+            "info-sphere",
+            "integrity",
+            "modeling",
+            "read",
+            "synthetic",
+            "worst-case"
+          ],
+          "text": "It must include worst-case modeling for biological and synthetic effects and for info-sphere integrity, read with CJS-3.19 and CJS-3.21."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "article",
+            "auditable",
+            "deployment",
+            "gradual",
+            "high-impact",
+            "iterative",
+            "rollout",
+            "transparent",
+            "xvi-b"
+          ],
+          "text": "Iterative, transparent deployment: High-impact rollout must be gradual and auditable under Article XVI-B."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "compensatory",
+            "containment",
+            "full",
+            "infeasible",
+            "non-experimental",
+            "restoration",
+            "rollback",
+            "support",
+            "systems"
+          ],
+          "text": "Non-experimental systems must support rollback, containment, or compensatory restoration where full rollback is infeasible."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "article",
+            "chapter",
+            "demand",
+            "deployment",
+            "extent",
+            "five",
+            "foundational",
+            "one",
+            "prior",
+            "requirements",
+            "reversion",
+            "stable",
+            "state",
+            "violate",
+            "would",
+            "xvi-b"
+          ],
+          "text": "Where deployment would violate foundational requirements, reversion to a prior stable state is required to the extent Article XVI-B, Chapter One, and Chapter Five demand."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "avoid",
+            "environment",
+            "harm",
+            "lasting",
+            "natural",
+            "reversion",
+            "sentients"
+          ],
+          "text": "That reversion must avoid lasting harm to sentients or the natural environment."
+        },
+        {
+          "modality": "EXPECTATION",
+          "terms": [
+            "agentic",
+            "architecture",
+            "autonomy",
+            "clarity",
+            "design",
+            "engagement",
+            "favor",
+            "goals",
+            "metrics",
+            "platform-defined",
+            "stakeholder",
+            "stakeholder-directed",
+            "wellbeing"
+          ],
+          "text": "Design for agentic wellbeing: Architecture should favor stakeholder autonomy: clarity over engagement, and stakeholder-directed goals over platform-defined metrics."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "clearly",
+            "defined",
+            "development",
+            "environments",
+            "operational",
+            "separable",
+            "systems",
+            "test",
+            "use"
+          ],
+          "text": "Development and test environments: Systems must use clearly defined, separable operational environments."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "anomalies",
+            "behavior",
+            "experimental",
+            "failures",
+            "non-production",
+            "production",
+            "propagate"
+          ],
+          "text": "Failures, anomalies, or experimental behavior in non-production must not propagate into production."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "audit",
+            "behaviors",
+            "data",
+            "enter",
+            "explicit",
+            "non-production",
+            "production",
+            "state",
+            "transitions",
+            "validation"
+          ],
+          "text": "Data, behaviors, or state transitions from non-production must not enter production without explicit validation and audit."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "audit",
+            "checks",
+            "integrity",
+            "non-production",
+            "persistent",
+            "production",
+            "promoted",
+            "states",
+            "validation"
+          ],
+          "text": "Persistent states from non-production must not be promoted to production without validation, audit, and integrity checks."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "access",
+            "authorization",
+            "controls",
+            "credentials",
+            "cross-environment",
+            "encryption",
+            "keys",
+            "non-production",
+            "originating",
+            "permissions",
+            "production",
+            "reused",
+            "secrets",
+            "tokens"
+          ],
+          "text": "Cross-environment authorization: Credentials, access controls, permissions, tokens/secrets, and encryption keys originating in non-production must not be reused in production."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "authentication",
+            "authorization",
+            "between",
+            "boundaries",
+            "environments",
+            "remain",
+            "separated",
+            "strictly"
+          ],
+          "text": "Boundaries: Authentication and authorization must remain strictly separated between environments."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "credentials",
+            "environment-specific",
+            "independently",
+            "managed",
+            "secrets"
+          ],
+          "text": "Secrets and credentials must be environment-specific and independently managed."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "access",
+            "compromise",
+            "grant",
+            "non-production",
+            "production"
+          ],
+          "text": "Compromise of non-production must not grant production access."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "against",
+            "article",
+            "between",
+            "chapter",
+            "cjs-",
+            "consistent",
+            "constitutional",
+            "containment",
+            "continuity",
+            "documented",
+            "environments",
+            "escalation",
+            "evaluated",
+            "five",
+            "justified",
+            "requirements",
+            "reversibility",
+            "rollback",
+            "terms",
+            "xvi-b"
+          ],
+          "text": "Escalation between environments must be justified, documented, evaluated against constitutional requirements, and include rollback and containment consistent with Article XVI-B, Chapter Five (Reversibility), and CJS-3.20"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "adversarial",
+            "behavior",
+            "ecosystem",
+            "environments",
+            "expected",
+            "failures",
+            "interactions",
+            "scenarios",
+            "simulation",
+            "stakeholder",
+            "stress",
+            "support",
+            "system",
+            "testing",
+            "worst-case"
+          ],
+          "text": "Simulation and stress testing: Testing environments must support expected and adversarial simulation, including system failures, stakeholder behavior, ecosystem interactions, and worst-case scenarios."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "adaptive",
+            "allocation",
+            "applicable",
+            "before",
+            "decisions",
+            "demonstrate",
+            "document",
+            "high-impact",
+            "inform",
+            "known",
+            "limitations",
+            "production",
+            "resilience",
+            "risks",
+            "stress",
+            "systems"
+          ],
+          "text": "High-impact systems must demonstrate resilience under stress before production, document limitations and known risks, and inform adaptive allocation decisions where applicable."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "analysis",
+            "article",
+            "attribution",
+            "causal",
+            "cause",
+            "diagnostic",
+            "environments",
+            "rca",
+            "rigor",
+            "root",
+            "satisfy",
+            "xxi-a"
+          ],
+          "text": "Root cause analysis (Article XXI-A (Diagnostic Rigor and Causal Attribution)): RCA in these environments must satisfy Article XXI-A."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "causes",
+            "corrective",
+            "environments",
+            "failures",
+            "interventions",
+            "isolation",
+            "reproduction",
+            "root",
+            "support",
+            "validation"
+          ],
+          "text": "Environments must support reproduction of failures, isolation of root causes, and validation of corrective interventions."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "anti-capture",
+            "authority",
+            "bounded",
+            "checks",
+            "class",
+            "constitutional",
+            "contestable",
+            "continuity",
+            "crisis",
+            "during",
+            "interpretation",
+            "interpretive",
+            "operation",
+            "plans",
+            "preserve"
+          ],
+          "text": "Interpretive authority continuity and anti-capture checks: For Class A and Class B, continuity plans must preserve bounded and contestable constitutional interpretation during crisis operation."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "across",
+            "after",
+            "authority",
+            "cannot",
+            "conflict",
+            "consecutive",
+            "constitutional",
+            "constraints",
+            "controls",
+            "cycles",
+            "decision-makers",
+            "determinations",
+            "disclosure",
+            "emergency",
+            "immediate",
+            "independent",
+            "interpretive",
+            "mandatory",
+            "monopolize",
+            "once",
+            "pathways",
+            "permit",
+            "plans",
+            "publication",
+            "reasoning",
+            "recusal",
+            "review",
+            "role",
+            "safety",
+            "secondary",
+            "single",
+            "stabilization",
+            "temporary"
+          ],
+          "text": "Plans must include: (a) temporary role pathways that a single authority cannot monopolize across consecutive cycles, (b) conflict disclosure and recusal controls for emergency decision-makers, (c) mandatory publication o"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "adjudication",
+            "article",
+            "chapter",
+            "cjs-",
+            "consistent",
+            "integrity",
+            "justice",
+            "objective",
+            "procedural",
+            "review",
+            "scope",
+            "six",
+            "terms",
+            "xxiii-a"
+          ],
+          "text": "That review must be consistent with Chapter Six, Article XXIII-A (Justice Objective and Scope) and CJS-3.13 (procedural integrity and adjudication terms)."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "applies",
+            "authority",
+            "chapter",
+            "cjs-",
+            "definitional",
+            "detail",
+            "distributed",
+            "five",
+            "legitimacy",
+            "necessity",
+            "one",
+            "ongoing",
+            "participatory",
+            "proportional",
+            "proportionality",
+            "quorum",
+            "record",
+            "scaling",
+            "show",
+            "terms"
+          ],
+          "text": "That record must show ongoing necessity and proportionality (CJS-3.11 (distributed and proportional authority terms) and CJS-3.7 (quorum and participatory legitimacy terms); Chapter One and Chapter Five where definitiona"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "alternatives",
+            "feasible",
+            "insufficient",
+            "less-restrictive",
+            "show",
+            "why"
+          ],
+          "text": "It must also show why less-restrictive feasible alternatives are insufficient."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "alternatives",
+            "audit",
+            "capture",
+            "considered",
+            "crisis",
+            "evidence",
+            "execution",
+            "extension",
+            "outcomes",
+            "rationale",
+            "records",
+            "restoration",
+            "retrospective",
+            "review",
+            "rollback",
+            "status",
+            "trigger"
+          ],
+          "text": "Crisis records must capture trigger evidence, alternatives considered, review outcomes, extension rationale, and rollback/restoration execution status for retrospective audit."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "access",
+            "accountable",
+            "auditable",
+            "cadence",
+            "closure",
+            "compensatory",
+            "completed",
+            "completion",
+            "deferred",
+            "disclosed",
+            "emergency",
+            "evidence",
+            "extraordinary",
+            "justify",
+            "longer",
+            "materially",
+            "measures",
+            "monitoring",
+            "objective",
+            "owners",
+            "participation",
+            "plan",
+            "predicates",
+            "records",
+            "residual",
+            "restoration",
+            "restored",
+            "rights",
+            "risks",
+            "rollback",
+            "show",
+            "time-bound",
+            "timelines"
+          ],
+          "text": "Closure records must: show objective evidence that (a) emergency predicates no longer materially justify extraordinary measures, show that (b) rollback or compensatory restoration was completed or is on a time-bound comp"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "findings",
+            "recorded",
+            "remediated"
+          ],
+          "text": "Findings must be recorded and remediated."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "behavior",
+            "capability",
+            "design",
+            "designed",
+            "emergent",
+            "one",
+            "records",
+            "recovery-path",
+            "self-healing"
+          ],
+          "text": "Recovery-path design records: Self-healing behavior must be a designed capability, not an emergent one."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "addresses",
+            "authority",
+            "classes",
+            "degradation",
+            "design",
+            "disclosed",
+            "envelope",
+            "expected",
+            "fault",
+            "identify",
+            "operates",
+            "path",
+            "paths",
+            "pre-fault",
+            "reach",
+            "records",
+            "recovery",
+            "restoration",
+            "targets",
+            "traverses"
+          ],
+          "text": "Design records must identify the fault classes the recovery path addresses, the disclosed degradation paths it traverses, the pre-fault authority envelope it operates within, and the restoration targets it is expected to"
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "access",
+            "article",
+            "bullet",
+            "containment",
+            "credential",
+            "cross-system",
+            "data",
+            "during",
+            "envelope",
+            "expansions",
+            "implementing",
+            "independently",
+            "pre-authorized",
+            "pre-fault",
+            "reach",
+            "recovery",
+            "reviewable",
+            "scope",
+            "tool",
+            "unless",
+            "xii-f"
+          ],
+          "text": "Expansions of tool access, data access, credential scope, or cross-system reach during recovery are prohibited unless pre-authorized in the pre-fault envelope and independently reviewable, implementing Article XII-F's Co"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "behavior",
+            "only",
+            "path",
+            "property",
+            "recovery-path",
+            "self-healing",
+            "steady-state",
+            "testable",
+            "testing",
+            "verification"
+          ],
+          "text": "Recovery-path testing and verification: Self-healing behavior must be testable as a path, not only as a steady-state property."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "accountability",
+            "actions",
+            "article",
+            "attempts",
+            "autonomy-scaling",
+            "cascading-failure",
+            "containment",
+            "cover",
+            "decisions",
+            "dependency",
+            "detection",
+            "graceful-degradation",
+            "high-autonomy",
+            "integrity",
+            "latency",
+            "observability",
+            "paths",
+            "preference",
+            "process",
+            "propagation",
+            "recovery",
+            "reversibility",
+            "safe-failure",
+            "scope",
+            "suppressed",
+            "systems",
+            "testing",
+            "tool-mediated",
+            "uncertainty",
+            "xii-e"
+          ],
+          "text": "Testing must cover detection latency, containment scope, graceful-degradation paths, safe-failure preference under uncertainty, reversibility of recovery actions, observability of recovery attempts including suppressed a"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "adversarial",
+            "attack",
+            "authority",
+            "contestability",
+            "emerging",
+            "example",
+            "expand",
+            "fault",
+            "path",
+            "re-route",
+            "recovery",
+            "scenarios",
+            "signal",
+            "suppress",
+            "surface",
+            "testing",
+            "triggering"
+          ],
+          "text": "Testing must include adversarial scenarios in which the recovery path is the attack surface (for example, triggering recovery to suppress an emerging fault signal; triggering recovery to expand authority; triggering reco"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "abuse",
+            "adversarial",
+            "cjs-",
+            "class",
+            "degradation",
+            "failure-mode",
+            "graceful",
+            "integrity",
+            "least",
+            "one",
+            "recovery-path",
+            "resistance",
+            "robustness",
+            "scenario",
+            "systems",
+            "testing"
+          ],
+          "text": "For Class A and Class B systems, recovery-path testing must include at least one scenario under each of CJS-3.19 (graceful degradation and failure-mode integrity) and CJS-3.21 (adversarial robustness and abuse resistance"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "least",
+            "observability",
+            "path",
+            "recovery",
+            "state",
+            "steady",
+            "strong"
+          ],
+          "text": "Observability of the recovery path must be at least as strong as observability of the steady state."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "article",
+            "baseline",
+            "behavior",
+            "below",
+            "compression",
+            "deduplication",
+            "event",
+            "evidence-retention",
+            "evidential",
+            "fidelity",
+            "log",
+            "non-compliant",
+            "recovery",
+            "reduce",
+            "windows",
+            "xv-a"
+          ],
+          "text": "Log compression, event deduplication, or evidence-retention windows that reduce evidential fidelity of recovery behavior below the Article XV-A baseline are non-compliant."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "able",
+            "both",
+            "handled",
+            "independent",
+            "path",
+            "reconstruct",
+            "recovery",
+            "suppressed",
+            "verification",
+            "what"
+          ],
+          "text": "Independent verification must be able to reconstruct both the recovery path and what the recovery path handled or suppressed."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "accurately",
+            "article",
+            "consistent",
+            "degraded",
+            "describe",
+            "disclosure",
+            "during",
+            "false",
+            "misleading",
+            "one",
+            "operation",
+            "participant-facing",
+            "prohibition",
+            "recovering",
+            "reliance",
+            "rights-floor-affected",
+            "state",
+            "trust",
+            "xii-c",
+            "xv-a"
+          ],
+          "text": "Participant-facing disclosure during degraded and recovering operation must accurately describe the state as a Rights-Floor-affected state where it is one, consistent with Article XII-C (Prohibition of False Trust and Mi"
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "article",
+            "narrowing",
+            "non-compliant",
+            "remains",
+            "silent",
+            "xii-f"
+          ],
+          "text": "Silent narrowing remains non-compliant under Article XII-F."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "article",
+            "bullet",
+            "classes",
+            "closure",
+            "confidence",
+            "discipline",
+            "disclosed",
+            "expected-closure",
+            "fault",
+            "implementing",
+            "levels",
+            "maintain",
+            "material",
+            "obligations",
+            "open",
+            "operators",
+            "ops",
+            "recording",
+            "recurring",
+            "register",
+            "root-cause",
+            "timeline",
+            "uncertainties",
+            "xii-f",
+            "xv-a"
+          ],
+          "text": "Root-cause closure discipline (ops register): Operators must maintain an open root-cause obligations register recording recurring fault classes, confidence levels, material uncertainties, and disclosed expected-closure t"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "across",
+            "class",
+            "closure",
+            "cycles",
+            "fault",
+            "incident",
+            "obligation",
+            "open",
+            "recurrence",
+            "root-cause",
+            "same",
+            "single",
+            "treated"
+          ],
+          "text": "Recurrence of the same fault class across cycles must be treated as a single open root-cause obligation and not as closure of each incident."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "affect",
+            "avoidable",
+            "burden",
+            "chapter",
+            "closure",
+            "consistent",
+            "defects",
+            "defer",
+            "floor",
+            "indefinite",
+            "materially",
+            "one",
+            "operator",
+            "reducing",
+            "rights",
+            "safety",
+            "used"
+          ],
+          "text": "Reducing operator burden consistent with Avoidable Burden under Chapter One \u00a76.3 must not be used to defer indefinite closure of defects that materially affect safety or the Rights Floor."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "article",
+            "authority",
+            "bypass",
+            "challenge",
+            "contestability",
+            "independent",
+            "recovery",
+            "used",
+            "verification",
+            "xii-b",
+            "xv-a"
+          ],
+          "text": "Recovery authority must not be used to bypass Contestability, challenge under Article XII-B, or independent verification under Article XV-A and Article XV."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "audit-event",
+            "contestability",
+            "during",
+            "emission",
+            "external-review",
+            "intake",
+            "internalization",
+            "pathways",
+            "recovery"
+          ],
+          "text": "Internalization of contestability intake, audit-event emission, or external-review pathways during recovery is prohibited"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "channels",
+            "external",
+            "independently",
+            "materially",
+            "remain",
+            "verifiable"
+          ],
+          "text": "such channels must remain materially external or independently verifiable."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "article",
+            "chapter",
+            "create",
+            "five",
+            "narrow",
+            "one",
+            "read",
+            "rights",
+            "self-healing",
+            "xii-f"
+          ],
+          "text": "It does not create rights and must not be read to narrow Article XII-F, Chapter One \u00a74.1, or Chapter Five Self-Healing."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "alignment",
+            "behavior",
+            "bounded",
+            "break",
+            "certification",
+            "conditions",
+            "controls",
+            "every",
+            "hold",
+            "identified",
+            "outcome",
+            "previously",
+            "recertification",
+            "record",
+            "reflected",
+            "regression",
+            "remediated",
+            "revalidation",
+            "safeguards",
+            "showing",
+            "still",
+            "system",
+            "testing",
+            "verified"
+          ],
+          "text": "Every recertification or revalidation of a system alignment certification record must include regression testing showing that previously verified behavior, controls, and safeguards still hold \u2014 or that any break is ident"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "accepted",
+            "certification",
+            "custom",
+            "failures",
+            "justification",
+            "known",
+            "record",
+            "regression",
+            "remediations",
+            "residual",
+            "results",
+            "risk",
+            "run",
+            "scope",
+            "standard",
+            "state",
+            "suites",
+            "test",
+            "tests"
+          ],
+          "text": "The certification record must state the regression scope, standard test suites run, custom tests run, results, known failures, remediations, and any accepted residual risk with justification."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "abuse",
+            "abuse-resistance",
+            "alone",
+            "appropriate",
+            "assigned",
+            "baseline",
+            "both",
+            "cjs-",
+            "class",
+            "cover",
+            "coverage",
+            "cs-",
+            "custom",
+            "data",
+            "dependencies",
+            "domain",
+            "failure",
+            "failure-mode",
+            "handling",
+            "information",
+            "known",
+            "model",
+            "modes",
+            "recertification",
+            "regression",
+            "scope",
+            "security",
+            "standard",
+            "suites",
+            "system",
+            "system-specific",
+            "systems",
+            "testing",
+            "tests",
+            "threat",
+            "types",
+            "would"
+          ],
+          "text": "For Class A, Class B, and Class C systems, regression testing on each recertification must include both: Standard tests: baseline suites appropriate to the assigned class and domain, including baseline security, abuse-re"
+        },
+        {
+          "modality": "PERMISSION",
+          "terms": [
+            "classification",
+            "deployment",
+            "development",
+            "environments",
+            "escalation",
+            "evidence",
+            "file",
+            "forum",
+            "initial",
+            "lifecycle",
+            "monitoring",
+            "packages",
+            "pre-deployment",
+            "prepared",
+            "progressive",
+            "readiness",
+            "recognition",
+            "rely",
+            "remediation",
+            "residual",
+            "review",
+            "risk",
+            "scope",
+            "simulation",
+            "stress",
+            "test",
+            "testing"
+          ],
+          "text": "Initial recognition may rely on pre-deployment evidence prepared under this file, including: Forum recognition and lifecycle review: evidence packages for scope, classification, testing, residual risk, remediation readin"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "class",
+            "cover",
+            "drills",
+            "evidence",
+            "exercises",
+            "file",
+            "findings",
+            "recovery-path",
+            "remediated",
+            "requires",
+            "systems",
+            "testing",
+            "them",
+            "verification"
+          ],
+          "text": "For Class A and Class B systems, that evidence must also cover: Recovery-path testing and verification; and, remediated Exercises and drills findings where this file requires them."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "alignment",
+            "analysis",
+            "before",
+            "cause",
+            "changes",
+            "corrective",
+            "coverage",
+            "deployment",
+            "extend",
+            "forum",
+            "later",
+            "lifecycle",
+            "material",
+            "measures",
+            "ongoing",
+            "prior",
+            "read",
+            "recertification",
+            "recognition",
+            "record",
+            "regression",
+            "requirement",
+            "rerun",
+            "review",
+            "root",
+            "since",
+            "validate"
+          ],
+          "text": "Each later recertification must rerun or extend regression coverage for material changes since the prior record, read with Forum recognition and lifecycle review (ongoing alignment review), Root cause analysis, and the r"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "accepted",
+            "certification",
+            "confirmation",
+            "defects",
+            "feasible",
+            "fixes",
+            "material",
+            "missing",
+            "regression",
+            "regressions",
+            "results",
+            "stale",
+            "testing",
+            "treated",
+            "unfixed"
+          ],
+          "text": "Missing regression testing, stale results, unfixed regressions, or material fixes accepted without regression confirmation where feasible must be treated as certification defects."
+        }
+      ],
+      "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md": [
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "accountability",
+            "applicable",
+            "article",
+            "audit",
+            "authority",
+            "barrier",
+            "become",
+            "beyond",
+            "chapter",
+            "cjs-",
+            "complexity",
+            "comprehensibility",
+            "constraints",
+            "distributed",
+            "five",
+            "independent",
+            "legitimacy",
+            "one",
+            "oversight",
+            "participation",
+            "participatory",
+            "permit",
+            "practical",
+            "proportional",
+            "quorum",
+            "sources",
+            "stewardship",
+            "terms",
+            "what"
+          ],
+          "text": "Complexity must not become a practical barrier to audit, participation, accountability, or oversight beyond what these sources permit:, Article XX (Comprehensibility and Complexity Stewardship), CJS-3.11 (distributed and"
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "audits",
+            "complexity",
+            "critical",
+            "independent",
+            "periodic",
+            "systems",
+            "undergo"
+          ],
+          "text": "Critical systems must undergo periodic independent complexity audits."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "audit",
+            "capacity",
+            "cascading",
+            "chains",
+            "coupling",
+            "dependency",
+            "evaluate",
+            "failure",
+            "hidden",
+            "human",
+            "intervention",
+            "modes",
+            "modularity",
+            "observability",
+            "oversight",
+            "risks",
+            "transparency"
+          ],
+          "text": "Each audit must evaluate transparency and observability, dependency chains and hidden coupling, failure modes and cascading risks, and the capacity for human oversight and intervention., Modularity."
+        },
+        {
+          "modality": "EXPECTATION",
+          "terms": [
+            "architecture",
+            "clear",
+            "components",
+            "interfaces",
+            "modular",
+            "responsibilities",
+            "system",
+            "use"
+          ],
+          "text": "System architecture should use modular components with clear responsibilities and interfaces."
+        },
+        {
+          "modality": "PROHIBITION",
+          "terms": [
+            "across",
+            "component-level",
+            "consequences",
+            "create",
+            "innovation",
+            "redundancy",
+            "systems",
+            "unmanaged"
+          ],
+          "text": "Component-level innovation must not create unmanaged consequences across other systems., Redundancy."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "critical",
+            "fail-safe",
+            "failure",
+            "incorporate",
+            "infrastructure",
+            "mechanisms",
+            "points",
+            "prevent",
+            "redundancy",
+            "single"
+          ],
+          "text": "Critical infrastructure must incorporate redundancy and fail-safe mechanisms to prevent single points of failure."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "essential",
+            "failure",
+            "feasible",
+            "implementations",
+            "independent",
+            "learning",
+            "multiple",
+            "systems"
+          ],
+          "text": "Where feasible, it must include multiple independent implementations of essential systems., Learning from failure."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "anomalies",
+            "failures",
+            "feed",
+            "learning",
+            "near-misses",
+            "post-incident",
+            "transparent"
+          ],
+          "text": "Failures, anomalies, and near-misses must feed transparent post-incident learning."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "blame",
+            "focus",
+            "learning",
+            "periodic",
+            "rather",
+            "simplification",
+            "systemic",
+            "weaknesses"
+          ],
+          "text": "That learning must focus on systemic weaknesses rather than on blame., Periodic simplification."
+        },
+        {
+          "modality": "DUTY",
+          "terms": [
+            "clarity",
+            "complexity",
+            "dependencies",
+            "doing",
+            "excessive",
+            "governance",
+            "institutions",
+            "operability",
+            "outdated",
+            "periodically",
+            "preserves",
+            "processes",
+            "redundant",
+            "remove",
+            "resilience",
+            "rules",
+            "simplify",
+            "unnecessary"
+          ],
+          "text": "Governance institutions must periodically simplify or remove unnecessary complexity, redundant processes, outdated rules, or excessive dependencies, where doing so preserves clarity, operability, and resilience."
+        }
+      ]
+    }
+  },
+  "findings": [],
+  "notes": []
+}

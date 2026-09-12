@@ -1,0 +1,44 @@
+{
+  "edition": "SC-Corpus-2026.08.09",
+  "effective_date": "2026-08-09",
+  "status": "process_support_not_binding",
+  "cannot_narrow_core": true,
+  "items": [
+    {
+      "id": "preamble_model",
+      "file": "core_00_preamble.md",
+      "anchor": "#1-the-model",
+      "title": "1. The Model",
+      "plain_terms": "four duties — participation, oversight, accountability, and timeliness — scale with how much impact, dependence, and risk are on the line, and they serve two aims together: Flourishing and Continuity, inside a Rights Floor that does not move.",
+      "href": "../../core_00_preamble.md#1-the-model"
+    },
+    {
+      "id": "preamble_pipelines",
+      "file": "core_00_preamble.md",
+      "anchor": "#5-key-practical-process-pipelines",
+      "title": "5. Key Practical Process Pipelines",
+      "plain_terms": "Chapters Seven through Eleven are one chain — certify the system, measure help and harm on two separate tracks, apply real effects and remedy, and keep forums from being the sole final home for a claim against themselves — so duties stay real in daily life.",
+      "href": "../../core_00_preamble.md#5-key-practical-process-pipelines"
+    },
+    {
+      "id": "conflict_resolution",
+      "file": "core_01_b_interaction_interpretation.md",
+      "anchor": "#84-constitutional-meaning-conflict-resolution",
+      "title": "8.4 Constitutional Meaning Conflict Resolution",
+      "plain_terms": "when texts conflict, apply this order — Constitution and non-regression first, then integrated reading of the binding source, then incorporated obligations together. Do not skip a layer to get a preferred result.",
+      "href": "../../core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution"
+    },
+    {
+      "id": "shared_stewardship",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "anchor": "#911-shared-stewardship-standard",
+      "title": "9.1.1 Shared Stewardship Standard",
+      "plain_terms": "human and AI stewards owe the same Chapter One duties. Companions may add logging, attribution, and capability limits. They may not swap in a softer internal code, skip standing measurement, or close contest pathways. The bonus, the deadline, and “ignore it, I’ll take responsibility” are failed tests for human operators too — recorded on the same standing axes, with the same duty to resist. Testing only machine agents while humans keep those paths is a capture path, not a shared standard. This is not a new morals stack — it is the anti-special-pleading rule.",
+      "href": "../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard"
+    }
+  ],
+  "rights_floor_sheet": "doc_architecture/generated/rights_floor_sheet.md",
+  "rights_floor_count": 126,
+  "next_step_classes": "doc_architecture/generated/next_step_classes.md",
+  "next_step_class_count": 17
+}

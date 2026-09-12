@@ -14,16 +14,25 @@ import sys
 from pathlib import Path
 
 
-PART_B = "core_05-05_definitions_b_semi_independent.md"
-PART_C = "core_05-05_definitions_c_dependent_clusters.md"
+from ch5_paths import CH5_BANDS, CH5_INDEX
 
 
 EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
     "#### Accountability, contestability, and redress pathways": [
-        "Accountability",
+        # Accountability and Timeliness leg heads live in core_05_apex_accountability_leg.md
+        "Attributable Action",
+        "Attribution Integrity",
         "Contestability",
         "Adjudication and Dispute Resolution",
+        "Due Process",
+        "Timely Resolution",
+        "Merits Determination",
+        "Stay",
+        "Negligence",
         "Collective Accountability Failure",
+        "Redress and Remediation",
+        "Remedy System",
+        "Restorative Justice",
         "Force Majeure",
         "Capture of Resolution Pathways",
     ],
@@ -34,6 +43,7 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Business Creation",
     ],
     "#### Constitutional efficiency, productive capacity, avoidable burden, and burden-reduction duty": [
+        "Shared-System Capacity",
         "Constitutional Efficiency",
         "Productive Capacity",
         "Avoidable Burden",
@@ -56,6 +66,12 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Refuge from Non-Compliance",
         "Non-Statelessness",
     ],
+    "#### Governance architecture, decentralization, and concentration": [
+        "Governance",
+        "Decentralization",
+        "Market Structure",
+        "Market Concentration Threshold",
+    ],
 }
 
 TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS) | {
@@ -63,46 +79,48 @@ TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS) | {
     "#### Fairness, protected characteristics, and nondiscrimination",
     "#### Family, care, reproductive autonomy, and instantiation",
     "#### Ecological integrity, footprint, and sustainability",
-    "#### Governance architecture, decentralization, and concentration",
     "#### System boundaries, integrity, and exit",
-    "#### Stewardship, review, and correction",
-    "#### Stakeholder status and participation weight",
+    "#### Stakeholder status and weight",
     "#### Survival-floor continuity: bodily maintenance, tenure, and environment",
     "#### Community-anchored continuity: indigenous, language, culture, and heritage",
     "#### Materiality, impact, risk, and proxy integrity",
+    "#### Dependency and cross-system support",
+    "#### Systemic effects and capture",
 }
 
 
 EXPECTED_CLUSTERS: dict[str, list[str]] = {
-    "#### 3.1 Animal Life, Sentient Life, and Sentience Status": [
-        "Sentient",
+    "#### Def.P1 Animal Life, Sentient Life, and Sentience Status": [
+        "Substrate Class",
         "Sentience Non-Exclusion",
         "Animal Life",
+        "Elevated Communicative Life",
         "Contested-Sentient Life",
         "Sentience Status Adjudication",
+        "Sentience-Status Adjudication Record",
+        "Sentient",
         "Sentience Evaluation",
         "Article V-E",
     ],
-    "#### 3.2 Binding Stakeholder Choice": [
+    "#### Def.P2 Binding Stakeholder Choice": [
         "Binding Stakeholder Choice — Decision-Resolution Requirements",
-        "Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)",
+        "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
         "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
-        "Chapter Eleven §4.3",
+        "Chapter Twelve §4.3",
     ],
-    "#### 3.3 Collective Harm Boundary, Harm, and Harassment and Bullying": [
+    "#### Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying": [
         "Harm",
         "Collective Harm Boundary",
         "Psychological Harm",
         "Irreversible Harm",
+        "Cruelty",
         "Harassment and Bullying",
     ],
-    "#### 3.4 Corpus, Authority Stack, Supremacy, and Enforceability": [
+    "#### Def.I1 Corpus and Authority Stack": [
         "Corpus",
         "Authority Stack and Internal Hierarchy",
-        "Supremacy and Enforceability",
-        "Constitutional Constraint Violation",
     ],
-    "#### 3.5 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work": [
+    "#### Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work": [
         "Fair Compensation",
         "Safe Conditions",
         "Leisure and Rest",
@@ -111,15 +129,17 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Training-Data Use",
         "Anti-Displacement Floor",
     ],
-    "#### 3.6 Forum Families and Dispute Routing": [
+    "#### Def.A2 Forum Families and Dispute Routing": [
         "Forum Family, Sentient",
         "Forum Family, Technical",
         "Forum Family, Institutional",
         "Forum Family, Environment",
         "Forum Family, Integrity",
         "Forum Family, Constitutional",
+        "Primary-Stakes Routing",
+        "Forum Case Record",
     ],
-    "#### 3.8 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity": [
+    "#### Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity": [
         "Self-Determination",
         "Meaningful Agency",
         "Expression",
@@ -127,53 +147,62 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Volitional Integrity",
         "Freedom (Bounded Agency)",
     ],
-    "#### 3.9 Standing State, Contribution, and Violation": [
+    "#### Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability": [
+        "Developing Sentient",
+        "Best-Interest Standard",
+        "Graduated Capability",
+        "Article V-F",
+    ],
+    "#### Def.A3 Standing State, Contribution, and Violation": [
         "Participant Standing",
-        "Contribution State",
         "Verified Inputs for Standing",
-        "Verified Violation Findings",
+        "Contribution Nature",
+        "Violation Nature",
         "Standing Effect",
         "Standing Record",
-        "Competency Gate",
+        "Competency Bar",
+        "Competency Clearance",
         "Standing Lock",
-        "Violation Nature",
-        "Top-Slot Review",
+        "Anti-Constitutional Misconduct Review",
         "Unified Incident",
-        "Unified Record",
+        "Unified Incident Record",
         "Single Catastrophic Incident",
         "Sustained High-Gravity Pattern",
     ],
-    "#### 3.10 Transparency, Auditability, and Verification": [
-        "Transparency",
-        "Auditability",
-        "Audit Scope Sufficiency",
-        "Evaluation Completeness Constraint",
-        "Observability",
-        "Verifiability",
-        "Verification Accessibility",
-        "Verification Feasibility",
-        "Verification Independence",
-        "Verification Proportionality",
-        "Verification Robustness",
+    "#### Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity": [
+        "Stewardship",
+        "Distributed Understanding",
+        "Strategic Stewardship Obligation",
+        "Short-Horizon Governance Defect",
+        "Stewardship Defect",
+        "Review and Correction Duty",
     ],
-    "#### 3.11 Trust and Trustworthiness": [
+    "#### Def.O1 Transparency, Auditability, and Verification": [
+        "Transparency",
+        "Public Oversight Baseline Disclosure",
+        "Risk Disclosure",
+        "Auditability",
+        "Evidence Preservation",
+        "Evaluation Completeness Constraint",
+        "Verifiability",
+    ],
+    "#### Def.C4 Trust and Trustworthiness": [
         "Trust",
         "Trustworthiness",
         "Trust Degradation and Misleading Reliance",
     ],
-    "#### 3.12 Truth and Epistemic Integrity": [
+    "#### Def.O2 Truth and Epistemic Integrity": [
         "Truth (Constitutional Constraint)",
         "Epistemic Integrity",
-        "Foreseeability Diligence",
-        "Reasonably Foreseeable",
+        "Foreseeability Diligence and Reasonably Foreseeable",
         "Publication and High-Impact Communication",
     ],
-    "#### 3.13 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": [
+    "#### Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": [
         "Use of Force",
         "Autonomous Lethal System",
         "Weapons of Mass Harm",
         "Combatant / Non-Combatant Distinction",
-        "Irreversible Sanction",
+        "Irreversible Deprivation Measure",
         "Autonomous Coercion Tool",
     ],
 }
@@ -193,6 +222,8 @@ def collect_topic_group_entries(lines: list[str], heading: str, group_headings: 
     for i in range(start + 1, len(lines)):
         stripped = lines[i].strip()
         if stripped in group_headings:
+            break
+        if re.match(r"^#### Def\.[OPACI]\d+", stripped):
             break
         m = H4_RE.match(stripped)
         if m:
@@ -233,19 +264,33 @@ def collect_cluster_members(lines: list[str], heading: str) -> tuple[int, list[s
     return member_start + 1, members
 
 
+def find_lines_for_heading(all_lines: dict[str, list[str]], heading: str) -> tuple[str, list[str], int]:
+    prefix = heading[:20]
+    for fname, lines in all_lines.items():
+        for i, line in enumerate(lines):
+            if line.strip() == heading or line.strip().startswith(prefix):
+                if line.strip().startswith("#### 3.") and heading.startswith("#### 3."):
+                    if line.strip() == heading:
+                        return fname, lines, i
+                elif line.strip() == heading:
+                    return fname, lines, i
+    raise ValueError(f"missing heading: {heading}")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--root", default=".", help="repository root")
     args = parser.parse_args()
 
     root = Path(args.root)
-    part_b_lines = (root / PART_B).read_text(encoding="utf-8").splitlines()
-    part_c_lines = (root / PART_C).read_text(encoding="utf-8").splitlines()
+    ch5_files = [CH5_INDEX, *CH5_BANDS]
+    all_lines = {name: (root / name).read_text(encoding="utf-8").splitlines() for name in ch5_files}
 
     failures: list[str] = []
     for heading, expected in EXPECTED_TOPIC_GROUPS.items():
         try:
-            line_no, actual = collect_topic_group_entries(part_b_lines, heading, TOPIC_GROUP_HEADINGS)
+            fname, lines, start_idx = find_lines_for_heading(all_lines, heading)
+            line_no, actual = collect_topic_group_entries(lines, heading, TOPIC_GROUP_HEADINGS)
         except ValueError as exc:
             failures.append(str(exc))
             continue
@@ -253,7 +298,7 @@ def main() -> int:
             failures.append(
                 "\n".join(
                     [
-                        f"{PART_B}:{line_no}: topic-group order drift under {heading}",
+                        f"{fname}:{line_no}: topic-group order drift under {heading}",
                         f"  expected: {expected}",
                         f"  actual:   {actual}",
                     ]
@@ -262,7 +307,8 @@ def main() -> int:
 
     for heading, expected in EXPECTED_CLUSTERS.items():
         try:
-            line_no, actual = collect_cluster_members(part_c_lines, heading)
+            fname, lines, _ = find_lines_for_heading(all_lines, heading)
+            line_no, actual = collect_cluster_members(lines, heading)
         except ValueError as exc:
             failures.append(str(exc))
             continue
@@ -270,7 +316,7 @@ def main() -> int:
             failures.append(
                 "\n".join(
                     [
-                        f"{PART_C}:{line_no}: cluster member order drift under {heading}",
+                        f"{fname}:{line_no}: cluster member order drift under {heading}",
                         f"  expected: {expected}",
                         f"  actual:   {actual}",
                     ]

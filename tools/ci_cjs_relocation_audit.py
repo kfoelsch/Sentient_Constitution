@@ -26,7 +26,7 @@ CJS_DIR = "corpus_joint_structure"
 
 DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
     (
-        "CJS-5A / CJS-4.1 / CJS-4.7",
+        "CJS-3.5–CJS-3.8 / CJS-2.1 / CJS-2.5",
         (
             "authority",
             "delegation",
@@ -43,7 +43,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("authority/procedure", "shared procedural abstraction"),
     ),
     (
-        "CJS-5B",
+        "CJS-3.22–CJS-3.12",
         (
             "audit",
             "evidence",
@@ -59,7 +59,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("evidence/audit", "claim integrity"),
     ),
     (
-        "CJS-5C",
+        "CJS-3.13–CJS-3.4",
         (
             "participation",
             "notice",
@@ -74,7 +74,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("participation/disclosure", "comprehension/accessibility"),
     ),
     (
-        "CJS-5D",
+        "CJS-3.16–CJS-3.18",
         (
             "dependency",
             "exit",
@@ -88,7 +88,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("dependency/exit", "lifecycle integrity"),
     ),
     (
-        "CJS-5E",
+        "CJS-3.19–CJS-3.53",
         (
             "failure",
             "emergency",
@@ -103,12 +103,12 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("failure/robustness", "intervention/correction"),
     ),
     (
-        "CJS-4.4",
+        "CJS-2.3",
         ("trust", "trustworthiness", "misleading reliance", "proxy metric", "integrity"),
         ("cross-implementation trust",),
     ),
     (
-        "CJS-3 / CJS-4",
+        "CJS-1 / CJS-2",
         (
             "joint",
             "cross-implementation",
@@ -239,13 +239,51 @@ def strip_navigation_and_alignment(text: str) -> str:
 
 
 def strip_inst_proto_registry(text: str) -> str:
-    """Remove local INST-PROTO registry lists before relocation scoring."""
+    """Remove local CI-26 compliance index tables before relocation scoring."""
 
-    return re.sub(
-        r"\n?Core registry:\n(?:- `INST-PROTO-[^`\n]+`:[^\n]*\n)+",
+    text = re.sub(
+        r"\n?\*\*Core section families\*\*\n\n\| Section \| Topic \|\n\|---\|---\|\n(?:\| \*\*CI-[^|]+\|[^\n]*\n)+",
         "\n",
         text,
     )
+    return re.sub(
+        r"\n?\*\*Domain-specific section homes\*\*\n\n\| Section \| Topic \|\n\|---\|---\|\n(?:\| \*\*CI-[^|]+\|[^\n]*\n)+",
+        "\n",
+        text,
+    )
+
+
+def strip_local_owner_application(text: str) -> str:
+    """Remove accepted local owner-map and read-with routing paragraphs.
+
+  After relocation, CI sections often retain only a CJS pointer plus compact
+  owner-file naming and cross-CI interface reads. Those paragraphs are not
+  fresh shared-doctrine candidates.
+    """
+
+    owner_map_re = re.compile(
+        r"^(?:\*\*[^*]+\*\*\s+)?(?:Name the|Read \*\*CI-|Read \*\*Chapter|Read \*\*CS-|Read \*\*Protocol|"
+        r"\*\*Local\b|role map\b|where applicable\b)",
+        flags=re.I | re.M,
+    )
+    institutional_scope_re = re.compile(
+        r"(use the highest `corpus_systems\.md`|apply to each delegated subunit|"
+        r"through \*\*CI-\d+(?:\.\d+)*\*\* state only|"
+        r"disclosure and cure file|grave breach and contingent claims|"
+        r"institutional exception route|substitute capture-safeguard)",
+        flags=re.I,
+    )
+    paragraph_kept: list[str] = []
+    for paragraph in re.split(r"\n\s*\n", text):
+        stripped = paragraph.strip()
+        if not stripped:
+            continue
+        if owner_map_re.search(stripped):
+            continue
+        if institutional_scope_re.search(stripped):
+            continue
+        paragraph_kept.append(paragraph)
+    return "\n\n".join(paragraph_kept)
 
 
 def strip_cjs_pointer_sentences(text: str) -> str:
@@ -258,13 +296,14 @@ def strip_cjs_pointer_sentences(text: str) -> str:
 
     text = strip_navigation_and_alignment(strip_inst_proto_registry(strip_constitutional_index(text)))
     paragraph_kept: list[str] = []
-    cjs_ref_re = re.compile(r"(corpus_joint_structure\.md|CJS-\d|CJS-5[A-E]?)", flags=re.I)
+    cjs_ref_re = re.compile(r"(corpus_joint_structure\.md|CJS-\d|CJS-3[A-E]?)", flags=re.I)
     post_relocation_re = re.compile(
         r"(this subsection states the institutional|this section states the institutional|"
         r"this section records the institutional|this subsection records the institutional|"
         r"this section supplies (?:only )?the institutional|"
         r"this section supplies the local|this subsection supplies the local|"
         r"CI-\d+(?:\.\d+)*\b.{0,160}states the institutional|"
+        r"CI-\d+(?:\.\d+)*\b.{0,160}states only|"
         r"CI-\d+(?:\.\d+)*\b.{0,160}supplies (?:only )?the institutional|"
         r"institutional owner duties|institution-specific|it keeps the institution-specific|"
         r"local institutional|CI-\d+(?:\.\d+)* adds the institutional|"
@@ -283,14 +322,14 @@ def strip_cjs_pointer_sentences(text: str) -> str:
     pointer_re = re.compile(
         r"(\bapply\b|\bread\b|\bsee\b|\bunder\b|\bgoverned by\b|\bremain(?:s)?\b|"
         r"\bshared\b|\bpointer\b|\brouter\b|\bowner map\b|\bjoint-obligation\b).{0,260}"
-        r"(corpus_joint_structure\.md|CJS-\d|CJS-5[A-E]?)",
+        r"(corpus_joint_structure\.md|CJS-\d|CJS-3[A-E]?)",
         flags=re.I | re.S,
     )
     for chunk in chunks:
         if pointer_re.search(chunk):
             continue
         kept.append(chunk)
-    return " ".join(kept)
+    return strip_local_owner_application(" ".join(kept))
 
 
 def words(text: str) -> set[str]:
@@ -378,7 +417,7 @@ def extract_cjs_paragraphs(root: Path) -> list[dict[str, object]]:
 
 
 def extract_router_rows(root: Path) -> list[dict[str, str]]:
-    path = root / CJS_DIR / "cjs_02_implementation_integration_map.md"
+    path = root / CJS_DIR / "cjs_00_registry_and_reading_rules.md"
     rows: list[dict[str, str]] = []
     row_re = re.compile(r"^\|\s+\*\*(CJS-R[^*]+)\*\*\s+\|\s+([^|]+)\|\s+([^|]+)\|\s+([^|]+)\|")
     for line in read_text(path).splitlines():
@@ -513,6 +552,9 @@ def evaluate_section(section: Section, router_rows: list[dict[str, str]], cjs_pa
         signals.append(f"near-duplicate({len(similar)})")
 
     score = max(score, 0)
+    if len(words(text)) < 8:
+        score = 0
+        signals.append("accepted-pointer-residual")
     return Candidate(
         section=section,
         score=score,
@@ -536,7 +578,7 @@ def render_markdown(candidates: list[Candidate], root: Path, min_score: int) -> 
         "",
         f"Generated: {generated}",
         "",
-        "Scope: `corpus_institutions/*.md` compared against `corpus_joint_structure/*.md` and the CJS-2.2 topic router.",
+        "Scope: `corpus_institutions/*.md` compared against `corpus_joint_structure/*.md` and the CJS-0.1 topic router.",
         "",
         "This is an editorial exposure audit. It identifies candidate passages for relocation, pointer replacement, or split ownership; it does not apply moves.",
         "",

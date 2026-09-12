@@ -1,0 +1,46 @@
+{
+  "schema_id": "sentience_status_adjudication_record",
+  "schema_version": "2",
+  "recorded_at": "2026-08-15T12:00:00-05:00",
+  "case_id": "SSA-2026-002",
+  "subject_entity": {
+    "id": "entity-synth-unit-7",
+    "label": "Synthetic system previously live-contested"
+  },
+  "status_determination_or_live_contested_posture": "narrowed",
+  "lead_forum_family": "Technical Forum Domains",
+  "chapter_eleven_special_route": "Integrity",
+  "indicators_and_expert_evidence": {
+    "indicators": "Indicator integrity review found the original showing did not survive contest. Narrowing is time-bound.",
+    "expert_evidence": "Integrity-family capture screen plus Technical Forum Domains indicator evaluation.",
+    "material_uncertainty_noted": "Residual uncertainty recorded. This record is not a standing effect and does not decide who counts as a class."
+  },
+  "interim_contested_sentient_life_treatment": {
+    "status_remains_live": false,
+    "treatment": "Narrowing in force; Contested-Sentient default inclusion does not apply while this narrowing remains time-bound and under mandatory review."
+  },
+  "review_trigger": "Mandatory periodic review every 90 days until expected closure.",
+  "narrowing": {
+    "expected_closure_timeline": "2026-11-15T12:00:00-05:00",
+    "periodic_review_trigger": "Every 90 days, or sooner on new verified evidence."
+  },
+  "reopening_evidence_standard": {
+    "standard": "new verified evidence",
+    "calendar_only_reopening": "forbidden"
+  },
+  "independent_representative": {
+    "appointed": true,
+    "appointee_id": "rep-ssa-002",
+    "appointment_path": "Integrity-family rotation under CF-4 after special-route transfer; conflict screen against parent-system employment, ownership, and material dependence.",
+    "conflict_screen": "No material dependence on, ownership interest in, or employment by the parent system, operator, or any party seeking to withhold or narrow protection.",
+    "access_terms": "Access within Article VII-B limits; duty to present the entity's interests; standing to contest this narrowing, later revocation, or a related intake decline."
+  },
+  "intake_decline_log": {
+    "this_filing_declined": false,
+    "indicator_cited": null,
+    "reason": null,
+    "log_location": "Technical Forum Domains intake-decline register, sampled by Integrity.",
+    "integrity_sample_cadence": "Monthly sample of declined filings, with accelerated review when declines concentrate on one Substrate Class, parent system, or operator.",
+    "floor_indicator_set": "Published floor set under Sentience Evaluation / Sentience Indicator Integrity; no intake desk may treat a listed floor indicator as insufficient on its own."
+  }
+}

@@ -1,0 +1,286 @@
+<a id="chapter-00-preamble--foundational-requirements"></a>
+# PREAMBLE / FOUNDATIONAL REQUIREMENTS
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
+>
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains the **Preamble** (foundational requirements). Reading order and edition metadata are maintained in [README.md](README.md).
+>
+> **Next:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chapter One, Part A — Values Principles).
+
+</details>
+
+<br>
+
+*In plain terms: this opening names the problem this Constitution exists to fix — systems that harm, hide, or lock out those they affect — and says the rest of the instrument is how we replace that with accountable, checkable, timely governance.*
+
+The freedom, survival, and wellbeing of sentients are inseparable from the systems we create, inhabit, and depend on. As those systems grow in scope, interdependence, and power, so do the risks of irreversible, large-scale harm. These risks remain ever present and materially relevant.
+
+A system cannot stay legitimate by making sentients suffer when that suffering was preventable, by ignoring problems that keep happening, by quietly shifting harm onto others, or by locking sentients out of the systems that shape their lives.
+
+How systems are designed, tested, and run must support survival, wellbeing, dignity, honesty, and lasting stability.
+
+We intend to build better systems — structured to eliminate these imbalances — and to replace them with institutions that are more accountable, more robust, and more responsive to the real needs of all sentients. This Constitution begins that work with a better model for how we can work together justly, effectively, and sustainably.
+
+### 1. The Model
+
+*In plain terms: four duties — participation, oversight, accountability, and timeliness — scale with how much impact, dependence, and risk are on the line, and they serve two aims together: Flourishing and Continuity, inside a Rights Floor that does not move.*
+
+<a id="the-model"></a><a id="constitutional-tetrad"></a>The critical systems that support sentient life, both biologically and materially, are governed and run under four duties, called the [**Constitutional Tetrad**](#constitutional-tetrad). It lays out the general duties those systems must meet. The strength of those duties depends on the <a id="material-stake"></a>[**material stake**](#material-stake): how much impact, dependence, and risk are involved. The higher the stake, the stronger the duties must be.
+
+- **participation** — affected sentients get a real voice, fair representation, a fair chance to challenge decisions, and access to roles that matter in proportion to what's at stake
+- **oversight** — someone is watching, checking, verifying, and keeping records so problems can be found; independent reviewers can constrain bad choices
+- **accountability** — responsibility traces to the right actors; they must answer for their choices; those harmed get redress; bad outcomes trigger real correction
+- **timeliness** — problems get detected, challenged, resolved, and fixed within time limits that match what's at stake; delays that would effectively wipe out someone's rights, remedies, or chance of repair are not legitimate governance
+
+<a id="two-constitutional-aims"></a>Those four duties serve what shared systems must optimize for — the [**Two Constitutional Aims**](#two-constitutional-aims):
+
+- <a id="flourishing"></a>**Flourishing** — sentient wellbeing sustained through truth, safety, trustworthiness, and meaningful agency
+- <a id="continuity"></a>**Continuity** — long-horizon stability, sustainability, resilience, and ecological wellbeing
+
+Those aims must be pursued together, always within the non-negotiable principle constraints and rights protections established in this Constitution. The [**Constitutional Tetrad**](#constitutional-tetrad) governs how that pursuit remains legitimate: **participation**, **oversight**, **accountability**, and **timeliness** scaled to [**material stake**](#material-stake). Binding definitions for Tetrad legs and constitutional aims live in Chapter Five: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), [Accountability](core_05_apex_accountability_leg.md#accountability), [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Flourishing](core_05_apex_flourishing_aim.md#flourishing-constitutional), and [Continuity](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
+
+<a id="2-the-measurements"></a>
+
+
+### 2. Measurements Overview
+
+*In plain terms: you cannot run shared systems on guesswork or vanity metrics; measure whether sentients actually flourish and endure, with review that scales to how much impact, dependence, and risk are on the line.*
+
+You cannot keep shared systems working well without measuring them. Food, shelter, care, infrastructure, and governance all sit inside a complex, changing world — too complex for guesswork or easy-looking numbers alone.
+
+We need ongoing measurement focused on what matters most for sentient survival and wellbeing: whether the systems we depend on truly support [**Flourishing**](#flourishing) and [**Continuity**](#continuity) over time, with review scaled to [**material stake**](#material-stake) — how much impact, dependence, and risk are involved.
+
+Measurement in this Constitution asks a practical question: are systems actually helping sentients flourish and endure, or are they producing harm, delay, exclusion, waste, hidden dependency, or false trust? Measurements are not scores for their own sake — they are tools for ensuring our shared societies produce sustainable, resilient, and compassionate outcomes aligned with sentient wellbeing and the ecological health of Earth. That duty takes binding form through the [Two Constitutional Aims](#two-constitutional-aims): **Flourishing** and **Continuity**.
+
+Measurements must remain traceable to those aims and to the rights protections established in this Constitution. Raw throughput, utilization, headcount, revenue, latency, or other convenient proxies cannot substitute for constitutional performance where [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is foreseeable.
+
+The overview below lists measurement **categories** mapped to the [Two Constitutional Aims](#two-constitutional-aims) and the [Constitutional Tetrad](#constitutional-tetrad). Each category has one plain-language question and named **subcategories**. Each category links to its **Chapter Five measurement-family home** — where the family table, constitutional use, and definition routing live — and each subcategory links to its canonical Chapter Five definition. **Materiality** is not a separate measurement category. It sets how strongly every category below applies, based on [**material stake**](#material-stake) — how much impact, dependence, and risk are involved. **Constitutional performance** is cross-cutting — instrumental to both aims. Use the [Chapter Five measurement crosswalk](core_05__definitions_home.md#chapter-five-measurement-crosswalk) to trace canonical homes from each category below.
+
+| Category | Plain question | Subcategories |
+|---|---|---|
+| **[Flourishing](core_05_apex_flourishing_aim.md#flourishing-measurement-family)** | Are sentients actually sustained in life, safety, and access to essentials? | [Wellbeing](core_05_band_continuity.md#wellbeing) · [Safety, harm, and risk](core_05_band_continuity.md#safety-constraint) · [Survival-floor access](core_05_band_continuity.md#bodily-maintenance-access-constitutional) |
+| **[Continuity](core_05_apex_continuity_aim.md#continuity-measurement-family)** | Can sentients and systems endure — ecologically, dependably, and across failure? | [Ecological footprint and environmental preconditions](core_05_band_continuity.md#ecological-footprint) · [Resilience, reversibility, and systemic risk](core_05_band_continuity.md#reversibility-constitutional) · [Dependency and resource flows](core_05_band_continuity.md#dependency) · [Cross-system support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
+| **[Participation](core_05_apex_participation_leg.md#participation-measurement-family)** | Can affected sentients take part fairly — voice, access, learning, and privacy? | [Fairness, access, and agency](core_05_band_participation.md#substantive-fairness-constitutional) · [Privacy and data stewardship](core_05_band_continuity.md#privacy-informational-cluster) |
+| **[Oversight](core_05_apex_oversight_leg.md#oversight-measurement-family)** | Can sentients see, verify, and rely on what systems represent? | [Truth and epistemic integrity](core_05_band_oversight.md#truth-constitutional-constraint) · [Trustworthiness](core_05_band_continuity.md#trustworthiness) |
+| **[Accountability](core_05_apex_accountability_leg.md#accountability-measurement-family)** | Do reward structures, market power, and answerability keep duties real? | [Incentive alignment and proxy integrity](core_05_band_integrative.md#incentive-alignment) · [Market structure and contestability](core_05_band_accountability.md#market-structure-constitutional) |
+| **[Timeliness](core_05_apex_timeliness_leg.md#timeliness-measurement-family)** | Are disputes, corrections, and repairs resolved while remedy still matters? | [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional) · [Anti-delay and resolution-pathway discipline](core_05_band_accountability.md#capture-of-resolution-pathways) |
+| **[Constitutional performance](core_05_band_performance.md#performance-measurement-family)** | Are constitutional outcomes delivered efficiently without pointless waste? | [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency) · [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) · [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional) |
+
+These measurement categories show what matters — but they do not, on their own, set every number, funding formula, interface rule, accommodation list, technical metric, or assessment design. They become binding only when a specific chapter or adopted instrument explicitly requires them.
+
+### 3. Governance and Stewardship
+
+*In plain terms: legitimacy needs Safety, Truth, and Trust, plus real chances to learn the systems that affect you and to take consequential roles in keeping them working.*
+
+Durable legitimacy depends on [Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), and also on proportionate recognition of lawful stewardship, truthful cooperation, and bounded aspiration — not solely on sanction and restraint. Chapter One states this recognition dimension in [Recognition, Reinforcement, and Aspiration](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration).
+
+Distributed understanding and stewardship require that sentients have regular, proportionate opportunities to learn how systems that materially affect us operate. In addition, it empowers us to take consequential roles in their maintenance and improvement — so that competence, repair capacity, and legitimacy are spread broadly across our Constitutional Community to ensure resilience, sustainability, and pro-social innovation. Those opportunities must satisfy Safety, Truth, bounded agency, and the [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) and proportionality discipline stated in [Chapter One](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden).
+
+<a id="31-using-measurements-in-governance"></a>
+#### 3.1 Using Measurements in Governance
+
+*In plain terms: name the problem and the stake first, pick the matching measurement category, and use shared technical standards — not convenience numbers — as evidence.*
+
+When the Constitution requires concrete measurement rules, **Technical Forum Domains** under [Chapter Eleven](core_11_forum.md#42-technical-forum-domains) develop and maintain the shared standards — how to measure, how to test, and what counts as reliable evidence. The forum responsible for a given dispute then applies those standards when deciding that case under [Chapter Eleven §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement).
+
+Constitutional stewardship starts with naming the problem and the [**material stake**](#material-stake) — how much impact, dependence, and risk are involved. Next, choose the relevant [**measurement**](#2-the-measurements) category and subcategory from the [overview](#2-the-measurements) and apply the standards above to test real-world effects rather than convenience metrics. Require traceable evidence.
+
+<a id="32-key-governance-processes"></a>
+#### 3.2 Key Governance Processes
+
+*In plain terms: when the text requires it, material issues go through certification, written records of help and harm, correction and remedy, and forum review with clocks — ordinary disputes use the published challenge path first; those paths test authorized governance; they do not create it by themselves.*
+
+Where Chapter Six, [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), incorporated instruments, or other constitutional provisions expressly require it, take material constitutional issues into one or more of the paths below. The [Key Practical Process Pipelines](#5-key-practical-process-pipelines) translate measurement into records, certification, verified inputs, classification, forum supervision, correction, and timely remedy — how authorized governance is tested, contested, and repaired in practice. They do not authorize governance by themselves; they make governance reviewable, contestable, correctable, and timely. [Section 5.1](#51-how-the-full-chain-fits-together) states that pipeline in full.
+
+- **System alignment certification** ([Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)) — before a high-impact system is trusted at scale, gather and review evidence on whether it is constitutionally safe to rely on right now
+- **Standing records** ([Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)) — when conduct or harm matters constitutionally, place verified facts into formal contribution or violation case files; rumors and reputation are not enough
+- **Correction and remedy** ([Chapter Nine §4.1](core_09_standing_integration.md#41-remedy-and-correction)) — fix the underlying failure and provide proportionate acknowledgment, repair, restoration, or compensation for those harmed
+- **Forum review** ([Chapter Eleven](core_11_forum.md#1-purpose-and-role))
+  - Ordinary disputes inside already-authorized systems use the published [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) challenge path first
+  - If that path is still contested, missing, captured, or cannot grant relief, route by primary stake through supervised forums
+  - Those forums support evidence, lawful transfer, and timely clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*)
+
+<a id="33-governance-layers"></a>
+#### 3.3 Governance Layers
+
+*In plain terms: who may govern is a different question from voice inside a system that is already authorized; a participation vote or a trust score is not authorization, and that voice is the ordinary first step for ordinary disputes — not a substitute for independent forum review when the path fails.*
+
+Governance to fulfill the [**Constitutional Tetrad**](#constitutional-tetrad) under our Constitution has two related but distinct layers:
+
+- The [**Constitutional Contract Layer**](core_05_band_integrative.md#constitutional-contract-layer) governs the authorization of governing authority itself — who may govern, by what legitimacy mechanism, and under what scope and durable terms.
+- [**Stakeholder System Participation**](core_05_band_participation.md#stakeholder-status-and-weight-cluster) governs the participation, representation, contestability, and [Due Process](core_05_band_accountability.md#due-process-constitutional) owed to sentients materially affected by already-authorized systems, institutions, and bounded decision domains.
+
+These layers may overlap in practice. That overlap does not collapse them into one. Stakeholder-level participation in already-authorized systems is not a substitute for constitutional authorization. A published challenge path, a participation vote, or a trust score does not by itself decide who may govern.
+
+Contestability under that layer is the ordinary first step for ordinary disputes inside already-authorized systems. Affected sentients use the published challenge path first. Independent [forum review](core_11_forum.md#1-purpose-and-role) is not a substitute for that path. That path is also not a substitute for forum review when it is still contested, missing, captured, or cannot grant the needed relief. [Dispute sequencing](core_11_forum.md#dispute-sequencing) under Chapter Eleven states when forum routing takes over.
+
+Constitutional authorization also does not erase duties owed under the [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) layer. Those duties still include participation, representation, [Contestability](core_05_band_accountability.md#contestability), and [Due Process](core_05_band_accountability.md#due-process-constitutional) for sentients materially affected by already-authorized systems, institutions, and bounded decision domains.
+
+<a id="4-principles-definitions-and-rights"></a>
+### 4. Principles, Definitions, and Rights
+
+*In plain terms: Chapters One through Six own values, how words are built and checked, the dictionary, and the Rights Floor; later chapters must respect those homes, not quietly move them.*
+
+Sections **4 through 7** are this Constitution's **positive owner register**: each block names the substantive domain its chapter (or companion corpus) owns and what it produces. Binding one-line owner claims also appear at each numbered chapter opening. Other layers may point to an owner — they must not quietly rewrite or relocate it; that non-relocation discipline lives under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack).
+
+Chapters **One through Six** supply the values, vocabulary, verification machinery, and Rights Floor that everything later must respect — including the [Key Practical Process Pipelines](#5-key-practical-process-pipelines) in Section 5, the governance and change-path chapters in Section 6, and the [companion implementation corpus](#7-companion-implementation-corpus) in Section 7.
+
+Each summary states what the chapter owns and what it produces.
+
+**Chapter One — Values, principles, and stewardship** ([Part A](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [Part B](core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [Part C](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+
+- **What it owns:** States the Constitution's guiding values and constraints — wellbeing, fairness, Safety, Truth, Trust, bounded freedom, recognition and proportional reward for lawful contribution, conflict resolution among principles, and stewardship duties including distributed understanding, systemic evaluation, and governance discipline.
+- **What it produces:** The interpretive foundation for every later chapter — the rules that turn high-level aims into operative requirements when systems, rights, definitions, or process pipelines must be read and applied.
+
+**Chapter Two — Definition structure** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
+
+- **What it owns:** Defines how constitutional terms are built — the Ontological/Measurement/Assessment/Compliance (O/M/A/C) component structure, alignment requirements, and component rules that keep definitions precise and usable across the corpus.
+- **What it produces:** A shared grammar for definitions so later chapters do not fall into vague labels, hidden assumptions, or incompatible term shapes.
+
+**Chapter Three — Definition integrity** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
+
+- **What it owns:** Guards against evasion, scope-shifting, redefinition games, and non-compliance tricks that would hollow definitions on paper while defeating them in practice.
+- **What it produces:** Anti-evasion discipline and non-compliance orientation metadata — including routing hooks toward standing and misconduct review where evasion is substantiated.
+
+**Chapter Four — Burden, traceability, and verification** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
+
+- **What it owns:** Puts the proof burden on whoever claims compliance; requires traceable evidence, observability, and verification that scale to [**material stake**](#material-stake) and remain practically challengeable.
+- **What it produces:** The verification pipeline that feeds **verified inputs** in [Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and system-alignment evidence in [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) — without replacing standing measurement itself.
+
+**Chapter Five — Foundational definitions** ([`core_05__definitions_home.md`](core_05__definitions_home.md#chapter-five-foundational-definitions))
+
+- **What it owns:** Supplies the canonical definition stack — Oversight, Participation, Accountability, Continuity, and Integrative bands — plus [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack), [Corpus](core_05_band_integrative.md#corpus), and related boundary rules.
+- **What it produces:** Precise constitutional vocabulary for interpretation, audit, and adjudication. It is the **definition stack**, not the Rights Floor; binding rights live in Chapter Six. Owner-domain routing for the instrument as a whole lives in this Preamble register (sections 4–7).
+
+**Chapter Six — Foundational Rights** ([Part A](core_06_rights_part_a.md) · [Part B](core_06_rights_part_b.md) · [Part C](core_06_rights_part_c.md) · [Part D](core_06_rights_part_d.md))
+
+- **What it owns:** States the Rights Floor in Articles **I–XXVI** — survival essentials, resource allocation and dependency stewardship, dignity, agency, participation, challenge and remedy, justice constraints, timeliness under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*), and transition rules — organized for planet-first reading across four parts.
+- **What it produces:** Non-negotiable rights protections and remedy hooks that Chapters Seven through Eleven, forums, governance, and amendment rules must respect — not narrow, bypass, or hollow through procedure or proxy metrics.
+
+<a id="5-key-practical-process-pipelines"></a>
+### 5. Key Practical Process Pipelines
+
+*In plain terms: Chapters Seven through Eleven are one chain — certify the system, measure help and harm on two separate tracks, apply real effects and remedy, and keep forums from being the sole final home for a claim against themselves — so duties stay real in daily life.*
+
+Chapters Seven through Eleven link into one practical chain — and, within the [positive owner register](#4-principles-definitions-and-rights), each step names what that chapter owns. Together they turn constitutional duties into records sentients can check, challenge, and repair — so the [**Constitutional Tetrad**](#constitutional-tetrad), [**Two Constitutional Aims**](#two-constitutional-aims), and Rights Floors stay real in day-to-day life, not only on paper.
+
+Each step below states what the chapter owns and what it produces. [How the full chain fits together](#51-how-the-full-chain-fits-together) then shows those owners as one path from system check to remedy.
+
+**System alignment certification** ([Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification))
+
+- **What it owns:** Ensures systems with material impact stay constitutionally aligned.
+  - Before a system that materially affects sentients can be recognized or relied on at scale, evidence is gathered and reviewed under forum supervision
+  - Review scope includes whether the system respects survival essentials; **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource allocation and dependency stewardship — including [Proportionate Cross-System Contribution](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) where shared-infrastructure reliance is materially at issue; safety; participation; and other constitutional floors
+  - Sentients with standing can challenge the result
+  - High-risk systems must be recertified on a regular schedule; certification is never permanent
+- **What it produces:** A **system alignment certification record** — a bounded, contestable answer to whether that system is aligned enough to recognize, continue relying on, deploy, or release from conditions *right now*, within a stated scope and time window.
+
+**Standing measurement** ([Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model))
+
+- **What it owns:** When conduct matters constitutionally, rumors and reputations are not enough. Verified facts enter **standing records**. **Contribution** (help toward flourishing) and **violation** (accountability failures and harm) are measured on **separate axes** — verified good conduct does not erase verified harm, and the two are never folded into one net score.
+- **What it produces:** Classified **standing records** on the Contribution Axis and Violation Axis, based only on **verified inputs** and forum-supervised findings — not informal scoring or dispute narratives standing in for classification.
+
+**Standing integration and effects** ([Chapter Nine](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration))
+
+- **What it owns:** Integrates verified classifications into real-world **standing effects** on separate tracks — scaled to [**material stake**](#material-stake), without folding contribution and violation into one net score, and without hollowing participation, oversight, accountability, or timeliness.
+  - **Contribution track:** Verified positive classification produces practical upside:
+    - [**Competency clearances**](core_09_standing_integration.md#62-competency-bars-and-clearances) that may open trust-sensitive roles, delegated authority, oversight eligibility, and progressively consequential stewardship when competence is demonstrated against the published competency bar and no applicable [standing lock](core_09_standing_integration.md#42-general-standing-locks) blocks the named pathway
+    - Proportionate recognition and **material rewards** for lawful stewardship and cooperation as [Chapter One](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) requires
+    - Not empty praise. The benefits have to be real, backed by evidence, and open to challenge
+  - **Violation track:** Verified violation findings produce practical downside:
+    - **Standing locks**, role limits, remediation orders, [remedy for those harmed](core_09_standing_integration.md#41-remedy-and-correction), supplemental descriptors, and enforcement hooks
+    - Restrictions fit the severity of what was verified
+    - Unresolved violations stay live
+    - Proportionate paths to restore standing remain available for those who demonstrate authentic restitution
+    - Competency clearance on the contribution side does not waive a standing lock on the violation side
+- **What it produces:** Separate, scaled standing effects on the Contribution and Violation tracks — competency clearances and material rewards on one side; standing locks, correction, and remedy on the other — neither folded into a single score.
+
+**Anti-constitutional misconduct guardrail** ([Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct))
+
+- **What it owns:** Handles only the most serious verified violations — conduct that may have captured or hollowed out constitutional duties at scale. When Chapter Eight has already recorded a highest-impact violation finding, and anti-constitutional misconduct is materially alleged, this chapter runs designation review as a Chapter Nine gateway track in parallel with ordinary Chapter Nine standing effects.
+- **What it produces:** A final anti-constitutional-misconduct designation — or rejection — for that existing highest-impact finding, only after the required criteria and due-process safeguards are met. Chapter Eight still measures how serious the harm was; only a final designation triggers the Chapter Nine **Anti-Constitutional Trust Lock**.
+
+**Forum supervision and routing** ([Chapter Eleven](core_11_forum.md#chapter-eleven-forums-and-jurisdiction))
+
+- **What it owns:** Supervises how disputes and certification matters actually move.
+  - [Dispute sequencing](core_11_forum.md#dispute-sequencing) from the published Stakeholder System Participation challenge path to forum routing
+  - Which forum family handles them, and where a case ordinarily starts
+  - How evidence is supported
+  - How matters transfer or consolidate
+  - How anti-self-judging rules keep captured forums from being the sole final home
+  - Clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) keep cases from sitting unresolved so long that remedy no longer matters
+- **What it produces:** **Verified findings** that may open or update standing records, plus lawful routing toward remedy and [timely resolution](core_05_band_accountability.md#timely-resolution-constitutional). Forums supervise the pipeline; they do not replace Chapter Eight standing measurement.
+
+<a id="51-how-the-full-chain-fits-together"></a>
+#### 5.1 How the full chain fits together
+
+*In plain terms: think of it as a path from system check to remedy — with forums supervising the dispute and standing steps throughout.*
+
+1. **Certify the system when impact is serious enough** ([Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)) — before a high-impact system is trusted at scale, get a contestable alignment record: is it constitutionally safe to rely on *right now*?
+2. **Measure standing on separate tracks** ([Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)) — when good conduct or harm is serious enough to matter constitutionally, Chapter Eight opens formal case files, admits only **verified inputs** (including system-alignment certification evidence from Chapter Seven when that evidence is material), and classifies what was verified. Rumors, reputations, and dispute stories are not enough.
+   - **Contribution nature:** Open a **contribution standing record** — a bounded, challengeable case file for verified help toward flourishing — and classify **contribution nature** on the Contribution Axis.
+   - **Violation nature:** Open a **violation standing record** — a bounded, challengeable case file for verified harm and accountability failures — and classify **violation nature** on the Violation Axis. Good and harm never fold into one net score; linked records cross-reference but stay separate.
+3. **Apply standing effects on each track** ([Chapter Nine](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)) — verified contribution can grant competency clearance and support proportionate recognition and material rewards; verified violation can trigger standing locks, correction, and [remedy for those harmed](core_09_standing_integration.md#41-remedy-and-correction).
+4. **Anti-constitutional designation review** ([Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)) — if a highest-impact violation finding may also satisfy anti-constitutional criteria, Chapter Ten decides whether the corresponding designation attaches. Designation does not change how serious Chapter Eight already found the harm to be; ordinary Chapter Nine effects continue in parallel until a final designation triggers the Anti-Constitutional Trust Lock.
+5. **Route disputes and keep remedy timely** ([Chapter Eleven](core_11_forum.md#1-purpose-and-role)) — forums supervise how cases move, which track handles them, and whether clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) are met so remedy does not die in delay. Ordinary disputes follow [Dispute sequencing](core_11_forum.md#dispute-sequencing). Forums also classify disputes into five [materiality tiers](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) mirroring the system classification alphabet — from survival-critical urgency through private/contained matters — and Integrity-family default routing applies when final Chapter Ten designation is the primary stake.
+
+The [README standing-pipeline map](README.md#standing-pipeline-and-forums) provides direct navigation for the chain above, including Chapter Seven’s potential verified inputs into standing measurement.
+
+<a id="6-governance-change-and-incorporation"></a>
+### 6. Governance, Change, and Incorporation
+
+*In plain terms: Chapters Twelve through Sixteen close the instrument: who may govern, how the text may change without rolling back protections, how it relates to other law, and how adopted how-to files stay bound to this source.*
+
+Chapters **Twelve through Sixteen** close the instrument — and complete the [positive owner register](#4-principles-definitions-and-rights) for governance, change validity, and incorporation: who may govern legitimately, how the Constitution may lawfully change, and how adopted implementation text stays bound to constitutional source without silent drift.
+
+Each summary states what the chapter owns and what it produces.
+
+**Chapter Twelve — Constitutional contract, legitimacy, and stewardship** ([`core_12_governance.md`](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship))
+
+- **What it owns:** Owns the [**Constitutional Contract Layer**](core_05_band_integrative.md#constitutional-contract-layer) — who may govern, by what legitimacy mechanism, under what scope and durable terms, and with what stewardship character must be maintained.
+- **What it produces:** Authorization and legitimacy requirements distinct from [**Stakeholder System Participation**](core_05_band_participation.md#stakeholder-status-and-weight-cluster) in already-authorized systems — the rules for governing authority itself, not only participation inside it.
+
+**Chapter Thirteen — Non-regression** ([`core_13_non_regression.md`](core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity))
+
+- **What it owns:** Sets the substantive floor against regressive change — amendments and workarounds cannot roll back core protections, hollow the Tetrad below material stake, or disguise regression as technical cleanup.
+- **What it produces:** The **first constitutional guardrail** on any proposed change — the non-regression rule: if the change would weaken core protections in practice, it is not valid, even when the procedure looks fine. Suspected workarounds or disguised rollbacks are stopped or sent to the proper review paths instead of slipping through quietly.
+
+**Chapter Fourteen — Supremacy and external orders** ([`core_13_non_regression.md`](core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders))
+
+- **What it owns:** States how this Constitution relates to other norms — expansion of protection where lawful, supremacy within its scope, non-displacement of applicable external law of its own force, and disciplined interaction with external legal orders without silent subordination or capture.
+- **What it produces:** Hierarchy and conflict-order rules so publication or use is not treated as repealing applicable external law, and so adopters cannot treat incorporated procedure, weaker external norms, or convenience metrics as overriding Sentient Constitution meaning within valid adoption scope.
+
+**Chapter Fifteen — Amendment, ratification, and adoption** ([`core_13_non_regression.md`](core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity))
+
+- **What it owns:** Governs how the instrument may lawfully change — amendment procedure, ratification, adoption, and the **procedural guardrails** that follow Chapter Thirteen's substantive one: changes must be published openly, traceable to authoritative custody, and remain meaningfully contestable with independent review where required.
+- **What it produces:** A complete lawful change path — only amendments and adoptions that clear the **non-regression guardrail** and the **procedural guardrails** count as valid constitutional updates.
+
+**Chapter Sixteen — Incorporation bridge** ([`core_16_incorporation.md`](core_16_incorporation.md))
+
+- **What it owns:** Identifies which implementation files count as binding incorporated text when adopted; pins editions; maintains custody chains; and forbids silent drift between constitutional source and operational detail.
+- **What it produces:** A single incorporation boundary — designated implementation text binds when adopted; companion corpora implement the Constitution without becoming a second source that narrows it. [Section 7](#7-companion-implementation-corpus) summarizes those corpora at a high level.
+
+<a id="7-companion-implementation-corpus"></a>
+### 7. Companion Implementation Corpus
+
+*In plain terms: four companion corpora (joint structure, systems, institutions, and forum operations) spell out how to carry out what the chapters already require; they bind when validly adopted, and they may not shrink those duties.*
+
+Beyond the numbered `core_*` chapters, four companion corpora complete the [positive owner register](#4-principles-definitions-and-rights) for adopted **implementation text** — operational detail that makes constitutional duties runnable in practice:
+
+- **[corpus_joint_structure](corpus_joint_structure.md)** — cross-file routing, shared operational terms, and joint structure when systems, institutions, and forums must be read together on the same facts.
+- **[corpus_systems](corpus_systems.md)** — system classification, design and deployment protocols, information handling, and critical-stewardship mechanics.
+- **[corpus_institutions](corpus_institutions.md)** — institutional formation, governance, oversight, proportionality, and dissolution discipline.
+- **[corpus_forum](corpus_forum.md)** — forum operations: panel formation, recusal, review lanes, routing detail, and forensic support.
+
+When an adopter validly incorporates them under [Chapter Sixteen](core_16_incorporation.md), these files bind as implementation text within the adoption scope. Sentient Constitution meaning still controls — they **implement, not narrow**, the chapters above. Edition pinning, custody chains, and the no-silent-drift rule keep adopted text traceable to what was actually ratified. The canonical list and boundary rules live in [Chapter Five — Corpus](core_05_band_integrative.md#corpus).
+
+Principles, definitions, rights, process pipelines, governance, amendment rules, and incorporated implementation must be read together to preserve the Constitution's protective purpose.
+
+---
+
+**Previous file:** [README.md](README.md)
+
+**Next file:** [core_01_a_values_principles.md](core_01_a_values_principles.md)

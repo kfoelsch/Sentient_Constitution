@@ -1,0 +1,4857 @@
+{
+  "timestamp": "2026-09-10",
+  "workflow": "CH1_CH5_ALIGNMENT_CHECK",
+  "ch1_principles": {
+    "Preamble \u00a71": {
+      "title": "The Model",
+      "file": "core_00_preamble.md",
+      "line": 21,
+      "anchors": []
+    },
+    "Preamble \u00a72": {
+      "title": "Measurements Overview",
+      "file": "core_00_preamble.md",
+      "line": 40,
+      "anchors": []
+    },
+    "Preamble \u00a73": {
+      "title": "Governance and Stewardship",
+      "file": "core_00_preamble.md",
+      "line": 64,
+      "anchors": []
+    },
+    "Preamble \u00a73.1": {
+      "title": "Using Measurements in Governance",
+      "file": "core_00_preamble.md",
+      "line": 71,
+      "anchors": []
+    },
+    "Preamble \u00a73.2": {
+      "title": "Key Governance Processes",
+      "file": "core_00_preamble.md",
+      "line": 78,
+      "anchors": []
+    },
+    "Preamble \u00a73.3": {
+      "title": "Governance Layers",
+      "file": "core_00_preamble.md",
+      "line": 88,
+      "anchors": []
+    },
+    "Preamble \u00a74": {
+      "title": "Principles, Definitions, and Rights",
+      "file": "core_00_preamble.md",
+      "line": 98,
+      "anchors": []
+    },
+    "Preamble \u00a75": {
+      "title": "Key Practical Process Pipelines",
+      "file": "core_00_preamble.md",
+      "line": 137,
+      "anchors": []
+    },
+    "Preamble \u00a76": {
+      "title": "Governance, Change, and Incorporation",
+      "file": "core_00_preamble.md",
+      "line": 189,
+      "anchors": []
+    },
+    "Preamble \u00a77": {
+      "title": "Companion Implementation Corpus",
+      "file": "core_00_preamble.md",
+      "line": 221,
+      "anchors": []
+    },
+    "1": {
+      "title": "Purpose and Role",
+      "file": "core_01_a_values_principles.md",
+      "line": 16,
+      "anchors": [
+        "Proportionality",
+        "Necessity"
+      ]
+    },
+    "2": {
+      "title": "Foundational Objective: Wellbeing",
+      "file": "core_01_a_values_principles.md",
+      "line": 55,
+      "anchors": [
+        "Wellbeing",
+        "Participation",
+        "Dignity and Equal Moral Standing",
+        "Substantive Fairness",
+        "Materiality Determination",
+        "Proxy Divergence"
+      ]
+    },
+    "2.1": {
+      "title": "Fairness",
+      "file": "core_01_a_values_principles.md",
+      "line": 97,
+      "anchors": [
+        "Dignity and Equal Moral Standing",
+        "Accessibility",
+        "Participation",
+        "Procedural Fairness",
+        "Substantive Fairness",
+        "Protected Characteristics",
+        "Protected Characteristic Proxying and Disparate Impact",
+        "Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
+        "Proxy Divergence"
+      ]
+    },
+    "2.2": {
+      "title": "Recognition, Reinforcement, and Aspiration",
+      "file": "core_01_a_values_principles.md",
+      "line": 176,
+      "anchors": [
+        "Wellbeing",
+        "Participation",
+        "Substantive Fairness",
+        "Contestability",
+        "Meaningful Agency",
+        "Incentive Alignment"
+      ]
+    },
+    "3": {
+      "title": "Non-Negotiable Principle Constraints: Safety and Truth",
+      "file": "core_01_a_values_principles.md",
+      "line": 267,
+      "anchors": []
+    },
+    "3.1": {
+      "title": "Safety (Harm Constraint)",
+      "file": "core_01_a_values_principles.md",
+      "line": 287,
+      "anchors": [
+        "Safety (Constraint)",
+        "Harm",
+        "Irreversible Harm",
+        "Risk",
+        "Materiality Determination",
+        "Dependency",
+        "Foreseeability Diligence"
+      ]
+    },
+    "3.2": {
+      "title": "Truth (Epistemic Integrity Constraint)",
+      "file": "core_01_a_values_principles.md",
+      "line": 322,
+      "anchors": [
+        "Epistemic Integrity",
+        "Truth (Constitutional Constraint)",
+        "Materiality Determination",
+        "Dependency",
+        "Foreseeability Diligence"
+      ]
+    },
+    "3.3": {
+      "title": "Science-Informed Inquiry and Decision Support",
+      "file": "core_01_a_values_principles.md",
+      "line": 355,
+      "anchors": [
+        "Safety (Constraint)",
+        "Truth (Constitutional Constraint)",
+        "Epistemic Integrity",
+        "Risk",
+        "Materiality Determination",
+        "Dependency",
+        "Foreseeability Diligence",
+        "Classification-Scaled Governance",
+        "Auditability"
+      ]
+    },
+    "3.4": {
+      "title": "Plain-Language Accessibility (Participation and Stewardship Duty)",
+      "file": "core_01_a_values_principles.md",
+      "line": 403,
+      "anchors": [
+        "Avoidable Burden",
+        "Accessibility",
+        "Contestability",
+        "Meaningful Agency",
+        "Transparency",
+        "Truth (Constitutional Constraint)"
+      ]
+    },
+    "4": {
+      "title": "System Stability Enabler: Trust (Coordination Integrity)",
+      "file": "core_01_a_values_principles.md",
+      "line": 479,
+      "anchors": [
+        "Trust",
+        "Trustworthiness",
+        "Truth (Constitutional Constraint)",
+        "Safety (Constraint)",
+        "Materiality Determination",
+        "Trust Degradation and Misleading Reliance"
+      ]
+    },
+    "4.1": {
+      "title": "Resilience and Self-Healing Design",
+      "file": "core_01_a_values_principles.md",
+      "line": 520,
+      "anchors": [
+        "Self-Healing",
+        "Cascading Failure",
+        "Reversibility",
+        "Avoidable Burden",
+        "Incentive Alignment"
+      ]
+    },
+    "5": {
+      "title": "Freedom (Bounded Agency)",
+      "file": "core_01_a_values_principles.md",
+      "line": 560,
+      "anchors": [
+        "Freedom (Bounded Agency)",
+        "Meaningful Agency",
+        "Reproductive Autonomy",
+        "Consent",
+        "Coercion and Manipulation",
+        "Assembly",
+        "Collective Organization",
+        "System Creation",
+        "Business Creation",
+        "Feasibility",
+        "Necessity",
+        "Proportionality",
+        "Harm Minimization (Tradeoff Selection)",
+        "Dependency"
+      ]
+    },
+    "5.1": {
+      "title": "Limitation Discipline",
+      "file": "core_01_a_values_principles.md",
+      "line": 609,
+      "anchors": [
+        "Freedom (Bounded Agency)",
+        "Feasibility",
+        "Necessity",
+        "Proportionality",
+        "Harm Minimization (Tradeoff Selection)",
+        "Harm",
+        "Risk",
+        "Reversibility",
+        "Oversight"
+      ]
+    },
+    "5.2": {
+      "title": "Voluntary Discontinuation and Exit Rights",
+      "file": "core_01_a_values_principles.md",
+      "line": 642,
+      "anchors": [
+        "Voluntary Discontinuation",
+        "Consent",
+        "Coercion and Manipulation",
+        "Dependency"
+      ]
+    },
+    "5.3": {
+      "title": "Assembly, Collective Organization, and Institutional Formation",
+      "file": "core_01_a_values_principles.md",
+      "line": 670,
+      "anchors": [
+        "Assembly",
+        "Collective Organization",
+        "System Creation",
+        "Business Creation"
+      ]
+    },
+    "6": {
+      "title": "Process Conflict Resolution",
+      "file": "core_01_b_interaction_interpretation.md",
+      "line": 21,
+      "anchors": []
+    },
+    "6.1": {
+      "title": "Core Tradeoff Principles",
+      "file": "core_01_b_interaction_interpretation.md",
+      "line": 48,
+      "anchors": [
+        "Necessity",
+        "Harm Minimization (Tradeoff Selection)",
+        "Harm",
+        "Necessity",
+        "Feasibility",
+        "Freedom (Bounded Agency)",
+        "Meaningful Agency",
+        "Harm Minimization (Tradeoff Selection)",
+        "Harm",
+        "Risk",
+        "Irreversible Harm",
+        "Proportionality",
+        "Risk",
+        "Irreversible Harm",
+        "Existential Risk",
+        "Ecological Recovery Capacity",
+        "Systemic Lock-In",
+        "Reversibility",
+        "Dependency",
+        "Accountability",
+        "Oversight",
+        "Safety (Constraint)",
+        "Dignity and Equal Moral Standing",
+        "Cruelty",
+        "Harm",
+        "Irreversible Harm",
+        "Necessity",
+        "Proportionality"
+      ]
+    },
+    "6.2": {
+      "title": "Epistemic Disclosure Constraints",
+      "file": "core_01_b_interaction_interpretation.md",
+      "line": 265,
+      "anchors": [
+        "Epistemic Integrity",
+        "Truth (Constitutional Constraint)",
+        "Trust",
+        "Materiality Determination",
+        "Foreseeability Diligence",
+        "Necessity",
+        "Proportionality",
+        "Epistemic Integrity",
+        "Truth (Constitutional Constraint)",
+        "Materiality Determination",
+        "Foreseeability Diligence",
+        "Necessity",
+        "Proportionality",
+        "Trust",
+        "Truth (Constitutional Constraint)",
+        "Epistemic Integrity",
+        "Privacy (Informational)",
+        "Protected Internal-State Boundary",
+        "Surveillance Boundary",
+        "Consent",
+        "Necessity",
+        "Proportionality",
+        "Proxy Divergence",
+        "Materiality Determination"
+      ]
+    },
+    "6.3": {
+      "title": "Minimization of Avoidable Burden",
+      "file": "core_01_b_interaction_interpretation.md",
+      "line": 433,
+      "anchors": [
+        "Avoidable Burden",
+        "Proportionality",
+        "Necessity",
+        "Safety (Constraint)",
+        "Truth (Constitutional Constraint)"
+      ]
+    },
+    "7": {
+      "title": "Prohibition on Absolute Override",
+      "file": "core_01_b_interaction_interpretation.md",
+      "line": 476,
+      "anchors": [
+        "Necessity",
+        "Proportionality",
+        "Materiality Determination",
+        "Harm Minimization (Tradeoff Selection)",
+        "Proxy Divergence"
+      ]
+    },
+    "8": {
+      "title": "Constitutional Interpretation",
+      "file": "core_01_b_interaction_interpretation.md",
+      "line": 510,
+      "anchors": [
+        "Corpus",
+        "Authority Stack and Internal Hierarchy",
+        "Proportionality",
+        "Necessity"
+      ]
+    },
+    "8.1": {
+      "title": "Constitutional No-Bypass Principle",
+      "file": "core_01_b_interaction_interpretation.md",
+      "line": 537,
+      "anchors": [
+        "Contestability",
+        "Auditability",
+        "Accountability"
+      ]
+    },
+    "8.2": {
+      "title": "Definitional layer and required disciplines",
+      "file": "core_01_b_interaction_interpretation.md",
+      "line": 553,
+      "anchors": [
+        "Proportionality",
+        "Necessity",
+        "Classification-Scaled Governance"
+      ]
+    },
+    "8.3": {
+      "title": "Ambiguity resolution",
+      "file": "core_01_b_interaction_interpretation.md",
+      "line": 575,
+      "anchors": [
+        "Wellbeing",
+        "Irreversible Harm",
+        "Truth (Constitutional Constraint)",
+        "Meaningful Agency"
+      ]
+    },
+    "8.4": {
+      "title": "Constitutional Meaning Conflict Resolution",
+      "file": "core_01_b_interaction_interpretation.md",
+      "line": 598,
+      "anchors": [
+        "Corpus",
+        "Authority Stack and Internal Hierarchy"
+      ]
+    },
+    "9": {
+      "title": "Stewardship and Distributed Understanding",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 40,
+      "anchors": [
+        "Strategic Stewardship Obligation",
+        "Distributed Understanding",
+        "Participation",
+        "Oversight",
+        "Meaningful Agency",
+        "Auditability",
+        "Contestability",
+        "Educational Agency",
+        "Transparency",
+        "Materiality Determination",
+        "Dependency",
+        "Accessibility",
+        "Safety (Constraint)",
+        "Truth (Constitutional Constraint)",
+        "Necessity",
+        "Proportionality",
+        "Avoidable Burden",
+        "Epistemic Integrity"
+      ]
+    },
+    "9.1": {
+      "title": "Consequential Stewardship",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 99,
+      "anchors": [
+        "Strategic Stewardship Obligation",
+        "Meaningful Agency",
+        "Auditability",
+        "Timeliness",
+        "Stewardship",
+        "Sentience Non-Exclusion",
+        "Substrate Class",
+        "Contestability",
+        "Attributable Action",
+        "Authority Stack and Internal Hierarchy",
+        "Constitutional Constraint"
+      ]
+    },
+    "9.2": {
+      "title": "Distributed Understanding",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 187,
+      "anchors": [
+        "Distributed Understanding",
+        "Transparency",
+        "Public Oversight Baseline Disclosure",
+        "Auditability",
+        "Materiality Determination",
+        "Dependency",
+        "Accessibility",
+        "Educational Agency",
+        "Meaningful Agency",
+        "Contestability"
+      ]
+    },
+    "9.3": {
+      "title": "Institutional Development",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 223,
+      "anchors": [
+        "Strategic Stewardship Obligation",
+        "Auditability",
+        "Materiality Determination",
+        "Verifiability"
+      ]
+    },
+    "9.4": {
+      "title": "Openness Aspiration",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 254,
+      "anchors": [
+        "Meaningful Agency",
+        "Contestability",
+        "Materiality Determination",
+        "Dependency"
+      ]
+    },
+    "9.5": {
+      "title": "Aligned Self-Organization",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 286,
+      "anchors": [
+        "System Creation",
+        "Protected Reporting (Whistleblowing)",
+        "Protected Reporting Retaliation and Access Interference",
+        "Evidence Preservation",
+        "Foreseeability Diligence",
+        "Necessity",
+        "Proportionality",
+        "Merits Determination"
+      ]
+    },
+    "9.6": {
+      "title": "Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 325,
+      "anchors": [
+        "Dignity and Equal Moral Standing",
+        "Cruelty",
+        "Harm",
+        "Proportionality",
+        "Contestability"
+      ]
+    },
+    "10": {
+      "title": "Governance Under Stewardship Discipline",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 389,
+      "anchors": [
+        "Governance",
+        "Stewardship",
+        "Necessity",
+        "Proportionality",
+        "Participation",
+        "Oversight",
+        "Accountability",
+        "Attributable Action",
+        "Attribution Integrity"
+      ]
+    },
+    "10.1": {
+      "title": "Governance as Authorized Structure",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 425,
+      "anchors": [
+        "Governance",
+        "Stewardship",
+        "Necessity",
+        "Proportionality",
+        "Participation",
+        "Oversight",
+        "Accountability"
+      ]
+    },
+    "11": {
+      "title": "Incentive Alignment and System Capture",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 505,
+      "anchors": [
+        "Short-Horizon Governance Defect",
+        "Stewardship Defect",
+        "Review and Correction Duty",
+        "Incentive Alignment",
+        "Productive Capacity",
+        "Constitutional Efficiency",
+        "Avoidable Burden",
+        "Proxy Divergence",
+        "Safety (Constraint)",
+        "Truth (Constitutional Constraint)",
+        "Meaningful Agency",
+        "Auditability",
+        "System Capture"
+      ]
+    },
+    "11.1": {
+      "title": "Alignment Requirement",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 557,
+      "anchors": [
+        "Incentive Alignment",
+        "Productive Capacity",
+        "Constitutional Efficiency",
+        "Avoidable Burden",
+        "Proxy Divergence",
+        "Safety (Constraint)",
+        "Truth (Constitutional Constraint)",
+        "Meaningful Agency",
+        "Auditability",
+        "System Capture",
+        "Wellbeing",
+        "Participation"
+      ]
+    },
+    "11.2": {
+      "title": "Convenient Proxies and Proxy Divergence",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 643,
+      "anchors": [
+        "Proxy Divergence",
+        "Productive Capacity",
+        "Constitutional Efficiency"
+      ]
+    },
+    "11.3": {
+      "title": "Misalignment Detection",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 669,
+      "anchors": [
+        "Auditability",
+        "Contestability",
+        "System Capture",
+        "Incentive Alignment",
+        "Review and Correction Duty"
+      ]
+    },
+    "11.4": {
+      "title": "Misalignment Correction and Capture Response",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 702,
+      "anchors": [
+        "System Capture",
+        "Contestability",
+        "Oversight",
+        "Accountability",
+        "Review and Correction Duty"
+      ]
+    },
+    "11.5": {
+      "title": "Contingent Claims, Games of Chance, and Event-Contract Markets",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 726,
+      "anchors": [
+        "Capture of Resolution Pathways",
+        "Coercion and Manipulation",
+        "Contestability",
+        "Contingent Claim",
+        "Dependency",
+        "Event-Contract Market",
+        "Game of Chance",
+        "Incentive Alignment",
+        "Insider Advantage",
+        "Necessity",
+        "Proportionality",
+        "Truth (Constitutional Constraint)"
+      ]
+    },
+    "11.6": {
+      "title": "Successor Responsibility and Formal-Structure Non-Escape",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 785,
+      "anchors": [
+        "Accountability",
+        "Attributable Action",
+        "Attribution Integrity",
+        "Necessity",
+        "Proportionality"
+      ]
+    },
+    "12": {
+      "title": "Shared-System Capacity",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 815,
+      "anchors": [
+        "Shared-System Capacity",
+        "Productive Capacity",
+        "Constitutional Efficiency",
+        "Wellbeing",
+        "Dignity and Equal Moral Standing",
+        "Meaningful Agency",
+        "Feasibility",
+        "Necessity",
+        "Proportionality",
+        "Avoidable Burden",
+        "Proxy Divergence",
+        "Ecological Integrity",
+        "Environmental Preconditions",
+        "Intergenerational Responsibility"
+      ]
+    },
+    "12.1": {
+      "title": "Productive Capacity (Instrumental Good)",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 863,
+      "anchors": [
+        "Productive Capacity",
+        "Shared-System Capacity",
+        "Constitutional Efficiency",
+        "Wellbeing",
+        "Dignity and Equal Moral Standing",
+        "Proxy Divergence",
+        "Ecological Integrity",
+        "Environmental Preconditions",
+        "Intergenerational Responsibility"
+      ]
+    },
+    "12.2": {
+      "title": "Constitutional Efficiency",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 904,
+      "anchors": [
+        "Constitutional Efficiency",
+        "Shared-System Capacity",
+        "Productive Capacity"
+      ]
+    },
+    "13": {
+      "title": "Market Structure",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 933,
+      "anchors": [
+        "Market Structure",
+        "Market Concentration Threshold",
+        "Contestability",
+        "Proxy Divergence",
+        "Dependency",
+        "Meaningful Agency"
+      ]
+    },
+    "13.1": {
+      "title": "Market Concentration Threshold Mechanism (Adopter-Tunable)",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 979,
+      "anchors": [
+        "Market Concentration Threshold",
+        "Market Structure",
+        "Dependency"
+      ]
+    },
+    "13.2": {
+      "title": "Pro-Competition and Anti-Domination",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 1027,
+      "anchors": [
+        "Market Structure",
+        "Contestability",
+        "Meaningful Agency",
+        "Necessity",
+        "Proportionality",
+        "Dependency",
+        "Proxy Divergence"
+      ]
+    },
+    "13.3": {
+      "title": "Consolidation Ceiling",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 1092,
+      "anchors": [
+        "Governance",
+        "Stewardship",
+        "Contestability",
+        "Market Structure",
+        "Dependency"
+      ]
+    },
+    "14": {
+      "title": "Systemic Evaluation Requirement",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 1160,
+      "anchors": [
+        "Classification-Scaled Governance",
+        "Oversight",
+        "Auditability",
+        "System Alignment Certification",
+        "Risk",
+        "Dependency"
+      ]
+    },
+    "15": {
+      "title": "Integrated Application",
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "line": 1196,
+      "anchors": [
+        "Corpus",
+        "Authority Stack and Internal Hierarchy",
+        "Irreversible Harm",
+        "Truth (Constitutional Constraint)",
+        "Meaningful Agency",
+        "Accountability",
+        "System Capture",
+        "Incentive Alignment",
+        "Governance"
+      ]
+    }
+  },
+  "ch5_definitions": {
+    "Accessibility": {
+      "part": "independent",
+      "category": "independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#accessibility-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "2.1",
+        "3.4",
+        "9",
+        "9.2"
+      ],
+      "odef_clusters": [
+        "CJS-3.13",
+        "CJS-3.4",
+        "CJS-3.8"
+      ]
+    },
+    "Accountability": {
+      "part": "apex",
+      "category": "apex",
+      "cluster_id": null,
+      "source_file": "core_05_apex_accountability_leg.md",
+      "anchor": "#accountability",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "6.1",
+        "8.1",
+        "10",
+        "10.1",
+        "11.4",
+        "11.6",
+        "15"
+      ],
+      "odef_clusters": [
+        "CJS-3.0",
+        "CJS-3.10",
+        "CJS-3.11",
+        "CJS-3.13",
+        "CJS-3.15",
+        "CJS-3.16",
+        "CJS-3.18",
+        "CJS-3.2",
+        "CJS-3.22",
+        "CJS-3.23",
+        "CJS-3.3",
+        "CJS-3.4",
+        "CJS-3.6",
+        "CJS-3.8"
+      ]
+    },
+    "Adjudication and Dispute Resolution": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#adjudication-and-dispute-resolution-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Adversarial, Scaled, and Exploited Conditions": {
+      "part": "independent",
+      "category": "independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#adversarial-scaled-and-exploited-conditions",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Animal Life": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P1",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#animal-life-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Anti-Constitutional Misconduct Review": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A3",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#anti-constitutional-misconduct-review",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Anti-Displacement Floor": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C1",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#anti-displacement-floor-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Assembly": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#assembly-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5",
+        "5.3"
+      ],
+      "odef_clusters": []
+    },
+    "Attributable Action": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#attributable-action-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9.1",
+        "10",
+        "11.6"
+      ],
+      "odef_clusters": []
+    },
+    "Attribution Integrity": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#attribution-integrity-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "10",
+        "11.6"
+      ],
+      "odef_clusters": []
+    },
+    "Auditability": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.O1",
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#auditability",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "3.3",
+        "8.1",
+        "9",
+        "9.1",
+        "9.2",
+        "9.3",
+        "11",
+        "11.1",
+        "11.3",
+        "14"
+      ],
+      "odef_clusters": [
+        "CJS-3.0",
+        "CJS-3.11",
+        "CJS-3.12",
+        "CJS-3.14",
+        "CJS-3.16",
+        "CJS-3.17",
+        "CJS-3.18",
+        "CJS-3.19",
+        "CJS-3.2",
+        "CJS-3.20",
+        "CJS-3.21",
+        "CJS-3.22",
+        "CJS-3.23",
+        "CJS-3.3",
+        "CJS-3.4",
+        "CJS-3.5",
+        "CJS-3.6",
+        "CJS-3.7",
+        "CJS-3.8"
+      ]
+    },
+    "Authority Stack and Internal Hierarchy": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.I1",
+      "source_file": "core_05_band_integrative.md",
+      "anchor": "#authority-stack",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "8",
+        "8.4",
+        "9.1",
+        "15"
+      ],
+      "odef_clusters": []
+    },
+    "Autonomous Coercion Tool": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A4",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#autonomous-coercion-tool-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Autonomous Lethal System": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A4",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#autonomous-lethal-system-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Avoidable Burden": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#avoidable-burden",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "3.4",
+        "4.1",
+        "6.3",
+        "9",
+        "11",
+        "11.1",
+        "12"
+      ],
+      "odef_clusters": []
+    },
+    "Best-Interest Standard": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P4",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#best-interest-standard-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Binding Stakeholder Choice \u2014 Decision-Resolution Requirements": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P2",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#binding-stakeholder-choice-decision-resolution-requirements",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Bodily-Maintenance Access": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#bodily-maintenance-access-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Burden-Reduction Duty": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#burden-reduction-duty-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Business Creation": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#business-creation-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5",
+        "5.3"
+      ],
+      "odef_clusters": []
+    },
+    "Capability Requirement": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#capability-requirement",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Capture of Resolution Pathways": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#capture-of-resolution-pathways",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "11.5"
+      ],
+      "odef_clusters": []
+    },
+    "Cascading Failure": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#cascading-failure",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "4.1"
+      ],
+      "odef_clusters": [
+        "CJS-3.23",
+        "CJS-3.6"
+      ]
+    },
+    "Charter": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.P2",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#charter",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.11"
+      ]
+    },
+    "Classification-Scaled Governance": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#classification-scaled-governance",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "3.3",
+        "8.2",
+        "14"
+      ],
+      "odef_clusters": []
+    },
+    "Coercion and Manipulation": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#coercion-and-manipulation-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5",
+        "5.2",
+        "11.5"
+      ],
+      "odef_clusters": []
+    },
+    "Collective Accountability Failure": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#collective-accountability-failure",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Collective Harm Boundary": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A1",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#collective-harm-boundary",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Collective Organization": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#collective-organization-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5",
+        "5.3"
+      ],
+      "odef_clusters": []
+    },
+    "Combatant / Non-Combatant Distinction": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A4",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#combatant-non-combatant-distinction-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Competency Bar": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A3",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#competency-bar",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.0"
+      ]
+    },
+    "Competency Clearance": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A3",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#competency-clearance",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.0"
+      ]
+    },
+    "Consent": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#consent-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5",
+        "5.2",
+        "6.2"
+      ],
+      "odef_clusters": [
+        "CJS-3.10",
+        "CJS-3.9"
+      ]
+    },
+    "Consent, Sexual": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#consent-sexual",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Constitutional Community": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#constitutional-community",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Constitutional Constraint": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": null,
+      "source_file": "core_05_band_integrative.md",
+      "anchor": "#constitutional-constraint",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9.1"
+      ],
+      "odef_clusters": []
+    },
+    "Constitutional Contract Layer": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_integrative.md",
+      "anchor": "#constitutional-contract-layer",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.7"
+      ]
+    },
+    "Constitutional Efficiency": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#constitutional-efficiency",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "11",
+        "11.1",
+        "11.2",
+        "12",
+        "12.1",
+        "12.2"
+      ],
+      "odef_clusters": []
+    },
+    "Constitutional Emergency and Contingency": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#constitutional-emergency-and-contingency",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Contestability": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#contestability",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "2.2",
+        "3.4",
+        "8.1",
+        "9",
+        "9.1",
+        "9.2",
+        "9.4",
+        "9.6",
+        "11.3",
+        "11.4",
+        "11.5",
+        "13",
+        "13.2",
+        "13.3"
+      ],
+      "odef_clusters": [
+        "CJS-3.0",
+        "CJS-3.11",
+        "CJS-3.13",
+        "CJS-3.2",
+        "CJS-3.7"
+      ]
+    },
+    "Contested-Sentient Life": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P1",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#contested-sentient-life-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Contingent Claim": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#contingent-claim",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "11.5"
+      ],
+      "odef_clusters": []
+    },
+    "Continuity": {
+      "part": "apex",
+      "category": "apex",
+      "cluster_id": null,
+      "source_file": "core_05_apex_continuity_aim.md",
+      "anchor": "#continuity-aim-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Continuity (Constitutional Aim)": {
+      "part": "apex",
+      "category": "apex",
+      "cluster_id": null,
+      "source_file": "core_05_apex_continuity_aim.md",
+      "anchor": "#continuity-aim-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Contribution Nature": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A3",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#contribution-nature",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Corpus": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.I1",
+      "source_file": "core_05_band_integrative.md",
+      "anchor": "#corpus",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "8",
+        "8.4",
+        "15"
+      ],
+      "odef_clusters": [
+        "CJS-3.19"
+      ]
+    },
+    "Creative Work Attribution": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C1",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#creative-work-attribution-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Cruelty": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A1",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#cruelty",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "6.1",
+        "9.6"
+      ],
+      "odef_clusters": []
+    },
+    "Decentralization": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#decentralization",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.A1",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#collective-harm-boundary-and-harm-cluster",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Def.A2 Forum Families and Dispute Routing": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.A2",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#forum-families-and-dispute-routing-cluster",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Def.A3 Standing State, Contribution, and Violation": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.A3",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#standing-state-contribution-and-violation-cluster",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.A4",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#use-of-force-autonomous-coercion-and-mass-harm-cluster",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.C1",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#labor-and-economic-floor-cluster",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.C2",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#stewardship-governance-discipline-and-shared-system-capacity-cluster",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Def.C3 Privacy (Informational) \u2014 peer-level cluster head": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.C3",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#privacy-informational-cluster",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Def.C4 Trust and Trustworthiness": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.C4",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#trust-and-trustworthiness-cluster",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Def.I1 Corpus and Authority Stack": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.I1",
+      "source_file": "core_05_band_integrative.md",
+      "anchor": "#corpus-authority-stack-supremacy-and-enforceability-cluster",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Def.O1 Transparency, Auditability, and Verification": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.O1",
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#transparency-auditability-and-verification-cluster",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Def.O2 Truth and Epistemic Integrity": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.O2",
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#truth-and-epistemic-integrity-cluster",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Def.P1 Animal Life, Sentient Life, and Sentience Status": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.P1",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#animal-life-sentient-life-and-sentience-status-cluster",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Def.P2 Binding Stakeholder Choice": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.P2",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#binding-stakeholder-choice-cluster",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.P3",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#self-determination-and-meaningful-agency-cluster",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.P4",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#developing-sentient-best-interest-and-graduated-capability-cluster",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Dependency": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#dependency",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "3.1",
+        "3.2",
+        "3.3",
+        "5",
+        "5.2",
+        "6.1",
+        "9",
+        "9.2",
+        "9.4",
+        "11.5",
+        "13",
+        "13.1",
+        "13.2",
+        "13.3",
+        "14"
+      ],
+      "odef_clusters": [
+        "CJS-3.0",
+        "CJS-3.10",
+        "CJS-3.11",
+        "CJS-3.12",
+        "CJS-3.13",
+        "CJS-3.14",
+        "CJS-3.15",
+        "CJS-3.16",
+        "CJS-3.17",
+        "CJS-3.18",
+        "CJS-3.19",
+        "CJS-3.2",
+        "CJS-3.20",
+        "CJS-3.21",
+        "CJS-3.23",
+        "CJS-3.3",
+        "CJS-3.4",
+        "CJS-3.8"
+      ]
+    },
+    "Derived Sentient": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#derived-sentient-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Developing Sentient": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P4",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#developing-sentient-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Dignity and Equal Moral Standing": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#dignity-and-equal-moral-standing",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "2",
+        "2.1",
+        "6.1",
+        "9.6",
+        "12",
+        "12.1"
+      ],
+      "odef_clusters": []
+    },
+    "Distributed Understanding": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C2",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#distributed-understanding-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9",
+        "9.2"
+      ],
+      "odef_clusters": []
+    },
+    "Due Process": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#due-process-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.13"
+      ]
+    },
+    "Ecological Footprint": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#ecological-footprint",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Ecological Integrity": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#ecological-integrity-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "12",
+        "12.1"
+      ],
+      "odef_clusters": []
+    },
+    "Ecological Recovery Capacity": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#ecological-recovery-capacity-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "6.1"
+      ],
+      "odef_clusters": []
+    },
+    "Educational Agency": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P3",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#educational-agency",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9",
+        "9.2"
+      ],
+      "odef_clusters": []
+    },
+    "Elevated Communicative Life": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P1",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#elevated-communicative-life-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Emergency and Contingency": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#emergency-and-contingency-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Emergency Pre-Deliberation Action (Binding Collective Choice)": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#emergency-pre-deliberation-action-binding-collective-choice",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Environmental Preconditions": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#environmental-preconditions-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "12",
+        "12.1"
+      ],
+      "odef_clusters": []
+    },
+    "Epistemic Integrity": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.O2",
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#epistemic-integrity",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "3.2",
+        "3.3",
+        "6.2",
+        "6.2",
+        "6.2",
+        "9"
+      ],
+      "odef_clusters": []
+    },
+    "Essential-Environment Non-Commodification": {
+      "part": "independent",
+      "category": "independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#essential-environment-non-commodification-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Evaluation Completeness Constraint": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.O1",
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#evaluation-completeness-constraint",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Event-Contract Market": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#event-contract-market",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "11.5"
+      ],
+      "odef_clusters": []
+    },
+    "Evidence Preservation": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.O1",
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#evidence-preservation",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9.5"
+      ],
+      "odef_clusters": [
+        "CJS-3.6"
+      ]
+    },
+    "Existential Risk": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#existential-risk",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "6.1"
+      ],
+      "odef_clusters": []
+    },
+    "Expression": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P3",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#expression-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Fair Compensation": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C1",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#fair-compensation-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Family and Care Relationships": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#family-and-care-relationships-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Feasibility": {
+      "part": "independent",
+      "category": "independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#feasibility",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5",
+        "5.1",
+        "6.1",
+        "12"
+      ],
+      "odef_clusters": [
+        "CJS-3.16",
+        "CJS-3.17",
+        "CJS-3.5"
+      ]
+    },
+    "Flourishing": {
+      "part": "apex",
+      "category": "apex",
+      "cluster_id": null,
+      "source_file": "core_05_apex_flourishing_aim.md",
+      "anchor": "#flourishing-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Force Majeure": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#force-majeure-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Foreseeability Diligence": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": null,
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#foreseeability-diligence",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "3.1",
+        "3.2",
+        "3.3",
+        "6.2",
+        "6.2",
+        "9.5"
+      ],
+      "odef_clusters": []
+    },
+    "Forum Case Record": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A2",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#forum-case-record",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Forum Family, Constitutional": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A2",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#forum-family-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Forum Family, Environment": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A2",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#forum-family-environment",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Forum Family, Institutional": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A2",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#forum-family-institutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Forum Family, Integrity": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A2",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#forum-family-integrity",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Forum Family, Sentient": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A2",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#forum-family-sentient",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Forum Family, Technical": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A2",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#forum-family-technical",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Foundational Constitutional Choice": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_integrative.md",
+      "anchor": "#foundational-constitutional-choice",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.7"
+      ]
+    },
+    "Freedom (Bounded Agency)": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.P3",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#freedom-bounded-agency",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5",
+        "5.1",
+        "6.1"
+      ],
+      "odef_clusters": []
+    },
+    "Game of Chance": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#game-of-chance",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "11.5"
+      ],
+      "odef_clusters": []
+    },
+    "Good Faith": {
+      "part": "independent",
+      "category": "independent",
+      "cluster_id": "Def.O2",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#good-faith",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.21"
+      ]
+    },
+    "Governance": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#governance",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "10",
+        "10.1",
+        "13.3",
+        "15"
+      ],
+      "odef_clusters": [
+        "CJS-3.0",
+        "CJS-3.11",
+        "CJS-3.12",
+        "CJS-3.14",
+        "CJS-3.16",
+        "CJS-3.2",
+        "CJS-3.21",
+        "CJS-3.22",
+        "CJS-3.5"
+      ]
+    },
+    "Graduated Capability": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P4",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#graduated-capability-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Harassment and Bullying": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A1",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#harassment-and-bullying",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Harm": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A1",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#harm",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "3.1",
+        "5.1",
+        "6.1",
+        "6.1",
+        "6.1",
+        "9.6"
+      ],
+      "odef_clusters": []
+    },
+    "Harm Minimization (Tradeoff Selection)": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#harm-minimization-tradeoff-selection",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5",
+        "5.1",
+        "6.1",
+        "6.1",
+        "7"
+      ],
+      "odef_clusters": []
+    },
+    "High-Impact and Systemic Harm Publication Constraint": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": null,
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#high-impact-and-systemic-harm-publication-constraint",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Identity Data Protection": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#identity-data-protection",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Incentive Alignment": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": null,
+      "source_file": "core_05_band_integrative.md",
+      "anchor": "#incentive-alignment",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "2.2",
+        "4.1",
+        "11",
+        "11.1",
+        "11.3",
+        "11.5",
+        "15"
+      ],
+      "odef_clusters": []
+    },
+    "Incentive Alignment \u2014 baseline constitutional alignment": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": null,
+      "source_file": "core_05_band_integrative.md",
+      "anchor": "#incentive-alignment-baseline-constitutional-alignment",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Incentive Alignment \u2014 contingent claims, games of chance, and event-contract markets": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": null,
+      "source_file": "core_05_band_integrative.md",
+      "anchor": "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Incentive Alignment \u2014 strategic, scaled, and adversarial evaluation": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": null,
+      "source_file": "core_05_band_integrative.md",
+      "anchor": "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Incentive Alignment, Proxy Integrity, and Contingent Settlement": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_integrative.md",
+      "anchor": "#incentive-alignment-proxy-integrity-and-contingent-settlement",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Indigenous Continuity": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#indigenous-continuity-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Info-Sphere": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#info-sphere",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.23"
+      ]
+    },
+    "Innovation Reward and Anti-Enclosure": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_integrative.md",
+      "anchor": "#innovation-reward-and-anti-enclosure",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Insider Advantage": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#insider-advantage",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "11.5"
+      ],
+      "odef_clusters": []
+    },
+    "Instantiation Consent": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P4",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#instantiation-consent-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Intergenerational Responsibility": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#intergenerational-responsibility-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "12",
+        "12.1"
+      ],
+      "odef_clusters": []
+    },
+    "Irreversible Deprivation Measure": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A4",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#irreversible-deprivation-measure-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Irreversible Harm": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A1",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#irreversible-harm",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "3.1",
+        "6.1",
+        "6.1",
+        "6.1",
+        "8.3",
+        "15"
+      ],
+      "odef_clusters": [
+        "CJS-3.20"
+      ]
+    },
+    "Language, Culture, and Heritage": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#language-culture-and-heritage-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Leisure and Rest": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C1",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#leisure-and-rest-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Lifespan Equivalent Unit (LEQU)": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#lifespan-equivalent-unit-lequ",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Likeness and Documentary Depiction Interface": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C1",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#likeness-and-documentary-depiction-interface-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Market Concentration Threshold": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#market-concentration-threshold-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "13",
+        "13.1"
+      ],
+      "odef_clusters": [
+        "CJS-3.11"
+      ]
+    },
+    "Market Structure": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#market-structure-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "13",
+        "13.1",
+        "13.2",
+        "13.3"
+      ],
+      "odef_clusters": [
+        "CJS-3.11"
+      ]
+    },
+    "Material": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#material",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.10",
+        "CJS-3.11",
+        "CJS-3.12",
+        "CJS-3.14",
+        "CJS-3.15",
+        "CJS-3.17",
+        "CJS-3.19",
+        "CJS-3.21",
+        "CJS-3.22",
+        "CJS-3.3",
+        "CJS-3.5",
+        "CJS-3.9"
+      ]
+    },
+    "Material Degradation": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#material-degradation",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Material Impact": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#material-impact",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.7"
+      ]
+    },
+    "Material Risk": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#material-risk",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.19",
+        "CJS-3.6"
+      ]
+    },
+    "Materiality Determination": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#materiality-determination",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "2",
+        "3.1",
+        "3.2",
+        "3.3",
+        "4",
+        "6.2",
+        "6.2",
+        "6.2",
+        "7",
+        "9",
+        "9.2",
+        "9.3",
+        "9.4"
+      ],
+      "odef_clusters": [
+        "CJS-3.1",
+        "CJS-3.10",
+        "CJS-3.11",
+        "CJS-3.12",
+        "CJS-3.13",
+        "CJS-3.14",
+        "CJS-3.15",
+        "CJS-3.16",
+        "CJS-3.17",
+        "CJS-3.18",
+        "CJS-3.19",
+        "CJS-3.2",
+        "CJS-3.20",
+        "CJS-3.21",
+        "CJS-3.22",
+        "CJS-3.23",
+        "CJS-3.3",
+        "CJS-3.4",
+        "CJS-3.5",
+        "CJS-3.6",
+        "CJS-3.7",
+        "CJS-3.8",
+        "CJS-3.9"
+      ]
+    },
+    "Materiality Integrity Constraint": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#materiality-integrity-constraint",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Materiality Under Uncertainty": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#materiality-under-uncertainty",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Meaningful Agency": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.P3",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#meaningful-agency",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "2.2",
+        "3.4",
+        "5",
+        "6.1",
+        "8.3",
+        "9",
+        "9.1",
+        "9.2",
+        "9.4",
+        "11",
+        "11.1",
+        "12",
+        "13",
+        "13.2",
+        "15"
+      ],
+      "odef_clusters": []
+    },
+    "Merits Determination": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#merits-determination",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9.5"
+      ],
+      "odef_clusters": []
+    },
+    "Movement and Relocation": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#movement-and-relocation-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Natural Systems Standing": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#natural-systems-standing",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Necessity": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#necessity",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "1",
+        "5",
+        "5.1",
+        "6.1",
+        "6.1",
+        "6.1",
+        "6.2",
+        "6.2",
+        "6.2",
+        "6.3",
+        "7",
+        "8",
+        "8.2",
+        "9",
+        "9.5",
+        "10",
+        "10.1",
+        "11.5",
+        "11.6",
+        "12",
+        "13.2"
+      ],
+      "odef_clusters": [
+        "CJS-3.12",
+        "CJS-3.14",
+        "CJS-3.17"
+      ]
+    },
+    "Negligence": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#negligence",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Non-Compliance": {
+      "part": "independent",
+      "category": "independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_integrative.md",
+      "anchor": "#non-compliance",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Non-Compliance Finding Profile": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#non-compliance-finding-profile",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.1",
+        "CJS-3.11",
+        "CJS-3.12",
+        "CJS-3.13"
+      ]
+    },
+    "Non-Imposition (Cooperative Interaction)": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#non-imposition-cooperative-interaction",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Non-Separation": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.P4",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#non-separation-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Non-Statelessness": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#non-statelessness-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Occupancy Continuity": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#occupancy-continuity-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Oversight": {
+      "part": "apex",
+      "category": "apex",
+      "cluster_id": null,
+      "source_file": "core_05_apex_oversight_leg.md",
+      "anchor": "#oversight-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5.1",
+        "6.1",
+        "9",
+        "10",
+        "10.1",
+        "11.4",
+        "14"
+      ],
+      "odef_clusters": [
+        "CJS-3.10",
+        "CJS-3.11",
+        "CJS-3.15",
+        "CJS-3.16",
+        "CJS-3.2",
+        "CJS-3.20",
+        "CJS-3.22",
+        "CJS-3.3",
+        "CJS-3.8",
+        "CJS-3.9"
+      ]
+    },
+    "Parent-System Relationship": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#parent-system-relationship-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Participant Standing": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A3",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#participant-standing-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Participation": {
+      "part": "apex",
+      "category": "apex",
+      "cluster_id": null,
+      "source_file": "core_05_apex_participation_leg.md",
+      "anchor": "#participation-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "2",
+        "2.1",
+        "2.2",
+        "9",
+        "10",
+        "10.1",
+        "11.1"
+      ],
+      "odef_clusters": [
+        "CJS-3.7"
+      ]
+    },
+    "Press and Journalistic Activity": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#press-and-journalistic-activity-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Primary-Stakes Routing": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A2",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#primary-stakes-routing",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Privacy (Informational)": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C3",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#privacy-informational",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "6.2"
+      ],
+      "odef_clusters": []
+    },
+    "Procedural Fairness": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#procedural-fairness-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "2.1"
+      ],
+      "odef_clusters": []
+    },
+    "Productive Capacity": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#productive-capacity-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "11",
+        "11.1",
+        "11.2",
+        "12",
+        "12.1",
+        "12.2"
+      ],
+      "odef_clusters": []
+    },
+    "Proportionality": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#proportionality",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "1",
+        "5",
+        "5.1",
+        "6.1",
+        "6.1",
+        "6.2",
+        "6.2",
+        "6.2",
+        "6.3",
+        "7",
+        "8",
+        "8.2",
+        "9",
+        "9.5",
+        "9.6",
+        "10",
+        "10.1",
+        "11.5",
+        "11.6",
+        "12",
+        "13.2"
+      ],
+      "odef_clusters": [
+        "CJS-3.12",
+        "CJS-3.13",
+        "CJS-3.17",
+        "CJS-3.18",
+        "CJS-3.3"
+      ]
+    },
+    "Proportionate Cross-System Contribution": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#proportionate-cross-system-support-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Protected Characteristic Proxying and Disparate Impact": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#protected-characteristic-proxying-and-disparate-impact",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "2.1"
+      ],
+      "odef_clusters": []
+    },
+    "Protected Characteristics": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#protected-characteristics-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "2.1"
+      ],
+      "odef_clusters": []
+    },
+    "Protected Data and Internal-State Publication Constraint": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": null,
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#protected-data-and-internal-state-publication-constraint",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Protected Internal-State Boundary": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C3",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#protected-internal-state-boundary-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "6.2"
+      ],
+      "odef_clusters": []
+    },
+    "Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#protected-intimate-signal-gating-and-article-x-c-status-circumvention",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "2.1"
+      ],
+      "odef_clusters": []
+    },
+    "Protected Reporting (Whistleblowing)": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#protected-reporting-whistleblowing",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9.5"
+      ],
+      "odef_clusters": []
+    },
+    "Protected Reporting Retaliation and Access Interference": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#protected-reporting-retaliation-and-access-interference",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9.5"
+      ],
+      "odef_clusters": []
+    },
+    "Proxy Divergence": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#proxy-divergence",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "2",
+        "2.1",
+        "6.2",
+        "7",
+        "11",
+        "11.1",
+        "11.2",
+        "12",
+        "12.1",
+        "13",
+        "13.2"
+      ],
+      "odef_clusters": [
+        "CJS-3.11"
+      ]
+    },
+    "Psychological Harm": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A1",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#psychological-harm",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Public Oversight Baseline Disclosure": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.O1",
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#public-oversight-baseline-disclosure",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9.2"
+      ],
+      "odef_clusters": [
+        "CJS-3.3",
+        "CJS-3.4"
+      ]
+    },
+    "Publication Truthfulness and Recklessness Floor": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": null,
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#publication-truthfulness-and-recklessness-floor",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Reasonably Foreseeable": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": null,
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#reasonably-foreseeable",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Redress and Remediation": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#redress-and-remediation-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Refuge from Non-Compliance": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#refuge-from-non-compliance-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Remedy System": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#remedy-system-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Reproductive Autonomy": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": "Def.P3",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#reproductive-autonomy-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5"
+      ],
+      "odef_clusters": []
+    },
+    "Residual Risk / Misalignment": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#residual-risk--misalignment",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Restorative Justice": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#restorative-justice",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Reversibility": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#reversibility-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "4.1",
+        "5.1",
+        "6.1"
+      ],
+      "odef_clusters": [
+        "CJS-3.0",
+        "CJS-3.13",
+        "CJS-3.15",
+        "CJS-3.18",
+        "CJS-3.19",
+        "CJS-3.20",
+        "CJS-3.21",
+        "CJS-3.23",
+        "CJS-3.4",
+        "CJS-3.6",
+        "CJS-3.7"
+      ]
+    },
+    "Review and Correction Duty": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C2",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#review-and-correction-duty-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "11",
+        "11.3",
+        "11.4"
+      ],
+      "odef_clusters": []
+    },
+    "Risk": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#risk",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "3.1",
+        "3.3",
+        "5.1",
+        "6.1",
+        "6.1",
+        "14"
+      ],
+      "odef_clusters": [
+        "CJS-3.9"
+      ]
+    },
+    "Risk Disclosure": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.O1",
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#risk-disclosure",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Risk Evaluation": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#risk-evaluation",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Safe Conditions": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C1",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#safe-conditions-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Safety (Constraint)": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#safety-constraint",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "3.1",
+        "3.3",
+        "4",
+        "6.1",
+        "6.3",
+        "9",
+        "11",
+        "11.1"
+      ],
+      "odef_clusters": []
+    },
+    "Security-Sensitive Disclosure Balance": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": null,
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#security-sensitive-disclosure-balance",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Self-Determination": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P3",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#self-determination-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Self-Healing": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#self-healing-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "4.1"
+      ],
+      "odef_clusters": []
+    },
+    "Sentience Non-Exclusion": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P1",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#sentience-non-exclusion",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9.1"
+      ],
+      "odef_clusters": []
+    },
+    "Sentience Status Adjudication": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P1",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#sentience-status-adjudication-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Sentience-Status Adjudication Record": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P1",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#sentience-status-adjudication-record-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Sentient": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P1",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#sentient",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.9"
+      ]
+    },
+    "Shared-System Capacity": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#shared-system-capacity-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "12",
+        "12.1",
+        "12.2"
+      ],
+      "odef_clusters": []
+    },
+    "Short-Horizon Governance Defect": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C2",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#short-horizon-governance-defect-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "11"
+      ],
+      "odef_clusters": []
+    },
+    "Single Catastrophic Incident": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A3",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#single-catastrophic-incident",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Stakeholder": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#stakeholder",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.14",
+        "CJS-3.15",
+        "CJS-3.18",
+        "CJS-3.4",
+        "CJS-3.8"
+      ]
+    },
+    "Stakeholder Emergency and Contingency": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#stakeholder-emergency-and-contingency",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P2",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P2",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Stakeholder Weight": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#stakeholder-weight",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.7"
+      ]
+    },
+    "Standing Effect": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A3",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#standing-effect-chapter-six",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Standing Lock": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A3",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#standing-lock",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Standing Record": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A3",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#standing-record-chapter-six",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Stay": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#stay",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Stewardship": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C2",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#stewardship-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9.1",
+        "10",
+        "10.1",
+        "13.3"
+      ],
+      "odef_clusters": [
+        "CJS-3.0"
+      ]
+    },
+    "Stewardship Defect": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C2",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#stewardship-defect-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "11"
+      ],
+      "odef_clusters": []
+    },
+    "Strategic Stewardship Obligation": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C2",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#strategic-stewardship-obligation-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9",
+        "9.1",
+        "9.3"
+      ],
+      "odef_clusters": []
+    },
+    "Substantive Fairness": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#substantive-fairness-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "2",
+        "2.1",
+        "2.2"
+      ],
+      "odef_clusters": []
+    },
+    "Substrate Class": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P1",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#substrate-agnostic",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9.1"
+      ],
+      "odef_clusters": []
+    },
+    "Surveillance Boundary": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C3",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#surveillance-boundary",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "6.2"
+      ],
+      "odef_clusters": []
+    },
+    "Sustainability": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#sustainability",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Sustained High-Gravity Pattern": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A3",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#sustained-high-gravity-pattern",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "System": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#system-definition",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.19",
+        "CJS-3.20",
+        "CJS-3.22",
+        "CJS-3.3",
+        "CJS-3.5",
+        "CJS-3.9"
+      ]
+    },
+    "System Alignment Certification": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#system-alignment-certification-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "14"
+      ],
+      "odef_clusters": [
+        "CJS-3.3"
+      ]
+    },
+    "System Boundaries": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#system-boundaries",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "System Boundary Integrity": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#system-boundary-integrity",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "System Capture": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#system-capture",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "11",
+        "11.1",
+        "11.3",
+        "11.4",
+        "15"
+      ],
+      "odef_clusters": []
+    },
+    "System Certification Record": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#system-certification-record-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.4"
+      ]
+    },
+    "System Classification Record": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#system-classification-record-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.0",
+        "CJS-3.15",
+        "CJS-3.4"
+      ]
+    },
+    "System Creation": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#system-creation-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5",
+        "5.3",
+        "9.5"
+      ],
+      "odef_clusters": []
+    },
+    "System Data Types Record": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#system-data-types-record-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": [
+        "CJS-3.15",
+        "CJS-3.4"
+      ]
+    },
+    "Systemic": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#systemic",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Systemic Lock-In": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#systemic-lock-in",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "6.1"
+      ],
+      "odef_clusters": []
+    },
+    "Systemic Materiality": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#systemic-materiality",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Timeliness": {
+      "part": "apex",
+      "category": "apex",
+      "cluster_id": null,
+      "source_file": "core_05_apex_timeliness_leg.md",
+      "anchor": "#timeliness-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9.1"
+      ],
+      "odef_clusters": [
+        "CJS-3.7"
+      ]
+    },
+    "Timely Resolution": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#timely-resolution-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Training-Data Use": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C1",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#training-data-use-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Transparency": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.O1",
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#transparency",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "3.4",
+        "9",
+        "9.2"
+      ],
+      "odef_clusters": [
+        "CJS-3.10",
+        "CJS-3.11",
+        "CJS-3.12",
+        "CJS-3.13",
+        "CJS-3.14",
+        "CJS-3.15",
+        "CJS-3.16",
+        "CJS-3.17",
+        "CJS-3.18",
+        "CJS-3.2",
+        "CJS-3.20",
+        "CJS-3.21",
+        "CJS-3.22",
+        "CJS-3.23",
+        "CJS-3.3",
+        "CJS-3.4",
+        "CJS-3.5",
+        "CJS-3.8",
+        "CJS-3.9"
+      ]
+    },
+    "Trust": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C4",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#trust",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "4",
+        "6.2",
+        "6.2"
+      ],
+      "odef_clusters": [
+        "CJS-3.5"
+      ]
+    },
+    "Trust Degradation and Misleading Reliance": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C4",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#trust-degradation-and-misleading-reliance",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "4"
+      ],
+      "odef_clusters": []
+    },
+    "Trustworthiness": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.C4",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#trustworthiness",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "4"
+      ],
+      "odef_clusters": [
+        "CJS-3.6"
+      ]
+    },
+    "Truth (Constitutional Constraint)": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.O2",
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#truth-constitutional-constraint",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "3.2",
+        "3.3",
+        "3.4",
+        "4",
+        "6.2",
+        "6.2",
+        "6.2",
+        "6.3",
+        "8.3",
+        "9",
+        "11",
+        "11.1",
+        "11.5",
+        "15"
+      ],
+      "odef_clusters": []
+    },
+    "Unified Incident": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A3",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#unified-incident",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Unified Incident Record": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A3",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#unified-incident-record",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Use of Force": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A4",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#use-of-force-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Verifiability": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.O1",
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#verifiability",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9.3"
+      ],
+      "odef_clusters": [
+        "CJS-3.10",
+        "CJS-3.6"
+      ]
+    },
+    "Verified Inputs for Standing": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A3",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#verified-inputs-for-standing",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Violation Nature": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A3",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#violation-nature-chapter-six",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Volitional Integrity": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.P3",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#volitional-integrity",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Voluntary Discontinuation": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#voluntary-discontinuation-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5.2"
+      ],
+      "odef_clusters": []
+    },
+    "Weapons of Mass Harm": {
+      "part": "dependent_cluster",
+      "category": "dependent_cluster",
+      "cluster_id": "Def.A4",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#weapons-of-mass-harm-constitutional",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [],
+      "odef_clusters": []
+    },
+    "Wellbeing": {
+      "part": "semi_independent",
+      "category": "semi_independent",
+      "cluster_id": null,
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#wellbeing",
+      "has_o": true,
+      "has_e": true,
+      "has_m": true,
+      "has_a": true,
+      "has_c": true,
+      "referenced_principles": [
+        "2",
+        "2.2",
+        "8.3",
+        "11.1",
+        "12",
+        "12.1"
+      ],
+      "odef_clusters": []
+    }
+  },
+  "gaps": {
+    "completeness": [],
+    "accuracy": [],
+    "coverage": [],
+    "cluster_integrity": []
+  }
+}

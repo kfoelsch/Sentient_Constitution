@@ -1,6 +1,6 @@
 # AI Corpus Access Optimization Plan
 
-**Edition:** SC-Corpus-2026.04.32  
+**Edition:** SC-Corpus-2026.04.33  
 **Objective:** Maximize easy AI access, minimize token usage during edits, preserve human readability  
 **Status:** Migration complete for the required AI navigation layer; optional validation and measurement work remains ongoing
 
@@ -22,7 +22,7 @@ This plan established the token-efficient AI navigation layer while maintaining 
 Required migration scope is complete:
 
 - `ai_corpus/indexes/section_manifest.json` provides full-source section ranges for the active corpus scope.
-- `ai_corpus/indexes/definition_registry.json` indexes all Chapter Five O/E/C-owning definitions.
+- `ai_corpus/indexes/definition_registry.json` indexes all Chapter Five O/M/A/C-owning definitions.
 - `ai_corpus/indexes/crossref_matrix.json` maps file-to-file Markdown references across the active corpus scope.
 - `ai_corpus/visualization/dependency_map.mmd`, `ai_corpus/AI_NAVIGATION_GUIDE.md`, `ai_corpus/QUICK_REFERENCE.md`, and `ai_corpus/MAINTENANCE.md` document the workflow.
 - `make ai-corpus-sync` regenerates the derived indexes.
@@ -38,23 +38,24 @@ The older per-definition JSON files under `ai_corpus/definitions/` are retained 
 
 | File | Lines | Role | Primary Content |
 |------|-------|------|-----------------|
-| `core_00-01_principles.md` | ~1,400 | Core | Preamble, Chapter 1 (values, constraints) |
-| `core_02-04_definition_mechanics.md` | ~530 | Core | Chapters 2-4 (O/E/C structure, burden, traceability) |
-| `core_05-05_definitions_a_independent.md` | ~1,300 | Core | Chapter 5 §1 (independent definitions A-Z) |
+| `core_00_preamble.md`, `core_01_a_values_principles.md`, and `core_01_b_stewardship_capacity_principles.md` | ~1,400 | Core | Preamble, Chapter 1 (values, constraints) |
+| `core_02_definition_structure.md` | ~310 | Core | Chapters 2-3 (O/M/A/C structure, integrity) |
+| `core_04_burden_traceability_verification.md` | ~340 | Core | Chapter 4 (burden, traceability, verification) |
+| `core_05__definitions_home.md` | ~1,300 | Core | Chapter 5 §1 (independent definitions A-Z) |
 | `core_05-05_definitions_b_semi_independent.md` | ~1,900 | Core | Chapter 5 §2 (semi-independent definitions) |
 | `core_05-05_definitions_c_dependent_clusters.md` | ~1,800 | Core | Chapter 5 §3 (dependent clusters) |
-| `core_06-06_standing_assessment.md` | ~880 | Core | Chapter 6 Part A (two-axis model) |
-| `core_07-07_standing_integration.md` | ~780 | Core | Chapter 6 Part B (integration, effects) |
-| `core_08-08_misconduct.md` | ~420 | Core | Chapter 7 (anti-constitutional misconduct) |
-| `core_09-09_forum.md` | ~380 | Core | Chapter 8 (forums, jurisdiction) |
-| `core_10-10_rights_part_a.md` | ~630 | Core | Chapter 9 Part A (Articles I-IV) |
-| `core_10-10_rights_part_b.md` | ~1,380 | Core | Chapter 9 Part B (Articles V-XI) |
-| `core_10-10_rights_part_c.md` | ~1,600 | Core | Chapter 9 Part C (Articles XII-XXII) |
-| `core_10-10_rights_part_d.md` | ~560 | Core | Chapter 9 Part D (Articles XXIII-XXV) |
-| `core_11-11_governance.md` | ~330 | Core | Chapter 10 (constitutional contract) |
-| `core_12-14_amendment.md` | ~640 | Core | Chapters 11-13 (non-regression, amendment) |
-| `core_15-15_incorporation.md` | ~160 | Core | Chapter 14 (incorporation bridge) |
-| `corpus_systems.md` | ~2,170 | Companion | Systems companion (S1-S3, Protocols A, B, S4, S5) |
+| `core_08_standing_assessment.md` | ~880 | Core | Chapter 6 Part A (two-axis model) |
+| `core_09_standing_integration.md` | ~780 | Core | Chapter 6 Part B (integration, effects) |
+| `core_10_a_misconduct_designation.md` | ~420 | Core | Chapter 7 (anti-constitutional misconduct) |
+| `core_11_forum.md` | ~380 | Core | Chapter 8 (forums, jurisdiction) |
+| `core_06_rights_part_a.md` | ~630 | Core | Chapter 9 Part A (Articles I-IV) |
+| `core_06_rights_part_b.md` | ~1,380 | Core | Chapter 9 Part B (Articles V-XI) |
+| `core_06_rights_part_c.md` | ~1,600 | Core | Chapter 9 Part C (Articles XII-XXII) |
+| `core_06_rights_part_d.md` | ~560 | Core | Chapter 9 Part D (Articles XXIII-XXV) |
+| `core_12_governance.md` | ~330 | Core | Chapter 10 (constitutional contract) |
+| `core_13_non_regression.md` | ~640 | Core | Chapters 11-13 (non-regression, amendment) |
+| `core_16_incorporation.md` | ~160 | Core | Chapter 14 (incorporation bridge) |
+| `corpus_systems.md` | ~2,170 | Companion | Systems companion (CS-2–CS-4, Protocols A, B, S4, S5) |
 | `corpus_institutions.md` | ~940 | Companion | Institutional governance (CI-1 to CI-26) |
 | `corpus_forum.md` | ~1,150 | Companion | Forum operations |
 | `corpus_joint_structure.md` | ~1,730 | Companion | Cross-domain implementation layer |
@@ -76,7 +77,7 @@ High-traffic cross-reference patterns:
 **Pattern A: Definition-First Reading**
 ```
 When editing content that uses defined terms:
-1. Read the specific definition entry (O/E/C components) from Chapter 5
+1. Read the specific definition entry (O/M/A/C components) from Chapter 5
 2. Read the referencing section from the target file
 3. Only read surrounding context if ambiguity remains
 ```
@@ -84,7 +85,7 @@ When editing content that uses defined terms:
 **Pattern B: Hub-and-Spoke Navigation**
 ```
 For Chapter 9 rights editing:
-1. Read the specific Article from core_10-10_rights_part_*.md
+1. Read the specific Article from core_06_rights_part_*.md
 2. Read doc_architecture.md section 2 for corpus role mapping
 3. Read relevant implementation companion sections only if operational detail needed
 ```
@@ -106,7 +107,7 @@ For edits confined to a single semantic unit:
 - At `<details>` block boundaries
 
 **Avoid splitting:**
-- O/E/C component triplets within definitions
+- O/M/A/C component triplets within definitions
 - Trace/DEFINITION/COMPLIANCE blocks
 - Cross-reference lists mid-entry
 - Table rows
@@ -119,7 +120,7 @@ Each definition in Chapter 5 follows this pattern:
 
 [Trace block in <details>]
 
-[DEFINITION block in <details> with O/E/C]
+[DEFINITION block in <details> with O/M/A/C]
 
 [COMPLIANCE block in <details>]
 
@@ -157,9 +158,9 @@ Index of all Chapter 5 definitions with:
 Directed graph of file-to-file Markdown references:
 ```json
 {
-  "source": "core_10-10_rights_part_c.md",
+  "source": "core_06_rights_part_c.md",
   "targets": [
-    {"file": "core_05-05_definitions_a_independent.md", "count": 15, "anchors": [...]},
+    {"file": "core_05__definitions_home.md", "count": 15, "anchors": [...]},
     {"file": "corpus_systems.md", "count": 8, "anchors": [...]}
   ]
 }
@@ -187,7 +188,7 @@ Mermaid diagram showing:
 Scenario: Update "Proportionality" definition
 
 Current (expensive):
-1. Read entire core_05-05_definitions_a_independent.md (~1,300 lines)
+1. Read entire core_05__definitions_home.md (~1,300 lines)
 2. Edit definition
 3. Search all files for references to update
 
@@ -223,7 +224,7 @@ Scenario: Add new definition to Chapter 5
 
 Optimized pattern:
 1. Read only the alphabetical insertion point (adjacent definitions)
-2. Add definition following O/E/C template
+2. Add definition following O/M/A/C template
 3. Run `make ai-corpus-sync` to regenerate `ai_corpus/indexes/definition_registry.json`
 4. Flag for cross-reference audit (async)
 ```
@@ -293,7 +294,7 @@ Optimized pattern:
 
 | Task | Files to Read (Current) | Files to Read (Optimized) |
 |------|------------------------|---------------------------|
-| Edit Chapter 1 principle | core_00-01_principles.md + cross-refs | Section manifest → read section only |
+| Edit Chapter 1 principle | `core_00_preamble.md`, `core_01_a_values_principles.md`, `core_01_b_stewardship_capacity_principles.md` + cross-refs | Section manifest → read section only |
 | Edit Chapter 5 definition | Full Part file (~1,500 lines) | Definition registry → entry only (~50 lines) |
 | Add Chapter 9 right | Full Part file + cross-refs | Target article + related definitions only |
 | Cross-file reference audit | All files | Crossref matrix → specific files |
@@ -317,7 +318,7 @@ Optimized pattern:
 
 **Current approach (~1,400 tokens):**
 ```
-Read core_05-05_definitions_a_independent.md (full file)
+Read core_05__definitions_home.md (full file)
 Search for "Proportionality" references across all files
 Read each referencing file section
 ```
@@ -325,7 +326,7 @@ Read each referencing file section
 **Optimized approach (~150 tokens):**
 ```
 Query: `ai_corpus/indexes/definition_registry.json` for "Proportionality"
-Result: {file: "core_05-05_definitions_a_independent.md", lines: [1100-1150]}
+Result: {file: "core_05__definitions_home.md", lines: [1100-1150]}
 Read lines 1100-1150 only (~50 lines)
 Query: `ai_corpus/indexes/crossref_matrix.json` references to "Proportionality"
 Result: [3 files, 5 sections]

@@ -1,0 +1,607 @@
+{
+  "generated": "2026-08-09",
+  "files": {
+    "corpus_systems/cs_04_critical_system_stewardship.md": [
+      {
+        "modality": "DUTY",
+        "terms": [
+          "criticality",
+          "dependency",
+          "impact",
+          "intensity",
+          "levels",
+          "obligations",
+          "reflect",
+          "scale",
+          "sets",
+          "stewardship",
+          "system"
+        ],
+        "text": "Stewardship criticality levels: Stewardship must reflect dependency and system impact; it sets the scale and intensity of obligations."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "alternatively",
+          "conditions",
+          "failure",
+          "produces",
+          "survival-relevant",
+          "system-collapse",
+          "timeframes"
+        ],
+        "text": "Alternatively, failure produces survival-relevant or system-collapse conditions within required timeframes."
+      },
+      {
+        "modality": "PROHIBITION",
+        "terms": [
+          "audit",
+          "cjs-",
+          "complexity",
+          "contractual",
+          "defeat",
+          "intervention",
+          "organizational",
+          "procedural",
+          "read",
+          "stewards",
+          "substitution",
+          "use"
+        ],
+        "text": "Stewards must not use organizational, contractual, or procedural complexity to defeat audit, intervention, or substitution (read with CJS-5.3, CJS-5.8, CJS-5.10, CJS-5.17, and CJS-5.23)."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "audits",
+          "cadence",
+          "class",
+          "demanding",
+          "least",
+          "protocol"
+        ],
+        "text": "Cadence must be at least as demanding as Class A audits under Protocol B."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "behavior",
+          "coupling",
+          "decision",
+          "degraded-mode",
+          "intelligible",
+          "overseers",
+          "qualified",
+          "rights"
+        ],
+        "text": "Coupling, decision rights, and degraded-mode behavior must be intelligible to qualified overseers."
+      },
+      {
+        "modality": "PROHIBITION",
+        "terms": [
+          "feasible",
+          "individuals",
+          "informal",
+          "irreplaceable",
+          "knowledge",
+          "locked",
+          "opaque",
+          "practice",
+          "recovery",
+          "standardization"
+        ],
+        "text": "Knowledge and recovery must not be locked in irreplaceable individuals or opaque informal practice where standardization is feasible."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "degradation",
+          "degraded",
+          "dependent",
+          "failure",
+          "normal",
+          "operators",
+          "oversight",
+          "pathways",
+          "understandable"
+        ],
+        "text": "Failure/degradation pathways must be understandable to oversight and dependent operators (normal and degraded)."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "article",
+          "auditability",
+          "cross-steward",
+          "documented",
+          "evidence",
+          "interfaces",
+          "observable",
+          "vendor",
+          "xv-a"
+        ],
+        "text": "Cross-steward and vendor interfaces must be documented for Article XV-A (Auditability and Observable Evidence)."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "above",
+          "contest",
+          "dependency-reduction",
+          "documentation",
+          "handoff",
+          "obligations",
+          "substitutability",
+          "sufficient"
+        ],
+        "text": "Handoff and substitutability documentation must be sufficient for contest and dependency-reduction obligations above."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "adverse",
+          "challenge",
+          "delaying",
+          "findings",
+          "functions",
+          "incentives",
+          "independent",
+          "operation",
+          "remediation",
+          "reward",
+          "roles",
+          "sufficiently",
+          "suppressing"
+        ],
+        "text": "and challenge functions must be sufficiently independent in operation and incentives from roles that reward suppressing adverse findings or delaying remediation."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "achievable",
+          "compromising",
+          "continuity",
+          "feasibly",
+          "independence",
+          "survival-critical"
+        ],
+        "text": "That independence must be feasibly achievable without compromising survival-critical continuity."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "continuity",
+          "continuous",
+          "exit",
+          "integrity",
+          "maintain",
+          "operation",
+          "operational",
+          "oversight",
+          "recoverability",
+          "recovery",
+          "timeframes",
+          "transfer"
+        ],
+        "text": "Continuity, transfer, and exit integrity: Maintain continuous operation, recoverability, and oversight within required operational and recovery timeframes."
+      },
+      {
+        "modality": "PROHIBITION",
+        "terms": [
+          "degradation",
+          "inconsist",
+          "withdrawal"
+        ],
+        "text": "Withdrawal and degradation (prohibited where inconsist"
+      },
+      {
+        "modality": "PROHIBITION",
+        "terms": [
+          "ent",
+          "governance",
+          "maintenance",
+          "operation",
+          "steward",
+          "withdraw"
+        ],
+        "text": "ent): A steward must not withdraw from operation, maintenance, or governance."
+      },
+      {
+        "modality": "PROHIBITION",
+        "terms": [
+          "capacity",
+          "degrade",
+          "materially",
+          "responsiveness",
+          "support"
+        ],
+        "text": "It must not materially degrade support, capacity, or responsiveness."
+      },
+      {
+        "modality": "PROHIBITION",
+        "terms": [
+          "classification",
+          "continuity",
+          "control",
+          "critical",
+          "functions",
+          "gap",
+          "inconsistent",
+          "oversight",
+          "ownership",
+          "recovery",
+          "system",
+          "transfer",
+          "would"
+        ],
+        "text": "It must not transfer control, ownership, or critical functions where that would gap continuity, recovery, or oversight inconsistent with the system\u2019s classification."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "affect",
+          "auditable",
+          "class",
+          "documented",
+          "reviewable",
+          "safeguards",
+          "they",
+          "transfer",
+          "transition",
+          "transitions"
+        ],
+        "text": "Transition and transfer safeguards: Transitions must be auditable, documented, and reviewable where they affect Class A or B."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "above",
+          "before",
+          "continuity",
+          "delegation",
+          "exit",
+          "function",
+          "level",
+          "maintain",
+          "necessary",
+          "transfer"
+        ],
+        "text": "Before necessary transfer, delegation, or exit: maintain continuity of function at or above required level."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "classification",
+          "entity",
+          "meets",
+          "obligations",
+          "receiving",
+          "stewardship",
+          "validate"
+        ],
+        "text": "Validate that the receiving entity meets required stewardship classification and obligations."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "fallback",
+          "integrity",
+          "intervention",
+          "mechanisms",
+          "pathways",
+          "pre-established",
+          "preserving",
+          "timeframes",
+          "transfer",
+          "triggers"
+        ],
+        "text": "Those mechanisms include pre-established fallback, transfer pathways, or intervention triggers preserving integrity within required timeframes."
+      },
+      {
+        "modality": "PROHIBITION",
+        "terms": [
+          "age",
+          "calendar",
+          "ceilings",
+          "competency",
+          "critical",
+          "eligibility",
+          "life-stage",
+          "maximum",
+          "roles",
+          "rules",
+          "stand-alone",
+          "steward",
+          "system",
+          "used"
+        ],
+        "text": "Competency: Maximum calendar age and life-stage ceilings must not be used as stand-alone eligibility rules for Critical System Steward roles."
+      },
+      {
+        "modality": "PROHIBITION",
+        "terms": [
+          "article",
+          "authority",
+          "authorization",
+          "chapter",
+          "classified",
+          "constitution",
+          "eligibility",
+          "entitlement",
+          "exercising",
+          "governance",
+          "governing",
+          "implemented",
+          "ix-c",
+          "legitimacy",
+          "material",
+          "participation",
+          "personnel",
+          "rules",
+          "section",
+          "sentient",
+          "six",
+          "stand-alone",
+          "systems",
+          "they",
+          "used",
+          "voting"
+        ],
+        "text": "They must not be used as stand-alone eligibility rules for governing personnel exercising material authority over classified systems (Sentient Constitution Chapter Six, section 1 \u2014 Authorization and Legitimacy of Governi"
+      },
+      {
+        "modality": "PROHIBITION",
+        "terms": [
+          "against",
+          "concealment",
+          "gaming",
+          "latency",
+          "reward",
+          "safety",
+          "systematically",
+          "trade-downs",
+          "truth"
+        ],
+        "text": "It must not systematically reward concealment, latency gaming, or trade-downs against safety or Truth."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "across",
+          "affect",
+          "chains",
+          "class",
+          "control",
+          "critical",
+          "dependency",
+          "governance",
+          "integrated",
+          "materially",
+          "operators",
+          "risk",
+          "run",
+          "stewards",
+          "system",
+          "systems",
+          "they"
+        ],
+        "text": "For Class A and Class B, operators and Critical System Stewards must run integrated risk governance across the systems and dependency chains they control or materially affect."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "articles",
+          "chapter",
+          "five",
+          "foundational",
+          "inside",
+          "material",
+          "one",
+          "requirements",
+          "six",
+          "statements",
+          "stay",
+          "through"
+        ],
+        "text": "Those statements must stay inside foundational requirements (Chapter One, Chapter Six, Articles V through IX, and Chapter Five where material)"
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "cjs-",
+          "classification",
+          "corpus",
+          "joint",
+          "reconcile",
+          "record",
+          "structure",
+          "system",
+          "violating"
+        ],
+        "text": "and must reconcile with the System Classification Record without violating CJS-5.11, CJS-5.7, or CJS-5.12 in corpus_joint_structure.md."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "affect",
+          "applicable",
+          "arrangement",
+          "ci-",
+          "contest-integrity",
+          "coordination",
+          "critical",
+          "cross-institution",
+          "document",
+          "either",
+          "equivalent",
+          "escalation",
+          "fall",
+          "functionally",
+          "independent",
+          "institutional",
+          "materially",
+          "participate",
+          "program",
+          "published",
+          "review",
+          "stewards",
+          "system",
+          "systems"
+        ],
+        "text": "Critical System Stewards that materially affect such systems must either fall under that institutional program or document an equivalent functionally independent contest-integrity review, or participate in a published cr"
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "failure",
+          "integrity",
+          "maintain",
+          "operational",
+          "stewardship",
+          "transparency"
+        ],
+        "text": "Stewardship failure: Failure to maintain required operational integrity, transparency."
+      },
+      {
+        "modality": "PERMISSION",
+        "terms": [
+          "affects",
+          "continuity",
+          "integrity",
+          "materially",
+          "organization",
+          "owns",
+          "stewardship-critical",
+          "system",
+          "whether"
+        ],
+        "text": "An organization may be stewardship-critical if it materially affects continuity or integrity whether or not it owns the system."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "access",
+          "arbitrary",
+          "capture-driven",
+          "class",
+          "continuity",
+          "continuous",
+          "critical",
+          "cutoffs",
+          "depends",
+          "enough",
+          "fair",
+          "healthcare",
+          "institution",
+          "keep",
+          "layer",
+          "non-degrading",
+          "operators",
+          "participation",
+          "personhood",
+          "political",
+          "process",
+          "refuge",
+          "remedy",
+          "stewards",
+          "stop",
+          "survival",
+          "system"
+        ],
+        "text": "Where a Class A, Class B, or Class C system or institution depends on such a layer for survival, healthcare, refuge, political participation, remedy, or non-degrading continuity of personhood, operators and Critical Syst"
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "disclose",
+          "duration",
+          "full",
+          "nature",
+          "scope",
+          "substitutability",
+          "timeframes",
+          "unachievable"
+        ],
+        "text": "Where full substitutability is unachievable in required timeframes: disclose nature, scope, duration."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "actions",
+          "affecting",
+          "attributable",
+          "behavior",
+          "org",
+          "system",
+          "traceable"
+        ],
+        "text": "Org actions affecting system behavior must be traceable and attributable."
+      },
+      {
+        "modality": "PROHIBITION",
+        "terms": [
+          "authorized",
+          "degrade",
+          "delay",
+          "interventions",
+          "obstruct"
+        ],
+        "text": "Must not obstruct, delay, or degrade authorized interventions."
+      },
+      {
+        "modality": "DUTY",
+        "terms": [
+          "capture",
+          "corruption",
+          "detect",
+          "governance",
+          "incentive",
+          "integrity",
+          "mechanisms",
+          "mitigate",
+          "negligence",
+          "systemic"
+        ],
+        "text": "Governance and incentive integrity: Mechanisms must detect and mitigate capture, corruption, systemic negligence."
+      },
+      {
+        "modality": "PROHIBITION",
+        "terms": [
+          "conflicting",
+          "create",
+          "incentives",
+          "integrity",
+          "safety",
+          "systematically",
+          "they"
+        ],
+        "text": "They must not create incentives systematically conflicting with integrity/safety."
+      },
+      {
+        "modality": "PROHIBITION",
+        "terms": [
+          "concealment",
+          "degradation",
+          "enable",
+          "failure",
+          "risk",
+          "they"
+        ],
+        "text": "They must not enable concealment of failure, risk, degradation."
+      },
+      {
+        "modality": "PROHIBITION",
+        "terms": [
+          "classification",
+          "evade",
+          "failure",
+          "fragmentation",
+          "outsourcing",
+          "reclassification",
+          "restructuring"
+        ],
+        "text": "Failure and reclassification: Fragmentation, outsourcing, or restructuring must not evade classification."
+      }
+    ]
+  }
+}

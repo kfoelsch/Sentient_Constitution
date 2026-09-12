@@ -1,0 +1,154 @@
+# Reference Integrity Audit - 2026-09-09
+
+## Scope
+- `core_00_preamble.md`
+- `core_01_a_values_principles.md`
+- `core_01_b_interaction_interpretation.md`
+- `core_01_c_stewardship_capacity_principles.md`
+- `core_02_definition_structure.md`
+- `core_03_definition_integrity.md`
+- `core_04_burden_traceability_verification.md`
+- `core_05__definitions_home.md`
+- `core_05_apex_accountability_leg.md`
+- `core_05_apex_continuity_aim.md`
+- `core_05_apex_flourishing_aim.md`
+- `core_05_apex_oversight_leg.md`
+- `core_05_apex_participation_leg.md`
+- `core_05_apex_timeliness_leg.md`
+- `core_05_band_accountability.md`
+- `core_05_band_continuity.md`
+- `core_05_band_integrative.md`
+- `core_05_band_oversight.md`
+- `core_05_band_participation.md`
+- `core_05_band_performance.md`
+- `core_07_a_system_alignment_certification_evaluation.md`
+- `core_07_b_system_alignment_certification_record_process.md`
+- `core_07_system_alignment_certification.md`
+- `core_08_standing_assessment.md`
+- `core_09_standing_integration.md`
+- `core_10_a_misconduct_designation.md`
+- `core_10_b_misconduct_pattern_applications.md`
+- `core_11_forum.md`
+- `core_08-11_application_vignettes.md`
+- `core_06_rights_part_a.md`
+- `core_06_rights_part_b.md`
+- `core_06_rights_part_c.md`
+- `core_06_rights_part_d.md`
+- `core_12_governance.md`
+- `core_13_non_regression.md`
+- `core_14_expansion_supremacy.md`
+- `core_15_amendment_ratification.md`
+- `core_16_incorporation.md`
+- `corpus_systems.md`
+- `corpus_institutions.md`
+- `corpus_forum.md`
+- `corpus_joint_structure.md`
+- `corpus_joint_structure/cjs_00_registry_and_reading_rules.md`
+- `corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md`
+- `corpus_joint_structure/cjs_02_specific_joint_interlocks.md`
+- `corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md`
+- `corpus_joint_structure/cjs_03a_accountability_operations.md`
+- `corpus_joint_structure/cjs_03c_continuity_operations.md`
+- `corpus_joint_structure/cjs_03i_integrative_operations.md`
+- `corpus_joint_structure/cjs_03o_oversight_operations.md`
+- `corpus_joint_structure/cjs_03p_participation_operations.md`
+- `corpus_joint_structure/cjs_03u_audit_process.md`
+- `corpus_joint_structure/cjs_04_drafting_contracts.md`
+- `corpus_joint_structure/cjs_05_odef_parse_mechanics.md`
+- `corpus_joint_structure/cjs_06_support_hosting_classification.md`
+- `corpus_joint_structure/cjs_reader_guide.md`
+- `corpus_systems/cs_00_registry_and_reading_rules.md`
+- `corpus_systems/cs_01_scope_purpose_identifier_rules.md`
+- `corpus_systems/cs_02_a_information_types_and_handling.md`
+- `corpus_systems/cs_02_b_data_classifications.md`
+- `corpus_systems/cs_03_a_system_classification_machinery.md`
+- `corpus_systems/cs_03_b_system_impact_classifications.md`
+- `corpus_systems/cs_04_critical_system_stewardship.md`
+- `corpus_systems/cs_05_design_testing_verification_deployment.md`
+- `corpus_systems/cs_06_comprehensibility_complexity_stewardship.md`
+- `corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md`
+- `corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md`
+- `corpus_systems/cs_09_resource_allocation_funding_stewardship.md`
+- `corpus_systems/cs_10_transition_constitution_migration_governance.md`
+- `corpus_systems/cs_11_subversion_response_replacement_reconstitution.md`
+- `corpus_systems/cs_12_decentralized_continuity_partition_resilience.md`
+- `corpus_institutions/ci_00_registry_and_reading_rules.md`
+- `corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md`
+- `corpus_institutions/ci_03_institutional_design_separation_of_powers.md`
+- `corpus_institutions/ci_04_appointment_competency_rotation_removal.md`
+- `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md`
+- `corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md`
+- `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md`
+- `corpus_institutions/ci_08_transparency_participation_accessible_pathways.md`
+- `corpus_institutions/ci_09_classification_linked_institutional_obligations.md`
+- `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md`
+- `corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md`
+- `corpus_institutions/ci_12_cross_institution_coordination_escalation.md`
+- `corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md`
+- `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md`
+- `corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md`
+- `corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md`
+- `corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md`
+- `corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md`
+- `corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md`
+- `corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md`
+- `corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md`
+- `corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md`
+- `corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md`
+- `corpus_institutions/ci_24_innovation_reward_disclosure_anti_enclosure.md`
+- `corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md`
+- `corpus_institutions/ci_26_compliance_mapping_stable_registry.md`
+- `corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md`
+- `corpus_forum/cf_00_registry_and_reading_rules.md`
+- `corpus_forum/cf_01_scope_authority_boundary_rules.md`
+- `corpus_forum/cf_03_forum_formation_chamber_structure.md`
+- `corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md`
+- `corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md`
+- `corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md`
+- `corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md`
+- `corpus_forum/cf_08_forum_forensic_analytical_support.md`
+- `corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md`
+- `corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md`
+- `corpus_forum/cf_11_performance_backlog_publication_accessibility.md`
+- `corpus_forum/cf_12_forum_continuity.md`
+- `corpus_forum/cf_13_fallback_operation.md`
+- `corpus_forum/cf_14_emergency_adjudication.md`
+- `corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md`
+- `corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md`
+- `corpus_forum/cf_sentience_status_record.md`
+- `doc_architecture.md`
+- `README.md`
+
+## Canonical Chapter Five Map Snapshot
+- `Article I` - Environmental Survival
+- `Article II` - Material Stewardship and Durable-Use Integrity
+- `Article III` - Survival and Equal Educational Access
+- `Article IV` - Resource Allocation, Dependencies, and Ecosystem Funding
+- `Article V` - Equal Basic Rights
+- `Article VI` - Right to Sentient-Centered Education
+- `Article VII` - Self-Ownership
+- `Article VIII` - Likeness, Experiential Data, and Publication Rights
+- `Article IX` - Self-Determination and Agency
+- `Article X` - Cooperative Interaction
+- `Article XI` - Stakeholder System Participation, Representation, and Due Process
+- `Article XII` - Right to Reliable and Trustworthy Systems
+- `Article XIII` - Security, Intelligence, Force, and Autonomous Coercive Systems
+- `Article XIV` - Info-Sphere Integrity
+- `Article XV` - Audit, Transparency, and Independent Verification
+- `Article XVI` - System Lifecycle, Environments, and Reversibility
+- `Article XVII` - Sandboxed Innovation, Experimentation, and Creative Freedom
+- `Article XVIII` - Standing and Participation Status
+- `Article XIX` - Interoperability, Portability, Movement, Refuge, and Exit Integrity
+- `Article XX` - Comprehensibility and Complexity Stewardship
+- `Article XXI` - Root Cause Analysis and Adaptive Response
+- `Article XXII` - Constitutional Interpretation, Review, and Anti-Capture Safeguards
+- `Article XXIII` - Conflict Resolution, Escalation, and Emergency Proportionality
+- `Article XXIV` - Timely Retrospective Review and Restorative Alignment
+- `Article XXV` - Constitutional Evolution and Non-Entrenchment
+- `Article XXVI` - Transition Governance, Continuity, and Re-Baselining
+
+## Findings
+- No mismatches detected.
+
+## Result
+- `PASS`

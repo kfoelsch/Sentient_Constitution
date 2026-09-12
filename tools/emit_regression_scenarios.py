@@ -150,7 +150,7 @@ def _snapshot_block() -> str:
 def _seed(sid: str) -> str:
     return f"""### Scenario ID: {sid}
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `{sid}`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `{sid}`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 """
 
@@ -223,7 +223,7 @@ def emit() -> str:
             "",
             "### 7E) Humanity/Individual/ Cross-layer stress (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`)",
             "",
-            "Seeded in draft until tabletop pass evidence is filed under `evidence/<YYYY-MM-DD>/`. `RS-XD-001` checks **Chapters 11–13** vs **Chapter Six** classification authority; `RS-XD-002` rights-layer process-creep; `RS-XD-003` custody chain; `RS-XD-004` / `RS-XD-005` emergency and evidence-gate controls.",
+            "Seeded in draft until tabletop pass evidence is filed under `evidence/<YYYY-MM-DD>/`. `RS-XD-001` checks **Chapters 11–13** vs **Chapter Eight** classification authority; `RS-XD-002` rights-layer process-creep; `RS-XD-003` custody chain; `RS-XD-004` / `RS-XD-005` emergency and evidence-gate controls.",
             "",
             "## 8) (Reserved)",
             "",

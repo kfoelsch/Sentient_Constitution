@@ -1,0 +1,251 @@
+{
+  "summary": "Machine-checkable editorial rules extracted from doc_architecture.md section 4.",
+  "rules": [
+    {
+      "id": "NAV-READER-06",
+      "legacy_ref": "doc_architecture rule 6",
+      "summary": "Chapter- and part-level reader guidance belongs at the opening before operative sections; local guidance may appear adjacent to the material it explains.",
+      "make_target": "widget-top-placement-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-WIDGET-TOP-01",
+      "legacy_ref": "doc_architecture file-top stack and section-opening widgets",
+      "summary": "File-top and section-opening widget stack: placement → reader guidance → Trace → D/A/C contiguous (blank lines only; no <br>/owner/prose between); owner line and operative prose follow the stack.",
+      "make_target": "widget-top-placement-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-TRACE-08",
+      "legacy_ref": "doc_architecture rule 8",
+      "summary": "Trace blocks are blue collapsible details, collapsed by default.",
+      "make_target": "ch9-trace-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-TRACE-09",
+      "legacy_ref": "doc_architecture rule 9",
+      "summary": "Trace placement under owning unit; Chapter Six default owner is subarticle.",
+      "make_target": "ch9-trace-audit",
+      "status": "blocking",
+      "related_targets": ["widget-top-placement-audit"]
+    },
+    {
+      "id": "NAV-TRACE-10",
+      "legacy_ref": "doc_architecture rule 10",
+      "summary": "Trace contents: Upstream, Downstream, Read with inside block; no Definitions line.",
+      "make_target": "trace-routing-prose-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-DAC-12",
+      "legacy_ref": "doc_architecture rule 12",
+      "summary": "D/A/C widget scope, trigger, roadmap exclusion, row shape, annotation prose, spacer discipline.",
+      "make_target": "ch5-dac-widget-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-DAC-12-ORDER",
+      "legacy_ref": "doc_architecture rule 12 trace-to-dec placement",
+      "summary": "With Trace: D/A/C or inline Definition immediately after Trace. Without Trace: D/A/C is first block under heading.",
+      "make_target": "trace-dac-widget-order-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-DAC-12-SPACER",
+      "legacy_ref": "doc_architecture rule 12 spacer",
+      "summary": "Collapsible D/A/C keeps trailing br; inline Definition line does not.",
+      "make_target": "nav-widget-spacer-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-DAC-CH1-ORDER",
+      "legacy_ref": "doc_architecture rule 12 Ch1 order",
+      "summary": "Chapter One D/A/C widgets preserve functional row order.",
+      "make_target": "ch1-dac-order-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-PLACEMENT-01",
+      "legacy_ref": "doc_architecture file-top placement",
+      "summary": "Single collapsed Corpus placement widget at file top; no visible binding banner, Application baseline, or redundant file-top prose.",
+      "make_target": "file-top-placement-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-INDEX-13",
+      "legacy_ref": "doc_architecture rule 13",
+      "summary": "Chapter Three section 1 link-only A-Z in-chapter index.",
+      "make_target": null,
+      "status": "manual"
+    },
+    {
+      "id": "LINK-IN-PARA-14",
+      "legacy_ref": "doc_architecture rule 14",
+      "summary": "In-paragraph operative links only when load-bearing and sparse.",
+      "make_target": "in-paragraph-link-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "CH5-GRAVITY",
+      "legacy_ref": "section 4 admission gate",
+      "summary": "Chapter Five definitions exclude institutional machinery and rights gloss density.",
+      "make_target": "ch5-definitions-gravity-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "CH5-ORDER-01",
+      "legacy_ref": "Order and alphabetization",
+      "summary": "Chapter Five editorial order, separators, compound heading alignment.",
+      "make_target": "ch5-cluster-order-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "CH5-FORMAT",
+      "legacy_ref": "ch5 entry format",
+      "summary": "One --- between definition units (above <a id> anchors); no stacked or wrong-side rules; no redundant (Constitutional) suffix.",
+      "make_target": "ch5-entry-format-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "CH5-SINGLE-DEF",
+      "legacy_ref": "single-definition rule",
+      "summary": "One visible Chapter Five definition label per term.",
+      "make_target": "ch5-single-definition-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "LEX-GUARDRAILS",
+      "legacy_ref": "Plain-Language Vocabulary Guardrails",
+      "summary": "Lexical substitutions, forum/court vocabulary, capitalization drift.",
+      "make_target": "lexical-vocabulary-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "EASY-ENTRY-JARGON",
+      "legacy_ref": "easy-entry reader jargon",
+      "summary": "Scoped do-not-use list for implementation/adoption/easy_entry reader briefs.",
+      "make_target": "easy-entry-jargon-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "PLAIN-JARGON",
+      "legacy_ref": "plain language table",
+      "summary": "Advisory jargon phrase scan from lexical_guardrails.json.",
+      "make_target": "plain-language-audit",
+      "status": "advisory"
+    },
+    {
+      "id": "GLOSS-SUBARTICLE",
+      "legacy_ref": "Plain-language gloss placement",
+      "summary": "Chapter Six #### subarticles with operative bullets need In plain terms line.",
+      "make_target": "subarticle-gloss-audit",
+      "status": "advisory"
+    },
+    {
+      "id": "GLOSS-ARTICLE-NEIGHBORS",
+      "legacy_ref": "Article neighbors gloss placement",
+      "summary": "Chapter Six ### article intros use *Article neighbors:* for visible coordination prose after aims/tetrad blocks.",
+      "make_target": null,
+      "status": "advisory"
+    },
+    {
+      "id": "OWNER-SINGLE-HOME",
+      "legacy_ref": "Single home rule",
+      "summary": "Heuristic O/E/C-shaped gloss blocks outside Chapter Five owners.",
+      "make_target": "owner-discipline-audit",
+      "status": "advisory"
+    },
+    {
+      "id": "REF-FAMILY",
+      "legacy_ref": "section 7 companion family cites",
+      "summary": "Companion family cites link the authoritative subfile, not the layer wrapper; CJS-3.n is the public cluster ID.",
+      "make_target": "companion-cite-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "REF-ARTICLES",
+      "legacy_ref": "section 5 article map",
+      "summary": "Chapter Six article titles and Roman numerals from part files.",
+      "make_target": "reference-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "CH5-HIER-01",
+      "legacy_ref": "Definition hierarchy map",
+      "summary": "Layer stack, orthogonal tags, placement rules; generated definition_hierarchy index.",
+      "make_target": "hierarchy-map",
+      "status": "advisory"
+    },
+    {
+      "id": "MEAS-DEF-01",
+      "legacy_ref": "Measurement-informed E/C",
+      "summary": "Definition-anchored primary/secondary/tertiary measurement tiers inform E and C authoring; O stays ontological.",
+      "make_target": "ch5-measurement-tier-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "MEAS-COVERAGE",
+      "legacy_ref": "Measurement seed/hierarchy coverage",
+      "summary": "Seed ↔ hierarchy ch00_measurement sync and bidirectional Ch00 §3 owner links.",
+      "make_target": "ch5-measurement-coverage-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "ROUTER-CJS01",
+      "legacy_ref": "implementation routing",
+      "summary": "Cross-implementation topic routing via CJS-0.1.",
+      "make_target": "router-bidirectional-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "SUPPORT-DOC-POINTER-01",
+      "legacy_ref": "binding corpus must not depend on doc_architecture for meaning or routing",
+      "summary": "Binding corpus may cite doc_architecture only when classifying it as non-binding/support or as a reading-chain footer terminus.",
+      "make_target": "support-doc-pointer-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "CH4-CH7-POINTER",
+      "legacy_ref": "Chapter Four ↔ Chapter Seven pointer discipline",
+      "summary": "Chapter Seven must cite Chapters Two through Four when applying verification-substrate rules; must not restate Chapter Four §§1–6.",
+      "make_target": "ch4-ch7-pointer-audit",
+      "status": "advisory"
+    },
+    {
+      "id": "NAV-IMPL-FILENAME-01",
+      "legacy_ref": "companion numeric prefixes are chapter labels",
+      "summary": "Numbered cjs_/cs_/ci_/cf_ files share a numeric prefix only as same-chapter parts; family 01 is the unique scope page.",
+      "make_target": "companion-filename-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-PRE-RELEASE-FRAGMENT-01",
+      "legacy_ref": "pre-release: current heading ids only",
+      "summary": "One current fragment id per heading. When a section is dropped or renumbered, retarget live citations and delete the old id; do not keep fossil or legacy redirect anchors.",
+      "make_target": "fossil-anchor-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "SECTION-CITE-MATCH-01",
+      "legacy_ref": "section-label cite vs current heading number",
+      "summary": "Markdown links whose visible text contains §N (or is only a dotted number such as 4.1) must resolve to a heading numbered N or a dotted parent/child of N; the fragment must exist. Range-start cites such as §§ 1–12 are allowed when they target the range start. Named fragments without a numeric id prefix are not compared to the § label. implementation/ and evaluation/ sources are out of scope.",
+      "make_target": "section-label-anchor-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "SECTION-LABEL-ANCHOR-01",
+      "legacy_ref": "section-label current-numbering fragment prefix",
+      "summary": "When a §N cite is dotted-related to the target heading, that heading must carry a current-numbering fragment id (compact prefix 54- or hyphenated 5-4-).",
+      "make_target": "section-label-anchor-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-HEADING-SEQUENCE-01",
+      "legacy_ref": "core_* numbered sibling heading sequence",
+      "summary": "Numbered ATX headings in core_*.md grouped by parent prefix and heading level must not duplicate a sibling number; last components must be consecutive integers. A file need not start at §1.",
+      "make_target": "section-label-anchor-audit",
+      "status": "blocking"
+    }
+  ]
+}

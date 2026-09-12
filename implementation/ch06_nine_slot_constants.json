@@ -1,9 +1,10 @@
 {
-  "$comment": "Precomputed rows for the nine-slot standing scale in CH06_NINE_SLOT_STANDING_SCALE.md. c_min_over_c_unit is expressed in LEQU units: for s=2..9 it equals 5^(s-7), with c_min(1)=0. v_weight equals 3^(s-1) and remains an ordinal analytics weight. sub_tier is the stable interchange key (minor|mid|major). Fields named category_tranche_display and category_tranche_role_display are retained as legacy-compatible implementation display helpers; the core Chapter Six presentation no longer treats tranche labels as independent constitutional categories. The constitutional grouping is four-band on the Contribution Axis: contribution_primary_band_ranges maps C-BL, C-PC, C-SP, and C-CH to slots 1-2, 3-4, 5-6, and 7-9. Chapter Seven section 4.3 later groups verified Violation Axis slots for standing integration. category_tranche_role_display gives legacy axis-specific role names per key only. Contribution Axis display uses band-step labels through s=6 and recognized, distinguished, and exemplary champion for s=7..9 while retaining minor|mid|major interchange keys. Violation Axis display uses formal, remedial substantive, significant substantive, duty-based or negligent-harm, aggravated, coercive or punitive-process, Serious, Grave, and Pernicious while retaining minor|mid|major interchange keys. See core_06-06_standing_assessment.md Table 1.",
+  "$comment": "Precomputed rows for the unified proportional LEQU scale. c_min_over_c_unit is the shared lower LEQU bound for both axes: 5^(s-7) for s=2..9, with slot 1 beginning at zero. Contribution requires the additional constitutional-alignment conditions in Chapter Eight section 7-8. Conduct character and Chapter Ten designation do not alter the impact slot. v_weight is retained only as deprecated legacy analytics and must not derive a slot.",
   "contribution_multiplier": 5,
   "contribution_anchor_slot": 7,
   "contribution_anchor_unit": "LEQU",
-  "violation_weight_base": 3,
+  "impact_multiplier": 5,
+  "violation_weight_base_deprecated": 3,
   "category_tranche_display": {
     "I": "Limited",
     "II": "Material",
@@ -27,8 +28,8 @@
     "C-SP": [5, 6],
     "C-CH": [7, 9]
   },
-  "c_min_formula": "For slot s: c_min = c_unit * 5^(s-7) for s=2..9; c_min(1) = 0. Default c_unit=1 LEQU.",
-  "v_weight_formula": "v_weight(s) = 3^(s-1).",
+  "shared_lequ_min_formula": "For either axis and slot s: minimum impact = 5^(s-7) LEQU for s=2..9; slot 1 begins at 0.",
+  "v_weight_formula_deprecated": "Legacy analytics only: v_weight(s) = 3^(s-1). Must not derive a slot.",
   "slots": [
     {
       "s": 1,
@@ -36,10 +37,11 @@
       "category_index": 1,
       "sub_tier": "minor",
       "sub_tier_display": {
-        "contribution": "basic",
-        "violation": "formal"
+        "contribution": "Basic Baseline Contribution",
+        "violation": "Minimal Constitutional Impact"
       },
       "c_min_over_c_unit": 0,
+      "lequ_max_exclusive": 0.00032,
       "v_weight": 1
     },
     {
@@ -48,10 +50,11 @@
       "category_index": 1,
       "sub_tier": "mid",
       "sub_tier_display": {
-        "contribution": "strengthened",
-        "violation": "remedial substantive"
+        "contribution": "Strengthened Baseline Contribution",
+        "violation": "Limited Constitutional Impact"
       },
       "c_min_over_c_unit": 0.00032,
+      "lequ_max_exclusive": 0.0016,
       "v_weight": 3
     },
     {
@@ -60,10 +63,11 @@
       "category_index": 1,
       "sub_tier": "major",
       "sub_tier_display": {
-        "contribution": "verified",
-        "violation": "significant substantive"
+        "contribution": "Verified Positive Contribution",
+        "violation": "Material Constitutional Impact"
       },
       "c_min_over_c_unit": 0.0016,
+      "lequ_max_exclusive": 0.008,
       "v_weight": 9
     },
     {
@@ -72,10 +76,11 @@
       "category_index": 2,
       "sub_tier": "minor",
       "sub_tier_display": {
-        "contribution": "material",
-        "violation": "duty-based or negligent-harm"
+        "contribution": "Material Positive Contribution",
+        "violation": "Significant Constitutional Impact"
       },
       "c_min_over_c_unit": 0.008,
+      "lequ_max_exclusive": 0.04,
       "v_weight": 27
     },
     {
@@ -84,10 +89,11 @@
       "category_index": 2,
       "sub_tier": "mid",
       "sub_tier_display": {
-        "contribution": "established",
-        "violation": "aggravated"
+        "contribution": "Established Stewardship-Positive Contribution",
+        "violation": "Major Constitutional Impact"
       },
       "c_min_over_c_unit": 0.04,
+      "lequ_max_exclusive": 0.2,
       "v_weight": 81
     },
     {
@@ -96,10 +102,11 @@
       "category_index": 2,
       "sub_tier": "major",
       "sub_tier_display": {
-        "contribution": "major",
-        "violation": "coercive or punitive-process"
+        "contribution": "Major Stewardship-Positive Contribution",
+        "violation": "Severe Constitutional Impact"
       },
       "c_min_over_c_unit": 0.2,
+      "lequ_max_exclusive": 1,
       "v_weight": 243
     },
     {
@@ -108,10 +115,11 @@
       "category_index": 3,
       "sub_tier": "minor",
       "sub_tier_display": {
-        "contribution": "recognized",
-        "violation": "Serious"
+        "contribution": "Recognized Champion",
+        "violation": "Serious Constitutional Impact"
       },
       "c_min_over_c_unit": 1,
+      "lequ_max_exclusive": 5,
       "v_weight": 729
     },
     {
@@ -120,10 +128,11 @@
       "category_index": 3,
       "sub_tier": "mid",
       "sub_tier_display": {
-        "contribution": "distinguished",
-        "violation": "Grave"
+        "contribution": "Distinguished Champion",
+        "violation": "Grave Constitutional Impact"
       },
       "c_min_over_c_unit": 5,
+      "lequ_max_exclusive": 25,
       "v_weight": 2187
     },
     {
@@ -132,14 +141,15 @@
       "category_index": 3,
       "sub_tier": "major",
       "sub_tier_display": {
-        "contribution": "exemplary",
-        "violation": "Pernicious"
+        "contribution": "Exemplary Champion",
+        "violation": "Catastrophic Constitutional Impact"
       },
       "c_min_over_c_unit": 25,
+      "lequ_max_exclusive": null,
       "v_weight": 6561
     }
   ],
-  "axis_two_default_slot": {
+  "legacy_axis_two_character_key_slot_map": {
     "V-FN": 1,
     "V-RSN": 2,
     "V-CSN": 3,

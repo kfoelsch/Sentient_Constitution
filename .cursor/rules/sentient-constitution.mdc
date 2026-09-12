@@ -12,6 +12,24 @@ This repository is the **Sentient Constitution** markdown corpus and tooling—n
 - Operative constitutional text: numbered `core_*` files and companions enumerated in `README.md` at repo root.
 - Architecture and edition stamps: `doc_architecture.md` where relevant.
 
+## AI lookup (derived locators, not binding)
+
+Indexes **point**. Source text **binds**. Do not treat a locator, gloss, or steward card as a duty.
+
+Do not open `ai_corpus/indexes/id_resolver.json` for meaning (it embeds gloss). Use the corpus-lookup skill and CLI, then hydrate authentic source:
+
+```bash
+python3 tools/corpus_lookup.py resolve QUERY
+python3 tools/corpus_lookup.py hydrate QUERY
+python3 tools/corpus_lookup.py topic-route QUERY
+python3 tools/corpus_lookup.py door CASE_ID
+python3 tools/corpus_lookup.py retrieve "QUESTION OR KEYWORDS"
+```
+
+High-pressure fact patterns: `door` then the named card and boxed operative steward statement. Patterns: [`ai_corpus/AI_NAVIGATION_GUIDE.md`](ai_corpus/AI_NAVIGATION_GUIDE.md). Skill: [`.cursor/skills/corpus-lookup/SKILL.md`](.cursor/skills/corpus-lookup/SKILL.md).
+
+Cross-file topics: `topic-route` (CJS-0.1 rows). Human map: [topic-router reader index](doc_architecture/generated/topic_router_reader_index.md). Authoritative row table remains **CJS-0.1**.
+
 ## Session / meta files
 
 - Do **not** assume `MEMLOG.md` or `TODO.md` at the repo root. Historical task/session snapshots live under `archive/` when archived (see README *Binding vs support*); final root snapshots from 2026-05-01 are `archive/TODO_ROOT_RETIRED_2026-05-01.md` and `archive/MEMLOG_ROOT_RETIRED_2026-05-01.md`.
@@ -21,6 +39,7 @@ This repository is the **Sentient Constitution** markdown corpus and tooling—n
 
 - Treat substantive edits as corpus changes: run **`make regression`** before publication cuts when instructed by operators (`Makefile`, README checklist).
 - Keep edits scoped to the user request; match existing corpus style and cross-link patterns.
+- Companion filenames (**NAV-IMPL-FILENAME-01**): numbered `cjs_` / `cs_` / `ci_` / `cf_` files share a numeric prefix only when they are parts of the same chapter. Extra same-chapter files need a discriminator (`cjs_03o_`, `cs_02_a_`). Family `01` is the unique scope page. Different chapters get different numbers. Gate: `make companion-filename-audit`.
 
 ## Vocabulary guardrails (do not use)
 
@@ -28,7 +47,30 @@ This repository is the **Sentient Constitution** markdown corpus and tooling—n
 |------------|-------------|
 | `court` / `courts` (institutional / adjudicative sense) | `forums`, `forum family` for routing, or `adjudicative body` where a generic label is still needed |
 | `tribunal` / `tribunals` (internal Chapter Nine / forum-governance sense) | `forum` / `forums`, `forum family`, `panel`, `bench`, or `adjudicative body` as context requires |
+| `Router read` (body-prose label for CJS-2.1 routing) | `- Topic routing (primary owner):` or `- Topic routing (mandatory read-with):` bullets inside the Trace `<details>` block |
+| `standing calculus` / `standing-calculus` (undefined jargon for Chapter Eight standing measurement) | `standing measurement` under Chapter Eight; `measure standing records` on the Contribution and Violation axes |
+| `filed claim is not standing` (forum/standing boundary slogan) | `filed case is not standing by itself`; keep `claim` for *unadjudicated claims* and other established senses |
+| `drift` (bare; stewardship / governance / incentive / alignment sense) | `misalignment` or `constitutional misalignment` at principle layer |
+| `charter` (bare; Corpus / this Constitution sense) | distinguish: Chapter Five **Charter** (scope instrument); Chapter Twelve **treaty, compact, or charter**; verb **hold a charter over** — never bare *charter* for the Constitution itself |
+| `Chapter Zero` / `Chapter 00` (prose label for `core_00_preamble.md`) | `Preamble` (e.g. **Preamble §2**, **Preamble measurement family**) |
+| `pathway` / `pathways` (bare; standing / privilege / lock / clearance object) | `named pathway`, `named privilege pathway`, or a Chapter Nine §4.2 type prefix (`trust pathway`, `role pathway`, `governance-voting pathway`, etc.) — never invent `clearance pathway` or `lock pathway` as house terms |
+| `stakeholder governance` / `constitutional governance` / `governance layer mechanism` / `stakeholder-layer` (layer labels) | **Constitutional Contract Layer** (who may govern, by what **legitimacy mechanism**, on what durable terms) vs **Stakeholder System Participation** (voice inside already-authorized systems). Cite [Preamble §3.3](core_00_preamble.md#33-governance-layers). Do not invent `constitutional governance layer` or `stakeholder governance layer`. Keep `CCL` / `SSP` / `INT` as finding-profile codes only. |
 
-**Exceptions:** verbatim external quotations; proper names and historical titles where source fidelity requires; lemmas **courtesy** / **courteous** (not the institutional sense).
+**Exceptions:** verbatim external quotations; proper names and historical titles where source fidelity requires; lemmas **courtesy** / **courteous** (not the institutional sense); **Topic router** as the **CJS-2.1** section title; backtick documentation of this guardrail table in `doc_architecture.md` and `lexical_guardrails.json`; filename `core_00_preamble.md`, technical keys such as `ch00_measurement`, and stable anchors such as `#chapter-00-preamble--foundational-requirements`; **anti-drift**, **no silent drift**, **classification drift**, **version drift**, **editorial drift**, **cross-layer drift**, **Misclassification and misalignment**, section anchors such as `reopening-drift-and-non-evasion`, and other established custody compounds (`control drift`, `extraction drift`, etc. only where already fixed in place — prefer **misalignment** in new prose); already-qualified pathway families (**Capture of Resolution Pathways**; challenge / review / appeal / remedy / redress / contest pathways; restorative / restoration pathways; causal or system compounds such as `harm pathway` / `reward pathway`; established titles such as **Role-Depth and Material-Responsibility Pathways**); **governance-layer discipline** as the Preamble §3.3 section nickname with `#33-governance-layers`; finding-profile **layer** codes **CCL** / **SSP** / **INT**; **CJS-1.8** two-tier definition contract (not the two governance layers); Tetrad-sense **constitutional governance safeguards** where that phrase is not used as a layer label.
+
+**Easy-entry reader briefs** (`implementation/adoption/easy_entry/` only — do not apply these to `core_*`):
+
+| Do not use | Use instead |
+|------------|-------------|
+| `standing record` / `standing score` / `routing material` | official record of verified help or harm; a score of how trusted you are; a report waiting to be looked at, not already a verdict |
+| `adopter` / `operations-guide` / `incorporation` | a body that has agreed to follow this Constitution; using the ideas as a handbook; bringing this Constitution into a body's own rules |
+| `substrate` / `parent-system` / `derived sentient` / `overlay` | body or form; the system that made you; a copy or fork; a separate extra rulebook |
+| `forum` / `Class A` / `material stake` / `steward` | independent review; the highest-impact kind of system; how much is actually on the line; those running the system |
+| `load-bearing` / `reader door` / `age-proxy` / `lineage` | the real rule this page points to; a page for this situation; using birthday instead of what you can do; whether to have a child |
+| `offtake` / `customary use` / `ecological integrity` | you may sell your crop only to them; the way your family has always used this land; air, water, soil, and the living systems that keep you alive |
+
+Machine list: `easy_entry_jargon` in [`tools/architecture/lexical_guardrails.json`](tools/architecture/lexical_guardrails.json). Gate: `make easy-entry-jargon-audit`.
 
 See [`doc_architecture.md`](../doc_architecture.md) **Plain-Language Vocabulary Guardrails** for the full vocabulary table.
+
+**Constitutional frame:** Use **Constitutional Tetrad** (participation · oversight · accountability · timeliness) at principle layer.

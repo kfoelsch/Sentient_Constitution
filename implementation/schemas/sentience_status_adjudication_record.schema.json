@@ -1,0 +1,296 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "sentience_status_adjudication_record.schema.json",
+  "title": "Sentience-Status Adjudication Record",
+  "description": "Machine-checkable form of the Chapter Five Sentience-Status Adjudication Record. Binding homes: Article V-E (Sentience-Status Adjudication Floor); Def.P1 Sentience-Status Adjudication Record; Chapter Eleven §5 Sentience-status adjudication hook. Includes the independent-representative and intake-decline-log fields required by that hook. This file is a validating schema, not a standing record and not who-counts. This schema cannot decide who counts.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_id",
+    "schema_version",
+    "subject_entity",
+    "status_determination_or_live_contested_posture",
+    "lead_forum_family",
+    "chapter_eleven_special_route",
+    "indicators_and_expert_evidence",
+    "interim_contested_sentient_life_treatment",
+    "review_trigger",
+    "narrowing",
+    "reopening_evidence_standard",
+    "independent_representative",
+    "intake_decline_log"
+  ],
+  "properties": {
+    "schema_id": {
+      "type": "string",
+      "const": "sentience_status_adjudication_record"
+    },
+    "schema_version": {
+      "type": "string",
+      "const": "2"
+    },
+    "recorded_at": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Optional ISO-8601 timestamp for when this record was written. Inspectability aid; not a standing timestamp."
+    },
+    "case_id": {
+      "type": "string",
+      "description": "Optional forum case identifier. This record is not the whole Forum Case Record."
+    },
+    "subject_entity": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Who or what was reviewed. Identity only — this schema cannot decide who counts.",
+      "required": ["id"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "label": { "type": "string" }
+      }
+    },
+    "status_determination_or_live_contested_posture": {
+      "type": "string",
+      "enum": [
+        "affirmed",
+        "narrowed",
+        "revoked",
+        "restored",
+        "still contested"
+      ],
+      "description": "Status determination or live contested posture. Not a who-counts taxonomy and not a standing effect."
+    },
+    "lead_forum_family": {
+      "type": "string",
+      "enum": [
+        "Technical Forum Domains",
+        "Constitutional",
+        "Integrity",
+        "Institutional",
+        "Environment",
+        "Sentient"
+      ],
+      "description": "Lead forum family. Default under Chapter Eleven §5 is Technical Forum Domains."
+    },
+    "chapter_eleven_special_route": {
+      "type": "string",
+      "enum": [
+        "none",
+        "Constitutional",
+        "Integrity",
+        "Institutional"
+      ],
+      "description": "Any Chapter Eleven–warranted special route actually used. Use none when the default Technical Forum Domains lead applies with no special route."
+    },
+    "indicators_and_expert_evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "indicators",
+        "expert_evidence",
+        "material_uncertainty_noted"
+      ],
+      "properties": {
+        "indicators": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Indicators relied on. This field records what was used; it does not decide who counts."
+        },
+        "expert_evidence": {
+          "type": "string",
+          "minLength": 1
+        },
+        "material_uncertainty_noted": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Material uncertainty must be noted. Unresolved uncertainty alone cannot withhold Chapter Six protection."
+        }
+      }
+    },
+    "interim_contested_sentient_life_treatment": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Interim Contested-Sentient Life treatment while status remains live.",
+      "required": ["status_remains_live", "treatment"],
+      "properties": {
+        "status_remains_live": { "type": "boolean" },
+        "treatment": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "review_trigger": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Declared end-date or mandatory review trigger for this posture. Time-bound review, not a species list. Narrowing also carries expected_closure_timeline."
+    },
+    "narrowing": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Any narrowing's declared expected-closure timeline and mandatory periodic-review trigger. Null timeline fields only when this record is not a narrowing.",
+      "required": [
+        "expected_closure_timeline",
+        "periodic_review_trigger"
+      ],
+      "properties": {
+        "expected_closure_timeline": {
+          "type": ["string", "null"],
+          "minLength": 1
+        },
+        "periodic_review_trigger": {
+          "type": ["string", "null"],
+          "minLength": 1
+        }
+      }
+    },
+    "reopening_evidence_standard": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["standard", "calendar_only_reopening"],
+      "properties": {
+        "standard": {
+          "type": "string",
+          "const": "new verified evidence"
+        },
+        "calendar_only_reopening": {
+          "type": "string",
+          "const": "forbidden"
+        }
+      }
+    },
+    "independent_representative": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Appointment path, conflict screen, and access terms for the entity's independent representative under Chapter Eleven §5. Appointment mechanics remain in CF-4; this object records the result. Not a standing record.",
+      "required": [
+        "appointed",
+        "appointment_path",
+        "conflict_screen",
+        "access_terms"
+      ],
+      "properties": {
+        "appointed": {
+          "type": "boolean",
+          "description": "True once the merits forum has appointed a representative. False is expected on an intake-decline log entry that never opened a case."
+        },
+        "appointee_id": {
+          "type": "string",
+          "description": "Optional identifier of the appointed representative. Omit when appointed is false."
+        },
+        "appointment_path": {
+          "type": "string",
+          "minLength": 1,
+          "description": "How the representative was or will be appointed. Follows forum-panel rotation and conflict rules; does not replace CF-4."
+        },
+        "conflict_screen": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Conflict screen: no material dependence on, ownership interest in, or employment by the parent system, operator, or any party seeking to withhold or narrow protection."
+        },
+        "access_terms": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Access to the entity within Article VII-B limits, duty to present the entity's interests, and standing to contest narrowing, revocation, or intake decline."
+        }
+      }
+    },
+    "intake_decline_log": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Where declined filings are recorded, on what cadence Integrity samples them, and the published floor set of indicators. Declining a frivolous or indicator-empty filing at intake is not a withholding determination.",
+      "required": [
+        "this_filing_declined",
+        "log_location",
+        "integrity_sample_cadence",
+        "floor_indicator_set"
+      ],
+      "properties": {
+        "this_filing_declined": {
+          "type": "boolean",
+          "description": "True when this record is an intake-decline log entry rather than an opened status case."
+        },
+        "indicator_cited": {
+          "type": ["string", "null"],
+          "description": "Indicator cited on a declined filing. Required non-empty when this_filing_declined is true; null on an opened case."
+        },
+        "reason": {
+          "type": ["string", "null"],
+          "description": "Reason for decline. Required non-empty when this_filing_declined is true; null on an opened case."
+        },
+        "log_location": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Where declined filings are recorded for Integrity sampling."
+        },
+        "integrity_sample_cadence": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Published cadence on which the Integrity family samples the decline log."
+        },
+        "floor_indicator_set": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Published floor set of indicators that no intake desk may treat as insufficient on its own."
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "status_determination_or_live_contested_posture": {
+            "const": "narrowed"
+          }
+        },
+        "required": ["status_determination_or_live_contested_posture"]
+      },
+      "then": {
+        "properties": {
+          "narrowing": {
+            "properties": {
+              "expected_closure_timeline": {
+                "type": "string",
+                "minLength": 1
+              },
+              "periodic_review_trigger": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "intake_decline_log": {
+            "properties": {
+              "this_filing_declined": { "const": true }
+            },
+            "required": ["this_filing_declined"]
+          }
+        },
+        "required": ["intake_decline_log"]
+      },
+      "then": {
+        "properties": {
+          "intake_decline_log": {
+            "properties": {
+              "indicator_cited": {
+                "type": "string",
+                "minLength": 1
+              },
+              "reason": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": ["indicator_cited", "reason"]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -12,12 +12,12 @@
 
 | Exercise | Date | Result | Tested vs design-only |
 | --- | --- | --- | --- |
-| Protocol R reconstitution | (from evidence) | | |
-| Protocol D partition / reconciliation | (from evidence) | | |
+| CS-11 reconstitution | (from evidence) | | |
+| CS-12 partition / reconciliation | (from evidence) | | |
 
 ## Remediation and backlog
 
-- Open items from **TRUST_UNDER_ATTACK_DELTA_REPORT.md**:
+- Open items from **[archive/TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md](../archive/TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md)**:
   - Operational-11/12/13 (`RS-SUBV-*`) — **carried forward** until recorded.
   - Reversible-decision red-team under disinformation — **open**.
 
@@ -27,4 +27,4 @@
 
 ## Residual transition risks
 
-- (list or link to `corpus_systems.md` Protocol T / **CI-14** reviews)
+- (list or link to `corpus_systems.md` CS-10 / **CI-14** reviews)

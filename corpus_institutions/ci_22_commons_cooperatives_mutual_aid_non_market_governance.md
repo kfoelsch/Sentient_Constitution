@@ -1,40 +1,72 @@
-## CI-22: Commons, cooperatives, mutual aid, and non-market community governance
+# CI-22: Commons, cooperatives, mutual aid, and non-market community governance
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
+>
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-22** (*Commons, cooperatives, mutual aid, and non-market community governance*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-22: Commons, cooperatives, mutual aid, and non-market community governance**.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Read with: **CI-22**; **CI-6**; **CI-9**; **CI-12**; **CI-11**; **CI-18**; **CI-21**.
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Proportionality](../core_05-05_definitions_a_independent.md#proportionality) · [O](../core_05-05_definitions_a_independent.md#proportionality) · [E](../core_05-05_definitions_a_independent.md#proportionality-e) · [C](../core_05-05_definitions_a_independent.md#proportionality-c)
-- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Necessity](../core_05-05_definitions_a_independent.md#necessity) · [O](../core_05-05_definitions_a_independent.md#necessity) · [E](../core_05-05_definitions_a_independent.md#necessity-e) · [C](../core_05-05_definitions_a_independent.md#necessity-c)
-- [Collective Organization](../core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional-c)
-- [Incentive Alignment](../core_05-05_definitions_a_independent.md#incentive-alignment) · [O](../core_05-05_definitions_a_independent.md#incentive-alignment) · [E](../core_05-05_definitions_a_independent.md#incentive-alignment-e) · [C](../core_05-05_definitions_a_independent.md#incentive-alignment-c)
+- [Proportionality](../core_05_band_accountability.md#proportionality) · [O](../core_05_band_accountability.md#proportionality) · [M](../core_05_band_accountability.md#proportionality-a) · [A](../core_05_band_accountability.md#proportionality-a) · [C](../core_05_band_accountability.md#proportionality-c)
+- [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
+- [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
+- [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
+- [Necessity](../core_05_band_accountability.md#necessity) · [O](../core_05_band_accountability.md#necessity) · [M](../core_05_band_accountability.md#necessity-a) · [A](../core_05_band_accountability.md#necessity-a) · [C](../core_05_band_accountability.md#necessity-c)
+- [Collective Organization](../core_05_band_participation.md#collective-organization-constitutional) · [O](../core_05_band_participation.md#collective-organization-constitutional) · [M](../core_05_band_participation.md#collective-organization-constitutional-a) · [A](../core_05_band_participation.md#collective-organization-constitutional-a) · [C](../core_05_band_participation.md#collective-organization-constitutional-c)
+- [Incentive Alignment](../core_05_band_integrative.md#incentive-alignment) · [O](../core_05_band_integrative.md#incentive-alignment) · [M](../core_05_band_integrative.md#incentive-alignment-a) · [A](../core_05_band_integrative.md#incentive-alignment-a) · [C](../core_05_band_integrative.md#incentive-alignment-c)
 
 </details>
 
 <br>
 
+This file is the institutional implementation home for **CI-22** (*Commons, cooperatives, mutual aid, and non-market community governance*).
 
-**Purpose and owner boundary.** This section states the institutional application of `corpus_joint_structure.md` **CJS-5C.1** (*Commons, cooperative, and mutual-aid pathway integrity*). CI-22 keeps local due-process, contestability, anti-capture, funding, zoning, tax, and continuity interfaces under **CI-6**, **CI-9**, **CI-12**, and **CI-11**.
+*In plain terms: **CI-22** is the local owner map for commons, cooperatives, mutual aid, and other ways communities govern shared resources without forcing every durable arrangement into a state agency, corporation, or adversarial forum. Shared floors live in **CJS-3.7**; this file names who recognizes records, who maps fiscal rules, and who routes independent review.*
 
-**1. Records and recognition.** Institutions should accept legible commons-governance records as valid inputs to funding, zoning, tax, and continuity decisions where law permits, subject to local audit and fraud controls.
+**Quick orientation**
+- **The basic idea** — commons and mutual-aid pathways must stay legible enough for funding, continuity, audit, fraud control, and participation review without forcing them into only state, corporate, or adversarial-forum forms.
+- **Records and recognition** — stewardship rotation, mutual obligation, conflict handling, and resource-allocation records must count as valid inputs to institutional decisions where law permits.
+- **Non-market reciprocity** — fiscal, tax, zoning, funding, and eligibility rules must be mapped so lawful solidarity is not accidentally disabled or criminalized.
+- **Anti-romanticization** — informal community process must include independent review when exclusion, shunning, or local hierarchy harms sentients; read **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*) and **CI-21** (*Community life, voluntary association, and non-instrumental time*) where coercive-control patterns are implicated.
+- **Institutional interfaces** — due process, contestability, anti-capture, funding, zoning, tax, and continuity duties route through **CI-6**, **CI-9**, **CI-12**, and **CI-11**.
+- **Hard limits** — informality cannot hide exclusion, coercion, fraud, capture, or appeal denial; romanticized community process cannot block remedy for sentients harmed by informal power.
+- **Read with** — **CI-6**, **CI-9**, **CI-12**, **CI-11**, **CI-18**, and **CI-21**.
 
-**2. Non-market reciprocity.** Institutions must map mutual aid and cooperative infrastructure to **Protocol S5** and **CI-11** so fiscal rules do not accidentally criminalize qualifying solidarity mechanisms.
+*Shared rules live elsewhere.*
+- [**CJS-3.7**](../corpus_joint_structure/cjs_03p_participation_operations.md) (*quorum and participatory legitimacy terms*) — **Commons, cooperative, and mutual-aid pathway integrity**.
+- **Article III-D** (*Labor and Economic Floor*); **Article IX-B** (*Stakeholder Role and Participation Rights*); **Article X-A** (*Non-Imposition and Consent in Association*).
+- Chapter Five [*Collective Organization*](../core_05_band_participation.md#collective-organization-constitutional); **CS-9**; **CI-11**; **CI-6**; **CI-9**; **CI-12**; **CI-18**; **CI-21**. This file does not repeat those floors.
 
-**3. Anti-romanticization guardrails.** Community process must include appeal to independent review when exclusion or informal power harms sentients; read **CI-18** section 2 and **CI-21**.
+**Apply.** Apply **CJS-3.7** **Commons, cooperative, and mutual-aid pathway integrity**. **CI-22** states only the local owner duties below.
+
+**Local commons and mutual-aid application role map**
+Each institution in scope must name the office or body responsible for:
+- **commons-governance records recognition** — who accepts legible records of stewardship rotation, mutual obligation, conflict handling, and resource allocation as valid inputs to funding, zoning, tax, and continuity decisions where law permits, subject to local audit and fraud controls. Where that acceptance opens or corrects a [Chapter Eight](../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) contribution standing record, this office is the **record-opening authority** under [Chapter Eight §3.7](../core_08_standing_assessment.md#37-informal-and-small-scope-records) (*Informal and small-scope records*) and [Chapter One §10.1](../core_01_c_stewardship_capacity_principles.md#101-segregation-of-duties) (*Segregation of duties*): it is disinterested in the work, it verifies, and the commons steward who kept the rotation or obligation log is the recorder and a witness, never the verifier; co-participants are claimants under Chapter Eight §3.3. Formal-institution verification is not required where this office can verify;
+- **standard contribution measures** — who publishes, and on what cadence revisits, any [Chapter Eight §5.1](../core_08_standing_assessment.md#51-standard-contribution-measures) schedule of default contribution measures for recurring commons tasks (litter pickups, waterway-restoration work units, land-recovery plots, stewardship rotations), with the assumptions, evidence method, and contest path each standard rests on. This is the direction-and-policy seat under Chapter Eight §3.7 *Segregation of duties*: it is not the recognition office that verifies instances, and not a group the schedule measures. Standards are floors for ordinary performance, not caps — verified above-standard work is measured on its actual impact — and re-baselining as efficiency improves applies forward only. Method and a worked schedule: [`implementation/LEQU_CALIBRATION_REFERENCE.md` §6.4](../implementation/LEQU_CALIBRATION_REFERENCE.md#64-standard-contribution-measures) (*process support*);
+- **funding and fiscal-interface mapping** — who maps cooperative and mutual-aid infrastructure to **CS-9** and **CI-11** so fiscal rules do not accidentally criminalize or disable qualifying solidarity mechanisms that satisfy **Necessity**, **Proportionality**, and dependency-integrity requirements;
+- **zoning and land-use interface** — who supervises zoning, licensing, land-use, and comparable spatial rules so lawful commons, cooperative, and community-managed resource pathways remain practically usable;
+- **tax and eligibility interface** — who maintains the official mapping between non-market reciprocity, participatory budgeting, and comparable solidarity forms and local tax, benefits, and eligibility treatment;
+- **continuity and succession routing** — who preserves governance records, handoff authority, and service continuity when commons stewards rotate, cooperatives reorganize, or mutual-aid networks change form; where a standing record exists, this office is its **record custodian** under Chapter Eight §3.7, and for small scope it may also be the verifying office under a disclosed merged-seat safeguard — never a claimant; and
+- **independent review and anti-capture escalation** — who routes appeals when exclusion, informal power, fraud, or capture inside a commons or mutual-aid pathway harms sentients, including referral to **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*) and **CI-21** (*Community life, voluntary association, and non-instrumental time*) where associational or coercive-control patterns are implicated.
+Read **CI-6**, **CI-9**, **CI-12**, **CI-11**, **CI-18**, and **CI-21** for local procedure, scaling, participation, stewardship, and escalation interfaces.
 
 ---
 
----
+**Previous file:** [ci_21_community_life_voluntary_association_non_instrumental_time.md](ci_21_community_life_voluntary_association_non_instrumental_time.md)
 
-**Previous file:** [ci_21_relational_coercive_control_intimate_power_anti_domination.md](ci_21_relational_coercive_control_intimate_power_anti_domination.md)
 **Next file:** [ci_23_place_based_stewardship_indigenous_continuity_consultation.md](ci_23_place_based_stewardship_indigenous_continuity_consultation.md)
