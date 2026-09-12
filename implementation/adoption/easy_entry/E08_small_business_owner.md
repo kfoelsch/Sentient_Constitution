@@ -21,7 +21,7 @@
 
 ## Most shops. More than half of jobs.
 
-These figures describe a recognizable situation. They do not sort you into a named group.
+These figures describe a recognizable situation. They do not change the Rights Floor that applies to you.
 
 | | |
 |---|---|
@@ -29,7 +29,7 @@ These figures describe a recognizable situation. They do not sort you into a nam
 | **Counted in world output** | about **40%** of what developing economies count as production. |
 | **Meet it in a full life** | most working lives pass through a small shop as owner, worker, or customer. |
 
-Rounded. Sources: [`SCALE_NOTES.md`](SCALE_NOTES.md).
+These figures are approximate — nearest 1-in-n or whole percent. Sources: [`SCALE_NOTES.md`](SCALE_NOTES.md).
 
 ## Your situation
 
@@ -43,9 +43,9 @@ If a body that actually runs the systems in your life adopted this Constitution:
 
 See: [Business Creation](../../../core_05_band_participation.md#business-creation-constitutional); [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor).
 
-**Size is not supposed to be a domination license.**
-- **Today:** A few buyers, platforms, or employers control hiring, supply, and exit, and call it competition.
-- **With this Constitution:** Non-competes and no-poach terms are out. Concentration and anti-domination are separate from the labor floor and can fail even when pay looks legal.
+**Being bigger is not a license to trap you.**
+- **Today:** A few buyers, platforms, or employers control who you can hire, who you can sell to, and whether you can leave — and they call that competition.
+- **With this Constitution:** A contract cannot stop your workers from leaving, or stop you from hiring someone who used to work at another shop. You still have to pay fairly, keep the shop safe, give rest, and let workers organize. That is not the same as whether a few big buyers or platforms control the terms. Paying legal wages does not make that control OK.
 
 See: [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor); [Chapter One §13.2](../../../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination).
 
@@ -75,14 +75,14 @@ See: [CI-9.4](../../../corpus_institutions/ci_09_classification_linked_instituti
 
 - **“This isn’t law where I file taxes.”** Correct. Pre-release model constitution. It does not override applicable commercial or labor law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
-- **“I am not an ‘institution.’ I am trying to make payroll.”** You do not have to call the shop an institution to use this page. This brief is for someone who runs a small shop, workshop, clinic, farm stand, or platform-dependent service. It does not sort you into a named group. When you later want a published scope instrument for systems you actually run, those rules are located in the section on [Charter](../../../core_05_band_continuity.md#charter). [FIT_SITUATIONS.md](../FIT_SITUATIONS.md) is the operator map.
+- **“I am not an ‘institution.’ I am trying to make payroll.”** You do not have to call the shop an institution to use this page. This brief is for someone who runs a small shop, workshop, clinic, farm stand, or platform-dependent service. It does not change the Rights Floor that applies to you. When you later want a published scope instrument for systems you actually run, those rules are located in the section on [Charter](../../../core_05_band_continuity.md#charter). [FIT_SITUATIONS.md](../FIT_SITUATIONS.md) is the operator map.
 
 ## What this will not pretend to give you
 
 - A guarantee of profit, a preferred vendor, or protection from every competitor.
 - A human exemption from costly duties if you adopt.
 - Binding the payment processor, landlord, or marketplace you do not control.
-- A thinner rulebook than the labor floor because the shop is small.
+- A thinner rulebook on pay, safety, rest, or organizing just because the shop is small.
 
 ## If you want to look further
 

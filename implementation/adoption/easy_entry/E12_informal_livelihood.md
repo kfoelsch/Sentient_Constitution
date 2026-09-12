@@ -17,11 +17,11 @@
 
 <br>
 
-*In plain terms: cash work, unpaid care, and platform gigs still count as work; identity and payment systems are not supposed to trap you; how poor or rich you are cannot be used to close the survival floor — and this is not a geography class.*
+*In plain terms: cash work, unpaid care, and platform gigs still count as work; identity and payment systems are not supposed to trap you; how poor or rich you are cannot be used to close the survival floor. This page is about that work and those traps, not a ranking of countries. The same patterns show up in rich cities.*
 
 ## Most work is already informal
 
-These figures describe a recognizable situation. They do not sort you into a named group.
+These figures describe a recognizable situation. They do not change the Rights Floor that applies to you.
 
 | | |
 |---|---|
@@ -71,13 +71,13 @@ See: [CI-22](../../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_
 
 - **“There is no inspector here. Words on a foreign site do nothing.”** Honest. This Constitution binds a body that has agreed to follow it, not a stall, a ministry, or a telco that did not agree. The case is what a payment system, identity stack, or aid platform that agreed would owe you — not a claim that your city has adopted it.
 
-- **“Formalization is how they tax us out.”** Business creation and collective organization are floors against incumbent freeze-out, not a mandate that every stall become a corporation. CI-22 warns against accidentally criminalizing lawful solidarity. It does not hide a tax holiday.
+- **“Formalization is how they tax us out.”** The right to start a stall, and to organize with others, is a protection against being frozen out — not a rule that every stall must become a company. Lawful savings circles and mutual aid are not supposed to be treated as a crime ([CI-22](../../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md)). That is not a secret promise that you owe no tax.
 
 - **“If I challenge the app, they will shut the SIM.”** Retaliation against good-faith reports is in the challenge floor ([Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)). Reachability still depends on a body that actually runs that system and has agreed to follow this Constitution.
 
 - **“This isn’t our law.”** Correct. It does not override applicable law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)). Use inside an existing framework has to stay consistent with that framework.
 
-- **“Call this ‘developing world’ and you have already ranked us.”** You do not have to take that label to use this page. This brief is for someone who sells in a market, cooks, builds, drives, cares, or takes platform tasks, with thin public protections and a newly arrived ID, payment, or aid gate. It does not sort you into a named group. The same lock-in and labor patterns appear in rich cities. When work or leaving an app is actually at stake, those rules are located in the sections on [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) and [Article XIX](../../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity).
+- **“Call this ‘developing world’ and you have already ranked us.”** You do not have to take that label to use this page. This brief is for someone who sells in a market, cooks, builds, drives, cares, or takes platform tasks, with thin public protections and a newly arrived ID, payment, or aid gate. It does not change the Rights Floor that applies to you. The same lock-in and labor patterns appear in rich cities. When work or leaving an app is actually at stake, those rules are located in the sections on [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) and [Article XIX](../../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity).
 
 ## What this will not pretend to give you
 

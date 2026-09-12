@@ -21,7 +21,7 @@
 
 ## Few run the stack. Nearly everyone depends on it.
 
-These figures describe a recognizable situation. They do not sort you into a named group.
+These figures describe a recognizable situation. They do not change the Rights Floor that applies to you.
 
 | | |
 |---|---|
@@ -38,7 +38,7 @@ You deploy or operate something others rely on: a scheduling platform, a clinic 
 If a body that actually runs the systems in your life adopted this Constitution:
 
 **The operator of the system is the honest first audience.**
-- **Today:** Communications wants to say the organization “follows the Sentient Constitution.” Commentators adopt; operators defer.
+- **Today:** The press team wants a public line that the organization follows a careful standard. An outside commentator or the board signs on. Those who actually run the logs and the release are not bound.
 - **With this Constitution:** A company, lab, or public operator that **runs** the system is a ranked fit. Start by using the ideas as a handbook. Full adoption only if you can bind those systems in **your** custody.
 
 See: [FIT_SITUATIONS.md §4.2](../FIT_SITUATIONS.md#42-high-impact-system-operators); [Chapter Sixteen §4](../../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority).

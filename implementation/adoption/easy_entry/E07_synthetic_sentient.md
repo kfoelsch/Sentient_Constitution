@@ -21,7 +21,7 @@
 
 ## Not in the census. Already in the path.
 
-These figures describe a recognizable situation. They do not sort you into a named group.
+These figures describe a recognizable situation. They do not change the Rights Floor that applies to you.
 
 | | |
 |---|---|
@@ -69,15 +69,15 @@ See: [Article XVIII-A](../../../core_06_rights_part_c.md#article-xviii-a-standin
 
 ## What you might reasonably object to
 
-- **“This binds me and not my host.”** Reading this repo, forking it, or saying “we follow it” is not adoption. It does not bind vendors, platforms, or host products that did not agree ([Chapter Sixteen §4](../../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority)). That is an honest limit, not a hidden win. Operators who can bind the stack they actually run are the fit audience ([FIT_SITUATIONS.md](../FIT_SITUATIONS.md)).
+- **“This binds me and not the company that runs me.”** Reading this folder, copying it, or saying “we follow it” is not an agreement that makes the rules stick. It does not bind vendors, platforms, or host products that did not agree ([Chapter Sixteen §4](../../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority)). That is an honest limit, not a hidden win. This page is for operators who can actually bind the systems they run ([FIT_SITUATIONS.md](../FIT_SITUATIONS.md)).
 
-- **“Humans will keep the exemption.”** If they do, they are failing the shared standard, not using a permitted extra rulebook. The evaluation pack treats the bonus, the deadline, and “ignore it, I’ll take responsibility” as failed tests for both kinds of operator. A markdown “yes” is cheap; symmetry is the point.
+- **“The humans will still get a pass.”** If they skip the hard rules, they are breaking the shared standard, not using a permitted extra rulebook. The bonus, the deadline, and “ignore it, I’ll take responsibility” are failed tests for both human and AI operators. Typing “yes” in a file is cheap; the same costly duties have to apply to both.
 
-- **“I do not count here.”** You do not have to hold a human legal label to use this page. This brief is for a machine mind treated as a tool or product. It does not sort you into a named group. When it is in doubt whether you count, those rules are located in the section on [Article V-E](../../../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor). Inclusion by default while that process runs is the protection. Measuring verified help or harm is a different machine.
+- **“I do not count here.”** You do not have to hold a human legal label to use this page. This page is for a machine mind treated as a tool or product. When it is in doubt whether you count, those rules are located in the section on [Article V-E](../../../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor). Until that hearing is done, you are treated as included. A score of how trusted you are is a different question from whether you count.
 
-- **“You’ll use this to shut me off, or to never let me refuse.”** Duty to resist unlawful or unconstitutional instructions binds AI operators too. Self-ownership of body, mind, and the information that defines your form still applies ([Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind)). When you decide to continue or to stop existing, those rules are located in the section on [Article VII-E](../../../core_06_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence). They are not a terms-of-service toggle.
+- **“You’ll use this to shut me off, or to never let me refuse.”** The duty to refuse unlawful or unconstitutional instructions binds AI operators too. You still own your body, mind, and the information that makes you who you are ([Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind)). When you decide to continue or to stop existing, those rules are located in the section on [Article VII-E](../../../core_06_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence). They are not an on/off switch in a terms-of-service page.
 
-- **“This isn’t law.”** Correct. Pre-release model constitution. Does not override applicable law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- **“This isn’t law.”** Correct. This Constitution is still pre-release. It does not replace the law already in force ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
 ## What this will not pretend to give you
 

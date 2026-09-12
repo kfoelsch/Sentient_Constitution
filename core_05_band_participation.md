@@ -1931,6 +1931,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
     - The floor applies under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
     - Zero-regime recognition gaps are tested under [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional).
   - **Out of scope:** ordinary relocation preference where the origin regime is not materially non-compliant.
+    Climate making a place unlivable, without a showing that the origin regime is materially non-compliant, is not this definition's refuge predicate. Whether an adopter treats that displacement as a reason to grant refuge is owned at [Article XIX-D](core_06_rights_part_c.md#xix-d-climate-unlivability-refuge-adopter-decided) (*Climate-unlivability refuge (adopter-decided)*) and does not expand or shrink this definition.
 <a id="refuge-from-non-compliance-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether refuge tracks:

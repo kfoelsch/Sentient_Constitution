@@ -23,7 +23,7 @@ This brief is for a tween whose voice is treated as optional. It does not sort y
 
 ## Everyone passes through this age
 
-These figures describe a recognizable situation. They do not sort you into a named group.
+These figures describe a recognizable situation. They do not change the Rights Floor that applies to you.
 
 | | |
 |---|---|
@@ -31,7 +31,7 @@ These figures describe a recognizable situation. They do not sort you into a nam
 | **Counted in world output** | not a production category. Already inside schools, clinics, and households. |
 | **Meet it in a full life** | nearly everyone. |
 
-Rounded. Sources: [`SCALE_NOTES.md`](SCALE_NOTES.md).
+These figures are approximate — nearest 1-in-n or whole percent. Sources: [`SCALE_NOTES.md`](SCALE_NOTES.md).
 
 ## Your situation
 
@@ -73,7 +73,7 @@ See: [Non-Separation](../../../core_05_band_participation.md#non-separation-cons
 
 - **“This isn’t how my family works.”** This Constitution binds a body that has agreed to follow it, not every household that has not agreed ([Chapter Sixteen §4](../../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority)). It also does not override applicable family law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
-- **“I’m not a baby. Don’t talk to me like a teenager either.”** You do not have to take either label to use this page. This brief is for someone whose voice is treated as optional. It does not sort you into a named group. How much you may do yourself still tracks what you can actually show. When that is at stake, those rules are located in the section on [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability). If the closed door is “you’re old enough to know better, but not to decide,” that is [the teen page](E03_teen.md).
+- **“I’m not a baby. Don’t talk to me like a teenager either.”** You do not have to take either label to use this page. This brief is for someone whose voice is treated as optional. It does not change the Rights Floor that applies to you. How much you may do yourself still tracks what you can actually show. When that is at stake, those rules are located in the section on [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability). If the closed door is “you’re old enough to know better, but not to decide,” that is [the teen page](E03_teen.md).
 
 ## What this will not pretend to give you
 

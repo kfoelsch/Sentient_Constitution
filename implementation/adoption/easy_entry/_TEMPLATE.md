@@ -21,7 +21,7 @@
 
 ## (Thesis headline — this situation is ordinary, large, or already in everyone's path)
 
-These figures describe a recognizable situation. They do not sort you into a named group.
+These figures describe a recognizable situation. They do not change the Rights Floor that applies to you.
 
 Write the `##` heading as a thesis, not a generic “how common” label. Examples: “A living tied to land is ordinary — and barely counted”; “Nearly everyone meets a pregnancy”; “Most work is already informal.”
 
@@ -31,7 +31,7 @@ Write the `##` heading as a thesis, not a generic “how common” label. Exampl
 | **Counted in world output** | about **X%** of what the books count as production — or the closest honest analog, named as such |
 | **Meet it in a full life** | about **X in 100** / nearly everyone / the usual path |
 
-Rounded. Sources: [`SCALE_NOTES.md`](SCALE_NOTES.md). Add a fourth line only for a gap, a trend, or who already depends on this work.
+These figures are approximate — nearest 1-in-n or whole percent. Sources: [`SCALE_NOTES.md`](SCALE_NOTES.md). Add a fourth line only for a gap, a trend, or who already depends on this work.
 
 ## Your situation
 
@@ -51,7 +51,7 @@ See: …
 
 - **“Objection in the reader’s voice.”** (Answer without dunking. Stay inside what the text actually does. If the text does not pick a winner, say so rather than inventing one.)
 
-- **“Don’t put me in a type.”** You do not have to take that label to use this page. This brief is for [who this is for]. It does not sort you into a named group. When [the more specific facts] are actually at stake, those rules are located in the section on [Named Home].
+- **“Don’t put me in a type.”** You do not have to take that label to use this page. This brief is for [who this is for]. It does not change the Rights Floor that applies to you. When [the more specific facts] are actually at stake, those rules are located in the section on [Named Home].
 
 ## What this will not pretend to give you
 

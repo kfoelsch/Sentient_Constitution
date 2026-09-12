@@ -13,7 +13,7 @@ Do not treat these figures as a duty, a constitutional type, or a standing weigh
 - **Share of counted world output:** (percent of GDP, or the closest honest analog — unpaid care, food, wealth, reach)
 - **Lifetime incidence:** (how ordinary it is to pass through this situation)
 
-Optional fourth line: a gap, a trend, or who already depends on this work. Round. Name the source family (UN, ILO, WHO, World Bank, UNHCR). Operator sources: [`../../implementation/adoption/easy_entry/SCALE_NOTES.md`](../../implementation/adoption/easy_entry/SCALE_NOTES.md) — sitters do not open that file.
+Optional fourth line: a gap, a trend, or who already depends on this work. Use approximate headlines (nearest 1-in-n or whole percent). Name the source family (UN, ILO, WHO, World Bank, UNHCR). Operator sources: [`../../implementation/adoption/easy_entry/SCALE_NOTES.md`](../../implementation/adoption/easy_entry/SCALE_NOTES.md) — sitters do not open that file.
 
 ## Your role and seat
 

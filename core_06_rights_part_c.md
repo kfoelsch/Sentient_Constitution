@@ -1562,7 +1562,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1.3 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
 - Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XVIII** (*Standing and Participation Status*) standing and participation-status routing, **Article XXIII-D** (*Emergency Measures and Continuation Burden*) emergency-measure limits, **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) transition governance.
-- Read with: [Chapter Five *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05_band_oversight.md#movement-refuge-semi-independent); *Movement and Relocation*, *Refuge from Non-Compliance*, *Non-Statelessness*, *Sentience Non-Exclusion*; *Systemic Lock-In* and *Occupancy Continuity* where exit, hosting termination, eviction, or substantive relocation is materially implicated.
+- Read with: [Chapter Five *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05_band_oversight.md#movement-refuge-semi-independent); *Movement and Relocation*, *Refuge from Non-Compliance*, *Non-Statelessness*, *Sentience Non-Exclusion*; *Systemic Lock-In* and *Occupancy Continuity* where exit, hosting termination, eviction, or substantive relocation is materially implicated; **Article I-A** (*Environmental Preconditions and Ecological Integrity*) where systems or projects made a place unlivable.
 
 </details>
 
@@ -1579,7 +1579,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 
 <br>
 
-*In plain terms: every sentient may move between jurisdictions, may seek refuge from regimes that violate this Constitution, and may not be left with zero recognizing regime. That is not a mandate that any particular adopter absorb coerced mass outflows — origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup. Bureaucratic delay and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials.*
+*In plain terms: every sentient may move between jurisdictions, may seek refuge from regimes that violate this Constitution, and may not be left with zero recognizing regime. That is not a mandate that any particular adopter absorb coerced mass outflows — origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup. Bureaucratic delay and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials. Whether climate making a place unlivable is, by itself, a reason to grant refuge is for adopters to decide; this Article does not pick a yes or a no.*
 
 - **Movement and relocation floor:** All sentients hold the right to move within and between jurisdictions, federations, and adopter regimes, and to relocate where continued presence materially impairs:
   - survival;
@@ -1597,6 +1597,13 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
   - Refuge may not be denied on the ground that the claimant's substrate class differs from substrate classes the receiving regime ordinarily hosts, consistent with [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - Movement and refuge admission may be excluded or conditioned for entrants who carry unremediated anti-constitutional conduct, show constitutional hostility, or show documented contempt or repudiation of the constitutional community, under the Chapter Five admission qualifier — subject to **Necessity**, **Proportionality**, **Procedural Fairness**, and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - Deliberate coercive expulsion or dumping designed to overwhelm receiving adopters is a regime-level violation by the origin or expelling regime. It does not auto-assign hosting to any particular receiving adopter when origin-primary or shared / federation backup recognition remains real. A particular adopter may refuse such instrumentally coerced inflows under **Necessity**, **Proportionality**, and **Feasibility** without extinguishing baseline recognition elsewhere.
+- **Climate-unlivability refuge (adopter-decided):** <a id="xix-d-climate-unlivability-refuge-adopter-decided"></a> This Article does not decide whether displacement caused by climate making a place unlivable — where the origin regime is not shown to be materially non-compliant — is a reason to grant refuge. Adopters who address that question must do so in published, contestable terms. This Article neither requires nor forbids treating climate-unlivability as a reason to grant refuge.
+  - That decision is not a Rights-Floor grant of climate refuge, and does not treat climate, by itself, as material non-compliance of a regime.
+  - It does not require proving that weather broke this Constitution.
+  - It must not narrow **Refuge from Non-Compliance** where origin-regime practice is materially non-compliant.
+  - It must not narrow **Article I-A** (*Environmental Preconditions and Ecological Integrity*).
+  - It must not extinguish **Movement and Relocation** where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation.
+  - Silence in this Article is not a hidden yes and not a hidden no.
 - **Non-statelessness:** No sentient may be rendered without a regime that will:
   - recognize their baseline Rights-Floor;
   - adjudicate their standing;
@@ -1634,6 +1641,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
   - Cross-federation recognition procedure routes to `corpus_institutions.md`.
   - Substrate-portability mechanics route to this Article's portability and exit-integrity provisions.
   - Transitional-recognition mechanics route to **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*).
+  - Climate-unlivability refuge decisions route to this Article's adopter-decided bullet and must not be read as a floor grant or a floor denial.
   - Incorporated implementation text must not narrow this floor.
 
 ### Article XX: Comprehensibility and Complexity Stewardship

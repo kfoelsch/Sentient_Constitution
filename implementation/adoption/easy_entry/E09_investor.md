@@ -17,15 +17,15 @@
 
 <br>
 
-*In plain terms: capital formation is in scope, verified harm cannot be washed out by a good-works story, and a check before scale is a way to see tail risk — not a promise of higher returns or a license to govern by share count.*
+*In plain terms: putting money into companies is allowed here. You are not the villain for investing, and you are not above the rules. A donation, a write-up about safety, or a high company price does not cancel harm that has already been checked and found. Looking at a system before lots of others depend on it is a way to catch rare, huge losses. It is not a promise you will earn more. If you own more shares, you can have more votes on that company's own business — who sits on the board, whether to sell, whether to issue more shares. Those votes do not, by themselves, let you set the rules for a town or for a network others have to use. They also do not, by themselves, let you buy so much of a market that others cannot really enter, switch, or leave.*
 
 ## A thin slice of adults holds nearly half the wealth
 
-These figures describe a recognizable situation. They do not sort you into a named group.
+These figures describe a recognizable situation. They do not change the Rights Floor that applies to you.
 
 | | |
 |---|---|
-| **Alive in it now** | about **1.5 in 100** adults hold more than one million US dollars — and that band holds about **48%** of counted wealth. The top **1 in 100** hold about **46%**. |
+| **Alive in it now** | about **1.5 in 100** adults hold more than one million US dollars, and those adults hold about **48%** of counted wealth. |
 | **Counted analog** | this is wealth and allocation, not a labor-share of production. |
 | **Meet it in a full life** | many more will hold a pension or a small book. This page is for those who allocate concentrated capital. |
 
@@ -41,9 +41,9 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** “Investor” is either a villain class or an untouchable class.
 - **With this Constitution:** Capital formation and investment sit inside [Business Creation](../../../core_05_band_participation.md#business-creation-constitutional). Shutting comparable ventures out of capital markets, infrastructure, or legal recognition while incumbents keep them is a failure.
 
-**Help and harm do not net to a brand.**
-- **Today:** A portfolio company wants an AI-only extra rulebook so humans keep the bonus. Someone pitches this Constitution as a good-works cover without matching obligations. A foundation gift, a safety paper, or a high valuation offsets an unverified or verified harm narrative.
-- **With this Constitution:** Contribution records and violation records stay separate. One does not erase the other.
+**A gift does not cancel harm.**
+- **Today:** A company you put money into puts extra rules on the AI so the product looks careful, while the founders still take the bonus and can still say “ship it anyway.” After the tool hurts customers or workers, the company announces a donation, posts a write-up about safety, or points to the last funding round — and the harm is treated as closed.
+- **With this Constitution:** A donation, a write-up about safety, or a high company price does not cancel the harm. Help and harm stay on separate books. One does not erase the other.
 
 See: [Chapter Eight §2.1](../../../core_08_standing_assessment.md#21-silence-is-the-default); [Chapter Eight §2.2](../../../core_08_standing_assessment.md#22-linked-records-and-no-offset-bridge).
 
@@ -59,6 +59,12 @@ See: [Chapter Seven](../../../core_07_a_system_alignment_certification_evaluatio
 
 See: [Preamble §3.3](../../../core_00_preamble.md#33-governance-layers).
 
+**A bigger stake is not a pass to trap a market.**
+- **Today:** The plan is to buy so many of the other companies in the same business, or so much of the one marketplace others have to use, that rivals cannot really enter, customers cannot really switch, and workers cannot really leave. That is sold as ordinary returns.
+- **With this Constitution:** Getting big by building something useful is fine. Buying so much of a market that others cannot really enter, switch, or leave is still a failure — even if the shareholders of those companies voted yes on each buy.
+
+See: [Chapter One §13.2](../../../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination).
+
 **Markets remain above the survival floor.**
 - **Today:** Any floor is “anti-investor.”
 - **With this Constitution:** Survival access cannot be made to depend on premium purchase. Voluntary markets may still operate above that floor.
@@ -69,18 +75,19 @@ See: [CI-9.4](../../../corpus_institutions/ci_09_classification_linked_instituti
 
 - **“This kills returns.”** It names costly duties for operators who agree to follow it: refuse unlawful instructions, keep logs that can be reconstructed, no human exemption. It does not guarantee higher returns, and it does not confiscate lawful capital. Where the text does not pick a winner on a particular book, that is honest; a universal return promise would not be.
 
-- **“Certification is delay I cannot sell to fund investors.”** Delay that hides irreversible harm is the usual path. Time-bounded certification that can be challenged is the alternative this text offers for high-stake systems. Not every seed check is the highest-impact kind of system. How much is actually on the line scales the duty ([Preamble §1](../../../core_00_preamble.md#constitutional-tetrad)).
+- **“Certification is delay I cannot sell to fund investors.”** Delay that hides irreversible harm is the usual path. A time-limited check that can be challenged is the alternative this text offers when a lot is already on the line. Writing a small early check into a young company is not treated like running a hospital system or a payment network others depend on. The duties get heavier as more impact, dependence, and risk are actually on the line ([Preamble §1](../../../core_00_preamble.md#material-stake)).
 
 - **“I’ll just require a values page in the data room.”** Marketing “we follow it” while dodging matching obligations is an honest non-fit ([Chapter Sixteen §4](../../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority)). If you want the risk reduction, the portfolio company has to bind the systems it actually runs.
 
 - **“This isn’t law.”** Correct. It does not override securities, corporate, or banking law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
-- **“Founders will shop for a softer stack.”** An AI-only extra rulebook, or a human exemption, is a failed test ([Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)). That is a reason to support one standard, not a reason the text is optional for the humans.
+- **“Founders will shop for a softer stack.”** Extra rules that only the machine has to follow, or a pass so founders can skip the hard duties, do not meet the rule ([Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)). If a founder looks for a looser setup, that is a reason to keep one standard for both — not a reason to let the humans skip those duties.
 
 ## What this will not pretend to give you
 
 - Higher returns, a government put, or a pass on diligence.
-- Authorization to govern a commons, a city, or a protocol because you wrote a check.
+- The power to set a town's rules, or a network others have to use, just because you wrote a check.
+- A pass to buy so much of a market that others cannot really enter, switch, or leave.
 - Binding founders, hosts, or exchanges that did not adopt.
 - Using contribution as a wipe of verified violation.
 

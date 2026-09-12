@@ -17,13 +17,13 @@
 
 <br>
 
-*In plain terms: you may move, seek refuge from a regime whose practice does not meet the rule in a way that matters, and not be left with no country or body that still counts you — and a trust label, a delayed file, or an argument that fails inclusion is not a hidden border.*
+*In plain terms: you may move, seek refuge from a regime whose practice does not meet the rule in a way that matters, and not be left with no country or body that still counts you. A score of how trusted you are is not, by itself, a border. A file that never finishes is still a refusal. Saying you do not count is not a hidden way to turn you away.*
 
-This brief is for someone who has left, or may have to leave, a place. It does not sort you into a named group. When movement, refuge, or having no country or body that still counts you is actually at stake, those rules are located in the section on [Article XIX-D](../../../core_06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness).
+This brief is for someone who has left, or may have to leave, a place. It does not change the Rights Floor that applies to you. When movement, refuge, or having no country or body that still counts you is actually at stake, those rules are located in the section on [Article XIX-D](../../../core_06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness).
 
 ## One in 67 now — and the count keeps rising
 
-These figures describe a recognizable situation. They do not sort you into a named group.
+These figures describe a recognizable situation. They do not change the Rights Floor that applies to you.
 
 | | |
 |---|---|
@@ -31,7 +31,7 @@ These figures describe a recognizable situation. They do not sort you into a nam
 | **Counted in world output** | not a production category. Origin and host economies both move. |
 | **Meet it in a full life** | forced displacement nearly doubled in a decade. Without climate and development action, up to **216 million** could move inside their own countries by 2050. |
 
-Rounded. Sources: [`SCALE_NOTES.md`](SCALE_NOTES.md).
+These figures are approximate — nearest 1-in-n or whole percent. Sources: [`SCALE_NOTES.md`](SCALE_NOTES.md).
 
 ## Your situation
 
@@ -47,9 +47,9 @@ See: [Article XIX-D](../../../core_06_rights_part_c.md#article-xix-d-movement-mi
 
 **A role score is not a border.**
 - **Today:** A score, a watchlist, or “no record on file” is treated as a reason to refuse movement. A dropped record, a lock, or “unrated” becomes exile.
-- **With this Constitution:** How a record currently reads, and locks on that record, do not by themselves limit movement, refuge, taking your records with you, or exit. They must not function as exile or as having no country or body that still counts you.
+- **With this Constitution:** A score of how trusted you are, or a lock on a record, is not, by itself, a reason to refuse movement, refuge, taking your records with you, or leaving. Accusations that have not been decided are not a border. If conduct that breaks this Constitution has been checked and found, a host may still refuse or condition admission, or use detention or other limits, when those steps are needed, not bigger than the harm, and done through a real process. Those steps still cannot leave you with no country or body that counts you.
 
-See: [Article XVIII-D](../../../core_06_rights_part_c.md#article-xviii-d-movement-migration-and-refuge); [Article XVIII-A](../../../core_06_rights_part_c.md#article-xviii-a-standing-distinction); [Chapter Eight §2.1](../../../core_08_standing_assessment.md#21-silence-is-the-default).
+See: [Article XVIII-D](../../../core_06_rights_part_c.md#article-xviii-d-movement-migration-and-refuge); [Article XIX-D](../../../core_06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness); [Article XXIII-B](../../../core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Chapter Eight §2.1](../../../core_08_standing_assessment.md#21-silence-is-the-default).
 
 **Exit has to work in practice.**
 - **Today:** You can leave if you abandon data, credentials, and proof of what was done to you.
@@ -77,7 +77,7 @@ See: [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); 
 
 - **“If I have a past accusation, you will use it as a wall.”** Verified liberty-restricting measures still exist when they are needed, not bigger than the harm, and done through process. Record labels and accusations that have not been decided are not that process. Accusations are not findings.
 
-- **“Climate displacement is not ‘failure to meet the rule.’”** Air, water, soil, and a real reason to stay housed still attach to the systems and projects that made the place unlivable ([Article I-A](../../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)). Refuge from a *regime* that does not meet the rule is the XIX-D sentence; it does not require you to litigate the weather. Where the text does not pick a winner on a particular climate-only claim, name that gap rather than invent a winner.
+- **“Climate displacement is not ‘failure to meet the rule.’”** If a project or system made the place unlivable, it still owes air, water, soil, and a real reason to stay housed ([Article I-A](../../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)). Seeking refuge is about fleeing a government or system whose practice does not meet the rule ([Article XIX-D](../../../core_06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness)). You do not have to prove the weather broke this Constitution. Whether climate making a place unlivable is a reason to grant that refuge is for a body that has agreed to follow this Constitution to decide ([Article XIX-D](../../../core_06_rights_part_c.md#xix-d-climate-unlivability-refuge-adopter-decided)). This page does not invent a yes or a no.
 
 - **“This will be used to refuse us as a security class.”** Limits on movement and refuge still have to be needed, not bigger than the harm, and the least harsh option that works. Arguments that fail [Sentience Non-Exclusion](../../../core_05_band_participation.md#sentience-non-exclusion) cannot be used as hidden denials.
 

@@ -23,7 +23,7 @@ This brief is for a teen whose “for your own good” limits feel like a closed
 
 ## Everyone is this age once
 
-These figures describe a recognizable situation. They do not sort you into a named group.
+These figures describe a recognizable situation. They do not change the Rights Floor that applies to you.
 
 | | |
 |---|---|
@@ -31,7 +31,7 @@ These figures describe a recognizable situation. They do not sort you into a nam
 | **Counted in world output** | not a production category. Already inside schools, clinics, and jobs that the rest of the table funds. |
 | **Meet it in a full life** | nearly everyone who lives through childhood. |
 
-Rounded. Sources: [`SCALE_NOTES.md`](SCALE_NOTES.md).
+These figures are approximate — nearest 1-in-n or whole percent. Sources: [`SCALE_NOTES.md`](SCALE_NOTES.md).
 
 ## Your situation
 

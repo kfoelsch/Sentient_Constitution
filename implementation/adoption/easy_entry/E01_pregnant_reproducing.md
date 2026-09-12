@@ -21,7 +21,7 @@
 
 ## Nearly everyone meets a pregnancy
 
-These figures describe a recognizable situation. They do not sort you into a named group.
+These figures describe a recognizable situation. They do not change the Rights Floor that applies to you.
 
 | | |
 |---|---|
@@ -29,7 +29,7 @@ These figures describe a recognizable situation. They do not sort you into a nam
 | **Counted in world output** | If unpaid cooking, cleaning, and looking-after hours worldwide were paid at a local hourly minimum wage, ILO (2018) would count them as about **9%** of world GDP — hours national books usually omit. Pregnancy and newborn care sit inside that pile. There is no published “pregnant” slice. |
 | **Meet it in a full life** | **everyone** now alive was born of a pregnancy. Most women who live through midlife will carry at least once. Nearly everyone will be the child, the one who is pregnant, or a close helper in a scene like this. |
 
-Rounded. Sources: [`SCALE_NOTES.md`](SCALE_NOTES.md).
+These figures are approximate — nearest 1-in-n or whole percent. Sources: [`SCALE_NOTES.md`](SCALE_NOTES.md).
 
 ## Your situation
 

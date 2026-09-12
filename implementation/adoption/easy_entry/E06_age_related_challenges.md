@@ -21,7 +21,7 @@
 
 ## Living long enough for age-related challenges is the usual path
 
-These figures describe a recognizable situation. They do not sort you into a named group.
+These figures describe a recognizable situation. They do not change the Rights Floor that applies to you.
 
 | | |
 |---|---|
@@ -29,7 +29,7 @@ These figures describe a recognizable situation. They do not sort you into a nam
 | **Counted in world output** | older humans hold a large share of wealth and consumption. Care for them sits inside unpaid cooking, cleaning, and looking-after hours that ILO (2018) would count as about **9%** of world GDP if paid at a local hourly minimum wage — hours national books usually omit. |
 | **Meet it in a full life** | the usual path in much of the world is to live long enough for daily things to get harder — and nearly everyone will help someone through age-related challenges. |
 
-Rounded. Sources: [`SCALE_NOTES.md`](SCALE_NOTES.md).
+These figures are approximate — nearest 1-in-n or whole percent. Sources: [`SCALE_NOTES.md`](SCALE_NOTES.md).
 
 ## Your situation
 
@@ -77,7 +77,7 @@ See: [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justic
 
 - **“If I refuse help, they’ll say that proves I lack capacity.”** Refusal of a conditioned offer is not, by itself, a verified incapacity finding. That is the same pattern [E01](E01_pregnant_reproducing.md) names in a different scene.
 
-- **“I’m not ‘developing.’ Don’t use the child article on me.”** You do not have to be classed as a child to use this page. This brief is for someone facing age-related challenges, or any change in remembering, stamina, or keeping up with decisions. It does not sort you into a named group. Birthday and diagnosis are not stand-ins for what you can actually do. You still hold [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) self-ownership. The rules this brief uses — what you can actually do, not a birthday — are located in the section on [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability).
+- **“I’m not ‘developing.’ Don’t use the child article on me.”** You do not have to be classed as a child to use this page. This brief is for someone facing age-related challenges, or any change in remembering, stamina, or keeping up with decisions. It does not change the Rights Floor that applies to you. Birthday and diagnosis are not stand-ins for what you can actually do. You still hold [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) self-ownership. The rules this brief uses — what you can actually do, not a birthday — are located in the section on [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability).
 
 ## What this will not pretend to give you
 
@@ -89,4 +89,4 @@ See: [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justic
 ## If you want to look further
 
 - Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
-- Sibling briefs: [`README.md`](README.md) — [E05](E05_disability.md) if the closed door is access rather than help taking over decisions; [E02](E02_single_parent.md) if you are the unpaid carer in this scene
+- Sibling briefs: [`README.md`](README.md) — [E05](E05_disability.md) if the closed door is access rather than help taking over decisions; [E14](E14_mental_health.md) if the takeover is a mental-health diagnosis rather than age; [E02](E02_single_parent.md) if you are the unpaid carer in this scene

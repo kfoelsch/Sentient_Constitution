@@ -21,7 +21,7 @@
 
 ## Raising a child mostly alone is ordinary
 
-These figures describe a recognizable situation. They do not sort you into a named group.
+These figures describe a recognizable situation. They do not change the Rights Floor that applies to you.
 
 | | |
 |---|---|
@@ -29,7 +29,7 @@ These figures describe a recognizable situation. They do not sort you into a nam
 | **Counted in world output** | If unpaid cooking, cleaning, and looking-after hours worldwide were paid at a local hourly minimum wage, ILO (2018) would count them as about **9%** of world GDP — hours national books usually omit. This household form does a large share of that work, plus waged work. There is no published “one-parent” slice. |
 | **Meet it in a full life** | a large share of parents spend years as the main carer. A large share of children spend years in this household form. |
 
-Rounded. Sources: [`SCALE_NOTES.md`](SCALE_NOTES.md).
+These figures are approximate — nearest 1-in-n or whole percent. Sources: [`SCALE_NOTES.md`](SCALE_NOTES.md).
 
 ## Your situation
 

@@ -35,7 +35,7 @@ This page is the index for short briefs in the “you” voice: what this Consti
 
 Each brief uses the same method as the [lived-situation packets](../../../evaluation/lived_situations/README.md): a colliding scene, basic protections rather than wish-fulfillment, and honest limits. The packets **test** whether those protections reach named parties. These briefs **speak to** a reader in a similar situation.
 
-The roster names **pages for situations**. It does not create legal types, trust scores, or duties. Source text binds. Teen and tween briefs do not sort you by birthday; those rules are located in the section on [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*what you can actually do, not calendar age*). Shop, capital, and operator briefs are roles, not a second morals stack. Farm, informal work, and displacement briefs do not sort you into a named group.
+The roster names **pages for situations**. It does not create legal types, trust scores, or duties. It does not change the Rights Floor that applies to you. Source text binds. Teen and tween briefs do not sort you by birthday; those rules are located in the section on [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*what you can actually do, not calendar age*). The mental-health brief does not sort you by diagnosis. Shop, capital, and operator briefs are roles, not a second morals stack.
 
 <a id="what-this-is-not"></a>
 ## What this is not
@@ -64,6 +64,7 @@ Lived-situation pages (basic protections, voice, care):
 | E04 | A tween whose voice is treated as optional | [E04_tween.md](E04_tween.md) |
 | E05 | Disability or extra support needs, including neurodivergence | [E05_disability.md](E05_disability.md) |
 | E06 | Age-related challenges, or when help starts taking over decisions | [E06_age_related_challenges.md](E06_age_related_challenges.md) |
+| E14 | A mental-health diagnosis, or when care is used to take over your say | [E14_mental_health.md](E14_mental_health.md) |
 | E07 | An AI or machine mind treated as a tool or product | [E07_synthetic_sentient.md](E07_synthetic_sentient.md) |
 
 Establishment roles (why a shop, a book, or an operator would support it):
@@ -87,7 +88,7 @@ New briefs use [`_TEMPLATE.md`](_TEMPLATE.md). Headline figures: [`SCALE_NOTES.m
 <a id="how-common"></a>
 ## These situations are not a niche
 
-Each brief opens with a thesis headline, then three figures. Rounded. Census and labor counts are of living humans. These figures do not sort anyone into a named group. Sources and caveats: [`SCALE_NOTES.md`](SCALE_NOTES.md).
+Each brief opens with a thesis headline, then three figures. The figures are approximate — nearest 1-in-n or whole percent. Census and labor counts are of living humans. These figures do not change the Rights Floor. Sources and caveats: [`SCALE_NOTES.md`](SCALE_NOTES.md).
 
 | ID | Alive in it now | Counted output / analog | Meet it in a full life |
 |---|---|---|---|
@@ -97,6 +98,7 @@ Each brief opens with a thesis headline, then three figures. Rounded. Census and
 | E04 | ~**8 in 100** ages 10–14 | same as E03 | nearly everyone |
 | E05 | ~**16 in 100** (1 in 6) with significant disability | no clean share; access gaps shrink what gets counted | almost everyone, at least for a time |
 | E06 | ~**10 in 100** ages 65+; toward **21 in 100** by 2074 | wealth, consumption, and unpaid care | the usual path if you live long — and nearly everyone as helper |
+| E14 | ~**1 in 7** with a mental disorder (WHO 2021); 2019 baseline ~**1 in 8** | no clean share; ~**1 in 6** years lived with disability (WHO 2022 report) | a large share of full lives; nearly everyone as the one in it or a close helper |
 | E07 | **none** in the census | **reach:** ~**68 in 100** living humans online | a growing share of human life already passes through machine systems |
 | E08 | ~**90 in 100** businesses; more than **half of jobs** | ~**40%** of counted output in developing economies | most working lives, as owner, worker, or customer |
 | E09 | ~**1.5 in 100** adults hold ~**48%** of counted wealth | wealth and allocation, not a labor share | many more via a pension; this page is concentrated capital |
@@ -138,7 +140,7 @@ Put colliding facts in the **Today** line. Do not write a second scene. Cite the
 | File | Job |
 |---|---|
 | [`../../../START_HERE.md`](../../../START_HERE.md) | Public door |
-| [`SCALE_NOTES.md`](SCALE_NOTES.md) | Headline figures: sources, rounding, what was not invented |
+| [`SCALE_NOTES.md`](SCALE_NOTES.md) | Headline figures: sources, why they are approximate, what was not invented |
 | [`../FIT_SITUATIONS.md`](../FIT_SITUATIONS.md) | Where this instrument would actually fit (operators and founding bodies) |
 | [`../ANNOUNCEMENT.md`](../ANNOUNCEMENT.md) | Say / do-not-say for public notes |
 | [`../../../evaluation/lived_situations/`](../../../evaluation/lived_situations/) | Floor-reach sitting; scene source for E01. **Separate sitting.** |

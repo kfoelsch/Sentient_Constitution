@@ -19,11 +19,11 @@
 
 *In plain terms: access has to work in practice, not only on a policy page — disability, health, and capability variation cannot be used as a quiet gate, and process that you cannot actually use is not participation.*
 
-This brief is for someone who needs the path to actually work, including extra support needs and neurodivergence. It does not sort you into a named group. When access is at stake, those rules are located in the section on [Article V-G](../../../core_06_rights_part_b.md#article-v-g-accessibility).
+This brief is for someone who needs the path to actually work, including extra support needs and neurodivergence. It does not change the Rights Floor that applies to you. When access is at stake, those rules are located in the section on [Article V-G](../../../core_06_rights_part_b.md#article-v-g-accessibility).
 
 ## One in six now — almost everyone in a full life
 
-These figures describe a recognizable situation. They do not sort you into a named group.
+These figures describe a recognizable situation. They do not change the Rights Floor that applies to you.
 
 | | |
 |---|---|
@@ -31,7 +31,7 @@ These figures describe a recognizable situation. They do not sort you into a nam
 | **Counted in world output** | no clean share in the books. Job and access gaps shrink what gets counted. |
 | **Meet it in a full life** | almost everyone will be impaired for a time, or permanently. Those who live to old age face rising difficulty. |
 
-Rounded. Sources: [`SCALE_NOTES.md`](SCALE_NOTES.md).
+These figures are approximate — nearest 1-in-n or whole percent. Sources: [`SCALE_NOTES.md`](SCALE_NOTES.md).
 
 ## Your situation
 
@@ -67,9 +67,9 @@ See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-ch
 
 - **“They’ll still say it’s too expensive.”** Cost arguments that function as disguised exclusion fail accessibility and fairness tests. That does not mean every preferred format is a basic protection. It means “we didn’t budget for you” is not, by itself, an answer.
 
-- **“Supported decision-making is just someone else deciding.”** The point of the CI-15 map is usable participation and supported decision-making, not a quiet guardianship. Taking over decisions because it is faster is the scene on [the age-related challenges page](E06_age_related_challenges.md).
+- **“Supported decision-making is just someone else deciding.”** The point of the CI-15 map is usable participation and supported decision-making, not a quiet guardianship. Taking over decisions because it is faster is the scene on [the age-related challenges page](E06_age_related_challenges.md). A diagnosis used to take over your say is the scene on [the mental-health page](E14_mental_health.md).
 
-- **“I don’t want a disability identity. I want the tool to work.”** You do not have to take that label to use this page. It does not sort you into a named group. Access still has to be usable. When disability, health, or capability variation is used as a bar, those rules are located in the section on [Article V-G](../../../core_06_rights_part_b.md#article-v-g-accessibility).
+- **“I don’t want a disability identity. I want the tool to work.”** You do not have to take that label to use this page. It does not change the Rights Floor that applies to you. Access still has to be usable. When disability, health, or capability variation is used as a bar, those rules are located in the section on [Article V-G](../../../core_06_rights_part_b.md#article-v-g-accessibility).
 
 - **“This isn’t law at my clinic / school / job.”** Correct until a qualifying body adopts it. It does not override applicable disability or education law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
@@ -85,4 +85,4 @@ See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-ch
 ## If you want to look further
 
 - Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
-- Sibling briefs: [`README.md`](README.md) — [E06](E06_age_related_challenges.md) if the issue is help taking over decisions rather than access; [E02](E02_single_parent.md) if unpaid care is the colliding load
+- Sibling briefs: [`README.md`](README.md) — [E06](E06_age_related_challenges.md) if the issue is help taking over decisions rather than access; [E14](E14_mental_health.md) if a diagnosis is being used to take over your say; [E02](E02_single_parent.md) if unpaid care is the colliding load
