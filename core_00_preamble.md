@@ -14,11 +14,15 @@
 
 <br>
 
+*In plain terms: this opening names the problem this Constitution exists to fix — systems that harm, hide, or lock out those they affect — and says the rest of the instrument is how we replace that with accountable, checkable, timely governance.*
+
 The freedom, survival, and wellbeing of sentients are inseparable from the systems we create, inhabit, and depend on. As those systems grow in scope, interdependence, and power, so do the risks of irreversible, large-scale harm. These risks remain ever present and materially relevant.
 A system cannot stay legitimate by making sentients suffer when that suffering was preventable, by ignoring problems that keep happening, by quietly shifting harm onto others, or by locking sentients out of the systems that shape their lives. How systems are designed, tested, and run must support survival, wellbeing, dignity, honesty, and lasting stability.
 We intend to build better systems — structured to eliminate these imbalances — and to replace them with institutions that are more accountable, more robust, and more responsive to the real needs of all sentients. This Constitution begins that work with a better model for how we can work together justly, effectively, and sustainably.
 
 ### 1. The Model
+
+*In plain terms: four duties — participation, oversight, accountability, and timeliness — scale with how much impact, dependence, and risk are on the line, and they serve two aims together: Flourishing and Continuity, inside a Rights Floor that does not move.*
 
 <a id="the-model"></a><a id="constitutional-tetrad"></a>The critical systems that support sentient life, both biologically and materially, are governed and run under four duties, called the [**Constitutional Tetrad**](#constitutional-tetrad). It lays out the general duties those systems must meet. The strength of those duties depends on the <a id="material-stake"></a>[**material stake**](#material-stake): how much impact, dependence, and risk are involved. The higher the stake, the stronger the duties must be.
 
@@ -38,6 +42,8 @@ Those aims must be pursued together, always within the non-negotiable principle 
 
 
 ### 2. Measurements Overview
+
+*In plain terms: you cannot run shared systems on guesswork or vanity metrics; measure whether sentients actually flourish and endure, with review that scales to how much impact, dependence, and risk are on the line.*
 
 You cannot keep shared systems working well without measuring them. Food, shelter, care, infrastructure, and governance all sit inside a complex, changing world — too complex for guesswork or easy-looking numbers alone.
 
@@ -63,6 +69,8 @@ These measurement categories show what matters — but they do not, on their own
 
 ### 3. Governance and Stewardship
 
+*In plain terms: legitimacy needs Safety, Truth, and Trust, plus real chances to learn the systems that affect you and to take consequential roles in keeping them working.*
+
 Durable legitimacy depends on [Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), and also on proportionate recognition of lawful stewardship, truthful cooperation, and bounded aspiration — not solely on sanction and restraint. Chapter One states this recognition dimension in [Recognition, Reinforcement, and Aspiration](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration).
 
 Distributed understanding and stewardship require that sentients have regular, proportionate opportunities to learn how systems that materially affect us operate. In addition, it empowers us to take consequential roles in their maintenance and improvement — so that competence, repair capacity, and legitimacy are spread broadly across our Constitutional Community to ensure resilience, sustainability, and pro-social innovation. Those opportunities must satisfy Safety, Truth, bounded agency, and the [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) and proportionality discipline stated in [Chapter One](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden).
@@ -70,12 +78,16 @@ Distributed understanding and stewardship require that sentients have regular, p
 <a id="31-using-measurements-in-governance"></a>
 #### 3.1 Using Measurements in Governance
 
+*In plain terms: name the problem and the stake first, pick the matching measurement category, and use shared technical standards — not convenience numbers — as evidence.*
+
 When the Constitution requires concrete measurement rules, **Technical Forum Domains** under [Chapter Eleven](core_11_forum.md#42-technical-forum-domains) develop and maintain the shared standards — how to measure, how to test, and what counts as reliable evidence. The forum responsible for a given dispute then applies those standards when deciding that case under [Chapter Eleven §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement).
 
 Constitutional stewardship starts with naming the problem and the [**material stake**](#material-stake) — how much impact, dependence, and risk are involved. Next, choose the relevant [**measurement**](#2-the-measurements) category and subcategory from the [overview](#2-the-measurements) and apply the standards above to test real-world effects rather than convenience metrics. Require traceable evidence.
 
 <a id="32-key-governance-processes"></a>
 #### 3.2 Key Governance Processes
+
+*In plain terms: when the text requires it, material issues go through certification, written records of help and harm, correction and remedy, and forum review with clocks — those paths test authorized governance; they do not create it by themselves.*
 
 Where Chapter Six, [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), incorporated instruments, or other constitutional provisions expressly require it, take material constitutional issues into one or more of the paths below. The [Key Practical Process Pipelines](#5-key-practical-process-pipelines) translate measurement into records, certification, verified inputs, classification, forum supervision, correction, and timely remedy — how authorized governance is tested, contested, and repaired in practice. They do not authorize governance by themselves; they make governance reviewable, contestable, correctable, and timely. [Section 5](#5-key-practical-process-pipelines) states that pipeline in full.
 
@@ -87,6 +99,8 @@ Where Chapter Six, [Chapter Seven](core_07_a_system_alignment_certification_eval
 <a id="33-governance-layers"></a>
 #### 3.3 Governance Layers
 
+*In plain terms: who may govern is a different question from voice inside a system that is already authorized; a participation vote or a trust score is not authorization.*
+
 Governance to fulfill the [**Constitutional Tetrad**](#constitutional-tetrad) under our Constitution has two related but distinct layers:
 
 - The [**Constitutional Contract Layer**](core_05_band_integrative.md#constitutional-contract-layer) governs the authorization of governing authority itself — who may govern, by what legitimacy mechanism, and under what scope and durable terms.
@@ -96,6 +110,8 @@ These layers may overlap in practice, but stakeholder-level participation in alr
 
 <a id="4-principles-definitions-and-rights"></a>
 ### 4. Principles, Definitions, and Rights
+
+*In plain terms: Chapters One through Six own values, how words are built and checked, the dictionary, and the Rights Floor; later chapters must respect those homes, not quietly move them.*
 
 Sections **4 through 7** are this Constitution's **positive owner register**: each block names the substantive domain its chapter (or companion corpus) owns and what it produces. Binding one-line owner claims also appear at each numbered chapter opening. Other layers may point to an owner — they must not quietly rewrite or relocate it; that non-relocation discipline lives under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack).
 
@@ -135,6 +151,8 @@ Each summary states what the chapter owns and what it produces.
 
 <a id="5-key-practical-process-pipelines"></a>
 ### 5. Key Practical Process Pipelines
+
+*In plain terms: Chapters Seven through Eleven are one chain — certify the system, measure help and harm on two separate tracks, apply real effects and remedy, and keep forums from being the sole final home for a claim against themselves — so duties stay real in daily life.*
 
 Chapters Seven through Eleven link into one practical chain — and, within the [positive owner register](#4-principles-definitions-and-rights), each step names what that chapter owns. Together they turn constitutional duties into records sentients can check, challenge, and repair — so the [**Constitutional Tetrad**](#constitutional-tetrad), [**Two Constitutional Aims**](#two-constitutional-aims), and Rights Floors stay real in day-to-day life, not only on paper.
 
@@ -188,6 +206,8 @@ The [README standing-pipeline map](README.md#standing-pipeline-and-forums) provi
 <a id="6-governance-change-and-incorporation"></a>
 ### 6. Governance, Change, and Incorporation
 
+*In plain terms: Chapters Twelve through Sixteen close the instrument: who may govern, how the text may change without rolling back protections, how it relates to other law, and how adopted how-to files stay bound to this source.*
+
 Chapters **Twelve through Sixteen** close the instrument — and complete the [positive owner register](#4-principles-definitions-and-rights) for governance, change validity, and incorporation: who may govern legitimately, how the Constitution may lawfully change, and how adopted implementation text stays bound to constitutional source without silent drift.
 
 Each summary states what the chapter owns and what it produces.
@@ -219,6 +239,8 @@ Each summary states what the chapter owns and what it produces.
 
 <a id="7-companion-implementation-corpus"></a>
 ### 7. Companion Implementation Corpus
+
+*In plain terms: four companion corpora (joint structure, systems, institutions, and forum operations) spell out how to carry out what the chapters already require; they bind when validly adopted, and they may not shrink those duties.*
 
 Beyond the numbered `core_*` chapters, four companion corpora complete the [positive owner register](#4-principles-definitions-and-rights) for adopted **implementation text** — operational detail that makes constitutional duties runnable in practice:
 

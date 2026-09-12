@@ -69,12 +69,28 @@ Named in [PRE_PUBLICATION_SPEC.md](implementation/PRE_PUBLICATION_SPEC.md) §3.1
 | If this is happening | Open |
 |---|---|
 | What this would mean for someone in my situation | [easy_entry/README.md](implementation/adoption/easy_entry/README.md) |
+| Challenge, independent review, certification, help and harm, or crisis clocks | [Process guides G01–G05](implementation/adoption/easy_entry/README.md#process-guides) |
+| Harmed, and you cannot find the door | [E15](implementation/adoption/easy_entry/E15_cannot_find_the_door.md) |
+| Print a first-hour pack | [PRINT_PACK.md](implementation/PRINT_PACK.md) |
+| Numbered core files (GitHub render) | [docs/corpus_index.md](docs/corpus_index.md) |
+| Everyday questions (does reading bind me, who counts, crisis) | [FAQ.md](implementation/FAQ.md) |
+| Rights Floor in one sitting | [Rights Floor wall sheet](doc_architecture/generated/rights_floor_sheet.md) |
+| Look up a word | [Human definition lookup](doc_architecture/generated/human_definition_lookup.md) |
 | Day-to-day next step (refuse, log, certify, contest, remedy, emergency) | [STEWARD_ENTRY_DOORS.md](implementation/STEWARD_ENTRY_DOORS.md) |
 | Fitness screen plus own-conduct declaration | [evaluation/self_application/START_HERE.md](evaluation/self_application/START_HERE.md) (a different page from this one) |
 | Kit routing — two parties, *n* parties, institution, forum | [FIT_SITUATIONS.md §6](implementation/adoption/FIT_SITUATIONS.md#6-kit-routing) |
 | Size *N* × Class *X* — which bodies, in what order, at what staff and funding | [MINIMUM_VIABLE_ADOPTER.md](implementation/adoption/MINIMUM_VIABLE_ADOPTER.md) |
 
 If you cannot bind the systems or name independent review that is not the founding crew, stop at operations-guide plus own-conduct. Do not skip ahead to Track B.
+
+<a id="reading-paths"></a>
+### Timed reading paths
+
+You do not have to read the whole instrument. These paths are process support. They cannot narrow core.
+
+- **15 minutes** — this page §§1–2 and §7; [Preamble §1 The Model](core_00_preamble.md#the-model) (four duties and two aims); one [easy-entry brief](implementation/adoption/easy_entry/README.md#roster) that sounds like your situation.
+- **45 minutes** — the 15-minute path, then the [Rights Floor wall sheet](doc_architecture/generated/rights_floor_sheet.md), [PROCESS_PIPELINES_READER.md](implementation/PROCESS_PIPELINES_READER.md), one [process guide](implementation/adoption/easy_entry/README.md#process-guides), and one [pipeline vignette](core_08-11_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a).
+- **2 hours** — the 45-minute path, then the [Preamble](core_00_preamble.md) through [§5](core_00_preamble.md#5-key-practical-process-pipelines), [Chapter One, Part A](core_01_a_values_principles.md), and the Chapter Six articles named in the brief or guide you opened.
 
 Sequential chapter reading (editor map): [README.md](README.md).
 
@@ -105,6 +121,12 @@ If any “cannot bind” row in the first-adopter kit’s [scope honesty](implem
 | **Announcement copy** | [implementation/adoption/ANNOUNCEMENT.md](implementation/adoption/ANNOUNCEMENT.md) |
 | **Editor map** | [README.md](README.md) |
 | **Vision and contribution** | [VISION.md](VISION.md) (where it stands; path to maturity) · [CONTRIBUTING.md](CONTRIBUTING.md) (how to take part; not adoption) |
+| **Everyday questions** | [implementation/FAQ.md](implementation/FAQ.md) |
+| **Print pack** | [implementation/PRINT_PACK.md](implementation/PRINT_PACK.md) (generated one-file: [print_pack.md](doc_architecture/generated/print_pack.md)) |
+| **Numbered core (GitHub render)** | [docs/corpus_index.md](docs/corpus_index.md) (`/docs` blob index). Full Pages render: `make pages-site` / [`.github/workflows/pages.yml`](.github/workflows/pages.yml) (same files; repository wins). |
+| **Rights Floor wall sheet** | [doc_architecture/generated/rights_floor_sheet.md](doc_architecture/generated/rights_floor_sheet.md) (generated; source binds) |
+| **Human definition lookup** | [doc_architecture/generated/human_definition_lookup.md](doc_architecture/generated/human_definition_lookup.md) (generated; not a second dictionary) |
+| **Agent pointer** | [AGENTS.md](AGENTS.md) · [llms.txt](llms.txt) (edition, not-adoption, CLI; not a digest of duties) |
 | **Edition** | `SC-Corpus-2026.08.09` (**pre-release**) |
 | **License** | [CC BY 4.0](LICENSE) |
 | **Authorship** | Karl Ernst, with Claude (Fable and Opus), ChatGPT, Cursor, Gemini, Grok, and Kimi — [README § Authorship](README.md#authorship) |

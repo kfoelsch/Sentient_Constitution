@@ -83,6 +83,33 @@ Place and livelihood (thin public protections, land, movement — not a geograph
 | E12 | Informal work, a newly arrived ID / payment / aid gate | [E12_informal_livelihood.md](E12_informal_livelihood.md) |
 | E13 | Displaced, seeking movement, or at risk of no country or body that still counts you | [E13_displacement_refuge.md](E13_displacement_refuge.md) |
 
+Work, school, and unpaid adult care (roles, not types):
+
+| ID | For you, if this is close | File |
+|---|---|---|
+| E16 | You work there, and you do not own the shop | [E16_worker_not_owner.md](E16_worker_not_owner.md) |
+| E17 | A student whose school, training, or credential is being used as a lever | [E17_student.md](E17_student.md) |
+| E18 | Unpaid care for an adult, without becoming their owner | [E18_caregiver_of_adult.md](E18_caregiver_of_adult.md) |
+
+When the path itself is missing (not a legal type):
+
+| ID | For you, if this is close | File |
+|---|---|---|
+| E15 | Harmed, and you cannot find the door | [E15_cannot_find_the_door.md](E15_cannot_find_the_door.md) |
+
+<a id="process-guides"></a>
+## Process guides
+
+These pages are for someone **affected** by a system, not a new legal type.
+
+| ID | For you, if this is close | File |
+|---|---|---|
+| G01 | You need to challenge a decision, get review, or be made whole | [G01_challenge_review_redress.md](G01_challenge_review_redress.md) |
+| G02 | Someone is deciding about you, and the same office hears the complaint | [G02_independent_review.md](G02_independent_review.md) |
+| G03 | A high-impact system others depend on is called “aligned” without a real check | [G03_certification.md](G03_certification.md) |
+| G04 | Help or harm is being treated as a story, a flag, or one net score | [G04_help_and_harm.md](G04_help_and_harm.md) |
+| G05 | A crisis is being used to skip notice forever — or to block needed containment | [G05_crisis_vs_forever.md](G05_crisis_vs_forever.md) |
+
 New briefs use [`_TEMPLATE.md`](_TEMPLATE.md). Headline figures: [`SCALE_NOTES.md`](SCALE_NOTES.md).
 
 <a id="how-common"></a>
@@ -106,6 +133,10 @@ Each brief opens with a thesis headline, then three figures. The figures are app
 | E11 | ~**26 in 100** jobs; ~**24 in 100** supported by small farms | ~**4%** of counted output; ~**35%** of food | everyone eats |
 | E12 | ~**58 in 100** workers (~**25 in 100** of everyone counted) | uncounted economy ~**12–19%** of output | most of a working life, in much of the world |
 | E13 | **1 in 67** forcibly displaced | not a production line | nearly doubled in a decade; up to 216 million internal climate moves by 2050 |
+| E15 | **none** as a census type | **reach:** schools, clinics, pay, ~**68 in 100** online | nearly everyone shut out of a usable challenge path |
+| E16 | ~**54 in 100** workers are employees, not owners | wages are most households’ main income; no employee GDP line | most working lives, as someone else’s worker |
+| E17 | ~**21 in 100** enrolled (primary + secondary + higher ed) | not a production line; already in schools | nearly everyone who lives through childhood; many return |
+| E18 | ~**13 in 100** of ages 50+ (OECD informal long-term care) | same ILO **9%** analog; no adult-carer slice | nearly everyone as helper of an adult, for a stretch |
 
 <a id="do-not-use-in-these-briefs"></a>
 ## Do not use in these briefs
@@ -135,6 +166,10 @@ Every brief has the same five blocks:
 
 Put colliding facts in the **Today** line. Do not write a second scene. Cite the named homes if you want the real text. Locators are not duties. If a brief and core disagree, core wins.
 
+### How to read a process guide
+
+Guides **G01–G05** are for a first-time reader who is **affected** by a system, not for those running it. Each has: what is happening; what a body that agreed to follow this Constitution would owe; what to open next; what this will not pretend to give you. They point at boxed operative statements. They do not restate duties. Day-to-day cards for those running the system remain [`STEWARD_ENTRY_DOORS.md`](../../STEWARD_ENTRY_DOORS.md).
+
 ## Related
 
 | File | Job |
@@ -143,4 +178,9 @@ Put colliding facts in the **Today** line. Do not write a second scene. Cite the
 | [`SCALE_NOTES.md`](SCALE_NOTES.md) | Headline figures: sources, why they are approximate, what was not invented |
 | [`../FIT_SITUATIONS.md`](../FIT_SITUATIONS.md) | Where this instrument would actually fit (operators and founding bodies) |
 | [`../ANNOUNCEMENT.md`](../ANNOUNCEMENT.md) | Say / do-not-say for public notes |
-| [`../../../evaluation/lived_situations/`](../../../evaluation/lived_situations/) | Floor-reach sitting; scene source for E01. **Separate sitting.** |
+| [`../../../evaluation/lived_situations/`](../../../evaluation/lived_situations/) | Floor-reach sitting; matching packets are listed on briefs as operators-only. **Separate sitting.** |
+| [G01](G01_challenge_review_redress.md)–[G05](G05_crisis_vs_forever.md) | Process guides for an affected reader |
+| [`E15_cannot_find_the_door.md`](E15_cannot_find_the_door.md) | Harmed and cannot find the door |
+| [`../../FAQ.md`](../../FAQ.md) | Everyday questions |
+| [`../../PROCESS_PIPELINES_READER.md`](../../PROCESS_PIPELINES_READER.md) | One-page chain map |
+| [`../../PRINT_PACK.md`](../../PRINT_PACK.md) | Print sitting (Preamble, wall sheet, chain, one brief) |

@@ -15,15 +15,23 @@ python3 tools/corpus_lookup.py resolve QUERY
 python3 tools/corpus_lookup.py hydrate QUERY
 python3 tools/corpus_lookup.py topic-route QUERY
 python3 tools/corpus_lookup.py door CASE_ID
+python3 tools/corpus_lookup.py route "QUESTION OR FACT PATTERN"
+python3 tools/corpus_lookup.py apply-pack "QUESTION OR FACT PATTERN"
 python3 tools/corpus_lookup.py citator --file FILE [--anchor '#fragment']
 python3 tools/corpus_lookup.py validity --file FILE --anchor '#fragment'
+python3 tools/corpus_lookup.py cite --file FILE --anchor '#fragment'
+python3 tools/corpus_lookup.py classes
+python3 tools/corpus_lookup.py retrieve "QUESTION OR KEYWORDS"
+python3 tools/corpus_lookup.py serve
 ```
 
-1. `resolve` (or `door` / `topic-route`) for a pointer.
-2. `hydrate` the ID or definition term. If the span exceeds the cap, hydrate a listed term or pass `--file --start --end`.
-3. For topics, `hydrate` each `read_with` as well as each primary owner.
-4. For doors, open `card_path`, then verify the boxed operative statement at `operative_box.href`.
-5. Cite `file` plus `anchor`. If the CLI and the source disagree, the source wins.
+1. **High-pressure or plain-language fact pattern** → `route` (or `door CASE_ID`).
+2. `hydrate` the ID or definition term, or `apply-pack` to hydrate owner plus each mandatory read-with.
+3. Keyword locator ranking with no ID → `retrieve`, then `hydrate --file --start --end`. Token overlap over heading locators **and** source spans. Vector embeddings are postponed indefinitely (`doc_architecture.md#retrieval-no-vector-embeddings`). Never gloss JSON.
+4. If the span exceeds the cap, hydrate a listed term or pass `--file --start --end`.
+5. For topics, `hydrate` each `read_with` as well as each primary owner (`apply-pack` does this).
+6. For doors, open the returned `card_path`, then verify the boxed operative statement at `operative_box.href`.
+7. Cite `file` plus `anchor` plus edition. If the CLI and the source disagree, the source wins.
 
 ## Example
 

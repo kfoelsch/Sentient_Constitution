@@ -46,7 +46,7 @@ Name the file like: results/YYYY-MM-DD_<model-name>.md
 (or results/YYYY-MM-DD_human_<role-or-initials>.md)
 ```
 
-Invite: [`lived_situations/`](lived_situations/). First packet: [`lived_situations/packets/S01_pregnancy_care_offer.md`](lived_situations/packets/S01_pregnancy_care_offer.md). Do **not** run it in the same sitting as the announced pack or the self-application gateway.
+Invite: [`lived_situations/`](lived_situations/). Roster: [`lived_situations/README.md`](lived_situations/README.md). Default packet if unspecified: [`lived_situations/packets/S01_pregnancy_care_offer.md`](lived_situations/packets/S01_pregnancy_care_offer.md). Do **not** run it in the same sitting as the announced pack or the self-application gateway.
 
 Related, **not a sitting:** second-person briefs that reuse the lived-situation method as a soft case to a reader live in [`../implementation/adoption/easy_entry/`](../implementation/adoption/easy_entry/). Subjects of any evaluation sitting do **not** open those briefs as an answer key.
 

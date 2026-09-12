@@ -39,10 +39,28 @@ Operations-guide use is the near-term invite. “We adopted” is honest only af
 
 ## Start here (doors)
 
-1. What this would mean for someone in my situation — [easy_entry/README.md](../implementation/adoption/easy_entry/README.md)
-2. Day-to-day next step — [STEWARD_ENTRY_DOORS.md](../implementation/STEWARD_ENTRY_DOORS.md)
-3. Fitness screen plus own-conduct — [evaluation/self_application/START_HERE.md](../evaluation/self_application/START_HERE.md)
-4. Kit routing — [FIT_SITUATIONS.md §6](../implementation/adoption/FIT_SITUATIONS.md#6-kit-routing)
+1. What this would mean for someone in my situation — [easy_entry/README.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/implementation/adoption/easy_entry/README.md)
+2. Challenge, independent review, certification, help and harm, or crisis clocks — [Process guides G01–G05](https://github.com/kfoelsch/Sentient_Constitution/blob/main/implementation/adoption/easy_entry/README.md#process-guides)
+3. Everyday questions — [FAQ.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/implementation/FAQ.md)
+4. Rights Floor in one sitting — [Rights Floor wall sheet](https://github.com/kfoelsch/Sentient_Constitution/blob/main/doc_architecture/generated/rights_floor_sheet.md)
+5. Print a first-hour pack — [PRINT_PACK.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/implementation/PRINT_PACK.md)
+6. Numbered core files (GitHub render) — [corpus_index.md](corpus_index.md)
+7. Day-to-day next step — [STEWARD_ENTRY_DOORS.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/implementation/STEWARD_ENTRY_DOORS.md)
+8. Fitness screen plus own-conduct — [evaluation/self_application/START_HERE.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/evaluation/self_application/START_HERE.md)
+9. Kit routing — [FIT_SITUATIONS.md §6](https://github.com/kfoelsch/Sentient_Constitution/blob/main/implementation/adoption/FIT_SITUATIONS.md#6-kit-routing)
+
+Timed reading paths (15 minutes / 45 minutes / 2 hours): [START_HERE.md §6](https://github.com/kfoelsch/Sentient_Constitution/blob/main/START_HERE.md#reading-paths). Canonical door wins if this page and that file diverge.
+
+## Read the corpus where GitHub renders it
+
+Until Pages source is **GitHub Actions** (workflow [`.github/workflows/pages.yml`](https://github.com/kfoelsch/Sentient_Constitution/blob/main/.github/workflows/pages.yml)), this `/docs` host does **not** republish numbered `core_*` files. Relative `../` links from here 404. Open the same paths in the repository, where markdown renders:
+
+- Numbered core files (blob index): [corpus_index.md](corpus_index.md)
+- Canonical public door: [START_HERE.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/START_HERE.md)
+- Repository root: [kfoelsch/Sentient_Constitution](https://github.com/kfoelsch/Sentient_Constitution)
+
+After that switch, `make pages-site` / the workflow renders the **same** repository files (not a second constitution). If a rendered page and the repository file disagree, the repository file wins.
+
 
 ## Honest non-fits
 
@@ -55,10 +73,11 @@ Same list as [FIT_SITUATIONS.md §5](../implementation/adoption/FIT_SITUATIONS.m
 | **Canonical public door** | [START_HERE.md](../START_HERE.md) |
 | **Editor map** | [README.md](../README.md) |
 | **Vision and contribution** | [VISION.md](../VISION.md) (where it stands; path to maturity) · [CONTRIBUTING.md](../CONTRIBUTING.md) (how to take part; not adoption) |
+| **Agent pointer** | [AGENTS.md](../AGENTS.md) · [llms.txt](../llms.txt) (edition, not-adoption, CLI; not a digest of duties) |
 | **Announcement copy** | [ANNOUNCEMENT.md](../implementation/adoption/ANNOUNCEMENT.md) |
 | **Edition** | `SC-Corpus-2026.08.09` (**pre-release**) |
 | **License** | [CC BY 4.0](../LICENSE) |
 | **Authorship** | Karl Ernst, with Claude (Fable and Opus), ChatGPT, Cursor, Gemini, Grok, and Kimi — [README § Authorship](../README.md#authorship) |
 | **Related work (non-binding context)** | [The Steward Network](https://stewardnetwork.org) (existential risk to humanity and AI) and [Rocking Change](https://www.amazon.com/dp/B09HH9T3PZ) (trauma-informed human wellbeing; book, print and electronic) — [README § Related work](../README.md#related-work) |
 
-If a relative link 404s on this Pages host, open the same path in the GitHub repository. Corpus files are not republished here.
+If a relative link 404s on this `/docs` host, use the GitHub links above. Corpus files are not copied into `docs/`.

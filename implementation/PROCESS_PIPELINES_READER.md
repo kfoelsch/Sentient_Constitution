@@ -11,10 +11,21 @@ Open these first. They point; they do not replace the numbered `core_*` files.
 - [README.md](../README.md) — how to read the instrument, and common lookups
 - [Preamble §5 Key Practical Process Pipelines](../core_00_preamble.md#5-key-practical-process-pipelines) — what each chapter in this chain owns and produces
 - [Steward entry doors](STEWARD_ENTRY_DOORS.md) — next-step pointers under time pressure (process support; cannot narrow core)
+- [Affected-reader process guides](adoption/easy_entry/README.md#process-guides) — challenge, independent review, certification, help and harm, crisis clocks
 
 ## The chain
 
 Think of a path from system check to remedy. **Forums supervise throughout.** They do not replace standing measurement. A filed case is not standing by itself.
+
+```mermaid
+flowchart LR
+  C[Certify the system<br/>Chapter Seven] --> S[Measure help and harm<br/>two tracks, never one net score<br/>Chapter Eight]
+  S --> E[Effects and remedy<br/>Chapter Nine]
+  E --> F[Forum families<br/>Chapter Eleven]
+  F -.-> C
+```
+
+*Caption: forums supervise the chain; a filed case is not standing by itself.*
 
 1. **Certify the system** — [Chapter Seven](../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)  
    Before a high-impact system is trusted at scale, forums review evidence and write a time-bound, challengeable **system alignment certification record**: is it constitutionally safe to rely on *right now*? Certification is not standing. Certification is not a sentience-status decision (that floor lives in [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor)). A certification record may later supply verified facts to Chapter Eight; it does not assign standing effects.

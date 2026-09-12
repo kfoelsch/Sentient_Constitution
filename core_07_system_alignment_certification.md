@@ -20,6 +20,8 @@
 
 <br>
 
+*In plain terms: Chapter Seven is split in two — Part A for how to evaluate, Part B for the record and process. Read them as one chapter.*
+
 Read **Part A** first for evaluation requirements; **Part B** for record, forum process, and standing bridge.
 Under the **oversight** Tetrad leg, oversight requires auditing; Chapter Seven is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes). Auditing floors remain at **Article XV** and Chapter Five [Auditability](core_05_band_oversight.md#auditability).
 - [Chapter Seven, Part A — Evaluation](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)

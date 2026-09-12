@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-10T17:15:56+00:00",
+  "generated_at": "2026-09-12T13:36:38+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 14296,
+  "edge_count": 14325,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -625,7 +625,7 @@
     {
       "source_file": "core_00_preamble.md",
       "source_header": "1. The Model",
-      "source_anchor": "#the-model",
+      "source_anchor": null,
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability",
       "count": 1
@@ -633,7 +633,7 @@
     {
       "source_file": "core_00_preamble.md",
       "source_header": "1. The Model",
-      "source_anchor": "#the-model",
+      "source_anchor": null,
       "target_file": "core_05_apex_continuity_aim.md",
       "target_anchor": "#continuity-aim-constitutional",
       "count": 1
@@ -641,7 +641,7 @@
     {
       "source_file": "core_00_preamble.md",
       "source_header": "1. The Model",
-      "source_anchor": "#the-model",
+      "source_anchor": null,
       "target_file": "core_05_apex_flourishing_aim.md",
       "target_anchor": "#flourishing-constitutional",
       "count": 1
@@ -649,7 +649,7 @@
     {
       "source_file": "core_00_preamble.md",
       "source_header": "1. The Model",
-      "source_anchor": "#the-model",
+      "source_anchor": null,
       "target_file": "core_05_apex_oversight_leg.md",
       "target_anchor": "#oversight-constitutional",
       "count": 1
@@ -657,7 +657,7 @@
     {
       "source_file": "core_00_preamble.md",
       "source_header": "1. The Model",
-      "source_anchor": "#the-model",
+      "source_anchor": null,
       "target_file": "core_05_apex_participation_leg.md",
       "target_anchor": "#participation-constitutional",
       "count": 1
@@ -665,7 +665,7 @@
     {
       "source_file": "core_00_preamble.md",
       "source_header": "1. The Model",
-      "source_anchor": "#the-model",
+      "source_anchor": null,
       "target_file": "core_05_apex_timeliness_leg.md",
       "target_anchor": "#timeliness-constitutional",
       "count": 1
@@ -15736,302 +15736,6 @@
     },
     {
       "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_04_burden_traceability_verification.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability-measurement-family",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_apex_continuity_aim.md",
-      "target_anchor": "#continuity-measurement-family",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_apex_continuity_aim.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_apex_continuity_aim.md",
-      "target_anchor": "#continuity-aim-decomposition",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_apex_flourishing_aim.md",
-      "target_anchor": "#flourishing-measurement-family",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_apex_flourishing_aim.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_apex_flourishing_aim.md",
-      "target_anchor": "#flourishing-aim-decomposition",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_apex_oversight_leg.md",
-      "target_anchor": "#oversight-measurement-family",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_apex_oversight_leg.md",
-      "target_anchor": "#oversight-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_apex_participation_leg.md",
-      "target_anchor": "#participation-measurement-family",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_apex_timeliness_leg.md",
-      "target_anchor": "#timeliness-measurement-family",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_apex_timeliness_leg.md",
-      "target_anchor": "#timeliness-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": null,
-      "count": 3
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#harm",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#timely-resolution-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#capture-of-resolution-pathways",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": null,
-      "count": 5
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#wellbeing",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#safety-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#ecological-footprint",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#dependency",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#reversibility-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#sustainability",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#proportionate-cross-system-support-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#privacy-informational-cluster",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#trustworthiness",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#trust-degradation-and-misleading-reliance",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_integrative.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_integrative.md",
-      "target_anchor": "#incentive-alignment-semi-independent",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#materiality-determination",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": null,
-      "count": 2
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_performance.md",
-      "target_anchor": "#performance-measurement-family",
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
-      "source_header": "Measurement crosswalk (reader guidance)",
-      "source_anchor": "#chapter-five-measurement-crosswalk",
-      "target_file": "core_05_band_performance.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_05__definitions_home.md",
       "source_header": "Clusters A-Z",
       "source_anchor": "#clusters-a-z",
       "target_file": "core_05_band_accountability.md",
@@ -17940,6 +17644,302 @@
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#volitional-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_04_burden_traceability_verification.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#continuity-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#continuity-aim-decomposition",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_flourishing_aim.md",
+      "target_anchor": "#flourishing-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_flourishing_aim.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_flourishing_aim.md",
+      "target_anchor": "#flourishing-aim-decomposition",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_oversight_leg.md",
+      "target_anchor": "#oversight-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_oversight_leg.md",
+      "target_anchor": "#oversight-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_participation_leg.md",
+      "target_anchor": "#participation-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_timeliness_leg.md",
+      "target_anchor": "#timeliness-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_timeliness_leg.md",
+      "target_anchor": "#timeliness-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": null,
+      "count": 3
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#harm",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#timely-resolution-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#capture-of-resolution-pathways",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": null,
+      "count": 5
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#wellbeing",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safety-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-footprint",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#reversibility-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#sustainability",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#proportionate-cross-system-support-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#privacy-informational-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#trustworthiness",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#trust-degradation-and-misleading-reliance",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#incentive-alignment-semi-independent",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-determination",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": null,
+      "count": 2
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_performance.md",
+      "target_anchor": "#performance-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Measurement crosswalk (reader guidance)",
+      "source_anchor": null,
+      "target_file": "core_05_band_performance.md",
+      "target_anchor": null,
       "count": 1
     },
     {
@@ -44938,6 +44938,14 @@
       "source_file": "core_05_band_participation.md",
       "source_header": "Refuge from Non-Compliance",
       "source_anchor": "#refuge-from-non-compliance-constitutional",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#xix-d-climate-unlivability-refuge-adopter-decided",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Refuge from Non-Compliance",
+      "source_anchor": "#refuge-from-non-compliance-constitutional",
       "target_file": "core_07_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
       "count": 1
@@ -50224,6 +50232,14 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_anchor": "#anti-substitution-sentience-status",
+      "target_file": "core_12_governance.md",
+      "target_anchor": "#41-entitlement-and-eligibility",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
       "source_header": "Article IX-A: Agency and Freedom from Manipulation",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
@@ -50672,6 +50688,14 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-C: Governance Participation and Voting Entitlement",
+      "source_anchor": null,
+      "target_file": "core_12_governance.md",
+      "target_anchor": "#41-entitlement-and-eligibility",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
       "source_header": "Article IX-D: Inclusion and Exclusion Challenge Rights",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
@@ -50964,6 +50988,14 @@
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#5-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-A: Dignity and Equal Moral Standing",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#7-prohibition-on-absolute-override",
       "count": 1
     },
     {
@@ -51754,6 +51786,14 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article V-G: Accessibility",
       "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "count": 4
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-G: Accessibility",
+      "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#accessibility-constitutional",
       "count": 2
@@ -52012,6 +52052,30 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#consent-sexual",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V: Equal Basic Rights",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#21-fairness",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V: Equal Basic Rights",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V: Equal Basic Rights",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#2-foundational-objective-wellbeing",
       "count": 1
     },
     {
@@ -55048,6 +55112,14 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI-B: Weighted Participation Constraints",
+      "source_anchor": null,
+      "target_file": "core_12_governance.md",
+      "target_anchor": "#41-entitlement-and-eligibility",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
       "source_header": "Article XI-C: Legitimacy Gate and Anti-Token Participation",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
@@ -55458,6 +55530,30 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article XI: Stakeholder System Participation, Representation, and Due Process",
       "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI: Stakeholder System Participation, Representation, and Due Process",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#81-constitutional-no-bypass-principle",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI: Stakeholder System Participation, Representation, and Due Process",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#10-governance-under-stewardship-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI: Stakeholder System Participation, Representation, and Due Process",
+      "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#governance",
       "count": 3
@@ -55668,6 +55764,14 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#procedural-fairness-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI: Stakeholder System Participation, Representation, and Due Process",
+      "source_anchor": null,
+      "target_file": "core_12_governance.md",
+      "target_anchor": "#41-entitlement-and-eligibility",
       "count": 1
     },
     {
@@ -56098,6 +56202,30 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
       "source_anchor": "#article-xix-interoperability-portability-and-exit-integrity",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xix-interoperability-portability-and-exit-integrity",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#51-limitation-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xix-interoperability-portability-and-exit-integrity",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#13-market-structure",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xix-interoperability-portability-and-exit-integrity",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#meaningful-agency-o",
       "count": 1
@@ -56504,6 +56632,14 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_12_governance.md",
+      "target_anchor": "#41-entitlement-and-eligibility",
+      "count": 4
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XVIII-D: Movement, Migration, Refuge, and Non-Statelessness Routing",
       "source_anchor": "#article-xviii-d-movement-migration-and-refuge",
       "target_file": "core_01_b_interaction_interpretation.md",
@@ -56556,6 +56692,30 @@
       "source_anchor": "#article-xviii-standing-and-participation-status",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII: Standing and Participation Status",
+      "source_anchor": "#article-xviii-standing-and-participation-status",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII: Standing and Participation Status",
+      "source_anchor": "#article-xviii-standing-and-participation-status",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#81-constitutional-no-bypass-principle",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII: Standing and Participation Status",
+      "source_anchor": "#article-xviii-standing-and-participation-status",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#8-constitutional-interpretation",
       "count": 1
     },
     {
@@ -56748,6 +56908,14 @@
       "source_anchor": "#article-xviii-standing-and-participation-status",
       "target_file": "core_09_standing_integration.md",
       "target_anchor": "#chapter-nine-standing-effects-and-integration",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII: Standing and Participation Status",
+      "source_anchor": "#article-xviii-standing-and-participation-status",
+      "target_file": "core_12_governance.md",
+      "target_anchor": "#41-entitlement-and-eligibility",
       "count": 1
     },
     {
@@ -58602,6 +58770,14 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XIII-B: Use of Force, Armed Conflict, and Military-Power Limits",
       "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#7-prohibition-on-absolute-override",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Use of Force, Armed Conflict, and Military-Power Limits",
+      "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#irreversible-deprivation-measure-constitutional",
       "count": 2
@@ -58716,6 +58892,14 @@
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#611-necessity",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-C: Autonomous Lethal Systems and Autonomous Coercion Tools",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#7-prohibition-on-absolute-override",
       "count": 1
     },
     {
@@ -62450,6 +62634,14 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XXII-A: Bounded Interpretive Mandate",
       "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#7-prohibition-on-absolute-override",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXII-A: Bounded Interpretive Mandate",
+      "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#15-integrated-application",
       "count": 1
@@ -63779,6 +63971,14 @@
       "source_header": "Article XXVI-B: Transitional Authority Limits and Reauthorization",
       "source_anchor": "#incentive-alignment-transition-carve-out",
       "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#7-prohibition-on-absolute-override",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXVI-B: Transitional Authority Limits and Reauthorization",
+      "source_anchor": "#incentive-alignment-transition-carve-out",
+      "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
       "count": 1
     },
@@ -64100,6 +64300,14 @@
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#615-rights-collision-decision-test",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIII-C: Least-Restrictive and Time-Bounded Rule",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#7-prohibition-on-absolute-override",
       "count": 1
     },
     {
@@ -64515,6 +64723,14 @@
       "source_header": "Article XXIV-B: Rights-Collision Procedure and Restorative Alignment",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#7-prohibition-on-absolute-override",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-B: Rights-Collision Procedure and Restorative Alignment",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
       "count": 1
     },
@@ -64626,6 +64842,14 @@
       "source_file": "core_06_rights_part_d.md",
       "source_header": "Article XXV-A: Non-Entrenchment and Revisability",
       "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#7-prohibition-on-absolute-override",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXV-A: Non-Entrenchment and Revisability",
+      "source_anchor": null,
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability",
       "count": 2
@@ -64716,6 +64940,14 @@
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#32-truth-epistemic-integrity-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXV-B: Periodic Revalidation and Transparent Change",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#7-prohibition-on-absolute-override",
       "count": 1
     },
     {

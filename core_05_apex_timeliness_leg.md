@@ -24,6 +24,8 @@
 
 ---
 
+*In plain terms: move problems through detection, challenge, resolution, and repair in time — published clocks that leave harm compounding are not timeliness.*
+
 - O: Move problems through detection, challenge, resolution, and repair in time — the Tetrad leg this entry names.
   - **In scope:** Principle-layer responsiveness duty scaling with [material stake](../core_00_preamble.md#material-stake) across detection, contestability, resolution, remediation, and stewardship correction in the constitutional coordination lifecycle.
   - **Depends on:** [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional), [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways), [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), and [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) — the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#timeliness-tetrad-leg-decomposition).
@@ -42,6 +44,8 @@
 
 ### Tetrad Leg decomposition
 
+*In plain terms: this map lists the Timeliness leaves; they inherit this leg's scope unless they say otherwise.*
+
 Leaf definitions under this leg inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 
 **Timeliness measurement family leaves** — operative measurement tiers:
@@ -58,6 +62,8 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 <a id="timeliness-measurement-family"></a>
 
 ### Measuring Timeliness (Preamble measurement family)
+
+*In plain terms: these questions ask whether problems actually move in time — not whether a dashboard shows throughput.*
 
 *Chapter Five home for the Timeliness measurement family. Preamble §2 keeps the plain-language category question in the overview table; the family table, constitutional use, and definition routing live here.*
 

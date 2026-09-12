@@ -45,6 +45,8 @@
 
 ### Constitutional Aim decomposition
 
+*In plain terms: this map lists Continuity's building blocks — stability, sustainability, ecological wellbeing, dependency, and cross-system support — and where each leaf lives.*
+
 Definitions under this aim inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 
 **Main building blocks** (named in [Preamble §1](../core_00_preamble.md#continuity) — long-horizon stability, sustainability, resilience, and ecological wellbeing) — where each term lives, and which cluster to read when several apply together:
@@ -77,6 +79,8 @@ Definitions under this aim inherit its scope unless they expressly narrow or wid
 </details>
 
 <br>
+
+*In plain terms: these questions ask whether sentients and the living systems they depend on can endure — ecologically, dependably, and across failure.*
 
 *Chapter Five home for the Continuity measurement family. Preamble §2 keeps the plain-language category question; the family table and definition routing live here.*
 

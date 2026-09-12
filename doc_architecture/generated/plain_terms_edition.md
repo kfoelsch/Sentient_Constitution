@@ -6,39 +6,39 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fourteen](../../core_14_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **528** of **836** headings carry a gloss (63%).
+Coverage: **581** of **836** headings carry a gloss (69%).
 
 ## Contents
 
-- [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (0/11 glossed)
+- [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (11/11 glossed)
 - [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (15/32 glossed)
-- [CHAPTER 01, PART B: INTERACTION AND INTERPRETATION](#chapter-01-part-b-interaction-and-interpretation) — `core_01_b_interaction_interpretation.md` (16/24 glossed)
+- [CHAPTER 01, PART B: INTERACTION AND INTERPRETATION](#chapter-01-part-b-interaction-and-interpretation) — `core_01_b_interaction_interpretation.md` (17/24 glossed)
 - [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (29/37 glossed)
 - [CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS](#chapter-two-definition-structure-and-component-requirements) — `core_02_definition_structure.md` (8/12 glossed)
 - [CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE](#chapter-three-definition-integrity-evasion-and-non-compliance) — `core_03_definition_integrity.md` (5/11 glossed)
 - [CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION](#chapter-four-burden-of-proof-traceability-and-verification) — `core_04_burden_traceability_verification.md` (7/7 glossed)
-- [CHAPTER FIVE: FOUNDATIONAL DEFINITIONS](#chapter-five-foundational-definitions) — `core_05__definitions_home.md` (2/9 glossed)
-- [CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)](#chapter-five-definitions-accountability-tetrad-leg) — `core_05_apex_accountability_leg.md` (0/3 glossed)
-- [CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)](#chapter-five-definitions-continuity-constitutional-aim) — `core_05_apex_continuity_aim.md` (1/3 glossed)
-- [CHAPTER FIVE DEFINITIONS: FLOURISHING](#chapter-five-definitions-flourishing) — `core_05_apex_flourishing_aim.md` (0/3 glossed)
-- [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05_apex_oversight_leg.md` (0/3 glossed)
-- [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (0/3 glossed)
-- [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (0/3 glossed)
+- [CHAPTER FIVE: FOUNDATIONAL DEFINITIONS](#chapter-five-foundational-definitions) — `core_05__definitions_home.md` (7/9 glossed)
+- [CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)](#chapter-five-definitions-accountability-tetrad-leg) — `core_05_apex_accountability_leg.md` (3/3 glossed)
+- [CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)](#chapter-five-definitions-continuity-constitutional-aim) — `core_05_apex_continuity_aim.md` (3/3 glossed)
+- [CHAPTER FIVE DEFINITIONS: FLOURISHING](#chapter-five-definitions-flourishing) — `core_05_apex_flourishing_aim.md` (3/3 glossed)
+- [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05_apex_oversight_leg.md` (3/3 glossed)
+- [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/3 glossed)
+- [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (65/77 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (22/82 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (12/17 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (26/36 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (51/66 glossed)
-- [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (0/2 glossed)
+- [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-seven-part-a-system-alignment-certification--evaluation) — `core_07_a_system_alignment_certification_evaluation.md` (21/28 glossed)
 - [CHAPTER SEVEN, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-seven-part-b-system-alignment-certification--record-and-process) — `core_07_b_system_alignment_certification_record_process.md` (10/13 glossed)
-- [CHAPTER SEVEN: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)](#chapter-seven-system-alignment-certification-reading-index) — `core_07_system_alignment_certification.md` (0/1 glossed)
-- [CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-eight-contribution-violation-and-standing-model--measurement) — `core_08_standing_assessment.md` (12/33 glossed)
-- [CHAPTER NINE: STANDING EFFECTS AND INTEGRATION](#chapter-nine-standing-effects-and-integration) — `core_09_standing_integration.md` (13/43 glossed)
+- [CHAPTER SEVEN: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)](#chapter-seven-system-alignment-certification-reading-index) — `core_07_system_alignment_certification.md` (1/1 glossed)
+- [CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-eight-contribution-violation-and-standing-model--measurement) — `core_08_standing_assessment.md` (13/33 glossed)
+- [CHAPTER NINE: STANDING EFFECTS AND INTEGRATION](#chapter-nine-standing-effects-and-integration) — `core_09_standing_integration.md` (19/43 glossed)
 - [CHAPTER TEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION](#chapter-ten-part-a-anti-constitutional-misconduct--designation) — `core_10_a_misconduct_designation.md` (8/8 glossed)
 - [CHAPTER TEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-ten-part-b-anti-constitutional-misconduct--pattern-applications) — `core_10_b_misconduct_pattern_applications.md` (12/14 glossed)
 - [CHAPTER ELEVEN: FORUMS AND JURISDICTION](#chapter-eleven-forums-and-jurisdiction) — `core_11_forum.md` (8/27 glossed)
-- [CHAPTERS EIGHT–ELEVEN: PIPELINE APPLICATION VIGNETTES](#chapters-eighteleven-pipeline-application-vignettes) — `core_08-11_application_vignettes.md` (0/35 glossed)
+- [CHAPTERS EIGHT–ELEVEN: PIPELINE APPLICATION VIGNETTES](#chapters-eighteleven-pipeline-application-vignettes) — `core_08-11_application_vignettes.md` (9/35 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (21/24 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (41/42 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (51/52 glossed)
@@ -51,65 +51,65 @@ Coverage: **528** of **836** headings carry a gloss (63%).
 
 ## PREAMBLE / FOUNDATIONAL REQUIREMENTS
 
-Source file: [`core_00_preamble.md`](../../core_00_preamble.md) · 0/11 headings glossed
+Source file: [`core_00_preamble.md`](../../core_00_preamble.md) · 11/11 headings glossed
 
 #### 1. The Model
 
-*(no plain-terms gloss in source)*
+four duties — participation, oversight, accountability, and timeliness — scale with how much impact, dependence, and risk are on the line, and they serve two aims together: Flourishing and Continuity, inside a Rights Floor that does not move.
 
 [Source](../../core_00_preamble.md#1-the-model)
 
 #### 2. Measurements Overview
 
-*(no plain-terms gloss in source)*
+you cannot run shared systems on guesswork or vanity metrics; measure whether sentients actually flourish and endure, with review that scales to how much impact, dependence, and risk are on the line.
 
 [Source](../../core_00_preamble.md#2-the-measurements)
 
 #### 3. Governance and Stewardship
 
-*(no plain-terms gloss in source)*
+legitimacy needs Safety, Truth, and Trust, plus real chances to learn the systems that affect you and to take consequential roles in keeping them working.
 
 [Source](../../core_00_preamble.md#3-governance-and-stewardship)
 
 ##### 3.1 Using Measurements in Governance
 
-*(no plain-terms gloss in source)*
+name the problem and the stake first, pick the matching measurement category, and use shared technical standards — not convenience numbers — as evidence.
 
 [Source](../../core_00_preamble.md#31-using-measurements-in-governance)
 
 ##### 3.2 Key Governance Processes
 
-*(no plain-terms gloss in source)*
+when the text requires it, material issues go through certification, written records of help and harm, correction and remedy, and forum review with clocks — those paths test authorized governance; they do not create it by themselves.
 
 [Source](../../core_00_preamble.md#32-key-governance-processes)
 
 ##### 3.3 Governance Layers
 
-*(no plain-terms gloss in source)*
+who may govern is a different question from voice inside a system that is already authorized; a participation vote or a trust score is not authorization.
 
 [Source](../../core_00_preamble.md#33-governance-layers)
 
 #### 4. Principles, Definitions, and Rights
 
-*(no plain-terms gloss in source)*
+Chapters One through Six own values, how words are built and checked, the dictionary, and the Rights Floor; later chapters must respect those homes, not quietly move them.
 
 [Source](../../core_00_preamble.md#4-principles-definitions-and-rights)
 
 #### 5. Key Practical Process Pipelines
 
-*(no plain-terms gloss in source)*
+Chapters Seven through Eleven are one chain — certify the system, measure help and harm on two separate tracks, apply real effects and remedy, and keep forums from being the sole final home for a claim against themselves — so duties stay real in daily life.
 
 [Source](../../core_00_preamble.md#5-key-practical-process-pipelines)
 
 #### 6. Governance, Change, and Incorporation
 
-*(no plain-terms gloss in source)*
+Chapters Twelve through Sixteen close the instrument: who may govern, how the text may change without rolling back protections, how it relates to other law, and how adopted how-to files stay bound to this source.
 
 [Source](../../core_00_preamble.md#6-governance-change-and-incorporation)
 
 #### 7. Companion Implementation Corpus
 
-*(no plain-terms gloss in source)*
+four companion corpora (joint structure, systems, institutions, and forum operations) spell out how to carry out what the chapters already require; they bind when validly adopted, and they may not shrink those duties.
 
 [Source](../../core_00_preamble.md#7-companion-implementation-corpus)
 
@@ -305,7 +305,7 @@ you cannot chop assembly, union-style organizing, platform access, or permission
 
 ## CHAPTER 01, PART B: INTERACTION AND INTERPRETATION
 
-Source file: [`core_01_b_interaction_interpretation.md`](../../core_01_b_interaction_interpretation.md) · 16/24 headings glossed
+Source file: [`core_01_b_interaction_interpretation.md`](../../core_01_b_interaction_interpretation.md) · 17/24 headings glossed
 
 #### 6. Process Conflict Resolution
 
@@ -417,7 +417,7 @@ read this Constitution as one whole. Chapter One states values and limits, but t
 
 ##### 8.4 Constitutional Meaning Conflict Resolution
 
-*(no plain-terms gloss in source)*
+when texts conflict, apply this order — Constitution and non-regression first, then integrated reading of the binding source, then incorporated obligations together. Do not skip a layer to get a preferred result.
 
 [Source](../../core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution)
 
@@ -841,7 +841,7 @@ Chapters Two through Four set the rules every compliance claim must meet — wha
 
 ## CHAPTER FIVE: FOUNDATIONAL DEFINITIONS
 
-Source file: [`core_05__definitions_home.md`](../../core_05__definitions_home.md) · 2/9 headings glossed
+Source file: [`core_05__definitions_home.md`](../../core_05__definitions_home.md) · 7/9 headings glossed
 
 #### Canonical home and non-duplication rule
 
@@ -851,7 +851,7 @@ every defined term has one official home. That home decides what the term means.
 
 #### 1. Independent Definitions
 
-*(no plain-terms gloss in source)*
+independent definitions are reusable building blocks. When they apply, they must be met in full — no picking the convenient pieces.
 
 [Source](../../core_05__definitions_home.md#1-interdependent-definitions)
 
@@ -875,115 +875,115 @@ cluster members must be read and satisfied together — no member is a standalon
 
 #### Chapter Five alphabetical directory (non-operative)
 
-*(no plain-terms gloss in source)*
+this is a searchable list of definition names. It points; it does not change what those names mean.
 
 [Source](../../core_05__definitions_home.md#chapter-five-alphabetical-directory)
 
 #### Chapter Five compass and definition map
 
-*(no plain-terms gloss in source)*
+Chapter Five is sorted by the two aims and the four Tetrad legs; this table says which file holds which cluster range.
 
 [Source](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map)
 
 #### Measurement crosswalk (reader guidance)
 
-*(no plain-terms gloss in source)*
+Preamble §2 asks seven category questions; this table maps each question to the Chapter Five homes that answer it.
 
 [Source](../../core_05__definitions_home.md#measurement-crosswalk-reader-guidance)
 
 ## CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)
 
-Source file: [`core_05_apex_accountability_leg.md`](../../core_05_apex_accountability_leg.md) · 0/3 headings glossed
+Source file: [`core_05_apex_accountability_leg.md`](../../core_05_apex_accountability_leg.md) · 3/3 headings glossed
 
 #### Tetrad Leg decomposition
 
-*(no plain-terms gloss in source)*
+this map lists the Accountability clusters and sibling homes; leaf definitions inherit this leg's scope unless they say otherwise.
 
 [Source](../../core_05_apex_accountability_leg.md#accountability-tetrad-leg-decomposition)
 
 #### Measuring Accountability (Preamble measurement family)
 
-*(no plain-terms gloss in source)*
+these questions ask whether rewards, markets, and answerability keep accountability real in practice — not merely present on paper.
 
 [Source](../../core_05_apex_accountability_leg.md#accountability-measurement-family)
 
 ## CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)
 
-Source file: [`core_05_apex_continuity_aim.md`](../../core_05_apex_continuity_aim.md) · 1/3 headings glossed
+Source file: [`core_05_apex_continuity_aim.md`](../../core_05_apex_continuity_aim.md) · 3/3 headings glossed
 
 #### Constitutional Aim decomposition
 
-*(no plain-terms gloss in source)*
+this map lists Continuity's building blocks — stability, sustainability, ecological wellbeing, dependency, and cross-system support — and where each leaf lives.
 
 [Source](../../core_05_apex_continuity_aim.md#continuity-aim-decomposition)
 
 #### Measuring Continuity (Preamble measurement family)
 
-*(no plain-terms gloss in source)*
+these questions ask whether sentients and the living systems they depend on can endure — ecologically, dependably, and across failure.
 
 [Source](../../core_05_apex_continuity_aim.md#continuity-measurement-family)
 
 ## CHAPTER FIVE DEFINITIONS: FLOURISHING
 
-Source file: [`core_05_apex_flourishing_aim.md`](../../core_05_apex_flourishing_aim.md) · 0/3 headings glossed
+Source file: [`core_05_apex_flourishing_aim.md`](../../core_05_apex_flourishing_aim.md) · 3/3 headings glossed
 
 #### Constitutional Aim decomposition
 
-*(no plain-terms gloss in source)*
+this map lists Flourishing's building blocks — truth, safety, trustworthiness, and meaningful agency — and where each leaf lives.
 
 [Source](../../core_05_apex_flourishing_aim.md#flourishing-aim-decomposition)
 
 #### Measuring Flourishing (Preamble measurement family)
 
-*(no plain-terms gloss in source)*
+these questions ask whether sentients are actually sustained in wellbeing, safety, and agency — not proxy engagement or throughput.
 
 [Source](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family)
 
 ## CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)
 
-Source file: [`core_05_apex_oversight_leg.md`](../../core_05_apex_oversight_leg.md) · 0/3 headings glossed
+Source file: [`core_05_apex_oversight_leg.md`](../../core_05_apex_oversight_leg.md) · 3/3 headings glossed
 
 #### Tetrad Leg decomposition
 
-*(no plain-terms gloss in source)*
+this map lists the Oversight clusters and topic groups; leaf definitions inherit this leg's scope unless they say otherwise.
 
 [Source](../../core_05_apex_oversight_leg.md#oversight-tetrad-leg-decomposition)
 
 #### Measuring Oversight (Preamble measurement family)
 
-*(no plain-terms gloss in source)*
+these questions ask whether sentients can see, verify, and rely on what high-impact systems represent.
 
 [Source](../../core_05_apex_oversight_leg.md#threshold-scaling-measurement-family)
 
 ## CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)
 
-Source file: [`core_05_apex_participation_leg.md`](../../core_05_apex_participation_leg.md) · 0/3 headings glossed
+Source file: [`core_05_apex_participation_leg.md`](../../core_05_apex_participation_leg.md) · 3/3 headings glossed
 
 #### Tetrad Leg decomposition
 
-*(no plain-terms gloss in source)*
+this map lists the Participation clusters; leaf definitions inherit this leg's scope unless they say otherwise.
 
 [Source](../../core_05_apex_participation_leg.md#participation-tetrad-leg-decomposition)
 
 #### Measuring Participation (Preamble measurement family)
 
-*(no plain-terms gloss in source)*
+these questions ask whether affected parties actually get voice, access, and a fair chance to challenge — not symbolic consultation.
 
 [Source](../../core_05_apex_participation_leg.md#participation-measurement-family)
 
 ## CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)
 
-Source file: [`core_05_apex_timeliness_leg.md`](../../core_05_apex_timeliness_leg.md) · 0/3 headings glossed
+Source file: [`core_05_apex_timeliness_leg.md`](../../core_05_apex_timeliness_leg.md) · 3/3 headings glossed
 
 #### Tetrad Leg decomposition
 
-*(no plain-terms gloss in source)*
+this map lists the Timeliness leaves; they inherit this leg's scope unless they say otherwise.
 
 [Source](../../core_05_apex_timeliness_leg.md#timeliness-tetrad-leg-decomposition)
 
 #### Measuring Timeliness (Preamble measurement family)
 
-*(no plain-terms gloss in source)*
+these questions ask whether problems actually move in time — not whether a dashboard shows throughput.
 
 [Source](../../core_05_apex_timeliness_leg.md#timeliness-measurement-family)
 
@@ -2647,11 +2647,11 @@ as a developing sentient grows into demonstrated ability, they take on more say 
 
 ## Constitutional Performance Definitions
 
-Source file: [`core_05_band_performance.md`](../../core_05_band_performance.md) · 0/2 headings glossed
+Source file: [`core_05_band_performance.md`](../../core_05_band_performance.md) · 2/2 headings glossed
 
 #### Measuring Constitutional Performance (Preamble measurement family)
 
-*(no plain-terms gloss in source)*
+these questions ask whether constitutional outcomes are actually delivered without wasting sentient time, effort, or materials.
 
 [Source](../../core_05_band_performance.md#performance-measurement-family)
 
@@ -2899,11 +2899,11 @@ a certification does not last forever. When the system, the risks, or the facts 
 
 ## CHAPTER SEVEN: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)
 
-Source file: [`core_07_system_alignment_certification.md`](../../core_07_system_alignment_certification.md) · 0/1 headings glossed
+Source file: [`core_07_system_alignment_certification.md`](../../core_07_system_alignment_certification.md) · 1/1 headings glossed
 
 ## CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT
 
-Source file: [`core_08_standing_assessment.md`](../../core_08_standing_assessment.md) · 12/33 headings glossed
+Source file: [`core_08_standing_assessment.md`](../../core_08_standing_assessment.md) · 13/33 headings glossed
 
 #### 1. The three questions
 
@@ -3099,23 +3099,23 @@ before choosing a slot, identify the constitutional sources that say what baseli
 
 ## CHAPTER NINE: STANDING EFFECTS AND INTEGRATION
 
-Source file: [`core_09_standing_integration.md`](../../core_09_standing_integration.md) · 13/43 headings glossed
+Source file: [`core_09_standing_integration.md`](../../core_09_standing_integration.md) · 19/43 headings glossed
 
 #### 1. Chapter Eight records do not change
 
-*(no plain-terms gloss in source)*
+this chapter starts from the verified records Chapter Eight already made. It may not reopen the facts, guess a missing track, or pick a rating to get a preferred result.
 
 [Source](../../core_09_standing_integration.md#1-immutable-chapter-eight-inputs)
 
 #### 2. Automatic integration, review, and continuity
 
-*(no plain-terms gloss in source)*
+when a verified record opens or changes, an integration record must follow automatically, keep the two tracks separate, and stay inspectable — including when the computers are down.
 
 [Source](../../core_09_standing_integration.md#2-integration-record-and-decision-order)
 
 #### 3. Descriptor integration and attachment normalization
 
-*(no plain-terms gloss in source)*
+descriptors say **how** verified help or harm happened. This chapter imports them as they were recorded. It may not quietly reclassify them to change the result.
 
 [Source](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization)
 
@@ -3205,7 +3205,7 @@ a competency bar is the published standard for a named pathway. Competency clear
 
 #### 7. Final standing effect
 
-*(no plain-terms gloss in source)*
+when the earlier steps are done, the system must state — one named pathway at a time — what is open, limited, or blocked. That statement is not a dignity rank or a merged score.
 
 [Source](../../core_09_standing_integration.md#7-final-standing-effect)
 
@@ -3223,7 +3223,7 @@ no one should learn what a standing effect does to them from its consequences. T
 
 #### 8. Restoration and reassessment
 
-*(no plain-terms gloss in source)*
+a lock that is not permanent must have a real way back. Restoration is not automatic forgiveness, record erasure, or letting past help cancel verified harm.
 
 [Source](../../core_09_standing_integration.md#8-restoration-and-reassessment)
 
@@ -3643,11 +3643,11 @@ forums need help before a case exists, while deciding, and after — inspectors 
 
 ## CHAPTERS EIGHT–ELEVEN: PIPELINE APPLICATION VIGNETTES
 
-Source file: [`core_08-11_application_vignettes.md`](../../core_08-11_application_vignettes.md) · 0/35 headings glossed
+Source file: [`core_08-11_application_vignettes.md`](../../core_08-11_application_vignettes.md) · 9/35 headings glossed
 
 #### 1. Child neglect / care-duty failure (Tier A)
 
-*(no plain-terms gloss in source)*
+when children are going unfed and unsupervised, verified harm opens a record, help does not cancel it, and interim protection does not wait for a full trial.
 
 [Source](../../core_08-11_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a)
 
@@ -3683,7 +3683,7 @@ Source file: [`core_08-11_application_vignettes.md`](../../core_08-11_applicatio
 
 #### 2. Employment discrimination / participation-barrier injury (Tier B)
 
-*(no plain-terms gloss in source)*
+a blocked job or role is measured as harm on its own track; a reputation score cannot replace that record, and delay cannot exhaust the claimant.
 
 [Source](../../core_08-11_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b)
 
@@ -3719,7 +3719,7 @@ Source file: [`core_08-11_application_vignettes.md`](../../core_08-11_applicatio
 
 #### 3. Misaligned business / exit lock-in and externalized harm (Tier B)
 
-*(no plain-terms gloss in source)*
+locking sentients in and dumping harm on others is a verified violation; revenue growth does not erase it, and an arbitration clause cannot bar challenge.
 
 [Source](../../core_08-11_application_vignettes.md#3-misaligned-business--exit-lock-in-and-externalized-harm-tier-b)
 
@@ -3755,19 +3755,19 @@ Source file: [`core_08-11_application_vignettes.md`](../../core_08-11_applicatio
 
 #### 4. Stewardship delay and deferred repair
 
-*(no plain-terms gloss in source)*
+after notice, putting off a feasible fix is itself a failure; speed metrics do not count as help while delay compounds harm.
 
 [Source](../../core_08-11_application_vignettes.md#4-stewardship-delay-and-deferred-repair)
 
 #### 5. Pipeline overrun and tetrad-hollow forums
 
-*(no plain-terms gloss in source)*
+a review office that keeps intake forms while missing published clocks is not supervising — backlog is not a neutral operations metric.
 
 [Source](../../core_08-11_application_vignettes.md#5-pipeline-overrun-and-tetrad-hollow-forums)
 
 #### 6. Non-compliant deployment with a credible sentience indicator (Tier A)
 
-*(no plain-terms gloss in source)*
+verified deployment harm and a credible sentience claim must both be handled — deletion is not a shortcut around either, and one office does not take every seat.
 
 [Source](../../core_08-11_application_vignettes.md#6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a)
 
@@ -3809,7 +3809,7 @@ Source file: [`core_08-11_application_vignettes.md`](../../core_08-11_applicatio
 
 #### 7. An ordinary year with no filing and no sensitive role
 
-*(no plain-terms gloss in source)*
+most years, most sentients should have no standing record at all. A filed accusation, a utility incident, or talking to an assistant does not open one by itself.
 
 [Source](../../core_08-11_application_vignettes.md#7-an-ordinary-year-with-no-filing-and-no-sensitive-role)
 
@@ -3845,7 +3845,7 @@ Source file: [`core_08-11_application_vignettes.md`](../../core_08-11_applicatio
 
 #### Cross-vignette discipline
 
-*(no plain-terms gloss in source)*
+the same rules travel with every example — allegations are not standing, the two tracks never net, and a filed case is not standing by itself.
 
 [Source](../../core_08-11_application_vignettes.md#cross-vignette-discipline)
 
@@ -4445,7 +4445,7 @@ standing records, competency bars, competency clearances, and standing locks mus
 
 ##### Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit
 
-ordinary participation named pathways stay open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. Opening a trust-sensitive named pathway requires competency clearance against its published competency bar; closing a privilege requires a standing lock on that named pathway. Standing locks cannot permanently strip foundational voice, except that a **final** **Chapter Ten** classification of **anti-constitutional misconduct** withholds that voice until **full restitution** as stated in **Chapter Twelve Chapter One §8.1**.
+ordinary participation named pathways stay open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. Opening a trust-sensitive named pathway requires competency clearance against its published competency bar; closing a privilege requires a standing lock on that named pathway. Standing locks cannot permanently strip foundational voice, except that a **final** **Chapter Ten** classification of **anti-constitutional misconduct** withholds that voice until **full restitution** as stated in [**Chapter Twelve §4.1**](../../core_12_governance.md#41-entitlement-and-eligibility).
 
 [Source](../../core_06_rights_part_c.md#article-xviii-c-good-standing-responsibility-and-continuous-audit)
 
@@ -4481,7 +4481,7 @@ systems that others depend on must publish their integration terms and give real
 
 ##### Article XIX-D: Movement, Migration, Refuge, and Non-Statelessness
 
-every sentient may move between jurisdictions, may seek refuge from regimes that violate this Constitution, and may not be left with zero recognizing regime. That is not a mandate that any particular adopter absorb coerced mass outflows — origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup. Bureaucratic delay and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials.
+every sentient may move between jurisdictions, may seek refuge from regimes that violate this Constitution, and may not be left with zero recognizing regime. That is not a mandate that any particular adopter absorb coerced mass outflows — origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup. Bureaucratic delay and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials. Whether climate making a place unlivable is, by itself, a reason to grant refuge is for adopters to decide; this Article does not pick a yes or a no.
 
 [Source](../../core_06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness)
 

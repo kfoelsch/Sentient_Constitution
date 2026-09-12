@@ -23,6 +23,7 @@ python3 tools/corpus_lookup.py resolve QUERY
 python3 tools/corpus_lookup.py hydrate QUERY
 python3 tools/corpus_lookup.py topic-route QUERY
 python3 tools/corpus_lookup.py door CASE_ID
+python3 tools/corpus_lookup.py retrieve "QUESTION OR KEYWORDS"
 ```
 
 High-pressure fact patterns: `door` then the named card and boxed operative steward statement. Patterns: [`ai_corpus/AI_NAVIGATION_GUIDE.md`](ai_corpus/AI_NAVIGATION_GUIDE.md). Skill: [`.cursor/skills/corpus-lookup/SKILL.md`](.cursor/skills/corpus-lookup/SKILL.md).

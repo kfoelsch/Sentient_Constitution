@@ -24,6 +24,8 @@
 
 ---
 
+*In plain terms: give affected sentients real voice in systems that affect them — scaled to how much is on the line, not token consultation.*
+
 - O: Give affected sentients and [Stakeholders](core_05_band_participation.md#stakeholder) real voice in systems that affect them — the Tetrad leg this entry names.
   - **In scope:** voice, representation, contestable pathways, and proportionate access to consequential roles in systems that materially affect them — scaled with [material stake](../core_00_preamble.md#material-stake). Distinct from the [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) operational layer where governing authority is already authorized.
   - **Depends on:** [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Accessibility](core_05_band_participation.md#accessibility-constitutional), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), and [Contestability](core_05_band_accountability.md#contestability) — the conditions this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#participation-tetrad-leg-decomposition).
@@ -42,6 +44,8 @@
 
 ### Tetrad Leg decomposition
 
+*In plain terms: this map lists the Participation clusters; leaf definitions inherit this leg's scope unless they say otherwise.*
+
 Leaf definitions under this leg inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 
 **Dependent clusters** (**Def.P1–Def.P3**) — joint-invocation homes:
@@ -57,6 +61,8 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 <a id="participation-measurement-family"></a>
 
 ### Measuring Participation (Preamble measurement family)
+
+*In plain terms: these questions ask whether affected parties actually get voice, access, and a fair chance to challenge — not symbolic consultation.*
 
 *Chapter Five home for the Participation measurement family. Preamble §2 keeps the plain-language category question in the overview table; the family table, constitutional use, and definition routing live here.*
 

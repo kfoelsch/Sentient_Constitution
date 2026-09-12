@@ -23,6 +23,10 @@ Where the corpus is and where it is going: [VISION.md](VISION.md). The working b
    python3 tools/corpus_lookup.py resolve QUERY
    python3 tools/corpus_lookup.py hydrate QUERY
    python3 tools/corpus_lookup.py topic-route QUERY
+   python3 tools/corpus_lookup.py route "QUESTION OR FACT PATTERN"
+   python3 tools/corpus_lookup.py apply-pack "QUESTION OR FACT PATTERN"
+   python3 tools/corpus_lookup.py cite --file FILE --anchor '#fragment'
+   python3 tools/corpus_lookup.py retrieve "QUESTION OR KEYWORDS"
    ```
 
    Indexes point; source binds. Never treat a locator or gloss as a duty.

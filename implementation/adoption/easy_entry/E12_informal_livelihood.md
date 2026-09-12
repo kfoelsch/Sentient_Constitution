@@ -89,4 +89,4 @@ See: [CI-22](../../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_
 ## If you want to look further
 
 - Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
-- Sibling briefs: [`README.md`](README.md) — [E11](E11_subsistence_farmer.md); [E13](E13_displacement_refuge.md); [E05](E05_disability.md) if the closed door is access
+- Sibling briefs: [`README.md`](README.md) — [E11](E11_subsistence_farmer.md); [E13](E13_displacement_refuge.md); [E05](E05_disability.md) if the closed door is access; [E16](E16_worker_not_owner.md) if you work someone else’s shop or app

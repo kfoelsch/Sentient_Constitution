@@ -33,8 +33,12 @@
 
 <br>
 
+*In plain terms: these are worked examples of the standing pipeline in named situations. They illustrate Chapters Eight through Eleven; they do not add, remove, or narrow those chapters.*
+
 <a id="1-child-neglect--care-duty-failure-tier-a"></a>
 ### 1. Child neglect / care-duty failure (Tier A)
+
+*In plain terms: when children are going unfed and unsupervised, verified harm opens a record, help does not cancel it, and interim protection does not wait for a full trial.*
 
 #### Situation
 
@@ -82,6 +86,8 @@ Years-long cycles: vague “welfare checks,” reputation gossip, family-forum d
 <a id="2-employment-discrimination--participation-barrier-injury-tier-b"></a>
 ### 2. Employment discrimination / participation-barrier injury (Tier B)
 
+*In plain terms: a blocked job or role is measured as harm on its own track; a reputation score cannot replace that record, and delay cannot exhaust the claimant.*
+
 #### Situation
 
 An employer’s hiring algorithm and manual override practice consistently screens out sentients with disclosed disabilities and routes them to lower-paid contractor tracks. Twelve affected sentients file a coordinated challenge. Internal HR records show pattern, not isolated error. Primary stakes: **Institutional** forum family.
@@ -124,6 +130,8 @@ Multi-year EEO-style litigation, sealed settlements, reputation damage without v
 
 <a id="3-misaligned-business--exit-lock-in-and-externalized-harm-tier-b"></a>
 ### 3. Misaligned business / exit lock-in and externalized harm (Tier B)
+
+*In plain terms: locking sentients in and dumping harm on others is a verified violation; revenue growth does not erase it, and an arbitration clause cannot bar challenge.*
 
 #### Situation
 
@@ -170,6 +178,8 @@ Later-stage stretch follows [Chapter Eleven §6](core_11_forum.md#urgency-classi
 <a id="4-stewardship-delay-and-deferred-repair"></a>
 ### 4. Stewardship delay and deferred repair
 
+*In plain terms: after notice, putting off a feasible fix is itself a failure; speed metrics do not count as help while delay compounds harm.*
+
 **Domain:** Operator defers safeguard maintenance and repair after documented misalignment notice.
 
 **Tier:** B (material rights impact, non-imminent) unless ongoing harm escalates to Tier A.
@@ -188,6 +198,8 @@ Later-stage stretch follows [Chapter Eleven §6](core_11_forum.md#urgency-classi
 <a id="5-pipeline-overrun-and-tetrad-hollow-forums"></a>
 ### 5. Pipeline overrun and tetrad-hollow forums
 
+*In plain terms: a review office that keeps intake forms while missing published clocks is not supervising — backlog is not a neutral operations metric.*
+
 **Domain:** Forum family maintains formal intake and records but systematically exceeds [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier milestones without documented extension.
 
 | Stage | Application |
@@ -202,6 +214,8 @@ Later-stage stretch follows [Chapter Eleven §6](core_11_forum.md#urgency-classi
 
 <a id="6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a"></a>
 ### 6. Non-compliant deployment with a credible sentience indicator (Tier A)
+
+*In plain terms: verified deployment harm and a credible sentience claim must both be handled — deletion is not a shortcut around either, and one office does not take every seat.*
 
 #### Situation
 
@@ -262,6 +276,8 @@ The steps below are what the Constitution requires of the **system of seats**. T
 <a id="7-an-ordinary-year-with-no-filing-and-no-sensitive-role"></a>
 ### 7. An ordinary year with no filing and no sensitive role
 
+*In plain terms: most years, most sentients should have no standing record at all. A filed accusation, a utility incident, or talking to an assistant does not open one by itself.*
+
 #### Situation
 
 An adult rents a flat, holds a job that gives them authority over no one, uses a Class B transit network and a Class A water utility, talks to an AI assistant most days, volunteers at a food-distribution table on weekends, and — over the whole year — never files a case, never sits on a panel, and never seeks a trust-sensitive role. Two things happen *to* them: in spring a fellow tenant accuses them, in writing to the building's dispute intake, of damaging a shared bicycle store; in autumn the water utility has a Tier A contamination incident that affects their street. The question this vignette answers is the one the standing chapters are most often read as failing to answer: **what does this sentient see of the standing pipeline in a year, and what exists about them at the end of it?**
@@ -298,6 +314,8 @@ The pipeline is not weightless; its weight simply does not fall here. It falls o
 <br>
 
 ### Cross-vignette discipline
+
+*In plain terms: the same rules travel with every example — allegations are not standing, the two tracks never net, and a filed case is not standing by itself.*
 
 | Rule | Source |
 | --- | --- |

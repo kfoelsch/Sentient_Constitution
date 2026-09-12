@@ -21,6 +21,8 @@
 
 <br>
 
+*In plain terms: this chapter is the dictionary. Every defined term has one official home; later chapters apply those terms, they do not quietly redefine them.*
+
 ### Canonical home and non-duplication rule
 *In plain terms: every defined term has one official home. That home decides what the term means. Other files may apply the term, but they may not quietly redefine it.*
 
@@ -40,6 +42,8 @@ If wording outside the canonical home seems to broaden, narrow, replace, or comp
 <a id="1-independent-definitions"></a>
 
 ### 1. Independent Definitions
+
+*In plain terms: independent definitions are reusable building blocks. When they apply, they must be met in full — no picking the convenient pieces.*
 
 Independent Definitions are reusable semantic building blocks that can be invoked across multiple definitions. They define shared ontological, measurement, assessment, and compliance constructs. Apply them wherever they are materially relevant to system behavior, outcomes, evaluation scope, or compliance determination.
 
@@ -79,6 +83,8 @@ Calling a definition Independent or Semi-independent does not let it skip cluste
 <a id="chapter-five-alphabetical-directory"></a>
 
 ### Chapter Five alphabetical directory (non-operative)
+
+*In plain terms: this is a searchable list of definition names. It points; it does not change what those names mean.*
 
 <details>
 <summary><strong><span style="color: #2563eb;">Alphabetical directory: definitions and clusters</span></strong></summary>
@@ -361,6 +367,8 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 <br>
 
+*In plain terms: Chapter Five is sorted by the two aims and the four Tetrad legs; this table says which file holds which cluster range.*
+
 Chapter Five definitions are sorted by the [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims) and the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad):
 
 **Constitutional bands**
@@ -378,6 +386,8 @@ Chapter Five definitions are sorted by the [Two Constitutional Aims](../core_00_
 ---
 
 ### Measurement crosswalk (reader guidance)
+
+*In plain terms: Preamble §2 asks seven category questions; this table maps each question to the Chapter Five homes that answer it.*
 
 <a id="chapter-five-measurement-crosswalk"></a>
 

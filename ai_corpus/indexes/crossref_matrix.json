@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-10T17:15:54+00:00",
+  "generated_at": "2026-09-12T13:36:36+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -4840,11 +4840,12 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 11,
+            "count": 12,
             "anchors": [
               "#article-xiii-a-security-intelligence-and-covert-power-limits",
               "#article-xix-d-movement-migration-refuge-and-non-statelessness",
-              "#article-xv-auditability-and-observable-evidence"
+              "#article-xv-auditability-and-observable-evidence",
+              "#xix-d-climate-unlivability-refuge-adopter-decided"
             ]
           },
           {
@@ -7028,7 +7029,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 69,
+            "count": 77,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#21-fairness",
@@ -7041,7 +7042,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 34,
+            "count": 36,
             "anchors": [
               "#6-process-conflict-resolution",
               "#61-core-tradeoff-principles",
@@ -7052,14 +7053,16 @@
               "#62-epistemic-disclosure-constraints",
               "#621-preservation-of-epistemic-integrity",
               "#63-minimization-of-avoidable-burden",
+              "#7-prohibition-on-absolute-override",
               "#8-constitutional-interpretation",
+              "#81-constitutional-no-bypass-principle",
               "#anti-degrading-process-principle",
               "#rightsfloor-minimums-principle"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 16,
+            "count": 17,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#11-incentive-alignment-and-system-capture",
@@ -7379,6 +7382,13 @@
             ]
           },
           {
+            "file": "core_12_governance.md",
+            "count": 5,
+            "anchors": [
+              "#41-entitlement-and-eligibility"
+            ]
+          },
+          {
             "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
             "count": 1,
             "anchors": []
@@ -7404,7 +7414,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 77,
+            "count": 80,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#31-safety-harm-constraint",
@@ -7418,7 +7428,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 40,
+            "count": 45,
             "anchors": [
               "#6-process-conflict-resolution",
               "#61-core-tradeoff-principles",
@@ -7427,17 +7437,21 @@
               "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
               "#615-rights-collision-decision-test",
               "#62-epistemic-disclosure-constraints",
-              "#63-minimization-of-avoidable-burden"
+              "#63-minimization-of-avoidable-burden",
+              "#7-prohibition-on-absolute-override",
+              "#8-constitutional-interpretation",
+              "#81-constitutional-no-bypass-principle"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 37,
+            "count": 38,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#11-incentive-alignment-and-system-capture",
               "#111-alignment-requirement",
               "#12-shared-system-capacity",
+              "#13-market-structure",
               "#14-systemic-evaluation-requirement",
               "#15-integrated-application",
               "#9-stewardship-and-distributed-understanding",
@@ -7763,6 +7777,13 @@
             ]
           },
           {
+            "file": "core_12_governance.md",
+            "count": 5,
+            "anchors": [
+              "#41-entitlement-and-eligibility"
+            ]
+          },
+          {
             "file": "corpus_institutions.md",
             "count": 3,
             "anchors": []
@@ -7817,7 +7838,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 31,
+            "count": 36,
             "anchors": [
               "#6-process-conflict-resolution",
               "#61-core-tradeoff-principles",
@@ -7825,6 +7846,7 @@
               "#615-rights-collision-decision-test",
               "#62-epistemic-disclosure-constraints",
               "#63-minimization-of-avoidable-burden",
+              "#7-prohibition-on-absolute-override",
               "#8-constitutional-interpretation",
               "#81-constitutional-no-bypass-principle",
               "#anti-degrading-process-principle",

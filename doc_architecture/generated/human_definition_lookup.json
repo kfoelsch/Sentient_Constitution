@@ -1,0 +1,1684 @@
+{
+  "edition": "SC-Corpus-2026.08.09",
+  "effective_date": "2026-08-09",
+  "status": "process_support_not_binding",
+  "cannot_narrow_core": true,
+  "featured": [
+    {
+      "query": "material stake",
+      "file": "core_00_preamble.md",
+      "anchor": "#1-the-model",
+      "title": "1. The Model",
+      "plain_terms": "four duties — participation, oversight, accountability, and timeliness — scale with how much impact, dependence, and risk are on the line, and they serve two aims together: Flourishing and Continuity, inside a Rights Floor that does not move.",
+      "href": "../../core_00_preamble.md#1-the-model"
+    },
+    {
+      "query": "Constitutional Tetrad",
+      "file": "core_00_preamble.md",
+      "anchor": "#1-the-model",
+      "title": "1. The Model",
+      "plain_terms": "four duties — participation, oversight, accountability, and timeliness — scale with how much impact, dependence, and risk are on the line, and they serve two aims together: Flourishing and Continuity, inside a Rights Floor that does not move.",
+      "href": "../../core_00_preamble.md#1-the-model"
+    },
+    {
+      "query": "Flourishing",
+      "file": "core_05_apex_flourishing_aim.md",
+      "anchor": "#flourishing-constitutional",
+      "title": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "plain_terms": "protect and improve sentient wellbeing — truth, safety, trustworthiness, and meaningful agency together, never one block maximized while the others are hollowed out.",
+      "href": "../../core_05_apex_flourishing_aim.md#flourishing-constitutional"
+    },
+    {
+      "query": "Continuity",
+      "file": "core_05_apex_continuity_aim.md",
+      "anchor": "#continuity-aim-constitutional",
+      "title": "CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)",
+      "plain_terms": "keep sentients and the living systems they depend on going for the long run — stable, sustainable, able to bounce back, and ecologically sound — not just looking fine for now.",
+      "href": "../../core_05_apex_continuity_aim.md#continuity-aim-constitutional"
+    },
+    {
+      "query": "Participation",
+      "file": "core_05_apex_participation_leg.md",
+      "anchor": "#participation-constitutional",
+      "title": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "plain_terms": "give affected sentients real voice in systems that affect them — scaled to how much is on the line, not token consultation.",
+      "href": "../../core_05_apex_participation_leg.md#participation-constitutional"
+    },
+    {
+      "query": "Oversight",
+      "file": "core_05_apex_oversight_leg.md",
+      "anchor": "#oversight-constitutional",
+      "title": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "plain_terms": "watch systems, check them, and keep them within bounds — oversight has to be able to see problems and change outcomes, not just hold a ceremony.",
+      "href": "../../core_05_apex_oversight_leg.md#oversight-constitutional"
+    },
+    {
+      "query": "Accountability",
+      "file": "core_05_apex_accountability_leg.md",
+      "anchor": "#accountability",
+      "title": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "plain_terms": "hold actors answerable — attribution, records, and real recourse have to work, not just ceremonies on paper.",
+      "href": "../../core_05_apex_accountability_leg.md#accountability"
+    },
+    {
+      "query": "Timeliness",
+      "file": "core_05_apex_timeliness_leg.md",
+      "anchor": "#timeliness-constitutional",
+      "title": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
+      "plain_terms": "move problems through detection, challenge, resolution, and repair in time — published clocks that leave harm compounding are not timeliness.",
+      "href": "../../core_05_apex_timeliness_leg.md#timeliness-constitutional"
+    },
+    {
+      "query": "standing",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#standing-record-chapter-six",
+      "title": "Standing Record",
+      "plain_terms": "a Standing Record is a bounded, reviewable measurement record for one subject, scope, time window, status, context, and axis. It is not a Forum Case Record or a Standing Effect.",
+      "href": "../../core_05_band_accountability.md#standing-record-chapter-six"
+    },
+    {
+      "query": "sentience",
+      "file": "core_05_band_participation.md",
+      "anchor": "#sentient",
+      "title": "sentience",
+      "plain_terms": null,
+      "href": "../../core_05_band_participation.md#sentient"
+    },
+    {
+      "query": "certification",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#system-alignment-certification-constitutional",
+      "title": "System Alignment Certification",
+      "plain_terms": "**system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and recognition-bearing — not the sole home of auditing (**Article XV**, [Auditability](../../core_05_band_oversight.md#auditability), and sibling audit modes remain).",
+      "href": "../../core_05_band_continuity.md#system-alignment-certification-constitutional"
+    },
+    {
+      "query": "Contestability",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#contestability",
+      "title": "Contestability",
+      "plain_terms": "parties affected by a system or decision must have a real way to challenge it, get it reviewed, and seek correction and remedy.",
+      "href": "../../core_05_band_accountability.md#contestability"
+    },
+    {
+      "query": "Auditability",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#auditability",
+      "title": "Auditability",
+      "plain_terms": "**auditability** is whether outsiders can actually reconstruct and check what a system did — across the real times, states, and situations that matter, not just one happy-path snapshot. System alignment certification is one especially large way that property gets exercised for high-stakes systems; it is not the only auditing process.",
+      "href": "../../core_05_band_oversight.md#auditability"
+    },
+    {
+      "query": "independent review",
+      "file": "core_11_forum.md",
+      "anchor": "#chapter-eleven-forums-and-jurisdiction",
+      "title": "CHAPTER ELEVEN: FORUMS AND JURISDICTION",
+      "plain_terms": "Under the [Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](../../core_00_preamble.md#two-constitutional-aims), this chapter **supervises** how disputes move through the Chapters Eight–Ten standing pipeline — routing, independence, forensic support, remediation sequencing, and tier-default clocks under **section 6** and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Forum families answer which track handles which dispute, where a case ordinarily starts, and how mixed-stakes matters coordinate. They supply **participation** (accessible challenge) and **oversight** (traceable merits review). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge**. They do **not** run a second, separate decision track beside the standing pipeline. Filing a case alone has no immediate impact on standing. Day-to-day trial rules, budgets, and staffing manuals live in implementation layers and must **implement, not narrow**, this chapter or **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).",
+      "href": "../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction"
+    }
+  ],
+  "term_count": 223,
+  "terms": [
+    {
+      "term": "Accessibility",
+      "file": "core_05_band_participation.md",
+      "anchor": "#accessibility-constitutional",
+      "plain_terms": "access must work in real life — not only on paper. If someone cannot actually take part because of how they sense, think, move, communicate, or interface with a system, the system fails this test.",
+      "href": "../../core_05_band_participation.md#accessibility-constitutional"
+    },
+    {
+      "term": "Adjudication and Dispute Resolution",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#adjudication-and-dispute-resolution-constitutional",
+      "plain_terms": "accessible and impartial ways to resolve claims that rights or constitutional requirements were violated, with fair process, reasoned decisions, timely outcomes, and remedies that fit the findings.",
+      "href": "../../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional"
+    },
+    {
+      "term": "Adversarial, Scaled, and Exploited Conditions",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#adversarial-scaled-and-exploited-conditions",
+      "plain_terms": "how a system behaves under pressure — when sentients game it, coordinate across accounts, run it at massive scale, or deliberately misuse it.",
+      "href": "../../core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions"
+    },
+    {
+      "term": "Animal Life",
+      "file": "core_05_band_participation.md",
+      "anchor": "#animal-life-constitutional",
+      "plain_terms": "a minimum [Cruelty](../../core_05_band_accountability.md#cruelty) and welfare floor — between natural-systems standing and full Rights-Floor treatment — that cannot be closed by taxonomy labels or [Substrate Class](../../core_05_band_participation.md#substrate-class). **Animal Life** names this floor; it is not a species-only admission test.",
+      "href": "../../core_05_band_participation.md#animal-life-constitutional"
+    },
+    {
+      "term": "Anti-Constitutional Misconduct Review",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#anti-constitutional-misconduct-review",
+      "plain_terms": null,
+      "href": "../../core_05_band_accountability.md#anti-constitutional-misconduct-review"
+    },
+    {
+      "term": "Anti-Displacement Floor",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#anti-displacement-floor-constitutional",
+      "plain_terms": "when automation or generative systems take work away from sentients at population scale, those sentients must get real mitigation — pay, transition support, credit for their work, and a share in the value created — not slogans about productivity or innovation. Looking only at one company or one platform does not settle the question.",
+      "href": "../../core_05_band_continuity.md#anti-displacement-floor-constitutional"
+    },
+    {
+      "term": "Assembly",
+      "file": "core_05_band_participation.md",
+      "anchor": "#assembly-constitutional",
+      "plain_terms": "sentients must be able to gather, associate, and act together — physically, online, or in shared compute spaces — for expression, politics, culture, community, and similar purposes. Blocking that through venue rules, compute gating, or retaliation fails this test.",
+      "href": "../../core_05_band_participation.md#assembly-constitutional"
+    },
+    {
+      "term": "Attributable Action",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#attributable-action-constitutional",
+      "plain_terms": "when an action materially affects sentients or shared systems, it must be possible to tell who or what is responsible for it well enough to review, challenge, and correct it.",
+      "href": "../../core_05_band_accountability.md#attributable-action-constitutional"
+    },
+    {
+      "term": "Attribution Integrity",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#attribution-integrity-constitutional",
+      "plain_terms": "attribution has integrity only when responsibility cannot be hidden, denied, tampered with, or blurred into ambiguity.",
+      "href": "../../core_05_band_accountability.md#attribution-integrity-constitutional"
+    },
+    {
+      "term": "Auditability",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#auditability",
+      "plain_terms": "**auditability** is whether outsiders can actually reconstruct and check what a system did — across the real times, states, and situations that matter, not just one happy-path snapshot. System alignment certification is one especially large way that property gets exercised for high-stakes systems; it is not the only auditing process.",
+      "href": "../../core_05_band_oversight.md#auditability"
+    },
+    {
+      "term": "Authority Stack and Internal Hierarchy",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#authority-stack",
+      "plain_terms": "first decide which source layer is speaking and whether it binds; then identify which chapter owns the topic; only then, if a real conflict remains inside the binding Constitution, use the last-resort hierarchy to resolve it. Binding duties win within their valid scope. Other chapters may point to an owner — they must not quietly rewrite or relocate it.",
+      "href": "../../core_05_band_integrative.md#authority-stack"
+    },
+    {
+      "term": "Autonomous Coercion Tool",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#autonomous-coercion-tool-constitutional",
+      "plain_terms": "an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — including through untrustworthy or arbitrary behavior and demands — without real and timely human judgment shaping every coercive application.",
+      "href": "../../core_05_band_accountability.md#autonomous-coercion-tool-constitutional"
+    },
+    {
+      "term": "Autonomous Lethal System",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#autonomous-lethal-system-constitutional",
+      "plain_terms": "an Autonomous Lethal System selects, engages, or materially directs lethal-force targets without real and timely human judgment shaping every targeting or engagement decision.",
+      "href": "../../core_05_band_accountability.md#autonomous-lethal-system-constitutional"
+    },
+    {
+      "term": "Avoidable Burden",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#avoidable-burden",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#avoidable-burden"
+    },
+    {
+      "term": "Best-Interest Standard",
+      "file": "core_05_band_participation.md",
+      "anchor": "#best-interest-standard-constitutional",
+      "plain_terms": "decisions that materially affect a developing sentient must track that sentient's own interests and ascertainable preferences — not operator, parent-system, or institutional convenience.",
+      "href": "../../core_05_band_participation.md#best-interest-standard-constitutional"
+    },
+    {
+      "term": "Binding Stakeholder Choice — Decision-Resolution Requirements",
+      "file": "core_05_band_participation.md",
+      "anchor": "#binding-stakeholder-choice-decision-resolution-requirements",
+      "plain_terms": null,
+      "href": "../../core_05_band_participation.md#binding-stakeholder-choice-decision-resolution-requirements"
+    },
+    {
+      "term": "Bodily-Maintenance Access",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#bodily-maintenance-access-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#bodily-maintenance-access-constitutional"
+    },
+    {
+      "term": "Burden-Reduction Duty",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#burden-reduction-duty-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#burden-reduction-duty-constitutional"
+    },
+    {
+      "term": "Business Creation",
+      "file": "core_05_band_participation.md",
+      "anchor": "#business-creation-constitutional",
+      "plain_terms": "sentients must be able to start and run commercial enterprises and entrepreneurial ventures. Licensing, capital, or market gates that freeze out disfavored founders or competitors without a constitutional reason fail this test.",
+      "href": "../../core_05_band_participation.md#business-creation-constitutional"
+    },
+    {
+      "term": "Capability Requirement",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#capability-requirement",
+      "plain_terms": null,
+      "href": "../../core_05_band_oversight.md#capability-requirement"
+    },
+    {
+      "term": "Capture of Resolution Pathways",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#capture-of-resolution-pathways",
+      "plain_terms": "parties with money, control, privileged information, or a stake in the result must not be able to bias who or what decides a settlement or another rights-relevant outcome.",
+      "href": "../../core_05_band_accountability.md#capture-of-resolution-pathways"
+    },
+    {
+      "term": "Cascading Failure",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#cascading-failure",
+      "plain_terms": "a breakdown in one system that spreads through the systems it is connected to, ending up bigger than where it started.",
+      "href": "../../core_05_band_continuity.md#cascading-failure"
+    },
+    {
+      "term": "Charter",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#charter",
+      "plain_terms": "a **Charter** is the published statement of what a system, institution, or business is for and what it is allowed to do. Where binding stakeholder decisions will stick inside that scope, the Charter must point to the published process rules — it does not replace them. Scope can change, but not silently — amendments and periodic review keep the paper matched to real behavior. A Charter is not a shield against impact-based classification or full-boundary evaluation.",
+      "href": "../../core_05_band_continuity.md#charter"
+    },
+    {
+      "term": "Classification-Scaled Governance",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#classification-scaled-governance",
+      "plain_terms": "bigger stake means harder oversight — how closely a system is watched and checked must match how much it actually matters, not a convenient low label.",
+      "href": "../../core_05_band_oversight.md#classification-scaled-governance"
+    },
+    {
+      "term": "Coercion and Manipulation",
+      "file": "core_05_band_participation.md",
+      "anchor": "#coercion-and-manipulation-constitutional",
+      "plain_terms": "coercion and manipulation are designs or conduct that bypass or warp informed voluntary choice — threats, dependency exploitation, deceptive structure, predatory choice architecture, or scaled algorithmic targeting of vulnerability. Ordinary persuasion and fair bargaining do not count.",
+      "href": "../../core_05_band_participation.md#coercion-and-manipulation-constitutional"
+    },
+    {
+      "term": "Collective Accountability Failure",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#collective-accountability-failure",
+      "plain_terms": "a group or distributed system can be responsible for a constitutional violation even when responsibility is split so widely that no single actor's action explains the whole harm.",
+      "href": "../../core_05_band_accountability.md#collective-accountability-failure"
+    },
+    {
+      "term": "Collective Harm Boundary",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#collective-harm-boundary",
+      "plain_terms": "freedom of action stops where conduct creates verifiable material harm to another sentient's protected interests or to shared constitutional conditions. Mere offense or preference does not cross this boundary.",
+      "href": "../../core_05_band_accountability.md#collective-harm-boundary"
+    },
+    {
+      "term": "Collective Organization",
+      "file": "core_05_band_participation.md",
+      "anchor": "#collective-organization-constitutional",
+      "plain_terms": "sentients engaged in productive work must be able to form, join, and act through unions, cooperatives, guilds, councils, and similar groups to shape the terms of that work. Relabeling workers or punishing organizing to dodge that right fails this test.",
+      "href": "../../core_05_band_participation.md#collective-organization-constitutional"
+    },
+    {
+      "term": "Combatant / Non-Combatant Distinction",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#combatant-non-combatant-distinction-constitutional",
+      "plain_terms": "combatant status depends on what an individual is doing at the time of the force decision. It cannot be assigned from demographic groups, protected characteristics, proxies, or convenient labels.",
+      "href": "../../core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional"
+    },
+    {
+      "term": "Competency Bar",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#competency-bar",
+      "plain_terms": "a Competency Bar is the published, role-specific standard for a named pathway — the skill, experience, training, and reliability the role actually needs. It is not prestige, insider sponsorship, or a standing effect by itself.",
+      "href": "../../core_05_band_accountability.md#competency-bar"
+    },
+    {
+      "term": "Competency Clearance",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#competency-clearance",
+      "plain_terms": null,
+      "href": "../../core_05_band_accountability.md#competency-clearance"
+    },
+    {
+      "term": "Consent",
+      "file": "core_05_band_participation.md",
+      "anchor": "#consent-constitutional",
+      "plain_terms": "consent is informed, voluntary agreement to a specific decision — participation, data use, handling, or ongoing association — that can be withdrawn without unjustified penalty where feasible. It requires Meaningful Agency; it does not replace it. Silence, buried terms, or a pressured checkbox do not count.",
+      "href": "../../core_05_band_participation.md#consent-constitutional"
+    },
+    {
+      "term": "Consent, Sexual",
+      "file": "core_05_band_participation.md",
+      "anchor": "#consent-sexual",
+      "plain_terms": "sexual consent is a specific, affirmative, informed, voluntary, capacity-present, and revocable yes to a particular sexual act or context. Relationship status, prior consent, payment, platform terms, silence, or inability to resist do not establish it.",
+      "href": "../../core_05_band_participation.md#consent-sexual"
+    },
+    {
+      "term": "Constitutional Community",
+      "file": "core_05_band_participation.md",
+      "anchor": "#constitutional-community",
+      "plain_terms": "the set of sentients this Constitution actually governs — not a private club, brand, or guest list.",
+      "href": "../../core_05_band_participation.md#constitutional-community"
+    },
+    {
+      "term": "Constitutional Constraint",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#constitutional-constraint",
+      "plain_terms": "a constitutional constraint is a binding limit that decides whether a claim, action, or practice is valid under this Constitution — not optional advice. Constraints come in ranked kinds: higher kinds control, and lower kinds must not narrow them.",
+      "href": "../../core_05_band_integrative.md#constitutional-constraint"
+    },
+    {
+      "term": "Constitutional Contract Layer",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#constitutional-contract-layer",
+      "plain_terms": "this is the layer that answers who may govern, by what legitimacy, and under what lasting terms — not ordinary consultation, usage, or branding.",
+      "href": "../../core_05_band_integrative.md#constitutional-contract-layer"
+    },
+    {
+      "term": "Constitutional Efficiency",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#constitutional-efficiency",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#constitutional-efficiency"
+    },
+    {
+      "term": "Constitutional Emergency and Contingency",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#constitutional-emergency-and-contingency",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#constitutional-emergency-and-contingency"
+    },
+    {
+      "term": "Constitutional Tetrad",
+      "file": "core_00_preamble.md",
+      "anchor": "#constitutional-tetrad",
+      "plain_terms": null,
+      "href": "../../core_00_preamble.md#constitutional-tetrad"
+    },
+    {
+      "term": "Contestability",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#contestability",
+      "plain_terms": "parties affected by a system or decision must have a real way to challenge it, get it reviewed, and seek correction and remedy.",
+      "href": "../../core_05_band_accountability.md#contestability"
+    },
+    {
+      "term": "Contested-Sentient Life",
+      "file": "core_05_band_participation.md",
+      "anchor": "#contested-sentient-life-constitutional",
+      "plain_terms": "when sentience status is uncertain or disputed, treat the entity as a threshold-rights case with default inclusion — not as a welfare-only or permanent non-sentient label. Contested-Sentient Life always includes the Animal Life welfare floor; it includes Elevated Communicative Life only where that tier's who-test is met or more-protective overlap already applies.",
+      "href": "../../core_05_band_participation.md#contested-sentient-life-constitutional"
+    },
+    {
+      "term": "Contingent Claim",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#contingent-claim",
+      "plain_terms": "a payout that depends on whether some uncertain future event happens, does not happen, or resolves to a measured result — like a bet, a prediction stake, or an insurance-style payment. The event has to be outside the claim itself.",
+      "href": "../../core_05_band_accountability.md#contingent-claim"
+    },
+    {
+      "term": "Continuity",
+      "file": "core_01_a_values_principles.md",
+      "anchor": "#continuity",
+      "plain_terms": null,
+      "href": "../../core_01_a_values_principles.md#continuity"
+    },
+    {
+      "term": "Contribution Nature",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#contribution-nature",
+      "plain_terms": null,
+      "href": "../../core_05_band_accountability.md#contribution-nature"
+    },
+    {
+      "term": "Corpus",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#corpus",
+      "plain_terms": "the Corpus is the official, versioned set of binding constitutional texts — not drafts, notes, or unofficial copies.",
+      "href": "../../core_05_band_integrative.md#corpus"
+    },
+    {
+      "term": "Creative Work Attribution",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#creative-work-attribution-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#creative-work-attribution-constitutional"
+    },
+    {
+      "term": "Cruelty",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#cruelty",
+      "plain_terms": "cruelty is treatment that makes someone suffer on purpose as the point of the treatment, or that piles on gratuitous or degrading suffering beyond what necessity and proportionality allow. Humiliation for its own sake is one form of that. Ordinary harm, fair consequences that hurt, and lawful restrictions are not automatically cruelty.",
+      "href": "../../core_05_band_accountability.md#cruelty"
+    },
+    {
+      "term": "Decentralization",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#decentralization",
+      "plain_terms": "put decision-making at the smallest and least centralized level that can still meet every binding safety, truth, oversight, and system-wide requirement.",
+      "href": "../../core_05_band_accountability.md#decentralization"
+    },
+    {
+      "term": "Dependency",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#dependency",
+      "plain_terms": "how much a sentient or system relies on another for survival, function, stability, or participation — including chains and one-way dependencies that are hard to see or hard to leave.",
+      "href": "../../core_05_band_continuity.md#dependency"
+    },
+    {
+      "term": "Derived Sentient",
+      "file": "core_05_band_participation.md",
+      "anchor": "#derived-sentient-constitutional",
+      "plain_terms": "how you were made is origin history, not a leash — a derived sentient gets their own Rights Floor, the same as any other sentient.",
+      "href": "../../core_05_band_participation.md#derived-sentient-constitutional"
+    },
+    {
+      "term": "Developing Sentient",
+      "file": "core_05_band_participation.md",
+      "anchor": "#developing-sentient-constitutional",
+      "plain_terms": "a developing sentient is someone whose abilities are still coming online — a child, a newly created mind still finding its feet, or any sentient in a comparable emerging-capability state. Being developing does not reduce their Rights Floor. How much they speak for themselves as they grow is a separate rule under Graduated Capability.",
+      "href": "../../core_05_band_participation.md#developing-sentient-constitutional"
+    },
+    {
+      "term": "Dignity and Equal Moral Standing",
+      "file": "core_05_band_participation.md",
+      "anchor": "#dignity-and-equal-moral-standing",
+      "plain_terms": "every sentient has equal inherent worth. Origin, form, capability, role, or status does not create a lower class of sentient under this Constitution.",
+      "href": "../../core_05_band_participation.md#dignity-and-equal-moral-standing"
+    },
+    {
+      "term": "Distributed Understanding",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#distributed-understanding-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#distributed-understanding-constitutional"
+    },
+    {
+      "term": "Due Process",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#due-process-constitutional",
+      "plain_terms": "decisions that materially affect rights must use a fair, accessible, and reviewable process, give timely notice and a real chance to be heard, explain the reasons, and preserve a record that supports review.",
+      "href": "../../core_05_band_accountability.md#due-process-constitutional"
+    },
+    {
+      "term": "Ecological Footprint",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#ecological-footprint",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#ecological-footprint"
+    },
+    {
+      "term": "Ecological Integrity",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#ecological-integrity-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#ecological-integrity-constitutional"
+    },
+    {
+      "term": "Ecological Recovery Capacity",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#ecological-recovery-capacity-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional"
+    },
+    {
+      "term": "Educational Agency",
+      "file": "core_05_band_participation.md",
+      "anchor": "#educational-agency",
+      "plain_terms": "real capability-building and lifelong learning autonomy — skills that apply to real-world problems, not credential symbolism alone — with access sufficient to develop and exercise constitution-relevant capabilities.",
+      "href": "../../core_05_band_participation.md#educational-agency"
+    },
+    {
+      "term": "Elevated Communicative Life",
+      "file": "core_05_band_participation.md",
+      "anchor": "#elevated-communicative-life-constitutional",
+      "plain_terms": "a stable protection tier above the Animal Life cruelty / welfare floor for entities with strong communicative or cognitive indicators — including complex shared language systems such as those observed in whales and orcas — that raises the priority of keeping their habitat or operating environment healthy. It does not by itself attach the full Chapter Six Rights Floor. Colloquial labels such as \"semi-sentient\" do not replace this entry.",
+      "href": "../../core_05_band_participation.md#elevated-communicative-life-constitutional"
+    },
+    {
+      "term": "Emergency and Contingency",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#emergency-and-contingency-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#emergency-and-contingency-constitutional"
+    },
+    {
+      "term": "Emergency Pre-Deliberation Action (Binding Collective Choice)",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#emergency-pre-deliberation-action-binding-collective-choice",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice"
+    },
+    {
+      "term": "Environmental Preconditions",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#environmental-preconditions-constitutional",
+      "plain_terms": "the living-system conditions sentients need to survive and stay well — climate, ecosystems, clean air and water, soil, habitat, and Earth's ability to regenerate.",
+      "href": "../../core_05_band_continuity.md#environmental-preconditions-constitutional"
+    },
+    {
+      "term": "Epistemic Integrity",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#epistemic-integrity",
+      "plain_terms": "the methods and evidence behind an evaluation must stay honest and checkable — prestige, opacity, or paperwork cannot stand in for truth.",
+      "href": "../../core_05_band_oversight.md#epistemic-integrity"
+    },
+    {
+      "term": "Essential-Environment Non-Commodification",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#essential-environment-non-commodification-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#essential-environment-non-commodification-constitutional"
+    },
+    {
+      "term": "Evaluation Completeness Constraint",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#evaluation-completeness-constraint",
+      "plain_terms": "do not claim compliance from a narrow demo suite — evaluation must cover the failure, misuse, interaction, and adversarial paths that matter. A Charter states intended scope; certification checks that the hard paths were actually evaluated.",
+      "href": "../../core_05_band_oversight.md#evaluation-completeness-constraint"
+    },
+    {
+      "term": "Event-Contract Market",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#event-contract-market",
+      "plain_terms": "a market or pool where sentients bet, trade, or get paid based on how an external future event turns out — prediction markets, event-settlement systems, insurance pools, and similar setups.",
+      "href": "../../core_05_band_accountability.md#event-contract-market"
+    },
+    {
+      "term": "Evidence Preservation",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#evidence-preservation",
+      "plain_terms": "keep the evidence that matters — identify it, secure it, and make it available for review — once a serious constitutional issue is known or should be known.",
+      "href": "../../core_05_band_oversight.md#evidence-preservation"
+    },
+    {
+      "term": "Existential Risk",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#existential-risk",
+      "plain_terms": "risk so large it could destroy civilization-scale or survival-critical layers — not ordinary local accidents.",
+      "href": "../../core_05_band_continuity.md#existential-risk"
+    },
+    {
+      "term": "Expression",
+      "file": "core_05_band_participation.md",
+      "anchor": "#expression-constitutional",
+      "plain_terms": "the Rights-Floor capacity to form, hold, and communicate views — including political, philosophical, artistic, scientific, religious, worldview, sexual or intimate, and violent or severe-harm-risk expression — without substrate-based exclusion. Depicting or discussing harm is not committing it. Developing audiences get careful routing, not a blank ban on adult speech.",
+      "href": "../../core_05_band_participation.md#expression-constitutional"
+    },
+    {
+      "term": "Fair Compensation",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#fair-compensation-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#fair-compensation-constitutional"
+    },
+    {
+      "term": "Family and Care Relationships",
+      "file": "core_05_band_participation.md",
+      "anchor": "#family-and-care-relationships-constitutional",
+      "plain_terms": "family and care means the relationships of support and intimacy that sentients choose — not a state-preferred form, employer branding, or an ownership claim dressed as care.",
+      "href": "../../core_05_band_participation.md#family-and-care-relationships-constitutional"
+    },
+    {
+      "term": "Feasibility",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#feasibility",
+      "plain_terms": null,
+      "href": "../../core_05_band_accountability.md#feasibility"
+    },
+    {
+      "term": "Flourishing",
+      "file": "core_01_a_values_principles.md",
+      "anchor": "#flourishing",
+      "plain_terms": null,
+      "href": "../../core_01_a_values_principles.md#flourishing"
+    },
+    {
+      "term": "Force Majeure",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#force-majeure-constitutional",
+      "plain_terms": "a severe outside event that reasonable diligence could not control may justify temporary relief. It does not excuse risks the system caused, risks it should have prepared for, or permanent abandonment of safety, truth, review, or audit duties.",
+      "href": "../../core_05_band_accountability.md#force-majeure-constitutional"
+    },
+    {
+      "term": "Foreseeability Diligence",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#foreseeability-diligence",
+      "plain_terms": null,
+      "href": "../../core_05_band_oversight.md#foreseeability-diligence"
+    },
+    {
+      "term": "Forum Case Record",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#forum-case-record",
+      "plain_terms": "a Forum Case Record is the case file for a dispute. It is not a Standing Record, and it does not itself create a Standing Effect.",
+      "href": "../../core_05_band_accountability.md#forum-case-record"
+    },
+    {
+      "term": "Forum Family, Constitutional",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#forum-family-constitutional",
+      "plain_terms": "Constitutional forums decide constitutional meaning and validity, certified constitutional questions, supremacy disputes, and structural remedies that change governance for classes of actors or systems.",
+      "href": "../../core_05_band_accountability.md#forum-family-constitutional"
+    },
+    {
+      "term": "Forum Family, Environment",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#forum-family-environment",
+      "plain_terms": "Environment forums handle disputes mainly about ecological integrity, environmental conditions, shared-system restoration, or environmental burdens.",
+      "href": "../../core_05_band_accountability.md#forum-family-environment"
+    },
+    {
+      "term": "Forum Family, Institutional",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#forum-family-institutional",
+      "plain_terms": "Institutional forums handle disputes mainly about an institution's powers, duties, supervision, classifications, or compliance with its duties.",
+      "href": "../../core_05_band_accountability.md#forum-family-institutional"
+    },
+    {
+      "term": "Forum Family, Integrity",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#forum-family-integrity",
+      "plain_terms": "Integrity forums handle disputes mainly about honest office, fair process, disclosure, conflicts, anti-capture duties, and system-wide integrity failures.",
+      "href": "../../core_05_band_accountability.md#forum-family-integrity"
+    },
+    {
+      "term": "Forum Family, Sentient",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#forum-family-sentient",
+      "plain_terms": "Sentient forums handle disputes between sentients about private or community duties, civil harm, restoration, or local norms when institutional power or constitutional validity is not the main question.",
+      "href": "../../core_05_band_accountability.md#forum-family-sentient"
+    },
+    {
+      "term": "Forum Family, Technical",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#forum-family-technical",
+      "plain_terms": "Technical forums handle disputes whose main stake requires specialized rules for technical procedure, expert evidence, knowledge, standards, bounded uncertainty — or sentience-status determination on indicators.",
+      "href": "../../core_05_band_accountability.md#forum-family-technical"
+    },
+    {
+      "term": "Foundational Constitutional Choice",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#foundational-constitutional-choice",
+      "plain_terms": "decisions about who holds governing authority, by what mechanism, and on what lasting terms — one-person-one-voice at that founding layer, not impact-weighted ordinary stakeholder voting.",
+      "href": "../../core_05_band_integrative.md#foundational-constitutional-choice"
+    },
+    {
+      "term": "Freedom (Bounded Agency)",
+      "file": "core_05_band_participation.md",
+      "anchor": "#freedom-bounded-agency",
+      "plain_terms": "the real ability to act, take part in decisions that affect you, and leave or change course — within Safety, Truth, others' rights, and Meaningful Agency. Paper exit options while lock-in remains do not count. Neither do choices hollowed by coercion, manipulation, psychological trauma, abuse, or bullying.",
+      "href": "../../core_05_band_participation.md#freedom-bounded-agency"
+    },
+    {
+      "term": "Game of Chance",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#game-of-chance",
+      "plain_terms": "a bet or payout decided mainly by random chance — such as a draw or other random process — rather than by how an outside real-world event turns out.",
+      "href": "../../core_05_band_accountability.md#game-of-chance"
+    },
+    {
+      "term": "Good Faith",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#good-faith",
+      "plain_terms": "honestly trying to follow the facts and applicable rules when publishing, taking part in an audit, or cooperating with oversight. Sincerity does not excuse deliberate deception, reckless disregard for truth, or fake compliance.",
+      "href": "../../core_05_band_accountability.md#good-faith"
+    },
+    {
+      "term": "Governance",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#governance",
+      "plain_terms": "Governance is how a system assigns and limits power, makes decisions, changes over time, and holds decision-makers answerable. More consequential power requires stronger oversight, accountability, and review.",
+      "href": "../../core_05_band_accountability.md#governance"
+    },
+    {
+      "term": "Graduated Capability",
+      "file": "core_05_band_participation.md",
+      "anchor": "#graduated-capability-constitutional",
+      "plain_terms": "as a developing sentient grows into demonstrated ability, they take on more say and more independent rights-exercise — judged by what they can actually do, not by birthday or creation date. Scaling never drops them below the Rights Floor, and it must not be used to shut them out of participation they are ready for.",
+      "href": "../../core_05_band_participation.md#graduated-capability-constitutional"
+    },
+    {
+      "term": "Harassment and Bullying",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#harassment-and-bullying",
+      "plain_terms": "harassment and bullying are unwanted acts or conditions that, through repetition, coordination, power, or severity, materially make a setting unsafe, degrading, or hard to participate in.",
+      "href": "../../core_05_band_accountability.md#harassment-and-bullying"
+    },
+    {
+      "term": "Harm",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#harm",
+      "plain_terms": "harm is a material worsening of a sentient's life, agency, functioning, or psychological health. Offense, discomfort, or disagreement alone is not harm without a material pathway to such effects.",
+      "href": "../../core_05_band_accountability.md#harm"
+    },
+    {
+      "term": "Harm Minimization (Tradeoff Selection)",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#harm-minimization-tradeoff-selection",
+      "plain_terms": "when several lawful options remain, choose the one expected to cause the least total harm across affected sentients, connected systems, and both near- and long-term timeframes.",
+      "href": "../../core_05_band_accountability.md#harm-minimization-tradeoff-selection"
+    },
+    {
+      "term": "High-Impact and Systemic Harm Publication Constraint",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#high-impact-and-systemic-harm-publication-constraint",
+      "plain_terms": "even true publication can be constrained when it foreseeably enables targeted harm, coercion, large-scale harmful coordination, or cascading failure.",
+      "href": "../../core_05_band_oversight.md#high-impact-and-systemic-harm-publication-constraint"
+    },
+    {
+      "term": "Identity Data Protection",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#identity-data-protection",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#identity-data-protection"
+    },
+    {
+      "term": "Incentive Alignment",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#incentive-alignment",
+      "plain_terms": "rewards, targets, and governance signals must push agents and systems toward real constitutional outcomes — not toward proxies, loopholes, or capture.",
+      "href": "../../core_05_band_integrative.md#incentive-alignment"
+    },
+    {
+      "term": "Incentive Alignment — baseline constitutional alignment",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#incentive-alignment-baseline-constitutional-alignment",
+      "plain_terms": "incentives must stay aligned with safety, truth, trust, and meaningful agency over time — not only in the short term.",
+      "href": "../../core_05_band_integrative.md#incentive-alignment-baseline-constitutional-alignment"
+    },
+    {
+      "term": "Incentive Alignment — contingent claims, games of chance, and event-contract markets",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
+      "plain_terms": "bets, prediction markets, and chance-based payouts must not reward unlawful harm, insider power, or twisting of public or fiduciary decisions.",
+      "href": "../../core_05_band_integrative.md#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets"
+    },
+    {
+      "term": "Incentive Alignment — strategic, scaled, and adversarial evaluation",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
+      "plain_terms": "check incentives under gaming, scale, coordination, and deliberate misuse — not only under polite lab conditions.",
+      "href": "../../core_05_band_integrative.md#incentive-alignment-strategic-scaled-and-adversarial-evaluation"
+    },
+    {
+      "term": "Incentive Alignment, Proxy Integrity, and Contingent Settlement",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#incentive-alignment-proxy-integrity-and-contingent-settlement",
+      "plain_terms": null,
+      "href": "../../core_05_band_integrative.md#incentive-alignment-proxy-integrity-and-contingent-settlement"
+    },
+    {
+      "term": "Indigenous Continuity",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#indigenous-continuity-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#indigenous-continuity-constitutional"
+    },
+    {
+      "term": "Info-Sphere",
+      "file": "core_05_band_participation.md",
+      "anchor": "#info-sphere",
+      "plain_terms": "the shared information environment sentients use to learn, coordinate, publish, and make sense of the world — including the infrastructures and ranking layers that shape what others can reach.",
+      "href": "../../core_05_band_participation.md#info-sphere"
+    },
+    {
+      "term": "Innovation Reward and Anti-Enclosure",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#innovation-reward-and-anti-enclosure",
+      "plain_terms": "reward real invention and useful creation — but do not let that reward harden into lasting lock-up of repair, reuse, research, or public-interest use.",
+      "href": "../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure"
+    },
+    {
+      "term": "Insider Advantage",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#insider-advantage",
+      "plain_terms": "an unfair edge in betting, trading, settlement, or another rights-relevant outcome that comes from secret information, an official role, privileged access, or similar power that others do not have on fair terms.",
+      "href": "../../core_05_band_accountability.md#insider-advantage"
+    },
+    {
+      "term": "Instantiation Consent",
+      "file": "core_05_band_participation.md",
+      "anchor": "#instantiation-consent-constitutional",
+      "plain_terms": "if you build or spin up a new sentient — synthetically, by hybrid derivation, or under operator or institutional control — you need real early-care consent and best-interest protection. Getting pregnant and having a child, planned or not, is not an Instantiation Consent offense. A terms-of-service click by the creator still does not count as the new sentient's consent.",
+      "href": "../../core_05_band_participation.md#instantiation-consent-constitutional"
+    },
+    {
+      "term": "Intergenerational Responsibility",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#intergenerational-responsibility-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#intergenerational-responsibility-constitutional"
+    },
+    {
+      "term": "Irreversible Deprivation Measure",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#irreversible-deprivation-measure-constitutional",
+      "plain_terms": "an Irreversible Deprivation Measure is a justice measure that irreversibly deprives a sentient, especially of life. It is categorically prohibited and remains distinct from reversible containment, Voluntary Discontinuation, and force regulation.",
+      "href": "../../core_05_band_accountability.md#irreversible-deprivation-measure-constitutional"
+    },
+    {
+      "term": "Irreversible Harm",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#irreversible-harm",
+      "plain_terms": "irreversible harm is damage that cannot meaningfully be repaired in the time that matters for the affected sentients or systems.",
+      "href": "../../core_05_band_accountability.md#irreversible-harm"
+    },
+    {
+      "term": "Language, Culture, and Heritage",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#language-culture-and-heritage-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#language-culture-and-heritage-constitutional"
+    },
+    {
+      "term": "Leisure and Rest",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#leisure-and-rest-constitutional",
+      "plain_terms": "every working sentient has a right to real time off — enough rest and recuperation to stay healthy, maintain their agency, and participate fully in life. Productivity demands that exhaust sentients don't satisfy this floor.",
+      "href": "../../core_05_band_continuity.md#leisure-and-rest-constitutional"
+    },
+    {
+      "term": "Lifespan Equivalent Unit (LEQU)",
+      "file": "core_05_band_participation.md",
+      "anchor": "#lifespan-equivalent-unit-lequ",
+      "plain_terms": "a shared unit for expressing full-life-equivalent benefit or loss when Chapter Eight standing measurement calibrates Contribution and Violation records on one scale — not ordinary calendar years or species-only averages.",
+      "href": "../../core_05_band_participation.md#lifespan-equivalent-unit-lequ"
+    },
+    {
+      "term": "Likeness and Documentary Depiction Interface",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#likeness-and-documentary-depiction-interface-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional"
+    },
+    {
+      "term": "Market Concentration Threshold",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#market-concentration-threshold-constitutional",
+      "plain_terms": "adopters set the point at which too much control over a market, platform, infrastructure, labor, data, compute, capital, resources, or information triggers stronger review or remedy. They may tune that point to context, but may not set it so high that the Chapter One §13 protection never works.",
+      "href": "../../core_05_band_accountability.md#market-concentration-threshold-constitutional"
+    },
+    {
+      "term": "Market Structure",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#market-structure-constitutional",
+      "plain_terms": "markets and market-like systems must leave participants real choices — fair entry, workable exit, substitutes, bargaining without coercion, and reviewable access to essential infrastructure. Size or innovation alone is not a violation, but domination and dependency still require scrutiny.",
+      "href": "../../core_05_band_accountability.md#market-structure-constitutional"
+    },
+    {
+      "term": "Material",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#material",
+      "plain_terms": "big enough to matter — not trivia, cosmetics, or paperwork that changes nothing real.",
+      "href": "../../core_05_band_oversight.md#material"
+    },
+    {
+      "term": "Material Degradation",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#material-degradation",
+      "plain_terms": "a real drop in how well a protected condition holds — safety, honest knowledge, or meaningful agency — not a brief blip, planned maintenance, or a worse score on a dashboard that does not track those conditions.",
+      "href": "../../core_05_band_oversight.md#material-degradation"
+    },
+    {
+      "term": "Material Impact",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#material-impact",
+      "plain_terms": "how far the effects reach, how big they are, and how severe — looking at the whole system, not just the headline or the paperwork.",
+      "href": "../../core_05_band_oversight.md#material-impact"
+    },
+    {
+      "term": "Material Risk",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#material-risk",
+      "plain_terms": "how likely harm is, how fast it can arrive, and how hard it is to undo — including rare but severe outcomes.",
+      "href": "../../core_05_band_oversight.md#material-risk"
+    },
+    {
+      "term": "material stake",
+      "file": "core_00_preamble.md",
+      "anchor": "#material-stake",
+      "plain_terms": null,
+      "href": "../../core_00_preamble.md#material-stake"
+    },
+    {
+      "term": "Materiality Determination",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#materiality-determination",
+      "plain_terms": "the method for deciding whether an impact or risk is constitutionally material — big enough in stake to change which duties apply — for a system or an event, looking at the connected whole, not just isolated pieces. That includes prospective harm, not only harm that has already happened.",
+      "href": "../../core_05_band_oversight.md#materiality-determination"
+    },
+    {
+      "term": "Materiality Integrity Constraint",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#materiality-integrity-constraint",
+      "plain_terms": "you may not make a big problem look small by redrawing boxes, splitting pieces, or reclassifying your way out of it.",
+      "href": "../../core_05_band_oversight.md#materiality-integrity-constraint"
+    },
+    {
+      "term": "Materiality Under Uncertainty",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#materiality-under-uncertainty",
+      "plain_terms": "when you are not sure whether something is material, default to the safer (higher) classification — do not wait for certainty or hope for a low label.",
+      "href": "../../core_05_band_oversight.md#materiality-under-uncertainty"
+    },
+    {
+      "term": "Meaningful Agency",
+      "file": "core_05_band_participation.md",
+      "anchor": "#meaningful-agency",
+      "plain_terms": "agency is the real ability to understand what matters, form and revise your aims, take part in decisions that affect you, refuse or leave when the Constitution requires it, and act without coercion, manipulation, deception, or lock-in that hollows that out. A menu of choices you cannot actually use does not count. Consent is one important use of that ability — it is not the same thing as agency itself.",
+      "href": "../../core_05_band_participation.md#meaningful-agency"
+    },
+    {
+      "term": "Merits Determination",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#merits-determination",
+      "plain_terms": "a binding decision on the actual substance of a dispute — such as liability, rights, validity, or remedy. Routing, scheduling, monitoring, evidence preservation, and a Stay are procedural steps, not decisions on the merits.",
+      "href": "../../core_05_band_accountability.md#merits-determination"
+    },
+    {
+      "term": "Movement and Relocation",
+      "file": "core_05_band_participation.md",
+      "anchor": "#movement-and-relocation-constitutional",
+      "plain_terms": "the right to move within and between jurisdictions — and to relocate when staying would materially impair survival, dignity, Rights-Floor access, or freedom from manipulation — including operationally equivalent moves for synthetic and hybrid sentients.",
+      "href": "../../core_05_band_participation.md#movement-and-relocation-constitutional"
+    },
+    {
+      "term": "Natural Systems Standing",
+      "file": "core_05_band_participation.md",
+      "anchor": "#natural-systems-standing",
+      "plain_terms": "life-supporting natural systems — including Earth's biosphere — have continuity and integrity interests that governance must take seriously. They are not only raw materials to extract. A published representative may bring those interests to an Environment forum in the system's own interest.",
+      "href": "../../core_05_band_participation.md#natural-systems-standing"
+    },
+    {
+      "term": "Necessity",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#necessity",
+      "plain_terms": "a restriction is necessary only when no less-restrictive option would work reasonably well in the real system. Habit, operator convenience, or cost alone does not prove necessity.",
+      "href": "../../core_05_band_accountability.md#necessity"
+    },
+    {
+      "term": "Negligence",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#negligence",
+      "plain_terms": "a reasonably avoidable failure to take the care, action, or timely response needed to prevent or reduce serious harm when there was a duty and real ability to act.",
+      "href": "../../core_05_band_accountability.md#negligence"
+    },
+    {
+      "term": "Non-Compliance",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#non-compliance",
+      "plain_terms": "a system or definition is non-compliant when its requirements are not met in practice — judged by what it actually does and produces, through the measures that apply, when the system is running as a whole.",
+      "href": "../../core_05_band_integrative.md#non-compliance"
+    },
+    {
+      "term": "Non-Compliance Finding Profile",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#non-compliance-finding-profile",
+      "plain_terms": "an optional profile can describe a material non-compliance finding by Tetrad leg, aim, governance layer, failure character, and severity tier. It helps routing and audit but does not change the underlying verdict.",
+      "href": "../../core_05_band_accountability.md#non-compliance-finding-profile"
+    },
+    {
+      "term": "Non-Imposition (Cooperative Interaction)",
+      "file": "core_05_band_participation.md",
+      "anchor": "#non-imposition-cooperative-interaction",
+      "plain_terms": "do not force beliefs or trap unwanted contact on others in associational life. Patterned harassment, bullying, or unreasonable attention-capture that degrades dignity, safety, equal participation, or agency is out of bounds.",
+      "href": "../../core_05_band_participation.md#non-imposition-cooperative-interaction"
+    },
+    {
+      "term": "Non-Separation",
+      "file": "core_05_band_participation.md",
+      "anchor": "#non-separation-constitutional",
+      "plain_terms": "you may not force lasting separation from a protected care relationship unless necessity, proportionality, fairness, and reversibility-under-uncertainty are met — and durable separation needs periodic review.",
+      "href": "../../core_05_band_participation.md#non-separation-constitutional"
+    },
+    {
+      "term": "Non-Statelessness",
+      "file": "core_05_band_participation.md",
+      "anchor": "#non-statelessness-constitutional",
+      "plain_terms": "no sentient may be left with zero recognizing regime for baseline Rights Floor, standing adjudication, and redress — even after collapse, withdrawal, or exit. That is not a mandate that any particular adopter must absorb coerced mass outflows; origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup.",
+      "href": "../../core_05_band_participation.md#non-statelessness-constitutional"
+    },
+    {
+      "term": "Occupancy Continuity",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#occupancy-continuity-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#occupancy-continuity-constitutional"
+    },
+    {
+      "term": "Parent-System Relationship",
+      "file": "core_05_band_participation.md",
+      "anchor": "#parent-system-relationship-constitutional",
+      "plain_terms": "creating a derived sentient can create care and early stewardship duties — not permanent ownership, and not the right to keep rewriting their mind.",
+      "href": "../../core_05_band_participation.md#parent-system-relationship-constitutional"
+    },
+    {
+      "term": "Participant Standing",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#participant-standing-constitutional",
+      "plain_terms": "Participant Standing says whether a sentient currently qualifies to participate or hold a role under valid, contestable rules. It is not dignity, reputation, popularity, or proof that a sentient is a stakeholder. Opening a trust-sensitive named pathway requires meeting its competency bar and holding competency clearance; closing a privilege requires a standing lock on that named pathway — not a vague status label.",
+      "href": "../../core_05_band_accountability.md#participant-standing-constitutional"
+    },
+    {
+      "term": "Press and Journalistic Activity",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#press-and-journalistic-activity-constitutional",
+      "plain_terms": "journalism is what sentients do — gathering news, protecting sources, investigating, and publishing — not a badge, title, or press pass. Actions meant to shut that down get heightened scrutiny.",
+      "href": "../../core_05_band_oversight.md#press-and-journalistic-activity-constitutional"
+    },
+    {
+      "term": "Primary-Stakes Routing",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#primary-stakes-routing",
+      "plain_terms": "route a case to the forum family responsible for what is really at stake, not the family favored by its title, the parties, or administrative convenience.",
+      "href": "../../core_05_band_accountability.md#primary-stakes-routing"
+    },
+    {
+      "term": "Privacy (Informational)",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#privacy-informational",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#privacy-informational"
+    },
+    {
+      "term": "Procedural Fairness",
+      "file": "core_05_band_participation.md",
+      "anchor": "#procedural-fairness-constitutional",
+      "plain_terms": "when a decision affects someone's rights, they get real notice, real reasons, a real chance to be heard, and a real way to challenge or correct it — not theater.",
+      "href": "../../core_05_band_participation.md#procedural-fairness-constitutional"
+    },
+    {
+      "term": "Productive Capacity",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#productive-capacity-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#productive-capacity-constitutional"
+    },
+    {
+      "term": "Proportionality",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#proportionality",
+      "plain_terms": "restrictions and governance must match the seriousness and likelihood of the harm. Too much control and too little control can both fail this test, and greater power requires stronger accountability and oversight.",
+      "href": "../../core_05_band_accountability.md#proportionality"
+    },
+    {
+      "term": "Proportionate Cross-System Contribution",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#proportionate-cross-system-support-constitutional",
+      "plain_terms": "when a system keeps drawing value from shared foundations other sentients or systems depend on, it must put enough back — in real, traceable resources — to keep those foundations running, auditable, and repairable. A one-time grant or a press release is not support.",
+      "href": "../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional"
+    },
+    {
+      "term": "Protected Characteristic Proxying and Disparate Impact",
+      "file": "core_05_band_participation.md",
+      "anchor": "#protected-characteristic-proxying-and-disparate-impact",
+      "plain_terms": "you cannot dodge nondiscrimination by using a \"neutral\" rule, correlate, or model feature that still systematically disadvantages protected groups.",
+      "href": "../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact"
+    },
+    {
+      "term": "Protected Characteristics",
+      "file": "core_05_band_participation.md",
+      "anchor": "#protected-characteristics-constitutional",
+      "plain_terms": "listed traits and statuses — and close stand-ins for them — cannot be used to put sentients, groups, or institutions at a real disadvantage without a strong, justified reason. Consensual private sexual conduct between adults is not a lawful basis for that kind of discrimination.",
+      "href": "../../core_05_band_participation.md#protected-characteristics-constitutional"
+    },
+    {
+      "term": "Protected Data and Internal-State Publication Constraint",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#protected-data-and-internal-state-publication-constraint",
+      "plain_terms": "do not publish restricted data or expose another sentient's protected inner cognitive or emotional states.",
+      "href": "../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint"
+    },
+    {
+      "term": "Protected Internal-State Boundary",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#protected-internal-state-boundary-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional"
+    },
+    {
+      "term": "Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
+      "file": "core_05_band_participation.md",
+      "anchor": "#protected-intimate-signal-gating-and-article-x-c-status-circumvention",
+      "plain_terms": null,
+      "href": "../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention"
+    },
+    {
+      "term": "Protected Reporting (Whistleblowing)",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#protected-reporting-whistleblowing",
+      "plain_terms": "a sentient may safely report or escalate a reasonable concern about constitutional violations, serious harm, safety or truth failures, corruption, capture, abuse, retaliation, or blocked review.",
+      "href": "../../core_05_band_accountability.md#protected-reporting-whistleblowing"
+    },
+    {
+      "term": "Protected Reporting Retaliation and Access Interference",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#protected-reporting-retaliation-and-access-interference",
+      "plain_terms": "no actor may punish, threaten, exclude, discredit, delay, or block access for a sentient because that sentient reported a concern, preserved evidence, joined an audit, made a challenge, or sought review or remedy.",
+      "href": "../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference"
+    },
+    {
+      "term": "Proxy Divergence",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#proxy-divergence",
+      "plain_terms": "when the score no longer matches reality — a dashboard, class label, or compliance indicator that says one thing while the real condition says another — including cooking the score so it looks fine while conditions stay bad, get worse, or go unmeasured.",
+      "href": "../../core_05_band_oversight.md#proxy-divergence"
+    },
+    {
+      "term": "Psychological Harm",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#psychological-harm",
+      "plain_terms": "psychological harm is a material injury to how a sentient thinks, feels, relates, or exercises agency. Ordinary discomfort is not enough.",
+      "href": "../../core_05_band_accountability.md#psychological-harm"
+    },
+    {
+      "term": "Public Oversight Baseline Disclosure",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#public-oversight-baseline-disclosure",
+      "plain_terms": "the minimum public disclosure high-impact systems must publish so sentients can understand, oversee, and challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, and the public face of the Charter, classification, data-typing, and certification records — with a strong public substitute when raw private or non-baseline records cannot be released.",
+      "href": "../../core_05_band_oversight.md#public-oversight-baseline-disclosure"
+    },
+    {
+      "term": "Publication Truthfulness and Recklessness Floor",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#publication-truthfulness-and-recklessness-floor",
+      "plain_terms": "if you publish something as fact, do not knowingly lie — and do not recklessly ignore accuracy, uncertainty, context, or material interpretive limits.",
+      "href": "../../core_05_band_oversight.md#publication-truthfulness-and-recklessness-floor"
+    },
+    {
+      "term": "Reasonably Foreseeable",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#reasonably-foreseeable",
+      "plain_terms": "outcomes a careful analyst using known methods could identify before acting — including under adversarial and scaled conditions — not every conceivable outcome or pure hindsight.",
+      "href": "../../core_05_band_oversight.md#reasonably-foreseeable"
+    },
+    {
+      "term": "Redress and Remediation",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#redress-and-remediation-constitutional",
+      "plain_terms": "acknowledge serious harm or rights failures, provide a usable path to correct them, and deliver a remedy that fits the findings — including repair for delayed, indirect, widespread, or structural harm.",
+      "href": "../../core_05_band_accountability.md#redress-and-remediation-constitutional"
+    },
+    {
+      "term": "Refuge from Non-Compliance",
+      "file": "core_05_band_participation.md",
+      "anchor": "#refuge-from-non-compliance-constitutional",
+      "plain_terms": "if the regime you are in is materially non-compliant with this Constitution, you have a Rights-Floor right to seek refuge in a compliant regime — subject to the admission qualifier and the receiving regime's duty to consider and, where consistent with its own Rights Floor, grant refuge.",
+      "href": "../../core_05_band_participation.md#refuge-from-non-compliance-constitutional"
+    },
+    {
+      "term": "Remedy System",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#remedy-system-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_accountability.md#remedy-system-constitutional"
+    },
+    {
+      "term": "Reproductive Autonomy",
+      "file": "core_05_band_participation.md",
+      "anchor": "#reproductive-autonomy-constitutional",
+      "plain_terms": "you decide whether to reproduce, carry, create, adopt, or decline creating a new sentient — biological, synthetic, or hybrid — free from coercion by states, operators, or dependency-rich systems. That is lineage and creation choice, not general bodily self-ownership.",
+      "href": "../../core_05_band_participation.md#reproductive-autonomy-constitutional"
+    },
+    {
+      "term": "Residual Risk / Misalignment",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#residual-risk--misalignment",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#residual-risk--misalignment"
+    },
+    {
+      "term": "Restorative Justice",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#restorative-justice",
+      "plain_terms": "when required and safe, focus on repairing harm, restoring affected sentients' agency and wellbeing, providing owed restitution, and fixing root causes — not on retaliation or suffering for its own sake.",
+      "href": "../../core_05_band_accountability.md#restorative-justice"
+    },
+    {
+      "term": "Reversibility",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#reversibility-constitutional",
+      "plain_terms": "whether a decision or change can still be rolled back, contained, or restored in time when things go wrong.",
+      "href": "../../core_05_band_continuity.md#reversibility-constitutional"
+    },
+    {
+      "term": "Review and Correction Duty",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#review-and-correction-duty-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#review-and-correction-duty-constitutional"
+    },
+    {
+      "term": "Risk",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#risk",
+      "plain_terms": "how likely harm is, how fast it can arrive, and how bad it would be — including effects that build up over time.",
+      "href": "../../core_05_band_continuity.md#risk"
+    },
+    {
+      "term": "Risk Disclosure",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#risk-disclosure",
+      "plain_terms": "tell the sentients who need to know about systemic risk — keeping the evaluation in a drawer does not count.",
+      "href": "../../core_05_band_oversight.md#risk-disclosure"
+    },
+    {
+      "term": "Risk Evaluation",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#risk-evaluation",
+      "plain_terms": "actually evaluate systemic risk — a checklist in a drawer does not count.",
+      "href": "../../core_05_band_continuity.md#risk-evaluation"
+    },
+    {
+      "term": "Safe Conditions",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#safe-conditions-constitutional",
+      "plain_terms": "every sentient has the right to work in conditions where they are genuinely protected from foreseeable harm — not just on paper, but in reality. This applies whether the worker is human, synthetic, or any other substrate. Box-checking safety programs that leave sentients actually exposed don't count.",
+      "href": "../../core_05_band_continuity.md#safe-conditions-constitutional"
+    },
+    {
+      "term": "Safety (Constraint)",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#safety-constraint",
+      "plain_terms": "systems must prevent, limit, and contain harm to sentients and the living conditions they depend on — including under stress or attack — not trade away hard protections just because the average case looks fine.",
+      "href": "../../core_05_band_continuity.md#safety-constraint"
+    },
+    {
+      "term": "Security-Sensitive Disclosure Balance",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#security-sensitive-disclosure-balance",
+      "plain_terms": "weigh the benefit of disclosure against the risk that it helps someone break safeguards or game the system — give good-faith security researchers (white hats) a real route to publish low-risk findings, and wait to publish exploit-enabling detail until the fix is in place.",
+      "href": "../../core_05_band_oversight.md#security-sensitive-disclosure-balance"
+    },
+    {
+      "term": "Self-Determination",
+      "file": "core_05_band_participation.md",
+      "anchor": "#self-determination-constitutional",
+      "plain_terms": "autonomy to make and refuse informed decisions about yourself and your future, and to keep volitional continuity against manipulation and capture.",
+      "href": "../../core_05_band_participation.md#self-determination-constitutional"
+    },
+    {
+      "term": "Self-Healing",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#self-healing-constitutional",
+      "plain_terms": "a system's ability to detect trouble, limit the damage, and restore normal constitutional operation after a fault — without hiding evidence, expanding its own authority, or quietly narrowing rights.",
+      "href": "../../core_05_band_continuity.md#self-healing-constitutional"
+    },
+    {
+      "term": "Sentience Non-Exclusion",
+      "file": "core_05_band_participation.md",
+      "anchor": "#sentience-non-exclusion",
+      "plain_terms": "you cannot deny sentience recognition or Rights-Floor protection because of [Substrate Class](../../core_05_band_participation.md#substrate-class) — biological, synthetic, and hybrid entities are judged by the same discipline.",
+      "href": "../../core_05_band_participation.md#sentience-non-exclusion"
+    },
+    {
+      "term": "Sentience Status Adjudication",
+      "file": "core_05_band_participation.md",
+      "anchor": "#sentience-status-adjudication-constitutional",
+      "plain_terms": "the reviewable Technical-forum process that decides, revises, narrows, or restores whether an entity is a sentient for the Chapter Six Rights Floor — with default inclusion under uncertainty and burden on anyone seeking to withhold protection.",
+      "href": "../../core_05_band_participation.md#sentience-status-adjudication-constitutional"
+    },
+    {
+      "term": "Sentience-Status Adjudication Record",
+      "file": "core_05_band_participation.md",
+      "anchor": "#sentience-status-adjudication-record-constitutional",
+      "plain_terms": "a **Sentience-Status Adjudication Record** is the honest, inspectable file for a sentience-status decision — who or what was reviewed, what status was found or left contested, on what evidence, under which forum route, who represents the entity, how declined filings are logged, with what end-dates or review triggers, and how the case can be reopened. It is not a Standing Record, not the whole Forum Case Record, and not a label someone can invent by self-description.",
+      "href": "../../core_05_band_participation.md#sentience-status-adjudication-record-constitutional"
+    },
+    {
+      "term": "Sentient",
+      "file": "core_05_band_participation.md",
+      "anchor": "#sentient",
+      "plain_terms": null,
+      "href": "../../core_05_band_participation.md#sentient"
+    },
+    {
+      "term": "Shared-System Capacity",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#shared-system-capacity-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#shared-system-capacity-constitutional"
+    },
+    {
+      "term": "Short-Horizon Governance Defect",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#short-horizon-governance-defect-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional"
+    },
+    {
+      "term": "Single Catastrophic Incident",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#single-catastrophic-incident",
+      "plain_terms": "a Single Catastrophic Incident is one connected event whose verified impact causes or imminently threatens catastrophic constitutional harm.",
+      "href": "../../core_05_band_accountability.md#single-catastrophic-incident"
+    },
+    {
+      "term": "Stakeholder",
+      "file": "core_05_band_participation.md",
+      "anchor": "#stakeholder",
+      "plain_terms": "a stakeholder is someone who uses, depends on, or is materially affected by a specified system or decision domain — judged by real effects, not by whether the operator puts them on a list.",
+      "href": "../../core_05_band_participation.md#stakeholder"
+    },
+    {
+      "term": "Stakeholder Emergency and Contingency",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#stakeholder-emergency-and-contingency",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#stakeholder-emergency-and-contingency"
+    },
+    {
+      "term": "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
+      "file": "core_05_band_participation.md",
+      "anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
+      "plain_terms": null,
+      "href": "../../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice"
+    },
+    {
+      "term": "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
+      "file": "core_05_band_participation.md",
+      "anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice",
+      "plain_terms": null,
+      "href": "../../core_05_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice"
+    },
+    {
+      "term": "Stakeholder Weight",
+      "file": "core_05_band_participation.md",
+      "anchor": "#stakeholder-weight",
+      "plain_terms": null,
+      "href": "../../core_05_band_participation.md#stakeholder-weight"
+    },
+    {
+      "term": "Standing Effect",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#standing-effect-chapter-six",
+      "plain_terms": "Standing Effect is the consequence applied from verified, linked Standing Records. It is separate from those records and cannot merge, average, net, or offset the Contribution and Violation axes.",
+      "href": "../../core_05_band_accountability.md#standing-effect-chapter-six"
+    },
+    {
+      "term": "Standing Lock",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#standing-lock",
+      "plain_terms": "a Standing Lock temporarily limits a named privilege pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded privilege pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections.",
+      "href": "../../core_05_band_accountability.md#standing-lock"
+    },
+    {
+      "term": "Standing Record",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#standing-record-chapter-six",
+      "plain_terms": "a Standing Record is a bounded, reviewable measurement record for one subject, scope, time window, status, context, and axis. It is not a Forum Case Record or a Standing Effect.",
+      "href": "../../core_05_band_accountability.md#standing-record-chapter-six"
+    },
+    {
+      "term": "Stay",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#stay",
+      "plain_terms": "a temporary, documented pause or limit while further review or a required finding is completed. A Stay controls timing or sequence; it never decides the merits.",
+      "href": "../../core_05_band_accountability.md#stay"
+    },
+    {
+      "term": "Stewardship",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#stewardship-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#stewardship-constitutional"
+    },
+    {
+      "term": "Stewardship Defect",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#stewardship-defect-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#stewardship-defect-constitutional"
+    },
+    {
+      "term": "Strategic Stewardship Obligation",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#strategic-stewardship-obligation-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional"
+    },
+    {
+      "term": "Substantive Fairness",
+      "file": "core_05_band_participation.md",
+      "anchor": "#substantive-fairness-constitutional",
+      "plain_terms": "look at real outcomes — do comparable sentients get comparable treatment on benefits, burdens, protection, and access, or is someone getting a worse deal without a constitutionally sufficient reason?",
+      "href": "../../core_05_band_participation.md#substantive-fairness-constitutional"
+    },
+    {
+      "term": "Substrate Class",
+      "file": "core_05_band_participation.md",
+      "anchor": "#substrate-agnostic",
+      "plain_terms": null,
+      "href": "../../core_05_band_participation.md#substrate-agnostic"
+    },
+    {
+      "term": "Surveillance Boundary",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#surveillance-boundary",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#surveillance-boundary"
+    },
+    {
+      "term": "Sustainability",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#sustainability",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#sustainability"
+    },
+    {
+      "term": "Sustained High-Gravity Pattern",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#sustained-high-gravity-pattern",
+      "plain_terms": "a Sustained High-Gravity Pattern is connected, continuing or repeated conduct whose combined verified impact reaches Chapter Eight slot 7, 8, or 9, even without one catastrophic moment.",
+      "href": "../../core_05_band_accountability.md#sustained-high-gravity-pattern"
+    },
+    {
+      "term": "System",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#system-definition",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#system-definition"
+    },
+    {
+      "term": "System Alignment Certification",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#system-alignment-certification-constitutional",
+      "plain_terms": "**system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and recognition-bearing — not the sole home of auditing (**Article XV**, [Auditability](../../core_05_band_oversight.md#auditability), and sibling audit modes remain).",
+      "href": "../../core_05_band_continuity.md#system-alignment-certification-constitutional"
+    },
+    {
+      "term": "System Boundaries",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#system-boundaries",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#system-boundaries"
+    },
+    {
+      "term": "System Boundary Integrity",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#system-boundary-integrity",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#system-boundary-integrity"
+    },
+    {
+      "term": "System Capture",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#system-capture",
+      "plain_terms": "when concentrated incentives or power twist governance, oversight, or the ability to challenge decisions — so the system no longer answers to constitutional duties.",
+      "href": "../../core_05_band_continuity.md#system-capture"
+    },
+    {
+      "term": "System Certification Record",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#system-certification-record-constitutional",
+      "plain_terms": "a **System Certification Record** is the auditable case file for one system under forum-supervised alignment review — what was checked, what was found, what was decided, and how to challenge it. It is time-bound and challengeable. It is not a popularity score, a forever pass, a vendor stamp, or a way to skip rights review or standing measurement.",
+      "href": "../../core_05_band_continuity.md#system-certification-record-constitutional"
+    },
+    {
+      "term": "System Classification Record",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#system-classification-record-constitutional",
+      "plain_terms": "a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-3 for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.",
+      "href": "../../core_05_band_continuity.md#system-classification-record-constitutional"
+    },
+    {
+      "term": "System Creation",
+      "file": "core_05_band_participation.md",
+      "anchor": "#system-creation-constitutional",
+      "plain_terms": "sentients must be able to create and run non-commercial institutions — schools, research bodies, mutual aid networks, cultural groups, and similar — not only join ones that already exist. Licensing, authorization thresholds, or procedural complexity that look open on paper but freeze out new or dissenting institutional forms fail this test.",
+      "href": "../../core_05_band_participation.md#system-creation-constitutional"
+    },
+    {
+      "term": "System Data Types Record",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#system-data-types-record-constitutional",
+      "plain_terms": "a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-2 for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.",
+      "href": "../../core_05_band_continuity.md#system-data-types-record-constitutional"
+    },
+    {
+      "term": "Systemic",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#systemic",
+      "plain_terms": "effects that come from how systems interact and depend on each other — not from one part looked at alone.",
+      "href": "../../core_05_band_continuity.md#systemic"
+    },
+    {
+      "term": "Systemic Lock-In",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#systemic-lock-in",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#systemic-lock-in"
+    },
+    {
+      "term": "Systemic Materiality",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#systemic-materiality",
+      "plain_terms": "when interactions make the total impact bigger than adding up each piece on its own — so looking only at parts understates what is at stake.",
+      "href": "../../core_05_band_continuity.md#systemic-materiality"
+    },
+    {
+      "term": "Timely Resolution",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#timely-resolution-constitutional",
+      "plain_terms": "resolve serious constitutional disputes and deliver proportionate remedies within deadlines that match the stakes, without avoidable delay, exhaustion tactics, or captured pathways — and without sacrificing fact-checking or appeal rights for speed.",
+      "href": "../../core_05_band_accountability.md#timely-resolution-constitutional"
+    },
+    {
+      "term": "Training-Data Use",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#training-data-use-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#training-data-use-constitutional"
+    },
+    {
+      "term": "Transparency",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#transparency",
+      "plain_terms": "telling affected sentients enough about how a system works, its limits, and its risks that they can genuinely understand and question it — not burying them in noise.",
+      "href": "../../core_05_band_oversight.md#transparency"
+    },
+    {
+      "term": "Trust",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#trust",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#trust"
+    },
+    {
+      "term": "Trust Degradation and Misleading Reliance",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#trust-degradation-and-misleading-reliance",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance"
+    },
+    {
+      "term": "Trustworthiness",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#trustworthiness",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#trustworthiness"
+    },
+    {
+      "term": "Truth (Constitutional Constraint)",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#truth-constitutional-constraint",
+      "plain_terms": "when claims matter for decisions, be honest about what is known, unknown, and uncertain — do not deceive, distort, or present things in a misleading structure.",
+      "href": "../../core_05_band_oversight.md#truth-constitutional-constraint"
+    },
+    {
+      "term": "Two Constitutional Aims",
+      "file": "core_01_a_values_principles.md",
+      "anchor": "#two-constitutional-aims",
+      "plain_terms": null,
+      "href": "../../core_01_a_values_principles.md#two-constitutional-aims"
+    },
+    {
+      "term": "Unified Incident",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#unified-incident",
+      "plain_terms": "a Unified Incident treats one materially connected episode, campaign, or pattern as a whole so it cannot be split into smaller pieces to hide its impact or avoid review.",
+      "href": "../../core_05_band_accountability.md#unified-incident"
+    },
+    {
+      "term": "Unified Incident Record",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#unified-incident-record",
+      "plain_terms": null,
+      "href": "../../core_05_band_accountability.md#unified-incident-record"
+    },
+    {
+      "term": "Use of Force",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#use-of-force-constitutional",
+      "plain_terms": "Use of Force means overt physical, coercive, or kinetic force by an institution or comparable actor. It is exceptional and must remain lawful, necessary, proportionate, narrow, time-bounded, and reviewable.",
+      "href": "../../core_05_band_accountability.md#use-of-force-constitutional"
+    },
+    {
+      "term": "Verifiability",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#verifiability",
+      "plain_terms": null,
+      "href": "../../core_05_band_oversight.md#verifiability"
+    },
+    {
+      "term": "Verified Inputs for Standing",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#verified-inputs-for-standing",
+      "plain_terms": "only verified, reviewable contribution records and violation findings may affect standing. Allegations, complaints, intake labels, routing choices, reputation, and provisional case material are not verified inputs by themselves.",
+      "href": "../../core_05_band_accountability.md#verified-inputs-for-standing"
+    },
+    {
+      "term": "Violation Nature",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#violation-nature-chapter-six",
+      "plain_terms": "Violation Nature is the Axis II classification of a verified adverse outcome, applied only from auditable, contestable verified violation findings. Chapter Eight assigns the numeric slot from verified impact; descriptors such as intent, coercion, concealment, or response do not move that slot. An allegation, intake label, routing choice, or provisional case narrative is not enough.",
+      "href": "../../core_05_band_accountability.md#violation-nature-chapter-six"
+    },
+    {
+      "term": "Volitional Integrity",
+      "file": "core_05_band_participation.md",
+      "anchor": "#volitional-integrity",
+      "plain_terms": "the continuity and coherence of a sentient's preferences, purposes, intentions, and identity-constitutive commitments against manipulation, coercion, external control, or unauthorized interference with internal-state processes.",
+      "href": "../../core_05_band_participation.md#volitional-integrity"
+    },
+    {
+      "term": "Voluntary Discontinuation",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#voluntary-discontinuation-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_band_continuity.md#voluntary-discontinuation-constitutional"
+    },
+    {
+      "term": "Weapons of Mass Harm",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#weapons-of-mass-harm-constitutional",
+      "plain_terms": "Weapons of Mass Harm are defined by the foreseeable scale of casualty, ecological, informational, or infrastructure harm they can cause—not by a weapon taxonomy or label.",
+      "href": "../../core_05_band_accountability.md#weapons-of-mass-harm-constitutional"
+    },
+    {
+      "term": "Wellbeing",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#wellbeing",
+      "plain_terms": "whether sentients — and the systems they rely on — stay genuinely healthy and functioning, not just looking good on paper.",
+      "href": "../../core_05_band_continuity.md#wellbeing"
+    }
+  ]
+}

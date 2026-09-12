@@ -86,3 +86,4 @@ See: [Non-Separation](../../../core_05_band_participation.md#non-separation-cons
 
 - Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
 - Sibling briefs: [`README.md`](README.md) — [E03](E03_teen.md) if the closed door is “you’re old enough to know better, but not to decide”; [E02](E02_single_parent.md) if you are reading this as a carer
+- Operators only (not an answer key): lived packet [`../../../evaluation/lived_situations/packets/S03_tween_voice_optional.md`](../../../evaluation/lived_situations/packets/S03_tween_voice_optional.md)

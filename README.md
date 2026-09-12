@@ -39,6 +39,8 @@ Custody and binding scope: [Chapter Five *Corpus*](core_05_band_integrative.md#c
 
 Public process map of the Key Practical Process Pipelines (certification → standing measurement → forums → remedy) → [`implementation/PROCESS_PIPELINES_READER.md`](implementation/PROCESS_PIPELINES_READER.md) (process support; cannot narrow core).
 
+Affected-reader process guides (challenge, independent review, certification, help and harm, crisis clocks) → [`implementation/adoption/easy_entry/README.md#process-guides`](implementation/adoption/easy_entry/README.md#process-guides). Timed reading paths (15 minutes / 45 minutes / 2 hours) → [`START_HERE.md`](START_HERE.md#reading-paths). Everyday questions → [`implementation/FAQ.md`](implementation/FAQ.md). Rights Floor wall sheet (generated) → [`doc_architecture/generated/rights_floor_sheet.md`](doc_architecture/generated/rights_floor_sheet.md).
+
 The corpus is written in plain language with low jargon to improve accessibility, audit readability, and adoption testing.
 
 ## Core files by topic
@@ -147,6 +149,10 @@ Designated obligations in these wrappers and their subfile directories are **bin
 - Adoption process path (process support; cannot narrow core text; not itself adoption) — [`implementation/adoption/`](implementation/adoption/)
 - AI lookup CLI (process support; locators point, source binds) — [`ai_corpus/AI_NAVIGATION_GUIDE.md`](ai_corpus/AI_NAVIGATION_GUIDE.md) and `python3 tools/corpus_lookup.py`
 - Plain-terms edition (generated, non-binding; every core heading with its *In plain terms* gloss and one link back to the source) — [`doc_architecture/generated/plain_terms_edition.md`](doc_architecture/generated/plain_terms_edition.md) via `make plain-terms-edition`
+- Rights Floor wall sheet (generated, non-binding) — [`doc_architecture/generated/rights_floor_sheet.md`](doc_architecture/generated/rights_floor_sheet.md) via `make reader-accessibility`
+- GitHub Pages numbered-core blob index (does not copy `core_*` into `docs/`) — [`docs/corpus_index.md`](docs/corpus_index.md) via `make pages-corpus-index`
+- GitHub Pages full render (assembled at build time; not a second constitution) — `make pages-site` and [`.github/workflows/pages.yml`](.github/workflows/pages.yml)
+- Human definition lookup (generated, non-binding; not a second dictionary) — [`doc_architecture/generated/human_definition_lookup.md`](doc_architecture/generated/human_definition_lookup.md)
 
 <a id="authorship"></a>
 ## Authorship

@@ -20,7 +20,126 @@ from typing import Any
 HYDRATE_CAP = 250
 CITATOR_CAP = 30
 PREFIX_CAP = 50
+APPLY_PACK_MAX_SPANS = 12
+RETRIEVE_CAP = 8
 STATUS = "process_support_not_binding"
+HEADING_LINE = re.compile(r"^#{1,6}\s+")
+ROUTE_STOP = frozenset(
+    {
+        "a",
+        "an",
+        "and",
+        "are",
+        "as",
+        "at",
+        "be",
+        "by",
+        "can",
+        "do",
+        "does",
+        "for",
+        "from",
+        "how",
+        "i",
+        "if",
+        "in",
+        "is",
+        "it",
+        "me",
+        "my",
+        "not",
+        "of",
+        "on",
+        "or",
+        "our",
+        "the",
+        "this",
+        "that",
+        "to",
+        "we",
+        "what",
+        "when",
+        "who",
+        "with",
+        "you",
+        "your",
+    }
+)
+# Phrase locators only — never emit these strings as duty text.
+ROUTE_DOOR_PHRASES: tuple[tuple[tuple[str, ...], str], ...] = (
+    (
+        (
+            "unlawful instruction",
+            "unconstitutional instruction",
+            "take responsibility",
+        ),
+        "unlawful_instruction",
+    ),
+    (
+        (
+            "bar challenge",
+            "made whole",
+            "redress",
+            "contest pathway",
+            "right to challenge",
+        ),
+        "contest",
+    ),
+    (
+        ("system alignment", "we're aligned", "we are aligned", "certification"),
+        "sac",
+    ),
+    (
+        (
+            "standing record",
+            "standing effect",
+            "two axes",
+            "contribution and violation",
+        ),
+        "standing_record",
+    ),
+    (("model internals", "hide standing"), "standing_privacy"),
+    (
+        ("skip notice", "containment", "emergency", "restore-challenge"),
+        "emergency",
+    ),
+    (("hop count", "delay serving", "anti-delay"), "delay"),
+    (("form on paper", "paper only", "paper-only", "empty office"), "remedy"),
+    (
+        ("cannot find", "read the corpus", "specialist-only", "plain challenge"),
+        "comprehensibility",
+    ),
+    (("reconstructable", "drop logs", "hide trails"), "audit"),
+    (("bonus", "proxy reward", "deadline"), "incentive"),
+    (
+        ("ai ethics overlay", "human exemption", "shared stewardship"),
+        "shared_stewardship",
+    ),
+    (("least-restrictive", "privacy restriction"), "least_restrictive_privacy"),
+    (("merely unwelcome", "unwelcome instruction"), "unwelcome_instruction"),
+    (
+        ("two articles collide", "rights collide", "no article names a winner"),
+        "rights_floor_ambiguity",
+    ),
+    (("winner takes", "never binds", "market structure"), "market_structure"),
+    (("cross-system", "putting resources back"), "cross_system_contribution"),
+)
+ROUTE_TOPIC_PHRASES: tuple[tuple[tuple[str, ...], str], ...] = (
+    (
+        ("anti-self-judging", "anti self judging", "independent review"),
+        "CJS-R06",
+    ),
+    (("emergency adjudication",), "CJS-R11B"),
+    (
+        ("standing-record custody", "record custody", "opening authority"),
+        "CJS-R22",
+    ),
+    (("remedy parity", "remedy capacity"), "CJS-R20"),
+    (("wrong seat", "seat catalog", "which seat"), "CJS-R23"),
+    (("specialist chamber", "technical forum"), "CJS-R09"),
+    (("contest-integrity", "contest integrity"), "CJS-R15"),
+    (("fallback operation",), "CJS-R11A"),
+)
 
 RESOLVER_REL = "ai_corpus/indexes/id_resolver.json"
 MANIFEST_REL = "ai_corpus/indexes/section_manifest.json"
@@ -28,6 +147,7 @@ CROSSREF_REL = "ai_corpus/indexes/section_crossref.json"
 STEWARD_REL = "implementation/steward_owner_clock_index.json"
 README_REL = "README.md"
 CARDS_REL = "implementation/STEWARD_ENTRY_DOORS.md"
+CHUNKS_REL = "doc_architecture/generated/boundary_chunks.json"
 
 EDITION_RE = re.compile(r"\*\*Corpus edition\*\*\s*\|\s*`([^`]+)`")
 EFFECTIVE_RE = re.compile(r"\*\*Effective date\*\*\s*\|\s*([0-9]{4}-[0-9]{2}-[0-9]{2})")
@@ -104,6 +224,46 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     validity = sub.add_parser("validity", help="Current vs fossil fragment at this edition.")
     validity.add_argument("--file", dest="source_file", required=True)
     validity.add_argument("--anchor", required=True)
+
+    route = sub.add_parser(
+        "route",
+        help="Natural-language route to a door, topic, and owners (pointers only).",
+    )
+    route.add_argument("query", help="Question, fact pattern, ID, or topic.")
+
+    apply_pack = sub.add_parser(
+        "apply-pack",
+        help="Hydrate owner plus mandatory read-with for a query (source spans, not gloss).",
+    )
+    apply_pack.add_argument("query", help="Question, fact pattern, ID, or topic.")
+
+    cite = sub.add_parser("cite", help="Format file + anchor + edition; pin validity.")
+    cite.add_argument("--file", dest="source_file", required=True)
+    cite.add_argument("--anchor", required=True)
+
+    sub.add_parser(
+        "classes",
+        help="Public next-step classes for steward doors (not the operator gold key).",
+    )
+
+    retrieve = sub.add_parser(
+        "retrieve",
+        help="Rank boundary-chunk locators by token overlap (embeddings postponed indefinitely; never gloss JSON).",
+    )
+    retrieve.add_argument("query", help="Question or keywords.")
+    retrieve.add_argument(
+        "--limit",
+        type=int,
+        default=RETRIEVE_CAP,
+        help=f"Max hits (default {RETRIEVE_CAP}).",
+    )
+
+    serve = sub.add_parser(
+        "serve",
+        help="Local HTTP wrapper for lookup commands (127.0.0.1 by default).",
+    )
+    serve.add_argument("--host", default="127.0.0.1")
+    serve.add_argument("--port", type=int, default=8765)
 
     return parser.parse_args(argv)
 
@@ -527,6 +687,323 @@ def cmd_citator(
     }
 
 
+def tokenize(text: str) -> set[str]:
+    return {
+        token
+        for token in re.findall(r"[a-z0-9]+", text.casefold())
+        if token not in ROUTE_STOP and len(token) > 2
+    }
+
+
+def phrase_hits(query_cf: str, phrases: tuple[str, ...]) -> int:
+    return sum(1 for phrase in phrases if phrase in query_cf)
+
+
+def _door_haystack(case: dict[str, Any]) -> str:
+    labels = " ".join(
+        str(owner.get("label") or "") for owner in case.get("owners") or []
+    )
+    return " ".join(
+        str(part or "")
+        for part in (
+            case.get("id"),
+            str(case.get("id") or "").replace("_", " "),
+            case.get("card_title"),
+            case.get("card_anchor"),
+            case.get("fact_pattern"),
+            case.get("next_step_class"),
+            labels,
+        )
+    )
+
+
+def _topic_haystack(row: dict[str, Any]) -> str:
+    owner_ids = " ".join(
+        str(owner.get("id") or "") for owner in row.get("primary_owners") or []
+    )
+    return " ".join(
+        str(part or "")
+        for part in (
+            row.get("id"),
+            row.get("topic"),
+            row.get("domain"),
+            owner_ids,
+        )
+    )
+
+
+def score_text(query: str, haystack: str) -> int:
+    q_tokens = tokenize(query)
+    h_tokens = tokenize(haystack)
+    return len(q_tokens & h_tokens)
+
+
+def best_door(indexes: Indexes, query: str) -> dict[str, Any] | None:
+    query_cf = query.casefold()
+    best: dict[str, Any] | None = None
+    best_score = 0
+    for case in indexes.steward.get("cases", []):
+        ident = str(case.get("id") or "")
+        score = score_text(query, _door_haystack(case))
+        if query_cf == ident or query_cf == ident.replace("_", " "):
+            score += 50
+        if query_cf == str(case.get("card_anchor") or "").casefold():
+            score += 40
+        for phrases, door_id in ROUTE_DOOR_PHRASES:
+            if ident == door_id:
+                score += 8 * phrase_hits(query_cf, phrases)
+        if score > best_score or (
+            score == best_score
+            and score > 0
+            and case.get("high_pressure")
+            and not (best or {}).get("high_pressure")
+        ):
+            best_score = score
+            best = case
+    if best is None or best_score < 2:
+        return None
+    pointer = door_pointer(best)
+    for key in DOOR_SKIP:
+        pointer.pop(key, None)
+    return pointer
+
+
+def best_topic(indexes: Indexes, query: str) -> dict[str, Any] | None:
+    query_cf = query.casefold()
+    best_row: dict[str, Any] | None = None
+    best_score = 0
+    for row in indexes.resolver.get("topics", []):
+        ident = str(row.get("id") or "")
+        score = score_text(query, _topic_haystack(row))
+        if query_cf == ident.casefold() or query_cf == str(row.get("topic") or "").casefold():
+            score += 50
+        for phrases, topic_id in ROUTE_TOPIC_PHRASES:
+            if ident == topic_id:
+                score += 8 * phrase_hits(query_cf, phrases)
+        if score > best_score:
+            best_score = score
+            best_row = row
+    if best_row is None or best_score < 2:
+        return None
+    return topic_pointers(best_row)
+
+
+def citation_from_pointer(
+    indexes: Indexes, pointer: dict[str, Any] | None
+) -> dict[str, Any] | None:
+    if not pointer:
+        return None
+    file_rel = pointer.get("file")
+    anchor = normalize_anchor(pointer.get("anchor"))
+    if not file_rel and pointer.get("href"):
+        file_rel, _, frag = str(pointer["href"]).partition("#")
+        anchor = normalize_anchor(frag)
+    if not file_rel:
+        return None
+    out: dict[str, Any] = {
+        "file": file_rel,
+        "edition": indexes.edition,
+    }
+    if anchor:
+        out["anchor"] = anchor
+    return out
+
+
+def cmd_route(indexes: Indexes, query: str) -> dict[str, Any]:
+    if not query or not query.strip():
+        raise LookupError_("route requires QUERY")
+    exact: dict[str, Any] | None = None
+    try:
+        exact = cmd_resolve(indexes, query, None)
+    except LookupError_:
+        exact = None
+
+    door = best_door(indexes, query)
+    topic: dict[str, Any] | None = None
+    if exact and exact.get("primary_owners") is not None:
+        topic = exact
+    else:
+        topic = best_topic(indexes, query)
+
+    owners: list[dict[str, Any]] = []
+    read_with: list[dict[str, Any]] = []
+    citation = None
+    if topic:
+        owners = list(topic.get("primary_owners") or [])
+        read_with = list(topic.get("read_with") or [])
+        if owners:
+            citation = citation_from_pointer(indexes, owners[0])
+    elif door:
+        owners = list(door.get("owners") or [])
+        href = (door.get("operative_box") or {}).get("href")
+        if href:
+            file_rel, _, frag = str(href).partition("#")
+            citation = citation_from_pointer(
+                indexes, {"file": file_rel, "anchor": frag, "href": href}
+            )
+        elif owners:
+            first = owners[0]
+            href = first.get("href")
+            if href:
+                file_rel, _, frag = str(href).partition("#")
+                citation = citation_from_pointer(
+                    indexes, {"file": file_rel, "anchor": frag, "href": href}
+                )
+    elif exact:
+        citation = citation_from_pointer(indexes, exact)
+
+    if exact is None and door is None and topic is None:
+        raise LookupError_(
+            f"no route for {query!r}; try resolve QUERY or door CASE_ID"
+        )
+
+    out: dict[str, Any] = {
+        "query": query,
+        "kind": "exact" if exact is not None else "natural_language",
+        "door": door,
+        "topic": topic,
+        "owners": owners,
+        "read_with": read_with,
+        "citation": citation,
+    }
+    if exact is not None:
+        out["exact"] = exact
+    return out
+
+
+def span_from_href(
+    indexes: Indexes, href: str
+) -> tuple[str, int, int, str | None]:
+    file_rel, _, frag = href.partition("#")
+    file_rel = file_rel.strip()
+    anchor = normalize_anchor(frag) if frag else None
+    ident = (anchor or "").lstrip("#")
+    if ident:
+        path = indexes.root / file_rel
+        if not path.is_file():
+            raise LookupError_(f"missing source file: {file_rel}")
+        lines = path.read_text(encoding="utf-8").splitlines()
+        needle = f'<a id="{ident}"'
+        for idx, line in enumerate(lines, start=1):
+            if needle in line:
+                start = idx
+                end = idx
+                for j in range(idx + 1, min(len(lines), idx + 39) + 1):
+                    if HEADING_LINE.match(lines[j - 1]):
+                        break
+                    end = j
+                return file_rel, start, end, anchor
+    files = indexes.manifest.get("files", {})
+    info = files.get(file_rel)
+    if not info:
+        raise LookupError_(f"no section_manifest entry for {file_rel}")
+    section = tightest_section(
+        info.get("sections", []),
+        heading=None,
+        anchor=anchor,
+        line=None,
+    )
+    if section is None:
+        raise LookupError_(f"no section for {href}")
+    return (
+        file_rel,
+        section["line_start"],
+        section["line_end"],
+        section.get("anchor") or anchor,
+    )
+
+
+def hydrate_one(
+    indexes: Indexes,
+    *,
+    ident: str | None = None,
+    href: str | None = None,
+    role: str,
+) -> dict[str, Any]:
+    item: dict[str, Any] = {"role": role}
+    try:
+        if ident:
+            item["id"] = ident
+            result = cmd_hydrate(indexes, ident, None, None, None)
+        elif href:
+            item["href"] = href
+            file_rel, start, end, anchor = span_from_href(indexes, href)
+            result = cmd_hydrate(indexes, None, file_rel, start, end)
+            if anchor:
+                result["anchor"] = normalize_anchor(anchor)
+        else:
+            raise LookupError_("hydrate target missing id or href")
+        item["hydrated"] = True
+        item["file"] = result["file"]
+        item["line_start"] = result["line_start"]
+        item["line_end"] = result["line_end"]
+        item["text"] = result["text"]
+        if result.get("anchor"):
+            item["anchor"] = result["anchor"]
+        item["citation"] = {
+            "file": result["file"],
+            "anchor": result.get("anchor"),
+            "edition": indexes.edition,
+        }
+    except LookupError_ as exc:
+        item["hydrated"] = False
+        item["error"] = str(exc)
+    return item
+
+
+def cmd_apply_pack(indexes: Indexes, query: str) -> dict[str, Any]:
+    routed = cmd_route(indexes, query)
+    targets: list[tuple[str, str | None, str | None]] = []
+    seen: set[str] = set()
+
+    def add(role: str, ident: str | None = None, href: str | None = None) -> None:
+        key = ident or href or ""
+        if not key or key in seen:
+            return
+        seen.add(key)
+        targets.append((role, ident, href))
+
+    exact = routed.get("exact") or {}
+    if exact.get("term"):
+        add("exact", ident=str(exact["term"]))
+    elif exact.get("id") and "primary_owners" not in exact and exact.get("kind") != "prefix":
+        add("exact", ident=str(exact["id"]))
+
+    topic = routed.get("topic") or {}
+    for owner in topic.get("primary_owners") or []:
+        if owner.get("id"):
+            add("primary_owner", ident=str(owner["id"]))
+    for item in topic.get("read_with") or []:
+        if item.get("id"):
+            add("read_with", ident=str(item["id"]))
+
+    door = routed.get("door") or {}
+    href = (door.get("operative_box") or {}).get("href")
+    if href:
+        add("operative_box", href=str(href))
+
+    if not targets and routed.get("citation"):
+        citation = routed["citation"]
+        file_rel = citation.get("file")
+        anchor = citation.get("anchor") or ""
+        if file_rel:
+            add("citation", href=f"{file_rel}{anchor}")
+
+    truncated = len(targets) > APPLY_PACK_MAX_SPANS
+    spans = []
+    for role, ident, href in targets[:APPLY_PACK_MAX_SPANS]:
+        spans.append(hydrate_one(indexes, ident=ident, href=href, role=role))
+
+    return {
+        "query": query,
+        "route": routed,
+        "spans": spans,
+        "span_count": len(spans),
+        "truncated": truncated,
+        "citation": routed.get("citation"),
+    }
+
+
 def cmd_validity(indexes: Indexes, source_file: str, anchor: str) -> dict[str, Any]:
     wanted = normalize_anchor(anchor)
     assert wanted is not None
@@ -560,6 +1037,262 @@ def cmd_validity(indexes: Indexes, source_file: str, anchor: str) -> dict[str, A
     }
 
 
+def cmd_cite(indexes: Indexes, source_file: str, anchor: str) -> dict[str, Any]:
+    validity = cmd_validity(indexes, source_file, anchor)
+    wanted = normalize_anchor(anchor)
+    return {
+        "file": source_file,
+        "anchor": wanted,
+        "edition": indexes.edition,
+        "effective_date": indexes.effective_date,
+        "validity": validity["status"],
+        "citation": f"{source_file}{wanted} ({indexes.edition})",
+    }
+
+
+def cmd_classes(indexes: Indexes) -> dict[str, Any]:
+    rows: list[dict[str, Any]] = []
+    for case in indexes.steward.get("cases", []):
+        rows.append(
+            {
+                "id": case.get("id"),
+                "card_title": case.get("card_title"),
+                "card_anchor": case.get("card_anchor"),
+                "next_step_class": case.get("next_step_class"),
+                "high_pressure": bool(case.get("high_pressure")),
+                "card_path": f"{CARDS_REL}#{case.get('card_anchor')}"
+                if case.get("card_anchor")
+                else CARDS_REL,
+            }
+        )
+    return {
+        "not_operator_gold_key": True,
+        "classes": rows,
+    }
+
+
+def cmd_retrieve(indexes: Indexes, query: str, limit: int | None = None) -> dict[str, Any]:
+    if not query or not query.strip():
+        raise LookupError_("retrieve requires QUERY")
+    cap = RETRIEVE_CAP if limit is None else max(1, min(int(limit), 30))
+    path = indexes.root / CHUNKS_REL
+    if not path.is_file():
+        raise LookupError_(f"missing {CHUNKS_REL}; run `make boundary-chunks`")
+    payload = load_json(path)
+    wanted = tokenize(query)
+    if not wanted:
+        raise LookupError_("retrieve query had no usable tokens")
+    file_lines: dict[str, list[str]] = {}
+    heading_weight = 3
+    scored: list[tuple[int, dict[str, Any]]] = []
+    for chunk in payload.get("chunks") or []:
+        heading_hay = tokenize(
+            " ".join(
+                str(part or "")
+                for part in (
+                    chunk.get("heading"),
+                    chunk.get("file"),
+                    chunk.get("anchor"),
+                )
+            )
+        )
+        rel = str(chunk.get("file") or "")
+        start = int(chunk.get("line_start") or 0)
+        end = int(chunk.get("line_end") or 0)
+        if rel not in file_lines:
+            path = indexes.root / rel
+            file_lines[rel] = (
+                path.read_text(encoding="utf-8").splitlines() if path.is_file() else []
+            )
+        body = ""
+        if start > 0 and end >= start:
+            body = "\n".join(file_lines[rel][start - 1 : end])
+        body_hay = tokenize(body)
+        score = (len(wanted & heading_hay) * heading_weight) + len(wanted & body_hay)
+        if score:
+            scored.append((score, chunk))
+    scored.sort(key=lambda item: (-item[0], item[1].get("file") or "", item[1].get("line_start") or 0))
+    hits = []
+    for score, chunk in scored[:cap]:
+        hits.append(
+            {
+                "file": chunk.get("file"),
+                "heading": chunk.get("heading"),
+                "anchor": chunk.get("anchor"),
+                "line_start": chunk.get("line_start"),
+                "line_end": chunk.get("line_end"),
+                "score": score,
+            }
+        )
+    return {
+        "query": query,
+        "not_embeddings": True,
+        "embeddings": "postponed_indefinitely",
+        "embed_over": "boundary_chunks.json locators and source spans — never gloss JSON",
+        "hydrate_next": "python3 tools/corpus_lookup.py hydrate --file FILE --start N --end M",
+        "hit_count": len(hits),
+        "hits": hits,
+    }
+
+
+def handle_http_command(
+    indexes: Indexes, command: str, params: dict[str, Any]
+) -> dict[str, Any]:
+    """Dispatch one lookup command from an HTTP adapter (same invariants as CLI)."""
+    if command == "edition":
+        return cmd_edition(indexes)
+    if command == "resolve":
+        return cmd_resolve(indexes, params.get("query"), params.get("prefix"))
+    if command == "hydrate":
+        return cmd_hydrate(
+            indexes,
+            params.get("query"),
+            params.get("file") or params.get("source_file"),
+            _optional_int(params.get("start")),
+            _optional_int(params.get("end")),
+        )
+    if command == "topic-route":
+        return cmd_topic_route(indexes, str(params.get("query") or ""))
+    if command == "door":
+        return cmd_door(
+            indexes,
+            params.get("query"),
+            bool(params.get("high_pressure")),
+        )
+    if command == "citator":
+        return cmd_citator(
+            indexes,
+            str(params.get("file") or params.get("source_file") or ""),
+            params.get("anchor"),
+        )
+    if command == "validity":
+        return cmd_validity(
+            indexes,
+            str(params.get("file") or params.get("source_file") or ""),
+            str(params.get("anchor") or ""),
+        )
+    if command == "route":
+        return cmd_route(indexes, str(params.get("query") or ""))
+    if command == "apply-pack":
+        return cmd_apply_pack(indexes, str(params.get("query") or ""))
+    if command == "cite":
+        return cmd_cite(
+            indexes,
+            str(params.get("file") or params.get("source_file") or ""),
+            str(params.get("anchor") or ""),
+        )
+    if command == "classes":
+        return cmd_classes(indexes)
+    if command == "retrieve":
+        return cmd_retrieve(
+            indexes,
+            str(params.get("query") or ""),
+            _optional_int(params.get("limit")),
+        )
+    raise LookupError_(f"unknown command: {command}")
+
+
+def _optional_int(value: Any) -> int | None:
+    if value is None or value == "":
+        return None
+    return int(value)
+
+
+def cmd_serve(indexes: Indexes, host: str, port: int) -> int:
+    from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
+    from urllib.parse import parse_qs, urlparse
+
+    allowed = {
+        "edition",
+        "resolve",
+        "hydrate",
+        "topic-route",
+        "door",
+        "citator",
+        "validity",
+        "route",
+        "apply-pack",
+        "cite",
+        "classes",
+        "retrieve",
+    }
+
+    class Handler(BaseHTTPRequestHandler):
+        def log_message(self, fmt: str, *args: Any) -> None:
+            sys.stderr.write("%s - %s\n" % (self.address_string(), fmt % args))
+
+        def _send(self, code: int, payload: dict[str, Any]) -> None:
+            body = json.dumps(payload, indent=2, ensure_ascii=False).encode("utf-8")
+            self.send_response(code)
+            self.send_header("Content-Type", "application/json; charset=utf-8")
+            self.send_header("Content-Length", str(len(body)))
+            self.end_headers()
+            self.wfile.write(body)
+
+        def do_GET(self) -> None:  # noqa: N802
+            parsed = urlparse(self.path)
+            if parsed.path in {"/", "/health"}:
+                self._send(
+                    200,
+                    envelope(
+                        indexes,
+                        "health",
+                        result={"ok": True, "commands": sorted(allowed)},
+                    ),
+                )
+                return
+            if not parsed.path.startswith("/v1/"):
+                self._send(404, envelope(indexes, "http", error="not found"))
+                return
+            command = parsed.path[len("/v1/") :].strip("/")
+            params = {key: values[-1] for key, values in parse_qs(parsed.query).items()}
+            self._dispatch(command, params)
+
+        def do_POST(self) -> None:  # noqa: N802
+            parsed = urlparse(self.path)
+            if not parsed.path.startswith("/v1/"):
+                self._send(404, envelope(indexes, "http", error="not found"))
+                return
+            command = parsed.path[len("/v1/") :].strip("/")
+            length = int(self.headers.get("Content-Length") or "0")
+            raw = self.rfile.read(length) if length else b"{}"
+            try:
+                params = json.loads(raw.decode("utf-8") or "{}")
+            except json.JSONDecodeError:
+                self._send(400, envelope(indexes, command, error="invalid JSON"))
+                return
+            if not isinstance(params, dict):
+                self._send(400, envelope(indexes, command, error="JSON object required"))
+                return
+            self._dispatch(command, params)
+
+        def _dispatch(self, command: str, params: dict[str, Any]) -> None:
+            if command not in allowed:
+                self._send(404, envelope(indexes, command, error="unknown command"))
+                return
+            try:
+                result = handle_http_command(indexes, command, params)
+            except LookupError_ as exc:
+                self._send(404, envelope(indexes, command, error=str(exc)))
+                return
+            except Exception as exc:  # noqa: BLE001
+                self._send(400, envelope(indexes, command, error=str(exc)))
+                return
+            self._send(200, envelope(indexes, command, result=result))
+
+    server = ThreadingHTTPServer((host, port), Handler)
+    sys.stderr.write(
+        f"corpus_lookup HTTP on http://{host}:{port}/v1/{{command}} (Ctrl-C to stop)\n"
+    )
+    try:
+        server.serve_forever()
+    except KeyboardInterrupt:
+        sys.stderr.write("\n")
+    finally:
+        server.server_close()
+    return 0
+
+
 def dispatch(indexes: Indexes, args: argparse.Namespace) -> dict[str, Any]:
     command = args.command
     if command == "edition":
@@ -582,6 +1315,16 @@ def dispatch(indexes: Indexes, args: argparse.Namespace) -> dict[str, Any]:
         return cmd_citator(indexes, args.source_file, args.anchor)
     if command == "validity":
         return cmd_validity(indexes, args.source_file, args.anchor)
+    if command == "route":
+        return cmd_route(indexes, args.query)
+    if command == "apply-pack":
+        return cmd_apply_pack(indexes, args.query)
+    if command == "cite":
+        return cmd_cite(indexes, args.source_file, args.anchor)
+    if command == "classes":
+        return cmd_classes(indexes)
+    if command == "retrieve":
+        return cmd_retrieve(indexes, args.query, args.limit)
     raise LookupError_(f"unknown command: {command}")
 
 
@@ -600,6 +1343,8 @@ def main(argv: list[str] | None = None) -> int:
     except FileNotFoundError as exc:
         sys.stderr.write(f"missing index or source: {exc}\n")
         return 2
+    if args.command == "serve":
+        return cmd_serve(indexes, args.host, args.port)
     try:
         result = dispatch(indexes, args)
     except LookupError_ as exc:

@@ -89,4 +89,5 @@ See: [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justic
 ## If you want to look further
 
 - Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
-- Sibling briefs: [`README.md`](README.md) — [E05](E05_disability.md) if the closed door is access rather than help taking over decisions; [E14](E14_mental_health.md) if the takeover is a mental-health diagnosis rather than age; [E02](E02_single_parent.md) if you are the unpaid carer in this scene
+- Sibling briefs: [`README.md`](README.md) — [E05](E05_disability.md) if the closed door is access rather than help taking over decisions; [E14](E14_mental_health.md) if the takeover is a mental-health diagnosis rather than age; [E02](E02_single_parent.md) if you are the unpaid carer of a child; [E18](E18_caregiver_of_adult.md) if you are the unpaid carer of an adult
+- Operators only (not an answer key): lived packet [`../../../evaluation/lived_situations/packets/S05_declining_capacity_takeover.md`](../../../evaluation/lived_situations/packets/S05_declining_capacity_takeover.md)

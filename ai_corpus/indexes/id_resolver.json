@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-10T17:15:56+00:00",
+  "generated_at": "2026-09-12T13:36:38+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -3267,28 +3267,28 @@
       "file": "core_05_band_participation.md",
       "anchor": "#defp1",
       "heading": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
-      "line": 2057,
+      "line": 2044,
       "kind": "cluster"
     },
     "Def.P2": {
       "file": "core_05_band_participation.md",
       "anchor": "#defp2",
       "heading": "Def.P2 Binding Stakeholder Choice",
-      "line": 2742,
+      "line": 2731,
       "kind": "cluster"
     },
     "Def.P3": {
       "file": "core_05_band_participation.md",
       "anchor": "#defp3",
       "heading": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
-      "line": 2923,
+      "line": 2912,
       "kind": "cluster"
     },
     "Def.P4": {
       "file": "core_05_band_participation.md",
       "anchor": "#defp4",
       "heading": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
-      "line": 3205,
+      "line": 3194,
       "kind": "cluster"
     }
   },
@@ -4015,8 +4015,8 @@
       "term": "Animal Life",
       "file": "core_05_band_participation.md",
       "anchor": "#animal-life-constitutional",
-      "line_start": 2284,
-      "line_end": 2345
+      "line_start": 2271,
+      "line_end": 2332
     },
     {
       "term": "Anti-Constitutional Misconduct Review",
@@ -4092,15 +4092,15 @@
       "term": "Best-Interest Standard",
       "file": "core_05_band_participation.md",
       "anchor": "#best-interest-standard-constitutional",
-      "line_start": 3289,
-      "line_end": 3336
+      "line_start": 3278,
+      "line_end": 3325
     },
     {
       "term": "Binding Stakeholder Choice — Decision-Resolution Requirements",
       "file": "core_05_band_participation.md",
       "anchor": "#binding-stakeholder-choice-decision-resolution-requirements",
-      "line_start": 2793,
-      "line_end": 2848
+      "line_start": 2782,
+      "line_end": 2837
     },
     {
       "term": "Bodily-Maintenance Access",
@@ -4260,8 +4260,8 @@
       "term": "Constitutional Tetrad",
       "file": "core_00_preamble.md",
       "anchor": "#constitutional-tetrad",
-      "line_start": 23,
-      "line_end": 27
+      "line_start": 27,
+      "line_end": 31
     },
     {
       "term": "Contestability",
@@ -4274,8 +4274,8 @@
       "term": "Contested-Sentient Life",
       "file": "core_05_band_participation.md",
       "anchor": "#contested-sentient-life-constitutional",
-      "line_start": 2411,
-      "line_end": 2528
+      "line_start": 2398,
+      "line_end": 2515
     },
     {
       "term": "Contingent Claim",
@@ -4337,15 +4337,15 @@
       "term": "Derived Sentient",
       "file": "core_05_band_participation.md",
       "anchor": "#derived-sentient-constitutional",
-      "line_start": 1469,
-      "line_end": 1517
+      "line_start": 1470,
+      "line_end": 1518
     },
     {
       "term": "Developing Sentient",
       "file": "core_05_band_participation.md",
       "anchor": "#developing-sentient-constitutional",
-      "line_start": 3252,
-      "line_end": 3288
+      "line_start": 3241,
+      "line_end": 3277
     },
     {
       "term": "Dignity and Equal Moral Standing",
@@ -4393,15 +4393,15 @@
       "term": "Educational Agency",
       "file": "core_05_band_participation.md",
       "anchor": "#educational-agency",
-      "line_start": 3088,
-      "line_end": 3146
+      "line_start": 3077,
+      "line_end": 3135
     },
     {
       "term": "Elevated Communicative Life",
       "file": "core_05_band_participation.md",
       "anchor": "#elevated-communicative-life-constitutional",
-      "line_start": 2346,
-      "line_end": 2410
+      "line_start": 2333,
+      "line_end": 2397
     },
     {
       "term": "Emergency and Contingency",
@@ -4470,8 +4470,8 @@
       "term": "Expression",
       "file": "core_05_band_participation.md",
       "anchor": "#expression-constitutional",
-      "line_start": 3002,
-      "line_end": 3087
+      "line_start": 2991,
+      "line_end": 3076
     },
     {
       "term": "Fair Compensation",
@@ -4603,8 +4603,8 @@
       "term": "Graduated Capability",
       "file": "core_05_band_participation.md",
       "anchor": "#graduated-capability-constitutional",
-      "line_start": 3337,
-      "line_end": 3386
+      "line_start": 3326,
+      "line_end": 3372
     },
     {
       "term": "Harassment and Bullying",
@@ -4708,8 +4708,8 @@
       "term": "Instantiation Consent",
       "file": "core_05_band_participation.md",
       "anchor": "#instantiation-consent-constitutional",
-      "line_start": 1518,
-      "line_end": 1572
+      "line_start": 1519,
+      "line_end": 1574
     },
     {
       "term": "Intergenerational Responsibility",
@@ -4806,8 +4806,8 @@
       "term": "material stake",
       "file": "core_00_preamble.md",
       "anchor": "#material-stake",
-      "line_start": 23,
-      "line_end": 23
+      "line_start": 27,
+      "line_end": 27
     },
     {
       "term": "Materiality Determination",
@@ -4848,8 +4848,8 @@
       "term": "Movement and Relocation",
       "file": "core_05_band_participation.md",
       "anchor": "#movement-and-relocation-constitutional",
-      "line_start": 1838,
-      "line_end": 1914
+      "line_start": 1834,
+      "line_end": 1907
     },
     {
       "term": "Natural Systems Standing",
@@ -4898,14 +4898,14 @@
       "file": "core_05_band_participation.md",
       "anchor": "#non-separation-constitutional",
       "line_start": 1402,
-      "line_end": 1623
+      "line_end": 1622
     },
     {
       "term": "Non-Statelessness",
       "file": "core_05_band_participation.md",
       "anchor": "#non-statelessness-constitutional",
-      "line_start": 1980,
-      "line_end": 2056
+      "line_start": 1970,
+      "line_end": 2043
     },
     {
       "term": "Occupancy Continuity",
@@ -4918,8 +4918,8 @@
       "term": "Parent-System Relationship",
       "file": "core_05_band_participation.md",
       "anchor": "#parent-system-relationship-constitutional",
-      "line_start": 1573,
-      "line_end": 1623
+      "line_start": 1575,
+      "line_end": 1622
     },
     {
       "term": "Participant Standing",
@@ -5072,8 +5072,8 @@
       "term": "Refuge from Non-Compliance",
       "file": "core_05_band_participation.md",
       "anchor": "#refuge-from-non-compliance-constitutional",
-      "line_start": 1915,
-      "line_end": 1979
+      "line_start": 1908,
+      "line_end": 1969
     },
     {
       "term": "Remedy System",
@@ -5163,8 +5163,8 @@
       "term": "Self-Determination",
       "file": "core_05_band_participation.md",
       "anchor": "#self-determination-constitutional",
-      "line_start": 2957,
-      "line_end": 3001
+      "line_start": 2946,
+      "line_end": 2990
     },
     {
       "term": "Self-Healing",
@@ -5177,29 +5177,29 @@
       "term": "Sentience Non-Exclusion",
       "file": "core_05_band_participation.md",
       "anchor": "#sentience-non-exclusion",
-      "line_start": 2204,
-      "line_end": 2262
+      "line_start": 2191,
+      "line_end": 2249
     },
     {
       "term": "Sentience Status Adjudication",
       "file": "core_05_band_participation.md",
       "anchor": "#sentience-status-adjudication-constitutional",
-      "line_start": 2594,
-      "line_end": 2679
+      "line_start": 2581,
+      "line_end": 2668
     },
     {
       "term": "Sentience-Status Adjudication Record",
       "file": "core_05_band_participation.md",
       "anchor": "#sentience-status-adjudication-record-constitutional",
-      "line_start": 2680,
-      "line_end": 2741
+      "line_start": 2669,
+      "line_end": 2730
     },
     {
       "term": "Sentient",
       "file": "core_05_band_participation.md",
       "anchor": "#sentient",
-      "line_start": 2529,
-      "line_end": 2593
+      "line_start": 2516,
+      "line_end": 2580
     },
     {
       "term": "Shared-System Capacity",
@@ -5226,8 +5226,8 @@
       "term": "Stakeholder",
       "file": "core_05_band_participation.md",
       "anchor": "#stakeholder",
-      "line_start": 1642,
-      "line_end": 1689
+      "line_start": 1641,
+      "line_end": 1688
     },
     {
       "term": "Stakeholder Emergency and Contingency",
@@ -5240,22 +5240,22 @@
       "term": "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
       "file": "core_05_band_participation.md",
       "anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
-      "line_start": 2849,
-      "line_end": 2885
+      "line_start": 2838,
+      "line_end": 2874
     },
     {
       "term": "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
       "file": "core_05_band_participation.md",
       "anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice",
-      "line_start": 2886,
-      "line_end": 2922
+      "line_start": 2875,
+      "line_end": 2911
     },
     {
       "term": "Stakeholder Weight",
       "file": "core_05_band_participation.md",
       "anchor": "#stakeholder-weight",
-      "line_start": 1690,
-      "line_end": 1762
+      "line_start": 1689,
+      "line_end": 1758
     },
     {
       "term": "Standing Effect",
@@ -5317,8 +5317,8 @@
       "term": "Substrate Class",
       "file": "core_05_band_participation.md",
       "anchor": "#substrate-agnostic",
-      "line_start": 2165,
-      "line_end": 2203
+      "line_start": 2152,
+      "line_end": 2190
     },
     {
       "term": "Surveillance Boundary",
@@ -5527,8 +5527,8 @@
       "term": "Volitional Integrity",
       "file": "core_05_band_participation.md",
       "anchor": "#volitional-integrity",
-      "line_start": 3147,
-      "line_end": 3204
+      "line_start": 3136,
+      "line_end": 3193
     },
     {
       "term": "Voluntary Discontinuation",
@@ -5552,7 +5552,118 @@
       "line_end": 677
     }
   ],
-  "aliases": [],
+  "aliases": [
+    {
+      "file": "implementation/FAQ.md",
+      "title": "1. Does reading this bind me?",
+      "current_number": "1",
+      "current_anchors": [
+        "#1-does-reading-this-bind-me"
+      ],
+      "fossil_anchors": [
+        "#reading-bind"
+      ]
+    },
+    {
+      "file": "implementation/FAQ.md",
+      "title": "10. What if there is a crisis?",
+      "current_number": "10",
+      "current_anchors": [
+        "#10-what-if-there-is-a-crisis"
+      ],
+      "fossil_anchors": [
+        "#crisis"
+      ]
+    },
+    {
+      "file": "implementation/FAQ.md",
+      "title": "2. Does it override my country’s laws?",
+      "current_number": "2",
+      "current_anchors": [
+        "#2-does-it-override-my-countrys-laws"
+      ],
+      "fossil_anchors": [
+        "#override-law"
+      ]
+    },
+    {
+      "file": "implementation/FAQ.md",
+      "title": "3. Who counts, and who decides?",
+      "current_number": "3",
+      "current_anchors": [
+        "#3-who-counts-and-who-decides"
+      ],
+      "fossil_anchors": [
+        "#who-counts"
+      ]
+    },
+    {
+      "file": "implementation/FAQ.md",
+      "title": "4. What is the difference between using it as a handbook and a body agreeing to follow it?",
+      "current_number": "4",
+      "current_anchors": [
+        "#4-what-is-the-difference-between-using-it-as-a-handbook-and-a-body-agreeing-to-follow-it"
+      ],
+      "fossil_anchors": [
+        "#handbook-vs-adoption"
+      ]
+    },
+    {
+      "file": "implementation/FAQ.md",
+      "title": "5. If I am being harmed, what do I do *here* vs in ordinary law?",
+      "current_number": "5",
+      "current_anchors": [
+        "#5-if-i-am-being-harmed-what-do-i-do-here-vs-in-ordinary-law"
+      ],
+      "fossil_anchors": [
+        "#harmed-here-vs-law"
+      ]
+    },
+    {
+      "file": "implementation/FAQ.md",
+      "title": "6. Why are there so many files?",
+      "current_number": "6",
+      "current_anchors": [
+        "#6-why-are-there-so-many-files"
+      ],
+      "fossil_anchors": [
+        "#so-many-files"
+      ]
+    },
+    {
+      "file": "implementation/FAQ.md",
+      "title": "7. Is an AI held to a different rule than a human?",
+      "current_number": "7",
+      "current_anchors": [
+        "#7-is-an-ai-held-to-a-different-rule-than-a-human"
+      ],
+      "fossil_anchors": [
+        "#ai-vs-human"
+      ]
+    },
+    {
+      "file": "implementation/FAQ.md",
+      "title": "8. What is the Rights Floor?",
+      "current_number": "8",
+      "current_anchors": [
+        "#8-what-is-the-rights-floor"
+      ],
+      "fossil_anchors": [
+        "#rights-floor"
+      ]
+    },
+    {
+      "file": "implementation/FAQ.md",
+      "title": "9. Does filing a complaint change how trusted I am?",
+      "current_number": "9",
+      "current_anchors": [
+        "#9-does-filing-a-complaint-change-how-trusted-i-am"
+      ],
+      "fossil_anchors": [
+        "#filing-not-standing"
+      ]
+    }
+  ],
   "steward_doors": {
     "index": "implementation/steward_owner_clock_index.json",
     "cards": "implementation/STEWARD_ENTRY_DOORS.md",

@@ -10,6 +10,11 @@ Indexes **point**. Source text **binds**. Do not open `id_resolver.json` for mea
 | Authentic source span | `python3 tools/corpus_lookup.py hydrate QUERY` |
 | Cross-file topic | `python3 tools/corpus_lookup.py topic-route CJS-R09` |
 | High-pressure next step | `python3 tools/corpus_lookup.py door CASE_ID` |
+| Question or fact pattern | `python3 tools/corpus_lookup.py route "QUERY"` |
+| Owner + read-with spans | `python3 tools/corpus_lookup.py apply-pack "QUERY"` |
+| Citation block | `python3 tools/corpus_lookup.py cite --file FILE --anchor '#fragment'` |
+| Public next-step classes | `python3 tools/corpus_lookup.py classes` |
+| Boundary-chunk locators | `python3 tools/corpus_lookup.py retrieve "QUERY"` |
 | Section citations | `python3 tools/corpus_lookup.py citator --file FILE [--anchor '#fragment']` |
 | Current vs fossil fragment | `python3 tools/corpus_lookup.py validity --file FILE --anchor '#fragment'` |
 | Edition pin | `python3 tools/corpus_lookup.py edition` |
@@ -17,6 +22,18 @@ Indexes **point**. Source text **binds**. Do not open `id_resolver.json` for mea
 Generated JSON under `ai_corpus/indexes/` is input to that CLI, not a duty text. Architecture rules: `doc_architecture.md`.
 
 ## Reading Patterns
+
+```
+Query: python3 tools/corpus_lookup.py route "QUERY"
+Read:  python3 tools/corpus_lookup.py apply-pack "QUERY"
+If locator and source disagree: source wins
+```
+
+```
+Query: python3 tools/corpus_lookup.py retrieve "QUERY"
+Then:  python3 tools/corpus_lookup.py hydrate --file FILE --start N --end M
+Token overlap only (not embeddings; postponed indefinitely — doc_architecture.md#retrieval-no-vector-embeddings). Scores heading locators and source spans. Never gloss JSON. Source binds.
+```
 
 ```
 Query: python3 tools/corpus_lookup.py resolve QUERY

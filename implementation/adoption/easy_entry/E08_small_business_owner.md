@@ -87,5 +87,5 @@ See: [CI-9.4](../../../corpus_institutions/ci_09_classification_linked_instituti
 ## If you want to look further
 
 - Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
-- Sibling briefs: [`README.md`](README.md) — [E09](E09_investor.md) if capital is your role; [E10](E10_system_operator.md) if you deploy a system others depend on
+- Sibling briefs: [`README.md`](README.md) — [E09](E09_investor.md) if capital is your role; [E10](E10_system_operator.md) if you deploy a system others depend on; [E16](E16_worker_not_owner.md) if you work there and do not own the shop
 - Fit map: [`../FIT_SITUATIONS.md`](../FIT_SITUATIONS.md)

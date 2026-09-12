@@ -12,8 +12,10 @@
 
 Use `python3 tools/corpus_lookup.py` (skill: `.cursor/skills/corpus-lookup/SKILL.md`). Do not open `id_resolver.json` for meaning — it embeds gloss. Locators point; source binds.
 
-1. **High-pressure fact pattern** → `python3 tools/corpus_lookup.py door CASE_ID` or `door --high-pressure`
+1. **High-pressure or natural-language fact pattern** → `python3 tools/corpus_lookup.py route "QUERY"` or `door CASE_ID`
    - Open the returned `card_path`, then verify the boxed operative steward statement at `operative_box.href`
+   - `apply-pack` hydrates owner plus each mandatory read-with (source spans; not gloss)
+   - `retrieve "QUERY"` ranks `boundary_chunks.json` locators and source spans (token overlap; never gloss JSON); then `hydrate --file --start --end`. Vector embeddings are postponed indefinitely ([doc_architecture.md](../doc_architecture.md#retrieval-no-vector-embeddings)).
    - Do not treat card prose as a duty
 
 2. **ID, topic, or term** → `python3 tools/corpus_lookup.py resolve QUERY`
@@ -65,7 +67,20 @@ Step 2: Hydrate the owner, then each listed read-with
 Step 3: Apply Chapter One §8.4.4 combined satisfaction; do not skip read-with
 ```
 
-### Pattern 4: Citation / rename audit
+### Pattern 4: Natural-language fact pattern
+
+```
+Step 1: python3 tools/corpus_lookup.py route "QUERY"
+        → door (if any), topic row (if any), owners, read-with, edition pin
+
+Step 2: python3 tools/corpus_lookup.py apply-pack "QUERY"
+        → authentic spans for owner plus each read-with (cap per span)
+
+Step 3: Cite file + anchor + edition. If locator and source disagree, the source wins.
+        Do not treat a locator, gloss, or steward card as a duty.
+```
+
+### Pattern 5: Citation / rename audit
 
 ```
 python3 tools/corpus_lookup.py citator --file FILE [--anchor '#fragment']
@@ -98,7 +113,7 @@ python3 tools/corpus_lookup.py validity --file FILE --anchor '#fragment'
 
 ### Tier 1: Locators (check first)
 
-1. `python3 tools/corpus_lookup.py` — resolve / hydrate / topic-route / door / citator / validity
+1. `python3 tools/corpus_lookup.py` — resolve / hydrate / topic-route / door / route / apply-pack / cite / classes / retrieve / citator / validity
 2. Generated indexes under `ai_corpus/indexes/` — machine input to that CLI, not a duty text
 3. `implementation/STEWARD_ENTRY_DOORS.md` — high-pressure next step after `door` (process support)
 

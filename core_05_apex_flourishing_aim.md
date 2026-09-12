@@ -24,6 +24,8 @@
 
 ---
 
+*In plain terms: protect and improve sentient wellbeing — truth, safety, trustworthiness, and meaningful agency together, never one block maximized while the others are hollowed out.*
+
 - O: Protect and improve sentient wellbeing — the constitutional aim this entry names.
   - **In scope:** judging systems against this aim using the Flourishing building blocks and measurement families listed in [Constitutional Aim decomposition](#flourishing-aim-decomposition).
   - **Depends on:** [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Trustworthiness](core_05_band_continuity.md#trustworthiness), and [Meaningful Agency](core_05_band_participation.md#meaningful-agency) — the building blocks named in [Preamble §1](../core_00_preamble.md#flourishing). Each term's detailed scope and how-to-measure rules live on its own definition; start from [Constitutional Aim decomposition](#flourishing-aim-decomposition).
@@ -40,6 +42,8 @@
 <a id="flourishing-aim-decomposition"></a>
 
 ### Constitutional Aim decomposition
+
+*In plain terms: this map lists Flourishing's building blocks — truth, safety, trustworthiness, and meaningful agency — and where each leaf lives.*
 
 Leaf definitions under this aim inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 
@@ -66,6 +70,8 @@ Leaf definitions under this aim inherit its scope unless they expressly narrow o
 <a id="flourishing-measurement-family"></a>
 
 ### Measuring Flourishing (Preamble measurement family)
+
+*In plain terms: these questions ask whether sentients are actually sustained in wellbeing, safety, and agency — not proxy engagement or throughput.*
 
 *Chapter Five home for the Flourishing measurement family. Preamble §2 keeps the plain-language category question; the family table and definition routing live here.*
 

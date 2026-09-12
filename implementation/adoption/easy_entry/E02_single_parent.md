@@ -83,4 +83,4 @@ See: [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sent
 ## If you want to look further
 
 - Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
-- Sibling briefs: [`README.md`](README.md) — [E01](E01_pregnant_reproducing.md) before birth; [E05](E05_disability.md) if extra support needs are in the household
+- Sibling briefs: [`README.md`](README.md) — [E01](E01_pregnant_reproducing.md) before birth; [E05](E05_disability.md) if extra support needs are in the household; [E18](E18_caregiver_of_adult.md) if the unpaid care is for an adult

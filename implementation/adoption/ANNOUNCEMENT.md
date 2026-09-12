@@ -193,7 +193,7 @@ GitHub settings once the repository is public (none of these drop **pre-release*
 |---|---|
 | **Description / social preview** | The short form in [§1](#1-the-announcement); link [`../../START_HERE.md`](../../START_HERE.md) |
 | **Topics** | `constitution`, `ai-governance`, `stewardship`, `commons` |
-| **GitHub Pages** | Source `/docs` on the default branch. [`../../docs/index.md`](../../docs/index.md) is a thin pointer at `START_HERE.md`. If Pages is off, the file view of `START_HERE.md` is the public door. |
+| **GitHub Pages** | Source `/docs` on the default branch until you switch. [`../../docs/index.md`](../../docs/index.md) is a thin pointer at `START_HERE.md`. Numbered core files (blob fallback): [`../../docs/corpus_index.md`](../../docs/corpus_index.md). To **render** numbered `core_*` files on Pages (same files, assembled at build time; not a second constitution), set Pages source to **GitHub Actions** and use [`.github/workflows/pages.yml`](../../.github/workflows/pages.yml) (`make pages-site` locally). If Pages is off, the file view of `START_HERE.md` is the public door. |
 | **License** | Already [CC BY 4.0](../../LICENSE) |
 
 If `docs/index.md` and `START_HERE.md` diverge, **`START_HERE.md` wins**.
@@ -207,6 +207,8 @@ If `docs/index.md` and `START_HERE.md` diverge, **`START_HERE.md` wins**.
 | [`../../START_HERE.md`](../../START_HERE.md) | Public human front door |
 | [`easy_entry/README.md`](easy_entry/README.md) | Second-person briefs for named situations. Soft case, not a sitting, not adoption |
 | [`../../docs/index.md`](../../docs/index.md) | Thin GitHub Pages pointer at that door |
+| [`../../docs/corpus_index.md`](../../docs/corpus_index.md) | `/docs` blob index of numbered `core_*` files (not a second constitution) |
+| [`.github/workflows/pages.yml`](../../.github/workflows/pages.yml) | Optional Pages **render** of the same files (`make pages-site`; Pages source = GitHub Actions) |
 | [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md) | Fit tests, ranked sketches, kit routing. This page does not replace it |
 | [`README.md`](README.md) | This folder’s door — process path toward an instrument, not the instrument |
 | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Non-adoption banner; two-party / first-instrument door |

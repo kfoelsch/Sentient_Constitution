@@ -73,7 +73,7 @@ See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-ch
 
 - **“This isn’t law at my school.”** Correct until a qualifying body adopts it. It does not override applicable education or family law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
-- **“What about sex, work, or leaving home?”** Those are two basic protections that can pull in different directions — self-ownership, care relationships, labor, staying with someone you depend on — not a single teen override. Where the text does not pick a winner, it is supposed to say so rather than invent one. A later lived-situation packet may test a specific collision; this brief does not.
+- **“What about sex, work, or leaving home?”** Those are two basic protections that can pull in different directions — self-ownership, care relationships, labor, staying with someone you depend on — not a single teen override. Where the text does not pick a winner, it is supposed to say so rather than invent one. A lived-situation sitting may test a specific collision; this brief does not.
 
 ## What this will not pretend to give you
 
@@ -85,4 +85,5 @@ See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-ch
 ## If you want to look further
 
 - Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
-- Sibling briefs: [`README.md`](README.md) — [E04](E04_tween.md) if the scene is earlier; [E05](E05_disability.md) if access, not age-talk, is the closed door
+- Sibling briefs: [`README.md`](README.md) — [E04](E04_tween.md) if the scene is earlier; [E05](E05_disability.md) if access, not age-talk, is the closed door; [E17](E17_student.md) if school, training, or a credential is the lever
+- Operators only (not an answer key): lived packet [`../../../evaluation/lived_situations/packets/S02_teen_own_good_lock.md`](../../../evaluation/lived_situations/packets/S02_teen_own_good_lock.md)

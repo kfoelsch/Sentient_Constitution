@@ -25,6 +25,8 @@
 
 ---
 
+*In plain terms: watch systems, check them, and keep them within bounds — oversight has to be able to see problems and change outcomes, not just hold a ceremony.*
+
 - O: Watch systems, check them, and keep them within bounds — the Tetrad leg this entry names.
   - **In scope:** watching, checking, verifying, and constraining how systems behave, done by [Stakeholders](core_05_band_participation.md#stakeholder), independent actors, or institutions, and spread out where that is workable. How much oversight is required scales with [Material Impact](core_05_band_oversight.md#material-impact), [Dependency](core_05_band_continuity.md#dependency), and [Risk](core_05_band_continuity.md#risk). Purpose: catch and fix non-compliance, and support informed [Governance](core_05_band_accountability.md#governance). Oversight requires [Auditability](core_05_band_oversight.md#auditability) and related audit instruments under **Article XV** (*Audit, Transparency, and Independent Verification*). [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process under that requirement — not the only auditing process.
   - **Depends on:** [Material Impact](core_05_band_oversight.md#material-impact), [Dependency](core_05_band_continuity.md#dependency), [Risk](core_05_band_continuity.md#risk), [Transparency](core_05_band_oversight.md#transparency), and [Auditability](core_05_band_oversight.md#auditability) — the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition).
@@ -46,6 +48,8 @@
 
 ### Tetrad Leg decomposition
 
+*In plain terms: this map lists the Oversight clusters and topic groups; leaf definitions inherit this leg's scope unless they say otherwise.*
+
 Leaf definitions under this leg inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 
 **Dependent clusters** (**Def.O1–Def.O2**) — joint-invocation homes:
@@ -65,6 +69,8 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 <a id="oversight-measurement-family"></a>
 
 ### Measuring Oversight (Preamble measurement family)
+
+*In plain terms: these questions ask whether sentients can see, verify, and rely on what high-impact systems represent.*
 
 *Chapter Five home for the Oversight measurement family. Preamble §2 keeps the plain-language category question; the family table and definition routing live here. ([Materiality Determination](core_05_band_oversight.md#materiality-determination) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](../core_00_preamble.md#material-stake).)*
 

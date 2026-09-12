@@ -1,0 +1,265 @@
+#!/usr/bin/env python3
+"""Assemble a GitHub Pages tree that renders numbered core_* files.
+
+Copies are byte-identical to repository sources and live only in the output
+directory (default ``_pages_site/``, gitignored). This is not a second
+constitution. If a rendered page and the repository file disagree, the
+repository file wins. Opening the site is not adoption.
+
+Usage (from the repo root)::
+
+    python3 tools/generate_pages_site.py --root . --write
+    python3 tools/generate_pages_site.py --root . --check
+"""
+
+from __future__ import annotations
+
+import argparse
+import re
+import shutil
+import sys
+import tempfile
+from pathlib import Path
+
+_TOOLS = Path(__file__).resolve().parent
+if str(_TOOLS) not in sys.path:
+    sys.path.insert(0, str(_TOOLS))
+
+from corpus_paths import (  # noqa: E402
+    COMPANION_WRAPPERS,
+    CORE_FILES,
+    companion_subfiles,
+)
+from generate_pages_corpus_index import first_heading  # noqa: E402
+from generate_plain_terms_edition import read_edition  # noqa: E402
+
+OUT_DEFAULT = "_pages_site"
+BLOB = "https://github.com/kfoelsch/Sentient_Constitution/blob/main/"
+SKIP_NAMES = frozenset({"_TEMPLATE.md"})
+
+FIXED_SUPPORT = (
+    "START_HERE.md",
+    "README.md",
+    "LICENSE",
+    "AGENTS.md",
+    "llms.txt",
+    "VISION.md",
+    "CONTRIBUTING.md",
+    "implementation/FAQ.md",
+    "implementation/PRINT_PACK.md",
+    "implementation/PROCESS_PIPELINES_READER.md",
+    "implementation/STEWARD_ENTRY_DOORS.md",
+    "doc_architecture/generated/rights_floor_sheet.md",
+    "doc_architecture/generated/human_definition_lookup.md",
+    "doc_architecture/generated/print_pack.md",
+)
+
+SUPPORT_GLOBS = (
+    "implementation/adoption/*.md",
+    "implementation/adoption/easy_entry/*.md",
+)
+
+CONFIG = """\
+title: Sentient Constitution
+description: Pre-release model constitution. This host renders repository files. It is not a second constitution. Opening it is not adoption.
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+  - jekyll-seo-tag
+relative_links:
+  enabled: true
+  collections: true
+optional_front_matter:
+  remove_originals: false
+titles_from_headings:
+  enabled: true
+  strip_title: false
+"""
+
+INDEX_BANNER = (
+    "> This Pages host **renders the same files** as the repository. "
+    "It is not a second constitution. If a page here and the repository file "
+    "disagree, the **repository file wins**. Opening this site is not adoption. "
+    "Canonical public door: [START_HERE.md](START_HERE.md)."
+)
+
+
+def publish_list(root: Path) -> list[str]:
+    rels: list[str] = []
+    seen: set[str] = set()
+
+    def add(rel: str) -> None:
+        if rel in seen or Path(rel).name in SKIP_NAMES:
+            return
+        if (root / rel).is_file():
+            seen.add(rel)
+            rels.append(rel)
+
+    for rel in CORE_FILES:
+        add(rel)
+    for rel in COMPANION_WRAPPERS:
+        add(rel)
+    for rel in companion_subfiles(root):
+        add(rel)
+    for rel in FIXED_SUPPORT:
+        add(rel)
+    for pattern in SUPPORT_GLOBS:
+        for path in sorted(root.glob(pattern)):
+            if path.is_file():
+                add(path.relative_to(root).as_posix())
+    return rels
+
+
+def copy_sources(root: Path, out: Path, rels: list[str]) -> None:
+    for rel in rels:
+        dest = out / rel
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copyfile(root / rel, dest)
+
+
+def localize_index(text: str, published: set[str]) -> str:
+    text = text.replace("](../", "](")
+    blob_re = re.compile(re.escape(BLOB) + r"([^)\s]+)")
+
+    def repl(match: re.Match[str]) -> str:
+        rel = match.group(1)
+        path = rel.split("#", 1)[0]
+        if path in published:
+            return rel
+        return match.group(0)
+
+    return blob_re.sub(repl, text)
+
+
+def insert_banner(text: str) -> str:
+    if "renders the same files" in text:
+        return text
+    if text.startswith("---"):
+        end = text.find("\n---", 3)
+        if end != -1:
+            close = end + len("\n---")
+            return text[:close] + "\n\n" + INDEX_BANNER + "\n" + text[close:]
+    return INDEX_BANNER + "\n\n" + text
+
+
+def render_corpus_index(root: Path, published: list[str]) -> str:
+    edition, effective = read_edition(root)
+    lines = [
+        "---",
+        "title: Numbered core files",
+        "description: Pages render of numbered core_*. Repository files bind.",
+        "---",
+        "",
+        "# Numbered core files",
+        "",
+        "This page is **process support**. It is **not** the Constitution. Opening it is not adoption.",
+        "",
+        f"Corpus edition: `{edition}` · effective **{effective}**",
+        "",
+        "> These links open files **on this Pages host**. They are copies assembled at build time from the repository. If a page here and the repository file disagree, the repository file wins.",
+        "",
+        "Auto-generated by `make pages-site`. Do not edit by hand.",
+        "",
+        "## Binding source",
+        "",
+    ]
+    published_set = set(published)
+    for rel in CORE_FILES:
+        if rel not in published_set:
+            continue
+        title = first_heading(root, rel)
+        lines.append(f"- [{title}]({rel}) — `{rel}`")
+    lines.extend(
+        [
+            "",
+            "## First-hour companions (process support)",
+            "",
+            "- [START_HERE.md](START_HERE.md)",
+            "- [Rights Floor wall sheet](doc_architecture/generated/rights_floor_sheet.md)",
+            "- [Print pack](implementation/PRINT_PACK.md)",
+            "- [Easy-entry briefs](implementation/adoption/easy_entry/README.md)",
+            "- [Process chain](implementation/PROCESS_PIPELINES_READER.md)",
+            "- [FAQ](implementation/FAQ.md)",
+            "",
+        ]
+    )
+    return "\n".join(lines)
+
+
+def assemble(root: Path, out: Path) -> list[str]:
+    if out.exists():
+        shutil.rmtree(out)
+    out.mkdir(parents=True)
+    rels = publish_list(root)
+    copy_sources(root, out, rels)
+    published = set(rels)
+    index_src = (root / "docs/index.md").read_text(encoding="utf-8")
+    (out / "index.md").write_text(
+        insert_banner(localize_index(index_src, published)), encoding="utf-8"
+    )
+    (out / "corpus_index.md").write_text(
+        render_corpus_index(root, rels), encoding="utf-8"
+    )
+    (out / "_config.yml").write_text(CONFIG, encoding="utf-8")
+    return rels
+
+
+def copies_match(root: Path, out: Path, rels: list[str]) -> list[str]:
+    errors: list[str] = []
+    for rel in rels:
+        src = root / rel
+        dest = out / rel
+        if not dest.is_file():
+            errors.append(f"missing copy: {rel}")
+            continue
+        if src.read_bytes() != dest.read_bytes():
+            errors.append(f"copy drifted: {rel}")
+    return errors
+
+
+def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
+    p = argparse.ArgumentParser(
+        description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
+    )
+    p.add_argument("--root", default=".", help="Repository root.")
+    p.add_argument("--out", default=OUT_DEFAULT, help="Output directory.")
+    mode = p.add_mutually_exclusive_group()
+    mode.add_argument("--write", action="store_true", help="Write assembled site (default).")
+    mode.add_argument("--check", action="store_true", help="Assemble in a temp dir and verify copies.")
+    return p.parse_args(argv)
+
+
+def main(argv: list[str] | None = None) -> int:
+    args = parse_args(argv)
+    root = Path(args.root).resolve()
+    if args.check:
+        with tempfile.TemporaryDirectory(prefix="pages-site-") as tmp:
+            out = Path(tmp) / "site"
+            rels = assemble(root, out)
+            errors = copies_match(root, out, rels)
+            if errors:
+                print("pages site check failed:")
+                for err in errors:
+                    print(f"  {err}")
+                return 1
+            if not (out / "index.md").is_file() or not (out / "core_00_preamble.md").is_file():
+                print("pages site check failed: missing index or Preamble")
+                return 1
+            print(f"pages site is assemblable ({len(rels)} files).")
+            return 0
+    out = (root / args.out).resolve()
+    rels = assemble(root, out)
+    errors = copies_match(root, out, rels)
+    if errors:
+        print("pages site write produced drift:")
+        for err in errors:
+            print(f"  {err}")
+        return 1
+    print(f"Wrote {out.relative_to(root)} ({len(rels)} files)")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

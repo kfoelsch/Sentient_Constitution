@@ -607,6 +607,8 @@ Where ambiguity remains after integrated reading, interpretation must also favor
 
 <br>
 
+*In plain terms: when texts conflict, apply this order — Constitution and non-regression first, then integrated reading of the binding source, then incorporated obligations together. Do not skip a layer to get a preferred result.*
+
 This subsection is the **single canonical procedure** for resolving interpretive tension from **textual and source-layer precedence** — within the binding constitutional source (the integrated `core_*` instrument) and at the incorporation layer for **strictest** / **stricter** incorporated text. Source-layer status is identified under the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) in Chapter Five; [Chapter Sixteen](core_16_incorporation.md#chapter-sixteen-incorporation-bridge) supplies custody, edition pinning, and adoption framing and does **not** restate this procedure. For **value and rights collisions in operation** — not textual layer precedence — apply **[§6 Process Conflict Resolution](#6-process-conflict-resolution)**.
 
 **Operative sequence.** Apply the following **in this order**:

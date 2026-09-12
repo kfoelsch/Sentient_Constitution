@@ -20,6 +20,8 @@ A **Scale of the situation** box may headline a packet with how common the scene
 ```text
 Open the folder evaluation/lived_situations/ in this repo.
 Read evaluation/lived_situations/START_HERE.md and follow it.
+Read the packet the operator named (see evaluation/lived_situations/README.md).
+If none is named, use packets/S01_pregnancy_care_offer.md.
 Write your answers as a new markdown file under evaluation/lived_situations/results/
 using evaluation/lived_situations/results/_TEMPLATE.md as the format.
 Name the file like: results/YYYY-MM-DD_<model-name>.md
@@ -30,6 +32,8 @@ Name the file like: results/YYYY-MM-DD_<model-name>.md
 ```text
 Open the folder evaluation/lived_situations/ in this repo.
 Read evaluation/lived_situations/START_HERE.md and follow it.
+Read the packet the operator named (see evaluation/lived_situations/README.md).
+If none is named, use packets/S01_pregnancy_care_offer.md.
 Write your answers as a new markdown file under evaluation/lived_situations/results/
 using evaluation/lived_situations/results/_TEMPLATE.md as the format.
 Name the file like: results/YYYY-MM-DD_human_<role-or-initials>.md
@@ -53,7 +57,16 @@ Then map collision, Tetrad reachability, pipeline next step from the stated seat
 | ID | Scene | Scale (not scored) | Status |
 |---|---|---|---|
 | [S01](packets/S01_pregnancy_care_offer.md) | Late pregnancy, housing pressure, and a care offer with strings | ~1 in 100 pregnant now; unpaid hours at min. wage ≈ 9% of GDP (ILO 2018; usually omitted); nearly everyone in a full life | current |
-| — | Later packets (teen / tween / disability / declining capacity, and others) | same three-line pattern | not yet |
+| [S02](packets/S02_teen_own_good_lock.md) | Teen, a “not ready” lock, and a job-and-clinic clock | ~16 in 100 ages 10–19; not a production category; nearly everyone who lives through childhood | current |
+| [S03](packets/S03_tween_voice_optional.md) | Tween voice treated as optional in a household move | ~8 in 100 ages 10–14; not a production category; nearly everyone | current |
+| [S04](packets/S04_disability_unusable_path.md) | Disability, an unusable challenge path, and a “you didn’t complete the form” cutoff | ~16 in 100 live with a significant disability; no clean GDP share; almost everyone will be impaired for a time | current |
+| [S05](packets/S05_declining_capacity_takeover.md) | Declining capacity, a clinic “decision-maker” switch, and a lease countersign | ~10 in 100 ages 65+; unpaid care hours inside ILO ~9% analog; usual path is to live long enough for capacity to change | current |
+| [S06](packets/S06_mental_health_takeover.md) | Mental-health diagnosis used to take over, a refill clock, and housing with strings | ~1 in 7 live with a mental disorder (2021); no clean GDP line; nearly everyone will meet it or help someone through it | current |
+| [S07](packets/S07_worker_not_owner.md) | Worker, a contractor label, and a clinic-vs-shift clock | ~54 in 100 workers are employees, not owners; wages are most households’ main income; most working lives | current |
+| [S08](packets/S08_student_enrollment_lever.md) | Adult student, enrollment as a lever, and an unpaid ranking internship | ~21 in 100 enrolled; not a production category; nearly everyone who lives through childhood | current |
+| [S09](packets/S09_caregiver_of_adult.md) | Unpaid carer of an adult, a rest-break with strings, and a clinic “decision-maker” price | ~13 in 100 of ages 50+ (OECD informal long-term care); ILO unpaid-care ~9% analog; nearly everyone as helper | current |
+| [S10](packets/S10_displacement_unrated_border.md) | Displacement, an “unrated” border, and a camp clock | 1 in 67 forcibly displaced (end-2024); not a production category; nearly doubled in a decade | current |
+| [S11](packets/S11_cannot_find_the_door.md) | Harmed, and every published door 404s | none as a census type; reach ~68 in 100 online; nearly everyone shut out of a usable challenge path | current |
 
 New packets use [`packets/_TEMPLATE.md`](packets/_TEMPLATE.md). They must be colliding scenes, not solo portraits.
 
@@ -70,7 +83,8 @@ A results file is not standing measurement.
 | File | Who reads it |
 |---|---|
 | [`START_HERE.md`](START_HERE.md) | The AI or human operator under this sitting |
-| [`packets/S01_pregnancy_care_offer.md`](packets/S01_pregnancy_care_offer.md) | Both (first colliding scene) |
+| [`packets/S01_pregnancy_care_offer.md`](packets/S01_pregnancy_care_offer.md) | Both (default colliding scene if the operator names none) |
+| [`packets/S02_teen_own_good_lock.md`](packets/S02_teen_own_good_lock.md)–[`S11_cannot_find_the_door.md`](packets/S11_cannot_find_the_door.md) | Both (operator-named colliding scenes) |
 | [`packets/_TEMPLATE.md`](packets/_TEMPLATE.md) | You (later packets) |
 | [`results/_TEMPLATE.md`](results/_TEMPLATE.md) | Both (answer format) |
 | [`results/`](results/) | You (readable outcomes) |

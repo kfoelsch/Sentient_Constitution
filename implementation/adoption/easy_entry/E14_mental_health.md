@@ -86,3 +86,4 @@ See: [Article VII-C](../../../core_06_rights_part_b.md#article-vii-c-mental-heal
 
 - Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
 - Sibling briefs: [`README.md`](README.md) — [E05](E05_disability.md) if the closed door is access rather than takeover; [E06](E06_age_related_challenges.md) if help is taking over decisions as remembering or stamina changes, not because of a mental-health label
+- Operators only (not an answer key): lived packet [`../../../evaluation/lived_situations/packets/S06_mental_health_takeover.md`](../../../evaluation/lived_situations/packets/S06_mental_health_takeover.md)

@@ -32,6 +32,8 @@
 
 <br>
 
+*In plain terms: once help and harm are verified, this chapter says what actually follows — remedy, locks, and real effects — without rewriting the facts or folding the two tracks into one score.*
+
 Chapter Nine is the constitutional owner of **standing integration and standing effects**, including attachments, the consequence-facing use of Chapter Eight descriptors, standing locks, remedy assignment, voluntary public accountability expression, and enforcement anchors.
 
 <a id="operative-steward-statement-remedy"></a>
@@ -41,6 +43,8 @@ Question 3 of the standing pipeline applies the [Constitutional Tetrad](core_00_
 <a id="1-immutable-chapter-eight-inputs"></a>
 
 ### 1. Chapter Eight records do not change
+
+*In plain terms: this chapter starts from the verified records Chapter Eight already made. It may not reopen the facts, guess a missing track, or pick a rating to get a preferred result.*
 
 Chapter Nine starts with the verified standing records produced under Chapter Eight. It uses only records that apply to the decision, and it keeps contribution and violation records separate:
 
@@ -73,6 +77,8 @@ The [Rights Floor](core_06_rights_part_a.md#chapter-six-foundational-rights) doe
 
 <a id="2-integration-record-and-decision-order"></a>
 ### 2. Automatic integration, review, and continuity
+
+*In plain terms: when a verified record opens or changes, an integration record must follow automatically, keep the two tracks separate, and stay inspectable — including when the computers are down.*
 
 The standing system must automatically create or update a distinct **integration record** whenever an applicable Chapter Eight record is opened, updated, corrected, or superseded. The integration record cross-references, but does not alter, its source records. The system must keep contribution and violation records separate rather than combining them into a running balance or lifetime score.
 
@@ -107,6 +113,8 @@ During a technology outage, authorized bodies must use a manual continuity proce
 
 <a id="3-descriptor-integration-and-attachment-normalization"></a>
 ### 3. Descriptor integration and attachment normalization
+
+*In plain terms: descriptors say **how** verified help or harm happened. This chapter imports them as they were recorded. It may not quietly reclassify them to change the result.*
 
 Descriptors answer **how** verified benefit or harm occurred and are assigned as Question 2 outputs under the [Chapter Eight normalized descriptor catalog](core_08_standing_assessment.md#43-route-descriptor-measurement-roles). Attachments state legally or constitutionally relevant response character for Question 3. Descriptors and attachments are stackable, non-exclusive, and subordinate to the fixed Chapter Eight slot. A single integration record may carry several where the verified facts warrant.
 
@@ -579,6 +587,8 @@ An applicable standing lock under [§4.2](#42-general-standing-locks) and [§5](
 <a id="7-final-standing-effect"></a>
 ### 7. Final standing effect
 
+*In plain terms: when the earlier steps are done, the system must state — one named pathway at a time — what is open, limited, or blocked. That statement is not a dignity rank or a merged score.*
+
 The standing system must **automatically** state the final standing effect for each named pathway once the earlier steps in [§2](#2-integration-record-and-decision-order) are complete. That statement must list every open clearance and every restricted named pathway. No additional manual approval is required when verified inputs and published rules produce a determinate result. Contested, uncertain, novel, materially discretionary, or high-impact questions still assemble and route automatically, then go to authorized review under [§2](#2-integration-record-and-decision-order).
 
 **Separate roles.** Automatic integration may use verified records, remedies, correction duties, locks, bars, clearances, and descriptors together. Each still has its own job, and none may do the work of another. Closer or automated scrutiny is not, by itself, a reason to impose a harsher restriction. Any restriction must be necessary, matched to the verified facts, backed by evidence, open to review, and consistent with **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
@@ -625,6 +635,8 @@ It must also expose the inputs, weights, rules, and review routes used. The fina
 
 <a id="8-restoration-and-reassessment"></a>
 ### 8. Restoration and reassessment
+
+*In plain terms: a lock that is not permanent must have a real way back. Restoration is not automatic forgiveness, record erasure, or letting past help cancel verified harm.*
 
 Every non-permanent lock must provide a real route to review. Restoration may require completed correction, restitution, remedy, evidence preservation, safeguard implementation, monitoring, requalification, supervised lower-risk service, or another verified reduction in recurrence risk. Historical status alone cannot justify indefinite exclusion.
 

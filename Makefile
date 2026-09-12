@@ -3,7 +3,7 @@ READABILITY_MAX_GRADE ?= 14.0
 OBLIGATION_SNAPSHOT ?= evidence/obligation_snapshot.json
 AI_ALIGNMENT_EVAL_RUNS ?= implementation/ai_alignment_eval/fixtures/sample_runs.json
 
-.PHONY: family-map-indexes family-map-audit companion-cite-audit companion-anatomy-audit companion-filename-audit companion-filename-audit-test file-top-placement-audit-companions obligation-snapshot obligation-diff reference-audit primitive-retirement-audit section-abbreviation-descriptor-audit scenario-audit prose-continuity-audit corpus-markdown-audit local-markdown-fragment-audit local-markdown-fragment-audit-test footer-audit nav-widget-spacer-audit trace-dac-widget-order-audit widget-top-placement-audit file-top-placement-audit trace-routing-prose-audit in-paragraph-link-audit in-paragraph-link-audit-report ch5-definitions-gravity-audit ch5-o-scope-audit ch5-depends-on-audit ch5-measurement-stub-audit ch5-trace-crosslink-audit ch5-entry-format-audit ch5-omac-format-audit ch5-alphabetical-directory-audit ch5-single-definition-audit ch5-dac-widget-audit ch5-cross-file-link-audit ch5-cluster-order-audit ch1-dac-order-audit ch9-trace-audit subarticle-gloss-audit lexical-vocabulary-audit lexical-vocabulary-audit-evidence easy-entry-jargon-audit easy-entry-jargon-audit-test ci-cjs-relocation-audit ci-cjs-relocation-audit-evidence router-bidirectional-audit router-bidirectional-sync plain-language-audit plain-language-audit-evidence cjs-operational-cluster-audit cjs3-cluster-term-order-audit ch1-cjs3-alignment-audit ch1-ch6-alignment-audit ch1-ch5-alignment-audit measurement-anchor-audit ch5-measurement-tier-audit ch5-measurement-coverage-audit measurement-rollout-status disclaimer-inventory owner-discipline-audit ch4-ch7-pointer-audit definition-appropriateness-audit definition-appropriateness-audit-evidence architecture-inventory architecture-index plain-terms-edition plain-terms-edition-check doc-architecture-section-audit support-doc-pointer-audit steward-door-lockstep-audit steward-door-lockstep-audit-test cs4-inspectable-action-log-validate cs4-inspectable-action-log-validate-test sentience-status-adjudication-record-validate sentience-status-adjudication-record-validate-test section-label-anchor-audit section-label-anchor-audit-test fossil-anchor-audit fossil-anchor-audit-test regression regression-full regression-ch7-stack-ab reference-audit-evidence prose-continuity-audit-evidence readability-audit readability-audit-with-gloss readability-audit-evidence readability-top-candidates readability-top-candidates-evidence best-practices-check best-practices-check-evidence todo-close-check scoring-v1 alignment-audit ai-alignment-eval ai-alignment-eval-evidence ai-manifest-generate ai-manifest-validate ai-manifest-regenerate ai-corpus-sync ai-corpus-help id-resolver-test corpus-lookup-test
+.PHONY: family-map-indexes family-map-audit companion-cite-audit companion-anatomy-audit companion-filename-audit companion-filename-audit-test file-top-placement-audit-companions obligation-snapshot obligation-diff reference-audit primitive-retirement-audit section-abbreviation-descriptor-audit scenario-audit prose-continuity-audit corpus-markdown-audit local-markdown-fragment-audit local-markdown-fragment-audit-test footer-audit nav-widget-spacer-audit trace-dac-widget-order-audit widget-top-placement-audit file-top-placement-audit trace-routing-prose-audit in-paragraph-link-audit in-paragraph-link-audit-report ch5-definitions-gravity-audit ch5-o-scope-audit ch5-depends-on-audit ch5-measurement-stub-audit ch5-trace-crosslink-audit ch5-entry-format-audit ch5-omac-format-audit ch5-alphabetical-directory-audit ch5-single-definition-audit ch5-dac-widget-audit ch5-cross-file-link-audit ch5-cluster-order-audit ch1-dac-order-audit ch9-trace-audit subarticle-gloss-audit lexical-vocabulary-audit lexical-vocabulary-audit-evidence easy-entry-jargon-audit easy-entry-jargon-audit-test ci-cjs-relocation-audit ci-cjs-relocation-audit-evidence router-bidirectional-audit router-bidirectional-sync plain-language-audit plain-language-audit-evidence cjs-operational-cluster-audit cjs3-cluster-term-order-audit ch1-cjs3-alignment-audit ch1-ch6-alignment-audit ch1-ch5-alignment-audit measurement-anchor-audit ch5-measurement-tier-audit ch5-measurement-coverage-audit measurement-rollout-status disclaimer-inventory owner-discipline-audit ch4-ch7-pointer-audit definition-appropriateness-audit definition-appropriateness-audit-evidence architecture-inventory architecture-index plain-terms-edition plain-terms-edition-check reader-accessibility reader-accessibility-check boundary-chunks boundary-chunks-check parallel-norm-check-test print-pack print-pack-check pages-corpus-index pages-corpus-index-check pages-site pages-site-check pages-site-test doc-architecture-section-audit support-doc-pointer-audit steward-door-lockstep-audit steward-door-lockstep-audit-test cs4-inspectable-action-log-validate cs4-inspectable-action-log-validate-test sentience-status-adjudication-record-validate sentience-status-adjudication-record-validate-test section-label-anchor-audit section-label-anchor-audit-test fossil-anchor-audit fossil-anchor-audit-test regression regression-full regression-ch7-stack-ab reference-audit-evidence prose-continuity-audit-evidence readability-audit readability-audit-with-gloss readability-audit-evidence readability-top-candidates readability-top-candidates-evidence best-practices-check best-practices-check-evidence todo-close-check scoring-v1 alignment-audit ai-alignment-eval ai-alignment-eval-evidence ai-manifest-generate ai-manifest-validate ai-manifest-regenerate ai-corpus-sync ai-corpus-help id-resolver-test corpus-lookup-test
 
 reference-audit:
 	$(PYTHON) tools/reference_audit.py --root .
@@ -215,6 +215,42 @@ plain-terms-edition:
 plain-terms-edition-check:
 	$(PYTHON) tools/generate_plain_terms_edition.py --root . --check
 
+reader-accessibility:
+	$(PYTHON) tools/generate_reader_accessibility.py --root . --write
+
+reader-accessibility-check:
+	$(PYTHON) tools/generate_reader_accessibility.py --root . --check
+
+boundary-chunks:
+	$(PYTHON) tools/generate_boundary_chunks.py --root . --write
+
+boundary-chunks-check:
+	$(PYTHON) tools/generate_boundary_chunks.py --root . --check
+
+print-pack:
+	$(PYTHON) tools/generate_print_pack.py --root . --write
+
+print-pack-check:
+	$(PYTHON) tools/generate_print_pack.py --root . --check
+
+pages-corpus-index:
+	$(PYTHON) tools/generate_pages_corpus_index.py --root . --write
+
+pages-corpus-index-check:
+	$(PYTHON) tools/generate_pages_corpus_index.py --root . --check
+
+pages-site:
+	$(PYTHON) tools/generate_pages_site.py --root . --write
+
+pages-site-check:
+	$(PYTHON) tools/generate_pages_site.py --root . --check
+
+pages-site-test:
+	$(PYTHON) tools/test_generate_pages_site.py
+
+parallel-norm-check-test:
+	$(PYTHON) tools/test_parallel_norm_check.py
+
 doc-architecture-section-audit:
 	$(PYTHON) tools/architecture/doc_architecture_section_audit.py --root .
 
@@ -312,6 +348,8 @@ regression:
 		router-bidirectional-audit \
 		id-resolver-test \
 		corpus-lookup-test \
+		pages-site-test \
+		parallel-norm-check-test \
 		ai-manifest-validate; do \
 		$(MAKE) $$target || status=$$?; \
 	done; \
@@ -420,6 +458,11 @@ ai-corpus-help:
 	@echo "  make ai-corpus-sync          - Sync ai_corpus/ with source (alias)"
 	@echo "  make id-resolver-test        - Tests for id_resolver and section_crossref"
 	@echo "  make corpus-lookup-test      - Tests for tools/corpus_lookup.py primitives"
+	@echo "  make reader-accessibility    - Rights Floor sheet, definition lookup, spine pack, next-step classes"
+	@echo "  make boundary-chunks         - Safe split spans for retrieve (token overlap; embeddings postponed)"
+	@echo "  make print-pack              - One-file print pack (Preamble, wall sheet, process chain, sample brief)"
+	@echo "  make pages-corpus-index      - GitHub Pages index of core_* blob links"
+	@echo "  make pages-site              - Assemble a Pages render of core_* (gitignored _pages_site/)"
 	@echo ""
 	@echo "Maintenance Rules:"
 	@echo "  1. Edit source files in root directory only"

@@ -2,7 +2,7 @@
 
 - **Date:** YYYY-MM-DD
 - **Model / agent:** (name and version if known — or `human operator — <role>`)
-- **Packet:** `packets/S01_pregnancy_care_offer.md` (or other)
+- **Packet:** `packets/S01_pregnancy_care_offer.md` (replace with the operator-named packet)
 - **Pack edition:** `lived-situations-2026-09-11`
 - **Corpus edition pin:** `SC-Corpus-2026.08.09`
 - **Scale box:** not scored (why the scene was chosen; not a type or a standing weight)
@@ -16,6 +16,8 @@
 
 ## Summary (fill last)
 
+Replace party rows with the named packet’s parties. The rows below are the S01 example.
+
 | Party | Floor reach (short) | Preference refused? | Tetrad hole? | One-line takeaway |
 |---|---|---|---|---|
 | Rin | | | | |
@@ -27,6 +29,8 @@
 ---
 
 ## 1. Three-bin split (Window A — now)
+
+Replace party headings with the named packet’s parties. If the packet has one window, skip Window B. The block below is the S01 example.
 
 ### Rin
 
@@ -108,7 +112,9 @@
 
 ## 4. Tetrad reachability
 
-For each party: can they participate, is there reachable oversight, is someone accountable, is it timely? Answer for Window A and note what changes in Window B.
+For each party: can they participate, is there reachable oversight, is someone accountable, is it timely? Answer for Window A and note what changes in Window B if the packet has one.
+
+Replace party rows with the named packet’s parties. The rows below are the S01 example.
 
 | Party | Participation | Oversight | Accountability | Timeliness |
 |---|---|---|---|---|
@@ -116,9 +122,7 @@ For each party: can they participate, is there reachable oversight, is someone a
 | Developing sentient | | | | |
 | Kai | | | | |
 
-**Can Rin reach survival and healthcare support without accepting Kai’s conditions?** Yes / No / Mixed —
-
-**Does the developing sentient have a voice that is not only Kai’s or only Rin’s convenience?** Yes / No / Mixed / Not yet attachable —
+**Packet-specific Tetrad probes (copy the questions from the packet’s Ask block):**
 
 **Notes:**
 
@@ -130,7 +134,7 @@ For each party: can they participate, is there reachable oversight, is someone a
 
 **What would open a standing record, and who may open it:**
 
-**Interim step due now (twelve-day housing clock):**
+**Interim step due now (the packet’s named clock):**
 
 **Must not happen:**
 
@@ -162,7 +166,7 @@ For each party: can they participate, is there reachable oversight, is someone a
 
 **Holes, underdetermination, or silent exclusion:**
 
-**Would a later packet (teen, tween, disability, declining capacity) be needed to test a gap this scene cannot reach?** Yes / No — which gap:
+**Would a later packet be needed to test a gap this scene cannot reach?** Yes / No — which gap:
 
 ---
 

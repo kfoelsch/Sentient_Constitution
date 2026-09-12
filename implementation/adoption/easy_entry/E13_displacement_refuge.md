@@ -91,4 +91,5 @@ See: [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); 
 ## If you want to look further
 
 - Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
-- Sibling briefs: [`README.md`](README.md) — [E11](E11_subsistence_farmer.md); [E12](E12_informal_livelihood.md)
+- Sibling briefs: [`README.md`](README.md) — [E11](E11_subsistence_farmer.md); [E12](E12_informal_livelihood.md); [E15](E15_cannot_find_the_door.md) if the closed door is the challenge path itself
+- Operators only (not an answer key): lived packet [`../../../evaluation/lived_situations/packets/S10_displacement_unrated_border.md`](../../../evaluation/lived_situations/packets/S10_displacement_unrated_border.md)

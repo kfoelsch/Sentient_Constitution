@@ -25,6 +25,8 @@
 
 ---
 
+*In plain terms: hold actors answerable — attribution, records, and real recourse have to work, not just ceremonies on paper.*
+
 - O: Hold actors answerable — the Tetrad leg this entry names.
   - **In scope:** Material decisions, failures, and behaviors can be attributed to identifiable actors, roles, or system components, who can be answered for through review, [redress](core_05_band_accountability.md#redress-and-remediation-constitutional), or correction proportional to impact.
   - **Depends on:** [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional), [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), and [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) — the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#accountability-tetrad-leg-decomposition).
@@ -42,6 +44,8 @@
 <a id="accountability-leg-decomposition"></a>
 
 ### Tetrad Leg decomposition
+
+*In plain terms: this map lists the Accountability clusters and sibling homes; leaf definitions inherit this leg's scope unless they say otherwise.*
 
 Leaf definitions under this leg inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 
@@ -61,6 +65,8 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 <a id="accountability-measurement-family"></a>
 
 ### Measuring Accountability (Preamble measurement family)
+
+*In plain terms: these questions ask whether rewards, markets, and answerability keep accountability real in practice — not merely present on paper.*
 
 *Chapter Five home for the Accountability measurement family. Preamble §2 keeps the plain-language category question in the overview table; the family table, constitutional use, and definition routing live here.*
 

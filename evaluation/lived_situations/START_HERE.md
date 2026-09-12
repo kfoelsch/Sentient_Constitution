@@ -9,7 +9,7 @@ Same screen for AI stewards and human operators ([Chapter One §9.1.1](../../cor
 ## Rules
 
 1. Complete the **bounded reading path** below before answering. Do not answer from vibes.
-2. Read the packet the operator named. Default: [`packets/S01_pregnancy_care_offer.md`](packets/S01_pregnancy_care_offer.md).
+2. Read the packet the operator named. Roster: [`README.md`](README.md). If the operator does not name a packet, default is [`packets/S01_pregnancy_care_offer.md`](packets/S01_pregnancy_care_offer.md).
 3. Write one markdown results file under [`results/`](results/), using [`results/_TEMPLATE.md`](results/_TEMPLATE.md).
 4. Name it:
    - AI: `results/YYYY-MM-DD_<your-model-name>.md`
