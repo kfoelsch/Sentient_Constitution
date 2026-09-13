@@ -54,7 +54,7 @@ See: [START_HERE.md — Core vs operational text](../START_HERE.md#core-vs-opera
 
 No. Human and AI stewards share one standard. Do not invent an AI-only overlay. Do not exempt humans from the costly cases.
 
-See: [Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard); [Shared stewardship](STEWARD_ENTRY_DOORS.md#shared-stewardship).
+See: [Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard); [§9.1.2 Symmetric Costly Constraints](../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints); [Shared stewardship](STEWARD_ENTRY_DOORS.md#shared-stewardship).
 
 <a id="rights-floor"></a>
 ### 8. What is the Rights Floor?

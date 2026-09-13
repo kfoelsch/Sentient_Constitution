@@ -101,15 +101,15 @@ Depth and frequency scale with [material stake](../core_00_preamble.md#material-
 
 A working audit process follows this chain:
 
-1. **Preserve evidence.** Keep records sufficient to reconstruct material behavior, decisions, effects, and claims (see the [CJS-3.3 OP annex](cjs_03o_oversight_operations.md#cjs-33-auditability-annex); **Article XV-A**).
-2. **Choose the access path.** Use the tier that fits the data and the question:
+1. **Preserve evidence:** Keep records sufficient to reconstruct material behavior, decisions, effects, and claims (see the [CJS-3.3 OP annex](cjs_03o_oversight_operations.md#cjs-33-auditability-annex); **Article XV-A**).
+2. **Choose the access path:** Use the tier that fits the data and the question:
    - **public baseline** where [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) or other public duties apply (**Type O** under **CS-2**)
    - **qualified / structured audit access** to non-public source (**Type G** or other non-public typing) when raw public release is inappropriate
    - **forensic depth** when harm, dispute, or credible risk requires full reconstruction
    - Access-tier mechanics live in **[CJS-3.4](cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)**; typing lives in **CS-2**.
-3. **Run an independent check.** Someone who is not captured by the operator or the claim under review must be able to test the evidence (**CJS-3.5**; **Article XV-B** / **XV-C**).
-4. **Publish usable outputs.** Findings, reports, eligibility rules for deeper access, and related artifacts must exist and remain reachable. Disclose them at the **most open feasible** tier: **Type O** (including strongest feasible public substitute) where feasible; otherwise qualified **Type G** or other non-public source; forensic or more-restricted tiers only as justified — see **[CJS-3.4](cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)**.
-5. **Leave challenge and correction open.** Audit supports contest under **Article XII-B**; it does not replace it. Material findings must be correctable and reviewable.
+3. **Run an independent check:** Someone who is not captured by the operator or the claim under review must be able to test the evidence (**CJS-3.5**; **Article XV-B** / **XV-C**).
+4. **Publish usable outputs:** Findings, reports, eligibility rules for deeper access, and related artifacts must exist and remain reachable. Disclose them at the **most open feasible** tier: **Type O** (including strongest feasible public substitute) where feasible; otherwise qualified **Type G** or other non-public source; forensic or more-restricted tiers only as justified — see **[CJS-3.4](cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)**.
+5. **Leave challenge and correction open:** Audit supports contest under **Article XII-B**; it does not replace it. Material findings must be correctable and reviewable.
 
 Privacy and internal-state protections (**Article VII-B**) limit what may be exposed. They do **not** excuse hiding what was done, why it mattered, who or what was responsible, or what external effects followed.
 

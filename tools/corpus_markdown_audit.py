@@ -7,15 +7,28 @@ not affect reference_audit but break reader scanability and intended hierarchy.
 Also enforces a blank line before ``---`` horizontal rules (CommonMark / Cursor
 preview): a ``---`` line immediately under non-empty text is parsed as a Setext
 heading underline, not a thematic break.
+
+Rule MD-LIST-INTRO-01: a bold list-intro lead-in must end with a colon, not a
+period. That covers a standalone ``**Record and showing:**`` line, a
+heading-echo run-in (``**Symmetric costly constraints:**`` … then a list), and
+a list-item label (``- **Not standing:**`` …). Ordinary run-in labels that do
+not restate the heading (``**Admission scope.**``) remain out of scope.
 """
 
 from __future__ import annotations
 
 import argparse
 import pathlib
+import re
 import sys
 
 from corpus_paths import binding_corpus_scope
+
+RULE_LIST_INTRO = "MD-LIST-INTRO-01"
+LIST_INTRO_HEADER_RE = re.compile(r"^\*\*(.+)\.\*\*\s*$")
+LIST_ITEM_RE = re.compile(r"^(?:[-*] |\d+\. )")
+HEADING_RE = re.compile(r"^#{2,6}\s+(?:\d+(?:\.\d+)*\s+)?(.+)$")
+ITALIC_GLOSS_RE = re.compile(r"^\*[^*].*\*$")
 
 
 def parse_args() -> argparse.Namespace:
@@ -77,6 +90,137 @@ def next_non_empty(lines: list[str], start: int) -> int:
     while j < len(lines) and not lines[j].strip():
         j += 1
     return j
+
+
+def next_content_after_header(lines: list[str], header_i: int) -> int:
+    """Skip blanks and ``<a id>`` tags after a standalone bold header."""
+    j = next_non_empty(lines, header_i + 1)
+    while j < len(lines) and lines[j].strip().startswith("<a id="):
+        j = next_non_empty(lines, j + 1)
+    return j
+
+
+def is_markdown_list_item(line: str) -> bool:
+    return bool(LIST_ITEM_RE.match(line.lstrip(" \t")))
+
+
+def first_closed_bold_parts(text: str) -> tuple[str, str] | None:
+    if not text.startswith("**"):
+        return None
+    close = text.find("**", 2)
+    if close < 2:
+        return None
+    return text[2:close], text[close + 2 :]
+
+
+def first_closed_bold(stripped: str) -> str | None:
+    parts = first_closed_bold_parts(stripped)
+    return None if parts is None else parts[0]
+
+
+def split_list_item(raw: str) -> tuple[str, str] | None:
+    match = re.match(r"^(\s*(?:[-*] |\d+\. ))(.*)$", raw)
+    if not match:
+        return None
+    return match.group(1), match.group(2)
+
+
+def normalize_heading_title(text: str) -> str:
+    text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
+    text = re.sub(r"[*_`]", "", text)
+    text = re.sub(r"\s+", " ", text).strip().casefold()
+    return text.rstrip(".:")
+
+
+def is_section_chrome(stripped: str, details_depth: int) -> bool:
+    if not stripped or details_depth > 0:
+        return True
+    if stripped.startswith(("<a id=", "<br", "<details", "</details", "<summary", "</summary")):
+        return True
+    if stripped.startswith(">"):
+        return True
+    if ITALIC_GLOSS_RE.match(stripped):
+        return True
+    return False
+
+
+def introduces_following_list(lines: list[str], header_i: int) -> bool:
+    j = next_content_after_header(lines, header_i)
+    return j < len(lines) and is_markdown_list_item(lines[j])
+
+
+def list_intro_error(path_label: str, line_no: int, stripped: str) -> str:
+    preview = stripped if len(stripped) <= 80 else stripped[:77] + "..."
+    return (
+        f"{path_label}:{line_no}: bold list-intro header must end with a colon, "
+        f"not a period ({RULE_LIST_INTRO}): {preview!r}"
+    )
+
+
+def list_item_label_needs_colon(body: str, following_is_list: bool) -> bool:
+    parts = first_closed_bold_parts(body)
+    if parts is None:
+        return False
+    inner, after = parts
+    if not inner.endswith("."):
+        return False
+    return bool(after.strip()) or following_is_list
+
+
+def check_list_intro_colon(lines: list[str], path_label: str) -> list[str]:
+    """Bold list-intro lead-ins (standalone, heading-echo, or list-item) must use a colon."""
+    errors: list[str] = []
+    in_fence = False
+    details_depth = 0
+    heading_norm: str | None = None
+    seen_body = False
+    for i, raw in enumerate(lines):
+        stripped = raw.strip()
+        if stripped.startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        if stripped.startswith("<details"):
+            details_depth += 1
+        elif stripped.startswith("</details"):
+            details_depth = max(0, details_depth - 1)
+        heading_m = HEADING_RE.match(stripped)
+        if heading_m and details_depth == 0:
+            heading_norm = normalize_heading_title(heading_m.group(1))
+            seen_body = False
+            continue
+        if is_section_chrome(stripped, details_depth):
+            continue
+        flagged = False
+        if not seen_body:
+            inner = first_closed_bold(stripped)
+            if (
+                heading_norm
+                and inner is not None
+                and inner.endswith(".")
+                and normalize_heading_title(inner) == heading_norm
+                and introduces_following_list(lines, i)
+            ):
+                errors.append(list_intro_error(path_label, i + 1, stripped))
+                flagged = True
+            seen_body = True
+        if flagged:
+            continue
+        item = split_list_item(raw)
+        if item is not None:
+            _prefix, body = item
+            if list_item_label_needs_colon(body, introduces_following_list(lines, i)):
+                errors.append(list_intro_error(path_label, i + 1, stripped))
+            continue
+        if stripped.startswith(("#", "<", ">", "|")):
+            continue
+        if not LIST_INTRO_HEADER_RE.match(stripped):
+            continue
+        if not introduces_following_list(lines, i):
+            continue
+        errors.append(list_intro_error(path_label, i + 1, stripped))
+    return errors
 
 
 def is_nested_bullet(line: str) -> bool:
@@ -317,6 +461,15 @@ def main() -> int:
         rel = tb_path.relative_to(root).as_posix()
         findings.extend(check_horizontal_rule_preceding_blank(tb_lines, rel))
         findings.extend(check_oec_intro_sublist_nesting(tb_lines, rel))
+
+    for rel in binding_corpus_scope(root):
+        path = root / rel
+        if path.is_file():
+            findings.extend(
+                check_list_intro_colon(
+                    path.read_text(encoding="utf-8").splitlines(), rel
+                )
+            )
 
     s65 = slice_between(
         ch4_text,

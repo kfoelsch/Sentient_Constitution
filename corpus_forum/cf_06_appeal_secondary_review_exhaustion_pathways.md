@@ -76,7 +76,7 @@ When an adopting system permits depositions, the rules must define at least: who
 
 **Usage.** Adopting instruments should use the categories in this subsection when a disposition may matter beyond the immediate case. The categories say how far the ruling travels: only to the parties, to a class or shared practice, to later panels, or through a technical standard. For structured records, each category is assigned through the stable **CF-6.1.1** through **CF-6.1.4** class labels below. These are local **forum disposition-effect** categories and record labels. They are not CJS-3 (*Implementation and cross-implementation operational cluster library*) operational cluster labels, not `corpus_systems.md` data-type labels, not `corpus_systems.md` system-class labels, and not institutional **CI-** anchors.
 
-**Disposition-effect categories.**
+**Disposition-effect categories:**
 - **Party-bound** (**CF-6.1.1**) — effect remains with the parties and decided issues.
 - **Scope-anchored** (**CF-6.1.2**) — effect reaches a class, subclass, shared practice, common rule, or representative stake.
 - **Published panel-rule** (**CF-6.1.3**) — effect supplies a presumptive rule, threshold, or disposition pattern for later panels.

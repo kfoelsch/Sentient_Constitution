@@ -239,10 +239,10 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether invention rewards stay real contribution rewards — not lasting lock-up of repair, reuse, research, or public-interest use.
 
     **Primary assessment:** Evaluate innovation-reward claims in this sequence:
-    1. **Identify the actual contribution.** Assess development burden, disclosure sufficiency, and public benefit. Reward requires a real contribution and enough disclosure for independent understanding, audit, and later implementation — subject only to justified temporary limits.
-    2. **Separate attribution from exclusion.** A claimant may keep credit, provenance, and recognition after any exclusion term ends. These interests do not by themselves justify control over repair, reuse, compatibility, research, education, migration, or public-interest implementation.
-    3. **Test necessity and proportionality.** Ask whether exclusivity is needed at all. Ask whether the same or greater public benefit could come through less-restrictive reward tools. Any exclusion must be narrow, time-bounded, and reviewable under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality).
-    4. **Scale to context.** Adjust analysis for:
+    1. **Identify the actual contribution:** Assess development burden, disclosure sufficiency, and public benefit. Reward requires a real contribution and enough disclosure for independent understanding, audit, and later implementation — subject only to justified temporary limits.
+    2. **Separate attribution from exclusion:** A claimant may keep credit, provenance, and recognition after any exclusion term ends. These interests do not by themselves justify control over repair, reuse, compatibility, research, education, migration, or public-interest implementation.
+    3. **Test necessity and proportionality:** Ask whether exclusivity is needed at all. Ask whether the same or greater public benefit could come through less-restrictive reward tools. Any exclusion must be narrow, time-bounded, and reviewable under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality).
+    4. **Scale to context:** Adjust analysis for:
        - system class;
        - [Dependency](core_05_band_continuity.md#dependency);
        - coordination power;
@@ -250,12 +250,12 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
        - [Reversibility](core_05_band_continuity.md#reversibility-constitutional).
 
        The stronger the dependency, leverage, or irreversibility, the stronger the presumption against exclusion.
-    5. **Prefer non-monopoly mechanisms.** Use prize, levy, pooled-license, public-buyout, compulsory-access, or similar tools where exclusivity would predictably create lock-in, anti-competitive warehousing, or material harm to:
+    5. **Prefer non-monopoly mechanisms:** Use prize, levy, pooled-license, public-buyout, compulsory-access, or similar tools where exclusivity would predictably create lock-in, anti-competitive warehousing, or material harm to:
        - Class A, Class B, or Class C systems;
        - survival-critical domains;
        - standards-setting functions; or
        - foundational knowledge.
-    6. **Apply rebuttable presumptions.** Strong exclusion faces a rebuttable presumption against it for:
+    6. **Apply rebuttable presumptions:** Strong exclusion faces a rebuttable presumption against it for:
        - medicines and public-health essentials;
        - survival-critical infrastructure;
        - foundational scientific knowledge;
@@ -636,7 +636,7 @@ See **Joint invocation and satisfaction**.
     <a id="constitutional-owner-layers"></a>
     <a id="constitutional-owner-layers-a"></a>
     <a id="constitutional-owner-layers-c"></a>
-    - **Owner register and non-relocation.** The positive register of which chapter owns which substantive domain is the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) (sections 4–7), read with chapter opening owner statements. That register works with this entry as follows:
+    - **Owner register and non-relocation:** The positive register of which chapter owns which substantive domain is the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) (sections 4–7), read with chapter opening owner statements. That register works with this entry as follows:
       1. identify source status under the Authority Stack;
       2. identify the substantive owner under the Preamble register (and the chapter's binding opening owner claim);
       3. apply Internal Hierarchy only for genuine residual incompatibility within the binding constitutional source.
@@ -649,7 +649,7 @@ See **Joint invocation and satisfaction**.
     <a id="supremacy-and-enforceability"></a>
     <a id="supremacy-and-enforceability-a"></a>
     <a id="supremacy-and-enforceability-c"></a>
-    - **Supremacy.** Binding corpus obligations prevail within their valid source, adoption, and governance-layer scope. That supremacy effect is the outcome of applying this entry together with the operative [Corpus](core_05_band_integrative.md#corpus) and the applicable adoption or incorporation instrument — including [Chapter Fourteen](core_14_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) supremacy relative to other norms and [Chapter Fourteen §5](core_14_expansion_supremacy.md#5-relation-to-applicable-external-law) non-displacement of applicable external law. Implementation, support text, private ordering, emergency framing, or operational practice must not narrow those binding obligations within their valid scope.
+    - **Supremacy:** Binding corpus obligations prevail within their valid source, adoption, and governance-layer scope. That supremacy effect is the outcome of applying this entry together with the operative [Corpus](core_05_band_integrative.md#corpus) and the applicable adoption or incorporation instrument — including [Chapter Fourteen](core_14_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) supremacy relative to other norms and [Chapter Fourteen §5](core_14_expansion_supremacy.md#5-relation-to-applicable-external-law) non-displacement of applicable external law. Implementation, support text, private ordering, emergency framing, or operational practice must not narrow those binding obligations within their valid scope.
 
     Practical enforceability of binding claims — observable, contestable compliance rather than paper promises — is assessed under [Auditability](core_05_band_oversight.md#auditability) and [Contestability](core_05_band_accountability.md#contestability). Governance-layer anti-substitution (Constitutional Contract vs Stakeholder System Participation) lives under [Preamble §3.3](core_00_preamble.md#33-governance-layers) and [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer).
 

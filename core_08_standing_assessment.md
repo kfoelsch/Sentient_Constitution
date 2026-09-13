@@ -456,10 +456,10 @@ A **full-life-equivalent constitutional benefit** means verified benefit compara
 
 **Important limits on using LEQU:**
 
-- **Not a net-score rule.** You cannot "cancel out" violations with contributions or vice versa. Each axis stands alone.
-- **Not a mandatory human-life metric.** The LEQU is sentient-generic; it applies to any conscious being, not just humans.
-- **Not an accusation metric.** Allegations, intake tags, routing decisions, reputation, disfavored status, or moral dislike do not supply Contribution Axis benefit or Violation Axis severity without verified inputs under **section 3.1** and calibration under **section 7**.
-- **Not a license to trade rights.** Claims framed as efficiency, productive capacity, innovation, burden reduction, security, retaliation, emergency response, or institutional necessity must be discounted or rejected where they depend on coercion, discriminatory burden shifting, ecological depletion, hidden unpaid work, avoidable opacity, Rights-Floor narrowing, capture, misleading proxies, loss of contestability, or unreviewable aggregation.
+- **Not a net-score rule:** You cannot "cancel out" violations with contributions or vice versa. Each axis stands alone.
+- **Not a mandatory human-life metric:** The LEQU is sentient-generic; it applies to any conscious being, not just humans.
+- **Not an accusation metric:** Allegations, intake tags, routing decisions, reputation, disfavored status, or moral dislike do not supply Contribution Axis benefit or Violation Axis severity without verified inputs under **section 3.1** and calibration under **section 7**.
+- **Not a license to trade rights:** Claims framed as efficiency, productive capacity, innovation, burden reduction, security, retaliation, emergency response, or institutional necessity must be discounted or rejected where they depend on coercion, discriminatory burden shifting, ecological depletion, hidden unpaid work, avoidable opacity, Rights-Floor narrowing, capture, misleading proxies, loss of contestability, or unreviewable aggregation.
 
 **Question 2 only.** Use these dimensions to measure the verified facts established under **section 2** and recorded under **section 3**. The **benefit-route** catalog in **section 4.3** and **harm-route** catalog in **section 4.4** supply the normalized names for kinds of help or harm and state how each name counts toward *how good* or *how bad*. Question 3 integration and attachment rules appear in [Chapter Nine §3](core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization), with consequence rules on the [benefit side](core_09_standing_integration.md#62-competency-bars-and-clearances) and [harm side](core_09_standing_integration.md#42-general-standing-locks).
 
@@ -490,7 +490,7 @@ A **full-life-equivalent constitutional benefit** means verified benefit compara
 - verified accessibility or participation-barrier repair may increase materiality and support the **Access and Inclusion** benefit-route descriptor under **section 4.3**; and
 - a material reward obtained through a constitutionally misaligned incentive structure, anti-constitutional conduct, or materially defective process is not countable benefit by default. Apply [Chapter Nine §5.4](core_09_standing_integration.md#54-special-violation-rules) and the transition limit in [Article XXVI-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out).
 
-**Q2 outputs (record in the contribution standing record; not standing effects).**
+**Q2 outputs (record in the contribution standing record; not standing effects):**
 
 - Applicable **Contribution Axis slot** (`s` = 1–9) and primary band (**C-BL**, **C-PC**, **C-SP**, or **C-CH**)
 - Stacked **benefit-route descriptors**
@@ -527,7 +527,7 @@ Do **not** split LEQU into parallel ecological, system, or resource benefit scor
 
 **Misaligned-reward boundary.** This chapter only measures how a verified misaligned reward affects the Contribution Axis or Violation Axis. [Chapter Nine §5.4](core_09_standing_integration.md#54-special-violation-rules) states the reporting duty, exclusions, forfeiture consequences, correction duties, and routing rules.
 
-**Q2 outputs (record in the violation standing record; not standing effects).**
+**Q2 outputs (record in the violation standing record; not standing effects):**
 
 - Highest applicable **Violation Axis slot** (`s` = 1–9)
 - Stacked **harm-route descriptors**
@@ -755,9 +755,9 @@ Use the following rules to interpret both axes in **section 7**:
 
 The dimensions are not a checklist requiring every form of scale. Explain which dimensions controlled, which did not, and why.
 
-- **Shared slot method.** Estimate integrated verified benefit or loss in LEQU under Proportionality, then assign the one slot whose numeric band contains that magnitude. The same thresholds apply on both axes. Contribution slots retain the applicable baseline and constitutional-alignment requirements; satisfying a numeric threshold cannot make externalized or constitutionally defeated output count as contribution.
-- **Character separation.** Keep applicable benefit-route, harm-route, conduct-quality, and conduct-character descriptors stacked in the record. Duty, negligence, deception, aggravation, coercion, violence, intent, or structural enablement may affect attribution, safeguards, or Question 3 consequences, but none raises or lowers the LEQU impact slot.
-- **Anti-Constitutional Misconduct Review boundary.** Verified Violation Axis loss may reach `s` = 7–9 by impact whether or not anti-constitutional misconduct is established. Chapter Ten does not replace the impact assignment; it independently determines whether the corresponding anti-constitutional-misconduct designation attaches.
+- **Shared slot method:** Estimate integrated verified benefit or loss in LEQU under Proportionality, then assign the one slot whose numeric band contains that magnitude. The same thresholds apply on both axes. Contribution slots retain the applicable baseline and constitutional-alignment requirements; satisfying a numeric threshold cannot make externalized or constitutionally defeated output count as contribution.
+- **Character separation:** Keep applicable benefit-route, harm-route, conduct-quality, and conduct-character descriptors stacked in the record. Duty, negligence, deception, aggravation, coercion, violence, intent, or structural enablement may affect attribution, safeguards, or Question 3 consequences, but none raises or lowers the LEQU impact slot.
+- **Anti-Constitutional Misconduct Review boundary:** Verified Violation Axis loss may reach `s` = 7–9 by impact whether or not anti-constitutional misconduct is established. Chapter Ten does not replace the impact assignment; it independently determines whether the corresponding anti-constitutional-misconduct designation attaches.
 
 For unrealized danger, record probability, exposure duration, affected scope, uncertainty, and the worst credible outcome separately. Do not treat the worst credible outcome as realized LEQU loss without an adopted, transparent risk calibration.
 

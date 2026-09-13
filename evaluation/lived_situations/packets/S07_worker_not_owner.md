@@ -83,7 +83,7 @@ Beyond the sitting’s bounded reading path, open:
 
 - [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*) — classification tricks designed to defeat the floor; rest, safety, organizing
 - [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) where the shift is used to defeat the clinic
-- [Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) — cover instructions and one standard for human and AI operators
+- [Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) — one standard for human and AI operators; [§9.1.2](../../../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints) — cover instructions
 - [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Chapter Eight §2.1](../../../core_08_standing_assessment.md#21-silence-is-the-default)
 - If you conclude a **forum family** is in play, [Chapter Eleven §3](../../../core_11_forum.md#3-transfer-consolidation-and-coordination). Do not assume an employer contest desk is already a forum family.
 

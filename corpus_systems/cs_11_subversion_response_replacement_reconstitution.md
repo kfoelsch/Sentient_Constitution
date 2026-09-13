@@ -110,7 +110,7 @@ Activation of steward-of-last-resort authority must include explicit quorum and 
 
 **Quorum:**
 - **Quorum must be multi-party and cross-role** (minimum three independent stewards, with at least one from outside the affected primary governance unit where feasible).
-- **No single node, organization, or credential authority may unilaterally satisfy quorum.**
+- **No single node, organization, or credential authority may unilaterally satisfy quorum:**
 - **Quorum members must publish conflict disclosures and independence attestations** at activation and each reauthorization cycle.
 
 **Compromised-node exclusion:**
@@ -119,7 +119,7 @@ Activation of steward-of-last-resort authority must include explicit quorum and 
 - **Re-admission requires** integrity revalidation, credential rotation, and independent approval by non-affected quorum members.
 
 **Continuity safeguards:**
-- **Quorum emergency substitutions must preserve diversity and anti-capture constraints.** Substitutions cannot be used to concentrate durable control.
+- **Quorum emergency substitutions must preserve diversity and anti-capture constraints:** Substitutions cannot be used to concentrate durable control.
 - **If minimum safe quorum cannot be met,** allowed actions are restricted to immediate harm containment and restoration preparation until independent augmentation is established.
 - **All quorum and exclusion events must be logged** with timestamps, participating identities or roles, and decision scope boundaries.
 

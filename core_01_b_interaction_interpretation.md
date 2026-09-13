@@ -262,7 +262,7 @@ Limitations on constitutional **values** — including **Chapter Six** Rights-Fl
 - Where Safety requires restriction, it must still comply with the floors below and with [§6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) in form.
 
 <a id="rightsfloor-minimums-principle"></a>
-**Rights-Floor Minimums Principle.**
+**Rights-Floor Minimums Principle:**
 - No constitutional process, measure, transition, amendment, standing consequence, emergency action, or justice-related outcome may permanently extinguish or waive the **Rights-Floor minimums** of baseline dignity protections, minimum subsistence access, or core challenge, review, and appeal rights.
 - Temporary restriction of specific rights is permitted only when it satisfies the [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) and the emergency provisions of [Article XXIII-D](core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*) — meaning any restriction must be justified, minimal, documented, time-limited, and independently reviewable. Specific articles may add stronger safeguards, but they may not narrow this principle or use convenience, efficiency, classification, emergency, transition, standing, amendment, contract, or implementation labels to bypass it.
 
@@ -317,7 +317,7 @@ Confidentiality limits on the decision record must satisfy [§6.2 Epistemic Disc
 <a id="default-interim-posture"></a>
 **Default interim posture while a rights collision is pending.** Until the [§6.1 decision-record discipline](#615-rights-collision-decision-test) and [Article XXII](core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) resolve the collision, the holding pattern is fixed so a steward cannot manufacture a winner by improvising:
 
-- **Preserve evidence.** Do not moot the collision by deletion, leak, or irreversible publication.
+- **Preserve evidence:** Do not moot the collision by deletion, leak, or irreversible publication.
 - **Freeze irreversible steps** that would make one of the colliding readings unavailable — do not take a step that cannot be undone if taking it would close the collision, moot one side, or manufacture a winner before interpretation resolves it.
 - **Proceed with reversible, consented steps** that keep both readings available — including independent-reviewer access under [security-constrained observability](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) where consent exists.
 - **Notify** affected parties and the interpretation path of what is frozen, what proceeds, and the applicable clock.
@@ -494,7 +494,7 @@ Availability, observability, prior publication, platform possession, or technica
   - efficiency; or
   - institutional convenience.
 
-**Aggregation and re-identification.**
+**Aggregation and re-identification:**
 - Combining individually non-sensitive data is treated as collection of the resulting sensitive information, and must satisfy the corresponding discipline, when it is used to:
   - reconstruct sensitive personal information;
   - approximate protected internal states; or
@@ -737,9 +737,9 @@ This subsection is the **single canonical procedure** for resolving interpretive
 
 **Operative sequence.** Apply the following **in this order**:
 
-1. **Constitution, non-regression, and adopter hierarchy first.** Apply Sentient Constitution supremacy, **Chapter Thirteen** non-regression constraints, and **Chapter Fourteen** internal hierarchy rules before resolving lower layers.
-2. **Binding constitutional reading.** Within the binding constitutional source, apply **[§8.4.1 Integrated reading](#841-integrated-reading)** and, only if genuine residual incompatibility remains, **[§8.4.2 Last-resort internal hierarchy](#842-last-resort-internal-hierarchy)**.
-3. **Incorporated obligations.** Then apply incorporated obligations under **[§8.4.3 Incorporation layer](#843-incorporation-layer)** and **[§8.4.4 Combined satisfaction of jointly applicable incorporated obligations](#844-combined-satisfaction)**.
+1. **Constitution, non-regression, and adopter hierarchy first:** Apply Sentient Constitution supremacy, **Chapter Thirteen** non-regression constraints, and **Chapter Fourteen** internal hierarchy rules before resolving lower layers.
+2. **Binding constitutional reading:** Within the binding constitutional source, apply **[§8.4.1 Integrated reading](#841-integrated-reading)** and, only if genuine residual incompatibility remains, **[§8.4.2 Last-resort internal hierarchy](#842-last-resort-internal-hierarchy)**.
+3. **Incorporated obligations:** Then apply incorporated obligations under **[§8.4.3 Incorporation layer](#843-incorporation-layer)** and **[§8.4.4 Combined satisfaction of jointly applicable incorporated obligations](#844-combined-satisfaction)**.
 
 <a id="841-integrated-reading"></a>
 ##### 8.4.1 Integrated reading
@@ -773,16 +773,16 @@ After the constitutional reading under **§8.4.1** and **§8.4.2**, apply the **
 
 When the rules below say **strictest** or **stricter**, those words have the same meaning as the **ambiguity** rule in **[§8.3](#83-ambiguity-resolution)**: the **fullest protective effect as an integrated whole**, not **maximal restriction** or **abstract strictness** in isolation.
 
-- **Strictest applicable.** Apply incorporated obligations at the **strictest applicable** level consistent with that constitutional reading.
+- **Strictest applicable:** Apply incorporated obligations at the **strictest applicable** level consistent with that constitutional reading.
   - **Strictest applicable** means the incorporated **text** that preserves the **strongest protective, safety, accountability, and traceability** requirements for the same materially scoped obligation.
   - Choose among alternatives that remain coherent with the constitutional reading produced under the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack).
   - That is the same sense as the Constitution's **fullest protective effect as an integrated whole**.
   - It is **not** **maximal restriction** or **abstract strictness** in isolation.
-- **Stricter clearly adopted baseline.** Where **edition identifiers or custody records** for incorporated artifacts are missing, contradictory, or materially unreliable:
+- **Stricter clearly adopted baseline:** Where **edition identifiers or custody records** for incorporated artifacts are missing, contradictory, or materially unreliable:
   - the **stricter clearly adopted baseline** governs until validity is restored under **Chapters Eleven and Thirteen**;
   - **Stricter clearly adopted baseline** means the **adoption-traceable** incorporated edition or **baseline** the adoption chain **clearly supports** when records are unreliable (custody discipline and **anti-drift** under Chapter Sixteen);
   - this is **not** substantive constitutional ambiguity resolution by preference for **abstract strictness**.
-- **Cross-file stricter-wins.** Where two or more adopted implementation files set different standards for the same meaningfully scoped risk, the stricter clearly adopted rule controls, consistent with **Strictest applicable** and **Stricter clearly adopted baseline** above.
+- **Cross-file stricter-wins:** Where two or more adopted implementation files set different standards for the same meaningfully scoped risk, the stricter clearly adopted rule controls, consistent with **Strictest applicable** and **Stricter clearly adopted baseline** above.
   - Source-layer status remains under the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack).
   - Custody, editions, and adoption framing remain under **[Chapter Sixteen](core_16_incorporation.md#chapter-sixteen-incorporation-bridge)**.
   - The same rule applies when a cited profile and a cited implementation label seem to conflict for that risk.
@@ -798,8 +798,8 @@ This subsection's combined-satisfaction rule is about **more than one how-to fil
 
 **When this subsection applies.** These rules apply within valid adoption and incorporation scope under **[Chapter Sixteen](core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** in either of these cases:
 
-1. **One situation, more than one file.** The facts require applying more than one incorporated implementation file — for example systems, institutions, forums, or joint-structure text. Which files apply is decided by the adoption scope and the topic routing those files provide for the facts, not by choosing only the file that is easiest to satisfy.
-2. **Adoption brings the joint-structure set into force.** The adopting instrument applies designated joint-structure implementation text (the **CJS** folder and any other joint-structure files listed in the adoption chain) to the adopter.
+1. **One situation, more than one file:** The facts require applying more than one incorporated implementation file — for example systems, institutions, forums, or joint-structure text. Which files apply is decided by the adoption scope and the topic routing those files provide for the facts, not by choosing only the file that is easiest to satisfy.
+2. **Adoption brings the joint-structure set into force:** The adopting instrument applies designated joint-structure implementation text (the **CJS** folder and any other joint-structure files listed in the adoption chain) to the adopter.
 
 **Combined satisfaction.** Where more than one incorporated implementation file applies to the same facts under those triggers, compliance means meeting **all** material duties in that set. A sentient or institution cannot satisfy one file and then claim compliance while leaving another material duty undone. Where two files in that set disagree about the same meaningfully scoped risk, apply **[§8.4.3](#843-incorporation-layer)** (*Cross-file stricter-wins*).
 

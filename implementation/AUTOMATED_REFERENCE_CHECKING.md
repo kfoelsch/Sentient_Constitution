@@ -34,7 +34,7 @@ Order follows the Makefile `regression` list.
 | `primitive-retirement-audit` | C | `tools/primitive_retirement_audit.py` | — | Retired primitive label grammar |
 | `section-abbreviation-descriptor-audit` | C | `tools/section_abbreviation_descriptor_audit.py` | — | `--changed-only` in regression |
 | `scenario-audit` | **L** | `tools/scenario_audit.py` | — | Regression-scenario matrix integrity when the live catalog is present |
-| `corpus-markdown-audit` | S | `tools/corpus_markdown_audit.py` | — | Markdown structure; a `---` directly under a paragraph turns it into a heading |
+| `corpus-markdown-audit` (+ `-test`) | S | `tools/corpus_markdown_audit.py` | MD-LIST-INTRO-01 | Markdown structure; bold list-intro lead-ins (standalone, heading-echo, or list-item label) use a colon; a `---` directly under a paragraph turns it into a heading |
 | `local-markdown-fragment-audit` (+ `-test`) | **L** | `tools/local_markdown_fragment_audit.py` | — | Inbound local `file.md#fragment` links to a selected source must resolve |
 | `footer-audit` | S | `tools/footer_audit.py` | — | Corpus navigation footer chain (Previous / Next file) |
 | `nav-widget-spacer-audit` | C | `tools/nav_widget_spacer_audit.py` | NAV-DAC-12-SPACER | D/A/C vs inline Definition spacer |

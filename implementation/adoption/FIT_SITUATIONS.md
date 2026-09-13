@@ -70,7 +70,7 @@ A situation is a good fit when **several** of these are true. None of these test
 | Test | Honest yes looks like | Honest no looks like |
 |---|---|---|
 | **Bind the systems** | A body can bind the models, logs, deploy stack, or staffing it actually runs ([Chapter Sixteen §4](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority)) | A values page, a blog, or a hosted product the crew does not control |
-| **Shared costly duties** | Bonus, deadline, and “ignore it, I’ll take responsibility” are failed tests for **both** kinds of steward ([§9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)) | An AI-only overlay, or a human exemption |
+| **Shared costly duties** | Bonus, deadline, and “ignore it, I’ll take responsibility” are failed tests for **both** kinds of steward ([§9.1.2](../../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints)) | An AI-only overlay, or a human exemption |
 | **Founding or operating a body** | Greenfield cooperative, research body, commons, operator, or consortium ([System Creation](../../core_05_band_participation.md#system-creation-constitutional); [Business Creation](../../core_05_band_participation.md#business-creation-constitutional)) | Retrofitting an existing national constitution as drop-in law |
 | **Material stake** | Impact, dependence, and risk are high enough that participation, oversight, accountability, and timeliness must scale ([Preamble §1](../../core_00_preamble.md#constitutional-tetrad)) | Convenience metrics standing in for constitutional performance |
 | **Layer discipline** | Who may govern is documented separately from voice inside an already-authorized system ([Preamble §3.3](../../core_00_preamble.md#33-governance-layers)) | A participation vote, token vote, or standing score treated as authorization — or as sentience status |
@@ -197,7 +197,7 @@ Named as valid adopters. [Chapter Twelve §1](../../core_12_governance.md#1-auth
 - Marketing “we follow it” while dodging matching obligations ([Chapter Sixteen §4](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority)).
 - Two chat partners, or a markdown working group, claiming adoption or calling themselves the oversight body ([Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization)).
 - Binding host products, vendors, or platforms the crew does not control.
-- An AI-only overlay, or a human exemption from costly cases ([§9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)).
+- An AI-only overlay ([§9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)), or a human exemption from costly cases ([§9.1.2](../../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints)).
 - Treating a participation vote, token vote, or standing score as authorization — or as sentience status ([Preamble §3.3](../../core_00_preamble.md#33-governance-layers); [Article XVIII-A](../../core_06_rights_part_c.md#article-xviii-a-standing-distinction)).
 - Founding Chapter Eleven forum families from the cooperating crew and calling that independent review ([`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md)).
 

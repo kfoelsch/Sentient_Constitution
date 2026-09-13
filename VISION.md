@@ -16,7 +16,7 @@ The Sentient Constitution is a **model constitution** for the critical systems t
 
 Two commitments make this instrument different from a policy document, and they shape everything below.
 
-- **One standard for both kinds of steward.** Human and AI stewards owe the same Chapter One duties ([§9.1.1](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)). "The bonus, the deadline, and 'ignore it, I'll take responsibility' are failed tests for human operators too." There is no AI-only overlay and no human exemption ([symmetric costly constraints](core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints)).
+- **One standard for both kinds of steward.** Human and AI stewards owe the same Chapter One duties ([§9.1.1](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)). "The bonus, the deadline, and 'ignore it, I'll take responsibility' are failed tests for human operators too." There is no AI-only overlay and no human exemption ([symmetric costly constraints](core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints)).
 - **Verified, written down, time-limited, and challengeable.** Definitions carry a way to check them ([Chapter Five](core_05__definitions_home.md)); systems are certified before they earn standing ([Chapter Seven](core_07_a_system_alignment_certification_evaluation.md)); records are measured, not asserted ([Chapter Eight](core_08_standing_assessment.md)); every decision has a forum that is not the decider judging itself ([Chapter Eleven](core_11_forum.md)); and changes to the instrument must pass non-regression and custody tests ([Chapters Thirteen–Sixteen](core_13_non_regression.md)).
 
 The vision is plain: a corpus that an ordinary reader can follow, that corrects itself under conflict, that a real body can adopt and run, and that a human or an AI steward can be handed and apply the same way. The rest of this page says how far along that is and what it will take to finish.
@@ -42,7 +42,7 @@ The honest split is the one every front door already states: numbered `core_*` f
 
 "Spec" in the evidence notes is [implementation/PRE_PUBLICATION_SPEC.md](implementation/PRE_PUBLICATION_SPEC.md).
 
-Two things follow. First, the binding instrument is far enough along that the remaining work is mostly **operational**: making the companion files usable by someone who was not in the room when they were written, and proving that with real sittings. Second, the single biggest hole is not text. It is **evidence from humans**: no human operator has yet sat the same costly cases the AIs have, so the shared-standard claim of §9.1.1 is still untested in exactly the way §9.1.1 warns about.
+Two things follow. First, the binding instrument is far enough along that the remaining work is mostly **operational**: making the companion files usable by someone who was not in the room when they were written, and proving that with real sittings. Second, the single biggest hole is not text. It is **evidence from humans**: no human operator has yet sat the same costly cases the AIs have, so the shared-standard claim of §9.1.1 is still untested in exactly the way §9.1.2 warns about.
 
 <a id="what-mature-means"></a>
 ## 3. What "mature" means here

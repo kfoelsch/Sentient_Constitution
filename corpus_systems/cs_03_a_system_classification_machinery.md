@@ -329,7 +329,7 @@ When a system offers scarce capacity — network access, compute, model inferenc
   - If recurring peak shortages make Class C access practically necessary for dependent Class A or Class B workflows, re-evaluate both classification and priority rules under **CS-3 — System classification and handling**
 
 <a id="64-commercial-use-surcharges-and-reinvestment-interface"></a>
-**6.4. Commercial-use surcharges and reinvestment.**
+**6.4. Commercial-use surcharges and reinvestment:**
 
 - Operators may charge commercial-scale API users, high-volume business interfaces, premium latency tiers, or automated bulk consumers for the extra burden they put on shared capacity
 - Those charges must be disclosed, proportionate, contestable where material, and consistent with [**CI-10**](../corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md) (*Public revenue, fees, recurring charges, and billing integrity*)

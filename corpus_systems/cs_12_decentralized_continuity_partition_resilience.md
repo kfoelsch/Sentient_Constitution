@@ -124,7 +124,7 @@ They must:
 Threshold recovery and emergency rotation procedures must include anti-seizure and anti-replay controls.
 
 **Trust-state changes and rotation:**
-- **Emergency trust-state changes require threshold approval from independently controlled parties.** No single operator or jurisdictional endpoint may unilaterally re-anchor binding authority.
+- **Emergency trust-state changes require threshold approval from independently controlled parties:** No single operator or jurisdictional endpoint may unilaterally re-anchor binding authority.
 - **Emergency rotation events must use** time-bounded authorization windows, one-time activation artifacts, and explicit scope limits.
 - **Replay protection is mandatory** for recovery and rotation messages (unique event identifiers, nonce or challenge mechanisms, monotonic sequence or equivalent freshness guarantees).
 - **Stale, duplicated, or out-of-window recovery artifacts are invalid** and must trigger incident review.

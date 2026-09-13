@@ -167,7 +167,7 @@ Forums supervise lawful implementation, challenge, interim relief, and timely mo
 
 A **standing lock** is a prevention and risk-reduction measure. It blocks or limits a named pathway while a verified violation remains unresolved or materially unremedied. Named pathways include trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, and **stakeholder-participation** pathways. It must identify the blocked named pathway, the risk it is meant to reduce, protected subjects or interests, corrective conditions, review route, and reassessment point.
 
-**Pathway distinction — governance-voting vs stakeholder-participation.**
+**Pathway distinction — governance-voting vs stakeholder-participation:**
 
 - **governance-voting** covers participation in governance voting and comparable legitimacy-mechanism binding collective choice under [Chapter Twelve §4.1](core_12_governance.md#41-entitlement-and-eligibility), including **Foundational Constitutional Choice**. It does **not** include stake-weighted voice inside an already-authorized system, institution, or bounded decision domain.
 - **stakeholder-participation** covers stake-weighted influence, binding stakeholder choice, and comparable Stakeholder System Participation pathways under [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight) and [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster). It does **not** erase [Stakeholder](core_05_band_participation.md#stakeholder) status itself, and it does **not** substitute for a **governance-voting** lock.
@@ -257,8 +257,8 @@ A lock attaches only to a verified finding—not identity, status, accusation, g
 
 Two attachment qualifiers apply whenever the lock's purpose includes risk reduction:
 
-1. **Recurrence uncertainty.** Where whether the same harm will recur remains uncertain, that uncertainty is itself a risk input. Lock design must integrate incomplete, contested, or time-limited evidence about recurrence into the risk assessment rather than treating uncertainty as a reason to leave a sensitive named pathway open.
-2. **Isolation from risk factors.** Where needed for containment or safety, the lock must isolate the responsible sentient from risk factors that would recreate exposure—including networks, associations, settings, and environments of other violators—and from contact with protected subjects or interests where that contact would renew the risk.
+1. **Recurrence uncertainty:** Where whether the same harm will recur remains uncertain, that uncertainty is itself a risk input. Lock design must integrate incomplete, contested, or time-limited evidence about recurrence into the risk assessment rather than treating uncertainty as a reason to leave a sensitive named pathway open.
+2. **Isolation from risk factors:** Where needed for containment or safety, the lock must isolate the responsible sentient from risk factors that would recreate exposure—including networks, associations, settings, and environments of other violators—and from contact with protected subjects or interests where that contact would renew the risk.
 
 **What a lock does not itself restrict.** A standing lock does not by itself cut off:
 
@@ -300,7 +300,7 @@ Locks must remain auditable and contestable while active. Escalation on delay, e
 These rules shape how a lock or safeguard is attached under [§5.1](#51-definition-and-attachment). They do not move the Violation Axis slot. Where a rule leads to a named pathway limit or liberty restriction, the integration record must still name the named pathway, risk, protected interests, corrective conditions, review route, and reassessment point.
 
 <a id="54-negligence-and-neglect-as-violation-nature"></a>
-**Negligence and neglect.**
+**Negligence and neglect:**
 
 - **Named pathway / finding:**
   - Independently recordable where a duty existed.
@@ -311,7 +311,7 @@ These rules shape how a lock or safeguard is attached under [§5.1](#51-definiti
 - **Corrective conditions:** when the harm is material, negligence or neglect must be treated as real duty failure—not brushed off as a paperwork mistake. Naming the conduct as negligence or neglect does not change the Violation Axis slot; the slot stays as Chapter Eight measured it.
 - **Review route and reassessment:** if it is still unclear whether the same neglect will happen again, that uncertainty itself counts as risk under [§5.1](#51-definition-and-attachment). Incomplete recurrence evidence is not a reason to leave a sensitive named pathway open.
 
-**Misaligned rewards.**
+**Misaligned rewards:**
 
 - **Named pathway / finding:**
   - Using a constitutionally misaligned, anti-constitutional, or badly broken system to extract a material reward—pay, bonus, status, credit, ranking, access, or influence.
@@ -354,7 +354,7 @@ These rules shape how a lock or safeguard is attached under [§5.1](#51-definiti
 - **Review route and reassessment:** resistance, reporting, and escalation records feed lock and remedy design under [§5.1](#51-definition-and-attachment); contribution cannot excuse the underlying instruction conduct. Verified failures record on the same Chapter Eight Contribution and Violation axes for both kinds of steward.
 
 <a id="54-collective-accountability-and-acquiescent-participation"></a>
-**Collective accountability.**
+**Collective accountability:**
 
 - **Named pathway / finding:**
   - Diffusion across teams, committees, chains of command, contracts, or distributed systems does not erase responsibility.
@@ -367,7 +367,7 @@ These rules shape how a lock or safeguard is attached under [§5.1](#51-definiti
   - No guilt by association: sharing a team, company, or network is not enough by itself.
 - **Review route and reassessment:** each responsible actor's lock, if any, must still satisfy [§5.1](#51-definition-and-attachment), including isolation from networks or environments that recreate the enabling pattern.
 
-**Coercive or liberty-restricting safeguards.**
+**Coercive or liberty-restricting safeguards:**
 
 - **Named pathway:**
   - Detention.
@@ -619,19 +619,19 @@ It must also expose the inputs, weights, rules, and review routes used. The fina
 
 *In plain terms: this chapter says what standing is not. This subsection stops anyone from building the thing it is not. Effects are stated one named pathway at a time and shown only to whoever gates that named pathway. Stitching them together into a profile, a rank, or a public display constructs the merged score this chapter forbids — and doing so is itself a violation.*
 
-- **Disclosure scope.** The final effect for a named pathway is disclosed to the subject, to the gatekeeper of that named pathway, and to authorized reviewers. It is not disclosed to gatekeepers of other named pathways as a matter of course.
-- **Prohibited aggregation.** Assembling final effects across named pathways into a profile, composite, ranking, tier, badge, public display, or comparable artifact; transferring an effect to a named pathway that did not produce it; or inferring general trustworthiness, worth, or risk from the set of a subject's effects constructs a merged score. It is independently measurable violation conduct under [Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model), read with [Article VII-B](core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*Internal-State Boundary and Type-N Protection*), whose aggregation discipline this subsection mirrors for standing.
-- **Bounded exceptions.** [Integrity forums](core_11_forum.md#45-integrity-forums) examining capture or pattern claims, [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) designation review, and [§9.4](#94-anti-evasion-and-look-through-authority) look-through may view cross-pathway records, under recusal rules and the [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) clocks, for that proceeding only. [Chapter Eight §3.2](core_08_standing_assessment.md#32-related-record-cross-references) cross-references between linked records remain; they are record links, not a composite.
-- **Public LEQU display.** Violation Axis and Contribution Axis slots are not published as a general attribute of a sentient. They appear in the record, in forum proceedings, and in the disclosure to the named-pathway gatekeeper where the slot is a lawful input to that named pathway.
+- **Disclosure scope:** The final effect for a named pathway is disclosed to the subject, to the gatekeeper of that named pathway, and to authorized reviewers. It is not disclosed to gatekeepers of other named pathways as a matter of course.
+- **Prohibited aggregation:** Assembling final effects across named pathways into a profile, composite, ranking, tier, badge, public display, or comparable artifact; transferring an effect to a named pathway that did not produce it; or inferring general trustworthiness, worth, or risk from the set of a subject's effects constructs a merged score. It is independently measurable violation conduct under [Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model), read with [Article VII-B](core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*Internal-State Boundary and Type-N Protection*), whose aggregation discipline this subsection mirrors for standing.
+- **Bounded exceptions:** [Integrity forums](core_11_forum.md#45-integrity-forums) examining capture or pattern claims, [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) designation review, and [§9.4](#94-anti-evasion-and-look-through-authority) look-through may view cross-pathway records, under recusal rules and the [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) clocks, for that proceeding only. [Chapter Eight §3.2](core_08_standing_assessment.md#32-related-record-cross-references) cross-references between linked records remain; they are record links, not a composite.
+- **Public LEQU display:** Violation Axis and Contribution Axis slots are not published as a general attribute of a sentient. They appear in the record, in forum proceedings, and in the disclosure to the named-pathway gatekeeper where the slot is a lawful input to that named pathway.
 
 <a id="72-plain-statement-of-effect-and-burden"></a>
 #### 7.2 Plain statement of effect and burden
 
 *In plain terms: no one should learn what a standing effect does to them from its consequences. The record must tell the subject, in plain language, exactly which named pathways are affected, what they must do, how long it lasts, and where to contest it — and the adopter must measure whether sentients are experiencing standing as a score, because the rule that it is not one is worthless if that is how it lands.*
 
-- **Plain-language statement to the subject.** When a final effect other than **no effect** attaches, the subject must receive a plain-language statement naming each affected named pathway; what the subject may and may not do while the effect holds; the corrective conditions and reassessment point; the expected duration or review cadence; and the challenge route under **Article XII-B** (*Right to Challenge, Review, and Redress*). The statement must satisfy [Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) and **Article XX-A** (*Proportional Comprehensibility Right*).
-- **Honest cost.** A standing lock closes real doors and an inspectable-action duty is a real burden on the steward who carries it. Adopters must state those costs plainly in the material that describes standing to affected sentients, alongside what standing is not. Describing only the limits of standing while omitting its weight is a [Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) defect.
-- **Felt-burden measure.** Adopters must measure, under the [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family), whether affected sentients experience standing effects as a general worth rank, reputation score, or permanent status rather than as bounded named-pathway conditions. Material divergence between the legal category and the lived one is [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) under [Chapter One §6.2.4](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation): it must be documented, escalated, and corrected through design, disclosure, or [§7.1](#71-anti-aggregation-of-named-pathway-effects) enforcement — not explained away.
+- **Plain-language statement to the subject:** When a final effect other than **no effect** attaches, the subject must receive a plain-language statement naming each affected named pathway; what the subject may and may not do while the effect holds; the corrective conditions and reassessment point; the expected duration or review cadence; and the challenge route under **Article XII-B** (*Right to Challenge, Review, and Redress*). The statement must satisfy [Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) and **Article XX-A** (*Proportional Comprehensibility Right*).
+- **Honest cost:** A standing lock closes real doors and an inspectable-action duty is a real burden on the steward who carries it. Adopters must state those costs plainly in the material that describes standing to affected sentients, alongside what standing is not. Describing only the limits of standing while omitting its weight is a [Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) defect.
+- **Felt-burden measure:** Adopters must measure, under the [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family), whether affected sentients experience standing effects as a general worth rank, reputation score, or permanent status rather than as bounded named-pathway conditions. Material divergence between the legal category and the lived one is [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) under [Chapter One §6.2.4](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation): it must be documented, escalated, and corrected through design, disclosure, or [§7.1](#71-anti-aggregation-of-named-pathway-effects) enforcement — not explained away.
 
 <a id="8-restoration-and-reassessment"></a>
 ### 8. Restoration and reassessment

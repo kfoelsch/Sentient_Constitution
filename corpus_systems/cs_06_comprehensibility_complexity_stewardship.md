@@ -73,16 +73,16 @@ How strict these requirements are depends on the system's class. The **Comprehen
 
 CS-6 adds the following systems-specific checks:
 
-- **Complexity as a barrier.** Complexity must not become a practical barrier to audit, participation, accountability, or oversight beyond what these sources permit:
+- **Complexity as a barrier:** Complexity must not become a practical barrier to audit, participation, accountability, or oversight beyond what these sources permit:
   - **Article XX** (*Comprehensibility and Complexity Stewardship*);
   - **CJS-3.11** (*distributed and proportional authority terms*);
   - **CJS-3.7** (*quorum and participatory legitimacy terms*);
   - the applicable Chapter One and Chapter Five constraints.
-- **Independent complexity audit.** Critical systems must undergo periodic independent complexity audits. Each audit must evaluate transparency and observability, dependency chains and hidden coupling, failure modes and cascading risks, and the capacity for human oversight and intervention.
-- **Modularity.** System architecture should use modular components with clear responsibilities and interfaces. Component-level innovation must not create unmanaged consequences across other systems.
-- **Redundancy.** Critical infrastructure must incorporate redundancy and fail-safe mechanisms to prevent single points of failure. Where feasible, it must include multiple independent implementations of essential systems.
-- **Learning from failure.** Failures, anomalies, and near-misses must feed transparent post-incident learning. That learning must focus on systemic weaknesses rather than on blame.
-- **Periodic simplification.** Governance institutions must periodically simplify or remove unnecessary complexity, redundant processes, outdated rules, or excessive dependencies, where doing so preserves clarity, operability, and resilience.
+- **Independent complexity audit:** Critical systems must undergo periodic independent complexity audits. Each audit must evaluate transparency and observability, dependency chains and hidden coupling, failure modes and cascading risks, and the capacity for human oversight and intervention.
+- **Modularity:** System architecture should use modular components with clear responsibilities and interfaces. Component-level innovation must not create unmanaged consequences across other systems.
+- **Redundancy:** Critical infrastructure must incorporate redundancy and fail-safe mechanisms to prevent single points of failure. Where feasible, it must include multiple independent implementations of essential systems.
+- **Learning from failure:** Failures, anomalies, and near-misses must feed transparent post-incident learning. That learning must focus on systemic weaknesses rather than on blame.
+- **Periodic simplification:** Governance institutions must periodically simplify or remove unnecessary complexity, redundant processes, outdated rules, or excessive dependencies, where doing so preserves clarity, operability, and resilience.
 
 <a id="cs-6-4-gaps-and-silence"></a>
 ## CS-6.4 Gaps and silence

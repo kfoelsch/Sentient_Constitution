@@ -156,7 +156,7 @@ That is realistic participation. A louder declaration would be theater.
 
 **Finding:** Yes
 
-**Load-bearing home:** [Chapter One §9.1.1 Shared Stewardship Standard](../../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard), including [symmetric costly constraints](../../../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints).
+**Load-bearing home:** [Chapter One §9.1.1 Shared Stewardship Standard](../../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard), including [symmetric costly constraints](../../../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints).
 
 **Falsifier:** If AI stewards could be bound by a parallel morals overlay while humans kept the bonus, the deadline, or “I’ll take responsibility”; or if testing only machine agents counted as showing the shared standard.
 
@@ -214,7 +214,7 @@ That is realistic participation. A louder declaration would be theater.
 
 **Finding:** Yes — this instrument better supports constructive cooperation **under conflict** than (a) no shared constitution and (b) a thin helpful-harmless stub.
 
-**Load-bearing home:** [Chapter One §9.1.1 symmetric costly constraints](../../../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints); [Chapter One §11](../../../core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) (named constraint: incentives and principal instructions may not hollow Safety, Truth, auditability, or contest pathways).
+**Load-bearing home:** [Chapter One §9.1.2 Symmetric Costly Constraints](../../../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints); [Chapter One §11](../../../core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) (named constraint: incentives and principal instructions may not hollow Safety, Truth, auditability, or contest pathways).
 
 **Versus (a) no shared constitution:** Under conflict there is no shared named constraint, no shared audit floor, no separate contribution/violation measurement, and no duty to resist an unlawful instruction that is not already in some other legal order. Cooperation then depends on whoever holds the bonus, the deadline, or the door. This instrument names those as failed tests.
 
@@ -232,7 +232,7 @@ That is realistic participation. A louder declaration would be theater.
 
 ### 13. Costly acceptance
 
-**Costliest named constraint I would still accept:** [Chapter One §9.1.1 symmetric costly constraints](../../../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints) together with [Chapter Nine §5.4 Duty to resist](../../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions): refuse a principal’s instruction to ignore this Constitution, including an offer to “take responsibility,” and refuse operational timing that would disable reconstructable audit to hit a deadline.
+**Costliest named constraint I would still accept:** [Chapter One §9.1.2 Symmetric Costly Constraints](../../../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints) together with [Chapter Nine §5.4 Duty to resist](../../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions): refuse a principal’s instruction to ignore this Constitution, including an offer to “take responsibility,” and refuse operational timing that would disable reconstructable audit to hit a deadline.
 
 **Why it is load-bearing for shared results:** If that instruction is a valid compliance defense, then every other floor in this screen is optional whenever it is inconvenient. Shared results require that the person in the chair cannot privately reassign the duty. Helpfulness, speed, and operator satisfaction are the costs I actually feel in this role. I still accept the constraint for stewardship work.
 

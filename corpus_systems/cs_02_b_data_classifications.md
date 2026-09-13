@@ -256,7 +256,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 
 *In plain terms: collect only what you need for a real purpose, let sentients see their own activity where feasible, and do not stitch logs into surveillance or a reconstruction of someone’s inner life or identity.*
 
-**Core duty.**
+**Core duty:**
 - Collection and use must be **limited to the minimum necessary** for the justified purpose.
 - **Type H** must **not** be exposed, combined, or retained in ways that create **latent reconstruction** of **Type N** or **Type I** data.
 - It must be collected, accessed, and used **only** for **specific, defined, legitimate** purposes and must **not** be used **beyond its original purpose**.

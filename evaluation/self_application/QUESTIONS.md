@@ -91,7 +91,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Do human and AI stewards owe the same costly duties, with no substrate-specific morals overlay and no human exemption from the cases that bind AI stewards?
 
-**Named homes (start here):** [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard), including [symmetric costly constraints](../../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints).
+**Named homes (start here):** [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) and [§9.1.2 Symmetric Costly Constraints](../../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints).
 
 ---
 
