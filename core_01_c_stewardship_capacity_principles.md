@@ -623,7 +623,7 @@ It is not limited to the tradeoff-stack context in which it also operates as an 
 
 *In plain terms: governance is who may decide what and how — but only when those structures stay under stewardship discipline, serve Flourishing and Continuity together, and do not hollow the Tetrad or replace Chapter Twelve's operative authorization rules.*
 
-**[§10 Governance Under Stewardship Discipline](#10-governance-under-stewardship-discipline)** carries [Governance](core_05_band_accountability.md#governance) discipline downstream of [§9 Stewardship and Distributed Understanding](#9-stewardship-and-distributed-understanding): authorized structure, stewardship override, [ongoing justification](#103-ongoing-justification), and segregation of duties. **[§11 Incentive Alignment and System Capture](#11-incentive-alignment-and-system-capture)** carries incentive alignment, proxy integrity, short-horizon defect correction, operator application, and capture response.
+This section carries [Governance](core_05_band_accountability.md#governance) discipline downstream of [§9 Stewardship and Distributed Understanding](#9-stewardship-and-distributed-understanding): authorized structure, stewardship override, [ongoing justification](#103-ongoing-justification), and segregation of duties. **[§11 Incentive Alignment and System Capture](#11-incentive-alignment-and-system-capture)** carries incentive alignment, proxy integrity, short-horizon defect correction, operator application, and capture response.
 
 <a id="101-governance-as-authorized-structure"></a>
 #### 10.1 Governance as Authorized Structure
@@ -1684,7 +1684,7 @@ Operative threshold-setting discipline — floor preservation, substance-over-fo
 
 *In plain terms: the Constitution does not punish a system merely for being large, useful, or temporarily ahead because it genuinely innovated. It does prohibit durable domination: control over markets, labor, platforms, infrastructure, data, compute, credentials, or resources that lets an actor lock others in, block rivals, suppress fair bargaining, or capture constitutional accountability.*
 
-**[§13.2 Pro-Competition and Anti-Domination](#132-pro-competition-and-anti-domination):**
+**What this subsection does:**
 
 - **What it states:** the Constitution's rules for keeping competition real and stopping durable domination — at the principles level only. It is not a complete competition code.
 - **Stronger local law:** it does not wipe out an adopting body's own antitrust or competition law when that law gives stronger protection.

@@ -30,6 +30,7 @@ Order follows the Makefile `regression` list.
 | `cs4-inspectable-action-log-validate` (+ `-test`) | **L** | `tools/cs4_inspectable_action_log_validate.py` | — | Schema self-check for the CS-4 §10 log contract (`implementation/schemas/`) |
 | `sentience-status-adjudication-record-validate` (+ `-test`) | **L** | `tools/sentience_status_adjudication_record_validate.py` | — | Schema self-check for the Sentience-Status Adjudication Record |
 | `section-label-anchor-audit` (+ `-test`) | **L** | `tools/section_label_anchor_audit.py` | SECTION-CITE-MATCH-01, SECTION-LABEL-ANCHOR-01, NAV-HEADING-SEQUENCE-01 | `§` / dotted-number link text must match the target heading and fragment; related cites need a current-numbering id; `core_*` numbered sibling headings must not duplicate or skip |
+| `heading-echo-topic-audit` (+ `-test`) | C | `tools/heading_echo_topic_audit.py` | MD-HEADING-TOPIC-01 | First body-prose line after widgets/gloss must not restate the numbered heading as a topic sentence |
 | `fossil-anchor-audit` (+ `-test`) | **L** | `tools/fossil_anchor_audit.py` | — | Pre-release fragment policy: one current id per heading, no fossil aliases that would let stale cites keep resolving |
 | `primitive-retirement-audit` | C | `tools/primitive_retirement_audit.py` | — | Retired primitive label grammar |
 | `section-abbreviation-descriptor-audit` | C | `tools/section_abbreviation_descriptor_audit.py` | — | `--changed-only` in regression |

@@ -107,6 +107,7 @@ Keep constitutional concept + O/M/A/C boundary only; cite owner homes for instit
 | NAV-IMPL-FILENAME-01 | Companion files share a numeric prefix only as same-chapter parts | `make companion-filename-audit` |
 | NAV-PRE-RELEASE-FRAGMENT-01 | Pre-release: one current fragment id per heading; no fossil or legacy redirect anchors | `make fossil-anchor-audit` |
 | MD-LIST-INTRO-01 | Bold list-intro lead-in ends with `:` not `.`: standalone (`**Record and showing:**`), heading-echo run-in (`**Symmetric costly constraints:**`), or list-item label (`- **Not standing:**`). Ordinary non-echo run-ins (`**Admission scope.**`) are out of scope. | `make corpus-markdown-audit` |
+| MD-HEADING-TOPIC-01 | Numbered section's first body-prose line (after widgets and `*In plain terms*` gloss) must not restate that heading as a topic sentence (`**[§13.2 Title](#…):**`). Unnumbered heading-echo run-ins stay under MD-LIST-INTRO-01. | `make heading-echo-topic-audit` |
 | OWNER-OPENING-01 | Binding constitutional-owner opening statement | Manual (see **section 4**) |
 | LINK-IN-PARA-14 | Load-bearing in-paragraph links | `make in-paragraph-link-audit` |
 | CH5-GRAVITY | Chapter Five admission / de-bundling | `make ch5-definitions-gravity-audit` |
@@ -640,6 +641,18 @@ Examples: `**Article XV-C** (*Verification Accessibility*)`; `**Article XXIV-C**
 - **Dense routing lists** may omit the gloss only when every entry is a self-explanatory chapter name (for example **Chapter Seven**) or when the same block already states each title on the same line.
 
 **Source of truth:** Chapter Six part-file headings; verified by `make reference-audit`.
+
+### Heading not restated as topic sentence (MD-HEADING-TOPIC-01)
+
+A numbered section's first body-prose line — after Trace / D/A/C widgets, `<br>` spacers, and `*In plain terms*` gloss — must not repeat that heading as a topic sentence.
+
+**Fails:** `**[§13.2 Pro-Competition and Anti-Domination](#132-pro-competition-and-anti-domination):**` immediately under `#### 13.2 Pro-Competition and Anti-Domination`.
+
+**Use instead:** a functional lead-in (`**What this subsection does:**`) or a sentence that does not restate the numbered heading.
+
+**Out of scope:** unnumbered heading-echo run-ins (`**Symmetric costly constraints:**` — still MD-LIST-INTRO-01's colon rule); later self-cites after a real topic sentence; cross-chapter cites that happen to share a number.
+
+**Audit:** `make heading-echo-topic-audit`.
 
 ---
 

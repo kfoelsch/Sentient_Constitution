@@ -253,6 +253,13 @@
       "summary": "A bold lead-in that introduces a list or labeled list item must end with a colon, not a period: a standalone **Record and showing:** line, a heading-echo run-in (**Symmetric costly constraints:** then a list), or a list-item label (**Not standing:**). Bold sentences that do not introduce a list, and ordinary run-in labels that do not restate the heading (**Admission scope.**), are out of scope.",
       "make_target": "corpus-markdown-audit",
       "status": "blocking"
+    },
+    {
+      "id": "MD-HEADING-TOPIC-01",
+      "legacy_ref": "numbered heading is not restated as the first topic sentence",
+      "summary": "After Trace / D/A/C widgets, br spacers, and *In plain terms* gloss, a numbered section's first body-prose line must not restate that heading as a topic sentence (a self-cite such as **[§13.2 Title](#…):** or a markdown link to the heading's own fragment). Unnumbered heading-echo run-ins (**Symmetric costly constraints:**) remain MD-LIST-INTRO-01. Cross-chapter cites that share a number are out of scope.",
+      "make_target": "heading-echo-topic-audit",
+      "status": "blocking"
     }
   ]
 }
