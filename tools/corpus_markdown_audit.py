@@ -25,7 +25,9 @@ import sys
 from corpus_paths import binding_corpus_scope
 
 RULE_LIST_INTRO = "MD-LIST-INTRO-01"
-LIST_INTRO_HEADER_RE = re.compile(r"^\*\*(.+)\.\*\*\s*$")
+# ASCII period plus CJK/Devanagari/Bengali danda and Urdu full stop.
+LIST_INTRO_PERIODS = frozenset(".。।۔")
+LIST_INTRO_HEADER_RE = re.compile(r"^\*\*(.+)[.\u3002\u0964\u06d4]\*\*\s*$")
 LIST_ITEM_RE = re.compile(r"^(?:[-*] |\d+\. )")
 HEADING_RE = re.compile(r"^#{2,6}\s+(?:\d+(?:\.\d+)*\s+)?(.+)$")
 ITALIC_GLOSS_RE = re.compile(r"^\*[^*].*\*$")
@@ -157,12 +159,23 @@ def list_intro_error(path_label: str, line_no: int, stripped: str) -> str:
     )
 
 
+def ends_with_list_intro_period(text: str) -> bool:
+    return bool(text) and text[-1] in LIST_INTRO_PERIODS
+
+
+def translation_markdown_files(root: pathlib.Path) -> list[pathlib.Path]:
+    base = root / "translations"
+    if not base.is_dir():
+        return []
+    return sorted(path for path in base.rglob("*.md") if path.is_file())
+
+
 def list_item_label_needs_colon(body: str, following_is_list: bool) -> bool:
     parts = first_closed_bold_parts(body)
     if parts is None:
         return False
     inner, after = parts
-    if not inner.endswith("."):
+    if not ends_with_list_intro_period(inner):
         return False
     return bool(after.strip()) or following_is_list
 
@@ -198,7 +211,7 @@ def check_list_intro_colon(lines: list[str], path_label: str) -> list[str]:
             if (
                 heading_norm
                 and inner is not None
-                and inner.endswith(".")
+                and ends_with_list_intro_period(inner)
                 and normalize_heading_title(inner) == heading_norm
                 and introduces_following_list(lines, i)
             ):
@@ -470,6 +483,12 @@ def main() -> int:
                     path.read_text(encoding="utf-8").splitlines(), rel
                 )
             )
+
+    for path in translation_markdown_files(root):
+        rel = path.relative_to(root).as_posix()
+        findings.extend(
+            check_list_intro_colon(path.read_text(encoding="utf-8").splitlines(), rel)
+        )
 
     s65 = slice_between(
         ch4_text,

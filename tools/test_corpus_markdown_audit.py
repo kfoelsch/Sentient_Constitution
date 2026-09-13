@@ -114,6 +114,23 @@ class ListIntroColonTests(unittest.TestCase):
         ]
         self.assertEqual(check_list_intro_colon(lines, "core_example.md"), [])
 
+    def test_non_ascii_period_header_before_bullets_fails(self) -> None:
+        lines = [
+            "**अधिकार-तल न्यूनतम सिद्धांत।**",
+            "- **एक:** पहला मद।",
+        ]
+        findings = check_list_intro_colon(lines, "translations/hi/example.md")
+        self.assertEqual(len(findings), 1)
+        self.assertIn("translations/hi/example.md:1", findings[0])
+
+    def test_cjk_period_list_item_label_fails(self) -> None:
+        lines = [
+            "- **保全证据。** 不要让案件失效。",
+        ]
+        findings = check_list_intro_colon(lines, "translations/zh/example.md")
+        self.assertEqual(len(findings), 1)
+        self.assertIn("translations/zh/example.md:1", findings[0])
+
     def test_runin_non_echo_period_is_out_of_scope(self) -> None:
         lines = [
             "##### 5.3 Something Else",
