@@ -246,6 +246,7 @@ INDEPENDENT_BAND_MAP: dict[str, str] = {
     "Safety (Constraint)": "c",
     "Self-Healing": "c",
     "System Capture": "c",
+    "Anti-Capture": "c",
     "Systemic": "c",
     "Systemic Materiality": "c",
     "Voluntary Discontinuation": "c",

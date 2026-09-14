@@ -157,6 +157,7 @@
     "Meaningful Agency",
     "Accountability",
     "System Capture",
+    "Anti-Capture",
     "Incentive Alignment",
     "Governance"
   ],
@@ -189,6 +190,23 @@
     "Oversight",
     "Accountability"
   ],
+  "#### 10.2 Segregation of Duties": [
+    "Oversight",
+    "Accountability",
+    "Proportionality",
+    "Contestability",
+    "Auditability",
+    "Stewardship"
+  ],
+  "#### 10.3 Ongoing Justification": [
+    "Timeliness",
+    "Oversight",
+    "Contestability",
+    "Accountability",
+    "Transparency",
+    "Governance",
+    "Review and Correction Duty"
+  ],
   "#### 11.1 Alignment Requirement": [
     "Incentive Alignment",
     "Productive Capacity",
@@ -200,6 +218,7 @@
     "Meaningful Agency",
     "Auditability",
     "System Capture",
+    "Anti-Capture",
     "Wellbeing",
     "Participation"
   ],
@@ -212,11 +231,13 @@
     "Auditability",
     "Contestability",
     "System Capture",
+    "Anti-Capture",
     "Incentive Alignment",
     "Review and Correction Duty"
   ],
   "#### 11.4 Misalignment Correction and Capture Response": [
     "System Capture",
+    "Anti-Capture",
     "Contestability",
     "Oversight",
     "Accountability",

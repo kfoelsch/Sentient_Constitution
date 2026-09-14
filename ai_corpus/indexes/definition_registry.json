@@ -1,8 +1,8 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-09-12T18:29:59+00:00",
+  "generated_at": "2026-09-13T17:30:43+00:00",
   "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
-  "definition_count": 223,
+  "definition_count": 224,
   "definitions": [
     {
       "term": "Accessibility",
@@ -45,6 +45,15 @@
       }
     },
     {
+      "term": "Anti-Capture",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#anti-capture",
+      "line_start": 2278,
+      "line_end": 2342,
+      "category": "semi_independent",
+      "cluster_membership": null
+    },
+    {
       "term": "Anti-Constitutional Misconduct Review",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#anti-constitutional-misconduct-review",
@@ -61,13 +70,13 @@
       "term": "Anti-Displacement Floor",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#anti-displacement-floor-constitutional",
-      "line_start": 3214,
-      "line_end": 3286,
+      "line_start": 3280,
+      "line_end": 3352,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 2844
+        "line": 2910
       }
     },
     {
@@ -188,8 +197,8 @@
       "term": "Bodily-Maintenance Access",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#bodily-maintenance-access-constitutional",
-      "line_start": 2527,
-      "line_end": 2583,
+      "line_start": 2593,
+      "line_end": 2649,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -242,8 +251,8 @@
       "term": "Charter",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#charter",
-      "line_start": 2401,
-      "line_end": 2457,
+      "line_start": 2467,
+      "line_end": 2523,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -477,13 +486,13 @@
       "term": "Creative Work Attribution",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#creative-work-attribution-constitutional",
-      "line_start": 3087,
-      "line_end": 3157,
+      "line_start": 3153,
+      "line_end": 3223,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 2842
+        "line": 2908
       }
     },
     {
@@ -552,13 +561,13 @@
       "term": "Distributed Understanding",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#distributed-understanding-constitutional",
-      "line_start": 3409,
-      "line_end": 3465,
+      "line_start": 3475,
+      "line_end": 3531,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3341
+        "line": 3407
       }
     },
     {
@@ -733,13 +742,13 @@
       "term": "Fair Compensation",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#fair-compensation-constitutional",
-      "line_start": 2852,
-      "line_end": 2918,
+      "line_start": 2918,
+      "line_end": 2984,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 2838
+        "line": 2904
       }
     },
     {
@@ -988,8 +997,8 @@
       "term": "Identity Data Protection",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#identity-data-protection",
-      "line_start": 3806,
-      "line_end": 3826,
+      "line_start": 3872,
+      "line_end": 3892,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1042,8 +1051,8 @@
       "term": "Indigenous Continuity",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#indigenous-continuity-constitutional",
-      "line_start": 2661,
-      "line_end": 2723,
+      "line_start": 2727,
+      "line_end": 2789,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1122,8 +1131,8 @@
       "term": "Language, Culture, and Heritage",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#language-culture-and-heritage-constitutional",
-      "line_start": 2724,
-      "line_end": 2788,
+      "line_start": 2790,
+      "line_end": 2854,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1131,13 +1140,13 @@
       "term": "Leisure and Rest",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#leisure-and-rest-constitutional",
-      "line_start": 2984,
-      "line_end": 3045,
+      "line_start": 3050,
+      "line_end": 3111,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 2840
+        "line": 2906
       }
     },
     {
@@ -1153,13 +1162,13 @@
       "term": "Likeness and Documentary Depiction Interface",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#likeness-and-documentary-depiction-interface-constitutional",
-      "line_start": 3046,
-      "line_end": 3086,
+      "line_start": 3112,
+      "line_end": 3152,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 2841
+        "line": 2907
       }
     },
     {
@@ -1359,8 +1368,8 @@
       "term": "Occupancy Continuity",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#occupancy-continuity-constitutional",
-      "line_start": 2584,
-      "line_end": 2642,
+      "line_start": 2650,
+      "line_end": 2708,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1412,13 +1421,13 @@
       "term": "Privacy (Informational)",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#privacy-informational",
-      "line_start": 3706,
-      "line_end": 3759,
+      "line_start": 3772,
+      "line_end": 3825,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C3 Privacy (Informational) — peer-level cluster head",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3693
+        "line": 3759
       }
     },
     {
@@ -1488,13 +1497,13 @@
       "term": "Protected Internal-State Boundary",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#protected-internal-state-boundary-constitutional",
-      "line_start": 3760,
-      "line_end": 3805,
+      "line_start": 3826,
+      "line_end": 3871,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C3 Privacy (Informational) — peer-level cluster head",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3694
+        "line": 3760
       }
     },
     {
@@ -1644,13 +1653,13 @@
       "term": "Review and Correction Duty",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#review-and-correction-duty-constitutional",
-      "line_start": 3626,
-      "line_end": 3666,
+      "line_start": 3692,
+      "line_end": 3732,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3345
+        "line": 3411
       }
     },
     {
@@ -1688,13 +1697,13 @@
       "term": "Safe Conditions",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#safe-conditions-constitutional",
-      "line_start": 2919,
-      "line_end": 2983,
+      "line_start": 2985,
+      "line_end": 3049,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 2839
+        "line": 2905
       }
     },
     {
@@ -1802,13 +1811,13 @@
       "term": "Short-Horizon Governance Defect",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#short-horizon-governance-defect-constitutional",
-      "line_start": 3522,
-      "line_end": 3566,
+      "line_start": 3588,
+      "line_end": 3632,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3343
+        "line": 3409
       }
     },
     {
@@ -1929,39 +1938,39 @@
       "term": "Stewardship",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#stewardship-constitutional",
-      "line_start": 3353,
-      "line_end": 3408,
+      "line_start": 3419,
+      "line_end": 3474,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3340
+        "line": 3406
       }
     },
     {
       "term": "Stewardship Defect",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#stewardship-defect-constitutional",
-      "line_start": 3567,
-      "line_end": 3625,
+      "line_start": 3633,
+      "line_end": 3691,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3344
+        "line": 3410
       }
     },
     {
       "term": "Strategic Stewardship Obligation",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#strategic-stewardship-obligation-constitutional",
-      "line_start": 3466,
-      "line_end": 3521,
+      "line_start": 3532,
+      "line_end": 3587,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3342
+        "line": 3408
       }
     },
     {
@@ -1990,13 +1999,13 @@
       "term": "Surveillance Boundary",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#surveillance-boundary",
-      "line_start": 3827,
-      "line_end": 3877,
+      "line_start": 3893,
+      "line_end": 3943,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C3 Privacy (Informational) — peer-level cluster head",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3695
+        "line": 3761
       }
     },
     {
@@ -2025,8 +2034,8 @@
       "term": "System",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#system-definition",
-      "line_start": 2298,
-      "line_end": 2332,
+      "line_start": 2364,
+      "line_end": 2398,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2043,8 +2052,8 @@
       "term": "System Boundaries",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#system-boundaries",
-      "line_start": 2333,
-      "line_end": 2364,
+      "line_start": 2399,
+      "line_end": 2430,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2052,8 +2061,8 @@
       "term": "System Boundary Integrity",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#system-boundary-integrity",
-      "line_start": 2365,
-      "line_end": 2400,
+      "line_start": 2431,
+      "line_end": 2466,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2061,8 +2070,8 @@
       "term": "System Capture",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#system-capture",
-      "line_start": 2226,
-      "line_end": 2276,
+      "line_start": 2227,
+      "line_end": 2277,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2106,8 +2115,8 @@
       "term": "Systemic",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#systemic",
-      "line_start": 2122,
-      "line_end": 2176,
+      "line_start": 2123,
+      "line_end": 2177,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2115,8 +2124,8 @@
       "term": "Systemic Lock-In",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#systemic-lock-in",
-      "line_start": 2458,
-      "line_end": 2506,
+      "line_start": 2524,
+      "line_end": 2572,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2124,8 +2133,8 @@
       "term": "Systemic Materiality",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#systemic-materiality",
-      "line_start": 2177,
-      "line_end": 2225,
+      "line_start": 2178,
+      "line_end": 2226,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2142,13 +2151,13 @@
       "term": "Training-Data Use",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#training-data-use-constitutional",
-      "line_start": 3158,
-      "line_end": 3213,
+      "line_start": 3224,
+      "line_end": 3279,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 2843
+        "line": 2909
       }
     },
     {
@@ -2168,39 +2177,39 @@
       "term": "Trust",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#trust",
-      "line_start": 3927,
-      "line_end": 3961,
+      "line_start": 3993,
+      "line_end": 4027,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C4 Trust and Trustworthiness",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3917
+        "line": 3983
       }
     },
     {
       "term": "Trust Degradation and Misleading Reliance",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#trust-degradation-and-misleading-reliance",
-      "line_start": 4028,
-      "line_end": 4127,
+      "line_start": 4094,
+      "line_end": 4193,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C4 Trust and Trustworthiness",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3919
+        "line": 3985
       }
     },
     {
       "term": "Trustworthiness",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#trustworthiness",
-      "line_start": 3962,
-      "line_end": 4027,
+      "line_start": 4028,
+      "line_end": 4093,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C4 Trust and Trustworthiness",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3918
+        "line": 3984
       }
     },
     {

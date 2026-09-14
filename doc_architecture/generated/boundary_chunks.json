@@ -5,7 +5,7 @@
   "cannot_narrow_core": true,
   "split_rule": "headings outside details; never inside O/M/A/C blocks",
   "embeddings": "postponed_indefinitely",
-  "chunk_count": 827,
+  "chunk_count": 830,
   "chunks": [
     {
       "file": "core_00_preamble.md",
@@ -208,280 +208,287 @@
       "heading": "3. Non-Negotiable Principle Constraints: Safety and Truth",
       "anchor": "#3-non-negotiable-constraints-safety-and-truth",
       "line_start": 267,
-      "line_end": 286
+      "line_end": 297
     },
     {
       "file": "core_01_a_values_principles.md",
       "heading": "3.1 Safety (Harm Constraint)",
       "anchor": "#31-safety-harm-constraint",
-      "line_start": 287,
-      "line_end": 321
+      "line_start": 298,
+      "line_end": 332
     },
     {
       "file": "core_01_a_values_principles.md",
       "heading": "3.2 Truth (Epistemic Integrity Constraint)",
       "anchor": "#32-truth-epistemic-integrity-constraint",
-      "line_start": 322,
-      "line_end": 354
+      "line_start": 333,
+      "line_end": 365
     },
     {
       "file": "core_01_a_values_principles.md",
       "heading": "3.3 Science-Informed Inquiry and Decision Support",
       "anchor": "#33-science-informed-inquiry-and-decision-support",
-      "line_start": 355,
-      "line_end": 402
+      "line_start": 366,
+      "line_end": 413
     },
     {
       "file": "core_01_a_values_principles.md",
       "heading": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
       "anchor": "#34-plain-language-accessibility-stewardship-duty",
-      "line_start": 403,
-      "line_end": 434
+      "line_start": 414,
+      "line_end": 445
     },
     {
       "file": "core_01_a_values_principles.md",
       "heading": "3.4.1 Scope",
       "anchor": "#341-scope",
-      "line_start": 435,
-      "line_end": 447
+      "line_start": 446,
+      "line_end": 458
     },
     {
       "file": "core_01_a_values_principles.md",
       "heading": "3.4.2 The Duty",
       "anchor": "#342-the-duty",
-      "line_start": 448,
-      "line_end": 457
+      "line_start": 459,
+      "line_end": 468
     },
     {
       "file": "core_01_a_values_principles.md",
       "heading": "3.4.3 Definitional Rigor Preserved",
       "anchor": "#343-definitional-rigor-preserved",
-      "line_start": 458,
-      "line_end": 467
+      "line_start": 469,
+      "line_end": 478
     },
     {
       "file": "core_01_a_values_principles.md",
       "heading": "3.4.4 Jargon-as-Defeat Discipline",
       "anchor": "#344-jargon-as-defeat-discipline",
-      "line_start": 468,
-      "line_end": 474
+      "line_start": 479,
+      "line_end": 485
     },
     {
       "file": "core_01_a_values_principles.md",
       "heading": "3.4.5 Rights-Floor Boundary",
       "anchor": "#345-chapter-ten-floor-boundary",
-      "line_start": 475,
-      "line_end": 478
+      "line_start": 486,
+      "line_end": 489
     },
     {
       "file": "core_01_a_values_principles.md",
       "heading": "4. System Stability Enabler: Trust (Coordination Integrity)",
       "anchor": "#4-system-stability-enabler-trust-coordination-integrity",
-      "line_start": 479,
-      "line_end": 519
+      "line_start": 490,
+      "line_end": 530
     },
     {
       "file": "core_01_a_values_principles.md",
       "heading": "4.1 Resilience and Self-Healing Design",
       "anchor": "#41-resilience-and-self-healing-design",
-      "line_start": 520,
-      "line_end": 559
+      "line_start": 531,
+      "line_end": 570
     },
     {
       "file": "core_01_a_values_principles.md",
       "heading": "5. Freedom (Bounded Agency)",
       "anchor": "#5-freedom-bounded-agency",
-      "line_start": 560,
-      "line_end": 608
+      "line_start": 571,
+      "line_end": 625
     },
     {
       "file": "core_01_a_values_principles.md",
       "heading": "5.1 Limitation Discipline",
       "anchor": "#51-limitation-discipline",
-      "line_start": 609,
-      "line_end": 641
+      "line_start": 626,
+      "line_end": 658
     },
     {
       "file": "core_01_a_values_principles.md",
       "heading": "5.2 Voluntary Discontinuation and Exit Rights",
       "anchor": "#52-voluntary-discontinuation-and-exit-rights",
-      "line_start": 642,
-      "line_end": 669
+      "line_start": 659,
+      "line_end": 702
     },
     {
       "file": "core_01_a_values_principles.md",
       "heading": "5.3 Assembly, Collective Organization, and Institutional Formation",
       "anchor": "#53-assembly-collective-organization-and-institutional-formation",
-      "line_start": 670,
-      "line_end": 710
+      "line_start": 703,
+      "line_end": 745
+    },
+    {
+      "file": "core_01_a_values_principles.md",
+      "heading": "5.3.1 Aligned Self-Organization",
+      "anchor": "#531-aligned-self-organization",
+      "line_start": 746,
+      "line_end": 774
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
       "anchor": "#chapter-01-part-b-interaction-and-interpretation",
       "line_start": 2,
-      "line_end": 20
+      "line_end": 52
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6. Process Conflict Resolution",
       "anchor": "#6-process-conflict-resolution",
-      "line_start": 21,
-      "line_end": 47
+      "line_start": 53,
+      "line_end": 85
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.1 Core Tradeoff Principles",
       "anchor": "#61-core-tradeoff-principles",
-      "line_start": 48,
-      "line_end": 76
+      "line_start": 86,
+      "line_end": 114
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.1.1 Necessity",
       "anchor": "#611-necessity",
-      "line_start": 77,
-      "line_end": 110
+      "line_start": 115,
+      "line_end": 148
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.1.2 Harm Minimization",
       "anchor": "#612-harm-minimization",
-      "line_start": 111,
-      "line_end": 150
+      "line_start": 149,
+      "line_end": 194
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.1.3 Proportionality",
       "anchor": "#613-proportionality",
-      "line_start": 151,
-      "line_end": 191
+      "line_start": 195,
+      "line_end": 240
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.1.4 Constitutional Floors, Safety, and Process-Character Constraints",
       "anchor": "#614-constitutional-floors-safety-and-process-character-constraints",
-      "line_start": 192,
-      "line_end": 223
+      "line_start": 241,
+      "line_end": 274
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle",
       "anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
-      "line_start": 224,
-      "line_end": 264
+      "line_start": 275,
+      "line_end": 329
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.2 Epistemic Disclosure Constraints",
       "anchor": "#62-epistemic-disclosure-constraints",
-      "line_start": 265,
-      "line_end": 303
+      "line_start": 330,
+      "line_end": 380
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.2.1 Preservation of Epistemic Integrity",
       "anchor": "#621-preservation-of-epistemic-integrity",
-      "line_start": 304,
-      "line_end": 342
+      "line_start": 381,
+      "line_end": 419
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.2.2 Trust-Truth Alignment",
       "anchor": "#622-trust-truth-alignment",
-      "line_start": 343,
-      "line_end": 366
+      "line_start": 420,
+      "line_end": 443
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.2.3 Privacy and Informational Self-Determination",
       "anchor": "#623-privacy-and-informational-self-determination",
-      "line_start": 367,
-      "line_end": 413
+      "line_start": 444,
+      "line_end": 504
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.2.4 Proxy-Divergence Invalidation",
       "anchor": "#624-proxy-divergence-invalidation",
-      "line_start": 414,
-      "line_end": 432
+      "line_start": 505,
+      "line_end": 523
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.3 Minimization of Avoidable Burden",
       "anchor": "#63-minimization-of-avoidable-burden",
-      "line_start": 433,
-      "line_end": 475
+      "line_start": 524,
+      "line_end": 566
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "7. Prohibition on Absolute Override",
       "anchor": "#7-prohibition-on-absolute-override",
-      "line_start": 476,
-      "line_end": 509
+      "line_start": 567,
+      "line_end": 600
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8. Constitutional Interpretation",
       "anchor": "#8-constitutional-interpretation",
-      "line_start": 510,
-      "line_end": 536
+      "line_start": 601,
+      "line_end": 627
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8.1 Constitutional No-Bypass Principle",
       "anchor": "#81-constitutional-no-bypass-principle",
-      "line_start": 537,
-      "line_end": 552
+      "line_start": 628,
+      "line_end": 670
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8.2 Definitional layer and required disciplines",
       "anchor": "#82-definitional-layer-and-required-disciplines",
-      "line_start": 553,
-      "line_end": 574
+      "line_start": 671,
+      "line_end": 692
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8.3 Ambiguity resolution",
       "anchor": "#83-ambiguity-resolution",
-      "line_start": 575,
-      "line_end": 597
+      "line_start": 693,
+      "line_end": 715
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8.4 Constitutional Meaning Conflict Resolution",
       "anchor": "#84-constitutional-meaning-conflict-resolution",
-      "line_start": 598,
-      "line_end": 620
+      "line_start": 716,
+      "line_end": 744
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8.4.1 Integrated reading",
       "anchor": "#841-integrated-reading",
-      "line_start": 621,
-      "line_end": 628
+      "line_start": 745,
+      "line_end": 752
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8.4.2 Last-resort internal hierarchy",
       "anchor": "#842-last-resort-internal-hierarchy",
-      "line_start": 629,
-      "line_end": 645
+      "line_start": 753,
+      "line_end": 769
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8.4.3 Incorporation layer",
       "anchor": "#843-incorporation-layer",
-      "line_start": 646,
-      "line_end": 654
+      "line_start": 770,
+      "line_end": 790
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
       "anchor": "#844-combined-satisfaction",
-      "line_start": 655,
-      "line_end": 709
+      "line_start": 791,
+      "line_end": 829
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
@@ -495,252 +502,266 @@
       "heading": "9. Stewardship and Distributed Understanding",
       "anchor": "#9-stewardship-and-distributed-understanding",
       "line_start": 40,
-      "line_end": 98
+      "line_end": 118
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "9.1 Consequential Stewardship",
       "anchor": "#91-stewardship",
-      "line_start": 99,
-      "line_end": 129
+      "line_start": 119,
+      "line_end": 155
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "9.1.1 Shared Stewardship Standard",
       "anchor": "#911-shared-stewardship-standard",
-      "line_start": 130,
-      "line_end": 186
+      "line_start": 156,
+      "line_end": 204
+    },
+    {
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "heading": "9.1.2 Symmetric Costly Constraints",
+      "anchor": "#912-symmetric-costly-constraints",
+      "line_start": 205,
+      "line_end": 239
+    },
+    {
+      "file": "core_01_c_stewardship_capacity_principles.md",
+      "heading": "9.1.3 Role-Scoped Observability",
+      "anchor": "#913-role-scoped-observability",
+      "line_start": 240,
+      "line_end": 273
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "9.2 Distributed Understanding",
       "anchor": "#92-distributed-understanding",
-      "line_start": 187,
-      "line_end": 222
+      "line_start": 274,
+      "line_end": 309
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "9.3 Institutional Development",
       "anchor": "#93-institutional-development",
-      "line_start": 223,
-      "line_end": 253
+      "line_start": 310,
+      "line_end": 340
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "9.4 Openness Aspiration",
       "anchor": "#94-openness-aspiration",
-      "line_start": 254,
-      "line_end": 285
+      "line_start": 341,
+      "line_end": 372
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "9.5 Aligned Self-Organization",
       "anchor": "#95-aligned-self-organization",
-      "line_start": 286,
-      "line_end": 324
+      "line_start": 373,
+      "line_end": 411
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
       "anchor": "#96-process-character-discipline",
-      "line_start": 325,
-      "line_end": 388
+      "line_start": 412,
+      "line_end": 475
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "10. Governance Under Stewardship Discipline",
       "anchor": "#10-governance-under-stewardship-discipline",
-      "line_start": 389,
-      "line_end": 424
+      "line_start": 476,
+      "line_end": 511
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "10.1 Governance as Authorized Structure",
       "anchor": "#101-governance-as-authorized-structure",
-      "line_start": 425,
-      "line_end": 504
+      "line_start": 512,
+      "line_end": 591
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "11. Incentive Alignment and System Capture",
       "anchor": "#11-incentive-alignment-and-system-capture",
-      "line_start": 505,
-      "line_end": 556
+      "line_start": 592,
+      "line_end": 643
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "11.1 Alignment Requirement",
       "anchor": "#111-alignment-requirement",
-      "line_start": 557,
-      "line_end": 581
+      "line_start": 644,
+      "line_end": 668
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "11.1.1 What Incentives Must Do",
       "anchor": "#1111-what-incentives-must-do",
-      "line_start": 582,
-      "line_end": 593
+      "line_start": 669,
+      "line_end": 680
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "11.1.2 What Incentives Must Not Do",
       "anchor": "#1112-what-incentives-must-not-do",
-      "line_start": 594,
-      "line_end": 615
+      "line_start": 681,
+      "line_end": 702
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "11.1.3 Stewardship and Operator Application",
       "anchor": "#1113-stewardship-and-operator-application",
-      "line_start": 616,
-      "line_end": 620
+      "line_start": 703,
+      "line_end": 707
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "11.1.4 Role-Depth and Material-Responsibility Pathways",
       "anchor": "#1114-role-depth-and-material-responsibility-pathways",
-      "line_start": 621,
-      "line_end": 629
+      "line_start": 708,
+      "line_end": 716
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "11.1.5 Constitutional Outcome Claims Discipline",
       "anchor": "#1115-constitutional-outcome-claims-discipline",
-      "line_start": 630,
-      "line_end": 642
+      "line_start": 717,
+      "line_end": 729
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "11.2 Convenient Proxies and Proxy Divergence",
       "anchor": "#112-convenient-proxies-and-proxy-divergence",
-      "line_start": 643,
-      "line_end": 668
+      "line_start": 730,
+      "line_end": 755
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "11.3 Misalignment Detection",
       "anchor": "#113-misalignment-detection",
-      "line_start": 669,
-      "line_end": 701
+      "line_start": 756,
+      "line_end": 788
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "11.4 Misalignment Correction and Capture Response",
       "anchor": "#114-misalignment-correction-and-capture-response",
-      "line_start": 702,
-      "line_end": 725
+      "line_start": 789,
+      "line_end": 812
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "11.5 Contingent Claims, Games of Chance, and Event-Contract Markets",
       "anchor": "#115-contingent-claims-games-of-chance-and-event-contract-markets",
-      "line_start": 726,
-      "line_end": 784
+      "line_start": 813,
+      "line_end": 871
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "11.6 Successor Responsibility and Formal-Structure Non-Escape",
       "anchor": "#116-successor-responsibility-and-formal-structure-non-escape",
-      "line_start": 785,
-      "line_end": 814
+      "line_start": 872,
+      "line_end": 901
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "12. Shared-System Capacity",
       "anchor": "#12-shared-system-capacity",
-      "line_start": 815,
-      "line_end": 862
+      "line_start": 902,
+      "line_end": 949
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "12.1 Productive Capacity (Instrumental Good)",
       "anchor": "#121-productive-capacity-instrumental-good",
-      "line_start": 863,
-      "line_end": 903
+      "line_start": 950,
+      "line_end": 990
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "12.2 Constitutional Efficiency",
       "anchor": "#122-constitutional-efficiency",
-      "line_start": 904,
-      "line_end": 932
+      "line_start": 991,
+      "line_end": 1019
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "13. Market Structure",
       "anchor": "#13-market-structure",
-      "line_start": 933,
-      "line_end": 978
+      "line_start": 1020,
+      "line_end": 1065
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "13.1 Market Concentration Threshold Mechanism (Adopter-Tunable)",
       "anchor": "#131-market-concentration-threshold-mechanism-adopter-tunable",
-      "line_start": 979,
-      "line_end": 1026
+      "line_start": 1066,
+      "line_end": 1113
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "13.2 Pro-Competition and Anti-Domination",
       "anchor": "#132-pro-competition-and-anti-domination",
-      "line_start": 1027,
-      "line_end": 1058
+      "line_start": 1114,
+      "line_end": 1145
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "13.2.1 Pro-Competition Duties (Dos)",
       "anchor": "#1321-pro-competition-duties-dos",
-      "line_start": 1059,
-      "line_end": 1075
+      "line_start": 1146,
+      "line_end": 1162
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "13.2.2 Anti-Domination Prohibitions (Don'ts)",
       "anchor": "#1322-anti-domination-prohibitions-donts",
-      "line_start": 1076,
-      "line_end": 1082
+      "line_start": 1163,
+      "line_end": 1169
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "13.2.3 Remedies",
       "anchor": "#1323-remedies",
-      "line_start": 1083,
-      "line_end": 1091
+      "line_start": 1170,
+      "line_end": 1178
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "13.3 Consolidation Ceiling",
       "anchor": "#133-consolidation-ceiling",
-      "line_start": 1092,
-      "line_end": 1123
+      "line_start": 1179,
+      "line_end": 1210
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "13.3.1 Consolidation Risk (Pre-Lock-In Impairment)",
       "anchor": "#1331-consolidation-risk-pre-lock-in-impairment",
-      "line_start": 1124,
-      "line_end": 1138
+      "line_start": 1211,
+      "line_end": 1225
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "13.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)",
       "anchor": "#1332-ceiling-discipline-adopter-requirements",
-      "line_start": 1139,
-      "line_end": 1159
+      "line_start": 1226,
+      "line_end": 1246
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "14. Systemic Evaluation Requirement",
       "anchor": "#14-systemic-evaluation-requirement",
-      "line_start": 1160,
-      "line_end": 1195
+      "line_start": 1247,
+      "line_end": 1282
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "15. Integrated Application",
       "anchor": "#15-integrated-application",
-      "line_start": 1196,
-      "line_end": 1237
+      "line_start": 1283,
+      "line_end": 1324
     },
     {
       "file": "core_02_definition_structure.md",

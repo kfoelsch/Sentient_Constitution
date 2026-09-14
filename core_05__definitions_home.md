@@ -107,6 +107,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional)
 - [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)
 - [Animal Life](core_05_band_participation.md#animal-life-constitutional)
+- [Anti-Capture](core_05_band_continuity.md#anti-capture)
 - [Anti-Constitutional Misconduct Review](core_05_band_accountability.md#anti-constitutional-misconduct-review)
 - [Anti-Displacement Floor](core_05_band_continuity.md#anti-displacement-floor-constitutional)
 - [Assembly](core_05_band_participation.md#assembly-constitutional)

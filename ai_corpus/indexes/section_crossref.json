@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-12T18:30:01+00:00",
+  "generated_at": "2026-09-13T17:30:44+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 14350,
+  "edge_count": 14511,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -1324,7 +1324,7 @@
       "source_anchor": "#5-freedom-bounded-agency",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
@@ -1386,6 +1386,14 @@
       "source_file": "core_01_a_values_principles.md",
       "source_header": "5. Freedom (Bounded Agency)",
       "source_anchor": "#5-freedom-bounded-agency",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#611-necessity",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "5. Freedom (Bounded Agency)",
+      "source_anchor": "#5-freedom-bounded-agency",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#91-stewardship",
       "count": 1
@@ -1426,6 +1434,14 @@
       "source_file": "core_01_a_values_principles.md",
       "source_header": "5. Freedom (Bounded Agency)",
       "source_anchor": "#5-freedom-bounded-agency",
+      "target_file": "core_04_burden_traceability_verification.md",
+      "target_anchor": "#chapter-four-burden-of-proof-traceability-and-verification",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "5. Freedom (Bounded Agency)",
+      "source_anchor": "#5-freedom-bounded-agency",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#meaningful-agency-o",
       "count": 1
@@ -1436,7 +1452,7 @@
       "source_anchor": "#5-freedom-bounded-agency",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#feasibility",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
@@ -1460,7 +1476,7 @@
       "source_anchor": "#5-freedom-bounded-agency",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
@@ -2122,25 +2138,9 @@
       "source_file": "core_01_a_values_principles.md",
       "source_header": "5.3 Assembly, Collective Organization, and Institutional Formation",
       "source_anchor": "#52-voluntary-discontinuation-and-exit-rights",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "5.3 Assembly, Collective Organization, and Institutional Formation",
-      "source_anchor": "#52-voluntary-discontinuation-and-exit-rights",
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "5.3 Assembly, Collective Organization, and Institutional Formation",
-      "source_anchor": "#52-voluntary-discontinuation-and-exit-rights",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#95-aligned-self-organization",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
@@ -2148,7 +2148,7 @@
       "source_anchor": "#52-voluntary-discontinuation-and-exit-rights",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#assembly-collective-organization-institutional-formation-cluster",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
@@ -2156,7 +2156,7 @@
       "source_anchor": "#52-voluntary-discontinuation-and-exit-rights",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#assembly-constitutional",
-      "count": 3
+      "count": 5
     },
     {
       "source_file": "core_01_a_values_principles.md",
@@ -2180,7 +2180,7 @@
       "source_anchor": "#52-voluntary-discontinuation-and-exit-rights",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#collective-organization-constitutional",
-      "count": 3
+      "count": 5
     },
     {
       "source_file": "core_01_a_values_principles.md",
@@ -2204,7 +2204,7 @@
       "source_anchor": "#52-voluntary-discontinuation-and-exit-rights",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#system-creation-constitutional",
-      "count": 2
+      "count": 6
     },
     {
       "source_file": "core_01_a_values_principles.md",
@@ -2228,7 +2228,7 @@
       "source_anchor": "#52-voluntary-discontinuation-and-exit-rights",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#business-creation-constitutional",
-      "count": 2
+      "count": 6
     },
     {
       "source_file": "core_01_a_values_principles.md",
@@ -2250,8 +2250,72 @@
       "source_file": "core_01_a_values_principles.md",
       "source_header": "5.3 Assembly, Collective Organization, and Institutional Formation",
       "source_anchor": "#52-voluntary-discontinuation-and-exit-rights",
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-iii-d-labor-and-economic-floor",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "5.3 Assembly, Collective Organization, and Institutional Formation",
+      "source_anchor": "#52-voluntary-discontinuation-and-exit-rights",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-v-h-expression-assembly-and-press",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "5.3 Assembly, Collective Organization, and Institutional Formation",
+      "source_anchor": "#52-voluntary-discontinuation-and-exit-rights",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-ix-b-stakeholder-role-and-participation-rights",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "5.3 Assembly, Collective Organization, and Institutional Formation",
+      "source_anchor": "#52-voluntary-discontinuation-and-exit-rights",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xi-stakeholder-system-participation-representation-and-due-process",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "5.3 Assembly, Collective Organization, and Institutional Formation",
+      "source_anchor": "#52-voluntary-discontinuation-and-exit-rights",
       "target_file": "core_07_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#35-assembly-collective-organization-and-institutional-formation",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "5.3.1 Aligned Self-Organization",
+      "source_anchor": "#53-assembly-collective-organization-and-institutional-formation",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "5.3.1 Aligned Self-Organization",
+      "source_anchor": "#53-assembly-collective-organization-and-institutional-formation",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "5.3.1 Aligned Self-Organization",
+      "source_anchor": "#53-assembly-collective-organization-and-institutional-formation",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#95-aligned-self-organization",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "5.3.1 Aligned Self-Organization",
+      "source_anchor": "#53-assembly-collective-organization-and-institutional-formation",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#merits-determination",
       "count": 1
     },
     {
@@ -5123,6 +5187,54 @@
       "source_header": "6.1.2 Harm Minimization",
       "source_anchor": "#612-harm-minimization",
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-integrity-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "6.1.2 Harm Minimization",
+      "source_anchor": "#612-harm-minimization",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-integrity-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "6.1.2 Harm Minimization",
+      "source_anchor": "#612-harm-minimization",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-integrity-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "6.1.2 Harm Minimization",
+      "source_anchor": "#612-harm-minimization",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-recovery-capacity-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "6.1.2 Harm Minimization",
+      "source_anchor": "#612-harm-minimization",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-recovery-capacity-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "6.1.2 Harm Minimization",
+      "source_anchor": "#612-harm-minimization",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-recovery-capacity-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "6.1.2 Harm Minimization",
+      "source_anchor": "#612-harm-minimization",
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#risk",
       "count": 2
     },
@@ -5732,6 +5844,30 @@
       "source_anchor": "#62-epistemic-disclosure-constraints",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trust-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "6.2 Epistemic Disclosure Constraints",
+      "source_anchor": "#62-epistemic-disclosure-constraints",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#privacy-informational",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "6.2 Epistemic Disclosure Constraints",
+      "source_anchor": "#62-epistemic-disclosure-constraints",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#privacy-informational-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "6.2 Epistemic Disclosure Constraints",
+      "source_anchor": "#62-epistemic-disclosure-constraints",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#privacy-informational-c",
       "count": 1
     },
     {
@@ -6978,46 +7114,6 @@
       "source_file": "core_01_b_interaction_interpretation.md",
       "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
       "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#constitutional-tetrad",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#material-stake",
-      "count": 2
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#two-constitutional-aims",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#flourishing",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#continuity",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": null,
       "count": 1
@@ -7042,142 +7138,6 @@
       "source_file": "core_01_b_interaction_interpretation.md",
       "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
       "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#oversight",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#governance",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#systemic-materiality",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#governance-architecture-oversight-decentralization-and-concentration-cluster",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#wellbeing",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_05_band_integrative.md",
-      "target_anchor": "#constitutional-contract-layer",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_05_band_integrative.md",
-      "target_anchor": "#corpus-authority-stack-supremacy-and-enforceability-cluster",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_05_band_integrative.md",
-      "target_anchor": "#accountability-contestability-and-collective-accountability-failure-cluster",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#materiality-determination",
-      "count": 2
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#classification-scaled-governance",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#material",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#material-impact",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#material-risk",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#materiality-semi-independent",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#stakeholder-status-and-weight-cluster",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
       "target_file": "core_16_incorporation.md",
       "target_anchor": "#chapter-sixteen-incorporation-bridge",
       "count": 1
@@ -7188,14 +7148,6 @@
       "source_anchor": "#844-combined-satisfaction",
       "target_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
       "target_anchor": "#cjs-01-cross-file-routing",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
-      "target_file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
-      "target_anchor": "#cjs-31-constitutional-compass-and-cluster-map",
       "count": 1
     },
     {
@@ -7226,6 +7178,46 @@
       "source_file": "core_01_b_interaction_interpretation.md",
       "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
       "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-constitutional-aims",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#flourishing",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#continuity",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": null,
       "count": 1
@@ -7236,6 +7228,150 @@
       "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#oversight",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#governance",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#systemic-materiality",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#governance-architecture-oversight-decentralization-and-concentration-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#wellbeing",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#constitutional-contract-layer",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#corpus-authority-stack-supremacy-and-enforceability-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#accountability-contestability-and-collective-accountability-failure-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-determination",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#classification-scaled-governance",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#material",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#material-impact",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#material-risk",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-semi-independent",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#stakeholder-status-and-weight-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
+      "target_anchor": "#cjs-31-constitutional-compass-and-cluster-map",
       "count": 1
     },
     {
@@ -8052,7 +8188,7 @@
       "source_anchor": "#101-governance-as-authorized-structure",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
-      "count": 4
+      "count": 3
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -8132,7 +8268,7 @@
       "source_anchor": "#101-governance-as-authorized-structure",
       "target_file": "core_05_apex_oversight_leg.md",
       "target_anchor": "#oversight-constitutional",
-      "count": 5
+      "count": 4
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -8204,7 +8340,7 @@
       "source_anchor": "#101-governance-as-authorized-structure",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
-      "count": 6
+      "count": 5
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -8292,14 +8428,6 @@
       "source_anchor": "#101-governance-as-authorized-structure",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
-      "count": 3
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.1 Governance as Authorized Structure",
-      "source_anchor": "#101-governance-as-authorized-structure",
-      "target_file": "core_08_standing_assessment.md",
-      "target_anchor": "#37-segregation-of-duties",
       "count": 2
     },
     {
@@ -8308,7 +8436,7 @@
       "source_anchor": "#101-governance-as-authorized-structure",
       "target_file": "core_11_forum.md",
       "target_anchor": "#chapter-eleven-forums-and-jurisdiction",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -8320,10 +8448,482 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.1 Governance as Authorized Structure",
-      "source_anchor": "#101-governance-as-authorized-structure",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-m",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-a",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_apex_oversight_leg.md",
+      "target_anchor": "#oversight-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_apex_oversight_leg.md",
+      "target_anchor": "#oversight-constitutional-m",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_apex_oversight_leg.md",
+      "target_anchor": "#oversight-constitutional-a",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_apex_oversight_leg.md",
+      "target_anchor": "#oversight-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 4
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#stewardship-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#stewardship-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#stewardship-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#37-segregation-of-duties",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "core_11_forum.md",
+      "target_anchor": "#chapter-eleven-forums-and-jurisdiction",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+      "target_anchor": "#ci-32-functional-separation-lanes",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "target_anchor": "#ci-46-seat-catalog",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
+      "target_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
+      "target_anchor": "#constitutional-lane-and-functional-separation",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.2 Segregation of Duties",
+      "source_anchor": "#102-segregation-of-duties",
       "target_file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "target_anchor": "#10-inspectable-attributable-action",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-constitutional-aims",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-m",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-a",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_apex_oversight_leg.md",
+      "target_anchor": "#oversight-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_apex_oversight_leg.md",
+      "target_anchor": "#oversight-constitutional-m",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_apex_oversight_leg.md",
+      "target_anchor": "#oversight-constitutional-a",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_apex_oversight_leg.md",
+      "target_anchor": "#oversight-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_apex_timeliness_leg.md",
+      "target_anchor": "#timeliness-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_apex_timeliness_leg.md",
+      "target_anchor": "#timeliness-constitutional-m",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_apex_timeliness_leg.md",
+      "target_anchor": "#timeliness-constitutional-a",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_apex_timeliness_leg.md",
+      "target_anchor": "#timeliness-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#governance",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#governance-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#governance-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#review-and-correction-duty-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#review-and-correction-duty-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#review-and-correction-duty-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#transparency",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#transparency-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#transparency-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxv-a-non-entrenchment-and-revisability",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxv-b-periodic-revalidation-and-transparent-change",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "core_12_governance.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "10.3 Ongoing Justification",
+      "source_anchor": "#103-ongoing-justification",
+      "target_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
+      "target_anchor": "#baseline-governance-accountability-conditions",
       "count": 1
     },
     {
@@ -8612,6 +9212,30 @@
       "source_anchor": "#11-incentive-alignment-and-system-capture",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11. Incentive Alignment and System Capture",
+      "source_anchor": "#11-incentive-alignment-and-system-capture",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11. Incentive Alignment and System Capture",
+      "source_anchor": "#11-incentive-alignment-and-system-capture",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11. Incentive Alignment and System Capture",
+      "source_anchor": "#11-incentive-alignment-and-system-capture",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture-c",
       "count": 1
     },
     {
@@ -8971,6 +9595,30 @@
       "source_header": "11.1 Alignment Requirement",
       "source_anchor": "#111-alignment-requirement",
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.1 Alignment Requirement",
+      "source_anchor": "#111-alignment-requirement",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.1 Alignment Requirement",
+      "source_anchor": "#111-alignment-requirement",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.1 Alignment Requirement",
+      "source_anchor": "#111-alignment-requirement",
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#wellbeing",
       "count": 2
     },
@@ -9116,6 +9764,14 @@
       "source_anchor": "#111-alignment-requirement",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.1.1 What Incentives Must Do",
+      "source_anchor": "#1111-what-incentives-must-do",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture",
       "count": 1
     },
     {
@@ -9554,6 +10210,14 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "11.3 Misalignment Detection",
       "source_anchor": "#113-misalignment-detection",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.3 Misalignment Detection",
+      "source_anchor": "#113-misalignment-detection",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#incentive-alignment",
       "count": 3
@@ -9748,6 +10412,30 @@
       "source_anchor": "#114-misalignment-correction-and-capture-response",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.4 Misalignment Correction and Capture Response",
+      "source_anchor": "#114-misalignment-correction-and-capture-response",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.4 Misalignment Correction and Capture Response",
+      "source_anchor": "#114-misalignment-correction-and-capture-response",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.4 Misalignment Correction and Capture Response",
+      "source_anchor": "#114-misalignment-correction-and-capture-response",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture-c",
       "count": 1
     },
     {
@@ -12322,6 +13010,30 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "15. Integrated Application",
       "source_anchor": "#15-integrated-application",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "15. Integrated Application",
+      "source_anchor": "#15-integrated-application",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "15. Integrated Application",
+      "source_anchor": "#15-integrated-application",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "15. Integrated Application",
+      "source_anchor": "#15-integrated-application",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#corpus",
       "count": 2
@@ -13346,48 +14058,8 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "9.1.1 Shared Stewardship Standard",
       "source_anchor": "#911-shared-stewardship-standard",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#31-safety-harm-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.1.1 Shared Stewardship Standard",
-      "source_anchor": "#911-shared-stewardship-standard",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#32-truth-epistemic-integrity-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.1.1 Shared Stewardship Standard",
-      "source_anchor": "#911-shared-stewardship-standard",
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#623-privacy-and-informational-self-determination",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.1.1 Shared Stewardship Standard",
-      "source_anchor": "#911-shared-stewardship-standard",
-      "target_file": "core_04_burden_traceability_verification.md",
-      "target_anchor": "#4-security-constrained-observability-and-verification-rule",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.1.1 Shared Stewardship Standard",
-      "source_anchor": "#911-shared-stewardship-standard",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
-      "count": 3
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.1.1 Shared Stewardship Standard",
-      "source_anchor": "#911-shared-stewardship-standard",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#attributable-action-constitutional",
       "count": 3
     },
     {
@@ -13404,22 +14076,6 @@
       "source_anchor": "#911-shared-stewardship-standard",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.1.1 Shared Stewardship Standard",
-      "source_anchor": "#911-shared-stewardship-standard",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#attributable-action-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.1.1 Shared Stewardship Standard",
-      "source_anchor": "#911-shared-stewardship-standard",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#attributable-action-constitutional-c",
       "count": 1
     },
     {
@@ -13444,14 +14100,6 @@
       "source_anchor": "#911-shared-stewardship-standard",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#stewardship-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.1.1 Shared Stewardship Standard",
-      "source_anchor": "#911-shared-stewardship-standard",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#surveillance-boundary",
       "count": 1
     },
     {
@@ -13530,17 +14178,9 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "9.1.1 Shared Stewardship Standard",
       "source_anchor": "#911-shared-stewardship-standard",
-      "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-vii-b-internal-state-boundary-and-type-n-protection",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.1.1 Shared Stewardship Standard",
-      "source_anchor": "#911-shared-stewardship-standard",
       "target_file": "core_08_standing_assessment.md",
       "target_anchor": "#chapter-eight-compliance-violation-and-standing-model",
-      "count": 3
+      "count": 1
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -13548,23 +14188,7 @@
       "source_anchor": "#911-shared-stewardship-standard",
       "target_file": "core_09_standing_integration.md",
       "target_anchor": "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
-      "count": 2
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.1.1 Shared Stewardship Standard",
-      "source_anchor": "#911-shared-stewardship-standard",
-      "target_file": "core_09_standing_integration.md",
-      "target_anchor": "#71-anti-aggregation-of-named-pathway-effects",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.1.1 Shared Stewardship Standard",
-      "source_anchor": "#911-shared-stewardship-standard",
-      "target_file": "core_09_standing_integration.md",
-      "target_anchor": "#72-plain-statement-of-effect-and-burden",
-      "count": 1
+      "count": 3
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -13584,11 +14208,347 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.1.1 Shared Stewardship Standard",
-      "source_anchor": "#911-shared-stewardship-standard",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#31-safety-harm-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#32-truth-epistemic-integrity-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safety-constraint",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#stewardship-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#stewardship-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#stewardship-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safety-constraint-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safety-constraint-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#incentive-alignment",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#incentive-alignment-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#incentive-alignment-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint-o",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#chapter-eight-compliance-violation-and-standing-model",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.2 Symmetric Costly Constraints",
+      "source_anchor": "#912-symmetric-costly-constraints",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#623-privacy-and-informational-self-determination",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_04_burden_traceability_verification.md",
+      "target_anchor": "#4-security-constrained-observability-and-verification-rule",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#attributable-action-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#attributable-action-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#attributable-action-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#surveillance-boundary",
+      "count": 4
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#protected-internal-state-boundary-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#surveillance-boundary-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#surveillance-boundary-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#protected-internal-state-boundary-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#protected-internal-state-boundary-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-vii-b-internal-state-boundary-and-type-n-protection",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#chapter-eight-compliance-violation-and-standing-model",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#21-silence-is-the-default",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#71-anti-aggregation-of-named-pathway-effects",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#72-plain-statement-of-effect-and-burden",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.1.3 Role-Scoped Observability",
+      "source_anchor": "#913-role-scoped-observability",
       "target_file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "target_anchor": "#10-inspectable-attributable-action",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -14259,7 +15219,7 @@
       "source_header": "9.5 Aligned Self-Organization",
       "source_anchor": "#95-aligned-self-organization",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#53-assembly-collective-organization-and-institutional-formation",
+      "target_anchor": "#531-aligned-self-organization",
       "count": 1
     },
     {
@@ -14496,7 +15456,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#constitutional-tetrad",
@@ -14504,7 +15464,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#2-foundational-objective-wellbeing",
@@ -14512,7 +15472,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#614-constitutional-floors-safety-and-process-character-constraints",
@@ -14520,7 +15480,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_05_apex_oversight_leg.md",
       "target_anchor": "#oversight-constitutional",
@@ -14528,7 +15488,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#cruelty",
@@ -14536,7 +15496,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#cruelty-a",
@@ -14544,7 +15504,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#cruelty-c",
@@ -14552,7 +15512,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#harm",
@@ -14560,7 +15520,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#harm-a",
@@ -14568,7 +15528,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#harm-c",
@@ -14576,7 +15536,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
@@ -14584,7 +15544,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality-a",
@@ -14592,7 +15552,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality-c",
@@ -14600,7 +15560,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
@@ -14608,7 +15568,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-a",
@@ -14616,7 +15576,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-c",
@@ -14624,7 +15584,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#dignity-and-equal-moral-standing",
@@ -14632,7 +15592,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#dignity-and-equal-moral-standing-a",
@@ -14640,7 +15600,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#dignity-and-equal-moral-standing-c",
@@ -14648,7 +15608,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_06_rights_part_b.md",
       "target_anchor": "#article-v-equal-basic-rights",
@@ -14656,7 +15616,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "core_06_rights_part_d.md",
       "target_anchor": "#article-xxiii-a-justice-objective-and-scope",
@@ -14664,7 +15624,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+      "source_header": "9.6 Anti-Degrading Process",
       "source_anchor": "#96-process-character-discipline",
       "target_file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
       "target_anchor": null,
@@ -16508,6 +17468,14 @@
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#weapons-of-mass-harm-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture",
       "count": 1
     },
     {
@@ -20859,14 +21827,6 @@
       "source_header": "Capture of Resolution Pathways",
       "source_anchor": "#capture-of-resolution-pathways",
       "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#capture-of-resolution-pathways",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_band_accountability.md",
-      "source_header": "Capture of Resolution Pathways",
-      "source_anchor": "#capture-of-resolution-pathways",
-      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#insider-advantage",
       "count": 1
     },
@@ -20909,6 +21869,14 @@
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture",
       "count": 5
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Capture of Resolution Pathways",
+      "source_anchor": "#capture-of-resolution-pathways",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture",
+      "count": 1
     },
     {
       "source_file": "core_05_band_accountability.md",
@@ -27736,6 +28704,198 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 4
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#102-segregation-of-duties",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#11-incentive-alignment-and-system-capture",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#111-alignment-requirement",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#113-misalignment-detection",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#114-misalignment-correction-and-capture-response",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#continuity-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_05_apex_oversight_leg.md",
+      "target_anchor": "#oversight-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#capture-of-resolution-pathways",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#governance",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#systemic-effects-and-capture-semi-independent",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture",
+      "count": 6
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#review-and-correction-duty-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#incentive-alignment",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#foreseeability-diligence",
+      "count": 4
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#adversarial-scaled-and-exploited-conditions",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#classification-scaled-governance",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materially-implicated",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xi-e-non-capture-safeguards",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
       "source_header": "Anti-Displacement Floor",
       "source_anchor": "#anti-displacement-floor-constitutional",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
@@ -34403,6 +35563,14 @@
       "source_header": "System Capture",
       "source_anchor": "#system-capture",
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "System Capture",
+      "source_anchor": "#system-capture",
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#systemic",
       "count": 2
     },
@@ -35074,6 +36242,14 @@
       "source_file": "core_05_band_continuity.md",
       "source_header": "Systemic effects and capture",
       "source_anchor": "#systemic-effects-and-capture-semi-independent",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Systemic effects and capture",
+      "source_anchor": "#systemic-effects-and-capture-semi-independent",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#11-incentive-alignment-and-system-capture",
       "count": 1
@@ -35140,6 +36316,14 @@
       "source_anchor": "#systemic-effects-and-capture-semi-independent",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Systemic effects and capture",
+      "source_anchor": "#systemic-effects-and-capture-semi-independent",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture",
       "count": 1
     },
     {
@@ -55556,7 +56740,15 @@
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture",
-      "count": 2
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI-E: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture",
+      "count": 3
     },
     {
       "source_file": "core_06_rights_part_b.md",
@@ -55572,6 +56764,22 @@
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI-E: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI-E: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture-c",
       "count": 1
     },
     {
@@ -57154,6 +58362,30 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XXI: Root Cause Analysis and Adaptive Response",
       "source_anchor": "#article-xxi-root-cause-analysis-and-adaptive-response",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXI: Root Cause Analysis and Adaptive Response",
+      "source_anchor": "#article-xxi-root-cause-analysis-and-adaptive-response",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXI: Root Cause Analysis and Adaptive Response",
+      "source_anchor": "#article-xxi-root-cause-analysis-and-adaptive-response",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXI: Root Cause Analysis and Adaptive Response",
+      "source_anchor": "#article-xxi-root-cause-analysis-and-adaptive-response",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#materiality-determination",
       "count": 2
@@ -57460,6 +58692,46 @@
       "source_anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
+      "source_anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
+      "source_anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
+      "source_anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
+      "source_anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
+      "source_anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture-c",
       "count": 1
     },
     {
@@ -64219,7 +65491,7 @@
       "source_header": "Article XXV: Constitutional Evolution and Non-Entrenchment",
       "source_anchor": "#operative-steward-statement-delay",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#10-governance-under-stewardship-discipline",
+      "target_anchor": "#103-ongoing-justification",
       "count": 1
     },
     {
@@ -64964,6 +66236,14 @@
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#7-prohibition-on-absolute-override",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXV-A: Non-Entrenchment and Revisability",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#103-ongoing-justification",
       "count": 1
     },
     {
@@ -69299,7 +70579,7 @@
       "source_header": "What the year looks like",
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#911-role-scoped-observability",
+      "target_anchor": "#913-role-scoped-observability",
       "count": 1
     },
     {
@@ -69531,7 +70811,7 @@
       "source_header": "3.7 Record custody and opening authority",
       "source_anchor": "#37-record-custody-and-opening-authority",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#101-segregation-of-duties",
+      "target_anchor": "#102-segregation-of-duties",
       "count": 3
     },
     {
@@ -70899,7 +72179,7 @@
       "source_header": "6. Contribution consequences second",
       "source_anchor": "#6-contribution-consequences-second",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#101-segregation-of-duties",
+      "target_anchor": "#102-segregation-of-duties",
       "count": 1
     },
     {
@@ -76147,7 +77427,7 @@
       "source_header": "5. Authorized Roles, Competency Development, and Contribution",
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#911-symmetric-costly-constraints",
+      "target_anchor": "#912-symmetric-costly-constraints",
       "count": 2
     },
     {
@@ -76155,7 +77435,7 @@
       "source_header": "5. Authorized Roles, Competency Development, and Contribution",
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#101-segregation-of-duties",
+      "target_anchor": "#102-segregation-of-duties",
       "count": 1
     },
     {
@@ -89699,7 +90979,7 @@
       "source_header": "CI-3.2: Functional separation lanes",
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#101-segregation-of-duties",
+      "target_anchor": "#102-segregation-of-duties",
       "count": 1
     },
     {
@@ -90611,7 +91891,7 @@
       "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
       "source_anchor": "#ci-46-seat-catalog",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#101-segregation-of-duties",
+      "target_anchor": "#102-segregation-of-duties",
       "count": 2
     },
     {
@@ -90627,7 +91907,15 @@
       "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
       "source_anchor": "#ci-46-seat-catalog",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#96-process-character-discipline-anti-degrading-process-principle",
+      "target_anchor": "#912-symmetric-costly-constraints",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#96-process-character-discipline",
       "count": 1
     },
     {
@@ -95747,7 +97035,7 @@
       "source_header": "CI-16: Care labor, dependent support, respite, and care-economy fairness",
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#101-segregation-of-duties",
+      "target_anchor": "#102-segregation-of-duties",
       "count": 1
     },
     {
@@ -97339,7 +98627,7 @@
       "source_header": "CI-22: Commons, cooperatives, mutual aid, and non-market community governance",
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#101-segregation-of-duties",
+      "target_anchor": "#102-segregation-of-duties",
       "count": 1
     },
     {
@@ -102379,7 +103667,7 @@
       "source_header": "CJS-3.11.3 Consolidation ceiling-setting discipline (adopter-tunable)",
       "source_anchor": "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#101-segregation-of-duties",
+      "target_anchor": "#102-segregation-of-duties",
       "count": 1
     },
     {
@@ -111731,7 +113019,7 @@
       "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
       "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#911-symmetric-costly-constraints",
+      "target_anchor": "#912-symmetric-costly-constraints",
       "count": 1
     },
     {
@@ -111739,7 +113027,7 @@
       "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
       "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#911-role-scoped-observability",
+      "target_anchor": "#913-role-scoped-observability",
       "count": 1
     },
     {

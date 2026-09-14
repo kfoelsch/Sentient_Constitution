@@ -234,6 +234,13 @@
       "status": "blocking"
     },
     {
+      "id": "SECTION-CITE-NAME-01",
+      "legacy_ref": "section-number cites carry a human-readable title",
+      "summary": "Body-prose § / §§ cites must name the section for human readers: title in the link text, immediately after an unlinked token, or in a following (*title*) gloss. Number-only links such as [§11.5](#…) and bare ranges such as **§§11.1–11.6** fail. Headings, tables, HTML, blockquotes, code, and <details> widgets are out of scope. make regression uses --changed-only.",
+      "make_target": "section-cite-name-audit",
+      "status": "blocking"
+    },
+    {
       "id": "SECTION-LABEL-ANCHOR-01",
       "legacy_ref": "section-label current-numbering fragment prefix",
       "summary": "When a §N cite is dotted-related to the target heading, that heading must carry a current-numbering fragment id (compact prefix 54- or hyphenated 5-4-).",

@@ -297,12 +297,12 @@ The same surface binds human stewards, AI stewards, and other agents under [Chap
 
 **No privacy veto.** Lawful privacy and [security-constrained observability](../core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) may limit *how* internals are disclosed. They must **not** block standing measurement, [Attributable Action](../core_05_band_accountability.md#attributable-action-constitutional), [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity-constitutional), or independent review of the conduct those records measure. “Model internals are private” is not a high-privilege-role exemption.
 
-**Role-scoped observability and silence.** This log attaches to the *exercise of stewardship or operational authority*, not to the steward as such, on either substrate. It implements, and must not narrow, [Chapter One §9.1.3](../core_01_c_stewardship_capacity_principles.md#913-role-scoped-observability) (*Role-scoped observability*):
+**Role-scoped observability and silence.** This log follows the work of the role, not the steward as a person — human or AI. It implements, and must not narrow, [Chapter One §9.1.3](../core_01_c_stewardship_capacity_principles.md#913-role-scoped-observability) (*Role-scoped observability*):
 
 - the log's scope and inspectability must be disclosed before the role is taken up;
 - conduct, state, and expression outside the role carry [Article VII-B](../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*Internal-State Boundary and Type-N Protection*) protection for an AI steward as for a human one;
 - internals yield only for a specific action already under an open Chapter Eight record, and only to the extent needed to attribute that action;
-- the log is not a standing record, is not disclosed to named-pathway gatekeepers as such, and is subject to [Chapter Nine §7.1](../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (*Anti-aggregation of named-pathway effects*).
+- the log is the trail of the work, not a standing record of verified help or harm; people who decide named-pathway access may not treat it as that record, or as the reason to grant or deny the named pathway; and it may not be combined with logs or standing effects from other named pathways to make one reputation score, ranking, badge, or public profile ([Chapter Nine §7.1](../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (*Anti-aggregation of named-pathway effects*)).
 
 A steward who is not exercising this role remains under [Chapter Eight §2.1](../core_08_standing_assessment.md#21-silence-is-the-default) (*Silence is the default*). The burden of inspectable action must be stated plainly to the steward who bears it under [Chapter Nine §7.2](../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden) (*Plain statement of effect and burden*).
 

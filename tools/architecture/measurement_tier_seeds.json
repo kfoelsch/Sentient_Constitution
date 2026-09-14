@@ -978,6 +978,11 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
+    "Anti-Capture": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
     "System Creation": {
       "ch00_category": "3.4 Participation",
       "tier_depth": "primary_only",

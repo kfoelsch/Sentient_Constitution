@@ -2111,7 +2111,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 **Topic group members.** This group comprises:
 - [Systemic](core_05_band_continuity.md#systemic) — effects that arise from interaction and [Dependency](core_05_band_continuity.md#dependency), not from one component alone;
 - [Systemic Materiality](core_05_band_continuity.md#systemic-materiality) — the threshold where interaction makes total [Material Impact](core_05_band_oversight.md#material-impact) exceed the sum of separable parts;
-- [System Capture](core_05_band_continuity.md#system-capture) — the integrity overlay: concentrated incentives or power that distort [Governance](core_05_band_accountability.md#governance), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), or [Contestability](core_05_band_accountability.md#contestability).
+- [System Capture](core_05_band_continuity.md#system-capture) — the integrity overlay: concentrated incentives or power that distort [Governance](core_05_band_accountability.md#governance), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), or [Contestability](core_05_band_accountability.md#contestability);
+- [Anti-Capture](core_05_band_continuity.md#anti-capture) — the prevention overlay: foreseeable safeguards, scaled to [material stake](core_00_preamble.md#material-stake), that keep that distortion from taking hold.
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
 
@@ -2230,7 +2231,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (accountability and oversight legs; tetrad capture discipline under [§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [§11 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture).
 - Cluster component: [Systemic effects and capture](core_05_band_continuity.md#systemic-effects-and-capture-semi-independent).
-- Read with: the [Capture, Resolution Integrity, and Anti-Capture cluster](core_05_band_accountability.md#capture-of-resolution-pathways), [Incentive Alignment](core_05_band_integrative.md#incentive-alignment), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Systemic](core_05_band_continuity.md#systemic), [Systemic Materiality](core_05_band_continuity.md#systemic-materiality), and [Trust Degradation and Misleading Reliance](core_05_band_continuity.md#trust-degradation-and-misleading-reliance).
+- Read with: [Anti-Capture](core_05_band_continuity.md#anti-capture), [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways), [Incentive Alignment](core_05_band_integrative.md#incentive-alignment), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Systemic](core_05_band_continuity.md#systemic), [Systemic Materiality](core_05_band_continuity.md#systemic-materiality), and [Trust Degradation and Misleading Reliance](core_05_band_continuity.md#trust-degradation-and-misleading-reliance).
 
 </details>
 
@@ -2261,7 +2262,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Systemic Materiality](core_05_band_continuity.md#systemic-materiality); and
     - [Trust Degradation and Misleading Reliance](core_05_band_continuity.md#trust-degradation-and-misleading-reliance).
 
-    **Secondary assessment:** When evaluating the primary trace, read with the [Capture, Resolution Integrity, and Anti-Capture cluster](core_05_band_accountability.md#capture-of-resolution-pathways) where resolution pathways are [materially implicated](core_05_band_oversight.md#materially-implicated) (where those pathways are materially in play), and test whether distortion persists behind formally compliant governance structures.
+    **Secondary assessment:** When evaluating the primary trace, read with [Anti-Capture](core_05_band_continuity.md#anti-capture) for whether foreseeable safeguards were missing, and with [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) where resolution pathways are [materially implicated](core_05_band_oversight.md#materially-implicated) (where those pathways are materially in play), and test whether distortion persists behind formally compliant governance structures.
 <a id="system-capture-c"></a>
 - **What must hold**
   - **Primary failure:** hidden or indirectly routed control structures that materially influence, without auditable disclosure:
@@ -2269,6 +2270,71 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - adjudication; or
     - resource allocation.
   - **Secondary failure:** failure to detect, disclose, and mitigate capture where [materially implicated](core_05_band_oversight.md#materially-implicated) (where capture is materially in play).
+
+---
+
+<a id="anti-capture"></a>
+
+#### Anti-Capture
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (participation, oversight, accountability, and timeliness must remain real against capture); [material stake](core_00_preamble.md#material-stake) scaling; [§10.2 Segregation of Duties](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties); [§11 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) (especially [§11.1 Alignment Requirement](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement) and [§11.3 Misalignment Detection](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection)); [Article XI-E](core_06_rights_part_b.md#article-xi-e-non-capture-safeguards) (*Non-Capture Safeguards*); [Article XXII](core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
+- Cluster component: [Systemic effects and capture](core_05_band_continuity.md#systemic-effects-and-capture-semi-independent).
+- Read with: [System Capture](core_05_band_continuity.md#system-capture), [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence), [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [Incentive Alignment](core_05_band_integrative.md#incentive-alignment), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways).
+
+</details>
+
+<br>
+
+*In plain terms: do not wait for capture to show up. Where concentrated power or incentives could twist the rules, build the foreseeable safeguards first — separate checkers from actors, keep more than one way to challenge, and make hidden control auditable — scaled to what is actually at stake.*
+
+- **What it is**
+  - **In scope:** The duty to install and keep in force foreseeable structural safeguards that prevent [System Capture](core_05_band_continuity.md#system-capture) of:
+    - [Governance](core_05_band_accountability.md#governance);
+    - [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional); or
+    - [Contestability](core_05_band_accountability.md#contestability).
+
+    Safeguards are foreseeable when [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence) would identify the capture pathway under [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), scaled to [material stake](core_00_preamble.md#material-stake). Where that duty is met, Anti-Capture includes:
+    - separating the one who acted from the one who checks ([§10.2 Segregation of Duties](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties));
+    - keeping plural, structurally independent detection and review paths ([§11.3 Misalignment Detection](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection));
+    - disclosing beneficial control and influence routes in an [Auditability](core_05_band_oversight.md#auditability)-compatible form;
+    - keeping [Incentive Alignment](core_05_band_integrative.md#incentive-alignment) from letting rewards buy the referee; and
+    - keeping contest and independent review real, including the interpretive-body floors in [Article XXII](core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
+  - **Out of scope:**
+    - detecting or labeling capture that has already taken hold — that is [System Capture](core_05_band_continuity.md#system-capture);
+    - after-the-fact correction once capture is verified — that is [§11.4 Misalignment Correction and Capture Response](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response) and [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional);
+    - ordinary disclosed legitimate authority that does not distort governance, oversight, or contestability;
+    - paper policies, labels, or “best practice” claims that do not actually prevent capture; and
+    - unbounded speculative controls on non-material stakes — depth scales under [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) and [Proportionality](core_05_band_accountability.md#proportionality).
+<a id="anti-capture-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Ask whether foreseeable capture pathways were identified before they hardened, and whether installed safeguards would still work under [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions). Check, scaled to [material stake](core_00_preamble.md#material-stake):
+    - whether acting and checking remain separated on materially binding acts;
+    - whether more than one independent path can detect, review, and challenge;
+    - whether beneficial control and influence routes are disclosed and auditable; and
+    - whether incentives cannot buy the referee or hollow the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad).
+  - **Secondary measure:** co-measures that show whether prevention is real or only claimed:
+    - [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence);
+    - [System Capture](core_05_band_continuity.md#system-capture);
+    - [Contestability](core_05_band_accountability.md#contestability);
+    - [Auditability](core_05_band_oversight.md#auditability); and
+    - [Incentive Alignment](core_05_band_integrative.md#incentive-alignment).
+
+    **Secondary assessment:** When evaluating the primary trace, treat missing foreseeable safeguards as an Anti-Capture failure even if [System Capture](core_05_band_continuity.md#system-capture) distortion is not yet visible. Read with [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) where settlement or rights-relevant resolution sources are [materially implicated](core_05_band_oversight.md#materially-implicated).
+<a id="anti-capture-c"></a>
+- **What must hold**
+  - **Primary failure:** failing to install or keep foreseeable anti-capture safeguards where capture risk is material, including:
+    - treating “we will respond if capture appears” as a substitute for prevention;
+    - claiming a capture pathway was unforeseeable without [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence); and
+    - scaling safeguards below what [material stake](core_00_preamble.md#material-stake) requires.
+  - **Secondary failure:** counting as Anti-Capture:
+    - paper policies, unused recusal rules, or captured checkers;
+    - a single actor, bloc, or vendor as the only practical path to detect, review, or challenge; or
+    - a “best practice” or certification label that does not actually prevent [System Capture](core_05_band_continuity.md#system-capture).
 
 ---
 

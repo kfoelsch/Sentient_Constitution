@@ -72,6 +72,12 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Market Structure",
         "Market Concentration Threshold",
     ],
+    "#### Systemic effects and capture": [
+        "Systemic",
+        "Systemic Materiality",
+        "System Capture",
+        "Anti-Capture",
+    ],
 }
 
 TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS) | {
@@ -85,7 +91,6 @@ TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS) | {
     "#### Community-anchored continuity: indigenous, language, culture, and heritage",
     "#### Materiality, impact, risk, and proxy integrity",
     "#### Dependency and cross-system support",
-    "#### Systemic effects and capture",
 }
 
 
