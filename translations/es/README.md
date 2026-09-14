@@ -30,6 +30,8 @@
 | [core_02_definition_structure.md](core_02_definition_structure.md) | [core_02_definition_structure.md](../../core_02_definition_structure.md) |
 | [core_03_definition_integrity.md](core_03_definition_integrity.md) | [core_03_definition_integrity.md](../../core_03_definition_integrity.md) |
 | [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md) | [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md) |
+| [core_05__definitions_home.md](core_05__definitions_home.md) | [core_05__definitions_home.md](../../core_05__definitions_home.md) |
+| [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md) | [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md) |
 
 Los enlaces del piloto apuntan a los archivos en inglés que aún no tienen traducción. Los anclas HTML (`id`) se copian del original para poder comparar tramo a tramo.
 

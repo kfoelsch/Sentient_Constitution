@@ -10,7 +10,7 @@
 >
 > **قبلی (این زبان):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **بعدی (هنوز انگلیسی):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **بعدی (این زبان):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **قوس خواندن:** §1 تخصیص بار → §2 نقشهٔ ردگیری → §3 مشاهده‌پذیری → §4 حدهای امنیت → §5 استاندارد شاهد → §6 مرز لایهٔ گواهی (غیرعملیاتی)
 
 </details>
@@ -224,6 +224,6 @@
 
 **پروندهٔ قبلی:** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**پروندهٔ بعدی (هنوز انگلیسی):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**پروندهٔ بعدی (این زبان):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **اصل الزام‌آور:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

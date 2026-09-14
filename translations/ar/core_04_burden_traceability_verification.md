@@ -10,7 +10,7 @@
 >
 > **السابق (هذه اللغة):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **التالي (ما زال بالإنجليزية):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **التالي (هذه اللغة):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **قوس القراءة:** §1 توزيع العبء → §2 خريطة التتبع → §3 قابلية الرصد → §4 حدود الأمن → §5 معيار الدليل → §6 حد طبقة التصديق (غير تشغيلي)
 
 </details>
@@ -224,6 +224,6 @@
 
 **الملف السابق (هذه اللغة):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**الملف التالي (ما زال بالإنجليزية):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**الملف التالي (هذه اللغة):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **الأصل الملزم:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

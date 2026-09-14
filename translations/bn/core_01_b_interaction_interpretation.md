@@ -31,7 +31,7 @@
 **অধ্যায় পাঁচ স্থলাভিষিক্ত সংজ্ঞা** (O/M/A/C পূরণ — বস্তুগতভাবে প্রাসঙ্গিক হলে অধ্যায় দুই থেকে চারের অধীনে সন্ধান):
 
 - [কল্যাণ](../../core_05_band_continuity.md#wellbeing) (সমুন্নতি উদ্দেশ্য)
-- [তত্ত্বাবধান](../../core_05_band_accountability.md#oversight), [জবাবদিহি](../../core_05_apex_accountability_leg.md#accountability), [চ্যালেঞ্জ-যোগ্যতা](../../core_05_band_accountability.md#contestability), [শাসন](../../core_05_band_accountability.md#governance), [শ্রেণিবিন্যাস-স্কেল করা শাসন](../../core_05_band_oversight.md#classification-scaled-governance)
+- [তত্ত্বাবধান](../../core_05_band_accountability.md#oversight), [জবাবদিহি](core_05_apex_accountability_leg.md#accountability), [চ্যালেঞ্জ-যোগ্যতা](../../core_05_band_accountability.md#contestability), [শাসন](../../core_05_band_accountability.md#governance), [শ্রেণিবিন্যাস-স্কেল করা শাসন](../../core_05_band_oversight.md#classification-scaled-governance)
 - [বস্তুগত](../../core_05_band_oversight.md#material), [বস্তুগত প্রভাব](../../core_05_band_oversight.md#material-impact), [বস্তুগত ঝুঁকি](../../core_05_band_oversight.md#material-risk), [তাৎপর্য নির্ণয়](../../core_05_band_oversight.md#materiality-determination) (উইজেট এটিকে **তাৎপর্য** বলে), [ব্যবস্থাগত তাৎপর্য](../../core_05_band_accountability.md#systemic-materiality) — গুচ্ছ: [তাৎপর্য, প্রভাব, ঝুঁকি ও স্থলাভিষিক্ত সততা](../../core_05_band_oversight.md#materiality-semi-independent)
 
 **প্রধান অধ্যায় পাঁচ §3 নির্ভরশীল গুচ্ছ** (যৌথ-আহ্বান গোষ্ঠী — বস্তুগতভাবে প্রাসঙ্গিক হলে অধ্যায় দুই থেকে চারের সঙ্গে পড়ুন):
@@ -213,7 +213,7 @@
 - [ব্যবস্থাগত তালাবদ্ধতা](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
 - [উল্টানো যায় এমনতা](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [নির্ভরতা](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [জবাবদিহি](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [জবাবদিহি](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [তত্ত্বাবধান](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
@@ -226,7 +226,7 @@
 
 **শ্রেণিবিন্যাস তল।** কোনো ব্যবস্থাকে তার সর্বোচ্চ প্রযোজ্য শ্রেণিবিন্যাস যা চায় তার নিচে শাসন করা চলে না। নিচু প্রশাসনিক লেবেল সর্বোচ্চ প্রযোজ্য ঝুঁকি, নির্ভরতা, অধিকার, বা ব্যবস্থা-প্রভাব শ্রেণিবিন্যাস যে যাচাই চায় তা কমাতে পারে না।
 
-**কর্তৃত্ব-স্কেল করা জবাবদান।** আনুপাতিকতা এও নিষেধ করে যাদের বৃহত্তর অনুমোদিত ক্ষমতা, পরিণতিময় ভূমিকা, বা প্রাতিষ্ঠানিক প্রভাব আছে তাদের অপর্যাপ্ত-শাসন: [জবাবদিহি](../../core_05_apex_accountability_leg.md#accountability) ও [তত্ত্বাবধান](../../core_05_apex_oversight_leg.md#oversight-constitutional) তীব্রতা সেই কর্তৃত্বের সঙ্গে বাড়তে হয়, কমতে নয়।
+**কর্তৃত্ব-স্কেল করা জবাবদান।** আনুপাতিকতা এও নিষেধ করে যাদের বৃহত্তর অনুমোদিত ক্ষমতা, পরিণতিময় ভূমিকা, বা প্রাতিষ্ঠানিক প্রভাব আছে তাদের অপর্যাপ্ত-শাসন: [জবাবদিহি](core_05_apex_accountability_leg.md#accountability) ও [তত্ত্বাবধান](../../core_05_apex_oversight_leg.md#oversight-constitutional) তীব্রতা সেই কর্তৃত্বের সঙ্গে বাড়তে হয়, কমতে নয়।
 
 **উচ্চতর সীমা।** যেখানে ক্রিয়া অপরিবর্তনীয় ক্ষতি, ব্যবস্থাগত তালাবদ্ধতা, অস্তিত্বগত ঝুঁকি, বা পরিবেশগত পুনরুদ্ধার ক্ষমতার অপরিবর্তনীয় ক্ষতির ঝুঁকি আনে, ব্যবস্থাকে ন্যায্যতা, যাচাই, এবং যেখানে সম্ভব উল্টানো যায় এমনতার জন্য উচ্চতর সীমা প্রয়োগ করতে হয়।
 
@@ -608,7 +608,7 @@
 
 - ঊর্ধ্ব: [প্রস্তাবনা — সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad); [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং অধ্যায়জুড়ে ধারা-সন্ধানের মাধ্যমে প্রযোজ্য।
 - অধঃ: [§8.1 সাংবিধানিক বাইপাস-নিষেধ নীতি](#81-constitutional-no-bypass-principle), [§8.2 সংজ্ঞা স্তর ও প্রয়োজনীয় শৃঙ্খলা](#82-definitional-layer-and-required-disciplines), [§8.3 অস্পষ্টতা সমাধান](#83-ambiguity-resolution), [§8.4 সাংবিধানিক অর্থ দ্বন্দ্ব সমাধান](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing) থেকে [15. সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#15-integrated-application); মূল্য-সংঘর্ষ পদ্ধতির জন্য [6. প্রক্রিয়া দ্বন্দ্ব সমাধান](#6-process-conflict-resolution); [অধ্যায় ছয়: ভিত্তিগত অধিকার](../../core_06_rights_part_a.md#chapter-six-foundational-rights) অ-সংকোচন ডিফল্ট।
-- সঙ্গে পড়ুন: [অধ্যায় দুই থেকে চার](core_02_definition_structure.md) এবং [অধ্যায় পাঁচ](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — এই অধ্যায়ের প্রতি পদের ব্যাখ্যামূলক ও প্রমাণ স্তর।
+- সঙ্গে পড়ুন: [অধ্যায় দুই থেকে চার](core_02_definition_structure.md) এবং [অধ্যায় পাঁচ](core_05__definitions_home.md#chapter-five-foundational-definitions) — এই অধ্যায়ের প্রতি পদের ব্যাখ্যামূলক ও প্রমাণ স্তর।
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) এবং [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) — সমন্বিত-মূল্য কাঠামোর ব্যাখ্যামূলক পটভূমি; বস্তুগতভাবে প্রাসঙ্গিক যেখানে [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং।
 - সঙ্গে পড়ুন: [কর্তৃত্ব স্তূপ ও অভ্যন্তরীণ ক্রম](../../core_05_band_integrative.md#authority-stack) (*উৎস-স্তর অবস্থা*); [অধ্যায় ষোল](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*হেফাজত, সংস্করণ, গ্রহণ ফ্রেমিং* — দ্বিতীয় দ্বন্দ্ব-ক্রম ঘর নয়); [অধ্যায় তেরো](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) এবং [অধ্যায় চোদ্দ](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*§8.4-এর অধীনে অ-পশ্চাদগমন ও গ্রহণকারী ক্রম গেট*)।
 - সঙ্গে পড়ুন: প্রাতিষ্ঠানিক ব্যাখ্যা সুরক্ষার জন্য [অনুচ্ছেদ XXII: সাংবিধানিক ব্যাখ্যা, পর্যালোচনা ও দখল-নিরোধ সুরক্ষা](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (এই ধারার স্থলাভিষিক্ত নয়)।
@@ -637,7 +637,7 @@
 
 - [চ্যালেঞ্জ-যোগ্যতা](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [নিরীক্ষাযোগ্যতা](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [জবাবদিহি](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [জবাবদিহি](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -799,7 +799,7 @@
 
 এই উপধারার সম্মিলিত-পূরণ নিয়ম **একাধিক কীভাবে-করবেন ফাইল** একই তথ্যে প্রযোজ্য হওয়া নিয়ে। এটি এক নয়:
 - অন্তর্ভুক্ত যৌথ-কাঠামো পাঠে **একক** কার্যকরী গুচ্ছের নিয়মের সঙ্গে, যেখানে সেই গুচ্ছের শুধু অংশ করা অনুপালন গণ্য হয় না — দেখুন **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*কার্যকরী গুচ্ছ*); বা
-- অধ্যায় পাঁচ নিয়ম যে **নির্ভরশীল গুচ্ছ** সংজ্ঞা একসঙ্গে পূরণ করতে হয় — দেখুন **[যৌথ আহ্বান ও পূরণ](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**।
+- অধ্যায় পাঁচ নিয়ম যে **নির্ভরশীল গুচ্ছ** সংজ্ঞা একসঙ্গে পূরণ করতে হয় — দেখুন **[যৌথ আহ্বান ও পূরণ](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**।
 
 **এই উপধারা কখন প্রযোজ্য।** এই নিয়ম **[অধ্যায় ষোল](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)**-এর অধীনে বৈধ গ্রহণ ও অন্তর্ভুক্তি পরিসরের ভিতরে এই দুই ক্ষেত্রের যেকোনোটিতে প্রযোজ্য:
 

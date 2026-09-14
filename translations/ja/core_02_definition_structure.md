@@ -24,7 +24,7 @@
 > - **第二章（本ファイル）** — O/M/A/C の定義構造と構成要素の整合：すべての定義は、**存在論（O）**（それが何か）、**評価（A）**義務と織り合わせられた**測定（M）**登録（どう測定され評価されなければならないか）、および**遵守（C）**（何が成り立たなければならないか）を結ぶ（[§1 目的と役割](core_02_definition_structure.md#1-purpose-and-role)；[§2 定義の誠実性要件](core_02_definition_structure.md#2-definition-integrity-requirement)）。
 > - **第三章** — 定義の誠実性、回避、不遵守（[第三章](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)）。
 > - **第四章** — 証明の負担、定義の追跡可能性、観測可能性、安全限度のもとでの検証、検証のアクセス可能性（[第四章 — 証明の負担、追跡可能性、検証](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)）。
-> - **第五章** — 測定、評価、遵守のための共有語彙（五つの四元帯ファイルと憲法上の目的ファイルを通じた第 1–3 節の独立、グループ、パッケージの定義：[繁栄目的](../../core_05_apex_flourishing_aim.md)、[監督](../../core_05_band_oversight.md)、[参加](../../core_05_band_participation.md)、[説明責任](../../core_05_band_accountability.md)、[継続](../../core_05_band_continuity.md)、[統合](../../core_05_band_integrative.md)）；読み順と地図は [A部](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map)。
+> - **第五章** — 測定、評価、遵守のための共有語彙（五つの四元帯ファイルと憲法上の目的ファイルを通じた第 1–3 節の独立、グループ、パッケージの定義：[繁栄目的](../../core_05_apex_flourishing_aim.md)、[監督](../../core_05_band_oversight.md)、[参加](../../core_05_band_participation.md)、[説明責任](../../core_05_band_accountability.md)、[継続](../../core_05_band_continuity.md)、[統合](../../core_05_band_integrative.md)）；読み順と地図は [A部](core_05__definitions_home.md#chapter-five-compass-and-definition-map)。
 > - **CJS** — 実施横断用語の運用定義（[CJS-3](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) 運用クラスターライブラリ）；第五章の典範の本拠を適用する — 再定義しない。**CS**、**CI**、**CF** における領域分類とプロトコルも同じ規則に従う。
 >
 > さらなる案内：
@@ -49,7 +49,7 @@
 - 上流：[前文 §1 モデル](core_00_preamble.md#the-model) — [憲法四元](core_00_preamble.md#constitutional-tetrad)、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)、[実質的利害](core_00_preamble.md#material-stake)による尺度合わせは、各節の追跡を通じて全章に適用される；[第一章 §1 目的と役割](core_01_a_values_principles.md#1-purpose-and-role)（*この定義スタックが仕える価値と制約*）。
 - 上流：[第二章の冒頭](#chapter-two-definition-structure-and-component-requirements) — O/M/A/C の分解と内部整合の要件。
 - 四元の脚：**監督**、**説明責任**（定義は、観察可能な振る舞いに対して評価可能かつ執行可能でなければならない）。第一次の目的：**繁栄**と**継続**。[実質的利害](core_00_preamble.md#material-stake)による尺度合わせは全章に適用される。
-- 下流：[§1.2 測定構成要素](#12-measurement-components)および [§1.3 評価構成要素](#13-assessment-components)（*評価義務と織り合わせられた測定（M）登録；本章における O/M/A/C の入口の形*）；[§2 定義の誠実性要件](#2-definition-integrity-requirement)；[第三章、第 1 節 — 定義の誠実性と回避防止の制約](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第四章、第 1 節 — 排他的執行と負担の割当](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)；[第五章の羅針と定義地図](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map)。
+- 下流：[§1.2 測定構成要素](#12-measurement-components)および [§1.3 評価構成要素](#13-assessment-components)（*評価義務と織り合わせられた測定（M）登録；本章における O/M/A/C の入口の形*）；[§2 定義の誠実性要件](#2-definition-integrity-requirement)；[第三章、第 1 節 — 定義の誠実性と回避防止の制約](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第四章、第 1 節 — 排他的執行と負担の割当](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)；[第五章の羅針と定義地図](core_05__definitions_home.md#chapter-five-compass-and-definition-map)。
 - あわせて読む：[前文 — 積極的所管登録](core_00_preamble.md#4-principles-definitions-and-rights)および [権限スタックと内部階層](../../core_05_band_integrative.md#authority-stack)；[憲法上の制約](../../core_05_band_integrative.md#constitutional-constraint) — 後の執行、統治、実施、測定、監査、分類の仕組みは遵守しなければならない；[CJS-3.1 憲法の羅針とクラスター地図](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — 運用定義は第五章の典範の本拠を適用し、再定義してはならない。
 
 </details>
@@ -124,7 +124,7 @@
 
 - 上流：原則：[第二章の冒頭](#chapter-two-definition-structure-and-component-requirements)；[§1 目的と役割](#1-purpose-and-role) — O/M/A/C 分解の内側での A 構成要素の役割。
 - 下流：[第三章、第 1 節 — 定義の誠実性と回避防止の制約](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第四章、第 1 節 — 排他的執行と負担の割当](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — 第二・第三章で定義された評価要件についての排他的執行の指名された経路；[第四章、第 5 節 — 遵守証拠の標準](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — その執行についての証拠の十分性。
-- あわせて読む：[第五章の独立定義](../../core_05__definitions_home.md#1-interdependent-definitions) — 評価の範囲と条件を統治する適用可能な定義；評価要件は、その入場範囲の内側で、適用されるすべての第五章定義と一貫して適用される。
+- あわせて読む：[第五章の独立定義](core_05__definitions_home.md#1-interdependent-definitions) — 評価の範囲と条件を統治する適用可能な定義；評価要件は、その入場範囲の内側で、適用されるすべての第五章定義と一貫して適用される。
 
 </details>
 

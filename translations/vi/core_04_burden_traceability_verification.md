@@ -10,7 +10,7 @@
 >
 > **Trước (ngôn ngữ này):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **Tiếp theo (vẫn tiếng Anh):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **Tiếp theo (ngôn ngữ này):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **Cung đọc:** §1 phân bổ gánh → §2 bản đồ dấu vết → §3 khả năng quan sát → §4 giới hạn an ninh → §5 chuẩn bằng chứng → §6 ranh giới tầng chứng nhận (không vận hành)
 
 </details>
@@ -224,6 +224,6 @@ Người đọc không được coi:
 
 **Tệp trước:** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**Tệp tiếp theo (vẫn tiếng Anh):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**Tệp tiếp theo (ngôn ngữ này):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **Nguyên bản ràng buộc:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

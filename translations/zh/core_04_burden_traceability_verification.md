@@ -10,7 +10,7 @@
 >
 > **上一篇（本语种）：** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **下一篇（仍为英语）：** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **下一篇（本语言）：** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **阅读弧线：** §1 负担分配 → §2 追溯图 → §3 可观察性 → §4 安全限度 → §5 证据标准 → §6 认证层级边界（非操作性）。
 
 </details>
@@ -224,6 +224,6 @@
 
 **上一文件（本语种）：** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**下一文件（仍为英语）：** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**下一文件（本语言）：** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **有约束力的原文：** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

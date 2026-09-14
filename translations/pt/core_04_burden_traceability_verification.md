@@ -10,7 +10,7 @@
 >
 > **Anterior (este idioma):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **Próximo (ainda em inglês):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **Próximo (este idioma):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **Arco de leitura:** §1 alocação do ônus → §2 mapa de rastro → §3 observabilidade → §4 limites de segurança → §5 padrão de evidência → §6 fronteira da camada de certificação (não operativa)
 
 </details>
@@ -224,6 +224,6 @@ Quem lê não deve tratar:
 
 **Arquivo anterior:** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**Próximo arquivo (ainda em inglês):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**Próximo arquivo (este idioma):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **Original vinculante:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

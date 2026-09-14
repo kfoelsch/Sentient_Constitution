@@ -10,7 +10,7 @@
 >
 > **ก่อนหน้า (ภาษานี้):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **ถัดไป (ภาษานี้):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **ส่วนโค้งการอ่าน:** §1 การจัดสรรภาระ → §2 แผนที่ตามรอย → §3 ความสังเกตได้ → §4 ขีดจำกัดความมั่นคง → §5 มาตรฐานหลักฐาน → §6 ขอบเขตชั้นของการรับรอง (ไม่ใช่บทบัญญัติที่ใช้บังคับ)
 
 </details>
@@ -224,6 +224,6 @@
 
 **ไฟล์ก่อนหน้า (ภาษานี้):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**ไฟล์ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**ไฟล์ถัดไป (ภาษานี้):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **ต้นฉบับที่มีผลผูกพัน:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

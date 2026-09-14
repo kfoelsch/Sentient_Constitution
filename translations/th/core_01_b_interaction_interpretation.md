@@ -31,7 +31,7 @@
 **บทนิยามตัวแทนของบทที่ห้า** (การสนอง O/M/A/C — ตามรอยภายใต้บทที่สองถึงสี่เมื่อเป็นสาระ):
 
 - [ความผาสุก](../../core_05_band_continuity.md#wellbeing) (เป้าประสงค์ความเจริญงอกงาม)
-- [การกำกับดูแล](../../core_05_band_accountability.md#oversight) [ความรับผิดชอบ](../../core_05_apex_accountability_leg.md#accountability) [ความสามารถในการโต้แย้ง](../../core_05_band_accountability.md#contestability) [การปกครอง](../../core_05_band_accountability.md#governance) [การปกครองที่ปรับตามการจำแนก](../../core_05_band_oversight.md#classification-scaled-governance)
+- [การกำกับดูแล](../../core_05_band_accountability.md#oversight) [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) [ความสามารถในการโต้แย้ง](../../core_05_band_accountability.md#contestability) [การปกครอง](../../core_05_band_accountability.md#governance) [การปกครองที่ปรับตามการจำแนก](../../core_05_band_oversight.md#classification-scaled-governance)
 - [ที่เป็นสาระ](../../core_05_band_oversight.md#material) [ผลกระทบที่เป็นสาระ](../../core_05_band_oversight.md#material-impact) [ความเสี่ยงที่เป็นสาระ](../../core_05_band_oversight.md#material-risk) [การกำหนดความเป็นสาระ](../../core_05_band_oversight.md#materiality-determination) (กล่องติดป้ายนี้ว่า **ความเป็นสาระ**) [ความเป็นสาระเชิงระบบ](../../core_05_band_accountability.md#systemic-materiality) — คลัสเตอร์: [ความเป็นสาระ ผลกระทบ ความเสี่ยง และความครบถ้วนของตัวแทนวัด](../../core_05_band_oversight.md#materiality-semi-independent)
 
 **คลัสเตอร์ที่พึ่งของ §3 บทที่ห้าหลัก** (กลุ่มการอ้างร่วม — อ่านคู่กับบทที่สองถึงสี่เมื่อเป็นสาระ):
@@ -213,20 +213,20 @@
 - [การล็อกเชิงระบบ](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
 - [ความสามารถในการย้อนกลับ](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [การพึ่งพา](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [ความรับผิดชอบ](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [การกำกับดูแล](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
 <br>
 
-*พูดแบบตรง ๆ: สัดส่วนตรวจสอบว่าขนาดของการจำกัดพอดีกับขนาดของภัยที่มันจัดการ ทางเลือกที่จำเป็นและลดภัยยังล้มหากขอบเขต ระยะเวลา หรือความเข้มไม่เป็นสัดส่วนกับสิ่งที่อยู่ในเกมจริง ความเสี่ยงยิ่งย้อนกลับไม่ได้ เชิงระบบ หรือสร้างการพึ่งพา เหตุผลและการตรวจสอบยิ่งต้องเข้ม กฎการปกครองต่ำเกินไปเดียวกันใช้กับอำนาจ: อำนาจที่ได้รับหรือบทบาทที่มีผลยิ่งใหญ่ [ความรับผิดชอบ](../../core_05_apex_accountability_leg.md#accountability) และ [การกำกับดูแล](../../core_05_apex_oversight_leg.md#oversight-constitutional) ยิ่งต้องสูง ไม่ต่ำ*
+*พูดแบบตรง ๆ: สัดส่วนตรวจสอบว่าขนาดของการจำกัดพอดีกับขนาดของภัยที่มันจัดการ ทางเลือกที่จำเป็นและลดภัยยังล้มหากขอบเขต ระยะเวลา หรือความเข้มไม่เป็นสัดส่วนกับสิ่งที่อยู่ในเกมจริง ความเสี่ยงยิ่งย้อนกลับไม่ได้ เชิงระบบ หรือสร้างการพึ่งพา เหตุผลและการตรวจสอบยิ่งต้องเข้ม กฎการปกครองต่ำเกินไปเดียวกันใช้กับอำนาจ: อำนาจที่ได้รับหรือบทบาทที่มีผลยิ่งใหญ่ [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) และ [การกำกับดูแล](../../core_05_apex_oversight_leg.md#oversight-constitutional) ยิ่งต้องสูง ไม่ต่ำ*
 
 การจำกัด **ค่านิยม** ทางรัฐธรรมนูญ — รวมการคุ้มครองพื้นสิทธิของ **บทที่หก** และหลักการและการคุ้มครองอื่นที่อยู่ภายใต้การแลกภายใต้ [§6](#6-process-conflict-resolution) — ต้องเป็นสัดส่วนกับขนาดและความน่าจะเป็นของ **ภัย** หรือ **ผลกระทบเชิงระบบ** ที่ถูกจัดการโดยชอบ สอดคล้องกับ [สัดส่วน](../../core_05_band_accountability.md#proportionality) ใน **บทที่ห้า**
 
 **พื้นการจำแนก.** ไม่มีระบบใดจะถูกปกครองที่ระดับต่ำกว่าที่การจำแนกสูงสุดที่ใช้บังคับกำหนด ป้ายบริหารที่ต่ำกว่าลดการตรวจสอบที่การจำแนกความเสี่ยง การพึ่งพา สิทธิ หรือผลกระทบระบบสูงสุดที่ใช้บังคับกำหนดไม่ได้
 
-**การต้องตอบคำถามที่ปรับตามอำนาจ.** สัดส่วนยังห้ามการปกครองต่ำเกินไปของผู้ที่ถืออำนาจที่ได้รับมากกว่า บทบาทที่มีผล หรืออิทธิพลของสถาบัน: ความเข้มของ [ความรับผิดชอบ](../../core_05_apex_accountability_leg.md#accountability) และ [การกำกับดูแล](../../core_05_apex_oversight_leg.md#oversight-constitutional) ต้องขึ้นกับอำนาจนั้น ไม่ลง
+**การต้องตอบคำถามที่ปรับตามอำนาจ.** สัดส่วนยังห้ามการปกครองต่ำเกินไปของผู้ที่ถืออำนาจที่ได้รับมากกว่า บทบาทที่มีผล หรืออิทธิพลของสถาบัน: ความเข้มของ [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) และ [การกำกับดูแล](../../core_05_apex_oversight_leg.md#oversight-constitutional) ต้องขึ้นกับอำนาจนั้น ไม่ลง
 
 **เกณฑ์ที่สูงขึ้น.** ในที่ที่การกระทำนำความเสี่ยงของภัยที่ไม่อาจย้อนกลับ การล็อกเชิงระบบ ความเสี่ยงดำรงอยู่ หรือการสูญเสียขีดความสามารถในการฟื้นตัวทางนิเวศที่ไม่อาจย้อนกลับ ระบบต้องใช้เกณฑ์ที่สูงขึ้นสำหรับเหตุผล การตรวจสอบ และความสามารถในการย้อนกลับในที่ที่ทำได้
 
@@ -608,7 +608,7 @@
 
 - ต้นทาง: [คำปรารภ — จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) การปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) ใช้ทั่วบทผ่านตามรอยของหมวด
 - ปลายทาง: [§8.1 หลักการทางรัฐธรรมนูญห้ามเลี่ยง](#81-constitutional-no-bypass-principle) [§8.2 ชั้นบทนิยามและวินัยที่กำหนด](#82-definitional-layer-and-required-disciplines) [§8.3 การยุติความคลุมเครือ](#83-ambiguity-resolution) [§8.4 การยุติความขัดแย้งของความหมายทางรัฐธรรมนูญ](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)) [2. วัตถุประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing) ถึง [15. การใช้แบบรวม](core_01_c_stewardship_capacity_principles.md#15-integrated-application) [6. การยุติความขัดแย้งของกระบวนการ](#6-process-conflict-resolution) สำหรับวิธีดำเนินการการชนของค่านิยม [บทที่หก: สิทธิพื้นฐาน](../../core_06_rights_part_a.md#chapter-six-foundational-rights) ค่าปริยายไม่ทำให้แคบ
-- อ่านคู่กับ: [บทที่สองถึงสี่](core_02_definition_structure.md) และ [บทที่ห้า](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — ชั้นการตีความและหลักฐานของทุกคำในบทนี้
+- อ่านคู่กับ: [บทที่สองถึงสี่](core_02_definition_structure.md) และ [บทที่ห้า](core_05__definitions_home.md#chapter-five-foundational-definitions) — ชั้นการตีความและหลักฐานของทุกคำในบทนี้
 - อ่านคู่กับ: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) และ [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) — ฉากหลังการตีความของกรอบค่านิยมแบบรวม การปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) ในที่ที่เป็นสาระ
 - อ่านคู่กับ: [กองอำนาจและลำดับชั้นภายใน](../../core_05_band_integrative.md#authority-stack) (*สถานะชั้นแหล่ง*) [บทที่สิบหก](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*การพิทักษ์ ฉบับ กรอบการรับเป็นของตน* — ไม่ใช่บ้านลำดับความขัดแย้งที่สอง) [บทที่สิบสาม](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) และ [บทที่สิบสี่](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*การไม่ถอยหลังและประตูลำดับชั้นของผู้รับเป็นของตนภายใต้ §8.4*)
 - อ่านคู่กับ: [มาตรา XXII: การตีความทางรัฐธรรมนูญ การทบทวน และการคุ้มกันต้านการยึดครอง](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) สำหรับการคุ้มกันการตีความของสถาบัน (ไม่ใช่สิ่งทดแทนหมวดนี้)
@@ -637,7 +637,7 @@
 
 - [ความสามารถในการโต้แย้ง](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [ความสามารถในการตรวจ](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [ความรับผิดชอบ](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -799,7 +799,7 @@
 
 กฎการสนองร่วมของหมวดย่อยนี้เกี่ยวกับ **ไฟล์วิธีทำมากกว่าหนึ่งไฟล์** ที่ใช้กับข้อเท็จจริงชุดเดียวกัน ไม่ใช่สิ่งเดียวกับ:
 - กฎของคลัสเตอร์ปฏิบัติการ **เดียว** ในข้อความโครงสร้างร่วมที่นำเข้า ในที่ที่ทำเพียงส่วนของคลัสเตอร์นั้นไม่นับเป็นการปฏิบัติตาม — ดู **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*คลัสเตอร์ปฏิบัติการ*) หรือ
-- กฎบทที่ห้าที่บทนิยาม **คลัสเตอร์ที่พึ่ง** ต้องถูกสนองด้วยกัน — ดู **[การอ้างร่วมและการสนอง](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**
+- กฎบทที่ห้าที่บทนิยาม **คลัสเตอร์ที่พึ่ง** ต้องถูกสนองด้วยกัน — ดู **[การอ้างร่วมและการสนอง](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**
 
 **เมื่อหมวดย่อยนี้ใช้.** กฎเหล่านี้ใช้ภายในขอบเขตการรับเป็นของตนและการนำเข้าที่สมบูรณ์ภายใต้ **[บทที่สิบหก](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** ในกรณีใดกรณีหนึ่งเหล่านี้:
 

@@ -10,7 +10,7 @@
 >
 > **前（本言語）：** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **次（なお英語）：** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **次（この言語）：** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **読みの弧：** §1 負担の割当 → §2 追跡地図 → §3 観測可能性 → §4 安全限度 → §5 証拠標準 → §6 認証の層境界（非操作性）
 
 </details>
@@ -224,6 +224,6 @@
 
 **前のファイル（本言語）：** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**次のファイル（なお英語）：** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**次のファイル（この言語）：** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **拘束力ある原文：** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

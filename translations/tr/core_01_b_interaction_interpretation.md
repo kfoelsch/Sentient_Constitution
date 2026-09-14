@@ -31,7 +31,7 @@
 **Beşinci Bölüm vekil tanımları** (O/M/A/C karşılanması — maddi olarak ilgili olduğunda İkinci Bölümden Dördüncü Bölüme izleyin):
 
 - [Esenlik](../../core_05_band_continuity.md#wellbeing) (Gelişim amacı)
-- [Gözetim](../../core_05_band_accountability.md#oversight), [Hesap verebilirlik](../../core_05_apex_accountability_leg.md#accountability), [İtiraz edilebilirlik](../../core_05_band_accountability.md#contestability), [Yönetişim](../../core_05_band_accountability.md#governance), [Sınıflamaya ölçeklenmiş yönetişim](../../core_05_band_oversight.md#classification-scaled-governance)
+- [Gözetim](../../core_05_band_accountability.md#oversight), [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability), [İtiraz edilebilirlik](../../core_05_band_accountability.md#contestability), [Yönetişim](../../core_05_band_accountability.md#governance), [Sınıflamaya ölçeklenmiş yönetişim](../../core_05_band_oversight.md#classification-scaled-governance)
 - [Maddi](../../core_05_band_oversight.md#material), [Maddi etki](../../core_05_band_oversight.md#material-impact), [Maddi risk](../../core_05_band_oversight.md#material-risk), [Maddilik belirlemesi](../../core_05_band_oversight.md#materiality-determination) (kutular bunu **Maddilik** diye etiketler), [Sistemik maddilik](../../core_05_band_accountability.md#systemic-materiality) — küme: [Maddilik, etki, risk ve vekil bütünlüğü](../../core_05_band_oversight.md#materiality-semi-independent)
 
 **Beşinci Bölüm §3 başlıca bağımlı kümeler** (ortak-çağrı grupları — maddi olarak ilgili olduğunda İkinci Bölümden Dördüncü Bölüme birlikte okuyun):
@@ -213,7 +213,7 @@ Zararın en aza indirilmesi o tabanları zaten geçen seçenekler arasından se�
 - [Sistemik kilitlenme](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
 - [Geri döndürülebilirlik](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [Bağımlılık](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [Hesap verebilirlik](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [Gözetim](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
@@ -226,7 +226,7 @@ Anayasal **değerler** üzerindeki sınırlamalar — [§6](#6-process-conflict-
 
 **Sınıflama tabanı.** Hiçbir sistem, en yüksek uygulanabilir sınıflamasının istediğinden daha düşük bir düzeyde yönetilemez. Daha düşük bir idari etiket, en yüksek uygulanabilir risk, bağımlılık, hak ya da sistem-etki sınıflamasının istediği incelemeyi azaltamaz.
 
-**Yetkiye ölçeklenmiş yanıt verebilirlik.** Orantılılık ayrıca daha büyük yetkilendirilmiş güç, sonuç doğuran rol ya da kurumsal etki tutanların eksik yönetimini yasaklar: [Hesap verebilirlik](../../core_05_apex_accountability_leg.md#accountability) ve [Gözetim](../../core_05_apex_oversight_leg.md#oversight-constitutional) yoğunluğu o yetkiyle yükselmeli, düşmemelidir.
+**Yetkiye ölçeklenmiş yanıt verebilirlik.** Orantılılık ayrıca daha büyük yetkilendirilmiş güç, sonuç doğuran rol ya da kurumsal etki tutanların eksik yönetimini yasaklar: [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability) ve [Gözetim](../../core_05_apex_oversight_leg.md#oversight-constitutional) yoğunluğu o yetkiyle yükselmeli, düşmemelidir.
 
 **Yükseltilmiş eşikler.** Eylemler geri döndürülemez zarar, sistemik kilitlenme, Varoluşsal Risk ya da Ekolojik Toparlanma Kapasitesinin geri döndürülemez kaybı riski getirdiğinde, sistemler pratik olduğunda gerekçelendirme, inceleme ve geri döndürülebilirlik için yükseltilmiş eşikler uygulamalıdır.
 
@@ -608,7 +608,7 @@ Bu bölümde tanımlanan hiçbir değer, diğerlerini geçersiz kılmak için ev
 
 - Yukarı: [Önsöz — Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [maddi pay](core_00_preamble.md#material-stake) ölçeklemesi bölüm izleri aracılığıyla bölüm genelinde uygulanır.
 - Aşağı: [§8.1 Anayasal atlama-yok ilkesi](#81-constitutional-no-bypass-principle), [§8.2 Tanımsal katman ve gereken disiplinler](#82-definitional-layer-and-required-disciplines), [§8.3 Belirsizlik çözümü](#83-ambiguity-resolution), [§8.4 Anayasal anlam çatışması çözümü](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing)ten [15. Bütünleşik uygulama](core_01_c_stewardship_capacity_principles.md#15-integrated-application)ya; değer-çarpışması usulü için [6. Süreç çatışması çözümü](#6-process-conflict-resolution); [Altıncı Bölüm: Temel haklar](../../core_06_rights_part_a.md#chapter-six-foundational-rights) daralmama varsayılanı.
-- Birlikte oku: [İkinci Bölümden Dördüncü Bölüme](core_02_definition_structure.md) ve [Beşinci Bölüm](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — bu bölümdeki her terim için yorumsal ve kanıtsal katman.
+- Birlikte oku: [İkinci Bölümden Dördüncü Bölüme](core_02_definition_structure.md) ve [Beşinci Bölüm](core_05__definitions_home.md#chapter-five-foundational-definitions) — bu bölümdeki her terim için yorumsal ve kanıtsal katman.
 - Birlikte oku: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) ve [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) — bütünleşik-değer çerçevesi için yorumsal arka plan; maddi olarak ilgili olduğunda [maddi pay](core_00_preamble.md#material-stake) ölçeklemesi.
 - Birlikte oku: [Yetki yığını ve iç hiyerarşi](../../core_05_band_integrative.md#authority-stack) (*kaynak-katmanı statüsü*); [On Altıncı Bölüm](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*emanet, baskılar, benimseme çerçevesi* — ikinci bir çatışma-düzeni evi değil); [On Üçüncü Bölüm](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) ve [On Dördüncü Bölüm](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*§8.4 altında gerilememe ve benimseyen hiyerarşi kapıları*).
 - Birlikte oku: kurumsal yorum korumaları için [Madde XXII: Anayasal yorum, inceleme ve ele geçirme karşıtı korumalar](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (bu bölümün yerine geçmez).
@@ -637,7 +637,7 @@ Bu bölümde tanımlanan hiçbir değer, diğerlerini geçersiz kılmak için ev
 
 - [İtiraz edilebilirlik](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [Denetlenebilirlik](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [Hesap verebilirlik](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -799,7 +799,7 @@ Aşağıdaki kurallar **en sıkı** ya da **daha sıkı** dediğinde, o sözcük
 
 Bu alt bölümün birleşik-karşılama kuralı **birden çok nasıl-yapılır dosyasının** aynı olgulara uygulanması hakkındadır. Şununla aynı değildir:
 - içerilmiş ortak-yapı metninde **tek** bir işlemsel küme kuralı, o kümenin yalnızca bir kısmını yapmak uyum sayılmaz — bkz. **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*İşlemsel kümeler*); ya da
-- **Bağımlı küme** tanımlarının birlikte karşılanması gerektiğine dair Beşinci Bölüm kuralı — bkz. **[Ortak çağrı ve karşılama](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
+- **Bağımlı küme** tanımlarının birlikte karşılanması gerektiğine dair Beşinci Bölüm kuralı — bkz. **[Ortak çağrı ve karşılama](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
 **Bu alt bölüm ne zaman uygulanır.** Bu kurallar **[On Altıncı Bölüm](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** altında geçerli benimseme ve içerme kapsamında şu durumlardan herhangi birinde uygulanır:
 

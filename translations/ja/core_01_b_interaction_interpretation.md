@@ -31,7 +31,7 @@
 **第五章の代理定義**（O/M/A/C の充足 — 実質的に関連するときは第二から第四章のもとで追跡）：
 
 - [福祉](../../core_05_band_continuity.md#wellbeing)（繁栄目的）
-- [監督](../../core_05_band_accountability.md#oversight)、[説明責任](../../core_05_apex_accountability_leg.md#accountability)、[争訟可能性](../../core_05_band_accountability.md#contestability)、[統治](../../core_05_band_accountability.md#governance)、[分類に応じた統治](../../core_05_band_oversight.md#classification-scaled-governance)
+- [監督](../../core_05_band_accountability.md#oversight)、[説明責任](core_05_apex_accountability_leg.md#accountability)、[争訟可能性](../../core_05_band_accountability.md#contestability)、[統治](../../core_05_band_accountability.md#governance)、[分類に応じた統治](../../core_05_band_oversight.md#classification-scaled-governance)
 - [実質](../../core_05_band_oversight.md#material)、[実質的影響](../../core_05_band_oversight.md#material-impact)、[実質的リスク](../../core_05_band_oversight.md#material-risk)、[実質性の判定](../../core_05_band_oversight.md#materiality-determination)（ウィジェットはこれを**実質性**と標示する）、[システム的実質性](../../core_05_band_accountability.md#systemic-materiality) — クラスター：[実質性、影響、リスク、代替指標の誠実性](../../core_05_band_oversight.md#materiality-semi-independent)
 
 **第五章 §3 の主要な依存クラスター**（共同呼び出し群 — 実質的に関連するときは第二から第四章とあわせて読む）：
@@ -213,7 +213,7 @@
 - [システム的閉じ込め](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
 - [可逆性](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [依存](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [説明責任](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [説明責任](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [監督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
@@ -226,7 +226,7 @@
 
 **分類の床。** いかなるシステムも、その最高の適用分類が求める水準より低く統治されてはならない。より低い行政ラベルは、最高の適用リスク、依存、権利、またはシステム影響の分類が求める審査を減らせない。
 
-**権限に応じた応答義務。** 比例性はまた、より大きな授権された権力、結果の伴う役割、制度的影響力を持つ者の統治不足を禁じる。[説明責任](../../core_05_apex_accountability_leg.md#accountability)と[監督](../../core_05_apex_oversight_leg.md#oversight-constitutional)の強度は、その権威とともに上がらなければならず、下がってはならない。
+**権限に応じた応答義務。** 比例性はまた、より大きな授権された権力、結果の伴う役割、制度的影響力を持つ者の統治不足を禁じる。[説明責任](core_05_apex_accountability_leg.md#accountability)と[監督](../../core_05_apex_oversight_leg.md#oversight-constitutional)の強度は、その権威とともに上がらなければならず、下がってはならない。
 
 **高められた閾。** 行為が不可逆的危害、システム的閉じ込め、実存的リスク、または生態的回復能力の不可逆な喪失のリスクを導入するところでは、システムは、正当化、審査、実務可能なところでの可逆性について、高められた閾を適用しなければならない。
 
@@ -608,7 +608,7 @@
 
 - 上流：[前文 — 憲法四元](core_00_preamble.md#constitutional-tetrad)；[実質的利害](core_00_preamble.md#material-stake)による尺度合わせは、節の追跡を通じて全章に適用される。
 - 下流：[§8.1 憲法迂回禁止原則](#81-constitutional-no-bypass-principle)、[§8.2 定義層と必要な規律](#82-definitional-layer-and-required-disciplines)、[§8.3 曖昧さの解決](#83-ambiguity-resolution)、[§8.4 憲法上の意味衝突の解決](#84-constitutional-meaning-conflict-resolution)（[§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)）；[2. 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing) から [15. 統合適用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)；価値衝突の手続としての [6. 過程衝突の解決](#6-process-conflict-resolution)；[第六章：基礎権利](../../core_06_rights_part_a.md#chapter-six-foundational-rights)の非収縮既定。
-- あわせて読む：[第二から第四章](core_02_definition_structure.md)と[第五章](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — 本章のすべての用語の解釈および証拠層。
+- あわせて読む：[第二から第四章](core_02_definition_structure.md)と[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) — 本章のすべての用語の解釈および証拠層。
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad)と[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — 統合価値枠組みの解釈背景。実質的に関連するところでは[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ。
 - あわせて読む：[権限スタックと内部階層](../../core_05_band_integrative.md#authority-stack)（《源層の地位》）；[第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)（《保管、版、採択の枠組み》 — 第二の衝突順の本拠ではない）；[第十三章](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)と[第十四章](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)（《§8.4 のもとでの不後退と採択者階層の門》）。
 - あわせて読む：制度的解釈の保障については [Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（本節の代わりではない）。
@@ -637,7 +637,7 @@
 
 - [争訟可能性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [監査可能性](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [説明責任](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [説明責任](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -799,7 +799,7 @@
 
 本分節の併合充足規則は、同一事実に**複数の手順ファイル**が適用されることについてである。次と同じではない：
 - 編入された共同構造本文における**単一**の運用クラスターの規則。そのクラスターの一部だけをすることは遵守として数えない — **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)**（《運用クラスター》）を見よ
-- **依存クラスター**定義がともに満たされなければならないという第五章の規則 — **[共同呼び出しと充足](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)** を見よ
+- **依存クラスター**定義がともに満たされなければならないという第五章の規則 — **[共同呼び出しと充足](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)** を見よ
 
 **本分節がいつ適用されるか。** これらの規則は、**[第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** のもとでの有効な採択と編入の範囲の内側で、次のいずれかの場合に適用される：
 

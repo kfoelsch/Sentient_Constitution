@@ -32,7 +32,7 @@
 **تعريفات وكيلة في الفصل الخامس** (استيفاء O/M/A/C — تتبّع تحت الفصول من الثاني إلى الرابع حين يكون مادي الصلة):
 
 - [العافية](../../core_05_band_continuity.md#wellbeing) (مقصد الازدهار)
-- [الرقابة](../../core_05_band_accountability.md#oversight)، و[المساءلة](../../core_05_apex_accountability_leg.md#accountability)، و[قابلية الطعن](../../core_05_band_accountability.md#contestability)، و[الحوكمة](../../core_05_band_accountability.md#governance)، و[الحوكمة المقاسة على التصنيف](../../core_05_band_oversight.md#classification-scaled-governance)
+- [الرقابة](../../core_05_band_accountability.md#oversight)، و[المساءلة](core_05_apex_accountability_leg.md#accountability)، و[قابلية الطعن](../../core_05_band_accountability.md#contestability)، و[الحوكمة](../../core_05_band_accountability.md#governance)، و[الحوكمة المقاسة على التصنيف](../../core_05_band_oversight.md#classification-scaled-governance)
 - [المادي](../../core_05_band_oversight.md#material)، و[الأثر المادي](../../core_05_band_oversight.md#material-impact)، و[المخاطر المادية](../../core_05_band_oversight.md#material-risk)، و[تحديد الأهمية المادية](../../core_05_band_oversight.md#materiality-determination) (تسمّيها الودجات **الأهمية المادية**)، و[الأهمية المادية المنظومية](../../core_05_band_accountability.md#systemic-materiality) — العنقود: [الأهمية المادية والأثر والمخاطر ونزاهة المؤشرات البديلة](../../core_05_band_oversight.md#materiality-semi-independent)
 
 **عناقيد الفصل الخامس §3 التابعة الكبرى** (مجموعات الاستدعاء المشترك — تُقرأ مع الفصول من الثاني إلى الرابع حين يكون مادي الصلة):
@@ -214,7 +214,7 @@
 - [الإقفال المنظومي](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
 - [القابلية للعكس](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [الاعتماد](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [المساءلة](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [المساءلة](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [الرقابة](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
@@ -227,7 +227,7 @@
 
 **أرضية التصنيف.** لا يجوز حكم أي نظام عند مستوى أدنى مما يطلبه أعلى تصنيف منطبق عليه. لا تستطيع تسمية إدارية أدنى أن تخفض الفحص الذي يطلبه أعلى تصنيف منطبق للمخاطر أو الاعتماد أو الحقوق أو أثر النظام.
 
-**واجب الجواب المقيس بالسلطة.** يحظر التناسب أيضًا نقص حوكمة من يحملون سلطة مرخَّصًا لها أكبر أو دورًا ذا عاقبة أو نفوذًا مؤسسيًا: يجب أن ترتفع شدة [المساءلة](../../core_05_apex_accountability_leg.md#accountability) و[الرقابة](../../core_05_apex_oversight_leg.md#oversight-constitutional) مع تلك السلطة، لا أن تنخفض.
+**واجب الجواب المقيس بالسلطة.** يحظر التناسب أيضًا نقص حوكمة من يحملون سلطة مرخَّصًا لها أكبر أو دورًا ذا عاقبة أو نفوذًا مؤسسيًا: يجب أن ترتفع شدة [المساءلة](core_05_apex_accountability_leg.md#accountability) و[الرقابة](../../core_05_apex_oversight_leg.md#oversight-constitutional) مع تلك السلطة، لا أن تنخفض.
 
 **عتبات مشدَّدة.** حيث تُدخل الأفعال مخاطر ضرر غير قابل للعكس أو إقفال منظومي أو مخاطر وجودية أو فقدان غير قابل للعكس لقدرة التعافي البيئي، يجب أن تطبّق الأنظمة عتبات مشدَّدة للتبرير والفحص والقابلية للعكس حيث يكون ذلك ممكنًا.
 
@@ -609,7 +609,7 @@
 
 - أعلى: [الديباجة — الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)؛ مقياس [الرهان المادي](core_00_preamble.md#material-stake) ينطبق على الفصل كله عبر تتبّعات الأقسام.
 - أسفل: [§8.1 مبدأ عدم التحايل الدستوري](#81-constitutional-no-bypass-principle)، و[§8.2 طبقة التعريف والانضباطات المطلوبة](#82-definitional-layer-and-required-disciplines)، و[§8.3 حل الغموض](#83-ambiguity-resolution)، و[§8.4 حل تعارض المعنى الدستوري](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction))؛ [2. المقصد التأسيسي: العافية](core_01_a_values_principles.md#2-foundational-objective-wellbeing) حتى [15. التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#15-integrated-application)؛ [6. حل تعارض الإجراءات](#6-process-conflict-resolution) لإجراء تصادم القيم؛ أصل عدم التضييق في [الفصل السادس: الحقوق التأسيسية](../../core_06_rights_part_a.md#chapter-six-foundational-rights).
-- يُقرأ مع: [الفصول من الثاني إلى الرابع](core_02_definition_structure.md) و[الفصل الخامس](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — الطبقة التفسيرية والإثباتية لكل مصطلح في هذا الفصل.
+- يُقرأ مع: [الفصول من الثاني إلى الرابع](core_02_definition_structure.md) و[الفصل الخامس](core_05__definitions_home.md#chapter-five-foundational-definitions) — الطبقة التفسيرية والإثباتية لكل مصطلح في هذا الفصل.
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) و[المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) — الخلفية التفسيرية لإطار القيم المتكامل؛ مقياس [الرهان المادي](core_00_preamble.md#material-stake) حيث يكون مادي الصلة.
 - يُقرأ مع: [رصّة السلطة والتسلسل الداخلي](../../core_05_band_integrative.md#authority-stack) (*مركز طبقة المصدر*)؛ [الفصل السادس عشر](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*الحفظ والطبعات وإطار الاعتماد* — ليس موطن ترتيب تعارض ثانيًا)؛ [الفصل الثالث عشر](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) و[الفصل الرابع عشر](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*بوابات عدم التراجع وتراتب المعتمِدين تحت §8.4*).
 - يُقرأ مع: [المادة XXII: التفسير الدستوري والمراجعة وضمانات منع الاستيلاء](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) لضمانات التفسير المؤسسي (ليست بديلًا عن هذا القسم).
@@ -638,7 +638,7 @@
 
 - [قابلية الطعن](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [قابلية التدقيق](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [المساءلة](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [المساءلة](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -800,7 +800,7 @@
 
 قاعدة الاستيفاء المشترك في هذا القسم الفرعي تتعلق بـ**أكثر من ملف كيف-تفعل** ينطبق على الوقائع ذاتها. وليست ذاتها:
 - قاعدة **عنقود تشغيلي واحد** في نص البنية المشتركة المُدمَج، حيث لا يُحتسب أداء جزء فقط من ذلك العنقود امتثالًا — انظر **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*العناقيد التشغيلية*)؛ أو
-- قاعدة الفصل الخامس أن تعريفات **العنقود التابع** يجب استيفاؤها معًا — انظر **[الاستدعاء المشترك والاستيفاء](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
+- قاعدة الفصل الخامس أن تعريفات **العنقود التابع** يجب استيفاؤها معًا — انظر **[الاستدعاء المشترك والاستيفاء](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
 **متى ينطبق هذا القسم الفرعي.** تنطبق هذه القواعد داخل نطاق اعتماد وإدماج صحيح تحت **[الفصل السادس عشر](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** في أي من هاتين الحالتين:
 

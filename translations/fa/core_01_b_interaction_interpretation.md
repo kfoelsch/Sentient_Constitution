@@ -32,7 +32,7 @@
 **تعریف‌های جانشین فصل پنجم** (برآوردن O/M/A/C — ردگیری زیر فصل‌های دوم تا چهارم وقتی از نظر مادی مربوط است):
 
 - [بهزیستی](../../core_05_band_continuity.md#wellbeing) (هدف شکوفایی)
-- [نظارت](../../core_05_band_accountability.md#oversight)، [پاسخگویی](../../core_05_apex_accountability_leg.md#accountability)، [قابلیت اعتراض](../../core_05_band_accountability.md#contestability)، [حکمرانی](../../core_05_band_accountability.md#governance)، [حکمرانی مقیاس‌شده با طبقه‌بندی](../../core_05_band_oversight.md#classification-scaled-governance)
+- [نظارت](../../core_05_band_accountability.md#oversight)، [پاسخگویی](core_05_apex_accountability_leg.md#accountability)، [قابلیت اعتراض](../../core_05_band_accountability.md#contestability)، [حکمرانی](../../core_05_band_accountability.md#governance)، [حکمرانی مقیاس‌شده با طبقه‌بندی](../../core_05_band_oversight.md#classification-scaled-governance)
 - [مادی](../../core_05_band_oversight.md#material)، [اثر مادی](../../core_05_band_oversight.md#material-impact)، [خطر مادی](../../core_05_band_oversight.md#material-risk)، [تعیین اهمیت مادی](../../core_05_band_oversight.md#materiality-determination) (ویجت‌ها این را **اهمیت مادی** برچسب می‌زنند)، [اهمیت مادی سیستمی](../../core_05_band_accountability.md#systemic-materiality) — خوشه: [اهمیت مادی، اثر، خطر، و یکپارچگی شاخص جانشین](../../core_05_band_oversight.md#materiality-semi-independent)
 
 **خوشه‌های وابستهٔ عمدهٔ فصل پنجم §3** (گروه‌های فراخوانی مشترک — بخوانید با فصل‌های دوم تا چهارم وقتی از نظر مادی مربوط است):
@@ -214,7 +214,7 @@
 - [قفل‌شدن سیستمی](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
 - [برگشت‌پذیری](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [وابستگی](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [پاسخگویی](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [پاسخگویی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [نظارت](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
@@ -227,7 +227,7 @@
 
 **کف طبقه‌بندی.** هیچ نظامی را نمی‌توان در سطحی پایین‌تر از آنچه بالاترین طبقه‌بندی اعمال‌شدنی‌اش می‌خواهد حکمرانی کرد. برچسب اداری پایین‌تر نمی‌تواند موشکافی لازم از بالاترین طبقه‌بندی خطر، وابستگی، حقوق، یا اثر نظام اعمال‌شدنی را کاهش دهد.
 
-**جواب‌دهی مقیاس‌شده با اختیار.** تناسب همچنین کم‌حکمرانی کسانی را که قدرت مجاز، نقش پیامددار، یا نفوذ نهادی بیشتر دارند منع می‌کند: شدت [پاسخگویی](../../core_05_apex_accountability_leg.md#accountability) و [نظارت](../../core_05_apex_oversight_leg.md#oversight-constitutional) باید با آن اختیار بالا برود، نه پایین.
+**جواب‌دهی مقیاس‌شده با اختیار.** تناسب همچنین کم‌حکمرانی کسانی را که قدرت مجاز، نقش پیامددار، یا نفوذ نهادی بیشتر دارند منع می‌کند: شدت [پاسخگویی](core_05_apex_accountability_leg.md#accountability) و [نظارت](../../core_05_apex_oversight_leg.md#oversight-constitutional) باید با آن اختیار بالا برود، نه پایین.
 
 **آستانه‌های تشدیدشده.** جایی که اقدام‌ها خطر آسیب برگشت‌ناپذیر، قفل‌شدن سیستمی، خطر وجودی، یا از دست رفتن برگشت‌ناپذیر ظرفیت بازیابی بوم‌شناختی را وارد کنند، نظام‌ها باید آستانه‌های تشدیدشده برای توجیه، موشکافی، و برگشت‌پذیری جایی که عملی باشد اعمال کنند.
 
@@ -609,7 +609,7 @@
 
 - بالادست: [دیباچه — چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad)؛ مقیاس [منافع مادی](core_00_preamble.md#material-stake) در سراسر فصل از راه ردگیری‌های بخش اعمال می‌شود.
 - پایین‌دست: [§8.1 اصل منع دور زدن قانون اساسی](#81-constitutional-no-bypass-principle)، [§8.2 لایهٔ تعریفی و انضباطهای لازم](#82-definitional-layer-and-required-disciplines)، [§8.3 حل ابهام](#83-ambiguity-resolution)، [§8.4 حل تعارض معنای قانون اساسی](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction))؛ [2. هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing) تا [15. اعمال یکپارچه](core_01_c_stewardship_capacity_principles.md#15-integrated-application)؛ [6. حل تعارض فرایند](#6-process-conflict-resolution) برای رویهٔ تصادم ارزش؛ پیش‌فرض عدم‌انقباض [فصل ششم: حقوق بنیادین](../../core_06_rights_part_a.md#chapter-six-foundational-rights).
-- خوانده شود با: [فصل‌های دوم تا چهارم](core_02_definition_structure.md) و [فصل پنجم](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — لایهٔ تفسیری و شاهدی برای هر اصطلاح در این فصل.
+- خوانده شود با: [فصل‌های دوم تا چهارم](core_02_definition_structure.md) و [فصل پنجم](core_05__definitions_home.md#chapter-five-foundational-definitions) — لایهٔ تفسیری و شاهدی برای هر اصطلاح در این فصل.
 - خوانده شود با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) و [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — پس‌زمینهٔ تفسیری چارچوب ارزش یکپارچه؛ مقیاس [منافع مادی](core_00_preamble.md#material-stake) جایی که از نظر مادی مربوط است.
 - خوانده شود با: [پشتهٔ اختیار و سلسله‌مراتب درونی](../../core_05_band_integrative.md#authority-stack) (*وضعیت لایهٔ منبع*)؛ [فصل شانزدهم](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*نگهداری، ویرایش‌ها، قاب پذیرش* — خانهٔ ترتیب تعارض دوم نیست)؛ [فصل سیزدهم](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) و [فصل چهاردهم](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*دروازه‌های عدم‌عقب‌گرد و سلسله‌مراتب پذیرنده زیر §8.4*).
 - خوانده شود با: [اصل XXII: تفسیر قانون اساسی، بازبینی، و ضمانت‌های ضدتسخیر](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) برای ضمانت‌های تفسیر نهادی (جایگزین این بخش نیست).
@@ -638,7 +638,7 @@
 
 - [قابلیت اعتراض](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [قابلیت حسابرسی](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [پاسخگویی](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [پاسخگویی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -800,7 +800,7 @@
 
 قاعدهٔ برآوردن ترکیبی این زیربخش دربارهٔ **بیش از یک پروندهٔ چگونه-انجام-دهیم** اعمال‌شونده بر همان واقعیت‌هاست. همان نیست که:
 - قاعده برای **یک** خوشهٔ عملیاتی در متن ساختار مشترک ادغام‌شده، جایی که انجام فقط بخشی از آن خوشه انطباق شمرده نمی‌شود — ببینید **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*خوشه‌های عملیاتی*)؛ یا
-- قاعدهٔ فصل پنجم که تعریف‌های **خوشهٔ وابسته** باید با هم برآورده شوند — ببینید **[فراخوانی و برآوردن مشترک](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
+- قاعدهٔ فصل پنجم که تعریف‌های **خوشهٔ وابسته** باید با هم برآورده شوند — ببینید **[فراخوانی و برآوردن مشترک](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
 **کی این زیربخش اعمال می‌شود.** این قواعد درون گسترهٔ پذیرش و ادغام معتبر زیر **[فصل شانزدهم](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** در هر یک از این موارد اعمال می‌شوند:
 

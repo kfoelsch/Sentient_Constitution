@@ -10,7 +10,7 @@
 >
 > **이전(이 언어):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **다음(아직 영어):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **다음(이 언어):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **읽기 호:** §1 부담 배분 → §2 추적 지도 → §3 관찰 가능성 → §4 보안 한도 → §5 증거 표준 → §6 인증 층 경계 (비운영)
 
 </details>
@@ -224,6 +224,6 @@
 
 **이전 파일(이 언어):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**다음 파일(아직 영어):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**다음 파일(이 언어):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **구속력 있는 원문:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

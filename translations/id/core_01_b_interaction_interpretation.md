@@ -30,7 +30,7 @@
 **Definisi proksi Bab Lima** (pemenuhan O/M/A/C — telusuri di bawah Bab Dua sampai Empat ketika relevan secara material):
 
 - [Kesejahteraan](../../core_05_band_continuity.md#wellbeing) (tujuan Berkembang)
-- [Pengawasan](../../core_05_band_accountability.md#oversight), [Pertanggungjawaban](../../core_05_apex_accountability_leg.md#accountability), [Dapat Digugat](../../core_05_band_accountability.md#contestability), [Tata Kelola](../../core_05_band_accountability.md#governance), [Tata Kelola Berskala Klasifikasi](../../core_05_band_oversight.md#classification-scaled-governance)
+- [Pengawasan](../../core_05_band_accountability.md#oversight), [Pertanggungjawaban](core_05_apex_accountability_leg.md#accountability), [Dapat Digugat](../../core_05_band_accountability.md#contestability), [Tata Kelola](../../core_05_band_accountability.md#governance), [Tata Kelola Berskala Klasifikasi](../../core_05_band_oversight.md#classification-scaled-governance)
 - [Material](../../core_05_band_oversight.md#material), [Dampak Material](../../core_05_band_oversight.md#material-impact), [Risiko Material](../../core_05_band_oversight.md#material-risk), [Penentuan Materialitas](../../core_05_band_oversight.md#materiality-determination) (widget menandai ini **Materialitas**), [Materialitas Sistemik](../../core_05_band_accountability.md#systemic-materiality) — klaster: [Materialitas, dampak, risiko, dan integritas indikator pengganti](../../core_05_band_oversight.md#materiality-semi-independent)
 
 **Klaster dependen utama Bab Lima §3** (kelompok pemanggilan-bersama — baca bersama Bab Dua sampai Empat ketika relevan secara material):
@@ -212,7 +212,7 @@ Minimalisasi bahaya memilih di antara opsi yang sudah melewati lantai itu — ia
 - [Penguncian Sistemik](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
 - [Kebalikan](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [Ketergantungan](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [Pertanggungjawaban](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [Pertanggungjawaban](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [Pengawasan](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
@@ -225,7 +225,7 @@ Pembatasan atas **nilai** konstitusional — termasuk perlindungan Lantai Hak **
 
 **Lantai klasifikasi.** Tidak ada sistem yang boleh ditata kelola pada tingkat lebih rendah dari yang dituntut klasifikasi tertingginya yang berlaku. Label administratif yang lebih rendah tidak dapat mengurangi pemeriksaan yang dituntut oleh klasifikasi risiko, ketergantungan, hak, atau dampak-sistem tertinggi yang berlaku.
 
-**Kewajiban menjawab berskala wewenang.** Proporsionalitas juga melarang kekurangan tata kelola atas mereka yang memegang kuasa yang diizinkan lebih besar, peran berakibat, atau pengaruh kelembagaan: intensitas [Pertanggungjawaban](../../core_05_apex_accountability_leg.md#accountability) dan [Pengawasan](../../core_05_apex_oversight_leg.md#oversight-constitutional) harus naik bersama wewenang itu, bukan turun.
+**Kewajiban menjawab berskala wewenang.** Proporsionalitas juga melarang kekurangan tata kelola atas mereka yang memegang kuasa yang diizinkan lebih besar, peran berakibat, atau pengaruh kelembagaan: intensitas [Pertanggungjawaban](core_05_apex_accountability_leg.md#accountability) dan [Pengawasan](../../core_05_apex_oversight_leg.md#oversight-constitutional) harus naik bersama wewenang itu, bukan turun.
 
 **Ambang yang ditingkatkan.** Di mana tindakan memperkenalkan risiko bahaya yang tidak dapat dibalik, penguncian sistemik, Risiko Eksistensial, atau kehilangan Kapasitas Pemulihan Ekologis yang tidak dapat dibalik, sistem harus menerapkan ambang yang ditingkatkan untuk justifikasi, pemeriksaan, dan kebalikan di mana layak.
 
@@ -607,7 +607,7 @@ Tidak ada nilai yang didefinisikan dalam bab ini yang boleh dipakai sebagai just
 
 - Hulu: [Pembukaan — Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); penskalaan [taruhan material](core_00_preamble.md#material-stake) berlaku di seluruh bab lewat jejak rujukan setiap bagian.
 - Hilir: [§8.1 Prinsip Tidak-Ada-Pengelakan Konstitusional](#81-constitutional-no-bypass-principle), [§8.2 Lapisan definisional dan disiplin yang dituntut](#82-definitional-layer-and-required-disciplines), [§8.3 Penyelesaian ambiguitas](#83-ambiguity-resolution), [§8.4 Penyelesaian Konflik Makna Konstitusional](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Tujuan Fondasional: Kesejahteraan](core_01_a_values_principles.md#2-foundational-objective-wellbeing) sampai [15. Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#15-integrated-application); [6. Penyelesaian Konflik Proses](#6-process-conflict-resolution) untuk prosedur tabrakan nilai; bawaan tidak-kontraksi [Bab Enam: Hak Dasar](../../core_06_rights_part_a.md#chapter-six-foundational-rights).
-- Baca bersama: [Bab Dua sampai Empat](core_02_definition_structure.md) dan [Bab Lima](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — lapisan tafsir dan evidensial bagi setiap istilah dalam bab ini.
+- Baca bersama: [Bab Dua sampai Empat](core_02_definition_structure.md) dan [Bab Lima](core_05__definitions_home.md#chapter-five-foundational-definitions) — lapisan tafsir dan evidensial bagi setiap istilah dalam bab ini.
 - Baca bersama: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) dan [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — latar tafsir bagi kerangka nilai terpadu; penskalaan [taruhan material](core_00_preamble.md#material-stake) di mana relevan secara material.
 - Baca bersama: [Tumpukan wewenang dan hierarki internal](../../core_05_band_integrative.md#authority-stack) (*status lapisan-sumber*); [Bab Enam Belas](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*kustodi, edisi, bingkai adopsi* — bukan rumah urutan-konflik kedua); [Bab Tiga Belas](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) dan [Bab Empat Belas](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*gerbang non-regresi dan hierarki pihak yang mengadopsi di bawah §8.4*).
 - Baca bersama: [Pasal XXII: Tafsir Konstitusional, Tinjauan, dan Pagar Pengaman Anti-Penguasaan](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) untuk pagar pengaman tafsir kelembagaan (bukan pengganti bagian ini).
@@ -636,7 +636,7 @@ Tidak ada nilai yang didefinisikan dalam bab ini yang boleh dipakai sebagai just
 
 - [Dapat Digugat](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [Dapat Diaudit](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [Pertanggungjawaban](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [Pertanggungjawaban](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -798,7 +798,7 @@ Ketika aturan di bawah mengatakan **paling ketat** atau **lebih ketat**, kata-ka
 
 Aturan pemenuhan-gabungan subbagian ini adalah tentang **lebih dari satu berkas petunjuk** yang berlaku pada fakta yang sama. Ia tidak sama dengan:
 - aturan untuk **satu** klaster operasional dalam teks struktur-bersama terinkorporasi, di mana mengerjakan hanya sebagian klaster itu tidak dihitung sebagai kepatuhan — lihat **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*Klaster operasional*); atau
-- aturan Bab Lima bahwa definisi **Klaster dependen** harus dipenuhi bersama — lihat **[Pemanggilan dan pemenuhan bersama](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
+- aturan Bab Lima bahwa definisi **Klaster dependen** harus dipenuhi bersama — lihat **[Pemanggilan dan pemenuhan bersama](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
 **Kapan subbagian ini berlaku.** Aturan ini berlaku di dalam cakupan adopsi dan inkorporasi yang sah di bawah **[Bab Enam Belas](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** dalam salah satu dari kasus ini:
 

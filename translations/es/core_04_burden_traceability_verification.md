@@ -10,7 +10,7 @@
 >
 > **Anterior (este idioma):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **Siguiente (aún en inglés):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **Siguiente (este idioma):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **Arco de lectura:** §1 asignación de la carga → §2 mapa de rastro → §3 observabilidad → §4 límites de seguridad → §5 estándar de evidencia → §6 frontera de capa de certificación (no operativo)
 
 </details>
@@ -224,6 +224,6 @@ Quienes leen no deben tratar:
 
 **Archivo anterior:** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**Siguiente archivo (aún en inglés):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**Siguiente archivo (este idioma):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **Original vinculante:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

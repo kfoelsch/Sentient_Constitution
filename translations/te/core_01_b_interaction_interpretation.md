@@ -31,7 +31,7 @@
 **అధ్యాయం ఐదు ప్రతినిధి నిర్వచనాలు** (O/M/A/C తీరిక — భౌతికంగా సంబంధితమైనప్పుడు అధ్యాయాలు రెండు నుండి నాలుగు కింద జాడ):
 
 - [శ్రేయస్సు](../../core_05_band_continuity.md#wellbeing) (సమున్నతి లక్ష్యం)
-- [పర్యవేక్షణ](../../core_05_band_accountability.md#oversight), [జవాబుదారీతనం](../../core_05_apex_accountability_leg.md#accountability), [సవాలు-యోగ్యత](../../core_05_band_accountability.md#contestability), [పాలన](../../core_05_band_accountability.md#governance), [వర్గీకరణ-స్కేల్ పాలన](../../core_05_band_oversight.md#classification-scaled-governance)
+- [పర్యవేక్షణ](../../core_05_band_accountability.md#oversight), [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability), [సవాలు-యోగ్యత](../../core_05_band_accountability.md#contestability), [పాలన](../../core_05_band_accountability.md#governance), [వర్గీకరణ-స్కేల్ పాలన](../../core_05_band_oversight.md#classification-scaled-governance)
 - [భౌతికం](../../core_05_band_oversight.md#material), [భౌతిక ప్రభావం](../../core_05_band_oversight.md#material-impact), [భౌతిక ప్రమాదం](../../core_05_band_oversight.md#material-risk), [భౌతికత నిర్ణయం](../../core_05_band_oversight.md#materiality-determination) (విడ్జెట్లు దీన్ని **భౌతికత** అని లేబుల్ చేస్తాయి), [వ్యవస్థాగత భౌతికత](../../core_05_band_accountability.md#systemic-materiality) — క్లస్టర్: [భౌతికత, ప్రభావం, ప్రమాదం, ప్రతినిధి సమగ్రత](../../core_05_band_oversight.md#materiality-semi-independent)
 
 **ప్రధాన అధ్యాయం ఐదు §3 ఆధారిత క్లస్టర్లు** (ఉమ్మడి-పిలుపు సమూహాలు — భౌతికంగా సంబంధితమైనప్పుడు అధ్యాయాలు రెండు నుండి నాలుగుతో చదవండి):
@@ -213,7 +213,7 @@
 - [వ్యవస్థాగత లాక్-ఇన్](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
 - [తిరుగుదల](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [ఆధారపడటం](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [జవాబుదారీతనం](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [పర్యవేక్షణ](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
@@ -226,7 +226,7 @@
 
 **వర్గీకరణ నేల.** ఏ వ్యవస్థా తన అత్యధిక వర్తించే వర్గీకరణ కోరే స్థాయి కంటే తక్కువగా పాలించబడకూడదు. తక్కువ పరిపాలనా లేబుల్ అత్యధిక వర్తించే ప్రమాదం, ఆధారపడటం, హక్కులు, లేదా వ్యవస్థ-ప్రభావ వర్గీకరణ కోరే పర్యవేక్షణను తగ్గించలేదు.
 
-**అధికార-స్కేల్ సమాధానం.** అనుపాతత ఎక్కువ అధికారం, పరిణామ పాత్ర, లేదా సంస్థాగత ప్రభావం ఉన్నవారి తక్కువ-పాలనను కూడా నిషేధిస్తుంది: [జవాబుదారీతనం](../../core_05_apex_accountability_leg.md#accountability), [పర్యవేక్షణ](../../core_05_apex_oversight_leg.md#oversight-constitutional) తీవ్రత ఆ అధికారంతో పెరగాలి, పడకూడదు.
+**అధికార-స్కేల్ సమాధానం.** అనుపాతత ఎక్కువ అధికారం, పరిణామ పాత్ర, లేదా సంస్థాగత ప్రభావం ఉన్నవారి తక్కువ-పాలనను కూడా నిషేధిస్తుంది: [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability), [పర్యవేక్షణ](../../core_05_apex_oversight_leg.md#oversight-constitutional) తీవ్రత ఆ అధికారంతో పెరగాలి, పడకూడదు.
 
 **పెంచిన గడపలు.** చర్యలు తిరుగులేని హాని, వ్యవస్థాగత లాక్-ఇన్, ఉనికి ప్రమాదం, లేదా పర్యావరణ పునరుద్ధరణ సామర్థ్యం తిరుగులేని నష్టం ప్రమాదం తెచ్చిన చోట, వ్యవస్థలు సాధ్యమైన చోట సమర్థన, పర్యవేక్షణ, తిరుగుదలకు పెంచిన గడపలు వర్తింపజేయాలి.
 
@@ -608,7 +608,7 @@
 
 - మూలం: [ప్రస్తావన — రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad); [భౌతిక పందెం](core_00_preamble.md#material-stake) స్కేలింగ్ విభాగం జాడల ద్వారా అధ్యాయం-వ్యాప్తం.
 - గమ్యం: [§8.1 రాజ్యాంగ తప్పించుకోవడం-లేదు సూత్రం](#81-constitutional-no-bypass-principle), [§8.2 నిర్వచన పొర మరియు అవసరమైన క్రమశిక్షణలు](#82-definitional-layer-and-required-disciplines), [§8.3 అస్పష్టత పరిష్కారం](#83-ambiguity-resolution), [§8.4 రాజ్యాంగ అర్థ సంఘర్షణ పరిష్కారం](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing) నుండి [15. సమగ్ర వర్తింపు](core_01_c_stewardship_capacity_principles.md#15-integrated-application); విలువ-ఢీకొనడం ప్రక్రియకు [6. ప్రక్రియ సంఘర్షణ పరిష్కారం](#6-process-conflict-resolution); [అధ్యాయం ఆరు: పునాది హక్కులు](../../core_06_rights_part_a.md#chapter-six-foundational-rights) సంకోచం-కాదు డిఫాల్ట్.
-- దీనితో చదవండి: [అధ్యాయాలు రెండు నుండి నాలుగు](core_02_definition_structure.md), [అధ్యాయం ఐదు](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — ఈ అధ్యాయంలో ప్రతి పదానికి వ్యాఖ్యాన, సాక్ష్య పొర.
+- దీనితో చదవండి: [అధ్యాయాలు రెండు నుండి నాలుగు](core_02_definition_structure.md), [అధ్యాయం ఐదు](core_05__definitions_home.md#chapter-five-foundational-definitions) — ఈ అధ్యాయంలో ప్రతి పదానికి వ్యాఖ్యాన, సాక్ష్య పొర.
 - దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad), [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — సమగ్ర-విలువ ఫ్రేమ్‌వర్క్‌కు వ్యాఖ్యాన నేపథ్యం; భౌతికంగా సంబంధితమైన చోట [భౌతిక పందెం](core_00_preamble.md#material-stake) స్కేలింగ్.
 - దీనితో చదవండి: [అధికార స్టాక్ మరియు అంతర్గత క్రమాంకనం](../../core_05_band_integrative.md#authority-stack) (*మూల-పొర స్థితి*); [అధ్యాయం పదహారు](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*సంచిక-అభిరక్ష, సంచికలు, అంగీకార ఫ్రేమింగ్* — రెండో సంఘర్షణ-క్రమం ఇల్లు కాదు); [అధ్యాయం పదమూడు](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity), [అధ్యాయం పద్నాలుగు](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (§8.4 కింద తిరోగమనం-నిరోధం, అంగీకరించేవారి క్రమాంకన గేట్‌లు).
 - దీనితో చదవండి: సంస్థాగత వ్యాఖ్యాన రక్షణలకు [అనుచ్ఛేదం XXII: రాజ్యాంగ వ్యాఖ్యానం, సమీక్ష, స్వాధీన-నిరోధ రక్షణలు](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (ఈ విభాగానికి ప్రత్యామ్నాయం కాదు).
@@ -637,7 +637,7 @@
 
 - [సవాలు-యోగ్యత](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [ఆడిట్-యోగ్యత](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [జవాబుదారీతనం](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -799,7 +799,7 @@
 
 ఈ ఉపవిభాగం సంయుక్త-తీరిక నియమం అదే వాస్తవాలకు **ఒకటి కంటే ఎక్కువ ఎలా-చేయాలి ఫైల్** వర్తించడం గురించి. ఇది ఇవి కాదు:
 - స్వీకరించిన ఉమ్మడి-నిర్మాణ పాఠంలో **ఒకే** సంచాలక క్లస్టర్ నియమం, ఆ క్లస్టర్‌లో కొంత మాత్రమే చేయడం అనుసరణగా లెక్క కాదు — చూడండి **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*సంచాలక క్లస్టర్లు*); లేదా
-- **ఆధారిత క్లస్టర్** నిర్వచనాలు కలిసి తీరాలని అధ్యాయం ఐదు నియమం — చూడండి **[ఉమ్మడి పిలుపు మరియు తీరిక](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
+- **ఆధారిత క్లస్టర్** నిర్వచనాలు కలిసి తీరాలని అధ్యాయం ఐదు నియమం — చూడండి **[ఉమ్మడి పిలుపు మరియు తీరిక](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
 **ఈ ఉపవిభాగం ఎప్పుడు వర్తిస్తుంది.** ఈ నియమాలు **[అధ్యాయం పదహారు](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** కింద చెల్లుబాటు అయ్యే అంగీకార, స్వీకరణ పరిధి లోపల ఈ సందర్భాలలో ఏదైనా వర్తిస్తాయి:
 

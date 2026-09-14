@@ -31,7 +31,7 @@
 **제5장 대리지표 정의** (O/M/A/C 충족 — 실질로 관련될 때 제2장부터 제4장 아래에서 추적하라):
 
 - [복지](../../core_05_band_continuity.md#wellbeing) (번영 목적)
-- [감독](../../core_05_band_accountability.md#oversight), [책무](../../core_05_apex_accountability_leg.md#accountability), [다툴 수 있음](../../core_05_band_accountability.md#contestability), [거버넌스](../../core_05_band_accountability.md#governance), [분류에 맞춰 세기 조절된 거버넌스](../../core_05_band_oversight.md#classification-scaled-governance)
+- [감독](../../core_05_band_accountability.md#oversight), [책무](core_05_apex_accountability_leg.md#accountability), [다툴 수 있음](../../core_05_band_accountability.md#contestability), [거버넌스](../../core_05_band_accountability.md#governance), [분류에 맞춰 세기 조절된 거버넌스](../../core_05_band_oversight.md#classification-scaled-governance)
 - [실질](../../core_05_band_oversight.md#material), [실질 영향](../../core_05_band_oversight.md#material-impact), [실질 위험](../../core_05_band_oversight.md#material-risk), [실질성 인정](../../core_05_band_oversight.md#materiality-determination) (상자는 이것을 **실질성**이라 부른다), [체계 실질성](../../core_05_band_accountability.md#systemic-materiality) — 무리: [실질성, 영향, 위험, 대리지표 완전성](../../core_05_band_oversight.md#materiality-semi-independent)
 
 **제5장 §3의 주요 의존 무리** (공동 호출 무리 — 실질로 관련될 때 제2장부터 제4장과 함께 읽으라):
@@ -213,7 +213,7 @@
 - [체계 잠금](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
 - [가역성](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [의존](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [책무](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [책무](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
@@ -226,7 +226,7 @@
 
 **분류 바닥.** 어떤 체계도 적용되는 최고 분류가 요구하는 수준보다 낮게 거버넌스되면 안 된다. 더 낮은 행정 꼬리표가 적용되는 최고 위험, 의존, 권리, 체계 영향 분류가 요구하는 검토를 줄일 수 없다.
 
-**권한에 맞춰 세기 조절된 답할 의무.** 비례는 또한 더 큰 수권 권력, 결과가 있는 역할, 제도 영향력을 쥔 이의 과소 거버넌스를 금한다: [책무](../../core_05_apex_accountability_leg.md#accountability)와 [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional)의 세기는 그 권한과 함께 올라가야 하며, 내려가면 안 된다.
+**권한에 맞춰 세기 조절된 답할 의무.** 비례는 또한 더 큰 수권 권력, 결과가 있는 역할, 제도 영향력을 쥔 이의 과소 거버넌스를 금한다: [책무](core_05_apex_accountability_leg.md#accountability)와 [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional)의 세기는 그 권한과 함께 올라가야 하며, 내려가면 안 된다.
 
 **높아진 문턱.** 행위가 되돌릴 수 없는 해, 체계 잠금, 존재 위험, 생태 회복 능력의 되돌릴 수 없는 상실 위험을 도입하는 곳에서, 체계는 정당화, 검토, 실행 가능한 곳에서 가역성에 대해 높아진 문턱을 적용해야 한다.
 
@@ -608,7 +608,7 @@
 
 - 상류: [전문 — 헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad); [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절은 절 추적을 통해 장 전체에 적용된다.
 - 하류: [§8.1 헌법 우회 금지 원칙](#81-constitutional-no-bypass-principle), [§8.2 정의 층과 요구되는 규율](#82-definitional-layer-and-required-disciplines), [§8.3 모호성 해결](#83-ambiguity-resolution), [§8.4 헌법 의미 충돌 해결](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing)부터 [15. 통합 적용](core_01_c_stewardship_capacity_principles.md#15-integrated-application); 가치 충돌 절차를 위한 [6. 과정 충돌 해결](#6-process-conflict-resolution); [제6장: 기초 권리](../../core_06_rights_part_a.md#chapter-six-foundational-rights) 비축소 기본값.
-- 함께 읽기: [제2장부터 제4장](core_02_definition_structure.md)과 [제5장](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — 이 장의 모든 용어의 해석·증거 층.
+- 함께 읽기: [제2장부터 제4장](core_02_definition_structure.md)과 [제5장](core_05__definitions_home.md#chapter-five-foundational-definitions) — 이 장의 모든 용어의 해석·증거 층.
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)과 [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — 통합 가치 틀의 해석 배경; 실질로 관련된 곳에서 [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절.
 - 함께 읽기: [권위 스택과 내부 위계](../../core_05_band_integrative.md#authority-stack) (*원천 층 지위*); [제16장](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*보관, 판, 채택 틀* — 두 번째 충돌 순서 거처가 아님); [제13장](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)과 [제14장](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*§8.4 아래 비후퇴와 채택 주체 위계 문*).
 - 함께 읽기: 제도 해석 안전장치를 위한 [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (이 절의 대체가 아님).
@@ -637,7 +637,7 @@
 
 - [다툴 수 있음](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [감사 가능성](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [책무](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [책무](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -799,7 +799,7 @@
 
 이 하위절의 결합 충족 규칙은 **둘 이상의 어떻게-하기 파일**이 같은 사실에 적용되는 것에 관한 것이다. 다음과는 같지 않다:
 - 끌어들인 공동 구조 텍스트의 **단일** 운영 무리 규칙 — 그 무리의 일부만 하는 것은 준수로 세지 않는다 — **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*운영 무리*)를 보라; 또는
-- **의존 무리** 정의는 함께 충족되어야 한다는 제5장 규칙 — **[공동 호출과 충족](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**을 보라.
+- **의존 무리** 정의는 함께 충족되어야 한다는 제5장 규칙 — **[공동 호출과 충족](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**을 보라.
 
 **이 하위절이 적용되는 때.** 이 규칙은 **[제16장](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** 아래 유효한 채택과 끌어들임 범위 안에서, 다음 중 어느 경우에든 적용된다:
 

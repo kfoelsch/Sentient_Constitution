@@ -10,7 +10,7 @@
 >
 > **मागील (या भाषेत):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **पुढील (अजून इंग्रजीत):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **पुढील (या भाषेत):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **वाचन चाप:** §1 भार वाटप → §2 माग नकाशा → §3 प्रेक्षणीयता → §4 सुरक्षा मर्यादा → §5 पुरावा मानक → §6 प्रमाणन स्तर सीमा (असंक्रियात्मक)
 
 </details>
@@ -224,6 +224,6 @@
 
 **मागील फाइल (या भाषेत):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**पुढील फाइल (अजून इंग्रजीत):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**पुढील फाइल (या भाषेत):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **बंधनकारक मूळ:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

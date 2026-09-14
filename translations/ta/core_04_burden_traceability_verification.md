@@ -10,7 +10,7 @@
 >
 > **முந்தையது (இந்த மொழியில்):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **அடுத்தது (இன்னும் ஆங்கிலத்தில்):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **அடுத்தது (இந்த மொழியில்):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **வாசிப்பு வளைவு:** §1 சுமை ஒதுக்கீடு → §2 தடமறிதல் வரைபடம் → §3 கவனிக்கக்கூடிய தன்மை → §4 பாதுகாப்பு வரம்புகள் → §5 சான்று நியமம் → §6 சான்றளிப்பு அடுக்கு எல்லை (செயல்படாதது)
 
 </details>
@@ -224,6 +224,6 @@
 
 **முந்தைய கோப்பு:** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**அடுத்த கோப்பு (இன்னும் ஆங்கிலத்தில்):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**அடுத்த கோப்பு (இந்த மொழியில்):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **பிணைக்கும் மூலம்:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

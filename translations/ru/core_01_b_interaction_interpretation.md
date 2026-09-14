@@ -31,7 +31,7 @@
 **Заместительные определения Главы пятой** (удовлетворение O/M/A/C — трассируйте под Главами со второй по четвёртую, когда материально релевантно):
 
 - [Благополучие](../../core_05_band_continuity.md#wellbeing) (цель Расцвета)
-- [Надзор](../../core_05_band_accountability.md#oversight), [Подотчётность](../../core_05_apex_accountability_leg.md#accountability), [Оспоримость](../../core_05_band_accountability.md#contestability), [Управление](../../core_05_band_accountability.md#governance), [Управление, масштабированное к классификации](../../core_05_band_oversight.md#classification-scaled-governance)
+- [Надзор](../../core_05_band_accountability.md#oversight), [Подотчётность](core_05_apex_accountability_leg.md#accountability), [Оспоримость](../../core_05_band_accountability.md#contestability), [Управление](../../core_05_band_accountability.md#governance), [Управление, масштабированное к классификации](../../core_05_band_oversight.md#classification-scaled-governance)
 - [Материальное](../../core_05_band_oversight.md#material), [Материальное воздействие](../../core_05_band_oversight.md#material-impact), [Материальный риск](../../core_05_band_oversight.md#material-risk), [Определение материальности](../../core_05_band_oversight.md#materiality-determination) (виджеты помечают это **Материальность**), [Системная материальность](../../core_05_band_accountability.md#systemic-materiality) — кластер: [Материальность, воздействие, риск и целостность заместительных показателей](../../core_05_band_oversight.md#materiality-semi-independent)
 
 **Основные зависимые кластеры §3 Главы пятой** (группы совместного вызова — читать вместе с Главами со второй по четвёртую, когда материально релевантно):
@@ -213,7 +213,7 @@
 - [Системное запирание](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
 - [Обратимость](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [Зависимость](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [Подотчётность](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [Подотчётность](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [Надзор](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
@@ -226,7 +226,7 @@
 
 **Пол классификации.** Никакая система не может управляться на уровне ниже требуемого её наивысшей применимой классификацией. Более низкий административный ярлык не может снизить проверку, требуемую наивысшей применимой классификацией риска, зависимости, прав или воздействия системы.
 
-**Отвечаемость, масштабированная к власти.** Соразмерность также запрещает недоуправление теми, кто держит большую уполномоченную власть, роль с последствиями или институциональное влияние: интенсивность [Подотчётности](../../core_05_apex_accountability_leg.md#accountability) и [Надзора](../../core_05_apex_oversight_leg.md#oversight-constitutional) должна расти с этой властью, а не падать.
+**Отвечаемость, масштабированная к власти.** Соразмерность также запрещает недоуправление теми, кто держит большую уполномоченную власть, роль с последствиями или институциональное влияние: интенсивность [Подотчётности](core_05_apex_accountability_leg.md#accountability) и [Надзора](../../core_05_apex_oversight_leg.md#oversight-constitutional) должна расти с этой властью, а не падать.
 
 **Повышенные пороги.** Там, где действия вводят риск необратимого вреда, системного запирания, экзистенциального риска или необратимой потери Способности экологического восстановления, системы должны применять повышенные пороги для оправдания, проверки и обратимости, где это практически возможно.
 
@@ -608,7 +608,7 @@
 
 - Исход: [Преамбула — Конституционная тетрада](core_00_preamble.md#constitutional-tetrad); масштабирование по [материальной ставке](core_00_preamble.md#material-stake) применяется по всей главе через трассировки разделов.
 - Назначение: [§8.1 Конституционный принцип необхода](#81-constitutional-no-bypass-principle), [§8.2 Слой определений и требуемые дисциплины](#82-definitional-layer-and-required-disciplines), [§8.3 Разрешение неоднозначности](#83-ambiguity-resolution), [§8.4 Разрешение конфликта конституционного значения](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing) через [15. Интегрированное применение](core_01_c_stewardship_capacity_principles.md#15-integrated-application); [6. Разрешение процессуальных конфликтов](#6-process-conflict-resolution) для процедуры столкновения ценностей; несокращающее значение по умолчанию [Главы шестой: Основополагающие права](../../core_06_rights_part_a.md#chapter-six-foundational-rights).
-- Читать вместе с: [Главами со второй по четвёртую](core_02_definition_structure.md) и [Главой пятой](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — толковательный и доказательственный слой для каждого термина в этой главе.
+- Читать вместе с: [Главами со второй по четвёртую](core_02_definition_structure.md) и [Главой пятой](core_05__definitions_home.md#chapter-five-foundational-definitions) — толковательный и доказательственный слой для каждого термина в этой главе.
 - Читать вместе с: [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad) и [Две конституционные цели](core_00_preamble.md#two-constitutional-aims) — толковательный фон интегрированной рамки ценностей; масштабирование по [материальной ставке](core_00_preamble.md#material-stake) там, где материально релевантно.
 - Читать вместе с: [Стек власти и внутренняя иерархия](../../core_05_band_integrative.md#authority-stack) (*статус слоя источника*); [Глава шестнадцатая](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*хранение, издания, обрамление принятия* — не второй дом порядка конфликтов); [Глава тринадцатая](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) и [Глава четырнадцатая](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*ворота нерегресса и иерархии принявших под §8.4*).
 - Читать вместе с: [Статья XXII: Конституционное толкование, пересмотр и гарантии против захвата](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) для институциональных гарантий толкования (не замена этому разделу).
@@ -637,7 +637,7 @@
 
 - [Оспоримость](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [Аудитируемость](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [Подотчётность](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [Подотчётность](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -799,7 +799,7 @@
 
 Правило совместного удовлетворения этого подраздела касается **более чем одного файла «как делать»**, применяющегося к тем же фактам. Это не то же, что:
 - правило для **одного** операционного кластера в инкорпорированном тексте совместной структуры, где выполнение только части этого кластера не считается соответствием — см. **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*Операционные кластеры*); или
-- правило Главы пятой, что определения **зависимого кластера** должны быть выполнены вместе — см. **[Совместный вызов и удовлетворение](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
+- правило Главы пятой, что определения **зависимого кластера** должны быть выполнены вместе — см. **[Совместный вызов и удовлетворение](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
 **Когда этот подраздел применяется.** Эти правила применяются внутри действительного охвата принятия и инкорпорации под **[Главой шестнадцатой](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** в любом из этих случаев:
 

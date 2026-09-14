@@ -10,7 +10,7 @@
 >
 > **Önceki (bu dil):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **Sonraki (hâlâ İngilizce):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **Sonraki (bu dilde):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **Okuma yayı:** §1 yük tahsisi → §2 iz haritası → §3 gözlemlenebilirlik → §4 güvenlik sınırları → §5 kanıt standardı → §6 belgelendirme katmanı sınırı (işlemsel değil)
 
 </details>
@@ -224,6 +224,6 @@ Okurlar şunları saymamalıdır:
 
 **Önceki dosya (bu dil):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**Sonraki dosya (hâlâ İngilizce):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**Sonraki dosya (bu dilde):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **Bağlayıcı asıl:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

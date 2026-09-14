@@ -30,6 +30,8 @@
 | [core_02_definition_structure.md](core_02_definition_structure.md) | [core_02_definition_structure.md](../../core_02_definition_structure.md) |
 | [core_03_definition_integrity.md](core_03_definition_integrity.md) | [core_03_definition_integrity.md](../../core_03_definition_integrity.md) |
 | [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md) | [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md) |
+| [core_05__definitions_home.md](core_05__definitions_home.md) | [core_05__definitions_home.md](../../core_05__definitions_home.md) |
+| [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md) | [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md) |
 
 پائلٹ کے روابط ابھی غیر ترجمہ شدہ انگریزی فائلوں کی طرف ہیں۔ HTML لنگر (`id`) اصل سے نقل ہیں تاکہ ٹکڑے بہ ٹکڑا موازنہ ہو سکے۔
 

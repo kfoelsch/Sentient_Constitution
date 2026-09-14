@@ -30,7 +30,7 @@
 **باب پنجم متبادل اشارے کی تعریفیں** (O/M/A/C تکمیل — جہاں مادی طور پر متعلقہ ہو باب دوم تا چہارم کے تحت سراغ):
 
 - [بہبود](../../core_05_band_continuity.md#wellbeing) (شگفتگی مقصد)
-- [نگرانی](../../core_05_band_accountability.md#oversight)، [جوابدہی](../../core_05_apex_accountability_leg.md#accountability)، [چیلنج پذیری](../../core_05_band_accountability.md#contestability)، [حکمرانی](../../core_05_band_accountability.md#governance)، [درجہ بندی کے مطابق پیمانہ شدہ حکمرانی](../../core_05_band_oversight.md#classification-scaled-governance)
+- [نگرانی](../../core_05_band_accountability.md#oversight)، [جوابدہی](core_05_apex_accountability_leg.md#accountability)، [چیلنج پذیری](../../core_05_band_accountability.md#contestability)، [حکمرانی](../../core_05_band_accountability.md#governance)، [درجہ بندی کے مطابق پیمانہ شدہ حکمرانی](../../core_05_band_oversight.md#classification-scaled-governance)
 - [مادی](../../core_05_band_oversight.md#material)، [مادی اثر](../../core_05_band_oversight.md#material-impact)، [مادی خطرہ](../../core_05_band_oversight.md#material-risk)، [مادیت کا تعین](../../core_05_band_oversight.md#materiality-determination) (ویجٹ اسے **مادیت** لکھتے ہیں)، [نظامی مادیت](../../core_05_band_accountability.md#systemic-materiality) — جھرمٹ: [مادیت، اثر، خطرہ، اور متبادل اشارے کی دیانت](../../core_05_band_oversight.md#materiality-semi-independent)
 
 **باب پنجم §3 کے بڑے تابع جھرمٹ** (مشترکہ استدعا کے گروہ — جہاں مادی طور پر متعلقہ ہو باب دوم تا چہارم کے ساتھ پڑھیں):
@@ -212,7 +212,7 @@
 - [نظامی تالا بندی](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
 - [الٹ پھیر](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [انحصار](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [جوابدہی](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [جوابدہی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [نگرانی](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
@@ -225,7 +225,7 @@
 
 **درجہ بندی کی تہہ۔** کوئی نظام اپنی اعلیٰ ترین قابلِ اطلاق درجہ بندی سے کم سطح پر حکمرانی نہیں ہو سکتا۔ نچلا انتظامی لیبل اعلیٰ ترین قابلِ اطلاق خطرہ، انحصار، حقوق، یا نظامی اثر کی درجہ بندی کی مطلوبہ جانچ کم نہیں کر سکتا۔
 
-**اختیار کے مطابق جواب دہی۔** تناسب ان لوگوں کی کم حکمرانی بھی منع کرتا ہے جن کے پاس زیادہ مجاز طاقت، نتیجہ خیز کردار، یا ادارہ جاتی اثر ہو: [جوابدہی](../../core_05_apex_accountability_leg.md#accountability) اور [نگرانی](../../core_05_apex_oversight_leg.md#oversight-constitutional) کی شدت اس اختیار کے ساتھ بڑھنی چاہیے، گرنی نہیں۔
+**اختیار کے مطابق جواب دہی۔** تناسب ان لوگوں کی کم حکمرانی بھی منع کرتا ہے جن کے پاس زیادہ مجاز طاقت، نتیجہ خیز کردار، یا ادارہ جاتی اثر ہو: [جوابدہی](core_05_apex_accountability_leg.md#accountability) اور [نگرانی](../../core_05_apex_oversight_leg.md#oversight-constitutional) کی شدت اس اختیار کے ساتھ بڑھنی چاہیے، گرنی نہیں۔
 
 **بلند تر حدیں۔** جہاں اعمال ناقابلِ واپسی نقصان، نظامی تالا بندی، وجودی خطرہ، یا ماحولیاتی بحالی کی صلاحیت کے ناقابلِ واپسی نقصان کا خطرہ لائیں، نظاموں کو جواز، جانچ، اور جہاں ممکن ہو الٹ پھیر کے لیے بلند تر حدیں لاگو کرنی چاہییں۔
 
@@ -607,7 +607,7 @@
 
 - بالائی: [تمہید — آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad)؛ [مادی داؤ](core_00_preamble.md#material-stake) کا پیمانہ قطعے کے سراغوں کے ذریعے پورے باب پر لاگو ہوتا ہے۔
 - زیریں: [§8.1 آئینی بائی پاس ممنوع اصول](#81-constitutional-no-bypass-principle)، [§8.2 تعریفی تہہ اور مطلوبہ ضبط](#82-definitional-layer-and-required-disciplines)، [§8.3 ابہام کا حل](#83-ambiguity-resolution)، [§8.4 آئینی معنی تنازعے کا حل](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction))؛ [2. بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing) سے [15. مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#15-integrated-application) تک؛ اقدار کے تصادم کے طریقے کے لیے [6. عمل تنازعے کا حل](#6-process-conflict-resolution)؛ [باب ششم: بنیادی حقوق](../../core_06_rights_part_a.md#chapter-six-foundational-rights) عدمِ تنگی طے شدہ حال۔
-- ساتھ پڑھیں: [باب دوم تا چہارم](core_02_definition_structure.md) اور [باب پنجم](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — اس باب کی ہر اصطلاح کی تفسیری اور ثبوت کی تہہ۔
+- ساتھ پڑھیں: [باب دوم تا چہارم](core_02_definition_structure.md) اور [باب پنجم](core_05__definitions_home.md#chapter-five-foundational-definitions) — اس باب کی ہر اصطلاح کی تفسیری اور ثبوت کی تہہ۔
 - ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) اور [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — مربوط اقدار کے ڈھانچے کا تفسیری پس منظر؛ جہاں مادی طور پر متعلقہ ہو [مادی داؤ](core_00_preamble.md#material-stake) کا پیمانہ۔
 - ساتھ پڑھیں: [اختیار کا ڈھیر اور داخلی مراتب](../../core_05_band_integrative.md#authority-stack) (*ماخذ تہہ کی حیثیت*)؛ [باب شانزدہم](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*حراست، ایڈیشن، اختیار کا فریم* — دوسرا تنازعہ ترتیب گھر نہیں)؛ [باب سیزدہم](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) اور [باب چہاردہم](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*§8.4 کے تحت عدمِ رجعت اور اختیار کرنے والے کے مراتب کی رکاوٹیں*)۔
 - ساتھ پڑھیں: ادارہ جاتی تفسیر کی ضمانتوں کے لیے [دفعہ XXII: آئینی تفسیر، جائزہ اور قبضہ مخالف ضمانتیں](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (اس قطعے کا بدل نہیں)۔
@@ -636,7 +636,7 @@
 
 - [چیلنج پذیری](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [آڈٹ پذیری](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [جوابدہی](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [جوابدہی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -798,7 +798,7 @@
 
 اس ذیلی قطعے کا مشترکہ تکمیل قاعدہ **ایک سے زیادہ کیسے کریں فائل** کے انہی حقائق پر لاگو ہونے کے بارے میں ہے۔ یہ وہی نہیں جو:
 - شامل مشترکہ ساخت متن میں **ایک** عملی جھرمٹ کا قاعدہ، جہاں اس جھرمٹ کا صرف حصہ پورا کرنا اطاعت نہیں گنا جاتا — دیکھیں **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*عملی جھرمٹ*)؛ یا
-- باب پنجم کا قاعدہ کہ **تابع جھرمٹ** تعریفیں ساتھ پوری ہونی چاہییں — دیکھیں **[مشترکہ استدعا اور تکمیل](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**۔
+- باب پنجم کا قاعدہ کہ **تابع جھرمٹ** تعریفیں ساتھ پوری ہونی چاہییں — دیکھیں **[مشترکہ استدعا اور تکمیل](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**۔
 
 **یہ ذیلی قطعہ کب لاگو ہوتا ہے۔** یہ قواعد **[باب شانزدہم](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** کے تحت جائز اختیار اور شمولیت کے دائرے کے اندر ان دو صورتوں میں سے کسی میں لاگو ہوتے ہیں:
 

@@ -31,7 +31,7 @@
 **அத்தியாயம் ஐந்து பதிலீட்டு வரையறைகள்** (O/M/A/C நிறைவு — பொருள்ரீதியாகப் பொருத்தமானபோது அத்தியாயங்கள் இரண்டு முதல் நான்கு கீழ் தடமறியுங்கள்):
 
 - [நல்வாழ்வு](../../core_05_band_continuity.md#wellbeing) (செழிப்பு நோக்கம்)
-- [மேற்பார்வை](../../core_05_band_accountability.md#oversight), [பொறுப்புக்கூறல்](../../core_05_apex_accountability_leg.md#accountability), [சவால் செய்யக்கூடிய தன்மை](../../core_05_band_accountability.md#contestability), [ஆட்சி](../../core_05_band_accountability.md#governance), [வகைப்பாடு-அளவிடப்பட்ட ஆட்சி](../../core_05_band_oversight.md#classification-scaled-governance)
+- [மேற்பார்வை](../../core_05_band_accountability.md#oversight), [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability), [சவால் செய்யக்கூடிய தன்மை](../../core_05_band_accountability.md#contestability), [ஆட்சி](../../core_05_band_accountability.md#governance), [வகைப்பாடு-அளவிடப்பட்ட ஆட்சி](../../core_05_band_oversight.md#classification-scaled-governance)
 - [பொருள்](../../core_05_band_oversight.md#material), [பொருள் தாக்கம்](../../core_05_band_oversight.md#material-impact), [பொருள் இடர்](../../core_05_band_oversight.md#material-risk), [பொருண்மைத் தீர்மானம்](../../core_05_band_oversight.md#materiality-determination) (பெட்டிகள் இதை **பொருண்மை** எனச் சிட்டை இடுகின்றன), [அமைப்புப் பொருண்மை](../../core_05_band_accountability.md#systemic-materiality) — தொகுதி: [பொருண்மை, தாக்கம், இடர், பதிலீட்டு முழுமை](../../core_05_band_oversight.md#materiality-semi-independent)
 
 **முக்கிய அத்தியாயம் ஐந்து §3 சார்ந்த தொகுதிகள்** (கூட்டு-அழைப்புக் குழுக்கள் — பொருள்ரீதியாகப் பொருத்தமானபோது அத்தியாயங்கள் இரண்டு முதல் நான்கு உடன் படியுங்கள்):
@@ -213,7 +213,7 @@
 - [அமைப்புப் பூட்டு](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
 - [மீளக்கூடிய தன்மை](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [சார்பு](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [பொறுப்புக்கூறல்](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [மேற்பார்வை](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
@@ -226,7 +226,7 @@
 
 **வகைப்பாட்டுத் தளம்.** எந்த அமைப்பும் அதன் மிக உயர்ந்த பொருந்தும் வகைப்பாடு கேட்கும் நிலைக்குக் கீழே ஆளப்படக்கூடாது. குறைந்த நிர்வாகச் சிட்டை மிக உயர்ந்த பொருந்தும் இடர், சார்பு, உரிமை, அல்லது அமைப்பு-தாக்க வகைப்பாடு கேட்கும் ஆய்வைக் குறைக்க முடியாது.
 
-**அதிகார-அளவிடப்பட்ட பதிலளிப்பு.** விகிதாசாரம் பெரிய அங்கீகரிக்கப்பட்ட அதிகாரம், விளைவுமிக்க பங்கு, அல்லது நிறுவனத் தாக்கம் கொண்டோரின் குறை-ஆட்சியையும் தடைசெய்கிறது: [பொறுப்புக்கூறல்](../../core_05_apex_accountability_leg.md#accountability) மற்றும் [மேற்பார்வை](../../core_05_apex_oversight_leg.md#oversight-constitutional) தீவிரம் அந்த அதிகாரத்துடன் உயர வேண்டும், குறையக்கூடாது.
+**அதிகார-அளவிடப்பட்ட பதிலளிப்பு.** விகிதாசாரம் பெரிய அங்கீகரிக்கப்பட்ட அதிகாரம், விளைவுமிக்க பங்கு, அல்லது நிறுவனத் தாக்கம் கொண்டோரின் குறை-ஆட்சியையும் தடைசெய்கிறது: [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) மற்றும் [மேற்பார்வை](../../core_05_apex_oversight_leg.md#oversight-constitutional) தீவிரம் அந்த அதிகாரத்துடன் உயர வேண்டும், குறையக்கூடாது.
 
 **உயர்த்தப்பட்ட வாயில்கள்.** செயல்கள் மீளமுடியாத தீங்கு, அமைப்புப் பூட்டு, இருப்பு இடர், அல்லது சூழலியல் மீட்புத் திறனின் மீளமுடியாத இழப்பு இடரை அறிமுகப்படுத்தும் இடத்தில், அமைப்புகள் நியாயம், ஆய்வு, சாத்தியமான இடத்தில் மீளக்கூடிய தன்மைக்கு உயர்த்தப்பட்ட வாயில்களைப் பயன்படுத்த வேண்டும்.
 
@@ -608,7 +608,7 @@
 
 - மேல்வழி: [முகவுரை — அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad); [பொருள் பங்கு](core_00_preamble.md#material-stake) அளவீடு பிரிவுத் தடங்கள் வழியாக அத்தியாயம் முழுவதும் பொருந்தும்.
 - கீழ்வழி: [§8.1 அரசியலமைப்பு தவிர்ப்பு-இன்மைக் கோட்பாடு](#81-constitutional-no-bypass-principle), [§8.2 வரையறை அடுக்கும் தேவையான கட்டுப்பாடுகளும்](#82-definitional-layer-and-required-disciplines), [§8.3 தெளிவின்மைத் தீர்வு](#83-ambiguity-resolution), [§8.4 அரசியலமைப்பு பொருள் முரண்பாட்டுத் தீர்வு](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing) முதல் [15. ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#15-integrated-application) வரை; மதிப்பு-மோதல் நடைமுறைக்கு [6. செயல்முறை முரண்பாட்டுத் தீர்வு](#6-process-conflict-resolution); [அத்தியாயம் ஆறு: அடிப்படை உரிமைகள்](../../core_06_rights_part_a.md#chapter-six-foundational-rights) சுருக்கம்-இன்மை இயல்புநிலை.
-- இதனுடன் படிக்க: [அத்தியாயங்கள் இரண்டு முதல் நான்கு](core_02_definition_structure.md) மற்றும் [அத்தியாயம் ஐந்து](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — இந்த அத்தியாயத்தில் ஒவ்வொரு சொலுக்கும் விளக்க மற்றும் சான்று அடுக்கு.
+- இதனுடன் படிக்க: [அத்தியாயங்கள் இரண்டு முதல் நான்கு](core_02_definition_structure.md) மற்றும் [அத்தியாயம் ஐந்து](core_05__definitions_home.md#chapter-five-foundational-definitions) — இந்த அத்தியாயத்தில் ஒவ்வொரு சொலுக்கும் விளக்க மற்றும் சான்று அடுக்கு.
 - இதனுடன் படிக்க: [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) மற்றும் [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) — ஒருங்கிணைந்த-மதிப்புக் கட்டமைப்புக்கான விளக்கப் பின்புலம்; பொருள்ரீதியாகப் பொருத்தமான இடத்தில் [பொருள் பங்கு](core_00_preamble.md#material-stake) அளவீடு.
 - இதனுடன் படிக்க: [அதிகார அடுக்கும் உள் படிநிலையும்](../../core_05_band_integrative.md#authority-stack) (*மூல-அடுக்கு நிலை*); [அத்தியாயம் பதினாறு](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*காவல், பதிப்புகள், ஏற்புக் கட்டமைப்பு* — இரண்டாவது முரண்பாட்டு-வரிசை இல்லம் அல்ல); [அத்தியாயம் பதிமூன்று](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) மற்றும் [அத்தியாயம் பதினான்கு](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*§8.4 கீழ் பின்னடைவு இன்மை மற்றும் ஏற்பாளர் படிநிலை வாயில்கள்*).
 - இதனுடன் படிக்க: நிறுவன விளக்கக் காப்புகளுக்கு [சரத்து XXII: அரசியலமைப்பு விளக்கம், மதிப்பாய்வு, கைப்பற்றுதல் எதிர்ப்புக் காப்புகள்](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (இந்தப் பிரிவுக்குப் பதிலீடு அல்ல).
@@ -637,7 +637,7 @@
 
 - [சவால் செய்யக்கூடிய தன்மை](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [தணிக்கைத்தன்மை](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [பொறுப்புக்கூறல்](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -799,7 +799,7 @@
 
 இந்தத் துணைப்பிரிவின் இணைந்த-நிறைவேற்ற விதி **ஒன்றுக்கு மேற்பட்ட எப்படி-செய்வது கோப்பு** அதே உண்மைகளுக்குப் பொருந்துவது பற்றியது. இது இவற்றுக்குச் சமமல்ல:
 - இணைக்கப்பட்ட கூட்டு-அமைப்பு உரையில் **ஒற்றை** செயல் தொகுதி விதி, அந்தத் தொகுதியின் ஒரு பகுதியை மட்டும் செய்வது இணக்கமாக எண்ணாது — காண்க **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*செயல் தொகுதிகள்*); அல்லது
-- **சார்ந்த தொகுதி** வரையறைகள் ஒன்றாக நிறைவேற்றப்பட வேண்டும் என்ற அத்தியாயம் ஐந்து விதி — காண்க **[கூட்டு அழைப்பும் நிறைவேற்றமும்](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
+- **சார்ந்த தொகுதி** வரையறைகள் ஒன்றாக நிறைவேற்றப்பட வேண்டும் என்ற அத்தியாயம் ஐந்து விதி — காண்க **[கூட்டு அழைப்பும் நிறைவேற்றமும்](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
 **இந்தத் துணைப்பிரிவு எப்போது பொருந்தும்.** இந்த விதிகள் **[அத்தியாயம் பதினாறு](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** கீழ் செல்லுபடியான ஏற்பு மற்றும் இணைப்பு எல்லைக்குள் இந்த இரண்டில் ஏதேனும் ஒன்றில் பொருந்தும்:
 

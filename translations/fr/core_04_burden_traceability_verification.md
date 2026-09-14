@@ -10,7 +10,7 @@
 >
 > **Précédent (cette langue) :** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **Suivant (encore en anglais) :** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **Suivant (cette langue) :** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **Arc de lecture :** §1 allocation de la charge → §2 carte de trace → §3 observabilité → §4 limites de sécurité → §5 norme de preuve → §6 frontière de couche de certification (non opératoire).
 
 </details>
@@ -224,6 +224,6 @@ Les lecteurs ne doivent pas traiter :
 
 **Fichier précédent (cette langue) :** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**Fichier suivant (encore en anglais) :** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**Fichier suivant (cette langue) :** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **Original contraignant :** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

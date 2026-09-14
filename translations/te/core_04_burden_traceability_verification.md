@@ -10,7 +10,7 @@
 >
 > **మునుపటి (ఈ భాషలో):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **తదుపరి (ఇంకా ఆంగ్లంలో):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **తదుపరి (ఈ భాషలో):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **చదివే చాపం:** §1 భారం కేటాయింపు → §2 జాడ మ్యాప్ → §3 పరిశీలనీయత → §4 భద్రతా పరిమితులు → §5 సాక్ష్య ప్రమాణం → §6 ధృవీకరణ పొర సరిహద్దు (అసంచాలకం)
 
 </details>
@@ -224,6 +224,6 @@
 
 **మునుపటి ఫైల్ (ఈ భాషలో):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**తదుపరి ఫైల్ (ఇంకా ఆంగ్లంలో):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**తదుపరి ఫైల్ (ఈ భాషలో):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **బంధనీయ మూలం:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

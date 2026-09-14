@@ -31,7 +31,7 @@
 **Định nghĩa chỉ số thay Chương Năm** (thỏa O/M/A/C — truy dưới Chương Hai đến Bốn khi liên quan vật chất):
 
 - [Phúc lợi](../../core_05_band_continuity.md#wellbeing) (mục tiêu Hưng thịnh)
-- [Giám sát](../../core_05_band_accountability.md#oversight), [Trách nhiệm giải trình](../../core_05_apex_accountability_leg.md#accountability), [Khả năng tranh biện](../../core_05_band_accountability.md#contestability), [Quản trị](../../core_05_band_accountability.md#governance), [Quản trị chia tỷ lệ theo phân loại](../../core_05_band_oversight.md#classification-scaled-governance)
+- [Giám sát](../../core_05_band_accountability.md#oversight), [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability), [Khả năng tranh biện](../../core_05_band_accountability.md#contestability), [Quản trị](../../core_05_band_accountability.md#governance), [Quản trị chia tỷ lệ theo phân loại](../../core_05_band_oversight.md#classification-scaled-governance)
 - [Có trọng](../../core_05_band_oversight.md#material), [Tác động vật chất](../../core_05_band_oversight.md#material-impact), [Rủi ro vật chất](../../core_05_band_oversight.md#material-risk), [Xác định tính trọng yếu](../../core_05_band_oversight.md#materiality-determination) (các hộp gắn nhãn này **Tính trọng yếu**), [Tính trọng yếu hệ thống](../../core_05_band_accountability.md#systemic-materiality) — cụm: [Tính trọng yếu, tác động, rủi ro, và tính toàn vẹn chỉ số thay thế](../../core_05_band_oversight.md#materiality-semi-independent)
 
 **Cụm phụ thuộc chính §3 Chương Năm** (nhóm viện chung — đọc cùng Chương Hai đến Bốn khi liên quan vật chất):
@@ -213,7 +213,7 @@ Giảm thiểu hại chọn giữa các lựa chọn đã vượt những sàn �
 - [Khóa-trong hệ thống](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
 - [Khả năng đảo ngược](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [Phụ thuộc](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [Trách nhiệm giải trình](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [Giám sát](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
@@ -226,7 +226,7 @@ Hạn chế **giá trị** hiến pháp — kể cả bảo vệ Sàn Quyền **
 
 **Sàn phân loại.** Không hệ thống nào được quản trị ở mức thấp hơn mức đòi bởi phân loại áp dụng cao nhất của nó. Nhãn hành chính thấp hơn không thể giảm rà soát đòi bởi phân loại rủi ro, phụ thuộc, quyền, hoặc tác động hệ thống áp dụng cao nhất.
 
-**Phải trả lời chia tỷ lệ theo thẩm quyền.** Tính tương xứng cũng cấm dưới-quản trị những ai nắm quyền được ủy lớn hơn, vai trò có hệ quả, hoặc ảnh hưởng thể chế: cường độ [Trách nhiệm giải trình](../../core_05_apex_accountability_leg.md#accountability) và [Giám sát](../../core_05_apex_oversight_leg.md#oversight-constitutional) phải tăng với thẩm quyền đó, không giảm.
+**Phải trả lời chia tỷ lệ theo thẩm quyền.** Tính tương xứng cũng cấm dưới-quản trị những ai nắm quyền được ủy lớn hơn, vai trò có hệ quả, hoặc ảnh hưởng thể chế: cường độ [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability) và [Giám sát](../../core_05_apex_oversight_leg.md#oversight-constitutional) phải tăng với thẩm quyền đó, không giảm.
 
 **Ngưỡng nâng.** Nơi hành động đưa rủi ro hại không đảo ngược, khóa-trong hệ thống, Rủi ro tồn vong, hoặc mất không đảo ngược Năng lực phục hồi sinh thái, hệ thống phải áp ngưỡng nâng cho biện minh, rà soát, và khả năng đảo ngược nơi khả thi.
 
@@ -608,7 +608,7 @@ Không giá trị định nghĩa trong chương này được dùng như biện 
 
 - Thượng nguồn: [Lời nói đầu — Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad); chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake) áp dụng xuyên chương qua dấu vết mục.
 - Hạ nguồn: [§8.1 Nguyên tắc hiến pháp không lách](#81-constitutional-no-bypass-principle), [§8.2 Tầng định nghĩa và kỷ luật đòi](#82-definitional-layer-and-required-disciplines), [§8.3 Giải sự mơ hồ](#83-ambiguity-resolution), [§8.4 Giải xung đột nghĩa hiến pháp](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing) đến [15. Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#15-integrated-application); [6. Giải quyết xung đột quy trình](#6-process-conflict-resolution) cho thủ tục va chạm giá trị; [Chương Sáu: Quyền nền tảng](../../core_06_rights_part_a.md#chapter-six-foundational-rights) mặc định không thu hẹp.
-- Đọc cùng: [Chương Hai đến Bốn](core_02_definition_structure.md) và [Chương Năm](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — tầng diễn giải và bằng chứng cho mọi thuật ngữ trong chương này.
+- Đọc cùng: [Chương Hai đến Bốn](core_02_definition_structure.md) và [Chương Năm](core_05__definitions_home.md#chapter-five-foundational-definitions) — tầng diễn giải và bằng chứng cho mọi thuật ngữ trong chương này.
 - Đọc cùng: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) và [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) — phông diễn giải cho khung giá trị tích hợp; chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake) nơi liên quan vật chất.
 - Đọc cùng: [Chồng thẩm quyền và thứ bậc nội bộ](../../core_05_band_integrative.md#authority-stack) (*trạng thái tầng nguồn*); [Chương Mười Sáu](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*lưu giữ, ấn bản, khung tiếp nhận* — không phải nhà thứ tự xung đột thứ hai); [Chương Mười Ba](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) và [Chương Mười Bốn](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*không thoái lui và cổng thứ bậc bên tiếp nhận dưới §8.4*).
 - Đọc cùng: [Điều XXII: Diễn giải hiến pháp, rà soát, và bảo vệ chống chiếm](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) cho bảo vệ diễn giải thể chế (không phải vật thay mục này).
@@ -637,7 +637,7 @@ Không giá trị định nghĩa trong chương này được dùng như biện 
 
 - [Khả năng tranh biện](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [Khả năng kiểm toán](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [Trách nhiệm giải trình](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -799,7 +799,7 @@ Khi các quy tắc dưới đây nói **chặt nhất** hoặc **chặt hơn**, 
 
 Quy tắc thỏa kết hợp của tiểu mục này là về **hơn một tệp hướng dẫn** áp dụng cho cùng sự kiện. Nó không giống:
 - quy tắc cho một cụm vận hành **đơn** trong văn bản cấu trúc chung đã hợp nhất, nơi chỉ làm một phần cụm đó không được tính là tuân thủ — xem **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*Cụm vận hành*); hoặc
-- quy tắc Chương Năm rằng định nghĩa **Cụm phụ thuộc** phải được thỏa cùng nhau — xem **[Viện chung và thỏa](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
+- quy tắc Chương Năm rằng định nghĩa **Cụm phụ thuộc** phải được thỏa cùng nhau — xem **[Viện chung và thỏa](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
 **Khi tiểu mục này áp dụng.** Các quy tắc này áp dụng trong phạm vi tiếp nhận và hợp nhất hợp lệ dưới **[Chương Mười Sáu](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** ở một trong các trường hợp này:
 

@@ -40,7 +40,7 @@
 - <a id="flourishing"></a>**번영** — 진실, 안전, 신뢰성, 의미 있는 행위주체성을 통해 지속되는 감지자 복지
 - <a id="continuity"></a>**연속** — 긴 시계의 안정, 지속가능성, 회복력, 생태 복지
 
-그 목적은 함께 추구해야 하며, 언제나 이 헌법이 세운 타협 불가 원칙 제약과 권리 보호 안에 있어야 한다. [**헌법 사원(四元)**](#constitutional-tetrad)은 그 추구가 어떻게 정당성을 유지하는지를 다스린다: [**실질 이해관계**](#material-stake)에 맞춰 세기를 조절한 **참여**, **감독**, **책무**, **적시성**. 사원(四元) 각 다리와 헌법 목적의 구속력 있는 정의는 제5장에 산다: [참여](../../core_05_apex_participation_leg.md#participation-constitutional), [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional), [책무](../../core_05_apex_accountability_leg.md#accountability), [적시성](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [번영](../../core_05_apex_flourishing_aim.md#flourishing-constitutional), [연속](../../core_05_apex_continuity_aim.md#continuity-aim-constitutional).
+그 목적은 함께 추구해야 하며, 언제나 이 헌법이 세운 타협 불가 원칙 제약과 권리 보호 안에 있어야 한다. [**헌법 사원(四元)**](#constitutional-tetrad)은 그 추구가 어떻게 정당성을 유지하는지를 다스린다: [**실질 이해관계**](#material-stake)에 맞춰 세기를 조절한 **참여**, **감독**, **책무**, **적시성**. 사원(四元) 각 다리와 헌법 목적의 구속력 있는 정의는 제5장에 산다: [참여](../../core_05_apex_participation_leg.md#participation-constitutional), [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional), [책무](core_05_apex_accountability_leg.md#accountability), [적시성](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [번영](../../core_05_apex_flourishing_aim.md#flourishing-constitutional), [연속](../../core_05_apex_continuity_aim.md#continuity-aim-constitutional).
 
 <a id="2-the-measurements"></a>
 
@@ -57,7 +57,7 @@
 
 측정은 그 목적과 이 헌법이 세운 권리 보호에 추적 가능해야 한다. 원시 처리량, 이용률, 인원, 수입, 지연, 그 밖의 편한 대리지표는 [대리지표 이탈](../../core_05_band_oversight.md#proxy-divergence)이 예견되는 곳에서 헌법 성과를 대신할 수 없다.
 
-아래 개관은 [두 헌법 목적](#two-constitutional-aims)과 [헌법 사원(四元)](#constitutional-tetrad)에 대응시킨 측정 **범주**를 열거한다. 각 범주에는 쉬운 말 질문 하나와 이름 붙은 **하위범주**가 있다. 각 범주는 **제5장 측정 가족 거처**로 연결된다 — 가족 표, 헌법 쓰임, 정의 라우팅이 사는 곳 — 각 하위범주는 제5장의 정전 정의로 연결된다. **실질성**은 따로 떨어진 측정 범주가 아니다. 아래 각 범주가 얼마나 세게 적용되는지를 [**실질 이해관계**](#material-stake)에 따라 정한다 — 얼마나 많은 영향, 의존, 위험이 걸려 있는가. **헌법 성과**는 가로지른다 — 두 목적 모두에 도구다. [제5장 측정 대조](../../core_05__definitions_home.md#chapter-five-measurement-crosswalk)로 아래 각 범주에서 정전 거처를 추적하라.
+아래 개관은 [두 헌법 목적](#two-constitutional-aims)과 [헌법 사원(四元)](#constitutional-tetrad)에 대응시킨 측정 **범주**를 열거한다. 각 범주에는 쉬운 말 질문 하나와 이름 붙은 **하위범주**가 있다. 각 범주는 **제5장 측정 가족 거처**로 연결된다 — 가족 표, 헌법 쓰임, 정의 라우팅이 사는 곳 — 각 하위범주는 제5장의 정전 정의로 연결된다. **실질성**은 따로 떨어진 측정 범주가 아니다. 아래 각 범주가 얼마나 세게 적용되는지를 [**실질 이해관계**](#material-stake)에 따라 정한다 — 얼마나 많은 영향, 의존, 위험이 걸려 있는가. **헌법 성과**는 가로지른다 — 두 목적 모두에 도구다. [제5장 측정 대조](core_05__definitions_home.md#chapter-five-measurement-crosswalk)로 아래 각 범주에서 정전 거처를 추적하라.
 
 | 범주 | 쉬운 질문 | 하위범주 |
 |---|---|---|
@@ -65,7 +65,7 @@
 | **[연속](../../core_05_apex_continuity_aim.md#continuity-measurement-family)** | 감지자와 체계는 견딜 수 있는가 — 생태적으로, 믿을 수 있게, 실패를 가로질러? | [생태 발자국과 환경 전제](../../core_05_band_continuity.md#ecological-footprint) · [회복력, 가역성, 체계 위험](../../core_05_band_continuity.md#reversibility-constitutional) · [의존과 자원 흐름](../../core_05_band_continuity.md#dependency) · [체계 간 지원](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | **[참여](../../core_05_apex_participation_leg.md#participation-measurement-family)** | 영향받는 감지자는 공정하게 참여할 수 있는가 — 목소리, 접근, 배움, 프라이버시? | [공정, 접근, 행위주체성](../../core_05_band_participation.md#substantive-fairness-constitutional) · [프라이버시와 데이터의 책임 있는 관리](../../core_05_band_continuity.md#privacy-informational-cluster) |
 | **[감독](../../core_05_apex_oversight_leg.md#oversight-measurement-family)** | 감지자는 체계가 내세우는 것을 보고, 확인하고, 의지할 수 있는가? | [진실과 인식 완전성](../../core_05_band_oversight.md#truth-constitutional-constraint) · [신뢰성](../../core_05_band_continuity.md#trustworthiness) |
-| **[책무](../../core_05_apex_accountability_leg.md#accountability-measurement-family)** | 보상 구조, 시장 힘, 답할 의무는 의무를 실제로 유지하는가? | [유인 정합과 대리지표 완전성](../../core_05_band_integrative.md#incentive-alignment) · [시장 구조와 다툴 수 있음](../../core_05_band_accountability.md#market-structure-constitutional) |
+| **[책무](core_05_apex_accountability_leg.md#accountability-measurement-family)** | 보상 구조, 시장 힘, 답할 의무는 의무를 실제로 유지하는가? | [유인 정합과 대리지표 완전성](../../core_05_band_integrative.md#incentive-alignment) · [시장 구조와 다툴 수 있음](../../core_05_band_accountability.md#market-structure-constitutional) |
 | **[적시성](../../core_05_apex_timeliness_leg.md#timeliness-measurement-family)** | 다툼, 교정, 수리는 구제가 아직 중요할 때 해결되는가? | [제때 해결](../../core_05_band_accountability.md#timely-resolution-constitutional) · [지연 금지와 해결 경로 규율](../../core_05_band_accountability.md#capture-of-resolution-pathways) |
 | **[헌법 성과](../../core_05_band_performance.md#performance-measurement-family)** | 헌법 결과는 헛된 낭비 없이 효율적으로 전달되는가? | [헌법 효율](../../core_05_band_continuity.md#constitutional-efficiency) · [피할 수 있는 부담](../../core_05_band_continuity.md#avoidable-burden) · [생산 능력](../../core_05_band_continuity.md#productive-capacity-constitutional) |
 
@@ -150,7 +150,7 @@
 - **맡은 일:** 증명 부담을 준수를 주장하는 이에게 둔다; [**실질 이해관계**](#material-stake)에 맞춰 세기를 조절하고 실무에서 여전히 다툴 수 있는 추적 가능한 증거, 관찰 가능성, 확인을 요구한다.
 - **산출:** [제8장](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)의 **확인된 입력**과 [제7장](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)의 체계 정합 증거를 먹이는 확인 사슬 — 궤적 측정 자체를 대체하지 않는다.
 
-**제5장 — 기초 정의** ([`core_05__definitions_home.md`](../../core_05__definitions_home.md#chapter-five-foundational-definitions))
+**제5장 — 기초 정의** ([`core_05__definitions_home.md`](core_05__definitions_home.md#chapter-five-foundational-definitions))
 
 - **맡은 일:** 정전 정의 스택을 공급한다 — 감독, 참여, 책무, 연속, 통합 띠 — 더하여 [권위 스택과 내부 계층](../../core_05_band_integrative.md#authority-stack), [코퍼스](../../core_05_band_integrative.md#corpus), 관련 경계 규칙.
 - **산출:** 해석, 감사, 재결을 위한 정밀한 헌법 어휘. 그것은 **정의 스택**이지 권리 바닥이 아니다; 구속력 있는 권리는 제6장에 산다. 문서 전체의 주관 영역 라우팅은 이 전문 등록(4–7절)에 산다.

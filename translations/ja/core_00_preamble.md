@@ -40,7 +40,7 @@
 - <a id="flourishing"></a>**繁栄** — 真理、安全、信頼可能性、意味ある行為主体性を通じて持続する感知者の福祉
 - <a id="continuity"></a>**継続** — 長い時間地平の安定、持続可能性、回復力、生態的福祉
 
-これらの目的は、つねにこの憲法が定める交渉不能の原則制約と権利保護の内側で、ともに追求されなければならない。[**憲法四元**](#constitutional-tetrad)は、その追求がどのように正当性を保つかを統治する。[**実質的利害**](#material-stake)に応じて尺度を合わせた**参加**、**監督**、**説明責任**、**適時性**である。四元の各脚と憲法上の目的の拘束力ある定義は第五章にある。[参加](../../core_05_apex_participation_leg.md#participation-constitutional)、[監督](../../core_05_apex_oversight_leg.md#oversight-constitutional)、[説明責任](../../core_05_apex_accountability_leg.md#accountability)、[適時性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)、[繁栄](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)、[継続](../../core_05_apex_continuity_aim.md#continuity-aim-constitutional)。
+これらの目的は、つねにこの憲法が定める交渉不能の原則制約と権利保護の内側で、ともに追求されなければならない。[**憲法四元**](#constitutional-tetrad)は、その追求がどのように正当性を保つかを統治する。[**実質的利害**](#material-stake)に応じて尺度を合わせた**参加**、**監督**、**説明責任**、**適時性**である。四元の各脚と憲法上の目的の拘束力ある定義は第五章にある。[参加](../../core_05_apex_participation_leg.md#participation-constitutional)、[監督](../../core_05_apex_oversight_leg.md#oversight-constitutional)、[説明責任](core_05_apex_accountability_leg.md#accountability)、[適時性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)、[繁栄](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)、[継続](../../core_05_apex_continuity_aim.md#continuity-aim-constitutional)。
 
 <a id="2-the-measurements"></a>
 
@@ -57,7 +57,7 @@
 
 測定は、それらの目的と、この憲法が定める権利保護へとたどれるままでなければならない。生の処理量、稼働率、人員数、収益、遅延、その他都合のよい代替指標は、[代替指標の乖離](../../core_05_band_oversight.md#proxy-divergence)が予見できるところでは、憲法上の実績の代わりにはならない。
 
-以下の概観は、[二つの憲法上の目的](#two-constitutional-aims)と[憲法四元](#constitutional-tetrad)に対応づけた測定**カテゴリー**を列挙する。各カテゴリーには平たい言葉の問いが一つと、指名された**下位カテゴリー**がある。各カテゴリーは、その**第五章の測定ファミリーの本拠** — ファミリー表、憲法上の用法、定義の経路が住むところ — へリンクし、各下位カテゴリーは第五章の典範定義へリンクする。**実質性**は、別の測定カテゴリーではない。下記の各カテゴリーがどれだけ強く適用されるかを、[**実質的利害**](#material-stake) — どれだけの影響、依存、リスクが関わるか — に基づいて定める。**憲法上の実績**は横断的である — 両目的に対して手段となる。下記の各カテゴリーから典範の本拠をたどるには、[第五章の測定クロスウォーク](../../core_05__definitions_home.md#chapter-five-measurement-crosswalk)を用いる。
+以下の概観は、[二つの憲法上の目的](#two-constitutional-aims)と[憲法四元](#constitutional-tetrad)に対応づけた測定**カテゴリー**を列挙する。各カテゴリーには平たい言葉の問いが一つと、指名された**下位カテゴリー**がある。各カテゴリーは、その**第五章の測定ファミリーの本拠** — ファミリー表、憲法上の用法、定義の経路が住むところ — へリンクし、各下位カテゴリーは第五章の典範定義へリンクする。**実質性**は、別の測定カテゴリーではない。下記の各カテゴリーがどれだけ強く適用されるかを、[**実質的利害**](#material-stake) — どれだけの影響、依存、リスクが関わるか — に基づいて定める。**憲法上の実績**は横断的である — 両目的に対して手段となる。下記の各カテゴリーから典範の本拠をたどるには、[第五章の測定クロスウォーク](core_05__definitions_home.md#chapter-five-measurement-crosswalk)を用いる。
 
 | カテゴリー | 平たい問い | 下位カテゴリー |
 |---|---|---|
@@ -65,7 +65,7 @@
 | **[継続](../../core_05_apex_continuity_aim.md#continuity-measurement-family)** | 感知者とシステムは、生態的に、信頼できるように、失敗を越えて持ちこたえられるか。 | [生態的足跡と環境的前提条件](../../core_05_band_continuity.md#ecological-footprint) · [回復力、可逆性、システム的リスク](../../core_05_band_continuity.md#reversibility-constitutional) · [依存と資源の流れ](../../core_05_band_continuity.md#dependency) · [システム横断の支援](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | **[参加](../../core_05_apex_participation_leg.md#participation-measurement-family)** | 影響を受ける感知者は公正に関われるか — 声、通路、学習、プライバシー。 | [公正、通路、行為主体性](../../core_05_band_participation.md#substantive-fairness-constitutional) · [プライバシーとデータの責務ある管理](../../core_05_band_continuity.md#privacy-informational-cluster) |
 | **[監督](../../core_05_apex_oversight_leg.md#oversight-measurement-family)** | 感知者は、システムが表すものを見て、検証し、依拠できるか。 | [真理と認識的誠実性](../../core_05_band_oversight.md#truth-constitutional-constraint) · [信頼可能性](../../core_05_band_continuity.md#trustworthiness) |
-| **[説明責任](../../core_05_apex_accountability_leg.md#accountability-measurement-family)** | 報酬構造、市場支配力、応答義務は、義務を実際のものに保っているか。 | [誘因整合と代替指標の誠実性](../../core_05_band_integrative.md#incentive-alignment) · [市場構造と争訟可能性](../../core_05_band_accountability.md#market-structure-constitutional) |
+| **[説明責任](core_05_apex_accountability_leg.md#accountability-measurement-family)** | 報酬構造、市場支配力、応答義務は、義務を実際のものに保っているか。 | [誘因整合と代替指標の誠実性](../../core_05_band_integrative.md#incentive-alignment) · [市場構造と争訟可能性](../../core_05_band_accountability.md#market-structure-constitutional) |
 | **[適時性](../../core_05_apex_timeliness_leg.md#timeliness-measurement-family)** | 紛争、是正、修復は、救済がまだ意味を持つあいだに解決されるか。 | [適時解決](../../core_05_band_accountability.md#timely-resolution-constitutional) · [遅延防止と解決経路の規律](../../core_05_band_accountability.md#capture-of-resolution-pathways) |
 | **[憲法上の実績](../../core_05_band_performance.md#performance-measurement-family)** | 憲法上の成果は、無意味な浪費なしに効率よく届けられるか。 | [憲法上の効率](../../core_05_band_continuity.md#constitutional-efficiency) · [回避可能な負担](../../core_05_band_continuity.md#avoidable-burden) · [生産能力](../../core_05_band_continuity.md#productive-capacity-constitutional) |
 
@@ -150,7 +150,7 @@
 - **その職掌：** 証明の負担を、遵守を主張する側に置く。たどれる証拠、観察可能性、および[**実質的利害**](#material-stake)に応じて尺度が合い、実務で争訟可能なままの検証を求める。
 - **その産出：** [第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)へ**検証済み入力**を送り、[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)へシステム整合の証拠を送る検証パイプライン — 軌跡測定そのものを置き換えない。
 
-**第五章 — 基礎定義**（[`core_05__definitions_home.md`](../../core_05__definitions_home.md#chapter-five-foundational-definitions)）
+**第五章 — 基礎定義**（[`core_05__definitions_home.md`](core_05__definitions_home.md#chapter-five-foundational-definitions)）
 
 - **その職掌：** 典範の定義スタックを供給する — 監督、参加、説明責任、継続、統合の帯 — 加えて[権限スタックと内部階層](../../core_05_band_integrative.md#authority-stack)、[コーパス](../../core_05_band_integrative.md#corpus)、関連する境界規則。
 - **その産出：** 解釈、監査、裁定のための精密な憲法語彙。それは**定義スタック**であり、権利の床ではない。拘束力ある権利は第六章にある。文書全体の所管領域の経路づけは、本前文の登録（第 4–7 節）にある。

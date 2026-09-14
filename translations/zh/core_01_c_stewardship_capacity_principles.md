@@ -616,7 +616,7 @@
 - [相称性](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 - [参与](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
 - [监督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [问责](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [可归因行动](../../core_05_band_accountability.md#attributable-action-constitutional) · [O](../../core_05_band_accountability.md#attributable-action-constitutional) · [M](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [A](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [C](../../core_05_band_accountability.md#attributable-action-constitutional-c)
 - [归因完整性](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [O](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [M](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [A](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [C](../../core_05_band_accountability.md#attribution-integrity-constitutional-c)
 
@@ -636,7 +636,7 @@
 
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — **参与**腿（方向中的获授权声音与有后果角色）；**监督**腿（对权威分配与行使的审查）；**问责**腿（对治理结果与俘获的应答义务）；[实质利害](core_00_preamble.md#material-stake)缩放。
 - 一并阅读：[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — **繁盛**宗旨（保全有意义能动性与合法参与的治理）；**延续**宗旨（持久机构对齐与长时域尽责管理纪律）。
-- 一并阅读：[§6.1.3 相称性](core_01_b_interaction_interpretation.md#613-proportionality)（*分类底线与治理不足纪律*）；[必要性](../../core_05_band_accountability.md#necessity)；[相称性](../../core_05_band_accountability.md#proportionality)；[问责](../../core_05_apex_accountability_leg.md#accountability)；[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)。
+- 一并阅读：[§6.1.3 相称性](core_01_b_interaction_interpretation.md#613-proportionality)（*分类底线与治理不足纪律*）；[必要性](../../core_05_band_accountability.md#necessity)；[相称性](../../core_05_band_accountability.md#proportionality)；[问责](core_05_apex_accountability_leg.md#accountability)；[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)。
 - 上游：原则：[§9 尽责管理与分布式理解](#9-stewardship-and-distributed-understanding)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)。
 - 下游：[§10.2 职责分离](#102-segregation-of-duties)；[§10.3 持续正当化](#103-ongoing-justification)；[§11 激励对齐与系统俘获](#11-incentive-alignment-and-system-capture)；[第十二章](../../core_12_governance.md)（*宪法契约层*操作化）；[Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（*评议所成员披露、回避与反俘获底线*）；[第十一章](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*评议所族系监督*）。
 
@@ -651,7 +651,7 @@
 - [相称性](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 - [参与](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
 - [监督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [问责](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -668,7 +668,7 @@
 - 定向机构的过程；以及
 - 使治理本身被问责的机制。
 
-**按权威缩放的应答义务。** 更大的获授权权力、有后果角色或机构影响力，提高 — 并且不得降低 — [宪法四元](core_00_preamble.md#constitutional-tetrad)下的宪法[问责](../../core_05_apex_accountability_leg.md#accountability)与[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)义务，随[实质利害](core_00_preamble.md#material-stake)缩放，并与[必要性](../../core_05_band_accountability.md#necessity)和[相称性](../../core_05_band_accountability.md#proportionality)一并阅读：
+**按权威缩放的应答义务。** 更大的获授权权力、有后果角色或机构影响力，提高 — 并且不得降低 — [宪法四元](core_00_preamble.md#constitutional-tetrad)下的宪法[问责](core_05_apex_accountability_leg.md#accountability)与[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)义务，随[实质利害](core_00_preamble.md#material-stake)缩放，并与[必要性](../../core_05_band_accountability.md#necessity)和[相称性](../../core_05_band_accountability.md#proportionality)一并阅读：
 
 - 职位、专长稀缺、人员需要或机构自我保护，不得稀释对本宪法的应答义务；
 - 行使解释或裁断权威的**宪法评议所成员与小组成员**尤其受本纪律约束；
@@ -699,7 +699,7 @@
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 遵从</span></strong></summary>
 
 - [监督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [问责](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [相称性](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 - [可质疑性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [可审计性](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
@@ -754,7 +754,7 @@
 - [及时性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional) · [O](../../core_05_apex_timeliness_leg.md#timeliness-constitutional) · [M](../../core_05_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](../../core_05_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](../../core_05_apex_timeliness_leg.md#timeliness-constitutional-c)
 - [监督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [可质疑性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [问责](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [透明](../../core_05_band_oversight.md#transparency) · [O](../../core_05_band_oversight.md#transparency) · [M](../../core_05_band_oversight.md#transparency-a) · [A](../../core_05_band_oversight.md#transparency-a) · [C](../../core_05_band_oversight.md#transparency-c)
 - [治理](../../core_05_band_accountability.md#governance) · [O](../../core_05_band_accountability.md#governance) · [M](../../core_05_band_accountability.md#governance-a) · [A](../../core_05_band_accountability.md#governance-a) · [C](../../core_05_band_accountability.md#governance-c)
 - [审查与纠正义务](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
@@ -1078,7 +1078,7 @@
 - [反俘获](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
 - [可质疑性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [监督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [问责](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [审查与纠正义务](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
 
 </details>
@@ -1093,7 +1093,7 @@
 
 - [可质疑性](../../core_05_band_accountability.md#contestability)；
 - [监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)；或
-- [问责](../../core_05_apex_accountability_leg.md#accountability)。
+- [问责](core_05_apex_accountability_leg.md#accountability)。
 
 **算数的形式：**
 
@@ -1273,7 +1273,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 一并阅读：[第九章 §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding)与 [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)；[问责](../../core_05_apex_accountability_leg.md#accountability)；[corpus_systems.md](../../corpus_systems.md) **CS-7 — 正义保障、返还与康复**（*实体延续核验*）。
+- 一并阅读：[第九章 §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding)与 [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)；[问责](core_05_apex_accountability_leg.md#accountability)；[corpus_systems.md](../../corpus_systems.md) **CS-7 — 正义保障、返还与康复**（*实体延续核验*）。
 - 一并阅读：[可归因行动](../../core_05_band_accountability.md#attributable-action-constitutional)与[归因完整性](../../core_05_band_accountability.md#attribution-integrity-constitutional) — 继受与形式结构变更不得击败对剩余义务的可靠归因。
 
 </details>
@@ -1281,7 +1281,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 遵从</span></strong></summary>
 
-- [问责](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [可归因行动](../../core_05_band_accountability.md#attributable-action-constitutional) · [O](../../core_05_band_accountability.md#attributable-action-constitutional) · [M](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [A](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [C](../../core_05_band_accountability.md#attributable-action-constitutional-c)
 - [归因完整性](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [O](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [M](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [A](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [C](../../core_05_band_accountability.md#attribution-integrity-constitutional-c)
 - [必要性](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
@@ -2026,7 +2026,7 @@
 - [不可逆伤害](../../core_05_band_accountability.md#irreversible-harm) · [O](../../core_05_band_accountability.md#irreversible-harm) · [M](../../core_05_band_accountability.md#irreversible-harm-a) · [A](../../core_05_band_accountability.md#irreversible-harm-a) · [C](../../core_05_band_accountability.md#irreversible-harm-c)
 - [真理（宪法约束）](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [有意义的能动性](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
-- [问责](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [系统俘获](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
 - [反俘获](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
 - [激励对齐](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment) · [A](../../core_05_band_integrative.md#incentive-alignment) · [C](../../core_05_band_integrative.md#incentive-alignment)

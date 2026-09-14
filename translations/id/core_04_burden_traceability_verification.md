@@ -10,7 +10,7 @@
 >
 > **Sebelumnya (lokal ini):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **Berikutnya (masih bahasa Inggris):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **Berikutnya (bahasa ini):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **Alur baca:** §1 alokasi beban → §2 peta jejak → §3 observabilitas → §4 batas keamanan → §5 standar bukti → §6 batas lapisan sertifikasi (non-operatif)
 
 </details>
@@ -224,6 +224,6 @@ Pembaca tidak boleh memperlakukan:
 
 **Berkas sebelumnya:** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**Berkas berikutnya (masih bahasa Inggris):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**Berkas berikutnya (bahasa ini):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **Sumber mengikat:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

@@ -10,7 +10,7 @@
 >
 > **আগেরটি (এই লোকেল):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **পরেরটি (এখনও ইংরেজিতে):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **পরেরটি (এই ভাষায়):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **পড়ার আর্ক:** §1 ভার বরাদ্দ → §2 খুঁজে-পাওয়া মানচিত্র → §3 পর্যবেক্ষণযোগ্যতা → §4 নিরাপত্তা সীমা → §5 প্রমাণ মান → §6 প্রত্যয়ন স্তর সীমানা (অ-কার্যকরী)
 
 </details>
@@ -224,6 +224,6 @@
 
 **আগের ফাইল (এই ভাষায়):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**পরের ফাইল (এখনও ইংরেজিতে):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**পরের ফাইল (এই ভাষায়):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **বাধ্যতামূলক মূল:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

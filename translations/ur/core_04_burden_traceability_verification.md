@@ -10,7 +10,7 @@
 >
 > **پچھلا (اس لوکیل):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **اگلا (ابھی انگریزی میں):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **اگلا (اس زبان میں):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **پڑھنے کا قوس:** §1 بوجھ کی تقسیم → §2 سراغ نقشہ → §3 مشاہدہ پذیری → §4 سیکیورٹی حدیں → §5 ثبوت کا معیار → §6 سرٹیفیکیشن تہہ کی حد (غیرِ عملی)۔
 
 </details>
@@ -224,6 +224,6 @@
 
 **پچھلی فائل (اس زبان میں):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**اگلی فائل (ابھی انگریزی میں):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**اگلی فائل (اس زبان میں):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **پابند اصل:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

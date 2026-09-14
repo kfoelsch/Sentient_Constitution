@@ -24,7 +24,7 @@
 > - **제2장 (이 파일)** — O/M/A/C 정의 구조와 구성 정합: 모든 정의는 **존재론 (O)** (그것이 무엇인가), **평가 (A)** 의무와 엮인 **측정 (M)** 등록 (어떻게 측정되고 평가되어야 하는가), 그리고 **준수 (C)** (무엇이 버티어야 하는가)를 잇는다 ([§1 목적과 역할](core_02_definition_structure.md#1-purpose-and-role); [§2 정의 완전성 요건](core_02_definition_structure.md#2-definition-integrity-requirement)).
 > - **제3장** — 정의 완전성, 회피, 비준수 ([제3장](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).
 > - **제4장** — 증명 부담, 정의 추적 가능성, 관찰 가능성, 보안 한도 아래의 확인, 확인의 접근성 ([제4장 — 증명 부담, 추적 가능성, 확인](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)).
-> - **제5장** — 측정, 평가, 준수를 위한 공유 어휘 (사원(四元)의 다섯 띠 파일과 헌법 목적 파일에 걸친 1–3절의 독립, 무리, 묶음 정의: [번영 목적](../../core_05_apex_flourishing_aim.md), [감독](../../core_05_band_oversight.md), [참여](../../core_05_band_participation.md), [책무](../../core_05_band_accountability.md), [연속](../../core_05_band_continuity.md), [통합](../../core_05_band_integrative.md)); 읽기 순서와 지도는 [A부분](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map).
+> - **제5장** — 측정, 평가, 준수를 위한 공유 어휘 (사원(四元)의 다섯 띠 파일과 헌법 목적 파일에 걸친 1–3절의 독립, 무리, 묶음 정의: [번영 목적](../../core_05_apex_flourishing_aim.md), [감독](../../core_05_band_oversight.md), [참여](../../core_05_band_participation.md), [책무](../../core_05_band_accountability.md), [연속](../../core_05_band_continuity.md), [통합](../../core_05_band_integrative.md)); 읽기 순서와 지도는 [A부분](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 > - **CJS** — 교차 시행 용어의 운영 정의 ([CJS-3](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) 운영 무리 도서관); 제5장 정전 거처를 적용하라 — 재정의하지 말라. **CS**, **CI**, **CF**의 영역 분류와 규약도 같은 규칙을 따른다.
 >
 > 추가 안내:
@@ -49,7 +49,7 @@
 - 상류: [전문 §1 모형](core_00_preamble.md#the-model) — [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad), [두 헌법 목적](core_00_preamble.md#two-constitutional-aims), [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절은 절 추적을 통해 장 전체에 적용된다; [제1장 §1 목적과 역할](core_01_a_values_principles.md#1-purpose-and-role) (*이 정의 스택이 섬기는 가치와 제약*).
 - 상류: [제2장 열림](#chapter-two-definition-structure-and-component-requirements) — O/M/A/C 분해와 내부 정합 요건.
 - 사원(四元) 다리: **감독**, **책무** (정의는 관찰 가능한 행위에 대해 평가 가능하고 집행 가능해야 한다). 일차 목적: **번영**과 **연속**. [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절은 장 전체에 적용된다.
-- 하류: [§1.2 측정 구성](#12-measurement-components)과 [§1.3 평가 구성](#13-assessment-components) (*평가 의무와 엮인 측정 (M) 등록; 이 장에서의 O/M/A/C 입구 형태*); [§2 정의 완전성 요건](#2-definition-integrity-requirement); [제3장, 1절 — 정의 완전성과 회피 금지 제약](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [제4장, 1절 — 전속 집행과 부담 배분](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [제5장 나침반과 정의 지도](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map).
+- 하류: [§1.2 측정 구성](#12-measurement-components)과 [§1.3 평가 구성](#13-assessment-components) (*평가 의무와 엮인 측정 (M) 등록; 이 장에서의 O/M/A/C 입구 형태*); [§2 정의 완전성 요건](#2-definition-integrity-requirement); [제3장, 1절 — 정의 완전성과 회피 금지 제약](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [제4장, 1절 — 전속 집행과 부담 배분](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [제5장 나침반과 정의 지도](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 - 함께 읽기: [전문 — 양의 주관자 등록](core_00_preamble.md#4-principles-definitions-and-rights)과 [권위 스택과 내부 위계](../../core_05_band_integrative.md#authority-stack); [헌법 제약](../../core_05_band_integrative.md#constitutional-constraint) — 이후의 집행, 거버넌스, 시행, 측정, 감사, 분류 기계는 준수해야 한다; [CJS-3.1 헌법 나침반과 무리 지도](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — 운영 정의는 제5장 정전 거처를 적용하며, 재정의해서는 안 된다.
 
 </details>
@@ -124,7 +124,7 @@
 
 - 상류: 원칙: [제2장 열림](#chapter-two-definition-structure-and-component-requirements); [§1 목적과 역할](#1-purpose-and-role) — O/M/A/C 분해 안의 A 구성 역할.
 - 하류: [제3장, 1절 — 정의 완전성과 회피 금지 제약](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [제4장, 1절 — 전속 집행과 부담 배분](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — 제2장과 제3장에서 정의된 평가 요건에 대한 전속 집행의 명명된 경로; [제4장, 5절 — 준수 증거 표준](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — 그 집행을 위한 증거의 충분성.
-- 함께 읽기: [제5장 독립 정의](../../core_05__definitions_home.md#1-interdependent-definitions) — 평가의 범위와 조건을 다스리는 적용되는 정의; 평가 요건은 입장 범위 안에서 적용되는 모든 제5장 정의와 일관되게 적용된다.
+- 함께 읽기: [제5장 독립 정의](core_05__definitions_home.md#1-interdependent-definitions) — 평가의 범위와 조건을 다스리는 적용되는 정의; 평가 요건은 입장 범위 안에서 적용되는 모든 제5장 정의와 일관되게 적용된다.
 
 </details>
 

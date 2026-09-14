@@ -30,7 +30,7 @@
 **अध्याय पाँच स्थानापन्न परिभाषाएँ** (O/M/A/C संतुष्टि — जब तात्विक रूप से प्रासंगिक हो तब अध्याय दो से चार के अधीन अनुरेख):
 
 - [कल्याण](../../core_05_band_continuity.md#wellbeing) (समुन्नति उद्देश्य)
-- [निगरानी](../../core_05_band_accountability.md#oversight), [जवाबदेही](../../core_05_apex_accountability_leg.md#accountability), [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability), [शासन](../../core_05_band_accountability.md#governance), [वर्गीकरण-स्केल शासन](../../core_05_band_oversight.md#classification-scaled-governance)
+- [निगरानी](../../core_05_band_accountability.md#oversight), [जवाबदेही](core_05_apex_accountability_leg.md#accountability), [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability), [शासन](../../core_05_band_accountability.md#governance), [वर्गीकरण-स्केल शासन](../../core_05_band_oversight.md#classification-scaled-governance)
 - [तात्विक](../../core_05_band_oversight.md#material), [तात्विक प्रभाव](../../core_05_band_oversight.md#material-impact), [तात्विक जोखिम](../../core_05_band_oversight.md#material-risk), [तात्विकता निर्धारण](../../core_05_band_oversight.md#materiality-determination) (विजेट इसे **तात्विकता** कहते हैं), [प्रणालीगत तात्विकता](../../core_05_band_accountability.md#systemic-materiality) — समूह: [तात्विकता, प्रभाव, जोखिम और स्थानापन्न अखंडता](../../core_05_band_oversight.md#materiality-semi-independent)
 
 **प्रमुख अध्याय पाँच §3 आश्रित समूह** (संयुक्त-आह्वान समूह — जब तात्विक रूप से प्रासंगिक हो तब अध्याय दो से चार के साथ पढ़ें):
@@ -212,7 +212,7 @@
 - [प्रणालीगत लॉक-इन](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
 - [उत्क्रमणीयता](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [निर्भरता](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [जवाबदेही](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [जवाबदेही](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [निगरानी](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
@@ -225,7 +225,7 @@
 
 **वर्गीकरण तल।** कोई प्रणाली अपने उच्चतम लागू वर्गीकरण से नीचे के स्तर पर शासित नहीं हो सकती। निम्न प्रशासनिक लेबल उस जाँच को घटा नहीं सकता जो उच्चतम लागू जोखिम, निर्भरता, अधिकार या प्रणाली-प्रभाव वर्गीकरण माँगता है।
 
-**प्राधिकार-स्केल उत्तरदेयता।** आनुपातिकता उन लोगों के न्यून-शासन को भी मना करती है जिनके पास अधिक अधिकृत शक्ति, परिणामी भूमिका, या संस्थागत प्रभाव हो: [जवाबदेही](../../core_05_apex_accountability_leg.md#accountability) और [निगरानी](../../core_05_apex_oversight_leg.md#oversight-constitutional) की तीव्रता उस प्राधिकार के साथ उठनी चाहिए, गिरनी नहीं।
+**प्राधिकार-स्केल उत्तरदेयता।** आनुपातिकता उन लोगों के न्यून-शासन को भी मना करती है जिनके पास अधिक अधिकृत शक्ति, परिणामी भूमिका, या संस्थागत प्रभाव हो: [जवाबदेही](core_05_apex_accountability_leg.md#accountability) और [निगरानी](../../core_05_apex_oversight_leg.md#oversight-constitutional) की तीव्रता उस प्राधिकार के साथ उठनी चाहिए, गिरनी नहीं।
 
 **ऊँचे देहलीज़।** जहाँ कार्रवाई अपरिवर्तनीय हानि, प्रणालीगत लॉक-इन, अस्तित्वगत जोखिम, या पारिस्थितिक पुनर्प्राप्ति क्षमता की अपरिवर्तनीय हानि का जोखिम लाए, प्रणालियों को औचित्य, जाँच, और जहाँ व्यवहार्य हो उत्क्रमणीयता के लिए ऊँचे देहलीज़ लागू करने चाहिए।
 
@@ -607,7 +607,7 @@
 
 - ऊर्ध्व: [प्रस्तावना — संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग खंड-अनुरेखों के माध्यम से पूरे अध्याय पर लागू होती है।
 - अधो: [§8.1 संवैधानिक बाईपास-निषेध सिद्धांत](#81-constitutional-no-bypass-principle), [§8.2 परिभाषा परत और अपेक्षित अनुशासन](#82-definitional-layer-and-required-disciplines), [§8.3 अस्पष्टता समाधान](#83-ambiguity-resolution), [§8.4 संवैधानिक अर्थ संघर्ष समाधान](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing) से [15. एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#15-integrated-application) तक; मूल्य-टकराव प्रक्रिया के लिए [6. प्रक्रिया संघर्ष समाधान](#6-process-conflict-resolution); [अध्याय छह: आधारभूत अधिकार](../../core_06_rights_part_a.md#chapter-six-foundational-rights) गैर-संकुचन डिफ़ॉल्ट।
-- साथ पढ़ें: [अध्याय दो से चार](core_02_definition_structure.md) और [अध्याय पाँच](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — इस अध्याय के प्रत्येक पद की व्याख्यात्मक और साक्ष्य परत।
+- साथ पढ़ें: [अध्याय दो से चार](core_02_definition_structure.md) और [अध्याय पाँच](core_05__definitions_home.md#chapter-five-foundational-definitions) — इस अध्याय के प्रत्येक पद की व्याख्यात्मक और साक्ष्य परत।
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) और [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — एकीकृत-मूल्य ढाँचे की व्याख्यात्मक पृष्ठभूमि; जहाँ तात्विक रूप से प्रासंगिक हो [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग।
 - साथ पढ़ें: [प्राधिकार ढेर और आंतरिक पदानुक्रम](../../core_05_band_integrative.md#authority-stack) (*स्रोत-परत स्थिति*); [अध्याय सोलह](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*अभिरक्षा, संस्करण, अंगीकार ढाँचा* — दूसरा संघर्ष-क्रम घर नहीं); [अध्याय तेरह](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) और [अध्याय चौदह](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*§8.4 के अधीन गैर-पश्चगमन और अंगीकारकर्ता पदानुक्रम द्वार*)।
 - साथ पढ़ें: संस्थागत व्याख्या सुरक्षाओं के लिए [अनुच्छेद XXII: संवैधानिक व्याख्या, समीक्षा और कब्ज़ा-निरोध सुरक्षाएँ](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (इस अनुभाग का स्थानापन्न नहीं)।
@@ -636,7 +636,7 @@
 
 - [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [लेखापरीक्षा-योग्यता](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [जवाबदेही](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [जवाबदेही](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -798,7 +798,7 @@
 
 इस उपखंड का संयुक्त-संतुष्टि नियम **एक से अधिक कैसे-करें फ़ाइल** के उन्हीं तथ्यों पर लागू होने के बारे में है। यह वही नहीं है जो:
 - समाविष्ट संयुक्त-संरचना पाठ में **अकेले** संक्रियात्मक समूह का नियम, जहाँ उस समूह का केवल भाग करना अनुपालन नहीं गिना जाता — देखें **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*संक्रियात्मक समूह*); या
-- अध्याय पाँच का नियम कि **आश्रित समूह** परिभाषाएँ साथ पूरी होनी चाहिए — देखें **[संयुक्त आह्वान और संतुष्टि](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**।
+- अध्याय पाँच का नियम कि **आश्रित समूह** परिभाषाएँ साथ पूरी होनी चाहिए — देखें **[संयुक्त आह्वान और संतुष्टि](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**।
 
 **यह उपखंड कब लागू होता है।** ये नियम **[अध्याय सोलह](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** के अधीन वैध अंगीकार और समावेश दायरे के भीतर इन मामलों में से किसी में लागू होते हैं:
 

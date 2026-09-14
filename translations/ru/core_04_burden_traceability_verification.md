@@ -10,7 +10,7 @@
 >
 > **Предыдущий (этот язык):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **Следующий (ещё на английском):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **Следующий (на этом языке):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **Дуга чтения:** §1 распределение бремени → §2 карта трассировки → §3 наблюдаемость → §4 пределы безопасности → §5 стандарт доказательств → §6 граница слоя сертификации согласования (неоперативное).
 
 </details>
@@ -224,6 +224,6 @@
 
 **Предыдущий файл (этот язык):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**Следующий файл (ещё на английском):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**Следующий файл (на этом языке):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **Связывающий оригинал:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

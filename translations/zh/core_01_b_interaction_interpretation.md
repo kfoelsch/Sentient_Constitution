@@ -31,7 +31,7 @@
 **第五章代理定义**（O/M/A/C 满足 — 在具有实质相关性时，在第二至四章下溯源）：
 
 - [福祉](../../core_05_band_continuity.md#wellbeing)（繁盛宗旨）
-- [监督](../../core_05_band_accountability.md#oversight)、[问责](../../core_05_apex_accountability_leg.md#accountability)、[可质疑性](../../core_05_band_accountability.md#contestability)、[治理](../../core_05_band_accountability.md#governance)、[按分类缩放的治理](../../core_05_band_oversight.md#classification-scaled-governance)
+- [监督](../../core_05_band_accountability.md#oversight)、[问责](core_05_apex_accountability_leg.md#accountability)、[可质疑性](../../core_05_band_accountability.md#contestability)、[治理](../../core_05_band_accountability.md#governance)、[按分类缩放的治理](../../core_05_band_oversight.md#classification-scaled-governance)
 - [实质](../../core_05_band_oversight.md#material)、[实质影响](../../core_05_band_oversight.md#material-impact)、[实质风险](../../core_05_band_oversight.md#material-risk)、[实质性认定](../../core_05_band_oversight.md#materiality-determination)（控件将其标为**实质性**）、[系统性实质性](../../core_05_band_accountability.md#systemic-materiality) — 簇：[实质性、影响、风险与替代指标完整性](../../core_05_band_oversight.md#materiality-semi-independent)
 
 **第五章 §3 主要依赖簇**（联合调用组 — 在具有实质相关性时与第二至四章一并阅读）：
@@ -213,7 +213,7 @@
 - [系统性锁定套牢](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
 - [可逆性](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [依赖](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [问责](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [监督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
@@ -226,7 +226,7 @@
 
 **分类底线。** 任何系统都不得以低于其最高适用分类所要求的层级被治理。较低的行政标签，不能降低最高适用的风险、依赖、权利或系统影响分类所要求的审查。
 
-**按权威缩放的应答义务。** 相称性也禁止对持有更大获授权权力、有后果角色或机构影响力者的治理不足：[问责](../../core_05_apex_accountability_leg.md#accountability)与[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)强度必须随该权威上升，而不是下降。
+**按权威缩放的应答义务。** 相称性也禁止对持有更大获授权权力、有后果角色或机构影响力者的治理不足：[问责](core_05_apex_accountability_leg.md#accountability)与[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)强度必须随该权威上升，而不是下降。
 
 **提高的门槛。** 凡行动引入不可逆伤害、系统性锁定套牢、生存风险，或生态恢复能力不可逆丧失之风险之处，系统必须适用提高的正当化、审查门槛，并在可行之处适用可逆性门槛。
 
@@ -608,7 +608,7 @@
 
 - 上游：[序言 — 宪法四元](core_00_preamble.md#constitutional-tetrad)；[实质利害](core_00_preamble.md#material-stake)缩放经各节溯源适用于全章。
 - 下游：[§8.1 宪法不绕过原则](#81-constitutional-no-bypass-principle)、[§8.2 定义层与必要纪律](#82-definitional-layer-and-required-disciplines)、[§8.3 歧义解决](#83-ambiguity-resolution)、[§8.4 宪法含义冲突解决](#84-constitutional-meaning-conflict-resolution)（[§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)）；[2. 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing) 至 [15. 综合适用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)；[6. 过程冲突解决](#6-process-conflict-resolution)，用于价值碰撞程序；[第六章：基础权利](../../core_06_rights_part_a.md#chapter-six-foundational-rights)的不收缩默认。
-- 一并阅读：[第二至四章](core_02_definition_structure.md)与[第五章](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — 本章每一用语的解释与证据层。
+- 一并阅读：[第二至四章](core_02_definition_structure.md)与[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) — 本章每一用语的解释与证据层。
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad)与[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — 整合价值框架的解释背景；凡具有实质相关性之处，[实质利害](core_00_preamble.md#material-stake)缩放。
 - 一并阅读：[权威栈与内部层级](../../core_05_band_integrative.md#authority-stack)（《源层地位》）；[第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)（《保管、版本与采纳框架》 — 不是第二冲突顺序家园）；[第十三章](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)与[第十四章](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)（§8.4 下的不回撤与采纳方层级门）。
 - 一并阅读：[Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)，用于机构解释保障（不是本节的替代）。
@@ -637,7 +637,7 @@
 
 - [可质疑性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [可审计性](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [问责](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -799,7 +799,7 @@
 
 本分节的合并满足规则，是关于**不止一份操作办法文件**适用于同一事实。它不同于：
 - 纳入的联合结构文本中**单一**操作簇的规则 — 只做该簇的一部分并不算遵从 — 见 **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)**（《操作簇》）；或
-- 第五章规则：**依赖簇**定义必须一并满足 — 见 **[联合调用与满足](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**。
+- 第五章规则：**依赖簇**定义必须一并满足 — 见 **[联合调用与满足](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**。
 
 **本分节何时适用。** 这些规则在 **[第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** 下的有效采纳与纳入范围之内，于下列任一情形适用：
 

@@ -10,7 +10,7 @@
 >
 > **पिछला (इस लोकेल में):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
-> **अगला (अभी अंग्रेज़ी में):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+> **अगला (इस भाषा में):** [core_05__definitions_home.md](core_05__definitions_home.md)
 > **पढ़ने का चाप:** §1 भार आवंटन → §2 अनुरेख मानचित्र → §3 प्रेक्षणीयता → §4 सुरक्षा सीमाएँ → §5 साक्ष्य मानक → §6 प्रमाणन परत सीमा (गैर-संक्रियात्मक)
 
 </details>
@@ -224,6 +224,6 @@
 
 **पिछली फ़ाइल (इस भाषा में):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**अगली फ़ाइल (अभी अंग्रेज़ी में):** [core_05__definitions_home.md](../../core_05__definitions_home.md)
+**अगली फ़ाइल (इस भाषा में):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
 **बाध्यकारी मूल:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)

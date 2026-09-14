@@ -40,7 +40,7 @@
 - <a id="flourishing"></a>**繁盛** — 通过真理、安全、可信与有意义的能动性而得以持续的感知者福祉
 - <a id="continuity"></a>**延续** — 长时域稳定、可持续、韧性与生态福祉
 
-这些宗旨必须一并追求，始终处于本宪法所确立的不可妥协原则约束与权利保护之内。[**宪法四元**](#constitutional-tetrad)规定这一追求如何保持正当：按[**实质利害**](#material-stake)缩放的**参与**、**监督**、**问责**与**及时性**。四元各腿与宪法宗旨的约束性定义在第五章：[参与](../../core_05_apex_participation_leg.md#participation-constitutional)、[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)、[问责](../../core_05_apex_accountability_leg.md#accountability)、[及时性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)、[繁盛](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)、[延续](../../core_05_apex_continuity_aim.md#continuity-aim-constitutional)。
+这些宗旨必须一并追求，始终处于本宪法所确立的不可妥协原则约束与权利保护之内。[**宪法四元**](#constitutional-tetrad)规定这一追求如何保持正当：按[**实质利害**](#material-stake)缩放的**参与**、**监督**、**问责**与**及时性**。四元各腿与宪法宗旨的约束性定义在第五章：[参与](../../core_05_apex_participation_leg.md#participation-constitutional)、[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)、[问责](core_05_apex_accountability_leg.md#accountability)、[及时性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)、[繁盛](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)、[延续](../../core_05_apex_continuity_aim.md#continuity-aim-constitutional)。
 
 <a id="2-the-measurements"></a>
 
@@ -57,7 +57,7 @@
 
 测量必须可追溯到这些宗旨以及本宪法确立的权利保护。原始吞吐量、利用率、人数、收入、延迟或其他图方便的替代指标，在可预见[替代指标偏离](../../core_05_band_oversight.md#proxy-divergence)之处，不能代替宪法绩效。
 
-下列概览列出映射到[两项宪法宗旨](#two-constitutional-aims)与[宪法四元](#constitutional-tetrad)的测量**类别**。每一类有一个直白问题与具名**子类**。每一类链到其**第五章测量族家园** — 族表、宪法用途与定义路由所在之处 — 每一子类链到其第五章典范定义。**实质性**不是单独的测量类别。它根据[**实质利害**](#material-stake)设定下列每一类适用的强度 — 涉及多少影响、依赖与风险。**宪法绩效**是横断的 — 对两项宗旨都是工具。用[第五章测量对照](../../core_05__definitions_home.md#chapter-five-measurement-crosswalk)从下列各类追溯典范家园。
+下列概览列出映射到[两项宪法宗旨](#two-constitutional-aims)与[宪法四元](#constitutional-tetrad)的测量**类别**。每一类有一个直白问题与具名**子类**。每一类链到其**第五章测量族家园** — 族表、宪法用途与定义路由所在之处 — 每一子类链到其第五章典范定义。**实质性**不是单独的测量类别。它根据[**实质利害**](#material-stake)设定下列每一类适用的强度 — 涉及多少影响、依赖与风险。**宪法绩效**是横断的 — 对两项宗旨都是工具。用[第五章测量对照](core_05__definitions_home.md#chapter-five-measurement-crosswalk)从下列各类追溯典范家园。
 
 | 类别 | 直白问题 | 子类 |
 |---|---|---|
@@ -65,7 +65,7 @@
 | **[延续](../../core_05_apex_continuity_aim.md#continuity-measurement-family)** | 感知者与系统能否持久 — 在生态上、可靠地、并穿越失败？ | [生态足迹与环境前提](../../core_05_band_continuity.md#ecological-footprint) · [韧性、可逆性与系统风险](../../core_05_band_continuity.md#reversibility-constitutional) · [依赖与资源流](../../core_05_band_continuity.md#dependency) · [跨系统支持](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | **[参与](../../core_05_apex_participation_leg.md#participation-measurement-family)** | 受影响的感知者能否公平参与 — 声音、通路、学习与隐私？ | [公平、通路与能动性](../../core_05_band_participation.md#substantive-fairness-constitutional) · [隐私与数据的尽责管理](../../core_05_band_continuity.md#privacy-informational-cluster) |
 | **[监督](../../core_05_apex_oversight_leg.md#oversight-measurement-family)** | 感知者能否看见、核实并信赖系统所声称的？ | [真理与事实诚实](../../core_05_band_oversight.md#truth-constitutional-constraint) · [可信](../../core_05_band_continuity.md#trustworthiness) |
-| **[问责](../../core_05_apex_accountability_leg.md#accountability-measurement-family)** | 奖惩结构、市场力量与应答义务是否让义务保持真实？ | [激励对齐与替代指标诚实](../../core_05_band_integrative.md#incentive-alignment) · [市场结构与可竞争性](../../core_05_band_accountability.md#market-structure-constitutional) |
+| **[问责](core_05_apex_accountability_leg.md#accountability-measurement-family)** | 奖惩结构、市场力量与应答义务是否让义务保持真实？ | [激励对齐与替代指标诚实](../../core_05_band_integrative.md#incentive-alignment) · [市场结构与可竞争性](../../core_05_band_accountability.md#market-structure-constitutional) |
 | **[及时性](../../core_05_apex_timeliness_leg.md#timeliness-measurement-family)** | 争议、纠正与修复是否在救济仍要紧时得到解决？ | [及时解决](../../core_05_band_accountability.md#timely-resolution-constitutional) · [反拖延与解决路径纪律](../../core_05_band_accountability.md#capture-of-resolution-pathways) |
 | **[宪法绩效](../../core_05_band_performance.md#performance-measurement-family)** | 宪法成果是否高效交付且无无谓浪费？ | [宪法效率](../../core_05_band_continuity.md#constitutional-efficiency) · [可避免负担](../../core_05_band_continuity.md#avoidable-burden) · [生产能力](../../core_05_band_continuity.md#productive-capacity-constitutional) |
 
@@ -150,7 +150,7 @@
 - **其职掌：** 把证明负担放在主张合规的人身上；要求可追溯证据、可观察性，以及按[**实质利害**](#material-stake)缩放、并在实践中仍可质疑的核验。
 - **其产出：** 向[第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)输送**经核实的输入**、向[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)输送系统对齐证据的核验链 — 而不取代轨迹测量本身。
 
-**第五章 — 基础定义**（[`core_05__definitions_home.md`](../../core_05__definitions_home.md#chapter-five-foundational-definitions)）
+**第五章 — 基础定义**（[`core_05__definitions_home.md`](core_05__definitions_home.md#chapter-five-foundational-definitions)）
 
 - **其职掌：** 提供典范定义栈 — 监督、参与、问责、延续与整合带 — 外加[权威栈与内部层级](../../core_05_band_integrative.md#authority-stack)、[文本库](../../core_05_band_integrative.md#corpus)及相关边界规则。
 - **其产出：** 用于解释、审计与裁断的精确宪法词汇。它是**定义栈**，不是权利底线；有约束力的权利在第六章。文书整体的主责领域路由住在本序言登记（第 4–7 节）。
