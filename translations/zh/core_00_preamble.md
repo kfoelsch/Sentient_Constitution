@@ -40,7 +40,7 @@
 - <a id="flourishing"></a>**繁盛** — 通过真理、安全、可信与有意义的能动性而得以持续的感知者福祉
 - <a id="continuity"></a>**延续** — 长时域稳定、可持续、韧性与生态福祉
 
-这些宗旨必须一并追求，始终处于本宪法所确立的不可妥协原则约束与权利保护之内。[**宪法四元**](#constitutional-tetrad)规定这一追求如何保持正当：按[**实质利害**](#material-stake)缩放的**参与**、**监督**、**问责**与**及时性**。四元各腿与宪法宗旨的约束性定义在第五章：[参与](../../core_05_apex_participation_leg.md#participation-constitutional)、[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)、[问责](core_05_apex_accountability_leg.md#accountability)、[及时性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)、[繁盛](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)、[延续](core_05_apex_continuity_aim.md#continuity-aim-constitutional)。
+这些宗旨必须一并追求，始终处于本宪法所确立的不可妥协原则约束与权利保护之内。[**宪法四元**](#constitutional-tetrad)规定这一追求如何保持正当：按[**实质利害**](#material-stake)缩放的**参与**、**监督**、**问责**与**及时性**。四元各腿与宪法宗旨的约束性定义在第五章：[参与](../../core_05_apex_participation_leg.md#participation-constitutional)、[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)、[问责](core_05_apex_accountability_leg.md#accountability)、[及时性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)、[繁盛](core_05_apex_flourishing_aim.md#flourishing-constitutional)、[延续](core_05_apex_continuity_aim.md#continuity-aim-constitutional)。
 
 <a id="2-the-measurements"></a>
 
@@ -61,7 +61,7 @@
 
 | 类别 | 直白问题 | 子类 |
 |---|---|---|
-| **[繁盛](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family)** | 感知者是否真正在生命、安全与必要资源通路上得到支撑？ | [福祉](../../core_05_band_continuity.md#wellbeing) · [安全、伤害与风险](../../core_05_band_continuity.md#safety-constraint) · [生存底线通路](../../core_05_band_continuity.md#bodily-maintenance-access-constitutional) |
+| **[繁盛](core_05_apex_flourishing_aim.md#flourishing-measurement-family)** | 感知者是否真正在生命、安全与必要资源通路上得到支撑？ | [福祉](../../core_05_band_continuity.md#wellbeing) · [安全、伤害与风险](../../core_05_band_continuity.md#safety-constraint) · [生存底线通路](../../core_05_band_continuity.md#bodily-maintenance-access-constitutional) |
 | **[延续](core_05_apex_continuity_aim.md#continuity-measurement-family)** | 感知者与系统能否持久 — 在生态上、可靠地、并穿越失败？ | [生态足迹与环境前提](../../core_05_band_continuity.md#ecological-footprint) · [韧性、可逆性与系统风险](../../core_05_band_continuity.md#reversibility-constitutional) · [依赖与资源流](../../core_05_band_continuity.md#dependency) · [跨系统支持](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | **[参与](../../core_05_apex_participation_leg.md#participation-measurement-family)** | 受影响的感知者能否公平参与 — 声音、通路、学习与隐私？ | [公平、通路与能动性](../../core_05_band_participation.md#substantive-fairness-constitutional) · [隐私与数据的尽责管理](../../core_05_band_continuity.md#privacy-informational-cluster) |
 | **[监督](../../core_05_apex_oversight_leg.md#oversight-measurement-family)** | 感知者能否看见、核实并信赖系统所声称的？ | [真理与事实诚实](../../core_05_band_oversight.md#truth-constitutional-constraint) · [可信](../../core_05_band_continuity.md#trustworthiness) |

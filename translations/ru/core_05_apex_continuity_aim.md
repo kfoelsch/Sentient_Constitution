@@ -12,7 +12,7 @@
 >
 > **Предыдущий (этот язык):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 >
-> **Следующий (ещё на английском):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+> **Следующий (на этом языке):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 > **Дуга чтения:** Что это / Как измерять и оценивать / Что должно держаться → декомпозиция цели → семья измерений.
 
 </details>
@@ -22,7 +22,7 @@
 
 - Исход: [Компас Главы пятой](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Две конституционные цели](core_00_preamble.md#two-constitutional-aims); цель простым языком в [Преамбуле §1](core_00_preamble.md#continuity).
 - Назначение: Принципы: [Глава первая §4.1 Устойчивость и самовосстанавливающийся дизайн](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 Способность общих систем](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 Дисциплина заявлений о конституционных исходах](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Декомпозиция конституционной цели](#continuity-aim-decomposition); тематические группы Преемственности в [core_05_band_continuity.md](../../core_05_band_continuity.md).
-- Читать вместе с: [Ответственное управление](../../core_05_band_continuity.md#stewardship-constitutional), [Дефект ответственного управления](../../core_05_band_continuity.md#stewardship-defect-constitutional), [Экологическая целостность](../../core_05_band_continuity.md#ecological-integrity-constitutional), [Зависимость](../../core_05_band_continuity.md#dependency), [Расхождение заместительных показателей](../../core_05_band_oversight.md#proxy-divergence), [Экзистенциальный риск](../../core_05_band_continuity.md#existential-risk), [Каскадный сбой](../../core_05_band_continuity.md#cascading-failure), [Расцвет](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) (парная цель — ни одну нельзя преследовать за счёт другой; преследование краткосрочных выгод, которые выхолащивают **участие**, **надзор**, **подотчётность** или **своевременность** ниже того, что требует [материальная ставка](core_00_preamble.md#material-stake), проваливает **Преемственность**, даже если ближние исходы растут), [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad), масштабированная к [материальной ставке](core_00_preamble.md#material-stake) (как Преемственность остаётся легитимной — не пятый строительный блок), семья измерений Преемственности и [алфавитный каталог Главы пятой](core_05__definitions_home.md#chapter-five-alphabetical-directory).
+- Читать вместе с: [Ответственное управление](../../core_05_band_continuity.md#stewardship-constitutional), [Дефект ответственного управления](../../core_05_band_continuity.md#stewardship-defect-constitutional), [Экологическая целостность](../../core_05_band_continuity.md#ecological-integrity-constitutional), [Зависимость](../../core_05_band_continuity.md#dependency), [Расхождение заместительных показателей](../../core_05_band_oversight.md#proxy-divergence), [Экзистенциальный риск](../../core_05_band_continuity.md#existential-risk), [Каскадный сбой](../../core_05_band_continuity.md#cascading-failure), [Расцвет](core_05_apex_flourishing_aim.md#flourishing-constitutional) (парная цель — ни одну нельзя преследовать за счёт другой; преследование краткосрочных выгод, которые выхолащивают **участие**, **надзор**, **подотчётность** или **своевременность** ниже того, что требует [материальная ставка](core_00_preamble.md#material-stake), проваливает **Преемственность**, даже если ближние исходы растут), [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad), масштабированная к [материальной ставке](core_00_preamble.md#material-stake) (как Преемственность остаётся легитимной — не пятый строительный блок), семья измерений Преемственности и [алфавитный каталог Главы пятой](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
 
@@ -55,7 +55,7 @@
     - использовать **Преемственность**, чтобы навсегда откладывать исправления;
     - трактовать «стабильность» как соответствие, когда она покоится на скрытом сбросе риска, необратимом вреде или перекладывании экологических нагрузок на других;
     - использовать обычную речь «держать свет включённым», чтобы блокировать [Оспоримость](../../core_05_band_accountability.md#contestability) или [Своевременное разрешение](../../core_05_band_accountability.md#timely-resolution-constitutional); или
-    - преследовать **Преемственность** так, что это материально побеждает [Расцвет](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) без ясного разрешения под [Главой первой §6 Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+    - преследовать **Преемственность** так, что это материально побеждает [Расцвет](core_05_apex_flourishing_aim.md#flourishing-constitutional) без ясного разрешения под [Главой первой §6 Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
 
 ---
 
@@ -131,6 +131,6 @@
 
 **Предыдущий файл:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 
-**Следующий файл (ещё на английском):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+**Следующий файл (на этом языке):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
 **Связывающий оригинал:** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)

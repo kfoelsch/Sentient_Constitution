@@ -12,7 +12,7 @@
 >
 > **Précédent (cette langue) :** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 >
-> **Suivant (encore en anglais) :** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+> **Suivant (cette langue) :** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 > **Arc de lecture :** Ce que c’est / Comment mesurer et évaluer / Ce qui doit tenir → décomposition de la fin → famille de mesure.
 
 </details>
@@ -22,7 +22,7 @@
 
 - En amont : [Boussole du Chapitre cinq](core_05__definitions_home.md#chapter-five-compass-and-definition-map) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) ; fin en langage simple au [Préambule §1](core_00_preamble.md#continuity).
 - En aval : Principes : [Chapitre un §4.1 Résilience et conception d’auto-guérison](core_01_a_values_principles.md#41-resilience-and-self-healing-design) ; [§12 Capacité des systèmes partagés](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity) ; [§11.1.5 Discipline des revendications de résultats constitutionnels](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) ; [Décomposition de la Fin constitutionnelle](#continuity-aim-decomposition) ; groupes de thèmes de Continuité dans [core_05_band_continuity.md](../../core_05_band_continuity.md).
-- Lire avec : [Administration responsable](../../core_05_band_continuity.md#stewardship-constitutional), [Défaut d’administration responsable](../../core_05_band_continuity.md#stewardship-defect-constitutional), [Intégrité écologique](../../core_05_band_continuity.md#ecological-integrity-constitutional), [Dépendance](../../core_05_band_continuity.md#dependency), [Divergence d’indicateurs substituts](../../core_05_band_oversight.md#proxy-divergence), [Risque existentiel](../../core_05_band_continuity.md#existential-risk), [Défaillance en cascade](../../core_05_band_continuity.md#cascading-failure), [Épanouissement](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) (la fin jumelée — aucune ne peut être poursuivie aux dépens de l’autre ; poursuivre des gains à court terme qui vident la **participation**, la **supervision**, la **reddition de comptes** ou l’**action en temps** au-dessous de ce qu’exige l’[enjeu matériel](core_00_preamble.md#material-stake) échoue à la **Continuité**, même si les résultats de court terme montent), [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) mise à l’échelle de l’[enjeu matériel](core_00_preamble.md#material-stake) (comment la Continuité reste légitime — pas un cinquième bloc de construction), famille de mesure Continuité, et [répertoire alphabétique du Chapitre cinq](core_05__definitions_home.md#chapter-five-alphabetical-directory).
+- Lire avec : [Administration responsable](../../core_05_band_continuity.md#stewardship-constitutional), [Défaut d’administration responsable](../../core_05_band_continuity.md#stewardship-defect-constitutional), [Intégrité écologique](../../core_05_band_continuity.md#ecological-integrity-constitutional), [Dépendance](../../core_05_band_continuity.md#dependency), [Divergence d’indicateurs substituts](../../core_05_band_oversight.md#proxy-divergence), [Risque existentiel](../../core_05_band_continuity.md#existential-risk), [Défaillance en cascade](../../core_05_band_continuity.md#cascading-failure), [Épanouissement](core_05_apex_flourishing_aim.md#flourishing-constitutional) (la fin jumelée — aucune ne peut être poursuivie aux dépens de l’autre ; poursuivre des gains à court terme qui vident la **participation**, la **supervision**, la **reddition de comptes** ou l’**action en temps** au-dessous de ce qu’exige l’[enjeu matériel](core_00_preamble.md#material-stake) échoue à la **Continuité**, même si les résultats de court terme montent), [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) mise à l’échelle de l’[enjeu matériel](core_00_preamble.md#material-stake) (comment la Continuité reste légitime — pas un cinquième bloc de construction), famille de mesure Continuité, et [répertoire alphabétique du Chapitre cinq](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
 
@@ -55,7 +55,7 @@
     - utiliser la **Continuité** pour ajourner les corrections pour toujours ;
     - traiter la « stabilité » comme conforme lorsqu’elle repose sur un déversement caché de risque, un préjudice irréversible, ou le déplacement de charges écologiques sur d’autres ;
     - utiliser le parler ordinaire de « garder les lumières allumées » pour bloquer la [Contestabilité](../../core_05_band_accountability.md#contestability) ou la [Résolution en temps](../../core_05_band_accountability.md#timely-resolution-constitutional) ; ou
-    - poursuivre la **Continuité** d’une façon qui fasse matériellement échec à l’[Épanouissement](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) sans permission claire sous le [Chapitre un §6 Résolution des conflits de processus](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+    - poursuivre la **Continuité** d’une façon qui fasse matériellement échec à l’[Épanouissement](core_05_apex_flourishing_aim.md#flourishing-constitutional) sans permission claire sous le [Chapitre un §6 Résolution des conflits de processus](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
 
 ---
 
@@ -131,6 +131,6 @@ Les règles détaillées de comment mesurer vivent sur chaque définition liée.
 
 **Fichier précédent :** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 
-**Fichier suivant (encore en anglais) :** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+**Fichier suivant (cette langue) :** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
 **Original contraignant :** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)

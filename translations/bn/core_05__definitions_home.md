@@ -186,7 +186,7 @@
 - [ন্যায্য ক্ষতিপূরণ](../../core_05_band_continuity.md#fair-compensation-constitutional)
 - [পারিবারিক ও যত্ন সম্পর্ক](../../core_05_band_participation.md#family-and-care-relationships-constitutional)
 - [সম্ভাব্যতা](../../core_05_band_accountability.md#feasibility)
-- [সমুন্নতি](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)
+- [সমুন্নতি](core_05_apex_flourishing_aim.md#flourishing-constitutional)
 - [অপ্রতিরোধ্য বল](../../core_05_band_accountability.md#force-majeure-constitutional)
 - [পূর্বদৃশ্যতা সতর্কতা](../../core_05_band_oversight.md#foreseeability-diligence)
 - [মঞ্চ-ঘটনা নথি](../../core_05_band_accountability.md#forum-case-record)
@@ -387,7 +387,7 @@
 
 | পটি | ফাইল | **Def.** গুচ্ছ পরিসর |
 |---|---|---|
-| **সমুন্নতি উদ্দেশ্য** | [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md) | শুধু উদ্দেশ্য-ক্রম মানচিত্র — পাতা সংজ্ঞা পটি ফাইলে |
+| **সমুন্নতি উদ্দেশ্য** | [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md) | শুধু উদ্দেশ্য-ক্রম মানচিত্র — পাতা সংজ্ঞা পটি ফাইলে |
 | **সাতত্য উদ্দেশ্য** | [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) | শুধু উদ্দেশ্য-ক্রম মানচিত্র — পাতা সংজ্ঞা পটি ফাইলে |
 | **তত্ত্বাবধান পা** | [core_05_band_oversight.md](../../core_05_band_oversight.md) | **Def.O1–Def.O2** |
 | **অংশগ্রহণ পা** | [core_05_band_participation.md](../../core_05_band_participation.md) | **Def.P1–Def.P4** |
@@ -415,7 +415,7 @@
 
 | প্রস্তাবনা শ্রেণি | সহজ প্রশ্ন | অধ্যায় পাঁচ পটি ঘর | বিভক্ত-স্থাপন টীকা |
 |---|---|---|---|
-| [সমুন্নতি পরিমাপ পরিবার](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family) | সংজ্ঞ প্রাণী কি জীবন, নিরাপত্তা ও প্রয়োজনীয় জিনিসের পথে টিকে আছে? | [সমুন্নতি উদ্দেশ্য](../../core_05_apex_flourishing_aim.md), [অংশগ্রহণ](../../core_05_band_participation.md), [সাতত্য](../../core_05_band_continuity.md), [জবাবদিহি](../../core_05_band_accountability.md) | **সমুন্নতি** এক সাংবিধানিক **উদ্দেশ্য**, চতুষ্কের পা নয় — [সাংবিধানিক উদ্দেশ্য বিভাজন মানচিত্র](../../core_05_apex_flourishing_aim.md#flourishing-aim-decomposition); পাতা প্রাথমিকে নিরেট মাপ: [কল্যাণ](../../core_05_band_continuity.md#wellbeing) (প্রাথমিক ফল), [নিরাপত্তা (বন্ধন)](../../core_05_band_continuity.md#safety-constraint), বেঁচে থাকার তলের পদ, [ক্ষতি](../../core_05_band_accountability.md#harm) |
+| [সমুন্নতি পরিমাপ পরিবার](core_05_apex_flourishing_aim.md#flourishing-measurement-family) | সংজ্ঞ প্রাণী কি জীবন, নিরাপত্তা ও প্রয়োজনীয় জিনিসের পথে টিকে আছে? | [সমুন্নতি উদ্দেশ্য](core_05_apex_flourishing_aim.md), [অংশগ্রহণ](../../core_05_band_participation.md), [সাতত্য](../../core_05_band_continuity.md), [জবাবদিহি](../../core_05_band_accountability.md) | **সমুন্নতি** এক সাংবিধানিক **উদ্দেশ্য**, চতুষ্কের পা নয় — [সাংবিধানিক উদ্দেশ্য বিভাজন মানচিত্র](core_05_apex_flourishing_aim.md#flourishing-aim-decomposition); পাতা প্রাথমিকে নিরেট মাপ: [কল্যাণ](../../core_05_band_continuity.md#wellbeing) (প্রাথমিক ফল), [নিরাপত্তা (বন্ধন)](../../core_05_band_continuity.md#safety-constraint), বেঁচে থাকার তলের পদ, [ক্ষতি](../../core_05_band_accountability.md#harm) |
 | [সাতত্য পরিমাপ পরিবার](core_05_apex_continuity_aim.md#continuity-measurement-family) | সংজ্ঞ প্রাণী ও ব্যবস্থা কি টিকতে পারে — পরিবেশগতভাবে, নির্ভরযোগ্যভাবে, এবং ব্যর্থতার ওপার দিয়ে? | [সাতত্য উদ্দেশ্য](core_05_apex_continuity_aim.md), [সাতত্য](../../core_05_band_continuity.md) | **সাতত্য** এক সাংবিধানিক **উদ্দেশ্য**, চতুষ্কের পা নয় — [সাংবিধানিক উদ্দেশ্য বিভাজন মানচিত্র](core_05_apex_continuity_aim.md#continuity-aim-decomposition); **সাতত্য** পটির পাতা প্রাথমিকে নিরেট মাপ: [পরিবেশগত পদচিহ্ন](../../core_05_band_continuity.md#ecological-footprint), [নির্ভরতা](../../core_05_band_continuity.md#dependency), [উল্টানো যায় এমনতা](../../core_05_band_continuity.md#reversibility-constitutional), [স্থায়িত্ব](../../core_05_band_continuity.md#sustainability), [আনুপাতিক আন্তঃব্যবস্থা অবদান](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | [অংশগ্রহণ পরিমাপ পরিবার](../../core_05_apex_participation_leg.md#participation-measurement-family) | প্রভাবিত সংজ্ঞ প্রাণী কি ন্যায্যভাবে অংশ নিতে পারে — কণ্ঠ, পথ, শেখা ও গোপনীয়তা? | [অংশগ্রহণ](../../core_05_band_participation.md), [সাতত্য](../../core_05_band_continuity.md) | ন্যায্যতা, পথ ও কর্তৃত্বের পদ **অংশগ্রহণ** পটিতে; [গোপনীয়তা (তথ্যগত)](../../core_05_band_continuity.md#privacy-informational-cluster) গুচ্ছ **সাতত্য** পটিতে কারণ গোপনীয়তা অধিকার অনুচ্ছেদ জুড়ে বণ্টিত |
 | [তত্ত্বাবধান পরিমাপ পরিবার](../../core_05_apex_oversight_leg.md#oversight-measurement-family) | সংজ্ঞ প্রাণী কি দেখতে, যাচাই করতে ও বিশ্বাস করতে পারে ব্যবস্থা কী দেখায়? | [তত্ত্বাবধান](../../core_05_band_oversight.md), [সাতত্য](../../core_05_band_continuity.md) | সত্য ও জ্ঞানতাত্ত্বিক সততার প্রাথমিক **তত্ত্বাবধান** পটিতে (শুধু-লিঙ্ক পা-প্রধান রোলআপ [তত্ত্বাবধান](../../core_05_apex_oversight_leg.md#oversight-constitutional)); [বিশ্বাসযোগ্যতা](../../core_05_band_continuity.md#trustworthiness) ও [বিশ্বাস অবনতি ও বিভ্রান্তিকর নির্ভরতা](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) **সাতত্য** পটিতে (**Def.C4**) |

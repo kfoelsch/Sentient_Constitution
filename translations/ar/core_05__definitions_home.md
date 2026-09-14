@@ -186,7 +186,7 @@
 - [التعويض العادل](../../core_05_band_continuity.md#fair-compensation-constitutional)
 - [علاقات الأسرة والرعاية](../../core_05_band_participation.md#family-and-care-relationships-constitutional)
 - [الجدوى](../../core_05_band_accountability.md#feasibility)
-- [الازدهار](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)
+- [الازدهار](core_05_apex_flourishing_aim.md#flourishing-constitutional)
 - [القوة القاهرة](../../core_05_band_accountability.md#force-majeure-constitutional)
 - [عناية قابلية التوقع](../../core_05_band_oversight.md#foreseeability-diligence)
 - [سجل قضية المنتدى](../../core_05_band_accountability.md#forum-case-record)
@@ -387,7 +387,7 @@
 
 | النطاق | الملف | نطاق عناقيد **Def.** |
 |---|---|---|
-| **مقصد الازدهار** | [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md) | خريطة تراتب المقصد فقط — التعريفات الطرفية في ملفات النطاق |
+| **مقصد الازدهار** | [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md) | خريطة تراتب المقصد فقط — التعريفات الطرفية في ملفات النطاق |
 | **مقصد الاستمرارية** | [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) | خريطة تراتب المقصد فقط — التعريفات الطرفية في ملفات النطاق |
 | **رجل الرقابة** | [core_05_band_oversight.md](../../core_05_band_oversight.md) | **Def.O1–Def.O2** |
 | **رجل المشاركة** | [core_05_band_participation.md](../../core_05_band_participation.md) | **Def.P1–Def.P4** |
@@ -415,7 +415,7 @@
 
 | فئة Ch00 | السؤال البسيط | مواطن نطاق الفصل الخامس | ملاحظات التموضع المنقسم |
 |---|---|---|---|
-| [أسرة قياس الازدهار](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family) | هل تُحفَظ الكائنات الواعية في الحياة والسلامة والوصول إلى الضرورات؟ | [مقصد الازدهار](../../core_05_apex_flourishing_aim.md)، [المشاركة](../../core_05_band_participation.md)، [الاستمرارية](../../core_05_band_continuity.md)، [المساءلة](../../core_05_band_accountability.md) | **الازدهار** **مقصد** دستوري، لا رجل رباعية — [خريطة تفكيك المقصد الدستوري](../../core_05_apex_flourishing_aim.md#flourishing-aim-decomposition)؛ مقاييس ملموسة على الأوليات الطرفية: [العافية](../../core_05_band_continuity.md#wellbeing) (الناتج الأولي)، [السلامة (قيد)](../../core_05_band_continuity.md#safety-constraint)، مصطلحات أرضية البقاء، [الضرر](../../core_05_band_accountability.md#harm) |
+| [أسرة قياس الازدهار](core_05_apex_flourishing_aim.md#flourishing-measurement-family) | هل تُحفَظ الكائنات الواعية في الحياة والسلامة والوصول إلى الضرورات؟ | [مقصد الازدهار](core_05_apex_flourishing_aim.md)، [المشاركة](../../core_05_band_participation.md)، [الاستمرارية](../../core_05_band_continuity.md)، [المساءلة](../../core_05_band_accountability.md) | **الازدهار** **مقصد** دستوري، لا رجل رباعية — [خريطة تفكيك المقصد الدستوري](core_05_apex_flourishing_aim.md#flourishing-aim-decomposition)؛ مقاييس ملموسة على الأوليات الطرفية: [العافية](../../core_05_band_continuity.md#wellbeing) (الناتج الأولي)، [السلامة (قيد)](../../core_05_band_continuity.md#safety-constraint)، مصطلحات أرضية البقاء، [الضرر](../../core_05_band_accountability.md#harm) |
 | [أسرة قياس الاستمرارية](core_05_apex_continuity_aim.md#continuity-measurement-family) | هل تستطيع الكائنات الواعية والأنظمة أن تدوم — بيئيًا وعلى نحو يُعوَّل عليه وعبر الإخفاق؟ | [مقصد الاستمرارية](core_05_apex_continuity_aim.md)، [الاستمرارية](../../core_05_band_continuity.md) | **الاستمرارية** **مقصد** دستوري، لا رجل رباعية — [خريطة تفكيك المقصد الدستوري](core_05_apex_continuity_aim.md#continuity-aim-decomposition)؛ مقاييس ملموسة على الأوليات الطرفية في نطاق **الاستمرارية**: [البصمة البيئية](../../core_05_band_continuity.md#ecological-footprint)، [الاعتماد](../../core_05_band_continuity.md#dependency)، [القابلية للعكس](../../core_05_band_continuity.md#reversibility-constitutional)، [الاستدامة](../../core_05_band_continuity.md#sustainability)، [الإسهام المتناسب عبر الأنظمة](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | [أسرة قياس المشاركة](../../core_05_apex_participation_leg.md#participation-measurement-family) | هل تستطيع الكائنات الواعية المتأثرة أن تشارك بإنصاف — صوتًا ووصولًا وتعلّمًا وخصوصية؟ | [المشاركة](../../core_05_band_participation.md)، [الاستمرارية](../../core_05_band_continuity.md) | مصطلحات الإنصاف والوصول والوكالة في نطاق **المشاركة**؛ عنقود [الخصوصية (معلوماتية)](../../core_05_band_continuity.md#privacy-informational-cluster) في نطاق **الاستمرارية** لأن الخصوصية موزَّعة عبر مواد الحقوق |
 | [أسرة قياس الرقابة](../../core_05_apex_oversight_leg.md#oversight-measurement-family) | هل تستطيع الكائنات الواعية أن ترى وتتحقق وتعتمد على ما تمثّله الأنظمة؟ | [الرقابة](../../core_05_band_oversight.md)، [الاستمرارية](../../core_05_band_continuity.md) | أوليات الحقيقة والنزاهة المعرفية في نطاق **الرقابة** (تجميع رأس الرجل بروابط فقط [الرقابة](../../core_05_apex_oversight_leg.md#oversight-constitutional))؛ [الجدارة بالثقة](../../core_05_band_continuity.md#trustworthiness) و[تدهور الثقة والاعتماد المضلل](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) في نطاق **الاستمرارية** (**Def.C4**) |

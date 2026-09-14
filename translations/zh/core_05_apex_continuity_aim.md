@@ -12,7 +12,7 @@
 >
 > **上一篇（本语种）：** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 >
-> **下一篇（仍为英语）：** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+> **下一篇（本语言）：** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 > **阅读弧线：** 它是什么 / 如何测量与评估 / 必须成立什么 → 宗旨分解 → 测量族。
 
 </details>
@@ -22,7 +22,7 @@
 
 - 上游：[第五章指南针](core_05__definitions_home.md#chapter-five-compass-and-definition-map)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)；直白宗旨在[序言 §1](core_00_preamble.md#continuity)。
 - 下游：原则：[第一章 §4.1 韧性与自愈设计](core_01_a_values_principles.md#41-resilience-and-self-healing-design)；[§12 共享系统能力](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity)；[§11.1.5 宪法结果主张纪律](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)；[宪法宗旨分解](#continuity-aim-decomposition)；延续主题组在 [core_05_band_continuity.md](../../core_05_band_continuity.md)。
-- 一并阅读：[尽责管理](../../core_05_band_continuity.md#stewardship-constitutional)、[尽责管理缺陷](../../core_05_band_continuity.md#stewardship-defect-constitutional)、[生态完整性](../../core_05_band_continuity.md#ecological-integrity-constitutional)、[依赖](../../core_05_band_continuity.md#dependency)、[替代指标偏离](../../core_05_band_oversight.md#proxy-divergence)、[生存风险](../../core_05_band_continuity.md#existential-risk)、[级联失败](../../core_05_band_continuity.md#cascading-failure)、[繁盛](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)（成对宗旨 — 任何一项都不得以牺牲另一项为代价来追求；追求掏空**参与**、**监督**、**问责**或**及时性**、使其低于[实质利害](core_00_preamble.md#material-stake)所要求者的短期收益，即违背**延续**，即使近期产出上升）、按[实质利害](core_00_preamble.md#material-stake)缩放的[宪法四元](core_00_preamble.md#constitutional-tetrad)（延续如何保持正当 — 不是第五个构件）、延续测量族，以及[第五章字母目录](core_05__definitions_home.md#chapter-five-alphabetical-directory)。
+- 一并阅读：[尽责管理](../../core_05_band_continuity.md#stewardship-constitutional)、[尽责管理缺陷](../../core_05_band_continuity.md#stewardship-defect-constitutional)、[生态完整性](../../core_05_band_continuity.md#ecological-integrity-constitutional)、[依赖](../../core_05_band_continuity.md#dependency)、[替代指标偏离](../../core_05_band_oversight.md#proxy-divergence)、[生存风险](../../core_05_band_continuity.md#existential-risk)、[级联失败](../../core_05_band_continuity.md#cascading-failure)、[繁盛](core_05_apex_flourishing_aim.md#flourishing-constitutional)（成对宗旨 — 任何一项都不得以牺牲另一项为代价来追求；追求掏空**参与**、**监督**、**问责**或**及时性**、使其低于[实质利害](core_00_preamble.md#material-stake)所要求者的短期收益，即违背**延续**，即使近期产出上升）、按[实质利害](core_00_preamble.md#material-stake)缩放的[宪法四元](core_00_preamble.md#constitutional-tetrad)（延续如何保持正当 — 不是第五个构件）、延续测量族，以及[第五章字母目录](core_05__definitions_home.md#chapter-five-alphabetical-directory)。
 
 </details>
 
@@ -55,7 +55,7 @@
     - 用**延续**永远推迟修补；
     - 把「稳定」当作合规，当它建立在隐蔽风险倾倒、不可逆伤害或把生态负担转嫁给他人之上；
     - 用普通的「让灯一直亮着」话术去阻断[可质疑性](../../core_05_band_accountability.md#contestability)或[及时解决](../../core_05_band_accountability.md#timely-resolution-constitutional)；或
-    - 以实质击败[繁盛](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)的方式追求**延续**，而没有[第一章 §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)下的明确许可。
+    - 以实质击败[繁盛](core_05_apex_flourishing_aim.md#flourishing-constitutional)的方式追求**延续**，而没有[第一章 §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)下的明确许可。
 
 ---
 
@@ -131,6 +131,6 @@
 
 **上一文件：** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 
-**下一文件（仍为英语）：** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+**下一文件（本语言）：** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
 **有约束力的原文：** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)

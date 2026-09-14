@@ -12,7 +12,7 @@
 >
 > **Sebelumnya (lokal ini):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 >
-> **Berikutnya (masih bahasa Inggris):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+> **Berikutnya (bahasa ini):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 > **Alur baca:** Apa itu / Cara mengukur dan menilai / Apa yang harus berlaku → dekomposisi tujuan → keluarga pengukuran.
 
 </details>
@@ -22,7 +22,7 @@
 
 - Hulu: [Kompas Bab Lima](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims); tujuan dalam bahasa sederhana pada [Pembukaan §1](core_00_preamble.md#continuity).
 - Hilir: Prinsip: [Bab Satu §4.1 Ketahanan dan Rancangan Pulih Sendiri](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 Kapasitas Sistem Bersama](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 Disiplin Klaim Hasil Konstitusional](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Dekomposisi Tujuan Konstitusional](#continuity-aim-decomposition); kelompok topik Kesinambungan di [core_05_band_continuity.md](../../core_05_band_continuity.md).
-- Baca bersama: [Pengelolaan bertanggung jawab](../../core_05_band_continuity.md#stewardship-constitutional), [Cacat pengelolaan bertanggung jawab](../../core_05_band_continuity.md#stewardship-defect-constitutional), [Integritas ekologis](../../core_05_band_continuity.md#ecological-integrity-constitutional), [Ketergantungan](../../core_05_band_continuity.md#dependency), [Divergensi indikator pengganti](../../core_05_band_oversight.md#proxy-divergence), [Risiko eksistensial](../../core_05_band_continuity.md#existential-risk), [Kegagalan berantai](../../core_05_band_continuity.md#cascading-failure), [Berkembang](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) (tujuan berpasangan — tidak satu pun boleh dikejar dengan mengorbankan yang lain; mengejar keuntungan jangka pendek yang mengosongkan **partisipasi**, **pengawasan**, **pertanggungjawaban**, atau **ketepatan waktu** di bawah apa yang dituntut [taruhan material](core_00_preamble.md#material-stake) gagal **Kesinambungan**, meski keluaran jangka dekat naik), [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) diskalakan ke [taruhan material](core_00_preamble.md#material-stake) (cara Kesinambungan tetap sah — bukan blok bangunan kelima), keluarga pengukuran Kesinambungan, dan [direktori alfabetis Bab Lima](core_05__definitions_home.md#chapter-five-alphabetical-directory).
+- Baca bersama: [Pengelolaan bertanggung jawab](../../core_05_band_continuity.md#stewardship-constitutional), [Cacat pengelolaan bertanggung jawab](../../core_05_band_continuity.md#stewardship-defect-constitutional), [Integritas ekologis](../../core_05_band_continuity.md#ecological-integrity-constitutional), [Ketergantungan](../../core_05_band_continuity.md#dependency), [Divergensi indikator pengganti](../../core_05_band_oversight.md#proxy-divergence), [Risiko eksistensial](../../core_05_band_continuity.md#existential-risk), [Kegagalan berantai](../../core_05_band_continuity.md#cascading-failure), [Berkembang](core_05_apex_flourishing_aim.md#flourishing-constitutional) (tujuan berpasangan — tidak satu pun boleh dikejar dengan mengorbankan yang lain; mengejar keuntungan jangka pendek yang mengosongkan **partisipasi**, **pengawasan**, **pertanggungjawaban**, atau **ketepatan waktu** di bawah apa yang dituntut [taruhan material](core_00_preamble.md#material-stake) gagal **Kesinambungan**, meski keluaran jangka dekat naik), [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) diskalakan ke [taruhan material](core_00_preamble.md#material-stake) (cara Kesinambungan tetap sah — bukan blok bangunan kelima), keluarga pengukuran Kesinambungan, dan [direktori alfabetis Bab Lima](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
 
@@ -55,7 +55,7 @@
     - memakai **Kesinambungan** untuk menunda perbaikan selamanya;
     - memperlakukan «stabilitas» sebagai kepatuhan ketika ia bertumpu pada pembuangan risiko tersembunyi, bahaya yang tidak dapat dibalik, atau penggeseran beban ekologis ke pihak lain;
     - memakai omongan biasa «tetap nyalakan lampu» untuk memblokir [Dapat digugat](../../core_05_band_accountability.md#contestability) atau [Penyelesaian tepat waktu](../../core_05_band_accountability.md#timely-resolution-constitutional); atau
-    - mengejar **Kesinambungan** dengan cara yang secara material mengalahkan [Berkembang](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) tanpa izin jelas di bawah [Bab Satu §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+    - mengejar **Kesinambungan** dengan cara yang secara material mengalahkan [Berkembang](core_05_apex_flourishing_aim.md#flourishing-constitutional) tanpa izin jelas di bawah [Bab Satu §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
 
 ---
 
@@ -131,6 +131,6 @@ Aturan cara-mengukur rinci hidup pada setiap definisi tertaut.
 
 **Berkas sebelumnya:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 
-**Berkas berikutnya (masih bahasa Inggris):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+**Berkas berikutnya (bahasa ini):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
 **Sumber mengikat:** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)

@@ -12,7 +12,7 @@
 >
 > **முந்தையது (இந்த மொழியில்):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 >
-> **அடுத்தது (இன்னும் ஆங்கிலத்தில்):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+> **அடுத்தது (இந்த மொழியில்):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 > **வாசிப்பு வளைவு:** அது என்ன / எப்படி அளவிடவும் மதிப்பிடவும் / எது நிற்க வேண்டும் → நோக்கச் சிதைவு → அளவீட்டுக் குடும்பம்.
 
 </details>
@@ -22,7 +22,7 @@
 
 - மேல்வழி: [அத்தியாயம் ஐந்து திசைகாட்டி](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims); எளிய-மொழி நோக்கம் [முகவுரை §1](core_00_preamble.md#continuity)-இல்.
 - கீழ்வழி: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §4.1 மீள்திறனும் சுய-குணப்படுத்தல் வடிவமைப்பும்](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 பகிர்ந்த-அமைப்புத் திறன்](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 அரசியலமைப்பு விளைவுக் கூற்றுக் கட்டுப்பாடு](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [அரசியலமைப்பு நோக்கச் சிதைவு](#continuity-aim-decomposition); [core_05_band_continuity.md](../../core_05_band_continuity.md)-இல் தொடர்ச்சித் தலைப்புத் தொகுதிகள்.
-- இதனுடன் படிக்க: [பொறுப்பான நிர்வாகம்](../../core_05_band_continuity.md#stewardship-constitutional), [பொறுப்பான நிர்வாகக் குறை](../../core_05_band_continuity.md#stewardship-defect-constitutional), [சூழலியல் முழுமை](../../core_05_band_continuity.md#ecological-integrity-constitutional), [சார்பு](../../core_05_band_continuity.md#dependency), [பதிலீட்டு விலகல்](../../core_05_band_oversight.md#proxy-divergence), [இருப்பு இடர்](../../core_05_band_continuity.md#existential-risk), [தொடர் தோல்வி](../../core_05_band_continuity.md#cascading-failure), [செழிப்பு](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) (இணை நோக்கம் — எதையும் மற்றதன் செலவில் பின்தொடரக் கூடாது; குறுகிய கால ஆதாயங்களைப் பின்தொடர்ந்து **பங்கேற்பு**, **மேற்பார்வை**, **பொறுப்புக்கூறல்**, அல்லது **காலந்தவறாமையை** [பொருள் பங்கு](core_00_preamble.md#material-stake) கேட்பதற்குக் கீழே காலி செய்வது **தொடர்ச்சியை** தோல்வியுறச் செய்கிறது, அண்மைக்கால வெளியீடுகள் உயர்ந்தாலும்), [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) [பொருள் பங்கிற்கு](core_00_preamble.md#material-stake) அளவிடப்பட்டது (தொடர்ச்சி எப்படி சட்டபூர்வமாக இருக்கிறது — ஐந்தாவது கட்டுமானத் துண்டு அல்ல), தொடர்ச்சி அளவீட்டுக் குடும்பம், மற்றும் [அத்தியாயம் ஐந்து அகரவரிசை அடைவு](core_05__definitions_home.md#chapter-five-alphabetical-directory).
+- இதனுடன் படிக்க: [பொறுப்பான நிர்வாகம்](../../core_05_band_continuity.md#stewardship-constitutional), [பொறுப்பான நிர்வாகக் குறை](../../core_05_band_continuity.md#stewardship-defect-constitutional), [சூழலியல் முழுமை](../../core_05_band_continuity.md#ecological-integrity-constitutional), [சார்பு](../../core_05_band_continuity.md#dependency), [பதிலீட்டு விலகல்](../../core_05_band_oversight.md#proxy-divergence), [இருப்பு இடர்](../../core_05_band_continuity.md#existential-risk), [தொடர் தோல்வி](../../core_05_band_continuity.md#cascading-failure), [செழிப்பு](core_05_apex_flourishing_aim.md#flourishing-constitutional) (இணை நோக்கம் — எதையும் மற்றதன் செலவில் பின்தொடரக் கூடாது; குறுகிய கால ஆதாயங்களைப் பின்தொடர்ந்து **பங்கேற்பு**, **மேற்பார்வை**, **பொறுப்புக்கூறல்**, அல்லது **காலந்தவறாமையை** [பொருள் பங்கு](core_00_preamble.md#material-stake) கேட்பதற்குக் கீழே காலி செய்வது **தொடர்ச்சியை** தோல்வியுறச் செய்கிறது, அண்மைக்கால வெளியீடுகள் உயர்ந்தாலும்), [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) [பொருள் பங்கிற்கு](core_00_preamble.md#material-stake) அளவிடப்பட்டது (தொடர்ச்சி எப்படி சட்டபூர்வமாக இருக்கிறது — ஐந்தாவது கட்டுமானத் துண்டு அல்ல), தொடர்ச்சி அளவீட்டுக் குடும்பம், மற்றும் [அத்தியாயம் ஐந்து அகரவரிசை அடைவு](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
 
@@ -55,7 +55,7 @@
     - திருத்தங்களை என்றென்றும் தள்ளிப்போட **தொடர்ச்சியை** பயன்படுத்துதல்;
     - மறைந்த இடர் இறக்கிவிடல், மீளமுடியாத தீங்கு, அல்லது சூழலியல் சுமைகளைப் பிறர் மீது இடமாற்றுதல் ஆகியவற்றில் நிற்கும்போது «நிலைத்தன்மையை» இணக்கமாகக் கருதுதல்;
     - சாதாரண «விளக்குகளை எரிய வை» பேச்சால் [சவால் செய்யக்கூடிய தன்மையை](../../core_05_band_accountability.md#contestability) அல்லது [காலந்தவறாத் தீர்வை](../../core_05_band_accountability.md#timely-resolution-constitutional) தடுப்பது; அல்லது
-    - [அத்தியாயம் ஒன்று §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) கீழ் தெளிவான அனுமதி இல்லாமல் [செழிப்பை](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) பொருள்ரீதியாகத் தோற்கடிக்கும் விதத்தில் **தொடர்ச்சியை** பின்தொடர்தல்.
+    - [அத்தியாயம் ஒன்று §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) கீழ் தெளிவான அனுமதி இல்லாமல் [செழிப்பை](core_05_apex_flourishing_aim.md#flourishing-constitutional) பொருள்ரீதியாகத் தோற்கடிக்கும் விதத்தில் **தொடர்ச்சியை** பின்தொடர்தல்.
 
 ---
 
@@ -131,6 +131,6 @@
 
 **முந்தைய கோப்பு:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 
-**அடுத்த கோப்பு (இன்னும் ஆங்கிலத்தில்):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+**அடுத்த கோப்பு (இந்த மொழியில்):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
 **பிணைக்கும் மூலம்:** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)

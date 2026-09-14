@@ -12,7 +12,7 @@
 >
 > **前（本言語）：** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 >
-> **次（なお英語）：** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+> **次（この言語）：** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 > **読みの弧：** それが何か / 測定と評価の仕方 / 何が成り立たなければならないか → 目的の分解 → 測定ファミリー。
 
 </details>
@@ -22,7 +22,7 @@
 
 - 上流：[第五章の羅針](core_05__definitions_home.md#chapter-five-compass-and-definition-map)；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)；平たい言葉の目的は [前文 §1](core_00_preamble.md#continuity)。
 - 下流：原則：[第一章 §4.1 回復力と自己修復の設計](core_01_a_values_principles.md#41-resilience-and-self-healing-design)；[§12 共有システムの能力](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity)；[§11.1.5 憲法上の成果主張の規律](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)；[憲法上の目的の分解](#continuity-aim-decomposition)；継続のテーマ群は [core_05_band_continuity.md](../../core_05_band_continuity.md)。
-- あわせて読む：[責務ある管理](../../core_05_band_continuity.md#stewardship-constitutional)、[責務ある管理の欠陥](../../core_05_band_continuity.md#stewardship-defect-constitutional)、[生態的誠実性](../../core_05_band_continuity.md#ecological-integrity-constitutional)、[依存](../../core_05_band_continuity.md#dependency)、[代替指標の乖離](../../core_05_band_oversight.md#proxy-divergence)、[実存的リスク](../../core_05_band_continuity.md#existential-risk)、[連鎖的失敗](../../core_05_band_continuity.md#cascading-failure)、[繁栄](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)（対になる目的 — どちらも他方の犠牲で追ってはならない；[実質的利害](core_00_preamble.md#material-stake)が求めるものを下回るまで **参加**、**監督**、**説明責任**、または **適時性** を空洞化する短期の利得を追うことは、近い将来の産出が上がっても **継続** に失敗する）、[憲法四元](core_00_preamble.md#constitutional-tetrad)を [実質的利害](core_00_preamble.md#material-stake)に応じて尺度を合わせたもの（継続が正当性を保つ仕方 — 第五の構築ブロックではない）、継続の測定ファミリー、および [第五章のアルファベット順目録](core_05__definitions_home.md#chapter-five-alphabetical-directory)。
+- あわせて読む：[責務ある管理](../../core_05_band_continuity.md#stewardship-constitutional)、[責務ある管理の欠陥](../../core_05_band_continuity.md#stewardship-defect-constitutional)、[生態的誠実性](../../core_05_band_continuity.md#ecological-integrity-constitutional)、[依存](../../core_05_band_continuity.md#dependency)、[代替指標の乖離](../../core_05_band_oversight.md#proxy-divergence)、[実存的リスク](../../core_05_band_continuity.md#existential-risk)、[連鎖的失敗](../../core_05_band_continuity.md#cascading-failure)、[繁栄](core_05_apex_flourishing_aim.md#flourishing-constitutional)（対になる目的 — どちらも他方の犠牲で追ってはならない；[実質的利害](core_00_preamble.md#material-stake)が求めるものを下回るまで **参加**、**監督**、**説明責任**、または **適時性** を空洞化する短期の利得を追うことは、近い将来の産出が上がっても **継続** に失敗する）、[憲法四元](core_00_preamble.md#constitutional-tetrad)を [実質的利害](core_00_preamble.md#material-stake)に応じて尺度を合わせたもの（継続が正当性を保つ仕方 — 第五の構築ブロックではない）、継続の測定ファミリー、および [第五章のアルファベット順目録](core_05__definitions_home.md#chapter-five-alphabetical-directory)。
 
 </details>
 
@@ -55,7 +55,7 @@
     - **継続** を用いて是正を永久に先送りすること；
     - 「安定」を、隠れたリスクの押しつけ、不可逆的危害、または生態的負担の他者への転嫁のうえに乗るときに遵守として扱うこと；
     - ありふれた「明かりを点けておく」話を用いて [争訟可能性](../../core_05_band_accountability.md#contestability) または [適時の解決](../../core_05_band_accountability.md#timely-resolution-constitutional) を阻むこと；または
-    - **継続** を、[第一章 §6 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) のもとでの明確な許可なしに [繁栄](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) を実質的に打ち負かす仕方で追うこと。
+    - **継続** を、[第一章 §6 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) のもとでの明確な許可なしに [繁栄](core_05_apex_flourishing_aim.md#flourishing-constitutional) を実質的に打ち負かす仕方で追うこと。
 
 ---
 
@@ -131,6 +131,6 @@
 
 **前のファイル：** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 
-**次のファイル（なお英語）：** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+**次のファイル（この言語）：** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
 **拘束力ある原文：** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)

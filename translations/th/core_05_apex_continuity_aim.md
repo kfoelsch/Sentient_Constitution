@@ -12,7 +12,7 @@
 >
 > **ก่อนหน้า (ภาษานี้):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 >
-> **ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+> **ถัดไป (ภาษานี้):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 > **ส่วนโค้งการอ่าน:** มันคืออะไร / วิธีวัดและประเมิน / สิ่งที่ต้องคงอยู่ → การแยกเป้าประสงค์ → ตระกูลการวัด
 
 </details>
@@ -22,7 +22,7 @@
 
 - ต้นทาง: [เข็มทิศของบทที่ห้า](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims); เป้าประสงค์ภาษาเรียบง่ายที่ [คำปรารภ §1](core_00_preamble.md#continuity)
 - ปลายทาง: หลักการ: [บทที่หนึ่ง §4.1 ความยืดหยุ่นคืนตัวและการออกแบบที่ซ่อมตนเอง](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 ขีดความสามารถของระบบร่วม](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 วินัยข้อกล่าวอ้างผลลัพธ์ทางรัฐธรรมนูญ](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [การแยกเป้าประสงค์ทางรัฐธรรมนูญ](#continuity-aim-decomposition); กลุ่มหัวข้อความต่อเนื่องใน [core_05_band_continuity.md](../../core_05_band_continuity.md)
-- อ่านคู่กับ: [การบริหารอย่างรับผิดชอบ](../../core_05_band_continuity.md#stewardship-constitutional) [ข้อบกพร่องการบริหารอย่างรับผิดชอบ](../../core_05_band_continuity.md#stewardship-defect-constitutional) [ความครบถ้วนทางนิเวศ](../../core_05_band_continuity.md#ecological-integrity-constitutional) [การพึ่งพา](../../core_05_band_continuity.md#dependency) [ความคลาดของตัวแทนวัด](../../core_05_band_oversight.md#proxy-divergence) [ความเสี่ยงดำรงอยู่](../../core_05_band_continuity.md#existential-risk) [ความล้มเหลวลูกโซ่](../../core_05_band_continuity.md#cascading-failure) [ความเจริญงอกงาม](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) (เป้าประสงค์คู่ — จะไล่ฝ่ายใดด้วยค่าของอีกฝ่ายไม่ได้; การไล่กำไรระยะสั้นที่ทำให้ **การมีส่วนร่วม** **การกำกับดูแล** **ความรับผิดชอบ** หรือ **ความทันเวลา** กลวงต่ำกว่าที่ [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) กำหนด ทำให้ **ความต่อเนื่อง** ล้ม แม้ผลระยะใกล้จะขึ้น) [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) ที่ปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) (ความต่อเนื่องยังชอบธรรมอย่างไร — ไม่ใช่บล็อกประกอบที่ห้า) ตระกูลการวัดความต่อเนื่อง และ [สารบัญตามลำดับตัวอักษรของบทที่ห้า](core_05__definitions_home.md#chapter-five-alphabetical-directory)
+- อ่านคู่กับ: [การบริหารอย่างรับผิดชอบ](../../core_05_band_continuity.md#stewardship-constitutional) [ข้อบกพร่องการบริหารอย่างรับผิดชอบ](../../core_05_band_continuity.md#stewardship-defect-constitutional) [ความครบถ้วนทางนิเวศ](../../core_05_band_continuity.md#ecological-integrity-constitutional) [การพึ่งพา](../../core_05_band_continuity.md#dependency) [ความคลาดของตัวแทนวัด](../../core_05_band_oversight.md#proxy-divergence) [ความเสี่ยงดำรงอยู่](../../core_05_band_continuity.md#existential-risk) [ความล้มเหลวลูกโซ่](../../core_05_band_continuity.md#cascading-failure) [ความเจริญงอกงาม](core_05_apex_flourishing_aim.md#flourishing-constitutional) (เป้าประสงค์คู่ — จะไล่ฝ่ายใดด้วยค่าของอีกฝ่ายไม่ได้; การไล่กำไรระยะสั้นที่ทำให้ **การมีส่วนร่วม** **การกำกับดูแล** **ความรับผิดชอบ** หรือ **ความทันเวลา** กลวงต่ำกว่าที่ [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) กำหนด ทำให้ **ความต่อเนื่อง** ล้ม แม้ผลระยะใกล้จะขึ้น) [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) ที่ปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) (ความต่อเนื่องยังชอบธรรมอย่างไร — ไม่ใช่บล็อกประกอบที่ห้า) ตระกูลการวัดความต่อเนื่อง และ [สารบัญตามลำดับตัวอักษรของบทที่ห้า](core_05__definitions_home.md#chapter-five-alphabetical-directory)
 
 </details>
 
@@ -55,7 +55,7 @@
     - ใช้ **ความต่อเนื่อง** เพื่อเลื่อนการแก้ไปตลอดกาล;
     - ถือ «เสถียรภาพ» เป็นการปฏิบัติตามเมื่อมันวางบนการทิ้งความเสี่ยงที่ซ่อน ภัยที่ย้อนกลับไม่ได้ หรือการย้ายภาระทางนิเวศไปให้ผู้อื่น;
     - ใช้คำพูดธรรมดาแบบ «ให้ไฟติดไว้» เพื่อปิดกั้น [ความสามารถในการโต้แย้ง](../../core_05_band_accountability.md#contestability) หรือ [การยุติที่ทันเวลา](../../core_05_band_accountability.md#timely-resolution-constitutional); หรือ
-    - ไล่ **ความต่อเนื่อง** ในทางที่ทำให้ [ความเจริญงอกงาม](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) พ่ายอย่างเป็นสาระ โดยไม่มีอนุญาตที่ชัดภายใต้ [บทที่หนึ่ง §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)
+    - ไล่ **ความต่อเนื่อง** ในทางที่ทำให้ [ความเจริญงอกงาม](core_05_apex_flourishing_aim.md#flourishing-constitutional) พ่ายอย่างเป็นสาระ โดยไม่มีอนุญาตที่ชัดภายใต้ [บทที่หนึ่ง §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)
 
 ---
 
@@ -131,6 +131,6 @@
 
 **ไฟล์ก่อนหน้า (ภาษานี้):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 
-**ไฟล์ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+**ไฟล์ถัดไป (ภาษานี้):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
 **ต้นฉบับที่มีผลผูกพัน:** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)

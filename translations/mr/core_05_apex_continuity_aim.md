@@ -12,7 +12,7 @@
 >
 > **मागील (या भाषेत):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 >
-> **पुढील (अजून इंग्रजीत):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+> **पुढील (या भाषेत):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 > **वाचन चाप:** ते काय आहे / कसे मापावे आणि मूल्यमापन करावे / काय टिकले पाहिजे → उद्दिष्ट विघटन → मापन कुटुंब.
 
 </details>
@@ -22,7 +22,7 @@
 
 - वरून: [अध्याय पाच दिशा-सूचक](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims); सोप्या भाषेतील उद्दिष्ट [प्रस्तावना §1](core_00_preamble.md#continuity) वर.
 - पुढे: तत्त्वे: [अध्याय एक §4.1 लचीलापन आणि स्व-मरम्मत डिज़ाइन](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 सामायिक-प्रणाली क्षमता](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 संवैधानिक निकाल-दावा शिस्त](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [संवैधानिक उद्दिष्ट विघटन](#continuity-aim-decomposition); सातत्य विषय गट [core_05_band_continuity.md](../../core_05_band_continuity.md) मध्ये.
-- सोबत वाचा: [उत्तरदायी व्यवस्थापन](../../core_05_band_continuity.md#stewardship-constitutional), [उत्तरदायी-व्यवस्थापन दोष](../../core_05_band_continuity.md#stewardship-defect-constitutional), [पारिस्थितिक अखंडता](../../core_05_band_continuity.md#ecological-integrity-constitutional), [अवलंबित्व](../../core_05_band_continuity.md#dependency), [प्रतिनिधी-सूचक विचलन](../../core_05_band_oversight.md#proxy-divergence), [अस्तित्वगत धोका](../../core_05_band_continuity.md#existential-risk), [शृंखलाबद्ध विफलता](../../core_05_band_continuity.md#cascading-failure), [समुन्नती](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) (जोडीचे उद्दिष्ट — कोणतेही दुसऱ्याच्या किंमतीने साधता येत नाही; [भौतिक दाव](core_00_preamble.md#material-stake) जे मागतो त्याच्या खाली **सहभाग**, **देखरेख**, **उत्तरदायित्व**, किंवा **समयबद्धता** पोकळ करणारे अल्पकालीन लाभ साधणे **सातत्य** अपयशी ठरते, जवळच्या काळाचे निकाल वर गेले तरी), [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणित (सातत्य वैध कसे राहते — पाचवा बांधकाम घटक नाही), सातत्य मापन कुटुंब, आणि [अध्याय पाच वर्णमाला निर्देशिका](core_05__definitions_home.md#chapter-five-alphabetical-directory).
+- सोबत वाचा: [उत्तरदायी व्यवस्थापन](../../core_05_band_continuity.md#stewardship-constitutional), [उत्तरदायी-व्यवस्थापन दोष](../../core_05_band_continuity.md#stewardship-defect-constitutional), [पारिस्थितिक अखंडता](../../core_05_band_continuity.md#ecological-integrity-constitutional), [अवलंबित्व](../../core_05_band_continuity.md#dependency), [प्रतिनिधी-सूचक विचलन](../../core_05_band_oversight.md#proxy-divergence), [अस्तित्वगत धोका](../../core_05_band_continuity.md#existential-risk), [शृंखलाबद्ध विफलता](../../core_05_band_continuity.md#cascading-failure), [समुन्नती](core_05_apex_flourishing_aim.md#flourishing-constitutional) (जोडीचे उद्दिष्ट — कोणतेही दुसऱ्याच्या किंमतीने साधता येत नाही; [भौतिक दाव](core_00_preamble.md#material-stake) जे मागतो त्याच्या खाली **सहभाग**, **देखरेख**, **उत्तरदायित्व**, किंवा **समयबद्धता** पोकळ करणारे अल्पकालीन लाभ साधणे **सातत्य** अपयशी ठरते, जवळच्या काळाचे निकाल वर गेले तरी), [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणित (सातत्य वैध कसे राहते — पाचवा बांधकाम घटक नाही), सातत्य मापन कुटुंब, आणि [अध्याय पाच वर्णमाला निर्देशिका](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
 
@@ -55,7 +55,7 @@
     - **सातत्य** वापरून दुरुस्त्या कायमच्या पुढे ढकलणे;
     - «स्थिरता» अनुपालन मानणे जेव्हा ती लपवलेल्या धोका-फेकण्यावर, अपरिवर्तनीय हानीवर, किंवा पारिस्थितिक भार इतरांवर ढकलण्यावर उभी असते;
     - सामान्य «दिवे चालू ठेवा» बोलणे वापरून [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) किंवा [समयबद्ध निराकरण](../../core_05_band_accountability.md#timely-resolution-constitutional) अडवणे; किंवा
-    - **सातत्य** अशा रीतीने साधणे जे [समुन्नती](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) भौतिक रीतीने पराभूत करते, [अध्याय एक §6 प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) खाली स्पष्ट परवानगीशिवाय.
+    - **सातत्य** अशा रीतीने साधणे जे [समुन्नती](core_05_apex_flourishing_aim.md#flourishing-constitutional) भौतिक रीतीने पराभूत करते, [अध्याय एक §6 प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) खाली स्पष्ट परवानगीशिवाय.
 
 ---
 
@@ -131,6 +131,6 @@
 
 **मागील फाइल:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 
-**पुढील फाइल (अजून इंग्रजीत):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+**पुढील फाइल (या भाषेत):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
 **बंधनकारक मूळ:** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)

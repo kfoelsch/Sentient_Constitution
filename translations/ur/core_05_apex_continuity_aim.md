@@ -12,7 +12,7 @@
 >
 > **پچھلا (اس زبان میں):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 >
-> **اگلا (ابھی انگریزی میں):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+> **اگلا (اس زبان میں):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 > **پڑھنے کا قوس:** یہ کیا ہے / کیسے ناپیں اور جانچیں / کیا قائم رہنا چاہیے → مقصد کی تحلیل → پیمائش خاندان۔
 
 </details>
@@ -22,7 +22,7 @@
 
 - بالائی: [باب پنجم قطب نما](core_05__definitions_home.md#chapter-five-compass-and-definition-map)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)؛ سادہ زبان کا مقصد [تمہید §1](core_00_preamble.md#continuity) پر۔
 - زیریں: اصول: [باب یکم §4.1 لچک اور خود مرمت ڈیزائن](core_01_a_values_principles.md#41-resilience-and-self-healing-design)؛ [§12 مشترکہ نظام کی صلاحیت](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity)؛ [§11.1.5 آئینی نتیجہ دعووں کی ضبط](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)؛ [آئینی مقصد کی تحلیل](#continuity-aim-decomposition)؛ استمرار کے موضوع جھرمٹ [core_05_band_continuity.md](../../core_05_band_continuity.md) میں۔
-- ساتھ پڑھیں: [ذمہ دارانہ انتظام](../../core_05_band_continuity.md#stewardship-constitutional)، [ذمہ دارانہ انتظام کا عیب](../../core_05_band_continuity.md#stewardship-defect-constitutional)، [ماحولیاتی دیانت](../../core_05_band_continuity.md#ecological-integrity-constitutional)، [انحصار](../../core_05_band_continuity.md#dependency)، [متبادل اشاروں کا انحراف](../../core_05_band_oversight.md#proxy-divergence)، [وجودی خطرہ](../../core_05_band_continuity.md#existential-risk)، [زنجیری ناکامی](../../core_05_band_continuity.md#cascading-failure)، [شگفتگی](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) (جوڑا مقصد — کوئی ایک دوسرے کی قیمت پر نہیں پکڑی جا سکتی؛ قلیل مدتی نفع کا پیچھا جو **شرکت**، **نگرانی**، **جوابدہی**، یا **بروقت کارروائی** کو اس سے نیچے کھوکھلا کرے جو [مادی داؤ](core_00_preamble.md#material-stake) مانگتا ہے **استمرار** ہارتا ہے، چاہے قریب مدتی نتائج بڑھ جائیں)، [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) [مادی داؤ](core_00_preamble.md#material-stake) کے مطابق پیمانہ (استمرار جائز کیسے رہتی ہے — پانچواں تعمیراتی حصہ نہیں)، استمرار پیمائش خاندان، اور [باب پنجم کی حروف تہجی ڈائریکٹری](core_05__definitions_home.md#chapter-five-alphabetical-directory)۔
+- ساتھ پڑھیں: [ذمہ دارانہ انتظام](../../core_05_band_continuity.md#stewardship-constitutional)، [ذمہ دارانہ انتظام کا عیب](../../core_05_band_continuity.md#stewardship-defect-constitutional)، [ماحولیاتی دیانت](../../core_05_band_continuity.md#ecological-integrity-constitutional)، [انحصار](../../core_05_band_continuity.md#dependency)، [متبادل اشاروں کا انحراف](../../core_05_band_oversight.md#proxy-divergence)، [وجودی خطرہ](../../core_05_band_continuity.md#existential-risk)، [زنجیری ناکامی](../../core_05_band_continuity.md#cascading-failure)، [شگفتگی](core_05_apex_flourishing_aim.md#flourishing-constitutional) (جوڑا مقصد — کوئی ایک دوسرے کی قیمت پر نہیں پکڑی جا سکتی؛ قلیل مدتی نفع کا پیچھا جو **شرکت**، **نگرانی**، **جوابدہی**، یا **بروقت کارروائی** کو اس سے نیچے کھوکھلا کرے جو [مادی داؤ](core_00_preamble.md#material-stake) مانگتا ہے **استمرار** ہارتا ہے، چاہے قریب مدتی نتائج بڑھ جائیں)، [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) [مادی داؤ](core_00_preamble.md#material-stake) کے مطابق پیمانہ (استمرار جائز کیسے رہتی ہے — پانچواں تعمیراتی حصہ نہیں)، استمرار پیمائش خاندان، اور [باب پنجم کی حروف تہجی ڈائریکٹری](core_05__definitions_home.md#chapter-five-alphabetical-directory)۔
 
 </details>
 
@@ -55,7 +55,7 @@
     - **استمرار** کو اصلاحیں ہمیشہ کے لیے ٹالنے کے لیے استعمال کرنا؛
     - «استحکام» کو اطاعت سمجھنا جب وہ چھپے خطرے کے انڈیل، ناقابلِ واپسی نقصان، یا ماحولیاتی بوجھ دوسروں پر سرکانے پر کھڑا ہو؛
     - عام «روشنیاں جلائے رکھنا» کی بات سے [چیلنج پذیری](../../core_05_band_accountability.md#contestability) یا [بروقت حل](../../core_05_band_accountability.md#timely-resolution-constitutional) روکنا؛ یا
-    - **استمرار** اس طرح پکڑنا جو [شگفتگی](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) کو مادی طور پر ہرا دے بغیر واضح اجازت [باب یکم §6 عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) کے تحت۔
+    - **استمرار** اس طرح پکڑنا جو [شگفتگی](core_05_apex_flourishing_aim.md#flourishing-constitutional) کو مادی طور پر ہرا دے بغیر واضح اجازت [باب یکم §6 عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) کے تحت۔
 
 ---
 
@@ -131,6 +131,6 @@
 
 **پچھلی فائل (اس زبان میں):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 
-**اگلی فائل (ابھی انگریزی میں):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+**اگلی فائل (اس زبان میں):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
 **پابند اصل:** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)

@@ -40,7 +40,7 @@
 - <a id="flourishing"></a>**번영** — 진실, 안전, 신뢰성, 의미 있는 행위주체성을 통해 지속되는 감지자 복지
 - <a id="continuity"></a>**연속** — 긴 시계의 안정, 지속가능성, 회복력, 생태 복지
 
-그 목적은 함께 추구해야 하며, 언제나 이 헌법이 세운 타협 불가 원칙 제약과 권리 보호 안에 있어야 한다. [**헌법 사원(四元)**](#constitutional-tetrad)은 그 추구가 어떻게 정당성을 유지하는지를 다스린다: [**실질 이해관계**](#material-stake)에 맞춰 세기를 조절한 **참여**, **감독**, **책무**, **적시성**. 사원(四元) 각 다리와 헌법 목적의 구속력 있는 정의는 제5장에 산다: [참여](../../core_05_apex_participation_leg.md#participation-constitutional), [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional), [책무](core_05_apex_accountability_leg.md#accountability), [적시성](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [번영](../../core_05_apex_flourishing_aim.md#flourishing-constitutional), [연속](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
+그 목적은 함께 추구해야 하며, 언제나 이 헌법이 세운 타협 불가 원칙 제약과 권리 보호 안에 있어야 한다. [**헌법 사원(四元)**](#constitutional-tetrad)은 그 추구가 어떻게 정당성을 유지하는지를 다스린다: [**실질 이해관계**](#material-stake)에 맞춰 세기를 조절한 **참여**, **감독**, **책무**, **적시성**. 사원(四元) 각 다리와 헌법 목적의 구속력 있는 정의는 제5장에 산다: [참여](../../core_05_apex_participation_leg.md#participation-constitutional), [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional), [책무](core_05_apex_accountability_leg.md#accountability), [적시성](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [번영](core_05_apex_flourishing_aim.md#flourishing-constitutional), [연속](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
 
 <a id="2-the-measurements"></a>
 
@@ -61,7 +61,7 @@
 
 | 범주 | 쉬운 질문 | 하위범주 |
 |---|---|---|
-| **[번영](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family)** | 감지자는 생명, 안전, 필수에의 접근에서 실제로 받쳐지고 있는가? | [복지](../../core_05_band_continuity.md#wellbeing) · [안전, 해, 위험](../../core_05_band_continuity.md#safety-constraint) · [생존 바닥 접근](../../core_05_band_continuity.md#bodily-maintenance-access-constitutional) |
+| **[번영](core_05_apex_flourishing_aim.md#flourishing-measurement-family)** | 감지자는 생명, 안전, 필수에의 접근에서 실제로 받쳐지고 있는가? | [복지](../../core_05_band_continuity.md#wellbeing) · [안전, 해, 위험](../../core_05_band_continuity.md#safety-constraint) · [생존 바닥 접근](../../core_05_band_continuity.md#bodily-maintenance-access-constitutional) |
 | **[연속](core_05_apex_continuity_aim.md#continuity-measurement-family)** | 감지자와 체계는 견딜 수 있는가 — 생태적으로, 믿을 수 있게, 실패를 가로질러? | [생태 발자국과 환경 전제](../../core_05_band_continuity.md#ecological-footprint) · [회복력, 가역성, 체계 위험](../../core_05_band_continuity.md#reversibility-constitutional) · [의존과 자원 흐름](../../core_05_band_continuity.md#dependency) · [체계 간 지원](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | **[참여](../../core_05_apex_participation_leg.md#participation-measurement-family)** | 영향받는 감지자는 공정하게 참여할 수 있는가 — 목소리, 접근, 배움, 프라이버시? | [공정, 접근, 행위주체성](../../core_05_band_participation.md#substantive-fairness-constitutional) · [프라이버시와 데이터의 책임 있는 관리](../../core_05_band_continuity.md#privacy-informational-cluster) |
 | **[감독](../../core_05_apex_oversight_leg.md#oversight-measurement-family)** | 감지자는 체계가 내세우는 것을 보고, 확인하고, 의지할 수 있는가? | [진실과 인식 완전성](../../core_05_band_oversight.md#truth-constitutional-constraint) · [신뢰성](../../core_05_band_continuity.md#trustworthiness) |

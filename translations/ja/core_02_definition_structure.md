@@ -24,7 +24,7 @@
 > - **第二章（本ファイル）** — O/M/A/C の定義構造と構成要素の整合：すべての定義は、**存在論（O）**（それが何か）、**評価（A）**義務と織り合わせられた**測定（M）**登録（どう測定され評価されなければならないか）、および**遵守（C）**（何が成り立たなければならないか）を結ぶ（[§1 目的と役割](core_02_definition_structure.md#1-purpose-and-role)；[§2 定義の誠実性要件](core_02_definition_structure.md#2-definition-integrity-requirement)）。
 > - **第三章** — 定義の誠実性、回避、不遵守（[第三章](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)）。
 > - **第四章** — 証明の負担、定義の追跡可能性、観測可能性、安全限度のもとでの検証、検証のアクセス可能性（[第四章 — 証明の負担、追跡可能性、検証](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)）。
-> - **第五章** — 測定、評価、遵守のための共有語彙（五つの四元帯ファイルと憲法上の目的ファイルを通じた第 1–3 節の独立、グループ、パッケージの定義：[繁栄目的](../../core_05_apex_flourishing_aim.md)、[監督](../../core_05_band_oversight.md)、[参加](../../core_05_band_participation.md)、[説明責任](../../core_05_band_accountability.md)、[継続](../../core_05_band_continuity.md)、[統合](../../core_05_band_integrative.md)）；読み順と地図は [A部](core_05__definitions_home.md#chapter-five-compass-and-definition-map)。
+> - **第五章** — 測定、評価、遵守のための共有語彙（五つの四元帯ファイルと憲法上の目的ファイルを通じた第 1–3 節の独立、グループ、パッケージの定義：[繁栄目的](core_05_apex_flourishing_aim.md)、[監督](../../core_05_band_oversight.md)、[参加](../../core_05_band_participation.md)、[説明責任](../../core_05_band_accountability.md)、[継続](../../core_05_band_continuity.md)、[統合](../../core_05_band_integrative.md)）；読み順と地図は [A部](core_05__definitions_home.md#chapter-five-compass-and-definition-map)。
 > - **CJS** — 実施横断用語の運用定義（[CJS-3](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) 運用クラスターライブラリ）；第五章の典範の本拠を適用する — 再定義しない。**CS**、**CI**、**CF** における領域分類とプロトコルも同じ規則に従う。
 >
 > さらなる案内：

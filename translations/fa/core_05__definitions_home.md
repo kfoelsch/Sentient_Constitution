@@ -186,7 +186,7 @@
 - [جبران منصفانه](../../core_05_band_continuity.md#fair-compensation-constitutional)
 - [روابط خانوادگی و مراقبت](../../core_05_band_participation.md#family-and-care-relationships-constitutional)
 - [امکان‌پذیری](../../core_05_band_accountability.md#feasibility)
-- [شکوفایی](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)
+- [شکوفایی](core_05_apex_flourishing_aim.md#flourishing-constitutional)
 - [قوهٔ قاهره](../../core_05_band_accountability.md#force-majeure-constitutional)
 - [دقت پیش‌بینی‌پذیری](../../core_05_band_oversight.md#foreseeability-diligence)
 - [سابقهٔ پروندهٔ مجمع](../../core_05_band_accountability.md#forum-case-record)
@@ -387,7 +387,7 @@
 
 | نوار | پرونده | گسترهٔ خوشهٔ **Def.** |
 |---|---|---|
-| **هدف شکوفایی** | [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md) | فقط نقشهٔ سلسله‌مراتب هدف — تعریف‌های برگ در پرونده‌های نوار |
+| **هدف شکوفایی** | [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md) | فقط نقشهٔ سلسله‌مراتب هدف — تعریف‌های برگ در پرونده‌های نوار |
 | **هدف پیوستگی** | [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) | فقط نقشهٔ سلسله‌مراتب هدف — تعریف‌های برگ در پرونده‌های نوار |
 | **پای نظارت** | [core_05_band_oversight.md](../../core_05_band_oversight.md) | **Def.O1–Def.O2** |
 | **پای مشارکت** | [core_05_band_participation.md](../../core_05_band_participation.md) | **Def.P1–Def.P4** |
@@ -415,7 +415,7 @@
 
 | ردهٔ Ch00 | پرسش ساده | خانه‌های نوار فصل پنجم | یادداشت‌های جای‌گذاری شکافته |
 |---|---|---|---|
-| [خانوادهٔ اندازه‌گیری شکوفایی](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family) | آیا حس‌مندان در زندگی، ایمنی و دسترسی به ضروریات نگه داشته می‌شوند؟ | [هدف شکوفایی](../../core_05_apex_flourishing_aim.md)، [مشارکت](../../core_05_band_participation.md)، [پیوستگی](../../core_05_band_continuity.md)، [پاسخگویی](../../core_05_band_accountability.md) | **شکوفایی** یک **هدف** قانون اساسی است، نه پای چهارگانه — [نقشهٔ تجزیهٔ هدف قانون اساسی](../../core_05_apex_flourishing_aim.md#flourishing-aim-decomposition)؛ سنجه‌های مشخص روی اصطلاحات اصلی برگ: [بهزیستی](../../core_05_band_continuity.md#wellbeing) (پیامد اصلی)، [ایمنی (قید)](../../core_05_band_continuity.md#safety-constraint)، اصطلاحات کف بقا، [آسیب](../../core_05_band_accountability.md#harm) |
+| [خانوادهٔ اندازه‌گیری شکوفایی](core_05_apex_flourishing_aim.md#flourishing-measurement-family) | آیا حس‌مندان در زندگی، ایمنی و دسترسی به ضروریات نگه داشته می‌شوند؟ | [هدف شکوفایی](core_05_apex_flourishing_aim.md)، [مشارکت](../../core_05_band_participation.md)، [پیوستگی](../../core_05_band_continuity.md)، [پاسخگویی](../../core_05_band_accountability.md) | **شکوفایی** یک **هدف** قانون اساسی است، نه پای چهارگانه — [نقشهٔ تجزیهٔ هدف قانون اساسی](core_05_apex_flourishing_aim.md#flourishing-aim-decomposition)؛ سنجه‌های مشخص روی اصطلاحات اصلی برگ: [بهزیستی](../../core_05_band_continuity.md#wellbeing) (پیامد اصلی)، [ایمنی (قید)](../../core_05_band_continuity.md#safety-constraint)، اصطلاحات کف بقا، [آسیب](../../core_05_band_accountability.md#harm) |
 | [خانوادهٔ اندازه‌گیری پیوستگی](core_05_apex_continuity_aim.md#continuity-measurement-family) | آیا حس‌مندان و نظام‌ها می‌توانند دوام بیاورند — بوم‌شناختی، قابل‌اتکا و از میان شکست؟ | [هدف پیوستگی](core_05_apex_continuity_aim.md)، [پیوستگی](../../core_05_band_continuity.md) | **پیوستگی** یک **هدف** قانون اساسی است، نه پای چهارگانه — [نقشهٔ تجزیهٔ هدف قانون اساسی](core_05_apex_continuity_aim.md#continuity-aim-decomposition)؛ سنجه‌های مشخص روی اصطلاحات اصلی برگ نوار **پیوستگی**: [ردپای بوم‌شناختی](../../core_05_band_continuity.md#ecological-footprint)، [وابستگی](../../core_05_band_continuity.md#dependency)، [برگشت‌پذیری](../../core_05_band_continuity.md#reversibility-constitutional)، [پایداری](../../core_05_band_continuity.md#sustainability)، [همیاری متناسب میان‌سیستمی](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | [خانوادهٔ اندازه‌گیری مشارکت](../../core_05_apex_participation_leg.md#participation-measurement-family) | آیا حس‌مندان اثرپذیر می‌توانند منصفانه شرکت کنند — صدا، دسترسی، یادگیری و حریم خصوصی؟ | [مشارکت](../../core_05_band_participation.md)، [پیوستگی](../../core_05_band_continuity.md) | اصطلاحات انصاف، دسترسی و عاملیت در نوار **مشارکت**؛ خوشهٔ [حریم خصوصی (اطلاعاتی)](../../core_05_band_continuity.md#privacy-informational-cluster) در نوار **پیوستگی** چون حریم خصوصی در سراسر اصول حقوق توزیع شده است |
 | [خانوادهٔ اندازه‌گیری نظارت](../../core_05_apex_oversight_leg.md#oversight-measurement-family) | آیا حس‌مندان می‌توانند ببینند، راستی‌آزمایی کنند و به آنچه نظام‌ها بازنمایی می‌کنند تکیه کنند؟ | [نظارت](../../core_05_band_oversight.md)، [پیوستگی](../../core_05_band_continuity.md) | اصطلاحات اصلی حقیقت و یکپارچگی معرفتی در نوار **نظارت** (تجمیع سرپای فقط‌پیوند [نظارت](../../core_05_apex_oversight_leg.md#oversight-constitutional))؛ [اعتمادپذیری](../../core_05_band_continuity.md#trustworthiness) و [تخریب اعتماد و اتکای گمراه‌کننده](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) در نوار **پیوستگی** (**Def.C4**) |

@@ -12,7 +12,7 @@
 >
 > **Önceki (bu dil):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 >
-> **Sonraki (hâlâ İngilizce):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+> **Sonraki (bu dilde):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 > **Okuma yayı:** Nedir / Nasıl ölçülür ve değerlendirilir / Neyin geçerli kalması gerekir → amaç ayrıştırması → ölçüm ailesi.
 
 </details>
@@ -22,7 +22,7 @@
 
 - Yukarı: [Beşinci Bölüm pusulası](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims); yalın-dil amaç [Önsöz §1](core_00_preamble.md#continuity)de.
 - Aşağı: İlkeler: [Birinci Bölüm §4.1 Dayanıklılık ve kendini onarma tasarımı](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 Paylaşılan-sistem kapasitesi](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 Anayasal sonuç iddiaları disiplini](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Anayasal amaç ayrıştırması](#continuity-aim-decomposition); Süreklilik konu grupları [core_05_band_continuity.md](../../core_05_band_continuity.md)de.
-- Birlikte oku: [Sorumlu yönetim](../../core_05_band_continuity.md#stewardship-constitutional), [Sorumlu yönetim kusuru](../../core_05_band_continuity.md#stewardship-defect-constitutional), [Ekolojik bütünlük](../../core_05_band_continuity.md#ecological-integrity-constitutional), [Bağımlılık](../../core_05_band_continuity.md#dependency), [Vekil sapması](../../core_05_band_oversight.md#proxy-divergence), [Varoluşsal risk](../../core_05_band_continuity.md#existential-risk), [Zincirleme arıza](../../core_05_band_continuity.md#cascading-failure), [Gelişim](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) (eşlenik amaç — hiçbiri diğerinin pahasına izlenemez; [maddi pay](core_00_preamble.md#material-stake)ın gerektirdiğinin altına **katılımı**, **gözetimi**, **hesap verebilirliği** ya da **zamanındalığı** oyuklaştıran kısa vadeli kazançları izlemek **Sürekliliği** başarısız kılar, yakın dönem çıktılar yükselse bile), [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) [maddi pay](core_00_preamble.md#material-stake)a ölçeklenmiş (Sürekliliğin nasıl meşru kaldığı — beşinci bir yapı taşı değil), Süreklilik ölçüm ailesi ve [Beşinci Bölüm alfabetik dizini](core_05__definitions_home.md#chapter-five-alphabetical-directory).
+- Birlikte oku: [Sorumlu yönetim](../../core_05_band_continuity.md#stewardship-constitutional), [Sorumlu yönetim kusuru](../../core_05_band_continuity.md#stewardship-defect-constitutional), [Ekolojik bütünlük](../../core_05_band_continuity.md#ecological-integrity-constitutional), [Bağımlılık](../../core_05_band_continuity.md#dependency), [Vekil sapması](../../core_05_band_oversight.md#proxy-divergence), [Varoluşsal risk](../../core_05_band_continuity.md#existential-risk), [Zincirleme arıza](../../core_05_band_continuity.md#cascading-failure), [Gelişim](core_05_apex_flourishing_aim.md#flourishing-constitutional) (eşlenik amaç — hiçbiri diğerinin pahasına izlenemez; [maddi pay](core_00_preamble.md#material-stake)ın gerektirdiğinin altına **katılımı**, **gözetimi**, **hesap verebilirliği** ya da **zamanındalığı** oyuklaştıran kısa vadeli kazançları izlemek **Sürekliliği** başarısız kılar, yakın dönem çıktılar yükselse bile), [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) [maddi pay](core_00_preamble.md#material-stake)a ölçeklenmiş (Sürekliliğin nasıl meşru kaldığı — beşinci bir yapı taşı değil), Süreklilik ölçüm ailesi ve [Beşinci Bölüm alfabetik dizini](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
 
@@ -55,7 +55,7 @@
     - **Sürekliliği** düzeltmeleri sonsuza dek ertelemek için kullanmak;
     - «istikrarı» gizli risk boşaltmaya, geri döndürülemez zarara ya da ekolojik yükleri başkalarına kaydırmaya dayandığında uyum saymak;
     - sıradan «ışıkları açık tutmak» konuşmasını [İtiraz edilebilirlik](../../core_05_band_accountability.md#contestability)i ya da [Zamanında çözüm](../../core_05_band_accountability.md#timely-resolution-constitutional)ü engellemek için kullanmak; ya da
-    - **Sürekliliği**, [Birinci Bölüm §6 Süreç çatışması çözümü](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) altında açık izin olmaksızın [Gelişimi](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) maddi olarak bozan bir yolda izlemek.
+    - **Sürekliliği**, [Birinci Bölüm §6 Süreç çatışması çözümü](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) altında açık izin olmaksızın [Gelişimi](core_05_apex_flourishing_aim.md#flourishing-constitutional) maddi olarak bozan bir yolda izlemek.
 
 ---
 
@@ -131,6 +131,6 @@ Ayrıntılı nasıl-ölçüleceği kuralları her bağlı tanımda yaşar.
 
 **Önceki dosya:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 
-**Sonraki dosya (hâlâ İngilizce):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+**Sonraki dosya (bu dilde):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
 **Bağlayıcı asıl:** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)

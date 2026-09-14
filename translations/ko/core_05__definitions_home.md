@@ -186,7 +186,7 @@
 - [공정 보상](../../core_05_band_continuity.md#fair-compensation-constitutional)
 - [가족과 돌봄 관계](../../core_05_band_participation.md#family-and-care-relationships-constitutional)
 - [실행 가능성](../../core_05_band_accountability.md#feasibility)
-- [번영](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)
+- [번영](core_05_apex_flourishing_aim.md#flourishing-constitutional)
 - [불가항력](../../core_05_band_accountability.md#force-majeure-constitutional)
 - [예견 가능성 주의](../../core_05_band_oversight.md#foreseeability-diligence)
 - [포럼 사건 기록](../../core_05_band_accountability.md#forum-case-record)
@@ -387,7 +387,7 @@
 
 | 띠 | 파일 | **Def.** 무리 범위 |
 |---|---|---|
-| **번영 목적** | [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md) | 목적 위계 지도만일 뿐 — 잎 정의는 띠 파일에 |
+| **번영 목적** | [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md) | 목적 위계 지도만일 뿐 — 잎 정의는 띠 파일에 |
 | **연속 목적** | [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) | 목적 위계 지도만일 뿐 — 잎 정의는 띠 파일에 |
 | **감독 다리** | [core_05_band_oversight.md](../../core_05_band_oversight.md) | **Def.O1–Def.O2** |
 | **참여 다리** | [core_05_band_participation.md](../../core_05_band_participation.md) | **Def.P1–Def.P4** |
@@ -415,7 +415,7 @@
 
 | 전문 범주 | 쉬운 질문 | 제5장 띠 거처 | 나뉜 자리 주 |
 |---|---|---|---|
-| [번영 측정 가족](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family) | 감지자는 생명, 안전, 필수에의 접근에서 받쳐지고 있는가? | [번영 목적](../../core_05_apex_flourishing_aim.md), [참여](../../core_05_band_participation.md), [연속](../../core_05_band_continuity.md), [책무](../../core_05_band_accountability.md) | **번영**은 헌법 **목적**이지 사원(四元) 다리가 아니다 — [헌법 목적 분해 지도](../../core_05_apex_flourishing_aim.md#flourishing-aim-decomposition); 구체 측정은 잎 일차에: [복지](../../core_05_band_continuity.md#wellbeing) (일차 결과), [안전(제약)](../../core_05_band_continuity.md#safety-constraint), 생존 바닥 용어, [해](../../core_05_band_accountability.md#harm) |
+| [번영 측정 가족](core_05_apex_flourishing_aim.md#flourishing-measurement-family) | 감지자는 생명, 안전, 필수에의 접근에서 받쳐지고 있는가? | [번영 목적](core_05_apex_flourishing_aim.md), [참여](../../core_05_band_participation.md), [연속](../../core_05_band_continuity.md), [책무](../../core_05_band_accountability.md) | **번영**은 헌법 **목적**이지 사원(四元) 다리가 아니다 — [헌법 목적 분해 지도](core_05_apex_flourishing_aim.md#flourishing-aim-decomposition); 구체 측정은 잎 일차에: [복지](../../core_05_band_continuity.md#wellbeing) (일차 결과), [안전(제약)](../../core_05_band_continuity.md#safety-constraint), 생존 바닥 용어, [해](../../core_05_band_accountability.md#harm) |
 | [연속 측정 가족](core_05_apex_continuity_aim.md#continuity-measurement-family) | 감지자와 체계는 견딜 수 있는가 — 생태적으로, 믿을 수 있게, 실패를 가로질러? | [연속 목적](core_05_apex_continuity_aim.md), [연속](../../core_05_band_continuity.md) | **연속**은 헌법 **목적**이지 사원(四元) 다리가 아니다 — [헌법 목적 분해 지도](core_05_apex_continuity_aim.md#continuity-aim-decomposition); 구체 측정은 **연속** 띠의 잎 일차에: [생태 발자국](../../core_05_band_continuity.md#ecological-footprint), [의존](../../core_05_band_continuity.md#dependency), [가역성](../../core_05_band_continuity.md#reversibility-constitutional), [지속가능성](../../core_05_band_continuity.md#sustainability), [비례하는 체계 간 기여](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | [참여 측정 가족](../../core_05_apex_participation_leg.md#participation-measurement-family) | 영향받는 감지자는 공정하게 참여할 수 있는가 — 목소리, 접근, 배움, 프라이버시? | [참여](../../core_05_band_participation.md), [연속](../../core_05_band_continuity.md) | 공정, 접근, 행위주체성 용어는 **참여** 띠에; [프라이버시(정보)](../../core_05_band_continuity.md#privacy-informational-cluster) 무리는 **연속** 띠에 — 프라이버시가 권리 조에 걸쳐 퍼져 있기 때문 |
 | [감독 측정 가족](../../core_05_apex_oversight_leg.md#oversight-measurement-family) | 감지자는 체계가 내세우는 것을 보고, 확인하고, 의지할 수 있는가? | [감독](../../core_05_band_oversight.md), [연속](../../core_05_band_continuity.md) | 진실과 인식 완전성 일차는 **감독** 띠에 (링크만인 다리 머리 롤업 [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional)); [신뢰성](../../core_05_band_continuity.md#trustworthiness)과 [신뢰 저하와 오도하는 의존](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance)은 **연속** 띠에 (**Def.C4**) |

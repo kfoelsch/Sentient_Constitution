@@ -186,7 +186,7 @@
 - [公正補償](../../core_05_band_continuity.md#fair-compensation-constitutional)
 - [家族とケアの関係](../../core_05_band_participation.md#family-and-care-relationships-constitutional)
 - [実行可能性](../../core_05_band_accountability.md#feasibility)
-- [繁栄](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)
+- [繁栄](core_05_apex_flourishing_aim.md#flourishing-constitutional)
 - [不可抗力](../../core_05_band_accountability.md#force-majeure-constitutional)
 - [予見可能性の勤勉](../../core_05_band_oversight.md#foreseeability-diligence)
 - [フォーラム事例記録](../../core_05_band_accountability.md#forum-case-record)
@@ -387,7 +387,7 @@
 
 | 帯 | ファイル | **Def.** クラスター範囲 |
 |---|---|---|
-| **繁栄目的** | [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md) | 目的階層地図のみ — 葉定義は帯ファイルに |
+| **繁栄目的** | [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md) | 目的階層地図のみ — 葉定義は帯ファイルに |
 | **継続目的** | [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) | 目的階層地図のみ — 葉定義は帯ファイルに |
 | **監督脚** | [core_05_band_oversight.md](../../core_05_band_oversight.md) | **Def.O1–Def.O2** |
 | **参加脚** | [core_05_band_participation.md](../../core_05_band_participation.md) | **Def.P1–Def.P4** |
@@ -415,7 +415,7 @@
 
 | Ch00 のカテゴリ | 平たい問い | 第五章の帯の本拠 | 分割配置の注 |
 |---|---|---|---|
-| [繁栄の測定ファミリー](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family) | 感知者は生命、安全、必須へのアクセスにおいて支えられているか。 | [繁栄目的](../../core_05_apex_flourishing_aim.md)、[参加](../../core_05_band_participation.md)、[継続](../../core_05_band_continuity.md)、[説明責任](../../core_05_band_accountability.md) | **繁栄**は憲法上の**目的**であり、四元の脚ではない — [憲法上の目的の分解地図](../../core_05_apex_flourishing_aim.md#flourishing-aim-decomposition)；具体的測定は葉の第一次に：[福祉](../../core_05_band_continuity.md#wellbeing)（第一次の成果）、[安全（制約）](../../core_05_band_continuity.md#safety-constraint)、生存の床の用語、[危害](../../core_05_band_accountability.md#harm) |
+| [繁栄の測定ファミリー](core_05_apex_flourishing_aim.md#flourishing-measurement-family) | 感知者は生命、安全、必須へのアクセスにおいて支えられているか。 | [繁栄目的](core_05_apex_flourishing_aim.md)、[参加](../../core_05_band_participation.md)、[継続](../../core_05_band_continuity.md)、[説明責任](../../core_05_band_accountability.md) | **繁栄**は憲法上の**目的**であり、四元の脚ではない — [憲法上の目的の分解地図](core_05_apex_flourishing_aim.md#flourishing-aim-decomposition)；具体的測定は葉の第一次に：[福祉](../../core_05_band_continuity.md#wellbeing)（第一次の成果）、[安全（制約）](../../core_05_band_continuity.md#safety-constraint)、生存の床の用語、[危害](../../core_05_band_accountability.md#harm) |
 | [継続の測定ファミリー](core_05_apex_continuity_aim.md#continuity-measurement-family) | 感知者とシステムは持ちこたえられるか — 生態的に、信頼でき、失敗を横断して。 | [継続目的](core_05_apex_continuity_aim.md)、[継続](../../core_05_band_continuity.md) | **継続**は憲法上の**目的**であり、四元の脚ではない — [憲法上の目的の分解地図](core_05_apex_continuity_aim.md#continuity-aim-decomposition)；具体的測定は**継続**帯の葉の第一次に：[生態的足跡](../../core_05_band_continuity.md#ecological-footprint)、[依存](../../core_05_band_continuity.md#dependency)、[可逆性](../../core_05_band_continuity.md#reversibility-constitutional)、[持続可能性](../../core_05_band_continuity.md#sustainability)、[比例的なシステム横断貢献](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | [参加の測定ファミリー](../../core_05_apex_participation_leg.md#participation-measurement-family) | 影響を受ける感知者は公正に参加できるか — 声、アクセス、学習、プライバシー。 | [参加](../../core_05_band_participation.md)、[継続](../../core_05_band_continuity.md) | 公正、アクセス、行為主体性の用語は**参加**帯に；[プライバシー（情報的）](../../core_05_band_continuity.md#privacy-informational-cluster) クラスターは**継続**帯に。プライバシーが権利の条を横断して配分されるからである |
 | [監督の測定ファミリー](../../core_05_apex_oversight_leg.md#oversight-measurement-family) | 感知者は、システムが表すものを見、検証し、依拠できるか。 | [監督](../../core_05_band_oversight.md)、[継続](../../core_05_band_continuity.md) | 真理と認識的誠実性の第一次は**監督**帯に（リンクのみの脚頭ロールアップ [監督](../../core_05_apex_oversight_leg.md#oversight-constitutional)）；[信頼可能性](../../core_05_band_continuity.md#trustworthiness) および [信頼の劣化と誤導的依拠](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) は**継続**帯に（**Def.C4**） |

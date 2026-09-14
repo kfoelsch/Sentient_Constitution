@@ -186,7 +186,7 @@
 - [న్యాయ పరిహారం](../../core_05_band_continuity.md#fair-compensation-constitutional)
 - [కుటుంబ మరియు సంరక్షణ సంబంధాలు](../../core_05_band_participation.md#family-and-care-relationships-constitutional)
 - [సాధ్యత](../../core_05_band_accountability.md#feasibility)
-- [సమున్నతి](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)
+- [సమున్నతి](core_05_apex_flourishing_aim.md#flourishing-constitutional)
 - [ఫోర్స్ మేజ్యూర్](../../core_05_band_accountability.md#force-majeure-constitutional)
 - [అంచనా-యోగ్యత జాగ్రత్త](../../core_05_band_oversight.md#foreseeability-diligence)
 - [వేదిక కేసు రికార్డు](../../core_05_band_accountability.md#forum-case-record)
@@ -387,7 +387,7 @@
 
 | బ్యాండ్ | ఫైల్ | **Def.** క్లస్టర్ పరిధి |
 |---|---|---|
-| **సమున్నతి లక్ష్యం** | [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md) | లక్ష్య క్రమానుగత మ్యాప్ మాత్రమే — ఆకు నిర్వచనాలు బ్యాండ్ ఫైళ్ళలో |
+| **సమున్నతి లక్ష్యం** | [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md) | లక్ష్య క్రమానుగత మ్యాప్ మాత్రమే — ఆకు నిర్వచనాలు బ్యాండ్ ఫైళ్ళలో |
 | **కొనసాగింపు లక్ష్యం** | [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) | లక్ష్య క్రమానుగత మ్యాప్ మాత్రమే — ఆకు నిర్వచనాలు బ్యాండ్ ఫైళ్ళలో |
 | **పర్యవేక్షణ కాలు** | [core_05_band_oversight.md](../../core_05_band_oversight.md) | **Def.O1–Def.O2** |
 | **పాల్గొనడం కాలు** | [core_05_band_participation.md](../../core_05_band_participation.md) | **Def.P1–Def.P4** |
@@ -415,7 +415,7 @@
 
 | Ch00 వర్గం | సాధారణ ప్రశ్న | అధ్యాయం ఐదు బ్యాండ్ ఇళ్ళు | విభజన-స్థాన గమనికలు |
 |---|---|---|---|
-| [సమున్నతి కొలత కుటుంబం](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family) | సంజ్ఞ ప్రాణులు జీవితం, భద్రత, అవసరాల ప్రవేశంలో నిలబెట్టబడుతున్నారా? | [సమున్నతి లక్ష్యం](../../core_05_apex_flourishing_aim.md), [పాల్గొనడం](../../core_05_band_participation.md), [కొనసాగింపు](../../core_05_band_continuity.md), [జవాబుదారీతనం](../../core_05_band_accountability.md) | **సమున్నతి** రాజ్యాంగ **లక్ష్యం**, చతుష్టయం కాలు కాదు — [రాజ్యాంగ లక్ష్య విభజన మ్యాప్](../../core_05_apex_flourishing_aim.md#flourishing-aim-decomposition); ఆకు ప్రాథమికాలపై కాంక్రీటు కొలతలు: [శ్రేయస్సు](../../core_05_band_continuity.md#wellbeing) (ప్రాథమిక ఫలితం), [భద్రత (పరిమితి)](../../core_05_band_continuity.md#safety-constraint), మనుగడ-నేల పదాలు, [హాని](../../core_05_band_accountability.md#harm) |
+| [సమున్నతి కొలత కుటుంబం](core_05_apex_flourishing_aim.md#flourishing-measurement-family) | సంజ్ఞ ప్రాణులు జీవితం, భద్రత, అవసరాల ప్రవేశంలో నిలబెట్టబడుతున్నారా? | [సమున్నతి లక్ష్యం](core_05_apex_flourishing_aim.md), [పాల్గొనడం](../../core_05_band_participation.md), [కొనసాగింపు](../../core_05_band_continuity.md), [జవాబుదారీతనం](../../core_05_band_accountability.md) | **సమున్నతి** రాజ్యాంగ **లక్ష్యం**, చతుష్టయం కాలు కాదు — [రాజ్యాంగ లక్ష్య విభజన మ్యాప్](core_05_apex_flourishing_aim.md#flourishing-aim-decomposition); ఆకు ప్రాథమికాలపై కాంక్రీటు కొలతలు: [శ్రేయస్సు](../../core_05_band_continuity.md#wellbeing) (ప్రాథమిక ఫలితం), [భద్రత (పరిమితి)](../../core_05_band_continuity.md#safety-constraint), మనుగడ-నేల పదాలు, [హాని](../../core_05_band_accountability.md#harm) |
 | [కొనసాగింపు కొలత కుటుంబం](core_05_apex_continuity_aim.md#continuity-measurement-family) | సంజ్ఞ ప్రాణులు, వ్యవస్థలు నిలవగలవా — పర్యావరణంగా, నమ్మదగినట్టుగా, వైఫల్యం గుండా? | [కొనసాగింపు లక్ష్యం](core_05_apex_continuity_aim.md), [కొనసాగింపు](../../core_05_band_continuity.md) | **కొనసాగింపు** రాజ్యాంగ **లక్ష్యం**, చతుష్టయం కాలు కాదు — [రాజ్యాంగ లక్ష్య విభజన మ్యాప్](core_05_apex_continuity_aim.md#continuity-aim-decomposition); **కొనసాగింపు** బ్యాండ్ ఆకు ప్రాథమికాలపై కాంక్రీటు కొలతలు: [పర్యావరణ పాదముద్ర](../../core_05_band_continuity.md#ecological-footprint), [ఆధారపడటం](../../core_05_band_continuity.md#dependency), [తిరుగుదల](../../core_05_band_continuity.md#reversibility-constitutional), [స్థిరత్వం](../../core_05_band_continuity.md#sustainability), [అనుపాత వ్యవస్థల మధ్య సహకారం](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | [పాల్గొనడం కొలత కుటుంబం](../../core_05_apex_participation_leg.md#participation-measurement-family) | ప్రభావిత సంజ్ఞ ప్రాణులు న్యాయంగా పాల్గొనగలరా — స్వరం, ప్రవేశం, నేర్చుకోవడం, గోప్యత? | [పాల్గొనడం](../../core_05_band_participation.md), [కొనసాగింపు](../../core_05_band_continuity.md) | న్యాయం, ప్రవేశం, కర్తృత్వ పదాలు **పాల్గొనడం** బ్యాండ్‌లో; [గోప్యత (సమాచార)](../../core_05_band_continuity.md#privacy-informational-cluster) క్లస్టర్ **కొనసాగింపు** బ్యాండ్‌లో ఎందుకంటే గోప్యత హక్కుల అనుచ్ఛేదాల అంతటా పంపిణీ అవుతుంది |
 | [పర్యవేక్షణ కొలత కుటుంబం](../../core_05_apex_oversight_leg.md#oversight-measurement-family) | సంజ్ఞ ప్రాణులు వ్యవస్థలు చూపించేదాన్ని చూడగలరా, ధృవీకరించగలరా, ఆధారపడగలరా? | [పర్యవేక్షణ](../../core_05_band_oversight.md), [కొనసాగింపు](../../core_05_band_continuity.md) | సత్యం మరియు జ్ఞాన సమగ్రత ప్రాథమికాలు **పర్యవేక్షణ** బ్యాండ్‌లో (లింక్-మాత్రం కాలు-తల రోలప్ [పర్యవేక్షణ](../../core_05_apex_oversight_leg.md#oversight-constitutional)); [నమ్మదగినతనం](../../core_05_band_continuity.md#trustworthiness) మరియు [విశ్వాసం క్షీణత మరియు తప్పుదోవ ఆధారపడటం](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) **కొనసాగింపు** బ్యాండ్‌లో (**Def.C4**) |

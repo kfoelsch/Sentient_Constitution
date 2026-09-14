@@ -24,7 +24,7 @@
 > - **第二章（本文件）** — O/M/A/C 定义结构与组件对齐：每一项定义链接**本体（O）**（它是什么）、与**评估（A）**义务交织的**测量（M）**登记（必须如何测量与评估），以及**合规（C）**（必须成立什么）（[§1 宗旨与角色](core_02_definition_structure.md#1-purpose-and-role)；[§2 定义完整性要求](core_02_definition_structure.md#2-definition-integrity-requirement)）。
 > - **第三章** — 定义完整性、规避与不合规（[第三章](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)）。
 > - **第四章** — 举证责任、定义可追溯性、可观察性、安全限度下的核验，以及核验可及性（[第四章 — 举证责任、可追溯性与核验](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)）。
-> - **第五章** — 用于测量、评价与合规的共享词汇（第 1–3 节中的独立、成组与套装定义，跨越五个四元带文件与宪法宗旨文件：[繁盛宗旨](../../core_05_apex_flourishing_aim.md)、[监督](../../core_05_band_oversight.md)、[参与](../../core_05_band_participation.md)、[问责](../../core_05_band_accountability.md)、[延续](../../core_05_band_continuity.md)、[整合](../../core_05_band_integrative.md)）；阅读顺序与地图在 [A 部分](core_05__definitions_home.md#chapter-five-compass-and-definition-map)。
+> - **第五章** — 用于测量、评价与合规的共享词汇（第 1–3 节中的独立、成组与套装定义，跨越五个四元带文件与宪法宗旨文件：[繁盛宗旨](core_05_apex_flourishing_aim.md)、[监督](../../core_05_band_oversight.md)、[参与](../../core_05_band_participation.md)、[问责](../../core_05_band_accountability.md)、[延续](../../core_05_band_continuity.md)、[整合](../../core_05_band_integrative.md)）；阅读顺序与地图在 [A 部分](core_05__definitions_home.md#chapter-five-compass-and-definition-map)。
 > - **CJS** — 跨实施用语的操作性定义（[CJS-3](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) 操作性聚类库）；适用第五章典范家园 — 不得重新定义它们。**CS**、**CI** 与 **CF** 中的领域分类与协议遵循同一规则。
 >
 > 额外导航：

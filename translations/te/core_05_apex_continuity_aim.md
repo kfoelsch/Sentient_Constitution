@@ -12,7 +12,7 @@
 >
 > **మునుపటి (ఈ భాషలో):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 >
-> **తదుపరి (ఇంకా ఆంగ్లంలో):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+> **తదుపరి (ఈ భాషలో):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 > **చదివే చాపం:** అది ఏమిటి / కొలవడం మరియు అంచనా వేయడం ఎలా / ఏది నిలవాలి → లక్ష్య విభజన → కొలత కుటుంబం.
 
 </details>
@@ -22,7 +22,7 @@
 
 - మూలం: [అధ్యాయం ఐదు దిక్సూచి](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims); సాధారణ-భాష లక్ష్యం [ప్రస్తావన §1](core_00_preamble.md#continuity)లో.
 - గమ్యం: సూత్రాలు: [అధ్యాయం ఒకటి §4.1 స్థితిస్థాపకత మరియు స్వయం-మరమ్మత్తు రూపకల్పన](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 భాగస్వామ్య-వ్యవస్థ సామర్థ్యం](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 రాజ్యాంగ ఫలిత వాదనల క్రమశిక్షణ](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [రాజ్యాంగ లక్ష్య విభజన](#continuity-aim-decomposition); కొనసాగింపు అంశ సమూహాలు [core_05_band_continuity.md](../../core_05_band_continuity.md)లో.
-- దీనితో చదవండి: [బాధ్యతాయుత నిర్వహణ](../../core_05_band_continuity.md#stewardship-constitutional), [బాధ్యతాయుత నిర్వహణ లోపం](../../core_05_band_continuity.md#stewardship-defect-constitutional), [పర్యావరణ సమగ్రత](../../core_05_band_continuity.md#ecological-integrity-constitutional), [ఆధారపడటం](../../core_05_band_continuity.md#dependency), [ప్రతినిధి విచలనం](../../core_05_band_oversight.md#proxy-divergence), [ఉనికి ప్రమాదం](../../core_05_band_continuity.md#existential-risk), [క్యాస్కేడింగ్ వైఫల్యం](../../core_05_band_continuity.md#cascading-failure), [సమున్నతి](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) (జత లక్ష్యం — ఒకదాని ఖర్చుతో మరొకటి అనుసరించకూడదు; [భౌతిక పందెం](core_00_preamble.md#material-stake) కోరేదానికంటే కింద **పాల్గొనడం**, **పర్యవేక్షణ**, **జవాబుదారీతనం**, లేదా **సమయబద్ధత**ను ఖాళీ చేసే స్వల్పకాలిక లాభాలను అనుసరించడం **కొనసాగింపు**ను విఫలం చేస్తుంది, సమీపకాల ఫలితాలు పెరిగినా), [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) [భౌతిక పందెం](core_00_preamble.md#material-stake)కు స్కేల్ (కొనసాగింపు ధర్మబద్ధంగా ఎలా ఉంటుంది — ఐదవ నిర్మాణ బ్లాక్ కాదు), కొనసాగింపు కొలత కుటుంబం, మరియు [అధ్యాయం ఐదు అక్షరక్రమ డైరెక్టరీ](core_05__definitions_home.md#chapter-five-alphabetical-directory).
+- దీనితో చదవండి: [బాధ్యతాయుత నిర్వహణ](../../core_05_band_continuity.md#stewardship-constitutional), [బాధ్యతాయుత నిర్వహణ లోపం](../../core_05_band_continuity.md#stewardship-defect-constitutional), [పర్యావరణ సమగ్రత](../../core_05_band_continuity.md#ecological-integrity-constitutional), [ఆధారపడటం](../../core_05_band_continuity.md#dependency), [ప్రతినిధి విచలనం](../../core_05_band_oversight.md#proxy-divergence), [ఉనికి ప్రమాదం](../../core_05_band_continuity.md#existential-risk), [క్యాస్కేడింగ్ వైఫల్యం](../../core_05_band_continuity.md#cascading-failure), [సమున్నతి](core_05_apex_flourishing_aim.md#flourishing-constitutional) (జత లక్ష్యం — ఒకదాని ఖర్చుతో మరొకటి అనుసరించకూడదు; [భౌతిక పందెం](core_00_preamble.md#material-stake) కోరేదానికంటే కింద **పాల్గొనడం**, **పర్యవేక్షణ**, **జవాబుదారీతనం**, లేదా **సమయబద్ధత**ను ఖాళీ చేసే స్వల్పకాలిక లాభాలను అనుసరించడం **కొనసాగింపు**ను విఫలం చేస్తుంది, సమీపకాల ఫలితాలు పెరిగినా), [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) [భౌతిక పందెం](core_00_preamble.md#material-stake)కు స్కేల్ (కొనసాగింపు ధర్మబద్ధంగా ఎలా ఉంటుంది — ఐదవ నిర్మాణ బ్లాక్ కాదు), కొనసాగింపు కొలత కుటుంబం, మరియు [అధ్యాయం ఐదు అక్షరక్రమ డైరెక్టరీ](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
 
@@ -55,7 +55,7 @@
     - సరిదిద్దుటలను ఎప్పటికీ వాయిదా వేయడానికి **కొనసాగింపు**ను వాడడం;
     - దాచిన ప్రమాద విసిరేయడం, తిరుగులేని హాని, లేదా పర్యావరణ భారాలను ఇతరులపై మళ్లించడంపై నిలిచినప్పుడు «స్థిరత»ను అనుసరణగా పరిగణించడం;
     - [సవాలు-యోగ్యత](../../core_05_band_accountability.md#contestability) లేదా [సమయానుకూల పరిష్కారం](../../core_05_band_accountability.md#timely-resolution-constitutional)ను అడ్డుకోవడానికి సాధారణ «లైట్లు వెలిగించి ఉంచడం» మాటలను వాడడం; లేదా
-    - [అధ్యాయం ఒకటి §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) కింద స్పష్టమైన అనుమతి లేకుండా [సమున్నతి](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)ను భౌతికంగా ఓడించే విధంగా **కొనసాగింపు**ను అనుసరించడం.
+    - [అధ్యాయం ఒకటి §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) కింద స్పష్టమైన అనుమతి లేకుండా [సమున్నతి](core_05_apex_flourishing_aim.md#flourishing-constitutional)ను భౌతికంగా ఓడించే విధంగా **కొనసాగింపు**ను అనుసరించడం.
 
 ---
 
@@ -131,6 +131,6 @@
 
 **మునుపటి ఫైల్ (ఈ భాషలో):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 
-**తదుపరి ఫైల్ (ఇంకా ఆంగ్లంలో):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+**తదుపరి ఫైల్ (ఈ భాషలో):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
 **బంధనీయ మూలం:** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)

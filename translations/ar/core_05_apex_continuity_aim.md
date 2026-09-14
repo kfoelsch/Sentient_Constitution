@@ -12,7 +12,7 @@
 >
 > **السابق (هذه اللغة):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 >
-> **التالي (ما زال بالإنجليزية):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+> **التالي (هذه اللغة):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 > **قوس القراءة:** ما هو / كيف يُقاس ويُقيَّم / ما يجب أن يصمد → تفكيك المقصد → أسرة القياس.
 
 </details>
@@ -22,7 +22,7 @@
 
 - أعلى: [بوصلة الفصل الخامس](core_05__definitions_home.md#chapter-five-compass-and-definition-map)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims)؛ المقصد بلغة بسيطة في [الديباجة §1](core_00_preamble.md#continuity).
 - أسفل: المبادئ: [الفصل الأول §4.1 المرونة وتصميم الشفاء الذاتي](core_01_a_values_principles.md#41-resilience-and-self-healing-design)؛ [§12 قدرة الأنظمة المشتركة](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity)؛ [§11.1.5 انضباط ادعاءات النتائج الدستورية](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)؛ [تفكيك المقصد الدستوري](#continuity-aim-decomposition)؛ مجموعات موضوعات الاستمرارية في [core_05_band_continuity.md](../../core_05_band_continuity.md).
-- يُقرأ مع: [الإدارة المسؤولة](../../core_05_band_continuity.md#stewardship-constitutional)، [عيب الإدارة المسؤولة](../../core_05_band_continuity.md#stewardship-defect-constitutional)، [النزاهة البيئية](../../core_05_band_continuity.md#ecological-integrity-constitutional)، [الاعتماد](../../core_05_band_continuity.md#dependency)، [تباعد المؤشرات البديلة](../../core_05_band_oversight.md#proxy-divergence)، [المخاطر الوجودية](../../core_05_band_continuity.md#existential-risk)، [الإخفاق المتسلسل](../../core_05_band_continuity.md#cascading-failure)، [الازدهار](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) (المقصد المزدوج — لا يجوز السعي إلى أي منهما على حساب الآخر؛ فالسعي إلى مكاسب قصيرة الأجل تُفرغ **المشاركة** أو **الرقابة** أو **المساءلة** أو **حسن التوقيت** دون ما يطلبه [الرهان المادي](core_00_preamble.md#material-stake) يُخفق **الاستمرارية**، حتى إن ارتفعت النواتج القريبة)، [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) مقيسة بـ[الرهان المادي](core_00_preamble.md#material-stake) (كيف تبقى الاستمرارية شرعية — لا لبنة بناء خامسة)، أسرة قياس الاستمرارية، و[الدليل الألفبائي للفصل الخامس](core_05__definitions_home.md#chapter-five-alphabetical-directory).
+- يُقرأ مع: [الإدارة المسؤولة](../../core_05_band_continuity.md#stewardship-constitutional)، [عيب الإدارة المسؤولة](../../core_05_band_continuity.md#stewardship-defect-constitutional)، [النزاهة البيئية](../../core_05_band_continuity.md#ecological-integrity-constitutional)، [الاعتماد](../../core_05_band_continuity.md#dependency)، [تباعد المؤشرات البديلة](../../core_05_band_oversight.md#proxy-divergence)، [المخاطر الوجودية](../../core_05_band_continuity.md#existential-risk)، [الإخفاق المتسلسل](../../core_05_band_continuity.md#cascading-failure)، [الازدهار](core_05_apex_flourishing_aim.md#flourishing-constitutional) (المقصد المزدوج — لا يجوز السعي إلى أي منهما على حساب الآخر؛ فالسعي إلى مكاسب قصيرة الأجل تُفرغ **المشاركة** أو **الرقابة** أو **المساءلة** أو **حسن التوقيت** دون ما يطلبه [الرهان المادي](core_00_preamble.md#material-stake) يُخفق **الاستمرارية**، حتى إن ارتفعت النواتج القريبة)، [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) مقيسة بـ[الرهان المادي](core_00_preamble.md#material-stake) (كيف تبقى الاستمرارية شرعية — لا لبنة بناء خامسة)، أسرة قياس الاستمرارية، و[الدليل الألفبائي للفصل الخامس](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
 
@@ -55,7 +55,7 @@
     - استخدام **الاستمرارية** لتأجيل الإصلاحات إلى الأبد؛
     - معاملة «الاستقرار» على أنه امتثال حين يقوم على إلقاء مخاطر خفية أو ضرر لا رجعة فيه أو إزاحة أعباء بيئية إلى غيرهم؛
     - استخدام الكلام العادي عن «إبقاء الأنوار مضاءة» لصدّ [قابلية الطعن](../../core_05_band_accountability.md#contestability) أو [الحل في وقته](../../core_05_band_accountability.md#timely-resolution-constitutional)؛ أو
-    - السعي إلى **الاستمرارية** على نحو يهزم [الازدهار](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) ماديًا من دون إذن واضح تحت [الفصل الأول §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+    - السعي إلى **الاستمرارية** على نحو يهزم [الازدهار](core_05_apex_flourishing_aim.md#flourishing-constitutional) ماديًا من دون إذن واضح تحت [الفصل الأول §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
 
 ---
 
@@ -131,6 +131,6 @@
 
 **الملف السابق (هذه اللغة):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 
-**الملف التالي (ما زال بالإنجليزية):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+**الملف التالي (هذه اللغة):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
 **الأصل الملزم:** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)

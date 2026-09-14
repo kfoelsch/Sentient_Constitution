@@ -12,7 +12,7 @@
 >
 > **قبلی (این زبان):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 >
-> **بعدی (هنوز انگلیسی):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+> **بعدی (این زبان):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 > **قوس خواندن:** چیست / چگونه اندازه بگیریم و ارزیابی کنیم / چه باید برقرار بماند → تجزیهٔ هدف → خانوادهٔ اندازه‌گیری.
 
 </details>
@@ -22,7 +22,7 @@
 
 - بالادست: [قطب‌نمای فصل پنجم](core_05__definitions_home.md#chapter-five-compass-and-definition-map)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims)؛ هدف به زبان ساده در [دیباچه §1](core_00_preamble.md#continuity).
 - پایین‌دست: اصول: [فصل یکم §4.1 تاب‌آوری و طراحی خودترمیمی](core_01_a_values_principles.md#41-resilience-and-self-healing-design)؛ [§12 ظرفیت نظام مشترک](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity)؛ [§11.1.5 انضباط ادعاهای پیامد قانون اساسی](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)؛ [تجزیهٔ هدف قانون اساسی](#continuity-aim-decomposition)؛ گروه‌های موضوع پیوستگی در [core_05_band_continuity.md](../../core_05_band_continuity.md).
-- خوانده شود با: [مدیریت مسئولانه](../../core_05_band_continuity.md#stewardship-constitutional)، [نقص مدیریت مسئولانه](../../core_05_band_continuity.md#stewardship-defect-constitutional)، [یکپارچگی بوم‌شناختی](../../core_05_band_continuity.md#ecological-integrity-constitutional)، [وابستگی](../../core_05_band_continuity.md#dependency)، [واگرایی شاخص جانشین](../../core_05_band_oversight.md#proxy-divergence)، [خطر وجودی](../../core_05_band_continuity.md#existential-risk)، [شکست آبشاری](../../core_05_band_continuity.md#cascading-failure)، [شکوفایی](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) (هدف جفت — هیچ‌یک نباید به هزینهٔ دیگری دنبال شود؛ پیگیری سودهای کوتاه‌مدت که **مشارکت**، **نظارت**، **پاسخگویی** یا **به‌هنگامی** را زیر آنچه [منافع مادی](core_00_preamble.md#material-stake) می‌خواهد خالی کند **پیوستگی** را می‌شکند، حتی اگر خروجی‌های نزدیک‌مدت بالا بروند)، [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) مقیاس‌شده با [منافع مادی](core_00_preamble.md#material-stake) (پیوستگی چگونه مشروع می‌ماند — نه یک بلوک ساخت پنجم)، خانوادهٔ اندازه‌گیری پیوستگی، و [فهرست الفبایی فصل پنجم](core_05__definitions_home.md#chapter-five-alphabetical-directory).
+- خوانده شود با: [مدیریت مسئولانه](../../core_05_band_continuity.md#stewardship-constitutional)، [نقص مدیریت مسئولانه](../../core_05_band_continuity.md#stewardship-defect-constitutional)، [یکپارچگی بوم‌شناختی](../../core_05_band_continuity.md#ecological-integrity-constitutional)، [وابستگی](../../core_05_band_continuity.md#dependency)، [واگرایی شاخص جانشین](../../core_05_band_oversight.md#proxy-divergence)، [خطر وجودی](../../core_05_band_continuity.md#existential-risk)، [شکست آبشاری](../../core_05_band_continuity.md#cascading-failure)، [شکوفایی](core_05_apex_flourishing_aim.md#flourishing-constitutional) (هدف جفت — هیچ‌یک نباید به هزینهٔ دیگری دنبال شود؛ پیگیری سودهای کوتاه‌مدت که **مشارکت**، **نظارت**، **پاسخگویی** یا **به‌هنگامی** را زیر آنچه [منافع مادی](core_00_preamble.md#material-stake) می‌خواهد خالی کند **پیوستگی** را می‌شکند، حتی اگر خروجی‌های نزدیک‌مدت بالا بروند)، [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) مقیاس‌شده با [منافع مادی](core_00_preamble.md#material-stake) (پیوستگی چگونه مشروع می‌ماند — نه یک بلوک ساخت پنجم)، خانوادهٔ اندازه‌گیری پیوستگی، و [فهرست الفبایی فصل پنجم](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
 
@@ -55,7 +55,7 @@
     - به‌کاربردن **پیوستگی** برای به تعویق انداختن اصلاح‌ها برای همیشه؛
     - دانستن «ثبات» به‌عنوان انطباق وقتی بر تخلیهٔ پنهان خطر، آسیب برگشت‌ناپذیر، یا جابه‌جا کردن بارهای بوم‌شناختی به دیگران تکیه دارد؛
     - به‌کاربردن سخن عادی «چراغ‌ها را روشن نگه داشتن» برای مسدود کردن [قابلیت اعتراض](../../core_05_band_accountability.md#contestability) یا [حل به‌هنگام](../../core_05_band_accountability.md#timely-resolution-constitutional)؛ یا
-    - دنبال کردن **پیوستگی** به شیوه‌ای که از نظر مادی [شکوفایی](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) را شکست دهد بدون مجوز روشن زیر [فصل یکم §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+    - دنبال کردن **پیوستگی** به شیوه‌ای که از نظر مادی [شکوفایی](core_05_apex_flourishing_aim.md#flourishing-constitutional) را شکست دهد بدون مجوز روشن زیر [فصل یکم §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
 
 ---
 
@@ -131,6 +131,6 @@
 
 **پروندهٔ قبلی:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 
-**پروندهٔ بعدی (هنوز انگلیسی):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+**پروندهٔ بعدی (این زبان):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
 **اصل الزام‌آور:** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)

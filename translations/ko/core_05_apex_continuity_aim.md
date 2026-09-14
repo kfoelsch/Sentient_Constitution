@@ -12,7 +12,7 @@
 >
 > **이전(이 언어):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 >
-> **다음(아직 영어):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+> **다음(이 언어):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 > **읽기 호:** 그것이 무엇인가 / 어떻게 측정하고 평가하는가 / 무엇이 버티어야 하는가 → 목적 분해 → 측정 가족.
 
 </details>
@@ -22,7 +22,7 @@
 
 - 상류: [제5장 나침반](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [두 헌법 목적](core_00_preamble.md#two-constitutional-aims); 쉬운 말 목적은 [전문 §1](core_00_preamble.md#continuity).
 - 하류: 원칙: [제1장 §4.1 회복력과 자기치유 설계](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 공유 체계 능력](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 헌법 결과 주장 규율](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [헌법 목적 분해](#continuity-aim-decomposition); [core_05_band_continuity.md](../../core_05_band_continuity.md)의 연속 주제 무리.
-- 함께 읽기: [책임 있는 관리](../../core_05_band_continuity.md#stewardship-constitutional), [책임 있는 관리 결함](../../core_05_band_continuity.md#stewardship-defect-constitutional), [생태 완전성](../../core_05_band_continuity.md#ecological-integrity-constitutional), [의존](../../core_05_band_continuity.md#dependency), [대리지표 이탈](../../core_05_band_oversight.md#proxy-divergence), [존재 위험](../../core_05_band_continuity.md#existential-risk), [연쇄 실패](../../core_05_band_continuity.md#cascading-failure), [번영](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) (짝 목적 — 어느 쪽도 다른 쪽을 희생해 쫓으면 안 된다; 단기 이득을 쫓아 **참여**, **감독**, **책무**, 또는 **적시성**을 [실질 이해관계](core_00_preamble.md#material-stake)가 요구하는 아래로 비우면 **연속**을 어긴다, 가까운 기간 산출이 올라가더라도), [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)을 [실질 이해관계](core_00_preamble.md#material-stake)에 맞춰 세기 조절 (연속이 어떻게 정당성을 유지하는가 — 다섯 번째 구성 블록이 아님), 연속 측정 가족, 그리고 [제5장 알파벳 색인](core_05__definitions_home.md#chapter-five-alphabetical-directory).
+- 함께 읽기: [책임 있는 관리](../../core_05_band_continuity.md#stewardship-constitutional), [책임 있는 관리 결함](../../core_05_band_continuity.md#stewardship-defect-constitutional), [생태 완전성](../../core_05_band_continuity.md#ecological-integrity-constitutional), [의존](../../core_05_band_continuity.md#dependency), [대리지표 이탈](../../core_05_band_oversight.md#proxy-divergence), [존재 위험](../../core_05_band_continuity.md#existential-risk), [연쇄 실패](../../core_05_band_continuity.md#cascading-failure), [번영](core_05_apex_flourishing_aim.md#flourishing-constitutional) (짝 목적 — 어느 쪽도 다른 쪽을 희생해 쫓으면 안 된다; 단기 이득을 쫓아 **참여**, **감독**, **책무**, 또는 **적시성**을 [실질 이해관계](core_00_preamble.md#material-stake)가 요구하는 아래로 비우면 **연속**을 어긴다, 가까운 기간 산출이 올라가더라도), [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)을 [실질 이해관계](core_00_preamble.md#material-stake)에 맞춰 세기 조절 (연속이 어떻게 정당성을 유지하는가 — 다섯 번째 구성 블록이 아님), 연속 측정 가족, 그리고 [제5장 알파벳 색인](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
 
@@ -55,7 +55,7 @@
     - **연속**을 써서 교정을 영원히 미루는 것;
     - 「안정」을 준수로 다루는 것, 그것이 숨은 위험 떠넘기기, 되돌릴 수 없는 해, 또는 생태 부담을 남에게 옮기는 것에 기대 있을 때;
     - 보통의 「불을 켜 두기」 말로 [다툴 수 있음](../../core_05_band_accountability.md#contestability) 또는 [제때 해결](../../core_05_band_accountability.md#timely-resolution-constitutional)을 막는 것; 또는
-    - **연속**을 [제1장 §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) 아래 분명한 허가 없이 [번영](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)을 실질로 꺾는 방식으로 추구하는 것.
+    - **연속**을 [제1장 §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) 아래 분명한 허가 없이 [번영](core_05_apex_flourishing_aim.md#flourishing-constitutional)을 실질로 꺾는 방식으로 추구하는 것.
 
 ---
 
@@ -131,6 +131,6 @@
 
 **이전 파일(이 언어):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 
-**다음 파일(아직 영어):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+**다음 파일(이 언어):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
 **구속력 있는 원문:** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)

@@ -186,7 +186,7 @@
 - [منصفانہ معاوضہ](../../core_05_band_continuity.md#fair-compensation-constitutional)
 - [خاندانی اور نگہداشت تعلقات](../../core_05_band_participation.md#family-and-care-relationships-constitutional)
 - [عمل پذیری](../../core_05_band_accountability.md#feasibility)
-- [شگفتگی](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)
+- [شگفتگی](core_05_apex_flourishing_aim.md#flourishing-constitutional)
 - [قاہرہ قوت](../../core_05_band_accountability.md#force-majeure-constitutional)
 - [پیش بینی کی مستعدی](../../core_05_band_oversight.md#foreseeability-diligence)
 - [فورم کیس ریکارڈ](../../core_05_band_accountability.md#forum-case-record)
@@ -387,7 +387,7 @@
 
 | پٹی | فائل | **Def.** جھرمٹ حد |
 |---|---|---|
-| **شگفتگی مقصد** | [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md) | صرف مقصد مراتب نقشہ — برگ تعریفیں پٹی فائلوں میں |
+| **شگفتگی مقصد** | [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md) | صرف مقصد مراتب نقشہ — برگ تعریفیں پٹی فائلوں میں |
 | **استمرار مقصد** | [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) | صرف مقصد مراتب نقشہ — برگ تعریفیں پٹی فائلوں میں |
 | **نگرانی ٹانگ** | [core_05_band_oversight.md](../../core_05_band_oversight.md) | **Def.O1–Def.O2** |
 | **شرکت ٹانگ** | [core_05_band_participation.md](../../core_05_band_participation.md) | **Def.P1–Def.P4** |
@@ -415,7 +415,7 @@
 
 | تمہید زمرہ | سادہ سوال | باب پنجم پٹی گھر | تقسیم جگہ نوٹس |
 |---|---|---|---|
-| [شگفتگی پیمائش خاندان](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family) | کیا شعوری وجود زندگی، حفاظت اور ضروری چیزوں کی رسائی میں قائم رہتے ہیں؟ | [شگفتگی مقصد](../../core_05_apex_flourishing_aim.md)، [شرکت](../../core_05_band_participation.md)، [استمرار](../../core_05_band_continuity.md)، [جوابدہی](../../core_05_band_accountability.md) | **شگفتگی** آئینی **مقصد** ہے، چوکڑی کی ٹانگ نہیں — [آئینی مقصد تحلیل نقشہ](../../core_05_apex_flourishing_aim.md#flourishing-aim-decomposition)؛ ٹھوس پیمانے برگ بنیادیوں پر: [بہبود](../../core_05_band_continuity.md#wellbeing) (بنیادی نتیجہ)، [حفاظت (پابندی)](../../core_05_band_continuity.md#safety-constraint)، بقا کی تہہ کی اصطلاحیں، [نقصان](../../core_05_band_accountability.md#harm) |
+| [شگفتگی پیمائش خاندان](core_05_apex_flourishing_aim.md#flourishing-measurement-family) | کیا شعوری وجود زندگی، حفاظت اور ضروری چیزوں کی رسائی میں قائم رہتے ہیں؟ | [شگفتگی مقصد](core_05_apex_flourishing_aim.md)، [شرکت](../../core_05_band_participation.md)، [استمرار](../../core_05_band_continuity.md)، [جوابدہی](../../core_05_band_accountability.md) | **شگفتگی** آئینی **مقصد** ہے، چوکڑی کی ٹانگ نہیں — [آئینی مقصد تحلیل نقشہ](core_05_apex_flourishing_aim.md#flourishing-aim-decomposition)؛ ٹھوس پیمانے برگ بنیادیوں پر: [بہبود](../../core_05_band_continuity.md#wellbeing) (بنیادی نتیجہ)، [حفاظت (پابندی)](../../core_05_band_continuity.md#safety-constraint)، بقا کی تہہ کی اصطلاحیں، [نقصان](../../core_05_band_accountability.md#harm) |
 | [استمرار پیمائش خاندان](core_05_apex_continuity_aim.md#continuity-measurement-family) | کیا شعوری وجود اور نظام ٹک سکتے ہیں — ماحولیاتی طور پر، قابلِ اعتماد طور پر، اور ناکامی کے پار؟ | [استمرار مقصد](core_05_apex_continuity_aim.md)، [استمرار](../../core_05_band_continuity.md) | **استمرار** آئینی **مقصد** ہے، چوکڑی کی ٹانگ نہیں — [آئینی مقصد تحلیل نقشہ](core_05_apex_continuity_aim.md#continuity-aim-decomposition)؛ ٹھوس پیمانے **استمرار** پٹی کی برگ بنیادیوں پر: [ماحولیاتی نقش](../../core_05_band_continuity.md#ecological-footprint)، [انحصار](../../core_05_band_continuity.md#dependency)، [الٹ پھیر](../../core_05_band_continuity.md#reversibility-constitutional)، [پائیداری](../../core_05_band_continuity.md#sustainability)، [متناسب بین نظامی حصہ](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | [شرکت پیمائش خاندان](../../core_05_apex_participation_leg.md#participation-measurement-family) | کیا متاثر شعوری وجود منصفانہ حصہ لے سکتے ہیں — آواز، رسائی، سیکھنا اور رازداری؟ | [شرکت](../../core_05_band_participation.md)، [استمرار](../../core_05_band_continuity.md) | انصاف، رسائی اور فاعلیت کی اصطلاحیں **شرکت** پٹی میں؛ [رازداری (معلوماتی)](../../core_05_band_continuity.md#privacy-informational-cluster) جھرمٹ **استمرار** پٹی میں کیونکہ رازداری حقوق کی دفعات کے پار تقسیم ہے |
 | [نگرانی پیمائش خاندان](../../core_05_apex_oversight_leg.md#oversight-measurement-family) | کیا شعوری وجود دیکھ، تصدیق اور بھروسہ کر سکتے ہیں کہ نظام کیا پیش کرتے ہیں؟ | [نگرانی](../../core_05_band_oversight.md)، [استمرار](../../core_05_band_continuity.md) | سچائی اور حقائق کی دیانت کی بنیادی **نگرانی** پٹی میں ([نگرانی](../../core_05_apex_oversight_leg.md#oversight-constitutional) صرف لنک ٹانگ سر رول اپ)؛ [اعتبار](../../core_05_band_continuity.md#trustworthiness) اور [اعتماد کی گراوٹ اور گمراہ کن انحصار](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) **استمرار** پٹی میں (**Def.C4**) |

@@ -12,7 +12,7 @@
 >
 > **আগেরটি (এই ভাষায়):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 >
-> **পরেরটি (এখনও ইংরেজিতে):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+> **পরেরটি (এই ভাষায়):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 > **পড়ার আর্ক:** এটি কী / কীভাবে পরিমাপ ও মূল্যায়ন করতে হয় / কী ধরে থাকতে হয় → উদ্দেশ্য বিভাজন → পরিমাপ পরিবার।
 
 </details>
@@ -22,7 +22,7 @@
 
 - ঊর্ধ্ব: [অধ্যায় পাঁচ কম্পাস](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims); সহজ ভাষায় উদ্দেশ্য [প্রস্তাবনা §1](core_00_preamble.md#continuity)-এ।
 - অধঃ: নীতি: [অধ্যায় এক §4.1 স্থিতিস্থাপকতা ও স্ব-মেরামত নকশা](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 ভাগ করা ব্যবস্থার ক্ষমতা](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 সাংবিধানিক ফল দাবি শৃঙ্খলা](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [সাংবিধানিক উদ্দেশ্য বিভাজন](#continuity-aim-decomposition); সাতত্য বিষয় গুচ্ছ [core_05_band_continuity.md](../../core_05_band_continuity.md)-এ।
-- সঙ্গে পড়ুন: [দায়িত্বশীল ব্যবস্থাপনা](../../core_05_band_continuity.md#stewardship-constitutional), [দায়িত্বশীল ব্যবস্থাপনা ত্রুটি](../../core_05_band_continuity.md#stewardship-defect-constitutional), [পরিবেশগত সততা](../../core_05_band_continuity.md#ecological-integrity-constitutional), [নির্ভরতা](../../core_05_band_continuity.md#dependency), [স্থলাভিষিক্ত-সংকেত বিচ্যুতি](../../core_05_band_oversight.md#proxy-divergence), [অস্তিত্বগত ঝুঁকি](../../core_05_band_continuity.md#existential-risk), [ধারাবাহিক ব্যর্থতা](../../core_05_band_continuity.md#cascading-failure), [সমুন্নতি](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) (জোড়া উদ্দেশ্য — কোনোটিই অন্যটির খরচে তাড়া করা যায় না; স্বল্পমেয়াদি লাভ তাড়া করা যা **অংশগ্রহণ**, **তত্ত্বাবধান**, **জবাবদিহি** বা **সময়ানুবর্তিতা**-কে [বস্তুগত বাজি](core_00_preamble.md#material-stake) যা চায় তার নিচে ফাঁপা করে **সাতত্য** ভঙ্গ করে, কাছের মেয়াদের ফল বাড়লেও), [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) [বস্তুগত বাজি](core_00_preamble.md#material-stake)-তে স্কেল করা (সাতত্য কীভাবে বৈধ থাকে — পঞ্চম গঠন-খণ্ড নয়), সাতত্য পরিমাপ পরিবার, এবং [অধ্যায় পাঁচ বর্ণানুক্রমিক নির্দেশিকা](core_05__definitions_home.md#chapter-five-alphabetical-directory)।
+- সঙ্গে পড়ুন: [দায়িত্বশীল ব্যবস্থাপনা](../../core_05_band_continuity.md#stewardship-constitutional), [দায়িত্বশীল ব্যবস্থাপনা ত্রুটি](../../core_05_band_continuity.md#stewardship-defect-constitutional), [পরিবেশগত সততা](../../core_05_band_continuity.md#ecological-integrity-constitutional), [নির্ভরতা](../../core_05_band_continuity.md#dependency), [স্থলাভিষিক্ত-সংকেত বিচ্যুতি](../../core_05_band_oversight.md#proxy-divergence), [অস্তিত্বগত ঝুঁকি](../../core_05_band_continuity.md#existential-risk), [ধারাবাহিক ব্যর্থতা](../../core_05_band_continuity.md#cascading-failure), [সমুন্নতি](core_05_apex_flourishing_aim.md#flourishing-constitutional) (জোড়া উদ্দেশ্য — কোনোটিই অন্যটির খরচে তাড়া করা যায় না; স্বল্পমেয়াদি লাভ তাড়া করা যা **অংশগ্রহণ**, **তত্ত্বাবধান**, **জবাবদিহি** বা **সময়ানুবর্তিতা**-কে [বস্তুগত বাজি](core_00_preamble.md#material-stake) যা চায় তার নিচে ফাঁপা করে **সাতত্য** ভঙ্গ করে, কাছের মেয়াদের ফল বাড়লেও), [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) [বস্তুগত বাজি](core_00_preamble.md#material-stake)-তে স্কেল করা (সাতত্য কীভাবে বৈধ থাকে — পঞ্চম গঠন-খণ্ড নয়), সাতত্য পরিমাপ পরিবার, এবং [অধ্যায় পাঁচ বর্ণানুক্রমিক নির্দেশিকা](core_05__definitions_home.md#chapter-five-alphabetical-directory)।
 
 </details>
 
@@ -55,7 +55,7 @@
     - **সাতত্য** ব্যবহার করে মেরামত চিরকাল পিছিয়ে দেওয়া;
     - «স্থিতি»-কে অনুপালন হিসেবে গণ্য করা যখন তা লুকানো ঝুঁকি ফেলে দেওয়া, অপরিবর্তনীয় ক্ষতি, বা পরিবেশগত ভার অন্যের উপর সরিয়ে দেওয়ার উপর দাঁড়ায়;
     - সাধারণ «লাইট জ্বালিয়ে রাখা» কথা দিয়ে [চ্যালেঞ্জ-যোগ্যতা](../../core_05_band_accountability.md#contestability) বা [সময়মতো সমাধান](../../core_05_band_accountability.md#timely-resolution-constitutional) আটকানো; বা
-    - **সাতত্য** এমনভাবে তাড়া করা যা [সমুন্নতি](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)-কে বস্তুগতভাবে হারায় [অধ্যায় এক §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)-এর অধীনে স্পষ্ট অনুমতি ছাড়া।
+    - **সাতত্য** এমনভাবে তাড়া করা যা [সমুন্নতি](core_05_apex_flourishing_aim.md#flourishing-constitutional)-কে বস্তুগতভাবে হারায় [অধ্যায় এক §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)-এর অধীনে স্পষ্ট অনুমতি ছাড়া।
 
 ---
 
@@ -131,6 +131,6 @@
 
 **আগের ফাইল:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 
-**পরের ফাইল (এখনও ইংরেজিতে):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+**পরের ফাইল (এই ভাষায়):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
 **বাধ্যতামূলক মূল:** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)

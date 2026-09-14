@@ -24,7 +24,7 @@
 > - **제2장 (이 파일)** — O/M/A/C 정의 구조와 구성 정합: 모든 정의는 **존재론 (O)** (그것이 무엇인가), **평가 (A)** 의무와 엮인 **측정 (M)** 등록 (어떻게 측정되고 평가되어야 하는가), 그리고 **준수 (C)** (무엇이 버티어야 하는가)를 잇는다 ([§1 목적과 역할](core_02_definition_structure.md#1-purpose-and-role); [§2 정의 완전성 요건](core_02_definition_structure.md#2-definition-integrity-requirement)).
 > - **제3장** — 정의 완전성, 회피, 비준수 ([제3장](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).
 > - **제4장** — 증명 부담, 정의 추적 가능성, 관찰 가능성, 보안 한도 아래의 확인, 확인의 접근성 ([제4장 — 증명 부담, 추적 가능성, 확인](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)).
-> - **제5장** — 측정, 평가, 준수를 위한 공유 어휘 (사원(四元)의 다섯 띠 파일과 헌법 목적 파일에 걸친 1–3절의 독립, 무리, 묶음 정의: [번영 목적](../../core_05_apex_flourishing_aim.md), [감독](../../core_05_band_oversight.md), [참여](../../core_05_band_participation.md), [책무](../../core_05_band_accountability.md), [연속](../../core_05_band_continuity.md), [통합](../../core_05_band_integrative.md)); 읽기 순서와 지도는 [A부분](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
+> - **제5장** — 측정, 평가, 준수를 위한 공유 어휘 (사원(四元)의 다섯 띠 파일과 헌법 목적 파일에 걸친 1–3절의 독립, 무리, 묶음 정의: [번영 목적](core_05_apex_flourishing_aim.md), [감독](../../core_05_band_oversight.md), [참여](../../core_05_band_participation.md), [책무](../../core_05_band_accountability.md), [연속](../../core_05_band_continuity.md), [통합](../../core_05_band_integrative.md)); 읽기 순서와 지도는 [A부분](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 > - **CJS** — 교차 시행 용어의 운영 정의 ([CJS-3](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) 운영 무리 도서관); 제5장 정전 거처를 적용하라 — 재정의하지 말라. **CS**, **CI**, **CF**의 영역 분류와 규약도 같은 규칙을 따른다.
 >
 > 추가 안내:

@@ -186,7 +186,7 @@
 - [न्याय्य मोबदला](../../core_05_band_continuity.md#fair-compensation-constitutional)
 - [कुटुंब आणि काळजी संबंध](../../core_05_band_participation.md#family-and-care-relationships-constitutional)
 - [व्यवहार्यता](../../core_05_band_accountability.md#feasibility)
-- [समुन्नती](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)
+- [समुन्नती](core_05_apex_flourishing_aim.md#flourishing-constitutional)
 - [फोर्स मॅज्यर](../../core_05_band_accountability.md#force-majeure-constitutional)
 - [पूर्वानुमेयता दक्षता](../../core_05_band_oversight.md#foreseeability-diligence)
 - [मंच प्रकरण अभिलेख](../../core_05_band_accountability.md#forum-case-record)
@@ -387,7 +387,7 @@
 
 | पट्टी | फाइल | **Def.** समूह पट्टा |
 |---|---|---|
-| **समुन्नती उद्दिष्ट** | [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md) | फक्त उद्दिष्ट श्रेणीक्रम नकाशा — पान व्याख्या पट्टी फाइलांत |
+| **समुन्नती उद्दिष्ट** | [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md) | फक्त उद्दिष्ट श्रेणीक्रम नकाशा — पान व्याख्या पट्टी फाइलांत |
 | **सातत्य उद्दिष्ट** | [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) | फक्त उद्दिष्ट श्रेणीक्रम नकाशा — पान व्याख्या पट्टी फाइलांत |
 | **देखरेख पाया** | [core_05_band_oversight.md](../../core_05_band_oversight.md) | **Def.O1–Def.O2** |
 | **सहभाग पाया** | [core_05_band_participation.md](../../core_05_band_participation.md) | **Def.P1–Def.P4** |
@@ -415,7 +415,7 @@
 
 | Ch00 वर्ग | सोपा प्रश्न | अध्याय पाच पट्टी घर | विभागलेल्या स्थानांच्या टीपा |
 |---|---|---|---|
-| [समुन्नती मापन कुटुंब](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family) | संज्ञ प्राणी जीवन, सुरक्षा आणि आवश्यक गोष्टींच्या पोहोचांत टिकतात का? | [समुन्नती उद्दिष्ट](../../core_05_apex_flourishing_aim.md), [सहभाग](../../core_05_band_participation.md), [सातत्य](../../core_05_band_continuity.md), [उत्तरदायित्व](../../core_05_band_accountability.md) | **समुन्नती** संवैधानिक **उद्दिष्ट** आहे, चतुष्क पाया नाही — [संवैधानिक उद्दिष्ट विघटन नकाशा](../../core_05_apex_flourishing_aim.md#flourishing-aim-decomposition); ठोस मापे पान प्राथमिकांवर: [कल्याण](../../core_05_band_continuity.md#wellbeing) (प्राथमिक निकाल), [सुरक्षा (बंधन)](../../core_05_band_continuity.md#safety-constraint), जिवंत राहण्याच्या तळाची पदे, [हानी](../../core_05_band_accountability.md#harm) |
+| [समुन्नती मापन कुटुंब](core_05_apex_flourishing_aim.md#flourishing-measurement-family) | संज्ञ प्राणी जीवन, सुरक्षा आणि आवश्यक गोष्टींच्या पोहोचांत टिकतात का? | [समुन्नती उद्दिष्ट](core_05_apex_flourishing_aim.md), [सहभाग](../../core_05_band_participation.md), [सातत्य](../../core_05_band_continuity.md), [उत्तरदायित्व](../../core_05_band_accountability.md) | **समुन्नती** संवैधानिक **उद्दिष्ट** आहे, चतुष्क पाया नाही — [संवैधानिक उद्दिष्ट विघटन नकाशा](core_05_apex_flourishing_aim.md#flourishing-aim-decomposition); ठोस मापे पान प्राथमिकांवर: [कल्याण](../../core_05_band_continuity.md#wellbeing) (प्राथमिक निकाल), [सुरक्षा (बंधन)](../../core_05_band_continuity.md#safety-constraint), जिवंत राहण्याच्या तळाची पदे, [हानी](../../core_05_band_accountability.md#harm) |
 | [सातत्य मापन कुटुंब](core_05_apex_continuity_aim.md#continuity-measurement-family) | संज्ञ प्राणी आणि प्रणाली टिकू शकतात का — पारिस्थितिक रीतीने, विश्वासार्ह रीतीने, आणि अपयशापलीकडे? | [सातत्य उद्दिष्ट](core_05_apex_continuity_aim.md), [सातत्य](../../core_05_band_continuity.md) | **सातत्य** संवैधानिक **उद्दिष्ट** आहे, चतुष्क पाया नाही — [संवैधानिक उद्दिष्ट विघटन नकाशा](core_05_apex_continuity_aim.md#continuity-aim-decomposition); ठोस मापे **सातत्य** पट्ट्यातील पान प्राथमिकांवर: [पारिस्थितिक पदचिन्ह](../../core_05_band_continuity.md#ecological-footprint), [अवलंबित्व](../../core_05_band_continuity.md#dependency), [उत्क्रमणीयता](../../core_05_band_continuity.md#reversibility-constitutional), [टिकाऊपणा](../../core_05_band_continuity.md#sustainability), [प्रमाणबद्ध आंतर-प्रणाली योगदान](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | [सहभाग मापन कुटुंब](../../core_05_apex_participation_leg.md#participation-measurement-family) | प्रभावित संज्ञ प्राणी न्याय्य रीतीने सहभागी होऊ शकतात का — आवाज, पोहोच, शिकणे आणि गोपनीयता? | [सहभाग](../../core_05_band_participation.md), [सातत्य](../../core_05_band_continuity.md) | न्याय्यपणा, पोहोच आणि कर्तृत्व पदे **सहभाग** पट्ट्यात; [गोपनीयता (सूचनात्मक)](../../core_05_band_continuity.md#privacy-informational-cluster) समूह **सातत्य** पट्ट्यात कारण गोपनीयता अधिकार अनुच्छेदांतून पसरते |
 | [देखरेख मापन कुटुंब](../../core_05_apex_oversight_leg.md#oversight-measurement-family) | संज्ञ प्राणी प्रणाली काय दाखवतात ते पाहू, सत्यापित करू आणि त्यावर विश्वास ठेवू शकतात का? | [देखरेख](../../core_05_band_oversight.md), [सातत्य](../../core_05_band_continuity.md) | सत्य आणि ज्ञानविषयक अखंडता प्राथमिक **देखरेख** पट्ट्यात ([देखरेख](../../core_05_apex_oversight_leg.md#oversight-constitutional) फक्त-दुवा पाया-शीर्ष रोलअप); [विश्वासार्हता](../../core_05_band_continuity.md#trustworthiness) आणि [विश्वास क्षय आणि भ्रामक अवलंबित्व](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) **सातत्य** पट्ट्यात (**Def.C4**) |

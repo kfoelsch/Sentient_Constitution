@@ -12,7 +12,7 @@
 >
 > **Trước (ngôn ngữ này):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 >
-> **Tiếp theo (vẫn tiếng Anh):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+> **Tiếp theo (ngôn ngữ này):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 > **Cung đọc:** nó là gì / cách đo và đánh giá / điều phải đứng → phân rã mục tiêu → gia đình đo lường.
 
 </details>
@@ -22,7 +22,7 @@
 
 - Thượng nguồn: [La bàn Chương Năm](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims); mục tiêu ngôn ngữ thường ở [Lời nói đầu §1](core_00_preamble.md#continuity).
 - Hạ nguồn: Nguyên tắc: [Chương Một §4.1 Thiết kế khả năng phục hồi và tự chữa](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 Năng lực hệ thống chung](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 Kỷ luật tuyên bố kết quả hiến pháp](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Phân rã Mục tiêu Hiến pháp](#continuity-aim-decomposition); nhóm chủ đề Liên tục ở [core_05_band_continuity.md](../../core_05_band_continuity.md).
-- Đọc cùng: [Quản trị có trách nhiệm](../../core_05_band_continuity.md#stewardship-constitutional), [Khiếm khuyết quản trị có trách nhiệm](../../core_05_band_continuity.md#stewardship-defect-constitutional), [Tính toàn vẹn sinh thái](../../core_05_band_continuity.md#ecological-integrity-constitutional), [Phụ thuộc](../../core_05_band_continuity.md#dependency), [Lệch chỉ số thay thế](../../core_05_band_oversight.md#proxy-divergence), [Rủi ro tồn vong](../../core_05_band_continuity.md#existential-risk), [Sự cố lan](../../core_05_band_continuity.md#cascading-failure), [Hưng thịnh](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) (mục tiêu em cặp — không mục tiêu nào được đuổi với cái giá của cái kia; đuổi lợi ngắn hạn làm rỗng **tham gia**, **giám sát**, **trách nhiệm giải trình**, hoặc **kịp thời** xuống dưới mức [lợi hại vật chất](core_00_preamble.md#material-stake) đòi thì thất **Liên tục**, dù kết quả gần hạn tăng), [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake) (cách Liên tục vẫn chính danh — không phải khối xây thứ năm), gia đình đo lường Liên tục, và [mục lục theo bảng chữ cái Chương Năm](core_05__definitions_home.md#chapter-five-alphabetical-directory).
+- Đọc cùng: [Quản trị có trách nhiệm](../../core_05_band_continuity.md#stewardship-constitutional), [Khiếm khuyết quản trị có trách nhiệm](../../core_05_band_continuity.md#stewardship-defect-constitutional), [Tính toàn vẹn sinh thái](../../core_05_band_continuity.md#ecological-integrity-constitutional), [Phụ thuộc](../../core_05_band_continuity.md#dependency), [Lệch chỉ số thay thế](../../core_05_band_oversight.md#proxy-divergence), [Rủi ro tồn vong](../../core_05_band_continuity.md#existential-risk), [Sự cố lan](../../core_05_band_continuity.md#cascading-failure), [Hưng thịnh](core_05_apex_flourishing_aim.md#flourishing-constitutional) (mục tiêu em cặp — không mục tiêu nào được đuổi với cái giá của cái kia; đuổi lợi ngắn hạn làm rỗng **tham gia**, **giám sát**, **trách nhiệm giải trình**, hoặc **kịp thời** xuống dưới mức [lợi hại vật chất](core_00_preamble.md#material-stake) đòi thì thất **Liên tục**, dù kết quả gần hạn tăng), [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake) (cách Liên tục vẫn chính danh — không phải khối xây thứ năm), gia đình đo lường Liên tục, và [mục lục theo bảng chữ cái Chương Năm](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
 
@@ -55,7 +55,7 @@
     - dùng **Liên tục** để trì hoãn sửa chữa mãi mãi;
     - coi «ổn định» là tuân thủ khi nó dựa trên đổ rủi ro ẩn, hại không đảo ngược, hoặc chuyển gánh sinh thái sang người khác;
     - dùng lời nói thường «giữ đèn sáng» để chặn [Khả năng tranh biện](../../core_05_band_accountability.md#contestability) hoặc [Giải quyết kịp thời](../../core_05_band_accountability.md#timely-resolution-constitutional); hoặc
-    - đuổi **Liên tục** theo cách đánh bại một cách vật chất [Hưng thịnh](../../core_05_apex_flourishing_aim.md#flourishing-constitutional) mà không có phép rõ dưới [Chương Một §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+    - đuổi **Liên tục** theo cách đánh bại một cách vật chất [Hưng thịnh](core_05_apex_flourishing_aim.md#flourishing-constitutional) mà không có phép rõ dưới [Chương Một §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
 
 ---
 
@@ -131,6 +131,6 @@ Các quy tắc cách đo chi tiết sống ở mỗi định nghĩa được li�
 
 **Tệp trước:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 
-**Tệp tiếp theo (vẫn tiếng Anh):** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)
+**Tệp tiếp theo (ngôn ngữ này):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
 **Nguyên bản ràng buộc:** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
