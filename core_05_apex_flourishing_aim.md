@@ -24,18 +24,31 @@
 
 ---
 
-*In plain terms: protect and improve sentient wellbeing — truth, safety, trustworthiness, and meaningful agency together, never one block maximized while the others are hollowed out.*
+*In plain terms: protect and improve how well sentients actually live — truth, safety, trustworthiness, and a real ability to choose and act, kept together — not by chasing one of those as far as it will go while emptying out the others.*
 
 - O: Protect and improve sentient wellbeing — the constitutional aim this entry names.
   - **In scope:** judging systems against this aim using the Flourishing building blocks and measurement families listed in [Constitutional Aim decomposition](#flourishing-aim-decomposition).
-  - **Depends on:** [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Trustworthiness](core_05_band_continuity.md#trustworthiness), and [Meaningful Agency](core_05_band_participation.md#meaningful-agency) — the building blocks named in [Preamble §1](../core_00_preamble.md#flourishing). Each term's detailed scope and how-to-measure rules live on its own definition; start from [Constitutional Aim decomposition](#flourishing-aim-decomposition).
+  - **Depends on:** the building blocks named in [Preamble §1](../core_00_preamble.md#flourishing). Each term's detailed scope and how-to-measure rules live on its own definition; start from [Constitutional Aim decomposition](#flourishing-aim-decomposition):
+    - [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint);
+    - [Safety (Constraint)](core_05_band_continuity.md#safety-constraint);
+    - [Trustworthiness](core_05_band_continuity.md#trustworthiness); and
+    - [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
   - Out of scope: the leaf-definition details, measurement tiers, and implementation mechanics owned by band files and CJS.
 <a id="flourishing-constitutional-m"></a>
-- M: How to tell whether sentient wellbeing is actually protected and improved. This line only points to the measures; the how-to-measure rules sit on each linked definition. Main outcome measure: [Wellbeing](core_05_band_continuity.md#wellbeing). Topic map: [Constitutional Aim decomposition](#flourishing-aim-decomposition). Searchable index: [Chapter Five alphabetical directory](core_05__definitions_home.md#chapter-five-alphabetical-directory).
+- M: How to tell whether sentient wellbeing is actually protected and improved. This line only points to the measures; the how-to-measure rules sit on each linked definition.
+  - **Main outcome measure:** [Wellbeing](core_05_band_continuity.md#wellbeing).
+  - **Topic map:** [Constitutional Aim decomposition](#flourishing-aim-decomposition).
+  - **Searchable index:** [Chapter Five alphabetical directory](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 <a id="flourishing-constitutional-a"></a>
-- A: Judge under the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), scaled to [material stake](../core_00_preamble.md#material-stake). Tie claimed flourishing results to the [constituent](#flourishing-aim-decomposition) conditions and to outcomes sentients actually experience, under Chapter Four and [Chapter One §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline). Always read with [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional): short-term gains that foreseeably weaken long-term stability, resilience, or ecological integrity fail **Flourishing** when the two aims are judged together.
+- A:
+  - Judge under the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), scaled to [material stake](../core_00_preamble.md#material-stake).
+  - Tie claimed flourishing results to the [constituent](#flourishing-aim-decomposition) conditions and to outcomes sentients actually experience, under Chapter Four and [Chapter One §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+  - Always read with [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional): short-term gains that foreseeably weaken long-term stability, resilience, or ecological integrity fail **Flourishing** when the two aims are judged together.
 <a id="flourishing-constitutional-c"></a>
-- C: Non-compliant when: one building block is maximized while truth, safety, trustworthiness, or agency is hollowed out; flourishing claims cannot be traced to constitutional outcomes under Chapter Four; or **Flourishing** is pursued in a way that materially defeats the [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) without clear permission under [Chapter One §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+- C: Non-compliant when:
+  - one building block is maximized while truth, safety, trustworthiness, or agency is hollowed out;
+  - flourishing claims cannot be traced to constitutional outcomes under Chapter Four; or
+  - **Flourishing** is pursued in a way that materially defeats the [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) without clear permission under [Chapter One §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
 
 ---
 
@@ -71,9 +84,17 @@ Leaf definitions under this aim inherit its scope unless they expressly narrow o
 
 ### Measuring Flourishing (Preamble measurement family)
 
-*In plain terms: these questions ask whether sentients are actually sustained in wellbeing, safety, and agency — not proxy engagement or throughput.*
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-*Chapter Five home for the Flourishing measurement family. Preamble §2 keeps the plain-language category question; the family table and definition routing live here.*
+- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
+
+</details>
+
+<br>
+
+*In plain terms: these questions ask whether sentients are actually sustained in wellbeing, safety, and agency — not proxy engagement or throughput. This is the Chapter Five home for the Flourishing measurement family; Preamble §2 keeps the plain-language category question, and the family table and definition routing live here.*
 
 *Materiality* ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
 
@@ -83,7 +104,7 @@ Leaf definitions under this aim inherit its scope unless they expressly narrow o
 | Safety, harm, and risk | Is foreseeable harm prevented, contained, and honestly assessed? | [Safety (Constraint)](core_05_band_continuity.md#safety-constraint); [Harm](core_05_band_accountability.md#harm) |
 | Survival-floor access | Can sentients reach essentials — food, water, shelter, care, stable environment? | [Bodily-Maintenance Access](core_05_band_continuity.md#bodily-maintenance-access-constitutional), [Occupancy Continuity](core_05_band_continuity.md#occupancy-continuity-constitutional), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional); **Article III-A** (*Survival*) |
 
-Operative measurement tiers live on those definition homes. Read with [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
+Operative measurement tiers live on those definition homes.
 
 ---
 
