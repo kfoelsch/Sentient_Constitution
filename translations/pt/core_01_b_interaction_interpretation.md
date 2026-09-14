@@ -10,7 +10,7 @@
 >
 > **Anterior (este idioma):** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Capítulo Um, Parte A — §§1–5)
 >
-> **Próximo (ainda em inglês):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md) (Capítulo Um, Parte C — §§9–14, administração responsável e governança).
+> **Próximo (este idioma):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (Capítulo Um, Parte C — §§9–14, administração responsável e governança).
 >
 > **Arco de leitura:** §6 resolução de conflitos de processo → §7 proibição de prevalência absoluta → §8 interpretação constitucional.
 
@@ -57,7 +57,7 @@
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Ler com: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — participação, supervisão, prestação de contas e atuação em tempo no procedimento, na divulgação, no manejo de colisão e no remédio; escalada da [aposta material](core_00_preamble.md#material-stake).
-- Origem: Princípios: [2. Objetivo fundacional: Bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Verdade](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Confiança](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. Liberdade (agência limitada)](core_01_a_values_principles.md#5-freedom-bounded-agency) e [§9 Administração responsável e compreensão distribuída](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
+- Origem: Princípios: [2. Objetivo fundacional: Bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Verdade](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Confiança](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. Liberdade (agência limitada)](core_01_a_values_principles.md#5-freedom-bounded-agency) e [§9 Administração responsável e compreensão distribuída](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
 - Destino: [6.2.1 Preservação da integridade epistêmica](#621-preservation-of-epistemic-integrity), [disciplina de registro de decisão do §6.1](#615-rights-collision-decision-test), [postura interina padrão](#default-interim-posture) e [7. Proibição de prevalência absoluta](#7-prohibition-on-absolute-override).
 - Destino: Governa conflitos entre artigos em todo o [Capítulo Seis: Direitos fundacionais](../../core_06_rights_part_a.md#chapter-six-foundational-rights).
   - Leia isto com [Artigo XXII: Interpretação constitucional, revisão e salvaguardas anticaptura](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) e [Artigo XXIII: Resolução de conflitos, escalada e proporcionalidade de emergência](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality).
@@ -199,7 +199,7 @@ A minimização de dano seleciona entre opções que já atravessam esses pisos 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Ler com: [§10.1 Governança como estrutura autorizada](../../core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
+- Ler com: [§10.1 Governança como estrutura autorizada](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
 
 </details>
 
@@ -269,7 +269,7 @@ Limitações sobre **valores** constitucionais — inclusive proteções do Piso
 - A restrição temporária de direitos específicos é permitida só quando satisfaz o [Princípio da restrição menos restritiva, limitada no tempo e revisável](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) e as disposições de emergência do [Artigo XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Medidas de emergência e ônus de continuação*) — o que significa que qualquer restrição deve ser justificada, mínima, documentada, limitada no tempo e independentemente revisável. Artigos específicos podem acrescentar salvaguardas mais fortes, mas não podem estreitar este princípio nem usar rótulos de conveniência, eficiência, classificação, emergência, transição, trajetória, emenda, contrato ou implementação para contorná-lo.
 
 <a id="anti-degrading-process-principle"></a>
-**Princípio antiprocesso degradante.** O [Princípio antiprocesso degradante (§9.6)](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) enunciado na Parte C opera como piso absoluto nesta pilha de compensação.
+**Princípio antiprocesso degradante.** O [Princípio antiprocesso degradante (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) enunciado na Parte C opera como piso absoluto nesta pilha de compensação.
 - Nenhuma restrição, remédio ou processo que sobrevive a necessidade, minimização de dano e proporcionalidade pode ser desenhado, enquadrado, conduzido ou deixado operar como degradação, humilhação, espetáculo, retaliação, ônus discriminatório ou erosão de direitos movida por conveniência.
 - Um resultado substantivo correto entregue por processo degradante permanece em desconformidade.
 - Onde o caráter proibido é sofrimento como fim em si ou inflição gratuita / degradante — inclusive humilhação por si mesma — ler com [Crueldade](../../core_05_band_accountability.md#cruelty).
@@ -529,9 +529,9 @@ A correção deve seguir a rastreabilidade do **Capítulo Quatro** e as definiç
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: [§6.1 Princípios centrais de compensação](#61-core-tradeoff-principles) (aplica-se depois de satisfeita a pilha de compensação); [§9.1 Administração responsável](../../core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 Eficiência constitucional](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
+- Origem: [§6.1 Princípios centrais de compensação](#61-core-tradeoff-principles) (aplica-se depois de satisfeita a pilha de compensação); [§9.1 Administração responsável](core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 Eficiência constitucional](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
 - Ler com: família de medição de Desempenho constitucional (*Ônus evitável como medição constitucional*); [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — perna da **participação** (ônus que não é constitucionalmente exigido estreita a [Agência significativa](../../core_05_band_participation.md#meaningful-agency)); perna da **atuação em tempo** (atraso evitável é ônus evitável).
-- Destino: [§11.1.3 Administração responsável e aplicação pelo operador](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (incentivos não devem recompensar a criação de ônus desnecessário); [Artigo XX: Compreensibilidade e administração responsável da complexidade](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- Destino: [§11.1.3 Administração responsável e aplicação pelo operador](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (incentivos não devem recompensar a criação de ônus desnecessário); [Artigo XX: Compreensibilidade e administração responsável da complexidade](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -565,7 +565,7 @@ Esta seção:
 
 Alegações de que um dado ônus é constitucionalmente exigido devem satisfazer os requisitos de evidência e rastreabilidade do **Capítulo Quatro**. Conveniência, inércia institucional, tradição ou preferência sozinhas não bastam para sustentar um ônus que carece de elo conferível a um resultado constitucional, consistente com a [disciplina de registro de decisão do §6.1](#615-rights-collision-decision-test).
 
-Onde estruturas de incentivo agem sobre quem exerce a administração responsável ou sobre operadores, esta seção reforça o [§11.1.3 Administração responsável e aplicação pelo operador](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application). Incentivos de administração responsável não devem recompensar a criação de ônus desnecessário mais do que podem recompensar vazão bruta.
+Onde estruturas de incentivo agem sobre quem exerce a administração responsável ou sobre operadores, esta seção reforça o [§11.1.3 Administração responsável e aplicação pelo operador](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application). Incentivos de administração responsável não devem recompensar a criação de ônus desnecessário mais do que podem recompensar vazão bruta.
 
 <a id="7-prohibition-on-absolute-override"></a>
 ### 7. Proibição de prevalência absoluta
@@ -574,8 +574,8 @@ Onde estruturas de incentivo agem sobre quem exerce a administração responsáv
 
 - Ler com: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — nenhum valor isolado pode ser invocado para esvaziar **participação**, **supervisão**, **prestação de contas** ou **atuação em tempo** abaixo do que a [aposta material](core_00_preamble.md#material-stake) exige.
 - Ler com: [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims) — nem o **Florescimento** nem a **Continuidade** podem ser invocados como trunfo sobre o outro, sobre Segurança e Verdade, ou sobre a disciplina da tétrade; a proibição de prevalência absoluta protege a perseguição dos dois fins juntos.
-- Origem: Princípios: [2. Objetivo fundacional: Bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Verdade](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Confiança](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 Administração responsável e compreensão distribuída](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. Resolução de conflitos de processo](#6-process-conflict-resolution), [5. Liberdade](core_01_a_values_principles.md#5-freedom-bounded-agency) e [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims).
-- Destino: [15. Aplicação integrada](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application).
+- Origem: Princípios: [2. Objetivo fundacional: Bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Verdade](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Confiança](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 Administração responsável e compreensão distribuída](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. Resolução de conflitos de processo](#6-process-conflict-resolution), [5. Liberdade](core_01_a_values_principles.md#5-freedom-bounded-agency) e [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims).
+- Destino: [15. Aplicação integrada](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 - Destino: Protege a superfície de direitos contra lógica de prevalência de um valor só que colapsaria igualdade, direitos de impugnação, transparência, impugnabilidade ou interpretação limitada.
   - Sobretudo [Artigo V: Direitos básicos iguais](../../core_06_rights_part_b.md#article-v-equal-basic-rights), [Artigo XII-B: Direito de impugnar, revisar e obter reparação](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [Artigo XIV-B: Transparência, auditabilidade e impugnabilidade](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability), [Artigo XVIII-B: Impugnabilidade e limites proporcionais de restrição](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits) e [Artigo XXII-A: Mandato interpretativo limitado](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate).
 
@@ -608,8 +608,8 @@ Nenhum valor definido neste capítulo pode ser usado como justificação univers
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: [Preâmbulo — Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad); a escalada da [aposta material](core_00_preamble.md#material-stake) aplica-se a todo o capítulo pelos rastros de seção.
-- Destino: [§8.1 Princípio constitucional de não contorno](#81-constitutional-no-bypass-principle), [§8.2 Camada definicional e disciplinas exigidas](#82-definitional-layer-and-required-disciplines), [§8.3 Resolução de ambiguidade](#83-ambiguity-resolution), [§8.4 Resolução de conflitos de significado constitucional](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Objetivo fundacional: Bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing) até [15. Aplicação integrada](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application); [6. Resolução de conflitos de processo](#6-process-conflict-resolution) para o procedimento de colisão de valores; [Capítulo Seis: Direitos fundacionais](../../core_06_rights_part_a.md#chapter-six-foundational-rights) padrão de não contração.
-- Ler com: [Capítulos Dois a Quatro](../../core_02_definition_structure.md) e [Capítulo Cinco](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — camada interpretativa e de evidência para cada termo neste capítulo.
+- Destino: [§8.1 Princípio constitucional de não contorno](#81-constitutional-no-bypass-principle), [§8.2 Camada definicional e disciplinas exigidas](#82-definitional-layer-and-required-disciplines), [§8.3 Resolução de ambiguidade](#83-ambiguity-resolution), [§8.4 Resolução de conflitos de significado constitucional](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Objetivo fundacional: Bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing) até [15. Aplicação integrada](core_01_c_stewardship_capacity_principles.md#15-integrated-application); [6. Resolução de conflitos de processo](#6-process-conflict-resolution) para o procedimento de colisão de valores; [Capítulo Seis: Direitos fundacionais](../../core_06_rights_part_a.md#chapter-six-foundational-rights) padrão de não contração.
+- Ler com: [Capítulos Dois a Quatro](core_02_definition_structure.md) e [Capítulo Cinco](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — camada interpretativa e de evidência para cada termo neste capítulo.
 - Ler com: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) e [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims) — pano de fundo interpretativo do marco de valores integrados; escalada da [aposta material](core_00_preamble.md#material-stake) onde for materialmente pertinente.
 - Ler com: [Pilha de autoridade e hierarquia interna](../../core_05_band_integrative.md#authority-stack) (*status da camada-fonte*); [Capítulo Dezesseis](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*custódia, edições, enquadramento de adoção* — não um segundo lar de ordem de conflito); [Capítulo Treze](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) e [Capítulo Quatorze](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*portas de não regressão e de hierarquia de quem adota sob o §8.4*).
 - Ler com: [Artigo XXII: Interpretação constitucional, revisão e salvaguardas anticaptura](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) para salvaguardas institucionais de interpretação (não um substituto desta seção).
@@ -832,7 +832,7 @@ Estreitamento "temporário" silencioso ou em aberto não conta.
 
 **Arquivo anterior:** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 
-**Próximo arquivo (ainda em inglês):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)
+**Próximo arquivo (este idioma):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
 **Original vinculante:** [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md)
 

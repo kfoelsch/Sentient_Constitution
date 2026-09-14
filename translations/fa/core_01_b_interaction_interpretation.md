@@ -10,7 +10,7 @@
 >
 > **قبلی (این زبان):** [core_01_a_values_principles.md](core_01_a_values_principles.md) (فصل یکم، بخش الف — §§1–5)
 >
-> **بعدی (هنوز انگلیسی):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md) (فصل یکم، بخش ج — §§9–14، مدیریت مسئولانه و حکمرانی).
+> **بعدی (این زبان):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (فصل یکم، بخش ج — §§9–14، مدیریت مسئولانه و حکمرانی).
 >
 > **قوس خواندن:** §6 حل تعارض فرایند → §7 منع فسخ مطلق → §8 تفسیر قانون اساسی.
 
@@ -57,7 +57,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - خوانده شود با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — مشارکت، نظارت، پاسخگویی و به‌هنگامی در رویه، افشا، رسیدگی به تصادم، و جبران؛ مقیاس [منافع مادی](core_00_preamble.md#material-stake).
-- بالادست: اصول: [2. هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، [3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [4. اعتماد](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)، [5. آزادی (عاملیت محدود)](core_01_a_values_principles.md#5-freedom-bounded-agency)، و [§9 مدیریت مسئولانه و فهم توزیع‌شده](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
+- بالادست: اصول: [2. هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، [3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [4. اعتماد](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)، [5. آزادی (عاملیت محدود)](core_01_a_values_principles.md#5-freedom-bounded-agency)، و [§9 مدیریت مسئولانه و فهم توزیع‌شده](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
 - پایین‌دست: [6.2.1 حفظ یکپارچگی معرفتی](#621-preservation-of-epistemic-integrity)، [انضباط سابقهٔ تصمیم §6.1](#615-rights-collision-decision-test)، [وضعیت موقت پیش‌فرض](#default-interim-posture)، و [7. منع فسخ مطلق](#7-prohibition-on-absolute-override).
 - پایین‌دست: بر تعارض‌های میان‌اصل در [فصل ششم: حقوق بنیادین](../../core_06_rights_part_a.md#chapter-six-foundational-rights) حاکم است.
   - این را با [اصل XXII: تفسیر قانون اساسی، بازبینی، و ضمانت‌های ضدتسخیر](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) و [اصل XXIII: حل تعارض، تشدید، و تناسب اضطراری](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) بخوانید.
@@ -199,7 +199,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- خوانده شود با: [§10.1 حکمرانی به‌عنوان ساختار مجاز](../../core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
+- خوانده شود با: [§10.1 حکمرانی به‌عنوان ساختار مجاز](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
 
 </details>
 
@@ -269,7 +269,7 @@
 - محدودیت موقت حقوق مشخص فقط وقتی مجاز است که [اصل قید کم‌محدودکننده، زمان‌مند، و قابل‌بازبینی](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) و احکام اضطراری [اصل XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*تدابیر اضطراری و بار ادامه*) را برآورد — یعنی هر محدودیت باید توجیه‌شده، حداقلی، مستند، زمان‌مند، و مستقل قابل‌بازبینی باشد. اصول مشخص می‌توانند ضمانت‌های قوی‌تر بیفزایند، اما نمی‌توانند این اصل را تنگ کنند یا برچسب‌های راحتی، کارایی، طبقه‌بندی، اضطرار، گذار، ردپا، اصلاح، قرارداد، یا اجرا را برای دور زدنش به‌کار ببرند.
 
 <a id="anti-degrading-process-principle"></a>
-**اصل ضدفرایند فرساینده.** [اصل ضدفرایند فرساینده (§9.6)](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) بیان‌شده در بخش ج به‌عنوان کف مطلق در این پشتهٔ بده‌بستان عمل می‌کند.
+**اصل ضدفرایند فرساینده.** [اصل ضدفرایند فرساینده (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) بیان‌شده در بخش ج به‌عنوان کف مطلق در این پشتهٔ بده‌بستان عمل می‌کند.
 - هیچ محدودیت، جبران، یا فرایندی که ضرورت، کمینه‌سازی آسیب و تناسب را پشت سر بگذارد نمی‌تواند به‌عنوان فرسایش، خواری، نمایش، تلافی، بارگذاری تبعیض‌آمیز، یا فرسایش حقوق برانگیخته از راحتی طراحی، قاب‌بندی، اجرا، یا اجازهٔ عمل داده شود.
 - پیامد ماهوی درست تحویل‌شده از راه فرایند فرساینده ناسازگار می‌ماند.
 - جایی که خصلت ممنوع رنج به‌عنوان غایت فی‌نفسه یا تحمیل رایگان / فرساینده باشد — از جمله خواری برای خودش — بخوانید با [قساوت](../../core_05_band_accountability.md#cruelty).
@@ -529,9 +529,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: [§6.1 اصول اصلی بده‌بستان](#61-core-tradeoff-principles) (پس از برآوردن پشتهٔ بده‌بستان اعمال می‌شود)؛ [§9.1 مدیریت مسئولانه](../../core_01_c_stewardship_capacity_principles.md#91-stewardship)؛ [§12.2 کارایی قانون اساسی](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
+- بالادست: [§6.1 اصول اصلی بده‌بستان](#61-core-tradeoff-principles) (پس از برآوردن پشتهٔ بده‌بستان اعمال می‌شود)؛ [§9.1 مدیریت مسئولانه](core_01_c_stewardship_capacity_principles.md#91-stewardship)؛ [§12.2 کارایی قانون اساسی](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
 - خوانده شود با: خانوادهٔ اندازه‌گیری عملکرد قانون اساسی (*بار قابل‌اجتناب به‌عنوان اندازه‌گیری قانون اساسی*)؛ [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — پای **مشارکت** (باری که از نظر قانون اساسی لازم نیست [عاملیت معنادار](../../core_05_band_participation.md#meaningful-agency) را تنگ می‌کند)؛ پای **به‌هنگامی** (تأخیر قابل‌اجتناب بار قابل‌اجتناب است).
-- پایین‌دست: [§11.1.3 اعمال مدیریت مسئولانه و اپراتور](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (انگیزه‌ها نباید ساخت بار بی‌ضرورت را پاداش دهند)؛ [اصل XX: فهم‌پذیری و مدیریت مسئولانهٔ پیچیدگی](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- پایین‌دست: [§11.1.3 اعمال مدیریت مسئولانه و اپراتور](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (انگیزه‌ها نباید ساخت بار بی‌ضرورت را پاداش دهند)؛ [اصل XX: فهم‌پذیری و مدیریت مسئولانهٔ پیچیدگی](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -565,7 +565,7 @@
 
 ادعا که باری از نظر قانون اساسی لازم است باید الزامات شاهد و ردگیری **فصل چهارم** را برآورد. راحتی، اینرسی نهادی، سنت، یا ترجیح به‌تنهایی برای نگه داشتن باری که پیوند قابل‌وارسی به پیامد قانون اساسی ندارد کافی نیست، سازگار با [انضباط سابقهٔ تصمیم §6.1](#615-rights-collision-decision-test).
 
-جایی که ساختارهای انگیزه بر مدیران مسئول یا اپراتورها عمل کنند، این بخش [§11.1.3 اعمال مدیریت مسئولانه و اپراتور](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) را تقویت می‌کند. انگیزه‌های مدیریت مسئولانه نباید ساخت بار بی‌ضرورت را بیش از توان عملیاتی خام پاداش دهند.
+جایی که ساختارهای انگیزه بر مدیران مسئول یا اپراتورها عمل کنند، این بخش [§11.1.3 اعمال مدیریت مسئولانه و اپراتور](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) را تقویت می‌کند. انگیزه‌های مدیریت مسئولانه نباید ساخت بار بی‌ضرورت را بیش از توان عملیاتی خام پاداش دهند.
 
 <a id="7-prohibition-on-absolute-override"></a>
 ### 7. منع فسخ مطلق
@@ -574,8 +574,8 @@
 
 - خوانده شود با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — هیچ ارزش تنهایی را نمی‌توان فراخواند تا **مشارکت**، **نظارت**، **پاسخگویی** یا **به‌هنگامی** را زیر الزامات [منافع مادی](core_00_preamble.md#material-stake) خالی کند.
 - خوانده شود با: [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — نه **شکوفایی** و نه **پیوستگی** را نمی‌توان به‌عنوان برگ برنده بر دیگری، بر ایمنی و حقیقت، یا بر انضباط چهارگانه فراخواند؛ منع فسخ مطلق پیگیری هر دو هدف با هم را حمایت می‌کند.
-- بالادست: اصول: [2. هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، [3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [4. اعتماد](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)، [§9 مدیریت مسئولانه و فهم توزیع‌شده](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)، [6. حل تعارض فرایند](#6-process-conflict-resolution)، [5. آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)، و [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims).
-- پایین‌دست: [15. اعمال یکپارچه](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application).
+- بالادست: اصول: [2. هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، [3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [4. اعتماد](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)، [§9 مدیریت مسئولانه و فهم توزیع‌شده](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)، [6. حل تعارض فرایند](#6-process-conflict-resolution)، [5. آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)، و [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims).
+- پایین‌دست: [15. اعمال یکپارچه](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 - پایین‌دست: سطح حقوق را در برابر منطق فسخ یک‌ارزش که برابری، حقوق اعتراض، شفافیت، قابلیت اعتراض، یا تفسیر محدود را فروپاشد حمایت می‌کند.
   - به‌ویژه [اصل V: حقوق پایهٔ برابر](../../core_06_rights_part_b.md#article-v-equal-basic-rights)، [اصل XII-B: حق اعتراض، بازبینی و جبران](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)، [اصل XIV-B: شفافیت، قابلیت حسابرسی، و قابلیت اعتراض](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability)، [اصل XVIII-B: قابلیت اعتراض و حدهای محدودیت متناسب](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)، و [اصل XXII-A: مأموریت تفسیری محدود](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate).
 
@@ -608,8 +608,8 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [دیباچه — چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad)؛ مقیاس [منافع مادی](core_00_preamble.md#material-stake) در سراسر فصل از راه ردگیری‌های بخش اعمال می‌شود.
-- پایین‌دست: [§8.1 اصل منع دور زدن قانون اساسی](#81-constitutional-no-bypass-principle)، [§8.2 لایهٔ تعریفی و انضباطهای لازم](#82-definitional-layer-and-required-disciplines)، [§8.3 حل ابهام](#83-ambiguity-resolution)، [§8.4 حل تعارض معنای قانون اساسی](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction))؛ [2. هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing) تا [15. اعمال یکپارچه](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application)؛ [6. حل تعارض فرایند](#6-process-conflict-resolution) برای رویهٔ تصادم ارزش؛ پیش‌فرض عدم‌انقباض [فصل ششم: حقوق بنیادین](../../core_06_rights_part_a.md#chapter-six-foundational-rights).
-- خوانده شود با: [فصل‌های دوم تا چهارم](../../core_02_definition_structure.md) و [فصل پنجم](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — لایهٔ تفسیری و شاهدی برای هر اصطلاح در این فصل.
+- پایین‌دست: [§8.1 اصل منع دور زدن قانون اساسی](#81-constitutional-no-bypass-principle)، [§8.2 لایهٔ تعریفی و انضباطهای لازم](#82-definitional-layer-and-required-disciplines)، [§8.3 حل ابهام](#83-ambiguity-resolution)، [§8.4 حل تعارض معنای قانون اساسی](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction))؛ [2. هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing) تا [15. اعمال یکپارچه](core_01_c_stewardship_capacity_principles.md#15-integrated-application)؛ [6. حل تعارض فرایند](#6-process-conflict-resolution) برای رویهٔ تصادم ارزش؛ پیش‌فرض عدم‌انقباض [فصل ششم: حقوق بنیادین](../../core_06_rights_part_a.md#chapter-six-foundational-rights).
+- خوانده شود با: [فصل‌های دوم تا چهارم](core_02_definition_structure.md) و [فصل پنجم](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — لایهٔ تفسیری و شاهدی برای هر اصطلاح در این فصل.
 - خوانده شود با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) و [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — پس‌زمینهٔ تفسیری چارچوب ارزش یکپارچه؛ مقیاس [منافع مادی](core_00_preamble.md#material-stake) جایی که از نظر مادی مربوط است.
 - خوانده شود با: [پشتهٔ اختیار و سلسله‌مراتب درونی](../../core_05_band_integrative.md#authority-stack) (*وضعیت لایهٔ منبع*)؛ [فصل شانزدهم](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*نگهداری، ویرایش‌ها، قاب پذیرش* — خانهٔ ترتیب تعارض دوم نیست)؛ [فصل سیزدهم](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) و [فصل چهاردهم](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*دروازه‌های عدم‌عقب‌گرد و سلسله‌مراتب پذیرنده زیر §8.4*).
 - خوانده شود با: [اصل XXII: تفسیر قانون اساسی، بازبینی، و ضمانت‌های ضدتسخیر](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) برای ضمانت‌های تفسیر نهادی (جایگزین این بخش نیست).
@@ -832,6 +832,6 @@
 
 **پروندهٔ قبلی:** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 
-**پروندهٔ بعدی (هنوز انگلیسی):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)
+**پروندهٔ بعدی (این زبان):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
 **اصل الزام‌آور:** [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md)

@@ -130,22 +130,22 @@
 
 প্রতি সারসংক্ষেপ বলে অধ্যায়ের ক্ষেত্র কী এবং এটি কী দেয়।
 
-**অধ্যায় এক — মূল্য, নীতি ও দায়িত্বশীল ব্যবস্থাপনা** ([অংশ ক](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [অংশ খ](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [অংশ গ](../../core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+**অধ্যায় এক — মূল্য, নীতি ও দায়িত্বশীল ব্যবস্থাপনা** ([অংশ ক](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [অংশ খ](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [অংশ গ](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
 
 - **এর ক্ষেত্র:** সংবিধানের পথপ্রদর্শক মূল্য ও বন্ধন বলে — কল্যাণ, ন্যায্যতা, নিরাপত্তা, সত্য, বিশ্বাস, সীমিত স্বাধীনতা, বৈধ অবদানের স্বীকৃতি ও আনুপাতিক পুরস্কার, নীতির মধ্যে দ্বন্দ্ব-সমাধান, এবং দায়িত্বশীল ব্যবস্থাপনা কর্তব্য যাতে বণ্টিত বোঝাপড়া, ব্যবস্থাগত মূল্যায়ন ও শাসন শৃঙ্খলা থাকে।
 - **এটি কী দেয়:** প্রতি পরের অধ্যায়ের ব্যাখ্যামূলক ভিত্তি — যে নিয়ম উচ্চ-স্তরের উদ্দেশ্যকে কার্যকর প্রত্যাশায় বদলায় যখন ব্যবস্থা, অধিকার, সংজ্ঞা বা প্রক্রিয়া শৃঙ্খল পড়তে ও প্রয়োগ করতে হয়।
 
-**অধ্যায় দুই — সংজ্ঞা কাঠামো** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**অধ্যায় দুই — সংজ্ঞা কাঠামো** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **এর ক্ষেত্র:** সাংবিধানিক পদ কীভাবে গড়া হয় তা সংজ্ঞায়িত করে — অস্তিত্বতত্ত্ব/পরিমাপ/মূল্যায়ন/অনুপালন (O/M/A/C) উপাদান কাঠামো, সারিবদ্ধতা প্রত্যাশা, এবং উপাদান নিয়ম যা সংজ্ঞাকে পুরো করপাসে নির্ভুল ও ব্যবহারযোগ্য রাখে।
 - **এটি কী দেয়:** সংজ্ঞার ভাগ করা ব্যাকরণ, যাতে পরের অধ্যায় অস্পষ্ট লেবেল, লুকানো অনুমান, বা অসামঞ্জস্য পদ-আকারে না পড়ে।
 
-**অধ্যায় তিন — সংজ্ঞা অখণ্ডতা** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**অধ্যায় তিন — সংজ্ঞা অখণ্ডতা** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **এর ক্ষেত্র:** এড়ানো, পরিসর-সরানো, পুনঃসংজ্ঞা খেলা, এবং অনুপালন-ভঙ্গ কৌশল থেকে রক্ষা করে যা কাগজে সংজ্ঞা খালি করে ও অনুশীলনে সেগুলো হারায়।
 - **এটি কী দেয়:** এড়ানো-নিরোধ শৃঙ্খলা ও অনুপালন-ভঙ্গমুখী মেটাডেটা — যেখানে এড়ানো প্রমাণিত সেখানে প্রস্থিতি ও দুরাচরণ পর্যালোচনার দিকে পথ-হুক সহ।
 
-**অধ্যায় চার — ভার, খুঁজে পাওয়া ও যাচাই** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**অধ্যায় চার — ভার, খুঁজে পাওয়া ও যাচাই** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **এর ক্ষেত্র:** প্রমাণের ভার রাখে তার উপর যে অনুপালনের দাবি করে; খুঁজে পাওয়া যায় এমন প্রমাণ, পর্যবেক্ষণযোগ্যতা ও যাচাই চায় যা [**বস্তুগত বাজি**](#material-stake) অনুসারে স্কেল হয় এবং অনুশীলনে চ্যালেঞ্জযোগ্য থাকে।
 - **এটি কী দেয়:** সেই যাচাই শৃঙ্খল যা [অধ্যায় আট](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)-এ **যাচাইকৃত উপকরণ** এবং [অধ্যায় সাত](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)-এ ব্যবস্থা-সারিবদ্ধতা প্রমাণ খাওয়ায় — নিজে প্রস্থিতি পরিমাপের জায়গা না নিয়ে।

@@ -130,22 +130,22 @@ Chương **Một đến Sáu** cung cấp các giá trị, từ vựng, máy xá
 
 Mỗi tóm tắt nêu chương nắm gì và tạo ra gì.
 
-**Chương Một — Giá trị, nguyên tắc, và quản trị có trách nhiệm** ([Phần A](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [Phần B](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [Phần C](../../core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+**Chương Một — Giá trị, nguyên tắc, và quản trị có trách nhiệm** ([Phần A](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [Phần B](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [Phần C](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
 
 - **Nội dung nắm giữ:** Nêu các giá trị và ràng buộc dẫn đường của Hiến pháp — phúc lợi, công bằng, An toàn, Sự thật, Tin cậy, tự do có giới hạn, ghi nhận và thưởng tương xứng cho đóng góp hợp pháp, giải quyết xung đột giữa các nguyên tắc, và nghĩa vụ quản trị có trách nhiệm gồm hiểu biết phân tán, đánh giá hệ thống, và kỷ luật quản trị.
 - **Nội dung tạo ra:** Nền diễn giải cho mọi chương sau — các quy tắc biến mục tiêu tầng cao thành yêu cầu vận hành khi hệ thống, quyền, định nghĩa, hoặc chuỗi quy trình phải được đọc và áp dụng.
 
-**Chương Hai — Cấu trúc định nghĩa** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**Chương Hai — Cấu trúc định nghĩa** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **Nội dung nắm giữ:** Định nghĩa cách các thuật ngữ hiến pháp được xây — cấu trúc thành phần Bản thể/Đo lường/Đánh giá/Tuân thủ (O/M/A/C), yêu cầu thẳng hàng, và quy tắc thành phần giữ định nghĩa chính xác và dùng được trên toàn kho.
 - **Nội dung tạo ra:** Một ngữ pháp chung cho định nghĩa để các chương sau không rơi vào nhãn mơ hồ, giả định ẩn, hoặc hình thuật ngữ không tương thích.
 
-**Chương Ba — Tính toàn vẹn định nghĩa** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**Chương Ba — Tính toàn vẹn định nghĩa** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **Nội dung nắm giữ:** Canh chống lẩn tránh, dời phạm vi, trò đổi định nghĩa, và mánh không tuân thủ sẽ làm rỗng định nghĩa trên giấy trong khi đánh bại chúng trong thực tế.
 - **Nội dung tạo ra:** Kỷ luật chống lẩn tránh và siêu dữ liệu định hướng không tuân thủ — kể cả móc định tuyến về quỹ đạo và rà soát hành vi sai khi lẩn tránh được chứng minh.
 
-**Chương Bốn — Gánh, truy vết, và xác minh** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**Chương Bốn — Gánh, truy vết, và xác minh** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **Nội dung nắm giữ:** Đặt gánh chứng minh lên ai khẳng định tuân thủ; đòi bằng chứng truy được, khả năng quan sát, và xác minh chia tỷ lệ theo [**lợi hại vật chất**](#material-stake) và vẫn tranh biện được trong thực tế.
 - **Nội dung tạo ra:** Chuỗi xác minh nuôi **đầu vào đã xác minh** ở [Chương Tám](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) và bằng chứng thẳng hàng hệ thống ở [Chương Bảy](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) — mà không thay đo lường quỹ đạo tự nó.

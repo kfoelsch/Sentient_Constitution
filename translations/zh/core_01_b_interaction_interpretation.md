@@ -10,7 +10,7 @@
 >
 > **上一篇（本语种）：** [core_01_a_values_principles.md](core_01_a_values_principles.md)（第一章，A 部分 — §§1–5）
 >
-> **下一篇（仍为英语）：** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)（第一章，C 部分 — §§9–14，尽责管理与治理）。
+> **下一篇（本语言）：** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)（第一章，C 部分 — §§9–14，尽责管理与治理）。
 > **阅读弧线：** §6 过程冲突解决 → §7 禁止绝对覆盖 → §8 宪法解释。
 
 </details>
@@ -56,7 +56,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — 程序、披露、碰撞处理与救济中的参与、监督、问责与及时性；[实质利害](core_00_preamble.md#material-stake)缩放。
-- 上游：原则：[2. 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信任](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[5. 自由（有界能动性）](core_01_a_values_principles.md#5-freedom-bounded-agency)，以及 [§9 尽责管理与分布式理解](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)。
+- 上游：原则：[2. 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信任](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[5. 自由（有界能动性）](core_01_a_values_principles.md#5-freedom-bounded-agency)，以及 [§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)。
 - 下游：[6.2.1 保全认识完整性](#621-preservation-of-epistemic-integrity)、[§6.1 决定记录纪律](#615-rights-collision-decision-test)、[默认临时姿态](#default-interim-posture)，以及 [7. 禁止绝对覆盖](#7-prohibition-on-absolute-override)。
 - 下游：统管[第六章：基础权利](../../core_06_rights_part_a.md#chapter-six-foundational-rights)的跨条冲突。
   - 与 [Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)以及 [Article XXIII：冲突解决、升级与紧急相称性](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality)一并阅读。
@@ -198,7 +198,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 一并阅读：[§10.1 作为获授权结构的治理](../../core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure)。
+- 一并阅读：[§10.1 作为获授权结构的治理](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure)。
 
 </details>
 
@@ -268,7 +268,7 @@
 - 对具体权利的暂时限制，仅在满足[限制最少、有时限且可审查的约束原则](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)以及 [Article XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden)（《紧急措施与延续负担》）的紧急规定时被允许 — 意味着任何限制必须被正当化、最小化、有记录、有时限，并可独立审查。具体条款可以添加更强保障，但不得收窄本原则，也不得用便利、效率、分类、紧急、过渡、轨迹、修正、合同或实施标签来绕过它。
 
 <a id="anti-degrading-process-principle"></a>
-**反降格过程原则。** C 部分所述的[反降格过程原则（§9.6）](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline)在本权衡栈中作为绝对底线运行。
+**反降格过程原则。** C 部分所述的[反降格过程原则（§9.6）](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline)在本权衡栈中作为绝对底线运行。
 - 任何通过必要性、伤害最小化与相称性而存活的限制、救济或过程，都不得被设计、被包装、被执行，或被允许运行为降格、羞辱、作秀、报复、歧视性加重负担，或便利驱动的权利侵蚀。
 - 经降格过程交付的正确实质结果，仍然不合规。
 - 凡被禁止的品格是把受苦当作目的本身，或无偿 / 降格的施加 — 包括为羞辱而羞辱 — 与[残忍](../../core_05_band_accountability.md#cruelty)一并阅读。
@@ -528,9 +528,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：[§6.1 核心权衡原则](#61-core-tradeoff-principles)（在权衡栈满足之后适用）；[§9.1 尽责管理](../../core_01_c_stewardship_capacity_principles.md#91-stewardship)；[§12.2 宪法效率](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)。
+- 上游：[§6.1 核心权衡原则](#61-core-tradeoff-principles)（在权衡栈满足之后适用）；[§9.1 尽责管理](core_01_c_stewardship_capacity_principles.md#91-stewardship)；[§12.2 宪法效率](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)。
 - 一并阅读：宪法绩效测量族（《可避免负担作为宪法测量》）；[宪法四元](core_00_preamble.md#constitutional-tetrad) — **参与**腿（并非宪法所要求的负担会收窄[有意义的能动性](../../core_05_band_participation.md#meaningful-agency)）；**及时性**腿（可避免的拖延就是可避免负担）。
-- 下游：[§11.1.3 尽责管理与运营者适用](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)（激励不得奖赏制造不必要负担）；[Article XX：可理解性与复杂性尽责管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)。
+- 下游：[§11.1.3 尽责管理与运营者适用](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)（激励不得奖赏制造不必要负担）；[Article XX：可理解性与复杂性尽责管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)。
 
 </details>
 
@@ -564,7 +564,7 @@
 
 声称某项负担为宪法所要求，必须满足**第四章**证据与可追溯性要求。单凭便利、机构惰性、传统或偏好，不足以维持一项与宪法结果没有可核验联系的负担，并与 [§6.1 决定记录纪律](#615-rights-collision-decision-test)一致。
 
-凡激励结构作用于尽责管理者或运营者之处，本节强化 [§11.1.3 尽责管理与运营者适用](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)。尽责管理激励不得奖赏制造不必要负担，正如它们不得奖赏原始吞吐量。
+凡激励结构作用于尽责管理者或运营者之处，本节强化 [§11.1.3 尽责管理与运营者适用](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)。尽责管理激励不得奖赏制造不必要负担，正如它们不得奖赏原始吞吐量。
 
 <a id="7-prohibition-on-absolute-override"></a>
 ### 7. 禁止绝对覆盖
@@ -573,8 +573,8 @@
 
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — 任何单一价值都不得被援引，把**参与**、**监督**、**问责**或**及时性**掏空到[实质利害](core_00_preamble.md#material-stake)要求之下。
 - 一并阅读：[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — **繁盛**与**延续**都不得被援引为压过另一项、压过安全与真理、或压过四元纪律的王牌；禁止绝对覆盖保护对两项宗旨的一并追求。
-- 上游：原则：[2. 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信任](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[§9 尽责管理与分布式理解](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[6. 过程冲突解决](#6-process-conflict-resolution)、[5. 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)，以及[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)。
-- 下游：[15. 综合适用](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application)。
+- 上游：原则：[2. 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信任](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[6. 过程冲突解决](#6-process-conflict-resolution)、[5. 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)，以及[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)。
+- 下游：[15. 综合适用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)。
 - 下游：保护权利面，使其免于会压垮平等、质疑权、透明、可质疑性或有界解释的单价值覆盖逻辑。
   - 尤其 [Article V：平等基本权利](../../core_06_rights_part_b.md#article-v-equal-basic-rights)、[Article XII-B：质疑、审查与救济权](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)、[Article XIV-B：透明、可审计性与可质疑性](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability)、[Article XVIII-B：可质疑性与相称限制限度](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)，以及 [Article XXII-A：有界解释授权](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate)。
 
@@ -607,8 +607,8 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[序言 — 宪法四元](core_00_preamble.md#constitutional-tetrad)；[实质利害](core_00_preamble.md#material-stake)缩放经各节溯源适用于全章。
-- 下游：[§8.1 宪法不绕过原则](#81-constitutional-no-bypass-principle)、[§8.2 定义层与必要纪律](#82-definitional-layer-and-required-disciplines)、[§8.3 歧义解决](#83-ambiguity-resolution)、[§8.4 宪法含义冲突解决](#84-constitutional-meaning-conflict-resolution)（[§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)）；[2. 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing) 至 [15. 综合适用](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application)；[6. 过程冲突解决](#6-process-conflict-resolution)，用于价值碰撞程序；[第六章：基础权利](../../core_06_rights_part_a.md#chapter-six-foundational-rights)的不收缩默认。
-- 一并阅读：[第二至四章](../../core_02_definition_structure.md)与[第五章](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — 本章每一用语的解释与证据层。
+- 下游：[§8.1 宪法不绕过原则](#81-constitutional-no-bypass-principle)、[§8.2 定义层与必要纪律](#82-definitional-layer-and-required-disciplines)、[§8.3 歧义解决](#83-ambiguity-resolution)、[§8.4 宪法含义冲突解决](#84-constitutional-meaning-conflict-resolution)（[§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)）；[2. 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing) 至 [15. 综合适用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)；[6. 过程冲突解决](#6-process-conflict-resolution)，用于价值碰撞程序；[第六章：基础权利](../../core_06_rights_part_a.md#chapter-six-foundational-rights)的不收缩默认。
+- 一并阅读：[第二至四章](core_02_definition_structure.md)与[第五章](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — 本章每一用语的解释与证据层。
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad)与[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — 整合价值框架的解释背景；凡具有实质相关性之处，[实质利害](core_00_preamble.md#material-stake)缩放。
 - 一并阅读：[权威栈与内部层级](../../core_05_band_integrative.md#authority-stack)（《源层地位》）；[第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)（《保管、版本与采纳框架》 — 不是第二冲突顺序家园）；[第十三章](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)与[第十四章](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)（§8.4 下的不回撤与采纳方层级门）。
 - 一并阅读：[Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)，用于机构解释保障（不是本节的替代）。
@@ -831,6 +831,6 @@
 
 **上一文件：** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 
-**下一文件（仍为英语）：** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)
+**下一文件（本语言）：** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
 **有约束力的原文：** [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md)

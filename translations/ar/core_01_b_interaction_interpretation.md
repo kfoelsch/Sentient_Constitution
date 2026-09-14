@@ -10,7 +10,7 @@
 >
 > **السابق (هذه اللغة):** [core_01_a_values_principles.md](core_01_a_values_principles.md) (الفصل الأول، الجزء أ — §§1–5)
 >
-> **التالي (ما زال بالإنجليزية):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md) (الفصل الأول، الجزء ج — §§9–14، الإدارة المسؤولة والحوكمة).
+> **التالي (هذه اللغة):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (الفصل الأول، الجزء ج — §§9–15، الإدارة المسؤولة والحوكمة).
 >
 > **قوس القراءة:** §6 حل تعارض الإجراءات → §7 حظر التجاوز المطلق → §8 التفسير الدستوري.
 
@@ -57,7 +57,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — المشاركة والرقابة والمساءلة وحسن التوقيت في الإجراء والإفصاح ومعالجة التصادم والانتصاف؛ مقياس [الرهان المادي](core_00_preamble.md#material-stake).
-- أعلى: المبادئ: [2. المقصد التأسيسي: العافية](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، و[3.1 السلامة](core_01_a_values_principles.md#31-safety-harm-constraint)، و[3.2 الحقيقة](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، و[4. الثقة](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)، و[5. الحرية (الوكالة المحدودة)](core_01_a_values_principles.md#5-freedom-bounded-agency)، و[§9 الإدارة المسؤولة والفهم الموزَّع](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
+- أعلى: المبادئ: [2. المقصد التأسيسي: العافية](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، و[3.1 السلامة](core_01_a_values_principles.md#31-safety-harm-constraint)، و[3.2 الحقيقة](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، و[4. الثقة](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)، و[5. الحرية (الوكالة المحدودة)](core_01_a_values_principles.md#5-freedom-bounded-agency)، و[§9 الإدارة المسؤولة والفهم الموزَّع](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
 - أسفل: [6.2.1 حفظ النزاهة المعرفية](#621-preservation-of-epistemic-integrity)، و[انضباط سجل القرار في §6.1](#615-rights-collision-decision-test)، و[الموقف المؤقت الافتراضي](#default-interim-posture)، و[7. حظر التجاوز المطلق](#7-prohibition-on-absolute-override).
 - أسفل: يحكم التعارضات عبر المواد في [الفصل السادس: الحقوق التأسيسية](../../core_06_rights_part_a.md#chapter-six-foundational-rights).
   - اقرأ هذا مع [المادة XXII: التفسير الدستوري والمراجعة وضمانات منع الاستيلاء](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) و[المادة XXIII: حل النزاع والتصعيد وتناسب الطوارئ](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality).
@@ -199,7 +199,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- يُقرأ مع: [§10.1 الحوكمة بوصفها بنية مرخَّصًا لها](../../core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
+- يُقرأ مع: [§10.1 الحوكمة بوصفها بنية مرخَّصًا لها](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
 
 </details>
 
@@ -269,7 +269,7 @@
 - التقييد المؤقت لحقوق محددة مسموح فقط حين يستوفي [مبدأ القيد الأقل تقييدًا والمحدود زمنيًا والقابل للمراجعة](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) وأحكام الطوارئ في [المادة XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*تدابير الطوارئ وعبء الاستمرار*) — بمعنى أن أي تقييد يجب أن يكون مبرَّرًا وأدنى حد وموثَّقًا ومحدودًا زمنيًا وقابلًا للمراجعة المستقلة. يجوز لمواد محددة أن تضيف ضمانات أقوى، لكن لا يجوز أن تضيّق هذا المبدأ أو تستخدم تسميات الملاءمة أو الكفاءة أو التصنيف أو الطوارئ أو الانتقال أو الوضعية أو التعديل أو العقد أو التنفيذ لتجاوزه.
 
 <a id="anti-degrading-process-principle"></a>
-**مبدأ منع الإجراء المهين.** يعمل [مبدأ منع الإجراء المهين (§9.6)](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) المبيَّن في الجزء ج أرضية مطلقة في رصّة المقايضة هذه.
+**مبدأ منع الإجراء المهين.** يعمل [مبدأ منع الإجراء المهين (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) المبيَّن في الجزء ج أرضية مطلقة في رصّة المقايضة هذه.
 - لا يجوز لأي تقييد أو انتصاف أو إجراء يصمد أمام الضرورة وتقليل الضرر والتناسب أن يُصمَّم أو يُؤطَّر أو يُنفَّذ أو يُسمَح له أن يعمل إهانة أو إذلالًا أو فرجة أو انتقامًا أو تحميلًا تمييزيًا أو تآكل حقوق بدافع الملاءمة.
 - نتيجة موضوعية صحيحة تُسلَّم عبر إجراء مهين تبقى غير ممتثلة.
 - حيث يكون الطابع المحظور معاناة غاية في ذاتها أو إلحاقًا مجانيًا / مهينًا — بما في ذلك الإذلال لذاته — يُقرأ مع [القسوة](../../core_05_band_accountability.md#cruelty).
@@ -529,9 +529,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: [§6.1 مبادئ المقايضة الأساسية](#61-core-tradeoff-principles) (ينطبق بعد استيفاء رصّة المقايضة)؛ [§9.1 الإدارة المسؤولة](../../core_01_c_stewardship_capacity_principles.md#91-stewardship)؛ [§12.2 الكفاءة الدستورية](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
+- أعلى: [§6.1 مبادئ المقايضة الأساسية](#61-core-tradeoff-principles) (ينطبق بعد استيفاء رصّة المقايضة)؛ [§9.1 الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#91-stewardship)؛ [§12.2 الكفاءة الدستورية](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
 - يُقرأ مع: أسرة قياس الأداء الدستوري (*العبء القابل للتجنّب بوصفه قياسًا دستوريًا*)؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — رجل **المشاركة** (العبء غير المطلوب دستوريًا يضيّق [الوكالة ذات المعنى](../../core_05_band_participation.md#meaningful-agency))؛ ورجل **حسن التوقيت** (التأخير القابل للتجنّب عبء قابل للتجنّب).
-- أسفل: [§11.1.3 الإدارة المسؤولة وتطبيق المشغّل](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (يجب ألا تكافئ الحوافز إنشاء عبء غير ضروري)؛ [المادة XX: قابلية الفهم والإدارة المسؤولة للتعقيد](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- أسفل: [§11.1.3 الإدارة المسؤولة وتطبيق المشغّل](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (يجب ألا تكافئ الحوافز إنشاء عبء غير ضروري)؛ [المادة XX: قابلية الفهم والإدارة المسؤولة للتعقيد](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -565,7 +565,7 @@
 
 يجب أن تستوفي ادعاءات أن عبئًا معيّنًا مطلوب دستوريًا متطلبات الدليل وقابلية التتبع في **الفصل الرابع**. الملاءمة أو الجمود المؤسسي أو التقليد أو التفضيل وحده ليست كافية لإدامة عبء يفتقر إلى رابط قابل للفحص بنتيجة دستورية، متسقًا مع [انضباط سجل القرار في §6.1](#615-rights-collision-decision-test).
 
-حيث تعمل بنى الحوافز على مسؤولي الإدارة أو المشغّلين، يعزّز هذا القسم [§11.1.3 الإدارة المسؤولة وتطبيق المشغّل](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application). يجب ألا تكافئ حوافز الإدارة المسؤولة إنشاء عبء غير ضروري أكثر مما يجوز أن تكافئ الإنتاجية الخام.
+حيث تعمل بنى الحوافز على مسؤولي الإدارة أو المشغّلين، يعزّز هذا القسم [§11.1.3 الإدارة المسؤولة وتطبيق المشغّل](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application). يجب ألا تكافئ حوافز الإدارة المسؤولة إنشاء عبء غير ضروري أكثر مما يجوز أن تكافئ الإنتاجية الخام.
 
 <a id="7-prohibition-on-absolute-override"></a>
 ### 7. حظر التجاوز المطلق
@@ -574,8 +574,8 @@
 
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — لا يجوز الاستناد إلى قيمة واحدة لإفراغ **المشاركة** أو **الرقابة** أو **المساءلة** أو **حسن التوقيت** تحت ما يطلبه [الرهان المادي](core_00_preamble.md#material-stake).
 - يُقرأ مع: [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) — لا يجوز الاستناد إلى **الازدهار** ولا إلى **الاستمرارية** ورقة رابحة على الآخر أو على السلامة والحقيقة أو على انضباط الرباعية؛ يحمي حظر التجاوز المطلق السعي إلى المقصدين معًا.
-- أعلى: المبادئ: [2. المقصد التأسيسي: العافية](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، و[3.1 السلامة](core_01_a_values_principles.md#31-safety-harm-constraint)، و[3.2 الحقيقة](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، و[4. الثقة](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)، و[§9 الإدارة المسؤولة والفهم الموزَّع](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)، و[6. حل تعارض الإجراءات](#6-process-conflict-resolution)، و[5. الحرية](core_01_a_values_principles.md#5-freedom-bounded-agency)، و[المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims).
-- أسفل: [15. التطبيق المتكامل](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application).
+- أعلى: المبادئ: [2. المقصد التأسيسي: العافية](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، و[3.1 السلامة](core_01_a_values_principles.md#31-safety-harm-constraint)، و[3.2 الحقيقة](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، و[4. الثقة](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)، و[§9 الإدارة المسؤولة والفهم الموزَّع](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)، و[6. حل تعارض الإجراءات](#6-process-conflict-resolution)، و[5. الحرية](core_01_a_values_principles.md#5-freedom-bounded-agency)، و[المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims).
+- أسفل: [15. التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 - أسفل: يحمي سطح الحقوق ضد منطق تجاوز بقيمة واحدة يطوي المساواة أو حقوق الطعن أو الشفافية أو قابلية الطعن أو التفسير المحدود.
   - خاصةً [المادة V: الحقوق الأساسية المتساوية](../../core_06_rights_part_b.md#article-v-equal-basic-rights)، و[المادة XII-B: الحق في الطعن والمراجعة والانتصاف](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)، و[المادة XIV-B: الشفافية وقابلية التدقيق وقابلية الطعن](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability)، و[المادة XVIII-B: قابلية الطعن وحدود التقييد المتناسب](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)، و[المادة XXII-A: الولاية التفسيرية المحدودة](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate).
 
@@ -608,8 +608,8 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [الديباجة — الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)؛ مقياس [الرهان المادي](core_00_preamble.md#material-stake) ينطبق على الفصل كله عبر تتبّعات الأقسام.
-- أسفل: [§8.1 مبدأ عدم التحايل الدستوري](#81-constitutional-no-bypass-principle)، و[§8.2 طبقة التعريف والانضباطات المطلوبة](#82-definitional-layer-and-required-disciplines)، و[§8.3 حل الغموض](#83-ambiguity-resolution)، و[§8.4 حل تعارض المعنى الدستوري](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction))؛ [2. المقصد التأسيسي: العافية](core_01_a_values_principles.md#2-foundational-objective-wellbeing) حتى [15. التطبيق المتكامل](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application)؛ [6. حل تعارض الإجراءات](#6-process-conflict-resolution) لإجراء تصادم القيم؛ أصل عدم التضييق في [الفصل السادس: الحقوق التأسيسية](../../core_06_rights_part_a.md#chapter-six-foundational-rights).
-- يُقرأ مع: [الفصول من الثاني إلى الرابع](../../core_02_definition_structure.md) و[الفصل الخامس](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — الطبقة التفسيرية والإثباتية لكل مصطلح في هذا الفصل.
+- أسفل: [§8.1 مبدأ عدم التحايل الدستوري](#81-constitutional-no-bypass-principle)، و[§8.2 طبقة التعريف والانضباطات المطلوبة](#82-definitional-layer-and-required-disciplines)، و[§8.3 حل الغموض](#83-ambiguity-resolution)، و[§8.4 حل تعارض المعنى الدستوري](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction))؛ [2. المقصد التأسيسي: العافية](core_01_a_values_principles.md#2-foundational-objective-wellbeing) حتى [15. التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#15-integrated-application)؛ [6. حل تعارض الإجراءات](#6-process-conflict-resolution) لإجراء تصادم القيم؛ أصل عدم التضييق في [الفصل السادس: الحقوق التأسيسية](../../core_06_rights_part_a.md#chapter-six-foundational-rights).
+- يُقرأ مع: [الفصول من الثاني إلى الرابع](core_02_definition_structure.md) و[الفصل الخامس](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — الطبقة التفسيرية والإثباتية لكل مصطلح في هذا الفصل.
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) و[المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) — الخلفية التفسيرية لإطار القيم المتكامل؛ مقياس [الرهان المادي](core_00_preamble.md#material-stake) حيث يكون مادي الصلة.
 - يُقرأ مع: [رصّة السلطة والتسلسل الداخلي](../../core_05_band_integrative.md#authority-stack) (*مركز طبقة المصدر*)؛ [الفصل السادس عشر](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*الحفظ والطبعات وإطار الاعتماد* — ليس موطن ترتيب تعارض ثانيًا)؛ [الفصل الثالث عشر](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) و[الفصل الرابع عشر](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*بوابات عدم التراجع وتراتب المعتمِدين تحت §8.4*).
 - يُقرأ مع: [المادة XXII: التفسير الدستوري والمراجعة وضمانات منع الاستيلاء](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) لضمانات التفسير المؤسسي (ليست بديلًا عن هذا القسم).
@@ -832,6 +832,6 @@
 
 **الملف السابق:** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 
-**الملف التالي (ما زال بالإنجليزية):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)
+**الملف التالي (هذه اللغة):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
 **الأصل الملزم:** [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md)

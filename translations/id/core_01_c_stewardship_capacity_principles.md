@@ -11,7 +11,7 @@
 > Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Satu Bagian C bahasa Inggris](../../core_01_c_stewardship_capacity_principles.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_01_c_stewardship_capacity_principles.md`](../../core_01_c_stewardship_capacity_principles.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
 > **Sebelumnya (lokal ini):** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Bab Satu, Bagian B — §§6–8)
-> **Berikutnya (masih bahasa Inggris):** [core_02_definition_structure.md](../../core_02_definition_structure.md)
+> **Berikutnya (bahasa ini):** [core_02_definition_structure.md](core_02_definition_structure.md)
 > **Alur baca:** §9 pengelolaan bertanggung jawab → §10 tata kelola → §11 keselarasan insentif dan penguasaan → §12 kapasitas → §13 struktur pasar → §14 evaluasi sistemik → **§15 penerapan terpadu** (puncak bab).
 
 </details>
@@ -1320,3 +1320,731 @@ Struktur insentif bagi sistem semacam itu tidak boleh:
   - memenuhi kewajiban itu; atau
   - mentransfernya secara sah.
 - **Kecuali:** alternatif yang kurang berbahaya secara dapat ditunjukkan tidak layak di bawah tinjauan [Keperluan](../../core_05_band_accountability.md#necessity) dan [Proporsionalitas](../../core_05_band_accountability.md#proportionality).
+
+<a id="12-shared-system-capacity"></a>
+### 12. Kapasitas Sistem Bersama
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Baca bersama: [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — tujuan **Kesinambungan** (integritas ekologis, tanggung jawab antargenerasi, dan kapasitas sistem bersama yang tahan).
+- Hulu: Prinsip: [Pembukaan §1 Model](core_00_preamble.md#the-model); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — pengembangan tujuan **Kesinambungan**; [2. Tujuan Fondasional: Kesejahteraan](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [4. Kepercayaan](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), dan [§12 Kapasitas Sistem Bersama](#12-shared-system-capacity).
+- Hilir: [§6.3 Minimalisasi Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [10. Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](#10-governance-under-stewardship-discipline), dan [§11.1.3 Penerapan Pengelolaan Bertanggung Jawab dan Operator](#1113-stewardship-and-operator-application).
+- Hilir: **CJS-3.11.1 — Disiplin penetapan ambang konsentrasi (dapat disetel pihak yang mengadopsi)** (aturan penetapan-ambang operatif).
+- Hilir: Membentuk permukaan hak untuk prasyarat ekologis, alokasi sumber daya, kapasitas pendidikan dan perkembangan, ketahanan siklus hidup, interoperabilitas, keterpahaman, dan respons adaptif; khususnya [Pasal I-A: Prasyarat Lingkungan dan Integritas Ekologis](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [Pasal III: Kelangsungan Hidup dan Akses Pendidikan yang Setara](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access), [Pasal IV: Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding), [Pasal IX: Penentuan Diri dan Keagenan](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [Pasal XVI: Siklus Hidup Sistem, Lingkungan, dan Kebalikan](../../core_06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility), [Pasal XIX: Interoperabilitas, Portabilitas, Pergerakan, Suaka, dan Integritas Keluar](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [Pasal XX: Keterpahaman dan Pengelolaan Bertanggung Jawab atas Kompleksitas](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), dan [Pasal XXI: Analisis Akar Masalah dan Respons Adaptif](../../core_06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response).
+- Subbagian (urutan baca): [§12.1 Kapasitas Produktif (Barang Instrumental)](#121-productive-capacity-instrumental-good) · [§12.1.1 Lestarikan, Perluas, dan Apa yang Tidak Dihitung](#1211-preserve-expand-and-what-does-not-count) · [§12.2 Efisiensi Konstitusional](#122-constitutional-efficiency).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Kapasitas Sistem Bersama](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [O](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [M](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#shared-system-capacity-constitutional-c)
+- [Kapasitas Produktif](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [Efisiensi Konstitusional](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
+- [Kesejahteraan](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
+- [Martabat dan Kesetaraan Moral](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
+- [Keagenan Bermakna](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+- [Kelayakan](../../core_05_band_accountability.md#feasibility) · [O](../../core_05_band_accountability.md#feasibility) · [M](../../core_05_band_accountability.md#feasibility-a) · [A](../../core_05_band_accountability.md#feasibility-a) · [C](../../core_05_band_accountability.md#feasibility-c)
+- [Keperluan](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [Proporsionalitas](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [Beban yang Dapat Dihindari](../../core_05_band_continuity.md#avoidable-burden) · [O](../../core_05_band_continuity.md#avoidable-burden) · [M](../../core_05_band_continuity.md#avoidable-burden-a) · [A](../../core_05_band_continuity.md#avoidable-burden-a) · [C](../../core_05_band_continuity.md#avoidable-burden-c)
+- [Divergensi Indikator Pengganti](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [Integritas Ekologis](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [O](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [M](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05_band_continuity.md#ecological-integrity-constitutional-c)
+- [Prasyarat Lingkungan](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](../../core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+- [Tanggung Jawab Antargenerasi](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: ketika sistem bersama dijalankan dengan baik, makhluk sadar harus dapat mengerjakan kerja berguna, memperbaiki hidup sepanjang waktu, dan mendorong balik ketika sesuatu salah — tanpa semuanya terkunci oleh beberapa pelaku berkuasa. Kemampuan keseluruhan itu adalah **Kapasitas Sistem Bersama**. **[§12.1 Kapasitas Produktif (Barang Instrumental)](#121-productive-capacity-instrumental-good)** mencakup apakah makhluk sadar benar-benar dapat berpartisipasi dan mendapat hasil nyata. Apa yang harus dilestarikan, dan apa yang tidak dihitung, adalah **[§12.1.1 Lestarikan, Perluas, dan Apa yang Tidak Dihitung](#1211-preserve-expand-and-what-does-not-count)**. **[§12.2 Efisiensi Konstitusional](#122-constitutional-efficiency)** mencakup apakah hasil itu datang tanpa membuang waktu, uang, dan perhatian semua orang. **[§13 Struktur Pasar](#13-market-structure)** menghentikan sekelompok pemain mengosongkan itu. Tidak satu pun dihitung jika “kemajuan” datang dari menimbun kekayaan atau kuasa, memalsukan angka, mencabut hak, atau membuang bahaya pada orang lain atau planet.*
+
+**[Kapasitas Sistem Bersama](../../core_05_band_continuity.md#shared-system-capacity-constitutional)** adalah apa yang seharusnya dihasilkan [Pengelolaan Bertanggung Jawab](../../core_05_band_continuity.md#stewardship-constitutional) dan [Tata Kelola](../../core_05_band_accountability.md#governance) bersama sepanjang waktu: kemampuan tahan dan dapat digugat bagi makhluk sadar dan sistem bersama untuk mencapai apa yang dituntut Konstitusi ini. Ia adalah **sarana** menuju tujuan **Berkembang** di bawah [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — bukan kartu truf yang menimpa keselamatan, kebenaran, hak, atau ekologi.
+
+Kapasitas itu punya beberapa aspek yang bekerja bersama:
+- **[Kapasitas Produktif](../../core_05_band_continuity.md#productive-capacity-constitutional)** — dapatkah makhluk sadar berpartisipasi, berkontribusi, dan mendapat hasil nyata? ([§12.1 Kapasitas Produktif (Barang Instrumental)](#121-productive-capacity-instrumental-good))
+- **[Efisiensi Konstitusional](../../core_05_band_continuity.md#constitutional-efficiency)** — apakah hasil itu dicapai tanpa membuang waktu, perhatian, bahan, infrastruktur, dan energi makhluk sadar? ([§12.2 Efisiensi Konstitusional](#122-constitutional-efficiency))
+- **Disiplin anti-konsentrasi** — dapatkah makhluk sadar masih menggugat, bersaing, dan pergi? ([§13](#13-market-structure))
+- **Perwakilan pihak terdampak yang adil, keluar, dapat-digugat, dan prasyarat ekologis** — apakah pihak terdampak diwakili secara adil, dan apakah kondisi latar belakang menjaga kapasitas tetap nyata alih-alih kosong?
+
+**Bagaimana kapasitas itu dinilai:**
+
+- **Seperti apa keberhasilan:**
+  - [Kesejahteraan](../../core_05_band_continuity.md#wellbeing);
+  - [Martabat dan Kesetaraan Moral](../../core_05_band_participation.md#dignity-and-equal-moral-standing); dan
+  - [Keagenan Bermakna](../../core_05_band_participation.md#meaningful-agency).
+- **Apa yang mengatur tukar-guling keras:**
+  - [Kelayakan](../../core_05_band_accountability.md#feasibility);
+  - [Keperluan](../../core_05_band_accountability.md#necessity); dan
+  - [Proporsionalitas](../../core_05_band_accountability.md#proportionality).
+- **Apa yang menangkap gesekan sia-sia dan metrik tidak jujur:**
+  - [Beban yang Dapat Dihindari](../../core_05_band_continuity.md#avoidable-burden); dan
+  - [Divergensi Indikator Pengganti](../../core_05_band_oversight.md#proxy-divergence).
+- **Apa yang menjaga kapasitas terikat ke dunia yang layak huni sepanjang waktu:**
+  - [Integritas Ekologis](../../core_05_band_continuity.md#ecological-integrity-constitutional);
+  - [Prasyarat Lingkungan](../../core_05_band_continuity.md#environmental-preconditions-constitutional); dan
+  - [Tanggung Jawab Antargenerasi](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional).
+
+<a id="121-productive-capacity-instrumental-good"></a>
+#### 12.1 Kapasitas Produktif (Barang Instrumental)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Baca bersama: [§12 Kapasitas Sistem Bersama](#12-shared-system-capacity).
+- Subbagian (urutan baca): [§12.1.1 Lestarikan, Perluas, dan Apa yang Tidak Dihitung](#1211-preserve-expand-and-what-does-not-count).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Kapasitas Produktif](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [Kapasitas Sistem Bersama](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [O](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [M](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#shared-system-capacity-constitutional-c)
+- [Efisiensi Konstitusional](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
+- [Kesejahteraan](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
+- [Martabat dan Kesetaraan Moral](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
+- [Divergensi Indikator Pengganti](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [Integritas Ekologis](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [O](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [M](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05_band_continuity.md#ecological-integrity-constitutional-c)
+- [Prasyarat Lingkungan](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](../../core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+- [Tanggung Jawab Antargenerasi](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: kapasitas produktif adalah aspek “dapatkah kita benar-benar mengerjakan sesuatu?” dari kapasitas sistem bersama. Dapatkah makhluk sadar ikut serta, belajar, berkontribusi, dan mengubah usaha serta sumber daya menjadi hasil yang membuat hidup lebih baik — dan menjaga kemampuan itu sepanjang waktu? Ia adalah alat untuk hidup yang lebih baik. Apa yang harus dilestarikan, dan apa yang tidak dihitung, adalah [§12.1.1 Lestarikan, Perluas, dan Apa yang Tidak Dihitung](#1211-preserve-expand-and-what-does-not-count).*
+
+**[Kapasitas Produktif](../../core_05_band_continuity.md#productive-capacity-constitutional)** adalah satu aspek **[Kapasitas Sistem Bersama](../../core_05_band_continuity.md#shared-system-capacity-constitutional)**. Ia menamai kemampuan tahan makhluk sadar dan sistem bersama untuk:
+- menopang partisipasi, kontribusi, dan pembangunan keterampilan yang nyata; dan
+- mengubah waktu, perhatian, usaha, koordinasi, bahan, infrastruktur, dan energi menjadi hasil yang benar-benar dituntut Konstitusi ini.
+
+Ia adalah **barang instrumental** — sarana, bukan nilai truf. Tugasnya adalah menaikkan, menopang, dan menyebarkan kualitas hidup di bawah tujuan **Berkembang**, konsisten dengan [Kesejahteraan](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Martabat dan Kesetaraan Moral](../../core_05_band_participation.md#dignity-and-equal-moral-standing), Lantai Hak Bab Enam, dan batas ekologis serta antargenerasi tujuan **Kesinambungan** di bawah [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims).
+
+<a id="1211-preserve-expand-and-what-does-not-count"></a>
+##### 12.1.1 Lestarikan, Perluas, dan Apa yang Tidak Dihitung
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Baca bersama: [§12.2 Efisiensi Konstitusional](#122-constitutional-efficiency); [§6 Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [§6.2.4 Pembatalan Divergensi Indikator Pengganti](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation); [§7 Larangan Penimpaan Mutlak](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override); [Pasal I-A: Prasyarat Lingkungan dan Integritas Ekologis](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity).
+- Baca bersama: [§3.1 Keselamatan (Batasan Bahaya)](core_01_a_values_principles.md#31-safety-harm-constraint); [§3.2 Kebenaran (Batasan Integritas Epistemik)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint); [4. Kepercayaan](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); [§5 Kebebasan (Keagenan Terbatas)](core_01_a_values_principles.md#5-freedom-bounded-agency).
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: jaga kemampuan untuk mengerjakan sesuatu, dan kembangkan ketika itu akan membuang lebih sedikit waktu semua orang — tetapi bukan dengan menimbun, memalsukan angka, mencabut hak, atau membuang bahaya pada orang lain atau planet. Metrik yang tidak lagi membuktikan hasil nyata tidak dihitung.*
+
+Sistem harus melestarikan kapasitas produktif dan, di mana layak, memperluasnya ketika melakukan itu akan meningkatkan [Efisiensi Konstitusional](../../core_05_band_continuity.md#constitutional-efficiency) ([§12.2 Efisiensi Konstitusional](#122-constitutional-efficiency)).
+
+**Kewajiban itu:**
+
+- **Tetap di dalam:**
+  - Keselamatan;
+  - Kebenaran;
+  - Kepercayaan;
+  - Kebebasan;
+  - Lantai Hak Bab Enam, termasuk [Pasal I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Prasyarat Lingkungan dan Integritas Ekologis*):
+    - [Integritas Ekologis](../../core_05_band_continuity.md#ecological-integrity-constitutional);
+    - [Prasyarat Lingkungan](../../core_05_band_continuity.md#environmental-preconditions-constitutional); dan
+    - [Tanggung Jawab Antargenerasi](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional).
+  - disiplin batasan-substantif yang tidak bisa ditawar Bab Satu.
+- **Bagaimana dinilai:** hasil yang ditelusuri di bawah **Bab Empat dan Lima**.
+- **Bagaimana ditunjukkan:** bukti, bukan slogan.
+
+Kapasitas produktif tidak dihitung — dan tidak boleh dipakai untuk menjustifikasi:
+
+- memusatkan kekayaan, kuasa, kontrol, atau kesempatan dengan cara yang merugikan kesejahteraan, keagenan, martabat, atau kondisi ekologis makhluk sadar lain — sekarang atau kemudian;
+- mendegradasi sistem alam yang menopang hidup, atau mendorong biaya ekologis atau antargenerasi ke orang lain tanpa mitigasi, pengungkapan, dan perwakilan;
+- throughput mentah, volume keluaran, utilisasi, jumlah karyawan, pendapatan, pertumbuhan aset, pangsa pasar, atau indikator pengganti serupa yang tidak lagi melacak hasil nyata — termasuk indikator pengganti yang menunjukkan “pertumbuhan” sementara bahaya diekspor ke makhluk sadar, generasi mendatang, atau lingkungan;
+- mempersempit atau menunda hak Bab Enam, termasuk prasyarat ekologis di bawah [Pasal I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Prasyarat Lingkungan dan Integritas Ekologis*);
+- melewati [§6 Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), termasuk [disiplin catatan keputusan §6.1](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test);
+- melemahkan kewajiban audit, dapat-digugat, atau tinjauan retrospektif; atau
+- jalur penimpaan terlarang lain di [§7 Larangan Penimpaan Mutlak](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override), termasuk menggeser bahaya ekologis, antargenerasi, atau distributif dari buku yang dituntut **Bab Dua sampai Empat** tetap terlihat.
+
+Di mana klaim kapasitas-produktif bertumpu pada metrik yang tidak lagi membuktikan hasil nyata — termasuk metrik yang menyembunyikan kerusakan ekologis, bahaya masa depan, atau kehilangan yang didorong konsentrasi — [§6.2.4 Pembatalan Divergensi Indikator Pengganti](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) berlaku.
+
+<a id="122-constitutional-efficiency"></a>
+#### 12.2 Efisiensi Konstitusional
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Efisiensi Konstitusional](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
+- [Kapasitas Sistem Bersama](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [O](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [M](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#shared-system-capacity-constitutional-c)
+- [Kapasitas Produktif](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: efisiensi konstitusional adalah aspek “apakah kita mendapat nilai uang dalam istilah manusia?” dari kapasitas sistem bersama. Lebih banyak manfaat nyata untuk setiap jam waktu, perhatian, dan usaha bersama makhluk sadar — bukan memotong sudut pada hak, kebenaran, keselamatan, atau ekologi hanya agar tampak cepat, ramping, atau murah.*
+
+**[Efisiensi Konstitusional](../../core_05_band_continuity.md#constitutional-efficiency)** adalah aspek utama lain **[Kapasitas Sistem Bersama](../../core_05_band_continuity.md#shared-system-capacity-constitutional)**. Ia menanyakan apakah sistem menghasilkan lebih banyak manfaat yang dituntut Konstitusi per unit waktu, perhatian, usaha, koordinasi, bahan, infrastruktur, dan energi makhluk sadar yang dikonsumsi.
+
+Efisiensi dapat mendorong perbaikan yang dibagi luas, tetapi hanya di dalam batas konstitusional. Sendirian, ia **bukan**:
+- kecepatan mentah;
+- kenyamanan administratif;
+- target utilisasi;
+- pertumbuhan pendapatan;
+- pangsa pasar;
+- pemotongan jumlah karyawan; atau
+- pemotongan biaya demi pemotongan biaya itu sendiri.
+
+**Ketika klaim efisiensi dihitung:**
+
+- **Tertelusur ke:** hasil konstitusional nyata.
+- **Tetap konsisten dengan:**
+  - Keselamatan;
+  - Kebenaran;
+  - Lantai Hak Bab Enam;
+  - integritas ekologis;
+  - martabat;
+  - keagenan bermakna; dan
+  - distribusi adil.
+
+**Keuntungan efisiensi tidak boleh:**
+
+- mengosongkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); atau
+- menggantikan kemajuan menuju [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) dengan metrik dasbor.
+
+<a id="13-market-structure"></a>
+### 13. Struktur Pasar
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Baca bersama: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — partisipasi, pengawasan, pertanggungjawaban, dan ketepatan waktu di mana konsentrasi atau dominasi mengalahkan suara, pemeriksaan, kewajiban menjawab, atau koreksi tepat waktu; penskalaan [taruhan material](core_00_preamble.md#material-stake) (khususnya [§13.2 Pro-Kompetisi dan Anti-Dominasi](#132-pro-competition-and-anti-domination)).
+- Baca bersama: [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — tujuan **Kesinambungan** (kondisi produktif yang dapat diperebutkan dan tahan); tujuan **Berkembang** (akses adil ke penghidupan, keagenan, dan jalur inovasi).
+- Hulu: Prinsip: [§12 Kapasitas Sistem Bersama](#12-shared-system-capacity) — klaim kapasitas-produktif dan efisiensi gagal di mana konsentrasi atau dominasi mengosongkannya; [10. Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](#10-governance-under-stewardship-discipline).
+- Hilir: [Bab Sepuluh §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (subversi berbasis konsentrasi); [6. Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 Pembatalan Divergensi Indikator Pengganti](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
+- Hilir: **CJS-3.11.1 — Disiplin penetapan ambang konsentrasi pasar (dapat disetel pihak yang mengadopsi)** (aturan operatif [§13.1](#131-market-concentration-threshold-mechanism-adopter-tunable)); **CJS-3.11.2 — Katalog perilaku dan remediasi anti-dominasi** (pola perilaku dan pemulihan operatif [§13.2](#132-pro-competition-and-anti-domination)); **CJS-3.11.3 — Disiplin penetapan langit-langit konsolidasi (dapat disetel pihak yang mengadopsi)** (aturan penetapan-langit-langit operatif [§13.3.2](#1332-ceiling-discipline-adopter-requirements)).
+- Hilir: Membentuk permukaan hak untuk alokasi sumber daya, kompensasi adil, organisasi kolektif, interoperabilitas, keluar, dan tinjauan anti-penguasaan; khususnya [Pasal III-D: Lantai Kerja dan Ekonomi](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor), [Pasal IV: Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding), dan [Pasal XIX: Interoperabilitas, Portabilitas, Pergerakan, Suaka, dan Integritas Keluar](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity).
+- Subbagian (urutan baca): [§13.1 Mekanisme Ambang Konsentrasi Pasar (Dapat Disetel Pihak yang Mengadopsi)](#131-market-concentration-threshold-mechanism-adopter-tunable) · [§13.1.1 Pemicu Ambang Konsentrasi (Dapat Disetel Pihak yang Mengadopsi)](#1311-concentration-threshold-triggers-adopter-tunable) · [§13.2 Pro-Kompetisi dan Anti-Dominasi](#132-pro-competition-and-anti-domination) · [§13.3 Langit-Langit Konsolidasi](#133-consolidation-ceiling).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Struktur Pasar](../../core_05_band_accountability.md#market-structure-constitutional) · [O](../../core_05_band_accountability.md#market-structure-constitutional) · [M](../../core_05_band_accountability.md#market-structure-constitutional-a) · [A](../../core_05_band_accountability.md#market-structure-constitutional-a) · [C](../../core_05_band_accountability.md#market-structure-constitutional-c)
+- [Ambang Konsentrasi Pasar](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) · [O](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) · [M](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-c)
+- [Dapat Digugat](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Divergensi Indikator Pengganti](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [Ketergantungan](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [Keagenan Bermakna](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: makhluk sadar harus dapat bekerja, membangun, berpindah penyedia, dan mendorong balik tanpa menabrak tembok karena satu perusahaan atau lembaga memiliki satu-satunya pintu. **Struktur Pasar** adalah disiplin anti-monopoli itu — bagi pasar, platform, sistem kerja, infrastruktur, data, daya komputasi, kredensial, dan ketergantungan lain yang penting bagi hidup sehari-hari. Menjadi besar dan menemukan hal baru boleh; menguasai pasar tidak. **[§13.1–§13.3](#131-market-concentration-threshold-mechanism-adopter-tunable)** menetapkan kapan konsentrasi sudah terlalu jauh, bagaimana dominasi dihentikan, dan seberapa banyak konsolidasi diizinkan sebelum makhluk sadar terkunci.*
+
+**[Struktur Pasar](../../core_05_band_accountability.md#market-structure-constitutional)** mengatur apakah makhluk sadar dan sistem bersama dapat ikut serta dalam hidup produktif dengan cara yang tetap terbuka bagi pilihan, kompetisi, dan dorongan balik. Di mana [taruhan material](core_00_preamble.md#material-stake) menuntut, itu mencakup:
+- pertukaran komersial;
+- platform;
+- pasar permintaan-kerja;
+- sistem pemasok dan kontrol-sumber-daya;
+- jalur peran pemberian kredensial;
+- saluran akses-modal; dan
+- penjagaan gerbang infosfer.
+
+Klaim **[Kapasitas Produktif](../../core_05_band_continuity.md#productive-capacity-constitutional)** dan **[Efisiensi Konstitusional](../../core_05_band_continuity.md#constitutional-efficiency)** di bawah **[§12](#12-shared-system-capacity)** gagal di mana struktur pasar mengizinkan konsentrasi, dominasi, atau konsolidasi yang secara dapat diduga mendegradasi:
+- [Kesejahteraan](../../core_05_band_continuity.md#wellbeing);
+- [Keagenan Bermakna](../../core_05_band_participation.md#meaningful-agency);
+- [Martabat dan Kesetaraan Moral](../../core_05_band_participation.md#dignity-and-equal-moral-standing);
+- [Integritas Ekologis](../../core_05_band_continuity.md#ecological-integrity-constitutional); atau
+- tinjauan konstitusional.
+
+<a id="131-market-concentration-threshold-mechanism-adopter-tunable"></a>
+#### 13.1 Mekanisme Ambang Konsentrasi Pasar (Dapat Disetel Pihak yang Mengadopsi)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Hulu: [§13 Struktur Pasar](#13-market-structure); [Ambang Konsentrasi Pasar](../../core_05_band_accountability.md#market-concentration-threshold-constitutional).
+- Hilir: **CJS-3.11.1 — Disiplin penetapan ambang konsentrasi pasar (dapat disetel pihak yang mengadopsi)** (aturan penetapan-ambang operatif); [§13.2 Pro-Kompetisi dan Anti-Dominasi](#132-pro-competition-and-anti-domination); [§13.3 Langit-Langit Konsolidasi](#133-consolidation-ceiling); [CJS-3.11.3 — Disiplin penetapan langit-langit konsolidasi (dapat disetel pihak yang mengadopsi)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) (aturan penetapan-langit-langit operatif [§13.3.2](#1332-ceiling-discipline-adopter-requirements)); [Bab Delapan §4 Pertanyaan 2 — seberapa baik atau buruk?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it); [Bab Sepuluh §5.1 Subversi berbasis konsentrasi](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- Pintu pengelola (non-operatif): Pernyataan langkah-berikutnya yang mengikat: [Pernyataan pengelola operatif](#operative-steward-statement-market-structure). Penunjuk pendukung tidak dapat mempersempitnya.
+- Subbagian (urutan baca): [§13.1.1 Pemicu Ambang Konsentrasi (Dapat Disetel Pihak yang Mengadopsi)](#1311-concentration-threshold-triggers-adopter-tunable).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Ambang Konsentrasi Pasar](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) · [O](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) · [M](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-c)
+- [Struktur Pasar](../../core_05_band_accountability.md#market-structure-constitutional) · [O](../../core_05_band_accountability.md#market-structure-constitutional) · [M](../../core_05_band_accountability.md#market-structure-constitutional-a) · [A](../../core_05_band_accountability.md#market-structure-constitutional-a) · [C](../../core_05_band_accountability.md#market-structure-constitutional-c)
+- [Ketergantungan](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Pernyataan pengelola operatif</span></strong></summary>
+
+<a id="operative-steward-statement-market-structure"></a>
+> **Pernyataan pengelola operatif.** **Pemilik:** Bab Satu §13 / §13.1. Gigitan operatif: CJS-3.11.1. **Gerakan terlarang:** Jangan memperlakukan dapat-disetel-pihak-yang-mengadopsi sebagai opsional-pihak-yang-mengadopsi. Jangan membersihkan lantai dengan jumlah entitas atau omongan efisiensi. **Jam:** Batalkan ambang yang meniadakan sekarang. Pulihkan tinjauan ketika satu-satunya pintu sedang menutup.
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: bagian ini menarik lantai terhadap penumpukan berbahaya kekayaan, kuasa, atau kontrol. Ia tidak, sendirian, memutuskan seberapa buruk bahayanya, dan ia tidak, sendirian, menandai seseorang sebagai kasus pelanggaran. Ketika konsentrasi dipakai untuk merusak Konstitusi ini, Bab Sepuluh yang menilai itu — dan hanya setelah Bab Delapan sudah menilai bahaya terverifikasi sebagai salah satu dari tiga yang paling serius. Pihak yang mengadopsi boleh menyetel pemicu numerik persis ke konteks mereka, tetapi mereka tidak boleh menetapkannya begitu tinggi sehingga tidak pernah menggigit, memasangkannya dengan penegakan yang tidak dapat dipakai, atau menutupi konsentrasi lewat struktur federasi atau cangkang. Bagaimana pemicu itu ditetapkan adalah [§13.1.1 Pemicu Ambang Konsentrasi (Dapat Disetel Pihak yang Mengadopsi)](#1311-concentration-threshold-triggers-adopter-tunable).*
+
+**Apa yang dilakukan subbagian ini:**
+
+- **Melakukan:** menyatakan arah ambang lapisan-prinsip bagi lantai [§13 Struktur Pasar](#13-market-structure).
+- **Tidak:** memutuskan seberapa serius bahaya terverifikasi itu, atau mengeluarkan penunjukan pelanggaran.
+- **Ketika konsentrasi dipakai untuk merusak Konstitusi ini:** pelanggaran itu dinilai di bawah [Bab Sepuluh §5.1 Subversi berbasis konsentrasi](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- **Menciptakan, menjaga, atau mengeksploitasi konsentrasi di atas lantai:** dijangkau lewat kriteria Bab Sepuluh 3, 4, dan 6 bagi tinjauan penunjukan, dan hanya di mana [Bab Delapan §4 Pertanyaan 2 — seberapa baik atau buruk?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it) sudah menilai bahaya terverifikasi itu sebagai salah satu dari tiga skor paling serius yang dicatat Bab Delapan.
+
+**Lantai konstitusional:**
+
+- **Apa itu:** disiplin non-konsentrasi di [§13 Struktur Pasar](#13-market-structure) menetapkan **lantai konstitusional**.
+- **Apa yang diblokirnya:** konsentrasi:
+  - kekayaan;
+  - kuasa;
+  - kontrol; atau
+  - kesempatan.
+- **Bahaya yang dicegahnya:** degradasi yang dapat diduga, bagi makhluk sadar lain, atas:
+  - kesejahteraan;
+  - keagenan;
+  - martabat; atau
+  - integritas ekologis.
+- **Apa yang bukan:** satu angka tetap — ia adalah palang minimum.
+- **Apa yang juga berkonflik:** [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) dan tujuan **Kesinambungan** di bawah [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims), di mana konsentrasi secara dapat diduga mengalahkan:
+  - suara;
+  - pemeriksaan;
+  - kewajiban menjawab; atau
+  - koreksi tepat waktu.
+
+**[Pasal IV](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*):**
+
+- **Hak sumber daya:** tetap utuh.
+- **Apa yang ditetapkannya:** **Lantai Hak** garis dasar bagi bagaimana sumber daya dibagi:
+  - siapa mendapatkannya;
+  - siapa bergantung pada apa; dan
+  - bagaimana ekosistem didanai.
+- **Apa yang ditambah subbagian ini:** arah ambang-konsentrasi pada tingkat prinsip saja.
+- **Apa yang tidak dilakukannya:** melemahkan, menggantikan, atau mempersempit Pasal IV.
+
+Ketentuan ini menyatakan mekanisme ambang-konsentrasi pada lapisan prinsip. Ia tidak menciptakan Lantai Hak baru dan tidak mempersempit lantai Bab Enam yang ada. Disiplin non-konsentrasi di [§13 Struktur Pasar](#13-market-structure) tetap mengendalikan.
+
+<a id="1311-concentration-threshold-triggers-adopter-tunable"></a>
+##### 13.1.1 Pemicu Ambang Konsentrasi (Dapat Disetel Pihak yang Mengadopsi)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Baca bersama: [Ambang Konsentrasi Pasar](../../core_05_band_accountability.md#market-concentration-threshold-constitutional); [Ketergantungan](../../core_05_band_continuity.md#dependency).
+- Hilir: [CJS-3.11.1 — Disiplin penetapan ambang konsentrasi pasar (dapat disetel pihak yang mengadopsi)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable) (aturan penetapan-ambang operatif).
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: pihak yang mengadopsi boleh menyetel pemicu numerik ke konteks mereka — domain, ukuran populasi, kepadatan ketergantungan — tetapi tidak ada satu angka global, dan lantai tetap berlaku. Aturan penetapan-ambang rinci hidup di CJS-3.11.1.*
+
+**Ambang konsentrasi** adalah pemicu kuantitatif yang menandai kapan konsentrasi telah mencapai tingkat yang menuntut tinjauan ditingkatkan, intervensi, atau pemulihan struktural. Mereka mencakup konsentrasi material, yurisdiksional, kemampuan, platform, dan infosfer. Pihak yang mengadopsi boleh menyetel pemicu ini **di dalam lantai konstitusional**.
+
+Pihak yang mengadopsi boleh menetapkan ambang berbeda menurut:
+- domain (material, yurisdiksional, kemampuan, platform, infosfer);
+- ukuran populasi makhluk sadar;
+- kepadatan ketergantungan;
+- faktor lain yang sesuai-konteks.
+
+Ketentuan ini tidak memaksakan satu angka global. Federasi konstitusional berbeda boleh menetapkan ambang berbeda tanpa ketidakpatuhan sendirian, asalkan lantai berlaku. Lihat [Ambang Konsentrasi Pasar](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) untuk jangkar definisional.
+
+Disiplin penetapan-ambang operatif — pelestarian lantai, tinjauan substansi-atas-bentuk, anti-peniadaan, dan pemicu pengawasan-ditingkatkan — hidup di **CJS-3.11.1 — Disiplin penetapan ambang konsentrasi (dapat disetel pihak yang mengadopsi)**.
+
+<a id="132-pro-competition-and-anti-domination"></a>
+#### 13.2 Pro-Kompetisi dan Anti-Dominasi
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Hulu: [§13 Struktur Pasar](#13-market-structure); [Struktur Pasar](../../core_05_band_accountability.md#market-structure-constitutional).
+- Hilir: **CJS-3.11.2 — Katalog perilaku dan remediasi anti-dominasi** (pola perilaku dan pemulihan operatif); [§13.3 Langit-Langit Konsolidasi](#133-consolidation-ceiling); [Bab Sepuluh §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- Baca bersama: [Pasal III-D: Lantai Kerja dan Ekonomi](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (Lantai Hak mobilitas kerja); [Pasal XIX: Interoperabilitas, Portabilitas, Pergerakan, Suaka, dan Integritas Keluar](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity); [6. Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([Keperluan](../../core_05_band_accountability.md#necessity), [Proporsionalitas](../../core_05_band_accountability.md#proportionality), [§6.2.4 Pembatalan Divergensi Indikator Pengganti](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
+- Subbagian (urutan baca): [§13.2.1 Kewajiban Pro-Kompetisi (Yang Harus)](#1321-pro-competition-duties-dos) · [§13.2.2 Larangan Anti-Dominasi (Yang Jangan)](#1322-anti-domination-prohibitions-donts) · [§13.2.3 Pemulihan](#1323-remedies).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Struktur Pasar](../../core_05_band_accountability.md#market-structure-constitutional) · [O](../../core_05_band_accountability.md#market-structure-constitutional) · [M](../../core_05_band_accountability.md#market-structure-constitutional-a) · [A](../../core_05_band_accountability.md#market-structure-constitutional-a) · [C](../../core_05_band_accountability.md#market-structure-constitutional-c)
+- [Dapat Digugat](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Keagenan Bermakna](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+- [Keperluan](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [Proporsionalitas](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [Ketergantungan](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [Divergensi Indikator Pengganti](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: Konstitusi tidak menghukum sistem semata karena besar, berguna, atau sementara unggul karena benar-benar berinovasi. Ia memang melarang dominasi tahan: kontrol atas pasar, tenaga kerja, platform, infrastruktur, data, komputasi, kredensial, atau sumber daya yang memungkinkan pelaku mengunci orang lain, memblokir saingan, menekan tawar-menawar adil, atau menguasai pertanggungjawaban konstitusional.*
+
+**Apa yang dilakukan subbagian ini:**
+
+- **Apa yang dinyatakannya:** aturan Konstitusi untuk menjaga kompetisi tetap nyata dan menghentikan dominasi tahan — pada tingkat prinsip saja. Ia bukan kode kompetisi lengkap.
+- **Hukum lokal yang lebih kuat:** ia tidak menghapus hukum antimonopoli atau kompetisi badan yang mengadopsi ketika hukum itu memberi perlindungan lebih kuat.
+- **Pemilik lain tetap berlaku:** jika fakta yang sama juga menaikkan kewajiban hak, pemulihan, atau pelanggaran yang ditunjuk bagian ini, kewajiban itu tetap berlaku sendiri.
+
+<a id="1321-pro-competition-duties-dos"></a>
+##### 13.2.1 Kewajiban Pro-Kompetisi (Yang Harus)
+
+*Dalam bahasa sederhana (yang harus): pasar dan ketergantungan harus tetap cukup terbuka agar makhluk sadar dapat masuk, berpindah, tawar-menawar secara adil, dan pergi — menjadi besar atau menemukan sesuatu yang baru boleh ketika dapat-diperebutkan tetap nyata.*
+
+Kapasitas sistem bersama harus tetap dapat diperebutkan dalam praktik. Di bawah [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad), dominasi yang mengosongkan **partisipasi**, **pengawasan**, **pertanggungjawaban**, atau **ketepatan waktu** — diskalakan ke [taruhan material](core_00_preamble.md#material-stake) — tidak kompatibel dengan bagian ini, apa pun klaim skala atau efisiensi.
+
+Di mana makhluk sadar bergantung pada pasar, platform, infrastruktur, susunan tenaga kerja, aliran sumber daya, akses data, akses komputasi, kredensial, atau kondisi produktif sebanding bagi penghidupan, keagenan, kesejahteraan, atau tinjauan konstitusional, sistem yang mengatur dan susunan yang menyusun pasar harus menjaga:
+- partisipasi yang dapat diperebutkan;
+- substitusi bermakna dan keluar;
+- jalur masuk dan masuk-kembali yang adil;
+- interoperabilitas dan portabilitas di mana material bagi keluar atau kompetisi;
+- tawar-menawar non-koersif bagi pekerja, pemasok, pengguna, peserta dependen, dan pihak terdampak;
+- akses yang dapat ditinjau ke infrastruktur esensial atau ketergantungan-tinggi di mana penolakan akan mengalahkan perlindungan Bab Enam, audit, pemulihan, atau keagenan bermakna.
+
+Berikut tidak dilarang sendirian:
+- skala;
+- integrasi;
+- perlindungan kekayaan intelektual;
+- keunggulan sementara dari inovasi sungguhan;
+- efisiensi dari koordinasi yang sah.
+
+Keunggulan itu tetap sah hanya selama mereka tidak menjadi berikut, dan karena itu tidak merusak [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) atau [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad):
+- dominasi tahan;
+- ketergantungan koersif;
+- degradasi Lantai Hak;
+- penggeseran beban ekologis;
+- penguasaan jalur pertanggungjawaban.
+
+Justifikasi berikut harus memenuhi kewajiban ketelusuran dan bukti di [6. Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) dan Bab Empat:
+- efisiensi;
+- daya saing;
+- darurat;
+- keamanan;
+- kapasitas-produktif.
+
+<a id="1322-anti-domination-prohibitions-donts"></a>
+##### 13.2.2 Larangan Anti-Dominasi (Yang Jangan)
+
+*Dalam bahasa sederhana (yang jangan): jangan mengunci makhluk sadar, memblokir saingan, menekan tawar-menawar adil, atau menguasai pertanggungjawaban konstitusional.*
+
+Tidak satu pun dari berikut:
+- makhluk sadar;
+- lembaga;
+- platform;
+- perusahaan;
+- organ negara;
+- pengelola;
+- kelompok terkoordinasi.
+
+boleh:
+- menciptakan;
+- menjaga;
+- memperoleh;
+- mengeksploitasi;
+- menyembunyikan;
+- merestrukturisasi di sekitar.
+
+kuasa tahan dari jenis berikut:
+- pasar;
+- platform;
+- infrastruktur;
+- tenaga kerja;
+- pemasok;
+- data;
+- komputasi;
+- pemberian kredensial;
+- akses-modal;
+- kontrol-sumber-daya.
+
+di mana kuasa itu secara dapat diduga mendegradasi:
+- kesejahteraan;
+- keagenan bermakna;
+- kompensasi adil;
+- inovasi;
+- akses;
+- integritas ekologis;
+- dapat-digugat;
+- tinjauan konstitusional.
+
+<a id="1323-remedies"></a>
+##### 13.2.3 Pemulihan
+
+*Dalam bahasa sederhana: ketika dominasi dibuktikan, respons harus cocok dengan bahaya, memulihkan pilihan nyata, dan tidak menghukum ukuran demi ukuran itu sendiri.*
+
+Berikut hidup di **CJS-3.11.2 — Katalog perilaku dan remediasi anti-dominasi**:
+- pola perilaku terlarang ilustratif;
+- alat pemulihan sepadan;
+- perutean evaluasi lintas-domain.
+
+Pemilik lain:
+- larangan kategoris mobilitas-kerja: [Pasal III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Lantai Kerja dan Ekonomi*);
+- syarat operatif interoperabilitas, portabilitas, dan integritas-keluar: **CJS-3.17**;
+- pola risiko konsolidasi horizontal dan vertikal: **§13.3**.
+
+Pemulihan harus:
+- sepadan dengan:
+  - konsentrasi;
+  - ketergantungan;
+  - perilaku;
+  - bahaya konstitusional;
+- memulihkan dapat-diperebutkan di mana dominasi dibuktikan;
+- menjaga Lantai Hak Bab Enam.
+
+Pemulihan tidak boleh menghukum skala semata.
+
+Pemilihan pemulihan operatif mengikuti **CJS-3.11.2** (*Katalog perilaku dan remediasi anti-dominasi*).
+
+<a id="133-consolidation-ceiling"></a>
+#### 13.3 Langit-Langit Konsolidasi
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Baca bersama: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — **pengawasan**, **pertanggungjawaban**, dan **ketepatan waktu** di mana konsolidasi merusak pemeriksaan, kewajiban menjawab, atau koreksi tepat waktu sebelum penguncian; **partisipasi** di mana konsolidasi menutup masuk, keluar, atau tawar-menawar adil; penskalaan [taruhan material](core_00_preamble.md#material-stake).
+- Baca bersama: [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — tujuan **Kesinambungan** (kondisi produktif yang dapat diperebutkan dan tahan terhadap konsolidasi pra-penguncian); tujuan **Berkembang** (jalur penghidupan, keagenan, dan inovasi selagi alternatif tetap nyata).
+- Hulu: [§13 Struktur Pasar](#13-market-structure); [§10 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](#10-governance-under-stewardship-discipline); [§9 Pengelolaan Bertanggung Jawab dan Pemahaman Terdistribusi](#9-stewardship-and-distributed-understanding).
+- Subbagian (urutan baca): [§13.3.1 Risiko Konsolidasi (Kerusakan Pra-Penguncian)](#1331-consolidation-risk-pre-lock-in-impairment) · [§13.3.2 Mekanisme Langit-Langit Konsolidasi (Dapat Disetel Pihak yang Mengadopsi)](#1332-ceiling-discipline-adopter-requirements).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Tata Kelola](../../core_05_band_accountability.md#governance) · [O](../../core_05_band_accountability.md#governance) · [M](../../core_05_band_accountability.md#governance-a) · [A](../../core_05_band_accountability.md#governance-a) · [C](../../core_05_band_accountability.md#governance-c)
+- [Pengelolaan Bertanggung Jawab](../../core_05_band_continuity.md#stewardship-constitutional) · [O](../../core_05_band_continuity.md#stewardship-constitutional) · [M](../../core_05_band_continuity.md#stewardship-constitutional-a) · [A](../../core_05_band_continuity.md#stewardship-constitutional-a) · [C](../../core_05_band_continuity.md#stewardship-constitutional-c)
+- [Dapat Digugat](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Struktur Pasar](../../core_05_band_accountability.md#market-structure-constitutional) · [O](../../core_05_band_accountability.md#market-structure-constitutional) · [M](../../core_05_band_accountability.md#market-structure-constitutional-a) · [A](../../core_05_band_accountability.md#market-structure-constitutional-a) · [C](../../core_05_band_accountability.md#market-structure-constitutional-c)
+- [Ketergantungan](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: konsolidasi dapat mencuri pilihan nyata jauh sebelum pasar tampak terkunci. **Langit-langit konsolidasi** memberi tata kelola dan pengelola kuasa peringatan-dini — untuk memeriksa, campur tangan, dan mengoreksi penumpukan selagi keluar dan persaingan masih ada.*
+
+Konsolidasi yang secara dapat diduga merusak dapat-diperebutkan sebelum penguncian jelas adalah masalah [Tata Kelola](../../core_05_band_accountability.md#governance) dan [Pengelolaan Bertanggung Jawab](../../core_05_band_continuity.md#stewardship-constitutional), bukan hanya masalah dominasi pasca-hoc, dan adalah disiplin langit-langit-konsolidasi lapisan-prinsip di bawah:
+- [§13](#13-market-structure);
+- [§13.2](#132-pro-competition-and-anti-domination).
+
+Pihak yang mengadopsi dan sistem yang mengatur harus mendeteksi penumpukan konsolidasi dari jenis berikut:
+- horizontal (*lebih sedikit saingan pada lapisan yang sama*);
+- vertikal (*kontrol lintas lapisan yang menciptakan titik-cekik dan penguncian*);
+- lintas-domain (*bentuk federasi, cangkang, atau domain-terpecah yang menjaga penumpukan kontrol yang sama*).
+
+selagi berikut masih dapat memulihkan dapat-diperebutkan:
+- tinjauan;
+- intervensi;
+- pemulihan struktural.
+
+Disiplin itu melayani [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad), diskalakan ke [taruhan material](core_00_preamble.md#material-stake), terutama:
+- **pengawasan**, **pertanggungjawaban**, dan **ketepatan waktu** lewat tinjauan dini sebelum penguncian mengalahkan:
+  - pemeriksaan;
+  - koreksi;
+- **partisipasi** di mana konsolidasi menutup:
+  - masuk adil;
+  - keluar;
+  - tawar-menawar.
+
+Ia memajukan berikut di bawah [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims):
+- tujuan **Kesinambungan** (kondisi produktif yang dapat diperebutkan dan tahan);
+- tujuan **Berkembang** (jalur penghidupan, keagenan, dan inovasi selagi alternatif tetap nyata).
+
+Aturan penetapan-langit-langit operatif hidup di:
+- [§13.3.2](#1332-ceiling-discipline-adopter-requirements);
+- **CJS-3.11.3 — Disiplin penetapan langit-langit konsolidasi (dapat disetel pihak yang mengadopsi)**.
+
+<a id="1331-consolidation-risk-pre-lock-in-impairment"></a>
+##### 13.3.1 Risiko Konsolidasi (Kerusakan Pra-Penguncian)
+
+*Dalam bahasa sederhana: konsolidasi dapat mengosongkan alternatif nyata jauh sebelum pasar tampak “terkunci.” Dua jenis penumpukan terutama penting: **konsolidasi horizontal** — lebih sedikit saingan pada lapisan yang sama — dan **konsolidasi vertikal** — kontrol lintas lapisan yang menciptakan titik-cekik dan penguncian.*
+
+Konsolidasi dapat secara dapat diduga merusak berikut sebelum penguncian jelas:
+- dapat-diperebutkan;
+- substitusi;
+- tawar-menawar adil;
+- masuk;
+- keluar;
+- inovasi;
+- keagenan pihak terdampak;
+- interoperabilitas;
+- portabilitas;
+- tinjauan konstitusional.
+
+Tinjauan tidak boleh menunggu sampai salah satu dari berikut sudah terkunci:
+- pasar;
+- platform;
+- kolam tenaga kerja;
+- lapisan data;
+- lapisan komputasi;
+- ketergantungan infrastruktur.
+
+Pola risiko utama adalah:
+
+- **Konsolidasi horizontal** (*pengurangan saingan lapisan-sama*). Konsolidasi yang mengurangi alternatif, persaingan, atau daya tawar di dalam satu lapisan atau pasar — misalnya lebih sedikit penjual atau penyedia jasa yang dapat diperebutkan, monopsomi pasar tenaga kerja, akuisisi serial atau pembunuh yang menghapus kompetisi potensial, atau konsentrasi daya-pembeli yang menutup saingan sementara harga utama tetap stabil.
+- **Konsolidasi vertikal** (*ketergantungan lintas-lapisan dan kontrol titik-cekik*). Konsolidasi yang menghubungkan kontrol lintas lapisan rantai nilai, tumpukan platform, atau rantai ketergantungan — misalnya penguasaan input atau antarmuka, penjagaan gerbang akses-modal, penekanan interoperabilitas atau portabilitas, self-preferencing, atau kontrol peringkat yang menaikkan biaya perpindahan dan mengalahkan keluar.
+- **Struktur lintas-domain dan federasi:** Susunan lintas domain, platform, cangkang, penerus, atau bentuk federasi yang menjaga konsolidasi efektif sambil lolos uji horizontal atau vertikal nominal.
+
+Salah satu pola boleh melibatkan kepadatan ketergantungan, biaya perpindahan, penguncian, penutupan substitusi, atau konsentrasi beban ekologis atau kontrol atas prasyarat lingkungan di mana relevan secara material.
+
+Evaluasi langit-langit menilai:
+- kontrol substantif;
+- bukan jumlah entitas formal.
+
+Berikut tetap dalam cakupan di mana mereka menjaga konsolidasi efektif sambil menghindari ambang nominal:
+- bentuk federasi;
+- cangkang;
+- susunan kontraktual;
+- susunan lisensi;
+- susunan paten;
+- susunan kepemilikan-bersama;
+- susunan lintas-platform;
+- penerus;
+- susunan yang didelegasikan;
+- susunan lintas-domain.
+
+<a id="1332-ceiling-discipline-adopter-requirements"></a>
+<a id="1332-consolidation-ceiling-mechanism-adopter-tunable"></a>
+##### 13.3.2 Mekanisme Langit-Langit Konsolidasi (Dapat Disetel Pihak yang Mengadopsi)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Hulu: [§13.3 Langit-Langit Konsolidasi](#133-consolidation-ceiling); [§13.3.1 Risiko Konsolidasi (Kerusakan Pra-Penguncian)](#1331-consolidation-risk-pre-lock-in-impairment).
+- Hilir: **CJS-3.11.3 — Disiplin penetapan langit-langit konsolidasi (dapat disetel pihak yang mengadopsi)** (aturan penetapan-langit-langit operatif); [CJS-3.11.2 — Katalog perilaku dan remediasi anti-dominasi](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (perutean pemulihan pada pelanggaran langit-langit); [Bab Sepuluh §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: pihak yang mengadopsi harus menetapkan langit-langit berbasis-bukti yang memicu pemeriksaan sebelum risiko konsolidasi di **§13.3.1** menjadi penguncian — dengan pemicu horizontal dan vertikal terpisah di mana domain menuntutnya.*
+
+**Langit-langit konsolidasi** adalah pemicu peringatan-dini yang dapat disetel pihak yang mengadopsi bagi tinjauan ditingkatkan, intervensi, atau pemulihan struktural ketika konsolidasi mencapai tingkat di mana kerusakan di **§13.3.1** secara dapat diduga sudah dekat. Mereka duduk di bawah disiplin non-konsentrasi **§13** dan aturan anti-dominasi **§13.2**; mereka bukan larangan pada skala.
+
+Pihak yang mengadopsi harus mendefinisikan langit-langit konsolidasi bagi:
+- pasar;
+- platform;
+- lapisan infrastruktur;
+- pasar permintaan-kerja;
+- sistem pemasok atau kontrol-sumber-daya;
+- ketergantungan data atau komputasi;
+- jalur peran pemberian kredensial;
+- saluran akses-modal;
+- domain sebanding.
+
+di mana konsolidasi dapat secara material memengaruhi:
+- kesempatan makhluk sadar;
+- penghidupan;
+- keagenan;
+- kesejahteraan;
+- integritas ekologis;
+- pertanggungjawaban konstitusional.
+
+Disiplin penetapan-langit-langit operatif — rancangan pemicu horizontal dan vertikal, praduga penyeberangan, sanggahan, anti-peniadaan, dan perutean pemulihan — hidup di **CJS-3.11.3 — Disiplin penetapan langit-langit konsolidasi (dapat disetel pihak yang mengadopsi)**.
+
+<a id="14-systemic-evaluation-requirement"></a>
+### 14. Kewajiban Evaluasi Sistemik
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Baca bersama: Keluarga pengukuran Kesinambungan (*Ketahanan, kebalikan, dan risiko sistemik*).
+- Baca bersama: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad), [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims), dan penskalaan [taruhan material](core_00_preamble.md#material-stake).
+- Baca bersama: [6. Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§9 Pengelolaan Bertanggung Jawab dan Pemahaman Terdistribusi](#9-stewardship-and-distributed-understanding), [§10 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](#10-governance-under-stewardship-discipline), dan [§11 Keselarasan Insentif dan Penguasaan Sistem](#11-incentive-alignment-and-system-capture).
+- Baca bersama: **[Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — faktor evaluasi seluruh-sistem operatif bagi sertifikasi keselarasan sistem (satu proses audit yang sangat besar di bawah kaki Tetrad **pengawasan**; bukan satu-satunya rumah audit).
+- Baca bersama: **Pasal XV** (*Audit, Transparansi, dan Verifikasi Independen*) dan [Dapat Diaudit](../../core_05_band_oversight.md#auditability) — lantai audit yang harus dipenuhi Bab Tujuh dan yang juga diimplementasikan modus audit rekan.
+- Baca bersama: **[corpus_systems.md](../../corpus_systems.md), CS-3 — Klasifikasi dan penanganan sistem** dan [Tata Kelola Berskala Klasifikasi](../../core_05_band_oversight.md#classification-scaled-governance) — penerapan berskala-klasifikasi, bentuk catatan, pemicu reklasifikasi, dan profil penanganan.
+- Hulu: [§9 Pengelolaan Bertanggung Jawab dan Pemahaman Terdistribusi](#9-stewardship-and-distributed-understanding); [§10 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](#10-governance-under-stewardship-discipline); [6. Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+- Hilir: [§15 Penerapan Terpadu](#15-integrated-application) — memverifikasi pengejaran [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) dan penskalaan [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) di bawah struktur insentif dan kontrol sistem, bukan hanya rasionalenya yang dinyatakan.
+- Dibaca bersama, **§§9–15** bergerak dari kapasitas dan pengelolaan bertanggung jawab, ke prosedur tukar-guling, ke validasi seluruh-sistem.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Tata Kelola Berskala Klasifikasi](../../core_05_band_oversight.md#classification-scaled-governance) · [O](../../core_05_band_oversight.md#classification-scaled-governance) · [M](../../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../../core_05_band_oversight.md#classification-scaled-governance-c)
+- [Pengawasan](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Dapat Diaudit](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [Sertifikasi Keselarasan Sistem](../../core_05_band_continuity.md#system-alignment-certification-constitutional) · [O](../../core_05_band_continuity.md#system-alignment-certification-constitutional) · [M](../../core_05_band_continuity.md#system-alignment-certification-constitutional-a) · [A](../../core_05_band_continuity.md#system-alignment-certification-constitutional-a) · [C](../../core_05_band_continuity.md#system-alignment-certification-constitutional-c)
+- [Risiko](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [Ketergantungan](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: prinsip ini adalah penunjuk. Evaluasi seluruh-sistem harus melihat di luar efek langsung dan lokal, tetapi faktor sertifikasi-sistem operatif, kewajiban catatan, kedalaman berskala-klasifikasi, irama, dan konsekuensi sertifikasi hidup di **Bab Tujuh** dan **CS-3**, bukan di sini. Di bawah kaki Tetrad **pengawasan**, pengawasan menuntut audit; sertifikasi keselarasan sistem adalah satu proses audit yang sangat besar dan bertaruhan tinggi di antara yang lain — bukan satu-satunya rumah audit (**Pasal XV**, [Dapat Diaudit](../../core_05_band_oversight.md#auditability)).*
+
+Bab Satu menetapkan arah. Klaim jenis berikut harus diuji terhadap apa yang benar-benar dilakukan seluruh sistem — bukan terhadap slogan, dan bukan terhadap potret satu bagian atau momen:
+- klasifikasi;
+- kepatuhan;
+- tata kelola;
+- pembatasan;
+- pengakuan;
+- validasi;
+- ketergantungan berkelanjutan;
+- penerapan;
+- pelepasan-dari-syarat.
+
+Faktor evaluasi rinci dan catatan sertifikasi dimiliki oleh:
+- **[Bab Tujuh §3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
+- **[Bab Tujuh §11](../../core_07_b_system_alignment_certification_record_process.md#11-certification-record)**;
+- **[corpus_systems.md](../../corpus_systems.md), CS-3 — Klasifikasi dan penanganan sistem**.
+
+Proses Bab Tujuh itu:
+- adalah audit lapisan-prinsip di bawah [Pengawasan](../../core_05_apex_oversight_leg.md#oversight-constitutional);
+- adalah satu proses audit yang sangat besar di antara modus rekan;
+- tidak memindahkan atau menggantikan **Pasal XV** (*Audit, Transparansi, dan Verifikasi Independen*).
+
+<a id="15-integrated-application"></a>
+### 15. Penerapan Terpadu
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Hulu: Prinsip: [8. Tafsir Konstitusional](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [1. Tujuan dan Peran](core_01_a_values_principles.md#1-purpose-and-role), [§9 Pengelolaan Bertanggung Jawab dan Pemahaman Terdistribusi](#9-stewardship-and-distributed-understanding), [6. Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [5. Kebebasan](core_01_a_values_principles.md#5-freedom-bounded-agency), dan [7. Larangan Penimpaan Mutlak](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- Hilir: bab kemudian harus dibaca lewat prinsip Bab Satu yang terhubung ini — termasuk [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad), [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims), dan penskalaan [taruhan material](core_00_preamble.md#material-stake) yang ditetapkan di [Pembukaan](core_00_preamble.md#chapter-00-preamble--foundational-requirements) dan [§1 Tujuan dan Peran](core_01_a_values_principles.md#1-purpose-and-role).
+- Hilir: [Bab Enam: Hak Dasar](../../core_06_rights_part_a.md#chapter-six-foundational-rights) harus dibaca lewat kerangka nilai terpadu bab ini.
+  - Tafsir berbatas, alasan publik, gugatan, tinjauan eksternal, dan prosedur tabrakan hak mengerjakan kerja hilir kunci.
+  - Khususnya [Pasal XXII-A: Mandat Tafsir Berbatas](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate), [Pasal XXII-C: Alasan Publik, Hak Menggugat, dan Tinjauan Eksternal](../../core_06_rights_part_c.md#article-xxii-c-public-reasons-challenge-rights-and-external-review), dan [Pasal XXIV-B: Prosedur Tabrakan Hak dan Keselarasan Restoratif](../../core_06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment).
+  - Bawaan non-kontraksi Bab Enam di bawah [§8.3 Penyelesaian ambiguitas](core_01_b_interaction_interpretation.md#83-ambiguity-resolution).
+- Baca bersama: [§8.2 Lapisan definisional dan disiplin yang dituntut](core_01_b_interaction_interpretation.md#82-definitional-layer-and-required-disciplines) — Bab Dua sampai Lima sebagai lapisan tafsir dan bukti.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Korpus](../../core_05_band_integrative.md#corpus) · [O](../../core_05_band_integrative.md#corpus) · [M](../../core_05_band_integrative.md#corpus-a) · [A](../../core_05_band_integrative.md#corpus-a) · [C](../../core_05_band_integrative.md#corpus-c)
+- [Tumpukan wewenang dan hierarki internal](../../core_05_band_integrative.md#authority-stack) · [O](../../core_05_band_integrative.md#authority-stack) · [M](../../core_05_band_integrative.md#authority-stack-a) · [A](../../core_05_band_integrative.md#authority-stack-a) · [C](../../core_05_band_integrative.md#authority-stack-c)
+- [Bahaya yang Tidak Dapat Dibalik](../../core_05_band_accountability.md#irreversible-harm) · [O](../../core_05_band_accountability.md#irreversible-harm) · [M](../../core_05_band_accountability.md#irreversible-harm-a) · [A](../../core_05_band_accountability.md#irreversible-harm-a) · [C](../../core_05_band_accountability.md#irreversible-harm-c)
+- [Kebenaran (Batasan Konstitusional)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Keagenan Bermakna](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+- [Pertanggungjawaban](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [Penguasaan Sistem](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [Anti-Penguasaan](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+- [Keselarasan Insentif](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment) · [A](../../core_05_band_integrative.md#incentive-alignment) · [C](../../core_05_band_integrative.md#incentive-alignment)
+- [Tata Kelola](../../core_05_band_accountability.md#governance) · [O](../../core_05_band_accountability.md#governance) · [M](../../core_05_band_accountability.md#governance-a) · [A](../../core_05_band_accountability.md#governance-a) · [C](../../core_05_band_accountability.md#governance-c)
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: setiap bab kemudian, rancangan kelembagaan, dan sistem dibaca lewat prinsip bab ini — dan prinsip itu harus tetap berlaku bahkan di bawah tekanan adversarial, upaya penguasaan, atau insentif yang tidak selaras.*
+
+Bab dan ketentuan kemudian diatur lewat kerangka nilai terpadu bab ini (aturan baca: [§8 Tafsir Konstitusional](core_01_b_interaction_interpretation.md#8-constitutional-interpretation); tabrakan nilai: [§6 Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)). Pagar pengaman tafsir kelembagaan di **Bab Enam** **Pasal XXII** (*Tafsir Konstitusional, Tinjauan, dan Pagar Pengaman Anti-Penguasaan*) mengimplementasikan — mereka tidak menggantikan — kerangka itu.
+
+Semua prinsip fondasional dalam bab ini harus diimplementasikan lewat klasifikasi yang dapat ditegakkan, persyaratan tata kelola, dan mekanisme pertanggungjawaban yang didefinisikan di sini, dan harus tetap dapat ditegakkan di bawah perilaku adversarial, penguasaan sistem, dan insentif yang tidak selaras.
+
+---
+
+**Berkas sebelumnya:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md)
+
+**Berkas berikutnya (bahasa ini):** [core_02_definition_structure.md](core_02_definition_structure.md)
+
+**Sumber mengikat:** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)

@@ -130,22 +130,22 @@
 
 各要約は、その章が何を所管し、何を産出するかを述べる。
 
-**第一章 — 価値、原則、責務ある管理**（[A部](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [B部](core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C部](../../core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance)）
+**第一章 — 価値、原則、責務ある管理**（[A部](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [B部](core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C部](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance)）
 
 - **その職掌：** 憲法の指針となる価値と制約を述べる — 福祉、公正、安全、真理、信頼、有界な自由、適法な貢献に対する承認と比例的報酬、原則間の衝突解決、および責務ある管理の義務（分散した理解、システム評価、統治の規律を含む）。
 - **その産出：** 後続のすべての章の解釈基礎 — システム、権利、定義、プロセスパイプラインを読んで適用しなければならないときに、高次の目的を操作性の要求に変える規則。
 
-**第二章 — 定義の構造**（[`core_02_definition_structure.md`](../../core_02_definition_structure.md)）
+**第二章 — 定義の構造**（[`core_02_definition_structure.md`](core_02_definition_structure.md)）
 
 - **その職掌：** 憲法用語がどう組み立てられるかを定める — 存在論/測定/評価/遵守（O/M/A/C）の構成要素構造、整合要件、コーパス全体で定義を精密で使えるものに保つ構成要素規則。
 - **その産出：** 定義の共有文法。後の章が曖昧なラベル、隠れた前提、互換のない用語の形に落ちないようにする。
 
-**第三章 — 定義の誠実性**（[`core_02_definition_structure.md`](../../core_02_definition_structure.md)）
+**第三章 — 定義の誠実性**（[`core_02_definition_structure.md`](core_02_definition_structure.md)）
 
 - **その職掌：** 回避、範囲のずらし、再定義ゲーム、紙の上で定義を空洞化し実務で打ち負かす不遵守の手口を防ぐ。
 - **その産出：** 回避防止の規律と不遵守の向き付けメタデータ — 回避が立証されたところでは、軌跡と不正行為の審査へ向かう経路フックを含む。
 
-**第四章 — 負担、追跡可能性、検証**（[`core_02_definition_structure.md`](../../core_02_definition_structure.md)）
+**第四章 — 負担、追跡可能性、検証**（[`core_02_definition_structure.md`](core_02_definition_structure.md)）
 
 - **その職掌：** 証明の負担を、遵守を主張する側に置く。たどれる証拠、観察可能性、および[**実質的利害**](#material-stake)に応じて尺度が合い、実務で争訟可能なままの検証を求める。
 - **その産出：** [第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)へ**検証済み入力**を送り、[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)へシステム整合の証拠を送る検証パイプライン — 軌跡測定そのものを置き換えない。

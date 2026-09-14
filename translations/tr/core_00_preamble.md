@@ -130,22 +130,22 @@ Anayasal yetkilendirme ayrıca [Etkilenen Tarafların Sistem Katılımı](../../
 
 Her özet, bölümün ne sahiplendiğini ve ne ürettiğini belirtir.
 
-**Birinci Bölüm — Değerler, ilkeler ve sorumlu yönetim** ([A Kısmı](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [B Kısmı](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C Kısmı](../../core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+**Birinci Bölüm — Değerler, ilkeler ve sorumlu yönetim** ([A Kısmı](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [B Kısmı](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C Kısmı](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
 
 - **Ne sahiplenir:** Anayasanın yol gösteren değerlerini ve kısıtlarını belirtir — esenlik, adillik, Güvenlik, Doğruluk, Güven, sınırlı özgürlük, yasal katkı için tanıma ve orantılı ödül, ilkeler arası çatışma çözümü ve dağıtılmış anlayış, sistemik değerlendirme ve yönetişim disiplini dahil sorumlu yönetim ödevleri.
 - **Ne üretir:** Sonraki her bölüm için yorumsal temel — sistemler, haklar, tanımlar ya da süreç zincirleri okunup uygulanırken üst düzey amaçları işlemsel gerekler haline getiren kurallar.
 
-**İkinci Bölüm — Tanım yapısı** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**İkinci Bölüm — Tanım yapısı** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **Ne sahiplenir:** Anayasal terimlerin nasıl kurulduğunu tanımlar — Ontolojik/Ölçüm/Değerlendirme/Uyum (O/M/A/C) bileşen yapısı, hizalama gerekleri ve tanımları corpus boyunca kesin ve kullanılabilir tutan bileşen kuralları.
 - **Ne üretir:** Tanımlar için paylaşılan bir dilbilgisi; böylece sonraki bölümler belirsiz etiketlere, gizli varsayımlara ya da bağdaşmaz terim şekillerine düşmez.
 
-**Üçüncü Bölüm — Tanım bütünlüğü** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**Üçüncü Bölüm — Tanım bütünlüğü** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **Ne sahiplenir:** Kaçınma, kapsam kaydırma, yeniden tanımlama oyunları ve kâğıt üzerinde tanımları boşaltırken pratikte onları boşa çıkaran uyumsuzluk hilelerine karşı korur.
 - **Ne üretir:** Kaçınma karşıtı disiplin ve uyumsuzluk yönlendirme üstverisi — kaçınma kanıtlandığında güzergâh ve kötü davranış incelemesine doğru yönlendirme kancaları dahil.
 
-**Dördüncü Bölüm — Yük, izlenebilirlik ve doğrulama** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**Dördüncü Bölüm — Yük, izlenebilirlik ve doğrulama** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **Ne sahiplenir:** Kanıt yükünü uyum iddia edene koyar; [**maddi pay**](#material-stake)a ölçeklenen ve pratikte itiraz edilebilir kalan izlenebilir kanıt, gözlemlenebilirlik ve doğrulama ister.
 - **Ne üretir:** [Sekizinci Bölüm](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)deki **doğrulanmış girdileri** ve [Yedinci Bölüm](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)deki sistem-hizalama kanıtını besleyen doğrulama zinciri — güzergâh ölçümünün kendisinin yerine geçmeden.

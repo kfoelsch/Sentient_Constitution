@@ -10,7 +10,7 @@
 >
 > **আগেরটি (এই লোকেল):** [core_01_a_values_principles.md](core_01_a_values_principles.md) (অধ্যায় এক, অংশ ক — §১–৫)
 >
-> **পরেরটি (এখনও ইংরেজিতে):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md) (অধ্যায় এক, অংশ গ — §৯–১৪, দায়িত্বশীল ব্যবস্থাপনা ও শাসন)।
+> **পরেরটি (এই ভাষায়):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (অধ্যায় এক, অংশ গ — §৯–১৪, দায়িত্বশীল ব্যবস্থাপনা ও শাসন)।
 > **পড়ার আর্ক:** §6 প্রক্রিয়া দ্বন্দ্ব সমাধান → §7 নিরঙ্কুশ ওভাররাইড নিষেধ → §8 সাংবিধানিক ব্যাখ্যা।
 
 </details>
@@ -56,7 +56,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — পদ্ধতি, প্রকাশ, সংঘর্ষ সামলানো ও প্রতিকারে অংশগ্রহণ, তত্ত্বাবধান, জবাবদিহি ও সময়ানুবর্তিতা; [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং।
-- ঊর্ধ্ব: নীতি: [2. ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. বিশ্বাস](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. স্বাধীনতা (সীমিত কর্তৃত্ব)](core_01_a_values_principles.md#5-freedom-bounded-agency), এবং [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)।
+- ঊর্ধ্ব: নীতি: [2. ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. বিশ্বাস](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. স্বাধীনতা (সীমিত কর্তৃত্ব)](core_01_a_values_principles.md#5-freedom-bounded-agency), এবং [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)।
 - অধঃ: [6.2.1 জ্ঞানতাত্ত্বিক সততা সংরক্ষণ](#621-preservation-of-epistemic-integrity), [§6.1 সিদ্ধান্ত-নথি শৃঙ্খলা](#615-rights-collision-decision-test), [ডিফল্ট অন্তর্বর্তী ভঙ্গি](#default-interim-posture), এবং [7. নিরঙ্কুশ ওভাররাইড নিষেধ](#7-prohibition-on-absolute-override)।
 - অধঃ: [অধ্যায় ছয়: ভিত্তিগত অধিকার](../../core_06_rights_part_a.md#chapter-six-foundational-rights) জুড়ে আন্তঃঅনুচ্ছেদ দ্বন্দ্ব শাসন করে।
   - এটি [অনুচ্ছেদ XXII: সাংবিধানিক ব্যাখ্যা, পর্যালোচনা ও দখল-নিরোধ সুরক্ষা](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) এবং [অনুচ্ছেদ XXIII: দ্বন্দ্ব সমাধান, উত্তরণ ও জরুরি আনুপাতিকতা](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality)-এর সঙ্গে পড়ুন।
@@ -198,7 +198,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- সঙ্গে পড়ুন: [§10.1 অনুমোদিত কাঠামো হিসেবে শাসন](../../core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure)।
+- সঙ্গে পড়ুন: [§10.1 অনুমোদিত কাঠামো হিসেবে শাসন](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure)।
 
 </details>
 
@@ -268,7 +268,7 @@
 - নির্দিষ্ট অধিকারের অস্থায়ী সীমাবদ্ধতা অনুমোদিত শুধু যখন এটি [কম-সীমাবদ্ধ, সময়-সীমিত ও পর্যালোচনাযোগ্য বন্ধন নীতি](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) এবং [অনুচ্ছেদ XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*জরুরি ব্যবস্থা ও অব্যাহতকরণ ভার*)-এর জরুরি বিধান পূরণ করে — অর্থাৎ যেকোনো সীমাবদ্ধতা ন্যায্য, ন্যূনতম, নথিভুক্ত, সময়-সীমিত, এবং স্বাধীনভাবে পর্যালোচনাযোগ্য হতে হয়। নির্দিষ্ট অনুচ্ছেদ আরও মজবুত সুরক্ষা যোগ করতে পারে, কিন্তু তারা এই নীতিকে সংকুচিত করতে পারে না বা সুবিধা, দক্ষতা, শ্রেণিবিন্যাস, জরুরি, উত্তরণ, প্রস্থিতি, সংশোধন, চুক্তি, বা বাস্তবায়ন লেবেল ব্যবহার করে এটিকে বাইপাস করতে পারে না।
 
 <a id="anti-degrading-process-principle"></a>
-**অবনতি-নিরোধ প্রক্রিয়া নীতি।** অংশ গ-তে বলা [অবনতি-নিরোধ প্রক্রিয়া নীতি (§9.6)](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) এই বাণিজ্য স্তূপে নিরঙ্কুশ তল হিসেবে কাজ করে।
+**অবনতি-নিরোধ প্রক্রিয়া নীতি।** অংশ গ-তে বলা [অবনতি-নিরোধ প্রক্রিয়া নীতি (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) এই বাণিজ্য স্তূপে নিরঙ্কুশ তল হিসেবে কাজ করে।
 - প্রয়োজনীয়তা, ক্ষতি ন্যূনতমকরণ ও আনুপাতিকতা পার করা কোনো সীমাবদ্ধতা, প্রতিকার, বা প্রক্রিয়া অবনতি, অপমান, দৃশ্যকাণ্ড, প্রতিশোধ, বৈষম্যমূলক ভার চাপানো, বা সুবিধা-চালিত অধিকার ক্ষয় হিসেবে নকশা, ফ্রেম, পরিচালিত, বা চলতে দেওয়া চলে না।
 - অবনত প্রক্রিয়া দিয়ে দেওয়া সঠিক সারবস্তুগত ফলও অ-অনুপালন থাকে।
 - যেখানে নিষিদ্ধ চরিত্র নিজেই উদ্দেশ্য হিসেবে কষ্ট বা অনাবশ্যক / অবনত আরোপ — নিজের জন্য অপমান সহ — [নিষ্ঠুরতা](../../core_05_band_accountability.md#cruelty)-এর সঙ্গে পড়ুন।
@@ -528,9 +528,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: [§6.1 মূল বাণিজ্য নীতি](#61-core-tradeoff-principles) (বাণিজ্য স্তূপ পূরণের পর প্রযোজ্য); [§9.1 দায়িত্বশীল ব্যবস্থাপনা](../../core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 সাংবিধানিক দক্ষতা](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)।
+- ঊর্ধ্ব: [§6.1 মূল বাণিজ্য নীতি](#61-core-tradeoff-principles) (বাণিজ্য স্তূপ পূরণের পর প্রযোজ্য); [§9.1 দায়িত্বশীল ব্যবস্থাপনা](core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 সাংবিধানিক দক্ষতা](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)।
 - সঙ্গে পড়ুন: সাংবিধানিক কর্মক্ষমতা পরিমাপ পরিবার (*সাংবিধানিক পরিমাপ হিসেবে এড়ানো যায় এমন ভার*); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — **অংশগ্রহণ** পা (সাংবিধানিকভাবে প্রয়োজনীয় নয় এমন ভার [অর্থপূর্ণ কর্তৃত্ব](../../core_05_band_participation.md#meaningful-agency) সংকুচিত করে); **সময়ানুবর্তিতা** পা (এড়ানো যায় এমন দেরি এড়ানো যায় এমন ভার)।
-- অধঃ: [§11.1.3 দায়িত্বশীল ব্যবস্থাপনা ও পরিচালক প্রয়োগ](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (প্রণোদনা অপ্রয়োজনীয় ভার সৃষ্টিকে পুরস্কার দিতে পারে না); [অনুচ্ছেদ XX: বোধগম্যতা ও জটিলতার দায়িত্বশীল ব্যবস্থাপনা](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)।
+- অধঃ: [§11.1.3 দায়িত্বশীল ব্যবস্থাপনা ও পরিচালক প্রয়োগ](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (প্রণোদনা অপ্রয়োজনীয় ভার সৃষ্টিকে পুরস্কার দিতে পারে না); [অনুচ্ছেদ XX: বোধগম্যতা ও জটিলতার দায়িত্বশীল ব্যবস্থাপনা](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)।
 
 </details>
 
@@ -564,7 +564,7 @@
 
 কোনো দেওয়া ভার সাংবিধানিকভাবে প্রয়োজনীয় এই দাবি **অধ্যায় চার** প্রমাণ ও খুঁজে পাওয়া প্রত্যাশা পূরণ করতে হয়। সুবিধা, প্রাতিষ্ঠানিক জড়তা, ঐতিহ্য, বা পছন্দ একা সেই ভার ধরে রাখার জন্য যথেষ্ট নয় যার সাংবিধানিক ফলের সঙ্গে যাচাইযোগ্য যোগ নেই, [§6.1 সিদ্ধান্ত-নথি শৃঙ্খলা](#615-rights-collision-decision-test)-এর সঙ্গে সামঞ্জস্যপূর্ণ।
 
-যেখানে প্রণোদনা কাঠামো দায়িত্বশীল ব্যবস্থাপক বা পরিচালকের উপর কাজ করে, এই ধারা [§11.1.3 দায়িত্বশীল ব্যবস্থাপনা ও পরিচালক প্রয়োগ](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) শক্তিশালী করে। দায়িত্বশীল ব্যবস্থাপনা প্রণোদনা অপ্রয়োজনীয় ভার সৃষ্টিকে পুরস্কার দিতে পারে না, কাঁচা প্রবাহকে পুরস্কার দেওয়ার চেয়ে বেশি নয়।
+যেখানে প্রণোদনা কাঠামো দায়িত্বশীল ব্যবস্থাপক বা পরিচালকের উপর কাজ করে, এই ধারা [§11.1.3 দায়িত্বশীল ব্যবস্থাপনা ও পরিচালক প্রয়োগ](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) শক্তিশালী করে। দায়িত্বশীল ব্যবস্থাপনা প্রণোদনা অপ্রয়োজনীয় ভার সৃষ্টিকে পুরস্কার দিতে পারে না, কাঁচা প্রবাহকে পুরস্কার দেওয়ার চেয়ে বেশি নয়।
 
 <a id="7-prohibition-on-absolute-override"></a>
 ### 7. নিরঙ্কুশ ওভাররাইড নিষেধ
@@ -573,8 +573,8 @@
 
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — কোনো একক মূল্য আনা যায় না **অংশগ্রহণ**, **তত্ত্বাবধান**, **জবাবদিহি**, বা **সময়ানুবর্তিতা**-কে [বস্তুগত বাজি](core_00_preamble.md#material-stake) প্রত্যাশার নিচে খালি করতে।
 - সঙ্গে পড়ুন: [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) — **সমুন্নতি** বা **সাতত্য** কোনোটিকেই অন্যটির, নিরাপত্তা ও সত্যের, বা চতুষ্ক শৃঙ্খলার উপর ট্রাম্প হিসেবে আনা যায় না; নিরঙ্কুশ ওভাররাইড নিষেধ দুই উদ্দেশ্য একসঙ্গে অনুসরণ রক্ষা করে।
-- ঊর্ধ্ব: নীতি: [2. ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. বিশ্বাস](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. প্রক্রিয়া দ্বন্দ্ব সমাধান](#6-process-conflict-resolution), [5. স্বাধীনতা](core_01_a_values_principles.md#5-freedom-bounded-agency), এবং [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims)।
-- অধঃ: [15. সমন্বিত প্রয়োগ](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application)।
+- ঊর্ধ্ব: নীতি: [2. ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. বিশ্বাস](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. প্রক্রিয়া দ্বন্দ্ব সমাধান](#6-process-conflict-resolution), [5. স্বাধীনতা](core_01_a_values_principles.md#5-freedom-bounded-agency), এবং [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims)।
+- অধঃ: [15. সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#15-integrated-application)।
 - অধঃ: এক-মূল্য ওভাররাইড যুক্তির বিরুদ্ধে অধিকার-পৃষ্ঠ রক্ষা করে যা সমতা, চ্যালেঞ্জ অধিকার, স্বচ্ছতা, চ্যালেঞ্জ-যোগ্যতা, বা সীমিত ব্যাখ্যা গুটিয়ে ফেলবে।
   - বিশেষত [অনুচ্ছেদ V: সমান মৌলিক অধিকার](../../core_06_rights_part_b.md#article-v-equal-basic-rights), [অনুচ্ছেদ XII-B: চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [অনুচ্ছেদ XIV-B: স্বচ্ছতা, নিরীক্ষাযোগ্যতা ও চ্যালেঞ্জ-যোগ্যতা](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability), [অনুচ্ছেদ XVIII-B: চ্যালেঞ্জ-যোগ্যতা ও আনুপাতিক সীমাবদ্ধতার সীমা](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits), এবং [অনুচ্ছেদ XXII-A: সীমিত ব্যাখ্যামূলক ম্যান্ডেট](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate)।
 
@@ -607,8 +607,8 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [প্রস্তাবনা — সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad); [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং অধ্যায়জুড়ে ধারা-সন্ধানের মাধ্যমে প্রযোজ্য।
-- অধঃ: [§8.1 সাংবিধানিক বাইপাস-নিষেধ নীতি](#81-constitutional-no-bypass-principle), [§8.2 সংজ্ঞা স্তর ও প্রয়োজনীয় শৃঙ্খলা](#82-definitional-layer-and-required-disciplines), [§8.3 অস্পষ্টতা সমাধান](#83-ambiguity-resolution), [§8.4 সাংবিধানিক অর্থ দ্বন্দ্ব সমাধান](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing) থেকে [15. সমন্বিত প্রয়োগ](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application); মূল্য-সংঘর্ষ পদ্ধতির জন্য [6. প্রক্রিয়া দ্বন্দ্ব সমাধান](#6-process-conflict-resolution); [অধ্যায় ছয়: ভিত্তিগত অধিকার](../../core_06_rights_part_a.md#chapter-six-foundational-rights) অ-সংকোচন ডিফল্ট।
-- সঙ্গে পড়ুন: [অধ্যায় দুই থেকে চার](../../core_02_definition_structure.md) এবং [অধ্যায় পাঁচ](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — এই অধ্যায়ের প্রতি পদের ব্যাখ্যামূলক ও প্রমাণ স্তর।
+- অধঃ: [§8.1 সাংবিধানিক বাইপাস-নিষেধ নীতি](#81-constitutional-no-bypass-principle), [§8.2 সংজ্ঞা স্তর ও প্রয়োজনীয় শৃঙ্খলা](#82-definitional-layer-and-required-disciplines), [§8.3 অস্পষ্টতা সমাধান](#83-ambiguity-resolution), [§8.4 সাংবিধানিক অর্থ দ্বন্দ্ব সমাধান](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing) থেকে [15. সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#15-integrated-application); মূল্য-সংঘর্ষ পদ্ধতির জন্য [6. প্রক্রিয়া দ্বন্দ্ব সমাধান](#6-process-conflict-resolution); [অধ্যায় ছয়: ভিত্তিগত অধিকার](../../core_06_rights_part_a.md#chapter-six-foundational-rights) অ-সংকোচন ডিফল্ট।
+- সঙ্গে পড়ুন: [অধ্যায় দুই থেকে চার](core_02_definition_structure.md) এবং [অধ্যায় পাঁচ](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — এই অধ্যায়ের প্রতি পদের ব্যাখ্যামূলক ও প্রমাণ স্তর।
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) এবং [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) — সমন্বিত-মূল্য কাঠামোর ব্যাখ্যামূলক পটভূমি; বস্তুগতভাবে প্রাসঙ্গিক যেখানে [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং।
 - সঙ্গে পড়ুন: [কর্তৃত্ব স্তূপ ও অভ্যন্তরীণ ক্রম](../../core_05_band_integrative.md#authority-stack) (*উৎস-স্তর অবস্থা*); [অধ্যায় ষোল](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*হেফাজত, সংস্করণ, গ্রহণ ফ্রেমিং* — দ্বিতীয় দ্বন্দ্ব-ক্রম ঘর নয়); [অধ্যায় তেরো](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) এবং [অধ্যায় চোদ্দ](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*§8.4-এর অধীনে অ-পশ্চাদগমন ও গ্রহণকারী ক্রম গেট*)।
 - সঙ্গে পড়ুন: প্রাতিষ্ঠানিক ব্যাখ্যা সুরক্ষার জন্য [অনুচ্ছেদ XXII: সাংবিধানিক ব্যাখ্যা, পর্যালোচনা ও দখল-নিরোধ সুরক্ষা](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (এই ধারার স্থলাভিষিক্ত নয়)।
@@ -831,6 +831,6 @@
 
 **আগের ফাইল:** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 
-**পরের ফাইল (এখনও ইংরেজিতে):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)
+**পরের ফাইল (এই ভাষায়):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
 **বাধ্যতামূলক মূল:** [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md)

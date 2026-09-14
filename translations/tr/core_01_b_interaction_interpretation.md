@@ -10,7 +10,7 @@
 >
 > **Önceki (bu dil):** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 >
-> **Sonraki (hâlâ İngilizce):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md) (Birinci Bölüm, C Kısmı — §§9–14, sorumlu yönetim ve yönetişim).
+> **Sonraki (bu dilde):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (Birinci Bölüm, C Kısmı — §§9–14, sorumlu yönetim ve yönetişim).
 > **Okuma yayı:** §6 süreç çatışması çözümü → §7 mutlak geçersiz kılma yasağı → §8 anayasal yorum.
 
 </details>
@@ -56,7 +56,7 @@
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Birlikte oku: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — usulde, açıklamada, çarpışma ele almasında ve onarımda katılım, gözetim, hesap verebilirlik ve zamanındalık; [maddi pay](core_00_preamble.md#material-stake) ölçeklemesi.
-- Yukarı: İlkeler: [2. Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Güven](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. Özgürlük (Sınırlı eylem yetisi)](core_01_a_values_principles.md#5-freedom-bounded-agency) ve [§9 Sorumlu yönetim ve dağıtılmış anlayış](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
+- Yukarı: İlkeler: [2. Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Güven](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. Özgürlük (Sınırlı eylem yetisi)](core_01_a_values_principles.md#5-freedom-bounded-agency) ve [§9 Sorumlu yönetim ve dağıtılmış anlayış](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
 - Aşağı: [6.2.1 Epistemik bütünlüğün korunması](#621-preservation-of-epistemic-integrity), [§6.1 karar-kaydı disiplini](#615-rights-collision-decision-test), [varsayılan ara duruş](#default-interim-posture) ve [7. Mutlak geçersiz kılma yasağı](#7-prohibition-on-absolute-override).
 - Aşağı: [Altıncı Bölüm: Temel haklar](../../core_06_rights_part_a.md#chapter-six-foundational-rights) boyunca maddeler arası çatışmaları yönetir.
   - Bunu [Madde XXII: Anayasal yorum, inceleme ve ele geçirme karşıtı korumalar](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) ve [Madde XXIII: Çatışma çözümü, yükseltme ve acil durum orantılılığı](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) ile okuyun.
@@ -198,7 +198,7 @@ Zararın en aza indirilmesi o tabanları zaten geçen seçenekler arasından se�
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Birlikte oku: [§10.1 Yetkilendirilmiş yapı olarak yönetişim](../../core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
+- Birlikte oku: [§10.1 Yetkilendirilmiş yapı olarak yönetişim](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
 
 </details>
 
@@ -268,7 +268,7 @@ Anayasal **değerler** üzerindeki sınırlamalar — [§6](#6-process-conflict-
 - Belirli hakların geçici kısıtlanması yalnızca [En az kısıtlayıcı, zaman-sınırlı ve incelenebilir kısıt ilkesi](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)ni ve [Madde XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Acil durum önlemleri ve sürdürme yükü*) acil durum hükümlerini karşıladığında izinlidir — yani herhangi bir kısıtlama haklı, asgari, belgelenmiş, zaman-sınırlı ve bağımsız incelenebilir olmalıdır. Belirli maddeler daha güçlü korumalar ekleyebilir, ama bu ilkeyi daraltamaz ya da onu atlatmak için elverişlilik, verimlilik, sınıflama, acil durum, geçiş, güzergâh, değişiklik, sözleşme ya da uygulama etiketlerini kullanamaz.
 
 <a id="anti-degrading-process-principle"></a>
-**Aşağılayıcı-süreç karşıtı ilke.** C Kısmında belirtilen [Aşağılayıcı-süreç karşıtı ilke (§9.6)](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) bu ödün yığınında mutlak bir taban olarak işler.
+**Aşağılayıcı-süreç karşıtı ilke.** C Kısmında belirtilen [Aşağılayıcı-süreç karşıtı ilke (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) bu ödün yığınında mutlak bir taban olarak işler.
 - Gereklilik, zararın en aza indirilmesi ve orantılılıktan sağ çıkan hiçbir kısıtlama, çare ya da süreç bozulma, aşağılama, gösteri, misilleme, ayrımcı yükleme ya da elverişlilik güdümlü hak aşınması olarak tasarlanamaz, çerçevelenemez, yürütülemez ya da öyle işleyemez.
 - Aşağılayıcı süreç yoluyla teslim edilen doğru maddi bir sonuç uyumsuz kalır.
 - Yasak karakterin kendi başına amaç olarak acı ya da gereksiz / aşağılayıcı infaz — kendi uğruna aşağılama dahil — olduğu yerde [Zulüm](../../core_05_band_accountability.md#cruelty) ile okuyun.
@@ -528,9 +528,9 @@ Düzeltme **Dördüncü Bölüm** izlenebilirliğini ve **Beşinci Bölüm** vek
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: [§6.1 Çekirdek ödün ilkeleri](#61-core-tradeoff-principles) (ödün yığını karşılandıktan sonra uygulanır); [§9.1 Sorumlu yönetim](../../core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 Anayasal verimlilik](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
+- Yukarı: [§6.1 Çekirdek ödün ilkeleri](#61-core-tradeoff-principles) (ödün yığını karşılandıktan sonra uygulanır); [§9.1 Sorumlu yönetim](core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 Anayasal verimlilik](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
 - Birlikte oku: Anayasal Performans ölçüm ailesi (*anayasal ölçüm olarak Önlenebilir Yük*); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **katılım** bacağı (anayasal olarak gerekmeyen yük [Anlamlı eylem yetisi](../../core_05_band_participation.md#meaningful-agency)ni daraltır); **zamanındalık** bacağı (önlenebilir gecikme önlenebilir yüktür).
-- Aşağı: [§11.1.3 Sorumlu yönetim ve işletici uygulaması](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (teşvikler gereksiz yük yaratmayı ödüllendirmemelidir); [Madde XX: Anlaşılabilirlik ve karmaşıklığın sorumlu yönetimi](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- Aşağı: [§11.1.3 Sorumlu yönetim ve işletici uygulaması](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (teşvikler gereksiz yük yaratmayı ödüllendirmemelidir); [Madde XX: Anlaşılabilirlik ve karmaşıklığın sorumlu yönetimi](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -564,7 +564,7 @@ Bu bölüm:
 
 Belirli bir yükün anayasal olarak gerekli olduğu iddiaları **Dördüncü Bölüm** kanıtsal ve izlenebilirlik gereklerini karşılamalıdır. Elverişlilik, kurumsal atalet, gelenek ya da tercih tek başına, [§6.1 karar-kaydı disiplini](#615-rights-collision-decision-test) ile tutarlı, anayasal bir sonuca denetlenebilir bağlantısı olmayan bir yükü sürdürmek için yeterli değildir.
 
-Teşvik yapıları sorumlu yöneticiler ya da işleticiler üzerinde eyleyorsa, bu bölüm [§11.1.3 Sorumlu yönetim ve işletici uygulaması](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)nı pekiştirir. Sorumlu yönetim teşvikleri ham çıktıyı ödüllendiremeyeceği kadar gereksiz yük yaratmayı da ödüllendirmemelidir.
+Teşvik yapıları sorumlu yöneticiler ya da işleticiler üzerinde eyleyorsa, bu bölüm [§11.1.3 Sorumlu yönetim ve işletici uygulaması](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)nı pekiştirir. Sorumlu yönetim teşvikleri ham çıktıyı ödüllendiremeyeceği kadar gereksiz yük yaratmayı da ödüllendirmemelidir.
 
 <a id="7-prohibition-on-absolute-override"></a>
 ### 7. Mutlak geçersiz kılma yasağı
@@ -573,8 +573,8 @@ Teşvik yapıları sorumlu yöneticiler ya da işleticiler üzerinde eyleyorsa, 
 
 - Birlikte oku: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — hiçbir tek değer **katılım**, **gözetim**, **hesap verebilirlik** ya da **zamanındalık**ı [maddi pay](core_00_preamble.md#material-stake) gereklerinin altına boşaltmak için çağrılamaz.
 - Birlikte oku: [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) — ne **Gelişim** ne **Süreklilik** diğeri, Güvenlik ve Doğruluk ya da dörtlü disiplini üzerinde koz olarak çağrılamaz; mutlak geçersiz kılma yasağı her iki amacın birlikte izlenmesini korur.
-- Yukarı: İlkeler: [2. Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Güven](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 Sorumlu yönetim ve dağıtılmış anlayış](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. Süreç çatışması çözümü](#6-process-conflict-resolution), [5. Özgürlük](core_01_a_values_principles.md#5-freedom-bounded-agency) ve [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims).
-- Aşağı: [15. Bütünleşik uygulama](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application).
+- Yukarı: İlkeler: [2. Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Güven](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 Sorumlu yönetim ve dağıtılmış anlayış](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. Süreç çatışması çözümü](#6-process-conflict-resolution), [5. Özgürlük](core_01_a_values_principles.md#5-freedom-bounded-agency) ve [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims).
+- Aşağı: [15. Bütünleşik uygulama](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 - Aşağı: Eşitliği, itiraz haklarını, şeffaflığı, itiraz edilebilirliği ya da sınırlı yorumu çökertecek tek-değer geçersiz kılma mantığına karşı hak yüzeyini korur.
   - Özellikle [Madde V: Eşit temel haklar](../../core_06_rights_part_b.md#article-v-equal-basic-rights), [Madde XII-B: İtiraz, inceleme ve onarım hakkı](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [Madde XIV-B: Şeffaflık, denetlenebilirlik ve itiraz edilebilirlik](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability), [Madde XVIII-B: İtiraz edilebilirlik ve orantılı kısıtlama sınırları](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits) ve [Madde XXII-A: Sınırlı yorum yetkisi](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate).
 
@@ -607,8 +607,8 @@ Bu bölümde tanımlanan hiçbir değer, diğerlerini geçersiz kılmak için ev
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [Önsöz — Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [maddi pay](core_00_preamble.md#material-stake) ölçeklemesi bölüm izleri aracılığıyla bölüm genelinde uygulanır.
-- Aşağı: [§8.1 Anayasal atlama-yok ilkesi](#81-constitutional-no-bypass-principle), [§8.2 Tanımsal katman ve gereken disiplinler](#82-definitional-layer-and-required-disciplines), [§8.3 Belirsizlik çözümü](#83-ambiguity-resolution), [§8.4 Anayasal anlam çatışması çözümü](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing)ten [15. Bütünleşik uygulama](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application)ya; değer-çarpışması usulü için [6. Süreç çatışması çözümü](#6-process-conflict-resolution); [Altıncı Bölüm: Temel haklar](../../core_06_rights_part_a.md#chapter-six-foundational-rights) daralmama varsayılanı.
-- Birlikte oku: [İkinci Bölümden Dördüncü Bölüme](../../core_02_definition_structure.md) ve [Beşinci Bölüm](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — bu bölümdeki her terim için yorumsal ve kanıtsal katman.
+- Aşağı: [§8.1 Anayasal atlama-yok ilkesi](#81-constitutional-no-bypass-principle), [§8.2 Tanımsal katman ve gereken disiplinler](#82-definitional-layer-and-required-disciplines), [§8.3 Belirsizlik çözümü](#83-ambiguity-resolution), [§8.4 Anayasal anlam çatışması çözümü](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing)ten [15. Bütünleşik uygulama](core_01_c_stewardship_capacity_principles.md#15-integrated-application)ya; değer-çarpışması usulü için [6. Süreç çatışması çözümü](#6-process-conflict-resolution); [Altıncı Bölüm: Temel haklar](../../core_06_rights_part_a.md#chapter-six-foundational-rights) daralmama varsayılanı.
+- Birlikte oku: [İkinci Bölümden Dördüncü Bölüme](core_02_definition_structure.md) ve [Beşinci Bölüm](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — bu bölümdeki her terim için yorumsal ve kanıtsal katman.
 - Birlikte oku: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) ve [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) — bütünleşik-değer çerçevesi için yorumsal arka plan; maddi olarak ilgili olduğunda [maddi pay](core_00_preamble.md#material-stake) ölçeklemesi.
 - Birlikte oku: [Yetki yığını ve iç hiyerarşi](../../core_05_band_integrative.md#authority-stack) (*kaynak-katmanı statüsü*); [On Altıncı Bölüm](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*emanet, baskılar, benimseme çerçevesi* — ikinci bir çatışma-düzeni evi değil); [On Üçüncü Bölüm](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) ve [On Dördüncü Bölüm](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*§8.4 altında gerilememe ve benimseyen hiyerarşi kapıları*).
 - Birlikte oku: kurumsal yorum korumaları için [Madde XXII: Anayasal yorum, inceleme ve ele geçirme karşıtı korumalar](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (bu bölümün yerine geçmez).
@@ -831,6 +831,6 @@ Sessiz ya da açık uçlu «geçici» daraltma sayılmaz.
 
 **Önceki dosya:** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 
-**Sonraki dosya (hâlâ İngilizce):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)
+**Sonraki dosya (bu dilde):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
 **Bağlayıcı asıl:** [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md)

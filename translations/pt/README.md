@@ -26,6 +26,8 @@
 | [core_00_preamble.md](core_00_preamble.md) | [core_00_preamble.md](../../core_00_preamble.md) |
 | [core_01_a_values_principles.md](core_01_a_values_principles.md) | [core_01_a_values_principles.md](../../core_01_a_values_principles.md) |
 | [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) | [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md) |
+| [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) | [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md) |
+| [core_02_definition_structure.md](core_02_definition_structure.md) | [core_02_definition_structure.md](../../core_02_definition_structure.md) |
 
 Os links do piloto apontam para arquivos em inglês ainda sem tradução. As âncoras HTML (`id`) são copiadas do original para comparar trecho a trecho.
 

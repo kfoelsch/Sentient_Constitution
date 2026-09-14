@@ -12,7 +12,7 @@
 >
 > **Предыдущий (этот язык):** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Глава первая, Часть B — §§6–8, взаимодействие, пределы отмены и конституционное толкование).
 >
-> **Следующий (ещё на английском):** [core_02_definition_structure.md](../../core_02_definition_structure.md) (Глава вторая — структура определений).
+> **Следующий (на этом языке):** [core_02_definition_structure.md](core_02_definition_structure.md) (Глава вторая — структура определений).
 > **Дуга чтения:** §9 ответственное управление → §10 управление → §11 согласование стимулов и захват → §12 способность → §13 рыночная структура → §14 системная оценка → **§15 интегрированное применение** (капитель главы).
 
 </details>
@@ -671,7 +671,7 @@
 **Отвечаемость, масштабированная к власти.** Большая уполномоченная власть, роль с последствиями или институциональное влияние повышает — и не должна понижать — конституционные обязанности [Подотчётности](../../core_05_apex_accountability_leg.md#accountability) и [Надзора](../../core_05_apex_oversight_leg.md#oversight-constitutional) под [Конституционной тетрадой](core_00_preamble.md#constitutional-tetrad), масштабированные с [материальной ставкой](core_00_preamble.md#material-stake) и читаемые вместе с [Необходимостью](../../core_05_band_accountability.md#necessity) и [Соразмерностью](../../core_05_band_accountability.md#proportionality):
 
 - должность, дефицит экспертизы, кадровая нужда или институциональная самозащита не должны размывать отвечаемость перед этой Конституцией;
-- **члены конституционных форумов и панелей**, осуществляющие толковательную или адъюдикативную власть, особенно подлежат этой дисциплине;
+- **члены конституционных форумов и панелей**, осуществляющие толковательную власть или власть вынесения решений, особенно подлежат этой дисциплине;
 - оперативные полы раскрытия, отвода, антизахвата и независимого пересмотра живут в [Статье XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Конституционное толкование, пересмотр и гарантии против захвата*) и [Главе одиннадцатой](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction), не здесь.
 
 **Необходимо, не достаточно.** Управление должно уступать **Ответственному управлению** ([§9](#9-stewardship-and-distributed-understanding)), когда любое из следующего подрывало бы длительное конституционное согласование, [**Преемственность**](core_00_preamble.md#continuity), [**Расцвет**](core_00_preamble.md#flourishing) или целостность Пола прав:
@@ -1322,9 +1322,730 @@
   - законно передать их.
 - **Если только:** менее вредные альтернативы демонстративно неосуществимы под пересмотром [Необходимости](../../core_05_band_accountability.md#necessity) и [Соразмерности](../../core_05_band_accountability.md#proportionality).
 
-<!--PART7-->
+<a id="12-shared-system-capacity"></a>
+### 12. Способность общих систем
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
+- Читать вместе с: [Две конституционные цели](core_00_preamble.md#two-constitutional-aims) — цель **Преемственности** (экологическая целостность, межпоколенческая ответственность и длительная способность общих систем).
+- Исход: Принципы: [Преамбула §1 Модель](core_00_preamble.md#the-model); [Две конституционные цели](core_00_preamble.md#two-constitutional-aims) — развитие цели **Преемственности**; [2. Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [4. Доверие](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity) и [§12 Способность общих систем](#12-shared-system-capacity).
+- Назначение: [§6.3 Минимизация избежимой нагрузки](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [10. Управление под дисциплиной ответственного управления](#10-governance-under-stewardship-discipline) и [§11.1.3 Применение к ответственному управлению и операторам](#1113-stewardship-and-operator-application).
+- Назначение: **CJS-3.11.1 — Дисциплина задания порога концентрации (настраиваемая принявшим)** (оперативные правила задания порога).
+- Назначение: Формирует поверхность прав для экологических предпосылок, распределения ресурсов, образовательной и развивающей способности, устойчивости жизненного цикла, интероперабельности, понятности и адаптивного ответа; особенно [Статья I-A: Средовые предпосылки и экологическая целостность](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [Статья III: Выживание и равный образовательный доступ](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access), [Статья IV: Распределение ресурсов, зависимости и финансирование экосистем](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding), [Статья IX: Самоопределение и агентность](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [Статья XVI: Жизненный цикл системы, среды и обратимость](../../core_06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility), [Статья XIX: Интероперабельность, переносимость, передвижение, убежище и целостность выхода](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [Статья XX: Понятность и ответственное управление сложностью](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) и [Статья XXI: Анализ корневых причин и адаптивный ответ](../../core_06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response).
+- Подразделы (порядок чтения): [§12.1 Производительная способность (инструментальное благо)](#121-productive-capacity-instrumental-good) · [§12.1.1 Сохранять, расширять и что не считается](#1211-preserve-expand-and-what-does-not-count) · [§12.2 Конституционная эффективность](#122-constitutional-efficiency).
 
+</details>
 
+<details>
+<summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
 
+- [Способность общих систем](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [O](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [M](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#shared-system-capacity-constitutional-c)
+- [Производительная способность](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [Конституционная эффективность](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
+- [Благополучие](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
+- [Достоинство и равный моральный статус](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
+- [Значимая агентность](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+- [Осуществимость](../../core_05_band_accountability.md#feasibility) · [O](../../core_05_band_accountability.md#feasibility) · [M](../../core_05_band_accountability.md#feasibility-a) · [A](../../core_05_band_accountability.md#feasibility-a) · [C](../../core_05_band_accountability.md#feasibility-c)
+- [Необходимость](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [Соразмерность](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [Избежимая нагрузка](../../core_05_band_continuity.md#avoidable-burden) · [O](../../core_05_band_continuity.md#avoidable-burden) · [M](../../core_05_band_continuity.md#avoidable-burden-a) · [A](../../core_05_band_continuity.md#avoidable-burden-a) · [C](../../core_05_band_continuity.md#avoidable-burden-c)
+- [Расхождение заместительных показателей](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [Экологическая целостность](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [O](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [M](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05_band_continuity.md#ecological-integrity-constitutional-c)
+- [Средовые предпосылки](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](../../core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+- [Межпоколенческая ответственность](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
 
+</details>
+
+<br>
+
+*Простыми словами: когда общие системы ведутся хорошо, сентенты должны уметь делать полезную работу, улучшать жизнь со временем и отталкиваться, когда что-то не так — без того, чтобы всё запиралось несколькими могущественными акторами. Эта общая способность — **Способность общих систем**. **[§12.1 Производительная способность (инструментальное благо)](#121-productive-capacity-instrumental-good)** покрывает, могут ли сентенты фактически участвовать и получать реальные результаты. Что должно сохраняться и что не считается — **[§12.1.1 Сохранять, расширять и что не считается](#1211-preserve-expand-and-what-does-not-count)**. **[§12.2 Конституционная эффективность](#122-constitutional-efficiency)** покрывает, приходят ли эти результаты без растраты времени, денег и внимания всех. **[§13 Рыночная структура](#13-market-structure)** останавливает горстку игроков от выхолащивания этого. Ничто из этого не считается, если «прогресс» приходит от накопления богатства или власти, подделки цифр, снятия прав или сваливания вреда на других или планету.*
+
+**[Способность общих систем](../../core_05_band_continuity.md#shared-system-capacity-constitutional)** — то, что [Ответственное управление](../../core_05_band_continuity.md#stewardship-constitutional) и [Управление](../../core_05_band_accountability.md#governance) должны производить вместе со временем: длительная, подлежащая оспариванию способность сентентов и общих систем достигать того, что требует эта Конституция. Это **средство** к цели **Расцвета** под [Двумя конституционными целями](core_00_preamble.md#two-constitutional-aims) — не козырь, который отменяет безопасность, истину, права или экологию.
+
+Эта способность имеет несколько аспектов, работающих вместе:
+- **[Производительная способность](../../core_05_band_continuity.md#productive-capacity-constitutional)** — могут ли сентенты участвовать, вносить вклад и получать реальные результаты? ([§12.1 Производительная способность (инструментальное благо)](#121-productive-capacity-instrumental-good))
+- **[Конституционная эффективность](../../core_05_band_continuity.md#constitutional-efficiency)** — достигаются ли эти результаты без растраты времени сентентов, внимания, материалов, инфраструктуры и энергии? ([§12.2 Конституционная эффективность](#122-constitutional-efficiency))
+- **Дисциплина антиконцентрации** — могут ли сентенты всё ещё оспаривать, конкурировать и уходить? ([§13](#13-market-structure))
+- **Справедливое представительство затрагиваемых сторон, выход, оспоримость и экологические предпосылки** — представлены ли затронутые стороны справедливо, и держат ли фоновые условия способность реальной, а не полой?
+
+**Как эта способность оценивается:**
+
+- **Как выглядит успех:**
+  - [Благополучие](../../core_05_band_continuity.md#wellbeing);
+  - [Достоинство и равный моральный статус](../../core_05_band_participation.md#dignity-and-equal-moral-standing); и
+  - [Значимая агентность](../../core_05_band_participation.md#meaningful-agency).
+- **Что управляет жёсткими компромиссами:**
+  - [Осуществимость](../../core_05_band_accountability.md#feasibility);
+  - [Необходимость](../../core_05_band_accountability.md#necessity); и
+  - [Соразмерность](../../core_05_band_accountability.md#proportionality).
+- **Что ловит бессмысленное трение и нечестные метрики:**
+  - [Избежимая нагрузка](../../core_05_band_continuity.md#avoidable-burden); и
+  - [Расхождение заместительных показателей](../../core_05_band_oversight.md#proxy-divergence).
+- **Что держит способность привязанной к обитаемому миру со временем:**
+  - [Экологическая целостность](../../core_05_band_continuity.md#ecological-integrity-constitutional);
+  - [Средовые предпосылки](../../core_05_band_continuity.md#environmental-preconditions-constitutional); и
+  - [Межпоколенческая ответственность](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional).
+
+<a id="121-productive-capacity-instrumental-good"></a>
+#### 12.1 Производительная способность (инструментальное благо)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Читать вместе с: [§12 Способность общих систем](#12-shared-system-capacity).
+- Подразделы (порядок чтения): [§12.1.1 Сохранять, расширять и что не считается](#1211-preserve-expand-and-what-does-not-count).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
+
+- [Производительная способность](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [Способность общих систем](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [O](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [M](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#shared-system-capacity-constitutional-c)
+- [Конституционная эффективность](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
+- [Благополучие](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
+- [Достоинство и равный моральный статус](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
+- [Расхождение заместительных показателей](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [Экологическая целостность](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [O](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [M](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05_band_continuity.md#ecological-integrity-constitutional-c)
+- [Средовые предпосылки](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](../../core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+- [Межпоколенческая ответственность](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
+
+</details>
+
+<br>
+
+*Простыми словами: производительная способность — аспект «можем ли мы фактически делать вещи?» способности общих систем. Могут ли сентенты участвовать, учиться, вносить вклад и превращать усилие и ресурсы в результаты, которые делают жизнь лучше — и держать эту способность со временем? Это инструмент для лучшей жизни. Что должно сохраняться и что не считается — [§12.1.1 Сохранять, расширять и что не считается](#1211-preserve-expand-and-what-does-not-count).*
+
+**[Производительная способность](../../core_05_band_continuity.md#productive-capacity-constitutional)** — один аспект **[Способности общих систем](../../core_05_band_continuity.md#shared-system-capacity-constitutional)**. Она называет длительную способность сентентов и общих систем:
+- поддерживать реальное участие, вклад и наращивание навыков; и
+- превращать время, внимание, усилие, координацию, материалы, инфраструктуру и энергию в исходы, которые эта Конституция фактически требует.
+
+Это **инструментальное благо** — средство, не козырная ценность. Её работа — поднимать, поддерживать и распространять качество жизни под целью **Расцвета**, согласованно с [Благополучием](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Достоинством и равным моральным статусом](../../core_05_band_participation.md#dignity-and-equal-moral-standing), Полом прав Главы шестой и экологическими и межпоколенческими пределами цели **Преемственности** под [Двумя конституционными целями](core_00_preamble.md#two-constitutional-aims).
+
+<a id="1211-preserve-expand-and-what-does-not-count"></a>
+##### 12.1.1 Сохранять, расширять и что не считается
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Читать вместе с: [§12.2 Конституционная эффективность](#122-constitutional-efficiency); [§6 Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [§6.2.4 Инвалидация расхождения заместительных показателей](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation); [§7 Запрет абсолютной отмены](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override); [Статья I-A: Средовые предпосылки и экологическая целостность](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity).
+- Читать вместе с: [§3.1 Безопасность (ограничение вреда)](core_01_a_values_principles.md#31-safety-harm-constraint); [§3.2 Истина (ограничение эпистемической целостности)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint); [4. Доверие](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); [§5 Свобода (ограниченная агентность)](core_01_a_values_principles.md#5-freedom-bounded-agency).
+
+</details>
+
+<br>
+
+*Простыми словами: держите способность делать вещи и растите её, когда это тратило бы меньше времени всех — но не через накопление, подделку цифр, снятие прав или сваливание вреда на других или планету. Метрики, которые больше не доказывают реальные исходы, не считаются.*
+
+Системы должны сохранять производительную способность и, где осуществимо, расширять её, когда это улучшило бы [Конституционную эффективность](../../core_05_band_continuity.md#constitutional-efficiency) ([§12.2 Конституционная эффективность](#122-constitutional-efficiency)).
+
+**Эта обязанность:**
+
+- **Остаётся внутри:**
+  - Безопасности;
+  - Истины;
+  - Доверия;
+  - Свободы;
+  - Пола прав Главы шестой, включая [Статью I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Средовые предпосылки и экологическая целостность*):
+    - [Экологическая целостность](../../core_05_band_continuity.md#ecological-integrity-constitutional);
+    - [Средовые предпосылки](../../core_05_band_continuity.md#environmental-preconditions-constitutional); и
+    - [Межпоколенческая ответственность](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional).
+  - дисциплины не подлежащих переговору содержательных ограничений Главы первой.
+- **Как она оценивается:** прослеживаемые исходы под **Главами четвёртой и пятой**.
+- **Как она показывается:** доказательствами, не лозунгами.
+
+Производительная способность не считается — и не должна использоваться, чтобы оправдать:
+
+- концентрацию богатства, власти, контроля или возможности способами, которые вредят благополучию, агентности, достоинству или экологическим условиям других сентентов — сейчас или позже;
+- деградацию природных систем, поддерживающих жизнь, или перекладывание экологических или межпоколенческих издержек на других без смягчения, раскрытия и представительства;
+- сырой пропуск, объём выпуска, загрузку, численность, выручку, рост активов, долю рынка или сходные заместители, которые больше не отслеживают реальные исходы — включая заместители, которые показывают «рост», пока вред экспортируется на сентентов, будущие поколения или среду;
+- сужение или задержку прав Главы шестой, включая экологические предпосылки под [Статьёй I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Средовые предпосылки и экологическая целостность*);
+- обход [§6 Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), включая [дисциплину записи решения §6.1](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test);
+- ослабление обязанностей аудита, оспоримости или ретроспективного пересмотра; или
+- другие запрещённые пути отмены в [§7 Запрет абсолютной отмены](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override), включая сдвиг экологического, межпоколенческого или распределительного вреда с книг, которые **Главы со второй по четвёртую** требуют держать видимыми.
+
+Там, где заявления о производительной способности опираются на метрики, которые больше не доказывают реальные исходы — включая метрики, которые скрывают экологический ущерб, будущий вред или потерю, движимую концентрацией — применяется [§6.2.4 Инвалидация расхождения заместительных показателей](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation).
+
+<a id="122-constitutional-efficiency"></a>
+#### 12.2 Конституционная эффективность
+
+<details>
+<summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
+
+- [Конституционная эффективность](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
+- [Способность общих систем](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [O](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [M](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#shared-system-capacity-constitutional-c)
+- [Производительная способность](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
+
+</details>
+
+<br>
+
+*Простыми словами: конституционная эффективность — аспект «получаем ли мы то, что стоит, в человеческих терминах?» способности общих систем. Больше реальной пользы на каждый час времени сентентов, внимания и общего усилия — не срезание углов на правах, истине, безопасности или экологии просто чтобы выглядеть быстрыми, худыми или дешёвыми.*
+
+**[Конституционная эффективность](../../core_05_band_continuity.md#constitutional-efficiency)** — другой главный аспект **[Способности общих систем](../../core_05_band_continuity.md#shared-system-capacity-constitutional)**. Она спрашивает, производят ли системы больше конституционно требуемой пользы на единицу потреблённых времени сентентов, внимания, усилия, координации, материалов, инфраструктуры и энергии.
+
+Эффективность может двигать широко разделяемое улучшение, но только внутри конституционных границ. Сама по себе она **не**:
+- сырая скорость;
+- административное удобство;
+- цели загрузки;
+- рост выручки;
+- доля рынка;
+- сокращения численности; или
+- снижение издержек ради него самого.
+
+**Когда заявление об эффективности считается:**
+
+- **Прослеживается к:** реальным конституционным исходам.
+- **Остаётся согласованным с:**
+  - Безопасностью;
+  - Истиной;
+  - Полом прав Главы шестой;
+  - экологической целостностью;
+  - достоинством;
+  - значимой агентностью; и
+  - справедливым распределением.
+
+**Выигрыши эффективности не должны:**
+
+- выхолащивать [Конституционную тетраду](core_00_preamble.md#constitutional-tetrad); или
+- подменять метрики панелей прогрессу к [Двум конституционным целям](core_00_preamble.md#two-constitutional-aims).
+
+<a id="13-market-structure"></a>
+### 13. Рыночная структура
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Читать вместе с: [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad) — участие, надзор, подотчётность и своевременность там, где концентрация или доминирование побеждают голос, проверку, отвечаемость или своевременное исправление; масштабирование по [материальной ставке](core_00_preamble.md#material-stake) (особенно [§13.2 Проконкуренция и антидоминирование](#132-pro-competition-and-anti-domination)).
+- Читать вместе с: [Две конституционные цели](core_00_preamble.md#two-constitutional-aims) — цель **Преемственности** (оспариваемые, длительные производительные условия); цель **Расцвета** (справедливый доступ к средствам к существованию, агентности и путям инновации).
+- Исход: Принципы: [§12 Способность общих систем](#12-shared-system-capacity) — заявления о производительной способности и эффективности сбоят там, где концентрация или доминирование их выхолащивают; [10. Управление под дисциплиной ответственного управления](#10-governance-under-stewardship-discipline).
+- Назначение: [Глава десятая §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (подрыв на основе концентрации); [6. Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 Инвалидация расхождения заместительных показателей](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
+- Назначение: **CJS-3.11.1 — Дисциплина задания порога рыночной концентрации (настраиваемая принявшим)** ([§13.1](#131-market-concentration-threshold-mechanism-adopter-tunable) оперативные правила); **CJS-3.11.2 — Каталог антидоминирующего поведения и восстановления** ([§13.2](#132-pro-competition-and-anti-domination) оперативные паттерны поведения и средства защиты); **CJS-3.11.3 — Дисциплина задания потолка консолидации (настраиваемая принявшим)** ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) оперативные правила задания потолка).
+- Назначение: Формирует поверхность прав для распределения ресурсов, справедливой компенсации, коллективной организации, интероперабельности, выхода и пересмотра против захвата; особенно [Статья III-D: Пол труда и экономики](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor), [Статья IV: Распределение ресурсов, зависимости и финансирование экосистем](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) и [Статья XIX: Интероперабельность, переносимость, передвижение, убежище и целостность выхода](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity).
+- Подразделы (порядок чтения): [§13.1 Механизм порога рыночной концентрации (настраиваемый принявшим)](#131-market-concentration-threshold-mechanism-adopter-tunable) · [§13.1.1 Триггеры порога концентрации (настраиваемые принявшим)](#1311-concentration-threshold-triggers-adopter-tunable) · [§13.2 Проконкуренция и антидоминирование](#132-pro-competition-and-anti-domination) · [§13.3 Потолок консолидации](#133-consolidation-ceiling).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
+
+- [Рыночная структура](../../core_05_band_accountability.md#market-structure-constitutional) · [O](../../core_05_band_accountability.md#market-structure-constitutional) · [M](../../core_05_band_accountability.md#market-structure-constitutional-a) · [A](../../core_05_band_accountability.md#market-structure-constitutional-a) · [C](../../core_05_band_accountability.md#market-structure-constitutional-c)
+- [Порог рыночной концентрации](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) · [O](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) · [M](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-c)
+- [Оспоримость](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Расхождение заместительных показателей](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [Зависимость](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [Значимая агентность](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+
+</details>
+
+<br>
+
+*Простыми словами: сентенты должны уметь работать, строить, менять поставщиков и отталкиваться, не натыкаясь на стену потому, что одна компания или институт владеет единственной дверью. **Рыночная структура** — эта дисциплина против монополии — для рынков, платформ, систем работы, инфраструктуры, данных, вычислительной мощности, удостоверений и других зависимостей, которые имеют значение для повседневной жизни. Становиться большим и изобретать новые вещи — нормально; загонять рынок в угол — нет. **[§13.1–§13.3](#131-market-concentration-threshold-mechanism-adopter-tunable)** задают, когда концентрация зашла слишком далеко, как останавливается доминирование и сколько консолидации позволено, прежде чем сентенты запираются.*
+
+**[Рыночная структура](../../core_05_band_accountability.md#market-structure-constitutional)** управляет тем, могут ли сентенты и общие системы участвовать в производительной жизни способами, которые остаются открытыми для выбора, конкуренции и отталкивания. Там, где требует [материальная ставка](core_00_preamble.md#material-stake), это включает:
+- коммерческий обмен;
+- платформы;
+- рынки спроса на труд;
+- системы поставщиков и контроля ресурсов;
+- пути роли удостоверения;
+- каналы доступа к капиталу; и
+- привратничество информационной сферы.
+
+Заявления **[Производительной способности](../../core_05_band_continuity.md#productive-capacity-constitutional)** и **[Конституционной эффективности](../../core_05_band_continuity.md#constitutional-efficiency)** под **[§12](#12-shared-system-capacity)** сбоят там, где рыночная структура разрешает концентрацию, доминирование или консолидацию, которые предвидимо деградируют:
+- [Благополучие](../../core_05_band_continuity.md#wellbeing);
+- [Значимую агентность](../../core_05_band_participation.md#meaningful-agency);
+- [Достоинство и равный моральный статус](../../core_05_band_participation.md#dignity-and-equal-moral-standing);
+- [Экологическую целостность](../../core_05_band_continuity.md#ecological-integrity-constitutional); или
+- конституционный пересмотр.
+
+<a id="131-market-concentration-threshold-mechanism-adopter-tunable"></a>
+#### 13.1 Механизм порога рыночной концентрации (настраиваемый принявшим)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Исход: [§13 Рыночная структура](#13-market-structure); [Порог рыночной концентрации](../../core_05_band_accountability.md#market-concentration-threshold-constitutional).
+- Назначение: **CJS-3.11.1 — Дисциплина задания порога рыночной концентрации (настраиваемая принявшим)** (оперативные правила задания порога); [§13.2 Проконкуренция и антидоминирование](#132-pro-competition-and-anti-domination); [§13.3 Потолок консолидации](#133-consolidation-ceiling); [CJS-3.11.3 — Дисциплина задания потолка консолидации (настраиваемая принявшим)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) оперативные правила задания потолка); [Глава восьмая §4 Вопрос 2 — насколько это было хорошо или плохо?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it); [Глава десятая §5.1 Подрыв на основе концентрации](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- Дверь ответственного управления (неоперативная): Связывающее заявление следующего шага: [Оперативное заявление ответственного управляющего](#operative-steward-statement-market-structure). Указатели поддержки не могут его сузить.
+- Подразделы (порядок чтения): [§13.1.1 Триггеры порога концентрации (настраиваемые принявшим)](#1311-concentration-threshold-triggers-adopter-tunable).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
+
+- [Порог рыночной концентрации](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) · [O](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) · [M](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-c)
+- [Рыночная структура](../../core_05_band_accountability.md#market-structure-constitutional) · [O](../../core_05_band_accountability.md#market-structure-constitutional) · [M](../../core_05_band_accountability.md#market-structure-constitutional-a) · [A](../../core_05_band_accountability.md#market-structure-constitutional-a) · [C](../../core_05_band_accountability.md#market-structure-constitutional-c)
+- [Зависимость](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Оперативное заявление ответственного управляющего</span></strong></summary>
+
+<a id="operative-steward-statement-market-structure"></a>
+> **Оперативное заявление ответственного управляющего.** **Владелец:** Глава первая §13 / §13.1. Оперативный укус: CJS-3.11.1. **Запрещённый ход:** Не трактуйте настраиваемое принявшим как необязательное для принявшего. Не очищайте пол счётом сущностей или разговором об эффективности. **Срок:** Инвалидируйте обнуляющий порог сейчас. Восстановите пересмотр, когда единственная дверь закрывается.
+
+</details>
+
+<br>
+
+*Простыми словами: этот раздел чертит пол против вредных нагромождений богатства, власти или контроля. Он сам не решает, насколько плох был вред, и сам не клеймит кого-то как случай проступка. Когда концентрация используется, чтобы подрывать эту Конституцию, Глава десятая это оценивает — и только после того, как Глава восьмая уже оценила проверенный вред как один из трёх самых серьёзных. Принявшие могут настраивать точные числовые триггеры к своему контексту, но они не могут задать их так высоко, что они никогда не кусают, спарить их с непригодным принуждением или замазать концентрацию через федеративные или оболочечные структуры. Как эти триггеры задаются — [§13.1.1 Триггеры порога концентрации (настраиваемые принявшим)](#1311-concentration-threshold-triggers-adopter-tunable).*
+
+**Что делает этот подраздел:**
+
+- **Делает:** заявляет направление порога слоя принципа для пола [§13 Рыночная структура](#13-market-structure).
+- **Не делает:** решать, насколько серьёзен был проверенный вред, или выдавать обозначение проступка.
+- **Когда концентрация используется, чтобы подрывать эту Конституцию:** этот проступок оценивается под [Главой десятой §5.1 Подрыв на основе концентрации](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- **Создание, поддержание или эксплуатация концентрации выше пола:** достигается через критерии 3, 4 и 6 Главы десятой для пересмотра обозначения и только там, где [Глава восьмая §4 Вопрос 2 — насколько это было хорошо или плохо?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it) уже оценила этот проверенный вред как один из трёх самых серьёзных баллов, которые записывает Глава восьмая.
+
+**Конституционный пол:**
+
+- **Что это:** дисциплина неконцентрации в [§13 Рыночная структура](#13-market-structure) задаёт **конституционный пол**.
+- **Что он блокирует:** концентрацию:
+  - богатства;
+  - власти;
+  - контроля; или
+  - возможности.
+- **Вред, который он предотвращает:** предвидимую деградацию, для других сентентов, следующего:
+  - благополучия;
+  - агентности;
+  - достоинства; или
+  - экологической целостности.
+- **Чем это не является:** одним фиксированным числом — это минимальная планка.
+- **Что также конфликтует:** [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad) и цель **Преемственности** под [Двумя конституционными целями](core_00_preamble.md#two-constitutional-aims), там, где концентрация предвидимо побеждает:
+  - голос;
+  - проверку;
+  - отвечаемость; или
+  - своевременное исправление.
+
+**[Статья IV](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) (*Распределение ресурсов, зависимости и финансирование экосистем*):**
+
+- **Права на ресурсы:** остаются целыми.
+- **Что она задаёт:** базовый **Пол прав** того, как ресурсы разделяются:
+  - кто их получает;
+  - кто от чего зависит; и
+  - как финансируются экосистемы.
+- **Что этот подраздел добавляет:** направление порога концентрации только на уровне принципов.
+- **Чего он не делает:** ослаблять, заменять или сужать Статью IV.
+
+Это положение заявляет механизм порога концентрации на слое принципа. Оно не создаёт нового Пола прав и не сужает никакой существующий пол Главы шестой. Дисциплина неконцентрации в [§13 Рыночная структура](#13-market-structure) остаётся контролирующей.
+
+<a id="1311-concentration-threshold-triggers-adopter-tunable"></a>
+##### 13.1.1 Триггеры порога концентрации (настраиваемые принявшим)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Читать вместе с: [Порог рыночной концентрации](../../core_05_band_accountability.md#market-concentration-threshold-constitutional); [Зависимость](../../core_05_band_continuity.md#dependency).
+- Назначение: [CJS-3.11.1 — Дисциплина задания порога рыночной концентрации (настраиваемая принявшим)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable) (оперативные правила задания порога).
+
+</details>
+
+<br>
+
+*Простыми словами: принявшие могут настраивать числовые триггеры к своему контексту — домен, размер населения, плотность зависимости — но нет одного глобального числа, и пол всё ещё держится. Подробные правила задания порога живут в CJS-3.11.1.*
+
+**Пороги концентрации** — количественные триггеры, которые отмечают, когда концентрация достигла уровня, требующего повышенного пересмотра, вмешательства или структурного средства защиты. Они покрывают материальную, юрисдикционную, способностьную, платформенную концентрацию и концентрацию информационной сферы. Принявшие могут настраивать эти триггеры **внутри конституционного пола**.
+
+Принявшие могут задавать разные пороги по:
+- домену (материальный, юрисдикционный, способностьный, платформенный, информационной сферы);
+- размеру населения сентентов;
+- плотности зависимости;
+- другим факторам, подходящим к контексту.
+
+Это положение не налагает одного глобального числа. Разные конституционные федерации могут задавать разные пороги без несоответствия само по себе, при условии что пол держится. См. [Порог рыночной концентрации](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) для определительного якоря.
+
+Оперативная дисциплина задания порога — сохранение пола, пересмотр существа над формой, антиобнуление и триггеры повышенной проверки — живёт в **CJS-3.11.1 — Дисциплина задания порога концентрации (настраиваемая принявшим)**.
+
+<a id="132-pro-competition-and-anti-domination"></a>
+#### 13.2 Проконкуренция и антидоминирование
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Исход: [§13 Рыночная структура](#13-market-structure); [Рыночная структура](../../core_05_band_accountability.md#market-structure-constitutional).
+- Назначение: **CJS-3.11.2 — Каталог антидоминирующего поведения и восстановления** (оперативные паттерны поведения и средства защиты); [§13.3 Потолок консолидации](#133-consolidation-ceiling); [Глава десятая §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- Читать вместе с: [Статья III-D: Пол труда и экономики](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (Пол прав мобильности труда); [Статья XIX: Интероперабельность, переносимость, передвижение, убежище и целостность выхода](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity); [6. Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([Необходимость](../../core_05_band_accountability.md#necessity), [Соразмерность](../../core_05_band_accountability.md#proportionality), [§6.2.4 Инвалидация расхождения заместительных показателей](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
+- Подразделы (порядок чтения): [§13.2.1 Обязанности проконкуренции (делай)](#1321-pro-competition-duties-dos) · [§13.2.2 Запреты антидоминирования (не делай)](#1322-anti-domination-prohibitions-donts) · [§13.2.3 Средства защиты](#1323-remedies).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
+
+- [Рыночная структура](../../core_05_band_accountability.md#market-structure-constitutional) · [O](../../core_05_band_accountability.md#market-structure-constitutional) · [M](../../core_05_band_accountability.md#market-structure-constitutional-a) · [A](../../core_05_band_accountability.md#market-structure-constitutional-a) · [C](../../core_05_band_accountability.md#market-structure-constitutional-c)
+- [Оспоримость](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Значимая агентность](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+- [Необходимость](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [Соразмерность](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [Зависимость](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [Расхождение заместительных показателей](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+
+</details>
+
+<br>
+
+*Простыми словами: Конституция не наказывает систему просто за то, что она большая, полезная или временно впереди потому, что она подлинно инновацировала. Она запрещает длительное доминирование: контроль над рынками, трудом, платформами, инфраструктурой, данными, вычислениями, удостоверениями или ресурсами, который позволяет актору запирать других, блокировать соперников, подавлять справедливый торг или захватывать конституционную подотчётность.*
+
+**Что делает этот подраздел:**
+
+- **Что он заявляет:** правила Конституции для держания конкуренции реальной и остановки длительного доминирования — только на уровне принципов. Это не полный кодекс конкуренции.
+- **Более сильное местное право:** оно не стирает собственное антимонопольное или конкурентное право принимающего тела, когда это право даёт более сильную защиту.
+- **Другие владельцы всё ещё применяются:** если те же факты также поднимают обязанности прав, средства защиты или проступка, на которые указывает этот раздел, эти обязанности всё ещё применяются сами по себе.
+
+<a id="1321-pro-competition-duties-dos"></a>
+##### 13.2.1 Обязанности проконкуренции (делай)
+
+*Простыми словами (делай): рынки и зависимости должны оставаться достаточно открытыми, чтобы сентенты могли входить, переключаться, справедливо торговаться и уходить — становиться большим или изобретать что-то новое нормально, когда оспоримость остаётся реальной.*
+
+Способность общих систем должна оставаться оспариваемой на практике. Под [Конституционной тетрадой](core_00_preamble.md#constitutional-tetrad) доминирование, которое выхолащивает **участие**, **надзор**, **подотчётность** или **своевременность** — масштабированные к [материальной ставке](core_00_preamble.md#material-stake) — несовместимо с этим разделом, какой бы ни был масштаб или заявление об эффективности.
+
+Там, где сентенты зависят от рынков, платформ, инфраструктуры, трудовых устройств, потоков ресурсов, доступа к данным, доступа к вычислениям, удостоверений или сопоставимых производительных условий для средств к существованию, агентности, благополучия или конституционного пересмотра, управляющие системы и устройства структурирования рынка должны сохранять:
+- оспариваемое участие;
+- значимую заменяемость и выход;
+- справедливые пути входа и повторного входа;
+- интероперабельность и переносимость там, где это материально для выхода или конкуренции;
+- непринудительный торг для работников, поставщиков, пользователей, зависимых участников и затронутых сторон;
+- подлежащий пересмотру доступ к существенной или высокозависимой инфраструктуре там, где отказ победил бы защиты Главы шестой, аудит, восстановление или значимую агентность.
+
+Следующее само по себе не запрещено:
+- масштаб;
+- интеграция;
+- защита интеллектуальной собственности;
+- временное преимущество от подлинной инновации;
+- эффективность от законной координации.
+
+Эти преимущества остаются действительными только пока они не становятся следующим и поэтому не подрывают [Две конституционные цели](core_00_preamble.md#two-constitutional-aims) или [Конституционную тетраду](core_00_preamble.md#constitutional-tetrad):
+- длительное доминирование;
+- принудительную зависимость;
+- деградацию Пола прав;
+- сдвиг экологической нагрузки;
+- захват путей подотчётности.
+
+Следующие оправдания должны удовлетворять обязанностям прослеживаемости и доказательств в [6. Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) и Главе четвёртой:
+- эффективность;
+- конкурентоспособность;
+- чрезвычайность;
+- безопасность;
+- производительная способность.
+
+<a id="1322-anti-domination-prohibitions-donts"></a>
+##### 13.2.2 Запреты антидоминирования (не делай)
+
+*Простыми словами (не делай): не запирать сентентов, не блокировать соперников, не подавлять справедливый торг и не захватывать конституционную подотчётность.*
+
+Никто из следующего:
+- сентент(ы);
+- институт(ы);
+- платформа(ы);
+- предприятие(я);
+- орган(ы) государства;
+- ответственный(е) управляющий(е);
+- координированная(ые) группа(ы).
+
+не может:
+- создавать;
+- поддерживать;
+- приобретать;
+- эксплуатировать;
+- скрывать;
+- реструктурировать вокруг.
+
+длительную власть любого из следующих видов:
+- рыночную;
+- платформенную;
+- инфраструктурную;
+- трудовую;
+- поставщика;
+- данных;
+- вычислений;
+- удостоверения;
+- доступа к капиталу;
+- контроля ресурсов.
+
+там, где эта власть предвидимо деградирует:
+- благополучие;
+- значимую агентность;
+- справедливую компенсацию;
+- инновацию;
+- доступ;
+- экологическую целостность;
+- оспоримость;
+- конституционный пересмотр.
+
+<a id="1323-remedies"></a>
+##### 13.2.3 Средства защиты
+
+*Простыми словами: когда доминирование обосновано, ответ должен соответствовать вреду, восстанавливать реальный выбор и не наказывать размер ради него самого.*
+
+Следующее живёт в **CJS-3.11.2 — Каталог антидоминирующего поведения и восстановления**:
+- иллюстративные запрещённые паттерны поведения;
+- соразмерные инструменты средства защиты;
+- маршрутизация оценки между доменами.
+
+Другие владельцы:
+- категориальные запреты мобильности труда: [Статья III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Пол труда и экономики*);
+- оперативные условия интероперабельности, переносимости и целостности выхода: **CJS-3.17**;
+- паттерны риска горизонтальной и вертикальной консолидации: **§13.3**.
+
+Средства защиты должны:
+- быть соразмерными:
+  - концентрации;
+  - зависимости;
+  - поведению;
+  - конституционному вреду;
+- восстанавливать оспоримость там, где доминирование обосновано;
+- сохранять Пол прав Главы шестой.
+
+Средства защиты не могут наказывать масштаб сам по себе.
+
+Оперативный выбор средства защиты следует **CJS-3.11.2** (*Каталог антидоминирующего поведения и восстановления*).
+
+<a id="133-consolidation-ceiling"></a>
+#### 13.3 Потолок консолидации
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Читать вместе с: [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad) — **надзор**, **подотчётность** и **своевременность** там, где консолидация нарушает проверку, отвечаемость или своевременное исправление до запирания; **участие** там, где консолидация закрывает вход, выход или справедливый торг; масштабирование по [материальной ставке](core_00_preamble.md#material-stake).
+- Читать вместе с: [Две конституционные цели](core_00_preamble.md#two-constitutional-aims) — цель **Преемственности** (оспариваемые, длительные производительные условия против консолидации до запирания); цель **Расцвета** (пути средств к существованию, агентности и инновации, пока альтернативы остаются реальными).
+- Исход: [§13 Рыночная структура](#13-market-structure); [§10 Управление под дисциплиной ответственного управления](#10-governance-under-stewardship-discipline); [§9 Ответственное управление и распределённое понимание](#9-stewardship-and-distributed-understanding).
+- Подразделы (порядок чтения): [§13.3.1 Риск консолидации (нарушение до запирания)](#1331-consolidation-risk-pre-lock-in-impairment) · [§13.3.2 Механизм потолка консолидации (настраиваемый принявшим)](#1332-ceiling-discipline-adopter-requirements).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
+
+- [Управление](../../core_05_band_accountability.md#governance) · [O](../../core_05_band_accountability.md#governance) · [M](../../core_05_band_accountability.md#governance-a) · [A](../../core_05_band_accountability.md#governance-a) · [C](../../core_05_band_accountability.md#governance-c)
+- [Ответственное управление](../../core_05_band_continuity.md#stewardship-constitutional) · [O](../../core_05_band_continuity.md#stewardship-constitutional) · [M](../../core_05_band_continuity.md#stewardship-constitutional-a) · [A](../../core_05_band_continuity.md#stewardship-constitutional-a) · [C](../../core_05_band_continuity.md#stewardship-constitutional-c)
+- [Оспоримость](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Рыночная структура](../../core_05_band_accountability.md#market-structure-constitutional) · [O](../../core_05_band_accountability.md#market-structure-constitutional) · [M](../../core_05_band_accountability.md#market-structure-constitutional-a) · [A](../../core_05_band_accountability.md#market-structure-constitutional-a) · [C](../../core_05_band_accountability.md#market-structure-constitutional-c)
+- [Зависимость](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+
+</details>
+
+<br>
+
+*Простыми словами: консолидация может украсть реальный выбор задолго до того, как рынок выглядит запертым. **Потолки консолидации** дают управлению и ответственным управляющим власть раннего предупреждения — проверять, вмешиваться и исправлять нагромождения, пока выход и соперничество ещё существуют.*
+
+Консолидация, которая предвидимо нарушает оспоримость до того, как запирание очевидно, — проблема [Управления](../../core_05_band_accountability.md#governance) и [Ответственного управления](../../core_05_band_continuity.md#stewardship-constitutional), не только проблема доминирования после факта, и является дисциплиной потолка консолидации слоя принципа под:
+- [§13](#13-market-structure);
+- [§13.2](#132-pro-competition-and-anti-domination).
+
+Принявшие и управляющие системы должны обнаруживать нагромождения консолидации следующих видов:
+- горизонтальные (*меньше соперников на том же слое*);
+- вертикальные (*контроль сквозь слои, который создаёт узкие места и запирание*);
+- междоменные (*федеративные, оболочечные или разделённые по доменам формы, которые держат то же нагромождение контроля*).
+
+пока следующее всё ещё может восстановить оспоримость:
+- пересмотр;
+- вмешательство;
+- структурное средство защиты.
+
+Эта дисциплина служит [Конституционной тетраде](core_00_preamble.md#constitutional-tetrad), масштабированной к [материальной ставке](core_00_preamble.md#material-stake), особенно:
+- **надзор**, **подотчётность** и **своевременность** через ранний пересмотр до того, как запирание победит:
+  - проверку;
+  - исправление;
+- **участие** там, где консолидация закрывает:
+  - справедливый вход;
+  - выход;
+  - торг.
+
+Она продвигает следующее под [Двумя конституционными целями](core_00_preamble.md#two-constitutional-aims):
+- цель **Преемственности** (оспариваемые, длительные производительные условия);
+- цель **Расцвета** (пути средств к существованию, агентности и инновации, пока альтернативы остаются реальными).
+
+Оперативные правила задания потолка живут в:
+- [§13.3.2](#1332-ceiling-discipline-adopter-requirements);
+- **CJS-3.11.3 — Дисциплина задания потолка консолидации (настраиваемая принявшим)**.
+
+<a id="1331-consolidation-risk-pre-lock-in-impairment"></a>
+##### 13.3.1 Риск консолидации (нарушение до запирания)
+
+*Простыми словами: консолидация может выхолостить реальные альтернативы задолго до того, как рынок выглядит «запертым». Два вида нагромождения особенно важны: **горизонтальная консолидация** — меньше соперников на том же слое — и **вертикальная консолидация** — контроль сквозь слои, который создаёт узкие места и запирание.*
+
+Консолидация может предвидимо нарушать следующее до того, как запирание очевидно:
+- оспоримость;
+- заменяемость;
+- справедливый торг;
+- вход;
+- выход;
+- инновацию;
+- агентность затрагиваемых сторон;
+- интероперабельность;
+- переносимость;
+- конституционный пересмотр.
+
+Пересмотр не должен ждать, пока любое из следующего уже заперто:
+- рынок(и);
+- платформа(ы);
+- пул(ы) труда;
+- слой(и) данных;
+- слой(и) вычислений;
+- зависимость(и) инфраструктуры.
+
+Главные паттерны риска:
+
+- **Горизонтальная консолидация** (*сокращение соперников того же слоя*). Консолидация, которая сокращает альтернативы, соперничество или переговорную силу внутри одного слоя или рынка — например меньше оспариваемых продавцов или поставщиков услуг, монопсония рынка труда, серийные или «убийственные» приобретения, которые убирают потенциальную конкуренцию, или концентрация покупательской власти, которая закрывает соперников, пока заголовочные цены остаются стабильными.
+- **Вертикальная консолидация** (*межслойная зависимость и контроль узких мест*). Консолидация, которая связывает контроль сквозь слои цепочки ценности, стека платформы или цепочки зависимости — например захват входа или интерфейса, привратничество доступа к капиталу, подавление интероперабельности или переносимости, самопредпочтение или контроль ранжирования, который поднимает издержки переключения и побеждает выход.
+- **Междоменные и федеративные структуры:** Устройства сквозь домены, платформы, оболочки, преемников или федеративные формы, которые сохраняют эффективную консолидацию, очищая номинальные горизонтальные или вертикальные тесты.
+
+Любой паттерн может вовлекать плотность зависимости, издержки переключения, запирание, закрытие заменителей или концентрацию экологической нагрузки или контроль над средовыми предпосылками там, где материально релевантно.
+
+Оценка потолка оценивает:
+- содержательный контроль;
+- не формальный счёт сущностей.
+
+Следующее остаётся в охвате там, где оно сохраняет эффективную консолидацию, избегая номинальных порогов:
+- федеративная(ые) форма(ы);
+- оболочка(и);
+- контрактное(ые) устройство(а);
+- лицензионное(ые) устройство(а);
+- патентное(ые) устройство(а);
+- устройство(а) общей собственности;
+- межплатформенное(ые) устройство(а);
+- преемник(и);
+- делегированное(ые) устройство(а);
+- междоменное(ые) устройство(а).
+
+<a id="1332-ceiling-discipline-adopter-requirements"></a>
+<a id="1332-consolidation-ceiling-mechanism-adopter-tunable"></a>
+##### 13.3.2 Механизм потолка консолидации (настраиваемый принявшим)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Исход: [§13.3 Потолок консолидации](#133-consolidation-ceiling); [§13.3.1 Риск консолидации (нарушение до запирания)](#1331-consolidation-risk-pre-lock-in-impairment).
+- Назначение: **CJS-3.11.3 — Дисциплина задания потолка консолидации (настраиваемая принявшим)** (оперативные правила задания потолка); [CJS-3.11.2 — Каталог антидоминирующего поведения и восстановления](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (маршрутизация средства защиты при нарушении потолка); [Глава десятая §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+
+</details>
+
+<br>
+
+*Простыми словами: принявшие должны задавать основанные на доказательствах потолки, которые запускают проверку до того, как риски консолидации в **§13.3.1** материализуются в запирание — с отдельными горизонтальными и вертикальными триггерами там, где домен этого требует.*
+
+**Потолки консолидации** — настраиваемые принявшим триггеры раннего предупреждения для повышенного пересмотра, вмешательства или структурного средства защиты, когда консолидация достигает уровня, на котором нарушения в **§13.3.1** предвидимо неминуемы. Они сидят под дисциплиной неконцентрации **§13** и правилами антидоминирования **§13.2**; они не запрет масштаба.
+
+Принявшие должны определять потолки консолидации для:
+- рынков;
+- платформ;
+- инфраструктурных слоёв;
+- рынков спроса на труд;
+- систем поставщиков или контроля ресурсов;
+- зависимостей данных или вычислений;
+- путей роли удостоверения;
+- каналов доступа к капиталу;
+- сопоставимых доменов.
+
+там, где консолидация может материально затронуть:
+- возможность сентентов;
+- средства к существованию;
+- агентность;
+- благополучие;
+- экологическую целостность;
+- конституционную подотчётность.
+
+Оперативная дисциплина задания потолка — дизайн горизонтальных и вертикальных триггеров, презумпция пересечения, опровержение, антиобнуление и маршрутизация средства защиты — живёт в **CJS-3.11.3 — Дисциплина задания потолка консолидации (настраиваемая принявшим)**.
+
+<a id="14-systemic-evaluation-requirement"></a>
+### 14. Требование системной оценки
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Читать вместе с: семьёй измерения Преемственности (*Устойчивость, обратимость и системный риск*).
+- Читать вместе с: [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad), [Две конституционные цели](core_00_preamble.md#two-constitutional-aims) и масштабирование по [материальной ставке](core_00_preamble.md#material-stake).
+- Читать вместе с: [6. Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§9 Ответственное управление и распределённое понимание](#9-stewardship-and-distributed-understanding), [§10 Управление под дисциплиной ответственного управления](#10-governance-under-stewardship-discipline) и [§11 Согласование стимулов и захват системы](#11-incentive-alignment-and-system-capture).
+- Читать вместе с: **[Глава седьмая §3 Оценка сертификации целой системы](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — оперативные факторы оценки целой системы для сертификации согласования системы (один особенно крупный аудиторский процесс под ногой **надзора** Тетрады; не единственный дом аудита).
+- Читать вместе с: **Статьёй XV** (*Аудит, прозрачность и независимая проверка*) и [Аудитируемостью](../../core_05_band_oversight.md#auditability) — полы аудита, которые Глава седьмая должна удовлетворять и которые соседние режимы аудита также реализуют.
+- Читать вместе с: **[corpus_systems.md](../../corpus_systems.md), CS-3 — Классификация систем и обращение** и [Управление, масштабированное к классификации](../../core_05_band_oversight.md#classification-scaled-governance) — применение, масштабированное к классу, форма записи, триггеры реклассификации и профили обращения.
+- Исход: [§9 Ответственное управление и распределённое понимание](#9-stewardship-and-distributed-understanding); [§10 Управление под дисциплиной ответственного управления](#10-governance-under-stewardship-discipline); [6. Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+- Назначение: [§15 Интегрированное применение](#15-integrated-application) — проверяет преследование [Двух конституционных целей](core_00_preamble.md#two-constitutional-aims) и масштабирование [Конституционной тетрады](core_00_preamble.md#constitutional-tetrad) под структурой стимулов и контроля системы, не только её заявленным обоснованием.
+- Читать вместе, **§§9–15** движутся от способности и ответственного управления к процедуре компромисса к валидации целой системы.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
+
+- [Управление, масштабированное к классификации](../../core_05_band_oversight.md#classification-scaled-governance) · [O](../../core_05_band_oversight.md#classification-scaled-governance) · [M](../../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../../core_05_band_oversight.md#classification-scaled-governance-c)
+- [Надзор](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Аудитируемость](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [Сертификация согласования системы](../../core_05_band_continuity.md#system-alignment-certification-constitutional) · [O](../../core_05_band_continuity.md#system-alignment-certification-constitutional) · [M](../../core_05_band_continuity.md#system-alignment-certification-constitutional-a) · [A](../../core_05_band_continuity.md#system-alignment-certification-constitutional-a) · [C](../../core_05_band_continuity.md#system-alignment-certification-constitutional-c)
+- [Риск](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [Зависимость](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+
+</details>
+
+<br>
+
+*Простыми словами: этот принцип — указатель. Оценка целой системы должна смотреть за пределы немедленных и локальных эффектов, но оперативные факторы сертификации системы, обязанности записи, глубина, масштабированная к классу, каденция и последствия сертификации живут в **Главе седьмой** и **CS-3**, не здесь. Под ногой **надзора** Тетрады надзор требует аудита; сертификация согласования системы — один особенно крупный аудиторский процесс высоких ставок среди других — не единственный дом аудита (**Статья XV**, [Аудитируемость](../../core_05_band_oversight.md#auditability)).*
+
+Глава первая задаёт направление. Заявления следующих видов должны испытываться против того, что целая система фактически делает — не против лозунгов и не против снимка одной части или момента:
+- классификация;
+- соответствие;
+- управление;
+- ограничение;
+- признание;
+- валидация;
+- продолжающаяся опора;
+- развёртывание;
+- выпуск-из-условий.
+
+Подробные факторы оценки и записи сертификации принадлежат:
+- **[Главе седьмой §3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
+- **[Главе седьмой §11](../../core_07_b_system_alignment_certification_record_process.md#11-certification-record)**;
+- **[corpus_systems.md](../../corpus_systems.md), CS-3 — Классификация систем и обращение**.
+
+Этот процесс Главы седьмой:
+- является аудитом слоя принципа под [Надзором](../../core_05_apex_oversight_leg.md#oversight-constitutional);
+- является одним особенно крупным аудиторским процессом среди соседних режимов;
+- не перемещает и не заменяет **Статью XV** (*Аудит, прозрачность и независимая проверка*).
+
+<a id="15-integrated-application"></a>
+### 15. Интегрированное применение
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Исход: Принципы: [8. Конституционное толкование](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [1. Назначение и роль](core_01_a_values_principles.md#1-purpose-and-role), [§9 Ответственное управление и распределённое понимание](#9-stewardship-and-distributed-understanding), [6. Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [Глава седьмая §3 Оценка сертификации целой системы](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [5. Свобода](core_01_a_values_principles.md#5-freedom-bounded-agency) и [7. Запрет абсолютной отмены](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- Назначение: позднейшие главы должны читаться через эти связанные принципы Главы первой — включая [Конституционную тетраду](core_00_preamble.md#constitutional-tetrad), [Две конституционные цели](core_00_preamble.md#two-constitutional-aims) и масштабирование по [материальной ставке](core_00_preamble.md#material-stake), установленные в [Преамбуле](core_00_preamble.md#chapter-00-preamble--foundational-requirements) и [§1 Назначение и роль](core_01_a_values_principles.md#1-purpose-and-role).
+- Назначение: [Глава шестая: Основополагающие права](../../core_06_rights_part_a.md#chapter-six-foundational-rights) должна читаться через интегрированную рамку ценностей этой главы.
+  - Ограниченное толкование, публичные причины, оспаривание, внешний пересмотр и процедура столкновения прав делают ключевую работу вниз по течению.
+  - Особенно [Статья XXII-A: Ограниченный толковательный мандат](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate), [Статья XXII-C: Публичные причины, права оспаривания и внешний пересмотр](../../core_06_rights_part_c.md#article-xxii-c-public-reasons-challenge-rights-and-external-review) и [Статья XXIV-B: Процедура столкновения прав и восстановительное согласование](../../core_06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment).
+  - Значения по умолчанию несокращения Главы шестой под [§8.3 Разрешение неоднозначности](core_01_b_interaction_interpretation.md#83-ambiguity-resolution).
+- Читать вместе с: [§8.2 Определительный слой и требуемые дисциплины](core_01_b_interaction_interpretation.md#82-definitional-layer-and-required-disciplines) — Главы со второй по пятую как толковательный и доказательный слой.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
+
+- [Корпус](../../core_05_band_integrative.md#corpus) · [O](../../core_05_band_integrative.md#corpus) · [M](../../core_05_band_integrative.md#corpus-a) · [A](../../core_05_band_integrative.md#corpus-a) · [C](../../core_05_band_integrative.md#corpus-c)
+- [Стек власти и внутренняя иерархия](../../core_05_band_integrative.md#authority-stack) · [O](../../core_05_band_integrative.md#authority-stack) · [M](../../core_05_band_integrative.md#authority-stack-a) · [A](../../core_05_band_integrative.md#authority-stack-a) · [C](../../core_05_band_integrative.md#authority-stack-c)
+- [Необратимый вред](../../core_05_band_accountability.md#irreversible-harm) · [O](../../core_05_band_accountability.md#irreversible-harm) · [M](../../core_05_band_accountability.md#irreversible-harm-a) · [A](../../core_05_band_accountability.md#irreversible-harm-a) · [C](../../core_05_band_accountability.md#irreversible-harm-c)
+- [Истина (конституционное ограничение)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Значимая агентность](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+- [Подотчётность](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [Захват системы](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [Антизахват](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+- [Согласование стимулов](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment) · [A](../../core_05_band_integrative.md#incentive-alignment) · [C](../../core_05_band_integrative.md#incentive-alignment)
+- [Управление](../../core_05_band_accountability.md#governance) · [O](../../core_05_band_accountability.md#governance) · [M](../../core_05_band_accountability.md#governance-a) · [A](../../core_05_band_accountability.md#governance-a) · [C](../../core_05_band_accountability.md#governance-c)
+
+</details>
+
+<br>
+
+*Простыми словами: каждая позднейшая глава, институциональный дизайн и система читаются через принципы этой главы — и эти принципы должны держаться даже под состязательным давлением, попытками захвата или рассогласованными стимулами.*
+
+Позднейшие главы и положения управляются через интегрированную рамку ценностей этой главы (правила чтения: [§8 Конституционное толкование](core_01_b_interaction_interpretation.md#8-constitutional-interpretation); столкновения ценностей: [§6 Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)). Гарантии институционального толкования в **Главе шестой** **Статье XXII** (*Конституционное толкование, пересмотр и гарантии против захвата*) реализуют — они не заменяют — эту рамку.
+
+Все основополагающие принципы в этой главе должны реализовываться через подлежащие принуждению классификацию, требования управления и механизмы подотчётности, определённые здесь, и должны оставаться подлежащими принуждению под состязательным поведением, захватом системы и рассогласованными стимулами.
+
+---
+
+**Предыдущий файл:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md)
+
+**Следующий файл (на этом языке):** [core_02_definition_structure.md](core_02_definition_structure.md)
+
+**Связывающий оригинал:** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)

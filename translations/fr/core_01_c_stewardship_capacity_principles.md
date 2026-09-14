@@ -12,7 +12,7 @@
 >
 > **Précédent (cette langue) :** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Chapitre un, Partie B)
 >
-> **Suivant (encore en anglais) :** [core_02_definition_structure.md](../../core_02_definition_structure.md)<br>
+> **Suivant (cette langue) :** [core_02_definition_structure.md](core_02_definition_structure.md)<br>
 > **Arc de lecture :** §9 administration responsable → §10 gouvernance → §11 alignement des incitations et capture → §12 capacité → §13 structure de marché → §14 évaluation systémique → **§15 application intégrée** (couronnement du chapitre).
 
 </details>
@@ -1087,7 +1087,7 @@ De telles conditions sont des **déclencheurs d’escalade**, non des états d�
 
 *En termes simples : une fois que le désalignement ou la capture est détecté, les systèmes doivent réellement le réparer — modifier les mauvaises incitations, contraindre le contrôle concentré, et restaurer l’alignement. Un contrôle concentré ou caché qui bat la contestation, la supervision, la reddition de comptes, ou une **Continuité** durable doit être divulgué, atténué, et escaladé — non absorbé comme opération ordinaire.*
 
-Lorsque un désalignement constitutionnel est identifié, les systèmes doivent modifier, contraindre, ou déroger à de telles incitations pour restaurer l’alignement et préserver la [**Continuité**](core_00_preamble.md#continuity) sous les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims).
+Lorsqu’un désalignement constitutionnel est identifié, les systèmes doivent modifier, contraindre, ou déroger à de telles incitations pour restaurer l’alignement et préserver la [**Continuité**](core_00_preamble.md#continuity) sous les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims).
 
 Les structures de contrôle concentrées ou obscurcies qui minent matériellement l’un des suivants sont une [**capture du système**](../../core_05_band_continuity.md#system-capture) au sens du **Chapitre cinq** et sont incompatibles avec ce chapitre :
 
@@ -1151,7 +1151,7 @@ Les structures de contrôle concentrées ou obscurcies qui minent matériellemen
 
 **Systèmes de règlement conditionnel :**
 
-- **Lorsque ils s’appliquent :** l’[Alignement des incitations](../../core_05_band_integrative.md#incentive-alignment) du [§11 Alignement des incitations et capture du système](#11-incentive-alignment-and-system-capture) s’applique partout où de la valeur est miseé ou payée sur des résultats futurs incertains. Dans la portée sont les systèmes — quelle que soit leur forme technique — qui :
+- **Lorsqu’ils s’appliquent :** l’[Alignement des incitations](../../core_05_band_integrative.md#incentive-alignment) du [§11 Alignement des incitations et capture du système](#11-incentive-alignment-and-system-capture) s’applique partout où de la valeur est mise ou payée sur des résultats futurs incertains. Dans la portée sont les systèmes — quelle que soit leur forme technique — qui :
   - apparient des contreparties ;
   - mettent en commun des mises ;
   - règlent des paiements conditionnels ; ou
@@ -1163,7 +1163,7 @@ Les structures de contrôle concentrées ou obscurcies qui minent matériellemen
   - [Marché de contrats d’événement](../../core_05_band_accountability.md#event-contract-market).
 - **Surcouche d’intégrité :** [Avantage d’initié](../../core_05_band_accountability.md#insider-advantage).
 - **Groupe de sujet :** ils vivent dans [*Créance conditionnelle, marché de contrats d’événement, jeu de hasard, et avantage d’initié*](../../core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
-- **Relation à ce chapitre :** cette sous-section est une **application spéciale** des règles générales d’alignement et de correction du [§11.1 Exigence d’alignement](#111-alignment-requirement), du [§11.2 Substituts commodes et divergence d’indicateurs substituts](#112-convenient-proxies-and-proxy-divergence), du [§11.3 Détection du désalignement](#113-misalignment-detection), et du [§11.4 Correction du désalignement et réponse à la capture](#114-misalignment-correction-and-capture-response). Elle ne les replace pas.
+- **Relation à ce chapitre :** cette sous-section est une **application spéciale** des règles générales d’alignement et de correction du [§11.1 Exigence d’alignement](#111-alignment-requirement), du [§11.2 Substituts commodes et divergence d’indicateurs substituts](#112-convenient-proxies-and-proxy-divergence), du [§11.3 Détection du désalignement](#113-misalignment-detection), et du [§11.4 Correction du désalignement et réponse à la capture](#114-misalignment-correction-and-capture-response). Elle ne les remplace pas.
 
 <a id="1151-what-may-not-be-rewarded"></a>
 ##### 11.5.1 Ce qui ne peut pas être récompensé
@@ -1171,7 +1171,7 @@ Les structures de contrôle concentrées ou obscurcies qui minent matériellemen
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Lire avec : [§11.1 Exigence d’alignement](#111-alignment-requirement), [§11.2 Substituts commodes et divergence d’indicateurs substituts](#112-convenient-proxies-and-proxy-divergence), [§11.3 Détection du désalignement](#113-misalignment-detection), et [§11.4 Correction du désalignement et réponse à la capture](#114-misalignment-correction-and-capture-response) (*cette sous-section applique ces règles ; elle ne les replace pas*).
+- Lire avec : [§11.1 Exigence d’alignement](#111-alignment-requirement), [§11.2 Substituts commodes et divergence d’indicateurs substituts](#112-convenient-proxies-and-proxy-divergence), [§11.3 Détection du désalignement](#113-misalignment-detection), et [§11.4 Correction du désalignement et réponse à la capture](#114-misalignment-correction-and-capture-response) (*cette sous-section applique ces règles ; elle ne les remplace pas*).
 - Lire avec : [Capture des voies de résolution](../../core_05_band_accountability.md#capture-of-resolution-pathways) ; [Avantage d’initié](../../core_05_band_accountability.md#insider-advantage).
 
 </details>
@@ -1315,10 +1315,738 @@ Les structures d’incitation pour de tels systèmes ne doivent pas :
 - **Qui hérite :**
   - les successeurs ;
   - les successions ;
-  - les administrateurs ; et
+  - les administrateurs judiciaires ; et
   - les cessionnaires comparables.
 - **Ce qu’ils héritent :** des devoirs proportionnés de :
   - satisfaire ces obligations ; ou
   - les transférer licitement.
 - **Sauf si :** des alternatives moins préjudiciables sont démontrablement infaisables sous un examen de [Nécessité](../../core_05_band_accountability.md#necessity) et de [Proportionnalité](../../core_05_band_accountability.md#proportionality).
+
+<a id="12-shared-system-capacity"></a>
+### 12. Capacité des systèmes partagés
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Lire avec : [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) — fin **Continuité** (intégrité écologique, responsabilité intergénérationnelle, et capacité durable des systèmes partagés).
+- En amont : Principes : [Préambule §1 Le modèle](core_00_preamble.md#the-model) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) — développement de la fin **Continuité** ; [2. Objectif fondationnel : bien-être](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [4. Confiance](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), et [§12 Capacité des systèmes partagés](#12-shared-system-capacity).
+- En aval : [§6.3 Minimisation de la charge évitable](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [10. Gouvernance sous discipline d’administration responsable](#10-governance-under-stewardship-discipline), et [§11.1.3 Application à l’administration responsable et aux opérateurs](#1113-stewardship-and-operator-application).
+- En aval : **CJS-3.11.1 — Discipline de fixation des seuils de concentration (réglable par la partie qui adopte)** (règles opératoires de fixation des seuils).
+- En aval : Façonne la surface des droits pour les préconditions écologiques, l’allocation des ressources, la capacité éducative et développementale, la résilience du cycle de vie, l’interopérabilité, la compréhensibilité, et la réponse adaptative ; surtout [Article I-A : Préconditions environnementales et intégrité écologique](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [Article III : Survie et accès éducatif égal](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access), [Article IV : Allocation des ressources, dépendances et financement des écosystèmes](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding), [Article IX : Autodétermination et agence](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [Article XVI : Cycle de vie des systèmes, environnements et réversibilité](../../core_06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility), [Article XIX : Interopérabilité, portabilité, mouvement, refuge et intégrité de sortie](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [Article XX : Compréhensibilité et administration responsable de la complexité](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), et [Article XXI : Analyse des causes racines et réponse adaptative](../../core_06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response).
+- Sous-sections (ordre de lecture) : [§12.1 Capacité productive (bien instrumental)](#121-productive-capacity-instrumental-good) · [§12.1.1 Préserver, étendre, et ce qui ne compte pas](#1211-preserve-expand-and-what-does-not-count) · [§12.2 Efficacité constitutionnelle](#122-constitutional-efficiency).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Capacité des systèmes partagés](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [O](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [M](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#shared-system-capacity-constitutional-c)
+- [Capacité productive](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [Efficacité constitutionnelle](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
+- [Bien-être](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
+- [Dignité et égal statut moral](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
+- [Agence significative](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+- [Faisabilité](../../core_05_band_accountability.md#feasibility) · [O](../../core_05_band_accountability.md#feasibility) · [M](../../core_05_band_accountability.md#feasibility-a) · [A](../../core_05_band_accountability.md#feasibility-a) · [C](../../core_05_band_accountability.md#feasibility-c)
+- [Nécessité](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [Proportionnalité](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [Charge évitable](../../core_05_band_continuity.md#avoidable-burden) · [O](../../core_05_band_continuity.md#avoidable-burden) · [M](../../core_05_band_continuity.md#avoidable-burden-a) · [A](../../core_05_band_continuity.md#avoidable-burden-a) · [C](../../core_05_band_continuity.md#avoidable-burden-c)
+- [Divergence d’indicateurs substituts](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [Intégrité écologique](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [O](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [M](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05_band_continuity.md#ecological-integrity-constitutional-c)
+- [Préconditions environnementales](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](../../core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+- [Responsabilité intergénérationnelle](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
+
+</details>
+
+<br>
+
+*En termes simples : lorsque les systèmes partagés sont bien menés, les êtres sentients devraient pouvoir faire un travail utile, améliorer la vie dans le temps, et pousser en retour lorsque quelque chose va mal — sans que tout soit verrouillé par quelques acteurs puissants. Cette aptitude d’ensemble est la **Capacité des systèmes partagés**. Le **[§12.1 Capacité productive (bien instrumental)](#121-productive-capacity-instrumental-good)** couvre si les êtres sentients peuvent réellement participer et obtenir de vrais résultats. Ce qui doit être préservé, et ce qui ne compte pas, est le **[§12.1.1 Préserver, étendre, et ce qui ne compte pas](#1211-preserve-expand-and-what-does-not-count)**. Le **[§12.2 Efficacité constitutionnelle](#122-constitutional-efficiency)** couvre si ces résultats viennent sans gaspiller le temps, l’argent et l’attention de chacun. La **[§13 Structure de marché](#13-market-structure)** empêche une poignée d’acteurs de vider cela. Rien de cela ne compte si le « progrès » vient de l’accaparement de richesse ou de pouvoir, de chiffres falsifiés, du dépouillement des droits, ou du déversement du préjudice sur autrui ou la planète.*
+
+La **[Capacité des systèmes partagés](../../core_05_band_continuity.md#shared-system-capacity-constitutional)** est ce que l’[Administration responsable](../../core_05_band_continuity.md#stewardship-constitutional) et la [Gouvernance](../../core_05_band_accountability.md#governance) devraient produire ensemble dans le temps : une aptitude durable et contestable pour les êtres sentients et les systèmes partagés à accomplir ce que cette Constitution exige. C’est un **moyen** vers la fin **Épanouissement** sous les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) — non un atout qui déroge à la sécurité, à la vérité, aux droits, ou à l’écologie.
+
+Cette capacité a plusieurs aspects qui travaillent ensemble :
+- **[Capacité productive](../../core_05_band_continuity.md#productive-capacity-constitutional)** — les êtres sentients peuvent-ils participer, contribuer, et obtenir de vrais résultats ? ([§12.1 Capacité productive (bien instrumental)](#121-productive-capacity-instrumental-good))
+- **[Efficacité constitutionnelle](../../core_05_band_continuity.md#constitutional-efficiency)** — ces résultats sont-ils obtenus sans gaspiller le temps sentient, l’attention, les matériaux, l’infrastructure et l’énergie ? ([§12.2 Efficacité constitutionnelle](#122-constitutional-efficiency))
+- **Discipline anti-concentration** — les êtres sentients peuvent-ils encore contester, concurrencer, et partir ? ([§13](#13-market-structure))
+- **Représentation équitable des parties affectées, sortie, contestabilité, et préconditions écologiques** — les parties affectées sont-elles représentées équitablement, et les conditions de fond gardent-elles la capacité réelle plutôt que creuse ?
+
+**Comment cette capacité est jugée :**
+
+- **À quoi ressemble le succès :**
+  - [Bien-être](../../core_05_band_continuity.md#wellbeing) ;
+  - [Dignité et égal statut moral](../../core_05_band_participation.md#dignity-and-equal-moral-standing) ; et
+  - [Agence significative](../../core_05_band_participation.md#meaningful-agency).
+- **Ce qui gouverne les arbitrages durs :**
+  - [Faisabilité](../../core_05_band_accountability.md#feasibility) ;
+  - [Nécessité](../../core_05_band_accountability.md#necessity) ; et
+  - [Proportionnalité](../../core_05_band_accountability.md#proportionality).
+- **Ce qui attrape le frottement inutile et les métriques malhonnêtes :**
+  - [Charge évitable](../../core_05_band_continuity.md#avoidable-burden) ; et
+  - [Divergence d’indicateurs substituts](../../core_05_band_oversight.md#proxy-divergence).
+- **Ce qui tient la capacité liée à un monde vivable dans le temps :**
+  - [Intégrité écologique](../../core_05_band_continuity.md#ecological-integrity-constitutional) ;
+  - [Préconditions environnementales](../../core_05_band_continuity.md#environmental-preconditions-constitutional) ; et
+  - [Responsabilité intergénérationnelle](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional).
+
+<a id="121-productive-capacity-instrumental-good"></a>
+#### 12.1 Capacité productive (bien instrumental)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Lire avec : [§12 Capacité des systèmes partagés](#12-shared-system-capacity).
+- Sous-sections (ordre de lecture) : [§12.1.1 Préserver, étendre, et ce qui ne compte pas](#1211-preserve-expand-and-what-does-not-count).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Capacité productive](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [Capacité des systèmes partagés](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [O](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [M](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#shared-system-capacity-constitutional-c)
+- [Efficacité constitutionnelle](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
+- [Bien-être](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
+- [Dignité et égal statut moral](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
+- [Divergence d’indicateurs substituts](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [Intégrité écologique](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [O](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [M](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05_band_continuity.md#ecological-integrity-constitutional-c)
+- [Préconditions environnementales](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](../../core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+- [Responsabilité intergénérationnelle](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
+
+</details>
+
+<br>
+
+*En termes simples : la capacité productive est l’aspect « pouvons-nous réellement faire les choses ? » de la capacité des systèmes partagés. Les êtres sentients peuvent-ils prendre part, apprendre, contribuer, et transformer l’effort et les ressources en résultats qui rendent la vie meilleure — et garder cette aptitude dans le temps ? C’est un outil pour mieux vivre. Ce qui doit être préservé, et ce qui ne compte pas, est [§12.1.1 Préserver, étendre, et ce qui ne compte pas](#1211-preserve-expand-and-what-does-not-count).*
+
+La **[Capacité productive](../../core_05_band_continuity.md#productive-capacity-constitutional)** est un aspect de la **[Capacité des systèmes partagés](../../core_05_band_continuity.md#shared-system-capacity-constitutional)**. Elle nomme l’aptitude durable des êtres sentients et des systèmes partagés à :
+- soutenir une participation, une contribution et une construction de compétence réelles ; et
+- transformer le temps, l’attention, l’effort, la coordination, les matériaux, l’infrastructure et l’énergie en résultats que cette Constitution exige réellement.
+
+C’est un **bien instrumental** — un moyen, non une valeur atout. Son travail est d’élever, de soutenir et de répandre la qualité de vie sous la fin **Épanouissement**, cohérent avec le [Bien-être](core_01_a_values_principles.md#2-foundational-objective-wellbeing), la [Dignité et égal statut moral](../../core_05_band_participation.md#dignity-and-equal-moral-standing), le Plancher des droits du Chapitre six, et les limites écologiques et intergénérationnelles de la fin **Continuité** sous les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims).
+
+<a id="1211-preserve-expand-and-what-does-not-count"></a>
+##### 12.1.1 Préserver, étendre, et ce qui ne compte pas
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Lire avec : [§12.2 Efficacité constitutionnelle](#122-constitutional-efficiency) ; [§6 Résolution des conflits de processus](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ; [§6.2.4 Invalidation par divergence d’indicateurs substituts](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) ; [§7 Interdiction de dérogation absolue](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override) ; [Article I-A : Préconditions environnementales et intégrité écologique](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity).
+- Lire avec : [§3.1 Sécurité (contrainte de préjudice)](core_01_a_values_principles.md#31-safety-harm-constraint) ; [§3.2 Vérité (contrainte d’intégrité épistémique)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) ; [4. Confiance](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity) ; [§5 Liberté (agence bornée)](core_01_a_values_principles.md#5-freedom-bounded-agency).
+
+</details>
+
+<br>
+
+*En termes simples : gardez l’aptitude à faire les choses, et étendez-la lorsque cela gaspillerait moins le temps de chacun — mais pas en accaparant, en falsifiant les chiffres, en dépouillant les droits, ou en déversant le préjudice sur autrui ou la planète. Les métriques qui ne prouvent plus de vrais résultats ne comptent pas.*
+
+Les systèmes doivent préserver la capacité productive et, lorsque c’est faisable, l’étendre lorsque cela améliorerait l’[Efficacité constitutionnelle](../../core_05_band_continuity.md#constitutional-efficiency) ([§12.2 Efficacité constitutionnelle](#122-constitutional-efficiency)).
+
+**Cette obligation :**
+
+- **Reste à l’intérieur de :**
+  - la Sécurité ;
+  - la Vérité ;
+  - la Confiance ;
+  - la Liberté ;
+  - le Plancher des droits du Chapitre six, y compris l’[Article I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Préconditions environnementales et intégrité écologique*) :
+    - [Intégrité écologique](../../core_05_band_continuity.md#ecological-integrity-constitutional) ;
+    - [Préconditions environnementales](../../core_05_band_continuity.md#environmental-preconditions-constitutional) ; et
+    - [Responsabilité intergénérationnelle](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional).
+  - la discipline de contrainte de fond non négociable du Chapitre un.
+- **Comment elle est jugée :** des résultats traçés sous les **Chapitres quatre et cinq**.
+- **Comment elle est montrée :** par la preuve, non par des slogans.
+
+La capacité productive ne compte pas — et ne doit pas être utilisée pour justifier :
+
+- concentrer la richesse, le pouvoir, le contrôle, ou l’opportunité d’une façon qui nuit au bien-être, à l’agence, à la dignité, ou aux conditions écologiques d’autres êtres sentients — maintenant ou plus tard ;
+- dégrader les systèmes naturels qui soutiennent la vie, ou pousser des coûts écologiques ou intergénérationnels sur autrui sans atténuation, divulgation et représentation ;
+- le débit brut, le volume de production, l’utilisation, les effectifs, les recettes, la croissance des actifs, la part de marché, ou des substituts similaires qui ne suivent plus de vrais résultats — y compris des substituts qui montrent une « croissance » pendant que le préjudice est exporté vers des êtres sentients, des générations futures, ou l’environnement ;
+- resserrer ou retarder les droits du Chapitre six, y compris les préconditions écologiques sous l’[Article I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Préconditions environnementales et intégrité écologique*) ;
+- contourner le [§6 Résolution des conflits de processus](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), y compris la [discipline des registres de décision du §6.1](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) ;
+- affaiblir les devoirs d’audit, de contestabilité, ou d’examen rétrospectif ; ou
+- les autres voies de dérogation interdites du [§7 Interdiction de dérogation absolue](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override), y compris déplacer hors des livres le préjudice écologique, intergénérationnel, ou distributif que les **Chapitres deux à quatre** exigent de rester visible.
+
+Lorsque des revendications de capacité productive reposent sur des métriques qui ne prouvent plus de vrais résultats — y compris des métriques qui cachent un dégât écologique, un préjudice futur, ou une perte poussée par la concentration — le [§6.2.4 Invalidation par divergence d’indicateurs substituts](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) s’applique.
+
+<a id="122-constitutional-efficiency"></a>
+#### 12.2 Efficacité constitutionnelle
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Efficacité constitutionnelle](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
+- [Capacité des systèmes partagés](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [O](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [M](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#shared-system-capacity-constitutional-c)
+- [Capacité productive](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
+
+</details>
+
+<br>
+
+*En termes simples : l’efficacité constitutionnelle est l’aspect « en avons-nous pour notre argent en termes humains ? » de la capacité des systèmes partagés. Plus de vrai bénéfice pour chaque heure de temps sentient, d’attention, et d’effort partagé — pas de raccourcis sur les droits, la vérité, la sécurité, ou l’écologie seulement pour paraître rapide, maigre, ou bon marché.*
+
+L’**[Efficacité constitutionnelle](../../core_05_band_continuity.md#constitutional-efficiency)** est l’autre aspect principal de la **[Capacité des systèmes partagés](../../core_05_band_continuity.md#shared-system-capacity-constitutional)**. Elle demande si les systèmes produisent plus de bénéfice constitutionnellement exigé par unité de temps sentient, d’attention, d’effort, de coordination, de matériaux, d’infrastructure et d’énergie consommés.
+
+L’efficacité peut pousser une amélioration largement partagée, mais seulement à l’intérieur des bornes constitutionnelles. À elle seule, elle n’est **pas** :
+- la vitesse brute ;
+- la commodité administrative ;
+- les cibles d’utilisation ;
+- la croissance des recettes ;
+- la part de marché ;
+- les coupes d’effectifs ; ou
+- la réduction des coûts pour elle-même.
+
+**Lorsqu’une revendication d’efficacité compte :**
+
+- **Se retrace jusqu’à :** de vrais résultats constitutionnels.
+- **Reste cohérente avec :**
+  - la Sécurité ;
+  - la Vérité ;
+  - le Plancher des droits du Chapitre six ;
+  - l’intégrité écologique ;
+  - la dignité ;
+  - l’agence significative ; et
+  - une distribution équitable.
+
+**Les gains d’efficacité ne doivent pas :**
+
+- vider la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) ; ou
+- substituer des métriques de tableau de bord au progrès vers les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims).
+
+<a id="13-market-structure"></a>
+### 13. Structure de marché
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Lire avec : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — participation, supervision, reddition de comptes et action en temps lorsque la concentration ou la domination bat la voix, l’examen, le devoir de répondre, ou la correction en temps ; mise à l’échelle de l’[enjeu matériel](core_00_preamble.md#material-stake) (surtout [§13.2 Pro-concurrence et anti-domination](#132-pro-competition-and-anti-domination)).
+- Lire avec : [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) — fin **Continuité** (conditions productives contestables et durables) ; fin **Épanouissement** (accès équitable aux voies de subsistance, d’agence et d’innovation).
+- En amont : Principes : [§12 Capacité des systèmes partagés](#12-shared-system-capacity) — les revendications de capacité productive et d’efficacité échouent lorsque la concentration ou la domination les vide ; [10. Gouvernance sous discipline d’administration responsable](#10-governance-under-stewardship-discipline).
+- En aval : [Chapitre dix §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (subversion fondée sur la concentration) ; [6. Résolution des conflits de processus](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 Invalidation par divergence d’indicateurs substituts](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
+- En aval : **CJS-3.11.1 — Discipline de fixation des seuils de concentration de marché (réglable par la partie qui adopte)** (règles opératoires du [§13.1](#131-market-concentration-threshold-mechanism-adopter-tunable)) ; **CJS-3.11.2 — Catalogue de conduite anti-domination et de remédiation** (schémas de conduite et recours opératoires du [§13.2](#132-pro-competition-and-anti-domination)) ; **CJS-3.11.3 — Discipline de fixation des plafonds de consolidation (réglable par la partie qui adopte)** (règles opératoires de fixation des plafonds du [§13.3.2](#1332-ceiling-discipline-adopter-requirements)).
+- En aval : Façonne la surface des droits pour l’allocation des ressources, la rémunération équitable, l’organisation collective, l’interopérabilité, la sortie, et l’examen anti-capture ; surtout [Article III-D : Plancher du travail et de l’économie](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor), [Article IV : Allocation des ressources, dépendances et financement des écosystèmes](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding), et [Article XIX : Interopérabilité, portabilité, mouvement, refuge et intégrité de sortie](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity).
+- Sous-sections (ordre de lecture) : [§13.1 Mécanisme de seuil de concentration de marché (réglable par la partie qui adopte)](#131-market-concentration-threshold-mechanism-adopter-tunable) · [§13.1.1 Déclencheurs de seuil de concentration (réglable par la partie qui adopte)](#1311-concentration-threshold-triggers-adopter-tunable) · [§13.2 Pro-concurrence et anti-domination](#132-pro-competition-and-anti-domination) · [§13.3 Plafond de consolidation](#133-consolidation-ceiling).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Structure de marché](../../core_05_band_accountability.md#market-structure-constitutional) · [O](../../core_05_band_accountability.md#market-structure-constitutional) · [M](../../core_05_band_accountability.md#market-structure-constitutional-a) · [A](../../core_05_band_accountability.md#market-structure-constitutional-a) · [C](../../core_05_band_accountability.md#market-structure-constitutional-c)
+- [Seuil de concentration de marché](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) · [O](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) · [M](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-c)
+- [Contestabilité](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Divergence d’indicateurs substituts](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [Dépendance](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [Agence significative](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+
+</details>
+
+<br>
+
+*En termes simples : les êtres sentients devraient pouvoir travailler, construire, changer de fournisseur, et pousser en retour sans se heurter à un mur parce qu’une entreprise ou une institution possède la seule porte. La **Structure de marché** est cette discipline anti-monopole — pour les marchés, les plateformes, les systèmes d’emploi, l’infrastructure, les données, la puissance de calcul, les habilitations, et d’autres dépendances qui importent à la vie quotidienne. Devenir grand et inventer de nouvelles choses est bien ; accaparer le marché ne l’est pas. Les **[§13.1–§13.3](#131-market-concentration-threshold-mechanism-adopter-tunable)** fixent quand la concentration est allée trop loin, comment la domination est arrêtée, et combien de consolidation est permise avant que les êtres sentients soient verrouillés.*
+
+La **[Structure de marché](../../core_05_band_accountability.md#market-structure-constitutional)** gouverne si les êtres sentients et les systèmes partagés peuvent prendre part à la vie productive d’une façon qui reste ouverte au choix, à la concurrence, et à la poussée en retour. Lorsque l’[enjeu matériel](core_00_preamble.md#material-stake) l’exige, cela comprend :
+- l’échange commercial ;
+- les plateformes ;
+- les marchés de demande de travail ;
+- les systèmes de fournisseurs et de contrôle des ressources ;
+- les voies de rôle d’habilitation ;
+- les canaux d’accès au capital ; et
+- le contrôle d’accès de la sphère informationnelle.
+
+Les revendications de **[Capacité productive](../../core_05_band_continuity.md#productive-capacity-constitutional)** et d’**[Efficacité constitutionnelle](../../core_05_band_continuity.md#constitutional-efficiency)** sous le **[§12](#12-shared-system-capacity)** échouent lorsque la structure de marché permet une concentration, une domination, ou une consolidation qui dégrade de façon prévisible :
+- le [Bien-être](../../core_05_band_continuity.md#wellbeing) ;
+- l’[Agence significative](../../core_05_band_participation.md#meaningful-agency) ;
+- la [Dignité et égal statut moral](../../core_05_band_participation.md#dignity-and-equal-moral-standing) ;
+- l’[Intégrité écologique](../../core_05_band_continuity.md#ecological-integrity-constitutional) ; ou
+- l’examen constitutionnel.
+
+<a id="131-market-concentration-threshold-mechanism-adopter-tunable"></a>
+#### 13.1 Mécanisme de seuil de concentration de marché (réglable par la partie qui adopte)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- En amont : [§13 Structure de marché](#13-market-structure) ; [Seuil de concentration de marché](../../core_05_band_accountability.md#market-concentration-threshold-constitutional).
+- En aval : **CJS-3.11.1 — Discipline de fixation des seuils de concentration de marché (réglable par la partie qui adopte)** (règles opératoires de fixation des seuils) ; [§13.2 Pro-concurrence et anti-domination](#132-pro-competition-and-anti-domination) ; [§13.3 Plafond de consolidation](#133-consolidation-ceiling) ; [CJS-3.11.3 — Discipline de fixation des plafonds de consolidation (réglable par la partie qui adopte)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) (règles opératoires de fixation des plafonds du [§13.3.2](#1332-ceiling-discipline-adopter-requirements)) ; [Chapitre huit §4 Question 2 — combien était-ce bon ou mauvais ?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it) ; [Chapitre dix §5.1 Subversion fondée sur la concentration](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- Porte d’administration responsable (non opératoire) : Énoncé de prochaine étape contraignant : [Énoncé opératoire d’administration responsable](#operative-steward-statement-market-structure). Les pointeurs de soutien ne peuvent pas le resserrer.
+- Sous-sections (ordre de lecture) : [§13.1.1 Déclencheurs de seuil de concentration (réglable par la partie qui adopte)](#1311-concentration-threshold-triggers-adopter-tunable).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Seuil de concentration de marché](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) · [O](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) · [M](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-c)
+- [Structure de marché](../../core_05_band_accountability.md#market-structure-constitutional) · [O](../../core_05_band_accountability.md#market-structure-constitutional) · [M](../../core_05_band_accountability.md#market-structure-constitutional-a) · [A](../../core_05_band_accountability.md#market-structure-constitutional-a) · [C](../../core_05_band_accountability.md#market-structure-constitutional-c)
+- [Dépendance](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Énoncé opératoire d’administration responsable</span></strong></summary>
+
+<a id="operative-steward-statement-market-structure"></a>
+> **Énoncé opératoire d’administration responsable.** **Titulaire :** Chapitre un §13 / §13.1. Morsure opératoire : CJS-3.11.1. **Mouvement interdit :** Ne pas traiter réglable-par-la-partie-qui-adopte comme optionnel-pour-la-partie-qui-adopte. Ne pas dégager le plancher par un décompte d’entités ou un discours d’efficacité. **Horloge :** Invalider maintenant le seuil qui annule. Restaurer l’examen lorsque la seule porte se ferme.
+
+</details>
+
+<br>
+
+*En termes simples : cette section trace le plancher contre les accumulations préjudiciables de richesse, de pouvoir, ou de contrôle. Elle ne décide pas elle-même combien le préjudice était mauvais, et elle ne désigne pas elle-même quelqu’un comme un cas de mauvaise conduite. Lorsque la concentration est utilisée pour miner cette Constitution, le Chapitre dix juge cela — et seulement après que le Chapitre huit a déjà classé le préjudice vérifié comme l’un des trois plus graves. Les parties qui adoptent peuvent régler les déclencheurs numériques précis à leur contexte, mais elles ne peuvent pas les fixer si haut qu’ils ne mordent jamais, les apparier à une exécution inutilisable, ou recouvrir la concentration par des structures fédérées ou coquilles. Comment ces déclencheurs sont fixés est [§13.1.1 Déclencheurs de seuil de concentration (réglable par la partie qui adopte)](#1311-concentration-threshold-triggers-adopter-tunable).*
+
+**Ce que cette sous-section fait :**
+
+- **Fait :** énoncer une direction de seuil de couche de principe pour le plancher du [§13 Structure de marché](#13-market-structure).
+- **Ne fait pas :** décider combien le préjudice vérifié était grave, ni émettre une désignation de mauvaise conduite.
+- **Lorsque la concentration est utilisée pour miner cette Constitution :** cette mauvaise conduite est jugée sous [Chapitre dix §5.1 Subversion fondée sur la concentration](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- **Créer, maintenir, ou exploiter une concentration au-dessus du plancher :** est atteint par les critères 3, 4 et 6 du Chapitre dix pour l’examen de désignation, et seulement lorsque [Chapitre huit §4 Question 2 — combien était-ce bon ou mauvais ?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it) a déjà classé ce préjudice vérifié comme l’un des trois scores les plus graves que le Chapitre huit enregistre.
+
+**Plancher constitutionnel :**
+
+- **Ce que c’est :** la discipline de non-concentration du [§13 Structure de marché](#13-market-structure) fixe un **plancher constitutionnel**.
+- **Ce qu’il bloque :** la concentration de :
+  - richesse ;
+  - pouvoir ;
+  - contrôle ; ou
+  - opportunité.
+- **Préjudice qu’il empêche :** une dégradation prévisible, pour d’autres êtres sentients, de :
+  - bien-être ;
+  - agence ;
+  - dignité ; ou
+  - intégrité écologique.
+- **Ce que ce n’est pas :** un seul nombre fixe — c’est la barre minimale.
+- **Ce qui collisionne aussi :** la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) et la fin **Continuité** sous les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims), lorsque la concentration bat de façon prévisible :
+  - la voix ;
+  - l’examen ;
+  - le devoir de répondre ; ou
+  - la correction en temps.
+
+**[Article IV](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) (*Allocation des ressources, dépendances et financement des écosystèmes*) :**
+
+- **Droits de ressource :** restent intacts.
+- **Ce qu’il fixe :** le **Plancher des droits** de base pour comment les ressources sont partagées :
+  - qui les obtient ;
+  - qui dépend de quoi ; et
+  - comment les écosystèmes sont financés.
+- **Ce que cette sous-section ajoute :** une direction de seuil de concentration au niveau des principes seulement.
+- **Ce qu’elle ne fait pas :** affaiblir, remplacer, ou resserrer l’Article IV.
+
+Cette disposition énonce le mécanisme de seuil de concentration à la couche de principe. Elle ne crée pas un nouveau Plancher des droits et ne resserre aucun plancher existant du Chapitre six. La discipline de non-concentration du [§13 Structure de marché](#13-market-structure) reste contrôlante.
+
+<a id="1311-concentration-threshold-triggers-adopter-tunable"></a>
+##### 13.1.1 Déclencheurs de seuil de concentration (réglable par la partie qui adopte)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Lire avec : [Seuil de concentration de marché](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) ; [Dépendance](../../core_05_band_continuity.md#dependency).
+- En aval : [CJS-3.11.1 — Discipline de fixation des seuils de concentration de marché (réglable par la partie qui adopte)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable) (règles opératoires de fixation des seuils).
+
+</details>
+
+<br>
+
+*En termes simples : les parties qui adoptent peuvent régler les déclencheurs numériques à leur contexte — domaine, taille de population, densité de dépendance — mais il n’y a pas un seul nombre mondial, et le plancher tient encore. Les règles détaillées de fixation des seuils vivent dans CJS-3.11.1.*
+
+Les **seuils de concentration** sont des déclencheurs quantitatifs qui marquent lorsque la concentration a atteint un niveau exigeant un examen accru, une intervention, ou un recours structurel. Ils couvrent la concentration matérielle, juridictionnelle, de capacité, de plateforme, et de sphère informationnelle. Les parties qui adoptent peuvent régler ces déclencheurs **à l’intérieur du plancher constitutionnel**.
+
+Les parties qui adoptent peuvent fixer des seuils différents par :
+- domaine (matériel, juridictionnel, de capacité, de plateforme, de sphère informationnelle) ;
+- taille de la population sentiente ;
+- densité de dépendance ;
+- d’autres facteurs appropriés au contexte.
+
+Cette disposition n’impose pas un seul nombre mondial. Différentes fédérations constitutionnelles peuvent fixer des seuils différents sans non-conformité à soi seul, pourvu que le plancher tienne. Voir [Seuil de concentration de marché](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) pour l’ancre définitoire.
+
+La discipline opératoire de fixation des seuils — préservation du plancher, examen de la substance plutôt que de la forme, anti-annulation, et déclencheurs d’examen accru — vit dans **CJS-3.11.1 — Discipline de fixation des seuils de concentration (réglable par la partie qui adopte)**.
+
+<a id="132-pro-competition-and-anti-domination"></a>
+#### 13.2 Pro-concurrence et anti-domination
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- En amont : [§13 Structure de marché](#13-market-structure) ; [Structure de marché](../../core_05_band_accountability.md#market-structure-constitutional).
+- En aval : **CJS-3.11.2 — Catalogue de conduite anti-domination et de remédiation** (schémas de conduite et recours opératoires) ; [§13.3 Plafond de consolidation](#133-consolidation-ceiling) ; [Chapitre dix §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- Lire avec : [Article III-D : Plancher du travail et de l’économie](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (Plancher des droits de mobilité du travail) ; [Article XIX : Interopérabilité, portabilité, mouvement, refuge et intégrité de sortie](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) ; [6. Résolution des conflits de processus](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([Nécessité](../../core_05_band_accountability.md#necessity), [Proportionnalité](../../core_05_band_accountability.md#proportionality), [§6.2.4 Invalidation par divergence d’indicateurs substituts](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
+- Sous-sections (ordre de lecture) : [§13.2.1 Devoirs pro-concurrence (à faire)](#1321-pro-competition-duties-dos) · [§13.2.2 Interdictions anti-domination (à ne pas faire)](#1322-anti-domination-prohibitions-donts) · [§13.2.3 Recours](#1323-remedies).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Structure de marché](../../core_05_band_accountability.md#market-structure-constitutional) · [O](../../core_05_band_accountability.md#market-structure-constitutional) · [M](../../core_05_band_accountability.md#market-structure-constitutional-a) · [A](../../core_05_band_accountability.md#market-structure-constitutional-a) · [C](../../core_05_band_accountability.md#market-structure-constitutional-c)
+- [Contestabilité](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Agence significative](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+- [Nécessité](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [Proportionnalité](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [Dépendance](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [Divergence d’indicateurs substituts](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+
+</details>
+
+<br>
+
+*En termes simples : la Constitution ne punit pas un système seulement pour être grand, utile, ou temporairement en avance parce qu’il a réellement innové. Elle interdit une domination durable : un contrôle sur les marchés, le travail, les plateformes, l’infrastructure, les données, le calcul, les habilitations, ou les ressources qui laisse un acteur verrouiller autrui, bloquer des rivaux, supprimer une négociation équitable, ou capturer la reddition de comptes constitutionnelle.*
+
+**Ce que cette sous-section fait :**
+
+- **Ce qu’elle énonce :** les règles de la Constitution pour garder la concurrence réelle et arrêter une domination durable — au niveau des principes seulement. Ce n’est pas un code de concurrence complet.
+- **Droit local plus fort :** elle n’efface pas le propre droit antitrust ou de concurrence d’un corps qui adopte lorsque ce droit donne une protection plus forte.
+- **D’autres titulaires s’appliquent encore :** si les mêmes faits soulèvent aussi des devoirs de droits, de recours, ou de mauvaise conduite auxquels cette section pointe, ces devoirs s’appliquent encore d’eux-mêmes.
+
+<a id="1321-pro-competition-duties-dos"></a>
+##### 13.2.1 Devoirs pro-concurrence (à faire)
+
+*En termes simples (à faire) : les marchés et les dépendances doivent rester assez ouverts pour que les êtres sentients puissent entrer, changer, négocier équitablement, et partir — devenir grand ou inventer quelque chose de nouveau est bien lorsque la contestabilité reste réelle.*
+
+La capacité des systèmes partagés doit rester contestable en pratique. Sous la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad), une domination qui vide la **participation**, la **supervision**, la **reddition de comptes**, ou l’**action en temps** — mise à l’échelle de l’[enjeu matériel](core_00_preamble.md#material-stake) — est incompatible avec cette section, quelle que soit l’échelle ou la revendication d’efficacité.
+
+Lorsque les êtres sentients dépendent de marchés, de plateformes, d’infrastructure, d’arrangements de travail, de flux de ressources, d’accès aux données, d’accès au calcul, d’habilitations, ou de conditions productives comparables pour la subsistance, l’agence, le bien-être, ou l’examen constitutionnel, les systèmes gouvernants et les arrangements de structuration de marché doivent préserver :
+- une participation contestable ;
+- une substituabilité et une sortie significatives ;
+- des voies d’entrée et de réentrée équitables ;
+- l’interopérabilité et la portabilité lorsque c’est matériel pour la sortie ou la concurrence ;
+- une négociation non coercitive pour les travailleurs, les fournisseurs, les usagers, les participants dépendants, et les parties affectées ;
+- un accès examinable à l’infrastructure essentielle ou à forte dépendance lorsque le refus battrait les protections du Chapitre six, l’audit, le recours, ou l’agence significative.
+
+Ce qui suit n’est pas interdit à soi seul :
+- l’échelle ;
+- l’intégration ;
+- la protection de la propriété intellectuelle ;
+- un avantage temporaire d’une innovation véritable ;
+- l’efficacité d’une coordination licite.
+
+Ces avantages restent valides seulement tant qu’ils ne deviennent pas ce qui suit, et donc ne minent pas les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) ni la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) :
+- une domination durable ;
+- une dépendance coercitive ;
+- une dégradation du Plancher des droits ;
+- un déplacement de charge écologique ;
+- une capture des voies de reddition de comptes.
+
+Les justifications suivantes doivent satisfaire les devoirs de traçabilité et de preuve du [6. Résolution des conflits de processus](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) et du Chapitre quatre :
+- l’efficacité ;
+- la compétitivité ;
+- l’urgence ;
+- la sécurité ;
+- la capacité productive.
+
+<a id="1322-anti-domination-prohibitions-donts"></a>
+##### 13.2.2 Interdictions anti-domination (à ne pas faire)
+
+*En termes simples (à ne pas faire) : pas de verrouillage des êtres sentients, de blocage des rivaux, de suppression d’une négociation équitable, ni de capture de la reddition de comptes constitutionnelle.*
+
+Aucun des suivants :
+- être(s) sentient(s) ;
+- institution(s) ;
+- plateforme(s) ;
+- entreprise(s) ;
+- organe(s) d’État ;
+- administrateur(s) responsable(s) ;
+- groupe(s) coordonné(s).
+
+ne peut :
+- créer ;
+- maintenir ;
+- acquérir ;
+- exploiter ;
+- dissimuler ;
+- restructurer autour.
+
+un pouvoir durable de l’une des sortes suivantes :
+- marché ;
+- plateforme ;
+- infrastructure ;
+- travail ;
+- fournisseur ;
+- données ;
+- calcul ;
+- habilitation ;
+- accès au capital ;
+- contrôle des ressources.
+
+lorsque ce pouvoir dégrade de façon prévisible :
+- le bien-être ;
+- l’agence significative ;
+- la rémunération équitable ;
+- l’innovation ;
+- l’accès ;
+- l’intégrité écologique ;
+- la contestabilité ;
+- l’examen constitutionnel.
+
+<a id="1323-remedies"></a>
+##### 13.2.3 Recours
+
+*En termes simples : lorsque la domination est étayée, la réponse doit correspondre au préjudice, restaurer un vrai choix, et ne pas punir la taille pour elle-même.*
+
+Ce qui suit vit dans **CJS-3.11.2 — Catalogue de conduite anti-domination et de remédiation** :
+- des schémas illustratifs de conduite interdite ;
+- des outils de recours proportionnés ;
+- un routage d’évaluation inter-domaines.
+
+Autres titulaires :
+- interdictions catégorielles de mobilité du travail : [Article III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Plancher du travail et de l’économie*) ;
+- termes opératoires d’interopérabilité, de portabilité et d’intégrité de sortie : **CJS-3.17** ;
+- schémas de risque de consolidation horizontale et verticale : **§13.3**.
+
+Les recours doivent :
+- être proportionnés à :
+  - la concentration ;
+  - la dépendance ;
+  - la conduite ;
+  - le préjudice constitutionnel ;
+- restaurer la contestabilité lorsque la domination est étayée ;
+- préserver le Plancher des droits du Chapitre six.
+
+Les recours ne peuvent pas punir l’échelle seule.
+
+La sélection opératoire des recours suit **CJS-3.11.2** (*Catalogue de conduite anti-domination et de remédiation*).
+
+<a id="133-consolidation-ceiling"></a>
+#### 13.3 Plafond de consolidation
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Lire avec : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — **supervision**, **reddition de comptes** et **action en temps** lorsque la consolidation altère l’examen, le devoir de répondre, ou la correction en temps avant le verrouillage ; **participation** lorsque la consolidation ferme l’entrée, la sortie, ou une négociation équitable ; mise à l’échelle de l’[enjeu matériel](core_00_preamble.md#material-stake).
+- Lire avec : [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) — fin **Continuité** (conditions productives contestables et durables contre une consolidation avant verrouillage) ; fin **Épanouissement** (voies de subsistance, d’agence et d’innovation pendant que des alternatives restent réelles).
+- En amont : [§13 Structure de marché](#13-market-structure) ; [§10 Gouvernance sous discipline d’administration responsable](#10-governance-under-stewardship-discipline) ; [§9 Administration responsable et compréhension distribuée](#9-stewardship-and-distributed-understanding).
+- Sous-sections (ordre de lecture) : [§13.3.1 Risque de consolidation (altération avant verrouillage)](#1331-consolidation-risk-pre-lock-in-impairment) · [§13.3.2 Mécanisme de plafond de consolidation (réglable par la partie qui adopte)](#1332-ceiling-discipline-adopter-requirements).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Gouvernance](../../core_05_band_accountability.md#governance) · [O](../../core_05_band_accountability.md#governance) · [M](../../core_05_band_accountability.md#governance-a) · [A](../../core_05_band_accountability.md#governance-a) · [C](../../core_05_band_accountability.md#governance-c)
+- [Administration responsable](../../core_05_band_continuity.md#stewardship-constitutional) · [O](../../core_05_band_continuity.md#stewardship-constitutional) · [M](../../core_05_band_continuity.md#stewardship-constitutional-a) · [A](../../core_05_band_continuity.md#stewardship-constitutional-a) · [C](../../core_05_band_continuity.md#stewardship-constitutional-c)
+- [Contestabilité](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Structure de marché](../../core_05_band_accountability.md#market-structure-constitutional) · [O](../../core_05_band_accountability.md#market-structure-constitutional) · [M](../../core_05_band_accountability.md#market-structure-constitutional-a) · [A](../../core_05_band_accountability.md#market-structure-constitutional-a) · [C](../../core_05_band_accountability.md#market-structure-constitutional-c)
+- [Dépendance](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+
+</details>
+
+<br>
+
+*En termes simples : la consolidation peut voler un vrai choix longtemps avant qu’un marché paraisse verrouillé. Les **plafonds de consolidation** donnent à la gouvernance et aux administrateurs responsables un pouvoir d’alerte précoce — pour examiner, intervenir, et corriger les accumulations pendant que la sortie et la rivalité existent encore.*
+
+Une consolidation qui altère de façon prévisible la contestabilité avant que le verrouillage soit évident est un problème de [Gouvernance](../../core_05_band_accountability.md#governance) et d’[Administration responsable](../../core_05_band_continuity.md#stewardship-constitutional), non seulement un problème de domination après coup, et est une discipline de plafond de consolidation de couche de principe sous :
+- [§13](#13-market-structure) ;
+- [§13.2](#132-pro-competition-and-anti-domination).
+
+Les parties qui adoptent et les systèmes gouvernants doivent détecter les accumulations de consolidation des sortes suivantes :
+- horizontale (*moins de rivaux à la même couche*) ;
+- verticale (*un contrôle à travers les couches qui crée des points d’étranglement et un verrouillage*) ;
+- inter-domaines (*formes fédérées, coquilles, ou à domaines scindés qui gardent la même accumulation de contrôle*).
+
+pendant que ce qui suit peut encore restaurer la contestabilité :
+- l’examen ;
+- l’intervention ;
+- un recours structurel.
+
+Cette discipline sert la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad), mise à l’échelle de l’[enjeu matériel](core_00_preamble.md#material-stake), surtout :
+- **supervision**, **reddition de comptes** et **action en temps** par un examen précoce avant que le verrouillage batte :
+  - l’examen ;
+  - la correction ;
+- **participation** lorsque la consolidation ferme :
+  - une entrée équitable ;
+  - la sortie ;
+  - la négociation.
+
+Elle avance ce qui suit sous les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) :
+- fin **Continuité** (conditions productives contestables et durables) ;
+- fin **Épanouissement** (voies de subsistance, d’agence et d’innovation pendant que des alternatives restent réelles).
+
+Les règles opératoires de fixation des plafonds vivent dans :
+- [§13.3.2](#1332-ceiling-discipline-adopter-requirements) ;
+- **CJS-3.11.3 — Discipline de fixation des plafonds de consolidation (réglable par la partie qui adopte)**.
+
+<a id="1331-consolidation-risk-pre-lock-in-impairment"></a>
+##### 13.3.1 Risque de consolidation (altération avant verrouillage)
+
+*En termes simples : la consolidation peut vider de vraies alternatives longtemps avant qu’un marché paraisse « verrouillé ». Deux sortes d’accumulation importent surtout : la **consolidation horizontale** — moins de rivaux à la même couche — et la **consolidation verticale** — un contrôle à travers les couches qui crée des points d’étranglement et un verrouillage.*
+
+La consolidation peut altérer de façon prévisible ce qui suit avant que le verrouillage soit évident :
+- la contestabilité ;
+- la substituabilité ;
+- une négociation équitable ;
+- l’entrée ;
+- la sortie ;
+- l’innovation ;
+- l’agence des parties affectées ;
+- l’interopérabilité ;
+- la portabilité ;
+- l’examen constitutionnel.
+
+L’examen ne doit pas attendre que l’un des suivants soit déjà verrouillé :
+- marché(s) ;
+- plateforme(s) ;
+- bassin(s) de travail ;
+- couche(s) de données ;
+- couche(s) de calcul ;
+- dépendance(s) d’infrastructure.
+
+Les schémas de risque principaux sont :
+
+- **Consolidation horizontale** (*réduction des rivaux à la même couche*). Une consolidation qui réduit les alternatives, la rivalité, ou le pouvoir de négociation à l’intérieur d’une seule couche ou d’un seul marché — par exemple moins de vendeurs ou de prestataires de services contestables, un monopsone du marché du travail, des acquisitions en série ou tueuses qui retirent une concurrence potentielle, ou une concentration de pouvoir d’acheteur qui ferme des rivaux pendant que les prix affichés restent stables.
+- **Consolidation verticale** (*dépendance inter-couches et contrôle des points d’étranglement*). Une consolidation qui lie le contrôle à travers les couches d’une chaîne de valeur, d’une pile de plateforme, ou d’une chaîne de dépendance — par exemple capture d’intrant ou d’interface, contrôle d’accès au capital, suppression de l’interopérabilité ou de la portabilité, auto-préférence, ou contrôle de classement qui élève les coûts de bascule et bat la sortie.
+- **Structures inter-domaines et fédérées :** des arrangements à travers des domaines, plateformes, coquilles, successeurs, ou formes fédérées qui préservent une consolidation effective tout en passant des tests nominaux horizontaux ou verticaux.
+
+L’un ou l’autre schéma peut impliquer une densité de dépendance, des coûts de bascule, un verrouillage, une fermeture de substituts, ou une concentration de charge écologique ou un contrôle des préconditions environnementales lorsque c’est matériellement pertinent.
+
+L’évaluation de plafond juge :
+- le contrôle de fond ;
+- non le décompte formel d’entités.
+
+Ce qui suit reste dans la portée lorsqu’ils préservent une consolidation effective tout en évitant des seuils nominaux :
+- forme(s) fédérée(s) ;
+- coquille(s) ;
+- arrangement(s) contractuel(s) ;
+- arrangement(s) de licence ;
+- arrangement(s) de brevet ;
+- arrangement(s) de propriété commune ;
+- arrangement(s) inter-plateformes ;
+- successeur(s) ;
+- arrangement(s) délégué(s) ;
+- arrangement(s) inter-domaines.
+
+<a id="1332-ceiling-discipline-adopter-requirements"></a>
+<a id="1332-consolidation-ceiling-mechanism-adopter-tunable"></a>
+##### 13.3.2 Mécanisme de plafond de consolidation (réglable par la partie qui adopte)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- En amont : [§13.3 Plafond de consolidation](#133-consolidation-ceiling) ; [§13.3.1 Risque de consolidation (altération avant verrouillage)](#1331-consolidation-risk-pre-lock-in-impairment).
+- En aval : **CJS-3.11.3 — Discipline de fixation des plafonds de consolidation (réglable par la partie qui adopte)** (règles opératoires de fixation des plafonds) ; [CJS-3.11.2 — Catalogue de conduite anti-domination et de remédiation](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (routage de recours en cas de franchissement de plafond) ; [Chapitre dix §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+
+</details>
+
+<br>
+
+*En termes simples : les parties qui adoptent doivent fixer des plafonds fondés sur la preuve qui déclenchent un examen avant que les risques de consolidation du **§13.3.1** se matérialisent en verrouillage — avec des déclencheurs horizontaux et verticaux séparés lorsque le domaine l’exige.*
+
+Les **plafonds de consolidation** sont des déclencheurs d’alerte précoce réglables par la partie qui adopte pour un examen accru, une intervention, ou un recours structurel lorsque la consolidation atteint un niveau auquel les altérations du **§13.3.1** sont prévisiblement imminentes. Ils siègent sous la discipline de non-concentration du **§13** et les règles anti-domination du **§13.2** ; ce n’est pas une interdiction de l’échelle.
+
+Les parties qui adoptent doivent définir des plafonds de consolidation pour :
+- les marchés ;
+- les plateformes ;
+- les couches d’infrastructure ;
+- les marchés de demande de travail ;
+- les systèmes de fournisseurs ou de contrôle des ressources ;
+- les dépendances de données ou de calcul ;
+- les voies de rôle d’habilitation ;
+- les canaux d’accès au capital ;
+- des domaines comparables.
+
+lorsque la consolidation peut affecter matériellement :
+- l’opportunité sentiente ;
+- la subsistance ;
+- l’agence ;
+- le bien-être ;
+- l’intégrité écologique ;
+- la reddition de comptes constitutionnelle.
+
+La discipline opératoire de fixation des plafonds — conception des déclencheurs horizontaux et verticaux, présomption de franchissement, réfutation, anti-annulation, et routage de recours — vit dans **CJS-3.11.3 — Discipline de fixation des plafonds de consolidation (réglable par la partie qui adopte)**.
+
+<a id="14-systemic-evaluation-requirement"></a>
+### 14. Exigence d’évaluation systémique
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Lire avec : famille de mesure de Continuité (*Résilience, réversibilité et risque systémique*).
+- Lire avec : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad), [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims), et mise à l’échelle de l’[enjeu matériel](core_00_preamble.md#material-stake).
+- Lire avec : [6. Résolution des conflits de processus](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§9 Administration responsable et compréhension distribuée](#9-stewardship-and-distributed-understanding), [§10 Gouvernance sous discipline d’administration responsable](#10-governance-under-stewardship-discipline), et [§11 Alignement des incitations et capture du système](#11-incentive-alignment-and-system-capture).
+- Lire avec : **[Chapitre sept §3 Évaluation de certification du système entier](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — facteurs opératoires d’évaluation du système entier pour la certification d’alignement du système (un processus d’audit particulièrement large sous la jambe **supervision** de la Tétrade ; pas le foyer unique de l’audit).
+- Lire avec : **Article XV** (*Audit, transparence et vérification indépendante*) et [Auditabilité](../../core_05_band_oversight.md#auditability) — planchers d’audit que le Chapitre sept doit satisfaire et que des modes d’audit frères mettent aussi en œuvre.
+- Lire avec : **[corpus_systems.md](../../corpus_systems.md), CS-3 — Classification et traitement des systèmes** et [Gouvernance mise à l’échelle de la classification](../../core_05_band_oversight.md#classification-scaled-governance) — application mise à l’échelle de la classe, forme de registre, déclencheurs de reclassification, et profils de traitement.
+- En amont : [§9 Administration responsable et compréhension distribuée](#9-stewardship-and-distributed-understanding) ; [§10 Gouvernance sous discipline d’administration responsable](#10-governance-under-stewardship-discipline) ; [6. Résolution des conflits de processus](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+- En aval : [§15 Application intégrée](#15-integrated-application) — vérifie la poursuite des [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) et la mise à l’échelle de la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) sous la structure d’incitation et de contrôle du système, non seulement sa justification énoncée.
+- Lus ensemble, les **§§9–15** passent de la capacité et de l’administration responsable, à la procédure d’arbitrage, à la validation du système entier.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Gouvernance mise à l’échelle de la classification](../../core_05_band_oversight.md#classification-scaled-governance) · [O](../../core_05_band_oversight.md#classification-scaled-governance) · [M](../../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../../core_05_band_oversight.md#classification-scaled-governance-c)
+- [Supervision](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Auditabilité](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [Certification d’alignement du système](../../core_05_band_continuity.md#system-alignment-certification-constitutional) · [O](../../core_05_band_continuity.md#system-alignment-certification-constitutional) · [M](../../core_05_band_continuity.md#system-alignment-certification-constitutional-a) · [A](../../core_05_band_continuity.md#system-alignment-certification-constitutional-a) · [C](../../core_05_band_continuity.md#system-alignment-certification-constitutional-c)
+- [Risque](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [Dépendance](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+
+</details>
+
+<br>
+
+*En termes simples : ce principe est un pointeur. L’évaluation du système entier doit regarder au-delà des effets immédiats et locaux, mais les facteurs opératoires de certification du système, les devoirs de registre, la profondeur mise à l’échelle de la classe, la cadence, et les conséquences de certification vivent au **Chapitre sept** et dans **CS-3**, non ici. Sous la jambe **supervision** de la Tétrade, la supervision exige l’audit ; la certification d’alignement du système est un processus d’audit particulièrement large et à fort enjeu parmi d’autres — pas le foyer unique de l’audit (**Article XV**, [Auditabilité](../../core_05_band_oversight.md#auditability)).*
+
+Le Chapitre un fixe la direction. Les revendications des sortes suivantes doivent être testées contre ce que le système entier fait réellement — non contre des slogans, et non contre un instantané d’une partie ou d’un moment :
+- classification ;
+- conformité ;
+- gouvernance ;
+- limitation ;
+- reconnaissance ;
+- validation ;
+- dépendance continue ;
+- déploiement ;
+- libération des conditions.
+
+Les facteurs d’évaluation détaillés et les registres de certification sont détenus par :
+- **[Chapitre sept §3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** ;
+- **[Chapitre sept §11](../../core_07_b_system_alignment_certification_record_process.md#11-certification-record)** ;
+- **[corpus_systems.md](../../corpus_systems.md), CS-3 — Classification et traitement des systèmes**.
+
+Ce processus du Chapitre sept :
+- est un audit de couche de principe sous [Supervision](../../core_05_apex_oversight_leg.md#oversight-constitutional) ;
+- est un processus d’audit particulièrement large parmi des modes frères ;
+- ne déplace ni ne remplace l’**Article XV** (*Audit, transparence et vérification indépendante*).
+
+<a id="15-integrated-application"></a>
+### 15. Application intégrée
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- En amont : Principes : [8. Interprétation constitutionnelle](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [1. Objet et rôle](core_01_a_values_principles.md#1-purpose-and-role), [§9 Administration responsable et compréhension distribuée](#9-stewardship-and-distributed-understanding), [6. Résolution des conflits de processus](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [Chapitre sept §3 Évaluation de certification du système entier](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [5. Liberté](core_01_a_values_principles.md#5-freedom-bounded-agency), et [7. Interdiction de dérogation absolue](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- En aval : les chapitres ultérieurs devraient se lire à travers ces principes liés du Chapitre un — y compris la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad), les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims), et la mise à l’échelle de l’[enjeu matériel](core_00_preamble.md#material-stake) établies au [Préambule](core_00_preamble.md#chapter-00-preamble--foundational-requirements) et au [§1 Objet et rôle](core_01_a_values_principles.md#1-purpose-and-role).
+- En aval : [Chapitre six : Droits fondationnels](../../core_06_rights_part_a.md#chapter-six-foundational-rights) doit se lire à travers le cadre de valeurs intégrées de ce chapitre.
+  - L’interprétation bornée, les raisons publiques, la contestation, l’examen externe, et la procédure de collision des droits font le travail clé en aval.
+  - Surtout [Article XXII-A : Mandat interprétatif borné](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate), [Article XXII-C : Raisons publiques, droits de contestation et examen externe](../../core_06_rights_part_c.md#article-xxii-c-public-reasons-challenge-rights-and-external-review), et [Article XXIV-B : Procédure de collision des droits et alignement restauratif](../../core_06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment).
+  - Défauts de non-contraction du Chapitre six sous [§8.3 Résolution de l’ambiguïté](core_01_b_interaction_interpretation.md#83-ambiguity-resolution).
+- Lire avec : [§8.2 Couche définitoire et disciplines exigées](core_01_b_interaction_interpretation.md#82-definitional-layer-and-required-disciplines) — Chapitres deux à cinq comme couche interprétative et probatoire.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Corpus](../../core_05_band_integrative.md#corpus) · [O](../../core_05_band_integrative.md#corpus) · [M](../../core_05_band_integrative.md#corpus-a) · [A](../../core_05_band_integrative.md#corpus-a) · [C](../../core_05_band_integrative.md#corpus-c)
+- [Pile d’autorité et hiérarchie interne](../../core_05_band_integrative.md#authority-stack) · [O](../../core_05_band_integrative.md#authority-stack) · [M](../../core_05_band_integrative.md#authority-stack-a) · [A](../../core_05_band_integrative.md#authority-stack-a) · [C](../../core_05_band_integrative.md#authority-stack-c)
+- [Préjudice irréversible](../../core_05_band_accountability.md#irreversible-harm) · [O](../../core_05_band_accountability.md#irreversible-harm) · [M](../../core_05_band_accountability.md#irreversible-harm-a) · [A](../../core_05_band_accountability.md#irreversible-harm-a) · [C](../../core_05_band_accountability.md#irreversible-harm-c)
+- [Vérité (contrainte constitutionnelle)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Agence significative](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+- [Reddition de comptes](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [Capture du système](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [Anti-capture](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+- [Alignement des incitations](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment) · [A](../../core_05_band_integrative.md#incentive-alignment) · [C](../../core_05_band_integrative.md#incentive-alignment)
+- [Gouvernance](../../core_05_band_accountability.md#governance) · [O](../../core_05_band_accountability.md#governance) · [M](../../core_05_band_accountability.md#governance-a) · [A](../../core_05_band_accountability.md#governance-a) · [C](../../core_05_band_accountability.md#governance-c)
+
+</details>
+
+<br>
+
+*En termes simples : chaque chapitre ultérieur, conception institutionnelle, et système se lit à travers les principes de ce chapitre — et ces principes doivent tenir même sous une pression contradictoire, des tentatives de capture, ou des incitations désalignées.*
+
+Les chapitres et dispositions ultérieurs sont gouvernés à travers le cadre de valeurs intégrées de ce chapitre (règles de lecture : [§8 Interprétation constitutionnelle](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) ; collisions de valeurs : [§6 Résolution des conflits de processus](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)). Les garde-fous d’interprétation institutionnelle du **Chapitre six** **Article XXII** (*Interprétation constitutionnelle, examen et garde-fous anti-capture*) mettent en œuvre — ils ne remplacent pas — ce cadre.
+
+Tous les principes fondationnels de ce chapitre doivent être mis en œuvre par une classification exécutoire, des exigences de gouvernance, et des mécanismes de reddition de comptes définis ici, et doivent rester exécutoires sous un comportement contradictoire, une capture du système, et des incitations désalignées.
+
+---
+
+**Fichier précédent :** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md)
+
+**Fichier suivant (cette langue) :** [core_02_definition_structure.md](core_02_definition_structure.md)
+
+**Original contraignant :** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)
 

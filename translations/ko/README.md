@@ -17,7 +17,7 @@
 
 **로케일.** 표준 문어 한국어(한글). 국가를 고정하지 않는다. 남·북 두 판이 아니다.
 
-**아키텍처에 따른 첫 조각.** 배포 순서는 쉬운 입문 안내, 권리 바닥 한 장, 공개 문을 먼저 요구한다. 이 시험본은 번호 `core_*` 하나의 비용을 재려고, 일부러 [전문](core_00_preamble.md)과 [제1장 A부분](core_01_a_values_principles.md)을 옮긴다.
+**아키텍처에 따른 첫 조각.** 배포 순서는 쉬운 입문 안내, 권리 바닥 한 장, 공개 문을 먼저 요구한다. 이 시험본은 번호 `core_*` 하나의 비용을 재려고, 일부러 [전문](core_00_preamble.md), [제1장 A부분](core_01_a_values_principles.md), [제1장 B부분](core_01_b_interaction_interpretation.md), [제1장 C부분](core_01_c_stewardship_capacity_principles.md)을 옮긴다.
 
 ## 파일
 
@@ -26,6 +26,8 @@
 | [core_00_preamble.md](core_00_preamble.md) | [core_00_preamble.md](../../core_00_preamble.md) |
 | [core_01_a_values_principles.md](core_01_a_values_principles.md) | [core_01_a_values_principles.md](../../core_01_a_values_principles.md) |
 | [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) | [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md) |
+| [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) | [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md) |
+| [core_02_definition_structure.md](core_02_definition_structure.md) | [core_02_definition_structure.md](../../core_02_definition_structure.md) |
 
 시험본의 링크는 아직 번역이 없는 영어 파일을 가리킨다. HTML 앵커(`id`)는 원문에서 복사해 단락마다 대조할 수 있게 한다.
 

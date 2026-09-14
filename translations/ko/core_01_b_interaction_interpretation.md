@@ -10,7 +10,7 @@
 >
 > **이전(이 언어):** [core_01_a_values_principles.md](core_01_a_values_principles.md) (제1장, A부분 — §§1–5)
 >
-> **다음(아직 영어):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md) (제1장, C부분 — §§9–14, 책임 있는 관리와 거버넌스).
+> **다음(이 언어):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (제1장, C부분 — §§9–15, 책임 있는 관리와 거버넌스).
 > **읽기 호:** §6 과정 충돌 해결 → §7 절대 덮어쓰기 금지 → §8 헌법 해석.
 
 </details>
@@ -56,7 +56,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — 절차, 공개, 충돌 취급, 구제에서의 참여, 감독, 책무, 적시성; [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절.
-- 상류: 원칙: [2. 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. 신뢰](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. 자유(한정된 행위주체성)](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 책임 있는 관리와 분산된 이해](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
+- 상류: 원칙: [2. 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. 신뢰](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. 자유(한정된 행위주체성)](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
 - 하류: [6.2.1 인식 완전성의 보존](#621-preservation-of-epistemic-integrity), [§6.1 결정 기록 규율](#615-rights-collision-decision-test), [기본 잠정 자세](#default-interim-posture), [7. 절대 덮어쓰기 금지](#7-prohibition-on-absolute-override).
 - 하류: [제6장: 기초 권리](../../core_06_rights_part_a.md#chapter-six-foundational-rights)에 걸친 조 사이 충돌을 다스린다.
   - [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)와 [제 XXIII조: 충돌 해결, 격상, 비상 비례](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality)와 함께 읽으라.
@@ -198,7 +198,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 함께 읽기: [§10.1 수권된 구조로서의 거버넌스](../../core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
+- 함께 읽기: [§10.1 수권된 구조로서의 거버넌스](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
 
 </details>
 
@@ -268,7 +268,7 @@
 - 특정 권리의 일시 제한은 [가장 덜 제한적이고, 시한 있고, 검토 가능한 제약 원칙](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)과 [제 XXIII-D조](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden)(*비상 조치와 계속 부담*)의 비상 규정을 충족할 때에만 허용된다 — 즉 어떤 제한이든 정당화되고, 최소이고, 문서화되고, 시한 있고, 독립 검토 가능해야 한다. 특정 조는 더 강한 안전장치를 더할 수 있으나, 이 원칙을 좁히거나 편의, 효율, 분류, 비상, 이행, 궤적, 개정, 계약, 시행 꼬리표로 우회할 수 없다.
 
 <a id="anti-degrading-process-principle"></a>
-**저하 과정 금지 원칙.** C부분이 말한 [저하 과정 금지 원칙(§9.6)](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline)은 이 교환 스택에서 절대 바닥으로 작동한다.
+**저하 과정 금지 원칙.** C부분이 말한 [저하 과정 금지 원칙(§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline)은 이 교환 스택에서 절대 바닥으로 작동한다.
 - 필요성, 해 최소화, 비례를 통과한 어떤 제한, 구제, 과정도 저하, 굴욕, 구경거리, 보복, 차별적 부담, 편의 주도 권리 침식으로 설계되고, 틀 지어지고, 수행되고, 작동하도록 허용되면 안 된다.
 - 저하하는 과정을 통해 전달된 올바른 실체 결과는 여전히 비준수다.
 - 금지된 성격이 그 자체로서의 고통이나 무상 / 저하하는 가함 — 그 자체를 위한 굴욕을 포함 — 인 곳에서, [잔인](../../core_05_band_accountability.md#cruelty)과 함께 읽으라.
@@ -528,9 +528,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: [§6.1 핵심 교환 원칙](#61-core-tradeoff-principles) (교환 스택이 충족된 뒤에 적용); [§9.1 책임 있는 관리](../../core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 헌법 효율](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
+- 상류: [§6.1 핵심 교환 원칙](#61-core-tradeoff-principles) (교환 스택이 충족된 뒤에 적용); [§9.1 책임 있는 관리](core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 헌법 효율](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
 - 함께 읽기: 헌법 성과 측정 가족(*헌법 측정으로서의 피할 수 있는 부담*); [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **참여** 다리(헌법상 요구되지 않는 부담은 [의미 있는 행위주체성](../../core_05_band_participation.md#meaningful-agency)을 좁힌다); **적시성** 다리(피할 수 있는 지연은 피할 수 있는 부담이다).
-- 하류: [§11.1.3 책임 있는 관리와 운영자 적용](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (유인은 불필요한 부담 만들기를 보상하면 안 된다); [제 XX조: 이해 가능성과 복잡성 책임 있는 관리](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- 하류: [§11.1.3 책임 있는 관리와 운영자 적용](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (유인은 불필요한 부담 만들기를 보상하면 안 된다); [제 XX조: 이해 가능성과 복잡성 책임 있는 관리](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -564,7 +564,7 @@
 
 주어진 부담이 헌법상 요구된다는 주장은 **제4장** 증거와 추적 가능성 요건을 충족해야 한다. 편의, 제도 관성, 전통, 선호만으로는, 확인할 수 있는 헌법 결과 연결이 없는 부담을 지탱하기에 충분하지 않으며, [§6.1 결정 기록 규율](#615-rights-collision-decision-test)과 일관된다.
 
-유인 구조가 책임 있는 관리자나 운영자에게 작용하는 곳에서, 이 절은 [§11.1.3 책임 있는 관리와 운영자 적용](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)을 강화한다. 책임 있는 관리 유인은 날것 처리량만큼이나, 불필요한 부담 만들기를 보상하면 안 된다.
+유인 구조가 책임 있는 관리자나 운영자에게 작용하는 곳에서, 이 절은 [§11.1.3 책임 있는 관리와 운영자 적용](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)을 강화한다. 책임 있는 관리 유인은 날것 처리량만큼이나, 불필요한 부담 만들기를 보상하면 안 된다.
 
 <a id="7-prohibition-on-absolute-override"></a>
 ### 7. 절대 덮어쓰기 금지
@@ -573,8 +573,8 @@
 
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — 어떤 단일 가치도 [실질 이해관계](core_00_preamble.md#material-stake)가 요구하는 아래로 **참여**, **감독**, **책무**, **적시성**을 비우도록 호출되면 안 된다.
 - 함께 읽기: [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **번영**도 **연속**도 다른 쪽, 안전과 진실, 또는 사원(四元) 규율에 대한 패로 호출되면 안 된다; 절대 덮어쓰기 금지는 두 목적을 함께 추구하는 것을 보호한다.
-- 상류: 원칙: [2. 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. 신뢰](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 책임 있는 관리와 분산된 이해](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. 과정 충돌 해결](#6-process-conflict-resolution), [5. 자유](core_01_a_values_principles.md#5-freedom-bounded-agency), [두 헌법 목적](core_00_preamble.md#two-constitutional-aims).
-- 하류: [15. 통합 적용](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application).
+- 상류: 원칙: [2. 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. 신뢰](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. 과정 충돌 해결](#6-process-conflict-resolution), [5. 자유](core_01_a_values_principles.md#5-freedom-bounded-agency), [두 헌법 목적](core_00_preamble.md#two-constitutional-aims).
+- 하류: [15. 통합 적용](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 - 하류: 평등, 다툼 권리, 투명, 다툴 수 있음, 한정된 해석을 무너뜨릴 단일 가치 덮어쓰기 논리로부터 권리 면을 보호한다.
   - 특히 [제 V조: 평등한 기본 권리](../../core_06_rights_part_b.md#article-v-equal-basic-rights), [제 XII-B조: 다툼, 검토, 구제에 대한 권리](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [제 XIV-B조: 투명, 감사 가능성, 다툴 수 있음](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability), [제 XVIII-B조: 다툴 수 있음과 비례 제한 한도](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits), [제 XXII-A조: 한정된 해석 위임](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate).
 
@@ -607,8 +607,8 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [전문 — 헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad); [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절은 절 추적을 통해 장 전체에 적용된다.
-- 하류: [§8.1 헌법 우회 금지 원칙](#81-constitutional-no-bypass-principle), [§8.2 정의 층과 요구되는 규율](#82-definitional-layer-and-required-disciplines), [§8.3 모호성 해결](#83-ambiguity-resolution), [§8.4 헌법 의미 충돌 해결](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing)부터 [15. 통합 적용](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application); 가치 충돌 절차를 위한 [6. 과정 충돌 해결](#6-process-conflict-resolution); [제6장: 기초 권리](../../core_06_rights_part_a.md#chapter-six-foundational-rights) 비축소 기본값.
-- 함께 읽기: [제2장부터 제4장](../../core_02_definition_structure.md)과 [제5장](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — 이 장의 모든 용어의 해석·증거 층.
+- 하류: [§8.1 헌법 우회 금지 원칙](#81-constitutional-no-bypass-principle), [§8.2 정의 층과 요구되는 규율](#82-definitional-layer-and-required-disciplines), [§8.3 모호성 해결](#83-ambiguity-resolution), [§8.4 헌법 의미 충돌 해결](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing)부터 [15. 통합 적용](core_01_c_stewardship_capacity_principles.md#15-integrated-application); 가치 충돌 절차를 위한 [6. 과정 충돌 해결](#6-process-conflict-resolution); [제6장: 기초 권리](../../core_06_rights_part_a.md#chapter-six-foundational-rights) 비축소 기본값.
+- 함께 읽기: [제2장부터 제4장](core_02_definition_structure.md)과 [제5장](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — 이 장의 모든 용어의 해석·증거 층.
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)과 [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — 통합 가치 틀의 해석 배경; 실질로 관련된 곳에서 [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절.
 - 함께 읽기: [권위 스택과 내부 위계](../../core_05_band_integrative.md#authority-stack) (*원천 층 지위*); [제16장](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*보관, 판, 채택 틀* — 두 번째 충돌 순서 거처가 아님); [제13장](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)과 [제14장](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*§8.4 아래 비후퇴와 채택 주체 위계 문*).
 - 함께 읽기: 제도 해석 안전장치를 위한 [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (이 절의 대체가 아님).
@@ -831,6 +831,6 @@
 
 **이전 파일:** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 
-**다음 파일(아직 영어):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)
+**다음 파일:** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
 **구속력 있는 원문:** [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md)

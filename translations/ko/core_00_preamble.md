@@ -130,22 +130,22 @@
 
 각 요약은 그 장이 무엇을 맡고 무엇을 산출하는지를 말한다.
 
-**제1장 — 가치, 원칙, 책임 있는 관리** ([A부분](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [B부분](core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C부분](../../core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+**제1장 — 가치, 원칙, 책임 있는 관리** ([A부분](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [B부분](core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C부분](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
 
 - **맡은 일:** 헌법의 지도 가치와 제약을 말한다 — 복지, 공정, 안전, 진실, 신뢰, 한정된 자유, 적법한 기여에 대한 인정과 비례 보상, 원칙 사이 충돌 해결, 그리고 분산된 이해, 체계 평가, 거버넌스 규율을 포함한 책임 있는 관리 의무.
 - **산출:** 이후 각 장의 해석 기초 — 체계, 권리, 정의, 과정 사슬을 읽고 적용해야 할 때, 높은 층의 목적을 운영 요건으로 바꾸는 규칙.
 
-**제2장 — 정의 구조** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**제2장 — 정의 구조** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **맡은 일:** 헌법 용어가 어떻게 지어지는지를 정의한다 — 존재론/측정/평가/준수(O/M/A/C) 구성 구조, 정합 요건, 정의를 코퍼스 전역에서 정밀하고 쓸 수 있게 유지하는 구성 규칙.
 - **산출:** 정의를 위한 공유 문법, 이후 장이 모호한 꼬리표, 숨은 가정, 호환되지 않는 용어 모양에 빠지지 않게.
 
-**제3장 — 정의 완전성** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**제3장 — 정의 완전성** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **맡은 일:** 회피, 범위 옮김, 재정의 놀이, 종이 위에서는 정의를 비우고 실무에서는 무너뜨리는 비준수 수법에 맞서 지킨다.
 - **산출:** 회피 금지 규율과 비준수 지향 메타데이터 — 회피가 입증된 곳에서 궤적과 부당행위 검토로 가는 라우팅 고리를 포함한다.
 
-**제4장 — 부담, 추적 가능성, 확인** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**제4장 — 부담, 추적 가능성, 확인** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **맡은 일:** 증명 부담을 준수를 주장하는 이에게 둔다; [**실질 이해관계**](#material-stake)에 맞춰 세기를 조절하고 실무에서 여전히 다툴 수 있는 추적 가능한 증거, 관찰 가능성, 확인을 요구한다.
 - **산출:** [제8장](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)의 **확인된 입력**과 [제7장](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)의 체계 정합 증거를 먹이는 확인 사슬 — 궤적 측정 자체를 대체하지 않는다.

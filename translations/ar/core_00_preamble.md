@@ -130,22 +130,22 @@
 
 كل ملخص يبيّن ما يخص الفصل وما يُنتجه.
 
-**الفصل الأول — القيم والمبادئ والإدارة المسؤولة** ([الجزء أ](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [الجزء ب](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [الجزء ج](../../core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+**الفصل الأول — القيم والمبادئ والإدارة المسؤولة** ([الجزء أ](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [الجزء ب](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [الجزء ج](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
 
 - **ما يخصّه:** يبيّن قيم الدستور القيادية وقيوده — العافية والإنصاف والسلامة والحقيقة والثقة والحرية المحدودة والاعتراف والمكافأة المتناسبة على الإسهام المشروع وحل النزاع بين المبادئ وواجبات الإدارة المسؤولة بما فيها الفهم الموزَّع والتقييم المنظومي وانضباط الحوكمة.
 - **ماذا يُنتج:** الأساس التفسيري لكل فصل لاحق — القواعد التي تحوّل المقاصد العليا إلى متطلبات تشغيلية عندما يجب قراءة الأنظمة أو الحقوق أو التعريفات أو سلاسل الإجراءات وتطبيقها.
 
-**الفصل الثاني — بنية التعريفات** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**الفصل الثاني — بنية التعريفات** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **ما يخصّه:** يعرّف كيف تُبنى المصطلحات الدستورية — بنية المكوّنات الوجودي/القياس/التقييم/الامتثال (O/M/A/C) ومتطلبات المواءمة وقواعد المكوّن التي تُبقي التعريفات دقيقة وقابلة للاستخدام عبر المتن.
 - **ماذا يُنتج:** نحوًا مشتركًا للتعريفات حتى لا تسقط الفصول اللاحقة في تسميات مبهمة أو افتراضات خفية أو أشكال مصطلح غير متوافقة.
 
-**الفصل الثالث — سلامة التعريفات** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**الفصل الثالث — سلامة التعريفات** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **ما يخصّه:** يحرس ضد التهرّب وتحريك النطاق وألعاب إعادة التعريف وحيل عدم الامتثال التي تفرّغ التعريفات على الورق بينما تهزمها في الممارسة.
 - **ماذا يُنتج:** انضباط منع التهرّب وبيانات توجيه عدم الامتثال — بما في ذلك خطاطيف التوجيه نحو مراجعة الوضعية وسوء السلوك حيث يُثبَت التهرّب.
 
-**الفصل الرابع — العبء والقابلية للتتبع والتحقق** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**الفصل الرابع — العبء والقابلية للتتبع والتحقق** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **ما يخصّه:** يضع عبء الإثبات على من يدّعي الامتثال؛ ويطلب دليلًا قابلًا للتتبع وقابلية للرصد وتحققًا يتناسب مع [**الرهان المادي**](#material-stake) ويبقى قابلًا للطعن عمليًا.
 - **ماذا يُنتج:** سلسلة التحقق التي تغذّي **المدخلات الموثّقة** في [الفصل الثامن](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) ودليل مواءمة النظام في [الفصل السابع](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) — من دون أن تحل محل قياس الوضعية ذاته.

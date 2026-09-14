@@ -130,22 +130,22 @@
 
 प्रत्येक सारांश कहता है कि अध्याय का क्षेत्र क्या है और वह क्या देता है।
 
-**अध्याय एक — मूल्य, सिद्धांत और उत्तरदायी प्रबंधन** ([भाग क](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [भाग ख](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [भाग ग](../../core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+**अध्याय एक — मूल्य, सिद्धांत और उत्तरदायी प्रबंधन** ([भाग क](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [भाग ख](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [भाग ग](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
 
 - **इसका क्षेत्र:** संविधान के मार्गदर्शक मूल्य और बंधन कहता है — कल्याण, निष्पक्षता, सुरक्षा, सत्य, विश्वास, सीमाबद्ध स्वतंत्रता, वैध योगदान के लिए मान्यता और आनुपातिक पुरस्कार, सिद्धांतों के बीच संघर्ष-समाधान, तथा उत्तरदायी प्रबंधन कर्तव्य जिनमें वितरित समझ, प्रणालीगत मूल्यांकन और शासन अनुशासन शामिल हैं।
 - **यह क्या देता है:** प्रत्येक बाद के अध्याय की व्याख्यात्मक नींव — वे नियम जो उच्च-स्तरीय उद्देश्यों को संक्रियात्मक अपेक्षाओं में बदलते हैं जब प्रणालियों, अधिकारों, परिभाषाओं या प्रक्रिया शृंखलाओं को पढ़ना और लागू करना हो।
 
-**अध्याय दो — परिभाषा संरचना** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**अध्याय दो — परिभाषा संरचना** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **इसका क्षेत्र:** संवैधानिक पद कैसे बनते हैं यह परिभाषित करता है — सत्तामीमांसा/मापन/आकलन/अनुपालन (O/M/A/C) घटक संरचना, संरेखण अपेक्षाएँ, और घटक नियम जो परिभाषाओं को पूरे संग्रह में सटीक और उपयोग योग्य रखते हैं।
 - **यह क्या देता है:** परिभाषाओं की साझा व्याकरण, ताकि बाद के अध्याय अस्पष्ट लेबल, छिपे अनुमान, या असंगत पद-आकारों में न गिरें।
 
-**अध्याय तीन — परिभाषा अखंडता** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**अध्याय तीन — परिभाषा अखंडता** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **इसका क्षेत्र:** बचाव, दायरा-खिसकाव, पुनर्परिभाषा खेलों, और अनुपालन-भंग चालों से बचाता है जो काग़ज़ पर परिभाषाओं को खोखला कर दें और व्यवहार में उन्हें हरा दें।
 - **यह क्या देता है:** बचाव-निरोध अनुशासन और अनुपालन-भंग अभिमुख मेटाडेटा — जहाँ बचाव सिद्ध हो वहाँ प्रस्थिति और दुराचरण समीक्षा की ओर मार्ग-हुक सहित।
 
-**अध्याय चार — भार, पता-योग्यता और सत्यापन** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**अध्याय चार — भार, पता-योग्यता और सत्यापन** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **इसका क्षेत्र:** प्रमाण का भार उसी पर रखता है जो अनुपालन का दावा करे; पता लगाने योग्य साक्ष्य, प्रेक्षणीयता और सत्यापन माँगता है जो [**भौतिक दाँव**](#material-stake) के अनुसार स्केल हों और व्यवहार में चुनौती-योग्य रहें।
 - **यह क्या देता है:** वह सत्यापन शृंखला जो [अध्याय आठ](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) में **सत्यापित निवेश** और [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) में प्रणाली-संरेखण साक्ष्य को खिलाती है — स्वयं प्रस्थिति मापन की जगह लिए बिना।

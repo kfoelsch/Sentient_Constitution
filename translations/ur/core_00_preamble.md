@@ -130,22 +130,22 @@
 
 ہر خلاصہ کہتا ہے کہ باب کا دائرہ کیا ہے اور وہ کیا دیتا ہے۔
 
-**باب یکم — اقدار، اصول اور ذمہ دارانہ انتظام** ([حصہ الف](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [حصہ ب](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [حصہ ج](../../core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+**باب یکم — اقدار، اصول اور ذمہ دارانہ انتظام** ([حصہ الف](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [حصہ ب](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [حصہ ج](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
 
 - **اس کا دائرہ:** آئین کی رہنما اقدار اور پابندیاں بیان کرتا ہے — بہبود، انصاف، حفاظت، سچائی، اعتماد، محدود آزادی، جائز حصہ کے لیے پہچان اور متناسب انعام، اصولوں کے درمیان تنازعے کا حل، اور ذمہ دارانہ انتظام کے فرائض جن میں تقسیم شدہ سمجھ، نظامی جائزہ اور حکمرانی ضبط شامل ہیں۔
 - **وہ کیا دیتا ہے:** ہر بعد کے باب کی تفسیری بنیاد — وہ قواعد جو اعلیٰ سطحی مقاصد کو عملی تقاضوں میں بدلتے ہیں جب نظام، حقوق، تعریفیں یا عمل کی زنجیریں پڑھنی اور لاگو کرنی ہوں۔
 
-**باب دوم — تعریف کی ساخت** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**باب دوم — تعریف کی ساخت** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **اس کا دائرہ:** آئینی اصطلاحیں کیسے بنتی ہیں یہ متعین کرتا ہے — وجودی/پیمائش/جائزہ/اطاعت (O/M/A/C) اجزا کی ساخت، ہم آہنگی کے تقاضے، اور اجزا کے قواعد جو تعریفوں کو پورے کارپس میں درست اور قابلِ استعمال رکھتے ہیں۔
 - **وہ کیا دیتا ہے:** تعریفوں کا مشترکہ گرامر، تاکہ بعد کے ابواب مبہم لیبل، چھپے مفروضوں، یا ناقابلِ میل اصطلاحی شکلوں میں نہ گریں۔
 
-**باب سوم — تعریف کی سالمیت** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**باب سوم — تعریف کی سالمیت** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **اس کا دائرہ:** فرار، دائرہ کھسکانے، دوبارہ تعریف کے کھیلوں، اور عدمِ اطاعت کی چالوں سے بچاتا ہے جو کاغذ پر تعریفوں کو کھوکھلا کر دیں اور عمل میں انہیں ہرا دیں۔
 - **وہ کیا دیتا ہے:** فرار مخالف ضبط اور عدمِ اطاعت رخ میٹاڈیٹا — جہاں فرار ثابت ہو وہاں کیفیت اور بدسلوکی کے جائزے کی طرف راستہ ہک سمیت۔
 
-**باب چہارم — بوجھ، سراغ اور تصدیق** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**باب چہارم — بوجھ، سراغ اور تصدیق** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **اس کا دائرہ:** ثبوت کا بوجھ اس پر رکھتا ہے جو اطاعت کا دعویٰ کرے؛ سراغ لگانے کے قابل ثبوت، مشاہدہ پذیری اور تصدیق مانگتا ہے جو [**مادی داؤ**](#material-stake) کے مطابق پیمانہ ہوں اور عمل میں چیلنج کے قابل رہیں۔
 - **وہ کیا دیتا ہے:** وہ تصدیقی زنجیر جو [باب ہشتم](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) میں **تصدیق شدہ مواد** اور [باب ہفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) میں نظام کی ہم آہنگی کا ثبوت کھلاتی ہے — خود کیفیت کی پیمائش کی جگہ لیے بغیر۔

@@ -10,7 +10,7 @@
 >
 > **முந்தையது (இந்த மொழியில்):** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 >
-> **அடுத்தது (இன்னும் ஆங்கிலத்தில்):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md) (அத்தியாயம் ஒன்று, பகுதி இ — §§9–14, பொறுப்பான நிர்வாகமும் ஆட்சியும்).
+> **அடுத்தது (இந்த மொழியில்):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (அத்தியாயம் ஒன்று, பகுதி இ — §§9–14, பொறுப்பான நிர்வாகமும் ஆட்சியும்).
 > **வாசிப்பு வளைவு:** §6 செயல்முறை முரண்பாட்டுத் தீர்வு → §7 முழு மீறல் தடை → §8 அரசியலமைப்பு விளக்கம்.
 
 </details>
@@ -56,7 +56,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - இதனுடன் படிக்க: [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) — நடைமுறை, வெளிப்படுத்தல், மோதல் கையாளல், நிவாரணத்தில் பங்கேற்பு, மேற்பார்வை, பொறுப்புக்கூறல், காலந்தவறாமை; [பொருள் பங்கு](core_00_preamble.md#material-stake) அளவீடு.
-- மேல்வழி: கோட்பாடுகள்: [2. அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. நம்பிக்கை](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. சுதந்திரம் (வரம்புடைய செயல்திறன்)](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 பொறுப்பான நிர்வாகமும் பகிர்ந்த புரிதலும்](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
+- மேல்வழி: கோட்பாடுகள்: [2. அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. நம்பிக்கை](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. சுதந்திரம் (வரம்புடைய செயல்திறன்)](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 பொறுப்பான நிர்வாகமும் பகிர்ந்த புரிதலும்](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
 - கீழ்வழி: [6.2.1 அறிவார்ந்த முழுமையைப் பேணுதல்](#621-preservation-of-epistemic-integrity), [§6.1 முடிவு-பதிவுக் கட்டுப்பாடு](#615-rights-collision-decision-test), [இயல்புநிலை இடைக்கால நிலை](#default-interim-posture), [7. முழு மீறல் தடை](#7-prohibition-on-absolute-override).
 - கீழ்வழி: [அத்தியாயம் ஆறு: அடிப்படை உரிமைகள்](../../core_06_rights_part_a.md#chapter-six-foundational-rights) முழுவதும் குறுக்கு-சரத்து முரண்பாடுகளை ஆள்கிறது.
   - இதை [சரத்து XXII: அரசியலமைப்பு விளக்கம், மதிப்பாய்வு, கைப்பற்றுதல் எதிர்ப்புக் காப்புகள்](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) மற்றும் [சரத்து XXIII: முரண்பாட்டுத் தீர்வு, உயர்த்தல், அவசர விகிதாசாரம்](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) உடன் படியுங்கள்.
@@ -198,7 +198,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- இதனுடன் படிக்க: [§10.1 அங்கீகரிக்கப்பட்ட அமைப்பாக ஆட்சி](../../core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
+- இதனுடன் படிக்க: [§10.1 அங்கீகரிக்கப்பட்ட அமைப்பாக ஆட்சி](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
 
 </details>
 
@@ -268,7 +268,7 @@
 - குறிப்பிட்ட உரிமைகளின் தற்காலிகக் கட்டுப்பாடு [குறைவாகக் கட்டுப்படுத்தும், கால-வரம்புடைய, மதிப்பாய்வு செய்யக்கூடிய கட்டுப்பாட்டுக் கோட்பாட்டை](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) மற்றும் [சரத்து XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*அவசர நடவடிக்கைகளும் தொடர் சுமையும்*) அவசர ஏற்பாடுகளை நிறைவேற்றும்போது மட்டுமே அனுமதிக்கப்படுகிறது — அதாவது எந்தக் கட்டுப்பாடும் நியாயப்படுத்தப்பட்டதாகவும், குறைந்தபட்சமாகவும், ஆவணப்படுத்தப்பட்டதாகவும், கால-வரம்புடையதாகவும், சுயாதீனமாக மதிப்பாய்வு செய்யக்கூடியதாகவும் இருக்க வேண்டும். குறிப்பிட்ட சரத்துகள் வலுவான காப்புகளைச் சேர்க்கலாம், ஆனால் இந்தக் கோட்பாட்டைச் சுருக்கவோ வசதி, திறன், வகைப்பாடு, அவசரம், மாற்றம், நிலைத்தடம், திருத்தம், ஒப்பந்தம், அல்லது செயல்படுத்தல் சிட்டைகளை அதைத் தவிர்க்கப் பயன்படுத்தவோ முடியாது.
 
 <a id="anti-degrading-process-principle"></a>
-**சீரழிவு-எதிர்ப்பு நடைமுறைக் கோட்பாடு.** பகுதி இ-இல் கூறப்பட்ட [சீரழிவு-எதிர்ப்பு நடைமுறைக் கோட்பாடு (§9.6)](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) இந்தப் பரிமாற்ற அடுக்கில் முழுத் தளமாக இயங்குகிறது.
+**சீரழிவு-எதிர்ப்பு நடைமுறைக் கோட்பாடு.** பகுதி இ-இல் கூறப்பட்ட [சீரழிவு-எதிர்ப்பு நடைமுறைக் கோட்பாடு (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) இந்தப் பரிமாற்ற அடுக்கில் முழுத் தளமாக இயங்குகிறது.
 - தேவை, தீங்கு குறைப்பு, விகிதாசாரத்தைத் தாண்டும் எந்தக் கட்டுப்பாடு, நிவாரணம், அல்லது நடைமுறையும் சீரழிவு, அவமானம், காட்சி, பழிவாங்கல், பாகுபாடான சுமை, அல்லது வசதி-இயக்க உரிமை அரிப்பாக வடிவமைக்கப்படவோ, கட்டமைக்கப்படவோ, நடத்தப்படவோ, இயங்க அனுமதிக்கப்படவோ கூடாது.
 - சீரழியும் நடைமுறை வழியாக வழங்கப்படும் சரியான உள்ளடக்க விளைவு இன்னும் இணக்கமற்றது.
 - தடைசெய்யப்பட்ட பண்பு துன்பத்தை அதன் இலக்காகவோ இலவச / சீரழியும் திணிப்பாகவோ இருக்கும் இடத்தில் — அதன் பொருட்டே அவமானம் உட்பட — [கொடுமையுடன்](../../core_05_band_accountability.md#cruelty) படியுங்கள்.
@@ -528,9 +528,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: [§6.1 மையப் பரிமாற்றக் கோட்பாடுகள்](#61-core-tradeoff-principles) (பரிமாற்ற அடுக்கு நிறைவேறிய பிறகு பொருந்தும்); [§9.1 பொறுப்பான நிர்வாகம்](../../core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 அரசியலமைப்புத் திறன்](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
+- மேல்வழி: [§6.1 மையப் பரிமாற்றக் கோட்பாடுகள்](#61-core-tradeoff-principles) (பரிமாற்ற அடுக்கு நிறைவேறிய பிறகு பொருந்தும்); [§9.1 பொறுப்பான நிர்வாகம்](core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 அரசியலமைப்புத் திறன்](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
 - இதனுடன் படிக்க: அரசியலமைப்புச் செயல்திறன் அளவீட்டுக் குடும்பம் (*அரசியலமைப்பு அளவீடாகத் தவிர்க்கக்கூடிய சுமை*); [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) — **பங்கேற்பு** கால் (அரசியலமைப்புரீதியாகத் தேவையில்லாத சுமை [பொருளுள்ள செயல்திறனை](../../core_05_band_participation.md#meaningful-agency) சுருக்குகிறது); **காலந்தவறாமை** கால் (தவிர்க்கக்கூடிய தாமதம் தவிர்க்கக்கூடிய சுமை).
-- கீழ்வழி: [§11.1.3 பொறுப்பான நிர்வாகமும் இயக்குநர் பயன்பாடும்](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (ஊக்குவிப்புகள் தேவையற்ற சுமை உருவாக்கத்தை வெகுமதி செய்யக்கூடாது); [சரத்து XX: புரிந்துகொள்ளக்கூடிய தன்மையும் சிக்கல் பொறுப்பான நிர்வாகமும்](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- கீழ்வழி: [§11.1.3 பொறுப்பான நிர்வாகமும் இயக்குநர் பயன்பாடும்](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (ஊக்குவிப்புகள் தேவையற்ற சுமை உருவாக்கத்தை வெகுமதி செய்யக்கூடாது); [சரத்து XX: புரிந்துகொள்ளக்கூடிய தன்மையும் சிக்கல் பொறுப்பான நிர்வாகமும்](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -564,7 +564,7 @@
 
 கொடுக்கப்பட்ட சுமை அரசியலமைப்புரீதியாகத் தேவை என்ற கூற்றுகள் **அத்தியாயம் நான்கு** சான்று மற்றும் தடமறிதல் தேவைகளை நிறைவேற்ற வேண்டும். வசதி, நிறுவனச் சோம்பல், மரபு, அல்லது விருப்பம் மட்டும் அரசியலமைப்பு விளைவுக்குச் சோதிக்கக்கூடிய இணைப்பு இல்லாத சுமையைத் தாங்கப் போதாது, [§6.1 முடிவு-பதிவுக் கட்டுப்பாட்டுடன்](#615-rights-collision-decision-test) ஒத்திசைவாக.
 
-ஊக்குவிப்பு அமைப்புகள் பொறுப்பான நிர்வாகிகள் அல்லது இயக்குநர்கள்மீது செயல்படும் இடத்தில், இந்தப் பிரிவு [§11.1.3 பொறுப்பான நிர்வாகமும் இயக்குநர் பயன்பாடும்](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)-ஐ வலுப்படுத்துகிறது. பொறுப்பான நிர்வாக ஊக்குவிப்புகள் மூலத் திறனை வெகுமதி செய்வதைப் போலவே தேவையற்ற சுமை உருவாக்கத்தையும் வெகுமதி செய்யக்கூடாது.
+ஊக்குவிப்பு அமைப்புகள் பொறுப்பான நிர்வாகிகள் அல்லது இயக்குநர்கள்மீது செயல்படும் இடத்தில், இந்தப் பிரிவு [§11.1.3 பொறுப்பான நிர்வாகமும் இயக்குநர் பயன்பாடும்](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)-ஐ வலுப்படுத்துகிறது. பொறுப்பான நிர்வாக ஊக்குவிப்புகள் மூலத் திறனை வெகுமதி செய்வதைப் போலவே தேவையற்ற சுமை உருவாக்கத்தையும் வெகுமதி செய்யக்கூடாது.
 
 <a id="7-prohibition-on-absolute-override"></a>
 ### 7. முழு மீறல் தடை
@@ -573,8 +573,8 @@
 
 - இதனுடன் படிக்க: [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) — ஒற்றை மதிப்பை [பொருள் பங்கு](core_00_preamble.md#material-stake) தேவைகளுக்குக் கீழே **பங்கேற்பு**, **மேற்பார்வை**, **பொறுப்புக்கூறல்**, அல்லது **காலந்தவறாமையை** வெறுமையாக்க அழைக்க முடியாது.
 - இதனுடன் படிக்க: [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) — **செழிப்பு** அல்லது **தொடர்ச்சி** ஒன்றை மற்றொன்றின்மீதோ, பாதுகாப்பு மற்றும் உண்மையின்மீதோ, அல்லது நான்மக் கட்டுப்பாட்டின்மீதோ துருப்புச் சீட்டாக அழைக்க முடியாது; முழு மீறல் தடை இரண்டு நோக்கங்களையும் ஒன்றாகப் பின்தொடர்வதைப் பாதுகாக்கிறது.
-- மேல்வழி: கோட்பாடுகள்: [2. அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. நம்பிக்கை](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 பொறுப்பான நிர்வாகமும் பகிர்ந்த புரிதலும்](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. செயல்முறை முரண்பாட்டுத் தீர்வு](#6-process-conflict-resolution), [5. சுதந்திரம்](core_01_a_values_principles.md#5-freedom-bounded-agency), [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims).
-- கீழ்வழி: [15. ஒருங்கிணைந்த பயன்பாடு](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application).
+- மேல்வழி: கோட்பாடுகள்: [2. அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. நம்பிக்கை](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 பொறுப்பான நிர்வாகமும் பகிர்ந்த புரிதலும்](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. செயல்முறை முரண்பாட்டுத் தீர்வு](#6-process-conflict-resolution), [5. சுதந்திரம்](core_01_a_values_principles.md#5-freedom-bounded-agency), [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims).
+- கீழ்வழி: [15. ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 - கீழ்வழி: சமத்துவம், சவால் உரிமைகள், வெளிப்படைத்தன்மை, சவால் செய்யக்கூடிய தன்மை, அல்லது வரம்புடைய விளக்கத்தைச் சுருக்கும் ஒற்றை-மதிப்பு மீறல் தர்க்கத்திற்கு எதிராக உரிமைப் பரப்பைப் பாதுகாக்கிறது.
   - குறிப்பாக [சரத்து V: சம அடிப்படை உரிமைகள்](../../core_06_rights_part_b.md#article-v-equal-basic-rights), [சரத்து XII-B: சவால், மதிப்பாய்வு, நிவாரண உரிமை](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [சரத்து XIV-B: வெளிப்படைத்தன்மை, தணிக்கைத்தன்மை, சவால் செய்யக்கூடிய தன்மை](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability), [சரத்து XVIII-B: சவால் செய்யக்கூடிய தன்மையும் விகிதாசாரக் கட்டுப்பாட்டு வரம்புகளும்](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits), [சரத்து XXII-A: வரம்புடைய விளக்க ஆணை](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate).
 
@@ -607,8 +607,8 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: [முகவுரை — அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad); [பொருள் பங்கு](core_00_preamble.md#material-stake) அளவீடு பிரிவுத் தடங்கள் வழியாக அத்தியாயம் முழுவதும் பொருந்தும்.
-- கீழ்வழி: [§8.1 அரசியலமைப்பு தவிர்ப்பு-இன்மைக் கோட்பாடு](#81-constitutional-no-bypass-principle), [§8.2 வரையறை அடுக்கும் தேவையான கட்டுப்பாடுகளும்](#82-definitional-layer-and-required-disciplines), [§8.3 தெளிவின்மைத் தீர்வு](#83-ambiguity-resolution), [§8.4 அரசியலமைப்பு பொருள் முரண்பாட்டுத் தீர்வு](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing) முதல் [15. ஒருங்கிணைந்த பயன்பாடு](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application) வரை; மதிப்பு-மோதல் நடைமுறைக்கு [6. செயல்முறை முரண்பாட்டுத் தீர்வு](#6-process-conflict-resolution); [அத்தியாயம் ஆறு: அடிப்படை உரிமைகள்](../../core_06_rights_part_a.md#chapter-six-foundational-rights) சுருக்கம்-இன்மை இயல்புநிலை.
-- இதனுடன் படிக்க: [அத்தியாயங்கள் இரண்டு முதல் நான்கு](../../core_02_definition_structure.md) மற்றும் [அத்தியாயம் ஐந்து](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — இந்த அத்தியாயத்தில் ஒவ்வொரு சொலுக்கும் விளக்க மற்றும் சான்று அடுக்கு.
+- கீழ்வழி: [§8.1 அரசியலமைப்பு தவிர்ப்பு-இன்மைக் கோட்பாடு](#81-constitutional-no-bypass-principle), [§8.2 வரையறை அடுக்கும் தேவையான கட்டுப்பாடுகளும்](#82-definitional-layer-and-required-disciplines), [§8.3 தெளிவின்மைத் தீர்வு](#83-ambiguity-resolution), [§8.4 அரசியலமைப்பு பொருள் முரண்பாட்டுத் தீர்வு](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing) முதல் [15. ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#15-integrated-application) வரை; மதிப்பு-மோதல் நடைமுறைக்கு [6. செயல்முறை முரண்பாட்டுத் தீர்வு](#6-process-conflict-resolution); [அத்தியாயம் ஆறு: அடிப்படை உரிமைகள்](../../core_06_rights_part_a.md#chapter-six-foundational-rights) சுருக்கம்-இன்மை இயல்புநிலை.
+- இதனுடன் படிக்க: [அத்தியாயங்கள் இரண்டு முதல் நான்கு](core_02_definition_structure.md) மற்றும் [அத்தியாயம் ஐந்து](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — இந்த அத்தியாயத்தில் ஒவ்வொரு சொலுக்கும் விளக்க மற்றும் சான்று அடுக்கு.
 - இதனுடன் படிக்க: [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) மற்றும் [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) — ஒருங்கிணைந்த-மதிப்புக் கட்டமைப்புக்கான விளக்கப் பின்புலம்; பொருள்ரீதியாகப் பொருத்தமான இடத்தில் [பொருள் பங்கு](core_00_preamble.md#material-stake) அளவீடு.
 - இதனுடன் படிக்க: [அதிகார அடுக்கும் உள் படிநிலையும்](../../core_05_band_integrative.md#authority-stack) (*மூல-அடுக்கு நிலை*); [அத்தியாயம் பதினாறு](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*காவல், பதிப்புகள், ஏற்புக் கட்டமைப்பு* — இரண்டாவது முரண்பாட்டு-வரிசை இல்லம் அல்ல); [அத்தியாயம் பதிமூன்று](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) மற்றும் [அத்தியாயம் பதினான்கு](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*§8.4 கீழ் பின்னடைவு இன்மை மற்றும் ஏற்பாளர் படிநிலை வாயில்கள்*).
 - இதனுடன் படிக்க: நிறுவன விளக்கக் காப்புகளுக்கு [சரத்து XXII: அரசியலமைப்பு விளக்கம், மதிப்பாய்வு, கைப்பற்றுதல் எதிர்ப்புக் காப்புகள்](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (இந்தப் பிரிவுக்குப் பதிலீடு அல்ல).
@@ -831,6 +831,6 @@
 
 **முந்தைய கோப்பு:** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 
-**அடுத்த கோப்பு (இன்னும் ஆங்கிலத்தில்):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)
+**அடுத்த கோப்பு (இந்த மொழியில்):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
 **பிணைக்கும் மூலம்:** [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md)

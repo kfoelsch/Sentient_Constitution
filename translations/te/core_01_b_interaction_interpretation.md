@@ -10,7 +10,7 @@
 >
 > **మునుపటి (ఈ భాషలో):** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 >
-> **తదుపరి (ఇంకా ఆంగ్లంలో):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md) (అధ్యాయం ఒకటి, భాగం సి — §§9–14, బాధ్యతాయుత నిర్వహణ మరియు పాలన).
+> **తదుపరి (ఈ భాషలో):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (అధ్యాయం ఒకటి, భాగం సి — §§9–15, బాధ్యతాయుత నిర్వహణ మరియు పాలన).
 > **చదివే చాపం:** §6 ప్రక్రియ సంఘర్షణ పరిష్కారం → §7 పూర్తి అధిగమన నిషేధం → §8 రాజ్యాంగ వ్యాఖ్యానం.
 
 </details>
@@ -56,7 +56,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — ప్రక్రియ, బహిర్గతం, ఢీకొనడం నిర్వహణ, పరిహారంలో పాల్గొనడం, పర్యవేక్షణ, జవాబుదారీతనం, సమయబద్ధత; [భౌతిక పందెం](core_00_preamble.md#material-stake) స్కేలింగ్.
-- మూలం: సూత్రాలు: [2. పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. విశ్వాసం](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. స్వేచ్ఛ (పరిమిత కర్తృత్వం)](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 బాధ్యతాయుత నిర్వహణ మరియు పంపిణీ అవగాహన](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
+- మూలం: సూత్రాలు: [2. పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. విశ్వాసం](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. స్వేచ్ఛ (పరిమిత కర్తృత్వం)](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 బాధ్యతాయుత నిర్వహణ మరియు పంపిణీ అవగాహన](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
 - గమ్యం: [6.2.1 జ్ఞాన సమగ్రత సంరక్షణ](#621-preservation-of-epistemic-integrity), [§6.1 నిర్ణయ-రికార్డు క్రమశిక్షణ](#615-rights-collision-decision-test), [డిఫాల్ట్ మధ్యంతర భంగిమ](#default-interim-posture), [7. పూర్తి అధిగమన నిషేధం](#7-prohibition-on-absolute-override).
 - గమ్యం: [అధ్యాయం ఆరు: పునాది హక్కులు](../../core_06_rights_part_a.md#chapter-six-foundational-rights) అంతటా అనుచ్ఛేదాల మధ్య సంఘర్షణలను పాలిస్తుంది.
   - దీన్ని [అనుచ్ఛేదం XXII: రాజ్యాంగ వ్యాఖ్యానం, సమీక్ష, స్వాధీన-నిరోధ రక్షణలు](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards), [అనుచ్ఛేదం XXIII: సంఘర్షణ పరిష్కారం, ఎస్కలేషన్, అత్యవసర అనుపాతత](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality)తో చదవండి.
@@ -198,7 +198,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- దీనితో చదవండి: [§10.1 అధికారిత నిర్మాణంగా పాలన](../../core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
+- దీనితో చదవండి: [§10.1 అధికారిత నిర్మాణంగా పాలన](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
 
 </details>
 
@@ -268,7 +268,7 @@
 - నిర్దిష్ట హక్కుల తాత్కాలిక పరిమితి [అతి తక్కువ-పరిమిత, కాల-పరిమిత, సమీక్షించదగిన పరిమితి సూత్రం](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle), [అనుచ్ఛేదం XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*అత్యవసర చర్యలు మరియు కొనసాగింపు భారం*) అత్యవసర నిబంధనలు తీర్చినప్పుడు మాత్రమే అనుమతి — అంటే ఏ పరిమితి సమర్థించబడాలి, కనిష్ఠం, డాక్యుమెంట్, కాల-పరిమితం, స్వతంత్రంగా సమీక్షించదగినది కావాలి. నిర్దిష్ట అనుచ్ఛేదాలు బలమైన రక్షణలు జోడించవచ్చు, కానీ ఈ సూత్రాన్ని సంకుచితం చేయలేవు, లేదా సౌకర్యం, సమర్థత, వర్గీకరణ, అత్యవసరం, పరివర్తన, ప్రస్థితి, సవరణ, ఒప్పందం, లేదా అమలు లేబుల్‌లు వాడి తప్పించుకోలేవు.
 
 <a id="anti-degrading-process-principle"></a>
-**క్షీణింపు-నిరోధ ప్రక్రియ సూత్రం.** భాగం సిలో చెప్పిన [క్షీణింపు-నిరోధ ప్రక్రియ సూత్రం (§9.6)](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) ఈ లాభనష్ట స్టాక్‌లో పూర్తి నేలగా పని చేస్తుంది.
+**క్షీణింపు-నిరోధ ప్రక్రియ సూత్రం.** భాగం సిలో చెప్పిన [క్షీణింపు-నిరోధ ప్రక్రియ సూత్రం (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) ఈ లాభనష్ట స్టాక్‌లో పూర్తి నేలగా పని చేస్తుంది.
 - ఆవశ్యకత, హాని తగ్గింపు, అనుపాతత దాటిన ఏ పరిమితి, పరిహారం, లేదా ప్రక్రియ క్షీణింపు, అవమానం, ప్రదర్శన, ప్రతీకారం, వివక్షా భారం, లేదా సౌకర్యం-నడిపిన హక్కుల క్షీణతగా రూపొందించబడకూడదు, ఫ్రేమ్ కాకూడదు, నిర్వహించబడకూడదు, లేదా పని చేయనివ్వకూడదు.
 - క్షీణింపు ప్రక్రియ ద్వారా అందిన సరైన వాస్తవిక ఫలితం ఇంకా అనుసరణ కాదు.
 - నిషేధిత స్వభావం స్వయంగా లక్ష్యంగా బాధ, లేదా నిష్ప్రయోజన / క్షీణింపు బాధించడం — స్వయంగా అవమానం సహా — అయితే [క్రూరత్వం](../../core_05_band_accountability.md#cruelty)తో చదవండి.
@@ -528,9 +528,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: [§6.1 కేంద్ర లాభనష్ట సూత్రాలు](#61-core-tradeoff-principles) (లాభనష్ట స్టాక్ తీరిన తర్వాత వర్తిస్తుంది); [§9.1 బాధ్యతాయుత నిర్వహణ](../../core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 రాజ్యాంగ సమర్థత](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
+- మూలం: [§6.1 కేంద్ర లాభనష్ట సూత్రాలు](#61-core-tradeoff-principles) (లాభనష్ట స్టాక్ తీరిన తర్వాత వర్తిస్తుంది); [§9.1 బాధ్యతాయుత నిర్వహణ](core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 రాజ్యాంగ సమర్థత](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
 - దీనితో చదవండి: రాజ్యాంగ పనితీరు కొలత కుటుంబం (*రాజ్యాంగ కొలతగా నివారించదగిన భారం*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పాల్గొనడం** కాలు (రాజ్యాంగపరంగా అవసరం కాని భారం [అర్థవంతమైన కర్తృత్వం](../../core_05_band_participation.md#meaningful-agency)ను సంకుచితం చేస్తుంది); **సమయబద్ధత** కాలు (నివారించదగిన ఆలస్యం నివారించదగిన భారం).
-- గమ్యం: [§11.1.3 బాధ్యతాయుత నిర్వహణ మరియు ఆపరేటర్ వర్తింపు](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (ప్రోత్సాహకాలు అనవసర భారం సృష్టిని బహుమతి ఇవ్వకూడదు); [అనుచ్ఛేదం XX: అర్థమయ్యే తనం మరియు సంక్లిష్టత బాధ్యతాయుత నిర్వహణ](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- గమ్యం: [§11.1.3 బాధ్యతాయుత నిర్వహణ మరియు ఆపరేటర్ వర్తింపు](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (ప్రోత్సాహకాలు అనవసర భారం సృష్టిని బహుమతి ఇవ్వకూడదు); [అనుచ్ఛేదం XX: అర్థమయ్యే తనం మరియు సంక్లిష్టత బాధ్యతాయుత నిర్వహణ](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -564,7 +564,7 @@
 
 ఇచ్చిన భారం రాజ్యాంగపరంగా అవసరమని వాదనలు **అధ్యాయం నాలుగు** సాక్ష్యం, జాడీయత అవసరాలు తీర్చాలి. సౌకర్యం, సంస్థాగత జడత్వం, సంప్రదాయం, లేదా ప్రాధాన్యత మాత్రమే రాజ్యాంగ ఫలితానికి తనిఖీ-యోగ్య లింకు లేని భారాన్ని నిలపడానికి సరిపోవు, [§6.1 నిర్ణయ-రికార్డు క్రమశిక్షణ](#615-rights-collision-decision-test)తో అనుగుణంగా.
 
-ప్రోత్సాహక నిర్మాణాలు బాధ్యతాయుత నిర్వాహకులు లేదా ఆపరేటర్లపై పని చేసే చోట, ఈ విభాగం [§11.1.3 బాధ్యతాయుత నిర్వహణ మరియు ఆపరేటర్ వర్తింపు](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)ను బలపరుస్తుంది. బాధ్యతాయుత నిర్వహణ ప్రోత్సాహకాలు ముడి ప్రవాహాన్ని బహుమతి ఇవ్వనట్లే అనవసర భారం సృష్టిని బహుమతి ఇవ్వకూడదు.
+ప్రోత్సాహక నిర్మాణాలు బాధ్యతాయుత నిర్వాహకులు లేదా ఆపరేటర్లపై పని చేసే చోట, ఈ విభాగం [§11.1.3 బాధ్యతాయుత నిర్వహణ మరియు ఆపరేటర్ వర్తింపు](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)ను బలపరుస్తుంది. బాధ్యతాయుత నిర్వహణ ప్రోత్సాహకాలు ముడి ప్రవాహాన్ని బహుమతి ఇవ్వనట్లే అనవసర భారం సృష్టిని బహుమతి ఇవ్వకూడదు.
 
 <a id="7-prohibition-on-absolute-override"></a>
 ### 7. పూర్తి అధిగమన నిషేధం
@@ -573,8 +573,8 @@
 
 - దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — ఏ ఒక్క విలువా [భౌతిక పందెం](core_00_preamble.md#material-stake) అవసరాల కిందకు **పాల్గొనడం**, **పర్యవేక్షణ**, **జవాబుదారీతనం**, లేదా **సమయబద్ధత**ను బోలు చేయడానికి పిలువబడకూడదు.
 - దీనితో చదవండి: [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **సమున్నతి** లేదా **కొనసాగింపు** ఒకదాన్ని మరొకదానిపై, భద్రత, సత్యంపై, లేదా చతుష్టయం క్రమశిక్షణపై ట్రంప్‌గా పిలువబడకూడదు; పూర్తి అధిగమన నిషేధం రెండు లక్ష్యాలను కలిసి అనుసరించడం రక్షిస్తుంది.
-- మూలం: సూత్రాలు: [2. పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. విశ్వాసం](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 బాధ్యతాయుత నిర్వహణ మరియు పంపిణీ అవగాహన](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. ప్రక్రియ సంఘర్షణ పరిష్కారం](#6-process-conflict-resolution), [5. స్వేచ్ఛ](core_01_a_values_principles.md#5-freedom-bounded-agency), [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims).
-- గమ్యం: [15. సమగ్ర వర్తింపు](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application).
+- మూలం: సూత్రాలు: [2. పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. విశ్వాసం](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 బాధ్యతాయుత నిర్వహణ మరియు పంపిణీ అవగాహన](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. ప్రక్రియ సంఘర్షణ పరిష్కారం](#6-process-conflict-resolution), [5. స్వేచ్ఛ](core_01_a_values_principles.md#5-freedom-bounded-agency), [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims).
+- గమ్యం: [15. సమగ్ర వర్తింపు](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 - గమ్యం: సమానత్వం, సవాలు హక్కులు, పారదర్శకత, సవాలు-యోగ్యత, లేదా పరిమిత వ్యాఖ్యానం కుప్పకూల్చే ఒక-విలువ అధిగమన తర్కం నుండి హక్కుల ఉపరితలం రక్షిస్తుంది.
   - ప్రత్యేకంగా [అనుచ్ఛేదం V: సమాన ప్రాథమిక హక్కులు](../../core_06_rights_part_b.md#article-v-equal-basic-rights), [అనుచ్ఛేదం XII-B: సవాలు, సమీక్ష, పరిహారం హక్కు](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [అనుచ్ఛేదం XIV-B: పారదర్శకత, ఆడిట్-యోగ్యత, సవాలు-యోగ్యత](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability), [అనుచ్ఛేదం XVIII-B: సవాలు-యోగ్యత మరియు అనుపాత పరిమితి పరిమితులు](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits), [అనుచ్ఛేదం XXII-A: పరిమిత వ్యాఖ్యానాత్మక మాండేట్](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate).
 
@@ -607,8 +607,8 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: [ప్రస్తావన — రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad); [భౌతిక పందెం](core_00_preamble.md#material-stake) స్కేలింగ్ విభాగం జాడల ద్వారా అధ్యాయం-వ్యాప్తం.
-- గమ్యం: [§8.1 రాజ్యాంగ తప్పించుకోవడం-లేదు సూత్రం](#81-constitutional-no-bypass-principle), [§8.2 నిర్వచన పొర మరియు అవసరమైన క్రమశిక్షణలు](#82-definitional-layer-and-required-disciplines), [§8.3 అస్పష్టత పరిష్కారం](#83-ambiguity-resolution), [§8.4 రాజ్యాంగ అర్థ సంఘర్షణ పరిష్కారం](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing) నుండి [15. సమగ్ర వర్తింపు](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application); విలువ-ఢీకొనడం ప్రక్రియకు [6. ప్రక్రియ సంఘర్షణ పరిష్కారం](#6-process-conflict-resolution); [అధ్యాయం ఆరు: పునాది హక్కులు](../../core_06_rights_part_a.md#chapter-six-foundational-rights) సంకోచం-కాదు డిఫాల్ట్.
-- దీనితో చదవండి: [అధ్యాయాలు రెండు నుండి నాలుగు](../../core_02_definition_structure.md), [అధ్యాయం ఐదు](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — ఈ అధ్యాయంలో ప్రతి పదానికి వ్యాఖ్యాన, సాక్ష్య పొర.
+- గమ్యం: [§8.1 రాజ్యాంగ తప్పించుకోవడం-లేదు సూత్రం](#81-constitutional-no-bypass-principle), [§8.2 నిర్వచన పొర మరియు అవసరమైన క్రమశిక్షణలు](#82-definitional-layer-and-required-disciplines), [§8.3 అస్పష్టత పరిష్కారం](#83-ambiguity-resolution), [§8.4 రాజ్యాంగ అర్థ సంఘర్షణ పరిష్కారం](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing) నుండి [15. సమగ్ర వర్తింపు](core_01_c_stewardship_capacity_principles.md#15-integrated-application); విలువ-ఢీకొనడం ప్రక్రియకు [6. ప్రక్రియ సంఘర్షణ పరిష్కారం](#6-process-conflict-resolution); [అధ్యాయం ఆరు: పునాది హక్కులు](../../core_06_rights_part_a.md#chapter-six-foundational-rights) సంకోచం-కాదు డిఫాల్ట్.
+- దీనితో చదవండి: [అధ్యాయాలు రెండు నుండి నాలుగు](core_02_definition_structure.md), [అధ్యాయం ఐదు](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — ఈ అధ్యాయంలో ప్రతి పదానికి వ్యాఖ్యాన, సాక్ష్య పొర.
 - దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad), [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — సమగ్ర-విలువ ఫ్రేమ్‌వర్క్‌కు వ్యాఖ్యాన నేపథ్యం; భౌతికంగా సంబంధితమైన చోట [భౌతిక పందెం](core_00_preamble.md#material-stake) స్కేలింగ్.
 - దీనితో చదవండి: [అధికార స్టాక్ మరియు అంతర్గత క్రమాంకనం](../../core_05_band_integrative.md#authority-stack) (*మూల-పొర స్థితి*); [అధ్యాయం పదహారు](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*సంచిక-అభిరక్ష, సంచికలు, అంగీకార ఫ్రేమింగ్* — రెండో సంఘర్షణ-క్రమం ఇల్లు కాదు); [అధ్యాయం పదమూడు](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity), [అధ్యాయం పద్నాలుగు](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (§8.4 కింద తిరోగమనం-నిరోధం, అంగీకరించేవారి క్రమాంకన గేట్‌లు).
 - దీనితో చదవండి: సంస్థాగత వ్యాఖ్యాన రక్షణలకు [అనుచ్ఛేదం XXII: రాజ్యాంగ వ్యాఖ్యానం, సమీక్ష, స్వాధీన-నిరోధ రక్షణలు](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (ఈ విభాగానికి ప్రత్యామ్నాయం కాదు).
@@ -831,7 +831,7 @@
 
 **మునుపటి ఫైల్:** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 
-**తదుపరి ఫైల్ (ఇంకా ఆంగ్లంలో):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)
+**తదుపరి ఫైల్ (ఈ భాషలో):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
 **బంధనీయ మూలం:** [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md)
 

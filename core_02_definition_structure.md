@@ -192,9 +192,12 @@ Chapter Five leaf definitions must carry those C requirements using the Complian
 *In plain terms: building a definition correctly is not enough — it must stay intact when applied. Definitions cannot be satisfied piecemeal, weakened by interpretation, or gamed through scope carving — including by optimizing a measure while the outcome it stands for degrades. Where the language allows more than one reading, choose the one that preserves full protective scope.*
 
 #### 2.1 Core Integrity Conditions
-Every definition must hold together. Each one is built from three parts: what the term is (its Ontological part, O), how it must be measured and assessed (its Assessment part, A, with the Measurement register, M, woven into it), and what must be true in practice (its Compliance part, C). Those parts must agree with one another in every setting and system where the definition applies. A definition is met only when its O, A, and C parts are all met together; satisfying one or two of them is not enough. (For how the Measurement register sits inside the Assessment part, see [§1.3 Assessment Components](#13-assessment-components).)
+Every definition must hold together when applied. The linked parts required by [§1 Purpose and Role](#1-purpose-and-role) must:
+- still agree with one another
+- all be met together; satisfying one or two of them is not enough
+- be met on the same system and under the same conditions — you cannot pass one part on a narrow slice and another part on a different slice
 
-The parts must be met on the same system and under the same conditions — you cannot pass one part on a narrow slice and another part on a different slice. Failing any part means the definition is not met. Where a definition uses measures, those measures must track what they are supposed to assess and the real-world result they stand for; hitting a measure while the real-world result falls short does not meet the definition.
+Failing any part means the definition is not met.
 
 #### 2.2 Non-Compliance by Structural or Applied Weakening
 A definition is not met if the way it is built, read, or applied lets one part be satisfied while:

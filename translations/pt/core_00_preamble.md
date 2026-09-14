@@ -130,22 +130,22 @@ Os Capítulos **Um a Seis** fornecem os valores, o vocabulário, a maquinaria de
 
 Cada resumo enuncia o que cabe ao capítulo e o que ele produz.
 
-**Capítulo Um — Valores, princípios e administração responsável** ([Parte A](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [Parte B](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [Parte C](../../core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+**Capítulo Um — Valores, princípios e administração responsável** ([Parte A](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [Parte B](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [Parte C](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
 
 - **O que lhe cabe:** Enuncia os valores e as restrições-guia da Constituição — bem-estar, equidade, Segurança, Verdade, Confiança, liberdade limitada, reconhecimento e recompensa proporcional pela contribuição lícita, resolução de conflitos entre princípios, e deveres de administração responsável que incluem compreensão distribuída, avaliação sistêmica e disciplina de governança.
 - **O que produz:** O alicerce interpretativo de cada capítulo posterior — as regras que convertem os fins de alto nível em requisitos operativos quando sistemas, direitos, definições ou cadeias de processo precisam ser lidos e aplicados.
 
-**Capítulo Dois — Estrutura das definições** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**Capítulo Dois — Estrutura das definições** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **O que lhe cabe:** Define como os termos constitucionais são construídos — a estrutura de componentes Ontológico/Medição/Avaliação/Conformidade (O/M/A/C), os requisitos de alinhamento e as regras de componente que mantêm as definições precisas e usáveis em todo o corpus.
 - **O que produz:** Uma gramática compartilhada para as definições, para que os capítulos posteriores não caiam em rótulos vagos, pressupostos ocultos ou formas de termo incompatíveis.
 
-**Capítulo Três — Integridade das definições** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**Capítulo Três — Integridade das definições** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **O que lhe cabe:** Guarda contra evasão, deslocamento de alcance, jogos de redefinição e truques de não conformidade que esvaziariam as definições no papel enquanto as derrotam na prática.
 - **O que produz:** Disciplina antievasão e metadados de orientação de não conformidade — inclusive ganchos de roteamento rumo à trajetória e à revisão de má conduta onde a evasão fica comprovada.
 
-**Capítulo Quatro — Ônus, rastreabilidade e verificação** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**Capítulo Quatro — Ônus, rastreabilidade e verificação** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **O que lhe cabe:** Põe o ônus da prova em quem afirma a conformidade; exige evidência rastreável, observabilidade e verificação que se escalam à [**aposta material**](#material-stake) e permanecem impugnáveis na prática.
 - **O que produz:** A cadeia de verificação que alimenta os **insumos verificados** no [Capítulo Oito](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) e a evidência de alinhamento do sistema no [Capítulo Sete](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) — sem substituir a medição de trajetória em si.

@@ -10,7 +10,7 @@
 >
 > **Trước (ngôn ngữ này):** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 >
-> **Tiếp theo (vẫn tiếng Anh):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md) (Chương Một, Phần C — §§9–14, quản trị có trách nhiệm và quản trị).
+> **Tiếp theo (ngôn ngữ này):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (Chương Một, Phần C — §§9–15, quản trị có trách nhiệm và quản trị).
 > **Cung đọc:** §6 giải quyết xung đột quy trình → §7 cấm phủ tuyệt đối → §8 diễn giải hiến pháp.
 
 </details>
@@ -56,7 +56,7 @@
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Đọc cùng: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — tham gia, giám sát, trách nhiệm giải trình, và kịp thời trong thủ tục, công bố, xử lý va chạm, và khắc phục; chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake).
-- Thượng nguồn: Nguyên tắc: [2. Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Tin cậy](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. Tự do (Quyền năng bị giới hạn)](core_01_a_values_principles.md#5-freedom-bounded-agency), và [§9 Quản trị có trách nhiệm và hiểu biết phân tán](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
+- Thượng nguồn: Nguyên tắc: [2. Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Tin cậy](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. Tự do (Quyền năng bị giới hạn)](core_01_a_values_principles.md#5-freedom-bounded-agency), và [§9 Quản trị có trách nhiệm và hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
 - Hạ nguồn: [6.2.1 Giữ tính toàn vẹn nhận thức](#621-preservation-of-epistemic-integrity), [kỷ luật hồ sơ quyết định §6.1](#615-rights-collision-decision-test), [tư thế tạm mặc định](#default-interim-posture), và [7. Cấm phủ tuyệt đối](#7-prohibition-on-absolute-override).
 - Hạ nguồn: Quản trị xung đột xuyên điều trên [Chương Sáu: Quyền nền tảng](../../core_06_rights_part_a.md#chapter-six-foundational-rights).
   - Đọc điều này cùng [Điều XXII: Diễn giải hiến pháp, rà soát, và bảo vệ chống chiếm](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) và [Điều XXIII: Giải quyết xung đột, leo thang, và tính tương xứng khẩn cấp](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality).
@@ -198,7 +198,7 @@ Giảm thiểu hại chọn giữa các lựa chọn đã vượt những sàn �
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Đọc cùng: [§10.1 Quản trị như cấu trúc được ủy quyền](../../core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
+- Đọc cùng: [§10.1 Quản trị như cấu trúc được ủy quyền](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
 
 </details>
 
@@ -268,7 +268,7 @@ Hạn chế **giá trị** hiến pháp — kể cả bảo vệ Sàn Quyền **
 - Hạn chế tạm thời quyền cụ thể chỉ được phép khi thỏa [Nguyên tắc ràng buộc hạn chế nhẹ nhất, có hạn thời gian, và rà soát được](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) và các điều khoản khẩn cấp của [Điều XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Biện pháp khẩn cấp và gánh tiếp tục*) — nghĩa là mọi hạn chế phải được biện minh, tối thiểu, có hồ sơ, có hạn thời gian, và rà soát độc lập được. Điều cụ thể có thể thêm bảo vệ mạnh hơn, nhưng chúng không được thu hẹp nguyên tắc này hoặc dùng nhãn tiện, hiệu quả, phân loại, khẩn cấp, chuyển tiếp, quỹ đạo, tu chính, hợp đồng, hoặc triển khai để lách nó.
 
 <a id="anti-degrading-process-principle"></a>
-**Nguyên tắc chống quy trình làm suy.** [Nguyên tắc chống quy trình làm suy (§9.6)](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) nêu ở Phần C vận hành như sàn tuyệt đối trong chồng đánh đổi này.
+**Nguyên tắc chống quy trình làm suy.** [Nguyên tắc chống quy trình làm suy (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) nêu ở Phần C vận hành như sàn tuyệt đối trong chồng đánh đổi này.
 - Không hạn chế, biện pháp khắc phục, hoặc quy trình sống sót sự cần thiết, giảm thiểu hại, và tính tương xứng nào được thiết kế, khung, thực hiện, hoặc cho phép vận hành như làm suy, nhục, diễn, trả đũa, đè phân biệt, hoặc bào mòn quyền vì tiện.
 - Kết quả nội dung đúng giao qua quy trình làm suy vẫn không tuân thủ.
 - Nơi tính cách bị cấm là khổ như mục đích tự nó hoặc gây hại vô cớ / làm suy — kể cả nhục vì chính nó — đọc cùng [Tàn nhẫn](../../core_05_band_accountability.md#cruelty).
@@ -528,9 +528,9 @@ Sửa phải theo truy vết **Chương Bốn** và định nghĩa liên quan ch
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: [§6.1 Nguyên tắc đánh đổi cốt](#61-core-tradeoff-principles) (áp dụng sau khi chồng đánh đổi đã thỏa); [§9.1 Quản trị có trách nhiệm](../../core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 Hiệu quả hiến pháp](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
+- Thượng nguồn: [§6.1 Nguyên tắc đánh đổi cốt](#61-core-tradeoff-principles) (áp dụng sau khi chồng đánh đổi đã thỏa); [§9.1 Quản trị có trách nhiệm](core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 Hiệu quả hiến pháp](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
 - Đọc cùng: gia đình đo lường Hiệu năng Hiến pháp (*Gánh nặng có thể tránh như đo lường hiến pháp*); [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — trụ **tham gia** (gánh không đòi hiến pháp thu hẹp [Quyền năng có ý nghĩa](../../core_05_band_participation.md#meaningful-agency)); trụ **kịp thời** (trì hoãn có thể tránh là gánh có thể tránh).
-- Hạ nguồn: [§11.1.3 Áp dụng quản trị có trách nhiệm và người vận hành](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (khuyến khích không được thưởng tạo gánh không cần); [Điều XX: Quản trị có trách nhiệm đối với khả năng hiểu và độ phức tạp](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- Hạ nguồn: [§11.1.3 Áp dụng quản trị có trách nhiệm và người vận hành](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (khuyến khích không được thưởng tạo gánh không cần); [Điều XX: Quản trị có trách nhiệm đối với khả năng hiểu và độ phức tạp](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -564,7 +564,7 @@ Mục này:
 
 Tuyên bố một gánh cho trước được đòi hiến pháp phải thỏa yêu cầu bằng chứng và truy vết **Chương Bốn**. Tiện, quán tính thể chế, truyền thống, hoặc ưa một mình không đủ để nuôi gánh thiếu liên kết kiểm được tới kết quả hiến pháp, nhất quán với [kỷ luật hồ sơ quyết định §6.1](#615-rights-collision-decision-test).
 
-Nơi cấu trúc khuyến khích tác động người quản trị có trách nhiệm hoặc người vận hành, mục này củng cố [§11.1.3 Áp dụng quản trị có trách nhiệm và người vận hành](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application). Khuyến khích quản trị có trách nhiệm không được thưởng tạo gánh không cần hơn việc chúng có thể thưởng lưu lượng thô.
+Nơi cấu trúc khuyến khích tác động người quản trị có trách nhiệm hoặc người vận hành, mục này củng cố [§11.1.3 Áp dụng quản trị có trách nhiệm và người vận hành](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application). Khuyến khích quản trị có trách nhiệm không được thưởng tạo gánh không cần hơn việc chúng có thể thưởng lưu lượng thô.
 
 <a id="7-prohibition-on-absolute-override"></a>
 ### 7. Cấm phủ tuyệt đối
@@ -573,8 +573,8 @@ Nơi cấu trúc khuyến khích tác động người quản trị có trách n
 
 - Đọc cùng: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — không giá trị đơn lẻ nào được viện để làm rỗng **tham gia**, **giám sát**, **trách nhiệm giải trình**, hoặc **kịp thời** dưới yêu cầu [lợi hại vật chất](core_00_preamble.md#material-stake).
 - Đọc cùng: [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) — không **Hưng thịnh** cũng không **Liên tục** được viện như át đối với cái kia, đối với An toàn và Sự thật, hoặc đối với kỷ luật tứ diện; cấm phủ tuyệt đối bảo vệ cuộc theo đuổi cả hai mục tiêu cùng nhau.
-- Thượng nguồn: Nguyên tắc: [2. Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Tin cậy](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 Quản trị có trách nhiệm và hiểu biết phân tán](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. Giải quyết xung đột quy trình](#6-process-conflict-resolution), [5. Tự do](core_01_a_values_principles.md#5-freedom-bounded-agency), và [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims).
-- Hạ nguồn: [15. Áp dụng tích hợp](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application).
+- Thượng nguồn: Nguyên tắc: [2. Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Tin cậy](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 Quản trị có trách nhiệm và hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. Giải quyết xung đột quy trình](#6-process-conflict-resolution), [5. Tự do](core_01_a_values_principles.md#5-freedom-bounded-agency), và [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims).
+- Hạ nguồn: [15. Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 - Hạ nguồn: Bảo vệ bề mặt quyền chống logic phủ một-giá-trị sẽ sập bình đẳng, quyền tranh biện, minh bạch, khả năng tranh biện, hoặc diễn giải có giới hạn.
   - Đặc biệt [Điều V: Quyền cơ bản bình đẳng](../../core_06_rights_part_b.md#article-v-equal-basic-rights), [Điều XII-B: Quyền tranh biện, rà soát, và khắc phục](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [Điều XIV-B: Minh bạch, khả năng kiểm toán, và khả năng tranh biện](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability), [Điều XVIII-B: Khả năng tranh biện và giới hạn hạn chế tương xứng](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits), và [Điều XXII-A: Nhiệm vụ diễn giải có giới hạn](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate).
 
@@ -607,8 +607,8 @@ Không giá trị định nghĩa trong chương này được dùng như biện 
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [Lời nói đầu — Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad); chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake) áp dụng xuyên chương qua dấu vết mục.
-- Hạ nguồn: [§8.1 Nguyên tắc hiến pháp không lách](#81-constitutional-no-bypass-principle), [§8.2 Tầng định nghĩa và kỷ luật đòi](#82-definitional-layer-and-required-disciplines), [§8.3 Giải sự mơ hồ](#83-ambiguity-resolution), [§8.4 Giải xung đột nghĩa hiến pháp](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing) đến [15. Áp dụng tích hợp](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application); [6. Giải quyết xung đột quy trình](#6-process-conflict-resolution) cho thủ tục va chạm giá trị; [Chương Sáu: Quyền nền tảng](../../core_06_rights_part_a.md#chapter-six-foundational-rights) mặc định không thu hẹp.
-- Đọc cùng: [Chương Hai đến Bốn](../../core_02_definition_structure.md) và [Chương Năm](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — tầng diễn giải và bằng chứng cho mọi thuật ngữ trong chương này.
+- Hạ nguồn: [§8.1 Nguyên tắc hiến pháp không lách](#81-constitutional-no-bypass-principle), [§8.2 Tầng định nghĩa và kỷ luật đòi](#82-definitional-layer-and-required-disciplines), [§8.3 Giải sự mơ hồ](#83-ambiguity-resolution), [§8.4 Giải xung đột nghĩa hiến pháp](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing) đến [15. Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#15-integrated-application); [6. Giải quyết xung đột quy trình](#6-process-conflict-resolution) cho thủ tục va chạm giá trị; [Chương Sáu: Quyền nền tảng](../../core_06_rights_part_a.md#chapter-six-foundational-rights) mặc định không thu hẹp.
+- Đọc cùng: [Chương Hai đến Bốn](core_02_definition_structure.md) và [Chương Năm](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — tầng diễn giải và bằng chứng cho mọi thuật ngữ trong chương này.
 - Đọc cùng: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) và [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) — phông diễn giải cho khung giá trị tích hợp; chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake) nơi liên quan vật chất.
 - Đọc cùng: [Chồng thẩm quyền và thứ bậc nội bộ](../../core_05_band_integrative.md#authority-stack) (*trạng thái tầng nguồn*); [Chương Mười Sáu](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*lưu giữ, ấn bản, khung tiếp nhận* — không phải nhà thứ tự xung đột thứ hai); [Chương Mười Ba](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) và [Chương Mười Bốn](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*không thoái lui và cổng thứ bậc bên tiếp nhận dưới §8.4*).
 - Đọc cùng: [Điều XXII: Diễn giải hiến pháp, rà soát, và bảo vệ chống chiếm](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) cho bảo vệ diễn giải thể chế (không phải vật thay mục này).
@@ -831,6 +831,6 @@ Thu hẹp «tạm» thầm hoặc hạn mở không được tính.
 
 **Tệp trước:** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 
-**Tệp tiếp theo (vẫn tiếng Anh):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)
+**Tệp tiếp theo (ngôn ngữ này):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
 **Nguyên bản ràng buộc:** [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md)

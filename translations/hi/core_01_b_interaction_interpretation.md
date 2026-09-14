@@ -9,7 +9,7 @@
 > यह फ़ाइल [अंग्रेज़ी अध्याय एक, भाग ख](../../core_01_b_interaction_interpretation.md) का **पाठक-भाषा पायलट** है। यह संज्ञ संविधान का **बाध्यकारी भाग नहीं** है। यह **दूसरा संविधान नहीं** है। यह **प्रेषण संस्करण नहीं** है। यह `SC-Corpus-2026.08.09` से **जुड़ी** है। यदि यह अनुवाद और अंग्रेज़ी मूल में अंतर दिखे, तो क्रमांकित [`core_01_b_interaction_interpretation.md`](../../core_01_b_interaction_interpretation.md) जीतता है। पढ़ने का क्रम और संस्करण मेटाडेटा [README.md](../../README.md) में रहते हैं। विधि और शब्द-सूची: [translations/hi/README.md](README.md)।
 >
 > **पिछला (इस लोकेल में):** [core_01_a_values_principles.md](core_01_a_values_principles.md) (अध्याय एक, भाग क — §§1–5)।  
-> **अगला (अभी अंग्रेज़ी में):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md) (अध्याय एक, भाग ग — §§9–14, उत्तरदायी प्रबंधन और शासन)।
+> **अगला (इस भाषा में):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (अध्याय एक, भाग ग — §§9–14, उत्तरदायी प्रबंधन और शासन)।
 > **पढ़ने का चाप:** §6 प्रक्रिया संघर्ष समाधान → §7 पूर्ण अध्यारोहण का निषेध → §8 संवैधानिक व्याख्या।
 
 </details>
@@ -55,7 +55,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — प्रक्रिया, प्रकटीकरण, टकराव संचालन और उपचार में सहभागिता, निगरानी, जवाबदेही और समयबद्धता; [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग।
-- ऊर्ध्व: सिद्धांत: [2. आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. विश्वास](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. स्वतंत्रता (सीमाबद्ध अभिकर्तृत्व)](core_01_a_values_principles.md#5-freedom-bounded-agency), और [§9 उत्तरदायी प्रबंधन और वितरित समझ](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)।
+- ऊर्ध्व: सिद्धांत: [2. आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. विश्वास](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. स्वतंत्रता (सीमाबद्ध अभिकर्तृत्व)](core_01_a_values_principles.md#5-freedom-bounded-agency), और [§9 उत्तरदायी प्रबंधन और वितरित समझ](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)।
 - अधो: [6.2.1 ज्ञानमीमांसीय अखंडता का संरक्षण](#621-preservation-of-epistemic-integrity), [§6.1 निर्णय-अभिलेख अनुशासन](#615-rights-collision-decision-test), [डिफ़ॉल्ट अंतरिम मुद्रा](#default-interim-posture), और [7. पूर्ण अध्यारोहण का निषेध](#7-prohibition-on-absolute-override)।
 - अधो: [अध्याय छह: आधारभूत अधिकार](../../core_06_rights_part_a.md#chapter-six-foundational-rights) में अनुच्छेद-पार संघर्षों को शासित करता है।
   - इसे [अनुच्छेद XXII: संवैधानिक व्याख्या, समीक्षा और कब्ज़ा-निरोध सुरक्षाएँ](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) और [अनुच्छेद XXIII: संघर्ष समाधान, वृद्धि और आपातकालीन आनुपातिकता](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) के साथ पढ़ें।
@@ -197,7 +197,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- साथ पढ़ें: [§10.1 शासन अधिकृत संरचना के रूप में](../../core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure)।
+- साथ पढ़ें: [§10.1 शासन अधिकृत संरचना के रूप में](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure)।
 
 </details>
 
@@ -267,7 +267,7 @@
 - विशिष्ट अधिकारों का अस्थायी प्रतिबंध केवल तब अनुमत है जब वह [न्यूनतम-प्रतिबंधक, समय-सीमित और समीक्षा-योग्य बंधन सिद्धांत](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) और [अनुच्छेद XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*आपातकालीन उपाय और निरंतरता भार*) के आपातकालीन प्रावधान पूरे करे — अर्थात कोई भी प्रतिबंध न्यायोचित, न्यूनतम, प्रलेखित, समय-सीमित और स्वतंत्र रूप से समीक्षा-योग्य होना चाहिए। विशिष्ट अनुच्छेद मज़बूत सुरक्षाएँ जोड़ सकते हैं, पर वे इस सिद्धांत को संकीर्ण नहीं कर सकते, न सुविधा, दक्षता, वर्गीकरण, आपातकाल, संक्रमण, प्रस्थिति, संशोधन, अनुबंध, या कार्यान्वयन लेबलों से इसे बाईपास कर सकते हैं।
 
 <a id="anti-degrading-process-principle"></a>
-**प्रक्रिया-अवनति-निषेध सिद्धांत।** भाग ग में कथित [प्रक्रिया-अवनति-निषेध सिद्धांत (§9.6)](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) इस व्यापार ढेर में निरपेक्ष तल के रूप में चलता है।
+**प्रक्रिया-अवनति-निषेध सिद्धांत।** भाग ग में कथित [प्रक्रिया-अवनति-निषेध सिद्धांत (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) इस व्यापार ढेर में निरपेक्ष तल के रूप में चलता है।
 - आवश्यकता, हानि न्यूनीकरण और आनुपातिकता पार करने वाला कोई प्रतिबंध, उपचार या प्रक्रिया अवनति, अपमान, तमाशा, प्रतिशोध, भेदभावपूर्ण भारण, या सुविधा-चालित अधिकार क्षरण के रूप में डिज़ाइन, प्रस्तुत, चलाई, या चलने नहीं दी जा सकती।
 - अवनत प्रक्रिया से दिया गया सही सारभूत परिणाम अभी भी अनुपालन-भंग रहता है।
 - जहाँ निषिद्ध चरित्र स्वयं साध्य के रूप में कष्ट हो, या निरर्थक / अवनत पीड़ा — स्वयं अपमान सहित — [क्रूरता](../../core_05_band_accountability.md#cruelty) के साथ पढ़ें।
@@ -527,9 +527,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: [§6.1 मूल व्यापार सिद्धांत](#61-core-tradeoff-principles) (व्यापार ढेर पूरे होने के बाद लागू); [§9.1 उत्तरदायी प्रबंधन](../../core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 संवैधानिक दक्षता](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)।
+- ऊर्ध्व: [§6.1 मूल व्यापार सिद्धांत](#61-core-tradeoff-principles) (व्यापार ढेर पूरे होने के बाद लागू); [§9.1 उत्तरदायी प्रबंधन](core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 संवैधानिक दक्षता](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)।
 - साथ पढ़ें: संवैधानिक प्रदर्शन मापन परिवार (*संवैधानिक मापन के रूप में परिहार्य भार*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **सहभागिता** टाँग (जो भार संवैधानिक रूप से अपेक्षित नहीं वह [अर्थपूर्ण अभिकर्तृत्व](../../core_05_band_participation.md#meaningful-agency) संकीर्ण करता है); **समयबद्धता** टाँग (परिहार्य देर परिहार्य भार है)।
-- अधो: [§11.1.3 उत्तरदायी प्रबंधन और संचालक अनुप्रयोग](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (प्रोत्साहन अनावश्यक भार सृजन का पुरस्कार नहीं दे सकते); [अनुच्छेद XX: बोधगम्यता और जटिलता का उत्तरदायी प्रबंधन](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)।
+- अधो: [§11.1.3 उत्तरदायी प्रबंधन और संचालक अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (प्रोत्साहन अनावश्यक भार सृजन का पुरस्कार नहीं दे सकते); [अनुच्छेद XX: बोधगम्यता और जटिलता का उत्तरदायी प्रबंधन](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)।
 
 </details>
 
@@ -563,7 +563,7 @@
 
 यह दावा कि दिया गया भार संवैधानिक रूप से अपेक्षित है, **अध्याय चार** साक्ष्य और पता-योग्यता अपेक्षाएँ पूरी करे। सुविधा, संस्थागत जड़ता, परंपरा, या पसंद अकेले उस भार को बनाए रखने के लिए पर्याप्त नहीं जो संवैधानिक परिणाम से जाँच-योग्य संबंध रखता न हो, [§6.1 निर्णय-अभिलेख अनुशासन](#615-rights-collision-decision-test) से सुसंगत।
 
-जहाँ प्रोत्साहन संरचनाएँ प्रबंधकों या संचालकों पर काम करें, यह अनुभाग [§11.1.3 उत्तरदायी प्रबंधन और संचालक अनुप्रयोग](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) को सुदृढ़ करता है। उत्तरदायी-प्रबंधन प्रोत्साहन अनावश्यक भार सृजन का उतना ही पुरस्कार नहीं दे सकते जितना कच्चा प्रवाह का।
+जहाँ प्रोत्साहन संरचनाएँ प्रबंधकों या संचालकों पर काम करें, यह अनुभाग [§11.1.3 उत्तरदायी प्रबंधन और संचालक अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) को सुदृढ़ करता है। उत्तरदायी-प्रबंधन प्रोत्साहन अनावश्यक भार सृजन का उतना ही पुरस्कार नहीं दे सकते जितना कच्चा प्रवाह का।
 
 <a id="7-prohibition-on-absolute-override"></a>
 ### 7. पूर्ण अध्यारोहण का निषेध
@@ -572,8 +572,8 @@
 
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — कोई अकेला मूल्य **सहभागिता**, **निगरानी**, **जवाबदेही**, या **समयबद्धता** को [भौतिक दाँव](core_00_preamble.md#material-stake) अपेक्षाओं से नीचे खोखला करने के लिए नहीं बुलाया जा सकता।
 - साथ पढ़ें: [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — न **समुन्नति** न **सातत्य** दूसरे पर, सुरक्षा और सत्य पर, या चतुष्क अनुशासन पर तुरुप के रूप में बुलाए जा सकते हैं; पूर्ण अध्यारोहण का निषेध दोनों उद्देश्यों का साथ पीछा सुरक्षित रखता है।
-- ऊर्ध्व: सिद्धांत: [2. आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. विश्वास](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 उत्तरदायी प्रबंधन और वितरित समझ](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. प्रक्रिया संघर्ष समाधान](#6-process-conflict-resolution), [5. स्वतंत्रता](core_01_a_values_principles.md#5-freedom-bounded-agency), और [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims)।
-- अधो: [15. एकीकृत अनुप्रयोग](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application)।
+- ऊर्ध्व: सिद्धांत: [2. आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. विश्वास](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 उत्तरदायी प्रबंधन और वितरित समझ](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. प्रक्रिया संघर्ष समाधान](#6-process-conflict-resolution), [5. स्वतंत्रता](core_01_a_values_principles.md#5-freedom-bounded-agency), और [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims)।
+- अधो: [15. एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#15-integrated-application)।
 - अधो: एक-मूल्य अध्यारोहण तर्क के विरुद्ध अधिकार-सतह गढ़ता है जो समानता, चुनौती अधिकार, पारदर्शिता, चुनौती-योग्यता, या सीमाबद्ध व्याख्या गिरा दे।
   - विशेषकर [अनुच्छेद V: समान मूल अधिकार](../../core_06_rights_part_b.md#article-v-equal-basic-rights), [अनुच्छेद XII-B: चुनौती, समीक्षा और उपचार का अधिकार](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [अनुच्छेद XIV-B: पारदर्शिता, लेखापरीक्षा-योग्यता और चुनौती-योग्यता](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability), [अनुच्छेद XVIII-B: चुनौती-योग्यता और आनुपातिक प्रतिबंध सीमाएँ](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits), और [अनुच्छेद XXII-A: सीमाबद्ध व्याख्यात्मक अधिदेश](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate)।
 
@@ -606,8 +606,8 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: [प्रस्तावना — संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग खंड-अनुरेखों के माध्यम से पूरे अध्याय पर लागू होती है।
-- अधो: [§8.1 संवैधानिक बाईपास-निषेध सिद्धांत](#81-constitutional-no-bypass-principle), [§8.2 परिभाषा परत और अपेक्षित अनुशासन](#82-definitional-layer-and-required-disciplines), [§8.3 अस्पष्टता समाधान](#83-ambiguity-resolution), [§8.4 संवैधानिक अर्थ संघर्ष समाधान](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing) से [15. एकीकृत अनुप्रयोग](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application) तक; मूल्य-टकराव प्रक्रिया के लिए [6. प्रक्रिया संघर्ष समाधान](#6-process-conflict-resolution); [अध्याय छह: आधारभूत अधिकार](../../core_06_rights_part_a.md#chapter-six-foundational-rights) गैर-संकुचन डिफ़ॉल्ट।
-- साथ पढ़ें: [अध्याय दो से चार](../../core_02_definition_structure.md) और [अध्याय पाँच](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — इस अध्याय के प्रत्येक पद की व्याख्यात्मक और साक्ष्य परत।
+- अधो: [§8.1 संवैधानिक बाईपास-निषेध सिद्धांत](#81-constitutional-no-bypass-principle), [§8.2 परिभाषा परत और अपेक्षित अनुशासन](#82-definitional-layer-and-required-disciplines), [§8.3 अस्पष्टता समाधान](#83-ambiguity-resolution), [§8.4 संवैधानिक अर्थ संघर्ष समाधान](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing) से [15. एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#15-integrated-application) तक; मूल्य-टकराव प्रक्रिया के लिए [6. प्रक्रिया संघर्ष समाधान](#6-process-conflict-resolution); [अध्याय छह: आधारभूत अधिकार](../../core_06_rights_part_a.md#chapter-six-foundational-rights) गैर-संकुचन डिफ़ॉल्ट।
+- साथ पढ़ें: [अध्याय दो से चार](core_02_definition_structure.md) और [अध्याय पाँच](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — इस अध्याय के प्रत्येक पद की व्याख्यात्मक और साक्ष्य परत।
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) और [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — एकीकृत-मूल्य ढाँचे की व्याख्यात्मक पृष्ठभूमि; जहाँ तात्विक रूप से प्रासंगिक हो [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग।
 - साथ पढ़ें: [प्राधिकार ढेर और आंतरिक पदानुक्रम](../../core_05_band_integrative.md#authority-stack) (*स्रोत-परत स्थिति*); [अध्याय सोलह](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*अभिरक्षा, संस्करण, अंगीकार ढाँचा* — दूसरा संघर्ष-क्रम घर नहीं); [अध्याय तेरह](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) और [अध्याय चौदह](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*§8.4 के अधीन गैर-पश्चगमन और अंगीकारकर्ता पदानुक्रम द्वार*)।
 - साथ पढ़ें: संस्थागत व्याख्या सुरक्षाओं के लिए [अनुच्छेद XXII: संवैधानिक व्याख्या, समीक्षा और कब्ज़ा-निरोध सुरक्षाएँ](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (इस अनुभाग का स्थानापन्न नहीं)।
@@ -830,6 +830,6 @@
 
 **पिछली फ़ाइल:** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 
-**अगली फ़ाइल (अभी अंग्रेज़ी में):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)
+**अगली फ़ाइल (इस भाषा में):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
 **बाध्यकारी मूल:** [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md)

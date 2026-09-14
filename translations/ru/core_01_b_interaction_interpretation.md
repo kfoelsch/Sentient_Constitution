@@ -10,7 +10,7 @@
 >
 > **Предыдущий (этот язык):** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 >
-> **Следующий (ещё на английском):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md) (Глава первая, Часть C — §§9–14, ответственное управление и управление).
+> **Следующий (на этом языке):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (Глава первая, Часть C — §§9–14, ответственное управление и управление).
 > **Дуга чтения:** §6 разрешение процессуальных конфликтов → §7 запрет абсолютной отмены → §8 конституционное толкование.
 
 </details>
@@ -56,7 +56,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Читать вместе с: [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad) — участие, надзор, подотчётность и своевременность в процедуре, раскрытии, обработке столкновений и восстановлении; масштабирование по [материальной ставке](core_00_preamble.md#material-stake).
-- Исход: Принципы: [2. Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Доверие](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. Свобода (ограниченная агентность)](core_01_a_values_principles.md#5-freedom-bounded-agency) и [§9 Ответственное управление и распределённое понимание](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
+- Исход: Принципы: [2. Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Доверие](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. Свобода (ограниченная агентность)](core_01_a_values_principles.md#5-freedom-bounded-agency) и [§9 Ответственное управление и распределённое понимание](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
 - Назначение: [6.2.1 Сохранение эпистемической целостности](#621-preservation-of-epistemic-integrity), [дисциплина записи решения §6.1](#615-rights-collision-decision-test), [промежуточная поза по умолчанию](#default-interim-posture) и [7. Запрет абсолютной отмены](#7-prohibition-on-absolute-override).
 - Назначение: Управляет межстатейными конфликтами по [Главе шестой: Основополагающие права](../../core_06_rights_part_a.md#chapter-six-foundational-rights).
   - Читать это вместе со [Статьёй XXII: Конституционное толкование, пересмотр и гарантии против захвата](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) и [Статьёй XXIII: Разрешение конфликтов, эскалация и чрезвычайная соразмерность](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality).
@@ -198,7 +198,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Читать вместе с: [§10.1 Управление как уполномоченная структура](../../core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
+- Читать вместе с: [§10.1 Управление как уполномоченная структура](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
 
 </details>
 
@@ -268,7 +268,7 @@
 - Временное ограничение конкретных прав разрешено только когда оно удовлетворяет [Принципу наименее ограничительного, ограниченного по времени и подлежащего пересмотру ограничения](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) и чрезвычайным положениям [Статьи XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Чрезвычайные меры и бремя продолжения*) — то есть любое ограничение должно быть оправдано, минимально, задокументировано, ограничено по времени и независимо подлежаще пересмотру. Конкретные статьи могут добавлять более сильные гарантии, но они не могут сузить этот принцип или использовать ярлыки удобства, эффективности, классификации, чрезвычайности, перехода, траектории, поправки, договора или реализации, чтобы его обойти.
 
 <a id="anti-degrading-process-principle"></a>
-**Принцип антидеградирующего процесса.** [Принцип антидеградирующего процесса (§9.6)](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline), изложенный в Части C, работает как абсолютный пол в этом стеке компромисса.
+**Принцип антидеградирующего процесса.** [Принцип антидеградирующего процесса (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline), изложенный в Части C, работает как абсолютный пол в этом стеке компромисса.
 - Никакое ограничение, средство защиты или процесс, который выживает необходимость, минимизацию вреда и соразмерность, не может быть спроектирован, оформлен, проведён или допущен к работе как деградация, унижение, зрелище, месть, дискриминационное обременение или эрозия прав, движимая удобством.
 - Правильный содержательный исход, доставленный через деградирующий процесс, остаётся несоответствующим.
 - Там, где запрещённый характер — страдание как цель сама по себе или безвозмездное / деградирующее причинение — включая унижение ради него самого — читать вместе с [Жестокостью](../../core_05_band_accountability.md#cruelty).
@@ -528,9 +528,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: [§6.1 Основные принципы компромисса](#61-core-tradeoff-principles) (применяется после удовлетворения стека компромисса); [§9.1 Ответственное управление](../../core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 Конституционная эффективность](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
+- Исход: [§6.1 Основные принципы компромисса](#61-core-tradeoff-principles) (применяется после удовлетворения стека компромисса); [§9.1 Ответственное управление](core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 Конституционная эффективность](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
 - Читать вместе с: семьёй измерения Конституционной результативности (*Избежимая нагрузка как конституционное измерение*); [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad) — нога **участия** (нагрузка, которая не конституционно требуется, сужает [Значимую агентность](../../core_05_band_participation.md#meaningful-agency)); нога **своевременности** (избежимая задержка — избежимая нагрузка).
-- Назначение: [§11.1.3 Применение к ответственному управлению и операторам](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (стимулы не должны вознаграждать ненужное создание нагрузки); [Статья XX: Понятность и ответственное управление сложностью](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- Назначение: [§11.1.3 Применение к ответственному управлению и операторам](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (стимулы не должны вознаграждать ненужное создание нагрузки); [Статья XX: Понятность и ответственное управление сложностью](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -564,7 +564,7 @@
 
 Заявления, что данная нагрузка конституционно требуется, должны удовлетворять требованиям доказательств и прослеживаемости **Главы четвёртой**. Удобство, институциональная инерция, традиция или предпочтение сами по себе недостаточны, чтобы поддерживать нагрузку, которой не хватает проверяемой связи с конституционным исходом, согласованно с [дисциплиной записи решения §6.1](#615-rights-collision-decision-test).
 
-Там, где структуры стимулов действуют на ответственных управляющих или операторов, этот раздел усиливает [§11.1.3 Применение к ответственному управлению и операторам](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application). Стимулы ответственного управления не должны вознаграждать ненужное создание нагрузки больше, чем они могут вознаграждать сырой пропуск.
+Там, где структуры стимулов действуют на ответственных управляющих или операторов, этот раздел усиливает [§11.1.3 Применение к ответственному управлению и операторам](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application). Стимулы ответственного управления не должны вознаграждать ненужное создание нагрузки больше, чем они могут вознаграждать сырой пропуск.
 
 <a id="7-prohibition-on-absolute-override"></a>
 ### 7. Запрет абсолютной отмены
@@ -573,8 +573,8 @@
 
 - Читать вместе с: [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad) — ни одна отдельная ценность не может призываться, чтобы выхолостить **участие**, **надзор**, **подотчётность** или **своевременность** ниже требований [материальной ставки](core_00_preamble.md#material-stake).
 - Читать вместе с: [Две конституционные цели](core_00_preamble.md#two-constitutional-aims) — ни **Расцвет**, ни **Преемственность** не могут призываться как козырь над другой, над Безопасностью и Истиной или над дисциплиной тетрады; запрет абсолютной отмены защищает преследование обеих целей вместе.
-- Исход: Принципы: [2. Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Доверие](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 Ответственное управление и распределённое понимание](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. Разрешение процессуальных конфликтов](#6-process-conflict-resolution), [5. Свобода](core_01_a_values_principles.md#5-freedom-bounded-agency) и [Две конституционные цели](core_00_preamble.md#two-constitutional-aims).
-- Назначение: [15. Интегрированное применение](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application).
+- Исход: Принципы: [2. Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Доверие](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 Ответственное управление и распределённое понимание](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. Разрешение процессуальных конфликтов](#6-process-conflict-resolution), [5. Свобода](core_01_a_values_principles.md#5-freedom-bounded-agency) и [Две конституционные цели](core_00_preamble.md#two-constitutional-aims).
+- Назначение: [15. Интегрированное применение](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 - Назначение: Защищает поверхность прав против логики отмены одной ценностью, которая схлопнула бы равенство, права оспаривания, прозрачность, оспоримость или ограниченное толкование.
   - Особенно [Статья V: Равные базовые права](../../core_06_rights_part_b.md#article-v-equal-basic-rights), [Статья XII-B: Право оспаривать, на пересмотр и восстановление](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [Статья XIV-B: Прозрачность, аудитируемость и оспоримость](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability), [Статья XVIII-B: Оспоримость и пределы соразмерного ограничения](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits) и [Статья XXII-A: Ограниченный толковательный мандат](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate).
 
@@ -607,8 +607,8 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Исход: [Преамбула — Конституционная тетрада](core_00_preamble.md#constitutional-tetrad); масштабирование по [материальной ставке](core_00_preamble.md#material-stake) применяется по всей главе через трассировки разделов.
-- Назначение: [§8.1 Конституционный принцип необхода](#81-constitutional-no-bypass-principle), [§8.2 Слой определений и требуемые дисциплины](#82-definitional-layer-and-required-disciplines), [§8.3 Разрешение неоднозначности](#83-ambiguity-resolution), [§8.4 Разрешение конфликта конституционного значения](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing) через [15. Интегрированное применение](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application); [6. Разрешение процессуальных конфликтов](#6-process-conflict-resolution) для процедуры столкновения ценностей; несокращающее значение по умолчанию [Главы шестой: Основополагающие права](../../core_06_rights_part_a.md#chapter-six-foundational-rights).
-- Читать вместе с: [Главами со второй по четвёртую](../../core_02_definition_structure.md) и [Главой пятой](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — толковательный и доказательственный слой для каждого термина в этой главе.
+- Назначение: [§8.1 Конституционный принцип необхода](#81-constitutional-no-bypass-principle), [§8.2 Слой определений и требуемые дисциплины](#82-definitional-layer-and-required-disciplines), [§8.3 Разрешение неоднозначности](#83-ambiguity-resolution), [§8.4 Разрешение конфликта конституционного значения](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing) через [15. Интегрированное применение](core_01_c_stewardship_capacity_principles.md#15-integrated-application); [6. Разрешение процессуальных конфликтов](#6-process-conflict-resolution) для процедуры столкновения ценностей; несокращающее значение по умолчанию [Главы шестой: Основополагающие права](../../core_06_rights_part_a.md#chapter-six-foundational-rights).
+- Читать вместе с: [Главами со второй по четвёртую](core_02_definition_structure.md) и [Главой пятой](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — толковательный и доказательственный слой для каждого термина в этой главе.
 - Читать вместе с: [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad) и [Две конституционные цели](core_00_preamble.md#two-constitutional-aims) — толковательный фон интегрированной рамки ценностей; масштабирование по [материальной ставке](core_00_preamble.md#material-stake) там, где материально релевантно.
 - Читать вместе с: [Стек власти и внутренняя иерархия](../../core_05_band_integrative.md#authority-stack) (*статус слоя источника*); [Глава шестнадцатая](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*хранение, издания, обрамление принятия* — не второй дом порядка конфликтов); [Глава тринадцатая](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) и [Глава четырнадцатая](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*ворота нерегресса и иерархии принявших под §8.4*).
 - Читать вместе с: [Статья XXII: Конституционное толкование, пересмотр и гарантии против захвата](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) для институциональных гарантий толкования (не замена этому разделу).
@@ -831,6 +831,6 @@
 
 **Предыдущий файл:** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 
-**Следующий файл (ещё на английском):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)
+**Следующий файл (на этом языке):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
 **Связывающий оригинал:** [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md)

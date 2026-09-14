@@ -10,7 +10,7 @@
 >
 > **前（本言語）：** [core_01_a_values_principles.md](core_01_a_values_principles.md)（第一章、A部 — §§1–5）
 >
-> **次（なお英語）：** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)（第一章、C部 — §§9–14、責務ある管理と統治）。
+> **次（この言語）：** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)（第一章、C部 — §§9–14、責務ある管理と統治）。
 > **読みの弧：** §6 過程衝突の解決 → §7 絶対的上書きの禁止 → §8 憲法解釈。
 
 </details>
@@ -56,7 +56,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — 手続、開示、衝突処理、救済における参加、監督、説明責任、適時性。[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ。
-- 上流：原則：[2. 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信頼](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[5. 自由（有界な行為主体性）](core_01_a_values_principles.md#5-freedom-bounded-agency)、[§9 責務ある管理と分散した理解](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)。
+- 上流：原則：[2. 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信頼](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[5. 自由（有界な行為主体性）](core_01_a_values_principles.md#5-freedom-bounded-agency)、[§9 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)。
 - 下流：[6.2.1 認識的誠実性の保全](#621-preservation-of-epistemic-integrity)、[§6.1 決定記録の規律](#615-rights-collision-decision-test)、[既定の暫定姿勢](#default-interim-posture)、[7. 絶対的上書きの禁止](#7-prohibition-on-absolute-override)。
 - 下流：[第六章：基礎権利](../../core_06_rights_part_a.md#chapter-six-foundational-rights)の条横断衝突を統治する。
   - [Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)および [Article XXIII：衝突解決、段階的拡大、緊急の比例性](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality)とあわせて読む。
@@ -198,7 +198,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- あわせて読む：[§10.1 授権された構造としての統治](../../core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure)。
+- あわせて読む：[§10.1 授権された構造としての統治](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure)。
 
 </details>
 
@@ -268,7 +268,7 @@
 - 特定の権利の一時的制限は、[制限最小、期限付き、審査可能な制約原則](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)と [Article XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden)（《緊急措置と継続負担》）の緊急規定を満たすときにのみ許される — すなわちいかなる制限も、正当化され、最小で、文書化され、期限付きで、独立して審査可能でなければならない。特定の条はより強い保障を加えうるが、この原則を狭めてはならず、都合、効率、分類、緊急、移行、軌跡、改正、契約、実施のラベルを用いてそれを迂回してはならない。
 
 <a id="anti-degrading-process-principle"></a>
-**過程劣化防止原則。** C部に述べられた[過程劣化防止原則（§9.6）](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline)は、この取引スタックにおける絶対の床として働く。
+**過程劣化防止原則。** C部に述べられた[過程劣化防止原則（§9.6）](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline)は、この取引スタックにおける絶対の床として働く。
 - 必要性、危害最小化、比例性を生き残った制限、救済、過程は、劣化、屈辱、見せ物、報復、差別的負担、都合駆動の権利侵食として設計され、枠づけられ、実行され、または働くことを許されてはならない。
 - 劣化する過程を通じて届けられた正しい実体結果は、なお不遵守である。
 - 禁じられた品格が、それ自体を目的とする苦しみ、または無益な / 品格を落とす加害 — それ自体のための屈辱を含む — であるところでは、[残虐](../../core_05_band_accountability.md#cruelty)とあわせて読む。
@@ -528,9 +528,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流：[§6.1 中核の取引原則](#61-core-tradeoff-principles)（取引スタックが満たされた後に適用）；[§9.1 責務ある管理](../../core_01_c_stewardship_capacity_principles.md#91-stewardship)；[§12.2 憲法上の効率](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)。
+- 上流：[§6.1 中核の取引原則](#61-core-tradeoff-principles)（取引スタックが満たされた後に適用）；[§9.1 責務ある管理](core_01_c_stewardship_capacity_principles.md#91-stewardship)；[§12.2 憲法上の効率](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)。
 - あわせて読む：憲法上の実績の測定ファミリー（《憲法上の測定としての回避可能な負担》）；[憲法四元](core_00_preamble.md#constitutional-tetrad) — **参加**脚（憲法上求められない負担は[意味ある行為主体性](../../core_05_band_participation.md#meaningful-agency)を狭める）；**適時性**脚（回避可能な遅れは回避可能な負担である）。
-- 下流：[§11.1.3 責務ある管理と運用者への適用](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)（誘因は不必要な負担創出を報いてはならない）；[Article XX：理解可能性と複雑さの責務ある管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)。
+- 下流：[§11.1.3 責務ある管理と運用者への適用](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)（誘因は不必要な負担創出を報いてはならない）；[Article XX：理解可能性と複雑さの責務ある管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)。
 
 </details>
 
@@ -564,7 +564,7 @@
 
 所与の負担が憲法上求められるという主張は、**第四章**の証拠と追跡可能性の要件を満たさなければならない。都合、制度的慣性、伝統、選好だけでは、憲法上の成果への点検可能な結びつきを欠く負担を支えるのに十分ではなく、[§6.1 決定記録の規律](#615-rights-collision-decision-test)と整合する。
 
-誘因構造が責務ある管理者または運用者に作用するところでは、本節は [§11.1.3 責務ある管理と運用者への適用](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) を強化する。責務ある管理の誘因は、生の処理量を報いてはならないのと同じく、不必要な負担創出を報いてはならない。
+誘因構造が責務ある管理者または運用者に作用するところでは、本節は [§11.1.3 責務ある管理と運用者への適用](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) を強化する。責務ある管理の誘因は、生の処理量を報いてはならないのと同じく、不必要な負担創出を報いてはならない。
 
 <a id="7-prohibition-on-absolute-override"></a>
 ### 7. 絶対的上書きの禁止
@@ -573,8 +573,8 @@
 
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — 単一の価値を呼び出して、[実質的利害](core_00_preamble.md#material-stake)が求める水準より下まで**参加**、**監督**、**説明責任**、**適時性**を空洞化してはならない。
 - あわせて読む：[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄**も**継続**も、他方、安全と真理、または四元の規律に対する切り札として呼び出されてはならない。絶対的上書きの禁止は、両目的をともに追求することを保護する。
-- 上流：原則：[2. 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信頼](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[§9 責務ある管理と分散した理解](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[6. 過程衝突の解決](#6-process-conflict-resolution)、[5. 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)。
-- 下流：[15. 統合適用](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application)。
+- 上流：原則：[2. 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信頼](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[§9 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[6. 過程衝突の解決](#6-process-conflict-resolution)、[5. 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)。
+- 下流：[15. 統合適用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)。
 - 下流：平等、異議の権利、透明、争訟可能性、有界な解釈を崩す一価値上書きの論理から権利面を保護する。
   - とくに [Article V：平等な基本権利](../../core_06_rights_part_b.md#article-v-equal-basic-rights)、[Article XII-B：異議、審査、救済への権利](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)、[Article XIV-B：透明性、監査可能性、争訟可能性](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability)、[Article XVIII-B：争訟可能性と比例的制限の限度](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)、[Article XXII-A：有界な解釈委任](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate)。
 
@@ -607,8 +607,8 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[前文 — 憲法四元](core_00_preamble.md#constitutional-tetrad)；[実質的利害](core_00_preamble.md#material-stake)による尺度合わせは、節の追跡を通じて全章に適用される。
-- 下流：[§8.1 憲法迂回禁止原則](#81-constitutional-no-bypass-principle)、[§8.2 定義層と必要な規律](#82-definitional-layer-and-required-disciplines)、[§8.3 曖昧さの解決](#83-ambiguity-resolution)、[§8.4 憲法上の意味衝突の解決](#84-constitutional-meaning-conflict-resolution)（[§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)）；[2. 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing) から [15. 統合適用](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application)；価値衝突の手続としての [6. 過程衝突の解決](#6-process-conflict-resolution)；[第六章：基礎権利](../../core_06_rights_part_a.md#chapter-six-foundational-rights)の非収縮既定。
-- あわせて読む：[第二から第四章](../../core_02_definition_structure.md)と[第五章](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — 本章のすべての用語の解釈および証拠層。
+- 下流：[§8.1 憲法迂回禁止原則](#81-constitutional-no-bypass-principle)、[§8.2 定義層と必要な規律](#82-definitional-layer-and-required-disciplines)、[§8.3 曖昧さの解決](#83-ambiguity-resolution)、[§8.4 憲法上の意味衝突の解決](#84-constitutional-meaning-conflict-resolution)（[§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)）；[2. 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing) から [15. 統合適用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)；価値衝突の手続としての [6. 過程衝突の解決](#6-process-conflict-resolution)；[第六章：基礎権利](../../core_06_rights_part_a.md#chapter-six-foundational-rights)の非収縮既定。
+- あわせて読む：[第二から第四章](core_02_definition_structure.md)と[第五章](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — 本章のすべての用語の解釈および証拠層。
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad)と[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — 統合価値枠組みの解釈背景。実質的に関連するところでは[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ。
 - あわせて読む：[権限スタックと内部階層](../../core_05_band_integrative.md#authority-stack)（《源層の地位》）；[第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)（《保管、版、採択の枠組み》 — 第二の衝突順の本拠ではない）；[第十三章](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)と[第十四章](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)（《§8.4 のもとでの不後退と採択者階層の門》）。
 - あわせて読む：制度的解釈の保障については [Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（本節の代わりではない）。
@@ -831,6 +831,6 @@
 
 **前のファイル：** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 
-**次のファイル（なお英語）：** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)
+**次のファイル（この言語）：** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
 **拘束力ある原文：** [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md)

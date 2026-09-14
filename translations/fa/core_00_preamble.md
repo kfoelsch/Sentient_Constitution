@@ -130,22 +130,22 @@
 
 هر خلاصه می‌گوید فصل چه چیزی را مالک است و چه می‌سازد.
 
-**فصل یکم — ارزش‌ها، اصول و مدیریت مسئولانه** ([بخش الف](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [بخش ب](core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [بخش ج](../../core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+**فصل یکم — ارزش‌ها، اصول و مدیریت مسئولانه** ([بخش الف](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [بخش ب](core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [بخش ج](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
 
 - **مالک چیست:** ارزش‌ها و قیدهای راهنمای قانون اساسی را بیان می‌کند — بهزیستی، انصاف، ایمنی، حقیقت، اعتماد، آزادی محدود، بازشناسی و پاداش متناسب برای همیاری مشروع، حل تعارض میان اصول، و تکالیف مدیریت مسئولانه از جمله فهم توزیع‌شده، ارزیابی سیستمی، و انضباط حکمرانی.
 - **چه می‌سازد:** بنیاد تفسیری برای هر فصل بعدی — قواعدی که هدف‌های سطح بالا را به الزامات عملیاتی بدل می‌کنند وقتی نظام‌ها، حقوق، تعریف‌ها یا زنجیره‌های فرایند باید خوانده و اعمال شوند.
 
-**فصل دوم — ساختار تعریف** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**فصل دوم — ساختار تعریف** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **مالک چیست:** تعریف می‌کند اصطلاحات قانون اساسی چگونه ساخته می‌شوند — ساختار مؤلفهٔ هستی‌شناختی/اندازه‌گیری/ارزیابی/انطباق (O/M/A/C)، الزامات هم‌راستایی، و قواعد مؤلفه که تعریف‌ها را دقیق و در سراسر پیکره قابل‌استفاده نگه می‌دارند.
 - **چه می‌سازد:** دستور زبان مشترکی برای تعریف‌ها تا فصل‌های بعدی به برچسب‌های مبهم، فرض‌های پنهان، یا شکل‌های ناسازگار اصطلاح نیفتند.
 
-**فصل سوم — یکپارچگی تعریف** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**فصل سوم — یکپارچگی تعریف** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **مالک چیست:** در برابر گریز، جابه‌جایی گستره، بازی‌های بازتعریف، و حقه‌های عدم‌انطباق که تعریف‌ها را روی کاغذ خالی و در عمل شکست می‌دهند پاسداری می‌کند.
 - **چه می‌سازد:** انضباط ضدگریز و فرادادهٔ جهت‌گیری عدم‌انطباق — از جمله قلاب‌های مسیر به بازبینی ردپا و سوءرفتار جایی که گریز اثبات شود.
 
-**فصل چهارم — بار اثبات، ردگیری‌پذیری و راستی‌آزمایی** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**فصل چهارم — بار اثبات، ردگیری‌پذیری و راستی‌آزمایی** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **مالک چیست:** بار اثبات را بر کسی می‌گذارد که ادعای انطباق می‌کند؛ شاهد ردگیری‌پذیر، مشاهده‌پذیری، و راستی‌آزمایی می‌خواهد که با [**منافع مادی**](#material-stake) مقیاس شود و عملاً قابل‌اعتراض بماند.
 - **چه می‌سازد:** زنجیرهٔ راستی‌آزمایی که **ورودی‌های راستی‌آزمایی‌شده** را در [فصل هشتم](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) و شاهد هم‌راستایی نظام را در [فصل هفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) تغذیه می‌کند — بدون آنکه جای خود اندازه‌گیری ردپا را بگیرد.

@@ -130,22 +130,22 @@
 
 每一摘要陈述该章掌管什么、产出什么。
 
-**第一章 — 价值、原则与尽责管理**（[A 部分](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [B 部分](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C 部分](../../core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance)）
+**第一章 — 价值、原则与尽责管理**（[A 部分](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [B 部分](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C 部分](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance)）
 
 - **其职掌：** 陈述宪法的指导价值与约束 — 福祉、公平、安全、真理、信任、有界自由、对合法贡献的承认与相称奖赏、原则间冲突解决，以及尽责管理义务，包括分布式理解、系统评价与治理纪律。
 - **其产出：** 每一后续章节的解释基础 — 在必须阅读并适用系统、权利、定义或流程链时，把高阶宗旨变成操作性要求的规则。
 
-**第二章 — 定义结构**（[`core_02_definition_structure.md`](../../core_02_definition_structure.md)）
+**第二章 — 定义结构**（[`core_02_definition_structure.md`](core_02_definition_structure.md)）
 
 - **其职掌：** 定义宪法用语如何构造 — 本体/测量/评估/合规（O/M/A/C）组件结构、对齐要求，以及使定义在整个文本库中保持精确可用的组件规则。
 - **其产出：** 定义的共享语法，使后续章节不落入含糊标签、隐藏假设或不兼容的用语形状。
 
-**第三章 — 定义完整性**（[`core_02_definition_structure.md`](../../core_02_definition_structure.md)）
+**第三章 — 定义完整性**（[`core_02_definition_structure.md`](core_02_definition_structure.md)）
 
 - **其职掌：** 防范规避、范围挪移、重定义游戏，以及纸面上掏空定义、实践中击败定义的不合规伎俩。
 - **其产出：** 反规避纪律与不合规定向元数据 — 包括在规避被证实之处，通向轨迹与不当行为审查的路由钩。
 
-**第四章 — 负担、可追溯性与核验**（[`core_02_definition_structure.md`](../../core_02_definition_structure.md)）
+**第四章 — 负担、可追溯性与核验**（[`core_02_definition_structure.md`](core_02_definition_structure.md)）
 
 - **其职掌：** 把证明负担放在主张合规的人身上；要求可追溯证据、可观察性，以及按[**实质利害**](#material-stake)缩放、并在实践中仍可质疑的核验。
 - **其产出：** 向[第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)输送**经核实的输入**、向[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)输送系统对齐证据的核验链 — 而不取代轨迹测量本身。

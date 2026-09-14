@@ -9,7 +9,7 @@
 > یہ فائل [انگریزی باب یکم، حصہ ب](../../core_01_b_interaction_interpretation.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_01_b_interaction_interpretation.md`](../../core_01_b_interaction_interpretation.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
 >
 > **پچھلا (اس لوکیل):** [core_01_a_values_principles.md](core_01_a_values_principles.md) (باب یکم، حصہ الف — قطعے 1–5)۔  
-> **اگلا (ابھی انگریزی میں):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md) (باب یکم، حصہ ج — قطعے 9–14، ذمہ دارانہ انتظام اور حکمرانی)۔
+> **اگلا (اس زبان میں):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (باب یکم، حصہ ج — قطعے 9–14، ذمہ دارانہ انتظام اور حکمرانی)۔
 > **پڑھنے کا قوس:** §6 عمل تنازعے کا حل → §7 مطلق بالا دستی کی ممانعت → §8 آئینی تفسیر۔
 
 </details>
@@ -55,7 +55,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — طریقہ کار، انکشاف، تصادم سنبھالنا، اور تدارک میں شرکت، نگرانی، جوابدہی اور بروقت کارروائی؛ [مادی داؤ](core_00_preamble.md#material-stake) کا پیمانہ۔
-- بالائی: اصول: [2. بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [4. اعتماد](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)، [5. آزادی (محدود فاعلیت)](core_01_a_values_principles.md#5-freedom-bounded-agency)، اور [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)۔
+- بالائی: اصول: [2. بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [4. اعتماد](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)، [5. آزادی (محدود فاعلیت)](core_01_a_values_principles.md#5-freedom-bounded-agency)، اور [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)۔
 - زیریں: [6.2.1 حقائق کی دیانت کا تحفظ](#621-preservation-of-epistemic-integrity)، [§6.1 فیصلہ ریکارڈ کی ضبط](#615-rights-collision-decision-test)، [طے شدہ عبوری وضع](#default-interim-posture)، اور [7. مطلق بالا دستی کی ممانعت](#7-prohibition-on-absolute-override)۔
 - زیریں: [باب ششم: بنیادی حقوق](../../core_06_rights_part_a.md#chapter-six-foundational-rights) کے پار دفعاتی تنازعات پر حکمرانی کرتا ہے۔
   - اسے [دفعہ XXII: آئینی تفسیر، جائزہ اور قبضہ مخالف ضمانتیں](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) اور [دفعہ XXIII: تنازعے کا حل، اضافہ، اور ہنگامی تناسب](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) کے ساتھ پڑھیں۔
@@ -197,7 +197,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- ساتھ پڑھیں: [§10.1 حکمرانی بطور مجاز ڈھانچہ](../../core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure)۔
+- ساتھ پڑھیں: [§10.1 حکمرانی بطور مجاز ڈھانچہ](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure)۔
 
 </details>
 
@@ -267,7 +267,7 @@
 - مخصوص حقوق کی عارضی پابندی صرف تب جائز ہے جب وہ [کم سے کم پابندی والی، وقتی حد والی، اور جائزے کے قابل پابندی کا اصول](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) اور [دفعہ XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*ہنگامی تدابیر اور استمرار کا بوجھ*) کی ہنگامی دفعات پوری کرے — یعنی کوئی پابندی جائز، کم از کم، دستاویزی، وقتی حد والی، اور آزاد جائزے کے قابل ہونی چاہیے۔ مخصوص دفعات مضبوط تر ضمانتیں جوڑ سکتی ہیں، مگر وہ اس اصول کو تنگ نہیں کر سکتیں اور سہولت، کارآمدگی، درجہ بندی، ہنگامی، منتقلی، کیفیت، ترمیم، معاہدہ، یا نفاذ کے لیبل اسے بائی پاس کرنے کے لیے استعمال نہیں کر سکتے۔
 
 <a id="anti-degrading-process-principle"></a>
-**انحطاط مخالف عمل کا اصول۔** حصہ ج میں بیان کردہ [انحطاط مخالف عمل کا اصول (§9.6)](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) اس سودے کے ڈھیر میں مطلق تہہ کے طور پر چلتا ہے۔
+**انحطاط مخالف عمل کا اصول۔** حصہ ج میں بیان کردہ [انحطاط مخالف عمل کا اصول (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) اس سودے کے ڈھیر میں مطلق تہہ کے طور پر چلتا ہے۔
 - کوئی پابندی، تدارک، یا عمل جو ضرورت، نقصان کی کم سے کم کاری، اور تناسب سے بچ جائے، انحطاط، ذلت، تماشا، انتقامی کارروائی، امتیازی بوجھ، یا سہولت سے چلنے والی حقوق کی کٹوتی کے طور پر ڈیزائن، فریم، چلایا، یا چلنے نہیں دیا جا سکتا۔
 - انحطاط آمیز عمل سے دیا گیا درست ماہیتی نتیجہ پھر بھی غیر مطابق رہتا ہے۔
 - جہاں ممنوع کردار خود مقصد کے طور پر تکلیف ہو یا بلا وجہ / انحطاط آمیز پہنچانا — بشمول اپنی خاطر ذلت — [ظلم](../../core_05_band_accountability.md#cruelty) کے ساتھ پڑھیں۔
@@ -527,9 +527,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: [§6.1 بنیادی سودے کے اصول](#61-core-tradeoff-principles) (سودے کا ڈھیر پورا ہونے کے بعد لاگو)؛ [§9.1 ذمہ دارانہ انتظام](../../core_01_c_stewardship_capacity_principles.md#91-stewardship)؛ [§12.2 آئینی کارآمدگی](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)۔
+- بالائی: [§6.1 بنیادی سودے کے اصول](#61-core-tradeoff-principles) (سودے کا ڈھیر پورا ہونے کے بعد لاگو)؛ [§9.1 ذمہ دارانہ انتظام](core_01_c_stewardship_capacity_principles.md#91-stewardship)؛ [§12.2 آئینی کارآمدگی](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)۔
 - ساتھ پڑھیں: آئینی کارکردگی پیمائش خاندان (*قابلِ اجتناب بوجھ بطور آئینی پیمائش*)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — **شرکت** ٹانگ (وہ بوجھ جو آئینی طور پر مطلوب نہ ہو [بامعنی فاعلیت](../../core_05_band_participation.md#meaningful-agency) تنگ کرتا ہے)؛ **بروقت کارروائی** ٹانگ (قابلِ اجتناب تاخیر قابلِ اجتناب بوجھ ہے)۔
-- زیریں: [§11.1.3 ذمہ دارانہ انتظام اور چلانے والے کا اطلاق](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (محرکات غیر ضروری بوجھ پیدا کرنے کا انعام نہیں دے سکتے)؛ [دفعہ XX: سمجھ میں آنے کی صلاحیت اور پیچیدگی کا ذمہ دارانہ انتظام](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)۔
+- زیریں: [§11.1.3 ذمہ دارانہ انتظام اور چلانے والے کا اطلاق](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (محرکات غیر ضروری بوجھ پیدا کرنے کا انعام نہیں دے سکتے)؛ [دفعہ XX: سمجھ میں آنے کی صلاحیت اور پیچیدگی کا ذمہ دارانہ انتظام](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)۔
 
 </details>
 
@@ -563,7 +563,7 @@
 
 یہ دعوے کہ دیا گیا بوجھ آئینی طور پر مطلوب ہے **باب چہارم** ثبوت اور سراغ کے تقاضے پوری کریں۔ سہولت، ادارہ جاتی جمود، روایت، یا ترجیح اکیلے اس بوجھ کو نہیں بچا سکتی جس کا آئینی نتیجے سے جانچ کے قابل ربط نہ ہو، [§6.1 فیصلہ ریکارڈ کی ضبط](#615-rights-collision-decision-test) کے مطابق۔
 
-جہاں محرک ڈھانچے ذمہ دارانہ انتظام یا چلانے والوں پر عمل کریں، یہ قطعہ [§11.1.3 ذمہ دارانہ انتظام اور چلانے والے کا اطلاق](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) کو تقویت دیتا ہے۔ ذمہ دارانہ انتظام کے محرکات غیر ضروری بوجھ پیدا کرنے کا انعام اس سے زیادہ نہیں دے سکتے جتنا خام بہاؤ کا انعام دے سکتے ہیں۔
+جہاں محرک ڈھانچے ذمہ دارانہ انتظام یا چلانے والوں پر عمل کریں، یہ قطعہ [§11.1.3 ذمہ دارانہ انتظام اور چلانے والے کا اطلاق](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) کو تقویت دیتا ہے۔ ذمہ دارانہ انتظام کے محرکات غیر ضروری بوجھ پیدا کرنے کا انعام اس سے زیادہ نہیں دے سکتے جتنا خام بہاؤ کا انعام دے سکتے ہیں۔
 
 <a id="7-prohibition-on-absolute-override"></a>
 ### 7. مطلق بالا دستی کی ممانعت
@@ -572,8 +572,8 @@
 
 - ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — کوئی ایک قدر **شرکت**، **نگرانی**، **جوابدہی**، یا **بروقت کارروائی** کو [مادی داؤ](core_00_preamble.md#material-stake) کے تقاضوں سے نیچے کھوکھلا کرنے کے لیے نہیں پکاری جا سکتی۔
 - ساتھ پڑھیں: [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — نہ **شگفتگی** نہ **استمرار** دوسرے پر، حفاظت اور سچائی پر، یا چوکڑی کی ضبط پر ترپ کے طور پر پکارے جا سکتے؛ مطلق بالا دستی کی ممانعت دونوں مقاصد کی ساتھ کوشش بچاتی ہے۔
-- بالائی: اصول: [2. بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [4. اعتماد](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)، [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)، [6. عمل تنازعے کا حل](#6-process-conflict-resolution)، [5. آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)، اور [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)۔
-- زیریں: [15. مربوط اطلاق](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application)۔
+- بالائی: اصول: [2. بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [4. اعتماد](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)، [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)، [6. عمل تنازعے کا حل](#6-process-conflict-resolution)، [5. آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)، اور [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)۔
+- زیریں: [15. مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#15-integrated-application)۔
 - زیریں: حقوق کی سطح کو ایک قدر کی بالا دستی کی منطق سے بچاتا ہے جو برابری، چیلنج کے حقوق، شفافیت، چیلنج پذیری، یا محدود تفسیر گرا دے۔
   - خاص طور پر [دفعہ V: برابر بنیادی حقوق](../../core_06_rights_part_b.md#article-v-equal-basic-rights)، [دفعہ XII-B: چیلنج، جائزہ اور تدارک کا حق](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)، [دفعہ XIV-B: شفافیت، آڈٹ پذیری اور چیلنج پذیری](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability)، [دفعہ XVIII-B: چیلنج پذیری اور متناسب پابندی کی حدیں](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)، اور [دفعہ XXII-A: محدود تفسیری مینڈیٹ](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate)۔
 
@@ -606,8 +606,8 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [تمہید — آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad)؛ [مادی داؤ](core_00_preamble.md#material-stake) کا پیمانہ قطعے کے سراغوں کے ذریعے پورے باب پر لاگو ہوتا ہے۔
-- زیریں: [§8.1 آئینی بائی پاس ممنوع اصول](#81-constitutional-no-bypass-principle)، [§8.2 تعریفی تہہ اور مطلوبہ ضبط](#82-definitional-layer-and-required-disciplines)، [§8.3 ابہام کا حل](#83-ambiguity-resolution)، [§8.4 آئینی معنی تنازعے کا حل](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction))؛ [2. بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing) سے [15. مربوط اطلاق](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application) تک؛ اقدار کے تصادم کے طریقے کے لیے [6. عمل تنازعے کا حل](#6-process-conflict-resolution)؛ [باب ششم: بنیادی حقوق](../../core_06_rights_part_a.md#chapter-six-foundational-rights) عدمِ تنگی طے شدہ حال۔
-- ساتھ پڑھیں: [باب دوم تا چہارم](../../core_02_definition_structure.md) اور [باب پنجم](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — اس باب کی ہر اصطلاح کی تفسیری اور ثبوت کی تہہ۔
+- زیریں: [§8.1 آئینی بائی پاس ممنوع اصول](#81-constitutional-no-bypass-principle)، [§8.2 تعریفی تہہ اور مطلوبہ ضبط](#82-definitional-layer-and-required-disciplines)، [§8.3 ابہام کا حل](#83-ambiguity-resolution)، [§8.4 آئینی معنی تنازعے کا حل](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction))؛ [2. بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing) سے [15. مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#15-integrated-application) تک؛ اقدار کے تصادم کے طریقے کے لیے [6. عمل تنازعے کا حل](#6-process-conflict-resolution)؛ [باب ششم: بنیادی حقوق](../../core_06_rights_part_a.md#chapter-six-foundational-rights) عدمِ تنگی طے شدہ حال۔
+- ساتھ پڑھیں: [باب دوم تا چہارم](core_02_definition_structure.md) اور [باب پنجم](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — اس باب کی ہر اصطلاح کی تفسیری اور ثبوت کی تہہ۔
 - ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) اور [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — مربوط اقدار کے ڈھانچے کا تفسیری پس منظر؛ جہاں مادی طور پر متعلقہ ہو [مادی داؤ](core_00_preamble.md#material-stake) کا پیمانہ۔
 - ساتھ پڑھیں: [اختیار کا ڈھیر اور داخلی مراتب](../../core_05_band_integrative.md#authority-stack) (*ماخذ تہہ کی حیثیت*)؛ [باب شانزدہم](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*حراست، ایڈیشن، اختیار کا فریم* — دوسرا تنازعہ ترتیب گھر نہیں)؛ [باب سیزدہم](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) اور [باب چہاردہم](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*§8.4 کے تحت عدمِ رجعت اور اختیار کرنے والے کے مراتب کی رکاوٹیں*)۔
 - ساتھ پڑھیں: ادارہ جاتی تفسیر کی ضمانتوں کے لیے [دفعہ XXII: آئینی تفسیر، جائزہ اور قبضہ مخالف ضمانتیں](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (اس قطعے کا بدل نہیں)۔
@@ -830,6 +830,6 @@
 
 **پچھلی فائل:** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 
-**اگلی فائل (ابھی انگریزی میں):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)
+**اگلی فائل (اس زبان میں):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
 **پابند اصل:** [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md)

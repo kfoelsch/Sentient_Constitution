@@ -130,22 +130,22 @@ Les chapitres **un à six** fournissent les valeurs, le vocabulaire, la machiner
 
 Chaque résumé énonce ce qui revient au chapitre et ce qu’il produit.
 
-**Chapitre un — Valeurs, principes et administration responsable** ([Partie A](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [Partie B](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [Partie C](../../core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+**Chapitre un — Valeurs, principes et administration responsable** ([Partie A](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [Partie B](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [Partie C](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
 
 - **Ce qui lui revient :** Énonce les valeurs et contraintes directrices de la Constitution — bien-être, équité, Sécurité, Vérité, Confiance, liberté bornée, reconnaissance et récompense proportionnée pour la contribution licite, résolution des conflits entre principes, et devoirs d’administration responsable y compris compréhension distribuée, évaluation systémique et discipline de gouvernance.
 - **Ce qu’il produit :** Le fondement interprétatif de chaque chapitre ultérieur — les règles qui transforment les fins de haut niveau en exigences opératoires lorsque systèmes, droits, définitions ou chaînes de processus doivent être lus et appliqués.
 
-**Chapitre deux — Structure des définitions** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**Chapitre deux — Structure des définitions** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **Ce qui lui revient :** Définit comment les termes constitutionnels sont construits — la structure de composantes Ontologique/Mesure/Évaluation/Conformité (O/M/A/C), les exigences d’alignement et les règles de composante qui gardent les définitions précises et utilisables à travers le corpus.
 - **Ce qu’il produit :** Une grammaire partagée pour les définitions, afin que les chapitres ultérieurs ne tombent pas dans des étiquettes vagues, des hypothèses cachées ou des formes de terme incompatibles.
 
-**Chapitre trois — Intégrité des définitions** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**Chapitre trois — Intégrité des définitions** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **Ce qui lui revient :** Garde contre l’évasion, le glissement de portée, les jeux de redéfinition et les tours de non-conformité qui videraient les définitions sur le papier tout en les battant en pratique.
 - **Ce qu’il produit :** Discipline anti-évasion et métadonnées d’orientation de non-conformité — y compris des crochets de routage vers la trajectoire et l’examen de mauvaise conduite lorsque l’évasion est établie.
 
-**Chapitre quatre — Charge, traçabilité et vérification** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**Chapitre quatre — Charge, traçabilité et vérification** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **Ce qui lui revient :** Met la charge de la preuve sur quiconque affirme la conformité ; exige une preuve traçable, l’observabilité et une vérification mises à l’échelle de l’[**enjeu matériel**](#material-stake) et qui restent contestables en pratique.
 - **Ce qu’il produit :** La chaîne de vérification qui alimente les **apports vérifiés** au [chapitre huit](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) et la preuve d’alignement du système au [chapitre sept](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) — sans remplacer la mesure de trajectoire elle-même.

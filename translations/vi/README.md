@@ -17,7 +17,7 @@
 
 **Ngôn ngữ.** Tiếng Việt viết chuẩn (quốc ngữ). Không khóa một quốc gia. Không thay cho tiếng Khmer, tiếng Lào, hay các cửa khác.
 
-**Lát cắt đầu, theo kiến trúc.** Thứ tự phát hành yêu cầu trước hết các bản tóm tắt dễ vào, tờ Sàn Quyền, và cửa công cộng. Thử nghiệm này cố ý dịch [Lời nói đầu](core_00_preamble.md), [Chương Một, Phần A](core_01_a_values_principles.md) và [Chương Một, Phần B](core_01_b_interaction_interpretation.md) để đo chi phí của một `core_*` đã đánh số. Một cửa đọc không phải là can thiệp chính trị.
+**Lát cắt đầu, theo kiến trúc.** Thứ tự phát hành yêu cầu trước hết các bản tóm tắt dễ vào, tờ Sàn Quyền, và cửa công cộng. Thử nghiệm này cố ý dịch [Lời nói đầu](core_00_preamble.md), [Chương Một, Phần A](core_01_a_values_principles.md), [Chương Một, Phần B](core_01_b_interaction_interpretation.md), và [Chương Một, Phần C](core_01_c_stewardship_capacity_principles.md) để đo chi phí của một `core_*` đã đánh số. Một cửa đọc không phải là can thiệp chính trị.
 
 ## Tệp
 
@@ -26,6 +26,8 @@
 | [core_00_preamble.md](core_00_preamble.md) | [core_00_preamble.md](../../core_00_preamble.md) |
 | [core_01_a_values_principles.md](core_01_a_values_principles.md) | [core_01_a_values_principles.md](../../core_01_a_values_principles.md) |
 | [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) | [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md) |
+| [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) | [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md) |
+| [core_02_definition_structure.md](core_02_definition_structure.md) | [core_02_definition_structure.md](../../core_02_definition_structure.md) |
 
 Liên kết trong thử nghiệm trỏ tới các tệp tiếng Anh chưa có bản dịch. Neo HTML (`id`) được sao từ nguyên bản để đối chiếu từng đoạn.
 

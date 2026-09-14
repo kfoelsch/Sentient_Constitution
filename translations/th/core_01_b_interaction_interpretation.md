@@ -10,7 +10,7 @@
 >
 > **ก่อนหน้า (ภาษานี้):** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 >
-> **ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md) (บทที่หนึ่ง ส่วน ค — §§9–14 การบริหารอย่างรับผิดชอบและการปกครอง)
+> **ถัดไป (ภาษานี้):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (บทที่หนึ่ง ส่วน ค — §§9–14 การบริหารอย่างรับผิดชอบและการปกครอง)
 > **ส่วนโค้งการอ่าน:** §6 การยุติความขัดแย้งของกระบวนการ → §7 ข้อห้ามการลบล้างสัมบูรณ์ → §8 การตีความทางรัฐธรรมนูญ
 
 </details>
@@ -56,7 +56,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - อ่านคู่กับ: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — การมีส่วนร่วม การกำกับดูแล ความรับผิดชอบ และความทันเวลาในวิธีดำเนินการ การเปิดเผย การจัดการการชน และการเยียวยา การปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake)
-- ต้นทาง: หลักการ: [2. วัตถุประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing) [3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint) [3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) [4. ความไว้วางใจ](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity) [5. เสรีภาพ (พลังกระทำการที่มีขอบเขต)](core_01_a_values_principles.md#5-freedom-bounded-agency) และ [§9 การบริหารอย่างรับผิดชอบและความเข้าใจแบบกระจาย](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)
+- ต้นทาง: หลักการ: [2. วัตถุประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing) [3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint) [3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) [4. ความไว้วางใจ](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity) [5. เสรีภาพ (พลังกระทำการที่มีขอบเขต)](core_01_a_values_principles.md#5-freedom-bounded-agency) และ [§9 การบริหารอย่างรับผิดชอบและความเข้าใจแบบกระจาย](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)
 - ปลายทาง: [6.2.1 การรักษาความครบถ้วนของความรู้](#621-preservation-of-epistemic-integrity) [วินัยบันทึกคำตัดสิน §6.1](#615-rights-collision-decision-test) [ท่าทีชั่วคราวปริยาย](#default-interim-posture) และ [7. ข้อห้ามการลบล้างสัมบูรณ์](#7-prohibition-on-absolute-override)
 - ปลายทาง: กำกับความขัดแย้งข้ามมาตราตลอด [บทที่หก: สิทธิพื้นฐาน](../../core_06_rights_part_a.md#chapter-six-foundational-rights)
   - อ่านสิ่งนี้คู่กับ [มาตรา XXII: การตีความทางรัฐธรรมนูญ การทบทวน และการคุ้มกันต้านการยึดครอง](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) และ [มาตรา XXIII: การยุติความขัดแย้ง การยกระดับ และสัดส่วนภาวะฉุกเฉิน](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality)
@@ -198,7 +198,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- อ่านคู่กับ: [§10.1 การปกครองในฐานะโครงสร้างที่ได้รับอำนาจ](../../core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure)
+- อ่านคู่กับ: [§10.1 การปกครองในฐานะโครงสร้างที่ได้รับอำนาจ](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure)
 
 </details>
 
@@ -268,7 +268,7 @@
 - การจำกัดชั่วคราวของสิทธิเฉพาะอนุญาตได้เมื่อสนอง [หลักการข้อจำกัดที่จำกัดน้อยที่สุด มีขอบเขตเวลา และทบทวนได้](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) และบทบัญญัติภาวะฉุกเฉินของ [มาตรา XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*มาตรการฉุกเฉินและภาระการต่อเนื่อง*) — หมายความว่าการจำกัดใดต้องมีเหตุผล น้อยที่สุด ถูกบันทึก มีขอบเขตเวลา และทบทวนได้อิสระ มาตราเฉพาะอาจเพิ่มการคุ้มกันที่เข้มกว่า แต่ทำให้หลักการนี้แคบ หรือใช้ป้ายความสะดวก ประสิทธิภาพ การจำแนก ภาวะฉุกเฉิน การเปลี่ยนผ่าน ร่องรอย การแก้ไขเพิ่มเติม สัญญา หรือการนำไปใช้เพื่อเลี่ยงมันไม่ได้
 
 <a id="anti-degrading-process-principle"></a>
-**หลักการต้านกระบวนการที่ทำให้เสื่อม.** [หลักการต้านกระบวนการที่ทำให้เสื่อม (§9.6)](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) ที่กล่าวในส่วน ค ทำงานเป็นพื้นสัมบูรณ์ในกองการแลกนี้
+**หลักการต้านกระบวนการที่ทำให้เสื่อม.** [หลักการต้านกระบวนการที่ทำให้เสื่อม (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) ที่กล่าวในส่วน ค ทำงานเป็นพื้นสัมบูรณ์ในกองการแลกนี้
 - ไม่มีการจำกัด การเยียวยา หรือกระบวนการที่รอดความจำเป็น การลดภัย และสัดส่วน จะถูกออกแบบ กรอบ ดำเนิน หรืออนุญาตให้ทำงานเป็นการทำให้เสื่อม การทำให้ขายหน้า การแสดง การแก้แค้น การภาระแบบเลือกปฏิบัติ หรือการกัดกร่อนสิทธิที่ขับด้วยความสะดวกได้
 - ผลสาระที่ถูกต้องที่ส่งผ่านกระบวนการที่ทำให้เสื่อมยังไม่ปฏิบัติตาม
 - ในที่ที่ลักษณะที่ห้ามคือความทุกข์เป็นจุดหมายในตัวเอง หรือการทำให้ทุกข์โดยไม่จำเป็น / ที่ทำให้เสื่อม — รวมการทำให้ขายหน้าเพื่อการทำให้ขายหน้า — อ่านคู่กับ [ความโหดร้าย](../../core_05_band_accountability.md#cruelty)
@@ -528,9 +528,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: [§6.1 หลักการแลกหลัก](#61-core-tradeoff-principles) (ใช้หลังกองการแลกบรรลุ) [§9.1 การบริหารอย่างรับผิดชอบ](../../core_01_c_stewardship_capacity_principles.md#91-stewardship) [§12.2 ประสิทธิภาพทางรัฐธรรมนูญ](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)
+- ต้นทาง: [§6.1 หลักการแลกหลัก](#61-core-tradeoff-principles) (ใช้หลังกองการแลกบรรลุ) [§9.1 การบริหารอย่างรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#91-stewardship) [§12.2 ประสิทธิภาพทางรัฐธรรมนูญ](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)
 - อ่านคู่กับ: ตระกูลการวัดสมรรถนะทางรัฐธรรมนูญ (*ภาระที่หลีกเลี่ยงได้ในฐานะการวัดทางรัฐธรรมนูญ*) [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — ขา **การมีส่วนร่วม** (ภาระที่ไม่ถูกกำหนดทางรัฐธรรมนูญทำให้ [พลังกระทำการที่มีความหมาย](../../core_05_band_participation.md#meaningful-agency) แคบ) ขา **ความทันเวลา** (ความล่าช้าที่หลีกเลี่ยงได้คือภาระที่หลีกเลี่ยงได้)
-- ปลายทาง: [§11.1.3 การบริหารอย่างรับผิดชอบและการใช้โดยผู้ดำเนิน](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (สิ่งจูงใจต้องไม่ให้รางวัลการสร้างภาระที่ไม่จำเป็น) [มาตรา XX: ความเข้าใจได้และการบริหารความซับซ้อนอย่างรับผิดชอบ](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)
+- ปลายทาง: [§11.1.3 การบริหารอย่างรับผิดชอบและการใช้โดยผู้ดำเนิน](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (สิ่งจูงใจต้องไม่ให้รางวัลการสร้างภาระที่ไม่จำเป็น) [มาตรา XX: ความเข้าใจได้และการบริหารความซับซ้อนอย่างรับผิดชอบ](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)
 
 </details>
 
@@ -564,7 +564,7 @@
 
 ข้อกล่าวอ้างว่าภาระที่ให้ถูกกำหนดทางรัฐธรรมนูญต้องสนองข้อกำหนดหลักฐานและความสามารถในการตามรอยของ **บทที่สี่** ความสะดวก ความเฉื่อยของสถาบัน ประเพณี หรือความชอบอย่างเดียวไม่พอรักษาภาระที่ขาดลิงก์ที่ตรวจได้ถึงผลลัพธ์ทางรัฐธรรมนูญ สอดคล้องกับ [วินัยบันทึกคำตัดสิน §6.1](#615-rights-collision-decision-test)
 
-ในที่ที่โครงสร้างสิ่งจูงใจกระทำต่อผู้บริหารอย่างรับผิดชอบหรือผู้ดำเนิน หมวดนี้เสริม [§11.1.3 การบริหารอย่างรับผิดชอบและการใช้โดยผู้ดำเนิน](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) สิ่งจูงใจการบริหารอย่างรับผิดชอบต้องไม่ให้รางวัลการสร้างภาระที่ไม่จำเป็นมากไปกว่าที่อาจให้รางวัลปริมาณผ่านดิบ
+ในที่ที่โครงสร้างสิ่งจูงใจกระทำต่อผู้บริหารอย่างรับผิดชอบหรือผู้ดำเนิน หมวดนี้เสริม [§11.1.3 การบริหารอย่างรับผิดชอบและการใช้โดยผู้ดำเนิน](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) สิ่งจูงใจการบริหารอย่างรับผิดชอบต้องไม่ให้รางวัลการสร้างภาระที่ไม่จำเป็นมากไปกว่าที่อาจให้รางวัลปริมาณผ่านดิบ
 
 <a id="7-prohibition-on-absolute-override"></a>
 ### 7. ข้อห้ามการลบล้างสัมบูรณ์
@@ -573,8 +573,8 @@
 
 - อ่านคู่กับ: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — ค่านิยมเดี่ยวใดจะถูกอ้างเพื่อทำให้ **การมีส่วนร่วม** **การกำกับดูแล** **ความรับผิดชอบ** หรือ **ความทันเวลา** กลวงต่ำกว่าที่ [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) กำหนดไม่ได้
 - อ่านคู่กับ: [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) — ทั้ง **ความเจริญงอกงาม** และ **ความต่อเนื่อง** จะถูกอ้างเป็นไพ่ชนะเหนืออีกฝ่าย เหนือความปลอดภัยและความจริง หรือเหนือวินัยจตุรภาคไม่ได้ ข้อห้ามการลบล้างสัมบูรณ์คุ้มครองการไล่ทั้งสองเป้าประสงค์ด้วยกัน
-- ต้นทาง: หลักการ: [2. วัตถุประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing) [3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint) [3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) [4. ความไว้วางใจ](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity) [§9 การบริหารอย่างรับผิดชอบและความเข้าใจแบบกระจาย](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) [6. การยุติความขัดแย้งของกระบวนการ](#6-process-conflict-resolution) [5. เสรีภาพ](core_01_a_values_principles.md#5-freedom-bounded-agency) และ [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims)
-- ปลายทาง: [15. การใช้แบบรวม](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application)
+- ต้นทาง: หลักการ: [2. วัตถุประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing) [3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint) [3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) [4. ความไว้วางใจ](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity) [§9 การบริหารอย่างรับผิดชอบและความเข้าใจแบบกระจาย](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) [6. การยุติความขัดแย้งของกระบวนการ](#6-process-conflict-resolution) [5. เสรีภาพ](core_01_a_values_principles.md#5-freedom-bounded-agency) และ [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims)
+- ปลายทาง: [15. การใช้แบบรวม](core_01_c_stewardship_capacity_principles.md#15-integrated-application)
 - ปลายทาง: คุ้มครองพื้นผิวสิทธิต้านตรรกะการลบล้างค่านิยมเดียวที่จะยุบความเท่ากัน สิทธิการโต้แย้ง ความโปร่งใส ความสามารถในการโต้แย้ง หรือการตีความที่มีขอบเขต
   - โดยเฉพาะ [มาตรา V: สิทธิพื้นฐานที่เท่ากัน](../../core_06_rights_part_b.md#article-v-equal-basic-rights) [มาตรา XII-B: สิทธิในการโต้แย้ง ทบทวน และได้รับการเยียวยา](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) [มาตรา XIV-B: ความโปร่งใส ความสามารถในการตรวจ และความสามารถในการโต้แย้ง](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability) [มาตรา XVIII-B: ความสามารถในการโต้แย้งและขีดจำกัดการจำกัดตามสัดส่วน](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits) และ [มาตรา XXII-A: อาณัติการตีความที่มีขอบเขต](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate)
 
@@ -607,8 +607,8 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ต้นทาง: [คำปรารภ — จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) การปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) ใช้ทั่วบทผ่านตามรอยของหมวด
-- ปลายทาง: [§8.1 หลักการทางรัฐธรรมนูญห้ามเลี่ยง](#81-constitutional-no-bypass-principle) [§8.2 ชั้นบทนิยามและวินัยที่กำหนด](#82-definitional-layer-and-required-disciplines) [§8.3 การยุติความคลุมเครือ](#83-ambiguity-resolution) [§8.4 การยุติความขัดแย้งของความหมายทางรัฐธรรมนูญ](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)) [2. วัตถุประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing) ถึง [15. การใช้แบบรวม](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application) [6. การยุติความขัดแย้งของกระบวนการ](#6-process-conflict-resolution) สำหรับวิธีดำเนินการการชนของค่านิยม [บทที่หก: สิทธิพื้นฐาน](../../core_06_rights_part_a.md#chapter-six-foundational-rights) ค่าปริยายไม่ทำให้แคบ
-- อ่านคู่กับ: [บทที่สองถึงสี่](../../core_02_definition_structure.md) และ [บทที่ห้า](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — ชั้นการตีความและหลักฐานของทุกคำในบทนี้
+- ปลายทาง: [§8.1 หลักการทางรัฐธรรมนูญห้ามเลี่ยง](#81-constitutional-no-bypass-principle) [§8.2 ชั้นบทนิยามและวินัยที่กำหนด](#82-definitional-layer-and-required-disciplines) [§8.3 การยุติความคลุมเครือ](#83-ambiguity-resolution) [§8.4 การยุติความขัดแย้งของความหมายทางรัฐธรรมนูญ](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)) [2. วัตถุประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing) ถึง [15. การใช้แบบรวม](core_01_c_stewardship_capacity_principles.md#15-integrated-application) [6. การยุติความขัดแย้งของกระบวนการ](#6-process-conflict-resolution) สำหรับวิธีดำเนินการการชนของค่านิยม [บทที่หก: สิทธิพื้นฐาน](../../core_06_rights_part_a.md#chapter-six-foundational-rights) ค่าปริยายไม่ทำให้แคบ
+- อ่านคู่กับ: [บทที่สองถึงสี่](core_02_definition_structure.md) และ [บทที่ห้า](../../core_05__definitions_home.md#chapter-five-foundational-definitions) — ชั้นการตีความและหลักฐานของทุกคำในบทนี้
 - อ่านคู่กับ: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) และ [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) — ฉากหลังการตีความของกรอบค่านิยมแบบรวม การปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) ในที่ที่เป็นสาระ
 - อ่านคู่กับ: [กองอำนาจและลำดับชั้นภายใน](../../core_05_band_integrative.md#authority-stack) (*สถานะชั้นแหล่ง*) [บทที่สิบหก](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*การพิทักษ์ ฉบับ กรอบการรับเป็นของตน* — ไม่ใช่บ้านลำดับความขัดแย้งที่สอง) [บทที่สิบสาม](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) และ [บทที่สิบสี่](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*การไม่ถอยหลังและประตูลำดับชั้นของผู้รับเป็นของตนภายใต้ §8.4*)
 - อ่านคู่กับ: [มาตรา XXII: การตีความทางรัฐธรรมนูญ การทบทวน และการคุ้มกันต้านการยึดครอง](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) สำหรับการคุ้มกันการตีความของสถาบัน (ไม่ใช่สิ่งทดแทนหมวดนี้)
@@ -831,6 +831,6 @@
 
 **ไฟล์ก่อนหน้า:** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 
-**ไฟล์ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)
+**ไฟล์ถัดไป (ภาษานี้):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
 **ต้นฉบับที่มีผลผูกพัน:** [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md)

@@ -130,22 +130,22 @@ Bab **Satu sampai Enam** memasok nilai, kosa kata, mesin verifikasi, dan Lantai 
 
 Setiap ringkasan menyatakan apa yang menjadi wilayah bab dan apa yang dihasilkannya.
 
-**Bab Satu — Nilai, prinsip, dan pengelolaan bertanggung jawab** ([Bagian A](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [Bagian B](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [Bagian C](../../core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+**Bab Satu — Nilai, prinsip, dan pengelolaan bertanggung jawab** ([Bagian A](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [Bagian B](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [Bagian C](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
 
 - **Yang menjadi wilayahnya:** Menyatakan nilai dan batasan pemandu Konstitusi — kesejahteraan, keadilan, Keselamatan, Kebenaran, Kepercayaan, kebebasan terbatas, pengakuan dan imbalan sepadan atas kontribusi yang sah, penyelesaian konflik antarprinsip, dan kewajiban pengelolaan bertanggung jawab termasuk pemahaman terdistribusi, evaluasi sistemik, dan disiplin tata kelola.
 - **Yang dihasilkannya:** Fondasi tafsir bagi setiap bab kemudian — aturan yang mengubah tujuan tingkat tinggi menjadi persyaratan operatif ketika sistem, hak, definisi, atau rantai proses harus dibaca dan diterapkan.
 
-**Bab Dua — Struktur definisi** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**Bab Dua — Struktur definisi** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **Yang menjadi wilayahnya:** Mendefinisikan bagaimana istilah konstitusional dibangun — struktur komponen Ontologis/Pengukuran/Penilaian/Kepatuhan (O/M/A/C), persyaratan keselarasan, dan aturan komponen yang menjaga definisi tetap tepat dan dapat dipakai di seluruh korpus.
 - **Yang dihasilkannya:** Tata bahasa bersama untuk definisi agar bab kemudian tidak jatuh ke label kabur, asumsi tersembunyi, atau bentuk istilah yang tidak cocok.
 
-**Bab Tiga — Integritas definisi** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**Bab Tiga — Integritas definisi** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **Yang menjadi wilayahnya:** Menjaga dari pengelakan, penggeseran cakupan, permainan pendefinisian ulang, dan trik ketidakpatuhan yang akan mengosongkan definisi di kertas sambil mengalahkannya dalam praktik.
 - **Yang dihasilkannya:** Disiplin anti-pengelakan dan metadata orientasi ketidakpatuhan — termasuk kait perutean menuju jejak dan tinjauan salah laku di mana pengelakan terbukti.
 
-**Bab Empat — Beban, ketelusuran, dan verifikasi** ([`core_02_definition_structure.md`](../../core_02_definition_structure.md))
+**Bab Empat — Beban, ketelusuran, dan verifikasi** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **Yang menjadi wilayahnya:** Meletakkan beban bukti pada siapa pun yang mengklaim kepatuhan; menuntut bukti yang dapat ditelusuri, keteramatan, dan verifikasi yang diskalakan ke [**taruhan material**](#material-stake) dan tetap dapat digugat secara praktis.
 - **Yang dihasilkannya:** Rantai verifikasi yang memberi makan **masukan terverifikasi** di [Bab Delapan](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) dan bukti keselarasan sistem di [Bab Tujuh](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) — tanpa menggantikan pengukuran jejak itu sendiri.
