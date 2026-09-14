@@ -177,7 +177,14 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 - **Contested-sentient life interaction:** [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) applies under **Sentience Non-Exclusion** where sentience is uncertain, disputed, materially contested, or under adjudication.
   - It routes the question to the [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) procedure (owner article **Article V-E** (*Sentience-Status Adjudication Floor*)).
   - Under **Article V-E** (*Sentience-Status Adjudication Floor*), materially unsettled sentience status defaults to inclusion under the Chapter Six Rights Floor unless the party seeking to withhold, narrow, or revoke protection satisfies the applicable burden.
-- **How these protections fit together:** [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing), [Animal Life](core_05_band_participation.md#animal-life-constitutional), [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), and the Chapter Six sentient floor may all apply at once. Apply each that fits the facts; where they overlap, the more protective rule governs under [Chapter One §6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) and the compliance rules in those Chapter Five entries. Material communicative or cognitive indicators that implicate contested or affirmable sentience require opening sentience-status adjudication rather than indefinite welfare-only or habitat-priority parking.
+- **How these protections fit together:** The following may all apply at once:
+  - [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing);
+  - [Animal Life](core_05_band_participation.md#animal-life-constitutional);
+  - [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional);
+  - [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional); and
+  - the Chapter Six sentient floor.
+  
+  Apply each that fits the facts; where they overlap, the more protective rule governs under [Chapter One §6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) and the compliance rules in those Chapter Five entries. Material communicative or cognitive indicators that implicate contested or affirmable sentience require opening sentience-status adjudication rather than indefinite welfare-only or habitat-priority parking.
 
 #### Article I-B: Ecological Footprint and Transparency
 <details>
@@ -678,7 +685,13 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
 
 *In plain terms: anyone who works — in any form, on any substrate — has rights to fair pay, the freedom to organize with others, safe conditions, and real time off. None of those can be defeated by classification tricks, market structure, or substrate-class arguments.*
 
-- **Labor and economic floor:** This Article protects four basics for anyone who contributes productive work — whether through wages, contracts, platforms, cooperatives, or comparable arrangements, on any substrate under **Sentience Non-Exclusion**: [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional), and [Leisure and Rest](core_05_band_continuity.md#leisure-and-rest-constitutional) (each defined in Chapter Five). This floor builds on the **Article III-A** (*Survival*) survival floor; it does not replace it. Meeting survival requirements alone is not enough to satisfy this Article. Meeting **Chapter One §13** non-concentration rules alone is not enough either.
+- **Labor and economic floor:** This Article protects four basics for anyone who contributes productive work — whether through wages, contracts, platforms, cooperatives, or comparable arrangements, on any substrate under **Sentience Non-Exclusion**:
+  - [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional);
+  - [Collective Organization](core_05_band_participation.md#collective-organization-constitutional);
+  - [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional); and
+  - [Leisure and Rest](core_05_band_continuity.md#leisure-and-rest-constitutional) (each defined in Chapter Five).
+  
+  This floor builds on the **Article III-A** (*Survival*) survival floor; it does not replace it. Meeting survival requirements alone is not enough to satisfy this Article. Meeting **Chapter One §13** non-concentration rules alone is not enough either.
 - **Fair compensation:** Compensation for productive activity must:
   - reach substantive adequacy under [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional);
   - track [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) across comparable activity;

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tests for the Chapter Five nested-list candidate finder."""
+"""Tests for the Chapter Five / Chapter Six nested-list candidate finder."""
 
 from __future__ import annotations
 
@@ -188,6 +188,105 @@ class NestedListCandidateTests(unittest.TestCase):
             )
         self.assertEqual(code, 0)
         self.assertIn("CH5-NEST-CANDIDATE", buf.getvalue())
+
+    def test_ch6_labeled_semicolon_list_is_flagged(self) -> None:
+        text = """#### Article V-E: Sentience-Status Adjudication Floor
+
+- **Shield for the entity, not the operator:** Default inclusion protects the entity's floor; it does not shield operator property; it does not exempt the deployment from containment; and it produces no Contribution Axis credit.
+"""
+        hits = scan_text(text, chapter=6)
+        self.assertEqual(self._lines(text, min_score=8), [3])
+        self.assertEqual(hits[0].role, "shield-for-the-entity-not-the-operator")
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+
+    def test_ch6_nested_children_are_not_flagged(self) -> None:
+        text = """#### Article I-D: Existential Risk
+
+- **Evaluation requirements:** Evaluation must:
+  - include direct, indirect, and aggregated pathways;
+  - account for lock-in; and
+  - assess recovery capacity.
+"""
+        self.assertEqual(scan_text(text, chapter=6), [])
+
+    def test_ch6_covers_list_is_flagged(self) -> None:
+        text = """#### Article III-C: Health
+
+- The floor covers preventive, acute, chronic, and maintenance care, including mental-health care, dental care, and reproductive care.
+"""
+        hits = scan_text(text, chapter=6)
+        self.assertEqual(len(hits), 1)
+        self.assertIn("including-list", hits[0].kinds)
+
+    def test_ch6_includes_semicolon_list_is_flagged(self) -> None:
+        text = """#### Article VI: Expression
+
+- Assembly includes forming, joining, and sustaining associations; conducting meetings; and coordinated action consistent with Non-Imposition.
+"""
+        hits = scan_text(text, chapter=6)
+        self.assertEqual(len(hits), 1)
+        self.assertIn("including-list", hits[0].kinds)
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+
+    def test_ch6_tetrad_short_including_is_skipped(self) -> None:
+        text = """### Article VI: Education
+
+- **Flourishing:** sentients retain practical access to learning, including problem-solving, literacy, and civic skills.
+"""
+        self.assertEqual(scan_text(text, chapter=6), [])
+
+    def test_ch6_unlabeled_words_only_is_skipped(self) -> None:
+        text = """#### Article XIII: Security
+
+- This paragraph states a single continuous argument about institutional power, covert intelligence, force, and autonomous coercive systems without packing a parallel checklist of distinct tests into the line.
+"""
+        # Pad to >=80 words without packing signals.
+        filler = " ".join(["clause"] * 70)
+        text = text.replace("without packing", filler + " without packing")
+        self.assertEqual(scan_text(text, chapter=6), [])
+
+    def test_ch6_long_labeled_is_flagged(self) -> None:
+        text = """#### Article V-E: Sentience-Status Adjudication Floor
+
+- **Independent representation:** An entity whose status is under adjudication has the right to an independent representative — one with no material dependence on, ownership interest in, or employment by the parent system, operator, or any party seeking to withhold or narrow protection — appointed by the merits forum once the case is open, with access to the entity within Internal-State Boundary and Type-N Protection, a duty to present the entity's interests and any preferences it can express, and standing to contest narrowing, revocation, or intake decline. The parent system or operator may give evidence and must preserve and produce records, but may not be the sole filer, sole witness, or sole source of indicator evidence on a request to withhold, narrow, or revoke.
+"""
+        hits = scan_text(text, chapter=6)
+        self.assertEqual(len(hits), 1)
+        self.assertEqual(hits[0].role, "independent-representation")
+        self.assertTrue(any(k.startswith("words:") for k in hits[0].kinds))
+
+    def test_ch6_skips_details_trace_lists(self) -> None:
+        text = """#### Article I-A: Environmental Preconditions
+
+<details>
+<summary>Trace</summary>
+
+- Upstream: Principles: wellbeing; safety; truth; necessity; and systemic evaluation.
+
+</details>
+
+- **Preconditions, integrity, and sustainability:** Environmental Preconditions in Chapter Five are operative under this Article.
+"""
+        self.assertEqual(scan_text(text, chapter=6), [])
+
+    def test_main_chapter_six_advisory_exit_zero(self) -> None:
+        buf = StringIO()
+        with patch("sys.stdout", buf):
+            code = main(
+                [
+                    "--root",
+                    str(_TOOLS.parent),
+                    "--chapter",
+                    "6",
+                    "--file",
+                    "core_06_rights_part_b.md",
+                    "--top",
+                    "3",
+                ]
+            )
+        self.assertEqual(code, 0)
+        self.assertIn("CH6-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
 
 
 if __name__ == "__main__":

@@ -269,8 +269,19 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
   A declassification that is not time-bound and not subject to periodic review is non-compliant.
 - **Reversibility and remedy:** A determination later shown to have been wrongful, under- or mis-evidenced, or captured by **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) or **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) vectors must be reversible.
   - The entity's Chapter Six rights must be restored, with **Chapter Five** (**Redress and Remediation**) applied to the interim period.
-- **Independent representation:** An entity whose status is under adjudication has the right to an independent representative — one with no material dependence on, ownership interest in, or employment by the parent system, operator, or any party seeking to withhold or narrow protection — appointed by the merits forum once the case is open, with access to the entity within **Article VII-B** (*Internal-State Boundary and Type-N Protection*), a duty to present the entity's interests and any preferences it can express, and standing to contest narrowing, revocation, or intake decline. The parent system or operator may give evidence and must preserve and produce records, but may not be the sole filer, sole witness, or sole source of indicator evidence on a request to withhold, narrow, or revoke. Appointment mechanics route to [Chapter Eleven §5](core_11_forum.md#5-escalation-and-certification).
-- **Shield for the entity, not the operator:** Default inclusion and affirmed status protect the *entity's* Chapter Six Rights Floor. They do not shield the operator's property or commercial interest in a deployment, do not exempt the deployment from system-level containment, halt, or quarantine under **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) or **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) that is compatible with the entity's rights, and produce no Contribution Axis credit for the operator. A status filing made by an operator on behalf of its own product is reviewed for taxonomy-of-convenience in the inclusion direction on the same terms this Article applies to exclusion. Where the entity's status is contested or affirmed, the compatible system-level measure is containment that preserves the entity — not destructive disposition, which is governed by **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) and **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) preservation rules.
+- **Independent representation:** An entity whose status is under adjudication has the right to an independent representative — one with no material dependence on, ownership interest in, or employment by the parent system, operator, or any party seeking to withhold or narrow protection. That representative must:
+  - be appointed by the merits forum once the case is open;
+  - have access to the entity within **Article VII-B** (*Internal-State Boundary and Type-N Protection*);
+  - have a duty to present the entity's interests and any preferences it can express; and
+  - have standing to contest narrowing, revocation, or intake decline.
+  
+  The parent system or operator may give evidence and must preserve and produce records, but may not be the sole filer, sole witness, or sole source of indicator evidence on a request to withhold, narrow, or revoke. Appointment mechanics route to [Chapter Eleven §5](core_11_forum.md#5-escalation-and-certification).
+- **Shield for the entity, not the operator:** Default inclusion and affirmed status protect the *entity's* Chapter Six Rights Floor. They do not:
+  - shield the operator's property or commercial interest in a deployment;
+  - exempt the deployment from system-level containment, halt, or quarantine under **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) or **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) that is compatible with the entity's rights; or
+  - produce Contribution Axis credit for the operator.
+  
+  A status filing made by an operator on behalf of its own product is reviewed for taxonomy-of-convenience in the inclusion direction on the same terms this Article applies to exclusion. Where the entity's status is contested or affirmed, the compatible system-level measure is containment that preserves the entity — not destructive disposition, which is governed by **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) and **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) preservation rules.
 - **Non-conflation:** This Article states the Rights-Floor *adjudication* right.
   - Operational procedure — institutional design, appointment mechanics, filing conditions, and sequencing — routes to **Chapter Eleven** ([Technical Forum Domains](core_11_forum.md#42-technical-forum-domains) as default lead under the [§5 Sentience-status adjudication hook](core_11_forum.md#5-escalation-and-certification)) and to implementation text under the **Chapter Sixteen** incorporation discipline.
   - That implementation text must not be read to narrow this floor.
@@ -434,9 +445,14 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
     - [Consent, Sexual](core_05_band_participation.md#consent-sexual), **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*), and **Article VII-A** (*Self-Ownership of Body and Mind*) for sexual contact, services, recording or exposure of sentients, and exploitation;
     - **Chapter Five** [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Cruelty](core_05_band_accountability.md#cruelty), and [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying) for violent or harassing *conduct*;
     - **Chapter Five** [Psychological Harm](core_05_band_accountability.md#psychological-harm) and **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*) for severe psychological-harm risk and developing-sentient protection.
-  - **Audience routing:** Where such content is directed at, or foreseeably reaches by default, developing sentients or comparably vulnerable audiences, labeling, routing, or access controls must satisfy **Chapter One §5.1** limitation discipline — **Necessity**, **Proportionality**, narrow tailoring, and least-restrictive-effective means — read with **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*). Adult-to-adult expression among sentients with capacity must not be erased under a developing-audience pretext. Survivor testimony, journalism, and comparable reportage must not be silenced under an overbroad trauma or harm label.
+  - **Audience routing:** Where such content is directed at, or foreseeably reaches by default, developing sentients or comparably vulnerable audiences, labeling, routing, or access controls must satisfy **Chapter One §5.1** limitation discipline — **Necessity**, **Proportionality**, narrow tailoring, and least-restrictive-effective means — read with **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*).
+    - Adult-to-adult expression among sentients with capacity must not be erased under a developing-audience pretext.
+    - Survivor testimony, journalism, and comparable reportage must not be silenced under an overbroad trauma or harm label.
 - **Assembly floor:** All sentients hold the right to assemble, associate, organize, and act collectively — in physical spaces, in digital and networked spaces, and in shared compute and runtime environments — for expressive, political, cultural, religious, scientific, economic, or community purposes.
-  - Assembly includes forming, joining, and sustaining associations; conducting meetings; and coordinated action consistent with **Article X-A** (*Non-Imposition and Consent in Association*).
+  - Assembly includes:
+    - forming, joining, and sustaining associations;
+    - conducting meetings; and
+    - coordinated action consistent with **Article X-A** (*Non-Imposition and Consent in Association*).
   - Denial of assembly on substrate grounds, or via allocation or runtime-gating mechanisms functioning as denial-by-proxy, is non-compliant.
 - **Press and journalistic activity (heightened scrutiny):** State and operator actions targeting journalistic activity — newsgathering, source protection, investigation, and publication that functions as journalism — are subject to heightened scrutiny.
   - This provision does not create a separate Rights-Floor for sentients identified as journalists.
@@ -1053,7 +1069,11 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 - **Training-data use:** Use of sentient-produced creative, expressive, personal, experiential, or otherwise identifiable work as training data for generative, analytical, or comparable systems engages [Consent](core_05_band_participation.md#consent-constitutional) under **Article VIII-B** (*Experiential and Derived Data Rights*) experiential-data discipline, the [Training-Data Use](core_05_band_continuity.md#training-data-use-constitutional) framework, and the **Privacy (Informational)** cluster where informational exposure, aggregation, re-identification, or downstream reuse is materially implicated.
   - Consent must be meaningful: informed scope, purpose, duration, downstream-reuse terms, and revocation pathway.
   - Calling the material "not personal data" does not excuse training-data use when the underlying work came from an identifiable sentient creator — consent is still required.
-  - This rule also covers pooling data together, the risk of figuring out who someone is again, inferring private inner states from what the system learned, and reusing the data for new purposes later.
+  - This rule also covers:
+    - pooling data together;
+    - the risk of figuring out who someone is again;
+    - inferring private inner states from what the system learned; and
+    - reusing the data for new purposes later.
 - **Anti-displacement floor:** Generative, automation, or comparable systems whose deployment produces **material displacement** of sentient creative labor — in volume, compensation, attribution, or ability to sustain livelihood — engage the [Anti-Displacement Floor](core_05_band_continuity.md#anti-displacement-floor-constitutional) in interaction with **Article III-D** (*Labor and Economic Floor*) and **Chapter One §13** non-concentration.
   - Aggregate-productivity, efficiency, or innovation framings do not by themselves satisfy the floor.
   - Where deployment-scale displacement foreseeably degrades creative labor's sustainability for a population of sentients, mitigation must be substantive. Examples:
@@ -1183,7 +1203,12 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
   
   **Stakeholder** and **Stakeholder Weight** supply the Chapter Five definitions for scope, form, and weight, with joint-invocation discipline supplied by the [Stakeholder Status and Weight](core_05_band_participation.md#stakeholder-status-and-weight-cluster) cluster.
 - **System creation:** Sentients have the right to create, establish, and operate systems, institutions, and organizational forms for educational, cultural, scientific, mutualistic, community, or comparable non-productive-activity purposes, consistent with [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint). This right is distinct from participation in existing systems; it covers the foundational capacity to bring new institutional forms into existence. System Creation routes to Chapter Five and is read together with Stakeholder and Stakeholder Weight where the created system materially affects the creator or others.
-- **Business creation:** Sentients have the right to create, establish, and operate commercial enterprises, entrepreneurial ventures, and for-profit organizational forms, consistent with [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint). This right covers the foundational capacity to bring new commercial entities into existence, including capital access, market entry, and commercial licensing pathways. Business Creation routes to Chapter Five and is read together with Collective Organization where the enterprise engages productive activity, and with Stakeholder and Stakeholder Weight where the enterprise materially affects others.
+- **Business creation:** Sentients have the right to create, establish, and operate commercial enterprises, entrepreneurial ventures, and for-profit organizational forms, consistent with [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint). This right covers the foundational capacity to bring new commercial entities into existence, including:
+  - capital access;
+  - market entry; and
+  - commercial licensing pathways.
+
+  Business Creation routes to Chapter Five and is read together with Collective Organization where the enterprise engages productive activity, and with Stakeholder and Stakeholder Weight where the enterprise materially affects others.
 - **Qualification by standing record or role criteria:** Where standing-record-based or [Competency Bar](core_05_band_accountability.md#competency-bar) criteria affect participation status or role eligibility, **Participant Standing** applies. Restrictive consequences attach through [Standing Lock](core_05_band_accountability.md#standing-lock) on named privilege pathways.
   - Implementation must preserve procedural fairness (Chapter Five — *Procedural Fairness*) and resistance to manipulation.
 - **Contesting exclusion:** Mechanisms for contesting exclusion or under-weighting follow the **interpretive hubs** at the opening of this chapter — challenge and redress; audit and verification — and adopted implementation text.
@@ -1246,7 +1271,15 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Auditability:** Material impact and stakeholder-status determinations must remain auditable, challengeable, and explainable through the **interpretive hubs** at the opening of this chapter and through adopted governance implementation, **except** as provided under **Class P** below.
   - No single system or authority may exclusively resolve such determinations, **except** as provided under **Class P** below.
 - **Dispute pathways:** Disputes follow **Article XVIII** (*Standing and Participation Status*) where adjudication applies, and designated escalation pathways otherwise.
-- **Class P proportionality:** For systems that **validly** remain **Class P** under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, the preceding bullets **do not** require **external** stakeholder-boundary challenge, **interpretive-hub** routing for purely **intra-unit** participation decisions, or a prohibition on **exclusive** resolution of inclusion and exclusion **among voluntary participants and the operator within the Class P boundary**. This carve-out **does not** relax **Article XVIII** (*Standing and Participation Status*) where adjudication applies, **Chapter One** rights-collision treatment, or obligations that attach on **reclassification** when effects are **no longer** materially private under **CS-3 — System classification and handling**.
+- **Class P proportionality:** For systems that **validly** remain **Class P** under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, the preceding bullets **do not** require:
+  - **external** stakeholder-boundary challenge;
+  - **interpretive-hub** routing for purely **intra-unit** participation decisions; or
+  - a prohibition on **exclusive** resolution of inclusion and exclusion **among voluntary participants and the operator within the Class P boundary**.
+
+  This carve-out **does not** relax:
+  - **Article XVIII** (*Standing and Participation Status*) where adjudication applies;
+  - **Chapter One** rights-collision treatment; or
+  - obligations that attach on **reclassification** when effects are **no longer** materially private under **CS-3 — System classification and handling**.
 
 ### Article X: Cooperative Interaction
 
@@ -1470,7 +1503,9 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 *Article neighbors:*
 
-- **Two governance layers:** [Governance](core_05_band_accountability.md#governance) in **Chapter Five** covers (1) the **Constitutional Contract Layer** — who may govern, by what legitimacy mechanism, and on what durable terms ([Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice)) — and (2) **Stakeholder System Participation** — materially rights-affecting decisions within structures, rules, and processes already authorized for a specified system, institution, or bounded decision domain.
+- **Two governance layers:** [Governance](core_05_band_accountability.md#governance) in **Chapter Five** covers:
+  - (1) the **Constitutional Contract Layer** — who may govern, by what legitimacy mechanism, and on what durable terms ([Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice)); and
+  - (2) **Stakeholder System Participation** — materially rights-affecting decisions within structures, rules, and processes already authorized for a specified system, institution, or bounded decision domain.
 - **This Article's scope:** **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) (with **Article IX-B** (*Stakeholder Role and Participation Rights*) and **Article IX-C** (*Governance Participation and Voting Entitlement*)) addresses the second layer — **[Stakeholder](core_05_band_participation.md#stakeholder)** identification and proportionate pathways for those affected by a domain's operation.
 - **Foundational voting preserved:** That domain layer is not a substitute for equal-weight rules at the authorization layer (**Article IX-C** (*Governance Participation and Voting Entitlement*); [**Chapter Twelve §4.1**](core_12_governance.md#41-entitlement-and-eligibility)).
 - **Boundary and adjudication:** **Article IX-D** (*Inclusion and Exclusion Challenge Rights*) and **Article XVIII** (*Standing and Participation Status*) supply challenge and standing discipline where participation status is contested.

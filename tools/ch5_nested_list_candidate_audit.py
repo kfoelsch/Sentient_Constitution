@@ -1,20 +1,26 @@
 #!/usr/bin/env python3
-"""Advisory ranking of packed Chapter Five list items for nested-bullet rewrites.
+"""Advisory ranking of packed list items for nested-bullet rewrites.
 
-Finds In-scope / assessment / failure bullets (and unlabeled assessment
-continuation lines) that pack a parallel list into one sentence and have no
-nested child bullets yet. Default is advisory: print ranked candidates and
-exit 0. Use ``--strict`` only when an operator wants a non-zero exit on hits.
+Chapter Five: In-scope / assessment / failure bullets (and unlabeled
+assessment continuation lines). Chapter Six: labeled operative run-ins
+(``**Label:**`` / ``**Label** —``) and packed covers/includes lists.
+
+Finds items that pack a parallel list into one sentence and have no nested
+child bullets yet. Default is advisory: print ranked candidates and exit 0.
+Use ``--strict`` only when an operator wants a non-zero exit on hits.
 
 This is a candidate finder, not a duty. Existing nesting gates
 (``corpus_markdown_audit.check_oec_intro_sublist_nesting``, Article IX in
 ``prose_continuity_audit``) still lock lists that are already nested.
 
-Rule: CH5-NEST-CANDIDATE in tools/architecture/rule_registry.json.
+Rules: CH5-NEST-CANDIDATE / CH6-NEST-CANDIDATE in
+tools/architecture/rule_registry.json.
 
 Run:
 
     make ch5-nested-list-candidates
+    make ch6-nested-list-candidates
+    python3 tools/ch5_nested_list_candidate_audit.py --root . --chapter 6
     python3 tools/ch5_nested_list_candidate_audit.py --root . --file core_05_band_accountability.md
 """
 
@@ -32,6 +38,13 @@ if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
 from ch5_paths import CH5_APEX, CH5_DEFS  # noqa: E402
+
+CH6_RIGHTS: tuple[str, ...] = (
+    "core_06_rights_part_a.md",
+    "core_06_rights_part_b.md",
+    "core_06_rights_part_c.md",
+    "core_06_rights_part_d.md",
+)
 
 LIST_RE = re.compile(r"^([ \t]*)([-*]|\d+\.)\s+(.*)$")
 HEADING_RE = re.compile(r"^(#{3,5})\s+(.+)$")
@@ -84,13 +97,16 @@ COLON_INTRO_RE = re.compile(
     r"|apply:"
     r"|identify:"
     r"|separate:"
+    r"|as follows:"
+    r"|the following:"
+    r"|must:"
     r")\s*$",
     re.IGNORECASE,
 )
 
 INCLUDING_LIST_RE = re.compile(
     r"\b(?:including|covers|covering|comprises|may include|this includes|"
-    r"these include|must include|examples include|causes include)\b"
+    r"these include|must include|examples include|causes include|includes)\b"
     r"[^.\n]*,[^.\n]*,[^.\n]*\b(?:and|or)\b",
     re.IGNORECASE,
 )
@@ -99,6 +115,20 @@ POINTER_RE = re.compile(
     r"^(?:Chapter Five pointer|canonical (?:owner|concept|mechanics)|"
     r"Axis mechanics:|operational requirements:)",
     re.IGNORECASE,
+)
+
+LABELED_RE = re.compile(
+    r"^\*\*(?:([^*]+?)(?::|—)\*\*|([^*]+)\*\*\s*(?::|—)\s*)"
+)
+TETRAD_OR_AIM_ROLES = frozenset(
+    {
+        "flourishing",
+        "continuity",
+        "participation",
+        "oversight",
+        "accountability",
+        "timeliness",
+    }
 )
 
 ROLE_RES: tuple[tuple[str, re.Pattern[str]], ...] = (
@@ -157,9 +187,17 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         help="Limit to one or more relative paths (repeatable).",
     )
     parser.add_argument(
+        "--chapter",
+        action="append",
+        type=int,
+        choices=(5, 6),
+        default=[],
+        help="Chapter to scan (repeatable: 5 and/or 6). Default 5 when --file is omitted.",
+    )
+    parser.add_argument(
         "--apex",
         action="store_true",
-        help="Also scan Chapter Five aim and Tetrad-leg apex files.",
+        help="Also scan Chapter Five aim and Tetrad-leg apex files (chapter 5 only).",
     )
     parser.add_argument(
         "--min-score",
@@ -217,7 +255,43 @@ def detect_role(body: str) -> str:
     for role, pattern in ROLE_RES:
         if pattern.match(stripped):
             return role
+    labeled = LABELED_RE.match(stripped)
+    if labeled:
+        raw_label = labeled.group(1) or labeled.group(2) or ""
+        slug = re.sub(r"[^a-z0-9]+", "-", raw_label.strip().lower()).strip("-")
+        return slug or "labeled"
     return "other"
+
+
+def _is_packable_role(role: str) -> bool:
+    if role in TARGET_ROLES:
+        return True
+    if role in {"other", "out-of-scope"} or role.endswith("-measure"):
+        return False
+    return True
+
+
+def chapter_from_rel(rel: str) -> int | None:
+    name = Path(rel).name if rel else ""
+    if name.startswith("core_06_"):
+        return 6
+    if name.startswith("core_05_"):
+        return 5
+    return None
+
+
+def rule_ids_for(paths: list[Path], chapters: list[int]) -> tuple[str, ...]:
+    found: set[int] = set(chapters)
+    for path in paths:
+        chapter = chapter_from_rel(path.name)
+        if chapter is not None:
+            found.add(chapter)
+    ids: list[str] = []
+    if 5 in found or not found:
+        ids.append("CH5-NEST-CANDIDATE")
+    if 6 in found:
+        ids.append("CH6-NEST-CANDIDATE")
+    return tuple(ids)
 
 
 def is_guidepost_header(body: str) -> bool:
@@ -385,12 +459,13 @@ def _kinds_and_score(unit: ScanUnit) -> tuple[list[str], int, str]:
         score += 6
 
     sentences = sentence_count(body)
-    if sentences >= 3 and unit.role in TARGET_ROLES:
+    packable = _is_packable_role(unit.role)
+    if sentences >= 3 and packable:
         kinds.append(f"sentences:{sentences}")
         score += (sentences - 2) * 2
 
     words = word_count(body)
-    if unit.role in TARGET_ROLES and words >= 55:
+    if packable and words >= 55:
         kinds.append(f"words:{words}")
         score += 3
     if words >= 80:
@@ -433,7 +508,14 @@ def _should_skip(unit: ScanUnit) -> bool:
     return False
 
 
-def score_units(units: list[ScanUnit], *, min_score: int) -> list[Candidate]:
+def _mild_including_only(kinds: list[str]) -> bool:
+    packing = [kind for kind in kinds if not kind.startswith("words:")]
+    return packing == ["including-list"]
+
+
+def score_units(
+    units: list[ScanUnit], *, min_score: int, chapter: int | None = None
+) -> list[Candidate]:
     candidates: list[Candidate] = []
     for unit in units:
         if _should_skip(unit):
@@ -444,6 +526,19 @@ def score_units(units: list[ScanUnit], *, min_score: int) -> list[Candidate]:
         unit.words = word_count(unit.body)
         unit.recommendation = recommendation
         if score < min_score or not kinds:
+            continue
+        packing = [kind for kind in kinds if not kind.startswith("words:")]
+        if (
+            chapter == 6
+            and unit.role == "other"
+            and not packing
+        ):
+            continue
+        if (
+            unit.role in TETRAD_OR_AIM_ROLES
+            and _mild_including_only(kinds)
+            and unit.words < 55
+        ):
             continue
         preview = strip_md(unit.body).replace("\n", " ")
         if len(preview) > PREVIEW_CHARS:
@@ -466,10 +561,15 @@ def score_units(units: list[ScanUnit], *, min_score: int) -> list[Candidate]:
 
 
 def scan_lines(
-    lines: list[str], *, rel: str = "", min_score: int = DEFAULT_MIN_SCORE
+    lines: list[str],
+    *,
+    rel: str = "",
+    min_score: int = DEFAULT_MIN_SCORE,
+    chapter: int | None = None,
 ) -> list[Candidate]:
     units = iter_scan_units(lines)
-    candidates = score_units(units, min_score=min_score)
+    resolved_chapter = chapter if chapter is not None else chapter_from_rel(rel)
+    candidates = score_units(units, min_score=min_score, chapter=resolved_chapter)
     if not rel:
         return candidates
     return [
@@ -489,16 +589,43 @@ def scan_lines(
 
 
 def scan_text(
-    text: str, *, rel: str = "", min_score: int = DEFAULT_MIN_SCORE
+    text: str,
+    *,
+    rel: str = "",
+    min_score: int = DEFAULT_MIN_SCORE,
+    chapter: int | None = None,
 ) -> list[Candidate]:
-    return scan_lines(text.splitlines(), rel=rel, min_score=min_score)
+    return scan_lines(
+        text.splitlines(), rel=rel, min_score=min_score, chapter=chapter
+    )
+
+
+def selected_chapters(args: argparse.Namespace) -> list[int]:
+    if args.chapter:
+        return list(dict.fromkeys(args.chapter))
+    if args.file:
+        found: list[int] = []
+        for name in args.file:
+            chapter = chapter_from_rel(name)
+            if chapter is not None and chapter not in found:
+                found.append(chapter)
+        return found
+    return [5]
 
 
 def resolve_targets(root: Path, args: argparse.Namespace) -> list[Path]:
     if args.file:
         names = tuple(args.file)
     else:
-        names = CH5_DEFS + (CH5_APEX if args.apex else ())
+        chapters = selected_chapters(args)
+        names_list: list[str] = []
+        if 5 in chapters:
+            names_list.extend(CH5_DEFS)
+            if args.apex:
+                names_list.extend(CH5_APEX)
+        if 6 in chapters:
+            names_list.extend(CH6_RIGHTS)
+        names = tuple(names_list)
     paths: list[Path] = []
     for name in names:
         path = root / name
@@ -509,10 +636,16 @@ def resolve_targets(root: Path, args: argparse.Namespace) -> list[Path]:
     return paths
 
 
-def format_text(candidates: list[Candidate], *, min_score: int) -> str:
+def format_text(
+    candidates: list[Candidate],
+    *,
+    min_score: int,
+    rule_ids: tuple[str, ...] = ("CH5-NEST-CANDIDATE",),
+) -> str:
+    rules = ", ".join(rule_ids) if rule_ids else "CH5-NEST-CANDIDATE"
     lines = [
         "Advisory nested-list candidates (not a regression gate).",
-        f"Rule CH5-NEST-CANDIDATE; min-score {min_score}.",
+        f"Rule {rules}; min-score {min_score}.",
         "",
     ]
     if not candidates:
@@ -537,7 +670,7 @@ def main(argv: list[str] | None = None) -> int:
     root = Path(args.root).resolve()
     paths = resolve_targets(root, args)
     if not paths:
-        print("No Chapter Five files found to scan.", file=sys.stderr)
+        print("No nested-list candidate files found to scan.", file=sys.stderr)
         return 2
 
     candidates: list[Candidate] = []
@@ -550,10 +683,14 @@ def main(argv: list[str] | None = None) -> int:
     if args.top > 0:
         candidates = candidates[: args.top]
 
+    rule_ids = rule_ids_for(paths, selected_chapters(args))
     if args.as_json:
         print(json.dumps([asdict(item) for item in candidates], indent=2))
     else:
-        print(format_text(candidates, min_score=args.min_score), end="")
+        print(
+            format_text(candidates, min_score=args.min_score, rule_ids=rule_ids),
+            end="",
+        )
 
     if args.strict and candidates:
         return 1
