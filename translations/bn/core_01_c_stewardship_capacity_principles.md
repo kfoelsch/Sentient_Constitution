@@ -429,3 +429,165 @@
 - **করে না:**
   - উন্মুক্ততাকে **নিরাপত্তা**, **সত্য**, ন্যায্য গোপনীয়তা, বা নিরাপত্তা বন্ধনের উপরে তোলা
   - [তাৎপর্য](../../core_05_band_oversight.md#materiality-determination) ও [নির্ভরতা](../../core_05_band_continuity.md#dependency)-তে চাবি করা আনুপাতিক বোঝাড়ার স্থলাভিষিক্ত হওয়া
+
+<a id="95-aligned-self-organization"></a>
+#### 9.5 সারিবদ্ধ স্ব-সংগঠন
+<details>
+<summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
+
+- ঊর্ধ্ব: [§9.1 পরিণতিময় দায়িত্বশীল ব্যবস্থাপনা](#91-stewardship); [§5 স্বাধীনতা (সীমিত কর্তৃত্ব)](core_01_a_values_principles.md#5-freedom-bounded-agency), বিশেষত [§5.3.1 সারিবদ্ধ স্ব-সংগঠন](core_01_a_values_principles.md#531-aligned-self-organization)।
+- সঙ্গে পড়ুন: [সমাবেশ](../../core_05_band_participation.md#assembly-constitutional); [ব্যবস্থা সৃষ্টি](../../core_05_band_participation.md#system-creation-constitutional); [সুরক্ষিত প্রতিবেদন (হুইসেলব্লায়িং)](../../core_05_band_accountability.md#protected-reporting-whistleblowing); [সুরক্ষিত প্রতিবেদনে প্রতিশোধ ও প্রবেশাধিকার হস্তক্ষেপ](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference); [প্রমাণ সংরক্ষণ](../../core_05_band_oversight.md#evidence-preservation); [অনুচ্ছেদ XV — নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)।
+- কর্তৃত্ব সীমা: [অধ্যায় চার — প্রমাণের ভার, খুঁজে পাওয়া ও যাচাই](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification); [শাসন](../../core_05_band_accountability.md#governance); [সারবস্তু নির্ণয়](../../core_05_band_accountability.md#merits-determination); [প্রক্রিয়াগত ন্যায্যতা](../../core_05_band_participation.md#procedural-fairness-constitutional)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
+
+- [ব্যবস্থা সৃষ্টি](../../core_05_band_participation.md#system-creation-constitutional) · [O](../../core_05_band_participation.md#system-creation-constitutional) · [M](../../core_05_band_participation.md#system-creation-constitutional-a) · [A](../../core_05_band_participation.md#system-creation-constitutional-a) · [C](../../core_05_band_participation.md#system-creation-constitutional-c)
+- [সুরক্ষিত প্রতিবেদন (হুইসেলব্লায়িং)](../../core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](../../core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](../../core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](../../core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](../../core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+- [সুরক্ষিত প্রতিবেদনে প্রতিশোধ ও প্রবেশাধিকার হস্তক্ষেপ](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference) · [O](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference) · [M](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [A](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [C](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference-c)
+- [প্রমাণ সংরক্ষণ](../../core_05_band_oversight.md#evidence-preservation) · [O](../../core_05_band_oversight.md#evidence-preservation) · [M](../../core_05_band_oversight.md#evidence-preservation-a) · [A](../../core_05_band_oversight.md#evidence-preservation-a) · [C](../../core_05_band_oversight.md#evidence-preservation-c)
+- [পূর্বদৃশ্যতা](../../core_05_band_oversight.md#foreseeability-diligence-and-reasonably-foreseeable) · [O](../../core_05_band_oversight.md#foreseeability-diligence-and-reasonably-foreseeable) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
+- [প্রয়োজনীয়তা](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [সারবস্তু নির্ণয়](../../core_05_band_accountability.md#merits-determination) · [O](../../core_05_band_accountability.md#merits-determination) · [M](../../core_05_band_accountability.md#merits-determination-a) · [A](../../core_05_band_accountability.md#merits-determination-a) · [C](../../core_05_band_accountability.md#merits-determination-c)
+
+</details>
+
+<br>
+
+*সহজ ভাষায়: কোনো অধিষ্ঠিত পক্ষ উপযোগী সাংবিধানিক কাজ শুরু করার অধিকারের মালিক নয়। কোনো সংজ্ঞ প্রাণী বা সম্প্রদায় সমস্যা দেখতে, অন্যদের জড়াতে, তদন্ত করতে, পরীক্ষা করতে, প্রমাণ সংরক্ষণ করতে, প্রতিক্রিয়া গড়তে, বা জনসেবা ব্যবস্থা তৈরি করতে পারে। যখন সেই কাজ বিশ্বাসযোগ্য, বস্তুগতভাবে প্রাসঙ্গিক দেখানো করে, দায়ী প্রতিষ্ঠান এটিকে উপেক্ষা করতে পারে না কারণ লেখকদের অবস্থা, পৃষ্ঠপোষকতা, বা প্রচলিত যোগ্যতা নেই। তাদের আসল প্রক্রিয়াগত পথ দিতে হয়। এটি সম্প্রদায়কে অন্যদের উপর কর্তৃত্ব বা চূড়ান্ত সিদ্ধান্তের ক্ষমতা দেয় না।*
+
+**সারিবদ্ধ স্ব-সংগঠন:**
+- **এটি কী রক্ষা করে:** সাংবিধানিকভাবে বৈধ উদ্দেশ্যের দিকে সংজ্ঞ-উদ্যোগী ও সম্প্রদায়-উদ্যোগী দায়িত্বশীল ব্যবস্থাপনা।
+- **এতে আছে:**
+  - অনুসন্ধান
+  - সম্প্রদায় বিজ্ঞান, সাধারণত নাগরিক বিজ্ঞান বলা কাজ সহ
+  - স্বাধীন বা সম্প্রদায় তদন্ত
+  - প্রমাণ সংরক্ষণ ও সুরক্ষিত প্রতিবেদন
+  - পারস্পরিক সহায়তা ও মেরামত
+  - জনসেবা ব্যবস্থা ও প্রতিষ্ঠানের সৃষ্টি, পরিচালনা, বা উন্নতি
+- **শুরু করতে লাগে না:** নিচু-ঝুঁকি কাজ শুরু করতে বা তার ফল জমা দিতে অধিষ্ঠিত পৃষ্ঠপোষক, আনুষ্ঠানিক নেতৃত্ব মনোনয়ন, বা প্রচলিত যোগ্যতা লাগে না।
+- **এখনও মূল্যায়নযোগ্য:** দক্ষতা ও পদ্ধতি কাজের বস্তুগত বাজির অনুপাতে মূল্যায়নযোগ্য থাকে।
+
+**প্রক্রিয়াগত সাংবিধানিক প্রভাব:**
+- **সীমা:** যে জমা প্রযোজ্য গ্রহণ, প্রতিবেদন, বা সংরক্ষণ মানের অধীনে বিশ্বাসযোগ্য ও বস্তুগতভাবে প্রাসঙ্গিক সীমা দেখানো করে, তাকে খুঁজে পাওয়া যায় এমন পথ পেতে হয়:
+  - সময়মতো গ্রহণ
+  - যেখানে ন্যায্য সেখানে সংরক্ষণ
+  - পথ ঠিক
+  - কারণসহ জবাব
+  - যাদের কাজ পরীক্ষা হচ্ছে তাদের থেকে স্বাধীন কারও দিয়ে পর্যালোচনা
+- **এটি ট্রিগার করতে পারে:**
+  - অনুসন্ধান
+  - প্রমাণ সংরক্ষণ
+  - অন্তর্বর্তী সুরক্ষা
+  - রেফারেল
+  - প্রত্যয়ন চ্যালেঞ্জ
+  - প্রযোজ্য মালিক স্তরের অধীনে পুনরায় খোলা
+- **স্থলাভিষিক্ত হতে হয় না:** অবস্থা, সংশ্লিষ্টতা, প্রাতিষ্ঠানিক উৎস, বা প্রচলিত যোগ্যতার অভাব মূল্যায়নের স্থলাভিষিক্ত হিসেবে ব্যবহার করা চলে না:
+  - পদ্ধতি
+  - প্রমাণ
+  - উৎসসূত্র
+  - অনিশ্চয়তা
+  - সাংবিধানিক প্রাসঙ্গিকতা
+
+**প্রমাণ ও দাবি শৃঙ্খলা:**
+- গ্রহণ বা সংরক্ষণ শুরু করতে যে সীমা লাগে তা সারবস্তুতে চূড়ান্ত ভার নয়।
+- সুরক্ষিত প্রতিবেদনের জন্য নিখুঁত আইনি চরিত্রায়ন লাগে না।
+- যে সংজ্ঞ প্রাণী বা দল দাবি করে নিজের কাজ বা ফল সাংবিধানিকভাবে সারিবদ্ধ, তবু [অধ্যায় চার](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)-এর অধীনে সেই দাবির ভার বহন করে।
+- অভিজ্ঞতামূলক, পূর্বাভাসমূলক, বা কার্যকারণ সিদ্ধান্ত থাকতে হয়:
+  - খুঁজে পাওয়া যায় এমন
+  - যেখানে যুক্তিসঙ্গতভাবে সম্ভব স্বাধীনভাবে পরীক্ষাযোগ্য
+  - অনিশ্চয়তা ও সীমা সম্পর্কে স্পষ্ট
+  - বিরোধী পরীক্ষার জন্য খোলা
+  - বস্তুগত নতুন প্রমাণে সংশোধনযোগ্য
+
+**স্ব-নিয়োগ বা স্ব-প্রত্যয়ন নয়:**
+- স্ব-সংগঠিত কাজ শুরু, চালানো, অর্থায়ন, প্রকাশ, বা জমা দেওয়া একা:
+  - শাসন, প্রয়োগ, বা জবরদস্তি কর্তৃত্ব দান করে না
+  - অসম্মত পক্ষকে সারবস্তুগত ফলে বাঁধে না
+  - প্রস্থিতি, দায়, প্রাপ্যতা, বৈধতা, আদেশ, প্রতিকার, শ্রেণিবিন্যাস, বা অধিকার সীমাবদ্ধতা স্থাপন করে না
+  - [সারবস্তু নির্ণয়](../../core_05_band_accountability.md#merits-determination) গণ্য হয় না
+- যেকোনো এমন প্রভাবের জন্য এই সংবিধান যে আলাদা বৈধ কর্তৃত্ব, বৈধতা, প্রমাণ, যথাযথ প্রক্রিয়া, পর্যালোচনা ও প্রতিকার পথ দেয় তা লাগে।
+- প্রক্রিয়াগত প্রভাবকে জমার সারবস্তুগত সিদ্ধান্তের অনুমোদন হিসেবে গণ্য করা চলে না।
+
+**নিরাপত্তা সীমা:**
+- যখন কোনো কার্যকলাপ যুক্তিসঙ্গতভাবে সহিংসতা, গুরুতর ক্ষতি, কারসাজি করা বা হারানো প্রমাণ, শোষণ, বা পুরো ব্যবস্থার গুরুতর ক্ষতির দিকে নিয়ে যেতে পারে বলে আশা করা যায়, সুরক্ষাকে ঝুঁকির সঙ্গে মেলাতে হয়।
+- বিপদ অনুসারে, তারা চাইতে পারে:
+  - প্রাসঙ্গিক দক্ষতা
+  - ধাপে ধাপে বা উল্টানো যায় এমন পদ্ধতি
+  - সীমিত প্রবেশাধিকার
+  - প্রভাবিত সংজ্ঞ প্রাণী রক্ষায় সমন্বয়
+  - ইতিমধ্যে অনুমোদিত ভূমিকার মধ্য দিয়ে কাজ
+- যেকোনো সীমাবদ্ধতাকে নিরাপত্তা, সত্য, প্রয়োজনীয়তা, আনুপাতিকতা, সংকীর্ণ উপযোগন ও স্বাধীন পর্যালোচনা পূরণ করতে হয়।
+- ঝুঁকি বিপজ্জনক কাজ কীভাবে এগোয় তা সীমিত করতে পারে; এটি অজুহাত হয়ে উঠতে পারে না:
+  - কম্বল বহিষ্কার
+  - প্রতিশোধ
+  - বিশ্বাসযোগ্য প্রমাণ দমন
+  - পর্যালোচনার একচেটিয়া অধিষ্ঠিত নিয়ন্ত্রণ
+
+<a id="96-process-character-discipline"></a>
+<a id="96-anti-degrading-process"></a>
+#### 9.6 অবনতি-নিরোধ প্রক্রিয়া
+
+<details>
+<summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
+
+- ঊর্ধ্ব: [§9.1 পরিণতিময় দায়িত্বশীল ব্যবস্থাপনা](#91-stewardship) (সাংবিধানিক চরিত্রে পরিচালিত পরিণতিময় অংশগ্রহণ); [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [মর্যাদা ও সমান নৈতিক মর্যাদা](../../core_05_band_participation.md#dignity-and-equal-moral-standing)।
+- সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — **জবাবদিহি** পা (প্রক্রিয়া নকশা প্রভাবিত সংজ্ঞ প্রাণীর কাছে জবাব দেয়, প্রাতিষ্ঠানিক সুবিধার কাছে নয়); **তত্ত্বাবধান** পা (অবনতি ধরা ও চ্যালেঞ্জযোগ্য); [নিষ্ঠুরতা](../../core_05_band_accountability.md#cruelty) (*উদ্দেশ্য হিসেবে কষ্ট এবং অনাবশ্যক / অবনত আরোপের অধ্যায় পাঁচ ঘর*)।
+- অধঃ: [§6.1.4 সাংবিধানিক তল, নিরাপত্তা ও প্রক্রিয়া-চরিত্র বন্ধন](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints) (বাণিজ্য স্তূপে নিরঙ্কুশ তল হিসেবে এই নীতি আহ্বান করে); [অনুচ্ছেদ V: সমান মৌলিক অধিকার](../../core_06_rights_part_b.md#article-v-equal-basic-rights); [অনুচ্ছেদ XXIII-A](../../core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*নিষ্ঠুরতা-নিরোধ তল*); [corpus_systems CS-7](../../corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
+
+- [মর্যাদা ও সমান নৈতিক মর্যাদা](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
+- [নিষ্ঠুরতা](../../core_05_band_accountability.md#cruelty) · [O](../../core_05_band_accountability.md#cruelty) · [M](../../core_05_band_accountability.md#cruelty-a) · [A](../../core_05_band_accountability.md#cruelty-a) · [C](../../core_05_band_accountability.md#cruelty-c)
+- [ক্ষতি](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
+- [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [চ্যালেঞ্জ-যোগ্যতা](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+
+</details>
+
+<br>
+
+*সহজ ভাষায়: আপনি যেভাবেই শাসন, প্রয়োগ, বিচার, সীমাবদ্ধ, বা প্রতিকার করুন — সংজ্ঞ প্রাণীকে অপমান, সর্বজনীন দৃশ্যকাণ্ড, প্রতিশোধ, বা «কারণ আমাদের জন্য সহজ» নিষ্ঠুরতার মধ্য দিয়ে চালান না। ন্যায্য পরিণতি, সর্বজনীন জবাবদিহি ও মজবুত সীমাবদ্ধতা তবু বৈধ থাকতে পারে যখন তারা কাউকে কষ্ট দেয় বা লজ্জা দেয়। যে রেখা পেরোয় সেখানে প্রক্রিয়া নিজেই শাস্তি — রক্ষা, সংশোধন, পুনরুদ্ধার, বা প্রতিরোধের বদলে অবনত, লজ্জিত, বা আঘাত করতে নকশা করা। এটি সাংবিধানিক কর্তৃত্ব চলে এমন সব জায়গায় প্রযোজ্য, শুধু অধিকার বাণিজ্যের সময় নয়।*
+
+**অবনতি-নিরোধ প্রক্রিয়া নীতি।** সাংবিধানিক প্রক্রিয়া, মাপ ও ফলকে এই নীতি পূরণ করতে হয়।
+
+**নিষিদ্ধ।** তারা ন্যায্য, অন্তর্ভুক্ত, বা পূর্বানুমানযোগ্যভাবে তৈরি করতে পারে না:
+
+- অবনত আচরণ;
+- নিজের জন্য অপমান;
+- মূলত নিরুৎসাহে ব্যবহৃত দৃশ্যকাণ্ড;
+- প্রতিশোধমূলক অভিযোগ;
+- সমষ্টিগত প্রতিশোধ;
+- বৈষম্যমূলক ভার চাপানো; বা
+- অধিকার ওভাররাইড করা প্রক্রিয়াগত সুবিধা।
+
+যেখানে নিষিদ্ধ চরিত্র নিজেই উদ্দেশ্য হিসেবে কষ্ট, বা প্রয়োজনীয়তা ও আনুপাতিকতার বাইরে অনাবশ্যক বা অবনত আরোপ — নিজের জন্য অপমান সহ — অধ্যায় পাঁচ ঘর [নিষ্ঠুরতা](../../core_05_band_accountability.md#cruelty) (সেই এন্ট্রির অধীনে অপমান উপপ্রকার)।
+
+**শুধু কঠিন বলে নিষিদ্ধ নয়।** সাধারণ সর্বজনীন জবাবদিহি, কারণসহ প্রকাশনা, যাচাইকৃত সীমাবদ্ধতা, বা আনুপাতিক প্রতিকার বৈধ থাকে এমনকি যখন তা অপ্রীতিকর বা খ্যাতি-বিরুদ্ধ।
+
+**নকশা ও পরিচালনা।** প্রক্রিয়া অবনতি, অপমান, দৃশ্যকাণ্ড, প্রতিশোধ, বৈষম্যমূলক ভার চাপানো, বা সুবিধা-চালিত অধিকার ক্ষয় হিসেবে নকশা, ফ্রেম, পরিচালিত, বা চলতে দেওয়া চলে না।
+
+**পরিসর।** এই নীতি প্রতিটি সাংবিধানিক প্রক্রিয়ায় প্রযোজ্য, যার মধ্যে:
+
+- শাসন ও বাস্তবায়ন সিদ্ধান্ত;
+- প্রয়োগ ও প্রস্থিতি মূল্যায়ন;
+- মঞ্চ কার্যক্রম;
+- জরুরি ব্যবস্থা ও উত্তরণ পরিকল্পনা;
+- সংশোধন পদ্ধতি; এবং
+- সাংবিধানিক কর্তৃত্বের অধীনে সব প্রশাসনিক ও পরিচালন কার্যকলাপ।
+
+এটি [§6.1.4](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints)-এর অধীনে নিরঙ্কুশ তল হিসেবেও যে বাণিজ্য-স্তূপ প্রসঙ্গে কাজ করে তাতে সীমাবদ্ধ নয়।
+
+**ধরা ও চ্যালেঞ্জ।** প্রক্রিয়া চরিত্র সারবস্তুগত ফলের মতোই একই [চ্যালেঞ্জ-যোগ্যতা](../../core_05_band_accountability.md#contestability) ও [তত্ত্বাবধান](../../core_05_apex_oversight_leg.md#oversight-constitutional) প্রত্যাশার অধীন। প্রভাবিত পক্ষ সারবস্তুগত ফল অন্যথা বৈধ হত কি না তা নির্বিশেষে প্রক্রিয়া চরিত্র স্বাধীনভাবে চ্যালেঞ্জ করতে পারে। অবনত প্রক্রিয়া দিয়ে দেওয়া সঠিক ফলও অ-অনুপালন থাকে।
+
+<br>
+
+---
+
+<br>

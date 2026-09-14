@@ -779,3 +779,546 @@ Le détail opératoire vit en aval et ne peut pas resserrer ce plancher.
   - « on a toujours fait comme ça » (**précédent historique**)
   - les choix passés rendent le changement plus dur (**dépendance au sentier**)
 
+<a id="11-incentive-alignment-and-system-capture"></a>
+### 11. Alignement des incitations et capture du système
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Lire avec : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — foyer primaire du Chapitre un pour la discipline de **capture** de la tétrade (les incitations ne doivent pas vider la **participation**, la **supervision**, la **reddition de comptes**, ou l’**action en temps**) ; mise à l’échelle de l’[enjeu matériel](core_00_preamble.md#material-stake).
+- Lire avec : famille de mesure de Reddition de comptes (*Alignement des incitations et intégrité des substituts ; Structure de marché et contestabilité*).
+- Lire avec : [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) — fin **Continuité** (alignement durable contre l’optimisation à horizon court et la capture) ; fin **Épanouissement** (structures d’incitation qui préservent l’agence significative).
+- En amont : Principes : [2. Objectif fondationnel : bien-être](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§2.2 Reconnaissance, renforcement et aspiration](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration), [3.1 Sécurité](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Vérité](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Confiance](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 Administration responsable et compréhension distribuée](#9-stewardship-and-distributed-understanding), et [Chapitre sept §3 Évaluation de certification du système entier](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- En aval : [§5 Liberté](core_01_a_values_principles.md#5-freedom-bounded-agency) et [§7 Interdiction de dérogation absolue](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- En aval : [§6.3 Minimisation de la charge évitable](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) ; [Chapitre douze §5 — Rôles autorisés, développement de compétence et contribution](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution) ; **[corpus_systems.md](../../corpus_systems.md), CS-4 — Administration responsable des systèmes critiques**.
+- En aval : Cible la surface des droits pour l’agence, la participation, l’alignement des incitations, l’intégrité de la sphère informationnelle, la trajectoire, et l’examen anti-capture à travers [Chapitre six : Droits fondationnels](../../core_06_rights_part_a.md#chapter-six-foundational-rights) ; surtout [Article IX : Autodétermination et agence](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [Article XI : Participation systémique des parties affectées, représentation et procédure due](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [Article XII-D : Contrainte d’alignement des incitations](../../core_06_rights_part_c.md#article-xii-d-incentive-alignment-constraint), [Article XIV : Intégrité de la sphère informationnelle](../../core_06_rights_part_c.md#article-xiv-info-sphere-integrity), [Article XVIII : Trajectoire et statut de participation](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), et [Article XXII : Interprétation constitutionnelle, examen et garde-fous anti-capture](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
+- Porte d’administration responsable (non opératoire) : Énoncé de prochaine étape contraignant : [Énoncé opératoire d’administration responsable](#operative-steward-statement-incentive). Les pointeurs de soutien ne peuvent pas le resserrer.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Défaut de gouvernance à horizon court](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional) · [O](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional) · [M](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional-c)
+- [Défaut d’administration responsable](../../core_05_band_continuity.md#stewardship-defect-constitutional) · [O](../../core_05_band_continuity.md#stewardship-defect-constitutional) · [M](../../core_05_band_continuity.md#stewardship-defect-constitutional-a) · [A](../../core_05_band_continuity.md#stewardship-defect-constitutional-a) · [C](../../core_05_band_continuity.md#stewardship-defect-constitutional-c)
+- [Devoir d’examen et de correction](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
+- [Alignement des incitations](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment) · [A](../../core_05_band_integrative.md#incentive-alignment) · [C](../../core_05_band_integrative.md#incentive-alignment)
+- [Capacité productive](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [Efficacité constitutionnelle](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
+- [Charge évitable](../../core_05_band_continuity.md#avoidable-burden) · [O](../../core_05_band_continuity.md#avoidable-burden) · [M](../../core_05_band_continuity.md#avoidable-burden-a) · [A](../../core_05_band_continuity.md#avoidable-burden-a) · [C](../../core_05_band_continuity.md#avoidable-burden-c)
+- [Divergence d’indicateurs substituts](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [Sécurité (contrainte)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
+- [Vérité (contrainte constitutionnelle)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Agence significative](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+- [Auditabilité](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [Capture du système](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [Anti-capture](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Énoncé opératoire d’administration responsable</span></strong></summary>
+
+<a id="operative-steward-statement-incentive"></a>
+> **Énoncé opératoire d’administration responsable.** **Titulaire :** Chapitre un §11. Foyer des tests échoués : §9.1.2. Définition : Alignement des incitations. **Mouvement interdit :** Ne pas livrer en supprimant une divulgation matérielle. Ne pas traiter la prime comme une défense valable de conformité. **Horloge :** Refuser le substitut. Corriger l’incitation. Faire passer l’écran partagé de refus et de journalisation.
+
+</details>
+
+<br>
+
+*En termes simples : une gouvernance qui continue d’atteindre des cibles trimestrielles tout en vidant la sécurité, la vérité, la participation, ou l’avenir n’est pas une « gouvernance qui fonctionne » — c’est un défaut que cette Constitution nomme et corrige par la discipline d’incitation et de capture ci-dessous. Les incitations agissant sur les opérateurs, les agents et les composantes de système — y compris rémunération, promotion, participation au capital, et voies de récompense comparables — doivent tirer vers des résultats constitutionnels. Elles ne peuvent pas récompenser en silence un comportement qui mine la Sécurité, la Vérité, les droits, la stabilité, ou l’agence significative, que ce soit directement, par le retard, par l’agrégation, ou par des arrangements qui dépendent matériellement d’une mauvaise conduite ou de sa dissimulation.*
+
+Les systèmes doivent détecter, divulguer et corriger les **défauts de gouvernance à horizon court** ([Défaut de gouvernance à horizon court](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional)) par le [Devoir d’examen et de correction](../../core_05_band_continuity.md#review-and-correction-duty-constitutional), une supervision contestable, et les règles d’alignement, de détection du désalignement, de correction du désalignement, de réponse à la capture, et de responsabilité du successeur dans le [§11.1 Exigence d’alignement](#111-alignment-requirement) jusqu’au [§11.6 Responsabilité du successeur et non-échappatoire par structure formelle](#116-successor-responsibility-and-formal-structure-non-escape) et le [§13.1 Mécanisme de seuil de concentration de marché](#131-market-concentration-threshold-mechanism-adopter-tunable) jusqu’au [§13.3 Plafond de consolidation](#133-consolidation-ceiling).
+
+**Les systèmes doivent :**
+
+- aligner les structures d’incitation agissant sur les agents, opérateurs ou composantes constitutives avec les valeurs et contraintes définies dans cette Constitution ;
+- assurer que ces structures ne minent pas systématiquement ces valeurs et contraintes ; et
+- assurer que ces structures ne capturent, ne vident, ni ne désalignent la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) au-dessous de ce que l’[enjeu matériel](core_00_preamble.md#material-stake) exige.
+
+Le [§11.5 Créances conditionnelles, jeux de hasard et marchés de contrats d’événement](#115-contingent-claims-games-of-chance-and-event-contract-markets) énonce une **application spéciale** de la même norme générale. Le [§11.1.3 Application à l’administration responsable et aux opérateurs](#1113-stewardship-and-operator-application) énonce le vocabulaire d’administration responsable et d’opérateur et les règles de voies de rôle ; ni l’un ni l’autre ne crée une règle d’incitation plus faible que le [§11.1 Exigence d’alignement](#111-alignment-requirement).
+
+<a id="111-alignment-requirement"></a>
+#### 11.1 Exigence d’alignement
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Alignement des incitations](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment-a) · [A](../../core_05_band_integrative.md#incentive-alignment-a) · [C](../../core_05_band_integrative.md#incentive-alignment-c)
+- [Capacité productive](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [Efficacité constitutionnelle](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
+- [Charge évitable](../../core_05_band_continuity.md#avoidable-burden) · [O](../../core_05_band_continuity.md#avoidable-burden) · [M](../../core_05_band_continuity.md#avoidable-burden-a) · [A](../../core_05_band_continuity.md#avoidable-burden-a) · [C](../../core_05_band_continuity.md#avoidable-burden-c)
+- [Divergence d’indicateurs substituts](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [Sécurité (contrainte)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
+- [Vérité (contrainte constitutionnelle)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Agence significative](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+- [Auditabilité](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [Capture du système](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [Anti-capture](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+- [Bien-être](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
+- [Participation](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+
+</details>
+
+<br>
+
+Les structures d’incitation agissant sur les agents, opérateurs ou composantes constitutives doivent s’aligner avec les valeurs et contraintes définies dans cette Constitution.
+
+<a id="1111-what-incentives-must-do"></a>
+##### 11.1.1 Ce que les incitations doivent faire
+
+Les incitations doivent favoriser des résultats constitutionnels mesurables, chacun cohérent avec ce chapitre, le Plancher des droits du **Chapitre six**, et les exigences de traçabilité des résultats du **Chapitre cinq**, y compris :
+
+- la sécurité ;
+- la Vérité ;
+- l’auditabilité ;
+- la remédiation en temps ;
+- l’[Anti-capture](../../core_05_band_continuity.md#anti-capture) ; et
+- la préservation ou l’expansion durable de la [Capacité productive](../../core_05_band_continuity.md#productive-capacity-constitutional).
+
+<a id="1112-what-incentives-must-not-do"></a>
+##### 11.1.2 Ce que les incitations ne doivent pas faire
+
+Les incitations ne doivent pas récompenser, protéger, normaliser, ou rendre matériellement avantageux :
+
+- un comportement qui dégrade la sécurité, la vérité, la stabilité systémique, ou l’[Agence significative](../../core_05_band_participation.md#meaningful-agency), que ce soit directement ou par des effets indirects, retardés ou agrégés ;
+- la création ou le maintien d’une [Charge évitable](../../core_05_band_continuity.md#avoidable-burden), de travail de façade, d’une conformité symbolique, ou de métriques qui ne prouvent plus des résultats constitutionnels ;
+- la mauvaise conduite et l’évitement de la reddition de comptes :
+  - conduite anticonstitutionnelle ;
+  - conduite de commandement illicite ou anticonstitutionnelle ;
+  - dissimulation ;
+  - représailles ;
+  - [obstruction de la reddition de comptes](../../core_08_standing_assessment.md#232-violation-event-types) (type d’événement du modèle de trajectoire et routage de désignation du [Chapitre dix §5.11](../../core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) — pas une exception de récompense autonome) ; ou
+  - refus de remédier à un préjudice constitutionnel vérifié ; ou
+- des voies de récompense qui dépendent matériellement d’une mauvaise conduite ou de sa dissimulation, y compris :
+  - rémunération, prime, participation au capital, nomination, promotion, ou titularisation ;
+  - marchés publics, accès, habilitation, trajectoire, ou réputation ;
+  - règlement, indemnité, assurance, ou immunité ; ou
+  - arrangements comparables.
+
+**Conséquences des récompenses désalignées.** Les récompenses matérielles obtenues par les voies interdites ci-dessus sont soumises à confiscation et signalement sous le modèle de trajectoire. Lire [Chapitre neuf §5.4 Devoir de signalement et exclusions](../../core_09_standing_integration.md#54-special-violation-rules), [§5.4 Confiscation et rétention](../../core_09_standing_integration.md#54-special-violation-rules), et [§5.4 Correction, registres et routage](../../core_09_standing_integration.md#54-special-violation-rules).
+
+<a id="1113-stewardship-and-operator-application"></a>
+##### 11.1.3 Application à l’administration responsable et aux opérateurs
+
+Pour les administrateurs responsables et les opérateurs sous les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) et la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad), mises à l’échelle de l’[enjeu matériel](core_00_preamble.md#material-stake) :
+
+- **Suivi légitime :** la [Capacité productive](../../core_05_band_continuity.md#productive-capacity-constitutional) et l’[Efficacité constitutionnelle](../../core_05_band_continuity.md#constitutional-efficiency) nomment ce que les récompenses peuvent légitimement suivre — une capacité réelle et durable et une amélioration du résultat par ressource.
+- **Gardes :** la [Charge évitable](../../core_05_band_continuity.md#avoidable-burden) et la [Divergence d’indicateurs substituts](../../core_05_band_oversight.md#proxy-divergence) gardent contre de récompenser le travail de façade, des cibles creuses, ou des métriques qui ne prouvent plus des résultats.
+- **Plancher :** l’[Auditabilité](../../core_05_band_oversight.md#auditability), la [Sécurité (contrainte)](../../core_05_band_continuity.md#safety-constraint), et la [Vérité (contrainte constitutionnelle)](../../core_05_band_oversight.md#truth-constitutional-constraint) restent contraignantes même lorsque la capacité ou l’efficacité paraît meilleure sans elles, et elles n’autorisent pas la [Capture du système](../../core_05_band_continuity.md#system-capture). Une récompense qui dépend d’un travail caché, d’un raccourci non sûr, d’un registre non véridique, ou d’une gouvernance capturée est au-dessous de ce plancher.
+
+<a id="1114-role-depth-and-material-responsibility-pathways"></a>
+##### 11.1.4 Voies de profondeur de rôle et de responsabilité matérielle
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Lire avec : [§11.1.5 Discipline des revendications de résultats constitutionnels](#1115-constitutional-outcome-claims-discipline) (*les revendications de résultats ne peuvent pas reposer sur une participation symbolique*).
+
+</details>
+
+<br>
+
+*En termes simples : les personnes qui font fonctionner des systèmes partagés ont besoin de vrais emplois avec une vraie compétence et une vraie voix — pas des titres, des boîtes à suggestions, ou des comités qui ne peuvent rien changer. Comment ces emplois sont définis, qui peut y grandir, et comment ils sont tenus de rendre des comptes est énoncé plus loin. Cette sous-section dit seulement ce que ces voies doivent faire : elles doivent rendre la participation réelle, et plus il y a réellement en jeu, plus elles doivent être réelles.*
+
+**Où vit le détail :**
+
+- [Chapitre douze §5 — Rôles autorisés, développement de compétence et contribution](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution) pour les rôles autorisés, la compétence, et les voies vers un travail qui compte réellement pour les administrateurs responsables et les opérateurs ;
+- [**CS-4**](../../corpus_systems/cs_04_critical_system_stewardship.md) (*Administration responsable des systèmes critiques*) pour comment ce devoir est porté dans les systèmes à fort impact ; et
+- [§9 Administration responsable et compréhension distribuée](#9-stewardship-and-distributed-understanding) pour le tableau de couche de principe du travail les mains dans le réel et de la compétence communautaire.
+
+Ces voies :
+
+- **Doivent :** soutenir l’[Agence significative](../../core_05_band_participation.md#meaningful-agency) — les êtres sentients affectés peuvent réellement agir, non seulement être consultés — et avancer les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) par les jambes **participation** et **reddition de comptes** de la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) (vraie voix, et vrai devoir de répondre), mises à l’échelle de l’[enjeu matériel](core_00_preamble.md#material-stake).
+- **Ne doivent pas :** traiter une participation **symbolique** — un titre, une boîte à suggestions, ou un siège consultatif sans effet — comme un **substitut** d’un devoir **à conséquence** lorsque l’impact exige ce dernier.
+
+<a id="1115-constitutional-outcome-claims-discipline"></a>
+##### 11.1.5 Discipline des revendications de résultats constitutionnels
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Lire avec : [§11.1.4 Voies de profondeur de rôle et de responsabilité matérielle](#1114-role-depth-and-material-responsibility-pathways) (*la participation symbolique n’est pas un substitut d’un devoir à conséquence*).
+
+</details>
+
+<br>
+
+Les revendications qu’un système, une politique, ou une mesure avance les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims), le [Bien-être](../../core_05_band_continuity.md#wellbeing), la [Capacité productive](../../core_05_band_continuity.md#productive-capacity-constitutional), l’[Efficacité constitutionnelle](../../core_05_band_continuity.md#constitutional-efficiency), la [Participation](../../core_05_apex_participation_leg.md#participation-constitutional), ou des résultats constitutionnels comparables **ne doivent pas** reposer sur :
+
+- un préjudice prévisible ou une tromperie interdits sous [Sécurité (contrainte)](../../core_05_band_continuity.md#safety-constraint) et [Vérité (contrainte constitutionnelle)](../../core_05_band_oversight.md#truth-constitutional-constraint) ;
+- une [Capture du système](../../core_05_band_continuity.md#system-capture) ou des arrangements de gouvernance qui vident la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) au-dessous de l’[enjeu matériel](core_00_preamble.md#material-stake) ; ou
+- une [Divergence d’indicateurs substituts](../../core_05_band_oversight.md#proxy-divergence) — débit substitut, métriques d’engagement, auto-rapport institutionnel, ou conformité symbolique tenant lieu de résultats constitutionnels traçables sous le **Chapitre quatre**.
+
+Les outils de score et les sièges qui ressemblent à de la participation doivent encore satisfaire ces limites :
+
+- **Mesures instrumentales :** les ratios d’efficacité et la discipline de [Structure de marché](../../core_05_band_accountability.md#market-structure-constitutional) sont des outils pour scorer un système, non les résultats eux-mêmes. Ils **doivent rester** traçables jusqu’aux résultats qu’ils instrumentent — vous devez pouvoir voir quel vrai résultat le nombre représente — et ils **ne doivent pas** déplacer le Plancher des droits du **Chapitre six** (les droits de base au-dessous desquels aucun être sentient ne peut être poussé) ni des protections plus fortes de la partie qui adopte lorsque celles-ci s’appliquent déjà.
+- **Participation symbolique :** un titre, une boîte à suggestions, ou un siège consultatif sans effet — consultation nominale, théâtre consultatif, ou influence sans effet à conséquence — **ne doit pas** se substituer à la participation que l’[enjeu matériel](core_00_preamble.md#material-stake) exige.
+
+<a id="112-convenient-proxies-and-proxy-divergence"></a>
+#### 11.2 Substituts commodes et divergence d’indicateurs substituts
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Divergence d’indicateurs substituts](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [Capacité productive](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [Efficacité constitutionnelle](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
+
+</details>
+
+<br>
+
+Les voies de récompense ne doivent pas favoriser les cibles listées lorsque ces cibles collisionnent de façon prévisible avec :
+
+- ce chapitre ;
+- le Plancher des droits du **Chapitre six** ; ou
+- les résultats sous-jacents auxquels la [Capacité productive](../../core_05_band_continuity.md#productive-capacity-constitutional) et l’[Efficacité constitutionnelle](../../core_05_band_continuity.md#constitutional-efficiency) doivent rester traçables sous le **Chapitre cinq**.
+
+**Cibles qui ne doivent pas être favorisées :**
+
+- le débit brut ;
+- l’utilisation ;
+- les cibles d’effectifs ;
+- les cibles financières étroites ;
+- la latence ;
+- l’activité procédurale ; ou
+- d’autres substituts commodes.
+
+La [Divergence d’indicateurs substituts](../../core_05_band_oversight.md#proxy-divergence) doit être détectée, divulguée et corrigée lorsque les structures de récompense s’appuient sur des substituts, des tableaux de bord, des cibles de performance, ou des indicateurs formels de conformité qui divergent des résultats matériellement pertinents.
+
+<a id="113-misalignment-detection"></a>
+#### 11.3 Détection du désalignement
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Sous-sections (ordre de lecture) : [§11.3.1 Déclencheurs d’escalade](#1131-escalation-triggers).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Auditabilité](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [Contestabilité](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Capture du système](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [Anti-capture](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+- [Alignement des incitations](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment-a) · [A](../../core_05_band_integrative.md#incentive-alignment-a) · [C](../../core_05_band_integrative.md#incentive-alignment-c)
+- [Devoir d’examen et de correction](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
+
+</details>
+
+<br>
+
+*En termes simples : personne n’a le droit d’être le seul être sentient qui peut repérer, vérifier, ou contester lorsque la gouvernance va mal. La détection a besoin de plusieurs voies indépendantes, de données et d’audit ouverts lorsque les règles de sécurité et de classification le permettent, et d’une escalade claire lorsque la capture ou le désalignement apparaît — non une absorption silencieuse comme affaire courante. Cette règle d’escalade est le [§11.3.1 Déclencheurs d’escalade](#1131-escalation-triggers).*
+
+**Détection et examen pluriels :**
+
+- **Qui ne peut pas les monopoliser :** aucun acteur, forum, institution, opérateur, auditeur, médiateur d’information, autorité de nomination, ou bloc de parties affectées unique.
+- **Ce qu’ils ne peuvent pas monopoliser :** l’aptitude pratique de détecter, examiner, corriger, ou interpréter une défaillance constitutionnelle matérielle.
+- **Ce qui doit rester disponible :** des voies de supervision plurielles et structurellement indépendantes lorsque l’[enjeu matériel](core_00_preamble.md#material-stake) les exige.
+- **Limites :** les limites licites de sécurité et de confidentialité s’appliquent encore ; elles doivent préserver l’[Auditabilité](../../core_05_band_oversight.md#auditability) et la [Contestabilité](../../core_05_band_accountability.md#contestability) maximales faisables.
+- **Règle appariée :** c’est la moitié à plusieurs regards d’une paire avec le [§10.2 Séparation des fonctions](#102-segregation-of-duties) : la pluralité empêche que la supervision soit acculée par un seul acteur ; la séparation empêche qu’elle soit menée par l’acteur sous examen.
+
+**Systèmes, données et audit ouverts :**
+
+- **Lorsque cela s’applique :** lorsque l’[enjeu matériel](core_00_preamble.md#material-stake) et les règles applicables de type d’information le permettent.
+- **Ce qui doit rester disponible :** des données pertinentes pour la gouvernance, des voies d’audit, et des outils d’examen pour les êtres sentients matériellement affectés — non verrouillés à l’intérieur d’un seul opérateur, fournisseur, ou bloc de supervision.
+- **Ce que ce défaut favorise :** des processus inspectables, des registres contestables, et une vérification indépendante, cohérents avec le [§9.4 Aspiration à l’ouverture](#94-openness-aspiration).
+- **Sous réserve de :** [§6.2 Contraintes de divulgation épistémique](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) et **[corpus_systems.md](../../corpus_systems.md), CS-2 — Types d’information et traitement** (y compris le Type N et d’autres limites de classification qui gouvernent ce qui peut être collecté, publié, retenu, ou reconstruit).
+
+<a id="1131-escalation-triggers"></a>
+##### 11.3.1 Déclencheurs d’escalade
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Lire avec : [§11.3 Détection du désalignement](#113-misalignment-detection) (*détection plurielle et audit ouvert — parent*).
+- Lire avec : [Alignement des incitations](../../core_05_band_integrative.md#incentive-alignment) (*les devoirs de capture du Chapitre cinq dans cette sous-section ne sont pas un substitut de la discipline d’alignement des incitations*).
+- Lire avec : [§11.4 Correction du désalignement et réponse à la capture](#114-misalignment-correction-and-capture-response) (*foyer de correction ; cette sous-section est détecter, divulguer, et traiter comme déclencheur*).
+
+</details>
+
+<br>
+
+*En termes simples : repérer la capture n’est pas la traiter comme des opérations ordinaires. Une fois qu’elle apparaît, c’est un déclencheur d’escalade — prouvez-la sous les Chapitres deux à cinq, et si le système ne peut pas la réparer en place, envoyez-la aux foyers de correction et de trajectoire nommés ci-dessous.*
+
+Les systèmes doivent détecter, divulguer et atténuer les conditions de [Capture du système](../../core_05_band_continuity.md#system-capture) matériellement pertinentes.
+
+De telles conditions sont des **déclencheurs d’escalade**, non des états d’exploitation ordinaires. Elles doivent être traitées sous la discipline interprétative et probatoire des **Chapitres deux à cinq** comme suit :
+
+- **Chapitre deux** — appliquer conjointement les composantes O/M/A/C pertinentes à la même portée de système fonctionnel ; une satisfaction partielle ou sélective ne compte pas.
+- **Chapitre trois** — appliquer la discipline d’intégrité des définitions et d’anti-évasion ; la segmentation, la décentralisation nominale, le masquage procédural, ou le relabelage définitoire ne battent pas l’analyse de capture.
+- **Chapitre quatre** — la partie qui affirme l’absence de capture porte la charge de la preuve ; la conformité exige une preuve traçable, indépendamment vérifiable, mise à l’échelle de l’[enjeu matériel](core_00_preamble.md#material-stake), non une assertion, une réputation, ou une structure formelle seules.
+- **Chapitre cinq** — satisfaire les devoirs de détection, de divulgation et d’atténuation de [Capture du système](../../core_05_band_continuity.md#system-capture) et les devoirs de prévention d’[Anti-capture](../../core_05_band_continuity.md#anti-capture), et restaurer une supervision et une reddition de comptes contestables au niveau que l’[enjeu matériel](core_00_preamble.md#material-stake) exige.
+
+**Escalade ultérieure :** lorsque l’atténuation dans le système est infaisable, ou lorsque la capture persiste après une correction proportionnée, l’escalade doit aussi router par :
+
+- **Devoir d’examen et de correction :** [Devoir d’examen et de correction](../../core_05_band_continuity.md#review-and-correction-duty-constitutional).
+- **Examen accru :** [§13.1 Mécanisme de seuil de concentration de marché](#131-market-concentration-threshold-mechanism-adopter-tunable) et [§13.2 Pro-concurrence et anti-domination](#132-pro-competition-and-anti-domination), lorsque la concentration ou la domination est matérielle.
+- **Mécanique de trajectoire et d’infraction :** [Chapitre huit — Modèle de contribution, d’infraction et de trajectoire](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model), lorsque des constatations vérifiées sont en jeu.
+- **Mauvaise conduite anticonstitutionnelle :** [Chapitre dix §5.1 Subversion fondée sur la concentration : interaction des critères](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), lorsque la concentration ou la capture de processus constitue une mauvaise conduite anticonstitutionnelle.
+
+<a id="114-misalignment-correction-and-capture-response"></a>
+#### 11.4 Correction du désalignement et réponse à la capture
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Lire avec : [§11.3 Détection du désalignement](#113-misalignment-detection) (*voies de détection plurielles et défauts d’audit ouvert*).
+- Lire avec : [§11.3.1 Déclencheurs d’escalade](#1131-escalation-triggers) (*discipline d’escalade*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Capture du système](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [Anti-capture](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+- [Contestabilité](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Supervision](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Reddition de comptes](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [Devoir d’examen et de correction](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
+
+</details>
+
+<br>
+
+*En termes simples : une fois que le désalignement ou la capture est détecté, les systèmes doivent réellement le réparer — modifier les mauvaises incitations, contraindre le contrôle concentré, et restaurer l’alignement. Un contrôle concentré ou caché qui bat la contestation, la supervision, la reddition de comptes, ou une **Continuité** durable doit être divulgué, atténué, et escaladé — non absorbé comme opération ordinaire.*
+
+Lorsque un désalignement constitutionnel est identifié, les systèmes doivent modifier, contraindre, ou déroger à de telles incitations pour restaurer l’alignement et préserver la [**Continuité**](core_00_preamble.md#continuity) sous les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims).
+
+Les structures de contrôle concentrées ou obscurcies qui minent matériellement l’un des suivants sont une [**capture du système**](../../core_05_band_continuity.md#system-capture) au sens du **Chapitre cinq** et sont incompatibles avec ce chapitre :
+
+- [Contestabilité](../../core_05_band_accountability.md#contestability) ;
+- [Supervision](../../core_05_apex_oversight_leg.md#oversight-constitutional) ; ou
+- [Reddition de comptes](../../core_05_apex_accountability_leg.md#accountability).
+
+**Formes qui comptent :**
+
+- un contrôle durable des interfaces critiques — un contrôle durable des portes que d’autres doivent passer ;
+- des barrières de bascule à dépendance asymétrique — une dépendance unilatérale qui rend le départ ou le changement coûteux ou impraticable ;
+- des voies opaques de contrôle bénéficiaire — des routes cachées par lesquelles les personnes qui possèdent, dirigent, ou profitent réellement tiennent ou exercent ce contrôle ; et
+- une influence cachée ou indirectement routée sur la gouvernance, l’adjudication, ou l’allocation des ressources.
+
+**Correction des récompenses désalignées :**
+
+- **Lorsque :** le désalignement est vérifié.
+- **Ne doit pas :** traiter les récompenses matérielles issues de voies désalignées ou corrompues comme un crédit de trajectoire silencieusement gardable ou un bénéfice protégé.
+- **Foyer de correction :** [Chapitre neuf §5.4 Règles spéciales d’infraction](../../core_09_standing_integration.md#54-special-violation-rules) gouverne :
+  - la confiscation ;
+  - la récupération proportionnée ;
+  - le signalement d’acceptation en connaissance de cause ; et
+  - la correction.
+- **Mesure de trajectoire :** ce chapitre ne décide pas combien la contribution ou l’infraction vérifiée était bonne ou mauvaise. Ce classement est [Chapitre huit §4 Question 2 — combien était-ce bon ou mauvais ?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it), utilisant [Chapitre huit §4.1 Dimensions d’apport de magnitude de contribution](../../core_08_standing_assessment.md#41-contribution-magnitude-input-dimensions) et [§4.2 Dimensions d’apport de gravité d’infraction](../../core_08_standing_assessment.md#42-violation-severity-input-dimensions).
+
+<a id="115-contingent-claims-games-of-chance-and-event-contract-markets"></a>
+#### 11.5 Créances conditionnelles, jeux de hasard et marchés de contrats d’événement
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- En amont : [§11 Alignement des incitations et capture du système](#11-incentive-alignment-and-system-capture) (y compris [§11.1 Exigence d’alignement](#111-alignment-requirement)) ; [Chapitre cinq *Créance conditionnelle, marché de contrats d’événement, jeu de hasard, et avantage d’initié*](../../core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
+- En aval : [§11.3 Détection du désalignement](#113-misalignment-detection) ; [§11.3.1 Déclencheurs d’escalade](#1131-escalation-triggers) ; [§11.4 Correction du désalignement et réponse à la capture](#114-misalignment-correction-and-capture-response) ; [§6.2 Contraintes de divulgation épistémique](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) ; [Chapitre sept §3 Évaluation de certification du système entier](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ; classification et mise à l’échelle d’administration responsable de `corpus_systems.md` ; attentes de conflit et d’intégrité de `corpus_institutions.md`.
+- Lire avec : [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) — fin **Continuité** (voies de résolution durables et contestables et stabilité systémique lorsque le règlement conditionnel est matériellement impactant).
+- Lire avec : [Capture des voies de résolution](../../core_05_band_accountability.md#capture-of-resolution-pathways), [Contrainte et manipulation](../../core_05_band_participation.md#coercion-and-manipulation-constitutional), et [Contestabilité](../../core_05_band_accountability.md#contestability) ; [Avantage d’initié](../../core_05_band_accountability.md#insider-advantage).
+- Sous-sections (ordre de lecture) : [§11.5.1 Ce qui ne peut pas être récompensé](#1151-what-may-not-be-rewarded) · [§11.5.2 Qui décide des résultats](#1152-who-decides-outcomes) · [§11.5.3 Les signaux de marché ne sont pas une preuve constitutionnelle](#1153-market-signals-are-not-constitutional-proof) · [§11.5.4 Contrôles proportionnés et garde de mise en œuvre](#1154-proportionate-controls-and-implementation-custody).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Capture des voies de résolution](../../core_05_band_accountability.md#capture-of-resolution-pathways) · [O](../../core_05_band_accountability.md#capture-of-resolution-pathways) · [M](../../core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](../../core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](../../core_05_band_accountability.md#capture-of-resolution-pathways-c)
+- [Contrainte et manipulation](../../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](../../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [Contestabilité](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Créance conditionnelle](../../core_05_band_accountability.md#contingent-claim) · [O](../../core_05_band_accountability.md#contingent-claim) · [M](../../core_05_band_accountability.md#contingent-claim-a) · [A](../../core_05_band_accountability.md#contingent-claim-a) · [C](../../core_05_band_accountability.md#contingent-claim-c)
+- [Dépendance](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [Marché de contrats d’événement](../../core_05_band_accountability.md#event-contract-market) · [O](../../core_05_band_accountability.md#event-contract-market) · [M](../../core_05_band_accountability.md#event-contract-market-a) · [A](../../core_05_band_accountability.md#event-contract-market-a) · [C](../../core_05_band_accountability.md#event-contract-market-c)
+- [Jeu de hasard](../../core_05_band_accountability.md#game-of-chance) · [O](../../core_05_band_accountability.md#game-of-chance) · [M](../../core_05_band_accountability.md#game-of-chance-a) · [A](../../core_05_band_accountability.md#game-of-chance-a) · [C](../../core_05_band_accountability.md#game-of-chance-c)
+- [Alignement des incitations](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment) · [A](../../core_05_band_integrative.md#incentive-alignment) · [C](../../core_05_band_integrative.md#incentive-alignment)
+- [Avantage d’initié](../../core_05_band_accountability.md#insider-advantage) · [O](../../core_05_band_accountability.md#insider-advantage) · [M](../../core_05_band_accountability.md#insider-advantage-a) · [A](../../core_05_band_accountability.md#insider-advantage-a) · [C](../../core_05_band_accountability.md#insider-advantage-c)
+- [Nécessité](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [Proportionnalité](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [Vérité (contrainte constitutionnelle)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
+
+</details>
+
+<br>
+
+*En termes simples : les pools de paris, les casinos, les marchés de prédiction, et des systèmes de paiement similaires ne peuvent pas être construits pour profiter d’un préjudice illicite, d’une contrainte, d’une corruption, ou de la capture de quiconque décide du résultat. À l’échelle, ce genre de distorsion mine la **Continuité** — une confiance durable dans la façon dont les résultats importants se résolvent. Les cotes et les prix sont des signaux de marché — pas une preuve de ce qui est vrai, de ce que les droits exigent, ou de ce qui compte comme conformité. Ce que ces systèmes ne peuvent pas récompenser est [§11.5.1 Ce qui ne peut pas être récompensé](#1151-what-may-not-be-rewarded). Qui décide des résultats est [§11.5.2 Qui décide des résultats](#1152-who-decides-outcomes). Quels signaux comptent est [§11.5.3 Les signaux de marché ne sont pas une preuve constitutionnelle](#1153-market-signals-are-not-constitutional-proof). Où vivent les règles détaillées est [§11.5.4 Contrôles proportionnés et garde de mise en œuvre](#1154-proportionate-controls-and-implementation-custody).*
+
+**Systèmes de règlement conditionnel :**
+
+- **Lorsque ils s’appliquent :** l’[Alignement des incitations](../../core_05_band_integrative.md#incentive-alignment) du [§11 Alignement des incitations et capture du système](#11-incentive-alignment-and-system-capture) s’applique partout où de la valeur est miseé ou payée sur des résultats futurs incertains. Dans la portée sont les systèmes — quelle que soit leur forme technique — qui :
+  - apparient des contreparties ;
+  - mettent en commun des mises ;
+  - règlent des paiements conditionnels ; ou
+  - concentrent le potentiel de gain financier sur ces résultats.
+- **Continuité :** cohérent avec la fin **Continuité** sous les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) lorsque l’intégrité de la résolution et la stabilité systémique sont matériellement en jeu.
+- **Formes principales au Chapitre cinq :**
+  - [Créance conditionnelle](../../core_05_band_accountability.md#contingent-claim) ;
+  - [Jeu de hasard](../../core_05_band_accountability.md#game-of-chance) ; et
+  - [Marché de contrats d’événement](../../core_05_band_accountability.md#event-contract-market).
+- **Surcouche d’intégrité :** [Avantage d’initié](../../core_05_band_accountability.md#insider-advantage).
+- **Groupe de sujet :** ils vivent dans [*Créance conditionnelle, marché de contrats d’événement, jeu de hasard, et avantage d’initié*](../../core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
+- **Relation à ce chapitre :** cette sous-section est une **application spéciale** des règles générales d’alignement et de correction du [§11.1 Exigence d’alignement](#111-alignment-requirement), du [§11.2 Substituts commodes et divergence d’indicateurs substituts](#112-convenient-proxies-and-proxy-divergence), du [§11.3 Détection du désalignement](#113-misalignment-detection), et du [§11.4 Correction du désalignement et réponse à la capture](#114-misalignment-correction-and-capture-response). Elle ne les replace pas.
+
+<a id="1151-what-may-not-be-rewarded"></a>
+##### 11.5.1 Ce qui ne peut pas être récompensé
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Lire avec : [§11.1 Exigence d’alignement](#111-alignment-requirement), [§11.2 Substituts commodes et divergence d’indicateurs substituts](#112-convenient-proxies-and-proxy-divergence), [§11.3 Détection du désalignement](#113-misalignment-detection), et [§11.4 Correction du désalignement et réponse à la capture](#114-misalignment-correction-and-capture-response) (*cette sous-section applique ces règles ; elle ne les replace pas*).
+- Lire avec : [Capture des voies de résolution](../../core_05_band_accountability.md#capture-of-resolution-pathways) ; [Avantage d’initié](../../core_05_band_accountability.md#insider-advantage).
+
+</details>
+
+<br>
+
+*En termes simples : ces systèmes ne peuvent pas être construits de sorte que le paiement, la prime, ou le modèle d’affaires s’améliore lorsque quelqu’un est lésé, contraint, ou corrompu — ou lorsque quiconque décide du résultat est capturé.*
+
+Les structures d’incitation pour de tels systèmes ne doivent pas :
+
+- récompenser ou normaliser un préjudice illicite ;
+- récompenser la contrainte de décisions protégées sous cette Constitution ;
+- récompenser l’usage corrompu d’une fonction ou d’un pouvoir non public pour influencer des résultats ou une résolution, y compris par des intermédiaires ou des contrats déguisés ; ou
+- inviter structurellement une distorsion matérielle de décisions fiduciaires, publiques, ou pertinentes pour les droits par une pression cadencée, une divulgation sélective, une [Capture des voies de résolution](../../core_05_band_accountability.md#capture-of-resolution-pathways), ou un [Avantage d’initié](../../core_05_band_accountability.md#insider-advantage), sans atténuation proportionnée.
+
+<a id="1152-who-decides-outcomes"></a>
+##### 11.5.2 Qui décide des résultats
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Lire avec : [Contestabilité](../../core_05_band_accountability.md#contestability).
+
+</details>
+
+<br>
+
+*En termes simples : quiconque décide si le pari a été payé ne peut pas être capturé.*
+
+- **Ce qu’ils sont :** les **sources de résolution des résultats** sont les acteurs, processus, flux de données, ou autorités qui déterminent si et comment les créances conditionnelles se règlent.
+- **Exemples :**
+  - des résultats officiels ;
+  - des mesures certifiées ;
+  - des comités désignés ; et
+  - des flux documentés de tiers.
+- **Ce qui doit tenir :** l’autorisation, la conception et l’exploitation doivent garder ces sources :
+  - indépendantes ;
+  - contestables ; et
+  - résistantes à la capture lorsque c’est matériellement pertinent.
+
+<a id="1153-market-signals-are-not-constitutional-proof"></a>
+##### 11.5.3 Les signaux de marché ne sont pas une preuve constitutionnelle
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Lire avec : [Vérité (contrainte constitutionnelle)](../../core_05_band_oversight.md#truth-constitutional-constraint) ; [Contestabilité](../../core_05_band_accountability.md#contestability).
+
+</details>
+
+<br>
+
+*En termes simples : les cotes et les prix ne sont pas une preuve de ce qui est vrai ou de ce que cette Constitution exige.*
+
+- **Ce qui ne compte pas comme preuve :** les prix, les cotes, les tailles de pools, et des signaux agrégés analogues de ces systèmes ne sont pas, sans plus, une preuve suffisante pour décider :
+  - la [Vérité (contrainte constitutionnelle)](../../core_05_band_oversight.md#truth-constitutional-constraint) ;
+  - une probabilité objective ; ou
+  - la conformité pour des déterminations de droits, de sécurité, ou de gouvernance.
+- **Si des instruments d’adoption les référencent :** ces usages doivent satisfaire les mêmes attentes de Vérité, de [Contestabilité](../../core_05_band_accountability.md#contestability), et de preuve qui s’appliquent à des décisions comparables à fort impact ailleurs dans cette Constitution.
+
+<a id="1154-proportionate-controls-and-implementation-custody"></a>
+##### 11.5.4 Contrôles proportionnés et garde de mise en œuvre
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Lire avec : [Nécessité](../../core_05_band_accountability.md#necessity) ; [Proportionnalité](../../core_05_band_accountability.md#proportionality) ; [Dépendance](../../core_05_band_continuity.md#dependency).
+- En aval : [Chapitre sept §3 Évaluation de certification du système entier](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ; [corpus_systems.md](../../corpus_systems.md) (*classer et mettre à l’échelle l’administration responsable des systèmes matériellement impactants*) ; [corpus_institutions.md](../../corpus_institutions.md) (*règles de conflit et de procédure lorsque des institutions supervisent une telle activité*).
+
+</details>
+
+<br>
+
+*En termes simples : combien étroitement vous faites fonctionner ces systèmes doit correspondre à combien est réellement en jeu. Ce chapitre n’écrit pas le code des jeux de hasard — le droit d’adoption et les compagnons de systèmes et d’institutions le font.*
+
+**Contrôles proportionnés.** L’autorisation, la conception et l’exploitation doivent :
+
+- appliquer [Nécessité](../../core_05_band_accountability.md#necessity) et [Proportionnalité](../../core_05_band_accountability.md#proportionality) aux événements sous-jacents permis ;
+- gouverner les procédures de résolution et les sources de résolution des résultats — y compris l’indépendance, des règles multi-sources lorsque c’est faisable, et des voies de différend contestables ;
+- fixer des limites de concentration, d’effet de levier, et d’exposition appropriées à :
+  - la [Dépendance](../../core_05_band_continuity.md#dependency) ;
+  - la vulnérabilité ; et
+  - la stabilité systémique.
+- évaluer le mésusage cohérent avec [Chapitre sept §3 Évaluation de certification du système entier](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), y compris :
+  - la coordination pour affecter les événements de résolution ; et
+  - les dynamiques d’échelle.
+
+**Garde de mise en œuvre :**
+
+- **Ce que ce chapitre énonce :** une direction constitutionnelle.
+- **Ce qu’il n’écrit pas :** les règles détaillées de licence, pénales, fiscales, ou d’exécution transfrontalière pour les jeux de hasard et le règlement conditionnel.
+- **Où ces détails appartiennent :** le droit d’adoption et les instruments incorporés désignés, y compris :
+  - [corpus_systems.md](../../corpus_systems.md) pour classer et mettre à l’échelle l’administration responsable des systèmes matériellement impactants ; et
+  - [corpus_institutions.md](../../corpus_institutions.md) pour les règles de conflit et de procédure lorsque des institutions supervisent ou gouvernent constitutionnellement une telle activité.
+
+<a id="116-successor-responsibility-and-formal-structure-non-escape"></a>
+#### 11.6 Responsabilité du successeur et non-échappatoire par structure formelle
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Lire avec : [Chapitre neuf §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) et [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority) ; [Reddition de comptes](../../core_05_apex_accountability_leg.md#accountability) ; [corpus_systems.md](../../corpus_systems.md) **CS-7 — Garde-fous de justice, restitution et réhabilitation** (*Contrôles de continuité des entités*).
+- Lire avec : [Action attribuable](../../core_05_band_accountability.md#attributable-action-constitutional) et [Intégrité d’attribution](../../core_05_band_accountability.md#attribution-integrity-constitutional) — les changements de successeur et de structure formelle ne doivent pas battre une attribution fiable des devoirs restants.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Reddition de comptes](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [Action attribuable](../../core_05_band_accountability.md#attributable-action-constitutional) · [O](../../core_05_band_accountability.md#attributable-action-constitutional) · [M](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [A](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [C](../../core_05_band_accountability.md#attributable-action-constitutional-c)
+- [Intégrité d’attribution](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [O](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [M](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [A](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [C](../../core_05_band_accountability.md#attribution-integrity-constitutional-c)
+- [Nécessité](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [Proportionnalité](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*En termes simples : une faillite, une vente, une réorganisation, ou un changement d’étiquettes d’entreprise ne peuvent pas à eux seuls effacer des devoirs constitutionnels. Quiconque continue le travail — successeurs, successions, administrateurs, ou cessionnaires comparables — hérite d’obligations proportionnées sauf si une voie moins préjudiciable est montrée sous **Nécessité**.*
+
+**Non-échappatoire par structure formelle :**
+
+- **Ce qui n’éteint pas, à soi seul, des devoirs constitutionnels vérifiés :**
+  - une administration judiciaire ;
+  - une restructuration ;
+  - un transfert d’actifs ;
+  - une dissolution ;
+  - une insolvabilité ; ou
+  - un changement comparable d’identité formelle.
+- **Ce qui reste :** les devoirs constitutionnels vérifiés qui restent matériels après le changement, y compris :
+  - la continuité ;
+  - le recours ;
+  - l’exportation ;
+  - la migration ;
+  - l’environnement ; et
+  - d’autres obligations du Plancher des droits.
+
+**Responsabilité du successeur :**
+
+- **Qui hérite :**
+  - les successeurs ;
+  - les successions ;
+  - les administrateurs ; et
+  - les cessionnaires comparables.
+- **Ce qu’ils héritent :** des devoirs proportionnés de :
+  - satisfaire ces obligations ; ou
+  - les transférer licitement.
+- **Sauf si :** des alternatives moins préjudiciables sont démontrablement infaisables sous un examen de [Nécessité](../../core_05_band_accountability.md#necessity) et de [Proportionnalité](../../core_05_band_accountability.md#proportionality).
+

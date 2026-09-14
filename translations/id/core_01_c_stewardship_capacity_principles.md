@@ -1111,3 +1111,212 @@ Struktur kontrol terkonsentrasi atau dikaburkan yang secara material merusak sal
   - pelaporan penerimaan-yang-diketahui; dan
   - koreksi.
 - **Pengukuran jejak:** Bab ini tidak memutuskan seberapa baik atau buruk kontribusi atau pelanggaran terverifikasi itu. Peringkat itu adalah [Bab Delapan §4 Pertanyaan 2 — seberapa baik atau buruk?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it), memakai [Bab Delapan §4.1 Dimensi masukan-magnitudo kontribusi](../../core_08_standing_assessment.md#41-contribution-magnitude-input-dimensions) dan [§4.2 Dimensi masukan-keparahan pelanggaran](../../core_08_standing_assessment.md#42-violation-severity-input-dimensions).
+
+<a id="115-contingent-claims-games-of-chance-and-event-contract-markets"></a>
+#### 11.5 Klaim Kontingen, Permainan Peluang, dan Pasar Kontrak Peristiwa
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Hulu: [§11 Keselarasan Insentif dan Penguasaan Sistem](#11-incentive-alignment-and-system-capture) (termasuk [§11.1 Kewajiban Keselarasan](#111-alignment-requirement)); [Bab Lima *Klaim Kontingen, Pasar Kontrak Peristiwa, Permainan Peluang, dan Keuntungan Orang Dalam*](../../core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
+- Hilir: [§11.3 Deteksi Ketidakselarasan](#113-misalignment-detection); [§11.3.1 Pemicu Eskalasi](#1131-escalation-triggers); [§11.4 Koreksi Ketidakselarasan dan Respons Penguasaan](#114-misalignment-correction-and-capture-response); [§6.2 Batasan Pengungkapan Epistemik](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints); [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); klasifikasi dan penskalaan pengelolaan bertanggung jawab `corpus_systems.md`; harapan konflik dan integritas `corpus_institutions.md`.
+- Baca bersama: [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — tujuan **Kesinambungan** (jalur resolusi tahan dan dapat diperebutkan serta stabilitas sistemik di mana penyelesaian kontingen berdampak secara material).
+- Baca bersama: [Penguasaan Jalur Resolusi](../../core_05_band_accountability.md#capture-of-resolution-pathways), [Paksaan dan Manipulasi](../../core_05_band_participation.md#coercion-and-manipulation-constitutional), dan [Dapat Digugat](../../core_05_band_accountability.md#contestability); [Keuntungan Orang Dalam](../../core_05_band_accountability.md#insider-advantage).
+- Subbagian (urutan baca): [§11.5.1 Apa yang Tidak Boleh Diberi Imbalan](#1151-what-may-not-be-rewarded) · [§11.5.2 Siapa yang Memutuskan Hasil](#1152-who-decides-outcomes) · [§11.5.3 Sinyal Pasar Bukan Bukti Konstitusional](#1153-market-signals-are-not-constitutional-proof) · [§11.5.4 Kontrol Sepadan dan Kustodi Implementasi](#1154-proportionate-controls-and-implementation-custody).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Penguasaan Jalur Resolusi](../../core_05_band_accountability.md#capture-of-resolution-pathways) · [O](../../core_05_band_accountability.md#capture-of-resolution-pathways) · [M](../../core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](../../core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](../../core_05_band_accountability.md#capture-of-resolution-pathways-c)
+- [Paksaan dan Manipulasi](../../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](../../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [Dapat Digugat](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Klaim Kontingen](../../core_05_band_accountability.md#contingent-claim) · [O](../../core_05_band_accountability.md#contingent-claim) · [M](../../core_05_band_accountability.md#contingent-claim-a) · [A](../../core_05_band_accountability.md#contingent-claim-a) · [C](../../core_05_band_accountability.md#contingent-claim-c)
+- [Ketergantungan](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [Pasar Kontrak Peristiwa](../../core_05_band_accountability.md#event-contract-market) · [O](../../core_05_band_accountability.md#event-contract-market) · [M](../../core_05_band_accountability.md#event-contract-market-a) · [A](../../core_05_band_accountability.md#event-contract-market-a) · [C](../../core_05_band_accountability.md#event-contract-market-c)
+- [Permainan Peluang](../../core_05_band_accountability.md#game-of-chance) · [O](../../core_05_band_accountability.md#game-of-chance) · [M](../../core_05_band_accountability.md#game-of-chance-a) · [A](../../core_05_band_accountability.md#game-of-chance-a) · [C](../../core_05_band_accountability.md#game-of-chance-c)
+- [Keselarasan Insentif](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment) · [A](../../core_05_band_integrative.md#incentive-alignment) · [C](../../core_05_band_integrative.md#incentive-alignment)
+- [Keuntungan Orang Dalam](../../core_05_band_accountability.md#insider-advantage) · [O](../../core_05_band_accountability.md#insider-advantage) · [M](../../core_05_band_accountability.md#insider-advantage-a) · [A](../../core_05_band_accountability.md#insider-advantage-a) · [C](../../core_05_band_accountability.md#insider-advantage-c)
+- [Keperluan](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [Proporsionalitas](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [Kebenaran (Batasan Konstitusional)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: kolam taruhan, kasino, pasar prediksi, dan sistem pembayaran serupa tidak boleh dibangun untuk mengambil untung dari bahaya yang melanggar hukum, paksaan, korupsi, atau penguasaan siapa pun yang memutuskan hasil. Pada skala, distorsi semacam itu merusak **Kesinambungan** — kepercayaan tahan pada bagaimana hasil penting diselesaikan. Odds dan harga adalah sinyal pasar — bukan bukti apa yang benar, apa yang dituntut hak, atau apa yang dihitung sebagai kepatuhan. Apa yang tidak boleh diberi imbalan sistem itu adalah [§11.5.1 Apa yang Tidak Boleh Diberi Imbalan](#1151-what-may-not-be-rewarded). Siapa yang memutuskan hasil adalah [§11.5.2 Siapa yang Memutuskan Hasil](#1152-who-decides-outcomes). Sinyal apa yang dihitung adalah [§11.5.3 Sinyal Pasar Bukan Bukti Konstitusional](#1153-market-signals-are-not-constitutional-proof). Di mana aturan rinci hidup adalah [§11.5.4 Kontrol Sepadan dan Kustodi Implementasi](#1154-proportionate-controls-and-implementation-custody).*
+
+**Sistem penyelesaian kontingen:**
+
+- **Kapan berlaku:** [Keselarasan Insentif](../../core_05_band_integrative.md#incentive-alignment) dari [§11 Keselarasan Insentif dan Penguasaan Sistem](#11-incentive-alignment-and-system-capture) berlaku di mana pun nilai dipertaruhkan atau dibayar pada hasil masa depan yang tidak pasti. Dalam cakupan adalah sistem — apa pun bentuk teknisnya — yang:
+  - mencocokkan pihak lawan;
+  - mengumpulkan taruhan;
+  - menyelesaikan pembayaran kontingen; atau
+  - memusatkan keuntungan finansial pada hasil itu.
+- **Kesinambungan:** konsisten dengan tujuan **Kesinambungan** di bawah [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) di mana integritas resolusi dan stabilitas sistemik taruhannya material.
+- **Bentuk utama di Bab Lima:**
+  - [Klaim Kontingen](../../core_05_band_accountability.md#contingent-claim);
+  - [Permainan Peluang](../../core_05_band_accountability.md#game-of-chance); dan
+  - [Pasar Kontrak Peristiwa](../../core_05_band_accountability.md#event-contract-market).
+- **Overlay integritas:** [Keuntungan Orang Dalam](../../core_05_band_accountability.md#insider-advantage).
+- **Kelompok topik:** mereka hidup di [*Klaim Kontingen, Pasar Kontrak Peristiwa, Permainan Peluang, dan Keuntungan Orang Dalam*](../../core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
+- **Hubungan dengan bab ini:** subbagian ini adalah **penerapan khusus** dari aturan keselarasan dan koreksi umum di [§11.1 Kewajiban Keselarasan](#111-alignment-requirement), [§11.2 Indikator Pengganti yang Nyaman dan Divergensi Indikator Pengganti](#112-convenient-proxies-and-proxy-divergence), [§11.3 Deteksi Ketidakselarasan](#113-misalignment-detection), dan [§11.4 Koreksi Ketidakselarasan dan Respons Penguasaan](#114-misalignment-correction-and-capture-response). Ia tidak menggantikan mereka.
+
+<a id="1151-what-may-not-be-rewarded"></a>
+##### 11.5.1 Apa yang Tidak Boleh Diberi Imbalan
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Baca bersama: [§11.1 Kewajiban Keselarasan](#111-alignment-requirement), [§11.2 Indikator Pengganti yang Nyaman dan Divergensi Indikator Pengganti](#112-convenient-proxies-and-proxy-divergence), [§11.3 Deteksi Ketidakselarasan](#113-misalignment-detection), dan [§11.4 Koreksi Ketidakselarasan dan Respons Penguasaan](#114-misalignment-correction-and-capture-response) (*subbagian ini menerapkan aturan itu; ia tidak menggantikan mereka*).
+- Baca bersama: [Penguasaan Jalur Resolusi](../../core_05_band_accountability.md#capture-of-resolution-pathways); [Keuntungan Orang Dalam](../../core_05_band_accountability.md#insider-advantage).
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: sistem ini tidak boleh dibangun agar pembayaran, bonus, atau model bisnis menjadi lebih baik ketika seseorang dirugikan, dipaksa, atau dikorupsi — atau ketika siapa pun yang memutuskan hasil dikuasai.*
+
+Struktur insentif bagi sistem semacam itu tidak boleh:
+
+- memberi imbalan atau menormalkan bahaya yang melanggar hukum;
+- memberi imbalan pada paksaan keputusan yang dilindungi di bawah Konstitusi ini;
+- memberi imbalan pada penggunaan korup jabatan atau kuasa non-publik untuk memengaruhi hasil atau resolusi, termasuk lewat perantara atau kontrak tersamar; atau
+- secara struktural mengundang distorsi material atas keputusan fidusia, publik, atau relevan-hak lewat tekanan berwaktu, pengungkapan selektif, [Penguasaan Jalur Resolusi](../../core_05_band_accountability.md#capture-of-resolution-pathways), atau [Keuntungan Orang Dalam](../../core_05_band_accountability.md#insider-advantage), tanpa mitigasi sepadan.
+
+<a id="1152-who-decides-outcomes"></a>
+##### 11.5.2 Siapa yang Memutuskan Hasil
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Baca bersama: [Dapat Digugat](../../core_05_band_accountability.md#contestability).
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: siapa pun yang memutuskan apakah taruhan dibayar tidak boleh dikuasai.*
+
+- **Apa mereka:** **Sumber resolusi hasil** adalah pelaku, proses, umpan data, atau wewenang yang menentukan apakah dan bagaimana klaim kontingen diselesaikan.
+- **Contoh:**
+  - hasil resmi;
+  - pengukuran tersertifikasi;
+  - komite yang ditunjuk; dan
+  - umpan pihak ketiga terdokumentasi.
+- **Apa yang harus berlaku:** izin, rancangan, dan operasi harus menjaga sumber itu:
+  - independen;
+  - dapat digugat; dan
+  - tahan terhadap penguasaan di mana relevan secara material.
+
+<a id="1153-market-signals-are-not-constitutional-proof"></a>
+##### 11.5.3 Sinyal Pasar Bukan Bukti Konstitusional
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Baca bersama: [Kebenaran (Batasan Konstitusional)](../../core_05_band_oversight.md#truth-constitutional-constraint); [Dapat Digugat](../../core_05_band_accountability.md#contestability).
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: odds dan harga bukan bukti apa yang benar atau apa yang dituntut Konstitusi ini.*
+
+- **Apa yang tidak dihitung sebagai bukti:** harga, odds, ukuran kolam, dan sinyal teragregasi analog dari sistem ini bukan, tanpa lebih, bukti cukup untuk memutuskan:
+  - [Kebenaran (Batasan Konstitusional)](../../core_05_band_oversight.md#truth-constitutional-constraint);
+  - probabilitas objektif; atau
+  - kepatuhan bagi penentuan hak, keselamatan, atau tata kelola.
+- **Jika instrumen yang mengadopsi merujuk mereka:** penggunaan itu harus memenuhi harapan Kebenaran, [Dapat Digugat](../../core_05_band_accountability.md#contestability), dan bukti yang sama yang berlaku pada keputusan berdampak tinggi sebanding di tempat lain dalam Konstitusi ini.
+
+<a id="1154-proportionate-controls-and-implementation-custody"></a>
+##### 11.5.4 Kontrol Sepadan dan Kustodi Implementasi
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Baca bersama: [Keperluan](../../core_05_band_accountability.md#necessity); [Proporsionalitas](../../core_05_band_accountability.md#proportionality); [Ketergantungan](../../core_05_band_continuity.md#dependency).
+- Hilir: [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [corpus_systems.md](../../corpus_systems.md) (*mengklasifikasi dan menskalakan pengelolaan bertanggung jawab sistem yang berdampak secara material*); [corpus_institutions.md](../../corpus_institutions.md) (*aturan konflik dan prosedur di mana lembaga mengawasi aktivitas semacam itu*).
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: seberapa ketat Anda menjalankan sistem ini harus cocok dengan seberapa banyak yang benar-benar taruhannya. Bab ini tidak menulis kode perjudian — hukum yang mengadopsi dan pendamping sistem serta lembaga yang mengerjakannya.*
+
+**Kontrol sepadan.** Izin, rancangan, dan operasi harus:
+
+- menerapkan [Keperluan](../../core_05_band_accountability.md#necessity) dan [Proporsionalitas](../../core_05_band_accountability.md#proportionality) pada peristiwa dasar yang diizinkan;
+- mengatur prosedur resolusi dan sumber resolusi hasil — termasuk independensi, aturan multi-sumber di mana layak, dan jalur sengketa yang dapat digugat;
+- menetapkan batas konsentrasi, leverage, dan paparan yang sesuai dengan:
+  - [Ketergantungan](../../core_05_band_continuity.md#dependency);
+  - kerentanan; dan
+  - stabilitas sistemik.
+- mengevaluasi penyalahgunaan konsisten dengan [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), termasuk:
+  - koordinasi untuk memengaruhi peristiwa yang menyelesaikan; dan
+  - dinamika skala.
+
+**Kustodi implementasi:**
+
+- **Apa yang dinyatakan bab ini:** arah konstitusional.
+- **Apa yang tidak ditulisnya:** aturan perizinan, pidana, pajak, atau penegakan lintas-batas yang rinci bagi perjudian dan penyelesaian kontingen.
+- **Di mana rincian itu milik:** hukum yang mengadopsi dan instrumen terinkorporasi yang ditunjuk, termasuk:
+  - [corpus_systems.md](../../corpus_systems.md) untuk mengklasifikasi dan menskalakan pengelolaan bertanggung jawab sistem yang berdampak secara material; dan
+  - [corpus_institutions.md](../../corpus_institutions.md) bagi aturan konflik dan prosedur di mana lembaga mengawasi atau secara konstitusional mengatur aktivitas semacam itu.
+
+<a id="116-successor-responsibility-and-formal-structure-non-escape"></a>
+#### 11.6 Tanggung Jawab Penerus dan Non-Pelarian Struktur-Formal
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Baca bersama: [Bab Sembilan §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) dan [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority); [Pertanggungjawaban](../../core_05_apex_accountability_leg.md#accountability); [corpus_systems.md](../../corpus_systems.md) **CS-7 — Pagar pengaman keadilan, restitusi, dan rehabilitasi** (*Pemeriksaan kesinambungan entitas*).
+- Baca bersama: [Tindakan yang Dapat Diatribusi](../../core_05_band_accountability.md#attributable-action-constitutional) dan [Integritas Atribusi](../../core_05_band_accountability.md#attribution-integrity-constitutional) — perubahan penerus dan struktur-formal tidak boleh mengalahkan atribusi andal atas kewajiban yang tersisa.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Pertanggungjawaban](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [Tindakan yang Dapat Diatribusi](../../core_05_band_accountability.md#attributable-action-constitutional) · [O](../../core_05_band_accountability.md#attributable-action-constitutional) · [M](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [A](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [C](../../core_05_band_accountability.md#attributable-action-constitutional-c)
+- [Integritas Atribusi](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [O](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [M](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [A](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [C](../../core_05_band_accountability.md#attribution-integrity-constitutional-c)
+- [Keperluan](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [Proporsionalitas](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: kebangkrutan, penjualan, reorganisasi, atau mengganti label korporat tidak, sendirian, dapat menghapus kewajiban konstitusional. Siapa pun yang meneruskan kerja — penerus, harta, kurator, atau penerima alih sebanding — mewarisi kewajiban sepadan kecuali jalur yang kurang berbahaya ditunjukkan di bawah **Keperluan**.*
+
+**Non-pelarian struktur-formal:**
+
+- **Apa yang tidak, sendirian, memadamkan kewajiban konstitusional terverifikasi:**
+  - kurator;
+  - restrukturisasi;
+  - transfer aset;
+  - pembubaran;
+  - insolvensi; atau
+  - perubahan identitas formal sebanding.
+- **Apa yang tetap:** kewajiban konstitusional terverifikasi yang tetap material setelah perubahan, termasuk:
+  - kesinambungan;
+  - pemulihan;
+  - ekspor;
+  - migrasi;
+  - lingkungan; dan
+  - kewajiban Lantai Hak lain.
+
+**Tanggung jawab penerus:**
+
+- **Siapa yang mewarisi:**
+  - penerus;
+  - harta;
+  - kurator; dan
+  - penerima alih sebanding.
+- **Apa yang mereka warisi:** kewajiban sepadan untuk:
+  - memenuhi kewajiban itu; atau
+  - mentransfernya secara sah.
+- **Kecuali:** alternatif yang kurang berbahaya secara dapat ditunjukkan tidak layak di bawah tinjauan [Keperluan](../../core_05_band_accountability.md#necessity) dan [Proporsionalitas](../../core_05_band_accountability.md#proportionality).

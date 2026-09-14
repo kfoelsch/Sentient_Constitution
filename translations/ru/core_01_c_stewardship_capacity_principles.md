@@ -955,7 +955,376 @@
 - **Инструментальные меры:** Коэффициенты эффективности и дисциплина [Рыночной структуры](../../core_05_band_accountability.md#market-structure-constitutional) — инструменты для оценки системы, а не сами исходы. Они **должны оставаться** прослеживаемыми к исходам, которые они инструментируют — вы должны уметь видеть, какой реальный результат стоит за числом — и они **не должны** смещать Пол прав в **Главе шестой** (базовые права, ниже которых никакой сентент не может быть толкнут) или более сильные защиты принявшего там, где те уже применяются.
 - **Символическое участие:** Титул, ящик предложений или совещательное место без эффекта — номинальная консультация, театр советов или влияние без эффекта с последствиями — **не должны** подменять участие, которое требует [материальная ставка](core_00_preamble.md#material-stake).
 
-<!--PART5-->
+<a id="112-convenient-proxies-and-proxy-divergence"></a>
+#### 11.2 Удобные заместители и расхождение заместительных показателей
+
+<details>
+<summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
+
+- [Расхождение заместительных показателей](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [Производительная способность](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [Конституционная эффективность](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
+
+</details>
+
+<br>
+
+Пути вознаграждения не должны предпочитать перечисленные цели там, где эти цели предвидимо конфликтуют с:
+
+- этой главой;
+- Полом прав в **Главе шестой**; или
+- лежащими в основе исходами, к которым [Производительная способность](../../core_05_band_continuity.md#productive-capacity-constitutional) и [Конституционная эффективность](../../core_05_band_continuity.md#constitutional-efficiency) должны оставаться прослеживаемыми под **Главой пятой**.
+
+**Цели, которые не должны предпочитаться:**
+
+- сырой пропуск;
+- загрузка;
+- цели численности;
+- узкие финансовые цели;
+- задержка;
+- процессуальная активность; или
+- другие удобные заместители.
+
+[Расхождение заместительных показателей](../../core_05_band_oversight.md#proxy-divergence) должно обнаруживаться, раскрываться и исправляться там, где структуры вознаграждения опираются на заместители, панели, цели результативности или формальные индикаторы соответствия, которые расходятся с материально релевантными исходами.
+
+<a id="113-misalignment-detection"></a>
+#### 11.3 Обнаружение рассогласованности
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Подразделы (порядок чтения): [§11.3.1 Триггеры эскалации](#1131-escalation-triggers).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
+
+- [Аудитируемость](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [Оспоримость](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Захват системы](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [Антизахват](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+- [Согласование стимулов](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment-a) · [A](../../core_05_band_integrative.md#incentive-alignment-a) · [C](../../core_05_band_integrative.md#incentive-alignment-c)
+- [Обязанность пересмотра и исправления](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
+
+</details>
+
+<br>
+
+*Простыми словами: никто не получает быть единственным сентентом, который может заметить, проверить или оспорить, когда управление идёт не так. Обнаружение нуждается в множественных независимых путях, открытых данных и аудите там, где позволяют правила безопасности и классификации, и ясной эскалации, когда появляется захват или рассогласованность — не тихом поглощении как обычная работа. Это правило эскалации — [§11.3.1 Триггеры эскалации](#1131-escalation-triggers).*
+
+**Множественное обнаружение и пересмотр:**
+
+- **Кто не может монополизировать его:** ни один отдельный актор, форум, институт, оператор, аудитор, информационный посредник, назначающая власть или блок затрагиваемых сторон.
+- **Что они не могут монополизировать:** практическую способность обнаруживать, пересматривать, исправлять или толковать материальный конституционный сбой.
+- **Что должно оставаться доступным:** множественные и структурно независимые пути надзора там, где их требует [материальная ставка](core_00_preamble.md#material-stake).
+- **Пределы:** законные пределы безопасности и конфиденциальности всё ещё применяются; они должны сохранять максимально осуществимую [Аудитируемость](../../core_05_band_oversight.md#auditability) и [Оспоримость](../../core_05_band_accountability.md#contestability).
+- **Парное правило:** это половина «многих глаз» пары с [§10.2 Разделение обязанностей](#102-segregation-of-duties): множественность держит надзор от того, чтобы его загнали в угол один актор; разделение держит его от того, чтобы его выполнял актор под пересмотром.
+
+**Открытые системы, данные и аудит:**
+
+- **Когда применяется:** там, где позволяют [материальная ставка](core_00_preamble.md#material-stake) и применимые правила типов информации.
+- **Что должно оставаться доступным:** данные, релевантные для управления, аудиторские пути и инструменты пересмотра для материально затронутых сентентов — не запертые внутри одного оператора, поставщика или блока надзора.
+- **Что это значение по умолчанию предпочитает:** инспектируемые процессы, оспариваемые записи и независимую проверку, согласованно с [§9.4 Устремление к открытости](#94-openness-aspiration).
+- **Подлежит:** [§6.2 Ограничения эпистемического раскрытия](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) и **[corpus_systems.md](../../corpus_systems.md), CS-2 — Типы информации и обращение** (включая тип N и другие пределы классификации, которые управляют тем, что может собираться, публиковаться, удерживаться или реконструироваться).
+
+<a id="1131-escalation-triggers"></a>
+##### 11.3.1 Триггеры эскалации
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Читать вместе с: [§11.3 Обнаружение рассогласованности](#113-misalignment-detection) (*множественное обнаружение и открытый аудит — родитель*).
+- Читать вместе с: [Согласование стимулов](../../core_05_band_integrative.md#incentive-alignment) (*обязанности захвата Главы пятой в этом подразделе не являются заменой дисциплине согласования стимулов*).
+- Читать вместе с: [§11.4 Исправление рассогласованности и ответ на захват](#114-misalignment-correction-and-capture-response) (*дом исправления; этот подраздел — обнаружить, раскрыть и трактовать как триггер*).
+
+</details>
+
+<br>
+
+*Простыми словами: заметить захват — не трактовать его как обычные операции. Как только он появляется, это триггер эскалации — докажите его под Главами со второй по пятую, и если система не может исправить его на месте, отправьте его в дома исправления и траектории, названные ниже.*
+
+Системы должны обнаруживать, раскрывать и смягчать материально релевантные условия [Захвата системы](../../core_05_band_continuity.md#system-capture).
+
+Такие условия — **триггеры эскалации**, не обычные операционные состояния. Они должны обрабатываться под толковательной и доказательной дисциплиной **Глав со второй по пятую** следующим образом:
+
+- **Глава вторая** — применяйте релевантные компоненты O/M/A/C совместно к тому же охвату функциональной системы; частичное или избирательное удовлетворение не считается.
+- **Глава третья** — применяйте дисциплину целостности определений и антиуклонения; сегментация, номинальная децентрализация, процессуальная маскировка или определительное переименование не побеждают анализ захвата.
+- **Глава четвёртая** — сторона, утверждающая отсутствие захвата, несёт бремя доказывания; соответствие требует прослеженных, независимо проверяемых доказательств, масштабированных к [материальной ставке](core_00_preamble.md#material-stake), а не утверждения, репутации или формальной структуры самих по себе.
+- **Глава пятая** — удовлетворите обязанности обнаружения, раскрытия и смягчения [Захвата системы](../../core_05_band_continuity.md#system-capture) и обязанности предотвращения [Антизахвата](../../core_05_band_continuity.md#anti-capture) и восстановите оспариваемый надзор и подотчётность до уровня, который требует [материальная ставка](core_00_preamble.md#material-stake).
+
+**Дальнейшая эскалация:** Когда внутрисистемное смягчение неосуществимо или когда захват сохраняется после соразмерного исправления, эскалация должна также маршрутизироваться через:
+
+- **Обязанность пересмотра и исправления:** [Обязанность пересмотра и исправления](../../core_05_band_continuity.md#review-and-correction-duty-constitutional).
+- **Повышенный пересмотр:** [§13.1 Механизм порога рыночной концентрации](#131-market-concentration-threshold-mechanism-adopter-tunable) и [§13.2 Проконкуренция и антидоминирование](#132-pro-competition-and-anti-domination), там, где концентрация или доминирование материальны.
+- **Механика траектории и нарушения:** [Глава восьмая — Модель вклада, нарушения и траектории](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model), там, где на кону проверенные находки.
+- **Антиконституционный проступок:** [Глава десятая §5.1 Подрыв на основе концентрации: взаимодействие критериев](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), там, где концентрация или захват процесса составляет антиконституционный проступок.
+
+<a id="114-misalignment-correction-and-capture-response"></a>
+#### 11.4 Исправление рассогласованности и ответ на захват
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Читать вместе с: [§11.3 Обнаружение рассогласованности](#113-misalignment-detection) (*множественные пути обнаружения и значения по умолчанию открытого аудита*).
+- Читать вместе с: [§11.3.1 Триггеры эскалации](#1131-escalation-triggers) (*дисциплина эскалации*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
+
+- [Захват системы](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [Антизахват](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+- [Оспоримость](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Надзор](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Подотчётность](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [Обязанность пересмотра и исправления](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
+
+</details>
+
+<br>
+
+*Простыми словами: как только рассогласованность или захват обнаружены, системы должны фактически это исправить — изменить плохие стимулы, ограничить концентрированный контроль и восстановить согласование. Концентрированный или скрытый контроль, который побеждает оспаривание, надзор, подотчётность или длительную **Преемственность**, должен раскрываться, смягчаться и эскалироваться — не поглощаться как обычная операция.*
+
+Там, где конституционная рассогласованность идентифицирована, системы должны изменять, ограничивать или отменять такие стимулы, чтобы восстановить согласование и сохранить [**Преемственность**](core_00_preamble.md#continuity) под [Двумя конституционными целями](core_00_preamble.md#two-constitutional-aims).
+
+Концентрированные или затемнённые структуры контроля, которые материально подрывают любое из следующего, являются [**захватом системы**](../../core_05_band_continuity.md#system-capture) в значении **Главы пятой** и несовместимы с этой главой:
+
+- [Оспоримость](../../core_05_band_accountability.md#contestability);
+- [Надзор](../../core_05_apex_oversight_leg.md#oversight-constitutional); или
+- [Подотчётность](../../core_05_apex_accountability_leg.md#accountability).
+
+**Формы, которые считаются:**
+
+- длительное привратничество критических интерфейсов — длящийся контроль врат, через которые другие должны пройти;
+- барьеры переключения с асимметричной зависимостью — односторонняя зависимость, которая делает уход или переключение затратным или неосуществимым;
+- непрозрачные пути бенефициарного контроля — скрытые маршруты, которыми люди, которые фактически владеют, направляют или получают прибыль, держат или осуществляют этот контроль; и
+- скрытое или косвенно маршрутизированное влияние на управление, вынесение решений или распределение ресурсов.
+
+**Исправление рассогласованного вознаграждения:**
+
+- **Когда:** рассогласованность проверена.
+- **Не должны:** трактовать материальные вознаграждения из рассогласованных или коррумпированных путей как молча удерживаемый кредит траектории или защищённую выгоду.
+- **Дом исправления:** [Глава девятая §5.4 Специальные правила нарушения](../../core_09_standing_integration.md#54-special-violation-rules) управляет:
+  - конфискацией;
+  - соразмерным возвратом;
+  - сообщением о заведомом принятии; и
+  - исправлением.
+- **Измерение траектории:** Эта глава не решает, насколько хорош или плох был проверенный вклад или нарушение. Эта оценка — [Глава восьмая §4 Вопрос 2 — насколько это было хорошо или плохо?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it), используя [Глава восьмая §4.1 Размерности входной величины вклада](../../core_08_standing_assessment.md#41-contribution-magnitude-input-dimensions) и [§4.2 Размерности входной тяжести нарушения](../../core_08_standing_assessment.md#42-violation-severity-input-dimensions).
+
+<a id="115-contingent-claims-games-of-chance-and-event-contract-markets"></a>
+#### 11.5 Условные требования, игры случая и рынки контрактов на события
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Исход: [§11 Согласование стимулов и захват системы](#11-incentive-alignment-and-system-capture) (включая [§11.1 Требование согласования](#111-alignment-requirement)); [Глава пятая *Условное требование, рынок контрактов на события, игра случая и инсайдерское преимущество*](../../core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
+- Назначение: [§11.3 Обнаружение рассогласованности](#113-misalignment-detection); [§11.3.1 Триггеры эскалации](#1131-escalation-triggers); [§11.4 Исправление рассогласованности и ответ на захват](#114-misalignment-correction-and-capture-response); [§6.2 Ограничения эпистемического раскрытия](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints); [Глава седьмая §3 Оценка сертификации целой системы](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); классификация и масштабирование ответственного управления `corpus_systems.md`; ожидания конфликта и целостности `corpus_institutions.md`.
+- Читать вместе с: [Две конституционные цели](core_00_preamble.md#two-constitutional-aims) — цель **Преемственности** (длительные, оспариваемые пути разрешения и системная стабильность там, где условный расчёт материально воздействует).
+- Читать вместе с: [Захват путей разрешения](../../core_05_band_accountability.md#capture-of-resolution-pathways), [Принуждение и манипуляция](../../core_05_band_participation.md#coercion-and-manipulation-constitutional) и [Оспоримость](../../core_05_band_accountability.md#contestability); [Инсайдерское преимущество](../../core_05_band_accountability.md#insider-advantage).
+- Подразделы (порядок чтения): [§11.5.1 Что не может вознаграждаться](#1151-what-may-not-be-rewarded) · [§11.5.2 Кто решает исходы](#1152-who-decides-outcomes) · [§11.5.3 Рыночные сигналы не являются конституционным доказательством](#1153-market-signals-are-not-constitutional-proof) · [§11.5.4 Соразмерные контроли и хранение реализации](#1154-proportionate-controls-and-implementation-custody).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
+
+- [Захват путей разрешения](../../core_05_band_accountability.md#capture-of-resolution-pathways) · [O](../../core_05_band_accountability.md#capture-of-resolution-pathways) · [M](../../core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](../../core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](../../core_05_band_accountability.md#capture-of-resolution-pathways-c)
+- [Принуждение и манипуляция](../../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](../../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [Оспоримость](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Условное требование](../../core_05_band_accountability.md#contingent-claim) · [O](../../core_05_band_accountability.md#contingent-claim) · [M](../../core_05_band_accountability.md#contingent-claim-a) · [A](../../core_05_band_accountability.md#contingent-claim-a) · [C](../../core_05_band_accountability.md#contingent-claim-c)
+- [Зависимость](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [Рынок контрактов на события](../../core_05_band_accountability.md#event-contract-market) · [O](../../core_05_band_accountability.md#event-contract-market) · [M](../../core_05_band_accountability.md#event-contract-market-a) · [A](../../core_05_band_accountability.md#event-contract-market-a) · [C](../../core_05_band_accountability.md#event-contract-market-c)
+- [Игра случая](../../core_05_band_accountability.md#game-of-chance) · [O](../../core_05_band_accountability.md#game-of-chance) · [M](../../core_05_band_accountability.md#game-of-chance-a) · [A](../../core_05_band_accountability.md#game-of-chance-a) · [C](../../core_05_band_accountability.md#game-of-chance-c)
+- [Согласование стимулов](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment) · [A](../../core_05_band_integrative.md#incentive-alignment) · [C](../../core_05_band_integrative.md#incentive-alignment)
+- [Инсайдерское преимущество](../../core_05_band_accountability.md#insider-advantage) · [O](../../core_05_band_accountability.md#insider-advantage) · [M](../../core_05_band_accountability.md#insider-advantage-a) · [A](../../core_05_band_accountability.md#insider-advantage-a) · [C](../../core_05_band_accountability.md#insider-advantage-c)
+- [Необходимость](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [Соразмерность](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [Истина (конституционное ограничение)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
+
+</details>
+
+<br>
+
+*Простыми словами: пулы ставок, казино, рынки предсказаний и сходные системы выплат не могут строиться, чтобы получать прибыль от незаконного вреда, принуждения, коррупции или захвата того, кто решает исход. В масштабе этот вид искажения подрывает **Преемственность** — длительное доверие к тому, как разрешаются важные исходы. Коэффициенты и цены — рыночные сигналы — не доказательство того, что истинно, чего требуют права или что считается соответствием. Что эти системы не могут вознаграждать — [§11.5.1 Что не может вознаграждаться](#1151-what-may-not-be-rewarded). Кто решает исходы — [§11.5.2 Кто решает исходы](#1152-who-decides-outcomes). Какие сигналы считаются — [§11.5.3 Рыночные сигналы не являются конституционным доказательством](#1153-market-signals-are-not-constitutional-proof). Где живут подробные правила — [§11.5.4 Соразмерные контроли и хранение реализации](#1154-proportionate-controls-and-implementation-custody).*
+
+**Системы условного расчёта:**
+
+- **Когда они применяются:** [Согласование стимулов](../../core_05_band_integrative.md#incentive-alignment) из [§11 Согласование стимулов и захват системы](#11-incentive-alignment-and-system-capture) применяется везде, где ценность ставится или выплачивается на неопределённые будущие исходы. В охвате системы — какой бы ни была их техническая форма — которые:
+  - сопоставляют контрагентов;
+  - объединяют ставки;
+  - рассчитывают условные платежи; или
+  - концентрируют финансовый выигрыш на этих исходах.
+- **Преемственность:** согласованно с целью **Преемственности** под [Двумя конституционными целями](core_00_preamble.md#two-constitutional-aims) там, где целостность разрешения и системная стабильность материально стоят на кону.
+- **Главные формы в Главе пятой:**
+  - [Условное требование](../../core_05_band_accountability.md#contingent-claim);
+  - [Игра случая](../../core_05_band_accountability.md#game-of-chance); и
+  - [Рынок контрактов на события](../../core_05_band_accountability.md#event-contract-market).
+- **Оверлей целостности:** [Инсайдерское преимущество](../../core_05_band_accountability.md#insider-advantage).
+- **Группа тем:** они живут в [*Условное требование, рынок контрактов на события, игра случая и инсайдерское преимущество*](../../core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
+- **Отношение к этой главе:** этот подраздел — **специальное применение** общих правил согласования и исправления в [§11.1 Требование согласования](#111-alignment-requirement), [§11.2 Удобные заместители и расхождение заместительных показателей](#112-convenient-proxies-and-proxy-divergence), [§11.3 Обнаружение рассогласованности](#113-misalignment-detection) и [§11.4 Исправление рассогласованности и ответ на захват](#114-misalignment-correction-and-capture-response). Он не заменяет их.
+
+<a id="1151-what-may-not-be-rewarded"></a>
+##### 11.5.1 Что не может вознаграждаться
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Читать вместе с: [§11.1 Требование согласования](#111-alignment-requirement), [§11.2 Удобные заместители и расхождение заместительных показателей](#112-convenient-proxies-and-proxy-divergence), [§11.3 Обнаружение рассогласованности](#113-misalignment-detection) и [§11.4 Исправление рассогласованности и ответ на захват](#114-misalignment-correction-and-capture-response) (*этот подраздел применяет эти правила; он не заменяет их*).
+- Читать вместе с: [Захват путей разрешения](../../core_05_band_accountability.md#capture-of-resolution-pathways); [Инсайдерское преимущество](../../core_05_band_accountability.md#insider-advantage).
+
+</details>
+
+<br>
+
+*Простыми словами: эти системы не могут строиться так, чтобы выплата, бонус или бизнес-модель становились лучше, когда кто-то вредят, принуждается или коррумпируется — или когда тот, кто решает исход, захвачен.*
+
+Структуры стимулов для таких систем не должны:
+
+- вознаграждать или нормализовать незаконный вред;
+- вознаграждать принуждение решений, защищённых под этой Конституцией;
+- вознаграждать коррумпированное использование должности или непубличной власти, чтобы влиять на исходы или разрешение, включая через посредников или замаскированные контракты; или
+- структурно приглашать материальное искажение фидуциарных, публичных или релевантных для прав решений через рассчитанное по времени давление, избирательное раскрытие, [Захват путей разрешения](../../core_05_band_accountability.md#capture-of-resolution-pathways) или [Инсайдерское преимущество](../../core_05_band_accountability.md#insider-advantage) без соразмерного смягчения.
+
+<a id="1152-who-decides-outcomes"></a>
+##### 11.5.2 Кто решает исходы
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Читать вместе с: [Оспоримость](../../core_05_band_accountability.md#contestability).
+
+</details>
+
+<br>
+
+*Простыми словами: тот, кто решает, выплатилась ли ставка, не может быть захвачен.*
+
+- **Что они есть:** **Источники разрешения исходов** — акторы, процессы, потоки данных или власти, которые определяют, рассчитываются ли и как условные требования.
+- **Примеры:**
+  - официальные результаты;
+  - сертифицированные измерения;
+  - назначенные комитеты; и
+  - задокументированные потоки третьих сторон.
+- **Что должно держаться:** уполномочивание, дизайн и эксплуатация должны держать эти источники:
+  - независимыми;
+  - оспариваемыми; и
+  - устойчивыми к захвату там, где материально релевантно.
+
+<a id="1153-market-signals-are-not-constitutional-proof"></a>
+##### 11.5.3 Рыночные сигналы не являются конституционным доказательством
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Читать вместе с: [Истина (конституционное ограничение)](../../core_05_band_oversight.md#truth-constitutional-constraint); [Оспоримость](../../core_05_band_accountability.md#contestability).
+
+</details>
+
+<br>
+
+*Простыми словами: коэффициенты и цены не являются доказательством того, что истинно или что требует эта Конституция.*
+
+- **Что не считается доказательством:** цены, коэффициенты, размеры пулов и аналогичные агрегированные сигналы из этих систем не являются, без большего, достаточным доказательством, чтобы решить:
+  - [Истину (конституционное ограничение)](../../core_05_band_oversight.md#truth-constitutional-constraint);
+  - объективную вероятность; или
+  - соответствие для определений прав, безопасности или управления.
+- **Если принимающие инструменты ссылаются на них:** эти использования должны удовлетворять тем же ожиданиям Истины, [Оспоримости](../../core_05_band_accountability.md#contestability) и доказательств, которые применяются к сопоставимым решениям высокого воздействия в других местах этой Конституции.
+
+<a id="1154-proportionate-controls-and-implementation-custody"></a>
+##### 11.5.4 Соразмерные контроли и хранение реализации
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Читать вместе с: [Необходимость](../../core_05_band_accountability.md#necessity); [Соразмерность](../../core_05_band_accountability.md#proportionality); [Зависимость](../../core_05_band_continuity.md#dependency).
+- Назначение: [Глава седьмая §3 Оценка сертификации целой системы](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [corpus_systems.md](../../corpus_systems.md) (*классификация и масштабирование ответственного управления материально воздействующими системами*); [corpus_institutions.md](../../corpus_institutions.md) (*правила конфликта и процедуры там, где институты надзирают такую деятельность*).
+
+</details>
+
+<br>
+
+*Простыми словами: насколько плотно вы ведёте эти системы, должно соответствовать тому, сколько фактически стоит на кону. Эта глава не пишет кодекс азартных игр — принимающее право и спутники систем и институтов делают это.*
+
+**Соразмерные контроли.** Уполномочивание, дизайн и эксплуатация должны:
+
+- применять [Необходимость](../../core_05_band_accountability.md#necessity) и [Соразмерность](../../core_05_band_accountability.md#proportionality) к разрешённым лежащим в основе событиям;
+- управлять процедурами разрешения и источниками разрешения исходов — включая независимость, правила множественных источников там, где осуществимо, и оспариваемые пути споров;
+- задавать пределы концентрации, рычага и экспозиции, подходящие к:
+  - [Зависимости](../../core_05_band_continuity.md#dependency);
+  - уязвимости; и
+  - системной стабильности.
+- оценивать злоупотребление согласованно с [Главой седьмой §3 Оценка сертификации целой системы](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), включая:
+  - координацию, чтобы затронуть разрешающие события; и
+  - динамику масштаба.
+
+**Хранение реализации:**
+
+- **Что эта глава заявляет:** конституционное направление.
+- **Чего она не пишет:** подробные правила лицензирования, уголовного, налогового или трансграничного принуждения для азартных игр и условного расчёта.
+- **Куда принадлежат эти детали:** принимающее право и обозначенные инкорпорированные инструменты, включая:
+  - [corpus_systems.md](../../corpus_systems.md) для классификации и масштабирования ответственного управления материально воздействующими системами; и
+  - [corpus_institutions.md](../../corpus_institutions.md) для правил конфликта и процедуры там, где институты надзирают или конституционно управляют такой деятельностью.
+
+<a id="116-successor-responsibility-and-formal-structure-non-escape"></a>
+#### 11.6 Ответственность преемника и отсутствие выхода через формальную структуру
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Читать вместе с: [Глава девятая §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) и [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority); [Подотчётность](../../core_05_apex_accountability_leg.md#accountability); [corpus_systems.md](../../corpus_systems.md) **CS-7 — Гарантии правосудия, реституция и реабилитация** (*Проверки преемственности сущности*).
+- Читать вместе с: [Приписываемое действие](../../core_05_band_accountability.md#attributable-action-constitutional) и [Целостность приписывания](../../core_05_band_accountability.md#attribution-integrity-constitutional) — изменения преемника и формальной структуры не должны побеждать надёжное приписывание оставшихся обязанностей.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
+
+- [Подотчётность](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [Приписываемое действие](../../core_05_band_accountability.md#attributable-action-constitutional) · [O](../../core_05_band_accountability.md#attributable-action-constitutional) · [M](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [A](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [C](../../core_05_band_accountability.md#attributable-action-constitutional-c)
+- [Целостность приписывания](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [O](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [M](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [A](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [C](../../core_05_band_accountability.md#attribution-integrity-constitutional-c)
+- [Необходимость](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [Соразмерность](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*Простыми словами: банкротство, продажа, реорганизация или смена корпоративных ярлыков не могут сами по себе стереть конституционные обязанности. Кто продолжает работу — преемники, наследственные массы, управляющие имуществом или сопоставимые приобретатели — наследует соразмерные обязательства, если менее вредный путь не показан под **Необходимостью**.*
+
+**Отсутствие выхода через формальную структуру:**
+
+- **Что само по себе не погашает проверенные конституционные обязанности:**
+  - внешнее управление имуществом;
+  - реструктуризация;
+  - передача активов;
+  - роспуск;
+  - несостоятельность; или
+  - сопоставимое изменение формальной идентичности.
+- **Что остаётся:** проверенные конституционные обязанности, которые остаются материальными после изменения, включая:
+  - преемственность;
+  - средство защиты;
+  - экспорт;
+  - миграцию;
+  - экологические; и
+  - другие обязательства Пола прав.
+
+**Ответственность преемника:**
+
+- **Кто наследует:**
+  - преемники;
+  - наследственные массы;
+  - управляющие имуществом; и
+  - сопоставимые приобретатели.
+- **Что они наследуют:** соразмерные обязанности:
+  - удовлетворить эти обязательства; или
+  - законно передать их.
+- **Если только:** менее вредные альтернативы демонстративно неосуществимы под пересмотром [Необходимости](../../core_05_band_accountability.md#necessity) и [Соразмерности](../../core_05_band_accountability.md#proportionality).
+
+<!--PART7-->
+
+
 
 
 
