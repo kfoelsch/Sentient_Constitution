@@ -10,7 +10,7 @@
 >
 > **Önceki (bu dil):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 >
-> **Sonraki (hâlâ İngilizce):** [core_03_definition_integrity.md](../../core_03_definition_integrity.md)
+> **Sonraki (bu dil):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 > **Okuma yayı:** §1 amaç ve rol (O/M/A/C) → §2 tanım bütünlüğü → **§3 tanım yığını boyunca tutarlılık**.
 
 </details>
@@ -22,7 +22,7 @@
 >
 > **İkinci Bölümden Beşinci Bölüme** anayasal tanım yığınını oluşturur; **[CJS](../../corpus_joint_structure.md)** onu uygulayan işlemsel tanımları taşır:
 > - **İkinci Bölüm (bu dosya)** — O/M/A/C tanım yapısı ve bileşen hizalaması: her tanım **Ontolojik (O)** (nedir) ile **Ölçüm (M)** sicilini **Değerlendirme (A)** ödevine örülü (nasıl ölçülmeli ve değerlendirilmeli) ve **Uyum (C)** (neyin geçerli kalması gerekir) ile bağlar ([§1 Amaç ve rol](core_02_definition_structure.md#1-purpose-and-role); [§2 Tanım bütünlüğü gereği](core_02_definition_structure.md#2-definition-integrity-requirement)).
-> - **Üçüncü Bölüm** — tanım bütünlüğü, kaçınma ve uyumsuzluk ([Üçüncü Bölüm](../../core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).
+> - **Üçüncü Bölüm** — tanım bütünlüğü, kaçınma ve uyumsuzluk ([Üçüncü Bölüm](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).
 > - **Dördüncü Bölüm** — kanıt yükü, tanım izlenebilirliği, gözlemlenebilirlik, güvenlik sınırları altında doğrulama ve doğrulama erişilebilirliği ([Dördüncü Bölüm — Kanıt yükü, izlenebilirlik ve doğrulama](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)).
 > - **Beşinci Bölüm** — ölçüm, değerlendirme ve uyum için paylaşılan sözlük (beş Dörtlü bant dosyası ve anayasal amaç dosyaları boyunca 1–3. kesitlerdeki bağımsız, gruplanmış ve paket tanımlar: [Gelişim amacı](../../core_05_apex_flourishing_aim.md), [Gözetim](../../core_05_band_oversight.md), [Katılım](../../core_05_band_participation.md), [Hesap verebilirlik](../../core_05_band_accountability.md), [Süreklilik](../../core_05_band_continuity.md), [Bütünleştirici](../../core_05_band_integrative.md)); okuma sırası ve harita [A Kısmı](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map)nde.
 > - **CJS** — çapraz-uygulama terimleri için işlemsel tanımlar ([CJS-3](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) işlemsel küme kitaplığı); Beşinci Bölüm kanonik evlerini uygulayın — onları yeniden tanımlamayın. **CS**, **CI** ve **CF**deki alan taksonomileri ve protokoller aynı kuralı izler.
@@ -49,7 +49,7 @@
 - Yukarı: [Önsöz §1 Model](core_00_preamble.md#the-model) — [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad), [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) ve [maddi pay](core_00_preamble.md#material-stake) ölçeklemesi bölüm izleri aracılığıyla bölüm genelinde uygulanır; [Birinci Bölüm §1 Amaç ve rol](core_01_a_values_principles.md#1-purpose-and-role) (*bu tanım yığınının hizmet ettiği değerler ve kısıtlar*).
 - Yukarı: [İkinci Bölüm açılışı](#chapter-two-definition-structure-and-component-requirements) — O/M/A/C ayrıştırması ve iç-hizalama gereği.
 - Dörtlü bacağı/bacakları: **gözetim**, **hesap verebilirlik** (tanımlar gözlemlenebilir davranış üzerinde değerlendirilebilir ve yaptırılabilir olmalıdır). Birincil amacı/amaçları: **Gelişim** ve **Süreklilik**. [maddi pay](core_00_preamble.md#material-stake) ölçeklemesi bölüm genelinde uygulanır.
-- Aşağı: [§1.2 Ölçüm bileşenleri](#12-measurement-components) ve [§1.3 Değerlendirme bileşenleri](#13-assessment-components) (*Değerlendirme ödevine örülü Ölçüm (M) sicili; bu bölümdeki O/M/A/C giriş biçimi*); [§2 Tanım bütünlüğü gereği](#2-definition-integrity-requirement); [Üçüncü Bölüm, kesit 1 — Tanım bütünlüğü ve kaçınma karşıtı kısıtlar](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Dördüncü Bölüm, kesit 1 — Münhasır yaptırım ve yük tahsisi](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [Beşinci Bölüm pusulası ve tanım haritası](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map).
+- Aşağı: [§1.2 Ölçüm bileşenleri](#12-measurement-components) ve [§1.3 Değerlendirme bileşenleri](#13-assessment-components) (*Değerlendirme ödevine örülü Ölçüm (M) sicili; bu bölümdeki O/M/A/C giriş biçimi*); [§2 Tanım bütünlüğü gereği](#2-definition-integrity-requirement); [Üçüncü Bölüm, kesit 1 — Tanım bütünlüğü ve kaçınma karşıtı kısıtlar](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Dördüncü Bölüm, kesit 1 — Münhasır yaptırım ve yük tahsisi](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [Beşinci Bölüm pusulası ve tanım haritası](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 - Birlikte oku: [Önsöz — olumlu sahip sicili](core_00_preamble.md#4-principles-definitions-and-rights) ve [Yetki yığını ve iç hiyerarşi](../../core_05_band_integrative.md#authority-stack); [Anayasal kısıt](../../core_05_band_integrative.md#constitutional-constraint) — sonraki yaptırım, yönetişim, uygulama, ölçüm, denetim ve sınıflama mekaniği uymalıdır; [CJS-3.1 Anayasal pusula ve küme haritası](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — işlemsel tanımlar Beşinci Bölüm kanonik evlerini uygular ve YENİDEN TANIMLAMAMALIDIR.
 
 </details>
@@ -123,7 +123,7 @@ Beşinci Bölüm yaprak tanımları, bu kesitte belirtilen Ölçüm bileşen bi�
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: İlkeler: [İkinci Bölüm açılışı](#chapter-two-definition-structure-and-component-requirements); [§1 Amaç ve rol](#1-purpose-and-role) — O/M/A/C ayrıştırması içinde A bileşeninin rolü.
-- Aşağı: [Üçüncü Bölüm, kesit 1 — Tanım bütünlüğü ve kaçınma karşıtı kısıtlar](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Dördüncü Bölüm, kesit 1 — Münhasır yaptırım ve yük tahsisi](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — İkinci ve Üçüncü Bölümde tanımlanan değerlendirme gerekleri için münhasır yaptırım yolu; [Dördüncü Bölüm, kesit 5 — Uyum kanıtı standardı](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — o yaptırım için kanıt yeterliliği.
+- Aşağı: [Üçüncü Bölüm, kesit 1 — Tanım bütünlüğü ve kaçınma karşıtı kısıtlar](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Dördüncü Bölüm, kesit 1 — Münhasır yaptırım ve yük tahsisi](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — İkinci ve Üçüncü Bölümde tanımlanan değerlendirme gerekleri için münhasır yaptırım yolu; [Dördüncü Bölüm, kesit 5 — Uyum kanıtı standardı](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — o yaptırım için kanıt yeterliliği.
 - Birlikte oku: [Beşinci Bölüm bağımsız tanımları](../../core_05__definitions_home.md#1-interdependent-definitions) — değerlendirme kapsamını ve koşullarını yöneten uygulanabilir tanımlar; değerlendirme gerekleri, her uygulanabilir Beşinci Bölüm tanımıyla, onun kabul kapsamı içinde tutarlı biçimde uygulanır.
 
 </details>
@@ -193,7 +193,7 @@ Beşinci Bölüm yaprak tanımları, bu kesitte belirtilen Uyum bileşen biçimi
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [§1 Amaç ve rol](#1-purpose-and-role) — O/M/A/C bileşen yapısı ve bütün-sistem ortak-karşılanma kuralı.
-- Aşağı: [§2.4 Belirsizlik altında yorum kuralı](#24-interpretation-rule-under-ambiguity); [§3 Tanım yığını boyunca tutarlılık](#3-consistency-across-the-definition-stack); [Üçüncü Bölüm, kesit 1 — Tanım bütünlüğü ve kaçınma karşıtı kısıtlar](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Dördüncü Bölüm, kesit 1 — Münhasır yaptırım ve yük tahsisi](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [Dördüncü Bölüm, kesit 5 — Uyum kanıtı standardı](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
+- Aşağı: [§2.4 Belirsizlik altında yorum kuralı](#24-interpretation-rule-under-ambiguity); [§3 Tanım yığını boyunca tutarlılık](#3-consistency-across-the-definition-stack); [Üçüncü Bölüm, kesit 1 — Tanım bütünlüğü ve kaçınma karşıtı kısıtlar](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Dördüncü Bölüm, kesit 1 — Münhasır yaptırım ve yük tahsisi](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [Dördüncü Bölüm, kesit 5 — Uyum kanıtı standardı](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
 - Birlikte oku: [Beşinci Bölüm kümelenmiş tanımları (Öngörülebilirlik özeni)](../../core_05_band_oversight.md#foreseeability-diligence) — İkinci Bölümden Dördüncü Bölüme her «makul öngörülebilir» için işlemsel anlam.
 
 </details>
@@ -242,7 +242,7 @@ Bir makul okuma, sözcüklerin ve yapının izin verdiği başka bir okumaya gö
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: İlkeler: [§2 Tanım bütünlüğü gereği](#2-definition-integrity-requirement); [§1 Amaç ve rol](#1-purpose-and-role).
-- Aşağı: [Üçüncü Bölüm, kesit 2 — Gözlemlenebilir sistem davranışından uyumsuzluk](../../core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [Dördüncü Bölüm, kesit 2 — Tanım izlenebilirliği gereği](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement); Beşinci Bölüme satır içi bir işaretçi olmadan «makul öngörülebilir»in göründüğü Dördüncü Bölüm **4.1**, **3**, **5** ve **6**. kesitleri.
+- Aşağı: [Üçüncü Bölüm, kesit 2 — Gözlemlenebilir sistem davranışından uyumsuzluk](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [Dördüncü Bölüm, kesit 2 — Tanım izlenebilirliği gereği](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement); Beşinci Bölüme satır içi bir işaretçi olmadan «makul öngörülebilir»in göründüğü Dördüncü Bölüm **4.1**, **3**, **5** ve **6**. kesitleri.
 - Birlikte oku: [Beşinci Bölüm kümelenmiş tanımları (Öngörülebilirlik özeni)](../../core_05_band_oversight.md#foreseeability-diligence) — İkinci Bölümden Dördüncü Bölüme her «makul öngörülebilir» için yöneten kural; işlemsel anlam [Makul öngörülebilir](../../core_05_band_oversight.md#reasonably-foreseeable)de (Beşinci Bölüm, kesit 3 — Bağımlı kümeler (Doğruluk ve epistemik bütünlük kümesi; Öngörülebilirlik özeni)).
 
 </details>
@@ -262,6 +262,6 @@ Bir tanımın parçaları şunlar boyunca tutarlı kalmalıdır:
 
 **Önceki dosya (bu dil):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
-**Sonraki dosya (hâlâ İngilizce):** [core_03_definition_integrity.md](../../core_03_definition_integrity.md)
+**Sonraki dosya (bu dil):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
 **Bağlayıcı asıl:** [core_02_definition_structure.md](../../core_02_definition_structure.md)

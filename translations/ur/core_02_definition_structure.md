@@ -10,7 +10,7 @@
 >
 > **پچھلا (اس لوکیل):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 >
-> **اگلا (ابھی انگریزی میں):** [core_03_definition_integrity.md](../../core_03_definition_integrity.md)
+> **اگلا (اس زبان میں):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 > **پڑھنے کا قوس:** §1 مقصد اور کردار (O/M/A/C) → §2 تعریف کی سالمیت → **§3 تعریف کے ڈھیر پار مطابقت**۔
 
 </details>
@@ -22,7 +22,7 @@
 >
 > باب **دوم تا پنجم** آئینی تعریف کا ڈھیر بناتے ہیں؛ **[CJS](../../corpus_joint_structure.md)** وہ عملی تعریفیں اٹھاتا ہے جو اسے لاگو کرتی ہیں:
 > - **باب دوم (یہ فائل)** — O/M/A/C تعریف کی ساخت اور اجزا کی ہم آہنگی: ہر تعریف **وجودی (O)** (یہ کیا ہے)، **پیمائش (M)** رجسٹر جو **جائزہ (A)** کے فرض کے ساتھ بُنا ہوا ہے (اسے کیسے ناپنا اور جانچنا چاہیے)، اور **اطاعت (C)** (کیا قائم رہنا چاہیے) کو جوڑتی ہے ([§1 مقصد اور کردار](core_02_definition_structure.md#1-purpose-and-role)؛ [§2 تعریف کی سالمیت کا تقاضا](core_02_definition_structure.md#2-definition-integrity-requirement))۔
-> - **باب سوم** — تعریف کی سالمیت، فرار، اور عدمِ اطاعت ([باب سوم](../../core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance))۔
+> - **باب سوم** — تعریف کی سالمیت، فرار، اور عدمِ اطاعت ([باب سوم](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance))۔
 > - **باب چہارم** — ثبوت کا بوجھ، تعریف کا سراغ، مشاہدہ پذیری، حفاظتی حدوں کے تحت تصدیق، اور تصدیق تک رسائی ([باب چہارم — ثبوت کا بوجھ، سراغ، اور تصدیق](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification))۔
 > - **باب پنجم** — پیمائش، جانچ، اور اطاعت کے لیے مشترکہ لغت (قطعے 1–3 میں آزاد، جھرمٹ، اور پیکج تعریفیں، پانچ چوکڑی پٹی فائلوں اور آئینی مقصد فائلوں کے پار: [شگفتگی مقصد](../../core_05_apex_flourishing_aim.md)، [نگرانی](../../core_05_band_oversight.md)، [شرکت](../../core_05_band_participation.md)، [جوابدہی](../../core_05_band_accountability.md)، [استمرار](../../core_05_band_continuity.md)، [انضمامی](../../core_05_band_integrative.md))؛ پڑھنے کا ترتیب اور نقشہ [حصہ الف](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map) میں۔
 > - **CJS** — بین نفاذ اصطلاحوں کی عملی تعریفیں ([CJS-3](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) عملی جھرمٹ کتب خانہ)؛ باب پنجم کے مستند گھروں کو لاگو کریں — انہیں دوبارہ تعریف نہ کریں۔ **CS**، **CI**، اور **CF** میں دائرہ جاتی درجہ بندیاں اور پروٹوکول وہی قاعدہ ماننے ہیں۔
@@ -49,7 +49,7 @@
 - بالائی: [تمہید §1 ماڈل](core_00_preamble.md#the-model) — [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad)، [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)، اور [مادی داؤ](core_00_preamble.md#material-stake) کا پیمانہ قطعے کے سراغوں کے ذریعے پورے باب پر لاگو ہوتا ہے؛ [باب یکم §1 مقصد اور کردار](core_01_a_values_principles.md#1-purpose-and-role) (*وہ اقدار اور پابندیاں جن کی یہ تعریف کا ڈھیر خدمت کرتا ہے*)۔
 - بالائی: [باب دوم کا آغاز](#chapter-two-definition-structure-and-component-requirements) — O/M/A/C تحلیل اور داخلی ہم آہنگی کا تقاضا۔
 - چوکڑی کی ٹانگ(یں): **نگرانی**، **جوابدہی** (تعریفیں قابلِ جائزہ اور قابلِ مشاہدہ رویے پر نافذ ہونی چاہییں)۔ بنیادی مقصد(مقاصد): **شگفتگی** اور **استمرار**۔ [مادی داؤ](core_00_preamble.md#material-stake) کا پیمانہ پورے باب پر لاگو ہوتا ہے۔
-- زیریں: [§1.2 پیمائش کے اجزا](#12-measurement-components) اور [§1.3 جائزے کے اجزا](#13-assessment-components) (*پیمائش (M) رجسٹر جائزے کے فرض کے ساتھ بُنا ہوا؛ اس باب میں O/M/A/C داخلے کی شکل*)؛ [§2 تعریف کی سالمیت کا تقاضا](#2-definition-integrity-requirement)؛ [باب سوم، قطعہ 1 — تعریف کی سالمیت اور فرار مخالف پابندیاں](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [باب چہارم، قطعہ 1 — خصوصی نفاذ اور بوجھ کی تقسیم](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)؛ [باب پنجم قطب نما اور تعریف کا نقشہ](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map)۔
+- زیریں: [§1.2 پیمائش کے اجزا](#12-measurement-components) اور [§1.3 جائزے کے اجزا](#13-assessment-components) (*پیمائش (M) رجسٹر جائزے کے فرض کے ساتھ بُنا ہوا؛ اس باب میں O/M/A/C داخلے کی شکل*)؛ [§2 تعریف کی سالمیت کا تقاضا](#2-definition-integrity-requirement)؛ [باب سوم، قطعہ 1 — تعریف کی سالمیت اور فرار مخالف پابندیاں](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [باب چہارم، قطعہ 1 — خصوصی نفاذ اور بوجھ کی تقسیم](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)؛ [باب پنجم قطب نما اور تعریف کا نقشہ](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map)۔
 - ساتھ پڑھیں: [تمہید — آئینی مالک رجسٹر](core_00_preamble.md#4-principles-definitions-and-rights) اور [اختیار کا ڈھیر اور داخلی مراتب](../../core_05_band_integrative.md#authority-stack)؛ [آئینی پابندی](../../core_05_band_integrative.md#constitutional-constraint) — بعد کا نفاذ، حکمرانی، عمل درآمد، پیمائش، آڈٹ، اور درجہ بندی کی میکانکس اطاعت کرے؛ [CJS-3.1 آئینی قطب نما اور جھرمٹ نقشہ](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — عملی تعریفیں باب پنجم کے مستند گھروں کو لاگو کرتی ہیں، اور انہیں دوبارہ تعریف نہیں کرتیں (MUST NOT)۔
 
 </details>
@@ -123,7 +123,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: اصول: [باب دوم کا آغاز](#chapter-two-definition-structure-and-component-requirements)؛ [§1 مقصد اور کردار](#1-purpose-and-role) — O/M/A/C تحلیل کے اندر جزو A کا کردار۔
-- زیریں: [باب سوم، قطعہ 1 — تعریف کی سالمیت اور فرار مخالف پابندیاں](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [باب چہارم، قطعہ 1 — خصوصی نفاذ اور بوجھ کی تقسیم](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — باب دوم اور سوم میں بیان جائزے کے تقاضوں کے لیے خصوصی نفاذ کا نامزد راستہ؛ [باب چہارم، قطعہ 5 — اطاعت ثبوت کا معیار](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — اس نفاذ کے لیے ثبوت کی کفایت۔
+- زیریں: [باب سوم، قطعہ 1 — تعریف کی سالمیت اور فرار مخالف پابندیاں](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [باب چہارم، قطعہ 1 — خصوصی نفاذ اور بوجھ کی تقسیم](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — باب دوم اور سوم میں بیان جائزے کے تقاضوں کے لیے خصوصی نفاذ کا نامزد راستہ؛ [باب چہارم، قطعہ 5 — اطاعت ثبوت کا معیار](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — اس نفاذ کے لیے ثبوت کی کفایت۔
 - ساتھ پڑھیں: [باب پنجم کی آزاد تعریفیں](../../core_05__definitions_home.md#1-interdependent-definitions) — قابلِ اطلاق تعریفیں جو جائزے کے دائرے اور شرائط چلاتی ہیں؛ جائزے کے تقاضے ہر قابلِ اطلاق باب پنجم تعریف کے ساتھ اس کے داخلے کے دائرے میں مطابق لاگو ہوتے ہیں۔
 
 </details>
@@ -193,7 +193,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [§1 مقصد اور کردار](#1-purpose-and-role) — O/M/A/C اجزا کی ساخت اور پورے نظام کی مشترکہ تکمیل کا قاعدہ۔
-- زیریں: [§2.4 ابہام کے تحت تفسیر کا قاعدہ](#24-interpretation-rule-under-ambiguity)؛ [§3 تعریف کے ڈھیر پار مطابقت](#3-consistency-across-the-definition-stack)؛ [باب سوم، قطعہ 1 — تعریف کی سالمیت اور فرار مخالف پابندیاں](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [باب چہارم، قطعہ 1 — خصوصی نفاذ اور بوجھ کی تقسیم](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)؛ [باب چہارم، قطعہ 5 — اطاعت ثبوت کا معیار](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard)۔
+- زیریں: [§2.4 ابہام کے تحت تفسیر کا قاعدہ](#24-interpretation-rule-under-ambiguity)؛ [§3 تعریف کے ڈھیر پار مطابقت](#3-consistency-across-the-definition-stack)؛ [باب سوم، قطعہ 1 — تعریف کی سالمیت اور فرار مخالف پابندیاں](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [باب چہارم، قطعہ 1 — خصوصی نفاذ اور بوجھ کی تقسیم](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)؛ [باب چہارم، قطعہ 5 — اطاعت ثبوت کا معیار](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard)۔
 - ساتھ پڑھیں: [باب پنجم کی جھرمٹ تعریفیں (پیش بینی کی مستعدی)](../../core_05_band_oversight.md#foreseeability-diligence) — باب دوم تا چہارم میں ہر «معقول طور پر پیش بینی کے قابل» کا عملی معنی۔
 
 </details>
@@ -242,7 +242,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: اصول: [§2 تعریف کی سالمیت کا تقاضا](#2-definition-integrity-requirement)؛ [§1 مقصد اور کردار](#1-purpose-and-role)۔
-- زیریں: [باب سوم، قطعہ 2 — قابلِ مشاہدہ نظامی رویے سے عدمِ اطاعت](../../core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)؛ [باب چہارم، قطعہ 2 — تعریف سراغ کا تقاضا](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement)؛ باب چہارم کے قطعے **4.1**، **3**، **5**، اور **6** جہاں «معقول طور پر پیش بینی کے قابل» بغیر باب پنجم کے ان لائن اشارے کے آئے۔
+- زیریں: [باب سوم، قطعہ 2 — قابلِ مشاہدہ نظامی رویے سے عدمِ اطاعت](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)؛ [باب چہارم، قطعہ 2 — تعریف سراغ کا تقاضا](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement)؛ باب چہارم کے قطعے **4.1**، **3**، **5**، اور **6** جہاں «معقول طور پر پیش بینی کے قابل» بغیر باب پنجم کے ان لائن اشارے کے آئے۔
 - ساتھ پڑھیں: [باب پنجم کی جھرمٹ تعریفیں (پیش بینی کی مستعدی)](../../core_05_band_oversight.md#foreseeability-diligence) — باب دوم تا چہارم میں ہر «معقول طور پر پیش بینی کے قابل» کا حکمران قاعدہ؛ عملی معنی [معقول طور پر پیش بینی کے قابل](../../core_05_band_oversight.md#reasonably-foreseeable) میں (باب پنجم، قطعہ 3 — تابع جھرمٹ (سچائی اور حقائق کی دیانت جھرمٹ؛ پیش بینی کی مستعدی))۔
 
 </details>
@@ -262,6 +262,6 @@
 
 **پچھلی فائل:** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
-**اگلی فائل (ابھی انگریزی میں):** [core_03_definition_integrity.md](../../core_03_definition_integrity.md)
+**اگلی فائل (اس زبان میں):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
 **پابند اصل:** [core_02_definition_structure.md](../../core_02_definition_structure.md)

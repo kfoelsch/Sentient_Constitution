@@ -10,7 +10,7 @@
 >
 > **ก่อนหน้า (ภาษานี้):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 >
-> **ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_03_definition_integrity.md](../../core_03_definition_integrity.md)
+> **ถัดไป (ภาษานี้):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 > **ส่วนโค้งการอ่าน:** §1 จุดประสงค์และบทบาท (O/M/A/C) → §2 ข้อกำหนดความครบถ้วนของบทนิยาม → **§3 ความสอดคล้องข้ามกองบทนิยาม**
 
 </details>
@@ -22,7 +22,7 @@
 >
 > บท **ที่สองถึงห้า** เป็นกองบทนิยามทางรัฐธรรมนูญ; **[CJS](../../corpus_joint_structure.md)** บรรทุกบทนิยามปฏิบัติการที่ใช้กองนั้น:
 > - **บทที่สอง (ไฟล์นี้)** — โครงสร้างบทนิยาม O/M/A/C และการจัดแนวองค์ประกอบ: ทุกบทนิยามเชื่อม **ภววิทยา (O)** (มันคืออะไร) ทะเบียน **การวัด (M)** ที่สานเข้ากับหน้าที่ **การประเมิน (A)** (ต้องวัดและประเมินอย่างไร) และ **การปฏิบัติตาม (C)** (สิ่งที่ต้องคงอยู่) ([§1 จุดประสงค์และบทบาท](core_02_definition_structure.md#1-purpose-and-role); [§2 ข้อกำหนดความครบถ้วนของบทนิยาม](core_02_definition_structure.md#2-definition-integrity-requirement))
-> - **บทที่สาม** — ความครบถ้วนของบทนิยาม การหลบ และการไม่ปฏิบัติตาม ([บทที่สาม](../../core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance))
+> - **บทที่สาม** — ความครบถ้วนของบทนิยาม การหลบ และการไม่ปฏิบัติตาม ([บทที่สาม](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance))
 > - **บทที่สี่** — ภาระพิสูจน์ ความสามารถในการตามรอยบทนิยาม ความสังเกตได้ การตรวจสอบภายใต้ขีดจำกัดความมั่นคง และความเข้าถึงได้ของการตรวจสอบ ([บทที่สี่ — ภาระการพิสูจน์ ความสามารถในการตามรอย และการตรวจสอบ](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification))
 > - **บทที่ห้า** — คำศัพท์ร่วมสำหรับการวัด การประเมิน และการปฏิบัติตาม (บทนิยามอิสระ บทนิยามกลุ่ม และบทนิยามแพ็กเกจในหมวด 1–3 ข้ามห้าไฟล์แถบจตุรภาคและไฟล์เป้าประสงค์ทางรัฐธรรมนูญ: [เป้าประสงค์ความเจริญงอกงาม](../../core_05_apex_flourishing_aim.md) [การกำกับดูแล](../../core_05_band_oversight.md) [การมีส่วนร่วม](../../core_05_band_participation.md) [ความรับผิดชอบ](../../core_05_band_accountability.md) [ความต่อเนื่อง](../../core_05_band_continuity.md) [เชิงบูรณาการ](../../core_05_band_integrative.md)); ลำดับการอ่านและแผนที่ใน [ส่วน ก](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map)
 > - **CJS** — บทนิยามปฏิบัติการสำหรับคำศัพท์ข้ามการนำไปใช้ ([CJS-3](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) คลังคลัสเตอร์ปฏิบัติการ); ใช้บ้านฉบับหลักของบทที่ห้า — อย่านิยามใหม่ อนุกรมวิธานโดเมนและพิธีการใน **CS** **CI** และ **CF** ตามกฎเดียวกัน
@@ -49,7 +49,7 @@
 - ต้นทาง: [คำปรารภ §1 แบบจำลอง](core_00_preamble.md#the-model) — [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) และการปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) ใช้ทั่วบทผ่านตามรอยของหมวด; [บทที่หนึ่ง §1 จุดประสงค์และบทบาท](core_01_a_values_principles.md#1-purpose-and-role) (*ค่านิยมและข้อจำกัดที่กองบทนิยามนี้รับใช้*)
 - ต้นทาง: [การเปิดบทที่สอง](#chapter-two-definition-structure-and-component-requirements) — การแยกส่วน O/M/A/C และข้อกำหนดการจัดแนวภายใน
 - ขาของจตุรภาค: **การกำกับดูแล**, **ความรับผิดชอบ** (บทนิยามต้องประเมินได้และบังคับใช้ได้บนความประพฤติที่สังเกตได้) เป้าประสงค์หลัก: **ความเจริญงอกงาม** และ **ความต่อเนื่อง** การปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) ใช้ทั่วบท
-- ปลายทาง: [§1.2 องค์ประกอบการวัด](#12-measurement-components) และ [§1.3 องค์ประกอบการประเมิน](#13-assessment-components) (*ทะเบียนการวัด (M) ที่สานเข้ากับหน้าที่การประเมิน; รูปทางเข้า O/M/A/C ในบทนี้*); [§2 ข้อกำหนดความครบถ้วนของบทนิยาม](#2-definition-integrity-requirement); [บทที่สาม หมวด 1 — ความครบถ้วนของบทนิยามและข้อจำกัดต้านการหลบ](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [บทที่สี่ หมวด 1 — การบังคับใช้เฉพาะและการจัดสรรภาระ](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [เข็มทิศและแผนที่บทนิยามของบทที่ห้า](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map)
+- ปลายทาง: [§1.2 องค์ประกอบการวัด](#12-measurement-components) และ [§1.3 องค์ประกอบการประเมิน](#13-assessment-components) (*ทะเบียนการวัด (M) ที่สานเข้ากับหน้าที่การประเมิน; รูปทางเข้า O/M/A/C ในบทนี้*); [§2 ข้อกำหนดความครบถ้วนของบทนิยาม](#2-definition-integrity-requirement); [บทที่สาม หมวด 1 — ความครบถ้วนของบทนิยามและข้อจำกัดต้านการหลบ](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [บทที่สี่ หมวด 1 — การบังคับใช้เฉพาะและการจัดสรรภาระ](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [เข็มทิศและแผนที่บทนิยามของบทที่ห้า](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map)
 - อ่านคู่กับ: [คำปรารภ — ทะเบียนเจ้าของเชิงบวกทางรัฐธรรมนูญ](core_00_preamble.md#4-principles-definitions-and-rights) และ [กองอำนาจและลำดับชั้นภายใน](../../core_05_band_integrative.md#authority-stack); [ข้อจำกัดทางรัฐธรรมนูญ](../../core_05_band_integrative.md#constitutional-constraint) — การบังคับใช้ การปกครอง การนำไปใช้ การวัด การตรวจ และกลไกการจำแนกในภายหลังต้องปฏิบัติตาม; [CJS-3.1 เข็มทิศทางรัฐธรรมนูญและแผนที่คลัสเตอร์](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — บทนิยามปฏิบัติการใช้ และต้องไม่นิยามใหม่ บ้านฉบับหลักของบทที่ห้า
 
 </details>
@@ -123,7 +123,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ต้นทาง: หลักการ: [การเปิดบทที่สอง](#chapter-two-definition-structure-and-component-requirements); [§1 จุดประสงค์และบทบาท](#1-purpose-and-role) — บทบาทองค์ประกอบ A ภายในการแยกส่วน O/M/A/C
-- ปลายทาง: [บทที่สาม หมวด 1 — ความครบถ้วนของบทนิยามและข้อจำกัดต้านการหลบ](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [บทที่สี่ หมวด 1 — การบังคับใช้เฉพาะและการจัดสรรภาระ](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — เส้นทางบังคับใช้เฉพาะที่มีชื่อสำหรับข้อกำหนดการประเมินที่นิยามในบทที่สองและสาม; [บทที่สี่ หมวด 5 — มาตรฐานหลักฐานการปฏิบัติตาม](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — ความพอเพียงของหลักฐานสำหรับการบังคับใช้นั้น
+- ปลายทาง: [บทที่สาม หมวด 1 — ความครบถ้วนของบทนิยามและข้อจำกัดต้านการหลบ](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [บทที่สี่ หมวด 1 — การบังคับใช้เฉพาะและการจัดสรรภาระ](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — เส้นทางบังคับใช้เฉพาะที่มีชื่อสำหรับข้อกำหนดการประเมินที่นิยามในบทที่สองและสาม; [บทที่สี่ หมวด 5 — มาตรฐานหลักฐานการปฏิบัติตาม](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — ความพอเพียงของหลักฐานสำหรับการบังคับใช้นั้น
 - อ่านคู่กับ: [บทนิยามอิสระของบทที่ห้า](../../core_05__definitions_home.md#1-interdependent-definitions) — บทนิยามที่ใช้ซึ่งกำกับขอบเขตและเงื่อนไขของการประเมิน; ข้อกำหนดการประเมินใช้สอดคล้องกับทุกบทนิยามบทที่ห้าที่ใช้ภายในขอบเขตการรับเข้าของมัน
 
 </details>
@@ -193,7 +193,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ต้นทาง: [§1 จุดประสงค์และบทบาท](#1-purpose-and-role) — โครงสร้างองค์ประกอบ O/M/A/C และกฎการสนองร่วมทั้งระบบ
-- ปลายทาง: [§2.4 กฎการตีความเมื่อคลุมเครือ](#24-interpretation-rule-under-ambiguity); [§3 ความสอดคล้องข้ามกองบทนิยาม](#3-consistency-across-the-definition-stack); [บทที่สาม หมวด 1 — ความครบถ้วนของบทนิยามและข้อจำกัดต้านการหลบ](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [บทที่สี่ หมวด 1 — การบังคับใช้เฉพาะและการจัดสรรภาระ](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [บทที่สี่ หมวด 5 — มาตรฐานหลักฐานการปฏิบัติตาม](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard)
+- ปลายทาง: [§2.4 กฎการตีความเมื่อคลุมเครือ](#24-interpretation-rule-under-ambiguity); [§3 ความสอดคล้องข้ามกองบทนิยาม](#3-consistency-across-the-definition-stack); [บทที่สาม หมวด 1 — ความครบถ้วนของบทนิยามและข้อจำกัดต้านการหลบ](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [บทที่สี่ หมวด 1 — การบังคับใช้เฉพาะและการจัดสรรภาระ](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [บทที่สี่ หมวด 5 — มาตรฐานหลักฐานการปฏิบัติตาม](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard)
 - อ่านคู่กับ: [บทนิยามคลัสเตอร์ของบทที่ห้า (ความขยันในการคาดการณ์ได้)](../../core_05_band_oversight.md#foreseeability-diligence) — ความหมายที่ใช้ปฏิบัติสำหรับทุก «คาดการณ์ได้อย่างสมเหตุ» ในบทที่สองถึงสี่
 
 </details>
@@ -242,7 +242,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ต้นทาง: หลักการ: [§2 ข้อกำหนดความครบถ้วนของบทนิยาม](#2-definition-integrity-requirement); [§1 จุดประสงค์และบทบาท](#1-purpose-and-role)
-- ปลายทาง: [บทที่สาม หมวด 2 — การไม่ปฏิบัติตามจากความประพฤติของระบบที่สังเกตได้](../../core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [บทที่สี่ หมวด 2 — ข้อกำหนดความสามารถในการตามรอยบทนิยาม](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement); หมวด **4.1** **3** **5** และ **6** ของบทที่สี่ ในที่ที่ «คาดการณ์ได้อย่างสมเหตุ» ปรากฏโดยไม่มีตัวชี้บทที่ห้าในบรรทัด
+- ปลายทาง: [บทที่สาม หมวด 2 — การไม่ปฏิบัติตามจากความประพฤติของระบบที่สังเกตได้](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [บทที่สี่ หมวด 2 — ข้อกำหนดความสามารถในการตามรอยบทนิยาม](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement); หมวด **4.1** **3** **5** และ **6** ของบทที่สี่ ในที่ที่ «คาดการณ์ได้อย่างสมเหตุ» ปรากฏโดยไม่มีตัวชี้บทที่ห้าในบรรทัด
 - อ่านคู่กับ: [บทนิยามคลัสเตอร์ของบทที่ห้า (ความขยันในการคาดการณ์ได้)](../../core_05_band_oversight.md#foreseeability-diligence) — กฎที่กำกับทุก «คาดการณ์ได้อย่างสมเหตุ» ในบทที่สองถึงสี่; ความหมายที่ใช้ปฏิบัติใน [ที่คาดการณ์ได้อย่างสมเหตุ](../../core_05_band_oversight.md#reasonably-foreseeable) (บทที่ห้า หมวด 3 — คลัสเตอร์ที่พึ่ง (คลัสเตอร์ความจริงและความครบถ้วนของความรู้; ความขยันในการคาดการณ์ได้))
 
 </details>
@@ -262,6 +262,6 @@
 
 **ไฟล์ก่อนหน้า:** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
-**ไฟล์ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_03_definition_integrity.md](../../core_03_definition_integrity.md)
+**ไฟล์ถัดไป (ภาษานี้):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
 **ต้นฉบับที่มีผลผูกพัน:** [core_02_definition_structure.md](../../core_02_definition_structure.md)

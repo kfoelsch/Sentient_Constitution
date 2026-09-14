@@ -10,7 +10,7 @@
 >
 > **मागील (या भाषेत):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 >
-> **पुढील (अजून इंग्रजीत):** [core_03_definition_integrity.md](../../core_03_definition_integrity.md)
+> **पुढील (या भाषेत):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 > **वाचन चाप:** §1 उद्दिष्ट आणि भूमिका (O/M/A/C) → §2 व्याख्या-सचोटी अपेक्षा → **§3 व्याख्या ढेरात सुसंगतता**.
 
 </details>
@@ -22,7 +22,7 @@
 >
 > अध्याय **दोन ते पाच** संवैधानिक व्याख्या ढेर बनवतात; **[CJS](../../corpus_joint_structure.md)** तो ढेर लागू करणाऱ्या संक्रियात्मक व्याख्या वाहून नेतो:
 > - **अध्याय दोन (ही फाइल)** — O/M/A/C व्याख्या रचना आणि घटक संरेखन: प्रत्येक व्याख्या **सत्तामीमांसा (O)** (ते काय आहे), **मूल्यमापन (A)** कर्तव्यात विणलेली **मापन (M)** नोंदणी (कसे मापावे आणि मूल्यमापन करावे), आणि **अनुपालन (C)** (काय टिकले पाहिजे) जोडते ([§1 उद्दिष्ट आणि भूमिका](core_02_definition_structure.md#1-purpose-and-role); [§2 व्याख्या-सचोटी अपेक्षा](core_02_definition_structure.md#2-definition-integrity-requirement)).
-> - **अध्याय तीन** — व्याख्या सचोटी, टाळाटाळ आणि अनुपालन-भंग ([अध्याय तीन](../../core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).
+> - **अध्याय तीन** — व्याख्या सचोटी, टाळाटाळ आणि अनुपालन-भंग ([अध्याय तीन](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).
 > - **अध्याय चार** — प्रमाण भार, व्याख्या माग-काढता येणे, प्रेक्षणीयता, सुरक्षा मर्यादांखाली सत्यापन, आणि सत्यापन सुलभता ([अध्याय चार — प्रमाण भार, माग-काढता येणे आणि सत्यापन](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)).
 > - **अध्याय पाच** — मापन, मूल्यमापन आणि अनुपालनासाठी सामायिक शब्दसंग्रह (स्वतंत्र, समूहित आणि पॅकेज व्याख्या विभाग 1–3 मध्ये, पाच चतुष्क-पट्टी फाइल आणि संवैधानिक उद्दिष्ट फाइलांतून: [समुन्नती उद्दिष्ट](../../core_05_apex_flourishing_aim.md), [देखरेख](../../core_05_band_oversight.md), [सहभाग](../../core_05_band_participation.md), [उत्तरदायित्व](../../core_05_band_accountability.md), [सातत्य](../../core_05_band_continuity.md), [एकात्मक](../../core_05_band_integrative.md)); वाचन क्रम आणि नकाशा [भाग अ](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map) मध्ये.
 > - **CJS** — क्रॉस-अंमलबजावणी संक्रियात्मक पदांच्या संक्रियात्मक व्याख्या ([CJS-3](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) संक्रियात्मक समूह ग्रंथालय); अध्याय पाचची प्रामाणिक घर लागू करा — त्यांची पुनर्व्याख्या करू नका. **CS**, **CI** आणि **CF** मधील क्षेत्र वर्गीकरणे आणि प्रोटोकॉल त्याच नियमाला अनुसरतात.
@@ -49,7 +49,7 @@
 - वरून: [प्रस्तावना §1 नमुना](core_00_preamble.md#the-model) — [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad), [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims), आणि [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन खंड-मागोव्यांद्वारे संपूर्ण अध्यायावर लागू होतात; [अध्याय एक §1 उद्दिष्ट आणि भूमिका](core_01_a_values_principles.md#1-purpose-and-role) (*जी मूल्ये आणि बंधने या व्याख्या ढेराला सेवा देतात*).
 - वरून: [अध्याय दोन आरंभ](#chapter-two-definition-structure-and-component-requirements) — O/M/A/C विघटन आणि अंतर्गत-संरेखन अपेक्षा.
 - चतुष्क पाया: **देखरेख**, **उत्तरदायित्व** (व्याख्या प्रेक्षणीय वर्तनावर मूल्यमापनयोग्य आणि अंमलबजावणीयोग्य राहायला हव्यात). प्राथमिक उद्दिष्टे: **समुन्नती** आणि **सातत्य**. [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन संपूर्ण अध्यायावर लागू होते.
-- पुढे: [§1.2 मापन घटक](#12-measurement-components) आणि [§1.3 मूल्यमापन घटक](#13-assessment-components) (*मूल्यमापन कर्तव्यात विणलेली मापन (M) नोंदणी; या अध्यायातील O/M/A/C प्रवेश आकार*); [§2 व्याख्या-सचोटी अपेक्षा](#2-definition-integrity-requirement); [अध्याय तीन, विभाग 1 — व्याख्या सचोटी आणि टाळाटाळ-निरोध बंधने](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [अध्याय चार, विभाग 1 — एकमेव अंमलबजावणी आणि भार वाटप](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [अध्याय पाच दिशा-सूचक आणि व्याख्या नकाशा](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map).
+- पुढे: [§1.2 मापन घटक](#12-measurement-components) आणि [§1.3 मूल्यमापन घटक](#13-assessment-components) (*मूल्यमापन कर्तव्यात विणलेली मापन (M) नोंदणी; या अध्यायातील O/M/A/C प्रवेश आकार*); [§2 व्याख्या-सचोटी अपेक्षा](#2-definition-integrity-requirement); [अध्याय तीन, विभाग 1 — व्याख्या सचोटी आणि टाळाटाळ-निरोध बंधने](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [अध्याय चार, विभाग 1 — एकमेव अंमलबजावणी आणि भार वाटप](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [अध्याय पाच दिशा-सूचक आणि व्याख्या नकाशा](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 - सोबत वाचा: [प्रस्तावना — सकारात्मक मालक नोंदणी](core_00_preamble.md#4-principles-definitions-and-rights) आणि [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](../../core_05_band_integrative.md#authority-stack); [संवैधानिक बंधन](../../core_05_band_integrative.md#constitutional-constraint) — नंतरची अंमलबजावणी, शासन, अंमल, मापन, लेखापरीक्षण आणि वर्गीकरण यांत्रिकी यांचे पालन व्हायला हवे; [CJS-3.1 संवैधानिक दिशा-सूचक आणि समूह नकाशा](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — संक्रियात्मक व्याख्या लागू करतात, आणि अध्याय पाचच्या प्रामाणिक घरांची पुनर्व्याख्या करू नये.
 
 </details>
@@ -123,7 +123,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: तत्त्वे: [अध्याय दोन आरंभ](#chapter-two-definition-structure-and-component-requirements); [§1 उद्दिष्ट आणि भूमिका](#1-purpose-and-role) — O/M/A/C विघटनात A घटकाची भूमिका.
-- पुढे: [अध्याय तीन, विभाग 1 — व्याख्या सचोटी आणि टाळाटाळ-निरोध बंधने](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [अध्याय चार, विभाग 1 — एकमेव अंमलबजावणी आणि भार वाटप](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — अध्याय दोन आणि तीनमध्ये व्याख्या केलेल्या मूल्यमापन अपेक्षांसाठी एकमेव अंमलबजावणी मार्ग; [अध्याय चार, विभाग 5 — अनुपालन-पुरावा मानक](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — त्या अंमलबजावणीसाठी पुरावा पुरेसा आहे का.
+- पुढे: [अध्याय तीन, विभाग 1 — व्याख्या सचोटी आणि टाळाटाळ-निरोध बंधने](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [अध्याय चार, विभाग 1 — एकमेव अंमलबजावणी आणि भार वाटप](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — अध्याय दोन आणि तीनमध्ये व्याख्या केलेल्या मूल्यमापन अपेक्षांसाठी एकमेव अंमलबजावणी मार्ग; [अध्याय चार, विभाग 5 — अनुपालन-पुरावा मानक](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — त्या अंमलबजावणीसाठी पुरावा पुरेसा आहे का.
 - सोबत वाचा: [अध्याय पाचच्या स्वतंत्र व्याख्या](../../core_05__definitions_home.md#1-interdependent-definitions) — मूल्यमापन व्याप्ती आणि अटी शासित करणाऱ्या लागू व्याख्या; मूल्यमापन अपेक्षा प्रत्येक लागू अध्याय-पाच व्याख्येच्या प्रवेश व्याप्तीत सुसंगत लागू होतात.
 
 </details>
@@ -193,7 +193,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: [§1 उद्दिष्ट आणि भूमिका](#1-purpose-and-role) — O/M/A/C घटक रचना आणि संपूर्ण-प्रणाली संयुक्त-पूर्तता नियम.
-- पुढे: [§2.4 अस्पष्टतेखाली अर्थनिर्णय नियम](#24-interpretation-rule-under-ambiguity); [§3 व्याख्या ढेरात सुसंगतता](#3-consistency-across-the-definition-stack); [अध्याय तीन, विभाग 1 — व्याख्या सचोटी आणि टाळाटाळ-निरोध बंधने](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [अध्याय चार, विभाग 1 — एकमेव अंमलबजावणी आणि भार वाटप](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [अध्याय चार, विभाग 5 — अनुपालन-पुरावा मानक](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
+- पुढे: [§2.4 अस्पष्टतेखाली अर्थनिर्णय नियम](#24-interpretation-rule-under-ambiguity); [§3 व्याख्या ढेरात सुसंगतता](#3-consistency-across-the-definition-stack); [अध्याय तीन, विभाग 1 — व्याख्या सचोटी आणि टाळाटाळ-निरोध बंधने](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [अध्याय चार, विभाग 1 — एकमेव अंमलबजावणी आणि भार वाटप](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [अध्याय चार, विभाग 5 — अनुपालन-पुरावा मानक](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
 - सोबत वाचा: [अध्याय पाचच्या समूहित व्याख्या (पूर्वानुमेयता दक्षता)](../../core_05_band_oversight.md#foreseeability-diligence) — अध्याय दोन ते चारमधील प्रत्येक «यथोचित पूर्वानुमेय» चा संक्रियात्मक अर्थ.
 
 </details>
@@ -242,7 +242,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: तत्त्वे: [§2 व्याख्या-सचोटी अपेक्षा](#2-definition-integrity-requirement); [§1 उद्दिष्ट आणि भूमिका](#1-purpose-and-role).
-- पुढे: [अध्याय तीन, विभाग 2 — प्रेक्षणीय प्रणाली वर्तनातून अनुपालन-भंग](../../core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [अध्याय चार, विभाग 2 — व्याख्या माग-काढता येणे अपेक्षा](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement); अध्याय चारचे विभाग **4.1**, **3**, **5** आणि **6** जिथे «यथोचित पूर्वानुमेय» अध्याय पाचकडे इनलाइन निर्देश न देता येते.
+- पुढे: [अध्याय तीन, विभाग 2 — प्रेक्षणीय प्रणाली वर्तनातून अनुपालन-भंग](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [अध्याय चार, विभाग 2 — व्याख्या माग-काढता येणे अपेक्षा](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement); अध्याय चारचे विभाग **4.1**, **3**, **5** आणि **6** जिथे «यथोचित पूर्वानुमेय» अध्याय पाचकडे इनलाइन निर्देश न देता येते.
 - सोबत वाचा: [अध्याय पाचच्या समूहित व्याख्या (पूर्वानुमेयता दक्षता)](../../core_05_band_oversight.md#foreseeability-diligence) — अध्याय दोन ते चारमधील प्रत्येक «यथोचित पूर्वानुमेय» शासित करणारा नियम; संक्रियात्मक अर्थ [यथोचित पूर्वानुमेय](../../core_05_band_oversight.md#reasonably-foreseeable) मध्ये (अध्याय पाच, विभाग 3 — आश्रित समूह (सत्य आणि ज्ञानविषयक अखंडता समूह; पूर्वानुमेयता दक्षता)).
 
 </details>
@@ -262,6 +262,6 @@
 
 **मागील फाइल:** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
-**पुढील फाइल (अजून इंग्रजीत):** [core_03_definition_integrity.md](../../core_03_definition_integrity.md)
+**पुढील फाइल (या भाषेत):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
 **बंधनकारक मूळ:** [core_02_definition_structure.md](../../core_02_definition_structure.md)

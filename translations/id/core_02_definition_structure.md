@@ -10,7 +10,7 @@
 >
 > **Sebelumnya (lokal ini):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 >
-> **Berikutnya (masih bahasa Inggris):** [core_03_definition_integrity.md](../../core_03_definition_integrity.md)
+> **Berikutnya (bahasa ini):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 > **Alur baca:** §1 tujuan dan peran (O/M/A/C) → §2 integritas definisi → **§3 konsistensi di seluruh tumpukan definisi**.
 
 </details>
@@ -22,7 +22,7 @@
 >
 > Bab **Dua sampai Lima** membentuk tumpukan definisi konstitusional; **[CJS](../../corpus_joint_structure.md)** membawa definisi operasional yang menerapkannya:
 > - **Bab Dua (berkas ini)** — struktur definisi O/M/A/C dan keselarasan komponen: setiap definisi menautkan **Ontologis (O)** (apa itu), daftar **Pengukuran (M)** yang dijalin dengan kewajiban **Penilaian (A)** (cara harus diukur dan dinilai), dan **Kepatuhan (C)** (apa yang harus berlaku) ([§1 Tujuan dan Peran](core_02_definition_structure.md#1-purpose-and-role); [§2 Persyaratan Integritas Definisi](core_02_definition_structure.md#2-definition-integrity-requirement)).
-> - **Bab Tiga** — integritas definisi, pengelakan, dan ketidakpatuhan ([Bab Tiga](../../core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).
+> - **Bab Tiga** — integritas definisi, pengelakan, dan ketidakpatuhan ([Bab Tiga](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).
 > - **Bab Empat** — beban pembuktian, ketelusuran definisi, observabilitas, verifikasi di bawah batas keamanan, dan aksesibilitas verifikasi ([Bab Empat — Beban Pembuktian, Ketelusuran, dan Verifikasi](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)).
 > - **Bab Lima** — kosa kata bersama untuk pengukuran, evaluasi, dan kepatuhan (definisi mandiri, berkelompok, dan paket di bagian 1–3 lintas lima berkas pita Tetrad dan berkas tujuan konstitusional: [Tujuan Berkembang](../../core_05_apex_flourishing_aim.md), [Pengawasan](../../core_05_band_oversight.md), [Partisipasi](../../core_05_band_participation.md), [Pertanggungjawaban](../../core_05_band_accountability.md), [Kesinambungan](../../core_05_band_continuity.md), [Integratif](../../core_05_band_integrative.md)); urutan baca dan peta di [Bagian A](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 > - **CJS** — definisi operasional bagi istilah lintas-implementasi ([CJS-3](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) pustaka klaster operasional); terapkan rumah kanonik Bab Lima — jangan mendefinisikannya ulang. Taksonomi ranah dan protokol di **CS**, **CI**, dan **CF** mengikuti aturan yang sama.
@@ -49,7 +49,7 @@ Bab Dua adalah pemilik konstitusional atas **struktur definisi dan keselarasan k
 - Hulu: [Pembukaan §1 Model](core_00_preamble.md#the-model) — [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad), [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims), dan penskalaan [taruhan material](core_00_preamble.md#material-stake) berlaku di seluruh bab lewat jejak rujukan setiap bagian; [Bab Satu §1 Tujuan dan Peran](core_01_a_values_principles.md#1-purpose-and-role) (*nilai dan batasan yang dilayani tumpukan definisi ini*).
 - Hulu: [Pembukaan Bab Dua](#chapter-two-definition-structure-and-component-requirements) — dekomposisi O/M/A/C dan persyaratan keselarasan internal.
 - Kaki Tetrad: **pengawasan**, **pertanggungjawaban** (definisi harus dapat dinilai dan ditegakkan atas perilaku yang dapat diamati). Tujuan utama: **Berkembang** dan **Kesinambungan**. Penskalaan [taruhan material](core_00_preamble.md#material-stake) berlaku di seluruh bab.
-- Hilir: [§1.2 Komponen Pengukuran](#12-measurement-components) dan [§1.3 Komponen Penilaian](#13-assessment-components) (*daftar Pengukuran (M) yang dijalin dengan kewajiban penilaian; bentuk entri O/M/A/C dalam bab ini*); [§2 Persyaratan Integritas Definisi](#2-definition-integrity-requirement); [Bab Tiga, bagian 1 — Integritas Definisi dan Batasan Anti-Pengelakan](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Bab Empat, bagian 1 — Penegakan Eksklusif dan Alokasi Beban](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [kompas dan peta definisi Bab Lima](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map).
+- Hilir: [§1.2 Komponen Pengukuran](#12-measurement-components) dan [§1.3 Komponen Penilaian](#13-assessment-components) (*daftar Pengukuran (M) yang dijalin dengan kewajiban penilaian; bentuk entri O/M/A/C dalam bab ini*); [§2 Persyaratan Integritas Definisi](#2-definition-integrity-requirement); [Bab Tiga, bagian 1 — Integritas Definisi dan Batasan Anti-Pengelakan](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Bab Empat, bagian 1 — Penegakan Eksklusif dan Alokasi Beban](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [kompas dan peta definisi Bab Lima](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 - Baca bersama: [Pembukaan — daftar pemilik konstitusional](core_00_preamble.md#4-principles-definitions-and-rights) dan [Tumpukan wewenang dan hierarki internal](../../core_05_band_integrative.md#authority-stack); [Batasan Konstitusional](../../core_05_band_integrative.md#constitutional-constraint) — penegakan, tata kelola, implementasi, pengukuran, audit, dan mekanika klasifikasi kemudian harus patuh; [CJS-3.1 Kompas konstitusional dan peta klaster](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — definisi operasional menerapkan, dan TIDAK BOLEH mendefinisikan ulang, rumah kanonik Bab Lima.
 
 </details>
@@ -123,7 +123,7 @@ Definisi daun Bab Lima harus membawa persyaratan M itu memakai bentuk komponen P
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: Prinsip: [Pembukaan Bab Dua](#chapter-two-definition-structure-and-component-requirements); [§1 Tujuan dan Peran](#1-purpose-and-role) — peran komponen A di dalam dekomposisi O/M/A/C.
-- Hilir: [Bab Tiga, bagian 1 — Integritas Definisi dan Batasan Anti-Pengelakan](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Bab Empat, bagian 1 — Penegakan Eksklusif dan Alokasi Beban](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — jalur penegakan eksklusif bagi persyaratan evaluasi yang didefinisikan di Bab Dua dan Tiga; [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — kecukupan bukti bagi penegakan itu.
+- Hilir: [Bab Tiga, bagian 1 — Integritas Definisi dan Batasan Anti-Pengelakan](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Bab Empat, bagian 1 — Penegakan Eksklusif dan Alokasi Beban](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — jalur penegakan eksklusif bagi persyaratan evaluasi yang didefinisikan di Bab Dua dan Tiga; [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — kecukupan bukti bagi penegakan itu.
 - Baca bersama: [Definisi Independen Bab Lima](../../core_05__definitions_home.md#1-interdependent-definitions) — definisi yang berlaku yang mengatur cakupan dan kondisi penilaian; persyaratan penilaian berlaku secara konsisten dengan setiap definisi Bab Lima yang berlaku di dalam cakupan penerimaannya.
 
 </details>
@@ -193,7 +193,7 @@ Definisi daun Bab Lima harus membawa persyaratan C itu memakai bentuk komponen K
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: [§1 Tujuan dan Peran](#1-purpose-and-role) — struktur komponen O/M/A/C dan aturan pemenuhan-bersama seluruh-sistem.
-- Hilir: [§2.4 Aturan Tafsir di bawah Ambiguitas](#24-interpretation-rule-under-ambiguity); [§3 Konsistensi di Seluruh Tumpukan Definisi](#3-consistency-across-the-definition-stack); [Bab Tiga, bagian 1 — Integritas Definisi dan Batasan Anti-Pengelakan](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Bab Empat, bagian 1 — Penegakan Eksklusif dan Alokasi Beban](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
+- Hilir: [§2.4 Aturan Tafsir di bawah Ambiguitas](#24-interpretation-rule-under-ambiguity); [§3 Konsistensi di Seluruh Tumpukan Definisi](#3-consistency-across-the-definition-stack); [Bab Tiga, bagian 1 — Integritas Definisi dan Batasan Anti-Pengelakan](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Bab Empat, bagian 1 — Penegakan Eksklusif dan Alokasi Beban](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
 - Baca bersama: [Definisi Terklaster Bab Lima (Ketekunan Keterdugaan)](../../core_05_band_oversight.md#foreseeability-diligence) — makna operatif bagi setiap «dapat diduga secara wajar» di Bab Dua sampai Empat.
 
 </details>
@@ -242,7 +242,7 @@ Jika satu bacaan wajar akan melemahkan pagar pengaman, mempersempit apa yang har
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: Prinsip: [§2 Persyaratan Integritas Definisi](#2-definition-integrity-requirement); [§1 Tujuan dan Peran](#1-purpose-and-role).
-- Hilir: [Bab Tiga, bagian 2 — Ketidakpatuhan dari Perilaku Sistem yang Dapat Diamati](../../core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [Bab Empat, bagian 2 — Persyaratan Ketelusuran Definisi](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement); bagian **4.1**, **3**, **5**, dan **6** Bab Empat di mana «dapat diduga secara wajar» muncul tanpa penunjuk sebaris ke Bab Lima.
+- Hilir: [Bab Tiga, bagian 2 — Ketidakpatuhan dari Perilaku Sistem yang Dapat Diamati](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [Bab Empat, bagian 2 — Persyaratan Ketelusuran Definisi](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement); bagian **4.1**, **3**, **5**, dan **6** Bab Empat di mana «dapat diduga secara wajar» muncul tanpa penunjuk sebaris ke Bab Lima.
 - Baca bersama: [Definisi Terklaster Bab Lima (Ketekunan Keterdugaan)](../../core_05_band_oversight.md#foreseeability-diligence) — aturan yang mengatur setiap «dapat diduga secara wajar» di Bab Dua sampai Empat; makna operatif di [Dapat Diduga Secara Wajar](../../core_05_band_oversight.md#reasonably-foreseeable) (Bab Lima, bagian 3 — Klaster dependen (klaster Kebenaran dan Integritas Epistemik; Ketekunan Keterdugaan)).
 
 </details>
@@ -262,6 +262,6 @@ Bagian suatu definisi harus tetap konsisten lintas:
 
 **Berkas sebelumnya:** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
-**Berkas berikutnya (masih bahasa Inggris):** [core_03_definition_integrity.md](../../core_03_definition_integrity.md)
+**Berkas berikutnya (bahasa ini):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
 **Sumber mengikat:** [core_02_definition_structure.md](../../core_02_definition_structure.md)

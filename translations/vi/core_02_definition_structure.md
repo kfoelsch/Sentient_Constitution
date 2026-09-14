@@ -10,7 +10,7 @@
 >
 > **Trước (ngôn ngữ này):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 >
-> **Tiếp theo (vẫn tiếng Anh):** [core_03_definition_integrity.md](../../core_03_definition_integrity.md)
+> **Tiếp theo (ngôn ngữ này):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 > **Cung đọc:** §1 mục đích và vai trò (O/M/A/C) → §2 tính toàn vẹn định nghĩa → **§3 tính nhất quán xuyên chồng định nghĩa**.
 
 </details>
@@ -22,7 +22,7 @@
 >
 > Chương **Hai đến Năm** tạo chồng định nghĩa hiến pháp; **[CJS](../../corpus_joint_structure.md)** mang các định nghĩa vận hành áp dụng chồng đó:
 > - **Chương Hai (tệp này)** — cấu trúc định nghĩa O/M/A/C và thẳng hàng thành phần: mỗi định nghĩa liên kết **Bản thể (O)** (nó là gì), sổ **Đo lường (M)** đan với nghĩa vụ **Đánh giá (A)** (cách phải đo và đánh giá), và **Tuân thủ (C)** (điều phải giữ) ([§1 Mục đích và vai trò](core_02_definition_structure.md#1-purpose-and-role); [§2 Yêu cầu tính toàn vẹn định nghĩa](core_02_definition_structure.md#2-definition-integrity-requirement)).
-> - **Chương Ba** — tính toàn vẹn định nghĩa, lẩn tránh, và không tuân thủ ([Chương Ba](../../core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).
+> - **Chương Ba** — tính toàn vẹn định nghĩa, lẩn tránh, và không tuân thủ ([Chương Ba](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).
 > - **Chương Bốn** — gánh chứng minh, truy vết định nghĩa, khả năng quan sát, xác minh dưới giới hạn an ninh, và khả năng tiếp cận xác minh ([Chương Bốn — Gánh chứng minh, truy vết, và xác minh](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)).
 > - **Chương Năm** — từ vựng chung cho đo lường, đánh giá, và tuân thủ (định nghĩa độc lập, theo cụm, và theo gói ở các mục 1–3 xuyên năm tệp dải Tứ diện và các tệp mục tiêu hiến pháp: [Mục tiêu Hưng thịnh](../../core_05_apex_flourishing_aim.md), [Giám sát](../../core_05_band_oversight.md), [Tham gia](../../core_05_band_participation.md), [Trách nhiệm giải trình](../../core_05_band_accountability.md), [Liên tục](../../core_05_band_continuity.md), [Tích hợp](../../core_05_band_integrative.md)); thứ tự đọc và bản đồ ở [Phần A](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 > - **CJS** — định nghĩa vận hành cho thuật ngữ xuyên triển khai ([CJS-3](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) thư viện cụm vận hành); áp dụng các nhà chuẩn Chương Năm — không định nghĩa lại chúng. Phân loại miền và giao thức ở **CS**, **CI**, và **CF** theo cùng quy tắc.
@@ -49,7 +49,7 @@ Chương Hai là chủ sở hữu hiến pháp của **cấu trúc định nghĩ
 - Thượng nguồn: [Lời nói đầu §1 Mô hình](core_00_preamble.md#the-model) — [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad), [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims), và chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake) áp dụng xuyên chương qua dấu vết mục; [Chương Một §1 Mục đích và vai trò](core_01_a_values_principles.md#1-purpose-and-role) (*giá trị và ràng buộc chồng định nghĩa này phục vụ*).
 - Thượng nguồn: [Mở Chương Hai](#chapter-two-definition-structure-and-component-requirements) — phân rã O/M/A/C và yêu cầu thẳng hàng nội bộ.
 - Trụ Tứ diện: **giám sát**, **trách nhiệm giải trình** (các định nghĩa phải đánh giá được và cưỡng chế được trên hành vi quan sát được). Mục tiêu chính: **Hưng thịnh** và **Liên tục**. Chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake) áp dụng xuyên chương.
-- Hạ nguồn: [§1.2 Thành phần đo lường](#12-measurement-components) và [§1.3 Thành phần đánh giá](#13-assessment-components) (*sổ Đo lường (M) đan với nghĩa vụ đánh giá; hình dạng đầu vào O/M/A/C trong chương này*); [§2 Yêu cầu tính toàn vẹn định nghĩa](#2-definition-integrity-requirement); [Chương Ba, mục 1 — Tính toàn vẹn định nghĩa và ràng buộc chống lẩn tránh](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Chương Bốn, mục 1 — Cưỡng chế độc quyền và phân bổ gánh](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [la bàn và bản đồ định nghĩa Chương Năm](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map).
+- Hạ nguồn: [§1.2 Thành phần đo lường](#12-measurement-components) và [§1.3 Thành phần đánh giá](#13-assessment-components) (*sổ Đo lường (M) đan với nghĩa vụ đánh giá; hình dạng đầu vào O/M/A/C trong chương này*); [§2 Yêu cầu tính toàn vẹn định nghĩa](#2-definition-integrity-requirement); [Chương Ba, mục 1 — Tính toàn vẹn định nghĩa và ràng buộc chống lẩn tránh](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Chương Bốn, mục 1 — Cưỡng chế độc quyền và phân bổ gánh](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [la bàn và bản đồ định nghĩa Chương Năm](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 - Đọc cùng: [Lời nói đầu — sổ đăng ký chủ sở hữu hiến pháp](core_00_preamble.md#4-principles-definitions-and-rights) và [Chồng thẩm quyền và thứ bậc nội bộ](../../core_05_band_integrative.md#authority-stack); [Ràng buộc hiến pháp](../../core_05_band_integrative.md#constitutional-constraint) — cưỡng chế, quản trị, triển khai, đo lường, kiểm toán, và cơ chế phân loại sau phải tuân; [CJS-3.1 La bàn hiến pháp và bản đồ cụm](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — các định nghĩa vận hành áp dụng, và **không được** định nghĩa lại, các nhà chuẩn Chương Năm.
 
 </details>
@@ -123,7 +123,7 @@ Các định nghĩa lá Chương Năm phải mang những yêu cầu M đó bằ
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: [Mở Chương Hai](#chapter-two-definition-structure-and-component-requirements); [§1 Mục đích và vai trò](#1-purpose-and-role) — vai trò thành phần A trong phân rã O/M/A/C.
-- Hạ nguồn: [Chương Ba, mục 1 — Tính toàn vẹn định nghĩa và ràng buộc chống lẩn tránh](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Chương Bốn, mục 1 — Cưỡng chế độc quyền và phân bổ gánh](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — đường dẫn cưỡng chế độc quyền cho yêu cầu đánh giá định nghĩa ở Chương Hai và Ba; [Chương Bốn, mục 5 — Chuẩn bằng chứng tuân thủ](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — đủ bằng chứng cho cưỡng chế đó.
+- Hạ nguồn: [Chương Ba, mục 1 — Tính toàn vẹn định nghĩa và ràng buộc chống lẩn tránh](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Chương Bốn, mục 1 — Cưỡng chế độc quyền và phân bổ gánh](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — đường dẫn cưỡng chế độc quyền cho yêu cầu đánh giá định nghĩa ở Chương Hai và Ba; [Chương Bốn, mục 5 — Chuẩn bằng chứng tuân thủ](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — đủ bằng chứng cho cưỡng chế đó.
 - Đọc cùng: [Định nghĩa độc lập Chương Năm](../../core_05__definitions_home.md#1-interdependent-definitions) — định nghĩa áp dụng quản trị phạm vi và điều kiện đánh giá; yêu cầu đánh giá áp dụng nhất quán với mọi định nghĩa Chương Năm áp dụng trong phạm vi tiếp nhận của nó.
 
 </details>
@@ -193,7 +193,7 @@ Các định nghĩa lá Chương Năm phải mang những yêu cầu C đó bằ
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [§1 Mục đích và vai trò](#1-purpose-and-role) — cấu trúc thành phần O/M/A/C và quy tắc thỏa cùng toàn hệ thống.
-- Hạ nguồn: [§2.4 Quy tắc diễn giải khi mơ hồ](#24-interpretation-rule-under-ambiguity); [§3 Tính nhất quán xuyên chồng định nghĩa](#3-consistency-across-the-definition-stack); [Chương Ba, mục 1 — Tính toàn vẹn định nghĩa và ràng buộc chống lẩn tránh](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Chương Bốn, mục 1 — Cưỡng chế độc quyền và phân bổ gánh](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [Chương Bốn, mục 5 — Chuẩn bằng chứng tuân thủ](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
+- Hạ nguồn: [§2.4 Quy tắc diễn giải khi mơ hồ](#24-interpretation-rule-under-ambiguity); [§3 Tính nhất quán xuyên chồng định nghĩa](#3-consistency-across-the-definition-stack); [Chương Ba, mục 1 — Tính toàn vẹn định nghĩa và ràng buộc chống lẩn tránh](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Chương Bốn, mục 1 — Cưỡng chế độc quyền và phân bổ gánh](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [Chương Bốn, mục 5 — Chuẩn bằng chứng tuân thủ](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
 - Đọc cùng: [Định nghĩa cụm Chương Năm (Thận trọng khả năng thấy trước)](../../core_05_band_oversight.md#foreseeability-diligence) — nghĩa vận hành cho mọi «thấy trước được một cách hợp lý» ở Chương Hai đến Bốn.
 
 </details>
@@ -242,7 +242,7 @@ Nếu một cách đọc hợp lý sẽ làm yếu bảo vệ, thu hẹp điều
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: [§2 Yêu cầu tính toàn vẹn định nghĩa](#2-definition-integrity-requirement); [§1 Mục đích và vai trò](#1-purpose-and-role).
-- Hạ nguồn: [Chương Ba, mục 2 — Không tuân thủ từ hành vi hệ thống quan sát được](../../core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [Chương Bốn, mục 2 — Yêu cầu truy vết định nghĩa](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement); các mục **4.1**, **3**, **5**, và **6** của Chương Bốn nơi «thấy trước được một cách hợp lý» xuất hiện mà không có con trỏ nội tuyến tới Chương Năm.
+- Hạ nguồn: [Chương Ba, mục 2 — Không tuân thủ từ hành vi hệ thống quan sát được](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [Chương Bốn, mục 2 — Yêu cầu truy vết định nghĩa](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement); các mục **4.1**, **3**, **5**, và **6** của Chương Bốn nơi «thấy trước được một cách hợp lý» xuất hiện mà không có con trỏ nội tuyến tới Chương Năm.
 - Đọc cùng: [Định nghĩa cụm Chương Năm (Thận trọng khả năng thấy trước)](../../core_05_band_oversight.md#foreseeability-diligence) — quy tắc quản trị mọi «thấy trước được một cách hợp lý» ở Chương Hai đến Bốn; nghĩa vận hành ở [Thấy trước được một cách hợp lý](../../core_05_band_oversight.md#reasonably-foreseeable) (Chương Năm, mục 3 — Cụm phụ thuộc (cụm Sự thật và tính toàn vẹn nhận thức; Thận trọng khả năng thấy trước)).
 
 </details>
@@ -262,6 +262,6 @@ Các phần của một định nghĩa phải giữ nhất quán xuyên:
 
 **Tệp trước:** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
-**Tệp tiếp theo (vẫn tiếng Anh):** [core_03_definition_integrity.md](../../core_03_definition_integrity.md)
+**Tệp tiếp theo (ngôn ngữ này):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
 **Nguyên bản ràng buộc:** [core_02_definition_structure.md](../../core_02_definition_structure.md)

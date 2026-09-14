@@ -10,7 +10,7 @@
 >
 > **上一篇（本语种）：** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 >
-> **下一篇（仍为英语）：** [core_03_definition_integrity.md](../../core_03_definition_integrity.md)
+> **下一篇（本语种）：** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 > **阅读弧线：** §1 宗旨与角色（O/M/A/C）→ §2 定义完整性 → **§3 跨定义栈的一致性**。
 
 </details>
@@ -22,7 +22,7 @@
 >
 > **第二至五章**构成宪法定义栈；**[CJS](../../corpus_joint_structure.md)** 承载适用它的操作性定义：
 > - **第二章（本文件）** — O/M/A/C 定义结构与组件对齐：每一项定义链接**本体（O）**（它是什么）、与**评估（A）**义务交织的**测量（M）**登记（必须如何测量与评估），以及**合规（C）**（必须成立什么）（[§1 宗旨与角色](core_02_definition_structure.md#1-purpose-and-role)；[§2 定义完整性要求](core_02_definition_structure.md#2-definition-integrity-requirement)）。
-> - **第三章** — 定义完整性、规避与不合规（[第三章](../../core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)）。
+> - **第三章** — 定义完整性、规避与不合规（[第三章](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)）。
 > - **第四章** — 举证责任、定义可追溯性、可观察性、安全限度下的核验，以及核验可及性（[第四章 — 举证责任、可追溯性与核验](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)）。
 > - **第五章** — 用于测量、评价与合规的共享词汇（第 1–3 节中的独立、成组与套装定义，跨越五个四元带文件与宪法宗旨文件：[繁盛宗旨](../../core_05_apex_flourishing_aim.md)、[监督](../../core_05_band_oversight.md)、[参与](../../core_05_band_participation.md)、[问责](../../core_05_band_accountability.md)、[延续](../../core_05_band_continuity.md)、[整合](../../core_05_band_integrative.md)）；阅读顺序与地图在 [A 部分](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map)。
 > - **CJS** — 跨实施用语的操作性定义（[CJS-3](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) 操作性聚类库）；适用第五章典范家园 — 不得重新定义它们。**CS**、**CI** 与 **CF** 中的领域分类与协议遵循同一规则。
@@ -49,7 +49,7 @@
 - 上游：[序言 §1 模型](core_00_preamble.md#the-model) — [宪法四元](core_00_preamble.md#constitutional-tetrad)、[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)与[实质利害](core_00_preamble.md#material-stake)缩放，经各节溯源适用于全章；[第一章 §1 宗旨与角色](core_01_a_values_principles.md#1-purpose-and-role)（*本定义栈所服务的价值与约束*）。
 - 上游：[第二章开篇](#chapter-two-definition-structure-and-component-requirements) — O/M/A/C 分解与内部对齐要求。
 - 四元腿：**监督**、**问责**（定义必须可评估，并在可观察行为上可执行）。首要宗旨：**繁盛**与**延续**。[实质利害](core_00_preamble.md#material-stake)缩放适用于全章。
-- 下游：[§1.2 测量组件](#12-measurement-components)与 [§1.3 评估组件](#13-assessment-components)（*与评估义务交织的测量（M）登记；本章中的 O/M/A/C 入口形态*）；[§2 定义完整性要求](#2-definition-integrity-requirement)；[第三章，第 1 节 — 定义完整性与反规避约束](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第四章，第 1 节 — 排他执行与负担分配](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)；[第五章指南针与定义地图](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map)。
+- 下游：[§1.2 测量组件](#12-measurement-components)与 [§1.3 评估组件](#13-assessment-components)（*与评估义务交织的测量（M）登记；本章中的 O/M/A/C 入口形态*）；[§2 定义完整性要求](#2-definition-integrity-requirement)；[第三章，第 1 节 — 定义完整性与反规避约束](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第四章，第 1 节 — 排他执行与负担分配](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)；[第五章指南针与定义地图](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map)。
 - 一并阅读：[序言 — 宪法主责登记](core_00_preamble.md#4-principles-definitions-and-rights)与[权威栈与内部层级](../../core_05_band_integrative.md#authority-stack)；[宪法约束](../../core_05_band_integrative.md#constitutional-constraint) — 其后的执行、治理、实施、测量、审计与分类机制必须遵从；[CJS-3.1 宪法指南针与聚类地图](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — 操作性定义适用、且不得重新定义第五章典范家园。
 
 </details>
@@ -123,7 +123,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：原则：[第二章开篇](#chapter-two-definition-structure-and-component-requirements)；[§1 宗旨与角色](#1-purpose-and-role) — A 组件在 O/M/A/C 分解中的角色。
-- 下游：[第三章，第 1 节 — 定义完整性与反规避约束](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第四章，第 1 节 — 排他执行与负担分配](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — 为第二、三章所定义评估要求而设的排他执行路径；[第四章，第 5 节 — 合规证据标准](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — 该执行的证据充分性。
+- 下游：[第三章，第 1 节 — 定义完整性与反规避约束](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第四章，第 1 节 — 排他执行与负担分配](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — 为第二、三章所定义评估要求而设的排他执行路径；[第四章，第 5 节 — 合规证据标准](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — 该执行的证据充分性。
 - 一并阅读：[第五章独立定义](../../core_05__definitions_home.md#1-interdependent-definitions) — 统管评估范围与条件的可适用定义；评估要求在每一项可适用第五章定义的准入范围内与之一致适用。
 
 </details>
@@ -193,7 +193,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§1 宗旨与角色](#1-purpose-and-role) — O/M/A/C 组件结构与整系统联合满足规则。
-- 下游：[§2.4 歧义下的解释规则](#24-interpretation-rule-under-ambiguity)；[§3 跨定义栈的一致性](#3-consistency-across-the-definition-stack)；[第三章，第 1 节 — 定义完整性与反规避约束](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第四章，第 1 节 — 排他执行与负担分配](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)；[第四章，第 5 节 — 合规证据标准](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard)。
+- 下游：[§2.4 歧义下的解释规则](#24-interpretation-rule-under-ambiguity)；[§3 跨定义栈的一致性](#3-consistency-across-the-definition-stack)；[第三章，第 1 节 — 定义完整性与反规避约束](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第四章，第 1 节 — 排他执行与负担分配](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)；[第四章，第 5 节 — 合规证据标准](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard)。
 - 一并阅读：[第五章聚类定义（可预见性勤勉）](../../core_05_band_oversight.md#foreseeability-diligence) — 第二至四章中每一处「合理可预见」的操作性含义。
 
 </details>
@@ -242,7 +242,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：原则：[§2 定义完整性要求](#2-definition-integrity-requirement)；[§1 宗旨与角色](#1-purpose-and-role)。
-- 下游：[第三章，第 2 节 — 来自可观察系统行为的不合规](../../core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)；[第四章，第 2 节 — 定义可追溯性要求](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement)；第四章第 **4.1**、**3**、**5** 与 **6** 节中，「合理可预见」出现且没有指向第五章的行内指针之处。
+- 下游：[第三章，第 2 节 — 来自可观察系统行为的不合规](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)；[第四章，第 2 节 — 定义可追溯性要求](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement)；第四章第 **4.1**、**3**、**5** 与 **6** 节中，「合理可预见」出现且没有指向第五章的行内指针之处。
 - 一并阅读：[第五章聚类定义（可预见性勤勉）](../../core_05_band_oversight.md#foreseeability-diligence) — 统管第二至四章中每一处「合理可预见」的规则；操作性含义在[合理可预见](../../core_05_band_oversight.md#reasonably-foreseeable)（第五章，第 3 节 — 依赖聚类（真理与认识完整性聚类；可预见性勤勉））。
 
 </details>
@@ -262,6 +262,6 @@
 
 **上一文件：** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
-**下一文件（仍为英语）：** [core_03_definition_integrity.md](../../core_03_definition_integrity.md)
+**下一文件（本语种）：** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
 **有约束力的原文：** [core_02_definition_structure.md](../../core_02_definition_structure.md)

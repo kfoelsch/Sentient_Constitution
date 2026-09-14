@@ -10,7 +10,7 @@
 >
 > **السابق (هذه اللغة):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 >
-> **التالي (ما زال بالإنجليزية):** [core_03_definition_integrity.md](../../core_03_definition_integrity.md)
+> **التالي (هذه اللغة):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 > **قوس القراءة:** §1 الغرض والدور (O/M/A/C) → §2 سلامة التعريف → **§3 الاتساق عبر رصّة التعريف**.
 
 </details>
@@ -22,7 +22,7 @@
 >
 > الفصول **من الثاني إلى الخامس** تشكّل رصّة التعريف الدستورية؛ ويحمل **[CJS](../../corpus_joint_structure.md)** التعريفات التشغيلية التي تطبّقها:
 > - **الفصل الثاني (هذا الملف)** — بنية التعريفات O/M/A/C ومواءمة المكوّنات: كل تعريف يربط **الوجودي (O)** (ما هو)، وسجل **القياس (M)** المنسوج مع واجب **التقييم (A)** (كيف يجب أن يُقاس ويُقيَّم)، و**الامتثال (C)** (ما يجب أن يصمد) ([§1 الغرض والدور](core_02_definition_structure.md#1-purpose-and-role)؛ [§2 متطلب سلامة التعريف](core_02_definition_structure.md#2-definition-integrity-requirement)).
-> - **الفصل الثالث** — سلامة التعريف والتهرّب وعدم الامتثال ([الفصل الثالث](../../core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).
+> - **الفصل الثالث** — سلامة التعريف والتهرّب وعدم الامتثال ([الفصل الثالث](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).
 > - **الفصل الرابع** — عبء الإثبات وقابلية تتبع التعريفات وقابلية الرصد والتحقق تحت حدود الأمن وتيسير الوصول إلى التحقق ([الفصل الرابع — عبء الإثبات وقابلية التتبع والتحقق](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)).
 > - **الفصل الخامس** — مفردات مشتركة للقياس والتقييم والامتثال (تعريفات مستقلة وعنقودية وحِزَمية في الأقسام 1–3 عبر ملفات نطاق الرباعية الخمسة وملفات المقصد الدستوري: [مقصد الازدهار](../../core_05_apex_flourishing_aim.md)، [الرقابة](../../core_05_band_oversight.md)، [المشاركة](../../core_05_band_participation.md)، [المساءلة](../../core_05_band_accountability.md)، [الاستمرارية](../../core_05_band_continuity.md)، [التكاملي](../../core_05_band_integrative.md))؛ ترتيب القراءة والخريطة في [الجزء أ](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 > - **CJS** — تعريفات تشغيلية لمصطلحات عبر التنفيذ ([CJS-3](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) مكتبة العناقيد التشغيلية)؛ طبّق المواطن القانونية في الفصل الخامس — لا تعِد تعريفها. تصنيفات المجال والبروتوكولات في **CS** و**CI** و**CF** تتبع القاعدة ذاتها.
@@ -49,7 +49,7 @@
 - أعلى: [الديباجة §1 النموذج](core_00_preamble.md#the-model) — [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)، و[المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims)، ومقياس [الرهان المادي](core_00_preamble.md#material-stake) تنطبق على الفصل كله عبر تتبّعات الأقسام؛ [الفصل الأول §1 الغرض والدور](core_01_a_values_principles.md#1-purpose-and-role) (*القيم والقيود التي تخدمها رصّة التعريف هذه*).
 - أعلى: [افتتاح الفصل الثاني](#chapter-two-definition-structure-and-component-requirements) — تفكيك O/M/A/C ومتطلب المواءمة الداخلية.
 - أرجُل الرباعية: **الرقابة**، **المساءلة** (يجب أن تكون التعريفات قابلة للتقييم وقابلة للإنفاذ على سلوك قابل للرصد). المقصد(ان) الأولي(ان): **الازدهار** و**الاستمرارية**. مقياس [الرهان المادي](core_00_preamble.md#material-stake) ينطبق على الفصل كله.
-- أسفل: [§1.2 مكوّنات القياس](#12-measurement-components) و[§1.3 مكوّنات التقييم](#13-assessment-components) (*سجل القياس (M) المنسوج مع واجب التقييم؛ شكل الدخول O/M/A/C في هذا الفصل*)؛ [§2 متطلب سلامة التعريف](#2-definition-integrity-requirement)؛ [الفصل الثالث، القسم 1 — سلامة التعريف وقيود منع التهرّب](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [الفصل الرابع، القسم 1 — الإنفاذ الحصري وتوزيع العبء](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)؛ [بوصلة الفصل الخامس وخريطة التعريفات](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map).
+- أسفل: [§1.2 مكوّنات القياس](#12-measurement-components) و[§1.3 مكوّنات التقييم](#13-assessment-components) (*سجل القياس (M) المنسوج مع واجب التقييم؛ شكل الدخول O/M/A/C في هذا الفصل*)؛ [§2 متطلب سلامة التعريف](#2-definition-integrity-requirement)؛ [الفصل الثالث، القسم 1 — سلامة التعريف وقيود منع التهرّب](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [الفصل الرابع، القسم 1 — الإنفاذ الحصري وتوزيع العبء](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)؛ [بوصلة الفصل الخامس وخريطة التعريفات](../../core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 - يُقرأ مع: [الديباجة — سجل المالكين الإيجابي](core_00_preamble.md#4-principles-definitions-and-rights) و[رصّة السلطة والتسلسل الداخلي](../../core_05_band_integrative.md#authority-stack)؛ [القيد الدستوري](../../core_05_band_integrative.md#constitutional-constraint) — الإنفاذ والحوكمة والتنفيذ والقياس والتدقيق وميكانيكا التصنيف اللاحقة يجب أن تمتثل؛ [CJS-3.1 البوصلة الدستورية وخريطة العناقيد](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — التعريفات التشغيلية تطبّق المواطن القانونية في الفصل الخامس، و**يجب ألا** تعيد تعريفها.
 
 </details>
@@ -123,7 +123,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: مبادئ: [افتتاح الفصل الثاني](#chapter-two-definition-structure-and-component-requirements)؛ [§1 الغرض والدور](#1-purpose-and-role) — دور مكوّن A داخل تفكيك O/M/A/C.
-- أسفل: [الفصل الثالث، القسم 1 — سلامة التعريف وقيود منع التهرّب](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [الفصل الرابع، القسم 1 — الإنفاذ الحصري وتوزيع العبء](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — مسار الإنفاذ الحصري لمتطلبات التقييم المعرَّفة في الفصلين الثاني والثالث؛ [الفصل الرابع، القسم 5 — معيار دليل الامتثال](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — كفاية الدليل لذلك الإنفاذ.
+- أسفل: [الفصل الثالث، القسم 1 — سلامة التعريف وقيود منع التهرّب](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [الفصل الرابع، القسم 1 — الإنفاذ الحصري وتوزيع العبء](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — مسار الإنفاذ الحصري لمتطلبات التقييم المعرَّفة في الفصلين الثاني والثالث؛ [الفصل الرابع، القسم 5 — معيار دليل الامتثال](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — كفاية الدليل لذلك الإنفاذ.
 - يُقرأ مع: [تعريفات الفصل الخامس المستقلة](../../core_05__definitions_home.md#1-interdependent-definitions) — تعريفات منطبقة تحكم نطاق التقييم وشروطه؛ وتنطبق متطلبات التقييم باتساق مع كل تعريف منطبق في الفصل الخامس داخل نطاق قبوله.
 
 </details>
@@ -193,7 +193,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [§1 الغرض والدور](#1-purpose-and-role) — بنية مكوّنات O/M/A/C وقاعدة الاستيفاء المشترك للنظام كله.
-- أسفل: [§2.4 قاعدة التفسير تحت الغموض](#24-interpretation-rule-under-ambiguity)؛ [§3 الاتساق عبر رصّة التعريف](#3-consistency-across-the-definition-stack)؛ [الفصل الثالث، القسم 1 — سلامة التعريف وقيود منع التهرّب](../../core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [الفصل الرابع، القسم 1 — الإنفاذ الحصري وتوزيع العبء](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)؛ [الفصل الرابع، القسم 5 — معيار دليل الامتثال](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
+- أسفل: [§2.4 قاعدة التفسير تحت الغموض](#24-interpretation-rule-under-ambiguity)؛ [§3 الاتساق عبر رصّة التعريف](#3-consistency-across-the-definition-stack)؛ [الفصل الثالث، القسم 1 — سلامة التعريف وقيود منع التهرّب](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [الفصل الرابع، القسم 1 — الإنفاذ الحصري وتوزيع العبء](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)؛ [الفصل الرابع، القسم 5 — معيار دليل الامتثال](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
 - يُقرأ مع: [تعريفات الفصل الخامس العنقودية (عناية قابلية التوقع)](../../core_05_band_oversight.md#foreseeability-diligence) — المعنى التشغيلي لكل «متوقَّع على نحو معقول» في الفصول من الثاني إلى الرابع.
 
 </details>
@@ -242,7 +242,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: مبادئ: [§2 متطلب سلامة التعريف](#2-definition-integrity-requirement)؛ [§1 الغرض والدور](#1-purpose-and-role).
-- أسفل: [الفصل الثالث، القسم 2 — عدم الامتثال من سلوك النظام القابل للرصد](../../core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)؛ [الفصل الرابع، القسم 2 — متطلب قابلية تتبع التعريف](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement)؛ أقسام الفصل الرابع **4.1** و**3** و**5** و**6** حيث يظهر «متوقَّع على نحو معقول» من دون مؤشّر مضمَّن إلى الفصل الخامس.
+- أسفل: [الفصل الثالث، القسم 2 — عدم الامتثال من سلوك النظام القابل للرصد](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)؛ [الفصل الرابع، القسم 2 — متطلب قابلية تتبع التعريف](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement)؛ أقسام الفصل الرابع **4.1** و**3** و**5** و**6** حيث يظهر «متوقَّع على نحو معقول» من دون مؤشّر مضمَّن إلى الفصل الخامس.
 - يُقرأ مع: [تعريفات الفصل الخامس العنقودية (عناية قابلية التوقع)](../../core_05_band_oversight.md#foreseeability-diligence) — القاعدة الحاكمة لكل «متوقَّع على نحو معقول» في الفصول من الثاني إلى الرابع؛ المعنى التشغيلي في [متوقَّع على نحو معقول](../../core_05_band_oversight.md#reasonably-foreseeable) (الفصل الخامس، القسم 3 — العناقيد التابعة (عنقود الحقيقة والنزاهة المعرفية؛ عناية قابلية التوقع)).
 
 </details>
@@ -262,6 +262,6 @@
 
 **الملف السابق:** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 
-**الملف التالي (ما زال بالإنجليزية):** [core_03_definition_integrity.md](../../core_03_definition_integrity.md)
+**الملف التالي (هذه اللغة):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
 **الأصل الملزم:** [core_02_definition_structure.md](../../core_02_definition_structure.md)
