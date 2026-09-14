@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tests for the Chapter Five / Chapter Six nested-list candidate finder."""
+"""Tests for the Chapter Five / Chapter Six / Chapter Seven nested-list candidate finder."""
 
 from __future__ import annotations
 
@@ -287,6 +287,55 @@ class NestedListCandidateTests(unittest.TestCase):
         self.assertEqual(code, 0)
         self.assertIn("CH6-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
+
+    def test_ch7_labeled_semicolon_list_is_flagged(self) -> None:
+        text = """#### 3.8 Illustrative whole-system application by class (non-exhaustive)
+
+- **What the record must show:** Material findings under each implicated factor; dependency and cascade assumptions; risk-evaluation findings; accessibility findings; and conditions or reopening triggers.
+"""
+        hits = scan_text(text, chapter=7)
+        self.assertEqual(self._lines(text, min_score=8), [3])
+        self.assertEqual(hits[0].role, "what-the-record-must-show")
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+
+    def test_ch7_nested_children_are_not_flagged(self) -> None:
+        text = """#### 4.1 Illustrative data-handling application by class (non-exhaustive)
+
+- **Data types in scope:**
+  - Clinical and diagnostic records;
+  - identity and credential-resolution tokens; and
+  - access and disclosure audit logs.
+"""
+        self.assertEqual(scan_text(text, chapter=7), [])
+
+    def test_ch7_unlabeled_words_only_is_skipped(self) -> None:
+        text = """### 4. Data Types and Handling Evaluation
+
+- This paragraph states a single continuous argument about classification integrity, attribution, contestability, and infrastructure robustness without packing a parallel checklist of distinct tests into the line.
+"""
+        filler = " ".join(["clause"] * 70)
+        text = text.replace("without packing", filler + " without packing")
+        self.assertEqual(scan_text(text, chapter=7), [])
+
+    def test_main_chapter_seven_advisory_exit_zero(self) -> None:
+        buf = StringIO()
+        with patch("sys.stdout", buf):
+            code = main(
+                [
+                    "--root",
+                    str(_TOOLS.parent),
+                    "--chapter",
+                    "7",
+                    "--file",
+                    "core_07_a_system_alignment_certification_evaluation.md",
+                    "--top",
+                    "3",
+                ]
+            )
+        self.assertEqual(code, 0)
+        self.assertIn("CH7-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
 
 
 if __name__ == "__main__":

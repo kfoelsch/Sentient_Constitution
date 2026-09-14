@@ -31,6 +31,7 @@ Chapter Five and CJS-3 definition files use **one** `---` between reader units, 
 | Chapter Five alphabetical directory and section 1 order | `make ch5-alphabetical-directory-audit` |
 | Chapter Five nested-list readability candidates (advisory) | `make ch5-nested-list-candidates` |
 | Chapter Six nested-list readability candidates (advisory) | `make ch6-nested-list-candidates` |
+| Chapter Seven nested-list readability candidates (advisory) | `make ch7-nested-list-candidates` |
 | Chapter One D/A/C functional ordering | `make ch1-dac-order-audit` |
 | Readability estimates | `make readability-audit` |
 | Plain-terms edition (generated, non-binding gloss digest of the core files) | `make plain-terms-edition` / `make plain-terms-edition-check` |

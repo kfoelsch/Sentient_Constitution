@@ -60,8 +60,16 @@ The record must identify, at minimum:
 
 - **System identity, scope, and status:** the system, version, operator or steward, scope, governing [Charter](core_05_band_continuity.md#charter) or equivalent published scope instrument (or reasoned absence where immaterial), affected communities, dependencies, and review status — including whether certified scope matches the Charter's stated scope where a Charter exists;
 - **Whole-system evaluation findings:** material findings under [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), including systemic scope, accessibility, privacy joint-invocation, exit, assembly, time-consistency, governance, incentive, and contestability findings where implicated — and, where systemic risk is in scope under [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors), [Risk Evaluation](core_05_band_continuity.md#risk-evaluation) findings together with [Risk Disclosure](core_05_band_oversight.md#risk-disclosure) posture (audience or routing, timing, hold-backs and substitutes, and unresolved defects or conditions), stated on this record rather than as a separate named risk-disclosure record;
-- **System Classification Record:** the [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) — or its required contents under CS-3 — including system class assignment, dependency type(s), classification rationale, and material-impact assumptions, as required by [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation);
-- **System Data Types Record:** the [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) — or its required contents under CS-2 — including the data types materially in scope and the handling, separation, lifecycle, and infrastructure-assurance assumptions relied on, as required by [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) — including the most recent periodic data-type re-evaluation (date or cycle identifier, cadence scaled to class and impact, and any material retypes) under **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** and **[CS-2 §8](corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-8-system-data-types-record-governance)**, plus attribution capability sufficient to support [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) and [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), and — where the Type O baseline applies — how [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) covers certified scope (Charter fields relied on, boundary findings, and any coverage gaps or conditions);
+- **System Classification Record:** the [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) — or its required contents under CS-3 — as required by [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), including:
+  - system class assignment;
+  - dependency type(s);
+  - classification rationale; and
+  - material-impact assumptions;
+- **System Data Types Record:** the [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) — or its required contents under CS-2 — as required by [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation), including:
+  - the data types materially in scope and the handling, separation, lifecycle, and infrastructure-assurance assumptions relied on;
+  - the most recent periodic data-type re-evaluation (date or cycle identifier, cadence scaled to class and impact, and any material retypes) under **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** and **[CS-2 §8](corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-8-system-data-types-record-governance)**;
+  - attribution capability sufficient to support [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) and [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional); and
+  - where the Type O baseline applies, how [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) covers certified scope (Charter fields relied on, boundary findings, and any coverage gaps or conditions);
 - **Ecological footprint evaluation:** attributable environmental burdens, lifecycle and dependency attribution assumptions, disclosure posture, and footprint component findings as required by [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation);
 - **Cross-system resource stewardship evaluation:** dependent-systems-map and resource-flow findings, [Proportionate Cross-System Contribution](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) adequacy findings, and cross-system fairness component findings as required by [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies;
 - **Nondiscrimination evaluation:** burden-and-benefit pattern findings, protected-characteristic and proxy-discrimination findings, and substantive-fairness component findings as required by [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) where the **Article V-B** (*Nondiscrimination*) materiality trigger applies;
@@ -75,7 +83,15 @@ The record must identify, at minimum:
   - capture, self-review, incentive-alignment, evidence-control, and contest-pathway risks;
 - **Forum supervision:** the forum family or authority issuing, adopting, referring, certifying, staying, or reviewing each component, stated in the order required by [§14](#14-supervisory-sequence-and-contestability-chain);
 - **Certification outcome and reliance limits:**
-  - the certification outcome, including recognition, conditional recognition, deferred recognition, non-recognition, withdrawal, expiration, revalidation, or release from conditions; and
+  - the certification outcome, including:
+    - recognition;
+    - conditional recognition;
+    - deferred recognition;
+    - non-recognition;
+    - withdrawal;
+    - expiration;
+    - revalidation; or
+    - release from conditions.
   - revalidation cadence, reopening triggers, reliance limits, and the contestability chain and named [contestability paths](#142-contestability-paths) required by [§12](#12-transparency-auditability-and-contestability) and [§14](#14-supervisory-sequence-and-contestability-chain).
 
 <a id="112-cross-section-record-requirements"></a>
@@ -162,7 +178,13 @@ This section applies [Transparency](core_05_band_oversight.md#transparency), [Au
 **Transparency** — sentients must be able to see what matters:
 
 - A certification record must disclose decision-relevant facts at a level proportionate to system class and material impact under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, including what [§11](#11-certification-record) requires:
-  - Scope, assumptions, evidence basis, uncertainty, conditions, outcomes, and limits on reliance;
+  - Scope;
+  - assumptions;
+  - evidence basis;
+  - uncertainty;
+  - conditions;
+  - outcomes; and
+  - limits on reliance;
 - Safety- and security-justified limits are permitted only where consistent with [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) and Chapter One disclosure constraints;
 - Volume, formatting, or technical obscurity must not substitute for decision-relevant clarity;
 - Online-publication baseline, paywall prohibition for [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure), and maximum-feasible public-substitute discipline are governed by [Transparency](core_05_band_oversight.md#transparency) and [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure), and implemented as **Type O** data under **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, read with **CJS-3.4** (*tiered transparency and audit-access terms*).
@@ -180,7 +202,13 @@ This section applies [Transparency](core_05_band_oversight.md#transparency), [Au
 **Contestability** — affected parties must have real ways to challenge the record:
 
 - A certification record must state the [contestability paths](#142-contestability-paths) defined in [§14.2](#142-contestability-chain), sufficient for affected parties to contest:
-  - Record content, scope, classification assumptions, evidence reliance, supervisory integrity, outcome, or continued reliance;
+  - Record content;
+  - scope;
+  - classification assumptions;
+  - evidence reliance;
+  - supervisory integrity;
+  - outcome; or
+  - continued reliance;
 - Contest mechanisms must be functional and accessible, not ceremonial;
 - A challenge must be able to:
   - Reopen review;
@@ -297,7 +325,11 @@ The **supervisory sequence** is the step-by-step order in which forums supervise
    - **Institutional forums** supply required institutional-mandate and Rights Floor component findings where [§13](#13-forum-supervision-and-component-roles) assigns those stakes;
    - **Sentient forums** supply non-institutional stakeholder-impact findings where Chapter Eleven keeps those stakes in Sentient forums;
    - **Constitutional** and other assigned forum families supply component findings for stakes Chapter Eleven assigns to them.
-3. **Referral, certification, and stay:** The lead forum must refer, certify, or [stay](core_05_band_accountability.md#stay) component questions that belong primarily in another forum family. It cannot call certification finished — or substantially lift conditions — while another forum family still has unfinished assigned work. That unfinished work includes a required finding, an objection, a remediation condition, or a certified question that must be resolved on time.
+3. **Referral, certification, and stay:** The lead forum must refer, certify, or [stay](core_05_band_accountability.md#stay) component questions that belong primarily in another forum family. It cannot call certification finished — or substantially lift conditions — while another forum family still has unfinished assigned work. That unfinished work includes:
+   - a required finding;
+   - an objection;
+   - a remediation condition; or
+   - a certified question that must be resolved on time.
 4. **Record integration:** The lead forum integrates component findings into one certification record that states each component authority, finding, unresolved item, condition, and limit on reliance.
 5. **Constitutional disposition:** Where constitutional meaning, validity, or class-wide structural remedy is materially at issue, the lead forum must certify or escalate under Chapter Eleven before treating the matter as finally resolved on that dimension.
 
@@ -312,7 +344,12 @@ The **contestability chain** is the lawful mirror of the supervisory sequence. I
 <a id="142-contestability-paths"></a>
 **Contestability paths.** A System Certification Record must name these challenge paths. They implement Dispute sequencing for certification records. They are not a forum family and do not replace Chapter Eleven routing.
 
-- **Published record challenge path** — the ordinary first step for an ordinary dispute about the certification record. The record names the [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) contest seat: who receives the challenge, how to file it, and that clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) run from receipt. Internal operator review, vendor attestation, or technical sign-off is not this path.
+- **Published record challenge path** — the ordinary first step for an ordinary dispute about the certification record. The record names the [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) contest seat:
+  - who receives the challenge;
+  - how to file it; and
+  - that clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) run from receipt.
+  
+  Internal operator review, vendor attestation, or technical sign-off is not this path.
 - **Component forum path** — the Chapter Eleven forum family with merits authority over a challenged component finding.
 - **Lead-integrity path** — Integrity routing and anti-self-judging backup when the challenge is how the lead forum ran the process, including capture, hidden information, self-review, or calling certification finished too soon.
 - **Escalation path** — Chapter Eleven transfer, certification, backup routing, and family-to-family escalation when primary stakes, constitutional validity, structural remedy, family deadlock, or anti-self-judging protection requires it.
@@ -438,7 +475,9 @@ A **System Certification Record** is **scope-bound** and **time-bound**. Review 
   - stakeholder evidence;
   - credible challenge under [§14](#14-supervisory-sequence-and-contestability-chain);
   - ecological objection;
-  - system-class misalignment or overdue reassessment under **[CS-3 §3.5](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)**; data-type or handling misalignment, overdue or skipped periodic data-type re-evaluation under **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)**; or classification misalignment;
+  - system-class misalignment or overdue reassessment under **[CS-3 §3.5](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)**;
+  - data-type or handling misalignment, overdue or skipped periodic data-type re-evaluation under **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)**;
+  - classification misalignment;
   - [Charter](core_05_band_continuity.md#charter) amendment, charter–behavior mismatch, operation materially outside chartered scope, or overdue periodic charter review;
 - **Domain misalignment** reflected on the certification record, including:
   - material risk-evaluation or risk-disclosure defect or misalignment under [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors);

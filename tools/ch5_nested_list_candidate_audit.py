@@ -4,6 +4,8 @@
 Chapter Five: In-scope / assessment / failure bullets (and unlabeled
 assessment continuation lines). Chapter Six: labeled operative run-ins
 (``**Label:**`` / ``**Label** —``) and packed covers/includes lists.
+Chapter Seven: labeled walkthrough and record bullets (same packing
+signals as Chapter Six).
 
 Finds items that pack a parallel list into one sentence and have no nested
 child bullets yet. Default is advisory: print ranked candidates and exit 0.
@@ -13,14 +15,15 @@ This is a candidate finder, not a duty. Existing nesting gates
 (``corpus_markdown_audit.check_oec_intro_sublist_nesting``, Article IX in
 ``prose_continuity_audit``) still lock lists that are already nested.
 
-Rules: CH5-NEST-CANDIDATE / CH6-NEST-CANDIDATE in
+Rules: CH5-NEST-CANDIDATE / CH6-NEST-CANDIDATE / CH7-NEST-CANDIDATE in
 tools/architecture/rule_registry.json.
 
 Run:
 
     make ch5-nested-list-candidates
     make ch6-nested-list-candidates
-    python3 tools/ch5_nested_list_candidate_audit.py --root . --chapter 6
+    make ch7-nested-list-candidates
+    python3 tools/ch5_nested_list_candidate_audit.py --root . --chapter 7
     python3 tools/ch5_nested_list_candidate_audit.py --root . --file core_05_band_accountability.md
 """
 
@@ -45,6 +48,14 @@ CH6_RIGHTS: tuple[str, ...] = (
     "core_06_rights_part_c.md",
     "core_06_rights_part_d.md",
 )
+
+CH7_PARTS: tuple[str, ...] = (
+    "core_07_a_system_alignment_certification_evaluation.md",
+    "core_07_b_system_alignment_certification_record_process.md",
+)
+
+SUPPORTED_CHAPTERS: tuple[int, ...] = (5, 6, 7)
+WORDS_ONLY_SKIP_CHAPTERS: frozenset[int] = frozenset({6, 7})
 
 LIST_RE = re.compile(r"^([ \t]*)([-*]|\d+\.)\s+(.*)$")
 HEADING_RE = re.compile(r"^(#{3,5})\s+(.+)$")
@@ -190,9 +201,9 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         "--chapter",
         action="append",
         type=int,
-        choices=(5, 6),
+        choices=SUPPORTED_CHAPTERS,
         default=[],
-        help="Chapter to scan (repeatable: 5 and/or 6). Default 5 when --file is omitted.",
+        help="Chapter to scan (repeatable: 5, 6, and/or 7). Default 5 when --file is omitted.",
     )
     parser.add_argument(
         "--apex",
@@ -273,11 +284,20 @@ def _is_packable_role(role: str) -> bool:
 
 def chapter_from_rel(rel: str) -> int | None:
     name = Path(rel).name if rel else ""
+    if name.startswith("core_07_"):
+        return 7
     if name.startswith("core_06_"):
         return 6
     if name.startswith("core_05_"):
         return 5
     return None
+
+
+RULE_ID_BY_CHAPTER: dict[int, str] = {
+    5: "CH5-NEST-CANDIDATE",
+    6: "CH6-NEST-CANDIDATE",
+    7: "CH7-NEST-CANDIDATE",
+}
 
 
 def rule_ids_for(paths: list[Path], chapters: list[int]) -> tuple[str, ...]:
@@ -286,12 +306,13 @@ def rule_ids_for(paths: list[Path], chapters: list[int]) -> tuple[str, ...]:
         chapter = chapter_from_rel(path.name)
         if chapter is not None:
             found.add(chapter)
-    ids: list[str] = []
-    if 5 in found or not found:
-        ids.append("CH5-NEST-CANDIDATE")
-    if 6 in found:
-        ids.append("CH6-NEST-CANDIDATE")
-    return tuple(ids)
+    if not found:
+        found.add(5)
+    return tuple(
+        RULE_ID_BY_CHAPTER[chapter]
+        for chapter in SUPPORTED_CHAPTERS
+        if chapter in found
+    )
 
 
 def is_guidepost_header(body: str) -> bool:
@@ -529,7 +550,7 @@ def score_units(
             continue
         packing = [kind for kind in kinds if not kind.startswith("words:")]
         if (
-            chapter == 6
+            chapter in WORDS_ONLY_SKIP_CHAPTERS
             and unit.role == "other"
             and not packing
         ):
@@ -625,6 +646,8 @@ def resolve_targets(root: Path, args: argparse.Namespace) -> list[Path]:
                 names_list.extend(CH5_APEX)
         if 6 in chapters:
             names_list.extend(CH6_RIGHTS)
+        if 7 in chapters:
+            names_list.extend(CH7_PARTS)
         names = tuple(names_list)
     paths: list[Path] = []
     for name in names:

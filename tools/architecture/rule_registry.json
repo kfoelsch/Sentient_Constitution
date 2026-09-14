@@ -150,6 +150,13 @@
       "status": "advisory"
     },
     {
+      "id": "CH7-NEST-CANDIDATE",
+      "legacy_ref": "Chapter Seven nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Seven labeled walkthrough and record bullets that would scan better as nested children. Not a regression gate.",
+      "make_target": "ch7-nested-list-candidates",
+      "status": "advisory"
+    },
+    {
       "id": "GLOSS-SUBARTICLE",
       "legacy_ref": "Plain-language gloss placement",
       "summary": "Chapter Six #### subarticles with operative bullets need In plain terms line.",

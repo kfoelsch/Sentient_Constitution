@@ -65,11 +65,12 @@ Source: whole-corpus evaluation on 2026-09-09 (core read directly; Chapters Seve
 
 ### 2026-09-14 — Nested-list readability pass (remaining chapters)
 
-Same nest-or-leave method as Chapter Five and Chapter Six: extend `tools/ch5_nested_list_candidate_audit.py` to the chapter, rank packed bullets, nest real parallel lists, leave one-clause “including …” glosses and continuous legal arguments. Advisory finder only (`make ch5-nested-list-candidates`, `make ch6-nested-list-candidates`); not a regression gate.
+Same nest-or-leave method as Chapter Five and Chapter Six: extend `tools/ch5_nested_list_candidate_audit.py` to the chapter, rank packed bullets, nest real parallel lists, leave one-clause “including …” glosses and continuous legal arguments. After the first nest, **re-scan children for subbullets**: the finder skips any parent that already has a child, so packed lists under those parents never rank until you look by hand (or nest, then re-run). Nest real parallel grandchildren; leave one-clause glosses at that layer too. Advisory finder only (`make ch5-nested-list-candidates`, `make ch6-nested-list-candidates`, `make ch7-nested-list-candidates`); not a regression gate.
 
-- [x] **Chapter Five** — finder + nest-or-leave on band files (`CH5-NEST-CANDIDATE`).
-- [x] **Chapter Six** — finder `--chapter 6` + nest-or-leave on Parts A–D (`CH6-NEST-CANDIDATE`). Mild including-lists and sequential prose left on purpose.
-- [ ] **Remaining numbered chapters** — Preamble; Chapters One through Four; Chapters Seven through Sixteen (including split files: Chapter One Parts A–C; Chapter Seven Parts A–B; Chapter Ten Parts A–B). For each: extend the candidate finder, run the ranked scan, nest only parallel checklists. Out of scope unless separately requested: companion layers (`corpus_*`), `core_08-11_application_vignettes.md`, and implementation/adoption pages.
+- [x] **Chapter Five** — finder + nest-or-leave on band files (`CH5-NEST-CANDIDATE`). Done before the subbullet re-scan was named as a required step.
+- [x] **Chapter Six** — finder `--chapter 6` + nest-or-leave on Parts A–D (`CH6-NEST-CANDIDATE`). Mild including-lists and sequential prose left on purpose. Done before the subbullet re-scan was named as a required step.
+- [x] **Chapter Seven** — finder `--chapter 7` + nest-or-leave on Parts A–B (`CH7-NEST-CANDIDATE`). Illustrative walkthrough checklists nested; grandchild pass on packed children (record contents, disclosure/contest items, unfinished-work kinds, Class B §6.1 examples); one-clause including-glosses and continuous legal arguments left on purpose.
+- [ ] **Remaining numbered chapters** — Preamble; Chapters One through Four; Chapters Eight through Sixteen (including split files: Chapter One Parts A–C; Chapter Ten Parts A–B). For each: extend the candidate finder, run the ranked scan, nest only parallel checklists, then re-scan nested children and nest only parallel subbullets. Out of scope unless separately requested: companion layers (`corpus_*`), `core_08-11_application_vignettes.md`, and implementation/adoption pages.
 
 ### P2 — Load-Bearing Capitalization Pass
 
