@@ -1705,23 +1705,98 @@ Where sentients depend on markets, platforms, infrastructure, labor arrangements
 - non-coercive bargaining for workers, suppliers, users, dependent participants, and affected stakeholders;
 - reviewable access to essential or high-dependency infrastructure where denial would defeat Chapter Six protections, audit, redress, or meaningful agency.
 
-Scale, integration, intellectual-property protection, temporary advantage from genuine innovation, or efficiency from lawful coordination is not prohibited by itself. Those advantages stay valid only while they do not become durable domination, coercive dependency, Rights-Floor degradation, ecological burden shifting, or capture of accountability pathways — and therefore do not undermine the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) or the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad). Efficiency, competitiveness, emergency, security, or productive-capacity justifications must satisfy the traceability and evidence duties in [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) and Chapter Four.
+The following is not prohibited by itself:
+- scale;
+- integration;
+- intellectual-property protection;
+- temporary advantage from genuine innovation;
+- efficiency from lawful coordination.
+
+Those advantages stay valid only while they do not become the following, and therefore do not undermine the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) or the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad):
+- durable domination;
+- coercive dependency;
+- Rights-Floor degradation;
+- ecological burden shifting;
+- capture of accountability pathways.
+
+The following justifications must satisfy the traceability and evidence duties in [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) and Chapter Four:
+- efficiency;
+- competitiveness;
+- emergency;
+- security;
+- productive-capacity.
 
 <a id="1322-anti-domination-prohibitions-donts"></a>
 ##### 13.2.2 Anti-Domination Prohibitions (Don'ts)
 
 *In plain terms (don'ts): no locking sentients in, blocking rivals, suppressing fair bargaining, or capturing constitutional accountability.*
 
-No sentient, institution, platform, enterprise, state organ, steward, or coordinated group may create, maintain, acquire, exploit, conceal, or restructure around durable market, platform, infrastructure, labor, supplier, data, compute, credentialing, capital-access, or resource-control power where that power foreseeably degrades wellbeing, meaningful agency, fair compensation, innovation, access, ecological integrity, contestability, or constitutional review.
+None of the following:
+- sentient(s);
+- institution(s);
+- platform(s);
+- enterprise(s);
+- state organ(s);
+- steward(s);
+- coordinated group(s).
+
+may:
+- create;
+- maintain;
+- acquire;
+- exploit;
+- conceal;
+- restructure around.
+
+durable power of any of the following kinds:
+- market;
+- platform;
+- infrastructure;
+- labor;
+- supplier;
+- data;
+- compute;
+- credentialing;
+- capital-access;
+- resource-control.
+
+where that power foreseeably degrades:
+- wellbeing;
+- meaningful agency;
+- fair compensation;
+- innovation;
+- access;
+- ecological integrity;
+- contestability;
+- constitutional review.
 
 <a id="1323-remedies"></a>
 ##### 13.2.3 Remedies
 
 *In plain terms: when domination is substantiated, the response must fit the harm, restore real choice, and not punish size for its own sake.*
 
-Illustrative prohibited conduct patterns, proportionate remedy tools, and cross-domain evaluation routing live in **CJS-3.11.2 — Anti-domination conduct and remediation catalog**. Labor-mobility categorical prohibitions are owned by [Article III-D](core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*); interoperability, portability, and exit-integrity operational terms by **CJS-3.17**; horizontal and vertical consolidation risk patterns by **§13.3**.
+The following live in **CJS-3.11.2 — Anti-domination conduct and remediation catalog**:
+- illustrative prohibited conduct patterns;
+- proportionate remedy tools;
+- cross-domain evaluation routing.
 
-Remedies must be proportionate to the concentration, dependency, conduct, and constitutional harm, restore contestability where domination is substantiated, preserve the Chapter Six Rights Floor, and may not punish scale alone. Operative remedy selection follows **CJS-3.11.2** (*Anti-domination conduct and remediation catalog*).
+Other owners:
+- labor-mobility categorical prohibitions: [Article III-D](core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*);
+- interoperability, portability, and exit-integrity operational terms: **CJS-3.17**;
+- horizontal and vertical consolidation risk patterns: **§13.3**.
+
+Remedies must:
+- be proportionate to:
+  - concentration;
+  - dependency;
+  - conduct;
+  - constitutional harm;
+- restore contestability where domination is substantiated;
+- preserve the Chapter Six Rights Floor.
+
+Remedies may not punish scale alone.
+
+Operative remedy selection follows **CJS-3.11.2** (*Anti-domination conduct and remediation catalog*).
 
 <a id="133-consolidation-ceiling"></a>
 #### 13.3 Consolidation Ceiling
@@ -1751,16 +1826,63 @@ Remedies must be proportionate to the concentration, dependency, conduct, and co
 
 *In plain terms: consolidation can steal real choice long before a market looks locked down. **Consolidation ceilings** give governance and stewards an early-warning power — to scrutinize, intervene, and correct pile-ups while exit and rivalry still exist.*
 
-Consolidation that predictably impairs contestability before lock-in is obvious is a [Governance](core_05_band_accountability.md#governance) and [Stewardship](core_05_band_continuity.md#stewardship-constitutional) problem, not only a post-hoc domination problem. **§13.3** states principle-layer consolidation-ceiling discipline under [§13](#13-market-structure) and [§13.2](#132-pro-competition-and-anti-domination): adopters and governing systems must detect horizontal, vertical, and cross-domain pile-ups while review, intervention, and structural remedy can still restore contestability.
+Consolidation that predictably impairs contestability before lock-in is obvious is a [Governance](core_05_band_accountability.md#governance) and [Stewardship](core_05_band_continuity.md#stewardship-constitutional) problem, not only a post-hoc domination problem, and is principle-layer consolidation-ceiling discipline under:
+- [§13](#13-market-structure);
+- [§13.2](#132-pro-competition-and-anti-domination).
 
-That discipline serves the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially **oversight**, **accountability**, and **timeliness** through early review before lock-in defeats scrutiny and correction; **participation** where consolidation forecloses fair entry, exit, or bargaining — scaled to [material stake](core_00_preamble.md#material-stake). It advances the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) (contestable, durable productive conditions) and the **Flourishing** aim (livelihood, agency, and innovation pathways while alternatives remain real). Operative ceiling-setting rules live in [§13.3.2](#1332-ceiling-discipline-adopter-requirements) and **CJS-3.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)**.
+Adopters and governing systems must detect consolidation pile-ups of the following kinds:
+- horizontal (*fewer rivals at the same layer*);
+- vertical (*control across layers that creates chokepoints and lock-in*);
+- cross-domain (*federated, shell, or split-domain forms that keep the same pile-up of control*).
+
+while the following can still restore contestability:
+- review;
+- intervention;
+- structural remedy.
+
+That discipline serves the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake), especially:
+- **oversight**, **accountability**, and **timeliness** through early review before lock-in defeats:
+  - scrutiny;
+  - correction;
+- **participation** where consolidation forecloses:
+  - fair entry;
+  - exit;
+  - bargaining.
+
+It advances the following under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+- **Continuity** aim (contestable, durable productive conditions);
+- **Flourishing** aim (livelihood, agency, and innovation pathways while alternatives remain real).
+
+Operative ceiling-setting rules live in:
+- [§13.3.2](#1332-ceiling-discipline-adopter-requirements);
+- **CJS-3.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)**.
 
 <a id="1331-consolidation-risk-pre-lock-in-impairment"></a>
 ##### 13.3.1 Consolidation Risk (Pre-Lock-In Impairment)
 
 *In plain terms: consolidation can hollow out real alternatives long before a market looks "locked down." Two kinds of pile-up matter especially: **horizontal consolidation** — fewer rivals at the same layer — and **vertical consolidation** — control across layers that creates chokepoints and lock-in.*
 
-Consolidation can predictably impair contestability, substitutability, fair bargaining, entry, exit, innovation, stakeholder agency, interoperability, portability, or constitutional review before lock-in is obvious. Review must not wait until a market, platform, labor pool, data layer, compute layer, or infrastructure dependency is already locked down. The principal risk patterns are:
+Consolidation can predictably impair the following before lock-in is obvious:
+- contestability;
+- substitutability;
+- fair bargaining;
+- entry;
+- exit;
+- innovation;
+- stakeholder agency;
+- interoperability;
+- portability;
+- constitutional review.
+
+Review must not wait until any of the following is already locked down:
+- market(s);
+- platform(s);
+- labor pool(s);
+- data layer(s);
+- compute layer(s);
+- infrastructure dependency(ies).
+
+The principal risk patterns are:
 
 - **Horizontal consolidation** (*same-layer rival reduction*). Consolidation that reduces alternatives, rivalry, or bargaining power within a single layer or market — for example fewer contestable sellers or service providers, labor-market monopsony, serial or killer acquisitions that remove potential competition, or buyer-power concentration that forecloses rivals while headline prices stay stable.
 - **Vertical consolidation** (*cross-layer dependency and chokepoint control*). Consolidation that links control across layers of a value chain, platform stack, or dependency chain — for example input or interface capture, capital-access gatekeeping, interoperability or portability suppression, self-preferencing, or ranking control that raises switching costs and defeats exit.
@@ -1768,7 +1890,21 @@ Consolidation can predictably impair contestability, substitutability, fair barg
 
 Either pattern may involve dependency density, switching costs, lock-in, substitute foreclosure, or ecological burden concentration or control over environmental preconditions where materially relevant.
 
-Ceiling evaluation judges substantive control, not formal entity count. Federated, shell, contractual, licensing, patent, common-ownership, cross-platform, successor, delegated, or cross-domain arrangements remain in scope where they preserve effective consolidation while avoiding nominal thresholds.
+Ceiling evaluation judges:
+- substantive control;
+- not formal entity count.
+
+The following remain in scope where they preserve effective consolidation while avoiding nominal thresholds:
+- federated form(s);
+- shell(s);
+- contractual arrangement(s);
+- licensing arrangement(s);
+- patent arrangement(s);
+- common-ownership arrangement(s);
+- cross-platform arrangement(s);
+- successor(s);
+- delegated arrangement(s);
+- cross-domain arrangement(s).
 
 <a id="1332-ceiling-discipline-adopter-requirements"></a>
 ##### 13.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)
@@ -1787,7 +1923,24 @@ Ceiling evaluation judges substantive control, not formal entity count. Federate
 
 **Consolidation ceilings** are adopter-tunable early-warning triggers for heightened review, intervention, or structural remedy when consolidation reaches a level at which the impairments in **§13.3.1** are predictably imminent. They sit under the **§13** non-concentration discipline and **§13.2** anti-domination rules; they are not a ban on scale.
 
-Adopters must define consolidation ceilings for markets, platforms, infrastructure layers, labor-demand markets, supplier or resource-control systems, data or compute dependencies, credentialing role pathways, capital-access channels, and comparable domains where consolidation can materially affect sentient opportunity, livelihood, agency, wellbeing, ecological integrity, or constitutional accountability.
+Adopters must define consolidation ceilings for:
+- markets;
+- platforms;
+- infrastructure layers;
+- labor-demand markets;
+- supplier or resource-control systems;
+- data or compute dependencies;
+- credentialing role pathways;
+- capital-access channels;
+- comparable domains.
+
+where consolidation can materially affect:
+- sentient opportunity;
+- livelihood;
+- agency;
+- wellbeing;
+- ecological integrity;
+- constitutional accountability.
 
 Operative ceiling-setting discipline — horizontal and vertical trigger design, crossing presumption, rebuttal, anti-nullification, and remedy routing — lives in **CJS-3.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)**.
 
@@ -1825,7 +1978,26 @@ Operative ceiling-setting discipline — horizontal and vertical trigger design,
 
 *In plain terms: this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Seven** and **CS-3**, not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XV**, [Auditability](core_05_band_oversight.md#auditability)).*
 
-Chapter One supplies the constitutional orientation: classification, compliance, governance, limitation, recognition, validation, continued reliance, deployment, and release-from-conditions claims must be tested against whole-system effects, not slogans or local snapshots. The detailed evaluation factors and certification records are owned by **[Chapter Seven §3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**, **[Chapter Seven §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record)**, and **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**. That Chapter Seven process is principle-layer auditing under [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) — one especially large audit process among sibling modes; it does not relocate or replace **Article XV** (*Audit, Transparency, and Independent Verification*).
+Chapter One sets the direction. Claims of the following kinds must be tested against what the whole system actually does — not against slogans, and not against a snapshot of one part or moment:
+- classification;
+- compliance;
+- governance;
+- limitation;
+- recognition;
+- validation;
+- continued reliance;
+- deployment;
+- release-from-conditions.
+
+The detailed evaluation factors and certification records are owned by:
+- **[Chapter Seven §3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
+- **[Chapter Seven §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record)**;
+- **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**.
+
+That Chapter Seven process:
+- is principle-layer auditing under [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional);
+- is one especially large audit process among sibling modes;
+- does not relocate or replace **Article XV** (*Audit, Transparency, and Independent Verification*).
 
 <a id="15-integrated-application"></a>
 ### 15. Integrated Application
