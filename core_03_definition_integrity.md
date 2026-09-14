@@ -54,6 +54,14 @@ Chapter Three is the constitutional owner of **definition integrity, evasion, an
 
 [Non-Compliance Finding Profiles](#3-non-compliance-finding-profiles)
 
+[Operational Constraints](#34-operational-constraints)
+
+[Standing Effects for Already-Certified Systems](#31-standing-effects-for-already-certified-systems)
+
+[Standing Effects at First Certification](#32-standing-effects-at-first-certification)
+
+[Standing Effects for Sentients and Institutions](#33-standing-effects-for-sentients-and-institutions)
+
 [Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior)
 
 [Common Evasion Patterns](#21-common-evasion-patterns)
@@ -68,7 +76,11 @@ Chapter Three is the constitutional owner of **definition integrity, evasion, an
 
 <br>
 
-This section governs how definitions must be interpreted and applied in practice. Definitions must be interpreted and applied based on observable system behavior and outcomes under full functional system conditions. Interpretations, constructions, and system behaviors that undermine the full semantic, assessment, and compliance scope of definitions — corresponding to their Ontological (O), Assessment (A), and Compliance (C) components — are prohibited; [**Section 2**](#2-non-compliance-from-observable-system-behavior) of this chapter specifies non-compliance from observable behavior and evasion. Functional equivalence prevails over naming, structure, decomposition, representation, or declared intent; the outcomes a system produces govern how it is classified and evaluated.
+This section governs how definitions must be interpreted and applied in practice.
+
+- Definitions must be interpreted and applied based on observable system behavior and outcomes under full functional system conditions.
+- Interpretations, constructions, and system behaviors that undermine the full semantic, assessment, and compliance scope of definitions — corresponding to their Ontological (O), Assessment (A), and Compliance (C) components — are prohibited; [**Section 2**](#2-non-compliance-from-observable-system-behavior) of this chapter specifies non-compliance from observable behavior and evasion.
+- Functional equivalence prevails over naming, structure, decomposition, representation, or declared intent; the outcomes a system produces govern how it is classified and evaluated.
 
 This section does not define evaluation standards, evidence sufficiency, or burden of proof, which are governed exclusively by **Chapter Two, section 1** and **Chapter Four, sections 1 and 4**.
 
@@ -86,7 +98,12 @@ This section does not define evaluation standards, evidence sufficiency, or burd
 
 *In plain terms: a system is non-compliant when what it actually does or produces would break a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §2.2 — regardless of intent, awareness, or claimed purpose.*
 
-This section defines when systems are non-compliant based on observable behavior and outcomes — including where declared behavior or scope diverges from actual effects, and including evasion across time, scale, system interaction, and operating conditions where they matter. A system is non-compliant where those observables would violate a definition under full application of its Ontological (O), Assessment (A), and Compliance (C) components, regardless of declared structure, interpretation, or implementation.
+This section defines when systems are non-compliant based on observable behavior and outcomes, including:
+
+- where declared behavior or scope diverges from actual effects
+- evasion across time, scale, system interaction, and operating conditions where they matter
+
+A system is non-compliant where those observables would violate a definition under full application of its Ontological (O), Assessment (A), and Compliance (C) components, regardless of declared structure, interpretation, or implementation.
 
 **How to evaluate.** Systems are non-compliant where:
 
@@ -198,7 +215,7 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 
 <br>
 
-*In plain terms: when something fails a definition, a finding profile is an optional label that says what kind of constitutional problem it is — for routing and audits. It does not change the pass/fail result. For systems already running under alignment certification, verified non-compliance must feed standing; sentients and institutions are tagged only when linkage is verified. First-time certification is a special case, noted below.*
+*In plain terms: when something fails a definition, a finding profile is an optional label that says what kind of constitutional problem it is — for routing and audits. It does not change the pass/fail result. For systems already running under alignment certification, verified non-compliance must feed standing; sentients and institutions are tagged only when linkage is verified. First-time certification is a special case ([§3.2](#32-standing-effects-at-first-certification)).*
 
 Material **non-compliance** findings under this chapter or under invoked **Chapter Five** definitions may carry a [Non-Compliance Finding Profile](core_05_band_accountability.md#non-compliance-finding-profile). The profile is orientation and routing metadata only. It:
 
@@ -207,13 +224,34 @@ Material **non-compliance** findings under this chapter or under invoked **Chapt
 - does not create a second verdict label
 - does not replace [Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) contribution or violation measurement
 
-**Standing effects — primary case (already certified / operational).** Where a system is already operating under a [system alignment certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (including recognition, conditional recognition, or an unexpired revalidation), material verified non-compliance on that system's functional scope **must** feed [Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing measurement for **that system**, subject to the verified-input gate. Measure and apply standing under Chapters Eight and Nine. Reopening, withdrawal, or related certification consequences remain under [Chapter Seven](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) and do not substitute for the system standing record.
+Standing effects depend on who is being assessed and on whether the system is already certified. The subsections below set those cases.
 
-**Standing effects — first certification (special case).** Where the system is still in its **first** [system alignment certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) process and has not yet received recognition (including where recognition is deferred or refused), verified non-compliance primarily governs the **certification outcome** under Chapter Seven — conditional recognition, deferred recognition, non-recognition, or comparable disposition. Those certification records may still supply verified standing input under [Chapter Seven §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) where the facts support it, but this chapter does not require a post-operational standing tag of the same kind as for an already-certified running system.
+#### 3.1 Standing Effects for Already-Certified Systems
 
-**Standing effects — sentients and institutions.** Sentient standing effects arise only where actor-specific linkage is verified (causal role, duty, authority, control, foreseeability, benefit, concealment, or feasible prevention capacity) — not by association with the non-compliant system alone. Institutional standing effects arise where the institution is the assessed subject or the verified vehicle of the non-compliance pattern; they remain separately traceable from individual sentient records. Apply those cases under [Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Nine](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration). The finding profile helps route and audit; it does not itself set standing outcomes, slots, locks, gates, or remedies.
+If a system is already running under a [system alignment certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) — including recognition, conditional recognition, or a revalidation that has not expired — material verified non-compliance on that system's functional scope **must** go into [Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing measurement for **that system**. Only facts that pass the [verified-input gate](core_08_standing_assessment.md#verified-inputs-for-standing) may enter. Measure and apply standing under Chapters Eight and Nine. Reopening, withdrawal, or other certification consequences stay under [Chapter Seven](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion). They do not replace that system's standing records.
 
-**Operational constraints.** Non-compliance may also be found against operational constraints in the joint implementation corpus. Default finding profiles and how they attach to those findings are handled there — not in this chapter. See [CJS-3.1 Constitutional compass and cluster map](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+#### 3.2 Standing Effects at First Certification
+
+If the system is still in its **first** [system alignment certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) and has not yet been recognized — including where recognition is deferred or refused — verified non-compliance primarily decides the **certification outcome** under Chapter Seven. That outcome may be conditional recognition, deferred recognition, non-recognition, or a comparable result. Those certification records may still supply verified standing input under [Chapter Seven §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) when the facts support it. This chapter does not require the same standing records that an already-certified running system must receive.
+
+#### 3.3 Standing Effects for Sentients and Institutions
+
+A sentient's standing is affected only when a verified link to that sentient is shown. Being associated with the non-compliant system is not enough. The verified link must be to:
+
+- causal role
+- duty
+- authority
+- control
+- foreseeability
+- benefit
+- concealment
+- feasible prevention capacity
+
+An institution's standing is affected when the institution is the subject being assessed, or when it is verified as the vehicle of the non-compliance pattern. Institution records remain separately traceable from individual sentient records. Apply those cases under [Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Nine](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration). The finding profile helps route and audit. It does not itself set standing outcomes, slots, locks, gates, or remedies.
+
+#### 3.4 Operational Constraints
+
+Non-compliance may also be found against operational constraints in the joint implementation corpus. Default finding profiles and how they attach to those findings are handled there — not in this chapter. See [CJS-3.1 Constitutional compass and cluster map](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 
 ---
 
