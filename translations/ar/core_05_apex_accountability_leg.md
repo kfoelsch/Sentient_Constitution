@@ -22,7 +22,7 @@
 
 - أعلى: [بوصلة الفصل الخامس](core_05__definitions_home.md#chapter-five-compass-and-definition-map)؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) (رجل المساءلة؛ القياس بـ[الرهان المادي](core_00_preamble.md#material-stake))؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims)؛ المقصد الأولي [الازدهار](core_00_preamble.md#flourishing).
 - أسفل: المبادئ: [§10 الحوكمة تحت انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)؛ [الفصل الأول §11.6 مسؤولية الخلف ومنع الهروب بالبنية الشكلية](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)؛ [تفكيك رجل الرباعية](#accountability-tetrad-leg-decomposition)؛ التعريفات الطرفية لنطاق المساءلة في [core_05_band_accountability.md](../../core_05_band_accountability.md).
-- رجل الرباعية الشقيقة: [حسن التوقيت](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+- رجل الرباعية الشقيقة: [حسن التوقيت](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 - يُقرأ مع: [عنقود المساءلة وقابلية الطعن والبتّ وحل النزاعات وفشل المساءلة الجماعية والقوة القاهرة](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster)، [قابلية الطعن](../../core_05_band_accountability.md#contestability)، [قابلية التدقيق](../../core_05_band_oversight.md#auditability)، [الفعل القابل للإسناد](../../core_05_band_accountability.md#attributable-action-constitutional)، [نزاهة الإسناد](../../core_05_band_accountability.md#attribution-integrity-constitutional)، [الفصل الأول §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)، [الفصل الثالث §2.1.1 التلاعب بالتسمية الشكلية والتمثيل](core_03_definition_integrity.md#211-formal-label-and-representation-gaming)، و[الفصل التاسع §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -69,7 +69,7 @@
 - **Def.A3 حالة الوضعية والإسهام والانتهاك** — [Def.A3 *حالة الوضعية والإسهام والانتهاك*](../../core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)
 - **Def.A4 استخدام القوة والإكراه المستقل والأنظمة الفتاكة المستقلة وأسلحة الضرر الجماعي** — [Def.A4 *استخدام القوة والإكراه المستقل والأنظمة الفتاكة المستقلة وأسلحة الضرر الجماعي*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
-**رجل الرباعية الشقيقة:** [حسن التوقيت](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+**رجل الرباعية الشقيقة:** [حسن التوقيت](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 
 تعيش **المصطلحات المستقلة وشبه المستقلة** تحت [المساءلة: مصطلحات مستقلة](../../core_05_band_accountability.md#accountability-independent-terms) و[المساءلة: مصطلحات شبه مستقلة](../../core_05_band_accountability.md#accountability-semi-independent-terms).
 

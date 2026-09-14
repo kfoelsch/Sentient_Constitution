@@ -22,7 +22,7 @@
 
 - 上游：[第五章指南针](core_05__definitions_home.md#chapter-five-compass-and-definition-map)；[宪法四元](core_00_preamble.md#constitutional-tetrad)（问责腿；按[实质利害](core_00_preamble.md#material-stake)缩放）；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)；首要宗旨[繁盛](core_00_preamble.md#flourishing)。
 - 下游：原则：[§10 尽责管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)；[第一章 §11.6 继受责任与形式结构不得逃脱](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)；[四元腿分解](#accountability-tetrad-leg-decomposition)；问责带叶定义在 [core_05_band_accountability.md](../../core_05_band_accountability.md)。
-- 四元姐妹腿：[及时性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)。
+- 四元姐妹腿：[及时性](core_05_apex_timeliness_leg.md#timeliness-constitutional)。
 - 一并阅读：[问责、可质疑性、裁决与争议解决、集体问责失败与不可抗力簇](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster)、[可质疑性](../../core_05_band_accountability.md#contestability)、[可审计性](../../core_05_band_oversight.md#auditability)、[可归因行动](../../core_05_band_accountability.md#attributable-action-constitutional)、[归因完整性](../../core_05_band_accountability.md#attribution-integrity-constitutional)、[第一章 §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)、[第三章 §2.1.1 形式标签与表征博弈](core_03_definition_integrity.md#211-formal-label-and-representation-gaming)，以及[第九章 §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)。
 
 </details>
@@ -69,7 +69,7 @@
 - **Def.A3 轨迹状态、贡献与违规** — [Def.A3 *轨迹状态、贡献与违规*](../../core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)
 - **Def.A4 使用武力、自主强制、自主致命系统与大规模伤害武器** — [Def.A4 *使用武力、自主强制、自主致命系统与大规模伤害武器*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
-**四元姐妹腿：** [及时性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)。
+**四元姐妹腿：** [及时性](core_05_apex_timeliness_leg.md#timeliness-constitutional)。
 
 **独立与半独立用语**住在[问责：独立用语](../../core_05_band_accountability.md#accountability-independent-terms)与[问责：半独立用语](../../core_05_band_accountability.md#accountability-semi-independent-terms)之下。
 

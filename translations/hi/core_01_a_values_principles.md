@@ -73,7 +73,7 @@
 <summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
 
 - [कल्याण](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [सहभागिता](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [सहभागिता](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [गरिमा और समान नैतिक सम्मान](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [सारभूत निष्पक्षता](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [तात्विकता](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
@@ -87,7 +87,7 @@
 
 इस संविधान के अधीन शासित सभी प्रणालियों का अंतिम उद्देश्य संज्ञ [कल्याण](../../core_05_band_continuity.md#wellbeing) को सुरक्षित रखना और आगे बढ़ाना है — [दो संवैधानिक उद्देश्यों](../../core_00_preamble.md#two-constitutional-aims) के अधीन [**समुन्नति**](#flourishing) उद्देश्य।
 
-कल्याण [संवैधानिक चतुष्क](../../core_00_preamble.md#constitutional-tetrad) के अधीन [सहभागिता](../../core_05_apex_participation_leg.md#participation-constitutional) के लिए आधारभूत है। साझा प्रणालियाँ सहभागिता को तब पूरा नहीं मान सकतीं जब अंतर्निहित कल्याण स्थितियाँ — [अर्थपूर्ण अभिकर्तृत्व](../../core_05_band_participation.md#meaningful-agency), निष्पक्ष पहुँच और गरिमा सहित — तात्विक रूप से क्षीण हों।
+कल्याण [संवैधानिक चतुष्क](../../core_00_preamble.md#constitutional-tetrad) के अधीन [सहभागिता](core_05_apex_participation_leg.md#participation-constitutional) के लिए आधारभूत है। साझा प्रणालियाँ सहभागिता को तब पूरा नहीं मान सकतीं जब अंतर्निहित कल्याण स्थितियाँ — [अर्थपूर्ण अभिकर्तृत्व](../../core_05_band_participation.md#meaningful-agency), निष्पक्ष पहुँच और गरिमा सहित — तात्विक रूप से क्षीण हों।
 
 कल्याण में केवल तात्कालिक प्रभाव नहीं, बल्कि अप्रत्यक्ष, विलंबित, संचयी और अंतर-प्रणाली परिणाम भी शामिल हैं, जिनका मूल्यांकन [**अध्याय दो से चार**](core_02_definition_structure.md) के अधीन होता है। इस मूल्य परत पर कल्याण:
 - वास्तविक सहभागिता संभव बनाता है — आवाज़ जिसका उपयोग करने की स्थितियाँ संज्ञ प्राणियों के पास न हों, अर्थपूर्ण सहभागिता नहीं है
@@ -101,7 +101,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - साथ पढ़ें: [संवैधानिक चतुष्क](../../core_00_preamble.md#constitutional-tetrad) — **सहभागिता** टाँग (पहुँच, आवाज़ और चुनौती-योग्यता; सामान्य अपेक्षा, केवल [प्रभावित पक्षों की प्रणालीगत सहभागिता](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) नहीं); **जवाबदेही** टाँग जहाँ लाभ और भार जुड़ते हैं।
-- ऊर्ध्व: सिद्धांत: [§2 आधारभूत उद्देश्य: कल्याण](#2-foundational-objective-wellbeing) — कल्याण सहित [सहभागिता](../../core_05_apex_participation_leg.md#participation-constitutional) के लिए आधारभूत।
+- ऊर्ध्व: सिद्धांत: [§2 आधारभूत उद्देश्य: कल्याण](#2-foundational-objective-wellbeing) — कल्याण सहित [सहभागिता](core_05_apex_participation_leg.md#participation-constitutional) के लिए आधारभूत।
 - अधो: [2.2 मान्यता, सुदृढ़ीकरण और आकांक्षा](#22-recognition-reinforcement-and-aspiration); [4. विश्वास](#4-system-stability-enabler-trust-coordination-integrity), [§9 उत्तरदायी प्रबंधन और वितरित समझ](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. प्रक्रिया संघर्ष समाधान](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), और [§6.1 निर्णय-अभिलेख अनुशासन](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) जहाँ पूर्विकता और आवंटन चयन सुसंगत और समीक्षा-योग्य रहने चाहिए।
 - उपखंड (पढ़ने का क्रम): [§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment)।
 - अधो: समान नैतिक सम्मान, मनमाना-नहीं व्यवहार, अर्थपूर्ण चुनौती, और आनुपातिक प्रतिबंध सीमाओं के लिए अधिकार-सतह गढ़ता है।
@@ -117,7 +117,7 @@
 
 - [गरिमा और समान नैतिक सम्मान](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [सुगम्यता](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
-- [सहभागिता](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [सहभागिता](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [प्रक्रियात्मक निष्पक्षता](../../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [सारभूत निष्पक्षता](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [संरक्षित विशेषताएँ](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
@@ -133,7 +133,7 @@
 
 **निष्पक्षता** उस का भाग है जो [§2](#2-foundational-objective-wellbeing) माँगता है जब भी संज्ञ प्राणियों को साझा प्रणालियों के माध्यम से जीना, काम करना, सीखना, व्यापार करना या निर्णय लेना हो। जहाँ साझा प्रणालियाँ संज्ञ प्राणियों को तात्विक रूप से प्रभावित करें, निष्पक्षता पूछती है कि अवसर, व्यवहार, और लाभ-भार का विभाजन [गरिमा और समान नैतिक सम्मान](../../core_05_band_participation.md#dignity-and-equal-moral-standing) का सम्मान करता है या नहीं।
 
-निष्पक्षता [सहभागिता](../../core_05_apex_participation_leg.md#participation-constitutional) को वास्तविक बनाने में मदद करती है। सहभागिता वास्तविक नहीं जब संज्ञ प्राणियों के पास कागज़ पर आवाज़ हो पर वे प्रक्रिया तक पहुँच न सकें, नियम समझ न सकें, शर्तें पूरी न कर सकें, परिणाम को चुनौती न दे सकें, या उन पर रखा भार उठा न सकें।
+निष्पक्षता [सहभागिता](core_05_apex_participation_leg.md#participation-constitutional) को वास्तविक बनाने में मदद करती है। सहभागिता वास्तविक नहीं जब संज्ञ प्राणियों के पास कागज़ पर आवाज़ हो पर वे प्रक्रिया तक पहुँच न सकें, नियम समझ न सकें, शर्तें पूरी न कर सकें, परिणाम को चुनौती न दे सकें, या उन पर रखा भार उठा न सकें।
 
 किसी प्रणाली के लिए अच्छा औसत परिणाम दिखाना पर्याप्त नहीं। एक शीर्षक माप, औसत, रैंकिंग या दक्षता दावा स्वयं निष्पक्षता सिद्ध नहीं करता। एक प्रणाली समग्र में सफल दिख सकती है और फिर भी उन संज्ञ प्राणियों के प्रति अन्यायपूर्ण रह सकती है जिन्हें बाहर किया गया, गलत वर्गीकृत किया गया, कम भुगतान दिया गया, अधिक भार दिया गया, या आपत्ति का अर्थपूर्ण अवसर नहीं दिया गया।
 
@@ -142,7 +142,7 @@
 <a id="211-access-and-opportunity"></a>
 ##### 2.1.1 पहुँच और अवसर
 
-- संज्ञ प्राणियों को [सहभागिता](../../core_05_apex_participation_leg.md#participation-constitutional), शिक्षा, काम, देखभाल, सुरक्षा, आवागमन, और साधारण जीवन के अन्य मायने रखने वाले पदार्थों तक व्यावहारिक मार्ग चाहिए।
+- संज्ञ प्राणियों को [सहभागिता](core_05_apex_participation_leg.md#participation-constitutional), शिक्षा, काम, देखभाल, सुरक्षा, आवागमन, और साधारण जीवन के अन्य मायने रखने वाले पदार्थों तक व्यावहारिक मार्ग चाहिए।
 - वे मार्ग मनमाने या अप्रासंगिक कारणों से रोके, कीमत से बाहर, विलंबित, छिपाए या तिरछे नहीं किए जाने चाहिए।
 - केवल कागज़ पर खुला द्वार पर्याप्त नहीं जहाँ यह संविधान **सारभूत** अवसर माँगता है।
 
@@ -161,7 +161,7 @@
 - विस्तृत नियम अध्याय पाँच से चलते हैं, जिनमें [संरक्षित विशेषताएँ](../../core_05_band_participation.md#protected-characteristics-constitutional) और [संरक्षित-विशेषता स्थानापन्न और असमान प्रभाव](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) शामिल हैं।
 - जब कोई निर्णय किसी को गंभीर रूप से प्रभावित करे, या जब वे उसे चुनौती दें, समीक्षा-मार्ग को [प्रक्रियात्मक निष्पक्षता](../../core_05_band_participation.md#procedural-fairness-constitutional) पूरा करनी चाहिए जहाँ अध्याय छह या शासक दस्तावेज़ सूचना, सुनवाई, स्पष्टीकरण या समीक्षा माँगता हो।
 
-दावा किया कल्याण [§2](#2-foundational-objective-wellbeing) से संरेखित नहीं यदि वह मनमाने बहिष्कार, अस्पष्ट या अस्थिर नियमों, छिपे निष्कर्षण, या औपचारिक [सहभागिता](../../core_05_apex_participation_leg.md#participation-constitutional) पर निर्भर हो जबकि वे निष्पक्षता स्थितियाँ विफल हों जो सहभागिता को अर्थपूर्ण बनाती हैं।
+दावा किया कल्याण [§2](#2-foundational-objective-wellbeing) से संरेखित नहीं यदि वह मनमाने बहिष्कार, अस्पष्ट या अस्थिर नियमों, छिपे निष्कर्षण, या औपचारिक [सहभागिता](core_05_apex_participation_leg.md#participation-constitutional) पर निर्भर हो जबकि वे निष्पक्षता स्थितियाँ विफल हों जो सहभागिता को अर्थपूर्ण बनाती हैं।
 
 <a id="214-unfair-treatment"></a>
 ##### 2.1.4 अन्यायपूर्ण व्यवहार
@@ -181,7 +181,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - साथ पढ़ें: [संवैधानिक चतुष्क](../../core_00_preamble.md#constitutional-tetrad) — **सहभागिता** टाँग जहाँ नामित मान्यता, प्रशंसा या आकांक्षा मार्ग आवाज़, हैसियत, या परिणामी भूमिकाओं तक पहुँच को तात्विक रूप से प्रभावित करें; **जवाबदेही** टाँग (विश्वासघात, छिपाव और जवाबदेही-परिहार के लिए पुरस्कार-निषेध); **निगरानी** टाँग (पता लगाने योग्य, भ्रामक-नहीं प्रशंसा)।
-- ऊर्ध्व: सिद्धांत: [§2 आधारभूत उद्देश्य: कल्याण](#2-foundational-objective-wellbeing) — कल्याण सहित [सहभागिता](../../core_05_apex_participation_leg.md#participation-constitutional) के लिए आधारभूत; [§2.1 निष्पक्षता](#21-fairness)।
+- ऊर्ध्व: सिद्धांत: [§2 आधारभूत उद्देश्य: कल्याण](#2-foundational-objective-wellbeing) — कल्याण सहित [सहभागिता](core_05_apex_participation_leg.md#participation-constitutional) के लिए आधारभूत; [§2.1 निष्पक्षता](#21-fairness)।
 - अधो: [4. विश्वास](#4-system-stability-enabler-trust-coordination-integrity); [§9 उत्तरदायी प्रबंधन और वितरित समझ](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§10 उत्तरदायी प्रबंधन अनुशासन के अधीन शासन](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [§5 स्वतंत्रता](#5-freedom-bounded-agency)।
 - साथ पढ़ें: [अध्याय आठ §§4.3–4.4 — सामान्यीकृत वर्णनकर्ता सूची](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles) जहाँ **डोमेन-संरेखित** मान्यता या तुलनात्मक **योगदान अक्ष / उल्लंघन अक्ष** वर्णनकर्ता कथाएँ तात्विक हों।
 - साथ पढ़ें: [अध्याय आठ §4.3 — योगदान-पक्ष वर्णनकर्ता](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles) जहाँ योगदान स्वभाव और मान्यता कथाएँ तात्विक हों; [अध्याय नौ §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization) उनके प्रश्न 3 में एकीकरण के लिए।
@@ -194,7 +194,7 @@
 <summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
 
 - [कल्याण](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [सहभागिता](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [सहभागिता](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [सारभूत निष्पक्षता](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [अर्थपूर्ण अभिकर्तृत्व](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
@@ -206,7 +206,7 @@
 
 *साधारण शब्दों में: कल्याण केवल वह नहीं जो वर्जित है और जो निष्पक्ष है — साझा प्रणालियों को उस आचरण की ईमानदारी से जय और पुरस्कार भी करनी चाहिए जिसे वे दोहराना चाहती हैं, सत्य और अधिकारों के भीतर, ऐसे ढंग से जो वास्तविक सहभागिता का स्थानापन्न नहीं बल्कि सहारा हो। जीत का उत्सव वास्तविक योगदान, मरम्मत और पूर्णता को श्रेय देना है, प्रचार या छेड़े गए माप नहीं। इसका अर्थ यह भी है कि संवैधानिक विश्वासघात, छिपाव, प्रतिशोध, या जवाबदेही-परिहार को पुरस्कृत करने से इनकार — तब भी जब उन कृत्यों ने संस्थागत लाभ पैदा किया हो।*
 
-**तीन आयाम।** कल्याण इस पर निर्भर करता है कि प्रणालियाँ क्या वर्जित करती हैं और लागत कितनी निष्पक्ष बाँटती हैं — और इस पर भी कि वे क्या दृश्य रूप से मूल्य देती हैं, सुदृढ़ करती हैं, और संज्ञ प्राणियों को किसकी ओर ले जाने में मदद करती हैं। यह अनुभाग वे मान्यता, सुदृढ़ीकरण और आकांक्षा कर्तव्य कहता है। मान्यता और प्रशंसा जो आवाज़, हैसियत या पहुँच को तात्विक रूप से प्रभावित करे, [§2](#2-foundational-objective-wellbeing) और [§2.1 निष्पक्षता](#21-fairness) के अधीन [सहभागिता](../../core_05_apex_participation_leg.md#participation-constitutional) से सुसंगत रहनी चाहिए। यह [§2.1 निष्पक्षता](#21-fairness) के साथ लागू होता है और सुरक्षा, सत्य तथा अध्याय छह अधिकार-तल से सीमाबद्ध रहता है।
+**तीन आयाम।** कल्याण इस पर निर्भर करता है कि प्रणालियाँ क्या वर्जित करती हैं और लागत कितनी निष्पक्ष बाँटती हैं — और इस पर भी कि वे क्या दृश्य रूप से मूल्य देती हैं, सुदृढ़ करती हैं, और संज्ञ प्राणियों को किसकी ओर ले जाने में मदद करती हैं। यह अनुभाग वे मान्यता, सुदृढ़ीकरण और आकांक्षा कर्तव्य कहता है। मान्यता और प्रशंसा जो आवाज़, हैसियत या पहुँच को तात्विक रूप से प्रभावित करे, [§2](#2-foundational-objective-wellbeing) और [§2.1 निष्पक्षता](#21-fairness) के अधीन [सहभागिता](core_05_apex_participation_leg.md#participation-constitutional) से सुसंगत रहनी चाहिए। यह [§2.1 निष्पक्षता](#21-fairness) के साथ लागू होता है और सुरक्षा, सत्य तथा अध्याय छह अधिकार-तल से सीमाबद्ध रहता है।
 
 <a id="221-recognition-and-reinforcement"></a>
 ##### 2.2.1 मान्यता और सुदृढ़ीकरण
@@ -248,7 +248,7 @@
 <a id="225-aligned-recognition-pathways"></a>
 ##### 2.2.5 संरेखित मान्यता मार्ग
 
-नामित मान्यता मार्ग, प्रशंसा, पुरस्कार, प्रमाणन, प्रस्थिति, प्रतिष्ठा प्रभाव, या तुलनीय प्रोत्साहन जो **हैसियत**, **संसाधन**, या **तात्विक पहुँच** आवंटित करें, सत्य, सुरक्षा, चुनौती-योग्य प्रक्रिया जहाँ **अध्याय छह** उसे सौंपे, [सहभागिता](../../core_05_apex_participation_leg.md#participation-constitutional), और [प्रोत्साहन संरेखण](../../core_05_band_integrative.md#incentive-alignment) से सुसंगत रहने चाहिए।
+नामित मान्यता मार्ग, प्रशंसा, पुरस्कार, प्रमाणन, प्रस्थिति, प्रतिष्ठा प्रभाव, या तुलनीय प्रोत्साहन जो **हैसियत**, **संसाधन**, या **तात्विक पहुँच** आवंटित करें, सत्य, सुरक्षा, चुनौती-योग्य प्रक्रिया जहाँ **अध्याय छह** उसे सौंपे, [सहभागिता](core_05_apex_participation_leg.md#participation-constitutional), और [प्रोत्साहन संरेखण](../../core_05_band_integrative.md#incentive-alignment) से सुसंगत रहने चाहिए।
 
 वे व्यवस्थित रूप से हानि, धोखा, जाँच से बचाव, निष्कर्षण, या अर्थपूर्ण अभिकर्तृत्व के क्षरण को **पुरस्कृत नहीं** कर सकते।
 
@@ -446,7 +446,7 @@
 
 *साधारण शब्दों में: नियम, निर्णय और सूचनाएँ जो संज्ञ प्राणियों को बाँधें ऐसे लिखे जाने चाहिए कि संज्ञ प्राणी वास्तव में पढ़, समझ और उन पर काम कर सकें — और शब्दजाल, थोपी जटिलता, या प्रक्रियात्मक अपारदर्शिता चुनौती-योग्यता, अभिकर्तृत्व या लेखापरीक्षा हराने के लिए इस्तेमाल नहीं हो सकती।*
 
-एक **साधारण-भाषा सुगम्यता कर्तव्य** संवैधानिक, शासन, न्यायनिर्णायक और संक्रियात्मक पाठ पर लागू होता है जो संज्ञ प्राणियों को बाँधे। वही कर्तव्य तब लागू होता है जब संज्ञ प्राणियों को अधिकार प्रयोग करने, शासन में भाग लेने, निर्णयों को चुनौती देने, या अनुपालन सत्यापित करने के लिए उस पाठ से जुड़ना हो। यह [सहभागिता](../../core_05_apex_participation_leg.md#participation-constitutional) अपेक्षा है: संज्ञ प्राणी जो उन्हें बाँधने वाले नियम समझ न सकें, उन प्रणालियों में अर्थपूर्ण रूप से भाग नहीं ले सकते जिन्हें वे नियम शासित करते हैं।
+एक **साधारण-भाषा सुगम्यता कर्तव्य** संवैधानिक, शासन, न्यायनिर्णायक और संक्रियात्मक पाठ पर लागू होता है जो संज्ञ प्राणियों को बाँधे। वही कर्तव्य तब लागू होता है जब संज्ञ प्राणियों को अधिकार प्रयोग करने, शासन में भाग लेने, निर्णयों को चुनौती देने, या अनुपालन सत्यापित करने के लिए उस पाठ से जुड़ना हो। यह [सहभागिता](core_05_apex_participation_leg.md#participation-constitutional) अपेक्षा है: संज्ञ प्राणी जो उन्हें बाँधने वाले नियम समझ न सकें, उन प्रणालियों में अर्थपूर्ण रूप से भाग नहीं ले सकते जिन्हें वे नियम शासित करते हैं।
 
 <a id="341-scope"></a>
 ##### 3.4.1 दायरा

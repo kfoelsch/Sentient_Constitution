@@ -12,7 +12,7 @@
 >
 > **Précédent (cette langue) :** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 >
-> **Suivant (encore en anglais) :** [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md)
+> **Suivant (cette langue) :** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
 > **Arc de lecture :** O/M/A/C → décomposition de la jambe → famille de mesure.
 
 </details>
@@ -126,6 +126,6 @@ Les exigences contraignantes de fiabilité, d’audit ou d’examen naissent lor
 
 **Fichier précédent :** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
-**Fichier suivant (encore en anglais) :** [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md)
+**Fichier suivant (cette langue) :** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
 
 **Original contraignant :** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)

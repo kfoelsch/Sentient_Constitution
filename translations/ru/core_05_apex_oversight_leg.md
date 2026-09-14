@@ -12,7 +12,7 @@
 >
 > **Предыдущий (этот язык):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 >
-> **Следующий (ещё на английском):** [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md)
+> **Следующий (на этом языке):** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
 > **Дуга чтения:** O/M/A/C → декомпозиция ноги → семья измерений.
 
 </details>
@@ -126,6 +126,6 @@
 
 **Предыдущий файл:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
-**Следующий файл (ещё на английском):** [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md)
+**Следующий файл (на этом языке):** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
 
 **Связывающий оригинал:** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)

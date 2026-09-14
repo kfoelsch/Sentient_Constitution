@@ -74,7 +74,7 @@
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
 - [العافية](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [المشاركة](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [المشاركة](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [الكرامة والمساواة الأخلاقية](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [الإنصاف الموضوعي](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [الأهمية المادية](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
@@ -88,7 +88,7 @@
 
 المقصد النهائي لجميع الأنظمة المحكومة بموجب هذا الدستور هو حفظ [عافية](../../core_05_band_continuity.md#wellbeing) الكائنات الواعية والتقدّم بها — مقصد [**الازدهار**](#flourishing) تحت [المقصدين الدستوريين](../../core_00_preamble.md#two-constitutional-aims).
 
-العافية تأسيسية لـ[المشاركة](../../core_05_apex_participation_leg.md#participation-constitutional) تحت [الرباعية الدستورية](../../core_00_preamble.md#constitutional-tetrad). لا يجوز للأنظمة المشتركة أن تعامل المشاركة كمُستوفاة حين تُضعَّف ماديًا شروط العافية الكامنة — بما فيها [الوكالة ذات المعنى](../../core_05_band_participation.md#meaningful-agency) والوصول العادل والكرامة.
+العافية تأسيسية لـ[المشاركة](core_05_apex_participation_leg.md#participation-constitutional) تحت [الرباعية الدستورية](../../core_00_preamble.md#constitutional-tetrad). لا يجوز للأنظمة المشتركة أن تعامل المشاركة كمُستوفاة حين تُضعَّف ماديًا شروط العافية الكامنة — بما فيها [الوكالة ذات المعنى](../../core_05_band_participation.md#meaningful-agency) والوصول العادل والكرامة.
 
 تشمل العافية لا الآثار الفورية فحسب بل أيضًا العواقب غير المباشرة والمتأخرة والتراكمية والعابرة للأنظمة، مُقيَّمة تحت [**الفصول من الثاني إلى الرابع**](core_02_definition_structure.md). في طبقة القيم هذه، العافية:
 - تجعل المشاركة الحقيقية ممكنة — صوت تفتقر الكائنات الواعية إلى شروط استخدامه ليس مشاركة ذات معنى
@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - يُقرأ مع: [الرباعية الدستورية](../../core_00_preamble.md#constitutional-tetrad) — رجل **المشاركة** (الوصول والصوت وقابلية الطعن؛ متطلب عام، لا [المشاركة النظامية للأطراف المتأثرة](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) وحدها)؛ ورجل **المساءلة** حيث تتعلق المنافع والأعباء.
-- أعلى: المبادئ: [§2 المقصد التأسيسي: العافية](#2-foundational-objective-wellbeing) — بما في ذلك العافية بوصفها تأسيسية لـ[المشاركة](../../core_05_apex_participation_leg.md#participation-constitutional).
+- أعلى: المبادئ: [§2 المقصد التأسيسي: العافية](#2-foundational-objective-wellbeing) — بما في ذلك العافية بوصفها تأسيسية لـ[المشاركة](core_05_apex_participation_leg.md#participation-constitutional).
 - أسفل: [2.2 الاعتراف والتعزيز والطموح](#22-recognition-reinforcement-and-aspiration)؛ و[4. الثقة](#4-system-stability-enabler-trust-coordination-integrity)، و[§9 الإدارة المسؤولة والفهم الموزَّع](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)، و[6. حل تعارض الإجراءات](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)، و[انضباط سجل القرار في §6.1](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) حيث يجب أن تبقى خيارات الأسبقية والتوزيع متماسكة وقابلة للمراجعة.
 - الأقسام الفرعية (ترتيب القراءة): [§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment).
 - أسفل: يشكّل سطح الحقوق للمساواة الأخلاقية والمعاملة غير التعسفية والطعن ذي المعنى وحدود التقييد المتناسب.
@@ -118,7 +118,7 @@
 
 - [الكرامة والمساواة الأخلاقية](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [تيسير الوصول](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
-- [المشاركة](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [المشاركة](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [الإنصاف الإجرائي](../../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [الإنصاف الموضوعي](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [الخصائص المحمية](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
@@ -134,7 +134,7 @@
 
 **الإنصاف** جزء مما يطلبه [§2](#2-foundational-objective-wellbeing) كلما وجب على الكائنات الواعية أن تعيش أو تعمل أو تتعلّم أو تتاجر أو تتّخذ قرارات عبر أنظمة مشتركة. وحيث تؤثّر الأنظمة المشتركة ماديًا في الكائنات الواعية، يسأل الإنصاف ما إذا كانت الفرصة والمعاملة وتقسيم المنافع والأعباء تحترم [الكرامة والمساواة الأخلاقية](../../core_05_band_participation.md#dignity-and-equal-moral-standing).
 
-الإنصاف يساعد على جعل [المشاركة](../../core_05_apex_participation_leg.md#participation-constitutional) حقيقية. المشاركة ليست حقيقية حين يكون للكائنات الواعية صوت تقنيًا لكنها لا تستطيع بلوغ الإجراء، أو فهم القاعدة، أو استيفاء الشروط، أو الطعن في النتيجة، أو تحمّل العبء الموضوع عليها.
+الإنصاف يساعد على جعل [المشاركة](core_05_apex_participation_leg.md#participation-constitutional) حقيقية. المشاركة ليست حقيقية حين يكون للكائنات الواعية صوت تقنيًا لكنها لا تستطيع بلوغ الإجراء، أو فهم القاعدة، أو استيفاء الشروط، أو الطعن في النتيجة، أو تحمّل العبء الموضوع عليها.
 
 لا يكفي أن يُظهر نظام نتيجة متوسطة حسنة. مؤشر عنوان واحد أو متوسط أو ترتيب أو ادعاء كفاءة لا يثبت الإنصاف وحده. يمكن لنظام أن يبدو ناجحًا في المجموع وهو ما زال غير منصف تجاه كائنات واعية مقصاة أو مُساء تصنيفها أو منقوصة الأجر أو مُثقَلة أو محرومة من فرصة ذات معنى للاعتراض.
 
@@ -143,7 +143,7 @@
 <a id="211-access-and-opportunity"></a>
 ##### 2.1.1 الوصول والفرصة
 
-- تحتاج الكائنات الواعية مسارات عملية إلى [المشاركة](../../core_05_apex_participation_leg.md#participation-constitutional) والتعليم والعمل والرعاية والسلامة والتنقل وغيرها من الخيرات التي تهم الحياة العادية.
+- تحتاج الكائنات الواعية مسارات عملية إلى [المشاركة](core_05_apex_participation_leg.md#participation-constitutional) والتعليم والعمل والرعاية والسلامة والتنقل وغيرها من الخيرات التي تهم الحياة العادية.
 - تلك المسارات يجب ألا تُسدّ أو تُسعَّر خارج المتناول أو تُؤخَّر أو تُخفى أو تُمال لأسباب تعسفية أو غير ذات صلة.
 - باب مفتوح على الورق فقط لا يكفي حيث يطلب هذا الدستور فرصة **موضوعية**.
 
@@ -162,7 +162,7 @@
 - القواعد التفصيلية تُحمَل عبر الفصل الخامس، بما في ذلك [الخصائص المحمية](../../core_05_band_participation.md#protected-characteristics-constitutional) و[الوكالة عن الخصائص المحمية والأثر المتفاوت](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
 - حين يؤثّر قرار تأثيرًا جديًا في أحد، أو حين يطعن فيه، يجب أن يستوفي مسار المراجعة [الإنصاف الإجرائي](../../core_05_band_participation.md#procedural-fairness-constitutional) حيثما يطلب الفصل السادس أو الصك الحاكم إخطارًا أو جلسة استماع أو تفسيرًا أو مراجعة.
 
-العافية المدّعاة ليست متوائمة مع [§2](#2-foundational-objective-wellbeing) إن اعتمدت على إقصاء تعسفي، أو قواعد غير مفسَّرة أو غير مستقرة، أو استخراج خفي، أو [مشاركة](../../core_05_apex_participation_leg.md#participation-constitutional) شكلية بينما فشلت شروط الإنصاف التي تجعل المشاركة ذات معنى.
+العافية المدّعاة ليست متوائمة مع [§2](#2-foundational-objective-wellbeing) إن اعتمدت على إقصاء تعسفي، أو قواعد غير مفسَّرة أو غير مستقرة، أو استخراج خفي، أو [مشاركة](core_05_apex_participation_leg.md#participation-constitutional) شكلية بينما فشلت شروط الإنصاف التي تجعل المشاركة ذات معنى.
 
 <a id="214-unfair-treatment"></a>
 ##### 2.1.4 المعاملة غير العادلة
@@ -182,7 +182,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - يُقرأ مع: [الرباعية الدستورية](../../core_00_preamble.md#constitutional-tetrad) — رجل **المشاركة** حيث تؤثّر المسارات المسمّاة للاعتراف أو الإشادة أو الطموح ماديًا في الصوت أو المركز أو الوصول إلى أدوار ذات عاقبة؛ ورجل **المساءلة** (منع المكافأة على الخيانة والإخفاء وتجنّب المساءلة)؛ ورجل **الرقابة** (إشادة قابلة للتتبع وغير مضللة).
-- أعلى: المبادئ: [§2 المقصد التأسيسي: العافية](#2-foundational-objective-wellbeing) — بما في ذلك العافية بوصفها تأسيسية لـ[المشاركة](../../core_05_apex_participation_leg.md#participation-constitutional)؛ [§2.1 الإنصاف](#21-fairness).
+- أعلى: المبادئ: [§2 المقصد التأسيسي: العافية](#2-foundational-objective-wellbeing) — بما في ذلك العافية بوصفها تأسيسية لـ[المشاركة](core_05_apex_participation_leg.md#participation-constitutional)؛ [§2.1 الإنصاف](#21-fairness).
 - أسفل: [4. الثقة](#4-system-stability-enabler-trust-coordination-integrity)؛ و[§9 الإدارة المسؤولة والفهم الموزَّع](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)؛ و[§10 الحوكمة تحت انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)؛ و[§5 الحرية](#5-freedom-bounded-agency).
 - يُقرأ مع: [الفصل الثامن §§4.3–4.4 — كتالوج الواصفات المعياري](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles) حيث تكون سرديات الاعتراف **المتوائمة مع المجال** أو الواصفات المقارنة على **محور الإسهام / محور المخالفة** مادية.
 - يُقرأ مع: [الفصل الثامن §4.3 — الواصفات من جانب الإسهام](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles) حيث تكون طبيعة الإسهام وسرديات الاعتراف مادية؛ و[الفصل التاسع §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization) لدمجها في السؤال 3.
@@ -195,7 +195,7 @@
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
 - [العافية](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [المشاركة](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [المشاركة](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [الإنصاف الموضوعي](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [قابلية الطعن](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [الوكالة ذات المعنى](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
@@ -207,7 +207,7 @@
 
 *بعبارات بسيطة: العافية ليست فقط ما يُحظَر وما هو منصف — ينبغي للأنظمة المشتركة أيضًا أن تُحيّي بصدق وتكافئ السلوك الذي تريد تكراره، داخل الحقيقة والحقوق، بطرق تسند المشاركة الحقيقية لا أن تحل محلها. الاحتفاء بالنجاح يعني نسبة الإسهام الحقيقي والإصلاح والإتمام، لا الضجيج أو المقاييس المتلاعب بها. ويعني أيضًا رفض مكافأة الخيانة الدستورية أو الإخفاء أو الانتقام أو تجنّب المساءلة — حتى حين أنتجت تلك الأفعال ميزة مؤسسية.*
 
-**ثلاثة أبعاد.** تعتمد العافية على ما تحظره الأنظمة وكيف توزّع التكاليف بعدل — وكذلك على ما تُظهر أنها تُقدّره وتعزّزه وتساعد الكائنات الواعية على السعي إليه. يبيّن هذا القسم واجبات الاعتراف والتعزيز والطموح تلك. الاعتراف والإشادة اللذان يؤثّران ماديًا في الصوت أو المركز أو الوصول يجب أن يبقيا متسقين مع [المشاركة](../../core_05_apex_participation_leg.md#participation-constitutional) تحت [§2](#2-foundational-objective-wellbeing) و[§2.1 الإنصاف](#21-fairness). وهو ينطبق مع [§2.1 الإنصاف](#21-fairness) ويبقى محدودًا بالسلامة والحقيقة وأرضية حقوق الفصل السادس.
+**ثلاثة أبعاد.** تعتمد العافية على ما تحظره الأنظمة وكيف توزّع التكاليف بعدل — وكذلك على ما تُظهر أنها تُقدّره وتعزّزه وتساعد الكائنات الواعية على السعي إليه. يبيّن هذا القسم واجبات الاعتراف والتعزيز والطموح تلك. الاعتراف والإشادة اللذان يؤثّران ماديًا في الصوت أو المركز أو الوصول يجب أن يبقيا متسقين مع [المشاركة](core_05_apex_participation_leg.md#participation-constitutional) تحت [§2](#2-foundational-objective-wellbeing) و[§2.1 الإنصاف](#21-fairness). وهو ينطبق مع [§2.1 الإنصاف](#21-fairness) ويبقى محدودًا بالسلامة والحقيقة وأرضية حقوق الفصل السادس.
 
 <a id="221-recognition-and-reinforcement"></a>
 ##### 2.2.1 الاعتراف والتعزيز
@@ -249,7 +249,7 @@
 <a id="225-aligned-recognition-pathways"></a>
 ##### 2.2.5 مسارات الاعتراف المتوائمة
 
-المسارات المسمّاة للاعتراف والإشادة والجوائز والتصديق والوضعية وآثار السمعة أو الحوافز المماثلة التي **تخصّص مركزًا** أو **موارد** أو **وصولًا ماديًا** يجب أن تبقى متسقة مع الحقيقة والسلامة والإجراء القابل للطعن حيث يعيّنه **الفصل السادس**، و[المشاركة](../../core_05_apex_participation_leg.md#participation-constitutional)، و[مواءمة الحوافز](../../core_05_band_integrative.md#incentive-alignment).
+المسارات المسمّاة للاعتراف والإشادة والجوائز والتصديق والوضعية وآثار السمعة أو الحوافز المماثلة التي **تخصّص مركزًا** أو **موارد** أو **وصولًا ماديًا** يجب أن تبقى متسقة مع الحقيقة والسلامة والإجراء القابل للطعن حيث يعيّنه **الفصل السادس**، و[المشاركة](core_05_apex_participation_leg.md#participation-constitutional)، و[مواءمة الحوافز](../../core_05_band_integrative.md#incentive-alignment).
 
 **يجب ألا** تكافئ منهجيًا الضرر أو الخداع أو تجنّب التدقيق أو الاستخراج أو تآكل الوكالة ذات المعنى.
 
@@ -447,7 +447,7 @@
 
 *بعبارات بسيطة: القواعد والقرارات والإخطارات التي تُلزم الكائنات الواعية يجب أن تُكتب بحيث تستطيع الكائنات الواعية فعلًا قراءتها وفهمها والعمل بموجبها — ولا يجوز استخدام المصطلحات المتخصصة أو التعقيد المتراكم أو الغموض الإجرائي لهزيمة قابلية الطعن أو الوكالة أو التدقيق.*
 
-ينطبق **واجب تيسير اللغة البسيطة** على النص الدستوري والحوكمِي ونص البتّ في النزاعات والتشغيلي الذي يُلزم الكائنات الواعية. وينطبق الواجب ذاته حين يجب على الكائنات الواعية أن تنخرط في ذلك النص لممارسة حقوق أو المشاركة في الحوكمة أو الطعن في قرارات أو التحقق من الامتثال. هذا متطلب [مشاركة](../../core_05_apex_participation_leg.md#participation-constitutional): الكائنات الواعية التي لا تستطيع فهم القواعد التي تُلزمها لا تستطيع المشاركة معنىً في الأنظمة التي تحكمها تلك القواعد.
+ينطبق **واجب تيسير اللغة البسيطة** على النص الدستوري والحوكمِي ونص البتّ في النزاعات والتشغيلي الذي يُلزم الكائنات الواعية. وينطبق الواجب ذاته حين يجب على الكائنات الواعية أن تنخرط في ذلك النص لممارسة حقوق أو المشاركة في الحوكمة أو الطعن في قرارات أو التحقق من الامتثال. هذا متطلب [مشاركة](core_05_apex_participation_leg.md#participation-constitutional): الكائنات الواعية التي لا تستطيع فهم القواعد التي تُلزمها لا تستطيع المشاركة معنىً في الأنظمة التي تحكمها تلك القواعد.
 
 <a id="341-scope"></a>
 ##### 3.4.1 النطاق

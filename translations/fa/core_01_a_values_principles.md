@@ -74,7 +74,7 @@
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
 - [بهزیستی](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [مشارکت](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [مشارکت](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [کرامت و جایگاه اخلاقی برابر](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [انصاف ماهوی](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [اهمیت مادی](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
@@ -88,7 +88,7 @@
 
 هدف نهایی همهٔ نظام‌های حکمرانی‌شده زیر این قانون اساسی حفظ و پیشبرد [بهزیستی](../../core_05_band_continuity.md#wellbeing) حس‌مندان است — هدف [**شکوفایی**](#flourishing) زیر [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims).
 
-بهزیستی برای [مشارکت](../../core_05_apex_participation_leg.md#participation-constitutional) زیر [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) بنیادین است. نظام‌های مشترک نمی‌توانند مشارکت را برآورده تلقی کنند وقتی شرایط زیرین بهزیستی — از جمله [عاملیت معنادار](../../core_05_band_participation.md#meaningful-agency)، دسترسی منصفانه، و کرامت — از نظر مادی تضعیف شده باشند.
+بهزیستی برای [مشارکت](core_05_apex_participation_leg.md#participation-constitutional) زیر [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) بنیادین است. نظام‌های مشترک نمی‌توانند مشارکت را برآورده تلقی کنند وقتی شرایط زیرین بهزیستی — از جمله [عاملیت معنادار](../../core_05_band_participation.md#meaningful-agency)، دسترسی منصفانه، و کرامت — از نظر مادی تضعیف شده باشند.
 
 بهزیستی نه فقط اثرهای فوری بلکه پیامدهای غیرمستقیم، تأخیری، انباشتی و میان‌سیستمی را هم دربر می‌گیرد، ارزیابی‌شده زیر [**فصل‌های دوم تا چهارم**](core_02_definition_structure.md). در این لایهٔ ارزش، بهزیستی:
 - مشارکت واقعی را ممکن می‌کند — صدایی که حس‌مندان شرایط به‌کارگیری‌اش را ندارند مشارکت معنادار نیست
@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - خوانده شود با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — پای **مشارکت** (دسترسی، صدا و قابلیت اعتراض؛ الزام کلی، نه فقط [مشارکت سیستمی طرف‌های اثرپذیر](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster))؛ پای **پاسخگویی** جایی که فایده‌ها و بارها می‌چسبند.
-- بالادست: اصول: [§2 هدف بنیادین: بهزیستی](#2-foundational-objective-wellbeing) — از جمله بهزیستی به‌عنوان بنیادین برای [مشارکت](../../core_05_apex_participation_leg.md#participation-constitutional).
+- بالادست: اصول: [§2 هدف بنیادین: بهزیستی](#2-foundational-objective-wellbeing) — از جمله بهزیستی به‌عنوان بنیادین برای [مشارکت](core_05_apex_participation_leg.md#participation-constitutional).
 - پایین‌دست: [2.2 بازشناسی، تقویت و آرمان](#22-recognition-reinforcement-and-aspiration)؛ [4. اعتماد](#4-system-stability-enabler-trust-coordination-integrity)، [§9 مدیریت مسئولانه و فهم توزیع‌شده](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)، [6. حل تعارض فرایند](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)، و [انضباط سابقهٔ تصمیم §6.1](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) جایی که انتخاب‌های تقدم و تخصیص باید منسجم و قابل‌بازبینی بمانند.
 - زیربخش‌ها (ترتیب خواندن): [§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment).
 - پایین‌دست: سطح حقوق را برای جایگاه برابر، رفتار غیرخودسرانه، اعتراض معنادار، و حدهای محدودیت متناسب شکل می‌دهد.
@@ -118,7 +118,7 @@
 
 - [کرامت و جایگاه اخلاقی برابر](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [دسترس‌پذیری](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
-- [مشارکت](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [مشارکت](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [انصاف رویه‌ای](../../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [انصاف ماهوی](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [ویژگی‌های حمایت‌شده](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
@@ -134,7 +134,7 @@
 
 **انصاف** بخشی از چیزی است که [§2](#2-foundational-objective-wellbeing) می‌خواهد هرگاه حس‌مندان باید از راه نظام‌های مشترک زندگی، کار، یادگیری، دادوستد یا تصمیم کنند. جایی که نظام‌های مشترک بر حس‌مندان اثر مادی دارند، انصاف می‌پرسد آیا فرصت، رفتار، و تقسیم فایده‌ها و بارها [کرامت و جایگاه اخلاقی برابر](../../core_05_band_participation.md#dignity-and-equal-moral-standing) را احترام می‌کنند.
 
-انصاف کمک می‌کند [مشارکت](../../core_05_apex_participation_leg.md#participation-constitutional) واقعی شود. مشارکت واقعی نیست وقتی حس‌مندان روی کاغذ صدا دارند اما نمی‌توانند به فرایند برسند، قاعده را بفهمند، شرط‌ها را برآورند، نتیجه را اعتراض کنند، یا بار گذاشته‌شده را تاب بیاورند.
+انصاف کمک می‌کند [مشارکت](core_05_apex_participation_leg.md#participation-constitutional) واقعی شود. مشارکت واقعی نیست وقتی حس‌مندان روی کاغذ صدا دارند اما نمی‌توانند به فرایند برسند، قاعده را بفهمند، شرط‌ها را برآورند، نتیجه را اعتراض کنند، یا بار گذاشته‌شده را تاب بیاورند.
 
 کافی نیست نظامی نتیجهٔ میانگین خوب نشان دهد. یک سنجهٔ تیتر، میانگین، رتبه‌بندی یا ادعای کارایی به‌تنهایی انصاف را ثابت نمی‌کند. نظامی می‌تواند در تجمیع موفق به‌نظر برسد و همچنان نسبت به حس‌مندانی که طرد، بدطبقه‌بندی، کم‌پرداخت، بیش‌بار یا از بخت معنادار اعتراض محروم شده‌اند نامنصف باشد.
 
@@ -143,7 +143,7 @@
 <a id="211-access-and-opportunity"></a>
 ##### 2.1.1 دسترسی و فرصت
 
-- حس‌مندان به مسیرهای عملی به‌سوی [مشارکت](../../core_05_apex_participation_leg.md#participation-constitutional)، آموزش، کار، مراقبت، ایمنی، جابه‌جایی و دیگر خیرهایی که برای زندگی عادی اهمیت دارند نیاز دارند.
+- حس‌مندان به مسیرهای عملی به‌سوی [مشارکت](core_05_apex_participation_leg.md#participation-constitutional)، آموزش، کار، مراقبت، ایمنی، جابه‌جایی و دیگر خیرهایی که برای زندگی عادی اهمیت دارند نیاز دارند.
 - آن مسیرها نباید برای دلایل خودسرانه یا نامربوط بسته، از دسترس قیمتی بیرون، تأخیر، پنهان یا کج شوند.
 - دری که فقط روی کاغذ باز است جایی که این قانون اساسی فرصت **ماهوی** می‌خواهد کافی نیست.
 
@@ -162,7 +162,7 @@
 - قواعد تفصیلی از راه فصل پنجم حمل می‌شوند، از جمله [ویژگی‌های حمایت‌شده](../../core_05_band_participation.md#protected-characteristics-constitutional) و [جانشینی ویژگی حمایت‌شده و اثر نامتوازن](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
 - وقتی تصمیمی جدی بر کسی اثر بگذارد، یا وقتی اعتراض کند، مسیر بازبینی باید [انصاف رویه‌ای](../../core_05_band_participation.md#procedural-fairness-constitutional) را برآورد هر جا فصل ششم یا سند حاکم اعلان، استماع، توضیح یا بازبینی بخواهد.
 
-بهزیستی ادعایی با [§2](#2-foundational-objective-wellbeing) هم‌راستا نیست اگر به طرد خودسرانه، قواعد بی‌توضیح یا ناپایدار، استخراج پنهان، یا [مشارکت](../../core_05_apex_participation_leg.md#participation-constitutional) صوری وابسته باشد در حالی که شرایط انصافی که مشارکت را معنادار می‌کنند شکست خورده‌اند.
+بهزیستی ادعایی با [§2](#2-foundational-objective-wellbeing) هم‌راستا نیست اگر به طرد خودسرانه، قواعد بی‌توضیح یا ناپایدار، استخراج پنهان، یا [مشارکت](core_05_apex_participation_leg.md#participation-constitutional) صوری وابسته باشد در حالی که شرایط انصافی که مشارکت را معنادار می‌کنند شکست خورده‌اند.
 
 <a id="214-unfair-treatment"></a>
 ##### 2.1.4 رفتار نامنصفانه
@@ -182,7 +182,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - خوانده شود با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — پای **مشارکت** جایی که مسیرهای نام‌گذاری‌شدهٔ بازشناسی، ستایش یا آرمان از نظر مادی بر صدا، وضعیت یا دسترسی به نقش‌های پیامددار اثر می‌گذارند؛ پای **پاسخگویی** (ضدپاداش برای خیانت، پنهان‌کاری و گریز از پاسخگویی)؛ پای **نظارت** (ستایش ردگیری‌پذیر و گمراه‌نکننده).
-- بالادست: اصول: [§2 هدف بنیادین: بهزیستی](#2-foundational-objective-wellbeing) — از جمله بهزیستی به‌عنوان بنیادین برای [مشارکت](../../core_05_apex_participation_leg.md#participation-constitutional)؛ [§2.1 انصاف](#21-fairness).
+- بالادست: اصول: [§2 هدف بنیادین: بهزیستی](#2-foundational-objective-wellbeing) — از جمله بهزیستی به‌عنوان بنیادین برای [مشارکت](core_05_apex_participation_leg.md#participation-constitutional)؛ [§2.1 انصاف](#21-fairness).
 - پایین‌دست: [4. اعتماد](#4-system-stability-enabler-trust-coordination-integrity)؛ [§9 مدیریت مسئولانه و فهم توزیع‌شده](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)؛ [§10 حکمرانی زیر انضباط مدیریت مسئولانه](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)؛ [§5 آزادی](#5-freedom-bounded-agency).
 - خوانده شود با: [فصل هشتم §§4.3–4.4 — کاتالوگ توصیفگر هنجارشده](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles) جایی که روایت‌های بازشناسی **هم‌راستای حوزه** یا توصیفگرهای مقایسه‌ای **محور همیاری / محور تخلف** مادی باشند.
 - خوانده شود با: [فصل هشتم §4.3 — توصیفگرهای سمت همیاری](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles) جایی که ماهیت همیاری و روایت‌های بازشناسی مادی باشند؛ [فصل نهم §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization) برای ادغام‌شان در پرسش 3.
@@ -195,7 +195,7 @@
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
 - [بهزیستی](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [مشارکت](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [مشارکت](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [انصاف ماهوی](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [قابلیت اعتراض](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [عاملیت معنادار](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
@@ -207,7 +207,7 @@
 
 *به زبان ساده: بهزیستی فقط آنچه ممنوع است و آنچه منصف است نیست — نظام‌های مشترک باید همچنین صادقانه رفتاری را که می‌خواهند تکرار شود تشویق و پاداش دهند، درون حقیقت و حقوق، به شیوه‌هایی که مشارکت واقعی را پشتیبانی کنند نه جایگزینش شوند. جشن موفقیت یعنی نسبت دادن همیاری، ترمیم و اتمام واقعی، نه هیاهو یا سنجه‌های دستکاری‌شده. همچنین یعنی امتناع از پاداش خیانت قانون اساسی، پنهان‌کاری، تلافی، یا گریز از پاسخگویی — حتی وقتی آن اعمال مزیت نهادی ساختند.*
 
-**سه بُعد.** بهزیستی به آنچه نظام‌ها منع می‌کنند و چگونه هزینه‌ها را منصفانه تقسیم می‌کنند وابسته است — و نیز به آنچه آشکارا ارج می‌نهند، تقویت می‌کنند، و به حس‌مندان کمک می‌کنند دنبال کنند. این بخش آن تکالیف بازشناسی، تقویت و آرمان را بیان می‌کند. بازشناسی و ستایشی که از نظر مادی بر صدا، وضعیت یا دسترسی اثر بگذارد باید با [مشارکت](../../core_05_apex_participation_leg.md#participation-constitutional) زیر [§2](#2-foundational-objective-wellbeing) و [§2.1 انصاف](#21-fairness) سازگار بماند. همراه [§2.1 انصاف](#21-fairness) اعمال می‌شود و با ایمنی، حقیقت و کف حقوق فصل ششم محدود می‌ماند.
+**سه بُعد.** بهزیستی به آنچه نظام‌ها منع می‌کنند و چگونه هزینه‌ها را منصفانه تقسیم می‌کنند وابسته است — و نیز به آنچه آشکارا ارج می‌نهند، تقویت می‌کنند، و به حس‌مندان کمک می‌کنند دنبال کنند. این بخش آن تکالیف بازشناسی، تقویت و آرمان را بیان می‌کند. بازشناسی و ستایشی که از نظر مادی بر صدا، وضعیت یا دسترسی اثر بگذارد باید با [مشارکت](core_05_apex_participation_leg.md#participation-constitutional) زیر [§2](#2-foundational-objective-wellbeing) و [§2.1 انصاف](#21-fairness) سازگار بماند. همراه [§2.1 انصاف](#21-fairness) اعمال می‌شود و با ایمنی، حقیقت و کف حقوق فصل ششم محدود می‌ماند.
 
 <a id="221-recognition-and-reinforcement"></a>
 ##### 2.2.1 بازشناسی و تقویت
@@ -249,7 +249,7 @@
 <a id="225-aligned-recognition-pathways"></a>
 ##### 2.2.5 مسیرهای بازشناسی هم‌راستا
 
-مسیرهای نام‌گذاری‌شدهٔ بازشناسی، ستایش، جایزه، گواهی، ردپا، اثر آوازه، یا انگیزه‌های مشابه که **وضعیت**، **منابع** یا **دسترسی مادی** تخصیص می‌دهند باید با حقیقت، ایمنی، رویهٔ قابل‌اعتراض جایی که **فصل ششم** آن را می‌گذارد، [مشارکت](../../core_05_apex_participation_leg.md#participation-constitutional)، و [هم‌راستایی انگیزه](../../core_05_band_integrative.md#incentive-alignment) سازگار بمانند.
+مسیرهای نام‌گذاری‌شدهٔ بازشناسی، ستایش، جایزه، گواهی، ردپا، اثر آوازه، یا انگیزه‌های مشابه که **وضعیت**، **منابع** یا **دسترسی مادی** تخصیص می‌دهند باید با حقیقت، ایمنی، رویهٔ قابل‌اعتراض جایی که **فصل ششم** آن را می‌گذارد، [مشارکت](core_05_apex_participation_leg.md#participation-constitutional)، و [هم‌راستایی انگیزه](../../core_05_band_integrative.md#incentive-alignment) سازگار بمانند.
 
 **نباید** به‌طور سیستماتیک آسیب، فریب، گریز از موشکافی، استخراج، یا فرسایش عاملیت معنادار را پاداش دهند.
 
@@ -447,7 +447,7 @@
 
 *به زبان ساده: قواعد، تصمیم‌ها و اعلان‌هایی که حس‌مندان را ملزم می‌کنند باید طوری نوشته شوند که حس‌مندان واقعاً بتوانند بخوانند، بفهمند و بر آن عمل کنند — و اصطلاحات تخصصی، پیچیدگی انباشته، یا تیرگی رویه‌ای نباید برای شکست قابلیت اعتراض، عاملیت یا حسابرسی به‌کار روند.*
 
-**تکلیف دسترس‌پذیری زبان ساده** بر متن قانون اساسی، حکمرانی، رسیدگی و عملیاتی که حس‌مندان را ملزم می‌کند اعمال می‌شود. همان تکلیف وقتی اعمال می‌شود که حس‌مندان باید با آن متن درگیر شوند تا حقوق را اعمال کنند، در حکمرانی شرکت کنند، تصمیم‌ها را اعتراض کنند، یا انطباق را راستی‌آزمایی کنند. این الزام [مشارکت](../../core_05_apex_participation_leg.md#participation-constitutional) است: حس‌مندانی که قواعد ملزم‌کننده‌شان را نمی‌فهمند نمی‌توانند معنادار در نظام‌هایی که آن قواعد بر آن‌ها حاکم‌اند شرکت کنند.
+**تکلیف دسترس‌پذیری زبان ساده** بر متن قانون اساسی، حکمرانی، رسیدگی و عملیاتی که حس‌مندان را ملزم می‌کند اعمال می‌شود. همان تکلیف وقتی اعمال می‌شود که حس‌مندان باید با آن متن درگیر شوند تا حقوق را اعمال کنند، در حکمرانی شرکت کنند، تصمیم‌ها را اعتراض کنند، یا انطباق را راستی‌آزمایی کنند. این الزام [مشارکت](core_05_apex_participation_leg.md#participation-constitutional) است: حس‌مندانی که قواعد ملزم‌کننده‌شان را نمی‌فهمند نمی‌توانند معنادار در نظام‌هایی که آن قواعد بر آن‌ها حاکم‌اند شرکت کنند.
 
 <a id="341-scope"></a>
 ##### 3.4.1 گستره

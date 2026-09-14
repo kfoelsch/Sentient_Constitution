@@ -22,7 +22,7 @@
 
 - ঊর্ধ্ব: [অধ্যায় পাঁচ কম্পাস](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) (জবাবদিহি পা; [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims); প্রাথমিক উদ্দেশ্য [সমুন্নতি](core_00_preamble.md#flourishing)।
 - অধঃ: নীতি: [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [অধ্যায় এক §11.6 উত্তরসূরি দায়িত্ব ও আনুষ্ঠানিক-কাঠামো অ-পলায়ন](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [চতুষ্কের পার বিভাজন](#accountability-tetrad-leg-decomposition); জবাবদিহি পটির পাতা সংজ্ঞা [core_05_band_accountability.md](../../core_05_band_accountability.md)-এ।
-- চতুষ্কের সহোদর পা: [সময়ানুবর্তিতা](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)।
+- চতুষ্কের সহোদর পা: [সময়ানুবর্তিতা](core_05_apex_timeliness_leg.md#timeliness-constitutional)।
 - সঙ্গে পড়ুন: [জবাবদিহি, চ্যালেঞ্জ-যোগ্যতা, নিষ্পত্তি ও বিরোধ সমাধান, সমষ্টিগত জবাবদিহি ব্যর্থতা ও অপ্রতিরোধ্য বল গুচ্ছ](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [চ্যালেঞ্জ-যোগ্যতা](../../core_05_band_accountability.md#contestability), [নিরীক্ষাযোগ্যতা](../../core_05_band_oversight.md#auditability), [আরোপযোগ্য ক্রিয়া](../../core_05_band_accountability.md#attributable-action-constitutional), [আরোপণ সততা](../../core_05_band_accountability.md#attribution-integrity-constitutional), [অধ্যায় এক §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape), [অধ্যায় তিন §2.1.1 আনুষ্ঠানিক লেবেল ও উপস্থাপনা খেলা](core_03_definition_integrity.md#211-formal-label-and-representation-gaming), এবং [অধ্যায় নয় §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)।
 
 </details>
@@ -69,7 +69,7 @@
 - **Def.A3 প্রস্থিতি অবস্থা, অবদান ও লঙ্ঘন** — [Def.A3 *প্রস্থিতি অবস্থা, অবদান ও লঙ্ঘন*](../../core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)
 - **Def.A4 বল প্রয়োগ, স্বায়ত্তশাসিত জবরদস্তি, স্বায়ত্তশাসিত ঘাতক ব্যবস্থা ও গণক্ষতি অস্ত্র** — [Def.A4 *বল প্রয়োগ, স্বায়ত্তশাসিত জবরদস্তি, স্বায়ত্তশাসিত ঘাতক ব্যবস্থা ও গণক্ষতি অস্ত্র*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
-**চতুষ্কের সহোদর পা:** [সময়ানুবর্তিতা](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)।
+**চতুষ্কের সহোদর পা:** [সময়ানুবর্তিতা](core_05_apex_timeliness_leg.md#timeliness-constitutional)।
 
 **স্বাধীন ও আধা-স্বাধীন পদ** থাকে [জবাবদিহি: স্বাধীন পদ](../../core_05_band_accountability.md#accountability-independent-terms) ও [জবাবদিহি: আধা-স্বাধীন পদ](../../core_05_band_accountability.md#accountability-semi-independent-terms)-এর অধীনে।
 

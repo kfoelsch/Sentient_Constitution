@@ -22,7 +22,7 @@
 
 - 上流：[第五章の羅針](core_05__definitions_home.md#chapter-five-compass-and-definition-map)；[憲法四元](core_00_preamble.md#constitutional-tetrad)（説明責任脚；[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ）；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)；第一次の目的 [繁栄](core_00_preamble.md#flourishing)。
 - 下流：原則：[§10 責務ある管理の規律のもとでの統治](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)；[第一章 §11.6 承継者の責任と形式構造による逃避の禁止](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)；[四元脚の分解](#accountability-tetrad-leg-decomposition)；説明責任帯の葉定義は [core_05_band_accountability.md](../../core_05_band_accountability.md)。
-- 四元の兄弟脚：[適時性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)。
+- 四元の兄弟脚：[適時性](core_05_apex_timeliness_leg.md#timeliness-constitutional)。
 - あわせて読む：[説明責任、争訟可能性、裁定と紛争解決、集合的説明責任の失敗、および不可抗力のクラスター](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster)、[争訟可能性](../../core_05_band_accountability.md#contestability)、[監査可能性](../../core_05_band_oversight.md#auditability)、[帰属可能な行為](../../core_05_band_accountability.md#attributable-action-constitutional)、[帰属の誠実性](../../core_05_band_accountability.md#attribution-integrity-constitutional)、[第一章 §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)、[第三章 §2.1.1 形式的ラベルと表示の弄り](core_03_definition_integrity.md#211-formal-label-and-representation-gaming)、および [第九章 §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)。
 
 </details>
@@ -69,7 +69,7 @@
 - **Def.A3 軌跡の状態、貢献、違反** — [Def.A3 *軌跡の状態、貢献、違反*](../../core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)
 - **Def.A4 武力の使用、自律的強制、自律的致死システム、大量危害兵器** — [Def.A4 *武力の使用、自律的強制、自律的致死システム、大量危害兵器*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
-**四元の兄弟脚：** [適時性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)。
+**四元の兄弟脚：** [適時性](core_05_apex_timeliness_leg.md#timeliness-constitutional)。
 
 **独立および半独立の用語**は [説明責任：独立用語](../../core_05_band_accountability.md#accountability-independent-terms) および [説明責任：半独立用語](../../core_05_band_accountability.md#accountability-semi-independent-terms) のもとにある。
 

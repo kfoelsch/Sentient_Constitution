@@ -74,7 +74,7 @@
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 遵从</span></strong></summary>
 
 - [福祉](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [参与](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [参与](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [尊严与平等道德地位](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [实质公平](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [实质性](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
@@ -88,7 +88,7 @@
 
 在本宪法下受治理的一切系统，其终极目标是保全并推进感知者的[福祉](../../core_05_band_continuity.md#wellbeing) — 即[两项宪法宗旨](../../core_00_preamble.md#two-constitutional-aims)下的[**繁盛**](#flourishing)宗旨。
 
-福祉是[宪法四元](../../core_00_preamble.md#constitutional-tetrad)下[参与](../../core_05_apex_participation_leg.md#participation-constitutional)的基础。当底层福祉条件 — 包括[有意义的能动性](../../core_05_band_participation.md#meaningful-agency)、公平通路与尊严 — 被实质降级时，共享系统不得把参与视为已经满足。
+福祉是[宪法四元](../../core_00_preamble.md#constitutional-tetrad)下[参与](core_05_apex_participation_leg.md#participation-constitutional)的基础。当底层福祉条件 — 包括[有意义的能动性](../../core_05_band_participation.md#meaningful-agency)、公平通路与尊严 — 被实质降级时，共享系统不得把参与视为已经满足。
 
 福祉不仅包括即时效果，也包括间接、延迟、累积与跨系统后果，按[**第二至四章**](core_02_definition_structure.md)评价。在本价值层，福祉：
 - 使真实参与成为可能 — 感知者缺乏条件去使用的声音，不是有意义的参与
@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 一并阅读：[宪法四元](../../core_00_preamble.md#constitutional-tetrad) — **参与**腿（通路、声音与可质疑性；一般要求，不只是[受影响方的系统参与](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)）；收益与负担附着之处，适用**问责**腿。
-- 上游：原则：[§2 基础目标：福祉](#2-foundational-objective-wellbeing) — 包括福祉作为[参与](../../core_05_apex_participation_leg.md#participation-constitutional)的基础。
+- 上游：原则：[§2 基础目标：福祉](#2-foundational-objective-wellbeing) — 包括福祉作为[参与](core_05_apex_participation_leg.md#participation-constitutional)的基础。
 - 下游：[2.2 承认、强化与志向](#22-recognition-reinforcement-and-aspiration)；[4. 信任](#4-system-stability-enabler-trust-coordination-integrity)、[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[6. 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)，以及 [§6.1 决定记录纪律](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)，凡优先顺序与分配选择必须保持连贯且可审查之处。
 - 分节（阅读顺序）：[§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment)。
 - 下游：塑造平等道德地位、非任意对待、有意义的质疑与相称限制限度的权利面。
@@ -118,7 +118,7 @@
 
 - [尊严与平等道德地位](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [可及性](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
-- [参与](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [参与](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [程序公平](../../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [实质公平](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [受保护特征](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
@@ -134,7 +134,7 @@
 
 **公平**是[§2](#2-foundational-objective-wellbeing)在感知者必须通过共享系统生活、工作、学习、交易或作决定时，所要求内容的一部分。凡共享系统实质影响感知者之处，公平要问：机会、对待，以及收益与负担的划分，是否尊重[尊严与平等道德地位](../../core_05_band_participation.md#dignity-and-equal-moral-standing)。
 
-公平帮助使[参与](../../core_05_apex_participation_leg.md#participation-constitutional)成为真实。当感知者在技术上有声音，却够不到过程、读不懂规则、达不到条件、质疑不了结果，或承担不起落在他们身上的负担时，参与就不是真实的。
+公平帮助使[参与](core_05_apex_participation_leg.md#participation-constitutional)成为真实。当感知者在技术上有声音，却够不到过程、读不懂规则、达不到条件、质疑不了结果，或承担不起落在他们身上的负担时，参与就不是真实的。
 
 系统展示一个好看的平均结果，并不够。一条头条指标、平均数、排名或效率主张，本身并不能证明公平。一个系统可以在汇总上看起来成功，同时对那些被排斥、被错误分类、被少付、被过载，或被剥夺有意义反对机会的感知者仍然不公平。
 
@@ -143,7 +143,7 @@
 <a id="211-access-and-opportunity"></a>
 ##### 2.1.1 通路与机会
 
-- 感知者需要通往[参与](../../core_05_apex_participation_leg.md#participation-constitutional)、教育、工作、照护、安全、流动，以及其他对日常生活要紧之善的切实路径。
+- 感知者需要通往[参与](core_05_apex_participation_leg.md#participation-constitutional)、教育、工作、照护、安全、流动，以及其他对日常生活要紧之善的切实路径。
 - 那些路径不得因任意或不相关的理由被挡住、被定价挤出、被拖延、被隐藏或被倾斜。
 - 凡本宪法要求**实质性**机会之处，只在纸上敞开的门并不够。
 
@@ -162,7 +162,7 @@
 - 细则经由第五章落实，包括[受保护特征](../../core_05_band_participation.md#protected-characteristics-constitutional)与[受保护特征代理与差别影响](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)。
 - 当一项决定严重影响到某人，或当他们提出质疑时，凡第六章或统管文书要求通知、听证、说明或审查之处，审查路径必须满足[程序公平](../../core_05_band_participation.md#procedural-fairness-constitutional)。
 
-所称福祉若依赖于任意排斥、未经说明或不稳定的规则、隐蔽榨取，或形式上的[参与](../../core_05_apex_participation_leg.md#participation-constitutional)而同时使参与有意义的公平条件已经失败，则与[§2](#2-foundational-objective-wellbeing)不对齐。
+所称福祉若依赖于任意排斥、未经说明或不稳定的规则、隐蔽榨取，或形式上的[参与](core_05_apex_participation_leg.md#participation-constitutional)而同时使参与有意义的公平条件已经失败，则与[§2](#2-foundational-objective-wellbeing)不对齐。
 
 <a id="214-unfair-treatment"></a>
 ##### 2.1.4 不公平对待
@@ -182,7 +182,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 一并阅读：[宪法四元](../../core_00_preamble.md#constitutional-tetrad) — 当具名承认、称誉或志向路径实质影响声音、地位或通向有后果角色的通路时，适用**参与**腿；**问责**腿（对背叛、隐瞒与回避问责的反奖赏）；**监督**腿（可追溯、不误导的称誉）。
-- 上游：原则：[§2 基础目标：福祉](#2-foundational-objective-wellbeing) — 包括福祉作为[参与](../../core_05_apex_participation_leg.md#participation-constitutional)的基础；[§2.1 公平](#21-fairness)。
+- 上游：原则：[§2 基础目标：福祉](#2-foundational-objective-wellbeing) — 包括福祉作为[参与](core_05_apex_participation_leg.md#participation-constitutional)的基础；[§2.1 公平](#21-fairness)。
 - 下游：[4. 信任](#4-system-stability-enabler-trust-coordination-integrity)；[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)；[§10 尽责管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)；[§5 自由](#5-freedom-bounded-agency)。
 - 一并阅读：[第八章 §§4.3–4.4 — 规范化描述符目录](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles)，凡**领域对齐**的承认或比较性的**贡献轴 / 违规轴**描述符叙事具有实质性之处。
 - 一并阅读：[第八章 §4.3 — 贡献侧描述符](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles)，凡贡献性质与承认叙事具有实质性之处；[第九章 §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization)，用于其整合进问题 3。
@@ -195,7 +195,7 @@
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 遵从</span></strong></summary>
 
 - [福祉](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [参与](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [参与](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [实质公平](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [可质疑性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [有意义的能动性](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
@@ -207,7 +207,7 @@
 
 *用直白的话说：福祉不只是什么被禁止、什么算公平 — 共享系统也应当在真理与权利之内，诚实欢呼并奖赏它们希望被重复的行为，其方式应支撑而非替代真实参与。庆祝成功意味着把真实贡献、修复与完成记在账上，而不是炒作或被操纵的指标。这也意味着拒绝奖赏宪法上的背叛、隐瞒、报复或回避问责 — 即使那些行为带来了机构上的好处。*
 
-**三个维度。** 福祉取决于系统禁止什么、如何公平分配成本 — 也取决于它们可见地珍视什么、强化什么，并帮助感知者追求什么。本节陈述那些承认、强化与志向义务。实质影响声音、地位或通路的承认与称誉，必须与[§2](#2-foundational-objective-wellbeing)及[§2.1 公平](#21-fairness)下的[参与](../../core_05_apex_participation_leg.md#participation-constitutional)保持一致。它与[§2.1 公平](#21-fairness)一并适用，并仍受安全、真理与第六章权利底线的限定。
+**三个维度。** 福祉取决于系统禁止什么、如何公平分配成本 — 也取决于它们可见地珍视什么、强化什么，并帮助感知者追求什么。本节陈述那些承认、强化与志向义务。实质影响声音、地位或通路的承认与称誉，必须与[§2](#2-foundational-objective-wellbeing)及[§2.1 公平](#21-fairness)下的[参与](core_05_apex_participation_leg.md#participation-constitutional)保持一致。它与[§2.1 公平](#21-fairness)一并适用，并仍受安全、真理与第六章权利底线的限定。
 
 <a id="221-recognition-and-reinforcement"></a>
 ##### 2.2.1 承认与强化
@@ -249,7 +249,7 @@
 <a id="225-aligned-recognition-pathways"></a>
 ##### 2.2.5 对齐的承认路径
 
-**分配地位**、**资源**或**实质通路**的具名承认路径、称誉、奖项、认证、轨迹、声誉效果或类似激励，必须与真理、安全、**第六章**指定之处的可质疑程序、[参与](../../core_05_apex_participation_leg.md#participation-constitutional)以及[激励对齐](../../core_05_band_integrative.md#incentive-alignment)保持一致。
+**分配地位**、**资源**或**实质通路**的具名承认路径、称誉、奖项、认证、轨迹、声誉效果或类似激励，必须与真理、安全、**第六章**指定之处的可质疑程序、[参与](core_05_apex_participation_leg.md#participation-constitutional)以及[激励对齐](../../core_05_band_integrative.md#incentive-alignment)保持一致。
 
 它们**不得**系统性地奖赏伤害、欺骗、回避审查、榨取，或侵蚀有意义的能动性。
 
@@ -447,7 +447,7 @@
 
 *用直白的话说：约束感知者的规则、决定与通知，必须写得让感知者真正读得懂、理解得了、能够据此行动 — 行话、堆叠的复杂性或程序不透明，不得被用来击败可质疑性、能动性或审计。*
 
-一项**直白语言可及性义务**适用于约束感知者的宪法、治理、裁决性与运行文本。当感知者必须接触该文本以行使权利、参与治理、质疑决定或核验遵从时，同一义务也适用。这是一项[参与](../../core_05_apex_participation_leg.md#participation-constitutional)要求：读不懂约束自己之规则的感知者，无法有意义地参与那些规则所统管的系统。
+一项**直白语言可及性义务**适用于约束感知者的宪法、治理、裁决性与运行文本。当感知者必须接触该文本以行使权利、参与治理、质疑决定或核验遵从时，同一义务也适用。这是一项[参与](core_05_apex_participation_leg.md#participation-constitutional)要求：读不懂约束自己之规则的感知者，无法有意义地参与那些规则所统管的系统。
 
 <a id="341-scope"></a>
 ##### 3.4.1 范围

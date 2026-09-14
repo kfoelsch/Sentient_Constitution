@@ -74,7 +74,7 @@
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
 
 - [Благополучие](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [Участие](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [Участие](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [Достоинство и равный моральный статус](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [Содержательная справедливость](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [Материальность](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
@@ -88,7 +88,7 @@
 
 Конечная цель всех систем, управляемых под этой Конституцией, — сохранять и продвигать [благополучие](../../core_05_band_continuity.md#wellbeing) сентентов — цель [**Расцвета**](#flourishing) под [Двумя конституционными целями](core_00_preamble.md#two-constitutional-aims).
 
-Благополучие основополагающе для [Участия](../../core_05_apex_participation_leg.md#participation-constitutional) под [Конституционной тетрадой](core_00_preamble.md#constitutional-tetrad). Общие системы не могут считать участие удовлетворённым, когда лежащие в основе условия благополучия — включая [Значимую агентность](../../core_05_band_participation.md#meaningful-agency), справедливый доступ и достоинство — материально деградированы.
+Благополучие основополагающе для [Участия](core_05_apex_participation_leg.md#participation-constitutional) под [Конституционной тетрадой](core_00_preamble.md#constitutional-tetrad). Общие системы не могут считать участие удовлетворённым, когда лежащие в основе условия благополучия — включая [Значимую агентность](../../core_05_band_participation.md#meaningful-agency), справедливый доступ и достоинство — материально деградированы.
 
 Благополучие включает не только непосредственные эффекты, но и косвенные, отложенные, накопительные и межсистемные последствия, оцениваемые под [**Главами со второй по четвёртую**](core_02_definition_structure.md). На этом слое ценности благополучие:
 - делает реальное участие возможным — голос, условиями которого сентенты не располагают, не является значимым участием
@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Читать вместе с: [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad) — нога **участия** (доступ, голос и оспоримость; общее требование, не только [Системное участие затрагиваемых сторон](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)); нога **подотчётности** там, где прикрепляются выгоды и нагрузки.
-- Исход: Принципы: [§2 Основополагающая цель: благополучие](#2-foundational-objective-wellbeing) — включая благополучие как основополагающее для [Участия](../../core_05_apex_participation_leg.md#participation-constitutional).
+- Исход: Принципы: [§2 Основополагающая цель: благополучие](#2-foundational-objective-wellbeing) — включая благополучие как основополагающее для [Участия](core_05_apex_participation_leg.md#participation-constitutional).
 - Назначение: [2.2 Признание, подкрепление и устремление](#22-recognition-reinforcement-and-aspiration); [4. Доверие](#4-system-stability-enabler-trust-coordination-integrity), [§9 Ответственное управление и распределённое понимание](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) и [дисциплина записи решения §6.1](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) там, где выборы первенства и распределения должны оставаться связными и подлежащими пересмотру.
 - Подразделы (порядок чтения): [§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment).
 - Назначение: Формирует поверхность прав для равного статуса, непроизвольного обращения, значимого оспаривания и пределов соразмерного ограничения.
@@ -118,7 +118,7 @@
 
 - [Достоинство и равный моральный статус](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [Доступность](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
-- [Участие](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [Участие](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [Процедурная справедливость](../../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [Содержательная справедливость](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [Защищённые характеристики](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
@@ -134,7 +134,7 @@
 
 **Справедливость** — часть того, что требует [§2](#2-foundational-objective-wellbeing), всякий раз когда сентенты должны жить, работать, учиться, торговать или принимать решения через общие системы. Там, где общие системы материально затрагивают сентентов, справедливость спрашивает, уважают ли возможность, обращение и раздел выгод и нагрузок [Достоинство и равный моральный статус](../../core_05_band_participation.md#dignity-and-equal-moral-standing).
 
-Справедливость помогает сделать [Участие](../../core_05_apex_participation_leg.md#participation-constitutional) реальным. Участие нереально, когда сентенты технически имеют голос, но не могут достичь процесса, понять правило, выполнить условия, оспорить исход или вынести нагрузку, возложенную на них.
+Справедливость помогает сделать [Участие](core_05_apex_participation_leg.md#participation-constitutional) реальным. Участие нереально, когда сентенты технически имеют голос, но не могут достичь процесса, понять правило, выполнить условия, оспорить исход или вынести нагрузку, возложенную на них.
 
 Системе недостаточно показать хороший средний результат. Одна заголовочная метрика, среднее, рейтинг или заявление об эффективности сами по себе не доказывают справедливость. Система может выглядеть успешной в агрегате, оставаясь несправедливой к сентентам, которых исключают, неверно классифицируют, недоплачивают, перегружают или которым отказывают в значимом шансе возразить.
 
@@ -143,7 +143,7 @@
 <a id="211-access-and-opportunity"></a>
 ##### 2.1.1 Доступ и возможность
 
-- Сентентам нужны практические пути к [Участию](../../core_05_apex_participation_leg.md#participation-constitutional), образованию, работе, уходу, безопасности, передвижению и другим благам, которые имеют значение для обычной жизни.
+- Сентентам нужны практические пути к [Участию](core_05_apex_participation_leg.md#participation-constitutional), образованию, работе, уходу, безопасности, передвижению и другим благам, которые имеют значение для обычной жизни.
 - Эти пути не должны быть заблокированы, завышены в цене, задержаны, скрыты или наклонены по произвольным или нерелевантным причинам.
 - Двери, открытой только на бумаге, недостаточно там, где эта Конституция требует **содержательной** возможности.
 
@@ -162,7 +162,7 @@
 - Подробные правила проводятся через Главу пятую, включая [Защищённые характеристики](../../core_05_band_participation.md#protected-characteristics-constitutional) и [Подмену защищённых характеристик и несоразмерное воздействие](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
 - Когда решение серьёзно затрагивает кого-то или когда его оспаривают, путь пересмотра должен удовлетворять [Процедурной справедливости](../../core_05_band_participation.md#procedural-fairness-constitutional) везде, где Глава шестая или управляющий инструмент требует уведомления, слушания, объяснения или пересмотра.
 
-Заявленное благополучие не согласовано с [§2](#2-foundational-objective-wellbeing), если оно зависит от произвольного исключения, необъяснённых или нестабильных правил, скрытого извлечения или формального [Участия](../../core_05_apex_participation_leg.md#participation-constitutional), пока условия справедливости, которые делают участие значимым, не сработали.
+Заявленное благополучие не согласовано с [§2](#2-foundational-objective-wellbeing), если оно зависит от произвольного исключения, необъяснённых или нестабильных правил, скрытого извлечения или формального [Участия](core_05_apex_participation_leg.md#participation-constitutional), пока условия справедливости, которые делают участие значимым, не сработали.
 
 <a id="214-unfair-treatment"></a>
 ##### 2.1.4 Несправедливое обращение
@@ -182,7 +182,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Читать вместе с: [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad) — нога **участия** там, где именованные пути признания, славы или устремления материально влияют на голос, статус или доступ к ролям с последствиями; нога **подотчётности** (антивознаграждение за предательство, сокрытие и избегание подотчётности); нога **надзора** (прослеживаемая, не вводящая в заблуждение слава).
-- Исход: Принципы: [§2 Основополагающая цель: благополучие](#2-foundational-objective-wellbeing) — включая благополучие как основополагающее для [Участия](../../core_05_apex_participation_leg.md#participation-constitutional); [§2.1 Справедливость](#21-fairness).
+- Исход: Принципы: [§2 Основополагающая цель: благополучие](#2-foundational-objective-wellbeing) — включая благополучие как основополагающее для [Участия](core_05_apex_participation_leg.md#participation-constitutional); [§2.1 Справедливость](#21-fairness).
 - Назначение: [4. Доверие](#4-system-stability-enabler-trust-coordination-integrity); [§9 Ответственное управление и распределённое понимание](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§10 Управление под дисциплиной ответственного управления](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [§5 Свобода](#5-freedom-bounded-agency).
 - Читать вместе с: [Глава восьмая §§4.3–4.4 — Нормализованный каталог дескрипторов](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles) там, где **согласованное с доменом** признание или сравнительные повествования дескрипторов **Оси вклада / Оси нарушения** материальны.
 - Читать вместе с: [Глава восьмая §4.3 — Дескрипторы стороны вклада](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles) там, где природа вклада и повествования признания материальны; [Глава девятая §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization) для их интеграции в Вопрос 3.
@@ -195,7 +195,7 @@
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
 
 - [Благополучие](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [Участие](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [Участие](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [Содержательная справедливость](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [Оспоримость](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [Значимая агентность](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
@@ -207,7 +207,7 @@
 
 *Простыми словами: благополучие — это не только то, что запрещено, и то, что справедливо: общие системы должны также честно одобрять и вознаграждать поведение, которое они хотят повторить, внутри истины и прав, способами, которые поддерживают, а не подменяют реальное участие. Празднование побед означает признавать реальный вклад, починку и завершение, а не хайп или манипулируемые метрики. Это также означает отказ вознаграждать конституционное предательство, сокрытие, месть или избегание подотчётности — даже когда эти акты произвели институциональное преимущество.*
 
-**Три измерения.** Благополучие зависит от того, что системы запрещают и как справедливо они распределяют издержки — и также от того, что они видимо ценят, подкрепляют и помогают сентентам преследовать. Этот раздел излагает эти обязанности признания, подкрепления и устремления. Признание и слава, которые материально влияют на голос, статус или доступ, должны оставаться согласованными с [Участием](../../core_05_apex_participation_leg.md#participation-constitutional) под [§2](#2-foundational-objective-wellbeing) и [§2.1 Справедливость](#21-fairness). Это применяется вместе с [§2.1 Справедливость](#21-fairness) и остаётся ограниченным Безопасностью, Истиной и Полом прав Главы шестой.
+**Три измерения.** Благополучие зависит от того, что системы запрещают и как справедливо они распределяют издержки — и также от того, что они видимо ценят, подкрепляют и помогают сентентам преследовать. Этот раздел излагает эти обязанности признания, подкрепления и устремления. Признание и слава, которые материально влияют на голос, статус или доступ, должны оставаться согласованными с [Участием](core_05_apex_participation_leg.md#participation-constitutional) под [§2](#2-foundational-objective-wellbeing) и [§2.1 Справедливость](#21-fairness). Это применяется вместе с [§2.1 Справедливость](#21-fairness) и остаётся ограниченным Безопасностью, Истиной и Полом прав Главы шестой.
 
 <a id="221-recognition-and-reinforcement"></a>
 ##### 2.2.1 Признание и подкрепление
@@ -249,7 +249,7 @@
 <a id="225-aligned-recognition-pathways"></a>
 ##### 2.2.5 Согласованные пути признания
 
-Именованные пути признания, слава, призы, сертификация, траектория, репутационные эффекты или сопоставимые стимулы, которые **распределяют статус**, **ресурсы** или **материальный доступ**, должны оставаться согласованными с Истиной, Безопасностью, оспоримой процедурой там, где её назначает **Глава шестая**, [Участием](../../core_05_apex_participation_leg.md#participation-constitutional) и [Согласованием стимулов](../../core_05_band_integrative.md#incentive-alignment).
+Именованные пути признания, слава, призы, сертификация, траектория, репутационные эффекты или сопоставимые стимулы, которые **распределяют статус**, **ресурсы** или **материальный доступ**, должны оставаться согласованными с Истиной, Безопасностью, оспоримой процедурой там, где её назначает **Глава шестая**, [Участием](core_05_apex_participation_leg.md#participation-constitutional) и [Согласованием стимулов](../../core_05_band_integrative.md#incentive-alignment).
 
 Они **не должны** систематически вознаграждать вред, обман, избегание проверки, извлечение или эрозию значимой агентности.
 
@@ -447,7 +447,7 @@
 
 *Простыми словами: правила, решения и уведомления, которые связывают сентентов, должны быть написаны так, чтобы сентенты могли их фактически читать, понимать и действовать по ним — и жаргон, наложенная сложность или процедурная непрозрачность не могут использоваться, чтобы победить оспоримость, агентность или аудит.*
 
-**Обязанность доступности простого языка** применяется к конституционному, управленческому, разбирательскому и операционному тексту, который связывает сентентов. Та же обязанность применяется, когда сентенты должны вовлекаться в этот текст, чтобы осуществлять права, участвовать в управлении, оспаривать решения или проверять соответствие. Это требование [Участия](../../core_05_apex_participation_leg.md#participation-constitutional): сентенты, которые не могут понять правила, которые их связывают, не могут значимо участвовать в системах, которыми эти правила управляют.
+**Обязанность доступности простого языка** применяется к конституционному, управленческому, разбирательскому и операционному тексту, который связывает сентентов. Та же обязанность применяется, когда сентенты должны вовлекаться в этот текст, чтобы осуществлять права, участвовать в управлении, оспаривать решения или проверять соответствие. Это требование [Участия](core_05_apex_participation_leg.md#participation-constitutional): сентенты, которые не могут понять правила, которые их связывают, не могут значимо участвовать в системах, которыми эти правила управляют.
 
 <a id="341-scope"></a>
 ##### 3.4.1 Охват

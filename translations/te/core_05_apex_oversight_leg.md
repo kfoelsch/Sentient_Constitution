@@ -12,7 +12,7 @@
 >
 > **మునుపటి (ఈ భాషలో):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 >
-> **తదుపరి (ఇంకా ఆంగ్లంలో):** [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md)
+> **తదుపరి (ఈ భాషలో):** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
 > **చదివే చాపం:** O/M/A/C → కాలు విభజన → కొలత కుటుంబం.
 
 </details>
@@ -126,6 +126,6 @@
 
 **మునుపటి ఫైల్ (ఈ భాషలో):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
-**తదుపరి ఫైల్ (ఇంకా ఆంగ్లంలో):** [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md)
+**తదుపరి ఫైల్ (ఈ భాషలో):** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
 
 **బంధనీయ మూలం:** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)

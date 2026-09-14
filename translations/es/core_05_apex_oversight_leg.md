@@ -12,7 +12,7 @@
 >
 > **Anterior (este idioma):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 >
-> **Siguiente (aún en inglés):** [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md)
+> **Siguiente (este idioma):** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
 > **Arco de lectura:** O/M/A/C → descomposición de la pata → familia de medición.
 
 </details>
@@ -126,6 +126,6 @@ Los requisitos vinculantes de fiabilidad, auditoría o revisión surgen cuando e
 
 **Archivo anterior:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
-**Siguiente archivo (aún en inglés):** [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md)
+**Siguiente archivo (este idioma):** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
 
 **Original vinculante:** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)

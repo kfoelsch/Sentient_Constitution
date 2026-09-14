@@ -74,7 +74,7 @@
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
 
 - [কল্যাণ](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [অংশগ্রহণ](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [অংশগ্রহণ](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [মর্যাদা ও সমান নৈতিক মর্যাদা](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [বস্তুগত ন্যায্যতা](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [তাৎপর্য](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
@@ -88,7 +88,7 @@
 
 এই সংবিধানের অধীনে শাসিত সব ব্যবস্থার চূড়ান্ত উদ্দেশ্য সংজ্ঞ [কল্যাণ](../../core_05_band_continuity.md#wellbeing) ধরে রাখা ও এগিয়ে নেওয়া — [দুই সাংবিধানিক উদ্দেশ্য](../../core_00_preamble.md#two-constitutional-aims)-এর অধীনে [**সমুন্নতি**](#flourishing) উদ্দেশ্য।
 
-কল্যাণ [সাংবিধানিক চতুষ্ক](../../core_00_preamble.md#constitutional-tetrad)-এর অধীনে [অংশগ্রহণ](../../core_05_apex_participation_leg.md#participation-constitutional)-এর ভিত্তি। ভাগ করা ব্যবস্থা অংশগ্রহণ পূরণ হয়েছে বলে মানতে পারে না যখন অন্তর্নিহিত কল্যাণ-শর্ত — [অর্থপূর্ণ কর্তৃত্ব](../../core_05_band_participation.md#meaningful-agency), ন্যায্য প্রবেশাধিকার ও মর্যাদা সহ — বস্তুগতভাবে অবনত হয়।
+কল্যাণ [সাংবিধানিক চতুষ্ক](../../core_00_preamble.md#constitutional-tetrad)-এর অধীনে [অংশগ্রহণ](core_05_apex_participation_leg.md#participation-constitutional)-এর ভিত্তি। ভাগ করা ব্যবস্থা অংশগ্রহণ পূরণ হয়েছে বলে মানতে পারে না যখন অন্তর্নিহিত কল্যাণ-শর্ত — [অর্থপূর্ণ কর্তৃত্ব](../../core_05_band_participation.md#meaningful-agency), ন্যায্য প্রবেশাধিকার ও মর্যাদা সহ — বস্তুগতভাবে অবনত হয়।
 
 কল্যাণে শুধু তাৎক্ষণিক প্রভাব নয়, পরোক্ষ, বিলম্বিত, সঞ্চিত ও আন্তঃব্যবস্থা পরিণতিও থাকে, [**অধ্যায় দুই থেকে চার**](core_02_definition_structure.md)-এর অধীনে মূল্যায়িত। এই মূল্য স্তরে, কল্যাণ:
 - আসল অংশগ্রহণ সম্ভব করে — এমন কণ্ঠ যা ব্যবহারের শর্ত সংজ্ঞ প্রাণীর নেই, অর্থপূর্ণ অংশগ্রহণ নয়
@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](../../core_00_preamble.md#constitutional-tetrad) — **অংশগ্রহণ** পা (প্রবেশাধিকার, কণ্ঠ ও চ্যালেঞ্জ-যোগ্যতা; সাধারণ প্রত্যাশা, শুধু [প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) নয়); **জবাবদিহি** পা যেখানে লাভ ও ভার যুক্ত হয়।
-- ঊর্ধ্ব: নীতি: [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](#2-foundational-objective-wellbeing) — [অংশগ্রহণ](../../core_05_apex_participation_leg.md#participation-constitutional)-এর ভিত্তি হিসেবে কল্যাণ সহ।
+- ঊর্ধ্ব: নীতি: [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](#2-foundational-objective-wellbeing) — [অংশগ্রহণ](core_05_apex_participation_leg.md#participation-constitutional)-এর ভিত্তি হিসেবে কল্যাণ সহ।
 - অধঃ: [2.2 স্বীকৃতি, শক্তিশালীকরণ ও আকাঙ্ক্ষা](#22-recognition-reinforcement-and-aspiration); [4. বিশ্বাস](#4-system-stability-enabler-trust-coordination-integrity), [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), এবং [§6.1 সিদ্ধান্ত-নথি শৃঙ্খলা](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) যেখানে অগ্রাধিকার ও বণ্টন পছন্দ সুসংগত ও পর্যালোচনাযোগ্য থাকতে হয়।
 - উপধারা (পড়ার ক্রম): [§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment)।
 - অধঃ: সমান নৈতিক মর্যাদা, অযৌক্তিক-নয় আচরণ, অর্থপূর্ণ চ্যালেঞ্জ, এবং আনুপাতিক সীমাবদ্ধতার সীমার জন্য অধিকার-পৃষ্ঠ গড়ে।
@@ -118,7 +118,7 @@
 
 - [মর্যাদা ও সমান নৈতিক মর্যাদা](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [প্রবেশযোগ্যতা](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
-- [অংশগ্রহণ](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [অংশগ্রহণ](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [প্রক্রিয়াগত ন্যায্যতা](../../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [বস্তুগত ন্যায্যতা](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [সুরক্ষিত বৈশিষ্ট্য](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
@@ -134,7 +134,7 @@
 
 **ন্যায্যতা** [§2](#2-foundational-objective-wellbeing) যা চায় তার অংশ যখনই সংজ্ঞ প্রাণীকে ভাগ করা ব্যবস্থার মধ্য দিয়ে বাঁচতে, কাজ করতে, শিখতে, বিনিময় করতে বা সিদ্ধান্ত নিতে হয়। যেখানে ভাগ করা ব্যবস্থা সংজ্ঞ প্রাণীকে বস্তুগতভাবে প্রভাবিত করে, ন্যায্যতা জিজ্ঞেস করে সুযোগ, আচরণ, এবং লাভ ও ভারের ভাগ [মর্যাদা ও সমান নৈতিক মর্যাদা](../../core_05_band_participation.md#dignity-and-equal-moral-standing) সম্মান করে কি না।
 
-ন্যায্যতা [অংশগ্রহণ](../../core_05_apex_participation_leg.md#participation-constitutional)-কে আসল করতে সাহায্য করে। অংশগ্রহণ আসল নয় যখন সংজ্ঞ প্রাণীর কারিগরিভাবে কণ্ঠ আছে কিন্তু তারা প্রক্রিয়ায় পৌঁছাতে, নিয়ম বুঝতে, শর্ত পূরণ করতে, ফল চ্যালেঞ্জ করতে, বা তাদের উপর চাপানো ভার বহন করতে পারে না।
+ন্যায্যতা [অংশগ্রহণ](core_05_apex_participation_leg.md#participation-constitutional)-কে আসল করতে সাহায্য করে। অংশগ্রহণ আসল নয় যখন সংজ্ঞ প্রাণীর কারিগরিভাবে কণ্ঠ আছে কিন্তু তারা প্রক্রিয়ায় পৌঁছাতে, নিয়ম বুঝতে, শর্ত পূরণ করতে, ফল চ্যালেঞ্জ করতে, বা তাদের উপর চাপানো ভার বহন করতে পারে না।
 
 ভালো গড় ফল দেখানো যথেষ্ট নয়। এক শিরোনাম মাপ, গড়, র্যাঙ্কিং, বা দক্ষতা দাবি একা ন্যায্যতা প্রমাণ করে না। ব্যবস্থা সমষ্টিতে সফল দেখাতে পারে তবুও সেই সংজ্ঞ প্রাণীর প্রতি অন্যায্য থাকতে পারে যাদের বাইরে রাখা হয়েছে, ভুল শ্রেণিবদ্ধ করা হয়েছে, কম দেওয়া হয়েছে, অতিরিক্ত ভার চাপানো হয়েছে, বা আপত্তির অর্থপূর্ণ সুযোগ থেকে বঞ্চিত করা হয়েছে।
 
@@ -143,7 +143,7 @@
 <a id="211-access-and-opportunity"></a>
 ##### 2.1.1 প্রবেশাধিকার ও সুযোগ
 
-- সংজ্ঞ প্রাণীর [অংশগ্রহণ](../../core_05_apex_participation_leg.md#participation-constitutional), শিক্ষা, কাজ, যত্ন, নিরাপত্তা, চলাচল, এবং সাধারণ জীবনের অন্য প্রয়োজনীয় জিনিসের দিকে ব্যবহারিক পথ লাগে।
+- সংজ্ঞ প্রাণীর [অংশগ্রহণ](core_05_apex_participation_leg.md#participation-constitutional), শিক্ষা, কাজ, যত্ন, নিরাপত্তা, চলাচল, এবং সাধারণ জীবনের অন্য প্রয়োজনীয় জিনিসের দিকে ব্যবহারিক পথ লাগে।
 - সেই পথ অযৌক্তিক বা অপ্রাসঙ্গিক কারণে আটকানো, দামে বাইরে রাখা, দেরি, লুকানো, বা হেলে রাখা চলবে না।
 - যে দরজা শুধু কাগজে খোলা, তা যথেষ্ট নয় যেখানে এই সংবিধান **সারবস্তুগত** সুযোগ চায়।
 
@@ -162,7 +162,7 @@
 - বিস্তারিত নিয়ম অধ্যায় পাঁচ দিয়ে বহন হয়, [সুরক্ষিত বৈশিষ্ট্য](../../core_05_band_participation.md#protected-characteristics-constitutional) এবং [সুরক্ষিত বৈশিষ্ট্যের স্থলাভিষিক্তকরণ ও অসম প্রভাব](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) সহ।
 - যখন কোনো সিদ্ধান্ত কাউকে গুরুতরভাবে প্রভাবিত করে, বা যখন তারা তাকে চ্যালেঞ্জ করে, পর্যালোচনা পথকে [প্রক্রিয়াগত ন্যায্যতা](../../core_05_band_participation.md#procedural-fairness-constitutional) পূরণ করতে হয় যেখানে অধ্যায় ছয় বা শাসক দলিল নোটিশ, শুনানি, ব্যাখ্যা, বা পর্যালোচনা চায়।
 
-দাবিকৃত কল্যাণ [§2](#2-foundational-objective-wellbeing)-এর সঙ্গে সারিবদ্ধ নয় যদি তা নির্ভর করে অযৌক্তিক বহিষ্কার, অব্যাখ্যাত বা অস্থির নিয়ম, লুকানো নিষ্কাশন, বা আনুষ্ঠানিক [অংশগ্রহণ](../../core_05_apex_participation_leg.md#participation-constitutional)-এর উপর যখন অংশগ্রহণকে অর্থপূর্ণ করা ন্যায্যতা-শর্ত ব্যর্থ হয়েছে।
+দাবিকৃত কল্যাণ [§2](#2-foundational-objective-wellbeing)-এর সঙ্গে সারিবদ্ধ নয় যদি তা নির্ভর করে অযৌক্তিক বহিষ্কার, অব্যাখ্যাত বা অস্থির নিয়ম, লুকানো নিষ্কাশন, বা আনুষ্ঠানিক [অংশগ্রহণ](core_05_apex_participation_leg.md#participation-constitutional)-এর উপর যখন অংশগ্রহণকে অর্থপূর্ণ করা ন্যায্যতা-শর্ত ব্যর্থ হয়েছে।
 
 <a id="214-unfair-treatment"></a>
 ##### 2.1.4 অন্যায্য আচরণ
@@ -182,7 +182,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](../../core_00_preamble.md#constitutional-tetrad) — **অংশগ্রহণ** পা যেখানে নামকৃত স্বীকৃতি, প্রশংসা, বা আকাঙ্ক্ষা পথ বস্তুগতভাবে কণ্ঠ, অবস্থা, বা পরিণতিময় ভূমিকায় প্রবেশাধিকার প্রভাবিত করে; **জবাবদিহি** পা (বিশ্বাসঘাতকতা, গোপন, এবং জবাবদিহি এড়ানোর জন্য পুরস্কার-নিরোধ); **তত্ত্বাবধান** পা (খুঁজে পাওয়া যায় এমন, বিভ্রান্তিকর নয় প্রশংসা)।
-- ঊর্ধ্ব: নীতি: [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](#2-foundational-objective-wellbeing) — [অংশগ্রহণ](../../core_05_apex_participation_leg.md#participation-constitutional)-এর ভিত্তি হিসেবে কল্যাণ সহ; [§2.1 ন্যায্যতা](#21-fairness)।
+- ঊর্ধ্ব: নীতি: [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](#2-foundational-objective-wellbeing) — [অংশগ্রহণ](core_05_apex_participation_leg.md#participation-constitutional)-এর ভিত্তি হিসেবে কল্যাণ সহ; [§2.1 ন্যায্যতা](#21-fairness)।
 - অধঃ: [4. বিশ্বাস](#4-system-stability-enabler-trust-coordination-integrity); [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [§5 স্বাধীনতা](#5-freedom-bounded-agency)।
 - সঙ্গে পড়ুন: [অধ্যায় আট §§4.3–4.4 — স্বাভাবিককৃত বর্ণনাকারী তালিকা](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles) যেখানে **ক্ষেত্র-সারিবদ্ধ** স্বীকৃতি বা তুলনামূলক **অবদান অক্ষ / লঙ্ঘন অক্ষ** বর্ণনাকারী কাহিনি বস্তুগত।
 - সঙ্গে পড়ুন: [অধ্যায় আট §4.3 — অবদান-পাশের বর্ণনাকারী](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles) যেখানে অবদানের প্রকৃতি ও স্বীকৃতি কাহিনি বস্তুগত; [অধ্যায় নয় §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization) তাদের প্রশ্ন 3-এ একীকরণের জন্য।
@@ -195,7 +195,7 @@
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
 
 - [কল্যাণ](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [অংশগ্রহণ](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [অংশগ্রহণ](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [বস্তুগত ন্যায্যতা](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [চ্যালেঞ্জ-যোগ্যতা](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [অর্থপূর্ণ কর্তৃত্ব](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
@@ -207,7 +207,7 @@
 
 *সহজ ভাষায়: কল্যাণ শুধু যা নিষিদ্ধ ও যা ন্যায্য তা নয় — ভাগ করা ব্যবস্থার উচিত সততার সঙ্গে সেই আচরণকে উৎসাহ ও পুরস্কার দেওয়া যা তারা পুনরাবৃত্তি চায়, সত্য ও অধিকারের ভিতরে, এমনভাবে যা আসল অংশগ্রহণকে সমর্থন করে তার স্থলাভিষিক্ত হয় না। জয় উদযাপন মানে আসল অবদান, মেরামত ও সম্পূর্ণতার কৃতিত্ব, হাইপ বা কারসাজি করা মাপ নয়। এর মানে সংবিধান-বিরোধী বিশ্বাসঘাতকতা, গোপন, প্রতিশোধ, বা জবাবদিহি এড়ানোকে পুরস্কার দিতে অস্বীকারও — এমনকি সেই কাজ প্রাতিষ্ঠানিক সুবিধা দিলেও।*
 
-**তিন মাত্রা।** কল্যাণ নির্ভর করে ব্যবস্থা কী নিষেধ করে এবং কত ন্যায্যভাবে খরচ ভাগ করে — এবং তারা দৃশ্যমানভাবে কী মূল্য দেয়, শক্তিশালী করে, এবং সংজ্ঞ প্রাণীকে অনুসরণ করতে সাহায্য করে তার উপরও। এই ধারা সেই স্বীকৃতি, শক্তিশালীকরণ ও আকাঙ্ক্ষা কর্তব্য বলে। স্বীকৃতি ও প্রশংসা যা কণ্ঠ, অবস্থা, বা প্রবেশাধিকারকে বস্তুগতভাবে প্রভাবিত করে, [§2](#2-foundational-objective-wellbeing) ও [§2.1 ন্যায্যতা](#21-fairness)-এর অধীনে [অংশগ্রহণ](../../core_05_apex_participation_leg.md#participation-constitutional)-এর সঙ্গে সামঞ্জস্যপূর্ণ থাকতে হয়। এটি [§2.1 ন্যায্যতা](#21-fairness)-এর সঙ্গে একসঙ্গে প্রযোজ্য এবং নিরাপত্তা, সত্য, ও অধ্যায় ছয় অধিকার-তলে আবদ্ধ থাকে।
+**তিন মাত্রা।** কল্যাণ নির্ভর করে ব্যবস্থা কী নিষেধ করে এবং কত ন্যায্যভাবে খরচ ভাগ করে — এবং তারা দৃশ্যমানভাবে কী মূল্য দেয়, শক্তিশালী করে, এবং সংজ্ঞ প্রাণীকে অনুসরণ করতে সাহায্য করে তার উপরও। এই ধারা সেই স্বীকৃতি, শক্তিশালীকরণ ও আকাঙ্ক্ষা কর্তব্য বলে। স্বীকৃতি ও প্রশংসা যা কণ্ঠ, অবস্থা, বা প্রবেশাধিকারকে বস্তুগতভাবে প্রভাবিত করে, [§2](#2-foundational-objective-wellbeing) ও [§2.1 ন্যায্যতা](#21-fairness)-এর অধীনে [অংশগ্রহণ](core_05_apex_participation_leg.md#participation-constitutional)-এর সঙ্গে সামঞ্জস্যপূর্ণ থাকতে হয়। এটি [§2.1 ন্যায্যতা](#21-fairness)-এর সঙ্গে একসঙ্গে প্রযোজ্য এবং নিরাপত্তা, সত্য, ও অধ্যায় ছয় অধিকার-তলে আবদ্ধ থাকে।
 
 <a id="221-recognition-and-reinforcement"></a>
 ##### 2.2.1 স্বীকৃতি ও শক্তিশালীকরণ
@@ -249,7 +249,7 @@
 <a id="225-aligned-recognition-pathways"></a>
 ##### 2.2.5 সারিবদ্ধ স্বীকৃতি পথ
 
-নামকৃত স্বীকৃতি পথ, প্রশংসা, পুরস্কার, প্রত্যয়ন, প্রস্থিতি, খ্যাতি প্রভাব, বা তুলনীয় প্রণোদনা যা **অবস্থা**, **সম্পদ**, বা **বস্তুগত প্রবেশাধিকার** বরাদ্দ করে, সত্য, নিরাপত্তা, চ্যালেঞ্জযোগ্য পদ্ধতি যেখানে **অধ্যায় ছয়** তা দেয়, [অংশগ্রহণ](../../core_05_apex_participation_leg.md#participation-constitutional), এবং [প্রণোদনা সারিবদ্ধতা](../../core_05_band_integrative.md#incentive-alignment)-এর সঙ্গে সামঞ্জস্যপূর্ণ থাকতে হয়।
+নামকৃত স্বীকৃতি পথ, প্রশংসা, পুরস্কার, প্রত্যয়ন, প্রস্থিতি, খ্যাতি প্রভাব, বা তুলনীয় প্রণোদনা যা **অবস্থা**, **সম্পদ**, বা **বস্তুগত প্রবেশাধিকার** বরাদ্দ করে, সত্য, নিরাপত্তা, চ্যালেঞ্জযোগ্য পদ্ধতি যেখানে **অধ্যায় ছয়** তা দেয়, [অংশগ্রহণ](core_05_apex_participation_leg.md#participation-constitutional), এবং [প্রণোদনা সারিবদ্ধতা](../../core_05_band_integrative.md#incentive-alignment)-এর সঙ্গে সামঞ্জস্যপূর্ণ থাকতে হয়।
 
 তারা **পদ্ধতিগতভাবে পুরস্কার দিতে পারে না** ক্ষতি, প্রতারণা, পরীক্ষা এড়ানো, নিষ্কাশন, বা অর্থপূর্ণ কর্তৃত্বের ক্ষয়।
 
@@ -447,7 +447,7 @@
 
 *সহজ ভাষায়: যে নিয়ম, সিদ্ধান্ত ও নোটিশ সংজ্ঞ প্রাণীকে বাধ্য করে, সেগুলো এমনভাবে লিখতে হয় যাতে সংজ্ঞ প্রাণী সত্যি পড়তে, বুঝতে ও কাজ করতে পারে — এবং পরিভাষা, স্তূপীকৃত জটিলতা, বা প্রক্রিয়াগত অস্বচ্ছতা চ্যালেঞ্জ-যোগ্যতা, কর্তৃত্ব, বা নিরীক্ষা হারাতে ব্যবহার করা চলে না।*
 
-একটি **সহজ-ভাষার প্রবেশযোগ্যতা কর্তব্য** প্রযোজ্য সাংবিধানিক, শাসন, নিষ্পত্তিমূলক, এবং পরিচালনা পাঠে যা সংজ্ঞ প্রাণীকে বাধ্য করে। একই কর্তব্য প্রযোজ্য যখন সংজ্ঞ প্রাণীকে অধিকার প্রয়োগ, শাসনে অংশগ্রহণ, সিদ্ধান্ত চ্যালেঞ্জ, বা অনুপালন যাচাই করতে সেই পাঠে জড়াতে হয়। এটি একটি [অংশগ্রহণ](../../core_05_apex_participation_leg.md#participation-constitutional) প্রত্যাশা: যে সংজ্ঞ প্রাণী তাদের বাধ্য করা নিয়ম বুঝতে পারে না তারা সেই নিয়ম যে ব্যবস্থা শাসন করে তাতে অর্থপূর্ণভাবে অংশ নিতে পারে না।
+একটি **সহজ-ভাষার প্রবেশযোগ্যতা কর্তব্য** প্রযোজ্য সাংবিধানিক, শাসন, নিষ্পত্তিমূলক, এবং পরিচালনা পাঠে যা সংজ্ঞ প্রাণীকে বাধ্য করে। একই কর্তব্য প্রযোজ্য যখন সংজ্ঞ প্রাণীকে অধিকার প্রয়োগ, শাসনে অংশগ্রহণ, সিদ্ধান্ত চ্যালেঞ্জ, বা অনুপালন যাচাই করতে সেই পাঠে জড়াতে হয়। এটি একটি [অংশগ্রহণ](core_05_apex_participation_leg.md#participation-constitutional) প্রত্যাশা: যে সংজ্ঞ প্রাণী তাদের বাধ্য করা নিয়ম বুঝতে পারে না তারা সেই নিয়ম যে ব্যবস্থা শাসন করে তাতে অর্থপূর্ণভাবে অংশ নিতে পারে না।
 
 <a id="341-scope"></a>
 ##### 3.4.1 পরিসর

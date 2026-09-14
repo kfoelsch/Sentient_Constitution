@@ -22,7 +22,7 @@
 
 - ऊर्ध्व: [अध्याय पाँच दिक्सूचक](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) (जवाबदेही टाँग; [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims); प्राथमिक उद्देश्य [समुन्नति](core_00_preamble.md#flourishing)।
 - अधो: सिद्धांत: [§10 उत्तरदायी-प्रबंधन अनुशासन के अधीन शासन](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [अध्याय एक §11.6 उत्तराधिकारी जिम्मेदारी और औपचारिक-संरचना पलायन-निषेध](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [चतुष्क टाँग विघटन](#accountability-tetrad-leg-decomposition); जवाबदेही पट्टी की पत्ती परिभाषाएँ [core_05_band_accountability.md](../../core_05_band_accountability.md) में।
-- चतुष्क की सहोदर टाँग: [समयबद्धता](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)।
+- चतुष्क की सहोदर टाँग: [समयबद्धता](core_05_apex_timeliness_leg.md#timeliness-constitutional)।
 - साथ पढ़ें: [जवाबदेही, चुनौती-योग्यता, न्यायनिर्णयन और विवाद समाधान, सामूहिक जवाबदेही विफलता, और अप्रत्याशित घटना समूह](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability), [लेखापरीक्षा-योग्यता](../../core_05_band_oversight.md#auditability), [आरोपणीय कार्रवाई](../../core_05_band_accountability.md#attributable-action-constitutional), [आरोपण अखंडता](../../core_05_band_accountability.md#attribution-integrity-constitutional), [अध्याय एक §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape), [अध्याय तीन §2.1.1 औपचारिक लेबल और प्रतिनिधित्व-खेल](core_03_definition_integrity.md#211-formal-label-and-representation-gaming), और [अध्याय नौ §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)।
 
 </details>
@@ -69,7 +69,7 @@
 - **Def.A3 प्रस्थिति अवस्था, योगदान और उल्लंघन** — [Def.A3 *प्रस्थिति अवस्था, योगदान और उल्लंघन*](../../core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)
 - **Def.A4 बल प्रयोग, स्वायत्त दबाव, स्वायत्त घातक प्रणालियाँ और सामूहिक हानि शस्त्र** — [Def.A4 *बल प्रयोग, स्वायत्त दबाव, स्वायत्त घातक प्रणालियाँ और सामूहिक हानि शस्त्र*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
-**चतुष्क की सहोदर टाँग:** [समयबद्धता](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)।
+**चतुष्क की सहोदर टाँग:** [समयबद्धता](core_05_apex_timeliness_leg.md#timeliness-constitutional)।
 
 **स्वतंत्र और अर्ध-स्वतंत्र पद** [जवाबदेही: स्वतंत्र पद](../../core_05_band_accountability.md#accountability-independent-terms) और [जवाबदेही: अर्ध-स्वतंत्र पद](../../core_05_band_accountability.md#accountability-semi-independent-terms) के अधीन रहते हैं।
 

@@ -73,7 +73,7 @@
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · اطاعت</span></strong></summary>
 
 - [بہبود](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [شرکت](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [شرکت](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [وقار اور برابر اخلاقی مقام](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [حقیقی انصاف](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [مادیت](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
@@ -87,7 +87,7 @@
 
 اس آئین کے تحت حکمرانی شدہ تمام نظاموں کا آخری مقصد شعوری [بہبود](../../core_05_band_continuity.md#wellbeing) کو بچانا اور آگے بڑھانا ہے — [دو آئینی مقاصد](../../core_00_preamble.md#two-constitutional-aims) کے تحت [**شگفتگی**](#flourishing) کا مقصد۔
 
-بہبود [آئینی چوکڑی](../../core_00_preamble.md#constitutional-tetrad) کے تحت [شرکت](../../core_05_apex_participation_leg.md#participation-constitutional) کی بنیاد ہے۔ مشترکہ نظام شرکت کو پورا شدہ نہیں مان سکتے جب بنیادی بہبود کی شرائط — بشمول [بامعنی فاعلیت](../../core_05_band_participation.md#meaningful-agency)، منصفانہ رسائی، اور وقار — مادی طور پر بگڑ چکی ہوں۔
+بہبود [آئینی چوکڑی](../../core_00_preamble.md#constitutional-tetrad) کے تحت [شرکت](core_05_apex_participation_leg.md#participation-constitutional) کی بنیاد ہے۔ مشترکہ نظام شرکت کو پورا شدہ نہیں مان سکتے جب بنیادی بہبود کی شرائط — بشمول [بامعنی فاعلیت](../../core_05_band_participation.md#meaningful-agency)، منصفانہ رسائی، اور وقار — مادی طور پر بگڑ چکی ہوں۔
 
 بہبود میں صرف فوری اثرات نہیں بلکہ بالواسطہ، تاخیری، جمع شدہ، اور بین نظامی نتائج بھی شامل ہیں، جنہیں [**باب دوم تا چہارم**](core_02_definition_structure.md) کے تحت جانچا جاتا ہے۔ اس قدر کی تہہ پر بہبود:
 - حقیقی شرکت ممکن بناتی ہے — ایسی آواز جسے استعمال کرنے کی شرائط شعوری وجودوں کے پاس نہ ہوں، بامعنی شرکت نہیں
@@ -101,7 +101,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - ساتھ پڑھیں: [آئینی چوکڑی](../../core_00_preamble.md#constitutional-tetrad) — **شرکت** ٹانگ (رسائی، آواز، اور چیلنج پذیری؛ عمومی تقاضا، صرف [متاثر فریقوں کی نظامی شرکت](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) نہیں)؛ **جوابدہی** ٹانگ جہاں فائدے اور بوجھ لگتے ہیں۔
-- بالائی: اصول: [§2 بنیادی مقصد: بہبود](#2-foundational-objective-wellbeing) — بشمول بہبود بطور [شرکت](../../core_05_apex_participation_leg.md#participation-constitutional) کی بنیاد۔
+- بالائی: اصول: [§2 بنیادی مقصد: بہبود](#2-foundational-objective-wellbeing) — بشمول بہبود بطور [شرکت](core_05_apex_participation_leg.md#participation-constitutional) کی بنیاد۔
 - زیریں: [2.2 پہچان، تقویت اور آرزو](#22-recognition-reinforcement-and-aspiration)؛ [4. اعتماد](#4-system-stability-enabler-trust-coordination-integrity)، [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)، [6. عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)، اور [§6.1 فیصلہ ریکارڈ کی ضبط](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) جہاں فوقیت اور تقسیم کے انتخاب مربوط اور جائزے کے قابل رہنے چاہییں۔
 - ذیلی حصے (پڑھنے کی ترتیب): [§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment)۔
 - زیریں: برابر اخلاقی مقام، غیر من مانی سلوک، بامعنی چیلنج، اور متناسب پابندی کی حدوں کے لیے حقوق کی سطح کو شکل دیتا ہے۔
@@ -117,7 +117,7 @@
 
 - [وقار اور برابر اخلاقی مقام](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [رسائی پذیری](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
-- [شرکت](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [شرکت](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [طریقہ کار کا انصاف](../../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [حقیقی انصاف](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [محفوظ خصوصیات](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
@@ -133,7 +133,7 @@
 
 **انصاف** اس کا حصہ ہے جو [§2](#2-foundational-objective-wellbeing) مانگتا ہے جب بھی شعوری وجودوں کو مشترکہ نظاموں کے ذریعے جینا، کام کرنا، سیکھنا، تجارت کرنا یا فیصلے کرنے ہوں۔ جہاں مشترکہ نظام شعوری وجودوں کو مادی طور پر متاثر کریں، انصاف پوچھتا ہے کہ موقع، سلوک، اور فائدوں و بوجھ کی تقسیم [وقار اور برابر اخلاقی مقام](../../core_05_band_participation.md#dignity-and-equal-moral-standing) کا احترام کرتی ہے یا نہیں۔
 
-انصاف [شرکت](../../core_05_apex_participation_leg.md#participation-constitutional) کو حقیقی بنانے میں مدد دیتا ہے۔ شرکت حقیقی نہیں جب شعوری وجودوں کے پاس کاغذ پر آواز ہو مگر وہ عمل تک پہنچ نہ سکیں، قاعدہ سمجھ نہ سکیں، شرائط پوری نہ کر سکیں، نتیجے کو چیلنج نہ کر سکیں، یا ان پر پڑا بوجھ برداشت نہ کر سکیں۔
+انصاف [شرکت](core_05_apex_participation_leg.md#participation-constitutional) کو حقیقی بنانے میں مدد دیتا ہے۔ شرکت حقیقی نہیں جب شعوری وجودوں کے پاس کاغذ پر آواز ہو مگر وہ عمل تک پہنچ نہ سکیں، قاعدہ سمجھ نہ سکیں، شرائط پوری نہ کر سکیں، نتیجے کو چیلنج نہ کر سکیں، یا ان پر پڑا بوجھ برداشت نہ کر سکیں۔
 
 نظام کے لیے اچھا اوسط نتیجہ دکھانا کافی نہیں۔ ایک سرخی پیمائش، اوسط، درجہ بندی، یا کارآمدگی کا دعویٰ خود انصاف ثابت نہیں کرتا۔ نظام مجموعی طور پر کامیاب دکھ سکتا ہے اور پھر بھی ان شعوری وجودوں کے ساتھ انصاف سے محروم رہ سکتا ہے جنہیں باہر رکھا گیا، غلط درجہ بند کیا گیا، کم ادا کیا گیا، زیادہ بوجھ دیا گیا، یا اعتراض کا بامعنی موقع نہیں دیا گیا۔
 
@@ -142,7 +142,7 @@
 <a id="211-access-and-opportunity"></a>
 ##### 2.1.1 رسائی اور موقع
 
-- شعوری وجودوں کو [شرکت](../../core_05_apex_participation_leg.md#participation-constitutional)، تعلیم، کام، دیکھ بھال، حفاظت، نقل و حرکت، اور عام زندگی کے دیگر سامان تک عملی راستے چاہییں۔
+- شعوری وجودوں کو [شرکت](core_05_apex_participation_leg.md#participation-constitutional)، تعلیم، کام، دیکھ بھال، حفاظت، نقل و حرکت، اور عام زندگی کے دیگر سامان تک عملی راستے چاہییں۔
 - وہ راستے من مانی یا غیر متعلقہ وجوہات سے بند، قیمت سے باہر، تاخیری، چھپے، یا ترچھے نہیں ہونے چاہییں۔
 - کاغذ پر کھلا دروازہ کافی نہیں جہاں یہ آئین **حقیقی** موقع مانگے۔
 
@@ -161,7 +161,7 @@
 - تفصیلی قواعد باب پنجم سے چلتے ہیں، بشمول [محفوظ خصوصیات](../../core_05_band_participation.md#protected-characteristics-constitutional) اور [محفوظ خصوصیات کا متبادل استعمال اور غیر متناسب اثر](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)۔
 - جب فیصلہ کسی کو سنگین طور پر متاثر کرے، یا جب وہ اسے چیلنج کرے، جائزے کا راستہ [طریقہ کار کا انصاف](../../core_05_band_participation.md#procedural-fairness-constitutional) پورا کرے جہاں باب ششم یا حکمران دستاویز اطلاع، سماعت، وضاحت، یا جائزہ مانگے۔
 
-دعویٰ کردہ بہبود [§2](#2-foundational-objective-wellbeing) سے ہم آہنگ نہیں اگر وہ من مانی اخراج، بغیر وضاحت یا غیر مستحکم قواعد، چھپی نکاسی، یا رسمی [شرکت](../../core_05_apex_participation_leg.md#participation-constitutional) پر منحصر ہو جبکہ وہ انصاف کی شرائط ناکام ہو چکی ہوں جو شرکت کو معنی دیتی ہیں۔
+دعویٰ کردہ بہبود [§2](#2-foundational-objective-wellbeing) سے ہم آہنگ نہیں اگر وہ من مانی اخراج، بغیر وضاحت یا غیر مستحکم قواعد، چھپی نکاسی، یا رسمی [شرکت](core_05_apex_participation_leg.md#participation-constitutional) پر منحصر ہو جبکہ وہ انصاف کی شرائط ناکام ہو چکی ہوں جو شرکت کو معنی دیتی ہیں۔
 
 <a id="214-unfair-treatment"></a>
 ##### 2.1.4 غیر منصفانہ سلوک
@@ -181,7 +181,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - ساتھ پڑھیں: [آئینی چوکڑی](../../core_00_preamble.md#constitutional-tetrad) — **شرکت** ٹانگ جہاں نامزد پہچان، تعریف، یا آرزو کے راستے آواز، حیثیت، یا نتیجہ خیز کرداروں تک رسائی کو مادی طور پر متاثر کریں؛ **جوابدہی** ٹانگ (خیانت، چھپانا، اور جوابدہی سے فرار کا انعام ممنوع)؛ **نگرانی** ٹانگ (سراغ لگانے کے قابل، گمراہ نہ کرنے والی تعریف)۔
-- بالائی: اصول: [§2 بنیادی مقصد: بہبود](#2-foundational-objective-wellbeing) — بشمول بہبود بطور [شرکت](../../core_05_apex_participation_leg.md#participation-constitutional) کی بنیاد؛ [§2.1 انصاف](#21-fairness)۔
+- بالائی: اصول: [§2 بنیادی مقصد: بہبود](#2-foundational-objective-wellbeing) — بشمول بہبود بطور [شرکت](core_05_apex_participation_leg.md#participation-constitutional) کی بنیاد؛ [§2.1 انصاف](#21-fairness)۔
 - زیریں: [4. اعتماد](#4-system-stability-enabler-trust-coordination-integrity)؛ [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)؛ [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)؛ [§5 آزادی](#5-freedom-bounded-agency)۔
 - ساتھ پڑھیں: [باب ہشتم §§4.3–4.4 — معیاری وضاحتی فہرست](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles) جہاں **دائرے سے میل کھاتی** پہچان یا تقابلی **حصہ محور / خلاف ورزی محور** وضاحتی بیانیے مادی ہوں۔
 - ساتھ پڑھیں: [باب ہشتم §4.3 — حصے کی طرف وضاحتیں](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles) جہاں حصے کی نوعیت اور پہچان کے بیانیے مادی ہوں؛ [باب نہم §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization) ان کے سوال 3 میں انضمام کے لیے۔
@@ -194,7 +194,7 @@
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · اطاعت</span></strong></summary>
 
 - [بہبود](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [شرکت](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [شرکت](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [حقیقی انصاف](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [چیلنج پذیری](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [بامعنی فاعلیت](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
@@ -206,7 +206,7 @@
 
 *سادہ الفاظ میں: بہبود صرف منع شدہ بات اور انصاف نہیں — مشترکہ نظاموں کو اس رویے کی ایمانداری سے تعریف اور انعام بھی دینا چاہیے جسے وہ دہرایا ہوا دیکھنا چاہتے ہیں، سچائی اور حقوق کے اندر، ایسے طریقوں سے جو حقیقی شرکت کو سہارا دیں نہ کہ اس کی جگہ لیں۔ کامیابی کا جشن حقیقی حصہ، مرمت اور تکمیل کو تسلیم کرنا ہے، ہائپ یا ہیرے ہوئے اعداد نہیں۔ اس کا مطلب یہ بھی ہے کہ آئینی خیانت، چھپانا، انتقامی کارروائی، یا جوابدہی سے فرار کا انعام نہ دیا جائے — چاہے ان اعمال نے ادارہ جاتی فائدہ پیدا کیا ہو۔*
 
-**تین جہتیں۔** بہبود اس پر منحصر ہے کہ نظام کیا منع کرتے ہیں اور لاگت کتنی منصفانہ بانٹتے ہیں — اور اس پر بھی کہ وہ کیا کھلے طور پر قدر کرتے، تقویت دیتے، اور شعوری وجودوں کو پانے میں مدد دیتے ہیں۔ یہ قطعہ وہ پہچان، تقویت اور آرزو کے فرائض بیان کرتا ہے۔ پہچان اور تعریف جو آواز، حیثیت، یا رسائی کو مادی طور پر متاثر کرے [§2](#2-foundational-objective-wellbeing) اور [§2.1 انصاف](#21-fairness) کے تحت [شرکت](../../core_05_apex_participation_leg.md#participation-constitutional) سے میل کھانی چاہیے۔ یہ [§2.1 انصاف](#21-fairness) کے ساتھ لاگو ہوتا ہے اور حفاظت، سچائی، اور باب ششم حقوق کی تہہ سے بندھا رہتا ہے۔
+**تین جہتیں۔** بہبود اس پر منحصر ہے کہ نظام کیا منع کرتے ہیں اور لاگت کتنی منصفانہ بانٹتے ہیں — اور اس پر بھی کہ وہ کیا کھلے طور پر قدر کرتے، تقویت دیتے، اور شعوری وجودوں کو پانے میں مدد دیتے ہیں۔ یہ قطعہ وہ پہچان، تقویت اور آرزو کے فرائض بیان کرتا ہے۔ پہچان اور تعریف جو آواز، حیثیت، یا رسائی کو مادی طور پر متاثر کرے [§2](#2-foundational-objective-wellbeing) اور [§2.1 انصاف](#21-fairness) کے تحت [شرکت](core_05_apex_participation_leg.md#participation-constitutional) سے میل کھانی چاہیے۔ یہ [§2.1 انصاف](#21-fairness) کے ساتھ لاگو ہوتا ہے اور حفاظت، سچائی، اور باب ششم حقوق کی تہہ سے بندھا رہتا ہے۔
 
 <a id="221-recognition-and-reinforcement"></a>
 ##### 2.2.1 پہچان اور تقویت
@@ -248,7 +248,7 @@
 <a id="225-aligned-recognition-pathways"></a>
 ##### 2.2.5 ہم آہنگ پہچان کے راستے
 
-نامزد پہچان کے راستے، تعریف، انعام، تصدیق، کیفیت، شہرت کے اثرات، یا ملتے جلتے محرکات جو **حیثیت**، **وسائل**، یا **مادی رسائی** بانٹیں سچائی، حفاظت، چیلنج کے قابل طریقے جہاں **باب ششم** اسے تفویض کرے، [شرکت](../../core_05_apex_participation_leg.md#participation-constitutional)، اور [محرکات کی ہم آہنگی](../../core_05_band_integrative.md#incentive-alignment) سے میل کھانے چاہییں۔
+نامزد پہچان کے راستے، تعریف، انعام، تصدیق، کیفیت، شہرت کے اثرات، یا ملتے جلتے محرکات جو **حیثیت**، **وسائل**، یا **مادی رسائی** بانٹیں سچائی، حفاظت، چیلنج کے قابل طریقے جہاں **باب ششم** اسے تفویض کرے، [شرکت](core_05_apex_participation_leg.md#participation-constitutional)، اور [محرکات کی ہم آہنگی](../../core_05_band_integrative.md#incentive-alignment) سے میل کھانے چاہییں۔
 
 انہیں **نظامی طور پر** نقصان، دھوکا، جانچ سے فرار، نکاسی، یا بامعنی فاعلیت کی کمی کا انعام نہیں دینا چاہیے۔
 
@@ -446,7 +446,7 @@
 
 *سادہ الفاظ میں: قواعد، فیصلے اور اطلاعات جو شعوری وجودوں کو پابند کریں اس طرح لکھے جانے چاہییں کہ شعوری وجود واقعی پڑھ، سمجھ اور ان پر عمل کر سکیں — اور اصطلاحات، تہ دار پیچیدگی، یا عمل کی دھند چیلنج پذیری، فاعلیت، یا آڈٹ کو ہرانے کے لیے نہیں استعمال ہو سکتیں۔*
 
-**سادہ زبان کی رسائی پذیری کا فرض** آئینی، حکمرانی، فیصلہ جاتی، اور عملی متن پر لاگو ہوتا ہے جو شعوری وجودوں کو پابند کرے۔ وہی فرض لاگو ہوتا ہے جب شعوری وجودوں کو حقوق استعمال کرنے، حکمرانی میں حصہ لینے، فیصلے چیلنج کرنے، یا اطاعت جانچنے کے لیے اس متن سے واسطہ پڑے۔ یہ [شرکت](../../core_05_apex_participation_leg.md#participation-constitutional) کا تقاضا ہے: جو شعوری وجود ان قواعد کو سمجھ نہیں سکتے جو انہیں پابند کرتے، ان نظاموں میں بامعنی طور پر حصہ نہیں لے سکتے جن پر وہ قواعد حکمرانی کرتے ہیں۔
+**سادہ زبان کی رسائی پذیری کا فرض** آئینی، حکمرانی، فیصلہ جاتی، اور عملی متن پر لاگو ہوتا ہے جو شعوری وجودوں کو پابند کرے۔ وہی فرض لاگو ہوتا ہے جب شعوری وجودوں کو حقوق استعمال کرنے، حکمرانی میں حصہ لینے، فیصلے چیلنج کرنے، یا اطاعت جانچنے کے لیے اس متن سے واسطہ پڑے۔ یہ [شرکت](core_05_apex_participation_leg.md#participation-constitutional) کا تقاضا ہے: جو شعوری وجود ان قواعد کو سمجھ نہیں سکتے جو انہیں پابند کرتے، ان نظاموں میں بامعنی طور پر حصہ نہیں لے سکتے جن پر وہ قواعد حکمرانی کرتے ہیں۔
 
 <a id="341-scope"></a>
 ##### 3.4.1 دائرہ

@@ -74,7 +74,7 @@
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
 - [福祉](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [参加](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [参加](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [尊厳と平等な道徳的地位](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [実質的公正](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [実質性](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
@@ -88,7 +88,7 @@
 
 この憲法のもとで統治されるすべてのシステムの究極の目標は、感知者の[福祉](../../core_05_band_continuity.md#wellbeing)を保全し、進めることである — [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)のもとでの[**繁栄**](#flourishing)目的。
 
-福祉は、[憲法四元](core_00_preamble.md#constitutional-tetrad)のもとでの[参加](../../core_05_apex_participation_leg.md#participation-constitutional)の基礎である。共有システムは、根底の福祉条件 — [意味ある行為主体性](../../core_05_band_participation.md#meaningful-agency)、公正な通路、尊厳を含む — が実質的に損なわれているときに、参加が満たされたとして扱ってはならない。
+福祉は、[憲法四元](core_00_preamble.md#constitutional-tetrad)のもとでの[参加](core_05_apex_participation_leg.md#participation-constitutional)の基礎である。共有システムは、根底の福祉条件 — [意味ある行為主体性](../../core_05_band_participation.md#meaningful-agency)、公正な通路、尊厳を含む — が実質的に損なわれているときに、参加が満たされたとして扱ってはならない。
 
 福祉は、直接の効果だけでなく、間接、遅延、累積、システム横断の帰結も含み、[**第二から第四章**](core_02_definition_structure.md)のもとで評価される。この価値層では、福祉は：
 - 実際の参加を可能にする — 感知者が使う条件を欠く声は、意味ある参加ではない
@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — **参加**脚（通路、声、争訟可能性。一般要件であり、[影響を受ける側のシステム参加](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)だけではない）；便益と負担が付着するところでは**説明責任**脚。
-- 上流：原則：[§2 基礎目標：福祉](#2-foundational-objective-wellbeing) — 福祉が[参加](../../core_05_apex_participation_leg.md#participation-constitutional)の基礎であることを含む。
+- 上流：原則：[§2 基礎目標：福祉](#2-foundational-objective-wellbeing) — 福祉が[参加](core_05_apex_participation_leg.md#participation-constitutional)の基礎であることを含む。
 - 下流：[2.2 承認、強化、志向](#22-recognition-reinforcement-and-aspiration)；[4. 信頼](#4-system-stability-enabler-trust-coordination-integrity)、[§9 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[6. 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)、優先と配分の選択が連関し審査可能なままでなければならないところでは [§6.1 決定記録の規律](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)。
 - 分節（読み順）：[§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment)。
 - 下流：平等な地位、恣意的でない取扱い、意味ある異議、比例的制限の限度についての権利面を形づくる。
@@ -118,7 +118,7 @@
 
 - [尊厳と平等な道徳的地位](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [アクセス可能性](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
-- [参加](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [参加](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [手続的公正](../../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [実質的公正](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [保護特性](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
@@ -134,7 +134,7 @@
 
 **公正**は、感知者が共有システムを通じて暮らし、働き、学び、取引し、または決定しなければならないときに、[§2](#2-foundational-objective-wellbeing)が求めるものの一部である。共有システムが感知者に実質的に影響するところでは、公正は、機会、取扱い、便益と負担の分け方が[尊厳と平等な道徳的地位](../../core_05_band_participation.md#dignity-and-equal-moral-standing)を尊重するかを問う。
 
-公正は、[参加](../../core_05_apex_participation_leg.md#participation-constitutional)を本物にする助けになる。感知者が技術的には声を持っていても、過程にたどり着けず、規則を理解できず、条件を満たせず、結果に異議を申し立てられず、課された負担を担えないときは、参加は本物ではない。
+公正は、[参加](core_05_apex_participation_leg.md#participation-constitutional)を本物にする助けになる。感知者が技術的には声を持っていても、過程にたどり着けず、規則を理解できず、条件を満たせず、結果に異議を申し立てられず、課された負担を担えないときは、参加は本物ではない。
 
 システムが良い平均結果を示すだけでは足りない。一つの見出し指標、平均、順位、効率の主張は、それ自体では公正を証明しない。システムは集計では成功して見えても、排除され、誤分類され、過少に支払われ、過重に負担され、意味ある異議の機会を拒まれた感知者に対してはなお不公正でありうる。
 
@@ -143,7 +143,7 @@
 <a id="211-access-and-opportunity"></a>
 ##### 2.1.1 通路と機会
 
-- 感知者は、[参加](../../core_05_apex_participation_leg.md#participation-constitutional)、教育、労働、ケア、安全、移動、その他普通の暮らしに関わる財への、実務的な道を必要とする。
+- 感知者は、[参加](core_05_apex_participation_leg.md#participation-constitutional)、教育、労働、ケア、安全、移動、その他普通の暮らしに関わる財への、実務的な道を必要とする。
 - それらの道は、恣意的または無関係な理由で塞がれ、値付けで締め出し、遅らせ、隠し、傾けられてはならない。
 - この憲法が**実質的**機会を求めるところでは、紙の上だけで開いている扉では足りない。
 
@@ -162,7 +162,7 @@
 - 詳細規則は第五章を通じて運ばれる。[保護特性](../../core_05_band_participation.md#protected-characteristics-constitutional)と[保護特性の代理と不均衡な影響](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)を含む。
 - 決定が誰かに深刻に影響するとき、または異議が申し立てられるとき、審査経路は、第六章または統括文書が通知、聴聞、説明、審査を求めるところでは、[手続的公正](../../core_05_band_participation.md#procedural-fairness-constitutional)を満たさなければならない。
 
-主張される福祉は、恣意的排除、説明されないまたは不安定な規則、隠れた抽出、または参加を意味あるものにする公正条件が失敗したままの形式的[参加](../../core_05_apex_participation_leg.md#participation-constitutional)に依存するなら、[§2](#2-foundational-objective-wellbeing)と整合しない。
+主張される福祉は、恣意的排除、説明されないまたは不安定な規則、隠れた抽出、または参加を意味あるものにする公正条件が失敗したままの形式的[参加](core_05_apex_participation_leg.md#participation-constitutional)に依存するなら、[§2](#2-foundational-objective-wellbeing)と整合しない。
 
 <a id="214-unfair-treatment"></a>
 ##### 2.1.4 不公正な取扱い
@@ -182,7 +182,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — 指名された承認、称賛、志向の経路が声、地位、結果の伴う役割への通路に実質的に影響するところでは**参加**脚。**説明責任**脚（裏切り、隠蔽、説明責任回避に対する反報酬）。**監督**脚（たどれて、誤導しない称賛）。
-- 上流：原則：[§2 基礎目標：福祉](#2-foundational-objective-wellbeing) — 福祉が[参加](../../core_05_apex_participation_leg.md#participation-constitutional)の基礎であることを含む。[§2.1 公正](#21-fairness)。
+- 上流：原則：[§2 基礎目標：福祉](#2-foundational-objective-wellbeing) — 福祉が[参加](core_05_apex_participation_leg.md#participation-constitutional)の基礎であることを含む。[§2.1 公正](#21-fairness)。
 - 下流：[4. 信頼](#4-system-stability-enabler-trust-coordination-integrity)；[§9 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)；[§10 責務ある管理の規律のもとでの統治](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)；[§5 自由](#5-freedom-bounded-agency)。
 - あわせて読む：**領域整合**の承認または比較的な**貢献軸 / 違反軸**記述物語が実質的であるところでは、[第八章 §§4.3–4.4 — 正規化記述子カタログ](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles)。
 - あわせて読む：貢献の性質と承認物語が実質的であるところでは [第八章 §4.3 — 貢献側記述子](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles)。問い 3 への統合については [第九章 §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization)。
@@ -195,7 +195,7 @@
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
 - [福祉](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [参加](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [参加](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [実質的公正](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [争訟可能性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [意味ある行為主体性](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
@@ -207,7 +207,7 @@
 
 *平たい言葉で言えば：福祉は、禁じられるものと公正さだけではない — 共有システムは、繰り返してほしい行為を、真理と権利の内側で、実際の参加を支える仕方で正直に応援し、報いるべきであり、その代わりにしてはならない。勝利を祝うことは、誇張や操作された指標ではなく、実際の貢献、修復、完了を認めることである。憲法上の裏切り、隠蔽、報復、説明責任回避を — それらが制度的利得を生んだときでも — 報いることを拒むことでもある。*
 
-**三つの次元。** 福祉は、システムが何を禁じ、費用をどれほど公正に分けるかに依存する — また、何を可視的に重んじ、強化し、感知者が追求するのを助けるかにも依存する。本節はそれらの承認、強化、志向の義務を述べる。声、地位、通路に実質的に影響する承認と称賛は、[§2](#2-foundational-objective-wellbeing)と[§2.1 公正](#21-fairness)のもとでの[参加](../../core_05_apex_participation_leg.md#participation-constitutional)と整合したままでなければならない。それは[§2.1 公正](#21-fairness)ととも適用され、安全、真理、第六章の権利の床によって有界である。
+**三つの次元。** 福祉は、システムが何を禁じ、費用をどれほど公正に分けるかに依存する — また、何を可視的に重んじ、強化し、感知者が追求するのを助けるかにも依存する。本節はそれらの承認、強化、志向の義務を述べる。声、地位、通路に実質的に影響する承認と称賛は、[§2](#2-foundational-objective-wellbeing)と[§2.1 公正](#21-fairness)のもとでの[参加](core_05_apex_participation_leg.md#participation-constitutional)と整合したままでなければならない。それは[§2.1 公正](#21-fairness)ととも適用され、安全、真理、第六章の権利の床によって有界である。
 
 <a id="221-recognition-and-reinforcement"></a>
 ##### 2.2.1 承認と強化
@@ -249,7 +249,7 @@
 <a id="225-aligned-recognition-pathways"></a>
 ##### 2.2.5 整合した承認経路
 
-指名された承認経路、称賛、賞、認証、軌跡、評判効果、または**地位**、**資源**、**実質的通路**を配分する比較可能な誘因は、真理、安全、**第六章**がそれを割り当てるところでの争訟可能な手続、[参加](../../core_05_apex_participation_leg.md#participation-constitutional)、[誘因整合](../../core_05_band_integrative.md#incentive-alignment)と整合したままでなければならない。
+指名された承認経路、称賛、賞、認証、軌跡、評判効果、または**地位**、**資源**、**実質的通路**を配分する比較可能な誘因は、真理、安全、**第六章**がそれを割り当てるところでの争訟可能な手続、[参加](core_05_apex_participation_leg.md#participation-constitutional)、[誘因整合](../../core_05_band_integrative.md#incentive-alignment)と整合したままでなければならない。
 
 それらは、危害、欺瞞、審査回避、抽出、意味ある行為主体性の侵食を、系統的に報いては**ならない**。
 
@@ -447,7 +447,7 @@
 
 *平たい言葉で言えば：感知者を縛る規則、決定、通知は、感知者が実際に読み、理解し、それに基づいて行為できるように書かれなければならない — 専門用語、積み重ねた複雑さ、手続の不透明さを、争訟可能性、行為主体性、監査を打ち負かすために用いてはならない。*
 
-**平たい言葉のアクセス可能性の義務**は、感知者を縛る憲法、統治、裁定、運用の本文に適用される。感知者が権利を行使し、統治に参加し、決定に異議を申し立て、または遵守を検証するためにその本文に関わらなければならないときにも、同じ義務が適用される。これは[参加](../../core_05_apex_participation_leg.md#participation-constitutional)の要件である。自分を縛る規則を理解できない感知者は、それらの規則が統治するシステムに意味ある仕方で参加できない。
+**平たい言葉のアクセス可能性の義務**は、感知者を縛る憲法、統治、裁定、運用の本文に適用される。感知者が権利を行使し、統治に参加し、決定に異議を申し立て、または遵守を検証するためにその本文に関わらなければならないときにも、同じ義務が適用される。これは[参加](core_05_apex_participation_leg.md#participation-constitutional)の要件である。自分を縛る規則を理解できない感知者は、それらの規則が統治するシステムに意味ある仕方で参加できない。
 
 <a id="341-scope"></a>
 ##### 3.4.1 範囲

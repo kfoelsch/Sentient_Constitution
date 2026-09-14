@@ -12,7 +12,7 @@
 >
 > **Trước (ngôn ngữ này):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 >
-> **Tiếp theo (vẫn tiếng Anh):** [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md)
+> **Tiếp theo (ngôn ngữ này):** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
 > **Cung đọc:** O/M/A/C → phân rã trụ → gia đình đo lường.
 
 </details>
@@ -126,6 +126,6 @@ Các yêu cầu ràng buộc về độ tin cậy, kiểm toán, hoặc rà soá
 
 **Tệp trước:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
-**Tệp tiếp theo (vẫn tiếng Anh):** [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md)
+**Tệp tiếp theo (ngôn ngữ này):** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
 
 **Nguyên bản ràng buộc:** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)

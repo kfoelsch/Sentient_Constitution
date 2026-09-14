@@ -74,7 +74,7 @@ Không nguyên tắc đơn lẻ nào được áp dụng tách rời nơi làm v
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - [Phúc lợi](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [Tham gia](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [Tham gia](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [Phẩm giá và địa vị đạo đức bình đẳng](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [Công bằng nội dung](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [Tính trọng yếu](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
@@ -88,7 +88,7 @@ Không nguyên tắc đơn lẻ nào được áp dụng tách rời nơi làm v
 
 Mục tiêu tối hậu của mọi hệ thống được quản trị dưới Hiến pháp này là giữ và tiến [phúc lợi](../../core_05_band_continuity.md#wellbeing) hữu tri — mục tiêu [**Hưng thịnh**](#flourishing) dưới [Hai Mục tiêu Hiến pháp](../../core_00_preamble.md#two-constitutional-aims).
 
-Phúc lợi là nền cho [Tham gia](../../core_05_apex_participation_leg.md#participation-constitutional) dưới [Tứ diện Hiến pháp](../../core_00_preamble.md#constitutional-tetrad). Hệ thống chung không được coi tham gia đã thỏa khi các điều kiện phúc lợi nền — kể cả [Quyền năng có ý nghĩa](../../core_05_band_participation.md#meaningful-agency), lối vào công bằng, và phẩm giá — bị suy giảm vật chất.
+Phúc lợi là nền cho [Tham gia](core_05_apex_participation_leg.md#participation-constitutional) dưới [Tứ diện Hiến pháp](../../core_00_preamble.md#constitutional-tetrad). Hệ thống chung không được coi tham gia đã thỏa khi các điều kiện phúc lợi nền — kể cả [Quyền năng có ý nghĩa](../../core_05_band_participation.md#meaningful-agency), lối vào công bằng, và phẩm giá — bị suy giảm vật chất.
 
 Phúc lợi gồm không chỉ hiệu ứng tức thì mà cả hệ quả gián tiếp, trì hoãn, cộng dồn, và xuyên hệ thống, được đánh giá dưới [**Chương Hai đến Bốn**](core_02_definition_structure.md). Ở tầng giá trị này, phúc lợi:
 - làm tham gia thực thành có thể — tiếng nói mà các hữu tri thiếu điều kiện để dùng không phải tham gia có ý nghĩa
@@ -102,7 +102,7 @@ Phúc lợi gồm không chỉ hiệu ứng tức thì mà cả hệ quả gián
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Đọc cùng: [Tứ diện Hiến pháp](../../core_00_preamble.md#constitutional-tetrad) — trụ **tham gia** (lối vào, tiếng nói, và khả năng tranh biện; yêu cầu chung, không chỉ [Tham gia hệ thống của bên bị ảnh hưởng](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)); trụ **trách nhiệm giải trình** nơi lợi và gánh gắn.
-- Thượng nguồn: Nguyên tắc: [§2 Mục tiêu nền tảng: phúc lợi](#2-foundational-objective-wellbeing) — kể cả phúc lợi như nền cho [Tham gia](../../core_05_apex_participation_leg.md#participation-constitutional).
+- Thượng nguồn: Nguyên tắc: [§2 Mục tiêu nền tảng: phúc lợi](#2-foundational-objective-wellbeing) — kể cả phúc lợi như nền cho [Tham gia](core_05_apex_participation_leg.md#participation-constitutional).
 - Hạ nguồn: [2.2 Ghi nhận, củng cố, và khát vọng](#22-recognition-reinforcement-and-aspiration); [4. Tin cậy](#4-system-stability-enabler-trust-coordination-integrity), [§9 Quản trị có trách nhiệm và hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. Giải quyết xung đột quy trình](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), và [kỷ luật hồ sơ quyết định §6.1](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) nơi lựa chọn thứ tự và phân bổ phải vẫn mạch lạc và rà soát được.
 - Các tiểu mục (thứ tự đọc): [§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment).
 - Hạ nguồn: Định hình bề mặt quyền cho địa vị bình đẳng, đối xử không tùy tiện, tranh biện có ý nghĩa, và giới hạn hạn chế tương xứng.
@@ -118,7 +118,7 @@ Phúc lợi gồm không chỉ hiệu ứng tức thì mà cả hệ quả gián
 
 - [Phẩm giá và địa vị đạo đức bình đẳng](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [Khả năng tiếp cận](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
-- [Tham gia](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [Tham gia](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [Công bằng thủ tục](../../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [Công bằng nội dung](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [Đặc điểm được bảo vệ](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
@@ -134,7 +134,7 @@ Phúc lợi gồm không chỉ hiệu ứng tức thì mà cả hệ quả gián
 
 **Công bằng** là một phần của điều [§2](#2-foundational-objective-wellbeing) đòi mỗi khi các hữu tri phải sống, làm việc, học, trao đổi, hoặc quyết định qua hệ thống chung. Nơi hệ thống chung tác động vật chất tới các hữu tri, công bằng hỏi liệu cơ hội, đối xử, và việc chia lợi và gánh có tôn [Phẩm giá và địa vị đạo đức bình đẳng](../../core_05_band_participation.md#dignity-and-equal-moral-standing).
 
-Công bằng giúp làm [Tham gia](../../core_05_apex_participation_leg.md#participation-constitutional) thành thực. Tham gia không thực khi các hữu tri về kỹ thuật có tiếng nói nhưng không tới được quy trình, hiểu được quy tắc, thỏa điều kiện, tranh biện kết quả, hoặc chịu nổi gánh đặt lên họ.
+Công bằng giúp làm [Tham gia](core_05_apex_participation_leg.md#participation-constitutional) thành thực. Tham gia không thực khi các hữu tri về kỹ thuật có tiếng nói nhưng không tới được quy trình, hiểu được quy tắc, thỏa điều kiện, tranh biện kết quả, hoặc chịu nổi gánh đặt lên họ.
 
 Không đủ để một hệ thống khoe kết quả trung bình tốt. Một chỉ số đầu trang, trung bình, xếp hạng, hay tuyên bố hiệu quả không tự chứng minh công bằng. Một hệ thống có thể trông thành công ở tổng thể mà vẫn bất công với các hữu tri bị loại, phân loại sai, trả thấp, quá tải, hoặc bị từ cơ hội phản đối có ý nghĩa.
 
@@ -143,7 +143,7 @@ Mục này có **ba phần làm việc**. Chúng dẫn mục này nhưng không 
 <a id="211-access-and-opportunity"></a>
 ##### 2.1.1 Lối vào và cơ hội
 
-- Các hữu tri cần đường thực tế tới [Tham gia](../../core_05_apex_participation_leg.md#participation-constitutional), giáo dục, việc làm, chăm sóc, an toàn, di chuyển, và các hàng hóa khác quan trọng với đời thường.
+- Các hữu tri cần đường thực tế tới [Tham gia](core_05_apex_participation_leg.md#participation-constitutional), giáo dục, việc làm, chăm sóc, an toàn, di chuyển, và các hàng hóa khác quan trọng với đời thường.
 - Những đường đó không được bị chặn, định giá ra ngoài tầm, trì hoãn, giấu, hoặc nghiêng vì lý do tùy tiện hoặc không liên quan.
 - Một cửa chỉ mở trên giấy thì không đủ nơi Hiến pháp này đòi cơ hội **nội dung**.
 
@@ -162,7 +162,7 @@ Mục này có **ba phần làm việc**. Chúng dẫn mục này nhưng không 
 - Các quy tắc chi tiết được mang qua Chương Năm, kể cả [Đặc điểm được bảo vệ](../../core_05_band_participation.md#protected-characteristics-constitutional) và [Dùng chỉ số thay đặc điểm được bảo vệ và tác động lệch](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
 - Khi một quyết định tác động nghiêm tới ai đó, hoặc khi họ tranh biện nó, đường rà soát phải thỏa [Công bằng thủ tục](../../core_05_band_participation.md#procedural-fairness-constitutional) mỗi nơi Chương Sáu hoặc văn kiện quản trị đòi thông báo, nghe, giải thích, hoặc rà soát.
 
-Phúc lợi được tuyên không thẳng hàng với [§2](#2-foundational-objective-wellbeing) nếu nó dựa vào loại trừ tùy tiện, quy tắc không giải thích hoặc không ổn định, khai thác ẩn, hoặc [Tham gia](../../core_05_apex_participation_leg.md#participation-constitutional) hình thức trong khi các điều kiện công bằng làm tham gia có ý nghĩa đã thất bại.
+Phúc lợi được tuyên không thẳng hàng với [§2](#2-foundational-objective-wellbeing) nếu nó dựa vào loại trừ tùy tiện, quy tắc không giải thích hoặc không ổn định, khai thác ẩn, hoặc [Tham gia](core_05_apex_participation_leg.md#participation-constitutional) hình thức trong khi các điều kiện công bằng làm tham gia có ý nghĩa đã thất bại.
 
 <a id="214-unfair-treatment"></a>
 ##### 2.1.4 Đối xử bất công
@@ -182,7 +182,7 @@ Bốn phần này cũng nâng đỡ [4. Tin cậy](#4-system-stability-enabler-t
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Đọc cùng: [Tứ diện Hiến pháp](../../core_00_preamble.md#constitutional-tetrad) — trụ **tham gia** nơi đường dẫn ghi nhận, tán dương, hoặc khát vọng được đặt tên tác động vật chất tới tiếng nói, địa vị, hoặc lối vào vai trò có hệ quả; trụ **trách nhiệm giải trình** (chống thưởng cho phản bội, che giấu, và tránh trách nhiệm giải trình); trụ **giám sát** (tán dương truy được, không gây hiểu lầm).
-- Thượng nguồn: Nguyên tắc: [§2 Mục tiêu nền tảng: phúc lợi](#2-foundational-objective-wellbeing) — kể cả phúc lợi như nền cho [Tham gia](../../core_05_apex_participation_leg.md#participation-constitutional); [§2.1 Công bằng](#21-fairness).
+- Thượng nguồn: Nguyên tắc: [§2 Mục tiêu nền tảng: phúc lợi](#2-foundational-objective-wellbeing) — kể cả phúc lợi như nền cho [Tham gia](core_05_apex_participation_leg.md#participation-constitutional); [§2.1 Công bằng](#21-fairness).
 - Hạ nguồn: [4. Tin cậy](#4-system-stability-enabler-trust-coordination-integrity); [§9 Quản trị có trách nhiệm và hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§10 Quản trị dưới kỷ luật quản trị có trách nhiệm](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [§5 Tự do](#5-freedom-bounded-agency).
 - Đọc cùng: [Chương Tám §§4.3–4.4 — Mục lục mô tả đã chuẩn hóa](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles) nơi ghi nhận **thẳng hàng lĩnh vực** hoặc tường thuật mô tả so sánh **Trục Đóng góp / Trục Vi phạm** có trọng.
 - Đọc cùng: [Chương Tám §4.3 — Mô tả phía đóng góp](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles) nơi bản chất đóng góp và tường thuật ghi nhận có trọng; [Chương Chín §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization) cho việc tích hợp chúng vào Câu hỏi 3.
@@ -195,7 +195,7 @@ Bốn phần này cũng nâng đỡ [4. Tin cậy](#4-system-stability-enabler-t
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - [Phúc lợi](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [Tham gia](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [Tham gia](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [Công bằng nội dung](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [Khả năng tranh biện](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [Quyền năng có ý nghĩa](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
@@ -207,7 +207,7 @@ Bốn phần này cũng nâng đỡ [4. Tin cậy](#4-system-stability-enabler-t
 
 *Nói thẳng: phúc lợi không chỉ là điều bị cấm và điều công bằng — hệ thống chung cũng nên thành thật cổ vũ và thưởng hành vi chúng muốn được lặp, trong sự thật và quyền, theo cách nâng đỡ chứ không thay tham gia thực. Ăn mừng thắng nghĩa là ghi công đóng góp, sửa chữa, và hoàn tất thực, không phải thổi phồng hay chỉ số bị thao túng. Nó cũng nghĩa là từ chối thưởng phản bội hiến pháp, che giấu, trả đũa, hoặc tránh trách nhiệm giải trình — dù những hành vi đó tạo lợi thế thể chế.*
 
-**Ba chiều.** Phúc lợi phụ thuộc vào điều hệ thống cấm và cách chúng chia chi phí công bằng — và cũng vào điều chúng nhìn thấy được coi trọng, củng cố, và giúp các hữu tri theo đuổi. Mục này nêu các nghĩa vụ ghi nhận, củng cố, và khát vọng đó. Ghi nhận và tán dương tác động vật chất tới tiếng nói, địa vị, hoặc lối vào phải vẫn nhất quán với [Tham gia](../../core_05_apex_participation_leg.md#participation-constitutional) dưới [§2](#2-foundational-objective-wellbeing) và [§2.1 Công bằng](#21-fairness). Nó áp dụng cùng [§2.1 Công bằng](#21-fairness) và vẫn bị giới hạn bởi An toàn, Sự thật, và Sàn Quyền Chương Sáu.
+**Ba chiều.** Phúc lợi phụ thuộc vào điều hệ thống cấm và cách chúng chia chi phí công bằng — và cũng vào điều chúng nhìn thấy được coi trọng, củng cố, và giúp các hữu tri theo đuổi. Mục này nêu các nghĩa vụ ghi nhận, củng cố, và khát vọng đó. Ghi nhận và tán dương tác động vật chất tới tiếng nói, địa vị, hoặc lối vào phải vẫn nhất quán với [Tham gia](core_05_apex_participation_leg.md#participation-constitutional) dưới [§2](#2-foundational-objective-wellbeing) và [§2.1 Công bằng](#21-fairness). Nó áp dụng cùng [§2.1 Công bằng](#21-fairness) và vẫn bị giới hạn bởi An toàn, Sự thật, và Sàn Quyền Chương Sáu.
 
 <a id="221-recognition-and-reinforcement"></a>
 ##### 2.2.1 Ghi nhận và củng cố
@@ -249,7 +249,7 @@ Ghi nhận nên cảm thấy **có ý nghĩa** với người được tôn và 
 <a id="225-aligned-recognition-pathways"></a>
 ##### 2.2.5 Đường dẫn ghi nhận thẳng hàng
 
-Đường dẫn ghi nhận được đặt tên, tán dương, giải thưởng, chứng nhận, quỹ đạo, hiệu ứng danh tiếng, hoặc khuyến khích tương đương **phân bổ địa vị**, **tài nguyên**, hoặc **lối vào vật chất** phải vẫn nhất quán với Sự thật, An toàn, thủ tục tranh biện được nơi **Chương Sáu** gán nó, [Tham gia](../../core_05_apex_participation_leg.md#participation-constitutional), và [Thẳng hàng khuyến khích](../../core_05_band_integrative.md#incentive-alignment).
+Đường dẫn ghi nhận được đặt tên, tán dương, giải thưởng, chứng nhận, quỹ đạo, hiệu ứng danh tiếng, hoặc khuyến khích tương đương **phân bổ địa vị**, **tài nguyên**, hoặc **lối vào vật chất** phải vẫn nhất quán với Sự thật, An toàn, thủ tục tranh biện được nơi **Chương Sáu** gán nó, [Tham gia](core_05_apex_participation_leg.md#participation-constitutional), và [Thẳng hàng khuyến khích](../../core_05_band_integrative.md#incentive-alignment).
 
 Chúng **không được** có hệ thống thưởng hại, lừa dối, tránh rà soát, khai thác, hoặc bào mòn quyền năng có ý nghĩa.
 
@@ -447,7 +447,7 @@ Giới hạn nhạy an toàn trên công bố, lối vào dữ liệu, công b�
 
 *Nói thẳng: quy tắc, quyết định, và thông báo ràng buộc các hữu tri phải được viết sao cho các hữu tri thực sự đọc, hiểu, và hành được trên chúng — và biệt ngữ, chồng phức tạp, hoặc mờ thủ tục không được dùng để đánh bại khả năng tranh biện, quyền năng, hoặc kiểm toán.*
 
-Một **nghĩa vụ khả năng tiếp cận ngôn ngữ thường** áp dụng cho văn bản hiến pháp, quản trị, phân xử, và vận hành ràng buộc các hữu tri. Cùng nghĩa vụ áp dụng khi các hữu tri phải tiếp xúc văn bản đó để thực hiện quyền, tham gia quản trị, tranh biện quyết định, hoặc xác minh tuân thủ. Đây là yêu cầu [Tham gia](../../core_05_apex_participation_leg.md#participation-constitutional): các hữu tri không hiểu được các quy tắc ràng buộc chúng thì không thể tham gia có ý nghĩa vào các hệ thống những quy tắc đó quản trị.
+Một **nghĩa vụ khả năng tiếp cận ngôn ngữ thường** áp dụng cho văn bản hiến pháp, quản trị, phân xử, và vận hành ràng buộc các hữu tri. Cùng nghĩa vụ áp dụng khi các hữu tri phải tiếp xúc văn bản đó để thực hiện quyền, tham gia quản trị, tranh biện quyết định, hoặc xác minh tuân thủ. Đây là yêu cầu [Tham gia](core_05_apex_participation_leg.md#participation-constitutional): các hữu tri không hiểu được các quy tắc ràng buộc chúng thì không thể tham gia có ý nghĩa vào các hệ thống những quy tắc đó quản trị.
 
 <a id="341-scope"></a>
 ##### 3.4.1 Phạm vi

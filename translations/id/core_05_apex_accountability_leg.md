@@ -22,7 +22,7 @@
 
 - Hulu: [Kompas Bab Lima](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) (kaki pertanggungjawaban; penskalaan [taruhan material](core_00_preamble.md#material-stake)); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims); tujuan primer [Berkembang](core_00_preamble.md#flourishing).
 - Hilir: Prinsip: [§10 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Bab Satu §11.6 Tanggung Jawab Penerus dan Non-Pelarian Struktur-Formal](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Dekomposisi kaki Tetrad](#accountability-tetrad-leg-decomposition); definisi daun pita Pertanggungjawaban di [core_05_band_accountability.md](../../core_05_band_accountability.md).
-- Kaki saudara Tetrad: [Ketepatan waktu](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+- Kaki saudara Tetrad: [Ketepatan waktu](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 - Baca bersama: [klaster Pertanggungjawaban, Dapat Digugat, Adjudikasi dan penyelesaian sengketa, Kegagalan pertanggungjawaban kolektif, dan Keadaan kahar](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Dapat digugat](../../core_05_band_accountability.md#contestability), [Dapat diaudit](../../core_05_band_oversight.md#auditability), [Tindakan yang dapat diatribusi](../../core_05_band_accountability.md#attributable-action-constitutional), [Integritas atribusi](../../core_05_band_accountability.md#attribution-integrity-constitutional), [Bab Satu §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape), [Bab Tiga §2.1.1 Permainan Label Formal dan Representasi](core_03_definition_integrity.md#211-formal-label-and-representation-gaming), dan [Bab Sembilan §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -69,7 +69,7 @@ Definisi daun di bawah kaki ini mewarisi cakupannya kecuali mereka secara tegas 
 - **Def.A3 Keadaan jejak, kontribusi, dan pelanggaran** — [Def.A3 *Keadaan jejak, kontribusi, dan pelanggaran*](../../core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)
 - **Def.A4 Penggunaan kekuatan, paksaan otonom, sistem letal otonom, dan senjata bahaya massal** — [Def.A4 *Penggunaan kekuatan, paksaan otonom, sistem letal otonom, dan senjata bahaya massal*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
-**Kaki saudara Tetrad:** [Ketepatan waktu](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+**Kaki saudara Tetrad:** [Ketepatan waktu](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 
 **Istilah mandiri dan semi-mandiri** hidup di bawah [Pertanggungjawaban: istilah mandiri](../../core_05_band_accountability.md#accountability-independent-terms) dan [Pertanggungjawaban: istilah semi-mandiri](../../core_05_band_accountability.md#accountability-semi-independent-terms).
 

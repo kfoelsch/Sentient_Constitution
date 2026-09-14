@@ -74,7 +74,7 @@
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
 - [நல்வாழ்வு](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [பங்கேற்பு](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [பங்கேற்பு](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [கண்ணியமும் சம ஒழுக்க நிலையும்](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [உள்ளடக்க நியாயம்](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [பொருண்மை](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
@@ -88,7 +88,7 @@
 
 இந்த அரசியலமைப்பின் கீழ் ஆளப்படும் எல்லா அமைப்புகளின் இறுதி நோக்கம் உணர்வுள்ளோர் [நல்வாழ்வை](../../core_05_band_continuity.md#wellbeing) பேணி முன்னேற்றுவதே — [இரண்டு அரசியலமைப்பு நோக்கங்களின்](../../core_00_preamble.md#two-constitutional-aims) கீழ் [**செழிப்பு**](#flourishing) நோக்கம்.
 
-நல்வாழ்வு [அரசியலமைப்பு நான்மத்தின்](../../core_00_preamble.md#constitutional-tetrad) கீழ் [பங்கேற்புக்கு](../../core_05_apex_participation_leg.md#participation-constitutional) அடிப்படை. அடிப்படை நல்வாழ்வு நிலைகள் — [பொருளுள்ள செயல்திறன்](../../core_05_band_participation.md#meaningful-agency), நியாயமான அணுகல், கண்ணியம் உட்பட — பொருள்ரீதியாகச் சீரழிந்திருக்கும்போது பகிர்ந்த அமைப்புகள் பங்கேற்பை நிறைவேறியதாகக் கருதக்கூடாது.
+நல்வாழ்வு [அரசியலமைப்பு நான்மத்தின்](../../core_00_preamble.md#constitutional-tetrad) கீழ் [பங்கேற்புக்கு](core_05_apex_participation_leg.md#participation-constitutional) அடிப்படை. அடிப்படை நல்வாழ்வு நிலைகள் — [பொருளுள்ள செயல்திறன்](../../core_05_band_participation.md#meaningful-agency), நியாயமான அணுகல், கண்ணியம் உட்பட — பொருள்ரீதியாகச் சீரழிந்திருக்கும்போது பகிர்ந்த அமைப்புகள் பங்கேற்பை நிறைவேறியதாகக் கருதக்கூடாது.
 
 நல்வாழ்வு உடனடி விளைவுகளை மட்டும் அல்ல, மறைமுக, தாமதமான, குவியும், குறுக்கு-அமைப்பு விளைவுகளையும் உள்ளடக்குகிறது, [**அத்தியாயங்கள் இரண்டு முதல் நான்கு**](core_02_definition_structure.md) கீழ் மதிப்பிடப்பட்டவை. இந்த மதிப்பு அடுக்கில், நல்வாழ்வு:
 - உண்மையான பங்கேற்பைச் சாத்தியமாக்குகிறது — உணர்வுள்ளோருக்குப் பயன்படுத்த நிலைகள் இல்லாத குரல் பொருளுள்ள பங்கேற்பு அல்ல
@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - இதனுடன் படிக்க: [அரசியலமைப்பு நான்மம்](../../core_00_preamble.md#constitutional-tetrad) — **பங்கேற்பு** கால் (அணுகல், குரல், சவால் செய்யக்கூடிய தன்மை; பொதுத் தேவை, [பாதிக்கப்படுவோரின் அமைப்புப் பங்கேற்பு](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) மட்டும் அல்ல); நன்மைகளும் சுமைகளும் இணையும் இடத்தில் **பொறுப்புக்கூறல்** கால்.
-- மேல்வழி: கோட்பாடுகள்: [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](#2-foundational-objective-wellbeing) — [பங்கேற்புக்கு](../../core_05_apex_participation_leg.md#participation-constitutional) அடிப்படையான நல்வாழ்வு உட்பட.
+- மேல்வழி: கோட்பாடுகள்: [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](#2-foundational-objective-wellbeing) — [பங்கேற்புக்கு](core_05_apex_participation_leg.md#participation-constitutional) அடிப்படையான நல்வாழ்வு உட்பட.
 - கீழ்வழி: [2.2 அங்கீகாரம், வலுப்படுத்தல், ஆசை](#22-recognition-reinforcement-and-aspiration); [4. நம்பிக்கை](#4-system-stability-enabler-trust-coordination-integrity), [§9 பொறுப்பான நிர்வாகமும் பகிர்ந்த புரிதலும்](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. செயல்முறை முரண்பாட்டுத் தீர்வு](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), முன்னுரிமை மற்றும் ஒதுக்கீட்டுத் தேர்வுகள் ஒத்திசைவாகவும் மதிப்பாய்வு செய்யக்கூடியதாகவும் இருக்க வேண்டிய இடத்தில் [§6.1 முடிவு-பதிவுக் கட்டுப்பாடு](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - துணைப்பிரிவுகள் (வாசிப்பு வரிசை): [§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment).
 - கீழ்வழி: சம நிலை, தன்னிச்சையற்ற நடத்துதல், பொருளுள்ள சவால், விகிதாசாரக் கட்டுப்பாட்டு வரம்புகளுக்கான உரிமைப் பரப்பை வடிவமைக்கிறது.
@@ -118,7 +118,7 @@
 
 - [கண்ணியமும் சம ஒழுக்க நிலையும்](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [அணுகத்தக்க தன்மை](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
-- [பங்கேற்பு](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [பங்கேற்பு](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [நடைமுறை நியாயம்](../../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [உள்ளடக்க நியாயம்](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [பாதுகாக்கப்பட்ட பண்புகள்](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
@@ -134,7 +134,7 @@
 
 **நியாயம்** உணர்வுள்ளோர் பகிர்ந்த அமைப்புகள் வழியாக வாழ, வேலை செய்ய, கற்க, வணிகம் செய்ய, அல்லது முடிவு எடுக்க வேண்டியபோதெல்லாம் [§2](#2-foundational-objective-wellbeing) கேட்பதன் பகுதி. பகிர்ந்த அமைப்புகள் உணர்வுள்ளோரைப் பொருள்ரீதியாகப் பாதிக்கும் இடத்தில், நியாயம் வாய்ப்பு, நடத்துதல், நன்மைகள் மற்றும் சுமைகளின் பிரிவு [கண்ணியமும் சம ஒழுக்க நிலையையும்](../../core_05_band_participation.md#dignity-and-equal-moral-standing) மதிக்கிறதா என்று கேட்கிறது.
 
-நியாயம் [பங்கேற்பை](../../core_05_apex_participation_leg.md#participation-constitutional) உண்மையாக்க உதவுகிறது. உணர்வுள்ளோருக்குத் தொழில்நுட்பரீதியாகக் குரல் இருக்கும் ஆனால் நடைமுறையை அடையவோ, விதியைப் புரிந்துகொள்ளவோ, நிபந்தனைகளை நிறைவேற்றவோ, முடிவைச் சவால் செய்யவோ, தங்கள்மீது வைக்கப்பட்ட சுமையைத் தாங்கவோ முடியாதபோது பங்கேற்பு உண்மையல்ல.
+நியாயம் [பங்கேற்பை](core_05_apex_participation_leg.md#participation-constitutional) உண்மையாக்க உதவுகிறது. உணர்வுள்ளோருக்குத் தொழில்நுட்பரீதியாகக் குரல் இருக்கும் ஆனால் நடைமுறையை அடையவோ, விதியைப் புரிந்துகொள்ளவோ, நிபந்தனைகளை நிறைவேற்றவோ, முடிவைச் சவால் செய்யவோ, தங்கள்மீது வைக்கப்பட்ட சுமையைத் தாங்கவோ முடியாதபோது பங்கேற்பு உண்மையல்ல.
 
 ஒரு அமைப்பு நல்ல சராசரி முடிவைக் காட்டுவது போதாது. ஒரு தலைப்பு அளவுகோல், சராசரி, தரவரிசை, அல்லது திறன் கூற்று தனியாக நியாயத்தை நிரூபிக்காது. ஒரு அமைப்பு கூட்டில் வெற்றிகரமாகத் தோன்றலாம் ஆனால் விலக்கப்பட்ட, தவறாக வகைப்படுத்தப்பட்ட, குறைவாக ஊதியம் பெறும், அதிக சுமை சுமத்தப்பட்ட, அல்லது ஆட்சேபிக்க பொருளுள்ள வாய்ப்பு மறுக்கப்பட்ட உணர்வுள்ளோருக்கு இன்னும் நியாயமற்றதாக இருக்கலாம்.
 
@@ -143,7 +143,7 @@
 <a id="211-access-and-opportunity"></a>
 ##### 2.1.1 அணுகலும் வாய்ப்பும்
 
-- உணர்வுள்ளோருக்கு [பங்கேற்பு](../../core_05_apex_participation_leg.md#participation-constitutional), கல்வி, வேலை, பராமரிப்பு, பாதுகாப்பு, இயக்கம், சாதாரண வாழ்க்கைக்கு முக்கியமான பிற நன்மைகளுக்கு நடைமுறைப் பாதைகள் தேவை.
+- உணர்வுள்ளோருக்கு [பங்கேற்பு](core_05_apex_participation_leg.md#participation-constitutional), கல்வி, வேலை, பராமரிப்பு, பாதுகாப்பு, இயக்கம், சாதாரண வாழ்க்கைக்கு முக்கியமான பிற நன்மைகளுக்கு நடைமுறைப் பாதைகள் தேவை.
 - அந்தப் பாதைகள் தன்னிச்சையான அல்லது பொருத்தமற்ற காரணங்களுக்காகத் தடுக்கப்படவோ, விலையால் வெளியேற்றப்படவோ, தாமதப்படுத்தப்படவோ, மறைக்கப்படவோ, சாய்க்கப்படவோ கூடாது.
 - இந்த அரசியலமைப்பு **உள்ளடக்க** வாய்ப்பைக் கேட்கும் இடத்தில் தாளில் மட்டும் திறந்த கதவு போதாது.
 
@@ -162,7 +162,7 @@
 - விரிவான விதிகள் அத்தியாயம் ஐந்து வழியாகக் கொண்டு செல்லப்படுகின்றன, [பாதுகாக்கப்பட்ட பண்புகள்](../../core_05_band_participation.md#protected-characteristics-constitutional) மற்றும் [பாதுகாக்கப்பட்ட பண்புப் பதிலீடும் வேறுபட்ட தாக்கமும்](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) உட்பட.
 - ஒரு முடிவு யாரையாவது தீவிரமாகப் பாதிக்கும்போதோ அவர்கள் அதைச் சவால் செய்யும்போதோ, அத்தியாயம் ஆறோ ஆளும் ஆவணமோ அறிவிப்பு, விசாரணை, விளக்கம், அல்லது மதிப்பாய்வைக் கேட்கும் இடத்தில் மதிப்பாய்வுப் பாதை [நடைமுறை நியாயத்தை](../../core_05_band_participation.md#procedural-fairness-constitutional) நிறைவேற்ற வேண்டும்.
 
-கூறப்பட்ட நல்வாழ்வு தன்னிச்சையான விலக்கு, விளக்கப்படாத அல்லது நிலையற்ற விதிகள், மறைந்த பிரித்தெடுப்பு, அல்லது பங்கேற்பைப் பொருளுள்ளதாக்கும் நியாய நிலைகள் தோல்வியடைந்திருக்கும்போது முறையான [பங்கேற்பை](../../core_05_apex_participation_leg.md#participation-constitutional) சார்ந்திருந்தால் [§2](#2-foundational-objective-wellbeing)-உடன் இணக்கமல்ல.
+கூறப்பட்ட நல்வாழ்வு தன்னிச்சையான விலக்கு, விளக்கப்படாத அல்லது நிலையற்ற விதிகள், மறைந்த பிரித்தெடுப்பு, அல்லது பங்கேற்பைப் பொருளுள்ளதாக்கும் நியாய நிலைகள் தோல்வியடைந்திருக்கும்போது முறையான [பங்கேற்பை](core_05_apex_participation_leg.md#participation-constitutional) சார்ந்திருந்தால் [§2](#2-foundational-objective-wellbeing)-உடன் இணக்கமல்ல.
 
 <a id="214-unfair-treatment"></a>
 ##### 2.1.4 நியாயமற்ற நடத்துதல்
@@ -182,7 +182,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - இதனுடன் படிக்க: [அரசியலமைப்பு நான்மம்](../../core_00_preamble.md#constitutional-tetrad) — பெயரிடப்பட்ட அங்கீகாரம், புகழ், அல்லது ஆசைப் பாதைகள் குரல், நிலை, அல்லது விளைவுள்ள பங்குகளுக்கான அணுகலைப் பொருள்ரீதியாகப் பாதிக்கும் இடத்தில் **பங்கேற்பு** கால்; **பொறுப்புக்கூறல்** கால் (துரோகம், மறைப்பு, பொறுப்புக்கூறல் தவிர்ப்புக்கு வெகுமதி எதிர்ப்பு); **மேற்பார்வை** கால் (தடமறியக்கூடிய, தவறாக வழிநடத்தாத புகழ்).
-- மேல்வழி: கோட்பாடுகள்: [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](#2-foundational-objective-wellbeing) — [பங்கேற்புக்கு](../../core_05_apex_participation_leg.md#participation-constitutional) அடிப்படையான நல்வாழ்வு உட்பட; [§2.1 நியாயம்](#21-fairness).
+- மேல்வழி: கோட்பாடுகள்: [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](#2-foundational-objective-wellbeing) — [பங்கேற்புக்கு](core_05_apex_participation_leg.md#participation-constitutional) அடிப்படையான நல்வாழ்வு உட்பட; [§2.1 நியாயம்](#21-fairness).
 - கீழ்வழி: [4. நம்பிக்கை](#4-system-stability-enabler-trust-coordination-integrity); [§9 பொறுப்பான நிர்வாகமும் பகிர்ந்த புரிதலும்](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§10 பொறுப்பான நிர்வாகக் கட்டுப்பாட்டின் கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [§5 சுதந்திரம்](#5-freedom-bounded-agency).
 - இதனுடன் படிக்க: **கள-இணக்க** அங்கீகாரம் அல்லது ஒப்பீட்டு **பங்களிப்பு அச்சு / மீறல் அச்சு** விவரிப்புக் கதைகள் பொருள்ரீதியாக இருக்கும் இடத்தில் [அத்தியாயம் எட்டு §§4.3–4.4 — இயல்பாக்கப்பட்ட விவரிப்புப் பட்டியல்](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles).
 - இதனுடன் படிக்க: பங்களிப்பு இயல்பும் அங்கீகாரக் கதைகளும் பொருள்ரீதியாக இருக்கும் இடத்தில் [அத்தியாயம் எட்டு §4.3 — பங்களிப்பு-பக்க விவரிப்புகள்](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles); கேள்வி 3-இல் அவற்றின் ஒருங்கிணைப்புக்கு [அத்தியாயம் ஒன்பது §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization).
@@ -195,7 +195,7 @@
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
 - [நல்வாழ்வு](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [பங்கேற்பு](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [பங்கேற்பு](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [உள்ளடக்க நியாயம்](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [சவால் செய்யக்கூடிய தன்மை](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [பொருளுள்ள செயல்திறன்](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
@@ -207,7 +207,7 @@
 
 *எளிய சொற்களில்: நல்வாழ்வு தடை செய்யப்பட்டதும் நியாயமானதும் மட்டும் அல்ல — பகிர்ந்த அமைப்புகள் உண்மை மற்றும் உரிமைகளுக்குள், உண்மையான பங்கேற்பைப் பதிலீடு செய்யாமல் ஆதரிக்கும் வகையில், மீண்டும் செய்ய விரும்பும் நடத்தையை நேர்மையாகக் கொண்டாடி வெகுமதி தர வேண்டும். வெற்றிகளைக் கொண்டாடுவது உண்மையான பங்களிப்பு, பழுதுபார்ப்பு, நிறைவைப் பாராட்டுவதே, பரபரப்போ கையாளப்பட்ட அளவுகோல்களோ அல்ல. அரசியலமைப்புத் துரோகம், மறைப்பு, பழிவாங்கல், அல்லது பொறுப்புக்கூறல் தவிர்ப்புக்கு வெகுமதி தர மறுப்பதும் அது — அந்தச் செயல்கள் நிறுவன ஆதாயம் தந்தாலும்.*
 
-**மூன்று பரிமாணங்கள்.** நல்வாழ்வு அமைப்புகள் எதைத் தடை செய்கின்றன, செலவுகளை எவ்வளவு நியாயமாகப் பகிர்கின்றன என்பதைச் சார்ந்தது — அவை வெளிப்படையாக எதை மதிக்கின்றன, வலுப்படுத்துகின்றன, உணர்வுள்ளோர் பின்தொடர உதவுகின்றன என்பதையும் சார்ந்தது. இந்தப் பிரிவு அந்த அங்கீகாரம், வலுப்படுத்தல், ஆசைக் கடமைகளைக் கூறுகிறது. குரல், நிலை, அல்லது அணுகலைப் பொருள்ரீதியாகப் பாதிக்கும் அங்கீகாரமும் புகழும் [§2](#2-foundational-objective-wellbeing) மற்றும் [§2.1 நியாயத்தின்](#21-fairness) கீழ் [பங்கேற்புடன்](../../core_05_apex_participation_leg.md#participation-constitutional) இணக்கமாக இருக்க வேண்டும். இது [§2.1 நியாயத்துடன்](#21-fairness) ஒன்றாகப் பொருந்தும், பாதுகாப்பு, உண்மை, அத்தியாயம் ஆறு உரிமைத் தளத்தால் வரம்பிடப்படுகிறது.
+**மூன்று பரிமாணங்கள்.** நல்வாழ்வு அமைப்புகள் எதைத் தடை செய்கின்றன, செலவுகளை எவ்வளவு நியாயமாகப் பகிர்கின்றன என்பதைச் சார்ந்தது — அவை வெளிப்படையாக எதை மதிக்கின்றன, வலுப்படுத்துகின்றன, உணர்வுள்ளோர் பின்தொடர உதவுகின்றன என்பதையும் சார்ந்தது. இந்தப் பிரிவு அந்த அங்கீகாரம், வலுப்படுத்தல், ஆசைக் கடமைகளைக் கூறுகிறது. குரல், நிலை, அல்லது அணுகலைப் பொருள்ரீதியாகப் பாதிக்கும் அங்கீகாரமும் புகழும் [§2](#2-foundational-objective-wellbeing) மற்றும் [§2.1 நியாயத்தின்](#21-fairness) கீழ் [பங்கேற்புடன்](core_05_apex_participation_leg.md#participation-constitutional) இணக்கமாக இருக்க வேண்டும். இது [§2.1 நியாயத்துடன்](#21-fairness) ஒன்றாகப் பொருந்தும், பாதுகாப்பு, உண்மை, அத்தியாயம் ஆறு உரிமைத் தளத்தால் வரம்பிடப்படுகிறது.
 
 <a id="221-recognition-and-reinforcement"></a>
 ##### 2.2.1 அங்கீகாரமும் வலுப்படுத்தலும்
@@ -249,7 +249,7 @@
 <a id="225-aligned-recognition-pathways"></a>
 ##### 2.2.5 இணக்க அங்கீகாரப் பாதைகள்
 
-**நிலை**, **வளங்கள்**, அல்லது **பொருள் அணுகலை** **ஒதுக்கும்** பெயரிடப்பட்ட அங்கீகாரப் பாதைகள், புகழ், பரிசுகள், சான்றளிப்பு, நிலைத்தடம், புகழ் விளைவுகள், அல்லது ஒத்த ஊக்குவிப்புகள் உண்மை, பாதுகாப்பு, **அத்தியாயம் ஆறு** ஒதுக்கும் இடத்தில் சவால் செய்யக்கூடிய நடைமுறை, [பங்கேற்பு](../../core_05_apex_participation_leg.md#participation-constitutional), [ஊக்குவிப்பு இணக்கம்](../../core_05_band_integrative.md#incentive-alignment) ஆகியவற்றுடன் இணக்கமாக இருக்க வேண்டும்.
+**நிலை**, **வளங்கள்**, அல்லது **பொருள் அணுகலை** **ஒதுக்கும்** பெயரிடப்பட்ட அங்கீகாரப் பாதைகள், புகழ், பரிசுகள், சான்றளிப்பு, நிலைத்தடம், புகழ் விளைவுகள், அல்லது ஒத்த ஊக்குவிப்புகள் உண்மை, பாதுகாப்பு, **அத்தியாயம் ஆறு** ஒதுக்கும் இடத்தில் சவால் செய்யக்கூடிய நடைமுறை, [பங்கேற்பு](core_05_apex_participation_leg.md#participation-constitutional), [ஊக்குவிப்பு இணக்கம்](../../core_05_band_integrative.md#incentive-alignment) ஆகியவற்றுடன் இணக்கமாக இருக்க வேண்டும்.
 
 அவை தீங்கு, ஏமாற்று, ஆய்வைத் தவிர்ப்பது, பிரித்தெடுப்பு, அல்லது பொருளுள்ள செயல்திறன் அரிப்பை முறைமையாக வெகுமதி தர **கூடாது**.
 
@@ -447,7 +447,7 @@
 
 *எளிய சொற்களில்: உணர்வுள்ளோரைப் பிணைக்கும் விதிகள், முடிவுகள், அறிவிப்புகள் உணர்வுள்ளோர் உண்மையில் படிக்கவும், புரிந்துகொள்ளவும், செயல்படவும் எழுதப்பட வேண்டும் — தொழில்மொழி, அடுக்கப்பட்ட சிக்கல், அல்லது நடைமுறை மங்கல் சவால் செய்யக்கூடிய தன்மை, செயல்திறன், அல்லது தணிக்கையைத் தோற்கடிக்கப் பயன்படுத்தக்கூடாது.*
 
-உணர்வுள்ளோரைப் பிணைக்கும் அரசியலமைப்பு, ஆட்சி, தீர்ப்பு, செயல் உரைக்கு **எளிய-மொழி அணுகத்தக்க தன்மைக் கடமை** பொருந்தும். உணர்வுள்ளோர் உரிமைகளைப் பயிற்சி செய்யவும், ஆட்சியில் பங்கேற்கவும், முடிவுகளைச் சவால் செய்யவும், இணக்கத்தைச் சரிபார்க்கவும் அந்த உரையுடன் ஈடுபட வேண்டியபோதும் அதே கடமை பொருந்தும். இது ஒரு [பங்கேற்பு](../../core_05_apex_participation_leg.md#participation-constitutional) தேவை: அவர்களைப் பிணைக்கும் விதிகளைப் புரிந்துகொள்ள முடியாத உணர்வுள்ளோர் அந்த விதிகள் ஆளும் அமைப்புகளில் பொருளுள்ள அளவில் பங்கேற்க முடியாது.
+உணர்வுள்ளோரைப் பிணைக்கும் அரசியலமைப்பு, ஆட்சி, தீர்ப்பு, செயல் உரைக்கு **எளிய-மொழி அணுகத்தக்க தன்மைக் கடமை** பொருந்தும். உணர்வுள்ளோர் உரிமைகளைப் பயிற்சி செய்யவும், ஆட்சியில் பங்கேற்கவும், முடிவுகளைச் சவால் செய்யவும், இணக்கத்தைச் சரிபார்க்கவும் அந்த உரையுடன் ஈடுபட வேண்டியபோதும் அதே கடமை பொருந்தும். இது ஒரு [பங்கேற்பு](core_05_apex_participation_leg.md#participation-constitutional) தேவை: அவர்களைப் பிணைக்கும் விதிகளைப் புரிந்துகொள்ள முடியாத உணர்வுள்ளோர் அந்த விதிகள் ஆளும் அமைப்புகளில் பொருளுள்ள அளவில் பங்கேற்க முடியாது.
 
 <a id="341-scope"></a>
 ##### 3.4.1 எல்லை

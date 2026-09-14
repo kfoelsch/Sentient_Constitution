@@ -22,7 +22,7 @@
 
 - بالادست: [قطب‌نمای فصل پنجم](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) (پای پاسخگویی؛ مقیاس‌شده با [منافع مادی](core_00_preamble.md#material-stake)); [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims); هدف اولیه [شکوفایی](core_00_preamble.md#flourishing).
 - پایین‌دست: اصول: [§10 حکمرانی زیر انضباط مدیریت مسئولانه](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [فصل یکم §11.6 مسئولیت جانشین و منع گریز با ساختار صوری](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [تجزیهٔ پای چهارگانه](#accountability-tetrad-leg-decomposition); تعریف‌های برگ نوار پاسخگویی در [core_05_band_accountability.md](../../core_05_band_accountability.md).
-- پای خواهر چهارگانه: [به‌هنگامی](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+- پای خواهر چهارگانه: [به‌هنگامی](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 - خوانده شود با: [خوشهٔ پاسخگویی، قابلیت اعتراض، داوری و حل اختلاف، شکست پاسخگویی جمعی، و قوهٔ قاهره](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster)، [قابلیت اعتراض](../../core_05_band_accountability.md#contestability)، [قابلیت حسابرسی](../../core_05_band_oversight.md#auditability)، [کنش قابل‌انتساب](../../core_05_band_accountability.md#attributable-action-constitutional)، [یکپارچگی انتساب](../../core_05_band_accountability.md#attribution-integrity-constitutional)، [فصل یکم §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)، [فصل سوم §2.1.1 بازی برچسب صوری و بازنمایی](core_03_definition_integrity.md#211-formal-label-and-representation-gaming)، و [فصل نهم §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -69,7 +69,7 @@
 - **Def.A3 وضعیت ردپا، همیاری و تخلف** — [Def.A3 *وضعیت ردپا، همیاری و تخلف*](../../core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)
 - **Def.A4 کاربرد نیرو، اجبار خودمختار، نظام‌های کشندهٔ خودمختار و سلاح‌های آسیب جمعی** — [Def.A4 *کاربرد نیرو، اجبار خودمختار، نظام‌های کشندهٔ خودمختار و سلاح‌های آسیب جمعی*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
-**پای خواهر چهارگانه:** [به‌هنگامی](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+**پای خواهر چهارگانه:** [به‌هنگامی](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 
 **اصطلاح‌های مستقل و نیمه‌مستقل** زیر [پاسخگویی: اصطلاح‌های مستقل](../../core_05_band_accountability.md#accountability-independent-terms) و [پاسخگویی: اصطلاح‌های نیمه‌مستقل](../../core_05_band_accountability.md#accountability-semi-independent-terms) زندگی می‌کنند.
 

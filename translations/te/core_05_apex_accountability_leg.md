@@ -22,7 +22,7 @@
 
 - మూలం: [అధ్యాయం ఐదు దిక్సూచి](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) (జవాబుదారీతనం కాలు; [భౌతిక పందెం](core_00_preamble.md#material-stake)కు స్కేల్); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims); ప్రాథమిక లక్ష్యం [సమున్నతి](core_00_preamble.md#flourishing).
 - గమ్యం: సూత్రాలు: [§10 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [అధ్యాయం ఒకటి §11.6 వారస బాధ్యత మరియు అధికారిక-నిర్మాణ తప్పించుకోవడం-లేదు](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [చతుష్టయం కాలు విభజన](#accountability-tetrad-leg-decomposition); జవాబుదారీతనం-బ్యాండ్ ఆకు నిర్వచనాలు [core_05_band_accountability.md](../../core_05_band_accountability.md)లో.
-- చతుష్టయం సోదర కాలు: [సమయబద్ధత](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+- చతుష్టయం సోదర కాలు: [సమయబద్ధత](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 - దీనితో చదవండి: [జవాబుదారీతనం, సవాలు-యోగ్యత, తీర్పు మరియు వివాద పరిష్కారం, సామూహిక జవాబుదారీతనం వైఫల్యం, మరియు ఫోర్స్ మేజ్యూర్ క్లస్టర్](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [సవాలు-యోగ్యత](../../core_05_band_accountability.md#contestability), [ఆడిట్-యోగ్యత](../../core_05_band_oversight.md#auditability), [ఆపాదించదగిన చర్య](../../core_05_band_accountability.md#attributable-action-constitutional), [ఆపాదన సమగ్రత](../../core_05_band_accountability.md#attribution-integrity-constitutional), [అధ్యాయం ఒకటి §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape), [అధ్యాయం మూడు §2.1.1 అధికారిక లేబుల్ మరియు ప్రాతినిధ్య గేమింగ్](core_03_definition_integrity.md#211-formal-label-and-representation-gaming), మరియు [అధ్యాయం తొమ్మిది §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -69,7 +69,7 @@
 - **Def.A3 ప్రస్థితి స్థితి, సహకారం, మరియు ఉల్లంఘన** — [Def.A3 *ప్రస్థితి స్థితి, సహకారం, మరియు ఉల్లంఘన*](../../core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)
 - **Def.A4 బలప్రయోగం, స్వయంచాలక బలవంతం, స్వయంచాలక ప్రాణాంతక వ్యవస్థలు, మరియు సామూహిక హాని ఆయుధాలు** — [Def.A4 *బలప్రయోగం, స్వయంచాలక బలవంతం, స్వయంచాలక ప్రాణాంతక వ్యవస్థలు, మరియు సామూహిక హాని ఆయుధాలు*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
-**చతుష్టయం సోదర కాలు:** [సమయబద్ధత](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+**చతుష్టయం సోదర కాలు:** [సమయబద్ధత](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 
 **స్వతంత్ర మరియు అర్ధ-స్వతంత్ర పదాలు** [జవాబుదారీతనం: స్వతంత్ర పదాలు](../../core_05_band_accountability.md#accountability-independent-terms) మరియు [జవాబుదారీతనం: అర్ధ-స్వతంత్ర పదాలు](../../core_05_band_accountability.md#accountability-semi-independent-terms) కింద ఉంటాయి.
 

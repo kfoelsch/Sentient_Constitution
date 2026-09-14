@@ -22,7 +22,7 @@
 
 - Origem: [Bússola do Capítulo Cinco](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) (perna de prestação de contas; escalonamento pela [aposta material](core_00_preamble.md#material-stake)); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims); fim primário [Florescimento](core_00_preamble.md#flourishing).
 - Destino: Princípios: [§10 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Capítulo Um §11.6 Responsabilidade sucessória e não evasão por estrutura formal](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Decomposição da perna da Tétrade](#accountability-tetrad-leg-decomposition); definições-folha da faixa Prestação de contas em [core_05_band_accountability.md](../../core_05_band_accountability.md).
-- Perna irmã da Tétrade: [Atuação em tempo](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+- Perna irmã da Tétrade: [Atuação em tempo](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 - Ler com: o [aglomerado Prestação de contas, Impugnabilidade, Adjudicação e resolução de disputas, Falha coletiva da prestação de contas e Força maior](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Impugnabilidade](../../core_05_band_accountability.md#contestability), [Auditabilidade](../../core_05_band_oversight.md#auditability), [Ação atribuível](../../core_05_band_accountability.md#attributable-action-constitutional), [Integridade da atribuição](../../core_05_band_accountability.md#attribution-integrity-constitutional), [Capítulo Um §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape), [Capítulo Três §2.1.1 Jogos de rótulo formal e de representação](core_03_definition_integrity.md#211-formal-label-and-representation-gaming), e [Capítulo Nove §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -69,7 +69,7 @@ As definições-folha sob esta perna herdam o seu âmbito a menos que o estreite
 - **Def.A3 Estado de trajetória, contribuição e infração** — [Def.A3 *Estado de trajetória, contribuição e infração*](../../core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)
 - **Def.A4 Uso da força, coerção autônoma, sistemas letais autônomos e armas de dano em massa** — [Def.A4 *Uso da força, coerção autônoma, sistemas letais autônomos e armas de dano em massa*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
-**Perna irmã da Tétrade:** [Atuação em tempo](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+**Perna irmã da Tétrade:** [Atuação em tempo](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 
 Os **termos independentes e semi-independentes** vivem sob [Prestação de contas: termos independentes](../../core_05_band_accountability.md#accountability-independent-terms) e [Prestação de contas: termos semi-independentes](../../core_05_band_accountability.md#accountability-semi-independent-terms).
 

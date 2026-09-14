@@ -248,7 +248,7 @@
 - [監督](core_05_apex_oversight_leg.md#oversight-constitutional)
 - [親システム関係](../../core_05_band_participation.md#parent-system-relationship-constitutional)
 - [参加者の軌跡](../../core_05_band_accountability.md#participant-standing-constitutional)
-- [参加](../../core_05_apex_participation_leg.md#participation-constitutional)
+- [参加](core_05_apex_participation_leg.md#participation-constitutional)
 - [報道とジャーナリズム活動](../../core_05_band_oversight.md#press-and-journalistic-activity-constitutional)
 - [第一次利害の経路づけ](../../core_05_band_accountability.md#primary-stakes-routing)
 - [プライバシー（情報的）](../../core_05_band_continuity.md#privacy-informational)
@@ -320,7 +320,7 @@
 - [システム的](../../core_05_band_continuity.md#systemic)
 - [システム的閉じ込め](../../core_05_band_continuity.md#systemic-lock-in)
 - [システム的実質性](../../core_05_band_continuity.md#systemic-materiality)
-- [適時性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)
+- [適時性](core_05_apex_timeliness_leg.md#timeliness-constitutional)
 - [適時の解決](../../core_05_band_accountability.md#timely-resolution-constitutional)
 - [訓練データの使用](../../core_05_band_continuity.md#training-data-use-constitutional)
 - [透明性](../../core_05_band_oversight.md#transparency)
@@ -417,10 +417,10 @@
 |---|---|---|---|
 | [繁栄の測定ファミリー](core_05_apex_flourishing_aim.md#flourishing-measurement-family) | 感知者は生命、安全、必須へのアクセスにおいて支えられているか。 | [繁栄目的](core_05_apex_flourishing_aim.md)、[参加](../../core_05_band_participation.md)、[継続](../../core_05_band_continuity.md)、[説明責任](../../core_05_band_accountability.md) | **繁栄**は憲法上の**目的**であり、四元の脚ではない — [憲法上の目的の分解地図](core_05_apex_flourishing_aim.md#flourishing-aim-decomposition)；具体的測定は葉の第一次に：[福祉](../../core_05_band_continuity.md#wellbeing)（第一次の成果）、[安全（制約）](../../core_05_band_continuity.md#safety-constraint)、生存の床の用語、[危害](../../core_05_band_accountability.md#harm) |
 | [継続の測定ファミリー](core_05_apex_continuity_aim.md#continuity-measurement-family) | 感知者とシステムは持ちこたえられるか — 生態的に、信頼でき、失敗を横断して。 | [継続目的](core_05_apex_continuity_aim.md)、[継続](../../core_05_band_continuity.md) | **継続**は憲法上の**目的**であり、四元の脚ではない — [憲法上の目的の分解地図](core_05_apex_continuity_aim.md#continuity-aim-decomposition)；具体的測定は**継続**帯の葉の第一次に：[生態的足跡](../../core_05_band_continuity.md#ecological-footprint)、[依存](../../core_05_band_continuity.md#dependency)、[可逆性](../../core_05_band_continuity.md#reversibility-constitutional)、[持続可能性](../../core_05_band_continuity.md#sustainability)、[比例的なシステム横断貢献](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
-| [参加の測定ファミリー](../../core_05_apex_participation_leg.md#participation-measurement-family) | 影響を受ける感知者は公正に参加できるか — 声、アクセス、学習、プライバシー。 | [参加](../../core_05_band_participation.md)、[継続](../../core_05_band_continuity.md) | 公正、アクセス、行為主体性の用語は**参加**帯に；[プライバシー（情報的）](../../core_05_band_continuity.md#privacy-informational-cluster) クラスターは**継続**帯に。プライバシーが権利の条を横断して配分されるからである |
+| [参加の測定ファミリー](core_05_apex_participation_leg.md#participation-measurement-family) | 影響を受ける感知者は公正に参加できるか — 声、アクセス、学習、プライバシー。 | [参加](../../core_05_band_participation.md)、[継続](../../core_05_band_continuity.md) | 公正、アクセス、行為主体性の用語は**参加**帯に；[プライバシー（情報的）](../../core_05_band_continuity.md#privacy-informational-cluster) クラスターは**継続**帯に。プライバシーが権利の条を横断して配分されるからである |
 | [監督の測定ファミリー](core_05_apex_oversight_leg.md#oversight-measurement-family) | 感知者は、システムが表すものを見、検証し、依拠できるか。 | [監督](../../core_05_band_oversight.md)、[継続](../../core_05_band_continuity.md) | 真理と認識的誠実性の第一次は**監督**帯に（リンクのみの脚頭ロールアップ [監督](core_05_apex_oversight_leg.md#oversight-constitutional)）；[信頼可能性](../../core_05_band_continuity.md#trustworthiness) および [信頼の劣化と誤導的依拠](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) は**継続**帯に（**Def.C4**） |
 | [説明責任の測定ファミリー](core_05_apex_accountability_leg.md#accountability-measurement-family) | 報酬構造、市場権力、応答義務は、義務を本物に保つか。 | [説明責任](../../core_05_band_accountability.md)、[統合](../../core_05_band_integrative.md) | 市場構造と争訟可能性の第一次は**説明責任**帯に（リンクのみの脚頭ロールアップ [説明責任](core_05_apex_accountability_leg.md#accountability)）；第一次の層 [誘因整合、代替指標の誠実性、偶発的決済](../../core_05_band_integrative.md#incentive-alignment-semi-independent) は**統合**帯に。誘因が四元の脚を横断するからである |
-| [適時性の測定ファミリー](../../core_05_apex_timeliness_leg.md#timeliness-measurement-family) | 紛争、訂正、修復は、救済がなお意味を持つあいだに解決されるか。 | [説明責任](../../core_05_band_accountability.md) | リンクのみの脚頭ロールアップ [適時性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)；具体的測定は [適時の解決](../../core_05_band_accountability.md#timely-resolution-constitutional) および [解決経路の捕捉](../../core_05_band_accountability.md#capture-of-resolution-pathways) — 適時性は四元の脚であり、その実施の葉はいま説明責任帯に住む |
+| [適時性の測定ファミリー](core_05_apex_timeliness_leg.md#timeliness-measurement-family) | 紛争、訂正、修復は、救済がなお意味を持つあいだに解決されるか。 | [説明責任](../../core_05_band_accountability.md) | リンクのみの脚頭ロールアップ [適時性](core_05_apex_timeliness_leg.md#timeliness-constitutional)；具体的測定は [適時の解決](../../core_05_band_accountability.md#timely-resolution-constitutional) および [解決経路の捕捉](../../core_05_band_accountability.md#capture-of-resolution-pathways) — 適時性は四元の脚であり、その実施の葉はいま説明責任帯に住む |
 | [憲法上の実績の測定ファミリー](../../core_05_band_performance.md#performance-measurement-family) | 憲法上の成果は、無益な浪費なしに効率よく届けられるか。 | [継続](../../core_05_band_continuity.md) | ファミリーの本拠は [`core_05_band_performance.md`](../../core_05_band_performance.md)；すべての葉の本文はいま**継続**にある。それらが継続帯のクラスター成員だからである（責務ある管理／共有システムの能力／比例性–負担–効率）— 両目的への手段的なもの。四元の脚ではない。適時性と並行：ファミリーの本拠 ≠ 葉の本拠 |
 
 </details>

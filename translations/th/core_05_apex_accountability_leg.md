@@ -22,7 +22,7 @@
 
 - ต้นทาง: [เข็มทิศของบทที่ห้า](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) (ขาความรับผิดชอบ; การปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake)); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims); เป้าประสงค์หลัก [ความเจริญงอกงาม](core_00_preamble.md#flourishing)
 - ปลายทาง: หลักการ: [§10 การปกครองภายใต้วินัยการบริหารอย่างรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [บทที่หนึ่ง §11.6 ความรับผิดของผู้สืบทอดและการไม่หนีด้วยโครงสร้างรูปนาม](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [การแยกขาของจตุรภาค](#accountability-tetrad-leg-decomposition); บทนิยามใบของแถบความรับผิดชอบใน [core_05_band_accountability.md](../../core_05_band_accountability.md)
-- ขาพี่น้องของจตุรภาค: [ความทันเวลา](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)
+- ขาพี่น้องของจตุรภาค: [ความทันเวลา](core_05_apex_timeliness_leg.md#timeliness-constitutional)
 - อ่านคู่กับ: [กลุ่มความรับผิดชอบ ความสามารถในการโต้แย้ง การชี้ขาดและการยุติข้อพิพาท ความล้มเหลวของความรับผิดชอบร่วม และเหตุสุดวิสัย](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster) [ความสามารถในการโต้แย้ง](../../core_05_band_accountability.md#contestability) [ความสามารถในการตรวจ](../../core_05_band_oversight.md#auditability) [การกระทำที่ระบุผู้กระทำได้](../../core_05_band_accountability.md#attributable-action-constitutional) [ความครบถ้วนของการระบุผู้กระทำ](../../core_05_band_accountability.md#attribution-integrity-constitutional) [บทที่หนึ่ง §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) [บทที่สาม §2.1.1 การเล่นเกมป้ายรูปนามและการแทน](core_03_definition_integrity.md#211-formal-label-and-representation-gaming) และ [บทที่เก้า §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)
 
 </details>
@@ -69,7 +69,7 @@
 - **Def.A3 สถานะร่องรอย การมีส่วนช่วย และการละเมิด** — [Def.A3 *สถานะร่องรอย การมีส่วนช่วย และการละเมิด*](../../core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)
 - **Def.A4 การใช้กำลัง การบีบบังคับอัตโนมัติ ระบบสังหารอัตโนมัติ และอาวุธภัยหมู่** — [Def.A4 *การใช้กำลัง การบีบบังคับอัตโนมัติ ระบบสังหารอัตโนมัติ และอาวุธภัยหมู่*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
-**ขาพี่น้องของจตุรภาค:** [ความทันเวลา](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)
+**ขาพี่น้องของจตุรภาค:** [ความทันเวลา](core_05_apex_timeliness_leg.md#timeliness-constitutional)
 
 **คำอิสระและกึ่งอิสระ** อยู่ใน [ความรับผิดชอบ: คำอิสระ](../../core_05_band_accountability.md#accountability-independent-terms) และ [ความรับผิดชอบ: คำกึ่งอิสระ](../../core_05_band_accountability.md#accountability-semi-independent-terms)
 

@@ -74,7 +74,7 @@ Hiçbir tek ilke, diğerlerini maddi olarak ihlal edeceği yerde yalıtık uygul
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
 - [Esenlik](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [Katılım](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [Katılım](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [Onur ve eşit ahlaki konum](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [Maddi adillik](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [Maddilik](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
@@ -88,7 +88,7 @@ Hiçbir tek ilke, diğerlerini maddi olarak ihlal edeceği yerde yalıtık uygul
 
 Bu Anayasa altında yönetilen tüm sistemlerin nihai hedefi, algılayan [esenliğini](../../core_05_band_continuity.md#wellbeing) korumak ve ilerletmektir — [İki Anayasal Amaç](../../core_00_preamble.md#two-constitutional-aims) altında [**Gelişim**](#flourishing) amacı.
 
-Esenlik, [Anayasal Dörtlü](../../core_00_preamble.md#constitutional-tetrad) altında [Katılım](../../core_05_apex_participation_leg.md#participation-constitutional) için temeldir. Paylaşılan sistemler, altta yatan esenlik koşulları — [Anlamlı eylem yetisi](../../core_05_band_participation.md#meaningful-agency), adil erişim ve onur dahil — maddi olarak bozulduğunda katılımı karşılanmış sayamaz.
+Esenlik, [Anayasal Dörtlü](../../core_00_preamble.md#constitutional-tetrad) altında [Katılım](core_05_apex_participation_leg.md#participation-constitutional) için temeldir. Paylaşılan sistemler, altta yatan esenlik koşulları — [Anlamlı eylem yetisi](../../core_05_band_participation.md#meaningful-agency), adil erişim ve onur dahil — maddi olarak bozulduğunda katılımı karşılanmış sayamaz.
 
 Esenlik yalnızca dolaysız etkileri değil, [**İkinci Bölümden Dördüncü Bölüme**](core_02_definition_structure.md) altında değerlendirilen dolaylı, gecikmeli, birikimli ve sistemler arası sonuçları da içerir. Bu değer katmanında esenlik:
 - gerçek katılımı mümkün kılar — algılayanların kullanacak koşullara sahip olmadığı bir ses anlamlı katılım değildir
@@ -102,7 +102,7 @@ Esenlik yalnızca dolaysız etkileri değil, [**İkinci Bölümden Dördüncü B
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Birlikte oku: [Anayasal Dörtlü](../../core_00_preamble.md#constitutional-tetrad) — **katılım** bacağı (erişim, ses ve itiraz edilebilirlik; genel gerek, yalnızca [Etkilenen Tarafların Sistem Katılımı](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) değil); yararlar ve yükler bağlandığında **hesap verebilirlik** bacağı.
-- Yukarı: İlkeler: [§2 Temel hedef: Esenlik](#2-foundational-objective-wellbeing) — [Katılım](../../core_05_apex_participation_leg.md#participation-constitutional) için temel olarak esenlik dahil.
+- Yukarı: İlkeler: [§2 Temel hedef: Esenlik](#2-foundational-objective-wellbeing) — [Katılım](core_05_apex_participation_leg.md#participation-constitutional) için temel olarak esenlik dahil.
 - Aşağı: [2.2 Tanıma, pekiştirme ve yönelim](#22-recognition-reinforcement-and-aspiration); [4. Güven](#4-system-stability-enabler-trust-coordination-integrity), [§9 Sorumlu yönetim ve dağıtılmış anlayış](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. Süreç çatışması çözümü](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ve öncelik ile tahsis seçimlerinin tutarlı ve incelenebilir kalması gereken yerde [§6.1 karar-kaydı disiplini](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - Alt bölümler (okuma sırası): [§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment).
 - Aşağı: Eşit konum, keyfi olmayan muamele, anlamlı itiraz ve orantılı kısıtlama sınırları için hak yüzeyini şekillendirir.
@@ -118,7 +118,7 @@ Esenlik yalnızca dolaysız etkileri değil, [**İkinci Bölümden Dördüncü B
 
 - [Onur ve eşit ahlaki konum](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [Erişilebilirlik](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
-- [Katılım](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [Katılım](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [Usul adilliği](../../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [Maddi adillik](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [Korunan özellikler](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
@@ -134,7 +134,7 @@ Esenlik yalnızca dolaysız etkileri değil, [**İkinci Bölümden Dördüncü B
 
 **Adillik**, algılayanların paylaşılan sistemler aracılığıyla yaşaması, çalışması, öğrenmesi, ticaret yapması ya da karar vermesi gerektiğinde [§2](#2-foundational-objective-wellbeing)nin istediğinin bir parçasıdır. Paylaşılan sistemler algılayanları maddi olarak etkilediğinde, adillik fırsatın, muamelenin ve yararlar ile yüklerin bölüşümünün [Onur ve eşit ahlaki konum](../../core_05_band_participation.md#dignity-and-equal-moral-standing)a saygı gösterip göstermediğini sorar.
 
-Adillik [Katılım](../../core_05_apex_participation_leg.md#participation-constitutional)ı gerçek kılar. Algılayanların teknik olarak bir sesi varken sürece ulaşamadığında, kuralı anlayamadığında, koşulları karşılayamadığında, sonuca itiraz edemediğinde ya da üzerlerine konan yükü karşılayamadığında katılım gerçek değildir.
+Adillik [Katılım](core_05_apex_participation_leg.md#participation-constitutional)ı gerçek kılar. Algılayanların teknik olarak bir sesi varken sürece ulaşamadığında, kuralı anlayamadığında, koşulları karşılayamadığında, sonuca itiraz edemediğinde ya da üzerlerine konan yükü karşılayamadığında katılım gerçek değildir.
 
 Bir sistemin iyi bir ortalama sonuç göstermesi yetmez. Tek bir manşet ölçütü, ortalama, sıralama ya da verimlilik iddiası tek başına adilliği kanıtlamaz. Bir sistem toplamda başarılı görünüp yine de dışlanan, yanlış sınıflanan, eksik ödenen, aşırı yüklenen ya da itiraz için anlamlı bir şansı reddedilen algılayanlara karşı adil olmayabilir.
 
@@ -143,7 +143,7 @@ Bu bölümün **üç işleyen kısmı** vardır. Bu bölümü yönlendirirler am
 <a id="211-access-and-opportunity"></a>
 ##### 2.1.1 Erişim ve fırsat
 
-- Algılayanların [Katılım](../../core_05_apex_participation_leg.md#participation-constitutional), eğitim, iş, bakım, güvenlik, hareket ve sıradan yaşam için önemli diğer mallara pratik yollara ihtiyacı vardır.
+- Algılayanların [Katılım](core_05_apex_participation_leg.md#participation-constitutional), eğitim, iş, bakım, güvenlik, hareket ve sıradan yaşam için önemli diğer mallara pratik yollara ihtiyacı vardır.
 - Bu yollar keyfi ya da ilgisiz nedenlerle engellenmemeli, fiyatla dışarıda bırakılmamalı, geciktirilmemeli, gizlenmemeli ya da eğilmemelidir.
 - Bu Anayasanın **maddi** fırsat istediği yerde yalnızca kâğıt üzerinde açık bir kapı yetmez.
 
@@ -162,7 +162,7 @@ Bu bölümün **üç işleyen kısmı** vardır. Bu bölümü yönlendirirler am
 - Ayrıntılı kurallar Beşinci Bölüm üzerinden taşınır; [Korunan özellikler](../../core_05_band_participation.md#protected-characteristics-constitutional) ve [Korunan özellik vekillemesi ve orantısız etki](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) dahil.
 - Bir karar birini ciddi etkilediğinde ya da ona itiraz ettiklerinde, inceleme yolu Altıncı Bölüm ya da yöneten belge bildirim, dinleme, açıklama ya da inceleme istediği her yerde [Usul adilliği](../../core_05_band_participation.md#procedural-fairness-constitutional)ni karşılamalıdır.
 
-İddia edilen esenlik, keyfi dışlama, açıklanmamış ya da istikrarsız kurallar, gizli çıkarma ya da katılımı anlamlı kılan adillik koşulları başarısızken biçimsel [Katılım](../../core_05_apex_participation_leg.md#participation-constitutional)a dayanıyorsa [§2](#2-foundational-objective-wellbeing) ile hizalı değildir.
+İddia edilen esenlik, keyfi dışlama, açıklanmamış ya da istikrarsız kurallar, gizli çıkarma ya da katılımı anlamlı kılan adillik koşulları başarısızken biçimsel [Katılım](core_05_apex_participation_leg.md#participation-constitutional)a dayanıyorsa [§2](#2-foundational-objective-wellbeing) ile hizalı değildir.
 
 <a id="214-unfair-treatment"></a>
 ##### 2.1.4 Adil olmayan muamele
@@ -182,7 +182,7 @@ Bu dört kısım ayrıca algılayanların bir sisteme bel bağlaması, kararlar�
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Birlikte oku: [Anayasal Dörtlü](../../core_00_preamble.md#constitutional-tetrad) — adlandırılmış tanıma, takdir ya da yönelim yollarının sesi, statüyü ya da sonuç doğuran rollere erişimi maddi olarak etkilediği yerde **katılım** bacağı; **hesap verebilirlik** bacağı (ihanet, gizleme ve hesap verebilirlikten kaçınma için ödül karşıtı); **gözetim** bacağı (izlenebilir, yanıltıcı olmayan takdir).
-- Yukarı: İlkeler: [§2 Temel hedef: Esenlik](#2-foundational-objective-wellbeing) — [Katılım](../../core_05_apex_participation_leg.md#participation-constitutional) için temel olarak esenlik dahil; [§2.1 Adillik](#21-fairness).
+- Yukarı: İlkeler: [§2 Temel hedef: Esenlik](#2-foundational-objective-wellbeing) — [Katılım](core_05_apex_participation_leg.md#participation-constitutional) için temel olarak esenlik dahil; [§2.1 Adillik](#21-fairness).
 - Aşağı: [4. Güven](#4-system-stability-enabler-trust-coordination-integrity); [§9 Sorumlu yönetim ve dağıtılmış anlayış](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§10 Sorumlu yönetim disiplini altında yönetişim](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [§5 Özgürlük](#5-freedom-bounded-agency).
 - Birlikte oku: **alana hizalı** tanıma ya da karşılaştırmalı **Katkı Ekseni / İhlal Ekseni** betimleyici anlatıları maddi olduğunda [Sekizinci Bölüm §§4.3–4.4 — Normalleştirilmiş betimleyici katalog](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles).
 - Birlikte oku: katkı niteliği ve tanıma anlatıları maddi olduğunda [Sekizinci Bölüm §4.3 — Katkı-yanı betimleyiciler](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles); Soru 3'e bütünleştirilmeleri için [Dokuzuncu Bölüm §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization).
@@ -195,7 +195,7 @@ Bu dört kısım ayrıca algılayanların bir sisteme bel bağlaması, kararlar�
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
 - [Esenlik](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [Katılım](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [Katılım](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [Maddi adillik](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [İtiraz edilebilirlik](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [Anlamlı eylem yetisi](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
@@ -207,7 +207,7 @@ Bu dört kısım ayrıca algılayanların bir sisteme bel bağlaması, kararlar�
 
 *Yalın dille: esenlik yalnızca yasak olan ve adil olan değildir — paylaşılan sistemler ayrıca tekrarlanmasını istedikleri davranışı doğruluk ve haklar içinde, gerçek katılımın yerine geçmek yerine onu destekleyecek biçimde dürüstçe alkışlamalı ve ödüllendirmelidir. Kazanımları kutlamak, abartı ya da manipüle edilmiş ölçütler değil gerçek katkı, onarım ve tamamlamayı kredilendirmektir. Ayrıca kurumsal avantaj üretmiş olsalar bile anayasal ihaneti, gizlemeyi, misillemeyi ya da hesap verebilirlikten kaçınmayı ödüllendirmeyi reddetmek demektir.*
 
-**Üç boyut.** Esenlik, sistemlerin neyi yasakladığına ve maliyetleri ne kadar adil dağıttığına — ayrıca neyi görünür biçimde değerli saydığına, pekiştirdiğine ve algılayanların izlemesine yardım ettiğine — bağlıdır. Bu bölüm o tanıma, pekiştirme ve yönelim ödevlerini belirtir. Sesi, statüyü ya da erişimi maddi olarak etkileyen tanıma ve takdir, [§2](#2-foundational-objective-wellbeing) ve [§2.1 Adillik](#21-fairness) altında [Katılım](../../core_05_apex_participation_leg.md#participation-constitutional) ile tutarlı kalmalıdır. [§2.1 Adillik](#21-fairness) ile birlikte uygulanır ve Güvenlik, Doğruluk ve Altıncı Bölüm Hak Tabanı ile sınırlı kalır.
+**Üç boyut.** Esenlik, sistemlerin neyi yasakladığına ve maliyetleri ne kadar adil dağıttığına — ayrıca neyi görünür biçimde değerli saydığına, pekiştirdiğine ve algılayanların izlemesine yardım ettiğine — bağlıdır. Bu bölüm o tanıma, pekiştirme ve yönelim ödevlerini belirtir. Sesi, statüyü ya da erişimi maddi olarak etkileyen tanıma ve takdir, [§2](#2-foundational-objective-wellbeing) ve [§2.1 Adillik](#21-fairness) altında [Katılım](core_05_apex_participation_leg.md#participation-constitutional) ile tutarlı kalmalıdır. [§2.1 Adillik](#21-fairness) ile birlikte uygulanır ve Güvenlik, Doğruluk ve Altıncı Bölüm Hak Tabanı ile sınırlı kalır.
 
 <a id="221-recognition-and-reinforcement"></a>
 ##### 2.2.1 Tanıma ve pekiştirme
@@ -249,7 +249,7 @@ Tanıma, onurlandırılanlara ve birlikte çalıştıkları topluluklara **anlam
 <a id="225-aligned-recognition-pathways"></a>
 ##### 2.2.5 Hizalı tanıma yolları
 
-**Statü**, **kaynak** ya da **maddi erişim** tahsis eden adlandırılmış tanıma yolları, takdir, ödüller, belgelendirme, güzergâh, itibar etkileri ya da karşılaştırılabilir teşvikler Doğruluk, Güvenlik, **Altıncı Bölüm**ün atadığı yerde itiraz edilebilir usul, [Katılım](../../core_05_apex_participation_leg.md#participation-constitutional) ve [Teşvik hizalaması](../../core_05_band_integrative.md#incentive-alignment) ile tutarlı kalmalıdır.
+**Statü**, **kaynak** ya da **maddi erişim** tahsis eden adlandırılmış tanıma yolları, takdir, ödüller, belgelendirme, güzergâh, itibar etkileri ya da karşılaştırılabilir teşvikler Doğruluk, Güvenlik, **Altıncı Bölüm**ün atadığı yerde itiraz edilebilir usul, [Katılım](core_05_apex_participation_leg.md#participation-constitutional) ve [Teşvik hizalaması](../../core_05_band_integrative.md#incentive-alignment) ile tutarlı kalmalıdır.
 
 Sistematik olarak zararı, aldatmayı, incelemeden kaçınmayı, çıkarmayı ya da anlamlı eylem yetisinin aşınmasını **ödüllendirmemelidir**.
 
@@ -447,7 +447,7 @@ Yayımlama, veri erişimi, yöntem açıklaması ya da yineleme malzemeleri üze
 
 *Yalın dille: algılayanları bağlayan kurallar, kararlar ve bildirimler, algılayanların gerçekten okuyup anlayıp üzerine eyleyebileceği biçimde yazılmalıdır — ve jargon, yığılmış karmaşıklık ya da usul opaklığı itiraz edilebilirliği, eylem yetisini ya da denetimi boşa çıkarmak için kullanılamaz.*
 
-Algılayanları bağlayan anayasal, yönetişim, hükme bağlama ve işlemsel metne bir **yalın dil erişilebilirliği ödevi** uygulanır. Aynı ödev, algılayanların hakları kullanmak, yönetişime katılmak, kararlara itiraz etmek ya da uyumu doğrulamak için o metinle etkileşmesi gerektiğinde de uygulanır. Bu bir [Katılım](../../core_05_apex_participation_leg.md#participation-constitutional) gereğidir: kendilerini bağlayan kuralları anlayamayan algılayanlar, o kuralların yönettiği sistemlere anlamlı katılamaz.
+Algılayanları bağlayan anayasal, yönetişim, hükme bağlama ve işlemsel metne bir **yalın dil erişilebilirliği ödevi** uygulanır. Aynı ödev, algılayanların hakları kullanmak, yönetişime katılmak, kararlara itiraz etmek ya da uyumu doğrulamak için o metinle etkileşmesi gerektiğinde de uygulanır. Bu bir [Katılım](core_05_apex_participation_leg.md#participation-constitutional) gereğidir: kendilerini bağlayan kuralları anlayamayan algılayanlar, o kuralların yönettiği sistemlere anlamlı katılamaz.
 
 <a id="341-scope"></a>
 ##### 3.4.1 Kapsam

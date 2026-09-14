@@ -22,7 +22,7 @@
 
 - Исход: [Компас Главы пятой](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad) (нога подотчётности; масштабирование по [материальной ставке](core_00_preamble.md#material-stake)); [Две конституционные цели](core_00_preamble.md#two-constitutional-aims); первичная цель [Расцвет](core_00_preamble.md#flourishing).
 - Назначение: Принципы: [§10 Управление под дисциплиной ответственного управления](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Глава первая §11.6 Ответственность преемника и отсутствие выхода через формальную структуру](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Декомпозиция ноги Тетрады](#accountability-tetrad-leg-decomposition); листовые определения полосы Подотчётности в [core_05_band_accountability.md](../../core_05_band_accountability.md).
-- Сестринская нога Тетрады: [Своевременность](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+- Сестринская нога Тетрады: [Своевременность](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 - Читать вместе с: [кластером Подотчётность, Оспоримость, Разбирательство и разрешение споров, Коллективный сбой подотчётности и Форс-мажор](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Оспоримость](../../core_05_band_accountability.md#contestability), [Аудитируемость](../../core_05_band_oversight.md#auditability), [Приписываемое действие](../../core_05_band_accountability.md#attributable-action-constitutional), [Целостность приписывания](../../core_05_band_accountability.md#attribution-integrity-constitutional), [Глава первая §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape), [Глава третья §2.1.1 Обыгрывание формальных ярлыков и представлений](core_03_definition_integrity.md#211-formal-label-and-representation-gaming), и [Глава девятая §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -69,7 +69,7 @@
 - **Def.A3 Состояние траектории, вклад и нарушение** — [Def.A3 *Состояние траектории, вклад и нарушение*](../../core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)
 - **Def.A4 Применение силы, автономное принуждение, автономные летальные системы и оружие массового вреда** — [Def.A4 *Применение силы, автономное принуждение, автономные летальные системы и оружие массового вреда*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
-**Сестринская нога Тетрады:** [Своевременность](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+**Сестринская нога Тетрады:** [Своевременность](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 
 **Независимые и полунезависимые термины** живут под [Подотчётность: независимые термины](../../core_05_band_accountability.md#accountability-independent-terms) и [Подотчётность: полунезависимые термины](../../core_05_band_accountability.md#accountability-semi-independent-terms).
 

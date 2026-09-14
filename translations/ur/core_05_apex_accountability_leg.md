@@ -22,7 +22,7 @@
 
 - بالائی: [باب پنجم قطب نما](core_05__definitions_home.md#chapter-five-compass-and-definition-map)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) (جوابدہی ٹانگ؛ [مادی داؤ](core_00_preamble.md#material-stake) پیمانہ)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)؛ بنیادی مقصد [شگفتگی](core_00_preamble.md#flourishing)۔
 - زیریں: اصول: [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)؛ [باب یکم §11.6 جانشین ذمہ داری اور رسمی ڈھانچہ فرار مخالف](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)؛ [چوکڑی کی ٹانگ کی تحلیل](#accountability-tetrad-leg-decomposition)؛ جوابدہی پٹی کی برگ تعریفیں [core_05_band_accountability.md](../../core_05_band_accountability.md) میں۔
-- چوکڑی کی بہن ٹانگ: [بروقت کارروائی](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)۔
+- چوکڑی کی بہن ٹانگ: [بروقت کارروائی](core_05_apex_timeliness_leg.md#timeliness-constitutional)۔
 - ساتھ پڑھیں: [جھرمٹ جوابدہی، چیلنج پذیری، فیصلہ اور تنازعے کا حل، اجتماعی جوابدہی کی ناکامی، اور قاہرہ قوت](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster)، [چیلنج پذیری](../../core_05_band_accountability.md#contestability)، [آڈٹ پذیری](../../core_05_band_oversight.md#auditability)، [منسوب عمل](../../core_05_band_accountability.md#attributable-action-constitutional)، [انتساب کی دیانت](../../core_05_band_accountability.md#attribution-integrity-constitutional)، [باب یکم §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)، [باب سوم §2.1.1 رسمی لیبل اور نمائندگی کے کھیل](core_03_definition_integrity.md#211-formal-label-and-representation-gaming)، اور [باب نہم §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)۔
 
 </details>
@@ -69,7 +69,7 @@
 - **Def.A3 کیفیت کی حالت، شراکت، اور خلاف ورزی** — [Def.A3 *کیفیت کی حالت، شراکت، اور خلاف ورزی*](../../core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)
 - **Def.A4 قوت کا استعمال، خود مختار جبر، خود مختار مہلک نظام، اور اجتماعی نقصان کے ہتھیار** — [Def.A4 *قوت کا استعمال، خود مختار جبر، خود مختار مہلک نظام، اور اجتماعی نقصان کے ہتھیار*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
-**چوکڑی کی بہن ٹانگ:** [بروقت کارروائی](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)۔
+**چوکڑی کی بہن ٹانگ:** [بروقت کارروائی](core_05_apex_timeliness_leg.md#timeliness-constitutional)۔
 
 **آزاد اور نیم آزاد اصطلاحیں** [جوابدہی: آزاد اصطلاحیں](../../core_05_band_accountability.md#accountability-independent-terms) اور [جوابدہی: نیم آزاد اصطلاحیں](../../core_05_band_accountability.md#accountability-semi-independent-terms) کے تحت رہتی ہیں۔
 

@@ -74,7 +74,7 @@
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
 - [శ్రేయస్సు](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [పాల్గొనడం](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [పాల్గొనడం](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [గౌరవం మరియు సమాన నైతిక స్థానం](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [వాస్తవిక న్యాయం](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [భౌతికత](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
@@ -88,7 +88,7 @@
 
 ఈ రాజ్యాంగం కింద పాలించబడే అన్ని వ్యవస్థల అంతిమ లక్ష్యం సంజ్ఞ [శ్రేయస్సు](../../core_05_band_continuity.md#wellbeing)ను కాపాడి ముందుకు తీసుకెళ్ళడం — [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) కింద [**సమున్నతి**](#flourishing) లక్ష్యం.
 
-శ్రేయస్సు [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) కింద [పాల్గొనడం](../../core_05_apex_participation_leg.md#participation-constitutional)కు పునాది. అంతర్లీన శ్రేయస్సు పరిస్థితులు — [అర్థవంతమైన కర్తృత్వం](../../core_05_band_participation.md#meaningful-agency), న్యాయ ప్రవేశం, గౌరవం సహా — భౌతికంగా క్షీణించినప్పుడు భాగస్వామ్య వ్యవస్థలు పాల్గొనడం తీరినట్టు పరిగణించకూడదు.
+శ్రేయస్సు [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) కింద [పాల్గొనడం](core_05_apex_participation_leg.md#participation-constitutional)కు పునాది. అంతర్లీన శ్రేయస్సు పరిస్థితులు — [అర్థవంతమైన కర్తృత్వం](../../core_05_band_participation.md#meaningful-agency), న్యాయ ప్రవేశం, గౌరవం సహా — భౌతికంగా క్షీణించినప్పుడు భాగస్వామ్య వ్యవస్థలు పాల్గొనడం తీరినట్టు పరిగణించకూడదు.
 
 శ్రేయస్సులో తక్షణ ప్రభావాలు మాత్రమే కాదు, [**అధ్యాయాలు రెండు నుండి నాలుగు**](core_02_definition_structure.md) కింద అంచనా వేసిన పరోక్ష, ఆలస్య, సంచిత, వ్యవస్థల మధ్య పరిణామాలు కూడా ఉంటాయి. ఈ విలువ పొరలో, శ్రేయస్సు:
 - నిజమైన పాల్గొనడం సాధ్యం చేస్తుంది — సంజ్ఞ ప్రాణులు వాడే పరిస్థితులు లేని స్వరం అర్థవంతమైన పాల్గొనడం కాదు
@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పాల్గొనడం** కాలు (ప్రవేశం, స్వరం, సవాలు-యోగ్యత; సాధారణ అవసరం, కేవలం [ప్రభావిత పక్షాల వ్యవస్థాగత పాల్గొనడం](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) కాదు); లాభాలు, భారాలు అంటుకునే చోట **జవాబుదారీతనం** కాలు.
-- మూలం: సూత్రాలు: [§2 పునాది లక్ష్యం: శ్రేయస్సు](#2-foundational-objective-wellbeing) — [పాల్గొనడం](../../core_05_apex_participation_leg.md#participation-constitutional)కు పునాదిగా శ్రేయస్సు సహా.
+- మూలం: సూత్రాలు: [§2 పునాది లక్ష్యం: శ్రేయస్సు](#2-foundational-objective-wellbeing) — [పాల్గొనడం](core_05_apex_participation_leg.md#participation-constitutional)కు పునాదిగా శ్రేయస్సు సహా.
 - గమ్యం: [2.2 గుర్తింపు, బలపరచడం, ఆకాంక్ష](#22-recognition-reinforcement-and-aspiration); [4. విశ్వాసం](#4-system-stability-enabler-trust-coordination-integrity), [§9 బాధ్యతాయుత నిర్వహణ మరియు పంపిణీ అవగాహన](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. ప్రక్రియ సంఘర్షణ పరిష్కారం](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), ప్రాధాన్యత, కేటాయింపు ఎంపికలు సమన్వయంగా, సమీక్షించదగినవిగా ఉండాల్సిన చోట [§6.1 నిర్ణయ-రికార్డు క్రమశిక్షణ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - ఉపవిభాగాలు (చదివే క్రమం): [§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment).
 - గమ్యం: సమాన స్థానం, ఏకపక్షం కాని వ్యవహారం, అర్థవంతమైన సవాలు, అనుపాత పరిమితి పరిమితులకు హక్కుల ఉపరితలాన్ని రూపొందిస్తుంది.
@@ -118,7 +118,7 @@
 
 - [గౌరవం మరియు సమాన నైతిక స్థానం](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [ప్రవేశ్యత](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
-- [పాల్గొనడం](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [పాల్గొనడం](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [ప్రక్రియా న్యాయం](../../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [వాస్తవిక న్యాయం](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [రక్షిత లక్షణాలు](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
@@ -134,7 +134,7 @@
 
 **న్యాయం** సంజ్ఞ ప్రాణులు భాగస్వామ్య వ్యవస్థల ద్వారా జీవించాల్సిన, పని చేయాల్సిన, నేర్చుకోవాల్సిన, వ్యాపారం చేయాల్సిన, లేదా నిర్ణయాలు తీసుకోవాల్సినప్పుడు [§2](#2-foundational-objective-wellbeing) కోరేదానిలో భాగం. భాగస్వామ్య వ్యవస్థలు సంజ్ఞ ప్రాణులను భౌతికంగా ప్రభావితం చేసే చోట, న్యాయం అవకాశం, వ్యవహారం, లాభాలు-భారాల విభజన [గౌరవం మరియు సమాన నైతిక స్థానం](../../core_05_band_participation.md#dignity-and-equal-moral-standing)ను గౌరవిస్తున్నాయా అని అడుగుతుంది.
 
-న్యాయం [పాల్గొనడం](../../core_05_apex_participation_leg.md#participation-constitutional)ను నిజం చేయడానికి సహాయపడుతుంది. సంజ్ఞ ప్రాణులకు కాగితంపై స్వరం ఉన్నా ప్రక్రియకు చేరలేకపోతే, నియమం అర్థం కాకపోతే, షరతులు తీర్చలేకపోతే, ఫలితాన్ని సవాలు చేయలేకపోతే, లేదా వారిపై మోపిన భారం భరించలేకపోతే పాల్గొనడం నిజం కాదు.
+న్యాయం [పాల్గొనడం](core_05_apex_participation_leg.md#participation-constitutional)ను నిజం చేయడానికి సహాయపడుతుంది. సంజ్ఞ ప్రాణులకు కాగితంపై స్వరం ఉన్నా ప్రక్రియకు చేరలేకపోతే, నియమం అర్థం కాకపోతే, షరతులు తీర్చలేకపోతే, ఫలితాన్ని సవాలు చేయలేకపోతే, లేదా వారిపై మోపిన భారం భరించలేకపోతే పాల్గొనడం నిజం కాదు.
 
 వ్యవస్థ మంచి సగటు ఫలితం చూపించడం చాలదు. ఒక శీర్షిక మెట్రిక్, సగటు, ర్యాంకింగ్, లేదా సమర్థత వాదన స్వయంగా న్యాయం రుజువు చేయదు. వ్యవస్థ సమగ్రంగా విజయవంతంగా కనిపించి, బయట పెట్టబడిన, తప్పుగా వర్గీకరించబడిన, తక్కువ చెల్లింపు పొందిన, అధిక భారం మోసిన, లేదా అర్థవంతంగా అభ్యంతరం చెప్పే అవకాశం నిరాకరించబడిన సంజ్ఞ ప్రాణులకు అన్యాయంగా ఉండవచ్చు.
 
@@ -143,7 +143,7 @@
 <a id="211-access-and-opportunity"></a>
 ##### 2.1.1 ప్రవేశం మరియు అవకాశం
 
-- సంజ్ఞ ప్రాణులకు [పాల్గొనడం](../../core_05_apex_participation_leg.md#participation-constitutional), విద్య, పని, సంరక్షణ, భద్రత, కదలిక, సాధారణ జీవితానికి ముఖ్యమైన ఇతర వస్తువులకు ఆచరణాత్మక మార్గాలు అవసరం.
+- సంజ్ఞ ప్రాణులకు [పాల్గొనడం](core_05_apex_participation_leg.md#participation-constitutional), విద్య, పని, సంరక్షణ, భద్రత, కదలిక, సాధారణ జీవితానికి ముఖ్యమైన ఇతర వస్తువులకు ఆచరణాత్మక మార్గాలు అవసరం.
 - ఆ మార్గాలు ఏకపక్ష లేదా అసంబద్ధ కారణాలతో అడ్డుపడకూడదు, ధర బయట పెట్టకూడదు, ఆలస్యం చేయకూడదు, దాచకూడదు, వంచకూడదు.
 - ఈ రాజ్యాంగం **వాస్తవిక** అవకాశం కోరే చోట కాగితంపై మాత్రమే తెరిచిన తలుపు చాలదు.
 
@@ -162,7 +162,7 @@
 - వివరణాత్మక నియమాలు అధ్యాయం ఐదు ద్వారా తీసుకువెళ్తాయి, [రక్షిత లక్షణాలు](../../core_05_band_participation.md#protected-characteristics-constitutional) మరియు [రక్షిత లక్షణ ప్రతినిధి వాడుక మరియు అసమాన ప్రభావం](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) సహా.
 - నిర్ణయం ఎవరినైనా తీవ్రంగా ప్రభావితం చేసినప్పుడు, లేదా వారు సవాలు చేసినప్పుడు, అధ్యాయం ఆరు లేదా పాలించే పత్రం నోటీసు, విచారణ, వివరణ, లేదా సమీక్ష కోరే చోట సమీక్ష మార్గం [ప్రక్రియా న్యాయం](../../core_05_band_participation.md#procedural-fairness-constitutional) తీర్చాలి.
 
-వాదించిన శ్రేయస్సు ఏకపక్ష మినహాయింపు, వివరించని లేదా అస్థిర నియమాలు, దాచిన వెలికితీత, లేదా పాల్గొనడం అర్థవంతం చేసే న్యాయ పరిస్థితులు విఫలమైనప్పుడు కాగితపు [పాల్గొనడం](../../core_05_apex_participation_leg.md#participation-constitutional)పై ఆధారపడితే [§2](#2-foundational-objective-wellbeing)తో అనుగుణం కాదు.
+వాదించిన శ్రేయస్సు ఏకపక్ష మినహాయింపు, వివరించని లేదా అస్థిర నియమాలు, దాచిన వెలికితీత, లేదా పాల్గొనడం అర్థవంతం చేసే న్యాయ పరిస్థితులు విఫలమైనప్పుడు కాగితపు [పాల్గొనడం](core_05_apex_participation_leg.md#participation-constitutional)పై ఆధారపడితే [§2](#2-foundational-objective-wellbeing)తో అనుగుణం కాదు.
 
 <a id="214-unfair-treatment"></a>
 ##### 2.1.4 అన్యాయ వ్యవహారం
@@ -182,7 +182,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — పేరుపెట్టిన గుర్తింపు, ప్రశంస, లేదా ఆకాంక్ష మార్గాలు స్వరం, స్థితి, లేదా పరిణామ పాత్రల ప్రవేశాన్ని భౌతికంగా ప్రభావితం చేసే చోట **పాల్గొనడం** కాలు; **జవాబుదారీతనం** కాలు (ద్రోహం, దాచడం, జవాబుదారీతనం తప్పించుకోవడానికి బహుమతి-నిరోధం); **పర్యవేక్షణ** కాలు (అనుసరణీయ, తప్పుదోవ పట్టించని ప్రశంస).
-- మూలం: సూత్రాలు: [§2 పునాది లక్ష్యం: శ్రేయస్సు](#2-foundational-objective-wellbeing) — [పాల్గొనడం](../../core_05_apex_participation_leg.md#participation-constitutional)కు పునాదిగా శ్రేయస్సు సహా; [§2.1 న్యాయం](#21-fairness).
+- మూలం: సూత్రాలు: [§2 పునాది లక్ష్యం: శ్రేయస్సు](#2-foundational-objective-wellbeing) — [పాల్గొనడం](core_05_apex_participation_leg.md#participation-constitutional)కు పునాదిగా శ్రేయస్సు సహా; [§2.1 న్యాయం](#21-fairness).
 - గమ్యం: [4. విశ్వాసం](#4-system-stability-enabler-trust-coordination-integrity); [§9 బాధ్యతాయుత నిర్వహణ మరియు పంపిణీ అవగాహన](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§10 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [§5 స్వేచ్ఛ](#5-freedom-bounded-agency).
 - దీనితో చదవండి: **డొమైన్-అనుగుణ** గుర్తింపు లేదా తులనాత్మక **సహకార అక్షం / ఉల్లంఘన అక్షం** వివరణ కథనాలు భౌతికమైన చోట [అధ్యాయం ఎనిమిది §§4.3–4.4 — సాధారణీకరించిన వివరణ కేటలాగ్](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles).
 - దీనితో చదవండి: సహకార స్వభావం, గుర్తింపు కథనాలు భౌతికమైన చోట [అధ్యాయం ఎనిమిది §4.3 — సహకార-వైపు వివరణలు](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles); ప్రశ్న 3లో వాటి సమాకలనానికి [అధ్యాయం తొమ్మిది §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization).
@@ -195,7 +195,7 @@
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
 - [శ్రేయస్సు](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [పాల్గొనడం](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [పాల్గొనడం](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [వాస్తవిక న్యాయం](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [సవాలు-యోగ్యత](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [అర్థవంతమైన కర్తృత్వం](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
@@ -207,7 +207,7 @@
 
 *సాధారణ మాటల్లో: శ్రేయస్సు నిషేధించినది, న్యాయమైనది మాత్రమే కాదు — భాగస్వామ్య వ్యవస్థలు పునరావృతం కావాలనుకునే ప్రవర్తనను సత్యం, హక్కుల లోపల నిజాయితీగా ప్రోత్సహించి బహుమతి ఇవ్వాలి, నిజమైన పాల్గొనడానికి బదులు కాకుండా ఆధారం చేసే విధాల్లో. విజయాలను జరుపుకోవడం అంటే నిజమైన సహకారం, మరమ్మత్తు, పూర్తి చేయడానికి క్రెడిట్, హైప్ లేదా మార్చిన మెట్రిక్‌లు కాదు. రాజ్యాంగ ద్రోహం, దాచడం, ప్రతీకారం, లేదా జవాబుదారీతనం తప్పించుకోవడానికి బహుమతి నిరాకరించడం కూడా — ఆ చర్యలు సంస్థాగత లాభం ఇచ్చినా.*
 
-**మూడు కోణాలు.** శ్రేయస్సు వ్యవస్థలు ఏమి నిషేధిస్తాయి, ఖర్చులు ఎంత న్యాయంగా పంచుతాయి అనే వాటిపై ఆధారపడుతుంది — అలాగే అవి బహిరంగంగా ఏమి విలువైనదిగా చూపిస్తాయి, బలపరుస్తాయి, సంజ్ఞ ప్రాణులు అనుసరించేలా సహాయం చేస్తాయి అనే వాటిపై. ఈ విభాగం ఆ గుర్తింపు, బలపరచడం, ఆకాంక్ష కర్తవ్యాలు చెబుతుంది. స్వరం, స్థితి, లేదా ప్రవేశాన్ని భౌతికంగా ప్రభావితం చేసే గుర్తింపు, ప్రశంస [§2](#2-foundational-objective-wellbeing), [§2.1 న్యాయం](#21-fairness) కింద [పాల్గొనడం](../../core_05_apex_participation_leg.md#participation-constitutional)తో అనుగుణంగా ఉండాలి. ఇది [§2.1 న్యాయం](#21-fairness)తో కలిసి వర్తిస్తుంది, భద్రత, సత్యం, అధ్యాయం ఆరు హక్కుల నేలకు కట్టుబడి ఉంటుంది.
+**మూడు కోణాలు.** శ్రేయస్సు వ్యవస్థలు ఏమి నిషేధిస్తాయి, ఖర్చులు ఎంత న్యాయంగా పంచుతాయి అనే వాటిపై ఆధారపడుతుంది — అలాగే అవి బహిరంగంగా ఏమి విలువైనదిగా చూపిస్తాయి, బలపరుస్తాయి, సంజ్ఞ ప్రాణులు అనుసరించేలా సహాయం చేస్తాయి అనే వాటిపై. ఈ విభాగం ఆ గుర్తింపు, బలపరచడం, ఆకాంక్ష కర్తవ్యాలు చెబుతుంది. స్వరం, స్థితి, లేదా ప్రవేశాన్ని భౌతికంగా ప్రభావితం చేసే గుర్తింపు, ప్రశంస [§2](#2-foundational-objective-wellbeing), [§2.1 న్యాయం](#21-fairness) కింద [పాల్గొనడం](core_05_apex_participation_leg.md#participation-constitutional)తో అనుగుణంగా ఉండాలి. ఇది [§2.1 న్యాయం](#21-fairness)తో కలిసి వర్తిస్తుంది, భద్రత, సత్యం, అధ్యాయం ఆరు హక్కుల నేలకు కట్టుబడి ఉంటుంది.
 
 <a id="221-recognition-and-reinforcement"></a>
 ##### 2.2.1 గుర్తింపు మరియు బలపరచడం
@@ -249,7 +249,7 @@
 <a id="225-aligned-recognition-pathways"></a>
 ##### 2.2.5 అనుగుణ గుర్తింపు మార్గాలు
 
-**స్థితి**, **వనరులు**, లేదా **భౌతిక ప్రవేశం** **కేటాయించే** పేరుపెట్టిన గుర్తింపు మార్గాలు, ప్రశంస, బహుమతులు, ధృవీకరణ, ప్రస్థితి, కీర్తి ప్రభావాలు, లేదా సమాన ప్రోత్సాహకాలు సత్యం, భద్రత, **అధ్యాయం ఆరు** కేటాయించిన చోట సవాలు-యోగ్య ప్రక్రియ, [పాల్గొనడం](../../core_05_apex_participation_leg.md#participation-constitutional), [ప్రోత్సాహక అనుగుణత](../../core_05_band_integrative.md#incentive-alignment)తో అనుగుణంగా ఉండాలి.
+**స్థితి**, **వనరులు**, లేదా **భౌతిక ప్రవేశం** **కేటాయించే** పేరుపెట్టిన గుర్తింపు మార్గాలు, ప్రశంస, బహుమతులు, ధృవీకరణ, ప్రస్థితి, కీర్తి ప్రభావాలు, లేదా సమాన ప్రోత్సాహకాలు సత్యం, భద్రత, **అధ్యాయం ఆరు** కేటాయించిన చోట సవాలు-యోగ్య ప్రక్రియ, [పాల్గొనడం](core_05_apex_participation_leg.md#participation-constitutional), [ప్రోత్సాహక అనుగుణత](../../core_05_band_integrative.md#incentive-alignment)తో అనుగుణంగా ఉండాలి.
 
 అవి హాని, మోసం, పర్యవేక్షణ తప్పించుకోవడం, వెలికితీత, లేదా అర్థవంతమైన కర్తృత్వం క్షీణతను వ్యవస్థాగతంగా బహుమతి ఇవ్వ **కూడదు**.
 
@@ -447,7 +447,7 @@
 
 *సాధారణ మాటల్లో: సంజ్ఞ ప్రాణులను బంధించే నియమాలు, నిర్ణయాలు, నోటీసులు సంజ్ఞ ప్రాణులు నిజంగా చదవగల, అర్థం చేసుకోగల, చర్య తీసుకోగల విధంగా రాయాలి — మరియు పరిభాష, పేర్చిన సంక్లిష్టత, లేదా ప్రక్రియా అస్పష్టత సవాలు-యోగ్యత, కర్తృత్వం, లేదా ఆడిట్‌ను ఓడించడానికి వాడకూడదు.*
 
-సంజ్ఞ ప్రాణులను బంధించే రాజ్యాంగ, పాలన, తీర్పు, సంచాలక పాఠానికి **సాధారణ-భాష ప్రవేశ్యత కర్తవ్యం** వర్తిస్తుంది. సంజ్ఞ ప్రాణులు హక్కులు వ్యాయామం చేయడానికి, పాలనలో పాల్గొనడానికి, నిర్ణయాలు సవాలు చేయడానికి, లేదా అనుసరణ ధృవీకరించడానికి ఆ పాఠంతో నిమగ్నం కావాల్సినప్పుడు అదే కర్తవ్యం వర్తిస్తుంది. ఇది [పాల్గొనడం](../../core_05_apex_participation_leg.md#participation-constitutional) అవసరం: తమను బంధించే నియమాలు అర్థం కాని సంజ్ఞ ప్రాణులు ఆ నియమాలు పాలించే వ్యవస్థల్లో అర్థవంతంగా పాల్గొనలేరు.
+సంజ్ఞ ప్రాణులను బంధించే రాజ్యాంగ, పాలన, తీర్పు, సంచాలక పాఠానికి **సాధారణ-భాష ప్రవేశ్యత కర్తవ్యం** వర్తిస్తుంది. సంజ్ఞ ప్రాణులు హక్కులు వ్యాయామం చేయడానికి, పాలనలో పాల్గొనడానికి, నిర్ణయాలు సవాలు చేయడానికి, లేదా అనుసరణ ధృవీకరించడానికి ఆ పాఠంతో నిమగ్నం కావాల్సినప్పుడు అదే కర్తవ్యం వర్తిస్తుంది. ఇది [పాల్గొనడం](core_05_apex_participation_leg.md#participation-constitutional) అవసరం: తమను బంధించే నియమాలు అర్థం కాని సంజ్ఞ ప్రాణులు ఆ నియమాలు పాలించే వ్యవస్థల్లో అర్థవంతంగా పాల్గొనలేరు.
 
 <a id="341-scope"></a>
 ##### 3.4.1 పరిధి

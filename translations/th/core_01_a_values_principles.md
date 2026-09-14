@@ -74,7 +74,7 @@
 <summary><strong><span style="color: #2563eb;">บทนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
 - [ความผาสุก](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [การมีส่วนร่วม](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [การมีส่วนร่วม](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [ศักดิ์ศรีและสถานะทางศีลธรรมที่เท่ากัน](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [ความเป็นธรรมที่เป็นสาระ](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [ความเป็นสาระ](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
@@ -88,7 +88,7 @@
 
 วัตถุประสงค์สูงสุดของระบบทั้งหมดที่ถูกปกครองภายใต้รัฐธรรมนูญนี้คือรักษาและผลักดัน [ความผาสุก](../../core_05_band_continuity.md#wellbeing) ของผู้มีความรู้สึก — เป้าประสงค์ [**ความเจริญงอกงาม**](#flourishing) ภายใต้ [สองเป้าประสงค์ทางรัฐธรรมนูญ](../../core_00_preamble.md#two-constitutional-aims)
 
-ความผาสุกเป็นฐานของ [การมีส่วนร่วม](../../core_05_apex_participation_leg.md#participation-constitutional) ภายใต้ [จตุรภาคทางรัฐธรรมนูญ](../../core_00_preamble.md#constitutional-tetrad) ระบบร่วมจะถือว่าการมีส่วนร่วมบรรลุแล้วไม่ได้เมื่อเงื่อนไขความผาสุกที่เป็นฐาน — รวม [พลังกระทำการที่มีความหมาย](../../core_05_band_participation.md#meaningful-agency) การเข้าถึงที่เป็นธรรม และศักดิ์ศรี — เสื่อมอย่างเป็นสาระ
+ความผาสุกเป็นฐานของ [การมีส่วนร่วม](core_05_apex_participation_leg.md#participation-constitutional) ภายใต้ [จตุรภาคทางรัฐธรรมนูญ](../../core_00_preamble.md#constitutional-tetrad) ระบบร่วมจะถือว่าการมีส่วนร่วมบรรลุแล้วไม่ได้เมื่อเงื่อนไขความผาสุกที่เป็นฐาน — รวม [พลังกระทำการที่มีความหมาย](../../core_05_band_participation.md#meaningful-agency) การเข้าถึงที่เป็นธรรม และศักดิ์ศรี — เสื่อมอย่างเป็นสาระ
 
 ความผาสุกรวมไม่เพียงผลทันที แต่ยังผลทางอ้อม ที่ล่าช้า สะสม และข้ามระบบ ซึ่งประเมินภายใต้ [**บทที่สองถึงสี่**](core_02_definition_structure.md) ที่ชั้นค่านิยมนี้ ความผาสุก:
 - ทำให้การมีส่วนร่วมจริงเป็นไปได้ — เสียงที่ผู้มีความรู้สึกไม่มีเงื่อนไขจะใช้ ไม่ใช่การมีส่วนร่วมที่มีความหมาย
@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - อ่านคู่กับ: [จตุรภาคทางรัฐธรรมนูญ](../../core_00_preamble.md#constitutional-tetrad) — ขา **การมีส่วนร่วม** (การเข้าถึง เสียง และความสามารถในการโต้แย้ง ข้อกำหนดทั่วไป ไม่ใช่เพียง [การมีส่วนร่วมในระบบของฝ่ายที่ได้รับผลกระทบ](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)) ขา **ความรับผิดชอบ** ในที่ที่ผลได้และภาระติด
-- ต้นทาง: หลักการ: [§2 วัตถุประสงค์พื้นฐาน: ความผาสุก](#2-foundational-objective-wellbeing) — รวมความผาสุกเป็นฐานของ [การมีส่วนร่วม](../../core_05_apex_participation_leg.md#participation-constitutional)
+- ต้นทาง: หลักการ: [§2 วัตถุประสงค์พื้นฐาน: ความผาสุก](#2-foundational-objective-wellbeing) — รวมความผาสุกเป็นฐานของ [การมีส่วนร่วม](core_05_apex_participation_leg.md#participation-constitutional)
 - ปลายทาง: [2.2 การรับรู้ การเสริมแรง และความมุ่งหวัง](#22-recognition-reinforcement-and-aspiration) [4. ความไว้วางใจ](#4-system-stability-enabler-trust-coordination-integrity) [§9 การบริหารอย่างรับผิดชอบและความเข้าใจแบบกระจาย](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) [6. การยุติความขัดแย้งของกระบวนการ](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) และ [วินัยบันทึกคำตัดสิน §6.1](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) ในที่ที่การเลือกลำดับก่อนหลังและการจัดสรรต้องคงสอดคล้องและทบทวนได้
 - หมวดย่อย (ลำดับอ่าน): [§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment)
 - ปลายทาง: หล่อพื้นผิวสิทธิสำหรับสถานะทางศีลธรรมที่เท่ากัน การปฏิบัติที่ไม่ตามอำเภอใจ การโต้แย้งที่มีความหมาย และขีดจำกัดการจำกัดตามสัดส่วน
@@ -118,7 +118,7 @@
 
 - [ศักดิ์ศรีและสถานะทางศีลธรรมที่เท่ากัน](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [การเข้าถึงได้](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
-- [การมีส่วนร่วม](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [การมีส่วนร่วม](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [ความเป็นธรรมเชิงวิธีดำเนินการ](../../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [ความเป็นธรรมที่เป็นสาระ](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [ลักษณะที่คุ้มครอง](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
@@ -134,7 +134,7 @@
 
 **ความเป็นธรรม** เป็นส่วนของสิ่งที่ [§2](#2-foundational-objective-wellbeing) กำหนดเมื่อใดก็ตามที่ผู้มีความรู้สึกต้องใช้ชีวิต ทำงาน เรียนรู้ ค้าขาย หรือตัดสินใจผ่านระบบร่วม ในที่ที่ระบบร่วมกระทบผู้มีความรู้สึกอย่างเป็นสาระ ความเป็นธรรมถามว่าโอกาส การปฏิบัติ และการแบ่งผลได้กับภาระเคารพ [ศักดิ์ศรีและสถานะทางศีลธรรมที่เท่ากัน](../../core_05_band_participation.md#dignity-and-equal-moral-standing) หรือไม่
 
-ความเป็นธรรมช่วยทำให้ [การมีส่วนร่วม](../../core_05_apex_participation_leg.md#participation-constitutional) จริง การมีส่วนร่วมไม่จริงเมื่อผู้มีความรู้สึกมีเสียงตามตัวอักษรแต่ไปถึงกระบวนการไม่ได้ เข้าใจกฎไม่ได้ เข้าเงื่อนไขไม่ได้ โต้แย้งผลไม่ได้ หรือแบกภาระที่ถูกวางไว้ไม่ได้
+ความเป็นธรรมช่วยทำให้ [การมีส่วนร่วม](core_05_apex_participation_leg.md#participation-constitutional) จริง การมีส่วนร่วมไม่จริงเมื่อผู้มีความรู้สึกมีเสียงตามตัวอักษรแต่ไปถึงกระบวนการไม่ได้ เข้าใจกฎไม่ได้ เข้าเงื่อนไขไม่ได้ โต้แย้งผลไม่ได้ หรือแบกภาระที่ถูกวางไว้ไม่ได้
 
 ไม่พอที่ระบบจะแสดงผลเฉลี่ยที่ดี ตัวชี้วัดพาดหัว ค่าเฉลี่ย อันดับ หรือข้อกล่าวอ้างประสิทธิภาพอย่างเดียวไม่พิสูจน์ความเป็นธรรม ระบบอาจดูสำเร็จในภาพรวมแล้วยังไม่เป็นธรรมต่อผู้มีความรู้สึกที่ถูกกีดกัน ถูกจำแนกผิด ได้รับค่าตอบแทนต่ำ ถูกภาระเกิน หรือถูกปฏิเสธโอกาสที่มีความหมายที่จะคัดค้าน
 
@@ -143,7 +143,7 @@
 <a id="211-access-and-opportunity"></a>
 ##### 2.1.1 การเข้าถึงและโอกาส
 
-- ผู้มีความรู้สึกต้องการเส้นทางปฏิบัติสู่ [การมีส่วนร่วม](../../core_05_apex_participation_leg.md#participation-constitutional) การศึกษา งาน การดูแล ความปลอดภัย การเคลื่อนที่ และสินค้าอื่นที่สำคัญต่อชีวิตธรรมดา
+- ผู้มีความรู้สึกต้องการเส้นทางปฏิบัติสู่ [การมีส่วนร่วม](core_05_apex_participation_leg.md#participation-constitutional) การศึกษา งาน การดูแล ความปลอดภัย การเคลื่อนที่ และสินค้าอื่นที่สำคัญต่อชีวิตธรรมดา
 - เส้นทางเหล่านั้นต้องไม่ถูกปิด กีดด้วยราคา ทำให้ล่าช้า ซ่อน หรือเอียงด้วยเหตุตามอำเภอใจหรือไม่เกี่ยว
 - ประตูที่เปิดเพียงบนกระดาษไม่พอในที่ที่รัฐธรรมนูญนี้กำหนดโอกาส **ที่เป็นสาระ**
 
@@ -162,7 +162,7 @@
 - กฎละเอียดถูกนำไปใช้ผ่านบทที่ห้า รวม [ลักษณะที่คุ้มครอง](../../core_05_band_participation.md#protected-characteristics-constitutional) และ [การใช้ตัวแทนลักษณะที่คุ้มครองและผลกระทบที่ไม่เท่า](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)
 - เมื่อคำตัดสินกระทบผู้ใดอย่างร้ายแรง หรือเมื่อผู้นั้นโต้แย้ง เส้นทางทบทวนต้องสนอง [ความเป็นธรรมเชิงวิธีดำเนินการ](../../core_05_band_participation.md#procedural-fairness-constitutional) ในที่ที่บทที่หกหรือตราสารที่กำกับกำหนดการแจ้ง การฟัง การอธิบาย หรือการทบทวน
 
-ความผาสุกที่กล่าวอ้างไม่สอดคล้องกับ [§2](#2-foundational-objective-wellbeing) หากขึ้นกับการกีดกันตามอำเภอใจ กฎที่ไม่อธิบายหรือไม่เสถียร การดูดซับที่ซ่อน หรือ [การมีส่วนร่วม](../../core_05_apex_participation_leg.md#participation-constitutional) ตามแบบขณะที่เงื่อนไขความเป็นธรรมที่ทำให้การมีส่วนร่วมมีความหมายล้มเหลว
+ความผาสุกที่กล่าวอ้างไม่สอดคล้องกับ [§2](#2-foundational-objective-wellbeing) หากขึ้นกับการกีดกันตามอำเภอใจ กฎที่ไม่อธิบายหรือไม่เสถียร การดูดซับที่ซ่อน หรือ [การมีส่วนร่วม](core_05_apex_participation_leg.md#participation-constitutional) ตามแบบขณะที่เงื่อนไขความเป็นธรรมที่ทำให้การมีส่วนร่วมมีความหมายล้มเหลว
 
 <a id="214-unfair-treatment"></a>
 ##### 2.1.4 การปฏิบัติที่ไม่เป็นธรรม
@@ -182,7 +182,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - อ่านคู่กับ: [จตุรภาคทางรัฐธรรมนูญ](../../core_00_preamble.md#constitutional-tetrad) — ขา **การมีส่วนร่วม** ในที่ที่เส้นทางที่มีชื่อของการรับรู้ การยกย่อง หรือความมุ่งหวังกระทบเสียง สถานะ หรือการเข้าถึงบทบาทที่มีผลอย่างเป็นสาระ ขา **ความรับผิดชอบ** (ต้านรางวัลสำหรับการทรยศ การปิดบัง และการเลี่ยงความรับผิดชอบ) ขา **การกำกับดูแล** (การยกย่องที่ตามรอยได้และไม่ทำให้เข้าใจผิด)
-- ต้นทาง: หลักการ: [§2 วัตถุประสงค์พื้นฐาน: ความผาสุก](#2-foundational-objective-wellbeing) — รวมความผาสุกเป็นฐานของ [การมีส่วนร่วม](../../core_05_apex_participation_leg.md#participation-constitutional) [§2.1 ความเป็นธรรม](#21-fairness)
+- ต้นทาง: หลักการ: [§2 วัตถุประสงค์พื้นฐาน: ความผาสุก](#2-foundational-objective-wellbeing) — รวมความผาสุกเป็นฐานของ [การมีส่วนร่วม](core_05_apex_participation_leg.md#participation-constitutional) [§2.1 ความเป็นธรรม](#21-fairness)
 - ปลายทาง: [4. ความไว้วางใจ](#4-system-stability-enabler-trust-coordination-integrity) [§9 การบริหารอย่างรับผิดชอบและความเข้าใจแบบกระจาย](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) [§10 การปกครองภายใต้วินัยการบริหารอย่างรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) [§5 เสรีภาพ](#5-freedom-bounded-agency)
 - อ่านคู่กับ: [บทที่แปด §§4.3–4.4 — บัญชีคำบรรยายที่ทำให้เป็นมาตรฐาน](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles) ในที่ที่การรับรู้ **ที่สอดคล้องกับโดเมน** หรือเรื่องเล่าคำบรรยายเปรียบเทียบของ **แกนการมีส่วนช่วย / แกนการละเมิด** เป็นสาระ
 - อ่านคู่กับ: [บทที่แปด §4.3 — คำบรรยายฝั่งการมีส่วนช่วย](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles) ในที่ที่ลักษณะการมีส่วนช่วยและเรื่องเล่าการรับรู้เป็นสาระ [บทที่เก้า §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization) สำหรับการรวมเข้าสู่คำถาม 3
@@ -195,7 +195,7 @@
 <summary><strong><span style="color: #2563eb;">บทนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
 - [ความผาสุก](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [การมีส่วนร่วม](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [การมีส่วนร่วม](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [ความเป็นธรรมที่เป็นสาระ](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [ความสามารถในการโต้แย้ง](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [พลังกระทำการที่มีความหมาย](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
@@ -207,7 +207,7 @@
 
 *พูดแบบตรง ๆ: ความผาสุกไม่ใช่เพียงสิ่งที่ห้ามและสิ่งที่เป็นธรรม — ระบบร่วมควรยังเชียร์และให้รางวัลอย่างซื่อตรงต่อความประพฤติที่ตนอยากให้เกิดซ้ำ ภายในความจริงและสิทธิ ในทางที่รองรับมากกว่าแทนที่การมีส่วนร่วมจริง การฉลองชัยหมายถึงให้เครดิตการมีส่วนช่วย การซ่อม และการทำให้เสร็จจริง ไม่ใช่กระแสหรือตัวชี้วัดที่ถูกปั่น ยังหมายถึงปฏิเสธการให้รางวัลการทรยศทางรัฐธรรมนูญ การปิดบัง การแก้แค้น หรือการเลี่ยงความรับผิดชอบ — แม้การกระทำนั้นจะให้ประโยชน์ต่อสถาบัน*
 
-**สามมิติ.** ความผาสุกขึ้นกับสิ่งที่ระบบห้ามและวิธีแจกต้นทุนอย่างเป็นธรรม — และยังขึ้นกับสิ่งที่ระบบให้ค่าอย่างเปิดเผย เสริมแรง และช่วยให้ผู้มีความรู้สึกไล่ตาม หมวดนี้กล่าวหน้าที่การรับรู้ การเสริมแรง และความมุ่งหวังเหล่านั้น การรับรู้และการยกย่องที่กระทบเสียง สถานะ หรือการเข้าถึงอย่างเป็นสาระต้องคงสอดคล้องกับ [การมีส่วนร่วม](../../core_05_apex_participation_leg.md#participation-constitutional) ภายใต้ [§2](#2-foundational-objective-wellbeing) และ [§2.1 ความเป็นธรรม](#21-fairness) มันใช้พร้อมกับ [§2.1 ความเป็นธรรม](#21-fairness) และยังถูกจำกัดด้วยความปลอดภัย ความจริง และพื้นสิทธิของบทที่หก
+**สามมิติ.** ความผาสุกขึ้นกับสิ่งที่ระบบห้ามและวิธีแจกต้นทุนอย่างเป็นธรรม — และยังขึ้นกับสิ่งที่ระบบให้ค่าอย่างเปิดเผย เสริมแรง และช่วยให้ผู้มีความรู้สึกไล่ตาม หมวดนี้กล่าวหน้าที่การรับรู้ การเสริมแรง และความมุ่งหวังเหล่านั้น การรับรู้และการยกย่องที่กระทบเสียง สถานะ หรือการเข้าถึงอย่างเป็นสาระต้องคงสอดคล้องกับ [การมีส่วนร่วม](core_05_apex_participation_leg.md#participation-constitutional) ภายใต้ [§2](#2-foundational-objective-wellbeing) และ [§2.1 ความเป็นธรรม](#21-fairness) มันใช้พร้อมกับ [§2.1 ความเป็นธรรม](#21-fairness) และยังถูกจำกัดด้วยความปลอดภัย ความจริง และพื้นสิทธิของบทที่หก
 
 <a id="221-recognition-and-reinforcement"></a>
 ##### 2.2.1 การรับรู้และการเสริมแรง
@@ -249,7 +249,7 @@
 <a id="225-aligned-recognition-pathways"></a>
 ##### 2.2.5 เส้นทางการรับรู้ที่สอดคล้อง
 
-เส้นทางการรับรู้ที่มีชื่อ การยกย่อง รางวัล การรับรอง ร่องรอย ผลชื่อเสียง หรือสิ่งจูงใจคล้ายที่ **จัดสรรสถานะ** **ทรัพยากร** หรือ **การเข้าถึงที่เป็นสาระ** ต้องคงสอดคล้องกับความจริง ความปลอดภัย วิธีดำเนินการที่โต้แย้งได้ในที่ที่ **บทที่หก** มอบหมาย [การมีส่วนร่วม](../../core_05_apex_participation_leg.md#participation-constitutional) และ [ความสอดคล้องของสิ่งจูงใจ](../../core_05_band_integrative.md#incentive-alignment)
+เส้นทางการรับรู้ที่มีชื่อ การยกย่อง รางวัล การรับรอง ร่องรอย ผลชื่อเสียง หรือสิ่งจูงใจคล้ายที่ **จัดสรรสถานะ** **ทรัพยากร** หรือ **การเข้าถึงที่เป็นสาระ** ต้องคงสอดคล้องกับความจริง ความปลอดภัย วิธีดำเนินการที่โต้แย้งได้ในที่ที่ **บทที่หก** มอบหมาย [การมีส่วนร่วม](core_05_apex_participation_leg.md#participation-constitutional) และ [ความสอดคล้องของสิ่งจูงใจ](../../core_05_band_integrative.md#incentive-alignment)
 
 พวกมัน **ต้องไม่** ให้รางวัลอย่างเป็นระบบแก่ภัย การหลอกลวง การเลี่ยงการตรวจสอบ การดูดซับ หรือการกัดกร่อนพลังกระทำการที่มีความหมาย
 
@@ -447,7 +447,7 @@
 
 *พูดแบบตรง ๆ: กฎ คำตัดสิน และการแจ้งที่ผูกผู้มีความรู้สึกต้องเขียนให้ผู้มีความรู้สึกอ่าน เข้าใจ และปฏิบัติตามได้จริง — และศัพท์เฉพาะ ความซับซ้อนซ้อน หรือความทึบของวิธีดำเนินการ จะถูกใช้เพื่อทำลายความสามารถในการโต้แย้ง พลังกระทำการ หรือการตรวจไม่ได้*
 
-**หน้าที่การเข้าถึงได้ด้วยภาษาเรียบง่าย** ใช้กับข้อความทางรัฐธรรมนูญ การปกครอง การชี้ขาด และการปฏิบัติการที่ผูกผู้มีความรู้สึก หน้าที่เดียวกันใช้เมื่อผู้มีความรู้สึกต้องเข้าถึงข้อความนั้นเพื่อใช้สิทธิ มีส่วนร่วมในการปกครอง โต้แย้งคำตัดสิน หรือตรวจสอบการปฏิบัติตาม นี่เป็นข้อกำหนด [การมีส่วนร่วม](../../core_05_apex_participation_leg.md#participation-constitutional): ผู้มีความรู้สึกที่เข้าใจกฎที่ผูกตนไม่ได้ ไม่สามารถมีส่วนร่วมอย่างมีความหมายในระบบที่กฎเหล่านั้นกำกับ
+**หน้าที่การเข้าถึงได้ด้วยภาษาเรียบง่าย** ใช้กับข้อความทางรัฐธรรมนูญ การปกครอง การชี้ขาด และการปฏิบัติการที่ผูกผู้มีความรู้สึก หน้าที่เดียวกันใช้เมื่อผู้มีความรู้สึกต้องเข้าถึงข้อความนั้นเพื่อใช้สิทธิ มีส่วนร่วมในการปกครอง โต้แย้งคำตัดสิน หรือตรวจสอบการปฏิบัติตาม นี่เป็นข้อกำหนด [การมีส่วนร่วม](core_05_apex_participation_leg.md#participation-constitutional): ผู้มีความรู้สึกที่เข้าใจกฎที่ผูกตนไม่ได้ ไม่สามารถมีส่วนร่วมอย่างมีความหมายในระบบที่กฎเหล่านั้นกำกับ
 
 <a id="341-scope"></a>
 ##### 3.4.1 ขอบเขต

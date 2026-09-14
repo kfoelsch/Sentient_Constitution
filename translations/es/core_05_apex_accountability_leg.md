@@ -22,7 +22,7 @@
 
 - Origen: [Brújula del Capítulo Cinco](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) (pata de rendición de cuentas; escalamiento por [enjuego material](core_00_preamble.md#material-stake)); [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims); finalidad primaria [Florecimiento](core_00_preamble.md#flourishing).
 - Destino: Principios: [§10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Capítulo Uno §11.6 Responsabilidad de sucesores y no elusión por estructura formal](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Descomposición de la pata de la Tétrada](#accountability-tetrad-leg-decomposition); definiciones hoja de la banda Rendición de cuentas en [core_05_band_accountability.md](../../core_05_band_accountability.md).
-- Pata hermana de la Tétrada: [Actuación a tiempo](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+- Pata hermana de la Tétrada: [Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 - Leer con: la [agrupación Rendición de cuentas, Impugnabilidad, Adjudicación y resolución de disputas, Falla colectiva de rendición de cuentas y Fuerza mayor](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Impugnabilidad](../../core_05_band_accountability.md#contestability), [Auditabilidad](../../core_05_band_oversight.md#auditability), [Acción atribuible](../../core_05_band_accountability.md#attributable-action-constitutional), [Integridad de atribución](../../core_05_band_accountability.md#attribution-integrity-constitutional), [Capítulo Uno §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape), [Capítulo Tres §2.1.1 Juegos de etiqueta formal y de representación](core_03_definition_integrity.md#211-formal-label-and-representation-gaming), y [Capítulo Nueve §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -69,7 +69,7 @@ Las definiciones hoja bajo esta pata heredan su alcance a menos que lo estrechen
 - **Def.A3 Estado de trayectoria, contribución y violación** — [Def.A3 *Estado de trayectoria, contribución y violación*](../../core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)
 - **Def.A4 Uso de la fuerza, coerción autónoma, sistemas letales autónomos y armas de daño masivo** — [Def.A4 *Uso de la fuerza, coerción autónoma, sistemas letales autónomos y armas de daño masivo*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
-**Pata hermana de la Tétrada:** [Actuación a tiempo](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+**Pata hermana de la Tétrada:** [Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 
 Los **términos independientes y semiindependientes** viven bajo [Rendición de cuentas: términos independientes](../../core_05_band_accountability.md#accountability-independent-terms) y [Rendición de cuentas: términos semiindependientes](../../core_05_band_accountability.md#accountability-semi-independent-terms).
 

@@ -22,7 +22,7 @@
 
 - En amont : [Boussole du Chapitre cinq](core_05__definitions_home.md#chapter-five-compass-and-definition-map) ; [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) (jambe de reddition de comptes ; mise à l’échelle par l’[enjeu matériel](core_00_preamble.md#material-stake)) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) ; fin primaire [Épanouissement](core_00_preamble.md#flourishing).
 - En aval : Principes : [§10 Gouvernance sous discipline d’administration responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) ; [Chapitre un §11.6 Responsabilité du successeur et non-échappatoire par structure formelle](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) ; [Décomposition de la jambe de la Tétrade](#accountability-tetrad-leg-decomposition) ; définitions feuille de la bande Reddition de comptes dans [core_05_band_accountability.md](../../core_05_band_accountability.md).
-- Jambe sœur de la Tétrade : [Action en temps](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+- Jambe sœur de la Tétrade : [Action en temps](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 - Lire avec : le [groupe Reddition de comptes, Contestabilité, Adjudication et résolution des différends, Défaillance collective de reddition de comptes et Force majeure](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Contestabilité](../../core_05_band_accountability.md#contestability), [Auditabilité](../../core_05_band_oversight.md#auditability), [Action attribuable](../../core_05_band_accountability.md#attributable-action-constitutional), [Intégrité d’attribution](../../core_05_band_accountability.md#attribution-integrity-constitutional), [Chapitre un §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape), [Chapitre trois §2.1.1 Jeux d’étiquettes formelles et de représentation](core_03_definition_integrity.md#211-formal-label-and-representation-gaming), et [Chapitre neuf §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -69,7 +69,7 @@ Les définitions feuille sous cette jambe héritent de sa portée à moins qu’
 - **Def.A3 État de trajectoire, contribution et infraction** — [Def.A3 *État de trajectoire, contribution et infraction*](../../core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)
 - **Def.A4 Usage de la force, contrainte autonome, systèmes létaux autonomes et armes de préjudice de masse** — [Def.A4 *Usage de la force, contrainte autonome, systèmes létaux autonomes et armes de préjudice de masse*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
-**Jambe sœur de la Tétrade :** [Action en temps](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+**Jambe sœur de la Tétrade :** [Action en temps](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 
 Les **termes indépendants et semi-indépendants** vivent sous [Reddition de comptes : termes indépendants](../../core_05_band_accountability.md#accountability-independent-terms) et [Reddition de comptes : termes semi-indépendants](../../core_05_band_accountability.md#accountability-semi-independent-terms).
 

@@ -22,7 +22,7 @@
 
 - Thượng nguồn: [La bàn Chương Năm](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) (trụ trách nhiệm giải trình; chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake)); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims); mục tiêu sơ cấp [Hưng thịnh](core_00_preamble.md#flourishing).
 - Hạ nguồn: Nguyên tắc: [§10 Quản trị dưới kỷ luật quản trị có trách nhiệm](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Chương Một §11.6 Trách nhiệm người kế và không-thoát cấu trúc hình thức](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Phân rã trụ Tứ diện](#accountability-tetrad-leg-decomposition); định nghĩa lá dải Trách nhiệm giải trình ở [core_05_band_accountability.md](../../core_05_band_accountability.md).
-- Trụ chị em của Tứ diện: [Kịp thời](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+- Trụ chị em của Tứ diện: [Kịp thời](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 - Đọc cùng: [cụm Trách nhiệm giải trình, Khả năng tranh biện, Phân xử và giải quyết tranh chấp, Thất bại trách nhiệm giải trình tập thể, và Bất khả kháng](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Khả năng tranh biện](../../core_05_band_accountability.md#contestability), [Khả năng kiểm toán](../../core_05_band_oversight.md#auditability), [Hành động gán được](../../core_05_band_accountability.md#attributable-action-constitutional), [Tính toàn vẹn gán](../../core_05_band_accountability.md#attribution-integrity-constitutional), [Chương Một §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape), [Chương Ba §2.1.1 Chơi nhãn hình thức và biểu diễn](core_03_definition_integrity.md#211-formal-label-and-representation-gaming), và [Chương Chín §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -69,7 +69,7 @@
 - **Def.A3 Trạng thái quỹ đạo, đóng góp, và vi phạm** — [Def.A3 *Trạng thái quỹ đạo, đóng góp, và vi phạm*](../../core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)
 - **Def.A4 Dùng lực, cưỡng tự trị, hệ thống sát thương tự trị, và vũ khí hại hàng loạt** — [Def.A4 *Dùng lực, cưỡng tự trị, hệ thống sát thương tự trị, và vũ khí hại hàng loạt*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
-**Trụ chị em của Tứ diện:** [Kịp thời](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+**Trụ chị em của Tứ diện:** [Kịp thời](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 
 Các **thuật ngữ độc lập và bán độc lập** sống dưới [Trách nhiệm giải trình: thuật ngữ độc lập](../../core_05_band_accountability.md#accountability-independent-terms) và [Trách nhiệm giải trình: thuật ngữ bán độc lập](../../core_05_band_accountability.md#accountability-semi-independent-terms).
 

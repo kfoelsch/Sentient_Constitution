@@ -12,7 +12,7 @@
 >
 > **السابق (هذه اللغة):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 >
-> **التالي (ما زال بالإنجليزية):** [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md)
+> **التالي (هذه اللغة):** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
 > **قوس القراءة:** O/M/A/C → تفكيك الرجل → أسرة القياس.
 
 </details>
@@ -126,6 +126,6 @@
 
 **الملف السابق (هذه اللغة):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
-**الملف التالي (ما زال بالإنجليزية):** [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md)
+**الملف التالي (هذه اللغة):** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
 
 **الأصل الملزم:** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)

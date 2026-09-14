@@ -22,7 +22,7 @@
 
 - மேல்வழி: [அத்தியாயம் ஐந்து திசைகாட்டி](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) (பொறுப்புக்கூறல் கால்; [பொருள் பங்கு](core_00_preamble.md#material-stake) அளவீடு); [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims); முதன்மை நோக்கம் [செழிப்பு](core_00_preamble.md#flourishing).
 - கீழ்வழி: கோட்பாடுகள்: [§10 பொறுப்பான நிர்வாகக் கட்டுப்பாட்டின் கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [அத்தியாயம் ஒன்று §11.6 வாரிசுப் பொறுப்பும் முறை-கட்டமைப்பு தப்பிக்காமையும்](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [நான்மக் கால் சிதைவு](#accountability-tetrad-leg-decomposition); [core_05_band_accountability.md](../../core_05_band_accountability.md)-இல் பொறுப்புக்கூறல் பட்டை இலை வரையறைகள்.
-- நான்மச் சகோதர கால்: [காலந்தவறாமை](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+- நான்மச் சகோதர கால்: [காலந்தவறாமை](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 - இதனுடன் படிக்க: [பொறுப்புக்கூறல், சவால் செய்யக்கூடிய தன்மை, தீர்ப்பும் தகராறுத் தீர்வும், கூட்டுப் பொறுப்புக்கூறல் தோல்வி, தவிர்க்க முடியாத சக்தி தொகுதி](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [சவால் செய்யக்கூடிய தன்மை](../../core_05_band_accountability.md#contestability), [தணிக்கைத்தன்மை](../../core_05_band_oversight.md#auditability), [பொறுப்பிடத்தக்க செயல்](../../core_05_band_accountability.md#attributable-action-constitutional), [பொறுப்பிடல் முழுமை](../../core_05_band_accountability.md#attribution-integrity-constitutional), [அத்தியாயம் ஒன்று §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape), [அத்தியாயம் மூன்று §2.1.1 முறைசார் சிட்டையும் பிரதிநிதித்துவ விளையாட்டும்](core_03_definition_integrity.md#211-formal-label-and-representation-gaming), மற்றும் [அத்தியாயம் ஒன்பது §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -69,7 +69,7 @@
 - **Def.A3 நிலைத்தட நிலை, பங்களிப்பு, மீறல்** — [Def.A3 *நிலைத்தட நிலை, பங்களிப்பு, மீறல்*](../../core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)
 - **Def.A4 பலப்பிரயோகம், தன்னியக்க வற்புறுத்தல், தன்னியக்க கொல்லும் அமைப்புகள், பெருந்தீங்கு ஆயுதங்கள்** — [Def.A4 *பலப்பிரயோகம், தன்னியக்க வற்புறுத்தல், தன்னியக்க கொல்லும் அமைப்புகள், பெருந்தீங்கு ஆயுதங்கள்*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
-**நான்மச் சகோதர கால்:** [காலந்தவறாமை](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+**நான்மச் சகோதர கால்:** [காலந்தவறாமை](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 
 **சுயாதீன மற்றும் அரை-சுயாதீன சொற்கள்** [பொறுப்புக்கூறல்: சுயாதீன சொற்கள்](../../core_05_band_accountability.md#accountability-independent-terms) மற்றும் [பொறுப்புக்கூறல்: அரை-சுயாதீன சொற்கள்](../../core_05_band_accountability.md#accountability-semi-independent-terms) கீழ் வாழ்கின்றன.
 

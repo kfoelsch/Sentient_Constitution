@@ -12,7 +12,7 @@
 >
 > **ก่อนหน้า (ภาษานี้):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 >
-> **ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md)
+> **ถัดไป (ภาษานี้):** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
 > **ส่วนโค้งการอ่าน:** O/M/A/C → การแยกขา → ตระกูลการวัด
 
 </details>
@@ -126,6 +126,6 @@
 
 **ไฟล์ก่อนหน้า (ภาษานี้):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
-**ไฟล์ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md)
+**ไฟล์ถัดไป (ภาษานี้):** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
 
 **ต้นฉบับที่มีผลผูกพัน:** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)

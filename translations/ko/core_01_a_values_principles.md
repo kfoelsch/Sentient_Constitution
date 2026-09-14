@@ -74,7 +74,7 @@
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
 - [복지](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [참여](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [참여](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [존엄과 평등한 도덕 지위](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [실체 공정](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [실질성](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
@@ -88,7 +88,7 @@
 
 이 헌법 아래에서 거버넌스되는 모든 체계의 궁극 목표는 감지자의 [복지](../../core_05_band_continuity.md#wellbeing)를 보존하고 진전시키는 것이다 — [두 헌법 목적](../../core_00_preamble.md#two-constitutional-aims) 아래 [**번영**](#flourishing) 목적.
 
-복지는 [헌법 사원(四元)](../../core_00_preamble.md#constitutional-tetrad) 아래 [참여](../../core_05_apex_participation_leg.md#participation-constitutional)의 기초다. 밑바닥 복지 조건 — [의미 있는 행위주체성](../../core_05_band_participation.md#meaningful-agency), 공정한 접근, 존엄을 포함 — 이 실질로 저하되면, 공유 체계는 참여가 충족된 것으로 다루면 안 된다.
+복지는 [헌법 사원(四元)](../../core_00_preamble.md#constitutional-tetrad) 아래 [참여](core_05_apex_participation_leg.md#participation-constitutional)의 기초다. 밑바닥 복지 조건 — [의미 있는 행위주체성](../../core_05_band_participation.md#meaningful-agency), 공정한 접근, 존엄을 포함 — 이 실질로 저하되면, 공유 체계는 참여가 충족된 것으로 다루면 안 된다.
 
 복지는 즉각 효과만이 아니라 간접, 지연, 누적, 체계 간 결과도 포함하며, [**제2장부터 제4장**](core_02_definition_structure.md) 아래에서 평가한다. 이 가치 층에서 복지는:
 - 실제 참여를 가능하게 한다 — 감지자가 쓸 조건이 없는 목소리는 의미 있는 참여가 아니다
@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 함께 읽기: [헌법 사원(四元)](../../core_00_preamble.md#constitutional-tetrad) — **참여** 다리(접근, 목소리, 다툴 수 있음; 일반 요건이지 [영향받는 쪽의 체계 참여](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)만이 아님); 이익과 부담이 붙는 곳에서 **책무** 다리.
-- 상류: 원칙: [§2 기초 목표: 복지](#2-foundational-objective-wellbeing) — [참여](../../core_05_apex_participation_leg.md#participation-constitutional)의 기초로서의 복지를 포함.
+- 상류: 원칙: [§2 기초 목표: 복지](#2-foundational-objective-wellbeing) — [참여](core_05_apex_participation_leg.md#participation-constitutional)의 기초로서의 복지를 포함.
 - 하류: [2.2 인정, 강화, 지향](#22-recognition-reinforcement-and-aspiration); [4. 신뢰](#4-system-stability-enabler-trust-coordination-integrity), [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§6.1 결정 기록 규율](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), 우선과 배분 선택이 일관되고 검토 가능해야 하는 곳에서.
 - 하위절(읽기 순서): [§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment).
 - 하류: 평등한 도덕 지위, 자의적이지 않은 대우, 의미 있는 다툼, 비례 제한 한도의 권리 면을 빚는다.
@@ -118,7 +118,7 @@
 
 - [존엄과 평등한 도덕 지위](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [접근성](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
-- [참여](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [참여](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [절차 공정](../../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [실체 공정](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [보호 특성](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
@@ -134,7 +134,7 @@
 
 **공정**은 감지자가 공유 체계를 통해 살고, 일하고, 배우고, 거래하거나 결정을 내려야 할 때마다 [§2](#2-foundational-objective-wellbeing)가 요구하는 것의 일부다. 공유 체계가 감지자에게 실질로 영향을 미치는 곳에서, 공정은 기회, 대우, 이익과 부담의 나눔이 [존엄과 평등한 도덕 지위](../../core_05_band_participation.md#dignity-and-equal-moral-standing)를 존중하는지를 묻는다.
 
-공정은 [참여](../../core_05_apex_participation_leg.md#participation-constitutional)를 실제로 만드는 데 돕는다. 감지자가 종이 위로는 목소리가 있어도 과정에 닿지 못하고, 규칙을 이해하지 못하고, 조건을 충족하지 못하고, 결과를 다투지 못하고, 얹힌 부담을 감당하지 못하면, 참여는 실제가 아니다.
+공정은 [참여](core_05_apex_participation_leg.md#participation-constitutional)를 실제로 만드는 데 돕는다. 감지자가 종이 위로는 목소리가 있어도 과정에 닿지 못하고, 규칙을 이해하지 못하고, 조건을 충족하지 못하고, 결과를 다투지 못하고, 얹힌 부담을 감당하지 못하면, 참여는 실제가 아니다.
 
 체계가 좋은 평균 결과를 보여 주는 것만으로는 부족하다. 헤드라인 지표, 평균, 순위, 효율 주장 하나가 그것만으로 공정을 증명하지 않는다. 체계는 합산에서는 성공처럼 보이면서도, 배제되고, 잘못 분류되고, 적게 받고, 과부하되고, 의미 있는 이의 기회를 거부당한 감지자에게는 여전히 불공정할 수 있다.
 
@@ -143,7 +143,7 @@
 <a id="211-access-and-opportunity"></a>
 ##### 2.1.1 접근과 기회
 
-- 감지자는 [참여](../../core_05_apex_participation_leg.md#participation-constitutional), 교육, 일, 돌봄, 안전, 이동, 그 밖에 일상에 중요한 재화로 가는 실제 경로가 필요하다.
+- 감지자는 [참여](core_05_apex_participation_leg.md#participation-constitutional), 교육, 일, 돌봄, 안전, 이동, 그 밖에 일상에 중요한 재화로 가는 실제 경로가 필요하다.
 - 그 경로는 자의적이거나 관련 없는 이유로 막히거나, 가격으로 밀려나거나, 지연되거나, 숨겨지거나, 기울어지면 안 된다.
 - 이 헌법이 **실체적** 기회를 요구하는 곳에서, 종이 위에서만 열린 문으로는 부족하다.
 
@@ -162,7 +162,7 @@
 - 세부는 제5장을 통해 실리고, [보호 특성](../../core_05_band_participation.md#protected-characteristics-constitutional)과 [보호 특성 대리와 차별 영향](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)을 포함한다.
 - 결정이 누군가에게 심각하게 영향을 미치거나 그 사람이 다툴 때, 제6장이나 통할 문서가 통지, 청문, 설명, 검토를 요구하는 곳에서, 검토 경로는 [절차 공정](../../core_05_band_participation.md#procedural-fairness-constitutional)을 충족해야 한다.
 
-주장된 복지가 자의적 배제, 설명되지 않거나 불안정한 규칙, 숨은 추출, 참여를 의미 있게 만드는 공정 조건이 실패한 채의 형식 [참여](../../core_05_apex_participation_leg.md#participation-constitutional)에 기대면, [§2](#2-foundational-objective-wellbeing)와 정합하지 않는다.
+주장된 복지가 자의적 배제, 설명되지 않거나 불안정한 규칙, 숨은 추출, 참여를 의미 있게 만드는 공정 조건이 실패한 채의 형식 [참여](core_05_apex_participation_leg.md#participation-constitutional)에 기대면, [§2](#2-foundational-objective-wellbeing)와 정합하지 않는다.
 
 <a id="214-unfair-treatment"></a>
 ##### 2.1.4 불공정한 대우
@@ -182,7 +182,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 함께 읽기: [헌법 사원(四元)](../../core_00_preamble.md#constitutional-tetrad) — 명명된 인정, 칭송, 지향 경로가 목소리, 지위, 결과가 있는 역할에의 접근에 실질로 영향을 미치는 곳에서 **참여** 다리; **책무** 다리(배신, 은폐, 책무 회피에 대한 반보상); **감독** 다리(추적 가능하고 오도하지 않는 칭송).
-- 상류: 원칙: [§2 기초 목표: 복지](#2-foundational-objective-wellbeing) — [참여](../../core_05_apex_participation_leg.md#participation-constitutional)의 기초로서의 복지를 포함; [§2.1 공정](#21-fairness).
+- 상류: 원칙: [§2 기초 목표: 복지](#2-foundational-objective-wellbeing) — [참여](core_05_apex_participation_leg.md#participation-constitutional)의 기초로서의 복지를 포함; [§2.1 공정](#21-fairness).
 - 하류: [4. 신뢰](#4-system-stability-enabler-trust-coordination-integrity); [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§10 책임 있는 관리 규율 아래 거버넌스](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [§5 자유](#5-freedom-bounded-agency).
 - 함께 읽기: **영역 정합** 인정이나 비교 **기여 축 / 위반 축** 서술자 서사가 실질인 곳에서 [제8장 §§4.3–4.4 — 정규화 서술자 목록](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles).
 - 함께 읽기: 기여 성질과 인정 서사가 실질인 곳에서 [제8장 §4.3 — 기여 쪽 서술자](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles); 질문 3으로의 통합을 위해 [제9장 §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization).
@@ -195,7 +195,7 @@
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
 - [복지](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [참여](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [참여](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [실체 공정](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [다툴 수 있음](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [의미 있는 행위주체성](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
@@ -207,7 +207,7 @@
 
 *쉬운 말로: 복지는 무엇이 금지되고 무엇이 공정한지만이 아닙니다 — 공유 체계는 또한 진실과 권리 안에서, 반복되기를 바라는 행위를 정직하게 환호하고 보상해야 하며, 실제 참여를 대체하지 않고 받치는 방식으로 해야 합니다. 성공을 축하한다는 것은 실제 기여, 수리, 완성을 인정하는 것이지, 과대선전이나 조작된 지표가 아닙니다. 그것은 또한 헌법상 배신, 은폐, 보복, 책무 회피를 보상하기를 거부함을 뜻합니다 — 그 행위가 제도적 이득을 냈더라도.*
 
-**세 차원.** 복지는 체계가 무엇을 금하고 비용을 얼마나 공정하게 나누는지에 달렸고 — 또한 무엇을 보이게 소중히 여기고, 강화하고, 감지자가 추구하도록 돕는지에도 달렸다. 이 절은 그 인정, 강화, 지향 의무를 말한다. 목소리, 지위, 접근에 실질로 영향을 미치는 인정과 칭송은 [§2](#2-foundational-objective-wellbeing)와 [§2.1 공정](#21-fairness) 아래 [참여](../../core_05_apex_participation_leg.md#participation-constitutional)와 일관되어야 한다. [§2.1 공정](#21-fairness)과 함께 적용되며, 안전, 진실, 제6장 권리 바닥으로 한정된다.
+**세 차원.** 복지는 체계가 무엇을 금하고 비용을 얼마나 공정하게 나누는지에 달렸고 — 또한 무엇을 보이게 소중히 여기고, 강화하고, 감지자가 추구하도록 돕는지에도 달렸다. 이 절은 그 인정, 강화, 지향 의무를 말한다. 목소리, 지위, 접근에 실질로 영향을 미치는 인정과 칭송은 [§2](#2-foundational-objective-wellbeing)와 [§2.1 공정](#21-fairness) 아래 [참여](core_05_apex_participation_leg.md#participation-constitutional)와 일관되어야 한다. [§2.1 공정](#21-fairness)과 함께 적용되며, 안전, 진실, 제6장 권리 바닥으로 한정된다.
 
 <a id="221-recognition-and-reinforcement"></a>
 ##### 2.2.1 인정과 강화
@@ -249,7 +249,7 @@
 <a id="225-aligned-recognition-pathways"></a>
 ##### 2.2.5 정합된 인정 경로
 
-**지위**, **자원**, **실질 접근**을 배분하는 명명된 인정 경로, 칭송, 상, 인증, 궤적, 평판 효과, 비슷한 유인은 진실, 안전, **제6장**이 지정하는 곳의 다툴 수 있는 절차, [참여](../../core_05_apex_participation_leg.md#participation-constitutional), [유인 정합](../../core_05_band_integrative.md#incentive-alignment)과 일관되어야 한다.
+**지위**, **자원**, **실질 접근**을 배분하는 명명된 인정 경로, 칭송, 상, 인증, 궤적, 평판 효과, 비슷한 유인은 진실, 안전, **제6장**이 지정하는 곳의 다툴 수 있는 절차, [참여](core_05_apex_participation_leg.md#participation-constitutional), [유인 정합](../../core_05_band_integrative.md#incentive-alignment)과 일관되어야 한다.
 
 그것들은 해, 기만, 검토 회피, 추출, 의미 있는 행위주체성의 침식을 **체계적으로 보상해서는 안 된다**.
 
@@ -447,7 +447,7 @@
 
 *쉬운 말로: 감지자를 묶는 규칙, 결정, 통지는 감지자가 실제로 읽고, 이해하고, 그에 따라 행동할 수 있게 써야 합니다 — 은어, 쌓인 복잡성, 절차의 불투명은 다툴 수 있음, 행위주체성, 감사를 꺾는 데 쓰이면 안 됩니다.*
 
-감지자를 묶는 헌법, 거버넌스, 재결, 운영 텍스트에 **쉬운 말 접근성 의무**가 적용된다. 감지자가 권리를 행사하고, 거버넌스에 참여하고, 결정을 다투고, 준수를 확인하려면 그 텍스트를 맞대어야 할 때에도 같은 의무가 적용된다. 이것은 [참여](../../core_05_apex_participation_leg.md#participation-constitutional) 요건이다: 자신을 묶는 규칙을 이해할 수 없는 감지자는 그 규칙이 다스리는 체계에 의미 있게 참여할 수 없다.
+감지자를 묶는 헌법, 거버넌스, 재결, 운영 텍스트에 **쉬운 말 접근성 의무**가 적용된다. 감지자가 권리를 행사하고, 거버넌스에 참여하고, 결정을 다투고, 준수를 확인하려면 그 텍스트를 맞대어야 할 때에도 같은 의무가 적용된다. 이것은 [참여](core_05_apex_participation_leg.md#participation-constitutional) 요건이다: 자신을 묶는 규칙을 이해할 수 없는 감지자는 그 규칙이 다스리는 체계에 의미 있게 참여할 수 없다.
 
 <a id="341-scope"></a>
 ##### 3.4.1 범위

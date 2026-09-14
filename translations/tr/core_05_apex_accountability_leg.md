@@ -22,7 +22,7 @@
 
 - Yukarı: [Beşinci Bölüm pusulası](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) (hesap verebilirlik bacağı; [maddi pay](core_00_preamble.md#material-stake) ölçeklemesi); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims); birincil amaç [Gelişim](core_00_preamble.md#flourishing).
 - Aşağı: İlkeler: [§10 Sorumlu yönetim disiplini altında yönetişim](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Birinci Bölüm §11.6 Halef sorumluluğu ve biçimsel-yapı kaçışı yasağı](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Dörtlü bacağı ayrıştırması](#accountability-tetrad-leg-decomposition); Hesap verebilirlik bantındaki yaprak tanımlar [core_05_band_accountability.md](../../core_05_band_accountability.md)de.
-- Kardeş Dörtlü bacağı: [Zamanındalık](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+- Kardeş Dörtlü bacağı: [Zamanındalık](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 - Birlikte oku: [Hesap verebilirlik, İtiraz edilebilirlik, Hükme bağlama ve uyuşmazlık çözümü, Kolektif hesap verebilirlik başarısızlığı ve Mücbir sebep kümesi](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [İtiraz edilebilirlik](../../core_05_band_accountability.md#contestability), [Denetlenebilirlik](../../core_05_band_oversight.md#auditability), [Atfedilebilir eylem](../../core_05_band_accountability.md#attributable-action-constitutional), [Atıf bütünlüğü](../../core_05_band_accountability.md#attribution-integrity-constitutional), [Birinci Bölüm §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape), [Üçüncü Bölüm §2.1.1 Biçimsel etiket ve temsil oyunu](core_03_definition_integrity.md#211-formal-label-and-representation-gaming), ve [Dokuzuncu Bölüm §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -69,7 +69,7 @@ Bu bacak altındaki yaprak tanımlar, açıkça daraltmadıkça ya da genişletm
 - **Def.A3 Güzergâh durumu, katkı ve ihlal** — [Def.A3 *Güzergâh durumu, katkı ve ihlal*](../../core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)
 - **Def.A4 Kuvvet kullanımı, özerk zorlama, özerk ölümcül sistemler ve kitlesel zarar silahları** — [Def.A4 *Kuvvet kullanımı, özerk zorlama, özerk ölümcül sistemler ve kitlesel zarar silahları*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
-**Kardeş Dörtlü bacağı:** [Zamanındalık](../../core_05_apex_timeliness_leg.md#timeliness-constitutional).
+**Kardeş Dörtlü bacağı:** [Zamanındalık](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 
 **Bağımsız ve yarı-bağımsız terimler** [Hesap verebilirlik: bağımsız terimler](../../core_05_band_accountability.md#accountability-independent-terms) ve [Hesap verebilirlik: yarı-bağımsız terimler](../../core_05_band_accountability.md#accountability-semi-independent-terms) altında yaşar.
 
