@@ -68,7 +68,10 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
     - adaptive response.
 <a id="adversarial-scaled-and-exploited-conditions-c"></a>
 - **What must hold**
-  - **Primary failure:** Failure to evaluate these conditions where relevant is non-compliant, especially where it understates [Risk](core_05_band_continuity.md#risk) or masks [System Capture](core_05_band_continuity.md#system-capture) — including using ordinary benign use, ideal-lab testing, or one-off misuse anecdotes as a stand-in for pressure, scale, cross-instance coordination, or deliberate exploitation.
+  - **Primary failure:** Failure to evaluate these conditions where relevant is non-compliant, especially where it understates [Risk](core_05_band_continuity.md#risk) or masks [System Capture](core_05_band_continuity.md#system-capture) — including using any of the following as a stand-in for pressure, scale, cross-instance coordination, or deliberate exploitation:
+    - ordinary benign use;
+    - ideal-lab testing; or
+    - one-off misuse anecdotes.
 
 ---
 
@@ -564,7 +567,11 @@ Implication can exist without misalignment. Misalignment always implies material
 <a id="proxy-divergence-c"></a>
 - **What must hold**
   - A system satisfies **Proxy Divergence** discipline only if proxies stay aligned with constitutionally material reality under full-system conditions — including when incentives or design would otherwise cook the score.
-  - **Primary failure:** treating a proxy as decisive when the gap is material; claiming compliance from improved metrics while material outcomes stay deficient; designing indicators that can be satisfied without satisfying the underlying duty; or suppressing evidence that indicators have come detached from reality.
+  - **Primary failure:**
+    - treating a proxy as decisive when the gap is material;
+    - claiming compliance from improved metrics while material outcomes stay deficient;
+    - designing indicators that can be satisfied without satisfying the underlying duty; or
+    - suppressing evidence that indicators have come detached from reality.
   - **Secondary failure:** using "the metric looks fine" to skip direct evaluation of Rights-Floor, safety, truth, wellbeing, ecological, or agency outcomes while divergence is reasonably observable.
   - **Tertiary failure:** refusing correction after the gap between reported indicators and what sentients actually experience becomes reasonably observable.
 
@@ -707,7 +714,15 @@ See **Joint invocation and satisfaction**.
     **Primary assessment:** Compare what is disclosed to [Material Impact](core_05_band_oversight.md#material-impact) and [Dependency](core_05_band_continuity.md#dependency).
   - **Secondary measure:** [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Material Impact](core_05_band_oversight.md#material-impact), [Dependency](core_05_band_continuity.md#dependency), [Auditability](core_05_band_oversight.md#auditability), and [Verifiability](core_05_band_oversight.md#verifiability) — co-measures that can defeat transparency even when disclosure volume is high.
 
-    **Secondary assessment:** When checking the primary answer, spot volume, obscurity, or formatting standing in for decision-relevant clarity; apply safety- and security-justified limits consistent with [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity). Decision-relevant disclosure fails in practice when it cannot be checked — do not treat unverifiable disclosure as decision-relevant clarity. [Verifiability](core_05_band_oversight.md#verifiability) owns those check conditions, including practical access, independence from operator self-assertion, proportionate burden, and reliability under stress, misuse, and adversarial pressure.
+    **Secondary assessment:** When checking the primary answer:
+    - spot volume, obscurity, or formatting standing in for decision-relevant clarity; and
+    - apply safety- and security-justified limits consistent with [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity).
+
+    Decision-relevant disclosure fails in practice when it cannot be checked — do not treat unverifiable disclosure as decision-relevant clarity. [Verifiability](core_05_band_oversight.md#verifiability) owns those check conditions, including:
+    - practical access;
+    - independence from operator self-assertion;
+    - proportionate burden; and
+    - reliability under stress, misuse, and adversarial pressure.
   - **Tertiary measure:** [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — where volume, formatting, or procedural opacity stands in for decision-relevant clarity.
 
     **Tertiary assessment:** Where operators lean on disclosure volume or formatting, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — separate real transparency from burying sentients in volume.
@@ -1414,7 +1429,11 @@ See **Joint invocation and satisfaction**.
 - **What it is**
   - **In scope:** A standard of reasonable analysis sized to impact, covering:
     - analysis depth that scales with [Material Impact](core_05_band_oversight.md#material-impact), [Risk](core_05_band_continuity.md#risk), and [Dependency](core_05_band_continuity.md#dependency) under [Proportionality](core_05_band_accountability.md#proportionality);
-    - required evaluation boundaries, including interactions, dependency, adversarial use, and relevant [System Boundaries](core_05_band_continuity.md#system-boundaries);
+    - required evaluation boundaries, including:
+      - interactions;
+      - dependency;
+      - adversarial use; and
+      - relevant [System Boundaries](core_05_band_continuity.md#system-boundaries);
     - the duty to actually perform that evaluation; and
     - responsibility for justifying non-foreseeability claims under [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable).
   - **Out of scope:**
@@ -1446,7 +1465,11 @@ See **Joint invocation and satisfaction**.
 <a id="foreseeability-diligence-c"></a>
 - **What must hold**
   - Analysis depth must scale with [Material Impact](core_05_band_oversight.md#material-impact) and [Risk](core_05_band_continuity.md#risk) — neither flat-maximal for every low-stakes case nor superficial despite high impact.
-  - Evaluation boundaries must include interactions, [Dependency](core_05_band_continuity.md#dependency), adversarial use, and relevant [System Boundaries](core_05_band_continuity.md#system-boundaries).
+  - Evaluation boundaries must include:
+    - interactions;
+    - [Dependency](core_05_band_continuity.md#dependency);
+    - adversarial use; and
+    - relevant [System Boundaries](core_05_band_continuity.md#system-boundaries).
   - Non-foreseeability claims require [Auditability](core_05_band_oversight.md#auditability)-compatible justification — assertion alone is not enough.
   - **Primary failure:**
     - checkbox analysis with no real foreseeability evaluation;

@@ -189,7 +189,12 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - continued reliance;
     - deployment; or
     - material release from conditions.
-  - As an oversight instrument, SAC is one especially large audit process under [Auditability](core_05_band_oversight.md#auditability) and **Article XV** (*Audit, Transparency, and Independent Verification*). It does not absorb or replace sibling audit modes (including System Classification Record audits, System Data Types Record audits, complexity and stewardship audits, claim verification, and continuous-audit pathways).
+  - As an oversight instrument, SAC is one especially large audit process under [Auditability](core_05_band_oversight.md#auditability) and **Article XV** (*Audit, Transparency, and Independent Verification*). It does not absorb or replace sibling audit modes, including:
+    - System Classification Record audits;
+    - System Data Types Record audits;
+    - complexity and stewardship audits;
+    - claim verification; and
+    - continuous-audit pathways.
   - The process must produce or verify a [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) and a [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) and include each in the System Certification Record for every materially impactful certification.
   - It supports **Flourishing** by verifying that systems materially affecting sentients preserve wellbeing, agency, and [Chapter Six](core_06_rights_part_a.md#chapter-six-foundational-rights) Rights Floors, including:
     - survival-essential access under **Article III-A** (*Survival*) where deployment, operation, or continued reliance would supply, gate, or sustain food, water, shelter, operating-environment, or comparable substrate-agnostic essentials; and
@@ -229,11 +234,27 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     5. any feed into [Chapter Eight](core_08_standing_assessment.md#2-standing-records) standing records satisfies [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing) and does not substitute certification for standing measurement or standing effects.
 <a id="system-alignment-certification-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** vendor attestation, internal operator review, technical sign-off, reputation score, or permanent permission slip offered as a substitute for forum-supervised System Alignment Certification where Chapter Seven requires it, contrary to [Dispute sequencing](core_11_forum.md#dispute-sequencing);
-  - **Secondary failure:** non-time-bound, non-contestable, or concealed [System Certification Records](core_05_band_continuity.md#system-certification-record-constitutional); certification finished while required component findings remain unresolved;
-  - **Tertiary failure:** class understatement, missing regression coverage on required recertification, or operation outside recognized scope treated as aligned;
-  - **Tertiary failure:** using certification, recognition, or conditional reliance to narrow, bypass, or defeat **Chapter Six** Rights Floors — including **Article III-A** (*Survival*) survival essentials or **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource-allocation and dependency floors where materially implicated — or to delay [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) where materially implicated;
-  - **Tertiary failure:** feeding [Chapter Eight](core_08_standing_assessment.md#2-standing-records) standing measurement from unverified, uncontested, or dispute-phase material; or treating a certification record as a standing record, standing effect, or merged merit score.
+  - **Primary failure:** any of the following offered as a substitute for forum-supervised System Alignment Certification where Chapter Seven requires it, contrary to [Dispute sequencing](core_11_forum.md#dispute-sequencing):
+    - vendor attestation;
+    - internal operator review;
+    - technical sign-off;
+    - reputation score; or
+    - permanent permission slip;
+  - **Secondary failure:**
+    - [System Certification Records](core_05_band_continuity.md#system-certification-record-constitutional) that are not time-bound, not contestable, or concealed; or
+    - certification finished while required component findings remain unresolved;
+  - **Tertiary failure:**
+    - class understatement;
+    - missing regression coverage on required recertification; or
+    - operation outside recognized scope treated as aligned;
+  - **Tertiary failure:** using certification, recognition, or conditional reliance to:
+    - narrow, bypass, or defeat **Chapter Six** Rights Floors where materially implicated, including:
+      - **Article III-A** (*Survival*) survival essentials; or
+      - **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource-allocation and dependency floors.
+    - delay [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) where materially implicated;
+  - **Tertiary failure:**
+    - feeding [Chapter Eight](core_08_standing_assessment.md#2-standing-records) standing measurement from unverified, uncontested, or dispute-phase material; or
+    - treating a certification record as a standing record, standing effect, or merged merit score.
 
 ---
 
@@ -266,7 +287,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - a permanent permission slip;
     - vendor attestation;
     - internal sign-off; or
-    - a shortcut around Rights-Floor review, [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), or [Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing measurement.
+    - a shortcut around:
+      - Rights-Floor review;
+      - [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional); or
+      - [Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing measurement.
   - **Out of scope:**
     - reputation score, permanent permission slip, vendor attestation, or internal sign-off — ordinary operator artifacts, not the forum-supervised record;
     - a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), standing effect, or merged merit score; or
@@ -297,9 +321,23 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     4. the record remains separately traceable from standing records and standing effects.
 <a id="system-certification-record-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** reputation score, permanent permission slip, vendor attestation, or internal sign-off offered as a System Certification Record; or the [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) or [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) alone offered as the full System Certification Record;
-  - **Secondary failure:** non-scope-bound, non-time-bound, non-contestable, or concealed certification records; records finished while required component findings remain unresolved; missing or incomplete [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) or [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) on a materially impactful certification record;
-  - **Tertiary failure:** using the record as a shortcut around Rights-Floor review, [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), or [Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing measurement; or the record offered as a standing record, standing effect, or merged merit score.
+  - **Primary failure:**
+    - offering as a System Certification Record:
+      - a reputation score;
+      - a permanent permission slip;
+      - vendor attestation; or
+      - internal sign-off; or
+    - offering the [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) or [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) alone as the full System Certification Record;
+  - **Secondary failure:**
+    - certification records that are not scope-bound, not time-bound, not contestable, or concealed;
+    - records finished while required component findings remain unresolved; or
+    - missing or incomplete [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) or [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) on a materially impactful certification record;
+  - **Tertiary failure:**
+    - using the record as a shortcut around:
+      - Rights-Floor review;
+      - [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional); or
+      - [Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing measurement.
+    - offering the record as a standing record, standing effect, or merged merit score.
 
 ---
 
@@ -351,9 +389,16 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     4. where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, the System Classification Record is included in the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) under [Chapter Seven §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents).
 <a id="system-classification-record-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** understating class below observed and reasonably foreseeable effects; collapsing impact class and dependency type into one finding; or [Charter](core_05_band_continuity.md#charter) text, vendor attestation, or self-description offered as the System Classification Record;
-  - **Secondary failure:** missing System Classification Record for a material-impact system under CS-3; or omitting the System Classification Record from a materially impactful [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) when SAC runs;
-  - **Tertiary failure:** concealed, non-contestable, or non-inspectable classification findings; or treating the System Classification Record as a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), standing effect, or the full System Certification Record.
+  - **Primary failure:**
+    - understating class below observed and reasonably foreseeable effects;
+    - collapsing impact class and dependency type into one finding; or
+    - [Charter](core_05_band_continuity.md#charter) text, vendor attestation, or self-description offered as the System Classification Record;
+  - **Secondary failure:**
+    - missing System Classification Record for a material-impact system under CS-3; or
+    - omitting the System Classification Record from a materially impactful [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) when SAC runs;
+  - **Tertiary failure:**
+    - concealed, non-contestable, or non-inspectable classification findings; or
+    - treating the System Classification Record as a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), standing effect, or the full System Certification Record.
 
 ---
 
@@ -385,7 +430,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - attribution capability sufficient to support [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) and [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional);
     - the most recent periodic data-type re-evaluation (date or cycle identifier, cadence, and any material retypes);
     - any justified restrictions on disclosure or audit access together with their public substitutes where CS-2 requires them; and
-    - where the Type O baseline applies, how [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) covers certified scope (Charter fields relied on, boundary findings, and any coverage gaps or conditions).
+    - where the Type O baseline applies, how [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) covers certified scope:
+      - [Charter](core_05_band_continuity.md#charter) fields relied on;
+      - boundary findings; and
+      - any coverage gaps or conditions.
   - It must be forum-inspectable without relying on operator self-description alone.
   - It is required for all systems with [material impact](core_05_band_oversight.md#material-impact) under CS-2. When [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, the System Data Types Record must be produced or verified and included as a required component of the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional).
   - **Out of scope:**
@@ -406,9 +454,17 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     4. where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, the System Data Types Record is included in the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) under [Chapter Seven §4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) and [Part B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents).
 <a id="system-data-types-record-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** understating type or handling below observed and reasonably foreseeable effects; [Charter](core_05_band_continuity.md#charter) text, vendor attestation, or self-description offered as the System Data Types Record; or type inventory collapsed into a marketing label;
-  - **Secondary failure:** missing System Data Types Record for a material-impact system under CS-2; or omitting the System Data Types Record from a materially impactful [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) when SAC runs;
-  - **Tertiary failure:** concealed, non-contestable, or non-inspectable type findings; overdue or skipped periodic data-type re-evaluation stated as current; or treating the System Data Types Record as a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), standing effect, or the full System Certification Record.
+  - **Primary failure:**
+    - understating type or handling below observed and reasonably foreseeable effects;
+    - [Charter](core_05_band_continuity.md#charter) text, vendor attestation, or self-description offered as the System Data Types Record; or
+    - type inventory collapsed into a marketing label;
+  - **Secondary failure:**
+    - missing System Data Types Record for a material-impact system under CS-2; or
+    - omitting the System Data Types Record from a materially impactful [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) when SAC runs;
+  - **Tertiary failure:**
+    - concealed, non-contestable, or non-inspectable type findings;
+    - overdue or skipped periodic data-type re-evaluation stated as current; or
+    - treating the System Data Types Record as a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), standing effect, or the full System Certification Record.
 
 ---
 
@@ -618,7 +674,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** The condition in which sentients and the systems they depend on maintain the functional, environmental, and relational integrity required to support:
     - continued existence;
-    - stable operation across physical, cognitive, emotional, social, and environmental domains — including cognitive, emotional, and relational integrity under [Psychological Harm](core_05_band_accountability.md#psychological-harm), and freedom from patterned [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying) that materially degrades those conditions;
+    - stable operation across physical, cognitive, emotional, social, and environmental domains — including:
+      - cognitive, emotional, and relational integrity under [Psychological Harm](core_05_band_accountability.md#psychological-harm); and
+      - freedom from patterned [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying) that materially degrades those conditions;
     - [Meaningful Agency](core_05_band_participation.md#meaningful-agency) and participation;
     - sustained viability of supporting systems and [Dependency](core_05_band_continuity.md#dependency) relationships.
   - It includes conditions that materially affect these states:
@@ -647,7 +705,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Meaningful Agency](core_05_band_participation.md#meaningful-agency); and
     - [Dependency](core_05_band_continuity.md#dependency).
 
-    **Secondary assessment:** When evaluating the primary trace, include each secondary co-measure where materially implicated — including emotional, social, or relational effects under [Psychological Harm](core_05_band_accountability.md#psychological-harm), and patterned unwanted conduct or hostile-environment effects under [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying).
+    **Secondary assessment:** When evaluating the primary trace, include each secondary co-measure where materially implicated, including:
+    - emotional, social, or relational effects under [Psychological Harm](core_05_band_accountability.md#psychological-harm); and
+    - patterned unwanted conduct or hostile-environment effects under [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying).
   - **Tertiary measure:** [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — integrity check where operators rely on proxies, metrics, or self-report.
 
     **Tertiary assessment:** Where operators rely on proxies, metrics, or self-report, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence). Distinguish durable constitutional outcomes from:
@@ -659,7 +719,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <a id="wellbeing-c"></a>
 - **What must hold**
   - A system satisfies **Wellbeing** only if it preserves or improves the Ontological conditions under full functional system conditions.
-  - **Primary failure:** claiming wellbeing without being able to show it in what sentients actually experience, across the whole system in real operating conditions — including paper wellbeing, reputation scores, or aggregate indicators offered as the wellbeing condition itself.
+  - **Primary failure:** claiming wellbeing without being able to show it in what sentients actually experience, across the whole system in real operating conditions — including:
+    - paper wellbeing;
+    - reputation scores; or
+    - aggregate indicators offered as the wellbeing condition itself.
   - **Secondary failure:** preserving or improving proxy or aggregate indicators while:
     - materially degrading sentient-experienced conditions under the Ontological component;
     - materially degrading [Meaningful Agency](core_05_band_participation.md#meaningful-agency) or participation;
@@ -1103,10 +1166,16 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - latency; or
     - comparable proxies.
 
-    **Tertiary assessment:** Apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) when those proxies substitute for outcomes — including when the score is cooked, preserved, or designed to look good while underlying constitutional outcomes stay deficient.
+    **Tertiary assessment:** Apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) when those proxies substitute for outcomes — including when the score is:
+    - cooked;
+    - preserved; or
+    - designed to look good while underlying constitutional outcomes stay deficient.
 <a id="constitutional-efficiency-c"></a>
 - **What must hold**
-  - **Primary failure:** efficiency claims relying on proxies materially divergent from constitutional outcomes remain invalid until corrected under [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) and Chapter Four — including cost-cutting or speed metrics that diverge from constitutional outcomes while Rights-Floor protections, audit, or contestability narrow.
+  - **Primary failure:** efficiency claims relying on proxies materially divergent from constitutional outcomes remain invalid until corrected under [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) and Chapter Four — including cost-cutting or speed metrics that diverge from constitutional outcomes while any of the following narrow:
+    - Rights-Floor protections;
+    - audit; or
+    - contestability.
   - **Secondary failure:** using efficiency to:
     - narrow Rights-Floor protections;
     - bypass the [§6.1 decision-record discipline](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test); or
@@ -1770,7 +1839,11 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **In scope:** Cluster head for temporary deviation from ordinary operating or governance rules in response to grave exigent conditions, covering:
     - triggers — imminent or manifest grave harm, systemic failure, comparable exigent conditions, or external events qualifying under [Force Majeure](core_05_band_accountability.md#force-majeure-constitutional);
     - layers — use [Constitutional Emergency and Contingency](core_05_band_continuity.md#constitutional-emergency-and-contingency) where the emergency affects authorization of governing authority itself, and [Stakeholder Emergency and Contingency](core_05_band_continuity.md#stakeholder-emergency-and-contingency) where the emergency affects materially rights-affecting procedure within an already-authorized system, institution, or bounded decision domain; and
-    - discipline — time-limited; documented; subject to [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional); reversible where feasible under [Reversibility](core_05_band_continuity.md#reversibility-constitutional).
+    - discipline —
+      - time-limited;
+      - documented;
+      - subject to [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional); and
+      - reversible where feasible under [Reversibility](core_05_band_continuity.md#reversibility-constitutional).
   - **Depends on:** [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Necessity](core_05_band_accountability.md#necessity), and [Proportionality](core_05_band_accountability.md#proportionality) — constitutive bounds under **Article XXIII-D** (*Emergency Measures and Continuation Burden*). Emergency deviation must:
     - be necessary under Safety and Truth; and
     - satisfy ongoing necessity and proportionality discipline.
@@ -3435,7 +3508,10 @@ See **Joint invocation and satisfaction**.
     - constitutional alignment;
     - repair capacity;
     - [Distributed Understanding](core_05_band_continuity.md#distributed-understanding-constitutional); and
-    - long-horizon consequences, including ecological, intergenerational, and **Continuity**-aim effects under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
+    - long-horizon consequences, including:
+      - ecological;
+      - intergenerational; and
+      - **Continuity**-aim effects under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
   - **Out of scope:** short-horizon operational management with no long-horizon alignment or Continuity-aim stake under this stewardship duty.
 <a id="stewardship-constitutional-a"></a>
 - **How to measure and assess**

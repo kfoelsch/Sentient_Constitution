@@ -432,7 +432,9 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
     **Primary assessment:** Include [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 - **What must hold**
-  - **Primary failure:** claiming incentive alignment while omitting materially relevant adversarial, scaled, or exploited conditions from the evaluation — including using ideal-lab or one-off misuse anecdotes as a stand-in for pressure, scale, coordination, or deliberate exploitation.
+  - **Primary failure:** claiming incentive alignment while omitting materially relevant adversarial, scaled, or exploited conditions from the evaluation — including using any of the following as a stand-in for pressure, scale, coordination, or deliberate exploitation:
+    - ideal-lab testing; or
+    - one-off misuse anecdotes.
 
 ---
 
@@ -723,7 +725,12 @@ See **Joint invocation and satisfaction**.
     6. **Operational and implementation constraints** — capacity, feasibility, security, confidentiality, timing, technical, or resource limits recognized only within their valid adoption and source-layer scope, and only where they do not narrow higher kinds.
 
   - **Depends on:** [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) — constitutive frame.
-    - Constraint precedence and validity are determined under the Authority Stack (including no-bypass, amendment validity, incorporation, custody, and source-status discipline).
+    - Constraint precedence and validity are determined under the Authority Stack, including:
+      - no-bypass;
+      - amendment validity;
+      - incorporation;
+      - custody; and
+      - source-status discipline.
     - Classified obligations remain owned by their canonical owner homes under the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights).
     - Practical enforceability of binding constraint claims routes under [Auditability](core_05_band_oversight.md#auditability) and [Contestability](core_05_band_accountability.md#contestability).
   - **Out of scope:** Optional guidance, aspirational norms, or policy preferences that do not determine validity of a constitutional claim, system action, or governance act.
@@ -743,10 +750,22 @@ See **Joint invocation and satisfaction**.
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
     - invoke "constraints" generically to obscure which kind applies or which owner layer supplies it;
-    - use a lower kind — including operational, implementation, source-layer, emergency, transition, confidentiality, security, or feasibility constraints — to narrow a higher kind, including Safety, Truth, the Chapter Six Rights Floor, amendment validity, contestability, auditability, or remedy access;
+    - use a lower kind — including operational, implementation, source-layer, emergency, transition, confidentiality, security, or feasibility constraints — to narrow a higher kind, including:
+      - Safety;
+      - Truth;
+      - the Chapter Six Rights Floor;
+      - amendment validity;
+      - contestability;
+      - auditability; or
+      - remedy access;
     - treat a kind label as a substitute for the specific O/M/A/C entry, Rights-Floor article, or owner-layer rule that governs the decision;
-    - apply one kind while segmenting away another materially applicable kind; or
-    - materially degrade Safety, Truth, or another binding constitutional requirement through system behavior or outcomes — including direct, indirect, delayed, or aggregated effects under [Harm](core_05_band_accountability.md#harm) — or treat a paperwork-only breach (or bounded residual risk after mitigation that is not itself constraint degradation) as if it answered that material question.
+    - apply one kind while segmenting away another materially applicable kind;
+    - materially degrade Safety, Truth, or another binding constitutional requirement through system behavior or outcomes, including [Harm](core_05_band_accountability.md#harm) effects that are:
+      - direct;
+      - indirect;
+      - delayed; or
+      - aggregated.
+    - treat a paperwork-only breach (or bounded residual risk after mitigation that is not itself constraint degradation) as if it answered that material question.
 
 ---
 

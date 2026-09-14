@@ -205,13 +205,25 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether agency is real in practice — including workable exit — not only formally declared.
 
-    **Primary assessment:** Assess substantive agency, [coercion and manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Psychological Harm](core_05_band_accountability.md#psychological-harm) (including psychological trauma), abuse, [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying), and [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in). Evaluate opt-out and workable alternatives under [Feasibility](core_05_band_accountability.md#feasibility). Read [Participation](core_05_apex_participation_leg.md#participation-constitutional) where collective voice is materially implicated.
+    **Primary assessment:** Assess:
+    - substantive agency;
+    - [coercion and manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional);
+    - [Psychological Harm](core_05_band_accountability.md#psychological-harm) (including psychological trauma);
+    - abuse;
+    - [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying); and
+    - [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in).
+    Evaluate opt-out and workable alternatives under [Feasibility](core_05_band_accountability.md#feasibility). Read [Participation](core_05_apex_participation_leg.md#participation-constitutional) where collective voice is materially implicated.
 <a id="freedom-bounded-agency-c"></a>
 - **What must hold**
   - **Primary failure:**
     - claims of unbounded license with no Safety, Truth, or others'-rights limits;
     - exit options that exist only on paper while lock-in remains;
-    - systems that negate substantive agency — including through coercion, manipulation, psychological trauma, abuse, or bullying that hollows real choice; or
+    - systems that negate substantive agency — including through:
+      - coercion;
+      - manipulation;
+      - psychological trauma;
+      - abuse; or
+      - bullying that hollows real choice; or
     - systems that impose disproportionate exit costs without justification.
 
 ---
@@ -2171,7 +2183,10 @@ See **Joint invocation and satisfaction**.
     - **architecture** — how the entity is organized or built;
     - **embodiment** — the form the entity inhabits; and
     - a comparable category based on those traits.
-  - **In scope — substrate-agnostic:** A requirement, floor, or determination is **substrate-agnostic** when it applies without regard to Substrate Class — including equally to biological, synthetic, and hybrid entities.
+  - **In scope — substrate-agnostic:** A requirement, floor, or determination is **substrate-agnostic** when it applies without regard to Substrate Class — including equally to:
+    - biological;
+    - synthetic; and
+    - hybrid entities.
   - **Out of scope:**
     - capability grading under [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional);
     - marketed or claimed capability labels that are not Substrate Class traits; or
@@ -2687,15 +2702,26 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 - **What it is**
   - **In scope:** The bounded, reviewable record produced or updated when [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) runs under **Article V-E** (*Sentience-Status Adjudication Floor*). A **Sentience-Status Adjudication Record** states at least:
     - the subject entity;
-    - the status determination or live contested posture (including affirmed, narrowed, revoked, restored, or still contested);
+    - the status determination or live contested posture, including:
+      - affirmed;
+      - narrowed;
+      - revoked;
+      - restored; or
+      - still contested;
     - the lead forum family and any Chapter Eleven–warranted special route;
     - the indicators and expert evidence relied on, with material uncertainty noted;
     - interim [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) treatment while status remains live;
     - the declared end-date or mandatory review trigger for this posture;
     - any narrowing's declared expected-closure timeline and mandatory periodic-review trigger;
     - the reopening evidence standard — new verified evidence, not calendar-only reopening;
-    - the independent representative — appointment path, conflict screen, and access terms; and
-    - the intake-decline log — where declined filings are recorded, Integrity sample cadence, and the published floor set of indicators.
+    - the independent representative:
+      - appointment path;
+      - conflict screen; and
+      - access terms; and
+    - the intake-decline log:
+      - where declined filings are recorded;
+      - Integrity sample cadence; and
+      - the published floor set of indicators.
   - This edition lists [`corpus_forum/cf_sentience_status_record.md`](corpus_forum/cf_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated record format under [Chapter Sixteen](core_16_incorporation.md). They implement, and do **not** narrow, **Article V-E** (*Sentience-Status Adjudication Floor*). The minimum fields in [Chapter Eleven §5](core_11_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook) still govern record contents. That hook is **not** a full appointments or filing statute.
   - **Depends on:** [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional); [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
   - **Out of scope:**
@@ -2719,9 +2745,20 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     8. names where declined filings are logged, on what cadence Integrity samples them, and the published floor set of indicators.
 <a id="sentience-status-adjudication-record-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** treating operator self-description, a substrate label, an intake tag, or an incomplete case note as a Sentience-Status Adjudication Record; or using the record to withhold, narrow, or revoke Chapter Six protection on unresolved uncertainty alone;
-  - **Secondary failure:** missing required minimum fields under [Chapter Eleven §5](core_11_forum.md#5-escalation-and-certification) when adjudication has run; concealed, non-contestable, or non-inspectable status findings; or treating the record as a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six) or as the whole [Forum Case Record](core_05_band_accountability.md#forum-case-record);
-  - **Tertiary failure:** refusing reopening on new verified evidence; or presenting an appointments or filing manual as if it were this status record.
+  - **Primary failure:**
+    - treating any of the following as a Sentience-Status Adjudication Record:
+      - operator self-description;
+      - a substrate label;
+      - an intake tag; or
+      - an incomplete case note; or
+    - using the record to withhold, narrow, or revoke Chapter Six protection on unresolved uncertainty alone;
+  - **Secondary failure:**
+    - missing required minimum fields under [Chapter Eleven §5](core_11_forum.md#5-escalation-and-certification) when adjudication has run;
+    - concealed, non-contestable, or non-inspectable status findings; or
+    - treating the record as a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six) or as the whole [Forum Case Record](core_05_band_accountability.md#forum-case-record);
+  - **Tertiary failure:**
+    - refusing reopening on new verified evidence; or
+    - presenting an appointments or filing manual as if it were this status record.
 
 ---
 
