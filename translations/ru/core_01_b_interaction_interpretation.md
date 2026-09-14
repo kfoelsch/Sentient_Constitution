@@ -214,7 +214,7 @@
 - [Обратимость](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [Зависимость](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [Подотчётность](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Надзор](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Надзор](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -226,7 +226,7 @@
 
 **Пол классификации.** Никакая система не может управляться на уровне ниже требуемого её наивысшей применимой классификацией. Более низкий административный ярлык не может снизить проверку, требуемую наивысшей применимой классификацией риска, зависимости, прав или воздействия системы.
 
-**Отвечаемость, масштабированная к власти.** Соразмерность также запрещает недоуправление теми, кто держит большую уполномоченную власть, роль с последствиями или институциональное влияние: интенсивность [Подотчётности](core_05_apex_accountability_leg.md#accountability) и [Надзора](../../core_05_apex_oversight_leg.md#oversight-constitutional) должна расти с этой властью, а не падать.
+**Отвечаемость, масштабированная к власти.** Соразмерность также запрещает недоуправление теми, кто держит большую уполномоченную власть, роль с последствиями или институциональное влияние: интенсивность [Подотчётности](core_05_apex_accountability_leg.md#accountability) и [Надзора](core_05_apex_oversight_leg.md#oversight-constitutional) должна расти с этой властью, а не падать.
 
 **Повышенные пороги.** Там, где действия вводят риск необратимого вреда, системного запирания, экзистенциального риска или необратимой потери Способности экологического восстановления, системы должны применять повышенные пороги для оправдания, проверки и обратимости, где это практически возможно.
 

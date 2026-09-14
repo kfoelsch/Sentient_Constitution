@@ -12,7 +12,7 @@
 >
 > **Önceki (bu dil):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 >
-> **Sonraki (hâlâ İngilizce):** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+> **Sonraki (bu dilde):** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 > **Okuma yayı:** O/M/A/C → amaç ayrıştırması → ölçüm ailesi.
 
 </details>
@@ -118,6 +118,6 @@ Bu amaç altındaki yaprak tanımlar, açıkça daraltmadıkça ya da genişletm
 
 **Önceki dosya:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
-**Sonraki dosya (hâlâ İngilizce):** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+**Sonraki dosya (bu dilde):** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 
 **Bağlayıcı asıl:** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)

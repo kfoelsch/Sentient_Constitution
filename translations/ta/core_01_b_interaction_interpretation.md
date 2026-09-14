@@ -214,7 +214,7 @@
 - [மீளக்கூடிய தன்மை](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [சார்பு](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [மேற்பார்வை](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [மேற்பார்வை](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -226,7 +226,7 @@
 
 **வகைப்பாட்டுத் தளம்.** எந்த அமைப்பும் அதன் மிக உயர்ந்த பொருந்தும் வகைப்பாடு கேட்கும் நிலைக்குக் கீழே ஆளப்படக்கூடாது. குறைந்த நிர்வாகச் சிட்டை மிக உயர்ந்த பொருந்தும் இடர், சார்பு, உரிமை, அல்லது அமைப்பு-தாக்க வகைப்பாடு கேட்கும் ஆய்வைக் குறைக்க முடியாது.
 
-**அதிகார-அளவிடப்பட்ட பதிலளிப்பு.** விகிதாசாரம் பெரிய அங்கீகரிக்கப்பட்ட அதிகாரம், விளைவுமிக்க பங்கு, அல்லது நிறுவனத் தாக்கம் கொண்டோரின் குறை-ஆட்சியையும் தடைசெய்கிறது: [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) மற்றும் [மேற்பார்வை](../../core_05_apex_oversight_leg.md#oversight-constitutional) தீவிரம் அந்த அதிகாரத்துடன் உயர வேண்டும், குறையக்கூடாது.
+**அதிகார-அளவிடப்பட்ட பதிலளிப்பு.** விகிதாசாரம் பெரிய அங்கீகரிக்கப்பட்ட அதிகாரம், விளைவுமிக்க பங்கு, அல்லது நிறுவனத் தாக்கம் கொண்டோரின் குறை-ஆட்சியையும் தடைசெய்கிறது: [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) மற்றும் [மேற்பார்வை](core_05_apex_oversight_leg.md#oversight-constitutional) தீவிரம் அந்த அதிகாரத்துடன் உயர வேண்டும், குறையக்கூடாது.
 
 **உயர்த்தப்பட்ட வாயில்கள்.** செயல்கள் மீளமுடியாத தீங்கு, அமைப்புப் பூட்டு, இருப்பு இடர், அல்லது சூழலியல் மீட்புத் திறனின் மீளமுடியாத இழப்பு இடரை அறிமுகப்படுத்தும் இடத்தில், அமைப்புகள் நியாயம், ஆய்வு, சாத்தியமான இடத்தில் மீளக்கூடிய தன்மைக்கு உயர்த்தப்பட்ட வாயில்களைப் பயன்படுத்த வேண்டும்.
 

@@ -214,7 +214,7 @@
 - [가역성](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [의존](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [책무](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [감독](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -226,7 +226,7 @@
 
 **분류 바닥.** 어떤 체계도 적용되는 최고 분류가 요구하는 수준보다 낮게 거버넌스되면 안 된다. 더 낮은 행정 꼬리표가 적용되는 최고 위험, 의존, 권리, 체계 영향 분류가 요구하는 검토를 줄일 수 없다.
 
-**권한에 맞춰 세기 조절된 답할 의무.** 비례는 또한 더 큰 수권 권력, 결과가 있는 역할, 제도 영향력을 쥔 이의 과소 거버넌스를 금한다: [책무](core_05_apex_accountability_leg.md#accountability)와 [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional)의 세기는 그 권한과 함께 올라가야 하며, 내려가면 안 된다.
+**권한에 맞춰 세기 조절된 답할 의무.** 비례는 또한 더 큰 수권 권력, 결과가 있는 역할, 제도 영향력을 쥔 이의 과소 거버넌스를 금한다: [책무](core_05_apex_accountability_leg.md#accountability)와 [감독](core_05_apex_oversight_leg.md#oversight-constitutional)의 세기는 그 권한과 함께 올라가야 하며, 내려가면 안 된다.
 
 **높아진 문턱.** 행위가 되돌릴 수 없는 해, 체계 잠금, 존재 위험, 생태 회복 능력의 되돌릴 수 없는 상실 위험을 도입하는 곳에서, 체계는 정당화, 검토, 실행 가능한 곳에서 가역성에 대해 높아진 문턱을 적용해야 한다.
 

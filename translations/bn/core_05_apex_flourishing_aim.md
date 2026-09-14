@@ -12,7 +12,7 @@
 >
 > **আগেরটি (এই ভাষায়):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 >
-> **পরেরটি (এখনও ইংরেজিতে):** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+> **পরেরটি (এই ভাষায়):** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 > **পড়ার আর্ক:** O/M/A/C → উদ্দেশ্য বিভাজন → পরিমাপ পরিবার।
 
 </details>
@@ -118,6 +118,6 @@
 
 **আগের ফাইল:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
-**পরের ফাইল (এখনও ইংরেজিতে):** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+**পরের ফাইল (এই ভাষায়):** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 
 **বাধ্যতামূলক মূল:** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)

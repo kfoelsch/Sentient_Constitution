@@ -649,7 +649,7 @@ Algılayanlar bir sisteme ne kadar bel bağlar ve etkisi ne kadar büyükse, o s
 - [Zarar](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
 - [Risk](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 - [Geri döndürülebilirlik](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [Gözetim](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -661,7 +661,7 @@ Algılayanlar bir sisteme ne kadar bel bağlar ve etkisi ne kadar büyükse, o s
 - **maddi zararı** ya da **sistemik riski** önlemek için gerekli
 - böyle bir sınırlama **orantılı**, **mümkün olduğunda geri döndürülebilir** ve **gözetime tabi**
 
-Kısıtlar yalnızca daha az kısıtlayıcı, makul ölçüde etkili bir alternatif yokken, **Beşinci Bölüm**de [Gereklilik](../../core_05_band_accountability.md#necessity) ile tutarlı olarak dayatılabilir. Eylem yetisini sınırlayan uygulanabilirlik iddiaları **Dördüncü Bölüm** yük ve izlenebilirlik gerekleri altında gösterilebilir olmalıdır. Ayrıca **Beşinci Bölüm** tanımlarıyla (Uygulanabilirlik, Gereklilik, Orantılılık ve Zararın en aza indirilmesi (Ödün seçimi) dahil) tutarlı olmalıdır. Sınırlamalar [maddi pay](../../core_00_preamble.md#material-stake)a ölçeklenmiş [Gözetim](../../core_05_apex_oversight_leg.md#oversight-constitutional)e tabi kalmalıdır.
+Kısıtlar yalnızca daha az kısıtlayıcı, makul ölçüde etkili bir alternatif yokken, **Beşinci Bölüm**de [Gereklilik](../../core_05_band_accountability.md#necessity) ile tutarlı olarak dayatılabilir. Eylem yetisini sınırlayan uygulanabilirlik iddiaları **Dördüncü Bölüm** yük ve izlenebilirlik gerekleri altında gösterilebilir olmalıdır. Ayrıca **Beşinci Bölüm** tanımlarıyla (Uygulanabilirlik, Gereklilik, Orantılılık ve Zararın en aza indirilmesi (Ödün seçimi) dahil) tutarlı olmalıdır. Sınırlamalar [maddi pay](../../core_00_preamble.md#material-stake)a ölçeklenmiş [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional)e tabi kalmalıdır.
 
 Özgürlük sınırları diğer anayasal değerler ya da haklarla çarpıştığında, **Güvenlik** ve **Doğruluk** karşılandıktan sonra [§6.1 Çekirdek ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)nden [§6.1.5 Hak-çarpışması usulü](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)ne uygulayın.
 

@@ -12,7 +12,7 @@
 >
 > **पिछला (इस लोकेल में):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 >
-> **अगला (अभी अंग्रेज़ी में):** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+> **अगला (इस भाषा में):** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 > **पढ़ने का चाप:** O/M/A/C → उद्देश्य विघटन → मापन परिवार।
 
 </details>
@@ -118,6 +118,6 @@
 
 **पिछली फ़ाइल (इस भाषा में):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
-**अगली फ़ाइल (अभी अंग्रेज़ी में):** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+**अगली फ़ाइल (इस भाषा में):** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 
 **बाध्यकारी मूल:** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)

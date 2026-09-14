@@ -12,7 +12,7 @@
 >
 > **मागील (या भाषेत):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 >
-> **पुढील (अजून इंग्रजीत):** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+> **पुढील (या भाषेत):** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 > **वाचन चाप:** O/M/A/C → उद्दिष्ट विघटन → मापन कुटुंब.
 
 </details>
@@ -118,6 +118,6 @@
 
 **मागील फाइल:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
-**पुढील फाइल (अजून इंग्रजीत):** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+**पुढील फाइल (या भाषेत):** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 
 **बंधनकारक मूळ:** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)

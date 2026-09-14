@@ -214,7 +214,7 @@ Zararın en aza indirilmesi o tabanları zaten geçen seçenekler arasından se�
 - [Geri döndürülebilirlik](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [Bağımlılık](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Gözetim](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -226,7 +226,7 @@ Anayasal **değerler** üzerindeki sınırlamalar — [§6](#6-process-conflict-
 
 **Sınıflama tabanı.** Hiçbir sistem, en yüksek uygulanabilir sınıflamasının istediğinden daha düşük bir düzeyde yönetilemez. Daha düşük bir idari etiket, en yüksek uygulanabilir risk, bağımlılık, hak ya da sistem-etki sınıflamasının istediği incelemeyi azaltamaz.
 
-**Yetkiye ölçeklenmiş yanıt verebilirlik.** Orantılılık ayrıca daha büyük yetkilendirilmiş güç, sonuç doğuran rol ya da kurumsal etki tutanların eksik yönetimini yasaklar: [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability) ve [Gözetim](../../core_05_apex_oversight_leg.md#oversight-constitutional) yoğunluğu o yetkiyle yükselmeli, düşmemelidir.
+**Yetkiye ölçeklenmiş yanıt verebilirlik.** Orantılılık ayrıca daha büyük yetkilendirilmiş güç, sonuç doğuran rol ya da kurumsal etki tutanların eksik yönetimini yasaklar: [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability) ve [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional) yoğunluğu o yetkiyle yükselmeli, düşmemelidir.
 
 **Yükseltilmiş eşikler.** Eylemler geri döndürülemez zarar, sistemik kilitlenme, Varoluşsal Risk ya da Ekolojik Toparlanma Kapasitesinin geri döndürülemez kaybı riski getirdiğinde, sistemler pratik olduğunda gerekçelendirme, inceleme ve geri döndürülebilirlik için yükseltilmiş eşikler uygulamalıdır.
 

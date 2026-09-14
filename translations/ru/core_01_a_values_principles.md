@@ -649,7 +649,7 @@
 - [Вред](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
 - [Риск](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 - [Обратимость](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [Надзор](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Надзор](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -661,7 +661,7 @@
 - необходимо предотвратить **материальный вред** или **системный риск**
 - такое ограничение **соразмерно**, **обратимо где возможно** и **подлежит надзору**
 
-Ограничения могут налагаться только когда не существует менее ограничительной, разумно эффективной альтернативы, согласованно с [Необходимостью](../../core_05_band_accountability.md#necessity) в **Главе пятой**. Заявления об осуществимости, которые ограничивают агентность, должны быть демонстрируемыми под требованиями бремени и прослеживаемости **Главы четвёртой**. Они также должны быть согласованы с определениями **Главы пятой** (включая Осуществимость, Необходимость, Соразмерность и Минимизацию вреда (выбор компромисса)). Ограничения должны оставаться подлежащими [Надзору](../../core_05_apex_oversight_leg.md#oversight-constitutional), масштабированному к [материальной ставке](core_00_preamble.md#material-stake).
+Ограничения могут налагаться только когда не существует менее ограничительной, разумно эффективной альтернативы, согласованно с [Необходимостью](../../core_05_band_accountability.md#necessity) в **Главе пятой**. Заявления об осуществимости, которые ограничивают агентность, должны быть демонстрируемыми под требованиями бремени и прослеживаемости **Главы четвёртой**. Они также должны быть согласованы с определениями **Главы пятой** (включая Осуществимость, Необходимость, Соразмерность и Минимизацию вреда (выбор компромисса)). Ограничения должны оставаться подлежащими [Надзору](core_05_apex_oversight_leg.md#oversight-constitutional), масштабированному к [материальной ставке](core_00_preamble.md#material-stake).
 
 Когда пределы свободы сталкиваются с другими конституционными ценностями или правами, применяйте [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) через [§6.1.5 Процедуру столкновения прав](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) после того, как **Безопасность** и **Истина** удовлетворены.
 

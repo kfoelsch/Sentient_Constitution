@@ -12,7 +12,7 @@
 >
 > **Trước (ngôn ngữ này):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 >
-> **Tiếp theo (vẫn tiếng Anh):** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+> **Tiếp theo (ngôn ngữ này):** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 > **Cung đọc:** O/M/A/C → phân rã mục tiêu → gia đình đo lường.
 
 </details>
@@ -118,6 +118,6 @@ Các bậc đo lường vận hành sống ở những nhà định nghĩa đó.
 
 **Tệp trước:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
-**Tệp tiếp theo (vẫn tiếng Anh):** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+**Tệp tiếp theo (ngôn ngữ này):** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 
 **Nguyên bản ràng buộc:** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)

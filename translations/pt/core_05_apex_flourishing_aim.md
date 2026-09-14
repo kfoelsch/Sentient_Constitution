@@ -12,7 +12,7 @@
 >
 > **Anterior (este idioma):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 >
-> **Próximo (ainda em inglês):** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+> **Próximo (este idioma):** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 > **Arco de leitura:** O/M/A/C → decomposição do fim → família de medição.
 
 </details>
@@ -118,6 +118,6 @@ Os níveis operativos de medição vivem nesses lares de definição.
 
 **Arquivo anterior:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
-**Próximo arquivo (ainda em inglês):** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+**Próximo arquivo (este idioma):** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 
 **Original vinculante:** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)

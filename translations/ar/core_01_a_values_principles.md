@@ -649,7 +649,7 @@
 - [الضرر](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
 - [المخاطر](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 - [القابلية للعكس](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [الرقابة](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [الرقابة](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -661,7 +661,7 @@
 - يكون ضروريًا لمنع **ضرر مادي** أو **مخاطر منظومية**
 - يكون ذلك التقييد **متناسبًا** و**قابلًا للعكس حيث أمكن** و**خاضعًا للرقابة**
 
-لا يجوز فرض القيود إلا حين لا يوجد بديل أقل تقييدًا وفعّال بقدر معقول، متسقًا مع [الضرورة](../../core_05_band_accountability.md#necessity) في **الفصل الخامس**. ادعاءات الجدوى التي تحدّ الوكالة يجب أن تكون قابلة للإظهار تحت متطلبات العبء وقابلية التتبع في **الفصل الرابع**. ويجب أيضًا أن تكون متسقة مع تعريفات **الفصل الخامس** (بما في ذلك الجدوى والضرورة والتناسب وتقليل الضرر (اختيار المقايضة)). يجب أن تبقى التقييدات خاضعة لـ[الرقابة](../../core_05_apex_oversight_leg.md#oversight-constitutional) مُقاسة على [الرهان المادي](../../core_00_preamble.md#material-stake).
+لا يجوز فرض القيود إلا حين لا يوجد بديل أقل تقييدًا وفعّال بقدر معقول، متسقًا مع [الضرورة](../../core_05_band_accountability.md#necessity) في **الفصل الخامس**. ادعاءات الجدوى التي تحدّ الوكالة يجب أن تكون قابلة للإظهار تحت متطلبات العبء وقابلية التتبع في **الفصل الرابع**. ويجب أيضًا أن تكون متسقة مع تعريفات **الفصل الخامس** (بما في ذلك الجدوى والضرورة والتناسب وتقليل الضرر (اختيار المقايضة)). يجب أن تبقى التقييدات خاضعة لـ[الرقابة](core_05_apex_oversight_leg.md#oversight-constitutional) مُقاسة على [الرهان المادي](../../core_00_preamble.md#material-stake).
 
 حين تصطدم حدود الحرية بقيم أو حقوق دستورية أخرى، طبّق [§6.1 مبادئ المقايضة الأساسية](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) عبر [§6.1.5 إجراء تصادم الحقوق](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) بعد استيفاء **السلامة** و**الحقيقة**.
 

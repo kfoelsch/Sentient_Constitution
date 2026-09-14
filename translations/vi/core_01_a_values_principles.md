@@ -649,7 +649,7 @@ Tự do không gồm thẩm quyền lật hệ thống hiến pháp, đánh bạ
 - [Hại](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
 - [Rủi ro](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 - [Khả năng đảo ngược](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [Giám sát](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Giám sát](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -661,7 +661,7 @@ Tự do chỉ được hạn chế nơi:
 - cần để ngăn **hại vật chất** hoặc **rủi ro hệ thống**
 - hạn chế đó **tương xứng**, **đảo ngược được nơi có thể**, và **chịu giám sát**
 
-Ràng buộc chỉ được đặt khi không có lựa chọn hạn chế nhẹ hơn, hiệu quả hợp lý nào tồn tại, nhất quán với [Sự cần thiết](../../core_05_band_accountability.md#necessity) ở **Chương Năm**. Tuyên bố tính khả thi hạn chế quyền năng phải chứng minh được dưới yêu cầu gánh và truy vết **Chương Bốn**. Chúng cũng phải nhất quán với định nghĩa **Chương Năm** (kể cả Tính khả thi, Sự cần thiết, Tính tương xứng, và Giảm thiểu hại (Chọn đánh đổi)). Hạn chế phải vẫn chịu [Giám sát](../../core_05_apex_oversight_leg.md#oversight-constitutional) chia tỷ lệ theo [lợi hại vật chất](../../core_00_preamble.md#material-stake).
+Ràng buộc chỉ được đặt khi không có lựa chọn hạn chế nhẹ hơn, hiệu quả hợp lý nào tồn tại, nhất quán với [Sự cần thiết](../../core_05_band_accountability.md#necessity) ở **Chương Năm**. Tuyên bố tính khả thi hạn chế quyền năng phải chứng minh được dưới yêu cầu gánh và truy vết **Chương Bốn**. Chúng cũng phải nhất quán với định nghĩa **Chương Năm** (kể cả Tính khả thi, Sự cần thiết, Tính tương xứng, và Giảm thiểu hại (Chọn đánh đổi)). Hạn chế phải vẫn chịu [Giám sát](core_05_apex_oversight_leg.md#oversight-constitutional) chia tỷ lệ theo [lợi hại vật chất](../../core_00_preamble.md#material-stake).
 
 Khi giới hạn tự do va với giá trị hoặc quyền hiến pháp khác, áp dụng [§6.1 Nguyên tắc đánh đổi cốt](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) đến [§6.1.5 Thủ tục va chạm quyền](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) sau khi **An toàn** và **Sự thật** đã thỏa.
 

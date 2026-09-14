@@ -12,7 +12,7 @@
 >
 > **Précédent (cette langue) :** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 >
-> **Suivant (encore en anglais) :** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+> **Suivant (cette langue) :** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 > **Arc de lecture :** O/M/A/C → décomposition de la fin → famille de mesure.
 
 </details>
@@ -118,6 +118,6 @@ Les paliers opératoires de mesure vivent sur ces foyers de définition.
 
 **Fichier précédent :** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
-**Fichier suivant (encore en anglais) :** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+**Fichier suivant (cette langue) :** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 
 **Original contraignant :** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)

@@ -215,7 +215,7 @@
 - [برگشت‌پذیری](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [وابستگی](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [پاسخگویی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [نظارت](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [نظارت](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -227,7 +227,7 @@
 
 **کف طبقه‌بندی.** هیچ نظامی را نمی‌توان در سطحی پایین‌تر از آنچه بالاترین طبقه‌بندی اعمال‌شدنی‌اش می‌خواهد حکمرانی کرد. برچسب اداری پایین‌تر نمی‌تواند موشکافی لازم از بالاترین طبقه‌بندی خطر، وابستگی، حقوق، یا اثر نظام اعمال‌شدنی را کاهش دهد.
 
-**جواب‌دهی مقیاس‌شده با اختیار.** تناسب همچنین کم‌حکمرانی کسانی را که قدرت مجاز، نقش پیامددار، یا نفوذ نهادی بیشتر دارند منع می‌کند: شدت [پاسخگویی](core_05_apex_accountability_leg.md#accountability) و [نظارت](../../core_05_apex_oversight_leg.md#oversight-constitutional) باید با آن اختیار بالا برود، نه پایین.
+**جواب‌دهی مقیاس‌شده با اختیار.** تناسب همچنین کم‌حکمرانی کسانی را که قدرت مجاز، نقش پیامددار، یا نفوذ نهادی بیشتر دارند منع می‌کند: شدت [پاسخگویی](core_05_apex_accountability_leg.md#accountability) و [نظارت](core_05_apex_oversight_leg.md#oversight-constitutional) باید با آن اختیار بالا برود، نه پایین.
 
 **آستانه‌های تشدیدشده.** جایی که اقدام‌ها خطر آسیب برگشت‌ناپذیر، قفل‌شدن سیستمی، خطر وجودی، یا از دست رفتن برگشت‌ناپذیر ظرفیت بازیابی بوم‌شناختی را وارد کنند، نظام‌ها باید آستانه‌های تشدیدشده برای توجیه، موشکافی، و برگشت‌پذیری جایی که عملی باشد اعمال کنند.
 

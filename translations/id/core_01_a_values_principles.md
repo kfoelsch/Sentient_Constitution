@@ -648,7 +648,7 @@ Kebebasan tidak mencakup wewenang untuk merusak sistem konstitusional, mengalahk
 - [Bahaya](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
 - [Risiko](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 - [Kebalikan](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [Pengawasan](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Pengawasan](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -660,7 +660,7 @@ Kebebasan boleh dibatasi hanya di mana:
 - perlu untuk mencegah **bahaya material** atau **risiko sistemik**
 - pembatasan itu **proporsional**, **dapat dibalik di mana mungkin**, dan **tunduk pada pengawasan**
 
-Batasan boleh dikenakan hanya ketika tidak ada alternatif yang lebih longgar dan cukup efektif, konsisten dengan [Keperluan](../../core_05_band_accountability.md#necessity) di **Bab Lima**. Klaim kelayakan yang membatasi keagenan harus dapat ditunjukkan di bawah persyaratan beban dan ketelusuran **Bab Empat**. Mereka juga harus konsisten dengan definisi **Bab Lima** (termasuk Kelayakan, Keperluan, Proporsionalitas, dan Minimalisasi Bahaya (Pemilihan Tukar-Guling)). Pembatasan harus tetap tunduk pada [Pengawasan](../../core_05_apex_oversight_leg.md#oversight-constitutional) yang diskalakan ke [taruhan material](../../core_00_preamble.md#material-stake).
+Batasan boleh dikenakan hanya ketika tidak ada alternatif yang lebih longgar dan cukup efektif, konsisten dengan [Keperluan](../../core_05_band_accountability.md#necessity) di **Bab Lima**. Klaim kelayakan yang membatasi keagenan harus dapat ditunjukkan di bawah persyaratan beban dan ketelusuran **Bab Empat**. Mereka juga harus konsisten dengan definisi **Bab Lima** (termasuk Kelayakan, Keperluan, Proporsionalitas, dan Minimalisasi Bahaya (Pemilihan Tukar-Guling)). Pembatasan harus tetap tunduk pada [Pengawasan](core_05_apex_oversight_leg.md#oversight-constitutional) yang diskalakan ke [taruhan material](../../core_00_preamble.md#material-stake).
 
 Ketika batas kebebasan bertabrakan dengan nilai atau hak konstitusional lain, terapkan [§6.1 Prinsip Tukar-Guling Inti](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) sampai [§6.1.5 Prosedur Tabrakan Hak](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) setelah **Keselamatan** dan **Kebenaran** terpenuhi.
 

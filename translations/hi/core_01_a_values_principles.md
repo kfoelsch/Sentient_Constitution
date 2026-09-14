@@ -648,7 +648,7 @@
 - [हानि](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
 - [जोखिम](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 - [उत्क्रमणीयता](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [निगरानी](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [निगरानी](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -660,7 +660,7 @@
 - **तात्विक हानि** या **प्रणालीगत जोखिम** रोकने के लिए आवश्यक हो
 - ऐसी सीमा **आनुपातिक**, **जहाँ संभव हो उत्क्रमणीय**, और **निगरानी के अधीन** हो
 
-बंधन केवल तब लगाए जा सकते हैं जब कोई कम-प्रतिबंधक, यथोचित प्रभावी विकल्प मौजूद न हो, **अध्याय पाँच** में [आवश्यकता](../../core_05_band_accountability.md#necessity) से सुसंगत। अभिकर्तृत्व सीमित करने वाले व्यवहार्यता दावे **अध्याय चार** भार और पता-योग्यता अपेक्षाओं के अधीन दिखाने योग्य होने चाहिए। उन्हें **अध्याय पाँच** परिभाषाओं से भी सुसंगत होना चाहिए (व्यवहार्यता, आवश्यकता, आनुपातिकता, और हानि न्यूनीकरण (व्यापार चयन) सहित)। सीमाएँ [भौतिक दाँव](../../core_00_preamble.md#material-stake) के अनुसार स्केल [निगरानी](../../core_05_apex_oversight_leg.md#oversight-constitutional) के अधीन रहनी चाहिए।
+बंधन केवल तब लगाए जा सकते हैं जब कोई कम-प्रतिबंधक, यथोचित प्रभावी विकल्प मौजूद न हो, **अध्याय पाँच** में [आवश्यकता](../../core_05_band_accountability.md#necessity) से सुसंगत। अभिकर्तृत्व सीमित करने वाले व्यवहार्यता दावे **अध्याय चार** भार और पता-योग्यता अपेक्षाओं के अधीन दिखाने योग्य होने चाहिए। उन्हें **अध्याय पाँच** परिभाषाओं से भी सुसंगत होना चाहिए (व्यवहार्यता, आवश्यकता, आनुपातिकता, और हानि न्यूनीकरण (व्यापार चयन) सहित)। सीमाएँ [भौतिक दाँव](../../core_00_preamble.md#material-stake) के अनुसार स्केल [निगरानी](core_05_apex_oversight_leg.md#oversight-constitutional) के अधीन रहनी चाहिए।
 
 जब स्वतंत्रता सीमाएँ अन्य संवैधानिक मूल्यों या अधिकारों से टकराएँ, **सुरक्षा** और **सत्य** पूरे होने के बाद [§6.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) से [§6.1.5 अधिकार-टकराव प्रक्रिया](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) लागू करें।
 

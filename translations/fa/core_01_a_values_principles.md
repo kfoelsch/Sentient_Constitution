@@ -649,7 +649,7 @@
 - [آسیب](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
 - [خطر](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 - [برگشت‌پذیری](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [نظارت](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [نظارت](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -661,7 +661,7 @@
 - برای پیشگیری **آسیب مادی** یا **خطر سیستمی** لازم باشد
 - چنین محدودیتی **متناسب**، **جایی که ممکن برگشت‌پذیر**، و **مشمول نظارت** باشد
 
-قیدها را فقط وقتی می‌توان گذاشت که هیچ جایگزین کم‌محدودکننده و به‌طور معقول مؤثر وجود نداشته باشد، سازگار با [ضرورت](../../core_05_band_accountability.md#necessity) در **فصل پنجم**. ادعاهای امکان‌پذیری که عاملیت را محدود می‌کنند باید زیر الزامات بار اثبات و ردگیری **فصل چهارم** قابل‌نشان‌دادن باشند. همچنین باید با تعریف‌های **فصل پنجم** سازگار باشند (از جمله امکان‌پذیری، ضرورت، تناسب، و کمینه‌سازی آسیب (انتخاب بده‌بستان)). محدودیت‌ها باید مشمول [نظارت](../../core_05_apex_oversight_leg.md#oversight-constitutional) مقیاس‌شده با [منافع مادی](core_00_preamble.md#material-stake) بمانند.
+قیدها را فقط وقتی می‌توان گذاشت که هیچ جایگزین کم‌محدودکننده و به‌طور معقول مؤثر وجود نداشته باشد، سازگار با [ضرورت](../../core_05_band_accountability.md#necessity) در **فصل پنجم**. ادعاهای امکان‌پذیری که عاملیت را محدود می‌کنند باید زیر الزامات بار اثبات و ردگیری **فصل چهارم** قابل‌نشان‌دادن باشند. همچنین باید با تعریف‌های **فصل پنجم** سازگار باشند (از جمله امکان‌پذیری، ضرورت، تناسب، و کمینه‌سازی آسیب (انتخاب بده‌بستان)). محدودیت‌ها باید مشمول [نظارت](core_05_apex_oversight_leg.md#oversight-constitutional) مقیاس‌شده با [منافع مادی](core_00_preamble.md#material-stake) بمانند.
 
 وقتی حدهای آزادی با ارزش‌ها یا حقوق دیگر قانون اساسی تصادم کنند، [§6.1 اصول اصلی بده‌بستان](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) تا [§6.1.5 رویهٔ تصادم حقوق](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) را پس از برآوردن **ایمنی** و **حقیقت** اعمال کنید.
 

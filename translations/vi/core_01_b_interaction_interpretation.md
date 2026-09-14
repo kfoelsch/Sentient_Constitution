@@ -214,7 +214,7 @@ Giảm thiểu hại chọn giữa các lựa chọn đã vượt những sàn �
 - [Khả năng đảo ngược](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [Phụ thuộc](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Giám sát](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Giám sát](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -226,7 +226,7 @@ Hạn chế **giá trị** hiến pháp — kể cả bảo vệ Sàn Quyền **
 
 **Sàn phân loại.** Không hệ thống nào được quản trị ở mức thấp hơn mức đòi bởi phân loại áp dụng cao nhất của nó. Nhãn hành chính thấp hơn không thể giảm rà soát đòi bởi phân loại rủi ro, phụ thuộc, quyền, hoặc tác động hệ thống áp dụng cao nhất.
 
-**Phải trả lời chia tỷ lệ theo thẩm quyền.** Tính tương xứng cũng cấm dưới-quản trị những ai nắm quyền được ủy lớn hơn, vai trò có hệ quả, hoặc ảnh hưởng thể chế: cường độ [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability) và [Giám sát](../../core_05_apex_oversight_leg.md#oversight-constitutional) phải tăng với thẩm quyền đó, không giảm.
+**Phải trả lời chia tỷ lệ theo thẩm quyền.** Tính tương xứng cũng cấm dưới-quản trị những ai nắm quyền được ủy lớn hơn, vai trò có hệ quả, hoặc ảnh hưởng thể chế: cường độ [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability) và [Giám sát](core_05_apex_oversight_leg.md#oversight-constitutional) phải tăng với thẩm quyền đó, không giảm.
 
 **Ngưỡng nâng.** Nơi hành động đưa rủi ro hại không đảo ngược, khóa-trong hệ thống, Rủi ro tồn vong, hoặc mất không đảo ngược Năng lực phục hồi sinh thái, hệ thống phải áp ngưỡng nâng cho biện minh, rà soát, và khả năng đảo ngược nơi khả thi.
 

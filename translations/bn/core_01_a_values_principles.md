@@ -649,7 +649,7 @@
 - [ক্ষতি](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
 - [ঝুঁকি](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 - [উল্টানো যায় এমনতা](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [তত্ত্বাবধান](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [তত্ত্বাবধান](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -661,7 +661,7 @@
 - **বস্তুগত ক্ষতি** বা **ব্যবস্থাগত ঝুঁকি** আটকাতে প্রয়োজনীয়
 - সেই সীমাবদ্ধতা **আনুপাতিক**, **যেখানে সম্ভব উল্টানো যায়**, এবং **তত্ত্বাবধানের অধীন**
 
-বন্ধন চাপানো যায় শুধু যখন কোনো কম-সীমাবদ্ধ, যুক্তিসঙ্গতভাবে কার্যকর বিকল্প নেই, **অধ্যায় পাঁচ**-এ [প্রয়োজনীয়তা](../../core_05_band_accountability.md#necessity)-এর সঙ্গে সামঞ্জস্যপূর্ণ। কর্তৃত্ব সীমিত করা সম্ভাব্যতা দাবি **অধ্যায় চার** ভার ও খুঁজে পাওয়া প্রত্যাশার অধীনে দেখানো যায় এমন হতে হয়। সেগুলো **অধ্যায় পাঁচ** সংজ্ঞার সঙ্গেও সামঞ্জস্যপূর্ণ হতে হয় (সম্ভাব্যতা, প্রয়োজনীয়তা, আনুপাতিকতা, এবং ক্ষতি ন্যূনতমকরণ (বাণিজ্য-নির্বাচন) সহ)। সীমাবদ্ধতা [তত্ত্বাবধান](../../core_05_apex_oversight_leg.md#oversight-constitutional)-এর অধীন থাকতে হয়, [বস্তুগত বাজি](../../core_00_preamble.md#material-stake) অনুসারে স্কেল।
+বন্ধন চাপানো যায় শুধু যখন কোনো কম-সীমাবদ্ধ, যুক্তিসঙ্গতভাবে কার্যকর বিকল্প নেই, **অধ্যায় পাঁচ**-এ [প্রয়োজনীয়তা](../../core_05_band_accountability.md#necessity)-এর সঙ্গে সামঞ্জস্যপূর্ণ। কর্তৃত্ব সীমিত করা সম্ভাব্যতা দাবি **অধ্যায় চার** ভার ও খুঁজে পাওয়া প্রত্যাশার অধীনে দেখানো যায় এমন হতে হয়। সেগুলো **অধ্যায় পাঁচ** সংজ্ঞার সঙ্গেও সামঞ্জস্যপূর্ণ হতে হয় (সম্ভাব্যতা, প্রয়োজনীয়তা, আনুপাতিকতা, এবং ক্ষতি ন্যূনতমকরণ (বাণিজ্য-নির্বাচন) সহ)। সীমাবদ্ধতা [তত্ত্বাবধান](core_05_apex_oversight_leg.md#oversight-constitutional)-এর অধীন থাকতে হয়, [বস্তুগত বাজি](../../core_00_preamble.md#material-stake) অনুসারে স্কেল।
 
 যখন স্বাধীনতা সীমা অন্য সাংবিধানিক মূল্য বা অধিকারের সঙ্গে সংঘর্ষ করে, প্রয়োগ করুন [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) থেকে [§6.1.5 অধিকার-সংঘর্ষ পদ্ধতি](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) **নিরাপত্তা** ও **সত্য** পূরণের পর।
 

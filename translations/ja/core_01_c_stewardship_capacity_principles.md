@@ -24,8 +24,8 @@
 
 **原則階層（C部）。** 原則層において：
 
-9. **[責務ある管理](../../core_05_band_continuity.md#stewardship-constitutional)** は、感知者の組織を通じて実質的システムを方向づける — **柱 1**（[§9.1](#91-stewardship)：結果の伴う実務的運用と改善）および **柱 2**（[§9.2](#92-distributed-understanding) · [§9.3](#93-institutional-development)：共同体と制度の尺度での能力）— 時間を通じた耐久する憲法整合へ、[憲法四元](core_00_preamble.md#constitutional-tetrad)のもとで — とくに**[参加](../../core_05_apex_participation_leg.md#participation-constitutional)**（結果の伴う役割と声）および**[監督](../../core_05_apex_oversight_leg.md#oversight-constitutional)**（分散した理解、監査可能性、争訟可能性 — 監督は監査を求める。[システム整合認証](../../core_05_band_continuity.md#system-alignment-certification-constitutional)は、他のもののなかでもとくに大きな監査過程の一つである）— [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)のもとでの**継続**目的を含む。
-10. **[統治](../../core_05_band_accountability.md#governance)** は、[憲法四元](core_00_preamble.md#constitutional-tetrad)のもとで授権された意思決定、参加、説明責任を構造化する — とくに権力がどう割り当てられ行使されるかの**[監督](../../core_05_apex_oversight_leg.md#oversight-constitutional)**、および [§10.1](#101-governance-as-authorized-structure) のもとでの**権限に応じて尺度を合わせた応答義務**：より大きな授権された権力または結果の伴う役割は、憲法上の説明責任と監督を上げ、決して下げない。[§10.2 職務の分離](#102-segregation-of-duties)は、行為した者が点検する者にならないように保つ。[§10.3 継続的正当化](#103-ongoing-justification)は、それらの取決めがなおこの憲法に合うことを証明し続けることを求める。統治と責務ある管理が衝突するところでは、**必要性**と**比例性**が、訂正経路を伴う有界で期限付きの例外を明示的に正当化しない限り、原則層では責務ある管理の規律が制御する。操作性の授権と契約層の要件は、なお**第十二章**が所管する。
+9. **[責務ある管理](../../core_05_band_continuity.md#stewardship-constitutional)** は、感知者の組織を通じて実質的システムを方向づける — **柱 1**（[§9.1](#91-stewardship)：結果の伴う実務的運用と改善）および **柱 2**（[§9.2](#92-distributed-understanding) · [§9.3](#93-institutional-development)：共同体と制度の尺度での能力）— 時間を通じた耐久する憲法整合へ、[憲法四元](core_00_preamble.md#constitutional-tetrad)のもとで — とくに**[参加](../../core_05_apex_participation_leg.md#participation-constitutional)**（結果の伴う役割と声）および**[監督](core_05_apex_oversight_leg.md#oversight-constitutional)**（分散した理解、監査可能性、争訟可能性 — 監督は監査を求める。[システム整合認証](../../core_05_band_continuity.md#system-alignment-certification-constitutional)は、他のもののなかでもとくに大きな監査過程の一つである）— [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)のもとでの**継続**目的を含む。
+10. **[統治](../../core_05_band_accountability.md#governance)** は、[憲法四元](core_00_preamble.md#constitutional-tetrad)のもとで授権された意思決定、参加、説明責任を構造化する — とくに権力がどう割り当てられ行使されるかの**[監督](core_05_apex_oversight_leg.md#oversight-constitutional)**、および [§10.1](#101-governance-as-authorized-structure) のもとでの**権限に応じて尺度を合わせた応答義務**：より大きな授権された権力または結果の伴う役割は、憲法上の説明責任と監督を上げ、決して下げない。[§10.2 職務の分離](#102-segregation-of-duties)は、行為した者が点検する者にならないように保つ。[§10.3 継続的正当化](#103-ongoing-justification)は、それらの取決めがなおこの憲法に合うことを証明し続けることを求める。統治と責務ある管理が衝突するところでは、**必要性**と**比例性**が、訂正経路を伴う有界で期限付きの例外を明示的に正当化しない限り、原則層では責務ある管理の規律が制御する。操作性の授権と契約層の要件は、なお**第十二章**が所管する。
 11. **[誘因整合とシステム捕捉](#11-incentive-alignment-and-system-capture)** は、誘因構造、代替指標の誠実性、短い時間地平の欠陥、報酬経路の訂正、捕捉への応答についての原則層の規律を供給する。
 12. **[共有システムの能力](../../core_05_band_continuity.md#shared-system-capacity-constitutional)** は、良い責務ある管理、統治、誘因が時間を通じて積み上がるべきもの — 感知者と共有システムが憲法上求められる仕事を成し遂げる、本物で争訟可能な能力である。それは**繁栄**へ向かう手段であり、他のすべてに対する切り札ではない。**[§12.1](#121-productive-capacity-instrumental-good)** と **[§12.2](#122-constitutional-efficiency)** がその二つの主な面を説明する。
 13. **[市場構造](../../core_05_band_accountability.md#market-structure-constitutional)** は [§13](#13-market-structure) において、その能力を実務において争訟可能なままに保つ反集中の規律を供給する。
@@ -63,7 +63,7 @@
 - [戦略的責務ある管理義務](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional) · [O](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional) · [M](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [分散した理解](../../core_05_band_continuity.md#distributed-understanding-constitutional) · [O](../../core_05_band_continuity.md#distributed-understanding-constitutional) · [M](../../core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](../../core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](../../core_05_band_continuity.md#distributed-understanding-constitutional-c)
 - [参加](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
-- [監督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [監督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [意味ある行為主体性](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
 - [監査可能性](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
 - [争訟可能性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
@@ -584,7 +584,7 @@
 
 それは、[§6.1.4](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints) のもとで絶対の床としても働く取引スタックの文脈に限られない。
 
-**検出と異議。** 過程の品格は、実質成果と同じ [争訟可能性](../../core_05_band_accountability.md#contestability) および [監督](../../core_05_apex_oversight_leg.md#oversight-constitutional) の要件に服する。影響を受ける当事者は、実質成果がさもなくば適法かどうかにかかわりなく、過程の品格に独立して異議を唱えてよい。劣化させる過程を通じて届けられた正しい成果は、なお不遵守である。
+**検出と異議。** 過程の品格は、実質成果と同じ [争訟可能性](../../core_05_band_accountability.md#contestability) および [監督](core_05_apex_oversight_leg.md#oversight-constitutional) の要件に服する。影響を受ける当事者は、実質成果がさもなくば適法かどうかにかかわりなく、過程の品格に独立して異議を唱えてよい。劣化させる過程を通じて届けられた正しい成果は、なお不遵守である。
 
 <br>
 
@@ -614,7 +614,7 @@
 - [必要性](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
 - [比例性](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 - [参加](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
-- [監督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [監督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [説明責任](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [帰属可能な行為](../../core_05_band_accountability.md#attributable-action-constitutional) · [O](../../core_05_band_accountability.md#attributable-action-constitutional) · [M](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [A](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [C](../../core_05_band_accountability.md#attributable-action-constitutional-c)
 - [帰属の誠実性](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [O](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [M](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [A](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [C](../../core_05_band_accountability.md#attribution-integrity-constitutional-c)
@@ -635,7 +635,7 @@
 
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — **参加**脚（方向づけにおける授権された声と結果の伴う役割）。**監督**脚（権威の割当と行使の精査）。**説明責任**脚（統治の成果と捕捉についての応答義務）。[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ。
 - あわせて読む：[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄**目的（意味ある行為主体性と適法な参加を保全する統治）。**継続**目的（耐久する制度的整合と長い時間地平の責務ある管理の規律）。
-- あわせて読む：[§6.1.3 比例性](core_01_b_interaction_interpretation.md#613-proportionality)（*分類の床と過小統治の規律*）；[必要性](../../core_05_band_accountability.md#necessity)；[比例性](../../core_05_band_accountability.md#proportionality)；[説明責任](core_05_apex_accountability_leg.md#accountability)；[監督](../../core_05_apex_oversight_leg.md#oversight-constitutional)。
+- あわせて読む：[§6.1.3 比例性](core_01_b_interaction_interpretation.md#613-proportionality)（*分類の床と過小統治の規律*）；[必要性](../../core_05_band_accountability.md#necessity)；[比例性](../../core_05_band_accountability.md#proportionality)；[説明責任](core_05_apex_accountability_leg.md#accountability)；[監督](core_05_apex_oversight_leg.md#oversight-constitutional)。
 - 上流：原則：[§9 責務ある管理と分散した理解](#9-stewardship-and-distributed-understanding)；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)。
 - 下流：[§10.2 職務の分離](#102-segregation-of-duties)；[§10.3 継続的正当化](#103-ongoing-justification)；[§11 誘因整合とシステム捕捉](#11-incentive-alignment-and-system-capture)；[第十二章](../../core_12_governance.md)（*憲法契約層*の操作化）；[Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（*フォーラム構成員の開示、忌避、反捕捉の床*）；[第十一章](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*フォーラム群の監督*）。
 
@@ -649,7 +649,7 @@
 - [必要性](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
 - [比例性](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 - [参加](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
-- [監督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [監督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [説明責任](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -667,7 +667,7 @@
 - 制度を方向づける過程；および
 - 統治そのものを説明責任に置く仕組み。
 
-**権限に応じて尺度を合わせた応答義務。** より大きな授権された権力、結果の伴う役割、または制度的影響力は、[実質的利害](core_00_preamble.md#material-stake) に応じて尺度を合わせ、[必要性](../../core_05_band_accountability.md#necessity) および [比例性](../../core_05_band_accountability.md#proportionality) とあわせて読む [憲法四元](core_00_preamble.md#constitutional-tetrad) のもとでの憲法上の [説明責任](core_05_apex_accountability_leg.md#accountability) および [監督](../../core_05_apex_oversight_leg.md#oversight-constitutional) の義務を上げ — 下げてはならない：
+**権限に応じて尺度を合わせた応答義務。** より大きな授権された権力、結果の伴う役割、または制度的影響力は、[実質的利害](core_00_preamble.md#material-stake) に応じて尺度を合わせ、[必要性](../../core_05_band_accountability.md#necessity) および [比例性](../../core_05_band_accountability.md#proportionality) とあわせて読む [憲法四元](core_00_preamble.md#constitutional-tetrad) のもとでの憲法上の [説明責任](core_05_apex_accountability_leg.md#accountability) および [監督](core_05_apex_oversight_leg.md#oversight-constitutional) の義務を上げ — 下げてはならない：
 
 - 職、専門知の稀少、人員の必要、または制度の自己保護は、この憲法への応答義務を薄めてはならない；
 - 解釈または裁定の権威を行使する**憲法フォーラムの構成員とパネル構成員**は、とくにこの規律に服する；
@@ -697,7 +697,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [監督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [監督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [説明責任](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [比例性](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 - [争訟可能性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
@@ -710,7 +710,7 @@
 
 *平たい言葉で言えば：あることをする者は、それを点検し、記録し、それについての苦情を聞く者ではない — AI の責務ある管理者についても人間についても。審査されている行為者が検証者でもあるなら、監督は本物ではない。*
 
-**職務の分離：** [監督](../../core_05_apex_oversight_leg.md#oversight-constitutional) は、点検する者が行為した者ではないところでだけ存在する。
+**職務の分離：** [監督](core_05_apex_oversight_leg.md#oversight-constitutional) は、点検する者が行為した者ではないところでだけ存在する。
 
 - **それが覆うもの：** いかなる実質的に拘束力ある行為：
   - 決定
@@ -751,7 +751,7 @@
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
 - [適時性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional) · [O](../../core_05_apex_timeliness_leg.md#timeliness-constitutional) · [M](../../core_05_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](../../core_05_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](../../core_05_apex_timeliness_leg.md#timeliness-constitutional-c)
-- [監督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [監督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [争訟可能性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [説明責任](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [透明性](../../core_05_band_oversight.md#transparency) · [O](../../core_05_band_oversight.md#transparency) · [M](../../core_05_band_oversight.md#transparency-a) · [A](../../core_05_band_oversight.md#transparency-a) · [C](../../core_05_band_oversight.md#transparency-c)
@@ -1076,7 +1076,7 @@
 - [システム捕捉](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
 - [反捕捉](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
 - [争訟可能性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [監督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [監督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [説明責任](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [審査と訂正の義務](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
 
@@ -1091,7 +1091,7 @@
 次のいずれかを実質的に損なう集中したまたは隠された制御構造は、**第五章**の意味における [**システム捕捉**](../../core_05_band_continuity.md#system-capture) であり、本章と両立しない：
 
 - [争訟可能性](../../core_05_band_accountability.md#contestability)；
-- [監督](../../core_05_apex_oversight_leg.md#oversight-constitutional)；または
+- [監督](core_05_apex_oversight_leg.md#oversight-constitutional)；または
 - [説明責任](core_05_apex_accountability_leg.md#accountability)。
 
 **数える形：**
@@ -1968,7 +1968,7 @@
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
 - [分類に応じた統治](../../core_05_band_oversight.md#classification-scaled-governance) · [O](../../core_05_band_oversight.md#classification-scaled-governance) · [M](../../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../../core_05_band_oversight.md#classification-scaled-governance-c)
-- [監督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [監督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [監査可能性](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
 - [システム整合認証](../../core_05_band_continuity.md#system-alignment-certification-constitutional) · [O](../../core_05_band_continuity.md#system-alignment-certification-constitutional) · [M](../../core_05_band_continuity.md#system-alignment-certification-constitutional-a) · [A](../../core_05_band_continuity.md#system-alignment-certification-constitutional-a) · [C](../../core_05_band_continuity.md#system-alignment-certification-constitutional-c)
 - [リスク](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
@@ -1997,7 +1997,7 @@
 - **[corpus_systems.md](../../corpus_systems.md)、CS-3 — システムの分類と取扱い**。
 
 その第七章の過程は：
-- [監督](../../core_05_apex_oversight_leg.md#oversight-constitutional) のもとでの原則層の監査である；
+- [監督](core_05_apex_oversight_leg.md#oversight-constitutional) のもとでの原則層の監査である；
 - 兄弟の様式のなかでもとくに大きな監査過程の一つである；
 - **Article XV**（《監査、透明性、独立検証》）を移しまたは置き換えない。
 

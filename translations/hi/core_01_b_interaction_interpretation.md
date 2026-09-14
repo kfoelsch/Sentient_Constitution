@@ -213,7 +213,7 @@
 - [उत्क्रमणीयता](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [निर्भरता](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [जवाबदेही](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [निगरानी](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [निगरानी](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -225,7 +225,7 @@
 
 **वर्गीकरण तल।** कोई प्रणाली अपने उच्चतम लागू वर्गीकरण से नीचे के स्तर पर शासित नहीं हो सकती। निम्न प्रशासनिक लेबल उस जाँच को घटा नहीं सकता जो उच्चतम लागू जोखिम, निर्भरता, अधिकार या प्रणाली-प्रभाव वर्गीकरण माँगता है।
 
-**प्राधिकार-स्केल उत्तरदेयता।** आनुपातिकता उन लोगों के न्यून-शासन को भी मना करती है जिनके पास अधिक अधिकृत शक्ति, परिणामी भूमिका, या संस्थागत प्रभाव हो: [जवाबदेही](core_05_apex_accountability_leg.md#accountability) और [निगरानी](../../core_05_apex_oversight_leg.md#oversight-constitutional) की तीव्रता उस प्राधिकार के साथ उठनी चाहिए, गिरनी नहीं।
+**प्राधिकार-स्केल उत्तरदेयता।** आनुपातिकता उन लोगों के न्यून-शासन को भी मना करती है जिनके पास अधिक अधिकृत शक्ति, परिणामी भूमिका, या संस्थागत प्रभाव हो: [जवाबदेही](core_05_apex_accountability_leg.md#accountability) और [निगरानी](core_05_apex_oversight_leg.md#oversight-constitutional) की तीव्रता उस प्राधिकार के साथ उठनी चाहिए, गिरनी नहीं।
 
 **ऊँचे देहलीज़।** जहाँ कार्रवाई अपरिवर्तनीय हानि, प्रणालीगत लॉक-इन, अस्तित्वगत जोखिम, या पारिस्थितिक पुनर्प्राप्ति क्षमता की अपरिवर्तनीय हानि का जोखिम लाए, प्रणालियों को औचित्य, जाँच, और जहाँ व्यवहार्य हो उत्क्रमणीयता के लिए ऊँचे देहलीज़ लागू करने चाहिए।
 

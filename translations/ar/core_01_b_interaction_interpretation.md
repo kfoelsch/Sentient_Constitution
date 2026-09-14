@@ -215,7 +215,7 @@
 - [القابلية للعكس](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [الاعتماد](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [المساءلة](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [الرقابة](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [الرقابة](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -227,7 +227,7 @@
 
 **أرضية التصنيف.** لا يجوز حكم أي نظام عند مستوى أدنى مما يطلبه أعلى تصنيف منطبق عليه. لا تستطيع تسمية إدارية أدنى أن تخفض الفحص الذي يطلبه أعلى تصنيف منطبق للمخاطر أو الاعتماد أو الحقوق أو أثر النظام.
 
-**واجب الجواب المقيس بالسلطة.** يحظر التناسب أيضًا نقص حوكمة من يحملون سلطة مرخَّصًا لها أكبر أو دورًا ذا عاقبة أو نفوذًا مؤسسيًا: يجب أن ترتفع شدة [المساءلة](core_05_apex_accountability_leg.md#accountability) و[الرقابة](../../core_05_apex_oversight_leg.md#oversight-constitutional) مع تلك السلطة، لا أن تنخفض.
+**واجب الجواب المقيس بالسلطة.** يحظر التناسب أيضًا نقص حوكمة من يحملون سلطة مرخَّصًا لها أكبر أو دورًا ذا عاقبة أو نفوذًا مؤسسيًا: يجب أن ترتفع شدة [المساءلة](core_05_apex_accountability_leg.md#accountability) و[الرقابة](core_05_apex_oversight_leg.md#oversight-constitutional) مع تلك السلطة، لا أن تنخفض.
 
 **عتبات مشدَّدة.** حيث تُدخل الأفعال مخاطر ضرر غير قابل للعكس أو إقفال منظومي أو مخاطر وجودية أو فقدان غير قابل للعكس لقدرة التعافي البيئي، يجب أن تطبّق الأنظمة عتبات مشدَّدة للتبرير والفحص والقابلية للعكس حيث يكون ذلك ممكنًا.
 

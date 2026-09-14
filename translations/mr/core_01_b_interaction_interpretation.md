@@ -214,7 +214,7 @@
 - [उत्क्रमणीयता](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [अवलंबित्व](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [देखरेख](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -226,7 +226,7 @@
 
 **वर्गीकरण तल.** कोणतेही प्रणाली अपने उच्चतम लागू वर्गीकरण पासून खाली चे स्तर वर शासित नाही होऊ शकते. निम्न प्रशासनिक लेबल त्या जाँच ला घटा नाही शकतो जो उच्चतम लागू धोका, अवलंबित्व, अधिकार या प्रणाली-प्रभाव वर्गीकरण मागतो.
 
-**प्राधिकार-स्केल उत्तरदेयता.** प्रमाणबद्धता त्या लोकांना चे न्यून-शासन ला सुद्धा मना करते जिनके पास अधिक अधिकृत शक्ति, परिणामी भूमिका, या संस्थागत प्रभाव हो: [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) आणि [देखरेख](../../core_05_apex_oversight_leg.md#oversight-constitutional) ची तीव्रता त्या प्राधिकार सोबत उठनी हवे, गिरनी नाही.
+**प्राधिकार-स्केल उत्तरदेयता.** प्रमाणबद्धता त्या लोकांना चे न्यून-शासन ला सुद्धा मना करते जिनके पास अधिक अधिकृत शक्ति, परिणामी भूमिका, या संस्थागत प्रभाव हो: [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) आणि [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) ची तीव्रता त्या प्राधिकार सोबत उठनी हवे, गिरनी नाही.
 
 **ऊँचे देहलीज़.** जिथे कार्रवाई अपरिवर्तनीय हानि, प्रणालीगत लॉक-इन, अस्तित्वगत धोका, या पारिस्थितिक पुनर्प्राप्ति क्षमता ची अपरिवर्तनीय हानि चा धोका लाए, प्रणालीं ला समर्थनीयता, जाँच, आणि जिथे व्यवहार्य हो उत्क्रमणीयता साठी ऊँचे देहलीज़ लागू करणे हवे.
 

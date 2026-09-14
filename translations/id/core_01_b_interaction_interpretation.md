@@ -213,7 +213,7 @@ Minimalisasi bahaya memilih di antara opsi yang sudah melewati lantai itu — ia
 - [Kebalikan](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [Ketergantungan](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [Pertanggungjawaban](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Pengawasan](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Pengawasan](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -225,7 +225,7 @@ Pembatasan atas **nilai** konstitusional — termasuk perlindungan Lantai Hak **
 
 **Lantai klasifikasi.** Tidak ada sistem yang boleh ditata kelola pada tingkat lebih rendah dari yang dituntut klasifikasi tertingginya yang berlaku. Label administratif yang lebih rendah tidak dapat mengurangi pemeriksaan yang dituntut oleh klasifikasi risiko, ketergantungan, hak, atau dampak-sistem tertinggi yang berlaku.
 
-**Kewajiban menjawab berskala wewenang.** Proporsionalitas juga melarang kekurangan tata kelola atas mereka yang memegang kuasa yang diizinkan lebih besar, peran berakibat, atau pengaruh kelembagaan: intensitas [Pertanggungjawaban](core_05_apex_accountability_leg.md#accountability) dan [Pengawasan](../../core_05_apex_oversight_leg.md#oversight-constitutional) harus naik bersama wewenang itu, bukan turun.
+**Kewajiban menjawab berskala wewenang.** Proporsionalitas juga melarang kekurangan tata kelola atas mereka yang memegang kuasa yang diizinkan lebih besar, peran berakibat, atau pengaruh kelembagaan: intensitas [Pertanggungjawaban](core_05_apex_accountability_leg.md#accountability) dan [Pengawasan](core_05_apex_oversight_leg.md#oversight-constitutional) harus naik bersama wewenang itu, bukan turun.
 
 **Ambang yang ditingkatkan.** Di mana tindakan memperkenalkan risiko bahaya yang tidak dapat dibalik, penguncian sistemik, Risiko Eksistensial, atau kehilangan Kapasitas Pemulihan Ekologis yang tidak dapat dibalik, sistem harus menerapkan ambang yang ditingkatkan untuk justifikasi, pemeriksaan, dan kebalikan di mana layak.
 

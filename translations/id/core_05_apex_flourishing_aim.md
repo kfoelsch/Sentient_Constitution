@@ -12,7 +12,7 @@
 >
 > **Sebelumnya (lokal ini):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 >
-> **Berikutnya (masih bahasa Inggris):** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+> **Berikutnya (bahasa ini):** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 > **Alur baca:** O/M/A/C → dekomposisi tujuan → keluarga pengukuran.
 
 </details>
@@ -118,6 +118,6 @@ Tingkatan pengukuran operatif hidup pada rumah definisi itu.
 
 **Berkas sebelumnya:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
-**Berkas berikutnya (masih bahasa Inggris):** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+**Berkas berikutnya (bahasa ini):** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 
 **Sumber mengikat:** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)

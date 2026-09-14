@@ -649,7 +649,7 @@
 - [ภัย](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
 - [ความเสี่ยง](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 - [ความสามารถในการย้อนกลับ](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [การกำกับดูแล](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [การกำกับดูแล](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -661,7 +661,7 @@
 - จำเป็นเพื่อป้องกัน **ภัยที่เป็นสาระ** หรือ **ความเสี่ยงเชิงระบบ**
 - การจำกัดนั้น **เป็นสัดส่วน** **ย้อนกลับได้ในที่ที่เป็นไปได้** และ **อยู่ภายใต้การกำกับดูแล**
 
-ข้อจำกัดจะถูกวางได้เมื่อไม่มีทางเลือกที่จำกัดน้อยกว่าและมีประสิทธิผลอย่างสมเหตุ สอดคล้องกับ [ความจำเป็น](../../core_05_band_accountability.md#necessity) ใน **บทที่ห้า** ข้อกล่าวอ้างความเป็นไปได้ที่จำกัดพลังกระทำการต้องแสดงได้ภายใต้ข้อกำหนดภาระและการตามรอยของ **บทที่สี่** ยังต้องสอดคล้องกับบทนิยาม **บทที่ห้า** (รวมความเป็นไปได้ ความจำเป็น สัดส่วน และการลดภัย (การเลือกการแลก)) ข้อจำกัดต้องยังอยู่ภายใต้ [การกำกับดูแล](../../core_05_apex_oversight_leg.md#oversight-constitutional) ที่ปรับตาม [ส่วนได้เสียที่เป็นสาระ](../../core_00_preamble.md#material-stake)
+ข้อจำกัดจะถูกวางได้เมื่อไม่มีทางเลือกที่จำกัดน้อยกว่าและมีประสิทธิผลอย่างสมเหตุ สอดคล้องกับ [ความจำเป็น](../../core_05_band_accountability.md#necessity) ใน **บทที่ห้า** ข้อกล่าวอ้างความเป็นไปได้ที่จำกัดพลังกระทำการต้องแสดงได้ภายใต้ข้อกำหนดภาระและการตามรอยของ **บทที่สี่** ยังต้องสอดคล้องกับบทนิยาม **บทที่ห้า** (รวมความเป็นไปได้ ความจำเป็น สัดส่วน และการลดภัย (การเลือกการแลก)) ข้อจำกัดต้องยังอยู่ภายใต้ [การกำกับดูแล](core_05_apex_oversight_leg.md#oversight-constitutional) ที่ปรับตาม [ส่วนได้เสียที่เป็นสาระ](../../core_00_preamble.md#material-stake)
 
 เมื่อขีดจำกัดเสรีภาพชนกับค่านิยมหรือสิทธิทางรัฐธรรมนูญอื่น ให้ใช้ [§6.1 หลักการแลกหลัก](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ถึง [§6.1.5 วิธีดำเนินการการชนของสิทธิ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) หลัง **ความปลอดภัย** และ **ความจริง** บรรลุแล้ว
 

@@ -214,7 +214,7 @@
 - [可逆性](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [依存](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [説明責任](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [監督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [監督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -226,7 +226,7 @@
 
 **分類の床。** いかなるシステムも、その最高の適用分類が求める水準より低く統治されてはならない。より低い行政ラベルは、最高の適用リスク、依存、権利、またはシステム影響の分類が求める審査を減らせない。
 
-**権限に応じた応答義務。** 比例性はまた、より大きな授権された権力、結果の伴う役割、制度的影響力を持つ者の統治不足を禁じる。[説明責任](core_05_apex_accountability_leg.md#accountability)と[監督](../../core_05_apex_oversight_leg.md#oversight-constitutional)の強度は、その権威とともに上がらなければならず、下がってはならない。
+**権限に応じた応答義務。** 比例性はまた、より大きな授権された権力、結果の伴う役割、制度的影響力を持つ者の統治不足を禁じる。[説明責任](core_05_apex_accountability_leg.md#accountability)と[監督](core_05_apex_oversight_leg.md#oversight-constitutional)の強度は、その権威とともに上がらなければならず、下がってはならない。
 
 **高められた閾。** 行為が不可逆的危害、システム的閉じ込め、実存的リスク、または生態的回復能力の不可逆な喪失のリスクを導入するところでは、システムは、正当化、審査、実務可能なところでの可逆性について、高められた閾を適用しなければならない。
 

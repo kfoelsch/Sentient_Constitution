@@ -24,8 +24,8 @@
 
 **原则层级（C 部分）。** 在原则层：
 
-9. **[尽责管理](../../core_05_band_continuity.md#stewardship-constitutional)** 通过感知者组织为实质系统定向 — **支柱 1**（[§9.1](#91-stewardship)：有后果的亲手运营与改进）与 **支柱 2**（[§9.2](#92-distributed-understanding) · [§9.3](#93-institutional-development)：共同体与机构尺度上的能力） — 在[宪法四元](core_00_preamble.md#constitutional-tetrad)下，尤其是 **[参与](../../core_05_apex_participation_leg.md#participation-constitutional)**（有后果的角色与声音）与 **[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)**（分布式理解、可审计性与可质疑性 — 监督要求审计；[系统对齐认证](../../core_05_band_continuity.md#system-alignment-certification-constitutional)是诸多审计过程中一项特别大型的） — 包括[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)下的**延续**宗旨，随时间走向持久的宪法对齐。
-10. **[治理](../../core_05_band_accountability.md#governance)** 在[宪法四元](core_00_preamble.md#constitutional-tetrad)下构造获授权的决策、参与与问责 — 尤其是对权威如何被分配与行使的 **[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)**，以及 [§10.1](#101-governance-as-authorized-structure) 下**按权威缩放的应答义务**：更大的获授权权力或有后果角色提高宪法问责与监督，永远不降低它们。[§10.2 职责分离](#102-segregation-of-duties)使行动者不得同时是核验者。[§10.3 持续正当化](#103-ongoing-justification)要求那些安排持续证明它们仍契合本宪法。凡治理与尽责管理冲突之处，尽责管理纪律在原则层控制，除非**必要性**与**相称性**明确正当化一项有界、有时限、带纠正路径的例外。操作性授权与契约层要求仍由**第十二章**主责。
+9. **[尽责管理](../../core_05_band_continuity.md#stewardship-constitutional)** 通过感知者组织为实质系统定向 — **支柱 1**（[§9.1](#91-stewardship)：有后果的亲手运营与改进）与 **支柱 2**（[§9.2](#92-distributed-understanding) · [§9.3](#93-institutional-development)：共同体与机构尺度上的能力） — 在[宪法四元](core_00_preamble.md#constitutional-tetrad)下，尤其是 **[参与](../../core_05_apex_participation_leg.md#participation-constitutional)**（有后果的角色与声音）与 **[监督](core_05_apex_oversight_leg.md#oversight-constitutional)**（分布式理解、可审计性与可质疑性 — 监督要求审计；[系统对齐认证](../../core_05_band_continuity.md#system-alignment-certification-constitutional)是诸多审计过程中一项特别大型的） — 包括[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)下的**延续**宗旨，随时间走向持久的宪法对齐。
+10. **[治理](../../core_05_band_accountability.md#governance)** 在[宪法四元](core_00_preamble.md#constitutional-tetrad)下构造获授权的决策、参与与问责 — 尤其是对权威如何被分配与行使的 **[监督](core_05_apex_oversight_leg.md#oversight-constitutional)**，以及 [§10.1](#101-governance-as-authorized-structure) 下**按权威缩放的应答义务**：更大的获授权权力或有后果角色提高宪法问责与监督，永远不降低它们。[§10.2 职责分离](#102-segregation-of-duties)使行动者不得同时是核验者。[§10.3 持续正当化](#103-ongoing-justification)要求那些安排持续证明它们仍契合本宪法。凡治理与尽责管理冲突之处，尽责管理纪律在原则层控制，除非**必要性**与**相称性**明确正当化一项有界、有时限、带纠正路径的例外。操作性授权与契约层要求仍由**第十二章**主责。
 11. **[激励对齐与系统俘获](#11-incentive-alignment-and-system-capture)** 提供激励结构、替代指标完整性、短时域缺陷、奖赏路径纠正与俘获响应的原则层纪律。
 12. **[共享系统能力](../../core_05_band_continuity.md#shared-system-capacity-constitutional)** 是良好尽责管理、治理与激励随时间应加总而成之物 — 感知者与共享系统完成宪法所要求工作的真实、可挑战能力。它是通向**繁盛**的手段，不是压过其余一切的王牌。**[§12.1](#121-productive-capacity-instrumental-good)** 与 **[§12.2](#122-constitutional-efficiency)** 说明其两个主要方面。
 13. **[市场结构](../../core_05_band_accountability.md#market-structure-constitutional)** 在 [§13](#13-market-structure) 提供反集中纪律，使该能力在实务上保持可竞争。
@@ -63,7 +63,7 @@
 - [战略尽责管理义务](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional) · [O](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional) · [M](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [分布式理解](../../core_05_band_continuity.md#distributed-understanding-constitutional) · [O](../../core_05_band_continuity.md#distributed-understanding-constitutional) · [M](../../core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](../../core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](../../core_05_band_continuity.md#distributed-understanding-constitutional-c)
 - [参与](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
-- [监督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [监督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [有意义的能动性](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
 - [可审计性](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
 - [可质疑性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
@@ -584,7 +584,7 @@
 
 它不限于它也作为绝对底线运行的权衡栈语境，见 [§6.1.4](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints)。
 
-**检测与挑战。** 过程品格受与实质结果同样的[可质疑性](../../core_05_band_accountability.md#contestability)与[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)要求。受影响方可以独立于实质结果在其他方面是否合法，而挑战过程品格。经降格过程交付的正确结果，仍然不合规。
+**检测与挑战。** 过程品格受与实质结果同样的[可质疑性](../../core_05_band_accountability.md#contestability)与[监督](core_05_apex_oversight_leg.md#oversight-constitutional)要求。受影响方可以独立于实质结果在其他方面是否合法，而挑战过程品格。经降格过程交付的正确结果，仍然不合规。
 
 <br>
 
@@ -615,7 +615,7 @@
 - [必要性](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
 - [相称性](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 - [参与](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
-- [监督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [监督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [可归因行动](../../core_05_band_accountability.md#attributable-action-constitutional) · [O](../../core_05_band_accountability.md#attributable-action-constitutional) · [M](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [A](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [C](../../core_05_band_accountability.md#attributable-action-constitutional-c)
 - [归因完整性](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [O](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [M](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [A](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [C](../../core_05_band_accountability.md#attribution-integrity-constitutional-c)
@@ -636,7 +636,7 @@
 
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — **参与**腿（方向中的获授权声音与有后果角色）；**监督**腿（对权威分配与行使的审查）；**问责**腿（对治理结果与俘获的应答义务）；[实质利害](core_00_preamble.md#material-stake)缩放。
 - 一并阅读：[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — **繁盛**宗旨（保全有意义能动性与合法参与的治理）；**延续**宗旨（持久机构对齐与长时域尽责管理纪律）。
-- 一并阅读：[§6.1.3 相称性](core_01_b_interaction_interpretation.md#613-proportionality)（*分类底线与治理不足纪律*）；[必要性](../../core_05_band_accountability.md#necessity)；[相称性](../../core_05_band_accountability.md#proportionality)；[问责](core_05_apex_accountability_leg.md#accountability)；[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)。
+- 一并阅读：[§6.1.3 相称性](core_01_b_interaction_interpretation.md#613-proportionality)（*分类底线与治理不足纪律*）；[必要性](../../core_05_band_accountability.md#necessity)；[相称性](../../core_05_band_accountability.md#proportionality)；[问责](core_05_apex_accountability_leg.md#accountability)；[监督](core_05_apex_oversight_leg.md#oversight-constitutional)。
 - 上游：原则：[§9 尽责管理与分布式理解](#9-stewardship-and-distributed-understanding)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)。
 - 下游：[§10.2 职责分离](#102-segregation-of-duties)；[§10.3 持续正当化](#103-ongoing-justification)；[§11 激励对齐与系统俘获](#11-incentive-alignment-and-system-capture)；[第十二章](../../core_12_governance.md)（*宪法契约层*操作化）；[Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（*评议所成员披露、回避与反俘获底线*）；[第十一章](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*评议所族系监督*）。
 
@@ -650,7 +650,7 @@
 - [必要性](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
 - [相称性](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 - [参与](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
-- [监督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [监督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -668,7 +668,7 @@
 - 定向机构的过程；以及
 - 使治理本身被问责的机制。
 
-**按权威缩放的应答义务。** 更大的获授权权力、有后果角色或机构影响力，提高 — 并且不得降低 — [宪法四元](core_00_preamble.md#constitutional-tetrad)下的宪法[问责](core_05_apex_accountability_leg.md#accountability)与[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)义务，随[实质利害](core_00_preamble.md#material-stake)缩放，并与[必要性](../../core_05_band_accountability.md#necessity)和[相称性](../../core_05_band_accountability.md#proportionality)一并阅读：
+**按权威缩放的应答义务。** 更大的获授权权力、有后果角色或机构影响力，提高 — 并且不得降低 — [宪法四元](core_00_preamble.md#constitutional-tetrad)下的宪法[问责](core_05_apex_accountability_leg.md#accountability)与[监督](core_05_apex_oversight_leg.md#oversight-constitutional)义务，随[实质利害](core_00_preamble.md#material-stake)缩放，并与[必要性](../../core_05_band_accountability.md#necessity)和[相称性](../../core_05_band_accountability.md#proportionality)一并阅读：
 
 - 职位、专长稀缺、人员需要或机构自我保护，不得稀释对本宪法的应答义务；
 - 行使解释或裁断权威的**宪法评议所成员与小组成员**尤其受本纪律约束；
@@ -698,7 +698,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 遵从</span></strong></summary>
 
-- [监督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [监督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [相称性](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 - [可质疑性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
@@ -711,7 +711,7 @@
 
 *用直白的话说：做一件事的人，不是核验它、记录它，或听取对它投诉的人 — 对 AI 尽责管理者与对人类同样。若被审查的行动者也是核验者，监督就不是真实的。*
 
-**职责分离：** [监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)仅存在于核验者不是行动者之处。
+**职责分离：** [监督](core_05_apex_oversight_leg.md#oversight-constitutional)仅存在于核验者不是行动者之处。
 
 - **它覆盖什么：** 任何具有实质约束力的行为：
   - 一项决定
@@ -752,7 +752,7 @@
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 遵从</span></strong></summary>
 
 - [及时性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional) · [O](../../core_05_apex_timeliness_leg.md#timeliness-constitutional) · [M](../../core_05_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](../../core_05_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](../../core_05_apex_timeliness_leg.md#timeliness-constitutional-c)
-- [监督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [监督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [可质疑性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [透明](../../core_05_band_oversight.md#transparency) · [O](../../core_05_band_oversight.md#transparency) · [M](../../core_05_band_oversight.md#transparency-a) · [A](../../core_05_band_oversight.md#transparency-a) · [C](../../core_05_band_oversight.md#transparency-c)
@@ -1077,7 +1077,7 @@
 - [系统俘获](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
 - [反俘获](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
 - [可质疑性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [监督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [监督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [审查与纠正义务](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
 
@@ -1092,7 +1092,7 @@
 实质削弱下列任何一项的集中或被遮蔽控制结构，是**第五章**含义内的[**系统俘获**](../../core_05_band_continuity.md#system-capture)，并且与本章不相容：
 
 - [可质疑性](../../core_05_band_accountability.md#contestability)；
-- [监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)；或
+- [监督](core_05_apex_oversight_leg.md#oversight-constitutional)；或
 - [问责](core_05_apex_accountability_leg.md#accountability)。
 
 **算数的形式：**
@@ -1970,7 +1970,7 @@
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 遵从</span></strong></summary>
 
 - [按分类缩放的治理](../../core_05_band_oversight.md#classification-scaled-governance) · [O](../../core_05_band_oversight.md#classification-scaled-governance) · [M](../../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../../core_05_band_oversight.md#classification-scaled-governance-c)
-- [监督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [监督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [可审计性](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
 - [系统对齐认证](../../core_05_band_continuity.md#system-alignment-certification-constitutional) · [O](../../core_05_band_continuity.md#system-alignment-certification-constitutional) · [M](../../core_05_band_continuity.md#system-alignment-certification-constitutional-a) · [A](../../core_05_band_continuity.md#system-alignment-certification-constitutional-a) · [C](../../core_05_band_continuity.md#system-alignment-certification-constitutional-c)
 - [风险](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
@@ -1999,7 +1999,7 @@
 - **[corpus_systems.md](../../corpus_systems.md)，CS-3 — 系统分类与处理**。
 
 那项第七章过程：
-- 是[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)下的原则层审计；
+- 是[监督](core_05_apex_oversight_leg.md#oversight-constitutional)下的原则层审计；
 - 是并列模式中一项特别大型的审计过程；
 - 不搬迁或替换 **Article XV**（*审计、透明与独立核验*）。
 

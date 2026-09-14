@@ -649,7 +649,7 @@
 - [హాని](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
 - [ప్రమాదం](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 - [తిరుగుదల](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [పర్యవేక్షణ](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [పర్యవేక్షణ](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -661,7 +661,7 @@
 - **భౌతిక హాని** లేదా **వ్యవస్థాగత ప్రమాదం** నివారించడానికి అవసరమైన చోట
 - అలాంటి పరిమితి **అనుపాతం**, **సాధ్యమైన చోట తిరుగుదల**, **పర్యవేక్షణకు లోనైనది**
 
-తక్కువ-పరిమిత, సహేతుకంగా ప్రభావవంతమైన ప్రత్యామ్నాయం లేనప్పుడు మాత్రమే పరిమితులు విధించబడవచ్చు, **అధ్యాయం ఐదు**లో [ఆవశ్యకత](../../core_05_band_accountability.md#necessity)తో అనుగుణంగా. కర్తృత్వం పరిమితం చేసే సాధ్యత వాదనలు **అధ్యాయం నాలుగు** భారం, అనుసరణీయత అవసరాల కింద చూపించదగినవి కావాలి. అవి **అధ్యాయం ఐదు** నిర్వచనాలతో కూడా అనుగుణం కావాలి (సాధ్యత, ఆవశ్యకత, అనుపాతత, హాని తగ్గింపు (లాభనష్ట ఎంపిక) సహా). పరిమితులు [భౌతిక పందెం](core_00_preamble.md#material-stake)కు అనుగుణమైన [పర్యవేక్షణ](../../core_05_apex_oversight_leg.md#oversight-constitutional)కు లోనై ఉండాలి.
+తక్కువ-పరిమిత, సహేతుకంగా ప్రభావవంతమైన ప్రత్యామ్నాయం లేనప్పుడు మాత్రమే పరిమితులు విధించబడవచ్చు, **అధ్యాయం ఐదు**లో [ఆవశ్యకత](../../core_05_band_accountability.md#necessity)తో అనుగుణంగా. కర్తృత్వం పరిమితం చేసే సాధ్యత వాదనలు **అధ్యాయం నాలుగు** భారం, అనుసరణీయత అవసరాల కింద చూపించదగినవి కావాలి. అవి **అధ్యాయం ఐదు** నిర్వచనాలతో కూడా అనుగుణం కావాలి (సాధ్యత, ఆవశ్యకత, అనుపాతత, హాని తగ్గింపు (లాభనష్ట ఎంపిక) సహా). పరిమితులు [భౌతిక పందెం](core_00_preamble.md#material-stake)కు అనుగుణమైన [పర్యవేక్షణ](core_05_apex_oversight_leg.md#oversight-constitutional)కు లోనై ఉండాలి.
 
 స్వేచ్ఛ పరిమితులు ఇతర రాజ్యాంగ విలువలు లేదా హక్కులతో ఢీకొన్నప్పుడు, **భద్రత**, **సత్యం** తీరిన తర్వాత [§6.1 కేంద్ర లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) నుండి [§6.1.5 హక్కుల-సంఘర్షణ ప్రక్రియ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) వర్తింపజేయండి.
 

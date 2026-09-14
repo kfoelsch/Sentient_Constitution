@@ -24,8 +24,8 @@
 
 **원칙 계층 (C부분).** 원칙 층에서:
 
-9. **[책임 있는 관리](../../core_05_band_continuity.md#stewardship-constitutional)** 는 감지자 조직을 통해 실질 체계를 지향한다 — **기둥 1** ([§9.1](#91-stewardship): 결과가 있는 손수 운영과 개선)과 **기둥 2** ([§9.2](#92-distributed-understanding) · [§9.3](#93-institutional-development): 공동체와 제도 규모에서의 역량) — [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) 아래 시간에 걸친 오래가는 헌법 정합으로 — 특히 **[참여](../../core_05_apex_participation_leg.md#participation-constitutional)** (결과가 있는 역할과 목소리)와 **[감독](../../core_05_apex_oversight_leg.md#oversight-constitutional)** (분산된 이해, 감사 가능성, 다툴 수 있음 — 감독은 감사를 요구한다; [체계 정합 인증](../../core_05_band_continuity.md#system-alignment-certification-constitutional)은 다른 것들 가운데 특히 큰 감사 과정 하나다) — [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) 아래 **연속** 목적을 포함.
-10. **[거버넌스](../../core_05_band_accountability.md#governance)** 는 [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) 아래 수권된 의사결정, 참여, 책무를 구조화한다 — 특히 권한이 어떻게 배분되고 행사되는지에 대한 **[감독](../../core_05_apex_oversight_leg.md#oversight-constitutional)**, 그리고 [§10.1](#101-governance-as-authorized-structure) 아래 **권한에 맞춰 세기 조절된 답할 의무**: 더 큰 수권 권력이나 결과가 있는 역할은 헌법 책무와 감독을 올리며, 결코 낮추지 않는다. [§10.2 직무 분리](#102-segregation-of-duties)는 행위한 이가 점검하는 이가 되지 않게 한다. [§10.3 지속적 정당화](#103-ongoing-justification)는 그 마련이 여전히 이 헌법에 맞음을 계속 증명할 것을 요구한다. 거버넌스와 책임 있는 관리가 충돌하는 곳에서, **필요성**과 **비례**가 교정 경로를 갖춘 한정되고 시한 있는 예외를 명시로 정당화하지 않는 한, 원칙 층에서는 책임 있는 관리 규율이 통제한다. 운영 수권과 계약 층 요건은 여전히 **제12장**이 주관한다.
+9. **[책임 있는 관리](../../core_05_band_continuity.md#stewardship-constitutional)** 는 감지자 조직을 통해 실질 체계를 지향한다 — **기둥 1** ([§9.1](#91-stewardship): 결과가 있는 손수 운영과 개선)과 **기둥 2** ([§9.2](#92-distributed-understanding) · [§9.3](#93-institutional-development): 공동체와 제도 규모에서의 역량) — [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) 아래 시간에 걸친 오래가는 헌법 정합으로 — 특히 **[참여](../../core_05_apex_participation_leg.md#participation-constitutional)** (결과가 있는 역할과 목소리)와 **[감독](core_05_apex_oversight_leg.md#oversight-constitutional)** (분산된 이해, 감사 가능성, 다툴 수 있음 — 감독은 감사를 요구한다; [체계 정합 인증](../../core_05_band_continuity.md#system-alignment-certification-constitutional)은 다른 것들 가운데 특히 큰 감사 과정 하나다) — [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) 아래 **연속** 목적을 포함.
+10. **[거버넌스](../../core_05_band_accountability.md#governance)** 는 [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) 아래 수권된 의사결정, 참여, 책무를 구조화한다 — 특히 권한이 어떻게 배분되고 행사되는지에 대한 **[감독](core_05_apex_oversight_leg.md#oversight-constitutional)**, 그리고 [§10.1](#101-governance-as-authorized-structure) 아래 **권한에 맞춰 세기 조절된 답할 의무**: 더 큰 수권 권력이나 결과가 있는 역할은 헌법 책무와 감독을 올리며, 결코 낮추지 않는다. [§10.2 직무 분리](#102-segregation-of-duties)는 행위한 이가 점검하는 이가 되지 않게 한다. [§10.3 지속적 정당화](#103-ongoing-justification)는 그 마련이 여전히 이 헌법에 맞음을 계속 증명할 것을 요구한다. 거버넌스와 책임 있는 관리가 충돌하는 곳에서, **필요성**과 **비례**가 교정 경로를 갖춘 한정되고 시한 있는 예외를 명시로 정당화하지 않는 한, 원칙 층에서는 책임 있는 관리 규율이 통제한다. 운영 수권과 계약 층 요건은 여전히 **제12장**이 주관한다.
 11. **[유인 정합과 체계 포획](#11-incentive-alignment-and-system-capture)** 은 유인 구조, 대리지표 완전성, 짧은 시계 결함, 보상 경로 교정, 포획 응답에 대한 원칙 층 규율을 공급한다.
 12. **[공유 체계 능력](../../core_05_band_continuity.md#shared-system-capacity-constitutional)** 은 좋은 책임 있는 관리, 거버넌스, 유인이 시간에 걸쳐 합쳐져야 할 것 — 감지자와 공유 체계가 헌법이 요구하는 일을 해내는, 실체 있고 다툴 수 있는 능력이다. 그것은 **번영**을 향한 수단이지, 다른 모든 것을 덮는 패가 아니다. **[§12.1](#121-productive-capacity-instrumental-good)** 과 **[§12.2](#122-constitutional-efficiency)** 가 그 두 주요 면을 설명한다.
 13. **[시장 구조](../../core_05_band_accountability.md#market-structure-constitutional)** 는 [§13](#13-market-structure)에서, 그 능력이 실무에서 경쟁 가능하게 남게 하는 집중 금지 규율을 공급한다.
@@ -63,7 +63,7 @@
 - [전략적 책임 있는 관리 의무](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional) · [O](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional) · [M](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [분산된 이해](../../core_05_band_continuity.md#distributed-understanding-constitutional) · [O](../../core_05_band_continuity.md#distributed-understanding-constitutional) · [M](../../core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](../../core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](../../core_05_band_continuity.md#distributed-understanding-constitutional-c)
 - [참여](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
-- [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [감독](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [의미 있는 행위주체성](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
 - [감사 가능성](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
 - [다툴 수 있음](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
@@ -584,7 +584,7 @@
 
 그것은 [§6.1.4](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints) 아래 절대 바닥으로도 작동하는 교환 스택 맥락에 한정되지 않는다.
 
-**탐지와 다툼.** 과정 성격은 실체 결과와 같은 [다툴 수 있음](../../core_05_band_accountability.md#contestability)과 [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional) 요건을 받는다. 영향받는 쪽은 실체 결과가 달리 적법할지와 독립으로 과정 성격을 다툴 수 있다. 저하하는 과정을 통해 전달된 올바른 결과는 여전히 비준수다.
+**탐지와 다툼.** 과정 성격은 실체 결과와 같은 [다툴 수 있음](../../core_05_band_accountability.md#contestability)과 [감독](core_05_apex_oversight_leg.md#oversight-constitutional) 요건을 받는다. 영향받는 쪽은 실체 결과가 달리 적법할지와 독립으로 과정 성격을 다툴 수 있다. 저하하는 과정을 통해 전달된 올바른 결과는 여전히 비준수다.
 
 <br>
 
@@ -614,7 +614,7 @@
 - [필요성](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
 - [비례](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 - [참여](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
-- [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [감독](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [책무](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [귀속 가능 행위](../../core_05_band_accountability.md#attributable-action-constitutional) · [O](../../core_05_band_accountability.md#attributable-action-constitutional) · [M](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [A](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [C](../../core_05_band_accountability.md#attributable-action-constitutional-c)
 - [귀속 완전성](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [O](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [M](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [A](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [C](../../core_05_band_accountability.md#attribution-integrity-constitutional-c)
@@ -635,7 +635,7 @@
 
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **참여** 다리(방향에서의 수권된 목소리와 결과가 있는 역할); **감독** 다리(권한 배분과 행사의 감시); **책무** 다리(거버넌스 결과와 포획에 대한 답할 의무); [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절.
 - 함께 읽기: [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **번영** 목적(의미 있는 행위주체성과 적법한 참여를 보존하는 거버넌스); **연속** 목적(오래가는 제도 정합과 긴 시계 책임 있는 관리 규율).
-- 함께 읽기: [§6.1.3 비례](core_01_b_interaction_interpretation.md#613-proportionality) (*분류 바닥과 과소 거버넌스 규율*); [필요성](../../core_05_band_accountability.md#necessity); [비례](../../core_05_band_accountability.md#proportionality); [책무](core_05_apex_accountability_leg.md#accountability); [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional).
+- 함께 읽기: [§6.1.3 비례](core_01_b_interaction_interpretation.md#613-proportionality) (*분류 바닥과 과소 거버넌스 규율*); [필요성](../../core_05_band_accountability.md#necessity); [비례](../../core_05_band_accountability.md#proportionality); [책무](core_05_apex_accountability_leg.md#accountability); [감독](core_05_apex_oversight_leg.md#oversight-constitutional).
 - 상류: 원칙: [§9 책임 있는 관리와 분산된 이해](#9-stewardship-and-distributed-understanding); [두 헌법 목적](core_00_preamble.md#two-constitutional-aims).
 - 하류: [§10.2 직무 분리](#102-segregation-of-duties); [§10.3 지속적 정당화](#103-ongoing-justification); [§11 유인 정합과 체계 포획](#11-incentive-alignment-and-system-capture); [제12장](../../core_12_governance.md) (*헌법 계약 층* 운영화); [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*포럼 구성원 공개, 회피, 포획 금지 바닥*); [제11장](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*포럼 가족 감독*).
 
@@ -649,7 +649,7 @@
 - [필요성](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
 - [비례](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 - [참여](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
-- [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [감독](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [책무](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -667,7 +667,7 @@
 - 제도를 방향 짓는 과정; 그리고
 - 거버넌스 자체에 책무를 지우는 메커니즘.
 
-**권한에 맞춰 세기 조절된 답할 의무.** 더 큰 수권 권력, 결과가 있는 역할, 제도 영향력은 [실질 이해관계](core_00_preamble.md#material-stake)에 맞춰 세기 조절되고 [필요성](../../core_05_band_accountability.md#necessity)과 [비례](../../core_05_band_accountability.md#proportionality)와 함께 읽히는 [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) 아래 헌법 [책무](core_05_apex_accountability_leg.md#accountability)와 [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional) 의무를 올리며 — 낮추면 안 된다:
+**권한에 맞춰 세기 조절된 답할 의무.** 더 큰 수권 권력, 결과가 있는 역할, 제도 영향력은 [실질 이해관계](core_00_preamble.md#material-stake)에 맞춰 세기 조절되고 [필요성](../../core_05_band_accountability.md#necessity)과 [비례](../../core_05_band_accountability.md#proportionality)와 함께 읽히는 [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) 아래 헌법 [책무](core_05_apex_accountability_leg.md#accountability)와 [감독](core_05_apex_oversight_leg.md#oversight-constitutional) 의무를 올리며 — 낮추면 안 된다:
 
 - 직위, 전문성 희소, 인력 필요, 제도 자기보호는 이 헌법에 대한 답할 의무를 희석하면 안 된다;
 - 해석이나 심리 권한을 행사하는 **헌법 포럼 구성원과 패널**은 이 규율을 특히 받는다;
@@ -697,7 +697,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [감독](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [책무](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [비례](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 - [다툴 수 있음](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
@@ -710,7 +710,7 @@
 
 *쉬운 말로: 어떤 일을 한 이는 그것을 점검하거나, 기록하거나, 그것에 대한 불만을 듣는 이가 아닙니다 — AI 책임 있는 관리자에게도 인간에게와 같습니다. 검토받는 행위자가 또한 확인자이면 감독은 실체가 아닙니다.*
 
-**직무 분리:** [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional)은 점검하는 이가 행위한 이가 아닌 곳에서만 존재한다.
+**직무 분리:** [감독](core_05_apex_oversight_leg.md#oversight-constitutional)은 점검하는 이가 행위한 이가 아닌 곳에서만 존재한다.
 
 - **그것이 덮는 것:** 어떤 실질 구속 행위든:
   - 결정
@@ -751,7 +751,7 @@
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
 - [적시성](../../core_05_apex_timeliness_leg.md#timeliness-constitutional) · [O](../../core_05_apex_timeliness_leg.md#timeliness-constitutional) · [M](../../core_05_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](../../core_05_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](../../core_05_apex_timeliness_leg.md#timeliness-constitutional-c)
-- [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [감독](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [다툴 수 있음](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 - [책무](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [투명](../../core_05_band_oversight.md#transparency) · [O](../../core_05_band_oversight.md#transparency) · [M](../../core_05_band_oversight.md#transparency-a) · [A](../../core_05_band_oversight.md#transparency-a) · [C](../../core_05_band_oversight.md#transparency-c)
@@ -1076,7 +1076,7 @@
 - [체계 포획](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
 - [포획 금지](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
 - [다툴 수 있음](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [감독](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [책무](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [검토와 교정 의무](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
 
@@ -1091,7 +1091,7 @@
 다음 중 어느 것이든 실질로 약화하는 집중되거나 가려진 통제 구조는 **제5장** 의미의 [**체계 포획**](../../core_05_band_continuity.md#system-capture)이며 이 장과 양립하지 않는다:
 
 - [다툴 수 있음](../../core_05_band_accountability.md#contestability);
-- [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional); 또는
+- [감독](core_05_apex_oversight_leg.md#oversight-constitutional); 또는
 - [책무](core_05_apex_accountability_leg.md#accountability).
 
 **세는 형태:**
@@ -1969,7 +1969,7 @@
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
 - [분류에 맞춰 세기 조절된 거버넌스](../../core_05_band_oversight.md#classification-scaled-governance) · [O](../../core_05_band_oversight.md#classification-scaled-governance) · [M](../../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../../core_05_band_oversight.md#classification-scaled-governance-c)
-- [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [감독](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [감사 가능성](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
 - [체계 정합 인증](../../core_05_band_continuity.md#system-alignment-certification-constitutional) · [O](../../core_05_band_continuity.md#system-alignment-certification-constitutional) · [M](../../core_05_band_continuity.md#system-alignment-certification-constitutional-a) · [A](../../core_05_band_continuity.md#system-alignment-certification-constitutional-a) · [C](../../core_05_band_continuity.md#system-alignment-certification-constitutional-c)
 - [위험](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
@@ -1998,7 +1998,7 @@
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — 체계 분류와 취급**.
 
 그 제7장 과정은:
-- [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional) 아래 원칙 층 감사다;
+- [감독](core_05_apex_oversight_leg.md#oversight-constitutional) 아래 원칙 층 감사다;
 - 형제 모드 가운데 특히 큰 감사 과정 하나다;
 - **제 XV조** (*감사, 투명, 독립 확인*)를 옮기거나 대체하지 않는다.
 

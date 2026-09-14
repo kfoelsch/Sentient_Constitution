@@ -648,7 +648,7 @@
 - [نقصان](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
 - [خطرہ](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 - [الٹ پھیر](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [نگرانی](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -660,7 +660,7 @@
 - **مادی نقصان** یا **نظامی خطرہ** روکنے کے لیے ضروری ہو
 - ایسی تحدید **متناسب**، **جہاں ممکن ہو الٹنے کے قابل**، اور **نگرانی کے تابع** ہو
 
-پابندیاں صرف تب لگائی جا سکتی ہیں جب کوئی کم پابندی والا، مناسب طور پر مؤثر متبادل موجود نہ ہو، **باب پنجم** میں [ضرورت](../../core_05_band_accountability.md#necessity) کے مطابق۔ فاعلیت محدود کرنے والے عمل پذیری کے دعوے **باب چہارم** کے بوجھ اور سراغ کے تقاضوں کے تحت دکھانے کے قابل ہونے چاہییں۔ انہیں **باب پنجم** کی تعریفوں سے بھی میل کھانا چاہیے (بشمول عمل پذیری، ضرورت، تناسب، اور نقصان کی کم سے کم کاری (سودے کا انتخاب))۔ تحدیدیں [نگرانی](../../core_05_apex_oversight_leg.md#oversight-constitutional) کے تابع رہنی چاہییں، [مادی داؤ](../../core_00_preamble.md#material-stake) کے مطابق پیمانہ۔
+پابندیاں صرف تب لگائی جا سکتی ہیں جب کوئی کم پابندی والا، مناسب طور پر مؤثر متبادل موجود نہ ہو، **باب پنجم** میں [ضرورت](../../core_05_band_accountability.md#necessity) کے مطابق۔ فاعلیت محدود کرنے والے عمل پذیری کے دعوے **باب چہارم** کے بوجھ اور سراغ کے تقاضوں کے تحت دکھانے کے قابل ہونے چاہییں۔ انہیں **باب پنجم** کی تعریفوں سے بھی میل کھانا چاہیے (بشمول عمل پذیری، ضرورت، تناسب، اور نقصان کی کم سے کم کاری (سودے کا انتخاب))۔ تحدیدیں [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional) کے تابع رہنی چاہییں، [مادی داؤ](../../core_00_preamble.md#material-stake) کے مطابق پیمانہ۔
 
 جب آزادی کی حدیں دیگر آئینی اقدار یا حقوق سے ٹکرائیں، **حفاظت** اور **سچائی** پوری ہونے کے بعد [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) سے [§6.1.5 حقوق کے تصادم کا طریقہ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) لاگو کریں۔
 

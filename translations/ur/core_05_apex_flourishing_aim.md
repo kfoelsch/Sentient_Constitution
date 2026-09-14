@@ -12,7 +12,7 @@
 >
 > **پچھلا (اس زبان میں):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 >
-> **اگلا (ابھی انگریزی میں):** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+> **اگلا (اس زبان میں):** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 > **پڑھنے کا قوس:** O/M/A/C → مقصد کی تحلیل → پیمائش خاندان۔
 
 </details>
@@ -118,6 +118,6 @@
 
 **پچھلی فائل (اس زبان میں):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
-**اگلی فائل (ابھی انگریزی میں):** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+**اگلی فائل (اس زبان میں):** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 
 **پابند اصل:** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)

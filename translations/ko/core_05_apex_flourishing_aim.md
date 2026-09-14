@@ -12,7 +12,7 @@
 >
 > **이전(이 언어):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 >
-> **다음(아직 영어):** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+> **다음(이 언어):** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 > **읽기 호:** O/M/A/C → 목적 분해 → 측정 가족.
 
 </details>
@@ -118,6 +118,6 @@
 
 **이전 파일(이 언어):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
-**다음 파일(아직 영어):** [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md)
+**다음 파일(이 언어):** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
 
 **구속력 있는 원문:** [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md)

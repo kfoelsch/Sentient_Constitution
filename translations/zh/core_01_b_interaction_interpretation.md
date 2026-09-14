@@ -214,7 +214,7 @@
 - [可逆性](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [依赖](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [监督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [监督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -226,7 +226,7 @@
 
 **分类底线。** 任何系统都不得以低于其最高适用分类所要求的层级被治理。较低的行政标签，不能降低最高适用的风险、依赖、权利或系统影响分类所要求的审查。
 
-**按权威缩放的应答义务。** 相称性也禁止对持有更大获授权权力、有后果角色或机构影响力者的治理不足：[问责](core_05_apex_accountability_leg.md#accountability)与[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)强度必须随该权威上升，而不是下降。
+**按权威缩放的应答义务。** 相称性也禁止对持有更大获授权权力、有后果角色或机构影响力者的治理不足：[问责](core_05_apex_accountability_leg.md#accountability)与[监督](core_05_apex_oversight_leg.md#oversight-constitutional)强度必须随该权威上升，而不是下降。
 
 **提高的门槛。** 凡行动引入不可逆伤害、系统性锁定套牢、生存风险，或生态恢复能力不可逆丧失之风险之处，系统必须适用提高的正当化、审查门槛，并在可行之处适用可逆性门槛。
 

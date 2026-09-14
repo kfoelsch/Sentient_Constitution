@@ -649,7 +649,7 @@
 - [해](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
 - [위험](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 - [가역성](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [감독](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -661,7 +661,7 @@
 - **실질 해**나 **체계 위험**을 막는 데 필요할 때
 - 그 제한이 **비례**하고, **가능한 곳에서 가역**하며, **감독을 받을** 때
 
-제약은 **제5장**의 [필요성](../../core_05_band_accountability.md#necessity)과 일관되게, 덜 제한적이고 합리적으로 효과 있는 대안이 없을 때에만 부과될 수 있다. 행위주체성을 제한하는 실행 가능성 주장은 **제4장**의 부담과 추적 가능성 요건 아래에서 입증될 수 있어야 한다. 그것들은 또한 **제5장** 정의와 일관되어야 한다(실행 가능성, 필요성, 비례, 해 최소화(교환 선택)를 포함). 제한은 [실질 이해관계](../../core_00_preamble.md#material-stake)에 맞춰 세기 조절된 [감독](../../core_05_apex_oversight_leg.md#oversight-constitutional)을 받아야 한다.
+제약은 **제5장**의 [필요성](../../core_05_band_accountability.md#necessity)과 일관되게, 덜 제한적이고 합리적으로 효과 있는 대안이 없을 때에만 부과될 수 있다. 행위주체성을 제한하는 실행 가능성 주장은 **제4장**의 부담과 추적 가능성 요건 아래에서 입증될 수 있어야 한다. 그것들은 또한 **제5장** 정의와 일관되어야 한다(실행 가능성, 필요성, 비례, 해 최소화(교환 선택)를 포함). 제한은 [실질 이해관계](../../core_00_preamble.md#material-stake)에 맞춰 세기 조절된 [감독](core_05_apex_oversight_leg.md#oversight-constitutional)을 받아야 한다.
 
 자유 한도가 다른 헌법 가치나 권리와 충돌할 때, **안전**과 **진실**이 충족된 뒤에 [§6.1 핵심 교환 원칙](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)부터 [§6.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)를 적용하라.
 

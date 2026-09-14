@@ -214,7 +214,7 @@
 - [উল্টানো যায় এমনতা](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [নির্ভরতা](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [জবাবদিহি](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [তত্ত্বাবধান](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [তত্ত্বাবধান](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -226,7 +226,7 @@
 
 **শ্রেণিবিন্যাস তল।** কোনো ব্যবস্থাকে তার সর্বোচ্চ প্রযোজ্য শ্রেণিবিন্যাস যা চায় তার নিচে শাসন করা চলে না। নিচু প্রশাসনিক লেবেল সর্বোচ্চ প্রযোজ্য ঝুঁকি, নির্ভরতা, অধিকার, বা ব্যবস্থা-প্রভাব শ্রেণিবিন্যাস যে যাচাই চায় তা কমাতে পারে না।
 
-**কর্তৃত্ব-স্কেল করা জবাবদান।** আনুপাতিকতা এও নিষেধ করে যাদের বৃহত্তর অনুমোদিত ক্ষমতা, পরিণতিময় ভূমিকা, বা প্রাতিষ্ঠানিক প্রভাব আছে তাদের অপর্যাপ্ত-শাসন: [জবাবদিহি](core_05_apex_accountability_leg.md#accountability) ও [তত্ত্বাবধান](../../core_05_apex_oversight_leg.md#oversight-constitutional) তীব্রতা সেই কর্তৃত্বের সঙ্গে বাড়তে হয়, কমতে নয়।
+**কর্তৃত্ব-স্কেল করা জবাবদান।** আনুপাতিকতা এও নিষেধ করে যাদের বৃহত্তর অনুমোদিত ক্ষমতা, পরিণতিময় ভূমিকা, বা প্রাতিষ্ঠানিক প্রভাব আছে তাদের অপর্যাপ্ত-শাসন: [জবাবদিহি](core_05_apex_accountability_leg.md#accountability) ও [তত্ত্বাবধান](core_05_apex_oversight_leg.md#oversight-constitutional) তীব্রতা সেই কর্তৃত্বের সঙ্গে বাড়তে হয়, কমতে নয়।
 
 **উচ্চতর সীমা।** যেখানে ক্রিয়া অপরিবর্তনীয় ক্ষতি, ব্যবস্থাগত তালাবদ্ধতা, অস্তিত্বগত ঝুঁকি, বা পরিবেশগত পুনরুদ্ধার ক্ষমতার অপরিবর্তনীয় ক্ষতির ঝুঁকি আনে, ব্যবস্থাকে ন্যায্যতা, যাচাই, এবং যেখানে সম্ভব উল্টানো যায় এমনতার জন্য উচ্চতর সীমা প্রয়োগ করতে হয়।
 

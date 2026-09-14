@@ -214,7 +214,7 @@ La minimisation du préjudice sélectionne parmi des options qui franchissent d�
 - [Réversibilité](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [Dépendance](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [Reddition de comptes](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Supervision](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -226,7 +226,7 @@ Les limitations sur les **valeurs** constitutionnelles — y compris les protect
 
 **Plancher de classification.** Aucun système ne peut être gouverné à un niveau inférieur à celui exigé par sa classification applicable la plus élevée. Une étiquette administrative plus basse ne peut pas réduire l’examen exigé par la classification applicable la plus élevée de risque, de dépendance, de droits ou d’impact système.
 
-**Devoir de répondre mis à l’échelle de l’autorité.** La proportionnalité interdit aussi la sous-gouvernance de ceux qui tiennent un plus grand pouvoir autorisé, un rôle à conséquence, ou une influence institutionnelle : l’intensité de la [Reddition de comptes](core_05_apex_accountability_leg.md#accountability) et de la [Supervision](../../core_05_apex_oversight_leg.md#oversight-constitutional) doit monter avec cette autorité, non descendre.
+**Devoir de répondre mis à l’échelle de l’autorité.** La proportionnalité interdit aussi la sous-gouvernance de ceux qui tiennent un plus grand pouvoir autorisé, un rôle à conséquence, ou une influence institutionnelle : l’intensité de la [Reddition de comptes](core_05_apex_accountability_leg.md#accountability) et de la [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional) doit monter avec cette autorité, non descendre.
 
 **Seuils rehaussés.** Lorsque des actions introduisent un risque de préjudice irréversible, de verrouillage systémique, de Risque existentiel, ou de perte irréversible de Capacité de récupération écologique, les systèmes doivent appliquer des seuils rehaussés de justification, d’examen et de réversibilité lorsque c’est faisable.
 

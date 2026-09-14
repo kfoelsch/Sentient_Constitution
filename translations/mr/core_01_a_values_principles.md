@@ -649,7 +649,7 @@
 - [हानि](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
 - [धोका](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 - [उत्क्रमणीयता](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [देखरेख](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -661,7 +661,7 @@
 - **भौतिक हानि** या **प्रणालीगत धोका** रोकने साठी आवश्यक हो
 - ऐसी सीमा **प्रमाणबद्ध**, **जिथे संभव हो उत्क्रमणीय**, आणि **देखरेख चे अधीन** हो
 
-बंधन फक्त तेव्हा लगाए जा शकतात जेव्हा कोणतेही कम-प्रतिबंधक, यथोचित प्रभावी विकल्प उपलब्ध न हो, **अध्याय पाच** मध्ये [आवश्यकता](../../core_05_band_accountability.md#necessity) पासून सुसंगत. कर्तृत्व सीमित करणे असलेले व्यवहार्यता दावे **अध्याय चार** भार आणि पता-योग्यता अपेक्षा चे अधीन दिखाने योग्य होने हवे. त्यांना **अध्याय पाच** व्याख्यां पासून सुद्धा सुसंगत असावे (व्यवहार्यता, आवश्यकता, प्रमाणबद्धता, आणि हानि न्यूनीकरण (व्यापार चयन) सहित). मर्यादा [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणित [देखरेख](../../core_05_apex_oversight_leg.md#oversight-constitutional) चे अधीन रहनी हवे.
+बंधन फक्त तेव्हा लगाए जा शकतात जेव्हा कोणतेही कम-प्रतिबंधक, यथोचित प्रभावी विकल्प उपलब्ध न हो, **अध्याय पाच** मध्ये [आवश्यकता](../../core_05_band_accountability.md#necessity) पासून सुसंगत. कर्तृत्व सीमित करणे असलेले व्यवहार्यता दावे **अध्याय चार** भार आणि पता-योग्यता अपेक्षा चे अधीन दिखाने योग्य होने हवे. त्यांना **अध्याय पाच** व्याख्यां पासून सुद्धा सुसंगत असावे (व्यवहार्यता, आवश्यकता, प्रमाणबद्धता, आणि हानि न्यूनीकरण (व्यापार चयन) सहित). मर्यादा [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणित [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) चे अधीन रहनी हवे.
 
 जेव्हा स्वातंत्र्य मर्यादा अन्य संवैधानिक मूल्यों या अधिकारां पासून टकराएँ, **सुरक्षा** आणि **सत्य** पूर्ण होणे चे बाद [§6.1 मूल व्यापार तत्त्व](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) पासून [§6.1.5 अधिकार-टकराव प्रक्रिया](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) लागू करा.
 

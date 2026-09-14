@@ -649,7 +649,7 @@
 - [தீங்கு](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
 - [இடர்](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 - [மீள்திருப்பும் தன்மை](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [மேற்பார்வை](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [மேற்பார்வை](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -661,7 +661,7 @@
 - **பொருள் தீங்கு** அல்லது **அமைப்பு இடரை** தடுக்கத் தேவையான இடத்தில்
 - அத்தகைய வரம்பு **விகிதாசாரமாகவும்**, **சாத்தியமான இடத்தில் மீள்திருப்பக்கூடியதாகவும்**, **மேற்பார்வைக்கு உட்பட்டதாகவும்** இருக்கும் இடத்தில்
 
-குறைவாகக் கட்டுப்படுத்தும், நியாயமாகத் திறனான மாற்று இல்லாதபோது மட்டுமே கட்டுப்பாடுகள் விதிக்கப்படலாம், **அத்தியாயம் ஐந்தில்** [தேவையுடன்](../../core_05_band_accountability.md#necessity) இணக்கமாக. செயல்திறனை வரம்பிடும் சாத்தியக் கூற்றுகள் **அத்தியாயம் நான்கு** சுமை மற்றும் தடமறிதல் தேவைகளின் கீழ் காட்டக்கூடியதாக இருக்க வேண்டும். அவை **அத்தியாயம் ஐந்து** வரையறைகளுடன் இணக்கமாகவும் இருக்க வேண்டும் (சாத்தியம், தேவை, விகிதாசாரம், தீங்கு குறைப்பு (பரிமாற்றத் தேர்வு) உட்பட). வரம்புகள் [பொருள் பங்கிற்கு](../../core_00_preamble.md#material-stake) அளவிடப்பட்ட [மேற்பார்வைக்கு](../../core_05_apex_oversight_leg.md#oversight-constitutional) உட்பட்டதாக இருக்க வேண்டும்.
+குறைவாகக் கட்டுப்படுத்தும், நியாயமாகத் திறனான மாற்று இல்லாதபோது மட்டுமே கட்டுப்பாடுகள் விதிக்கப்படலாம், **அத்தியாயம் ஐந்தில்** [தேவையுடன்](../../core_05_band_accountability.md#necessity) இணக்கமாக. செயல்திறனை வரம்பிடும் சாத்தியக் கூற்றுகள் **அத்தியாயம் நான்கு** சுமை மற்றும் தடமறிதல் தேவைகளின் கீழ் காட்டக்கூடியதாக இருக்க வேண்டும். அவை **அத்தியாயம் ஐந்து** வரையறைகளுடன் இணக்கமாகவும் இருக்க வேண்டும் (சாத்தியம், தேவை, விகிதாசாரம், தீங்கு குறைப்பு (பரிமாற்றத் தேர்வு) உட்பட). வரம்புகள் [பொருள் பங்கிற்கு](../../core_00_preamble.md#material-stake) அளவிடப்பட்ட [மேற்பார்வைக்கு](core_05_apex_oversight_leg.md#oversight-constitutional) உட்பட்டதாக இருக்க வேண்டும்.
 
 சுதந்திர வரம்புகள் பிற அரசியலமைப்பு மதிப்புகள் அல்லது உரிமைகளுடன் மோதும்போது, **பாதுகாப்பு** மற்றும் **உண்மை** நிறைவேறிய பிறகு [§6.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) முதல் [§6.1.5 உரிமை-மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) வரை பயன்படுத்துங்கள்.
 

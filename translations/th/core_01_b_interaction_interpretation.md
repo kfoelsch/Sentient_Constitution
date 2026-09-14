@@ -214,19 +214,19 @@
 - [ความสามารถในการย้อนกลับ](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [การพึ่งพา](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [การกำกับดูแล](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [การกำกับดูแล](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
 <br>
 
-*พูดแบบตรง ๆ: สัดส่วนตรวจสอบว่าขนาดของการจำกัดพอดีกับขนาดของภัยที่มันจัดการ ทางเลือกที่จำเป็นและลดภัยยังล้มหากขอบเขต ระยะเวลา หรือความเข้มไม่เป็นสัดส่วนกับสิ่งที่อยู่ในเกมจริง ความเสี่ยงยิ่งย้อนกลับไม่ได้ เชิงระบบ หรือสร้างการพึ่งพา เหตุผลและการตรวจสอบยิ่งต้องเข้ม กฎการปกครองต่ำเกินไปเดียวกันใช้กับอำนาจ: อำนาจที่ได้รับหรือบทบาทที่มีผลยิ่งใหญ่ [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) และ [การกำกับดูแล](../../core_05_apex_oversight_leg.md#oversight-constitutional) ยิ่งต้องสูง ไม่ต่ำ*
+*พูดแบบตรง ๆ: สัดส่วนตรวจสอบว่าขนาดของการจำกัดพอดีกับขนาดของภัยที่มันจัดการ ทางเลือกที่จำเป็นและลดภัยยังล้มหากขอบเขต ระยะเวลา หรือความเข้มไม่เป็นสัดส่วนกับสิ่งที่อยู่ในเกมจริง ความเสี่ยงยิ่งย้อนกลับไม่ได้ เชิงระบบ หรือสร้างการพึ่งพา เหตุผลและการตรวจสอบยิ่งต้องเข้ม กฎการปกครองต่ำเกินไปเดียวกันใช้กับอำนาจ: อำนาจที่ได้รับหรือบทบาทที่มีผลยิ่งใหญ่ [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) และ [การกำกับดูแล](core_05_apex_oversight_leg.md#oversight-constitutional) ยิ่งต้องสูง ไม่ต่ำ*
 
 การจำกัด **ค่านิยม** ทางรัฐธรรมนูญ — รวมการคุ้มครองพื้นสิทธิของ **บทที่หก** และหลักการและการคุ้มครองอื่นที่อยู่ภายใต้การแลกภายใต้ [§6](#6-process-conflict-resolution) — ต้องเป็นสัดส่วนกับขนาดและความน่าจะเป็นของ **ภัย** หรือ **ผลกระทบเชิงระบบ** ที่ถูกจัดการโดยชอบ สอดคล้องกับ [สัดส่วน](../../core_05_band_accountability.md#proportionality) ใน **บทที่ห้า**
 
 **พื้นการจำแนก.** ไม่มีระบบใดจะถูกปกครองที่ระดับต่ำกว่าที่การจำแนกสูงสุดที่ใช้บังคับกำหนด ป้ายบริหารที่ต่ำกว่าลดการตรวจสอบที่การจำแนกความเสี่ยง การพึ่งพา สิทธิ หรือผลกระทบระบบสูงสุดที่ใช้บังคับกำหนดไม่ได้
 
-**การต้องตอบคำถามที่ปรับตามอำนาจ.** สัดส่วนยังห้ามการปกครองต่ำเกินไปของผู้ที่ถืออำนาจที่ได้รับมากกว่า บทบาทที่มีผล หรืออิทธิพลของสถาบัน: ความเข้มของ [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) และ [การกำกับดูแล](../../core_05_apex_oversight_leg.md#oversight-constitutional) ต้องขึ้นกับอำนาจนั้น ไม่ลง
+**การต้องตอบคำถามที่ปรับตามอำนาจ.** สัดส่วนยังห้ามการปกครองต่ำเกินไปของผู้ที่ถืออำนาจที่ได้รับมากกว่า บทบาทที่มีผล หรืออิทธิพลของสถาบัน: ความเข้มของ [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) และ [การกำกับดูแล](core_05_apex_oversight_leg.md#oversight-constitutional) ต้องขึ้นกับอำนาจนั้น ไม่ลง
 
 **เกณฑ์ที่สูงขึ้น.** ในที่ที่การกระทำนำความเสี่ยงของภัยที่ไม่อาจย้อนกลับ การล็อกเชิงระบบ ความเสี่ยงดำรงอยู่ หรือการสูญเสียขีดความสามารถในการฟื้นตัวทางนิเวศที่ไม่อาจย้อนกลับ ระบบต้องใช้เกณฑ์ที่สูงขึ้นสำหรับเหตุผล การตรวจสอบ และความสามารถในการย้อนกลับในที่ที่ทำได้
 

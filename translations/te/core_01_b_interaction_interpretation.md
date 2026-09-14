@@ -214,7 +214,7 @@
 - [తిరుగుదల](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [ఆధారపడటం](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [పర్యవేక్షణ](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [పర్యవేక్షణ](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -226,7 +226,7 @@
 
 **వర్గీకరణ నేల.** ఏ వ్యవస్థా తన అత్యధిక వర్తించే వర్గీకరణ కోరే స్థాయి కంటే తక్కువగా పాలించబడకూడదు. తక్కువ పరిపాలనా లేబుల్ అత్యధిక వర్తించే ప్రమాదం, ఆధారపడటం, హక్కులు, లేదా వ్యవస్థ-ప్రభావ వర్గీకరణ కోరే పర్యవేక్షణను తగ్గించలేదు.
 
-**అధికార-స్కేల్ సమాధానం.** అనుపాతత ఎక్కువ అధికారం, పరిణామ పాత్ర, లేదా సంస్థాగత ప్రభావం ఉన్నవారి తక్కువ-పాలనను కూడా నిషేధిస్తుంది: [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability), [పర్యవేక్షణ](../../core_05_apex_oversight_leg.md#oversight-constitutional) తీవ్రత ఆ అధికారంతో పెరగాలి, పడకూడదు.
+**అధికార-స్కేల్ సమాధానం.** అనుపాతత ఎక్కువ అధికారం, పరిణామ పాత్ర, లేదా సంస్థాగత ప్రభావం ఉన్నవారి తక్కువ-పాలనను కూడా నిషేధిస్తుంది: [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability), [పర్యవేక్షణ](core_05_apex_oversight_leg.md#oversight-constitutional) తీవ్రత ఆ అధికారంతో పెరగాలి, పడకూడదు.
 
 **పెంచిన గడపలు.** చర్యలు తిరుగులేని హాని, వ్యవస్థాగత లాక్-ఇన్, ఉనికి ప్రమాదం, లేదా పర్యావరణ పునరుద్ధరణ సామర్థ్యం తిరుగులేని నష్టం ప్రమాదం తెచ్చిన చోట, వ్యవస్థలు సాధ్యమైన చోట సమర్థన, పర్యవేక్షణ, తిరుగుదలకు పెంచిన గడపలు వర్తింపజేయాలి.
 

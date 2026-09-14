@@ -649,7 +649,7 @@
 - [危害](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
 - [リスク](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 - [可逆性](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [監督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [監督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -661,7 +661,7 @@
 - **実質的危害**または**システム的リスク**を防ぐために必要である
 - その制限が**比例的**であり、**可能なところでは可逆**であり、**監督に服する**
 
-制約は、より制限が少なく合理的に有効な代替が存在しないときにのみ課されてよく、**第五章**の[必要性](../../core_05_band_accountability.md#necessity)と整合する。行為主体性を限る実行可能性の主張は、**第四章**の負担と追跡可能性の要件のもとで示されなければならない。**第五章**の定義（実行可能性、必要性、比例性、危害最小化（取引の選択）を含む）とも整合しなければならない。制限は、[実質的利害](core_00_preamble.md#material-stake)に応じて尺度を合わせた[監督](../../core_05_apex_oversight_leg.md#oversight-constitutional)に服したままでなければならない。
+制約は、より制限が少なく合理的に有効な代替が存在しないときにのみ課されてよく、**第五章**の[必要性](../../core_05_band_accountability.md#necessity)と整合する。行為主体性を限る実行可能性の主張は、**第四章**の負担と追跡可能性の要件のもとで示されなければならない。**第五章**の定義（実行可能性、必要性、比例性、危害最小化（取引の選択）を含む）とも整合しなければならない。制限は、[実質的利害](core_00_preamble.md#material-stake)に応じて尺度を合わせた[監督](core_05_apex_oversight_leg.md#oversight-constitutional)に服したままでなければならない。
 
 自由の限度が他の憲法上の価値または権利と衝突するとき、**安全**と**真理**が満たされた後、[§6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)から[§6.1.5 権利衝突の手続](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)を適用する。
 

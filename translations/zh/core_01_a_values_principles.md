@@ -649,7 +649,7 @@
 - [伤害](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
 - [风险](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 - [可逆性](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [监督](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [监督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -661,7 +661,7 @@
 - 为防止**实质伤害**或**系统风险**所必要
 - 该项限制**相称**、**在可能之处可逆**，并**受监督约束**
 
-仅当不存在限制更少、合理有效的替代时，才可施加约束，并与**第五章**中的[必要性](../../core_05_band_accountability.md#necessity)一致。限制能动性的可行性主张，必须能在**第四章**的负担与可追溯性要求下被证明。它们也必须与**第五章**定义一致（包括可行性、必要性、相称性，以及伤害最小化（权衡选择））。限制必须仍受按[实质利害](../../core_00_preamble.md#material-stake)缩放的[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)约束。
+仅当不存在限制更少、合理有效的替代时，才可施加约束，并与**第五章**中的[必要性](../../core_05_band_accountability.md#necessity)一致。限制能动性的可行性主张，必须能在**第四章**的负担与可追溯性要求下被证明。它们也必须与**第五章**定义一致（包括可行性、必要性、相称性，以及伤害最小化（权衡选择））。限制必须仍受按[实质利害](../../core_00_preamble.md#material-stake)缩放的[监督](core_05_apex_oversight_leg.md#oversight-constitutional)约束。
 
 当自由限度与其他宪法价值或权利碰撞时，在**安全**与**真理**得到满足之后，适用[§6.1 核心权衡原则](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) 至 [§6.1.5 权利碰撞程序](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)。
 

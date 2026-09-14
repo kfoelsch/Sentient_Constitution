@@ -214,7 +214,7 @@ La minimización del daño selecciona entre opciones que ya superan esos pisos �
 - [Reversibilidad](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [Dependencia](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Supervisión](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -226,7 +226,7 @@ Las limitaciones de los **valores** constitucionales — incluidas las proteccio
 
 **Piso de clasificación.** Ningún sistema puede gobernarse a un nivel inferior al exigido por su clasificación aplicable más alta. Una etiqueta administrativa más baja no puede reducir el escrutinio exigido por la clasificación aplicable más alta de riesgo, dependencia, derechos o impacto del sistema.
 
-**Deber de responder escalado a la autoridad.** La proporcionalidad también prohíbe la subgobernanza de quienes detentan mayor poder autorizado, rol de consecuencia o influencia institucional: la intensidad de la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) y de la [Supervisión](../../core_05_apex_oversight_leg.md#oversight-constitutional) debe subir con esa autoridad, no bajar.
+**Deber de responder escalado a la autoridad.** La proporcionalidad también prohíbe la subgobernanza de quienes detentan mayor poder autorizado, rol de consecuencia o influencia institucional: la intensidad de la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) y de la [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) debe subir con esa autoridad, no bajar.
 
 **Umbrales elevados.** Donde las acciones introduzcan riesgo de daño irreversible, encierro sistémico, Riesgo existencial o pérdida irreversible de la Capacidad de recuperación ecológica, los sistemas deben aplicar umbrales elevados de justificación, escrutinio y reversibilidad donde sea factible.
 

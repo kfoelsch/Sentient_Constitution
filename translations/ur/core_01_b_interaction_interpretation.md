@@ -213,7 +213,7 @@
 - [الٹ پھیر](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 - [انحصار](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [جوابدہی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [نگرانی](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -225,7 +225,7 @@
 
 **درجہ بندی کی تہہ۔** کوئی نظام اپنی اعلیٰ ترین قابلِ اطلاق درجہ بندی سے کم سطح پر حکمرانی نہیں ہو سکتا۔ نچلا انتظامی لیبل اعلیٰ ترین قابلِ اطلاق خطرہ، انحصار، حقوق، یا نظامی اثر کی درجہ بندی کی مطلوبہ جانچ کم نہیں کر سکتا۔
 
-**اختیار کے مطابق جواب دہی۔** تناسب ان لوگوں کی کم حکمرانی بھی منع کرتا ہے جن کے پاس زیادہ مجاز طاقت، نتیجہ خیز کردار، یا ادارہ جاتی اثر ہو: [جوابدہی](core_05_apex_accountability_leg.md#accountability) اور [نگرانی](../../core_05_apex_oversight_leg.md#oversight-constitutional) کی شدت اس اختیار کے ساتھ بڑھنی چاہیے، گرنی نہیں۔
+**اختیار کے مطابق جواب دہی۔** تناسب ان لوگوں کی کم حکمرانی بھی منع کرتا ہے جن کے پاس زیادہ مجاز طاقت، نتیجہ خیز کردار، یا ادارہ جاتی اثر ہو: [جوابدہی](core_05_apex_accountability_leg.md#accountability) اور [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional) کی شدت اس اختیار کے ساتھ بڑھنی چاہیے، گرنی نہیں۔
 
 **بلند تر حدیں۔** جہاں اعمال ناقابلِ واپسی نقصان، نظامی تالا بندی، وجودی خطرہ، یا ماحولیاتی بحالی کی صلاحیت کے ناقابلِ واپسی نقصان کا خطرہ لائیں، نظاموں کو جواز، جانچ، اور جہاں ممکن ہو الٹ پھیر کے لیے بلند تر حدیں لاگو کرنی چاہییں۔
 
