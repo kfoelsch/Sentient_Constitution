@@ -591,3 +591,193 @@
 
 <br>
 
+<a id="10-governance-under-stewardship-discipline"></a>
+### 10. उत्तरदायी-प्रबंधन अनुशासन के अधीन शासन
+
+<details>
+<summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
+
+- साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **सहभागिता**, **निगरानी**, **जवाबदेही**, और **समयबद्धता** जहाँ शासन संरचनाएँ प्राधिकार आवंटित करें, प्रोत्साहन संरेखित करें, या कब्ज़ा का उत्तर दें; [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग — [§10.1](#101-governance-as-authorized-structure) के अधीन प्राधिकार-स्केल उत्तरदेयता सहित।
+- साथ पढ़ें: [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **समुन्नति** उद्देश्य (अर्थपूर्ण अभिकर्तृत्व और वैध सहभागिता); **सातत्य** उद्देश्य (टिकाऊ संस्थागत संरेखण और दीर्घ-क्षितिज उत्तरदायी-प्रबंधन अनुशासन)।
+- साथ पढ़ें: [आरोपणीय कार्रवाई](../../core_05_band_accountability.md#attributable-action-constitutional) और [आरोपण अखंडता](../../core_05_band_accountability.md#attribution-integrity-constitutional) — यांत्रिकी प्रमेय जो प्राधिकार-स्केल उत्तरदेयता वास्तविक रखते हैं जहाँ तात्विक कार्रवाई पता-योग्य रहनी चाहिए; संक्रियात्मक विस्तार **[CS-2 — Information types and handling](../../corpus_systems/cs_02_a_information_types_and_handling.md)** और **अध्याय सात** में।
+- ऊर्ध्व: [§9 उत्तरदायी प्रबंधन और वितरित समझ](#9-stewardship-and-distributed-understanding); [§9.1.1 साझा उत्तरदायी-प्रबंधन मानक](#911-shared-stewardship-standard) (*आधार-निरपेक्ष कर्तव्य मानव और एआई प्रबंधकों को समान बाँधते हैं*)।
+- अधो: [§11 प्रोत्साहन संरेखण और प्रणाली कब्ज़ा](#11-incentive-alignment-and-system-capture); [§12 साझा-प्रणाली क्षमता](#12-shared-system-capacity); [अध्याय बारह](../../core_12_governance.md) (*संवैधानिक अनुबंध परत* संक्रियात्मककरण); [अनुच्छेद XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*मंच-सदस्य तल*)।
+- उपखंड (पढ़ने का क्रम): [§10.1 अधिकृत संरचना के रूप में शासन](#101-governance-as-authorized-structure) · [§10.2 कर्तव्यों का पृथक्करण](#102-segregation-of-duties) · [§10.3 सतत औचित्य](#103-ongoing-justification)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
+
+- [शासन](../../core_05_band_accountability.md#governance) · [O](../../core_05_band_accountability.md#governance) · [M](../../core_05_band_accountability.md#governance-a) · [A](../../core_05_band_accountability.md#governance-a) · [C](../../core_05_band_accountability.md#governance-c)
+- [उत्तरदायी प्रबंधन](../../core_05_band_continuity.md#stewardship-constitutional) · [O](../../core_05_band_continuity.md#stewardship-constitutional) · [M](../../core_05_band_continuity.md#stewardship-constitutional-a) · [A](../../core_05_band_continuity.md#stewardship-constitutional-a) · [C](../../core_05_band_continuity.md#stewardship-constitutional-c)
+- [आवश्यकता](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [आनुपातिकता](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [सहभागिता](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [निगरानी](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [जवाबदेही](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [आरोपणीय कार्रवाई](../../core_05_band_accountability.md#attributable-action-constitutional) · [O](../../core_05_band_accountability.md#attributable-action-constitutional) · [M](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [A](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [C](../../core_05_band_accountability.md#attributable-action-constitutional-c)
+- [आरोपण अखंडता](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [O](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [M](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [A](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [C](../../core_05_band_accountability.md#attribution-integrity-constitutional-c)
+
+</details>
+
+<br>
+
+*साधारण शब्दों में: शासन यह है कि कौन क्या और कैसे तय कर सकता है — पर केवल जब वे संरचनाएँ उत्तरदायी-प्रबंधन अनुशासन के अधीन रहें, समुन्नति और सातत्य साथ सेवा करें, और चतुष्क खोखला न करें या अध्याय बारह के संक्रियात्मक प्राधिकार नियमों की जगह न लें।*
+
+यह अनुभाग [§9 उत्तरदायी प्रबंधन और वितरित समझ](#9-stewardship-and-distributed-understanding) के अधो [शासन](../../core_05_band_accountability.md#governance) अनुशासन ढोता है: अधिकृत संरचना, उत्तरदायी-प्रबंधन अध्यारोहण, [सतत औचित्य](#103-ongoing-justification), और कर्तव्यों का पृथक्करण। **[§11 प्रोत्साहन संरेखण और प्रणाली कब्ज़ा](#11-incentive-alignment-and-system-capture)** प्रोत्साहन संरेखण, स्थानापन्न अखंडता, अल्पकाल दोष सुधार, संचालक अनुप्रयोग, और कब्ज़ा प्रतिक्रिया ढोता है।
+
+<a id="101-governance-as-authorized-structure"></a>
+#### 10.1 अधिकृत संरचना के रूप में शासन
+
+<details>
+<summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
+
+- साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **सहभागिता** टाँग (दिशा में अधिकृत आवाज़ और परिणामी भूमिकाएँ); **निगरानी** टाँग (प्राधिकार आवंटन और प्रयोग की जाँच); **जवाबदेही** टाँग (शासन परिणामों और कब्ज़े के लिए उत्तरदेयता); [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग।
+- साथ पढ़ें: [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **समुन्नति** उद्देश्य (शासन जो अर्थपूर्ण अभिकर्तृत्व और वैध सहभागिता सुरक्षित रखे); **सातत्य** उद्देश्य (टिकाऊ संस्थागत संरेखण और दीर्घ-क्षितिज उत्तरदायी-प्रबंधन अनुशासन)।
+- साथ पढ़ें: [§6.1.3 आनुपातिकता](core_01_b_interaction_interpretation.md#613-proportionality) (*वर्गीकरण तल और न्यून-शासन अनुशासन*); [आवश्यकता](../../core_05_band_accountability.md#necessity); [आनुपातिकता](../../core_05_band_accountability.md#proportionality); [जवाबदेही](../../core_05_apex_accountability_leg.md#accountability); [निगरानी](../../core_05_apex_oversight_leg.md#oversight-constitutional)।
+- ऊर्ध्व: सिद्धांत: [§9 उत्तरदायी प्रबंधन और वितरित समझ](#9-stewardship-and-distributed-understanding); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims)।
+- अधो: [§10.2 कर्तव्यों का पृथक्करण](#102-segregation-of-duties); [§10.3 सतत औचित्य](#103-ongoing-justification); [§11 प्रोत्साहन संरेखण और प्रणाली कब्ज़ा](#11-incentive-alignment-and-system-capture); [अध्याय बारह](../../core_12_governance.md) (*संवैधानिक अनुबंध परत* संक्रियात्मककरण); [अनुच्छेद XXII: संवैधानिक व्याख्या, समीक्षा और कब्ज़ा-निरोध सुरक्षाएँ](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*मंच-सदस्य प्रकटीकरण, अलग होना, और कब्ज़ा-निरोध तल*); [अध्याय ग्यारह](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*मंच-परिवार पर्यवेक्षण*)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
+
+- [शासन](../../core_05_band_accountability.md#governance) · [O](../../core_05_band_accountability.md#governance) · [M](../../core_05_band_accountability.md#governance-a) · [A](../../core_05_band_accountability.md#governance-a) · [C](../../core_05_band_accountability.md#governance-c)
+- [उत्तरदायी प्रबंधन](../../core_05_band_continuity.md#stewardship-constitutional) · [O](../../core_05_band_continuity.md#stewardship-constitutional) · [M](../../core_05_band_continuity.md#stewardship-constitutional-a) · [A](../../core_05_band_continuity.md#stewardship-constitutional-a) · [C](../../core_05_band_continuity.md#stewardship-constitutional-c)
+- [आवश्यकता](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [आनुपातिकता](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [सहभागिता](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+- [निगरानी](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [जवाबदेही](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+
+</details>
+
+<br>
+
+*साधारण शब्दों में: शासन शक्ति की नियमपुस्तिका है — कौन क्या तय कर सकता है, किन संरचनाओं से, और परिणामों के लिए किसे उत्तर देना चाहिए। जितनी अधिक शक्ति कोई भूमिका ढोए, वे उत्तरदेयता और निगरानी कर्तव्य उतने ही मज़बूत होने चाहिए — कभी कमज़ोर नहीं। वह तभी काम करता है जब वह संज्ञ प्राणियों को समय के साथ समुन्नत करे, सहभागिता और निगरानी के वास्तविक मार्ग रखे, और [§9 उत्तरदायी प्रबंधन और वितरित समझ](#9-stewardship-and-distributed-understanding) के उत्तरदायी-प्रबंधन अनुशासन के अधीन रहे। नियमपुस्तिका अपने लिए पालन पर्याप्त नहीं जब वह संस्था की रक्षा करे, अल्पकाल जीत का पीछा करे, या मूल अधिकार खा जाए।*
+
+**अधिकृत संरचना के रूप में शासन।** सिद्धांत परत पर, [शासन](../../core_05_band_accountability.md#governance) यह है कि पहले से अधिकृत प्रणालियाँ और संस्थाएँ कैसे निर्देशित और जवाबदेह रखी जाती हैं — जैसा **अध्याय पाँच** में परिभाषित और **अध्याय बारह** के अधीन **संवैधानिक अनुबंध परत** तथा [प्रस्तावना](core_00_preamble.md#chapter-00-preamble--foundational-requirements) में प्रभावित-पक्ष सहभागिता परतों के लिए संक्रियात्मक विस्तार में कथित। अधिकृत शासन को [भौतिक दाँव](core_00_preamble.md#material-stake) के अनुसार स्केल [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) के अधीन [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) आगे बढ़ाने चाहिए।
+
+**शासन क्या कवर करता है:**
+
+- निर्णय-निर्माण के लिए संरचनाएँ और नियम;
+- प्राधिकार कौन रखता है और वह कैसे आवंटित होता है;
+- संस्थाओं को निर्देशित करने की प्रक्रियाएँ; और
+- शासन को स्वयं जवाबदेह रखने की यांत्रिकी।
+
+**प्राधिकार-स्केल उत्तरदेयता।** अधिक अधिकृत शक्ति, परिणामी भूमिका, या संस्थागत प्रभाव [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) के अधीन संवैधानिक [जवाबदेही](../../core_05_apex_accountability_leg.md#accountability) और [निगरानी](../../core_05_apex_oversight_leg.md#oversight-constitutional) कर्तव्य उठाता है — और गिरा नहीं सकता — [भौतिक दाँव](core_00_preamble.md#material-stake) के साथ स्केल और [आवश्यकता](../../core_05_band_accountability.md#necessity) तथा [आनुपातिकता](../../core_05_band_accountability.md#proportionality) के साथ पढ़ें:
+
+- पद, विशेषज्ञता दुर्लभता, स्टाफिंग आवश्यकता, या संस्थागत आत्म-रक्षा इस संविधान के प्रति उत्तरदेयता नहीं घटा सकती;
+- व्याख्यात्मक या निर्णयात्मक प्राधिकार प्रयोग करने वाले **संवैधानिक मंच सदस्य और पैनलिस्ट** विशेष रूप से इस अनुशासन के अधीन हैं;
+- संक्रियात्मक प्रकटीकरण, अलग होना, कब्ज़ा-निरोध, और स्वतंत्र-समीक्षा तल [अनुच्छेद XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*संवैधानिक व्याख्या, समीक्षा और कब्ज़ा-निरोध सुरक्षाएँ*) और [अध्याय ग्यारह](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) में रहते हैं, यहाँ नहीं।
+
+**आवश्यक, पर्याप्त नहीं।** शासन को **उत्तरदायी प्रबंधन** ([§9](#9-stewardship-and-distributed-understanding)) के आगे हटना चाहिए जब निम्नलिखित में से कोई टिकाऊ संवैधानिक संरेखण, [**सातत्य**](core_00_preamble.md#continuity), [**समुन्नति**](core_00_preamble.md#flourishing), या अधिकार-तल अखंडता कमज़ोर करे:
+
+- अपने लिए नियम-पालन;
+- अल्पकाल अनुकूलन; या
+- संस्थागत आत्म-रक्षा।
+
+जहाँ शासन और उत्तरदायी प्रबंधन टकराएँ, सिद्धांत परत पर उत्तरदायी-प्रबंधन अनुशासन नियंत्रित करता है जब तक [आवश्यकता](../../core_05_band_accountability.md#necessity) और [आनुपातिकता](../../core_05_band_accountability.md#proportionality) स्पष्ट रूप से सुधार-मार्गों सहित सीमाबद्ध, समय-सीमित अपवाद न्यायोचित न ठहराएँ।
+
+<a id="102-segregation-of-duties"></a>
+#### 10.2 कर्तव्यों का पृथक्करण
+
+<details>
+<summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
+
+- ऊर्ध्व: [§10.1 अधिकृत संरचना के रूप में शासन](#101-governance-as-authorized-structure); [§10 उत्तरदायी-प्रबंधन अनुशासन के अधीन शासन](#10-governance-under-stewardship-discipline); [§9.1.1 साझा उत्तरदायी-प्रबंधन मानक](#911-shared-stewardship-standard) (*मानव और एआई प्रबंधकों के लिए वही सीटें*)।
+- साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **निगरानी** टाँग (जाँच करने वाला कार्य करने वाला नहीं); **जवाबदेही** टाँग (उत्तरदेयता कर्ता पर नहीं सिमट सकती); [आनुपातिकता](../../core_05_band_accountability.md#proportionality) के अधीन [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग।
+- साथ पढ़ें: [§11.3 विसंरेखण पता लगाना](#113-misalignment-detection) (*बहु पता लगाना और समीक्षा — इस जोड़ी का अनेक-आँखें आधा*)।
+- अधो: संस्थाओं के लिए **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)** (*जवाबदेही: वितरित और आनुपातिक प्राधिकार पद — संवैधानिक लेन और कार्यात्मक पृथक्करण*) और **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)** (*कार्यात्मक पृथक्करण लेन*); सीट प्रकारों के लिए **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)** (*सीट सूची*) — ये चार और आवर्ती रोकथाम, सहभागिता-शर्तें, विमोचन-नियंत्रण, और दिशा सीटें — जिन्हें हर अंगीकारकर्ता का भूमिका मानचित्र लागू करता है; प्रस्थिति अभिलेखों के लिए [अध्याय आठ §3.7](../../core_08_standing_assessment.md#37-segregation-of-duties); मंचों के लिए [अनुच्छेद XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) और [अध्याय ग्यारह](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction); मिश्रित मानव/एआई दलों के लिए [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
+
+- [निगरानी](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [जवाबदेही](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [आनुपातिकता](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [लेखापरीक्षा-योग्यता](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [उत्तरदायी प्रबंधन](../../core_05_band_continuity.md#stewardship-constitutional) · [O](../../core_05_band_continuity.md#stewardship-constitutional) · [M](../../core_05_band_continuity.md#stewardship-constitutional-a) · [A](../../core_05_band_continuity.md#stewardship-constitutional-a) · [C](../../core_05_band_continuity.md#stewardship-constitutional-c)
+
+</details>
+
+<br>
+
+*साधारण शब्दों में: जो काम करता है वह उसे जाँचने, अभिलेखित करने, या उसके बारे में शिकायत सुनने वाला नहीं — एआई प्रबंधकों के लिए भी जैसे मनुष्यों के लिए। निगरानी वास्तविक नहीं यदि समीक्षाधीन कर्ता स्वयं सत्यापक भी हो।*
+
+**कर्तव्यों का पृथक्करण:** [निगरानी](../../core_05_apex_oversight_leg.md#oversight-constitutional) केवल वहाँ मौजूद है जहाँ जाँच करने वाला कार्य करने वाला न हो।
+
+- **यह क्या कवर करता है:** कोई तात्विक रूप से बाध्यकारी कार्य:
+  - निर्णय
+  - अभिलेख प्रविष्टि
+  - विमोचन
+  - संवितरण
+  - निष्कर्ष
+- **चार भिन्न सीटें:**
+  - जो इसे **शुरू** करे
+  - जो इसे **सत्यापित या अधिकृत** करे
+  - जो इसे **अभिलेखित** करे
+  - जो इसकी **चुनौती की समीक्षा** करे
+- **उन्हें कौन रखता है:** भिन्न संज्ञ प्राणी या कार्यालय, [§9.1.1 साझा उत्तरदायी-प्रबंधन मानक](#911-shared-stewardship-standard) के अधीन मानव या एआई समान। एआई प्रबंधक जो एक प्रक्रिया में अपना कार्य निष्पादित, प्रमाणित और लॉग करे वही विफलता है जो मानव की, और प्रबंधक तैनात करने वाली प्रणालियाँ ऐसी डिज़ाइन होनी चाहिए कि अलग सत्यापक मौजूद हो।
+- **यह कैसे स्केल होता है:** [आनुपातिकता](../../core_05_band_accountability.md#proportionality) के अधीन [भौतिक दाँव](core_00_preamble.md#material-stake) के साथ:
+  - एक सीट चार में से दो तभी होस्ट कर सकती है जब प्रकाशित, लेखापरीक्षा-योग्य, चुनौती-योग्य स्वतंत्रता सुरक्षा हो, और कभी उसी कार्य पर **सत्यापित-और-अभिलेखित** या **सत्यापित-और-समीक्षा** नहीं
+  - जो कार्यालय प्रणाली चलाता है वह उस प्रणाली के बारे में कार्यों के लिए आरंभ सीट रखता है और उन्हें सत्यापित नहीं करता
+  - विलय सीट छोटे दायरे के लिए वर्ग-स्केल अपवाद है, डिफ़ॉल्ट नहीं, और कार्य के अभिलेख पर प्रकट होती है
+  - तेज़ी के लिए, स्टाफ बचाने के लिए, या क्योंकि एक संज्ञ ही प्रणाली समझता है सीटें समेटना [§9.6 प्रक्रिया-अवनति-निषेध](#96-process-character-discipline) अवनति-प्रक्रिया पैटर्न है, दक्षता नहीं
+- **युग्मित नियम:** यह [§11.3 *बहु पता लगाना और समीक्षा*](#113-misalignment-detection) के साथ जोड़ी का सीट-स्तरीय आधा है: वह नियम निगरानी को एक कर्ता द्वारा घेरने से रोकता है; यह उसे समीक्षाधीन कर्ता द्वारा किए जाने से रोकता है।
+
+संक्रियात्मक विस्तार अधो रहता है और इस तल को संकीर्ण नहीं कर सकता।
+
+<a id="103-ongoing-justification"></a>
+#### 10.3 सतत औचित्य
+
+<details>
+<summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
+
+- ऊर्ध्व: [§10.1 अधिकृत संरचना के रूप में शासन](#101-governance-as-authorized-structure); [§10 उत्तरदायी-प्रबंधन अनुशासन के अधीन शासन](#10-governance-under-stewardship-discipline)।
+- साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **समयबद्धता** टाँग (निर्धारित पुनःजाँच); **निगरानी** टाँग (दृश्य, चुनौती-योग्य मानक); **जवाबदेही** टाँग (आदत और सुविधा उत्तर नहीं); [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग।
+- साथ पढ़ें: [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **सातत्य** उद्देश्य (टिकाऊ संरेखण जगह-पर-जमाना नहीं); **समुन्नति** उद्देश्य (व्यवस्थाओं के पुराने होने पर आवाज़ और चुनौती वास्तविक रहें)।
+- साथ पढ़ें: [समीक्षा और सुधार कर्तव्य](../../core_05_band_continuity.md#review-and-correction-duty-constitutional); [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability); [समयबद्धता](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)।
+- अधो: [अनुच्छेद XXV-A: गैर-जड़ता और संशोधन-योग्यता](../../core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability) और [अनुच्छेद XXV-B: आवधिक पुनःसत्यापन और पारदर्शी परिवर्तन](../../core_06_rights_part_d.md#article-xxv-b-periodic-revalidation-and-transparent-change) (*अधिकार-तल गैर-जड़ता और पारदर्शी-परिवर्तन तल — वे इस सिद्धांत को संकीर्ण नहीं करते*); **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)** (*आधाररेखा शासन जवाबदेही शर्तें*); [अध्याय बारह](../../core_12_governance.md) (*संवैधानिक अनुबंध परत* संक्रियात्मककरण)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
+
+- [समयबद्धता](../../core_05_apex_timeliness_leg.md#timeliness-constitutional) · [O](../../core_05_apex_timeliness_leg.md#timeliness-constitutional) · [M](../../core_05_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](../../core_05_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](../../core_05_apex_timeliness_leg.md#timeliness-constitutional-c)
+- [निगरानी](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [जवाबदेही](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [पारदर्शिता](../../core_05_band_oversight.md#transparency) · [O](../../core_05_band_oversight.md#transparency) · [M](../../core_05_band_oversight.md#transparency-a) · [A](../../core_05_band_oversight.md#transparency-a) · [C](../../core_05_band_oversight.md#transparency-c)
+- [शासन](../../core_05_band_accountability.md#governance) · [O](../../core_05_band_accountability.md#governance) · [M](../../core_05_band_accountability.md#governance-a) · [A](../../core_05_band_accountability.md#governance-a) · [C](../../core_05_band_accountability.md#governance-c)
+- [समीक्षा और सुधार कर्तव्य](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
+
+</details>
+
+<br>
+
+*साधारण शब्दों में: व्यवस्थाएँ «हम हमेशा ऐसा ही करते आए हैं» पर हमेशा के लिए तैर नहीं सकतीं। कौन तय करता है, किसे आवाज़ है, प्रभाव कैसे भारित है, धन कैसे आवंटित होता है, और संस्थाएँ कैसे डिज़ाइन हैं — इन महत्वपूर्ण नियमों को सिद्ध करते रहना चाहिए कि वे अभी भी इस संविधान से मेल खाते हैं — ऐसे शेड्यूल पर जिसे दूसरे देख और चुनौती दे सकें।*
+
+**समय के साथ न्यायोचित रहना चाहिए:** महत्वपूर्ण शासन चयन एक बार सेट करके भुलाए नहीं जा सकते। उन्हें नियमित शेड्यूल पर पुनःजाँचना चाहिए, ऐसे मानकों से जिन्हें तात्विक रूप से प्रभावित संज्ञ देख और चुनौती दे सकें।
+
+- **क्या पुनःजाँचना चाहिए:**
+  - निर्णय कैसे लिए जाते हैं इसके नियम
+  - उनमें वास्तविक आवाज़ किसे मिलती है
+  - वोट या प्रभाव कैसे भारित होते हैं
+  - वित्त कैसे आवंटित होता है
+  - संस्थाएँ कैसे डिज़ाइन हैं
+- **औचित्य नहीं:** वह व्यवस्था जो अब संविधान से मेल न खाए केवल इसलिए जगह नहीं रह सकती कि:
+  - कोई उसे फिर देखना नहीं चाहता (**जड़ता**)
+  - परिवर्तन असुविधाजनक होगा (**सुविधा**)
+  - «हम हमेशा ऐसा ही करते आए हैं» (**ऐतिहासिक पूर्वोदाहरण**)
+  - पिछली पसंदें परिवर्तन कठिन बनाती हैं (**पथ निर्भरता**)
+
+<a id="11-incentive-alignment-and-system-capture"></a>
+### 11. प्रोत्साहन संरेखण और प्रणाली कब्ज़ा
+

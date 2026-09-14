@@ -779,6 +779,183 @@
   - «мы всегда так делали» (**исторический прецедент**)
   - прошлые выборы делают изменение труднее (**зависимость от пути**)
 
-<!--PART4-->
+<a id="11-incentive-alignment-and-system-capture"></a>
+### 11. Согласование стимулов и захват системы
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Читать вместе с: [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad) — первичный дом Главы первой для дисциплины **захвата** тетрады (стимулы не должны выхолащивать **участие**, **надзор**, **подотчётность** или **своевременность**); масштабирование по [материальной ставке](core_00_preamble.md#material-stake).
+- Читать вместе с: семьёй измерения Подотчётности (*Согласование стимулов и целостность заместителей; Рыночная структура и оспоримость*).
+- Читать вместе с: [Две конституционные цели](core_00_preamble.md#two-constitutional-aims) — цель **Преемственности** (длительное согласование против оптимизации короткого горизонта и захвата); цель **Расцвета** (структуры стимулов, которые сохраняют значимую агентность).
+- Исход: Принципы: [2. Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§2.2 Признание, подкрепление и устремление](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration), [3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Доверие](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 Ответственное управление и распределённое понимание](#9-stewardship-and-distributed-understanding) и [Глава седьмая §3 Оценка сертификации целой системы](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Назначение: [§5 Свобода](core_01_a_values_principles.md#5-freedom-bounded-agency) и [§7 Запрет абсолютной отмены](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- Назначение: [§6.3 Минимизация избежимой нагрузки](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden); [Глава двенадцатая §5 — Уполномоченные роли, развитие компетентности и вклад](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](../../corpus_systems.md), CS-4 — Ответственное управление критическими системами**.
+- Назначение: Целит поверхность прав для агентности, участия, согласования стимулов, целостности информационной сферы, траектории и пересмотра против захвата по [Главе шестой: Основополагающие права](../../core_06_rights_part_a.md#chapter-six-foundational-rights); особенно [Статья IX: Самоопределение и агентность](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [Статья XI: Системное участие затрагиваемых сторон, представительство и надлежащая процедура](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [Статья XII-D: Ограничение согласования стимулов](../../core_06_rights_part_c.md#article-xii-d-incentive-alignment-constraint), [Статья XIV: Целостность информационной сферы](../../core_06_rights_part_c.md#article-xiv-info-sphere-integrity), [Статья XVIII: Траектория и статус участия](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status) и [Статья XXII: Конституционное толкование, пересмотр и гарантии против захвата](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
+- Дверь ответственного управления (неоперативная): Связывающее заявление следующего шага: [Оперативное заявление ответственного управляющего](#operative-steward-statement-incentive). Указатели поддержки не могут его сузить.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
+
+- [Дефект управления короткого горизонта](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional) · [O](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional) · [M](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional-c)
+- [Дефект ответственного управления](../../core_05_band_continuity.md#stewardship-defect-constitutional) · [O](../../core_05_band_continuity.md#stewardship-defect-constitutional) · [M](../../core_05_band_continuity.md#stewardship-defect-constitutional-a) · [A](../../core_05_band_continuity.md#stewardship-defect-constitutional-a) · [C](../../core_05_band_continuity.md#stewardship-defect-constitutional-c)
+- [Обязанность пересмотра и исправления](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
+- [Согласование стимулов](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment) · [A](../../core_05_band_integrative.md#incentive-alignment) · [C](../../core_05_band_integrative.md#incentive-alignment)
+- [Производительная способность](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [Конституционная эффективность](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
+- [Избежимая нагрузка](../../core_05_band_continuity.md#avoidable-burden) · [O](../../core_05_band_continuity.md#avoidable-burden) · [M](../../core_05_band_continuity.md#avoidable-burden-a) · [A](../../core_05_band_continuity.md#avoidable-burden-a) · [C](../../core_05_band_continuity.md#avoidable-burden-c)
+- [Расхождение заместительных показателей](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [Безопасность (ограничение)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
+- [Истина (конституционное ограничение)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Значимая агентность](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+- [Аудитируемость](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [Захват системы](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [Антизахват](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Оперативное заявление ответственного управляющего</span></strong></summary>
+
+<a id="operative-steward-statement-incentive"></a>
+> **Оперативное заявление ответственного управляющего.** **Владелец:** Глава первая §11. Дом проваленного теста: §9.1.2. Определение: Согласование стимулов. **Запрещённый ход:** Не отправляйте, подавляя материальное раскрытие. Не трактуйте бонус как действительную защиту соответствия. **Срок:** Откажитесь от заместителя. Исправьте стимул. Проведите общий экран отказа и журналирования.
+
+</details>
+
+<br>
+
+*Простыми словами: управление, которое продолжает бить квартальные цели, выхолащивая безопасность, истину, участие или будущее, — не «работающее управление» — это дефект, который эта Конституция называет и исправляет через дисциплину стимулов и захвата ниже. Стимулы, действующие на операторов, агентов и компоненты системы — включая компенсацию, продвижение, долю и сопоставимые пути вознаграждения — должны тянуть к конституционным исходам. Они не могут тихо вознаграждать поведение, которое подрывает Безопасность, Истину, права, стабильность или значимую агентность, прямо, через задержку, через агрегацию или через устройства, которые материально зависят от проступка или его сокрытия.*
+
+Системы должны обнаруживать, раскрывать и исправлять **дефекты управления короткого горизонта** ([Дефект управления короткого горизонта](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional)) через [Обязанность пересмотра и исправления](../../core_05_band_continuity.md#review-and-correction-duty-constitutional), оспариваемый надзор и правила согласования, обнаружения рассогласованности, исправления рассогласованности, ответа на захват и ответственности преемника в [§11.1 Требование согласования](#111-alignment-requirement) через [§11.6 Ответственность преемника и отсутствие выхода через формальную структуру](#116-successor-responsibility-and-formal-structure-non-escape) и [§13.1 Механизм порога рыночной концентрации](#131-market-concentration-threshold-mechanism-adopter-tunable) через [§13.3 Потолок консолидации](#133-consolidation-ceiling).
+
+**Системы должны:**
+
+- согласовывать структуры стимулов, действующие на агентов, операторов или составные компоненты, с ценностями и ограничениями, определёнными в этой Конституции;
+- обеспечивать, чтобы эти структуры систематически не подрывали эти ценности и ограничения; и
+- обеспечивать, чтобы эти структуры не захватывали, не выхолащивали и не рассогласовывали [Конституционную тетраду](core_00_preamble.md#constitutional-tetrad) ниже того, что требует [материальная ставка](core_00_preamble.md#material-stake).
+
+[§11.5 Условные требования, игры случая и рынки контрактов на события](#115-contingent-claims-games-of-chance-and-event-contract-markets) заявляет **специальное применение** того же общего стандарта. [§11.1.3 Применение к ответственному управлению и операторам](#1113-stewardship-and-operator-application) заявляет словарь ответственного управления и операторов и правила путей роли; ни одно не создаёт более слабого правила стимулов, чем [§11.1 Требование согласования](#111-alignment-requirement).
+
+<a id="111-alignment-requirement"></a>
+#### 11.1 Требование согласования
+
+<details>
+<summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
+
+- [Согласование стимулов](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment-a) · [A](../../core_05_band_integrative.md#incentive-alignment-a) · [C](../../core_05_band_integrative.md#incentive-alignment-c)
+- [Производительная способность](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [Конституционная эффективность](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
+- [Избежимая нагрузка](../../core_05_band_continuity.md#avoidable-burden) · [O](../../core_05_band_continuity.md#avoidable-burden) · [M](../../core_05_band_continuity.md#avoidable-burden-a) · [A](../../core_05_band_continuity.md#avoidable-burden-a) · [C](../../core_05_band_continuity.md#avoidable-burden-c)
+- [Расхождение заместительных показателей](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [Безопасность (ограничение)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
+- [Истина (конституционное ограничение)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Значимая агентность](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+- [Аудитируемость](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [Захват системы](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [Антизахват](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+- [Благополучие](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
+- [Участие](../../core_05_apex_participation_leg.md#participation-constitutional) · [O](../../core_05_apex_participation_leg.md#participation-constitutional) · [M](../../core_05_apex_participation_leg.md#participation-constitutional-m) · [A](../../core_05_apex_participation_leg.md#participation-constitutional-a) · [C](../../core_05_apex_participation_leg.md#participation-constitutional-c)
+
+</details>
+
+<br>
+
+Структуры стимулов, действующие на агентов, операторов или составные компоненты, должны согласовываться с ценностями и ограничениями, определёнными в этой Конституции.
+
+<a id="1111-what-incentives-must-do"></a>
+##### 11.1.1 Что стимулы должны делать
+
+Стимулы должны предпочитать измеримые конституционные исходы, каждый согласованный с этой главой, Полом прав в **Главе шестой** и требованиями прослеживаемости исходов в **Главе пятой**, включая:
+
+- безопасность;
+- Истину;
+- аудитируемость;
+- своевременное восстановление;
+- [Антизахват](../../core_05_band_continuity.md#anti-capture); и
+- сохранение или длительное расширение [Производительной способности](../../core_05_band_continuity.md#productive-capacity-constitutional).
+
+<a id="1112-what-incentives-must-not-do"></a>
+##### 11.1.2 Чего стимулы не должны делать
+
+Стимулы не должны вознаграждать, защищать, нормализовать или делать материально выгодным:
+
+- поведение, которое деградирует безопасность, истину, системную стабильность или [Значимую агентность](../../core_05_band_participation.md#meaningful-agency), прямо или через косвенные, отложенные или агрегированные эффекты;
+- создание или поддержание [Избежимой нагрузки](../../core_05_band_continuity.md#avoidable-burden), суеты, символического соответствия или метрик, которые больше не доказывают конституционные исходы;
+- проступок и уклонение от подотчётности:
+  - антиконституционное поведение;
+  - незаконное или неконституционное командное поведение;
+  - сокрытие;
+  - месть;
+  - [препятствование подотчётности](../../core_08_standing_assessment.md#232-violation-event-types) (тип события модели траектории и маршрутизация обозначения [Главы десятой §5.11](../../core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) — не самостоятельный вырез вознаграждения); или
+  - отказ восстанавливать проверенный конституционный вред; или
+- пути вознаграждения, которые материально зависят от проступка или его сокрытия, включая:
+  - компенсацию, бонус, долю, назначение, продвижение или срок пребывания;
+  - закупки, доступ, удостоверение, траекторию или репутацию;
+  - урегулирование, возмещение, страхование или иммунитет; или
+  - сопоставимые устройства.
+
+**Последствия рассогласованного вознаграждения.** Материальные вознаграждения, полученные через запрещённые пути выше, подлежат конфискации и сообщению под моделью траектории. Читать [Глава девятая §5.4 Обязанность сообщения и исключения](../../core_09_standing_integration.md#54-special-violation-rules), [§5.4 Конфискация и удержание](../../core_09_standing_integration.md#54-special-violation-rules) и [§5.4 Исправление, записи и маршрутизация](../../core_09_standing_integration.md#54-special-violation-rules).
+
+<a id="1113-stewardship-and-operator-application"></a>
+##### 11.1.3 Применение к ответственному управлению и операторам
+
+Для ответственных управляющих и операторов под [Двумя конституционными целями](core_00_preamble.md#two-constitutional-aims) и [Конституционной тетрадой](core_00_preamble.md#constitutional-tetrad), масштабированными к [материальной ставке](core_00_preamble.md#material-stake):
+
+- **Легитимное отслеживание:** [Производительная способность](../../core_05_band_continuity.md#productive-capacity-constitutional) и [Конституционная эффективность](../../core_05_band_continuity.md#constitutional-efficiency) называют то, что вознаграждения могут легитимно отслеживать — реальную, длительную способность и улучшение исхода на единицу ресурса.
+- **Стражи:** [Избежимая нагрузка](../../core_05_band_continuity.md#avoidable-burden) и [Расхождение заместительных показателей](../../core_05_band_oversight.md#proxy-divergence) охраняют от вознаграждения суеты, пустых целей или метрик, которые больше не доказывают исходы.
+- **Пол:** [Аудитируемость](../../core_05_band_oversight.md#auditability), [Безопасность (ограничение)](../../core_05_band_continuity.md#safety-constraint) и [Истина (конституционное ограничение)](../../core_05_band_oversight.md#truth-constitutional-constraint) остаются связывающими даже когда способность или эффективность выглядит лучше без них, и они не лицензируют [Захват системы](../../core_05_band_continuity.md#system-capture). Вознаграждение, которое зависит от скрытой работы, небезопасного сокращения, неправдивой записи или захваченного управления, ниже этого пола.
+
+<a id="1114-role-depth-and-material-responsibility-pathways"></a>
+##### 11.1.4 Пути глубины роли и материальной ответственности
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Читать вместе с: [§11.1.5 Дисциплина заявлений о конституционных исходах](#1115-constitutional-outcome-claims-discipline) (*заявления об исходах не могут опираться на символическое участие*).
+
+</details>
+
+<br>
+
+*Простыми словами: людям, которые ведут общие системы, нужны реальные работы с реальным навыком и реальным голосом — не титулы, ящики предложений или комитеты, которые ничего не могут изменить. Как эти работы определяются, кто может в них вырасти и как их держат подотчётными, изложено позже. Этот подраздел говорит только, что эти пути должны делать: они должны делать участие реальным, и чем больше фактически стоит на кону, тем более реальными они должны быть.*
+
+**Где живёт деталь:**
+
+- [Глава двенадцатая §5 — Уполномоченные роли, развитие компетентности и вклад](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution) для уполномоченных ролей, компетентности и путей в работу, которая фактически имеет значение для ответственных управляющих и операторов;
+- [**CS-4**](../../corpus_systems/cs_04_critical_system_stewardship.md) (*Ответственное управление критическими системами*) для того, как эта обязанность несётся в системах высокого воздействия; и
+- [§9 Ответственное управление и распределённое понимание](#9-stewardship-and-distributed-understanding) для картины слоя принципа практической работы и компетентности сообщества.
+
+Эти пути:
+
+- **Должны:** поддерживать [Значимую агентность](../../core_05_band_participation.md#meaningful-agency) — затронутые сентенты могут фактически действовать, не только быть консультируемыми — и продвигать [Две конституционные цели](core_00_preamble.md#two-constitutional-aims) через ноги [Конституционной тетрады](core_00_preamble.md#constitutional-tetrad) **участия** и **подотчётности** (реальный голос и реальная отвечаемость), масштабированные к [материальной ставке](core_00_preamble.md#material-stake).
+- **Не должны:** трактовать **символическое** участие — титул, ящик предложений или совещательное место без эффекта — как **замену** обязанности **с последствиями** там, где воздействие требует последней.
+
+<a id="1115-constitutional-outcome-claims-discipline"></a>
+##### 11.1.5 Дисциплина заявлений о конституционных исходах
+
+<details>
+<summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
+
+- Читать вместе с: [§11.1.4 Пути глубины роли и материальной ответственности](#1114-role-depth-and-material-responsibility-pathways) (*символическое участие не является заменой обязанности с последствиями*).
+
+</details>
+
+<br>
+
+Заявления, что система, политика или мера продвигает [Две конституционные цели](core_00_preamble.md#two-constitutional-aims), [Благополучие](../../core_05_band_continuity.md#wellbeing), [Производительную способность](../../core_05_band_continuity.md#productive-capacity-constitutional), [Конституционную эффективность](../../core_05_band_continuity.md#constitutional-efficiency), [Участие](../../core_05_apex_participation_leg.md#participation-constitutional) или сопоставимые конституционные исходы, **не должны** опираться на:
+
+- предвидимый вред или обман, запрещённые под [Безопасностью (ограничением)](../../core_05_band_continuity.md#safety-constraint) и [Истиной (конституционным ограничением)](../../core_05_band_oversight.md#truth-constitutional-constraint);
+- [Захват системы](../../core_05_band_continuity.md#system-capture) или устройства управления, которые выхолащивают [Конституционную тетраду](core_00_preamble.md#constitutional-tetrad) ниже [материальной ставки](core_00_preamble.md#material-stake); или
+- [Расхождение заместительных показателей](../../core_05_band_oversight.md#proxy-divergence) — пропуск заместителя, метрики вовлечённости, институциональный самоотчёт или символическое соответствие, стоящие вместо прослеживаемых конституционных исходов под **Главой четвёртой**.
+
+Инструменты оценки и места, которые выглядят как участие, всё ещё должны соответствовать этим пределам:
+
+- **Инструментальные меры:** Коэффициенты эффективности и дисциплина [Рыночной структуры](../../core_05_band_accountability.md#market-structure-constitutional) — инструменты для оценки системы, а не сами исходы. Они **должны оставаться** прослеживаемыми к исходам, которые они инструментируют — вы должны уметь видеть, какой реальный результат стоит за числом — и они **не должны** смещать Пол прав в **Главе шестой** (базовые права, ниже которых никакой сентент не может быть толкнут) или более сильные защиты принявшего там, где те уже применяются.
+- **Символическое участие:** Титул, ящик предложений или совещательное место без эффекта — номинальная консультация, театр советов или влияние без эффекта с последствиями — **не должны** подменять участие, которое требует [материальная ставка](core_00_preamble.md#material-stake).
+
+<!--PART5-->
+
 
 

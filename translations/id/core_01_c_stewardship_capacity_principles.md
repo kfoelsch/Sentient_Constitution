@@ -953,3 +953,161 @@ Alat skor dan kursi yang tampak seperti partisipasi tetap harus memenuhi batas i
 
 - **Ukuran instrumental:** Rasio efisiensi dan disiplin [Struktur Pasar](../../core_05_band_accountability.md#market-structure-constitutional) adalah alat untuk menilai sistem, bukan hasil itu sendiri. Mereka **harus tetap** dapat ditelusuri ke hasil yang mereka instrumenkan — Anda harus dapat melihat hasil nyata apa yang diwakili angka itu — dan mereka **tidak boleh** menyingkirkan Lantai Hak di **Bab Enam** (hak dasar yang tidak boleh didorong makhluk sadar ke bawahnya) atau perlindungan pihak yang mengadopsi yang lebih kuat di mana itu sudah berlaku.
 - **Partisipasi simbolik:** Gelar, kotak saran, atau kursi nasihat tanpa efek — konsultasi nominal, teater nasihat, atau pengaruh tanpa efek berakibat — **tidak boleh** menggantikan partisipasi yang dituntut [taruhan material](core_00_preamble.md#material-stake).
+
+<a id="112-convenient-proxies-and-proxy-divergence"></a>
+#### 11.2 Indikator Pengganti yang Nyaman dan Divergensi Indikator Pengganti
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Divergensi Indikator Pengganti](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [Kapasitas Produktif](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [Efisiensi Konstitusional](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
+
+</details>
+
+<br>
+
+Jalur imbalan tidak boleh lebih memilih target yang didaftar di mana target itu secara dapat diduga berkonflik dengan:
+
+- bab ini;
+- Lantai Hak di **Bab Enam**; atau
+- hasil yang mendasari yang kepadanya [Kapasitas Produktif](../../core_05_band_continuity.md#productive-capacity-constitutional) dan [Efisiensi Konstitusional](../../core_05_band_continuity.md#constitutional-efficiency) harus tetap dapat ditelusuri di bawah **Bab Lima**.
+
+**Target yang tidak boleh lebih dipilih:**
+
+- throughput mentah;
+- utilisasi;
+- target jumlah karyawan;
+- target keuangan sempit;
+- latensi;
+- aktivitas prosedural; atau
+- indikator pengganti nyaman lain.
+
+[Divergensi Indikator Pengganti](../../core_05_band_oversight.md#proxy-divergence) harus dideteksi, diungkapkan, dan dikoreksi di mana struktur imbalan mengandalkan indikator pengganti, dasbor, target kinerja, atau indikator kepatuhan formal yang menyimpang dari hasil yang relevan secara material.
+
+<a id="113-misalignment-detection"></a>
+#### 11.3 Deteksi Ketidakselarasan
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Subbagian (urutan baca): [§11.3.1 Pemicu Eskalasi](#1131-escalation-triggers).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Dapat Diaudit](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [Dapat Digugat](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Penguasaan Sistem](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [Anti-Penguasaan](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+- [Keselarasan Insentif](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment-a) · [A](../../core_05_band_integrative.md#incentive-alignment-a) · [C](../../core_05_band_integrative.md#incentive-alignment-c)
+- [Kewajiban Tinjauan dan Koreksi](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: tidak ada yang boleh menjadi satu-satunya makhluk sadar yang dapat melihat, memeriksa, atau menggugat ketika tata kelola salah. Deteksi membutuhkan jalur independen jamak, data dan audit terbuka di mana aturan keselamatan dan klasifikasi mengizinkan, dan eskalasi jelas ketika penguasaan atau ketidakselarasan muncul — bukan penyerapan senyap sebagai bisnis biasa. Aturan eskalasi itu adalah [§11.3.1 Pemicu Eskalasi](#1131-escalation-triggers).*
+
+**Deteksi dan tinjauan jamak:**
+
+- **Siapa yang tidak boleh memonopolinya:** tidak ada pelaku, forum, lembaga, operator, auditor, mediator informasi, wewenang pengangkatan, atau blok pihak terdampak tunggal.
+- **Apa yang tidak boleh mereka monopolikan:** kemampuan praktis untuk mendeteksi, meninjau, mengoreksi, atau menafsirkan kegagalan konstitusional material.
+- **Apa yang harus tetap tersedia:** jalur pengawasan jamak dan independen secara struktural di mana [taruhan material](core_00_preamble.md#material-stake) menuntutnya.
+- **Batas:** batas keamanan dan kerahasiaan yang sah tetap berlaku; mereka harus menjaga [Dapat Diaudit](../../core_05_band_oversight.md#auditability) dan [Dapat Digugat](../../core_05_band_accountability.md#contestability) maksimal yang layak.
+- **Aturan berpasangan:** ini adalah setengah banyak-mata dari pasangan dengan [§10.2 Pemisahan Tugas](#102-segregation-of-duties): kejamakan menjaga pengawasan agar tidak terjepit oleh satu pelaku; pemisahan menjaganya agar tidak dijalankan oleh pelaku yang ditinjau.
+
+**Sistem, data, dan audit terbuka:**
+
+- **Kapan berlaku:** di mana [taruhan material](core_00_preamble.md#material-stake) dan aturan tipe-informasi yang berlaku mengizinkan.
+- **Apa yang harus tetap tersedia:** data relevan-tata-kelola, jalur audit, dan alat tinjauan bagi makhluk sadar yang terdampak secara material — tidak terkunci di dalam operator, vendor, atau blok pengawasan tunggal.
+- **Apa yang lebih dipilih bawaan itu:** proses yang dapat diperiksa, catatan yang dapat digugat, dan verifikasi independen, konsisten dengan [§9.4 Cita-cita Keterbukaan](#94-openness-aspiration).
+- **Tunduk pada:** [§6.2 Batasan Pengungkapan Epistemik](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) dan **[corpus_systems.md](../../corpus_systems.md), CS-2 — Tipe informasi dan penanganan** (termasuk Tipe N dan batas klasifikasi lain yang mengatur apa yang boleh dikumpulkan, diterbitkan, disimpan, atau direkonstruksi).
+
+<a id="1131-escalation-triggers"></a>
+##### 11.3.1 Pemicu Eskalasi
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Baca bersama: [§11.3 Deteksi Ketidakselarasan](#113-misalignment-detection) (*deteksi jamak dan audit terbuka — induk*).
+- Baca bersama: [Keselarasan Insentif](../../core_05_band_integrative.md#incentive-alignment) (*kewajiban penguasaan Bab Lima di subbagian ini bukan pengganti disiplin keselarasan-insentif*).
+- Baca bersama: [§11.4 Koreksi Ketidakselarasan dan Respons Penguasaan](#114-misalignment-correction-and-capture-response) (*rumah koreksi; subbagian ini adalah deteksi, pengungkapan, dan perlakukan sebagai pemicu*).
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: melihat penguasaan bukan memperlakukannya sebagai operasi biasa. Begitu muncul, ia adalah pemicu eskalasi — buktikan di bawah Bab Dua sampai Lima, dan jika sistem tidak dapat memperbaikinya di tempat, kirim ke rumah koreksi dan jejak yang dinamai di bawah.*
+
+Sistem harus mendeteksi, mengungkapkan, dan memitigasi kondisi [Penguasaan Sistem](../../core_05_band_continuity.md#system-capture) yang relevan secara material.
+
+Kondisi semacam itu adalah **pemicu eskalasi**, bukan keadaan operasi biasa. Mereka harus ditangani di bawah disiplin tafsir dan bukti **Bab Dua sampai Lima** sebagai berikut:
+
+- **Bab Dua** — terapkan komponen O/M/A/C yang relevan secara bersama pada cakupan sistem fungsional yang sama; pemenuhan parsial atau selektif tidak dihitung.
+- **Bab Tiga** — terapkan disiplin integritas-definisi dan anti-pengelakan; segmentasi, desentralisasi nominal, masking prosedural, atau pelabelan ulang definisional tidak mengalahkan analisis penguasaan.
+- **Bab Empat** — pihak yang menyatakan ketiadaan penguasaan menanggung beban bukti; kepatuhan menuntut bukti yang ditelusuri dan dapat diverifikasi secara independen, diskalakan ke [taruhan material](core_00_preamble.md#material-stake), bukan pernyataan, reputasi, atau struktur formal semata.
+- **Bab Lima** — penuhi kewajiban deteksi, pengungkapan, dan mitigasi [Penguasaan Sistem](../../core_05_band_continuity.md#system-capture) dan kewajiban pencegahan [Anti-Penguasaan](../../core_05_band_continuity.md#anti-capture), dan pulihkan pengawasan dan pertanggungjawaban yang dapat digugat ke tingkat yang dituntut [taruhan material](core_00_preamble.md#material-stake).
+
+**Eskalasi lebih lanjut:** Ketika mitigasi dalam-sistem tidak layak, atau ketika penguasaan bertahan setelah koreksi sepadan, eskalasi harus juga dirute lewat:
+
+- **Kewajiban Tinjauan dan Koreksi:** [Kewajiban Tinjauan dan Koreksi](../../core_05_band_continuity.md#review-and-correction-duty-constitutional).
+- **Tinjauan yang ditingkatkan:** [§13.1 Mekanisme Ambang Konsentrasi Pasar](#131-market-concentration-threshold-mechanism-adopter-tunable) dan [§13.2 Pro-Kompetisi dan Anti-Dominasi](#132-pro-competition-and-anti-domination), di mana konsentrasi atau dominasi bersifat material.
+- **Mekanika jejak dan pelanggaran:** [Bab Delapan — Model Kontribusi, Pelanggaran, dan Jejak](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model), di mana temuan terverifikasi taruhannya.
+- **Pelanggaran anti-konstitusi:** [Bab Sepuluh §5.1 Subversi berbasis konsentrasi: interaksi kriteria](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), di mana konsentrasi atau penguasaan proses merupakan pelanggaran anti-konstitusi.
+
+<a id="114-misalignment-correction-and-capture-response"></a>
+#### 11.4 Koreksi Ketidakselarasan dan Respons Penguasaan
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+
+- Baca bersama: [§11.3 Deteksi Ketidakselarasan](#113-misalignment-detection) (*jalur deteksi jamak dan bawaan audit terbuka*).
+- Baca bersama: [§11.3.1 Pemicu Eskalasi](#1131-escalation-triggers) (*disiplin eskalasi*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Penguasaan Sistem](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [Anti-Penguasaan](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+- [Dapat Digugat](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Pengawasan](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../../core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Pertanggungjawaban](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [Kewajiban Tinjauan dan Koreksi](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: begitu ketidakselarasan atau penguasaan terdeteksi, sistem harus benar-benar memperbaikinya — memodifikasi insentif buruk, membatasi kontrol terkonsentrasi, dan memulihkan keselarasan. Kontrol terkonsentrasi atau tersembunyi yang mengalahkan gugatan, pengawasan, pertanggungjawaban, atau **Kesinambungan** yang tahan harus diungkapkan, dimitigasi, dan dieskalasi — bukan diserap sebagai operasi biasa.*
+
+Di mana ketidakselarasan konstitusional diidentifikasi, sistem harus memodifikasi, membatasi, atau menimpa insentif semacam itu untuk memulihkan keselarasan dan menjaga [**Kesinambungan**](core_00_preamble.md#continuity) di bawah [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims).
+
+Struktur kontrol terkonsentrasi atau dikaburkan yang secara material merusak salah satu dari berikut adalah [**penguasaan sistem**](../../core_05_band_continuity.md#system-capture) dalam makna **Bab Lima** dan tidak kompatibel dengan bab ini:
+
+- [Dapat Digugat](../../core_05_band_accountability.md#contestability);
+- [Pengawasan](../../core_05_apex_oversight_leg.md#oversight-constitutional); atau
+- [Pertanggungjawaban](../../core_05_apex_accountability_leg.md#accountability).
+
+**Bentuk yang dihitung:**
+
+- penjagaan gerbang yang tahan atas antarmuka kritis — kontrol yang berlangsung atas gerbang yang harus dilewati orang lain;
+- hambatan perpindahan yang asimetrik-ketergantungan — ketergantungan sepihak yang membuat pergi atau berpindah mahal atau tidak praktis;
+- jalur kontrol-manfaat yang opas — rute tersembunyi yang lewatnya orang yang benar-benar memiliki, mengarahkan, atau mengambil untung memegang atau menjalankan kontrol itu; dan
+- pengaruh tersembunyi atau dirute secara tidak langsung atas tata kelola, adjudikasi, atau alokasi sumber daya.
+
+**Koreksi imbalan yang tidak selaras:**
+
+- **Kapan:** ketidakselarasan terverifikasi.
+- **Tidak boleh:** memperlakukan imbalan material dari jalur yang tidak selaras atau korup sebagai kredit jejak yang dapat disimpan secara senyap atau manfaat yang dilindungi.
+- **Rumah koreksi:** [Bab Sembilan §5.4 Aturan pelanggaran khusus](../../core_09_standing_integration.md#54-special-violation-rules) mengatur:
+  - perampasan;
+  - clawback sepadan;
+  - pelaporan penerimaan-yang-diketahui; dan
+  - koreksi.
+- **Pengukuran jejak:** Bab ini tidak memutuskan seberapa baik atau buruk kontribusi atau pelanggaran terverifikasi itu. Peringkat itu adalah [Bab Delapan §4 Pertanyaan 2 — seberapa baik atau buruk?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it), memakai [Bab Delapan §4.1 Dimensi masukan-magnitudo kontribusi](../../core_08_standing_assessment.md#41-contribution-magnitude-input-dimensions) dan [§4.2 Dimensi masukan-keparahan pelanggaran](../../core_08_standing_assessment.md#42-violation-severity-input-dimensions).
