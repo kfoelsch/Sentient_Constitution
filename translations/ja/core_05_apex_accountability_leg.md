@@ -12,7 +12,7 @@
 >
 > **前（本言語）：** [core_05__definitions_home.md](core_05__definitions_home.md)
 >
-> **次（なお英語）：** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+> **次（この言語）：** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 > **読みの弧：** O/M/A/C → 脚の分解 → 測定ファミリー。
 
 </details>
@@ -117,6 +117,6 @@
 
 **前のファイル（本言語）：** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**次のファイル（なお英語）：** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**次のファイル（この言語）：** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
 **拘束力ある原文：** [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md)

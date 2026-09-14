@@ -12,7 +12,7 @@
 >
 > **मागील (या भाषेत):** [core_05__definitions_home.md](core_05__definitions_home.md)
 >
-> **पुढील (अजून इंग्रजीत):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+> **पुढील (या भाषेत):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 > **वाचन चाप:** O/M/A/C → पाया विघटन → मापन कुटुंब.
 
 </details>
@@ -117,6 +117,6 @@
 
 **मागील फाइल:** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**पुढील फाइल (अजून इंग्रजीत):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**पुढील फाइल (या भाषेत):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
 **बंधनकारक मूळ:** [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md)

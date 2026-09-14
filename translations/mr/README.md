@@ -32,6 +32,7 @@
 | [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md) | [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md) |
 | [core_05__definitions_home.md](core_05__definitions_home.md) | [core_05__definitions_home.md](../../core_05__definitions_home.md) |
 | [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md) | [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md) |
+| [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) | [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md) |
 
 पायलटच्या दुव्या अजून अननुवादित इंग्रजी फाइलकडे जातात. HTML अँकर (`id`) मूळापासून नकल आहेत, जेणेकरून खंड-खंड तुलना करता येईल.
 

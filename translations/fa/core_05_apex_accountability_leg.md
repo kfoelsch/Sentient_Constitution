@@ -12,7 +12,7 @@
 >
 > **قبلی (این زبان):** [core_05__definitions_home.md](core_05__definitions_home.md)
 >
-> **بعدی (هنوز انگلیسی):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+> **بعدی (این زبان):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 > **قوس خواندن:** O/M/A/C → تجزیهٔ پا → خانوادهٔ اندازه‌گیری.
 
 </details>
@@ -117,6 +117,6 @@
 
 **پروندهٔ قبلی:** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**پروندهٔ بعدی (هنوز انگلیسی):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**پروندهٔ بعدی (این زبان):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
 **اصل الزام‌آور:** [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md)

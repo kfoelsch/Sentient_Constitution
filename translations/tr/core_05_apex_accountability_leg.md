@@ -12,7 +12,7 @@
 >
 > **Önceki (bu dil):** [core_05__definitions_home.md](core_05__definitions_home.md)
 >
-> **Sonraki (hâlâ İngilizce):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+> **Sonraki (bu dilde):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 > **Okuma yayı:** O/M/A/C → bacak ayrıştırması → ölçüm ailesi.
 
 </details>
@@ -117,6 +117,6 @@ Bu ölçüler, ödül yapılarının, piyasa gücünün ve yanıt verebilirliği
 
 **Önceki dosya (bu dil):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**Sonraki dosya (hâlâ İngilizce):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**Sonraki dosya (bu dilde):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
 **Bağlayıcı asıl:** [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md)

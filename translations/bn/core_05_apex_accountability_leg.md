@@ -12,7 +12,7 @@
 >
 > **আগেরটি (এই ভাষায়):** [core_05__definitions_home.md](core_05__definitions_home.md)
 >
-> **পরেরটি (এখনও ইংরেজিতে):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+> **পরেরটি (এই ভাষায়):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 > **পড়ার আর্ক:** O/M/A/C → পার বিভাজন → পরিমাপ পরিবার।
 
 </details>
@@ -117,6 +117,6 @@
 
 **আগের ফাইল:** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**পরের ফাইল (এখনও ইংরেজিতে):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**পরের ফাইল (এই ভাষায়):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
 **বাধ্যতামূলক মূল:** [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md)

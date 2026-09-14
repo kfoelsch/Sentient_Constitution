@@ -12,7 +12,7 @@
 >
 > **Précédent (cette langue) :** [core_05__definitions_home.md](core_05__definitions_home.md)
 >
-> **Suivant (encore en anglais) :** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+> **Suivant (cette langue) :** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 > **Arc de lecture :** O/M/A/C → décomposition de la jambe → famille de mesure.
 
 </details>
@@ -117,6 +117,6 @@ Les paliers opératoires de mesure vivent dans les foyers de définition du Chap
 
 **Fichier précédent :** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**Fichier suivant (encore en anglais) :** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**Fichier suivant (cette langue) :** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
 **Original contraignant :** [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md)

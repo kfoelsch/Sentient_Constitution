@@ -12,7 +12,7 @@
 >
 > **پچھلا (اس زبان میں):** [core_05__definitions_home.md](core_05__definitions_home.md)
 >
-> **اگلا (ابھی انگریزی میں):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+> **اگلا (اس زبان میں):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 > **پڑھنے کا قوس:** O/M/A/C → ٹانگ کی تحلیل → پیمائش خاندان۔
 
 </details>
@@ -117,6 +117,6 @@
 
 **پچھلی فائل (اس زبان میں):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**اگلی فائل (ابھی انگریزی میں):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**اگلی فائل (اس زبان میں):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
 **پابند اصل:** [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md)

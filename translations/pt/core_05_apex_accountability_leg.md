@@ -12,7 +12,7 @@
 >
 > **Anterior (este idioma):** [core_05__definitions_home.md](core_05__definitions_home.md)
 >
-> **Próximo (ainda em inglês):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+> **Próximo (este idioma):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 > **Arco de leitura:** O/M/A/C → decomposição da perna → família de medição.
 
 </details>
@@ -117,6 +117,6 @@ Os níveis operativos de medição vivem nos lares de definição do Capítulo C
 
 **Arquivo anterior:** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**Próximo arquivo (ainda em inglês):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**Próximo arquivo (este idioma):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
 **Original vinculante:** [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md)

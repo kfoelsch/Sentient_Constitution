@@ -12,7 +12,7 @@
 >
 > **Trước (ngôn ngữ này):** [core_05__definitions_home.md](core_05__definitions_home.md)
 >
-> **Tiếp theo (vẫn tiếng Anh):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+> **Tiếp theo (ngôn ngữ này):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 > **Cung đọc:** O/M/A/C → phân rã trụ → gia đình đo lường.
 
 </details>
@@ -117,6 +117,6 @@ Bậc đo lường vận hành sống ở các nhà định nghĩa Chương Năm
 
 **Tệp trước:** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**Tệp tiếp theo (vẫn tiếng Anh):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**Tệp tiếp theo (ngôn ngữ này):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
 **Nguyên bản ràng buộc:** [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md)

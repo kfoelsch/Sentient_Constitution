@@ -12,7 +12,7 @@
 >
 > **ก่อนหน้า (ภาษานี้):** [core_05__definitions_home.md](core_05__definitions_home.md)
 >
-> **ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+> **ถัดไป (ภาษานี้):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 > **ส่วนโค้งการอ่าน:** O/M/A/C → การแยกขา → ตระกูลการวัด
 
 </details>
@@ -117,6 +117,6 @@
 
 **ไฟล์ก่อนหน้า (ภาษานี้):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**ไฟล์ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**ไฟล์ถัดไป (ภาษานี้):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
 **ต้นฉบับที่มีผลผูกพัน:** [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md)

@@ -12,7 +12,7 @@
 >
 > **Anterior (este idioma):** [core_05__definitions_home.md](core_05__definitions_home.md)
 >
-> **Siguiente (aún en inglés):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+> **Siguiente (este idioma):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 > **Arco de lectura:** O/M/A/C → descomposición de la pata → familia de medición.
 
 </details>
@@ -117,6 +117,6 @@ Los niveles operativos de medición viven en los hogares de definición del Cap�
 
 **Archivo anterior:** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**Siguiente archivo (aún en inglés):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**Siguiente archivo (este idioma):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
 **Original vinculante:** [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md)

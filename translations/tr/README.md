@@ -32,6 +32,7 @@
 | [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md) | [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md) |
 | [core_05__definitions_home.md](core_05__definitions_home.md) | [core_05__definitions_home.md](../../core_05__definitions_home.md) |
 | [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md) | [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md) |
+| [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) | [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md) |
 
 Pilot bağlantıları henüz çevrilmemiş İngilizce dosyalara gider. HTML çıpaları (`id`) asıldan kopyalanır; böylece kesit kesit karşılaştırılabilir.
 

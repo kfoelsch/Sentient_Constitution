@@ -156,7 +156,7 @@
 - [争訟可能性](../../core_05_band_accountability.md#contestability)
 - [争われた感知者の生命](../../core_05_band_participation.md#contested-sentient-life-constitutional)
 - [偶発的請求](../../core_05_band_accountability.md#contingent-claim)
-- [継続（憲法上の目的）](../../core_05_apex_continuity_aim.md#continuity-aim-constitutional)
+- [継続（憲法上の目的）](core_05_apex_continuity_aim.md#continuity-aim-constitutional)
 - [貢献の性質](../../core_05_band_accountability.md#contribution-nature)
 - [コーパス](../../core_05_band_integrative.md#corpus)
 - [創造的著作の帰属](../../core_05_band_continuity.md#creative-work-attribution-constitutional)
@@ -388,7 +388,7 @@
 | 帯 | ファイル | **Def.** クラスター範囲 |
 |---|---|---|
 | **繁栄目的** | [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md) | 目的階層地図のみ — 葉定義は帯ファイルに |
-| **継続目的** | [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md) | 目的階層地図のみ — 葉定義は帯ファイルに |
+| **継続目的** | [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) | 目的階層地図のみ — 葉定義は帯ファイルに |
 | **監督脚** | [core_05_band_oversight.md](../../core_05_band_oversight.md) | **Def.O1–Def.O2** |
 | **参加脚** | [core_05_band_participation.md](../../core_05_band_participation.md) | **Def.P1–Def.P4** |
 | **説明責任脚** | [core_05_band_accountability.md](../../core_05_band_accountability.md) | **Def.A1–Def.A4** |
@@ -416,7 +416,7 @@
 | Ch00 のカテゴリ | 平たい問い | 第五章の帯の本拠 | 分割配置の注 |
 |---|---|---|---|
 | [繁栄の測定ファミリー](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family) | 感知者は生命、安全、必須へのアクセスにおいて支えられているか。 | [繁栄目的](../../core_05_apex_flourishing_aim.md)、[参加](../../core_05_band_participation.md)、[継続](../../core_05_band_continuity.md)、[説明責任](../../core_05_band_accountability.md) | **繁栄**は憲法上の**目的**であり、四元の脚ではない — [憲法上の目的の分解地図](../../core_05_apex_flourishing_aim.md#flourishing-aim-decomposition)；具体的測定は葉の第一次に：[福祉](../../core_05_band_continuity.md#wellbeing)（第一次の成果）、[安全（制約）](../../core_05_band_continuity.md#safety-constraint)、生存の床の用語、[危害](../../core_05_band_accountability.md#harm) |
-| [継続の測定ファミリー](../../core_05_apex_continuity_aim.md#continuity-measurement-family) | 感知者とシステムは持ちこたえられるか — 生態的に、信頼でき、失敗を横断して。 | [継続目的](../../core_05_apex_continuity_aim.md)、[継続](../../core_05_band_continuity.md) | **継続**は憲法上の**目的**であり、四元の脚ではない — [憲法上の目的の分解地図](../../core_05_apex_continuity_aim.md#continuity-aim-decomposition)；具体的測定は**継続**帯の葉の第一次に：[生態的足跡](../../core_05_band_continuity.md#ecological-footprint)、[依存](../../core_05_band_continuity.md#dependency)、[可逆性](../../core_05_band_continuity.md#reversibility-constitutional)、[持続可能性](../../core_05_band_continuity.md#sustainability)、[比例的なシステム横断貢献](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
+| [継続の測定ファミリー](core_05_apex_continuity_aim.md#continuity-measurement-family) | 感知者とシステムは持ちこたえられるか — 生態的に、信頼でき、失敗を横断して。 | [継続目的](core_05_apex_continuity_aim.md)、[継続](../../core_05_band_continuity.md) | **継続**は憲法上の**目的**であり、四元の脚ではない — [憲法上の目的の分解地図](core_05_apex_continuity_aim.md#continuity-aim-decomposition)；具体的測定は**継続**帯の葉の第一次に：[生態的足跡](../../core_05_band_continuity.md#ecological-footprint)、[依存](../../core_05_band_continuity.md#dependency)、[可逆性](../../core_05_band_continuity.md#reversibility-constitutional)、[持続可能性](../../core_05_band_continuity.md#sustainability)、[比例的なシステム横断貢献](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | [参加の測定ファミリー](../../core_05_apex_participation_leg.md#participation-measurement-family) | 影響を受ける感知者は公正に参加できるか — 声、アクセス、学習、プライバシー。 | [参加](../../core_05_band_participation.md)、[継続](../../core_05_band_continuity.md) | 公正、アクセス、行為主体性の用語は**参加**帯に；[プライバシー（情報的）](../../core_05_band_continuity.md#privacy-informational-cluster) クラスターは**継続**帯に。プライバシーが権利の条を横断して配分されるからである |
 | [監督の測定ファミリー](../../core_05_apex_oversight_leg.md#oversight-measurement-family) | 感知者は、システムが表すものを見、検証し、依拠できるか。 | [監督](../../core_05_band_oversight.md)、[継続](../../core_05_band_continuity.md) | 真理と認識的誠実性の第一次は**監督**帯に（リンクのみの脚頭ロールアップ [監督](../../core_05_apex_oversight_leg.md#oversight-constitutional)）；[信頼可能性](../../core_05_band_continuity.md#trustworthiness) および [信頼の劣化と誤導的依拠](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) は**継続**帯に（**Def.C4**） |
 | [説明責任の測定ファミリー](core_05_apex_accountability_leg.md#accountability-measurement-family) | 報酬構造、市場権力、応答義務は、義務を本物に保つか。 | [説明責任](../../core_05_band_accountability.md)、[統合](../../core_05_band_integrative.md) | 市場構造と争訟可能性の第一次は**説明責任**帯に（リンクのみの脚頭ロールアップ [説明責任](core_05_apex_accountability_leg.md#accountability)）；第一次の層 [誘因整合、代替指標の誠実性、偶発的決済](../../core_05_band_integrative.md#incentive-alignment-semi-independent) は**統合**帯に。誘因が四元の脚を横断するからである |

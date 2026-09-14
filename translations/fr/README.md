@@ -32,6 +32,7 @@
 | [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md) | [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md) |
 | [core_05__definitions_home.md](core_05__definitions_home.md) | [core_05__definitions_home.md](../../core_05__definitions_home.md) |
 | [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md) | [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md) |
+| [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) | [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md) |
 
 Les liens du pilote pointent vers des fichiers anglais encore non traduits. Les ancres HTML (`id`) sont copiées de la source pour comparer tronçon par tronçon.
 

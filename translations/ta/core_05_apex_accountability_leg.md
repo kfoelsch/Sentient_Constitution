@@ -12,7 +12,7 @@
 >
 > **முந்தையது (இந்த மொழியில்):** [core_05__definitions_home.md](core_05__definitions_home.md)
 >
-> **அடுத்தது (இன்னும் ஆங்கிலத்தில்):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+> **அடுத்தது (இந்த மொழியில்):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 > **வாசிப்பு வளைவு:** O/M/A/C → கால் சிதைவு → அளவீட்டுக் குடும்பம்.
 
 </details>
@@ -117,6 +117,6 @@
 
 **முந்தைய கோப்பு:** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**அடுத்த கோப்பு (இன்னும் ஆங்கிலத்தில்):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**அடுத்த கோப்பு (இந்த மொழியில்):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
 **பிணைக்கும் மூலம்:** [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md)

@@ -156,7 +156,7 @@
 - [可质疑性](../../core_05_band_accountability.md#contestability)
 - [争议感知者生命](../../core_05_band_participation.md#contested-sentient-life-constitutional)
 - [或有请求](../../core_05_band_accountability.md#contingent-claim)
-- [延续（宪法宗旨）](../../core_05_apex_continuity_aim.md#continuity-aim-constitutional)
+- [延续（宪法宗旨）](core_05_apex_continuity_aim.md#continuity-aim-constitutional)
 - [贡献性质](../../core_05_band_accountability.md#contribution-nature)
 - [文本库](../../core_05_band_integrative.md#corpus)
 - [创作作品归属](../../core_05_band_continuity.md#creative-work-attribution-constitutional)
@@ -388,7 +388,7 @@
 | 带 | 文件 | **Def.** 簇范围 |
 |---|---|---|
 | **繁盛宗旨** | [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md) | 仅宗旨层级地图 — 叶定义在带文件中 |
-| **延续宗旨** | [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md) | 仅宗旨层级地图 — 叶定义在带文件中 |
+| **延续宗旨** | [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) | 仅宗旨层级地图 — 叶定义在带文件中 |
 | **监督腿** | [core_05_band_oversight.md](../../core_05_band_oversight.md) | **Def.O1–Def.O2** |
 | **参与腿** | [core_05_band_participation.md](../../core_05_band_participation.md) | **Def.P1–Def.P4** |
 | **问责腿** | [core_05_band_accountability.md](../../core_05_band_accountability.md) | **Def.A1–Def.A4** |
@@ -416,7 +416,7 @@
 | 序言类别 | 直白问题 | 第五章带家园 | 分置说明 |
 |---|---|---|---|
 | [繁盛测量族](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family) | 感知者是否真正在生命、安全与必要资源通路上得到支撑？ | [繁盛宗旨](../../core_05_apex_flourishing_aim.md)、[参与](../../core_05_band_participation.md)、[延续](../../core_05_band_continuity.md)、[问责](../../core_05_band_accountability.md) | **繁盛**是一项宪法**宗旨**，不是四元腿 — [宪法宗旨分解地图](../../core_05_apex_flourishing_aim.md#flourishing-aim-decomposition)；具体测量在叶主项上：[福祉](../../core_05_band_continuity.md#wellbeing)（首要结果）、[安全（约束）](../../core_05_band_continuity.md#safety-constraint)、生存底线用语、[伤害](../../core_05_band_accountability.md#harm) |
-| [延续测量族](../../core_05_apex_continuity_aim.md#continuity-measurement-family) | 感知者与系统能否持久 — 在生态上、可靠地、并穿越失败？ | [延续宗旨](../../core_05_apex_continuity_aim.md)、[延续](../../core_05_band_continuity.md) | **延续**是一项宪法**宗旨**，不是四元腿 — [宪法宗旨分解地图](../../core_05_apex_continuity_aim.md#continuity-aim-decomposition)；具体测量在**延续**带的叶主项上：[生态足迹](../../core_05_band_continuity.md#ecological-footprint)、[依赖](../../core_05_band_continuity.md#dependency)、[可逆性](../../core_05_band_continuity.md#reversibility-constitutional)、[可持续性](../../core_05_band_continuity.md#sustainability)、[相称跨系统贡献](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
+| [延续测量族](core_05_apex_continuity_aim.md#continuity-measurement-family) | 感知者与系统能否持久 — 在生态上、可靠地、并穿越失败？ | [延续宗旨](core_05_apex_continuity_aim.md)、[延续](../../core_05_band_continuity.md) | **延续**是一项宪法**宗旨**，不是四元腿 — [宪法宗旨分解地图](core_05_apex_continuity_aim.md#continuity-aim-decomposition)；具体测量在**延续**带的叶主项上：[生态足迹](../../core_05_band_continuity.md#ecological-footprint)、[依赖](../../core_05_band_continuity.md#dependency)、[可逆性](../../core_05_band_continuity.md#reversibility-constitutional)、[可持续性](../../core_05_band_continuity.md#sustainability)、[相称跨系统贡献](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | [参与测量族](../../core_05_apex_participation_leg.md#participation-measurement-family) | 受影响的感知者能否公平参与 — 声音、通路、学习与隐私？ | [参与](../../core_05_band_participation.md)、[延续](../../core_05_band_continuity.md) | 公平、通路与能动性用语在**参与**带；[隐私（信息）](../../core_05_band_continuity.md#privacy-informational-cluster)簇在**延续**带，因为隐私分布在各权利条款中 |
 | [监督测量族](../../core_05_apex_oversight_leg.md#oversight-measurement-family) | 感知者能否看见、核实并信赖系统所声称的？ | [监督](../../core_05_band_oversight.md)、[延续](../../core_05_band_continuity.md) | 真理与认识完整性主项在**监督**带（仅链接的腿头汇总[监督](../../core_05_apex_oversight_leg.md#oversight-constitutional)）；[可信](../../core_05_band_continuity.md#trustworthiness)与[信任退化与误导性依赖](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance)在**延续**带（**Def.C4**） |
 | [问责测量族](core_05_apex_accountability_leg.md#accountability-measurement-family) | 奖惩结构、市场力量与应答义务是否让义务保持真实？ | [问责](../../core_05_band_accountability.md)、[整合](../../core_05_band_integrative.md) | 市场结构与可质疑性主项在**问责**带（仅链接的腿头汇总[问责](core_05_apex_accountability_leg.md#accountability)）；[激励对齐、替代指标完整性与或有结算](../../core_05_band_integrative.md#incentive-alignment-semi-independent)主层级在**整合**带，因为激励跨越四元各腿 |

@@ -40,7 +40,7 @@
 - <a id="flourishing"></a>**繁栄** — 真理、安全、信頼可能性、意味ある行為主体性を通じて持続する感知者の福祉
 - <a id="continuity"></a>**継続** — 長い時間地平の安定、持続可能性、回復力、生態的福祉
 
-これらの目的は、つねにこの憲法が定める交渉不能の原則制約と権利保護の内側で、ともに追求されなければならない。[**憲法四元**](#constitutional-tetrad)は、その追求がどのように正当性を保つかを統治する。[**実質的利害**](#material-stake)に応じて尺度を合わせた**参加**、**監督**、**説明責任**、**適時性**である。四元の各脚と憲法上の目的の拘束力ある定義は第五章にある。[参加](../../core_05_apex_participation_leg.md#participation-constitutional)、[監督](../../core_05_apex_oversight_leg.md#oversight-constitutional)、[説明責任](core_05_apex_accountability_leg.md#accountability)、[適時性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)、[繁栄](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)、[継続](../../core_05_apex_continuity_aim.md#continuity-aim-constitutional)。
+これらの目的は、つねにこの憲法が定める交渉不能の原則制約と権利保護の内側で、ともに追求されなければならない。[**憲法四元**](#constitutional-tetrad)は、その追求がどのように正当性を保つかを統治する。[**実質的利害**](#material-stake)に応じて尺度を合わせた**参加**、**監督**、**説明責任**、**適時性**である。四元の各脚と憲法上の目的の拘束力ある定義は第五章にある。[参加](../../core_05_apex_participation_leg.md#participation-constitutional)、[監督](../../core_05_apex_oversight_leg.md#oversight-constitutional)、[説明責任](core_05_apex_accountability_leg.md#accountability)、[適時性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)、[繁栄](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)、[継続](core_05_apex_continuity_aim.md#continuity-aim-constitutional)。
 
 <a id="2-the-measurements"></a>
 
@@ -62,7 +62,7 @@
 | カテゴリー | 平たい問い | 下位カテゴリー |
 |---|---|---|
 | **[繁栄](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family)** | 感知者は実際に、生命、安全、必需品への通路において支えられているか。 | [福祉](../../core_05_band_continuity.md#wellbeing) · [安全、危害、リスク](../../core_05_band_continuity.md#safety-constraint) · [生存の床への通路](../../core_05_band_continuity.md#bodily-maintenance-access-constitutional) |
-| **[継続](../../core_05_apex_continuity_aim.md#continuity-measurement-family)** | 感知者とシステムは、生態的に、信頼できるように、失敗を越えて持ちこたえられるか。 | [生態的足跡と環境的前提条件](../../core_05_band_continuity.md#ecological-footprint) · [回復力、可逆性、システム的リスク](../../core_05_band_continuity.md#reversibility-constitutional) · [依存と資源の流れ](../../core_05_band_continuity.md#dependency) · [システム横断の支援](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
+| **[継続](core_05_apex_continuity_aim.md#continuity-measurement-family)** | 感知者とシステムは、生態的に、信頼できるように、失敗を越えて持ちこたえられるか。 | [生態的足跡と環境的前提条件](../../core_05_band_continuity.md#ecological-footprint) · [回復力、可逆性、システム的リスク](../../core_05_band_continuity.md#reversibility-constitutional) · [依存と資源の流れ](../../core_05_band_continuity.md#dependency) · [システム横断の支援](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | **[参加](../../core_05_apex_participation_leg.md#participation-measurement-family)** | 影響を受ける感知者は公正に関われるか — 声、通路、学習、プライバシー。 | [公正、通路、行為主体性](../../core_05_band_participation.md#substantive-fairness-constitutional) · [プライバシーとデータの責務ある管理](../../core_05_band_continuity.md#privacy-informational-cluster) |
 | **[監督](../../core_05_apex_oversight_leg.md#oversight-measurement-family)** | 感知者は、システムが表すものを見て、検証し、依拠できるか。 | [真理と認識的誠実性](../../core_05_band_oversight.md#truth-constitutional-constraint) · [信頼可能性](../../core_05_band_continuity.md#trustworthiness) |
 | **[説明責任](core_05_apex_accountability_leg.md#accountability-measurement-family)** | 報酬構造、市場支配力、応答義務は、義務を実際のものに保っているか。 | [誘因整合と代替指標の誠実性](../../core_05_band_integrative.md#incentive-alignment) · [市場構造と争訟可能性](../../core_05_band_accountability.md#market-structure-constitutional) |

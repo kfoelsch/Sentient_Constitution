@@ -12,7 +12,7 @@
 >
 > **上一篇（本语种）：** [core_05__definitions_home.md](core_05__definitions_home.md)
 >
-> **下一篇（仍为英语）：** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+> **下一篇（本语言）：** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 > **阅读弧线：** O/M/A/C → 腿分解 → 测量族。
 
 </details>
@@ -117,6 +117,6 @@
 
 **上一文件：** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**下一文件（仍为英语）：** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**下一文件（本语言）：** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
 **有约束力的原文：** [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md)

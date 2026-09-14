@@ -12,7 +12,7 @@
 >
 > **Предыдущий (этот язык):** [core_05__definitions_home.md](core_05__definitions_home.md)
 >
-> **Следующий (ещё на английском):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+> **Следующий (на этом языке):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 > **Дуга чтения:** O/M/A/C → декомпозиция ноги → семья измерений.
 
 </details>
@@ -117,6 +117,6 @@
 
 **Предыдущий файл:** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**Следующий файл (ещё на английском):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**Следующий файл (на этом языке):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
 **Связывающий оригинал:** [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md)

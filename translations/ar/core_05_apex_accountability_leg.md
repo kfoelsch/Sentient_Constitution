@@ -12,7 +12,7 @@
 >
 > **السابق (هذه اللغة):** [core_05__definitions_home.md](core_05__definitions_home.md)
 >
-> **التالي (ما زال بالإنجليزية):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+> **التالي (هذه اللغة):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 > **قوس القراءة:** O/M/A/C → تفكيك الرجل → أسرة القياس.
 
 </details>
@@ -117,6 +117,6 @@
 
 **الملف السابق (هذه اللغة):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**الملف التالي (ما زال بالإنجليزية):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**الملف التالي (هذه اللغة):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
 **الأصل الملزم:** [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md)

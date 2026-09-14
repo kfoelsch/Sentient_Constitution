@@ -12,7 +12,7 @@
 >
 > **మునుపటి (ఈ భాషలో):** [core_05__definitions_home.md](core_05__definitions_home.md)
 >
-> **తదుపరి (ఇంకా ఆంగ్లంలో):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+> **తదుపరి (ఈ భాషలో):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 > **చదివే చాపం:** O/M/A/C → కాలు విభజన → కొలత కుటుంబం.
 
 </details>
@@ -117,6 +117,6 @@
 
 **మునుపటి ఫైల్ (ఈ భాషలో):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**తదుపరి ఫైల్ (ఇంకా ఆంగ్లంలో):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**తదుపరి ఫైల్ (ఈ భాషలో):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
 **బంధనీయ మూలం:** [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md)

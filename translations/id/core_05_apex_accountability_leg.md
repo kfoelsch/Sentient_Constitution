@@ -12,7 +12,7 @@
 >
 > **Sebelumnya (lokal ini):** [core_05__definitions_home.md](core_05__definitions_home.md)
 >
-> **Berikutnya (masih bahasa Inggris):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+> **Berikutnya (bahasa ini):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 > **Alur baca:** O/M/A/C → dekomposisi kaki → keluarga pengukuran.
 
 </details>
@@ -117,6 +117,6 @@ Tingkatan pengukuran operatif hidup pada rumah definisi Bab Lima:
 
 **Berkas sebelumnya:** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**Berkas berikutnya (masih bahasa Inggris):** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**Berkas berikutnya (bahasa ini):** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
 
 **Sumber mengikat:** [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md)
