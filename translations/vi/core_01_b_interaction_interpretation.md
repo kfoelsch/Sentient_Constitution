@@ -799,7 +799,7 @@ Khi các quy tắc dưới đây nói **chặt nhất** hoặc **chặt hơn**, 
 
 Quy tắc thỏa kết hợp của tiểu mục này là về **hơn một tệp hướng dẫn** áp dụng cho cùng sự kiện. Nó không giống:
 - quy tắc cho một cụm vận hành **đơn** trong văn bản cấu trúc chung đã hợp nhất, nơi chỉ làm một phần cụm đó không được tính là tuân thủ — xem **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*Cụm vận hành*); hoặc
-- quy tắc Chương Năm rằng định nghĩa **Cụm phụ thuộc** phải được thỏa cùng nhau — xem **[Viện chung và thỏa](../../core_05__definitions_home.md#joint-invocation-and-satisfaction)**.
+- quy tắc Chương Năm rằng định nghĩa **Cụm phụ thuộc** phải được thỏa cùng nhau — xem **[Viện chung và thỏa](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
 **Khi tiểu mục này áp dụng.** Các quy tắc này áp dụng trong phạm vi tiếp nhận và hợp nhất hợp lệ dưới **[Chương Mười Sáu](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** ở một trong các trường hợp này:
 

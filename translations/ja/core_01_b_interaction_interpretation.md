@@ -799,7 +799,7 @@
 
 本分節の併合充足規則は、同一事実に**複数の手順ファイル**が適用されることについてである。次と同じではない：
 - 編入された共同構造本文における**単一**の運用クラスターの規則。そのクラスターの一部だけをすることは遵守として数えない — **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)**（《運用クラスター》）を見よ
-- **依存クラスター**定義がともに満たされなければならないという第五章の規則 — **[共同呼び出しと充足](../../core_05__definitions_home.md#joint-invocation-and-satisfaction)** を見よ
+- **依存クラスター**定義がともに満たされなければならないという第五章の規則 — **[共同呼び出しと充足](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)** を見よ
 
 **本分節がいつ適用されるか。** これらの規則は、**[第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** のもとでの有効な採択と編入の範囲の内側で、次のいずれかの場合に適用される：
 

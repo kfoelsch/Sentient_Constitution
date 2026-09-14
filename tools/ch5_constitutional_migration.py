@@ -792,7 +792,7 @@ def build_compass_section() -> str:
 
 - Upstream: [Constitutional Triad](../core_00_preamble.md#constitutional-triad); [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims); [material stake](../core_00_preamble.md#material-stake).
 - Downstream: constitutional orientation for all Chapter Five band definitions and ?3 dependent clusters.
-- Read with: [?3.0.1 Joint invocation](#joint-invocation-and-satisfaction) and [?3.0.2 Standalone interaction](#standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
+- Read with: [?3.0.1 Joint invocation](#21-joint-invocation-and-satisfaction) and [?3.0.2 Standalone interaction](#22-standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
 
 </details>
 
@@ -826,8 +826,8 @@ PART_A_ANCHORS = {
     "independent-definitions-a-z",
     "definitions-a-z-unified",
     "all-definitions-and-clusters-a-z",
-    "joint-invocation-and-satisfaction",
-    "standalone-definitions-interaction-and-full-context",
+    "21-joint-invocation-and-satisfaction",
+    "22-standalone-definitions-interaction-and-full-context",
     "section-3-dependent-clusters-clustered-definitions",
     "section-2-semi-independent-definitions",
     "1-interdependent-definitions",

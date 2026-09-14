@@ -3749,7 +3749,7 @@ See **Joint invocation and satisfaction**.
 **Dependent cluster context** (joint invocation under admission scope):
 
 - **Admission scope:** privacy matters that materially implicate more than one article-level locus in the members list, or where informational handling, internal-state protection, or surveillance-boundary analysis is materially interdependent. Outside that scope, individual definitions may operate alone.
-- **Scope:** where admission scope is met, the canonical O/M/A/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles under [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+- **Scope:** where admission scope is met, the canonical O/M/A/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles under [§2.1 Joint invocation and satisfaction](core_05__definitions_home.md#21-joint-invocation-and-satisfaction).
 - **Operational alignment:** data handling must align with **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, including Type N protections for internal-state data and proportional safeguards for all CS-2 data types.
 - **Anti-bypass:** privacy matters within admission scope must not be segmented across articles or definitions to satisfy one article's standard while evading another's materially implicated discipline, or to isolate privacy analysis from internal-state-boundary or surveillance-boundary assessment where those protections materially intersect. Anti-read-across for standard-setting remains as stated under **Def.C3**.
 
@@ -4179,7 +4179,7 @@ See **Joint invocation and satisfaction**.
 <a id="trust-degradation-and-misleading-reliance-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - cherry-picking one member definition to bypass another within admission scope ([Chapter Five joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction); Chapter Three §§1–2); and
+    - cherry-picking one member definition to bypass another within admission scope ([Chapter Five §2.1 Joint invocation and satisfaction](core_05__definitions_home.md#21-joint-invocation-and-satisfaction); Chapter Three §§1–2); and
     - isolated formal compliance with disclosure or audit artifacts that defeats substantively informed understanding, independent verification, or effective challenge.
   - **Secondary failure:** looking compliant in one implementation file while related duties that the same trust claim depends on remain unmet in another — see [Chapter One §8.4.4](core_01_b_interaction_interpretation.md#844-combined-satisfaction) (*Combined satisfaction of jointly applicable incorporated obligations*) and [CJS-2.3](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-23-cross-implementation-trust-integrity-joint-operation-model) (*Cross-implementation trust integrity*).
   - **Tertiary failure:**

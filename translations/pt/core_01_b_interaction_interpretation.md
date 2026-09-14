@@ -800,7 +800,7 @@ Quando as regras abaixo dizem **mais estrito** ou **mais rigoroso**, essas palav
 
 A regra de satisfação combinada desta subseção é sobre **mais de um arquivo de como-fazer** aplicando-se aos mesmos fatos. Não é o mesmo que:
 - a regra de um aglomerado operacional **único** em texto incorporado de estrutura conjunta, onde fazer só parte daquele aglomerado não conta como conformidade — veja **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*Aglomerados operacionais*); ou
-- a regra do Capítulo Cinco de que definições de **aglomerado dependente** devem ser satisfeitas juntas — veja **[Invocação conjunta e satisfação](../../core_05__definitions_home.md#joint-invocation-and-satisfaction)**.
+- a regra do Capítulo Cinco de que definições de **aglomerado dependente** devem ser satisfeitas juntas — veja **[Invocação conjunta e satisfação](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
 **Quando esta subseção se aplica.** Estas regras aplicam-se dentro do alcance válido de adoção e incorporação sob o **[Capítulo Dezesseis](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** em qualquer um destes casos:
 

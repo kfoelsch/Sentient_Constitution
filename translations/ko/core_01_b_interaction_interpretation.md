@@ -799,7 +799,7 @@
 
 이 하위절의 결합 충족 규칙은 **둘 이상의 어떻게-하기 파일**이 같은 사실에 적용되는 것에 관한 것이다. 다음과는 같지 않다:
 - 끌어들인 공동 구조 텍스트의 **단일** 운영 무리 규칙 — 그 무리의 일부만 하는 것은 준수로 세지 않는다 — **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*운영 무리*)를 보라; 또는
-- **의존 무리** 정의는 함께 충족되어야 한다는 제5장 규칙 — **[공동 호출과 충족](../../core_05__definitions_home.md#joint-invocation-and-satisfaction)**을 보라.
+- **의존 무리** 정의는 함께 충족되어야 한다는 제5장 규칙 — **[공동 호출과 충족](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**을 보라.
 
 **이 하위절이 적용되는 때.** 이 규칙은 **[제16장](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** 아래 유효한 채택과 끌어들임 범위 안에서, 다음 중 어느 경우에든 적용된다:
 

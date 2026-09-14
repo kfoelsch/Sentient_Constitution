@@ -2978,7 +2978,7 @@ See **Joint invocation and satisfaction**.
     - [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional);
     - [Dependency](core_05_band_continuity.md#dependency);
     - [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary); and
-    - segmentation across speech, platform, curricular, or governance domains that defeats joint assessment under [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+    - segmentation across speech, platform, curricular, or governance domains that defeats joint assessment under [§2.1 Joint invocation and satisfaction](core_05__definitions_home.md#21-joint-invocation-and-satisfaction).
 - **What must hold**
   - **Primary failure:** Framings that, when materially implicated:
     - preserve nominal choice while defeating informed refusal, proportional participation, or reviewability; or

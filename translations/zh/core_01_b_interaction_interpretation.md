@@ -799,7 +799,7 @@
 
 本分节的合并满足规则，是关于**不止一份操作办法文件**适用于同一事实。它不同于：
 - 纳入的联合结构文本中**单一**操作簇的规则 — 只做该簇的一部分并不算遵从 — 见 **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)**（《操作簇》）；或
-- 第五章规则：**依赖簇**定义必须一并满足 — 见 **[联合调用与满足](../../core_05__definitions_home.md#joint-invocation-and-satisfaction)**。
+- 第五章规则：**依赖簇**定义必须一并满足 — 见 **[联合调用与满足](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**。
 
 **本分节何时适用。** 这些规则在 **[第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** 下的有效采纳与纳入范围之内，于下列任一情形适用：
 

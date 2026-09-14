@@ -799,7 +799,7 @@ Cuando las reglas de abajo digan **más estricto** o **más estricta**, esas pal
 
 La regla de satisfacción combinada de esta subsección trata de que **más de un archivo de cómo-hacer** se aplique a los mismos hechos. No es lo mismo que:
 - la regla de un clúster operativo **único** en el texto de estructura conjunta incorporado, donde hacer solo una parte de ese clúster no cuenta como cumplimiento — véase **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*Clústeres operativos*); o
-- la regla del Capítulo Cinco de que las definiciones de **Clúster dependiente** deben satisfacerse juntas — véase **[Invocación conjunta y satisfacción](../../core_05__definitions_home.md#joint-invocation-and-satisfaction)**.
+- la regla del Capítulo Cinco de que las definiciones de **Clúster dependiente** deben satisfacerse juntas — véase **[Invocación conjunta y satisfacción](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
 **Cuándo se aplica esta subsección.** Estas reglas se aplican dentro del alcance válido de adopción e incorporación bajo el **[Capítulo Dieciséis](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** en cualquiera de estos casos:
 

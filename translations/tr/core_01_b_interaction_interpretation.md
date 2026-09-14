@@ -799,7 +799,7 @@ Aşağıdaki kurallar **en sıkı** ya da **daha sıkı** dediğinde, o sözcük
 
 Bu alt bölümün birleşik-karşılama kuralı **birden çok nasıl-yapılır dosyasının** aynı olgulara uygulanması hakkındadır. Şununla aynı değildir:
 - içerilmiş ortak-yapı metninde **tek** bir işlemsel küme kuralı, o kümenin yalnızca bir kısmını yapmak uyum sayılmaz — bkz. **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*İşlemsel kümeler*); ya da
-- **Bağımlı küme** tanımlarının birlikte karşılanması gerektiğine dair Beşinci Bölüm kuralı — bkz. **[Ortak çağrı ve karşılama](../../core_05__definitions_home.md#joint-invocation-and-satisfaction)**.
+- **Bağımlı küme** tanımlarının birlikte karşılanması gerektiğine dair Beşinci Bölüm kuralı — bkz. **[Ortak çağrı ve karşılama](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
 **Bu alt bölüm ne zaman uygulanır.** Bu kurallar **[On Altıncı Bölüm](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** altında geçerli benimseme ve içerme kapsamında şu durumlardan herhangi birinde uygulanır:
 

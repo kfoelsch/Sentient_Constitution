@@ -798,7 +798,7 @@ Ketika aturan di bawah mengatakan **paling ketat** atau **lebih ketat**, kata-ka
 
 Aturan pemenuhan-gabungan subbagian ini adalah tentang **lebih dari satu berkas petunjuk** yang berlaku pada fakta yang sama. Ia tidak sama dengan:
 - aturan untuk **satu** klaster operasional dalam teks struktur-bersama terinkorporasi, di mana mengerjakan hanya sebagian klaster itu tidak dihitung sebagai kepatuhan — lihat **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*Klaster operasional*); atau
-- aturan Bab Lima bahwa definisi **Klaster dependen** harus dipenuhi bersama — lihat **[Pemanggilan dan pemenuhan bersama](../../core_05__definitions_home.md#joint-invocation-and-satisfaction)**.
+- aturan Bab Lima bahwa definisi **Klaster dependen** harus dipenuhi bersama — lihat **[Pemanggilan dan pemenuhan bersama](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
 **Kapan subbagian ini berlaku.** Aturan ini berlaku di dalam cakupan adopsi dan inkorporasi yang sah di bawah **[Bab Enam Belas](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** dalam salah satu dari kasus ini:
 

@@ -137,6 +137,9 @@ STRUCTURAL_HEADINGS: set[str] = {
     "section-2-semi-independent-definitions",
     "3-dependent-clusters-clustered-definitions",
     "section-3-dependent-clusters-clustered-definitions",
+    "11-invocation-satisfaction-and-compliance",
+    "21-joint-invocation-and-satisfaction",
+    "22-standalone-definitions-interaction-and-full-context",
     "31-joint-invocation-and-satisfaction",
     "32-standalone-definitions-interaction-and-full-context",
 }

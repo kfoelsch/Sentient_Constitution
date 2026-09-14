@@ -794,7 +794,7 @@ When the rules below say **strictest** or **stricter**, those words have the sam
 
 This subsection's combined-satisfaction rule is about **more than one how-to file** applying to the same facts. It is not the same as:
 - the rule for a **single** operational cluster in incorporated joint-structure text, where doing only part of that cluster does not count as compliance — see **[CJS-1.14](corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*Operational clusters*); or
-- the Chapter Five rule that **Dependent cluster** definitions must be met together — see **[Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction)**.
+- the Chapter Five rule that **Dependent cluster** definitions must be met together — see **[§2.1 Joint invocation and satisfaction](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
 **When this subsection applies.** These rules apply within valid adoption and incorporation scope under **[Chapter Sixteen](core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** in either of these cases:
 

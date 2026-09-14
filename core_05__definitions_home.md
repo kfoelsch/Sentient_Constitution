@@ -26,15 +26,11 @@
 ### Canonical home and non-duplication rule
 *In plain terms: every defined term has one official home. That home decides what the term means. Other files may apply the term, but they may not quietly redefine it.*
 
-Each constitutional definition, definition description, and clustered traceability concept must have one **canonical home** in this corpus — one official place that controls what the term means, how far it reaches, and what counts as satisfying it.
-
-No incorporated or implementation text may create a second definition, a competing explanation, or a narrower restatement of a term whose canonical home is already assigned by this Constitution or by the corpus architecture map adopted under it.
-
-Incorporated implementation text may put a canonical term to work only by pointing back to that home and then stating layer-specific criteria, procedures, classifications, controls, or conditions inside its assigned scope.
-
-If such text uses a local label or shorthand, it must say so clearly. That local wording is not a new definition of the term. It becomes official definition language only if the term's canonical home later adopts it.
-
-If wording outside the canonical home seems to broaden, narrow, replace, or compete with the canonical definition, the canonical definition governs. Read that outside wording as implementation detail if you can. If you cannot, the competing wording does not apply to the extent of the conflict.
+- Each constitutional definition, definition description, and clustered traceability concept must have one **canonical home** in this corpus — one official place that controls what the term means, how far it reaches, and what counts as satisfying it.
+  - No incorporated or implementation text may create a second definition, a competing explanation, or a narrower restatement of a term whose canonical home is already assigned by this Constitution or by the corpus architecture map adopted under it.
+- Incorporated implementation text may put a canonical term to work only by pointing back to that home and then stating layer-specific criteria, procedures, classifications, controls, or conditions inside its assigned scope.
+  - If such text uses a local label or shorthand, it must say so clearly. That local wording is not a new definition of the term. It becomes official definition language only if the term's canonical home later adopts it.
+- If wording outside the canonical home seems to broaden, narrow, replace, or compete with the canonical definition, the canonical definition governs. Read that outside wording as implementation detail if you can. If you cannot, the competing wording does not apply to the extent of the conflict.
 
 ---
 
@@ -43,15 +39,22 @@ If wording outside the canonical home seems to broaden, narrow, replace, or comp
 
 ### 1. Independent Definitions
 
-*In plain terms: independent definitions are reusable building blocks. When they apply, they must be met in full — no picking the convenient pieces.*
+*In plain terms: independent definitions are reusable building blocks. They stand on their own unless a cluster requires them to be met together.*
 
 Independent Definitions are reusable semantic building blocks that can be invoked across multiple definitions. They define shared ontological, measurement, assessment, and compliance constructs. Apply them wherever they are materially relevant to system behavior, outcomes, evaluation scope, or compliance determination.
+
+Independent and Semi-independent definitions do not require joint satisfaction with other definitions unless a Dependent-cluster definition explicitly requires it ([section 2 — Dependent-cluster meta rules](#2-dependent-cluster-meta-rules)). [§1.1 Invocation, satisfaction, and compliance](#11-invocation-satisfaction-and-compliance) apply whenever an Independent Definition is invoked.
+
+<a id="11-invocation-satisfaction-and-compliance"></a>
+
+#### 1.1 Invocation, satisfaction, and compliance
+*In plain terms: when an independent definition applies, it must be met in full — no picking the convenient pieces.*
 
 Failing to invoke or correctly apply any materially required Independent Definition invalidates the associated compliance determination. All Independent Definitions invoked in system evaluation must appear explicitly in Definition Traceability mappings (Chapter Four, section 2 — Definition Traceability Requirement). Those mappings must include their Ontological (O), Measurement (M), Assessment (A), and Compliance (C) components. Traceability must show how each invoked Independent Definition contributes to observable system behavior and to compliance outcomes under full functional system conditions.
 
 When an Independent Definition is invoked, it must be satisfied in full across its O, M, A, and C components. That satisfaction must be consistent with the Requirements for Definition Structure (Chapter Two, §1 — Purpose and Role). Partial satisfaction or selective application is non-compliant.
 
-Independent and Semi-independent definitions do not require joint satisfaction with other definitions unless a Dependent-cluster definition explicitly requires it ([section 2 — Dependent-cluster meta rules](#2-dependent-cluster-meta-rules)). They must still be applied consistently with all applicable definitions under shared functional system scope, evaluation conditions, and temporal context. Chapter Three, sections 1 and 2 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — require that consistency.
+Independent Definitions must still be applied consistently with all applicable definitions under shared functional system scope, evaluation conditions, and temporal context. Chapter Three, sections 1 and 2 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — require that consistency.
 
 Selective invocation, omission of materially relevant definitions, and application that alters, weakens, or bypasses compliance determination are evasion. Chapter Three, sections 1 and 2 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — govern that conduct.
 
@@ -64,18 +67,18 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 *In plain terms: cluster members must be read and satisfied together — no member is a standalone shortcut around joint requirements.*
 
-A **dependent cluster** is a group of definitions that must be met together, inside the scope each cluster states. [Joint invocation and satisfaction](#joint-invocation-and-satisfaction) and [Standalone definitions interaction and full context](#standalone-definitions-interaction-and-full-context) apply to every cluster. Dependent clusters **Def.O1–Def.I1** live in the constitutional band files — see [Clusters A-Z](#clusters-a-z) and the [compass](#chapter-five-compass-and-definition-map).
+A **dependent cluster** is a group of definitions that must be met together, inside the scope each cluster states. [§2.1 Joint invocation and satisfaction](#21-joint-invocation-and-satisfaction) and [§2.2 Standalone definitions interaction and full context](#22-standalone-definitions-interaction-and-full-context) apply to every cluster. Dependent clusters **Def.O1–Def.I1** live in the constitutional band files — see [Clusters A-Z](#clusters-a-z) and the [compass](#chapter-five-compass-and-definition-map).
 
-<a id="joint-invocation-and-satisfaction"></a>
+<a id="21-joint-invocation-and-satisfaction"></a>
 
-#### Joint invocation and satisfaction
+#### 2.1 Joint invocation and satisfaction
 If a definition — or any part of one — belongs to a dependent cluster, it may not be applied, satisfied, or judged on its own. When cluster members are pieces of one requirement, all of them must be met. Meeting only some of them is not compliance.
 
-Cluster-local applications of this rule appear under **Anti-bypass** (not a second "joint invocation" header). Those bullets state the cluster-specific anti-segmentation rule and may end with `See` this section — they must not reopen with `Under Joint invocation and satisfaction, …`.
+Cluster-local applications of this rule appear under **Anti-bypass** (not a second "joint invocation" header). Those bullets state the cluster-specific anti-segmentation rule and may end with `See this section`. They must not reopen with `Under Joint invocation and satisfaction, …`.
 
-<a id="standalone-definitions-interaction-and-full-context"></a>
+<a id="22-standalone-definitions-interaction-and-full-context"></a>
 
-#### Standalone definitions interaction and full context
+#### 2.2 Standalone definitions interaction and full context
 Calling a definition Independent or Semi-independent does not let it skip cluster membership. Dependent clusters must still be met together in the full real-world system context. No piece may be peeled off, reclassified, or applied alone in a way that changes the compliance result.
 
 ---
@@ -362,7 +365,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 - Upstream: [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); [material stake](../core_00_preamble.md#material-stake); [Preamble §2 Measurements Overview](../core_00_preamble.md#measurements-overview).
 - Downstream: constitutional orientation for all Chapter Five band definitions and **Def.** dependent clusters.
-- Read with: [Independent Definitions](core_05__definitions_home.md#1-independent-definitions), [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction), and [Standalone definitions interaction and full context](core_05__definitions_home.md#standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
+- Read with: [Independent Definitions](core_05__definitions_home.md#1-independent-definitions), [§1.1 Invocation, satisfaction, and compliance](core_05__definitions_home.md#11-invocation-satisfaction-and-compliance), [§2.1 Joint invocation and satisfaction](core_05__definitions_home.md#21-joint-invocation-and-satisfaction), and [§2.2 Standalone definitions interaction and full context](core_05__definitions_home.md#22-standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
 
 </details>
 

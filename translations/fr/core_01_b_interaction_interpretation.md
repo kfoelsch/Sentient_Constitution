@@ -799,7 +799,7 @@ Lorsque les règles ci-dessous disent **le plus strict** ou **plus strict**, ces
 
 La règle de satisfaction combinée de cette sous-section concerne **plus d’un fichier de mise en œuvre** s’appliquant aux mêmes faits. Ce n’est pas la même chose que :
 - la règle pour un **seul** groupe opérationnel dans le texte de structure conjointe incorporé, où ne faire qu’une partie de ce groupe ne compte pas comme conformité — voir **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*Groupes opérationnels*) ; ou
-- la règle du Chapitre cinq selon laquelle les définitions de **groupe dépendant** doivent être satisfaites ensemble — voir **[Invocation conjointe et satisfaction](../../core_05__definitions_home.md#joint-invocation-and-satisfaction)**.
+- la règle du Chapitre cinq selon laquelle les définitions de **groupe dépendant** doivent être satisfaites ensemble — voir **[Invocation conjointe et satisfaction](../../core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
 **Lorsque cette sous-section s’applique.** Ces règles s’appliquent à l’intérieur de la portée d’adoption et d’incorporation valable sous le **[Chapitre seize](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** dans l’un ou l’autre de ces cas :
 
