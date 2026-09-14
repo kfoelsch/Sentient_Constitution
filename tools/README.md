@@ -29,6 +29,7 @@ Chapter Five and CJS-3 definition files use **one** `---` between reader units, 
 | Chapter Five compound heading/member order | `make ch5-cluster-order-audit` |
 | Chapter Five single-definition and owner-roster rule | `make ch5-single-definition-audit` |
 | Chapter Five alphabetical directory and section 1 order | `make ch5-alphabetical-directory-audit` |
+| Chapter Five nested-list readability candidates (advisory) | `make ch5-nested-list-candidates` |
 | Chapter One D/A/C functional ordering | `make ch1-dac-order-audit` |
 | Readability estimates | `make readability-audit` |
 | Plain-terms edition (generated, non-binding gloss digest of the core files) | `make plain-terms-edition` / `make plain-terms-edition-check` |
@@ -75,6 +76,8 @@ Machine-checkable editorial rules: [tools/architecture/rule_registry.json](tools
 `readability_audit.py` excludes `MEMLOG.md` and `TODO.md` by default because those files are treated as AI-only working memory and project task tracking rather than reader-facing corpus prose.
 
 `plain_language_audit.py` is an advisory checker for jargon-heavy reader notes and navigation prose. It flags exact phrases such as `extended narrative context` and `non-operative explanatory framing`, plus dense guidance sentences that stack abstract terms instead of plain words. Start by running it manually and tune the rule list before promoting it into a blocking bundle.
+
+`ch5_nested_list_candidate_audit.py` ranks packed Chapter Five **In scope** / assessment / failure bullets that would scan better as nested grandchild lists. It is a candidate finder, not a regression gate: default exit is 0 even when candidates exist. Skip Trace widgets, **Primary measure** boilerplate, and bullets that already have nested children. Limit with `--file`, raise the floor with `--min-score`, and use `--strict` only if an operator wants a non-zero exit. Existing colon-parent nesting checks still lock lists that are already nested.
 
 `ch4_ch7_pointer_audit.py` is an advisory checker for Chapter Seven pointer discipline against Chapter Four. It flags operative restatements of Chapter Four verification-substrate rules (burden, trace artifact, security-constrained verification, and related phrases) without upstream citations to Chapters Two through Four, and verifies the corpus-placement reader guidance names Chapter Four as verification-substrate owner. Run after edits to [`core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation`](../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation) or [`core_04_burden_traceability_verification.md`](../core_04_burden_traceability_verification.md) Chapter Four §§1–6; use `--strict` to block on findings.
 

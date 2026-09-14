@@ -79,6 +79,7 @@ Load-bearing count: 17 targets (plus their tests). If only those pass, citations
 | Make target | Tool | Rule ID(s) | Promotion path |
 |-------------|------|------------|----------------|
 | `plain-language-audit` | `tools/plain_language_audit.py` | PLAIN-JARGON | Phrase rules from `lexical_guardrails.json` |
+| `ch5-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py` | CH5-NEST-CANDIDATE | Ranked packed-list rewrite candidates; advisory; `--strict` to block |
 | `subarticle-gloss-audit` | `tools/subarticle_gloss_audit.py` | GLOSS-SUBARTICLE | Chapter Six `*In plain terms:*` on `#### Article` |
 | `readability-audit` | `tools/readability_audit.py` | — | `make regression-full`; optional `--with-subarticle-gloss` |
 | `owner-discipline-audit` | `tools/owner_discipline_audit.py` | OWNER-SINGLE-HOME | Heuristic O/M/A/C outside Ch5; use `--strict` to block |
