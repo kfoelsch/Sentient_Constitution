@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tests for the Chapter Five / Chapter Six / Chapter Seven nested-list candidate finder."""
+"""Tests for the Chapter Five through Chapter Nine nested-list candidate finder."""
 
 from __future__ import annotations
 
@@ -336,6 +336,108 @@ class NestedListCandidateTests(unittest.TestCase):
         self.assertIn("CH7-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
+
+    def test_ch8_labeled_semicolon_list_is_flagged(self) -> None:
+        text = """#### 3.1 Minimum record contents
+
+- **Violation standing records must also state:** the Question 2 violation measurement; shared-violation actor-specific basis; forum-disclosure omission basis; and the measurement basis later Chapter Nine effects must use.
+"""
+        hits = scan_text(text, chapter=8)
+        self.assertEqual(self._lines(text, min_score=8), [3])
+        self.assertEqual(hits[0].role, "violation-standing-records-must-also-state")
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+
+    def test_ch8_nested_children_are_not_flagged(self) -> None:
+        text = """#### 3.1 Minimum record contents
+
+- **Contribution standing records must also state:**
+  - the Question 2 contribution measurement;
+  - how shared credit was allocated; and
+  - the measurement basis later Chapter Nine effects must use.
+"""
+        self.assertEqual(scan_text(text, chapter=8), [])
+
+    def test_ch8_unlabeled_words_only_is_skipped(self) -> None:
+        text = """### 4. Question 2 — how good or bad was it?
+
+- This paragraph states a single continuous argument about contribution, violation, LEQU magnitude, and contestability without packing a parallel checklist of distinct tests into the line.
+"""
+        filler = " ".join(["clause"] * 70)
+        text = text.replace("without packing", filler + " without packing")
+        self.assertEqual(scan_text(text, chapter=8), [])
+
+    def test_main_chapter_eight_advisory_exit_zero(self) -> None:
+        buf = StringIO()
+        with patch("sys.stdout", buf):
+            code = main(
+                [
+                    "--root",
+                    str(_TOOLS.parent),
+                    "--chapter",
+                    "8",
+                    "--file",
+                    "core_08_standing_assessment.md",
+                    "--top",
+                    "3",
+                ]
+            )
+        self.assertEqual(code, 0)
+        self.assertIn("CH8-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH7-NEST-CANDIDATE", buf.getvalue())
+
+    def test_ch9_labeled_semicolon_list_is_flagged(self) -> None:
+        text = """#### 4.1 Remedy and correction
+
+- **Correction:** changes to conduct; systems; records; incentives; supervision; safeguards; or role eligibility needed to address the cause and stop continuation.
+"""
+        hits = scan_text(text, chapter=9)
+        self.assertEqual(self._lines(text, min_score=8), [3])
+        self.assertEqual(hits[0].role, "correction")
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+
+    def test_ch9_nested_children_are_not_flagged(self) -> None:
+        text = """#### 4.1 Remedy and correction
+
+- **Remedy:**
+  - acknowledgment;
+  - repair;
+  - restoration; and
+  - comparable redress.
+"""
+        self.assertEqual(scan_text(text, chapter=9), [])
+
+    def test_ch9_unlabeled_words_only_is_skipped(self) -> None:
+        text = """### 5. Lock design and enforcement
+
+- This paragraph states a single continuous argument about lock attachment, proportionality, visibility, and special locks without packing a parallel checklist of distinct tests into the line.
+"""
+        filler = " ".join(["clause"] * 70)
+        text = text.replace("without packing", filler + " without packing")
+        self.assertEqual(scan_text(text, chapter=9), [])
+
+    def test_main_chapter_nine_advisory_exit_zero(self) -> None:
+        buf = StringIO()
+        with patch("sys.stdout", buf):
+            code = main(
+                [
+                    "--root",
+                    str(_TOOLS.parent),
+                    "--chapter",
+                    "9",
+                    "--file",
+                    "core_09_standing_integration.md",
+                    "--top",
+                    "3",
+                ]
+            )
+        self.assertEqual(code, 0)
+        self.assertIn("CH9-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH7-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
 
 
 if __name__ == "__main__":

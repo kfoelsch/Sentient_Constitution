@@ -5,7 +5,12 @@ Chapter Five: In-scope / assessment / failure bullets (and unlabeled
 assessment continuation lines). Chapter Six: labeled operative run-ins
 (``**Label:**`` / ``**Label** —``) and packed covers/includes lists.
 Chapter Seven: labeled walkthrough and record bullets (same packing
-signals as Chapter Six).
+signals as Chapter Six). Chapter Eight: labeled record, custody, and
+measurement bullets (same packing signals as Chapters Six and Seven).
+Chapter Nine: labeled integration, lock, remedy, and routing bullets
+(same packing signals as Chapters Six through Eight). Chapter Ten:
+labeled designation, safeguard, and named-pattern bullets (same packing
+signals as Chapters Six through Nine).
 
 Finds items that pack a parallel list into one sentence and have no nested
 child bullets yet. Default is advisory: print ranked candidates and exit 0.
@@ -15,7 +20,8 @@ This is a candidate finder, not a duty. Existing nesting gates
 (``corpus_markdown_audit.check_oec_intro_sublist_nesting``, Article IX in
 ``prose_continuity_audit``) still lock lists that are already nested.
 
-Rules: CH5-NEST-CANDIDATE / CH6-NEST-CANDIDATE / CH7-NEST-CANDIDATE in
+Rules: CH5-NEST-CANDIDATE / CH6-NEST-CANDIDATE / CH7-NEST-CANDIDATE /
+CH8-NEST-CANDIDATE / CH9-NEST-CANDIDATE / CH10-NEST-CANDIDATE in
 tools/architecture/rule_registry.json.
 
 Run:
@@ -23,7 +29,10 @@ Run:
     make ch5-nested-list-candidates
     make ch6-nested-list-candidates
     make ch7-nested-list-candidates
-    python3 tools/ch5_nested_list_candidate_audit.py --root . --chapter 7
+    make ch8-nested-list-candidates
+    make ch9-nested-list-candidates
+    make ch10-nested-list-candidates
+    python3 tools/ch5_nested_list_candidate_audit.py --root . --chapter 10
     python3 tools/ch5_nested_list_candidate_audit.py --root . --file core_05_band_accountability.md
 """
 
@@ -54,8 +63,17 @@ CH7_PARTS: tuple[str, ...] = (
     "core_07_b_system_alignment_certification_record_process.md",
 )
 
-SUPPORTED_CHAPTERS: tuple[int, ...] = (5, 6, 7)
-WORDS_ONLY_SKIP_CHAPTERS: frozenset[int] = frozenset({6, 7})
+CH8_PARTS: tuple[str, ...] = ("core_08_standing_assessment.md",)
+
+CH9_PARTS: tuple[str, ...] = ("core_09_standing_integration.md",)
+
+CH10_PARTS: tuple[str, ...] = (
+    "core_10_a_misconduct_designation.md",
+    "core_10_b_misconduct_pattern_applications.md",
+)
+
+SUPPORTED_CHAPTERS: tuple[int, ...] = (5, 6, 7, 8, 9, 10)
+WORDS_ONLY_SKIP_CHAPTERS: frozenset[int] = frozenset({6, 7, 8, 9, 10})
 
 LIST_RE = re.compile(r"^([ \t]*)([-*]|\d+\.)\s+(.*)$")
 HEADING_RE = re.compile(r"^(#{3,5})\s+(.+)$")
@@ -203,7 +221,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         type=int,
         choices=SUPPORTED_CHAPTERS,
         default=[],
-        help="Chapter to scan (repeatable: 5, 6, and/or 7). Default 5 when --file is omitted.",
+        help="Chapter to scan (repeatable: 5, 6, 7, 8, 9, and/or 10). Default 5 when --file is omitted.",
     )
     parser.add_argument(
         "--apex",
@@ -284,6 +302,12 @@ def _is_packable_role(role: str) -> bool:
 
 def chapter_from_rel(rel: str) -> int | None:
     name = Path(rel).name if rel else ""
+    if name.startswith("core_10_"):
+        return 10
+    if name.startswith("core_09_"):
+        return 9
+    if name.startswith("core_08_"):
+        return 8
     if name.startswith("core_07_"):
         return 7
     if name.startswith("core_06_"):
@@ -297,6 +321,9 @@ RULE_ID_BY_CHAPTER: dict[int, str] = {
     5: "CH5-NEST-CANDIDATE",
     6: "CH6-NEST-CANDIDATE",
     7: "CH7-NEST-CANDIDATE",
+    8: "CH8-NEST-CANDIDATE",
+    9: "CH9-NEST-CANDIDATE",
+    10: "CH10-NEST-CANDIDATE",
 }
 
 
@@ -648,6 +675,12 @@ def resolve_targets(root: Path, args: argparse.Namespace) -> list[Path]:
             names_list.extend(CH6_RIGHTS)
         if 7 in chapters:
             names_list.extend(CH7_PARTS)
+        if 8 in chapters:
+            names_list.extend(CH8_PARTS)
+        if 9 in chapters:
+            names_list.extend(CH9_PARTS)
+        if 10 in chapters:
+            names_list.extend(CH10_PARTS)
         names = tuple(names_list)
     paths: list[Path] = []
     for name in names:

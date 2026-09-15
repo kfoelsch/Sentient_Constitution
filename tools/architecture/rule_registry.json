@@ -157,6 +157,20 @@
       "status": "advisory"
     },
     {
+      "id": "CH8-NEST-CANDIDATE",
+      "legacy_ref": "Chapter Eight nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Eight labeled record, custody, and measurement bullets that would scan better as nested children. Not a regression gate.",
+      "make_target": "ch8-nested-list-candidates",
+      "status": "advisory"
+    },
+    {
+      "id": "CH9-NEST-CANDIDATE",
+      "legacy_ref": "Chapter Nine nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Nine labeled integration, lock, remedy, and routing bullets that would scan better as nested children. Not a regression gate.",
+      "make_target": "ch9-nested-list-candidates",
+      "status": "advisory"
+    },
+    {
       "id": "GLOSS-SUBARTICLE",
       "legacy_ref": "Plain-language gloss placement",
       "summary": "Chapter Six #### subarticles with operative bullets need In plain terms line.",
