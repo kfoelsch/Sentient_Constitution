@@ -37,6 +37,7 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
 
 ลิงก์ในโครงการนำร่องชี้ไปยังไฟล์ภาษาอังกฤษที่ยังไม่มีคำแปล สมอ HTML (`id`) คัดลอกจากต้นฉบับเพื่อให้เทียบได้ทีละช่วง
 

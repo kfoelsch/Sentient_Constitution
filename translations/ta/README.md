@@ -37,6 +37,7 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
 
 முன்னோடியின் இணைப்புகள் இன்னும் மொழிபெயர்க்கப்படாத ஆங்கிலக் கோப்புகளையே சுட்டுகின்றன. HTML நங்கூரங்கள் (`id`) மூலத்திலிருந்து நகலெடுக்கப்பட்டவை, பகுதிக்குப் பகுதி ஒப்பீடு செய்ய.
 

@@ -37,6 +37,7 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
 
 పైలట్ లింకులు ఇంకా అనువాదం కాని ఆంగ్ల ఫైళ్ళ వైపు వెళ్తాయి. HTML లంగరులు (`id`) మూలం నుండి నకలు, ఖండం-వారీ పోలికకు.
 
