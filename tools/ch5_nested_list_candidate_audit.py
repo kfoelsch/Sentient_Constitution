@@ -12,7 +12,9 @@ Chapter Nine: labeled integration, lock, remedy, and routing bullets
 labeled designation, safeguard, and named-pattern bullets (same packing
 signals as Chapters Six through Nine). Chapter Eleven: labeled routing,
 forum-family, escalation, and support bullets (same packing signals as
-Chapters Six through Ten).
+Chapters Six through Ten). Chapter Twelve: labeled legitimacy,
+stewardship, collective-choice, and role bullets (same packing signals as
+Chapters Six through Eleven).
 
 Finds items that pack a parallel list into one sentence and have no nested
 child bullets yet. Default is advisory: print ranked candidates and exit 0.
@@ -24,7 +26,8 @@ This is a candidate finder, not a duty. Existing nesting gates
 
 Rules: CH5-NEST-CANDIDATE / CH6-NEST-CANDIDATE / CH7-NEST-CANDIDATE /
 CH8-NEST-CANDIDATE / CH9-NEST-CANDIDATE / CH10-NEST-CANDIDATE /
-CH11-NEST-CANDIDATE in tools/architecture/rule_registry.json.
+CH11-NEST-CANDIDATE / CH12-NEST-CANDIDATE in
+tools/architecture/rule_registry.json.
 
 Run:
 
@@ -35,7 +38,8 @@ Run:
     make ch9-nested-list-candidates
     make ch10-nested-list-candidates
     make ch11-nested-list-candidates
-    python3 tools/ch5_nested_list_candidate_audit.py --root . --chapter 11
+    make ch12-nested-list-candidates
+    python3 tools/ch5_nested_list_candidate_audit.py --root . --chapter 12
     python3 tools/ch5_nested_list_candidate_audit.py --root . --file core_05_band_accountability.md
 """
 
@@ -77,8 +81,10 @@ CH10_PARTS: tuple[str, ...] = (
 
 CH11_PARTS: tuple[str, ...] = ("core_11_forum.md",)
 
-SUPPORTED_CHAPTERS: tuple[int, ...] = (5, 6, 7, 8, 9, 10, 11)
-WORDS_ONLY_SKIP_CHAPTERS: frozenset[int] = frozenset({6, 7, 8, 9, 10, 11})
+CH12_PARTS: tuple[str, ...] = ("core_12_governance.md",)
+
+SUPPORTED_CHAPTERS: tuple[int, ...] = (5, 6, 7, 8, 9, 10, 11, 12)
+WORDS_ONLY_SKIP_CHAPTERS: frozenset[int] = frozenset({6, 7, 8, 9, 10, 11, 12})
 
 LIST_RE = re.compile(r"^([ \t]*)([-*]|\d+\.)\s+(.*)$")
 HEADING_RE = re.compile(r"^(#{3,5})\s+(.+)$")
@@ -226,7 +232,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         type=int,
         choices=SUPPORTED_CHAPTERS,
         default=[],
-        help="Chapter to scan (repeatable: 5, 6, 7, 8, 9, 10, and/or 11). Default 5 when --file is omitted.",
+        help="Chapter to scan (repeatable: 5, 6, 7, 8, 9, 10, 11, and/or 12). Default 5 when --file is omitted.",
     )
     parser.add_argument(
         "--apex",
@@ -307,6 +313,8 @@ def _is_packable_role(role: str) -> bool:
 
 def chapter_from_rel(rel: str) -> int | None:
     name = Path(rel).name if rel else ""
+    if name.startswith("core_12_"):
+        return 12
     if name.startswith("core_11_"):
         return 11
     if name.startswith("core_10_"):
@@ -332,6 +340,7 @@ RULE_ID_BY_CHAPTER: dict[int, str] = {
     9: "CH9-NEST-CANDIDATE",
     10: "CH10-NEST-CANDIDATE",
     11: "CH11-NEST-CANDIDATE",
+    12: "CH12-NEST-CANDIDATE",
 }
 
 
@@ -691,6 +700,8 @@ def resolve_targets(root: Path, args: argparse.Namespace) -> list[Path]:
             names_list.extend(CH10_PARTS)
         if 11 in chapters:
             names_list.extend(CH11_PARTS)
+        if 12 in chapters:
+            names_list.extend(CH12_PARTS)
         names = tuple(names_list)
     paths: list[Path] = []
     for name in names:

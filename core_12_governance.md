@@ -83,19 +83,59 @@ Mechanism families, publication, auditability, and pluralism are addressed in **
 
 **Sortition integrity and anti-capture use**
 
-- **Anti-capture function:** Sortition may be used as an anti-corruption and anti-capture mechanism for specified governing, oversight, review, agenda-setting, procurement, audit, or constitutional-deliberation bodies where random selection materially reduces predictable capture through campaign finance, incumbency dependence, patronage, factional gatekeeping, or pre-selection bribery.
-- **Integrity floor:** A sortition mechanism that exercises or materially shapes **governing authority** must publish auditable selection rules, eligibility boundaries, exclusion grounds, replacement rules, rotation cadence, compensation and access supports, conflict controls, briefing and evidence rules, facilitator or staff independence controls, anti-lobbying and anti-intimidation safeguards, and contest routes for selection failure, manipulation, capture, or procedural distortion.
-- **No legitimacy laundering:** A civic lottery, citizens' assembly, or randomly selected panel must not be used as legitimacy theater for decisions whose agenda, evidence record, facilitator control, implementation response, or acceptance criteria are controlled by an interested authority in a way that defeats meaningful deliberation, contestability, or **Article XI-C** (*Legitimacy Gate and Anti-Token Participation*) participation gates.
-- **Implementation owner:** Operational safeguards for sortition integrity, including randomization verification, conflict screening, staffing separation, disclosure, protected escalation, and response to capture allegations, belong in designated implementation text and **corpus_institutions.md** **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) anti-capture and anti-corruption controls.
+- **Anti-capture function:** Sortition may be used as an anti-corruption and anti-capture mechanism for specified governing, oversight, review, agenda-setting, procurement, audit, or constitutional-deliberation bodies where random selection materially reduces predictable capture through:
+  - campaign finance;
+  - incumbency dependence;
+  - patronage;
+  - factional gatekeeping; or
+  - pre-selection bribery.
+- **Integrity floor:** A sortition mechanism that exercises or materially shapes **governing authority** must publish:
+  - auditable selection rules;
+  - eligibility boundaries;
+  - exclusion grounds;
+  - replacement rules;
+  - rotation cadence;
+  - compensation and access supports;
+  - conflict controls;
+  - briefing and evidence rules;
+  - facilitator or staff independence controls;
+  - anti-lobbying and anti-intimidation safeguards; and
+  - contest routes for:
+    - selection failure;
+    - manipulation;
+    - capture; or
+    - procedural distortion.
+- **No legitimacy laundering:** A civic lottery, citizens' assembly, or randomly selected panel must not be used as legitimacy theater for decisions when an interested authority controls, in a way that defeats meaningful deliberation, contestability, or **Article XI-C** (*Legitimacy Gate and Anti-Token Participation*) participation gates:
+  - the agenda;
+  - the evidence record;
+  - facilitator control;
+  - the implementation response; or
+  - acceptance criteria.
+- **Implementation owner:** Operational safeguards for sortition integrity belong in designated implementation text and **corpus_institutions.md** **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) anti-capture and anti-corruption controls. Those safeguards include:
+  - randomization verification;
+  - conflict screening;
+  - staffing separation;
+  - disclosure;
+  - protected escalation; and
+  - response to capture allegations.
 
 **Auditability, publication, and non-usurpation**
 
-- **Publication and Proportionality:** The active mechanism must be auditable. Audit records must include scope, renewal or reauthorization cadence, and material limits on delegated power. Auditability must be proportionate to **[corpus_systems.md](corpus_systems.md)**, CS-3 — System classification and handling classification, and to **material impact** under Chapter Five ([*Material*](core_05_band_oversight.md#material), [*Dependency*](core_05_band_continuity.md#dependency), [*Stakeholder*](core_05_band_participation.md#stakeholder)).
+- **Publication and Proportionality:** The active mechanism must be auditable. Audit records must include:
+  - scope;
+  - renewal or reauthorization cadence; and
+  - material limits on delegated power.
+  Auditability must be proportionate to **[corpus_systems.md](corpus_systems.md)**, CS-3 — System classification and handling classification, and to **material impact** under Chapter Five ([*Material*](core_05_band_oversight.md#material), [*Dependency*](core_05_band_continuity.md#dependency), [*Stakeholder*](core_05_band_participation.md#stakeholder)).
 - **Non-Usurpation:** Governing bodies may not treat silence, usage alone, or **marketing alignment** as substitute authorization. Deliberate adoption remains governed by **Chapter Sixteen** (*Ratification and Adoption*).
 
 **Contestation, correction, and pluralism**
 
-- **Failure and Correction:** Where authorization is contested, materially drifted, or captured, systems must provide **contestable pathways**. Pathways include **Article XI-C** (*Legitimacy Gate and Anti-Token Participation*), **Article XII-B** (*Right to Challenge, Review, and Redress*), **Article XXIII-A** (*Justice Objective and Scope*), and applicable procedural-integrity safeguards in adopted implementation text. Where feasible, systems should provide **peaceful succession or reauthorization** rather than unreviewable continuity of power.
+- **Failure and Correction:** Where authorization is contested, materially drifted, or captured, systems must provide **contestable pathways**. Pathways include:
+  - **Article XI-C** (*Legitimacy Gate and Anti-Token Participation*);
+  - **Article XII-B** (*Right to Challenge, Review, and Redress*);
+  - **Article XXIII-A** (*Justice Objective and Scope*); and
+  - applicable procedural-integrity safeguards in adopted implementation text.
+  Where feasible, systems should provide **peaceful succession or reauthorization** rather than unreviewable continuity of power.
 - **Pluralism:** This Constitution does **not** mandate a single global polity structure. Multiple mechanisms may coexist across federations if boundaries, **non-domination**, and Rights Floors in Chapter Six remain satisfied.
 
 #### 1.2 Eligibility, contested selection, and democratic minimums
@@ -144,7 +184,17 @@ Mechanism families, publication, auditability, and pluralism are addressed in **
 
 **Guardrails**
 
-- **Temporal proportionality (petition and procedure):** Initiation and completion requirements for recall-class measures—including petition or sponsor thresholds, signature windows, quorums, voting schedules, and any supermajority or multi-step confirmation—must be **proportionate to elapsed time** since the mandate was last authorized through the mechanism's ordinary **contested selection** or **Foundational Constitutional Choice**, or **affirmatively renewed** on comparable terms. Shorter elapsed intervals must impose **stricter** requirements absent **documented acute failure** (including material misalignment or capture of authorization, denial of the peaceful-succession pathway, or **Rights-Floor** threat addressed through **Chapter Six** and adopted implementation procedure). Escalating tiers keyed to that clock are permitted in designated implementation text when they satisfy [**Substantive Fairness**](core_05_band_participation.md#substantive-fairness-constitutional), [**Necessity**](core_05_band_accountability.md#necessity), and [**Proportionality**](core_05_band_accountability.md#proportionality) under **Chapter One** and **Chapters Two through Five**.
+- **Temporal proportionality (petition and procedure):** Initiation and completion requirements for recall-class measures must be **proportionate to elapsed time** since the mandate was last authorized through the mechanism's ordinary **contested selection** or **Foundational Constitutional Choice**, or **affirmatively renewed** on comparable terms. Those requirements include:
+  - petition or sponsor thresholds;
+  - signature windows;
+  - quorums;
+  - voting schedules; and
+  - any supermajority or multi-step confirmation.
+  Shorter elapsed intervals must impose **stricter** requirements absent **documented acute failure**, including:
+  - material misalignment or capture of authorization;
+  - denial of the peaceful-succession pathway; or
+  - **Rights-Floor** threat addressed through **Chapter Six** and adopted implementation procedure.
+  Escalating tiers keyed to that clock are permitted in designated implementation text when they satisfy [**Substantive Fairness**](core_05_band_participation.md#substantive-fairness-constitutional), [**Necessity**](core_05_band_accountability.md#necessity), and [**Proportionality**](core_05_band_accountability.md#proportionality) under **Chapter One** and **Chapters Two through Five**.
 - **Procedural fairness:** Recall-class procedures must satisfy applicable **Chapter Six** requirements (**Article XI** (*Stakeholder System Participation, Representation, and Due Process*) family, including **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*) where internal role process applies). They must not substitute for individualized **removal-for-cause** or discipline channels where **corpus_institutions.md** **CI-4** (*Appointment, competency, rotation, and removal*) or incorporated procedure is the appropriate venue for the underlying conduct.
 - **Anti-serial abuse and stability:** Mechanisms must include **cooling** or **anti-serial** rules proportionate to **material impact** and **[corpus_systems.md](corpus_systems.md)** classification so recall-class instruments cannot be redeployed as structured harassment or permanent campaigning; bad-faith patterns remain contestable under **Article XII-B** (*Right to Challenge, Review, and Redress*) and **Article XXIII-A** (*Justice Objective and Scope*).
 - **High-impact alignment:** Recall-class votes that would change **Foundational Constitutional Choice** outcomes or the legitimacy mechanism itself remain subject to **Article XI-C** (*Legitimacy Gate and Anti-Token Participation*) and **§2** requirements where applicable.
@@ -274,11 +324,24 @@ This subsection implements **Chapter Six**, **Article IX-C** (*Governance Partic
 - **Political-equality floor for foundational constitutional choice:** **Foundational Constitutional Choice** (Chapter Five) covers decisions about who holds governing authority, what the legitimacy mechanism is, and the scope and durable terms of that authority. Those questions are governed by a **political-equality floor**: within the community entitled to participate, each sentient has equal participation weight.
   - Weighting by impact, dependency, standing, or comparable factors under **§11.3**, specified in [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), applies to materially rights-affecting decisions *within* the **structures, rules, allocation of authority, and processes** of **Governance** already authorized for a **specified system, institution, or bounded decision domain**. It does **not** apply to the foundational authorization of the legitimacy mechanism itself.
   - This floor does not collapse into ordinary [**Materiality Determination**](core_05_band_oversight.md#materiality-determination) and [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight) for binding choice within authorized governance (Chapter Five; [Chapter Twelve §4.3](#43-decision-resolution-requirements-for-binding-collective-choice)). Foundational questions are identified by **scope** (who decides, under what legitimacy mechanism, for what durable authority), not by marginal impact per decision.
-  - [**Sentience Non-Exclusion**](core_05_band_participation.md#sentience-non-exclusion) requires substrate-agnostic reach. Calendar age, substrate class, and lineage are not permissible participation-weight factors in foundational constitutional choice.
+  - [**Sentience Non-Exclusion**](core_05_band_participation.md#sentience-non-exclusion) requires substrate-agnostic reach. The following are not permissible participation-weight factors in foundational constitutional choice:
+    - calendar age;
+    - substrate class; and
+    - lineage.
   - Cross-reference: **Chapter Six, **Article IX-C** (*Governance Participation and Voting Entitlement*)**.
 - **Durable political-voice floor (anti-disenfranchisement):** A standing lock on the **governance-voting** pathway may suspend ordinary governance-voting entitlement. It must not be used as a **durable-political-voice** disqualification vector.
   - **Anti-constitutional misconduct — restitution precondition:** A **final designation** of **anti-constitutional misconduct** for a **Violation Axis s = 7**, **s = 8**, or **s = 9** finding under **Chapter Ten** (*Anti-Constitutional Misconduct*) withholds **durable political voice** — including participation in **Foundational Constitutional Choice** — until **full restitution** is satisfied: proportionate [**Redress and Remediation**](core_05_band_accountability.md#redress-and-remediation-constitutional) (Chapter Five), including **restitution** for material harm from the offense where owed, is **fully discharged** as finally determined under **Chapter Eleven** and applicable incorporated procedure, consistent with **Chapter Ten** due-process safeguards and **Article XXIII-A** (*Justice Objective and Scope*).
-  - **Good-faith inability, obstruction, and valuation uncertainty:** Withholding **durable political voice** must not rest on **poverty, disability, exile, loss of substrate, or valuation uncertainty alone** where **good-faith restoration** is documented and **partial** satisfaction is ongoing. Governing institutions must separate **willful non-restoration or obstruction** (including bad-faith delay by the governing side, structured impossibility used as pretext, or refusal to agree a **contestable** valuation method) from **good-faith inability** to complete every restitution element on an accelerated schedule. **Chapter Eleven** and applicable incorporated procedure must provide a **reviewable record** when **full discharge** is delayed for reasons outside the sentenced party’s sole control.
+  - **Good-faith inability, obstruction, and valuation uncertainty:** Withholding **durable political voice** must not rest on any of the following alone where **good-faith restoration** is documented and **partial** satisfaction is ongoing:
+    - poverty;
+    - disability;
+    - exile;
+    - loss of substrate; or
+    - valuation uncertainty.
+    Governing institutions must separate **willful non-restoration or obstruction** from **good-faith inability** to complete every restitution element on an accelerated schedule. Willful non-restoration or obstruction includes:
+    - bad-faith delay by the governing side;
+    - structured impossibility used as pretext; or
+    - refusal to agree a **contestable** valuation method.
+    **Chapter Eleven** and applicable incorporated procedure must provide a **reviewable record** when **full discharge** is delayed for reasons outside the sentenced party’s sole control.
   - **Partial and conditional restoration:** Where **full** discharge is **impossible** after **good-faith effort** (for example, certain harms are not reversibly compensable, or no party can locate necessary counterparties), **Chapter Eleven** and applicable incorporated procedure may adopt **partial** or **conditional** restoration milestones that **materially satisfy** [**Redress and Remediation**](core_05_band_accountability.md#redress-and-remediation-constitutional) for what can feasibly be done; upon satisfaction of those milestones, **durable political voice** must be **restored** unless **Chapter Ten** safeguards and **Article XXIII-A** (*Justice Objective and Scope*) still require further specific duties that remain **feasible** and **not pretextual**. These routes remain **fully contestable**; they do **not** authorize token gestures in place of genuine restoration where restoration remains practicable.
   - **Preservation of the grave-misconduct rule:** The **final** **Violation Axis s = 7, 8, or 9** withholding rule above remains **fully operative**: **bad-faith delay or evasion by the sentenced party** does **not** compel early restoration, and **grave** misconduct may **withhold** foundational voice until **real** restoration duties aligned with **Chapter Ten** and **Article XXIII-A** (*Justice Objective and Scope*) are satisfied where satisfaction remains **feasible**.
   - Where a standing lock or restitution withholding is invoked to restrict participation in foundational constitutional choice (authorization of governing authority, or named reauthorization pathways), the restriction must satisfy:
@@ -303,10 +366,30 @@ This subsection implements **Chapter Six**, **Article IX-C** (*Governance Partic
 
 *In plain terms: rules must be clear before the fact, records **must be open to verification**, high-stakes choices need legitimacy gates — and many voting methods are allowed if **participants** can understand them and push back.*
 
-- **Publication and ex ante clarity:** Published rules must identify scope, electorate or weighting model, and quorum or threshold logic. They should identify the method for recording assent before the decision event where feasible.
-- **Integrity and verifiability floor:** Outcome records must support independent verification proportionate to impact. Material integrity defects (eligibility, custody, tally, coercion resistance) must trigger review under Chapter Six and owner-layer procedures.
-- **Binding-effect gate:** No materially high-impact collective choice is binding unless **Article XI-A** (*Stakeholder System Participation and Representation*) legitimacy gates are satisfied. **Dissent** and **alternative** recording duties must be satisfied. **Contest** pathways must be satisfied.
-- **Method neutrality with comprehensibility:** Single-mark, ordinal, approval, and score/range methods are all constitutionally compatible when they satisfy core constraints. Those constraints are proportionality, meaningful agency, transparency, and challenge rights.
+- **Publication and ex ante clarity:** Published rules must identify:
+  - scope;
+  - electorate or weighting model; and
+  - quorum or threshold logic.
+  They should identify the method for recording assent before the decision event where feasible.
+- **Integrity and verifiability floor:** Outcome records must support independent verification proportionate to impact. Material integrity defects must trigger review under Chapter Six and owner-layer procedures. Those defects include:
+  - eligibility;
+  - custody;
+  - tally; and
+  - coercion resistance.
+- **Binding-effect gate:** No materially high-impact collective choice is binding unless:
+  - **Article XI-A** (*Stakeholder System Participation and Representation*) legitimacy gates are satisfied;
+  - **dissent** and **alternative** recording duties are satisfied; and
+  - **contest** pathways are satisfied.
+- **Method neutrality with comprehensibility:** The following methods are all constitutionally compatible when they satisfy core constraints:
+  - single-mark;
+  - ordinal;
+  - approval; and
+  - score/range.
+  Those constraints are:
+  - proportionality;
+  - meaningful agency;
+  - transparency; and
+  - challenge rights.
 
 <a id="43-decision-resolution-requirements-for-binding-collective-choice"></a>
 #### 4.3 Decision-resolution requirements for binding stakeholder choice
@@ -328,7 +411,11 @@ Where material disagreement requires a **binding stakeholder choice** within an 
 - **Structured sequence, local deliberation first, plural evaluation, reopening:** [Binding Stakeholder Choice — Decision-Resolution Requirements](core_05_band_participation.md#binding-collective-choice-decision-resolution-process).
 - **Stakeholder representation and weight limits:** [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) (also cross-referenced from [§4.1](#41-entitlement-and-eligibility)).
 - **Stakeholder rights-collision discipline:** [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice) — read with **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*) and [Chapter One §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- **Emergency exception:** [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — read with [Stakeholder Emergency and Contingency](core_05_band_continuity.md#stakeholder-emergency-and-contingency), [Constitutional Emergency and Contingency](core_05_band_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated, [Emergency and Contingency](core_05_band_continuity.md#emergency-and-contingency-constitutional), and **Article XXIII-D** (*Emergency Measures and Continuation Burden*).
+- **Emergency exception:** [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — read with:
+  - [Stakeholder Emergency and Contingency](core_05_band_continuity.md#stakeholder-emergency-and-contingency);
+  - [Constitutional Emergency and Contingency](core_05_band_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated;
+  - [Emergency and Contingency](core_05_band_continuity.md#emergency-and-contingency-constitutional); and
+  - **Article XXIII-D** (*Emergency Measures and Continuation Burden*).
 
 **Charter pointer rule.** A governing [Charter](core_05_band_continuity.md#charter) states operated scope and, where Def.P2 admission scope applies, must **point to** the published process rules that satisfy this section. The Charter does not carry the decision sequence, weighting model, or rights-collision record. Institutional publication of those materials lives under **CI-8.1** / **CI-8.2**, with the Charter pointer required by **CI-3.6** field 10.
 
@@ -352,7 +439,15 @@ Where material disagreement requires a **binding stakeholder choice** within an 
 
 Material stewardship and operation require **sentients** who can **exercise** authority **competently**, not only **structures** that distribute it on paper.
 
-- **Authorized-role and competency floor:** Adopters must maintain documented, auditable, and challengeable role definitions and competency or succession capacity proportionate to impact and classification. A role definition states, act by act, which seats the role holds under [Chapter One §10.2 Segregation of Duties](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties) — who may request, verify, record, hear a challenge, command containment, set participation terms, or release evidence — and its operational boundary; the seat types and boundaries are fixed in **CI-4.6** (*Seat catalog*), which a local role definition instantiates and may not enlarge. Constitutional duties must not depend on single points of sentient-level failure. Class-scaled lane staffing and competency-redundancy interlocks that combine **`corpus_systems.md`** classification profile with **`corpus_institutions.md`** lane design are applied through **CJS-2.4** (*Class-scaled lane staffing and competency redundancy*) and its routed owner hooks.
+- **Authorized-role and competency floor:** Adopters must maintain documented, auditable, and challengeable role definitions and competency or succession capacity proportionate to impact and classification. A role definition states, act by act, which seats the role holds under [Chapter One §10.2 Segregation of Duties](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties), and states its operational boundary. Those seats are who may:
+  - request;
+  - verify;
+  - record;
+  - hear a challenge;
+  - command containment;
+  - set participation terms; or
+  - release evidence.
+  The seat types and boundaries are fixed in **CI-4.6** (*Seat catalog*), which a local role definition instantiates and may not enlarge. Constitutional duties must not depend on single points of sentient-level failure. Class-scaled lane staffing and competency-redundancy interlocks that combine **`corpus_systems.md`** classification profile with **`corpus_institutions.md`** lane design are applied through **CJS-2.4** (*Class-scaled lane staffing and competency redundancy*) and its routed owner hooks.
 - **Open stewardship-development pathways and incentive integrity floor:** Qualified sentients must have non-arbitrary stewardship-development pathways into progressively consequential stewardship responsibilities, and stewardship incentives must reward constitutional care without burdening good-faith safety or integrity escalation.
 - **Anti-symbolism rule:** Titles or advisory forums do not satisfy this section where real authority and competency are required for materially binding decisions. Detailed role taxonomy, qualification/succession controls, stewardship-development pathway access implementation, and incentive-governance mechanics are governed by [**CI-4**](corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), and **CI-12** (*Transparency, participation, and accessible pathways*).
 - **Shared stewardship standard:** Role definitions and competency rules under this section apply the [shared stewardship standard](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) in **Chapter One §9.1.1** and [§9.1.2 Symmetric Costly Constraints](core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints). They must not create a substrate-specific duty stack, and they must not exempt human operators from the costly cases that bind AI stewards. Verified failures record on the same Chapter Eight axes; [Chapter Nine §5.4 Duty to resist](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) binds both.

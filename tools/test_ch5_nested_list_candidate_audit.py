@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tests for the Chapter Five through Chapter Eleven nested-list candidate finder."""
+"""Tests for the Chapter Five through Chapter Twelve nested-list candidate finder."""
 
 from __future__ import annotations
 
@@ -544,6 +544,60 @@ class NestedListCandidateTests(unittest.TestCase):
         self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH9-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH10-NEST-CANDIDATE", buf.getvalue())
+
+    def test_ch12_labeled_semicolon_list_is_flagged(self) -> None:
+        text = """#### 1.1 Mechanism families, auditability, and pluralism
+
+- **Integrity floor:** A sortition mechanism must publish auditable selection rules; eligibility boundaries; exclusion grounds; replacement rules; and contest routes.
+"""
+        hits = scan_text(text, chapter=12)
+        self.assertEqual(self._lines(text, min_score=8), [3])
+        self.assertEqual(hits[0].role, "integrity-floor")
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+
+    def test_ch12_nested_children_are_not_flagged(self) -> None:
+        text = """#### 4.2 Records, gates, and method neutrality
+
+- **Binding-effect gate:** No materially high-impact collective choice is binding unless:
+  - **Article XI-A** legitimacy gates are satisfied;
+  - **dissent** and **alternative** recording duties are satisfied; and
+  - **contest** pathways are satisfied.
+"""
+        self.assertEqual(scan_text(text, chapter=12), [])
+
+    def test_ch12_unlabeled_words_only_is_skipped(self) -> None:
+        text = """### 2. Ethical Culture and Integrity (Federated Scale)
+
+- This paragraph states a single continuous argument about integrity culture, federated evaluation, and legitimacy claims without packing a parallel checklist of distinct tests into the line.
+"""
+        filler = " ".join(["clause"] * 70)
+        text = text.replace("without packing", filler + " without packing")
+        self.assertEqual(scan_text(text, chapter=12), [])
+
+    def test_main_chapter_twelve_advisory_exit_zero(self) -> None:
+        buf = StringIO()
+        with patch("sys.stdout", buf):
+            code = main(
+                [
+                    "--root",
+                    str(_TOOLS.parent),
+                    "--chapter",
+                    "12",
+                    "--file",
+                    "core_12_governance.md",
+                    "--top",
+                    "3",
+                ]
+            )
+        self.assertEqual(code, 0)
+        self.assertIn("CH12-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH7-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH9-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH10-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH11-NEST-CANDIDATE", buf.getvalue())
 
 
 if __name__ == "__main__":
