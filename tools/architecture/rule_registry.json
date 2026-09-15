@@ -171,6 +171,13 @@
       "status": "advisory"
     },
     {
+      "id": "CH10-NEST-CANDIDATE",
+      "legacy_ref": "Chapter Ten nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Ten labeled designation, safeguard, and named-pattern bullets that would scan better as nested children. Not a regression gate.",
+      "make_target": "ch10-nested-list-candidates",
+      "status": "advisory"
+    },
+    {
       "id": "GLOSS-SUBARTICLE",
       "legacy_ref": "Plain-language gloss placement",
       "summary": "Chapter Six #### subarticles with operative bullets need In plain terms line.",

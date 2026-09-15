@@ -94,7 +94,11 @@ The absence of overt deception or forcible act does **not** defeat anti-constitu
 The following patterns are **anti-constitutional misconduct within this chapter’s scope** when substantiated under **Chapters Two through Four** and assessed through the **section 2** criteria for possible anti-constitutional misconduct designation. They are stated here so that **purported waiver** and **pseudo-contract** devices are not mistaken for ordinary compliance disputes alone.
 
 - **Rights-Floor waiver conduct:** conditioning cooperative participation, employment, platform access, services, or comparable ordinary association on giving up protected rights or review paths.
-  - Includes waiver, disclaimer, or relinquishment of **Chapter Six** Rights-Floor protections; interpretation, appeal, or review pathways under **Article XXIII-A** (*Justice Objective and Scope*); constitutionally required **auditability** or **contestability**; or **standing** needed to vindicate those protections.
+  - Includes waiver, disclaimer, or relinquishment of:
+    - **Chapter Six** Rights-Floor protections;
+    - interpretation, appeal, or review pathways under **Article XXIII-A** (*Justice Objective and Scope*);
+    - constitutionally required **auditability** or **contestability**; or
+    - **standing** needed to vindicate those protections.
   - In scope where the condition functions to defeat, narrow, or chill those protections without **Necessity** and **Proportionality** under **Chapter One** and **Chapter Five**, and outside **Chapter Fifteen** procedural-validity rules for adoption instruments themselves.
   - **Ordinary commercial convenience alone** is not a sufficient justification.
 

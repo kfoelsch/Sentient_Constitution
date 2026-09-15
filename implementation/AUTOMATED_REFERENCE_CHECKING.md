@@ -84,6 +84,7 @@ Load-bearing count: 17 targets (plus their tests). If only those pass, citations
 | `ch7-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 7` | CH7-NEST-CANDIDATE | Ranked Chapter Seven packed-list rewrite candidates; advisory; `--strict` to block |
 | `ch8-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 8` | CH8-NEST-CANDIDATE | Ranked Chapter Eight packed-list rewrite candidates; advisory; `--strict` to block |
 | `ch9-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 9` | CH9-NEST-CANDIDATE | Ranked Chapter Nine packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch10-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 10` | CH10-NEST-CANDIDATE | Ranked Chapter Ten packed-list rewrite candidates; advisory; `--strict` to block |
 | `subarticle-gloss-audit` | `tools/subarticle_gloss_audit.py` | GLOSS-SUBARTICLE | Chapter Six `*In plain terms:*` on `#### Article` |
 | `readability-audit` | `tools/readability_audit.py` | — | `make regression-full`; optional `--with-subarticle-gloss` |
 | `owner-discipline-audit` | `tools/owner_discipline_audit.py` | OWNER-SINGLE-HOME | Heuristic O/M/A/C outside Ch5; use `--strict` to block |

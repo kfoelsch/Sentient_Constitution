@@ -304,8 +304,21 @@ After final designation under **section 3** with these safeguards met, apply [§
 
 After final designation under **section 3** with **section 4** safeguards met, every disposition must be tested for the same two parallel outputs Chapter Nine requires under [§4.1](core_09_standing_integration.md#41-remedy-and-correction) (*Remedy and correction*):
 
-- **Remedy:** acknowledgment, repair, restoration, compensation, substitute safeguards where literal repair is impossible, or comparable redress for affected sentients and interests.
-- **Correction:** changes to conduct, systems, records, incentives, supervision, safeguards, or role eligibility needed to address the cause and stop continuation — including structural correction of tainted governance, systems, records, and decisions implicated by the designation.
+- **Remedy:**
+  - acknowledgment;
+  - repair;
+  - restoration;
+  - compensation;
+  - substitute safeguards where literal repair is impossible; or
+  - comparable redress for affected sentients and interests.
+- **Correction:** changes needed to address the cause and stop continuation — including structural correction of tainted governance, systems, records, and decisions implicated by the designation — covering:
+  - conduct;
+  - systems;
+  - records;
+  - incentives;
+  - supervision;
+  - safeguards; or
+  - role eligibility.
 
 Fixing the cause does not cancel the duty to repair those harmed. Repairing those harmed does not cancel the duty to fix the cause, keep needed safeguards in place, or keep prevention locks in place while recurrence risk remains live. Designation seriousness does not erase either duty.
 
@@ -355,7 +368,13 @@ Fixing the cause does not cancel the duty to repair those harmed. Repairing thos
 After final designation under **section 3** with **section 4** safeguards met:
 
 - **Mandatory special lock:** Chapter Nine must attach the **Anti-Constitutional Trust Lock** under [§5.5](core_09_standing_integration.md#55-special-locks). This chapter does not restate Trust Lock pathway lists, corrective conditions, or restoration rules; those remain in Chapter Nine.
-- **Attachment-field discipline:** Any ACM-triggered standing lock, liberty restriction, or imprisonment order must be recorded using the [Chapter Nine §5.1](core_09_standing_integration.md#51-definition-and-attachment) attachment fields — blocked or limited pathway; risk reduced; protected subjects or interests; corrective conditions; review route; and reassessment point — and must satisfy Chapter Nine lock design and enforcement under [§5](core_09_standing_integration.md#5-lock-design-and-enforcement).
+- **Attachment-field discipline:** Any ACM-triggered standing lock, liberty restriction, or imprisonment order must satisfy Chapter Nine lock design and enforcement under [§5](core_09_standing_integration.md#5-lock-design-and-enforcement), and must be recorded using the [Chapter Nine §5.1](core_09_standing_integration.md#51-definition-and-attachment) attachment fields:
+  - blocked or limited pathway;
+  - risk reduced;
+  - protected subjects or interests;
+  - corrective conditions;
+  - review route; and
+  - reassessment point.
 - **Imprisonment for anti-constitutional misconduct:** Sentients with verified anti-constitutional misconduct must be imprisoned when imprisonment is necessary to stop further constitutional harm — including conduct that functions as insurgency within the general population.
   - This requirement expressly applies to sentients who refuse rehabilitation offered on fair terms.
   - It applies to repeated or sustained patterns assessed as a unified incident under **section 2**.
