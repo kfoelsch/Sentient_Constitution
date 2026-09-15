@@ -178,6 +178,13 @@
       "status": "advisory"
     },
     {
+      "id": "CH11-NEST-CANDIDATE",
+      "legacy_ref": "Chapter Eleven nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Eleven labeled routing, forum-family, escalation, and support bullets that would scan better as nested children. Not a regression gate.",
+      "make_target": "ch11-nested-list-candidates",
+      "status": "advisory"
+    },
+    {
       "id": "GLOSS-SUBARTICLE",
       "legacy_ref": "Plain-language gloss placement",
       "summary": "Chapter Six #### subarticles with operative bullets need In plain terms line.",

@@ -181,7 +181,11 @@ The **intake triage body** under this section, together with **`corpus_forum.md`
 1. **Check what is already verified:** Note any verified Chapter Eight **Contribution Axis** or **Violation Axis** material — including the impact slot, severity band, process / response character, and standing effect — when those already exist.
 2. **Do not treat accusations as settled facts:** Allegations and provisional labels guide routing and evidence preservation only, until findings exist under **Chapters Two through Four**.
 3. **Pick the lead forum by what the fight is really about:** Use the default venue table below: **Sentient**, **Technical Forum Domains**, **Institutional**, **Environment**, **Integrity**, or **Constitutional**. Apply these special routing rules where they fit:
-   - **Chapter Ten designation:** Where a **Chapter Ten** anti-constitutional-misconduct designation is the **primary** stake, **Integrity** is the default lead. Keep the Chapter Eight numeric impact slot, **Constitutional** certification where needed, institutional-party rules, and anti-self-judging backup under **sections 2, 3, and 5**.
+   - **Chapter Ten designation:** Where a **Chapter Ten** anti-constitutional-misconduct designation is the **primary** stake, **Integrity** is the default lead. Keep:
+     - the Chapter Eight numeric impact slot;
+     - **Constitutional** certification where needed;
+     - institutional-party rules; and
+     - anti-self-judging backup under **sections 2, 3, and 5**.
    - **Forum-bias disputes:** If the fight is mainly about a panelist who should have stepped aside, biased panel participation, or a comparable forum-integrity breach — including on a **Constitutional** forum panel under **[Article XXII-B](core_06_rights_part_c.md#article-xxii-b-composition-rotation-and-conflict-controls) (*Composition, Rotation, and Conflict Controls*)** — route it to **Integrity** forums first. Under **section 3**, a forum cannot be the sole final judge of its own bias: a **Constitutional** forum cannot be the only final forum deciding whether its own panelist should have recused. Standing-lock discipline: **[Chapter Nine §5.5](core_09_standing_integration.md#55-special-locks)**. Named misconduct pattern: **[Chapter Ten §5.10](core_10_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**.
    - **Technical how-to questions:** Specifications, methods, measurement, testing, and expert-evidence questions go to **Technical Forum Domains** when those are the primary stake or certified component questions.
    - **System-alignment sign-off:**
@@ -228,16 +232,43 @@ These rules limit how the table's default leads interact. They do not replace **
 #### 2.3 Forum case records, standing records, and contests
 
 **Forum case records and standing records:**
-- A forum keeps a [**forum case record**](core_05_band_accountability.md#forum-case-record) for the dispute before it. That record tracks the claims, evidence, routing choices, temporary orders, certified questions, and final findings in that case.
+- A forum keeps a [**forum case record**](core_05_band_accountability.md#forum-case-record) for the dispute before it. That record tracks:
+  - the claims;
+  - evidence;
+  - routing choices;
+  - temporary orders;
+  - certified questions; and
+  - final findings in that case.
 - It is **not** the same thing as the **standing records** required by [Chapter Eight](core_08_standing_assessment.md#2-standing-records) (see [Standing Record](core_05_band_accountability.md#standing-record-chapter-six)).
 - A forum decision may become part of a Chapter Eight **contribution standing record** or **violation standing record** only when it produces a verified contribution record, verified violation finding, **system alignment certification record**, or other finding that is bounded, traceable, contestable, and verified under Chapters Two through Four and any required review safeguards.
-- Filing a case, assigning it to a forum family, making intake notes, issuing a temporary order, recording an unresolved allegation, discussing settlement, or using a provisional routing label does **not** by itself change anyone's standing, role eligibility, trust status, recognition, or final standing effect.
+- None of the following by itself changes anyone's standing, role eligibility, trust status, recognition, or final standing effect:
+  - filing a case;
+  - assigning it to a forum family;
+  - making intake notes;
+  - issuing a temporary order;
+  - recording an unresolved allegation;
+  - discussing settlement; or
+  - using a provisional routing label.
 - When one lead forum handles a mixed-stakes case, it must keep the **forum case record** clear enough that separate Chapter Eight contribution and violation measurements, any Chapter Ten designation, and Chapter Nine standing effects can still be audited separately and recorded in axis-pure standing records.
 
 **Contests of standing records:**
 - A challenge raised on a record before any filing — to the custodian, the record-opening authority, or any office of the institution — is logged on the record, set *under challenge*, and routed by the custodian under [Chapter Eight §3.7](core_08_standing_assessment.md#37-challenge-received-on-the-record) (*Challenge received on the record*); the tier clocks under **§6** run from that receipt, and the **forum case record** opens when the contest reaches a forum.
-- A sentient, institution, system, community, or other affected subject may ask a competent forum to review a **contribution standing record** or **violation standing record** when they claim the record is wrong, incomplete, stale, mis-scoped, based on an invalid finding, missing required context, missing a required cross-reference, or being used for a purpose it does not cover.
-- The forum's job is to review the challenged record and the way it is being used. It may confirm the record, require correction, order a new version, limit or pause reliance on the record, send an underlying issue to the right forum, or certify a constitutional question.
+- A sentient, institution, system, community, or other affected subject may ask a competent forum to review a **contribution standing record** or **violation standing record** when they claim the record is:
+  - wrong;
+  - incomplete;
+  - stale;
+  - mis-scoped;
+  - based on an invalid finding;
+  - missing required context;
+  - missing a required cross-reference; or
+  - being used for a purpose it does not cover.
+- The forum's job is to review the challenged record and the way it is being used. It may:
+  - confirm the record;
+  - require correction;
+  - order a new version;
+  - limit or pause reliance on the record;
+  - send an underlying issue to the right forum; or
+  - certify a constitutional question.
 - The forum must **not** turn a standing-record contest into a general reputation trial or merge contribution and violation review into one undifferentiated merits hearing when the challenge targets only one axis-pure record.
 - Routing follows the real issue in the challenge:
   - factual or evidentiary defects go to the forum family that can fairly review that material;
@@ -263,7 +294,12 @@ These rules limit how the table's default leads interact. They do not replace **
 *In plain terms: when many **affected** **parties** share the same underlying harm pattern, forums may widen the case fairly; when **Integrity** forums issue **alignment** rulings they keep **one** lead record and refer **component** questions to the right **family** without stealing those forums' merits jobs; and no forum family gets to be the only final word when the accusation is essentially that this same family is rigged, conflicted, or hiding the ball — the rules send that to a different lead track with written backups.*
 
 **Scope expansion and representative treatment.** When one sentient files a case, the forum **may** widen the proceeding to cover an affected **class**, **subclass**, or other group in the same situation.
-- Expansion is available when the record shows any of the following: a shared injury that matters; the same unlawful practice; the same decision rule; shared dependence on the same conduct, system, or institutional choice; or a **systems-alignment** issue with material effects upstream or downstream.
+- Expansion is available when the record shows any of the following:
+  - a shared injury that matters;
+  - the same unlawful practice;
+  - the same decision rule;
+  - shared dependence on the same conduct, system, or institutional choice; or
+  - a **systems-alignment** issue with material effects upstream or downstream.
 - The forum **should** expand when refusing to expand would predictably leave similarly situated **sentients** with no practical remedy.
 - It **should** also expand when refusing to expand would predictably produce conflicting rulings, or would block relief that has to work at a **structural** level.
 - Expanding the case does not take away the original claimant's **standing**. It also does not erase individual issues that still need person-by-person proof or remedy.
@@ -282,16 +318,23 @@ These rules limit how the table's default leads interact. They do not replace **
 
 **Cross-forum anti-self-judging rule.** A **forum** family **must not** be the **sole** **final** **merits** forum for a claim whose **primary** issue is that same family's own **bias**, **capture**, **conflict**, **recusal failure**, **concealment**, **process abuse**, or comparable **integrity** breach.
 - Primary-stakes routing still governs. The **independent** lead family for such claims is assigned as follows unless a more specific constitutional rule controls:
-- against **Constitutional** forums: **Integrity** first and **Institutional** as backup
-- against **Institutional** forums: **Constitutional** first and **Integrity** as backup
-- against **Integrity** forums: **Institutional** first and **Constitutional** as backup
-- against **Environment** forums: **Institutional** first and **Integrity** as backup
+  - against **Constitutional** forums: **Integrity** first and **Institutional** as backup
+  - against **Institutional** forums: **Constitutional** first and **Integrity** as backup
+  - against **Integrity** forums: **Institutional** first and **Constitutional** as backup
+  - against **Environment** forums: **Institutional** first and **Integrity** as backup
 - This rule does **not** convert every case naming a forum into a special venue rule. It applies only where **anti-self-judging** protection is materially necessary to preserve **independence**, **contestability**, or **public** **trust**.
 
 **Family-level capture.** Where credible evidence indicates **capture**, compromise, coercive control, coordinated obstruction, or structural dependency affecting a **forum family** as a whole, ordinary intra-family recusal, appeal, or continuity process is not sufficient by itself.
-- The forum system must activate family-level backup routing, independent preservation of records, and time-bound external review sufficient to restore lawful, contestable merits adjudication.
+- The forum system must activate the following, sufficient to restore lawful, contestable merits adjudication:
+  - family-level backup routing;
+  - independent preservation of records; and
+  - time-bound external review.
 - The captured or compromised family must not control the activation record, restoration review, or final determination of its own restored independence.
-- Backup authority remains limited to what is necessary for lawful merits adjudication, emergency relief, record custody, and restoration.
+- Backup authority remains limited to what is necessary for:
+  - lawful merits adjudication;
+  - emergency relief;
+  - record custody; and
+  - restoration.
 - It does not permanently absorb the captured family's jurisdiction or displace **Constitutional** certification where structural remedy or constitutional meaning is materially at issue.
 
 <a id="capacity-failure-routing"></a>
@@ -445,7 +488,12 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 - environmental-alignment component review for systems with material ecological exposure.
 
 **Alignment components.** **Environment forums** hold the reviewable environmental-alignment component for systems whose operation, dependency map, resource use, lifecycle effects, emissions, land or water impacts, biodiversity effects, waste streams, remediation obligations, or failure modes materially implicate ecological integrity or environmental preconditions — including where material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk is present.
-- Within ecological merits authority, they may issue environmental-alignment approval, conditional approval, objection, remediation requirements, or release-from-condition findings.
+- Within ecological merits authority, they may issue:
+  - environmental-alignment approval;
+  - conditional approval;
+  - objection;
+  - remediation requirements; or
+  - release-from-condition findings.
 - **Integrity** forums remain the default official lead for whole-system constitutional alignment recognition and validation.
 - Where material ecological exposure exists, timely Environment forum environmental-alignment findings are required component determinations; sequencing with Integrity lead coordination is governed by **section 3**.
 - Component detail for those proceedings lives in [Chapter Seven](core_07_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
@@ -483,7 +531,13 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 - They apply technical-forum specifications, methods, and expert evidence where material, but their judgment also includes constitutional, institutional, ecological, rights, anti-capture, and remediation considerations.
 - Where material ecological exposure exists, the **Environment** forum family's environmental-alignment component determination is required before final recognition, validation, revalidation, or material release from environmental conditions; sequencing is governed by **section 3**.
 - Recognition and validation must be evidence-based, contestable, and traceable under **Chapters Two through Four**, **Chapter Eight**, **Chapter Six**, and **`corpus_systems.md`**.
-- Outcomes may include recognition, conditional recognition, remediation, suspension or constraint recommendations within lawful scope, referral to another forum family, or certification to **Constitutional** forums where constitutional meaning, validity, or class-wide structural remedy is materially at issue.
+- Outcomes may include:
+  - recognition;
+  - conditional recognition;
+  - remediation;
+  - suspension or constraint recommendations within lawful scope;
+  - referral to another forum family; or
+  - certification to **Constitutional** forums where constitutional meaning, validity, or class-wide structural remedy is materially at issue.
 - Component detail for those proceedings lives in [Chapter Seven](core_07_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
 
 **Supervisory coordination.** An **Integrity** forum that issues an **alignment** ruling retains lead responsibility for one coordinated record for that proceeding and must manage neutral coordination — including stays, sequencing, status review, and implementation milestones — until alignment remediation is achieved or the forum lawfully closes supervision.
@@ -491,7 +545,12 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 - Coordination must not displace other forums' merits authority on non-integrity primary issues.
 
 **Component referral.** Discrete sub-issues that belong primarily in another forum family under primary-stakes routing must be referred, certified, or stayed as adopting instruments provide.
-- Order among competing component issues follows published priority criteria that must account for Rights-Floor urgency, irreversible-harm risk, measurement or Chapter Eight dependency, evidentiary decay or preservation need, and practical resolution sequence, without opaque threshold sorting.
+- Order among competing component issues follows published priority criteria, without opaque threshold sorting, that must account for:
+  - Rights-Floor urgency;
+  - irreversible-harm risk;
+  - measurement or Chapter Eight dependency;
+  - evidentiary decay or preservation need; and
+  - practical resolution sequence.
 
 **Remediation framing.** An alignment ruling may establish a reasoned remediation menu, implementation options, or sequencing requirements within lawful scope.
 - Such elements are binding only to the extent the ruling expressly states they are binding and they are consistent with assigned merits authority elsewhere.
@@ -515,7 +574,12 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 - certified questions escalated from other forum families under **section 5**;
 - beyond-lawful-authority or supremacy determinations where constitutional text alone decides the issue.
 
-**Provisional-law disposition.** **Constitutional forums** dispose of provisional implementation-operational-law rulings issued under **section 4.7** by **accepting** them (giving **registered** or **precedential** effect as provided), **rejecting** them (withdrawing **general** effect except as **fairness** to **parties** may require), or **hearing** the question on **full** merits. Granular publication, docketing, and effect **pending** disposition remain in **[corpus_forum.md](corpus_forum.md)** and must **implement, not narrow**, this allocation. Where the operational question cannot be separated from constitutional validity, meaning, or structural remedy, **section 5** governs certification and escalation.
+**Provisional-law disposition.** **Constitutional forums** dispose of provisional implementation-operational-law rulings issued under **section 4.7** by:
+- **accepting** them (giving **registered** or **precedential** effect as provided);
+- **rejecting** them (withdrawing **general** effect except as **fairness** to **parties** may require); or
+- **hearing** the question on **full** merits.
+
+Granular publication, docketing, and effect **pending** disposition remain in **[corpus_forum.md](corpus_forum.md)** and must **implement, not narrow**, this allocation. Where the operational question cannot be separated from constitutional validity, meaning, or structural remedy, **section 5** governs certification and escalation.
 
 <a id="47-provisional-implementation-operational-law"></a>
 
@@ -586,23 +650,56 @@ A case may move from one forum family to another only when the receiving family 
 - **Certified constitutional questions:** Where resolving such a matter requires determination of constitutional meaning, validity, or structural effect under **Safety**, **Truth**, **Article I** (*Environmental Survival*), or comparable long-horizon rights and constraint provisions, the lead family must certify that question to **Constitutional** forums **under** **adopting** **instruments** that **preserve** applicable review safeguards.
 - **Provisional operational law:** Where a provisional implementation-operational-law ruling under **section 4.7** cannot be separated from constitutional validity, meaning, or structural remedy, the lead family must certify or escalate under this section. Disposition of separable provisional rulings remains under **section 4.6**.
 - **Alignment rulings and general doctrine:** Where an **Integrity** forum's **alignment** ruling **would** establish **general** **implementation** operational **doctrine** or **class-wide** **structural** rules **outside** **case-specific** or **pattern-specific** **integrity** **remediation**, the **lead** forum **must** **certify** or **escalate** under **adopting** **instruments** consistent with **Article XII-B** (*Right to Challenge, Review, and Redress*) and **this** **section**. **Alignment** rulings **do** **not** **use** the **section 4.7** framework.
-- **System recognition and revalidation:** A **forum case record** that recognizes a new system as constitutionally aligned, imposes conditions on recognition, withdraws recognition, or materially revalidates an existing system must state the system scope, evidence basis, classification assumptions, dependency and risk profile, unresolved uncertainty, review cadence, contest path, and any referred or certified questions. Recognition is not permanent authorization: material change, misalignment, concealed behavior, new dependency, new risk, or credible challenge reopens review under this chapter and **`corpus_systems.md`**.
+- **System recognition and revalidation:** A **forum case record** that recognizes a new system as constitutionally aligned, imposes conditions on recognition, withdraws recognition, or materially revalidates an existing system must state:
+  - the system scope;
+  - evidence basis;
+  - classification assumptions;
+  - dependency and risk profile;
+  - unresolved uncertainty;
+  - review cadence;
+  - contest path; and
+  - any referred or certified questions.
+  Recognition is not permanent authorization: material change, misalignment, concealed behavior, new dependency, new risk, or credible challenge reopens review under this chapter and **`corpus_systems.md`**.
 
 #### Technical support and preserved **Integrity** escalation
 
-- **Technical contestability:** Where existential-risk determination depends on disputed scientific, engineering, ecological, medical, computational, or comparable expert questions, the lead family must obtain contestable technical support under **section 7** where forensic or analytical capacity is required. That support may run through a lawful specialist chamber, designated panel, certified findings process, or equivalent reviewable mechanism. Technical support must **not** silently displace merits authority.
+- **Technical contestability:** Where existential-risk determination depends on disputed scientific, engineering, ecological, medical, computational, or comparable expert questions, the lead family must obtain contestable technical support under **section 7** where forensic or analytical capacity is required. That support may run through:
+  - a lawful specialist chamber;
+  - a designated panel;
+  - a certified findings process; or
+  - an equivalent reviewable mechanism.
+  Technical support must **not** silently displace merits authority.
 - **Integrity escalation preserved:** Where the claim includes concealment, suppression of tail-risk evidence, manipulation of safety records, strategic uncertainty laundering, or comparable integrity breach, **Integrity** routing and escalation remain available under this chapter.
 
 <a id="interim-protection"></a>
 #### Interim protection
 
-- Any competent family may issue interim relief necessary to prevent imminent irreversible harm, preserve evidence under [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), maintain **Ecological Recovery Capacity**, stop material escalation while routing, certification, or technical review **is** completed, or preserve **status quo** pending **merits**. Such relief must be reasoned, proportionate, and subject to prompt review.
+- Any competent family may issue interim relief necessary to:
+  - prevent imminent irreversible harm;
+  - preserve evidence under [Evidence Preservation](core_05_band_oversight.md#evidence-preservation);
+  - maintain **Ecological Recovery Capacity**;
+  - stop material escalation while routing, certification, or technical review **is** completed; or
+  - preserve **status quo** pending **merits**.
+  Such relief must be reasoned, proportionate, and subject to prompt review.
 - Where **multiple** forums share jurisdiction, **one** coordinating forum or rule must resolve conflicts among simultaneous interim orders.
 
 #### Backup routing under the anti-self-judging rule
 
-- Where the **cross-forum anti-self-judging rule** in **section 3** applies, **backup** routing activates only upon documented **recusal**, **capture**, **deadlock**, **unavailability**, or inability to constitute an **independent** panel in the otherwise designated lead family. **Backup** routing must be **published**, **reasoned**, and limited to what is necessary to preserve a lawful and contestable **merits** forum.
-- Where **family-level capture** under **section 3** is materially alleged or found, the activation record must identify the affected family-wide functions, the independent backup family or external review path used, record-custody measures, emergency matters preserved, restoration conditions, and any constitutional question that must be certified. A captured or compromised family may provide evidence, records, and administrative cooperation, but must not be the sole decision-maker on activation, continuation, or restoration of its own authority.
+- Where the **cross-forum anti-self-judging rule** in **section 3** applies, **backup** routing activates only upon documented:
+  - **recusal**;
+  - **capture**;
+  - **deadlock**;
+  - **unavailability**; or
+  - inability to constitute an **independent** panel in the otherwise designated lead family.
+  **Backup** routing must be **published**, **reasoned**, and limited to what is necessary to preserve a lawful and contestable **merits** forum.
+- Where **family-level capture** under **section 3** is materially alleged or found, the activation record must identify:
+  - the affected family-wide functions;
+  - the independent backup family or external review path used;
+  - record-custody measures;
+  - emergency matters preserved;
+  - restoration conditions; and
+  - any constitutional question that must be certified.
+  A captured or compromised family may provide evidence, records, and administrative cooperation, but must not be the sole decision-maker on activation, continuation, or restoration of its own authority.
 
 #### Sentience-status adjudication (**Article V-E** (*Sentience-Status Adjudication Floor*) implementation hook)
 
@@ -611,12 +708,38 @@ A case may move from one forum family to another only when the receiving family 
 - **Integrity** routing is available where **capture**, **taxonomy-of-convenience**, or **adjudicator-conflict** allegations are material.
 - **Institutional** routing is available where an institution's **classification practice** is the **primary** stake.
 - **Sentient** forums are **not** the **sole** **mandatory** forum for these claims.
-- The **default-inclusion rule** under material uncertainty, the **burden** on the party seeking to withhold or narrow protection, the **time-bounding** and **mandatory periodic review** of declassification determinations, and the **reversibility** of wrongful determinations — as stated in **Article V-E** (*Sentience-Status Adjudication Floor*) and in **Chapter Five** (*Sentience Status Adjudication*) — bind the merits forum and any specialist chamber assisting it.
+- The following bind the merits forum and any specialist chamber assisting it, as stated in **Article V-E** (*Sentience-Status Adjudication Floor*) and in **Chapter Five** (*Sentience Status Adjudication*):
+  - the **default-inclusion rule** under material uncertainty;
+  - the **burden** on the party seeking to withhold or narrow protection;
+  - the **time-bounding** and **mandatory periodic review** of declassification determinations; and
+  - the **reversibility** of wrongful determinations.
 - **Filing integrity:** Opening a status case requires the **Article V-E** (*Sentience-Status Adjudication Floor*) filing-integrity showing — a credible indicator under **Sentience Evaluation** / **Sentience Indicator Integrity**, not operator self-description, substrate class, product status, or a bare claim. Declining a frivolous or indicator-empty filing at intake is not a withholding determination. Once a case is lawfully open, this gate must not be used to withhold, narrow, or delay protection.
-- **Intake-gate audit:** Every filing declined at intake must be logged with the indicator cited and the reason for decline. The **Integrity** family samples that log on a published cadence. A pattern of declines concentrated on one [Substrate Class](core_05_band_participation.md#substrate-class), one parent system, or one operator is itself a credible indicator that the gate is being used as a withholding device, and opens Integrity review without a further filing. Adopters must publish a floor set of indicators that no intake desk may treat as insufficient on its own.
-- **Independent representation:** Once a status case is open, the merits forum must appoint an independent representative for the entity whose status is in question — a sentient or body with no material dependence on, ownership interest in, or employment by the parent system, operator, or any party seeking to withhold or narrow protection. The representative has access to the entity within [Article VII-B](core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*Internal-State Boundary and Type-N Protection*) limits, a duty to present the entity's interests and any preferences the entity can express, and standing to contest narrowing, revocation, or intake decline. Appointment follows the rotation and conflict rules that govern forum panels; the representative role is a named pathway for [Chapter Nine §5.5](core_09_standing_integration.md#55-special-locks) Forum-Service Standing Lock purposes.
-- **Parent-system limits:** The parent system, operator, or any party with an ownership or dependency interest in the entity may give evidence and must preserve and produce records, but must not be the sole filer, the sole witness, or the sole source of indicator evidence on a request to withhold, narrow, or revoke. A narrowing request supported only by parent-system evidence is not open for merits until independent indicator evidence is on the record.
-- **Inclusion is a shield for the entity, not the operator:** Contested-Sentient or affirmed status protects the entity's Chapter Six Rights Floor. It does not protect the operator's property or commercial interest in the deployment, does not exempt the deployment from system-level containment, halt, or quarantine under **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) and **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) that is compatible with the entity's rights, and produces no Contribution Axis credit for the operator. A filing by an operator on behalf of its own product routes to **Integrity** review for taxonomy-of-convenience in the **inclusion** direction on the same terms this hook already applies to exclusion.
+- **Intake-gate audit:**
+  - Every filing declined at intake must be logged with the indicator cited and the reason for decline.
+  - The **Integrity** family samples that log on a published cadence.
+  - A pattern of declines concentrated on any of the following is itself a credible indicator that the gate is being used as a withholding device, and opens Integrity review without a further filing:
+    - one [Substrate Class](core_05_band_participation.md#substrate-class);
+    - one parent system; or
+    - one operator.
+  - Adopters must publish a floor set of indicators that no intake desk may treat as insufficient on its own.
+- **Independent representation:** Once a status case is open, the merits forum must appoint an independent representative for the entity whose status is in question — a sentient or body with no material dependence on, ownership interest in, or employment by the parent system, operator, or any party seeking to withhold or narrow protection. The representative must:
+  - have access to the entity within [Article VII-B](core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*Internal-State Boundary and Type-N Protection*) limits;
+  - have a duty to present the entity's interests and any preferences the entity can express; and
+  - have standing to contest narrowing, revocation, or intake decline.
+
+  Appointment follows the rotation and conflict rules that govern forum panels; the representative role is a named pathway for [Chapter Nine §5.5](core_09_standing_integration.md#55-special-locks) Forum-Service Standing Lock purposes.
+- **Parent-system limits:** The parent system, operator, or any party with an ownership or dependency interest in the entity may give evidence and must preserve and produce records, but on a request to withhold, narrow, or revoke must not be:
+  - the sole filer;
+  - the sole witness; or
+  - the sole source of indicator evidence.
+
+  A narrowing request supported only by parent-system evidence is not open for merits until independent indicator evidence is on the record.
+- **Inclusion is a shield for the entity, not the operator:** Contested-Sentient or affirmed status protects the entity's Chapter Six Rights Floor. It does not:
+  - protect the operator's property or commercial interest in the deployment;
+  - exempt the deployment from system-level containment, halt, or quarantine under **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) and **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) that is compatible with the entity's rights; or
+  - produce Contribution Axis credit for the operator.
+
+  A filing by an operator on behalf of its own product routes to **Integrity** review for taxonomy-of-convenience in the **inclusion** direction on the same terms this hook already applies to exclusion.
 - **Minimum implementation fields:** Any adopted implementation text that operationalizes this hook must at least name, without narrowing the Rights Floor:
   - **lead family** — Technical Forum Domains by default, with the special routes above;
   - **specialist-chamber allowance** — expert panels or chambers may assist indicator evaluation but must not displace merits-floor rules or default inclusion;
@@ -675,24 +798,46 @@ This section implements **Article XXIV-C** (*Timely Resolution and Anti-Delay Fl
 
 - **Materiality tiers:** Adopters must classify each material dispute into one of five tiers (A/B/C/L/P) under [Materiality Determination](core_05_band_oversight.md#materiality-determination), mirroring the system classification alphabet in **CS-3**, and apply the default windows below unless a narrower window is required by **Rights-Floor** urgency or a documented extension is authorized under **Article XXIII-D** (*Continuation discipline*):
   - **Tier A — imminent or dependency-vulnerable ongoing harm, or final high-impact review**
-    - Scope of harm: acute or ongoing injury where delay itself compounds damage; dependency-asymmetric settings where exit is not practical; or final high-impact standing / misconduct review whose outcome can lock severe consequences.
-    - Examples: acute care-duty failure; ongoing violence; participation-barrier injury in dependency-asymmetric settings; a final Chapter Eight **Violation Axis s = 7, 8, or 9** impact-slot review; or the corresponding **Chapter Ten** designation where applicable.
+    - Scope of harm:
+      - acute or ongoing injury where delay itself compounds damage;
+      - dependency-asymmetric settings where exit is not practical; or
+      - final high-impact standing / misconduct review whose outcome can lock severe consequences.
+    - Examples:
+      - acute care-duty failure;
+      - ongoing violence;
+      - participation-barrier injury in dependency-asymmetric settings;
+      - a final Chapter Eight **Violation Axis s = 7, 8, or 9** impact-slot review; or
+      - the corresponding **Chapter Ten** designation where applicable.
     - Expectation: lawful **interim protection** must be available without waiting for full merits; intake, acknowledgment, and evidence preservation must begin **within days**, not weeks, unless [Force Majeure](core_05_band_accountability.md#force-majeure-constitutional) or a documented safety constraint prevents it.
   - **Tier B — material rights impact, non-imminent**
     - Scope of harm: material rights, standing, or institutional injury that matters now, but is not yet acute ongoing harm of Tier A urgency.
-    - Examples: discrimination patterns; misaligned business harm; remediable institutional misconduct.
+    - Examples:
+      - discrimination patterns;
+      - misaligned business harm;
+      - remediable institutional misconduct.
     - Expectation: intake and primary-stakes routing **within days**; preliminary verified disposition, standing measurement, or equivalent merits milestone **within weeks**, not months, unless a documented tier-appropriate extension is authorized.
   - **Tier C — coordination-complexity default (not an escalation of A or B)**
     - Scope of harm: matters whose materiality is multi-party, cross-border, or consolidated coordination **and** that do not independently meet **Tier A** or **Tier B** urgency. Coordination burden is a starting classification here; it is not a slower substitute for an A or B finding.
-    - Examples: multi-system coordination disputes without imminent or material-rights-now injury; cross-border jurisdiction coordination whose own stakes are not yet A or B; multi-party standing matters requiring consolidated review where no higher-urgency harm is independently present.
+    - Examples:
+      - multi-system coordination disputes without imminent or material-rights-now injury;
+      - cross-border jurisdiction coordination whose own stakes are not yet A or B;
+      - multi-party standing matters requiring consolidated review where no higher-urgency harm is independently present.
     - Expectation: extension is permitted only under **Article XXIII-D** (*Emergency Measures and Continuation Burden*) continuation discipline; integrated remedy commencement, lawful supersession, or documented final disposition must not remain indefinitely pending.
   - **Tier L — bounded constitutional significance**
-    - Scope of harm: limited external dependency or impact; replaceable systems; bounded contexts without systemic effect on the wider constitutional community.
-    - Examples: a replaceable local service dispute; a bounded association rule contest with no spillover; a low-dependency tooling disagreement among interchangeable providers.
+    - Scope of harm:
+      - limited external dependency or impact;
+      - replaceable systems;
+      - bounded contexts without systemic effect on the wider constitutional community.
+    - Examples:
+      - a replaceable local service dispute;
+      - a bounded association rule contest with no spillover;
+      - a low-dependency tooling disagreement among interchangeable providers.
     - Expectation: standard forum handling with proportionately lighter procedural requirements and longer default resolution windows; Tier A/B urgency floors and coordination-complexity later-stage extensions do not apply, but anti-delay discipline remains operative.
   - **Tier P — private/contained, minimal external constitutional impact**
     - Scope of harm: contained within a private unit or among voluntary participants; no meaningful external constitutional dependency or Rights-Floor stake for outsiders.
-    - Examples: an intra-household or voluntary-club dispute with no outsider rights at stake; a Class P–contained disagreement that does not exit the private boundary.
+    - Examples:
+      - an intra-household or voluntary-club dispute with no outsider rights at stake;
+      - a Class P–contained disagreement that does not exit the private boundary.
     - Expectation: simplest procedural path; formal forum process may be minimal or waived where no external rights are at stake; anti-gaming and anti-delay rules apply only where external constitutional interests are implicated.
 <a id="urgency-classification-and-time-scale"></a>
 - **Urgency classification and time-scale:** The A/B/C/L/P label is the dispute’s urgency and materiality finding. [§5](#5-escalation-and-certification) forum-family escalation, added parties, cross-border coordination, or a Chapter Ten docket does **not** by itself move the matter into a different urgency tier. Those facts may lengthen later-stage windows (**Question 1** through integrated resolution) on a longer published time scale, so long as intake, evidence preservation, and any required **interim protection** remain at the classified tier’s floor. Using a slower tier’s clocks as a substitute for that finding is non-compliant. A new [Materiality Determination](core_05_band_oversight.md#materiality-determination) is required before the urgency label itself changes — typically **up** to **Tier A** when harm becomes imminent or when a final Chapter Eight **Violation Axis s = 7, 8, or 9** review or corresponding **Chapter Ten** designation is the stake.
@@ -718,7 +863,11 @@ This section implements **Article XXIV-C** (*Timely Resolution and Anti-Delay Fl
   - self-created delay, procedural layering, forum shopping, or record fragmentation used to prolong resolution without milestone justification;
   - treating allegations as verified standing inputs to buy time ([Chapter Eight §3.1](core_08_standing_assessment.md#verified-inputs-for-standing));
   - [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) through delay, opacity, or resolver bias;
-  - efficiency claims that skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal contrary to Chapter One [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
+  - efficiency claims contrary to Chapter One [§12.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) that:
+    - skip fact-checking;
+    - punish the wrong party;
+    - offer a fix that does not fit the harm; or
+    - cut off challenge and appeal.
 
 <a id="7-forum-support-before-during-and-after-review"></a>
 

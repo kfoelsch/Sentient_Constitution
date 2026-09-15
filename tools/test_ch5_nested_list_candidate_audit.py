@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tests for the Chapter Five through Chapter Ten nested-list candidate finder."""
+"""Tests for the Chapter Five through Chapter Eleven nested-list candidate finder."""
 
 from __future__ import annotations
 
@@ -491,6 +491,59 @@ class NestedListCandidateTests(unittest.TestCase):
         self.assertNotIn("CH7-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH9-NEST-CANDIDATE", buf.getvalue())
+
+    def test_ch11_labeled_semicolon_list_is_flagged(self) -> None:
+        text = """#### 2.3 Forum case records, standing records, and contests
+
+- **Forum case records and standing records:** A forum keeps a forum case record for the dispute before it. That record tracks the claims; evidence; routing choices; temporary orders; certified questions; and final findings in that case.
+"""
+        hits = scan_text(text, chapter=11)
+        self.assertEqual(self._lines(text, min_score=8), [3])
+        self.assertEqual(hits[0].role, "forum-case-records-and-standing-records")
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+
+    def test_ch11_nested_children_are_not_flagged(self) -> None:
+        text = """#### Minimum implementation fields
+
+- **Minimum implementation fields:** Any adopted implementation text that operationalizes this hook must at least name:
+  - lead family;
+  - specialist-chamber allowance; and
+  - filing trigger.
+"""
+        self.assertEqual(scan_text(text, chapter=11), [])
+
+    def test_ch11_unlabeled_words_only_is_skipped(self) -> None:
+        text = """### 3. Transfer, consolidation, and coordination
+
+- This paragraph states a single continuous argument about transfer, consolidation, anti-self-judging, and backup routing without packing a parallel checklist of distinct tests into the line.
+"""
+        filler = " ".join(["clause"] * 70)
+        text = text.replace("without packing", filler + " without packing")
+        self.assertEqual(scan_text(text, chapter=11), [])
+
+    def test_main_chapter_eleven_advisory_exit_zero(self) -> None:
+        buf = StringIO()
+        with patch("sys.stdout", buf):
+            code = main(
+                [
+                    "--root",
+                    str(_TOOLS.parent),
+                    "--chapter",
+                    "11",
+                    "--file",
+                    "core_11_forum.md",
+                    "--top",
+                    "3",
+                ]
+            )
+        self.assertEqual(code, 0)
+        self.assertIn("CH11-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH7-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH9-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH10-NEST-CANDIDATE", buf.getvalue())
 
 
 if __name__ == "__main__":
