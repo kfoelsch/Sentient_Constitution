@@ -110,7 +110,7 @@ La implementación de gobernanza adoptada provee escalamiento, proporcionalidad 
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: Principios: Capítulo Uno [§3.1 Seguridad](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Principios centrales de compensación](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) y [Capítulo Uno §6.1.5 Procedimiento de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Leer con: [Capítulo Diez §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevención — bloqueos anticonstitucionales*; especialización de encarcelamiento).
+- Leer con: [Capítulo Diez §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevención — bloqueos anticonstitucionales*; especialización de encarcelamiento).
 
 </details>
 
@@ -145,7 +145,7 @@ La implementación de gobernanza adoptada provee escalamiento, proporcionalidad 
   - Este requisito aplica de forma expresa a los sencientes que rechazan la rehabilitación ofrecida en términos justos.
   - Aplica cuando las medidas protectoras menos restrictivas no pueden satisfacer la necesidad material de seguridad.
   - Sustituir la privación de la vida, o no imponer el encarcelamiento cuando esta viñeta lo exige, es incumplidor. El encarcelamiento debe satisfacer todos los requisitos conjuntos, las reglas de atribución individualizada y las protecciones de revisión de este Artículo y del **Artículo XXIII-C** (*Regla menos restrictiva y acotada en el tiempo*).
-- **Encarcelamiento por inconducta anticonstitucional:** Se gobierna por el [Capítulo Diez §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevención — bloqueos anticonstitucionales*; especialización de encarcelamiento), sujeto a los requisitos conjuntos, las reglas de atribución individualizada y las protecciones de revisión de este Artículo y del **Artículo XXIII-C** (*Regla menos restrictiva y acotada en el tiempo*).
+- **Encarcelamiento por inconducta anticonstitucional:** Se gobierna por el [Capítulo Diez §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevención — bloqueos anticonstitucionales*; especialización de encarcelamiento), sujeto a los requisitos conjuntos, las reglas de atribución individualizada y las protecciones de revisión de este Artículo y del **Artículo XXIII-C** (*Regla menos restrictiva y acotada en el tiempo*).
 - **Piso de derechos contra la privación irreversible de la vida como medida de justicia:** Los sistemas de justicia estatales, de operador o comparables no deben imponer la privación irreversible de la vida como pena, sanción o disposición de seguridad pública.
   - Donde se exija el encarcelamiento, el **Encarcelamiento por violencia** bajo este Artículo y el encarcelamiento bajo el **Capítulo Diez** §4.1 son las medidas protectoras exigidas; la privación de la vida está prohibida.
   - Este piso no gobierna la decisión de formación libre de un senciente bajo el **Artículo VII-E** (*Discontinuación voluntaria de la propia existencia*). La coerción, el reetiquetado o la conversión por el Estado o el operador de esa elección en un resultado impuesto devuelve el asunto a este piso.
@@ -329,7 +329,7 @@ La [Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-constitutiona
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: Principios: Capítulo Uno [§6.1.5 Prueba de decisión de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override) y [§15 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Leer con: [Capítulo Nueve §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Expresión pública voluntaria de rendición de cuentas*); [Capítulo Diez §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expresión pública voluntaria de rendición de cuentas (anticonstitucional)*).
+- Leer con: [Capítulo Nueve §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Expresión pública voluntaria de rendición de cuentas*); [Capítulo Diez §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expresión pública voluntaria de rendición de cuentas (anticonstitucional)*).
 
 </details>
 
@@ -358,7 +358,7 @@ La [Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-constitutiona
     - riesgo en curso;
     - asimetría material de poder;
     - falta de consentimiento de las partes afectadas.
-- **Expresión pública voluntaria de rendición de cuentas:** Se gobierna por el [Capítulo Nueve §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Expresión pública voluntaria de rendición de cuentas*) en general, y por el [Capítulo Diez §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expresión pública voluntaria de rendición de cuentas (anticonstitucional)*) para la inconducta anticonstitucional verificada, sujeta a las reglas de colisión de derechos y de alineación restaurativa de este Artículo.
+- **Expresión pública voluntaria de rendición de cuentas:** Se gobierna por el [Capítulo Nueve §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Expresión pública voluntaria de rendición de cuentas*) en general, y por el [Capítulo Diez §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expresión pública voluntaria de rendición de cuentas (anticonstitucional)*) para la inconducta anticonstitucional verificada, sujeta a las reglas de colisión de derechos y de alineación restaurativa de este Artículo.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### Artículo XXIV-C: Resolución oportuna y piso contra la demora
 <details>
