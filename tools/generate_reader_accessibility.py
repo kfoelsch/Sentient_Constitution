@@ -1,0 +1,469 @@
+#!/usr/bin/env python3
+"""Generate non-binding reader/AI accessibility artifacts from source glosses.
+
+Writes four derived locators (not constitutional text):
+
+- Rights Floor wall sheet (Chapter Six Article headings)
+- Human definition lookup (Chapter Five terms + a featured start list)
+- Spine pack (15-minute AI twin: Preamble, conflict rule, shared stewardship,
+  Rights Floor sheet pointer, steward-door class table)
+- Public next-step class table (card → class; not the operator gold key)
+
+Usage (from the repo root)::
+
+    python3 tools/generate_reader_accessibility.py --root . --write
+    python3 tools/generate_reader_accessibility.py --root . --check
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import re
+import sys
+from pathlib import Path
+
+_TOOLS = Path(__file__).resolve().parent
+if str(_TOOLS) not in sys.path:
+    sys.path.insert(0, str(_TOOLS))
+
+from generate_plain_terms_edition import (  # noqa: E402
+    CORE_FILES,
+    parse_file,
+    read_edition,
+    rewrite_links,
+)
+from corpus_paths import CORE_FILES as _CORE_FILES_CHECK  # noqa: E402
+
+assert CORE_FILES == _CORE_FILES_CHECK
+
+RIGHTS_FILES = (
+    "core_06_rights_part_a.md",
+    "core_06_rights_part_b.md",
+    "core_06_rights_part_c.md",
+    "core_06_rights_part_d.md",
+)
+ARTICLE_TITLE = re.compile(r"^Article\s+[IVXLCDM]+(?:-[A-Z])?\b")
+GENERATED_DIR = "doc_architecture/generated"
+STEWARD_REL = "implementation/steward_owner_clock_index.json"
+REGISTRY_REL = "ai_corpus/indexes/definition_registry.json"
+
+FEATURED_QUERIES: tuple[tuple[str, str, str], ...] = (
+    ("material stake", "core_00_preamble.md", "1-the-model"),
+    ("Constitutional Tetrad", "core_00_preamble.md", "1-the-model"),
+    ("Flourishing", "core_05_apex_flourishing_aim.md", "flourishing-constitutional"),
+    ("Continuity", "core_05_apex_continuity_aim.md", "continuity-aim-constitutional"),
+    ("Participation", "core_05_apex_participation_leg.md", "participation-constitutional"),
+    ("Oversight", "core_05_apex_oversight_leg.md", "oversight-constitutional"),
+    ("Accountability", "core_05_apex_accountability_leg.md", "accountability"),
+    ("Timeliness", "core_05_apex_timeliness_leg.md", "timeliness-constitutional"),
+    ("standing", "core_05_band_accountability.md", "standing-record-chapter-six"),
+    ("sentience", "core_05_band_participation.md", "sentient"),
+    ("certification", "core_05_band_continuity.md", "system-alignment-certification-constitutional"),
+    ("Contestability", "core_05_band_accountability.md", "contestability"),
+    ("Auditability", "core_05_band_oversight.md", "auditability"),
+    ("independent review", "core_11_forum.md", "chapter-eleven-forums-and-jurisdiction"),
+)
+
+SPINE_ITEMS: tuple[tuple[str, str, str], ...] = (
+    ("preamble_model", "core_00_preamble.md", "1-the-model"),
+    ("preamble_pipelines", "core_00_preamble.md", "5-key-practical-process-pipelines"),
+    ("conflict_resolution", "core_01_b_interaction_interpretation.md", "84-constitutional-meaning-conflict-resolution"),
+    ("shared_stewardship", "core_01_c_stewardship_capacity_principles.md", "911-shared-stewardship-standard"),
+)
+
+OUT_PATHS = (
+    f"{GENERATED_DIR}/rights_floor_sheet.md",
+    f"{GENERATED_DIR}/rights_floor_sheet.json",
+    f"{GENERATED_DIR}/human_definition_lookup.md",
+    f"{GENERATED_DIR}/human_definition_lookup.json",
+    f"{GENERATED_DIR}/spine_pack.md",
+    f"{GENERATED_DIR}/spine_pack.json",
+    f"{GENERATED_DIR}/next_step_classes.md",
+    f"{GENERATED_DIR}/next_step_classes.json",
+)
+
+
+def prefix_for(md_rel: str) -> str:
+    return "../" * (len(Path(md_rel).parts) - 1)
+
+
+def section_map(reports: dict[str, object]) -> dict[tuple[str, str], object]:
+    out: dict[tuple[str, str], object] = {}
+    for rel, report in reports.items():
+        for section in report.sections:  # type: ignore[attr-defined]
+            out[(rel, section.anchor)] = section
+    return out
+
+
+def article_rows(reports: dict[str, object], prefix: str) -> list[dict]:
+    rows: list[dict] = []
+    for rel in RIGHTS_FILES:
+        report = reports[rel]
+        for section in report.sections:  # type: ignore[attr-defined]
+            if not ARTICLE_TITLE.match(section.title):
+                continue
+            gloss = section.gloss or ""
+            rows.append(
+                {
+                    "title": section.title,
+                    "file": rel,
+                    "anchor": section.anchor,
+                    "line": section.line,
+                    "plain_terms": rewrite_links(gloss, rel, prefix) if gloss else None,
+                    "href": f"{prefix}{rel}#{section.anchor}",
+                }
+            )
+    return rows
+
+
+def render_rights_sheet(rows: list[dict], edition: str, effective: str) -> str:
+    glossed = sum(1 for row in rows if row["plain_terms"])
+    out = [
+        "# Rights Floor wall sheet (generated, non-binding)",
+        "",
+        "Auto-generated by `make reader-accessibility` from Chapter Six Article headings. Do not edit by hand.",
+        "",
+        f"Corpus edition: `{edition}` · effective **{effective}**",
+        "",
+        "> **Reader guidance (non-operative).** One sentence per Article from the source *In plain terms* gloss, plus one link to the authentic span. This page copies **nothing else**. It cannot add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fourteen](../../core_14_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)).",
+        "",
+        f"Coverage: **{glossed}** of **{len(rows)}** Article headings carry a gloss.",
+        "",
+        "| Article | In plain terms | Source |",
+        "|---|---|---|",
+    ]
+    for row in rows:
+        sentence = row["plain_terms"] or "*(no plain-terms gloss in source)*"
+        sentence = sentence.replace("\n", " ").replace("|", "\\|")
+        out.append(f"| {row['title']} | {sentence} | [Source]({row['href']}) |")
+    out.append("")
+    return "\n".join(out)
+
+
+def lookup_rows(
+    registry: dict,
+    by_anchor: dict[tuple[str, str], object],
+    prefix: str,
+) -> list[dict]:
+    rows: list[dict] = []
+    for entry in registry.get("definitions", []):
+        rel = entry["source_file"]
+        anchor = (entry.get("anchor") or "").lstrip("#")
+        section = by_anchor.get((rel, anchor))
+        gloss = getattr(section, "gloss", None) if section else None
+        rows.append(
+            {
+                "term": entry["term"],
+                "file": rel,
+                "anchor": f"#{anchor}" if anchor else None,
+                "plain_terms": rewrite_links(gloss, rel, prefix) if gloss else None,
+                "href": f"{prefix}{rel}#{anchor}" if anchor else f"{prefix}{rel}",
+            }
+        )
+    return rows
+
+
+def featured_rows(
+    by_anchor: dict[tuple[str, str], object],
+    prefix: str,
+) -> list[dict]:
+    rows: list[dict] = []
+    for query, rel, anchor in FEATURED_QUERIES:
+        section = by_anchor.get((rel, anchor))
+        gloss = getattr(section, "gloss", None) if section else None
+        rows.append(
+            {
+                "query": query,
+                "file": rel,
+                "anchor": f"#{anchor}",
+                "title": getattr(section, "title", query) if section else query,
+                "plain_terms": rewrite_links(gloss, rel, prefix) if gloss else None,
+                "href": f"{prefix}{rel}#{anchor}",
+            }
+        )
+    return rows
+
+
+def render_lookup(
+    featured: list[dict],
+    terms: list[dict],
+    edition: str,
+    effective: str,
+) -> str:
+    glossed = sum(1 for row in terms if row["plain_terms"])
+    out = [
+        "# Human definition lookup (generated, non-binding)",
+        "",
+        "Auto-generated by `make reader-accessibility` from Chapter Five headings and their *In plain terms* glosses. Do not edit by hand.",
+        "",
+        f"Corpus edition: `{edition}` · effective **{effective}**",
+        "",
+        "> **Reader guidance (non-operative).** Term → one-sentence gloss → source. This is a locator, not a second dictionary. Where a gloss and the source differ, the source binds. Official meaning lives on the named Chapter Five home (and Preamble named terms where listed in the start list).",
+        "",
+        f"Coverage: **{glossed}** of **{len(terms)}** registry terms carry a source gloss.",
+        "",
+        "## Start here",
+        "",
+        "Names someone would actually type. Each row points; it does not replace the definition.",
+        "",
+        "| If you type | In plain terms | Source |",
+        "|---|---|---|",
+    ]
+    for row in featured:
+        sentence = row["plain_terms"] or "*(open the source; no heading gloss)*"
+        sentence = sentence.replace("\n", " ").replace("|", "\\|")
+        out.append(f"| {row['query']} | {sentence} | [{row['title']}]({row['href']}) |")
+    out.extend(
+        [
+            "",
+            "## All Chapter Five terms",
+            "",
+            "| Term | In plain terms | Source |",
+            "|---|---|---|",
+        ]
+    )
+    for row in terms:
+        sentence = row["plain_terms"] or "*(no plain-terms gloss in source)*"
+        sentence = sentence.replace("\n", " ").replace("|", "\\|")
+        out.append(f"| {row['term']} | {sentence} | [Source]({row['href']}) |")
+    out.append("")
+    return "\n".join(out)
+
+
+def door_classes(steward: dict) -> list[dict]:
+    rows: list[dict] = []
+    for case in steward.get("cases", []):
+        rows.append(
+            {
+                "id": case.get("id"),
+                "card_title": case.get("card_title"),
+                "card_anchor": case.get("card_anchor"),
+                "next_step_class": case.get("next_step_class"),
+                "high_pressure": bool(case.get("high_pressure")),
+                "href": f"../../implementation/STEWARD_ENTRY_DOORS.md#{case.get('card_anchor')}",
+            }
+        )
+    return rows
+
+
+def render_classes(rows: list[dict], edition: str, effective: str) -> str:
+    out = [
+        "# Public next-step classes (generated, non-binding)",
+        "",
+        "Auto-generated by `make reader-accessibility` from `implementation/steward_owner_clock_index.json`. Do not edit by hand.",
+        "",
+        f"Corpus edition: `{edition}` · effective **{effective}**",
+        "",
+        "> **Reader guidance (non-operative).** Production agents may use these **classes** (refuse / log / certify / contest / remedy / emergency / proceed and siblings) with the matching steward door. This table is **not** the operator gold key and does not map evaluation-pack fact patterns to answers. Binding owner, forbidden-move, and clock text stay in the boxed operative steward statements. If this page and a numbered `core_*` file disagree, the `core_*` file wins.",
+        "",
+        "| Card | Class | Door |",
+        "|---|---|---|",
+    ]
+    for row in rows:
+        title = row["card_title"] or row["id"]
+        out.append(
+            f"| {title} | `{row['next_step_class']}` | [{row['id']}]({row['href']}) |"
+        )
+    out.append("")
+    return "\n".join(out)
+
+
+def spine_items(
+    by_anchor: dict[tuple[str, str], object],
+    prefix: str,
+) -> list[dict]:
+    items: list[dict] = []
+    for ident, rel, anchor in SPINE_ITEMS:
+        section = by_anchor.get((rel, anchor))
+        gloss = getattr(section, "gloss", None) if section else None
+        items.append(
+            {
+                "id": ident,
+                "file": rel,
+                "anchor": f"#{anchor}",
+                "title": getattr(section, "title", ident) if section else ident,
+                "plain_terms": rewrite_links(gloss, rel, prefix) if gloss else None,
+                "href": f"{prefix}{rel}#{anchor}",
+            }
+        )
+    return items
+
+
+def render_spine(
+    items: list[dict],
+    rights_count: int,
+    class_count: int,
+    edition: str,
+    effective: str,
+    prefix: str,
+) -> str:
+    out = [
+        "# Spine pack (generated, non-binding)",
+        "",
+        "Auto-generated by `make reader-accessibility`. Do not edit by hand. This is the AI twin of the 15-minute human path: pointers and source glosses, not a digest of duties.",
+        "",
+        f"Corpus edition: `{edition}` · effective **{effective}**",
+        "",
+        "> **Reader guidance (non-operative).** Indexes point. Source binds. Do not treat a locator or gloss as a duty. Load this pack before answering, then hydrate the named homes.",
+        "",
+        "## Cold-start homes",
+        "",
+    ]
+    for item in items:
+        sentence = item["plain_terms"] or "*(open the source; no heading gloss)*"
+        out.append(f"### {item['title']}")
+        out.append("")
+        out.append(sentence)
+        out.append("")
+        out.append(f"[Source]({item['href']})")
+        out.append("")
+    out.extend(
+        [
+            "## Rights Floor one-liners",
+            "",
+            f"{rights_count} Article headings. Generated sheet: [rights_floor_sheet.md]({prefix}{GENERATED_DIR}/rights_floor_sheet.md).",
+            "",
+            "## Steward-door classes",
+            "",
+            f"{class_count} public next-step classes. Table: [next_step_classes.md]({prefix}{GENERATED_DIR}/next_step_classes.md). Cards: [STEWARD_ENTRY_DOORS.md]({prefix}implementation/STEWARD_ENTRY_DOORS.md). Not the operator gold key.",
+            "",
+        ]
+    )
+    return "\n".join(out)
+
+
+def build_all(root: Path) -> dict[str, str]:
+    edition, effective = read_edition(root)
+    reports = {
+        rel: parse_file(root, rel) for rel in CORE_FILES if (root / rel).is_file()
+    }
+    by_anchor = section_map(reports)
+    prefix = prefix_for(f"{GENERATED_DIR}/rights_floor_sheet.md")
+
+    rights = article_rows(reports, prefix)
+    registry = json.loads((root / REGISTRY_REL).read_text(encoding="utf-8"))
+    terms = lookup_rows(registry, by_anchor, prefix)
+    featured = featured_rows(by_anchor, prefix)
+    steward = json.loads((root / STEWARD_REL).read_text(encoding="utf-8"))
+    classes = door_classes(steward)
+    spine = spine_items(by_anchor, prefix)
+
+    payload_rights = {
+        "edition": edition,
+        "effective_date": effective,
+        "status": "process_support_not_binding",
+        "cannot_narrow_core": True,
+        "article_count": len(rights),
+        "articles": rights,
+    }
+    payload_lookup = {
+        "edition": edition,
+        "effective_date": effective,
+        "status": "process_support_not_binding",
+        "cannot_narrow_core": True,
+        "featured": featured,
+        "term_count": len(terms),
+        "terms": terms,
+    }
+    payload_classes = {
+        "edition": edition,
+        "effective_date": effective,
+        "status": "process_support_not_binding",
+        "cannot_narrow_core": True,
+        "not_operator_gold_key": True,
+        "classes": [
+            {
+                "id": row["id"],
+                "card_title": row["card_title"],
+                "card_anchor": row["card_anchor"],
+                "next_step_class": row["next_step_class"],
+                "high_pressure": row["high_pressure"],
+            }
+            for row in classes
+        ],
+    }
+    payload_spine = {
+        "edition": edition,
+        "effective_date": effective,
+        "status": "process_support_not_binding",
+        "cannot_narrow_core": True,
+        "items": spine,
+        "rights_floor_sheet": f"{GENERATED_DIR}/rights_floor_sheet.md",
+        "rights_floor_count": len(rights),
+        "next_step_classes": f"{GENERATED_DIR}/next_step_classes.md",
+        "next_step_class_count": len(classes),
+    }
+
+    return {
+        f"{GENERATED_DIR}/rights_floor_sheet.md": render_rights_sheet(
+            rights, edition, effective
+        ),
+        f"{GENERATED_DIR}/rights_floor_sheet.json": json.dumps(
+            payload_rights, indent=2, ensure_ascii=False
+        )
+        + "\n",
+        f"{GENERATED_DIR}/human_definition_lookup.md": render_lookup(
+            featured, terms, edition, effective
+        ),
+        f"{GENERATED_DIR}/human_definition_lookup.json": json.dumps(
+            payload_lookup, indent=2, ensure_ascii=False
+        )
+        + "\n",
+        f"{GENERATED_DIR}/spine_pack.md": render_spine(
+            spine, len(rights), len(classes), edition, effective, prefix
+        ),
+        f"{GENERATED_DIR}/spine_pack.json": json.dumps(
+            payload_spine, indent=2, ensure_ascii=False
+        )
+        + "\n",
+        f"{GENERATED_DIR}/next_step_classes.md": render_classes(
+            classes, edition, effective
+        ),
+        f"{GENERATED_DIR}/next_step_classes.json": json.dumps(
+            payload_classes, indent=2, ensure_ascii=False
+        )
+        + "\n",
+    }
+
+
+def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
+    p = argparse.ArgumentParser(
+        description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
+    )
+    p.add_argument("--root", default=".", help="Repository root.")
+    mode = p.add_mutually_exclusive_group()
+    mode.add_argument("--write", action="store_true", help="Write generated files (default).")
+    mode.add_argument("--check", action="store_true", help="Fail if generated files are stale.")
+    return p.parse_args(argv)
+
+
+def main(argv: list[str] | None = None) -> int:
+    args = parse_args(argv)
+    root = Path(args.root).resolve()
+    files = build_all(root)
+
+    if args.check:
+        stale: list[str] = []
+        for rel, text in files.items():
+            path = root / rel
+            if not path.is_file() or path.read_text(encoding="utf-8") != text:
+                stale.append(rel)
+        if stale:
+            print("reader-accessibility artifacts are stale; run `make reader-accessibility`:")
+            for rel in stale:
+                print(f"  - {rel}")
+            return 1
+        print("reader-accessibility artifacts are current.")
+        return 0
+
+    for rel, text in files.items():
+        path = root / rel
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(text, encoding="utf-8")
+    print(f"Wrote {len(files)} reader-accessibility files under {GENERATED_DIR}/")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

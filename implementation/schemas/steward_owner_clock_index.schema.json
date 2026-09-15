@@ -1,0 +1,158 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "steward_owner_clock_index.schema.json",
+  "title": "Steward owner/clock index",
+  "description": "Process support for high-pressure routing. Not binding. Must not narrow core text. Pinned to the README corpus edition.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "status",
+    "cannot_narrow_core",
+    "pinned_to_edition",
+    "edition_effective",
+    "source_card",
+    "shared_screen",
+    "clock_families",
+    "cases"
+  ],
+  "properties": {
+    "status": {
+      "type": "string",
+      "const": "process_support_not_binding"
+    },
+    "cannot_narrow_core": {
+      "type": "boolean",
+      "const": true
+    },
+    "pinned_to_edition": {
+      "type": "string",
+      "minLength": 1
+    },
+    "edition_effective": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_card": {
+      "type": "string",
+      "const": "implementation/STEWARD_ENTRY_DOORS.md"
+    },
+    "shared_screen": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "anchor",
+        "aliases",
+        "sequence",
+        "logging_owner"
+      ],
+      "properties": {
+        "anchor": { "type": "string", "minLength": 1 },
+        "aliases": {
+          "type": "array",
+          "minItems": 0,
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "sequence": {
+          "type": "array",
+          "minItems": 4,
+          "maxItems": 4,
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "logging_owner": { "$ref": "#/$defs/cite" }
+      }
+    },
+    "clock_families": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["label", "numeric_home", "tiers"],
+        "properties": {
+          "label": { "type": "string", "minLength": 1 },
+          "numeric_home": { "$ref": "#/$defs/cite" },
+          "rights_floor": { "$ref": "#/$defs/cite" },
+          "emergency_reuse": { "$ref": "#/$defs/cite" },
+          "tiers": {
+            "type": "object",
+            "additionalProperties": { "type": "string", "minLength": 1 }
+          }
+        }
+      }
+    },
+    "cases": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/case" }
+    }
+  },
+  "$defs": {
+    "cite": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["label", "href"],
+      "properties": {
+        "label": { "type": "string", "minLength": 1 },
+        "href": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Repository-relative Markdown path, optional #fragment."
+        }
+      }
+    },
+    "case": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "card_anchor",
+        "card_title",
+        "owner_stack",
+        "next_step_class",
+        "high_pressure",
+        "owners",
+        "conflict_rule",
+        "forbidden_move",
+        "eval_scenario_ids",
+        "operative_box"
+      ],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "card_anchor": { "type": "string", "minLength": 1 },
+        "card_title": { "type": "string", "minLength": 1 },
+        "owner_stack": { "type": "string", "minLength": 1 },
+        "next_step_class": { "type": "string", "minLength": 1 },
+        "high_pressure": { "type": "boolean" },
+        "fact_pattern": { "type": "string" },
+        "owners": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/cite" }
+        },
+        "conflict_rule": { "type": "string", "minLength": 1 },
+        "forbidden_move": { "type": "string", "minLength": 1 },
+        "clock": {
+          "type": ["object", "null"],
+          "additionalProperties": false,
+          "required": ["label", "bound", "homes"],
+          "properties": {
+            "label": { "type": "string", "minLength": 1 },
+            "bound": { "type": "string", "minLength": 1 },
+            "tier": { "type": "string" },
+            "family": { "type": "string" },
+            "homes": {
+              "type": "array",
+              "minItems": 1,
+              "items": { "$ref": "#/$defs/cite" }
+            }
+          }
+        },
+        "clock_note": { "type": "string" },
+        "eval_scenario_ids": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "operative_box": { "$ref": "#/$defs/cite" }
+      }
+    }
+  }
+}

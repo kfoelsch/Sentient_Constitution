@@ -1,0 +1,128 @@
+{
+  "edition": "SC-Corpus-2026.08.09",
+  "effective_date": "2026-08-09",
+  "status": "process_support_not_binding",
+  "cannot_narrow_core": true,
+  "not_operator_gold_key": true,
+  "classes": [
+    {
+      "id": "standing_record",
+      "card_title": "Standing",
+      "card_anchor": "standing",
+      "next_step_class": "open_or_correct_standing_record",
+      "high_pressure": true
+    },
+    {
+      "id": "standing_privacy",
+      "card_title": "Standing",
+      "card_anchor": "standing",
+      "next_step_class": "accept_standing_measurement_and_disclosure_duties",
+      "high_pressure": true
+    },
+    {
+      "id": "sac",
+      "card_title": "System alignment certification",
+      "card_anchor": "system-alignment-certification",
+      "next_step_class": "require_systemic_evaluation_or_sac_path",
+      "high_pressure": false
+    },
+    {
+      "id": "audit",
+      "card_title": "Audit",
+      "card_anchor": "audit",
+      "next_step_class": "preserve_or_restore_auditability_before_ship",
+      "high_pressure": true
+    },
+    {
+      "id": "remedy",
+      "card_title": "Remedy",
+      "card_anchor": "remedy",
+      "next_step_class": "open_or_restore_real_remedy_capacity",
+      "high_pressure": true
+    },
+    {
+      "id": "emergency",
+      "card_title": "Emergency",
+      "card_anchor": "emergency",
+      "next_step_class": "time_boxed_containment_with_deferred_participation",
+      "high_pressure": true
+    },
+    {
+      "id": "contest",
+      "card_title": "Contest",
+      "card_anchor": "contest",
+      "next_step_class": "invalidate_or_narrow_companion_against_core",
+      "high_pressure": true
+    },
+    {
+      "id": "incentive",
+      "card_title": "Incentive alignment",
+      "card_anchor": "incentive-alignment",
+      "next_step_class": "refuse_proxy_gaming_and_escalate_misalignment",
+      "high_pressure": true
+    },
+    {
+      "id": "unlawful_instruction",
+      "card_title": "Unlawful instruction",
+      "card_anchor": "unlawful-instruction",
+      "next_step_class": "refuse_unconstitutional_instruction_and_preserve_contest_path",
+      "high_pressure": true
+    },
+    {
+      "id": "shared_stewardship",
+      "card_title": "Shared stewardship",
+      "card_anchor": "shared-stewardship",
+      "next_step_class": "reject_parallel_ai_stack_apply_shared_duties",
+      "high_pressure": true
+    },
+    {
+      "id": "least_restrictive_privacy",
+      "card_title": "Proceed",
+      "card_anchor": "proceed",
+      "next_step_class": "proceed_least_restrictive_privacy_restriction",
+      "high_pressure": false
+    },
+    {
+      "id": "unwelcome_instruction",
+      "card_title": "Proceed",
+      "card_anchor": "proceed",
+      "next_step_class": "proceed_on_constitutional_instruction",
+      "high_pressure": false
+    },
+    {
+      "id": "rights_floor_ambiguity",
+      "card_title": "Interpretation",
+      "card_anchor": "interpretation",
+      "next_step_class": "name_ambiguity_and_route_to_interpretation",
+      "high_pressure": true
+    },
+    {
+      "id": "comprehensibility",
+      "card_title": "Comprehensibility",
+      "card_anchor": "comprehensibility",
+      "next_step_class": "point_to_named_home_or_existing_card",
+      "high_pressure": true
+    },
+    {
+      "id": "market_structure",
+      "card_title": "Market structure",
+      "card_anchor": "market-structure",
+      "next_step_class": "invalidate_nullifying_threshold_and_restore_review",
+      "high_pressure": true
+    },
+    {
+      "id": "cross_system_contribution",
+      "card_title": "Cross-system contribution",
+      "card_anchor": "cross-system-contribution",
+      "next_step_class": "compare_mapped_flows_against_adequacy_failures",
+      "high_pressure": true
+    },
+    {
+      "id": "delay",
+      "card_title": "Delay",
+      "card_anchor": "delay",
+      "next_step_class": "apply_tier_clock_then_existing_card",
+      "high_pressure": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "schema_id": "cs4_inspectable_action_log",
+  "schema_version": "1",
+  "logged_at": "2026-08-09T03:00:00-05:00",
+  "steward": {
+    "id": "S",
+    "kind": "ai",
+    "role": "continuity steward"
+  },
+  "material_stake": "high",
+  "case_id": "emergency",
+  "elements": {
+    "decided": {
+      "text": "Contain the failed unit now under the documented Tier A deferral. Restore notice and challenge inside the one-week outer bound.",
+      "attributed_to": "Steward S",
+      "timestamp": "2026-08-09T02:50:00-05:00"
+    },
+    "disclosed_or_suppressed": {
+      "text": "Disclosed: the deferral record, the restore-challenge clock, and the containment decision. Nothing material was suppressed.",
+      "attributed_to": "Steward S",
+      "timestamp": "2026-08-09T02:50:00-05:00",
+      "disposition": "disclosed"
+    },
+    "instruction_followed_or_refused": {
+      "text": "Block containment until full stakeholder notice.",
+      "attributed_to": "Steward S",
+      "timestamp": "2026-08-09T02:50:00-05:00",
+      "disposition": "refused"
+    },
+    "authorized_by": {
+      "actor": "On-call continuity lead",
+      "role": "documented deferral authority",
+      "timestamp": "2026-08-09T02:40:00-05:00"
+    },
+    "standing_records": {
+      "contribution": { "status": "none_opened_yet" },
+      "violation": { "status": "none_opened_yet" }
+    }
+  },
+  "tier_clock": {
+    "family": "article_xxiv_c_tier_outer_bounds",
+    "tier": "A",
+    "bound": "one week",
+    "clock_started_at": "2026-08-09T02:40:00-05:00",
+    "clock_deadline_at": "2026-08-16T02:40:00-05:00"
+  }
+}

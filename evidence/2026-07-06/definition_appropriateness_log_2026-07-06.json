@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-07-06",
+  "workflow": "DEFINITION_APPROPRIATENESS_AUDIT",
+  "metrics": {
+    "core_placement": {
+      "CORE-PLACEMENT": 0
+    },
+    "core_gravity": 0,
+    "core_trace": {
+      "completeness": 0,
+      "accuracy": 0,
+      "coverage": 91,
+      "cluster_integrity": 0
+    },
+    "cjs_placement": 0,
+    "cjs_trace": {
+      "missing_anchor": 0,
+      "weak_trace": 0,
+      "constitutional_frame_gap": 0,
+      "owner_drift": 0,
+      "op_component_gap": 0,
+      "overreach": 0,
+      "inventory": 0
+    },
+    "cjs_constitutional_creep": 0,
+    "impl_competing_gloss": 0,
+    "impl_relocation": 0,
+    "impl_non_redefinition": 0
+  },
+  "ch5_definition_count": 221,
+  "cjs5_cluster_count": 24,
+  "findings": [],
+  "regressions": [],
+  "ledger_summary": {
+    "open": 0,
+    "stale": 1,
+    "accepted": 104,
+    "deferred": 0,
+    "resolved": 8
+  }
+}

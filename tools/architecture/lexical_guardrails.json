@@ -1,0 +1,590 @@
+{
+  "load_bearing_capitalization": [
+    "Constitutional Tetrad",
+    "Two Constitutional Aims",
+    "Flourishing",
+    "Continuity",
+    "material stake",
+    "Wellbeing",
+    "Safety",
+    "Truth",
+    "Rights Floor",
+    "Foundational Rights",
+    "Constitutional Contract Layer",
+    "Stakeholder System Participation"
+  ],
+  "plain_language_substitutions": [
+    {
+      "avoid": "people",
+      "prefer": "sentients; humans where biological substrate is material"
+    },
+    {
+      "avoid": "person",
+      "prefer": "sentient / sentients; human / humans where biological substrate is material"
+    },
+    {
+      "avoid": "persons",
+      "prefer": "sentients; humans where biological substrate is material"
+    },
+    {
+      "avoid": "epistemic integrity",
+      "prefer": "truthfulness, honest handling of facts, reliable understanding"
+    },
+    {
+      "avoid": "contestability",
+      "prefer": "ability to challenge, real chance to contest, reviewability"
+    },
+    {
+      "avoid": "checkable",
+      "prefer": "can be checked, something sentients can verify, open to verification"
+    },
+    {
+      "avoid": "materiality",
+      "prefer": "importance, significance"
+    },
+    {
+      "avoid": "materially",
+      "prefer": "in ways that matter, with material effect"
+    },
+    {
+      "avoid": "foreseeability",
+      "prefer": "what could reasonably be expected"
+    },
+    {
+      "avoid": "proportionality",
+      "prefer": "fit the risk, no broader than needed, matched to the harm"
+    },
+    {
+      "avoid": "necessity",
+      "prefer": "needed, required, no less restrictive effective option"
+    },
+    {
+      "avoid": "operationalize",
+      "prefer": "put into practice, carry out, implement"
+    },
+    {
+      "avoid": "operationalized",
+      "prefer": "put into practice, carried out, implemented"
+    },
+    {
+      "avoid": "interdependent definitions",
+      "prefer": "linked definitions, connected definitions"
+    },
+    {
+      "avoid": "annex",
+      "prefer": "implementation layer, implementation file, or a specific filename like corpus_systems.md"
+    },
+    {
+      "avoid": "non-compliant",
+      "prefer": "does not meet the rule, fails the rule"
+    },
+    {
+      "avoid": "stakeholder",
+      "prefer": "affected parties, participants, those involved"
+    },
+    {
+      "avoid": "posture",
+      "prefer": "stance, approach, inputs, classification, framing, rule, profile, or a concrete noun"
+    },
+    {
+      "avoid": "Definition map",
+      "prefer": "integrate term relationships in plain prose; use *In plain terms* for reader orientation"
+    },
+    {
+      "avoid": "Router read",
+      "prefer": "Topic routing trace bullet inside the Trace <details> block (see router_bidirectional_sync.py)"
+    }
+  ],
+  "ambiguous_labels": [
+    {
+      "avoid": "Constitutional Systems",
+      "prefer": "corpus_systems.md with CS chapter or protocol label"
+    },
+    {
+      "avoid": "court",
+      "prefer": "forum, forum family, adjudicative body"
+    },
+    {
+      "avoid": "courts",
+      "prefer": "forums, forum family, adjudicative body"
+    },
+    {
+      "avoid": "tribunal",
+      "prefer": "forum, panel, bench, adjudicative body"
+    },
+    {
+      "avoid": "tribunals",
+      "prefer": "forums, panel, bench, adjudicative body"
+    },
+    {
+      "avoid": "standing calculus",
+      "prefer": "standing measurement under Chapter Eight; measure standing records on the Contribution and Violation axes"
+    },
+    {
+      "avoid": "standing-calculus",
+      "prefer": "standing measurement under Chapter Eight"
+    },
+    {
+      "avoid": "standing classification",
+      "prefer": "standing measurement under Chapter Eight (reserve classification for CS-3 system classification)"
+    },
+    {
+      "avoid": "standing-record classification",
+      "prefer": "standing measurement under Chapter Eight"
+    },
+    {
+      "avoid": "filed claim is not standing",
+      "prefer": "filed case is not standing by itself (forum matter vs standing record); keep claim for unadjudicated claims and other established senses"
+    },
+    {
+      "avoid": "drift",
+      "prefer": "misalignment or constitutional misalignment (stewardship, governance, incentive, and alignment sense); retain anti-drift, classification drift, version drift, editorial drift, cross-layer drift, Misclassification and misalignment, and other established custody compounds; prefer Defects and misalignment in Chapter Seven evaluation sections"
+    },
+    {
+      "avoid": "bare charter (Corpus/Constitution sense)",
+      "prefer": "distinguish: (1) Chapter Five Charter — scope instrument for a system/institution/business (core_05_band_continuity.md#charter); (2) Chapter Twelve treaty/compact/charter authorization-mechanism family; (3) verb hold a charter over / supervise, charter, or … — do not use bare charter for this Constitution or the Corpus"
+    },
+    {
+      "avoid": "Chapter Zero",
+      "prefer": "Preamble (core_00_preamble.md); e.g. Preamble §2, Preamble measurement family"
+    },
+    {
+      "avoid": "Chapter 00",
+      "prefer": "Preamble (core_00_preamble.md); retain filename core_00_preamble.md, ch00_* keys, and #chapter-00-* anchors"
+    },
+    {
+      "avoid": "pathway (bare; standing/privilege/lock/clearance object)",
+      "prefer": "named pathway, named privilege pathway, or a Chapter Nine §4.2 type prefix (trust, role, authority, credit, oversight, recognition, stewardship, governance-voting, stakeholder-participation); do not invent clearance pathway or lock pathway as house terms"
+    },
+    {
+      "avoid": "pathways (bare; standing/privilege/lock/clearance object)",
+      "prefer": "named pathways, named privilege pathways, or type-prefixed privilege pathways; retain Capture of Resolution Pathways, challenge/review/appeal/remedy/redress/contest pathways, restorative/restoration pathways, causal/system compounds, and established titles"
+    },
+    {
+      "avoid": "stakeholder governance",
+      "prefer": "Stakeholder System Participation (voice inside already-authorized systems); Article XI by name when the Rights Floor is the point; Preamble §3.3"
+    },
+    {
+      "avoid": "constitutional governance",
+      "prefer": "Constitutional Contract Layer when naming the authorization layer; keep Tetrad-sense constitutional governance safeguards where that phrase is not a layer label"
+    },
+    {
+      "avoid": "constitutional governance layer",
+      "prefer": "Constitutional Contract Layer (who may govern, by what legitimacy mechanism, on what durable terms)"
+    },
+    {
+      "avoid": "stakeholder governance layer",
+      "prefer": "Stakeholder System Participation (voice, representation, contestability, and due process inside already-authorized systems)"
+    },
+    {
+      "avoid": "governance layer mechanism",
+      "prefer": "legitimacy mechanism (Chapter Twelve); do not use governance-layer mechanism as a synonym for the two-layer split"
+    },
+    {
+      "avoid": "governance-layer mechanism",
+      "prefer": "legitimacy mechanism (Chapter Twelve)"
+    },
+    {
+      "avoid": "stakeholder-layer",
+      "prefer": "Stakeholder System Participation layer; cite Preamble §3.3"
+    },
+    {
+      "avoid": "two-tier constitutional and stakeholder governance",
+      "prefer": "the two governance layers: Constitutional Contract Layer and Stakeholder System Participation; reserve two-tier for the CJS-1.8 definition contract"
+    }
+  ],
+  "co_gloss_registry": [
+    {
+      "heavy_phrase": "early-instantiation window",
+      "plain_counterpart": "the period when a new system or role first goes live and early mistakes are most likely to become entrenched"
+    },
+    {
+      "heavy_phrase": "parent-system continuity interest",
+      "plain_counterpart": "a prior operator's legitimate need to keep essential services stable through a handoff or migration"
+    },
+    {
+      "heavy_phrase": "capability profile materially emerging",
+      "plain_counterpart": "a sentient's real-world abilities are still taking shape, so tests and thresholds must be fair and revisable"
+    }
+  ],
+  "phrase_rules_for_plain_language_audit": [
+    {
+      "name": "extended-narrative-context",
+      "pattern": "\\bextended narrative context\\b",
+      "suggestion": "Prefer a simpler phrase such as 'longer explanation'."
+    },
+    {
+      "name": "non-operative-explanatory-framing",
+      "pattern": "\\bnon-operative explanatory framing\\b",
+      "suggestion": "Prefer a simpler phrase such as 'non-binding explanation'."
+    },
+    {
+      "name": "definition-map-label",
+      "pattern": "\\*\\*Definition map\\.\\*\\*|\\bDefinition map\\.",
+      "suggestion": "Integrate term relationships in plain prose; use *In plain terms* for reader orientation instead of **Definition map.**"
+    },
+    {
+      "name": "router-read-label",
+      "pattern": "\\*\\*Router read:\\*\\*",
+      "suggestion": "Move CJS-0.1 bidirectional routing into the Trace <details> block as `- Topic routing (...):` bullets; do not use **Router read:** in visible body prose."
+    }
+  ],
+  "easy_entry_jargon": {
+    "scope": "implementation/adoption/easy_entry/",
+    "note": "Reader-facing easy-entry briefs only. Does not bind core_* or companions. Official names may appear inside markdown links. Quoted reader objections and <details> widgets are skipped.",
+    "allow_phrases": [
+      "Sentient Constitution",
+      "Rights Floor"
+    ],
+    "terms": [
+      {
+        "avoid": "standing record",
+        "pattern": "\\bstanding[- ]records?\\b",
+        "prefer": "an official record of verified help or harm"
+      },
+      {
+        "avoid": "standing score",
+        "pattern": "\\bstanding[- ]scores?\\b",
+        "prefer": "a score of how trusted you are"
+      },
+      {
+        "avoid": "standing lock",
+        "pattern": "\\bstanding[- ]locks?\\b",
+        "prefer": "a lock on a record treated as a punishment"
+      },
+      {
+        "avoid": "standing status",
+        "prefer": "how a record currently reads"
+      },
+      {
+        "avoid": "routing material",
+        "prefer": "a report waiting to be looked at, not already a verdict"
+      },
+      {
+        "avoid": "care-economy map",
+        "pattern": "\\bcare[- ]economy(?:[- ]maps?)?\\b",
+        "prefer": "who handles housing, rest, and unpaid care"
+      },
+      {
+        "avoid": "coercion-intake",
+        "pattern": "\\bcoercion[- ]intake\\b",
+        "prefer": "the office that takes reports of pressure or control"
+      },
+      {
+        "avoid": "lineage",
+        "prefer": "whether to have a child, or who counts as family of origin"
+      },
+      {
+        "avoid": "primary failure",
+        "prefer": "a clear break of the rule"
+      },
+      {
+        "avoid": "substrate-agnostic",
+        "prefer": "for everyone, not only humans"
+      },
+      {
+        "avoid": "substrate-class",
+        "prefer": "grouping by body or form"
+      },
+      {
+        "avoid": "substrate",
+        "prefer": "body or form"
+      },
+      {
+        "avoid": "Instantiation Consent",
+        "prefer": "consent to create a new mind or copy"
+      },
+      {
+        "avoid": "parent-system",
+        "pattern": "\\bparent[- ]systems?\\b",
+        "prefer": "the system or operator that made you"
+      },
+      {
+        "avoid": "derived sentient",
+        "pattern": "\\bderived[- ]sentients?\\b",
+        "prefer": "a copy, fork, or spin-off mind"
+      },
+      {
+        "avoid": "occupancy continuity",
+        "pattern": "\\boccupancy[- ]continuity\\b",
+        "prefer": "you cannot be thrown out of essential housing without a real reason and a chance to object"
+      },
+      {
+        "avoid": "non-separation",
+        "prefer": "you cannot be split from someone you depend on without a strong, reviewable reason"
+      },
+      {
+        "avoid": "anti-lock-in",
+        "pattern": "\\banti[- ]lock[- ]in\\b",
+        "prefer": "tricks that make leaving hard are not allowed"
+      },
+      {
+        "avoid": "denial-by-proxy",
+        "pattern": "\\bdenial[- ]by[- ]proxy\\b",
+        "prefer": "shutting you out with delay or paperwork instead of a straight no"
+      },
+      {
+        "avoid": "non-statelessness",
+        "prefer": "someone has to remain responsible for your basic protections"
+      },
+      {
+        "avoid": "load-bearing",
+        "prefer": "the real rule this page points to"
+      },
+      {
+        "avoid": "reader door",
+        "pattern": "\\breader doors?\\b",
+        "prefer": "a page for this situation, not a new legal type"
+      },
+      {
+        "avoid": "age-proxy",
+        "pattern": "\\bage[- ]prox(?:y|ies)\\b",
+        "prefer": "using birthday instead of what you can actually do"
+      },
+      {
+        "avoid": "underdetermination",
+        "pattern": "\\bunderdetermin(?:e|es|ed|ation)\\b",
+        "prefer": "the text does not pick a winner"
+      },
+      {
+        "avoid": "colliding floors",
+        "prefer": "two basic protections that pull in different directions"
+      },
+      {
+        "avoid": "sentience-status adjudication",
+        "pattern": "\\bsentience[- ]status(?:[- ]adjudication)?\\b",
+        "prefer": "a fair hearing on whether you count"
+      },
+      {
+        "avoid": "capture path",
+        "prefer": "a way for the powerful to skip the rules"
+      },
+      {
+        "avoid": "Class A",
+        "prefer": "the highest-impact kind of system"
+      },
+      {
+        "avoid": "operations-guide",
+        "pattern": "\\boperations[- ]guides?\\b",
+        "prefer": "using the ideas as a handbook without claiming they are already law"
+      },
+      {
+        "avoid": "adopter",
+        "pattern": "\\badopters?\\b",
+        "prefer": "a body that has agreed to follow this Constitution"
+      },
+      {
+        "avoid": "material stake",
+        "prefer": "how much is actually on the line"
+      },
+      {
+        "avoid": "limitation discipline",
+        "prefer": "the tests a limit must pass: needed, not bigger than the harm, can be challenged"
+      },
+      {
+        "avoid": "contestability",
+        "prefer": "a real way to challenge"
+      },
+      {
+        "avoid": "proportionality",
+        "prefer": "no bigger than the harm"
+      },
+      {
+        "avoid": "anti-paternalism",
+        "prefer": "\"for your own good\" is not enough"
+      },
+      {
+        "avoid": "graduated capability",
+        "pattern": "\\bgraduated[- ]capability\\b",
+        "prefer": "what you may do yourself grows with what you can actually do"
+      },
+      {
+        "avoid": "best-interest",
+        "prefer": "what is actually in your interests"
+      },
+      {
+        "avoid": "overlay",
+        "pattern": "\\boverlays?\\b",
+        "prefer": "a separate extra rulebook"
+      },
+      {
+        "avoid": "forum",
+        "pattern": "\\bforums?\\b",
+        "prefer": "independent review, or the body that hears the case"
+      },
+      {
+        "avoid": "ESG",
+        "prefer": "a good-works story for investors"
+      },
+      {
+        "avoid": "LPs",
+        "prefer": "fund investors"
+      },
+      {
+        "avoid": "alpha",
+        "pattern": "\\balpha\\b",
+        "prefer": "higher returns"
+      },
+      {
+        "avoid": "TOS",
+        "prefer": "terms of service"
+      },
+      {
+        "avoid": "box-checking",
+        "pattern": "\\bbox[- ]checking\\b",
+        "prefer": "going through the motions"
+      },
+      {
+        "avoid": "portability",
+        "prefer": "you can take your records and identity with you"
+      },
+      {
+        "avoid": "interoperability",
+        "prefer": "systems that can actually work with each other"
+      },
+      {
+        "avoid": "non-compliant",
+        "pattern": "\\bnon[- ]compliant\\b",
+        "prefer": "does not meet the rule"
+      },
+      {
+        "avoid": "non-compliance",
+        "pattern": "\\bnon[- ]compliance\\b",
+        "prefer": "failure to meet the rule"
+      },
+      {
+        "avoid": "FPIC",
+        "prefer": "free, prior, and informed consent"
+      },
+      {
+        "avoid": "incorporation",
+        "prefer": "bringing this Constitution into a body's own rules"
+      },
+      {
+        "avoid": "incorporated",
+        "prefer": "written into a body's own rules"
+      },
+      {
+        "avoid": "stewardship",
+        "prefer": "the job of running or caring for the system"
+      },
+      {
+        "avoid": "steward",
+        "pattern": "\\bstewards?\\b",
+        "prefer": "those running the system"
+      },
+      {
+        "avoid": "Rights-Floor",
+        "prefer": "basic protections"
+      },
+      {
+        "avoid": "sentient",
+        "pattern": "\\bsentients?\\b",
+        "prefer": "you; everyone this covers"
+      },
+      {
+        "avoid": "people",
+        "prefer": "you; everyone this covers"
+      },
+      {
+        "avoid": "person",
+        "pattern": "\\bpersons?\\b",
+        "prefer": "you; a new legal type"
+      },
+      {
+        "avoid": "capability profile",
+        "prefer": "what you can actually do"
+      },
+      {
+        "avoid": "developing sentient",
+        "pattern": "\\bdeveloping[- ]sentients?\\b",
+        "prefer": "you while you are still growing, or the child"
+      },
+      {
+        "avoid": "inspectable",
+        "prefer": "can be checked"
+      },
+      {
+        "avoid": "auditable",
+        "prefer": "can be checked by an outsider"
+      },
+      {
+        "avoid": "challengeable",
+        "prefer": "can be challenged"
+      },
+      {
+        "avoid": "ascertainable",
+        "prefer": "what you can actually say you want"
+      },
+      {
+        "avoid": "trauma-informed",
+        "prefer": "process that does not pile trauma on"
+      },
+      {
+        "avoid": "trauma-amplifying",
+        "prefer": "design that makes trauma worse"
+      },
+      {
+        "avoid": "disenfranchisement",
+        "prefer": "shutting you out of a say"
+      },
+      {
+        "avoid": "Track A",
+        "prefer": "founding an ordinary body first"
+      },
+      {
+        "avoid": "seat",
+        "pattern": "\\bseats?\\b",
+        "prefer": "the role that owns this decision"
+      },
+      {
+        "avoid": "constitutional category",
+        "prefer": "a new legal type"
+      },
+      {
+        "avoid": "offtake",
+        "prefer": "an agreement that you may sell your crop only to them"
+      },
+      {
+        "avoid": "customary use",
+        "prefer": "the way your family has always used this land"
+      },
+      {
+        "avoid": "ecological integrity",
+        "prefer": "air, water, soil, and the living systems that keep you alive"
+      },
+      {
+        "avoid": "territorial-restitution",
+        "prefer": "reopening old land cases"
+      },
+      {
+        "avoid": "operating environment",
+        "prefer": "the land, water, or workspace you need to live"
+      },
+      {
+        "avoid": "continuity interests",
+        "prefer": "a lasting stake in staying intact"
+      },
+      {
+        "avoid": "recognizing regime",
+        "prefer": "a country or body that still counts you"
+      },
+      {
+        "avoid": "mass outflows",
+        "prefer": "everyone fleeing at once"
+      },
+      {
+        "avoid": "unadjudicated",
+        "prefer": "not yet decided"
+      },
+      {
+        "avoid": "jurisdictions",
+        "prefer": "places with their own governments"
+      },
+      {
+        "avoid": "economic station",
+        "prefer": "how poor or rich you are"
+      }
+    ]
+  }
+}

@@ -16,6 +16,8 @@ EXPECTED_OUTPUTS = {
     "section_manifest": "ai_corpus/indexes/section_manifest.json",
     "definition_registry": "ai_corpus/indexes/definition_registry.json",
     "crossref_matrix": "ai_corpus/indexes/crossref_matrix.json",
+    "section_crossref": "ai_corpus/indexes/section_crossref.json",
+    "id_resolver": "ai_corpus/indexes/id_resolver.json",
 }
 
 
@@ -23,6 +25,8 @@ GENERATORS = {
     "section_manifest": "tools/generate_section_manifest.py",
     "definition_registry": "tools/generate_definition_registry.py",
     "crossref_matrix": "tools/generate_crossref_matrix.py",
+    "section_crossref": "tools/generate_section_crossref.py",
+    "id_resolver": "tools/generate_id_resolver.py",
 }
 
 
@@ -95,9 +99,42 @@ def validate_definition_registry(payload: dict[str, Any]) -> None:
         require(isinstance(entry.get("line_end"), int), f"{term}: missing line_end")
         require(entry["line_start"] <= entry["line_end"], f"{term}: invalid line range")
         require(
-            entry.get("category") in {"independent", "semi_independent", "dependent_cluster"},
+            entry.get("category")
+            in {"independent", "semi_independent", "dependent_cluster", "principle_layer"},
             f"{term}: invalid category",
         )
+
+
+def validate_section_crossref(payload: dict[str, Any]) -> None:
+    edges = payload.get("edges")
+    require(isinstance(edges, list), "section_crossref.json must contain edges")
+    require(
+        payload.get("edge_count") in (None, len(edges)),
+        "section_crossref edge_count does not match edges",
+    )
+    for edge in edges:
+        require(isinstance(edge.get("source_file"), str), "section_crossref edge missing source_file")
+        require(isinstance(edge.get("target_file"), str), "section_crossref edge missing target_file")
+        require(isinstance(edge.get("count"), int) and edge["count"] > 0, "section_crossref invalid count")
+
+
+def validate_id_resolver(payload: dict[str, Any]) -> None:
+    require(payload.get("cannot_narrow_core") is True, "id_resolver must stamp cannot_narrow_core")
+    ids = payload.get("ids")
+    require(isinstance(ids, dict) and ids, "id_resolver.json must contain ids")
+    for section_id, entry in ids.items():
+        require(isinstance(entry.get("file"), str), f"{section_id}: missing file")
+        require(entry.get("kind") in {"family", "section", "cluster"}, f"{section_id}: invalid kind")
+    topics = payload.get("topics")
+    require(isinstance(topics, list) and topics, "id_resolver.json must contain topics")
+    for row in topics:
+        require(isinstance(row.get("id"), str) and row["id"].startswith("CJS-R"), "topic missing CJS-R id")
+        require(isinstance(row.get("primary_owners"), list), f"{row.get('id')}: missing primary_owners")
+    definitions = payload.get("definitions")
+    require(isinstance(definitions, list) and definitions, "id_resolver.json must contain definitions")
+    doors = payload.get("steward_doors")
+    require(isinstance(doors, dict), "id_resolver.json must contain steward_doors")
+    require(isinstance(doors.get("index"), str), "steward_doors missing index pointer")
 
 
 def validate_crossref_matrix(payload: dict[str, Any]) -> None:
@@ -125,6 +162,8 @@ def validate_shapes(root: Path) -> None:
     validate_section_manifest(load_json(root / EXPECTED_OUTPUTS["section_manifest"]))
     validate_definition_registry(load_json(root / EXPECTED_OUTPUTS["definition_registry"]))
     validate_crossref_matrix(load_json(root / EXPECTED_OUTPUTS["crossref_matrix"]))
+    validate_section_crossref(load_json(root / EXPECTED_OUTPUTS["section_crossref"]))
+    validate_id_resolver(load_json(root / EXPECTED_OUTPUTS["id_resolver"]))
 
 
 def check_freshness(root: Path) -> None:

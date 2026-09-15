@@ -4,7 +4,7 @@
 Implements automated checks for RS-CH5-GW-001..004 from CONSTITUTIONAL_REGRESSION_SCENARIOS.md.
 Definitions (Sentient Constitution Chapter Five, Independent,
 Semi-independent, and Dependent-cluster entries) must not absorb institutional authority, procedural
-sequencing, governance machinery, or excessive Chapter Seven article restatement.
+sequencing, governance machinery, or excessive Chapter Nine article restatement.
 
 Only text inside parsed O/E/C definition *blocks* is scanned. Introductory prose
 under the section headings is excluded (blocks are anchored at ``Title\\n- O:``).
@@ -26,14 +26,14 @@ _TOOLS = pathlib.Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
-from ch5_paths import CH5_PART_A, CH5_PART_B, CH5_PART_C
+from ch5_paths import CH5_ALL, CH5_INDEX, CH5_DEFS
 
 
 CH5 = "## CHAPTER FIVE:"
-CH6 = "## CHAPTER SIX:"
+CH6 = "## CHAPTER EIGHT:"
 SEC1 = "### 1. Independent Definitions"
 SEC2 = "### 2. Semi-independent Definitions"
-SEC3 = "### 3. Dependent clusters (Clustered Definitions)"
+SEC3 = "### 2. Dependent-cluster meta rules"
 
 ENTRY_START = re.compile(r"(?m)^(?P<title>[A-Za-z*][^\n]*)\n- O:", re.MULTILINE)
 
@@ -50,7 +50,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--root", default=".", help="Workspace root (default: .).")
     p.add_argument(
         "--file",
-        default="core_05-05_definitions_a_independent.md",
+        default="core_05__definitions_home.md",
         help="Sentient Constitution Markdown file containing Chapter Five (under --root).",
     )
     return p.parse_args()
@@ -287,23 +287,25 @@ ARTICLE_REF_THRESHOLD = 10
 
 def audit_blocks(full_text: str, rel_path: str) -> list[str]:
     findings: list[str] = []
-    i5 = full_text.index(CH5)
     try:
-        i6 = full_text.index(CH6)
-        ch5 = full_text[i5:i6]
+        i5 = full_text.index(CH5)
+        try:
+            i6 = full_text.index(CH6)
+            ch5 = full_text[i5:i6]
+        except ValueError:
+            ch5 = full_text[i5:]
+        s1 = ch5.index(SEC1)
+        s2 = ch5.index(SEC2)
+        s3 = ch5.index(SEC3)
+        sec1 = ch5[s1:s2]
+        sec2 = ch5[s2:s3]
+        sec3_body = ch5[s3:]
+        blocks: list[tuple[str, str, int]] = []
+        blocks.extend(iter_definition_blocks(sec1, i5 + s1))
+        blocks.extend(iter_definition_blocks(sec2, i5 + s2))
+        blocks.extend(iter_definition_blocks(sec3_body, i5 + s3))
     except ValueError:
-        ch5 = full_text[i5:]
-    s1 = ch5.index(SEC1)
-    s2 = ch5.index(SEC2)
-    s3 = ch5.index(SEC3)
-    sec1 = ch5[s1:s2]
-    sec2 = ch5[s2:s3]
-    sec3_body = ch5[s3:]
-
-    blocks: list[tuple[str, str, int]] = []
-    blocks.extend(iter_definition_blocks(sec1, i5 + s1))
-    blocks.extend(iter_definition_blocks(sec2, i5 + s2))
-    blocks.extend(iter_definition_blocks(sec3_body, i5 + s3))
+        blocks = list(iter_definition_blocks(full_text, 0))
 
     rules = pattern_rules()
     for title, body, abs_start in blocks:
@@ -325,22 +327,19 @@ def audit_blocks(full_text: str, rel_path: str) -> list[str]:
             findings.append(
                 f"{rel_path}:{ln}: [RS-CH5-GW-004 / article_density] "
                 f"definition {title!r} cites {n_art} distinct Article references "
-                f"(threshold {ARTICLE_REF_THRESHOLD}); risk of parallel Ch 7 gloss in Ch 5"
+                f"(threshold {ARTICLE_REF_THRESHOLD}); risk of parallel Ch 8 gloss in Ch 5"
             )
 
     return findings
 
 
 def virtual_chapter_five_text(root: pathlib.Path) -> tuple[str, str]:
-    """Reassemble §§1–3 for auditing after the Chapter Five file split."""
-    part_a = load_text(root / CH5_PART_A)
-    part_b = load_text(root / CH5_PART_B)
-    part_c = load_text(root / CH5_PART_C)
-    i_ch5 = part_a.index(CH5)
-    i_sec2 = part_b.index(SEC2)
-    i_sec3 = part_c.index(SEC3)
-    merged = part_a[i_ch5:] + "\n" + part_b[i_sec2:] + "\n" + part_c[i_sec3:]
-    rel = f"{CH5_PART_A} + {CH5_PART_B} + {CH5_PART_C}"
+    """Reassemble Chapter Five body text from index + constitutional band files."""
+    parts: list[str] = []
+    for name in (CH5_INDEX, *CH5_DEFS):
+        parts.append(load_text(root / name))
+    merged = "\n".join(parts)
+    rel = f"{CH5_INDEX} + {' + '.join(CH5_DEFS)}"
     return merged, rel
 
 
@@ -348,11 +347,11 @@ def main() -> int:
     args = parse_args()
     root = pathlib.Path(args.root).resolve()
     path = root / args.file
-    if path.name == CH5_PART_A and not (root / CH5_PART_B).exists():
+    if path.name == CH5_INDEX:
+        text, rel = virtual_chapter_five_text(root)
+    else:
         text = load_text(path)
         rel = path.relative_to(root).as_posix()
-    else:
-        text, rel = virtual_chapter_five_text(root)
 
     print("Chapter Five definitions gravity-well audit:")
     print(f"- Target: {rel}")

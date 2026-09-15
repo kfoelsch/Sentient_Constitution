@@ -13,13 +13,14 @@ from dataclasses import dataclass
 from corpus_paths import binding_corpus_scope
 
 # Enforce **breach**-family ban only where the chapter-six pass has landed; expand as other scoped files are scrubbed.
-_BREACH_FAMILY_SCOPE = frozenset({"core_06-06_standing_assessment.md", "core_07-07_standing_integration.md"})
+_BREACH_FAMILY_SCOPE = frozenset({"core_08_standing_assessment.md", "core_09_standing_integration.md"})
 
 # Standalone word "cloud" / "Cloud" / "CLOUD", including compounds like cloud-native (still banned).
 # Does not match substrings inside unrelated tokens (e.g. "icloud" as one word — no boundary before 'c').
 _CLOUD_WORD = re.compile(r"(?<![A-Za-z0-9])cloud(?![A-Za-z0-9])", re.IGNORECASE)
 
-# Prefer **constitutional** / **this Constitution** for Corpus sense; keep **charter** only for legal-instrument senses (allowlisted).
+# Prefer **constitutional** / **this Constitution** for Corpus sense; keep **charter** for allowlisted legal-instrument senses
+# (Chapter Twelve adoption family; corporate charter; Chapter Five **Charter** scope instrument and related compounds).
 _CHARTER_WORD = re.compile(r"(?<![A-Za-z0-9])charter(?![A-Za-z0-9])", re.IGNORECASE)
 _ALLOWLIST_STRIP = [
     re.compile(r"corporate charter(\s+law)?", re.IGNORECASE),
@@ -27,6 +28,31 @@ _ALLOWLIST_STRIP = [
     re.compile(r"adoption,\s+federation,\s+or\s+charter", re.IGNORECASE),
     re.compile(r"supervise,\s+charter,\s+or", re.IGNORECASE),
     re.compile(r"supervise,\s+charter,\s+license,\s+or", re.IGNORECASE),
+    re.compile(r"hold a charter over", re.IGNORECASE),
+    re.compile(r"paper charters?", re.IGNORECASE),
+    re.compile(r"####\s+Charter\b"),
+    re.compile(r"\[Charter\]", re.IGNORECASE),
+    re.compile(r"#charter(?:-[a-z0-9-]+)?", re.IGNORECASE),
+    re.compile(r'id="charter(?:-[a-z0-9-]+)?"', re.IGNORECASE),
+    re.compile(r"bare\s+charter\b", re.IGNORECASE),
+    re.compile(r"\*\*charter\*\*", re.IGNORECASE),
+    re.compile(
+        r"charter(?:ed)?(?:[-–— ](?:scope|amendment|review|adoption|mismatch|behavior|instrument|text)|[-–—]behavior)",
+        re.IGNORECASE,
+    ),
+    re.compile(
+        r"(?:governing|published|stated|claimed|periodic)\s+charters?\b",
+        re.IGNORECASE,
+    ),
+    re.compile(r"material charter amendment", re.IGNORECASE),
+    re.compile(r"charter-review", re.IGNORECASE),
+    re.compile(r"charter publication", re.IGNORECASE),
+    re.compile(r"charter contents", re.IGNORECASE),
+    re.compile(r"charter fields", re.IGNORECASE),
+    re.compile(r"ci-\d+(?:\.\d+)?-charter(?:-[a-z0-9-]+)?", re.IGNORECASE),
+    re.compile(r"#ci-\d+(?:\.\d+)?-charter(?:-[a-z0-9-]+)?", re.IGNORECASE),
+    # Capitalized defined-term last so multi-word compounds above can match first.
+    re.compile(r"\bCharter\b"),
 ]
 
 # Mechanical ``charter`` → ``constitutional`` passes can leave ``this constitutional.`` or ``the constitutional requires``; catch known bad compounds.
@@ -56,10 +82,51 @@ _TRIBUNAL_ALLOWED_EXTERNAL = re.compile(
     r"\b(external|historical|international|foreign|arbitral|competent external)\s+tribunals?\b",
     re.IGNORECASE,
 )
+_STANDING_CALCULUS = re.compile(r"\bstanding[- ]calculus\b", re.IGNORECASE)
+_DRIFT_WORD = re.compile(r"\bdrift\b", re.IGNORECASE)
+_DRIFT_ALLOWLIST_STRIP = [
+    re.compile(r"\banti-drift\b", re.I),
+    re.compile(r"\bno silent drift\b", re.I),
+    re.compile(r"\bsilent drift\b", re.I),
+    re.compile(r"\bno-silent-drift\b", re.I),
+    re.compile(r"\bclassification drift\b", re.I),
+    re.compile(r"\bversion drift\b", re.I),
+    re.compile(r"\beditorial drift\b", re.I),
+    re.compile(r"\bcross-layer drift\b", re.I),
+    re.compile(r"\bcompanion-file drift\b", re.I),
+    re.compile(r"\bgovernance fork drift\b", re.I),
+    re.compile(r"reopening-drift", re.I),
+    re.compile(r"drift-and-non-evasion", re.I),
+    re.compile(r"\bdrift-prone\b", re.I),
+    re.compile(r"\bdrift checks\b", re.I),
+    re.compile(r"\bhigh-confidence drift\b", re.I),
+    re.compile(r"\bMisclassification and misalignment\b", re.I),
+]
 
 _RIGHTS_FLOOR_CASING = re.compile(r"\b(?:rights floor|rights floors|rights-floor)\b")
 _FOUNDATIONAL_RIGHTS_CASING = re.compile(r"\b(?:Foundational rights|foundational rights)\b")
 _SHOULD_NOT_PROHIBITION = re.compile(r"\bshould\s+not\b", re.IGNORECASE)
+_DEFINITION_MAP_LABEL = re.compile(r"\*\*Definition map\.\*\*|\bDefinition map\.", re.IGNORECASE)
+_ROUTER_READ_LABEL = re.compile(r"^\*\*Router read:\*\*", re.IGNORECASE)
+_STAKEHOLDER_GOVERNANCE = re.compile(r"\bstakeholder governance\b", re.IGNORECASE)
+_CONSTITUTIONAL_GOVERNANCE_LAYER = re.compile(r"\bconstitutional governance layer\b", re.IGNORECASE)
+_STAKEHOLDER_GOVERNANCE_LAYER = re.compile(r"\bstakeholder governance layer\b", re.IGNORECASE)
+_GOVERNANCE_LAYER_MECHANISM = re.compile(r"\bgovernance[- ]layer mechanism\b", re.IGNORECASE)
+_STAKEHOLDER_LAYER_LABEL = re.compile(r"\bstakeholder-layer\b", re.IGNORECASE)
+_TWO_TIER_CONSTITUTIONAL_STAKEHOLDER = re.compile(
+    r"\btwo-tier constitutional and stakeholder governance\b",
+    re.IGNORECASE,
+)
+_CONSTITUTIONAL_GOVERNANCE = re.compile(r"\bconstitutional governance\b", re.IGNORECASE)
+_CONSTITUTIONAL_GOVERNANCE_SAFEGUARDS = re.compile(
+    r"\bconstitutional governance safeguards\b",
+    re.IGNORECASE,
+)
+_IMPLEMENTATION_CORPUS_PREFIXES = (
+    "corpus_institutions/",
+    "corpus_joint_structure/",
+    "corpus_forum/",
+)
 
 _MALFORMED_CONSTITUTIONAL: list[tuple[str, re.Pattern[str]]] = [
     ("dangling-this-constitutional", re.compile(r"\bthis constitutional\.")),
@@ -204,9 +271,12 @@ def run_internal_regression_checks() -> None:
     banned_word = "Peo" + "ple"
     sample = (
         "User agency and control\n\n"
-        f"- OP-O: {banned_word} must have practical control over ranking and presentation "
+        "- **What it is**\n"
+        f"  - **In scope:** {banned_word} must have practical control over ranking and presentation "
         "when that control is appropriate, including chronological or lightly processed views where feasible.\n"
-        "- OP-C: Systems must not misrepresent a person's real options.\n"
+        "  - **Out of scope:** ordinary ranking talk with no agency stake.\n"
+        "- **What must hold**\n"
+        "  - **Primary failure:** Systems must not misrepresent a person's real options.\n"
     )
     findings = scan_prefer_sentients_not_people_phrasing("internal-regression.md", sample)
     if len(findings) < 2:
@@ -230,6 +300,168 @@ def run_internal_regression_checks() -> None:
         raise RuntimeError(
             "Internal regression failed: prose 'should not' prohibition was not flagged or code masking broke.",
         )
+    standing_calculus_findings = scan_avoid_standing_calculus(
+        "internal-regression.md",
+        "Forums must not run standing calculus.\n"
+        "Use standing-record classification under Chapter Eight instead.\n"
+        "`standing calculus` inside backticks is documentation only.\n",
+    )
+    if len(standing_calculus_findings) != 1:
+        raise RuntimeError(
+            "Internal regression failed: 'standing calculus' was not flagged or backtick masking broke.",
+        )
+    drift_findings = scan_avoid_bare_drift(
+        "internal-regression.md",
+        "**Defects and drift.** Must be flagged.\n"
+        "Accessibility drift must be evaluated.\n"
+        "Classification drift and version drift remain allowed.\n"
+        "See Part B §16 reopening-drift-and-non-evasion.\n",
+    )
+    if len(drift_findings) != 2:
+        raise RuntimeError(
+            "Internal regression failed: stewardship-sense drift was not flagged or custody compounds broke.",
+        )
+    layer_findings = scan_avoid_governance_layer_labels(
+        "internal-regression.md",
+        "Remain subject to stakeholder governance.\n"
+        "Use the governance layer mechanism to found authority.\n"
+        "This rule operates consistently with constitutional governance safeguards.\n"
+        "`stakeholder governance` inside backticks is documentation only.\n",
+    )
+    if len(layer_findings) != 2:
+        raise RuntimeError(
+            "Internal regression failed: stakeholder-governance / governance-layer-mechanism labels were not flagged, or the safeguards exception broke.",
+        )
+
+
+def scan_avoid_standing_calculus(rel_path: str, text: str) -> list[Finding]:
+    """Reject undefined **standing calculus** jargon; prefer Chapter Eight standing-record classification wording."""
+    findings: list[Finding] = []
+    lines = text.splitlines()
+    in_fence = False
+
+    for idx, raw in enumerate(lines, start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+
+        if rel_path == "doc_architecture.md" and "`standing calculus" in raw:
+            continue
+        if rel_path == "doc_architecture.md" and "`standing-calculus" in raw:
+            continue
+
+        check_line = _mask_inline_code_and_link_targets(raw)
+        if _STANDING_CALCULUS.search(check_line):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-standing-calculus",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
+def _mask_allowlisted_constitutional_governance_spans(line: str) -> str:
+    return _CONSTITUTIONAL_GOVERNANCE_SAFEGUARDS.sub(lambda m: " " * len(m.group(0)), line)
+
+
+def scan_avoid_governance_layer_labels(rel_path: str, text: str) -> list[Finding]:
+    """Reject competing labels for the Preamble §3.3 two-layer split.
+
+    Prefer **Constitutional Contract Layer** and **Stakeholder System Participation**.
+    Finding-profile codes **CCL** / **SSP** / **INT** and the Preamble nickname
+    **governance-layer discipline** remain allowed.
+    """
+    if rel_path in {"doc_architecture.md"}:
+        return []
+    if rel_path.startswith(".cursor/"):
+        return []
+    findings: list[Finding] = []
+    lines = text.splitlines()
+    in_fence = False
+
+    for idx, raw in enumerate(lines, start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+
+        check_line = _mask_allowlisted_constitutional_governance_spans(
+            _mask_inline_code_and_link_targets(raw)
+        )
+        if (
+            _STAKEHOLDER_GOVERNANCE.search(check_line)
+            or _CONSTITUTIONAL_GOVERNANCE_LAYER.search(check_line)
+            or _STAKEHOLDER_GOVERNANCE_LAYER.search(check_line)
+            or _GOVERNANCE_LAYER_MECHANISM.search(check_line)
+            or _STAKEHOLDER_LAYER_LABEL.search(check_line)
+            or _TWO_TIER_CONSTITUTIONAL_STAKEHOLDER.search(check_line)
+            or _CONSTITUTIONAL_GOVERNANCE.search(check_line)
+        ):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-governance-layer-labels",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
+def _mask_allowlisted_drift_spans(line: str) -> str:
+    masked = line
+    for pat in _DRIFT_ALLOWLIST_STRIP:
+        masked = pat.sub(lambda m: " " * len(m.group(0)), masked)
+    return masked
+
+
+def scan_avoid_bare_drift(rel_path: str, text: str) -> list[Finding]:
+    """Reject bare **drift** for stewardship/governance/alignment sense; prefer misalignment."""
+    if rel_path in {
+        "doc_architecture.md",
+        "TODO.md",
+        "CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
+    }:
+        return []
+    if rel_path.startswith("archive/") or rel_path.startswith("implementation/"):
+        return []
+    if rel_path == "doc_architecture.md" and "`drift`" in text:
+        pass
+
+    findings: list[Finding] = []
+    lines = text.splitlines()
+    in_fence = False
+
+    for idx, raw in enumerate(lines, start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        if rel_path in {"doc_architecture.md", ".cursor/rules/sentient-constitution.mdc"}:
+            if "`drift`" in raw or "lexical_guardrails" in raw:
+                continue
+
+        check_line = _mask_allowlisted_drift_spans(_mask_inline_code_and_link_targets(raw))
+        if _DRIFT_WORD.search(check_line):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-bare-drift",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
 
 
 def scan_avoid_accession_jargon(rel_path: str, text: str) -> list[Finding]:
@@ -375,13 +607,21 @@ def scan_avoid_tribunal_family(rel_path: str, text: str) -> list[Finding]:
     return findings
 
 
+_HTML_ID_ATTR = re.compile(r'\bid\s*=\s*"[^"]*"', re.IGNORECASE)
+
+
 def _mask_inline_code_and_link_targets(line: str) -> str:
-    """Hide inline code and Markdown link destinations while preserving link text."""
-    chars = list(line)
+    """Hide inline code, Markdown link destinations, and HTML id attributes while preserving link text.
+
+    HTML ``id="…"`` values stay lowercase for stable inbound URLs and are not prose casing.
+    """
+    # Mask stable HTML anchors before character-walk masking so casing rules ignore them.
+    masked = _HTML_ID_ATTR.sub(lambda m: " " * len(m.group(0)), line)
+    chars = list(masked)
     idx = 0
     while idx < len(chars):
         if chars[idx] == "`":
-            end = line.find("`", idx + 1)
+            end = masked.find("`", idx + 1)
             if end == -1:
                 for mask_idx in range(idx, len(chars)):
                     chars[mask_idx] = " "
@@ -391,7 +631,7 @@ def _mask_inline_code_and_link_targets(line: str) -> str:
             idx = end + 1
             continue
         if chars[idx] == "]" and idx + 1 < len(chars) and chars[idx + 1] == "(":
-            end = line.find(")", idx + 2)
+            end = masked.find(")", idx + 2)
             if end == -1:
                 for mask_idx in range(idx + 1, len(chars)):
                     chars[mask_idx] = " "
@@ -405,7 +645,7 @@ def _mask_inline_code_and_link_targets(line: str) -> str:
 
 
 def scan_load_bearing_capitalization(rel_path: str, text: str) -> list[Finding]:
-    """Require load-bearing **Rights Floor** / **Foundational Rights** casing outside links and code."""
+    """Require load-bearing **Rights Floor** / **Foundational Rights** casing outside links, code, and HTML ids."""
     findings: list[Finding] = []
     lines = text.splitlines()
     in_fence = False
@@ -495,23 +735,80 @@ def scan_malformed_constitutional_phrasing(rel_path: str, text: str) -> list[Fin
     return findings
 
 
+def scan_avoid_definition_map_label(rel_path: str, text: str) -> list[Finding]:
+    """Reject **Definition map.** meta-labels; integrate term relationships in plain prose."""
+    findings: list[Finding] = []
+    lines = text.splitlines()
+    in_fence = False
+
+    for idx, raw in enumerate(lines, start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        if _DEFINITION_MAP_LABEL.search(raw):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-definition-map-label",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
+def scan_avoid_router_read_label(rel_path: str, text: str) -> list[Finding]:
+    """Reject **Router read:** body labels; CJS-0.1 routing belongs in Trace bullets."""
+    if not rel_path.startswith(_IMPLEMENTATION_CORPUS_PREFIXES):
+        return []
+    findings: list[Finding] = []
+    lines = text.splitlines()
+    in_fence = False
+
+    for idx, raw in enumerate(lines, start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        if _ROUTER_READ_LABEL.search(raw):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-router-read-label",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
 def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) -> str:
     lines: list[str] = [
         f"# Lexical vocabulary audit — {run_date}",
         "",
         "Rules:",
         "- **`forbidden-cloud`:** standalone **cloud** → use **info-sphere** (and related) terminology.",
-        "- **`corpus-no-bare-charter`:** in scoped files, standalone **charter** → prefer **constitutional** / **this Constitution** for Corpus sense. **Allowed:** `corporate charter`, `treaty, compact, or charter`, `adoption, federation, or charter`, and the verb list `supervise, charter, or …`.",
+        "- **`corpus-no-bare-charter`:** in scoped files, standalone **charter** → prefer **constitutional** / **this Constitution** for Corpus sense. **Allowed:** `corporate charter`; `treaty, compact, or charter`; `adoption, federation, or charter`; verb forms such as `supervise, charter, or …` / `hold a charter over`; Chapter Five **Charter** (scope instrument) and related compounds (`governing Charter`, `charter amendment`, `chartered scope`, `#charter` anchors).",
         "- **`malformed-constitutional-*`:** reject **this constitutional.** / **implement this constitutional.** / **the constitutional requires** / **under the constitutional.** (line-end) / **with this constitutional when** / **constitutional-free**, and hyphen glitches **constitutional-valid**, **constitutional-bounded**, **constitutional-governed**, **constitutional-scaled**, **constitutional-compatible**, **constitutional-applicable**, **constitutional-material**, **constitutional-hook** (use *constitutionally …* or **this Constitution** / **constitutional hook** as appropriate).",
         "- **`prefer-sentients-not-person-people-phrasing`:** reject standalone **person** / **persons** (including possessives), **people**, and **people and agents** → use **sentient** / **sentients** (or another defined corpus term). Exceptions are preserved by boundary rules for compounds and lemmas such as **in-person**, **personal**, **personnel**, **persona**, **personalized**, and **non-personal data**.",
         "- **`avoid-accession-jargon`:** reject **accede**, **acceding**, and **accession** → prefer **join** / **joining** / **additional parties** adoption wording.",
-        "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Six typing (see `.cursor/rules/clarity.mdc`). *Currently enforced only on files in `_BREACH_FAMILY_SCOPE` inside `tools/lexical_vocabulary_audit.py`.*",
+        "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Eight typing (see `.cursor/rules/clarity.mdc`). *Currently enforced only on files in `_BREACH_FAMILY_SCOPE` inside `tools/lexical_vocabulary_audit.py`.*",
         "- **`avoid-minima`:** reject **minima** → prefer **requirements**, **floors**, **conditions**, or another context-specific term.",
         "- **`avoid-court-family`:** reject **court** / **courts** in institutional senses → prefer **forum** / **forums**, **forum family**, or **adjudicative body**.",
-        "- **`avoid-tribunal-family`:** reject internal Chapter Nine / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
-        "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets and inline code → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Ten layer.",
-        "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets and inline code → use **Foundational Rights** when naming the Chapter Ten title or layer.",
+        "- **`avoid-tribunal-family`:** reject internal Chapter Eleven / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
+        "- **`avoid-standing-calculus`:** reject **standing calculus** / **standing-calculus** (undefined jargon) → prefer **standing-record classification under Chapter Eight**, **classify standing records** on the Contribution and Violation axes, or other explicit Chapter Eight wording.",
+        "- **`avoid-bare-drift`:** reject bare **drift** for stewardship, governance, incentive, or alignment divergence → prefer **misalignment** or **constitutional misalignment**. **Allowed:** **anti-drift**, **classification drift**, **version drift**, **editorial drift**, **cross-layer drift**, **Misclassification and misalignment**, and `reopening-drift` anchors.",
+        "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
+        "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Foundational Rights** when naming the Chapter Six title or layer.",
         "- **`avoid-should-not-prohibitions`:** reject **should not** in corpus prose → use **must not** for binding negative constraints.",
+        "- **`avoid-definition-map-label`:** reject **Definition map.** → integrate term relationships in plain prose; use *In plain terms* for reader orientation.",
+        "- **`avoid-router-read-label`:** reject **Router read:** in implementation-corpus body prose → use `- Topic routing (primary owner):` or `- Topic routing (mandatory read-with):` bullets inside the Trace `<details>` block.",
+        "- **`avoid-governance-layer-labels`:** reject **stakeholder governance**, **constitutional governance** (except Tetrad-sense **constitutional governance safeguards**), **constitutional governance layer**, **stakeholder governance layer**, **governance layer mechanism** / **governance-layer mechanism**, **stakeholder-layer**, and **two-tier constitutional and stakeholder governance** → name **Constitutional Contract Layer** vs **Stakeholder System Participation** (Preamble §3.3). Finding-profile codes **CCL** / **SSP** / **INT** remain allowed.",
         "",
         "## Scope",
     ]
@@ -554,8 +851,6 @@ def main() -> int:
 
     root = pathlib.Path(args.root).resolve()
     scope = args.scope or binding_corpus_scope(root, include_support_docs=True)
-    if args.scope is None and (root / "architecture_primer.md").is_file():
-        scope.append("architecture_primer.md")
 
     findings: list[Finding] = []
     for rel_path in scope:
@@ -575,8 +870,13 @@ def main() -> int:
         findings.extend(scan_avoid_minima(rel_path, text))
         findings.extend(scan_avoid_court_family(rel_path, text))
         findings.extend(scan_avoid_tribunal_family(rel_path, text))
+        findings.extend(scan_avoid_standing_calculus(rel_path, text))
+        findings.extend(scan_avoid_bare_drift(rel_path, text))
         findings.extend(scan_load_bearing_capitalization(rel_path, text))
         findings.extend(scan_avoid_should_not_prohibitions(rel_path, text))
+        findings.extend(scan_avoid_definition_map_label(rel_path, text))
+        findings.extend(scan_avoid_router_read_label(rel_path, text))
+        findings.extend(scan_avoid_governance_layer_labels(rel_path, text))
         if rel_path in _BREACH_FAMILY_SCOPE:
             findings.extend(scan_avoid_breach_family(rel_path, text))
 

@@ -91,7 +91,7 @@ Users following Section 2 "Cluster context" links will:
 
 ### Semantic Drift
 The "Cluster context" claims in Section 2 are now **false statements**:
-- "corresponds to Chapter Five §3.3" is wrong for most topic groups
+- "corresponds to Chapter Five §3.14" is wrong for most topic groups
 - Joint invocation discipline may be misapplied
 
 ---
