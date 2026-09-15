@@ -14,15 +14,15 @@
 
 <br>
 
-*In plain terms: this opening names the problem this Constitution exists to fix — systems that harm, hide, or lock out those they affect — and says the rest of the instrument is how we replace that with accountable, checkable, timely governance.*
+*In plain terms: this opening names the problem this Constitution exists to fix — systems that harm, hide, or lock out those they affect — and says governance must meet a complex world without turning that complexity into a wall. The rest of the instrument is how we replace those failures with accountable, checkable, timely governance.*
 
 The freedom, survival, and wellbeing of sentients are inseparable from the systems we create, inhabit, and depend on. As those systems grow in scope, interdependence, and power, so do the risks of irreversible, large-scale harm. These risks remain ever present and materially relevant.
 
 A system cannot stay legitimate by making sentients suffer when that suffering was preventable, by ignoring problems that keep happening, by quietly shifting harm onto others, or by locking sentients out of the systems that shape their lives.
 
-How systems are designed, tested, and run must support survival, wellbeing, dignity, honesty, and lasting stability.
+<a id="complexity-orientation"></a>Shared systems sit in a world that is already complex and becoming more so. Healthy, durable governance has to meet that complexity — measure it, model it, and answer for it — rather than flatten it into convenient proxies. Meeting it does not mean burying affected sentients in unusable process. Duties, records, and explanations must stay within what sentients can actually learn, contest, and use. How demanding those must be scales with role and with how much impact, dependence, and risk are on the line. Keep that real through distributed understanding. Refuse complexity that does no constitutional work. Face the world's complexity; do not outsource it into a wall.
 
-We intend to build better systems — structured to eliminate these imbalances — and to replace them with institutions that are more accountable, more robust, and more responsive to the real needs of all sentients. This Constitution begins that work with a better model for how we can work together justly, effectively, and sustainably.
+How systems are designed, tested, and run must support survival, wellbeing, dignity, honesty, and lasting stability. We intend to build better systems — structured to eliminate these imbalances — and to replace them with institutions that are more accountable, more robust, and more responsive to the real needs of all sentients. This Constitution begins that work with a better model for how we can work together justly, effectively, and sustainably.
 
 ### 1. The Model
 
