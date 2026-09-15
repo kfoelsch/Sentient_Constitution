@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-09-13T17:30:43+00:00",
+  "generated_at": "2026-09-15T19:55:59+00:00",
   "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
   "definition_count": 224,
   "definitions": [
@@ -17,8 +17,8 @@
       "term": "Adjudication and Dispute Resolution",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#adjudication-and-dispute-resolution-constitutional",
-      "line_start": 480,
-      "line_end": 514,
+      "line_start": 504,
+      "line_end": 553,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -27,7 +27,7 @@
       "source_file": "core_05_band_oversight.md",
       "anchor": "#adversarial-scaled-and-exploited-conditions",
       "line_start": 39,
-      "line_end": 76,
+      "line_end": 79,
       "category": "independent",
       "cluster_membership": null
     },
@@ -35,21 +35,21 @@
       "term": "Animal Life",
       "source_file": "core_05_band_participation.md",
       "anchor": "#animal-life-constitutional",
-      "line_start": 2271,
-      "line_end": 2332,
+      "line_start": 2286,
+      "line_end": 2347,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2102
+        "line": 2114
       }
     },
     {
       "term": "Anti-Capture",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#anti-capture",
-      "line_start": 2278,
-      "line_end": 2342,
+      "line_start": 2351,
+      "line_end": 2415,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -57,34 +57,34 @@
       "term": "Anti-Constitutional Misconduct Review",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#anti-constitutional-misconduct-review",
-      "line_start": 2462,
-      "line_end": 2504,
+      "line_start": 2747,
+      "line_end": 2789,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1978
+        "line": 2208
       }
     },
     {
       "term": "Anti-Displacement Floor",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#anti-displacement-floor-constitutional",
-      "line_start": 3280,
-      "line_end": 3352,
+      "line_start": 3353,
+      "line_end": 3425,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 2910
+        "line": 2983
       }
     },
     {
       "term": "Assembly",
       "source_file": "core_05_band_participation.md",
       "anchor": "#assembly-constitutional",
-      "line_start": 391,
-      "line_end": 443,
+      "line_start": 403,
+      "line_end": 455,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -92,8 +92,8 @@
       "term": "Attributable Action",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#attributable-action-constitutional",
-      "line_start": 372,
-      "line_end": 406,
+      "line_start": 396,
+      "line_end": 430,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -101,8 +101,8 @@
       "term": "Attribution Integrity",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#attribution-integrity-constitutional",
-      "line_start": 407,
-      "line_end": 441,
+      "line_start": 431,
+      "line_end": 465,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -110,60 +110,60 @@
       "term": "Auditability",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#auditability",
-      "line_start": 849,
-      "line_end": 930,
+      "line_start": 864,
+      "line_end": 945,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.O1 Transparency, Auditability, and Verification",
         "cluster_file": "core_05_band_oversight.md",
-        "line": 659
+        "line": 666
       }
     },
     {
       "term": "Authority Stack and Internal Hierarchy",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#authority-stack",
-      "line_start": 599,
-      "line_end": 698,
+      "line_start": 601,
+      "line_end": 700,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.I1 Corpus and Authority Stack",
         "cluster_file": "core_05_band_integrative.md",
-        "line": 532
+        "line": 534
       }
     },
     {
       "term": "Autonomous Coercion Tool",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#autonomous-coercion-tool-constitutional",
-      "line_start": 3037,
-      "line_end": 3100,
+      "line_start": 3336,
+      "line_end": 3399,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2700
+        "line": 2999
       }
     },
     {
       "term": "Autonomous Lethal System",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#autonomous-lethal-system-constitutional",
-      "line_start": 2778,
-      "line_end": 2830,
+      "line_start": 3077,
+      "line_end": 3129,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2696
+        "line": 2995
       }
     },
     {
       "term": "Avoidable Burden",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#avoidable-burden",
-      "line_start": 1199,
-      "line_end": 1275,
+      "line_start": 1268,
+      "line_end": 1344,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -171,34 +171,34 @@
       "term": "Best-Interest Standard",
       "source_file": "core_05_band_participation.md",
       "anchor": "#best-interest-standard-constitutional",
-      "line_start": 3278,
-      "line_end": 3325,
+      "line_start": 3315,
+      "line_end": 3362,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3227
+        "line": 3264
       }
     },
     {
       "term": "Binding Stakeholder Choice — Decision-Resolution Requirements",
       "source_file": "core_05_band_participation.md",
       "anchor": "#binding-stakeholder-choice-decision-resolution-requirements",
-      "line_start": 2782,
-      "line_end": 2837,
+      "line_start": 2819,
+      "line_end": 2874,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P2 Binding Stakeholder Choice",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2764
+        "line": 2801
       }
     },
     {
       "term": "Bodily-Maintenance Access",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#bodily-maintenance-access-constitutional",
-      "line_start": 2593,
-      "line_end": 2649,
+      "line_start": 2666,
+      "line_end": 2722,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -206,8 +206,8 @@
       "term": "Burden-Reduction Duty",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#burden-reduction-duty-constitutional",
-      "line_start": 1276,
-      "line_end": 1339,
+      "line_start": 1345,
+      "line_end": 1408,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -215,8 +215,8 @@
       "term": "Business Creation",
       "source_file": "core_05_band_participation.md",
       "anchor": "#business-creation-constitutional",
-      "line_start": 559,
-      "line_end": 619,
+      "line_start": 571,
+      "line_end": 631,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -224,8 +224,8 @@
       "term": "Capability Requirement",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#capability-requirement",
-      "line_start": 77,
-      "line_end": 109,
+      "line_start": 80,
+      "line_end": 112,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -233,8 +233,8 @@
       "term": "Capture of Resolution Pathways",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#capture-of-resolution-pathways",
-      "line_start": 956,
-      "line_end": 993,
+      "line_start": 1075,
+      "line_end": 1112,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -242,8 +242,8 @@
       "term": "Cascading Failure",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#cascading-failure",
-      "line_start": 872,
-      "line_end": 922,
+      "line_start": 935,
+      "line_end": 985,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -251,8 +251,8 @@
       "term": "Charter",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#charter",
-      "line_start": 2467,
-      "line_end": 2523,
+      "line_start": 2540,
+      "line_end": 2596,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -260,8 +260,8 @@
       "term": "Classification-Scaled Governance",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#classification-scaled-governance",
-      "line_start": 110,
-      "line_end": 155,
+      "line_start": 113,
+      "line_end": 158,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -269,8 +269,8 @@
       "term": "Coercion and Manipulation",
       "source_file": "core_05_band_participation.md",
       "anchor": "#coercion-and-manipulation-constitutional",
-      "line_start": 813,
-      "line_end": 861,
+      "line_start": 825,
+      "line_end": 873,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -278,8 +278,8 @@
       "term": "Collective Accountability Failure",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#collective-accountability-failure",
-      "line_start": 717,
-      "line_end": 747,
+      "line_start": 809,
+      "line_end": 851,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -287,21 +287,21 @@
       "term": "Collective Harm Boundary",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#collective-harm-boundary",
-      "line_start": 1381,
-      "line_end": 1408,
+      "line_start": 1561,
+      "line_end": 1588,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1321
+        "line": 1486
       }
     },
     {
       "term": "Collective Organization",
       "source_file": "core_05_band_participation.md",
       "anchor": "#collective-organization-constitutional",
-      "line_start": 444,
-      "line_end": 498,
+      "line_start": 456,
+      "line_end": 510,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -309,47 +309,47 @@
       "term": "Combatant / Non-Combatant Distinction",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#combatant-non-combatant-distinction-constitutional",
-      "line_start": 2895,
-      "line_end": 2962,
+      "line_start": 3194,
+      "line_end": 3261,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2698
+        "line": 2997
       }
     },
     {
       "term": "Competency Bar",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#competency-bar",
-      "line_start": 2329,
-      "line_end": 2373,
+      "line_start": 2602,
+      "line_end": 2646,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1975
+        "line": 2205
       }
     },
     {
       "term": "Competency Clearance",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#competency-clearance",
-      "line_start": 2374,
-      "line_end": 2416,
+      "line_start": 2647,
+      "line_end": 2693,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1976
+        "line": 2206
       }
     },
     {
       "term": "Consent",
       "source_file": "core_05_band_participation.md",
       "anchor": "#consent-constitutional",
-      "line_start": 702,
-      "line_end": 748,
+      "line_start": 714,
+      "line_end": 760,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -357,8 +357,8 @@
       "term": "Consent, Sexual",
       "source_file": "core_05_band_participation.md",
       "anchor": "#consent-sexual",
-      "line_start": 749,
-      "line_end": 812,
+      "line_start": 761,
+      "line_end": 824,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -375,8 +375,8 @@
       "term": "Constitutional Constraint",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#constitutional-constraint",
-      "line_start": 699,
-      "line_end": 755,
+      "line_start": 701,
+      "line_end": 774,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -393,8 +393,8 @@
       "term": "Constitutional Efficiency",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#constitutional-efficiency",
-      "line_start": 1055,
-      "line_end": 1122,
+      "line_start": 1118,
+      "line_end": 1191,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -402,8 +402,8 @@
       "term": "Constitutional Emergency and Contingency",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#constitutional-emergency-and-contingency",
-      "line_start": 1797,
-      "line_end": 1842,
+      "line_start": 1870,
+      "line_end": 1915,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -420,8 +420,8 @@
       "term": "Contestability",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#contestability",
-      "line_start": 442,
-      "line_end": 479,
+      "line_start": 466,
+      "line_end": 503,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -429,21 +429,21 @@
       "term": "Contested-Sentient Life",
       "source_file": "core_05_band_participation.md",
       "anchor": "#contested-sentient-life-constitutional",
-      "line_start": 2398,
-      "line_end": 2515,
+      "line_start": 2413,
+      "line_end": 2530,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2104
+        "line": 2116
       }
     },
     {
       "term": "Contingent Claim",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#contingent-claim",
-      "line_start": 216,
-      "line_end": 246,
+      "line_start": 223,
+      "line_end": 253,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -460,60 +460,60 @@
       "term": "Contribution Nature",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#contribution-nature",
-      "line_start": 2111,
-      "line_end": 2163,
+      "line_start": 2341,
+      "line_end": 2393,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1971
+        "line": 2201
       }
     },
     {
       "term": "Corpus",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#corpus",
-      "line_start": 556,
-      "line_end": 598,
+      "line_start": 558,
+      "line_end": 600,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.I1 Corpus and Authority Stack",
         "cluster_file": "core_05_band_integrative.md",
-        "line": 531
+        "line": 533
       }
     },
     {
       "term": "Creative Work Attribution",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#creative-work-attribution-constitutional",
-      "line_start": 3153,
-      "line_end": 3223,
+      "line_start": 3226,
+      "line_end": 3296,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 2908
+        "line": 2981
       }
     },
     {
       "term": "Cruelty",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#cruelty",
-      "line_start": 1463,
-      "line_end": 1509,
+      "line_start": 1656,
+      "line_end": 1708,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1324
+        "line": 1489
       }
     },
     {
       "term": "Decentralization",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#decentralization",
-      "line_start": 1139,
-      "line_end": 1174,
+      "line_start": 1276,
+      "line_end": 1317,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -521,8 +521,8 @@
       "term": "Dependency",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#dependency",
-      "line_start": 1954,
-      "line_end": 2022,
+      "line_start": 2027,
+      "line_end": 2095,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -530,8 +530,8 @@
       "term": "Derived Sentient",
       "source_file": "core_05_band_participation.md",
       "anchor": "#derived-sentient-constitutional",
-      "line_start": 1470,
-      "line_end": 1518,
+      "line_start": 1482,
+      "line_end": 1530,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -539,13 +539,13 @@
       "term": "Developing Sentient",
       "source_file": "core_05_band_participation.md",
       "anchor": "#developing-sentient-constitutional",
-      "line_start": 3241,
-      "line_end": 3277,
+      "line_start": 3278,
+      "line_end": 3314,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3226
+        "line": 3263
       }
     },
     {
@@ -561,21 +561,21 @@
       "term": "Distributed Understanding",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#distributed-understanding-constitutional",
-      "line_start": 3475,
-      "line_end": 3531,
+      "line_start": 3551,
+      "line_end": 3607,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3407
+        "line": 3480
       }
     },
     {
       "term": "Due Process",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#due-process-constitutional",
-      "line_start": 515,
-      "line_end": 546,
+      "line_start": 554,
+      "line_end": 598,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -583,8 +583,8 @@
       "term": "Ecological Footprint",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#ecological-footprint",
-      "line_start": 1516,
-      "line_end": 1578,
+      "line_start": 1585,
+      "line_end": 1647,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -592,8 +592,8 @@
       "term": "Ecological Integrity",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#ecological-integrity-constitutional",
-      "line_start": 1361,
-      "line_end": 1433,
+      "line_start": 1430,
+      "line_end": 1502,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -601,8 +601,8 @@
       "term": "Ecological Recovery Capacity",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#ecological-recovery-capacity-constitutional",
-      "line_start": 1434,
-      "line_end": 1515,
+      "line_start": 1503,
+      "line_end": 1584,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -610,34 +610,34 @@
       "term": "Educational Agency",
       "source_file": "core_05_band_participation.md",
       "anchor": "#educational-agency",
-      "line_start": 3077,
-      "line_end": 3135,
+      "line_start": 3114,
+      "line_end": 3172,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2932
+        "line": 2969
       }
     },
     {
       "term": "Elevated Communicative Life",
       "source_file": "core_05_band_participation.md",
       "anchor": "#elevated-communicative-life-constitutional",
-      "line_start": 2333,
-      "line_end": 2397,
+      "line_start": 2348,
+      "line_end": 2412,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2103
+        "line": 2115
       }
     },
     {
       "term": "Emergency and Contingency",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#emergency-and-contingency-constitutional",
-      "line_start": 1756,
-      "line_end": 1796,
+      "line_start": 1825,
+      "line_end": 1869,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -645,8 +645,8 @@
       "term": "Emergency Pre-Deliberation Action (Binding Collective Choice)",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#emergency-pre-deliberation-action-binding-collective-choice",
-      "line_start": 1888,
-      "line_end": 1934,
+      "line_start": 1961,
+      "line_end": 2007,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -654,8 +654,8 @@
       "term": "Environmental Preconditions",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#environmental-preconditions-constitutional",
-      "line_start": 678,
-      "line_end": 737,
+      "line_start": 741,
+      "line_end": 800,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -663,13 +663,13 @@
       "term": "Epistemic Integrity",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#epistemic-integrity",
-      "line_start": 1324,
-      "line_end": 1368,
+      "line_start": 1339,
+      "line_end": 1383,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.O2 Truth and Epistemic Integrity",
         "cluster_file": "core_05_band_oversight.md",
-        "line": 1153
+        "line": 1168
       }
     },
     {
@@ -685,21 +685,21 @@
       "term": "Evaluation Completeness Constraint",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#evaluation-completeness-constraint",
-      "line_start": 981,
-      "line_end": 1043,
+      "line_start": 996,
+      "line_end": 1058,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.O1 Transparency, Auditability, and Verification",
         "cluster_file": "core_05_band_oversight.md",
-        "line": 661
+        "line": 668
       }
     },
     {
       "term": "Event-Contract Market",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#event-contract-market",
-      "line_start": 247,
-      "line_end": 277,
+      "line_start": 254,
+      "line_end": 295,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -707,21 +707,21 @@
       "term": "Evidence Preservation",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#evidence-preservation",
-      "line_start": 931,
-      "line_end": 980,
+      "line_start": 946,
+      "line_end": 995,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.O1 Transparency, Auditability, and Verification",
         "cluster_file": "core_05_band_oversight.md",
-        "line": 660
+        "line": 667
       }
     },
     {
       "term": "Existential Risk",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#existential-risk",
-      "line_start": 923,
-      "line_end": 969,
+      "line_start": 986,
+      "line_end": 1032,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -729,34 +729,34 @@
       "term": "Expression",
       "source_file": "core_05_band_participation.md",
       "anchor": "#expression-constitutional",
-      "line_start": 2991,
-      "line_end": 3076,
+      "line_start": 3028,
+      "line_end": 3113,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2931
+        "line": 2968
       }
     },
     {
       "term": "Fair Compensation",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#fair-compensation-constitutional",
-      "line_start": 2918,
-      "line_end": 2984,
+      "line_start": 2991,
+      "line_end": 3057,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 2904
+        "line": 2977
       }
     },
     {
       "term": "Family and Care Relationships",
       "source_file": "core_05_band_participation.md",
       "anchor": "#family-and-care-relationships-constitutional",
-      "line_start": 1313,
-      "line_end": 1350,
+      "line_start": 1325,
+      "line_end": 1362,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -782,8 +782,8 @@
       "term": "Force Majeure",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#force-majeure-constitutional",
-      "line_start": 926,
-      "line_end": 955,
+      "line_start": 1030,
+      "line_end": 1074,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -791,8 +791,8 @@
       "term": "Foreseeability Diligence",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#foreseeability-diligence",
-      "line_start": 1410,
-      "line_end": 1462,
+      "line_start": 1425,
+      "line_end": 1485,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -800,91 +800,91 @@
       "term": "Forum Case Record",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#forum-case-record",
-      "line_start": 1843,
-      "line_end": 1898,
+      "line_start": 2054,
+      "line_end": 2128,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A2 Forum Families and Dispute Routing",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1604
+        "line": 1803
       }
     },
     {
       "term": "Forum Family, Constitutional",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#forum-family-constitutional",
-      "line_start": 1809,
-      "line_end": 1842,
+      "line_start": 2016,
+      "line_end": 2053,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A2 Forum Families and Dispute Routing",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1602
+        "line": 1801
       }
     },
     {
       "term": "Forum Family, Environment",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#forum-family-environment",
-      "line_start": 1738,
-      "line_end": 1766,
+      "line_start": 1943,
+      "line_end": 1971,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A2 Forum Families and Dispute Routing",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1600
+        "line": 1799
       }
     },
     {
       "term": "Forum Family, Institutional",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#forum-family-institutional",
-      "line_start": 1709,
-      "line_end": 1737,
+      "line_start": 1914,
+      "line_end": 1942,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A2 Forum Families and Dispute Routing",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1599
+        "line": 1798
       }
     },
     {
       "term": "Forum Family, Integrity",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#forum-family-integrity",
-      "line_start": 1767,
-      "line_end": 1808,
+      "line_start": 1972,
+      "line_end": 2015,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A2 Forum Families and Dispute Routing",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1601
+        "line": 1800
       }
     },
     {
       "term": "Forum Family, Sentient",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#forum-family-sentient",
-      "line_start": 1651,
-      "line_end": 1679,
+      "line_start": 1850,
+      "line_end": 1878,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A2 Forum Families and Dispute Routing",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1597
+        "line": 1796
       }
     },
     {
       "term": "Forum Family, Technical",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#forum-family-technical",
-      "line_start": 1680,
-      "line_end": 1708,
+      "line_start": 1879,
+      "line_end": 1913,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A2 Forum Families and Dispute Routing",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1598
+        "line": 1797
       }
     },
     {
@@ -901,20 +901,20 @@
       "source_file": "core_05_band_participation.md",
       "anchor": "#freedom-bounded-agency",
       "line_start": 171,
-      "line_end": 220,
+      "line_end": 232,
       "category": "semi_independent",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2934
+        "line": 2971
       }
     },
     {
       "term": "Game of Chance",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#game-of-chance",
-      "line_start": 278,
-      "line_end": 308,
+      "line_start": 296,
+      "line_end": 326,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -931,8 +931,8 @@
       "term": "Governance",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#governance",
-      "line_start": 1103,
-      "line_end": 1138,
+      "line_start": 1229,
+      "line_end": 1275,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -940,39 +940,39 @@
       "term": "Graduated Capability",
       "source_file": "core_05_band_participation.md",
       "anchor": "#graduated-capability-constitutional",
-      "line_start": 3326,
-      "line_end": 3372,
+      "line_start": 3363,
+      "line_end": 3409,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3228
+        "line": 3265
       }
     },
     {
       "term": "Harassment and Bullying",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#harassment-and-bullying",
-      "line_start": 1510,
-      "line_end": 1568,
+      "line_start": 1709,
+      "line_end": 1767,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1325
+        "line": 1490
       }
     },
     {
       "term": "Harm",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#harm",
-      "line_start": 1347,
-      "line_end": 1380,
+      "line_start": 1512,
+      "line_end": 1560,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1320
+        "line": 1485
       }
     },
     {
@@ -988,8 +988,8 @@
       "term": "High-Impact and Systemic Harm Publication Constraint",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#high-impact-and-systemic-harm-publication-constraint",
-      "line_start": 1226,
-      "line_end": 1254,
+      "line_start": 1241,
+      "line_end": 1269,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -997,8 +997,8 @@
       "term": "Identity Data Protection",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#identity-data-protection",
-      "line_start": 3872,
-      "line_end": 3892,
+      "line_start": 3948,
+      "line_end": 3968,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1024,8 +1024,8 @@
       "term": "Incentive Alignment — contingent claims, games of chance, and event-contract markets",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
-      "line_start": 441,
-      "line_end": 493,
+      "line_start": 443,
+      "line_end": 495,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1034,7 +1034,7 @@
       "source_file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
       "line_start": 409,
-      "line_end": 440,
+      "line_end": 442,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1043,7 +1043,7 @@
       "source_file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-proxy-integrity-and-contingent-settlement",
       "line_start": 292,
-      "line_end": 493,
+      "line_end": 495,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1051,8 +1051,8 @@
       "term": "Indigenous Continuity",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#indigenous-continuity-constitutional",
-      "line_start": 2727,
-      "line_end": 2789,
+      "line_start": 2800,
+      "line_end": 2862,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1060,8 +1060,8 @@
       "term": "Info-Sphere",
       "source_file": "core_05_band_participation.md",
       "anchor": "#info-sphere",
-      "line_start": 221,
-      "line_end": 267,
+      "line_start": 233,
+      "line_end": 279,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1078,8 +1078,8 @@
       "term": "Insider Advantage",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#insider-advantage",
-      "line_start": 309,
-      "line_end": 339,
+      "line_start": 327,
+      "line_end": 363,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1087,8 +1087,8 @@
       "term": "Instantiation Consent",
       "source_file": "core_05_band_participation.md",
       "anchor": "#instantiation-consent-constitutional",
-      "line_start": 1519,
-      "line_end": 1574,
+      "line_start": 1531,
+      "line_end": 1586,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1096,8 +1096,8 @@
       "term": "Intergenerational Responsibility",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#intergenerational-responsibility-constitutional",
-      "line_start": 1648,
-      "line_end": 1719,
+      "line_start": 1717,
+      "line_end": 1788,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1105,34 +1105,34 @@
       "term": "Irreversible Deprivation Measure",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#irreversible-deprivation-measure-constitutional",
-      "line_start": 2963,
-      "line_end": 3036,
+      "line_start": 3262,
+      "line_end": 3335,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2699
+        "line": 2998
       }
     },
     {
       "term": "Irreversible Harm",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#irreversible-harm",
-      "line_start": 1429,
-      "line_end": 1462,
+      "line_start": 1617,
+      "line_end": 1655,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1323
+        "line": 1488
       }
     },
     {
       "term": "Language, Culture, and Heritage",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#language-culture-and-heritage-constitutional",
-      "line_start": 2790,
-      "line_end": 2854,
+      "line_start": 2863,
+      "line_end": 2927,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1140,21 +1140,21 @@
       "term": "Leisure and Rest",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#leisure-and-rest-constitutional",
-      "line_start": 3050,
-      "line_end": 3111,
+      "line_start": 3123,
+      "line_end": 3184,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 2906
+        "line": 2979
       }
     },
     {
       "term": "Lifespan Equivalent Unit (LEQU)",
       "source_file": "core_05_band_participation.md",
       "anchor": "#lifespan-equivalent-unit-lequ",
-      "line_start": 268,
-      "line_end": 296,
+      "line_start": 280,
+      "line_end": 308,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1162,21 +1162,21 @@
       "term": "Likeness and Documentary Depiction Interface",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#likeness-and-documentary-depiction-interface-constitutional",
-      "line_start": 3112,
-      "line_end": 3152,
+      "line_start": 3185,
+      "line_end": 3225,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 2907
+        "line": 2980
       }
     },
     {
       "term": "Market Concentration Threshold",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#market-concentration-threshold-constitutional",
-      "line_start": 1214,
-      "line_end": 1282,
+      "line_start": 1375,
+      "line_end": 1447,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1184,8 +1184,8 @@
       "term": "Market Structure",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#market-structure-constitutional",
-      "line_start": 1175,
-      "line_end": 1213,
+      "line_start": 1318,
+      "line_end": 1374,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1193,8 +1193,8 @@
       "term": "Material",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#material",
-      "line_start": 231,
-      "line_end": 264,
+      "line_start": 234,
+      "line_end": 267,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1202,8 +1202,8 @@
       "term": "Material Degradation",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#material-degradation",
-      "line_start": 575,
-      "line_end": 616,
+      "line_start": 582,
+      "line_end": 623,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1211,8 +1211,8 @@
       "term": "Material Impact",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#material-impact",
-      "line_start": 374,
-      "line_end": 421,
+      "line_start": 377,
+      "line_end": 424,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1220,8 +1220,8 @@
       "term": "Material Risk",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#material-risk",
-      "line_start": 422,
-      "line_end": 467,
+      "line_start": 425,
+      "line_end": 470,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1238,8 +1238,8 @@
       "term": "Materiality Determination",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#materiality-determination",
-      "line_start": 265,
-      "line_end": 336,
+      "line_start": 268,
+      "line_end": 339,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1247,8 +1247,8 @@
       "term": "Materiality Integrity Constraint",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#materiality-integrity-constraint",
-      "line_start": 337,
-      "line_end": 373,
+      "line_start": 340,
+      "line_end": 376,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1256,8 +1256,8 @@
       "term": "Materiality Under Uncertainty",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#materiality-under-uncertainty",
-      "line_start": 468,
-      "line_end": 507,
+      "line_start": 471,
+      "line_end": 510,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1265,21 +1265,21 @@
       "term": "Meaningful Agency",
       "source_file": "core_05_band_participation.md",
       "anchor": "#meaningful-agency",
-      "line_start": 639,
-      "line_end": 701,
+      "line_start": 651,
+      "line_end": 713,
       "category": "semi_independent",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2930
+        "line": 2967
       }
     },
     {
       "term": "Merits Determination",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#merits-determination",
-      "line_start": 587,
-      "line_end": 635,
+      "line_start": 645,
+      "line_end": 700,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1287,8 +1287,8 @@
       "term": "Movement and Relocation",
       "source_file": "core_05_band_participation.md",
       "anchor": "#movement-and-relocation-constitutional",
-      "line_start": 1834,
-      "line_end": 1907,
+      "line_start": 1846,
+      "line_end": 1919,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1296,8 +1296,8 @@
       "term": "Natural Systems Standing",
       "source_file": "core_05_band_participation.md",
       "anchor": "#natural-systems-standing",
-      "line_start": 297,
-      "line_end": 329,
+      "line_start": 309,
+      "line_end": 341,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1306,7 +1306,7 @@
       "source_file": "core_05_band_accountability.md",
       "anchor": "#necessity",
       "line_start": 131,
-      "line_end": 161,
+      "line_end": 168,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1314,8 +1314,8 @@
       "term": "Negligence",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#negligence",
-      "line_start": 666,
-      "line_end": 716,
+      "line_start": 758,
+      "line_end": 808,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1332,8 +1332,8 @@
       "term": "Non-Compliance Finding Profile",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#non-compliance-finding-profile",
-      "line_start": 1899,
-      "line_end": 1932,
+      "line_start": 2129,
+      "line_end": 2162,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1341,8 +1341,8 @@
       "term": "Non-Imposition (Cooperative Interaction)",
       "source_file": "core_05_band_participation.md",
       "anchor": "#non-imposition-cooperative-interaction",
-      "line_start": 330,
-      "line_end": 362,
+      "line_start": 342,
+      "line_end": 374,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1350,8 +1350,8 @@
       "term": "Non-Separation",
       "source_file": "core_05_band_participation.md",
       "anchor": "#non-separation-constitutional",
-      "line_start": 1402,
-      "line_end": 1622,
+      "line_start": 1414,
+      "line_end": 1634,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1359,8 +1359,8 @@
       "term": "Non-Statelessness",
       "source_file": "core_05_band_participation.md",
       "anchor": "#non-statelessness-constitutional",
-      "line_start": 1970,
-      "line_end": 2043,
+      "line_start": 1982,
+      "line_end": 2055,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1368,8 +1368,8 @@
       "term": "Occupancy Continuity",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#occupancy-continuity-constitutional",
-      "line_start": 2650,
-      "line_end": 2708,
+      "line_start": 2723,
+      "line_end": 2781,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1377,8 +1377,8 @@
       "term": "Parent-System Relationship",
       "source_file": "core_05_band_participation.md",
       "anchor": "#parent-system-relationship-constitutional",
-      "line_start": 1575,
-      "line_end": 1622,
+      "line_start": 1587,
+      "line_end": 1634,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1386,21 +1386,21 @@
       "term": "Participant Standing",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#participant-standing-constitutional",
-      "line_start": 1994,
-      "line_end": 2057,
+      "line_start": 2224,
+      "line_end": 2287,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1969
+        "line": 2199
       }
     },
     {
       "term": "Press and Journalistic Activity",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#press-and-journalistic-activity-constitutional",
-      "line_start": 156,
-      "line_end": 198,
+      "line_start": 159,
+      "line_end": 201,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1408,34 +1408,34 @@
       "term": "Primary-Stakes Routing",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#primary-stakes-routing",
-      "line_start": 1621,
-      "line_end": 1650,
+      "line_start": 1820,
+      "line_end": 1849,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A2 Forum Families and Dispute Routing",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1603
+        "line": 1802
       }
     },
     {
       "term": "Privacy (Informational)",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#privacy-informational",
-      "line_start": 3772,
-      "line_end": 3825,
+      "line_start": 3848,
+      "line_end": 3901,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C3 Privacy (Informational) — peer-level cluster head",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3759
+        "line": 3835
       }
     },
     {
       "term": "Procedural Fairness",
       "source_file": "core_05_band_participation.md",
       "anchor": "#procedural-fairness-constitutional",
-      "line_start": 950,
-      "line_end": 1017,
+      "line_start": 962,
+      "line_end": 1029,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1443,8 +1443,8 @@
       "term": "Productive Capacity",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#productive-capacity-constitutional",
-      "line_start": 1123,
-      "line_end": 1198,
+      "line_start": 1192,
+      "line_end": 1267,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1452,8 +1452,8 @@
       "term": "Proportionality",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#proportionality",
-      "line_start": 162,
-      "line_end": 196,
+      "line_start": 169,
+      "line_end": 203,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1461,8 +1461,8 @@
       "term": "Proportionate Cross-System Contribution",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#proportionate-cross-system-support-constitutional",
-      "line_start": 2023,
-      "line_end": 2102,
+      "line_start": 2096,
+      "line_end": 2175,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1470,8 +1470,8 @@
       "term": "Protected Characteristic Proxying and Disparate Impact",
       "source_file": "core_05_band_participation.md",
       "anchor": "#protected-characteristic-proxying-and-disparate-impact",
-      "line_start": 1018,
-      "line_end": 1087,
+      "line_start": 1030,
+      "line_end": 1099,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1479,8 +1479,8 @@
       "term": "Protected Characteristics",
       "source_file": "core_05_band_participation.md",
       "anchor": "#protected-characteristics-constitutional",
-      "line_start": 1088,
-      "line_end": 1196,
+      "line_start": 1100,
+      "line_end": 1208,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1488,8 +1488,8 @@
       "term": "Protected Data and Internal-State Publication Constraint",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#protected-data-and-internal-state-publication-constraint",
-      "line_start": 1208,
-      "line_end": 1225,
+      "line_start": 1223,
+      "line_end": 1240,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1497,21 +1497,21 @@
       "term": "Protected Internal-State Boundary",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#protected-internal-state-boundary-constitutional",
-      "line_start": 3826,
-      "line_end": 3871,
+      "line_start": 3902,
+      "line_end": 3947,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C3 Privacy (Informational) — peer-level cluster head",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3760
+        "line": 3836
       }
     },
     {
       "term": "Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
       "source_file": "core_05_band_participation.md",
       "anchor": "#protected-intimate-signal-gating-and-article-x-c-status-circumvention",
-      "line_start": 1197,
-      "line_end": 1288,
+      "line_start": 1209,
+      "line_end": 1300,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1519,8 +1519,8 @@
       "term": "Protected Reporting (Whistleblowing)",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#protected-reporting-whistleblowing",
-      "line_start": 1011,
-      "line_end": 1045,
+      "line_start": 1130,
+      "line_end": 1164,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1528,8 +1528,8 @@
       "term": "Protected Reporting Retaliation and Access Interference",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#protected-reporting-retaliation-and-access-interference",
-      "line_start": 1046,
-      "line_end": 1081,
+      "line_start": 1165,
+      "line_end": 1207,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1537,8 +1537,8 @@
       "term": "Proxy Divergence",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#proxy-divergence",
-      "line_start": 508,
-      "line_end": 574,
+      "line_start": 511,
+      "line_end": 581,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1546,34 +1546,34 @@
       "term": "Psychological Harm",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#psychological-harm",
-      "line_start": 1409,
-      "line_end": 1428,
+      "line_start": 1589,
+      "line_end": 1616,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1322
+        "line": 1487
       }
     },
     {
       "term": "Public Oversight Baseline Disclosure",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#public-oversight-baseline-disclosure",
-      "line_start": 726,
-      "line_end": 805,
+      "line_start": 741,
+      "line_end": 820,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.O1 Transparency, Auditability, and Verification",
         "cluster_file": "core_05_band_oversight.md",
-        "line": 657
+        "line": 664
       }
     },
     {
       "term": "Publication Truthfulness and Recklessness Floor",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#publication-truthfulness-and-recklessness-floor",
-      "line_start": 1178,
-      "line_end": 1207,
+      "line_start": 1193,
+      "line_end": 1222,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1581,8 +1581,8 @@
       "term": "Reasonably Foreseeable",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#reasonably-foreseeable",
-      "line_start": 1463,
-      "line_end": 1483,
+      "line_start": 1486,
+      "line_end": 1506,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1590,8 +1590,8 @@
       "term": "Redress and Remediation",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#redress-and-remediation-constitutional",
-      "line_start": 748,
-      "line_end": 804,
+      "line_start": 852,
+      "line_end": 908,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1599,8 +1599,8 @@
       "term": "Refuge from Non-Compliance",
       "source_file": "core_05_band_participation.md",
       "anchor": "#refuge-from-non-compliance-constitutional",
-      "line_start": 1908,
-      "line_end": 1969,
+      "line_start": 1920,
+      "line_end": 1981,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1608,8 +1608,8 @@
       "term": "Remedy System",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#remedy-system-constitutional",
-      "line_start": 805,
-      "line_end": 876,
+      "line_start": 909,
+      "line_end": 980,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1617,8 +1617,8 @@
       "term": "Reproductive Autonomy",
       "source_file": "core_05_band_participation.md",
       "anchor": "#reproductive-autonomy-constitutional",
-      "line_start": 1351,
-      "line_end": 1401,
+      "line_start": 1363,
+      "line_end": 1413,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1635,8 +1635,8 @@
       "term": "Restorative Justice",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#restorative-justice",
-      "line_start": 877,
-      "line_end": 925,
+      "line_start": 981,
+      "line_end": 1029,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1644,8 +1644,8 @@
       "term": "Reversibility",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#reversibility-constitutional",
-      "line_start": 738,
-      "line_end": 796,
+      "line_start": 801,
+      "line_end": 859,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1653,21 +1653,21 @@
       "term": "Review and Correction Duty",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#review-and-correction-duty-constitutional",
-      "line_start": 3692,
-      "line_end": 3732,
+      "line_start": 3768,
+      "line_end": 3808,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3411
+        "line": 3484
       }
     },
     {
       "term": "Risk",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#risk",
-      "line_start": 510,
-      "line_end": 562,
+      "line_start": 566,
+      "line_end": 618,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1675,21 +1675,21 @@
       "term": "Risk Disclosure",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#risk-disclosure",
-      "line_start": 806,
-      "line_end": 848,
+      "line_start": 821,
+      "line_end": 863,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.O1 Transparency, Auditability, and Verification",
         "cluster_file": "core_05_band_oversight.md",
-        "line": 658
+        "line": 665
       }
     },
     {
       "term": "Risk Evaluation",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#risk-evaluation",
-      "line_start": 563,
-      "line_end": 602,
+      "line_start": 619,
+      "line_end": 658,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1697,21 +1697,21 @@
       "term": "Safe Conditions",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#safe-conditions-constitutional",
-      "line_start": 2985,
-      "line_end": 3049,
+      "line_start": 3058,
+      "line_end": 3122,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 2905
+        "line": 2978
       }
     },
     {
       "term": "Safety (Constraint)",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#safety-constraint",
-      "line_start": 441,
-      "line_end": 509,
+      "line_start": 497,
+      "line_end": 565,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1719,8 +1719,8 @@
       "term": "Security-Sensitive Disclosure Balance",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#security-sensitive-disclosure-balance",
-      "line_start": 1255,
-      "line_end": 1283,
+      "line_start": 1270,
+      "line_end": 1298,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1728,21 +1728,21 @@
       "term": "Self-Determination",
       "source_file": "core_05_band_participation.md",
       "anchor": "#self-determination-constitutional",
-      "line_start": 2946,
-      "line_end": 2990,
+      "line_start": 2983,
+      "line_end": 3027,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2929
+        "line": 2966
       }
     },
     {
       "term": "Self-Healing",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#self-healing-constitutional",
-      "line_start": 797,
-      "line_end": 871,
+      "line_start": 860,
+      "line_end": 934,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1750,60 +1750,60 @@
       "term": "Sentience Non-Exclusion",
       "source_file": "core_05_band_participation.md",
       "anchor": "#sentience-non-exclusion",
-      "line_start": 2191,
-      "line_end": 2249,
+      "line_start": 2206,
+      "line_end": 2264,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2101
+        "line": 2113
       }
     },
     {
       "term": "Sentience Status Adjudication",
       "source_file": "core_05_band_participation.md",
       "anchor": "#sentience-status-adjudication-constitutional",
-      "line_start": 2581,
-      "line_end": 2668,
+      "line_start": 2596,
+      "line_end": 2683,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2105
+        "line": 2117
       }
     },
     {
       "term": "Sentience-Status Adjudication Record",
       "source_file": "core_05_band_participation.md",
       "anchor": "#sentience-status-adjudication-record-constitutional",
-      "line_start": 2669,
-      "line_end": 2730,
+      "line_start": 2684,
+      "line_end": 2767,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2106
+        "line": 2118
       }
     },
     {
       "term": "Sentient",
       "source_file": "core_05_band_participation.md",
       "anchor": "#sentient",
-      "line_start": 2516,
-      "line_end": 2580,
+      "line_start": 2531,
+      "line_end": 2595,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2107
+        "line": 2119
       }
     },
     {
       "term": "Shared-System Capacity",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#shared-system-capacity-constitutional",
-      "line_start": 1000,
-      "line_end": 1054,
+      "line_start": 1063,
+      "line_end": 1117,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1811,34 +1811,34 @@
       "term": "Short-Horizon Governance Defect",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#short-horizon-governance-defect-constitutional",
-      "line_start": 3588,
-      "line_end": 3632,
+      "line_start": 3664,
+      "line_end": 3708,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3409
+        "line": 3482
       }
     },
     {
       "term": "Single Catastrophic Incident",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#single-catastrophic-incident",
-      "line_start": 2588,
-      "line_end": 2626,
+      "line_start": 2881,
+      "line_end": 2919,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1981
+        "line": 2211
       }
     },
     {
       "term": "Stakeholder",
       "source_file": "core_05_band_participation.md",
       "anchor": "#stakeholder",
-      "line_start": 1641,
-      "line_end": 1688,
+      "line_start": 1653,
+      "line_end": 1700,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1846,8 +1846,8 @@
       "term": "Stakeholder Emergency and Contingency",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#stakeholder-emergency-and-contingency",
-      "line_start": 1843,
-      "line_end": 1887,
+      "line_start": 1916,
+      "line_end": 1960,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1855,34 +1855,34 @@
       "term": "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
       "source_file": "core_05_band_participation.md",
       "anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
-      "line_start": 2838,
-      "line_end": 2874,
-      "category": "dependent_cluster",
-      "cluster_membership": {
-        "cluster": "Def.P2 Binding Stakeholder Choice",
-        "cluster_file": "core_05_band_participation.md",
-        "line": 2765
-      }
-    },
-    {
-      "term": "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
-      "source_file": "core_05_band_participation.md",
-      "anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice",
       "line_start": 2875,
       "line_end": 2911,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P2 Binding Stakeholder Choice",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2766
+        "line": 2802
+      }
+    },
+    {
+      "term": "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice",
+      "line_start": 2912,
+      "line_end": 2948,
+      "category": "dependent_cluster",
+      "cluster_membership": {
+        "cluster": "Def.P2 Binding Stakeholder Choice",
+        "cluster_file": "core_05_band_participation.md",
+        "line": 2803
       }
     },
     {
       "term": "Stakeholder Weight",
       "source_file": "core_05_band_participation.md",
       "anchor": "#stakeholder-weight",
-      "line_start": 1689,
-      "line_end": 1758,
+      "line_start": 1701,
+      "line_end": 1770,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1890,47 +1890,47 @@
       "term": "Standing Effect",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#standing-effect-chapter-six",
-      "line_start": 2216,
-      "line_end": 2272,
+      "line_start": 2446,
+      "line_end": 2511,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1973
+        "line": 2203
       }
     },
     {
       "term": "Standing Lock",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#standing-lock",
-      "line_start": 2417,
-      "line_end": 2461,
+      "line_start": 2694,
+      "line_end": 2746,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1977
+        "line": 2207
       }
     },
     {
       "term": "Standing Record",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#standing-record-chapter-six",
-      "line_start": 2273,
-      "line_end": 2328,
+      "line_start": 2512,
+      "line_end": 2601,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1974
+        "line": 2204
       }
     },
     {
       "term": "Stay",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#stay",
-      "line_start": 636,
-      "line_end": 665,
+      "line_start": 701,
+      "line_end": 757,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1938,47 +1938,47 @@
       "term": "Stewardship",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#stewardship-constitutional",
-      "line_start": 3419,
-      "line_end": 3474,
+      "line_start": 3492,
+      "line_end": 3550,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3406
+        "line": 3479
       }
     },
     {
       "term": "Stewardship Defect",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#stewardship-defect-constitutional",
-      "line_start": 3633,
-      "line_end": 3691,
+      "line_start": 3709,
+      "line_end": 3767,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3410
+        "line": 3483
       }
     },
     {
       "term": "Strategic Stewardship Obligation",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#strategic-stewardship-obligation-constitutional",
-      "line_start": 3532,
-      "line_end": 3587,
+      "line_start": 3608,
+      "line_end": 3663,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3408
+        "line": 3481
       }
     },
     {
       "term": "Substantive Fairness",
       "source_file": "core_05_band_participation.md",
       "anchor": "#substantive-fairness-constitutional",
-      "line_start": 888,
-      "line_end": 949,
+      "line_start": 900,
+      "line_end": 961,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1986,34 +1986,34 @@
       "term": "Substrate Class",
       "source_file": "core_05_band_participation.md",
       "anchor": "#substrate-agnostic",
-      "line_start": 2152,
-      "line_end": 2190,
+      "line_start": 2164,
+      "line_end": 2205,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2100
+        "line": 2112
       }
     },
     {
       "term": "Surveillance Boundary",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#surveillance-boundary",
-      "line_start": 3893,
-      "line_end": 3943,
+      "line_start": 3969,
+      "line_end": 4019,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C3 Privacy (Informational) — peer-level cluster head",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3761
+        "line": 3837
       }
     },
     {
       "term": "Sustainability",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#sustainability",
-      "line_start": 1579,
-      "line_end": 1647,
+      "line_start": 1648,
+      "line_end": 1716,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2021,21 +2021,21 @@
       "term": "Sustained High-Gravity Pattern",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#sustained-high-gravity-pattern",
-      "line_start": 2627,
-      "line_end": 2666,
+      "line_start": 2920,
+      "line_end": 2965,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1982
+        "line": 2212
       }
     },
     {
       "term": "System",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#system-definition",
-      "line_start": 2364,
-      "line_end": 2398,
+      "line_start": 2437,
+      "line_end": 2471,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2044,7 +2044,7 @@
       "source_file": "core_05_band_continuity.md",
       "anchor": "#system-alignment-certification-constitutional",
       "line_start": 166,
-      "line_end": 241,
+      "line_end": 262,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2052,8 +2052,8 @@
       "term": "System Boundaries",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#system-boundaries",
-      "line_start": 2399,
-      "line_end": 2430,
+      "line_start": 2472,
+      "line_end": 2503,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2061,8 +2061,8 @@
       "term": "System Boundary Integrity",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#system-boundary-integrity",
-      "line_start": 2431,
-      "line_end": 2466,
+      "line_start": 2504,
+      "line_end": 2539,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2070,8 +2070,8 @@
       "term": "System Capture",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#system-capture",
-      "line_start": 2227,
-      "line_end": 2277,
+      "line_start": 2300,
+      "line_end": 2350,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2079,8 +2079,8 @@
       "term": "System Certification Record",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#system-certification-record-constitutional",
-      "line_start": 242,
-      "line_end": 307,
+      "line_start": 263,
+      "line_end": 345,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2088,8 +2088,8 @@
       "term": "System Classification Record",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#system-classification-record-constitutional",
-      "line_start": 308,
-      "line_end": 361,
+      "line_start": 346,
+      "line_end": 406,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2097,8 +2097,8 @@
       "term": "System Creation",
       "source_file": "core_05_band_participation.md",
       "anchor": "#system-creation-constitutional",
-      "line_start": 499,
-      "line_end": 558,
+      "line_start": 511,
+      "line_end": 570,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2106,8 +2106,8 @@
       "term": "System Data Types Record",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#system-data-types-record-constitutional",
-      "line_start": 362,
-      "line_end": 416,
+      "line_start": 407,
+      "line_end": 472,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2115,8 +2115,8 @@
       "term": "Systemic",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#systemic",
-      "line_start": 2123,
-      "line_end": 2177,
+      "line_start": 2196,
+      "line_end": 2250,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2124,8 +2124,8 @@
       "term": "Systemic Lock-In",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#systemic-lock-in",
-      "line_start": 2524,
-      "line_end": 2572,
+      "line_start": 2597,
+      "line_end": 2645,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2133,8 +2133,8 @@
       "term": "Systemic Materiality",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#systemic-materiality",
-      "line_start": 2178,
-      "line_end": 2226,
+      "line_start": 2251,
+      "line_end": 2299,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2142,8 +2142,8 @@
       "term": "Timely Resolution",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#timely-resolution-constitutional",
-      "line_start": 547,
-      "line_end": 586,
+      "line_start": 599,
+      "line_end": 644,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2151,78 +2151,78 @@
       "term": "Training-Data Use",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#training-data-use-constitutional",
-      "line_start": 3224,
-      "line_end": 3279,
+      "line_start": 3297,
+      "line_end": 3352,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 2909
+        "line": 2982
       }
     },
     {
       "term": "Transparency",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#transparency",
-      "line_start": 674,
-      "line_end": 725,
+      "line_start": 681,
+      "line_end": 740,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.O1 Transparency, Auditability, and Verification",
         "cluster_file": "core_05_band_oversight.md",
-        "line": 656
+        "line": 663
       }
     },
     {
       "term": "Trust",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#trust",
-      "line_start": 3993,
-      "line_end": 4027,
+      "line_start": 4069,
+      "line_end": 4103,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C4 Trust and Trustworthiness",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3983
+        "line": 4059
       }
     },
     {
       "term": "Trust Degradation and Misleading Reliance",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#trust-degradation-and-misleading-reliance",
-      "line_start": 4094,
-      "line_end": 4193,
+      "line_start": 4170,
+      "line_end": 4269,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C4 Trust and Trustworthiness",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3985
+        "line": 4061
       }
     },
     {
       "term": "Trustworthiness",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#trustworthiness",
-      "line_start": 4028,
-      "line_end": 4093,
+      "line_start": 4104,
+      "line_end": 4169,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C4 Trust and Trustworthiness",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3984
+        "line": 4060
       }
     },
     {
       "term": "Truth (Constitutional Constraint)",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#truth-constitutional-constraint",
-      "line_start": 1284,
-      "line_end": 1323,
+      "line_start": 1299,
+      "line_end": 1338,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.O2 Truth and Epistemic Integrity",
         "cluster_file": "core_05_band_oversight.md",
-        "line": 1152
+        "line": 1167
       }
     },
     {
@@ -2238,91 +2238,91 @@
       "term": "Unified Incident",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#unified-incident",
-      "line_start": 2505,
-      "line_end": 2544,
+      "line_start": 2790,
+      "line_end": 2829,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1979
+        "line": 2209
       }
     },
     {
       "term": "Unified Incident Record",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#unified-incident-record",
-      "line_start": 2545,
-      "line_end": 2587,
+      "line_start": 2830,
+      "line_end": 2880,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1980
+        "line": 2210
       }
     },
     {
       "term": "Use of Force",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#use-of-force-constitutional",
-      "line_start": 2712,
-      "line_end": 2777,
+      "line_start": 3011,
+      "line_end": 3076,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2695
+        "line": 2994
       }
     },
     {
       "term": "Verifiability",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#verifiability",
-      "line_start": 1044,
-      "line_end": 1119,
+      "line_start": 1059,
+      "line_end": 1134,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.O1 Transparency, Auditability, and Verification",
         "cluster_file": "core_05_band_oversight.md",
-        "line": 662
+        "line": 669
       }
     },
     {
       "term": "Verified Inputs for Standing",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#verified-inputs-for-standing",
-      "line_start": 2058,
-      "line_end": 2110,
+      "line_start": 2288,
+      "line_end": 2340,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1970
+        "line": 2200
       }
     },
     {
       "term": "Violation Nature",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#violation-nature-chapter-six",
-      "line_start": 2164,
-      "line_end": 2215,
+      "line_start": 2394,
+      "line_end": 2445,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1972
+        "line": 2202
       }
     },
     {
       "term": "Volitional Integrity",
       "source_file": "core_05_band_participation.md",
       "anchor": "#volitional-integrity",
-      "line_start": 3136,
-      "line_end": 3193,
+      "line_start": 3173,
+      "line_end": 3230,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2933
+        "line": 2970
       }
     },
     {
@@ -2338,21 +2338,21 @@
       "term": "Weapons of Mass Harm",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#weapons-of-mass-harm-constitutional",
-      "line_start": 2831,
-      "line_end": 2894,
+      "line_start": 3130,
+      "line_end": 3193,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2697
+        "line": 2996
       }
     },
     {
       "term": "Wellbeing",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#wellbeing",
-      "line_start": 603,
-      "line_end": 677,
+      "line_start": 659,
+      "line_end": 740,
       "category": "semi_independent",
       "cluster_membership": null
     }

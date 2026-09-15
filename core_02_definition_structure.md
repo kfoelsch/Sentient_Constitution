@@ -52,11 +52,11 @@ Chapter Two is the constitutional owner of **definition structure and component 
 
 <br>
 
-*In plain terms: this section is Chapter Two's job description. It owns the first layer of the definition stack: every constitutional definition is built from linked parts — what a term is (O), how it must be measured and assessed (the Measurement register interwoven with evaluation, M/E), and what must hold in practice (C) — and those parts must stay aligned. Satisfying one while sidestepping another does not count. Enforcement, governance, and measurement operations live in later chapters and must comply with what this chapter establishes.*
+*In plain terms: this section is Chapter Two's job description. It owns the first layer of the definition stack: every constitutional definition is built from linked parts — what a term is (O), how it must be measured and assessed (the Measurement register interwoven with assessment, M/A), and what must hold in practice (C) — and those parts must stay aligned. Satisfying one while sidestepping another does not count. Enforcement, governance, and measurement operations live in later chapters and must comply with what this chapter establishes.*
 
 Every constitutional definition MUST be built from linked parts, each with exactly one job:
 - **Ontological (O)** — what the term is about.
-- **Measurement (M)** — which measure applies at each tier. Measurement routing points assessment; it does not set pass/fail outcomes.
+- **Measurement (M)** — which measure applies at each tier. Measurement routing points assessment toward the right evidence; it does not set pass/fail outcomes.
 - **Assessment (A)** — how the term must be assessed. On Chapter Five leaf definitions, the **Measurement (M)** register is woven into the **Assessment (A)** component. See [§1.3 Assessment Components](#13-assessment-components).
 - **Compliance (C)** — what must be true in practice.
 
@@ -207,7 +207,7 @@ A definition is not met if the way it is built, read, or applied lets one part b
 
 #### 2.3 Construction Constraints
 Definitions must be written so that:
-- all parts (O, M, E, C) can only be met together under conditions that reflect how the system really behaves and what it really produces
+- all parts (O, M, A, C) can only be met together under conditions that reflect how the system really behaves and what it really produces
 - no part can be met by generalizing, splitting things up, narrowing the scope, or describing them in a way that leaves out system elements, interactions, or effects that actually matter
 - no measure stands in for the result it is meant to capture; a measure that drifts from the real-world result it represents (see [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)) cannot meet the definition, and the choice of measures must not shrink what has to be assessed or what has to hold in practice
 - no unstated assumptions, hidden dependencies, or left-out conditions change or weaken what must be assessed or what must hold in practice
@@ -226,7 +226,7 @@ If one reasonable reading would weaken safeguards, narrow what must be checked, 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [§2 Definition Integrity Requirement](#2-definition-integrity-requirement); [§1 Purpose and Role](#1-purpose-and-role).
-- Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [Chapter Four, section 2 — Definition Traceability Requirement](core_04_burden_traceability_verification.md#2-definition-traceability-requirement); Chapter Four sections **4.1**, **3**, **5**, and **6** where “reasonably foreseeable” appears without an inline Chapter Five pointer.
+- Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [Chapter Four, section 2 — Definition Traceability Requirement](core_04_burden_traceability_verification.md#2-definition-traceability-requirement); Chapter Four sections **4**, **3**, **5**, and **6** where “reasonably foreseeable” appears without an inline Chapter Five pointer.
 - Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05_band_oversight.md#foreseeability-diligence) — governing rule for every “reasonably foreseeable” in Chapters Two through Four; operative meaning in [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) (Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence)).
 
 </details>
@@ -238,7 +238,7 @@ If one reasonable reading would weaken safeguards, narrow what must be checked, 
 Whenever “reasonably foreseeable” appears anywhere in **Chapters Two through Four**, it means exactly what the Foreseeability definitions in Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence) say — nothing looser. Each use must point clearly back to those definitions.
 
 A definition's parts must stay consistent across:
-- the full range of conditions the system runs under — including normal operation, degraded operation, adversarial pressure, changes over time, and interactions with other systems, wherever those matter.
+- the full range of conditions the system runs under — including normal operation, degraded operation, adversarial pressure, changes over time, and interactions with other systems, wherever those matter
 - every reasonably foreseeable condition, as set out in Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence) (Foreseeability)
 - every reasonable reading the definition's wording and structure allow
 

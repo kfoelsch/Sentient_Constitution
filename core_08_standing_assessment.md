@@ -133,9 +133,17 @@ Question 1 uses a **contribution standing record** for verified help and a **vio
 <a id="21-silence-is-the-default"></a>
 **Silence is the default.** Having no standing record is the ordinary state of a sentient, institution, or system, and it is the state most sentients will remain in.
 
-- A record opens only on a verified trigger under **section 3**, entered by a named record-opening authority under **section 3.7**; it is never opened to establish a baseline, to complete a roster, or because a named pathway gatekeeper would prefer one.
+- A record opens only on a verified trigger under **section 3**, entered by a named record-opening authority under **section 3.7**; it is never opened:
+  - to establish a baseline;
+  - to complete a roster; or
+  - because a named pathway gatekeeper would prefer one.
 - The absence of a record supports no inference. "Unrated," "unverified," or "no record on file" is not evidence of risk, of low contribution, or of anything else, and may not be treated as a reason for closer scrutiny, a lower default, or a conditional named-pathway state.
-- No institution or system may require a standing record, a "no record" attestation, or consent to open one as a condition of **Article III** (*Survival and Equal Educational Access*) essentials, **Article III-D** (*Labor and Economic Floor*) protections, ordinary commerce, or participation as an affected party. Published competency bars for specific trust-sensitive named pathways under [Chapter Nine §6.2](core_09_standing_integration.md#62-competency-bars-and-clearances) are the exception, and they must state why the named pathway is trust-sensitive.
+- No institution or system may require a standing record, a "no record" attestation, or consent to open one as a condition of:
+  - **Article III** (*Survival and Equal Educational Access*) essentials;
+  - **Article III-D** (*Labor and Economic Floor*) protections;
+  - ordinary commerce; or
+  - participation as an affected party.
+  Published competency bars for specific trust-sensitive named pathways under [Chapter Nine §6.2 Competency bars and clearances](core_09_standing_integration.md#62-competency-bars-and-clearances) are the exception, and they must state why the named pathway is trust-sensitive.
 - When a record concerning a subject is opened, the subject must be notified under **section 3** unless a documented [Evidence Preservation](core_05_band_oversight.md#evidence-preservation) or Safety showing justifies a time-bounded delay; a record the subject cannot know about is not contestable.
 
 Any later standing effect belongs to Chapter Nine and must be traceable back to the relevant standing record or records without becoming part of the record itself.
@@ -256,7 +264,14 @@ Every standing record must include, at minimum:
 - any related standing records cross-referenced as required under **section 3.2**;
 - the records, witnesses, measurements, audits, forum decisions, or other verification materials that make the standing record demonstrable, reviewable, and contestable under Chapters Two through Four;
 - the **record-opening authority** that verified the factual basis and entered the record, and the **record custodian** that holds it, each named under **section 3.7**;
-- how to challenge the record, which forum or authority reviews it, any disclosure limits, and the conditions for correction, restoration, expiration, or scheduled review; and
+- how to challenge the record, including:
+  - which forum or authority reviews it;
+  - any disclosure limits; and
+  - the conditions for:
+    - correction;
+    - restoration;
+    - expiration; or
+    - scheduled review;
 - the axis-specific Question 2 measurement fields required below, once measurement occurs.
 
 **Inspectable attributable action.** For personnel/agents exercising Critical System Stewardship or material operational authority, reconstructable attributable-action evidence is specified in **[CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)** as the default logging contract for mixed crews. That evidence may feed this record. It does not replace this record. Model weights and private deliberation are not standing-record contents unless they are the only remaining attribution path. Privacy and internal-state protections do not create a standing-measurement exemption.
@@ -269,15 +284,50 @@ Every standing record must include, at minimum:
 
 **Contribution standing records** must also state:
 
-- the Question 2 contribution measurement, including the primary band, slot `s` where assigned, evidence basis, materiality reasoning, and any adopted LEQU or comparable calibration used for transparent support;
-- where contribution is shared, how credit was allocated, including how time, effort, coordination, maintenance, causal contribution, and less-visible support work were considered; and
+- the Question 2 contribution measurement, including:
+  - the primary band;
+  - slot `s` where assigned;
+  - evidence basis;
+  - materiality reasoning; and
+  - any adopted LEQU or comparable calibration used for transparent support;
+- where contribution is shared, how credit was allocated, including consideration of:
+  - time;
+  - effort;
+  - coordination;
+  - maintenance;
+  - causal contribution; and
+  - less-visible support work;
 - the contribution measurement basis that any later Chapter Nine standing effect must use.
 
 **Violation standing records** must also state:
 
-- the Question 2 violation measurement, including the finding authority or record basis, LEQU impact, slot `s` where assigned, process / response character where applicable, and any Chapter Ten designation status;
-- where violation is shared or distributed, the verified basis for any actor-specific adverse standing, including causal role, duty, authority, control, foreseeability, benefit, concealment, or feasible prevention capacity;
-- where the violation finding involves a forum disclosure omission or intentional recusal-process failure, the verified basis for the omission or failure, the unmet disclosure or recusal duty, the actor's knowledge, recklessness, or intent where found, and whether the conduct materially affected panel lawfulness, independence, recusal challenge, evidence integrity, remedy timing, backup routing, or practical contestability (read **§4.2** for measurement discipline); and
+- the Question 2 violation measurement, including:
+  - the finding authority or record basis;
+  - LEQU impact;
+  - slot `s` where assigned;
+  - process / response character where applicable; and
+  - any Chapter Ten designation status;
+- where violation is shared or distributed, the verified basis for any actor-specific adverse standing, including:
+  - causal role;
+  - duty;
+  - authority;
+  - control;
+  - foreseeability;
+  - benefit;
+  - concealment; or
+  - feasible prevention capacity;
+- where the violation finding involves a forum disclosure omission or intentional recusal-process failure (read **§4.2** (*Violation severity-input dimensions*) for measurement discipline):
+  - the verified basis for the omission or failure;
+  - the unmet disclosure or recusal duty;
+  - the actor's knowledge, recklessness, or intent where found; and
+  - whether the conduct materially affected:
+    - panel lawfulness;
+    - independence;
+    - recusal challenge;
+    - evidence integrity;
+    - remedy timing;
+    - backup routing; or
+    - practical contestability;
 - the violation measurement basis that any later Chapter Nine standing effect must use.
 
 <a id="32-related-record-cross-references"></a>
@@ -459,7 +509,17 @@ A **full-life-equivalent constitutional benefit** means verified benefit compara
 - **Not a net-score rule:** You cannot "cancel out" violations with contributions or vice versa. Each axis stands alone.
 - **Not a mandatory human-life metric:** The LEQU is sentient-generic; it applies to any conscious being, not just humans.
 - **Not an accusation metric:** Allegations, intake tags, routing decisions, reputation, disfavored status, or moral dislike do not supply Contribution Axis benefit or Violation Axis severity without verified inputs under **section 3.1** and calibration under **section 7**.
-- **Not a license to trade rights:** Claims framed as efficiency, productive capacity, innovation, burden reduction, security, retaliation, emergency response, or institutional necessity must be discounted or rejected where they depend on coercion, discriminatory burden shifting, ecological depletion, hidden unpaid work, avoidable opacity, Rights-Floor narrowing, capture, misleading proxies, loss of contestability, or unreviewable aggregation.
+- **Not a license to trade rights:** Claims framed as efficiency, productive capacity, innovation, burden reduction, security, retaliation, emergency response, or institutional necessity must be discounted or rejected where they depend on:
+  - coercion;
+  - discriminatory burden shifting;
+  - ecological depletion;
+  - hidden unpaid work;
+  - avoidable opacity;
+  - Rights-Floor narrowing;
+  - capture;
+  - misleading proxies;
+  - loss of contestability; or
+  - unreviewable aggregation.
 
 **Question 2 only.** Use these dimensions to measure the verified facts established under **section 2** and recorded under **section 3**. The **benefit-route** catalog in **section 4.3** and **harm-route** catalog in **section 4.4** supply the normalized names for kinds of help or harm and state how each name counts toward *how good* or *how bad*. Question 3 integration and attachment rules appear in [Chapter Nine §3](core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization), with consequence rules on the [benefit side](core_09_standing_integration.md#62-competency-bars-and-clearances) and [harm side](core_09_standing_integration.md#42-general-standing-locks).
 
@@ -755,7 +815,10 @@ Use the following rules to interpret both axes in **section 7**:
 
 The dimensions are not a checklist requiring every form of scale. Explain which dimensions controlled, which did not, and why.
 
-- **Shared slot method:** Estimate integrated verified benefit or loss in LEQU under Proportionality, then assign the one slot whose numeric band contains that magnitude. The same thresholds apply on both axes. Contribution slots retain the applicable baseline and constitutional-alignment requirements; satisfying a numeric threshold cannot make externalized or constitutionally defeated output count as contribution.
+- **Shared slot method:**
+  - Estimate integrated verified benefit or loss in LEQU under Proportionality, then assign the one slot whose numeric band contains that magnitude.
+  - The same thresholds apply on both axes.
+  - Contribution slots retain the applicable baseline and constitutional-alignment requirements; satisfying a numeric threshold cannot make externalized or constitutionally defeated output count as contribution.
 - **Character separation:** Keep applicable benefit-route, harm-route, conduct-quality, and conduct-character descriptors stacked in the record. Duty, negligence, deception, aggravation, coercion, violence, intent, or structural enablement may affect attribution, safeguards, or Question 3 consequences, but none raises or lowers the LEQU impact slot.
 - **Anti-Constitutional Misconduct Review boundary:** Verified Violation Axis loss may reach `s` = 7–9 by impact whether or not anti-constitutional misconduct is established. Chapter Ten does not replace the impact assignment; it independently determines whether the corresponding anti-constitutional-misconduct designation attaches.
 
@@ -841,11 +904,33 @@ Apply **Proportionality** to estimate integrated LEQU impact from depth, sentien
 - Use **Table 2** after Question 1 confirms what happened, Question 2 measures the verified benefit or loss, **sections 4 and 5.2** are applied, and the constitutional sources required by **section 6** are identified.
 - Assign one slot from the integrated LEQU estimate.
   - Explain how each material scaling dimension affected the estimate and why omitted dimensions did not control.
-  - Every assignment must satisfy traceability, auditability, contestability, and the applicable Rights Floor. Contribution must also satisfy non-externalization and constitutional alignment.
+  - Every assignment must satisfy:
+    - traceability;
+    - auditability;
+    - contestability; and
+    - the applicable Rights Floor.
+  - Contribution must also satisfy non-externalization and constitutional alignment.
 - Record conduct-character facts as separately traceable descriptors. They may control attribution, review intensity, safeguards, remedy, or a Chapter Ten designation; they affect the slot only to the extent that verified consequences alter the integrated LEQU impact.
-- Fully assess the verified consequences of the action or course of conduct, including physical injury, psychological trauma, coercive effects, deprivation or danger to liberty, cumulative harm, and other constitutionally cognizable benefit or loss, through the material scaling dimensions.
+- Fully assess the verified consequences of the action or course of conduct through the material scaling dimensions, including:
+  - physical injury;
+  - psychological trauma;
+  - coercive effects;
+  - deprivation or danger to liberty;
+  - cumulative harm; and
+  - other constitutionally cognizable benefit or loss.
 - Do not:
-  - Raise or lower the slot merely because an event or course of conduct is characterized by duty, negligence, intent, concealment, repetition, aggravation, coercion, violence, liberty danger, correctability, or a preferred consequence.
+  - Raise or lower the slot merely because an event or course of conduct is characterized by:
+    - duty;
+    - negligence;
+    - intent;
+    - concealment;
+    - repetition;
+    - aggravation;
+    - coercion;
+    - violence;
+    - liberty danger;
+    - correctability; or
+    - a preferred consequence.
   - Infer conduct character from magnitude or substitute conduct character for verified magnitude.
 
 | `s` | 80-year human calibration — benefit added / loss imposed | Contribution Axis | Violation Axis |

@@ -39,7 +39,7 @@ Chapter Three is the constitutional owner of **definition integrity, evasion, an
 
 - Upstream: Principles: [Chapter Two, §1 — Purpose and Role](core_02_definition_structure.md#1-purpose-and-role); [Chapter Two, §2 Definition Integrity Requirement](core_02_definition_structure.md#2-definition-integrity-requirement).
 - Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Four, section 2 — Definition Traceability Requirement](core_04_burden_traceability_verification.md#2-definition-traceability-requirement); [Chapter Four, section 5 — Compliance Evidence Standard](core_04_burden_traceability_verification.md#5-compliance-evidence-standard); [Chapter Eight — Contribution, Violation, and Standing Model](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
-- Read with: [Chapter One, section 4.2 — Truth (Epistemic Integrity Constraint)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
+- Read with: [Chapter One, section 3.2 — Truth (Epistemic Integrity Constraint)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
 
 </details>
 

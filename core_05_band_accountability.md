@@ -1249,7 +1249,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - economic; and
     - socio-technical layers that materially affect sentients.
 
-    Read [Preamble §3.3 governance-layer discipline](core_00_preamble.md#33-governance-layers) for routing between the [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer) and **Stakeholder System Participation**. At principle layer, **Governance** is subordinate to [Stewardship](core_05_band_continuity.md#stewardship-constitutional) when authorized structures, incentives, or procedures would otherwise allow foreseeable constitutional misalignment, Rights-Floor degradation, or short-term optimization that defeats durable alignment. **Chapter Twelve** and the **Constitutional Contract Layer** continue to own operative authorization requirements.
+    At principle layer, **Governance** is subordinate to [Stewardship](core_05_band_continuity.md#stewardship-constitutional) when authorized structures, incentives, or procedures would otherwise allow foreseeable constitutional misalignment, Rights-Floor degradation, or short-term optimization that defeats durable alignment. **Chapter Twelve** and the **Constitutional Contract Layer** continue to own operative authorization requirements.
   - **Out of scope:** private club bylaws, brand style guides, or informal social coordination that do not direct or constrain systems this Constitution governs.
 <a id="governance-a"></a>
 - **How to measure and assess**

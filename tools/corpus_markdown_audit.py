@@ -319,19 +319,19 @@ def check_ch4_32_mandatory_traceability_bidirectional(section_lines: list[str]) 
     errors: list[str] = []
     parent_i = None
     for i, line in enumerate(section_lines):
-        if line.rstrip() == "- bidirectional, such that:":
+        if line.rstrip() == "- be bidirectional, such that:":
             parent_i = i
             break
     if parent_i is None:
         errors.append(
-            "Chapter Four Chapter One §8.2: missing parent bullet '- bidirectional, such that:'"
+            "Chapter Four Chapter One §8.2: missing parent bullet '- be bidirectional, such that:'"
         )
         return errors
 
     children = collect_immediate_nested_bullets(section_lines, parent_i)
     if len(children) < 2:
         errors.append(
-            "Chapter Four Chapter One §8.2: '- bidirectional, such that:' must be followed by at least two nested child bullets"
+            "Chapter Four Chapter One §8.2: '- be bidirectional, such that:' must be followed by at least two nested child bullets"
         )
 
     return errors

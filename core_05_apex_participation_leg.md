@@ -16,7 +16,7 @@
 
 - Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) (participation leg; [material stake](../core_00_preamble.md#material-stake) scaling); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); primary aim [Flourishing](../core_00_preamble.md#flourishing).
 - Downstream: Principles: [Preamble §1 The Model](../core_00_preamble.md#the-model); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§11.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) where the stakeholder layer applies; [Tetrad Leg decomposition](#participation-tetrad-leg-decomposition); Participation-band leaf definitions in [core_05_band_participation.md](core_05_band_participation.md).
-- Read with: [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Contestability](core_05_band_accountability.md#contestability) (participation/accountability boundary), [Accessibility](core_05_band_participation.md#accessibility-constitutional), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional) (timely participation), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and Participation measurement family.
+- Read with: [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Contestability](core_05_band_accountability.md#contestability) (participation/accountability boundary), [Accessibility](core_05_band_participation.md#accessibility-constitutional), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional) (timely participation), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight), [System Capture](core_05_band_continuity.md#system-capture), and Participation measurement family.
 
 </details>
 
@@ -50,14 +50,6 @@
     - challenge decisions; and
     - reach roles with real effect
     under normal, degraded, and adversarial conditions.
-  - Read with:
-    - [Meaningful Agency](core_05_band_participation.md#meaningful-agency);
-    - [Contestability](core_05_band_accountability.md#contestability);
-    - [Accessibility](core_05_band_participation.md#accessibility-constitutional);
-    - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional);
-    - [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight);
-    - [System Capture](core_05_band_continuity.md#system-capture); and
-    - [Chapter One §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
 <a id="participation-constitutional-c"></a>
 - C: Non-compliant when:
   - there is structural exclusion;

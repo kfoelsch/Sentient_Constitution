@@ -101,7 +101,7 @@ Many small decisions that each look fine may still combine into an outcome this 
 *In plain terms: when you have to limit something, match the remedy to the problem — use the lightest step that still works, choose the least harmful option, and waste the least sentient time once Safety, Truth, and rights are already satisfied. The bar rises fast when harm could be irreversible or could lock systems in.*
 
 **How to read the stack:** Apply these rules as one sequence, not as independent permissions.
-- **[§6.1.1 Necessity](#611-necessity)** asks whether a restriction is needed at all, or whether a less-restrictive reasonably effective alternative can do the constitutional work. The restrictor bears the burden of proof.
+- **[§6.1.1 Necessity](#611-necessity)** asks whether a restriction is needed at all, or whether a less-restrictive, reasonably effective alternative can do the constitutional work. The restrictor bears the burden of proof.
 - **[§6.1.2 Harm Minimization](#612-harm-minimization)** requires the least harmful constitutionally adequate option across sentients, systems, and time horizons.
 - **[§6.1.3 Proportionality](#613-proportionality)** verifies that the scale of the selected limitation fits the magnitude, likelihood, and systemic character of the harm addressed.
 - **[§6.1.4 Constitutional Rights-Floor Minimums, Safety, and Process-Character Constraints](#614-constitutional-floors-safety-and-process-character-constraints)** states absolute limits that survive even a necessary, harm-minimizing, correctly proportioned restriction: certain Rights-Floor minimums cannot be permanently extinguished, Safety operates as both justification and constraint, and process character must never degrade into humiliation, spectacle, or retaliation.
@@ -467,7 +467,7 @@ Trust must not be preserved through deception or suppression of truth. Where ten
 
 <br>
 
-*In plain terms: privacy is a constitutionally weighted interest — not merely the absence of disclosure. Systems may not collect, infer, aggregate, retain, or use personal and relational information beyond what necessity and proportionality justify. Where privacy collides with transparency, audit, safety, or accountability obligations, the collision is resolved under §6.3, not by treating privacy as automatically subordinate. Surveillance that chills agency, association, or expression must satisfy the same necessity and least-restrictive discipline as any other rights restriction.*
+*In plain terms: privacy is a constitutionally weighted interest — not merely the absence of disclosure. Systems may not collect, infer, aggregate, retain, or use personal and relational information beyond what necessity and proportionality justify. Where privacy collides with transparency, audit, safety, or accountability obligations, the collision is resolved under the [§6.1 decision-record discipline](#615-rights-collision-decision-test), not by treating privacy as automatically subordinate. Surveillance that chills agency, association, or expression must satisfy the same necessity and least-restrictive discipline as any other rights restriction.*
 
 **Privacy as a constitutional interest.** Privacy — including informational privacy, spatial and relational privacy, and freedom from unjustified surveillance — is a constitutionally weighted interest that supports **Freedom** ([§5](core_01_a_values_principles.md#5-freedom-bounded-agency)), **Dignity** ([Article V-A](core_06_rights_part_b.md#article-v-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*)), and the conditions for meaningful agency and uncoerced participation. It carries independent constitutional weight in the tradeoff and collision machinery of this section.
 
@@ -592,7 +592,7 @@ Where incentive structures act on stewards or operators, this section reinforces
 
 *In plain terms: no single value in this chapter is a trump card — and neither **Flourishing** nor **Continuity** may be pursued at the expense of the other. Wellbeing cannot justify coercion, safety cannot justify indefinite lockdown, trust cannot be kept through lies, and freedom cannot excuse harm to the systems others depend on. No override may hollow the Tetrad's **participation**, **oversight**, or **accountability** legs below what material stake requires.*
 
-No value defined in this chapter may be used as a universal or unbounded justification for overriding the others — including one [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) aim at the expense of the other. All applications remain subject to the interaction and constraint principles above and must preserve the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) to the level [material stake](core_00_preamble.md#material-stake) requires. In particular:
+No value defined in this chapter may be used as a universal or unbounded justification for overriding the others — including one of the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) at the expense of the other. All applications remain subject to the interaction and constraint principles above and must preserve the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) to the level [material stake](core_00_preamble.md#material-stake) requires. In particular:
 - wellbeing must not be used to justify disproportionate coercion or epistemic manipulation
 - safety must not be used to justify indefinite or unbounded restriction
 - trust must not be maintained through falsehood
@@ -638,7 +638,7 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 
 <br>
 
-A constitutional requirement cannot be avoided by changing any of the following of the same substantive act:
+A constitutional requirement cannot be avoided by changing any of the following for the same substantive act:
 - label;
 - route;
 - owner;
@@ -681,7 +681,7 @@ It must not be used to bypass:
 
 <br>
 
-**Chapters Two through Five** govern the meaning, evaluation, and satisfaction conditions of all terms and constraints used in Chapter One. They tell you how to read those terms and what counts as evidence. They are not a second rulebook that can compete with Chapter One.
+**Chapters Two through Five** govern the meaning, evaluation, and satisfaction conditions of all terms and constraints used in Chapter One. They state how to read those terms and what counts as evidence. They are not a second rulebook that can compete with Chapter One.
 
 No interpretation of Chapter One is valid outside the definitions and evaluation constraints established in **Chapters Two through Five**. Every application must also preserve and apply:
 - **proportionality**, **necessity**, and **systemic evaluation**

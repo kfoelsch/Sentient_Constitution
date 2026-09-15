@@ -270,7 +270,7 @@ Those are failed tests for both kinds of steward.
 **Role-scoped observability:** What must be logged is the work of the role, not the steward as a person. [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) requires a reconstructable record of that work — the decision taken, the disclosure made or withheld, the instruction followed or refused, and who authorized it — for human and AI stewards alike. Four limits follow:
 
 - **Disclosed in advance:**
-  - Before taking up a role, a steward must be told what the role's actions will be logged and to whom the log is inspectable.
+  - Before taking up a role, a steward must be told which of the role's actions will be logged and to whom the log is inspectable.
   - Covert logging of a steward's role actions is a [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary) violation, not an audit practice.
 - **Outside the role, ordinary protection:**
   - Conduct, state, and expression outside the exercise of the role carry the same [Article VII-B](core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*Internal-State Boundary and Type-N Protection*) and [§6.2.3 Privacy and Informational Self-Determination](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination) protection for an AI steward as for a human one.
@@ -287,7 +287,7 @@ Those are failed tests for both kinds of steward.
   - is not the reason people grant or deny a named pathway. Whoever decides whether someone may use a role pathway, a trust pathway, or another named pathway may not treat this log as a [standing record](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) of verified help or harm. That access decision uses such a record, or the ordinary state of having none ([Chapter Eight §2.1 Silence is the default](core_08_standing_assessment.md#21-silence-is-the-default)). The log exists so the work can be reconstructed later — including if a Chapter Eight record is opened — not so a work trail can be used to hand out or withhold those named pathways.
   - may not be combined with logs or standing effects from other named pathways to make one reputation score, ranking, badge, or public profile ([Chapter Nine §7.1 Anti-aggregation of named-pathway effects](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects))
 
-The burden this duty places on a steward who carries consequential authority is real and this Constitution does not pretend otherwise; [Chapter Nine §7.2](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden) requires that it be stated plainly to the steward who bears it.
+The burden this duty places on a steward who carries consequential authority is real, and this Constitution does not pretend otherwise; [Chapter Nine §7.2 Plain statement of effect and burden](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden) requires that it be stated plainly to the steward who bears it.
 
 <a id="92-distributed-understanding"></a>
 #### 9.2 Distributed Understanding
@@ -949,7 +949,7 @@ Claims that a system, policy, or measure advances the [Two Constitutional Aims](
 
 Scoring tools and seats that look like participation still have to meet these limits:
 
-- **Instrumental measures:** Efficiency ratios and [Market Structure](core_05_band_accountability.md#market-structure-constitutional) discipline are tools for scoring a system, not the outcomes themselves. They **must remain** traceable to the outcomes they instrument — you have to be able to see what real result the number stands for — and they **must not** displace the Rights Floor in **Chapter Six** (the basic rights no sentient may be pushed below) or stronger adopter protections where those already apply.
+- **Instrumental measures:** Efficiency ratios and [Market Structure](core_05_band_accountability.md#market-structure-constitutional) discipline are tools for scoring a system, not the outcomes themselves. They **must remain** traceable to the outcomes they instrument — it must be possible to see what real result the number stands for — and they **must not** displace the Rights Floor in **Chapter Six** (the basic rights no sentient may be pushed below) or stronger adopter protections where those already apply.
 - **Symbolic participation:** A title, a suggestion box, or an advisory seat with no effect — nominal consultation, advisory theater, or influence without consequential effect — **must not** substitute for the participation [material stake](core_00_preamble.md#material-stake) requires.
 
 <a id="112-convenient-proxies-and-proxy-divergence"></a>
@@ -1650,7 +1650,7 @@ Adopters may set different thresholds by:
 - dependency density;
 - other context-appropriate factors.
 
-This provision does not impose one global number. Different constitutional federations may set different thresholds without non-compliance by itself, provided the floor holds. See [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) for the definitional anchor.
+This provision does not impose one global number. Different constitutional federations may set different thresholds without that alone constituting non-compliance, provided the floor holds. See [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) for the definitional anchor.
 
 Operative threshold-setting discipline — floor preservation, substance-over-form review, anti-nullification, and heightened-scrutiny triggers — lives in **CJS-3.11.1 — Concentration threshold-setting discipline (adopter-tunable)**.
 
@@ -1738,7 +1738,7 @@ None of the following:
 - enterprise(s);
 - state organ(s);
 - steward(s);
-- coordinated group(s).
+- coordinated group(s)
 
 may:
 - create;
@@ -1746,7 +1746,7 @@ may:
 - acquire;
 - exploit;
 - conceal;
-- restructure around.
+- restructure around
 
 durable power of any of the following kinds:
 - market;
@@ -1888,7 +1888,7 @@ The principal risk patterns are:
 - **Vertical consolidation** (*cross-layer dependency and chokepoint control*). Consolidation that links control across layers of a value chain, platform stack, or dependency chain — for example input or interface capture, capital-access gatekeeping, interoperability or portability suppression, self-preferencing, or ranking control that raises switching costs and defeats exit.
 - **Cross-domain and federated structures:** Arrangements across domains, platforms, shells, successors, or federated forms that preserve effective consolidation while clearing nominal horizontal or vertical tests.
 
-Either pattern may involve dependency density, switching costs, lock-in, substitute foreclosure, or ecological burden concentration or control over environmental preconditions where materially relevant.
+Any of these patterns may involve dependency density, switching costs, lock-in, substitute foreclosure, or ecological burden concentration or control over environmental preconditions where materially relevant.
 
 Ceiling evaluation judges:
 - substantive control;

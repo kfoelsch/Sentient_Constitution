@@ -41,7 +41,7 @@
 
 *In plain terms: Chapter One sets the values and constraints that govern every other chapter. Shared systems must pursue **Flourishing** and **Continuity** together — not one at the expense of the other — and no single value may be maximized at the expense of the others.*
 
-<a id="two-constitutional-aims"></a><a id="flourishing"></a><a id="continuity"></a>This chapter establishes the principles and constraints that govern interpretation, application, and evolution of this Constitution. It develops the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), [**Flourishing**](core_00_preamble.md#flourishing), and [**Continuity**](core_00_preamble.md#continuity) established in [Preamble §1 The Model](core_00_preamble.md#the-model) into operative principles and constraints. Canonical principle-layer definitions live in the Preamble; this chapter applies them.
+<a id="two-constitutional-aims"></a><a id="flourishing"></a><a id="continuity"></a>This chapter establishes the principles and constraints that govern interpretation, application, and evolution of this Constitution. It develops the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — [**Flourishing**](core_00_preamble.md#flourishing) and [**Continuity**](core_00_preamble.md#continuity) — established in [Preamble §1 The Model](core_00_preamble.md#the-model) into operative principles and constraints. Canonical principle-layer definitions live in the Preamble; this chapter applies them.
 
 Those aims must be pursued together, always within the non-negotiable principle constraints and rights protections established in this Constitution. The [**Constitutional Tetrad**](core_00_preamble.md#constitutional-tetrad) governs how that pursuit remains legitimate — scaled to [**material stake**](core_00_preamble.md#material-stake).
 
@@ -50,7 +50,7 @@ These values:
 - function as interacting principles and constraints that must be evaluated together.
 - apply to all "systems," which include technical, organizational, economic, socio-technical structures, and ecosystems that materially affect sentients and the planet Earth.
 
-No single principle may be applied in isolation where doing so would materially violate the others. Where tensions arise, systems must resolve them under the proportionality, necessity, and systemic-impact requirements stated in this chapter. Where unresolved conflict directly implicates non-negotiable principle constraints, Chapter One, **§5** — Process Conflict Resolution controls precedence.
+No single principle may be applied in isolation where doing so would materially violate the others. Where tensions arise, systems must resolve them under the proportionality, necessity, and systemic-impact requirements stated in this chapter. Where unresolved conflict directly implicates non-negotiable principle constraints, Chapter One **§6** Process Conflict Resolution controls precedence.
 
 ### 2. Foundational Objective: Wellbeing
 <details>
@@ -135,7 +135,7 @@ Fairness helps make [Participation](core_05_apex_participation_leg.md#participat
 
 It is not enough for a system to show a good average result. One headline metric, average, ranking, or efficiency claim does not prove fairness by itself. A system can look successful in the aggregate while still being unfair to sentients who are excluded, misclassified, underpaid, overburdened, or denied a meaningful chance to object.
 
-This section has **three working parts**. They guide this section but do not replace Chapter Five definitions or the Chapter Six Rights Floor.
+This section has **four working parts**. They guide this section but do not replace Chapter Five definitions or the Chapter Six Rights Floor.
 
 <a id="211-access-and-opportunity"></a>
 ##### 2.1.1 Access and Opportunity
@@ -169,7 +169,7 @@ Unfair treatment creates exclusion and inconsistency. Systems must not hide unfa
 - use intimate personal signals or sexual history as shortcuts for trust, risk, character, or access — read with [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention);
 - punish lawful employment, employment history, lack of employment, lawful work status, or protected association without a constitutionally valid reason;
 - deny jobs, housing, banking, licenses, standing, or similar access **mainly because** of any lawful form of employment, lawful past employment, lawful perceived employment, or lack of employment;
-- create material disadvantage through licensing, zoning, fees, platform rules, or other neutral-looking requirements that mainly burden lawful work, lawful work history, perceived lawful work, lack of employment, or protected association without the justification this Constitution requires;
+- create material disadvantage through licensing, zoning, fees, platform rules, or other neutral-looking requirements that mainly burden lawful work, lawful work history, perceived lawful work, lack of employment, or protected association without the justification this Constitution requires.
 
 These four parts also support [4. Trust](#4-system-stability-enabler-trust-coordination-integrity) where sentients must rely on a system, accept its decisions, or coordinate around its promises.
 
@@ -218,7 +218,7 @@ That is a constitutional duty, not optional culture. Shared systems should make 
 **Celebration** honors **traceable**, **non-misleading** accomplishment and prosocial coordination. That includes uplift and stewardship narratives tied to verified [contribution](core_05_band_continuity.md#contribution).
 
 Celebration must not:
-- substitute for proxy optimization that diverges from underlying constitutional objectives ([§2](#2-foundational-objective-wellbeing))
+- substitute for real progress toward underlying constitutional objectives where proxy optimization has diverged from them ([§2 Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing))
 - become **capture** of acclaim or prestige ([§11 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture))
 - excuse avoidance of accountability where Safety, Truth, or rights protections are implicated
 
@@ -562,7 +562,7 @@ Systems that sentients depend on should be built to:
 - fail along paths that were planned and disclosed, not hidden ones;
 - recover in ways consistent with [Reversibility](core_05_band_continuity.md#reversibility-constitutional) and the Chapter Six Rights Floor.
 
-This is what Chapter Five calls [**Self-Healing**](core_05_band_continuity.md#self-healing-constitutional) — and it is only legitimate when it makes a system more honest about its own condition, not less. Automatic recovery that masks root cause, suppresses evidence, or substitutes for governance is not self-healing. It is a [Truth](core_05_band_oversight.md#truth-constitutional-constraint) violation and an [Incentive Alignment](core_05_band_integrative.md#incentive-alignment) defect.
+This is what Chapter Five calls [**Self-Healing**](core_05_band_continuity.md#self-healing-constitutional) — and it is only legitimate when it makes a system more honest about its own condition, not less. Automatic recovery that masks the root cause, suppresses evidence, or substitutes for governance is not self-healing. It is a [Truth](core_05_band_oversight.md#truth-constitutional-constraint) violation and an [Incentive Alignment](core_05_band_integrative.md#incentive-alignment) defect.
 
 The more sentients depend on a system and the greater its impact, the less that system should rely on emergency intervention. It should instead invest in tested, audited, bounded self-recovery — reducing [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) and supporting long-term [**Continuity**](#continuity).
 
@@ -733,7 +733,7 @@ The cluster's own reading rules live there. **§5.3** applies the anti-segmentat
 - **[Article III-D](core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)** (*Labor and Economic Floor*) — collective organization in productive and economic activity (unions, cooperatives, guilds, worker councils, and comparable forms used to shape the terms of work), and [Business Creation](core_05_band_participation.md#business-creation-constitutional)
 - **[Article IX-B](core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights)** (*Stakeholder Role and Participation Rights*) and **[Article XI](core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)** (*Stakeholder System Participation, Representation, and Due Process*) — [System Creation](core_05_band_participation.md#system-creation-constitutional) (forming and running non-commercial institutions)
 
-**When the full definition cluster applies.** The anti-segmentation rule applies when [Assembly](core_05_band_participation.md#assembly-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [System Creation](core_05_band_participation.md#system-creation-constitutional), or [Business Creation](core_05_band_participation.md#business-creation-constitutional) is material in a way that those questions travel together.
+**When the full definition cluster applies.** The anti-segmentation rule applies when [Assembly](core_05_band_participation.md#assembly-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [System Creation](core_05_band_participation.md#system-creation-constitutional), or [Business Creation](core_05_band_participation.md#business-creation-constitutional) is material in a way that makes those questions travel together.
 
 **When lighter rules apply.** If the matter is only one of those questions — for example, an ordinary civic gathering with no labor-organizing or institution-forming stake — use [Assembly](core_05_band_participation.md#assembly-constitutional) or [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) as an ordinary supporting definition. Do not pull in [System Creation](core_05_band_participation.md#system-creation-constitutional), [Business Creation](core_05_band_participation.md#business-creation-constitutional), or the rest of this definition cluster, and do not apply **§5.3**'s anti-segmentation package, just because one of those terms appears. Single-definition use is not a license to re-segment a jointly covered matter.
 
@@ -748,7 +748,7 @@ Whole-system evaluations must test anti-segmentation under [Chapter Seven §3.5 
 
 *In plain terms: you may start legitimate work without a sponsor, and institutions must give credible work a real procedural path — but that path is not power to govern others, and it is not a final decision on the substance.*
 
-The freedom to assemble or create a system includes a real way to start work this Constitution treats as legitimate, without waiting for people already in charge to sponsor you. [§9.5 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) is the operative home. This subsection applies that rule at the Freedom / assembly-and-formation layer.
+The freedom to assemble or create a system includes a real way to start work this Constitution treats as legitimate, without waiting for people already in charge to sponsor it. [§9.5 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) is the operative home. This subsection applies that rule at the Freedom / assembly-and-formation layer.
 
 When that work is credible and materially relevant, institutions must give it a real procedural path:
 - receive it

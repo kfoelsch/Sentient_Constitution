@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-13T17:30:44+00:00",
+  "generated_at": "2026-09-15T19:56:00+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 14511,
+  "edge_count": 14555,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -713,7 +713,7 @@
     {
       "source_file": "core_00_preamble.md",
       "source_header": "1. The Model",
-      "source_anchor": null,
+      "source_anchor": "#complexity-orientation",
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability",
       "count": 1
@@ -721,7 +721,7 @@
     {
       "source_file": "core_00_preamble.md",
       "source_header": "1. The Model",
-      "source_anchor": null,
+      "source_anchor": "#complexity-orientation",
       "target_file": "core_05_apex_continuity_aim.md",
       "target_anchor": "#continuity-aim-constitutional",
       "count": 1
@@ -729,7 +729,7 @@
     {
       "source_file": "core_00_preamble.md",
       "source_header": "1. The Model",
-      "source_anchor": null,
+      "source_anchor": "#complexity-orientation",
       "target_file": "core_05_apex_flourishing_aim.md",
       "target_anchor": "#flourishing-constitutional",
       "count": 1
@@ -737,7 +737,7 @@
     {
       "source_file": "core_00_preamble.md",
       "source_header": "1. The Model",
-      "source_anchor": null,
+      "source_anchor": "#complexity-orientation",
       "target_file": "core_05_apex_oversight_leg.md",
       "target_anchor": "#oversight-constitutional",
       "count": 1
@@ -745,7 +745,7 @@
     {
       "source_file": "core_00_preamble.md",
       "source_header": "1. The Model",
-      "source_anchor": null,
+      "source_anchor": "#complexity-orientation",
       "target_file": "core_05_apex_participation_leg.md",
       "target_anchor": "#participation-constitutional",
       "count": 1
@@ -753,7 +753,7 @@
     {
       "source_file": "core_00_preamble.md",
       "source_header": "1. The Model",
-      "source_anchor": null,
+      "source_anchor": "#complexity-orientation",
       "target_file": "core_05_apex_timeliness_leg.md",
       "target_anchor": "#timeliness-constitutional",
       "count": 1
@@ -7131,7 +7131,7 @@
       "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
       "source_anchor": "#844-combined-satisfaction",
       "target_file": "core_05__definitions_home.md",
-      "target_anchor": "#joint-invocation-and-satisfaction",
+      "target_anchor": "#21-joint-invocation-and-satisfaction",
       "count": 1
     },
     {
@@ -9946,7 +9946,15 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "11.1.4 Role-Depth and Material-Responsibility Pathways",
       "source_anchor": "#1114-role-depth-and-material-responsibility-pathways",
-      "target_file": "corpus_systems.md",
+      "target_file": "core_12_governance.md",
+      "target_anchor": "#5-authorized-roles-competency-development-and-contribution",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.1.4 Role-Depth and Material-Responsibility Pathways",
+      "source_anchor": "#1114-role-depth-and-material-responsibility-pathways",
+      "target_file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "target_anchor": null,
       "count": 1
     },
@@ -10124,7 +10132,7 @@
       "source_anchor": "#113-misalignment-detection",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -10164,7 +10172,7 @@
       "source_anchor": "#113-misalignment-detection",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture",
-      "count": 4
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -10187,8 +10195,32 @@
       "source_header": "11.3 Misalignment Detection",
       "source_anchor": "#113-misalignment-detection",
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.3 Misalignment Detection",
+      "source_anchor": "#113-misalignment-detection",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.3 Misalignment Detection",
+      "source_anchor": "#113-misalignment-detection",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.3 Misalignment Detection",
+      "source_anchor": "#113-misalignment-detection",
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#review-and-correction-duty-constitutional",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -10210,17 +10242,9 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "11.3 Misalignment Detection",
       "source_anchor": "#113-misalignment-detection",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#anti-capture",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "11.3 Misalignment Detection",
-      "source_anchor": "#113-misalignment-detection",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#incentive-alignment",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -10266,24 +10290,64 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "11.3 Misalignment Detection",
       "source_anchor": "#113-misalignment-detection",
+      "target_file": "corpus_systems.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.3.1 Escalation Triggers",
+      "source_anchor": "#1131-escalation-triggers",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.3.1 Escalation Triggers",
+      "source_anchor": "#1131-escalation-triggers",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.3.1 Escalation Triggers",
+      "source_anchor": "#1131-escalation-triggers",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.3.1 Escalation Triggers",
+      "source_anchor": "#1131-escalation-triggers",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#review-and-correction-duty-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.3.1 Escalation Triggers",
+      "source_anchor": "#1131-escalation-triggers",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#incentive-alignment",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.3.1 Escalation Triggers",
+      "source_anchor": "#1131-escalation-triggers",
       "target_file": "core_08_standing_assessment.md",
       "target_anchor": "#chapter-eight-compliance-violation-and-standing-model",
       "count": 1
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "11.3 Misalignment Detection",
-      "source_anchor": "#113-misalignment-detection",
+      "source_header": "11.3.1 Escalation Triggers",
+      "source_anchor": "#1131-escalation-triggers",
       "target_file": "core_10_b_misconduct_pattern_applications.md",
       "target_anchor": "#51-concentration-based-subversion-criteria-interaction",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "11.3 Misalignment Detection",
-      "source_anchor": "#113-misalignment-detection",
-      "target_file": "corpus_systems.md",
-      "target_anchor": null,
       "count": 1
     },
     {
@@ -10396,7 +10460,7 @@
       "source_anchor": "#114-misalignment-correction-and-capture-response",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -10467,7 +10531,23 @@
       "source_header": "11.4 Misalignment Correction and Capture Response",
       "source_anchor": "#114-misalignment-correction-and-capture-response",
       "target_file": "core_08_standing_assessment.md",
-      "target_anchor": "#4-standing-measurement-evaluation-dimensions",
+      "target_anchor": "#4-question-2-how-good-or-bad-was-it",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.4 Misalignment Correction and Capture Response",
+      "source_anchor": "#114-misalignment-correction-and-capture-response",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#41-contribution-magnitude-input-dimensions",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.4 Misalignment Correction and Capture Response",
+      "source_anchor": "#114-misalignment-correction-and-capture-response",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#42-violation-severity-input-dimensions",
       "count": 1
     },
     {
@@ -10508,7 +10588,7 @@
       "source_anchor": "#115-contingent-claims-games-of-chance-and-event-contract-markets",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#capture-of-resolution-pathways",
-      "count": 4
+      "count": 3
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -10516,7 +10596,7 @@
       "source_anchor": "#115-contingent-claims-games-of-chance-and-event-contract-markets",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
-      "count": 4
+      "count": 3
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -10524,7 +10604,7 @@
       "source_anchor": "#115-contingent-claims-games-of-chance-and-event-contract-markets",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#insider-advantage",
-      "count": 5
+      "count": 4
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -10652,7 +10732,7 @@
       "source_anchor": "#115-contingent-claims-games-of-chance-and-event-contract-markets",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -10676,7 +10756,7 @@
       "source_anchor": "#115-contingent-claims-games-of-chance-and-event-contract-markets",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -10700,7 +10780,7 @@
       "source_anchor": "#115-contingent-claims-games-of-chance-and-event-contract-markets",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -10732,7 +10812,7 @@
       "source_anchor": "#115-contingent-claims-games-of-chance-and-event-contract-markets",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#truth-constitutional-constraint",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -10788,23 +10868,95 @@
       "source_anchor": "#115-contingent-claims-games-of-chance-and-event-contract-markets",
       "target_file": "core_07_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.5.1 What May Not Be Rewarded",
+      "source_anchor": "#1151-what-may-not-be-rewarded",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#capture-of-resolution-pathways",
       "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "11.5 Contingent Claims, Games of Chance, and Event-Contract Markets",
-      "source_anchor": "#115-contingent-claims-games-of-chance-and-event-contract-markets",
-      "target_file": "corpus_institutions.md",
-      "target_anchor": null,
+      "source_header": "11.5.1 What May Not Be Rewarded",
+      "source_anchor": "#1151-what-may-not-be-rewarded",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#insider-advantage",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.5.2 Who Decides Outcomes",
+      "source_anchor": "#1152-who-decides-outcomes",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
       "count": 1
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "11.5 Contingent Claims, Games of Chance, and Event-Contract Markets",
-      "source_anchor": "#115-contingent-claims-games-of-chance-and-event-contract-markets",
+      "source_header": "11.5.3 Market Signals Are Not Constitutional Proof",
+      "source_anchor": "#1153-market-signals-are-not-constitutional-proof",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.5.3 Market Signals Are Not Constitutional Proof",
+      "source_anchor": "#1153-market-signals-are-not-constitutional-proof",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.5.4 Proportionate Controls and Implementation Custody",
+      "source_anchor": "#1154-proportionate-controls-and-implementation-custody",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.5.4 Proportionate Controls and Implementation Custody",
+      "source_anchor": "#1154-proportionate-controls-and-implementation-custody",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.5.4 Proportionate Controls and Implementation Custody",
+      "source_anchor": "#1154-proportionate-controls-and-implementation-custody",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.5.4 Proportionate Controls and Implementation Custody",
+      "source_anchor": "#1154-proportionate-controls-and-implementation-custody",
+      "target_file": "core_07_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#3-whole-system-certification-evaluation",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.5.4 Proportionate Controls and Implementation Custody",
+      "source_anchor": "#1154-proportionate-controls-and-implementation-custody",
+      "target_file": "corpus_institutions.md",
+      "target_anchor": null,
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.5.4 Proportionate Controls and Implementation Custody",
+      "source_anchor": "#1154-proportionate-controls-and-implementation-custody",
       "target_file": "corpus_systems.md",
       "target_anchor": null,
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -11442,38 +11594,6 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "12.1 Productive Capacity (Instrumental Good)",
       "source_anchor": "#121-productive-capacity-instrumental-good",
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#6-process-conflict-resolution",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "12.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#121-productive-capacity-instrumental-good",
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#615-rights-collision-decision-test",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "12.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#121-productive-capacity-instrumental-good",
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#7-prohibition-on-absolute-override",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "12.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#121-productive-capacity-instrumental-good",
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#624-proxy-divergence-invalidation",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "12.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#121-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#productive-capacity-constitutional",
       "count": 3
@@ -11524,7 +11644,7 @@
       "source_anchor": "#121-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#constitutional-efficiency",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -11572,7 +11692,7 @@
       "source_anchor": "#121-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-integrity-constitutional",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -11596,7 +11716,7 @@
       "source_anchor": "#121-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#environmental-preconditions-constitutional",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -11620,7 +11740,7 @@
       "source_anchor": "#121-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#intergenerational-responsibility-constitutional",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -11688,11 +11808,107 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "12.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#121-productive-capacity-instrumental-good",
+      "source_header": "12.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#1211-preserve-expand-and-what-does-not-count",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#31-safety-harm-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "12.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#1211-preserve-expand-and-what-does-not-count",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#32-truth-epistemic-integrity-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "12.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#1211-preserve-expand-and-what-does-not-count",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#4-system-stability-enabler-trust-coordination-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "12.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#1211-preserve-expand-and-what-does-not-count",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "12.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#1211-preserve-expand-and-what-does-not-count",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#6-process-conflict-resolution",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "12.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#1211-preserve-expand-and-what-does-not-count",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#624-proxy-divergence-invalidation",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "12.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#1211-preserve-expand-and-what-does-not-count",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#7-prohibition-on-absolute-override",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "12.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#1211-preserve-expand-and-what-does-not-count",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#615-rights-collision-decision-test",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "12.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#1211-preserve-expand-and-what-does-not-count",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#constitutional-efficiency",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "12.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#1211-preserve-expand-and-what-does-not-count",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-integrity-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "12.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#1211-preserve-expand-and-what-does-not-count",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#environmental-preconditions-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "12.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#1211-preserve-expand-and-what-does-not-count",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#intergenerational-responsibility-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "12.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#1211-preserve-expand-and-what-does-not-count",
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#article-i-a-environmental-preconditions-and-ecological-integrity",
-      "count": 1
+      "count": 3
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -12068,7 +12284,7 @@
       "source_anchor": "#131-market-concentration-threshold-mechanism-adopter-tunable",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#market-concentration-threshold-constitutional",
-      "count": 4
+      "count": 3
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -12146,6 +12362,14 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "13.1 Market Concentration Threshold Mechanism (Adopter-Tunable)",
       "source_anchor": "#131-market-concentration-threshold-mechanism-adopter-tunable",
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#4-question-2-how-good-or-bad-was-it",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "13.1 Market Concentration Threshold Mechanism (Adopter-Tunable)",
+      "source_anchor": "#131-market-concentration-threshold-mechanism-adopter-tunable",
       "target_file": "core_10_b_misconduct_pattern_applications.md",
       "target_anchor": "#51-concentration-based-subversion-criteria-interaction",
       "count": 2
@@ -12156,6 +12380,30 @@
       "source_anchor": "#131-market-concentration-threshold-mechanism-adopter-tunable",
       "target_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "target_anchor": "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "13.1.1 Concentration Threshold Triggers (Adopter-Tunable)",
+      "source_anchor": "#1311-concentration-threshold-triggers-adopter-tunable",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#market-concentration-threshold-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "13.1.1 Concentration Threshold Triggers (Adopter-Tunable)",
+      "source_anchor": "#1311-concentration-threshold-triggers-adopter-tunable",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "13.1.1 Concentration Threshold Triggers (Adopter-Tunable)",
+      "source_anchor": "#1311-concentration-threshold-triggers-adopter-tunable",
+      "target_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
+      "target_anchor": "#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable",
       "count": 1
     },
     {
@@ -16258,24 +16506,8 @@
       "source_file": "core_03_definition_integrity.md",
       "source_header": "3. Non-Compliance Finding Profiles",
       "source_anchor": null,
-      "target_file": "core_02_definition_structure.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_03_definition_integrity.md",
-      "source_header": "3. Non-Compliance Finding Profiles",
-      "source_anchor": null,
       "target_file": "core_04_burden_traceability_verification.md",
       "target_anchor": "#2-definition-traceability-requirement",
-      "count": 1
-    },
-    {
-      "source_file": "core_03_definition_integrity.md",
-      "source_header": "3. Non-Compliance Finding Profiles",
-      "source_anchor": null,
-      "target_file": "core_04_burden_traceability_verification.md",
-      "target_anchor": null,
       "count": 1
     },
     {
@@ -16292,22 +16524,6 @@
       "source_anchor": null,
       "target_file": "core_07_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#chapter-seven-system-alignment-certification",
-      "count": 3
-    },
-    {
-      "source_file": "core_03_definition_integrity.md",
-      "source_header": "3. Non-Compliance Finding Profiles",
-      "source_anchor": null,
-      "target_file": "core_07_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
-      "count": 1
-    },
-    {
-      "source_file": "core_03_definition_integrity.md",
-      "source_header": "3. Non-Compliance Finding Profiles",
-      "source_anchor": null,
-      "target_file": "core_07_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#15-relationship-to-standing",
       "count": 1
     },
     {
@@ -16316,7 +16532,7 @@
       "source_anchor": null,
       "target_file": "core_08_standing_assessment.md",
       "target_anchor": "#chapter-eight-compliance-violation-and-standing-model",
-      "count": 4
+      "count": 2
     },
     {
       "source_file": "core_03_definition_integrity.md",
@@ -16324,7 +16540,7 @@
       "source_anchor": null,
       "target_file": "core_09_standing_integration.md",
       "target_anchor": "#chapter-nine-standing-effects-and-integration",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_03_definition_integrity.md",
@@ -16332,7 +16548,95 @@
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
       "target_anchor": "#cjs-31-constitutional-compass-and-cluster-map",
-      "count": 2
+      "count": 1
+    },
+    {
+      "source_file": "core_03_definition_integrity.md",
+      "source_header": "3.1 Standing Effects for Already-Certified Systems",
+      "source_anchor": null,
+      "target_file": "core_07_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#chapter-seven-system-alignment-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_03_definition_integrity.md",
+      "source_header": "3.1 Standing Effects for Already-Certified Systems",
+      "source_anchor": null,
+      "target_file": "core_07_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "count": 1
+    },
+    {
+      "source_file": "core_03_definition_integrity.md",
+      "source_header": "3.1 Standing Effects for Already-Certified Systems",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#chapter-eight-compliance-violation-and-standing-model",
+      "count": 1
+    },
+    {
+      "source_file": "core_03_definition_integrity.md",
+      "source_header": "3.1 Standing Effects for Already-Certified Systems",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#verified-inputs-for-standing",
+      "count": 1
+    },
+    {
+      "source_file": "core_03_definition_integrity.md",
+      "source_header": "3.2 Standing Effects at First Certification",
+      "source_anchor": null,
+      "target_file": "core_07_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#chapter-seven-system-alignment-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_03_definition_integrity.md",
+      "source_header": "3.2 Standing Effects at First Certification",
+      "source_anchor": null,
+      "target_file": "core_07_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#15-relationship-to-standing",
+      "count": 1
+    },
+    {
+      "source_file": "core_03_definition_integrity.md",
+      "source_header": "3.3 Standing Effects for Sentients and Institutions",
+      "source_anchor": null,
+      "target_file": "core_08_standing_assessment.md",
+      "target_anchor": "#chapter-eight-compliance-violation-and-standing-model",
+      "count": 1
+    },
+    {
+      "source_file": "core_03_definition_integrity.md",
+      "source_header": "3.3 Standing Effects for Sentients and Institutions",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#chapter-nine-standing-effects-and-integration",
+      "count": 1
+    },
+    {
+      "source_file": "core_03_definition_integrity.md",
+      "source_header": "3.4 Operational Constraints",
+      "source_anchor": null,
+      "target_file": "core_02_definition_structure.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_03_definition_integrity.md",
+      "source_header": "3.4 Operational Constraints",
+      "source_anchor": null,
+      "target_file": "core_04_burden_traceability_verification.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_03_definition_integrity.md",
+      "source_header": "3.4 Operational Constraints",
+      "source_anchor": null,
+      "target_file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
+      "target_anchor": "#cjs-31-constitutional-compass-and-cluster-map",
+      "count": 1
     },
     {
       "source_file": "core_04_burden_traceability_verification.md",
@@ -16715,7 +17019,7 @@
       "source_header": "Chapter Five compass and definition map",
       "source_anchor": "#chapter-five-compass-and-definition-map",
       "target_file": "core_05__definitions_home.md",
-      "target_anchor": "#joint-invocation-and-satisfaction",
+      "target_anchor": "#11-invocation-satisfaction-and-compliance",
       "count": 1
     },
     {
@@ -16723,7 +17027,15 @@
       "source_header": "Chapter Five compass and definition map",
       "source_anchor": "#chapter-five-compass-and-definition-map",
       "target_file": "core_05__definitions_home.md",
-      "target_anchor": "#standalone-definitions-interaction-and-full-context",
+      "target_anchor": "#21-joint-invocation-and-satisfaction",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Chapter Five compass and definition map",
+      "source_anchor": "#chapter-five-compass-and-definition-map",
+      "target_file": "core_05__definitions_home.md",
+      "target_anchor": "#22-standalone-definitions-interaction-and-full-context",
       "count": 1
     },
     {
@@ -19060,7 +19372,7 @@
       "source_anchor": "#accountability",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
-      "count": 4
+      "count": 3
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
@@ -19100,7 +19412,7 @@
       "source_anchor": "#accountability",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
@@ -19108,7 +19420,7 @@
       "source_anchor": "#accountability",
       "target_file": "core_09_standing_integration.md",
       "target_anchor": "#91-remediation-capacity-and-funding",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
@@ -19116,7 +19428,7 @@
       "source_anchor": "#accountability",
       "target_file": "core_09_standing_integration.md",
       "target_anchor": "#94-anti-evasion-and-look-through-authority",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
@@ -19184,7 +19496,7 @@
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "Measuring Accountability (Preamble measurement family)",
+      "source_header": "Measuring Accountability",
       "source_anchor": "#accountability-measurement-family",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
@@ -19192,7 +19504,7 @@
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "Measuring Accountability (Preamble measurement family)",
+      "source_header": "Measuring Accountability",
       "source_anchor": "#accountability-measurement-family",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#constitutional-tetrad",
@@ -19200,7 +19512,7 @@
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "Measuring Accountability (Preamble measurement family)",
+      "source_header": "Measuring Accountability",
       "source_anchor": "#accountability-measurement-family",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#11-incentive-alignment-and-system-capture",
@@ -19208,7 +19520,7 @@
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "Measuring Accountability (Preamble measurement family)",
+      "source_header": "Measuring Accountability",
       "source_anchor": "#accountability-measurement-family",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#13-market-structure",
@@ -19216,7 +19528,7 @@
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "Measuring Accountability (Preamble measurement family)",
+      "source_header": "Measuring Accountability",
       "source_anchor": "#accountability-measurement-family",
       "target_file": "core_05__definitions_home.md",
       "target_anchor": null,
@@ -19224,7 +19536,7 @@
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "Measuring Accountability (Preamble measurement family)",
+      "source_header": "Measuring Accountability",
       "source_anchor": "#accountability-measurement-family",
       "target_file": "core_05_apex_continuity_aim.md",
       "target_anchor": null,
@@ -19232,7 +19544,7 @@
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "Measuring Accountability (Preamble measurement family)",
+      "source_header": "Measuring Accountability",
       "source_anchor": "#accountability-measurement-family",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
@@ -19240,7 +19552,7 @@
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "Measuring Accountability (Preamble measurement family)",
+      "source_header": "Measuring Accountability",
       "source_anchor": "#accountability-measurement-family",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#market-structure-constitutional",
@@ -19248,7 +19560,7 @@
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "Measuring Accountability (Preamble measurement family)",
+      "source_header": "Measuring Accountability",
       "source_anchor": "#accountability-measurement-family",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#market-concentration-threshold-constitutional",
@@ -19256,7 +19568,7 @@
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "Measuring Accountability (Preamble measurement family)",
+      "source_header": "Measuring Accountability",
       "source_anchor": "#accountability-measurement-family",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#protected-reporting-whistleblowing",
@@ -19264,7 +19576,7 @@
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "Measuring Accountability (Preamble measurement family)",
+      "source_header": "Measuring Accountability",
       "source_anchor": "#accountability-measurement-family",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#incentive-alignment",
@@ -19272,7 +19584,7 @@
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "Measuring Accountability (Preamble measurement family)",
+      "source_header": "Measuring Accountability",
       "source_anchor": "#accountability-measurement-family",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#materiality-determination",
@@ -19280,7 +19592,7 @@
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "Measuring Accountability (Preamble measurement family)",
+      "source_header": "Measuring Accountability",
       "source_anchor": "#accountability-measurement-family",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#proxy-divergence",
@@ -19288,7 +19600,7 @@
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "Measuring Accountability (Preamble measurement family)",
+      "source_header": "Measuring Accountability",
       "source_anchor": "#accountability-measurement-family",
       "target_file": "core_07_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#37-governance-incentive-and-contestability-discipline",
@@ -19356,7 +19668,7 @@
       "source_anchor": "#continuity-aim-constitutional",
       "target_file": "core_05_apex_flourishing_aim.md",
       "target_anchor": "#flourishing-constitutional",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_05_apex_continuity_aim.md",
@@ -19395,6 +19707,14 @@
       "source_header": "CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)",
       "source_anchor": "#continuity-aim-constitutional",
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#stewardship-defect-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_continuity_aim.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)",
+      "source_anchor": "#continuity-aim-constitutional",
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-integrity-constitutional",
       "count": 2
     },
@@ -19405,6 +19725,22 @@
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
       "count": 2
+    },
+    {
+      "source_file": "core_05_apex_continuity_aim.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)",
+      "source_anchor": "#continuity-aim-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#existential-risk",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_continuity_aim.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)",
+      "source_anchor": "#continuity-aim-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cascading-failure",
+      "count": 1
     },
     {
       "source_file": "core_05_apex_continuity_aim.md",
@@ -19452,30 +19788,6 @@
       "source_anchor": "#continuity-aim-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#indigenous-continuity-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_continuity_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)",
-      "source_anchor": "#continuity-aim-constitutional",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#stewardship-defect-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_continuity_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)",
-      "source_anchor": "#continuity-aim-constitutional",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#existential-risk",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_continuity_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)",
-      "source_anchor": "#continuity-aim-constitutional",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#cascading-failure",
       "count": 1
     },
     {
@@ -20132,7 +20444,7 @@
       "source_anchor": "#oversight-constitutional",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_05_apex_oversight_leg.md",
@@ -20196,7 +20508,7 @@
       "source_anchor": "#oversight-constitutional",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#transparency",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_05_apex_oversight_leg.md",
@@ -20204,15 +20516,7 @@
       "source_anchor": "#oversight-constitutional",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
-      "count": 4
-    },
-    {
-      "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
-      "source_anchor": "#oversight-constitutional",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#material-impact",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_05_apex_oversight_leg.md",
@@ -20221,6 +20525,14 @@
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#classification-scaled-governance",
       "count": 1
+    },
+    {
+      "source_file": "core_05_apex_oversight_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_anchor": "#oversight-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#material-impact",
+      "count": 2
     },
     {
       "source_file": "core_05_apex_oversight_leg.md",
@@ -20275,14 +20587,6 @@
       "source_header": "Measuring Oversight (Preamble measurement family)",
       "source_anchor": "#oversight-measurement-family",
       "target_file": "core_00_preamble.md",
-      "target_anchor": "#constitutional-tetrad",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "Measuring Oversight (Preamble measurement family)",
-      "source_anchor": "#oversight-measurement-family",
-      "target_file": "core_00_preamble.md",
       "target_anchor": "#flourishing",
       "count": 1
     },
@@ -20308,14 +20612,6 @@
       "source_anchor": "#oversight-measurement-family",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trustworthiness",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "Measuring Oversight (Preamble measurement family)",
-      "source_anchor": "#oversight-measurement-family",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#materiality-determination",
       "count": 1
     },
     {
@@ -20370,6 +20666,14 @@
       "source_file": "core_05_apex_oversight_leg.md",
       "source_header": "Measuring Oversight (Preamble measurement family)",
       "source_anchor": "#oversight-measurement-family",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-determination",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_oversight_leg.md",
+      "source_header": "Measuring Oversight (Preamble measurement family)",
+      "source_anchor": "#oversight-measurement-family",
       "target_file": "core_07_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#chapter-seven-system-alignment-certification",
       "count": 1
@@ -20396,7 +20700,7 @@
       "source_anchor": "#participation-constitutional",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#1115-constitutional-outcome-claims-discipline",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_05_apex_participation_leg.md",
@@ -20428,7 +20732,7 @@
       "source_anchor": "#participation-constitutional",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_05_apex_participation_leg.md",
@@ -20484,7 +20788,7 @@
       "source_anchor": "#participation-constitutional",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_05_apex_participation_leg.md",
@@ -20492,7 +20796,7 @@
       "source_anchor": "#participation-constitutional",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#accessibility-constitutional",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_05_apex_participation_leg.md",
@@ -20500,7 +20804,7 @@
       "source_anchor": "#participation-constitutional",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_05_apex_participation_leg.md",
@@ -20515,7 +20819,7 @@
       "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
       "source_anchor": "#participation-constitutional",
       "target_file": "core_05_band_participation.md",
-      "target_anchor": "#stakeholder",
+      "target_anchor": "#stakeholder-weight",
       "count": 1
     },
     {
@@ -20523,7 +20827,7 @@
       "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
       "source_anchor": "#participation-constitutional",
       "target_file": "core_05_band_participation.md",
-      "target_anchor": "#stakeholder-weight",
+      "target_anchor": "#stakeholder",
       "count": 1
     },
     {
@@ -20571,6 +20875,46 @@
       "source_header": "Tetrad Leg decomposition",
       "source_anchor": "#participation-leg-decomposition",
       "target_file": "core_05_band_participation.md",
+      "target_anchor": "#self-determination-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "Tetrad Leg decomposition",
+      "source_anchor": "#participation-leg-decomposition",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#meaningful-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "Tetrad Leg decomposition",
+      "source_anchor": "#participation-leg-decomposition",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#expression-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "Tetrad Leg decomposition",
+      "source_anchor": "#participation-leg-decomposition",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#educational-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "Tetrad Leg decomposition",
+      "source_anchor": "#participation-leg-decomposition",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#volitional-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "Tetrad Leg decomposition",
+      "source_anchor": "#participation-leg-decomposition",
+      "target_file": "core_05_band_participation.md",
       "target_anchor": "#participation-independent-terms",
       "count": 1
     },
@@ -20580,14 +20924,6 @@
       "source_anchor": "#participation-measurement-family",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
-      "count": 2
-    },
-    {
-      "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "Measuring Participation (Preamble measurement family)",
-      "source_anchor": "#participation-measurement-family",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#constitutional-tetrad",
       "count": 1
     },
     {
@@ -20708,7 +21044,7 @@
       "source_anchor": "#timeliness-constitutional",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#timely-resolution-constitutional",
-      "count": 4
+      "count": 3
     },
     {
       "source_file": "core_05_apex_timeliness_leg.md",
@@ -20716,7 +21052,7 @@
       "source_anchor": "#timeliness-constitutional",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#capture-of-resolution-pathways",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_05_apex_timeliness_leg.md",
@@ -20724,7 +21060,7 @@
       "source_anchor": "#timeliness-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#constitutional-efficiency",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_05_apex_timeliness_leg.md",
@@ -20732,7 +21068,7 @@
       "source_anchor": "#timeliness-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#avoidable-burden",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_05_apex_timeliness_leg.md",
@@ -20740,7 +21076,7 @@
       "source_anchor": "#timeliness-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#stewardship-defect-constitutional",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_05_apex_timeliness_leg.md",
@@ -20748,7 +21084,7 @@
       "source_anchor": "#timeliness-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#review-and-correction-duty-constitutional",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_05_apex_timeliness_leg.md",
@@ -20792,7 +21128,7 @@
     },
     {
       "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "Measuring Timeliness (Preamble measurement family)",
+      "source_header": "Measuring Timeliness",
       "source_anchor": "#timeliness-measurement-family",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
@@ -20800,7 +21136,7 @@
     },
     {
       "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "Measuring Timeliness (Preamble measurement family)",
+      "source_header": "Measuring Timeliness",
       "source_anchor": "#timeliness-measurement-family",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#constitutional-tetrad",
@@ -20808,7 +21144,31 @@
     },
     {
       "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "Measuring Timeliness (Preamble measurement family)",
+      "source_header": "Measuring Timeliness",
+      "source_anchor": "#timeliness-measurement-family",
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_timeliness_leg.md",
+      "source_header": "Measuring Timeliness",
+      "source_anchor": "#timeliness-measurement-family",
+      "target_file": "core_05_apex_oversight_leg.md",
+      "target_anchor": "#oversight-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_timeliness_leg.md",
+      "source_header": "Measuring Timeliness",
+      "source_anchor": "#timeliness-measurement-family",
+      "target_file": "core_05_apex_participation_leg.md",
+      "target_anchor": "#participation-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_timeliness_leg.md",
+      "source_header": "Measuring Timeliness",
       "source_anchor": "#timeliness-measurement-family",
       "target_file": "core_05_apex_participation_leg.md",
       "target_anchor": null,
@@ -20816,7 +21176,7 @@
     },
     {
       "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "Measuring Timeliness (Preamble measurement family)",
+      "source_header": "Measuring Timeliness",
       "source_anchor": "#timeliness-measurement-family",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#timely-resolution-constitutional",
@@ -20824,7 +21184,7 @@
     },
     {
       "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "Measuring Timeliness (Preamble measurement family)",
+      "source_header": "Measuring Timeliness",
       "source_anchor": "#timeliness-measurement-family",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#capture-of-resolution-pathways",
@@ -20832,7 +21192,7 @@
     },
     {
       "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "Measuring Timeliness (Preamble measurement family)",
+      "source_header": "Measuring Timeliness",
       "source_anchor": "#timeliness-measurement-family",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": null,
@@ -20840,7 +21200,7 @@
     },
     {
       "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "Measuring Timeliness (Preamble measurement family)",
+      "source_header": "Measuring Timeliness",
       "source_anchor": "#timeliness-measurement-family",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#materiality-determination",
@@ -20848,7 +21208,7 @@
     },
     {
       "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "Measuring Timeliness (Preamble measurement family)",
+      "source_header": "Measuring Timeliness",
       "source_anchor": "#timeliness-measurement-family",
       "target_file": "core_11_forum.md",
       "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
@@ -24316,7 +24676,7 @@
       "source_anchor": "#governance",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#33-governance-layers",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_05_band_accountability.md",
@@ -24429,14 +24789,6 @@
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture",
       "count": 3
-    },
-    {
-      "source_file": "core_05_band_accountability.md",
-      "source_header": "Governance",
-      "source_anchor": "#governance",
-      "target_file": "core_05_band_integrative.md",
-      "target_anchor": "#constitutional-contract-layer",
-      "count": 1
     },
     {
       "source_file": "core_05_band_accountability.md",
@@ -32627,7 +32979,7 @@
       "source_header": "Def.C3 Privacy (Informational) — peer-level cluster head",
       "source_anchor": "#privacy-informational-cluster",
       "target_file": "core_05__definitions_home.md",
-      "target_anchor": "#joint-invocation-and-satisfaction",
+      "target_anchor": "#21-joint-invocation-and-satisfaction",
       "count": 1
     },
     {
@@ -36060,7 +36412,7 @@
       "source_anchor": "#system-data-types-record-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#charter",
-      "count": 4
+      "count": 5
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -36747,7 +37099,7 @@
       "source_header": "Trust Degradation and Misleading Reliance",
       "source_anchor": "#trust-degradation-and-misleading-reliance",
       "target_file": "core_05__definitions_home.md",
-      "target_anchor": "#joint-invocation-and-satisfaction",
+      "target_anchor": "#21-joint-invocation-and-satisfaction",
       "count": 1
     },
     {
@@ -46483,7 +46835,7 @@
       "source_header": "Self-Determination",
       "source_anchor": "#self-determination-constitutional",
       "target_file": "core_05__definitions_home.md",
-      "target_anchor": "#joint-invocation-and-satisfaction",
+      "target_anchor": "#21-joint-invocation-and-satisfaction",
       "count": 1
     },
     {
@@ -109555,7 +109907,7 @@
       "source_header": "CJS-1.14: Operational clusters",
       "source_anchor": "#cjs-114-operational-clusters",
       "target_file": "core_05__definitions_home.md",
-      "target_anchor": "#joint-invocation-and-satisfaction",
+      "target_anchor": "#21-joint-invocation-and-satisfaction",
       "count": 1
     },
     {

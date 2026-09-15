@@ -46,13 +46,6 @@
 - A:
   - Judge under the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), scaled to [material stake](../core_00_preamble.md#material-stake).
   - Ask whether timeliness is real — rights-preserving velocity, not raw throughput — not just ceremony.
-  - Read with:
-    - [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional);
-    - [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways);
-    - [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency);
-    - [Avoidable Burden](core_05_band_continuity.md#avoidable-burden);
-    - [Stewardship Defect](core_05_band_continuity.md#stewardship-defect-constitutional); and
-    - [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional).
   - Timeliness cross-cuts participation, oversight, and accountability but may be hollowed independently where formal structures exist but material problems do not move.
 <a id="timeliness-constitutional-c"></a>
 - C: Non-compliant when:

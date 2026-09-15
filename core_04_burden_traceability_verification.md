@@ -30,7 +30,7 @@
 
 Chapter Four is the constitutional owner of **burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification**.
 
-*In plain terms: if you say you're following the rules, you have to prove it—and show a clear, checkable path from what the constitution defines to what sentients can actually observe.*
+*In plain terms: if you say you're following the rules, you have to prove it — and show a clear, checkable path from what the Constitution defines to what sentients can actually observe.*
 
 ### 1. Exclusive Enforcement and Burden Allocation
 
@@ -56,7 +56,7 @@ Read in order. Each step builds on the last; skip none.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [Chapter Two, §1 — Purpose and Role](core_02_definition_structure.md#1-purpose-and-role); [Chapter Two, §2 Definition Integrity Requirement](core_02_definition_structure.md#2-definition-integrity-requirement); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) — substantive definition and non-compliance rules; **§3** states the trace-map requirement only and does not restate those rules.
+- Upstream: [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [Chapter Two, §1 — Purpose and Role](core_02_definition_structure.md#1-purpose-and-role); [Chapter Two, §2 Definition Integrity Requirement](core_02_definition_structure.md#2-definition-integrity-requirement); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) — substantive definition and non-compliance rules; **§2** states the trace-map requirement only and does not restate those rules.
 - Downstream: [Chapter Four, section 3 — Observability of Traceability Requirement](#3-observability-of-traceability-requirement); [Chapter Four, section 4 — Security-Constrained Observability and Verification Rule](#4-security-constrained-observability-and-verification-rule); [Chapter Four, section 5 — Compliance Evidence Standard](#5-compliance-evidence-standard).
 
 </details>
@@ -65,7 +65,7 @@ Read in order. Each step builds on the last; skip none.
 
 *In plain terms: show a checkable map from each definition's parts — O, M, A, and C — to what the system actually does, before **sections 3** through **5** judge whether anyone can verify it and whether the proof holds.*
 
-This section requires a **structured trace map**. For every definition that materially applies to system behavior—including every materially required **Chapter Five** definition—the map must link each part to **observable** behavior and real-world effects:
+This section requires a **structured trace map**. For every definition that materially applies to system behavior — including every materially required **Chapter Five** definition — the map must link each part to **observable** behavior and real-world effects:
 
 - **what it is (O)** — what the term is about
 - **how it is measured (M)** — which measure applies at each tier
@@ -75,8 +75,8 @@ This section requires a **structured trace map**. For every definition that mate
 The trace map must also:
 - be **maintained** across system updates, version changes, and deployment contexts; failure to maintain tracing over time is non-compliant
 - be **verified** under the operational and assessment conditions Chapters Two and Three require
-- be stated in terms that can be observed and independently checked—the standard **sections 3** through **5** apply when deciding whether the system is open enough to verify under security limits and whether the evidence is sufficient
-- bidirectional, such that:
+- be stated in terms that can be observed and independently checked — the standard **sections 3** through **5** apply when deciding whether the system is open enough to verify under security limits and whether the evidence is sufficient
+- be bidirectional, such that:
   - each definition component (O/M/A/C) maps to observable system behavior and effects, including direct, indirect, delayed, and aggregated effects where materially relevant
   - all materially relevant system behaviors must be mapped completely and representatively, without omission of materially relevant behaviors or conditions
 
@@ -102,7 +102,7 @@ Section 2 requires a trace map; this section requires the system to expose enoug
 **Systems must:**
 - provide sufficient **observability, instrumentation, and access** to components, data, and interactions to fully satisfy **section 2** — for appropriately authorized or affected parties, with proportionate methods, resources, and access conditions
 - provide access within timeframes that preserve the ability to detect, challenge, and respond to non-compliance
-- structure information so it is complete and usable for verification—not obscured through fragmentation, aggregation, or noise
+- structure information so it is complete and usable for verification — not obscured through fragmentation, aggregation, or noise
 - treat failure to observe, measure, or verify any materially relevant O/M/A/C part under this chapter's evaluation conditions as **non-compliant**
 - treat limitations from system design, architectural opacity, external dependencies, or third-party components as **design failures** to be addressed through modification, constraint, or exclusion
 - treat affected definition parts and any dependent compliance claims as **non-compliant** where full tracing cannot be achieved
@@ -120,7 +120,7 @@ Where verification is technically possible but not practically achievable, treat
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Four, section 3 — Observability of Traceability Requirement](#3-observability-of-traceability-requirement); [Chapter One, section 8.2 — Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
+- Upstream: Principles: [Chapter Four, section 3 — Observability of Traceability Requirement](#3-observability-of-traceability-requirement); [Chapter One, section 6.2 — Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
 - Downstream: [Chapter Four, section 5 — Compliance Evidence Standard](#5-compliance-evidence-standard); [corpus_systems.md](corpus_systems.md), **CS-2 — Information types and handling**, and **CS-5** — operational cryptography, credentials, and information-type handling.
 - Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05_band_oversight.md#foreseeability-diligence) — design choices that predictably prevent verification under reasonably foreseeable conditions are non-compliant regardless of stated security rationale; [Chapter Five Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) and [Chapter Five Safety (Constraint)](core_05_band_continuity.md#safety-constraint) — cryptographic and information-type handling must not replace **sections 2**, **3**, or **5**; **Articles VII-A**, **VII-B**, **XV-A**, and **XVI-A** where environment-separation constraints are material.
 
@@ -147,13 +147,13 @@ Where a limit blocks meaningful independent validation, the associated complianc
 - that determination is independently justified and auditable
 - the remaining method preserves sufficient epistemic integrity for compliance determination
 
-Cryptography and information-type handling must align with the constitution and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**; where materially relevant, they must still permit full compliance verification under this chapter. Cryptographic and information-type handling must not replace [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) or [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), or the duties in **sections 2**, **3**, or **5**.
+Cryptography and information-type handling must align with the Constitution and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**; where materially relevant, they must still permit full compliance verification under this chapter. Cryptographic and information-type handling must not replace [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) or [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), or the duties in **sections 2**, **3**, or **5**.
 
 ### 5. Compliance Evidence Standard
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Four, sections 1 through 4](#1-exclusive-enforcement-and-burden-allocation); [Chapter Two, §1 — Purpose and Role](core_02_definition_structure.md#1-purpose-and-role); [Chapter Two, §2 Definition Integrity Requirement](core_02_definition_structure.md#2-definition-integrity-requirement); [Chapter Two, §3 Consistency Across the Definition Stack](core_02_definition_structure.md#3-consistency-across-the-definition-stack); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [Chapter Three, §2.6 Uncertainty Integrity and Non-Exploitation Constraint](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — substantive definition and non-compliance rules; **§4** states evidence-layer requirements only and does not restate those rules.
+- Upstream: [Chapter Four, sections 1 through 4](#1-exclusive-enforcement-and-burden-allocation); [Chapter Two, §1 — Purpose and Role](core_02_definition_structure.md#1-purpose-and-role); [Chapter Two, §2 Definition Integrity Requirement](core_02_definition_structure.md#2-definition-integrity-requirement); [Chapter Two, §3 Consistency Across the Definition Stack](core_02_definition_structure.md#3-consistency-across-the-definition-stack); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [Chapter Three, §2.6 Uncertainty Integrity and Non-Exploitation Constraint](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — substantive definition and non-compliance rules; **§5** states evidence-layer requirements only and does not restate those rules.
 - Downstream: [Chapter Eight — Contribution, Violation, and Standing Model](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
 - Read with: [Chapter Four, section 2 — Definition Traceability Requirement](#2-definition-traceability-requirement) — failure to invoke or correctly apply any materially required **Chapter Five** definition invalidates the associated evaluation, evidence, and compliance determination in full; [Chapter One, §6 — Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) where scaling affects tradeoffs between sentient wellbeing and long-horizon stability; [Chapter Five Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Chapter Five Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), and [Chapter Five Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) — science-informed evidence alignment for empirical, predictive, or causal claims.
 
