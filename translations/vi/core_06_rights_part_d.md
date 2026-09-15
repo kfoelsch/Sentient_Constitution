@@ -110,7 +110,7 @@ Triển khai quản trị đã tiếp nhận cung cấp leo thang, tính tương
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: Chương Một [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Nguyên tắc đánh đổi cốt](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), và [Chương Một §6.1.5 Thủ tục va chạm quyền](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Đọc cùng: [Chương Mười §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Phòng — khóa phản hiến pháp*; chuyên biệt giam).
+- Đọc cùng: [Chương Mười §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Phòng — khóa phản hiến pháp*; chuyên biệt giam).
 
 </details>
 
@@ -145,7 +145,7 @@ Triển khai quản trị đã tiếp nhận cung cấp leo thang, tính tương
   - Yêu cầu này áp rõ cho hữu tri từ chối phục hồi được đề trên điều kiện công bằng.
   - Nó áp khi biện pháp bảo vệ hạn chế nhẹ hơn không thỏa sự cần thiết an toàn có trọng.
   - Thay bằng tước sự sống, hoặc không áp giam khi mục này đòi, là không tuân thủ. Giam phải thỏa mọi yêu cầu đồng thời, quy tắc gán cá thể, và bảo vệ rà soát của Điều này và **Điều XXIII-C** (*Quy tắc hạn chế nhẹ nhất và có hạn thời gian*).
-- **Giam vì hành vi sai phản hiến pháp:** Do [Chương Mười §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Phòng — khóa phản hiến pháp*; chuyên biệt giam) quản trị, chịu yêu cầu đồng thời, quy tắc gán cá thể, và bảo vệ rà soát của Điều này và **Điều XXIII-C** (*Quy tắc hạn chế nhẹ nhất và có hạn thời gian*).
+- **Giam vì hành vi sai phản hiến pháp:** Do [Chương Mười §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Phòng — khóa phản hiến pháp*; chuyên biệt giam) quản trị, chịu yêu cầu đồng thời, quy tắc gán cá thể, và bảo vệ rà soát của Điều này và **Điều XXIII-C** (*Quy tắc hạn chế nhẹ nhất và có hạn thời gian*).
 - **Sàn quyền chống tước sự sống không đảo ngược như biện pháp công lý:** Hệ thống công lý nhà nước, người vận hành, hoặc tương đương không được áp tước sự sống không đảo ngược như hình phạt, chế tài, hoặc xử lý an toàn công.
   - Nơi giam được đòi, **Giam vì bạo lực** dưới Điều này và giam dưới **Chương Mười** §4.1 là biện pháp bảo vệ đòi; tước sự sống bị cấm.
   - Sàn này không quản trị quyết định tự hình thành tự do của hữu tri dưới **Điều VII-E** (*Chấm dứt tự nguyện sự tồn tại của chính mình*). Ép, gắn lại nhãn, hoặc nhà nước/người vận hành chuyển lựa chọn đó thành kết cục áp đặt đưa việc trở lại sàn này.
@@ -329,7 +329,7 @@ Triển khai quản trị đã tiếp nhận cung cấp leo thang, tính tương
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: Chương Một [§6.1.5 Thử quyết định va chạm quyền](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 Cấm phủ quyết tuyệt đối](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override), và [§15 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Đọc cùng: [Chương Chín §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Biểu đạt trách nhiệm giải trình công tự nguyện*); [Chương Mười §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Biểu đạt trách nhiệm giải trình công tự nguyện (phản hiến pháp)*).
+- Đọc cùng: [Chương Chín §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Biểu đạt trách nhiệm giải trình công tự nguyện*); [Chương Mười §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Biểu đạt trách nhiệm giải trình công tự nguyện (phản hiến pháp)*).
 
 </details>
 
@@ -358,7 +358,7 @@ Triển khai quản trị đã tiếp nhận cung cấp leo thang, tính tương
     - rủi ro đang diễn;
     - bất đối xứng quyền lực có trọng;
     - không đồng thuận của bên bị ảnh hưởng.
-- **Biểu đạt trách nhiệm giải trình công tự nguyện:** Do [Chương Chín §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Biểu đạt trách nhiệm giải trình công tự nguyện*) quản trị nói chung, và do [Chương Mười §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Biểu đạt trách nhiệm giải trình công tự nguyện (phản hiến pháp)*) cho hành vi sai phản hiến pháp đã xác minh, chịu quy tắc va chạm quyền và thẳng hàng phục hồi trong Điều này.
+- **Biểu đạt trách nhiệm giải trình công tự nguyện:** Do [Chương Chín §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Biểu đạt trách nhiệm giải trình công tự nguyện*) quản trị nói chung, và do [Chương Mười §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Biểu đạt trách nhiệm giải trình công tự nguyện (phản hiến pháp)*) cho hành vi sai phản hiến pháp đã xác minh, chịu quy tắc va chạm quyền và thẳng hàng phục hồi trong Điều này.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### Điều XXIV-C: Giải quyết kịp thời và sàn chống trì hoãn
 <details>

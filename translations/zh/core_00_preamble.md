@@ -198,7 +198,7 @@
     - 贡献侧的能力许可不豁免违规侧的轨迹锁定
 - **其产出：** 贡献轨道与违规轨道上分开、经缩放的轨迹效果 — 一侧是能力许可与实质奖赏；另一侧是轨迹锁定、纠正与救济 — 都不折成单一分数。
 
-**反宪法不当行为护栏**（[第十章](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)）
+**反宪法不当行为护栏**（[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)）
 
 - **其职掌：** 只处理最严重的经核实违规 — 可能已在规模上俘获或掏空宪法义务的行为。当第八章已经记录最高影响违规认定、且反宪法不当行为被实质指控时，本章把指定审查作为第九章门户轨道运行，与第九章普通轨迹效果并行。
 - **其产出：** 对该既有最高影响认定的最终反宪法不当行为指定 — 或驳回 — 仅在所需标准与正当程序保障满足之后。第八章仍测量伤害有多严重；只有最终指定才触发第九章的**反宪法信任锁定**。
@@ -224,7 +224,7 @@
    - **贡献性质：** 打开**贡献轨迹记录** — 朝向繁盛的经核实帮助的有界、可质疑案件档 — 并在贡献轴上分类**贡献性质**。
    - **违规性质：** 打开**违规轨迹记录** — 经核实伤害与问责失败的有界、可质疑案件档 — 并在违规轴上分类**违规性质**。善与伤害永不折成一个净分；关联记录交叉引用但保持分开。
 3. **在每条轨道上适用轨迹效果**（[第九章](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)） — 经核实的贡献可授予能力许可并支撑相称承认与实质奖赏；经核实的违规可触发轨迹锁定、纠正与[对受伤害者的救济](../../core_09_standing_integration.md#41-remedy-and-correction)。
-4. **反宪法指定审查**（[第十章](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)） — 若最高影响违规认定也可能满足反宪法标准，第十章决定是否附着相应指定。指定不改变第八章已经认定的伤害严重程度；第九章普通效果并行继续，直到最终指定触发反宪法信任锁定。
+4. **反宪法指定审查**（[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)） — 若最高影响违规认定也可能满足反宪法标准，第十章决定是否附着相应指定。指定不改变第八章已经认定的伤害严重程度；第九章普通效果并行继续，直到最终指定触发反宪法信任锁定。
 5. **路由争议并保持救济及时**（[第十一章](../../core_11_forum.md#1-purpose-and-role)） — 评议所监督案件如何移动、由哪条轨道处理，以及 **第 XXIV-C 条**（《及时解决与反拖延底线》）下的时限是否满足，以免救济死于拖延。普通争议遵循[争议顺序](../../core_11_forum.md#dispute-sequencing)。评议所也将争议分为五个[实质性层级](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（A/B/C/L/P），镜像系统分类字母 — 从生存危急到私人/受控事项 — 当第十章最终指定是首要利害时，适用廉正族系默认路由。
 
 [README 轨迹链地图](../../README.md#standing-pipeline-and-forums)为上述链提供直接导航，包括第七章进入轨迹测量的潜在经核实输入。

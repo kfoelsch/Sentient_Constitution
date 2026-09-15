@@ -110,7 +110,7 @@ A implementação de governança adotada fornece escalação, proporcionalidade 
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: Princípios: Capítulo Um [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Princípios centrais de compensação](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) e [Capítulo Um §6.1 Disciplina de registro de decisão](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Ler com: [Capítulo Dez §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevenção — bloqueios anticonstitucionais*; especialização de encarceramento).
+- Ler com: [Capítulo Dez §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevenção — bloqueios anticonstitucionais*; especialização de encarceramento).
 
 </details>
 
@@ -145,7 +145,7 @@ A implementação de governança adotada fornece escalação, proporcionalidade 
   - Este requisito aplica-se de forma expressa aos sencientes que recusam a reabilitação oferecida em termos justos.
   - Aplica-se quando medidas protetoras menos restritivas não podem satisfazer a necessidade material de segurança.
   - Substituir a privação da vida, ou deixar de impor o encarceramento quando este item o exige, é não conforme. O encarceramento deve satisfazer todos os requisitos conjuntos, as regras de atribuição individualizada e as proteções de revisão deste Artigo e do **Artigo XXIII-C** (*Regra menos restritiva e limitada no tempo*).
-- **Encarceramento por má conduta anticonstitucional:** É governado pelo [Capítulo Dez §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevenção — bloqueios anticonstitucionais*; especialização de encarceramento), sujeito aos requisitos conjuntos, às regras de atribuição individualizada e às proteções de revisão deste Artigo e do **Artigo XXIII-C** (*Regra menos restritiva e limitada no tempo*).
+- **Encarceramento por má conduta anticonstitucional:** É governado pelo [Capítulo Dez §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevenção — bloqueios anticonstitucionais*; especialização de encarceramento), sujeito aos requisitos conjuntos, às regras de atribuição individualizada e às proteções de revisão deste Artigo e do **Artigo XXIII-C** (*Regra menos restritiva e limitada no tempo*).
 - **Piso de direitos contra a privação irreversível da vida como medida de justiça:** Sistemas de justiça estatais, de operador ou comparáveis não devem impor a privação irreversível da vida como pena, sanção ou disposição de segurança pública.
   - Onde o encarceramento for exigido, o **Encarceramento por violência** sob este Artigo e o encarceramento sob o **Capítulo Dez** §4.1 são as medidas protetoras exigidas; a privação da vida está proibida.
   - Este piso não governa a decisão de formação livre de um senciente sob o **Artigo VII-E** (*Descontinuação voluntária da própria existência*). Coerção, reetiquetagem ou conversão pelo Estado ou pelo operador dessa escolha em um resultado imposto devolve o assunto a este piso.
@@ -329,7 +329,7 @@ A [Atuação em tempo](core_05_apex_timeliness_leg.md#timeliness-constitutional)
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: Princípios: Capítulo Um [§6.1.5 Teste de decisão de colisão de direitos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 Proibição de anulação absoluta](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override) e [§15 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Ler com: [Capítulo Nove §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Expressão voluntária de prestação de contas pública*); [Capítulo Dez §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expressão voluntária de prestação de contas pública (anticonstitucional)*).
+- Ler com: [Capítulo Nove §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Expressão voluntária de prestação de contas pública*); [Capítulo Dez §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expressão voluntária de prestação de contas pública (anticonstitucional)*).
 
 </details>
 
@@ -358,7 +358,7 @@ A [Atuação em tempo](core_05_apex_timeliness_leg.md#timeliness-constitutional)
     - risco em curso;
     - assimetria material de poder;
     - não consentimento das partes afetadas.
-- **Expressão voluntária de prestação de contas pública:** É governada pelo [Capítulo Nove §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Expressão voluntária de prestação de contas pública*) em geral, e pelo [Capítulo Dez §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expressão voluntária de prestação de contas pública (anticonstitucional)*) para a má conduta anticonstitucional verificada, sujeita às regras de colisão de direitos e de alinhamento restaurativo neste Artigo.
+- **Expressão voluntária de prestação de contas pública:** É governada pelo [Capítulo Nove §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Expressão voluntária de prestação de contas pública*) em geral, e pelo [Capítulo Dez §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expressão voluntária de prestação de contas pública (anticonstitucional)*) para a má conduta anticonstitucional verificada, sujeita às regras de colisão de direitos e de alinhamento restaurativo neste Artigo.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### Artigo XXIV-C: Resolução oportuna e piso contra o atraso
 <details>

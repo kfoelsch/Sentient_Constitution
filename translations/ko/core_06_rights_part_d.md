@@ -110,7 +110,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: 원칙: 제1장 [§3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 핵심 교환 원칙](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [제1장 §6.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- 함께 읽기: [제10장 §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*예방 — 반헌법 잠금*; 감금 전문화).
+- 함께 읽기: [제10장 §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*예방 — 반헌법 잠금*; 감금 전문화).
 
 </details>
 
@@ -145,7 +145,7 @@
   - 이 요건은 공정한 조건으로 제시된 재활을 거절하는 감지자에게 명시로 적용된다.
   - 덜 제한적인 보호 조치가 실질 안전 필요성을 충족할 수 없을 때 적용된다.
   - 생명 박탈로 대체하거나, 이 항목이 요구할 때 감금을 부과하지 않는 것은 비준수다. 감금은 이 조와 **제 XXIII-C조**(*가장 덜 제한적이고 시한 있는 규칙*)의 모든 공동 요건, 개별화 귀속 규칙, 검토 보호를 충족해야 한다.
-- **반헌법 부당행위에 대한 감금:** [제10장 §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*예방 — 반헌법 잠금*; 감금 전문화)가 다스리며, 이 조와 **제 XXIII-C조**(*가장 덜 제한적이고 시한 있는 규칙*)의 공동 요건, 개별화 귀속 규칙, 검토 보호에 따른다.
+- **반헌법 부당행위에 대한 감금:** [제10장 §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*예방 — 반헌법 잠금*; 감금 전문화)가 다스리며, 이 조와 **제 XXIII-C조**(*가장 덜 제한적이고 시한 있는 규칙*)의 공동 요건, 개별화 귀속 규칙, 검토 보호에 따른다.
 - **정의 조치로서의 되돌릴 수 없는 생명 박탈에 대한 권리 바닥:** 국가, 운영자, 또는 비슷한 정의 체계는 벌, 제재, 공공 안전 처분으로서 되돌릴 수 없는 생명 박탈을 부과해서는 안 된다.
   - 감금이 요구되는 곳에서, 이 조의 **폭력에 대한 감금**과 **제10장** §4.1 아래의 감금이 요구되는 보호 조치다; 생명 박탈은 금지된다.
   - 이 바닥은 **제 VII-E조**(*자기 존재의 자발적 중단*) 아래 감지자 자신의 자유롭게 형성된 결정을 다스리지 않는다. 강제, 다시 이름 붙이기, 또는 그 선택을 부과된 결과로 바꾸는 국가/운영자 전환은 그 일을 이 바닥으로 되돌린다.
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: 원칙: 제1장 [§6.1.5 권리 충돌 결정 시험](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 절대 덮어쓰기 금지](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override), [§15 통합 적용](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- 함께 읽기: [제9장 §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*자발적 공적 책무 표현*); [제10장 §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표현 (반헌법)*).
+- 함께 읽기: [제9장 §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*자발적 공적 책무 표현*); [제10장 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표현 (반헌법)*).
 
 </details>
 
@@ -358,7 +358,7 @@
     - 진행 중인 위험;
     - 실질 권력 비대칭;
     - 영향받는 쪽의 비동의.
-- **자발적 공적 책무 표현:** 일반적으로 [제9장 §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*자발적 공적 책무 표현*)이, 확인된 반헌법 부당행위에 대해서는 [제10장 §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표현 (반헌법)*)이 다스리며, 이 조의 권리 충돌과 회복 정합 규칙에 따른다.
+- **자발적 공적 책무 표현:** 일반적으로 [제9장 §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*자발적 공적 책무 표현*)이, 확인된 반헌법 부당행위에 대해서는 [제10장 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표현 (반헌법)*)이 다스리며, 이 조의 권리 충돌과 회복 정합 규칙에 따른다.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### 제 XXIV-C조: 제때 해결과 지연 금지 바닥
 <details>

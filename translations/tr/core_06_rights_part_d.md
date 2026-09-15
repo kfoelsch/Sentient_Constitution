@@ -110,7 +110,7 @@ Benimsenmiş yönetişim uygulaması yükseltme, müdahale orantılılığı, ac
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: İlkeler: Birinci Bölüm [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Çekirdek ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ve [Birinci Bölüm §6.1.5 Hak-çarpışması usulü](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Birlikte oku: [Onuncu Bölüm §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Önleme — anayasa karşıtı kilitler*; hapis uzmanlaşması).
+- Birlikte oku: [Onuncu Bölüm §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Önleme — anayasa karşıtı kilitler*; hapis uzmanlaşması).
 
 </details>
 
@@ -145,7 +145,7 @@ Benimsenmiş yönetişim uygulaması yükseltme, müdahale orantılılığı, ac
   - Bu gerek, adil koşullarda sunulan rehabilitasyonu reddeden algılayanlara açıkça uygulanır.
   - Daha az kısıtlayıcı koruyucu önlemler maddi güvenlik gerekliliğini karşılayamadığında uygulanır.
   - Yaşamdan yoksun bırakmayı yerine koymak, ya da bu madde hapis istediğinde hapis uygulamamak, uyumsuzluktur. Hapis, bu Maddenin ve **Madde XXIII-C** (*En az kısıtlayıcı ve zaman-sınırlı kural*)nin tüm ortak gereklerini, bireyselleştirilmiş atıf kurallarını ve inceleme korumalarını karşılamalıdır.
-- **Anayasa karşıtı kötü davranış için hapis:** [Onuncu Bölüm §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Önleme — anayasa karşıtı kilitler*; hapis uzmanlaşması) tarafından yönetilir; bu Maddenin ve **Madde XXIII-C** (*En az kısıtlayıcı ve zaman-sınırlı kural*)nin ortak gereklerine, bireyselleştirilmiş atıf kurallarına ve inceleme korumalarına tabidir.
+- **Anayasa karşıtı kötü davranış için hapis:** [Onuncu Bölüm §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Önleme — anayasa karşıtı kilitler*; hapis uzmanlaşması) tarafından yönetilir; bu Maddenin ve **Madde XXIII-C** (*En az kısıtlayıcı ve zaman-sınırlı kural*)nin ortak gereklerine, bireyselleştirilmiş atıf kurallarına ve inceleme korumalarına tabidir.
 - **Adalet önlemi olarak geri döndürülemez yaşamdan yoksun bırakmaya karşı hak tabanı:** Devlet, işletici ya da karşılaştırılabilir adalet sistemleri, ceza, yaptırım ya da kamu-güvenliği tasarrufu olarak geri döndürülemez yaşamdan yoksun bırakma uygulamamalıdır.
   - Hapis gerektiğinde, bu Madde altındaki **Şiddet için hapis** ve **Onuncu Bölüm** §4.1 altındaki hapis gereken koruyucu önlemlerdir; yaşamdan yoksun bırakma yasaktır.
   - Bu taban, **Madde VII-E** (*Kendi varlığının gönüllü sonlandırılması*) altında bir algılayanın kendi özgürce oluşmuş kararını yönetmez. O seçimin zorlanması, yeniden etiketlenmesi ya da devlet/işletici tarafından dayatılmış bir sonuca çevrilmesi konuyu bu tabana geri getirir.
@@ -329,7 +329,7 @@ Bu Madde, [İki Anayasal Amaç](core_00_preamble.md#constitutional-tetrad) — *
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: İlkeler: Birinci Bölüm [§6.1.5 Hak-çarpışması karar testi](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 Mutlak geçersiz kılma yasağı](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override) ve [§15 Bütünleşik uygulama](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Birlikte oku: [Dokuzuncu Bölüm §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Gönüllü kamusal hesap verebilirlik ifadesi*); [Onuncu Bölüm §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Gönüllü kamusal hesap verebilirlik ifadesi (anayasa karşıtı)*).
+- Birlikte oku: [Dokuzuncu Bölüm §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Gönüllü kamusal hesap verebilirlik ifadesi*); [Onuncu Bölüm §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Gönüllü kamusal hesap verebilirlik ifadesi (anayasa karşıtı)*).
 
 </details>
 
@@ -358,7 +358,7 @@ Bu Madde, [İki Anayasal Amaç](core_00_preamble.md#constitutional-tetrad) — *
     - süregelen risk;
     - maddi güç asimetrisi;
     - etkilenen tarafların rızasının yokluğu.
-- **Gönüllü kamusal hesap verebilirlik ifadesi:** Genel olarak [Dokuzuncu Bölüm §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Gönüllü kamusal hesap verebilirlik ifadesi*), doğrulanmış anayasa karşıtı kötü davranış için [Onuncu Bölüm §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Gönüllü kamusal hesap verebilirlik ifadesi (anayasa karşıtı)*) tarafından yönetilir; bu Maddedeki hak-çarpışması ve onarıcı-hizalama kurallarına tabidir.
+- **Gönüllü kamusal hesap verebilirlik ifadesi:** Genel olarak [Dokuzuncu Bölüm §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Gönüllü kamusal hesap verebilirlik ifadesi*), doğrulanmış anayasa karşıtı kötü davranış için [Onuncu Bölüm §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Gönüllü kamusal hesap verebilirlik ifadesi (anayasa karşıtı)*) tarafından yönetilir; bu Maddedeki hak-çarpışması ve onarıcı-hizalama kurallarına tabidir.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### Madde XXIV-C: Zamanında çözüm ve gecikme karşıtı taban
 <details>

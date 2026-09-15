@@ -110,7 +110,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: सिद्धांत: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) और [अध्याय एक §6.1 निर्णय-अभिलेख अनुशासन](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)।
-- साथ पढ़ें: [अध्याय दस §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*निवारण — संविधान-विरोधी ताले*; कारावास विशेषज्ञता)।
+- साथ पढ़ें: [अध्याय दस §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*निवारण — संविधान-विरोधी ताले*; कारावास विशेषज्ञता)।
 
 </details>
 
@@ -145,7 +145,7 @@
   - यह अपेक्षा स्पष्ट रूप से उन संज्ञ प्राणियों पर लागू होती है जो निष्पक्ष शर्तों पर प्रस्तावित पुनर्वास ठुकराएँ।
   - यह तब लागू होती है जब कम-प्रतिबंधक रक्षात्मक उपाय सुरक्षा की तात्विक आवश्यकता पूरी न कर सकें।
   - जीवन के वंचन से स्थानापन्न करना, या जब यह बिंदु माँग करे तब कारावास न लगाना, गैर-अनुपालक है। कारावास को इस अनुच्छेद और **अनुच्छेद XXIII-C** (*न्यूनतम-प्रतिबंधक और समय-सीमित नियम*) की सभी संयुक्त अपेक्षाएँ, वैयक्तिकृत आरोपण नियम और समीक्षा सुरक्षाएँ पूरी करनी चाहिए।
-- **संविधान-विरोधी दुराचरण पर कारावास:** [अध्याय दस §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*निवारण — संविधान-विरोधी ताले*; कारावास विशेषज्ञता) से शासित, इस अनुच्छेद और **अनुच्छेद XXIII-C** (*न्यूनतम-प्रतिबंधक और समय-सीमित नियम*) की संयुक्त अपेक्षाओं, वैयक्तिकृत आरोपण नियमों और समीक्षा सुरक्षाओं के अधीन।
+- **संविधान-विरोधी दुराचरण पर कारावास:** [अध्याय दस §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*निवारण — संविधान-विरोधी ताले*; कारावास विशेषज्ञता) से शासित, इस अनुच्छेद और **अनुच्छेद XXIII-C** (*न्यूनतम-प्रतिबंधक और समय-सीमित नियम*) की संयुक्त अपेक्षाओं, वैयक्तिकृत आरोपण नियमों और समीक्षा सुरक्षाओं के अधीन।
 - **न्याय उपाय के रूप में अपरिवर्तनीय जीवन-वंचन के विरुद्ध अधिकार-तल:** राज्य, संचालक या तुलनीय न्याय प्रणालियाँ दंड, स्वीकृति या सार्वजनिक-सुरक्षा व्यवस्था के रूप में अपरिवर्तनीय जीवन-वंचन नहीं लगा सकतीं।
   - जहाँ कारावास अपेक्षित हो, इस अनुच्छेद के अधीन **हिंसा पर कारावास** और **अध्याय दस** §4.1 के अधीन कारावास अपेक्षित रक्षात्मक उपाय हैं; जीवन-वंचन निषिद्ध है।
   - यह तल **अनुच्छेद VII-E** (*अपने स्वयं के अस्तित्व का स्वैच्छिक समापन*) के अधीन किसी संज्ञ प्राणी के मुक्त गठन निर्णय को नहीं शासित करता। राज्य या संचालक द्वारा उस चयन का दबाव, पुनःलेबल या आरोपित परिणाम में रूपांतरण मामले को इस तल पर लौटाता है।
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: सिद्धांत: अध्याय एक [§6.1 निर्णय-अभिलेख अनुशासन](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 पूर्ण अध्यारोहण का निषेध](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override) और [§15 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#15-integrated-application)।
-- साथ पढ़ें: [अध्याय नौ §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति*); [अध्याय दस §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति (संविधान-विरोधी)*)।
+- साथ पढ़ें: [अध्याय नौ §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति*); [अध्याय दस §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति (संविधान-विरोधी)*)।
 
 </details>
 
@@ -358,7 +358,7 @@
     - चालू जोखिम;
     - तात्विक शक्ति असमानता;
     - प्रभावित पक्षों की सहमति का अभाव।
-- **स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति:** सामान्यतः [अध्याय नौ §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति*) से, और सत्यापित संविधान-विरोधी दुराचरण के लिए [अध्याय दस §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति (संविधान-विरोधी)*) से शासित, इस अनुच्छेद के अधिकार-टकराव और पुनर्स्थापना-संरेखण नियमों के अधीन।
+- **स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति:** सामान्यतः [अध्याय नौ §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति*) से, और सत्यापित संविधान-विरोधी दुराचरण के लिए [अध्याय दस §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति (संविधान-विरोधी)*) से शासित, इस अनुच्छेद के अधिकार-टकराव और पुनर्स्थापना-संरेखण नियमों के अधीन।
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### अनुच्छेद XXIV-C: समयबद्ध समाधान और देरी-निरोध तल
 <details>

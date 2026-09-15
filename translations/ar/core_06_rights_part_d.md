@@ -110,7 +110,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: المبادئ: الفصل الأول [§3.1 السلامة](core_01_a_values_principles.md#31-safety-harm-constraint)، و[§6.1 مبادئ المقايضة الجوهرية](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و[الفصل الأول §6.1 انضباط سجل القرار](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- يُقرأ مع: [الفصل العاشر §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*المنع — الأقفال المضادة للدستور*؛ تخصص السجن).
+- يُقرأ مع: [الفصل العاشر §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*المنع — الأقفال المضادة للدستور*؛ تخصص السجن).
 
 </details>
 
@@ -145,7 +145,7 @@
   - ينطبق هذا المتطلب صراحة على الكائنات الواعية التي ترفض إعادة التأهيل المعروضة بشروط عادلة.
   - وينطبق حين لا تستطيع تدابير الحماية الأقل تقييدًا استيفاء ضرورة السلامة المادية.
   - إحلال الحرمان من الحياة، أو الامتناع عن فرض السجن حين يطلب هذا البند ذلك، عدم امتثال. يجب أن يستوفي السجن جميع المتطلبات المشتركة وقواعد الإسناد المُفرَد وحمايات المراجعة في هذه المادة و**المادة XXIII-C** (*القاعدة الأقل تقييدًا والمحدودة زمنيًا*).
-- **السجن بسبب سوء السلوك المضاد للدستور:** يحكمه [الفصل العاشر §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*المنع — الأقفال المضادة للدستور*؛ تخصص السجن)، خاضعًا للمتطلبات المشتركة وقواعد الإسناد المُفرَد وحمايات المراجعة في هذه المادة و**المادة XXIII-C** (*القاعدة الأقل تقييدًا والمحدودة زمنيًا*).
+- **السجن بسبب سوء السلوك المضاد للدستور:** يحكمه [الفصل العاشر §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*المنع — الأقفال المضادة للدستور*؛ تخصص السجن)، خاضعًا للمتطلبات المشتركة وقواعد الإسناد المُفرَد وحمايات المراجعة في هذه المادة و**المادة XXIII-C** (*القاعدة الأقل تقييدًا والمحدودة زمنيًا*).
 - **أرضية حقوق ضد الحرمان غير القابل للعكس من الحياة بوصفه تدبير عدل:** لا يجوز لأنظمة العدل التابعة للدولة أو المشغّل أو المماثلة أن تفرض حرمانًا غير قابل للعكس من الحياة بوصفه عقوبة أو جزاء أو تصرف أمن عام.
   - حيث يُطلب السجن، **السجن بسبب العنف** تحت هذه المادة والسجن تحت **الفصل العاشر** §4.1 هما تدبيرا الحماية المطلوبان؛ والحرمان من الحياة محظور.
   - لا تحكم هذه الأرضية قرار تكوين حر لكائن واعٍ تحت **المادة VII-E** (*التوقف الطوعي عن وجود المرء ذاته*). الإكراه أو إعادة التسمية أو تحويل الدولة أو المشغّل لذلك الاختيار إلى نتيجة مفروضة يعيد المسألة إلى هذه الأرضية.
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: المبادئ: الفصل الأول [§6.1 انضباط سجل القرار](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)، و[§7 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)، و[§15 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- يُقرأ مع: [الفصل التاسع §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*التعبير العلني الطوعي عن المساءلة*)؛ [الفصل العاشر §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*التعبير العلني الطوعي عن المساءلة (المضاد للدستور)*).
+- يُقرأ مع: [الفصل التاسع §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*التعبير العلني الطوعي عن المساءلة*)؛ [الفصل العاشر §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*التعبير العلني الطوعي عن المساءلة (المضاد للدستور)*).
 
 </details>
 
@@ -358,7 +358,7 @@
     - مخاطر جارية؛
     - عدم تماثل قوة مادي؛
     - عدم موافقة الأطراف المتأثرة.
-- **التعبير العلني الطوعي عن المساءلة:** يحكمه [الفصل التاسع §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*التعبير العلني الطوعي عن المساءلة*) عمومًا، و[الفصل العاشر §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*التعبير العلني الطوعي عن المساءلة (المضاد للدستور)*) لسوء السلوك المضاد للدستور المتحقَّق، خاضعًا لقواعد تصادم الحقوق والمواءمة الاستعادية في هذه المادة.
+- **التعبير العلني الطوعي عن المساءلة:** يحكمه [الفصل التاسع §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*التعبير العلني الطوعي عن المساءلة*) عمومًا، و[الفصل العاشر §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*التعبير العلني الطوعي عن المساءلة (المضاد للدستور)*) لسوء السلوك المضاد للدستور المتحقَّق، خاضعًا لقواعد تصادم الحقوق والمواءمة الاستعادية في هذه المادة.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### المادة XXIV-C: الحل في وقته وأرضية منع التأخير
 <details>

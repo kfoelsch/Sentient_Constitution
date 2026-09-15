@@ -107,7 +107,7 @@
 - 分节（阅读顺序）：[§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment)。
 - 下游：塑造平等道德地位、非任意对待、有意义的质疑与相称限制限度的权利面。
   - 尤其 [Article V：平等基本权利](../../core_06_rights_part_b.md#article-v-equal-basic-rights)、[Article V-B：不歧视](../../core_06_rights_part_b.md#article-v-b-nondiscrimination)、[Article IX：自决与能动性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XII-B：质疑、审查与救济权](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)，以及 [Article XVIII-B：可质疑性与相称限制限度](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)。
-  - 若反宪法指定携带制裁或持久效果，一并阅读[第十章第 4 节 — 正当程序保障、救济与预防](../../core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)。
+  - 若反宪法指定携带制裁或持久效果，一并阅读[第十章第 4 节 — 正当程序保障、救济与预防](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)。
   - 不歧视承诺经由第五章[§2 — 受保护特征、代理、亲密信号门控，以及 **Article X-C**（《成年人合意商业性服务与性剥削》）地位](../../core_05_band_participation.md#fairness-and-protected-status-semi-independent)加以详述，包括[受保护亲密信号门控与 **Article X-C**（《成年人合意商业性服务与性剥削》）地位规避](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)，凡 §2.1.3 公平对待规则牵涉亲密信号门控或 **Article X-C**（《成年人合意商业性服务与性剥削》）之处。
 - 一并阅读：[实质公平](../../core_05_band_participation.md#substantive-fairness-constitutional)及相关第六章权利底线义务，凡收益、负担、奖赏、成本、职责、风险、贡献、需要或暴露具有实质性之处；[可及性](../../core_05_band_participation.md#accessibility-constitutional)，凡 §2.1.1 通路具有实质性之处；[替代指标偏离](../../core_05_band_oversight.md#proxy-divergence)，凡汇总指标或计分板效果具有实质性之处。
 

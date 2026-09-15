@@ -110,7 +110,7 @@ Implementasi tata kelola yang diadopsi menyediakan eskalasi, proporsionalitas in
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: Prinsip: Bab Satu [§3.1 Keselamatan](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Prinsip Tukar-Guling Inti](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), dan [Bab Satu §6.1.5 disiplin catatan keputusan](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Baca bersama: [Bab Sepuluh §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Pencegahan — kunci anti-konstitusi*; spesialisasi pemenjaraan).
+- Baca bersama: [Bab Sepuluh §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Pencegahan — kunci anti-konstitusi*; spesialisasi pemenjaraan).
 
 </details>
 
@@ -145,7 +145,7 @@ Implementasi tata kelola yang diadopsi menyediakan eskalasi, proporsionalitas in
   - Persyaratan ini secara tegas berlaku bagi makhluk sadar yang menolak rehabilitasi yang ditawarkan dengan syarat adil.
   - Ia berlaku ketika ukuran pelindung yang lebih longgar tidak dapat memenuhi keperluan keselamatan material.
   - Mengganti dengan pencabutan nyawa, atau gagal menjatuhkan pemenjaraan ketika butir ini menuntutnya, adalah tidak patuh. Pemenjaraan harus memenuhi semua persyaratan bersama, aturan atribusi terindividualisasi, dan perlindungan tinjauan dalam pasal ini dan **Pasal XXIII-C** (*Aturan Paling Longgar dan Berbatas Waktu*).
-- **Pemenjaraan karena salah laku anti-konstitusi:** Diatur oleh [Bab Sepuluh §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Pencegahan — kunci anti-konstitusi*; spesialisasi pemenjaraan), tunduk pada persyaratan bersama, aturan atribusi terindividualisasi, dan perlindungan tinjauan dalam pasal ini dan **Pasal XXIII-C** (*Aturan Paling Longgar dan Berbatas Waktu*).
+- **Pemenjaraan karena salah laku anti-konstitusi:** Diatur oleh [Bab Sepuluh §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Pencegahan — kunci anti-konstitusi*; spesialisasi pemenjaraan), tunduk pada persyaratan bersama, aturan atribusi terindividualisasi, dan perlindungan tinjauan dalam pasal ini dan **Pasal XXIII-C** (*Aturan Paling Longgar dan Berbatas Waktu*).
 - **Lantai hak menentang pencabutan nyawa yang tidak dapat dibalik sebagai ukuran keadilan:** Sistem keadilan negara, operator, atau sebanding tidak boleh menjatuhkan pencabutan nyawa yang tidak dapat dibalik sebagai hukuman, sanksi, atau disposisi keselamatan publik.
   - Di mana pemenjaraan dituntut, **Pemenjaraan karena kekerasan** di bawah pasal ini dan pemenjaraan di bawah **Bab Sepuluh** §4.1 adalah ukuran pelindung yang dituntut; pencabutan nyawa terlarang.
   - Lantai ini tidak mengatur keputusan yang dibentuk secara bebas oleh makhluk sadar di bawah **Pasal VII-E** (*Penghentian Sukarela atas Keberadaan Sendiri*). Paksaan, pelabelan-ulang, atau konversi oleh negara/operator atas pilihan itu menjadi hasil yang dipaksakan mengembalikan perkara ke lantai ini.
@@ -329,7 +329,7 @@ Pasal ini menerapkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: Prinsip: Bab Satu [§6.1.5 disiplin catatan keputusan](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 Larangan Penimpaan Mutlak](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override), dan [§15 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Baca bersama: [Bab Sembilan §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Ungkapan pertanggungjawaban publik sukarela*); [Bab Sepuluh §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Ungkapan pertanggungjawaban publik sukarela (anti-konstitusi)*).
+- Baca bersama: [Bab Sembilan §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Ungkapan pertanggungjawaban publik sukarela*); [Bab Sepuluh §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Ungkapan pertanggungjawaban publik sukarela (anti-konstitusi)*).
 
 </details>
 
@@ -358,7 +358,7 @@ Pasal ini menerapkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-
     - risiko yang sedang berjalan;
     - asimetri kuasa material;
     - ketidaksetujuan pihak terdampak.
-- **Ungkapan pertanggungjawaban publik sukarela:** Diatur oleh [Bab Sembilan §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Ungkapan pertanggungjawaban publik sukarela*) secara umum, dan oleh [Bab Sepuluh §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Ungkapan pertanggungjawaban publik sukarela (anti-konstitusi)*) bagi salah laku anti-konstitusi terverifikasi, tunduk pada aturan tabrakan hak dan keselarasan restoratif dalam pasal ini.
+- **Ungkapan pertanggungjawaban publik sukarela:** Diatur oleh [Bab Sembilan §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Ungkapan pertanggungjawaban publik sukarela*) secara umum, dan oleh [Bab Sepuluh §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Ungkapan pertanggungjawaban publik sukarela (anti-konstitusi)*) bagi salah laku anti-konstitusi terverifikasi, tunduk pada aturan tabrakan hak dan keselarasan restoratif dalam pasal ini.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### Pasal XXIV-C: Penyelesaian tepat waktu dan lantai anti-tunda
 <details>

@@ -110,7 +110,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：原则：第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[§6.1 核心权衡原则](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)，以及[第一章 §6.1.5 决定记录纪律](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)。
-- 一并阅读：[第十章 §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks)（*预防 — 反宪法锁定*；拘禁专门化）。
+- 一并阅读：[第十章 §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks)（*预防 — 反宪法锁定*；拘禁专门化）。
 
 </details>
 
@@ -145,7 +145,7 @@
   - 本要求明示适用于拒绝在公平条款下被提供之康复的感知者。
   - 当限制更少的保护措施不能满足实质安全必要性时，本要求适用。
   - 以剥夺生命替代，或在本项要求拘禁时未能施加拘禁，均为不合规定。拘禁必须满足本条与 **Article XXIII-C**（《限制最少且有时限的规则》）中的全部联合要求、个别化归因规则与审查保护。
-- **因反宪法不当行为而拘禁：** 由[第十章 §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks)（*预防 — 反宪法锁定*；拘禁专门化）统管，并受本条与 **Article XXIII-C**（《限制最少且有时限的规则》）中的联合要求、个别化归因规则与审查保护约束。
+- **因反宪法不当行为而拘禁：** 由[第十章 §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks)（*预防 — 反宪法锁定*；拘禁专门化）统管，并受本条与 **Article XXIII-C**（《限制最少且有时限的规则》）中的联合要求、个别化归因规则与审查保护约束。
 - **禁止以不可逆剥夺生命作为正义措施的权利底线：** 国家、运营者或可比正义系统不得把不可逆剥夺生命作为刑罚、制裁或公共安全处置。
   - 凡要求拘禁之处，本条下的**因暴力而拘禁**与**第十章** §4.1 下的拘禁是所要求的保护措施；剥夺生命被禁止。
   - 本底线不统管感知者在 **Article VII-E**（《自愿中止自身存在》）下自由形成的自身决定。胁迫、重新贴标签，或国家 / 运营者把该选择转换成强加结果，使该事项回到本底线。
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：原则：第一章 [§6.1.5 决定记录纪律](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)、[§7 禁止绝对覆盖](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)，以及[§15 综合适用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)。
-- 一并阅读：[第九章 §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression)（*自愿公开问责表达*）；[第十章 §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自愿公开问责表达（反宪法）*）。
+- 一并阅读：[第九章 §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression)（*自愿公开问责表达*）；[第十章 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自愿公开问责表达（反宪法）*）。
 
 </details>
 
@@ -358,7 +358,7 @@
     - 进行中的风险；
     - 实质权力不对称；
     - 受影响方不同意。
-- **自愿公开问责表达：** 一般由[第九章 §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression)（*自愿公开问责表达*）统管，对经核实的反宪法不当行为由[第十章 §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自愿公开问责表达（反宪法）*）统管，并受本条权利碰撞与修复性对齐规则约束。
+- **自愿公开问责表达：** 一般由[第九章 §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression)（*自愿公开问责表达*）统管，对经核实的反宪法不当行为由[第十章 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自愿公开问责表达（反宪法）*）统管，并受本条权利碰撞与修复性对齐规则约束。
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### Article XXIV-C：及时解决与反拖延底线
 <details>

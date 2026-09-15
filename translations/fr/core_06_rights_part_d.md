@@ -110,7 +110,7 @@ La mise en œuvre de gouvernance adoptée fournit l’escalade, la proportionnal
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - En amont : Principes : Chapitre un [§3.1 Sécurité](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Principes centraux d’arbitrage](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) et [Chapitre un §6.1.5 Procédure de collision des droits](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Lire avec : [Chapitre dix §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prévention — verrous anticonstitutionnels* ; spécialisation d’emprisonnement).
+- Lire avec : [Chapitre dix §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prévention — verrous anticonstitutionnels* ; spécialisation d’emprisonnement).
 
 </details>
 
@@ -145,7 +145,7 @@ La mise en œuvre de gouvernance adoptée fournit l’escalade, la proportionnal
   - Cette exigence s’applique expressément aux êtres sentients qui refusent une réhabilitation offerte à des conditions équitables.
   - Elle s’applique lorsque des mesures protectrices moins restrictives ne peuvent pas satisfaire la nécessité matérielle de sécurité.
   - Substituer la privation de la vie, ou manquer d’imposer l’emprisonnement lorsque cette puce l’exige, est non conforme. L’emprisonnement doit satisfaire toutes les exigences conjointes, les règles d’attribution individualisée et les protections d’examen de cet Article et de l’**Article XXIII-C** (*Règle la moins restrictive et bornée dans le temps*).
-- **Emprisonnement pour mauvaise conduite anticonstitutionnelle :** Gouverné par le [Chapitre dix §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prévention — verrous anticonstitutionnels* ; spécialisation d’emprisonnement), sous réserve des exigences conjointes, des règles d’attribution individualisée et des protections d’examen de cet Article et de l’**Article XXIII-C** (*Règle la moins restrictive et bornée dans le temps*).
+- **Emprisonnement pour mauvaise conduite anticonstitutionnelle :** Gouverné par le [Chapitre dix §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prévention — verrous anticonstitutionnels* ; spécialisation d’emprisonnement), sous réserve des exigences conjointes, des règles d’attribution individualisée et des protections d’examen de cet Article et de l’**Article XXIII-C** (*Règle la moins restrictive et bornée dans le temps*).
 - **Plancher des droits contre la privation irréversible de la vie comme mesure de justice :** Les systèmes de justice étatiques, d’opérateur ou comparables ne doivent pas imposer la privation irréversible de la vie comme peine, sanction ou disposition de sécurité publique.
   - Là où l’emprisonnement est exigé, l’**Emprisonnement pour violence** sous cet Article et l’emprisonnement sous le **Chapitre dix** §4.1 sont les mesures protectrices exigées ; la privation de la vie est interdite.
   - Ce plancher ne gouverne pas la décision librement formée d’un être sentient sous l’**Article VII-E** (*Discontinuation volontaire de sa propre existence*). La coercition, le réétiquetage ou la conversion par l’État ou l’opérateur de ce choix en un résultat imposé ramène l’affaire à ce plancher.
@@ -329,7 +329,7 @@ L’[Action en temps](core_05_apex_timeliness_leg.md#timeliness-constitutional) 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - En amont : Principes : Chapitre un [§6.1.5 Test de décision de collision des droits](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 Interdiction d’annulation absolue](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override) et [§15 Application intégrée](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Lire avec : [Chapitre neuf §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Expression publique volontaire de reddition de comptes*) ; [Chapitre dix §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expression publique volontaire de reddition de comptes (anticonstitutionnelle)*).
+- Lire avec : [Chapitre neuf §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Expression publique volontaire de reddition de comptes*) ; [Chapitre dix §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expression publique volontaire de reddition de comptes (anticonstitutionnelle)*).
 
 </details>
 
@@ -358,7 +358,7 @@ L’[Action en temps](core_05_apex_timeliness_leg.md#timeliness-constitutional) 
     - risque en cours ;
     - asymétrie matérielle de pouvoir ;
     - non-consentement des parties affectées.
-- **Expression publique volontaire de reddition de comptes :** Gouvernée par le [Chapitre neuf §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Expression publique volontaire de reddition de comptes*) en général, et par le [Chapitre dix §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expression publique volontaire de reddition de comptes (anticonstitutionnelle)*) pour la mauvaise conduite anticonstitutionnelle vérifiée, sous réserve des règles de collision des droits et d’alignement restauratif de cet Article.
+- **Expression publique volontaire de reddition de comptes :** Gouvernée par le [Chapitre neuf §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Expression publique volontaire de reddition de comptes*) en général, et par le [Chapitre dix §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expression publique volontaire de reddition de comptes (anticonstitutionnelle)*) pour la mauvaise conduite anticonstitutionnelle vérifiée, sous réserve des règles de collision des droits et d’alignement restauratif de cet Article.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### Article XXIV-C : Résolution en temps et plancher anti-retard
 <details>

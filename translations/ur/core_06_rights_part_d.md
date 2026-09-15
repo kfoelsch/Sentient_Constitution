@@ -110,7 +110,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) اور [باب یکم §6.1.5 حقوق تصادم طریقہ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)۔
-- ساتھ پڑھیں: [باب دہم §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*روک تھام — آئین مخالف تالے*؛ قید کی تخصیص)۔
+- ساتھ پڑھیں: [باب دہم §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*روک تھام — آئین مخالف تالے*؛ قید کی تخصیص)۔
 
 </details>
 
@@ -145,7 +145,7 @@
   - یہ تقاضا صریحاً ان شعوری وجودوں پر لاگو ہوتا ہے جو منصفانہ شرائط پر پیش کردہ بحالی رد کریں۔
   - یہ لاگو ہوتا ہے جب کم پابندی والی حفاظتی تدابیر مادی حفاظتی ضرورت پوری نہ کر سکیں۔
   - جان لینے کو بدل بنانا، یا اس بلٹ کے تقاضا پر قید نہ لگانا، عدمِ اطاعت ہے۔ قید کو اس دفعہ اور **دفعہ XXIII-C** (*کم سے کم پابندی والا اور وقتی حد والا قاعدہ*) کے تمام مشترکہ تقاضے، فرد مخصوص انتساب قواعد، اور جائزے کی حفاظتیں پوری کرنی چاہییں۔
-- **آئین مخالف بدسلوکی کے لیے قید:** [باب دہم §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*روک تھام — آئین مخالف تالے*؛ قید کی تخصیص) چلاتی ہے، اس دفعہ اور **دفعہ XXIII-C** (*کم سے کم پابندی والا اور وقتی حد والا قاعدہ*) کے مشترکہ تقاضوں، فرد مخصوص انتساب قواعد، اور جائزے کی حفاظتوں کے تابع۔
+- **آئین مخالف بدسلوکی کے لیے قید:** [باب دہم §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*روک تھام — آئین مخالف تالے*؛ قید کی تخصیص) چلاتی ہے، اس دفعہ اور **دفعہ XXIII-C** (*کم سے کم پابندی والا اور وقتی حد والا قاعدہ*) کے مشترکہ تقاضوں، فرد مخصوص انتساب قواعد، اور جائزے کی حفاظتوں کے تابع۔
 - **انصاف کے اقدام کے طور پر ناقابلِ واپسی جان کی محرومی کے خلاف حقوق کی تہہ:** ریاستی، چلانے والے، یا موازنہ انصاف کے نظام جان کی ناقابلِ واپسی محرومی سزا، پابندی، یا عوامی حفاظت کے فیصلے کے طور پر نہیں لگا سکتے۔
   - جہاں قید مطلوب ہو، اس دفعہ کے تحت **تشدد کے لیے قید** اور **باب دہم** §4.1 کے تحت قید مطلوب حفاظتی اقدامات ہیں؛ جان لینا ممنوع ہے۔
   - یہ تہہ **دفعہ VII-E** (*اپنے وجود کا رضاکارانہ اختتام*) کے تحت شعوری وجود کے اپنے آزادانہ فیصلے پر حکمرانی نہیں کرتی۔ جبر، دوبارہ لیبل، یا ریاست/چلانے والے کا اس پسند کو مسلط نتیجے میں بدلنا معاملہ اس تہہ پر واپس لاتا ہے۔
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: اصول: باب یکم [§6.1.5 حقوق تصادم فیصلہ جانچ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)، [§7 مطلق بالا دستی کی ممانعت](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override) اور [§15 مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#15-integrated-application)۔
-- ساتھ پڑھیں: [باب نہم §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*رضاکارانہ عوامی جوابدہی اظہار*)؛ [باب دہم §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*رضاکارانہ عوامی جوابدہی اظہار (آئین مخالف)*)۔
+- ساتھ پڑھیں: [باب نہم §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*رضاکارانہ عوامی جوابدہی اظہار*)؛ [باب دہم §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*رضاکارانہ عوامی جوابدہی اظہار (آئین مخالف)*)۔
 
 </details>
 
@@ -358,7 +358,7 @@
     - جاری خطرہ؛
     - مادی طاقت کا عدمِ توازن؛
     - متاثر فریقوں کی عدمِ رضا۔
-- **رضاکارانہ عوامی جوابدہی اظہار:** عام طور پر [باب نہم §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*رضاکارانہ عوامی جوابدہی اظہار*) چلاتا ہے، اور تصدیق شدہ آئین مخالف بدسلوکی کے لیے [باب دہم §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*رضاکارانہ عوامی جوابدہی اظہار (آئین مخالف)*)، اس دفعہ کے حقوق تصادم اور بحالی ہم آہنگی قواعد کے تابع۔
+- **رضاکارانہ عوامی جوابدہی اظہار:** عام طور پر [باب نہم §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*رضاکارانہ عوامی جوابدہی اظہار*) چلاتا ہے، اور تصدیق شدہ آئین مخالف بدسلوکی کے لیے [باب دہم §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*رضاکارانہ عوامی جوابدہی اظہار (آئین مخالف)*)، اس دفعہ کے حقوق تصادم اور بحالی ہم آہنگی قواعد کے تابع۔
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### دفعہ XXIV-C: بروقت حل اور تاخیر مخالف تہہ
 <details>

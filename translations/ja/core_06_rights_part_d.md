@@ -110,7 +110,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：原則：第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[§6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)、[第一章 §6.1.5 権利衝突の手続](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)。
-- あわせて読む：[第十章 §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks)（《予防 — 反憲法的ロック》；拘禁の特殊化）。
+- あわせて読む：[第十章 §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks)（《予防 — 反憲法的ロック》；拘禁の特殊化）。
 
 </details>
 
@@ -145,7 +145,7 @@
   - 本要件は、公正な条件で提示された更生を拒む感知者に明示的に適用される。
   - より制限の少ない保護措置が実質的な安全の必要性を満たせないときに適用される。
   - 生命の剥奪で置き換えること、または本項が求めるときに拘禁を課さないことは、不遵守である。拘禁は、本条および **Article XXIII-C**（《制限最小かつ期限付きの規則》）のすべての共同要件、個別帰属の規則、審査の保護を満たさなければならない。
-- **反憲法的不正行為についての拘禁：** [第十章 §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks)（《予防 — 反憲法的ロック》；拘禁の特殊化）が統治し、本条および **Article XXIII-C**（《制限最小かつ期限付きの規則》）の共同要件、個別帰属の規則、審査の保護に服する。
+- **反憲法的不正行為についての拘禁：** [第十章 §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks)（《予防 — 反憲法的ロック》；拘禁の特殊化）が統治し、本条および **Article XXIII-C**（《制限最小かつ期限付きの規則》）の共同要件、個別帰属の規則、審査の保護に服する。
 - **正義の措置としての不可逆な生命の剥奪に対する権利の床：** 国家、運用者、またはそれに類する正義のシステムは、罰、制裁、または公共安全の処分として不可逆な生命の剥奪を課してはならない。
   - 拘禁が求められるところでは、本条のもとでの**暴力についての拘禁**と **第十章** §4.1 のもとでの拘禁が求められる保護措置である。生命の剥奪は禁じられる。
   - 本床は、**Article VII-E**（《自己の存在の任意の終了》）のもとでの感知者自身の自由に形成された決定を統治しない。強制、再ラベル、または国家／運用者によるその選択の押しつけられた成果への転換は、事案を本床へ戻す。
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：原則：第一章 [§6.1.5 権利衝突決定試験](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)、[§7 絶対的上書きの禁止](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)、[§15 統合適用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)。
-- あわせて読む：[第九章 §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression)（《任意の公的説明責任の表明》）；[第十章 §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（《任意の公的説明責任の表明（反憲法的）》）。
+- あわせて読む：[第九章 §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression)（《任意の公的説明責任の表明》）；[第十章 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（《任意の公的説明責任の表明（反憲法的）》）。
 
 </details>
 
@@ -358,7 +358,7 @@
     - 進行中のリスク；
     - 実質的な権力の非対称；
     - 影響を受ける側の不同意。
-- **任意の公的説明責任の表明：** 一般には [第九章 §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression)（《任意の公的説明責任の表明》）が、検証された反憲法的不正行為については [第十章 §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（《任意の公的説明責任の表明（反憲法的）》）が統治し、本条の権利衝突と修復的整合の規則に服する。
+- **任意の公的説明責任の表明：** 一般には [第九章 §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression)（《任意の公的説明責任の表明》）が、検証された反憲法的不正行為については [第十章 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（《任意の公的説明責任の表明（反憲法的）》）が統治し、本条の権利衝突と修復的整合の規則に服する。
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### Article XXIV-C：適時の解決と遅延防止の床
 <details>

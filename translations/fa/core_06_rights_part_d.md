@@ -110,7 +110,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: اصول: فصل یکم [§3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 اصول اصلی بده‌بستان](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و [فصل یکم §6.1.5 رویهٔ تصادم حقوق](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- خوانده شود با: [فصل دهم §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*پیشگیری — قفل‌های ضدقانون‌اساسی*؛ تخصصی‌سازی حبس).
+- خوانده شود با: [فصل دهم §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*پیشگیری — قفل‌های ضدقانون‌اساسی*؛ تخصصی‌سازی حبس).
 
 </details>
 
@@ -145,7 +145,7 @@
   - این الزام صریحاً بر حس‌مندانی اعمال می‌شود که بازپروری عرضه‌شده با شروط منصفانه را رد می‌کنند.
   - اعمال می‌شود وقتی تدابیر حفاظتی کم‌محدودکننده‌تر نتوانند ضرورت ایمنی مادی را برآورند.
   - جایگزین کردن سلب حیات، یا اعمال نکردن حبس وقتی این گلوله آن را می‌خواهد، غیرمنطبق است. حبس باید همهٔ الزام‌های مشترک، قواعد انتساب فردی‌شده، و حمایت‌های بازبینی این اصل و **اصل XXIII-C** (*قاعدهٔ کم‌محدودکننده و زمان‌مند*) را برآورد.
-- **حبس برای سوءرفتار ضدقانون‌اساسی:** اداره می‌شود با [فصل دهم §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*پیشگیری — قفل‌های ضدقانون‌اساسی*؛ تخصصی‌سازی حبس)، تابع الزام‌های مشترک، قواعد انتساب فردی‌شده، و حمایت‌های بازبینی این اصل و **اصل XXIII-C** (*قاعدهٔ کم‌محدودکننده و زمان‌مند*).
+- **حبس برای سوءرفتار ضدقانون‌اساسی:** اداره می‌شود با [فصل دهم §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*پیشگیری — قفل‌های ضدقانون‌اساسی*؛ تخصصی‌سازی حبس)، تابع الزام‌های مشترک، قواعد انتساب فردی‌شده، و حمایت‌های بازبینی این اصل و **اصل XXIII-C** (*قاعدهٔ کم‌محدودکننده و زمان‌مند*).
 - **کف حقوق در برابر سلب برگشت‌ناپذیر حیات به‌عنوان تدبیر عدالت:** نظام‌های عدالت دولتی، اپراتور، یا هم‌تراز نباید سلب برگشت‌ناپذیر حیات را به‌عنوان کیفر، تحریم، یا قرار ایمنی عمومی تحمیل کنند.
   - جایی که حبس لازم است، **حبس برای خشونت** زیر این اصل و حبس زیر **فصل دهم** §4.1 تدابیر حفاظتی لازم‌اند؛ سلب حیات ممنوع است.
   - این کف بر تصمیم آزادانهٔ شکل‌گرفتهٔ خود حس‌مند زیر **اصل VII-E** (*توقف داوطلبانهٔ وجود خود*) حاکم نیست. اجبار، بازبرچسب، یا تبدیل دولتی/اپراتوری آن انتخاب به پیامدی تحمیلی موضوع را به این کف برمی‌گرداند.
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: اصول: فصل یکم [§6.1.5 آزمون تصمیم تصادم حقوق](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)، [§7 منع فسخ مطلق](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)، و [§15 اعمال یکپارچه](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- خوانده شود با: [فصل نهم §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*بیان داوطلبانهٔ پاسخگویی عمومی*)؛ [فصل دهم §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*بیان داوطلبانهٔ پاسخگویی عمومی (ضدقانون‌اساسی)*).
+- خوانده شود با: [فصل نهم §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*بیان داوطلبانهٔ پاسخگویی عمومی*)؛ [فصل دهم §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*بیان داوطلبانهٔ پاسخگویی عمومی (ضدقانون‌اساسی)*).
 
 </details>
 
@@ -358,7 +358,7 @@
     - خطر جاری؛
     - عدم‌تقارن قدرت مادی؛
     - عدم‌رضایت طرف‌های اثرپذیر.
-- **بیان داوطلبانهٔ پاسخگویی عمومی:** اداره می‌شود عموماً با [فصل نهم §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*بیان داوطلبانهٔ پاسخگویی عمومی*)، و برای سوءرفتار ضدقانون‌اساسی راستی‌آزمایی‌شده با [فصل دهم §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*بیان داوطلبانهٔ پاسخگویی عمومی (ضدقانون‌اساسی)*)، تابع قواعد تصادم حقوق و هم‌راستایی ترمیمی در این اصل.
+- **بیان داوطلبانهٔ پاسخگویی عمومی:** اداره می‌شود عموماً با [فصل نهم §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*بیان داوطلبانهٔ پاسخگویی عمومی*)، و برای سوءرفتار ضدقانون‌اساسی راستی‌آزمایی‌شده با [فصل دهم §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*بیان داوطلبانهٔ پاسخگویی عمومی (ضدقانون‌اساسی)*)، تابع قواعد تصادم حقوق و هم‌راستایی ترمیمی در این اصل.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### اصل XXIV-C: حل به‌هنگام و کف ضدتأخیر
 <details>
