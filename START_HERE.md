@@ -2,6 +2,8 @@
 
 This page is the public front door. It is **process / operations-guide support** — **not** binding constitutional or incorporated text. It **cannot narrow core text**. Opening this page, this repository, or a kit is not [Chapter Fifteen §10](core_15_amendment_ratification.md#10-ratification-and-adoption) adoption.
 
+> **Start with the conceptual map:** [How the Sentient Constitution holds together](CONCEPTUAL_OVERVIEW.md) explains the aims, principles, Rights Floor, definitions, data and system classifications, processes, forums, governance, and corpus relationships in one reader-oriented view. It is non-operative support; reading it is not adoption.
+
 <a id="what-it-is"></a>
 ## 1. What it is
 
