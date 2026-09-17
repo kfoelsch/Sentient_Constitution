@@ -140,12 +140,12 @@ Each summary states what the chapter owns and what it produces.
 - **What it owns:** Defines how constitutional terms are built — the Ontological/Measurement/Assessment/Compliance (O/M/A/C) component structure, alignment requirements, and component rules that keep definitions precise and usable across the corpus.
 - **What it produces:** A shared grammar for definitions so later chapters do not fall into vague labels, hidden assumptions, or incompatible term shapes.
 
-**Chapter Three — Definition integrity** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
+**Chapter Three — Definition integrity** ([`core_03_definition_integrity.md`](core_03_definition_integrity.md))
 
 - **What it owns:** Guards against evasion, scope-shifting, redefinition games, and non-compliance tricks that would hollow definitions on paper while defeating them in practice.
 - **What it produces:** Anti-evasion discipline and non-compliance orientation metadata — including routing hooks toward standing and misconduct review where evasion is substantiated.
 
-**Chapter Four — Burden, traceability, and verification** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
+**Chapter Four — Burden, traceability, and verification** ([`core_04_burden_traceability_verification.md`](core_04_burden_traceability_verification.md))
 
 - **What it owns:** Puts the proof burden on whoever claims compliance; requires traceable evidence, observability, and verification that scale to [**material stake**](#material-stake) and remain practically challengeable.
 - **What it produces:** The verification pipeline that feeds **verified inputs** in [Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and system-alignment evidence in [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) — without replacing standing measurement itself.
@@ -153,7 +153,7 @@ Each summary states what the chapter owns and what it produces.
 **Chapter Five — Foundational definitions** ([`core_05__definitions_home.md`](core_05__definitions_home.md#chapter-five-foundational-definitions))
 
 - **What it owns:** Supplies the canonical definition stack — Oversight, Participation, Accountability, Continuity, and Integrative bands — plus [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack), [Corpus](core_05_band_integrative.md#corpus), and related boundary rules.
-- **What it produces:** Precise constitutional vocabulary for interpretation, audit, and adjudication. It is the **definition stack**, not the Rights Floor; binding rights live in Chapter Six. Owner-domain routing for the instrument as a whole lives in this Preamble register (sections 4–7).
+- **What it produces:** Precise constitutional vocabulary for interpretation, audit, and adjudication. It is the **definition stack**, not the Rights Floor; binding Rights Floors live in Chapter Six. Owner-domain routing for the instrument as a whole lives in this Preamble register (sections 4–7).
 
 **Chapter Six — Foundational Rights** ([Part A](core_06_rights_part_a.md) · [Part B](core_06_rights_part_b.md) · [Part C](core_06_rights_part_c.md) · [Part D](core_06_rights_part_d.md))
 
@@ -173,7 +173,12 @@ Each step below states what the chapter owns and what it produces. [How the full
 
 - **What it owns:** Ensures systems with material impact stay constitutionally aligned.
   - Before a system that materially affects sentients can be recognized or relied on at scale, evidence is gathered and reviewed under forum supervision
-  - Review scope includes whether the system respects survival essentials; **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource allocation and dependency stewardship — including [Proportionate Cross-System Contribution](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) where shared-infrastructure reliance is materially at issue; safety; participation; and other constitutional floors
+  - Review scope includes:
+    - whether the system respects survival essentials;
+    - **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource allocation and dependency stewardship — including [Proportionate Cross-System Contribution](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) where shared-infrastructure reliance is materially at issue;
+    - safety;
+    - participation; and
+    - other constitutional floors.
   - Sentients with standing can challenge the result
   - High-risk systems must be recertified on a regular schedule; certification is never permanent
 - **What it produces:** A **system alignment certification record** — a bounded, contestable answer to whether that system is aligned enough to recognize, continue relying on, deploy, or release from conditions *right now*, within a stated scope and time window.
@@ -248,12 +253,12 @@ Each summary states what the chapter owns and what it produces.
 - **What it owns:** Sets the substantive floor against regressive change — amendments and workarounds cannot roll back core protections, hollow the Tetrad below material stake, or disguise regression as technical cleanup.
 - **What it produces:** The **first constitutional guardrail** on any proposed change — the non-regression rule: if the change would weaken core protections in practice, it is not valid, even when the procedure looks fine. Suspected workarounds or disguised rollbacks are stopped or sent to the proper review paths instead of slipping through quietly.
 
-**Chapter Fourteen — Supremacy and external orders** ([`core_13_non_regression.md`](core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders))
+**Chapter Fourteen — Supremacy and external orders** ([`core_14_expansion_supremacy.md`](core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders))
 
 - **What it owns:** States how this Constitution relates to other norms — expansion of protection where lawful, supremacy within its scope, non-displacement of applicable external law of its own force, and disciplined interaction with external legal orders without silent subordination or capture.
 - **What it produces:** Hierarchy and conflict-order rules so publication or use is not treated as repealing applicable external law, and so adopters cannot treat incorporated procedure, weaker external norms, or convenience metrics as overriding Sentient Constitution meaning within valid adoption scope.
 
-**Chapter Fifteen — Amendment, ratification, and adoption** ([`core_13_non_regression.md`](core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity))
+**Chapter Fifteen — Amendment, ratification, and adoption** ([`core_15_amendment_ratification.md`](core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity))
 
 - **What it owns:** Governs how the instrument may lawfully change — amendment procedure, ratification, adoption, and the **procedural guardrails** that follow Chapter Thirteen's substantive one: changes must be published openly, traceable to authoritative custody, and remain meaningfully contestable with independent review where required.
 - **What it produces:** A complete lawful change path — only amendments and adoptions that clear the **non-regression guardrail** and the **procedural guardrails** count as valid constitutional updates.

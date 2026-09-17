@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-15T19:56:00+00:00",
+  "generated_at": "2026-09-17T12:38:29+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -501,7 +501,17 @@
           },
           {
             "file": "core_02_definition_structure.md",
-            "count": 3,
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_03_definition_integrity.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_04_burden_traceability_verification.md",
+            "count": 1,
             "anchors": []
           },
           {
@@ -6843,6 +6853,13 @@
             ]
           },
           {
+            "file": "core_05__definitions_home.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-five-foundational-definitions"
+            ]
+          },
+          {
             "file": "core_05_band_accountability.md",
             "count": 59,
             "anchors": [
@@ -6931,7 +6948,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 11,
+            "count": 10,
             "anchors": [
               "#incentive-alignment",
               "#incentive-alignment-a",
@@ -7042,7 +7059,7 @@
           },
           {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 18,
+            "count": 17,
             "anchors": [
               "#3-whole-system-certification-evaluation",
               "#chapter-seven-system-alignment-certification"
@@ -8647,15 +8664,18 @@
             "file": "core_06_rights_part_b.md",
             "count": 4,
             "anchors": [
-              "#article-x-b-collective-harm-boundary-and-enforcement-interface",
-              "#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation",
+              "#article-xi-b-weighted-participation-constraints",
+              "#article-xi-c-legitimacy-gate-and-anti-token-participation",
               "#article-xi-stakeholder-system-participation-representation-and-due-process"
             ]
           },
           {
-            "file": "core_06_rights_part_d.md",
-            "count": 1,
-            "anchors": []
+            "file": "core_06_rights_part_c.md",
+            "count": 2,
+            "anchors": [
+              "#article-xii-b-right-to-challenge-review-and-redress",
+              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
+            ]
           },
           {
             "file": "core_08_standing_assessment.md",

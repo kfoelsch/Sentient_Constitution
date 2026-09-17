@@ -79,7 +79,13 @@ References across these constitutional volumes to **Chapter Sixteen** or to inco
 *In plain terms: treat designated **implementation text** files like versioned law libraries — only the edition written into the adoption record counts, and keep receipts that prove who held the authoritative text and when it took effect.*
 
 - **Edition pinning:** Incorporation by reference at constitutional scope is operative only for **adopted edition identifiers** and **effective dates** recorded explicitly in the adoption chain. For constitutional-scope purposes, the operative text of an incorporated implementation file is the text at the **adopted edition identifier**. That text is **not** the adopter’s current working copy, and it is **not** the latest revision published upstream simply because it is newest.
-- **Custody chain:** Adopters must maintain an **auditable custody chain** for incorporated **implementation text** artifacts. Records must include edition identifier, effective date, custodian identity, and linkage to the adoption instrument, in a form sufficient for provenance and applicable scope. Custody records must be proportionate to assigned system classification under *[corpus_systems.md](corpus_systems.md)*, **CS-3 — System classification and handling**, and to [**Material Impact**](core_05_band_oversight.md#material-impact), [**Dependency**](core_05_band_continuity.md#dependency), affected [**Stakeholder**](core_05_band_participation.md#stakeholder) position, and applicable [**Materiality Determination**](core_05_band_oversight.md#materiality-determination) requirements in [**Chapter Five**](core_05__definitions_home.md#chapter-five-foundational-definitions) (consistent with [**Classification-Scaled Governance**](core_05_band_oversight.md#classification-scaled-governance)).
+- **Custody chain:** Adopters must maintain an **auditable custody chain** for incorporated **implementation text** artifacts. Records must include:
+  - edition identifier;
+  - effective date;
+  - custodian identity; and
+  - linkage to the adoption instrument, in a form sufficient for provenance and applicable scope.
+
+  Custody records must be proportionate to assigned system classification under *[corpus_systems.md](corpus_systems.md)*, **CS-3 — System classification and handling**, and to [**Material Impact**](core_05_band_oversight.md#material-impact), [**Dependency**](core_05_band_continuity.md#dependency), affected [**Stakeholder**](core_05_band_participation.md#stakeholder) position, and applicable [**Materiality Determination**](core_05_band_oversight.md#materiality-determination) requirements in [**Chapter Five**](core_05__definitions_home.md#chapter-five-foundational-definitions) (consistent with [**Classification-Scaled Governance**](core_05_band_oversight.md#classification-scaled-governance)).
 - **Implementation-file scope (enumerated):** Without limitation, this section covers:
   - [corpus_systems.md](corpus_systems.md) (*systems implementation file*)
   - [corpus_institutions.md](corpus_institutions.md) (*Constitutional Institutions*)
@@ -90,7 +96,13 @@ References across these constitutional volumes to **Chapter Sixteen** or to inco
   Each incorporated implementation file is binding **only as adopted** through a recorded adoption chain under **Chapter Fifteen** and this chapter.
 
   - **Sentience-Status Adjudication Record:** This edition lists [`corpus_forum/cf_sentience_status_record.md`](corpus_forum/cf_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated [Sentience-Status Adjudication Record](core_05_band_participation.md#sentience-status-adjudication-record-constitutional) format. They implement, and do **not** narrow, [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) and the [Chapter Eleven §5](core_11_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook). The schema is machine-checkable form, **not** who-counts.
-- **Process-layer alignment (evidence hook):** Architecture maps, TODO records, regression catalogs, and evidence logs **support** verification of custody and adoption framing. They **do not**, by themselves, alter constitutional effect absent valid adoption.
+- **Process-layer alignment (evidence hook):** The following **support** verification of custody and adoption framing:
+  - architecture maps;
+  - TODO records;
+  - regression catalogs; and
+  - evidence logs.
+
+  These records **do not**, by themselves, alter constitutional effect absent valid adoption.
 
     Accepted governance-control changes — including custody-chain hardening, edition lineage updates, and incorporation-discipline clarifications — must be recorded in a dated artifact under [evidence/](evidence/) (`evidence/<YYYY-MM-DD>/`). That artifact must link the edition identifier, the adoption chain, and the regression coverage (**`RS-XD-003`** and adjacent `RS-XD-*` seeds) that exercises the custody and anti-drift safeguards. The artifact is a **verification aid**; it does not itself constitute adoption.
 
@@ -108,11 +120,22 @@ References across these constitutional volumes to **Chapter Sixteen** or to inco
 
 *In plain terms: quietly swapping in a newer draft — or relabeling a real change as “just a clarification” — does not change what was adopted. Later revisions stay process-layer notes until a real re-adoption under Chapters Fifteen and Sixteen.*
 
-- **No silent drift (anti-drift rule):** Post-adoption edits to implementation text files have **no constitutional effect** for an adopter unless validly adopted through **Chapter Fifteen** and **Chapter Sixteen** procedures. This rule applies to substantive revisions, editorial compressions presented as non-substantive, renumbering that changes binding cross-reference targets, and silent edition-relabeling without adoption.
+- **No silent drift (anti-drift rule):** Post-adoption edits to implementation text files have **no constitutional effect** for an adopter unless validly adopted through **Chapter Fifteen** and **Chapter Sixteen** procedures. This rule applies to:
+  - substantive revisions;
+  - editorial compressions presented as non-substantive;
+  - renumbering that changes binding cross-reference targets; and
+  - silent edition-relabeling without adoption.
 
     Later implementation-file revisions do **not** displace the adopted edition’s operative effect. They may be taken up through re-adoption under **Chapter Fifteen** and **Chapter Sixteen**; until they are validly re-adopted, they remain process-layer artifacts without constitutional effect for adopters bound to the earlier edition.
 
-- **Anti-evasion:** Calling a post-adoption edit a “clarification,” “correction,” “style alignment,” “non-substantive refactor,” or “editorial compression” does **not** make it count when the real constitutional effect is the same as a substantive change. The anti-evasion **rule** in **[Chapter Thirteen, section 3](core_13_non_regression.md#3-anti-evasion-clause-and-constitutional-misconduct-referral)** applies. If an adopter’s working text has drifted from its adopted edition without a valid re-adoption, the **stricter clearly adopted baseline** under **[Chapter One §8.4.3](core_01_b_interaction_interpretation.md#843-incorporation-layer)** governs until the record is fixed under **Chapters Eleven and Thirteen**.
+- **Anti-evasion:** Calling a post-adoption edit any of the following does **not** make it count as non-substantive when the real constitutional effect is the same as a substantive change:
+  - “clarification”;
+  - “correction”;
+  - “style alignment”;
+  - “non-substantive refactor”; or
+  - “editorial compression.”
+
+  The anti-evasion **rule** in **[Chapter Thirteen, section 3](core_13_non_regression.md#3-anti-evasion-clause-and-constitutional-misconduct-referral)** applies. If an adopter’s working text has drifted from its adopted edition without a valid re-adoption, the **stricter clearly adopted baseline** under **[Chapter One §8.4.3 Incorporation layer](core_01_b_interaction_interpretation.md#843-incorporation-layer)** governs until the record is fixed under **Chapters Eleven and Thirteen**.
 
 ### 4. Adoption framing and scope of authority
 <details>

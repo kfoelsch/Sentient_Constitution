@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tests for the Chapter Five through Chapter Twelve nested-list candidate finder."""
+"""Tests for the Chapter Five through Chapter Thirteen nested-list candidate finder."""
 
 from __future__ import annotations
 
@@ -598,6 +598,88 @@ class NestedListCandidateTests(unittest.TestCase):
         self.assertNotIn("CH9-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH10-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH11-NEST-CANDIDATE", buf.getvalue())
+
+    def test_ch13_labeled_semicolon_list_is_flagged(self) -> None:
+        text = """#### 2. Test 1 — Substantive Non-Regression Validity
+
+- **Invalidity includes:** indirect narrowing through definitions; standing gates; evidentiary burden manipulation; observability degradation; or emergency re-labeling.
+"""
+        hits = scan_text(text, chapter=13)
+        self.assertEqual(self._lines(text, min_score=8), [3])
+        self.assertEqual(hits[0].role, "invalidity-includes")
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+
+    def test_ch13_nested_children_are_not_flagged(self) -> None:
+        text = """#### 4. Layer scope
+
+- **Validity-protection controls:** This chapter may impose:
+  - heightened review;
+  - provisional suspension where materially necessary; and
+  - remediation publication.
+"""
+        self.assertEqual(scan_text(text, chapter=13), [])
+
+    def test_ch13_unlabeled_words_only_is_skipped(self) -> None:
+        text = """### 3. Anti-Evasion Clause and Constitutional-Misconduct Referral
+
+- This paragraph states a single continuous argument about referral triggers, classification owners, and numeric slots without packing a parallel checklist of distinct tests into the line.
+"""
+        filler = " ".join(["clause"] * 70)
+        text = text.replace("without packing", filler + " without packing")
+        self.assertEqual(scan_text(text, chapter=13), [])
+
+    def test_main_chapter_thirteen_advisory_exit_zero(self) -> None:
+        buf = StringIO()
+        with patch("sys.stdout", buf):
+            code = main(
+                [
+                    "--root",
+                    str(_TOOLS.parent),
+                    "--chapter",
+                    "13",
+                    "--file",
+                    "core_13_non_regression.md",
+                    "--top",
+                    "3",
+                ]
+            )
+        self.assertEqual(code, 0)
+        self.assertIn("CH13-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH7-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH9-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH10-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH11-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH12-NEST-CANDIDATE", buf.getvalue())
+
+    def test_remaining_numbered_chapters_are_supported(self) -> None:
+        cases = {
+            0: "- **Processes includes:** notice, contest, recorded resolution, and review.",
+            1: "- **Safeguards includes:** disclosure, review, restoration, and notice.",
+            2: "- **Components includes:** ontology, measurement, assessment, and compliance.",
+            3: "- **Evasion includes:** narrowing, omission, relabeling, and delay.",
+            4: "- **Evidence includes:** source, provenance, verification, and challenge.",
+            14: "- **Expansion includes:** disclosure, compatibility, review, and preserved challenge.",
+            15: "- **Validity includes:** authority, procedure, custody, and contestability.",
+            16: "- **Safeguards includes:** custody, edition control, notice, and challenge.",
+        }
+        for chapter, text in cases.items():
+            with self.subTest(chapter=chapter):
+                text = text.replace(
+                    ".",
+                    " for every material decision and challenged record.",
+                )
+                hits = scan_text(text, chapter=chapter)
+                self.assertEqual(len(hits), 1)
+                self.assertEqual(hits[0].line, 1)
+
+    def test_remaining_numbered_chapters_skip_continuous_prose(self) -> None:
+        text = "- This is one continuous explanation of a rule with enough words to make sure the advisory scanner does not confuse prose length with a parallel checklist."
+        for chapter in (0, 1, 2, 3, 4, 14, 15, 16):
+            with self.subTest(chapter=chapter):
+                self.assertEqual(scan_text(text, chapter=chapter), [])
 
 
 if __name__ == "__main__":

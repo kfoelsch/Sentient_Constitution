@@ -14,7 +14,11 @@ signals as Chapters Six through Nine). Chapter Eleven: labeled routing,
 forum-family, escalation, and support bullets (same packing signals as
 Chapters Six through Ten). Chapter Twelve: labeled legitimacy,
 stewardship, collective-choice, and role bullets (same packing signals as
-Chapters Six through Eleven).
+Chapters Six through Eleven). Chapter Thirteen: labeled non-regression,
+amendment-validity, anti-evasion, and layer-scope bullets (same packing
+signals as Chapters Six through Twelve). The Preamble and Chapters One
+through Four, Fourteen, Fifteen, and Sixteen use the same conservative
+packing signals over their numbered source files.
 
 Finds items that pack a parallel list into one sentence and have no nested
 child bullets yet. Default is advisory: print ranked candidates and exit 0.
@@ -24,10 +28,14 @@ This is a candidate finder, not a duty. Existing nesting gates
 (``corpus_markdown_audit.check_oec_intro_sublist_nesting``, Article IX in
 ``prose_continuity_audit``) still lock lists that are already nested.
 
-Rules: CH5-NEST-CANDIDATE / CH6-NEST-CANDIDATE / CH7-NEST-CANDIDATE /
-CH8-NEST-CANDIDATE / CH9-NEST-CANDIDATE / CH10-NEST-CANDIDATE /
-CH11-NEST-CANDIDATE / CH12-NEST-CANDIDATE in
+Rules: CH0-NEST-CANDIDATE through CH16-NEST-CANDIDATE (by selected
+chapter) in
 tools/architecture/rule_registry.json.
+Legacy chapter-specific names: CH5-NEST-CANDIDATE / CH6-NEST-CANDIDATE /
+CH7-NEST-CANDIDATE / CH8-NEST-CANDIDATE / CH9-NEST-CANDIDATE /
+CH10-NEST-CANDIDATE /
+CH11-NEST-CANDIDATE / CH12-NEST-CANDIDATE /
+CH13-NEST-CANDIDATE in
 
 Run:
 
@@ -39,7 +47,11 @@ Run:
     make ch10-nested-list-candidates
     make ch11-nested-list-candidates
     make ch12-nested-list-candidates
-    python3 tools/ch5_nested_list_candidate_audit.py --root . --chapter 12
+    make ch13-nested-list-candidates
+    make ch14-nested-list-candidates
+    make ch15-nested-list-candidates
+    make ch16-nested-list-candidates
+    python3 tools/ch5_nested_list_candidate_audit.py --root . --chapter 16
     python3 tools/ch5_nested_list_candidate_audit.py --root . --file core_05_band_accountability.md
 """
 
@@ -57,6 +69,20 @@ if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
 from ch5_paths import CH5_APEX, CH5_DEFS  # noqa: E402
+
+CH0_PARTS: tuple[str, ...] = ("core_00_preamble.md",)
+
+CH1_PARTS: tuple[str, ...] = (
+    "core_01_a_values_principles.md",
+    "core_01_b_interaction_interpretation.md",
+    "core_01_c_stewardship_capacity_principles.md",
+)
+
+CH2_PARTS: tuple[str, ...] = ("core_02_definition_structure.md",)
+
+CH3_PARTS: tuple[str, ...] = ("core_03_definition_integrity.md",)
+
+CH4_PARTS: tuple[str, ...] = ("core_04_burden_traceability_verification.md",)
 
 CH6_RIGHTS: tuple[str, ...] = (
     "core_06_rights_part_a.md",
@@ -83,8 +109,18 @@ CH11_PARTS: tuple[str, ...] = ("core_11_forum.md",)
 
 CH12_PARTS: tuple[str, ...] = ("core_12_governance.md",)
 
-SUPPORTED_CHAPTERS: tuple[int, ...] = (5, 6, 7, 8, 9, 10, 11, 12)
-WORDS_ONLY_SKIP_CHAPTERS: frozenset[int] = frozenset({6, 7, 8, 9, 10, 11, 12})
+CH13_PARTS: tuple[str, ...] = ("core_13_non_regression.md",)
+
+CH14_PARTS: tuple[str, ...] = ("core_14_expansion_supremacy.md",)
+
+CH15_PARTS: tuple[str, ...] = ("core_15_amendment_ratification.md",)
+
+CH16_PARTS: tuple[str, ...] = ("core_16_incorporation.md",)
+
+SUPPORTED_CHAPTERS: tuple[int, ...] = tuple(range(17))
+WORDS_ONLY_SKIP_CHAPTERS: frozenset[int] = frozenset(
+    set(range(17)) - {5}
+)
 
 LIST_RE = re.compile(r"^([ \t]*)([-*]|\d+\.)\s+(.*)$")
 HEADING_RE = re.compile(r"^(#{3,5})\s+(.+)$")
@@ -232,7 +268,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         type=int,
         choices=SUPPORTED_CHAPTERS,
         default=[],
-        help="Chapter to scan (repeatable: 5, 6, 7, 8, 9, 10, 11, and/or 12). Default 5 when --file is omitted.",
+        help="Chapter to scan (repeatable: 0 through 16). Default 5 when --file is omitted.",
     )
     parser.add_argument(
         "--apex",
@@ -313,6 +349,24 @@ def _is_packable_role(role: str) -> bool:
 
 def chapter_from_rel(rel: str) -> int | None:
     name = Path(rel).name if rel else ""
+    if name.startswith("core_00_"):
+        return 0
+    if name.startswith("core_01_"):
+        return 1
+    if name.startswith("core_02_"):
+        return 2
+    if name.startswith("core_03_"):
+        return 3
+    if name.startswith("core_04_"):
+        return 4
+    if name.startswith("core_13_"):
+        return 13
+    if name.startswith("core_14_"):
+        return 14
+    if name.startswith("core_15_"):
+        return 15
+    if name.startswith("core_16_"):
+        return 16
     if name.startswith("core_12_"):
         return 12
     if name.startswith("core_11_"):
@@ -333,6 +387,11 @@ def chapter_from_rel(rel: str) -> int | None:
 
 
 RULE_ID_BY_CHAPTER: dict[int, str] = {
+    0: "CH0-NEST-CANDIDATE",
+    1: "CH1-NEST-CANDIDATE",
+    2: "CH2-NEST-CANDIDATE",
+    3: "CH3-NEST-CANDIDATE",
+    4: "CH4-NEST-CANDIDATE",
     5: "CH5-NEST-CANDIDATE",
     6: "CH6-NEST-CANDIDATE",
     7: "CH7-NEST-CANDIDATE",
@@ -341,6 +400,10 @@ RULE_ID_BY_CHAPTER: dict[int, str] = {
     10: "CH10-NEST-CANDIDATE",
     11: "CH11-NEST-CANDIDATE",
     12: "CH12-NEST-CANDIDATE",
+    13: "CH13-NEST-CANDIDATE",
+    14: "CH14-NEST-CANDIDATE",
+    15: "CH15-NEST-CANDIDATE",
+    16: "CH16-NEST-CANDIDATE",
 }
 
 
@@ -684,24 +747,29 @@ def resolve_targets(root: Path, args: argparse.Namespace) -> list[Path]:
     else:
         chapters = selected_chapters(args)
         names_list: list[str] = []
-        if 5 in chapters:
-            names_list.extend(CH5_DEFS)
-            if args.apex:
-                names_list.extend(CH5_APEX)
-        if 6 in chapters:
-            names_list.extend(CH6_RIGHTS)
-        if 7 in chapters:
-            names_list.extend(CH7_PARTS)
-        if 8 in chapters:
-            names_list.extend(CH8_PARTS)
-        if 9 in chapters:
-            names_list.extend(CH9_PARTS)
-        if 10 in chapters:
-            names_list.extend(CH10_PARTS)
-        if 11 in chapters:
-            names_list.extend(CH11_PARTS)
-        if 12 in chapters:
-            names_list.extend(CH12_PARTS)
+        chapter_parts = {
+            0: CH0_PARTS,
+            1: CH1_PARTS,
+            2: CH2_PARTS,
+            3: CH3_PARTS,
+            4: CH4_PARTS,
+            5: CH5_DEFS,
+            6: CH6_RIGHTS,
+            7: CH7_PARTS,
+            8: CH8_PARTS,
+            9: CH9_PARTS,
+            10: CH10_PARTS,
+            11: CH11_PARTS,
+            12: CH12_PARTS,
+            13: CH13_PARTS,
+            14: CH14_PARTS,
+            15: CH15_PARTS,
+            16: CH16_PARTS,
+        }
+        for chapter in chapters:
+            names_list.extend(chapter_parts.get(chapter, ()))
+        if 5 in chapters and args.apex:
+            names_list.extend(CH5_APEX)
         names = tuple(names_list)
     paths: list[Path] = []
     for name in names:

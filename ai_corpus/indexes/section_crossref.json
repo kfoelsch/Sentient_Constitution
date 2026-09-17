@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-15T19:56:00+00:00",
+  "generated_at": "2026-09-17T12:38:29+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 14555,
+  "edge_count": 14582,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -356,7 +356,23 @@
       "source_anchor": "#4-principles-definitions-and-rights",
       "target_file": "core_02_definition_structure.md",
       "target_anchor": null,
-      "count": 3
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "4. Principles, Definitions, and Rights",
+      "source_anchor": "#4-principles-definitions-and-rights",
+      "target_file": "core_03_definition_integrity.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "4. Principles, Definitions, and Rights",
+      "source_anchor": "#4-principles-definitions-and-rights",
+      "target_file": "core_04_burden_traceability_verification.md",
+      "target_anchor": null,
+      "count": 1
     },
     {
       "source_file": "core_00_preamble.md",
@@ -19312,87 +19328,7 @@
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
-      "source_anchor": "#accountability",
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#10-governance-under-stewardship-discipline",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
-      "source_anchor": "#accountability",
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#116-successor-responsibility-and-formal-structure-non-escape",
-      "count": 2
-    },
-    {
-      "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
-      "source_anchor": "#accountability",
-      "target_file": "core_03_definition_integrity.md",
-      "target_anchor": "#211-formal-label-and-representation-gaming",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
-      "source_anchor": "#accountability",
-      "target_file": "core_05__definitions_home.md",
-      "target_anchor": "#chapter-five-foundational-definitions",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
-      "source_anchor": "#accountability",
-      "target_file": "core_05__definitions_home.md",
-      "target_anchor": "#chapter-five-compass-and-definition-map",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
-      "source_anchor": "#accountability",
-      "target_file": "core_05_apex_timeliness_leg.md",
-      "target_anchor": "#timeliness-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
-      "source_anchor": "#accountability",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": null,
-      "count": 2
-    },
-    {
-      "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
-      "source_anchor": "#accountability",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability",
-      "count": 3
-    },
-    {
-      "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
-      "source_anchor": "#accountability",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#attributable-action-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
-      "source_anchor": "#accountability",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#attribution-integrity-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "source_header": "Accountability",
       "source_anchor": "#accountability",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#redress-and-remediation-constitutional",
@@ -19400,34 +19336,34 @@
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "source_header": "Accountability",
       "source_anchor": "#accountability",
-      "target_file": "core_05_band_integrative.md",
-      "target_anchor": "#accountability-contestability-and-collective-accountability-failure-cluster",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
-      "source_anchor": "#accountability",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
       "count": 2
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "source_header": "Accountability",
       "source_anchor": "#accountability",
-      "target_file": "core_09_standing_integration.md",
-      "target_anchor": "#91-remediation-capacity-and-funding",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#attributable-action-constitutional",
       "count": 1
     },
     {
       "source_file": "core_05_apex_accountability_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "source_header": "Accountability",
       "source_anchor": "#accountability",
-      "target_file": "core_09_standing_integration.md",
-      "target_anchor": "#94-anti-evasion-and-look-through-authority",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#attribution-integrity-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_accountability_leg.md",
+      "source_header": "Accountability",
+      "source_anchor": "#accountability",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
       "count": 1
     },
     {
@@ -19604,6 +19540,118 @@
       "source_anchor": "#accountability-measurement-family",
       "target_file": "core_07_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#37-governance-incentive-and-contestability-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_accountability_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#10-governance-under-stewardship-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_accountability_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#116-successor-responsibility-and-formal-structure-non-escape",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_apex_accountability_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_03_definition_integrity.md",
+      "target_anchor": "#211-formal-label-and-representation-gaming",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_accountability_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05__definitions_home.md",
+      "target_anchor": "#chapter-five-foundational-definitions",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_accountability_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05__definitions_home.md",
+      "target_anchor": "#chapter-five-compass-and-definition-map",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_accountability_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_timeliness_leg.md",
+      "target_anchor": "#timeliness-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_accountability_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": null,
+      "count": 2
+    },
+    {
+      "source_file": "core_05_apex_accountability_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_accountability_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#attributable-action-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_accountability_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#attribution-integrity-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_accountability_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#accountability-contestability-and-collective-accountability-failure-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_accountability_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_accountability_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#91-remediation-capacity-and-funding",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_accountability_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_09_standing_integration.md",
+      "target_anchor": "#94-anti-evasion-and-look-through-authority",
       "count": 1
     },
     {
@@ -20184,31 +20232,7 @@
     },
     {
       "source_file": "core_05_apex_flourishing_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
-      "source_anchor": "#flourishing-constitutional",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#2-foundational-objective-wellbeing",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_flourishing_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
-      "source_anchor": "#flourishing-constitutional",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_flourishing_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
-      "source_anchor": "#flourishing-constitutional",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#4-system-stability-enabler-trust-coordination-integrity",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_flourishing_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_header": "Flourishing",
       "source_anchor": "#flourishing-constitutional",
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#6-process-conflict-resolution",
@@ -20216,31 +20240,15 @@
     },
     {
       "source_file": "core_05_apex_flourishing_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_header": "Flourishing",
       "source_anchor": "#flourishing-constitutional",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#1115-constitutional-outcome-claims-discipline",
-      "count": 2
-    },
-    {
-      "source_file": "core_05_apex_flourishing_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
-      "source_anchor": "#flourishing-constitutional",
-      "target_file": "core_05__definitions_home.md",
-      "target_anchor": "#chapter-five-foundational-definitions",
       "count": 1
     },
     {
       "source_file": "core_05_apex_flourishing_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
-      "source_anchor": "#flourishing-constitutional",
-      "target_file": "core_05__definitions_home.md",
-      "target_anchor": "#chapter-five-compass-and-definition-map",
-      "count": 2
-    },
-    {
-      "source_file": "core_05_apex_flourishing_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_header": "Flourishing",
       "source_anchor": "#flourishing-constitutional",
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-alphabetical-directory",
@@ -20248,67 +20256,51 @@
     },
     {
       "source_file": "core_05_apex_flourishing_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_header": "Flourishing",
       "source_anchor": "#flourishing-constitutional",
       "target_file": "core_05_apex_continuity_aim.md",
       "target_anchor": "#continuity-aim-constitutional",
-      "count": 3
-    },
-    {
-      "source_file": "core_05_apex_flourishing_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
-      "source_anchor": "#flourishing-constitutional",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#wellbeing",
       "count": 2
     },
     {
       "source_file": "core_05_apex_flourishing_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_header": "Flourishing",
       "source_anchor": "#flourishing-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#safety-constraint",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_05_apex_flourishing_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_header": "Flourishing",
       "source_anchor": "#flourishing-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trustworthiness",
-      "count": 2
-    },
-    {
-      "source_file": "core_05_apex_flourishing_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
-      "source_anchor": "#flourishing-constitutional",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-capture",
       "count": 1
     },
     {
       "source_file": "core_05_apex_flourishing_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_header": "Flourishing",
+      "source_anchor": "#flourishing-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#wellbeing",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_flourishing_aim.md",
+      "source_header": "Flourishing",
       "source_anchor": "#flourishing-constitutional",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#truth-constitutional-constraint",
-      "count": 2
-    },
-    {
-      "source_file": "core_05_apex_flourishing_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
-      "source_anchor": "#flourishing-constitutional",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#proxy-divergence",
       "count": 1
     },
     {
       "source_file": "core_05_apex_flourishing_aim.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_header": "Flourishing",
       "source_anchor": "#flourishing-constitutional",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_05_apex_flourishing_aim.md",
@@ -20399,56 +20391,120 @@
       "count": 1
     },
     {
-      "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
-      "source_anchor": "#oversight-constitutional",
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#10-governance-under-stewardship-discipline",
+      "source_file": "core_05_apex_flourishing_aim.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#2-foundational-objective-wellbeing",
       "count": 1
     },
     {
-      "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
-      "source_anchor": "#oversight-constitutional",
+      "source_file": "core_05_apex_flourishing_aim.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_flourishing_aim.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#4-system-stability-enabler-trust-coordination-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_flourishing_aim.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#1115-constitutional-outcome-claims-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_flourishing_aim.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_anchor": null,
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-foundational-definitions",
       "count": 1
     },
     {
-      "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
-      "source_anchor": "#oversight-constitutional",
+      "source_file": "core_05_apex_flourishing_aim.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_anchor": null,
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-compass-and-definition-map",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_apex_flourishing_aim.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_anchor": null,
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#continuity-aim-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_flourishing_aim.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#wellbeing",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_flourishing_aim.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safety-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_flourishing_aim.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#trustworthiness",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_flourishing_aim.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_flourishing_aim.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_flourishing_aim.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#proxy-divergence",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_flourishing_aim.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#meaningful-agency",
       "count": 1
     },
     {
       "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
-      "source_anchor": "#oversight-constitutional",
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
-      "source_anchor": "#oversight-constitutional",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#governance-architecture-oversight-decentralization-and-concentration-cluster",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
-      "source_anchor": "#oversight-constitutional",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_header": "Oversight",
       "source_anchor": "#oversight-constitutional",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#governance",
@@ -20456,15 +20512,7 @@
     },
     {
       "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
-      "source_anchor": "#oversight-constitutional",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-capture",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_header": "Oversight",
       "source_anchor": "#oversight-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
@@ -20472,7 +20520,7 @@
     },
     {
       "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_header": "Oversight",
       "source_anchor": "#oversight-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#risk",
@@ -20480,7 +20528,7 @@
     },
     {
       "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_header": "Oversight",
       "source_anchor": "#oversight-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-alignment-certification-constitutional",
@@ -20488,47 +20536,15 @@
     },
     {
       "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
-      "source_anchor": "#oversight-constitutional",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": null,
-      "count": 2
-    },
-    {
-      "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
-      "source_anchor": "#oversight-constitutional",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#materiality-semi-independent",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
-      "source_anchor": "#oversight-constitutional",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#transparency",
-      "count": 2
-    },
-    {
-      "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_header": "Oversight",
       "source_anchor": "#oversight-constitutional",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
-      "source_anchor": "#oversight-constitutional",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#classification-scaled-governance",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_header": "Oversight",
       "source_anchor": "#oversight-constitutional",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#material-impact",
@@ -20536,7 +20552,15 @@
     },
     {
       "source_file": "core_05_apex_oversight_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_header": "Oversight",
+      "source_anchor": "#oversight-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#transparency",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_oversight_leg.md",
+      "source_header": "Oversight",
       "source_anchor": "#oversight-constitutional",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder",
@@ -20679,64 +20703,112 @@
       "count": 1
     },
     {
-      "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
-      "source_anchor": "#participation-constitutional",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#5-freedom-bounded-agency",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
-      "source_anchor": "#participation-constitutional",
+      "source_file": "core_05_apex_oversight_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#9-stewardship-and-distributed-understanding",
+      "target_anchor": "#10-governance-under-stewardship-discipline",
       "count": 1
     },
     {
-      "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
-      "source_anchor": "#participation-constitutional",
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#1115-constitutional-outcome-claims-discipline",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
-      "source_anchor": "#participation-constitutional",
+      "source_file": "core_05_apex_oversight_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_anchor": null,
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-foundational-definitions",
       "count": 1
     },
     {
-      "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
-      "source_anchor": "#participation-constitutional",
+      "source_file": "core_05_apex_oversight_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_anchor": null,
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-compass-and-definition-map",
       "count": 1
     },
     {
-      "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
-      "source_anchor": "#participation-constitutional",
-      "target_file": "core_05_apex_timeliness_leg.md",
-      "target_anchor": "#timeliness-constitutional",
+      "source_file": "core_05_apex_oversight_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_oversight_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#governance-architecture-oversight-decentralization-and-concentration-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_oversight_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_oversight_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_oversight_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": null,
+      "count": 2
+    },
+    {
+      "source_file": "core_05_apex_oversight_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-semi-independent",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_oversight_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#transparency",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_oversight_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_oversight_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#classification-scaled-governance",
       "count": 1
     },
     {
       "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_header": "Participation",
       "source_anchor": "#participation-constitutional",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_header": "Participation",
       "source_anchor": "#participation-constitutional",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity",
@@ -20744,7 +20816,7 @@
     },
     {
       "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_header": "Participation",
       "source_anchor": "#participation-constitutional",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
@@ -20752,79 +20824,15 @@
     },
     {
       "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_header": "Participation",
       "source_anchor": "#participation-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture",
-      "count": 2
-    },
-    {
-      "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
-      "source_anchor": "#participation-constitutional",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#classification-scaled-governance",
       "count": 1
     },
     {
       "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
-      "source_anchor": "#participation-constitutional",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": null,
-      "count": 2
-    },
-    {
-      "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
-      "source_anchor": "#participation-constitutional",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#stakeholder-status-and-weight-cluster",
-      "count": 2
-    },
-    {
-      "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
-      "source_anchor": "#participation-constitutional",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#meaningful-agency",
-      "count": 2
-    },
-    {
-      "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
-      "source_anchor": "#participation-constitutional",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#accessibility-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
-      "source_anchor": "#participation-constitutional",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#substantive-fairness-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
-      "source_anchor": "#participation-constitutional",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#binding-stakeholder-choice-cluster",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
-      "source_anchor": "#participation-constitutional",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#stakeholder-weight",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_header": "Participation",
       "source_anchor": "#participation-constitutional",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder",
@@ -20832,7 +20840,39 @@
     },
     {
       "source_file": "core_05_apex_participation_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_header": "Participation",
+      "source_anchor": "#participation-constitutional",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#stakeholder-status-and-weight-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "Participation",
+      "source_anchor": "#participation-constitutional",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#meaningful-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "Participation",
+      "source_anchor": "#participation-constitutional",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#accessibility-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "Participation",
+      "source_anchor": "#participation-constitutional",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substantive-fairness-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "Participation",
       "source_anchor": "#participation-constitutional",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#coercion-and-manipulation-constitutional",
@@ -21007,91 +21047,163 @@
       "count": 1
     },
     {
-      "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
-      "source_anchor": "#timeliness-constitutional",
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#9-stewardship-and-distributed-understanding",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#1115-constitutional-outcome-claims-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_anchor": null,
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-foundational-definitions",
       "count": 1
     },
     {
-      "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
-      "source_anchor": "#timeliness-constitutional",
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_anchor": null,
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-compass-and-definition-map",
       "count": 1
     },
     {
-      "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
-      "source_anchor": "#timeliness-constitutional",
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability",
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_timeliness_leg.md",
+      "target_anchor": "#timeliness-constitutional",
       "count": 1
     },
     {
-      "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
-      "source_anchor": "#timeliness-constitutional",
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#classification-scaled-governance",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
       "target_anchor": null,
       "count": 2
     },
     {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#stakeholder-status-and-weight-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#meaningful-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#accessibility-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substantive-fairness-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#binding-stakeholder-choice-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_participation_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#stakeholder-weight",
+      "count": 1
+    },
+    {
       "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
+      "source_header": "Timeliness",
       "source_anchor": "#timeliness-constitutional",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#timely-resolution-constitutional",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
+      "source_header": "Timeliness",
       "source_anchor": "#timeliness-constitutional",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#capture-of-resolution-pathways",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
+      "source_header": "Timeliness",
       "source_anchor": "#timeliness-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#constitutional-efficiency",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
+      "source_header": "Timeliness",
       "source_anchor": "#timeliness-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#avoidable-burden",
-      "count": 2
-    },
-    {
-      "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
-      "source_anchor": "#timeliness-constitutional",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#stewardship-defect-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
-      "source_anchor": "#timeliness-constitutional",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#review-and-correction-duty-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_apex_timeliness_leg.md",
-      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
-      "source_anchor": "#timeliness-constitutional",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#stewardship-constitutional",
       "count": 1
     },
     {
@@ -21212,6 +21324,94 @@
       "source_anchor": "#timeliness-measurement-family",
       "target_file": "core_11_forum.md",
       "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_timeliness_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05__definitions_home.md",
+      "target_anchor": "#chapter-five-foundational-definitions",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_timeliness_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05__definitions_home.md",
+      "target_anchor": "#chapter-five-compass-and-definition-map",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_timeliness_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_timeliness_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": null,
+      "count": 2
+    },
+    {
+      "source_file": "core_05_apex_timeliness_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#timely-resolution-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_timeliness_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#capture-of-resolution-pathways",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_timeliness_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#constitutional-efficiency",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_timeliness_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#avoidable-burden",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_timeliness_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#stewardship-defect-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_timeliness_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#review-and-correction-duty-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_timeliness_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#stewardship-constitutional",
       "count": 1
     },
     {
@@ -48802,9 +49002,17 @@
       "source_file": "core_06_rights_part_a.md",
       "source_header": "1.2 Layer scope",
       "source_anchor": "#12-layer-scope",
+      "target_file": "core_05__definitions_home.md",
+      "target_anchor": "#chapter-five-foundational-definitions",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "1.2 Layer scope",
+      "source_anchor": "#12-layer-scope",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#owner-non-relocation",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -49100,7 +49308,7 @@
       "source_anchor": null,
       "target_file": "core_07_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#chapter-seven-system-alignment-certification",
-      "count": 4
+      "count": 3
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -78642,8 +78850,16 @@
       "source_file": "core_15_amendment_ratification.md",
       "source_header": "6. Test 4 — Contestability and Independent Review Validity",
       "source_anchor": "#6-test-4-contestability-and-independent-review-validity",
-      "target_file": "core_06_rights_part_d.md",
-      "target_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xii-b-right-to-challenge-review-and-redress",
+      "count": 1
+    },
+    {
+      "source_file": "core_15_amendment_ratification.md",
+      "source_header": "6. Test 4 — Contestability and Independent Review Validity",
+      "source_anchor": "#6-test-4-contestability-and-independent-review-validity",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
       "count": 1
     },
     {
@@ -78803,7 +79019,7 @@
       "source_header": "10.3 Joining by additional parties",
       "source_anchor": null,
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-x-b-collective-harm-boundary-and-enforcement-interface",
+      "target_anchor": "#article-xi-b-weighted-participation-constraints",
       "count": 1
     },
     {
@@ -78811,7 +79027,7 @@
       "source_header": "11. Amendment Procedure Requirements",
       "source_anchor": null,
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation",
+      "target_anchor": "#article-xi-c-legitimacy-gate-and-anti-token-participation",
       "count": 1
     },
     {
@@ -78827,7 +79043,7 @@
       "source_header": "11.1 Notice and Contest",
       "source_anchor": null,
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": null,
+      "target_anchor": "#article-xi-c-legitimacy-gate-and-anti-token-participation",
       "count": 1
     },
     {

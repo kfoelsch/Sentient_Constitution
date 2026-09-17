@@ -1,8 +1,8 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-09-15T19:55:59+00:00",
+  "generated_at": "2026-09-17T12:38:28+00:00",
   "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
-  "definition_count": 224,
+  "definition_count": 229,
   "definitions": [
     {
       "term": "Accessibility",
@@ -11,6 +11,15 @@
       "line_start": 44,
       "line_end": 106,
       "category": "independent",
+      "cluster_membership": null
+    },
+    {
+      "term": "Accountability",
+      "source_file": "core_05_apex_accountability_leg.md",
+      "anchor": "#accountability",
+      "line_start": 30,
+      "line_end": 114,
+      "category": "semi_independent",
       "cluster_membership": null
     },
     {
@@ -771,6 +780,15 @@
     },
     {
       "term": "Flourishing",
+      "source_file": "core_05_apex_flourishing_aim.md",
+      "anchor": "#flourishing-constitutional",
+      "line_start": 29,
+      "line_end": 115,
+      "category": "semi_independent",
+      "cluster_membership": null
+    },
+    {
+      "term": "Flourishing (principle layer)",
       "source_file": "core_01_a_values_principles.md",
       "anchor": "#flourishing",
       "line_start": 44,
@@ -1374,6 +1392,15 @@
       "cluster_membership": null
     },
     {
+      "term": "Oversight",
+      "source_file": "core_05_apex_oversight_leg.md",
+      "anchor": "#oversight-constitutional",
+      "line_start": 30,
+      "line_end": 118,
+      "category": "semi_independent",
+      "cluster_membership": null
+    },
+    {
       "term": "Parent-System Relationship",
       "source_file": "core_05_band_participation.md",
       "anchor": "#parent-system-relationship-constitutional",
@@ -1394,6 +1421,15 @@
         "cluster_file": "core_05_band_accountability.md",
         "line": 2199
       }
+    },
+    {
+      "term": "Participation",
+      "source_file": "core_05_apex_participation_leg.md",
+      "anchor": "#participation-constitutional",
+      "line_start": 29,
+      "line_end": 119,
+      "category": "semi_independent",
+      "cluster_membership": null
     },
     {
       "term": "Press and Journalistic Activity",
@@ -2135,6 +2171,15 @@
       "anchor": "#systemic-materiality",
       "line_start": 2251,
       "line_end": 2299,
+      "category": "semi_independent",
+      "cluster_membership": null
+    },
+    {
+      "term": "Timeliness",
+      "source_file": "core_05_apex_timeliness_leg.md",
+      "anchor": "#timeliness-constitutional",
+      "line_start": 29,
+      "line_end": 114,
       "category": "semi_independent",
       "cluster_membership": null
     },

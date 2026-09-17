@@ -136,6 +136,41 @@
       "status": "advisory"
     },
     {
+      "id": "CH0-NEST-CANDIDATE",
+      "legacy_ref": "Preamble nested list readability candidates",
+      "summary": "Advisory ranking of packed Preamble bullets that would scan better as nested children. Not a regression gate.",
+      "make_target": "ch0-nested-list-candidates",
+      "status": "advisory"
+    },
+    {
+      "id": "CH1-NEST-CANDIDATE",
+      "legacy_ref": "Chapter One nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter One bullets that would scan better as nested children. Not a regression gate.",
+      "make_target": "ch1-nested-list-candidates",
+      "status": "advisory"
+    },
+    {
+      "id": "CH2-NEST-CANDIDATE",
+      "legacy_ref": "Chapter Two nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Two bullets that would scan better as nested children. Not a regression gate.",
+      "make_target": "ch2-nested-list-candidates",
+      "status": "advisory"
+    },
+    {
+      "id": "CH3-NEST-CANDIDATE",
+      "legacy_ref": "Chapter Three nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Three bullets that would scan better as nested children. Not a regression gate.",
+      "make_target": "ch3-nested-list-candidates",
+      "status": "advisory"
+    },
+    {
+      "id": "CH4-NEST-CANDIDATE",
+      "legacy_ref": "Chapter Four nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Four bullets that would scan better as nested children. Not a regression gate.",
+      "make_target": "ch4-nested-list-candidates",
+      "status": "advisory"
+    },
+    {
       "id": "CH5-NEST-CANDIDATE",
       "legacy_ref": "nested list readability candidates",
       "summary": "Advisory ranking of packed Chapter Five In-scope, assessment, and failure bullets that would scan better as nested grandchild lists. Not a regression gate.",
@@ -189,6 +224,34 @@
       "legacy_ref": "Chapter Twelve nested list readability candidates",
       "summary": "Advisory ranking of packed Chapter Twelve labeled legitimacy, stewardship, collective-choice, and role bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch12-nested-list-candidates",
+      "status": "advisory"
+    },
+    {
+      "id": "CH13-NEST-CANDIDATE",
+      "legacy_ref": "Chapter Thirteen nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Thirteen labeled non-regression, amendment-validity, anti-evasion, and layer-scope bullets that would scan better as nested children. Not a regression gate.",
+      "make_target": "ch13-nested-list-candidates",
+      "status": "advisory"
+    },
+    {
+      "id": "CH14-NEST-CANDIDATE",
+      "legacy_ref": "Chapter Fourteen nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Fourteen bullets that would scan better as nested children. Not a regression gate.",
+      "make_target": "ch14-nested-list-candidates",
+      "status": "advisory"
+    },
+    {
+      "id": "CH15-NEST-CANDIDATE",
+      "legacy_ref": "Chapter Fifteen nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Fifteen bullets that would scan better as nested children. Not a regression gate.",
+      "make_target": "ch15-nested-list-candidates",
+      "status": "advisory"
+    },
+    {
+      "id": "CH16-NEST-CANDIDATE",
+      "legacy_ref": "Chapter Sixteen nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Sixteen bullets that would scan better as nested children. Not a regression gate.",
+      "make_target": "ch16-nested-list-candidates",
       "status": "advisory"
     },
     {
