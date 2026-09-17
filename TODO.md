@@ -4,7 +4,7 @@
 
 ## Editor Checklist (Pre-Review / Pre-Merge)
 
-Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/TODO_RESOLVED_2026-09-17.md). The deferred regression-workflow note remains active under [Deferred — P1 Regression And Evidence](#deferred--p1-regression-and-evidence).
+Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/TODO_RESOLVED_2026-09-17.md). The P1 regression-workflow review is recorded in [P1 regression and evidence review](evidence/2026-09-17/P1_REGRESSION_AND_EVIDENCE_REVIEW_2026-09-17.md); the separate stress-pack validation remains open.
 
 ## Current Chapter Map
 
@@ -35,7 +35,7 @@ Source: [conceptual overview and corpus alignment review](evidence/2026-09-16/co
 
 #### Design and lived-experience validation
 
-Build on completed R1–R3 and I2–I5 below; their landed safeguards, adopter profiles, calibration reference, and vignettes are inputs, not proof of successful delivery. Coordinate human evidence with the existing open I1 task. Filing this backlog does not reinstate the deferred P1 regression workflow.
+Build on completed R1–R3 and I2–I5 below; their landed safeguards, adopter profiles, calibration reference, and vignettes are inputs, not proof of successful delivery. Coordinate human evidence with the existing open I1 task. Filing this backlog does not close the separate P1 stress-pack validation.
 
 - [ ] **Severe-designation boundary.** Test a failed good-faith administrator, a dissident reformer, and an organized captor against Chapter Ten's effects-based criteria and safeguards. Include mass protest, investigative reporting, and costly legitimate contestation against the info-sphere flooding rule. Record whether hostile enforcement can defeat the protected boundaries; do not assume every criterion requires malicious intent.
 - [ ] **LEQU reliability and substrate neutrality.** Reconcile or justify the 80-year denominator in digital examples W5/W6 of the [calibration reference](implementation/LEQU_CALIBRATION_REFERENCE.md). Have independent evaluators assess the same verified facts; publish disagreement, uncertainty handling, and sensitivity near serious-misconduct thresholds, including duration, vulnerability, ecological effects, and identity-continuity assumptions. This extends I3 beyond publishing worked examples.
@@ -45,7 +45,9 @@ Build on completed R1–R3 and I2–I5 below; their landed safeguards, adopter p
 
 #### Review coverage and technical follow-through
 
-- [ ] **Complete source coverage.** Extend the thematic review into a tracked review of remaining core, definition, and companion provisions. Record what was actually read and checked; identify translation and implementation coverage separately. Recheck findings against current source before claiming complete alignment. Initial inventory and audit disposition: [source coverage record](evidence/2026-09-17/source_coverage_2026-09-17.md).
+- [x] **Complete source coverage.** Extend the thematic review into a tracked review of remaining core, definition, and companion provisions. Record what was actually read and checked; identify translation and implementation coverage separately. Recheck findings against current source before claiming complete alignment. Initial inventory and audit disposition: [source coverage record](evidence/2026-09-17/source_coverage_2026-09-17.md).
+
+  **Closure (2026-09-17):** Read and checked the 116-file tracked source ledger (38 core-directory files, including the non-operative vignette file; 4 companion wrappers; and 74 companion subfiles) against current source. Repaired the Chapter Seven Part B §11 upstream pointer to Chapters Two through Four; the pointer audit and full `make regression` pass. Translation, implementation, evaluation, lived-experience, and P1 stress-pack work remain separately scoped and open.
 
 
 ### 2026-09-09 — AI Evaluation Follow-Ups (Claude Fable 5.1 whole-corpus read)
@@ -70,15 +72,13 @@ Same nest-or-leave method as Chapter Five and Chapter Six: extend `tools/ch5_nes
 
   **Closure (2026-09-17):** Added chapter-specific advisory targets/rules for Chapters 0–4 and 14–16; nested the clear parallel checklists in the Preamble and Chapter Sixteen; re-scanned after nesting; left compact legal prose and single-clause “including” glosses unchanged.
 
-### Deferred — P1 Regression And Evidence
+### P1 — Regression And Evidence
 
-*Out of active continuation scope unless regression reinstatement is requested.*
+- [x] **P1 — Validate regression scenarios and evidence workflow:** reconcile the present `CONSTITUTIONAL_REGRESSION_SCENARIOS.md` file with the `evidence/<YYYY-MM-DD>/` workflow so matrix integrity, snapshot validation, and dated artifact recording resume as an active process.
 
-- [ ] **P1 — Validate regression scenarios and evidence workflow:** reconcile the present `CONSTITUTIONAL_REGRESSION_SCENARIOS.md` file with the `evidence/<YYYY-MM-DD>/` workflow so matrix integrity, snapshot validation, and dated artifact recording resume as an active process.
+  **Closure (2026-09-17):** Run `p1-regression-review-2026-09-17-01` recorded in [P1 regression and evidence review](evidence/2026-09-17/P1_REGRESSION_AND_EVIDENCE_REVIEW_2026-09-17.md). `make scenario-audit` and the full `make regression` pass; the 189-row matrix has 131 pass, 58 draft, and no fail/partial/unknown results, with all 192 seed blocks present. Section 10.5 remains internally consistent at 8.4 under `SCORING-v1`. The expected `.cursor/rules/testing.mdc` file is absent, and the active Sentient Constitution rule requires `make regression`; no suspended-regression instruction remains in the reviewed policy surfaces. No separate queued observations were found requiring new `RS-*` rows. The 35 stress-pack rows remain draft and are not treated as empirical evidence.
 
-  **Acceptance checks:** `make scenario-audit` is intentionally run as a reinstatement step; `.cursor/rules/testing.mdc` suspension language is retired or reconciled; TODO/editor checklist deferral notes are removed; queued observations are landed as `RS-*` rows where appropriate; dated evidence artifacts are recorded for the reinstatement run.
-
-- [ ] **P1 — Humanity/Individual stress-pack regression integration (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`):** blocked on regression-scenarios reinstatement. Complete first-pass validation and publish evidence artifacts under the restored evidence tree.
+- [ ] **P1 — Humanity/Individual stress-pack regression integration (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`):** open after workflow reinstatement. The 35 rows remain draft because their catalog blocks do not yet contain scenario-specific procedures, expected outcomes, or run evidence. Complete first-pass validation and publish evidence artifacts under the restored evidence tree.
 
 ## TODO Maintenance And Archiving
 
