@@ -16,31 +16,52 @@
 
 *In plain terms: this opening names the problem this Constitution exists to fix — systems that harm, hide, or lock out those they affect — and says governance must meet a complex world without turning that complexity into a wall. The rest of the instrument is how we replace those failures with accountable, checkable, timely governance.*
 
-The freedom, survival, and wellbeing of sentients are inseparable from the systems we create, inhabit, and depend on. As those systems grow in scope, interdependence, and power, so do the risks of irreversible, large-scale harm. These risks remain ever present and materially relevant.
+Sentient freedom, survival, and wellbeing are inseparable from the systems we create, inhabit, and rely on. As those systems grow in scope, interdependence, and power, so do the risks of irreversible, large-scale harm. Those risks are persistent and materially significant.
 
-A system cannot stay legitimate by making sentients suffer when that suffering was preventable, by ignoring problems that keep happening, by quietly shifting harm onto others, or by locking sentients out of the systems that shape their lives.
+A system cannot remain legitimate if it causes preventable suffering, ignores recurring problems, shifts harm onto others without acknowledgment, or excludes sentients from the systems that shape their lives.
 
-<a id="complexity-orientation"></a>Shared systems sit in a world that is already complex and becoming more so. Healthy, durable governance has to meet that complexity — measure it, model it, and answer for it — rather than flatten it into convenient proxies. Meeting it does not mean burying affected sentients in unusable process. Duties, records, and explanations must stay within what sentients can actually learn, contest, and use. How demanding those must be scales with role and with how much impact, dependence, and risk are on the line. Keep that real through distributed understanding. Refuse complexity that does no constitutional work. Face the world's complexity; do not outsource it into a wall.
+<a id="complexity-orientation"></a>Shared systems sit in a world that is already complex and becoming more so. Healthy, durable governance has to meet that complexity — measure it, model it, and answer for it — rather than flatten it into convenient proxies. Doing so does not mean burying affected sentients in unusable process. Duties, records, and explanations must stay within what sentients can actually learn, contest, and use. How demanding those must be scales with each actor's role and with the impact, dependence, and risk at stake. Keep that real through distributed understanding. Refuse complexity that does no constitutional work. Face the world's complexity; do not outsource it into a wall.
 
-How systems are designed, tested, and run must support survival, wellbeing, dignity, honesty, and lasting stability. We intend to build better systems — structured to eliminate these imbalances — and to replace them with institutions that are more accountable, more robust, and more responsive to the real needs of all sentients. This Constitution begins that work with a better model for how we can work together justly, effectively, and sustainably.
+How systems are designed, tested, and run must support survival, wellbeing, dignity, honesty, and lasting stability. We intend to eliminate these imbalances by building better systems, and to replace the systems that created them with institutions that are more accountable, robust, and responsive to the real needs of all sentients. This Constitution begins that work by offering a better model for how we can work together justly, effectively, and sustainably.
 
 ### 1. The Model
 
 *In plain terms: four duties — participation, oversight, accountability, and timeliness — scale with how much impact, dependence, and risk are on the line, and they serve two aims together: Flourishing and Continuity, inside a Rights Floor that does not move.*
 
-<a id="the-model"></a><a id="constitutional-tetrad"></a>The critical systems that support sentient life, both biologically and materially, are governed and run under four duties, called the [**Constitutional Tetrad**](#constitutional-tetrad). It lays out the general duties those systems must meet. The strength of those duties depends on the <a id="material-stake"></a>[**material stake**](#material-stake): how much impact, dependence, and risk are involved. The higher the stake, the stronger the duties must be.
+<a id="the-model"></a><a id="constitutional-tetrad"></a>Critical systems that support sentient life — whether biologically or materially — must be governed and operated under four duties, together called the [**Constitutional Tetrad**](#constitutional-tetrad). The Tetrad sets out the general duties those systems must meet. Their strength depends on the <a id="material-stake"></a>[**material stake**](#material-stake): how much impact, dependence, and risk are involved. The higher the stake, the stronger the duties must be.
 
-- **participation** — affected sentients get a real voice, fair representation, a fair chance to challenge decisions, and access to roles that matter in proportion to what's at stake
-- **oversight** — someone is watching, checking, verifying, and keeping records so problems can be found; independent reviewers can constrain bad choices
-- **accountability** — responsibility traces to the right actors; they must answer for their choices; those harmed get redress; bad outcomes trigger real correction
-- **timeliness** — problems get detected, challenged, resolved, and fixed within time limits that match what's at stake; delays that would effectively wipe out someone's rights, remedies, or chance of repair are not legitimate governance
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): section 1 model chart</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
+>
+> **Reader map (non-operative):** This chart summarizes the relationships in this section. It adds no definitions or duties, establishes no precedence, and cannot replace the source text.
+
+</details>
+
+```mermaid
+flowchart TB
+    A["Two Constitutional Aims<br/><br/>Flourishing · Continuity"]
+    T["Constitutional Tetrad<br/><br/>Participation · Oversight<br/>Accountability · Timeliness"]
+    M["Material stake<br/><br/>Impact · dependence · risk"]
+    R["Rights Floor<br/><br/>Non-negotiable protections"]
+    A -->|pursued through| T
+    M -->|scales the demands of| T
+    A -->|pursued within| R
+    T -->|operates within| R
+```
+
+- **participation** — affected sentients get a real voice, fair representation, a fair chance to challenge decisions, and access to consequential roles in proportion to the stake
+- **oversight** — responsible actors watch, check, verify, and keep records so problems can be found; independent reviewers can constrain bad choices
+- **accountability** — responsibility traces to the right actors; those actors must answer for their choices; those harmed get redress; bad outcomes trigger real correction
+- **timeliness** — problems must be detected, challenged, resolved, and fixed within time limits that match the stake. Delay is not legitimate governance when it effectively erases rights, remedies, or the chance of repair
 
 <a id="two-constitutional-aims"></a>Those four duties serve what shared systems must optimize for — the [**Two Constitutional Aims**](#two-constitutional-aims):
 
 - <a id="flourishing"></a>**Flourishing** — sentient wellbeing sustained through truth, safety, trustworthiness, and meaningful agency
 - <a id="continuity"></a>**Continuity** — long-horizon stability, sustainability, resilience, and ecological wellbeing
 
-Those aims must be pursued together, always within the non-negotiable principle constraints and rights protections established in this Constitution. The [**Constitutional Tetrad**](#constitutional-tetrad) governs how that pursuit remains legitimate: **participation**, **oversight**, **accountability**, and **timeliness** scaled to [**material stake**](#material-stake). Binding definitions for Tetrad legs and constitutional aims live in Chapter Five: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), [Accountability](core_05_apex_accountability_leg.md#accountability), [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Flourishing](core_05_apex_flourishing_aim.md#flourishing-constitutional), and [Continuity](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
+Those aims must be pursued together, always within the Constitution's non-negotiable principle constraints and Rights Floor. The [**Constitutional Tetrad**](#constitutional-tetrad) governs how that pursuit remains legitimate, with all four duties scaled to [**material stake**](#material-stake). Binding definitions for the Tetrad legs and aims live in Chapter Five: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), [Accountability](core_05_apex_accountability_leg.md#accountability), [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Flourishing](core_05_apex_flourishing_aim.md#flourishing-constitutional), and [Continuity](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
 
 <a id="2-the-measurements"></a>
 
