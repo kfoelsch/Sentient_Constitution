@@ -102,7 +102,7 @@ Các **thuật ngữ độc lập và bán độc lập** triển khai kịp th�
 
 - Hạ nguồn: gia đình đo lường Kịp thời — gộp chỉ-liên kết; các bậc theo thuật ngữ sống ở định nghĩa lá — xem [Giải quyết kịp thời](../../core_05_band_accountability.md#timely-resolution-constitutional), [Chiếm đường dẫn giải quyết](../../core_05_band_accountability.md#capture-of-resolution-pathways), và [Kịp thời](#timeliness-constitutional) (gộp đầu trụ chỉ-liên kết).
 - Đọc cùng: [Tham gia](core_05_apex_participation_leg.md#participation-constitutional), [Giám sát](core_05_apex_oversight_leg.md#oversight-constitutional), và [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability) — Kịp thời cũng chạy xuyên ba trụ Tứ diện kia; những trụ đó phải xảy ra đúng lúc mới hữu ích.
-- Đọc cùng: [Chương Mười Một §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- Đọc cùng: [Chương Mười Một §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
 </details>
 

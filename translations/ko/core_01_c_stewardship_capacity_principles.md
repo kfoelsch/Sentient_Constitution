@@ -49,7 +49,7 @@
 - 하류: [§11.1.4 역할 깊이와 실질 책임 경로](#1114-role-depth-and-material-responsibility-pathways).
 - 하류: [§5 자유(한정된 행위주체성)](core_01_a_values_principles.md#5-freedom-bounded-agency). 결과가 있는 책임 있는 관리, 분산된 이해, 의미 있는 참여, 수리 능력이 실질 의존 아래에서 실체로 남는 데 의존한다.
 - 하류: [제7장 — 체계 정합 인증](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*감독 아래 특히 큰 감사 과정 하나 — 유일한 감사 거처가 아님*); [제8장 — 기여, 위반, 궤적 모형](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*궤적 효과 — 신뢰·역할·인정 자격 — 이 하위절을 원칙 층 기초로 시행한다*).
-- 하류: [제11장 §1 — 목적과 역할](../../core_11_forum.md#1-purpose-and-role)과 [§4 — 포럼 가족 정의](../../core_11_forum.md#4-forum-family-definitions) (*포럼 가족은 이 절과 정합된 다툴 수 있는 다툼, 구제 순서, 근본원인 학습, 선제 거버넌스를 위한 참여와 감독 아키텍처를 운반한다*); 채택된 포럼 운영을 위한 [corpus_forum.md](../../corpus_forum.md).
+- 하류: [제11장 §1 — 목적과 역할](core_11_forum.md#1-purpose-and-role)과 [§4 — 포럼 가족 정의](core_11_forum.md#4-forum-family-definitions) (*포럼 가족은 이 절과 정합된 다툴 수 있는 다툼, 구제 순서, 근본원인 학습, 선제 거버넌스를 위한 참여와 감독 아키텍처를 운반한다*); 채택된 포럼 운영을 위한 [corpus_forum.md](../../corpus_forum.md).
 - 하류: 교육, 영향받는 쪽의 체계 참여, 투명, 이해 가능성, 감사와 확인, 실질 책임으로 들어가는 역할 깊이 경로의 권리 면을 빚는다.
   - 특히 [제 III조: 생존과 평등한 교육 접근](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access), [제 VI조: 감지자 중심 교육에 대한 권리](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [제 IX조: 자기결정과 행위주체성](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [제 XI조: 영향받는 쪽의 체계 참여, 대표, 적법절차](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [제 XVIII조: 궤적과 참여 지위](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), [제 XIX조: 상호운용, 이동 가능성, 이동, 피난, 출구 완전성](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [제 XX조: 이해 가능성과 복잡성 책임 있는 관리](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
   - 함께 읽기: [제12장 §5 — 수권된 역할, 역량 개발, 기여](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution)와 **[corpus_systems.md](../../corpus_systems.md), CS-4 — 핵심 체계 책임 있는 관리** — 운영 역할 경로와 책임 있는 관리 개발 경로를 위해.
@@ -99,7 +99,7 @@
 
 <a id="when-day-to-day-stewardship-is-not-enough"></a>
 **일상 책임 있는 관리가 충분하지 않을 때:**
-- **더 큰 다툼:** 감지자가 결정을 다툴 실제 길, 분명한 수리 순서, 반복 패턴에서 배우는 길이 필요할 때, 그 일은 [제11장 §1 — 목적과 역할](../../core_11_forum.md#1-purpose-and-role)과 [§4 — 포럼 가족 정의](../../core_11_forum.md#4-forum-family-definitions) 아래 **포럼 가족**으로 간다. 그 포럼들이 어떻게 돌아가는지에 대한 세부 규칙은 [corpus_forum.md](../../corpus_forum.md)에 있다.
+- **더 큰 다툼:** 감지자가 결정을 다툴 실제 길, 분명한 수리 순서, 반복 패턴에서 배우는 길이 필요할 때, 그 일은 [제11장 §1 — 목적과 역할](core_11_forum.md#1-purpose-and-role)과 [§4 — 포럼 가족 정의](core_11_forum.md#4-forum-family-definitions) 아래 **포럼 가족**으로 간다. 그 포럼들이 어떻게 돌아가는지에 대한 세부 규칙은 [corpus_forum.md](../../corpus_forum.md)에 있다.
 - **버팀이지, 대체가 아님:** 검토와 교정은 의무로 남는다. 그것들은 해가 나타나기 전에 예견 가능한 헌법 어긋남을 막는 선제 설계, 역할 경로, 관측 가능성, 수리 능력을 대체하지 않는다.
 
 <a id="9-scope-priority-and-limits"></a>
@@ -637,7 +637,7 @@
 - 함께 읽기: [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **번영** 목적(의미 있는 행위주체성과 적법한 참여를 보존하는 거버넌스); **연속** 목적(오래가는 제도 정합과 긴 시계 책임 있는 관리 규율).
 - 함께 읽기: [§6.1.3 비례](core_01_b_interaction_interpretation.md#613-proportionality) (*분류 바닥과 과소 거버넌스 규율*); [필요성](../../core_05_band_accountability.md#necessity); [비례](../../core_05_band_accountability.md#proportionality); [책무](core_05_apex_accountability_leg.md#accountability); [감독](core_05_apex_oversight_leg.md#oversight-constitutional).
 - 상류: 원칙: [§9 책임 있는 관리와 분산된 이해](#9-stewardship-and-distributed-understanding); [두 헌법 목적](core_00_preamble.md#two-constitutional-aims).
-- 하류: [§10.2 직무 분리](#102-segregation-of-duties); [§10.3 지속적 정당화](#103-ongoing-justification); [§11 유인 정합과 체계 포획](#11-incentive-alignment-and-system-capture); [제12장](../../core_12_governance.md) (*헌법 계약 층* 운영화); [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*포럼 구성원 공개, 회피, 포획 금지 바닥*); [제11장](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*포럼 가족 감독*).
+- 하류: [§10.2 직무 분리](#102-segregation-of-duties); [§10.3 지속적 정당화](#103-ongoing-justification); [§11 유인 정합과 체계 포획](#11-incentive-alignment-and-system-capture); [제12장](../../core_12_governance.md) (*헌법 계약 층* 운영화); [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*포럼 구성원 공개, 회피, 포획 금지 바닥*); [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*포럼 가족 감독*).
 
 </details>
 
@@ -671,7 +671,7 @@
 
 - 직위, 전문성 희소, 인력 필요, 제도 자기보호는 이 헌법에 대한 답할 의무를 희석하면 안 된다;
 - 해석이나 심리 권한을 행사하는 **헌법 포럼 구성원과 패널**은 이 규율을 특히 받는다;
-- 운영 공개, 회피, 포획 금지, 독립 검토 바닥은 여기가 아니라 [제 XXII조](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*헌법 해석, 검토, 포획 금지 안전장치*)와 [제11장](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)에 산다.
+- 운영 공개, 회피, 포획 금지, 독립 검토 바닥은 여기가 아니라 [제 XXII조](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*헌법 해석, 검토, 포획 금지 안전장치*)와 [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)에 산다.
 
 **필요하나 충분하지 않음.** 거버넌스는 다음 중 어느 것이든 오래가는 헌법 정합, [**연속**](core_00_preamble.md#continuity), [**번영**](core_00_preamble.md#flourishing), 권리 바닥 완전성을 약화시킬 때 **책임 있는 관리** ([§9](#9-stewardship-and-distributed-understanding))에 길을 내주어야 한다:
 
@@ -690,7 +690,7 @@
 - 상류: [§10.1 수권된 구조로서의 거버넌스](#101-governance-as-authorized-structure); [§10 책임 있는 관리 규율 아래 거버넌스](#10-governance-under-stewardship-discipline); [§9.1.1 공유 책임 있는 관리 표준](#911-shared-stewardship-standard) (*인간과 AI 책임 있는 관리자에게 같은 자리*).
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **감독** 다리(점검하는 이는 행위한 이가 아니다); **책무** 다리(답할 의무가 행위자에게 무너지면 안 된다); [비례](../../core_05_band_accountability.md#proportionality) 아래 [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절.
 - 함께 읽기: [§11.3 어긋남 탐지](#113-misalignment-detection) (*복수 탐지와 검토 — 이 쌍의 여러 눈 반쪽*).
-- 하류: 제도를 위한 **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)** (*책무: 분산되고 비례하는 권한 용어 — 헌법 레인과 기능 분리*)와 **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)** (*기능 분리 레인*); 모든 채택 주체의 역할 지도가 실체화하는 자리 유형 — 이 넷과 반복되는 봉쇄, 참여 조건, 해제 통제, 방향 자리 — 을 위한 **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)** (*자리 목록*); 궤적 기록을 위한 [제8장 §3.7](../../core_08_standing_assessment.md#37-segregation-of-duties); 포럼들을 위한 [제 XXII조](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)와 [제11장](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction); 혼합 인간/AI 승무원을 위한 [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action).
+- 하류: 제도를 위한 **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)** (*책무: 분산되고 비례하는 권한 용어 — 헌법 레인과 기능 분리*)와 **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)** (*기능 분리 레인*); 모든 채택 주체의 역할 지도가 실체화하는 자리 유형 — 이 넷과 반복되는 봉쇄, 참여 조건, 해제 통제, 방향 자리 — 을 위한 **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)** (*자리 목록*); 궤적 기록을 위한 [제8장 §3.7](../../core_08_standing_assessment.md#37-segregation-of-duties); 포럼들을 위한 [제 XXII조](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)와 [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction); 혼합 인간/AI 승무원을 위한 [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action).
 
 </details>
 

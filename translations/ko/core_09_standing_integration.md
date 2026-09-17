@@ -33,7 +33,7 @@
 
 - 상류: [제8장](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*질문 1과 2; 확인된 기록과 궤적 측정*).
 - 이 파일: 질문 3 통합, 구제, 교정, 잠금, 자발적 공적 책무 표현, 역량 문턱과 허가, 최종 궤적 효과, 복원, 재평가, 집행 현실성, 구제 체계, 그리고 패턴 적용 / 질문 3 라우팅.
-- 하류: [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*지정만*); [제11장](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*포럼 감독*); [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*구제 체계 시행*).
+- 하류: [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*지정만*); [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*포럼 감독*); [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*구제 체계 시행*).
 
 </details>
 
@@ -251,13 +251,13 @@
 
 *쉬운 말로: 잠금은 발급하기 싸고, 수리·복원·검토는 돌리기 비쌉니다. 그대로 두면, 이 장의 값싼 반쪽은 계속 돌고 비싼 반쪽은 굶습니다. 이 하위절은 둘을 묶습니다: 보통 잠금은 같은 소견의 구제 철이 실제로 열리기 전에는 붙을 수 없고, 채택하는 이의 어떤 잠금 등급에 대한 구제나 복원 일이 시계에 뒤처지면, 그 등급의 새 보통 잠금은 가장 가벼운 형태로 기본 돌아가며 기존 것은 검토에 오릅니다. 가장 무거운 잠금은 면제되어, 구제 대기열을 채워 그것들을 풀어 낼 수 없게 합니다.*
 
-**열린 구제 전제.** [제11장 §5](../../core_11_forum.md#interim-protection) (*잠정 보호*) 아래 잠정 보호 조치를 넘어, [§4.2](#42-general-standing-locks) 아래 일반 궤적 잠금은 같은 확인된 소견의 [§4.1](#41-remedy-and-correction) 통합 기록이 **열리기** 전에는 명명된 경로에 붙을 수 없다 — 열림은 적어도 영향받는 쪽, 빚진 구제, 책임 있는 쪽, 자금 원천, 시작 날짜가 훤히 말해짐을 뜻한다. 잠금이 붙으려면 구제 완료는 필요하지 않다; 열린 구제 기록은 필요하다. 열린 구제 기록 없이 붙은 잠금은 결함이며, [제11장 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 층 시계 위에서 치유되거나 잠정 보호 범위로 좁혀져야 한다.
+**열린 구제 전제.** [제11장 §5](core_11_forum.md#interim-protection) (*잠정 보호*) 아래 잠정 보호 조치를 넘어, [§4.2](#42-general-standing-locks) 아래 일반 궤적 잠금은 같은 확인된 소견의 [§4.1](#41-remedy-and-correction) 통합 기록이 **열리기** 전에는 명명된 경로에 붙을 수 없다 — 열림은 적어도 영향받는 쪽, 빚진 구제, 책임 있는 쪽, 자금 원천, 시작 날짜가 훤히 말해짐을 뜻한다. 잠금이 붙으려면 구제 완료는 필요하지 않다; 열린 구제 기록은 필요하다. 열린 구제 기록 없이 붙은 잠금은 결함이며, [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 층 시계 위에서 치유되거나 잠정 보호 범위로 좁혀져야 한다.
 
 **구제 균등 방아쇠.** 채택하는 이는 자기가 운영하는 각 기간과 각 잠금 등급에 대해, 발급한 일반 잠금 수, 시작한 구제, 마친 구제, 결정된 복원, 대기 중인 재평가를 공표해야 한다. 잠금 등급의 구제 시작이나 복원 검토가 제11장 §6 층 바깥 한도를 넘으면:
 
 - 그 등급의 새 일반 잠금은, 통합 기록이 **막힘**을 요구하는 특정한 되돌릴 수 없는 해 또는 안전 위험을 기록하지 않는 한, [§7](#7-final-standing-effect) 아래 **안전장치를 둔 채 열림**으로 기본 돌아간다;
 - 그 등급의 기존 일반 잠금은 같은 층 시계 위에서 [§8](#8-restoration-and-reassessment) 아래 의무 재평가에 들어간다; 그리고
-- 능력 실패는 [§9.2](#92-remedy-system-durability) 아래 내구성 실패로 기록되고, 능력이 문제인 가족이나 체계 밖에서 [제11장 §3](../../core_11_forum.md#3-transfer-consolidation-and-coordination) 능력 실패 규칙 아래로 라우팅된다.
+- 능력 실패는 [§9.2](#92-remedy-system-durability) 아래 내구성 실패로 기록되고, 능력이 문제인 가족이나 체계 밖에서 [제11장 §3](core_11_forum.md#3-transfer-consolidation-and-coordination) 능력 실패 규칙 아래로 라우팅된다.
 
 **면제.** 방아쇠는 [§5.5](#55-special-locks) 특별 잠금, 위반 축 슬롯 **7**, **8**, 또는 **9** 소견에 붙은 잠금, 또는 [§5.4](#54-special-violation-rules) 아래 강제적 또는 자유를 제한하는 안전장치를 느슨하게 하지 않는다. [§10.10](#1010-contest-pathway-or-info-sphere-flooding) 아래 다툼 경로 쇄도로 확인된 제출은 이 규칙을 건드리는 적체에 세지 않는다.
 
@@ -633,7 +633,7 @@
 
 **기본 연속.** 역량 허가가 주어지고 영향받는 명명된 경로가 열려 있으면, 허가는 기본으로 효력이 남는다. 그것이 영구 권리가 아니다. 공표된 재시험, 역할에 관련된 능력의 실질 변화, 적용되는 궤적 잠금, 또는 이 절 아래 다른 재평가 방아쇠가 허가를 다시 열거나, 한정하거나, 철회할 수 있다.
 
-**주기 재시험.** 어떤 역량은 주기 재시험을 요구하고, 어떤 것은 요구하지 않는다. 어느 명명된 경로가 재시험을 요구하는지, 얼마나 자주, 어떤 방법으로인지는 [기술 포럼 영역](../../core_11_forum.md#42-technical-forum-domains) 아래 공표된 표준이 정하며, 적법한 범위 안의 전문화된 기술 포럼을 포함한다. 그 표준은 역할에 비례하고, 점검 가능하고, 다툴 수 있어야 한다.
+**주기 재시험.** 어떤 역량은 주기 재시험을 요구하고, 어떤 것은 요구하지 않는다. 어느 명명된 경로가 재시험을 요구하는지, 얼마나 자주, 어떤 방법으로인지는 [기술 포럼 영역](core_11_forum.md#42-technical-forum-domains) 아래 공표된 표준이 정하며, 적법한 범위 안의 전문화된 기술 포럼을 포함한다. 그 표준은 역할에 비례하고, 점검 가능하고, 다툴 수 있어야 한다.
 
 **실질 능력 변화.** 확인된 사실이 명명된 경로가 실제로 요구하는 능력의 실질 변화를 보일 때에도 허가를 재평가할 수 있다 — 예를 들어 뇌졸중 뒤 운동이나 언어의 상실, 또는 그 역할에 필요한 판단을 손상하는 정신건강 상태. 재평가는 걸려 있는 역할 관련 능력을 겨냥해야 하며, 장애나 건강 상태 그 자체를 겨냥해서는 안 된다. 필요하고, 비례하고, 검토에 열려 있으며, 제5장과 제6장 아래 접근성과 차별 금지 바닥과 일관되어야 한다. 그 선택이 안전한 준비도를 지킬 수 있는 곳, 허가를 철회하기 전에 편의, 지원, 또는 더 좁은 명명된 경로를 고려해야 한다.
 
@@ -696,7 +696,7 @@
     - 견줄 만한 산출물;
   - 그것을 내지 않은 명명된 경로로 효과를 옮기는 일; 또는
   - 주체의 효과 집합에서 일반 신뢰성, 가치, 또는 위험을 추론하는 일.
-- **한정된 예외:** 포획이나 패턴 주장을 살피는 [완전성 포럼](../../core_11_forum.md#45-integrity-forums), [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) 지정 검토, [§9.4](#94-anti-evasion-and-look-through-authority) look-through는, 제척 규칙과 [제11장 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 시계 아래, 그 절차에 한해 경로를 가로지른 기록을 볼 수 있다. [제8장 §3.2](core_08_standing_assessment.md#32-related-record-cross-references) 연결된 기록 사이 교차 참조는 남는다; 그것들은 기록 연결이지 합성이 아니다.
+- **한정된 예외:** 포획이나 패턴 주장을 살피는 [완전성 포럼](core_11_forum.md#45-integrity-forums), [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) 지정 검토, [§9.4](#94-anti-evasion-and-look-through-authority) look-through는, 제척 규칙과 [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 시계 아래, 그 절차에 한해 경로를 가로지른 기록을 볼 수 있다. [제8장 §3.2](core_08_standing_assessment.md#32-related-record-cross-references) 연결된 기록 사이 교차 참조는 남는다; 그것들은 기록 연결이지 합성이 아니다.
 - **공적 LEQU 표시:** 위반 축과 기여 축 슬롯은 감지자의 일반 속성으로 공표되지 않는다. 그것들은 기록에, 포럼 절차에, 그리고 슬롯이 그 명명된 경로에 대한 적법한 입력인 곳에서 명명된 경로 문지기에게의 공개에 나타난다.
 
 <a id="72-plain-statement-of-effect-and-burden"></a>
@@ -746,7 +746,7 @@
 
 *쉬운 말로: 궤적 결과와 시정은 실제 제도가 그것들을 전달할 수 있을 때만 셉니다. 이 절은 그 기계의 헌법 바닥입니다. 일상 인력, 자금, 적체, 승계 규칙은 제도 층에 삽니다.*
 
-제9장은 질문 3 결과와 관련 시정이 제도적으로 실제여야 한다는 헌법 바닥을 주관한다. [구제 체계](core_05_band_accountability.md#remedy-system-constitutional)는 다툼, 접수, 보존, 검토, 수리, 감시, 안전장치 집행, 잠금 검토를 전달하는 오래가는 능력이다 — 종이 경로가 아니다. 시행 세부는 [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*구제 체계와 제도 시정 능력*)이 주관한다. **제 XII-B조** (*다툼, 검토, 구제에 대한 권리*)와 포럼 감독을 위한 [제11장](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)과 함께 읽으라.
+제9장은 질문 3 결과와 관련 시정이 제도적으로 실제여야 한다는 헌법 바닥을 주관한다. [구제 체계](core_05_band_accountability.md#remedy-system-constitutional)는 다툼, 접수, 보존, 검토, 수리, 감시, 안전장치 집행, 잠금 검토를 전달하는 오래가는 능력이다 — 종이 경로가 아니다. 시행 세부는 [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*구제 체계와 제도 시정 능력*)이 주관한다. **제 XII-B조** (*다툼, 검토, 구제에 대한 권리*)와 포럼 감독을 위한 [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)과 함께 읽으라.
 
 궤적 통합은 결과가 종이에만 있으면 실패한다. 채택하는 이는 교정을 시행하고, 구제에 자금을 대고, 제한을 검토하고, 기록을 지키고, 안전장치를 집행하고, 비용, 지연, 국경, 구조조정, 또는 형식 정체 변경을 통한 탈출을 막을 실무적이고 제때인 능력을 유지해야 한다.
 
@@ -796,7 +796,7 @@
 - 검토; 그리고
 - 집행.
 
-그 체계는 [제11장 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 층 이정표와 사슬 단계 창을 충족해야 한다. 또한 [기술 포럼 영역](../../core_11_forum.md#42-technical-forum-domains) 아래 공표된 능력, 측정, 이정표 표준을 충족해야 한다. 기술 포럼이 그 표준을 세우고 유지한다; 그것들은 구제 체계나 제도의 지휘 위계가 아니다. 인력, 자금, 적체, 승계, 성과에 대한 책무는 [일차 이해관계](../../core_11_forum.md#2-default-venue-and-primary-stakes) 포럼 가족에 남는다 — 보통 [제도](../../core_11_forum.md#43-institutional-forums), 또는 포획, 과정 실패, 또는 체계 정합 붕괴가 일차인 곳의 [완전성](../../core_11_forum.md#45-integrity-forums). 구제 체계 능력의 제도 시행 세부는 [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*구제 체계와 제도 시정 능력*)이 주관한다.
+그 체계는 [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 층 이정표와 사슬 단계 창을 충족해야 한다. 또한 [기술 포럼 영역](core_11_forum.md#42-technical-forum-domains) 아래 공표된 능력, 측정, 이정표 표준을 충족해야 한다. 기술 포럼이 그 표준을 세우고 유지한다; 그것들은 구제 체계나 제도의 지휘 위계가 아니다. 인력, 자금, 적체, 승계, 성과에 대한 책무는 [일차 이해관계](core_11_forum.md#2-default-venue-and-primary-stakes) 포럼 가족에 남는다 — 보통 [제도](core_11_forum.md#43-institutional-forums), 또는 포획, 과정 실패, 또는 체계 정합 붕괴가 일차인 곳의 [완전성](core_11_forum.md#45-integrity-forums). 구제 체계 능력의 제도 시행 세부는 [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*구제 체계와 제도 시정 능력*)이 주관한다.
 
 다음은, 다툼이나 구제를 예견 가능하게 무효화하는 곳에서 이 규칙을 위반한다:
 
@@ -825,7 +825,7 @@
 <a id="95-timely-implementation"></a>
 #### 9.5 제때 시행
 
-구제 시작, 교정 이정표, 잠금 검토, 재평가는 [적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional), [제11장 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), **제 XXIV-C조** (*제때 해결과 지연 금지 바닥*)를 충족해야 한다. 해를 키우거나, 비수행을 숨기거나, 검토를 꺾는 지연은 질문 3의 새 확인된 사실이며, 원래 제8장 슬롯을 바꾸지 않고 격상된 안전장치를 정당화할 수 있다.
+구제 시작, 교정 이정표, 잠금 검토, 재평가는 [적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional), [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), **제 XXIV-C조** (*제때 해결과 지연 금지 바닥*)를 충족해야 한다. 해를 키우거나, 비수행을 숨기거나, 검토를 꺾는 지연은 질문 3의 새 확인된 사실이며, 원래 제8장 슬롯을 바꾸지 않고 격상된 안전장치를 정당화할 수 있다.
 
 권리와 궤적 결과는, 감지자가 그것들을 호출하고, 확인하고, 실무 수리에 자금을 대고, 제때 검토를 얻고, 기능상 책임 있는 행위자에게 의무를 집행할 수 있을 때만 실제다.
 
@@ -845,7 +845,7 @@
 
 *쉬운 말로: 이 패턴은 되풀이되는 질문 3 가장자리 모양이 위에 이미 말한 규칙을 어떻게 통과하는지를 보여 줍니다 — 새 결과나 새 특별 잠금 유형을 지어내지 않습니다. 단서가 제10장 §5 공격 가족을 거울로 삼는 곳, 이 절은 확인된 기록에서 명명된 경로 예방에 답합니다; 제10장은 따로 지정 기준 라우팅에 답합니다.*
 
-아래 하위절은 흔한 질문 3 상황이 이 장에 이미 말한 규칙을 어떻게 쓰는지를 보여 준다. 그것들은 새 결과를 **지어내지 않고**, [§5.5](#55-special-locks) 아래 특별 잠금 유형을 만들지 않고, 특별 예외를 만들지 않고, 제8장 슬롯을 바꾸지 않고, [제11장](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)에서 포럼 감독을 빼앗지 않고, [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)에서 지정 결정을 빼앗지 않는다. 결정자는 [§2](#2-integration-record-and-decision-order)의 순서와 각 패턴이 이름 붙인 절을 따른다.
+아래 하위절은 흔한 질문 3 상황이 이 장에 이미 말한 규칙을 어떻게 쓰는지를 보여 준다. 그것들은 새 결과를 **지어내지 않고**, [§5.5](#55-special-locks) 아래 특별 잠금 유형을 만들지 않고, 특별 예외를 만들지 않고, 제8장 슬롯을 바꾸지 않고, [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)에서 포럼 감독을 빼앗지 않고, [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)에서 지정 결정을 빼앗지 않는다. 결정자는 [§2](#2-integration-record-and-decision-order)의 순서와 각 패턴이 이름 붙인 절을 따른다.
 
 <a id="101-informal-ecological-stewardship-competency-clearance"></a>
 <a id="101-informal-ecological-stewardship-competency-gate"></a>
@@ -949,7 +949,7 @@
   - [§4](#4-violation-correction-and-prevention) (*구제, 교정, 예방*);
   - [§4.2](#42-general-standing-locks) (*남용된 라우팅, 제출, 순위, 접근, 또는 영향 경로에 대한 보호 명명된 경로 잠금*);
   - [§5.1](#51-definition-and-attachment)와 [§5.2](#52-proportionality-and-calibration) (*필요하고, 비례하고, 검토 가능한 범위*); 그리고
-  - [제11장](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*운영 접수 선별과 게임 금지 — 궤적 효과를 지어내지 않는 감독*).
+  - [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*운영 접수 선별과 게임 금지 — 궤적 효과를 지어내지 않는 감독*).
 - **타협 불가:** 이 단서는 쇄도 잠금이나 다른 [§5.5](#55-special-locks) 유형을 만들지 않는다. 지정 쪽 기준 라우팅은 [제10장 §5.3](../../core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)과 [§5.4](../../core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)에 남는다. 보통 보호 잠금은 지정이 나중에 붙든 아니든 고정된 기록에서 진행한다.
 
 <a id="1011-infrastructure-denial-or-dependency-cutoff"></a>

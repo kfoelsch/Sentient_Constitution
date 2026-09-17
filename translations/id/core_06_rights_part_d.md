@@ -69,7 +69,7 @@ Adjudikasi dan penyelesaian sengketa dalam arti konstitusional didefinisikan di 
 
 *Pasal tetangga:*
 
-- **Lantai ketepatan waktu:** Kecepatan penyelesaian, disiplin anti-tunda, dan tonggak tingkat materialitas diatur oleh **Pasal XXIV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*), diimplementasikan melalui [Bab Sebelas §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- **Lantai ketepatan waktu:** Kecepatan penyelesaian, disiplin anti-tunda, dan tonggak tingkat materialitas diatur oleh **Pasal XXIV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*), diimplementasikan melalui [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 - **Pemulihan tepat waktu:** Baca bersama [**Pasal XII-B** (*Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan*)](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*akses pemulihan tepat waktu*).
 
 Implementasi tata kelola yang diadopsi menyediakan eskalasi, proporsionalitas intervensi, batas darurat, dan jendela waktu bawaan menurut tingkat. Ia tidak boleh mempersempit akses praktis, dapat-ditinjau, restorasi, penyelesaian tepat waktu, atau batasan Lantai Hak di bawah pasal ini.
@@ -196,7 +196,7 @@ Implementasi tata kelola yang diadopsi menyediakan eskalasi, proporsionalitas in
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: Prinsip: Bab Satu [§3.1 Keselamatan](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Prinsip Tukar-Guling Inti](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), dan [Bab Satu §6.1.5 disiplin catatan keputusan](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Baca bersama: **Pasal I-D** (*Risiko Eksistensial dan Kapasitas Pemulihan Ekologis*) di mana pemeriksaan risiko eksistensial tersangkut secara material; kaki **partisipasi** dan **ketepatan waktu** [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Pasal XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Penyelesaian tepat waktu dan lantai anti-tunda*); [Bab Sebelas §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*batas luar tingkat materialitas dipakai ulang sebagai bawaan restorasi-gugatan*).
+- Baca bersama: **Pasal I-D** (*Risiko Eksistensial dan Kapasitas Pemulihan Ekologis*) di mana pemeriksaan risiko eksistensial tersangkut secara material; kaki **partisipasi** dan **ketepatan waktu** [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Pasal XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Penyelesaian tepat waktu dan lantai anti-tunda*); [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*batas luar tingkat materialitas dipakai ulang sebagai bawaan restorasi-gugatan*).
 - Hilir: [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) (*tabel tahap numerik tidak boleh memperlambat bawaan ini*).
 
 </details>
@@ -242,14 +242,14 @@ Implementasi tata kelola yang diadopsi menyediakan eskalasi, proporsionalitas in
   - proporsionalitas;
   - ketiadaan alternatif lebih longgar yang layak.
 <a id="xxiii-d-restore-challenge-clocks"></a>
-- **Tinjauan dan pemberitahuan (jam restorasi-gugatan):** Tahan sekarang; restorasi pemberitahuan dan gugatan kemudian; jangan pernah melewatkan partisipasi secara permanen. «Sesegera yang layak» bukan jamnya. Pihak terdampak harus menerima pemberitahuan dan akses gugatan yang direstorasi di dalam batas luar tingkat materialitas yang sama yang [**Pasal XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) sudah pakai untuk penyelesaian forum, sebagaimana diimplementasikan oleh [Bab Sebelas §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline):
+- **Tinjauan dan pemberitahuan (jam restorasi-gugatan):** Tahan sekarang; restorasi pemberitahuan dan gugatan kemudian; jangan pernah melewatkan partisipasi secara permanen. «Sesegera yang layak» bukan jamnya. Pihak terdampak harus menerima pemberitahuan dan akses gugatan yang direstorasi di dalam batas luar tingkat materialitas yang sama yang [**Pasal XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) sudah pakai untuk penyelesaian forum, sebagaimana diimplementasikan oleh [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline):
   - **Tier A:** paling lama **satu minggu**;
   - **Tier B:** paling lama **tiga minggu**;
   - **Tier C:** paling lama **dua bulan**;
   - **Tier L:** paling lama **empat bulan**;
   - **Tier P:** paling lama **enam bulan**.
 
-  Angka itu dipakai ulang; bukan tabel kedua. [Bab Sebelas §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tetap rumah numerik. Jendela restorasi-gugatan berjalan dari awal tindakan darurat, atau dari saat pemberitahuan atau gugatan ditunda, mana yang lebih awal. Penahanan darurat yang menunda pemberitahuan atau gugatan adalah **Tier A** kecuali ada demonstrasi urgensi-lebih-rendah yang terdokumentasi. Operator boleh merestorasi lebih awal. Mereka tidak boleh meregangkan melewati bawaan tingkat kecuali melalui **Disiplin kelanjutan**. Tinjauan independen penuh atas ukuran harus mulai di dalam jendela yang sama. Tabel tahap di [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) tidak boleh memperlambat bawaan ini.
+  Angka itu dipakai ulang; bukan tabel kedua. [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tetap rumah numerik. Jendela restorasi-gugatan berjalan dari awal tindakan darurat, atau dari saat pemberitahuan atau gugatan ditunda, mana yang lebih awal. Penahanan darurat yang menunda pemberitahuan atau gugatan adalah **Tier A** kecuali ada demonstrasi urgensi-lebih-rendah yang terdokumentasi. Operator boleh merestorasi lebih awal. Mereka tidak boleh meregangkan melewati bawaan tingkat kecuali melalui **Disiplin kelanjutan**. Tinjauan independen penuh atas ukuran harus mulai di dalam jendela yang sama. Tabel tahap di [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) tidak boleh memperlambat bawaan ini.
 - **Tanpa normalisasi:** Tindakan darurat tidak boleh dinormalkan menjadi tata kelola permanen tanpa:
   - justifikasi yang konsisten dengan **Bab Satu** (**Keperluan** dan **Proporsionalitas**);
   - **otorisasi-ulang independen yang terdokumentasi**;
@@ -366,7 +366,7 @@ Pasal ini menerapkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-
 
 - Hulu: keluarga pengukuran Ketepatan waktu (*Penyelesaian tepat waktu dan disiplin anti-tunda sebagai pengukuran konstitusional*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) (*rantai jejak, integrasi, dan koordinasi forum*).
 - Prinsip: Bab Satu [§12.2 Efisiensi Konstitusional](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency), [Bab Satu §6.3 Minimalisasi Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), dan [Bab Satu §6.1.5 disiplin catatan keputusan](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Hilir: [Bab Sebelas §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*tingkat materialitas, tonggak rantai, dan disiplin anti-tunda*); [Pasal XXIII-D](#xxiii-d-restore-challenge-clocks) (*batas luar yang sama sebagai jendela bawaan restorasi-gugatan setelah penahanan darurat*).
+- Hilir: [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*tingkat materialitas, tonggak rantai, dan disiplin anti-tunda*); [Pasal XXIII-D](#xxiii-d-restore-challenge-clocks) (*batas luar yang sama sebagai jendela bawaan restorasi-gugatan setelah penahanan darurat*).
 - Pintu pengelola (non-operatif): Pernyataan langkah-berikutnya yang mengikat: [Pernyataan pengelola operatif](#operative-steward-statement-delay). Penunjuk pendukung tidak dapat mempersempitnya.
 
 </details>
@@ -395,7 +395,7 @@ Pasal ini menerapkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-
   - **Tepat waktu** — jam berbatas yang diskalakan ke [taruhan material](core_00_preamble.md#material-stake) dan urgensi bahaya;
   - **Efisien** — [Efisiensi konstitusional](core_05_band_continuity.md#constitutional-efficiency) dalam arti Bab Satu [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) — hasil konstitusional nyata per waktu makhluk sadar dan usaha bersama yang dikonsumsi, bukan throughput mentah atau pengosongan daftar perkara;
   - **Adil** — **Pasal XXIII-A** (*Tujuan dan Lingkup Keadilan*), **Pasal XXIII-B** (*Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif*), dan **Pasal XXIII-C** (*Aturan Paling Longgar dan Berbatas Waktu*) tetap berlaku penuh; bergerak cepat bukan alasan untuk melewatkan fakta yang diperiksa ([Bab Delapan §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)), menghukum pihak yang salah, menawarkan perbaikan yang tidak cocok dengan bahaya, atau memotong gugatan dan banding.
-- **Pengawasan forum dan rantai:** Yang berikut, bagi sengketa yang dirutekan melalui **Bab Delapan sampai Sebelas**, diatur oleh [Bab Sebelas §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), tunduk pada lantai tepat waktu, efisien, dan adil pasal ini:
+- **Pengawasan forum dan rantai:** Yang berikut, bagi sengketa yang dirutekan melalui **Bab Delapan sampai Sebelas**, diatur oleh [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), tunduk pada lantai tepat waktu, efisien, dan adil pasal ini:
   - klasifikasi tingkat materialitas;
   - tonggak tahap rantai;
   - batas luar penyelesaian terpadu;

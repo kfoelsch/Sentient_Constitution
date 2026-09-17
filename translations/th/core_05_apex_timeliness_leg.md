@@ -102,7 +102,7 @@
 
 - ปลายทาง: ตระกูลการวัดความทันเวลา — ม้วนรวมแบบลิงก์อย่างเดียว; ชั้นรายคำอยู่ในบทนิยามใบ — ดู [การยุติที่ทันเวลา](../../core_05_band_accountability.md#timely-resolution-constitutional) [การยึดครองเส้นทางการยุติ](../../core_05_band_accountability.md#capture-of-resolution-pathways) และ [ความทันเวลา](#timeliness-constitutional) (ม้วนรวมหัวขาแบบลิงก์อย่างเดียว)
 - อ่านคู่กับ: [การมีส่วนร่วม](core_05_apex_participation_leg.md#participation-constitutional) [การกำกับดูแล](core_05_apex_oversight_leg.md#oversight-constitutional) และ [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) — ความทันเวลายังวิ่งผ่านอีกสามขาของจตุรภาค; ขาเหล่านั้นต้องเกิดทันเวลาจึงจะมีประโยชน์
-- อ่านคู่กับ: [บทที่สิบเอ็ด §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)
+- อ่านคู่กับ: [บทที่สิบเอ็ด §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)
 
 </details>
 

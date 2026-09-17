@@ -102,7 +102,7 @@
 
 - أسفل: أسرة قياس حسن التوقيت — تجميع بروابط فقط؛ تعيش المستويات لكل مصطلح في التعريفات الطرفية — انظر [الحل في وقته](../../core_05_band_accountability.md#timely-resolution-constitutional)، [استيلاء مسارات الحل](../../core_05_band_accountability.md#capture-of-resolution-pathways)، و[حسن التوقيت](#timeliness-constitutional) (تجميع رأس الرجل بروابط فقط).
 - يُقرأ مع: [المشاركة](core_05_apex_participation_leg.md#participation-constitutional)، [الرقابة](core_05_apex_oversight_leg.md#oversight-constitutional) و[المساءلة](core_05_apex_accountability_leg.md#accountability) — يجري حسن التوقيت أيضًا عبر الأرجل الثلاث الأخرى من الرباعية؛ ويجب أن تحدث تلك الأرجل في وقتها كي تكون نافعة.
-- يُقرأ مع: [الفصل الحادي عشر §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- يُقرأ مع: [الفصل الحادي عشر §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
 </details>
 

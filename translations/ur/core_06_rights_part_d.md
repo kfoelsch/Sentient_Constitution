@@ -69,7 +69,7 @@
 
 *پڑوسی دفعات:*
 
-- **بروقت کارروائی کی تہہ:** حل کی رفتار، تاخیر مخالف ضبط، اور مادیت درجے کے سنگ میل **دفعہ XXIV-C** (*بروقت حل اور تاخیر مخالف تہہ*) چلاتی ہے، [باب یازدهم §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) کے ذریعے نافذ۔
+- **بروقت کارروائی کی تہہ:** حل کی رفتار، تاخیر مخالف ضبط، اور مادیت درجے کے سنگ میل **دفعہ XXIV-C** (*بروقت حل اور تاخیر مخالف تہہ*) چلاتی ہے، [باب یازدهم §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) کے ذریعے نافذ۔
 - **بروقت تدارک:** [**دفعہ XII-B** (*چیلنج، جائزہ اور تدارک کا حق*)](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*بروقت تدارک تک رسائی*) کے ساتھ پڑھیں۔
 
 اختیار شدہ حکمرانی کا نفاذ اضافہ، مداخلت کا تناسب، ہنگامی حدیں، اور درجہ طے شدہ وقتی کھڑکیاں دیتا ہے۔ وہ اس دفعہ کے تحت عملی رسائی، جائزے کی صلاحیت، بحالی، بروقت حل، یا حقوق کی تہہ کی پابندیاں تنگ نہیں کر سکتا۔
@@ -196,7 +196,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) اور [باب یکم §6.1.5 حقوق تصادم طریقہ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)۔
-- ساتھ پڑھیں: **دفعہ I-D** (*وجودی خطرہ اور ماحولیاتی بحالی کی صلاحیت*) جہاں وجودی خطرے کی جانچ مادی طور پر شامل ہو؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) کی **شرکت** اور **بروقت کارروائی** ٹانگیں؛ [دفعہ XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*بروقت حل اور تاخیر مخالف تہہ*)؛ [باب یازدهم §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*مادیت درجے کی بیرونی حدیں بحالی-چیلنج طے شدہ کے طور پر دوبارہ استعمال*)۔
+- ساتھ پڑھیں: **دفعہ I-D** (*وجودی خطرہ اور ماحولیاتی بحالی کی صلاحیت*) جہاں وجودی خطرے کی جانچ مادی طور پر شامل ہو؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) کی **شرکت** اور **بروقت کارروائی** ٹانگیں؛ [دفعہ XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*بروقت حل اور تاخیر مخالف تہہ*)؛ [باب یازدهم §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*مادیت درجے کی بیرونی حدیں بحالی-چیلنج طے شدہ کے طور پر دوبارہ استعمال*)۔
 - زیریں: [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) (*عددی مرحلہ جدول یہ طے شدہ سست نہیں کر سکتے*)۔
 
 </details>
@@ -242,14 +242,14 @@
   - تناسب؛
   - کم پابندی والے ممکن متبادلات کی عدم موجودگی۔
 <a id="xxiii-d-restore-challenge-clocks"></a>
-- **جائزہ اور نوٹس (بحالی-چیلنج گھڑیاں):** اب قابو کرو؛ بعد میں نوٹس اور چیلنج بحال کرو؛ شرکت کبھی مستقل نہ چھوڑو۔ «جتنی جلد ممکن ہو» گھڑی نہیں۔ متاثر فریقوں کو نوٹس اور بحال چیلنج رسائی انہی مادیت درجے کی بیرونی حدوں کے اندر ملنی چاہیے جو [**دفعہ XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) پہلے سے فورم حل کے لیے استعمال کرتی ہے، [باب یازدهم §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) کے نفاذ کے مطابق:
+- **جائزہ اور نوٹس (بحالی-چیلنج گھڑیاں):** اب قابو کرو؛ بعد میں نوٹس اور چیلنج بحال کرو؛ شرکت کبھی مستقل نہ چھوڑو۔ «جتنی جلد ممکن ہو» گھڑی نہیں۔ متاثر فریقوں کو نوٹس اور بحال چیلنج رسائی انہی مادیت درجے کی بیرونی حدوں کے اندر ملنی چاہیے جو [**دفعہ XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) پہلے سے فورم حل کے لیے استعمال کرتی ہے، [باب یازدهم §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) کے نفاذ کے مطابق:
   - **Tier A:** زیادہ سے زیادہ **ایک ہفتہ**؛
   - **Tier B:** زیادہ سے زیادہ **تین ہفتے**؛
   - **Tier C:** زیادہ سے زیادہ **دو مہینے**؛
   - **Tier L:** زیادہ سے زیادہ **چار مہینے**؛
   - **Tier P:** زیادہ سے زیادہ **چھ مہینے**۔
 
-  وہ اعداد دوبارہ استعمال ہیں، دوسری جدول نہیں۔ [باب یازدهم §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) عددی گھر رہتا ہے۔ بحالی-چیلنج کھڑکی ہنگامی اقدام کے آغاز سے چلتی ہے، یا جب نوٹس یا چیلنج ملتوی ہوا، جو پہلے ہو۔ ہنگامی حراست جو نوٹس یا چیلنج ملتوی کرے **Tier A** ہے جب تک کم تر فوری ضرورت کی دستاویزی نمائش ریکارڈ نہ ہو۔ چلانے والے پہلے بحال کر سکتے ہیں۔ وہ درجہ طے شدہ سے آگے نہیں کھینچ سکتے سوائے **استمرار کی ضبط** سے۔ اقدام کا پورا آزاد جائزہ اسی کھڑکی میں شروع ہونا چاہیے۔ [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) میں مرحلہ جداول یہ طے شدہ سست نہیں کر سکتے۔
+  وہ اعداد دوبارہ استعمال ہیں، دوسری جدول نہیں۔ [باب یازدهم §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) عددی گھر رہتا ہے۔ بحالی-چیلنج کھڑکی ہنگامی اقدام کے آغاز سے چلتی ہے، یا جب نوٹس یا چیلنج ملتوی ہوا، جو پہلے ہو۔ ہنگامی حراست جو نوٹس یا چیلنج ملتوی کرے **Tier A** ہے جب تک کم تر فوری ضرورت کی دستاویزی نمائش ریکارڈ نہ ہو۔ چلانے والے پہلے بحال کر سکتے ہیں۔ وہ درجہ طے شدہ سے آگے نہیں کھینچ سکتے سوائے **استمرار کی ضبط** سے۔ اقدام کا پورا آزاد جائزہ اسی کھڑکی میں شروع ہونا چاہیے۔ [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) میں مرحلہ جداول یہ طے شدہ سست نہیں کر سکتے۔
 - **عمومی بنانا ممنوع:** ہنگامی تدابیر مستقل حکمرانی نہیں بن سکتیں بغیر:
   - **باب یکم** سے میل کھاتے جواز (**ضرورت** اور **تناسب**)؛
   - **دستاویزی آزاد دوبارہ اجازت**؛
@@ -366,7 +366,7 @@
 
 - بالائی: بروقت کارروائی پیمائش خاندان (*آئینی پیمائش کے طور پر بروقت حل اور تاخیر مخالف ضبط*)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) (*کیفیت، انضمام، اور فورم ہم آہنگی کی زنجیر*)۔
 - اصول: باب یکم [§12.2 آئینی کارآمدگی](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)، [باب یکم §6.3 قابلِ اجتناب بوجھ کی کمی](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) اور [باب یکم §6.1.5 حقوق تصادم طریقہ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)۔
-- زیریں: [باب یازدهم §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*مادیت درجات، زنجیر سنگ میل، اور تاخیر مخالف ضبط*)؛ [دفعہ XXIII-D](#xxiii-d-restore-challenge-clocks) (*ہنگامی حراست کے بعد طے شدہ بحالی-چیلنج کھڑکیوں کے طور پر وہی بیرونی حدیں*)۔
+- زیریں: [باب یازدهم §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*مادیت درجات، زنجیر سنگ میل، اور تاخیر مخالف ضبط*)؛ [دفعہ XXIII-D](#xxiii-d-restore-challenge-clocks) (*ہنگامی حراست کے بعد طے شدہ بحالی-چیلنج کھڑکیوں کے طور پر وہی بیرونی حدیں*)۔
 - ذمہ دارانہ انتظام کا دروازہ (غیرِ عملی): پابند اگلے قدم کا بیان: [عملی ذمہ دارانہ انتظام کا بیان](#operative-steward-statement-delay)۔ معاون اشارے اسے تنگ نہیں کر سکتے۔
 
 </details>
@@ -395,7 +395,7 @@
   - **بروقت** — [مادی داؤ](core_00_preamble.md#material-stake) اور نقصان کی فوری ضرورت پر پیمانہ محدود گھڑیاں؛
   - **کارآمد** — [آئینی کارآمدگی](core_05_band_continuity.md#constitutional-efficiency) باب یکم [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) کے معنی میں — خرچ شدہ شعوری وقت اور مشترکہ محنت فی حقیقی آئینی نتیجہ، خام تھروپٹ یا فہرست خالی کرنا نہیں؛
   - **منصفانہ** — **دفعہ XXIII-A** (*انصاف کا مقصد اور دائرہ*)، **دفعہ XXIII-B** (*غیر معمولی پابندی، تلافی، اور بحالی جوابدہی کی پابندیاں*) اور **دفعہ XXIII-C** (*کم سے کم پابندی والا اور وقتی حد والا قاعدہ*) پوری طرح لاگو رہتے ہیں؛ تیزی جانچی ہوئی حقیقت چھوڑنے کا بہانہ نہیں ([باب ہشتم §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing))، غلط فریق سزا دینے، نقصان سے نہ ملنے والی مرمت دینے، یا چیلنج اور اپیل کاٹنے کا۔
-- **فورم اور زنجیر نگرانی:** **باب ہشتم تا یازدهم** سے راستہ دیے تنازعات کے لیے درج ذیل [باب یازدهم §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) چلاتا ہے، اس دفعہ کی بروقت، کارآمد، اور منصفانہ تہہ کے تابع:
+- **فورم اور زنجیر نگرانی:** **باب ہشتم تا یازدهم** سے راستہ دیے تنازعات کے لیے درج ذیل [باب یازدهم §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) چلاتا ہے، اس دفعہ کی بروقت، کارآمد، اور منصفانہ تہہ کے تابع:
   - مادیت درجے کی درجہ بندی؛
   - زنجیر مرحلہ سنگ میل؛
   - مربوط حل کی بیرونی حدیں؛

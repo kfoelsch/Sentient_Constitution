@@ -69,7 +69,7 @@ Phân xử và giải quyết tranh chấp theo nghĩa hiến pháp được đ�
 
 *Điều láng giềng:*
 
-- **Sàn kịp thời:** Tốc độ giải quyết, kỷ luật chống trì hoãn, và mốc bậc tính trọng yếu do **Điều XXIV-C** (*Giải quyết kịp thời và sàn chống trì hoãn*) quản trị, triển khai qua [Chương Mười Một §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- **Sàn kịp thời:** Tốc độ giải quyết, kỷ luật chống trì hoãn, và mốc bậc tính trọng yếu do **Điều XXIV-C** (*Giải quyết kịp thời và sàn chống trì hoãn*) quản trị, triển khai qua [Chương Mười Một §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 - **Khắc phục kịp thời:** Đọc cùng [**Điều XII-B** (*Quyền tranh biện, rà soát, và khắc phục*)](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*lối vào khắc phục kịp thời*).
 
 Triển khai quản trị đã tiếp nhận cung cấp leo thang, tính tương xứng của can thiệp, ranh giới khẩn cấp, và cửa sổ thời mặc định theo bậc. Nó không được thu hẹp lối vào thực tiễn, khả năng rà soát, khôi phục, giải quyết kịp thời, hay ràng buộc Sàn Quyền dưới Điều này.
@@ -196,7 +196,7 @@ Triển khai quản trị đã tiếp nhận cung cấp leo thang, tính tương
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: Chương Một [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Nguyên tắc đánh đổi cốt](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), và [Chương Một §6.1.5 Thủ tục va chạm quyền](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Đọc cùng: **Điều I-D** (*Rủi ro tồn tại và năng lực phục hồi sinh thái*) nơi rà soát rủi ro tồn tại bị liên lụy có trọng; trụ **tham gia** và **kịp thời** của [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Điều XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Giải quyết kịp thời và sàn chống trì hoãn*); [Chương Mười Một §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*biên ngoài bậc tính trọng yếu tái dùng làm mặc định khôi-tranh biện*).
+- Đọc cùng: **Điều I-D** (*Rủi ro tồn tại và năng lực phục hồi sinh thái*) nơi rà soát rủi ro tồn tại bị liên lụy có trọng; trụ **tham gia** và **kịp thời** của [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Điều XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Giải quyết kịp thời và sàn chống trì hoãn*); [Chương Mười Một §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*biên ngoài bậc tính trọng yếu tái dùng làm mặc định khôi-tranh biện*).
 - Hạ nguồn: [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) (*bảng giai đoạn số không được làm chậm các mặc định này*).
 
 </details>
@@ -242,14 +242,14 @@ Triển khai quản trị đã tiếp nhận cung cấp leo thang, tính tương
   - tính tương xứng;
   - không có phương án khả thi hạn chế nhẹ hơn.
 <a id="xxiii-d-restore-challenge-clocks"></a>
-- **Rà soát và thông báo (đồng hồ khôi-tranh biện):** Kiềm ngay; khôi thông báo và tranh biện sau; đừng bao giờ bỏ tham gia vĩnh viễn. «Sớm nhất khả thi» không phải đồng hồ. Bên bị ảnh hưởng phải nhận thông báo và lối vào tranh biện đã khôi trong cùng biên ngoài bậc tính trọng yếu mà [**Điều XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) đã dùng cho giải quyết diễn đàn, như [Chương Mười Một §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) triển khai:
+- **Rà soát và thông báo (đồng hồ khôi-tranh biện):** Kiềm ngay; khôi thông báo và tranh biện sau; đừng bao giờ bỏ tham gia vĩnh viễn. «Sớm nhất khả thi» không phải đồng hồ. Bên bị ảnh hưởng phải nhận thông báo và lối vào tranh biện đã khôi trong cùng biên ngoài bậc tính trọng yếu mà [**Điều XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) đã dùng cho giải quyết diễn đàn, như [Chương Mười Một §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) triển khai:
   - **Tier A:** tối đa **một tuần**;
   - **Tier B:** tối đa **ba tuần**;
   - **Tier C:** tối đa **hai tháng**;
   - **Tier L:** tối đa **bốn tháng**;
   - **Tier P:** tối đa **sáu tháng**.
 
-  Những số đó được tái dùng, không phải bảng thứ hai. [Chương Mười Một §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) vẫn là nhà số. Cửa sổ khôi-tranh biện chạy từ lúc bắt đầu biện pháp khẩn cấp, hoặc từ khi thông báo hay tranh biện bị hoãn, cái nào sớm hơn. Kiềm khẩn cấp hoãn thông báo hoặc tranh biện là **Tier A** trừ khi một chứng minh độ khẩn thấp hơn có hồ sơ được ghi. Người vận hành có thể khôi sớm hơn. Họ không được kéo quá mặc định bậc trừ qua **Kỷ luật tiếp tục**. Rà soát độc lập đầy của biện pháp phải bắt đầu trong cùng cửa sổ. Bảng giai đoạn ở [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) không được làm chậm các mặc định này.
+  Những số đó được tái dùng, không phải bảng thứ hai. [Chương Mười Một §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) vẫn là nhà số. Cửa sổ khôi-tranh biện chạy từ lúc bắt đầu biện pháp khẩn cấp, hoặc từ khi thông báo hay tranh biện bị hoãn, cái nào sớm hơn. Kiềm khẩn cấp hoãn thông báo hoặc tranh biện là **Tier A** trừ khi một chứng minh độ khẩn thấp hơn có hồ sơ được ghi. Người vận hành có thể khôi sớm hơn. Họ không được kéo quá mặc định bậc trừ qua **Kỷ luật tiếp tục**. Rà soát độc lập đầy của biện pháp phải bắt đầu trong cùng cửa sổ. Bảng giai đoạn ở [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) không được làm chậm các mặc định này.
 - **Không bình thường hóa:** Biện pháp khẩn cấp không được bình thường hóa thành quản trị vĩnh viễn thiếu:
   - biện minh nhất quán **Chương Một** (**Sự cần thiết** và **Tính tương xứng**);
   - **tái ủy độc lập có hồ sơ**;
@@ -366,7 +366,7 @@ Triển khai quản trị đã tiếp nhận cung cấp leo thang, tính tương
 
 - Thượng nguồn: gia đình đo lường Kịp thời (*Giải quyết kịp thời và kỷ luật chống trì hoãn như đo lường hiến pháp*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) (*chuỗi quỹ đạo, tích hợp, và phối hợp diễn đàn*).
 - Nguyên tắc: Chương Một [§12.2 Hiệu quả hiến pháp](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency), [Chương Một §6.3 Giảm thiểu gánh nặng có thể tránh](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), và [Chương Một §6.1.5 Thủ tục va chạm quyền](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Hạ nguồn: [Chương Mười Một §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*bậc tính trọng yếu, mốc chuỗi, và kỷ luật chống trì hoãn*); [Điều XXIII-D](#xxiii-d-restore-challenge-clocks) (*cùng biên ngoài như cửa sổ mặc định khôi-tranh biện sau kiềm khẩn cấp*).
+- Hạ nguồn: [Chương Mười Một §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*bậc tính trọng yếu, mốc chuỗi, và kỷ luật chống trì hoãn*); [Điều XXIII-D](#xxiii-d-restore-challenge-clocks) (*cùng biên ngoài như cửa sổ mặc định khôi-tranh biện sau kiềm khẩn cấp*).
 - Cửa quản trị có trách nhiệm (không vận hành): Tuyên bố bước tiếp ràng buộc: [Tuyên bố quản trị có trách nhiệm mang tính vận hành](#operative-steward-statement-delay). Con trỏ hỗ trợ không thể thu hẹp nó.
 
 </details>
@@ -395,7 +395,7 @@ Triển khai quản trị đã tiếp nhận cung cấp leo thang, tính tương
   - **Kịp thời** — đồng hồ có biên chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake) và độ khẩn của hại;
   - **Hiệu quả** — [Hiệu quả hiến pháp](core_05_band_continuity.md#constitutional-efficiency) theo nghĩa Chương Một [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) — kết cục hiến pháp thật trên thời hữu tri và nỗ lực chung tiêu thụ, không thông lượng thô hay xóa danh;
   - **Công** — **Điều XXIII-A** (*Mục tiêu và phạm vi công lý*), **Điều XXIII-B** (*Hạn chế không tầm thường, hoàn trả, và ràng buộc trách nhiệm giải trình phục hồi*), và **Điều XXIII-C** (*Quy tắc hạn chế nhẹ nhất và có hạn thời gian*) vẫn áp đầy; chuyển nhanh không phải cớ để bỏ sự thật đã kiểm ([Chương Tám §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)), phạt bên sai, đưa sửa không khớp hại, hoặc cắt tranh biện và kháng.
-- **Giám sát diễn đàn và chuỗi:** Các điều sau, với tranh chấp định tuyến qua **Chương Tám đến Mười Một**, do [Chương Mười Một §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) quản trị, chịu sàn kịp thời, hiệu quả, và công của Điều này:
+- **Giám sát diễn đàn và chuỗi:** Các điều sau, với tranh chấp định tuyến qua **Chương Tám đến Mười Một**, do [Chương Mười Một §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) quản trị, chịu sàn kịp thời, hiệu quả, và công của Điều này:
   - phân loại bậc tính trọng yếu;
   - mốc giai đoạn chuỗi;
   - biên ngoài giải tích hợp;

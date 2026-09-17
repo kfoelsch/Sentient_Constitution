@@ -87,6 +87,8 @@ Calling a definition Independent or Semi-independent does not let it skip cluste
 
 ### Chapter Five alphabetical directory (non-operative)
 
+---
+
 *In plain terms: this is a searchable list of definition names. It points; it does not change what those names mean.*
 
 <details>

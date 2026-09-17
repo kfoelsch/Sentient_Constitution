@@ -33,7 +33,7 @@
 
 - 上游：[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*问题 1 与问题 2；经核实记录与轨迹测量*）。
 - 本文件：问题 3 整合、救济、纠正、锁定、自愿公开问责表达、能力门槛与许可、最终轨迹效果、恢复、再评估、执行现实性、救济系统，以及模式应用 / 问题 3 路由。
-- 下游：[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)（*仅指定*）；[第十一章](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*评议所监督*）；[CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（*救济系统实施*）。
+- 下游：[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)（*仅指定*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*评议所监督*）；[CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（*救济系统实施*）。
 
 </details>
 
@@ -251,13 +251,13 @@
 
 *用直白的话说：锁定签发便宜；修复、恢复与审查运行昂贵。若放任不管，本章便宜的一半继续运转，而昂贵的一半挨饿。本小节把它们绑在一起：普通锁定在同一认定的救济档实际打开之前不得附着；当采纳者某一锁定类别的救济或恢复工作落后于其时钟时，该类新的普通锁定默认取最轻形式，既有者进入审查。最严重的锁定获豁免，以免灌满救济队列就能把它们弹开。*
 
-**已打开救济前置条件。** 除[第十一章 §5](../../core_11_forum.md#interim-protection)（*临时保护*）下的临时保护措施外，[§4.2](#42-general-standing-locks) 下的一般轨迹锁定在同一经核实认定的 [§4.1](#41-remedy-and-correction) 整合记录**打开**之前，不得附着于具名路径 — 打开意味着至少受影响方、所欠救济、责任方、资金来源与开始日期已在明处陈述。锁定附着不要求救济完成；要求的是已打开的救济记录。未带已打开救济记录而附着的锁定有缺陷，必须在[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 层级时钟上被补救，或收窄到临时保护范围。
+**已打开救济前置条件。** 除[第十一章 §5](core_11_forum.md#interim-protection)（*临时保护*）下的临时保护措施外，[§4.2](#42-general-standing-locks) 下的一般轨迹锁定在同一经核实认定的 [§4.1](#41-remedy-and-correction) 整合记录**打开**之前，不得附着于具名路径 — 打开意味着至少受影响方、所欠救济、责任方、资金来源与开始日期已在明处陈述。锁定附着不要求救济完成；要求的是已打开的救济记录。未带已打开救济记录而附着的锁定有缺陷，必须在[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 层级时钟上被补救，或收窄到临时保护范围。
 
 **救济对等绊索。** 采纳者必须就其所管理的每一期间与每一锁定类别公布：已签发的一般锁定数量、已开始的救济、已完成的救济、已决定的恢复，以及待决的再评估。凡某一锁定类别的救济开始或恢复审查超过其第十一章 §6 层级外沿之处：
 
 - 该类新的一般锁定默认取 [§7](#7-final-standing-effect) 下的**开放并带保障**，除非整合记录记载了要求**阻断**的具体不可逆伤害或安全风险；
 - 该类既有一般锁定按同一层级时钟进入 [§8](#8-restoration-and-reassessment) 下的强制再评估；以及
-- 该能力失败作为 [§9.2](#92-remedy-system-durability) 下的耐久失败被记录，并按[第十一章 §3](../../core_11_forum.md#3-transfer-consolidation-and-coordination) 能力失败规则路由，在其能力受质疑的族系或系统之外。
+- 该能力失败作为 [§9.2](#92-remedy-system-durability) 下的耐久失败被记录，并按[第十一章 §3](core_11_forum.md#3-transfer-consolidation-and-coordination) 能力失败规则路由，在其能力受质疑的族系或系统之外。
 
 **豁免。** 绊索不放松 [§5.5](#55-special-locks) 特殊锁定、附着于违规轴槽位 **7**、**8** 或 **9** 认定的锁定，或 [§5.4](#54-special-violation-rules) 下强制性或限制自由的保障。在 [§10.10](#1010-contest-pathway-or-info-sphere-flooding) 下核实为质疑路径灌水的提交，不计入触发本规则的积压。
 
@@ -633,7 +633,7 @@
 
 **默认延续。** 一旦能力许可被授予且受影响具名路径开放，许可默认保持有效。那不是永久资格。已公布再测、角色相关能力的实质变化、适用的轨迹锁定，或本节下另一再评估触发，可以重开、限制或撤回许可。
 
-**定期再测。** 有些能力需要定期再测；有些不需要。哪些具名路径需要再测、多频繁、用何种方法，由[技术评议所领域](../../core_11_forum.md#42-technical-forum-domains)下已公布标准设定，包括其合法范围内的专科技术评议所。那些标准必须角色相称、可检查、可质疑。
+**定期再测。** 有些能力需要定期再测；有些不需要。哪些具名路径需要再测、多频繁、用何种方法，由[技术评议所领域](core_11_forum.md#42-technical-forum-domains)下已公布标准设定，包括其合法范围内的专科技术评议所。那些标准必须角色相称、可检查、可质疑。
 
 **实质能力变化。** 当经核实事实显示具名路径实际所要求能力的实质变化时 — 例如中风后运动或语言丧失，或损害该角色所需判断的心理健康状况 — 许可也可以被再评估。再评估必须针对利害所系的角色相关能力，而不是残疾或健康状况本身。它必须保持必要、相称、可审查，并与第五、六章下的可及性与反歧视底线一致。凡便利安排、支持或更窄具名路径会保全安全准备之处，必须在撤回许可之前予以考虑。
 
@@ -696,7 +696,7 @@
     - 一项可比制品；
   - 把一项效果转移到并未产出它的具名路径；或
   - 从对象的效果集合推断一般可信、价值或风险。
-- **有界例外：** [廉正评议所](../../core_11_forum.md#45-integrity-forums)在审查俘获或模式主张、[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)指定审查，以及 [§9.4](#94-anti-evasion-and-look-through-authority) look-through 时，可以在回避规则与[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 时钟下，仅就该程序查看跨路径记录。[第八章 §3.2](core_08_standing_assessment.md#32-related-record-cross-references) 关联记录之间的交叉引用仍在；它们是记录链接，不是合成。
+- **有界例外：** [廉正评议所](core_11_forum.md#45-integrity-forums)在审查俘获或模式主张、[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)指定审查，以及 [§9.4](#94-anti-evasion-and-look-through-authority) look-through 时，可以在回避规则与[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 时钟下，仅就该程序查看跨路径记录。[第八章 §3.2](core_08_standing_assessment.md#32-related-record-cross-references) 关联记录之间的交叉引用仍在；它们是记录链接，不是合成。
 - **公开 LEQU 展示：** 违规轴与贡献轴槽位不作为感知者的一般属性公布。它们出现在记录中、评议所程序中，以及在该槽位是该具名路径合法输入时向具名路径看门人的披露中。
 
 <a id="72-plain-statement-of-effect-and-burden"></a>
@@ -746,7 +746,7 @@
 
 *用直白的话说：轨迹后果与补救只有在真实制度能够交付它们时才算数。本节是该机制的宪法底线。日常人员、资金、积压与继任规则住在制度层。*
 
-第九章主责问题 3 后果及相关补救必须在制度上真实的宪法底线。[救济系统](core_05_band_accountability.md#remedy-system-constitutional)是交付质疑、收件、保全、审查、修复、监测、保障执行与锁定审查的耐久能力 — 不是纸面路径。实施细节由 [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（*救济系统与制度补救能力*）主责。与 **Article XII-B**（《质疑、审查与救济权》）及[第十一章](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)一并阅读，用于评议所监督。
+第九章主责问题 3 后果及相关补救必须在制度上真实的宪法底线。[救济系统](core_05_band_accountability.md#remedy-system-constitutional)是交付质疑、收件、保全、审查、修复、监测、保障执行与锁定审查的耐久能力 — 不是纸面路径。实施细节由 [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（*救济系统与制度补救能力*）主责。与 **Article XII-B**（《质疑、审查与救济权》）及[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)一并阅读，用于评议所监督。
 
 若后果只存在于纸面，轨迹整合即失败。采纳者必须维持实践、及时的能力，以实施纠正、资助救济、审查限制、保全记录、执行保障，并防止经成本、拖延、边界、重组或形式身份变更而逃脱。
 
@@ -796,7 +796,7 @@
 - 审查；以及
 - 执行。
 
-那些系统必须满足[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 层级里程碑与流程阶段窗口。它们还必须满足[技术评议所领域](../../core_11_forum.md#42-technical-forum-domains)下已公布的能力、测量与里程碑标准。技术评议所设定并维持那些标准；它们不是救济系统或制度的指挥层级。人员、资金、积压、继任与绩效的问责，仍在[首要利害](../../core_11_forum.md#2-default-venue-and-primary-stakes)评议所族系 — 通常是[机构](../../core_11_forum.md#43-institutional-forums)，或在俘获、过程失败或系统对齐崩溃为首要时的[廉正](../../core_11_forum.md#45-integrity-forums)。救济系统能力的制度实施细节由 [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（*救济系统与制度补救能力*）主责。
+那些系统必须满足[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 层级里程碑与流程阶段窗口。它们还必须满足[技术评议所领域](core_11_forum.md#42-technical-forum-domains)下已公布的能力、测量与里程碑标准。技术评议所设定并维持那些标准；它们不是救济系统或制度的指挥层级。人员、资金、积压、继任与绩效的问责，仍在[首要利害](core_11_forum.md#2-default-venue-and-primary-stakes)评议所族系 — 通常是[机构](core_11_forum.md#43-institutional-forums)，或在俘获、过程失败或系统对齐崩溃为首要时的[廉正](core_11_forum.md#45-integrity-forums)。救济系统能力的制度实施细节由 [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（*救济系统与制度补救能力*）主责。
 
 下列各项在可预见地使质疑或救济落空时违反本规则：
 
@@ -825,7 +825,7 @@
 <a id="95-timely-implementation"></a>
 #### 9.5 及时实施
 
-救济开始、纠正里程碑、锁定审查与再评估必须满足[及时性](core_05_apex_timeliness_leg.md#timeliness-constitutional)、[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 与 **Article XXIV-C**（《及时解决与反拖延底线》）。加剧伤害、隐瞒未履行或击败审查的拖延，是问题 3 的新经核实事实，并可以正当化升级保障，而不更改原第八章槽位。
+救济开始、纠正里程碑、锁定审查与再评估必须满足[及时性](core_05_apex_timeliness_leg.md#timeliness-constitutional)、[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 与 **Article XXIV-C**（《及时解决与反拖延底线》）。加剧伤害、隐瞒未履行或击败审查的拖延，是问题 3 的新经核实事实，并可以正当化升级保障，而不更改原第八章槽位。
 
 权利与轨迹后果只有在感知者能够援引它们、核验它们、资助实践修复、获得及时审查，并对功能上负责的行动者执行义务时，才是真实的。
 
@@ -845,7 +845,7 @@
 
 *用直白的话说：这些模式显示反复出现的问题 3 边缘形状如何经上文已陈述规则路由 — 它们不发明新后果或新的特殊锁定类型。凡一项线索镜像第十章 §5 攻击族之处，本节从经核实记录回答具名路径预防；第十章分开回答指定标准路由。*
 
-下列分节显示常见问题 3 情形如何使用本章已陈述规则。它们**不**发明新后果、不在 [§5.5](#55-special-locks) 下创造特殊锁定类型、不创造特殊例外、不更改第八章槽位、不把评议所监督从[第十一章](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)拿走，也不把指定决定从[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)拿走。决定者遵循 [§2](#2-integration-record-and-decision-order) 的顺序以及每一模式所点名的各节。
+下列分节显示常见问题 3 情形如何使用本章已陈述规则。它们**不**发明新后果、不在 [§5.5](#55-special-locks) 下创造特殊锁定类型、不创造特殊例外、不更改第八章槽位、不把评议所监督从[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)拿走，也不把指定决定从[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)拿走。决定者遵循 [§2](#2-integration-record-and-decision-order) 的顺序以及每一模式所点名的各节。
 
 <a id="101-informal-ecological-stewardship-competency-clearance"></a>
 <a id="101-informal-ecological-stewardship-competency-gate"></a>
@@ -949,7 +949,7 @@
   - [§4](#4-violation-correction-and-prevention)（*救济、纠正与预防*）；
   - [§4.2](#42-general-standing-locks)（*对被滥用的路由、提交、排名、通路或影响路径的保护性具名路径锁定*）；
   - [§5.1](#51-definition-and-attachment) 与 [§5.2](#52-proportionality-and-calibration)（*所需、相称、可审查的范围*）；以及
-  - [第十一章](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*运营收件分诊与反博弈 — 监督而不发明轨迹效果*）。
+  - [第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*运营收件分诊与反博弈 — 监督而不发明轨迹效果*）。
 - **不可协商：** 本线索不创造灌水锁定或其他 [§5.5](#55-special-locks) 类型。指定侧标准路由仍在[第十章 §5.3](../../core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) 与 [§5.4](../../core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)。普通保护锁定从固定记录推进，无论指定日后是否附着。
 
 <a id="1011-infrastructure-denial-or-dependency-cutoff"></a>

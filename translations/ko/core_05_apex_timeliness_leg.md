@@ -102,7 +102,7 @@
 
 - 하류: 적시성 측정 가족 — 링크만인 롤업; 용어별 단계는 잎 정의에 산다 — [제때 해결](../../core_05_band_accountability.md#timely-resolution-constitutional), [해결 경로의 포획](../../core_05_band_accountability.md#capture-of-resolution-pathways), 그리고 [적시성](#timeliness-constitutional)을 보라 (링크만인 다리 머리 롤업).
 - 함께 읽기: [참여](core_05_apex_participation_leg.md#participation-constitutional), [감독](core_05_apex_oversight_leg.md#oversight-constitutional), 그리고 [책무](core_05_apex_accountability_leg.md#accountability) — 적시성도 다른 세 사원(四元) 다리를 가로지른다; 그 다리들은 쓰임이 있으려면 제때에 일어나야 한다.
-- 함께 읽기: [제11장 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- 함께 읽기: [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
 </details>
 

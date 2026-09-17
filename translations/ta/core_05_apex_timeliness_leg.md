@@ -102,7 +102,7 @@
 
 - கீழ்வழி: காலந்தவறாமை அளவீட்டுக் குடும்பம் — இணைப்பு-மட்டும் சுருக்குதல்; சொல்வழி அடுக்குகள் இலை வரையறைகளில் வாழ்கின்றன — காண்க [காலந்தவறாத் தீர்வு](../../core_05_band_accountability.md#timely-resolution-constitutional), [தீர்வுப் பாதைக் கைப்பற்றுதல்](../../core_05_band_accountability.md#capture-of-resolution-pathways) மற்றும் [காலந்தவறாமை](#timeliness-constitutional) (இணைப்பு-மட்டும் கால்-தலைச் சுருக்குதல்).
 - இதனுடன் படிக்க: [பங்கேற்பு](core_05_apex_participation_leg.md#participation-constitutional), [மேற்பார்வை](core_05_apex_oversight_leg.md#oversight-constitutional) மற்றும் [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) — காலந்தவறாமையும் மற்ற மூன்று நான்மக் கால்கள் வழியாக ஓடுகிறது; அந்தக் கால்கள் பயனுள்ளதாக இருக்கக் காலந்தவறாமல் நிகழ வேண்டும்.
-- இதனுடன் படிக்க: [அத்தியாயம் பதினொன்று §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- இதனுடன் படிக்க: [அத்தியாயம் பதினொன்று §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
 </details>
 

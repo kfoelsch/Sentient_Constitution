@@ -49,7 +49,7 @@
 - 下流：[§11.1.4 役割の深さと実質的責任の経路](#1114-role-depth-and-material-responsibility-pathways)。
 - 下流：[§5 自由（有界な行為主体性）](core_01_a_values_principles.md#5-freedom-bounded-agency)。結果の伴う責務ある管理、分散した理解、意味ある参加、修復能力が、実質的依存のもとで本物のままでいることに依存する。
 - 下流：[第七章 — システム整合認証](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)（*監督のもとでのとくに大きな監査過程の一つ — 唯一の監査の本拠ではない*）；[第八章 — 貢献、違反、軌跡モデル](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*軌跡効果 — 信頼・役割・承認適格 — は本分節を原則層の基礎として実施する*）。
-- 下流：[第十一章 §1 — 目的と役割](../../core_11_forum.md#1-purpose-and-role)および [§4 — フォーラム群の定義](../../core_11_forum.md#4-forum-family-definitions)（*フォーラム群は、本節と整合した争訟可能な異議、修復の順序づけ、根本原因の学習、先制的統治のための参加と監督のアーキテクチャを運ぶ*）；採択されたフォーラム運用については [corpus_forum.md](../../corpus_forum.md)。
+- 下流：[第十一章 §1 — 目的と役割](core_11_forum.md#1-purpose-and-role)および [§4 — フォーラム群の定義](core_11_forum.md#4-forum-family-definitions)（*フォーラム群は、本節と整合した争訟可能な異議、修復の順序づけ、根本原因の学習、先制的統治のための参加と監督のアーキテクチャを運ぶ*）；採択されたフォーラム運用については [corpus_forum.md](../../corpus_forum.md)。
 - 下流：教育、影響を受ける側のシステム参加、透明性、理解可能性、監査と検証、実質的責任への役割の深さの経路についての権利面を形づくる。
   - とくに [Article III：生存と平等な教育アクセス](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access)、[Article VI：感知者中心の教育への権利](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)、[Article IX：自己決定と行為主体性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XI：影響を受ける側のシステム参加、代表、適正手続](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)、[Article XV：監査、透明性、独立検証](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XVIII：軌跡と参加地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)、[Article XIX：相互運用性、可搬性、移動、避難、退出の誠実性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)、[Article XX：理解可能性と複雑さの責務ある管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)、および [Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)。
   - あわせて読む：[第十二章 §5 — 授権された役割、能力開発、貢献](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution)および **[corpus_systems.md](../../corpus_systems.md)、CS-4 — 重要なシステムの責務ある管理**。操作性の役割経路と責務ある管理の発展経路のため。
@@ -99,7 +99,7 @@
 
 <a id="when-day-to-day-stewardship-is-not-enough"></a>
 **日常の責務ある管理では足りないとき：**
-- **より大きな紛争：** 感知者が決定に異議を唱える実際の道、明確な修復の順序、または繰り返すパターンから学ぶ道を必要とするとき、その仕事は [第十一章 §1 — 目的と役割](../../core_11_forum.md#1-purpose-and-role) および [§4 — フォーラム群の定義](../../core_11_forum.md#4-forum-family-definitions) のもとでの**フォーラム群**へ行く。それらのフォーラムがどう走るかの詳細な規則は [corpus_forum.md](../../corpus_forum.md) にある。
+- **より大きな紛争：** 感知者が決定に異議を唱える実際の道、明確な修復の順序、または繰り返すパターンから学ぶ道を必要とするとき、その仕事は [第十一章 §1 — 目的と役割](core_11_forum.md#1-purpose-and-role) および [§4 — フォーラム群の定義](core_11_forum.md#4-forum-family-definitions) のもとでの**フォーラム群**へ行く。それらのフォーラムがどう走るかの詳細な規則は [corpus_forum.md](../../corpus_forum.md) にある。
 - **後盾であり、代わりではない：** 審査と訂正はなお義務である。それらは、危害が現れる前に予見可能な憲法上の不整合を防ぐ先制的設計、役割経路、観測可能性、修復能力の代わりにはならない。
 
 <a id="9-scope-priority-and-limits"></a>
@@ -637,7 +637,7 @@
 - あわせて読む：[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄**目的（意味ある行為主体性と適法な参加を保全する統治）。**継続**目的（耐久する制度的整合と長い時間地平の責務ある管理の規律）。
 - あわせて読む：[§6.1.3 比例性](core_01_b_interaction_interpretation.md#613-proportionality)（*分類の床と過小統治の規律*）；[必要性](../../core_05_band_accountability.md#necessity)；[比例性](../../core_05_band_accountability.md#proportionality)；[説明責任](core_05_apex_accountability_leg.md#accountability)；[監督](core_05_apex_oversight_leg.md#oversight-constitutional)。
 - 上流：原則：[§9 責務ある管理と分散した理解](#9-stewardship-and-distributed-understanding)；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)。
-- 下流：[§10.2 職務の分離](#102-segregation-of-duties)；[§10.3 継続的正当化](#103-ongoing-justification)；[§11 誘因整合とシステム捕捉](#11-incentive-alignment-and-system-capture)；[第十二章](../../core_12_governance.md)（*憲法契約層*の操作化）；[Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（*フォーラム構成員の開示、忌避、反捕捉の床*）；[第十一章](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*フォーラム群の監督*）。
+- 下流：[§10.2 職務の分離](#102-segregation-of-duties)；[§10.3 継続的正当化](#103-ongoing-justification)；[§11 誘因整合とシステム捕捉](#11-incentive-alignment-and-system-capture)；[第十二章](../../core_12_governance.md)（*憲法契約層*の操作化）；[Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（*フォーラム構成員の開示、忌避、反捕捉の床*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*フォーラム群の監督*）。
 
 </details>
 
@@ -671,7 +671,7 @@
 
 - 職、専門知の稀少、人員の必要、または制度の自己保護は、この憲法への応答義務を薄めてはならない；
 - 解釈または裁定の権威を行使する**憲法フォーラムの構成員とパネル構成員**は、とくにこの規律に服する；
-- 操作性の開示、忌避、反捕捉、独立審査の床は [Article XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（《憲法解釈、審査、反捕捉保障》）および [第十一章](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) に住み、ここではない。
+- 操作性の開示、忌避、反捕捉、独立審査の床は [Article XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（《憲法解釈、審査、反捕捉保障》）および [第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) に住み、ここではない。
 
 **必要であり、十分ではない。** 統治は、次のいずれかが耐久する憲法整合、[**継続**](core_00_preamble.md#continuity)、[**繁栄**](core_00_preamble.md#flourishing)、または権利の床の誠実性を損なうときに、**責務ある管理**（[§9](#9-stewardship-and-distributed-understanding)）に道を譲らなければならない：
 
@@ -690,7 +690,7 @@
 - 上流：[§10.1 授権された構造としての統治](#101-governance-as-authorized-structure)；[§10 責務ある管理の規律のもとでの統治](#10-governance-under-stewardship-discipline)；[§9.1.1 共有された責務ある管理の標準](#911-shared-stewardship-standard)（*人間と AI の責務ある管理者について同じ座席*）。
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — **監督**脚（点検する者は行為した者ではない）。**説明責任**脚（応答義務は行為者に潰れてはならない）。[比例性](../../core_05_band_accountability.md#proportionality) のもとでの [実質的利害](core_00_preamble.md#material-stake) による尺度合わせ。
 - あわせて読む：[§11.3 不整合の検出](#113-misalignment-detection)（*複数の検出と審査 — この対の多眼の半面*）。
-- 下流：制度については **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)**（《説明責任：分散し比例した権威の用語 — 憲法レーンと機能分離》）および **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)**（《機能分離レーン》）；すべての採択者の役割地図が実体化する座席の種類 — これら四つと、繰り返す封じ込め、参加条件、放出制御、方向づけの座席 — については **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)**（《座席カタログ》）；軌跡記録については [第八章 §3.7](../../core_08_standing_assessment.md#37-segregation-of-duties)；フォーラムについては [Article XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) および [第十一章](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)；混合された人間/AI 乗組については [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)。
+- 下流：制度については **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)**（《説明責任：分散し比例した権威の用語 — 憲法レーンと機能分離》）および **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)**（《機能分離レーン》）；すべての採択者の役割地図が実体化する座席の種類 — これら四つと、繰り返す封じ込め、参加条件、放出制御、方向づけの座席 — については **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)**（《座席カタログ》）；軌跡記録については [第八章 §3.7](../../core_08_standing_assessment.md#37-segregation-of-duties)；フォーラムについては [Article XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) および [第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)；混合された人間/AI 乗組については [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)。
 
 </details>
 

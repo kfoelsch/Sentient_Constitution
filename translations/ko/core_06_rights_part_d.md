@@ -69,7 +69,7 @@
 
 *이웃 조:*
 
-- **적시성 바닥:** 해결 속도, 지연 금지 규율, 실질성 층 이정표는 **제 XXIV-C조**(*제때 해결과 지연 금지 바닥*)가 다스리며, [제11장 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)을 통해 시행된다.
+- **적시성 바닥:** 해결 속도, 지연 금지 규율, 실질성 층 이정표는 **제 XXIV-C조**(*제때 해결과 지연 금지 바닥*)가 다스리며, [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)을 통해 시행된다.
 - **제때 구제:** [**제 XII-B조**(*다툼, 검토, 구제에 대한 권리*)](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)(*제때 구제 접근*)와 함께 읽으라.
 
 채택된 거버넌스 시행은 격상, 개입의 비례, 비상 경계, 층 기본 시한 창을 제공한다. 이 조 아래의 실무 접근, 검토 가능성, 회복, 제때 해결, 권리 바닥 제약을 좁혀서는 안 된다.
@@ -196,7 +196,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: 원칙: 제1장 [§3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 핵심 교환 원칙](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [제1장 §6.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- 함께 읽기: 실존 위험 심사가 실질로 걸리는 곳에서 **제 I-D조**(*실존 위험과 생태 회복 능력*); [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)의 **참여**와 **적시성** 다리; [제 XXIV-C조](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*제때 해결과 지연 금지 바닥*); [제11장 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*회복-다툼 기본값으로 재사용되는 실질성 층 바깥 한도*).
+- 함께 읽기: 실존 위험 심사가 실질로 걸리는 곳에서 **제 I-D조**(*실존 위험과 생태 회복 능력*); [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)의 **참여**와 **적시성** 다리; [제 XXIV-C조](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*제때 해결과 지연 금지 바닥*); [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*회복-다툼 기본값으로 재사용되는 실질성 층 바깥 한도*).
 - 하류: [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) (*숫자 단계 표가 이 기본값을 늦추면 안 된다*).
 
 </details>
@@ -242,14 +242,14 @@
   - 비례;
   - 덜 제한적이고 실행 가능한 대안의 부재.
 <a id="xxiii-d-restore-challenge-clocks"></a>
-- **검토와 통지 (회복-다툼 시계):** 지금은 봉쇄하라; 통지와 다툼은 나중에 회복하라; 참여를 영구히 건너뛰지 말라. 「실행 가능한 한 빨리」는 시계가 아니다. 영향받는 쪽은 [**제 XXIV-C조**](#article-xxiv-c-timely-resolution-and-anti-delay-floor)가 포럼 해결에 이미 쓰는 같은 실질성 층 바깥 한도 안에 통지와 회복된 다툼 접근을 받아야 한다. [제11장 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)이 시행한다:
+- **검토와 통지 (회복-다툼 시계):** 지금은 봉쇄하라; 통지와 다툼은 나중에 회복하라; 참여를 영구히 건너뛰지 말라. 「실행 가능한 한 빨리」는 시계가 아니다. 영향받는 쪽은 [**제 XXIV-C조**](#article-xxiv-c-timely-resolution-and-anti-delay-floor)가 포럼 해결에 이미 쓰는 같은 실질성 층 바깥 한도 안에 통지와 회복된 다툼 접근을 받아야 한다. [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)이 시행한다:
   - **A층:** 최대 **한 주**;
   - **B층:** 최대 **세 주**;
   - **C층:** 최대 **두 달**;
   - **L층:** 최대 **네 달**;
   - **P층:** 최대 **여섯 달**.
 
-  그 숫자는 재사용이지, 두 번째 표가 아니다. [제11장 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)이 숫자 거처로 남는다. 회복-다툼 창은 비상 조치의 시작, 또는 통지나 다툼이 연기된 때 중 더 이른 쪽부터 달린다. 통지나 다툼을 연기하는 비상 봉쇄는 기록된 낮은-긴급 보여 주기가 없으면 **A층**이다. 운영자는 더 일찍 회복할 수 있다. **계속 규율**을 통하지 않고 층 기본값을 넘겨 늘릴 수는 없다. 조치의 완전한 독립 검토는 같은 창 안에서 시작해야 한다. [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)의 단계 표는 이 기본값을 늦추면 안 된다.
+  그 숫자는 재사용이지, 두 번째 표가 아니다. [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)이 숫자 거처로 남는다. 회복-다툼 창은 비상 조치의 시작, 또는 통지나 다툼이 연기된 때 중 더 이른 쪽부터 달린다. 통지나 다툼을 연기하는 비상 봉쇄는 기록된 낮은-긴급 보여 주기가 없으면 **A층**이다. 운영자는 더 일찍 회복할 수 있다. **계속 규율**을 통하지 않고 층 기본값을 넘겨 늘릴 수는 없다. 조치의 완전한 독립 검토는 같은 창 안에서 시작해야 한다. [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)의 단계 표는 이 기본값을 늦추면 안 된다.
 - **정상화 금지:** 비상 조치는 다음 없이 영구 거버넌스로 정상화되어서는 안 된다:
   - **제1장**과 일관된 정당화 (**필요성**과 **비례**);
   - **기록된 독립 재수권**;
@@ -366,7 +366,7 @@
 
 - 상류: 적시성 측정 가족 (*헌법 측정으로서의 제때 해결과 지연 금지 규율*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) (*궤적, 통합, 포럼 조정 사슬*).
 - 원칙: 제1장 [§12.2 헌법 효율](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency), [제1장 §6.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [제1장 §6.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- 하류: [제11장 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*실질성 층, 사슬 이정표, 지연 금지 규율*); [제 XXIII-D조](#xxiii-d-restore-challenge-clocks) (*비상 봉쇄 뒤 기본 회복-다툼 창과 같은 바깥 한도*).
+- 하류: [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*실질성 층, 사슬 이정표, 지연 금지 규율*); [제 XXIII-D조](#xxiii-d-restore-challenge-clocks) (*비상 봉쇄 뒤 기본 회복-다툼 창과 같은 바깥 한도*).
 - 책임 있는 관리 문(비운영): 구속력 있는 다음 걸음 진술: [운영 책임 있는 관리 진술](#operative-steward-statement-delay). 지원 포인터는 그것을 좁힐 수 없다.
 
 </details>
@@ -395,7 +395,7 @@
   - **제때** — [실질 이해관계](core_00_preamble.md#material-stake)와 해의 긴급에 맞춰 세기 조절된 한도 있는 시계;
   - **효율** — [헌법 효율](core_05_band_continuity.md#constitutional-efficiency)을 제1장 [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) 의미로 — 소비된 감지자 시간과 공유 노력당 실제 헌법 결과이지, 날것 처리량이나 사건 비우기가 아님;
   - **정의** — **제 XXIII-A조**(*정의 목적과 범위*), **제 XXIII-B조**(*비중대한 제한, 원상회복, 회복-책무 제약*), **제 XXIII-C조**(*가장 덜 제한적이고 시한 있는 규칙*)가 온전히 적용된다; 빨리 움직이는 것은 점검된 사실을 건너뛰거나 ([제8장 §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)), 잘못된 쪽을 벌하거나, 해에 맞지 않는 수리를 내놓거나, 다툼과 불복을 끊는 핑계가 아니다.
-- **포럼과 사슬 감독:** **제8장부터 제11장**을 통해 라우팅된 분쟁에 대한 다음은, 이 조의 제때·효율·정의 바닥에 따라, [제11장 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)이 다스린다:
+- **포럼과 사슬 감독:** **제8장부터 제11장**을 통해 라우팅된 분쟁에 대한 다음은, 이 조의 제때·효율·정의 바닥에 따라, [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)이 다스린다:
   - 실질성 층 분류;
   - 사슬 단계 이정표;
   - 통합 해결 바깥 한도;

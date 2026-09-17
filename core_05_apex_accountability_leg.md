@@ -1,5 +1,3 @@
-<a id="accountability"></a>
-
 # CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)
 
 <details>
@@ -26,6 +24,10 @@
 ---
 
 *In plain terms: hold actors answerable — attribution, records, and real recourse have to work, not just ceremonies on paper.*
+
+<a id="accountability"></a>
+
+#### Accountability
 
 - O: Hold actors answerable — the Tetrad leg this entry names.
   - **In scope:** Material decisions, failures, and behaviors can be attributed to identifiable actors, roles, or system components, who can be answered for through review, [redress](core_05_band_accountability.md#redress-and-remediation-constitutional), or correction proportional to impact.

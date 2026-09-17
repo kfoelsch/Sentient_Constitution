@@ -84,7 +84,7 @@
 
 *用直白的话说：先点名问题与利害，再选匹配的测量类别，并用共享技术标准 — 不是图方便的数字 — 作为证据。*
 
-当宪法要求具体测量规则时，[第十一章](../../core_11_forum.md#42-technical-forum-domains)下的**技术评议所领域**制定并维持共享标准 — 如何测量、如何检验、什么算可靠证据。负责既定争议的评议所随后在[第十一章 §4.2](../../core_11_forum.md#42-shared-standards-and-anti-displacement)下裁决该案时适用这些标准。
+当宪法要求具体测量规则时，[第十一章](core_11_forum.md#42-technical-forum-domains)下的**技术评议所领域**制定并维持共享标准 — 如何测量、如何检验、什么算可靠证据。负责既定争议的评议所随后在[第十一章 §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement)下裁决该案时适用这些标准。
 
 宪法尽责管理从点名问题与[**实质利害**](#material-stake)开始 — 涉及多少影响、依赖与风险。接下来，从[概览](#2-the-measurements)中选择相关的[**测量**](#2-the-measurements)类别与子类，并适用上述标准去检验真实世界效果，而不是图方便的指标。要求可追溯证据。
 
@@ -98,7 +98,7 @@
 - **系统对齐认证**（[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)） — 在高影响系统被大规模信赖之前，收集并审查证据：现在依赖它在宪法上是否安全
 - **轨迹记录**（[第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)） — 当行为或伤害在宪法上要紧时，把经核实的事实放入正式的贡献或违规案件档；传闻与名声不够
 - **纠正与救济**（[第九章 §4.1](../../core_09_standing_integration.md#41-remedy-and-correction)） — 修好底层失败，并向受伤害者提供相称的承认、修复、恢复或补偿
-- **评议所审查**（[第十一章](../../core_11_forum.md#1-purpose-and-role)）
+- **评议所审查**（[第十一章](core_11_forum.md#1-purpose-and-role)）
   - 已获授权系统内部的普通争议，先走[受影响方的系统参与](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)已公布的质疑路径
   - 若该路径仍被争议、缺失、被俘获、或不能给予救济，则按首要利害经受监督的评议所路由
   - 这些评议所在 **第 XXIV-C 条**（《及时解决与反拖延底线》）下支撑证据、合法移送与及时时限
@@ -115,7 +115,7 @@
 
 这些层在实践中可能重叠。重叠并不把它们塌成一层。已获授权系统中受影响方层面的参与，不能替代宪法授权。已公布的质疑路径、参与投票或信任分数，本身并不决定谁可以治理。
 
-该层下的可质疑性，是已获授权系统内部普通争议的通常第一步。受影响的感知者先走已公布的质疑路径。独立[评议所审查](../../core_11_forum.md#1-purpose-and-role)不是那条路径的替代。那条路径在仍被争议、缺失、被俘获、或不能给予所需救济时，也不是评议所审查的替代。[第十一章](../../core_11_forum.md#dispute-sequencing)下的[争议顺序](../../core_11_forum.md#dispute-sequencing)规定评议所路由何时接手。
+该层下的可质疑性，是已获授权系统内部普通争议的通常第一步。受影响的感知者先走已公布的质疑路径。独立[评议所审查](core_11_forum.md#1-purpose-and-role)不是那条路径的替代。那条路径在仍被争议、缺失、被俘获、或不能给予所需救济时，也不是评议所审查的替代。[第十一章](core_11_forum.md#dispute-sequencing)下的[争议顺序](core_11_forum.md#dispute-sequencing)规定评议所路由何时接手。
 
 宪法授权也不抹去[受影响方的系统参与](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)层下所欠的义务。这些义务仍包括参与、代表、[可质疑性](../../core_05_band_accountability.md#contestability)与[正当程序](../../core_05_band_accountability.md#due-process-constitutional)，适用于受已获授权系统、机构与有界决定域实质影响的感知者。
 
@@ -203,10 +203,10 @@
 - **其职掌：** 只处理最严重的经核实违规 — 可能已在规模上俘获或掏空宪法义务的行为。当第八章已经记录最高影响违规认定、且反宪法不当行为被实质指控时，本章把指定审查作为第九章门户轨道运行，与第九章普通轨迹效果并行。
 - **其产出：** 对该既有最高影响认定的最终反宪法不当行为指定 — 或驳回 — 仅在所需标准与正当程序保障满足之后。第八章仍测量伤害有多严重；只有最终指定才触发第九章的**反宪法信任锁定**。
 
-**评议所监督与路由**（[第十一章](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)）
+**评议所监督与路由**（[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)）
 
 - **其职掌：** 监督争议与认证事项实际如何移动。
-  - 从已公布的受影响方系统参与质疑路径到评议所路由的[争议顺序](../../core_11_forum.md#dispute-sequencing)
+  - 从已公布的受影响方系统参与质疑路径到评议所路由的[争议顺序](core_11_forum.md#dispute-sequencing)
   - 由哪一族评议所处理，以及案件通常从何处开始
   - 证据如何得到支撑
   - 事项如何移送或合并
@@ -225,7 +225,7 @@
    - **违规性质：** 打开**违规轨迹记录** — 经核实伤害与问责失败的有界、可质疑案件档 — 并在违规轴上分类**违规性质**。善与伤害永不折成一个净分；关联记录交叉引用但保持分开。
 3. **在每条轨道上适用轨迹效果**（[第九章](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)） — 经核实的贡献可授予能力许可并支撑相称承认与实质奖赏；经核实的违规可触发轨迹锁定、纠正与[对受伤害者的救济](../../core_09_standing_integration.md#41-remedy-and-correction)。
 4. **反宪法指定审查**（[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)） — 若最高影响违规认定也可能满足反宪法标准，第十章决定是否附着相应指定。指定不改变第八章已经认定的伤害严重程度；第九章普通效果并行继续，直到最终指定触发反宪法信任锁定。
-5. **路由争议并保持救济及时**（[第十一章](../../core_11_forum.md#1-purpose-and-role)） — 评议所监督案件如何移动、由哪条轨道处理，以及 **第 XXIV-C 条**（《及时解决与反拖延底线》）下的时限是否满足，以免救济死于拖延。普通争议遵循[争议顺序](../../core_11_forum.md#dispute-sequencing)。评议所也将争议分为五个[实质性层级](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（A/B/C/L/P），镜像系统分类字母 — 从生存危急到私人/受控事项 — 当第十章最终指定是首要利害时，适用廉正族系默认路由。
+5. **路由争议并保持救济及时**（[第十一章](core_11_forum.md#1-purpose-and-role)） — 评议所监督案件如何移动、由哪条轨道处理，以及 **第 XXIV-C 条**（《及时解决与反拖延底线》）下的时限是否满足，以免救济死于拖延。普通争议遵循[争议顺序](core_11_forum.md#dispute-sequencing)。评议所也将争议分为五个[实质性层级](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（A/B/C/L/P），镜像系统分类字母 — 从生存危急到私人/受控事项 — 当第十章最终指定是首要利害时，适用廉正族系默认路由。
 
 [README 轨迹链地图](../../README.md#standing-pipeline-and-forums)为上述链提供直接导航，包括第七章进入轨迹测量的潜在经核实输入。
 

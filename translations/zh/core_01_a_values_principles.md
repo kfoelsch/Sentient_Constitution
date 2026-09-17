@@ -380,7 +380,7 @@
 - 下游：[4. 信任](#4-system-stability-enabler-trust-coordination-integrity)、[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[6.2 认识披露约束](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)、[第七章 §3 整系统认证评价](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及 [§10 尽责管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)。
 - 下游：塑造可靠经验证据、专家证据标准、科学发表与复现完整性、独立核验、生命周期测试、根因审查与安全敏感披露的权利面。
   - 尤其 [Article XII：可靠可信系统权](../../core_06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems)、[Article XV：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XVII-E：科学发表、审阅与复现完整性](../../core_06_rights_part_c.md#article-xvii-e-scientific-publication-review-and-replication-integrity)、[Article XXI：根因分析与适应性响应](../../core_06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response)，以及 [Article XXIV-A：回溯审查与披露](../../core_06_rights_part_d.md#article-xxiv-a-retrospective-review-and-disclosure)。
-- 一并阅读：[第十一章 §4.2 — 技术评议所领域](../../core_11_forum.md#42-technical-forum-domains)（*包括共享标准与反挪位*），凡专家证据标准、经认证的技术问题或证据尽责管理争议具有实质性之处；[corpus_forum.md CF-10](../../corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md)，用于已采纳的专科路由。
+- 一并阅读：[第十一章 §4.2 — 技术评议所领域](core_11_forum.md#42-technical-forum-domains)（*包括共享标准与反挪位*），凡专家证据标准、经认证的技术问题或证据尽责管理争议具有实质性之处；[corpus_forum.md CF-10](../../corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md)，用于已采纳的专科路由。
 
 </details>
 
@@ -413,7 +413,7 @@
 
 科学方法、系统探究与同行审阅设定标准 — 但它们不是唯一可接受的程序。需要多少形式，取决于利害：更高影响的决定需要更严格的证据实践，由[按分类缩放的治理](../../core_05_band_oversight.md#classification-scaled-governance)统管。
 
-凡专家证据标准、方法或证据尽责管理争议需要评议所解决之处，路由遵循[第十一章 §4.2](../../core_11_forum.md#42-technical-forum-domains)下的**技术评议所领域**。技术评议所维持跨族系标准，并可回答经认证的组件问题，而不挪走他处的首要利害路由。
+凡专家证据标准、方法或证据尽责管理争议需要评议所解决之处，路由遵循[第十一章 §4.2](core_11_forum.md#42-technical-forum-domains)下的**技术评议所领域**。技术评议所维持跨族系标准，并可回答经认证的组件问题，而不挪走他处的首要利害路由。
 
 对发表、数据通路、方法披露或复现材料的安全敏感限制，仅可在[6.2 认识披露约束](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)、上列第五章定义以及可适用的第六章权利下被正当化。此类限制必须通过受保护记录、独立审查、延迟披露、删减、安全通路或类似保障，保全最大可行的认识完整性；它们不得变成压制不利证据、隐藏安全缺陷或制造表面共识的手段。
 

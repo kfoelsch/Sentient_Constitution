@@ -69,7 +69,7 @@
 
 *相邻条款：*
 
-- **及时性底线：** 解决速度、反拖延纪律与实质性层级里程碑，由 **Article XXIV-C**（《及时解决与反拖延底线》）统管，经[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)实施。
+- **及时性底线：** 解决速度、反拖延纪律与实质性层级里程碑，由 **Article XXIV-C**（《及时解决与反拖延底线》）统管，经[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)实施。
 - **及时救济：** 一并阅读 [**Article XII-B**（《质疑、审查与救济权》）](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)（*及时救济通路*）。
 
 已获采纳的治理实施提供升级、干预相称性、紧急边界，以及层级默认时限窗口。它不得收窄本条下的实务通路、可审查性、恢复、及时解决或权利底线约束。
@@ -196,7 +196,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：原则：第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[§6.1 核心权衡原则](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)，以及[第一章 §6.1.5 决定记录纪律](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)。
-- 一并阅读：凡存在风险审查被实质牵连之处的 **Article I-D**（《存在风险与生态恢复能力》）；[宪法四元](core_00_preamble.md#constitutional-tetrad)的**参与**与**及时性**腿；[Article XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor)（《及时解决与反拖延底线》）；[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*实质性层级外限被复用为恢复质疑默认值*）。
+- 一并阅读：凡存在风险审查被实质牵连之处的 **Article I-D**（《存在风险与生态恢复能力》）；[宪法四元](core_00_preamble.md#constitutional-tetrad)的**参与**与**及时性**腿；[Article XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor)（《及时解决与反拖延底线》）；[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*实质性层级外限被复用为恢复质疑默认值*）。
 - 下游：[CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)（*数字阶段表不得拖延这些默认值*）。
 
 </details>
@@ -242,14 +242,14 @@
   - 相称性；
   - 不存在限制更少的可行替代。
 <a id="xxiii-d-restore-challenge-clocks"></a>
-- **审查与通知（恢复质疑时钟）：** 现在遏制；稍后恢复通知与质疑；永远不要永久跳过参与。「尽快可行」不是时钟。受影响方必须在 [**Article XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) 已用于评议所解决、并由[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)实施的同一套实质性层级外限内，收到通知与被恢复的质疑通路：
+- **审查与通知（恢复质疑时钟）：** 现在遏制；稍后恢复通知与质疑；永远不要永久跳过参与。「尽快可行」不是时钟。受影响方必须在 [**Article XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) 已用于评议所解决、并由[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)实施的同一套实质性层级外限内，收到通知与被恢复的质疑通路：
   - **Tier A：** 至多**一周**；
   - **Tier B：** 至多**三周**；
   - **Tier C：** 至多**两个月**；
   - **Tier L：** 至多**四个月**；
   - **Tier P：** 至多**六个月**。
 
-  那些数字被复用，不是第二张表。[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)仍是数字家园。恢复质疑窗口自紧急措施开始时起算，或自通知或质疑被推迟时起算，以较早者为准。推迟通知或质疑的紧急遏制为 **Tier A**，除非记录了一份有记录的较低紧急展示。运营者可以更早恢复。除经**继续纪律**外，他们不得拉伸越过层级默认。对该措施的完整独立审查必须在同一窗口内开始。[CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)中的阶段表不得拖延这些默认值。
+  那些数字被复用，不是第二张表。[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)仍是数字家园。恢复质疑窗口自紧急措施开始时起算，或自通知或质疑被推迟时起算，以较早者为准。推迟通知或质疑的紧急遏制为 **Tier A**，除非记录了一份有记录的较低紧急展示。运营者可以更早恢复。除经**继续纪律**外，他们不得拉伸越过层级默认。对该措施的完整独立审查必须在同一窗口内开始。[CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)中的阶段表不得拖延这些默认值。
 - **不正常化：** 紧急措施不得在没有下列各项的情况下正常化为永久治理：
   - 与**第一章**一致的正当化（**必要性**与**相称性**）；
   - **有记录的独立再授权**；
@@ -366,7 +366,7 @@
 
 - 上游：及时性测量族（*作为宪法测量的及时解决与反拖延纪律*）；[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)（*轨迹、整合与评议所协调链*）。
 - 原则：第一章 [§12.2 宪法效率](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)、[第一章 §6.3 可避免负担最小化](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)，以及[第一章 §6.1.5 决定记录纪律](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)。
-- 下游：[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*实质性层级、链条里程碑与反拖延纪律*）；[Article XXIII-D](#xxiii-d-restore-challenge-clocks)（*同一外限作为紧急遏制后的默认恢复质疑窗口*）。
+- 下游：[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*实质性层级、链条里程碑与反拖延纪律*）；[Article XXIII-D](#xxiii-d-restore-challenge-clocks)（*同一外限作为紧急遏制后的默认恢复质疑窗口*）。
 - 尽责管理入口（非操作性）：有约束力的下一步声明：[操作性尽责管理声明](#operative-steward-statement-delay)。支持性指针不得收窄它。
 
 </details>
@@ -395,7 +395,7 @@
   - **及时** — 按[实质利害](core_00_preamble.md#material-stake)与伤害紧急缩放的有界时钟；
   - **高效** — [宪法效率](core_05_band_continuity.md#constitutional-efficiency) 在第一章 [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) 的意义上 — 按所消耗的感知者时间与共享努力计的真实宪法结果，不是原始吞吐量或清案；
   - **公正** — **Article XXIII-A**（《正义目的与范围》）、**Article XXIII-B**（《非琐细限制、返还与修复性问责约束》）与 **Article XXIII-C**（《限制最少且有时限的规则》）仍完全适用；快速移动不是跳过经核对事实（[第八章 §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)）、惩罚错误一方、提供与伤害不匹配的修复，或切断质疑与上诉的借口。
-- **评议所与链条监督：** 经**第八至十一章**路由的争议，其下列事项由[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)统管，并受本条及时、高效且公正底线约束：
+- **评议所与链条监督：** 经**第八至十一章**路由的争议，其下列事项由[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)统管，并受本条及时、高效且公正底线约束：
   - 实质性层级分类；
   - 链条阶段里程碑；
   - 整合解决外限；

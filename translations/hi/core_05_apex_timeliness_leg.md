@@ -102,7 +102,7 @@
 
 - अधो: समयबद्धता मापन परिवार — केवल-कड़ी रोलअप; प्रति-पद स्तर पत्ती परिभाषाओं पर रहते हैं — देखें [समयबद्ध समाधान](../../core_05_band_accountability.md#timely-resolution-constitutional), [समाधान-मार्गों का कब्ज़ा](../../core_05_band_accountability.md#capture-of-resolution-pathways), और [समयबद्धता](#timeliness-constitutional) (केवल-कड़ी टाँग-शीर्ष रोलअप)।
 - साथ पढ़ें: [सहभागिता](core_05_apex_participation_leg.md#participation-constitutional), [निगरानी](core_05_apex_oversight_leg.md#oversight-constitutional) और [जवाबदेही](core_05_apex_accountability_leg.md#accountability) — समयबद्धता अन्य तीन चतुष्क टाँगों से भी होकर चलती है; उन टाँगों का समय पर घटित होना उपयोगी होने के लिए ज़रूरी है।
-- साथ पढ़ें: [अध्याय ग्यारह §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)।
+- साथ पढ़ें: [अध्याय ग्यारह §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)।
 
 </details>
 

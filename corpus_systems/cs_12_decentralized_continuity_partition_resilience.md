@@ -182,7 +182,7 @@ Where this section is silent, **CS-5 §9**, Chapter One §4.1, **Article XII-F**
 
 ---
 
-*Corpus alignment:* edition `SC-Corpus-2026.04.33`, effective **2026-04-24**; edition and custody in [README.md](../README.md) and [Chapter Five *Corpus*](../core_05_band_integrative.md#corpus).
+*Corpus alignment:* edition and effective date inherit from [README.md](../README.md); custody is governed by [Chapter Five *Corpus*](../core_05_band_integrative.md#corpus).
 
 ---
 

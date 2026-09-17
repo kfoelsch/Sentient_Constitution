@@ -102,7 +102,7 @@
 
 - پایین‌دست: خانوادهٔ اندازه‌گیری به‌هنگامی — تجمیع فقط‌پیوند؛ سطح‌های هر اصطلاح در تعریف‌های برگ زندگی می‌کنند — ببینید [حل به‌هنگام](../../core_05_band_accountability.md#timely-resolution-constitutional)، [تسخیر مسیرهای حل](../../core_05_band_accountability.md#capture-of-resolution-pathways)، و [به‌هنگامی](#timeliness-constitutional) (تجمیع سرپای فقط‌پیوند).
 - خوانده شود با: [مشارکت](core_05_apex_participation_leg.md#participation-constitutional)، [نظارت](core_05_apex_oversight_leg.md#oversight-constitutional) و [پاسخگویی](core_05_apex_accountability_leg.md#accountability) — به‌هنگامی نیز از سه پای دیگر چهارگانه می‌گذرد؛ آن پاها باید به‌موقع رخ دهند تا مفید باشند.
-- خوانده شود با: [فصل یازدهم §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- خوانده شود با: [فصل یازدهم §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
 </details>
 

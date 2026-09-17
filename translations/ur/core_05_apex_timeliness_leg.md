@@ -102,7 +102,7 @@
 
 - زیریں: بروقت کارروائی پیمائش خاندان — صرف لنک رول اپ؛ فی اصطلاح درجے برگ تعریفوں پر رہتے ہیں — دیکھیں [بروقت حل](../../core_05_band_accountability.md#timely-resolution-constitutional)، [حل کے راستوں کا قبضہ](../../core_05_band_accountability.md#capture-of-resolution-pathways) اور [بروقت کارروائی](#timeliness-constitutional) (صرف لنک ٹانگ سر رول اپ)۔
 - ساتھ پڑھیں: [شرکت](core_05_apex_participation_leg.md#participation-constitutional)، [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional) اور [جوابدہی](core_05_apex_accountability_leg.md#accountability) — بروقت کارروائی دیگر تین چوکڑی کی ٹانگوں سے بھی گزرتی ہے؛ وہ ٹانگیں مفید ہونے کے لیے وقت پر ہونی چاہئیں۔
-- ساتھ پڑھیں: [باب یازدهم §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)۔
+- ساتھ پڑھیں: [باب یازدهم §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)۔
 
 </details>
 

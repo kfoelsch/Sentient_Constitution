@@ -102,7 +102,7 @@ Os **termos independentes e semi-independentes** que implementam a atuação em 
 
 - Destino: família de medição Atuação em tempo — rollup só-enlace; os níveis por termo vivem nas definições-folha — veja [Resolução oportuna](../../core_05_band_accountability.md#timely-resolution-constitutional), [Captura das vias de resolução](../../core_05_band_accountability.md#capture-of-resolution-pathways) e [Atuação em tempo](#timeliness-constitutional) (rollup de cabeça de perna só-enlace).
 - Ler com: [Participação](core_05_apex_participation_leg.md#participation-constitutional), [Supervisão](core_05_apex_oversight_leg.md#oversight-constitutional) e [Prestação de contas](core_05_apex_accountability_leg.md#accountability) — a Atuação em tempo também percorre as outras três pernas da Tétrade; essas pernas têm de ocorrer em tempo para serem úteis.
-- Ler com: [Capítulo Onze §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- Ler com: [Capítulo Onze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
 </details>
 

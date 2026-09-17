@@ -33,7 +33,7 @@
 
 - 上流：[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*問い 1 と問い 2；検証済み記録と軌跡測定*）。
 - 本ファイル：問い 3 の統合、救済、是正、ロック、自発的な公開説明責任の表明、能力の閾と許可、最終軌跡効果、復元、再評価、執行の現実性、救済システム、およびパターン適用／問い 3 の経路づけ。
-- 下流：[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)（*指定のみ*）；[第十一章](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*フォーラム監督*）；[CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（*救済システムの実施*）。
+- 下流：[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)（*指定のみ*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*フォーラム監督*）；[CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（*救済システムの実施*）。
 
 </details>
 
@@ -251,13 +251,13 @@
 
 *平たい言葉で言えば：ロックは出すのが安く、修復、復元、および審査は走らせるのが高い。放っておけば、本章の安い半分は働き続け、高い半分は飢える。本下位節はそれらを結びつける：通常のロックは、同一の認定についての救済ファイルが実際に開くまで添付できず、採択者のあるクラスのロックについての救済または復元の仕事がその時計に遅れたとき、そのクラスの新しい通常ロックはいちばん軽い形に既定し、既存のものは審査に上がる。いちばん重いロックは免除される — 救済の待ち行列を溢れさせてそれらを跳ね上げることはできない。*
 
-**開かれた救済の前提条件。** [第十一章 §5](../../core_11_forum.md#interim-protection)（《暫定保護》）のもとでの暫定保護措置を超えて、[§4.2](#42-general-standing-locks) のもとでの一般軌跡ロックは、同一の検証済み認定についての [§4.1](#41-remedy-and-correction) 統合記録が**開かれる**まで、指名された経路に添付してはならない — 少なくとも、影響を受ける当事者、負われる救済、責任を負う当事者、資金源、および開始日が目に見える形で述べられていることを意味する。ロックが添付するために救済の完了は要らない；開かれた救済記録は要る。開かれた救済記録なしに添付されたロックは欠陥であり、[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) の層の時計で、治癒するか暫定保護の範囲へ狭めなければならない。
+**開かれた救済の前提条件。** [第十一章 §5](core_11_forum.md#interim-protection)（《暫定保護》）のもとでの暫定保護措置を超えて、[§4.2](#42-general-standing-locks) のもとでの一般軌跡ロックは、同一の検証済み認定についての [§4.1](#41-remedy-and-correction) 統合記録が**開かれる**まで、指名された経路に添付してはならない — 少なくとも、影響を受ける当事者、負われる救済、責任を負う当事者、資金源、および開始日が目に見える形で述べられていることを意味する。ロックが添付するために救済の完了は要らない；開かれた救済記録は要る。開かれた救済記録なしに添付されたロックは欠陥であり、[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) の層の時計で、治癒するか暫定保護の範囲へ狭めなければならない。
 
 **救済パリティの連動線。** 採択者は、各期間および自らが運用する各ロッククラスについて、発行された一般ロック、開始された救済、完了した救済、決められた復元、および未了の再評価の数を公表しなければならない。ロッククラスについての救済の開始または復元の審査が、第十一章 §6 の層の外側限界を超えるところでは：
 
 - そのクラスの新しい一般ロックは、統合記録が**遮断**を要する特定の不可逆危害または安全リスクを文書化しない限り、[§7](#7-final-standing-effect) のもとで**保障付き開放**に既定する；
 - そのクラスの既存の一般ロックは、同一の層の時計で [§8](#8-restoration-and-reassessment) のもとでの義務的再評価に入る；および
-- 能力の失敗は [§9.2](#92-remedy-system-durability) のもとでの耐久の失敗として記録され、問題になっている能力を持つ群またはシステムの外で、[第十一章 §3](../../core_11_forum.md#3-transfer-consolidation-and-coordination) の能力失敗の規則のもとで経路づけられる。
+- 能力の失敗は [§9.2](#92-remedy-system-durability) のもとでの耐久の失敗として記録され、問題になっている能力を持つ群またはシステムの外で、[第十一章 §3](core_11_forum.md#3-transfer-consolidation-and-coordination) の能力失敗の規則のもとで経路づけられる。
 
 **免除。** 連動線は、[§5.5](#55-special-locks) の特別ロック、違反軸の箱 **7**、**8**、または **9** の認定に添付されたロック、または [§5.4](#54-special-violation-rules) のもとでの強制的もしくは自由を制限する保障を緩めない。[§10.10](#1010-contest-pathway-or-info-sphere-flooding) のもとで争訟の経路の氾濫として検証された申立ては、本規則を発火させる滞留に数えない。
 
@@ -633,7 +633,7 @@
 
 **既定の継続。** 能力許可が与えられ、影響を受ける指名された経路が開いているなら、許可は既定で効力に残る。それは永続する権利ではない。公表された再試験、役割に関連する能力の実質的変化、適用される軌跡ロック、または本節のもとでの他の再評価の引き金は、許可を再開し、限り、または撤回してよい。
 
-**定期的な再試験。** 一部の能力は定期的な再試験を求める；他は求めない。どの指名された経路が再試験を求めるか、どれほど頻繁に、どの方法でかは、[技術フォーラム領域](../../core_11_forum.md#42-technical-forum-domains) のもとでの公表された標準が定める。適法な範囲内の専門技術フォーラムを含む。それらの標準は、役割に比例し、点検可能で、争訟可能でなければならない。
+**定期的な再試験。** 一部の能力は定期的な再試験を求める；他は求めない。どの指名された経路が再試験を求めるか、どれほど頻繁に、どの方法でかは、[技術フォーラム領域](core_11_forum.md#42-technical-forum-domains) のもとでの公表された標準が定める。適法な範囲内の専門技術フォーラムを含む。それらの標準は、役割に比例し、点検可能で、争訟可能でなければならない。
 
 **実質的な能力の変化。** 許可はまた、検証済み事実が、指名された経路が実際に求める能力の実質的変化を示すときに再評価されてよい — たとえば脳卒中のあとの運動または言語の喪失、またはその役割に必要な判断を損なう精神健康の状態。再評価は、かかっている役割に関連する能力を狙わなければならず、障害または健康地位そのものを狙ってはならない。必要で、比例し、審査に開かれ、第五章と第六章のもとでのアクセシビリティと無差別の床と一貫していなければならない。それらの選択が安全な準備を保全するであろうところでは、許可を撤回する前に、配慮、支え、またはより狭い指名された経路を考慮しなければならない。
 
@@ -696,7 +696,7 @@
     - 比較可能な成果物；
   - それを産出しなかった指名された経路へ効果を移すこと；または
   - 対象の効果の集合から、一般的な信頼可能性、値打ち、またはリスクを推論すること。
-- **有界な例外：** 捕捉またはパターンの主張を審査する [誠実性フォーラム](../../core_11_forum.md#45-integrity-forums)、[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) の指定審査、および [§9.4](#94-anti-evasion-and-look-through-authority) の look-through は、忌避規則および [第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) の時計のもとで、その手続についてのみ、経路横断の記録を見てよい。[第八章 §3.2](core_08_standing_assessment.md#32-related-record-cross-references) の結びついた記録のあいだの相互参照は残る；それらは記録のリンクであり、合成ではない。
+- **有界な例外：** 捕捉またはパターンの主張を審査する [誠実性フォーラム](core_11_forum.md#45-integrity-forums)、[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) の指定審査、および [§9.4](#94-anti-evasion-and-look-through-authority) の look-through は、忌避規則および [第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) の時計のもとで、その手続についてのみ、経路横断の記録を見てよい。[第八章 §3.2](core_08_standing_assessment.md#32-related-record-cross-references) の結びついた記録のあいだの相互参照は残る；それらは記録のリンクであり、合成ではない。
 - **公開 LEQU 表示：** 違反軸と貢献軸の箱は、感知者の一般的属性として公表されない。それらは記録に、フォーラム手続に、および箱がその指名された経路への適法な入力であるところでの指名された経路の門番への開示に現れる。
 
 <a id="72-plain-statement-of-effect-and-burden"></a>
@@ -746,7 +746,7 @@
 
 *平たい言葉で言えば：軌跡の帰結と是正は、本物の制度がそれらを届けられるときにのみ数える。本節はその仕組みについての憲法の床である。日常の人員、資金、滞留、および承継の規則は制度層に住む。*
 
-第九章は、問い 3 の帰結および関連する是正が制度として本物でなければならないという憲法の床を所管する。[救済システム](core_05_band_accountability.md#remedy-system-constitutional) は、異議、受付、保全、審査、修復、監視、保障の執行、およびロックの審査を届ける耐久する能力である — 紙の経路ではない。実施の詳細は [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（《救済システムと制度的是正能力》）が所管する。フォーラム監督については **Article XII-B**（《異議、審査、是正への権利》）および [第十一章](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) とあわせて読め。
+第九章は、問い 3 の帰結および関連する是正が制度として本物でなければならないという憲法の床を所管する。[救済システム](core_05_band_accountability.md#remedy-system-constitutional) は、異議、受付、保全、審査、修復、監視、保障の執行、およびロックの審査を届ける耐久する能力である — 紙の経路ではない。実施の詳細は [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（《救済システムと制度的是正能力》）が所管する。フォーラム監督については **Article XII-B**（《異議、審査、是正への権利》）および [第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) とあわせて読め。
 
 軌跡の統合は、帰結が紙の上にしか存在しないなら失敗する。採択者は、是正を実施し、救済に資金を付け、制限を審査し、記録を保全し、保障を執行し、費用、遅れ、国境、再編、または形式的同一性の変更を通じた逃避を防ぐ、実務的で適時な能力を維持しなければならない。
 
@@ -796,7 +796,7 @@
 - 審査；および
 - 執行。
 
-それらのシステムは [第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) の層の里程標とパイプライン段階の窓を満たさなければならない。また [技術フォーラム領域](../../core_11_forum.md#42-technical-forum-domains) のもとでの公表された能力、測定、および里程標の標準を満たさなければならない。技術フォーラムはそれらの標準を定め維持する；救済システムまたは制度の指揮階層ではない。人員、資金、滞留、承継、および実績についての説明責任は、[第一次利害](../../core_11_forum.md#2-default-venue-and-primary-stakes) のフォーラム群に残る — 通常は [制度](../../core_11_forum.md#43-institutional-forums)、または捕捉、過程の失敗、もしくはシステム整合の崩壊が第一次であるところでは [誠実性](../../core_11_forum.md#45-integrity-forums)。救済システム能力についての制度的実施の詳細は [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（《救済システムと制度的是正能力》）が所管する。
+それらのシステムは [第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) の層の里程標とパイプライン段階の窓を満たさなければならない。また [技術フォーラム領域](core_11_forum.md#42-technical-forum-domains) のもとでの公表された能力、測定、および里程標の標準を満たさなければならない。技術フォーラムはそれらの標準を定め維持する；救済システムまたは制度の指揮階層ではない。人員、資金、滞留、承継、および実績についての説明責任は、[第一次利害](core_11_forum.md#2-default-venue-and-primary-stakes) のフォーラム群に残る — 通常は [制度](core_11_forum.md#43-institutional-forums)、または捕捉、過程の失敗、もしくはシステム整合の崩壊が第一次であるところでは [誠実性](core_11_forum.md#45-integrity-forums)。救済システム能力についての制度的実施の詳細は [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（《救済システムと制度的是正能力》）が所管する。
 
 次は、予見可能に異議または救済を無効にするところで、本規則に違反する：
 
@@ -825,7 +825,7 @@
 <a id="95-timely-implementation"></a>
 #### 9.5 適時の実施
 
-救済の開始、是正の里程標、ロックの審査、および再評価は、[適時性](core_05_apex_timeliness_leg.md#timeliness-constitutional)、[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)、および **Article XXIV-C**（《適時の解決と遅延防止の床》）を満たさなければならない。危害を積み重ね、不履行を隠し、または審査を打ち負かす遅れは、問い 3 についての新しい検証済み事実であり、元の第八章の箱を変えずに、段階引き上げされた保障を正当化してよい。
+救済の開始、是正の里程標、ロックの審査、および再評価は、[適時性](core_05_apex_timeliness_leg.md#timeliness-constitutional)、[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)、および **Article XXIV-C**（《適時の解決と遅延防止の床》）を満たさなければならない。危害を積み重ね、不履行を隠し、または審査を打ち負かす遅れは、問い 3 についての新しい検証済み事実であり、元の第八章の箱を変えずに、段階引き上げされた保障を正当化してよい。
 
 権利と軌跡の帰結は、感知者がそれらを呼び出し、検証し、実務上の修復に資金を付け、適時の審査を得、機能的に責任を負う行為者に対して義務を執行できるときにのみ本物である。
 
@@ -845,7 +845,7 @@
 
 *平たい言葉で言えば：これらのパターンは、繰り返す問い 3 の端の形が、上ですでに述べられた規則をどう経由するかを示す — 新しい帰結や新しい特別ロック型を発明しない。手がかりが第十章 §5 の攻撃ファミリーを写すところでは、本節は検証済み記録からの指名された経路の予防に答える；第十章は別に指定基準の経路づけに答える。*
 
-下記の下位節は、よくある問い 3 の状況が、本章ですでに述べられた規則をどう用いるかを示す。それらは [§5.5](#55-special-locks) のもとでの新しい帰結を**発明せず**、特別ロック型を作らず、特別な例外を作らず、第八章の箱を変えず、[第十一章](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) からフォーラム監督を奪わず、[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) から指定の決定を奪わない。決定者は [§2](#2-integration-record-and-decision-order) の順序と、各パターンが名指す節に従う。
+下記の下位節は、よくある問い 3 の状況が、本章ですでに述べられた規則をどう用いるかを示す。それらは [§5.5](#55-special-locks) のもとでの新しい帰結を**発明せず**、特別ロック型を作らず、特別な例外を作らず、第八章の箱を変えず、[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) からフォーラム監督を奪わず、[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) から指定の決定を奪わない。決定者は [§2](#2-integration-record-and-decision-order) の順序と、各パターンが名指す節に従う。
 
 <a id="101-informal-ecological-stewardship-competency-clearance"></a>
 <a id="101-informal-ecological-stewardship-competency-gate"></a>
@@ -949,7 +949,7 @@
   - [§4](#4-violation-correction-and-prevention)（*救済、是正、および予防*）；
   - [§4.2](#42-general-standing-locks)（*濫用された経路づけ、申立て、順位、通路、または影響の指名された経路についての保護的な指名された経路のロック*）；
   - [§5.1](#51-definition-and-attachment) および [§5.2](#52-proportionality-and-calibration)（*必要で、比例し、審査可能な範囲*）；および
-  - [第十一章](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*運用上の受付の選別と弄り防止 — 軌跡効果を発明しない監督*）。
+  - [第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*運用上の受付の選別と弄り防止 — 軌跡効果を発明しない監督*）。
 - **交渉不能：** この手がかりは氾濫ロックまたは他の [§5.5](#55-special-locks) 型を作らない。指定側の基準経路づけは [第十章 §5.3](../../core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) および [§5.4](../../core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) に残る。通常の保護ロックは、指定が後に添付するかどうかを問わず、固定された記録から進む。
 
 <a id="1011-infrastructure-denial-or-dependency-cutoff"></a>

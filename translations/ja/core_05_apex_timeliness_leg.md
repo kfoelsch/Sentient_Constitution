@@ -102,7 +102,7 @@
 
 - 下流：適時性の測定ファミリー — リンクのみのロールアップ；用語ごとの段階は葉定義に住む — [適時の解決](../../core_05_band_accountability.md#timely-resolution-constitutional)、[解決経路の捕捉](../../core_05_band_accountability.md#capture-of-resolution-pathways) および [適時性](#timeliness-constitutional)（リンクのみの脚頭ロールアップ）を見よ。
 - あわせて読む：[参加](core_05_apex_participation_leg.md#participation-constitutional)、[監督](core_05_apex_oversight_leg.md#oversight-constitutional) および [説明責任](core_05_apex_accountability_leg.md#accountability) — 適時性は他の三つの四元脚も貫く；それらの脚は役に立つために適時に起きなければならない。
-- あわせて読む：[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)。
+- あわせて読む：[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)。
 
 </details>
 

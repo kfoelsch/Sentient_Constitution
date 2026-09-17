@@ -102,7 +102,7 @@
 
 - Назначение: семья измерений Своевременности — свёртка только-ссылка; ярусы по термину живут на листовых определениях — см. [Своевременное разрешение](../../core_05_band_accountability.md#timely-resolution-constitutional), [Захват путей разрешения](../../core_05_band_accountability.md#capture-of-resolution-pathways) и [Своевременность](#timeliness-constitutional) (свёртка головы ноги только-ссылка).
 - Читать вместе с: [Участие](core_05_apex_participation_leg.md#participation-constitutional), [Надзор](core_05_apex_oversight_leg.md#oversight-constitutional) и [Подотчётность](core_05_apex_accountability_leg.md#accountability) — Своевременность также проходит через другие три ноги Тетрады; эти ноги должны происходить вовремя, чтобы быть полезными.
-- Читать вместе с: [Глава одиннадцатая §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- Читать вместе с: [Глава одиннадцатая §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
 </details>
 

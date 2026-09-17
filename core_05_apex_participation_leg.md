@@ -1,5 +1,3 @@
-<a id="participation-constitutional"></a>
-
 # CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)
 
 <details>
@@ -25,6 +23,10 @@
 ---
 
 *In plain terms: give affected sentients real voice in systems that affect them — scaled to how much is on the line, not token consultation.*
+
+<a id="participation-constitutional"></a>
+
+#### Participation
 
 - O: Give affected sentients and [Stakeholders](core_05_band_participation.md#stakeholder) real voice in systems that affect them — the Tetrad leg this entry names.
   - **In scope:**

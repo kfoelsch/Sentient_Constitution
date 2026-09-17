@@ -102,7 +102,7 @@ Los **términos independientes y semiindependientes** que implementan la actuaci
 
 - Destino: familia de medición Actuación a tiempo — rollup solo-enlace; los niveles por término viven en las definiciones hoja — véase [Resolución oportuna](../../core_05_band_accountability.md#timely-resolution-constitutional), [Captura de vías de resolución](../../core_05_band_accountability.md#capture-of-resolution-pathways) y [Actuación a tiempo](#timeliness-constitutional) (rollup de cabeza de pata solo-enlace).
 - Leer con: [Participación](core_05_apex_participation_leg.md#participation-constitutional), [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) y [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) — la Actuación a tiempo también recorre las otras tres patas de la Tétrada; esas patas tienen que ocurrir a tiempo para ser útiles.
-- Leer con: [Capítulo Once §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- Leer con: [Capítulo Once §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
 </details>
 

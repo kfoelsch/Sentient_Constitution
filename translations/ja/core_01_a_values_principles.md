@@ -380,7 +380,7 @@
 - 下流：[4. 信頼](#4-system-stability-enabler-trust-coordination-integrity)、[§9 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[6.2 認識的開示の制約](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)、[第七章 §3 システム全体の認証評価](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§10 責務ある管理の規律のもとでの統治](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)。
 - 下流：信頼できる経験的証拠、専門家証拠の標準、科学出版と再現の誠実性、独立検証、ライフサイクル試験、根本原因審査、安全に敏感な開示についての権利面を形づくる。
   - とくに [Article XII：信頼でき信頼可能なシステムへの権利](../../core_06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems)、[Article XV：監査、透明性、独立検証](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XVII-E：科学出版、審査、再現の誠実性](../../core_06_rights_part_c.md#article-xvii-e-scientific-publication-review-and-replication-integrity)、[Article XXI：根本原因分析と適応的応答](../../core_06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response)、[Article XXIV-A：回顧的審査と開示](../../core_06_rights_part_d.md#article-xxiv-a-retrospective-review-and-disclosure)。
-- あわせて読む：専門家証拠の標準、認証された技術的問い、証拠の責務ある管理の紛争が実質的であるところでは [第十一章 §4.2 — 技術フォーラム領域](../../core_11_forum.md#42-technical-forum-domains)（《共有標準と置換防止》を含む）。採択された専門家経路については [corpus_forum.md CF-10](../../corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md)。
+- あわせて読む：専門家証拠の標準、認証された技術的問い、証拠の責務ある管理の紛争が実質的であるところでは [第十一章 §4.2 — 技術フォーラム領域](core_11_forum.md#42-technical-forum-domains)（《共有標準と置換防止》を含む）。採択された専門家経路については [corpus_forum.md CF-10](../../corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md)。
 
 </details>
 
@@ -413,7 +413,7 @@
 
 科学的方法、系統的探究、査読が標準を定める — しかしそれだけが受け入れ可能な手続ではない。どれだけの形式性が要るかは利害に依存する。より高影響の決定は、より厳格な証拠実務を必要とし、[分類に応じた統治](../../core_05_band_oversight.md#classification-scaled-governance)が統治する。
 
-専門家証拠の標準、方法、または証拠の責務ある管理の紛争がフォーラム解決を要するところでは、経路づけは[第十一章 §4.2](../../core_11_forum.md#42-technical-forum-domains)のもとでの**技術フォーラム領域**に従う。技術フォーラムはファミリー横断の標準を維持し、他の第一次利害の経路づけを置き換えずに、認証された構成要素の問いに答えうる。
+専門家証拠の標準、方法、または証拠の責務ある管理の紛争がフォーラム解決を要するところでは、経路づけは[第十一章 §4.2](core_11_forum.md#42-technical-forum-domains)のもとでの**技術フォーラム領域**に従う。技術フォーラムはファミリー横断の標準を維持し、他の第一次利害の経路づけを置き換えずに、認証された構成要素の問いに答えうる。
 
 出版、データ通路、方法開示、再現資料に対する安全に敏感な限度は、[6.2 認識的開示の制約](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)、上記の第五章定義、適用される第六章の権利のもとでのみ正当化されうる。そのような限度は、保護された記録、独立審査、遅延開示、墨消し、安全な通路、または比較可能な保障を通じて、最大の実務可能な認識的誠実性を保全しなければならない。不利な証拠を抑え、安全欠陥を隠し、見かけの合意をつくる手段になってはならない。
 

@@ -102,7 +102,7 @@ Definisi daun di bawah kaki ini mewarisi cakupannya kecuali mereka secara tegas 
 
 - Hilir: keluarga pengukuran Ketepatan waktu — rollup hanya-tautan; tingkatan per istilah hidup pada definisi daun — lihat [Penyelesaian tepat waktu](../../core_05_band_accountability.md#timely-resolution-constitutional), [Penguasaan jalur resolusi](../../core_05_band_accountability.md#capture-of-resolution-pathways), dan [Ketepatan waktu](#timeliness-constitutional) (rollup kepala-kaki hanya-tautan).
 - Baca bersama: [Partisipasi](core_05_apex_participation_leg.md#participation-constitutional), [Pengawasan](core_05_apex_oversight_leg.md#oversight-constitutional), dan [Pertanggungjawaban](core_05_apex_accountability_leg.md#accountability) — Ketepatan waktu juga berjalan melalui tiga kaki Tetrad lainnya; kaki itu harus terjadi tepat waktu agar berguna.
-- Baca bersama: [Bab Sebelas §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- Baca bersama: [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
 </details>
 

@@ -33,7 +33,7 @@
 
 - Thượng nguồn: [Chương Tám](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*Câu hỏi 1 và 2; hồ sơ đã xác minh và đo lường quỹ đạo*).
 - Tệp này: tích hợp Câu hỏi 3, biện pháp khắc phục, sửa, khóa, biểu đạt trách nhiệm giải trình công tự nguyện, thanh năng lực và giấy phép, hiệu ứng quỹ đạo cuối, khôi phục, tái đánh giá, thực tế cưỡng chế, hệ thống biện pháp khắc phục, và ứng dụng mẫu / định tuyến Câu hỏi 3.
-- Hạ nguồn: [Chương Mười](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*chỉ chỉ định*); [Chương Mười Một](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*giám sát diễn đàn*); [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*triển khai hệ thống biện pháp khắc phục*).
+- Hạ nguồn: [Chương Mười](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*chỉ chỉ định*); [Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*giám sát diễn đàn*); [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*triển khai hệ thống biện pháp khắc phục*).
 
 </details>
 
@@ -251,13 +251,13 @@ Chuyên biệt hành vi sai phản hiến pháp — kể cả quy tắc kích b�
 
 *Nói thẳng: khóa rẻ để cấp; sửa chữa, khôi phục, và rà soát đắt để chạy. Để một mình, nửa rẻ của chương này cứ chạy trong khi nửa đắt đói. Tiểu mục này buộc chúng lại: một khóa thường không thể gắn cho đến khi hồ sơ biện pháp khắc phục của cùng phát hiện thực sự mở, và khi việc khắc phục hoặc khôi phục của bên tiếp nhận cho một lớp khóa chậm hơn đồng hồ của nó, khóa thường mới trong lớp đó mặc định về dạng nhẹ nhất và khóa đang có vào rà soát. Các khóa nghiêm nhất được miễn để làm ngập hàng khắc phục không thể bung chúng.*
 
-**Tiền điều kiện biện pháp khắc phục đã mở.** Ngoài biện pháp bảo vệ tạm dưới [Chương Mười Một §5](../../core_11_forum.md#interim-protection) (*Bảo vệ tạm*), một khóa quỹ đạo chung dưới [§4.2](#42-general-standing-locks) không được gắn vào một đường dẫn được đặt tên cho đến khi hồ sơ tích hợp [§4.1](#41-remedy-and-correction) của cùng phát hiện đã xác minh **mở** — nghĩa là tối thiểu các bên bị ảnh hưởng, biện pháp khắc phục nợ, bên chịu trách nhiệm, nguồn tài trợ, và ngày bắt đầu được nêu nhìn thẳng. Hoàn tất biện pháp khắc phục không đòi để khóa gắn; một hồ sơ biện pháp khắc phục đã mở thì có. Một khóa gắn mà không có hồ sơ biện pháp khắc phục đã mở là khuyết và phải được chữa hoặc thu hẹp về phạm vi bảo vệ tạm trên đồng hồ bậc [Chương Mười Một §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+**Tiền điều kiện biện pháp khắc phục đã mở.** Ngoài biện pháp bảo vệ tạm dưới [Chương Mười Một §5](core_11_forum.md#interim-protection) (*Bảo vệ tạm*), một khóa quỹ đạo chung dưới [§4.2](#42-general-standing-locks) không được gắn vào một đường dẫn được đặt tên cho đến khi hồ sơ tích hợp [§4.1](#41-remedy-and-correction) của cùng phát hiện đã xác minh **mở** — nghĩa là tối thiểu các bên bị ảnh hưởng, biện pháp khắc phục nợ, bên chịu trách nhiệm, nguồn tài trợ, và ngày bắt đầu được nêu nhìn thẳng. Hoàn tất biện pháp khắc phục không đòi để khóa gắn; một hồ sơ biện pháp khắc phục đã mở thì có. Một khóa gắn mà không có hồ sơ biện pháp khắc phục đã mở là khuyết và phải được chữa hoặc thu hẹp về phạm vi bảo vệ tạm trên đồng hồ bậc [Chương Mười Một §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
 **Cò ngang hàng biện pháp khắc phục.** Bên tiếp nhận phải công bố, cho mỗi kỳ và mỗi lớp khóa họ quản, số khóa chung cấp, biện pháp khắc phục đã bắt, biện pháp khắc phục đã xong, khôi phục đã quyết, và tái đánh giá đang treo. Nơi bắt biện pháp khắc phục hoặc rà soát khôi phục cho một lớp khóa vượt biên ngoài bậc Chương Mười Một §6:
 
 - khóa chung mới trong lớp đó mặc định **mở với bảo đảm** dưới [§7](#7-final-standing-effect) trừ khi hồ sơ tích hợp ghi một rủi ro hại không đảo ngược hoặc an toàn cụ thể đòi **bị khóa**;
 - khóa chung đang có trong lớp đó vào tái đánh giá bắt buộc dưới [§8](#8-restoration-and-reassessment) trên cùng đồng hồ bậc; và
-- thất năng lực được ghi như thất bền dưới [§9.2](#92-remedy-system-durability) và định tuyến dưới quy tắc thất năng lực [Chương Mười Một §3](../../core_11_forum.md#3-transfer-consolidation-and-coordination), ngoài họ hoặc hệ thống có năng lực đang hỏi.
+- thất năng lực được ghi như thất bền dưới [§9.2](#92-remedy-system-durability) và định tuyến dưới quy tắc thất năng lực [Chương Mười Một §3](core_11_forum.md#3-transfer-consolidation-and-coordination), ngoài họ hoặc hệ thống có năng lực đang hỏi.
 
 **Miễn.** Cò không nới khóa đặc biệt [§5.5](#55-special-locks), khóa gắn vào phát hiện ô Trục Vi phạm **7**, **8**, hoặc **9**, hay bảo đảm cưỡng hoặc hạn chế tự do dưới [§5.4](#54-special-violation-rules). Nộp đã xác minh là làm ngập đường tranh biện dưới [§10.10](#1010-contest-pathway-or-info-sphere-flooding) không đếm vào tồn đọng kích quy tắc này.
 
@@ -633,7 +633,7 @@ Mọi kết quả thanh và giấy phép phải được thiết kế sao hồ s
 
 **Liên tục mặc định.** Một khi giấy phép năng lực được cấp và đường dẫn được đặt tên bị ảnh hưởng mở, giấy phép ở hiệu mặc định. Đó không phải quyền vĩnh viễn. Thử lại đã công bố, đổi có trọng trong năng lực liên quan vai trò, khóa quỹ đạo áp dụng, hoặc cò tái đánh giá khác dưới mục này có thể mở lại, hạn, hoặc rút giấy phép.
 
-**Thử lại định kỳ.** Một số năng lực đòi thử lại định kỳ; số khác thì không. Đường dẫn được đặt tên nào đòi thử lại, thường đến mức nào, và bằng phương pháp nào do chuẩn đã công bố dưới [Miền diễn đàn kỹ thuật](../../core_11_forum.md#42-technical-forum-domains) đặt, kể cả diễn đàn kỹ thuật chuyên trong phạm vi hợp pháp của chúng. Những chuẩn đó phải tương xứng vai trò, kiểm được, và tranh biện được.
+**Thử lại định kỳ.** Một số năng lực đòi thử lại định kỳ; số khác thì không. Đường dẫn được đặt tên nào đòi thử lại, thường đến mức nào, và bằng phương pháp nào do chuẩn đã công bố dưới [Miền diễn đàn kỹ thuật](core_11_forum.md#42-technical-forum-domains) đặt, kể cả diễn đàn kỹ thuật chuyên trong phạm vi hợp pháp của chúng. Những chuẩn đó phải tương xứng vai trò, kiểm được, và tranh biện được.
 
 **Đổi năng lực có trọng.** Giấy phép cũng có thể được tái đánh giá khi sự kiện đã xác minh cho thấy đổi có trọng trong năng lực mà đường dẫn được đặt tên thực sự đòi — ví dụ mất vận động hoặc ngôn ngữ sau đột quỵ, hoặc tình trạng sức khỏe tâm thần làm suy phán đoán cần cho vai trò đó. Tái đánh giá phải nhắm năng lực liên quan vai trò đang đặt lên bàn, không phải khuyết tật hay trạng thái sức khỏe như vậy. Nó phải vẫn cần, tương xứng, mở cho rà soát, và nhất quán với sàn khả năng tiếp cận và chống phân biệt dưới Chương Năm và Sáu. Điều chỉnh, hỗ trợ, hoặc đường dẫn được đặt tên hẹp hơn phải được xét trước khi rút giấy phép nơi những lựa chọn đó sẽ giữ sẵn sàng an toàn.
 
@@ -696,7 +696,7 @@ Nó cũng phải lộ đầu vào, trọng, quy tắc, và đường rà soát �
     - một tạo tác tương đương;
   - chuyển một hiệu ứng sang một đường dẫn được đặt tên không sản nó; hoặc
   - suy độ đáng tin, giá trị, hoặc rủi ro chung từ tập hiệu ứng của một đối tượng.
-- **Ngoại lệ có biên:** [Diễn đàn toàn vẹn](../../core_11_forum.md#45-integrity-forums) xét tuyên chiếm hoặc mẫu, rà soát chỉ định [Chương Mười](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct), và look-through [§9.4](#94-anti-evasion-and-look-through-authority) có thể xem hồ sơ xuyên-đường, dưới quy tắc rút lui và đồng hồ [Chương Mười Một §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), chỉ cho vụ đó. Tham chiếu chéo [Chương Tám §3.2](core_08_standing_assessment.md#32-related-record-cross-references) giữa hồ sơ liên kết ở lại; chúng là liên kết hồ sơ, không phải tổ hợp.
+- **Ngoại lệ có biên:** [Diễn đàn toàn vẹn](core_11_forum.md#45-integrity-forums) xét tuyên chiếm hoặc mẫu, rà soát chỉ định [Chương Mười](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct), và look-through [§9.4](#94-anti-evasion-and-look-through-authority) có thể xem hồ sơ xuyên-đường, dưới quy tắc rút lui và đồng hồ [Chương Mười Một §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), chỉ cho vụ đó. Tham chiếu chéo [Chương Tám §3.2](core_08_standing_assessment.md#32-related-record-cross-references) giữa hồ sơ liên kết ở lại; chúng là liên kết hồ sơ, không phải tổ hợp.
 - **Trưng LEQU công:** Ô Trục Vi phạm và Trục Đóng góp không được công bố như thuộc tính chung của một hữu tri. Chúng xuất hiện trong hồ sơ, trong vụ diễn đàn, và trong công bố cho người gác cổng đường dẫn được đặt tên nơi ô là đầu vào hợp pháp cho đường dẫn được đặt tên đó.
 
 <a id="72-plain-statement-of-effect-and-burden"></a>
@@ -746,7 +746,7 @@ Lưu trữ không phải xóa. [Bảo toàn bằng chứng](core_05_band_oversig
 
 *Nói thẳng: hệ quả quỹ đạo và khắc phục chỉ đếm khi thể chế thật có thể giao chúng. Mục này là sàn hiến pháp cho máy đó. Quy tắc nhân sự, tài trợ, tồn đọng, và kế hàng ngày sống ở tầng thể chế.*
 
-Chương Chín nắm sàn hiến pháp rằng hệ quả Câu hỏi 3 và khắc phục liên quan phải thực về mặt thể chế. Một [Hệ thống biện pháp khắc phục](core_05_band_accountability.md#remedy-system-constitutional) là năng lực bền giao tranh biện, tiếp nhận, bảo toàn, rà soát, sửa chữa, giám sát, cưỡng bảo đảm, và rà soát khóa — không phải đường giấy. Chi tiết triển khai do [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Hệ thống biện pháp khắc phục và năng lực khắc phục thể chế*) nắm. Đọc cùng **Điều XII-B** (*Quyền tranh biện, rà soát, và khắc phục*) và [Chương Mười Một](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) cho giám sát diễn đàn.
+Chương Chín nắm sàn hiến pháp rằng hệ quả Câu hỏi 3 và khắc phục liên quan phải thực về mặt thể chế. Một [Hệ thống biện pháp khắc phục](core_05_band_accountability.md#remedy-system-constitutional) là năng lực bền giao tranh biện, tiếp nhận, bảo toàn, rà soát, sửa chữa, giám sát, cưỡng bảo đảm, và rà soát khóa — không phải đường giấy. Chi tiết triển khai do [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Hệ thống biện pháp khắc phục và năng lực khắc phục thể chế*) nắm. Đọc cùng **Điều XII-B** (*Quyền tranh biện, rà soát, và khắc phục*) và [Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) cho giám sát diễn đàn.
 
 Tích hợp quỹ đạo thất nếu hệ quả chỉ tồn trên giấy. Bên tiếp nhận phải giữ năng lực thực tiễn, kịp để triển khai sửa, tài trợ biện pháp khắc phục, rà soát hạn chế, bảo toàn hồ sơ, cưỡng bảo đảm, và ngăn thoát qua chi phí, trì hoãn, biên, tái cấu trúc, hoặc đổi danh tính hình thức.
 
@@ -796,7 +796,7 @@ Bảo vệ trẻ, cưỡng môi trường, quản trị phúc lợi, giám sát 
 - rà soát; và
 - cưỡng chế.
 
-Những hệ thống đó phải thỏa mốc bậc và cửa sổ giai đoạn chuỗi [Chương Mười Một §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). Chúng cũng phải thỏa chuẩn năng lực, đo lường, và mốc đã công bố dưới [Miền diễn đàn kỹ thuật](../../core_11_forum.md#42-technical-forum-domains). Diễn đàn kỹ thuật đặt và duy trì những chuẩn đó; chúng không phải hệ thống chỉ huy cho hệ thống biện pháp khắc phục hay thể chế. Trách nhiệm giải trình về nhân sự, tài trợ, tồn đọng, kế, và hiệu năng ở lại với họ diễn đàn [lợi hại chính](../../core_11_forum.md#2-default-venue-and-primary-stakes) — thường [Thể chế](../../core_11_forum.md#43-institutional-forums), hoặc [Toàn vẹn](../../core_11_forum.md#45-integrity-forums) nơi chiếm, thất quy trình, hoặc sụp thẳng hàng hệ thống là chính. Chi tiết triển khai thể chế cho năng lực hệ thống biện pháp khắc phục do [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Hệ thống biện pháp khắc phục và năng lực khắc phục thể chế*) nắm.
+Những hệ thống đó phải thỏa mốc bậc và cửa sổ giai đoạn chuỗi [Chương Mười Một §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). Chúng cũng phải thỏa chuẩn năng lực, đo lường, và mốc đã công bố dưới [Miền diễn đàn kỹ thuật](core_11_forum.md#42-technical-forum-domains). Diễn đàn kỹ thuật đặt và duy trì những chuẩn đó; chúng không phải hệ thống chỉ huy cho hệ thống biện pháp khắc phục hay thể chế. Trách nhiệm giải trình về nhân sự, tài trợ, tồn đọng, kế, và hiệu năng ở lại với họ diễn đàn [lợi hại chính](core_11_forum.md#2-default-venue-and-primary-stakes) — thường [Thể chế](core_11_forum.md#43-institutional-forums), hoặc [Toàn vẹn](core_11_forum.md#45-integrity-forums) nơi chiếm, thất quy trình, hoặc sụp thẳng hàng hệ thống là chính. Chi tiết triển khai thể chế cho năng lực hệ thống biện pháp khắc phục do [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Hệ thống biện pháp khắc phục và năng lực khắc phục thể chế*) nắm.
 
 Những cái sau vi phạm quy tắc này nơi chúng thấy trước làm rỗng tranh biện hoặc biện pháp khắc phục:
 
@@ -825,7 +825,7 @@ Diễn đàn và hệ thống triển khai phải có thể nhìn qua cấu trú
 <a id="95-timely-implementation"></a>
 #### 9.5 Triển khai kịp thời
 
-Bắt biện pháp khắc phục, mốc sửa, rà soát khóa, và tái đánh giá phải thỏa [Kịp thời](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Chương Mười Một §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), và **Điều XXIV-C** (*Giải quyết kịp thời và sàn chống trì hoãn*). Trì hoãn làm cộng hại, che không thực hiện, hoặc đánh bại rà soát là sự kiện mới đã xác minh cho Câu hỏi 3 và có thể biện minh bảo đảm leo thang mà không đổi ô Chương Tám gốc.
+Bắt biện pháp khắc phục, mốc sửa, rà soát khóa, và tái đánh giá phải thỏa [Kịp thời](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Chương Mười Một §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), và **Điều XXIV-C** (*Giải quyết kịp thời và sàn chống trì hoãn*). Trì hoãn làm cộng hại, che không thực hiện, hoặc đánh bại rà soát là sự kiện mới đã xác minh cho Câu hỏi 3 và có thể biện minh bảo đảm leo thang mà không đổi ô Chương Tám gốc.
 
 Quyền và hệ quả quỹ đạo chỉ thật khi hữu tri có thể viện chúng, xác minh chúng, tài trợ sửa chữa thực tiễn, nhận rà soát kịp, và cưỡng nghĩa vụ đối với các tác nhân chức năng chịu trách nhiệm.
 
@@ -845,7 +845,7 @@ Quyền và hệ quả quỹ đạo chỉ thật khi hữu tri có thể viện 
 
 *Nói thẳng: những mẫu này cho thấy hình biên Câu hỏi 3 lặp định tuyến qua các quy tắc đã nêu trên thế nào — chúng không bịa hệ quả mới hay loại khóa đặc biệt mới. Nơi một tín hiệu phản một họ tấn công Chương Mười §5, mục này trả lời phòng đường dẫn được đặt tên từ hồ sơ đã xác minh; Chương Mười riêng trả lời định tuyến tiêu chí chỉ định.*
 
-Các tiểu mục dưới cho thấy tình huống Câu hỏi 3 thường dùng các quy tắc đã nêu trong chương này thế nào. Chúng **không** bịa hệ quả mới, tạo loại khóa đặc biệt dưới [§5.5](#55-special-locks), tạo ngoại lệ đặc biệt, đổi một ô Chương Tám, lấy giám sát diễn đàn khỏi [Chương Mười Một](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction), hay lấy quyết định chỉ định khỏi [Chương Mười](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct). Người quyết theo thứ tự ở [§2](#2-integration-record-and-decision-order) và các mục mỗi mẫu đặt tên.
+Các tiểu mục dưới cho thấy tình huống Câu hỏi 3 thường dùng các quy tắc đã nêu trong chương này thế nào. Chúng **không** bịa hệ quả mới, tạo loại khóa đặc biệt dưới [§5.5](#55-special-locks), tạo ngoại lệ đặc biệt, đổi một ô Chương Tám, lấy giám sát diễn đàn khỏi [Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction), hay lấy quyết định chỉ định khỏi [Chương Mười](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct). Người quyết theo thứ tự ở [§2](#2-integration-record-and-decision-order) và các mục mỗi mẫu đặt tên.
 
 <a id="101-informal-ecological-stewardship-competency-clearance"></a>
 <a id="101-informal-ecological-stewardship-competency-gate"></a>
@@ -949,7 +949,7 @@ Các tiểu mục dưới cho thấy tình huống Câu hỏi 3 thường dùng 
   - [§4](#4-violation-correction-and-prevention) (*biện pháp khắc phục, sửa, và phòng*);
   - [§4.2](#42-general-standing-locks) (*khóa đường dẫn được đặt tên bảo vệ trên đường định tuyến, nộp, hạng, lối vào, hoặc ảnh hưởng bị lạm dụng*);
   - [§5.1](#51-definition-and-attachment) và [§5.2](#52-proportionality-and-calibration) (*phạm vi cần, tương xứng, rà soát được*); và
-  - [Chương Mười Một](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*phân loại tiếp nhận vận hành và chống chơi — giám sát mà không bịa hiệu ứng quỹ đạo*).
+  - [Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*phân loại tiếp nhận vận hành và chống chơi — giám sát mà không bịa hiệu ứng quỹ đạo*).
 - **Không thương lượng:** Tín hiệu này không tạo Khóa Làm ngập hay loại [§5.5](#55-special-locks) khác. Định tuyến tiêu chí phía chỉ định ở lại [Chương Mười §5.3](../../core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) và [§5.4](../../core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding). Khóa bảo vệ thường tiến từ hồ sơ cố định dù chỉ định sau có gắn hay không.
 
 <a id="1011-infrastructure-denial-or-dependency-cutoff"></a>

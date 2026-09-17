@@ -1,5 +1,3 @@
-<a id="flourishing-constitutional"></a>
-
 # CHAPTER FIVE DEFINITIONS: FLOURISHING
 
 <details>
@@ -25,6 +23,10 @@
 ---
 
 *In plain terms: protect and improve how well sentients actually live — truth, safety, trustworthiness, and a real ability to choose and act, kept together — not by chasing one of those as far as it will go while emptying out the others.*
+
+<a id="flourishing-constitutional"></a>
+
+#### Flourishing
 
 - O: Protect and improve sentient wellbeing — the constitutional aim this entry names.
   - **In scope:** judging systems against this aim using the Flourishing building blocks and measurement families listed in [Constitutional Aim decomposition](#flourishing-aim-decomposition).

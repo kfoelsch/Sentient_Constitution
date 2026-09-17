@@ -49,7 +49,7 @@
 - 下游：[§11.1.4 角色深度与实质责任路径](#1114-role-depth-and-material-responsibility-pathways)。
 - 下游：[§5 自由（有界能动性）](core_01_a_values_principles.md#5-freedom-bounded-agency)，它依赖于有后果尽责管理、分布式理解、有意义的参与与修复能力在实质依赖下保持真实。
 - 下游：[第七章 — 系统对齐认证](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)（*监督下一项特别大型的审计过程 — 不是唯一的审计家园*）；[第八章 — 贡献、违规与轨迹模型](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*轨迹效果 — 信任、角色与承认资格 — 以本分节为其原则层基础来实施*）。
-- 下游：[第十一章 §1 — 宗旨与角色](../../core_11_forum.md#1-purpose-and-role)与 [§4 — 评议所族系定义](../../core_11_forum.md#4-forum-family-definitions)（*评议所族系承载可质疑挑战、救济排序、根因学习，以及与本节对齐的主动治理的参与与监督架构*）；[corpus_forum.md](../../corpus_forum.md) 用于已采纳的评议所运营。
+- 下游：[第十一章 §1 — 宗旨与角色](core_11_forum.md#1-purpose-and-role)与 [§4 — 评议所族系定义](core_11_forum.md#4-forum-family-definitions)（*评议所族系承载可质疑挑战、救济排序、根因学习，以及与本节对齐的主动治理的参与与监督架构*）；[corpus_forum.md](../../corpus_forum.md) 用于已采纳的评议所运营。
 - 下游：塑造教育、受影响方的系统参与、透明、可理解性、审计与核验，以及通向实质责任的角色深度路径的权利面。
   - 尤其 [Article III：生存与平等教育通路](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access)、[Article VI：以感知者为中心的教育权](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)、[Article IX：自决与能动性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XI：受影响方的系统参与、代表与正当程序](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)、[Article XV：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XVIII：轨迹与参与地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)、[Article XIX：互操作、可携、流动、庇护与退出完整性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)、[Article XX：可理解性与复杂性尽责管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)，以及 [Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)。
   - 一并阅读：[第十二章 §5 — 获授权角色、能力发展与贡献](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution)以及 **[corpus_systems.md](../../corpus_systems.md)，CS-4 — 关键系统尽责管理**，用于操作性角色路径与尽责管理发展路径。
@@ -99,7 +99,7 @@
 
 <a id="when-day-to-day-stewardship-is-not-enough"></a>
 **当日常尽责管理不够时：**
-- **更大的争议：** 当感知者需要一条真实路径去挑战一项决定、一项清楚的修复顺序，或从重复模式中学习时，那项工作进入[第十一章 §1 — 宗旨与角色](../../core_11_forum.md#1-purpose-and-role)与 [§4 — 评议所族系定义](../../core_11_forum.md#4-forum-family-definitions)下的**评议所族系**。那些评议所如何运行的细则在 [corpus_forum.md](../../corpus_forum.md)。
+- **更大的争议：** 当感知者需要一条真实路径去挑战一项决定、一项清楚的修复顺序，或从重复模式中学习时，那项工作进入[第十一章 §1 — 宗旨与角色](core_11_forum.md#1-purpose-and-role)与 [§4 — 评议所族系定义](core_11_forum.md#4-forum-family-definitions)下的**评议所族系**。那些评议所如何运行的细则在 [corpus_forum.md](../../corpus_forum.md)。
 - **兜底，不是替代：** 审查与纠正仍属强制。它们不替代主动设计、角色路径、可观察性与修复能力 — 那些东西在伤害出现之前防止可预见的宪法错位。
 
 <a id="9-scope-priority-and-limits"></a>
@@ -638,7 +638,7 @@
 - 一并阅读：[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — **繁盛**宗旨（保全有意义能动性与合法参与的治理）；**延续**宗旨（持久机构对齐与长时域尽责管理纪律）。
 - 一并阅读：[§6.1.3 相称性](core_01_b_interaction_interpretation.md#613-proportionality)（*分类底线与治理不足纪律*）；[必要性](../../core_05_band_accountability.md#necessity)；[相称性](../../core_05_band_accountability.md#proportionality)；[问责](core_05_apex_accountability_leg.md#accountability)；[监督](core_05_apex_oversight_leg.md#oversight-constitutional)。
 - 上游：原则：[§9 尽责管理与分布式理解](#9-stewardship-and-distributed-understanding)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)。
-- 下游：[§10.2 职责分离](#102-segregation-of-duties)；[§10.3 持续正当化](#103-ongoing-justification)；[§11 激励对齐与系统俘获](#11-incentive-alignment-and-system-capture)；[第十二章](../../core_12_governance.md)（*宪法契约层*操作化）；[Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（*评议所成员披露、回避与反俘获底线*）；[第十一章](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*评议所族系监督*）。
+- 下游：[§10.2 职责分离](#102-segregation-of-duties)；[§10.3 持续正当化](#103-ongoing-justification)；[§11 激励对齐与系统俘获](#11-incentive-alignment-and-system-capture)；[第十二章](../../core_12_governance.md)（*宪法契约层*操作化）；[Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（*评议所成员披露、回避与反俘获底线*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*评议所族系监督*）。
 
 </details>
 
@@ -672,7 +672,7 @@
 
 - 职位、专长稀缺、人员需要或机构自我保护，不得稀释对本宪法的应答义务；
 - 行使解释或裁断权威的**宪法评议所成员与小组成员**尤其受本纪律约束；
-- 操作性披露、回避、反俘获与独立审查底线住在 [Article XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（*宪法解释、审查与反俘获保障*）与[第十一章](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)，而不是此处。
+- 操作性披露、回避、反俘获与独立审查底线住在 [Article XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（*宪法解释、审查与反俘获保障*）与[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)，而不是此处。
 
 **必要，但不足够。** 当下列任何一项会削弱持久宪法对齐、[**延续**](core_00_preamble.md#continuity)、[**繁盛**](core_00_preamble.md#flourishing)或权利底线完整性时，治理必须让位于**尽责管理**（[§9](#9-stewardship-and-distributed-understanding)）：
 
@@ -691,7 +691,7 @@
 - 上游：[§10.1 作为获授权结构的治理](#101-governance-as-authorized-structure)；[§10 尽责管理纪律下的治理](#10-governance-under-stewardship-discipline)；[§9.1.1 共享尽责管理标准](#911-shared-stewardship-standard)（*人类与 AI 尽责管理者同一席位*）。
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — **监督**腿（核验者不是行动者）；**问责**腿（应答义务不能塌缩到行动者身上）；[相称性](../../core_05_band_accountability.md#proportionality)下的[实质利害](core_00_preamble.md#material-stake)缩放。
 - 一并阅读：[§11.3 错位检测](#113-misalignment-detection)（*多元检测与审查 — 本对中的多眼一半*）。
-- 下游：**[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)**（*问责：分布式与相称权威用语 — 宪法通道与功能分离*）以及 **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)**（*功能分离通道*）用于机构；**[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)**（*席位目录*）用于每份采纳方角色图所实例化的席位类型 — 这四种以及反复出现的收容、参与条款、释放控制与方向席位；[第八章 §3.7](../../core_08_standing_assessment.md#37-segregation-of-duties) 用于轨迹记录；[Article XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)与[第十一章](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)用于评议所；[CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) 用于混合人类/AI 团队。
+- 下游：**[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)**（*问责：分布式与相称权威用语 — 宪法通道与功能分离*）以及 **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)**（*功能分离通道*）用于机构；**[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)**（*席位目录*）用于每份采纳方角色图所实例化的席位类型 — 这四种以及反复出现的收容、参与条款、释放控制与方向席位；[第八章 §3.7](../../core_08_standing_assessment.md#37-segregation-of-duties) 用于轨迹记录；[Article XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)与[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)用于评议所；[CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) 用于混合人类/AI 团队。
 
 </details>
 

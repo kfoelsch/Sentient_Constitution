@@ -84,7 +84,7 @@
 
 *쉬운 말로: 먼저 문제와 이해관계를 이름 붙이고, 맞는 측정 범주를 고르고, 편한 숫자가 아니라 공유 기술 표준을 증거로 쓰십시오.*
 
-헌법이 구체 측정 규칙을 요구할 때, [제11장](../../core_11_forum.md#42-technical-forum-domains) 아래 **기술 포럼 영역**이 공유 표준을 만들고 유지한다 — 어떻게 측정하고, 어떻게 시험하고, 무엇이 믿을 증거인가. 주어진 다툼을 맡은 포럼은 그다음 [제11장 §4.2](../../core_11_forum.md#42-shared-standards-and-anti-displacement) 아래에서 그 사건을 결정할 때 그 표준을 적용한다.
+헌법이 구체 측정 규칙을 요구할 때, [제11장](core_11_forum.md#42-technical-forum-domains) 아래 **기술 포럼 영역**이 공유 표준을 만들고 유지한다 — 어떻게 측정하고, 어떻게 시험하고, 무엇이 믿을 증거인가. 주어진 다툼을 맡은 포럼은 그다음 [제11장 §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement) 아래에서 그 사건을 결정할 때 그 표준을 적용한다.
 
 헌법상 책임 있는 관리는 문제와 [**실질 이해관계**](#material-stake)를 이름 붙이는 데서 시작한다 — 얼마나 많은 영향, 의존, 위험이 걸려 있는가. 다음으로 [개관](#2-the-measurements)에서 관련 [**측정**](#2-the-measurements) 범주와 하위범주를 고르고, 위의 표준을 적용해 편한 지표가 아니라 실제 세계 효과를 시험한다. 추적 가능한 증거를 요구하라.
 
@@ -98,7 +98,7 @@
 - **체계 정합 인증** ([제7장](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)) — 고영향 체계를 규모로 믿기 전에, 지금 그것에 기대는 것이 헌법상 안전한지에 대한 증거를 모아 검토하라
 - **궤적 기록** ([제8장](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)) — 행위나 해가 헌법상 중요할 때, 확인된 사실을 기여 또는 위반의 정식 사건 철에 넣으라; 소문과 평판으로는 부족하다
 - **교정과 구제** ([제9장 §4.1](../../core_09_standing_integration.md#41-remedy-and-correction)) — 밑바닥 실패를 고치고, 해를 입은 이에게 비례하는 인정, 수리, 회복, 보상을 제공하라
-- **포럼 검토** ([제11장](../../core_11_forum.md#1-purpose-and-role))
+- **포럼 검토** ([제11장](core_11_forum.md#1-purpose-and-role))
   - 이미 수권된 체계 안의 보통 다툼은 먼저 [영향받는 쪽의 체계 참여](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)의 공표된 다툼 경로를 쓴다
   - 그 경로가 여전히 다투어지거나, 없거나, 포획되었거나, 구제를 줄 수 없으면, 일차 이해관계에 따라 감독받는 포럼으로 라우팅하라
   - 그 포럼들은 **제 XXIV-C조**(*제때 해결과 지연 금지 바닥*) 아래에서 증거, 적법한 이송, 제때 시계를 받친다
@@ -115,7 +115,7 @@
 
 이 층들은 실무에서 겹칠 수 있다. 그 겹침이 그것들을 하나로 무너뜨리지는 않는다. 이미 수권된 체계에서 영향받는 쪽 층의 참여는 헌법 수권의 대체가 아니다. 공표된 다툼 경로, 참여 투표, 신뢰 점수는 그것만으로 누가 통치할 수 있는지를 결정하지 않는다.
 
-그 층 아래의 다툴 수 있음은 이미 수권된 체계 안 보통 다툼의 보통 첫 걸음이다. 영향받는 감지자는 먼저 공표된 다툼 경로를 쓴다. 독립 [포럼 검토](../../core_11_forum.md#1-purpose-and-role)는 그 경로의 대체가 아니다. 그 경로가 여전히 다투어지거나, 없거나, 포획되었거나, 필요한 구제를 줄 수 없을 때, 그 경로 또한 포럼 검토의 대체가 아니다. 제11장 아래 [다툼 순서](../../core_11_forum.md#dispute-sequencing)는 포럼 라우팅이 언제 이어받는지를 말한다.
+그 층 아래의 다툴 수 있음은 이미 수권된 체계 안 보통 다툼의 보통 첫 걸음이다. 영향받는 감지자는 먼저 공표된 다툼 경로를 쓴다. 독립 [포럼 검토](core_11_forum.md#1-purpose-and-role)는 그 경로의 대체가 아니다. 그 경로가 여전히 다투어지거나, 없거나, 포획되었거나, 필요한 구제를 줄 수 없을 때, 그 경로 또한 포럼 검토의 대체가 아니다. 제11장 아래 [다툼 순서](core_11_forum.md#dispute-sequencing)는 포럼 라우팅이 언제 이어받는지를 말한다.
 
 헌법 수권은 [영향받는 쪽의 체계 참여](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) 층 아래 마땅한 의무를 지우지도 않는다. 그 의무는 여전히 참여, 대표, [다툴 수 있음](../../core_05_band_accountability.md#contestability), [적법절차](../../core_05_band_accountability.md#due-process-constitutional)를 포함하며, 이미 수권된 체계, 제도, 한정된 결정 영역에 실질적으로 영향받는 감지자에게 적용된다.
 
@@ -203,10 +203,10 @@
 - **맡은 일:** 가장 심각한 확인된 위반만 다룬다 — 규모에서 헌법 의무를 포획했거나 비웠을 수 있는 행위. 제8장이 이미 최고영향 위반 인정을 기록했고, 반헌법 부당행위가 실질로 주장될 때, 이 장은 지정 검토를 제9장 문턱 궤도로 돌려, 제9장의 보통 궤적 효과와 나란히 한다.
 - **산출:** 그 기존 최고영향 인정에 대한 최종 반헌법 부당행위 지정 — 또는 기각 — 요구된 기준과 적법절차 안전장치가 충족된 뒤에만. 제8장은 해가 얼마나 심각했는지를 계속 측정한다; 최종 지정만이 제9장의 **반헌법 신뢰 잠금**을 발동한다.
 
-**포럼 감독과 라우팅** ([제11장](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction))
+**포럼 감독과 라우팅** ([제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction))
 
 - **맡은 일:** 다툼과 인증 사항이 실제로 어떻게 움직이는지를 감독한다.
-  - 공표된 영향받는 쪽의 체계 참여 다툼 경로에서 포럼 라우팅으로의 [다툼 순서](../../core_11_forum.md#dispute-sequencing)
+  - 공표된 영향받는 쪽의 체계 참여 다툼 경로에서 포럼 라우팅으로의 [다툼 순서](core_11_forum.md#dispute-sequencing)
   - 어느 포럼 가족이 다루는가, 사건이 보통 어디서 시작하는가
   - 증거가 어떻게 받쳐지는가
   - 사항이 어떻게 이송되거나 병합되는가
@@ -225,7 +225,7 @@
    - **위반 성질:** **위반 궤적 기록**을 열어라 — 확인된 해와 책무 실패의 한정되고 다툴 수 있는 사건 철 — 그리고 위반 축에서 **위반 성질**을 분류하라. 좋음과 해는 하나의 순점수로 접히지 않는다; 연결된 기록은 교차 참조하되 따로 남는다.
 3. **각 궤도에서 궤적 효과를 적용하라** ([제9장](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)) — 확인된 기여는 역량 허가를 주고 비례 인정과 실질 보상을 받칠 수 있다; 확인된 위반은 궤적 잠금, 교정, [해를 입은 이를 위한 구제](../../core_09_standing_integration.md#41-remedy-and-correction)를 발동할 수 있다.
 4. **반헌법 지정 검토** ([제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)) — 최고영향 위반 인정이 반헌법 기준도 충족할 수 있으면, 제10장은 해당 지정이 붙는지를 결정한다. 지정은 제8장이 이미 인정한 해의 심각도를 바꾸지 않는다; 제9장 보통 효과는 최종 지정이 반헌법 신뢰 잠금을 발동할 때까지 나란히 계속된다.
-5. **다툼을 라우팅하고 구제를 제때 유지하라** ([제11장](../../core_11_forum.md#1-purpose-and-role)) — 포럼들은 사건이 어떻게 움직이는지, 어느 궤도가 다루는지, **제 XXIV-C조**(*제때 해결과 지연 금지 바닥*) 아래 시계가 충족되는지를 감독해 구제가 지연 속에 죽지 않게 한다. 보통 다툼은 [다툼 순서](../../core_11_forum.md#dispute-sequencing)를 따른다. 포럼들은 또한 다툼을 다섯 [실질성 층](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)(A/B/C/L/P)으로 분류한다 — 체계 분류 알파벳을 거울로 — 생존 위급부터 사적/한정된 사항까지 — 제10장 최종 지정이 일차 이해관계일 때 청렴 가족 기본 라우팅이 적용된다.
+5. **다툼을 라우팅하고 구제를 제때 유지하라** ([제11장](core_11_forum.md#1-purpose-and-role)) — 포럼들은 사건이 어떻게 움직이는지, 어느 궤도가 다루는지, **제 XXIV-C조**(*제때 해결과 지연 금지 바닥*) 아래 시계가 충족되는지를 감독해 구제가 지연 속에 죽지 않게 한다. 보통 다툼은 [다툼 순서](core_11_forum.md#dispute-sequencing)를 따른다. 포럼들은 또한 다툼을 다섯 [실질성 층](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)(A/B/C/L/P)으로 분류한다 — 체계 분류 알파벳을 거울로 — 생존 위급부터 사적/한정된 사항까지 — 제10장 최종 지정이 일차 이해관계일 때 청렴 가족 기본 라우팅이 적용된다.
 
 [README 궤적 사슬 지도](../../README.md#standing-pipeline-and-forums)는 위 사슬의 직접 항해를 제공한다, 제7장이 궤적 측정으로 넣을 수 있는 확인된 입력을 포함한다.
 

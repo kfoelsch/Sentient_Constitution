@@ -84,7 +84,7 @@ Hiểu biết phân tán và quản trị có trách nhiệm đòi các hữu tr
 
 *Nói thẳng: hãy gọi tên vấn đề và lợi hại trước, chọn nhóm đo lường khớp, và dùng các chuẩn kỹ thuật chung — không phải con số tiện — làm bằng chứng.*
 
-Khi Hiến pháp đòi các quy tắc đo lường cụ thể, các **Lĩnh vực Diễn đàn Kỹ thuật** dưới [Chương Mười Một](../../core_11_forum.md#42-technical-forum-domains) xây và giữ các chuẩn chung — cách đo, cách thử, và cái gì được tính là bằng chứng đáng tin. Diễn đàn chịu trách nhiệm cho một tranh chấp rồi áp dụng những chuẩn đó khi quyết vụ đó dưới [Chương Mười Một §4.2](../../core_11_forum.md#42-shared-standards-and-anti-displacement).
+Khi Hiến pháp đòi các quy tắc đo lường cụ thể, các **Lĩnh vực Diễn đàn Kỹ thuật** dưới [Chương Mười Một](core_11_forum.md#42-technical-forum-domains) xây và giữ các chuẩn chung — cách đo, cách thử, và cái gì được tính là bằng chứng đáng tin. Diễn đàn chịu trách nhiệm cho một tranh chấp rồi áp dụng những chuẩn đó khi quyết vụ đó dưới [Chương Mười Một §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement).
 
 Quản trị có trách nhiệm hiến pháp bắt đầu bằng việc gọi tên vấn đề và [**lợi hại vật chất**](#material-stake) — mức tác động, phụ thuộc, và rủi ro liên quan. Tiếp theo, chọn nhóm và nhóm con [**đo lường**](#2-the-measurements) thích hợp từ [tổng quan](#2-the-measurements) và áp dụng các chuẩn trên để thử hiệu ứng đời thực thay vì chỉ số tiện. Đòi bằng chứng truy được.
 
@@ -98,7 +98,7 @@ Nơi Chương Sáu, [Chương Bảy](../../core_07_a_system_alignment_certificat
 - **Chứng nhận thẳng hàng hệ thống** ([Chương Bảy](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)) — trước khi tin một hệ thống tác động cao ở quy mô lớn, thu và rà soát bằng chứng về việc hiện giờ có an toàn hiến pháp để dựa vào nó không
 - **Hồ sơ quỹ đạo** ([Chương Tám](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)) — khi hành vi hoặc hại có ý nghĩa hiến pháp, đặt sự kiện đã xác minh vào hồ sơ vụ đóng góp hoặc vi phạm chính thức; tin đồn và danh tiếng không đủ
 - **Sửa chữa và khắc phục** ([Chương Chín §4.1](../../core_09_standing_integration.md#41-remedy-and-correction)) — sửa hỏng nền và cung cấp ghi nhận, sửa chữa, phục hồi, hoặc bồi thường tương xứng cho những ai bị hại
-- **Rà soát diễn đàn** ([Chương Mười Một](../../core_11_forum.md#1-purpose-and-role))
+- **Rà soát diễn đàn** ([Chương Mười Một](core_11_forum.md#1-purpose-and-role))
   - Tranh chấp thường bên trong hệ thống đã được ủy quyền dùng đường dẫn tranh biện đã công bố của [Tham gia hệ thống của bên bị ảnh hưởng](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) trước
   - Nếu đường dẫn đó vẫn bị tranh, thiếu, bị chiếm, hoặc không thể cấp cứu trợ, định tuyến theo lợi hại chính qua các diễn đàn được giám sát
   - Những diễn đàn đó nâng đỡ bằng chứng, chuyển hợp pháp, và đồng hồ kịp thời dưới **Điều XXIV-C** (*Sàn Giải quyết kịp thời và Chống trì hoãn*)
@@ -115,7 +115,7 @@ Quản trị để làm tròn [**Tứ diện Hiến pháp**](#constitutional-tet
 
 Các tầng này có thể chồng trong thực tế. Sự chồng đó không gộp chúng thành một. Tham gia cấp bên bị ảnh hưởng trong hệ thống đã được ủy quyền không thay cho ủy quyền hiến pháp. Một đường dẫn tranh biện đã công bố, một phiếu tham gia, hay một điểm tin cậy không tự quyết ai được quản trị.
 
-Khả năng tranh biện dưới tầng đó là bước thường đầu tiên cho tranh chấp thường bên trong hệ thống đã được ủy quyền. Các hữu tri bị ảnh hưởng dùng đường dẫn tranh biện đã công bố trước. [Rà soát diễn đàn](../../core_11_forum.md#1-purpose-and-role) độc lập không thay cho đường dẫn đó. Đường dẫn đó cũng không thay cho rà soát diễn đàn khi nó vẫn bị tranh, thiếu, bị chiếm, hoặc không thể cấp cứu trợ cần thiết. [Trình tự tranh chấp](../../core_11_forum.md#dispute-sequencing) dưới Chương Mười Một nêu khi định tuyến diễn đàn tiếp quản.
+Khả năng tranh biện dưới tầng đó là bước thường đầu tiên cho tranh chấp thường bên trong hệ thống đã được ủy quyền. Các hữu tri bị ảnh hưởng dùng đường dẫn tranh biện đã công bố trước. [Rà soát diễn đàn](core_11_forum.md#1-purpose-and-role) độc lập không thay cho đường dẫn đó. Đường dẫn đó cũng không thay cho rà soát diễn đàn khi nó vẫn bị tranh, thiếu, bị chiếm, hoặc không thể cấp cứu trợ cần thiết. [Trình tự tranh chấp](core_11_forum.md#dispute-sequencing) dưới Chương Mười Một nêu khi định tuyến diễn đàn tiếp quản.
 
 Ủy quyền hiến pháp cũng không xóa các nghĩa vụ dưới tầng [Tham gia hệ thống của bên bị ảnh hưởng](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster). Những nghĩa vụ đó vẫn gồm tham gia, đại diện, [khả năng tranh biện](../../core_05_band_accountability.md#contestability), và [thủ tục đúng đắn](../../core_05_band_accountability.md#due-process-constitutional) cho các hữu tri bị hệ thống, thể chế, và lĩnh vực quyết định có giới hạn đã được ủy quyền tác động vật chất.
 
@@ -203,10 +203,10 @@ Mỗi bước dưới đây nêu chương nắm gì và tạo ra gì. [Chuỗi �
 - **Nội dung nắm giữ:** Chỉ xử các vi phạm đã xác minh nghiêm nhất — hành vi có thể đã chiếm hoặc làm rỗng nghĩa vụ hiến pháp ở quy mô lớn. Khi Chương Tám đã ghi một phát hiện vi phạm tác động cao nhất, và hành vi sai phản hiến pháp bị cáo buộc có trọng, chương này chạy rà soát chỉ định như một đường cổng Chương Chín song song với hiệu ứng quỹ đạo thường của Chương Chín.
 - **Nội dung tạo ra:** Một chỉ định hành vi sai phản hiến pháp cuối — hoặc từ chối — cho phát hiện tác động cao nhất hiện có đó, chỉ sau khi các tiêu chí đòi hỏi và các bảo vệ thủ tục đúng đắn được thỏa. Chương Tám vẫn đo hại nghiêm đến đâu; chỉ một chỉ định cuối kích hoạt **Khóa Tin cậy Phản Hiến pháp** của Chương Chín.
 
-**Giám sát diễn đàn và định tuyến** ([Chương Mười Một](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction))
+**Giám sát diễn đàn và định tuyến** ([Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction))
 
 - **Nội dung nắm giữ:** Giám sát cách tranh chấp và việc chứng nhận thực sự di chuyển.
-  - [Trình tự tranh chấp](../../core_11_forum.md#dispute-sequencing) từ đường dẫn tranh biện đã công bố của Tham gia hệ thống của bên bị ảnh hưởng tới định tuyến diễn đàn
+  - [Trình tự tranh chấp](core_11_forum.md#dispute-sequencing) từ đường dẫn tranh biện đã công bố của Tham gia hệ thống của bên bị ảnh hưởng tới định tuyến diễn đàn
   - Họ diễn đàn nào xử chúng, và một vụ thường bắt đầu ở đâu
   - Cách bằng chứng được nâng đỡ
   - Cách việc được chuyển hoặc gộp
@@ -225,7 +225,7 @@ Mỗi bước dưới đây nêu chương nắm gì và tạo ra gì. [Chuỗi �
    - **Bản chất vi phạm:** Mở một **hồ sơ quỹ đạo vi phạm** — hồ sơ vụ có giới hạn, tranh biện được về hại đã xác minh và thất bại trách nhiệm giải trình — và phân loại **bản chất vi phạm** trên Trục Vi phạm. Tốt và hại không bao giờ gộp thành một điểm ròng; hồ sơ liên kết đối chiếu nhưng giữ riêng.
 3. **Áp hiệu ứng quỹ đạo trên mỗi đường** ([Chương Chín](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)) — đóng góp đã xác minh có thể cấp giấy thông hành năng lực và nâng đỡ ghi nhận tương xứng cùng thưởng vật chất; vi phạm đã xác minh có thể kích hoạt khóa quỹ đạo, sửa chữa, và [khắc phục cho những ai bị hại](../../core_09_standing_integration.md#41-remedy-and-correction).
 4. **Rà soát chỉ định phản hiến pháp** ([Chương Mười](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)) — nếu một phát hiện vi phạm tác động cao nhất cũng có thể thỏa tiêu chí phản hiến pháp, Chương Mười quyết chỉ định tương ứng có gắn không. Chỉ định không đổi mức nghiêm mà Chương Tám đã tìm thấy; hiệu ứng thường Chương Chín tiếp tục song song cho đến khi một chỉ định cuối kích hoạt Khóa Tin cậy Phản Hiến pháp.
-5. **Định tuyến tranh chấp và giữ khắc phục kịp thời** ([Chương Mười Một](../../core_11_forum.md#1-purpose-and-role)) — các diễn đàn giám sát cách vụ di chuyển, đường nào xử chúng, và liệu đồng hồ dưới **Điều XXIV-C** (*Sàn Giải quyết kịp thời và Chống trì hoãn*) có được thỏa để khắc phục không chết trong trì hoãn. Tranh chấp thường theo [Trình tự tranh chấp](../../core_11_forum.md#dispute-sequencing). Các diễn đàn cũng phân loại tranh chấp thành năm [bậc trọng yếu](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) soi bảng chữ phân loại hệ thống — từ khẩn cấp sống còn đến việc tư/kín — và định tuyến mặc định họ Toàn vẹn áp dụng khi chỉ định cuối Chương Mười là lợi hại chính.
+5. **Định tuyến tranh chấp và giữ khắc phục kịp thời** ([Chương Mười Một](core_11_forum.md#1-purpose-and-role)) — các diễn đàn giám sát cách vụ di chuyển, đường nào xử chúng, và liệu đồng hồ dưới **Điều XXIV-C** (*Sàn Giải quyết kịp thời và Chống trì hoãn*) có được thỏa để khắc phục không chết trong trì hoãn. Tranh chấp thường theo [Trình tự tranh chấp](core_11_forum.md#dispute-sequencing). Các diễn đàn cũng phân loại tranh chấp thành năm [bậc trọng yếu](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) soi bảng chữ phân loại hệ thống — từ khẩn cấp sống còn đến việc tư/kín — và định tuyến mặc định họ Toàn vẹn áp dụng khi chỉ định cuối Chương Mười là lợi hại chính.
 
 [Bản đồ chuỗi quỹ đạo của README](../../README.md#standing-pipeline-and-forums) cung cấp điều hướng trực tiếp cho chuỗi trên, kể cả các đầu vào đã xác minh tiềm năng của Chương Bảy vào đo lường quỹ đạo.
 

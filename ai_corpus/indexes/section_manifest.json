@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-17T16:57:20+00:00",
+  "generated_at": "2026-09-17T13:14:44+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 291,
@@ -1095,13 +1095,13 @@
       ]
     },
     "core_05__definitions_home.md": {
-      "total_lines": 425,
+      "total_lines": 427,
       "sections": [
         {
           "header": "CHAPTER FIVE: FOUNDATIONAL DEFINITIONS",
           "level": 1,
           "line_start": 2,
-          "line_end": 425,
+          "line_end": 427,
           "anchor": "#chapter-five-foundational-definitions"
         },
         {
@@ -1150,61 +1150,68 @@
           "header": "Chapter Five alphabetical directory (non-operative)",
           "level": 3,
           "line_start": 88,
-          "line_end": 359,
+          "line_end": 361,
           "anchor": "#chapter-five-alphabetical-directory"
         },
         {
           "header": "Definitions A-Z",
           "level": 4,
-          "line_start": 106,
-          "line_end": 335,
+          "line_start": 108,
+          "line_end": 337,
           "anchor": "#definitions-a-z"
         },
         {
           "header": "Clusters A-Z",
           "level": 4,
-          "line_start": 336,
-          "line_end": 359,
+          "line_start": 338,
+          "line_end": 361,
           "anchor": "#clusters-a-z"
         },
         {
           "header": "Chapter Five compass and definition map",
           "level": 3,
-          "line_start": 360,
-          "line_end": 391,
+          "line_start": 362,
+          "line_end": 393,
           "anchor": "#chapter-five-compass-and-definition-map"
         },
         {
           "header": "Measurement crosswalk (reader guidance)",
           "level": 3,
-          "line_start": 392,
-          "line_end": 425,
+          "line_start": 394,
+          "line_end": 427,
           "anchor": null
         }
       ]
     },
     "core_05_apex_accountability_leg.md": {
-      "total_lines": 112,
+      "total_lines": 114,
       "sections": [
         {
           "header": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
           "level": 1,
-          "line_start": 3,
-          "line_end": 112,
+          "line_start": 1,
+          "line_end": 114,
+          "anchor": null
+        },
+        {
+          "header": "Accountability",
+          "level": 4,
+          "line_start": 30,
+          "line_end": 53,
           "anchor": "#accountability"
         },
         {
           "header": "Tetrad Leg decomposition",
           "level": 3,
-          "line_start": 52,
-          "line_end": 72,
+          "line_start": 54,
+          "line_end": 74,
           "anchor": "#accountability-leg-decomposition"
         },
         {
           "header": "Measuring Accountability",
           "level": 3,
-          "line_start": 73,
-          "line_end": 112,
+          "line_start": 75,
+          "line_end": 114,
           "anchor": "#accountability-measurement-family"
         }
       ]
@@ -1236,105 +1243,133 @@
       ]
     },
     "core_05_apex_flourishing_aim.md": {
-      "total_lines": 113,
+      "total_lines": 115,
       "sections": [
         {
           "header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
           "level": 1,
-          "line_start": 3,
-          "line_end": 113,
+          "line_start": 1,
+          "line_end": 115,
+          "anchor": null
+        },
+        {
+          "header": "Flourishing",
+          "level": 4,
+          "line_start": 29,
+          "line_end": 58,
           "anchor": "#flourishing-constitutional"
         },
         {
           "header": "Constitutional Aim decomposition",
           "level": 3,
-          "line_start": 57,
-          "line_end": 84,
+          "line_start": 59,
+          "line_end": 86,
           "anchor": "#flourishing-aim-decomposition"
         },
         {
           "header": "Measuring Flourishing (Preamble measurement family)",
           "level": 3,
-          "line_start": 85,
-          "line_end": 113,
+          "line_start": 87,
+          "line_end": 115,
           "anchor": "#flourishing-measurement-family"
         }
       ]
     },
     "core_05_apex_oversight_leg.md": {
-      "total_lines": 116,
+      "total_lines": 118,
       "sections": [
         {
           "header": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
           "level": 1,
-          "line_start": 3,
-          "line_end": 116,
+          "line_start": 1,
+          "line_end": 118,
+          "anchor": null
+        },
+        {
+          "header": "Oversight",
+          "level": 4,
+          "line_start": 30,
+          "line_end": 67,
           "anchor": "#oversight-constitutional"
         },
         {
           "header": "Tetrad Leg decomposition",
           "level": 3,
-          "line_start": 66,
-          "line_end": 87,
+          "line_start": 68,
+          "line_end": 89,
           "anchor": "#oversight-leg-decomposition"
         },
         {
           "header": "Measuring Oversight (Preamble measurement family)",
           "level": 3,
-          "line_start": 88,
-          "line_end": 116,
+          "line_start": 90,
+          "line_end": 118,
           "anchor": "#oversight-measurement-family"
         }
       ]
     },
     "core_05_apex_participation_leg.md": {
-      "total_lines": 117,
+      "total_lines": 119,
       "sections": [
         {
           "header": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
           "level": 1,
-          "line_start": 3,
-          "line_end": 117,
+          "line_start": 1,
+          "line_end": 119,
+          "anchor": null
+        },
+        {
+          "header": "Participation",
+          "level": 4,
+          "line_start": 29,
+          "line_end": 68,
           "anchor": "#participation-constitutional"
         },
         {
           "header": "Tetrad Leg decomposition",
           "level": 3,
-          "line_start": 67,
-          "line_end": 89,
+          "line_start": 69,
+          "line_end": 91,
           "anchor": "#participation-leg-decomposition"
         },
         {
           "header": "Measuring Participation (Preamble measurement family)",
           "level": 3,
-          "line_start": 90,
-          "line_end": 117,
+          "line_start": 92,
+          "line_end": 119,
           "anchor": "#participation-measurement-family"
         }
       ]
     },
     "core_05_apex_timeliness_leg.md": {
-      "total_lines": 112,
+      "total_lines": 114,
       "sections": [
         {
           "header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
           "level": 1,
-          "line_start": 3,
-          "line_end": 112,
+          "line_start": 1,
+          "line_end": 114,
+          "anchor": null
+        },
+        {
+          "header": "Timeliness",
+          "level": 4,
+          "line_start": 29,
+          "line_end": 65,
           "anchor": "#timeliness-constitutional"
         },
         {
           "header": "Tetrad Leg decomposition",
           "level": 3,
-          "line_start": 64,
-          "line_end": 82,
+          "line_start": 66,
+          "line_end": 84,
           "anchor": "#timeliness-leg-decomposition"
         },
         {
           "header": "Measuring Timeliness",
           "level": 3,
-          "line_start": 83,
-          "line_end": 112,
+          "line_start": 85,
+          "line_end": 114,
           "anchor": "#timeliness-measurement-family"
         }
       ]

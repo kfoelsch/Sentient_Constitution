@@ -380,7 +380,7 @@
 - 하류: [4. 신뢰](#4-system-stability-enabler-trust-coordination-integrity), [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6.2 인식 공개 제약](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), [제7장 §3 전체 체계 인증 평가](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§10 책임 있는 관리 규율 아래 거버넌스](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - 하류: 믿을 경험 증거, 전문가 증거 표준, 과학 출판과 재현 완전성, 독립 확인, 수명주기 시험, 근본원인 검토, 안전 민감 공개의 권리 면을 빚는다.
   - 특히 [제 XII조: 믿을 수 있고 신뢰할 체계에 대한 권리](../../core_06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems), [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [제 XVII-E조: 과학 출판, 검토, 재현 완전성](../../core_06_rights_part_c.md#article-xvii-e-scientific-publication-review-and-replication-integrity), [제 XXI조: 근본원인 분석과 적응 응답](../../core_06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response), [제 XXIV-A조: 회고 검토와 공개](../../core_06_rights_part_d.md#article-xxiv-a-retrospective-review-and-disclosure).
-- 함께 읽기: 전문가 증거 표준, 인증된 기술 질문, 증거 책임 있는 관리 다툼이 실질인 곳에서 [제11장 §4.2 — 기술 포럼 영역](../../core_11_forum.md#42-technical-forum-domains)(*공유 표준과 자리 옮김 금지를 포함*); 채택된 전문 경로를 위해 [corpus_forum.md CF-10](../../corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md).
+- 함께 읽기: 전문가 증거 표준, 인증된 기술 질문, 증거 책임 있는 관리 다툼이 실질인 곳에서 [제11장 §4.2 — 기술 포럼 영역](core_11_forum.md#42-technical-forum-domains)(*공유 표준과 자리 옮김 금지를 포함*); 채택된 전문 경로를 위해 [corpus_forum.md CF-10](../../corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md).
 
 </details>
 
@@ -413,7 +413,7 @@
 
 과학 방법, 체계적 탐구, 동료 검토는 표준을 정한다 — 그러나 그것만이 받아들일 절차는 아니다. 얼마나 많은 형식이 필요한지는 이해관계에 달렸다: 더 높은 영향의 결정은 더 엄격한 증거 관행이 필요하며, [분류에 맞춰 세기 조절된 거버넌스](../../core_05_band_oversight.md#classification-scaled-governance)가 다스린다.
 
-전문가 증거 표준, 방법, 증거 책임 있는 관리 다툼이 포럼 해결을 요구하는 곳에서, 라우팅은 [제11장 §4.2](../../core_11_forum.md#42-technical-forum-domains) 아래 **기술 포럼 영역**을 따른다. 기술 포럼들은 가족 사이 표준을 유지하고, 다른 곳의 일차 이해관계 라우팅을 밀어내지 않고 인증된 구성 질문에 답할 수 있다.
+전문가 증거 표준, 방법, 증거 책임 있는 관리 다툼이 포럼 해결을 요구하는 곳에서, 라우팅은 [제11장 §4.2](core_11_forum.md#42-technical-forum-domains) 아래 **기술 포럼 영역**을 따른다. 기술 포럼들은 가족 사이 표준을 유지하고, 다른 곳의 일차 이해관계 라우팅을 밀어내지 않고 인증된 구성 질문에 답할 수 있다.
 
 출판, 데이터 접근, 방법 공개, 재현 자료에 대한 안전 민감 한도는 [6.2 인식 공개 제약](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), 위에 열거한 제5장 정의, 적용되는 제6장 권리 아래에서만 정당화될 수 있다. 그러한 한도는 보호된 기록, 독립 검토, 지연 공개, 삭제, 안전 접근, 비슷한 안전장치를 통해 실행 가능한 최대 인식 완전성을 보존해야 한다; 불리한 증거를 억누르거나, 안전 결함을 숨기거나, 겉보기 합의를 만드는 수단이 되어서는 안 된다.
 

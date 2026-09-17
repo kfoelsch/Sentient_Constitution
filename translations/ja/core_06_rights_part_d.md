@@ -69,7 +69,7 @@
 
 *隣接する条：*
 
-- **適時性の床：** 解決の速さ、遅延防止の規律、実質性段階の里程標は **Article XXIV-C**（《適時の解決と遅延防止の床》）が統治し、[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) を通じて実施される。
+- **適時性の床：** 解決の速さ、遅延防止の規律、実質性段階の里程標は **Article XXIV-C**（《適時の解決と遅延防止の床》）が統治し、[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) を通じて実施される。
 - **適時の救済：** [**Article XII-B**（《異議、審査、救済への権利》）](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)（《適時の救済への通路》）とあわせて読む。
 
 採択された統治の実施は、段階的拡大、介入の比例性、緊急の境界、段階ごとの既定の期限窓を提供する。それは本条のもとでの実際の通路、審査可能性、修復、適時の解決、権利の床の制約を狭めてはならない。
@@ -196,7 +196,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：原則：第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[§6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)、[第一章 §6.1.5 権利衝突の手続](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)。
-- あわせて読む：実存的リスクの審査が実質的に関わるところでは **Article I-D**（《実存的リスクと生態的回復能力》）；[憲法四元](core_00_preamble.md#constitutional-tetrad) の**参加**と**適時性**の脚；[Article XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor)（《適時の解決と遅延防止の床》）；[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（《修復・異議の既定として再利用される実質性段階の外縁》）。
+- あわせて読む：実存的リスクの審査が実質的に関わるところでは **Article I-D**（《実存的リスクと生態的回復能力》）；[憲法四元](core_00_preamble.md#constitutional-tetrad) の**参加**と**適時性**の脚；[Article XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor)（《適時の解決と遅延防止の床》）；[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（《修復・異議の既定として再利用される実質性段階の外縁》）。
 - 下流：[CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)（《数値の段階表はこれらの既定を遅らせてはならない》）。
 
 </details>
@@ -242,14 +242,14 @@
   - 比例性；
   - より制限の少ない実行可能な代替の不在。
 <a id="xxiii-d-restore-challenge-clocks"></a>
-- **審査と通知（修復・異議の時計）：** いま封じ込めよ。通知と異議は後に復元せよ。参加を永久に飛ばすな。「実行可能になり次第」は時計ではない。影響を受ける側は、[**Article XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) がフォーラム解決にすでに用いるのと同じ実質性段階の外縁の内側で、[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) が実施するとおり、通知と復元された異議の通路を受け取らなければならない：
+- **審査と通知（修復・異議の時計）：** いま封じ込めよ。通知と異議は後に復元せよ。参加を永久に飛ばすな。「実行可能になり次第」は時計ではない。影響を受ける側は、[**Article XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) がフォーラム解決にすでに用いるのと同じ実質性段階の外縁の内側で、[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) が実施するとおり、通知と復元された異議の通路を受け取らなければならない：
   - **Tier A：** 最大**一週間**；
   - **Tier B：** 最大**三週間**；
   - **Tier C：** 最大**二か月**；
   - **Tier L：** 最大**四か月**；
   - **Tier P：** 最大**六か月**。
 
-  それらの数は再利用されるのであり、第二の表ではない。[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) がなお数値の本拠である。修復・異議の窓は、緊急措置の開始、または通知もしくは異議が延期されたときのうち、早い方から走る。通知または異議を延期する緊急の封じ込めは、より低い緊急の文書化された示しが記録されない限り **Tier A** である。運用者はより早く復元してよい。**継続の規律**を通す場合を除き、段階の既定を超えて引き延ばしてはならない。措置の十全な独立審査は、同じ窓の内側で始まらなければならない。[CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) の段階表は、これらの既定を遅らせてはならない。
+  それらの数は再利用されるのであり、第二の表ではない。[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) がなお数値の本拠である。修復・異議の窓は、緊急措置の開始、または通知もしくは異議が延期されたときのうち、早い方から走る。通知または異議を延期する緊急の封じ込めは、より低い緊急の文書化された示しが記録されない限り **Tier A** である。運用者はより早く復元してよい。**継続の規律**を通す場合を除き、段階の既定を超えて引き延ばしてはならない。措置の十全な独立審査は、同じ窓の内側で始まらなければならない。[CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) の段階表は、これらの既定を遅らせてはならない。
 - **常態化の禁止：** 緊急措置は、次なしに永続する統治へ常態化してはならない：
   - **第一章**と整合する正当化（**必要性**と**比例性**）；
   - **文書化された独立の再授権**；
@@ -366,7 +366,7 @@
 
 - 上流：適時性の測定家族（《憲法上の測定としての適時の解決と遅延防止の規律》）；[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)（《軌跡、統合、フォーラム調整のパイプライン》）。
 - 原則：第一章 [§12.2 憲法上の効率](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)、[第一章 §6.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)、[第一章 §6.1.5 権利衝突の手続](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)。
-- 下流：[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（《実質性段階、パイプラインの里程標、遅延防止の規律》）；[Article XXIII-D](#xxiii-d-restore-challenge-clocks)（《緊急封じ込めの後の既定の修復・異議窓としての同じ外縁》）。
+- 下流：[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（《実質性段階、パイプラインの里程標、遅延防止の規律》）；[Article XXIII-D](#xxiii-d-restore-challenge-clocks)（《緊急封じ込めの後の既定の修復・異議窓としての同じ外縁》）。
 - 責務ある管理の入口（非操作性）：拘束力ある次の一歩の声明：[操作性の責務ある管理の声明](#operative-steward-statement-delay)。支援ポインタはそれを狭められない。
 
 </details>
@@ -395,7 +395,7 @@
   - **適時** — [実質的利害](core_00_preamble.md#material-stake) と危害の緊急に応じて尺度を合わせた有界な時計；
   - **効率的** — [憲法上の効率](core_05_band_continuity.md#constitutional-efficiency) を第一章 [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) の意味で — 消費された感知者の時間と共有の努力あたりの本物の憲法上の成果であり、生のスループットや案件リストの掃除ではない；
   - **公正** — **Article XXIII-A**（《正義の目的と範囲》）、**Article XXIII-B**（《非軽微な制限、原状回復、修復的説明責任の制約》）、**Article XXIII-C**（《制限最小かつ期限付きの規則》）はなお十全に適用される。速く動くことは、点検された事実を飛ばすこと（[第八章 §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)）、誤った側を罰すること、危害に合わない直しを提示すること、異議と上訴を切ることの言い訳ではない。
-- **フォーラムとパイプラインの監督：** **第八から第十一章**を通じて経路づけられた紛争についての次は、本条の適時・効率的・公正の床に服しつつ、[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) が統治する：
+- **フォーラムとパイプラインの監督：** **第八から第十一章**を通じて経路づけられた紛争についての次は、本条の適時・効率的・公正の床に服しつつ、[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) が統治する：
   - 実質性段階の分類；
   - パイプライン段階の里程標；
   - 統合解決の外縁；

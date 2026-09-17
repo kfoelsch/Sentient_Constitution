@@ -102,7 +102,7 @@ Les **termes indépendants et semi-indépendants** qui mettent en œuvre l’act
 
 - En aval : famille de mesure Action en temps — rollup en lien seul ; les paliers par terme vivent dans les définitions feuille — voir [Résolution en temps](../../core_05_band_accountability.md#timely-resolution-constitutional), [Capture des voies de résolution](../../core_05_band_accountability.md#capture-of-resolution-pathways) et [Action en temps](#timeliness-constitutional) (rollup de tête de jambe en lien seul).
 - Lire avec : [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional) et [Reddition de comptes](core_05_apex_accountability_leg.md#accountability) — l’Action en temps parcourt aussi les trois autres jambes de la Tétrade ; ces jambes doivent se produire à temps pour être utiles.
-- Lire avec : [Chapitre onze §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- Lire avec : [Chapitre onze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
 </details>
 

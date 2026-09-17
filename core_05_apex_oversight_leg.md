@@ -1,5 +1,3 @@
-<a id="oversight-constitutional"></a>
-
 # CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)
 
 <details>
@@ -26,6 +24,10 @@
 ---
 
 *In plain terms: watch systems, check them, and keep them within bounds — oversight has to be able to see problems and change outcomes, not just hold a ceremony.*
+
+<a id="oversight-constitutional"></a>
+
+#### Oversight
 
 - O: Watch systems, check them, and keep them within bounds — the Tetrad leg this entry names.
   - **In scope:**

@@ -37,7 +37,14 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_08_standing_assessment.md) |
 | [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md) |
+| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_12_governance.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_11_forum.md) |
 
 Os links do piloto apontam para arquivos em inglês ainda sem tradução. As âncoras HTML (`id`) são copiadas do original para comparar trecho a trecho.
 

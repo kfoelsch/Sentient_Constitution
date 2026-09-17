@@ -245,7 +245,7 @@ El [Principio de mínimos del Piso de Derechos](core_01_b_interaction_interpreta
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: Principios: Capítulo Uno [§3.2 Verdad](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Principios centrales de compensación](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) y [§6.1.3 Proporcionalidad](core_01_b_interaction_interpretation.md#613-proportionality).
-- Destino: piso de dignidad del **Artículo V-A** (*Dignidad e igual dignidad moral*), salvaguardas anticaptura del **Artículo XXII** (*Interpretación constitucional, revisión y salvaguardas anticaptura*), foros y jurisdicción del **Capítulo Once** — titular por defecto [Familia de foros, técnica](core_05_band_accountability.md#forum-family-technical) / [Dominios de foro técnico](../../core_11_forum.md#42-technical-forum-domains) bajo el [gancho §5 Adjudicación de estatus de sentiencia](../../core_11_forum.md#5-escalation-and-certification).
+- Destino: piso de dignidad del **Artículo V-A** (*Dignidad e igual dignidad moral*), salvaguardas anticaptura del **Artículo XXII** (*Interpretación constitucional, revisión y salvaguardas anticaptura*), foros y jurisdicción del **Capítulo Once** — titular por defecto [Familia de foros, técnica](core_05_band_accountability.md#forum-family-technical) / [Dominios de foro técnico](core_11_forum.md#42-technical-forum-domains) bajo el [gancho §5 Adjudicación de estatus de sentiencia](core_11_forum.md#5-escalation-and-certification).
 - Leer con: Capítulo Cinco *Adjudicación de estatus de sentiencia*, *No exclusión de la sentiencia*, *Evaluación de sentiencia*, *Reversibilidad*, *Impugnabilidad*.
 
 </details>
@@ -280,7 +280,7 @@ El [Principio de mínimos del Piso de Derechos](core_01_b_interaction_interpreta
 - **Alcance y efecto acotado en el tiempo:** Las determinaciones de desclasificación o estrechamiento deben:
   - enunciarse en los términos más cortos necesarios;
   - llevar un plazo declarado de cierre esperado;
-  - estar sujetas a revisión periódica obligatoria bajo [Familia de foros, técnica](core_05_band_accountability.md#forum-family-technical) ([Capítulo Once §4.2 Dominios de foro técnico](../../core_11_forum.md#42-technical-forum-domains)) y las salvaguardas anticaptura del **Artículo XXII** (*Interpretación constitucional, revisión y salvaguardas anticaptura*).
+  - estar sujetas a revisión periódica obligatoria bajo [Familia de foros, técnica](core_05_band_accountability.md#forum-family-technical) ([Capítulo Once §4.2 Dominios de foro técnico](core_11_forum.md#42-technical-forum-domains)) y las salvaguardas anticaptura del **Artículo XXII** (*Interpretación constitucional, revisión y salvaguardas anticaptura*).
   
   Una desclasificación que no está acotada en el tiempo y no está sujeta a revisión periódica es incumplidora.
 - **Reversibilidad y remedio:** Una determinación que más tarde se muestre errónea, subevidenciada o mal evidenciada, o capturada por vectores del **Artículo XIII-A** (*Límites de seguridad, inteligencia y poder encubierto*) o del **Artículo XXII** (*Interpretación constitucional, revisión y salvaguardas anticaptura*) debe ser reversible.
@@ -291,7 +291,7 @@ El [Principio de mínimos del Piso de Derechos](core_01_b_interaction_interpreta
   - tener el deber de presentar los intereses de la entidad y cualesquiera preferencias que pueda expresar; y
   - tener derecho a impugnar el estrechamiento, la revocación o la declinación de admisión.
   
-  El sistema progenitor o el operador puede dar evidencia y debe preservar y producir registros, pero no puede ser el único presentador, el único testigo o la única fuente de evidencia de indicadores en una petición de retener, estrechar o revocar. La mecánica de nombramiento enruta al [Capítulo Once §5](../../core_11_forum.md#5-escalation-and-certification).
+  El sistema progenitor o el operador puede dar evidencia y debe preservar y producir registros, pero no puede ser el único presentador, el único testigo o la única fuente de evidencia de indicadores en una petición de retener, estrechar o revocar. La mecánica de nombramiento enruta al [Capítulo Once §5](core_11_forum.md#5-escalation-and-certification).
 - **Escudo para la entidad, no para el operador:** La inclusión por defecto y el estatus afirmado protegen el Piso de Derechos del Capítulo Seis de la *entidad*. No:
   - escudan la propiedad o el interés comercial del operador en un despliegue;
   - eximen al despliegue de la contención, la detención o la cuarentena a nivel de sistema bajo el **Artículo XII-E** (*Sistemas de alta autonomía e integridad de proceso mediada por herramientas*) o el **Artículo XXVI-D** (*Bienes y sistemas incumplidores; incentivos de entrega voluntaria*) que sea compatible con los derechos de la entidad; ni
@@ -299,11 +299,11 @@ El [Principio de mínimos del Piso de Derechos](core_01_b_interaction_interpreta
   
   Una presentación de estatus hecha por un operador en nombre de su propio producto se revisa por taxonomía de conveniencia en la dirección de inclusión en los mismos términos que este Artículo aplica a la exclusión. Donde el estatus de la entidad esté controvertido o afirmado, la medida compatible a nivel de sistema es la contención que preserva a la entidad — no la disposición destructiva, que se rige por el **Artículo XXVI-D** (*Bienes y sistemas incumplidores; incentivos de entrega voluntaria*) y las reglas de preservación del **Artículo XXVI-A** (*Adopción por fases y continuidad del Piso de Derechos*).
 - **No confusión:** Este Artículo enuncia el derecho de *adjudicación* del Piso de Derechos.
-  - El procedimiento operativo — diseño institucional, mecánica de nombramiento, condiciones de presentación y secuenciación — enruta al **Capítulo Once** ([Dominios de foro técnico](../../core_11_forum.md#42-technical-forum-domains) como titular por defecto bajo el [gancho §5 Adjudicación de estatus de sentiencia](../../core_11_forum.md#5-escalation-and-certification)) y al texto de implementación bajo la disciplina de incorporación del **Capítulo Dieciséis**.
+  - El procedimiento operativo — diseño institucional, mecánica de nombramiento, condiciones de presentación y secuenciación — enruta al **Capítulo Once** ([Dominios de foro técnico](core_11_forum.md#42-technical-forum-domains) como titular por defecto bajo el [gancho §5 Adjudicación de estatus de sentiencia](core_11_forum.md#5-escalation-and-certification)) y al texto de implementación bajo la disciplina de incorporación del **Capítulo Dieciséis**.
   - Ese texto de implementación no debe leerse para estrechar este piso.
 
 <a id="anti-substitution-sentience-status"></a>
-> **Anti-sustitución (operativo).** Un sello de certificación, una puntuación LEQU, una etiqueta de sustrato o una clasificación de producto **no** es una determinación de estatus de sentiencia. Quién cuenta enruta a través de este Artículo, [**Def.P1**](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) y el [Capítulo Once §5](../../core_11_forum.md#5-escalation-and-certification) — no a través de la Certificación de alineación del sistema, las puntuaciones de trayectoria o las etiquetas operativas. Leer con el [Artículo XVIII-A](core_06_rights_part_c.md#article-xviii-a-standing-distinction).
+> **Anti-sustitución (operativo).** Un sello de certificación, una puntuación LEQU, una etiqueta de sustrato o una clasificación de producto **no** es una determinación de estatus de sentiencia. Quién cuenta enruta a través de este Artículo, [**Def.P1**](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) y el [Capítulo Once §5](core_11_forum.md#5-escalation-and-certification) — no a través de la Certificación de alineación del sistema, las puntuaciones de trayectoria o las etiquetas operativas. Leer con el [Artículo XVIII-A](core_06_rights_part_c.md#article-xviii-a-standing-distinction).
 
 <a id="article-v-f-developing-sentients-best-interest-and-graduated-capability"></a>
 #### Artículo V-F: Sencientes en desarrollo, interés superior y capacidad graduada
@@ -1687,7 +1687,7 @@ La persecución legítima discurre a través de la [Tétrada Constitucional](cor
   - oportunidad significativa de ser oído;
   - sincronización de la decisión proporcional al riesgo de daño;
   - estructuras imparciales de decisión donde aplique la adjudicación;
-  - impugnación o revisión secundaria, leída con [Secuenciación de controversias](../../core_11_forum.md#dispute-sequencing) bajo el Capítulo Once §1.
+  - impugnación o revisión secundaria, leída con [Secuenciación de controversias](core_11_forum.md#dispute-sequencing) bajo el Capítulo Once §1.
   
   Los resultados deben permanecer trazables a razones enunciadas y a evidencia suficiente para apoyar la revisión bajo los **Capítulos Dos a Cuatro**.
 - **Enrutamiento institucional:** La taxonomía de roles, la implementación de la cadena de rendición de cuentas y los procedimientos operativos de Debido Proceso se gobiernan por [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Nombramiento, competencia, rotación y destitución*) y **CI-6** (*Integridad de procedimiento, impugnabilidad y revisión secundaria*), con detalle de apoyo de acceso a vías en **CI-12** (*Transparencia, participación y vías accesibles*).

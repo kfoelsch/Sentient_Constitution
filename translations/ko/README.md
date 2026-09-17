@@ -37,7 +37,13 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_08_standing_assessment.md) |
 | [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_11_forum.md) |
 
 시험본의 링크는 아직 번역이 없는 영어 파일을 가리킨다. HTML 앵커(`id`)는 원문에서 복사해 단락마다 대조할 수 있게 한다.
 

@@ -37,7 +37,13 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_08_standing_assessment.md) |
 | [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_11_forum.md) |
 
 முன்னோடியின் இணைப்புகள் இன்னும் மொழிபெயர்க்கப்படாத ஆங்கிலக் கோப்புகளையே சுட்டுகின்றன. HTML நங்கூரங்கள் (`id`) மூலத்திலிருந்து நகலெடுக்கப்பட்டவை, பகுதிக்குப் பகுதி ஒப்பீடு செய்ய.
 

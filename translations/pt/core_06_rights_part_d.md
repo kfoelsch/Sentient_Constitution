@@ -69,7 +69,7 @@ A adjudicação e a resolução de disputas no sentido constitucional definem-se
 
 *Artigos vizinhos:*
 
-- **Piso de atuação em tempo:** A velocidade de resolução, a disciplina contra o atraso e os marcos de nível de materialidade são governados pelo **Artigo XXIV-C** (*Resolução oportuna e piso contra o atraso*), implementado pelo [Capítulo Onze §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- **Piso de atuação em tempo:** A velocidade de resolução, a disciplina contra o atraso e os marcos de nível de materialidade são governados pelo **Artigo XXIV-C** (*Resolução oportuna e piso contra o atraso*), implementado pelo [Capítulo Onze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 - **Reparação oportuna:** Ler com o [**Artigo XII-B** (*Direito de impugnar, revisar e obter reparação*)](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*acesso a reparação oportuna*).
 
 A implementação de governança adotada fornece escalação, proporcionalidade da intervenção, limites de emergência e janelas de tempo padrão por nível. Não deve estreitar o acesso prático, a revisabilidade, a restauração, a resolução oportuna nem as restrições do Piso de Direitos sob este Artigo.
@@ -196,7 +196,7 @@ A implementação de governança adotada fornece escalação, proporcionalidade 
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: Princípios: Capítulo Um [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Princípios centrais de compensação](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) e [Capítulo Um §6.1 Disciplina de registro de decisão](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Ler com: o **Artigo I-D** (*Risco existencial e capacidade de recuperação ecológica*) onde o escrutínio de risco existencial esteja materialmente implicado; as pernas de **participação** e **atuação em tempo** da [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad); o [Artigo XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Resolução oportuna e piso contra o atraso*); o [Capítulo Onze §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*limites exteriores de nível de materialidade reutilizados como valores por omissão de restauração-impugnação*).
+- Ler com: o **Artigo I-D** (*Risco existencial e capacidade de recuperação ecológica*) onde o escrutínio de risco existencial esteja materialmente implicado; as pernas de **participação** e **atuação em tempo** da [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad); o [Artigo XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Resolução oportuna e piso contra o atraso*); o [Capítulo Onze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*limites exteriores de nível de materialidade reutilizados como valores por omissão de restauração-impugnação*).
 - Destino: [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) (*as tabelas numéricas de etapa não devem atrasar esses valores por omissão*).
 
 </details>
@@ -242,14 +242,14 @@ A implementação de governança adotada fornece escalação, proporcionalidade 
   - proporcionalidade;
   - ausência de alternativas viáveis menos restritivas.
 <a id="xxiii-d-restore-challenge-clocks"></a>
-- **Revisão e aviso (relógios de restauração-impugnação):** Contenha agora; restaure aviso e impugnação depois; nunca pule a participação de forma permanente. «Tão logo seja viável» não é o relógio. As partes afetadas devem receber aviso e acesso restaurado à impugnação dentro dos mesmos limites exteriores de nível de materialidade que o [**Artigo XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) já usa para a resolução em fórum, conforme implementado pelo [Capítulo Onze §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline):
+- **Revisão e aviso (relógios de restauração-impugnação):** Contenha agora; restaure aviso e impugnação depois; nunca pule a participação de forma permanente. «Tão logo seja viável» não é o relógio. As partes afetadas devem receber aviso e acesso restaurado à impugnação dentro dos mesmos limites exteriores de nível de materialidade que o [**Artigo XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) já usa para a resolução em fórum, conforme implementado pelo [Capítulo Onze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline):
   - **Tier A:** no máximo **uma semana**;
   - **Tier B:** no máximo **três semanas**;
   - **Tier C:** no máximo **dois meses**;
   - **Tier L:** no máximo **quatro meses**;
   - **Tier P:** no máximo **seis meses**.
 
-  Esses números são reutilizados; não são uma segunda tabela. O [Capítulo Onze §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) permanece o lar numérico. A janela de restauração-impugnação corre do início da medida de emergência, ou de quando o aviso ou a impugnação foi adiada, o que ocorrer primeiro. A contenção de emergência que adia aviso ou impugnação é **Tier A** a menos que uma demonstração documentada de menor urgência esteja no registro. Os operadores podem restaurar mais cedo. Eles não podem esticar além do valor por omissão do nível, salvo pela **Disciplina de continuação**. A revisão independente plena da medida deve começar dentro da mesma janela. As tabelas de etapa em [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) não devem atrasar esses valores por omissão.
+  Esses números são reutilizados; não são uma segunda tabela. O [Capítulo Onze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) permanece o lar numérico. A janela de restauração-impugnação corre do início da medida de emergência, ou de quando o aviso ou a impugnação foi adiada, o que ocorrer primeiro. A contenção de emergência que adia aviso ou impugnação é **Tier A** a menos que uma demonstração documentada de menor urgência esteja no registro. Os operadores podem restaurar mais cedo. Eles não podem esticar além do valor por omissão do nível, salvo pela **Disciplina de continuação**. A revisão independente plena da medida deve começar dentro da mesma janela. As tabelas de etapa em [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) não devem atrasar esses valores por omissão.
 - **Sem normalização:** As medidas de emergência não devem normalizar-se em governança permanente sem:
   - justificação consistente com o **Capítulo Um** (**Necessidade** e **Proporcionalidade**);
   - **reautorização independente documentada**;
@@ -366,7 +366,7 @@ A [Atuação em tempo](core_05_apex_timeliness_leg.md#timeliness-constitutional)
 
 - Origem: família de medição da Atuação em tempo (*Resolução oportuna e disciplina contra o atraso como medição constitucional*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) (*cadeia de coordenação de trajetória, integração e fóruns*).
 - Princípios: Capítulo Um [§12.2 Eficiência constitucional](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency), [Capítulo Um §6.3 Minimização do ônus evitável](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) e [Capítulo Um §6.1 Disciplina de registro de decisão](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Destino: [Capítulo Onze §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*níveis de materialidade, marcos de cadeia e disciplina contra o atraso*); [Artigo XXIII-D](#xxiii-d-restore-challenge-clocks) (*os mesmos limites exteriores como janelas por omissão de restauração-impugnação depois da contenção de emergência*).
+- Destino: [Capítulo Onze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*níveis de materialidade, marcos de cadeia e disciplina contra o atraso*); [Artigo XXIII-D](#xxiii-d-restore-challenge-clocks) (*os mesmos limites exteriores como janelas por omissão de restauração-impugnação depois da contenção de emergência*).
 - Porta de administração (não operativa): declaração vinculante do próximo passo: [Declaração operativa de administração](#operative-steward-statement-delay). Os ponteiros de apoio não podem estreitar isso.
 
 </details>
@@ -395,7 +395,7 @@ A [Atuação em tempo](core_05_apex_timeliness_leg.md#timeliness-constitutional)
   - **Oportunas** — relógios delimitados escalados à [aposta material](core_00_preamble.md#material-stake) e à urgência do dano;
   - **Eficientes** — [Eficiência constitucional](core_05_band_continuity.md#constitutional-efficiency) no sentido do Capítulo Um [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) — resultado constitucional real por tempo de senciente e esforço compartilhado consumidos, não vazão bruta nem limpeza de pauta;
   - **Justas** — o **Artigo XXIII-A** (*Objetivo e alcance da justiça*), o **Artigo XXIII-B** (*Restrição não trivial, restituição e restrições de prestação de contas restaurativa*) e o **Artigo XXIII-C** (*Regra menos restritiva e limitada no tempo*) permanecem plenamente aplicáveis; mover-se depressa não é desculpa para pular fatos checados ([Capítulo Oito §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)), punir a parte errada, oferecer um conserto que não se ajusta ao dano, ou cortar a impugnação e a apelação.
-- **Supervisão de fórum e de cadeia:** O seguinte, para as disputas roteadas através dos **capítulos Oito a Onze**, é governado pelo [Capítulo Onze §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), sujeito ao piso oportuno, eficiente e justo deste Artigo:
+- **Supervisão de fórum e de cadeia:** O seguinte, para as disputas roteadas através dos **capítulos Oito a Onze**, é governado pelo [Capítulo Onze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), sujeito ao piso oportuno, eficiente e justo deste Artigo:
   - classificação de nível de materialidade;
   - marcos de etapa de cadeia;
   - limites exteriores de resolução integrada;

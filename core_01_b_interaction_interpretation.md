@@ -481,7 +481,7 @@ Availability, observability, prior publication, platform possession, or technica
 
 **Data-classification integration.** The operational layer for these disciplines is the data type system in **[CS-2 — Information types and handling](corpus_systems/cs_02_a_information_types_and_handling.md)**. That system assigns each category of information (coordination, governance, identity, interaction, internal-cognitive, and system-operational data) its own protection level, access default, and handling constraints. The collection, retention, and use disciplines above apply *at the level required by the most restrictive applicable data classification* — not at a generic baseline. Where data may be reconstructed, transformed, or aggregated into a more sensitive classification, the more sensitive classification's protections apply. Misclassification, evasive structuring, or functional circumvention of data-type protections violates this principle.
 
-**Surveillance and monitoring.** Monitoring, observation, logging, and inference systems that materially affect sentient agency, association, or expression must satisfy the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle). Do not watch everyone, watch in secret, watch with no end date, or make watching a condition of using a system people depend on, when a milder method would work. That watching is not allowed if it makes people afraid to speak, gather, or otherwise use freedoms this Constitution protects.
+**Surveillance and monitoring.** Monitoring, observation, logging, and inference systems that materially affect sentient agency, association, or expression must satisfy the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle). Do not watch everyone, watch in secret, watch with no end date, or make watching a condition of using a system sentients depend on, when a milder method would work. That watching is not allowed if it makes sentients afraid to speak, gather, or otherwise use freedoms this Constitution protects.
 
 **Privacy in collision with other interests.** Privacy may be limited where it materially collides with **Safety**, **Truth**, transparency and audit duties, accountability obligations, or another constitutional interest of equal or greater weight.
 - Such limitations must follow the [§6.1 decision-record discipline](#615-rights-collision-decision-test), including:
@@ -650,7 +650,7 @@ Packaging the same act as a special process does not skip the requirement. Using
 - emergency designation;
 - transition planning;
 - implementation detail;
-- custody transfer (a change of who holds the records, system, or people);
+- custody transfer (a change of who holds the records, system, or sentients);
 - certification (an aligned or certified label);
 - contract (a private agreement, including contracting the work out);
 - standing consequence;

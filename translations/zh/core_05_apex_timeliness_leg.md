@@ -102,7 +102,7 @@
 
 - 下游：及时性测量族 — 仅链接汇总；各用语层级住在叶定义上 — 见[及时解决](../../core_05_band_accountability.md#timely-resolution-constitutional)、[解决路径俘获](../../core_05_band_accountability.md#capture-of-resolution-pathways)与[及时性](#timeliness-constitutional)（仅链接的腿头汇总）。
 - 一并阅读：[参与](core_05_apex_participation_leg.md#participation-constitutional)、[监督](core_05_apex_oversight_leg.md#oversight-constitutional)与[问责](core_05_apex_accountability_leg.md#accountability) — 及时性也贯穿其余三条四元腿；那些腿必须按时发生才有用。
-- 一并阅读：[第十一章 §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)。
+- 一并阅读：[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)。
 
 </details>
 

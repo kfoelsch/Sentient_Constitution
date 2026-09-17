@@ -69,7 +69,7 @@ Anayasal anlamda hükme bağlama ve uyuşmazlık çözümü **Beşinci Bölüm**
 
 *Madde komşuları:*
 
-- **Zamanındalık tabanı:** Çözüm hızı, gecikme karşıtı disiplin ve maddilik-kademesi kilometre taşları **Madde XXIV-C** (*Zamanında çözüm ve gecikme karşıtı taban*) tarafından yönetilir, [On Birinci Bölüm §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) aracılığıyla uygulanır.
+- **Zamanındalık tabanı:** Çözüm hızı, gecikme karşıtı disiplin ve maddilik-kademesi kilometre taşları **Madde XXIV-C** (*Zamanında çözüm ve gecikme karşıtı taban*) tarafından yönetilir, [On Birinci Bölüm §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) aracılığıyla uygulanır.
 - **Zamanında onarım:** [**Madde XII-B** (*İtiraz, inceleme ve onarım hakkı*)](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*zamanında onarım erişimi*) ile birlikte okuyun.
 
 Benimsenmiş yönetişim uygulaması yükseltme, müdahale orantılılığı, acil durum sınırları ve kademe-varsayılan zaman pencereleri sağlar. Bu Madde altında pratik erişimi, incelenebilirliği, restorasyonu, zamanında çözümü ya da Hak Tabanı kısıtlarını daraltmamalıdır.
@@ -196,7 +196,7 @@ Benimsenmiş yönetişim uygulaması yükseltme, müdahale orantılılığı, ac
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: İlkeler: Birinci Bölüm [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Çekirdek ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ve [Birinci Bölüm §6.1.5 Hak-çarpışması usulü](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Birlikte oku: varoluşsal-risk incelemesi maddi olarak söz konusu olduğunda **Madde I-D** (*Varoluşsal risk ve ekolojik toparlanma kapasitesi*); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) **katılım** ve **zamanındalık** bacakları; [Madde XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Zamanında çözüm ve gecikme karşıtı taban*); [On Birinci Bölüm §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*restorasyon-itiraz varsayılanları olarak yeniden kullanılan maddilik-kademesi dış sınırları*).
+- Birlikte oku: varoluşsal-risk incelemesi maddi olarak söz konusu olduğunda **Madde I-D** (*Varoluşsal risk ve ekolojik toparlanma kapasitesi*); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) **katılım** ve **zamanındalık** bacakları; [Madde XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Zamanında çözüm ve gecikme karşıtı taban*); [On Birinci Bölüm §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*restorasyon-itiraz varsayılanları olarak yeniden kullanılan maddilik-kademesi dış sınırları*).
 - Aşağı: [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) (*sayısal aşama tabloları bu varsayılanları yavaşlatmamalıdır*).
 
 </details>
@@ -242,14 +242,14 @@ Benimsenmiş yönetişim uygulaması yükseltme, müdahale orantılılığı, ac
   - orantılılık;
   - daha az kısıtlayıcı mümkün alternatiflerin yokluğu.
 <a id="xxiii-d-restore-challenge-clocks"></a>
-- **İnceleme ve bildirim (restorasyon-itiraz saatleri):** Şimdi sınırlayın; bildirimi ve itirazı sonra restore edin; katılımı asla kalıcı olarak atlamayın. «Mümkün olur olmaz» saat değildir. Etkilenen taraflar, [On Birinci Bölüm §6](#article-xxiv-c-timely-resolution-and-anti-delay-floor)nın uyguladığı gibi [**Madde XXIV-C**](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)nin forum çözümü için zaten kullandığı aynı maddilik-kademesi dış sınırları içinde bildirim ve restore edilmiş itiraz erişimi almalıdır:
+- **İnceleme ve bildirim (restorasyon-itiraz saatleri):** Şimdi sınırlayın; bildirimi ve itirazı sonra restore edin; katılımı asla kalıcı olarak atlamayın. «Mümkün olur olmaz» saat değildir. Etkilenen taraflar, [On Birinci Bölüm §6](#article-xxiv-c-timely-resolution-and-anti-delay-floor)nın uyguladığı gibi [**Madde XXIV-C**](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)nin forum çözümü için zaten kullandığı aynı maddilik-kademesi dış sınırları içinde bildirim ve restore edilmiş itiraz erişimi almalıdır:
   - **Tier A:** en fazla **bir hafta**;
   - **Tier B:** en fazla **üç hafta**;
   - **Tier C:** en fazla **iki ay**;
   - **Tier L:** en fazla **dört ay**;
   - **Tier P:** en fazla **altı ay**.
 
-  O sayılar yeniden kullanılır; ikinci bir tablo değildir. [On Birinci Bölüm §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) sayısal ev olarak kalır. Restorasyon-itiraz penceresi acil durum önleminin başlangıcından ya da bildirimin veya itirazın ertelendiği andan — hangisi daha önceyse — işler. Bildirimi ya da itirazı erteleyen acil durum sınırlaması, belgelenmiş daha düşük-ivedilik gösterimi kaydedilmedikçe **Tier A**dır. İşleticiler daha erken restore edebilir. **Sürdürme disiplini** dışında kademe varsayılanının ötesine geremezler. Önlemin tam bağımsız incelemesi aynı pencere içinde başlamalıdır. [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)deki aşama tabloları bu varsayılanları yavaşlatmamalıdır.
+  O sayılar yeniden kullanılır; ikinci bir tablo değildir. [On Birinci Bölüm §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) sayısal ev olarak kalır. Restorasyon-itiraz penceresi acil durum önleminin başlangıcından ya da bildirimin veya itirazın ertelendiği andan — hangisi daha önceyse — işler. Bildirimi ya da itirazı erteleyen acil durum sınırlaması, belgelenmiş daha düşük-ivedilik gösterimi kaydedilmedikçe **Tier A**dır. İşleticiler daha erken restore edebilir. **Sürdürme disiplini** dışında kademe varsayılanının ötesine geremezler. Önlemin tam bağımsız incelemesi aynı pencere içinde başlamalıdır. [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)deki aşama tabloları bu varsayılanları yavaşlatmamalıdır.
 - **Normalleştirme yok:** Acil durum önlemleri şunlar olmadan kalıcı yönetişime normalleşmemelidir:
   - **Birinci Bölüm**le tutarlı gerekçe (**Gereklilik** ve **Orantılılık**);
   - **belgelenmiş bağımsız yeniden yetkilendirme**;
@@ -366,7 +366,7 @@ Bu Madde, [İki Anayasal Amaç](core_00_preamble.md#constitutional-tetrad) — *
 
 - Yukarı: Zamanındalık ölçüm ailesi (*anayasal ölçüm olarak Zamanında çözüm ve gecikme karşıtı disiplin*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) (*güzergâh, bütünleştirme ve forum eşgüdüm zinciri*).
 - İlkeler: Birinci Bölüm [§12.2 Anayasal verimlilik](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency), [Birinci Bölüm §6.3 Önlenebilir yükün en aza indirilmesi](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) ve [Birinci Bölüm §6.1.5 Hak-çarpışması usulü](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Aşağı: [On Birinci Bölüm §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*maddilik kademeleri, zincir kilometre taşları ve gecikme karşıtı disiplin*); [Madde XXIII-D](#xxiii-d-restore-challenge-clocks) (*acil durum sınırlamasından sonra varsayılan restorasyon-itiraz pencereleri olarak aynı dış sınırlar*).
+- Aşağı: [On Birinci Bölüm §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*maddilik kademeleri, zincir kilometre taşları ve gecikme karşıtı disiplin*); [Madde XXIII-D](#xxiii-d-restore-challenge-clocks) (*acil durum sınırlamasından sonra varsayılan restorasyon-itiraz pencereleri olarak aynı dış sınırlar*).
 - Sorumlu yönetim kapısı (işlemsel değil): Bağlayıcı sonraki-adım bildirimi: [İşlemsel sorumlu yönetim bildirimi](#operative-steward-statement-delay). Destek işaretçileri onu daraltamaz.
 
 </details>
@@ -395,7 +395,7 @@ Bu Madde, [İki Anayasal Amaç](core_00_preamble.md#constitutional-tetrad) — *
   - **Zamanında** — [maddi pay](core_00_preamble.md#material-stake) ve zarar ivediliğine ölçeklenmiş sınırlı saatler;
   - **Verimli** — Birinci Bölüm [§12.2](core_05_band_continuity.md#constitutional-efficiency) anlamında [Anayasal verimlilik](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) — ham çıktı ya da dosya temizleme değil, tüketilen algılayan zamanı ve paylaşılan çaba başına gerçek anayasal sonuç;
   - **Adil** — **Madde XXIII-A** (*Adalet amacı ve kapsamı*), **Madde XXIII-B** (*Önemsiz olmayan kısıtlama, iade ve onarıcı-hesap verebilirlik kısıtları*) ve **Madde XXIII-C** (*En az kısıtlayıcı ve zaman-sınırlı kural*) tam uygulanır kalır; hızlı ilerlemek, kontrol edilmiş olguları atlamak ([Sekizinci Bölüm §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)), yanlış tarafı cezalandırmak, zarara uymayan bir onarım sunmak ya da itiraz ve temyizi kesmek için bahane değildir.
-- **Forum ve zincir gözetimi:** **Sekizinci Bölümden On Birinci Bölüme** yönlendirilen uyuşmazlıklar için aşağıdakiler, bu Maddenin zamanında, verimli ve adil tabanına tabi olarak [On Birinci Bölüm §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tarafından yönetilir:
+- **Forum ve zincir gözetimi:** **Sekizinci Bölümden On Birinci Bölüme** yönlendirilen uyuşmazlıklar için aşağıdakiler, bu Maddenin zamanında, verimli ve adil tabanına tabi olarak [On Birinci Bölüm §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tarafından yönetilir:
   - maddilik-kademesi sınıflaması;
   - zincir-aşaması kilometre taşları;
   - bütünleşik-çözüm dış sınırları;

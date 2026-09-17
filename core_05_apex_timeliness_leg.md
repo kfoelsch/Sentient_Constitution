@@ -1,5 +1,3 @@
-<a id="timeliness-constitutional"></a>
-
 # CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)
 
 <details>
@@ -25,6 +23,10 @@
 ---
 
 *In plain terms: move problems through detection, challenge, resolution, and repair in time — published clocks that leave harm compounding are not timeliness.*
+
+<a id="timeliness-constitutional"></a>
+
+#### Timeliness
 
 - O: Move problems through detection, challenge, resolution, and repair in time — the Tetrad leg this entry names.
   - **In scope:** Principle-layer responsiveness duty scaling with [material stake](../core_00_preamble.md#material-stake) across:

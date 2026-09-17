@@ -102,7 +102,7 @@ Zamanındalığı uygulayan **bağımsız ve yarı-bağımsız terimler** [core_
 
 - Aşağı: Zamanındalık ölçüm ailesi — yalnızca-bağlantı özeti; terim başına kademeler yaprak tanımlarda yaşar — bkz. [Zamanında çözüm](../../core_05_band_accountability.md#timely-resolution-constitutional), [Çözüm yollarının ele geçirilmesi](../../core_05_band_accountability.md#capture-of-resolution-pathways) ve [Zamanındalık](#timeliness-constitutional) (yalnızca-bağlantı bacak-başı özeti).
 - Birlikte oku: [Katılım](core_05_apex_participation_leg.md#participation-constitutional), [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional) ve [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability) — Zamanındalık ayrıca diğer üç Dörtlü bacağını da keser; o bacakların yararlı olması için zamanında gerçekleşmesi gerekir.
-- Birlikte oku: [On Birinci Bölüm §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- Birlikte oku: [On Birinci Bölüm §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
 </details>
 
