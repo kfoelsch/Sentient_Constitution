@@ -68,17 +68,19 @@ Those aims must be pursued together, always within the Constitution's non-negoti
 
 ### 2. Measurements Overview
 
-*In plain terms: you cannot run shared systems on guesswork or vanity metrics; measure whether sentients actually flourish and endure, with review that scales to how much impact, dependence, and risk are on the line.*
+*In plain terms: shared systems cannot run on guesswork or vanity metrics. Measure whether sentients actually flourish and endure. Scale review with impact, dependence, and risk.*
 
-You cannot keep shared systems working well without measuring them. Food, shelter, care, infrastructure, and governance all sit inside a complex, changing world — too complex for guesswork or easy-looking numbers alone.
+Shared systems cannot work well without measurement. Food, shelter, care, infrastructure, and governance all operate in a complex, changing world — one too complex for guesswork or convenient numbers alone.
 
-We need ongoing measurement focused on what matters most for sentient survival and wellbeing: whether the systems we depend on truly support [**Flourishing**](#flourishing) and [**Continuity**](#continuity) over time, with review scaled to [**material stake**](#material-stake) — how much impact, dependence, and risk are involved.
+Ongoing measurement must focus on what matters most for sentient survival and wellbeing. The question is whether the systems we depend on truly support [**Flourishing**](#flourishing) and [**Continuity**](#continuity) over time. That review scales to [**material stake**](#material-stake) — how much impact, dependence, and risk are involved.
 
-Measurement in this Constitution asks a practical question: are systems actually helping sentients flourish and endure, or are they producing harm, delay, exclusion, waste, hidden dependency, or false trust? Measurements are not scores for their own sake — they are tools for ensuring our shared societies produce sustainable, resilient, and compassionate outcomes aligned with sentient wellbeing and the ecological health of Earth. That duty takes binding form through the [Two Constitutional Aims](#two-constitutional-aims): **Flourishing** and **Continuity**.
+Measurement under this Constitution asks two practical questions. Do systems actually help sentients flourish and endure? Or do they produce harm, delay, exclusion, waste, hidden dependency, or false trust? Measurements are not scores for their own sake. They are tools for ensuring sustainable, resilient, and compassionate outcomes in our shared societies. Those outcomes align with sentient wellbeing and Earth's ecological health. That duty takes binding form through the [Two Constitutional Aims](#two-constitutional-aims): **Flourishing** and **Continuity**.
 
-Measurements must remain traceable to those aims and to the rights protections established in this Constitution. Raw throughput, utilization, headcount, revenue, latency, or other convenient proxies cannot substitute for constitutional performance where [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is foreseeable.
+Measurements must remain traceable to those aims and to the rights protections established in this Constitution. Raw throughput, utilization, headcount, revenue, latency, and other convenient proxies cannot substitute for constitutional performance. This prohibition applies wherever [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is foreseeable.
 
-The overview below lists measurement **categories** mapped to the [Two Constitutional Aims](#two-constitutional-aims) and the [Constitutional Tetrad](#constitutional-tetrad). Each category has one plain-language question and named **subcategories**. Each category links to its **Chapter Five measurement-family home** — where the family table, constitutional use, and definition routing live — and each subcategory links to its canonical Chapter Five definition. **Materiality** is not a separate measurement category. It sets how strongly every category below applies, based on [**material stake**](#material-stake) — how much impact, dependence, and risk are involved. **Constitutional performance** is cross-cutting — instrumental to both aims. Use the [Chapter Five measurement crosswalk](core_05__definitions_home.md#chapter-five-measurement-crosswalk) to trace canonical homes from each category below.
+The overview below lists the measurement **categories**. It maps each category to the [Two Constitutional Aims](#two-constitutional-aims) and the [Constitutional Tetrad](#constitutional-tetrad). Each category poses one plain-language question and names its **subcategories**. It also links to its **Chapter Five measurement-family home**, where the family table, constitutional use, and definition routing live. Each subcategory links to its canonical Chapter Five definition.
+
+**Materiality** is not a separate measurement category. It sets how strongly every category applies, based on [**material stake**](#material-stake) — how much impact, dependence, and risk are involved. **Constitutional performance** is cross-cutting and instrumental to both aims. Use the [Chapter Five measurement crosswalk](core_05__definitions_home.md#chapter-five-measurement-crosswalk) to trace each category to its canonical home.
 
 | Category | Plain question | Subcategories |
 |---|---|---|
@@ -90,7 +92,7 @@ The overview below lists measurement **categories** mapped to the [Two Constitut
 | **[Timeliness](core_05_apex_timeliness_leg.md#timeliness-measurement-family)** | Are disputes, corrections, and repairs resolved while remedy still matters? | [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional) · [Anti-delay and resolution-pathway discipline](core_05_band_accountability.md#capture-of-resolution-pathways) |
 | **[Constitutional performance](core_05_band_performance.md#performance-measurement-family)** | Are constitutional outcomes delivered efficiently without pointless waste? | [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency) · [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) · [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional) |
 
-These measurement categories show what matters — but they do not, on their own, set every number, funding formula, interface rule, accommodation list, technical metric, or assessment design. They become binding only when a specific chapter or adopted instrument explicitly requires them.
+These measurement categories show what matters. Standing alone, they do not set every number, funding formula, interface rule, accommodation list, technical metric, or assessment design. They become binding only when a specific chapter or adopted instrument explicitly requires them.
 
 ### 3. Governance and Stewardship
 
