@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-17T12:38:30+00:00",
+  "generated_at": "2026-09-17T16:57:22+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -3998,13 +3998,6 @@
       "line_end": 106
     },
     {
-      "term": "Accountability",
-      "file": "core_05_apex_accountability_leg.md",
-      "anchor": "#accountability",
-      "line_start": 30,
-      "line_end": 114
-    },
-    {
       "term": "Adjudication and Dispute Resolution",
       "file": "core_05_band_accountability.md",
       "anchor": "#adjudication-and-dispute-resolution-constitutional",
@@ -4510,13 +4503,6 @@
     },
     {
       "term": "Flourishing",
-      "file": "core_05_apex_flourishing_aim.md",
-      "anchor": "#flourishing-constitutional",
-      "line_start": 29,
-      "line_end": 115
-    },
-    {
-      "term": "Flourishing (principle layer)",
       "file": "core_01_a_values_principles.md",
       "anchor": "#flourishing",
       "line_start": 44,
@@ -4936,13 +4922,6 @@
       "line_end": 2781
     },
     {
-      "term": "Oversight",
-      "file": "core_05_apex_oversight_leg.md",
-      "anchor": "#oversight-constitutional",
-      "line_start": 30,
-      "line_end": 118
-    },
-    {
       "term": "Parent-System Relationship",
       "file": "core_05_band_participation.md",
       "anchor": "#parent-system-relationship-constitutional",
@@ -4955,13 +4934,6 @@
       "anchor": "#participant-standing-constitutional",
       "line_start": 2224,
       "line_end": 2287
-    },
-    {
-      "term": "Participation",
-      "file": "core_05_apex_participation_leg.md",
-      "anchor": "#participation-constitutional",
-      "line_start": 29,
-      "line_end": 119
     },
     {
       "term": "Press and Journalistic Activity",
@@ -5459,13 +5431,6 @@
       "anchor": "#systemic-materiality",
       "line_start": 2251,
       "line_end": 2299
-    },
-    {
-      "term": "Timeliness",
-      "file": "core_05_apex_timeliness_leg.md",
-      "anchor": "#timeliness-constitutional",
-      "line_start": 29,
-      "line_end": 114
     },
     {
       "term": "Timely Resolution",

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-17T12:38:29+00:00",
+  "generated_at": "2026-09-17T16:57:21+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -5343,6 +5343,13 @@
               "#1-definition-integrity-and-anti-evasion-constraints",
               "#2-non-compliance-from-observable-system-behavior",
               "#21-common-evasion-patterns"
+            ]
+          },
+          {
+            "file": "core_04_burden_traceability_verification.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-four-burden-traceability-and-verification"
             ]
           },
           {

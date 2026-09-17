@@ -312,7 +312,7 @@ Constitutional lane and functional separation
     **Primary assessment:** Reviewers must verify each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) or **CS-4 — Critical system stewardship**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-3** (*Institutional design, separation of powers, and authority custody*).
 <a id="constitutional-lane-and-functional-separation-c"></a>
 - **What must hold**
-  - **Primary failure:** A lane if it is undefined, merged, or staffed in a way that defeats required separation, auditability, challenge, succession, or binding role accountability; or a lane map that does not place the standing-record request / verify / enter-and-hold / contest seats, or places verification and entry, or verification and contest, in one seat without a published merged-hosting safeguard.
+  - **Primary failure:** A lane if it is undefined, merged, or staffed in a way that defeats required separation, auditability, challenge, succession, or binding role accountability; or a lane map that does not place the standing-record request / verify / enter-and-hold / contest seats, or places verification and entry, or verification and contest, in one seat, even under a published merged-hosting safeguard.
 
 <a id="contextual-and-systemic-evaluation-discipline"></a>
 Contextual and systemic evaluation discipline
