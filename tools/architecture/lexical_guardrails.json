@@ -191,6 +191,10 @@
     {
       "avoid": "two-tier constitutional and stakeholder governance",
       "prefer": "the two governance layers: Constitutional Contract Layer and Stakeholder System Participation; reserve two-tier for the CJS-1.8 definition contract"
+    },
+    {
+      "avoid": "right / rights (generic Chapter Six baseline protection sense)",
+      "prefer": "Rights Floor / Rights Floors when referring to the generic constitutional baseline protections that Chapter Six establishes; retain specific named rights such as Right to Challenge, Review, and Redress, right to privacy, challenge rights, rights collision, and similar established compounds"
     }
   ],
   "co_gloss_registry": [

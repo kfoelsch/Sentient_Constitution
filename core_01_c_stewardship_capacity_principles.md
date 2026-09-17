@@ -265,9 +265,9 @@ Those are failed tests for both kinds of steward.
 
 <br>
 
-*In plain terms: audit follows the work of the role, not the steward as a person. You are told what will be logged before you take the role. Outside the role, ordinary privacy holds. The log is not a standing record.*
+*In plain terms: audit follows the work of the role, not the steward as an individual. You are told what will be logged before you take the role. Outside the role, ordinary privacy holds. The log is not a standing record.*
 
-**Role-scoped observability:** What must be logged is the work of the role, not the steward as a person. [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) requires a reconstructable record of that work — the decision taken, the disclosure made or withheld, the instruction followed or refused, and who authorized it — for human and AI stewards alike. Four limits follow:
+**Role-scoped observability:** What must be logged is the work of the role, not the steward as an individual. [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) requires a reconstructable record of that work — the decision taken, the disclosure made or withheld, the instruction followed or refused, and who authorized it — for human and AI stewards alike. Four limits follow:
 
 - **Disclosed in advance:**
   - Before taking up a role, a steward must be told which of the role's actions will be logged and to whom the log is inspectable.
@@ -284,7 +284,7 @@ Those are failed tests for both kinds of steward.
 - **Logging is not a record:** The CS-4 §10 log:
   - is the trail used later to show who did what; it is not itself a finding
   - is not a [standing record](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) of verified help or harm, and writing it does not open one
-  - is not the reason people grant or deny a named pathway. Whoever decides whether someone may use a role pathway, a trust pathway, or another named pathway may not treat this log as a [standing record](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) of verified help or harm. That access decision uses such a record, or the ordinary state of having none ([Chapter Eight §2.1 Silence is the default](core_08_standing_assessment.md#21-silence-is-the-default)). The log exists so the work can be reconstructed later — including if a Chapter Eight record is opened — not so a work trail can be used to hand out or withhold those named pathways.
+  - is not the reason sentients grant or deny a named pathway. Whoever decides whether someone may use a role pathway, a trust pathway, or another named pathway may not treat this log as a [standing record](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) of verified help or harm. That access decision uses such a record, or the ordinary state of having none ([Chapter Eight §2.1 Silence is the default](core_08_standing_assessment.md#21-silence-is-the-default)). The log exists so the work can be reconstructed later — including if a Chapter Eight record is opened — not so a work trail can be used to hand out or withhold those named pathways.
   - may not be combined with logs or standing effects from other named pathways to make one reputation score, ranking, badge, or public profile ([Chapter Nine §7.1 Anti-aggregation of named-pathway effects](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects))
 
 The burden this duty places on a steward who carries consequential authority is real, and this Constitution does not pretend otherwise; [Chapter Nine §7.2 Plain statement of effect and burden](core_09_standing_integration.md#72-plain-statement-of-effect-and-burden) requires that it be stated plainly to the steward who bears it.
@@ -654,7 +654,7 @@ This section carries [Governance](core_05_band_accountability.md#governance) dis
 
 <br>
 
-*In plain terms: governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. The more power a role carries, the stronger those answerability and oversight duties must be — never weaker. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§9 Stewardship and Distributed Understanding](#9-stewardship-and-distributed-understanding). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic rights.*
+*In plain terms: governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. The more power a role carries, the stronger those answerability and oversight duties must be — never weaker. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§9 Stewardship and Distributed Understanding](#9-stewardship-and-distributed-understanding). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic Rights Floors.*
 
 **Governance as authorized structure.** At principle layer, [Governance](core_05_band_accountability.md#governance) is how already-authorized systems and institutions are directed and held accountable — as defined in **Chapter Five** and spelled out in operative detail under **Chapter Twelve** for the **Constitutional Contract Layer** and stakeholder participation layers in [Preamble](core_00_preamble.md#chapter-00-preamble--foundational-requirements). Authorized governance must advance the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
 
@@ -916,7 +916,7 @@ For stewards and operators under the [Two Constitutional Aims](core_00_preamble.
 
 <br>
 
-*In plain terms: people who run shared systems need real jobs with real skill and real say — not titles, suggestion boxes, or committees that cannot change anything. How those jobs are defined, who can grow into them, and how they are held to account is spelled out later. This subsection only says what those paths have to do: they have to make participation real, and the more that is actually at stake, the more real they have to be.*
+*In plain terms: sentients who run shared systems need real jobs with real skill and real say — not titles, suggestion boxes, or committees that cannot change anything. How those jobs are defined, who can grow into them, and how they are held to account is spelled out later. This subsection only says what those paths have to do: they have to make participation real, and the more that is actually at stake, the more real they have to be.*
 
 **Where the detail lives:**
 
@@ -949,7 +949,7 @@ Claims that a system, policy, or measure advances the [Two Constitutional Aims](
 
 Scoring tools and seats that look like participation still have to meet these limits:
 
-- **Instrumental measures:** Efficiency ratios and [Market Structure](core_05_band_accountability.md#market-structure-constitutional) discipline are tools for scoring a system, not the outcomes themselves. They **must remain** traceable to the outcomes they instrument — it must be possible to see what real result the number stands for — and they **must not** displace the Rights Floor in **Chapter Six** (the basic rights no sentient may be pushed below) or stronger adopter protections where those already apply.
+- **Instrumental measures:** Efficiency ratios and [Market Structure](core_05_band_accountability.md#market-structure-constitutional) discipline are tools for scoring a system, not the outcomes themselves. They **must remain** traceable to the outcomes they instrument — it must be possible to see what real result the number stands for — and they **must not** displace the Rights Floor in **Chapter Six** (the basic Rights Floors no sentient may be pushed below) or stronger adopter protections where those already apply.
 - **Symbolic participation:** A title, a suggestion box, or an advisory seat with no effect — nominal consultation, advisory theater, or influence without consequential effect — **must not** substitute for the participation [material stake](core_00_preamble.md#material-stake) requires.
 
 <a id="112-convenient-proxies-and-proxy-divergence"></a>
@@ -1096,7 +1096,7 @@ Concentrated or obscured control structures that materially undermine any of the
 
 - durable gatekeeping of critical interfaces — lasting control of the gateways others must pass through;
 - dependency-asymmetric switching barriers — one-sided dependency that makes leaving or switching costly or impractical;
-- opaque beneficial-control pathways — hidden routes by which the people who actually own, direct, or profit hold or exercise that control; and
+- opaque beneficial-control pathways — hidden routes by which the actors who actually own, direct, or profit hold or exercise that control; and
 - hidden or indirectly routed influence over governance, adjudication, or resource allocation.
 
 **Misaligned reward correction:**
@@ -1456,7 +1456,7 @@ Productive capacity does not count — and must not be used to justify:
 - concentrating wealth, power, control, or opportunity in ways that harm other sentients' wellbeing, agency, dignity, or ecological conditions — now or later;
 - degrading life-supporting natural systems, or pushing ecological or intergenerational costs onto others without mitigation, disclosure, and representation;
 - raw throughput, output volume, utilization, headcount, revenue, asset growth, market share, or similar proxies that no longer track real outcomes — including proxies that show "growth" while harm is exported to sentients, future generations, or the environment;
-- narrowing or delaying Chapter Six rights, including ecological preconditions under [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*);
+- narrowing or delaying Chapter Six Rights Floors, including ecological preconditions under [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*);
 - bypassing [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), including the [§6.1 decision-record discipline](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test);
 - weakening audit, contestability, or retrospective-review duties; or
 - the other prohibited override paths in [§7 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override), including shifting ecological, intergenerational, or distributional harm off the books that **Chapters Two through Four** require stay visible.

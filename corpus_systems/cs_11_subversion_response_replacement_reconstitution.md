@@ -54,7 +54,7 @@ It also operates with these operational clusters:
 - **CJS-3.11** (*distributed and proportional authority terms*);
 - **CJS-3.2** (*reflexive transparency and accountability terms*);
 - **CJS-3.13** (*procedural integrity and adjudication terms*).
-This file does not narrow constitutional rights or reviewability.
+This file does not narrow constitutional Rights Floors or reviewability.
 
 <a id="cs-11-2-landscape-compromise-declaration-and-activation"></a>
 ## CS-11.2 Landscape compromise declaration and activation

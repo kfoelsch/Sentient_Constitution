@@ -118,7 +118,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 *In plain terms: the set of sentients this Constitution actually governs — not a private club, brand, or guest list.*
 
 - **What it is**
-  - **In scope:** The collective of sentients governed by this Constitution. Chapter Six rights and **Article X-A** (*Non-Imposition and Consent in Association*) cooperative norms apply inside this community, consistent with [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
+  - **In scope:** The collective of sentients governed by this Constitution. Chapter Six Rights Floors and **Article X-A** (*Non-Imposition and Consent in Association*) cooperative norms apply inside this community, consistent with [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
   - **Out of scope:** private clubs, brands, guest lists, or other social circles that are not the set of sentients this Constitution actually governs.
 <a id="constitutional-community-a"></a>
 - **How to measure and assess**
@@ -2915,7 +2915,7 @@ See **Joint invocation and satisfaction**.
 
 - **What it is**
   - **In scope:** The record elements required when a binding stakeholder choice **turns on material conflict** among:
-    - constitutional rights;
+    - constitutional Rights Floors;
     - protections; or
     - structural duties —
     the **Stakeholder System Participation** record discipline read together with:

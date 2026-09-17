@@ -149,7 +149,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. Process Conflict Resolution](#6-process-conflict-resolution).
-- Owner floor: [Chapter Twelve Chapter One §4.1](core_12_governance.md#41-entitlement-and-eligibility) (*Political-equality floor for foundational constitutional choice*; *Durable political-voice floor*); [Article IX-C: Governance Participation and Voting Entitlement](core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- Owner floor: [Chapter Twelve §4.1 Entitlement and eligibility](core_12_governance.md#41-entitlement-and-eligibility) (*Political-equality floor for foundational constitutional choice*; *Durable political-voice floor*); [Article IX-C: Governance Participation and Voting Entitlement](core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
 - Cluster component: [*Constitutional Contract Layer and Foundational Constitutional Choice*](core_05_band_integrative.md#constitutional-contract-layer)
 - Read with: [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer), [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
 - Layer: **Constitutional Contract Layer (CCL)**. Distinct from **Stakeholder System Participation (SSP)** inside already-authorized systems.
@@ -167,7 +167,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     - the scope and durable terms of that authority.
 
     This belongs to the [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer).
-    - Owner: [Chapter Twelve Chapter One §4.1](core_12_governance.md#41-entitlement-and-eligibility).
+    - Owner: [Chapter Twelve §4.1 Entitlement and eligibility](core_12_governance.md#41-entitlement-and-eligibility).
     - Rights-layer pointer: [Article IX-C](core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*).
     - Applies under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Out of scope:**
@@ -191,7 +191,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
   - **Primary failure:** re-routing foundational questions as high-impact weighted choices under [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) rules so as to defeat equal participation at the authorization layer.
   - **Secondary failure:** nesting impact-weighting inside legitimacy-mechanism design so the mechanism escapes the political-equality floor.
   - **Tertiary failure:**
-    - use of loss-of-standing as a durable-political-voice disqualification vector that fails the Chapter Twelve Chapter One §8.1 *Durable political-voice floor* tests, except for final Chapter Ten anti-constitutional misconduct withholding pending full restitution; or
+    - use of loss-of-standing as a durable-political-voice disqualification vector that fails the Chapter Twelve §4.1 *Entitlement and eligibility* — *Durable political-voice floor* tests, except for final Chapter Ten anti-constitutional misconduct withholding pending full restitution; or
     - substrate-class, calendar-age, or lineage participation-weight factors ([Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion)).
 
 ---
@@ -335,7 +335,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
   - **Out of scope:**
     - mere proxy-score or compliance-indicator satisfaction when incentives still undermine constitutional outcomes; and
     - ordinary compensation or targets that do not predictably shape agent, operator, or component behavior.
-  - **Implementation routing:** Full system-level incentive analysis remains governed by adopted implementation requirements on incentive alignment and mechanism integrity, incorporated via Chapter Fifteen. This definition supplies tracing for constitutional compliance determinations that invoke incentives at the interdependent layer — it does not restate or relocate those operational rules. Operational expectations for materially impactful venues appear in:
+  - **Implementation routing:** Full system-level incentive analysis remains governed by adopted implementation requirements on incentive alignment and mechanism integrity, adopted under Chapter Fifteen and incorporated via Chapter Sixteen. This definition supplies tracing for constitutional compliance determinations that invoke incentives at the interdependent layer — it does not restate or relocate those operational rules. Operational expectations for materially impactful venues appear in:
     - `corpus_systems.md` (CS-4 — Critical system stewardship, including incentive-scaled governance); and
     - `corpus_institutions.md` (institutional stewardship and incentive alignment requirements).
 <a id="incentive-alignment-a"></a>
@@ -560,7 +560,7 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (corpus read as integrated whole); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim under incorporation and custody; [2. Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (binding source identification).
+- Downstream: Principles: [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (corpus read as integrated whole); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim under incorporation and custody; [8. Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (binding source identification).
 - Downstream: [Chapter Sixteen — Incorporation bridge](core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*which adopted **implementation text** text is binding, edition pinning, custody chain, and anti-drift discipline*).
 - Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) and [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint).
 - Read with: [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) (*positive domain→owner map*, sections 4–7).
@@ -587,7 +587,7 @@ See **Joint invocation and satisfaction**.
 
     **Primary assessment:** Ask whether the claimed binding text is the real, versioned Corpus — not an unofficial copy, draft, or process note treated as law. For compliance and adoption claims, identify the operative corpus edition and custody chain under the applicable [Corpus and Authority Stack cluster](core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster). Then:
     - distinguish incorporated binding text from explanatory or process artifacts; and
-    - apply Chapter Thirteen supremacy and Chapter Fourteen adoption conditions.
+    - apply Chapter Fourteen supremacy, Chapter Fifteen adoption conditions, and Chapter Sixteen incorporation and custody controls.
 <a id="corpus-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -603,7 +603,7 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [2. Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation); [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (Authority Stack vs Internal Hierarchy read-with Chapter One).
+- Downstream: Principles: [8. Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation); [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (Authority Stack vs Internal Hierarchy read-with Chapter One).
 - Downstream: [Chapter One — §8 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (integrated reading and last-resort hierarchy); [Chapter One §8.4 Constitutional Meaning Conflict Resolution](core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution) (*single conflict procedure, including incorporation layer*); [Chapter Fourteen — Internal Hierarchy for Adopters](core_14_expansion_supremacy.md#31-internal-hierarchy-for-adopters); [Chapter Sixteen](core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*incorporation bridge — custody, editions, adoption; not a second stack or conflict-order home*).
 - Downstream: [Chapter Six — Layer scope](core_06_rights_part_a.md#12-layer-scope); [Chapter Thirteen §4 Layer scope](core_13_non_regression.md#4-layer-scope) and [Chapter Fifteen §12 Layer scope](core_15_amendment_ratification.md#12-layer-scope) (*owner non-relocation applied locally*); chapter opening owner statements across the numbered `core_*` instrument.
 - Read with: [Corpus](core_05_band_integrative.md#corpus); [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) (*positive domain→owner map*, sections 4–7); [Auditability](core_05_band_oversight.md#auditability) and [Contestability](core_05_band_accountability.md#contestability) (*practical enforceability of binding claims*); [Preamble §3.3](core_00_preamble.md#33-governance-layers) and [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer) (*governance-layer anti-substitution*); [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint); **CJS-0.1** (*implementation topic router*).
@@ -718,7 +718,7 @@ See **Joint invocation and satisfaction**.
     Constitutional Constraints are classified into the following **kinds**, ordered from highest controlling force to lowest. Higher kinds control lower kinds: a lower kind may not narrow, redefine, or displace a higher kind within its valid scope. This entry classifies and routes kinds; owner-layer obligations remain on their canonical homes.
 
     1. **Non-negotiable principle constraints** — [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) as Chapter One's non-negotiable boundaries.
-    2. **Rights-Floor constraints** — Chapter Six minimums and non-contraction rules that prevent implementation, process, governance, emergency, transition, or private-ordering frames from narrowing protected rights.
+    2. **Rights-Floor constraints** — Chapter Six minimums and non-contraction rules that prevent implementation, process, governance, emergency, transition, or private-ordering frames from narrowing protected Rights Floors.
     3. **Restriction and limitation constraints** — [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), least-restrictive effective selection, time-boundedness, reviewability, and burden-minimization disciplines that govern rights-affecting restrictions.
     4. **Epistemic and disclosure constraints** — [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), disclosure limits, publication limits, protected-data and internal-state limits, and security-sensitive disclosure balance.
     5. **Evaluation constraints** — [Evaluation Completeness Constraint](core_05_band_oversight.md#evaluation-completeness-constraint), [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint), time-consistency, proxy-divergence invalidation, and Chapter Four burden, traceability, and verification requirements.

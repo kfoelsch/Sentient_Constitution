@@ -188,7 +188,7 @@ A repeated, unexplained refusal to recognize materially applicable shared standa
 
 When technical forums hear disputes about publicly governed textbooks, curriculum standards, or comparable educational materials, the question is evidence integrity. The forum should address the honesty of evidence presentation, methodological soundness, age-appropriate explanation, and administrative regularity.
 
-These forums must not act as general ideological censors or displace the constitutional rights and educational principles stated in `core_06_rights_part_a.md` and related **Chapter Six** materials.
+These forums must not act as general ideological censors or displace the constitutional Rights Floors and educational principles stated in `core_06_rights_part_a.md` and related **Chapter Six** materials.
 
 ## CF-10.13 Independence and composition
 

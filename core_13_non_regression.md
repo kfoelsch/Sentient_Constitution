@@ -47,10 +47,10 @@ No constitutional change is valid if it violates the non-regression requirements
 The foundational floor is established by:
 - Chapter One constraints
 - **Chapters Two through Four** integrity and verification requirements
-- rights in Chapter Six
+- Rights Floors in Chapter Six
 - legitimacy and stewardship obligations in Chapter Twelve
 
-Permitted expansion of protection, supremacy sequencing, ratification, and procedural validity are governed by **Chapters Twelve and Thirteen**.
+Permitted expansion of protection and supremacy sequencing are governed by **Chapter Fourteen**; ratification and procedural validity are governed by **Chapter Fifteen**.
 
 ### 1. Non-Regression Floor
 <details>
@@ -66,7 +66,19 @@ Permitted expansion of protection, supremacy sequencing, ratification, and proce
 
 *In plain terms: weakening **Safety (Constraint)**, **Truth (Constitutional Constraint)**, **Epistemic Integrity**, **Dignity and Equal Moral Standing**, **Meaningful Agency**, or other Chapter Six protections — including by tightening definitions, raising impossible proof bars, or carving emergencies so they eat the rule — counts as invalid even if the words "amendment" or "interpretation" are on the label.*
 
-No constitutional change is valid if it materially weakens core protections for any covered sentient class. Core protections include Safety (Constraint), Truth (Constitutional Constraint), Epistemic Integrity, and Dignity and Equal Moral Standing. They include Meaningful Agency and other rights protections stated in Chapter Six. Material weakening includes indirect narrowing through definitions, procedures, standing gates, verification barriers, or emergency carve-outs.
+No constitutional change is valid if it materially weakens core protections for any covered sentient class. Core protections include:
+- Safety (Constraint);
+- Truth (Constitutional Constraint);
+- Epistemic Integrity;
+- Dignity and Equal Moral Standing; and
+- Meaningful Agency and other Rights Floor protections stated in Chapter Six.
+
+Material weakening includes indirect narrowing through:
+- definitions;
+- procedures;
+- standing gates;
+- verification barriers; or
+- emergency carve-outs.
 
 <a id="2-test-1-substantive-non-regression-validity"></a>
 ### 2. Test 1 — Substantive Non-Regression Validity
@@ -81,7 +93,7 @@ No constitutional change is valid if it materially weakens core protections for 
 
 <br>
 
-*In plain terms: Test 1 is the checklist — if a proposal would gut Chapter One constraints, Chapters Two through Four integrity, Chapter Six rights, or Chapter Twelve legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion.*
+*In plain terms: Test 1 is the checklist — if a proposal would gut Chapter One constraints, Chapters Two through Four integrity, Chapter Six Rights Floors, or Chapter Twelve legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion.*
 
 A proposed amendment is invalid if it materially weakens any of the following:
 - Chapter One non-negotiable principle constraints
@@ -89,7 +101,12 @@ A proposed amendment is invalid if it materially weakens any of the following:
 - Chapter Six Rights Floors
 - Chapter Twelve legitimacy obligations
 
-Invalidity includes indirect narrowing through definitions, standing gates, evidentiary burden manipulation, observability degradation, or emergency re-labeling.
+Invalidity includes indirect narrowing through:
+- definitions;
+- standing gates;
+- evidentiary burden manipulation;
+- observability degradation; or
+- emergency re-labeling.
 
 ### 3. Anti-Evasion Clause and Constitutional-Misconduct Referral
 <details>
@@ -105,9 +122,21 @@ Invalidity includes indirect narrowing through definitions, standing gates, evid
 
 *In plain terms: calling a rollback "implementation guidance," burying it in metadata, or calling it an emergency patch does not save it if the real-world effect is the same as a bad amendment — and serious bad-faith conduct has to be flagged upstream to the bodies that actually own labels and sanctions, not relabeled here.*
 
-Repackaging a regressive change as interpretation guidance, implementation memo, adoption metadata, or emergency temporary measure does not cure invalidity. Invalidity remains where substantive constitutional effect is materially equivalent.
+Repackaging a regressive change as any of the following does not cure invalidity:
+- interpretation guidance;
+- implementation memo;
+- adoption metadata; or
+- emergency temporary measure.
 
-Where amendment or adoption conduct indicates serious misconduct, a mandatory referral record must be opened. **Serious misconduct** includes willful deceptive intent, knowing falsification or suppression, material rollback effect, and causally significant obstruction or degradation (read with [**Chapter Ten**, **section 2** (*Criteria set*)](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment), **criteria 1** **through** **4** on **change** or **record** pathways). **Forcible** or **nullification** misconduct routes through **criteria 5** and **6** of the same section where material. Those traits remain character descriptors and designation predicates; they do not move the numeric Violation Axis slot. The record must be transmitted to the canonical classification authorities; **this chapter does not itself classify**. **General contribution and violation measurement** (Contribution Axis and Violation Axis), including numeric slot assignment on the shared five-times LEQU bands from verified impact and separate axis records, is owned by the [**Chapter Eight §7 unified scale**](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) in [core_08_standing_assessment.md](core_08_standing_assessment.md). [**Chapter Nine**](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) owns standing effects and integration without moving either slot. For a final Chapter Eight **Violation Axis s = 7, s = 8, or s = 9** impact slot, **Chapter Ten** (*Anti-Constitutional Misconduct*) in [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) may add the corresponding **anti-constitutional-misconduct designation**, subject to its criteria, due-process safeguards, and cross-chapter discipline, as referenced under **Chapter Eight** [section 5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels) and the [Chapter Nine §2 gateway](core_09_standing_integration.md#2-integration-record-and-decision-order). This chapter issues **referral and review triggers only**; it does not assign or move a numeric slot or attach, narrow, or expand canonical designations.
+Invalidity remains where substantive constitutional effect is materially equivalent.
+
+Where amendment or adoption conduct indicates serious misconduct, a mandatory referral record must be opened. **Serious misconduct** includes the following (read with [**Chapter Ten**, **section 2** (*Criteria set*)](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment), **criteria 1** **through** **4** on **change** or **record** pathways):
+- willful deceptive intent;
+- knowing falsification or suppression;
+- material rollback effect; and
+- causally significant obstruction or degradation.
+
+**Forcible** or **nullification** misconduct routes through **criteria 5** and **6** of the same section where material. Those traits remain character descriptors and designation predicates; they do not move the numeric Violation Axis slot. The record must be transmitted to the canonical classification authorities; **this chapter does not itself classify**. **General contribution and violation measurement** (Contribution Axis and Violation Axis), including numeric slot assignment on the shared five-times LEQU bands from verified impact and separate axis records, is owned by the [**Chapter Eight §7 unified scale**](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) in [core_08_standing_assessment.md](core_08_standing_assessment.md). [**Chapter Nine**](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) owns standing effects and integration without moving either slot. For a final Chapter Eight **Violation Axis s = 7, s = 8, or s = 9** impact slot, **Chapter Ten** (*Anti-Constitutional Misconduct*) in [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) may add the corresponding **anti-constitutional-misconduct designation**, subject to its criteria, due-process safeguards, and cross-chapter discipline, as referenced under **Chapter Eight** [section 5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels) and the [Chapter Nine §2 gateway](core_09_standing_integration.md#2-integration-record-and-decision-order). This chapter issues **referral and review triggers only**; it does not assign or move a numeric slot or attach, narrow, or expand canonical designations.
 
 <a id="4-scope-limit-and-layer-discipline"></a>
 <a id="4-layer-scope"></a>
@@ -126,7 +155,11 @@ Where amendment or adoption conduct indicates serious misconduct, a mandatory re
 
 *In plain terms: Chapter Thirteen can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; numeric standing measurement belongs to the Chapter Eight §7 unified scale, and Chapter Ten only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.*
 
-This chapter may impose immediate validity-protection controls. Those controls include heightened review, provisional suspension where materially necessary, [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and remediation publication.
+This chapter may impose immediate validity-protection controls. Those controls include:
+- heightened review;
+- provisional suspension where materially necessary;
+- [Evidence Preservation](core_05_band_oversight.md#evidence-preservation); and
+- remediation publication.
 
 Under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#owner-non-relocation), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer — including final offense classification, sanction taxonomy, standing measurement, adjudicative workflow, or procedural amendment validity owned by Chapters Eight, Ten, Eleven, and Fifteen respectively. Slot-flavored or classification-flavored language in this chapter or in **Chapter Fifteen** operates only as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
 

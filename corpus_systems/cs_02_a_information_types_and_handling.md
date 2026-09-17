@@ -23,7 +23,7 @@ Requirements and limitations scale proportionally with system classification and
 <a id="cs-2-1-purpose-and-scope"></a>
 ## CS-2.1 Purpose and scope
 
-*In plain terms: Chapter Six rights need trustworthy data handling; CS-2 is the systems rulebook that makes typing, access defaults, integrity, identity self-ownership, and Class A/B/C continuity real.*
+*In plain terms: Chapter Six Rights Floors need trustworthy data handling; CS-2 is the systems rulebook that makes typing, access defaults, integrity, identity self-ownership, and Class A/B/C continuity real.*
 
 **Sentient Constitution Chapter Six** (Articles **I**–**XXV**; presentation **Parts A–D**) states Foundational Rights that depend on strong, reproducible data handling — including info-sphere, audit, and comprehensibility duties (e.g., **Articles XIV**, **XV**, and **XX**). CS-2 is the systems-layer implementation of those duties.
 

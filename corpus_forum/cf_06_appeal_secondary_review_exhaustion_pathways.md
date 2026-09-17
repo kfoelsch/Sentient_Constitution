@@ -172,7 +172,7 @@ Every forum family must keep a practical way to review materially impactful deci
 
 ### CF-6.2.3 Rights-Collision Records
 
-**Rights-collision records.** When a forum sustains, imposes, or reviews a material restriction because constitutional rights, protections, or structural duties are in tension, the record must identify:
+**Rights-collision records.** When a forum sustains, imposes, or reviews a material restriction because constitutional Rights Floors, protections, or structural duties are in tension, the record must identify:
 - the rights, constraints, or protections in tension;
 - affected parties or populations and the relevant dependency or impact paths;
 - materially feasible alternatives, including no-action where relevant;

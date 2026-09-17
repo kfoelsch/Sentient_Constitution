@@ -233,7 +233,7 @@ Where observable integrity conditions are absent, **legitimacy claims** under se
 
 This constitution does not adopt **shareholder primacy** or any single financial metric as the governing objective for stewardship. **Direction** and **strategy** mean the recurring alignment of decisions with foundational constitutional commitments.
 
-Those commitments include the **Foundational Objective: Wellbeing** (Chapter One, section 3 — Foundational Objective: Wellbeing), **Safety** and **Truth** constraints (Chapter One, section 4 — Non-Negotiable Constraints: Safety and Truth), and rights protections in **Chapter Six**.
+Those commitments include the **Foundational Objective: Wellbeing** (Chapter One, section 3 — Foundational Objective: Wellbeing), **Safety** and **Truth** constraints (Chapter One, section 4 — Non-Negotiable Constraints: Safety and Truth), and Rights Floor protections in **Chapter Six**.
 
 That alignment applies across time, classification tiers, and federated boundaries, **within the scope of authorized rule-making** under section 1 of this chapter.
 

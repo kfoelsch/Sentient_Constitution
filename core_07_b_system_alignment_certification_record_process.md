@@ -40,7 +40,7 @@ Forum-supervised certification must produce a bounded **System Certification Rec
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Part A §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*certification purpose*); [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*whole-system evaluation factors*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*domain evaluation outputs reflected on the record*); [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) (*Chapter Five meaning*); [§12](#12-transparency-auditability-and-contestability) (*transparency, auditability, and contestability*); [§14](#14-supervisory-sequence-and-contestability-chain) (*supervisory sequence and contestability chain*).
+- Upstream: [Part A §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*certification purpose*); [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*whole-system evaluation factors*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*domain evaluation outputs reflected on the record*); [Chapters Two through Four](core_04_burden_traceability_verification.md#chapter-four-burden-traceability-and-verification) (*definition, burden, traceability, and verification substrate*); [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) (*Chapter Five meaning*); [§12](#12-transparency-auditability-and-contestability) (*transparency, auditability, and contestability*); [§14](#14-supervisory-sequence-and-contestability-chain) (*supervisory sequence and contestability chain*).
 - Downstream: [§15](#15-relationship-to-standing) (*verified-input gate*); [Chapter Eleven](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum-supervised certification process*).
 - Subsections: [§11.1](#111-minimum-record-contents) (*minimum record contents*); [§11.2](#112-cross-section-record-requirements) (*cross-section record requirements*); [§11.3](#113-rights-floor-record-evaluation-non-substitution) (*Rights-Floor record evaluation — non-substitution*).
 
@@ -120,7 +120,7 @@ A certification record that omits a required cross-section output above is incom
 
 #### 11.3 Rights-Floor record evaluation (non-substitution)
 
-*In plain terms: when a system materially touches basic rights, the record must show that those rights were actually evaluated — not that the operator checked a compliance box or filed a self-attestation.*
+*In plain terms: when a system materially touches basic Rights Floors, the record must show that those Rights Floors were actually evaluated — not that the operator checked a compliance box or filed a self-attestation.*
 
 When the materiality triggers below apply to a **materially impactful system**, the certification record must show **evaluation of the Rights Floor**, not operator assertion or paper compliance alone:
 
