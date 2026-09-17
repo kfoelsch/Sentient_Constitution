@@ -54,7 +54,7 @@ A Rights Floor is a minimum guarantee. It is the set of protections that must re
 - **Flourishing:** sentients can actually access and use these protections in real life.
 - **Continuity:** these protections last, do not get rolled back, and can be fixed if they break.
 
-To legitimately pursue these Rights Floors, four principles must be followed, with the level of effort matching what is truly at stake — the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+To legitimately pursue these Rights Floors, four duties must be followed, with the level of effort matching what is truly at stake — the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
 
 - **Participation**
 - **Oversight**
@@ -77,14 +77,14 @@ These background rules apply to every article in this chapter unless a specific 
 
 The Rights Floor must work in real life, not just on paper:
 
-- **Survival essentials** — food, water, shelter, and whatever environment you need to keep going — are the clearest example.
+- **Survival essentials** under **Article III-A** (*Survival*) — food, water, shelter, an operating environment, and the other substrate-agnostic inputs a sentient needs to keep going — are the clearest example.
 - **Flourishing** means sentients can actually get and use those essentials.
 - **Continuity** means the supply stays reliable, does not get rolled back, and keeps going over time — especially when shared systems are in charge of delivery.
 
 Enforcement depends on real checks, not just rules on paper:
 
 - **Systems get verified before they go live:** [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) make sure materially impactful systems actually meet the rules before anyone relies on them at scale.
-- **Sentients can push back on certification decisions:** Chapter Seven also provides ways to contest the record, demand accessibility review, supervise the process, and challenge alignment decisions that do not hold up.
+- **Sentients can push back on certification decisions:** Chapter Seven also provides ways to contest the record, demand stakeholder and accessibility review, keep supervisory sequencing in place, and challenge alignment decisions that do not hold up.
 - **You can challenge and audit unreliable systems:** **Article XII** (*Right to Reliable and Trustworthy Systems*) gives sentients the right to challenge and audit systems that affect them.
 - **Bureaucracy cannot block survival access:** **Article XVIII-B** (*Contestability and Proportional Restriction Limits*) prevents standing limits from becoming a back door that cuts sentients off from survival-critical protections.
 - **Chapters Seven through Eleven form the practical pipeline:** Together they supply the key processes for contestability, verified classification, forum supervision, and timely remedy.
@@ -139,7 +139,7 @@ This rule covers all of Chapter Six — Articles **I** through **XXVI**:
 Every sentient depends on Earth's physical environment and living systems. Protecting and restoring them is therefore a shared constitutional interest. This Article states the Rights Floor for environmental survival under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
 - **Flourishing:** sentients retain access to life-supporting conditions.
-- **Continuity:** keeping ecosystems intact, sustainable, and repairable across generations — especially when real harm would rob future sentients of a decent life.
+- **Continuity:** keeping ecosystems intact, sustainable, and repairable across generations — especially when material harm would rob future sentients of a decent life.
 
 Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
 
@@ -177,9 +177,9 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 *In plain terms: the planet's life-support systems must be protected as a matter of their own survival, not only because sentients need them. Animals get a basic cruelty and welfare floor. Creatures that show strong communication or cognition get stronger habitat and health protections. And when it is unclear whether something counts as sentient, it gets the benefit of the doubt — full Chapter Six protection while the question is fairly resolved.*
 
 - **Environmental preconditions, integrity, and sustainability:** These Chapter Five definitions are operative here.
-  - Natural systems that keep life going — air, water, soil, climate, biodiversity — have their own integrity interests. Those interests count alongside sentient interests when interpreting this Article.
-  - Real harm that breaks **Environmental Preconditions**, **Ecological Integrity**, or **Sustainability** rules is non-compliant.
-  - Harm that also breaks environmental rules in the adopter's [instrument of adoption](core_15_amendment_ratification.md#102-instrument-of-adoption) or in incorporated implementation text is non-compliant too.
+  - Natural systems that keep life going — air, water, soil, climate, biodiversity — hold continuity and integrity interests of their own. Those interests count alongside sentient interests when interpreting this Article.
+  - Material harm that breaks **Environmental Preconditions**, **Ecological Integrity**, or **Sustainability** rules is non-compliant.
+  - Harm that also breaks environmental rules in the adopter's [instrument of adoption](core_15_amendment_ratification.md#102-instrument-of-adoption) or in incorporated implementation text within adoption scope is non-compliant too.
 - **Animal life:** [Animal Life](core_05_band_participation.md#animal-life-constitutional) sits between plain environmental protection and full sentient Rights Floors.
   - It sets a minimum floor against cruelty and for basic welfare, applied under **Sentience Non-Exclusion** when welfare-like harm is in play.
   - It is not a substitute for stronger protections or for a sentience-status hearing when the facts suggest the creature may be sentient.
@@ -187,14 +187,14 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
     - That review routes to **Article V-E** (*Sentience-Status Adjudication Floor*) under contested-sentient default inclusion.
     - The review does not itself prove sentience; it opens the assessment process.
 - **Elevated communicative life:** [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) sits between Animal Life and full Chapter Six protection.
-  - It keeps the Animal Life cruelty and welfare floor and adds stronger habitat and environmental-health protections under **Sentience Non-Exclusion** when strong communicative or cognitive signs are in play.
+  - It keeps the Animal Life cruelty and welfare floor and adds stronger protections for habitat or operating-environment health under **Sentience Non-Exclusion** when strong communicative or cognitive signs are in play.
   - It is not a substitute for sentience-status adjudication when the facts suggest possible sentience.
   - If real signs of communication or cognition point to possible sentience, the operator or steward must open a sentience-status review on a clear timeline — not leave the creature parked in habitat-priority status forever, and not hide behind a species list.
     - That review routes to **Article V-E** (*Sentience-Status Adjudication Floor*) under contested-sentient default inclusion.
     - The review does not itself prove sentience; it opens the assessment process.
 - **Contested-sentient life:** [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) applies when it is unclear, disputed, or actively being decided whether a being is sentient.
   - The question goes to the [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) procedure under **Article V-E** (*Sentience-Status Adjudication Floor*).
-  - While the question is open, the default is inclusion: the being stays under the Chapter Six Rights Floor unless the party trying to withhold or narrow protection meets the required burden of proof.
+  - While the question is open, the default is inclusion: the being stays under the Chapter Six Rights Floor unless the party trying to withhold, narrow, or revoke protection meets the required burden of proof.
 - **How these protections fit together:** All of the following may apply at the same time:
   - [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing)
   - [Animal Life](core_05_band_participation.md#animal-life-constitutional)
@@ -229,7 +229,7 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 *In plain terms: environmental costs tied to activities and systems—including upstream and downstream links—should be counted and reported honestly enough for comparison and audit when applicable transparency rules require it; this subsection supplies the shared vocabulary and integrity standards for doing that, but mandatory cuts or numeric caps come from other provisions or instruments, not from this subsection acting alone.*
 
 - **What counts as an ecological footprint:** **Ecological Footprint** in Chapter Five is the shared way to measure how much environmental pressure a sentient, system, product, or service puts on the planet — including energy, materials, emissions, land use, and related pressures. It covers the full chain, from raw inputs through use to disposal, and it is used to disclose, compare, and discuss how to shrink that pressure.
-  - **When you must measure and report it:**
+  - **When this applies:**
     - When environmental burdens are at stake under **Article I** (*Environmental Survival*).
     - When another rights rule — such as **Article XV-C** (*Verification Accessibility*) or related implementation rules — requires footprint transparency.
     - This Article does not pick the accounting method, verification steps, or numeric targets; the rule that creates the duty does.
@@ -310,10 +310,10 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
   
   Decision records must openly state uncertainty, assumptions, evidence limits, disagreement, and material gaps.
 - **Present benefit limit:** Present benefit does not justify disproportionate exposure of future sentients, systems critical to ecological recovery, or life-supporting ecological conditions to civilization-scale or survival-critical harm.
-- **Named measures:** Anyone seeking authorization, continuation, or expansion under this Article must name specific reduction, cap, or interruption measures in their [instrument of adoption](core_15_amendment_ratification.md#102-instrument-of-adoption) or in incorporated implementation text — including harm to the climate system as an [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional) factor. Those measures must match the scale of the risk.
+- **Named measures:** Anyone seeking authorization, continuation, or expansion under this Article must name specific reduction, cap, or interruption measures in their [instrument of adoption](core_15_amendment_ratification.md#102-instrument-of-adoption) or in incorporated implementation text within adoption scope — including harm to the climate system as an [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional) factor. Those measures must match the scale of the risk.
   - This Article still does not set a numeric target.
   - **Article I-B** (*Ecological Footprint and Transparency*) remains the footprint-measurement rule only; it does not by itself require reduction.
-  - Continuing without those named measures, while a credible risk pathway remains open and unaddressed, is non-compliant.
+  - Continuing without those named measures, while a credible risk pathway remains open, is non-compliant.
 
 ### Article II: Material Stewardship and Durable-Use Integrity
 
