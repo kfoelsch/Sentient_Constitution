@@ -178,7 +178,7 @@ Functional independence is judged by actual authority and control, not labels. O
 - a conflicted record holder must pass that record, with its full audit trail, to the published substitute rather than decide the conflict or abandon custody; and
 - recusal removes authority over the act; it does not transfer the seat to the requester, the requester's reporting line, or whoever is nearest.
 
-Apply [Material Control Line](core_05_band_accountability.md#material-control-line) to the particular act. Shared infrastructure, administrative support, or appointment history does not alone establish the line, but those arrangements must not defeat independent judgment in practice.
+Trace the [Material Control Line](core_05_band_accountability.md#material-control-line) for the particular act. Shared infrastructure, administrative support, or appointment history does not alone establish the line, but those arrangements must not defeat independent judgment in practice.
 
 Independence is not satisfied by a second signature, a nominal committee, an internal label, or a tool-generated attestation where the supposed check lacks authority, evidence access, freedom from material control, or a real ability to decline and route.
 
@@ -206,7 +206,7 @@ Every adopter that takes materially binding acts must maintain a published, audi
 - the substitute for an absent, excluded, captured, or conflicted holder; and
 - the independent route when no qualified substitute is available.
 
-An unplaced, vacant, or conflicted seat is a governance defect to log and correct. It does not pass automatically to the initiating seat, an interested party, an operator, or a superior in their [Material Control Line](core_05_band_accountability.md#material-control-line). Until corrected, the act routes to the published substitute or independent path. If the required independent seat cannot be supplied, the act does not acquire constitutional validity merely because delay is inconvenient.
+An unplaced, vacant, or conflicted seat is a governance defect to log and correct. It does not pass automatically to the initiating seat, an interested party, an operator, or a superior in their [Material Control Line](core_05_band_accountability.md#material-control-line). Until corrected, the act routes to the published substitute or independent path. You can't bypass the independence requirement just because you're in a hurry.
 
 Delegation preserves the same seat boundary, evidence duties, record, and clock. It does not create a new seat, merge seats, or allow a delegate to do what the delegating seat could not do.
 
